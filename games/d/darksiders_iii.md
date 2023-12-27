@@ -15,11 +15,11 @@ Number of Ratings: 116  (23.09.2022)
 | Just the start | 53.00% | ~116 |
 | Perfect Storm | 48.00% | ~105 |
 | All That Glitters | 47.00% | ~102 |
-| Enhance! | 44.00% | ~96 |
+| Enhance! | 45.00% | ~98 |
 | One Of the Chosen | 43.00% | ~94 |
 | Devil's in the Details | 40.00% | ~87 |
 | Throne Potato | 39.00% | ~85 |
-| Five's a Crowd | 38.00% | ~83 |
+| Five's a Crowd | 39.00% | ~85 |
 | 25 to Life | 38.00% | ~83 |
 | Soul Harvester | 37.00% | ~81 |
 | Unshakable Fortitude | 35.00% | ~76 |
@@ -40,14 +40,14 @@ Number of Ratings: 116  (23.09.2022)
 | Demon Meddler | 20.00% | ~44 |
 | Seeing Red | 18.00% | ~39 |
 | Egomaniac | 17.00% | ~37 |
-| Protector of Humanity | 14.00% | ~31 |
-| Everybody Wants to Rule the World | 14.00% | ~31 |
+| Protector of Humanity | 15.00% | ~33 |
+| Everybody Wants to Rule the World | 15.00% | ~33 |
 | Community Outreach | 13.00% | ~28 |
 | A Parting Gift | 12.00% | ~26 |
 | Unbreakable Will | 11.00% | ~24 |
+| Path of the Horseman | 11.00% | ~24 |
 | Take it to the Limit | 11.00% | ~24 |
 | Holy Keeper | 10.00% | ~22 |
-| Path of the Horseman | 10.00% | ~22 |
 | Demon Keeper | 9.00% | ~20 |
 | Soul Reaper | 8.00% | ~17 |
 | Humanitarian | 8.00% | ~17 |

@@ -6,19 +6,19 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 9.00% | ~13,306 |
-| Titan's First Steps | 9.00% | ~13,306 |
+| Sponsored by Argon | 9.00% | ~13,307 |
+| Titan's First Steps | 9.00% | ~13,307 |
 | Basic in Bulk | 8.00% | ~11,828 |
 | Tinkle of Coins | 8.00% | ~11,828 |
 | Disintermediation | 6.00% | ~8,871 |
 | It's Free Real Estate | 6.00% | ~8,871 |
 | Budding Merchant | 6.00% | ~8,871 |
 | Capitalism Ho! | 6.00% | ~8,871 |
-| One Easy Payment | 5.00% | ~7,392 |
-| Some Assembly Required | 5.00% | ~7,392 |
-| Another Satisfied Customer | 5.00% | ~7,392 |
-| Pretty Penny | 5.00% | ~7,392 |
-| Own the Means of Production | 5.00% | ~7,392 |
+| One Easy Payment | 5.00% | ~7,393 |
+| Some Assembly Required | 5.00% | ~7,393 |
+| Another Satisfied Customer | 5.00% | ~7,393 |
+| Pretty Penny | 5.00% | ~7,393 |
+| Own the Means of Production | 5.00% | ~7,393 |
 | The Daily Grind | 4.00% | ~5,914 |
 | Bounty Hunters | 4.00% | ~5,914 |
 | Flooding the Market | 4.00% | ~5,914 |
@@ -26,24 +26,24 @@ Number of Ratings: 12,664  (23.09.2022)
 | One-Armed Bandit | 4.00% | ~5,914 |
 | Dungeon Imports | 4.00% | ~5,914 |
 | Through Repetition, Perfection | 4.00% | ~5,914 |
-| On the Path to Greatness | 3.00% | ~4,435 |
-| Ascended | 3.00% | ~4,435 |
-| Research & Development | 3.00% | ~4,435 |
-| Vanity, Verily | 3.00% | ~4,435 |
-| Fated Encounters | 3.00% | ~4,435 |
-| Blank Page Syndrome | 3.00% | ~4,435 |
-| Demand for Supplies | 3.00% | ~4,435 |
-| Power of Love | 3.00% | ~4,435 |
-| Efficient Floor Space | 3.00% | ~4,435 |
-| Flawless Fusion | 3.00% | ~4,435 |
-| Gem Expert | 3.00% | ~4,435 |
-| Gild-Gotten Goods | 3.00% | ~4,435 |
-| Helping Hand | 3.00% | ~4,435 |
-| Accomplished Merchant | 3.00% | ~4,435 |
-| Natural 20 | 3.00% | ~4,435 |
-| Did we pack lunch? | 3.00% | ~4,435 |
-| Magical Harmony | 3.00% | ~4,435 |
-| Arcane Industries | 3.00% | ~4,435 |
+| On the Path to Greatness | 3.00% | ~4,436 |
+| Ascended | 3.00% | ~4,436 |
+| Research & Development | 3.00% | ~4,436 |
+| Vanity, Verily | 3.00% | ~4,436 |
+| Fated Encounters | 3.00% | ~4,436 |
+| Blank Page Syndrome | 3.00% | ~4,436 |
+| Demand for Supplies | 3.00% | ~4,436 |
+| Power of Love | 3.00% | ~4,436 |
+| Efficient Floor Space | 3.00% | ~4,436 |
+| Flawless Fusion | 3.00% | ~4,436 |
+| Gem Expert | 3.00% | ~4,436 |
+| Gild-Gotten Goods | 3.00% | ~4,436 |
+| Helping Hand | 3.00% | ~4,436 |
+| Accomplished Merchant | 3.00% | ~4,436 |
+| Natural 20 | 3.00% | ~4,436 |
+| Did we pack lunch? | 3.00% | ~4,436 |
+| Magical Harmony | 3.00% | ~4,436 |
+| Arcane Industries | 3.00% | ~4,436 |
 | A Notch Above the Rest | 2.00% | ~2,957 |
 | Cream of the Crop | 2.00% | ~2,957 |
 | Top of the World | 2.00% | ~2,957 |
@@ -99,12 +99,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 2.00% | ~2,957 |
 | Complete Monopoly | 2.00% | ~2,957 |
 | King's Blade | 2.00% | ~2,957 |
-| The Free Encyclopedia | 1.00% | ~1,478 |
-| Fillin' the Bin | 1.00% | ~1,478 |
-| Thank You Tom Nook | 1.00% | ~1,478 |
-| Jackpot! | 1.00% | ~1,478 |
-| Eternal Crusade | 1.00% | ~1,478 |
-| Economy of Scarce | 1.00% | ~1,478 |
+| The Free Encyclopedia | 1.00% | ~1,479 |
+| Fillin' the Bin | 1.00% | ~1,479 |
+| Thank You Tom Nook | 1.00% | ~1,479 |
+| Jackpot! | 1.00% | ~1,479 |
+| Eternal Crusade | 1.00% | ~1,479 |
+| Economy of Scarce | 1.00% | ~1,479 |
 | The Greatest Grind | 0.90% | ~1,331 |
 | All or Nothing! | 0.90% | ~1,331 |
 | Anything not Nailed Down | 0.80% | ~1,183 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~591 |
 | Capitalist Camaraderie | 0.20% | ~296 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147,846 (Ranked 83)  
+Progressed: 147,853 (Ranked 83)  
 Completed: 336 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -370,7 +370,7 @@ Completed: 336 (0.23%) (Ranked 267)
 | 2023-12-24 | 147,460 | 333 |
 | 2023-12-25 | 147,608 | 334 |
 | 2023-12-26 | 147,830 | 336 |
-| 2023-12-27 | 147,846 | 336 |
+| 2023-12-27 | 147,853 | 336 |
 ## Awards
 Max (Great for Beginners): 4,917  (Ranked 76)  
 Sum: 27,823 (Ranked 51)  

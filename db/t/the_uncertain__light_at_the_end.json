@@ -83,7 +83,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 613,
+  "EOS_Progressed": 614,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
@@ -1138,6 +1138,11 @@
       "Time": "2023-12-26T19:04:39.4937303+00:00",
       "NumProgressed": 613,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-27T02:23:55.5749022+00:00",
+      "NumProgressed": 614,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1171,9 +1176,9 @@
       "ID": "Caring_Soul",
       "SetID": "ek310c",
       "Name": "Bosom Buddies",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 184
     },
     {
       "ID": "Doors_Closing",
@@ -1229,15 +1234,15 @@
       "Name": "U Mad Bro?",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Healthy_Child",
       "SetID": "ek310c",
       "Name": "Bundle of Joy",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 313
+      "UsersEstimate": 307
     },
     {
       "ID": "Hitman",
@@ -1380,7 +1385,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 613,
+      "Progressed": 614,
       "Completed": 6
     }
   ],
@@ -1388,8 +1393,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-12-27T01:48:46.6709507+00:00",
+  "LastChanged_Achievements": "2023-12-27T02:23:55.5749017+00:00",
   "LastUpdate_AppInfo": "2023-12-23T18:56:53.9595967+00:00",
-  "LastUpdate_Ratings": "2023-12-27T01:48:01.5702489+00:00",
-  "LastUpdate_Achievements": "2023-12-27T01:48:46.6709763+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:23:11.8245317+00:00",
+  "LastUpdate_Achievements": "2023-12-27T02:23:55.5749205+00:00"
 }

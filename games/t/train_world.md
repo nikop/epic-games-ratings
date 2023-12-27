@@ -4,16 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Steam Power | 9.00% | ~2 |
 | Capital Connection | 5.00% | ~1 |
 | Billionaire Club | 5.00% | ~1 |
-| Steam Power | 5.00% | ~1 |
+| Connection Up | 5.00% | ~1 |
+| Industrial Revolution | 5.00% | ~1 |
 | World Explorer | 0.00% | ~0 |
 | Mass Upgrade | 0.00% | ~0 |
 | Trainee | 0.00% | ~0 |
 | Diesel Dream | 0.00% | ~0 |
 | Electric Avenue | 0.00% | ~0 |
 | Super Long Train | 0.00% | ~0 |
-| Connection Up | 0.00% | ~0 |
 | Cross Country | 0.00% | ~0 |
 | Busy Station | 0.00% | ~0 |
 | Five Alive | 0.00% | ~0 |
@@ -52,7 +53,6 @@
 | Long Train | 0.00% | ~0 |
 | Connections master | 0.00% | ~0 |
 | City Link | 0.00% | ~0 |
-| Industrial Revolution | 0.00% | ~0 |
 | Double Trouble | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 22 (Ranked 604)  

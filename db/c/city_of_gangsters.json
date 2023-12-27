@@ -976,7 +976,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 358712,
+  "EOS_Progressed": 358716,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1294,
   "EOS_NewCompleters": 0,
@@ -29551,6 +29551,11 @@
       "Time": "2023-12-27T01:49:39.4758274+00:00",
       "NumProgressed": 358712,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-27T02:24:44.5641521+00:00",
+      "NumProgressed": 358716,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -29578,7 +29583,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43045
+      "UsersEstimate": 43046
     },
     {
       "ID": "ach004",
@@ -29618,7 +29623,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43045
+      "UsersEstimate": 43046
     },
     {
       "ID": "ach009",
@@ -29706,7 +29711,7 @@
       "Name": "Considerable Clams",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14348
+      "UsersEstimate": 14349
     },
     {
       "ID": "ach020",
@@ -29770,7 +29775,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 165008
+      "UsersEstimate": 165009
     },
     {
       "ID": "ach028",
@@ -29778,7 +29783,7 @@
       "Name": "Gin Joint",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 14348
+      "UsersEstimate": 14349
     },
     {
       "ID": "ach029",
@@ -29786,7 +29791,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39458
+      "UsersEstimate": 39459
     },
     {
       "ID": "ach030",
@@ -29810,7 +29815,7 @@
       "Name": "An Affront to the Enemy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 14348
+      "UsersEstimate": 14349
     },
     {
       "ID": "ach033",
@@ -29866,7 +29871,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35871
+      "UsersEstimate": 35872
     },
     {
       "ID": "ach040",
@@ -29906,7 +29911,7 @@
       "Name": "Friends from Back Home",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 14348
+      "UsersEstimate": 14349
     },
     {
       "ID": "ach045",
@@ -29962,7 +29967,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39458
+      "UsersEstimate": 39459
     },
     {
       "ID": "ach052",
@@ -29986,7 +29991,7 @@
       "Name": "Bees Knees Bootlegger",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 14348
+      "UsersEstimate": 14349
     },
     {
       "ID": "ach055",
@@ -30026,7 +30031,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35871
+      "UsersEstimate": 35872
     },
     {
       "ID": "ach060",
@@ -30090,7 +30095,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 57394
+      "UsersEstimate": 57395
     },
     {
       "ID": "ach069",
@@ -30138,7 +30143,7 @@
       "Name": "Half Century Mark",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 14348
+      "UsersEstimate": 14349
     },
     {
       "ID": "ach075",
@@ -30201,7 +30206,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 358712,
+      "Progressed": 358716,
       "Completed": 7
     }
   ],
@@ -30209,8 +30214,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-12-27T01:45:30.8251994+00:00",
-  "LastChanged_Achievements": "2023-12-27T01:49:39.475827+00:00",
+  "LastChanged_Achievements": "2023-12-27T02:24:44.5641515+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:34.5692536+00:00",
-  "LastUpdate_Ratings": "2023-12-27T01:45:30.8252+00:00",
-  "LastUpdate_Achievements": "2023-12-27T01:49:39.4760037+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:20:36.42876+00:00",
+  "LastUpdate_Achievements": "2023-12-27T02:24:44.5643799+00:00"
 }

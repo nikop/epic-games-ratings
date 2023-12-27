@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -1730,9 +1730,9 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 244
+      "UsersEstimate": 248
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -1841,8 +1841,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-27T01:49:38.2220125+00:00",
+  "LastChanged_Achievements": "2023-12-27T02:24:43.308943+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:11.7079702+00:00",
-  "LastUpdate_Ratings": "2023-12-27T01:43:38.7852409+00:00",
-  "LastUpdate_Achievements": "2023-12-27T01:49:38.2220312+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:18:52.7950126+00:00",
+  "LastUpdate_Achievements": "2023-12-27T02:24:43.3089664+00:00"
 }

@@ -23,8 +23,8 @@
 | Trap Master | 55.00% | ~355 |
 | Hard Work | 53.00% | ~342 |
 | The Big Eaty | 53.00% | ~342 |
+| YOU SHALL NOT PASS! | 50.00% | ~323 |
 | “… like son” | 50.00% | ~323 |
-| YOU SHALL NOT PASS! | 49.00% | ~317 |
 | The Cathedral of Light | 47.00% | ~304 |
 | Shame! Shame! Shame! | 46.00% | ~297 |
 | Dungeonlord Gorgu | 45.00% | ~291 |

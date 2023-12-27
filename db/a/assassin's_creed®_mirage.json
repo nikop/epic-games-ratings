@@ -4,7 +4,7 @@
   "ProductSlug": "assassins-creed-mirage",
   "Ranking_Rating": 676,
   "Ranking_Popularity": 290,
-  "Ranking_PopularitySum": 226,
+  "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 559,
@@ -2617,10 +2617,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 1707,
       "NumberOfAwardsMax": 209
+    },
+    {
+      "Time": "2023-12-27T02:18:46.0137358+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 1709,
+      "NumberOfAwardsMax": 209
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1707,
+  "NumberOfAwards": 1709,
   "NumberOfAwardsMax": 209,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2688,7 +2694,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 81
+      "Count": 83
     }
   ],
   "EOS_Progressed": 0,
@@ -2703,8 +2709,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T18:58:30.4202319+00:00",
   "FirstSeenRating": "2023-10-06T05:58:23.6709697+00:00",
-  "LastChanged": "2023-12-26T16:59:38.6140828+00:00",
+  "LastChanged": "2023-12-27T02:18:46.0137357+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:19:59.911469+00:00",
-  "LastUpdate_Ratings": "2023-12-27T01:43:32.3797273+00:00",
-  "LastUpdate_Achievements": "2023-12-27T01:49:14.9736774+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:18:46.013736+00:00",
+  "LastUpdate_Achievements": "2023-12-27T02:24:21.9248841+00:00"
 }

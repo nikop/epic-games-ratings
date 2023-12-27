@@ -135,9 +135,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81774,
+  "EOS_Progressed": 81775,
   "EOS_Completed": 900,
-  "EOS_NewPlayers": 718,
+  "EOS_NewPlayers": 717,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
@@ -28060,6 +28060,11 @@
       "Time": "2023-12-27T01:50:28.3391827+00:00",
       "NumProgressed": 81774,
       "NumCompleted": 900
+    },
+    {
+      "Time": "2023-12-27T02:25:30.880592+00:00",
+      "NumProgressed": 81775,
+      "NumCompleted": 900
     }
   ],
   "TotalAchievements": 25,
@@ -28095,7 +28100,7 @@
       "Name": "Audiophile",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "Be Seeing You",
@@ -28111,7 +28116,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14719
+      "UsersEstimate": 14720
     },
     {
       "ID": "Butcher",
@@ -28223,7 +28228,7 @@
       "Name": "Right On Target",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11448
+      "UsersEstimate": 11449
     },
     {
       "ID": "Sniper",
@@ -28255,7 +28260,7 @@
       "Name": "Tape Head",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "Vinyl Vibes",
@@ -28270,7 +28275,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 81774,
+      "Progressed": 81775,
       "Completed": 900
     }
   ],
@@ -28278,8 +28283,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-12-24T03:59:19.0038141+00:00",
-  "LastChanged_Achievements": "2023-12-27T01:50:28.3391824+00:00",
+  "LastChanged_Achievements": "2023-12-27T02:25:30.8805915+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:32.7893719+00:00",
-  "LastUpdate_Ratings": "2023-12-27T01:45:22.1959497+00:00",
-  "LastUpdate_Achievements": "2023-12-27T01:50:28.3393175+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:20:28.2491416+00:00",
+  "LastUpdate_Achievements": "2023-12-27T02:25:30.880778+00:00"
 }

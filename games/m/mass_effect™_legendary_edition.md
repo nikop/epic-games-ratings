@@ -36,20 +36,20 @@
 | Head Hunter | 28.00% | ~876 |
 | The Archangel | 27.00% | ~845 |
 | Operative | 27.00% | ~845 |
+| The Convict | 26.00% | ~813 |
 | Power Full | 26.00% | ~813 |
-| The Convict | 25.00% | ~782 |
 | The Krogan | 25.00% | ~782 |
 | Veteran | 24.00% | ~751 |
 | Colony Defense | 24.00% | ~751 |
 | Broke, Blind, and Bedlam | 24.00% | ~751 |
 | Ghost Ship | 22.00% | ~688 |
 | The Assassin | 22.00% | ~688 |
+| The Quarian | 22.00% | ~688 |
 | Galactic Explorer | 22.00% | ~688 |
 | Driven | 22.00% | ~688 |
 | A Personal Touch | 21.00% | ~657 |
 | Archivist | 21.00% | ~657 |
 | The Justicar | 21.00% | ~657 |
-| The Quarian | 21.00% | ~657 |
 | Catharsis | 21.00% | ~657 |
 | Ghost of the Father | 21.00% | ~657 |
 | The Prodigal | 21.00% | ~657 |

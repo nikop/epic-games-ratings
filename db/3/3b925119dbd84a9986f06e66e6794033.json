@@ -4,7 +4,7 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 530,
+  "EOS_Progressed": 531,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1734,6 +1734,11 @@
       "Time": "2023-12-27T01:54:58.1376739+00:00",
       "NumProgressed": 530,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T02:29:53.8063406+00:00",
+      "NumProgressed": 531,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1866,7 +1871,7 @@
       "Name": "Timejinx: The Perfect Guest",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -1905,14 +1910,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 530,
+      "Progressed": 531,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-27T01:54:58.1376735+00:00",
+  "LastChanged_Achievements": "2023-12-27T02:29:53.8063401+00:00",
   "LastUpdate_AppInfo": "2023-12-23T02:14:15.0192188+00:00",
-  "LastUpdate_Ratings": "2023-12-27T01:44:34.4672947+00:00",
-  "LastUpdate_Achievements": "2023-12-27T01:54:58.1376943+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:19:42.8872861+00:00",
+  "LastUpdate_Achievements": "2023-12-27T02:29:53.8063611+00:00"
 }

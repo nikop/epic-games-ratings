@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 3784,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3623,9 +3623,9 @@
       "Count": 335
     }
   ],
-  "EOS_Progressed": 19357,
+  "EOS_Progressed": 19360,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 661,
+  "EOS_NewPlayers": 659,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -17273,6 +17273,11 @@
       "Time": "2023-12-27T01:50:15.5161672+00:00",
       "NumProgressed": 19357,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-27T02:25:18.7337758+00:00",
+      "NumProgressed": 19360,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17349,7 +17354,7 @@
       "Name": "Efficient Explorer",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "MetalChain",
@@ -17357,7 +17362,7 @@
       "Name": "Refinery",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "Win5Years",
@@ -17437,7 +17442,7 @@
       "Name": "Dangerous Lands",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "WinNearFertile",
@@ -17525,7 +17530,7 @@
       "Name": "Forsaken Gods Temple",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "WinNearTorrent",
@@ -17685,7 +17690,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "WinNearFrosts",
@@ -17717,7 +17722,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "WinNearPresence",
@@ -17756,15 +17761,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19357,
+      "Progressed": 19360,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-27T01:43:48.2906099+00:00",
-  "LastChanged_Achievements": "2023-12-27T01:50:15.5161667+00:00",
+  "LastChanged_Achievements": "2023-12-27T02:25:18.7337752+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-27T01:43:48.2906107+00:00",
-  "LastUpdate_Achievements": "2023-12-27T01:50:15.5162789+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:19:01.4909483+00:00",
+  "LastUpdate_Achievements": "2023-12-27T02:25:18.7338996+00:00"
 }

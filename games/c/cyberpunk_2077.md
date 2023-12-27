@@ -6,25 +6,25 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,821 |
-| Gun Fu | 8.00% | ~78,547 |
-| The Fool | 7.00% | ~68,729 |
+| V for Vendetta | 12.00% | ~117,822 |
+| Gun Fu | 8.00% | ~78,548 |
+| The Fool | 7.00% | ~68,730 |
 | Right Back At Ya | 6.00% | ~58,911 |
 | The Lovers | 6.00% | ~58,911 |
 | Full Body Conversion | 5.00% | ~49,092 |
 | True Soldier | 5.00% | ~49,092 |
-| All the President's Men | 5.00% | ~5,523 |
+| All the President's Men | 5.00% | ~5,524 |
 | Christmas Tree Attack | 4.00% | ~39,274 |
 | Stanislavski's Method | 4.00% | ~39,274 |
 | The Hermit | 4.00% | ~39,274 |
 | The Wheel of Fortune | 4.00% | ~39,274 |
 | Arachnophobia | 4.00% | ~4,419 |
-| Master Crafter | 3.00% | ~29,455 |
-| The Quick and the Dead | 3.00% | ~29,455 |
-| Life of the Road | 3.00% | ~29,455 |
-| The High Priestess | 3.00% | ~29,455 |
-| True Warrior | 3.00% | ~29,455 |
-| Legend of The Afterlife | 3.00% | ~29,455 |
+| Master Crafter | 3.00% | ~29,456 |
+| The Quick and the Dead | 3.00% | ~29,456 |
+| Life of the Road | 3.00% | ~29,456 |
+| The High Priestess | 3.00% | ~29,456 |
+| True Warrior | 3.00% | ~29,456 |
+| Legend of The Afterlife | 3.00% | ~29,456 |
 | Relic Ruler | 3.00% | ~3,314 |
 | Bushido and Chill | 2.00% | ~19,637 |
 | To Protect and Serve | 2.00% | ~19,637 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 981,842 (Ranked 16)  
+Progressed: 981,850 (Ranked 16)  
 Completed: 2,981 (0.30%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 2,981 (0.30%) (Ranked 254)
 | 2023-12-24 | 980,985 | 2,969 |
 | 2023-12-25 | 981,401 | 2,974 |
 | 2023-12-26 | 981,815 | 2,981 |
-| 2023-12-27 | 981,842 | 2,981 |
+| 2023-12-27 | 981,850 | 2,981 |
 ## Awards
 Max (Character Customization): 127,789  (Ranked 8)  
 Sum: 445,854 (Ranked 9)  

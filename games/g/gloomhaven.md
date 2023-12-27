@@ -6,14 +6,14 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 39.00% | ~11,312 |
-| Overkill | 33.00% | ~9,572 |
-| Vaccine Incoming | 32.00% | ~9,282 |
-| A normal day in Gloomhaven | 30.00% | ~8,702 |
-| Spread the plague | 28.00% | ~8,121 |
-| Get over here! | 24.00% | ~6,961 |
-| Just when I thought I was out... | 19.00% | ~5,511 |
-| Mine... All Mine... | 17.00% | ~4,931 |
+| I'm not dead yet | 39.00% | ~11,314 |
+| Overkill | 33.00% | ~9,573 |
+| Vaccine Incoming | 32.00% | ~9,283 |
+| A normal day in Gloomhaven | 30.00% | ~8,703 |
+| Spread the plague | 28.00% | ~8,123 |
+| Get over here! | 24.00% | ~6,962 |
+| Just when I thought I was out... | 19.00% | ~5,512 |
+| Mine... All Mine... | 17.00% | ~4,932 |
 | Precious! | 16.00% | ~4,641 |
 | Grizzled veteran | 15.00% | ~4,351 |
 | Anatomy Lesson | 14.00% | ~4,061 |
@@ -22,13 +22,13 @@ Number of Ratings: 68  (23.09.2022)
 | Obstacle race | 12.00% | ~3,481 |
 | Who's the Boss? | 11.00% | ~3,191 |
 | Augmented rat | 11.00% | ~3,191 |
-| Doom and gloom | 10.00% | ~2,900 |
-| Dungeon Veteran | 8.00% | ~2,320 |
-| Pain is your friend | 8.00% | ~2,320 |
-| Play it again, Sam | 8.00% | ~2,320 |
-| Pack leader | 7.00% | ~2,030 |
-| Black death | 7.00% | ~2,030 |
-| Quad damage | 6.00% | ~1,740 |
+| Doom and gloom | 10.00% | ~2,901 |
+| Dungeon Veteran | 8.00% | ~2,321 |
+| Pain is your friend | 8.00% | ~2,321 |
+| Play it again, Sam | 8.00% | ~2,321 |
+| Pack leader | 7.00% | ~2,031 |
+| Black death | 7.00% | ~2,031 |
+| Quad damage | 6.00% | ~1,741 |
 | Power Up! | 5.00% | ~1,450 |
 | Merchant of doom | 5.00% | ~1,450 |
 | Caught off guard | 5.00% | ~1,450 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~29 |
 | Murder Death Kill | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,005 (Ranked 136)  
+Progressed: 29,009 (Ranked 136)  
 Completed: 1 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 1 (0.00%) (Ranked 389)
 | 2023-12-24 | 28,539 | 1 |
 | 2023-12-25 | 28,745 | 1 |
 | 2023-12-26 | 28,980 | 1 |
-| 2023-12-27 | 29,005 | 1 |
+| 2023-12-27 | 29,009 | 1 |
 ## Awards
 Max (Character Customization): 3,604  (Ranked 93)  
 Sum: 8,435 (Ranked 105)  

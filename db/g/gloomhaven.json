@@ -2759,9 +2759,9 @@
       "Count": 220
     }
   ],
-  "EOS_Progressed": 29005,
+  "EOS_Progressed": 29009,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1508,
+  "EOS_NewPlayers": 1511,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14564,6 +14564,11 @@
       "Time": "2023-12-27T01:54:27.8947604+00:00",
       "NumProgressed": 29005,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T02:29:25.5946207+00:00",
+      "NumProgressed": 29009,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -14584,7 +14589,7 @@
       "Name": "Dungeon Veteran",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2320
+      "UsersEstimate": 2321
     },
     {
       "ID": "Achievement_Trophy03",
@@ -14760,7 +14765,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 11312
+      "UsersEstimate": 11314
     },
     {
       "ID": "Achievement_Trophy25",
@@ -14776,7 +14781,7 @@
       "Name": "Overkill",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 9572
+      "UsersEstimate": 9573
     },
     {
       "ID": "Achievement_Trophy27",
@@ -14792,7 +14797,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 9282
+      "UsersEstimate": 9283
     },
     {
       "ID": "Achievement_Trophy29",
@@ -14808,7 +14813,7 @@
       "Name": "Spread the plague",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 8121
+      "UsersEstimate": 8123
     },
     {
       "ID": "Achievement_Trophy31",
@@ -14816,7 +14821,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 8702
+      "UsersEstimate": 8703
     },
     {
       "ID": "Achievement_Trophy32",
@@ -14832,7 +14837,7 @@
       "Name": "Pack leader",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "Achievement_Trophy34",
@@ -14864,7 +14869,7 @@
       "Name": "Get over here!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 6961
+      "UsersEstimate": 6962
     },
     {
       "ID": "Achievement_Trophy38",
@@ -14872,7 +14877,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4931
+      "UsersEstimate": 4932
     },
     {
       "ID": "Achievement_Trophy39",
@@ -14880,7 +14885,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 5511
+      "UsersEstimate": 5512
     },
     {
       "ID": "Achievement_Trophy40",
@@ -14888,7 +14893,7 @@
       "Name": "Pain is your friend",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2320
+      "UsersEstimate": 2321
     },
     {
       "ID": "Achievement_Trophy41",
@@ -14904,7 +14909,7 @@
       "Name": "Black death",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "Achievement_Trophy43",
@@ -14920,7 +14925,7 @@
       "Name": "Quad damage",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1740
+      "UsersEstimate": 1741
     },
     {
       "ID": "Achievement_Trophy45",
@@ -14944,7 +14949,7 @@
       "Name": "Play it again, Sam",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2320
+      "UsersEstimate": 2321
     },
     {
       "ID": "Achievement_Trophy48",
@@ -14952,7 +14957,7 @@
       "Name": "Doom and gloom",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2900
+      "UsersEstimate": 2901
     },
     {
       "ID": "Achievement_Trophy49",
@@ -15063,7 +15068,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 29005,
+      "Progressed": 29009,
       "Completed": 1
     }
   ],
@@ -15071,8 +15076,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-26T18:00:00.5052803+00:00",
-  "LastChanged_Achievements": "2023-12-27T01:54:27.89476+00:00",
+  "LastChanged_Achievements": "2023-12-27T02:29:25.5946201+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:28.9438704+00:00",
-  "LastUpdate_Ratings": "2023-12-27T01:45:13.2005565+00:00",
-  "LastUpdate_Achievements": "2023-12-27T01:54:27.8948451+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:20:19.6976895+00:00",
+  "LastUpdate_Achievements": "2023-12-27T02:29:25.5947589+00:00"
 }

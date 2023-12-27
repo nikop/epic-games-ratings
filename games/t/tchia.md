@@ -7,6 +7,7 @@ Rating: 4.72 (Ranked 186)
 | ---- | ---------- | ----- |
 | In a Pinch | 0.40% | ~33 |
 | Energy Saver | 0.30% | ~25 |
+| Soul-Canon | 0.20% | ~17 |
 | The Journey Onwards | 0.20% | ~17 |
 | Ahem Ahem | 0.10% | ~8 |
 | Audiophile | 0.10% | ~8 |
@@ -17,13 +18,12 @@ Rating: 4.72 (Ranked 186)
 | Happy Camper | 0.10% | ~8 |
 | Historian | 0.10% | ~8 |
 | Iconoclast | 0.10% | ~8 |
+| Liberator | 0.10% | ~8 |
 | Shredder | 0.10% | ~8 |
 | Snip Snip | 0.10% | ~8 |
-| Soul-Canon | 0.10% | ~8 |
 | Arrr! | 0.00% | ~0 |
 | Ça de Wizz! | 0.00% | ~0 |
 | Fashion Victim | 0.00% | ~0 |
-| Liberator | 0.00% | ~0 |
 | Live Wire | 0.00% | ~0 |
 | Thing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

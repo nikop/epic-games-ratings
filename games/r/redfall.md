@@ -48,9 +48,9 @@ Rating: 3.58 (Ranked 1,069)
 | What Lies Below | 0.50% | ~10 |
 | Bloody Initiate | 0.50% | ~10 |
 | Dexterity Save | 0.50% | ~10 |
+| Friendgineering | 0.40% | ~8 |
 | Sisterhood | 0.40% | ~8 |
 | Good Samaritan | 0.40% | ~8 |
-| Friendgineering | 0.30% | ~6 |
 | So Anyway I Started Blasting | 0.30% | ~6 |
 | Under a Bushel | 0.30% | ~6 |
 | Scream Team | 0.20% | ~4 |

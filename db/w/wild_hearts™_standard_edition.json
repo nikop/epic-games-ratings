@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 921,
+  "EOS_Progressed": 922,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -3083,6 +3083,11 @@
       "Time": "2023-12-27T01:54:20.0110959+00:00",
       "NumProgressed": 921,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-27T02:29:18.2431916+00:00",
+      "NumProgressed": 922,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -3095,7 +3100,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "achievement_10",
@@ -3135,7 +3140,7 @@
       "Name": "Fusion Conjuror",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "achievement_15",
@@ -3143,7 +3148,7 @@
       "Name": "Memory Rouser",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "achievement_16",
@@ -3159,7 +3164,7 @@
       "Name": "Master of the Skies",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "achievement_18",
@@ -3207,7 +3212,7 @@
       "Name": "Kemono Hunter",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "achievement_23",
@@ -3215,7 +3220,7 @@
       "Name": "Relentless Kemono Hunter",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "achievement_24",
@@ -3239,7 +3244,7 @@
       "Name": "Vanquisher of the Volatile",
       "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "achievement_27",
@@ -3247,7 +3252,7 @@
       "Name": "Mighty Marmelizer",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "achievement_28",
@@ -3303,7 +3308,7 @@
       "Name": "Human Believer",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "achievement_34",
@@ -3455,7 +3460,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "achievement_8",
@@ -3478,13 +3483,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 921,
+      "Progressed": 922,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-27T01:54:20.0110953+00:00",
+  "LastChanged_Achievements": "2023-12-27T02:29:18.2431912+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:00.2404368+00:00",
-  "LastUpdate_Ratings": "2023-12-27T01:45:33.6068166+00:00",
-  "LastUpdate_Achievements": "2023-12-27T01:54:20.0111439+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:20:39.5278722+00:00",
+  "LastUpdate_Achievements": "2023-12-27T02:29:18.2432321+00:00"
 }

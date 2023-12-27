@@ -3253,9 +3253,9 @@
       "ID": "GnothiSeauton",
       "SetID": "1n308hc",
       "Name": "Gnothi Seauton",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 69
     },
     {
       "ID": "GoodCitizen",
@@ -3598,8 +3598,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-26T14:58:48.4089704+00:00",
-  "LastChanged_Achievements": "2023-12-27T01:49:17.6252129+00:00",
+  "LastChanged_Achievements": "2023-12-27T02:24:24.6120309+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-27T01:44:09.1964003+00:00",
-  "LastUpdate_Achievements": "2023-12-27T01:49:17.6252618+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:19:19.3265363+00:00",
+  "LastUpdate_Achievements": "2023-12-27T02:24:24.6120917+00:00"
 }

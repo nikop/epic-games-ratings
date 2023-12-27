@@ -848,7 +848,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5847,
+  "EOS_Progressed": 5848,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
@@ -11908,6 +11908,11 @@
       "Time": "2023-12-27T01:48:06.2298634+00:00",
       "NumProgressed": 5847,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-27T02:23:16.6949933+00:00",
+      "NumProgressed": 5848,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -11952,7 +11957,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1403
+      "UsersEstimate": 1404
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -11976,7 +11981,7 @@
       "Name": "First Strike",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -12103,15 +12108,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5847,
+      "Progressed": 5848,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2023-12-27T01:48:06.229863+00:00",
+  "LastChanged_Achievements": "2023-12-27T02:23:16.6949929+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:25.4849752+00:00",
-  "LastUpdate_Ratings": "2023-12-27T01:43:52.5490895+00:00",
-  "LastUpdate_Achievements": "2023-12-27T01:48:06.2299391+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:19:04.8927662+00:00",
+  "LastUpdate_Achievements": "2023-12-27T02:23:16.6950808+00:00"
 }

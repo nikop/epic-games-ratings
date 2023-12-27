@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 118013,
+  "EOS_Progressed": 118014,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 815,
+  "EOS_NewPlayers": 814,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -22715,6 +22715,11 @@
       "Time": "2023-12-27T01:55:16.4358989+00:00",
       "NumProgressed": 118013,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-27T02:30:11.25132+00:00",
+      "NumProgressed": 118014,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 49,
@@ -22734,7 +22739,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 90870
+      "UsersEstimate": 90871
     },
     {
       "ID": "EAwards_10",
@@ -22822,7 +22827,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 57826
+      "UsersEstimate": 57827
     },
     {
       "ID": "EAwards_20",
@@ -22830,7 +22835,7 @@
       "Name": "King of the Hill",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12981
+      "UsersEstimate": 12982
     },
     {
       "ID": "EAwards_21",
@@ -22870,7 +22875,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 22422
+      "UsersEstimate": 22423
     },
     {
       "ID": "EAwards_26",
@@ -22878,7 +22883,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12981
+      "UsersEstimate": 12982
     },
     {
       "ID": "EAwards_27",
@@ -22926,7 +22931,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12981
+      "UsersEstimate": 12982
     },
     {
       "ID": "EAwards_32",
@@ -23110,14 +23115,14 @@
       "Name": "Grapple Expert",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12981
+      "UsersEstimate": 12982
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 118013,
+      "Progressed": 118014,
       "Completed": 53
     }
   ],
@@ -23125,8 +23130,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-12-21T05:59:27.8580735+00:00",
-  "LastChanged_Achievements": "2023-12-27T01:55:16.4358985+00:00",
+  "LastChanged_Achievements": "2023-12-27T02:30:11.2513187+00:00",
   "LastUpdate_AppInfo": "2023-12-22T08:57:08.9251827+00:00",
-  "LastUpdate_Ratings": "2023-12-27T01:43:43.664505+00:00",
-  "LastUpdate_Achievements": "2023-12-27T01:55:16.4360403+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:18:57.308297+00:00",
+  "LastUpdate_Achievements": "2023-12-27T02:30:11.2514509+00:00"
 }

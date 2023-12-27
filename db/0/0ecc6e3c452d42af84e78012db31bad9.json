@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4681,
+  "EOS_Progressed": 4682,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -12170,6 +12170,11 @@
       "Time": "2023-12-27T01:50:34.4385257+00:00",
       "NumProgressed": 4681,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-27T02:25:36.8664963+00:00",
+      "NumProgressed": 4682,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 16,
@@ -12213,7 +12218,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 3604
+      "UsersEstimate": 3605
     },
     {
       "ID": "ach_architecture_completed",
@@ -12269,7 +12274,7 @@
       "Name": "Food - unlocked",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1685
+      "UsersEstimate": 1686
     },
     {
       "ID": "ach_game_opened",
@@ -12285,7 +12290,7 @@
       "Name": "Magic time",
       "Percentage": 30,
       "XP": 65,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1405
     },
     {
       "ID": "ach_no_boosters",
@@ -12308,7 +12313,7 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4681,
+      "Progressed": 4682,
       "Completed": 41
     }
   ],
@@ -12316,8 +12321,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2023-12-27T01:50:34.4385253+00:00",
+  "LastChanged_Achievements": "2023-12-27T02:25:36.8664957+00:00",
   "LastUpdate_AppInfo": "2023-12-22T22:57:06.6748286+00:00",
-  "LastUpdate_Ratings": "2023-12-27T01:45:02.2245504+00:00",
-  "LastUpdate_Achievements": "2023-12-27T01:50:34.4385918+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:20:09.1287597+00:00",
+  "LastUpdate_Achievements": "2023-12-27T02:25:36.8665808+00:00"
 }

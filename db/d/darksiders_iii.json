@@ -1150,9 +1150,9 @@
       "ID": "Craft_Enhancement_First",
       "SetID": "7a5k76n",
       "Name": "Enhance!",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     },
     {
       "ID": "Crucible_Kill_WickedK",
@@ -1206,9 +1206,9 @@
       "ID": "Game_Complete",
       "SetID": "7a5k76n",
       "Name": "Protector of Humanity",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "Game_CompleteApocolyptic",
@@ -1230,9 +1230,9 @@
       "ID": "Game_CompleteNormal",
       "SetID": "7a5k76n",
       "Name": "Path of the Horseman",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "Keeper_Kill_Final",
@@ -1318,9 +1318,9 @@
       "ID": "Kill_Sin_BigBad",
       "SetID": "7a5k76n",
       "Name": "Everybody Wants to Rule the World",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "Kill_Sin_Envy",
@@ -1414,9 +1414,9 @@
       "ID": "Save_Humans_5",
       "SetID": "7a5k76n",
       "Name": "Five\u0027s a Crowd",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 85
     },
     {
       "ID": "Save_Usiel_No_Kill",
@@ -1494,8 +1494,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-25T15:57:09.247299+00:00",
-  "LastChanged_Achievements": "2023-12-27T01:53:15.0892094+00:00",
+  "LastChanged_Achievements": "2023-12-27T02:28:17.669625+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:27.1633457+00:00",
-  "LastUpdate_Ratings": "2023-12-27T01:42:31.5472794+00:00",
-  "LastUpdate_Achievements": "2023-12-27T01:53:15.0892762+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:17:48.5684586+00:00",
+  "LastUpdate_Achievements": "2023-12-27T02:28:17.669691+00:00"
 }

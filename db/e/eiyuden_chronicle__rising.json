@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 770,
+  "EOS_Progressed": 771,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.79,
+  "EOS_Completed_Percentage": 7.78,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -686,6 +686,11 @@
       "Time": "2023-12-26T15:08:45.7045208+00:00",
       "NumProgressed": 770,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-27T02:28:32.8374616+00:00",
+      "NumProgressed": 771,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -697,7 +702,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -705,15 +710,15 @@
       "Name": "Partners?",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "ACHIEVEMENT003",
       "SetID": "dejhjd5",
       "Name": "...And Your Tax Money",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 346
+      "UsersEstimate": 339
     },
     {
       "ID": "ACHIEVEMENT004",
@@ -729,7 +734,7 @@
       "Name": "Magical Mineral Golem",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ACHIEVEMENT006",
@@ -793,7 +798,7 @@
       "Name": "The Pride of the Town",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT014",
@@ -881,7 +886,7 @@
       "Name": "Amateur Adventurer",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ACHIEVEMENT025",
@@ -913,7 +918,7 @@
       "Name": "On Outlander Lane",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACHIEVEMENT029",
@@ -969,7 +974,7 @@
       "Name": "First Time Fishing",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACHIEVEMENT036",
@@ -985,15 +990,15 @@
       "Name": "Rune Wall Wreckage",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ACHIEVEMENT038",
       "SetID": "dejhjd5",
       "Name": "Fishing Master",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 177
     },
     {
       "ID": "ACHIEVEMENT039",
@@ -1001,7 +1006,7 @@
       "Name": "Meat Master",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACHIEVEMENT040",
@@ -1009,7 +1014,7 @@
       "Name": "Rune Wall Master",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACHIEVEMENT041",
@@ -1025,7 +1030,7 @@
       "Name": "The Quarry...On Foot!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACHIEVEMENT043",
@@ -1096,15 +1101,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 770,
+      "Progressed": 771,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-27T01:53:31.7913448+00:00",
+  "LastChanged_Achievements": "2023-12-27T02:28:32.8374611+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:13.3507412+00:00",
-  "LastUpdate_Ratings": "2023-12-27T01:42:09.8273828+00:00",
-  "LastUpdate_Achievements": "2023-12-27T01:53:31.7913835+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:17:28.5850892+00:00",
+  "LastUpdate_Achievements": "2023-12-27T02:28:32.8374995+00:00"
 }

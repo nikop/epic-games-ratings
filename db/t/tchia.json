@@ -10199,9 +10199,9 @@
       "ID": "LIBERATOR",
       "SetID": "3cck1g6",
       "Name": "Liberator",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 80,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "LIVE_WIRE",
@@ -10231,9 +10231,9 @@
       "ID": "SOUL_CANON",
       "SetID": "3cck1g6",
       "Name": "Soul-Canon",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -10264,8 +10264,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-12-22T18:01:14.9082256+00:00",
-  "LastChanged_Achievements": "2023-12-27T01:53:21.9375386+00:00",
+  "LastChanged_Achievements": "2023-12-27T02:28:23.7500775+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:37.7358257+00:00",
-  "LastUpdate_Ratings": "2023-12-27T01:43:09.5165994+00:00",
-  "LastUpdate_Achievements": "2023-12-27T01:53:21.9375941+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:18:24.8286321+00:00",
+  "LastUpdate_Achievements": "2023-12-27T02:28:23.7501418+00:00"
 }

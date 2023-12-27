@@ -5259,9 +5259,9 @@
       "Count": 524
     }
   ],
-  "EOS_Progressed": 92586,
+  "EOS_Progressed": 92588,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 389,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -29354,6 +29354,11 @@
       "Time": "2023-12-27T01:50:46.6754302+00:00",
       "NumProgressed": 92586,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-27T02:25:48.3969489+00:00",
+      "NumProgressed": 92588,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -29509,7 +29514,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3703
+      "UsersEstimate": 3704
     },
     {
       "ID": "ACH_0210",
@@ -29692,13 +29697,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92586,
+      "Progressed": 92588,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 20933,
+      "Progressed": 20935,
       "Completed": 15593
     }
   ],
@@ -29706,8 +29711,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-26T23:57:06.3839671+00:00",
-  "LastChanged_Achievements": "2023-12-27T01:50:46.6754298+00:00",
+  "LastChanged_Achievements": "2023-12-27T02:25:48.3969482+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:55.2021168+00:00",
-  "LastUpdate_Ratings": "2023-12-27T01:41:16.6820033+00:00",
-  "LastUpdate_Achievements": "2023-12-27T01:50:46.6755735+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:16:39.6923833+00:00",
+  "LastUpdate_Achievements": "2023-12-27T02:25:48.3971079+00:00"
 }

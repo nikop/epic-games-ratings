@@ -1118,9 +1118,9 @@
       "ID": "PRG_BOSS_TUNNELER",
       "SetID": "89cjc9l",
       "Name": "The Tunneler",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     },
     {
       "ID": "PRG_CHAPTER_1",
@@ -1447,8 +1447,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-12-07T15:59:55.7707113+00:00",
-  "LastChanged_Achievements": "2023-12-27T01:48:49.9517019+00:00",
+  "LastChanged_Achievements": "2023-12-27T02:23:58.4198578+00:00",
   "LastUpdate_AppInfo": "2023-12-23T16:57:13.6590268+00:00",
-  "LastUpdate_Ratings": "2023-12-27T01:44:20.9172277+00:00",
-  "LastUpdate_Achievements": "2023-12-27T01:48:49.9517701+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:19:30.1808899+00:00",
+  "LastUpdate_Achievements": "2023-12-27T02:23:58.419915+00:00"
 }

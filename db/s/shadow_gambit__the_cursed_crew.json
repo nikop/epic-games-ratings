@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -167,9 +167,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1308,
+  "EOS_Progressed": 1309,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.6,
   "EosHistory": [
@@ -4487,6 +4487,11 @@
       "Time": "2023-12-26T22:06:17.074692+00:00",
       "NumProgressed": 1308,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-27T02:23:15.9592842+00:00",
+      "NumProgressed": 1309,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4507,7 +4512,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "_03_FinishAct1",
@@ -4531,7 +4536,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -4547,7 +4552,7 @@
       "Name": "All Good Things",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "_08_Completion_10",
@@ -4595,7 +4600,7 @@
       "Name": "Corsair",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "_14_Completion_70",
@@ -4643,7 +4648,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -4706,7 +4711,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1308,
+      "Progressed": 1309,
       "Completed": 34
     }
   ],
@@ -4714,8 +4719,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-26T17:57:26.5223037+00:00",
-  "LastChanged_Achievements": "2023-12-27T01:48:05.5248841+00:00",
+  "LastChanged_Achievements": "2023-12-27T02:23:15.9592835+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-27T01:41:53.0121522+00:00",
-  "LastUpdate_Achievements": "2023-12-27T01:48:05.524954+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:17:13.0653983+00:00",
+  "LastUpdate_Achievements": "2023-12-27T02:23:15.9593566+00:00"
 }

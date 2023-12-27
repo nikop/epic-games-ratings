@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1155,
+  "EOS_Progressed": 1156,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -3229,6 +3229,11 @@
       "Time": "2023-12-27T01:55:04.1980521+00:00",
       "NumProgressed": 1155,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-27T02:29:59.3753935+00:00",
+      "NumProgressed": 1156,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -3257,7 +3262,7 @@
       "Name": "Boxing Clever",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "Cartographer",
@@ -3297,7 +3302,7 @@
       "Name": "Drinking on the Job",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "DustDancing",
@@ -3313,7 +3318,7 @@
       "Name": "Everything is Dust",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "LightsOut",
@@ -3345,7 +3350,7 @@
       "Name": "Outpatient",
       "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "Relic",
@@ -3353,7 +3358,7 @@
       "Name": "Relic",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "SkeletonCrew",
@@ -3377,7 +3382,7 @@
       "Name": "The Safety of Disbelief",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "TragedyDocumented",
@@ -3393,21 +3398,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 1155,
+      "Progressed": 1156,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-12-27T01:55:04.1980515+00:00",
+  "LastChanged_Achievements": "2023-12-27T02:29:59.3753928+00:00",
   "LastUpdate_AppInfo": "2023-12-20T21:57:10.5156863+00:00",
-  "LastUpdate_Ratings": "2023-12-27T01:47:17.1122454+00:00",
-  "LastUpdate_Achievements": "2023-12-27T01:55:04.1980792+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:22:30.6238697+00:00",
+  "LastUpdate_Achievements": "2023-12-27T02:29:59.3754279+00:00"
 }

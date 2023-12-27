@@ -609,9 +609,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6291,
+  "EOS_Progressed": 6292,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 410,
+  "EOS_NewPlayers": 408,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9309,6 +9309,11 @@
       "Time": "2023-12-27T01:49:08.523686+00:00",
       "NumProgressed": 6291,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-27T02:24:16.0614686+00:00",
+      "NumProgressed": 6292,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9464,7 +9469,7 @@
       "Name": "Bone Peddler",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "27",
@@ -9718,9 +9723,9 @@
       "ID": "51",
       "SetID": "7132754",
       "Name": "Freed Lands of Manuhari",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 189
     },
     {
       "ID": "52",
@@ -9799,13 +9804,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6291,
+      "Progressed": 6292,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6291,
+      "Progressed": 6292,
       "Completed": 7
     }
   ],
@@ -9813,8 +9818,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-26T20:01:01.8384719+00:00",
-  "LastChanged_Achievements": "2023-12-27T01:49:08.5236852+00:00",
+  "LastChanged_Achievements": "2023-12-27T02:24:16.0614681+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-27T01:45:18.9984657+00:00",
-  "LastUpdate_Achievements": "2023-12-27T01:49:08.5237732+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:20:24.9466392+00:00",
+  "LastUpdate_Achievements": "2023-12-27T02:24:16.0615793+00:00"
 }

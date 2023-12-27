@@ -694,9 +694,9 @@
       "ID": "ACH_40075_KM",
       "SetID": "8h8m55b",
       "Name": "40,075Km",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_50_DRINK_CHALLENGEMODE",
@@ -790,9 +790,9 @@
       "ID": "ACH_FAILED_MESSENGER",
       "SetID": "8h8m55b",
       "Name": "Failed Messenger",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_FELLOW_INFLUENCER",
@@ -854,17 +854,17 @@
       "ID": "ACH_GUEST_OF_HONOR",
       "SetID": "8h8m55b",
       "Name": "Guest of Honor",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_HARDBOILED_ADVICE",
       "SetID": "8h8m55b",
       "Name": "A Hardboiled Advice",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_HOW_I_MET_YOUR_ANCESTOR",
@@ -1054,9 +1054,9 @@
       "ID": "ACH_UNSOLICITED_BOUNCER",
       "SetID": "8h8m55b",
       "Name": "Unsolicited Bouncer",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_VAMPIRES_DONT_CHANGE",
@@ -1109,8 +1109,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-12-27T01:49:50.7325779+00:00",
+  "LastChanged_Achievements": "2023-12-27T02:24:55.1749792+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:53.6877972+00:00",
-  "LastUpdate_Ratings": "2023-12-27T01:44:33.7102259+00:00",
-  "LastUpdate_Achievements": "2023-12-27T01:49:50.7326186+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:19:42.2140221+00:00",
+  "LastUpdate_Achievements": "2023-12-27T02:24:55.1750174+00:00"
 }

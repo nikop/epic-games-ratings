@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 605)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 10.00% | ~3,277 |
+| Stylish | 10.00% | ~3,278 |
 | Meticulously Efficient | 8.00% | ~2,622 |
 | Advancement | 7.00% | ~2,294 |
 | Discovery | 6.00% | ~1,966 |
@@ -32,14 +32,14 @@ Rating: 4.50 (Ranked 605)
 | Seasoned | 3.00% | ~983 |
 | Side Hustle | 3.00% | ~983 |
 | Summoner | 3.00% | ~983 |
-| Collector | 2.00% | ~655 |
-| Escape Artist | 2.00% | ~655 |
-| Reckless | 2.00% | ~655 |
-| Rift Destroyer | 2.00% | ~655 |
-| Skilled | 2.00% | ~655 |
-| Stunner | 2.00% | ~655 |
-| Tobin's Prodigy | 2.00% | ~655 |
-| Welcome to the Crew | 2.00% | ~655 |
+| Collector | 2.00% | ~656 |
+| Escape Artist | 2.00% | ~656 |
+| Reckless | 2.00% | ~656 |
+| Rift Destroyer | 2.00% | ~656 |
+| Skilled | 2.00% | ~656 |
+| Stunner | 2.00% | ~656 |
+| Tobin's Prodigy | 2.00% | ~656 |
+| Welcome to the Crew | 2.00% | ~656 |
 | Diabolical | 1.00% | ~328 |
 | Fragile Panes | 1.00% | ~328 |
 | Liability | 1.00% | ~328 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 605)
 | Ultimate Defense | 0.20% | ~66 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,772 (Ranked 133)  
+Progressed: 32,775 (Ranked 133)  
 Completed: 70 (0.21%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 70 (0.21%) (Ranked 271)
 | 2023-12-24 | 32,658 | 69 |
 | 2023-12-25 | 32,706 | 70 |
 | 2023-12-26 | 32,761 | 70 |
-| 2023-12-27 | 32,772 | 70 |
+| 2023-12-27 | 32,775 | 70 |
 ## Awards
 Max (Great for Beginners): 325  (Ranked 252)  
 Sum: 2,929 (Ranked 182)  

@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1673,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4439,9 +4439,9 @@
       "ID": "ML_ACHIEVEMENT_45",
       "SetID": "8jfk4dl",
       "Name": "The Speed of Silence",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -4468,8 +4468,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-27T01:52:29.2386329+00:00",
+  "LastChanged_Achievements": "2023-12-27T02:27:05.1322802+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-27T01:45:05.0508859+00:00",
-  "LastUpdate_Achievements": "2023-12-27T01:52:29.2386856+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:20:11.6934791+00:00",
+  "LastUpdate_Achievements": "2023-12-27T02:27:05.1323715+00:00"
 }

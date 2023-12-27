@@ -237,9 +237,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 1822,
+  "EOS_Progressed": 1823,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 359,
+  "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4302,6 +4302,11 @@
       "Time": "2023-12-27T01:49:44.335179+00:00",
       "NumProgressed": 1822,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T02:24:49.2902107+00:00",
+      "NumProgressed": 1823,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -4330,7 +4335,7 @@
       "Name": "Blood and Dust",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "AC03",
@@ -4338,15 +4343,15 @@
       "Name": "Blood and Gold",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "AC04",
       "SetID": "l4abp0",
       "Name": "Blood and Iron",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1039
     },
     {
       "ID": "AC05",
@@ -4370,7 +4375,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "AC08",
@@ -4378,7 +4383,7 @@
       "Name": "Forged in Fire",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "AC09",
@@ -4386,7 +4391,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "AC10",
@@ -4394,7 +4399,7 @@
       "Name": "The Wait is Over",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "AC11",
@@ -4410,7 +4415,7 @@
       "Name": "Canvas of Light and Time",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "AC13",
@@ -4514,7 +4519,7 @@
       "Name": "House of Grief and Hatred",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "AC26",
@@ -4562,7 +4567,7 @@
       "Name": "The Merciless One",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "AC32",
@@ -4578,7 +4583,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "AC34",
@@ -4608,9 +4613,9 @@
       "ID": "AC37",
       "SetID": "l4abp0",
       "Name": "Storm of Death",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 346
+      "UsersEstimate": 365
     },
     {
       "ID": "AC38",
@@ -4634,7 +4639,7 @@
       "Name": "Welcome Back!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1403
+      "UsersEstimate": 1404
     },
     {
       "ID": "AC41",
@@ -4681,7 +4686,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 1822,
+      "Progressed": 1823,
       "Completed": 0
     }
   ],
@@ -4689,8 +4694,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-26T03:00:54.7630488+00:00",
-  "LastChanged_Achievements": "2023-12-27T01:49:44.3351785+00:00",
+  "LastChanged_Achievements": "2023-12-27T02:24:49.29021+00:00",
   "LastUpdate_AppInfo": "2023-12-20T02:56:51.3112263+00:00",
-  "LastUpdate_Ratings": "2023-12-27T01:45:26.5358521+00:00",
-  "LastUpdate_Achievements": "2023-12-27T01:49:44.3352204+00:00"
+  "LastUpdate_Ratings": "2023-12-27T02:20:32.3194081+00:00",
+  "LastUpdate_Achievements": "2023-12-27T02:24:49.2902697+00:00"
 }

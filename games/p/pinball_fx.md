@@ -1,7 +1,7 @@
 # Pinball FX
 [Store](https://store.epicgames.com/en-US/p/pinball-fx)  
 [View Rawdata](../../db/p/pinball_fx.json)  
-Rating: 4.06 (Ranked 1,008)  
+Rating: 4.07 (Ranked 1,003)  
 Number of Ratings: 756  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,26 +9,26 @@ Number of Ratings: 756  (23.09.2022)
 | Ball Launched | 2.00% | ~5,750 |
 | I Found it! | 0.60% | ~1,725 |
 | Ready Steady Score | 0.20% | ~575 |
-| Contender | 0.10% | ~287 |
-| My Table, my Rules | 0.10% | ~287 |
-| Collect Them All | 0.10% | ~287 |
-| Shiny Memento | 0.10% | ~287 |
-| First but not Last | 0.10% | ~287 |
-| Table Mastered, part 10 | 0.10% | ~287 |
-| Medal Hunter | 0.10% | ~287 |
-| Medal Wizard | 0.10% | ~287 |
-| Pinball Hoarder | 0.10% | ~287 |
-| Virtual Pinball Museum | 0.10% | ~287 |
-| Nine Zeroes | 0.10% | ~287 |
-| Challenge Accepted! | 0.10% | ~287 |
-| Full Loot Madness | 0.10% | ~287 |
-| Relic Hunter | 0.10% | ~287 |
-| Interior Designer | 0.10% | ~287 |
-| Show Them | 0.10% | ~287 |
-| Totally Furnished | 0.10% | ~287 |
-| Dress Code | 0.10% | ~287 |
-| Customizer | 0.10% | ~287 |
-| I know the Rules | 0.10% | ~287 |
+| Contender | 0.10% | ~288 |
+| My Table, my Rules | 0.10% | ~288 |
+| Collect Them All | 0.10% | ~288 |
+| Shiny Memento | 0.10% | ~288 |
+| First but not Last | 0.10% | ~288 |
+| Table Mastered, part 10 | 0.10% | ~288 |
+| Medal Hunter | 0.10% | ~288 |
+| Medal Wizard | 0.10% | ~288 |
+| Pinball Hoarder | 0.10% | ~288 |
+| Virtual Pinball Museum | 0.10% | ~288 |
+| Nine Zeroes | 0.10% | ~288 |
+| Challenge Accepted! | 0.10% | ~288 |
+| Full Loot Madness | 0.10% | ~288 |
+| Relic Hunter | 0.10% | ~288 |
+| Interior Designer | 0.10% | ~288 |
+| Show Them | 0.10% | ~288 |
+| Totally Furnished | 0.10% | ~288 |
+| Dress Code | 0.10% | ~288 |
+| Customizer | 0.10% | ~288 |
+| I know the Rules | 0.10% | ~288 |
 | Catomic Bomb | 0.10% | ~6 |
 | Terraformer | 0.10% | ~6 |
 | Did It for the Dowry | 0.10% | ~6 |
@@ -46,7 +46,7 @@ Number of Ratings: 756  (23.09.2022)
 | The most beautiful Christmas | 0.00% | ~0 |
 | End of Gloom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 287,496 (Ranked 60)  
+Progressed: 287,508 (Ranked 60)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,14 +297,14 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 286,498 | 0 |
 | 2023-12-25 | 286,941 | 0 |
 | 2023-12-26 | 287,443 | 0 |
-| 2023-12-27 | 287,496 | 0 |
+| 2023-12-27 | 287,508 | 0 |
 ## Awards
-Max (Great for Beginners): 210  (Ranked 289)  
-Sum: 1,628 (Ranked 231)  
-Diff (max vs sum): 58  
+Max (Great for Beginners): 211  (Ranked 289)  
+Sum: 1,629 (Ranked 230)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 210 |
+| This game is Great for Beginners | 211 |
 | This game is Great for Quick Sessions | 195 |
 | This game has Quickly Understood Controls | 168 |
 | This game is Relaxing | 167 |
@@ -525,3 +525,4 @@ Diff (max vs sum): 58
 | 2023-12-23 | 4.06 | - | 210 | 1,624 |
 | 2023-12-24 | 4.06 | - | 210 | 1,626 |
 | 2023-12-26 | 4.06 | - | 210 | 1,628 |
+| 2023-12-27 | 4.07 | - | 211 | 1,629 |
