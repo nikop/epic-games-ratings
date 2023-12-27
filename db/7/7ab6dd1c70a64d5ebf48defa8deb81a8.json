@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1331,
+  "EOS_Progressed": 1332,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 434,
+  "EOS_NewPlayers": 433,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -2617,6 +2617,11 @@
       "Time": "2023-12-27T10:11:12.4386853+00:00",
       "NumProgressed": 1331,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-27T11:09:56.829813+00:00",
+      "NumProgressed": 1332,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2788,7 +2793,7 @@
       "Name": "Big Bazar",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_22",
@@ -2915,7 +2920,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1331,
+      "Progressed": 1332,
       "Completed": 3
     }
   ],
@@ -2923,8 +2928,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2023-12-27T00:00:31.2413182+00:00",
-  "LastChanged_Achievements": "2023-12-27T10:11:12.438685+00:00",
+  "LastChanged_Achievements": "2023-12-27T11:09:56.8298126+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-27T10:03:15.9447417+00:00",
-  "LastUpdate_Achievements": "2023-12-27T10:11:12.4387214+00:00"
+  "LastUpdate_Ratings": "2023-12-27T11:02:45.1371065+00:00",
+  "LastUpdate_Achievements": "2023-12-27T11:09:56.829849+00:00"
 }

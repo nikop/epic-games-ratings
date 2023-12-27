@@ -19,7 +19,7 @@ Rating: 4.14 (Ranked 983)
 | Stone Collection | 17.00% | ~226 |
 | Powerful Allies | 16.00% | ~213 |
 | Tributes of Caladrias | 16.00% | ~213 |
-| Big Bazar | 11.00% | ~146 |
+| Big Bazar | 11.00% | ~147 |
 | Essence Blow | 10.00% | ~133 |
 | Alchemist | 10.00% | ~133 |
 | The Mentor | 7.00% | ~93 |
@@ -42,7 +42,7 @@ Rating: 4.14 (Ranked 983)
 | All That Gold | 0.60% | ~8 |
 | Feeling Fancy | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,331 (Ranked 263)  
+Progressed: 1,332 (Ranked 263)  
 Completed: 3 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 3 (0.23%) (Ranked 267)
 | 2023-12-24 | 1,187 | 3 |
 | 2023-12-25 | 1,248 | 3 |
 | 2023-12-26 | 1,308 | 3 |
-| 2023-12-27 | 1,331 | 3 |
+| 2023-12-27 | 1,332 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

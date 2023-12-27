@@ -1865,9 +1865,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 19527,
+  "EOS_Progressed": 19529,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1340,
+  "EOS_NewPlayers": 1333,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -11385,6 +11385,11 @@
       "Time": "2023-12-27T10:10:25.9176294+00:00",
       "NumProgressed": 19527,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-27T11:09:21.2835608+00:00",
+      "NumProgressed": 19529,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -11500,7 +11505,7 @@
       "Name": "Get a Grip",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 3124
+      "UsersEstimate": 3125
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -11572,7 +11577,7 @@
       "Name": "Paper Jams",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3124
+      "UsersEstimate": 3125
     },
     {
       "ID": "SHARE_PHOTO",
@@ -11612,7 +11617,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "STORY_MINETOWN",
@@ -11771,13 +11776,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 19527,
+      "Progressed": 19529,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 7453,
+      "Progressed": 7455,
       "Completed": 29
     }
   ],
@@ -11785,8 +11790,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-26T22:02:56.2350544+00:00",
-  "LastChanged_Achievements": "2023-12-27T10:10:25.9176291+00:00",
+  "LastChanged_Achievements": "2023-12-27T11:09:21.2835604+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3019969+00:00",
-  "LastUpdate_Ratings": "2023-12-27T10:03:58.6853728+00:00",
-  "LastUpdate_Achievements": "2023-12-27T10:10:25.917728+00:00"
+  "LastUpdate_Ratings": "2023-12-27T11:03:15.9813953+00:00",
+  "LastUpdate_Achievements": "2023-12-27T11:09:21.2836473+00:00"
 }

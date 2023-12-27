@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17547,
+  "EOS_Progressed": 17552,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 656,
+  "EOS_NewPlayers": 659,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -15317,6 +15317,11 @@
       "Time": "2023-12-27T10:05:44.6428742+00:00",
       "NumProgressed": 17547,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-27T11:04:35.7108755+00:00",
+      "NumProgressed": 17552,
+      "NumCompleted": 53
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15329,7 +15334,7 @@
       "Name": "Urshanabi Hoarder",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "10",
@@ -15361,7 +15366,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2633
     },
     {
       "ID": "14",
@@ -15369,7 +15374,7 @@
       "Name": "Doctor Approved",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "15",
@@ -15377,7 +15382,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "16",
@@ -15393,7 +15398,7 @@
       "Name": "Spore Taste",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "18",
@@ -15401,7 +15406,7 @@
       "Name": "Bottoms up!",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "19",
@@ -15417,15 +15422,15 @@
       "Name": "Data Logger",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "20",
       "SetID": "458bbdk",
       "Name": "Thorston Mayer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 877
+      "UsersEstimate": 1053
     },
     {
       "ID": "21",
@@ -15449,7 +15454,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "24",
@@ -15473,7 +15478,7 @@
       "Name": "Call it Even",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "27",
@@ -15481,7 +15486,7 @@
       "Name": "Bosmang",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 1930
+      "UsersEstimate": 1931
     },
     {
       "ID": "28",
@@ -15529,7 +15534,7 @@
       "Name": "Data Master",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "6",
@@ -15537,7 +15542,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1930
+      "UsersEstimate": 1931
     },
     {
       "ID": "7",
@@ -15553,7 +15558,7 @@
       "Name": "Data Recoverer",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "9",
@@ -15585,7 +15590,7 @@
       "Name": "Zen Master",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "34",
@@ -15608,13 +15613,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17547,
+      "Progressed": 17552,
       "Completed": 53
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3501,
+      "Progressed": 3506,
       "Completed": 1070
     }
   ],
@@ -15622,8 +15627,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-27T06:00:51.7325186+00:00",
-  "LastChanged_Achievements": "2023-12-27T10:05:44.6428739+00:00",
+  "LastChanged_Achievements": "2023-12-27T11:04:35.710875+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-27T10:01:04.261375+00:00",
-  "LastUpdate_Achievements": "2023-12-27T10:05:44.6429673+00:00"
+  "LastUpdate_Ratings": "2023-12-27T10:59:44.2146206+00:00",
+  "LastUpdate_Achievements": "2023-12-27T11:04:35.7109676+00:00"
 }

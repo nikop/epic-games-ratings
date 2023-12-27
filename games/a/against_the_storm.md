@@ -6,23 +6,23 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overgrown Library | 7.00% | ~1,357 |
-| Abandoned Settlement | 6.00% | ~1,163 |
-| Petrified Necropolis | 6.00% | ~1,163 |
-| First Real Expedition | 5.00% | ~969 |
-| Taking Action | 5.00% | ~969 |
-| No Deaths | 5.00% | ~969 |
-| Gathering Storm | 5.00% | ~969 |
-| Overcoming Difficulty | 4.00% | ~775 |
-| Coral Forest | 4.00% | ~775 |
-| The Marshlands | 4.00% | ~775 |
-| The Scarlet Orchard | 4.00% | ~775 |
-| Frosts | 4.00% | ~775 |
-| Land of Greed | 4.00% | ~775 |
-| Ominous Presence | 4.00% | ~775 |
-| Royal Outpost | 3.00% | ~581 |
-| Watchtower | 3.00% | ~581 |
-| Untamed Wilds | 3.00% | ~581 |
+| Overgrown Library | 7.00% | ~1,358 |
+| Abandoned Settlement | 6.00% | ~1,164 |
+| Petrified Necropolis | 6.00% | ~1,164 |
+| First Real Expedition | 5.00% | ~970 |
+| Taking Action | 5.00% | ~970 |
+| No Deaths | 5.00% | ~970 |
+| Gathering Storm | 5.00% | ~970 |
+| Overcoming Difficulty | 4.00% | ~776 |
+| Coral Forest | 4.00% | ~776 |
+| The Marshlands | 4.00% | ~776 |
+| The Scarlet Orchard | 4.00% | ~776 |
+| Frosts | 4.00% | ~776 |
+| Land of Greed | 4.00% | ~776 |
+| Ominous Presence | 4.00% | ~776 |
+| Royal Outpost | 3.00% | ~582 |
+| Watchtower | 3.00% | ~582 |
+| Untamed Wilds | 3.00% | ~582 |
 | Homesick | 2.00% | ~388 |
 | Ruined Armory | 2.00% | ~388 |
 | Bandit Camp | 2.00% | ~388 |
@@ -42,10 +42,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Haunted Forest | 1.00% | ~194 |
 | Flooded Mines | 1.00% | ~194 |
 | Defying the Crown | 1.00% | ~194 |
-| Serving Ale | 0.90% | ~174 |
-| Fishmen Ritual Site | 0.90% | ~174 |
-| Victory Through Prosperity | 0.90% | ~174 |
-| Into the Forest | 0.90% | ~174 |
+| Serving Ale | 0.90% | ~175 |
+| Fishmen Ritual Site | 0.90% | ~175 |
+| Victory Through Prosperity | 0.90% | ~175 |
+| Into the Forest | 0.90% | ~175 |
 | Efficient Explorer | 0.70% | ~136 |
 | Refinery | 0.70% | ~136 |
 | Dangerous Lands | 0.70% | ~136 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,382 (Ranked 150)  
+Progressed: 19,393 (Ranked 150)  
 Completed: 37 (0.19%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 37 (0.19%) (Ranked 276)
 | 2023-12-24 | 19,141 | 38 |
 | 2023-12-25 | 19,247 | 38 |
 | 2023-12-26 | 19,350 | 38 |
-| 2023-12-27 | 19,382 | 38 |
+| 2023-12-27 | 19,393 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 445  (Ranked 228)  
 Sum: 3,296 (Ranked 176)  

@@ -2,7 +2,7 @@
   "ID": "cbbb7e8728a3476f97e44f3856c3cb13",
   "Name": "Anno 2205 - Standard Edition",
   "ProductSlug": "anno-2205",
-  "Ranking_Rating": 641,
+  "Ranking_Rating": 624,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 816,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.48,
+  "Rating": 4.49,
   "NumberOfRatings": 76,
   "RatingHistory": [
     {
@@ -449,6 +449,12 @@
       "Rating": 4.48,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-27T10:59:30.7190891+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -466,8 +472,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:07.0175172+00:00",
-  "LastChanged": "2023-12-02T17:57:46.2147249+00:00",
+  "LastChanged": "2023-12-27T10:59:30.7190889+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:13.8084354+00:00",
-  "LastUpdate_Ratings": "2023-12-27T10:00:44.5227636+00:00",
-  "LastUpdate_Achievements": "2023-12-27T10:09:54.8201672+00:00"
+  "LastUpdate_Ratings": "2023-12-27T10:59:30.7190894+00:00",
+  "LastUpdate_Achievements": "2023-12-27T11:08:58.0308408+00:00"
 }

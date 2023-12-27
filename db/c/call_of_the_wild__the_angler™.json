@@ -1015,9 +1015,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7626,
+  "EOS_Progressed": 7631,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 380,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12420,6 +12420,11 @@
       "Time": "2023-12-27T10:07:53.2465597+00:00",
       "NumProgressed": 7626,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T11:06:12.61898+00:00",
+      "NumProgressed": 7631,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -12447,7 +12452,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -12463,7 +12468,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -12471,7 +12476,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -12479,7 +12484,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -12495,7 +12500,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -12750,13 +12755,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7626,
+      "Progressed": 7631,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 6998,
+      "Progressed": 7003,
       "Completed": 113
     }
   ],
@@ -12764,8 +12769,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-26T19:00:49.2434236+00:00",
-  "LastChanged_Achievements": "2023-12-27T10:07:53.2465591+00:00",
+  "LastChanged_Achievements": "2023-12-27T11:06:12.6189796+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:25.278975+00:00",
-  "LastUpdate_Ratings": "2023-12-27T10:01:18.7446656+00:00",
-  "LastUpdate_Achievements": "2023-12-27T10:07:53.2466213+00:00"
+  "LastUpdate_Ratings": "2023-12-27T10:59:54.1075869+00:00",
+  "LastUpdate_Achievements": "2023-12-27T11:06:12.6190537+00:00"
 }

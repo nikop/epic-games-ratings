@@ -1398,9 +1398,9 @@
       "ID": "MechanicalBuddy",
       "SetID": "1jeo1g7",
       "Name": "Mechanical Buddy",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 178
     },
     {
       "ID": "MeissasSavior",
@@ -1558,9 +1558,9 @@
       "ID": "StellarDismantler",
       "SetID": "1jeo1g7",
       "Name": "Stellar Dismantler",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 88
     },
     {
       "ID": "StellarHaste",
@@ -1845,8 +1845,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-27T10:09:12.3469467+00:00",
+  "LastChanged_Achievements": "2023-12-27T11:08:26.6294519+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:02.5351328+00:00",
-  "LastUpdate_Ratings": "2023-12-27T09:57:13.1313859+00:00",
-  "LastUpdate_Achievements": "2023-12-27T10:09:12.3470386+00:00"
+  "LastUpdate_Ratings": "2023-12-27T10:56:59.0034079+00:00",
+  "LastUpdate_Achievements": "2023-12-27T11:08:26.629538+00:00"
 }

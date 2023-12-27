@@ -8,14 +8,14 @@ Number of Ratings: 371  (23.09.2022)
 | ---- | ---------- | ----- |
 | Executioner | 15.00% | ~542 |
 | Watch Where You Step... | 12.00% | ~433 |
+| An Ill Omen | 12.00% | ~433 |
 | Look Over There! | 11.00% | ~397 |
 | Not So Fast... | 11.00% | ~397 |
-| An Ill Omen | 11.00% | ~397 |
 | Purging Spree | 8.00% | ~289 |
 | Blood for the Blood God! | 7.00% | ~253 |
 | Bloodless | 6.00% | ~217 |
-| Surgical Excision | 5.00% | ~180 |
-| Friendly Fire | 5.00% | ~180 |
+| Surgical Excision | 5.00% | ~181 |
+| Friendly Fire | 5.00% | ~181 |
 | Honoured Battle-Brother | 4.00% | ~144 |
 | The Emperor Protects | 4.00% | ~144 |
 | A Foul Creche | 4.00% | ~144 |
@@ -38,10 +38,10 @@ Number of Ratings: 371  (23.09.2022)
 | Long Distance Call | 1.00% | ~36 |
 | Tactical Flexibility | 1.00% | ~36 |
 | Tactical Sabotage | 1.00% | ~36 |
-| Patron of Deimos | 0.90% | ~32 |
-| For the Machine God | 0.90% | ~32 |
-| Engine Kill | 0.90% | ~32 |
-| Death Comes For All | 0.90% | ~32 |
+| Patron of Deimos | 0.90% | ~33 |
+| For the Machine God | 0.90% | ~33 |
+| Engine Kill | 0.90% | ~33 |
+| Death Comes For All | 0.90% | ~33 |
 | Hands-On Research | 0.70% | ~25 |
 | Harvest No More | 0.70% | ~25 |
 | Strike Force | 0.60% | ~22 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,610 (Ranked 215)  
+Progressed: 3,612 (Ranked 215)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 3,576 | 0 |
 | 2023-12-25 | 3,593 | 0 |
 | 2023-12-26 | 3,607 | 0 |
-| 2023-12-27 | 3,610 | 0 |
+| 2023-12-27 | 3,612 | 0 |
 ## Awards
 Max (Character Customization): 231  (Ranked 280)  
 Sum: 492 (Ranked 334)  

@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 194,
+  "EOS_Progressed": 195,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
@@ -779,6 +779,11 @@
       "Time": "2023-12-27T08:04:01.2045014+00:00",
       "NumProgressed": 194,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T11:04:00.932088+00:00",
+      "NumProgressed": 195,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T14:06:40.4198033+00:00",
@@ -799,7 +804,7 @@
       "Name": "Aristocratic",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "Botropolis",
@@ -807,7 +812,7 @@
       "Name": "Botropolis",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ClickEmAll",
@@ -823,7 +828,7 @@
       "Name": "Conducted Trade",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "DiggingAHole",
@@ -831,7 +836,7 @@
       "Name": "Digging a Hole",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "DopaMiner",
@@ -847,7 +852,7 @@
       "Name": "Going Places",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "GottaGoFast",
@@ -855,7 +860,7 @@
       "Name": "Gotta Go Fast",
       "Percentage": 45,
       "XP": 90,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ImALumberbot",
@@ -885,9 +890,9 @@
       "ID": "ManicMechanic",
       "SetID": "4bd750m",
       "Name": "Manic Mechanic",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "Mathematic",
@@ -895,15 +900,15 @@
       "Name": "Mathematic",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "MineSweeper",
       "SetID": "4bd750m",
       "Name": "Mine Sweeper",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 74
     },
     {
       "ID": "NothingButRoad",
@@ -943,7 +948,7 @@
       "Name": "Slotting Machine",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "StackOverflow",
@@ -957,9 +962,9 @@
       "ID": "SteamPowered",
       "SetID": "4bd750m",
       "Name": "Steam Powered",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 35
+      "UsersEstimate": 33
     },
     {
       "ID": "SteamingRich",
@@ -975,7 +980,7 @@
       "Name": "Systematic",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "TuttiFrutti",
@@ -991,7 +996,7 @@
       "Name": "Up, Up And Away!",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Whoa",
@@ -999,7 +1004,7 @@
       "Name": "Whoa!",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Yup",
@@ -1014,14 +1019,14 @@
     {
       "ID": "4bd750m",
       "IsBase": true,
-      "Progressed": 194,
+      "Progressed": 195,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-27T10:04:58.0779957+00:00",
+  "LastChanged_Achievements": "2023-12-27T11:04:00.9320876+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3930423+00:00",
-  "LastUpdate_Ratings": "2023-12-27T10:03:58.1512862+00:00",
-  "LastUpdate_Achievements": "2023-12-27T10:04:58.0780192+00:00"
+  "LastUpdate_Ratings": "2023-12-27T11:03:17.1612416+00:00",
+  "LastUpdate_Achievements": "2023-12-27T11:04:00.9321088+00:00"
 }

@@ -32,7 +32,6 @@
 | Halls of Marble | 3.00% | ~116 |
 | Serpentine | 3.00% | ~116 |
 | Wayward Son of Hephaestus | 2.00% | ~77 |
-| Lament of the Constellations | 2.00% | ~77 |
 | Forged in Fire | 2.00% | ~77 |
 | Rock and a Hard Place | 2.00% | ~77 |
 | The Midas Touch | 2.00% | ~77 |
@@ -45,6 +44,7 @@
 | Mors Omnibus | 2.00% | ~77 |
 | Blot Out the Sky | 2.00% | ~77 |
 | The Nameless One | 1.00% | ~39 |
+| Lament of the Constellations | 1.00% | ~39 |
 | Rule of Thirds | 1.00% | ~39 |
 | Pyr Demon | 1.00% | ~39 |
 | Don't Pay the Ferryman | 1.00% | ~39 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,866 (Ranked 209)  
+Progressed: 3,867 (Ranked 209)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 3,848 | 0 |
 | 2023-12-25 | 3,855 | 0 |
 | 2023-12-26 | 3,863 | 0 |
-| 2023-12-27 | 3,866 | 0 |
+| 2023-12-27 | 3,867 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

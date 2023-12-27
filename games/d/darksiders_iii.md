@@ -1,7 +1,7 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.49 (Ranked 623)  
+Rating: 4.49 (Ranked 624)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -24,12 +24,12 @@ Number of Ratings: 116  (23.09.2022)
 | Five's a Crowd | 38.00% | ~86 |
 | Unshakable Fortitude | 37.00% | ~84 |
 | Salvation | 36.00% | ~81 |
+| Delusions of Grandeur | 34.00% | ~77 |
 | I Wanna Rock | 33.00% | ~75 |
-| Delusions of Grandeur | 33.00% | ~75 |
 | Maximum Vigor | 31.00% | ~70 |
 | Love Tap | 31.00% | ~70 |
+| Freeze Frame | 29.00% | ~66 |
 | For Whom the Bell Tolls | 29.00% | ~66 |
-| Freeze Frame | 28.00% | ~63 |
 | Eat Your Heart Out | 28.00% | ~63 |
 | Unyielding Strength | 24.00% | ~54 |
 | Cleanup Crew | 22.00% | ~50 |

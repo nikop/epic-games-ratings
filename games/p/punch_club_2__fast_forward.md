@@ -4,58 +4,58 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 88.00% | ~421 |
-| Your first fight | 85.00% | ~406 |
-| Good Person Chip | 83.00% | ~397 |
-| First winning | 82.00% | ~392 |
-| Your first job | 81.00% | ~387 |
-| Depressed visitor | 76.00% | ~363 |
-| Old movies enjoyer | 75.00% | ~358 |
-| Neurotrainer – power gainer! | 75.00% | ~358 |
+| Such a strange dream… | 88.00% | ~422 |
+| Your first fight | 85.00% | ~407 |
+| Good Person Chip | 83.00% | ~398 |
+| First winning | 82.00% | ~393 |
+| Your first job | 81.00% | ~388 |
+| Depressed visitor | 76.00% | ~364 |
+| Old movies enjoyer | 75.00% | ~359 |
+| Neurotrainer – power gainer! | 75.00% | ~359 |
 | Fitness professional | 74.00% | ~354 |
-| Employee of the week | 74.00% | ~354 |
-| Your own amateur gym | 68.00% | ~325 |
-| First defeat | 68.00% | ~325 |
-| Run K, run! | 68.00% | ~325 |
-| Hello, world! | 67.00% | ~320 |
-| No bullying more | 66.00% | ~315 |
+| Employee of the week | 73.00% | ~350 |
+| Your own amateur gym | 68.00% | ~326 |
+| Run K, run! | 68.00% | ~326 |
+| First defeat | 67.00% | ~321 |
+| Hello, world! | 67.00% | ~321 |
+| No bullying more | 66.00% | ~316 |
 | Fighting is cool | 65.00% | ~311 |
-| Pal of your father? | 63.00% | ~301 |
+| Pal of your father? | 63.00% | ~302 |
 | Spirit of the past | 61.00% | ~292 |
 | Employee of the month | 60.00% | ~287 |
-| Law student | 58.00% | ~277 |
+| Law student | 58.00% | ~278 |
 | Workout professional | 55.00% | ~263 |
 | Little hacker | 55.00% | ~263 |
 | Handyman | 55.00% | ~263 |
 | Champion – starter pack | 55.00% | ~263 |
-| Fight for life | 54.00% | ~258 |
-| It's good to be alive | 54.00% | ~258 |
-| Employee of the year | 54.00% | ~258 |
-| Own four walls | 53.00% | ~253 |
-| Intriguing candies | 53.00% | ~253 |
-| Extreme neuropower! | 50.00% | ~239 |
-| Legal courier | 49.00% | ~234 |
+| Fight for life | 54.00% | ~259 |
+| It's good to be alive | 54.00% | ~259 |
+| Own four walls | 53.00% | ~254 |
+| Intriguing candies | 53.00% | ~254 |
+| Employee of the year | 53.00% | ~254 |
+| Extreme neuropower! | 50.00% | ~240 |
+| Legal courier | 49.00% | ~235 |
 | Escaped from a big trouble | 47.00% | ~225 |
 | Now you are worthy | 42.00% | ~201 |
 | Fight is life | 42.00% | ~201 |
 | Mysterious voice | 41.00% | ~196 |
 | Guiding on the right path | 41.00% | ~196 |
-| No blades in the gym | 39.00% | ~186 |
+| No blades in the gym | 39.00% | ~187 |
 | Champion – no way back | 38.00% | ~182 |
 | Underground dwellers | 37.00% | ~177 |
 | Responsible approach | 37.00% | ~177 |
-| Deal with life | 36.00% | ~172 |
-| Mom got better | 35.00% | ~167 |
-| GYM professional | 35.00% | ~167 |
-| The die is cast | 35.00% | ~167 |
+| Mom got better | 35.00% | ~168 |
+| Deal with life | 35.00% | ~168 |
+| GYM professional | 35.00% | ~168 |
 | Poisoned fighter | 34.00% | ~163 |
 | Get out of my apartment! | 34.00% | ~163 |
+| The die is cast | 34.00% | ~163 |
 | Gang wrangler | 32.00% | ~153 |
 | Seashell hunter | 32.00% | ~153 |
 | Undercover robot | 32.00% | ~153 |
 | Problems of cyborgs | 31.00% | ~148 |
 | Absolute Champion! | 31.00% | ~148 |
-| Not little hacker | 30.00% | ~143 |
+| Not little hacker | 30.00% | ~144 |
 | Trap disarmed | 29.00% | ~139 |
 | The lonesome road | 29.00% | ~139 |
 | Keep nature safe | 29.00% | ~139 |
@@ -67,11 +67,11 @@
 | Your own way | 29.00% | ~139 |
 | Another world | 28.00% | ~134 |
 | The last bell ring | 28.00% | ~134 |
-| Better cooking at home | 26.00% | ~124 |
-| The only right decision | 26.00% | ~124 |
+| Better cooking at home | 26.00% | ~125 |
+| The only right decision | 26.00% | ~125 |
 | Silver’s past | 25.00% | ~120 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 478 (Ranked 337)  
+Progressed: 479 (Ranked 337)  
 Completed: 9 (1.88%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,4 +177,4 @@ Completed: 9 (1.88%) (Ranked 138)
 | 2023-12-24 | 461 | 9 |
 | 2023-12-25 | 468 | 9 |
 | 2023-12-26 | 476 | 9 |
-| 2023-12-27 | 478 | 9 |
+| 2023-12-27 | 479 | 9 |

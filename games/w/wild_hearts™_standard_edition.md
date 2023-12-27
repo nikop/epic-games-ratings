@@ -33,9 +33,9 @@
 | Team Hunter | 20.00% | ~186 |
 | Karakuri Isle | 18.00% | ~167 |
 | Reincarnation Cycle Stopper | 18.00% | ~167 |
+| Human Believer | 16.00% | ~149 |
 | Left Arm Leverager | 15.00% | ~139 |
 | Style Seeker | 15.00% | ~139 |
-| Human Believer | 15.00% | ~139 |
 | Unrivaled in Arms | 15.00% | ~139 |
 | Quintessence of Form | 15.00% | ~139 |
 | Threaded Harmony | 15.00% | ~139 |

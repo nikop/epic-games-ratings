@@ -4,7 +4,7 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3866,
+  "EOS_Progressed": 3867,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4386,6 +4386,11 @@
       "Time": "2023-12-27T01:49:02.3068613+00:00",
       "NumProgressed": 3866,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T11:04:14.3749412+00:00",
+      "NumProgressed": 3867,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -4427,9 +4432,9 @@
       "ID": "ACH_B_KK",
       "SetID": "b3fep3o",
       "Name": "Lament of the Constellations",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_ELY",
@@ -4900,7 +4905,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3866,
+      "Progressed": 3867,
       "Completed": 0
     }
   ],
@@ -4908,8 +4913,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-12-27T10:05:16.0790164+00:00",
+  "LastChanged_Achievements": "2023-12-27T11:04:14.3749407+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:17.7377939+00:00",
-  "LastUpdate_Ratings": "2023-12-27T09:59:38.2291002+00:00",
-  "LastUpdate_Achievements": "2023-12-27T10:05:16.0790891+00:00"
+  "LastUpdate_Ratings": "2023-12-27T10:58:44.0007312+00:00",
+  "LastUpdate_Achievements": "2023-12-27T11:04:14.3749984+00:00"
 }

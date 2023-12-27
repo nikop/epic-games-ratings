@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Just Went Shopping | 98.00% | ~356 |
-| Decision Maker | 80.00% | ~290 |
+| Decision Maker | 81.00% | ~294 |
 | Sneaky Sneak | 77.00% | ~280 |
 | DIY | 77.00% | ~280 |
 | Master Chef | 65.00% | ~236 |

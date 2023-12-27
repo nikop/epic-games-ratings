@@ -6,7 +6,7 @@ Rating: 3.58 (Ranked 1,069)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 14.00% | ~294 |
-| Catch and Release | 10.00% | ~210 |
+| Catch and Release | 11.00% | ~231 |
 | Home Is Where the Heart Is | 9.00% | ~189 |
 | ICU | 9.00% | ~189 |
 | Wounded Whispers | 9.00% | ~189 |

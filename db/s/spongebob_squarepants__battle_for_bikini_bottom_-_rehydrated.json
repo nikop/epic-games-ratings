@@ -319,7 +319,7 @@
   ],
   "EOS_Progressed": 420,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -1208,9 +1208,9 @@
       "ID": "ACH_CHUM_BUCKET_BRAIN",
       "SetID": "biiejkc",
       "Name": "The Small Does Not Rule",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_COMPLETION",
@@ -1424,9 +1424,9 @@
       "ID": "ACH_STAT_STAR_SMASHER",
       "SetID": "biiejkc",
       "Name": "Star Smasher",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_SURFS_UP",
@@ -1456,8 +1456,8 @@
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-27T10:06:13.5640594+00:00",
+  "LastChanged_Achievements": "2023-12-27T11:04:57.405563+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-27T10:00:26.1463673+00:00",
-  "LastUpdate_Achievements": "2023-12-27T10:06:13.5640884+00:00"
+  "LastUpdate_Ratings": "2023-12-27T10:59:18.6453565+00:00",
+  "LastUpdate_Achievements": "2023-12-27T11:04:57.4055859+00:00"
 }

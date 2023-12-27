@@ -2,9 +2,9 @@
   "ID": "0407f287e7574d88b7c00895f14628d8",
   "Name": "Settlement Survival",
   "ProductSlug": "settlement-survival-923f57",
-  "Ranking_EOS_Progress": 441,
+  "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 145,
+  "EOS_Progressed": 146,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -569,6 +569,11 @@
       "Time": "2023-12-27T03:07:23.4390586+00:00",
       "NumProgressed": 145,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T11:05:56.2534018+00:00",
+      "NumProgressed": 146,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -683,9 +688,9 @@
       "ID": "g1",
       "SetID": "b1ggf28",
       "Name": "Skilled Workers",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 69
     },
     {
       "ID": "g2",
@@ -701,7 +706,7 @@
       "Name": "Handcart",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "j1",
@@ -709,7 +714,7 @@
       "Name": "Civilized Land",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "j2",
@@ -749,7 +754,7 @@
       "Name": "Full Load",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "jk1",
@@ -813,7 +818,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "k3",
@@ -891,7 +896,7 @@
       "ID": "w1",
       "SetID": "b1ggf28",
       "Name": "Against the Cold",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 20,
       "UsersEstimate": 88
     },
@@ -925,7 +930,7 @@
       "Name": "Hard-Drinking",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "x3",
@@ -988,14 +993,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 145,
+      "Progressed": 146,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-27T10:07:32.1069018+00:00",
+  "LastChanged_Achievements": "2023-12-27T11:05:56.2534013+00:00",
   "LastUpdate_AppInfo": "2023-12-27T04:56:58.3049887+00:00",
-  "LastUpdate_Ratings": "2023-12-27T10:03:35.76055+00:00",
-  "LastUpdate_Achievements": "2023-12-27T10:07:32.1069462+00:00"
+  "LastUpdate_Ratings": "2023-12-27T11:02:59.0676731+00:00",
+  "LastUpdate_Achievements": "2023-12-27T11:05:56.2534483+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -801,9 +801,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3610,
+  "EOS_Progressed": 3612,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4951,6 +4951,11 @@
       "Time": "2023-12-27T10:07:29.6284925+00:00",
       "NumProgressed": 3610,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T11:05:54.5624026+00:00",
+      "NumProgressed": 3612,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5026,7 +5031,7 @@
       "Name": "Patron of Deimos",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Dominus",
@@ -5058,7 +5063,7 @@
       "Name": "Surgical Excision",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -5082,7 +5087,7 @@
       "Name": "For the Machine God",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "FrequentWarpSurges",
@@ -5170,7 +5175,7 @@
       "Name": "Friendly Fire",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "Kills_Interactable",
@@ -5208,9 +5213,9 @@
       "ID": "KoramarCompleted",
       "SetID": "3jha1np",
       "Name": "An Ill Omen",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 397
+      "UsersEstimate": 433
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -5362,7 +5367,7 @@
       "Name": "Engine Kill",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ReaperDefeated_Mortus",
@@ -5394,7 +5399,7 @@
       "Name": "Death Comes For All",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "SacristaCompleted",
@@ -5505,21 +5510,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3610,
+      "Progressed": 3612,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3610,
+      "Progressed": 3612,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-24T12:02:56.3421491+00:00",
-  "LastChanged_Achievements": "2023-12-27T10:07:29.6284921+00:00",
+  "LastChanged_Achievements": "2023-12-27T11:05:54.5624022+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:54.0012795+00:00",
-  "LastUpdate_Ratings": "2023-12-27T10:03:53.7830571+00:00",
-  "LastUpdate_Achievements": "2023-12-27T10:07:29.6285531+00:00"
+  "LastUpdate_Ratings": "2023-12-27T11:03:12.4417303+00:00",
+  "LastUpdate_Achievements": "2023-12-27T11:05:54.5624649+00:00"
 }

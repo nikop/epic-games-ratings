@@ -2,7 +2,7 @@
   "ID": "4b35838425c74992ad42e1276b2161ca",
   "Name": "Immortals Fenyx Rising Standard Edition",
   "ProductSlug": "immortals-fenyx-rising",
-  "Ranking_Rating": 422,
+  "Ranking_Rating": 441,
   "Ranking_Popularity": 174,
   "Ranking_PopularitySum": 248,
   "Ranking_EOS_Progress": 816,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "NumberOfRatings": 791,
   "RatingHistory": [
     {
@@ -2458,6 +2458,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 1292,
       "NumberOfAwardsMax": 834
+    },
+    {
+      "Time": "2023-12-27T10:59:55.2689837+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1292,
+      "NumberOfAwardsMax": 834
     }
   ],
   "ReviewsDisabled": false,
@@ -2537,8 +2543,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:58.8142388+00:00",
-  "LastChanged": "2023-12-26T01:42:46.7267828+00:00",
+  "LastChanged": "2023-12-27T10:59:55.2689835+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:26.410228+00:00",
-  "LastUpdate_Ratings": "2023-12-27T10:01:20.4480144+00:00",
-  "LastUpdate_Achievements": "2023-12-27T10:06:42.2504856+00:00"
+  "LastUpdate_Ratings": "2023-12-27T10:59:55.2689842+00:00",
+  "LastUpdate_Achievements": "2023-12-27T11:05:19.1631014+00:00"
 }

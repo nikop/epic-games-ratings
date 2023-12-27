@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 57.00% | ~254 |
-| Starting Skyward | 51.00% | ~227 |
+| In the Black | 57.00% | ~255 |
+| Starting Skyward | 51.00% | ~228 |
 | Grime is Not Good | 45.00% | ~201 |
 | Floor Galore | 39.00% | ~174 |
-| Campaign Launch | 38.00% | ~169 |
-| Dinner Dash | 38.00% | ~169 |
+| Campaign Launch | 38.00% | ~170 |
+| Dinner Dash | 38.00% | ~170 |
 | Need a Consult | 35.00% | ~156 |
 | Upgrade Unlock | 35.00% | ~156 |
 | It's Technical | 35.00% | ~156 |
-| Delegate Maintenance | 31.00% | ~138 |
+| Delegate Maintenance | 31.00% | ~139 |
 | Proper Walls | 30.00% | ~134 |
 | Destination Destiny | 30.00% | ~134 |
 | Happy Tenants | 25.00% | ~112 |
@@ -22,19 +22,19 @@
 | Your Prestige is Rising | 23.00% | ~103 |
 | Retail Revenue | 23.00% | ~103 |
 | Don't Feel a Loan | 22.00% | ~98 |
-| Artfully Done | 20.00% | ~89 |
 | People Mover | 20.00% | ~89 |
 | Lux Living | 19.00% | ~85 |
+| Artfully Done | 19.00% | ~85 |
 | Emporium Empire | 19.00% | ~85 |
 | Leveled Up Shops | 19.00% | ~85 |
 | We Don't Need No Education | 19.00% | ~85 |
 | Tasty Profits | 18.00% | ~80 |
 | Get Electrified | 18.00% | ~80 |
 | Rehab Expert | 17.00% | ~76 |
-| Established Fame | 16.00% | ~71 |
+| Established Fame | 16.00% | ~72 |
 | Under One Roof | 15.00% | ~67 |
 | Cashflow Chief | 15.00% | ~67 |
-| Starred Dining | 14.00% | ~62 |
+| Starred Dining | 14.00% | ~63 |
 | Smooth Operator | 12.00% | ~54 |
 | Boutique Benefits | 12.00% | ~54 |
 | Thrilled Tenants | 12.00% | ~54 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 446 (Ranked 344)  
+Progressed: 447 (Ranked 344)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,6 +207,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 434 | 0 |
 | 2023-12-25 | 440 | 0 |
 | 2023-12-26 | 446 | 0 |
+| 2023-12-27 | 447 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

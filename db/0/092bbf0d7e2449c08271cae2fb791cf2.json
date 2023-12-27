@@ -2,7 +2,7 @@
   "ID": "092bbf0d7e2449c08271cae2fb791cf2",
   "Name": "CHUCHEL",
   "ProductSlug": "chuchel-203808",
-  "Ranking_EOS_Progress": 378,
+  "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 82,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 306,
+  "EOS_Progressed": 307,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -1009,6 +1009,11 @@
       "Time": "2023-12-27T04:05:28.4433414+00:00",
       "NumProgressed": 306,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-27T11:04:45.7337906+00:00",
+      "NumProgressed": 307,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1029,7 +1034,7 @@
       "Name": "Blabber",
       "Percentage": 50,
       "XP": 145,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ach3",
@@ -1067,23 +1072,23 @@
       "ID": "ach7",
       "SetID": "796kfpa",
       "Name": "Snail Racing Champion",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 145,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     }
   ],
   "AchievementSets": [
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 306,
+      "Progressed": 307,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-12-27T10:05:58.0755392+00:00",
+  "LastChanged_Achievements": "2023-12-27T11:04:45.7337901+00:00",
   "LastUpdate_AppInfo": "2023-12-20T19:57:05.4963637+00:00",
-  "LastUpdate_Ratings": "2023-12-27T10:00:14.5055417+00:00",
-  "LastUpdate_Achievements": "2023-12-27T10:05:58.0755507+00:00"
+  "LastUpdate_Ratings": "2023-12-27T10:59:10.3825528+00:00",
+  "LastUpdate_Achievements": "2023-12-27T11:04:45.7338032+00:00"
 }

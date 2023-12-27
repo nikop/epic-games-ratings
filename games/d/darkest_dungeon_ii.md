@@ -6,12 +6,12 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~551 |
+| Malpractice Assurance | 11.00% | ~552 |
 | Lost and Found | 7.00% | ~351 |
 | This Belongs in a Museum | 5.00% | ~6,507 |
 | Autodidact | 5.00% | ~6,507 |
-| This guy... again? | 5.00% | ~250 |
-| Bloody Graduation | 5.00% | ~250 |
+| This guy... again? | 5.00% | ~251 |
+| Bloody Graduation | 5.00% | ~251 |
 | Serenity Now! | 4.00% | ~5,206 |
 | Not Today! | 4.00% | ~5,206 |
 | Creep and Sleep | 4.00% | ~5,206 |
@@ -20,7 +20,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Overdue Notice | 4.00% | ~5,206 |
 | Escape from the Black Hole | 4.00% | ~5,206 |
 | To Grandmother's House | 4.00% | ~5,206 |
-| Ploughshares to Swords | 4.00% | ~200 |
+| Ploughshares to Swords | 4.00% | ~201 |
 | Don't Make Me Turn This Coach Around | 3.00% | ~3,904 |
 | It Rings a Bell | 3.00% | ~3,904 |
 | It Happens | 3.00% | ~3,904 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,140 (Ranked 87)  
+Progressed: 130,146 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,10 +327,10 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-24 | 129,675 | 3 |
 | 2023-12-25 | 129,858 | 3 |
 | 2023-12-26 | 130,068 | 3 |
-| 2023-12-27 | 130,140 | 3 |
+| 2023-12-27 | 130,146 | 3 |
 ## Awards
 Max (Character Customization): 7,882  (Ranked 50)  
-Sum: 21,139 (Ranked 58)  
+Sum: 21,149 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -338,9 +338,9 @@ Diff (max vs sum): -8
 | This game has Diverse Characters | 1,778 |
 | This game has Challenging Combat | 1,642 |
 | This game is Highly Recommended | 1,573 |
+| This game has Amazing Characters | 1,496 |
 | This game is Extremely Fun | 1,494 |
-| This game has Amazing Characters | 1,492 |
-| This game has Unique Visuals | 1,422 |
+| This game has Unique Visuals | 1,428 |
 | This game has Amazing Storytelling | 1,416 |
 | This game has Quickly Understood Controls | 1,384 |
 | This game has a Creative Community | 1,056 |
@@ -682,4 +682,4 @@ Diff (max vs sum): -8
 | 2023-12-24 | 4.68 | - | 7,863 | 21,059 |
 | 2023-12-25 | 4.68 | - | 7,875 | 21,096 |
 | 2023-12-26 | 4.68 | - | 7,882 | 21,127 |
-| 2023-12-27 | 4.68 | - | 7,882 | 21,139 |
+| 2023-12-27 | 4.68 | - | 7,882 | 21,149 |

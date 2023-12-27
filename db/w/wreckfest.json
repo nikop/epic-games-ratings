@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 425,
+  "EOS_Progressed": 428,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 297,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1205,6 +1205,11 @@
       "Time": "2023-12-27T10:09:29.3737069+00:00",
       "NumProgressed": 425,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T11:08:39.067318+00:00",
+      "NumProgressed": 428,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1217,7 +1222,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "CareerAllChallenges",
@@ -1225,7 +1230,7 @@
       "Name": "Highballer",
       "Percentage": 34,
       "XP": 90,
-      "UsersEstimate": 144
+      "UsersEstimate": 146
     },
     {
       "ID": "CareerChamp1",
@@ -1233,7 +1238,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "CareerChamp2",
@@ -1241,7 +1246,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "CareerChamp3",
@@ -1249,7 +1254,7 @@
       "Name": "Challengers Champion",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "CareerChamp4",
@@ -1271,9 +1276,9 @@
       "ID": "CareerFirstWin",
       "SetID": "5hd282c",
       "Name": "Storm Warning",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 265
     },
     {
       "ID": "CollectVehiclesA",
@@ -1281,7 +1286,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "CollectVehiclesB",
@@ -1313,7 +1318,7 @@
       "Name": "Garden Variety",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MultiplayerEventsWonA",
@@ -1329,7 +1334,7 @@
       "Name": "Dirty Roller",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 146
     },
     {
       "ID": "PlayerRankB",
@@ -1359,24 +1364,24 @@
       "ID": "WreckOpponentsA",
       "SetID": "5hd282c",
       "Name": "Hating Them Tin Cans",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 73
     },
     {
       "ID": "WreckOpponentsBus",
       "SetID": "5hd282c",
       "Name": "Maniac Driver",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 425,
+      "Progressed": 428,
       "Completed": 0
     }
   ],
@@ -1384,8 +1389,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-26T23:01:34.391907+00:00",
-  "LastChanged_Achievements": "2023-12-27T10:09:29.3737066+00:00",
+  "LastChanged_Achievements": "2023-12-27T11:08:39.0673177+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-27T10:02:58.6963838+00:00",
-  "LastUpdate_Achievements": "2023-12-27T10:09:29.3737252+00:00"
+  "LastUpdate_Ratings": "2023-12-27T11:00:22.6855187+00:00",
+  "LastUpdate_Achievements": "2023-12-27T11:08:39.0673336+00:00"
 }

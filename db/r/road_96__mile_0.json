@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 567,
+  "EOS_Progressed": 568,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2017,6 +2017,11 @@
       "Time": "2023-12-27T06:10:37.6986388+00:00",
       "NumProgressed": 567,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-27T11:09:52.3038872+00:00",
+      "NumProgressed": 568,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -2028,7 +2033,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 48,
       "XP": 60,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "completeact2",
@@ -2042,9 +2047,9 @@
       "ID": "completeact3",
       "SetID": "40n95i5",
       "Name": "On the Road",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 227
+      "UsersEstimate": 222
     },
     {
       "ID": "findalltapes",
@@ -2068,7 +2073,7 @@
       "Name": "Truthseeker",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "scoreminrankrb2",
@@ -2132,7 +2137,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "scoreminrankrv2",
@@ -2147,7 +2152,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 567,
+      "Progressed": 568,
       "Completed": 2
     }
   ],
@@ -2155,8 +2160,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-27T10:11:06.7582806+00:00",
+  "LastChanged_Achievements": "2023-12-27T11:09:52.3038859+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:13.373144+00:00",
-  "LastUpdate_Ratings": "2023-12-27T10:00:43.0666318+00:00",
-  "LastUpdate_Achievements": "2023-12-27T10:11:06.7582999+00:00"
+  "LastUpdate_Ratings": "2023-12-27T10:59:29.6955589+00:00",
+  "LastUpdate_Achievements": "2023-12-27T11:09:52.3039059+00:00"
 }

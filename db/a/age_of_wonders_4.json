@@ -609,9 +609,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6310,
+  "EOS_Progressed": 6313,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 423,
+  "EOS_NewPlayers": 424,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9354,6 +9354,11 @@
       "Time": "2023-12-27T10:05:22.2983626+00:00",
       "NumProgressed": 6310,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-27T11:04:19.0728154+00:00",
+      "NumProgressed": 6313,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9365,7 +9370,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "10",
@@ -9533,7 +9538,7 @@
       "Name": "Stronger Together",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "3",
@@ -9581,7 +9586,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "35",
@@ -9613,7 +9618,7 @@
       "Name": "Manufactured War",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "39",
@@ -9637,7 +9642,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "41",
@@ -9677,7 +9682,7 @@
       "Name": "Grexolis",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "6",
@@ -9685,7 +9690,7 @@
       "Name": "One for All, All for One",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "7",
@@ -9844,13 +9849,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6310,
+      "Progressed": 6313,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6310,
+      "Progressed": 6313,
       "Completed": 7
     }
   ],
@@ -9858,8 +9863,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-26T20:01:01.8384719+00:00",
-  "LastChanged_Achievements": "2023-12-27T10:05:22.2983624+00:00",
+  "LastChanged_Achievements": "2023-12-27T11:04:19.0728149+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-27T10:01:31.4402843+00:00",
-  "LastUpdate_Achievements": "2023-12-27T10:05:22.2984357+00:00"
+  "LastUpdate_Ratings": "2023-12-27T11:00:03.3070638+00:00",
+  "LastUpdate_Achievements": "2023-12-27T11:04:19.0729054+00:00"
 }

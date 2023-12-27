@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2229,
+  "EOS_Progressed": 2231,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 0,
@@ -6339,6 +6339,11 @@
       "Time": "2023-12-27T10:11:17.2928012+00:00",
       "NumProgressed": 2229,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T11:10:01.0739215+00:00",
+      "NumProgressed": 2231,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6415,7 +6420,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "achievement_18",
@@ -6447,7 +6452,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "achievement_21",
@@ -6495,7 +6500,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "achievement_27",
@@ -6549,9 +6554,9 @@
       "ID": "achievement_32",
       "SetID": "271ol84",
       "Name": "All right, I\u0027ll give it a try",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 357
     },
     {
       "ID": "achievement_33",
@@ -6575,7 +6580,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1962
+      "UsersEstimate": 1963
     },
     {
       "ID": "achievement_36",
@@ -6583,7 +6588,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "achievement_37",
@@ -6591,7 +6596,7 @@
       "Name": "Off to a good start",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1406
     },
     {
       "ID": "achievement_38",
@@ -6615,7 +6620,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "achievement_40",
@@ -6623,7 +6628,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "achievement_41",
@@ -6631,7 +6636,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "achievement_42",
@@ -6759,7 +6764,7 @@
       "Name": "Support the troops",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "achievement_57",
@@ -6854,13 +6859,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2229,
+      "Progressed": 2231,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2229,
+      "Progressed": 2231,
       "Completed": 1
     }
   ],
@@ -6868,8 +6873,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-27T10:11:17.2928009+00:00",
+  "LastChanged_Achievements": "2023-12-27T11:10:01.073921+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.4116758+00:00",
-  "LastUpdate_Ratings": "2023-12-27T10:03:21.5950576+00:00",
-  "LastUpdate_Achievements": "2023-12-27T10:11:17.2928772+00:00"
+  "LastUpdate_Ratings": "2023-12-27T11:02:49.0331457+00:00",
+  "LastUpdate_Achievements": "2023-12-27T11:10:01.07399+00:00"
 }

@@ -673,9 +673,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3867,
+  "EOS_Progressed": 3868,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 305,
+  "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10978,6 +10978,11 @@
       "Time": "2023-12-27T08:04:03.1789866+00:00",
       "NumProgressed": 3867,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-27T11:04:02.8825606+00:00",
+      "NumProgressed": 3868,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -11173,7 +11178,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1624
+      "UsersEstimate": 1625
     },
     {
       "ID": "fourleafclover",
@@ -11197,7 +11202,7 @@
       "Name": "Full Party",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "gearenchanting",
@@ -11221,7 +11226,7 @@
       "Name": "Guild Power",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "herewegoagain",
@@ -11261,7 +11266,7 @@
       "Name": "Inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "jewelenchanting",
@@ -11389,7 +11394,7 @@
       "Name": "Prestigious x10",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "relicofthepast",
@@ -11549,7 +11554,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3596
+      "UsersEstimate": 3597
     },
     {
       "ID": "warmachinesarmy",
@@ -11581,14 +11586,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3016
+      "UsersEstimate": 3017
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3867,
+      "Progressed": 3868,
       "Completed": 2
     }
   ],
@@ -11596,8 +11601,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-26T10:57:05.5454417+00:00",
-  "LastChanged_Achievements": "2023-12-27T10:05:00.744003+00:00",
+  "LastChanged_Achievements": "2023-12-27T11:04:02.8825601+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:54.8970424+00:00",
-  "LastUpdate_Ratings": "2023-12-27T09:57:56.3277168+00:00",
-  "LastUpdate_Achievements": "2023-12-27T10:05:00.7440894+00:00"
+  "LastUpdate_Ratings": "2023-12-27T10:57:30.4033976+00:00",
+  "LastUpdate_Achievements": "2023-12-27T11:04:02.8826753+00:00"
 }

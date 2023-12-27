@@ -323,9 +323,9 @@
       "ID": "1",
       "SetID": "38ide56",
       "Name": "Grand Re-Opening",
-      "Percentage": 68,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "10",
@@ -371,9 +371,9 @@
       "ID": "15",
       "SetID": "38ide56",
       "Name": "Mr. Porter",
-      "Percentage": 52,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "16",
@@ -435,9 +435,9 @@
       "ID": "22",
       "SetID": "38ide56",
       "Name": "Clear the Road",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "23",
@@ -564,8 +564,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-12-27T10:06:09.958192+00:00",
+  "LastChanged_Achievements": "2023-12-27T11:04:54.671485+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:35.6397047+00:00",
-  "LastUpdate_Ratings": "2023-12-27T10:01:45.5312866+00:00",
-  "LastUpdate_Achievements": "2023-12-27T10:06:09.9582121+00:00"
+  "LastUpdate_Ratings": "2023-12-27T11:00:13.5950591+00:00",
+  "LastUpdate_Achievements": "2023-12-27T11:04:54.671504+00:00"
 }

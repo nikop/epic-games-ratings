@@ -4,7 +4,7 @@
   "ProductSlug": "thief-5bb95f",
   "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -637,9 +637,9 @@
       "ID": "NEW_ACHIEVEMENT_1_28",
       "SetID": "ae95dh3",
       "Name": "Lockdown",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_29",
@@ -772,8 +772,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2023-12-27T10:07:25.4195586+00:00",
+  "LastChanged_Achievements": "2023-12-27T11:05:51.429649+00:00",
   "LastUpdate_AppInfo": "2023-12-20T16:57:13.0376587+00:00",
-  "LastUpdate_Ratings": "2023-12-27T10:01:52.3461795+00:00",
-  "LastUpdate_Achievements": "2023-12-27T10:07:25.4195828+00:00"
+  "LastUpdate_Ratings": "2023-12-27T11:00:18.5504939+00:00",
+  "LastUpdate_Achievements": "2023-12-27T11:05:51.4296715+00:00"
 }

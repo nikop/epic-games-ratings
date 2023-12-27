@@ -15,11 +15,11 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Getter | 9.00% | ~38 |
 | Uptown and Downtown | 7.00% | ~29 |
 | Super Spatula Seeker | 7.00% | ~29 |
+| Star Smasher | 7.00% | ~29 |
 | Surf's Up! | 7.00% | ~29 |
 | Life's as extreme as you wanna make it! | 6.00% | ~25 |
 | Toxic Terror | 6.00% | ~25 |
 | Squirrel Smasher | 6.00% | ~25 |
-| Star Smasher | 6.00% | ~25 |
 | Keep it Rolling | 5.00% | ~21 |
 | Shrimp Catcher | 5.00% | ~21 |
 | Hit Rock Bottom | 5.00% | ~21 |
@@ -30,10 +30,10 @@ Number of Ratings: 76  (23.09.2022)
 | Shanghaied | 3.00% | ~13 |
 | Kelp Forest of Fear | 3.00% | ~13 |
 | Ultra Spatula Seeker | 3.00% | ~13 |
+| The Small Does Not Rule | 2.00% | ~8 |
 | SpongeBob vs SpongeBob! | 2.00% | ~8 |
 | Sleepy Time | 2.00% | ~8 |
 | Sock Concert | 2.00% | ~8 |
-| The Small Does Not Rule | 1.00% | ~4 |
 | Sock Opera | 1.00% | ~4 |
 | 100% SpongeBob | 0.70% | ~3 |
 | Super Ultra Mega Spatula Seeker | 0.70% | ~3 |

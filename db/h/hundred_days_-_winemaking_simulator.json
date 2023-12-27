@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1031,10 +1031,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 1734,
       "NumberOfAwardsMax": 208
+    },
+    {
+      "Time": "2023-12-27T10:58:40.8627423+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 1736,
+      "NumberOfAwardsMax": 208
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1734,
+  "NumberOfAwards": 1736,
   "NumberOfAwardsMax": 208,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1048,7 +1054,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 200
+      "Count": 202
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1099,9 +1105,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 17813,
+  "EOS_Progressed": 17817,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1141,
+  "EOS_NewPlayers": 1139,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -15099,6 +15105,11 @@
       "Time": "2023-12-27T10:10:39.1842777+00:00",
       "NumProgressed": 17813,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-27T11:09:31.4226773+00:00",
+      "NumProgressed": 17817,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -15111,7 +15122,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1781
+      "UsersEstimate": 1782
     },
     {
       "ID": "a_10",
@@ -15143,7 +15154,7 @@
       "Name": "Big Money",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "a_16",
@@ -15159,7 +15170,7 @@
       "Name": "Bye Bye",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 7481
+      "UsersEstimate": 7483
     },
     {
       "ID": "a_19",
@@ -15231,7 +15242,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "a_28",
@@ -15247,7 +15258,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "a_30",
@@ -15343,7 +15354,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "a_9",
@@ -15358,16 +15369,16 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 17813,
+      "Progressed": 17817,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:20:15.0097479+00:00",
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
-  "LastChanged": "2023-12-26T03:58:11.2420844+00:00",
-  "LastChanged_Achievements": "2023-12-27T10:10:39.1842774+00:00",
+  "LastChanged": "2023-12-27T10:58:40.8627421+00:00",
+  "LastChanged_Achievements": "2023-12-27T11:09:31.4226769+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:09.648683+00:00",
-  "LastUpdate_Ratings": "2023-12-27T09:59:33.8540297+00:00",
-  "LastUpdate_Achievements": "2023-12-27T10:10:39.1843696+00:00"
+  "LastUpdate_Ratings": "2023-12-27T10:58:40.8627426+00:00",
+  "LastUpdate_Achievements": "2023-12-27T11:09:31.4227616+00:00"
 }
