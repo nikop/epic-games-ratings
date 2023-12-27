@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 88.00% | ~75 |
-| Enough rooms to swing a cat | 81.00% | ~69 |
-| First to the post | 81.00% | ~69 |
-| A kind of Magic | 74.00% | ~63 |
-| Connected | 67.00% | ~57 |
+| Home Sweet Home | 87.00% | ~75 |
+| Enough rooms to swing a cat | 80.00% | ~69 |
+| First to the post | 80.00% | ~69 |
+| A kind of Magic | 73.00% | ~63 |
+| Connected | 66.00% | ~57 |
 | Expansion | 62.00% | ~53 |
 | Mine! | 56.00% | ~48 |
 | Harvest Time | 55.00% | ~47 |
 | Artificer's Apprentice | 49.00% | ~42 |
 | Fly the friendly Sky | 47.00% | ~40 |
-| Get out of here! | 44.00% | ~37 |
+| Get out of here! | 43.00% | ~37 |
 | Necromancer's Apprentice | 40.00% | ~34 |
-| Alchemist's Apprentice | 39.00% | ~33 |
-| Friend of Lyraine | 39.00% | ~33 |
+| Alchemist's Apprentice | 38.00% | ~33 |
+| Friend of Lyraine | 38.00% | ~33 |
 | The Circle | 35.00% | ~30 |
 | Redecorating | 33.00% | ~28 |
-| Bad JuJu | 25.00% | ~21 |
+| Bad JuJu | 24.00% | ~21 |
 | Slave to the rhythm | 22.00% | ~19 |
 | Friend of Sevenkeeps | 22.00% | ~19 |
 | Castle Meldec | 21.00% | ~18 |
@@ -33,8 +33,8 @@
 | Stormwatch Faste | 12.00% | ~10 |
 | Friend of Silver Drift Hollow | 12.00% | ~10 |
 | Friend of Bastion | 12.00% | ~10 |
-| Friend of Orgash | 11.00% | ~9 |
-| Magic Academy | 11.00% | ~9 |
+| Friend of Orgash | 10.00% | ~9 |
+| Magic Academy | 10.00% | ~9 |
 | Defeat Gor | 9.00% | ~8 |
 | Silver Drift Hollow Mine | 9.00% | ~8 |
 | Mage Teacher | 9.00% | ~8 |
@@ -62,11 +62,11 @@
 | Heroes | 5.00% | ~4 |
 | Master Necromancer | 5.00% | ~4 |
 | Friend of Grey Dusk Vale | 5.00% | ~4 |
-| Defeat Ianna | 4.00% | ~3 |
-| Defeat Rohen | 4.00% | ~3 |
-| Defeat Yria | 4.00% | ~3 |
-| Master Alchemist | 4.00% | ~3 |
-| My Friends! | 4.00% | ~3 |
+| Defeat Ianna | 3.00% | ~3 |
+| Defeat Rohen | 3.00% | ~3 |
+| Defeat Yria | 3.00% | ~3 |
+| Master Alchemist | 3.00% | ~3 |
+| My Friends! | 3.00% | ~3 |
 | Misty Coast Dragonbones | 2.00% | ~2 |
 | Breaking the circle | 2.00% | ~2 |
 | Hard Life | 1.00% | ~1 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85 (Ranked 496)  
+Progressed: 86 (Ranked 495)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 77 | 0 |
 | 2023-12-25 | 81 | 0 |
 | 2023-12-26 | 84 | 0 |
-| 2023-12-27 | 85 | 0 |
+| 2023-12-27 | 86 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

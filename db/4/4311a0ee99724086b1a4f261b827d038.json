@@ -2,13 +2,13 @@
   "ID": "4311a0ee99724086b1a4f261b827d038",
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
-  "Ranking_Rating": 512,
+  "Ranking_Rating": 513,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -809,7 +809,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 239793,
+  "EOS_Progressed": 239795,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1283,
   "EOS_NewCompleters": 0,
@@ -18959,6 +18959,11 @@
       "Time": "2023-12-27T03:11:11.9136759+00:00",
       "NumProgressed": 239793,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T04:10:40.4974299+00:00",
+      "NumProgressed": 239795,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -19035,7 +19040,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21581
+      "UsersEstimate": 21582
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -19227,7 +19232,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 59948
+      "UsersEstimate": 59949
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -19242,7 +19247,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 239793,
+      "Progressed": 239795,
       "Completed": 0
     }
   ],
@@ -19250,8 +19255,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-26T21:58:17.9445205+00:00",
-  "LastChanged_Achievements": "2023-12-27T03:11:11.9136757+00:00",
+  "LastChanged_Achievements": "2023-12-27T04:10:40.4974296+00:00",
   "LastUpdate_AppInfo": "2023-12-22T05:57:00.8106495+00:00",
-  "LastUpdate_Ratings": "2023-12-27T02:59:24.5328304+00:00",
-  "LastUpdate_Achievements": "2023-12-27T03:11:11.9137741+00:00"
+  "LastUpdate_Ratings": "2023-12-27T03:59:05.8350192+00:00",
+  "LastUpdate_Achievements": "2023-12-27T04:10:40.4975373+00:00"
 }

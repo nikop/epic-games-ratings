@@ -12,7 +12,7 @@
 | Over the Moon | 28.00% | ~39 |
 | Armored | 25.00% | ~34 |
 | Amokuali Tower | 24.00% | ~33 |
-| Freedom | 22.00% | ~30 |
+| Freedom | 23.00% | ~32 |
 | Winner | 21.00% | ~29 |
 | The Pride of Moozhaw | 20.00% | ~28 |
 | Omnia Vincit Amor | 19.00% | ~26 |
@@ -27,7 +27,7 @@
 | Broken Reflection | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 138 (Ranked 446)  
-Completed: 1 (0.72%) (Ranked 196)  
+Completed: 1 (0.72%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

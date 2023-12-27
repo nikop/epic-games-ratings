@@ -5,25 +5,25 @@ Rating: 4.54 (Ranked 537)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~13,780 |
-| Pay 'n' Spray | 50.00% | ~8,506 |
-| All Dressed Up for San Fierro | 25.00% | ~4,253 |
-| The American Dream | 18.00% | ~3,062 |
-| School's Out | 18.00% | ~3,062 |
-| Smooth Moves | 16.00% | ~2,722 |
-| Today Was a Good Day | 15.00% | ~2,552 |
-| What happens in Las Venturas... | 14.00% | ~2,382 |
-| Horror of the Santa Maria | 10.00% | ~1,701 |
-| Liberty City State of Mind | 9.00% | ~1,531 |
-| Original Gangster | 8.00% | ~1,361 |
-| With Extra Dip | 7.00% | ~1,191 |
-| The End of the Line | 7.00% | ~1,191 |
+| Getting Started | 81.00% | ~13,788 |
+| Pay 'n' Spray | 50.00% | ~8,511 |
+| All Dressed Up for San Fierro | 25.00% | ~4,256 |
+| The American Dream | 18.00% | ~3,064 |
+| School's Out | 18.00% | ~3,064 |
+| Smooth Moves | 16.00% | ~2,724 |
+| Today Was a Good Day | 15.00% | ~2,553 |
+| What happens in Las Venturas... | 14.00% | ~2,383 |
+| Horror of the Santa Maria | 10.00% | ~1,702 |
+| Liberty City State of Mind | 9.00% | ~1,532 |
+| Original Gangster | 8.00% | ~1,362 |
+| With Extra Dip | 7.00% | ~1,192 |
+| The End of the Line | 7.00% | ~1,192 |
 | Saviour | 6.00% | ~1,021 |
 | Rescue a Kitten Too? | 5.00% | ~851 |
-| They Can’t Stop All of Us | 4.00% | ~680 |
-| What are the Odds | 4.00% | ~680 |
-| Bike or Biker | 3.00% | ~510 |
-| What the City Needs | 3.00% | ~510 |
+| They Can’t Stop All of Us | 4.00% | ~681 |
+| What are the Odds | 4.00% | ~681 |
+| Bike or Biker | 3.00% | ~511 |
+| What the City Needs | 3.00% | ~511 |
 | A Legitimate Business | 2.00% | ~340 |
 | I’ll Have Two Number 9s | 2.00% | ~340 |
 | Who Needs Directions? | 2.00% | ~340 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 537)
 | ...Here we go again | 0.50% | ~85 |
 | I Ain't No Buster | 0.40% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,012 (Ranked 159)  
+Progressed: 17,022 (Ranked 159)  
 Completed: 64 (0.38%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 64 (0.38%) (Ranked 236)
 | 2023-12-24 | 16,638 | 63 |
 | 2023-12-25 | 16,820 | 63 |
 | 2023-12-26 | 17,001 | 64 |
-| 2023-12-27 | 17,012 | 64 |
+| 2023-12-27 | 17,022 | 64 |
 ## Awards
 Max (Great Boss Battles): 519  (Ranked 216)  
 Sum: 793 (Ranked 286)  

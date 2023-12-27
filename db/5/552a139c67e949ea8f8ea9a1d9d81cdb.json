@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1673,
+  "EOS_Progressed": 1677,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4077,6 +4077,11 @@
       "Time": "2023-12-27T01:52:29.2386333+00:00",
       "NumProgressed": 1673,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T04:07:52.9009691+00:00",
+      "NumProgressed": 1677,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4089,7 +4094,7 @@
       "Name": "Rookie",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -4169,7 +4174,7 @@
       "Name": "It\u0027s me you have to beat",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -4191,9 +4196,9 @@
       "ID": "ML_ACHIEVEMENT_14",
       "SetID": "5k00jcd",
       "Name": "Shapeshifter",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -4241,7 +4246,7 @@
       "Name": "Challenge accepted!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -4249,7 +4254,7 @@
       "Name": "I\u0027m in charge here!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -4257,7 +4262,7 @@
       "Name": "The Octopus",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -4361,7 +4366,7 @@
       "Name": "Extra gear",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -4369,7 +4374,7 @@
       "Name": "Perfectionist",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -4456,20 +4461,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1673,
+      "Progressed": 1677,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1341,
+      "Progressed": 1345,
       "Completed": 1003
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-27T03:08:04.2474241+00:00",
+  "LastChanged_Achievements": "2023-12-27T04:07:52.9009688+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-27T03:01:10.2781158+00:00",
-  "LastUpdate_Achievements": "2023-12-27T03:08:04.2474694+00:00"
+  "LastUpdate_Ratings": "2023-12-27T04:01:03.1154504+00:00",
+  "LastUpdate_Achievements": "2023-12-27T04:07:52.9010115+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -157,9 +157,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1329,
+  "EOS_Progressed": 1330,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.86,
   "EosHistory": [
@@ -4642,6 +4642,11 @@
       "Time": "2023-12-27T01:51:25.2630181+00:00",
       "NumProgressed": 1329,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-27T04:07:09.0621806+00:00",
+      "NumProgressed": 1330,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 28,
@@ -4653,7 +4658,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "MQ01_2",
@@ -4677,7 +4682,7 @@
       "Name": "Big Breakthrough",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "MQ02_3",
@@ -4701,7 +4706,7 @@
       "Name": "Fond Memories",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "MQ03_2",
@@ -4709,7 +4714,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "MQ03_3",
@@ -4717,7 +4722,7 @@
       "Name": "History Check",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "MQ03_4",
@@ -4725,7 +4730,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "MQ03_5",
@@ -4765,7 +4770,7 @@
       "Name": "Open Sesame",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "MQ05_2",
@@ -4773,7 +4778,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "MQ05_3",
@@ -4781,7 +4786,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "MQ05_4",
@@ -4789,7 +4794,7 @@
       "Name": "Knives Out",
       "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "MQ06_1",
@@ -4813,7 +4818,7 @@
       "Name": "Land, Ho!",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "MQ06_4",
@@ -4845,7 +4850,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "MQ08_2",
@@ -4876,7 +4881,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1329,
+      "Progressed": 1330,
       "Completed": 38
     }
   ],
@@ -4884,8 +4889,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-25T11:02:59.9594634+00:00",
-  "LastChanged_Achievements": "2023-12-27T03:07:24.0417568+00:00",
+  "LastChanged_Achievements": "2023-12-27T04:07:09.0621802+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:08.3764282+00:00",
-  "LastUpdate_Ratings": "2023-12-27T03:04:02.3032541+00:00",
-  "LastUpdate_Achievements": "2023-12-27T03:07:24.0417954+00:00"
+  "LastUpdate_Ratings": "2023-12-27T04:03:26.5081715+00:00",
+  "LastUpdate_Achievements": "2023-12-27T04:07:09.0622199+00:00"
 }

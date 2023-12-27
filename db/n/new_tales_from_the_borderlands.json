@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3760,
+  "EOS_Progressed": 3762,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2067,6 +2067,11 @@
       "Time": "2023-12-26T19:06:32.1892229+00:00",
       "NumProgressed": 3760,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T04:06:26.6229834+00:00",
+      "NumProgressed": 3762,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2078,7 +2083,7 @@
       "Name": "You\u0027re Not Naked",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1129
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -2110,7 +2115,7 @@
       "Name": "Totally Intentional",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1731
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -2118,7 +2123,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -2126,7 +2131,7 @@
       "Name": "From Zeroes...",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "FINISH_EPISODE_2",
@@ -2174,7 +2179,7 @@
       "Name": "Tale in the Toilet",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1129
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -2198,7 +2203,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1918
+      "UsersEstimate": 1919
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -2222,7 +2227,7 @@
       "Name": "Super Trusting Friend!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "SUMMON_SEXY_INTERNS",
@@ -2246,7 +2251,7 @@
       "Name": "Those Were the Days...",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
@@ -2262,7 +2267,7 @@
       "Name": "Don\u0027t Get Cocky",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
@@ -2285,7 +2290,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3760,
+      "Progressed": 3762,
       "Completed": 0
     }
   ],
@@ -2293,8 +2298,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-12-27T03:06:45.1859735+00:00",
+  "LastChanged_Achievements": "2023-12-27T04:06:26.622983+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1319758+00:00",
-  "LastUpdate_Ratings": "2023-12-27T02:59:05.4598054+00:00",
-  "LastUpdate_Achievements": "2023-12-27T03:06:45.1859938+00:00"
+  "LastUpdate_Ratings": "2023-12-27T03:58:45.200283+00:00",
+  "LastUpdate_Achievements": "2023-12-27T04:06:26.6230041+00:00"
 }

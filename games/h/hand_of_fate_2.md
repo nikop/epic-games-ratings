@@ -1,16 +1,16 @@
 # Hand of Fate 2
 [Store](https://store.epicgames.com/en-US/p/hand-of-fate-2)  
 [View Rawdata](../../db/h/hand_of_fate_2.json)  
-Rating: 4.55 (Ranked 512)  
+Rating: 4.55 (Ranked 513)  
 Number of Ratings: 780  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~479,777 |
-| Apprentice | 58.00% | ~386,487 |
-| Close Shave | 25.00% | ~166,589 |
-| Mercenary | 23.00% | ~153,262 |
-| Ninja | 23.00% | ~153,262 |
+| The Fool | 72.00% | ~479,779 |
+| Apprentice | 58.00% | ~386,489 |
+| Close Shave | 25.00% | ~166,590 |
+| Mercenary | 23.00% | ~153,263 |
+| Ninja | 23.00% | ~153,263 |
 | Northern Scourge | 17.00% | ~113,281 |
 | Thief Bane | 14.00% | ~93,290 |
 | Master of Arms | 12.00% | ~79,963 |
@@ -24,8 +24,8 @@ Number of Ratings: 780  (23.09.2022)
 | Long Shot | 7.00% | ~46,645 |
 | Devil Dice | 7.00% | ~46,645 |
 | Broken Heart | 7.00% | ~46,645 |
-| Adventurer | 6.00% | ~39,981 |
-| Empire's Bane | 6.00% | ~39,981 |
+| Adventurer | 6.00% | ~39,982 |
+| Empire's Bane | 6.00% | ~39,982 |
 | Jack of all Trades | 5.00% | ~33,318 |
 | Smithy | 5.00% | ~33,318 |
 | Leap of Faith | 3.00% | ~19,991 |
@@ -41,7 +41,7 @@ Number of Ratings: 780  (23.09.2022)
 | Final Death | 1.00% | ~6,664 |
 | Thomas' Bane | 0.90% | ~5,997 |
 | Ally | 0.80% | ~5,331 |
-| Gamester | 0.70% | ~4,664 |
+| Gamester | 0.70% | ~4,665 |
 | Hero | 0.60% | ~3,998 |
 | Rebel | 0.60% | ~3,998 |
 | Dungeon Master | 0.50% | ~3,332 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~666 |
 | Blood Pact | 0.10% | ~666 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,357 (Ranked 29)  
+Progressed: 666,360 (Ranked 29)  
 Completed: 174 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 174 (0.03%) (Ranked 350)
 | 2023-12-24 | 666,240 | 174 |
 | 2023-12-25 | 666,293 | 174 |
 | 2023-12-26 | 666,349 | 174 |
-| 2023-12-27 | 666,357 | 174 |
+| 2023-12-27 | 666,360 | 174 |
 ## Awards
 Max (Amazing Storytelling): 36  (Ranked 488)  
 Sum: 193 (Ranked 415)  

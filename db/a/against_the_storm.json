@@ -3623,9 +3623,9 @@
       "Count": 335
     }
   ],
-  "EOS_Progressed": 19362,
+  "EOS_Progressed": 19366,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 661,
+  "EOS_NewPlayers": 663,
   "EOS_NewCompleters": -2,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -17283,6 +17283,11 @@
       "Time": "2023-12-27T03:06:19.7771923+00:00",
       "NumProgressed": 19362,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-12-27T04:05:57.6048359+00:00",
+      "NumProgressed": 19366,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17391,7 +17396,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "WinImpossible",
@@ -17559,7 +17564,7 @@
       "Name": "Coral Forest",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "WinOnCursed",
@@ -17575,7 +17580,7 @@
       "Name": "The Marshlands",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "WinOnMoorlands",
@@ -17583,7 +17588,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "WinPrestige10",
@@ -17703,7 +17708,7 @@
       "Name": "Frosts",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "WinNearGreed",
@@ -17711,7 +17716,7 @@
       "Name": "Land of Greed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "WinNearLibrary",
@@ -17719,7 +17724,7 @@
       "Name": "Overgrown Library",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "WinNearPetrified",
@@ -17735,7 +17740,7 @@
       "Name": "Ominous Presence",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "WinNearStorms",
@@ -17766,15 +17771,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19362,
+      "Progressed": 19366,
       "Completed": 37
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-27T01:43:48.2906099+00:00",
-  "LastChanged_Achievements": "2023-12-27T03:06:19.777192+00:00",
+  "LastChanged_Achievements": "2023-12-27T04:05:57.6048355+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-27T03:00:00.1461434+00:00",
-  "LastUpdate_Achievements": "2023-12-27T03:06:19.7772764+00:00"
+  "LastUpdate_Ratings": "2023-12-27T03:59:46.4065091+00:00",
+  "LastUpdate_Achievements": "2023-12-27T04:05:57.6049488+00:00"
 }

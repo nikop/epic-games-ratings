@@ -2,9 +2,9 @@
   "ID": "092bbf0d7e2449c08271cae2fb791cf2",
   "Name": "CHUCHEL",
   "ProductSlug": "chuchel-203808",
-  "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_Progress": 377,
+  "Ranking_EOS_Completed": 175,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 304,
+  "EOS_Progressed": 306,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.99,
+  "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
       "Time": "2023-11-01T08:06:18.9626896+00:00",
@@ -1004,6 +1004,11 @@
       "Time": "2023-12-27T03:05:53.1885068+00:00",
       "NumProgressed": 304,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-27T04:05:28.4433414+00:00",
+      "NumProgressed": 306,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1024,7 +1029,7 @@
       "Name": "Blabber",
       "Percentage": 50,
       "XP": 145,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ach3",
@@ -1064,21 +1069,21 @@
       "Name": "Snail Racing Champion",
       "Percentage": 10,
       "XP": 145,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 304,
+      "Progressed": 306,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-12-27T03:05:53.1885063+00:00",
+  "LastChanged_Achievements": "2023-12-27T04:05:28.443341+00:00",
   "LastUpdate_AppInfo": "2023-12-20T19:57:05.4963637+00:00",
-  "LastUpdate_Ratings": "2023-12-27T03:00:11.0682085+00:00",
-  "LastUpdate_Achievements": "2023-12-27T03:05:53.1885181+00:00"
+  "LastUpdate_Ratings": "2023-12-27T03:59:58.5734497+00:00",
+  "LastUpdate_Achievements": "2023-12-27T04:05:28.4433519+00:00"
 }

@@ -5,16 +5,16 @@ Rating: 4.15 (Ranked 975)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 41.00% | ~31,453 |
-| As Far Away As Possible | 19.00% | ~14,576 |
-| A Most Unstable Organism | 13.00% | ~9,973 |
-| More Power to You | 13.00% | ~9,973 |
-| No Time to Follow Protocol | 10.00% | ~7,672 |
-| Float Like a Butterfly... | 8.00% | ~6,137 |
-| Nano Connoisseur | 7.00% | ~5,370 |
-| In Two Places At Once | 6.00% | ~4,603 |
-| Pulling Your Weight | 3.00% | ~2,301 |
-| Reaping Rivals | 3.00% | ~2,301 |
+| Your Lucky Day | 41.00% | ~31,461 |
+| As Far Away As Possible | 19.00% | ~14,579 |
+| A Most Unstable Organism | 13.00% | ~9,975 |
+| More Power to You | 13.00% | ~9,975 |
+| No Time to Follow Protocol | 10.00% | ~7,673 |
+| Float Like a Butterfly... | 8.00% | ~6,139 |
+| Nano Connoisseur | 7.00% | ~5,371 |
+| In Two Places At Once | 6.00% | ~4,604 |
+| Pulling Your Weight | 3.00% | ~2,302 |
+| Reaping Rivals | 3.00% | ~2,302 |
 | fifteenth Time's the Charm | 1.00% | ~767 |
 | Gone Rogue | 0.70% | ~537 |
 | Memory Keeper | 0.40% | ~307 |
@@ -22,7 +22,7 @@ Rating: 4.15 (Ranked 975)
 | Runs for Your Money | 0.30% | ~230 |
 | Past Master | 0.30% | ~230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,715 (Ranked 107)  
+Progressed: 76,733 (Ranked 107)  
 Completed: 61 (0.08%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,16 +144,16 @@ Completed: 61 (0.08%) (Ranked 321)
 | 2023-12-24 | 74,816 | 60 |
 | 2023-12-25 | 75,646 | 60 |
 | 2023-12-26 | 76,575 | 60 |
-| 2023-12-27 | 76,715 | 61 |
+| 2023-12-27 | 76,733 | 61 |
 ## Awards
 Max (Great for Beginners): 120  (Ranked 349)  
-Sum: 470 (Ranked 337)  
-Diff (max vs sum): 12  
+Sum: 471 (Ranked 336)  
+Diff (max vs sum): 13  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 120 |
 | This game has Diverse Characters | 80 |
-| This game is Highly Recommended | 59 |
+| This game is Highly Recommended | 60 |
 | This game has Amazing Characters | 58 |
 | This game is Extremely Fun | 57 |
 | This game has a Competitive Community | 54 |
@@ -264,3 +264,4 @@ Diff (max vs sum): 12
 | 2023-12-24 | 4.15 | 118 | 462 |
 | 2023-12-25 | 4.15 | 120 | 469 |
 | 2023-12-26 | 4.15 | 120 | 470 |
+| 2023-12-27 | 4.15 | 120 | 471 |

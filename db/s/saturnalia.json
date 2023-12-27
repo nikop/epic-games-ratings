@@ -2,13 +2,13 @@
   "ID": "c749cd78da34408d8434a46271f4bb79",
   "Name": "Saturnalia",
   "ProductSlug": "saturnalia",
-  "Ranking_Rating": 890,
+  "Ranking_Rating": 889,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69785,
+  "EOS_Progressed": 69786,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18713,6 +18713,11 @@
       "Time": "2023-12-27T03:07:44.2211153+00:00",
       "NumProgressed": 69785,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-27T04:07:31.1234788+00:00",
+      "NumProgressed": 69786,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -18780,7 +18785,7 @@
       "Name": "Power of Friendship",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ACH_LIGHTMINES",
@@ -18844,7 +18849,7 @@
       "Name": "Chain Breaker",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ACH_SERGIOMISSION",
@@ -18883,7 +18888,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 69785,
+      "Progressed": 69786,
       "Completed": 18
     }
   ],
@@ -18891,8 +18896,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2023-12-27T03:07:44.2211149+00:00",
+  "LastChanged_Achievements": "2023-12-27T04:07:31.1234785+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:07.2653355+00:00",
-  "LastUpdate_Ratings": "2023-12-27T02:58:21.1798039+00:00",
-  "LastUpdate_Achievements": "2023-12-27T03:07:44.2211901+00:00"
+  "LastUpdate_Ratings": "2023-12-27T03:57:56.8970068+00:00",
+  "LastUpdate_Achievements": "2023-12-27T04:07:31.1235914+00:00"
 }

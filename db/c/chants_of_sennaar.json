@@ -73,11 +73,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1857,
+  "EOS_Progressed": 1858,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 444,
+  "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 36,
-  "EOS_Completed_Percentage": 5.98,
+  "EOS_Completed_Percentage": 5.97,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -5388,6 +5388,11 @@
       "Time": "2023-12-27T01:49:28.8072198+00:00",
       "NumProgressed": 1857,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2023-12-27T04:05:10.733895+00:00",
+      "NumProgressed": 1858,
+      "NumCompleted": 111
     }
   ],
   "TotalAchievements": 25,
@@ -5407,7 +5412,7 @@
       "Name": "In this together",
       "Percentage": 20,
       "XP": 200,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "META_ALL_LINK",
@@ -5429,9 +5434,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 464
+      "UsersEstimate": 483
     },
     {
       "ID": "META_HALF_LINK",
@@ -5493,9 +5498,9 @@
       "ID": "OPTIONNAL_AIRLINES",
       "SetID": "2gma9an",
       "Name": "Alchemists Express",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 316
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -5511,7 +5516,7 @@
       "Name": "True G3M4R",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -5543,7 +5548,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -5559,7 +5564,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "PROGRESS_N2",
@@ -5573,9 +5578,9 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 594
+      "UsersEstimate": 613
     },
     {
       "ID": "PROGRESS_N4",
@@ -5583,7 +5588,7 @@
       "Name": "The darkness",
       "Percentage": 27,
       "XP": 60,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "PROGRESS_N5",
@@ -5598,7 +5603,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1857,
+      "Progressed": 1858,
       "Completed": 111
     }
   ],
@@ -5606,8 +5611,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-26T03:57:38.7311575+00:00",
-  "LastChanged_Achievements": "2023-12-27T03:05:36.6955209+00:00",
+  "LastChanged_Achievements": "2023-12-27T04:05:10.7338947+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-27T02:58:48.5703691+00:00",
-  "LastUpdate_Achievements": "2023-12-27T03:05:36.6955606+00:00"
+  "LastUpdate_Ratings": "2023-12-27T03:58:26.7808012+00:00",
+  "LastUpdate_Achievements": "2023-12-27T04:05:10.7339284+00:00"
 }

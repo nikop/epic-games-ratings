@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~1,956 |
-| Off to a good start | 63.00% | ~1,400 |
+| New Recruit | 88.00% | ~1,957 |
+| Off to a good start | 63.00% | ~1,401 |
 | Do... or do not. There is no try | 52.00% | ~1,156 |
 | A good blaster at your side | 26.00% | ~578 |
 | I suggest a new strategy | 18.00% | ~400 |
 | Scrap collector | 16.00% | ~356 |
 | Great shot, kid! | 16.00% | ~356 |
-| All right, I'll give it a try | 15.00% | ~333 |
+| All right, I'll give it a try | 15.00% | ~334 |
 | The power of the Force | 13.00% | ~289 |
 | Shoot first | 13.00% | ~289 |
 | Collector | 12.00% | ~267 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,223 (Ranked 233)  
+Progressed: 2,224 (Ranked 233)  
 Completed: 1 (0.04%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 1 (0.04%) (Ranked 345)
 | 2023-12-24 | 2,124 | 1 |
 | 2023-12-25 | 2,164 | 1 |
 | 2023-12-26 | 2,218 | 1 |
-| 2023-12-27 | 2,223 | 1 |
+| 2023-12-27 | 2,224 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

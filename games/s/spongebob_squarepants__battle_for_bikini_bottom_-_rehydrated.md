@@ -6,7 +6,7 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 15.00% | ~62 |
+| Spatula Seeker | 16.00% | ~66 |
 | Sponge Smasher | 15.00% | ~62 |
 | Jellyfish Jam | 14.00% | ~58 |
 | Jellyfishing | 10.00% | ~41 |
@@ -23,8 +23,8 @@ Number of Ratings: 76  (23.09.2022)
 | Star Smasher | 6.00% | ~25 |
 | Keep it Rolling | 5.00% | ~21 |
 | Shrimp Catcher | 5.00% | ~21 |
+| Robot encyclopedia | 4.00% | ~17 |
 | Hello, Bikini Bottom | 4.00% | ~17 |
-| Robot encyclopedia | 3.00% | ~12 |
 | Are you ready now? | 3.00% | ~12 |
 | Ship Shape | 3.00% | ~12 |
 | Kelp Forest of Fear | 3.00% | ~12 |
@@ -39,8 +39,8 @@ Number of Ratings: 76  (23.09.2022)
 | Super Ultra Mega Spatula Seeker | 0.70% | ~3 |
 | Mega Spatula Seeker | 0.70% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 413 (Ranked 352)  
-Completed: 3 (0.73%) (Ranked 195)  
+Progressed: 414 (Ranked 352)  
+Completed: 3 (0.72%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -53,7 +53,7 @@ Completed: 3 (0.73%) (Ranked 195)
 | 2023-12-24 | 335 | 1 |
 | 2023-12-25 | 378 | 1 |
 | 2023-12-26 | 412 | 3 |
-| 2023-12-27 | 413 | 3 |
+| 2023-12-27 | 414 | 3 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 495)  
 Sum: 35 (Ranked 522)  

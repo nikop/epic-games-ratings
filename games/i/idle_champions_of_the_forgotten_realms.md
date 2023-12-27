@@ -11,10 +11,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to Sigil | 0.70% | ~1,480 |
 | Beast Intentions | 0.60% | ~1,471 |
 | Fast Food | 0.60% | ~1,268 |
-| The Mad Wizard | 0.50% | ~1,225 |
-| The Overgrown Grove | 0.40% | ~845 |
-| Flames of Avernus | 0.40% | ~845 |
-| Mental Gymnastics | 0.40% | ~845 |
+| The Mad Wizard | 0.50% | ~1,226 |
+| The Overgrown Grove | 0.40% | ~846 |
+| Flames of Avernus | 0.40% | ~846 |
+| Mental Gymnastics | 0.40% | ~846 |
 | Were-verpowered | 0.30% | ~735 |
 | The Ring of Regeneration | 0.30% | ~735 |
 | Are Ya Chicken? | 0.30% | ~735 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~211 |
 | The Brains of an Illithid's Desire | 0.10% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,098 (Ranked 67)  
+Progressed: 245,106 (Ranked 67)  
 Completed: 2,566 (1.05%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -804,7 +804,7 @@ Completed: 2,566 (1.05%) (Ranked 169)
 | 2023-12-24 | 244,276 | 2,558 |
 | 2023-12-25 | 244,638 | 2,562 |
 | 2023-12-26 | 245,031 | 2,566 |
-| 2023-12-27 | 245,098 | 2,566 |
+| 2023-12-27 | 245,106 | 2,566 |
 ## Awards
 Max (Great for Beginners): 5,696  (Ranked 71)  
 Sum: 33,102 (Ranked 41)  

@@ -44,12 +44,12 @@ Number of Ratings: 45  (23.09.2022)
 | Grillmaster | 0.50% | ~8 |
 | Tempest | 0.50% | ~8 |
 | Lochias's Hunger | 0.50% | ~8 |
+| A Hunger, Sated | 0.40% | ~6 |
 | Wingknight's Prowess | 0.40% | ~6 |
 | Fight Like a Bird | 0.40% | ~6 |
 | Into Mulch | 0.40% | ~6 |
 | We Emerge Changed | 0.30% | ~5 |
 | The Power of Friendship | 0.30% | ~5 |
-| A Hunger, Sated | 0.30% | ~5 |
 | I'm Not Smiling | 0.30% | ~5 |
 | Overwhelming Monstrosity | 0.20% | ~3 |
 | War-Ender | 0.20% | ~3 |
@@ -64,7 +64,7 @@ Number of Ratings: 45  (23.09.2022)
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,554 (Ranked 254)  
-Completed: 7 (0.45%) (Ranked 226)  
+Completed: 7 (0.45%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

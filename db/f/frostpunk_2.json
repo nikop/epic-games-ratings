@@ -4,8 +4,8 @@
   "ProductSlug": "frostpunk-2",
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 559,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 561,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
     "PcReleaseDate": null,
@@ -31,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-24T02:21:17.209973+00:00",
-  "LastUpdate_Ratings": "2023-12-27T02:58:18.1408804+00:00",
-  "LastUpdate_Achievements": "2023-12-27T03:06:33.5803705+00:00"
+  "LastUpdate_Ratings": "2023-12-27T03:57:53.4929692+00:00",
+  "LastUpdate_Achievements": "2023-12-27T04:06:13.1370441+00:00"
 }

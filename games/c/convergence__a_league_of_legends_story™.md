@@ -5,10 +5,10 @@ Rating: 4.65 (Ranked 321)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 41.00% | ~459 |
-| Rail Rat | 32.00% | ~358 |
-| The Mysterious Stranger | 31.00% | ~347 |
-| Immaculate Aim | 26.00% | ~291 |
+| Time Heals All Wounds | 41.00% | ~460 |
+| Rail Rat | 32.00% | ~359 |
+| The Mysterious Stranger | 31.00% | ~348 |
+| Immaculate Aim | 26.00% | ~292 |
 | The Brass Boss | 25.00% | ~280 |
 | Make Up For Lost Time | 24.00% | ~269 |
 | Time Flies | 24.00% | ~269 |
@@ -19,12 +19,12 @@ Rating: 4.65 (Ranked 321)
 | The Steel Shadow | 23.00% | ~258 |
 | The Harder They Fall | 23.00% | ~258 |
 | Fast Learner | 23.00% | ~258 |
-| Breaking Down Barriers | 22.00% | ~246 |
-| The Wicked Twins | 22.00% | ~246 |
-| Right On Time | 21.00% | ~235 |
-| Like Clockwork | 21.00% | ~235 |
-| The Betrayer | 21.00% | ~235 |
-| Golem Chaser | 21.00% | ~235 |
+| Breaking Down Barriers | 22.00% | ~247 |
+| The Wicked Twins | 22.00% | ~247 |
+| Right On Time | 21.00% | ~236 |
+| Like Clockwork | 21.00% | ~236 |
+| The Betrayer | 21.00% | ~236 |
+| Golem Chaser | 21.00% | ~236 |
 | The Loose Cannon | 19.00% | ~213 |
 | Check Your Pulse | 19.00% | ~213 |
 | Street Style | 18.00% | ~202 |
@@ -36,17 +36,17 @@ Rating: 4.65 (Ranked 321)
 | Family Memories | 13.00% | ~146 |
 | Cartographer | 13.00% | ~146 |
 | Ask Questions Later | 13.00% | ~146 |
-| Chaincrawler Explorer | 12.00% | ~134 |
-| Syron for Hope | 12.00% | ~134 |
+| Chaincrawler Explorer | 12.00% | ~135 |
+| Syron for Hope | 12.00% | ~135 |
 | Sump Explorer | 11.00% | ~123 |
 | Factorywood Explorer | 10.00% | ~112 |
 | Theater Explorer | 10.00% | ~112 |
 | Cultivair Explorer | 9.00% | ~101 |
 | Fairgrounds Explorer | 9.00% | ~101 |
 | Corin Goes Home | 8.00% | ~90 |
-| Sartorialist | 8.00% | ~90 |
 | Entresol Explorer | 8.00% | ~90 |
-| Golem Hunter | 7.00% | ~78 |
+| Sartorialist | 7.00% | ~79 |
+| Golem Hunter | 7.00% | ~79 |
 | Clovemary for Remembering | 6.00% | ~67 |
 | Hexlock for Protection | 6.00% | ~67 |
 | Rungs Was Right | 5.00% | ~56 |
@@ -59,8 +59,8 @@ Rating: 4.65 (Ranked 321)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,120 (Ranked 277)  
-Completed: 6 (0.54%) (Ranked 212)  
+Progressed: 1,122 (Ranked 277)  
+Completed: 6 (0.53%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -216,7 +216,7 @@ Completed: 6 (0.54%) (Ranked 212)
 | 2023-12-24 | 1,093 | 6 |
 | 2023-12-25 | 1,106 | 6 |
 | 2023-12-26 | 1,118 | 6 |
-| 2023-12-27 | 1,120 | 6 |
+| 2023-12-27 | 1,122 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

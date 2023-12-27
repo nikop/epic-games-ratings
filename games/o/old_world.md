@@ -198,6 +198,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyrian Paganism | 0.10% | ~16 |
 | Hittite Paganism | 0.10% | ~16 |
 | Persian Paganism | 0.10% | ~16 |
+| Roman Papacy | 0.10% | ~16 |
 | Circus Maximus in Roma | 0.10% | ~16 |
 | Pantheon in Roma | 0.10% | ~16 |
 | Capturing Cities | 0.10% | ~16 |
@@ -321,7 +322,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids in Menefer | 0.00% | ~0 |
 | Play a MP Teams Game | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
-| Roman Papacy | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 | Win a MP Teams Game | 0.00% | ~0 |

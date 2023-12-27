@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -309,7 +309,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2092,
+  "EOS_Progressed": 2093,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
@@ -3374,6 +3374,11 @@
       "Time": "2023-12-27T01:52:57.9970169+00:00",
       "NumProgressed": 2092,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T04:08:22.2888764+00:00",
+      "NumProgressed": 2093,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3433,7 +3438,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "Achievement_009",
@@ -3441,7 +3446,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "Achievement_010",
@@ -3577,7 +3582,7 @@
       "Name": "Fly Fisher",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "Achievement_027",
@@ -3585,7 +3590,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "Achievement_028",
@@ -3912,7 +3917,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2092,
+      "Progressed": 2093,
       "Completed": 0
     }
   ],
@@ -3920,8 +3925,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-25T01:47:06.1967746+00:00",
-  "LastChanged_Achievements": "2023-12-27T03:08:31.7275228+00:00",
+  "LastChanged_Achievements": "2023-12-27T04:08:22.288876+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:45.1864069+00:00",
   "LastUpdate_Ratings": "2023-12-27T03:01:55.1030108+00:00",
-  "LastUpdate_Achievements": "2023-12-27T03:08:31.727578+00:00"
+  "LastUpdate_Achievements": "2023-12-27T04:08:22.2889324+00:00"
 }

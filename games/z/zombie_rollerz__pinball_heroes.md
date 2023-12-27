@@ -41,10 +41,10 @@ Rating: 4.29 (Ranked 864)
 | Verse | 11.00% | ~23 |
 | Iron | 10.00% | ~21 |
 | The Bomber | 8.00% | ~17 |
+| Tested | 8.00% | ~17 |
 | Power Overwhelming | 7.00% | ~15 |
 | The Astronaut | 7.00% | ~15 |
 | Highway to Hell | 7.00% | ~15 |
-| Tested | 7.00% | ~15 |
 | Anvil | 6.00% | ~13 |
 | The Exorcist | 5.00% | ~10 |
 | Mithril | 5.00% | ~10 |

@@ -6,26 +6,26 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 76.00% | ~160 |
-| Mash Machine | 70.00% | ~147 |
+| Rock of the Bay | 77.00% | ~162 |
+| Mash Machine | 70.00% | ~148 |
 | Ducks in a Row, Fish in a Barrel | 47.00% | ~99 |
-| Furon Fashion | 45.00% | ~94 |
+| Furon Fashion | 45.00% | ~95 |
 | Shop Til They Drop | 37.00% | ~78 |
-| Bodied Sattva | 34.00% | ~71 |
+| Bodied Sattva | 34.00% | ~72 |
 | Cult Following | 31.00% | ~65 |
 | Earthly Pleasures | 31.00% | ~65 |
-| Lie Back and Think of Albion | 25.00% | ~52 |
-| Upgreatest | 24.00% | ~50 |
-| Pimp My Raid | 24.00% | ~50 |
+| Lie Back and Think of Albion | 25.00% | ~53 |
+| Upgreatest | 24.00% | ~51 |
+| Pimp My Raid | 24.00% | ~51 |
 | I Look Up As I Walk to Takoshima | 19.00% | ~40 |
 | Freshly Squeezed | 17.00% | ~36 |
 | Perfect Probulator | 16.00% | ~34 |
 | Die Nasty | 15.00% | ~32 |
 | Transmitting From Sol-3 | 13.00% | ~27 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 11.00% | ~23 |
-| Dusted | 10.00% | ~21 |
 | Fly Me to the Moon Base | 9.00% | ~19 |
 | Kaijuiced | 9.00% | ~19 |
+| Dusted | 9.00% | ~19 |
 | Scuttled | 6.00% | ~13 |
 | Re-Return of the Clone of the Invasion II-2 | 6.00% | ~13 |
 | Lobster Blisque | 4.00% | ~8 |
@@ -33,14 +33,14 @@ Number of Ratings: 90  (23.09.2022)
 | Ultimate Smoothie | 3.00% | ~6 |
 | Deincarnated | 3.00% | ~6 |
 | Arkvoodle Doodle | 3.00% | ~6 |
-| PK Slam Dunk | 1.00% | ~2 |
 | Arty Facts | 1.00% | ~2 |
-| Gotta Catch All the Pop Art | 1.00% | ~2 |
-| This Is Earth Radio | 1.00% | ~2 |
 | Against All Odds | 1.00% | ~2 |
-| Forbidden Donut | 1.00% | ~2 |
-| Hidden Human Hive Harvest | 1.00% | ~2 |
 | The Optional Mandate | 1.00% | ~2 |
+| PK Slam Dunk | 0.90% | ~2 |
+| Gotta Catch All the Pop Art | 0.90% | ~2 |
+| This Is Earth Radio | 0.90% | ~2 |
+| Forbidden Donut | 0.90% | ~2 |
+| Hidden Human Hive Harvest | 0.90% | ~2 |
 | Toilet Break | 0.50% | ~1 |
 | Albion Bridge Is for Falling Down | 0.50% | ~1 |
 | Ouch of Body Experience | 0.50% | ~1 |
@@ -51,8 +51,8 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.50% | ~1 |
 | Trans-Siberian Express | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210 (Ranked 412)  
-Completed: 1 (0.48%) (Ranked 219)  
+Progressed: 211 (Ranked 412)  
+Completed: 1 (0.47%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,7 +82,7 @@ Completed: 1 (0.48%) (Ranked 219)
 | 2023-12-24 | 179 | 0 |
 | 2023-12-25 | 191 | 1 |
 | 2023-12-26 | 205 | 1 |
-| 2023-12-27 | 210 | 1 |
+| 2023-12-27 | 211 | 1 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 488)  
 Sum: 36 (Ranked 521)  

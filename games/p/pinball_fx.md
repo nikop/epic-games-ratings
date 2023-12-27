@@ -6,7 +6,7 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 2.00% | ~5,750 |
+| Ball Launched | 2.00% | ~5,751 |
 | I Found it! | 0.60% | ~1,725 |
 | Ready Steady Score | 0.20% | ~575 |
 | Contender | 0.10% | ~288 |
@@ -46,7 +46,7 @@ Number of Ratings: 756  (23.09.2022)
 | The most beautiful Christmas | 0.00% | ~0 |
 | End of Gloom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 287,519 (Ranked 60)  
+Progressed: 287,535 (Ranked 60)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,10 +297,10 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 286,498 | 0 |
 | 2023-12-25 | 286,941 | 0 |
 | 2023-12-26 | 287,443 | 0 |
-| 2023-12-27 | 287,519 | 0 |
+| 2023-12-27 | 287,535 | 0 |
 ## Awards
 Max (Great for Beginners): 211  (Ranked 289)  
-Sum: 1,629 (Ranked 230)  
+Sum: 1,630 (Ranked 230)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -313,7 +313,7 @@ Diff (max vs sum): 59
 | This game has Competitive Players | 157 |
 | This game has Challenging Combat | 113 |
 | This game has a Competitive Community | 106 |
-| This game has Amazing Storytelling | 102 |
+| This game has Amazing Storytelling | 103 |
 | This game has Amazing Characters | 92 |
 | This game has Obsessive Gameplay | 65 |
 | This game has Realistic Visuals | 52 |
@@ -525,4 +525,4 @@ Diff (max vs sum): 59
 | 2023-12-23 | 4.06 | - | 210 | 1,624 |
 | 2023-12-24 | 4.06 | - | 210 | 1,626 |
 | 2023-12-26 | 4.06 | - | 210 | 1,628 |
-| 2023-12-27 | 4.07 | - | 211 | 1,629 |
+| 2023-12-27 | 4.07 | - | 211 | 1,630 |

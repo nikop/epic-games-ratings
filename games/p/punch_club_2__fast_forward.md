@@ -20,7 +20,7 @@
 | Hello, world! | 67.00% | ~319 |
 | No bullying more | 66.00% | ~314 |
 | Fighting is cool | 65.00% | ~309 |
-| Pal of your father? | 63.00% | ~300 |
+| Pal of your father? | 64.00% | ~305 |
 | Spirit of the past | 61.00% | ~290 |
 | Employee of the month | 60.00% | ~286 |
 | Law student | 58.00% | ~276 |
@@ -35,7 +35,7 @@
 | Intriguing candies | 53.00% | ~252 |
 | Extreme neuropower! | 50.00% | ~238 |
 | Legal courier | 49.00% | ~233 |
-| Escaped from a big trouble | 46.00% | ~219 |
+| Escaped from a big trouble | 47.00% | ~224 |
 | Now you are worthy | 43.00% | ~205 |
 | Fight is life | 42.00% | ~200 |
 | Mysterious voice | 41.00% | ~195 |

@@ -14,8 +14,8 @@ Number of Ratings: 892  (23.09.2022)
 | Your Especially Earned Trajectory | 96.00% | ~689 |
 | On that Grindset | 94.00% | ~675 |
 | Officially Official | 93.00% | ~668 |
+| Better Late than Never | 81.00% | ~582 |
 | One of the Cool Kids | 81.00% | ~582 |
-| Better Late than Never | 80.00% | ~574 |
 | Diamonds are Forever | 79.00% | ~567 |
 | Pack Mule | 78.00% | ~560 |
 | No Mountain Wide Enough | 78.00% | ~560 |

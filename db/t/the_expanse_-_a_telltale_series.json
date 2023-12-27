@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 512,
+  "Ranking_Rating": 513,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 156,
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17531,
+  "EOS_Progressed": 17532,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 656,
+  "EOS_NewPlayers": 653,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -15276,6 +15276,11 @@
       "Time": "2023-12-27T03:05:39.7051925+00:00",
       "NumProgressed": 17531,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-27T04:05:14.0900117+00:00",
+      "NumProgressed": 17532,
+      "NumCompleted": 53
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15334,9 +15339,9 @@
       "ID": "15",
       "SetID": "458bbdk",
       "Name": "Stogie for Fogey",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1402
+      "UsersEstimate": 1578
     },
     {
       "ID": "16",
@@ -15496,7 +15501,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "7",
@@ -15567,13 +15572,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17531,
+      "Progressed": 17532,
       "Completed": 53
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3485,
+      "Progressed": 3486,
       "Completed": 1065
     }
   ],
@@ -15581,8 +15586,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-23T03:58:14.2545087+00:00",
-  "LastChanged_Achievements": "2023-12-27T03:05:39.7051919+00:00",
+  "LastChanged_Achievements": "2023-12-27T04:05:14.0900114+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-27T03:00:58.7256748+00:00",
-  "LastUpdate_Achievements": "2023-12-27T03:05:39.7052854+00:00"
+  "LastUpdate_Ratings": "2023-12-27T04:00:50.1616339+00:00",
+  "LastUpdate_Achievements": "2023-12-27T04:05:14.0900896+00:00"
 }

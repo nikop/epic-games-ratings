@@ -6,8 +6,8 @@
   "Ranking_Popularity": 488,
   "Ranking_PopularitySum": 521,
   "Ranking_EOS_Progress": 412,
-  "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_Completed": 221,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -276,11 +276,11 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 210,
+  "EOS_Progressed": 211,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.48,
+  "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
     {
       "Time": "2023-12-01T10:05:16.7894965+00:00",
@@ -1091,6 +1091,11 @@
       "Time": "2023-12-27T01:53:58.2126411+00:00",
       "NumProgressed": 210,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T04:09:21.582047+00:00",
+      "NumProgressed": 211,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1103,7 +1108,7 @@
       "Name": "Mash Machine",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1125,7 +1130,7 @@
       "ID": "ACH_BASKETBALL_SLAM",
       "SetID": "4n84pon",
       "Name": "PK Slam Dunk",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -1135,7 +1140,7 @@
       "Name": "Furon Fashion",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1149,7 +1154,7 @@
       "ID": "ACH_COLLECT_DIEGETIC_ART",
       "SetID": "4n84pon",
       "Name": "Gotta Catch All the Pop Art",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -1157,7 +1162,7 @@
       "ID": "ACH_COLLECT_SOUNDTRACKS",
       "SetID": "4n84pon",
       "Name": "This Is Earth Radio",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -1189,7 +1194,7 @@
       "ID": "ACH_COP_THROUGH_DONUT",
       "SetID": "4n84pon",
       "Name": "Forbidden Donut",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -1197,7 +1202,7 @@
       "ID": "ACH_DESTROY_HIVES",
       "SetID": "4n84pon",
       "Name": "Hidden Human Hive Harvest",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -1231,15 +1236,15 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
       "SetID": "4n84pon",
       "Name": "Rock of the Bay",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 160
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1271,7 +1276,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1359,7 +1364,7 @@
       "Name": "Upgreatest",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -1389,9 +1394,9 @@
       "ID": "ACH_SKATE_AWAY_FROM_SPORE",
       "SetID": "4n84pon",
       "Name": "Dusted",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_SKATE_BAYCITY",
@@ -1447,14 +1452,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 210,
+      "Progressed": 211,
       "Completed": 1
     }
   ],
@@ -1462,8 +1467,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-27T03:09:57.0266855+00:00",
+  "LastChanged_Achievements": "2023-12-27T04:09:21.5820466+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-27T02:58:52.6866372+00:00",
-  "LastUpdate_Achievements": "2023-12-27T03:09:57.0267198+00:00"
+  "LastUpdate_Ratings": "2023-12-27T03:58:31.3690221+00:00",
+  "LastUpdate_Achievements": "2023-12-27T04:09:21.5820741+00:00"
 }

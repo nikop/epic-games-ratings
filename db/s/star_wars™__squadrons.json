@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 367,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-10-02T04:00:00+00:00",
     "PcReleaseDate": "2020-10-02T04:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 34197,
+  "EOS_Progressed": 34202,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2823,
+  "EOS_NewPlayers": 2822,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11649,6 +11649,11 @@
       "Time": "2023-12-27T03:11:16.8647613+00:00",
       "NumProgressed": 34197,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-27T04:10:45.7193311+00:00",
+      "NumProgressed": 34202,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -11709,7 +11714,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 6497
+      "UsersEstimate": 6498
     },
     {
       "ID": "achievement_16",
@@ -11869,7 +11874,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 6155
+      "UsersEstimate": 6156
     },
     {
       "ID": "achievement_34",
@@ -11885,7 +11890,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 32487
+      "UsersEstimate": 32492
     },
     {
       "ID": "achievement_36",
@@ -11917,7 +11922,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 7865
+      "UsersEstimate": 7866
     },
     {
       "ID": "achievement_4",
@@ -12021,7 +12026,7 @@
       "Name": "A Better Idea",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 7865
+      "UsersEstimate": 7866
     },
     {
       "ID": "achievement_9",
@@ -12036,7 +12041,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 34197,
+      "Progressed": 34202,
       "Completed": 3
     }
   ],
@@ -12044,8 +12049,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-12-27T03:11:16.8647609+00:00",
+  "LastChanged_Achievements": "2023-12-27T04:10:45.7193307+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:08.5159253+00:00",
-  "LastUpdate_Ratings": "2023-12-27T03:04:09.6316387+00:00",
-  "LastUpdate_Achievements": "2023-12-27T03:11:16.8648488+00:00"
+  "LastUpdate_Ratings": "2023-12-27T04:03:34.3185521+00:00",
+  "LastUpdate_Achievements": "2023-12-27T04:10:45.7193982+00:00"
 }

@@ -1,51 +1,51 @@
 # EA SPORTS™ FIFA 23 Standard Edition
 [Store](https://store.epicgames.com/en-US/p/fifa-23)  
 [View Rawdata](../../db/e/ea_sports™_fifa_23_standard_edition.json)  
-Rating: 4.26 (Ranked 890)  
+Rating: 4.26 (Ranked 889)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 75.00% | ~154,760 |
-| Dead-ball specialist | 62.00% | ~127,935 |
-| European Legend | 52.00% | ~107,300 |
-| Multitasking | 51.00% | ~105,237 |
-| Balanced Path | 49.00% | ~101,110 |
-| High Grades | 48.00% | ~99,047 |
-| A Moment of Your Time | 46.00% | ~94,920 |
-| Let the Games Begin | 46.00% | ~94,920 |
-| Aiming High | 46.00% | ~94,920 |
-| Tactical Tinkerer | 40.00% | ~82,539 |
-| Intuition and Execution | 39.00% | ~80,475 |
-| Squad Building Connoisseur | 38.00% | ~78,412 |
-| The Winning Formula | 36.00% | ~74,285 |
-| Parking the Bus | 28.00% | ~57,777 |
-| Safe House | 26.00% | ~53,650 |
-| Best of Five | 26.00% | ~53,650 |
-| Football is Everything | 24.00% | ~49,523 |
-| The Chosen One | 22.00% | ~45,396 |
-| Fresh Fit | 20.00% | ~41,269 |
-| Bring it on | 17.00% | ~35,079 |
-| Life-Like | 14.00% | ~28,889 |
-| Make the Grade | 12.00% | ~24,762 |
-| I Played Them All | 10.00% | ~20,635 |
-| Specialist | 10.00% | ~20,635 |
-| Teamwork works | 9.00% | ~18,571 |
-| First of Many | 9.00% | ~18,571 |
-| Momentous Achievement | 6.00% | ~12,381 |
-| In Cahoots | 5.00% | ~10,317 |
-| Tune Your Club | 5.00% | ~10,317 |
-| Becoming Unplayable | 5.00% | ~10,317 |
-| Shop till you drop | 5.00% | ~10,317 |
-| On the way up | 5.00% | ~10,317 |
+| Power Shot | 75.00% | ~154,771 |
+| Dead-ball specialist | 62.00% | ~127,944 |
+| European Legend | 52.00% | ~107,308 |
+| Multitasking | 51.00% | ~105,244 |
+| Balanced Path | 49.00% | ~101,117 |
+| High Grades | 48.00% | ~99,053 |
+| A Moment of Your Time | 46.00% | ~94,926 |
+| Let the Games Begin | 46.00% | ~94,926 |
+| Aiming High | 46.00% | ~94,926 |
+| Tactical Tinkerer | 40.00% | ~82,544 |
+| Intuition and Execution | 39.00% | ~80,481 |
+| Squad Building Connoisseur | 38.00% | ~78,417 |
+| The Winning Formula | 36.00% | ~74,290 |
+| Parking the Bus | 28.00% | ~57,781 |
+| Safe House | 26.00% | ~53,654 |
+| Best of Five | 26.00% | ~53,654 |
+| Football is Everything | 24.00% | ~49,527 |
+| The Chosen One | 22.00% | ~45,399 |
+| Fresh Fit | 20.00% | ~41,272 |
+| Bring it on | 17.00% | ~35,081 |
+| Life-Like | 14.00% | ~28,891 |
+| Make the Grade | 12.00% | ~24,763 |
+| I Played Them All | 10.00% | ~20,636 |
+| Specialist | 10.00% | ~20,636 |
+| Teamwork works | 9.00% | ~18,572 |
+| First of Many | 9.00% | ~18,572 |
+| Momentous Achievement | 6.00% | ~12,382 |
+| In Cahoots | 5.00% | ~10,318 |
+| Tune Your Club | 5.00% | ~10,318 |
+| Becoming Unplayable | 5.00% | ~10,318 |
+| Shop till you drop | 5.00% | ~10,318 |
+| On the way up | 5.00% | ~10,318 |
 | Volta's best | 4.00% | ~8,254 |
 | Full-House | 4.00% | ~8,254 |
-| Sharing is Caring | 3.00% | ~6,190 |
+| Sharing is Caring | 3.00% | ~6,191 |
 | Full wardrobe | 0.60% | ~1,238 |
 | Girl Power | 0.40% | ~825 |
 | Training Addict | 0.10% | ~206 |
 | Dazzling Personality | 0.10% | ~206 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,347 (Ranked 79)  
+Progressed: 206,361 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,14 +149,14 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 205,201 | 0 |
 | 2023-12-25 | 205,812 | 0 |
 | 2023-12-26 | 206,275 | 0 |
-| 2023-12-27 | 206,347 | 0 |
+| 2023-12-27 | 206,361 | 0 |
 ## Awards
-Max (Diverse Characters): 21,976  (Ranked 21)  
-Sum: 109,310 (Ranked 16)  
+Max (Diverse Characters): 21,991  (Ranked 21)  
+Sum: 109,325 (Ranked 16)  
 Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 21,976 |
+| This game has Diverse Characters | 21,991 |
 | This game is Highly Recommended | 14,953 |
 | This game has a Competitive Community | 14,291 |
 | This game has Amazing Characters | 12,307 |
@@ -524,3 +524,4 @@ Diff (max vs sum): 5
 | 2023-12-24 | 4.26 | 21,939 | 109,137 |
 | 2023-12-25 | 4.26 | 21,958 | 109,228 |
 | 2023-12-26 | 4.26 | 21,976 | 109,310 |
+| 2023-12-27 | 4.26 | 21,991 | 109,325 |

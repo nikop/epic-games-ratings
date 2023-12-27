@@ -1,17 +1,17 @@
 # Deponia Doomsday
 [Store](https://store.epicgames.com/en-US/p/deponia-doomsday-1848dd)  
 [View Rawdata](../../db/d/deponia_doomsday.json)  
-Rating: 4.55 (Ranked 512)  
+Rating: 4.55 (Ranked 513)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 86.00% | ~432 |
-| And again, and again, and... | 64.00% | ~321 |
-| Burn, Elysium, burn! | 63.00% | ~316 |
-| Kuvaq Minigame-Master | 62.00% | ~311 |
-| FunScore | 55.00% | ~276 |
-| Funtime's over | 53.00% | ~266 |
-| Chunky | 50.00% | ~251 |
+| Huzza, he's back. | 86.00% | ~433 |
+| And again, and again, and... | 64.00% | ~322 |
+| Kuvaq Minigame-Master | 62.00% | ~312 |
+| Burn, Elysium, burn! | 62.00% | ~312 |
+| FunScore | 55.00% | ~277 |
+| Funtime's over | 53.00% | ~267 |
+| Chunky | 50.00% | ~252 |
 | Boat of love, boat of love | 49.00% | ~246 |
 | Shall we play a game? | 48.00% | ~241 |
 | School's out | 44.00% | ~221 |
@@ -21,9 +21,9 @@ Rating: 4.55 (Ranked 512)
 | Portals come in packs | 30.00% | ~151 |
 | No man left behind! | 29.00% | ~146 |
 | Photo Friend | 26.00% | ~131 |
-| Brainfreeze | 20.00% | ~100 |
-| And everything comes full circle. | 20.00% | ~100 |
-| Masseltov | 19.00% | ~95 |
+| Brainfreeze | 20.00% | ~101 |
+| And everything comes full circle. | 20.00% | ~101 |
+| Masseltov | 19.00% | ~96 |
 | Quickdraw | 15.00% | ~75 |
 | Heading the inverter | 15.00% | ~75 |
 | Thuna...? | 14.00% | ~70 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 512)
 | Distraction | 5.00% | ~25 |
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 502 (Ranked 334)  
+Progressed: 503 (Ranked 334)  
 Completed: 7 (1.39%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,6 +140,7 @@ Completed: 7 (1.39%) (Ranked 151)
 | 2023-12-23 | 497 | 7 |
 | 2023-12-24 | 501 | 7 |
 | 2023-12-25 | 502 | 7 |
+| 2023-12-27 | 503 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
