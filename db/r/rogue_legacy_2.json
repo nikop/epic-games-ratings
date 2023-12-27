@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 226,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1456,18 +1456,24 @@
       "Rating": 4.85,
       "NumberOfAwards": 1708,
       "NumberOfAwardsMax": 225
+    },
+    {
+      "Time": "2023-12-27T14:58:28.192521+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 1710,
+      "NumberOfAwardsMax": 226
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1708,
-  "NumberOfAwardsMax": 225,
+  "NumberOfAwards": 1710,
+  "NumberOfAwardsMax": 226,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 225
+      "Count": 226
     },
     {
       "Text": "This game is Relaxing",
@@ -1497,7 +1503,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 194
+      "Count": 195
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1524,9 +1530,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 26909,
+  "EOS_Progressed": 26916,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1016,
+  "EOS_NewPlayers": 1010,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -12054,6 +12060,11 @@
       "Time": "2023-12-27T14:09:52.0941582+00:00",
       "NumProgressed": 26909,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-27T15:09:43.9101903+00:00",
+      "NumProgressed": 26916,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -12119,9 +12130,9 @@
       "ID": "BossBridgeAdvancedDefeated",
       "SetID": "3ojhj46",
       "Name": "For Justice",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 161
+      "UsersEstimate": 135
     },
     {
       "ID": "BossBridgeDefeated",
@@ -12129,7 +12140,7 @@
       "Name": "Captain and Crew",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -12145,7 +12156,7 @@
       "Name": "Spells and Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1346
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -12257,7 +12268,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "EndTimerFail",
@@ -12376,21 +12387,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 26909,
+      "Progressed": 26916,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 5839,
+      "Progressed": 5846,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
-  "LastChanged": "2023-12-25T17:57:06.1177901+00:00",
-  "LastChanged_Achievements": "2023-12-27T14:09:52.0941577+00:00",
+  "LastChanged": "2023-12-27T14:58:28.1925208+00:00",
+  "LastChanged_Achievements": "2023-12-27T15:09:43.9101901+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.6659711+00:00",
-  "LastUpdate_Ratings": "2023-12-27T13:58:15.5942159+00:00",
-  "LastUpdate_Achievements": "2023-12-27T14:09:52.094249+00:00"
+  "LastUpdate_Ratings": "2023-12-27T14:58:28.1925214+00:00",
+  "LastUpdate_Achievements": "2023-12-27T15:09:43.9102579+00:00"
 }

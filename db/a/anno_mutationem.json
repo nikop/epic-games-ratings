@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 800,
+  "EOS_Progressed": 801,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1109,6 +1109,11 @@
       "Time": "2023-12-26T08:04:20.5755607+00:00",
       "NumProgressed": 800,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T15:05:10.1111033+00:00",
+      "NumProgressed": 801,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1126,9 +1131,9 @@
       "ID": "Annakin Skyscroller",
       "SetID": "gl7plp",
       "Name": "Annakin Skyscroller",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 112
+      "UsersEstimate": 104
     },
     {
       "ID": "Arm_Wrestling",
@@ -1174,17 +1179,17 @@
       "ID": "Deadly_Kombationem",
       "SetID": "gl7plp",
       "Name": "Deadly Kombationem",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 144
     },
     {
       "ID": "Fire in the hole!",
       "SetID": "gl7plp",
       "Name": "Fire in the hole!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 160
     },
     {
       "ID": "I feel secure, contained \u0026 protected",
@@ -1270,9 +1275,9 @@
       "ID": "So_Fresh",
       "SetID": "gl7plp",
       "Name": "So Fresh and So clean clean",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 56
     },
     {
       "ID": "Supreme_Bartender_Ann",
@@ -1288,15 +1293,15 @@
       "Name": "Tell me your story",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "Thats_gotta_hurt",
       "SetID": "gl7plp",
       "Name": "That\u0027s gotta hurt",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 296
+      "UsersEstimate": 288
     },
     {
       "ID": "The Traveler",
@@ -1318,9 +1323,9 @@
       "ID": "The_Ann_Flores_Combo_Experience",
       "SetID": "gl7plp",
       "Name": "The Ann Flores Combo Experience",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 216
+      "UsersEstimate": 208
     },
     {
       "ID": "The_Warlord",
@@ -1384,7 +1389,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "posters",
@@ -1407,7 +1412,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 800,
+      "Progressed": 801,
       "Completed": 0
     }
   ],
@@ -1415,8 +1420,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-12-25T11:02:42.8909676+00:00",
-  "LastChanged_Achievements": "2023-12-27T14:05:06.101279+00:00",
+  "LastChanged_Achievements": "2023-12-27T15:05:10.1111027+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:23.7389862+00:00",
-  "LastUpdate_Ratings": "2023-12-27T14:02:54.644444+00:00",
-  "LastUpdate_Achievements": "2023-12-27T14:05:06.1013114+00:00"
+  "LastUpdate_Ratings": "2023-12-27T15:02:57.5727212+00:00",
+  "LastUpdate_Achievements": "2023-12-27T15:05:10.1111313+00:00"
 }

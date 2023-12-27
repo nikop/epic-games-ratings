@@ -1,14 +1,14 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.56 (Ranked 495)  
+Rating: 4.56 (Ranked 496)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 15.00% | ~2,634 |
 | Captain Drummer | 12.00% | ~2,107 |
-| Bosmang | 11.00% | ~1,931 |
-| Celebrations are in Order | 11.00% | ~1,931 |
+| Bosmang | 11.00% | ~1,932 |
+| Celebrations are in Order | 11.00% | ~1,932 |
 | The Pit and the Pirates | 10.00% | ~1,756 |
 | Martian Music | 10.00% | ~1,756 |
 | Drone Dodger | 10.00% | ~1,756 |
@@ -21,10 +21,10 @@ Rating: 4.56 (Ranked 495)
 | Madame Undersecretary | 8.00% | ~281 |
 | Heal Thy Medic | 7.00% | ~1,229 |
 | Keep Arjun in Check | 7.00% | ~246 |
-| Data Archivist | 6.00% | ~1,053 |
-| Drug Gifter | 6.00% | ~1,053 |
-| Thorston Mayer | 6.00% | ~1,053 |
-| Khan's Revenge | 6.00% | ~1,053 |
+| Data Archivist | 6.00% | ~1,054 |
+| Drug Gifter | 6.00% | ~1,054 |
+| Thorston Mayer | 6.00% | ~1,054 |
+| Khan's Revenge | 6.00% | ~1,054 |
 | Doctor Approved | 5.00% | ~878 |
 | Bottoms up! | 5.00% | ~878 |
 | Master Negotiator | 5.00% | ~176 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 495)
 | Scavenger Star | 0.30% | ~53 |
 | Data Collector | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,558 (Ranked 156)  
+Progressed: 17,561 (Ranked 156)  
 Completed: 53 (0.30%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 53 (0.30%) (Ranked 253)
 | 2023-12-24 | 17,334 | 52 |
 | 2023-12-25 | 17,425 | 52 |
 | 2023-12-26 | 17,513 | 53 |
-| 2023-12-27 | 17,558 | 53 |
+| 2023-12-27 | 17,561 | 53 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

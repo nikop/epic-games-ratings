@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Such a strange dream… | 88.00% | ~422 |
 | Your first fight | 85.00% | ~408 |
-| Good Person Chip | 83.00% | ~398 |
+| Good Person Chip | 84.00% | ~403 |
 | First winning | 82.00% | ~394 |
 | Your first job | 81.00% | ~389 |
 | Depressed visitor | 76.00% | ~365 |
@@ -30,8 +30,8 @@
 | Champion – starter pack | 55.00% | ~264 |
 | Fight for life | 54.00% | ~259 |
 | It's good to be alive | 54.00% | ~259 |
+| Own four walls | 54.00% | ~259 |
 | Employee of the year | 54.00% | ~259 |
-| Own four walls | 53.00% | ~254 |
 | Intriguing candies | 53.00% | ~254 |
 | Extreme neuropower! | 50.00% | ~240 |
 | Legal courier | 49.00% | ~235 |

@@ -13,10 +13,10 @@ Number of Ratings: 76  (23.09.2022)
 | Time For Tutorial | 10.00% | ~42 |
 | Sweet Victory | 9.00% | ~38 |
 | Sock Getter | 9.00% | ~38 |
+| Surf's Up! | 8.00% | ~34 |
 | Uptown and Downtown | 7.00% | ~30 |
 | Super Spatula Seeker | 7.00% | ~30 |
 | Star Smasher | 7.00% | ~30 |
-| Surf's Up! | 7.00% | ~30 |
 | Life's as extreme as you wanna make it! | 6.00% | ~26 |
 | Toxic Terror | 6.00% | ~26 |
 | Squirrel Smasher | 6.00% | ~26 |

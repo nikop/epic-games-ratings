@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 8,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -481,9 +481,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1559368,
+  "EOS_Progressed": 1559384,
   "EOS_Completed": 758,
-  "EOS_NewPlayers": 2047,
+  "EOS_NewPlayers": 2054,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -29241,6 +29241,11 @@
       "Time": "2023-12-27T14:04:03.2160376+00:00",
       "NumProgressed": 1559368,
       "NumCompleted": 758
+    },
+    {
+      "Time": "2023-12-27T15:04:07.028742+00:00",
+      "NumProgressed": 1559384,
+      "NumCompleted": 758
     }
   ],
   "TotalAchievements": 20,
@@ -29260,7 +29265,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 109156
+      "UsersEstimate": 109157
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -29268,7 +29273,7 @@
       "Name": "Bring the Cubic Ruckus",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31187
+      "UsersEstimate": 31188
     },
     {
       "ID": "ACH_DOUBLE_RAINBOW",
@@ -29284,7 +29289,7 @@
       "Name": "Drift Line Apprentice",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 46781
+      "UsersEstimate": 46782
     },
     {
       "ID": "ACH_DRIFT_LINE_MASTER",
@@ -29300,7 +29305,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 140343
+      "UsersEstimate": 140345
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -29324,7 +29329,7 @@
       "Name": "Jelly Donuts",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31187
+      "UsersEstimate": 31188
     },
     {
       "ID": "ACH_MAD_SKILLS",
@@ -29332,7 +29337,7 @@
       "Name": "Mad Skills",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 46781
+      "UsersEstimate": 46782
     },
     {
       "ID": "ACH_MASTER_DRIFTER",
@@ -29340,7 +29345,7 @@
       "Name": "Master Drifter",
       "Percentage": 2,
       "XP": 95,
-      "UsersEstimate": 31187
+      "UsersEstimate": 31188
     },
     {
       "ID": "ACH_MIDNIGHT_DRIFTER",
@@ -29348,7 +29353,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 155937
+      "UsersEstimate": 155938
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -29356,7 +29361,7 @@
       "Name": "Midnight Master",
       "Percentage": 2,
       "XP": 95,
-      "UsersEstimate": 31187
+      "UsersEstimate": 31188
     },
     {
       "ID": "ACH_MULTIPLIER_MASTER",
@@ -29364,7 +29369,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 140343
+      "UsersEstimate": 140345
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -29380,7 +29385,7 @@
       "Name": "Spin Doctor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31187
+      "UsersEstimate": 31188
     },
     {
       "ID": "ACH_THE_COMPLETIONIST",
@@ -29396,7 +29401,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 77968
+      "UsersEstimate": 77969
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -29404,22 +29409,22 @@
       "Name": "Washing Machine",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 6237
+      "UsersEstimate": 6238
     }
   ],
   "AchievementSets": [
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1559368,
+      "Progressed": 1559384,
       "Completed": 758
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-12-17T11:57:05.6881594+00:00",
-  "LastChanged_Achievements": "2023-12-27T14:04:03.2160371+00:00",
+  "LastChanged_Achievements": "2023-12-27T15:04:07.0287415+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:34.4889522+00:00",
-  "LastUpdate_Ratings": "2023-12-27T14:02:51.9593327+00:00",
-  "LastUpdate_Achievements": "2023-12-27T14:04:03.2161954+00:00"
+  "LastUpdate_Ratings": "2023-12-27T15:02:54.912941+00:00",
+  "LastUpdate_Achievements": "2023-12-27T15:04:07.0288693+00:00"
 }

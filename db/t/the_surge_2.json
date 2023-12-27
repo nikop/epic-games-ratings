@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2384,
+  "EOS_Progressed": 2385,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3928,6 +3928,11 @@
       "Time": "2023-12-27T11:05:18.066675+00:00",
       "NumProgressed": 2384,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-27T15:05:19.3267365+00:00",
+      "NumProgressed": 2385,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3963,7 +3968,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "ACHV_05",
@@ -3979,7 +3984,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "ACHV_07",
@@ -4139,7 +4144,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1883
+      "UsersEstimate": 1884
     },
     {
       "ID": "ACHV_27",
@@ -4147,7 +4152,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "ACHV_28",
@@ -4211,7 +4216,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "ACHV_36",
@@ -4227,7 +4232,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "ACHV_38",
@@ -4243,7 +4248,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1812
+      "UsersEstimate": 1813
     },
     {
       "ID": "ACHV_40",
@@ -4291,7 +4296,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "ACHV_46",
@@ -4394,7 +4399,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2384,
+      "Progressed": 2385,
       "Completed": 13
     }
   ],
@@ -4402,8 +4407,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-17T06:57:54.8643494+00:00",
-  "LastChanged_Achievements": "2023-12-27T14:05:15.2457471+00:00",
+  "LastChanged_Achievements": "2023-12-27T15:05:19.326736+00:00",
   "LastUpdate_AppInfo": "2023-12-23T16:57:13.3130714+00:00",
-  "LastUpdate_Ratings": "2023-12-27T13:59:26.7404654+00:00",
-  "LastUpdate_Achievements": "2023-12-27T14:05:15.2458033+00:00"
+  "LastUpdate_Ratings": "2023-12-27T14:59:40.966185+00:00",
+  "LastUpdate_Achievements": "2023-12-27T15:05:19.3267864+00:00"
 }

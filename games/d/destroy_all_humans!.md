@@ -34,7 +34,7 @@ Number of Ratings: 85  (23.09.2022)
 | Hidden Human Hive Harvest | 14.00% | ~25 |
 | Mash Machine | 14.00% | ~25 |
 | Dusted | 13.00% | ~23 |
-| Albion Bridge Is for Falling Down | 11.00% | ~20 |
+| Albion Bridge Is for Falling Down | 12.00% | ~21 |
 | Scuttled | 9.00% | ~16 |
 | PK Slam Dunk | 8.00% | ~14 |
 | Higher Than the Futen Zoku | 8.00% | ~14 |

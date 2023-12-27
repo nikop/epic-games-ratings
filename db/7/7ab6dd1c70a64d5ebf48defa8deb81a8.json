@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1339,
+  "EOS_Progressed": 1341,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 434,
+  "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -2632,6 +2632,11 @@
       "Time": "2023-12-27T14:10:05.1107446+00:00",
       "NumProgressed": 1339,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-27T15:09:56.6659715+00:00",
+      "NumProgressed": 1341,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2643,7 +2648,7 @@
       "Name": "Break Out",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "ACH_02",
@@ -2659,7 +2664,7 @@
       "Name": "Powerful Allies",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_04",
@@ -2699,7 +2704,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ACH_09",
@@ -2715,7 +2720,7 @@
       "Name": "Trinity",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ACH_11",
@@ -2755,7 +2760,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_16",
@@ -2779,7 +2784,7 @@
       "Name": "Shatter Them All",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ACH_19",
@@ -2803,7 +2808,7 @@
       "Name": "Big Bazar",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_22",
@@ -2819,7 +2824,7 @@
       "Name": "Geared Up",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ACH_24",
@@ -2859,7 +2864,7 @@
       "Name": "I Found It",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ACH_29",
@@ -2930,7 +2935,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1339,
+      "Progressed": 1341,
       "Completed": 3
     }
   ],
@@ -2938,8 +2943,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2023-12-27T00:00:31.2413182+00:00",
-  "LastChanged_Achievements": "2023-12-27T14:10:05.1107442+00:00",
+  "LastChanged_Achievements": "2023-12-27T15:09:56.665971+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-27T14:02:44.6721858+00:00",
-  "LastUpdate_Achievements": "2023-12-27T14:10:05.1107815+00:00"
+  "LastUpdate_Ratings": "2023-12-27T15:02:46.8150042+00:00",
+  "LastUpdate_Achievements": "2023-12-27T15:09:56.6660073+00:00"
 }

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 536,
+  "EOS_Progressed": 537,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1759,6 +1759,11 @@
       "Time": "2023-12-27T12:10:05.6759983+00:00",
       "NumProgressed": 536,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T15:09:40.0247731+00:00",
+      "NumProgressed": 537,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1801,9 +1806,9 @@
       "ID": "HYPNO_CORRECT_GROUP",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Brainiacs",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 64
     },
     {
       "ID": "HYPNO_OUTLIER_ID",
@@ -1843,7 +1848,7 @@
       "Name": "FixyText: Bestseller",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -1883,7 +1888,7 @@
       "Name": "Timejinx: The Perfect Date",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -1930,14 +1935,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 536,
+      "Progressed": 537,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-27T14:09:48.0066+00:00",
+  "LastChanged_Achievements": "2023-12-27T15:09:40.0247728+00:00",
   "LastUpdate_AppInfo": "2023-12-23T02:14:15.0192188+00:00",
-  "LastUpdate_Ratings": "2023-12-27T13:59:39.3088048+00:00",
-  "LastUpdate_Achievements": "2023-12-27T14:09:48.006624+00:00"
+  "LastUpdate_Ratings": "2023-12-27T14:59:53.8610799+00:00",
+  "LastUpdate_Achievements": "2023-12-27T15:09:40.0247918+00:00"
 }

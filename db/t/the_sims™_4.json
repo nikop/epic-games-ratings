@@ -2,12 +2,12 @@
   "ID": "2a14cf8a83b149919a2399504e5686a6",
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
-  "Ranking_Rating": 352,
+  "Ranking_Rating": 374,
   "Ranking_Popularity": 103,
   "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 560,
+  "Ranking_EOS_NewPlayers": 561,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.63,
+  "Rating": 4.62,
   "RatingHistory": [
     {
       "Time": "2023-02-05T14:56:53.5654686+00:00",
@@ -11111,10 +11111,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 13430,
       "NumberOfAwardsMax": 2582
+    },
+    {
+      "Time": "2023-12-27T15:02:57.7025248+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 13446,
+      "NumberOfAwardsMax": 2582
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13430,
+  "NumberOfAwards": 13446,
   "NumberOfAwardsMax": 2582,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -11152,7 +11158,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1165
+      "Count": 1181
     },
     {
       "Text": "This game is Extremely Fun",
@@ -11205,9 +11211,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2023-12-27T14:02:54.757589+00:00",
-  "LastChanged_Achievements": "2023-12-27T14:05:42.8433956+00:00",
+  "LastChanged": "2023-12-27T15:02:57.7025246+00:00",
+  "LastChanged_Achievements": "2023-12-27T15:05:46.5769502+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:06.6288564+00:00",
-  "LastUpdate_Ratings": "2023-12-27T14:02:54.75759+00:00",
-  "LastUpdate_Achievements": "2023-12-27T14:05:42.843399+00:00"
+  "LastUpdate_Ratings": "2023-12-27T15:02:57.7025251+00:00",
+  "LastUpdate_Achievements": "2023-12-27T15:05:46.576952+00:00"
 }

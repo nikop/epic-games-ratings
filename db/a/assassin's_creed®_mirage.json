@@ -4,10 +4,10 @@
   "ProductSlug": "assassins-creed-mirage",
   "Ranking_Rating": 677,
   "Ranking_Popularity": 290,
-  "Ranking_PopularitySum": 225,
+  "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 560,
+  "Ranking_EOS_NewPlayers": 561,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -2647,10 +2647,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 1723,
       "NumberOfAwardsMax": 210
+    },
+    {
+      "Time": "2023-12-27T14:59:12.574816+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 1727,
+      "NumberOfAwardsMax": 210
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1723,
+  "NumberOfAwards": 1727,
   "NumberOfAwardsMax": 210,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2664,7 +2670,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 198
+      "Count": 202
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2733,8 +2739,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T18:58:30.4202319+00:00",
   "FirstSeenRating": "2023-10-06T05:58:23.6709697+00:00",
-  "LastChanged": "2023-12-27T13:58:59.3063894+00:00",
+  "LastChanged": "2023-12-27T14:59:12.5748158+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:19:59.911469+00:00",
-  "LastUpdate_Ratings": "2023-12-27T13:58:59.3063899+00:00",
-  "LastUpdate_Achievements": "2023-12-27T14:04:21.9098247+00:00"
+  "LastUpdate_Ratings": "2023-12-27T14:59:12.5748164+00:00",
+  "LastUpdate_Achievements": "2023-12-27T15:04:25.9216898+00:00"
 }

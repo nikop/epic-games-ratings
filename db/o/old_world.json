@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2196,9 +2196,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15970,
+  "EOS_Progressed": 15973,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18441,6 +18441,11 @@
       "Time": "2023-12-27T14:10:12.1762633+00:00",
       "NumProgressed": 15970,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-27T15:10:04.1786039+00:00",
+      "NumProgressed": 15973,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -18898,9 +18903,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_GLORIOUS",
       "SetID": "7l38kb8",
       "Name": "Glorious",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GOOD",
@@ -19002,9 +19007,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MASON",
       "SetID": "9201eeb",
       "Name": "Mason",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
@@ -19378,9 +19383,9 @@
       "ID": "ACHIEVEMENT_FERTILE_CRESCENT",
       "SetID": "9201eeb",
       "Name": "Battle of the Fertile Crescent",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_FIRST_PEACE_TREATY",
@@ -19530,9 +19535,9 @@
       "ID": "ACHIEVEMENT_GREECE3_NO_WOUND",
       "SetID": "9201eeb",
       "Name": "Not a Scratch",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_OLYMPICS",
@@ -19578,33 +19583,33 @@
       "ID": "ACHIEVEMENT_GREECE3_VICTORY",
       "SetID": "9201eeb",
       "Name": "Unfinished Business",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_VICTORY_BRONZE",
       "SetID": "9201eeb",
       "Name": "Philip\u0027s Bronze Crown",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_VICTORY_GOLD",
       "SetID": "9201eeb",
       "Name": "Philip\u0027s Golden Crown",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_VICTORY_SILVER",
       "SetID": "9201eeb",
       "Name": "Philip\u0027s Silver Crown",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_GREECE4_CITIES",
@@ -19818,9 +19823,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
       "SetID": "9201eeb",
       "Name": "Hanging Gardens",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
@@ -19874,9 +19879,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
       "SetID": "9201eeb",
       "Name": "Mausoleum",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MUSAEUM",
@@ -20370,9 +20375,9 @@
       "ID": "ACHIEVEMENT_STAT_TEN_LANDMARKS_NAME",
       "SetID": "9201eeb",
       "Name": "Naming Landmarks",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
@@ -20386,9 +20391,9 @@
       "ID": "ACHIEVEMENT_TECH_ECONOMIC_REFORM",
       "SetID": "9201eeb",
       "Name": "Economic Reform",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS",
@@ -20482,9 +20487,9 @@
       "ID": "ACHIEVEMENT_TRADE_CARAVAN",
       "SetID": "9201eeb",
       "Name": "Trade Caravan",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER",
@@ -21315,21 +21320,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15970,
+      "Progressed": 15973,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15970,
+      "Progressed": 15973,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-27T01:47:31.9779419+00:00",
-  "LastChanged_Achievements": "2023-12-27T14:10:12.1762628+00:00",
+  "LastChanged_Achievements": "2023-12-27T15:10:04.1786034+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:47.5878363+00:00",
-  "LastUpdate_Ratings": "2023-12-27T14:03:00.5557363+00:00",
-  "LastUpdate_Achievements": "2023-12-27T14:10:12.1772178+00:00"
+  "LastUpdate_Ratings": "2023-12-27T15:03:03.4903604+00:00",
+  "LastUpdate_Achievements": "2023-12-27T15:10:04.1796599+00:00"
 }

@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.56 (Ranked 495)  
+Rating: 4.56 (Ranked 496)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,13 +9,13 @@ Rating: 4.56 (Ranked 495)
 | Complete Guard Faction | 1.00% | ~23 |
 | The Bright Fir | 1.00% | ~9 |
 | Ranged Weapon | 0.80% | ~18 |
+| Two Handed Weapon | 0.80% | ~18 |
 | Defeat 25 Frogs | 0.80% | ~18 |
 | Shield Maiden Yellow Tongue | 0.80% | ~7 |
 | Collect Gold | 0.70% | ~16 |
 | Collect Iron Ore | 0.70% | ~16 |
 | Collect Monster Parts | 0.70% | ~16 |
 | End of the Mozis | 0.70% | ~16 |
-| Two Handed Weapon | 0.70% | ~16 |
 | Defeat 25 Grubs | 0.70% | ~16 |
 | Meet the Creatures from the Deep | 0.70% | ~16 |
 | Smithy Ready to Craft | 0.70% | ~16 |

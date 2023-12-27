@@ -1,44 +1,44 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.55 (Ranked 514)  
+Rating: 4.54 (Ranked 536)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~4,054 |
-| Keep 'Em Coming | 66.00% | ~3,475 |
-| Snatched Out | 65.00% | ~3,422 |
-| Cleaning Lethe, One Nest At A Time | 59.00% | ~3,106 |
-| Call Me Snake | 55.00% | ~2,896 |
-| Something Lurks Under The Hills | 53.00% | ~2,790 |
-| This Was No Papercut | 51.00% | ~2,685 |
-| The Shrink Hates Me | 49.00% | ~2,580 |
-| People Person | 48.00% | ~2,527 |
-| Use The Bumper, That's What It's For | 45.00% | ~2,369 |
-| First Steps Into Madness | 45.00% | ~2,369 |
-| Colonial Barrels | 43.00% | ~2,264 |
-| Harper's Hell | 39.00% | ~2,053 |
-| Making a Stand | 37.00% | ~1,948 |
-| Damn Dude, You Gotta Lose Some Weight! | 36.00% | ~1,895 |
-| Where It All Begun | 34.00% | ~1,790 |
+| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~4,056 |
+| Keep 'Em Coming | 66.00% | ~3,476 |
+| Snatched Out | 65.00% | ~3,424 |
+| Cleaning Lethe, One Nest At A Time | 59.00% | ~3,108 |
+| Call Me Snake | 55.00% | ~2,897 |
+| Something Lurks Under The Hills | 53.00% | ~2,792 |
+| This Was No Papercut | 51.00% | ~2,686 |
+| The Shrink Hates Me | 49.00% | ~2,581 |
+| People Person | 48.00% | ~2,528 |
+| Use The Bumper, That's What It's For | 45.00% | ~2,370 |
+| First Steps Into Madness | 45.00% | ~2,370 |
+| Colonial Barrels | 43.00% | ~2,265 |
+| Harper's Hell | 39.00% | ~2,054 |
+| Making a Stand | 38.00% | ~2,001 |
+| Damn Dude, You Gotta Lose Some Weight! | 36.00% | ~1,896 |
+| Where It All Begun | 34.00% | ~1,791 |
 | Recouped Investment | 32.00% | ~1,685 |
-| Living Nightmare | 28.00% | ~1,474 |
-| The More The Merrier | 28.00% | ~1,474 |
+| Living Nightmare | 28.00% | ~1,475 |
+| The More The Merrier | 28.00% | ~1,475 |
 | Omelette Du Fromage | 27.00% | ~1,422 |
-| The Darwin Era Was Here | 25.00% | ~1,316 |
+| The Darwin Era Was Here | 25.00% | ~1,317 |
 | Deep Into Insanity | 24.00% | ~1,264 |
 | The Passenger | 23.00% | ~1,211 |
-| Come on, You Wanna Live Forever? | 22.00% | ~1,158 |
+| Come on, You Wanna Live Forever? | 22.00% | ~1,159 |
 | The Spire | 21.00% | ~1,106 |
 | El Riesgo Siempre Vive | 20.00% | ~1,053 |
-| Stuff Of Nightmares | 19.00% | ~1,000 |
-| Excavating The Truth | 19.00% | ~1,000 |
+| Stuff Of Nightmares | 19.00% | ~1,001 |
+| Excavating The Truth | 19.00% | ~1,001 |
 | Frontliner | 18.00% | ~948 |
 | Abysmal Horrors | 18.00% | ~948 |
 | One For Every Occasion | 17.00% | ~895 |
 | The Cable Guy | 17.00% | ~895 |
-| Bandage Lover | 16.00% | ~842 |
-| Regicide | 13.00% | ~684 |
+| Bandage Lover | 16.00% | ~843 |
+| Regicide | 13.00% | ~685 |
 | This Went Smoothly | 12.00% | ~632 |
 | Flawless Victory | 11.00% | ~579 |
 | Heavy Steps | 11.00% | ~579 |
@@ -51,7 +51,7 @@ Rating: 4.55 (Ranked 514)
 | This Ain't No Picnic | 0.60% | ~32 |
 | Chalk It Up To Experience | 0.60% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,265 (Ranked 199)  
+Progressed: 5,267 (Ranked 199)  
 Completed: 3 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,14 +235,14 @@ Completed: 3 (0.06%) (Ranked 327)
 | 2023-12-24 | 5,040 | 3 |
 | 2023-12-25 | 5,139 | 3 |
 | 2023-12-26 | 5,230 | 3 |
-| 2023-12-27 | 5,265 | 3 |
+| 2023-12-27 | 5,267 | 3 |
 ## Awards
-Max (Great Boss Battles): 51  (Ranked 445)  
-Sum: 51 (Ranked 499)  
-Diff (max vs sum): -54  
+Max (Great Boss Battles): 52  (Ranked 439)  
+Sum: 52 (Ranked 494)  
+Diff (max vs sum): -55  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 51 |
+| This game has Great Boss Battles | 52 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -317,3 +317,4 @@ Diff (max vs sum): -54
 | 2023-12-23 | 4.53 | 46 | 46 |
 | 2023-12-25 | 4.54 | 50 | 50 |
 | 2023-12-26 | 4.55 | 51 | 51 |
+| 2023-12-27 | 4.54 | 52 | 52 |

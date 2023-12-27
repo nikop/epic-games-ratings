@@ -247,9 +247,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 1154,
+  "EOS_Progressed": 1156,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3132,6 +3132,11 @@
       "Time": "2023-12-27T10:05:31.0294011+00:00",
       "NumProgressed": 1154,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-27T15:04:28.8163731+00:00",
+      "NumProgressed": 1156,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3152,7 +3157,7 @@
       "Name": "Ab Initio",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "AnthropicHills",
@@ -3200,7 +3205,7 @@
       "Name": "Bridge Builder",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "ChasingTheLight",
@@ -3232,7 +3237,7 @@
       "Name": "Desolate Island",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "Discovery",
@@ -3248,7 +3253,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "EcstaticTruth",
@@ -3272,7 +3277,7 @@
       "Name": "Flooded Valley",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "GnothiSeauton",
@@ -3296,7 +3301,7 @@
       "Name": "Grasslands Ring",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "HighPlain",
@@ -3320,7 +3325,7 @@
       "Name": "Just One Lap",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "LordOfTheFiles",
@@ -3328,7 +3333,7 @@
       "Name": "Lord of the Files",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "LostMarshes",
@@ -3344,7 +3349,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "Mnemosyne",
@@ -3390,9 +3395,9 @@
       "ID": "NotWhatItSeems",
       "SetID": "1n308hc",
       "Name": "Not What It Seems",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 104
     },
     {
       "ID": "Overload",
@@ -3416,7 +3421,7 @@
       "Name": "Prometheus Unbound",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "PuzzleFiend",
@@ -3536,7 +3541,7 @@
       "Name": "The Spark",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "TheThiefOfFire",
@@ -3576,7 +3581,7 @@
       "Name": "Verdant Canyon",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "Wanderers",
@@ -3600,7 +3605,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "YourBiggestFan",
@@ -3608,14 +3613,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1154,
+      "Progressed": 1156,
       "Completed": 2
     }
   ],
@@ -3623,8 +3628,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-26T14:58:48.4089704+00:00",
-  "LastChanged_Achievements": "2023-12-27T14:04:24.7404863+00:00",
+  "LastChanged_Achievements": "2023-12-27T15:04:28.8163726+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-27T13:59:22.1202148+00:00",
-  "LastUpdate_Achievements": "2023-12-27T14:04:24.7405493+00:00"
+  "LastUpdate_Ratings": "2023-12-27T14:59:36.1678164+00:00",
+  "LastUpdate_Achievements": "2023-12-27T15:04:28.816424+00:00"
 }

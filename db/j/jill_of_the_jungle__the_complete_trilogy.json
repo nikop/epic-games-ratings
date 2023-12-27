@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 50,
   "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-04-26T15:00:00+00:00",
     "PcReleaseDate": "1992-07-01T12:44:00+00:00",
@@ -27,10 +27,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2116,
+  "EOS_Progressed": 2117,
   "EOS_Completed": 168,
   "EOS_NewPlayers": 25,
-  "EOS_NewCompleters": 7,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 7.94,
   "EosHistory": [
     {
@@ -7827,6 +7827,11 @@
       "Time": "2023-12-27T13:11:00.8598749+00:00",
       "NumProgressed": 2116,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-12-27T15:03:26.0075675+00:00",
+      "NumProgressed": 2117,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 5,
@@ -7838,7 +7843,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "2",
@@ -7862,7 +7867,7 @@
       "Name": "Jill the Courageous",
       "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "5",
@@ -7877,7 +7882,7 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 2116,
+      "Progressed": 2117,
       "Completed": 168
     }
   ],
@@ -7885,8 +7890,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-12-27T13:11:00.8598745+00:00",
+  "LastChanged_Achievements": "2023-12-27T15:03:26.0075671+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:18.8339331+00:00",
-  "LastUpdate_Ratings": "2023-12-27T13:57:32.1086362+00:00",
-  "LastUpdate_Achievements": "2023-12-27T13:11:00.8599156+00:00"
+  "LastUpdate_Ratings": "2023-12-27T14:57:46.1311384+00:00",
+  "LastUpdate_Achievements": "2023-12-27T15:03:26.0076316+00:00"
 }

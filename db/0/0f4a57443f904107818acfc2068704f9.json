@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1062,
+  "EOS_Progressed": 1063,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2577,6 +2577,11 @@
       "Time": "2023-12-27T12:05:35.9610362+00:00",
       "NumProgressed": 1062,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T15:05:18.1417582+00:00",
+      "NumProgressed": 1063,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2613,7 +2618,7 @@
       "Name": "Celestant-Prime",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CompleteCampaignLorekeeper",
@@ -2645,15 +2650,15 @@
       "Name": "Pathfinder",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "CompleteChapter10",
       "SetID": "52ail55",
       "Name": "You da Boss, Now",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 149
     },
     {
       "ID": "CompleteChapter11",
@@ -2661,7 +2666,7 @@
       "Name": "The Artefact is Mine",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "CompleteChapter12",
@@ -2717,7 +2722,7 @@
       "Name": "Who Needs Reinforcements?",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "CompleteChapter18",
@@ -2741,7 +2746,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "CompleteChapter4",
@@ -2813,7 +2818,7 @@
       "Name": "Realm of Beasts Tamed",
       "Percentage": 0.8,
       "XP": 60,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CompleteConquestStormcast",
@@ -2884,14 +2889,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1062,
+      "Progressed": 1063,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-27T14:05:14.0658027+00:00",
+  "LastChanged_Achievements": "2023-12-27T15:05:18.1417577+00:00",
   "LastUpdate_AppInfo": "2023-12-22T09:57:09.096238+00:00",
-  "LastUpdate_Ratings": "2023-12-27T14:02:43.6166516+00:00",
-  "LastUpdate_Achievements": "2023-12-27T14:05:14.0658391+00:00"
+  "LastUpdate_Ratings": "2023-12-27T15:02:45.724856+00:00",
+  "LastUpdate_Achievements": "2023-12-27T15:05:18.1417965+00:00"
 }

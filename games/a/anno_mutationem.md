@@ -5,31 +5,31 @@ Rating: 4.55 (Ranked 514)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 76.00% | ~608 |
-| Don't judge a manhole by its cover | 60.00% | ~480 |
+| Tell me your story | 76.00% | ~609 |
+| Don't judge a manhole by its cover | 60.00% | ~481 |
 | I just love stuff! | 42.00% | ~336 |
 | Keep 'em coming! | 42.00% | ~336 |
 | The things they print nowadays | 40.00% | ~320 |
 | Big Spender | 39.00% | ~312 |
-| That's gotta hurt | 37.00% | ~296 |
+| That's gotta hurt | 36.00% | ~288 |
 | I think it's broke | 27.00% | ~216 |
-| The Ann Flores Combo Experience | 27.00% | ~216 |
+| The Ann Flores Combo Experience | 26.00% | ~208 |
 | Club Star | 25.00% | ~200 |
-| Fire in the hole! | 21.00% | ~168 |
+| Fire in the hole! | 20.00% | ~160 |
 | Omnipotence | 20.00% | ~160 |
 | The Warlord | 20.00% | ~160 |
-| Deadly Kombationem | 19.00% | ~152 |
 | You are the One | 19.00% | ~152 |
+| Deadly Kombationem | 18.00% | ~144 |
 | The truth is out there | 16.00% | ~128 |
-| Annakin Skyscroller | 14.00% | ~112 |
+| Annakin Skyscroller | 13.00% | ~104 |
 | In the smacker...I think | 10.00% | ~80 |
 | Arm Wrestlin' | 9.00% | ~72 |
 | 1+1>2 | 9.00% | ~72 |
-| So Fresh and So clean clean | 8.00% | ~64 |
 | Supreme Bartender Ann | 8.00% | ~64 |
 | This can't be right… | 8.00% | ~64 |
 | Welcome home, 06 | 8.00% | ~64 |
 | I'm walking here! | 7.00% | ~56 |
+| So Fresh and So clean clean | 7.00% | ~56 |
 | Clarity of Mind | 6.00% | ~48 |
 | I feel secure, contained & protected | 6.00% | ~48 |
 | Science, it works! | 6.00% | ~48 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 514)
 | Love me like I love my posters | 1.00% | ~8 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 800 (Ranked 294)  
+Progressed: 801 (Ranked 294)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,6 +155,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 796 | 0 |
 | 2023-12-25 | 797 | 0 |
 | 2023-12-26 | 800 | 0 |
+| 2023-12-27 | 801 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

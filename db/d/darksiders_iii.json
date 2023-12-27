@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -1081,9 +1081,9 @@
       "ID": "Collect_HealthStone_HealUpgrade_1",
       "SetID": "7a5k76n",
       "Name": "Increased Vigor",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 141
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_4",
@@ -1473,9 +1473,9 @@
       "ID": "Spend_AttributePoint_25",
       "SetID": "7a5k76n",
       "Name": "25 to Life",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 91
     },
     {
       "ID": "Spend_AttributePoint_50",
@@ -1505,9 +1505,9 @@
       "ID": "Upgrade_Weapon_First",
       "SetID": "7a5k76n",
       "Name": "Just the start",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 123
     },
     {
       "ID": "Upgrade_Weapon_Max",
@@ -1529,8 +1529,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-25T15:57:09.247299+00:00",
-  "LastChanged_Achievements": "2023-12-27T14:08:35.6079746+00:00",
+  "LastChanged_Achievements": "2023-12-27T15:08:27.986834+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:27.1633457+00:00",
-  "LastUpdate_Ratings": "2023-12-27T13:58:17.7039479+00:00",
-  "LastUpdate_Achievements": "2023-12-27T14:08:35.6080248+00:00"
+  "LastUpdate_Ratings": "2023-12-27T14:58:30.3830149+00:00",
+  "LastUpdate_Achievements": "2023-12-27T15:08:27.9868994+00:00"
 }

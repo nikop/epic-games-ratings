@@ -2,7 +2,7 @@
   "ID": "0407f287e7574d88b7c00895f14628d8",
   "Name": "Settlement Survival",
   "ProductSlug": "settlement-survival-923f57",
-  "Ranking_EOS_Progress": 439,
+  "Ranking_EOS_Progress": 440,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 148,
@@ -984,9 +984,9 @@
       "ID": "zn3",
       "SetID": "b1ggf28",
       "Name": "Weather-Beaten",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -999,8 +999,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-27T14:05:52.6640248+00:00",
+  "LastChanged_Achievements": "2023-12-27T15:05:56.4974604+00:00",
   "LastUpdate_AppInfo": "2023-12-27T04:56:58.3049887+00:00",
-  "LastUpdate_Ratings": "2023-12-27T14:02:58.0694878+00:00",
-  "LastUpdate_Achievements": "2023-12-27T14:05:52.6640592+00:00"
+  "LastUpdate_Ratings": "2023-12-27T15:03:00.9909431+00:00",
+  "LastUpdate_Achievements": "2023-12-27T15:05:56.4974962+00:00"
 }

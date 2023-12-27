@@ -6,9 +6,9 @@ Number of Ratings: 1,331  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spells and Swords | 5.00% | ~1,345 |
-| Captain and Crew | 4.00% | ~1,076 |
-| No Harm in Looking | 4.00% | ~1,076 |
+| Spells and Swords | 5.00% | ~1,346 |
+| Captain and Crew | 4.00% | ~1,077 |
+| No Harm in Looking | 4.00% | ~1,077 |
 | Harvest and Home | 3.00% | ~807 |
 | Hands and Hammers | 2.00% | ~538 |
 | Progenitor and Protégé | 2.00% | ~538 |
@@ -20,8 +20,8 @@ Number of Ratings: 1,331  (23.09.2022)
 | Truly Blessed | 0.70% | ~188 |
 | Pillow Investments | 0.70% | ~188 |
 | Looks Familiar | 0.70% | ~188 |
-| For Justice | 0.60% | ~161 |
 | Good Boy! | 0.60% | ~161 |
+| For Justice | 0.50% | ~135 |
 | For Survival | 0.40% | ~108 |
 | K.O. | 0.40% | ~108 |
 | Jack of all Trades | 0.40% | ~108 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,909 (Ranked 141)  
+Progressed: 26,916 (Ranked 141)  
 Completed: 35 (0.13%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,18 +295,18 @@ Completed: 35 (0.13%) (Ranked 296)
 | 2023-12-24 | 26,623 | 35 |
 | 2023-12-25 | 26,745 | 35 |
 | 2023-12-26 | 26,855 | 35 |
-| 2023-12-27 | 26,909 | 35 |
+| 2023-12-27 | 26,916 | 35 |
 ## Awards
-Max (Extremely Fun): 225  (Ranked 285)  
-Sum: 1,708 (Ranked 226)  
+Max (Extremely Fun): 226  (Ranked 285)  
+Sum: 1,710 (Ranked 226)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
-| This game is Extremely Fun | 225 |
+| This game is Extremely Fun | 226 |
 | This game has Quickly Understood Controls | 207 |
 | This game has Diverse Characters | 201 |
 | This game has Challenging Combat | 198 |
-| This game is Highly Recommended | 194 |
+| This game is Highly Recommended | 195 |
 | This game is Relaxing | 189 |
 | This game has Amazing Characters | 169 |
 | This game has Amazing Storytelling | 168 |
@@ -444,3 +444,4 @@ Diff (max vs sum): 59
 | 2023-12-21 | 4.85 | - | 224 | 1,705 |
 | 2023-12-22 | 4.85 | - | 224 | 1,706 |
 | 2023-12-25 | 4.85 | - | 225 | 1,708 |
+| 2023-12-27 | 4.85 | - | 226 | 1,710 |

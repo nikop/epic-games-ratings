@@ -1,7 +1,7 @@
 # Potion Permit
 [Store](https://store.epicgames.com/en-US/p/potion-permit)  
 [View Rawdata](../../db/p/potion_permit.json)  
-Rating: 3.84 (Ranked 1,053)  
+Rating: 3.84 (Ranked 1,052)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,8 +12,8 @@ Rating: 3.84 (Ranked 1,053)
 | Great Doctor | 50.00% | ~904 |
 | Dog Whisperer | 48.00% | ~868 |
 | Friendly | 47.00% | ~850 |
+| The Capitalist | 44.00% | ~796 |
 | K.O.! | 43.00% | ~777 |
-| The Capitalist | 43.00% | ~777 |
 | Intermediate Chemist | 39.00% | ~705 |
 | Decorative Mind | 33.00% | ~597 |
 | Lumber Specialist | 31.00% | ~560 |

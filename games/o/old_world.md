@@ -11,26 +11,28 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 0.60% | ~96 |
 | Architect | 0.50% | ~80 |
 | Intrepid | 0.50% | ~80 |
+| Mason | 0.50% | ~80 |
 | Friendly Family | 0.50% | ~80 |
+| Hanging Gardens | 0.50% | ~80 |
 | Able | 0.40% | ~64 |
+| Glorious | 0.40% | ~64 |
 | Good | 0.40% | ~64 |
 | Just | 0.40% | ~64 |
 | Keystone | 0.40% | ~64 |
 | Learned | 0.40% | ~64 |
-| Mason | 0.40% | ~64 |
 | Noble | 0.40% | ~64 |
 | Pioneer | 0.40% | ~64 |
 | Strong | 0.40% | ~64 |
-| Hanging Gardens | 0.40% | ~64 |
 | Oracle | 0.40% | ~64 |
 | Judaism | 0.40% | ~64 |
 | Greek Paganism | 0.40% | ~64 |
+| Naming Landmarks | 0.40% | ~64 |
+| Trade Caravan | 0.40% | ~64 |
 | Regicide | 0.30% | ~48 |
 | Ambitious | 0.30% | ~48 |
 | Brilliant | 0.30% | ~48 |
 | Enlightened | 0.30% | ~48 |
 | Fountainhead | 0.30% | ~48 |
-| Glorious | 0.30% | ~48 |
 | Magnificent | 0.30% | ~48 |
 | Warrior | 0.30% | ~48 |
 | Wise | 0.30% | ~48 |
@@ -43,14 +45,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 0.30% | ~48 |
 | Ishtar Gate | 0.30% | ~48 |
 | Lighthouse | 0.30% | ~48 |
+| Mausoleum | 0.30% | ~48 |
 | Pyramids | 0.30% | ~48 |
 | Learn to Play 1 | 0.30% | ~48 |
 | Christianity | 0.30% | ~48 |
 | Babylonian Paganism | 0.30% | ~48 |
 | Roman Paganism | 0.30% | ~48 |
 | Zoroastrianism | 0.30% | ~48 |
-| Naming Landmarks | 0.30% | ~48 |
-| Trade Caravan | 0.30% | ~48 |
 | Hanging Gardens in Babylon | 0.20% | ~32 |
 | Beloved | 0.20% | ~32 |
 | Drillmaster | 0.20% | ~32 |
@@ -66,7 +67,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.20% | ~32 |
 | Acropolis | 0.20% | ~32 |
 | Colossus | 0.20% | ~32 |
-| Mausoleum | 0.20% | ~32 |
 | Musaeum | 0.20% | ~32 |
 | Necropolis | 0.20% | ~32 |
 | Learn to Play 2 | 0.20% | ~32 |
@@ -75,6 +75,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 0.20% | ~32 |
 | Egyptian Paganism | 0.20% | ~32 |
 | Building Wonders | 0.20% | ~32 |
+| Economic Reform | 0.20% | ~32 |
 | Points Victory | 0.20% | ~32 |
 | Win a Single Player Game | 0.20% | ~32 |
 | Centenarian | 0.10% | ~16 |
@@ -142,6 +143,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Riders | 0.10% | ~16 |
 | Statesmen | 0.10% | ~16 |
 | Traders | 0.10% | ~16 |
+| Battle of the Fertile Crescent | 0.10% | ~16 |
 | The Eternal Treaty | 0.10% | ~16 |
 | Five Routs | 0.10% | ~16 |
 | Game of the Week | 0.10% | ~16 |
@@ -154,10 +156,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Tell the Spartans | 0.10% | ~16 |
 | Shape of Things to Come | 0.10% | ~16 |
 | I am the Archon Now | 0.10% | ~16 |
+| Not a Scratch | 0.10% | ~16 |
 | The Olive Wreath | 0.10% | ~16 |
 | Those Were Mine | 0.10% | ~16 |
 | What's 'hubris' in Greek? | 0.10% | ~16 |
 | Three's a Crowd | 0.10% | ~16 |
+| Unfinished Business | 0.10% | ~16 |
+| Philip's Bronze Crown | 0.10% | ~16 |
+| Philip's Golden Crown | 0.10% | ~16 |
+| Philip's Silver Crown | 0.10% | ~16 |
 | Mausoleum in Halicarnassus | 0.10% | ~16 |
 | Circus Maximus | 0.10% | ~16 |
 | Hagia Sophia | 0.10% | ~16 |
@@ -204,7 +211,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon in Roma | 0.10% | ~16 |
 | Capturing Cities | 0.10% | ~16 |
 | Ten Crowns | 0.10% | ~16 |
-| Economic Reform | 0.10% | ~16 |
 | Industrial Progress | 0.10% | ~16 |
 | Military Prestige | 0.10% | ~16 |
 | Dualism | 0.10% | ~16 |
@@ -286,19 +292,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk in Damascus | 0.00% | ~0 |
 | Oracle in Delphi | 0.00% | ~0 |
 | Ethnic Diversity | 0.00% | ~0 |
-| Battle of the Fertile Crescent | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
 | Defend Where? | 0.00% | ~0 |
 | Not a Chance | 0.00% | ~0 |
 | Still Fighting | 0.00% | ~0 |
 | They Shall Not Pass | 0.00% | ~0 |
 | THIS IS SPARTA!! | 0.00% | ~0 |
-| Not a Scratch | 0.00% | ~0 |
 | If? Then! | 0.00% | ~0 |
-| Unfinished Business | 0.00% | ~0 |
-| Philip's Bronze Crown | 0.00% | ~0 |
-| Philip's Golden Crown | 0.00% | ~0 |
-| Philip's Silver Crown | 0.00% | ~0 |
 | Queen of Politics | 0.00% | ~0 |
 | Queen of Intrigue | 0.00% | ~0 |
 | Queen of Lies | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,970 (Ranked 163)  
+Progressed: 15,973 (Ranked 163)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -616,7 +616,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-24 | 15,927 | 5 |
 | 2023-12-25 | 15,949 | 5 |
 | 2023-12-26 | 15,966 | 5 |
-| 2023-12-27 | 15,970 | 5 |
+| 2023-12-27 | 15,973 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 281)  
 Sum: 1,910 (Ranked 220)  

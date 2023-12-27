@@ -9,18 +9,18 @@ Number of Ratings: 116  (23.09.2022)
 | Green with Envy | 80.00% | ~182 |
 | First of many… | 71.00% | ~161 |
 | Helping Hand | 68.00% | ~154 |
-| Increased Vigor | 61.00% | ~138 |
+| Increased Vigor | 62.00% | ~141 |
 | Fight Fire with Fire | 59.00% | ~134 |
 | Increased Capacity | 56.00% | ~127 |
-| Just the start | 53.00% | ~120 |
+| Just the start | 54.00% | ~123 |
 | Perfect Storm | 51.00% | ~116 |
 | All That Glitters | 49.00% | ~111 |
 | Enhance! | 46.00% | ~104 |
 | One Of the Chosen | 44.00% | ~100 |
 | Devil's in the Details | 42.00% | ~95 |
 | Throne Potato | 41.00% | ~93 |
+| 25 to Life | 40.00% | ~91 |
 | Five's a Crowd | 39.00% | ~89 |
-| 25 to Life | 39.00% | ~89 |
 | Soul Harvester | 38.00% | ~86 |
 | Unshakable Fortitude | 37.00% | ~84 |
 | Salvation | 36.00% | ~82 |

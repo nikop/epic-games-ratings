@@ -9,9 +9,9 @@
 | Commencing of Quests | 61.00% | ~569 |
 | Budding Conjuror | 59.00% | ~550 |
 | Man-Machine Master | 47.00% | ~438 |
+| Subsistence Skills | 47.00% | ~438 |
 | Charmed by the Hunt | 47.00% | ~438 |
 | Mountain Splitter | 46.00% | ~429 |
-| Subsistence Skills | 46.00% | ~429 |
 | Fusion Conjuror | 44.00% | ~410 |
 | Memory Rouser | 44.00% | ~410 |
 | Kemono Hunter | 39.00% | ~363 |
@@ -43,8 +43,8 @@
 | Canyon of Karakuri | 13.00% | ~121 |
 | Jack of All Trades | 12.00% | ~112 |
 | Karakuri Fortress | 11.00% | ~103 |
+| Volatile Vocation | 10.00% | ~93 |
 | Haven Hunter | 10.00% | ~93 |
-| Volatile Vocation | 9.00% | ~84 |
 | Tender Touch | 9.00% | ~84 |
 | Superlative View | 8.00% | ~75 |
 | Relentless Kemono Hunter | 7.00% | ~65 |

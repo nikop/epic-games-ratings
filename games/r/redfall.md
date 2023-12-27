@@ -7,10 +7,10 @@ Rating: 3.58 (Ranked 1,069)
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 14.00% | ~294 |
 | Catch and Release | 11.00% | ~231 |
-| Home Is Where the Heart Is | 9.00% | ~189 |
+| Home Is Where the Heart Is | 10.00% | ~210 |
 | ICU | 9.00% | ~189 |
 | Wounded Whispers | 9.00% | ~189 |
-| Blood Will Have Blood | 7.00% | ~147 |
+| Blood Will Have Blood | 8.00% | ~168 |
 | Ne Plus Ultra | 7.00% | ~147 |
 | Fly Fisher | 7.00% | ~147 |
 | Peek-a-boo | 7.00% | ~147 |
@@ -43,11 +43,11 @@ Rating: 3.58 (Ranked 1,069)
 | Curious Finch | 1.00% | ~21 |
 | Right This Way | 0.70% | ~15 |
 | Empty Nest Syndrome | 0.60% | ~13 |
-| Neighborhood Watch | 0.50% | ~10 |
-| Blood Brother | 0.50% | ~10 |
-| What Lies Below | 0.50% | ~10 |
-| Bloody Initiate | 0.50% | ~10 |
-| Dexterity Save | 0.50% | ~10 |
+| Dexterity Save | 0.60% | ~13 |
+| Neighborhood Watch | 0.50% | ~11 |
+| Blood Brother | 0.50% | ~11 |
+| What Lies Below | 0.50% | ~11 |
+| Bloody Initiate | 0.50% | ~11 |
 | Friendgineering | 0.40% | ~8 |
 | Sisterhood | 0.40% | ~8 |
 | Good Samaritan | 0.40% | ~8 |
@@ -72,7 +72,7 @@ Rating: 3.58 (Ranked 1,069)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,098 (Ranked 236)  
+Progressed: 2,103 (Ranked 236)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 2,048 | 0 |
 | 2023-12-25 | 2,067 | 0 |
 | 2023-12-26 | 2,087 | 0 |
-| 2023-12-27 | 2,098 | 0 |
+| 2023-12-27 | 2,103 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 569)  
 Sum: 20 (Ranked 570)  

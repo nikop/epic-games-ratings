@@ -1747,9 +1747,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 164866,
+  "EOS_Progressed": 164886,
   "EOS_Completed": 415,
-  "EOS_NewPlayers": 1395,
+  "EOS_NewPlayers": 1408,
   "EOS_NewCompleters": 54,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -20812,6 +20812,11 @@
       "Time": "2023-12-27T14:05:19.9048374+00:00",
       "NumProgressed": 164866,
       "NumCompleted": 415
+    },
+    {
+      "Time": "2023-12-27T15:05:23.9984973+00:00",
+      "NumProgressed": 164886,
+      "NumCompleted": 415
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -20872,7 +20877,7 @@
       "Name": "The Hunt",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3297
+      "UsersEstimate": 3298
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -20888,7 +20893,7 @@
       "Name": "Taste",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3297
+      "UsersEstimate": 3298
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -20920,7 +20925,7 @@
       "Name": "Shapely",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -21008,15 +21013,15 @@
       "Name": "Watcher",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "DEFEAT_WHISPERERS",
       "SetID": "ccc0dlh",
       "Name": "Silenced Whispers",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 989
+      "UsersEstimate": 1154
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -21040,7 +21045,7 @@
       "Name": "Imprint",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3297
+      "UsersEstimate": 3298
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -21096,7 +21101,7 @@
       "Name": "Ravenous",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3297
+      "UsersEstimate": 3298
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -21191,21 +21196,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 164449,
+      "Progressed": 164469,
       "Completed": 1246
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 164866,
+      "Progressed": 164886,
       "Completed": 415
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-26T18:59:35.5919869+00:00",
-  "LastChanged_Achievements": "2023-12-27T14:05:19.904837+00:00",
+  "LastChanged_Achievements": "2023-12-27T15:05:23.9984968+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:22.7260202+00:00",
-  "LastUpdate_Ratings": "2023-12-27T13:59:08.8456885+00:00",
-  "LastUpdate_Achievements": "2023-12-27T14:05:19.9049304+00:00"
+  "LastUpdate_Ratings": "2023-12-27T14:59:21.903892+00:00",
+  "LastUpdate_Achievements": "2023-12-27T15:05:23.9985983+00:00"
 }

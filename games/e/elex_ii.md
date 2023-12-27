@@ -10,15 +10,15 @@ Number of Ratings: 124  (23.09.2022)
 | Best Buddy | 25.00% | ~29 |
 | Civilian | 23.00% | ~26 |
 | Role Model | 22.00% | ~25 |
+| Festival-goer | 17.00% | ~20 |
 | Creator | 16.00% | ~18 |
-| Festival-goer | 16.00% | ~18 |
 | Military Leader | 15.00% | ~17 |
 | Peddler | 14.00% | ~16 |
 | Commander | 14.00% | ~16 |
 | Long-Haul Flyer | 13.00% | ~15 |
 | Family Reunion | 9.00% | ~10 |
+| Pass A38 | 9.00% | ~10 |
 | Irissa's Fate | 8.00% | ~9 |
-| Pass A38 | 8.00% | ~9 |
 | Berserker | 7.00% | ~8 |
 | Eternal Oblivion | 7.00% | ~8 |
 | Storyteller | 5.00% | ~6 |

@@ -6,20 +6,20 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overgrown Library | 7.00% | ~1,358 |
-| Abandoned Settlement | 6.00% | ~1,164 |
-| Petrified Necropolis | 6.00% | ~1,164 |
-| First Real Expedition | 5.00% | ~970 |
-| Taking Action | 5.00% | ~970 |
-| No Deaths | 5.00% | ~970 |
-| Gathering Storm | 5.00% | ~970 |
-| Overcoming Difficulty | 4.00% | ~776 |
-| Coral Forest | 4.00% | ~776 |
-| The Marshlands | 4.00% | ~776 |
-| The Scarlet Orchard | 4.00% | ~776 |
-| Frosts | 4.00% | ~776 |
-| Land of Greed | 4.00% | ~776 |
-| Ominous Presence | 4.00% | ~776 |
+| Overgrown Library | 7.00% | ~1,359 |
+| Abandoned Settlement | 6.00% | ~1,165 |
+| Petrified Necropolis | 6.00% | ~1,165 |
+| First Real Expedition | 5.00% | ~971 |
+| The Marshlands | 5.00% | ~971 |
+| Taking Action | 5.00% | ~971 |
+| No Deaths | 5.00% | ~971 |
+| Gathering Storm | 5.00% | ~971 |
+| Overcoming Difficulty | 4.00% | ~777 |
+| Coral Forest | 4.00% | ~777 |
+| The Scarlet Orchard | 4.00% | ~777 |
+| Frosts | 4.00% | ~777 |
+| Land of Greed | 4.00% | ~777 |
+| Ominous Presence | 4.00% | ~777 |
 | Royal Outpost | 3.00% | ~582 |
 | Watchtower | 3.00% | ~582 |
 | Untamed Wilds | 3.00% | ~582 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fishmen Ritual Site | 0.90% | ~175 |
 | Victory Through Prosperity | 0.90% | ~175 |
 | Into the Forest | 0.90% | ~175 |
-| Efficient Explorer | 0.70% | ~136 |
+| Efficient Explorer | 0.80% | ~155 |
 | Refinery | 0.70% | ~136 |
 | Dangerous Lands | 0.70% | ~136 |
 | Forsaken Gods Temple | 0.70% | ~136 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,403 (Ranked 150)  
+Progressed: 19,415 (Ranked 150)  
 Completed: 37 (0.19%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 37 (0.19%) (Ranked 276)
 | 2023-12-24 | 19,141 | 38 |
 | 2023-12-25 | 19,247 | 38 |
 | 2023-12-26 | 19,350 | 38 |
-| 2023-12-27 | 19,403 | 38 |
+| 2023-12-27 | 19,415 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 445  (Ranked 228)  
 Sum: 3,296 (Ranked 176)  

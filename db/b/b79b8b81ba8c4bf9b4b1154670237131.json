@@ -161,9 +161,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15952,
+  "EOS_Progressed": 15953,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 447,
+  "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5021,6 +5021,11 @@
       "Time": "2023-12-27T13:12:19.605391+00:00",
       "NumProgressed": 15952,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-27T15:09:21.1331251+00:00",
+      "NumProgressed": 15953,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -5065,7 +5070,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 11964
+      "UsersEstimate": 11965
     },
     {
       "ID": "ACH_AE_14",
@@ -5081,7 +5086,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3509
+      "UsersEstimate": 3510
     },
     {
       "ID": "ACH_AE_16",
@@ -5312,7 +5317,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 15952,
+      "Progressed": 15953,
       "Completed": 15
     }
   ],
@@ -5320,8 +5325,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-26T15:59:00.617822+00:00",
-  "LastChanged_Achievements": "2023-12-27T14:09:29.2475942+00:00",
+  "LastChanged_Achievements": "2023-12-27T15:09:21.1331246+00:00",
   "LastUpdate_AppInfo": "2023-12-26T18:57:07.3435183+00:00",
-  "LastUpdate_Ratings": "2023-12-27T13:59:15.0220302+00:00",
-  "LastUpdate_Achievements": "2023-12-27T14:09:29.247644+00:00"
+  "LastUpdate_Ratings": "2023-12-27T14:59:28.518798+00:00",
+  "LastUpdate_Achievements": "2023-12-27T15:09:21.133163+00:00"
 }

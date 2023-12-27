@@ -2,9 +2,9 @@
   "ID": "3a077bc4fa864985b8c0b343176226d2",
   "Name": "UFO ROBOT GRENDIZER - The Feast of the Wolves",
   "ProductSlug": "goldorak-d90cf1",
-  "Ranking_EOS_Progress": 558,
+  "Ranking_EOS_Progress": 556,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40,
+  "EOS_Progressed": 42,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -229,6 +229,11 @@
       "Time": "2023-12-27T12:08:18.5284247+00:00",
       "NumProgressed": 40,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T15:03:26.4626786+00:00",
+      "NumProgressed": 42,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-14T10:09:31.9139151+00:00",
@@ -239,7 +244,7 @@
       "ID": "ACH_ALLLEGENDARYLOOT",
       "SetID": "ch874lb",
       "Name": "Gold Seeker",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -255,7 +260,7 @@
       "ID": "ACH_COLLECTORS",
       "SetID": "ch874lb",
       "Name": "The Power of Friendship",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -265,7 +270,7 @@
       "Name": "Escape from Fleed",
       "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_FIRSTCONTACT",
@@ -273,13 +278,13 @@
       "Name": "First Contact",
       "Percentage": 40,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_FIRSTDEATH",
       "SetID": "ch874lb",
       "Name": "Strength in Defeat",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 35,
       "UsersEstimate": 15
     },
@@ -289,7 +294,7 @@
       "Name": "The Remains of Fleed",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_FIRSTMEDITATION",
@@ -297,7 +302,7 @@
       "Name": "Life of Pi",
       "Percentage": 60,
       "XP": 35,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_FIRSTSKINCHANGE",
@@ -311,7 +316,7 @@
       "ID": "ACH_FIRSTUPGRADE",
       "SetID": "ch874lb",
       "Name": "Technology first!",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
       "UsersEstimate": 10
     },
@@ -319,7 +324,7 @@
       "ID": "ACH_FLEEDKEEPER",
       "SetID": "ch874lb",
       "Name": "The Keeper of Fleed",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 35,
       "UsersEstimate": 8
     },
@@ -327,7 +332,7 @@
       "ID": "ACH_GOLGOTHPLANS",
       "SetID": "ch874lb",
       "Name": "The Planner",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -335,7 +340,7 @@
       "ID": "ACH_GREENEARTH",
       "SetID": "ch874lb",
       "Name": "Earth\u0027s Savior",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 35,
       "UsersEstimate": 6
     },
@@ -343,7 +348,7 @@
       "ID": "ACH_IRONFIST",
       "SetID": "ch874lb",
       "Name": "Iron Fist",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -351,7 +356,7 @@
       "ID": "ACH_KILLENEMY",
       "SetID": "ch874lb",
       "Name": "The Exterminator",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 35,
       "UsersEstimate": 7
     },
@@ -361,13 +366,13 @@
       "Name": "The Legend",
       "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_PERFECTDODGE",
       "SetID": "ch874lb",
       "Name": "You can\u0027t fool me!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -375,7 +380,7 @@
       "ID": "ACH_RESOURCES",
       "SetID": "ch874lb",
       "Name": "The Collector",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -383,7 +388,7 @@
       "ID": "ACH_RUINDIVISION",
       "SetID": "ch874lb",
       "Name": "The Broken Guard",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -391,7 +396,7 @@
       "ID": "ACH_SAUCERBEASTUNCHAINED",
       "SetID": "ch874lb",
       "Name": "Saucer Beast Unchained",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -399,7 +404,7 @@
       "ID": "ACH_SKILLTREE",
       "SetID": "ch874lb",
       "Name": "The Completionist",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -407,7 +412,7 @@
       "ID": "ACH_THEBATTLEAXE",
       "SetID": "ch874lb",
       "Name": "The Battle Axe",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -431,7 +436,7 @@
       "ID": "ACH_THEINTERSTELLARFIGHTER",
       "SetID": "ch874lb",
       "Name": "The Interstellar Fighter",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -447,7 +452,7 @@
       "ID": "ACH_THESPACEHYDRA",
       "SetID": "ch874lb",
       "Name": "The Space Hydra",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -455,7 +460,7 @@
       "ID": "ACH_THEULTIMATEATTACK",
       "SetID": "ch874lb",
       "Name": "The Ultimate Attack",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -463,7 +468,7 @@
       "ID": "ACH_THEVEGATURTLE",
       "SetID": "ch874lb",
       "Name": "The Vega Turtle",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -471,7 +476,7 @@
       "ID": "ACH_WOLFVENGEANCE",
       "SetID": "ch874lb",
       "Name": "Vengeance of the Wolf",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
       "UsersEstimate": 1
     }
@@ -480,14 +485,14 @@
     {
       "ID": "ch874lb",
       "IsBase": true,
-      "Progressed": 40,
+      "Progressed": 42,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2023-12-27T13:11:01.2166303+00:00",
+  "LastChanged_Achievements": "2023-12-27T15:03:26.4626782+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:19.6020378+00:00",
-  "LastUpdate_Ratings": "2023-12-27T13:58:38.0364813+00:00",
-  "LastUpdate_Achievements": "2023-12-27T13:11:01.2166497+00:00"
+  "LastUpdate_Ratings": "2023-12-27T14:58:50.3150671+00:00",
+  "LastUpdate_Achievements": "2023-12-27T15:03:26.462695+00:00"
 }

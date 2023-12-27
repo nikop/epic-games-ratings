@@ -167,7 +167,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1313,
+  "EOS_Progressed": 1314,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 1,
@@ -4502,6 +4502,11 @@
       "Time": "2023-12-27T14:03:33.531992+00:00",
       "NumProgressed": 1313,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-27T15:03:37.7142585+00:00",
+      "NumProgressed": 1314,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4512,9 +4517,9 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 355
+      "UsersEstimate": 342
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -4522,7 +4527,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "_03_FinishAct1",
@@ -4530,15 +4535,15 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 446
+      "UsersEstimate": 434
     },
     {
       "ID": "_05_FinishAct2",
@@ -4554,7 +4559,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "_07_FinishAct3",
@@ -4578,7 +4583,7 @@
       "Name": "Powder Monkey",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "_10_Completion_30",
@@ -4674,7 +4679,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -4696,9 +4701,9 @@
       "ID": "_24_CrewTale_SNP",
       "SetID": "8a1io5d",
       "Name": "Jaded Judge",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 158
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -4706,7 +4711,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -4721,7 +4726,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1313,
+      "Progressed": 1314,
       "Completed": 34
     }
   ],
@@ -4729,8 +4734,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-26T17:57:26.5223037+00:00",
-  "LastChanged_Achievements": "2023-12-27T14:03:33.5319915+00:00",
+  "LastChanged_Achievements": "2023-12-27T15:03:37.7142579+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-27T13:57:51.8243588+00:00",
-  "LastUpdate_Achievements": "2023-12-27T14:03:33.5320246+00:00"
+  "LastUpdate_Ratings": "2023-12-27T14:58:04.188241+00:00",
+  "LastUpdate_Achievements": "2023-12-27T15:03:37.7142904+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "ab4dbb7ed03c4ee49d810b7c018cd894",
   "Name": "Time on Frog Island",
   "ProductSlug": "time-on-frog-island-b3ad0d",
-  "Ranking_EOS_Progress": 568,
-  "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_Progress": 565,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-07-12T13:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36,
+  "EOS_Progressed": 37,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.78,
+  "EOS_Completed_Percentage": 2.7,
   "EosHistory": [
     {
       "Time": "2023-09-11T10:06:16.3667497+00:00",
@@ -210,6 +210,11 @@
       "Time": "2023-12-26T21:04:01.1869484+00:00",
       "NumProgressed": 36,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T15:04:21.6432116+00:00",
+      "NumProgressed": 37,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-11T10:06:16.366753+00:00",
@@ -236,7 +241,7 @@
       "ID": "a11",
       "SetID": "cdg65ol",
       "Name": "Socialite",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -276,7 +281,7 @@
       "ID": "a16",
       "SetID": "cdg65ol",
       "Name": "Shrub-Seeing: Ruins of old",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -308,7 +313,7 @@
       "ID": "a2",
       "SetID": "cdg65ol",
       "Name": "Yeet!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -348,7 +353,7 @@
       "ID": "a24",
       "SetID": "cdg65ol",
       "Name": "Caught Ya!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -356,7 +361,7 @@
       "ID": "a25",
       "SetID": "cdg65ol",
       "Name": "Safe Investment",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -364,7 +369,7 @@
       "ID": "a26",
       "SetID": "cdg65ol",
       "Name": "Bank of Me",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -372,7 +377,7 @@
       "ID": "a27",
       "SetID": "cdg65ol",
       "Name": "Honey, I\u0027m Home",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -380,9 +385,9 @@
       "ID": "a28",
       "SetID": "cdg65ol",
       "Name": "What?!",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "a29",
@@ -396,7 +401,7 @@
       "ID": "a3",
       "SetID": "cdg65ol",
       "Name": "Sea Legs",
-      "Percentage": 61,
+      "Percentage": 59,
       "XP": 10,
       "UsersEstimate": 22
     },
@@ -404,7 +409,7 @@
       "ID": "a30",
       "SetID": "cdg65ol",
       "Name": "Fantastic Fungi",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -428,7 +433,7 @@
       "ID": "a33",
       "SetID": "cdg65ol",
       "Name": "Home Sweet Home",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -452,15 +457,15 @@
       "ID": "a4",
       "SetID": "cdg65ol",
       "Name": "Shipwrecked!",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "a5",
       "SetID": "cdg65ol",
       "Name": "Hoist the Sails",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
       "UsersEstimate": 6
     },
@@ -468,7 +473,7 @@
       "ID": "a6",
       "SetID": "cdg65ol",
       "Name": "Secure the Sheets",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
       "UsersEstimate": 6
     },
@@ -492,7 +497,7 @@
       "ID": "a9",
       "SetID": "cdg65ol",
       "Name": "The Journey Continues",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 75,
       "UsersEstimate": 2
     }
@@ -501,7 +506,7 @@
     {
       "ID": "cdg65ol",
       "IsBase": true,
-      "Progressed": 36,
+      "Progressed": 37,
       "Completed": 1
     }
   ],
@@ -509,8 +514,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2023-12-27T14:04:17.5131859+00:00",
+  "LastChanged_Achievements": "2023-12-27T15:04:21.6432108+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.260771+00:00",
-  "LastUpdate_Ratings": "2023-12-27T14:02:57.827967+00:00",
-  "LastUpdate_Achievements": "2023-12-27T14:04:17.5132097+00:00"
+  "LastUpdate_Ratings": "2023-12-27T15:03:00.7460167+00:00",
+  "LastUpdate_Achievements": "2023-12-27T15:04:21.6432312+00:00"
 }

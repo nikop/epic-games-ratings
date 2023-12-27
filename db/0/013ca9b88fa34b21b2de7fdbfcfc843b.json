@@ -235,7 +235,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8703,
+  "EOS_Progressed": 8705,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
@@ -9210,6 +9210,11 @@
       "Time": "2023-12-27T14:10:06.7351193+00:00",
       "NumProgressed": 8703,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T15:09:58.5771158+00:00",
+      "NumProgressed": 8705,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -9332,9 +9337,9 @@
       "ID": "COLLECT_SEASHELLS",
       "SetID": "9eia0f5",
       "Name": "Beach Comber",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 61
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -9404,9 +9409,9 @@
       "ID": "EARN_FLORINS_1",
       "SetID": "9eia0f5",
       "Name": "Higher Tax Bracket",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 70
     },
     {
       "ID": "HARVEST_VEGETABLES_1",
@@ -9565,13 +9570,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8703,
+      "Progressed": 8705,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1320,
+      "Progressed": 1322,
       "Completed": 1050
     }
   ],
@@ -9579,8 +9584,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-27T14:10:06.7351184+00:00",
+  "LastChanged_Achievements": "2023-12-27T15:09:58.5771152+00:00",
   "LastUpdate_AppInfo": "2023-12-22T11:57:12.9881326+00:00",
-  "LastUpdate_Ratings": "2023-12-27T14:03:16.4386235+00:00",
-  "LastUpdate_Achievements": "2023-12-27T14:10:06.7352579+00:00"
+  "LastUpdate_Ratings": "2023-12-27T15:03:19.0230896+00:00",
+  "LastUpdate_Achievements": "2023-12-27T15:09:58.5771744+00:00"
 }

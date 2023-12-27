@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 93,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1788,
+  "EOS_Progressed": 1791,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 3.86,
+  "EOS_Completed_Percentage": 3.85,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -3904,6 +3904,11 @@
       "Time": "2023-12-27T14:09:51.7460579+00:00",
       "NumProgressed": 1788,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-27T15:09:43.551383+00:00",
+      "NumProgressed": 1791,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 16,
@@ -3915,7 +3920,7 @@
       "Name": "Artist Assistant",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH_DEEPLISTENER",
@@ -3923,7 +3928,7 @@
       "Name": "Deep Listener",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -3931,7 +3936,7 @@
       "Name": "Dream Listener",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH_EMOTIONALBAGGAGEHANDLER",
@@ -3969,9 +3974,9 @@
       "ID": "ACH_HOMELEAVER",
       "SetID": "7pam6gn",
       "Name": "Home Leaver",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1415
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -3979,7 +3984,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1415
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -4003,7 +4008,7 @@
       "Name": "Outside World Seer",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1093
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -4019,7 +4024,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "ACH_THEEND",
@@ -4035,14 +4040,14 @@
       "Name": "Tour de Tieng",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1788,
+      "Progressed": 1791,
       "Completed": 69
     }
   ],
@@ -4050,8 +4055,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-27T14:09:51.7460573+00:00",
+  "LastChanged_Achievements": "2023-12-27T15:09:43.5513826+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:44.3535234+00:00",
-  "LastUpdate_Ratings": "2023-12-27T13:57:15.7701563+00:00",
-  "LastUpdate_Achievements": "2023-12-27T14:09:51.7460988+00:00"
+  "LastUpdate_Ratings": "2023-12-27T14:57:28.626419+00:00",
+  "LastUpdate_Achievements": "2023-12-27T15:09:43.5514102+00:00"
 }

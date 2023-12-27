@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Life of Pi | 60.00% | ~24 |
-| The Remains of Fleed | 57.00% | ~23 |
-| The Legend | 57.00% | ~23 |
-| Escape from Fleed | 43.00% | ~17 |
-| First Contact | 40.00% | ~16 |
-| Strength in Defeat | 38.00% | ~15 |
-| Technology first! | 25.00% | ~10 |
-| The Keeper of Fleed | 20.00% | ~8 |
-| The Exterminator | 18.00% | ~7 |
-| Earth's Savior | 15.00% | ~6 |
-| The Collector | 13.00% | ~5 |
-| Gold Seeker | 8.00% | ~3 |
-| The Planner | 8.00% | ~3 |
-| Iron Fist | 8.00% | ~3 |
-| The Broken Guard | 8.00% | ~3 |
-| The Space Hydra | 8.00% | ~3 |
-| The Vega Turtle | 8.00% | ~3 |
+| Life of Pi | 60.00% | ~25 |
+| The Remains of Fleed | 57.00% | ~24 |
+| The Legend | 57.00% | ~24 |
+| Escape from Fleed | 43.00% | ~18 |
+| First Contact | 40.00% | ~17 |
+| Strength in Defeat | 36.00% | ~15 |
+| Technology first! | 24.00% | ~10 |
+| The Keeper of Fleed | 19.00% | ~8 |
+| The Exterminator | 17.00% | ~7 |
+| Earth's Savior | 14.00% | ~6 |
+| The Collector | 12.00% | ~5 |
+| Gold Seeker | 7.00% | ~3 |
+| The Planner | 7.00% | ~3 |
+| Iron Fist | 7.00% | ~3 |
+| The Broken Guard | 7.00% | ~3 |
+| The Space Hydra | 7.00% | ~3 |
+| The Vega Turtle | 7.00% | ~3 |
 | A Land of Peace | 5.00% | ~2 |
 | A Good Paint Job | 5.00% | ~2 |
 | The Flying Octopus | 5.00% | ~2 |
 | The Royal Guard | 5.00% | ~2 |
-| The Power of Friendship | 3.00% | ~1 |
-| You can't fool me! | 3.00% | ~1 |
-| Saucer Beast Unchained | 3.00% | ~1 |
-| The Completionist | 3.00% | ~1 |
-| The Battle Axe | 3.00% | ~1 |
-| The Interstellar Fighter | 3.00% | ~1 |
-| The Ultimate Attack | 3.00% | ~1 |
-| Vengeance of the Wolf | 3.00% | ~1 |
+| The Power of Friendship | 2.00% | ~1 |
+| You can't fool me! | 2.00% | ~1 |
+| Saucer Beast Unchained | 2.00% | ~1 |
+| The Completionist | 2.00% | ~1 |
+| The Battle Axe | 2.00% | ~1 |
+| The Interstellar Fighter | 2.00% | ~1 |
+| The Ultimate Attack | 2.00% | ~1 |
+| Vengeance of the Wolf | 2.00% | ~1 |
 | The Fire Cannons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 558)  
+Progressed: 42 (Ranked 556)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,4 +55,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 28 | 0 |
 | 2023-12-25 | 34 | 0 |
 | 2023-12-26 | 38 | 0 |
-| 2023-12-27 | 40 | 0 |
+| 2023-12-27 | 42 | 0 |

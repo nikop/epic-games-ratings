@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| [Tier 1] Fireworks | 36.00% | ~10 |
-| [Tier 1] Instant Karma | 32.00% | ~9 |
+| [Tier 1] Fireworks | 38.00% | ~11 |
+| [Tier 1] Instant Karma | 31.00% | ~9 |
 | [Tier 1] Worth the trouble | 7.00% | ~2 |
 | [Tier 1] Mix and match | 7.00% | ~2 |
-| [Tier 4] The oncoming storm | 4.00% | ~1 |
-| [Tier 2] Team effort | 4.00% | ~1 |
+| [Tier 4] The oncoming storm | 3.00% | ~1 |
+| [Tier 2] Team effort | 3.00% | ~1 |
 | [Tier 2] 12 orbits | 0.00% | ~0 |
 | [Tier 4] Against all odds | 0.00% | ~0 |
 | [Tier 2] Entering the arena | 0.00% | ~0 |
@@ -30,7 +30,7 @@
 | [Tier 4] A long way home | 0.00% | ~0 |
 | [Tier 3] Wrecking ball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28 (Ranked 584)  
+Progressed: 29 (Ranked 582)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,6 +61,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-11-26 | 26 | 0 |
 | 2023-11-30 | 27 | 0 |
 | 2023-12-17 | 28 | 0 |
+| 2023-12-27 | 29 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
