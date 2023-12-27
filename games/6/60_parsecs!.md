@@ -12,7 +12,7 @@
 | Tinkerer | 63.00% | ~499 |
 | Dust to Dust | 59.00% | ~467 |
 | Across The Stars | 49.00% | ~388 |
-| Crafty | 48.00% | ~380 |
+| Crafty | 49.00% | ~388 |
 | All Seats Taken | 40.00% | ~317 |
 | For Science! | 35.00% | ~277 |
 | Meet the Petersons | 32.00% | ~253 |
@@ -26,11 +26,11 @@
 | Gold Medalist | 13.00% | ~103 |
 | Non-Fiction | 12.00% | ~95 |
 | No Man Left Behind | 9.00% | ~71 |
+| First of April | 8.00% | ~63 |
 | Fix-It Felix | 8.00% | ~63 |
 | Intergalactic Breakup | 8.00% | ~63 |
 | Second Life | 8.00% | ~63 |
 | Axel jump in space! | 7.00% | ~55 |
-| First of April | 7.00% | ~55 |
 | Flawless Maegangement | 7.00% | ~55 |
 | Extreme Makeover | 5.00% | ~40 |
 | The Improvinator | 4.00% | ~32 |

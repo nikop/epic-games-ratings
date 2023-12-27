@@ -24,9 +24,9 @@
 | Glorious Battle | 43.00% | ~85 |
 | Meat Larder | 40.00% | ~79 |
 | Mutant And Proud | 39.00% | ~77 |
-| The Emperor's New Clothes | 32.00% | ~63 |
+| The Emperor's New Clothes | 33.00% | ~65 |
+| You Shall Not Pass | 32.00% | ~63 |
 | Final Evolution | 32.00% | ~63 |
-| You Shall Not Pass | 31.00% | ~61 |
 | Animal Lover | 31.00% | ~61 |
 | Godlike Power | 31.00% | ~61 |
 | Undying Skin | 31.00% | ~61 |
@@ -58,7 +58,7 @@
 | Destroy Everything | 1.00% | ~2 |
 | Hearty Meteor | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 197 (Ranked 417)  
+Progressed: 197 (Ranked 418)  
 Completed: 1 (0.51%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 272,
+  "EOS_Progressed": 273,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1089,6 +1089,11 @@
       "Time": "2023-12-27T19:07:31.1148631+00:00",
       "NumProgressed": 272,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T20:05:35.7609667+00:00",
+      "NumProgressed": 273,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1171,9 +1176,9 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 150
     },
     {
       "ID": "AC_BOSS_01",
@@ -1251,9 +1256,9 @@
       "ID": "AC_DEATH_2",
       "SetID": "16i2akc",
       "Name": "Carcass",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 33
     },
     {
       "ID": "AC_DEATH_3",
@@ -1269,7 +1274,7 @@
       "Name": "Killer",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1277,7 +1282,7 @@
       "Name": "Psycopath",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -1285,7 +1290,7 @@
       "Name": "Genocide",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "AC_DISTANCE_1",
@@ -1293,15 +1298,15 @@
       "Name": "Excursion",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 120
+      "UsersEstimate": 123
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -1317,7 +1322,7 @@
       "Name": "Player",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -1403,9 +1408,9 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 112
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -1413,7 +1418,7 @@
       "Name": "Shot",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "AC_SNIPER_MAX",
@@ -1436,14 +1441,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 272,
+      "Progressed": 273,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-27T19:07:31.1148627+00:00",
+  "LastChanged_Achievements": "2023-12-27T20:05:35.7609666+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:54.1541826+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:01:47.235278+00:00",
-  "LastUpdate_Achievements": "2023-12-27T19:07:31.1148948+00:00"
+  "LastUpdate_Ratings": "2023-12-27T20:00:15.8053431+00:00",
+  "LastUpdate_Achievements": "2023-12-27T20:05:35.7609905+00:00"
 }

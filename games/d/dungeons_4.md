@@ -23,8 +23,8 @@
 | Trap Master | 55.00% | ~356 |
 | The Big Eaty | 54.00% | ~350 |
 | Hard Work | 53.00% | ~343 |
+| “… like son” | 51.00% | ~330 |
 | YOU SHALL NOT PASS! | 50.00% | ~324 |
-| “… like son” | 50.00% | ~324 |
 | The Cathedral of Light | 47.00% | ~305 |
 | Shame! Shame! Shame! | 46.00% | ~298 |
 | Pure Dynamite! | 45.00% | ~292 |
@@ -45,10 +45,10 @@
 | Brimstone Shaken, Not Stirred | 27.00% | ~175 |
 | Stop Tanos! | 26.00% | ~168 |
 | Sabotage! | 26.00% | ~168 |
+| Raiders of the Lost Stone | 26.00% | ~168 |
 | The Rune Sockets of Finitude (Part 1) | 26.00% | ~168 |
 | Bonus Evilness | 25.00% | ~162 |
-| Raiders of the Lost Stone | 25.00% | ~162 |
-| The Rune Sockets of Finitude (Part 2) | 23.00% | ~149 |
+| The Rune Sockets of Finitude (Part 2) | 24.00% | ~156 |
 | The Last Stand - This Time For Real! | 22.00% | ~143 |
 | Rubble and Ashes | 20.00% | ~130 |
 | Lavalumps on Ice! | 19.00% | ~123 |
@@ -60,7 +60,7 @@
 | Mirror, Mirror | 15.00% | ~97 |
 | Untouchable | 15.00% | ~97 |
 | Heal Heal Blessing | 15.00% | ~97 |
-| Laser Eyes Are So Useless | 12.00% | ~78 |
+| Laser Eyes Are So Useless | 13.00% | ~84 |
 | Hands Off My Stones | 12.00% | ~78 |
 | Gorgu is in the Best of Health | 11.00% | ~71 |
 | No Mana, No Cry | 10.00% | ~65 |

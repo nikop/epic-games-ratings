@@ -10,40 +10,40 @@ Number of Ratings: 124  (23.09.2022)
 | Best Buddy | 25.00% | ~29 |
 | Role Model | 23.00% | ~27 |
 | Civilian | 23.00% | ~27 |
-| Military Leader | 16.00% | ~19 |
-| Creator | 16.00% | ~19 |
-| Festival-goer | 16.00% | ~19 |
-| Peddler | 15.00% | ~17 |
+| Festival-goer | 17.00% | ~20 |
+| Peddler | 15.00% | ~18 |
+| Military Leader | 15.00% | ~18 |
+| Creator | 15.00% | ~18 |
 | Commander | 14.00% | ~16 |
 | Long-Haul Flyer | 13.00% | ~15 |
 | Family Reunion | 10.00% | ~12 |
-| Pass A38 | 9.00% | ~10 |
+| Pass A38 | 10.00% | ~12 |
 | Berserker | 8.00% | ~9 |
 | Irissa's Fate | 8.00% | ~9 |
 | Eternal Oblivion | 8.00% | ~9 |
 | Storyteller | 5.00% | ~6 |
+| Globetrotter | 5.00% | ~6 |
 | Hotshot | 5.00% | ~6 |
 | Alb | 5.00% | ~6 |
-| Globetrotter | 4.00% | ~5 |
 | Free as a Bird | 4.00% | ~5 |
-| Self-Sufficient | 3.00% | ~3 |
-| Idealist | 3.00% | ~3 |
-| Unbreakable | 3.00% | ~3 |
-| Cleric | 3.00% | ~3 |
-| Perfectionist | 3.00% | ~3 |
-| Detective | 3.00% | ~3 |
+| Self-Sufficient | 3.00% | ~4 |
+| Idealist | 3.00% | ~4 |
+| Unbreakable | 3.00% | ~4 |
+| Cleric | 3.00% | ~4 |
+| Perfectionist | 3.00% | ~4 |
+| Detective | 3.00% | ~4 |
 | Alchemist | 2.00% | ~2 |
 | Morkon | 2.00% | ~2 |
 | Lover | 2.00% | ~2 |
 | Banker | 0.90% | ~1 |
 | Treasure Hunter | 0.90% | ~1 |
+| Beam Me Up | 0.90% | ~1 |
 | Defector | 0.90% | ~1 |
 | Outlaw | 0.90% | ~1 |
 | Destroyer | 0.90% | ~1 |
 | Pack Rat | 0.00% | ~0 |
 | Drinker | 0.00% | ~0 |
 | Key Master | 0.00% | ~0 |
-| Beam Me Up | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 | Socializer | 0.00% | ~0 |
 | Computer Scientist | 0.00% | ~0 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116 (Ranked 470)  
+Progressed: 117 (Ranked 468)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 88 | 0 |
 | 2023-12-25 | 100 | 0 |
 | 2023-12-26 | 109 | 0 |
-| 2023-12-27 | 116 | 0 |
+| 2023-12-27 | 117 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

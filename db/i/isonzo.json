@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1033,7 +1033,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9640,
+  "EOS_Progressed": 9641,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
@@ -10133,6 +10133,11 @@
       "Time": "2023-12-27T19:09:37.4988567+00:00",
       "NumProgressed": 9640,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-27T20:08:32.1670119+00:00",
+      "NumProgressed": 9641,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10152,7 +10157,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 2024
+      "UsersEstimate": 2025
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -10288,7 +10293,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -10296,7 +10301,7 @@
       "Name": "Machiavelli",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -10336,7 +10341,7 @@
       "Name": "Peak Performance",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4434
+      "UsersEstimate": 4435
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -10496,14 +10501,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4916
+      "UsersEstimate": 4917
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9640,
+      "Progressed": 9641,
       "Completed": 10
     }
   ],
@@ -10511,8 +10516,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-27T06:01:05.5832134+00:00",
-  "LastChanged_Achievements": "2023-12-27T19:09:37.4988563+00:00",
+  "LastChanged_Achievements": "2023-12-27T20:08:32.1670116+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.592446+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:01:39.3959336+00:00",
-  "LastUpdate_Achievements": "2023-12-27T19:09:37.4989315+00:00"
+  "LastUpdate_Ratings": "2023-12-27T20:00:10.5800881+00:00",
+  "LastUpdate_Achievements": "2023-12-27T20:08:32.1670689+00:00"
 }

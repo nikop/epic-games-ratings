@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -323,9 +323,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3762,
+  "EOS_Progressed": 3763,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7273,6 +7273,11 @@
       "Time": "2023-12-27T19:04:45.9941101+00:00",
       "NumProgressed": 3762,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T20:03:30.9564926+00:00",
+      "NumProgressed": 3763,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7284,7 +7289,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "ACH_BASE_10",
@@ -7372,7 +7377,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "ACH_BASE_22",
@@ -7380,7 +7385,7 @@
       "Name": "Sustainable Energy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_BASE_23",
@@ -7420,7 +7425,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACH_BASE_28",
@@ -7452,7 +7457,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACH_BASE_31",
@@ -7492,7 +7497,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACH_BASE_36",
@@ -7644,7 +7649,7 @@
       "Name": "Pedal to the Metal",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_BASE_58",
@@ -7739,13 +7744,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1946,
+      "Progressed": 1947,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3762,
+      "Progressed": 3763,
       "Completed": 0
     }
   ],
@@ -7753,8 +7758,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2023-12-27T19:04:45.9941098+00:00",
+  "LastChanged_Achievements": "2023-12-27T20:03:30.9564924+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:27.94929+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:01:44.6345571+00:00",
-  "LastUpdate_Achievements": "2023-12-27T19:04:45.9941747+00:00"
+  "LastUpdate_Ratings": "2023-12-27T20:00:14.0429322+00:00",
+  "LastUpdate_Achievements": "2023-12-27T20:03:30.9565513+00:00"
 }

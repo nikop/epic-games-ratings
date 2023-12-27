@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -309,9 +309,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2106,
+  "EOS_Progressed": 2108,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3414,6 +3414,11 @@
       "Time": "2023-12-27T19:04:05.8925062+00:00",
       "NumProgressed": 2106,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T20:03:01.2429282+00:00",
+      "NumProgressed": 2108,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3473,7 +3478,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "Achievement_009",
@@ -3481,7 +3486,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "Achievement_010",
@@ -3617,7 +3622,7 @@
       "Name": "Fly Fisher",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "Achievement_027",
@@ -3625,7 +3630,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "Achievement_028",
@@ -3657,7 +3662,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "Achievement_032",
@@ -3952,7 +3957,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2106,
+      "Progressed": 2108,
       "Completed": 0
     }
   ],
@@ -3960,8 +3965,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-25T01:47:06.1967746+00:00",
-  "LastChanged_Achievements": "2023-12-27T19:04:05.8925059+00:00",
+  "LastChanged_Achievements": "2023-12-27T20:03:01.242928+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:45.1864069+00:00",
-  "LastUpdate_Ratings": "2023-12-27T18:57:47.2781608+00:00",
-  "LastUpdate_Achievements": "2023-12-27T19:04:05.892574+00:00"
+  "LastUpdate_Ratings": "2023-12-27T19:57:18.5946949+00:00",
+  "LastUpdate_Achievements": "2023-12-27T20:03:01.2431551+00:00"
 }

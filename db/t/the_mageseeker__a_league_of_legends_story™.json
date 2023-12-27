@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -5464,9 +5464,9 @@
       "ID": "STB_DEFEAT_MORGANA",
       "SetID": "3pe2bac",
       "Name": "I chose my shackles",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 805
+      "UsersEstimate": 836
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -5785,8 +5785,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-26T20:58:40.3345897+00:00",
-  "LastChanged_Achievements": "2023-12-27T19:07:55.1431803+00:00",
+  "LastChanged_Achievements": "2023-12-27T20:05:53.884754+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:06.9793878+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:00:06.6046944+00:00",
-  "LastUpdate_Achievements": "2023-12-27T19:07:55.1432436+00:00"
+  "LastUpdate_Ratings": "2023-12-27T19:59:02.606434+00:00",
+  "LastUpdate_Achievements": "2023-12-27T20:05:53.8848006+00:00"
 }

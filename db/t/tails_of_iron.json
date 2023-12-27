@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 317,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -4373,9 +4373,9 @@
       "ID": "Kill25Frogs",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Frogs",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "Kill25Mozi",
@@ -4508,8 +4508,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-23T19:58:55.6551134+00:00",
-  "LastChanged_Achievements": "2023-12-27T19:08:15.6593862+00:00",
+  "LastChanged_Achievements": "2023-12-27T20:06:09.5599818+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:15.2928033+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:03:10.4448179+00:00",
-  "LastUpdate_Achievements": "2023-12-27T19:08:15.6594182+00:00"
+  "LastUpdate_Ratings": "2023-12-27T20:00:40.997466+00:00",
+  "LastUpdate_Achievements": "2023-12-27T20:06:09.5600228+00:00"
 }

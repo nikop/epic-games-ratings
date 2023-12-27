@@ -14,10 +14,10 @@
 | All Materials | 39.00% | ~13 |
 | Chapter 5 | 33.00% | ~11 |
 | Chapter 6 | 24.00% | ~8 |
+| Ads Fan | 15.00% | ~5 |
 | Best Student | 15.00% | ~5 |
 | Food Thief | 15.00% | ~5 |
 | Hard To Wake Up | 15.00% | ~5 |
-| Ads Fan | 12.00% | ~4 |
 | Highway Survival | 12.00% | ~4 |
 | Sugar Pills Lover | 12.00% | ~4 |
 | Tramp Saver | 12.00% | ~4 |

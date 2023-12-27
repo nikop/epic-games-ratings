@@ -3623,7 +3623,7 @@
       "Count": 335
     }
   ],
-  "EOS_Progressed": 19434,
+  "EOS_Progressed": 19439,
   "EOS_Completed": 37,
   "EOS_NewPlayers": 677,
   "EOS_NewCompleters": -2,
@@ -17358,6 +17358,11 @@
       "Time": "2023-12-27T19:06:33.7275613+00:00",
       "NumProgressed": 19434,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-12-27T20:04:52.4458837+00:00",
+      "NumProgressed": 19439,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17434,7 +17439,7 @@
       "Name": "Efficient Explorer",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "MetalChain",
@@ -17466,7 +17471,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "WinImpossible",
@@ -17608,9 +17613,9 @@
       "ID": "WinNearTemple",
       "SetID": "cfbk359",
       "Name": "Forsaken Gods Temple",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 156
     },
     {
       "ID": "WinNearTorrent",
@@ -17634,7 +17639,7 @@
       "Name": "Coral Forest",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "WinOnCursed",
@@ -17658,7 +17663,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "WinPrestige10",
@@ -17778,7 +17783,7 @@
       "Name": "Frosts",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "WinNearGreed",
@@ -17786,7 +17791,7 @@
       "Name": "Land of Greed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "WinNearLibrary",
@@ -17794,7 +17799,7 @@
       "Name": "Overgrown Library",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1360
+      "UsersEstimate": 1361
     },
     {
       "ID": "WinNearPetrified",
@@ -17810,7 +17815,7 @@
       "Name": "Ominous Presence",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "WinNearStorms",
@@ -17841,15 +17846,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19434,
+      "Progressed": 19439,
       "Completed": 37
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-27T01:43:48.2906099+00:00",
-  "LastChanged_Achievements": "2023-12-27T19:06:33.7275609+00:00",
+  "LastChanged_Achievements": "2023-12-27T20:04:52.4458834+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:00:27.6273604+00:00",
-  "LastUpdate_Achievements": "2023-12-27T19:06:33.7276439+00:00"
+  "LastUpdate_Ratings": "2023-12-27T19:59:18.756888+00:00",
+  "LastUpdate_Achievements": "2023-12-27T20:04:52.445968+00:00"
 }

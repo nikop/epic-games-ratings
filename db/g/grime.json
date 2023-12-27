@@ -1747,10 +1747,10 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 164926,
+  "EOS_Progressed": 164940,
   "EOS_Completed": 416,
-  "EOS_NewPlayers": 1409,
-  "EOS_NewCompleters": 53,
+  "EOS_NewPlayers": 1417,
+  "EOS_NewCompleters": 52,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
     {
@@ -20837,6 +20837,11 @@
       "Time": "2023-12-27T19:06:53.8570879+00:00",
       "NumProgressed": 164926,
       "NumCompleted": 416
+    },
+    {
+      "Time": "2023-12-27T20:05:07.9474314+00:00",
+      "NumProgressed": 164940,
+      "NumCompleted": 416
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -21041,7 +21046,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1155
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -21049,7 +21054,7 @@
       "Name": "Devourer",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -21216,21 +21221,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 164509,
-      "Completed": 1246
+      "Progressed": 164523,
+      "Completed": 1247
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 164926,
+      "Progressed": 164940,
       "Completed": 416
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-26T18:59:35.5919869+00:00",
-  "LastChanged_Achievements": "2023-12-27T19:06:53.8570876+00:00",
+  "LastChanged_Achievements": "2023-12-27T20:05:07.9474312+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:22.7260202+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:00:25.4467593+00:00",
-  "LastUpdate_Achievements": "2023-12-27T19:06:53.8571884+00:00"
+  "LastUpdate_Ratings": "2023-12-27T19:59:16.6053216+00:00",
+  "LastUpdate_Achievements": "2023-12-27T20:05:07.9475206+00:00"
 }

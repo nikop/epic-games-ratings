@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -970,10 +970,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 2217,
       "NumberOfAwardsMax": 291
+    },
+    {
+      "Time": "2023-12-27T19:57:33.2833141+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2220,
+      "NumberOfAwardsMax": 291
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2217,
+  "NumberOfAwards": 2220,
   "NumberOfAwardsMax": 291,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1005,7 +1011,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 273
+      "Count": 275
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1017,7 +1023,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 217
+      "Count": 218
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1038,9 +1044,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 230625,
+  "EOS_Progressed": 230627,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 719,
+  "EOS_NewPlayers": 717,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28593,6 +28599,11 @@
       "Time": "2023-12-27T19:10:40.5759357+00:00",
       "NumProgressed": 230625,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-27T20:09:21.251985+00:00",
+      "NumProgressed": 230627,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -28612,7 +28623,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59962
+      "UsersEstimate": 59963
     },
     {
       "ID": "ACH_BASE_11",
@@ -28652,7 +28663,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23062
+      "UsersEstimate": 23063
     },
     {
       "ID": "ACH_BASE_17",
@@ -28668,7 +28679,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23062
+      "UsersEstimate": 23063
     },
     {
       "ID": "ACH_BASE_19",
@@ -28676,7 +28687,7 @@
       "Name": "Battle Servitor",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4612
+      "UsersEstimate": 4613
     },
     {
       "ID": "ACH_BASE_2",
@@ -28700,7 +28711,7 @@
       "Name": "Ding Dong Szaregon\u0027s Gone",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4612
+      "UsersEstimate": 4613
     },
     {
       "ID": "ACH_BASE_22",
@@ -28708,7 +28719,7 @@
       "Name": "Impatient destruction",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4612
+      "UsersEstimate": 4613
     },
     {
       "ID": "ACH_BASE_23",
@@ -28724,7 +28735,7 @@
       "Name": "Mother of Xenarites",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "ACH_BASE_25",
@@ -28836,7 +28847,7 @@
       "Name": "Vivisected Vizier",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4612
+      "UsersEstimate": 4613
     },
     {
       "ID": "ACH_BASE_6",
@@ -28844,7 +28855,7 @@
       "Name": "Architect Abortion",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4612
+      "UsersEstimate": 4613
     },
     {
       "ID": "ACH_BASE_7",
@@ -28852,7 +28863,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 29981
+      "UsersEstimate": 29982
     },
     {
       "ID": "ACH_BASE_8",
@@ -28875,16 +28886,16 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 230625,
+      "Progressed": 230627,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2023-12-26T23:57:10.9457228+00:00",
-  "LastChanged_Achievements": "2023-12-27T19:10:40.5759355+00:00",
+  "LastChanged": "2023-12-27T19:57:33.2833139+00:00",
+  "LastChanged_Achievements": "2023-12-27T20:09:21.2519849+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:03.0757799+00:00",
-  "LastUpdate_Ratings": "2023-12-27T18:58:06.7597732+00:00",
-  "LastUpdate_Achievements": "2023-12-27T19:10:40.5760557+00:00"
+  "LastUpdate_Ratings": "2023-12-27T19:57:33.2833143+00:00",
+  "LastUpdate_Achievements": "2023-12-27T20:09:21.2520963+00:00"
 }

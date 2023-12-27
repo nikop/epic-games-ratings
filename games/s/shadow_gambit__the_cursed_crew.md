@@ -21,8 +21,8 @@ Rating: 4.78 (Ranked 108)
 | Persistent Parasite | 17.00% | ~224 |
 | Seadog | 14.00% | ~184 |
 | Jaded Judge | 12.00% | ~158 |
+| Tobacco Travesty | 11.00% | ~145 |
 | Rustic Recipe | 11.00% | ~145 |
-| Tobacco Travesty | 10.00% | ~132 |
 | Privateer | 9.00% | ~119 |
 | Accursed Artifacts | 9.00% | ~119 |
 | Lyrical Longing | 9.00% | ~119 |

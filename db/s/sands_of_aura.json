@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
     "PcReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -817,17 +817,17 @@
       "ID": "DEFEAT_BELFRY_SOLO",
       "SetID": "cm0d613",
       "Name": "Let Me Solo Them",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "DEFEAT_FERRUM_BOSSES",
       "SetID": "cm0d613",
       "Name": "Dousing a Venerable Flame",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "DEFEAT_ISHULAR_GIANT",
@@ -889,9 +889,9 @@
       "ID": "FLARE_KNIGHT_DEFEAT",
       "SetID": "cm0d613",
       "Name": "The Guardian of Fire",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "FLARE_KNIGHT_MASTER",
@@ -1098,8 +1098,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-12-27T19:06:25.527746+00:00",
+  "LastChanged_Achievements": "2023-12-27T20:04:46.2537411+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.2387789+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:03:29.0394625+00:00",
-  "LastUpdate_Achievements": "2023-12-27T19:06:25.5277825+00:00"
+  "LastUpdate_Ratings": "2023-12-27T20:02:34.0191786+00:00",
+  "LastUpdate_Achievements": "2023-12-27T20:04:46.253776+00:00"
 }

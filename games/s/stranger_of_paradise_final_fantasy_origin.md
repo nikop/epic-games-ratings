@@ -6,54 +6,54 @@ Number of Ratings: 1,919  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~79,039 |
-| No Escape | 86.00% | ~70,075 |
-| Seeker of Power | 84.00% | ~68,446 |
-| Hopes and Dreams | 82.00% | ~66,816 |
-| Lantern Smasher | 78.00% | ~63,557 |
-| The Pirate's Way | 73.00% | ~59,483 |
-| Dark Crystal, Warrior's Heart | 71.00% | ~57,853 |
-| The King of the Dark Elves | 68.00% | ~55,408 |
-| Memories of the Distant Past | 66.00% | ~53,779 |
-| Distortion's Progeny | 63.00% | ~51,334 |
-| Savant | 62.00% | ~50,519 |
-| A Landscape of Memory | 58.00% | ~47,260 |
-| The Wind's Light | 54.00% | ~44,001 |
-| Vague Remembrances | 49.00% | ~39,927 |
-| The Fire's Light | 47.00% | ~38,297 |
-| Phantom Memories | 47.00% | ~38,297 |
-| Imbued Memories | 46.00% | ~37,482 |
-| The Earth's Light | 45.00% | ~36,667 |
-| Shared Recollections | 42.00% | ~34,223 |
-| The Water's Light | 40.00% | ~32,593 |
-| Path of the Sage | 40.00% | ~32,593 |
+| Manifestation of the Soul | 97.00% | ~79,040 |
+| No Escape | 86.00% | ~70,077 |
+| Seeker of Power | 84.00% | ~68,447 |
+| Hopes and Dreams | 82.00% | ~66,818 |
+| Lantern Smasher | 78.00% | ~63,558 |
+| The Pirate's Way | 73.00% | ~59,484 |
+| Dark Crystal, Warrior's Heart | 71.00% | ~57,854 |
+| The King of the Dark Elves | 68.00% | ~55,410 |
+| Memories of the Distant Past | 66.00% | ~53,780 |
+| Distortion's Progeny | 63.00% | ~51,336 |
+| Savant | 62.00% | ~50,521 |
+| A Landscape of Memory | 58.00% | ~47,261 |
+| The Wind's Light | 54.00% | ~44,002 |
+| Vague Remembrances | 49.00% | ~39,928 |
+| The Fire's Light | 47.00% | ~38,298 |
+| Phantom Memories | 47.00% | ~38,298 |
+| Imbued Memories | 46.00% | ~37,483 |
+| The Earth's Light | 45.00% | ~36,668 |
+| Shared Recollections | 42.00% | ~34,224 |
+| The Water's Light | 40.00% | ~32,594 |
+| Path of the Sage | 40.00% | ~32,594 |
 | Malice Takes Root | 37.00% | ~30,149 |
 | Path of the Dark Knight | 37.00% | ~30,149 |
 | Path of the Breaker | 37.00% | ~30,149 |
-| Duty's Course | 36.00% | ~29,334 |
-| Path of the Paladin | 36.00% | ~29,334 |
-| Path of the Liberator | 35.00% | ~28,519 |
-| Led by the Nose | 34.00% | ~27,704 |
-| Path of the Void Knight | 34.00% | ~27,704 |
-| Path of the Tyrant | 34.00% | ~27,704 |
-| Terminus of Fate | 33.00% | ~26,889 |
-| Path of the Ninja | 33.00% | ~26,889 |
-| His Name Is Garland | 33.00% | ~26,889 |
+| Duty's Course | 36.00% | ~29,335 |
+| Path of the Paladin | 36.00% | ~29,335 |
+| Path of the Liberator | 35.00% | ~28,520 |
+| Led by the Nose | 34.00% | ~27,705 |
+| Path of the Void Knight | 34.00% | ~27,705 |
+| Path of the Tyrant | 34.00% | ~27,705 |
+| Terminus of Fate | 33.00% | ~26,890 |
+| Path of the Ninja | 33.00% | ~26,890 |
+| His Name Is Garland | 33.00% | ~26,890 |
 | Path of the Assassin | 32.00% | ~26,075 |
-| Seeker of Ultimate Power | 23.00% | ~18,741 |
-| Artifact Collector | 22.00% | ~17,926 |
-| Polymath | 22.00% | ~17,926 |
-| True Potential | 21.00% | ~17,111 |
+| Seeker of Ultimate Power | 23.00% | ~18,742 |
+| Artifact Collector | 22.00% | ~17,927 |
+| Polymath | 22.00% | ~17,927 |
+| True Potential | 21.00% | ~17,112 |
 | Origin of True Chaos | 20.00% | ~16,297 |
 | Master's Awakening | 19.00% | ~15,482 |
 | Jack-of-All-Trades | 19.00% | ~15,482 |
-| Cycle of Darkness | 16.00% | ~13,037 |
+| Cycle of Darkness | 16.00% | ~13,038 |
 | Job Master | 8.00% | ~6,519 |
 | Crest Bearer | 7.00% | ~5,704 |
-| Strangers' Memories | 3.00% | ~2,444 |
+| Strangers' Memories | 3.00% | ~2,445 |
 | A Tale of Origins and Endings | 2.00% | ~1,630 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81,483 (Ranked 103)  
+Progressed: 81,485 (Ranked 103)  
 Completed: 2,213 (2.72%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 2,213 (2.72%) (Ranked 119)
 | 2023-12-24 | 81,302 | 2,211 |
 | 2023-12-25 | 81,370 | 2,213 |
 | 2023-12-26 | 81,431 | 2,213 |
-| 2023-12-27 | 81,483 | 2,213 |
+| 2023-12-27 | 81,485 | 2,213 |
 ## Awards
 Max (Great Boss Battles): 776  (Ranked 182)  
 Sum: 1,601 (Ranked 236)  

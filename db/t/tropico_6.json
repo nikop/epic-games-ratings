@@ -2,13 +2,13 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 298,
+  "Ranking_Rating": 297,
   "Ranking_Popularity": 364,
   "Ranking_PopularitySum": 297,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1479,9 +1479,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6705,
+  "EOS_Progressed": 6706,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15364,6 +15364,11 @@
       "Time": "2023-12-27T19:05:13.6179862+00:00",
       "NumProgressed": 6705,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-27T20:03:51.7800125+00:00",
+      "NumProgressed": 6706,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -15399,7 +15404,7 @@
       "Name": "Happy Ending?",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -15455,7 +15460,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -15471,7 +15476,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2950
+      "UsersEstimate": 2951
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -15487,7 +15492,7 @@
       "Name": "Shackadelic",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -15631,7 +15636,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 3017
+      "UsersEstimate": 3018
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -15694,15 +15699,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6705,
+      "Progressed": 6706,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-25T08:59:34.0661377+00:00",
-  "LastChanged_Achievements": "2023-12-27T19:05:13.6179858+00:00",
+  "LastChanged_Achievements": "2023-12-27T20:03:51.7800123+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:39.6786531+00:00",
-  "LastUpdate_Ratings": "2023-12-27T18:57:28.4203485+00:00",
-  "LastUpdate_Achievements": "2023-12-27T19:05:13.6180693+00:00"
+  "LastUpdate_Ratings": "2023-12-27T19:57:05.1264106+00:00",
+  "LastUpdate_Achievements": "2023-12-27T20:03:51.7800785+00:00"
 }

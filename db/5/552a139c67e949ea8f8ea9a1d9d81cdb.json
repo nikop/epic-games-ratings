@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1685,
+  "EOS_Progressed": 1686,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4112,6 +4112,11 @@
       "Time": "2023-12-27T18:08:41.058532+00:00",
       "NumProgressed": 1685,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-27T20:06:11.0468037+00:00",
+      "NumProgressed": 1686,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4362,9 +4367,9 @@
       "ID": "ML_ACHIEVEMENT_31",
       "SetID": "5k00jcd",
       "Name": "Shopping time!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 51
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -4474,9 +4479,9 @@
       "ID": "ML_ACHIEVEMENT_45",
       "SetID": "8jfk4dl",
       "Name": "The Speed of Silence",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -4491,20 +4496,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1685,
+      "Progressed": 1686,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1353,
+      "Progressed": 1354,
       "Completed": 1003
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-27T19:08:17.6196545+00:00",
+  "LastChanged_Achievements": "2023-12-27T20:06:11.0468034+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:01:40.0946362+00:00",
-  "LastUpdate_Achievements": "2023-12-27T19:08:17.6196965+00:00"
+  "LastUpdate_Ratings": "2023-12-27T20:00:11.1157938+00:00",
+  "LastUpdate_Achievements": "2023-12-27T20:06:11.0468569+00:00"
 }

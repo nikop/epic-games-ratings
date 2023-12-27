@@ -23,8 +23,8 @@ Rating: 4.29 (Ranked 867)
 | Prophecy Fulfilled | 4.00% | ~51 |
 | The Greedy Ones | 3.00% | ~38 |
 | The First King | 2.00% | ~25 |
-| The great fire | 2.00% | ~25 |
 | The Unruly Ones | 2.00% | ~25 |
+| The great fire | 1.00% | ~13 |
 | The Council | 1.00% | ~13 |
 | The Mad | 1.00% | ~13 |
 | Like the dream | 1.00% | ~13 |
@@ -51,7 +51,7 @@ Rating: 4.29 (Ranked 867)
 | Purist | 0.00% | ~0 |
 | King of the Dice | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,266 (Ranked 268)  
+Progressed: 1,267 (Ranked 268)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 1,258 | 0 |
 | 2023-12-25 | 1,260 | 0 |
 | 2023-12-26 | 1,265 | 0 |
-| 2023-12-27 | 1,266 | 0 |
+| 2023-12-27 | 1,267 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

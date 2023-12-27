@@ -7,9 +7,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Until death do us apart | 0.50% | ~2,428 |
-| That's a Grand Army | 0.40% | ~1,942 |
-| That is mine! | 0.40% | ~1,942 |
-| Victorious! | 0.40% | ~1,942 |
+| That's a Grand Army | 0.40% | ~1,943 |
+| That is mine! | 0.40% | ~1,943 |
+| Victorious! | 0.40% | ~1,943 |
 | Brothers in Arms | 0.30% | ~1,457 |
 | That's a Grand Navy | 0.30% | ~1,457 |
 | Seriously?! | 0.30% | ~1,457 |
@@ -17,6 +17,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Defender of the Faith | 0.20% | ~971 |
 | For the Glory | 0.20% | ~971 |
 | It's all about the money | 0.20% | ~971 |
+| Respected | 0.20% | ~971 |
+| The Princess is in this Castle | 0.20% | ~971 |
 | True Catholic | 0.20% | ~971 |
 | The 52 Garhs | 0.10% | ~486 |
 | I don't like sand | 0.10% | ~486 |
@@ -219,7 +221,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Reapers | 0.10% | ~486 |
 | Redecorating | 0.10% | ~486 |
 | Relentless Push East | 0.10% | ~486 |
-| Respected | 0.10% | ~486 |
 | Rise of the White Sheep | 0.10% | ~486 |
 | Royal Authority | 0.10% | ~486 |
 | Rozwi Empire | 0.10% | ~486 |
@@ -270,7 +271,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The pen is mightier than the sword | 0.10% | ~486 |
 | The Pheasant Strut | 0.10% | ~486 |
 | The Power of Three | 0.10% | ~486 |
-| The Princess is in this Castle | 0.10% | ~486 |
 | The Re-Reconquista | 0.10% | ~486 |
 | The Rising Sun | 0.10% | ~486 |
 | The Uncommonwealth | 0.10% | ~486 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 485,616 (Ranked 40)  
+Progressed: 485,673 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -621,22 +621,22 @@ Completed: 1 (0.00%) (Ranked 389)
 | 2023-12-24 | 483,348 | 1 |
 | 2023-12-25 | 484,143 | 1 |
 | 2023-12-26 | 484,953 | 1 |
-| 2023-12-27 | 485,616 | 1 |
+| 2023-12-27 | 485,673 | 1 |
 ## Awards
-Max (Educational): 7,570  (Ranked 54)  
-Sum: 62,449 (Ranked 24)  
+Max (Educational): 7,588  (Ranked 54)  
+Sum: 62,490 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 7,570 |
+| This game is Educational | 7,588 |
 | This game has Diverse Characters | 7,414 |
 | This game is Highly Recommended | 7,276 |
 | This game has Challenging Combat | 7,197 |
-| This game is Extremely Fun | 7,102 |
+| This game is Extremely Fun | 7,119 |
 | This game is Relaxing | 6,950 |
 | This game has Competitive Players | 6,775 |
 | This game has Amazing Storytelling | 6,321 |
-| This game has Amazing Characters | 5,844 |
+| This game has Amazing Characters | 5,850 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -985,4 +985,4 @@ Diff (max vs sum): 30
 | 2023-12-24 | 4.69 | - | 7,548 | 62,191 |
 | 2023-12-25 | 4.69 | - | 7,558 | 62,301 |
 | 2023-12-26 | 4.69 | - | 7,570 | 62,442 |
-| 2023-12-27 | 4.69 | - | 7,570 | 62,449 |
+| 2023-12-27 | 4.69 | - | 7,588 | 62,490 |

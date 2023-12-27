@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -37,7 +37,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1359,
+  "EOS_Progressed": 1360,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 442,
   "EOS_NewCompleters": 0,
@@ -2657,6 +2657,11 @@
       "Time": "2023-12-27T19:10:45.5748093+00:00",
       "NumProgressed": 1359,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-27T20:09:25.4473616+00:00",
+      "NumProgressed": 1360,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2684,15 +2689,15 @@
       "Name": "Powerful Allies",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_04",
       "SetID": "efe2lj",
       "Name": "Calm before the Storm",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_05",
@@ -2724,7 +2729,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "ACH_09",
@@ -2740,7 +2745,7 @@
       "Name": "Trinity",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH_11",
@@ -2828,7 +2833,7 @@
       "Name": "Big Bazar",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_22",
@@ -2922,9 +2927,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 286
     },
     {
       "ID": "ACH_35",
@@ -2955,7 +2960,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1359,
+      "Progressed": 1360,
       "Completed": 3
     }
   ],
@@ -2963,8 +2968,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2023-12-27T00:00:31.2413182+00:00",
-  "LastChanged_Achievements": "2023-12-27T19:10:45.5748089+00:00",
+  "LastChanged_Achievements": "2023-12-27T20:09:25.4473613+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-27T18:57:23.2707639+00:00",
-  "LastUpdate_Achievements": "2023-12-27T19:10:45.5748381+00:00"
+  "LastUpdate_Ratings": "2023-12-27T19:57:00.9255175+00:00",
+  "LastUpdate_Achievements": "2023-12-27T20:09:25.4473969+00:00"
 }

@@ -249,7 +249,7 @@
   ],
   "EOS_Progressed": 1157,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3440,9 +3440,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 324
     },
     {
       "ID": "RenaissanceRobot",
@@ -3456,9 +3456,9 @@
       "ID": "ScientiaVincereTenebras",
       "SetID": "1n308hc",
       "Name": "Scientia Vincere Tenebras",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 104
+      "UsersEstimate": 116
     },
     {
       "ID": "Signatory",
@@ -3633,8 +3633,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-26T14:58:48.4089704+00:00",
-  "LastChanged_Achievements": "2023-12-27T19:05:37.9802605+00:00",
+  "LastChanged_Achievements": "2023-12-27T20:04:10.2874128+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:00:45.5645743+00:00",
-  "LastUpdate_Achievements": "2023-12-27T19:05:37.9803086+00:00"
+  "LastUpdate_Ratings": "2023-12-27T19:59:30.6668163+00:00",
+  "LastUpdate_Achievements": "2023-12-27T20:04:10.2874568+00:00"
 }

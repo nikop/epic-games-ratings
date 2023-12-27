@@ -6,19 +6,19 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,786 |
-| I'll Be Back | 84.00% | ~4,277 |
-| Sorry, I Dropped This | 77.00% | ~3,921 |
-| First Day on the Job | 76.00% | ~3,870 |
-| Butcher's Bill | 54.00% | ~2,750 |
-| P.A.X | 37.00% | ~1,884 |
-| Hey Listen | 36.00% | ~1,833 |
-| OPERATOR | 35.00% | ~1,782 |
-| It's Blue Light | 33.00% | ~1,680 |
+| On My Own Two Feet | 94.00% | ~4,788 |
+| I'll Be Back | 84.00% | ~4,279 |
+| Sorry, I Dropped This | 77.00% | ~3,922 |
+| First Day on the Job | 76.00% | ~3,871 |
+| Butcher's Bill | 54.00% | ~2,751 |
+| P.A.X | 37.00% | ~1,885 |
+| Hey Listen | 36.00% | ~1,834 |
+| OPERATOR | 35.00% | ~1,783 |
+| It's Blue Light | 33.00% | ~1,681 |
 | Most Wanted | 26.00% | ~1,324 |
-| Infidel | 23.00% | ~1,171 |
-| GOLIATH | 21.00% | ~1,069 |
-| Firebug | 20.00% | ~1,018 |
+| Infidel | 23.00% | ~1,172 |
+| GOLIATH | 21.00% | ~1,070 |
+| Firebug | 20.00% | ~1,019 |
 | Nothing to Lose | 18.00% | ~917 |
 | I Choose You | 17.00% | ~866 |
 | Big Sister | 16.00% | ~815 |
@@ -35,13 +35,13 @@ Number of Ratings: 62  (23.09.2022)
 | Raging Drones | 9.00% | ~458 |
 | Overconfident | 9.00% | ~458 |
 | Is This Real Life? | 9.00% | ~458 |
-| Pusher Man | 8.00% | ~407 |
-| Squad Chief Helvig | 8.00% | ~407 |
-| No More Marching | 8.00% | ~407 |
-| Duty-Bound | 7.00% | ~356 |
-| Follow the White Rabbit | 7.00% | ~356 |
-| Liberation | 7.00% | ~356 |
-| Risk Assessment | 7.00% | ~356 |
+| Pusher Man | 8.00% | ~408 |
+| Squad Chief Helvig | 8.00% | ~408 |
+| No More Marching | 8.00% | ~408 |
+| Duty-Bound | 7.00% | ~357 |
+| Follow the White Rabbit | 7.00% | ~357 |
+| Liberation | 7.00% | ~357 |
+| Risk Assessment | 7.00% | ~357 |
 | Sunglasses at Night | 6.00% | ~306 |
 | Carbon Cat | 6.00% | ~306 |
 | It Lives! It Sniffs! It Conquers! | 5.00% | ~255 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~31 |
 | The Surge | 0.40% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,092 (Ranked 201)  
+Progressed: 5,094 (Ranked 201)  
 Completed: 18 (0.35%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 18 (0.35%) (Ranked 238)
 | 2023-12-24 | 5,061 | 18 |
 | 2023-12-25 | 5,066 | 18 |
 | 2023-12-26 | 5,078 | 18 |
-| 2023-12-27 | 5,092 | 18 |
+| 2023-12-27 | 5,094 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 513)  
 Sum: 30 (Ranked 532)  

@@ -40,7 +40,7 @@ Rating: 4.29 (Ranked 867)
 | The Droid | 11.00% | ~23 |
 | Verse | 11.00% | ~23 |
 | Iron | 10.00% | ~21 |
-| The Bomber | 8.00% | ~17 |
+| The Bomber | 9.00% | ~19 |
 | Tested | 8.00% | ~17 |
 | Power Overwhelming | 7.00% | ~15 |
 | The Astronaut | 7.00% | ~15 |
@@ -55,6 +55,7 @@ Rating: 4.29 (Ranked 867)
 | Platinum | 3.00% | ~6 |
 | Hammer | 3.00% | ~6 |
 | Gunpowder | 3.00% | ~6 |
+| Satellite | 3.00% | ~6 |
 | Combo Master | 2.00% | ~4 |
 | Blaze | 2.00% | ~4 |
 | Topaz | 2.00% | ~4 |
@@ -64,7 +65,6 @@ Rating: 4.29 (Ranked 867)
 | Rocket | 2.00% | ~4 |
 | Adamantite | 2.00% | ~4 |
 | Concluded | 2.00% | ~4 |
-| Satellite | 2.00% | ~4 |
 | Really Bad Luck | 1.00% | ~2 |
 | Immortality | 1.00% | ~2 |
 | Zombie Hunter | 1.00% | ~2 |
@@ -79,7 +79,7 @@ Rating: 4.29 (Ranked 867)
 | Divinity | 0.50% | ~1 |
 | Zombie Exterminator | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209 (Ranked 414)  
+Progressed: 209 (Ranked 415)  
 Completed: 1 (0.48%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |

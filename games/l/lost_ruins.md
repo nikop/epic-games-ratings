@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Inquisitor | 36.00% | ~224 |
+| Inquisitor | 37.00% | ~230 |
 | Goblin Tales | 29.00% | ~180 |
 | Bug Hunter | 24.00% | ~149 |
 | Boss Killer | 23.00% | ~143 |
-| The Fallen | 20.00% | ~124 |
+| The Fallen | 21.00% | ~131 |
 | Artifact Collector | 19.00% | ~118 |
-| Trap Master | 18.00% | ~112 |
+| Trap Master | 19.00% | ~118 |
 | Ghost Buster | 15.00% | ~93 |
 | Reincarnation | 15.00% | ~93 |
 | Iconoclasm | 14.00% | ~87 |

@@ -6,23 +6,23 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| E1M1 | 45.00% | ~858 |
-| Grenadier | 44.00% | ~839 |
-| War Never Changes | 44.00% | ~839 |
+| E1M1 | 45.00% | ~859 |
+| Grenadier | 44.00% | ~840 |
+| War Never Changes | 44.00% | ~840 |
 | Heroes Never Die | 40.00% | ~763 |
 | Mosquito bite | 37.00% | ~706 |
-| Spice It Up | 33.00% | ~629 |
+| Spice It Up | 32.00% | ~611 |
 | Agent 47 | 27.00% | ~515 |
 | Bomberman | 27.00% | ~515 |
 | You're Gonna Go Far, Kid | 26.00% | ~496 |
-| Death to the Oppressor! | 19.00% | ~362 |
+| Death to the Oppressor! | 19.00% | ~363 |
 | The Gang's All Here | 17.00% | ~324 |
 | Your Answer | 15.00% | ~286 |
 | One by One | 14.00% | ~267 |
 | The Big Bertha | 13.00% | ~248 |
 | Game Over | 12.00% | ~229 |
 | Lock, Stock | 8.00% | ~153 |
-| Payback Time | 7.00% | ~133 |
+| Payback Time | 7.00% | ~134 |
 | No Witness | 5.00% | ~95 |
 | Strategist | 4.00% | ~76 |
 | Do a Barrel Roll! | 2.00% | ~38 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | A Little Culture | 0.10% | ~2 |
 | Scout | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,907 (Ranked 240)  
+Progressed: 1,908 (Ranked 240)  
 Completed: 2 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 2 (0.10%) (Ranked 305)
 | 2023-12-24 | 1,887 | 2 |
 | 2023-12-25 | 1,894 | 2 |
 | 2023-12-26 | 1,904 | 2 |
-| 2023-12-27 | 1,907 | 2 |
+| 2023-12-27 | 1,908 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

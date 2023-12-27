@@ -2,13 +2,13 @@
   "ID": "038295c445bb40d1b06545fd75741af1",
   "Name": "Kerbal Space Program 2",
   "ProductSlug": "kerbal-space-program-2",
-  "Ranking_Rating": 969,
+  "Ranking_Rating": 962,
   "Ranking_Popularity": 488,
-  "Ranking_PopularitySum": 385,
+  "Ranking_PopularitySum": 384,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 564,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-02-24T14:00:00+00:00",
     "PcReleaseDate": "2023-02-24T14:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.16,
+  "Rating": 4.17,
   "RatingHistory": [
     {
       "Time": "2023-02-27T02:15:09.7091153+00:00",
@@ -863,10 +863,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 274,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-12-27T20:02:59.6279936+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 276,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 274,
+  "NumberOfAwards": 276,
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -886,7 +892,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 30
+      "Count": 32
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -943,8 +949,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-24T16:58:34.691796+00:00",
   "FirstSeenRating": "2023-02-27T02:15:09.7091148+00:00",
-  "LastChanged": "2023-12-27T04:03:42.8503664+00:00",
+  "LastChanged": "2023-12-27T20:02:59.6279935+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:21.8170775+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:04:03.5886769+00:00",
-  "LastUpdate_Achievements": "2023-12-27T19:08:27.5748976+00:00"
+  "LastUpdate_Ratings": "2023-12-27T20:02:59.6279938+00:00",
+  "LastUpdate_Achievements": "2023-12-27T20:06:19.039075+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 648,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.4,
   "EosHistory": [
@@ -2124,9 +2124,9 @@
       "ID": "ach_main09journey_completed",
       "SetID": "4hg22ll",
       "Name": "\u201C\u2026 like son\u201D",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 330
     },
     {
       "ID": "ach_main09journey_killheroes",
@@ -2260,9 +2260,9 @@
       "ID": "ach_main14run_roomdamage",
       "SetID": "4hg22ll",
       "Name": "Laser Eyes Are So Useless",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 84
     },
     {
       "ID": "ach_main15drill_completed",
@@ -2316,9 +2316,9 @@
       "ID": "ach_main17stone_completed",
       "SetID": "4hg22ll",
       "Name": "Raiders of the Lost Stone",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 168
     },
     {
       "ID": "ach_main17stone_explosions",
@@ -2364,9 +2364,9 @@
       "ID": "ach_main19war_completed",
       "SetID": "4hg22ll",
       "Name": "The Rune Sockets of Finitude (Part 2)",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 156
     },
     {
       "ID": "ach_main19war_heal",
@@ -2419,8 +2419,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-12-27T19:09:13.1194118+00:00",
+  "LastChanged_Achievements": "2023-12-27T20:08:13.1406622+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.4415734+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:01:17.9764432+00:00",
-  "LastUpdate_Achievements": "2023-12-27T19:09:13.1194764+00:00"
+  "LastUpdate_Ratings": "2023-12-27T19:59:54.990693+00:00",
+  "LastUpdate_Achievements": "2023-12-27T20:08:13.1407108+00:00"
 }

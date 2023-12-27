@@ -5,29 +5,29 @@ Rating: 4.54 (Ranked 538)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 66.00% | ~710 |
-| The Teleprobe | 52.00% | ~559 |
-| The City | 47.00% | ~505 |
-| The field base | 42.00% | ~452 |
-| The Alliance | 36.00% | ~387 |
-| Survivors | 36.00% | ~387 |
-| The Condor | 33.00% | ~355 |
-| The End | 33.00% | ~355 |
-| The Necroevolution | 27.00% | ~290 |
+| The Camp | 67.00% | ~722 |
+| The Teleprobe | 52.00% | ~561 |
+| The City | 47.00% | ~507 |
+| The field base | 42.00% | ~453 |
+| The Alliance | 36.00% | ~388 |
+| Survivors | 36.00% | ~388 |
+| The Condor | 33.00% | ~356 |
+| The End | 33.00% | ~356 |
+| The Necroevolution | 27.00% | ~291 |
 | Krauta is alive | 26.00% | ~280 |
 | Peacemaker | 21.00% | ~226 |
-| Volcanologist | 20.00% | ~215 |
-| On her own | 19.00% | ~204 |
+| Volcanologist | 20.00% | ~216 |
+| On her own | 19.00% | ~205 |
 | Fierce fight | 18.00% | ~194 |
 | Evacuation | 18.00% | ~194 |
 | Beyond divisions | 17.00% | ~183 |
-| Flying Objects Operator | 15.00% | ~161 |
+| Flying Objects Operator | 15.00% | ~162 |
 | I remember everything! | 13.00% | ~140 |
 | Another giant | 12.00% | ~129 |
-| Violent solution | 8.00% | ~86 |
+| Violent solution | 9.00% | ~97 |
 | I leave no man behind | 8.00% | ~86 |
 | Innate curiosity | 7.00% | ~75 |
-| Strong objection | 6.00% | ~64 |
+| Strong objection | 6.00% | ~65 |
 | Ubiquitous holes | 5.00% | ~54 |
 | The Invincible | 5.00% | ~54 |
 | Got lost again | 5.00% | ~54 |
@@ -35,7 +35,7 @@ Rating: 4.54 (Ranked 538)
 | Convoy list | 0.80% | ~9 |
 | No more mistakes | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,075 (Ranked 279)  
+Progressed: 1,078 (Ranked 279)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 960 | 0 |
 | 2023-12-25 | 1,002 | 0 |
 | 2023-12-26 | 1,040 | 0 |
-| 2023-12-27 | 1,075 | 0 |
+| 2023-12-27 | 1,078 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

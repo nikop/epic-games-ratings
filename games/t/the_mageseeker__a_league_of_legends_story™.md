@@ -24,8 +24,8 @@ Rating: 4.80 (Ranked 87)
 | Devineur | 31.00% | ~959 |
 | Hijack | 30.00% | ~928 |
 | Whispers in the Woods I | 27.00% | ~836 |
+| I chose my shackles | 27.00% | ~836 |
 | Ancient power | 27.00% | ~836 |
-| I chose my shackles | 26.00% | ~805 |
 | Sacred Woods | 25.00% | ~774 |
 | Little light | 23.00% | ~712 |
 | Capelworth | 23.00% | ~712 |

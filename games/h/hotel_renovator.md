@@ -5,36 +5,36 @@ Rating: 4.33 (Ranked 835)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~1,009 |
-| And so it begins | 72.00% | ~956 |
-| No pressure | 69.00% | ~916 |
-| Memento | 60.00% | ~797 |
-| Let there be light | 57.00% | ~757 |
-| I think you dropped this | 53.00% | ~704 |
-| Soulmate? | 51.00% | ~677 |
-| Excellent service | 47.00% | ~624 |
-| Roll with it | 44.00% | ~584 |
-| Humble beginnings | 42.00% | ~558 |
-| Love is in the air | 41.00% | ~544 |
-| Fine, I'll do it myself | 40.00% | ~531 |
-| Moving up | 40.00% | ~531 |
+| Good start | 76.00% | ~1,011 |
+| And so it begins | 72.00% | ~958 |
+| No pressure | 69.00% | ~918 |
+| Memento | 59.00% | ~785 |
+| Let there be light | 57.00% | ~758 |
+| I think you dropped this | 53.00% | ~705 |
+| Soulmate? | 51.00% | ~678 |
+| Excellent service | 47.00% | ~625 |
+| Roll with it | 44.00% | ~585 |
+| Humble beginnings | 42.00% | ~559 |
+| Love is in the air | 41.00% | ~545 |
+| Fine, I'll do it myself | 40.00% | ~532 |
+| Moving up | 40.00% | ~532 |
 | No need to call anyone | 38.00% | ~505 |
 | Big fortune | 31.00% | ~412 |
-| Still more work ahead | 29.00% | ~385 |
+| Still more work ahead | 29.00% | ~386 |
 | Aesop's fable | 27.00% | ~359 |
-| Kaboom | 26.00% | ~345 |
-| Hotel sleuthing | 26.00% | ~345 |
+| Kaboom | 26.00% | ~346 |
+| Hotel sleuthing | 26.00% | ~346 |
 | Nearly there | 24.00% | ~319 |
-| Broken heart | 22.00% | ~292 |
+| Broken heart | 22.00% | ~293 |
 | Island boy | 21.00% | ~279 |
-| You're a star | 20.00% | ~266 |
+| You're a star | 19.00% | ~253 |
 | Unstoppable | 18.00% | ~239 |
 | Reunited | 18.00% | ~239 |
 | King of hospitality | 11.00% | ~146 |
 | Top spot in town | 2.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,328 (Ranked 265)  
-Completed: 18 (1.36%) (Ranked 152)  
+Progressed: 1,330 (Ranked 265)  
+Completed: 18 (1.35%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -230,7 +230,7 @@ Completed: 18 (1.36%) (Ranked 152)
 | 2023-12-24 | 1,293 | 18 |
 | 2023-12-25 | 1,304 | 18 |
 | 2023-12-26 | 1,317 | 18 |
-| 2023-12-27 | 1,328 | 18 |
+| 2023-12-27 | 1,330 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

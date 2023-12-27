@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14903,
+  "EOS_Progressed": 14906,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17565,6 +17565,11 @@
       "Time": "2023-12-27T19:06:00.2575452+00:00",
       "NumProgressed": 14903,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-27T20:04:27.5726722+00:00",
+      "NumProgressed": 14906,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -17576,7 +17581,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -17648,7 +17653,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 6557
+      "UsersEstimate": 6559
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -17775,7 +17780,7 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 14903,
+      "Progressed": 14906,
       "Completed": 0
     }
   ],
@@ -17783,8 +17788,8 @@
   "FirstSeenRating": "2023-12-27T16:58:07.3955203+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
   "LastChanged": "2023-12-27T16:58:07.3955204+00:00",
-  "LastChanged_Achievements": "2023-12-27T19:06:00.2575449+00:00",
+  "LastChanged_Achievements": "2023-12-27T20:04:27.5726719+00:00",
   "LastUpdate_AppInfo": "2023-12-23T06:57:11.4371726+00:00",
-  "LastUpdate_Ratings": "2023-12-27T18:58:28.3769054+00:00",
-  "LastUpdate_Achievements": "2023-12-27T19:06:00.2576274+00:00"
+  "LastUpdate_Ratings": "2023-12-27T19:57:48.9492157+00:00",
+  "LastUpdate_Achievements": "2023-12-27T20:04:27.5727624+00:00"
 }

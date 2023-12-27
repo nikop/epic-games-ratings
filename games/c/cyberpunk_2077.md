@@ -1,24 +1,24 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.66 (Ranked 298)  
+Rating: 4.66 (Ranked 297)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,855 |
-| Gun Fu | 8.00% | ~78,570 |
-| Right Back At Ya | 7.00% | ~68,749 |
-| The Fool | 7.00% | ~68,749 |
-| The Lovers | 6.00% | ~58,928 |
-| Full Body Conversion | 5.00% | ~49,106 |
-| True Soldier | 5.00% | ~49,106 |
+| V for Vendetta | 12.00% | ~117,857 |
+| Gun Fu | 8.00% | ~78,571 |
+| Right Back At Ya | 7.00% | ~68,750 |
+| The Fool | 7.00% | ~68,750 |
+| The Lovers | 6.00% | ~58,929 |
+| Full Body Conversion | 5.00% | ~49,107 |
+| True Soldier | 5.00% | ~49,107 |
 | All the President's Men | 5.00% | ~5,538 |
-| Christmas Tree Attack | 4.00% | ~39,285 |
-| Stanislavski's Method | 4.00% | ~39,285 |
-| The Hermit | 4.00% | ~39,285 |
-| The Wheel of Fortune | 4.00% | ~39,285 |
-| Arachnophobia | 4.00% | ~4,430 |
+| Christmas Tree Attack | 4.00% | ~39,286 |
+| Stanislavski's Method | 4.00% | ~39,286 |
+| The Hermit | 4.00% | ~39,286 |
+| The Wheel of Fortune | 4.00% | ~39,286 |
+| Arachnophobia | 4.00% | ~4,431 |
 | Bushido and Chill | 3.00% | ~29,464 |
 | Master Crafter | 3.00% | ~29,464 |
 | The Quick and the Dead | 3.00% | ~29,464 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 982,129 (Ranked 16)  
-Completed: 2,986 (0.30%) (Ranked 253)  
+Progressed: 982,143 (Ranked 16)  
+Completed: 2,986 (0.30%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -325,7 +325,7 @@ Completed: 2,986 (0.30%) (Ranked 253)
 | 2023-12-24 | 980,985 | 2,969 |
 | 2023-12-25 | 981,401 | 2,974 |
 | 2023-12-26 | 981,815 | 2,981 |
-| 2023-12-27 | 982,129 | 2,986 |
+| 2023-12-27 | 982,143 | 2,986 |
 ## Awards
 Max (Character Customization): 128,093  (Ranked 8)  
 Sum: 447,291 (Ranked 9)  

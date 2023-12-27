@@ -1,14 +1,14 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.66 (Ranked 298)  
+Rating: 4.66 (Ranked 297)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Just One...More...Term... | 74.00% | ~4,962 |
-| Un-Lonely Island | 45.00% | ~3,017 |
-| The Beginning of a Servantship | 44.00% | ~2,950 |
+| Un-Lonely Island | 45.00% | ~3,018 |
+| The Beginning of a Servantship | 44.00% | ~2,951 |
 | Trade Is My Trait | 36.00% | ~2,414 |
 | Number 18 | 23.00% | ~1,542 |
 | We Don't Have Time For That | 18.00% | ~1,207 |
@@ -18,9 +18,9 @@ Number of Ratings: 398  (23.09.2022)
 | The Dreamer of Dreams | 15.00% | ~1,006 |
 | Go Sovereigns! | 11.00% | ~738 |
 | For Science! | 11.00% | ~738 |
-| Happy Ending? | 10.00% | ~670 |
-| Of Seals And Men | 9.00% | ~603 |
-| Shackadelic | 9.00% | ~603 |
+| Happy Ending? | 10.00% | ~671 |
+| Of Seals And Men | 9.00% | ~604 |
+| Shackadelic | 9.00% | ~604 |
 | Double Trouble | 8.00% | ~536 |
 | Firestarter | 8.00% | ~536 |
 | I Owe You Nothing | 7.00% | ~469 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~54 |
 | My Ways | 0.20% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,705 (Ranked 192)  
+Progressed: 6,706 (Ranked 192)  
 Completed: 2 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 2 (0.03%) (Ranked 350)
 | 2023-12-24 | 6,646 | 2 |
 | 2023-12-25 | 6,671 | 2 |
 | 2023-12-26 | 6,690 | 2 |
-| 2023-12-27 | 6,705 | 2 |
+| 2023-12-27 | 6,706 | 2 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 364)  
 Sum: 743 (Ranked 297)  

@@ -27,8 +27,8 @@
 | Sevenkeeps Seat of Kings | 18.00% | ~16 |
 | Break Free | 16.00% | ~14 |
 | Friend of Alluvyan | 15.00% | ~13 |
+| Friend of Connach | 15.00% | ~13 |
 | Friend of Gillyshire | 14.00% | ~12 |
-| Friend of Connach | 14.00% | ~12 |
 | Philo's Tale | 11.00% | ~10 |
 | Stormwatch Faste | 11.00% | ~10 |
 | Friend of Orgash | 11.00% | ~10 |
@@ -49,6 +49,7 @@
 | Tuscari Sea Portal | 7.00% | ~6 |
 | Defeat Raith | 6.00% | ~5 |
 | Lore's Tale | 6.00% | ~5 |
+| Crypt of the Revenant | 6.00% | ~5 |
 | Balanced | 6.00% | ~5 |
 | Friend of Uram Gor | 6.00% | ~5 |
 | Get to the Airship! | 5.00% | ~4 |
@@ -56,7 +57,6 @@
 | Defeat Isgrimm | 5.00% | ~4 |
 | Defeat Undergast | 5.00% | ~4 |
 | Lytra's Tale | 5.00% | ~4 |
-| Crypt of the Revenant | 5.00% | ~4 |
 | Fireforge | 5.00% | ~4 |
 | Master Artificer | 5.00% | ~4 |
 | A Monopoly of Might | 5.00% | ~4 |

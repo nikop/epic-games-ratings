@@ -9115,9 +9115,9 @@
       "Count": 3602
     }
   ],
-  "EOS_Progressed": 245366,
+  "EOS_Progressed": 245403,
   "EOS_Completed": 2567,
-  "EOS_NewPlayers": 3016,
+  "EOS_NewPlayers": 3038,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -37525,6 +37525,11 @@
       "Time": "2023-12-27T19:10:55.4434288+00:00",
       "NumProgressed": 245366,
       "NumCompleted": 2567
+    },
+    {
+      "Time": "2023-12-27T20:09:33.853974+00:00",
+      "NumProgressed": 245403,
+      "NumCompleted": 2567
     }
   ],
   "TotalAchievements": 546,
@@ -37536,7 +37541,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4907
+      "UsersEstimate": 4908
     },
     {
       "ID": "objective_completed_10",
@@ -39216,7 +39221,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "objective_completed_35",
@@ -41824,7 +41829,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "objective_completed_1558",
@@ -41903,21 +41908,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 211640,
+      "Progressed": 211677,
       "Completed": 4068
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 245366,
+      "Progressed": 245403,
       "Completed": 2567
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-27T18:59:30.8252189+00:00",
-  "LastChanged_Achievements": "2023-12-27T19:10:55.4434284+00:00",
+  "LastChanged_Achievements": "2023-12-27T20:09:33.8539737+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-27T18:59:30.8252195+00:00",
-  "LastUpdate_Achievements": "2023-12-27T19:10:55.4456465+00:00"
+  "LastUpdate_Ratings": "2023-12-27T19:58:34.1255287+00:00",
+  "LastUpdate_Achievements": "2023-12-27T20:09:33.8563438+00:00"
 }

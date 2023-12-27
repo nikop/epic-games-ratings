@@ -5,11 +5,11 @@ Rating: 4.43 (Ranked 710)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~59,962 |
+| No aid from the Omnissiah | 26.00% | ~59,963 |
 | This is only the beginning | 20.00% | ~46,125 |
-| Knowledge is power | 13.00% | ~29,981 |
-| Galvanic Rifle | 10.00% | ~23,062 |
-| Radium Ready | 10.00% | ~23,062 |
+| Knowledge is power | 13.00% | ~29,982 |
+| Galvanic Rifle | 10.00% | ~23,063 |
+| Radium Ready | 10.00% | ~23,063 |
 | Power Ranger | 9.00% | ~20,756 |
 | Taser Goad | 9.00% | ~20,756 |
 | Half a cog | 9.00% | ~20,756 |
@@ -19,13 +19,13 @@ Rating: 4.43 (Ranked 710)
 | One with the Machine | 4.00% | ~9,225 |
 | Legio Cybernetica | 3.00% | ~6,919 |
 | Fleshy Disposal | 3.00% | ~6,919 |
-| Battle Servitor | 2.00% | ~4,612 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,612 |
-| Impatient destruction | 2.00% | ~4,612 |
-| Vivisected Vizier | 2.00% | ~4,612 |
-| Architect Abortion | 2.00% | ~4,612 |
+| Battle Servitor | 2.00% | ~4,613 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,613 |
+| Impatient destruction | 2.00% | ~4,613 |
+| Vivisected Vizier | 2.00% | ~4,613 |
+| Architect Abortion | 2.00% | ~4,613 |
 | Cohortus Maximus | 0.80% | ~1,845 |
-| Mother of Xenarites | 0.40% | ~922 |
+| Mother of Xenarites | 0.40% | ~923 |
 | False God | 0.30% | ~692 |
 | Hard | 0.20% | ~461 |
 | Sensory overload | 0.20% | ~461 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 710)
 | Perma-live | 0.10% | ~231 |
 | Purge the Heretek | 0.10% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,625 (Ranked 74)  
+Progressed: 230,627 (Ranked 74)  
 Completed: 5 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,21 +291,21 @@ Completed: 5 (0.00%) (Ranked 389)
 | 2023-12-24 | 230,358 | 5 |
 | 2023-12-25 | 230,456 | 5 |
 | 2023-12-26 | 230,560 | 5 |
-| 2023-12-27 | 230,625 | 5 |
+| 2023-12-27 | 230,627 | 5 |
 ## Awards
 Max (Highly Recommended): 291  (Ranked 261)  
-Sum: 2,217 (Ranked 209)  
+Sum: 2,220 (Ranked 209)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 291 |
 | This game has Quickly Understood Controls | 286 |
 | This game is Extremely Fun | 282 |
-| This game has Amazing Characters | 273 |
+| This game has Amazing Characters | 275 |
 | This game has Diverse Characters | 269 |
 | This game has Amazing Storytelling | 252 |
 | This game is Relaxing | 245 |
-| This game has Unique Visuals | 217 |
+| This game has Unique Visuals | 218 |
 | This game has a Creative Community | 102 |
 | This game is Great for Beginners | 63 |
 ## Ratings History
@@ -421,3 +421,4 @@ Diff (max vs sum): 52
 | 2023-12-18 | 4.43 | 291 | 2,214 |
 | 2023-12-25 | 4.43 | 291 | 2,216 |
 | 2023-12-26 | 4.43 | 291 | 2,217 |
+| 2023-12-27 | 4.43 | 291 | 2,220 |

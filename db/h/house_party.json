@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6929,
+  "EOS_Progressed": 6931,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7747,6 +7747,11 @@
       "Time": "2023-12-27T18:09:28.537928+00:00",
       "NumProgressed": 6929,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-27T20:08:03.8867597+00:00",
+      "NumProgressed": 6931,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -8126,7 +8131,7 @@
       "Name": "Smooth Operator: Madison",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "SmellBlood",
@@ -8309,21 +8314,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3968,
+      "Progressed": 3970,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6929,
+      "Progressed": 6931,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-12-27T19:09:00.8998636+00:00",
+  "LastChanged_Achievements": "2023-12-27T20:08:03.8867595+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:06.2348386+00:00",
-  "LastUpdate_Ratings": "2023-12-27T18:59:40.1308164+00:00",
-  "LastUpdate_Achievements": "2023-12-27T19:09:00.8999397+00:00"
+  "LastUpdate_Ratings": "2023-12-27T19:58:42.2280614+00:00",
+  "LastUpdate_Achievements": "2023-12-27T20:08:03.8868702+00:00"
 }

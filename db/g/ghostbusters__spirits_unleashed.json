@@ -3855,9 +3855,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32808,
+  "EOS_Progressed": 32811,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 337,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -23685,6 +23685,11 @@
       "Time": "2023-12-27T19:08:58.7923884+00:00",
       "NumProgressed": 32808,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-27T20:08:02.2723831+00:00",
+      "NumProgressed": 32811,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 51,
@@ -23744,7 +23749,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "Collector",
@@ -23784,7 +23789,7 @@
       "Name": "Discovery",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1968
+      "UsersEstimate": 1969
     },
     {
       "ID": "Dont_Need_These",
@@ -23832,7 +23837,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "GB_In_Training",
@@ -23984,7 +23989,7 @@
       "Name": "Solo Capture",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1968
+      "UsersEstimate": 1969
     },
     {
       "ID": "Stunner",
@@ -24024,7 +24029,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 1968
+      "UsersEstimate": 1969
     },
     {
       "ID": "Teamwork",
@@ -24032,7 +24037,7 @@
       "Name": "Teamwork",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "Terrifying",
@@ -24080,7 +24085,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "Welcome_Crew",
@@ -24103,7 +24108,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32808,
+      "Progressed": 32811,
       "Completed": 70
     }
   ],
@@ -24111,8 +24116,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-27T19:00:27.43553+00:00",
-  "LastChanged_Achievements": "2023-12-27T19:08:58.7923878+00:00",
+  "LastChanged_Achievements": "2023-12-27T20:08:02.2723829+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.5748987+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:00:27.4355307+00:00",
-  "LastUpdate_Achievements": "2023-12-27T19:08:58.7925106+00:00"
+  "LastUpdate_Ratings": "2023-12-27T19:59:18.6165267+00:00",
+  "LastUpdate_Achievements": "2023-12-27T20:08:02.272523+00:00"
 }

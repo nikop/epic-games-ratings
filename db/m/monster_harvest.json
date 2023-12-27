@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 103,
   "Ranking_EOS_NewPlayers": 379,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-11-03T14:00:00+00:00",
     "PcReleaseDate": "2021-08-31T13:00:00+00:00",
@@ -544,9 +544,9 @@
       "ID": "BLUE_SLIME_GOO",
       "SetID": "ca3djk0",
       "Name": "Blue Goo",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 96
+      "UsersEstimate": 99
     },
     {
       "ID": "FURNITURE_IN_THE_FOREST",
@@ -633,8 +633,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00",
   "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
-  "LastChanged_Achievements": "2023-12-27T19:10:15.8598412+00:00",
+  "LastChanged_Achievements": "2023-12-27T20:09:02.4925774+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:47.3939078+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:03:33.8469501+00:00",
-  "LastUpdate_Achievements": "2023-12-27T19:10:15.8598499+00:00"
+  "LastUpdate_Ratings": "2023-12-27T20:02:37.1106049+00:00",
+  "LastUpdate_Achievements": "2023-12-27T20:09:02.4925923+00:00"
 }

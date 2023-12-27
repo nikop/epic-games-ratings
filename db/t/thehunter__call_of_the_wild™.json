@@ -3,12 +3,12 @@
   "Name": "theHunter: Call of the Wild\u2122",
   "ProductSlug": "thehunter-call-of-the-wild",
   "Ranking_Rating": 487,
-  "Ranking_Popularity": 80,
+  "Ranking_Popularity": 79,
   "Ranking_PopularitySum": 47,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 564,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-11-25T16:00:00+00:00",
     "PcReleaseDate": "2017-02-16T15:00:00+00:00",
@@ -11401,11 +11401,17 @@
       "Rating": 4.57,
       "NumberOfAwards": 29586,
       "NumberOfAwardsMax": 4733
+    },
+    {
+      "Time": "2023-12-27T19:57:08.3967698+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 29615,
+      "NumberOfAwardsMax": 4752
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29586,
-  "NumberOfAwardsMax": 4733,
+  "NumberOfAwards": 29615,
+  "NumberOfAwardsMax": 4752,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -11430,7 +11436,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 3512
+      "Count": 3516
     },
     {
       "Text": "This game is Extremely Fun",
@@ -11442,7 +11448,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3705
+      "Count": 3711
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -11466,7 +11472,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4733
+      "Count": 4752
     }
   ],
   "EOS_Progressed": 0,
@@ -11480,8 +11486,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:14.0161067+00:00",
-  "LastChanged": "2023-12-27T18:57:32.7628991+00:00",
+  "LastChanged": "2023-12-27T19:57:08.3967697+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:00.655237+00:00",
-  "LastUpdate_Ratings": "2023-12-27T18:57:32.7628997+00:00",
-  "LastUpdate_Achievements": "2023-12-27T19:05:12.4090367+00:00"
+  "LastUpdate_Ratings": "2023-12-27T19:57:08.3967701+00:00",
+  "LastUpdate_Achievements": "2023-12-27T20:03:50.9273724+00:00"
 }

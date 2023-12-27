@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 429,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -1149,9 +1149,9 @@
       "ID": "Achievement_Crafty",
       "SetID": "c01p6e5",
       "Name": "Crafty",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 380
+      "UsersEstimate": 388
     },
     {
       "ID": "Achievement_DontPanic",
@@ -1205,9 +1205,9 @@
       "ID": "Achievement_FirstOfApril",
       "SetID": "c01p6e5",
       "Name": "First of April",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 63
     },
     {
       "ID": "Achievement_FixItFelix",
@@ -1446,8 +1446,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-12-27T19:06:27.0883894+00:00",
+  "LastChanged_Achievements": "2023-12-27T20:04:47.5266391+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:03.241152+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:01:32.1502232+00:00",
-  "LastUpdate_Achievements": "2023-12-27T19:06:27.0884244+00:00"
+  "LastUpdate_Ratings": "2023-12-27T20:00:04.7945681+00:00",
+  "LastUpdate_Achievements": "2023-12-27T20:04:47.5266722+00:00"
 }

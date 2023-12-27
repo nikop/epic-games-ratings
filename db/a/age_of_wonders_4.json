@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -615,9 +615,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6345,
+  "EOS_Progressed": 6349,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 439,
+  "EOS_NewPlayers": 442,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9405,6 +9405,11 @@
       "Time": "2023-12-27T19:05:29.0132729+00:00",
       "NumProgressed": 6345,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-27T20:04:03.7730623+00:00",
+      "NumProgressed": 6349,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9502,9 +9507,9 @@
       "ID": "2",
       "SetID": "3aa2279",
       "Name": "Enchanted Archipelago",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 190
     },
     {
       "ID": "20",
@@ -9544,7 +9549,7 @@
       "Name": "Secret Technique",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "25",
@@ -9895,13 +9900,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6345,
+      "Progressed": 6349,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6345,
+      "Progressed": 6349,
       "Completed": 7
     }
   ],
@@ -9909,8 +9914,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-27T18:02:05.6107794+00:00",
-  "LastChanged_Achievements": "2023-12-27T19:05:29.013272+00:00",
+  "LastChanged_Achievements": "2023-12-27T20:04:03.7730619+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:01:53.2819973+00:00",
-  "LastUpdate_Achievements": "2023-12-27T19:05:29.0133871+00:00"
+  "LastUpdate_Ratings": "2023-12-27T20:00:19.6533974+00:00",
+  "LastUpdate_Achievements": "2023-12-27T20:04:03.773152+00:00"
 }

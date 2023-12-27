@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1907,
+  "EOS_Progressed": 1908,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -4654,6 +4654,11 @@
       "Time": "2023-12-27T19:10:05.5798987+00:00",
       "NumProgressed": 1907,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-27T20:08:54.4625109+00:00",
+      "NumProgressed": 1908,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4713,7 +4718,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "Defense_Common",
@@ -4745,7 +4750,7 @@
       "Name": "E1M1",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "Everyone_is_here",
@@ -4777,7 +4782,7 @@
       "Name": "Grenadier",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "Hard_Serpent",
@@ -4801,7 +4806,7 @@
       "Name": "Payback Time",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "How",
@@ -4815,9 +4820,9 @@
       "ID": "Its_very_spicy",
       "SetID": "85nb4h3",
       "Name": "Spice It Up",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 611
     },
     {
       "ID": "KillAllM2",
@@ -4881,7 +4886,7 @@
       "Name": "War Never Changes",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "We_were_not_here",
@@ -4904,15 +4909,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1907,
+      "Progressed": 1908,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-12-27T19:10:05.5798982+00:00",
+  "LastChanged_Achievements": "2023-12-27T20:08:54.4625106+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:45.0819227+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:03:32.4054246+00:00",
-  "LastUpdate_Achievements": "2023-12-27T19:10:05.5799354+00:00"
+  "LastUpdate_Ratings": "2023-12-27T20:02:36.0693938+00:00",
+  "LastUpdate_Achievements": "2023-12-27T20:08:54.4625485+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "skul-the-hero-slayer",
   "Ranking_Rating": 161,
   "Ranking_Popularity": 329,
-  "Ranking_PopularitySum": 269,
+  "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -1297,7 +1297,7 @@
   ],
   "EOS_Progressed": 12766,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 1291,
+  "EOS_NewPlayers": 1289,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -7984,8 +7984,8 @@
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-12-26T19:02:32.7110984+00:00",
-  "LastChanged_Achievements": "2023-12-27T19:09:31.8781166+00:00",
+  "LastChanged_Achievements": "2023-12-27T20:08:27.8724357+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:50.2570234+00:00",
-  "LastUpdate_Ratings": "2023-12-27T19:03:09.5479814+00:00",
-  "LastUpdate_Achievements": "2023-12-27T19:09:31.8781517+00:00"
+  "LastUpdate_Ratings": "2023-12-27T20:00:40.3731905+00:00",
+  "LastUpdate_Achievements": "2023-12-27T20:08:27.8724691+00:00"
 }
