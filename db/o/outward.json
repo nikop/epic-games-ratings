@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4301,
+  "EOS_Progressed": 4302,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -7176,6 +7176,11 @@
       "Time": "2023-12-28T11:04:03.664209+00:00",
       "NumProgressed": 4301,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-28T12:05:07.7255327+00:00",
+      "NumProgressed": 4302,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7227,7 +7232,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1763
+      "UsersEstimate": 1764
     },
     {
       "ID": "CrowdPleaser",
@@ -7251,7 +7256,7 @@
       "Name": "Eureka",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1290
+      "UsersEstimate": 1291
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -7371,7 +7376,7 @@
       "Name": "Ready for Summer",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2107
+      "UsersEstimate": 2108
     },
     {
       "ID": "ReadyforWinter_42",
@@ -7411,7 +7416,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -7522,15 +7527,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4301,
+      "Progressed": 4302,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-28T11:04:03.6642085+00:00",
+  "LastChanged_Achievements": "2023-12-28T12:05:07.7255322+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.9488093+00:00",
-  "LastUpdate_Ratings": "2023-12-28T11:03:04.5201434+00:00",
-  "LastUpdate_Achievements": "2023-12-28T11:04:03.6642697+00:00"
+  "LastUpdate_Ratings": "2023-12-28T12:03:41.0493753+00:00",
+  "LastUpdate_Achievements": "2023-12-28T12:05:07.7255925+00:00"
 }

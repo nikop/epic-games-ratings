@@ -246,9 +246,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 1337,
+  "EOS_Progressed": 1338,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1911,6 +1911,11 @@
       "Time": "2023-12-28T09:10:40.3433188+00:00",
       "NumProgressed": 1337,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T12:10:48.6455047+00:00",
+      "NumProgressed": 1338,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -1938,7 +1943,7 @@
       "Name": "Atomic Soda",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ATOM_QUIT",
@@ -2074,7 +2079,7 @@
       "Name": "Mysterious Knife",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "OLD_FRIEND",
@@ -2122,7 +2127,7 @@
       "Name": "Shadow over Trudograd",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "SICK_FREAK",
@@ -2162,7 +2167,7 @@
       "Name": "Walking Fortress",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "WELCOME_TO_TRUDOGRAD",
@@ -2170,14 +2175,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1337,
+      "Progressed": 1338,
       "Completed": 0
     }
   ],
@@ -2185,8 +2190,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-11-22T02:59:27.1616324+00:00",
-  "LastChanged_Achievements": "2023-12-28T11:09:41.2384519+00:00",
+  "LastChanged_Achievements": "2023-12-28T12:10:48.6455043+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:18.8915743+00:00",
-  "LastUpdate_Ratings": "2023-12-28T10:58:57.4698+00:00",
-  "LastUpdate_Achievements": "2023-12-28T11:09:41.2384786+00:00"
+  "LastUpdate_Ratings": "2023-12-28T12:00:22.9723876+00:00",
+  "LastUpdate_Achievements": "2023-12-28T12:10:48.6455329+00:00"
 }

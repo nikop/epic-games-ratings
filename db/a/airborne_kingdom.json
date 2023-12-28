@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7688,
+  "EOS_Progressed": 7689,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -6553,6 +6553,11 @@
       "Time": "2023-12-27T16:07:29.803038+00:00",
       "NumProgressed": 7688,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-28T12:08:04.0889493+00:00",
+      "NumProgressed": 7689,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -6612,7 +6617,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1692
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -6652,7 +6657,7 @@
       "Name": "A Learned Scholar",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "AK_ON_TOWN",
@@ -6676,7 +6681,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -6716,7 +6721,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4305
+      "UsersEstimate": 4306
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -6764,7 +6769,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 3075
+      "UsersEstimate": 3076
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -6779,15 +6784,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7688,
+      "Progressed": 7689,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-12-28T11:06:03.3340622+00:00",
+  "LastChanged_Achievements": "2023-12-28T12:08:04.0889488+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:21.5210526+00:00",
-  "LastUpdate_Ratings": "2023-12-28T11:03:27.8466232+00:00",
-  "LastUpdate_Achievements": "2023-12-28T11:06:03.3341146+00:00"
+  "LastUpdate_Ratings": "2023-12-28T12:04:12.6110256+00:00",
+  "LastUpdate_Achievements": "2023-12-28T12:08:04.0889953+00:00"
 }

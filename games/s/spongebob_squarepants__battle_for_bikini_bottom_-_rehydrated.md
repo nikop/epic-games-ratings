@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | 100% SpongeBob | 0.70% | ~3 |
 | Super Ultra Mega Spatula Seeker | 0.70% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 448 (Ranked 347)  
+Progressed: 448 (Ranked 348)  
 Completed: 3 (0.67%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |

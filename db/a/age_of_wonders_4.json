@@ -621,9 +621,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6383,
+  "EOS_Progressed": 6384,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 463,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9486,6 +9486,11 @@
       "Time": "2023-12-28T11:04:46.5302179+00:00",
       "NumProgressed": 6383,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-28T12:06:11.1939037+00:00",
+      "NumProgressed": 6384,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9545,7 +9550,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "16",
@@ -9585,7 +9590,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "20",
@@ -9609,7 +9614,7 @@
       "Name": "Realm Estate",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "23",
@@ -9617,7 +9622,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "24",
@@ -9633,7 +9638,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "26",
@@ -9649,7 +9654,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "28",
@@ -9697,7 +9702,7 @@
       "Name": "My Final Form",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "33",
@@ -9753,7 +9758,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "4",
@@ -9897,7 +9902,7 @@
       "Name": "Freed Lands of Manuhari",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "52",
@@ -9976,13 +9981,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6383,
+      "Progressed": 6384,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6383,
+      "Progressed": 6384,
       "Completed": 7
     }
   ],
@@ -9990,8 +9995,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-27T21:02:05.3548504+00:00",
-  "LastChanged_Achievements": "2023-12-28T11:04:46.5302175+00:00",
+  "LastChanged_Achievements": "2023-12-28T12:06:11.1939032+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-28T10:00:27.0792519+00:00",
-  "LastUpdate_Achievements": "2023-12-28T11:04:46.5302887+00:00"
+  "LastUpdate_Ratings": "2023-12-28T11:57:16.8941098+00:00",
+  "LastUpdate_Achievements": "2023-12-28T12:06:11.1940143+00:00"
 }

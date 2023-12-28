@@ -6,14 +6,14 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~88,253 |
+| Sowwy! | 36.00% | ~88,254 |
 | Alt+F4 | 10.00% | ~24,515 |
-| Where's that freaking Dwarf? | 9.00% | ~22,063 |
+| Where's that freaking Dwarf? | 9.00% | ~22,064 |
 | Déjà vu | 7.00% | ~17,160 |
 | Sock! SOCK! | 6.00% | ~14,709 |
-| A beer, two curses, three companions | 5.00% | ~12,257 |
-| GG EZ | 5.00% | ~12,257 |
-| Speedrun | 5.00% | ~12,257 |
+| A beer, two curses, three companions | 5.00% | ~12,258 |
+| GG EZ | 5.00% | ~12,258 |
+| Speedrun | 5.00% | ~12,258 |
 | DM intervention | 4.00% | ~9,806 |
 | Fireproof Wizardess | 4.00% | ~9,806 |
 | Livin' in a dwarven paradise | 3.00% | ~7,354 |
@@ -39,12 +39,12 @@ Number of Ratings: 118  (23.09.2022)
 | The Ranger of Chaos | 2.00% | ~4,903 |
 | I am the night | 2.00% | ~4,903 |
 | Thieves' Guild Accreditation | 2.00% | ~4,903 |
-| %#*!$*! | 1.00% | ~2,451 |
-| Dead for good | 1.00% | ~2,451 |
-| Gargantua | 1.00% | ~2,451 |
-| In Navalu's footsteps | 1.00% | ~2,451 |
-| Lust and Debauchery | 1.00% | ~2,451 |
-| Material Girl | 1.00% | ~2,451 |
+| %#*!$*! | 1.00% | ~2,452 |
+| Dead for good | 1.00% | ~2,452 |
+| Gargantua | 1.00% | ~2,452 |
+| In Navalu's footsteps | 1.00% | ~2,452 |
+| Lust and Debauchery | 1.00% | ~2,452 |
+| Material Girl | 1.00% | ~2,452 |
 | Lëgal Legend | 0.90% | ~2,206 |
 | We come in peace | 0.80% | ~1,961 |
 | Holistic Adventuring Party | 0.70% | ~1,716 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~245 |
 | Dwarf Candy | 0.10% | ~245 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,148 (Ranked 68)  
+Progressed: 245,150 (Ranked 68)  
 Completed: 8 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 8 (0.00%) (Ranked 389)
 | 2023-12-25 | 244,664 | 8 |
 | 2023-12-26 | 244,894 | 8 |
 | 2023-12-27 | 245,077 | 8 |
-| 2023-12-28 | 245,148 | 8 |
+| 2023-12-28 | 245,150 | 8 |
 ## Awards
 Max (Character Customization): 258  (Ranked 277)  
 Sum: 540 (Ranked 328)  

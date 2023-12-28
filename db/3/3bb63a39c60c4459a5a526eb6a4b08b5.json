@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 304,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1048,
+  "EOS_Progressed": 1049,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -4054,6 +4054,11 @@
       "Time": "2023-12-28T05:11:14.1782806+00:00",
       "NumProgressed": 1048,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T12:11:34.7659811+00:00",
+      "NumProgressed": 1049,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -4081,7 +4086,7 @@
       "Name": "Basic Controls",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "BigPlane",
@@ -4089,7 +4094,7 @@
       "Name": "Expensive Plane",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "BudgetFlight",
@@ -4097,7 +4102,7 @@
       "Name": "Budget Flight",
       "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "Calculated",
@@ -4337,7 +4342,7 @@
       "Name": "Resource Economy",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "Restructuring",
@@ -4400,14 +4405,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1048,
+      "Progressed": 1049,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-12-28T11:10:14.455994+00:00",
+  "LastChanged_Achievements": "2023-12-28T12:11:34.7659807+00:00",
   "LastUpdate_AppInfo": "2023-12-26T20:57:07.3165629+00:00",
-  "LastUpdate_Ratings": "2023-12-28T10:57:06.628856+00:00",
-  "LastUpdate_Achievements": "2023-12-28T11:10:14.4560459+00:00"
+  "LastUpdate_Ratings": "2023-12-28T11:57:25.9644927+00:00",
+  "LastUpdate_Achievements": "2023-12-28T12:11:34.7660294+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 877,
+  "Ranking_Rating": 876,
   "Ranking_Popularity": 343,
   "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -250,7 +250,7 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 42962,
+  "EOS_Progressed": 42964,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 524,
   "EOS_NewCompleters": 0,
@@ -27600,6 +27600,11 @@
       "Time": "2023-12-28T11:04:58.9981825+00:00",
       "NumProgressed": 42962,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-28T12:06:29.7227624+00:00",
+      "NumProgressed": 42964,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -27611,7 +27616,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6444
+      "UsersEstimate": 6445
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -27755,7 +27760,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1718
+      "UsersEstimate": 1719
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -27842,7 +27847,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 42962,
+      "Progressed": 42964,
       "Completed": 30
     }
   ],
@@ -27850,8 +27855,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-18T19:58:40.3413682+00:00",
-  "LastChanged_Achievements": "2023-12-28T11:04:58.9981819+00:00",
+  "LastChanged_Achievements": "2023-12-28T12:06:29.722762+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:31.7001832+00:00",
-  "LastUpdate_Ratings": "2023-12-28T11:00:16.8242587+00:00",
-  "LastUpdate_Achievements": "2023-12-28T11:04:58.998349+00:00"
+  "LastUpdate_Ratings": "2023-12-28T12:02:22.5915949+00:00",
+  "LastUpdate_Achievements": "2023-12-28T12:06:29.722875+00:00"
 }

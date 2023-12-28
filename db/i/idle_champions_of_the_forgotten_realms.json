@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewPlayers": 52,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9121,11 +9121,11 @@
       "Count": 3602
     }
   ],
-  "EOS_Progressed": 245905,
-  "EOS_Completed": 2569,
-  "EOS_NewPlayers": 3349,
+  "EOS_Progressed": 245933,
+  "EOS_Completed": 2570,
+  "EOS_NewPlayers": 3364,
   "EOS_NewCompleters": 18,
-  "EOS_Completed_Percentage": 1.04,
+  "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:41.9871817+00:00",
@@ -37611,6 +37611,11 @@
       "Time": "2023-12-28T11:10:22.2752111+00:00",
       "NumProgressed": 245905,
       "NumCompleted": 2569
+    },
+    {
+      "Time": "2023-12-28T12:11:44.4667103+00:00",
+      "NumProgressed": 245933,
+      "NumCompleted": 2570
     }
   ],
   "TotalAchievements": 546,
@@ -37622,7 +37627,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4918
+      "UsersEstimate": 4919
     },
     {
       "ID": "objective_completed_10",
@@ -37990,7 +37995,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1475
+      "UsersEstimate": 1476
     },
     {
       "ID": "objective_completed_110",
@@ -40766,7 +40771,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1475
+      "UsersEstimate": 1476
     },
     {
       "ID": "objective_completed_70",
@@ -41972,9 +41977,9 @@
       "ID": "objective_completed_860",
       "SetID": "415jc5c",
       "Name": "Don\u0027t Lose Your Head",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 637
+      "UsersEstimate": 849
     },
     {
       "ID": "objective_completed_865",
@@ -41989,21 +41994,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 212179,
-      "Completed": 4073
+      "Progressed": 212207,
+      "Completed": 4074
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 245905,
-      "Completed": 2569
+      "Progressed": 245933,
+      "Completed": 2570
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-28T06:58:45.5766271+00:00",
-  "LastChanged_Achievements": "2023-12-28T11:10:22.2752106+00:00",
+  "LastChanged_Achievements": "2023-12-28T12:11:44.4667098+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-28T10:58:48.7722741+00:00",
-  "LastUpdate_Achievements": "2023-12-28T11:10:22.2776641+00:00"
+  "LastUpdate_Ratings": "2023-12-28T12:00:10.1321366+00:00",
+  "LastUpdate_Achievements": "2023-12-28T12:11:44.4690731+00:00"
 }

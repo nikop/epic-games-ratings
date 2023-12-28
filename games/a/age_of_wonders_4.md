@@ -6,9 +6,9 @@ Rating: 4.63 (Ranked 353)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 11.00% | ~702 |
-| Realm Estate | 9.00% | ~574 |
-| A Wonderful Discovery | 9.00% | ~574 |
-| Walls Cannot Stop Us | 9.00% | ~574 |
+| Realm Estate | 9.00% | ~575 |
+| A Wonderful Discovery | 9.00% | ~575 |
+| Walls Cannot Stop Us | 9.00% | ~575 |
 | From Friends to Family | 7.00% | ~447 |
 | Bone Peddler | 6.00% | ~383 |
 | Magical Synergy | 6.00% | ~383 |
@@ -20,12 +20,12 @@ Rating: 4.63 (Ranked 353)
 | Valley of Wonders | 4.00% | ~255 |
 | In a Liege of Your Own | 4.00% | ~255 |
 | Intimidation Tactics | 4.00% | ~255 |
-| Return of the Wizard King | 3.00% | ~191 |
-| Enchanted Archipelago | 3.00% | ~191 |
-| Digging for Treasure | 3.00% | ~191 |
-| My Final Form | 3.00% | ~191 |
-| Impenetrable Fortress | 3.00% | ~191 |
-| Freed Lands of Manuhari | 3.00% | ~191 |
+| Return of the Wizard King | 3.00% | ~192 |
+| Enchanted Archipelago | 3.00% | ~192 |
+| Digging for Treasure | 3.00% | ~192 |
+| My Final Form | 3.00% | ~192 |
+| Impenetrable Fortress | 3.00% | ~192 |
+| Freed Lands of Manuhari | 3.00% | ~192 |
 | Crimson Caldera | 2.00% | ~128 |
 | Preparation Is Everything | 2.00% | ~128 |
 | Fiery Friend | 2.00% | ~128 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 353)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,383 (Ranked 194)  
+Progressed: 6,384 (Ranked 194)  
 Completed: 7 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 7 (0.11%) (Ranked 304)
 | 2023-12-25 | 6,213 | 7 |
 | 2023-12-26 | 6,285 | 7 |
 | 2023-12-27 | 6,359 | 7 |
-| 2023-12-28 | 6,383 | 7 |
+| 2023-12-28 | 6,384 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 481)  
 Sum: 140 (Ranked 439)  

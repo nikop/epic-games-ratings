@@ -14,6 +14,7 @@ Rating: 4.56 (Ranked 498)
 | Collect Monster Parts | 0.80% | ~18 |
 | Ranged Weapon | 0.80% | ~18 |
 | Defeat 25 Grubs | 0.80% | ~18 |
+| Rescue Redgi's Brothers | 0.80% | ~18 |
 | Collect Gold | 0.70% | ~16 |
 | Collect Iron Ore | 0.70% | ~16 |
 | End of the Mozis | 0.70% | ~16 |
@@ -22,22 +23,21 @@ Rating: 4.56 (Ranked 498)
 | Kitchen Ready To Cook | 0.70% | ~16 |
 | Smithy Ready to Craft | 0.70% | ~16 |
 | Throne Room Fit For A King | 0.70% | ~16 |
-| Rescue Redgi's Brothers | 0.70% | ~16 |
 | Return Power To The Depths | 0.70% | ~16 |
 | Defeat Croakhis Khan | 0.70% | ~6 |
 | I Remember My First Beer | 0.70% | ~6 |
 | Complete Elder Faction | 0.60% | ~14 |
 | Defeat Ratnor Rodentson | 0.60% | ~14 |
+| Complete the Chefs Book | 0.50% | ~11 |
 | Defeat the Grub Buster | 0.50% | ~5 |
-| Complete the Chefs Book | 0.40% | ~9 |
+| Return the Statues | 0.40% | ~9 |
 | Complete Ranger Faction | 0.40% | ~9 |
 | Defeat Avor Warden of the Northern Wastes | 0.40% | ~9 |
+| Defeat Rattus Augustail | 0.40% | ~9 |
 | Fix the Travellers Wagon | 0.40% | ~9 |
 | Discover the mystery of the Kings Chambers | 0.40% | ~9 |
 | Defeat the Stalker Queen | 0.40% | ~4 |
-| Return the Statues | 0.30% | ~7 |
 | Complete Arena Faction | 0.30% | ~7 |
-| Defeat Rattus Augustail | 0.30% | ~7 |
 | Complete Redgi's Armory | 0.20% | ~5 |
 | King of Kings | 0.20% | ~5 |
 | A new Warchief rises | 0.00% | ~0 |

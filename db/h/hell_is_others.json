@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1387,9 +1387,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 259875,
+  "EOS_Progressed": 259879,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 300,
+  "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25472,6 +25472,11 @@
       "Time": "2023-12-28T11:08:31.1113271+00:00",
       "NumProgressed": 259875,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T12:09:06.0154874+00:00",
+      "NumProgressed": 259879,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -25483,7 +25488,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18191
+      "UsersEstimate": 18192
     },
     {
       "ID": "Act2",
@@ -25531,7 +25536,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80561
+      "UsersEstimate": 80562
     },
     {
       "ID": "BackHomeNTimes",
@@ -25683,7 +25688,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15592
+      "UsersEstimate": 15593
     },
     {
       "ID": "GrowPlants2",
@@ -25739,7 +25744,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15592
+      "UsersEstimate": 15593
     },
     {
       "ID": "KillOtherWithKatana",
@@ -25771,7 +25776,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59771
+      "UsersEstimate": 59772
     },
     {
       "ID": "KillOthers2",
@@ -25930,7 +25935,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 259875,
+      "Progressed": 259879,
       "Completed": 3
     }
   ],
@@ -25938,8 +25943,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-28T09:00:28.0246418+00:00",
-  "LastChanged_Achievements": "2023-12-28T11:08:31.1113267+00:00",
+  "LastChanged_Achievements": "2023-12-28T12:09:06.0154869+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:00.5138284+00:00",
-  "LastUpdate_Ratings": "2023-12-28T10:59:21.3441329+00:00",
-  "LastUpdate_Achievements": "2023-12-28T11:08:31.1114602+00:00"
+  "LastUpdate_Ratings": "2023-12-28T12:00:58.5023927+00:00",
+  "LastUpdate_Achievements": "2023-12-28T12:09:06.0156654+00:00"
 }

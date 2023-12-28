@@ -5,34 +5,34 @@ Rating: 4.42 (Ranked 727)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 76.00% | ~1,939 |
-| A new Journey | 75.00% | ~1,913 |
+| Country Bumpkin | 76.00% | ~1,940 |
+| A new Journey | 75.00% | ~1,914 |
 | From X to Y | 74.00% | ~1,888 |
 | Departure | 74.00% | ~1,888 |
-| Way of Iron | 71.00% | ~1,811 |
+| Way of Iron | 71.00% | ~1,812 |
 | Mystery Tour | 70.00% | ~1,786 |
 | We brake for nobody | 68.00% | ~1,735 |
 | Brainstorm | 66.00% | ~1,684 |
 | Mind the Gap | 66.00% | ~1,684 |
 | Travel Company | 66.00% | ~1,684 |
-| All around the World | 63.00% | ~1,607 |
-| Right through the middle | 59.00% | ~1,505 |
+| All around the World | 63.00% | ~1,608 |
+| Right through the middle | 59.00% | ~1,506 |
 | Facility Manager | 54.00% | ~1,378 |
 | Poor Devil | 54.00% | ~1,378 |
-| Producer | 51.00% | ~1,301 |
-| Apprentice | 42.00% | ~1,071 |
-| Bridge Builder | 42.00% | ~1,071 |
-| Access granted | 36.00% | ~918 |
-| Going once, going twice, sold | 36.00% | ~918 |
+| Producer | 51.00% | ~1,302 |
+| Apprentice | 42.00% | ~1,072 |
+| Bridge Builder | 42.00% | ~1,072 |
+| Access granted | 36.00% | ~919 |
+| Going once, going twice, sold | 36.00% | ~919 |
 | Bull and bear | 35.00% | ~893 |
-| Stoker | 34.00% | ~867 |
+| Stoker | 34.00% | ~868 |
 | Full Steam ahead | 33.00% | ~842 |
 | All mine | 31.00% | ~791 |
 | Mole | 31.00% | ~791 |
 | Financial Shark | 31.00% | ~791 |
 | Socializer | 29.00% | ~740 |
-| General Manager | 28.00% | ~714 |
-| Country Life | 28.00% | ~714 |
+| General Manager | 28.00% | ~715 |
+| Country Life | 28.00% | ~715 |
 | Hostile Takeover | 25.00% | ~638 |
 | Seven at one stroke | 24.00% | ~612 |
 | Trailblazer | 22.00% | ~561 |
@@ -61,7 +61,7 @@ Rating: 4.42 (Ranked 727)
 | United States | 0.60% | ~15 |
 | Together we stand | 0.50% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,551 (Ranked 228)  
+Progressed: 2,552 (Ranked 228)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 2,523 | 0 |
 | 2023-12-26 | 2,531 | 0 |
 | 2023-12-27 | 2,549 | 0 |
-| 2023-12-28 | 2,551 | 0 |
+| 2023-12-28 | 2,552 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

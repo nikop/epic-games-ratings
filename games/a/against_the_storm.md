@@ -6,10 +6,10 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 7.00% | ~1,364 |
-| Overgrown Library | 7.00% | ~1,364 |
-| Taking Action | 6.00% | ~1,169 |
-| Petrified Necropolis | 6.00% | ~1,169 |
+| Abandoned Settlement | 7.00% | ~1,365 |
+| Overgrown Library | 7.00% | ~1,365 |
+| Taking Action | 6.00% | ~1,170 |
+| Petrified Necropolis | 6.00% | ~1,170 |
 | First Real Expedition | 5.00% | ~975 |
 | The Marshlands | 5.00% | ~975 |
 | No Deaths | 5.00% | ~975 |
@@ -27,6 +27,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Homesick | 2.00% | ~390 |
 | Ruined Armory | 2.00% | ~390 |
 | Bandit Camp | 2.00% | ~390 |
+| Barren Lands | 2.00% | ~390 |
 | Ancient Battleground | 2.00% | ~390 |
 | Levitating Monument | 2.00% | ~390 |
 | Monastery of the Holy Flame | 2.00% | ~390 |
@@ -36,14 +37,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 2.00% | ~390 |
 | A Real Challenge | 2.00% | ~390 |
 | Trade Baron | 2.00% | ~390 |
+| Serving Ale | 1.00% | ~195 |
 | Against All Odds | 1.00% | ~195 |
-| Barren Lands | 1.00% | ~195 |
 | Sparkdew Crystals | 1.00% | ~195 |
 | Haunted Forest | 1.00% | ~195 |
 | Flooded Mines | 1.00% | ~195 |
 | Defying the Crown | 1.00% | ~195 |
 | Into the Forest | 1.00% | ~195 |
-| Serving Ale | 0.90% | ~175 |
 | Fishmen Ritual Site | 0.90% | ~175 |
 | Victory Through Prosperity | 0.90% | ~175 |
 | Efficient Explorer | 0.80% | ~156 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,491 (Ranked 150)  
+Progressed: 19,496 (Ranked 150)  
 Completed: 36 (0.18%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 36 (0.18%) (Ranked 278)
 | 2023-12-25 | 19,247 | 38 |
 | 2023-12-26 | 19,350 | 38 |
 | 2023-12-27 | 19,458 | 38 |
-| 2023-12-28 | 19,491 | 36 |
+| 2023-12-28 | 19,496 | 36 |
 ## Awards
 Max (Quickly Understood Controls): 445  (Ranked 228)  
 Sum: 3,298 (Ranked 176)  

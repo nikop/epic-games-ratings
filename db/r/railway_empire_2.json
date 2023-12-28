@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2551,
+  "EOS_Progressed": 2552,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7321,6 +7321,11 @@
       "Time": "2023-12-28T01:47:31.9002034+00:00",
       "NumProgressed": 2551,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T12:04:46.724025+00:00",
+      "NumProgressed": 2552,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -7332,7 +7337,7 @@
       "Name": "Apprentice",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "A01",
@@ -7340,7 +7345,7 @@
       "Name": "Stoker",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "A02",
@@ -7444,7 +7449,7 @@
       "Name": "A new Journey",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1913
+      "UsersEstimate": 1914
     },
     {
       "ID": "A15",
@@ -7476,7 +7481,7 @@
       "Name": "General Manager",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "A19",
@@ -7492,7 +7497,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "A21",
@@ -7500,7 +7505,7 @@
       "Name": "Country Life",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "A22",
@@ -7524,7 +7529,7 @@
       "Name": "Access granted",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "A25",
@@ -7564,7 +7569,7 @@
       "Name": "Going once, going twice, sold",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "A30",
@@ -7604,7 +7609,7 @@
       "Name": "Producer",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "A35",
@@ -7620,7 +7625,7 @@
       "Name": "Way of Iron",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1811
+      "UsersEstimate": 1812
     },
     {
       "ID": "A37",
@@ -7628,7 +7633,7 @@
       "Name": "All around the World",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 1607
+      "UsersEstimate": 1608
     },
     {
       "ID": "A38",
@@ -7660,7 +7665,7 @@
       "Name": "Right through the middle",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "A42",
@@ -7668,7 +7673,7 @@
       "Name": "Bridge Builder",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "A43",
@@ -7771,7 +7776,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2551,
+      "Progressed": 2552,
       "Completed": 0
     }
   ],
@@ -7779,8 +7784,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-27T17:00:03.776976+00:00",
-  "LastChanged_Achievements": "2023-12-28T11:03:49.0633872+00:00",
+  "LastChanged_Achievements": "2023-12-28T12:04:46.7240244+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:12.6153541+00:00",
-  "LastUpdate_Ratings": "2023-12-28T10:59:55.4152234+00:00",
-  "LastUpdate_Achievements": "2023-12-28T11:03:49.0635378+00:00"
+  "LastUpdate_Ratings": "2023-12-28T12:01:51.9498963+00:00",
+  "LastUpdate_Achievements": "2023-12-28T12:04:46.7240836+00:00"
 }

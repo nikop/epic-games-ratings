@@ -113,13 +113,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.60% | ~889 |
 | Unleashed Potential | 0.60% | ~889 |
 | JACKPOT!!! | 0.60% | ~889 |
-| Oligarch Monarch | 0.50% | ~740 |
-| Merchant Extraordinaire | 0.50% | ~740 |
+| Oligarch Monarch | 0.50% | ~741 |
+| Merchant Extraordinaire | 0.50% | ~741 |
 | To Hell and Back | 0.40% | ~592 |
 | Cash Only Please | 0.40% | ~592 |
 | Capitalist Camaraderie | 0.20% | ~296 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,096 (Ranked 83)  
+Progressed: 148,102 (Ranked 83)  
 Completed: 336 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -371,7 +371,7 @@ Completed: 336 (0.23%) (Ranked 267)
 | 2023-12-25 | 147,608 | 334 |
 | 2023-12-26 | 147,830 | 336 |
 | 2023-12-27 | 148,016 | 336 |
-| 2023-12-28 | 148,096 | 336 |
+| 2023-12-28 | 148,102 | 336 |
 ## Awards
 Max (Great for Beginners): 4,922  (Ranked 76)  
 Sum: 27,837 (Ranked 51)  

@@ -57,6 +57,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 0.20% | ~32 |
 | Beloved | 0.20% | ~32 |
 | Drillmaster | 0.20% | ~32 |
+| Conqueror | 0.20% | ~32 |
 | Great | 0.20% | ~32 |
 | Mighty | 0.20% | ~32 |
 | Valiant | 0.20% | ~32 |
@@ -119,7 +120,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.10% | ~16 |
 | Avenger | 0.10% | ~16 |
 | Capable | 0.10% | ~16 |
-| Conqueror | 0.10% | ~16 |
 | Destroyer | 0.10% | ~16 |
 | Devout | 0.10% | ~16 |
 | Holy | 0.10% | ~16 |

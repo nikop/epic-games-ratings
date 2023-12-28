@@ -6,13 +6,13 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Hunt | 2.00% | ~3,301 |
-| Taste | 2.00% | ~3,301 |
-| Imprint | 2.00% | ~3,301 |
-| Ravenous | 2.00% | ~3,301 |
+| The Hunt | 2.00% | ~3,302 |
+| Taste | 2.00% | ~3,302 |
+| Imprint | 2.00% | ~3,302 |
+| Ravenous | 2.00% | ~3,302 |
 | Weeper | 1.00% | ~1,651 |
-| Devourer | 0.80% | ~1,320 |
-| Silenced Whispers | 0.70% | ~1,155 |
+| Devourer | 0.80% | ~1,321 |
+| Silenced Whispers | 0.70% | ~1,156 |
 | Harmless | 0.60% | ~990 |
 | Yank | 0.60% | ~990 |
 | Sharpened Vessel | 0.60% | ~990 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~165 |
 | Intensify | 0.10% | ~165 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 165,061 (Ranked 81)  
+Progressed: 165,076 (Ranked 81)  
 Completed: 417 (0.25%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,10 +282,10 @@ Completed: 417 (0.25%) (Ranked 265)
 | 2023-12-25 | 164,530 | 406 |
 | 2023-12-26 | 164,741 | 413 |
 | 2023-12-27 | 164,964 | 416 |
-| 2023-12-28 | 165,061 | 417 |
+| 2023-12-28 | 165,076 | 417 |
 ## Awards
 Max (Unique Visuals): 59  (Ranked 425)  
-Sum: 426 (Ranked 343)  
+Sum: 428 (Ranked 343)  
 Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
@@ -293,7 +293,7 @@ Diff (max vs sum): 82
 | This game is Highly Recommended | 58 |
 | This game has Quickly Understood Controls | 58 |
 | This game has Amazing Storytelling | 58 |
-| This game has Challenging Combat | 53 |
+| This game has Challenging Combat | 55 |
 | This game is Extremely Fun | 52 |
 | This game has Amazing Characters | 49 |
 | This game has a Creative Community | 39 |
@@ -468,3 +468,4 @@ Diff (max vs sum): 82
 | 2023-12-23 | 4.59 | - | 59 | 419 |
 | 2023-12-24 | 4.59 | - | 59 | 421 |
 | 2023-12-26 | 4.59 | - | 59 | 426 |
+| 2023-12-28 | 4.59 | - | 59 | 428 |

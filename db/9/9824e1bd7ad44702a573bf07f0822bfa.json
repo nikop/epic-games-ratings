@@ -4,7 +4,7 @@
   "ProductSlug": "next-game-c139be",
   "Ranking_EOS_Progress": 817,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewPlayers": 565,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-24T19:57:03.7442419+00:00",
-  "LastUpdate_Ratings": "2023-12-28T10:59:34.6422114+00:00",
-  "LastUpdate_Achievements": "2023-12-28T11:05:38.9216222+00:00"
+  "LastUpdate_Ratings": "2023-12-28T12:01:20.2399918+00:00",
+  "LastUpdate_Achievements": "2023-12-28T12:07:28.4924113+00:00"
 }

@@ -253,9 +253,9 @@
       "Count": 87
     }
   ],
-  "EOS_Progressed": 1161,
+  "EOS_Progressed": 1162,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3168,6 +3168,11 @@
       "Time": "2023-12-28T06:04:18.5373075+00:00",
       "NumProgressed": 1161,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-28T12:06:20.6909905+00:00",
+      "NumProgressed": 1162,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3300,7 +3305,7 @@
       "Name": "Excellent",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "FloodedValley",
@@ -3354,9 +3359,9 @@
       "ID": "JustOneLap",
       "SetID": "1n308hc",
       "Name": "Just One Lap",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 128
+      "UsersEstimate": 116
     },
     {
       "ID": "LordOfTheFiles",
@@ -3380,7 +3385,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "Mnemosyne",
@@ -3404,7 +3409,7 @@
       "Name": "Museum Visitor",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "NewBeginning",
@@ -3428,7 +3433,7 @@
       "Name": "Not What It Seems",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "Overload",
@@ -3436,7 +3441,7 @@
       "Name": "Overload",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "Persistent",
@@ -3516,7 +3521,7 @@
       "Name": "Southern Coast",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "TeamSpirit",
@@ -3570,9 +3575,9 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 267
     },
     {
       "ID": "TheThiefOfFire",
@@ -3602,9 +3607,9 @@
       "ID": "TrevorsBiographer",
       "SetID": "1n308hc",
       "Name": "Trevor\u0027s Biographer",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 93
+      "UsersEstimate": 105
     },
     {
       "ID": "VerdantCanyon",
@@ -3651,7 +3656,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1161,
+      "Progressed": 1162,
       "Completed": 2
     }
   ],
@@ -3659,8 +3664,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-28T02:59:27.0743673+00:00",
-  "LastChanged_Achievements": "2023-12-28T11:04:53.0713851+00:00",
+  "LastChanged_Achievements": "2023-12-28T12:06:20.6909902+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-28T10:59:41.6799668+00:00",
-  "LastUpdate_Achievements": "2023-12-28T11:04:53.0714352+00:00"
+  "LastUpdate_Ratings": "2023-12-28T12:01:32.0921728+00:00",
+  "LastUpdate_Achievements": "2023-12-28T12:06:20.6910386+00:00"
 }

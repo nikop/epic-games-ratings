@@ -4,7 +4,7 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 546,
+  "EOS_Progressed": 547,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1794,6 +1794,11 @@
       "Time": "2023-12-28T04:10:37.6845711+00:00",
       "NumProgressed": 546,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T12:11:11.1150288+00:00",
+      "NumProgressed": 547,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1878,7 +1883,7 @@
       "Name": "FixyText: Bestseller",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -1894,7 +1899,7 @@
       "Name": "FixyText: Co-author",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "TIME_JINX",
@@ -1918,7 +1923,7 @@
       "Name": "Timejinx: The Perfect Date",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -1965,14 +1970,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 546,
+      "Progressed": 547,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-28T11:09:57.2482607+00:00",
+  "LastChanged_Achievements": "2023-12-28T12:11:11.1150282+00:00",
   "LastUpdate_AppInfo": "2023-12-23T02:14:15.0192188+00:00",
-  "LastUpdate_Ratings": "2023-12-28T11:00:00.2006984+00:00",
-  "LastUpdate_Achievements": "2023-12-28T11:09:57.248285+00:00"
+  "LastUpdate_Ratings": "2023-12-28T12:01:59.1390116+00:00",
+  "LastUpdate_Achievements": "2023-12-28T12:11:11.1150486+00:00"
 }

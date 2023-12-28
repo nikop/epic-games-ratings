@@ -999,9 +999,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7476,
+  "EOS_Progressed": 7477,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9464,6 +9464,11 @@
       "Time": "2023-12-27T18:11:13.3150658+00:00",
       "NumProgressed": 7476,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T12:11:25.9633744+00:00",
+      "NumProgressed": 7477,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9611,7 +9616,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5682
+      "UsersEstimate": 5683
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -9691,7 +9696,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2392
+      "UsersEstimate": 2393
     },
     {
       "ID": "Play_1000_Hours",
@@ -9963,7 +9968,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4859
+      "UsersEstimate": 4860
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -10050,15 +10055,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7476,
+      "Progressed": 7477,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-12-27T21:02:14.3045553+00:00",
-  "LastChanged_Achievements": "2023-12-28T11:10:07.7499388+00:00",
+  "LastChanged_Achievements": "2023-12-28T12:11:25.9633741+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:11.9243121+00:00",
-  "LastUpdate_Ratings": "2023-12-28T10:57:04.7701145+00:00",
-  "LastUpdate_Achievements": "2023-12-28T11:10:07.7500355+00:00"
+  "LastUpdate_Ratings": "2023-12-28T11:57:23.4868723+00:00",
+  "LastUpdate_Achievements": "2023-12-28T12:11:25.9634968+00:00"
 }

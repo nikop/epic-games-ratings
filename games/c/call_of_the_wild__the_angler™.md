@@ -30,13 +30,13 @@ Number of Ratings: 281  (23.09.2022)
 | Live by the Rod, Diez by the Rod! | 0.40% | ~28 |
 | Aguas Claras Conquistador | 0.40% | ~28 |
 | All Good Kings Must Come to an End | 0.30% | ~21 |
+| Three Square Meals | 0.30% | ~21 |
 | The Beetles | 0.20% | ~15 |
 | Lake Me up Before You Go Go | 0.20% | ~15 |
 | Taylor Made | 0.20% | ~15 |
 | Big Fish Small Pond | 0.20% | ~15 |
 | Golden Ridge Ranger | 0.20% | ~15 |
 | Rod and Troll | 0.20% | ~14 |
-| Three Square Meals | 0.20% | ~14 |
 | Head for Heights | 0.10% | ~8 |
 | Lost and Flounder | 0.10% | ~8 |
 | Buckaroo | 0.10% | ~8 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,664 (Ranked 188)  
+Progressed: 7,665 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 7,552 | 0 |
 | 2023-12-26 | 7,601 | 0 |
 | 2023-12-27 | 7,651 | 0 |
-| 2023-12-28 | 7,664 | 0 |
+| 2023-12-28 | 7,665 | 0 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 471)  
 Sum: 212 (Ranked 408)  

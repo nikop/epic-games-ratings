@@ -3635,9 +3635,9 @@
       "Count": 335
     }
   ],
-  "EOS_Progressed": 19491,
+  "EOS_Progressed": 19496,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 688,
+  "EOS_NewPlayers": 691,
   "EOS_NewCompleters": -3,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -17450,6 +17450,11 @@
       "Time": "2023-12-28T11:05:32.7682214+00:00",
       "NumProgressed": 19491,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-12-28T12:07:19.461492+00:00",
+      "NumProgressed": 19496,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17460,9 +17465,9 @@
       "ID": "AleChain",
       "SetID": "cfbk359",
       "Name": "Serving Ale",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 195
     },
     {
       "ID": "AllFood",
@@ -17588,9 +17593,9 @@
       "ID": "WinNearBarren",
       "SetID": "cfbk359",
       "Name": "Barren Lands",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 390
     },
     {
       "ID": "WinNearBattleground",
@@ -17798,7 +17803,7 @@
       "Name": "Taking Action",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "WinWithResolve",
@@ -17862,7 +17867,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "WinNearFrosts",
@@ -17886,7 +17891,7 @@
       "Name": "Overgrown Library",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "WinNearPetrified",
@@ -17894,7 +17899,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "WinNearPresence",
@@ -17933,15 +17938,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19491,
+      "Progressed": 19496,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-28T06:59:26.2841876+00:00",
-  "LastChanged_Achievements": "2023-12-28T11:05:32.7682209+00:00",
+  "LastChanged_Achievements": "2023-12-28T12:07:19.4614915+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-28T10:59:29.9190066+00:00",
-  "LastUpdate_Achievements": "2023-12-28T11:05:32.7683093+00:00"
+  "LastUpdate_Ratings": "2023-12-28T12:01:12.1038568+00:00",
+  "LastUpdate_Achievements": "2023-12-28T12:07:19.4616021+00:00"
 }

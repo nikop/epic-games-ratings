@@ -1,60 +1,60 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.53 (Ranked 555)  
+Rating: 4.53 (Ranked 556)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~52,844 |
-| Worth it | 63.00% | ~42,682 |
-| Eagle Eye | 55.00% | ~37,262 |
-| Corpseman I | 39.00% | ~26,422 |
-| Blast fishing | 37.00% | ~25,067 |
-| Not alone | 32.00% | ~21,680 |
-| Headhunter I | 26.00% | ~17,615 |
-| Manual Labour I | 25.00% | ~16,937 |
-| Developers, Developers, Developers | 24.00% | ~16,260 |
-| Basic Training | 23.00% | ~15,582 |
-| Furchtlos und Treu | 13.00% | ~8,807 |
+| Setting an example | 78.00% | ~52,847 |
+| Worth it | 63.00% | ~42,684 |
+| Eagle Eye | 55.00% | ~37,264 |
+| Corpseman I | 39.00% | ~26,424 |
+| Blast fishing | 37.00% | ~25,069 |
+| Not alone | 32.00% | ~21,681 |
+| Headhunter I | 26.00% | ~17,616 |
+| Manual Labour I | 25.00% | ~16,938 |
+| Developers, Developers, Developers | 24.00% | ~16,261 |
+| Basic Training | 23.00% | ~15,583 |
+| Furchtlos und Treu | 13.00% | ~8,808 |
 | Gott Mit Uns | 12.00% | ~8,130 |
-| This We'll Defend! | 9.00% | ~6,097 |
-| Providentiea Memor | 9.00% | ~6,097 |
-| For King and Country | 9.00% | ~6,097 |
+| This We'll Defend! | 9.00% | ~6,098 |
+| Providentiea Memor | 9.00% | ~6,098 |
+| For King and Country | 9.00% | ~6,098 |
 | Battle hardened | 8.00% | ~5,420 |
 | Anker wirf! | 8.00% | ~5,420 |
-| Semper Fidelis! | 7.00% | ~4,742 |
-| Honneur et Patrie | 7.00% | ~4,742 |
-| In Treue Fest | 5.00% | ~3,387 |
-| Voor De Koning | 5.00% | ~3,387 |
-| Extreme Headhunter | 5.00% | ~3,387 |
+| Semper Fidelis! | 7.00% | ~4,743 |
+| Honneur et Patrie | 7.00% | ~4,743 |
+| In Treue Fest | 5.00% | ~3,388 |
+| Voor De Koning | 5.00% | ~3,388 |
+| Extreme Headhunter | 5.00% | ~3,388 |
 | Advance Australia | 4.00% | ~2,710 |
 | We Stand on Guard | 4.00% | ~2,710 |
 | Sidi Brahim | 4.00% | ~2,710 |
 | War is better with friends I | 4.00% | ~2,710 |
 | Let them, come to us | 4.00% | ~2,710 |
 | Corpseman II | 4.00% | ~2,710 |
-| Offense is the best defence | 3.00% | ~2,032 |
-| There is no I in team | 3.00% | ~2,032 |
-| Veteran | 3.00% | ~2,032 |
-| Manual Labour II | 3.00% | ~2,032 |
-| In My Defens God Me Defend | 3.00% | ~2,032 |
-| Silver x100 | 3.00% | ~2,032 |
-| Impavidum Ferient Bella! | 3.00% | ~2,032 |
+| Offense is the best defence | 3.00% | ~2,033 |
+| There is no I in team | 3.00% | ~2,033 |
+| Veteran | 3.00% | ~2,033 |
+| Manual Labour II | 3.00% | ~2,033 |
+| In My Defens God Me Defend | 3.00% | ~2,033 |
+| Silver x100 | 3.00% | ~2,033 |
+| Impavidum Ferient Bella! | 3.00% | ~2,033 |
 | Bronze x100 | 2.00% | ~1,355 |
 | Shoot, Cover, Reload, Repeat | 2.00% | ~1,355 |
-| Gold x100 | 1.00% | ~677 |
-| Hunting the Hun | 1.00% | ~677 |
-| #1 | 1.00% | ~677 |
-| Golden Headhunter | 1.00% | ~677 |
-| That's another one down! | 1.00% | ~677 |
-| Do you even die? | 1.00% | ~677 |
-| Headhunter II | 1.00% | ~677 |
-| Corpseman III | 1.00% | ~677 |
+| Gold x100 | 1.00% | ~678 |
+| Hunting the Hun | 1.00% | ~678 |
+| #1 | 1.00% | ~678 |
+| Golden Headhunter | 1.00% | ~678 |
+| That's another one down! | 1.00% | ~678 |
+| Do you even die? | 1.00% | ~678 |
+| Headhunter II | 1.00% | ~678 |
+| Corpseman III | 1.00% | ~678 |
 | Elite Player | 0.80% | ~542 |
 | Manual Labour III | 0.40% | ~271 |
 | Buddy | 0.30% | ~203 |
-| War is better with friends II | 0.20% | ~135 |
+| War is better with friends II | 0.20% | ~136 |
 | Gold Collector | 0.10% | ~68 |
 | Gold Hoarder | 0.10% | ~68 |
 | Silver Collector | 0.10% | ~68 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~68 |
 | Blood Brother | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,749 (Ranked 113)  
+Progressed: 67,753 (Ranked 113)  
 Completed: 4 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 4 (0.01%) (Ranked 367)
 | 2023-12-25 | 67,464 | 4 |
 | 2023-12-26 | 67,579 | 4 |
 | 2023-12-27 | 67,706 | 4 |
-| 2023-12-28 | 67,749 | 4 |
+| 2023-12-28 | 67,753 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 364)  
 Sum: 825 (Ranked 281)  

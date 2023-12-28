@@ -43,9 +43,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1384,
+  "EOS_Progressed": 1386,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 421,
+  "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -2728,6 +2728,11 @@
       "Time": "2023-12-28T11:10:13.7317917+00:00",
       "NumProgressed": 1384,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T12:11:33.7843162+00:00",
+      "NumProgressed": 1386,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2739,7 +2744,7 @@
       "Name": "Break Out",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "ACH_02",
@@ -2755,7 +2760,7 @@
       "Name": "Powerful Allies",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_04",
@@ -2851,7 +2856,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ACH_16",
@@ -2859,7 +2864,7 @@
       "Name": "Essence Blow",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_17",
@@ -2913,9 +2918,9 @@
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 277
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH_24",
@@ -2971,7 +2976,7 @@
       "Name": "Alchemist",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_31",
@@ -2979,7 +2984,7 @@
       "Name": "Stone Collection",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ACH_33",
@@ -3026,7 +3031,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1384,
+      "Progressed": 1386,
       "Completed": 3
     }
   ],
@@ -3034,8 +3039,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2023-12-27T23:57:06.3972881+00:00",
-  "LastChanged_Achievements": "2023-12-28T11:10:13.7317909+00:00",
+  "LastChanged_Achievements": "2023-12-28T12:11:33.7843155+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-28T10:57:19.6519784+00:00",
-  "LastUpdate_Achievements": "2023-12-28T11:10:13.7318547+00:00"
+  "LastUpdate_Ratings": "2023-12-28T11:57:46.71792+00:00",
+  "LastUpdate_Achievements": "2023-12-28T12:11:33.7843514+00:00"
 }

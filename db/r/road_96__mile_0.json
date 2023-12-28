@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 577,
+  "EOS_Progressed": 578,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2057,6 +2057,11 @@
       "Time": "2023-12-28T10:09:46.0632507+00:00",
       "NumProgressed": 577,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-28T12:11:27.7425293+00:00",
+      "NumProgressed": 578,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -2170,9 +2175,9 @@
       "ID": "scoreminrankrv1",
       "SetID": "40n95i5",
       "Name": "Welcome to the Garage",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 104
+      "UsersEstimate": 98
     },
     {
       "ID": "scoreminrankrv2",
@@ -2187,7 +2192,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 577,
+      "Progressed": 578,
       "Completed": 2
     }
   ],
@@ -2195,8 +2200,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-28T11:10:09.1942726+00:00",
+  "LastChanged_Achievements": "2023-12-28T12:11:27.7425289+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:13.373144+00:00",
-  "LastUpdate_Ratings": "2023-12-28T10:59:57.0066953+00:00",
-  "LastUpdate_Achievements": "2023-12-28T11:10:09.1942911+00:00"
+  "LastUpdate_Ratings": "2023-12-28T12:01:54.055376+00:00",
+  "LastUpdate_Achievements": "2023-12-28T12:11:27.7425516+00:00"
 }

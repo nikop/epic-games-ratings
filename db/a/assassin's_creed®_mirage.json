@@ -2,12 +2,12 @@
   "ID": "9bcf5a4dc1d54cb6ab1a42f3a70c5cf4",
   "Name": "Assassin\u0027s Creed\u00AE Mirage",
   "ProductSlug": "assassins-creed-mirage",
-  "Ranking_Rating": 680,
+  "Ranking_Rating": 681,
   "Ranking_Popularity": 291,
-  "Ranking_PopularitySum": 223,
+  "Ranking_PopularitySum": 222,
   "Ranking_EOS_Progress": 817,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewPlayers": 565,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -2671,10 +2671,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 1736,
       "NumberOfAwardsMax": 211
+    },
+    {
+      "Time": "2023-12-28T12:00:55.0845641+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 1739,
+      "NumberOfAwardsMax": 211
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1736,
+  "NumberOfAwards": 1739,
   "NumberOfAwardsMax": 211,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2742,7 +2748,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 83
+      "Count": 86
     }
   ],
   "EOS_Progressed": 0,
@@ -2757,8 +2763,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T18:58:30.4202319+00:00",
   "FirstSeenRating": "2023-10-06T05:58:23.6709697+00:00",
-  "LastChanged": "2023-12-28T10:59:18.0810571+00:00",
+  "LastChanged": "2023-12-28T12:00:55.0845639+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:19:59.911469+00:00",
-  "LastUpdate_Ratings": "2023-12-28T10:59:18.0810577+00:00",
-  "LastUpdate_Achievements": "2023-12-28T11:04:48.6301845+00:00"
+  "LastUpdate_Ratings": "2023-12-28T12:00:55.0845645+00:00",
+  "LastUpdate_Achievements": "2023-12-28T12:06:14.4725539+00:00"
 }

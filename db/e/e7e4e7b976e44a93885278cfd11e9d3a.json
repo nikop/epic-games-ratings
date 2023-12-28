@@ -4,7 +4,7 @@
   "ProductSlug": "cynosure-f73b7d",
   "Ranking_EOS_Progress": 817,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewPlayers": 565,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-12-10T22:30:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-07T11:04:24.4155364+00:00",
-  "LastChanged_Achievements": "2023-12-28T11:05:47.6396383+00:00",
+  "LastChanged_Achievements": "2023-12-28T12:07:41.1320696+00:00",
   "LastUpdate_AppInfo": "2023-12-27T09:57:09.2034932+00:00",
-  "LastUpdate_Ratings": "2023-12-28T10:57:30.882542+00:00",
-  "LastUpdate_Achievements": "2023-12-28T11:05:47.6396417+00:00"
+  "LastUpdate_Ratings": "2023-12-28T11:58:04.7892036+00:00",
+  "LastUpdate_Achievements": "2023-12-28T12:07:41.132073+00:00"
 }

@@ -1,34 +1,34 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.29 (Ranked 867)  
+Rating: 4.29 (Ranked 866)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~165,128 |
-| Copacetic Coordination | 16.00% | ~57,436 |
-| Fronting the Money | 15.00% | ~53,846 |
-| The Dawn of Automation | 14.00% | ~50,256 |
-| Extraordinary Logistics | 14.00% | ~50,256 |
-| Dirty Money | 13.00% | ~46,666 |
-| Family First | 13.00% | ~46,666 |
-| Cleaning House | 12.00% | ~43,077 |
-| Room in the Back | 12.00% | ~43,077 |
-| Beating the Heat | 11.00% | ~39,487 |
-| Booze Baron | 11.00% | ~39,487 |
-| Friends on the Force | 10.00% | ~35,897 |
-| Neighborhood Watch | 10.00% | ~35,897 |
-| Core Corps | 8.00% | ~28,718 |
-| Sizeable Stash | 8.00% | ~28,718 |
-| Street Fighter | 7.00% | ~25,128 |
-| Friendly Gestures | 7.00% | ~25,128 |
-| People Person | 7.00% | ~25,128 |
-| Liquor Lord | 6.00% | ~21,538 |
-| Safety in Numbers | 6.00% | ~21,538 |
-| Moving Experiences | 6.00% | ~21,538 |
-| Wise Head | 6.00% | ~21,538 |
-| Show ‘em the Sugar | 6.00% | ~21,538 |
-| Killing Them Softly | 6.00% | ~21,538 |
+| Corner Clout | 46.00% | ~165,134 |
+| Copacetic Coordination | 16.00% | ~57,438 |
+| Fronting the Money | 15.00% | ~53,848 |
+| The Dawn of Automation | 14.00% | ~50,258 |
+| Extraordinary Logistics | 14.00% | ~50,258 |
+| Dirty Money | 13.00% | ~46,668 |
+| Family First | 13.00% | ~46,668 |
+| Cleaning House | 12.00% | ~43,078 |
+| Room in the Back | 12.00% | ~43,078 |
+| Beating the Heat | 11.00% | ~39,488 |
+| Booze Baron | 11.00% | ~39,488 |
+| Friends on the Force | 10.00% | ~35,899 |
+| Neighborhood Watch | 10.00% | ~35,899 |
+| Core Corps | 8.00% | ~28,719 |
+| Sizeable Stash | 8.00% | ~28,719 |
+| Street Fighter | 7.00% | ~25,129 |
+| Friendly Gestures | 7.00% | ~25,129 |
+| People Person | 7.00% | ~25,129 |
+| Liquor Lord | 6.00% | ~21,539 |
+| Safety in Numbers | 6.00% | ~21,539 |
+| Moving Experiences | 6.00% | ~21,539 |
+| Wise Head | 6.00% | ~21,539 |
+| Show ‘em the Sugar | 6.00% | ~21,539 |
+| Killing Them Softly | 6.00% | ~21,539 |
 | Street Knowledge | 5.00% | ~17,949 |
 | Oh Captain | 5.00% | ~17,949 |
 | Branching Out | 5.00% | ~17,949 |
@@ -42,17 +42,17 @@ Rating: 4.29 (Ranked 867)
 | Friends from Back Home | 4.00% | ~14,359 |
 | Bees Knees Bootlegger | 4.00% | ~14,359 |
 | Half Century Mark | 4.00% | ~14,359 |
-| Corner Opportunities | 3.00% | ~10,769 |
-| 2122 North Clark Street | 3.00% | ~10,769 |
-| Copious Cabbage | 3.00% | ~10,769 |
-| Sockdolager | 3.00% | ~10,769 |
-| Still Stalwart | 3.00% | ~10,769 |
-| Tighten the Screws | 3.00% | ~10,769 |
-| One of Us | 2.00% | ~7,179 |
-| Baker’s Dozen | 2.00% | ~7,179 |
-| Dropping the Dime | 2.00% | ~7,179 |
-| Spiffy Speakeasies | 2.00% | ~7,179 |
-| Keeping Your Word | 2.00% | ~7,179 |
+| Corner Opportunities | 3.00% | ~10,770 |
+| 2122 North Clark Street | 3.00% | ~10,770 |
+| Copious Cabbage | 3.00% | ~10,770 |
+| Sockdolager | 3.00% | ~10,770 |
+| Still Stalwart | 3.00% | ~10,770 |
+| Tighten the Screws | 3.00% | ~10,770 |
+| One of Us | 2.00% | ~7,180 |
+| Baker’s Dozen | 2.00% | ~7,180 |
+| Dropping the Dime | 2.00% | ~7,180 |
+| Spiffy Speakeasies | 2.00% | ~7,180 |
+| Keeping Your Word | 2.00% | ~7,180 |
 | Boxing Them In | 1.00% | ~3,590 |
 | Backroom Empire | 1.00% | ~3,590 |
 | Corner Control | 1.00% | ~3,590 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 867)
 | High Pillow | 0.10% | ~359 |
 | Station Master | 0.10% | ~359 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 358,973 (Ranked 51)  
+Progressed: 358,986 (Ranked 51)  
 Completed: 7 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 7 (0.00%) (Ranked 389)
 | 2023-12-25 | 358,511 | 7 |
 | 2023-12-26 | 358,697 | 7 |
 | 2023-12-27 | 358,887 | 7 |
-| 2023-12-28 | 358,973 | 7 |
+| 2023-12-28 | 358,986 | 7 |
 ## Awards
 Max (Great for Beginners): 57  (Ranked 428)  
 Sum: 264 (Ranked 392)  

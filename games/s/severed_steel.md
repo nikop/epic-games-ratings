@@ -5,26 +5,26 @@ Rating: 4.69 (Ranked 232)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 33.00% | ~218,978 |
-| 50 HEADSHOTS | 30.00% | ~199,071 |
-| SCIENCE AND INDUSTRY | 29.00% | ~192,435 |
-| FINISHED CHAPTER 1 | 28.00% | ~185,799 |
-| FINISHED CHAPTER 2 | 21.00% | ~139,349 |
-| 200 HEADSHOTS | 18.00% | ~119,442 |
-| FINISHED CHAPTER 3 | 17.00% | ~112,807 |
-| FINISHED CHAPTER 4 | 15.00% | ~99,535 |
-| FINISH CHAPTER 5 | 13.00% | ~86,264 |
-| FINISH CHAPTER 6 | 11.00% | ~72,993 |
-| CATHARTIC ESCAPISM | 11.00% | ~72,993 |
-| 1000 KILLS | 10.00% | ~66,357 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,543 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,271 |
-| FIRST BLOOD | 2.00% | ~13,271 |
-| OUT OF ORDER | 1.00% | ~6,636 |
-| PACEMAKER | 1.00% | ~6,636 |
-| TIME PARADOX | 1.00% | ~6,636 |
+| 100 KILLS | 33.00% | ~218,962 |
+| 50 HEADSHOTS | 30.00% | ~199,056 |
+| SCIENCE AND INDUSTRY | 29.00% | ~192,421 |
+| FINISHED CHAPTER 1 | 28.00% | ~185,786 |
+| FINISHED CHAPTER 2 | 21.00% | ~139,339 |
+| 200 HEADSHOTS | 18.00% | ~119,434 |
+| FINISHED CHAPTER 3 | 17.00% | ~112,798 |
+| FINISHED CHAPTER 4 | 15.00% | ~99,528 |
+| FINISH CHAPTER 5 | 13.00% | ~86,258 |
+| FINISH CHAPTER 6 | 11.00% | ~72,987 |
+| CATHARTIC ESCAPISM | 11.00% | ~72,987 |
+| 1000 KILLS | 10.00% | ~66,352 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,541 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,270 |
+| FIRST BLOOD | 2.00% | ~13,270 |
+| OUT OF ORDER | 1.00% | ~6,635 |
+| PACEMAKER | 1.00% | ~6,635 |
+| TIME PARADOX | 1.00% | ~6,635 |
 | FIREFIGHT LEVEL 30 | 0.90% | ~5,972 |
-| PARTYHARD | 0.80% | ~5,309 |
+| PARTYHARD | 0.80% | ~5,308 |
 | NEW GAME PLUS | 0.70% | ~4,645 |
 | FIREFIGHT LEVEL 40 | 0.50% | ~3,318 |
 | CHURCH | 0.40% | ~2,654 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 232)
 | THE GAMBLER | 0.10% | ~664 |
 | WARRIOR IN A GARDEN | 0.10% | ~664 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 663,569 (Ranked 30)  
+Progressed: 663,520 (Ranked 30)  
 Completed: 61 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |

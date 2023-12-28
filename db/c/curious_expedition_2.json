@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 387,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 379,
+  "EOS_Progressed": 380,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -510,6 +510,11 @@
       "Time": "2023-12-27T15:10:00.348396+00:00",
       "NumProgressed": 379,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T12:11:38.8422654+00:00",
+      "NumProgressed": 380,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -641,7 +646,7 @@
       "Name": "Iron Man",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ach-campaign-pacifist",
@@ -655,9 +660,9 @@
       "ID": "ach-campaign-story1",
       "SetID": "17ih7ma",
       "Name": "A Strange Artefact",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 201
     },
     {
       "ID": "ach-campaign-story2",
@@ -673,7 +678,7 @@
       "Name": "O Captain My Captain",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ach-cartography-complete",
@@ -721,7 +726,7 @@
       "Name": "Fire and Flood",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ach-find-treasure",
@@ -745,7 +750,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ach-hardExpeditions",
@@ -809,7 +814,7 @@
       "Name": "Shennong Herbalist",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -841,7 +846,7 @@
       "Name": "Veteran Explorer",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ach-meetGhost",
@@ -863,9 +868,9 @@
       "ID": "ach-noRest",
       "SetID": "17ih7ma",
       "Name": "Insomnia",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 186
     },
     {
       "ID": "ach-pacifist-goals",
@@ -921,7 +926,7 @@
       "Name": "A Gentle Beast",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ach-rideDinosaur",
@@ -969,7 +974,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -977,7 +982,7 @@
       "Name": "Very Classy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ach-villageQuests",
@@ -1000,7 +1005,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 379,
+      "Progressed": 380,
       "Completed": 1
     }
   ],
@@ -1008,8 +1013,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-28T11:10:17.4806273+00:00",
+  "LastChanged_Achievements": "2023-12-28T12:11:38.8422649+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.7715172+00:00",
-  "LastUpdate_Ratings": "2023-12-28T11:00:09.2424106+00:00",
-  "LastUpdate_Achievements": "2023-12-28T11:10:17.4806851+00:00"
+  "LastUpdate_Ratings": "2023-12-28T12:02:14.0327378+00:00",
+  "LastUpdate_Achievements": "2023-12-28T12:11:38.8423132+00:00"
 }

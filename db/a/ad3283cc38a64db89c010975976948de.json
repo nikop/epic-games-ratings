@@ -4,7 +4,7 @@
   "ProductSlug": "buddy-and-friends-in-halloween-192190",
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewPlayers": 379,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
@@ -343,9 +343,9 @@
       "ID": "LEVEL_060_003",
       "SetID": "5g7b0mb",
       "Name": "Sidewalk - 60 pieces",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "LEVEL_060_004",
@@ -574,8 +574,8 @@
   ],
   "FirstSeen": "2023-10-25T11:59:09.0555301+00:00",
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2023-12-28T11:05:00.1620489+00:00",
+  "LastChanged_Achievements": "2023-12-28T12:06:31.5038849+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.5932305+00:00",
-  "LastUpdate_Ratings": "2023-12-28T11:00:26.1841843+00:00",
-  "LastUpdate_Achievements": "2023-12-28T11:05:00.16207+00:00"
+  "LastUpdate_Ratings": "2023-12-28T12:02:35.197265+00:00",
+  "LastUpdate_Achievements": "2023-12-28T12:06:31.5039063+00:00"
 }

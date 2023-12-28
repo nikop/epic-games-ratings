@@ -1685,10 +1685,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 426,
       "NumberOfAwardsMax": 59
+    },
+    {
+      "Time": "2023-12-28T12:01:09.7266285+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 428,
+      "NumberOfAwardsMax": 59
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 426,
+  "NumberOfAwards": 428,
   "NumberOfAwardsMax": 59,
   "MaxAwardTitle": "Unique Visuals",
   "Tags": [
@@ -1708,7 +1714,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 53
+      "Count": 55
     },
     {
       "Text": "This game has a Creative Community",
@@ -1747,9 +1753,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 165061,
+  "EOS_Progressed": 165076,
   "EOS_Completed": 417,
-  "EOS_NewPlayers": 1451,
+  "EOS_NewPlayers": 1457,
   "EOS_NewCompleters": 48,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -20917,6 +20923,11 @@
       "Time": "2023-12-28T11:05:47.2232683+00:00",
       "NumProgressed": 165061,
       "NumCompleted": 417
+    },
+    {
+      "Time": "2023-12-28T12:07:40.4761946+00:00",
+      "NumProgressed": 165076,
+      "NumCompleted": 417
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -20977,7 +20988,7 @@
       "Name": "The Hunt",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3301
+      "UsersEstimate": 3302
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -20993,7 +21004,7 @@
       "Name": "Taste",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3301
+      "UsersEstimate": 3302
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -21121,7 +21132,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1156
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -21129,7 +21140,7 @@
       "Name": "Devourer",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -21145,7 +21156,7 @@
       "Name": "Imprint",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3301
+      "UsersEstimate": 3302
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -21201,7 +21212,7 @@
       "Name": "Ravenous",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3301
+      "UsersEstimate": 3302
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -21296,21 +21307,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 164644,
-      "Completed": 1247
+      "Progressed": 164659,
+      "Completed": 1248
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 165061,
+      "Progressed": 165076,
       "Completed": 417
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-12-26T18:59:35.5919869+00:00",
-  "LastChanged_Achievements": "2023-12-28T11:05:47.2232677+00:00",
+  "LastChanged": "2023-12-28T12:01:09.7266284+00:00",
+  "LastChanged_Achievements": "2023-12-28T12:07:40.476194+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:22.7260202+00:00",
-  "LastUpdate_Ratings": "2023-12-28T10:59:28.447837+00:00",
-  "LastUpdate_Achievements": "2023-12-28T11:05:47.2234052+00:00"
+  "LastUpdate_Ratings": "2023-12-28T12:01:09.7266288+00:00",
+  "LastUpdate_Achievements": "2023-12-28T12:07:40.4763335+00:00"
 }

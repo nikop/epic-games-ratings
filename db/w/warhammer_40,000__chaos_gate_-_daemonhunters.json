@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -801,9 +801,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3622,
+  "EOS_Progressed": 3623,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4986,6 +4986,11 @@
       "Time": "2023-12-28T08:06:00.0365154+00:00",
       "NumProgressed": 3622,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T12:08:27.6384826+00:00",
+      "NumProgressed": 3623,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5275,9 +5280,9 @@
       "ID": "MasterCraftLevel3_Ranged",
       "SetID": "3jha1np",
       "Name": "Gunmaster",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 145
     },
     {
       "ID": "MasterOfTheForge",
@@ -5540,21 +5545,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3622,
+      "Progressed": 3623,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3622,
+      "Progressed": 3623,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-24T12:02:56.3421491+00:00",
-  "LastChanged_Achievements": "2023-12-28T11:06:19.2042058+00:00",
+  "LastChanged_Achievements": "2023-12-28T12:08:27.6384821+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:54.0012795+00:00",
-  "LastUpdate_Ratings": "2023-12-28T11:03:18.937459+00:00",
-  "LastUpdate_Achievements": "2023-12-28T11:06:19.2042746+00:00"
+  "LastUpdate_Ratings": "2023-12-28T12:03:59.0079726+00:00",
+  "LastUpdate_Achievements": "2023-12-28T12:08:27.6385572+00:00"
 }

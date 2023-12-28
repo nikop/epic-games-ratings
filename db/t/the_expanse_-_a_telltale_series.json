@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17632,
+  "EOS_Progressed": 17637,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 652,
+  "EOS_NewPlayers": 655,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15442,6 +15442,11 @@
       "Time": "2023-12-28T11:05:02.1022941+00:00",
       "NumProgressed": 17632,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-28T12:06:33.9915038+00:00",
+      "NumProgressed": 17637,
+      "NumCompleted": 56
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15468,9 +15473,9 @@
       "ID": "11",
       "SetID": "458bbdk",
       "Name": "The Pit and the Pirates",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1763
+      "UsersEstimate": 1940
     },
     {
       "ID": "12",
@@ -15486,7 +15491,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2821
+      "UsersEstimate": 2822
     },
     {
       "ID": "14",
@@ -15534,7 +15539,7 @@
       "Name": "Martian Music",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1763
+      "UsersEstimate": 1764
     },
     {
       "ID": "2",
@@ -15558,7 +15563,7 @@
       "Name": "Drone Dodger",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1763
+      "UsersEstimate": 1764
     },
     {
       "ID": "22",
@@ -15574,7 +15579,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "24",
@@ -15718,7 +15723,7 @@
       "Name": "Master Negotiator",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "35",
@@ -15733,13 +15738,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17632,
+      "Progressed": 17637,
       "Completed": 56
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3586,
+      "Progressed": 3591,
       "Completed": 1086
     }
   ],
@@ -15747,8 +15752,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-27T06:00:51.7325186+00:00",
-  "LastChanged_Achievements": "2023-12-28T11:05:02.1022936+00:00",
+  "LastChanged_Achievements": "2023-12-28T12:06:33.9915033+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-28T11:00:14.0892344+00:00",
-  "LastUpdate_Achievements": "2023-12-28T11:05:02.1023914+00:00"
+  "LastUpdate_Ratings": "2023-12-28T12:02:19.1424429+00:00",
+  "LastUpdate_Achievements": "2023-12-28T12:06:33.9916425+00:00"
 }

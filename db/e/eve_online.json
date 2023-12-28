@@ -2,12 +2,12 @@
   "ID": "de554cff12704db4a900032bbd194d7e",
   "Name": "EVE Online",
   "ProductSlug": "eve-online",
-  "Ranking_Rating": 911,
+  "Ranking_Rating": 922,
   "Ranking_Popularity": 145,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 817,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewPlayers": 565,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-09-23T13:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.24,
+  "Rating": 4.23,
   "NumberOfRatings": 1408,
   "RatingHistory": [
     {
@@ -3316,6 +3316,12 @@
       "Rating": 4.24,
       "NumberOfAwards": 2778,
       "NumberOfAwardsMax": 1170
+    },
+    {
+      "Time": "2023-12-28T11:59:41.8730908+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 2778,
+      "NumberOfAwardsMax": 1170
     }
   ],
   "ReviewsDisabled": false,
@@ -3401,8 +3407,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:38.4001765+00:00",
-  "LastChanged": "2023-12-28T06:58:27.9059158+00:00",
+  "LastChanged": "2023-12-28T11:59:41.8730907+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.2345244+00:00",
-  "LastUpdate_Ratings": "2023-12-28T10:58:32.104863+00:00",
-  "LastUpdate_Achievements": "2023-12-28T11:09:14.9605663+00:00"
+  "LastUpdate_Ratings": "2023-12-28T11:59:41.8730912+00:00",
+  "LastUpdate_Achievements": "2023-12-28T12:10:09.6779316+00:00"
 }

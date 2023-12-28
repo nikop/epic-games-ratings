@@ -4,7 +4,7 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 304,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3530,
+  "EOS_Progressed": 3531,
   "EOS_Completed": 166,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.7,
   "EosHistory": [
@@ -6259,6 +6259,11 @@
       "Time": "2023-12-27T16:09:28.5165527+00:00",
       "NumProgressed": 3530,
       "NumCompleted": 166
+    },
+    {
+      "Time": "2023-12-28T12:09:48.2672888+00:00",
+      "NumProgressed": 3531,
+      "NumCompleted": 166
     }
   ],
   "TotalAchievements": 5,
@@ -6270,7 +6275,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 3530
+      "UsersEstimate": 3531
     },
     {
       "ID": "2",
@@ -6294,7 +6299,7 @@
       "Name": "Adventurer",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "5",
@@ -6302,14 +6307,14 @@
       "Name": "Hero",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     }
   ],
   "AchievementSets": [
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 3530,
+      "Progressed": 3531,
       "Completed": 166
     }
   ],
@@ -6317,8 +6322,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-12-28T11:08:59.8363336+00:00",
+  "LastChanged_Achievements": "2023-12-28T12:09:48.267288+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:16.3715171+00:00",
-  "LastUpdate_Ratings": "2023-12-28T10:57:47.6301336+00:00",
-  "LastUpdate_Achievements": "2023-12-28T11:08:59.8363724+00:00"
+  "LastUpdate_Ratings": "2023-12-28T11:58:30.6543616+00:00",
+  "LastUpdate_Achievements": "2023-12-28T12:09:48.2673221+00:00"
 }

@@ -19,8 +19,8 @@ Number of Ratings: 116  (23.09.2022)
 | One Of the Chosen | 42.00% | ~106 |
 | Throne Potato | 41.00% | ~104 |
 | Devil's in the Details | 40.00% | ~101 |
+| Five's a Crowd | 39.00% | ~99 |
 | 25 to Life | 39.00% | ~99 |
-| Five's a Crowd | 38.00% | ~96 |
 | Soul Harvester | 37.00% | ~94 |
 | Unshakable Fortitude | 36.00% | ~91 |
 | Salvation | 35.00% | ~89 |
@@ -33,9 +33,9 @@ Number of Ratings: 116  (23.09.2022)
 | For Whom the Bell Tolls | 28.00% | ~71 |
 | Unyielding Strength | 24.00% | ~61 |
 | Big Spender | 23.00% | ~58 |
+| Cleanup Crew | 22.00% | ~56 |
 | Can you restore the Balance? | 22.00% | ~56 |
-| Cleanup Crew | 21.00% | ~53 |
-| Crowd Source | 21.00% | ~53 |
+| Crowd Source | 22.00% | ~56 |
 | Maximum Capacity | 20.00% | ~51 |
 | Demon Meddler | 19.00% | ~48 |
 | Seeing Red | 18.00% | ~46 |

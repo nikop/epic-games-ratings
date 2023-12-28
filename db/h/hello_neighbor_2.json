@@ -489,11 +489,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3669,
+  "EOS_Progressed": 3670,
   "EOS_Completed": 140,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.82,
+  "EOS_Completed_Percentage": 3.81,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.7979813+00:00",
@@ -6239,6 +6239,11 @@
       "Time": "2023-12-28T11:06:05.1043872+00:00",
       "NumProgressed": 3669,
       "NumCompleted": 140
+    },
+    {
+      "Time": "2023-12-28T12:08:06.5586677+00:00",
+      "NumProgressed": 3670,
+      "NumCompleted": 140
     }
   ],
   "TotalAchievements": 14,
@@ -6282,7 +6287,7 @@
       "Name": "Dog Person",
       "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "ACH_EASY_AS_PIE",
@@ -6306,7 +6311,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -6361,7 +6366,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3669,
+      "Progressed": 3670,
       "Completed": 140
     }
   ],
@@ -6369,8 +6374,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-12-26T22:59:33.8911341+00:00",
-  "LastChanged_Achievements": "2023-12-28T11:06:05.1043866+00:00",
+  "LastChanged_Achievements": "2023-12-28T12:08:06.5586673+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:21.8712839+00:00",
-  "LastUpdate_Ratings": "2023-12-28T10:59:24.893461+00:00",
-  "LastUpdate_Achievements": "2023-12-28T11:06:05.1044248+00:00"
+  "LastUpdate_Ratings": "2023-12-28T12:01:04.0354282+00:00",
+  "LastUpdate_Achievements": "2023-12-28T12:08:06.5587054+00:00"
 }

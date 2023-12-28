@@ -5,17 +5,17 @@ Rating: 4.58 (Ranked 459)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 31.00% | ~1,170 |
-| Sputnik 2049 | 27.00% | ~1,019 |
+| Wakey Wakey | 31.00% | ~1,171 |
+| Sputnik 2049 | 27.00% | ~1,020 |
 | Without Breaking Some Eggs... | 26.00% | ~982 |
 | Infinite Growth... | 26.00% | ~982 |
 | Space Society | 18.00% | ~680 |
 | A Thousand Strong | 18.00% | ~680 |
 | Ready for a New World | 18.00% | ~680 |
 | Permanent Redesigns | 16.00% | ~604 |
-| Fully Recycled | 14.00% | ~528 |
-| Ain't Nobody Got Time for That | 14.00% | ~528 |
-| The Ship of Theseus | 14.00% | ~528 |
+| Fully Recycled | 14.00% | ~529 |
+| Ain't Nobody Got Time for That | 14.00% | ~529 |
+| The Ship of Theseus | 14.00% | ~529 |
 | Guy de Borderlands | 13.00% | ~491 |
 | Hope Seeker | 13.00% | ~491 |
 | A Hunk of Junk | 12.00% | ~453 |
@@ -28,8 +28,8 @@ Rating: 4.58 (Ranked 459)
 | Sightseeing | 7.00% | ~264 |
 | Necessary Enhancement | 7.00% | ~264 |
 | From the Past | 7.00% | ~264 |
-| Access Granted | 6.00% | ~226 |
-| All in Good Health | 6.00% | ~226 |
+| Access Granted | 6.00% | ~227 |
+| All in Good Health | 6.00% | ~227 |
 | Oats | 5.00% | ~189 |
 | What They Hide From Us | 5.00% | ~189 |
 | ...  in a finite world | 5.00% | ~189 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 459)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,775 (Ranked 211)  
+Progressed: 3,776 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 3,722 | 0 |
 | 2023-12-26 | 3,743 | 0 |
 | 2023-12-27 | 3,765 | 0 |
-| 2023-12-28 | 3,775 | 0 |
+| 2023-12-28 | 3,776 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

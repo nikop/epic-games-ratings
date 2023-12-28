@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2968,
+  "EOS_Progressed": 2970,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 577,
+  "EOS_NewPlayers": 576,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3104,6 +3104,11 @@
       "Time": "2023-12-28T11:05:57.5386791+00:00",
       "NumProgressed": 2968,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T12:07:55.5955385+00:00",
+      "NumProgressed": 2970,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -3138,9 +3143,9 @@
       "ID": "ACHIEVEMENT_09",
       "SetID": "c167foo",
       "Name": "Highest Among the Highest",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 861
+      "UsersEstimate": 832
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -3220,7 +3225,7 @@
       "Name": "Worthy Badge",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -3300,7 +3305,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -3316,7 +3321,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1129
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -3491,14 +3496,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 2968,
+      "Progressed": 2970,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-28T11:05:57.5386786+00:00",
+  "LastChanged_Achievements": "2023-12-28T12:07:55.5955378+00:00",
   "LastUpdate_AppInfo": "2023-12-26T12:59:42.4793606+00:00",
-  "LastUpdate_Ratings": "2023-12-28T10:57:37.3406607+00:00",
-  "LastUpdate_Achievements": "2023-12-28T11:05:57.538725+00:00"
+  "LastUpdate_Ratings": "2023-12-28T11:58:14.933832+00:00",
+  "LastUpdate_Achievements": "2023-12-28T12:07:55.5955824+00:00"
 }

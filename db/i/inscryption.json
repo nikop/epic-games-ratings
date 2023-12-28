@@ -2,12 +2,12 @@
   "ID": "78546100323d461dbda0306d6af277e3",
   "Name": "Inscryption",
   "ProductSlug": "inscryption-6b29ab",
-  "Ranking_Rating": 32,
+  "Ranking_Rating": 31,
   "Ranking_Popularity": 243,
   "Ranking_PopularitySum": 340,
   "Ranking_EOS_Progress": 817,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewPlayers": 565,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-10-19T19:00:00+00:00",
@@ -782,10 +782,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 445,
       "NumberOfAwardsMax": 357
+    },
+    {
+      "Time": "2023-12-28T12:01:22.4453412+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 446,
+      "NumberOfAwardsMax": 357
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 445,
+  "NumberOfAwards": 446,
   "NumberOfAwardsMax": 357,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -805,7 +811,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game is Great for Beginners",
@@ -831,8 +837,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:28.221027+00:00",
-  "LastChanged": "2023-12-25T23:58:18.798413+00:00",
+  "LastChanged": "2023-12-28T12:01:22.445341+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:08.024519+00:00",
-  "LastUpdate_Ratings": "2023-12-28T10:59:35.8902075+00:00",
-  "LastUpdate_Achievements": "2023-12-28T11:05:36.8701692+00:00"
+  "LastUpdate_Ratings": "2023-12-28T12:01:22.4453416+00:00",
+  "LastUpdate_Achievements": "2023-12-28T12:07:25.679576+00:00"
 }

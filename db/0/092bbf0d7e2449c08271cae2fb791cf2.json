@@ -4,7 +4,7 @@
   "ProductSlug": "chuchel-203808",
   "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 325,
+  "EOS_Progressed": 326,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
@@ -1069,6 +1069,11 @@
       "Time": "2023-12-28T11:05:11.5247323+00:00",
       "NumProgressed": 325,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T12:06:47.6586714+00:00",
+      "NumProgressed": 326,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1089,7 +1094,7 @@
       "Name": "Blabber",
       "Percentage": 50,
       "XP": 145,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ach3",
@@ -1113,7 +1118,7 @@
       "Name": "Cloudbuster",
       "Percentage": 2,
       "XP": 140,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach6",
@@ -1121,7 +1126,7 @@
       "Name": "Creature Maker",
       "Percentage": 2,
       "XP": 140,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach7",
@@ -1136,14 +1141,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 325,
+      "Progressed": 326,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-12-28T11:05:11.5247318+00:00",
+  "LastChanged_Achievements": "2023-12-28T12:06:47.6586709+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:07.636228+00:00",
-  "LastUpdate_Ratings": "2023-12-28T10:59:37.3829812+00:00",
-  "LastUpdate_Achievements": "2023-12-28T11:05:11.5247446+00:00"
+  "LastUpdate_Ratings": "2023-12-28T12:01:24.7317639+00:00",
+  "LastUpdate_Achievements": "2023-12-28T12:06:47.6586851+00:00"
 }
