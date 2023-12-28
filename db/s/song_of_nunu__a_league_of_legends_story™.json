@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -3459,9 +3459,9 @@
       "ID": "EV_ACH01",
       "SetID": "6jeac23",
       "Name": "Blue Dreams",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 885
+      "UsersEstimate": 898
     },
     {
       "ID": "EV_ACH02",
@@ -3475,9 +3475,9 @@
       "ID": "EV_ACH03",
       "SetID": "6jeac23",
       "Name": "He\u0027s Famous!",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 885
+      "UsersEstimate": 898
     },
     {
       "ID": "EV_ACH04",
@@ -3499,9 +3499,9 @@
       "ID": "EV_ACH06",
       "SetID": "6jeac23",
       "Name": "A Tragic Reminder",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 599
+      "UsersEstimate": 612
     },
     {
       "ID": "EV_ACH07",
@@ -3820,8 +3820,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-25T19:59:38.6529887+00:00",
-  "LastChanged_Achievements": "2023-12-28T04:11:02.5239359+00:00",
+  "LastChanged_Achievements": "2023-12-28T05:11:17.2451163+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:41.3966374+00:00",
-  "LastUpdate_Ratings": "2023-12-28T03:57:41.2330133+00:00",
-  "LastUpdate_Achievements": "2023-12-28T04:11:02.5239829+00:00"
+  "LastUpdate_Ratings": "2023-12-28T04:57:35.2762691+00:00",
+  "LastUpdate_Achievements": "2023-12-28T05:11:17.2451553+00:00"
 }

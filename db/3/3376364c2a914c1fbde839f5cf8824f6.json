@@ -2,10 +2,10 @@
   "ID": "3376364c2a914c1fbde839f5cf8824f6",
   "Name": "Secret Agent 001",
   "ProductSlug": "obelixes-tower-defense-0efb67",
-  "Ranking_EOS_Progress": 816,
+  "Ranking_EOS_Progress": 817,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-07-29T07:00:00+00:00",
     "PcReleaseDate": "2022-12-02T08:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-11T22:58:22.0362752+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:21.1761567+00:00",
-  "LastUpdate_Ratings": "2023-12-28T04:03:44.2779007+00:00",
-  "LastUpdate_Achievements": "2023-12-28T04:08:23.9053879+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:03:41.4542358+00:00",
+  "LastUpdate_Achievements": "2023-12-28T05:08:47.4430279+00:00"
 }

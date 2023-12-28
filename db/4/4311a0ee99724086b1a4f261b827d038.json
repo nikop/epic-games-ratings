@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -809,9 +809,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 240006,
+  "EOS_Progressed": 240009,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1340,
+  "EOS_NewPlayers": 1343,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19084,6 +19084,11 @@
       "Time": "2023-12-28T04:10:54.3178834+00:00",
       "NumProgressed": 240006,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T05:11:08.4803734+00:00",
+      "NumProgressed": 240009,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -19152,7 +19157,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 50401
+      "UsersEstimate": 50402
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -19288,7 +19293,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16800
+      "UsersEstimate": 16801
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -19367,7 +19372,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 240006,
+      "Progressed": 240009,
       "Completed": 0
     }
   ],
@@ -19375,8 +19380,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-26T21:58:17.9445205+00:00",
-  "LastChanged_Achievements": "2023-12-28T04:10:54.3178829+00:00",
+  "LastChanged_Achievements": "2023-12-28T05:11:08.4803731+00:00",
   "LastUpdate_AppInfo": "2023-12-22T05:57:00.8106495+00:00",
-  "LastUpdate_Ratings": "2023-12-28T04:00:00.5719223+00:00",
-  "LastUpdate_Achievements": "2023-12-28T04:10:54.3179855+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:00:09.7938815+00:00",
+  "LastUpdate_Achievements": "2023-12-28T05:11:08.4804782+00:00"
 }

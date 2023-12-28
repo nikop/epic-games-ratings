@@ -8,9 +8,9 @@ Rating: 4.52 (Ranked 567)
 | Feels Familiar | 74.00% | ~1,007 |
 | I Broke It | 73.00% | ~994 |
 | Better On Ice | 67.00% | ~912 |
+| Blue Dreams | 66.00% | ~898 |
+| He's Famous! | 66.00% | ~898 |
 | Notai Notes | 66.00% | ~898 |
-| Blue Dreams | 65.00% | ~885 |
-| He's Famous! | 65.00% | ~885 |
 | Krugmazing | 64.00% | ~871 |
 | Cutie Poro | 64.00% | ~871 |
 | Moneyball | 60.00% | ~817 |
@@ -22,7 +22,7 @@ Rating: 4.52 (Ranked 567)
 | My Darkest Day | 48.00% | ~653 |
 | Rhythm Of Willump | 46.00% | ~626 |
 | The Relentless Storm | 46.00% | ~626 |
-| A Tragic Reminder | 44.00% | ~599 |
+| A Tragic Reminder | 45.00% | ~612 |
 | 3000 Year Blackout | 44.00% | ~599 |
 | So Close | 42.00% | ~572 |
 | The Finisher | 42.00% | ~572 |

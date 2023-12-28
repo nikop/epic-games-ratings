@@ -30,13 +30,13 @@ Rating: 4.56 (Ranked 498)
 | Defeat 25 Mozis | 0.60% | ~14 |
 | Defeat the Grub Buster | 0.50% | ~5 |
 | Complete the Chefs Book | 0.40% | ~9 |
+| Complete Ranger Faction | 0.40% | ~9 |
 | Defeat Avor Warden of the Northern Wastes | 0.40% | ~9 |
 | Fix the Travellers Wagon | 0.40% | ~9 |
 | Discover the mystery of the Kings Chambers | 0.40% | ~9 |
 | Defeat the Stalker Queen | 0.40% | ~4 |
 | Return the Statues | 0.30% | ~7 |
 | Complete Arena Faction | 0.30% | ~7 |
-| Complete Ranger Faction | 0.30% | ~7 |
 | Defeat Rattus Augustail | 0.30% | ~7 |
 | Complete Redgi's Armory | 0.20% | ~5 |
 | King of Kings | 0.20% | ~5 |

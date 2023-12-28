@@ -2,10 +2,10 @@
   "ID": "a72869e83a604578b9f22003c19ba3f8",
   "Name": "ATV Offroad Simulator 24",
   "ProductSlug": "atv-offroad-simulator-24-d9f4ad",
-  "Ranking_EOS_Progress": 816,
+  "Ranking_EOS_Progress": 817,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-14T19:00:00+00:00",
     "PcReleaseDate": "2023-10-31T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-15T14:57:15.7434824+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:54.3507427+00:00",
-  "LastUpdate_Ratings": "2023-12-28T03:58:11.1931872+00:00",
-  "LastUpdate_Achievements": "2023-12-28T04:10:04.7778771+00:00"
+  "LastUpdate_Ratings": "2023-12-28T04:58:08.0294671+00:00",
+  "LastUpdate_Achievements": "2023-12-28T05:10:15.0982416+00:00"
 }

@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~1,969 |
-| Off to a good start | 63.00% | ~1,426 |
-| Do... or do not. There is no try | 52.00% | ~1,177 |
-| A good blaster at your side | 26.00% | ~588 |
-| I suggest a new strategy | 18.00% | ~407 |
+| New Recruit | 87.00% | ~1,971 |
+| Off to a good start | 63.00% | ~1,427 |
+| Do... or do not. There is no try | 52.00% | ~1,178 |
+| A good blaster at your side | 26.00% | ~589 |
+| I suggest a new strategy | 18.00% | ~408 |
 | Scrap collector | 16.00% | ~362 |
 | Great shot, kid! | 16.00% | ~362 |
-| All right, I'll give it a try | 15.00% | ~339 |
-| The power of the Force | 13.00% | ~294 |
+| All right, I'll give it a try | 15.00% | ~340 |
 | Shoot first | 13.00% | ~294 |
+| The power of the Force | 12.00% | ~272 |
 | Collector | 12.00% | ~272 |
 | Together we can rule the galaxy | 12.00% | ~272 |
 | Tell Jabba that I've got his money | 9.00% | ~204 |
 | Best star-pilot in the galaxy | 8.00% | ~181 |
 | Survivor | 8.00% | ~181 |
-| Never tell me the odds! | 7.00% | ~158 |
-| A cunning warrior | 7.00% | ~158 |
+| Never tell me the odds! | 7.00% | ~159 |
+| A cunning warrior | 7.00% | ~159 |
 | What's the cargo? | 6.00% | ~136 |
 | "Gonk? Gonk!" | 5.00% | ~113 |
 | Impressive. Most impressive. | 5.00% | ~113 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,263 (Ranked 233)  
+Progressed: 2,265 (Ranked 233)  
 Completed: 1 (0.04%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 1 (0.04%) (Ranked 345)
 | 2023-12-25 | 2,164 | 1 |
 | 2023-12-26 | 2,218 | 1 |
 | 2023-12-27 | 2,258 | 1 |
-| 2023-12-28 | 2,263 | 1 |
+| 2023-12-28 | 2,265 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1132,
+  "EOS_Progressed": 1133,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -3236,6 +3236,11 @@
       "Time": "2023-12-28T03:10:08.8136098+00:00",
       "NumProgressed": 1132,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-28T05:11:11.2194038+00:00",
+      "NumProgressed": 1133,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3255,7 +3260,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -3407,7 +3412,7 @@
       "Name": "Rail Rat",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "HexlockGift",
@@ -3495,7 +3500,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ParryRepeated1",
@@ -3535,7 +3540,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "RewindParry",
@@ -3575,7 +3580,7 @@
       "Name": "Fast Learner",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "SpeedRun",
@@ -3607,7 +3612,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "TheaterChests1",
@@ -3623,7 +3628,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "WarwickDefeated",
@@ -3647,7 +3652,7 @@
       "Name": "Good Neighbor",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "Zarkon1Defeated",
@@ -3655,7 +3660,7 @@
       "Name": "The Brass Boss",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3670,7 +3675,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1132,
+      "Progressed": 1133,
       "Completed": 6
     }
   ],
@@ -3678,8 +3683,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-28T04:10:56.8035409+00:00",
+  "LastChanged_Achievements": "2023-12-28T05:11:11.2194032+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-28T04:00:28.4945644+00:00",
-  "LastUpdate_Achievements": "2023-12-28T04:10:56.803591+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:00:41.6041887+00:00",
+  "LastUpdate_Achievements": "2023-12-28T05:11:11.2194487+00:00"
 }

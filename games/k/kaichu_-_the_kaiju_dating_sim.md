@@ -11,9 +11,9 @@
 | Love is in Bloom | 36.00% | ~16 |
 | Royal Romance | 34.00% | ~15 |
 | Speed Dating | 25.00% | ~11 |
+| Spread the Love | 25.00% | ~11 |
+| A Heated Affair | 23.00% | ~10 |
 | Love is in the Air | 23.00% | ~10 |
-| Spread the Love | 23.00% | ~10 |
-| A Heated Affair | 20.00% | ~9 |
 | Short Distance Relationship | 20.00% | ~9 |
 | Out of Your Shell | 16.00% | ~7 |
 | Long Distance Relationship | 14.00% | ~6 |

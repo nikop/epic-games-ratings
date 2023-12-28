@@ -10,13 +10,13 @@ Number of Ratings: 116  (23.09.2022)
 | First of many… | 69.00% | ~172 |
 | Helping Hand | 66.00% | ~165 |
 | Increased Vigor | 60.00% | ~150 |
-| Fight Fire with Fire | 58.00% | ~145 |
+| Fight Fire with Fire | 59.00% | ~148 |
 | Increased Capacity | 54.00% | ~135 |
 | Just the start | 52.00% | ~130 |
 | Perfect Storm | 48.00% | ~120 |
 | All That Glitters | 47.00% | ~118 |
 | Enhance! | 44.00% | ~110 |
-| One Of the Chosen | 41.00% | ~102 |
+| One Of the Chosen | 42.00% | ~105 |
 | Devil's in the Details | 40.00% | ~100 |
 | Throne Potato | 40.00% | ~100 |
 | 25 to Life | 39.00% | ~98 |
@@ -33,8 +33,8 @@ Number of Ratings: 116  (23.09.2022)
 | For Whom the Bell Tolls | 27.00% | ~68 |
 | Unyielding Strength | 24.00% | ~60 |
 | Big Spender | 23.00% | ~58 |
+| Can you restore the Balance? | 22.00% | ~55 |
 | Cleanup Crew | 21.00% | ~52 |
-| Can you restore the Balance? | 21.00% | ~52 |
 | Crowd Source | 21.00% | ~52 |
 | Maximum Capacity | 20.00% | ~50 |
 | Demon Meddler | 19.00% | ~48 |

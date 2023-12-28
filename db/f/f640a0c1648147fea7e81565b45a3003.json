@@ -2,10 +2,10 @@
   "ID": "f640a0c1648147fea7e81565b45a3003",
   "Name": "Warhammer 40,000: Space Marine 2",
   "ProductSlug": "warhammer-40000-space-marine-2",
-  "Ranking_EOS_Progress": 816,
+  "Ranking_EOS_Progress": 817,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2024-09-09T10:00:00+00:00",
     "PcReleaseDate": "2024-09-09T10:00:00+00:00",
@@ -36,8 +36,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-08T05:02:59.0194168+00:00",
-  "LastChanged_Achievements": "2023-12-28T04:05:53.9032555+00:00",
+  "LastChanged_Achievements": "2023-12-28T05:06:04.1218767+00:00",
   "LastUpdate_AppInfo": "2023-12-22T06:56:56.7256209+00:00",
-  "LastUpdate_Ratings": "2023-12-28T04:00:11.0911281+00:00",
-  "LastUpdate_Achievements": "2023-12-28T04:05:53.9032596+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:00:21.4007811+00:00",
+  "LastUpdate_Achievements": "2023-12-28T05:06:04.1218792+00:00"
 }

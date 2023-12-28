@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17451,
+  "EOS_Progressed": 17452,
   "EOS_Completed": 122,
   "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 3,
@@ -17175,6 +17175,11 @@
       "Time": "2023-12-28T03:08:41.6804431+00:00",
       "NumProgressed": 17451,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-12-28T05:09:07.2248007+00:00",
+      "NumProgressed": 17452,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 41,
@@ -17226,7 +17231,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5584
+      "UsersEstimate": 5585
     },
     {
       "ID": "tpote_achievement_15",
@@ -17450,7 +17455,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6980
+      "UsersEstimate": 6981
     },
     {
       "ID": "tpote_achievement_40",
@@ -17506,22 +17511,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5933
+      "UsersEstimate": 5934
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17451,
+      "Progressed": 17452,
       "Completed": 122
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-28T04:08:42.3992917+00:00",
+  "LastChanged_Achievements": "2023-12-28T05:09:07.2248001+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.265609+00:00",
-  "LastUpdate_Ratings": "2023-12-28T04:00:29.4084593+00:00",
-  "LastUpdate_Achievements": "2023-12-28T04:08:42.3993746+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:00:42.6331647+00:00",
+  "LastUpdate_Achievements": "2023-12-28T05:09:07.2249035+00:00"
 }

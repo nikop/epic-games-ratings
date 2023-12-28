@@ -2,10 +2,10 @@
   "ID": "ed4fdacaea4746deb4aeb02480909cb1",
   "Name": "Contingent\u00AE\uFE0F",
   "ProductSlug": "contingent-72576b",
-  "Ranking_EOS_Progress": 816,
+  "Ranking_EOS_Progress": 817,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-26T12:59:42.1519782+00:00",
-  "LastUpdate_Ratings": "2023-12-28T04:00:24.9920275+00:00",
-  "LastUpdate_Achievements": "2023-12-28T04:09:25.286403+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:00:37.8230468+00:00",
+  "LastUpdate_Achievements": "2023-12-28T05:09:54.3237393+00:00"
 }

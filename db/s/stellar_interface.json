@@ -2,10 +2,10 @@
   "ID": "d3c246767bfc4056af80742e75319d79",
   "Name": "Stellar Interface",
   "ProductSlug": "stellar-interface-d14cc4",
-  "Ranking_EOS_Progress": 511,
+  "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 517,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
     "PcReleaseDate": "2016-11-21T00:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72,
+  "EOS_Progressed": 73,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -374,6 +374,11 @@
       "Time": "2023-12-17T09:05:23.6611318+00:00",
       "NumProgressed": 72,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T05:07:05.4960613+00:00",
+      "NumProgressed": 73,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 132,
@@ -407,7 +412,7 @@
       "ID": "BronzeBallyBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Bronze Prince of Ball-air",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -423,7 +428,7 @@
       "ID": "BronzeHoberMallowBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Bronze Foundation",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -447,7 +452,7 @@
       "ID": "BronzeMissionsCompleted10Achievement",
       "SetID": "a8djcgh",
       "Name": "System Ensign",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -487,7 +492,7 @@
       "ID": "BronzeTheHiveBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Bronze Pest Control",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -511,7 +516,7 @@
       "ID": "Cleared100LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Rambo III",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -519,7 +524,7 @@
       "ID": "Cleared10LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Rambo I",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
       "UsersEstimate": 22
     },
@@ -535,7 +540,7 @@
       "ID": "Cleared200LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Rambo IV",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -543,7 +548,7 @@
       "ID": "Cleared20LevelsInAtLeast20LongAGraph",
       "SetID": "a8djcgh",
       "Name": "Curious",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -711,7 +716,7 @@
       "ID": "ConsumableUsed100TimesAchievement",
       "SetID": "a8djcgh",
       "Name": "Omicron Theta",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -735,7 +740,7 @@
       "ID": "ConsumableUsed50TimesAchievement",
       "SetID": "a8djcgh",
       "Name": "Omicron Beta",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -751,7 +756,7 @@
       "ID": "CorvetteSpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "The Vette",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
       "UsersEstimate": 20
     },
@@ -759,7 +764,7 @@
       "ID": "DoveSpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "No Peace",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -767,7 +772,7 @@
       "ID": "EagleSpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "Bird of Prey",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -943,7 +948,7 @@
       "ID": "Killed0EnemiesInLevelAchievement",
       "SetID": "a8djcgh",
       "Name": "Pacifist",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -959,7 +964,7 @@
       "ID": "Killed10000EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Wicked Sick",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -975,7 +980,7 @@
       "ID": "Killed1000EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Mega Kill",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 17
     },
@@ -991,7 +996,7 @@
       "ID": "Killed100EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Killing Spree",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 5,
       "UsersEstimate": 50
     },
@@ -1009,13 +1014,13 @@
       "Name": "First Blood",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Killed20BossesAchievement",
       "SetID": "a8djcgh",
       "Name": "Usurper II",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -1047,7 +1052,7 @@
       "ID": "Killed500EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Dominating",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
       "UsersEstimate": 25
     },
@@ -1087,7 +1092,7 @@
       "ID": "PerksUnlocked10Achievement",
       "SetID": "a8djcgh",
       "Name": "10Gb HDD",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
       "UsersEstimate": 22
     },
@@ -1103,7 +1108,7 @@
       "ID": "PerksUnlocked50Achievement",
       "SetID": "a8djcgh",
       "Name": "50Gb HDD",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -1111,7 +1116,7 @@
       "ID": "PerksUnlocked5Achievement",
       "SetID": "a8djcgh",
       "Name": "5Gb HDD",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
       "UsersEstimate": 38
     },
@@ -1143,7 +1148,7 @@
       "ID": "PlayedFor1HourAchievement",
       "SetID": "a8djcgh",
       "Name": "Galactic Cadet",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -1207,7 +1212,7 @@
       "ID": "SilverHoberMallowBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Silver Foundation",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -1271,7 +1276,7 @@
       "ID": "SilverTheHiveBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Silver Pest Control",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -1335,7 +1340,7 @@
       "ID": "VisitLostLord1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Collateral Damage I",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -1367,9 +1372,9 @@
       "ID": "VisitMerchant1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Merchant Prince I",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "VisitOverlord100TimeAchievement",
@@ -1440,14 +1445,14 @@
     {
       "ID": "a8djcgh",
       "IsBase": true,
-      "Progressed": 72,
+      "Progressed": 73,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-12-28T04:06:49.8250244+00:00",
+  "LastChanged_Achievements": "2023-12-28T05:07:05.4960607+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:09.2348946+00:00",
-  "LastUpdate_Ratings": "2023-12-28T03:58:43.6512126+00:00",
-  "LastUpdate_Achievements": "2023-12-28T04:06:49.8251613+00:00"
+  "LastUpdate_Ratings": "2023-12-28T04:58:45.8893583+00:00",
+  "LastUpdate_Achievements": "2023-12-28T05:07:05.4962093+00:00"
 }

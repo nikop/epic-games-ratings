@@ -12,7 +12,7 @@ Number of Ratings: 281  (23.09.2022)
 | Can you smell what the Rod is Hooking | 11.00% | ~842 |
 | Scaling up | 10.00% | ~766 |
 | I'm on a Boat! | 9.00% | ~689 |
-| Ready to Rod and Roll | 8.00% | ~612 |
+| Ready to Rod and Roll | 8.00% | ~613 |
 | Fish Out of Water | 5.00% | ~383 |
 | Things that go Splash in the Night | 5.00% | ~383 |
 | Goldfish? | 4.00% | ~306 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,656 (Ranked 188)  
+Progressed: 7,657 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 7,552 | 0 |
 | 2023-12-26 | 7,601 | 0 |
 | 2023-12-27 | 7,651 | 0 |
-| 2023-12-28 | 7,656 | 0 |
+| 2023-12-28 | 7,657 | 0 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 471)  
 Sum: 212 (Ranked 408)  

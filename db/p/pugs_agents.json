@@ -2,10 +2,10 @@
   "ID": "97888142acb544ce998f1d145eb27255",
   "Name": "PUGS Agents",
   "ProductSlug": "pugs-agents-996132",
-  "Ranking_EOS_Progress": 816,
+  "Ranking_EOS_Progress": 817,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.3924668+00:00",
-  "LastUpdate_Ratings": "2023-12-28T03:59:16.6858751+00:00",
-  "LastUpdate_Achievements": "2023-12-28T04:08:49.3920587+00:00"
+  "LastUpdate_Ratings": "2023-12-28T04:59:22.1578522+00:00",
+  "LastUpdate_Achievements": "2023-12-28T05:09:14.6735938+00:00"
 }

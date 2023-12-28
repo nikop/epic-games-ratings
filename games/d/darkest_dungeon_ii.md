@@ -6,10 +6,10 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~567 |
+| Malpractice Assurance | 11.00% | ~568 |
 | Lost and Found | 7.00% | ~361 |
-| This Belongs in a Museum | 5.00% | ~6,514 |
-| Autodidact | 5.00% | ~6,514 |
+| This Belongs in a Museum | 5.00% | ~6,515 |
+| Autodidact | 5.00% | ~6,515 |
 | This guy... again? | 5.00% | ~258 |
 | Ploughshares to Swords | 5.00% | ~258 |
 | Bloody Graduation | 5.00% | ~258 |
@@ -53,11 +53,11 @@ Number of Ratings: 7,767  (23.09.2022)
 | Worldly Traveller | 2.00% | ~2,606 |
 | Utopia | 2.00% | ~2,606 |
 | Unshackled | 2.00% | ~2,606 |
+| Hot Air | 2.00% | ~2,606 |
 | Road Trip | 2.00% | ~2,606 |
 | This Looks Familiar | 1.00% | ~1,303 |
 | Ichthyophobic | 1.00% | ~1,303 |
 | No More Mouths to Feed | 1.00% | ~1,303 |
-| Hot Air | 1.00% | ~1,303 |
 | Eyes Up | 1.00% | ~1,303 |
 | Handled | 1.00% | ~1,303 |
 | Slap on the Wrist | 1.00% | ~52 |
@@ -65,18 +65,18 @@ Number of Ratings: 7,767  (23.09.2022)
 | Body of Work | 0.90% | ~1,173 |
 | Shrine of Reflection | 0.80% | ~1,042 |
 | Clearing the Ledger | 0.70% | ~912 |
+| Triage | 0.70% | ~912 |
 | No Mercy | 0.70% | ~36 |
 | Et Tu, Riposte? | 0.70% | ~36 |
 | Hat Trick | 0.60% | ~782 |
-| Triage | 0.60% | ~782 |
 | The World As It Was | 0.50% | ~651 |
 | A Life Well Lived | 0.40% | ~521 |
 | Bacon Bits | 0.40% | ~521 |
 | Eidetic | 0.40% | ~521 |
 | On This Long Road, We Found Redemption | 0.40% | ~21 |
+| Tears in the Rain | 0.30% | ~391 |
 | Battle Hardened | 0.30% | ~15 |
 | Maître De La Lame | 0.30% | ~15 |
-| Tears in the Rain | 0.20% | ~261 |
 | Loop Year | 0.10% | ~130 |
 | Circle of Life | 0.10% | ~130 |
 | No Gravestone Left Unturned | 0.10% | ~130 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,290 (Ranked 87)  
+Progressed: 130,291 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-25 | 129,858 | 3 |
 | 2023-12-26 | 130,068 | 3 |
 | 2023-12-27 | 130,259 | 3 |
-| 2023-12-28 | 130,290 | 3 |
+| 2023-12-28 | 130,291 | 3 |
 ## Awards
 Max (Character Customization): 7,888  (Ranked 50)  
 Sum: 21,180 (Ranked 58)  

@@ -2,10 +2,10 @@
   "ID": "7f9155561a3e461a83739c94459d013b",
   "Name": "Argonauts Agency 5: Captive of Circe",
   "ProductSlug": "argonauts-agency-captive-of-circe-547604",
-  "Ranking_EOS_Progress": 816,
+  "Ranking_EOS_Progress": 817,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2024-02-01T21:00:00+00:00",
     "PcReleaseDate": "2021-12-20T21:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-27T05:56:58.731066+00:00",
-  "LastUpdate_Ratings": "2023-12-28T03:57:41.9310962+00:00",
-  "LastUpdate_Achievements": "2023-12-28T04:07:41.5854089+00:00"
+  "LastUpdate_Ratings": "2023-12-28T04:57:36.0331185+00:00",
+  "LastUpdate_Achievements": "2023-12-28T05:08:01.534546+00:00"
 }

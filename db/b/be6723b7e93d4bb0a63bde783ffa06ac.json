@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2018-02-20T17:00:00+00:00",
@@ -817,9 +817,9 @@
       "ID": "ach24",
       "SetID": "baneh2j",
       "Name": "Researcher",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 35,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ach25",
@@ -944,8 +944,8 @@
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-12-28T04:04:15.9288213+00:00",
+  "LastChanged_Achievements": "2023-12-28T05:04:18.1042619+00:00",
   "LastUpdate_AppInfo": "2023-12-27T09:57:11.1404081+00:00",
-  "LastUpdate_Ratings": "2023-12-28T04:02:01.8802689+00:00",
-  "LastUpdate_Achievements": "2023-12-28T04:04:15.9288472+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:02:24.2041847+00:00",
+  "LastUpdate_Achievements": "2023-12-28T05:04:18.1042886+00:00"
 }

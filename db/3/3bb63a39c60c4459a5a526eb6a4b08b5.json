@@ -4,8 +4,8 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1047,
+  "EOS_Progressed": 1048,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -4049,6 +4049,11 @@
       "Time": "2023-12-27T22:10:51.0399951+00:00",
       "NumProgressed": 1047,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T05:11:14.1782806+00:00",
+      "NumProgressed": 1048,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -4100,7 +4105,7 @@
       "Name": "Calculated",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "Close",
@@ -4146,9 +4151,9 @@
       "ID": "Fifty",
       "SetID": "1e89b4i",
       "Name": "Fifty",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 84
     },
     {
       "ID": "First",
@@ -4260,7 +4265,7 @@
       "Name": "New Record",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "NoTimeForModernization",
@@ -4276,7 +4281,7 @@
       "Name": "No Way Back",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "NotPlanned",
@@ -4284,7 +4289,7 @@
       "Name": "This Wasn\u0027t Part of the Plan...",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "Ownway",
@@ -4372,7 +4377,7 @@
       "Name": "Ten!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "TimeForManagement",
@@ -4395,14 +4400,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1047,
+      "Progressed": 1048,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-12-28T04:10:59.6310576+00:00",
+  "LastChanged_Achievements": "2023-12-28T05:11:14.1782804+00:00",
   "LastUpdate_AppInfo": "2023-12-26T20:57:07.3165629+00:00",
-  "LastUpdate_Ratings": "2023-12-28T04:03:24.5235422+00:00",
-  "LastUpdate_Achievements": "2023-12-28T04:10:59.6311046+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:02:48.9290858+00:00",
+  "LastUpdate_Achievements": "2023-12-28T05:11:14.1783208+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -12049,9 +12049,9 @@
       "ID": "MF_Ach_FirstStrike",
       "SetID": "9b9n573",
       "Name": "First Strike",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1234
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -12081,9 +12081,9 @@
       "ID": "MF_Ach_HitEmWhereItHurts",
       "SetID": "9b9n573",
       "Name": "Hit \u0027Em Where It Hurts",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1527
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -12185,8 +12185,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2023-12-28T04:04:40.3420902+00:00",
+  "LastChanged_Achievements": "2023-12-28T05:04:44.5812293+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:25.4849752+00:00",
-  "LastUpdate_Ratings": "2023-12-28T04:00:40.1645033+00:00",
-  "LastUpdate_Achievements": "2023-12-28T04:04:40.3421562+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:00:54.9900162+00:00",
+  "LastUpdate_Achievements": "2023-12-28T05:04:44.5813002+00:00"
 }

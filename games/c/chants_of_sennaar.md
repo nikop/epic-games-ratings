@@ -14,11 +14,11 @@ Rating: 4.87 (Ranked 24)
 | True G3M4R | 27.00% | ~518 |
 | The darkness | 27.00% | ~518 |
 | A good beginning | 26.00% | ~498 |
+| One last step | 24.00% | ~460 |
+| Cable guy | 23.00% | ~441 |
 | Half the way | 23.00% | ~441 |
 | Rascal | 23.00% | ~441 |
-| One last step | 23.00% | ~441 |
 | I did it | 22.00% | ~422 |
-| Cable guy | 22.00% | ~422 |
 | In this together | 21.00% | ~403 |
 | Peace walker | 21.00% | ~403 |
 | Champollion | 21.00% | ~403 |

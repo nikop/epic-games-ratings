@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -495,9 +495,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 5308,
+  "EOS_Progressed": 5309,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 643,
+  "EOS_NewPlayers": 644,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8005,6 +8005,11 @@
       "Time": "2023-12-28T04:08:29.9153942+00:00",
       "NumProgressed": 5308,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T05:08:53.7888794+00:00",
+      "NumProgressed": 5309,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -8032,7 +8037,7 @@
       "Name": "One For Every Occasion",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "ACH_ALL_XENO_TECHS",
@@ -8056,7 +8061,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2282
+      "UsersEstimate": 2283
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -8112,7 +8117,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 3503
+      "UsersEstimate": 3504
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -8128,7 +8133,7 @@
       "Name": "Call Me Snake",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 2919
+      "UsersEstimate": 2920
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -8160,7 +8165,7 @@
       "Name": "Hardened In The Heat Of Battle",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "ACH_MAX_GUNNER",
@@ -8184,7 +8189,7 @@
       "Name": "Frontliner",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -8200,7 +8205,7 @@
       "Name": "The Cable Guy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "ACH_MISSION_01",
@@ -8208,7 +8213,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 2813
+      "UsersEstimate": 2814
     },
     {
       "ID": "ACH_MISSION_02",
@@ -8224,7 +8229,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2070
+      "UsersEstimate": 2071
     },
     {
       "ID": "ACH_MISSION_04",
@@ -8248,7 +8253,7 @@
       "Name": "Living Nightmare",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1487
     },
     {
       "ID": "ACH_MISSION_07",
@@ -8296,7 +8301,7 @@
       "Name": "Abysmal Horrors",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -8312,7 +8317,7 @@
       "Name": "Snatched Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 3450
+      "UsersEstimate": 3451
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -8320,7 +8325,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 4087
+      "UsersEstimate": 4088
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -8328,7 +8333,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 2707
+      "UsersEstimate": 2708
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -8360,7 +8365,7 @@
       "Name": "The More The Merrier",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1487
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -8375,7 +8380,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 5308,
+      "Progressed": 5309,
       "Completed": 3
     }
   ],
@@ -8383,8 +8388,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-12-27T14:59:33.9489825+00:00",
-  "LastChanged_Achievements": "2023-12-28T04:08:29.9153937+00:00",
+  "LastChanged_Achievements": "2023-12-28T05:08:53.7888789+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:04.2476654+00:00",
-  "LastUpdate_Ratings": "2023-12-28T04:00:50.589263+00:00",
-  "LastUpdate_Achievements": "2023-12-28T04:08:29.9154447+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:01:06.8340209+00:00",
+  "LastUpdate_Achievements": "2023-12-28T05:08:53.7889341+00:00"
 }

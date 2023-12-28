@@ -2,7 +2,7 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 69,
+  "Ranking_Rating": 70,
   "Ranking_Popularity": 228,
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 150,
@@ -3629,9 +3629,9 @@
       "Count": 335
     }
   ],
-  "EOS_Progressed": 19475,
+  "EOS_Progressed": 19479,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 688,
+  "EOS_NewPlayers": 689,
   "EOS_NewCompleters": -3,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -17409,6 +17409,11 @@
       "Time": "2023-12-28T04:06:41.7457365+00:00",
       "NumProgressed": 19475,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-12-28T05:06:56.5722198+00:00",
+      "NumProgressed": 19479,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17579,9 +17584,9 @@
       "ID": "WinNearFertile",
       "SetID": "cfbk359",
       "Name": "Fertile Meadows",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 584
     },
     {
       "ID": "WinNearFishmen",
@@ -17757,7 +17762,7 @@
       "Name": "Taking Action",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "WinWithResolve",
@@ -17821,7 +17826,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1363
+      "UsersEstimate": 1364
     },
     {
       "ID": "WinNearFrosts",
@@ -17845,7 +17850,7 @@
       "Name": "Overgrown Library",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1363
+      "UsersEstimate": 1364
     },
     {
       "ID": "WinNearPetrified",
@@ -17853,7 +17858,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "WinNearPresence",
@@ -17892,15 +17897,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19475,
+      "Progressed": 19479,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-27T21:00:32.4755155+00:00",
-  "LastChanged_Achievements": "2023-12-28T04:06:41.7457357+00:00",
+  "LastChanged_Achievements": "2023-12-28T05:06:56.572219+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-28T04:00:37.1877546+00:00",
-  "LastUpdate_Achievements": "2023-12-28T04:06:41.7458193+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:00:51.5703991+00:00",
+  "LastUpdate_Achievements": "2023-12-28T05:06:56.5723123+00:00"
 }

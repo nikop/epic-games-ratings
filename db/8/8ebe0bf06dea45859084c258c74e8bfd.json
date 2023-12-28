@@ -2,10 +2,10 @@
   "ID": "8ebe0bf06dea45859084c258c74e8bfd",
   "Name": "Backrooms: Eight Levels",
   "ProductSlug": "backrooms-eight-levels-c7ea4c",
-  "Ranking_EOS_Progress": 816,
+  "Ranking_EOS_Progress": 817,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2024-01-04T22:00:00+00:00",
     "PcReleaseDate": "2024-01-04T22:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-22T14:57:05.8838417+00:00",
-  "LastUpdate_Ratings": "2023-12-28T04:01:05.3257834+00:00",
-  "LastUpdate_Achievements": "2023-12-28T04:06:58.2779842+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:01:21.791881+00:00",
+  "LastUpdate_Achievements": "2023-12-28T05:07:14.2747853+00:00"
 }

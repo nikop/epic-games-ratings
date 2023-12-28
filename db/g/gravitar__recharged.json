@@ -2,10 +2,10 @@
   "ID": "c93c968f694746ffa30999d914eb5566",
   "Name": "Gravitar: Recharged",
   "ProductSlug": "gravitar-d3a7dd",
-  "Ranking_EOS_Progress": 816,
+  "Ranking_EOS_Progress": 817,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4913741+00:00",
   "LastChanged": "2023-03-31T05:58:16.4913742+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:24.4375192+00:00",
-  "LastUpdate_Ratings": "2023-12-28T04:03:48.5523045+00:00",
-  "LastUpdate_Achievements": "2023-12-28T04:04:18.7853943+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:03:46.0486112+00:00",
+  "LastUpdate_Achievements": "2023-12-28T05:04:21.1355248+00:00"
 }

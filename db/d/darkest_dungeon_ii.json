@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10242,9 +10242,9 @@
       "Count": 1059
     }
   ],
-  "EOS_Progressed": 130290,
+  "EOS_Progressed": 130291,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1468,
+  "EOS_NewPlayers": 1469,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37162,6 +37162,11 @@
       "Time": "2023-12-28T04:10:15.6169523+00:00",
       "NumProgressed": 130290,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T05:10:27.0117895+00:00",
+      "NumProgressed": 130291,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37301,7 +37306,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6514
+      "UsersEstimate": 6515
     },
     {
       "ID": "combat_kill_cadavers",
@@ -37515,9 +37520,9 @@
       "ID": "hero_loss_memoried",
       "SetID": "64l4lke",
       "Name": "Tears in the Rain",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 261
+      "UsersEstimate": 391
     },
     {
       "ID": "hero_skill_mastery_five",
@@ -37525,7 +37530,7 @@
       "Name": "Autodidact",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6514
+      "UsersEstimate": 6515
     },
     {
       "ID": "hero_story_complete_all",
@@ -37555,9 +37560,9 @@
       "ID": "hospital_full_service",
       "SetID": "64l4lke",
       "Name": "Triage",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 782
+      "UsersEstimate": 912
     },
     {
       "ID": "inn_first_time",
@@ -37635,9 +37640,9 @@
       "ID": "run_victory_act02",
       "SetID": "64l4lke",
       "Name": "Hot Air",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1303
+      "UsersEstimate": 2606
     },
     {
       "ID": "run_victory_act03",
@@ -37709,7 +37714,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "combat_kill_collector",
@@ -37804,21 +37809,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130290,
+      "Progressed": 130291,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5159,
-      "Completed": 811
+      "Progressed": 5160,
+      "Completed": 812
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-28T02:59:19.4647315+00:00",
-  "LastChanged_Achievements": "2023-12-28T04:10:15.6169515+00:00",
+  "LastChanged_Achievements": "2023-12-28T05:10:27.011789+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-28T04:00:45.1576373+00:00",
-  "LastUpdate_Achievements": "2023-12-28T04:10:15.6171244+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:01:00.3653937+00:00",
+  "LastUpdate_Achievements": "2023-12-28T05:10:27.0119587+00:00"
 }

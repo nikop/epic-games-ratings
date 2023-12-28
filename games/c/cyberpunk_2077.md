@@ -6,37 +6,37 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,870 |
-| Gun Fu | 8.00% | ~78,580 |
-| Right Back At Ya | 7.00% | ~68,757 |
-| The Fool | 7.00% | ~68,757 |
-| The Lovers | 6.00% | ~58,935 |
-| Full Body Conversion | 5.00% | ~49,112 |
-| True Soldier | 5.00% | ~49,112 |
-| All the President's Men | 5.00% | ~5,543 |
+| V for Vendetta | 12.00% | ~117,871 |
+| Gun Fu | 8.00% | ~78,581 |
+| Right Back At Ya | 7.00% | ~68,758 |
+| The Fool | 7.00% | ~68,758 |
+| The Lovers | 6.00% | ~58,936 |
+| Full Body Conversion | 5.00% | ~49,113 |
+| True Soldier | 5.00% | ~49,113 |
+| All the President's Men | 5.00% | ~5,544 |
+| Arachnophobia | 5.00% | ~5,544 |
 | Christmas Tree Attack | 4.00% | ~39,290 |
 | Stanislavski's Method | 4.00% | ~39,290 |
 | The Hermit | 4.00% | ~39,290 |
 | The Wheel of Fortune | 4.00% | ~39,290 |
-| Arachnophobia | 4.00% | ~4,435 |
-| Bushido and Chill | 3.00% | ~29,467 |
-| Master Crafter | 3.00% | ~29,467 |
-| The Quick and the Dead | 3.00% | ~29,467 |
-| Life of the Road | 3.00% | ~29,467 |
-| The High Priestess | 3.00% | ~29,467 |
-| The World | 3.00% | ~29,467 |
-| True Warrior | 3.00% | ~29,467 |
-| Legend of The Afterlife | 3.00% | ~29,467 |
+| Bushido and Chill | 3.00% | ~29,468 |
+| Master Crafter | 3.00% | ~29,468 |
+| The Quick and the Dead | 3.00% | ~29,468 |
+| Life of the Road | 3.00% | ~29,468 |
+| The High Priestess | 3.00% | ~29,468 |
+| The World | 3.00% | ~29,468 |
+| True Warrior | 3.00% | ~29,468 |
+| Legend of The Afterlife | 3.00% | ~29,468 |
 | Relic Ruler | 3.00% | ~3,326 |
 | To Protect and Serve | 2.00% | ~19,645 |
 | I Am The Law | 2.00% | ~19,645 |
 | Two Heads, One Bullet | 2.00% | ~19,645 |
 | Judy vs Night City | 2.00% | ~19,645 |
-| Spin Doctor | 2.00% | ~2,217 |
-| To Bad Decisions! | 1.00% | ~9,822 |
-| The Wandering Fool | 1.00% | ~9,822 |
-| Ten out of Ten | 1.00% | ~9,822 |
-| The Sun | 1.00% | ~9,822 |
+| Spin Doctor | 2.00% | ~2,218 |
+| To Bad Decisions! | 1.00% | ~9,823 |
+| The Wandering Fool | 1.00% | ~9,823 |
+| Ten out of Ten | 1.00% | ~9,823 |
+| The Sun | 1.00% | ~9,823 |
 | King of Wands | 1.00% | ~1,109 |
 | Dirty Deeds | 1.00% | ~1,109 |
 | Easy Come, Easy Go | 1.00% | ~1,109 |
@@ -47,20 +47,20 @@ Number of Ratings: 32,700  (23.09.2022)
 | Judgement Day | 0.70% | ~776 |
 | King of Swords | 0.70% | ~776 |
 | The Tower | 0.70% | ~776 |
-| Must Be Rats | 0.60% | ~5,893 |
-| Temperance | 0.60% | ~5,893 |
+| Must Be Rats | 0.60% | ~5,894 |
+| Temperance | 0.60% | ~5,894 |
 | King of Pentacles | 0.60% | ~665 |
-| King of Cups | 0.40% | ~443 |
+| King of Cups | 0.40% | ~444 |
 | City Lights | 0.30% | ~2,947 |
 | Little Tokyo | 0.30% | ~2,947 |
 | The Wasteland | 0.30% | ~2,947 |
 | The Devil | 0.30% | ~2,947 |
 | The Jungle | 0.30% | ~2,947 |
 | It's Elementary | 0.30% | ~2,947 |
-| Gunslinger | 0.20% | ~1,964 |
-| Mean Streets | 0.20% | ~1,964 |
-| Daemon In The Shell | 0.20% | ~1,964 |
-| Greetings from Pacifica! | 0.20% | ~1,964 |
+| Gunslinger | 0.20% | ~1,965 |
+| Mean Streets | 0.20% | ~1,965 |
+| Daemon In The Shell | 0.20% | ~1,965 |
+| Greetings from Pacifica! | 0.20% | ~1,965 |
 | Frequent Flyer | 0.10% | ~982 |
 | Rough Landing | 0.10% | ~982 |
 | All the President's Men | 0.00% | ~0 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 982,246 (Ranked 16)  
+Progressed: 982,259 (Ranked 16)  
 Completed: 2,987 (0.30%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 2,987 (0.30%) (Ranked 254)
 | 2023-12-25 | 981,401 | 2,974 |
 | 2023-12-26 | 981,815 | 2,981 |
 | 2023-12-27 | 982,189 | 2,986 |
-| 2023-12-28 | 982,246 | 2,987 |
+| 2023-12-28 | 982,259 | 2,987 |
 ## Awards
 Max (Character Customization): 128,093  (Ranked 8)  
 Sum: 447,878 (Ranked 9)  

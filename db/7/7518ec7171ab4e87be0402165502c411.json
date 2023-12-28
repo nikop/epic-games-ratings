@@ -2,10 +2,10 @@
   "ID": "7518ec7171ab4e87be0402165502c411",
   "Name": "Garten of Banban 2",
   "ProductSlug": "garten-of-banban-2-29bcc8",
-  "Ranking_EOS_Progress": 816,
+  "Ranking_EOS_Progress": 817,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-18T13:00:00+00:00",
     "PcReleaseDate": "2023-03-03T14:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-20T16:58:30.2791057+00:00",
   "LastUpdate_AppInfo": "2023-12-25T04:57:03.5529776+00:00",
-  "LastUpdate_Ratings": "2023-12-28T03:59:42.9263855+00:00",
-  "LastUpdate_Achievements": "2023-12-28T04:05:00.5488369+00:00"
+  "LastUpdate_Ratings": "2023-12-28T04:59:50.2008561+00:00",
+  "LastUpdate_Achievements": "2023-12-28T05:05:06.4910102+00:00"
 }

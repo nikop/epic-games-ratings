@@ -32,13 +32,13 @@
 | The bully | 10.00% | ~7 |
 | Pulp! The Beyond | 10.00% | ~7 |
 | Blessed antennas | 9.00% | ~6 |
+| The beast in the Oval Office | 9.00% | ~6 |
 | Blood Red Island | 9.00% | ~6 |
 | The adventurer | 9.00% | ~6 |
 | ECO mode | 9.00% | ~6 |
-| The beast in the Oval Office | 7.00% | ~5 |
 | The scholar | 7.00% | ~5 |
 | Pulp! True Adventures | 7.00% | ~5 |
-| America had no Faith | 6.00% | ~4 |
+| America had no Faith | 7.00% | ~5 |
 | Pulp! Tales from the Crypt | 4.00% | ~3 |
 | The barbarian invasions | 4.00% | ~3 |
 | Vaccine fans | 4.00% | ~3 |

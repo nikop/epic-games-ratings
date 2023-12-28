@@ -26,7 +26,7 @@
 | Skills to pay the bills | 5.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 111 (Ranked 472)  
-Completed: 5 (4.50%) (Ranked 82)  
+Completed: 5 (4.50%) (Ranked 83)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

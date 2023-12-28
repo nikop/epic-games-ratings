@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 427,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 417,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -219,9 +219,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5214,
+  "EOS_Progressed": 5215,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -1054,6 +1054,11 @@
       "Time": "2023-12-27T19:04:20.8216426+00:00",
       "NumProgressed": 5214,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-28T05:04:38.2358849+00:00",
+      "NumProgressed": 5215,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -1065,7 +1070,7 @@
       "Name": "Employee of the Month",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1929
+      "UsersEstimate": 1930
     },
     {
       "ID": "ACHIEVE_3_OFFSHOOTS_COMPLETE",
@@ -1073,7 +1078,7 @@
       "Name": "Off the Beaten Path",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "ACHIEVE_50_BATWINGS",
@@ -1081,7 +1086,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1929
+      "UsersEstimate": 1930
     },
     {
       "ID": "ACHIEVE_50_BONES",
@@ -1103,9 +1108,9 @@
       "ID": "ACHIEVE_50_ECTOPLASM",
       "SetID": "b8l3p0g",
       "Name": "Ghost Facers!",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1408
     },
     {
       "ID": "ACHIEVE_50_GOLD",
@@ -1193,7 +1198,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5110
+      "UsersEstimate": 5111
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1209,7 +1214,7 @@
       "Name": "Top of the Food Chain",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1668
+      "UsersEstimate": 1669
     },
     {
       "ID": "ACHIEVE_DODGE",
@@ -1233,15 +1238,15 @@
       "Name": "Backdraft",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVE_FORTUNE_GRIND_WIN",
       "SetID": "b8l3p0g",
       "Name": "Fortunate Soul",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2607
+      "UsersEstimate": 2555
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -1273,7 +1278,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4067
+      "UsersEstimate": 4068
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1337,7 +1342,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3076
+      "UsersEstimate": 3077
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -1353,7 +1358,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5110
+      "UsersEstimate": 5111
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1361,7 +1366,7 @@
       "Name": "Humerus Achievement",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1668
+      "UsersEstimate": 1669
     },
     {
       "ID": "ACHIEVE_LVL_60_COMPLETE",
@@ -1385,7 +1390,7 @@
       "Name": "The Midas Touch",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVE_MINERSET_MINING",
@@ -1425,7 +1430,7 @@
       "Name": "That Was Quick",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "ACHIEVE_ROBINHOOD",
@@ -1449,22 +1454,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3702
+      "UsersEstimate": 3703
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5214,
+      "Progressed": 5215,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-12-26T18:58:09.3460811+00:00",
-  "LastChanged_Achievements": "2023-12-28T04:04:34.2901611+00:00",
+  "LastChanged_Achievements": "2023-12-28T05:04:38.2358843+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:32.6670985+00:00",
-  "LastUpdate_Ratings": "2023-12-28T03:59:10.3852311+00:00",
-  "LastUpdate_Achievements": "2023-12-28T04:04:34.2902006+00:00"
+  "LastUpdate_Ratings": "2023-12-28T04:59:17.2007157+00:00",
+  "LastUpdate_Achievements": "2023-12-28T05:04:38.235918+00:00"
 }

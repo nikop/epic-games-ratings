@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 85.00% | ~61 |
-| Killing Spree | 69.00% | ~50 |
-| Merchant Prince I | 57.00% | ~41 |
-| 5Gb HDD | 53.00% | ~38 |
+| First Blood | 85.00% | ~62 |
+| Killing Spree | 68.00% | ~50 |
+| Merchant Prince I | 58.00% | ~42 |
+| 5Gb HDD | 52.00% | ~38 |
 | Fighting Fit I | 36.00% | ~26 |
-| Dominating | 35.00% | ~25 |
-| Rambo I | 31.00% | ~22 |
-| 10Gb HDD | 31.00% | ~22 |
-| The Vette | 28.00% | ~20 |
-| Mega Kill | 24.00% | ~17 |
+| Dominating | 34.00% | ~25 |
+| Rambo I | 30.00% | ~22 |
+| 10Gb HDD | 30.00% | ~22 |
+| The Vette | 27.00% | ~20 |
+| Mega Kill | 23.00% | ~17 |
 | Almost There I | 21.00% | ~15 |
 | Stoic | 19.00% | ~14 |
-| Galactic Cadet | 17.00% | ~12 |
+| Galactic Cadet | 16.00% | ~12 |
 | Omicron Alpha | 15.00% | ~11 |
-| Bronze Prince of Ball-air | 13.00% | ~9 |
-| Pacifist | 13.00% | ~9 |
-| Collateral Damage I | 13.00% | ~9 |
+| Bronze Prince of Ball-air | 12.00% | ~9 |
+| Pacifist | 12.00% | ~9 |
+| Collateral Damage I | 12.00% | ~9 |
 | Defrosted | 11.00% | ~8 |
 | 25Gb HDD | 11.00% | ~8 |
 | Sectoral Ensign | 10.00% | ~7 |
@@ -40,21 +40,21 @@
 | Sectoral Captain | 7.00% | ~5 |
 | Collateral Damage II | 7.00% | ~5 |
 | Fighting Fit II | 7.00% | ~5 |
-| Bronze Foundation | 6.00% | ~4 |
-| System Ensign | 6.00% | ~4 |
-| Bronze Pest Control | 6.00% | ~4 |
-| Rambo III | 6.00% | ~4 |
-| Rambo IV | 6.00% | ~4 |
-| Curious | 6.00% | ~4 |
-| Omicron Theta | 6.00% | ~4 |
-| Omicron Beta | 6.00% | ~4 |
-| No Peace | 6.00% | ~4 |
-| Bird of Prey | 6.00% | ~4 |
-| Wicked Sick | 6.00% | ~4 |
-| Usurper II | 6.00% | ~4 |
-| 50Gb HDD | 6.00% | ~4 |
-| Silver Foundation | 6.00% | ~4 |
-| Silver Pest Control | 6.00% | ~4 |
+| Bronze Foundation | 5.00% | ~4 |
+| System Ensign | 5.00% | ~4 |
+| Bronze Pest Control | 5.00% | ~4 |
+| Rambo III | 5.00% | ~4 |
+| Rambo IV | 5.00% | ~4 |
+| Curious | 5.00% | ~4 |
+| Omicron Theta | 5.00% | ~4 |
+| Omicron Beta | 5.00% | ~4 |
+| No Peace | 5.00% | ~4 |
+| Bird of Prey | 5.00% | ~4 |
+| Wicked Sick | 5.00% | ~4 |
+| Usurper II | 5.00% | ~4 |
+| 50Gb HDD | 5.00% | ~4 |
+| Silver Foundation | 5.00% | ~4 |
+| Silver Pest Control | 5.00% | ~4 |
 | Bronze BBQ | 4.00% | ~3 |
 | Pilgrim | 4.00% | ~3 |
 | Golden Foundation | 4.00% | ~3 |
@@ -137,7 +137,7 @@
 | Almost There IV | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72 (Ranked 511)  
+Progressed: 73 (Ranked 510)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,3 +188,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-11-24 | 70 | 0 |
 | 2023-12-12 | 71 | 0 |
 | 2023-12-17 | 72 | 0 |
+| 2023-12-28 | 73 | 0 |

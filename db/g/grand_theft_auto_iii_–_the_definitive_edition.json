@@ -649,9 +649,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10845,
+  "EOS_Progressed": 10846,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 819,
+  "EOS_NewPlayers": 820,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -13824,6 +13824,11 @@
       "Time": "2023-12-28T04:04:28.0538432+00:00",
       "NumProgressed": 10845,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-28T05:04:31.1223909+00:00",
+      "NumProgressed": 10846,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 29,
@@ -13835,7 +13840,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 9001
+      "UsersEstimate": 9002
     },
     {
       "ID": "ACH02",
@@ -13843,7 +13848,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 3687
+      "UsersEstimate": 3688
     },
     {
       "ID": "ACH03",
@@ -13899,7 +13904,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "ACH10",
@@ -13955,7 +13960,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2711
+      "UsersEstimate": 2712
     },
     {
       "ID": "ACH17",
@@ -13971,7 +13976,7 @@
       "Name": "Not So Fast",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "ACH19",
@@ -14019,7 +14024,7 @@
       "Name": "Dirty Money",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "ACH25",
@@ -14027,7 +14032,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "ACH26",
@@ -14049,9 +14054,9 @@
       "ID": "ACH28",
       "SetID": "552d41m",
       "Name": "Is That All You\u0027ve Got?",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH29",
@@ -14066,7 +14071,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 10845,
+      "Progressed": 10846,
       "Completed": 69
     }
   ],
@@ -14074,8 +14079,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-12-28T01:42:25.432123+00:00",
-  "LastChanged_Achievements": "2023-12-28T04:04:28.0538426+00:00",
+  "LastChanged_Achievements": "2023-12-28T05:04:31.1223899+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:26.709752+00:00",
-  "LastUpdate_Ratings": "2023-12-28T03:59:12.2809903+00:00",
-  "LastUpdate_Achievements": "2023-12-28T04:04:28.0539051+00:00"
+  "LastUpdate_Ratings": "2023-12-28T04:59:18.919787+00:00",
+  "LastUpdate_Achievements": "2023-12-28T05:04:31.1224715+00:00"
 }

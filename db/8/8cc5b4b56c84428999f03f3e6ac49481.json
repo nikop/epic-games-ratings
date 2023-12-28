@@ -2,10 +2,10 @@
   "ID": "8cc5b4b56c84428999f03f3e6ac49481",
   "Name": "Knights of Cathena",
   "ProductSlug": "knights-of-cathena-d09e32",
-  "Ranking_EOS_Progress": 816,
+  "Ranking_EOS_Progress": 817,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-23T13:00:00+00:00",
     "PcReleaseDate": "2022-09-07T13:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-23T21:57:08.5113084+00:00",
   "LastUpdate_AppInfo": "2023-12-24T08:57:02.3248125+00:00",
-  "LastUpdate_Ratings": "2023-12-28T04:01:28.8844211+00:00",
-  "LastUpdate_Achievements": "2023-12-28T04:10:36.9435508+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:01:46.3476982+00:00",
+  "LastUpdate_Achievements": "2023-12-28T05:10:49.3793765+00:00"
 }

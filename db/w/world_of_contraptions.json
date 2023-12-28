@@ -4,8 +4,8 @@
   "ProductSlug": "world-of-contraptions-6dbc07",
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
     "PcReleaseDate": "2022-03-24T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 372,
+  "EOS_Progressed": 373,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1629,6 +1629,11 @@
       "Time": "2023-12-28T01:53:30.9110074+00:00",
       "NumProgressed": 372,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T05:10:11.701927+00:00",
+      "NumProgressed": 373,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -1640,7 +1645,7 @@
       "Name": "The first of many",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "GROUP_EASY_COMPLETED",
@@ -1838,9 +1843,9 @@
       "ID": "TUTORIAL_COMPLETED",
       "SetID": "aemieak",
       "Name": "Graduated in contraptions",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 67
     },
     {
       "ID": "LEVEL_EXTREME",
@@ -1864,7 +1869,7 @@
       "Name": "First medium level",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "TUTORIAL_FIRST",
@@ -1872,21 +1877,21 @@
       "Name": "Starting to take notes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     }
   ],
   "AchievementSets": [
     {
       "ID": "aemieak",
       "IsBase": true,
-      "Progressed": 372,
+      "Progressed": 373,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-12-28T04:09:41.1618032+00:00",
+  "LastChanged_Achievements": "2023-12-28T05:10:11.7019262+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:19.8884887+00:00",
-  "LastUpdate_Ratings": "2023-12-28T03:59:05.8565077+00:00",
-  "LastUpdate_Achievements": "2023-12-28T04:09:41.1618297+00:00"
+  "LastUpdate_Ratings": "2023-12-28T04:59:12.0164758+00:00",
+  "LastUpdate_Achievements": "2023-12-28T05:10:11.7019536+00:00"
 }
