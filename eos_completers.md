@@ -131,8 +131,8 @@
 | 129 | [Lamentum](games/l/lamentum.md) | 2.39% |
 | 130 | [Bloodshore](games/b/bloodshore.md) | 2.35% |
 | 130 | [Destiny 2](games/d/destiny_2.md) | 2.35% |
-| 132 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.31% |
-| 133 | [FORECLOSED](games/f/foreclosed.md) | 2.29% |
+| 132 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.29% |
+| 132 | [FORECLOSED](games/f/foreclosed.md) | 2.29% |
 | 134 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.04% |
 | 135 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 1.96% |
 | 136 | [Somerville](games/s/somerville.md) | 1.90% |
@@ -142,7 +142,7 @@
 | 140 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
 | 141 | [Sifu](games/s/sifu.md) | 1.74% |
 | 142 | [Frogun](games/f/frogun.md) | 1.73% |
-| 143 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.65% |
+| 143 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.66% |
 | 144 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.56% |
 | 145 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.55% |
 | 145 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.55% |
@@ -203,8 +203,8 @@
 | 201 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.66% |
 | 202 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.65% |
 | 203 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.64% |
-| 204 | [Potion Permit](games/p/potion_permit.md) | 0.61% |
-| 205 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.60% |
+| 204 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.62% |
+| 205 | [Potion Permit](games/p/potion_permit.md) | 0.61% |
 | 206 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 207 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.57% |
 | 208 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.56% |
@@ -275,12 +275,12 @@
 | 271 | [It Takes Two](games/i/it_takes_two.md) | 0.21% |
 | 274 | [Circus Electrique](games/c/circus_electrique.md) | 0.20% |
 | 274 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
+| 276 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.19% |
 | 276 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.19% |
-| 277 | [Against the Storm](games/a/against_the_storm.md) | 0.18% |
-| 277 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.18% |
-| 277 | [Going Medieval](games/g/going_medieval.md) | 0.18% |
-| 277 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.18% |
-| 277 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.18% |
+| 278 | [Against the Storm](games/a/against_the_storm.md) | 0.18% |
+| 278 | [Going Medieval](games/g/going_medieval.md) | 0.18% |
+| 278 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.18% |
+| 278 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.18% |
 | 282 | [Scathe](games/s/scathe.md) | 0.17% |
 | 282 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.17% |
 | 284 | [Blanc](games/b/blanc.md) | 0.16% |
