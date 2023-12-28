@@ -2789,9 +2789,9 @@
       "Count": 221
     }
   ],
-  "EOS_Progressed": 29415,
+  "EOS_Progressed": 29416,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1579,
+  "EOS_NewPlayers": 1569,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14819,6 +14819,11 @@
       "Time": "2023-12-28T22:09:54.3217628+00:00",
       "NumProgressed": 29415,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T23:10:18.6631495+00:00",
+      "NumProgressed": 29416,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -14999,7 +15004,7 @@
       "Name": "Precious!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 4706
+      "UsersEstimate": 4707
     },
     {
       "ID": "Achievement_Trophy23",
@@ -15071,7 +15076,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 8824
+      "UsersEstimate": 8825
     },
     {
       "ID": "Achievement_Trophy32",
@@ -15318,7 +15323,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 29415,
+      "Progressed": 29416,
       "Completed": 1
     }
   ],
@@ -15326,8 +15331,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-28T18:02:44.0383843+00:00",
-  "LastChanged_Achievements": "2023-12-28T22:09:54.3217624+00:00",
+  "LastChanged_Achievements": "2023-12-28T23:10:18.663149+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:28.9438704+00:00",
-  "LastUpdate_Ratings": "2023-12-28T22:01:28.5092932+00:00",
-  "LastUpdate_Achievements": "2023-12-28T22:09:54.3218781+00:00"
+  "LastUpdate_Ratings": "2023-12-28T23:03:27.7206421+00:00",
+  "LastUpdate_Achievements": "2023-12-28T23:10:18.6632338+00:00"
 }

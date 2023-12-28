@@ -3,10 +3,10 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 498,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 157,
-  "Ranking_EOS_Completed": 248,
+  "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17674,
+  "EOS_Progressed": 17675,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 644,
+  "EOS_NewPlayers": 642,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15492,6 +15492,11 @@
       "Time": "2023-12-28T21:06:30.9798903+00:00",
       "NumProgressed": 17674,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-28T23:06:00.6093891+00:00",
+      "NumProgressed": 17675,
+      "NumCompleted": 56
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15584,7 +15589,7 @@
       "Name": "Martian Music",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1767
+      "UsersEstimate": 1768
     },
     {
       "ID": "2",
@@ -15608,7 +15613,7 @@
       "Name": "Drone Dodger",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1767
+      "UsersEstimate": 1768
     },
     {
       "ID": "22",
@@ -15616,7 +15621,7 @@
       "Name": "Brother\u0027s Reaper",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "23",
@@ -15688,7 +15693,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "4",
@@ -15696,7 +15701,7 @@
       "Name": "Debris Spree",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "5",
@@ -15783,13 +15788,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17674,
+      "Progressed": 17675,
       "Completed": 56
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3628,
+      "Progressed": 3629,
       "Completed": 1097
     }
   ],
@@ -15797,8 +15802,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-27T06:00:51.7325186+00:00",
-  "LastChanged_Achievements": "2023-12-28T22:06:01.6250348+00:00",
+  "LastChanged_Achievements": "2023-12-28T23:06:00.6093887+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-28T22:01:15.0307893+00:00",
-  "LastUpdate_Achievements": "2023-12-28T22:06:01.6251142+00:00"
+  "LastUpdate_Ratings": "2023-12-28T23:01:26.8605174+00:00",
+  "LastUpdate_Achievements": "2023-12-28T23:06:00.6094881+00:00"
 }

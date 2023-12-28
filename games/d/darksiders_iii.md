@@ -46,8 +46,8 @@ Number of Ratings: 116  (23.09.2022)
 | A Parting Gift | 12.00% | ~32 |
 | Unbreakable Will | 11.00% | ~29 |
 | Path of the Horseman | 11.00% | ~29 |
+| Take it to the Limit | 10.00% | ~26 |
 | Holy Keeper | 9.00% | ~24 |
-| Take it to the Limit | 9.00% | ~24 |
 | Demon Keeper | 8.00% | ~21 |
 | Humanitarian | 8.00% | ~21 |
 | Soul Reaper | 7.00% | ~19 |
@@ -72,7 +72,7 @@ Number of Ratings: 116  (23.09.2022)
 | Beast Mode | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 265 (Ranked 396)  
-Completed: 1 (0.38%) (Ranked 235)  
+Completed: 1 (0.38%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

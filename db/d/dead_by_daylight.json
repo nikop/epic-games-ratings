@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 13,
   "Ranking_EOS_Completed": 367,
   "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2016-06-14T16:00:00+00:00",
@@ -14402,9 +14402,9 @@
       "Count": 28651
     }
   ],
-  "EOS_Progressed": 1125577,
+  "EOS_Progressed": 1125623,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 15907,
+  "EOS_NewPlayers": 15843,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -43527,6 +43527,11 @@
       "Time": "2023-12-28T22:10:53.2202481+00:00",
       "NumProgressed": 1125577,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-12-28T23:11:06.106063+00:00",
+      "NumProgressed": 1125623,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 232,
@@ -43594,7 +43599,7 @@
       "Name": "Jump Scares",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 6753
+      "UsersEstimate": 6754
     },
     {
       "ID": "ACH_009",
@@ -43674,7 +43679,7 @@
       "Name": "Handyman",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 33767
+      "UsersEstimate": 33769
     },
     {
       "ID": "ACH_019",
@@ -43682,7 +43687,7 @@
       "Name": "Nerves of steel",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 10130
+      "UsersEstimate": 10131
     },
     {
       "ID": "ACH_020",
@@ -43706,7 +43711,7 @@
       "Name": "Zealous",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 45023
+      "UsersEstimate": 45025
     },
     {
       "ID": "ACH_023",
@@ -43714,7 +43719,7 @@
       "Name": "It wakes",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 56279
+      "UsersEstimate": 56281
     },
     {
       "ID": "ACH_024",
@@ -43722,7 +43727,7 @@
       "Name": "Not half bad",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 45023
+      "UsersEstimate": 45025
     },
     {
       "ID": "ACH_025",
@@ -43746,7 +43751,7 @@
       "Name": "Apt Survivor",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 33767
+      "UsersEstimate": 33769
     },
     {
       "ID": "ACH_028",
@@ -43770,7 +43775,7 @@
       "Name": "Survival Treasures",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 33767
+      "UsersEstimate": 33769
     },
     {
       "ID": "ACH_031",
@@ -43842,7 +43847,7 @@
       "Name": "Skillful",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 45023
+      "UsersEstimate": 45025
     },
     {
       "ID": "ACH_040",
@@ -43850,7 +43855,7 @@
       "Name": "I",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 33767
+      "UsersEstimate": 33769
     },
     {
       "ID": "ACH_041",
@@ -43914,7 +43919,7 @@
       "Name": "Shock Therapy",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 10130
+      "UsersEstimate": 10131
     },
     {
       "ID": "ACH_049",
@@ -44106,7 +44111,7 @@
       "Name": "Sorted",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 33767
+      "UsersEstimate": 33769
     },
     {
       "ID": "ACH_073",
@@ -44226,7 +44231,7 @@
       "Name": "Game Over",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6753
+      "UsersEstimate": 6754
     },
     {
       "ID": "ACH_088",
@@ -44266,7 +44271,7 @@
       "Name": "Party Crasher",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 6753
+      "UsersEstimate": 6754
     },
     {
       "ID": "ACH_093",
@@ -44338,7 +44343,7 @@
       "Name": "Ancestor\u0027s Rite",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 10130
+      "UsersEstimate": 10131
     },
     {
       "ID": "ACH_102",
@@ -44466,7 +44471,7 @@
       "Name": "Outrun Evil",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 10130
+      "UsersEstimate": 10131
     },
     {
       "ID": "ACH_118",
@@ -44578,7 +44583,7 @@
       "Name": "Broken Bodies",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6753
+      "UsersEstimate": 6754
     },
     {
       "ID": "ACH_135",
@@ -44754,7 +44759,7 @@
       "Name": "Resurgence",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 33767
+      "UsersEstimate": 33769
     },
     {
       "ID": "ACH_157",
@@ -45114,7 +45119,7 @@
       "Name": "High Speed Pursuit",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 6753
+      "UsersEstimate": 6754
     },
     {
       "ID": "ACH_202",
@@ -45162,7 +45167,7 @@
       "Name": "A Fast Death",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 10130
+      "UsersEstimate": 10131
     },
     {
       "ID": "ACH_208",
@@ -45258,7 +45263,7 @@
       "Name": "Complete the Evolution",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 6753
+      "UsersEstimate": 6754
     },
     {
       "ID": "ACH_220",
@@ -45306,7 +45311,7 @@
       "Name": "Make Some Noise",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 33767
+      "UsersEstimate": 33769
     },
     {
       "ID": "ACH_226",
@@ -45346,7 +45351,7 @@
       "Name": "MU/TH/UR Dearest",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 10130
+      "UsersEstimate": 10131
     },
     {
       "ID": "ACH_231",
@@ -45393,21 +45398,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 1125577,
+      "Progressed": 1125623,
       "Completed": 80
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 1125577,
+      "Progressed": 1125623,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-12-28T20:00:46.0195705+00:00",
-  "LastChanged_Achievements": "2023-12-28T22:10:53.2202477+00:00",
+  "LastChanged_Achievements": "2023-12-28T23:11:06.1060626+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:24.8574949+00:00",
-  "LastUpdate_Ratings": "2023-12-28T22:00:23.1512368+00:00",
-  "LastUpdate_Achievements": "2023-12-28T22:10:53.2207593+00:00"
+  "LastUpdate_Ratings": "2023-12-28T23:00:44.1034399+00:00",
+  "LastUpdate_Achievements": "2023-12-28T23:11:06.1066498+00:00"
 }

@@ -6,9 +6,9 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~38,076 |
+| Goodest Of The Good Cops | 28.00% | ~38,077 |
 | Biggest Communism Builder | 24.00% | ~32,637 |
-| The World's Most Laughable Centrist | 20.00% | ~27,197 |
+| The World's Most Laughable Centrist | 20.00% | ~27,198 |
 | Il Coppo Del'Arte! | 18.00% | ~24,478 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,758 |
 | Hyperstellar Law Official | 15.00% | ~20,398 |
@@ -20,8 +20,8 @@ Number of Ratings: 1,611  (23.09.2022)
 | The Figurines Won't Win Her Back | 9.00% | ~12,239 |
 | Enemy Of The Physical Realm | 8.00% | ~10,879 |
 | Hardie's Heroes | 6.00% | ~8,159 |
-| The Lawbringer | 4.00% | ~5,439 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,439 |
+| The Lawbringer | 4.00% | ~5,440 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,440 |
 | The Opener Of The Eighth Seal | 3.00% | ~4,080 |
 | Bother Kim After Hours | 3.00% | ~4,080 |
 | Baddest Of the Bad Cops | 2.00% | ~2,720 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~136 |
 | What body? | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,987 (Ranked 86)  
+Progressed: 135,988 (Ranked 86)  
 Completed: 28 (0.02%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,14 +299,14 @@ Completed: 28 (0.02%) (Ranked 357)
 | 2023-12-25 | 135,437 | 28 |
 | 2023-12-26 | 135,655 | 28 |
 | 2023-12-27 | 135,838 | 28 |
-| 2023-12-28 | 135,987 | 28 |
+| 2023-12-28 | 135,988 | 28 |
 ## Awards
-Max (Character Customization): 755  (Ranked 186)  
-Sum: 1,151 (Ranked 257)  
+Max (Character Customization): 756  (Ranked 186)  
+Sum: 1,152 (Ranked 257)  
 Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 755 |
+| This game has Inclusive Character Customization | 756 |
 | This game has Amazing Storytelling | 51 |
 | This game is Educational | 47 |
 | This game has Quickly Understood Controls | 45 |
@@ -493,4 +493,4 @@ Diff (max vs sum): -71
 | 2023-12-22 | 4.87 | - | 754 | 1,149 |
 | 2023-12-26 | 4.86 | - | 754 | 1,149 |
 | 2023-12-27 | 4.87 | - | 755 | 1,150 |
-| 2023-12-28 | 4.86 | - | 755 | 1,151 |
+| 2023-12-28 | 4.86 | - | 756 | 1,152 |

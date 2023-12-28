@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 38,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -1527,9 +1527,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 78276,
+  "EOS_Progressed": 78280,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 6279,
+  "EOS_NewPlayers": 6237,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -14477,6 +14477,11 @@
       "Time": "2023-12-28T21:05:08.158744+00:00",
       "NumProgressed": 78276,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-28T23:04:58.430934+00:00",
+      "NumProgressed": 78280,
+      "NumCompleted": 61
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -14489,7 +14494,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 32093
+      "UsersEstimate": 32095
     },
     {
       "ID": "10",
@@ -14529,7 +14534,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 5479
+      "UsersEstimate": 5480
     },
     {
       "ID": "15",
@@ -14553,7 +14558,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 14872
+      "UsersEstimate": 14873
     },
     {
       "ID": "3",
@@ -14616,7 +14621,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 78276,
+      "Progressed": 78280,
       "Completed": 61
     }
   ],
@@ -14624,8 +14629,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-12-28T19:59:38.0674889+00:00",
-  "LastChanged_Achievements": "2023-12-28T22:04:47.7475905+00:00",
+  "LastChanged_Achievements": "2023-12-28T23:04:58.4309335+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:18.3926797+00:00",
-  "LastUpdate_Ratings": "2023-12-28T21:59:23.7509546+00:00",
-  "LastUpdate_Achievements": "2023-12-28T22:04:47.747656+00:00"
+  "LastUpdate_Ratings": "2023-12-28T22:59:51.4178131+00:00",
+  "LastUpdate_Achievements": "2023-12-28T23:04:58.4310098+00:00"
 }

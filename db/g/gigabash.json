@@ -261,9 +261,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 109551,
+  "EOS_Progressed": 109557,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10898,
+  "EOS_NewPlayers": 10834,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2521,6 +2521,11 @@
       "Time": "2023-12-28T21:07:43.7282646+00:00",
       "NumProgressed": 109551,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T23:06:58.1172703+00:00",
+      "NumProgressed": 109557,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -2605,7 +2610,7 @@
       "Name": "All Grown Up!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 17528
+      "UsersEstimate": 17529
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -2629,7 +2634,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 13146
+      "UsersEstimate": 13147
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -2812,7 +2817,7 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 109551,
+      "Progressed": 109557,
       "Completed": 0
     }
   ],
@@ -2820,8 +2825,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2023-12-28T12:03:40.2416569+00:00",
-  "LastChanged_Achievements": "2023-12-28T22:07:10.0564166+00:00",
+  "LastChanged_Achievements": "2023-12-28T23:06:58.1172699+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:43.5858319+00:00",
-  "LastUpdate_Ratings": "2023-12-28T22:03:00.7631473+00:00",
-  "LastUpdate_Achievements": "2023-12-28T22:07:10.0564442+00:00"
+  "LastUpdate_Ratings": "2023-12-28T23:03:45.7437734+00:00",
+  "LastUpdate_Achievements": "2023-12-28T23:06:58.1172975+00:00"
 }

@@ -13,8 +13,8 @@ Number of Ratings: 124  (23.09.2022)
 | Peddler | 19.00% | ~23 |
 | Festival-goer | 18.00% | ~22 |
 | Creator | 17.00% | ~21 |
+| Commander | 17.00% | ~21 |
 | Military Leader | 16.00% | ~20 |
-| Commander | 16.00% | ~20 |
 | Long-Haul Flyer | 13.00% | ~16 |
 | Irissa's Fate | 11.00% | ~13 |
 | Pass A38 | 11.00% | ~13 |
@@ -28,12 +28,12 @@ Number of Ratings: 124  (23.09.2022)
 | Self-Sufficient | 4.00% | ~5 |
 | Free as a Bird | 4.00% | ~5 |
 | Unbreakable | 4.00% | ~5 |
+| Banker | 3.00% | ~4 |
 | Alchemist | 3.00% | ~4 |
 | Idealist | 3.00% | ~4 |
 | Cleric | 3.00% | ~4 |
 | Detective | 3.00% | ~4 |
 | Lover | 3.00% | ~4 |
-| Banker | 2.00% | ~2 |
 | Treasure Hunter | 2.00% | ~2 |
 | Beam Me Up | 2.00% | ~2 |
 | Morkon | 2.00% | ~2 |

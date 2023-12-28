@@ -251,7 +251,7 @@
   ],
   "EOS_Progressed": 1888,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 347,
+  "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4569,9 +4569,9 @@
       "ID": "AC10",
       "SetID": "l4abp0",
       "Name": "The Wait is Over",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 623
+      "UsersEstimate": 642
     },
     {
       "ID": "AC11",
@@ -4866,8 +4866,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-28T05:02:31.3995097+00:00",
-  "LastChanged_Achievements": "2023-12-28T22:06:12.7385719+00:00",
+  "LastChanged_Achievements": "2023-12-28T23:06:09.6737675+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:24.8809366+00:00",
-  "LastUpdate_Ratings": "2023-12-28T22:02:44.1552246+00:00",
-  "LastUpdate_Achievements": "2023-12-28T22:06:12.738612+00:00"
+  "LastUpdate_Ratings": "2023-12-28T23:03:31.6395868+00:00",
+  "LastUpdate_Achievements": "2023-12-28T23:06:09.6738194+00:00"
 }

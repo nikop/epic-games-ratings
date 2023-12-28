@@ -1605,9 +1605,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 245237,
+  "EOS_Progressed": 245240,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1338,
+  "EOS_NewPlayers": 1335,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24050,6 +24050,11 @@
       "Time": "2023-12-28T22:10:42.4826204+00:00",
       "NumProgressed": 245237,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-28T23:10:57.7024527+00:00",
+      "NumProgressed": 245240,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -24461,7 +24466,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22071
+      "UsersEstimate": 22072
     },
     {
       "ID": "DwarfElf15Support",
@@ -24509,7 +24514,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 88285
+      "UsersEstimate": 88286
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -24533,7 +24538,7 @@
       "Name": "DM intervention",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9809
+      "UsersEstimate": 9810
     },
     {
       "ID": "EndGameCursed",
@@ -24757,28 +24762,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9809
+      "UsersEstimate": 9810
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 245237,
+      "Progressed": 245240,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 245237,
+      "Progressed": 245240,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-28T18:57:26.1730276+00:00",
-  "LastChanged_Achievements": "2023-12-28T22:10:42.48262+00:00",
+  "LastChanged_Achievements": "2023-12-28T23:10:57.7024525+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:14.8119134+00:00",
-  "LastUpdate_Ratings": "2023-12-28T21:57:10.5094378+00:00",
-  "LastUpdate_Achievements": "2023-12-28T22:10:42.4827672+00:00"
+  "LastUpdate_Ratings": "2023-12-28T22:58:01.4049875+00:00",
+  "LastUpdate_Achievements": "2023-12-28T23:10:57.7026089+00:00"
 }

@@ -5,28 +5,28 @@ Rating: 4.76 (Ranked 132)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~14,445 |
-| I Challenge You To Save More Money! | 81.00% | ~13,296 |
+| Last Night...Did We... | 88.00% | ~14,446 |
+| I Challenge You To Save More Money! | 81.00% | ~13,297 |
 | I Love How Tough You Are | 65.00% | ~10,670 |
 | Wanna Come To My Place For Dinner? | 58.00% | ~9,521 |
 | What I Want Is You | 53.00% | ~8,700 |
 | To Be Or Not To Be | 50.00% | ~8,208 |
-| Are You Alright? | 47.00% | ~7,715 |
-| Love Actually | 41.00% | ~6,730 |
-| Drama King | 36.00% | ~5,909 |
+| Are You Alright? | 47.00% | ~7,716 |
+| Love Actually | 41.00% | ~6,731 |
+| Drama King | 36.00% | ~5,910 |
 | Go Clean up In Your Own Way | 33.00% | ~5,417 |
 | You're Really Something Else | 32.00% | ~5,253 |
 | Drama CP: Reel to Real | 31.00% | ~5,089 |
-| Happy Family | 30.00% | ~4,924 |
-| FIRST LOVE | 30.00% | ~4,924 |
-| Worthless Speech | 30.00% | ~4,924 |
-| ONE PUNCH | 29.00% | ~4,760 |
+| Happy Family | 30.00% | ~4,925 |
+| FIRST LOVE | 30.00% | ~4,925 |
+| Worthless Speech | 30.00% | ~4,925 |
+| ONE PUNCH | 29.00% | ~4,761 |
 | Absolutely Elegant | 28.00% | ~4,596 |
 | Still Single | 28.00% | ~4,596 |
 | Days Of Innocence | 26.00% | ~4,268 |
 | David | 26.00% | ~4,268 |
 | Go Get Some Fries On The Pier | 25.00% | ~4,104 |
-| A Slap In The Face! | 22.00% | ~3,611 |
+| A Slap In The Face! | 22.00% | ~3,612 |
 | All I Have Is Money | 21.00% | ~3,447 |
 | Lover In Dark Alley | 21.00% | ~3,447 |
 | That's So You | 21.00% | ~3,447 |
@@ -48,7 +48,7 @@ Rating: 4.76 (Ranked 132)
 | Tall; Grande; Venti | 2.00% | ~328 |
 | Limerence | 2.00% | ~328 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,415 (Ranked 162)  
+Progressed: 16,416 (Ranked 162)  
 Completed: 271 (1.65%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 271 (1.65%) (Ranked 143)
 | 2023-12-25 | 15,849 | 260 |
 | 2023-12-26 | 16,080 | 263 |
 | 2023-12-27 | 16,256 | 268 |
-| 2023-12-28 | 16,415 | 271 |
+| 2023-12-28 | 16,416 | 271 |
 ## Awards
 Max (Impact the Story): 33  (Ranked 506)  
 Sum: 33 (Ranked 529)  

@@ -621,7 +621,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6412,
+  "EOS_Progressed": 6414,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 469,
   "EOS_NewCompleters": 0,
@@ -9536,6 +9536,11 @@
       "Time": "2023-12-28T21:06:09.5293756+00:00",
       "NumProgressed": 6412,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-28T23:05:43.656347+00:00",
+      "NumProgressed": 6414,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9547,7 +9552,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "10",
@@ -9617,9 +9622,9 @@
       "ID": "18",
       "SetID": "3aa2279",
       "Name": "Arch Mage",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 128
     },
     {
       "ID": "19",
@@ -9675,7 +9680,7 @@
       "Name": "Secret Technique",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "25",
@@ -9763,7 +9768,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "35",
@@ -9819,7 +9824,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "41",
@@ -10026,13 +10031,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6412,
+      "Progressed": 6414,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6412,
+      "Progressed": 6414,
       "Completed": 7
     }
   ],
@@ -10040,8 +10045,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-27T21:02:05.3548504+00:00",
-  "LastChanged_Achievements": "2023-12-28T22:05:41.6883176+00:00",
+  "LastChanged_Achievements": "2023-12-28T23:05:43.6563462+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-28T21:57:05.2258694+00:00",
-  "LastUpdate_Achievements": "2023-12-28T22:05:41.6884251+00:00"
+  "LastUpdate_Ratings": "2023-12-28T22:57:56.1573575+00:00",
+  "LastUpdate_Achievements": "2023-12-28T23:05:43.6564449+00:00"
 }

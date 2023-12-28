@@ -5,13 +5,13 @@ Rating: 3.84 (Ranked 1,060)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~415,573 |
-| Handy | 42.00% | ~229,659 |
-| Cold Caller | 40.00% | ~218,723 |
+| Pro Creation | 76.00% | ~415,575 |
+| Handy | 42.00% | ~229,660 |
+| Cold Caller | 40.00% | ~218,724 |
 | A Bit On The Side | 27.00% | ~147,638 |
 | Backdoor | 25.00% | ~136,702 |
 | Rank Amateur | 22.00% | ~120,298 |
-| Three Way | 19.00% | ~103,893 |
+| Three Way | 19.00% | ~103,894 |
 | Deadly Assassin | 16.00% | ~87,489 |
 | Gutshot | 14.00% | ~76,553 |
 | Risk It For A Biscuit | 14.00% | ~76,553 |
@@ -23,9 +23,9 @@ Rating: 3.84 (Ranked 1,060)
 | Never Give Up | 8.00% | ~43,745 |
 | The Bigger They Are | 8.00% | ~43,745 |
 | Total Knock Out | 8.00% | ~43,745 |
-| Dog Eat Dog | 7.00% | ~38,276 |
-| Quack Quack | 7.00% | ~38,276 |
-| Give Your Regards To Broadway | 6.00% | ~32,808 |
+| Dog Eat Dog | 7.00% | ~38,277 |
+| Quack Quack | 7.00% | ~38,277 |
+| Give Your Regards To Broadway | 6.00% | ~32,809 |
 | Check Yourself | 4.00% | ~21,872 |
 | Moneymaker | 4.00% | ~21,872 |
 | In The Gang | 3.00% | ~16,404 |
@@ -51,7 +51,7 @@ Rating: 3.84 (Ranked 1,060)
 | Rounder | 0.10% | ~547 |
 | Top Dog | 0.10% | ~547 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 546,807 (Ranked 33)  
+Progressed: 546,809 (Ranked 33)  
 Completed: 2 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,17 +302,17 @@ Completed: 2 (0.00%) (Ranked 389)
 | 2023-12-25 | 545,910 | 2 |
 | 2023-12-26 | 546,215 | 2 |
 | 2023-12-27 | 546,536 | 2 |
-| 2023-12-28 | 546,807 | 2 |
+| 2023-12-28 | 546,809 | 2 |
 ## Awards
 Max (Great for Beginners): 63  (Ranked 420)  
-Sum: 201 (Ranked 412)  
+Sum: 202 (Ranked 412)  
 Diff (max vs sum): 8  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 63 |
 | This game is Highly Recommended | 42 |
 | This game has Competitive Players | 34 |
-| This game has Quickly Understood Controls | 32 |
+| This game has Quickly Understood Controls | 33 |
 | This game has a Competitive Community | 30 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -441,4 +441,4 @@ Diff (max vs sum): 8
 | 2023-12-23 | 3.83 | 63 | 197 |
 | 2023-12-26 | 3.84 | 63 | 197 |
 | 2023-12-27 | 3.84 | 63 | 199 |
-| 2023-12-28 | 3.84 | 63 | 201 |
+| 2023-12-28 | 3.84 | 63 | 202 |

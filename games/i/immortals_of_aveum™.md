@@ -9,7 +9,7 @@ Rating: 4.22 (Ranked 930)
 | Battlefields Have Memories | 80.00% | ~1,709 |
 | Enlisted | 73.00% | ~1,559 |
 | Maybe Engage a Little | 67.00% | ~1,431 |
-| No More Names | 49.00% | ~1,047 |
+| No More Names | 50.00% | ~1,068 |
 | Initiate | 35.00% | ~748 |
 | Thrada-Kul | 31.00% | ~662 |
 | Gravity-Challenged Rocks | 25.00% | ~534 |

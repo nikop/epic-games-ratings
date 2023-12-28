@@ -5,7 +5,7 @@ Rating: 4.63 (Ranked 355)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 11.00% | ~705 |
+| Secret Technique | 11.00% | ~706 |
 | Realm Estate | 10.00% | ~641 |
 | A Wonderful Discovery | 9.00% | ~577 |
 | Walls Cannot Stop Us | 9.00% | ~577 |
@@ -17,9 +17,9 @@ Rating: 4.63 (Ranked 355)
 | Stronger Together | 5.00% | ~321 |
 | Seat of Power | 5.00% | ~321 |
 | But this one is mine | 5.00% | ~321 |
-| Valley of Wonders | 4.00% | ~256 |
-| In a Liege of Your Own | 4.00% | ~256 |
-| Intimidation Tactics | 4.00% | ~256 |
+| Valley of Wonders | 4.00% | ~257 |
+| In a Liege of Your Own | 4.00% | ~257 |
+| Intimidation Tactics | 4.00% | ~257 |
 | Return of the Wizard King | 3.00% | ~192 |
 | Enchanted Archipelago | 3.00% | ~192 |
 | Digging for Treasure | 3.00% | ~192 |
@@ -27,6 +27,7 @@ Rating: 4.63 (Ranked 355)
 | Fiery Friend | 3.00% | ~192 |
 | Impenetrable Fortress | 3.00% | ~192 |
 | Freed Lands of Manuhari | 3.00% | ~192 |
+| Arch Mage | 2.00% | ~128 |
 | Crimson Caldera | 2.00% | ~128 |
 | Preparation Is Everything | 2.00% | ~128 |
 | Against the Odds | 2.00% | ~128 |
@@ -39,7 +40,6 @@ Rating: 4.63 (Ranked 355)
 | I've Got Everything I Need Right Here | 1.00% | ~64 |
 | God Emperor | 1.00% | ~64 |
 | Lord of Chaos | 1.00% | ~64 |
-| Arch Mage | 1.00% | ~64 |
 | The Creator | 1.00% | ~64 |
 | The Goddess of Nature | 1.00% | ~64 |
 | Eternal Lord | 1.00% | ~64 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 355)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,412 (Ranked 195)  
+Progressed: 6,414 (Ranked 195)  
 Completed: 7 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 7 (0.11%) (Ranked 304)
 | 2023-12-25 | 6,213 | 7 |
 | 2023-12-26 | 6,285 | 7 |
 | 2023-12-27 | 6,359 | 7 |
-| 2023-12-28 | 6,412 | 7 |
+| 2023-12-28 | 6,414 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 481)  
 Sum: 140 (Ranked 439)  

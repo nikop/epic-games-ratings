@@ -5,11 +5,11 @@ Rating: 4.43 (Ranked 711)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~59,988 |
+| No aid from the Omnissiah | 26.00% | ~59,989 |
 | This is only the beginning | 20.00% | ~46,145 |
 | Knowledge is power | 13.00% | ~29,994 |
-| Galvanic Rifle | 10.00% | ~23,072 |
-| Radium Ready | 10.00% | ~23,072 |
+| Galvanic Rifle | 10.00% | ~23,073 |
+| Radium Ready | 10.00% | ~23,073 |
 | Power Ranger | 9.00% | ~20,765 |
 | Taser Goad | 9.00% | ~20,765 |
 | Half a cog | 9.00% | ~20,765 |
@@ -19,11 +19,11 @@ Rating: 4.43 (Ranked 711)
 | One with the Machine | 4.00% | ~9,229 |
 | Legio Cybernetica | 3.00% | ~6,922 |
 | Fleshy Disposal | 3.00% | ~6,922 |
-| Battle Servitor | 2.00% | ~4,614 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,614 |
-| Impatient destruction | 2.00% | ~4,614 |
-| Vivisected Vizier | 2.00% | ~4,614 |
-| Architect Abortion | 2.00% | ~4,614 |
+| Battle Servitor | 2.00% | ~4,615 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,615 |
+| Impatient destruction | 2.00% | ~4,615 |
+| Vivisected Vizier | 2.00% | ~4,615 |
+| Architect Abortion | 2.00% | ~4,615 |
 | Cohortus Maximus | 0.80% | ~1,846 |
 | Mother of Xenarites | 0.40% | ~923 |
 | False God | 0.30% | ~692 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 711)
 | Perma-live | 0.10% | ~231 |
 | Purge the Heretek | 0.10% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,725 (Ranked 74)  
+Progressed: 230,726 (Ranked 74)  
 Completed: 5 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,16 +292,16 @@ Completed: 5 (0.00%) (Ranked 389)
 | 2023-12-25 | 230,456 | 5 |
 | 2023-12-26 | 230,560 | 5 |
 | 2023-12-27 | 230,647 | 5 |
-| 2023-12-28 | 230,725 | 5 |
+| 2023-12-28 | 230,726 | 5 |
 ## Awards
 Max (Highly Recommended): 291  (Ranked 262)  
-Sum: 2,220 (Ranked 209)  
+Sum: 2,221 (Ranked 209)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 291 |
 | This game has Quickly Understood Controls | 286 |
-| This game is Extremely Fun | 282 |
+| This game is Extremely Fun | 283 |
 | This game has Amazing Characters | 275 |
 | This game has Diverse Characters | 269 |
 | This game has Amazing Storytelling | 252 |
@@ -423,3 +423,4 @@ Diff (max vs sum): 53
 | 2023-12-25 | 4.43 | 291 | 2,216 |
 | 2023-12-26 | 4.43 | 291 | 2,217 |
 | 2023-12-27 | 4.43 | 291 | 2,220 |
+| 2023-12-28 | 4.43 | 291 | 2,221 |

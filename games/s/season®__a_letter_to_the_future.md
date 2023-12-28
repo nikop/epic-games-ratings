@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Leaver | 79.00% | ~1,434 |
+| Home Leaver | 80.00% | ~1,452 |
 | Journal Beautifier | 79.00% | ~1,434 |
 | Outside World Seer | 61.00% | ~1,107 |
 | Stranger Encounterer | 36.00% | ~653 |

@@ -1,11 +1,11 @@
 # Wreckfest
 [Store](https://store.epicgames.com/en-US/p/wreckfest)  
 [View Rawdata](../../db/w/wreckfest.json)  
-Rating: 4.28 (Ranked 878)  
+Rating: 4.29 (Ranked 868)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Storm Warning | 64.00% | ~319 |
+| Storm Warning | 64.00% | ~320 |
 | Highballer | 38.00% | ~190 |
 | Dirty Roller | 35.00% | ~175 |
 | Regional Juniors Champion | 33.00% | ~165 |
@@ -26,7 +26,7 @@ Rating: 4.28 (Ranked 878)
 | Human Lover | 0.80% | ~4 |
 | Rocketeer | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 499 (Ranked 337)  
+Progressed: 500 (Ranked 337)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -41,7 +41,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 380 | 0 |
 | 2023-12-26 | 414 | 0 |
 | 2023-12-27 | 466 | 0 |
-| 2023-12-28 | 499 | 0 |
+| 2023-12-28 | 500 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -94,3 +94,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-16 | 4.26 | 0 | 0 |
 | 2023-12-19 | 4.27 | 0 | 0 |
 | 2023-12-26 | 4.28 | 0 | 0 |
+| 2023-12-28 | 4.29 | 0 | 0 |

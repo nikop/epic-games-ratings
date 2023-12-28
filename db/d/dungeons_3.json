@@ -3523,9 +3523,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 45112,
+  "EOS_Progressed": 45113,
   "EOS_Completed": 362,
-  "EOS_NewPlayers": 878,
+  "EOS_NewPlayers": 873,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -31653,6 +31653,11 @@
       "Time": "2023-12-28T21:06:41.3288464+00:00",
       "NumProgressed": 45112,
       "NumCompleted": 362
+    },
+    {
+      "Time": "2023-12-28T23:06:08.49528+00:00",
+      "NumProgressed": 45113,
+      "NumCompleted": 362
     }
   ],
   "TotalAchievements": 60,
@@ -31664,7 +31669,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 26616
+      "UsersEstimate": 26617
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -31680,7 +31685,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 26165
+      "UsersEstimate": 26166
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -31712,7 +31717,7 @@
       "Name": "This is fun, I\u2019m going to keep doing this!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5413
+      "UsersEstimate": 5414
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_2",
@@ -31816,7 +31821,7 @@
       "Name": "Then let them eat cake!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5413
+      "UsersEstimate": 5414
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_Completed",
@@ -31824,7 +31829,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 16691
+      "UsersEstimate": 16692
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -31864,7 +31869,7 @@
       "Name": "Night of the Living Dead (on Speed)",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1804
+      "UsersEstimate": 1805
     },
     {
       "ID": "ACH_D3_Campaign_Graves_Completed",
@@ -31872,7 +31877,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 19849
+      "UsersEstimate": 19850
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -31888,7 +31893,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 16240
+      "UsersEstimate": 16241
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -31904,7 +31909,7 @@
       "Name": "Thirst quencher",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 12180
+      "UsersEstimate": 12181
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -31920,7 +31925,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 12180
+      "UsersEstimate": 12181
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -31952,7 +31957,7 @@
       "Name": "I need a hero!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1804
+      "UsersEstimate": 1805
     },
     {
       "ID": "ACH_D3_Campaign_Pain_2",
@@ -31992,7 +31997,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12631
+      "UsersEstimate": 12632
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -32064,7 +32069,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 31578
+      "UsersEstimate": 31579
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -32080,7 +32085,7 @@
       "Name": "Band of Brothers",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1804
+      "UsersEstimate": 1805
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_Completed",
@@ -32088,7 +32093,7 @@
       "Name": "The Victorious Evil",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 9022
+      "UsersEstimate": 9023
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_1",
@@ -32143,15 +32148,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 45112,
+      "Progressed": 45113,
       "Completed": 362
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-12-28T17:00:05.7537629+00:00",
-  "LastChanged_Achievements": "2023-12-28T22:06:11.2200984+00:00",
+  "LastChanged_Achievements": "2023-12-28T23:06:08.4952795+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:14.9783418+00:00",
-  "LastUpdate_Ratings": "2023-12-28T21:59:40.530457+00:00",
-  "LastUpdate_Achievements": "2023-12-28T22:06:11.2203205+00:00"
+  "LastUpdate_Ratings": "2023-12-28T23:00:05.2759609+00:00",
+  "LastUpdate_Achievements": "2023-12-28T23:06:08.495469+00:00"
 }

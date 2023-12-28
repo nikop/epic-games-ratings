@@ -6,17 +6,17 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 5.00% | ~56,279 |
-| Zealous | 4.00% | ~45,023 |
-| Not half bad | 4.00% | ~45,023 |
-| Skillful | 4.00% | ~45,023 |
-| Handyman | 3.00% | ~33,767 |
-| Apt Survivor | 3.00% | ~33,767 |
-| Survival Treasures | 3.00% | ~33,767 |
-| I | 3.00% | ~33,767 |
-| Sorted | 3.00% | ~33,767 |
-| Resurgence | 3.00% | ~33,767 |
-| Make Some Noise | 3.00% | ~33,767 |
+| It wakes | 5.00% | ~56,281 |
+| Zealous | 4.00% | ~45,025 |
+| Not half bad | 4.00% | ~45,025 |
+| Skillful | 4.00% | ~45,025 |
+| Handyman | 3.00% | ~33,769 |
+| Apt Survivor | 3.00% | ~33,769 |
+| Survival Treasures | 3.00% | ~33,769 |
+| I | 3.00% | ~33,769 |
+| Sorted | 3.00% | ~33,769 |
+| Resurgence | 3.00% | ~33,769 |
+| Make Some Noise | 3.00% | ~33,769 |
 | The Grand Sacrifice | 2.00% | ~22,512 |
 | Agonizing Escape | 2.00% | ~22,512 |
 | Backdoor Escape | 2.00% | ~22,512 |
@@ -62,12 +62,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | Chorus of Chaos | 1.00% | ~11,256 |
 | One More Step | 1.00% | ~11,256 |
 | Second Act | 1.00% | ~11,256 |
-| Nerves of steel | 0.90% | ~10,130 |
-| Shock Therapy | 0.90% | ~10,130 |
-| Ancestor's Rite | 0.90% | ~10,130 |
-| Outrun Evil | 0.90% | ~10,130 |
-| A Fast Death | 0.90% | ~10,130 |
-| MU/TH/UR Dearest | 0.90% | ~10,130 |
+| Nerves of steel | 0.90% | ~10,131 |
+| Shock Therapy | 0.90% | ~10,131 |
+| Ancestor's Rite | 0.90% | ~10,131 |
+| Outrun Evil | 0.90% | ~10,131 |
+| A Fast Death | 0.90% | ~10,131 |
+| MU/TH/UR Dearest | 0.90% | ~10,131 |
 | A bite for the Entity | 0.80% | ~9,005 |
 | Blood on your face | 0.80% | ~9,005 |
 | Leapfrog | 0.80% | ~9,005 |
@@ -86,12 +86,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | End of Days | 0.70% | ~7,879 |
 | Insult and Injury | 0.70% | ~7,879 |
 | Rebuilding The Borgo | 0.70% | ~7,879 |
-| Jump Scares | 0.60% | ~6,753 |
-| Game Over | 0.60% | ~6,753 |
-| Party Crasher | 0.60% | ~6,753 |
-| Broken Bodies | 0.60% | ~6,753 |
-| High Speed Pursuit | 0.60% | ~6,753 |
-| Complete the Evolution | 0.60% | ~6,753 |
+| Jump Scares | 0.60% | ~6,754 |
+| Game Over | 0.60% | ~6,754 |
+| Party Crasher | 0.60% | ~6,754 |
+| Broken Bodies | 0.60% | ~6,754 |
+| High Speed Pursuit | 0.60% | ~6,754 |
+| Complete the Evolution | 0.60% | ~6,754 |
 | Deep Cleansing | 0.50% | ~5,628 |
 | Texas BBQ | 0.50% | ~5,628 |
 | Outrage | 0.50% | ~5,628 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,126 |
 | Adept Good Guy | 0.10% | ~1,126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,125,577 (Ranked 13)  
+Progressed: 1,125,623 (Ranked 13)  
 Completed: 65 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -491,7 +491,7 @@ Completed: 65 (0.01%) (Ranked 367)
 | 2023-12-25 | 1,118,749 | 65 |
 | 2023-12-26 | 1,121,100 | 65 |
 | 2023-12-27 | 1,123,455 | 65 |
-| 2023-12-28 | 1,125,577 | 65 |
+| 2023-12-28 | 1,125,623 | 65 |
 ## Awards
 Max (Diverse Characters): 38,746  (Ranked 15)  
 Sum: 292,872 (Ranked 12)  

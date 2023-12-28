@@ -3,8 +3,8 @@
   "Name": "We Were Here Expeditions: The FriendShip",
   "ProductSlug": "we-were-here-expeditions-the-friendship-1e8fb2",
   "Ranking_Rating": 556,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 79,
   "Ranking_EOS_NewPlayers": 91,
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 110171,
+  "EOS_Progressed": 110176,
   "EOS_Completed": 5289,
-  "EOS_NewPlayers": 1494,
+  "EOS_NewPlayers": 1486,
   "EOS_NewCompleters": 124,
   "EOS_Completed_Percentage": 4.8,
   "EosHistory": [
@@ -12370,6 +12370,11 @@
       "Time": "2023-12-28T22:07:41.6155247+00:00",
       "NumProgressed": 110171,
       "NumCompleted": 5289
+    },
+    {
+      "Time": "2023-12-28T23:07:24.0444444+00:00",
+      "NumProgressed": 110176,
+      "NumCompleted": 5289
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -12382,7 +12387,7 @@
       "Name": "Assemble a Crew!",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 69408
+      "UsersEstimate": 69411
     },
     {
       "ID": "GoldMedalCrewmates",
@@ -12390,7 +12395,7 @@
       "Name": "Gold Medal Crewmates",
       "Percentage": 16,
       "XP": 125,
-      "UsersEstimate": 17627
+      "UsersEstimate": 17628
     },
     {
       "ID": "GoldPact",
@@ -12398,7 +12403,7 @@
       "Name": "Gold Pact",
       "Percentage": 18,
       "XP": 125,
-      "UsersEstimate": 19831
+      "UsersEstimate": 19832
     },
     {
       "ID": "OurFriendshipIsGolden",
@@ -12406,7 +12411,7 @@
       "Name": "Our Friendship is Golden",
       "Percentage": 6,
       "XP": 150,
-      "UsersEstimate": 6610
+      "UsersEstimate": 6611
     },
     {
       "ID": "PelagicPerils",
@@ -12414,7 +12419,7 @@
       "Name": "Pelagic Perils",
       "Percentage": 57,
       "XP": 75,
-      "UsersEstimate": 62797
+      "UsersEstimate": 62800
     },
     {
       "ID": "ShipDip",
@@ -12422,7 +12427,7 @@
       "Name": "Ship Dip!",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 58391
+      "UsersEstimate": 58393
     },
     {
       "ID": "TheArtOfParley",
@@ -12430,7 +12435,7 @@
       "Name": "The Art of Parley",
       "Percentage": 76,
       "XP": 75,
-      "UsersEstimate": 83730
+      "UsersEstimate": 83734
     },
     {
       "ID": "TheGoldenRatio",
@@ -12446,7 +12451,7 @@
       "Name": "Tiles, Trails, Treasure!",
       "Percentage": 61,
       "XP": 75,
-      "UsersEstimate": 67204
+      "UsersEstimate": 67207
     },
     {
       "ID": "WeCanDoBetter",
@@ -12454,7 +12459,7 @@
       "Name": "We Can Do Better!",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 85933
+      "UsersEstimate": 85937
     },
     {
       "ID": "WeighAnchorSetSail",
@@ -12462,7 +12467,7 @@
       "Name": "Weigh Anchor, Set Sail!",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 87035
+      "UsersEstimate": 87039
     },
     {
       "ID": "WelcomeAboard",
@@ -12470,14 +12475,14 @@
       "Name": "Welcome Aboard!",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 87035
+      "UsersEstimate": 87039
     }
   ],
   "AchievementSets": [
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 110171,
+      "Progressed": 110176,
       "Completed": 5289
     }
   ],
@@ -12485,8 +12490,8 @@
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2023-12-06T21:57:26.986764+00:00",
-  "LastChanged_Achievements": "2023-12-28T22:07:41.6155241+00:00",
+  "LastChanged_Achievements": "2023-12-28T23:07:24.044444+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.5269617+00:00",
-  "LastUpdate_Ratings": "2023-12-28T21:57:19.7188855+00:00",
-  "LastUpdate_Achievements": "2023-12-28T22:07:41.6156015+00:00"
+  "LastUpdate_Ratings": "2023-12-28T22:58:08.8927469+00:00",
+  "LastUpdate_Achievements": "2023-12-28T23:07:24.0445051+00:00"
 }

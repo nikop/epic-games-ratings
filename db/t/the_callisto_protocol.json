@@ -1889,9 +1889,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 19779,
+  "EOS_Progressed": 19780,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1323,
+  "EOS_NewPlayers": 1315,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -11589,6 +11589,11 @@
       "Time": "2023-12-28T22:09:59.1082349+00:00",
       "NumProgressed": 19779,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-28T23:10:22.5456075+00:00",
+      "NumProgressed": 19780,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -11704,7 +11709,7 @@
       "Name": "Get a Grip",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3362
+      "UsersEstimate": 3363
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -11718,9 +11723,9 @@
       "ID": "KILL_2HEAD",
       "SetID": "4hj6d86",
       "Name": "Two Heads Are Better Than One",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1582
+      "UsersEstimate": 1780
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -11744,7 +11749,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 2373
+      "UsersEstimate": 2374
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -11776,7 +11781,7 @@
       "Name": "Paper Jams",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3362
+      "UsersEstimate": 3363
     },
     {
       "ID": "SHARE_PHOTO",
@@ -11800,7 +11805,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2373
+      "UsersEstimate": 2374
     },
     {
       "ID": "STORY_HABITAT",
@@ -11975,13 +11980,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 19779,
+      "Progressed": 19780,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 7705,
+      "Progressed": 7706,
       "Completed": 29
     }
   ],
@@ -11989,8 +11994,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-28T17:03:38.8993186+00:00",
-  "LastChanged_Achievements": "2023-12-28T22:09:59.1082345+00:00",
+  "LastChanged_Achievements": "2023-12-28T23:10:22.5456072+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3019969+00:00",
-  "LastUpdate_Ratings": "2023-12-28T22:03:40.9301362+00:00",
-  "LastUpdate_Achievements": "2023-12-28T22:09:59.1082993+00:00"
+  "LastUpdate_Ratings": "2023-12-28T23:04:02.1259395+00:00",
+  "LastUpdate_Achievements": "2023-12-28T23:10:22.5456674+00:00"
 }

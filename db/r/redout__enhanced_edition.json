@@ -3,8 +3,8 @@
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
   "Ranking_Rating": 629,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 143,
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238134,
+  "EOS_Progressed": 238135,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 598,
+  "EOS_NewPlayers": 596,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -26798,6 +26798,11 @@
       "Time": "2023-12-28T21:04:54.3292689+00:00",
       "NumProgressed": 238134,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-28T23:04:47.3331152+00:00",
+      "NumProgressed": 238135,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -26945,7 +26950,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78584
+      "UsersEstimate": 78585
     },
     {
       "ID": "NOBUNAGA",
@@ -27033,7 +27038,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52389
+      "UsersEstimate": 52390
     },
     {
       "ID": "TACTICIAN",
@@ -27057,7 +27062,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52389
+      "UsersEstimate": 52390
     },
     {
       "ID": "TUNINGMANIAC",
@@ -27080,15 +27085,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 238134,
+      "Progressed": 238135,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2023-12-28T22:04:34.5303273+00:00",
+  "LastChanged_Achievements": "2023-12-28T23:04:47.3331148+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:24.7134546+00:00",
-  "LastUpdate_Ratings": "2023-12-28T22:00:23.6684445+00:00",
-  "LastUpdate_Achievements": "2023-12-28T22:04:34.5304531+00:00"
+  "LastUpdate_Ratings": "2023-12-28T23:00:44.5226428+00:00",
+  "LastUpdate_Achievements": "2023-12-28T23:04:47.3332494+00:00"
 }

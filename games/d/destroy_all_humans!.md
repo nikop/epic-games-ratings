@@ -6,27 +6,27 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 67.00% | ~137 |
-| Kaijuiced | 65.00% | ~133 |
-| Lie Back and Think of Albion | 60.00% | ~123 |
+| Shop Til They Drop | 67.00% | ~138 |
+| Kaijuiced | 65.00% | ~134 |
+| Lie Back and Think of Albion | 59.00% | ~122 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~119 |
-| Yettisoned | 54.00% | ~111 |
 | I Look Up As I Walk to Takoshima | 54.00% | ~111 |
+| Yettisoned | 53.00% | ~109 |
 | Perfect Probulator | 52.00% | ~107 |
-| Lobster Blisque | 48.00% | ~98 |
-| Pimp My Raid | 48.00% | ~98 |
-| Earthly Pleasures | 46.00% | ~94 |
-| Fly Me to the Moon Base | 44.00% | ~90 |
-| Ducks in a Row, Fish in a Barrel | 43.00% | ~88 |
+| Lobster Blisque | 48.00% | ~99 |
+| Pimp My Raid | 48.00% | ~99 |
+| Earthly Pleasures | 46.00% | ~95 |
+| Fly Me to the Moon Base | 44.00% | ~91 |
+| Ducks in a Row, Fish in a Barrel | 43.00% | ~89 |
 | Freshly Squeezed | 34.00% | ~70 |
 | Bodied Sattva | 34.00% | ~70 |
 | Upgreatest | 33.00% | ~68 |
 | Forbidden Donut | 32.00% | ~66 |
-| Furon Fashion | 26.00% | ~53 |
-| Deincarnated | 25.00% | ~51 |
+| Furon Fashion | 26.00% | ~54 |
+| Deincarnated | 25.00% | ~52 |
 | Rock of the Bay | 24.00% | ~49 |
 | Trans-Siberian Express | 23.00% | ~47 |
-| Re-Return of the Clone of the Invasion II-2 | 20.00% | ~41 |
+| Re-Return of the Clone of the Invasion II-2 | 19.00% | ~39 |
 | Ouch of Body Experience | 16.00% | ~33 |
 | Arkvoodle Doodle | 15.00% | ~31 |
 | If You Know What I Mean | 14.00% | ~29 |
@@ -35,8 +35,8 @@ Number of Ratings: 85  (23.09.2022)
 | Hidden Human Hive Harvest | 13.00% | ~27 |
 | Dusted | 13.00% | ~27 |
 | Albion Bridge Is for Falling Down | 12.00% | ~25 |
-| Scuttled | 9.00% | ~18 |
-| PK Slam Dunk | 9.00% | ~18 |
+| Scuttled | 9.00% | ~19 |
+| PK Slam Dunk | 9.00% | ~19 |
 | Higher Than the Futen Zoku | 8.00% | ~16 |
 | Arty Facts | 6.00% | ~12 |
 | Cult Following | 4.00% | ~8 |
@@ -47,8 +47,8 @@ Number of Ratings: 85  (23.09.2022)
 | Steezy Down the Spine | 1.00% | ~2 |
 | Against All Odds | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205 (Ranked 419)  
-Completed: 2 (0.98%) (Ranked 173)  
+Progressed: 206 (Ranked 419)  
+Completed: 2 (0.97%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -62,7 +62,7 @@ Completed: 2 (0.98%) (Ranked 173)
 | 2023-12-25 | 161 | 1 |
 | 2023-12-26 | 176 | 2 |
 | 2023-12-27 | 188 | 2 |
-| 2023-12-28 | 205 | 2 |
+| 2023-12-28 | 206 | 2 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 501)  
 Sum: 34 (Ranked 525)  

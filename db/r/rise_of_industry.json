@@ -3,8 +3,8 @@
   "Name": "Rise of Industry",
   "ProductSlug": "rise-of-industry-0af838",
   "Ranking_Rating": 912,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 70,
@@ -318,9 +318,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 763456,
+  "EOS_Progressed": 763458,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2349,
+  "EOS_NewPlayers": 2333,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29383,6 +29383,11 @@
       "Time": "2023-12-28T21:09:15.4484147+00:00",
       "NumProgressed": 763456,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-28T23:09:13.2544978+00:00",
+      "NumProgressed": 763458,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -29522,7 +29527,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 366459
+      "UsersEstimate": 366460
     },
     {
       "ID": "ach_produced",
@@ -29530,7 +29535,7 @@
       "Name": "Apprentice Manufacturer",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 99249
+      "UsersEstimate": 99250
     },
     {
       "ID": "ach_products_moved",
@@ -29562,7 +29567,7 @@
       "Name": "Exporter",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 99249
+      "UsersEstimate": 99250
     },
     {
       "ID": "ach_setup_route_boat",
@@ -29578,7 +29583,7 @@
       "Name": "Railwayman",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 61076
+      "UsersEstimate": 61077
     },
     {
       "ID": "ach_setup_route_zepplin",
@@ -29609,7 +29614,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 763456,
+      "Progressed": 763458,
       "Completed": 4
     }
   ],
@@ -29617,8 +29622,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-12-28T16:59:51.5944614+00:00",
-  "LastChanged_Achievements": "2023-12-28T22:08:16.1598321+00:00",
+  "LastChanged_Achievements": "2023-12-28T23:09:13.2544974+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:28.4696268+00:00",
-  "LastUpdate_Ratings": "2023-12-28T21:59:28.2064996+00:00",
-  "LastUpdate_Achievements": "2023-12-28T22:08:16.1599864+00:00"
+  "LastUpdate_Ratings": "2023-12-28T22:59:55.0550471+00:00",
+  "LastUpdate_Achievements": "2023-12-28T23:09:13.2546379+00:00"
 }

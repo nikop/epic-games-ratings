@@ -6,22 +6,22 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~18,339 |
-| Student | 22.00% | ~13,912 |
+| Initiation | 29.00% | ~18,340 |
+| Student | 22.00% | ~13,913 |
 | Knower | 16.00% | ~10,118 |
 | Listener | 15.00% | ~9,486 |
-| Aspen Tree | 14.00% | ~8,853 |
-| Healer | 14.00% | ~8,853 |
-| Soldier | 12.00% | ~7,588 |
+| Aspen Tree | 14.00% | ~8,854 |
+| Healer | 14.00% | ~8,854 |
+| Soldier | 12.00% | ~7,589 |
 | Cow Level | 11.00% | ~6,956 |
 | Scientist | 11.00% | ~6,956 |
 | Herbalist | 10.00% | ~6,324 |
 | Water | 10.00% | ~6,324 |
-| Old Friend | 9.00% | ~5,691 |
-| New Spirits | 9.00% | ~5,691 |
-| Voipel | 9.00% | ~5,691 |
-| Wolf | 9.00% | ~5,691 |
-| Black Mage | 9.00% | ~5,691 |
+| Old Friend | 9.00% | ~5,692 |
+| New Spirits | 9.00% | ~5,692 |
+| Voipel | 9.00% | ~5,692 |
+| Wolf | 9.00% | ~5,692 |
+| Black Mage | 9.00% | ~5,692 |
 | Card Player | 8.00% | ~5,059 |
 | Dead Friend | 8.00% | ~5,059 |
 | Pine Tree | 8.00% | ~5,059 |
@@ -43,9 +43,9 @@ Number of Ratings: 96  (23.09.2022)
 | Keeper of Knowledge | 6.00% | ~3,794 |
 | Susanin | 5.00% | ~3,162 |
 | Traveller | 5.00% | ~3,162 |
-| Righteous | 4.00% | ~2,529 |
-| Musician | 4.00% | ~2,529 |
-| Koldun | 4.00% | ~2,529 |
+| Righteous | 4.00% | ~2,530 |
+| Musician | 4.00% | ~2,530 |
+| Koldun | 4.00% | ~2,530 |
 | Black Sorceress | 3.00% | ~1,897 |
 | Cheater | 3.00% | ~1,897 |
 | Diplomat | 3.00% | ~1,897 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,265 |
 | Word Master | 0.20% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,237 (Ranked 114)  
+Progressed: 63,240 (Ranked 114)  
 Completed: 63 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 63 (0.10%) (Ranked 305)
 | 2023-12-25 | 62,508 | 63 |
 | 2023-12-26 | 62,786 | 63 |
 | 2023-12-27 | 63,043 | 63 |
-| 2023-12-28 | 63,237 | 63 |
+| 2023-12-28 | 63,240 | 63 |
 ## Awards
 Max (Character Customization): 103  (Ranked 368)  
 Sum: 103 (Ranked 460)  
