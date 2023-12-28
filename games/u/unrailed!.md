@@ -6,23 +6,23 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 19.00% | ~128,252 |
-| Incurious | 18.00% | ~121,501 |
-| Stroller | 16.00% | ~108,001 |
-| Climate Change | 16.00% | ~108,001 |
-| Toy Train | 14.00% | ~94,501 |
-| Advanced Hiker | 13.00% | ~87,751 |
-| Hiker | 12.00% | ~81,001 |
-| Mojave Courier | 6.00% | ~40,500 |
-| Saved by Nausicaä | 6.00% | ~40,500 |
-| Advanced Voyager | 4.00% | ~27,000 |
-| Expert Stroller | 4.00% | ~27,000 |
-| Orient Express | 4.00% | ~27,000 |
-| Voyager | 3.00% | ~20,250 |
-| Marathon | 3.00% | ~20,250 |
-| Destructionist | 3.00% | ~20,250 |
-| Expert Hiker | 2.00% | ~13,500 |
-| Lost | 2.00% | ~13,500 |
+| Advanced Stroller | 19.00% | ~128,255 |
+| Incurious | 18.00% | ~121,505 |
+| Stroller | 16.00% | ~108,004 |
+| Climate Change | 16.00% | ~108,004 |
+| Toy Train | 14.00% | ~94,504 |
+| Advanced Hiker | 13.00% | ~87,754 |
+| Hiker | 12.00% | ~81,003 |
+| Mojave Courier | 6.00% | ~40,502 |
+| Saved by Nausicaä | 6.00% | ~40,502 |
+| Advanced Voyager | 4.00% | ~27,001 |
+| Expert Stroller | 4.00% | ~27,001 |
+| Orient Express | 4.00% | ~27,001 |
+| Voyager | 3.00% | ~20,251 |
+| Marathon | 3.00% | ~20,251 |
+| Destructionist | 3.00% | ~20,251 |
+| Expert Hiker | 2.00% | ~13,501 |
+| Lost | 2.00% | ~13,501 |
 | Rocketman | 0.80% | ~5,400 |
 | Expert Voyager | 0.70% | ~4,725 |
 | Nanuk | 0.70% | ~4,725 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~675 |
 | 20 Miles under the Sea | 0.10% | ~675 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 675,008 (Ranked 28)  
+Progressed: 675,027 (Ranked 28)  
 Completed: 12 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 12 (0.00%) (Ranked 389)
 | 2023-12-25 | 674,048 | 12 |
 | 2023-12-26 | 674,526 | 12 |
 | 2023-12-27 | 674,865 | 12 |
-| 2023-12-28 | 675,008 | 12 |
+| 2023-12-28 | 675,027 | 12 |
 ## Awards
 Max (Great for Beginners): 207  (Ranked 294)  
 Sum: 1,620 (Ranked 233)  

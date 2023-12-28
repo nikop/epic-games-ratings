@@ -2,9 +2,9 @@
   "ID": "974d75969ed043489745f61eb0a25baf",
   "Name": "SteamWorld Build",
   "ProductSlug": "steamworld-build-71ee6c",
-  "Ranking_EOS_Progress": 418,
+  "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 199,
+  "EOS_Progressed": 200,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -804,6 +804,11 @@
       "Time": "2023-12-28T06:03:53.5933282+00:00",
       "NumProgressed": 199,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T13:08:05.1031909+00:00",
+      "NumProgressed": 200,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T14:06:40.4198033+00:00",
@@ -824,7 +829,7 @@
       "Name": "Aristocratic",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "Botropolis",
@@ -848,7 +853,7 @@
       "Name": "Conducted Trade",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "DiggingAHole",
@@ -856,7 +861,7 @@
       "Name": "Digging a Hole",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "DopaMiner",
@@ -872,7 +877,7 @@
       "Name": "Going Places",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "GottaGoFast",
@@ -904,7 +909,7 @@
       "Name": "It\u0027s Yours, My Friend",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ManicMechanic",
@@ -920,7 +925,7 @@
       "Name": "Mathematic",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "MineSweeper",
@@ -1006,9 +1011,9 @@
       "ID": "TuttiFrutti",
       "SetID": "4bd750m",
       "Name": "Tutti Frutti",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 114
     },
     {
       "ID": "UpUpAndAway",
@@ -1039,14 +1044,14 @@
     {
       "ID": "4bd750m",
       "IsBase": true,
-      "Progressed": 199,
+      "Progressed": 200,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-28T12:05:43.5009661+00:00",
+  "LastChanged_Achievements": "2023-12-28T13:08:05.1031902+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3930423+00:00",
-  "LastUpdate_Ratings": "2023-12-28T12:04:04.5739907+00:00",
-  "LastUpdate_Achievements": "2023-12-28T12:05:43.5009868+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:06:35.1404073+00:00",
+  "LastUpdate_Achievements": "2023-12-28T13:08:05.1032087+00:00"
 }

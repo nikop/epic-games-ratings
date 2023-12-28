@@ -44,29 +44,29 @@ Number of Ratings: 1,845  (23.09.2022)
 | Flooded Mines | 1.00% | ~195 |
 | Defying the Crown | 1.00% | ~195 |
 | Into the Forest | 1.00% | ~195 |
-| Fishmen Ritual Site | 0.90% | ~175 |
-| Victory Through Prosperity | 0.90% | ~175 |
+| Fishmen Ritual Site | 0.90% | ~176 |
+| Victory Through Prosperity | 0.90% | ~176 |
 | Efficient Explorer | 0.80% | ~156 |
 | Refinery | 0.80% | ~156 |
 | Forsaken Gods Temple | 0.80% | ~156 |
-| Dangerous Lands | 0.70% | ~136 |
-| Forbidden Lands | 0.70% | ~136 |
-| Feeding The People | 0.50% | ~97 |
-| Like a Machine | 0.50% | ~97 |
-| Fox Utopia | 0.50% | ~97 |
-| Prestigious Expedition | 0.30% | ~58 |
-| Blood Flower Farmer | 0.30% | ~58 |
+| Dangerous Lands | 0.70% | ~137 |
+| Forbidden Lands | 0.70% | ~137 |
+| Feeding The People | 0.50% | ~98 |
+| Like a Machine | 0.50% | ~98 |
+| Fox Utopia | 0.50% | ~98 |
+| Prestigious Expedition | 0.30% | ~59 |
+| Blood Flower Farmer | 0.30% | ~59 |
 | Human Utopia | 0.20% | ~39 |
 | Lizard Utopia | 0.20% | ~39 |
-| Paradise | 0.10% | ~19 |
-| Higher Needs | 0.10% | ~19 |
-| Beaver Utopia | 0.10% | ~19 |
-| Harpy Utopia | 0.10% | ~19 |
-| The Queen's Chosen | 0.10% | ~19 |
-| Treasure | 0.10% | ~19 |
-| Ruins | 0.10% | ~19 |
+| Paradise | 0.10% | ~20 |
+| Higher Needs | 0.10% | ~20 |
+| Beaver Utopia | 0.10% | ~20 |
+| Harpy Utopia | 0.10% | ~20 |
+| The Queen's Chosen | 0.10% | ~20 |
+| Treasure | 0.10% | ~20 |
+| Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,496 (Ranked 150)  
+Progressed: 19,501 (Ranked 150)  
 Completed: 36 (0.18%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 36 (0.18%) (Ranked 278)
 | 2023-12-25 | 19,247 | 38 |
 | 2023-12-26 | 19,350 | 38 |
 | 2023-12-27 | 19,458 | 38 |
-| 2023-12-28 | 19,496 | 36 |
+| 2023-12-28 | 19,501 | 36 |
 ## Awards
 Max (Quickly Understood Controls): 445  (Ranked 228)  
 Sum: 3,298 (Ranked 176)  

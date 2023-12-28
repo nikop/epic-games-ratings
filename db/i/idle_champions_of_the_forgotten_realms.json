@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 1012,
+  "Ranking_Rating": 1013,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 67,
@@ -9121,11 +9121,11 @@
       "Count": 3602
     }
   ],
-  "EOS_Progressed": 245933,
+  "EOS_Progressed": 245967,
   "EOS_Completed": 2570,
-  "EOS_NewPlayers": 3364,
+  "EOS_NewPlayers": 3381,
   "EOS_NewCompleters": 18,
-  "EOS_Completed_Percentage": 1.05,
+  "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:41.9871817+00:00",
@@ -37616,6 +37616,11 @@
       "Time": "2023-12-28T12:11:44.4667103+00:00",
       "NumProgressed": 245933,
       "NumCompleted": 2570
+    },
+    {
+      "Time": "2023-12-28T13:13:59.9556554+00:00",
+      "NumProgressed": 245967,
+      "NumCompleted": 2570
     }
   ],
   "TotalAchievements": 546,
@@ -39299,7 +39304,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1967
+      "UsersEstimate": 1968
     },
     {
       "ID": "objective_completed_34",
@@ -40169,9 +40174,9 @@
       "ID": "objective_completed_6",
       "SetID": "cc37lbc",
       "Name": "The Contagious Curse",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 492
     },
     {
       "ID": "objective_completed_60",
@@ -41915,7 +41920,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1486
     },
     {
       "ID": "objective_completed_1558",
@@ -41994,21 +41999,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 212207,
-      "Completed": 4074
+      "Progressed": 212241,
+      "Completed": 4075
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 245933,
+      "Progressed": 245967,
       "Completed": 2570
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-28T06:58:45.5766271+00:00",
-  "LastChanged_Achievements": "2023-12-28T12:11:44.4667098+00:00",
+  "LastChanged_Achievements": "2023-12-28T13:13:59.9556549+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-28T12:00:10.1321366+00:00",
-  "LastUpdate_Achievements": "2023-12-28T12:11:44.4690731+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:02:40.6082842+00:00",
+  "LastUpdate_Achievements": "2023-12-28T13:13:59.9580406+00:00"
 }

@@ -26,7 +26,7 @@
 | YOU SHALL NOT PASS! | 50.00% | ~326 |
 | “… like son” | 50.00% | ~326 |
 | The Cathedral of Light | 47.00% | ~306 |
-| Shame! Shame! Shame! | 46.00% | ~299 |
+| Shame! Shame! Shame! | 47.00% | ~306 |
 | Pure Dynamite! | 45.00% | ~293 |
 | Dungeonlord Gorgu | 45.00% | ~293 |
 | Tanos' Crusade Against Thalya | 45.00% | ~293 |
@@ -41,8 +41,8 @@
 | Doom Hill | 29.00% | ~189 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~182 |
 | Forbidden Knowledge | 28.00% | ~182 |
+| Brimstone Shaken, Not Stirred | 28.00% | ~182 |
 | Hungry, Hungry Gorgu! | 27.00% | ~176 |
-| Brimstone Shaken, Not Stirred | 27.00% | ~176 |
 | Stop Tanos! | 26.00% | ~169 |
 | Sabotage! | 26.00% | ~169 |
 | Raiders of the Lost Stone | 26.00% | ~169 |
@@ -66,7 +66,7 @@
 | No Mana, No Cry | 10.00% | ~65 |
 | I Don't Need Any Help | 9.00% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 651 (Ranked 316)  
+Progressed: 651 (Ranked 317)  
 Completed: 24 (3.69%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |

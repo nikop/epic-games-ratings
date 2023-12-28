@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3923,
+  "EOS_Progressed": 3924,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -5182,6 +5182,11 @@
       "Time": "2023-12-28T02:24:20.8354656+00:00",
       "NumProgressed": 3923,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-28T13:09:37.223781+00:00",
+      "NumProgressed": 3924,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5241,7 +5246,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3413
+      "UsersEstimate": 3414
     },
     {
       "ID": "campaign10",
@@ -5329,7 +5334,7 @@
       "Name": "Flanked!",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 2942
+      "UsersEstimate": 2943
     },
     {
       "ID": "campaign20",
@@ -5456,7 +5461,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3923,
+      "Progressed": 3924,
       "Completed": 11
     }
   ],
@@ -5464,8 +5469,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-12-28T12:07:25.0661093+00:00",
+  "LastChanged_Achievements": "2023-12-28T13:09:37.2237805+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:09.0478808+00:00",
-  "LastUpdate_Ratings": "2023-12-28T11:59:05.9628882+00:00",
-  "LastUpdate_Achievements": "2023-12-28T12:07:25.0661544+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:01:39.6516013+00:00",
+  "LastUpdate_Achievements": "2023-12-28T13:09:37.2238205+00:00"
 }

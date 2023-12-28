@@ -4,7 +4,7 @@
   "ProductSlug": "nocturnal-ef3fa0",
   "Ranking_EOS_Progress": 538,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-06-07T15:00:00+00:00",
@@ -319,33 +319,33 @@
       "ID": "Nocturnal_Achivement_1_Flame",
       "SetID": "329ifed",
       "Name": "Form Blazing Sword",
-      "Percentage": 90,
+      "Percentage": 92,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Nocturnal_Achivement_2_Shrine",
       "SetID": "329ifed",
       "Name": "A Light in Dark Places",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Nocturnal_Achivement_3_Azita",
       "SetID": "329ifed",
       "Name": "Unfortunate Enemies",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 75,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Nocturnal_Achivement_4_Avatar",
       "SetID": "329ifed",
       "Name": "Avatar Ascendant",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Nocturnal_Achivement_5_Berserker",
@@ -383,9 +383,9 @@
       "ID": "Nocturnal_Achivement_9_Torches",
       "SetID": "329ifed",
       "Name": "The Torchbearer",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 150,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
@@ -398,8 +398,8 @@
   ],
   "FirstSeen": "2023-07-26T23:57:21.2236192+00:00",
   "FirstSeenAchievements": "2023-06-12T15:00:06.5838251+00:00",
-  "LastChanged_Achievements": "2023-12-28T12:11:26.9425176+00:00",
+  "LastChanged_Achievements": "2023-12-28T13:13:42.9895614+00:00",
   "LastUpdate_AppInfo": "2023-12-26T05:57:26.1982716+00:00",
-  "LastUpdate_Ratings": "2023-12-28T12:01:30.7352661+00:00",
-  "LastUpdate_Achievements": "2023-12-28T12:11:26.9425282+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:03:56.3577181+00:00",
+  "LastUpdate_Achievements": "2023-12-28T13:13:42.9895713+00:00"
 }

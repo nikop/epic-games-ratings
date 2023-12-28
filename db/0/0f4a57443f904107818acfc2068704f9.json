@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1073,
+  "EOS_Progressed": 1074,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2617,6 +2617,11 @@
       "Time": "2023-12-28T11:05:41.7006823+00:00",
       "NumProgressed": 1073,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T13:09:44.5763671+00:00",
+      "NumProgressed": 1074,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2637,7 +2642,7 @@
       "Name": "Territorial",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -2683,9 +2688,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 848
+      "UsersEstimate": 838
     },
     {
       "ID": "CompleteChapter10",
@@ -2789,7 +2794,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "CompleteChapter5",
@@ -2803,9 +2808,9 @@
       "ID": "CompleteChapter6",
       "SetID": "52ail55",
       "Name": "More Waagh, More Problems",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 215
     },
     {
       "ID": "CompleteChapter7",
@@ -2924,14 +2929,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1073,
+      "Progressed": 1074,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-28T12:07:32.5448141+00:00",
+  "LastChanged_Achievements": "2023-12-28T13:09:44.5763666+00:00",
   "LastUpdate_AppInfo": "2023-12-22T09:57:09.096238+00:00",
-  "LastUpdate_Ratings": "2023-12-28T12:02:55.0226828+00:00",
-  "LastUpdate_Achievements": "2023-12-28T12:07:32.5448494+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:05:57.1832562+00:00",
+  "LastUpdate_Achievements": "2023-12-28T13:09:44.5764044+00:00"
 }

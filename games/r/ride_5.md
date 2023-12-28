@@ -5,7 +5,7 @@ Rating: 4.48 (Ranked 643)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 47.00% | ~1,436 |
+| Eat My Dust | 48.00% | ~1,466 |
 | First Love | 45.00% | ~1,375 |
 | Clean Race | 43.00% | ~1,314 |
 | Hear That Roar! | 41.00% | ~1,253 |

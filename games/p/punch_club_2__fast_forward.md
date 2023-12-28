@@ -8,12 +8,12 @@
 | Your first fight | 85.00% | ~413 |
 | Good Person Chip | 83.00% | ~403 |
 | First winning | 82.00% | ~399 |
-| Your first job | 80.00% | ~389 |
+| Your first job | 81.00% | ~394 |
 | Depressed visitor | 76.00% | ~369 |
+| Old movies enjoyer | 75.00% | ~364 |
 | Fitness professional | 74.00% | ~360 |
-| Old movies enjoyer | 74.00% | ~360 |
 | Neurotrainer – power gainer! | 74.00% | ~360 |
-| Employee of the week | 73.00% | ~355 |
+| Employee of the week | 74.00% | ~360 |
 | Your own amateur gym | 68.00% | ~330 |
 | First defeat | 67.00% | ~326 |
 | Run K, run! | 67.00% | ~326 |
@@ -41,8 +41,8 @@
 | Guiding on the right path | 42.00% | ~204 |
 | Mysterious voice | 41.00% | ~199 |
 | No blades in the gym | 40.00% | ~194 |
+| Responsible approach | 38.00% | ~185 |
 | Champion – no way back | 37.00% | ~180 |
-| Responsible approach | 37.00% | ~180 |
 | Underground dwellers | 36.00% | ~175 |
 | Deal with life | 35.00% | ~170 |
 | GYM professional | 35.00% | ~170 |

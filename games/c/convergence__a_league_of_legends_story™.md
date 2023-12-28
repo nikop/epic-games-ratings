@@ -6,25 +6,25 @@ Rating: 4.65 (Ranked 323)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 42.00% | ~477 |
-| Rail Rat | 32.00% | ~363 |
+| Rail Rat | 32.00% | ~364 |
 | The Mysterious Stranger | 31.00% | ~352 |
 | Immaculate Aim | 26.00% | ~295 |
 | The Brass Boss | 26.00% | ~295 |
-| Make Up For Lost Time | 24.00% | ~272 |
-| Time Flies | 24.00% | ~272 |
-| The Harder They Fall | 24.00% | ~272 |
-| No, Thanks! | 24.00% | ~272 |
-| The Prince in Heels | 24.00% | ~272 |
-| Honest Mistake | 24.00% | ~272 |
-| Immaculate Aim | 24.00% | ~272 |
+| Make Up For Lost Time | 24.00% | ~273 |
+| Time Flies | 24.00% | ~273 |
+| The Harder They Fall | 24.00% | ~273 |
+| No, Thanks! | 24.00% | ~273 |
+| The Prince in Heels | 24.00% | ~273 |
+| Honest Mistake | 24.00% | ~273 |
+| Immaculate Aim | 24.00% | ~273 |
 | The Steel Shadow | 23.00% | ~261 |
 | Fast Learner | 23.00% | ~261 |
 | Breaking Down Barriers | 22.00% | ~250 |
 | The Wicked Twins | 22.00% | ~250 |
-| Right On Time | 21.00% | ~238 |
-| Like Clockwork | 21.00% | ~238 |
-| The Betrayer | 21.00% | ~238 |
-| Golem Chaser | 21.00% | ~238 |
+| Right On Time | 21.00% | ~239 |
+| Like Clockwork | 21.00% | ~239 |
+| The Betrayer | 21.00% | ~239 |
+| Golem Chaser | 21.00% | ~239 |
 | Check Your Pulse | 20.00% | ~227 |
 | The Loose Cannon | 19.00% | ~216 |
 | Street Style | 18.00% | ~204 |
@@ -46,7 +46,7 @@ Rating: 4.65 (Ranked 323)
 | Corin Goes Home | 8.00% | ~91 |
 | Sartorialist | 8.00% | ~91 |
 | Entresol Explorer | 8.00% | ~91 |
-| Golem Hunter | 7.00% | ~79 |
+| Golem Hunter | 7.00% | ~80 |
 | Clovemary for Remembering | 6.00% | ~68 |
 | Hexlock for Protection | 6.00% | ~68 |
 | Rungs Was Right | 5.00% | ~57 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 323)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,135 (Ranked 277)  
+Progressed: 1,136 (Ranked 276)  
 Completed: 6 (0.53%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 6 (0.53%) (Ranked 213)
 | 2023-12-25 | 1,106 | 6 |
 | 2023-12-26 | 1,118 | 6 |
 | 2023-12-27 | 1,130 | 6 |
-| 2023-12-28 | 1,135 | 6 |
+| 2023-12-28 | 1,136 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

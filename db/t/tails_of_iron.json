@@ -4341,9 +4341,9 @@
       "ID": "FixTheTravellersWagon",
       "SetID": "9lj35g4",
       "Name": "Fix the Travellers Wagon",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "GetRangedWeapon",
@@ -4508,8 +4508,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-23T19:58:55.6551134+00:00",
-  "LastChanged_Achievements": "2023-12-28T12:04:33.847415+00:00",
+  "LastChanged_Achievements": "2023-12-28T13:07:00.0329617+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:15.2928033+00:00",
-  "LastUpdate_Ratings": "2023-12-28T12:02:54.1691259+00:00",
-  "LastUpdate_Achievements": "2023-12-28T12:04:33.8474532+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:05:56.3523017+00:00",
+  "LastUpdate_Achievements": "2023-12-28T13:07:00.0330042+00:00"
 }

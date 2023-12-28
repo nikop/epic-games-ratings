@@ -7,7 +7,7 @@ Number of Ratings: 85  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shop Til They Drop | 68.00% | ~135 |
-| Kaijuiced | 65.00% | ~129 |
+| Kaijuiced | 66.00% | ~131 |
 | Lie Back and Think of Albion | 59.00% | ~117 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~115 |
 | Yettisoned | 54.00% | ~107 |
@@ -19,11 +19,11 @@ Number of Ratings: 85  (23.09.2022)
 | Fly Me to the Moon Base | 44.00% | ~88 |
 | Ducks in a Row, Fish in a Barrel | 43.00% | ~86 |
 | Bodied Sattva | 35.00% | ~70 |
-| Freshly Squeezed | 33.00% | ~66 |
+| Freshly Squeezed | 34.00% | ~68 |
 | Upgreatest | 32.00% | ~64 |
-| Forbidden Donut | 30.00% | ~60 |
+| Forbidden Donut | 31.00% | ~62 |
 | Furon Fashion | 26.00% | ~52 |
-| Deincarnated | 24.00% | ~48 |
+| Deincarnated | 25.00% | ~50 |
 | Rock of the Bay | 24.00% | ~48 |
 | Trans-Siberian Express | 24.00% | ~48 |
 | Re-Return of the Clone of the Invasion II-2 | 20.00% | ~40 |
@@ -47,7 +47,7 @@ Number of Ratings: 85  (23.09.2022)
 | Against All Odds | 2.00% | ~4 |
 | Steezy Down the Spine | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 199 (Ranked 418)  
+Progressed: 199 (Ranked 419)  
 Completed: 2 (1.01%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |

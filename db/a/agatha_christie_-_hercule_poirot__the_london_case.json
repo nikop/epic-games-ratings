@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 509,
   "Ranking_EOS_Completed": 91,
   "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
     "PcReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -504,9 +504,9 @@
       "ID": "ACH_019",
       "SetID": "7b646ck",
       "Name": "A treasured heirloom",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_02",
@@ -592,9 +592,9 @@
       "ID": "ACH_029",
       "SetID": "7b646ck",
       "Name": "The Penitent Magdalene",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_03",
@@ -608,9 +608,9 @@
       "ID": "ACH_030",
       "SetID": "7b646ck",
       "Name": "A true performance",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_031",
@@ -799,8 +799,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-12-28T12:10:56.7405628+00:00",
+  "LastChanged_Achievements": "2023-12-28T13:13:15.3822332+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:26.0256312+00:00",
-  "LastUpdate_Ratings": "2023-12-28T12:00:14.3010755+00:00",
-  "LastUpdate_Achievements": "2023-12-28T12:10:56.7405925+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:02:44.7623021+00:00",
+  "LastUpdate_Achievements": "2023-12-28T13:13:15.382262+00:00"
 }

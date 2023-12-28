@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -1653,9 +1653,9 @@
       "ID": "ach_ep1_casino",
       "SetID": "b8gh1fi",
       "Name": "High Hand",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_ep1_checkin_1",
@@ -2142,8 +2142,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-28T12:08:29.9942472+00:00",
+  "LastChanged_Achievements": "2023-12-28T13:10:37.8375309+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.0953028+00:00",
-  "LastUpdate_Ratings": "2023-12-28T12:00:47.5648805+00:00",
-  "LastUpdate_Achievements": "2023-12-28T12:08:29.9943402+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:03:15.7879605+00:00",
+  "LastUpdate_Achievements": "2023-12-28T13:10:37.8376065+00:00"
 }

@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1697,
+  "EOS_Progressed": 1698,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4152,6 +4152,11 @@
       "Time": "2023-12-28T11:03:41.0417702+00:00",
       "NumProgressed": 1697,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T13:07:01.3588042+00:00",
+      "NumProgressed": 1698,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4346,9 +4351,9 @@
       "ID": "ML_ACHIEVEMENT_24",
       "SetID": "5k00jcd",
       "Name": "The Terrordactyl",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ML_ACHIEVEMENT_25",
@@ -4498,9 +4503,9 @@
       "ID": "ML_ACHIEVEMENT_43",
       "SetID": "5k00jcd",
       "Name": "Mission complete",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 85
     },
     {
       "ID": "ML_ACHIEVEMENT_44",
@@ -4531,20 +4536,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1697,
+      "Progressed": 1698,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1365,
+      "Progressed": 1366,
       "Completed": 1004
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-28T12:04:35.1852669+00:00",
+  "LastChanged_Achievements": "2023-12-28T13:07:01.3588036+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2023-12-28T12:02:32.5461273+00:00",
-  "LastUpdate_Achievements": "2023-12-28T12:04:35.1853173+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:05:35.1670977+00:00",
+  "LastUpdate_Achievements": "2023-12-28T13:07:01.3588596+00:00"
 }

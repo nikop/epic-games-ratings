@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 0.50% | ~2,430 |
-| That's a Grand Army | 0.40% | ~1,944 |
-| That is mine! | 0.40% | ~1,944 |
-| Victorious! | 0.40% | ~1,944 |
+| Until death do us apart | 0.50% | ~2,431 |
+| That's a Grand Army | 0.40% | ~1,945 |
+| That is mine! | 0.40% | ~1,945 |
+| Victorious! | 0.40% | ~1,945 |
 | Brothers in Arms | 0.30% | ~1,458 |
 | That's a Grand Navy | 0.30% | ~1,458 |
 | Seriously?! | 0.30% | ~1,458 |
@@ -289,6 +289,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Traditional Player | 0.10% | ~486 |
 | Triple the Rome | 0.10% | ~486 |
 | Trophy Hunter | 0.10% | ~486 |
+| True Heir of Timur | 0.10% | ~486 |
 | Truly Divine Ruler | 0.10% | ~486 |
 | Trustworthy | 0.10% | ~486 |
 | Turn the Table | 0.10% | ~486 |
@@ -360,7 +361,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Three Mountains | 0.00% | ~0 |
 | Tiger of Mysore | 0.00% | ~0 |
 | To the Bone | 0.00% | ~0 |
-| True Heir of Timur | 0.00% | ~0 |
 | Turkish Delight | 0.00% | ~0 |
 | Ultimate Military | 0.00% | ~0 |
 | Venetian Sea | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 486,081 (Ranked 40)  
+Progressed: 486,141 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -622,16 +622,16 @@ Completed: 1 (0.00%) (Ranked 389)
 | 2023-12-25 | 484,143 | 1 |
 | 2023-12-26 | 484,953 | 1 |
 | 2023-12-27 | 485,786 | 1 |
-| 2023-12-28 | 486,081 | 1 |
+| 2023-12-28 | 486,141 | 1 |
 ## Awards
 Max (Educational): 7,588  (Ranked 54)  
-Sum: 62,565 (Ranked 24)  
+Sum: 62,582 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,588 |
 | This game has Diverse Characters | 7,429 |
-| This game is Highly Recommended | 7,276 |
+| This game is Highly Recommended | 7,293 |
 | This game has Challenging Combat | 7,215 |
 | This game is Extremely Fun | 7,119 |
 | This game is Relaxing | 6,961 |
@@ -987,4 +987,4 @@ Diff (max vs sum): 30
 | 2023-12-25 | 4.69 | - | 7,558 | 62,301 |
 | 2023-12-26 | 4.69 | - | 7,570 | 62,442 |
 | 2023-12-27 | 4.69 | - | 7,588 | 62,528 |
-| 2023-12-28 | 4.69 | - | 7,588 | 62,565 |
+| 2023-12-28 | 4.69 | - | 7,588 | 62,582 |

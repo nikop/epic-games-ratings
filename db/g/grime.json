@@ -6,7 +6,7 @@
   "Ranking_Popularity": 425,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 81,
-  "Ranking_EOS_Completed": 265,
+  "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -1753,10 +1753,10 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 165076,
+  "EOS_Progressed": 165091,
   "EOS_Completed": 417,
-  "EOS_NewPlayers": 1457,
-  "EOS_NewCompleters": 48,
+  "EOS_NewPlayers": 1463,
+  "EOS_NewCompleters": 47,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
     {
@@ -20928,6 +20928,11 @@
       "Time": "2023-12-28T12:07:40.4761946+00:00",
       "NumProgressed": 165076,
       "NumCompleted": 417
+    },
+    {
+      "Time": "2023-12-28T13:09:51.8763482+00:00",
+      "NumProgressed": 165091,
+      "NumCompleted": 417
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -21074,9 +21079,9 @@
       "ID": "DEFEAT_HARMLESSROCKGIANT",
       "SetID": "ccc0dlh",
       "Name": "Harmless",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 990
+      "UsersEstimate": 1156
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -21196,7 +21201,7 @@
       "Name": "Yank",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -21204,7 +21209,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -21307,21 +21312,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 164659,
+      "Progressed": 164674,
       "Completed": 1248
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 165076,
+      "Progressed": 165091,
       "Completed": 417
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-28T12:01:09.7266284+00:00",
-  "LastChanged_Achievements": "2023-12-28T12:07:40.476194+00:00",
+  "LastChanged_Achievements": "2023-12-28T13:09:51.8763478+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:22.7260202+00:00",
-  "LastUpdate_Ratings": "2023-12-28T12:01:09.7266288+00:00",
-  "LastUpdate_Achievements": "2023-12-28T12:07:40.4763335+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:03:37.7944055+00:00",
+  "LastUpdate_Achievements": "2023-12-28T13:09:51.8764593+00:00"
 }

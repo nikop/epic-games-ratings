@@ -12,7 +12,7 @@ Rating: 4.54 (Ranked 539)
 | The Alliance | 37.00% | ~404 |
 | Survivors | 36.00% | ~393 |
 | The Condor | 34.00% | ~371 |
-| The End | 33.00% | ~360 |
+| The End | 34.00% | ~371 |
 | Krauta is alive | 27.00% | ~295 |
 | The Necroevolution | 27.00% | ~295 |
 | Peacemaker | 21.00% | ~229 |

@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 440,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 149,
+  "EOS_Progressed": 150,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -589,6 +589,11 @@
       "Time": "2023-12-27T22:07:14.5191108+00:00",
       "NumProgressed": 149,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T13:10:35.9879578+00:00",
+      "NumProgressed": 150,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -609,7 +614,7 @@
       "Name": "Thorough Cleaning",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "c2",
@@ -631,9 +636,9 @@
       "ID": "dl1",
       "SetID": "b1ggf28",
       "Name": "Clear Road",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "dl2",
@@ -641,7 +646,7 @@
       "Name": "Road Planning",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "dl3",
@@ -689,7 +694,7 @@
       "Name": "Administrator",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "fw3",
@@ -697,7 +702,7 @@
       "Name": "The Sacrifice",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "g1",
@@ -713,15 +718,15 @@
       "Name": "Efficient Tools",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "g3",
       "SetID": "b1ggf28",
       "Name": "Handcart",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "j1",
@@ -751,9 +756,9 @@
       "ID": "jg1",
       "SetID": "b1ggf28",
       "Name": "Infrastructure",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "jg2",
@@ -761,7 +766,7 @@
       "Name": "Waterpower",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "jg3",
@@ -775,9 +780,9 @@
       "ID": "jk1",
       "SetID": "b1ggf28",
       "Name": "Treatment of plague",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 44
     },
     {
       "ID": "jk2",
@@ -785,7 +790,7 @@
       "Name": "Saving Lives",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "jk3",
@@ -809,7 +814,7 @@
       "Name": "Architect",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "jz3",
@@ -833,7 +838,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "k3",
@@ -849,7 +854,7 @@
       "Name": "Animal Imports",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "m2",
@@ -881,7 +886,7 @@
       "Name": "A Welcoming Settlement",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "r3",
@@ -911,9 +916,9 @@
       "ID": "w1",
       "SetID": "b1ggf28",
       "Name": "Against the Cold",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 88
     },
     {
       "ID": "w2",
@@ -945,7 +950,7 @@
       "Name": "Hard-Drinking",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "x3",
@@ -969,7 +974,7 @@
       "Name": "House Remodel",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "zf3",
@@ -1008,14 +1013,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 149,
+      "Progressed": 150,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-28T12:08:28.1193239+00:00",
+  "LastChanged_Achievements": "2023-12-28T13:10:35.9879573+00:00",
   "LastUpdate_AppInfo": "2023-12-27T04:56:58.3049887+00:00",
-  "LastUpdate_Ratings": "2023-12-28T12:03:40.6647581+00:00",
-  "LastUpdate_Achievements": "2023-12-28T12:08:28.1193719+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:06:12.0976378+00:00",
+  "LastUpdate_Achievements": "2023-12-28T13:10:35.9879932+00:00"
 }

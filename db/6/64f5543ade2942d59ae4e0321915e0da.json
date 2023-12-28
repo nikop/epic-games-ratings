@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 280,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1302,9 +1302,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 148
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1334,9 +1334,9 @@
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 126
+      "UsersEstimate": 129
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -1477,8 +1477,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-28T12:08:20.260254+00:00",
+  "LastChanged_Achievements": "2023-12-28T13:10:28.5564642+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:54.1541826+00:00",
-  "LastUpdate_Ratings": "2023-12-28T12:02:39.6102476+00:00",
-  "LastUpdate_Achievements": "2023-12-28T12:08:20.2602928+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:05:41.7794918+00:00",
+  "LastUpdate_Achievements": "2023-12-28T13:10:28.5565056+00:00"
 }

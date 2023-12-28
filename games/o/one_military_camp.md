@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 52.00% | ~129 |
-| The 4 Pillars | 49.00% | ~122 |
+| The 4 Pillars | 50.00% | ~124 |
 | Capitalism | 19.00% | ~47 |
 | There's something in those trees | 10.00% | ~25 |
 | Indebted | 10.00% | ~25 |
@@ -14,7 +14,7 @@
 | Desert Power | 9.00% | ~22 |
 | Health Care | 8.00% | ~20 |
 | Desert Rat | 8.00% | ~20 |
-| Perfect Soldier | 6.00% | ~15 |
+| Perfect Soldier | 7.00% | ~17 |
 | Healing | 6.00% | ~15 |
 | Good payer | 6.00% | ~15 |
 | Pathfinder | 6.00% | ~15 |
@@ -40,8 +40,8 @@
 | Economist | 1.00% | ~2 |
 | Crisis Committee | 1.00% | ~2 |
 | Counter-espionage | 0.80% | ~2 |
+| Against Adversity | 0.80% | ~2 |
 | Conveyor Belt Madness | 0.40% | ~1 |
-| Against Adversity | 0.40% | ~1 |
 | People's Hero | 0.40% | ~1 |
 | Attack of the Drones | 0.00% | ~0 |
 | Self-management | 0.00% | ~0 |

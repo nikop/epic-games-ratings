@@ -2,10 +2,10 @@
   "ID": "c62d7481ae1744dab7310c8f4e1e9548",
   "Name": "Samorost 3",
   "ProductSlug": "samorost-3-0c4489",
-  "Ranking_EOS_Progress": 432,
+  "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 164,
+  "EOS_Progressed": 165,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.1,
+  "EOS_Completed_Percentage": 6.06,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -839,6 +839,11 @@
       "Time": "2023-12-28T10:05:31.7899046+00:00",
       "NumProgressed": 164,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-28T13:09:54.7437943+00:00",
+      "NumProgressed": 165,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -859,15 +864,15 @@
       "Name": "Cicadas",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Destilat",
       "SetID": "ag48e8e",
       "Name": "Distilled Spirits",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "Dusici",
@@ -905,9 +910,9 @@
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "Kour",
@@ -915,7 +920,7 @@
       "Name": "Spiral Smoke",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "KrabiPyramida",
@@ -929,9 +934,9 @@
       "ID": "Kudla",
       "SetID": "ag48e8e",
       "Name": "Knife",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 97
+      "UsersEstimate": 96
     },
     {
       "ID": "Kvitky",
@@ -939,7 +944,7 @@
       "Name": "Blossoms",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "MluviciPapouch",
@@ -1019,15 +1024,15 @@
       "Name": "Sleeping Parrot",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "Sputnik2",
       "SetID": "ag48e8e",
       "Name": "Sputnik",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "Stonozka",
@@ -1043,7 +1048,7 @@
       "Name": "Sprouting Tree",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Termit",
@@ -1051,7 +1056,7 @@
       "Name": "Saint Termite",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Truhlice",
@@ -1083,21 +1088,21 @@
       "Name": "Dancing Fungus",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     }
   ],
   "AchievementSets": [
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 164,
+      "Progressed": 165,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-12-28T12:07:43.4266825+00:00",
+  "LastChanged_Achievements": "2023-12-28T13:09:54.7437939+00:00",
   "LastUpdate_AppInfo": "2023-12-23T06:57:11.8700961+00:00",
-  "LastUpdate_Ratings": "2023-12-28T12:03:38.3458484+00:00",
-  "LastUpdate_Achievements": "2023-12-28T12:07:43.4267057+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:06:10.0085522+00:00",
+  "LastUpdate_Achievements": "2023-12-28T13:09:54.7438144+00:00"
 }

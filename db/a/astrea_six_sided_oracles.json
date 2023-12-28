@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1182,9 +1182,9 @@
       "ID": "AstralAdventurer",
       "SetID": "1jeo1g7",
       "Name": "Astral Adventurer",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "AstralSeeker",
@@ -1318,9 +1318,9 @@
       "ID": "DicesmithingTime",
       "SetID": "1jeo1g7",
       "Name": "Dicesmithing Time!",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 163
     },
     {
       "ID": "EndlessTricks",
@@ -1454,9 +1454,9 @@
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 117
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -1885,8 +1885,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-28T12:09:29.5516395+00:00",
+  "LastChanged_Achievements": "2023-12-28T13:11:55.5013391+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:02.5351328+00:00",
-  "LastUpdate_Ratings": "2023-12-28T11:58:05.1457906+00:00",
-  "LastUpdate_Achievements": "2023-12-28T12:09:29.5517296+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:00:46.8049618+00:00",
+  "LastUpdate_Achievements": "2023-12-28T13:11:55.5014281+00:00"
 }

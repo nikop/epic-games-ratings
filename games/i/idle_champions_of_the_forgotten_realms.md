@@ -1,14 +1,14 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 1,012)  
+Rating: 4.06 (Ranked 1,013)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~4,919 |
-| The Cursed Farmer | 0.80% | ~1,967 |
-| Welcome to Sigil | 0.70% | ~1,485 |
+| The Cursed Farmer | 0.80% | ~1,968 |
+| Welcome to Sigil | 0.70% | ~1,486 |
 | Beast Intentions | 0.60% | ~1,476 |
 | The Mad Wizard | 0.60% | ~1,476 |
 | Fast Food | 0.60% | ~1,273 |
@@ -33,6 +33,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.20% | ~492 |
 | The Crumbling Temple | 0.20% | ~492 |
 | Exploring Port Nyanzaru | 0.20% | ~492 |
+| The Contagious Curse | 0.20% | ~492 |
 | Pure Energy | 0.20% | ~492 |
 | Welcome to the Vrocks | 0.20% | ~424 |
 | Pros and CONs | 0.10% | ~246 |
@@ -339,7 +340,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Twilight Grove | 0.10% | ~246 |
 | The Nimble Grove | 0.10% | ~246 |
 | The Misty Grove | 0.10% | ~212 |
-| The Contagious Curse | 0.10% | ~246 |
 | Dinosaur Racing | 0.10% | ~246 |
 | Elturel Has Fallen | 0.10% | ~246 |
 | Everything is Awful | 0.10% | ~246 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~212 |
 | The Brains of an Illithid's Desire | 0.10% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,933 (Ranked 67)  
-Completed: 2,570 (1.05%) (Ranked 168)  
+Progressed: 245,967 (Ranked 67)  
+Completed: 2,570 (1.04%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -805,7 +805,7 @@ Completed: 2,570 (1.05%) (Ranked 168)
 | 2023-12-25 | 244,638 | 2,562 |
 | 2023-12-26 | 245,031 | 2,566 |
 | 2023-12-27 | 245,531 | 2,567 |
-| 2023-12-28 | 245,933 | 2,570 |
+| 2023-12-28 | 245,967 | 2,570 |
 ## Awards
 Max (Great for Beginners): 5,701  (Ranked 71)  
 Sum: 33,136 (Ranked 41)  

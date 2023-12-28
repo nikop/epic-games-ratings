@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~573 |
+| Malpractice Assurance | 11.00% | ~574 |
 | Lost and Found | 7.00% | ~365 |
 | This Belongs in a Museum | 5.00% | ~6,517 |
 | Overdue Notice | 5.00% | ~6,517 |
@@ -66,8 +66,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Body of Work | 0.90% | ~1,173 |
 | Clearing the Ledger | 0.70% | ~912 |
 | Triage | 0.70% | ~912 |
-| No Mercy | 0.70% | ~36 |
-| Et Tu, Riposte? | 0.70% | ~36 |
+| No Mercy | 0.70% | ~37 |
+| Et Tu, Riposte? | 0.70% | ~37 |
 | Hat Trick | 0.60% | ~782 |
 | The World As It Was | 0.50% | ~652 |
 | A Life Well Lived | 0.40% | ~521 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,343 (Ranked 87)  
+Progressed: 130,347 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-25 | 129,858 | 3 |
 | 2023-12-26 | 130,068 | 3 |
 | 2023-12-27 | 130,259 | 3 |
-| 2023-12-28 | 130,343 | 3 |
+| 2023-12-28 | 130,347 | 3 |
 ## Awards
 Max (Character Customization): 7,888  (Ranked 50)  
 Sum: 21,185 (Ranked 58)  

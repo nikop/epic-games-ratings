@@ -5,9 +5,9 @@
   "Ranking_Rating": 323,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 277,
+  "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,7 +51,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1135,
+  "EOS_Progressed": 1136,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
@@ -3251,6 +3251,11 @@
       "Time": "2023-12-28T11:10:12.1003415+00:00",
       "NumProgressed": 1135,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-28T13:13:47.6774848+00:00",
+      "NumProgressed": 1136,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3294,7 +3299,7 @@
       "Name": "Right On Time",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ClockworkCompletion1",
@@ -3310,7 +3315,7 @@
       "Name": "Like Clockwork",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ClovemaryGift",
@@ -3390,7 +3395,7 @@
       "Name": "The Betrayer",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -3422,7 +3427,7 @@
       "Name": "Rail Rat",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "HexlockGift",
@@ -3454,7 +3459,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "MapCompletion1",
@@ -3502,7 +3507,7 @@
       "Name": "Time Flies",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ParryBoss",
@@ -3510,7 +3515,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ParryRepeated1",
@@ -3518,7 +3523,7 @@
       "Name": "No, Thanks!",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "PhaseDiveCounter",
@@ -3542,7 +3547,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "RewindDamage1",
@@ -3558,7 +3563,7 @@
       "Name": "Honest Mistake",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ScrambotCompletion1",
@@ -3566,7 +3571,7 @@
       "Name": "Golem Hunter",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ScrambotProgress1",
@@ -3574,7 +3579,7 @@
       "Name": "Golem Chaser",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "SkillCompletion1",
@@ -3646,7 +3651,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "WatcherFought",
@@ -3685,7 +3690,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1135,
+      "Progressed": 1136,
       "Completed": 6
     }
   ],
@@ -3693,8 +3698,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-28T12:11:31.6840146+00:00",
+  "LastChanged_Achievements": "2023-12-28T13:13:47.6774843+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-28T12:01:02.125293+00:00",
-  "LastUpdate_Achievements": "2023-12-28T12:11:31.6840597+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:03:30.8618758+00:00",
+  "LastUpdate_Achievements": "2023-12-28T13:13:47.6775371+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "4b5f1eb366dc45f0920d397c01b291ba",
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
-  "Ranking_Rating": 695,
+  "Ranking_Rating": 694,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -587,9 +587,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 45439,
+  "EOS_Progressed": 45446,
   "EOS_Completed": 227,
-  "EOS_NewPlayers": 1066,
+  "EOS_NewPlayers": 1070,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -12187,6 +12187,11 @@
       "Time": "2023-12-28T12:10:36.2382068+00:00",
       "NumProgressed": 45439,
       "NumCompleted": 227
+    },
+    {
+      "Time": "2023-12-28T13:12:56.1847612+00:00",
+      "NumProgressed": 45446,
+      "NumCompleted": 227
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -12199,7 +12204,7 @@
       "Name": "Descendants",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6816
+      "UsersEstimate": 6817
     },
     {
       "ID": "ACH_BLUEEND",
@@ -12207,7 +12212,7 @@
       "Name": "The Flawed Teacher",
       "Percentage": 12,
       "XP": 120,
-      "UsersEstimate": 5453
+      "UsersEstimate": 5454
     },
     {
       "ID": "ACH_CUBEKILLER",
@@ -12215,7 +12220,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 9088
+      "UsersEstimate": 9089
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -12335,7 +12340,7 @@
       "Name": "Infinity Loop",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 7725
+      "UsersEstimate": 7726
     },
     {
       "ID": "ACH_HUB1",
@@ -12343,7 +12348,7 @@
       "Name": "Mission Success",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 10451
+      "UsersEstimate": 10453
     },
     {
       "ID": "ACH_HUB2",
@@ -12351,7 +12356,7 @@
       "Name": "Path to Salvation",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7725
+      "UsersEstimate": 7726
     },
     {
       "ID": "ACH_OASIS",
@@ -12359,7 +12364,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 23628
+      "UsersEstimate": 23632
     },
     {
       "ID": "ACH_PEAK",
@@ -12367,7 +12372,7 @@
       "Name": "There\u0027s No Place Like Home",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 10451
+      "UsersEstimate": 10453
     },
     {
       "ID": "ACH_PROPELL",
@@ -12375,7 +12380,7 @@
       "Name": "To Infinity and Beyond",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2726
+      "UsersEstimate": 2727
     },
     {
       "ID": "ACH_REDEND",
@@ -12391,7 +12396,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 30899
+      "UsersEstimate": 30903
     },
     {
       "ID": "ACH_S4",
@@ -12399,7 +12404,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 22720
+      "UsersEstimate": 22723
     },
     {
       "ID": "ACH_S5",
@@ -12407,7 +12412,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 16358
+      "UsersEstimate": 16361
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -12415,7 +12420,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 34079
+      "UsersEstimate": 34084
     },
     {
       "ID": "ACH_STATUE",
@@ -12423,22 +12428,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 19539
+      "UsersEstimate": 19542
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 45439,
+      "Progressed": 45446,
       "Completed": 227
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-12-17T06:58:25.2845688+00:00",
-  "LastChanged_Achievements": "2023-12-28T12:10:36.2382062+00:00",
+  "LastChanged_Achievements": "2023-12-28T13:12:56.1847607+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:05.5759929+00:00",
-  "LastUpdate_Ratings": "2023-12-28T12:02:40.9567737+00:00",
-  "LastUpdate_Achievements": "2023-12-28T12:10:36.2382748+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:05:43.0244823+00:00",
+  "LastUpdate_Achievements": "2023-12-28T13:12:56.1848296+00:00"
 }

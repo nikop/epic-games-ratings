@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 793,
+  "EOS_Progressed": 794,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.26,
   "EosHistory": [
@@ -2715,6 +2715,11 @@
       "Time": "2023-12-28T10:08:35.9008679+00:00",
       "NumProgressed": 793,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-28T13:12:12.2380163+00:00",
+      "NumProgressed": 794,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2735,7 +2740,7 @@
       "Name": "Establish Communications",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ACH_eou2",
@@ -2751,7 +2756,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_eou4",
@@ -2759,7 +2764,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_eou5",
@@ -2823,21 +2828,21 @@
       "Name": "Destroy the Moon Base",
       "Percentage": 8,
       "XP": 120,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     }
   ],
   "AchievementSets": [
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 793,
+      "Progressed": 794,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-28T12:09:47.9175067+00:00",
+  "LastChanged_Achievements": "2023-12-28T13:12:12.2380158+00:00",
   "LastUpdate_AppInfo": "2023-12-22T05:56:59.907635+00:00",
-  "LastUpdate_Ratings": "2023-12-28T12:02:23.036074+00:00",
-  "LastUpdate_Achievements": "2023-12-28T12:09:47.9175321+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:04:45.6917861+00:00",
+  "LastUpdate_Achievements": "2023-12-28T13:12:12.2380396+00:00"
 }

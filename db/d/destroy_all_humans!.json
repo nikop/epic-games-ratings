@@ -5,9 +5,9 @@
   "Ranking_Rating": 353,
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 418,
+  "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -998,9 +998,9 @@
       "ID": "ACH_ABILITY_ECM",
       "SetID": "cefn62b",
       "Name": "Deincarnated",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_ABILITY_PKBURNINGINTOHUMAN",
@@ -1030,9 +1030,9 @@
       "ID": "ACH_ABILITY_PKTHROWANDCATCHHUMAN",
       "SetID": "cefn62b",
       "Name": "Forbidden Donut",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
@@ -1054,9 +1054,9 @@
       "ID": "ACH_ABILITY_TRANSMOG",
       "SetID": "cefn62b",
       "Name": "Freshly Squeezed",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_ABILITY_WITHWEAPON",
@@ -1134,9 +1134,9 @@
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
       "SetID": "cefn62b",
       "Name": "Kaijuiced",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -1302,8 +1302,8 @@
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2023-12-28T12:06:46.2138522+00:00",
+  "LastChanged_Achievements": "2023-12-28T13:09:01.9398509+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:18.8290018+00:00",
-  "LastUpdate_Ratings": "2023-12-28T11:59:40.4987774+00:00",
-  "LastUpdate_Achievements": "2023-12-28T12:06:46.213885+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:02:10.3707776+00:00",
+  "LastUpdate_Achievements": "2023-12-28T13:09:01.9398799+00:00"
 }

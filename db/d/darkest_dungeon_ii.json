@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10254,9 +10254,9 @@
       "Count": 1059
     }
   ],
-  "EOS_Progressed": 130343,
+  "EOS_Progressed": 130347,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1480,
+  "EOS_NewPlayers": 1472,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37214,6 +37214,11 @@
       "Time": "2023-12-28T12:10:48.1630943+00:00",
       "NumProgressed": 130343,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T13:13:07.5585597+00:00",
+      "NumProgressed": 130347,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37761,7 +37766,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "combat_kill_collector",
@@ -37785,7 +37790,7 @@
       "Name": "No Mercy",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "combat_land_riposte_dmg_threshold_duelist",
@@ -37801,7 +37806,7 @@
       "Name": "Et Tu, Riposte?",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -37856,21 +37861,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130343,
+      "Progressed": 130347,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5212,
+      "Progressed": 5216,
       "Completed": 812
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-28T12:01:21.3175133+00:00",
-  "LastChanged_Achievements": "2023-12-28T12:10:48.1630938+00:00",
+  "LastChanged_Achievements": "2023-12-28T13:13:07.5585592+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-28T12:01:21.317514+00:00",
-  "LastUpdate_Achievements": "2023-12-28T12:10:48.1632949+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:03:48.0999115+00:00",
+  "LastUpdate_Achievements": "2023-12-28T13:13:07.5587536+00:00"
 }

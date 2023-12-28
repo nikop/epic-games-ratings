@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1167,
+  "EOS_Progressed": 1168,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -3269,6 +3269,11 @@
       "Time": "2023-12-28T09:11:06.9742185+00:00",
       "NumProgressed": 1167,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-28T13:13:33.4714558+00:00",
+      "NumProgressed": 1168,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -3329,7 +3334,7 @@
       "Name": "Darkest Before the Dawn",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "DrinkingOnTheJob",
@@ -3367,9 +3372,9 @@
       "ID": "MiCasaSuCasa",
       "SetID": "3ai6ml8",
       "Name": "Mi Casa Su Casa",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 362
+      "UsersEstimate": 350
     },
     {
       "ID": "OnceMoreIntoTheBreach",
@@ -3377,7 +3382,7 @@
       "Name": "Once more into the Breach",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "Outpatient",
@@ -3385,7 +3390,7 @@
       "Name": "Outpatient",
       "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "Relic",
@@ -3393,7 +3398,7 @@
       "Name": "Relic",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "SkeletonCrew",
@@ -3433,21 +3438,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 1167,
+      "Progressed": 1168,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-12-28T12:11:16.5707245+00:00",
+  "LastChanged_Achievements": "2023-12-28T13:13:33.4714552+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:55.6682443+00:00",
-  "LastUpdate_Ratings": "2023-12-28T12:02:59.974389+00:00",
-  "LastUpdate_Achievements": "2023-12-28T12:11:16.5707505+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:06:02.2512544+00:00",
+  "LastUpdate_Achievements": "2023-12-28T13:13:33.4714858+00:00"
 }

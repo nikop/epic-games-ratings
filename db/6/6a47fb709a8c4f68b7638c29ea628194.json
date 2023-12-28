@@ -2,7 +2,7 @@
   "ID": "6a47fb709a8c4f68b7638c29ea628194",
   "Name": "Engine Evolution 2023",
   "ProductSlug": "engine-evolution-2023-7d9eb7",
-  "Ranking_EOS_Progress": 294,
+  "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 148,
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 804,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 673,
+  "EOS_NewPlayers": 671,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1175,9 +1175,9 @@
       "ID": "RESEARCHED_2",
       "SetID": "4nk2039",
       "Name": "Generation 2",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 217
     },
     {
       "ID": "RESEARCHED_3",
@@ -1326,8 +1326,8 @@
   ],
   "FirstSeen": "2023-12-20T20:59:52.9883268+00:00",
   "FirstSeenAchievements": "2023-09-03T16:02:20.9417998+00:00",
-  "LastChanged_Achievements": "2023-12-28T12:10:17.0999808+00:00",
+  "LastChanged_Achievements": "2023-12-28T13:12:39.129451+00:00",
   "LastUpdate_AppInfo": "2023-12-24T23:57:03.0458166+00:00",
-  "LastUpdate_Ratings": "2023-12-28T12:01:37.8311519+00:00",
-  "LastUpdate_Achievements": "2023-12-28T12:10:17.1000062+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:04:03.1382892+00:00",
+  "LastUpdate_Achievements": "2023-12-28T13:12:39.1294722+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1297,
+  "EOS_Progressed": 1298,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4629,6 +4629,11 @@
       "Time": "2023-12-27T13:12:59.7142659+00:00",
       "NumProgressed": 1297,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T13:13:54.4636201+00:00",
+      "NumProgressed": 1298,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4808,7 +4813,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "elemental_stones_2",
@@ -5167,14 +5172,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1297,
+      "Progressed": 1298,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-12-28T12:11:38.0806257+00:00",
+  "LastChanged_Achievements": "2023-12-28T13:13:54.4636196+00:00",
   "LastUpdate_AppInfo": "2023-12-26T18:57:06.3782572+00:00",
-  "LastUpdate_Ratings": "2023-12-28T11:58:43.7084176+00:00",
-  "LastUpdate_Achievements": "2023-12-28T12:11:38.0806919+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:01:21.4563397+00:00",
+  "LastUpdate_Achievements": "2023-12-28T13:13:54.4636847+00:00"
 }

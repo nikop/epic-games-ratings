@@ -6,42 +6,42 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 35.00% | ~41 |
+| Entrepreneur | 34.00% | ~40 |
 | Best Buddy | 26.00% | ~31 |
-| Role Model | 25.00% | ~30 |
-| Civilian | 25.00% | ~30 |
+| Role Model | 24.00% | ~29 |
+| Civilian | 24.00% | ~29 |
+| Peddler | 17.00% | ~20 |
 | Festival-goer | 17.00% | ~20 |
-| Peddler | 16.00% | ~19 |
 | Creator | 16.00% | ~19 |
 | Military Leader | 15.00% | ~18 |
 | Commander | 14.00% | ~17 |
 | Long-Haul Flyer | 13.00% | ~15 |
 | Pass A38 | 11.00% | ~13 |
 | Family Reunion | 10.00% | ~12 |
-| Berserker | 8.00% | ~9 |
-| Irissa's Fate | 8.00% | ~9 |
-| Eternal Oblivion | 8.00% | ~9 |
-| Globetrotter | 6.00% | ~7 |
+| Berserker | 8.00% | ~10 |
+| Irissa's Fate | 8.00% | ~10 |
+| Eternal Oblivion | 8.00% | ~10 |
+| Globetrotter | 7.00% | ~8 |
 | Hotshot | 6.00% | ~7 |
 | Alb | 6.00% | ~7 |
 | Storyteller | 5.00% | ~6 |
 | Free as a Bird | 4.00% | ~5 |
 | Unbreakable | 4.00% | ~5 |
+| Banker | 3.00% | ~4 |
 | Alchemist | 3.00% | ~4 |
 | Self-Sufficient | 3.00% | ~4 |
 | Idealist | 3.00% | ~4 |
 | Cleric | 3.00% | ~4 |
 | Perfectionist | 3.00% | ~4 |
 | Detective | 3.00% | ~4 |
+| Hunter | 3.00% | ~4 |
 | Lover | 3.00% | ~4 |
-| Banker | 2.00% | ~2 |
 | Treasure Hunter | 2.00% | ~2 |
 | Beam Me Up | 2.00% | ~2 |
 | Morkon | 2.00% | ~2 |
 | Defector | 0.80% | ~1 |
 | Outlaw | 0.80% | ~1 |
 | Destroyer | 0.80% | ~1 |
-| Hunter | 0.80% | ~1 |
 | Pack Rat | 0.00% | ~0 |
 | Drinker | 0.00% | ~0 |
 | Key Master | 0.00% | ~0 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118 (Ranked 468)  
+Progressed: 119 (Ranked 468)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 100 | 0 |
 | 2023-12-26 | 109 | 0 |
 | 2023-12-27 | 117 | 0 |
-| 2023-12-28 | 118 | 0 |
+| 2023-12-28 | 119 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

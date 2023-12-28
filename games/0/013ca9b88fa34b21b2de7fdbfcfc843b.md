@@ -13,11 +13,11 @@ Rating: 4.63 (Ranked 353)
 | Bramble Breaker | 2.00% | ~174 |
 | Calm Sailing | 1.00% | ~87 |
 | Open the Gate! | 1.00% | ~87 |
+| Clear the Air | 1.00% | ~87 |
 | Lumberjack | 1.00% | ~87 |
 | Humble Collector | 1.00% | ~87 |
 | Mist Walker | 1.00% | ~87 |
 | Oui, Chef! | 1.00% | ~87 |
-| Clear the Air | 0.90% | ~79 |
 | Exit Through The Gift Shop | 0.90% | ~12 |
 | Higher Tax Bracket | 0.80% | ~70 |
 | Botanical Breakthrough | 0.80% | ~70 |
@@ -31,11 +31,11 @@ Rating: 4.63 (Ranked 353)
 | Rumble in the Jumble | 0.40% | ~35 |
 | Fanatical Farmer | 0.40% | ~35 |
 | Right Tool For the Job | 0.40% | ~35 |
+| Azorian Hat Dance | 0.40% | ~5 |
 | Scattered Scroll Scrounger | 0.30% | ~26 |
 | I Now Pronounce You... | 0.30% | ~26 |
 | Chatty Neighbor | 0.30% | ~26 |
 | House Proud | 0.30% | ~26 |
-| Azorian Hat Dance | 0.30% | ~4 |
 | Going Down | 0.30% | ~4 |
 | Angling Authority | 0.20% | ~17 |
 | Captain of Cozy | 0.20% | ~17 |

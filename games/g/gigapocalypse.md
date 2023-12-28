@@ -32,8 +32,8 @@
 | Undying Skin | 31.00% | ~61 |
 | Happy Little Home | 31.00% | ~61 |
 | Fight Me! | 30.00% | ~59 |
+| Supremacy | 30.00% | ~59 |
 | Mommy's Very Angry | 29.00% | ~57 |
-| Supremacy | 29.00% | ~57 |
 | Loyal Companion | 26.00% | ~51 |
 | Back To The Future | 25.00% | ~50 |
 | Immortal Skin | 25.00% | ~50 |

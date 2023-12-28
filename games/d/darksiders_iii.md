@@ -6,28 +6,28 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~195 |
+| Green with Envy | 77.00% | ~196 |
 | First of many… | 69.00% | ~175 |
-| Helping Hand | 66.00% | ~167 |
+| Helping Hand | 66.00% | ~168 |
 | Increased Vigor | 60.00% | ~152 |
-| Fight Fire with Fire | 59.00% | ~149 |
-| Increased Capacity | 55.00% | ~139 |
+| Fight Fire with Fire | 59.00% | ~150 |
+| Increased Capacity | 55.00% | ~140 |
 | Just the start | 52.00% | ~132 |
 | Perfect Storm | 49.00% | ~124 |
-| All That Glitters | 47.00% | ~119 |
-| Enhance! | 44.00% | ~111 |
-| One Of the Chosen | 42.00% | ~106 |
+| All That Glitters | 48.00% | ~122 |
+| Enhance! | 44.00% | ~112 |
+| One Of the Chosen | 43.00% | ~109 |
+| Devil's in the Details | 41.00% | ~104 |
 | Throne Potato | 41.00% | ~104 |
-| Devil's in the Details | 40.00% | ~101 |
 | Five's a Crowd | 39.00% | ~99 |
 | 25 to Life | 39.00% | ~99 |
 | Soul Harvester | 37.00% | ~94 |
 | Unshakable Fortitude | 36.00% | ~91 |
 | Salvation | 35.00% | ~89 |
+| Delusions of Grandeur | 33.00% | ~84 |
 | I Wanna Rock | 32.00% | ~81 |
-| Delusions of Grandeur | 32.00% | ~81 |
+| Love Tap | 31.00% | ~79 |
 | Maximum Vigor | 30.00% | ~76 |
-| Love Tap | 30.00% | ~76 |
 | Freeze Frame | 28.00% | ~71 |
 | Eat Your Heart Out | 28.00% | ~71 |
 | For Whom the Bell Tolls | 28.00% | ~71 |
@@ -48,10 +48,10 @@ Number of Ratings: 116  (23.09.2022)
 | Unbreakable Will | 10.00% | ~25 |
 | Take it to the Limit | 9.00% | ~23 |
 | Holy Keeper | 8.00% | ~20 |
-| Demon Keeper | 8.00% | ~20 |
-| Soul Reaper | 8.00% | ~20 |
-| Humanitarian | 8.00% | ~20 |
-| My Evil Twin | 6.00% | ~15 |
+| Demon Keeper | 7.00% | ~18 |
+| Soul Reaper | 7.00% | ~18 |
+| My Evil Twin | 7.00% | ~18 |
+| Humanitarian | 7.00% | ~18 |
 | Keeper of the Bonfire | 5.00% | ~13 |
 | Keeper of the Sky | 5.00% | ~13 |
 | Purity of Power | 4.00% | ~10 |
@@ -60,10 +60,10 @@ Number of Ratings: 116  (23.09.2022)
 | Keep it 100! | 4.00% | ~10 |
 | Made of Sterner Stuff | 4.00% | ~10 |
 | Balance in all things | 3.00% | ~8 |
+| "Incredible!" | 3.00% | ~8 |
 | Keeper of Colossal Automata | 3.00% | ~8 |
 | Keeper of the Tempo | 3.00% | ~8 |
 | BFA | 3.00% | ~8 |
-| "Incredible!" | 2.00% | ~5 |
 | "Amazing!" | 2.00% | ~5 |
 | Proceed on your way to Armageddon | 2.00% | ~5 |
 | "Apocalyptic!" | 1.00% | ~3 |
@@ -71,8 +71,8 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 0.80% | ~2 |
 | Beast Mode | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253 (Ranked 400)  
-Completed: 1 (0.40%) (Ranked 230)  
+Progressed: 254 (Ranked 400)  
+Completed: 1 (0.39%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -84,7 +84,7 @@ Completed: 1 (0.40%) (Ranked 230)
 | 2023-12-25 | 184 | 1 |
 | 2023-12-26 | 212 | 1 |
 | 2023-12-27 | 247 | 1 |
-| 2023-12-28 | 253 | 1 |
+| 2023-12-28 | 254 | 1 |
 ## Awards
 Max (Great Boss Battles): 94  (Ranked 385)  
 Sum: 94 (Ranked 465)  

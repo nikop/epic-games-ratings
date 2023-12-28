@@ -6,9 +6,9 @@
   "Ranking_Popularity": 385,
   "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 400,
-  "Ranking_EOS_Completed": 230,
+  "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -450,11 +450,11 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 253,
+  "EOS_Progressed": 254,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.4,
+  "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
     {
       "Time": "2023-12-13T11:05:01.7592506+00:00",
@@ -1065,6 +1065,11 @@
       "Time": "2023-12-28T08:03:15.5075248+00:00",
       "NumProgressed": 253,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T13:06:56.6407338+00:00",
+      "NumProgressed": 254,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -1115,17 +1120,17 @@
       "ID": "Collect_Artifact_Demon_50",
       "SetID": "7a5k76n",
       "Name": "Demon Keeper",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "Collect_Artifact_EpicShard",
       "SetID": "7a5k76n",
       "Name": "One Of the Chosen",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 109
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
@@ -1133,7 +1138,7 @@
       "Name": "Increased Capacity",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
@@ -1165,7 +1170,7 @@
       "Name": "Fight Fire with Fire",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "Collect_Hollow_Force",
@@ -1203,9 +1208,9 @@
       "ID": "Collect_Lurchers_1000000",
       "SetID": "7a5k76n",
       "Name": "Soul Reaper",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "Collect_PickUp_500",
@@ -1253,7 +1258,7 @@
       "Name": "Enhance!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "Crucible_Kill_WickedK",
@@ -1267,9 +1272,9 @@
       "ID": "Crucible_Meet_Targon",
       "SetID": "7a5k76n",
       "Name": "My Evil Twin",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "Crucible_Wave_100",
@@ -1291,9 +1296,9 @@
       "ID": "Crucible_Wave_50",
       "SetID": "7a5k76n",
       "Name": "\u0022Incredible!\u0022",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "Crucible_Wave_75",
@@ -1387,17 +1392,17 @@
       "ID": "Kill_Demon_Kraken",
       "SetID": "7a5k76n",
       "Name": "Love Tap",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 79
     },
     {
       "ID": "Kill_Enemies_666",
       "SetID": "7a5k76n",
       "Name": "Devil\u0027s in the Details",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 104
     },
     {
       "ID": "Kill_Enemies_HavocForm_666",
@@ -1411,9 +1416,9 @@
       "ID": "Kill_Sin_Avarice",
       "SetID": "7a5k76n",
       "Name": "All That Glitters",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 122
     },
     {
       "ID": "Kill_Sin_BigBad",
@@ -1429,7 +1434,7 @@
       "Name": "Green with Envy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "Kill_Sin_Gluttony",
@@ -1443,9 +1448,9 @@
       "ID": "Kill_Sin_Lust",
       "SetID": "7a5k76n",
       "Name": "Delusions of Grandeur",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 84
     },
     {
       "ID": "Kill_Sin_Pride",
@@ -1485,7 +1490,7 @@
       "Name": "Helping Hand",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "Save_Humans_10",
@@ -1507,9 +1512,9 @@
       "ID": "Save_Humans_20",
       "SetID": "7a5k76n",
       "Name": "Humanitarian",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "Save_Humans_5",
@@ -1588,15 +1593,15 @@
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 253,
+      "Progressed": 254,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-27T15:59:03.0058269+00:00",
-  "LastChanged_Achievements": "2023-12-28T12:04:30.1620887+00:00",
+  "LastChanged_Achievements": "2023-12-28T13:06:56.6407333+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:27.1633457+00:00",
-  "LastUpdate_Ratings": "2023-12-28T11:59:50.4187317+00:00",
-  "LastUpdate_Achievements": "2023-12-28T12:04:30.1621579+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:02:22.3858666+00:00",
+  "LastUpdate_Achievements": "2023-12-28T13:06:56.6407873+00:00"
 }

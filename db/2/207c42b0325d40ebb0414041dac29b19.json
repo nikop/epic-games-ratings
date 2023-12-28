@@ -2,7 +2,7 @@
   "ID": "207c42b0325d40ebb0414041dac29b19",
   "Name": "Melvor Idle",
   "ProductSlug": "melvor-idle-b6a9b3",
-  "Ranking_Rating": 487,
+  "Ranking_Rating": 459,
   "Ranking_Popularity": 271,
   "Ranking_PopularitySum": 390,
   "Ranking_EOS_Progress": 817,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.57,
+  "Rating": 4.58,
   "RatingHistory": [
     {
       "Time": "2023-12-22T16:57:30.2372034+00:00",
@@ -131,6 +131,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 267,
       "NumberOfAwardsMax": 267
+    },
+    {
+      "Time": "2023-12-28T13:04:51.1905498+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 267,
+      "NumberOfAwardsMax": 267
     }
   ],
   "ReviewsDisabled": false,
@@ -157,8 +163,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-21T16:57:07.0640742+00:00",
   "FirstSeenRating": "2023-12-22T16:57:30.2372031+00:00",
-  "LastChanged": "2023-12-27T22:01:21.2910689+00:00",
+  "LastChanged": "2023-12-28T13:04:51.1905496+00:00",
   "LastUpdate_AppInfo": "2023-12-21T16:57:06.8728779+00:00",
-  "LastUpdate_Ratings": "2023-12-28T12:02:28.2754461+00:00",
-  "LastUpdate_Achievements": "2023-12-28T12:08:08.7331038+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:04:51.1905502+00:00",
+  "LastUpdate_Achievements": "2023-12-28T13:10:18.1446315+00:00"
 }

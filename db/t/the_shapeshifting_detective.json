@@ -4,7 +4,7 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 294,
+  "EOS_Progressed": 295,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -705,6 +705,11 @@
       "Time": "2023-12-28T00:07:00.3189074+00:00",
       "NumProgressed": 294,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T13:10:04.0591826+00:00",
+      "NumProgressed": 295,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 21,
@@ -716,7 +721,7 @@
       "Name": "A Woman Scorned",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "book_em_danny",
@@ -788,7 +793,7 @@
       "Name": "Oscar Winning Performance",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "patient_listener",
@@ -796,7 +801,7 @@
       "Name": "Patient Listener",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "play_it_again_sam",
@@ -804,7 +809,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "play_me_by_the_hour",
@@ -812,7 +817,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "poetent",
@@ -828,7 +833,7 @@
       "Name": "Put A Ring On It",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "show_me_some_skin",
@@ -868,7 +873,7 @@
       "Name": "Voyeur",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "you_had_one_job",
@@ -883,7 +888,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 294,
+      "Progressed": 295,
       "Completed": 3
     }
   ],
@@ -891,8 +896,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-12-28T12:07:53.3730824+00:00",
+  "LastChanged_Achievements": "2023-12-28T13:10:04.0591823+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:53.236705+00:00",
-  "LastUpdate_Ratings": "2023-12-28T12:03:56.5095743+00:00",
-  "LastUpdate_Achievements": "2023-12-28T12:07:53.3731003+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:06:26.6654293+00:00",
+  "LastUpdate_Achievements": "2023-12-28T13:10:04.0591991+00:00"
 }

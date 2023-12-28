@@ -65,7 +65,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Spreading Plague | 0.40% | ~968 |
 | Antivenom | 0.40% | ~968 |
 | The Long Run | 0.40% | ~968 |
-| Who Needs Luck? | 0.40% | ~13 |
+| Who Needs Luck? | 0.40% | ~14 |
 | New Game+ | 0.30% | ~726 |
 | Barbecue | 0.30% | ~726 |
 | Berzerker | 0.30% | ~726 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,889 (Ranked 70)  
+Progressed: 241,895 (Ranked 70)  
 Completed: 302 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -397,7 +397,7 @@ Completed: 302 (0.12%) (Ranked 301)
 | 2023-12-25 | 241,696 | 302 |
 | 2023-12-26 | 241,782 | 302 |
 | 2023-12-27 | 241,847 | 302 |
-| 2023-12-28 | 241,889 | 302 |
+| 2023-12-28 | 241,895 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,512  (Ranked 134)  
 Sum: 11,767 (Ranked 88)  

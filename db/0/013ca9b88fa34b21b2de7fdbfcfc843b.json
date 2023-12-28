@@ -237,7 +237,7 @@
   "Tags": [],
   "EOS_Progressed": 8723,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9302,9 +9302,9 @@
       "ID": "CHAPTER_5_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Clear the Air",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 87
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -9590,9 +9590,9 @@
       "ID": "DLC1_ACHIEVEMENT_06",
       "SetID": "6p01o4j",
       "Name": "Azorian Hat Dance",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DLC1_ACHIEVEMENT_07",
@@ -9629,8 +9629,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-28T12:11:36.309278+00:00",
+  "LastChanged_Achievements": "2023-12-28T13:13:52.1972741+00:00",
   "LastUpdate_AppInfo": "2023-12-22T11:57:12.9881326+00:00",
-  "LastUpdate_Ratings": "2023-12-28T12:04:09.1486273+00:00",
-  "LastUpdate_Achievements": "2023-12-28T12:11:36.309348+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:06:37.324931+00:00",
+  "LastUpdate_Achievements": "2023-12-28T13:13:52.1973381+00:00"
 }
