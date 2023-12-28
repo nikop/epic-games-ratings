@@ -14,14 +14,14 @@ Rating: 3.75 (Ranked 1,069)
 | Curious | 43.00% | ~264 |
 | Everybody lies | 36.00% | ~221 |
 | Trick or Treat? | 23.00% | ~141 |
-| There is another way | 23.00% | ~141 |
 | Sysadmin | 22.00% | ~135 |
+| There is another way | 22.00% | ~135 |
 | Every little helps | 21.00% | ~129 |
-| Annoying | 19.00% | ~116 |
-| Hacker | 19.00% | ~116 |
-| He is just a child | 19.00% | ~116 |
-| The Walking Robot Among Us | 19.00% | ~116 |
-| Uncertain | 18.00% | ~110 |
+| Annoying | 19.00% | ~117 |
+| Hacker | 19.00% | ~117 |
+| He is just a child | 19.00% | ~117 |
+| The Walking Robot Among Us | 19.00% | ~117 |
+| Uncertain | 18.00% | ~111 |
 | Goody | 17.00% | ~104 |
 | Please oh pleeease! | 17.00% | ~104 |
 | Ace | 16.00% | ~98 |
@@ -33,13 +33,13 @@ Rating: 3.75 (Ranked 1,069)
 | Not as clumsy or random | 13.00% | ~80 |
 | Blade Runner | 10.00% | ~61 |
 | Perfect hearing | 9.00% | ~55 |
-| Meticulous | 8.00% | ~49 |
+| Meticulous | 7.00% | ~43 |
 | Lucky dog | 5.00% | ~31 |
 | Accurate | 5.00% | ~31 |
 | Silent | 4.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 613 (Ranked 323)  
-Completed: 19 (3.10%) (Ranked 107)  
+Progressed: 614 (Ranked 323)  
+Completed: 19 (3.09%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -176,6 +176,7 @@ Completed: 19 (3.10%) (Ranked 107)
 | 2023-12-25 | 609 | 19 |
 | 2023-12-26 | 612 | 19 |
 | 2023-12-27 | 613 | 19 |
+| 2023-12-28 | 614 | 19 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

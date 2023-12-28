@@ -4,7 +4,7 @@
   "ProductSlug": "oxide-room-104-4c1249",
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewPlayers": 379,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -1347,9 +1347,9 @@
       "ID": "ACH_BANDAGES",
       "SetID": "511e31d",
       "Name": "First aid",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_BATHROOM",
@@ -1578,8 +1578,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-12-28T07:03:26.0902517+00:00",
+  "LastChanged_Achievements": "2023-12-28T08:03:25.5100695+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:01.1804937+00:00",
-  "LastUpdate_Ratings": "2023-12-28T06:57:28.5096706+00:00",
-  "LastUpdate_Achievements": "2023-12-28T07:03:26.0902816+00:00"
+  "LastUpdate_Ratings": "2023-12-28T07:57:22.5283128+00:00",
+  "LastUpdate_Achievements": "2023-12-28T08:03:25.5100892+00:00"
 }

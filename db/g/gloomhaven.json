@@ -2777,7 +2777,7 @@
       "Count": 221
     }
   ],
-  "EOS_Progressed": 29271,
+  "EOS_Progressed": 29273,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 1547,
   "EOS_NewCompleters": 0,
@@ -14732,6 +14732,11 @@
       "Time": "2023-12-28T07:09:14.9823181+00:00",
       "NumProgressed": 29271,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T08:09:21.7733173+00:00",
+      "NumProgressed": 29273,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -14912,7 +14917,7 @@
       "Name": "Precious!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 4683
+      "UsersEstimate": 4684
     },
     {
       "ID": "Achievement_Trophy23",
@@ -14944,7 +14949,7 @@
       "Name": "Overkill",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 9659
+      "UsersEstimate": 9660
     },
     {
       "ID": "Achievement_Trophy27",
@@ -14976,7 +14981,7 @@
       "Name": "Spread the plague",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 7903
+      "UsersEstimate": 7904
     },
     {
       "ID": "Achievement_Trophy31",
@@ -14984,7 +14989,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 8781
+      "UsersEstimate": 8782
     },
     {
       "ID": "Achievement_Trophy32",
@@ -15032,7 +15037,7 @@
       "Name": "Get over here!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 7025
+      "UsersEstimate": 7026
     },
     {
       "ID": "Achievement_Trophy38",
@@ -15048,7 +15053,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 5561
+      "UsersEstimate": 5562
     },
     {
       "ID": "Achievement_Trophy40",
@@ -15231,7 +15236,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 29271,
+      "Progressed": 29273,
       "Completed": 1
     }
   ],
@@ -15239,8 +15244,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-28T01:44:39.7399234+00:00",
-  "LastChanged_Achievements": "2023-12-28T07:09:14.9823179+00:00",
+  "LastChanged_Achievements": "2023-12-28T08:09:21.7733169+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:28.9438704+00:00",
-  "LastUpdate_Ratings": "2023-12-28T07:00:24.3911266+00:00",
-  "LastUpdate_Achievements": "2023-12-28T07:09:14.9823953+00:00"
+  "LastUpdate_Ratings": "2023-12-28T08:00:22.5856503+00:00",
+  "LastUpdate_Achievements": "2023-12-28T08:09:21.7733965+00:00"
 }

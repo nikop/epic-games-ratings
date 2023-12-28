@@ -1,12 +1,12 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 607)  
+Rating: 4.50 (Ranked 608)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 10.00% | ~3,283 |
-| Meticulously Efficient | 8.00% | ~2,626 |
+| Meticulously Efficient | 8.00% | ~2,627 |
 | Advancement | 7.00% | ~2,298 |
 | Discovery | 6.00% | ~1,970 |
 | Solo Capture | 6.00% | ~1,970 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 607)
 | Ultimate Defense | 0.20% | ~66 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,830 (Ranked 133)  
+Progressed: 32,833 (Ranked 133)  
 Completed: 70 (0.21%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 70 (0.21%) (Ranked 271)
 | 2023-12-25 | 32,706 | 70 |
 | 2023-12-26 | 32,761 | 70 |
 | 2023-12-27 | 32,821 | 70 |
-| 2023-12-28 | 32,830 | 70 |
+| 2023-12-28 | 32,833 | 70 |
 ## Awards
 Max (Great for Beginners): 325  (Ranked 253)  
 Sum: 2,933 (Ranked 182)  

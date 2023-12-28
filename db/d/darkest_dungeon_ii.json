@@ -10162,10 +10162,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21180,
       "NumberOfAwardsMax": 7888
+    },
+    {
+      "Time": "2023-12-28T07:59:29.9868666+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21182,
+      "NumberOfAwardsMax": 7888
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21180,
+  "NumberOfAwards": 21182,
   "NumberOfAwardsMax": 7888,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10233,7 +10239,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1416
+      "Count": 1418
     },
     {
       "Text": "This game has a Creative Community",
@@ -10242,9 +10248,9 @@
       "Count": 1059
     }
   ],
-  "EOS_Progressed": 130303,
+  "EOS_Progressed": 130312,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1462,
+  "EOS_NewPlayers": 1467,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37177,6 +37183,11 @@
       "Time": "2023-12-28T07:09:19.7964692+00:00",
       "NumProgressed": 130303,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T08:09:26.4590575+00:00",
+      "NumProgressed": 130312,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37316,7 +37327,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6515
+      "UsersEstimate": 6516
     },
     {
       "ID": "combat_kill_cadavers",
@@ -37412,7 +37423,7 @@
       "Name": "Overdue Notice",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6515
+      "UsersEstimate": 6516
     },
     {
       "ID": "combat_kill_pillagers",
@@ -37540,7 +37551,7 @@
       "Name": "Autodidact",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6515
+      "UsersEstimate": 6516
     },
     {
       "ID": "hero_story_complete_all",
@@ -37724,7 +37735,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "combat_kill_collector",
@@ -37788,7 +37799,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -37819,21 +37830,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130303,
+      "Progressed": 130312,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5172,
+      "Progressed": 5181,
       "Completed": 812
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-28T02:59:19.4647315+00:00",
-  "LastChanged_Achievements": "2023-12-28T07:09:19.7964689+00:00",
+  "LastChanged": "2023-12-28T07:59:29.9868664+00:00",
+  "LastChanged_Achievements": "2023-12-28T08:09:26.459057+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-28T06:59:31.9414671+00:00",
-  "LastUpdate_Achievements": "2023-12-28T07:09:19.7966235+00:00"
+  "LastUpdate_Ratings": "2023-12-28T07:59:29.9868669+00:00",
+  "LastUpdate_Achievements": "2023-12-28T08:09:26.4592249+00:00"
 }

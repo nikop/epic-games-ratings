@@ -1,7 +1,7 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.58 (Ranked 1,073)  
+Rating: 3.59 (Ranked 1,073)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,8 +13,8 @@ Rating: 3.58 (Ranked 1,073)
 | Blood Will Have Blood | 8.00% | ~170 |
 | Ne Plus Ultra | 8.00% | ~170 |
 | Peek-a-boo | 8.00% | ~170 |
-| Fly Fisher | 7.00% | ~148 |
-| Sucks To Be You | 7.00% | ~148 |
+| Fly Fisher | 7.00% | ~149 |
+| Sucks To Be You | 7.00% | ~149 |
 | Welcome to the Neighborhood | 6.00% | ~127 |
 | Throw The First Stone | 6.00% | ~127 |
 | Enter of Your Own Free Will | 5.00% | ~106 |
@@ -72,7 +72,7 @@ Rating: 3.58 (Ranked 1,073)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,121 (Ranked 235)  
+Progressed: 2,122 (Ranked 235)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 2,067 | 0 |
 | 2023-12-26 | 2,087 | 0 |
 | 2023-12-27 | 2,113 | 0 |
-| 2023-12-28 | 2,121 | 0 |
+| 2023-12-28 | 2,122 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 569)  
 Sum: 20 (Ranked 570)  
@@ -254,3 +254,4 @@ Diff (max vs sum): -1
 | 2023-12-21 | 3.56 | 0 | 0 |
 | 2023-12-24 | 3.59 | 0 | 0 |
 | 2023-12-25 | 3.58 | 20 | 20 |
+| 2023-12-28 | 3.59 | 20 | 20 |

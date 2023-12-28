@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 952,
+  "EOS_Progressed": 953,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 219,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -3173,6 +3173,11 @@
       "Time": "2023-12-28T06:08:52.8094668+00:00",
       "NumProgressed": 952,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-28T08:09:16.5547787+00:00",
+      "NumProgressed": 953,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -3185,7 +3190,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "achievement_10",
@@ -3193,7 +3198,7 @@
       "Name": "Karakuri Trail",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "achievement_11",
@@ -3201,7 +3206,7 @@
       "Name": "Karakuri Isle",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "achievement_12",
@@ -3233,7 +3238,7 @@
       "Name": "Memory Rouser",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "achievement_16",
@@ -3297,7 +3302,7 @@
       "Name": "Kemono Hunter",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "achievement_23",
@@ -3313,7 +3318,7 @@
       "Name": "Single Minded",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "achievement_25",
@@ -3335,9 +3340,9 @@
       "ID": "achievement_27",
       "SetID": "2cpn27e",
       "Name": "Mighty Marmelizer",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 238
     },
     {
       "ID": "achievement_28",
@@ -3359,9 +3364,9 @@
       "ID": "achievement_3",
       "SetID": "2cpn27e",
       "Name": "Bonds of Enmity",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 343
+      "UsersEstimate": 334
     },
     {
       "ID": "achievement_30",
@@ -3377,7 +3382,7 @@
       "Name": "Snare Specialist",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "achievement_32",
@@ -3425,7 +3430,7 @@
       "Name": "Hidden History",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "achievement_38",
@@ -3481,7 +3486,7 @@
       "Name": "Team Hunter",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "achievement_44",
@@ -3489,7 +3494,7 @@
       "Name": "Artful Assister",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "achievement_45",
@@ -3505,7 +3510,7 @@
       "Name": "Charmed by the Hunt",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_47",
@@ -3529,7 +3534,7 @@
       "Name": "Reincarnation Cycle Stopper",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "achievement_6",
@@ -3568,13 +3573,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 952,
+      "Progressed": 953,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-28T07:09:09.9021443+00:00",
+  "LastChanged_Achievements": "2023-12-28T08:09:16.5547783+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:00.2404368+00:00",
-  "LastUpdate_Ratings": "2023-12-28T06:57:07.8374252+00:00",
-  "LastUpdate_Achievements": "2023-12-28T07:09:09.9021949+00:00"
+  "LastUpdate_Ratings": "2023-12-28T07:57:03.1497569+00:00",
+  "LastUpdate_Achievements": "2023-12-28T08:09:16.5548198+00:00"
 }

@@ -489,9 +489,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3666,
+  "EOS_Progressed": 3667,
   "EOS_Completed": 140,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.82,
   "EosHistory": [
@@ -6224,6 +6224,11 @@
       "Time": "2023-12-28T01:50:09.6077818+00:00",
       "NumProgressed": 3666,
       "NumCompleted": 140
+    },
+    {
+      "Time": "2023-12-28T08:05:46.0176849+00:00",
+      "NumProgressed": 3667,
+      "NumCompleted": 140
     }
   ],
   "TotalAchievements": 14,
@@ -6291,7 +6296,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -6339,14 +6344,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 2896
+      "UsersEstimate": 2897
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3666,
+      "Progressed": 3667,
       "Completed": 140
     }
   ],
@@ -6354,8 +6359,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-12-26T22:59:33.8911341+00:00",
-  "LastChanged_Achievements": "2023-12-28T07:05:46.6157227+00:00",
+  "LastChanged_Achievements": "2023-12-28T08:05:46.0176845+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:21.8712839+00:00",
-  "LastUpdate_Ratings": "2023-12-28T06:59:20.8736002+00:00",
-  "LastUpdate_Achievements": "2023-12-28T07:05:46.6157589+00:00"
+  "LastUpdate_Ratings": "2023-12-28T07:59:18.5687043+00:00",
+  "LastUpdate_Achievements": "2023-12-28T08:05:46.0177232+00:00"
 }

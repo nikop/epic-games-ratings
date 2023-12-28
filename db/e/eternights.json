@@ -37,7 +37,7 @@
   "Tags": [],
   "EOS_Progressed": 669,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -2485,9 +2485,9 @@
       "ID": "ACHIEVEMENT_10_NewArm",
       "SetID": "9bke6f1",
       "Name": "New arm",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 508
+      "UsersEstimate": 515
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -2694,8 +2694,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-27T15:59:49.1136695+00:00",
-  "LastChanged_Achievements": "2023-12-28T07:08:53.6658959+00:00",
+  "LastChanged_Achievements": "2023-12-28T08:09:00.8414391+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:10.2016354+00:00",
-  "LastUpdate_Ratings": "2023-12-28T06:59:03.5611741+00:00",
-  "LastUpdate_Achievements": "2023-12-28T07:08:53.6659281+00:00"
+  "LastUpdate_Ratings": "2023-12-28T07:59:00.9525335+00:00",
+  "LastUpdate_Achievements": "2023-12-28T08:09:00.8414634+00:00"
 }

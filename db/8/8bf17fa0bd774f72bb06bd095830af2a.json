@@ -2,9 +2,9 @@
   "ID": "8bf17fa0bd774f72bb06bd095830af2a",
   "Name": "The Dragoness Command Of The Flame",
   "ProductSlug": "the-dragoness-command-of-the-flame-b3b544",
-  "Ranking_EOS_Progress": 563,
+  "Ranking_EOS_Progress": 561,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewPlayers": 441,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-08-09T23:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39,
+  "EOS_Progressed": 40,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -219,6 +219,11 @@
       "Time": "2023-12-24T20:08:24.8432139+00:00",
       "NumProgressed": 39,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T08:04:15.6520613+00:00",
+      "NumProgressed": 40,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-04T17:05:09.1155779+00:00",
@@ -253,7 +258,7 @@
       "ID": "SteamAchievement_KillForestMonsters",
       "SetID": "b8gj0ip",
       "Name": "Crushing the rebelion: Grassholt",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 25,
       "UsersEstimate": 20
     },
@@ -277,7 +282,7 @@
       "ID": "SteamAchievement_UpgradeEggDragonToMaxLevel",
       "SetID": "b8gj0ip",
       "Name": "It was such a cute egg",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 10
     },
@@ -285,7 +290,7 @@
       "ID": "SteamAchievement_WinBattles01",
       "SetID": "b8gj0ip",
       "Name": "Battle Commander",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 5,
       "UsersEstimate": 21
     },
@@ -317,7 +322,7 @@
       "ID": "SteamAchievment_BuildOneBuilding",
       "SetID": "b8gj0ip",
       "Name": "Emerging Constructor",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 5,
       "UsersEstimate": 25
     },
@@ -365,7 +370,7 @@
       "ID": "SteamAchievment_CompleteOneChallenge",
       "SetID": "b8gj0ip",
       "Name": "First One",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 5,
       "UsersEstimate": 21
     },
@@ -373,7 +378,7 @@
       "ID": "SteamAchievment_CompleteQuest02",
       "SetID": "b8gj0ip",
       "Name": "Defender of the Forced Gates",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -389,7 +394,7 @@
       "ID": "SteamAchievment_CompleteQuest04",
       "SetID": "b8gj0ip",
       "Name": "Forest Dragons\u0027 Ally",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -493,7 +498,7 @@
       "ID": "SteamAchievment_CompleteStoryQuest01",
       "SetID": "b8gj0ip",
       "Name": "Hunger Buster",
-      "Percentage": 59,
+      "Percentage": 57,
       "XP": 5,
       "UsersEstimate": 23
     },
@@ -509,7 +514,7 @@
       "ID": "SteamAchievment_FirstVisitCapitalCity",
       "SetID": "b8gj0ip",
       "Name": "The Dawn",
-      "Percentage": 67,
+      "Percentage": 65,
       "XP": 5,
       "UsersEstimate": 26
     },
@@ -526,14 +531,14 @@
     {
       "ID": "b8gj0ip",
       "IsBase": true,
-      "Progressed": 39,
+      "Progressed": 40,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-12-28T07:04:16.2248488+00:00",
+  "LastChanged_Achievements": "2023-12-28T08:04:15.6520608+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:22.1421686+00:00",
-  "LastUpdate_Ratings": "2023-12-28T06:58:39.5539322+00:00",
-  "LastUpdate_Achievements": "2023-12-28T07:04:16.2248702+00:00"
+  "LastUpdate_Ratings": "2023-12-28T07:58:37.5624561+00:00",
+  "LastUpdate_Achievements": "2023-12-28T08:04:15.6520855+00:00"
 }

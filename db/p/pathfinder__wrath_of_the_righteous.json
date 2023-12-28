@@ -4715,9 +4715,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12823,
+  "EOS_Progressed": 12824,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 268,
+  "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18215,6 +18215,11 @@
       "Time": "2023-12-28T06:09:40.4776316+00:00",
       "NumProgressed": 12823,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T08:10:04.5289756+00:00",
+      "NumProgressed": 12824,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18362,7 +18367,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1923
+      "UsersEstimate": 1924
     },
     {
       "ID": "19_EqualToAroden",
@@ -18594,7 +18599,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2436
+      "UsersEstimate": 2437
     },
     {
       "ID": "49_Flame",
@@ -19153,21 +19158,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11605,
+      "Progressed": 11606,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12823,
+      "Progressed": 12824,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-27T11:57:16.5832568+00:00",
-  "LastChanged_Achievements": "2023-12-28T07:09:58.9038127+00:00",
+  "LastChanged_Achievements": "2023-12-28T08:10:04.528975+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:01.2970884+00:00",
-  "LastUpdate_Ratings": "2023-12-28T06:57:46.3389199+00:00",
-  "LastUpdate_Achievements": "2023-12-28T07:09:58.903965+00:00"
+  "LastUpdate_Ratings": "2023-12-28T07:57:43.7572546+00:00",
+  "LastUpdate_Achievements": "2023-12-28T08:10:04.5291392+00:00"
 }

@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 99.00% | ~942 |
-| Hidden History | 70.00% | ~666 |
+| Land of the Rising Sun | 99.00% | ~943 |
+| Hidden History | 70.00% | ~667 |
 | Commencing of Quests | 61.00% | ~581 |
 | Budding Conjuror | 59.00% | ~562 |
 | Man-Machine Master | 48.00% | ~457 |
-| Charmed by the Hunt | 47.00% | ~447 |
+| Charmed by the Hunt | 47.00% | ~448 |
 | Mountain Splitter | 46.00% | ~438 |
 | Subsistence Skills | 46.00% | ~438 |
-| Memory Rouser | 45.00% | ~428 |
+| Memory Rouser | 45.00% | ~429 |
 | Fusion Conjuror | 44.00% | ~419 |
-| Kemono Hunter | 39.00% | ~371 |
+| Kemono Hunter | 39.00% | ~372 |
 | Helpful Heart | 38.00% | ~362 |
 | Expert Conjuror | 38.00% | ~362 |
 | Flawless Crystal | 36.00% | ~343 |
-| Bonds of Enmity | 36.00% | ~343 |
+| Bonds of Enmity | 35.00% | ~334 |
 | Distance Devourer | 33.00% | ~314 |
 | Counter Specialist | 32.00% | ~305 |
 | Master of the Skies | 30.00% | ~286 |
 | Axer of Auspice | 27.00% | ~257 |
-| Mighty Marmelizer | 26.00% | ~248 |
 | Fair Means or Foul | 26.00% | ~248 |
+| Mighty Marmelizer | 25.00% | ~238 |
 | Kemono at Heart | 25.00% | ~238 |
-| Single Minded | 24.00% | ~228 |
-| Karakuri Trail | 22.00% | ~209 |
-| Snare Specialist | 22.00% | ~209 |
-| Artful Assister | 22.00% | ~209 |
-| Team Hunter | 20.00% | ~190 |
-| Karakuri Isle | 18.00% | ~171 |
-| Reincarnation Cycle Stopper | 18.00% | ~171 |
+| Single Minded | 24.00% | ~229 |
+| Karakuri Trail | 22.00% | ~210 |
+| Snare Specialist | 22.00% | ~210 |
+| Artful Assister | 22.00% | ~210 |
+| Team Hunter | 20.00% | ~191 |
+| Karakuri Isle | 18.00% | ~172 |
+| Reincarnation Cycle Stopper | 18.00% | ~172 |
 | Human Believer | 16.00% | ~152 |
 | Left Arm Leverager | 15.00% | ~143 |
 | Style Seeker | 15.00% | ~143 |
@@ -53,7 +53,7 @@
 | Bewitched by Bathing | 4.00% | ~38 |
 | Tsukumo Whisperer | 3.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 952 (Ranked 285)  
+Progressed: 953 (Ranked 285)  
 Completed: 8 (0.84%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,4 +157,4 @@ Completed: 8 (0.84%) (Ranked 187)
 | 2023-12-25 | 882 | 8 |
 | 2023-12-26 | 919 | 8 |
 | 2023-12-27 | 941 | 8 |
-| 2023-12-28 | 952 | 8 |
+| 2023-12-28 | 953 | 8 |

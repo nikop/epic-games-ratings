@@ -6,26 +6,26 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~18,297 |
-| Student | 22.00% | ~13,880 |
-| Knower | 16.00% | ~10,095 |
-| Listener | 15.00% | ~9,464 |
-| Aspen Tree | 14.00% | ~8,833 |
-| Healer | 14.00% | ~8,833 |
-| Soldier | 12.00% | ~7,571 |
-| Cow Level | 11.00% | ~6,940 |
-| Scientist | 11.00% | ~6,940 |
-| Herbalist | 10.00% | ~6,309 |
-| Water | 10.00% | ~6,309 |
-| Old Friend | 9.00% | ~5,678 |
-| New Spirits | 9.00% | ~5,678 |
-| Voipel | 9.00% | ~5,678 |
-| Wolf | 9.00% | ~5,678 |
-| Black Mage | 9.00% | ~5,678 |
-| Card Player | 8.00% | ~5,047 |
-| Dead Friend | 8.00% | ~5,047 |
-| Pine Tree | 8.00% | ~5,047 |
-| Collector | 8.00% | ~5,047 |
+| Initiation | 29.00% | ~18,300 |
+| Student | 22.00% | ~13,883 |
+| Knower | 16.00% | ~10,097 |
+| Listener | 15.00% | ~9,466 |
+| Aspen Tree | 14.00% | ~8,835 |
+| Healer | 14.00% | ~8,835 |
+| Soldier | 12.00% | ~7,573 |
+| Cow Level | 11.00% | ~6,942 |
+| Scientist | 11.00% | ~6,942 |
+| Herbalist | 10.00% | ~6,310 |
+| Water | 10.00% | ~6,310 |
+| Old Friend | 9.00% | ~5,679 |
+| New Spirits | 9.00% | ~5,679 |
+| Voipel | 9.00% | ~5,679 |
+| Wolf | 9.00% | ~5,679 |
+| Black Mage | 9.00% | ~5,679 |
+| Card Player | 8.00% | ~5,048 |
+| Dead Friend | 8.00% | ~5,048 |
+| Pine Tree | 8.00% | ~5,048 |
+| Collector | 8.00% | ~5,048 |
 | Worthy | 7.00% | ~4,417 |
 | Black Book | 7.00% | ~4,417 |
 | Black Sorcerer | 7.00% | ~4,417 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,262 |
 | Word Master | 0.20% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,093 (Ranked 114)  
+Progressed: 63,105 (Ranked 114)  
 Completed: 63 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 63 (0.10%) (Ranked 305)
 | 2023-12-25 | 62,508 | 63 |
 | 2023-12-26 | 62,786 | 63 |
 | 2023-12-27 | 63,043 | 63 |
-| 2023-12-28 | 63,093 | 63 |
+| 2023-12-28 | 63,105 | 63 |
 ## Awards
 Max (Character Customization): 103  (Ranked 368)  
 Sum: 103 (Ranked 460)  

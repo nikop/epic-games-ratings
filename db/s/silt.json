@@ -4,7 +4,7 @@
   "ProductSlug": "silt-6ca919",
   "Ranking_EOS_Progress": 817,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 567,
+  "Ranking_EOS_NewPlayers": 568,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-06-01T09:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:44.8529887+00:00",
   "LastChanged": "2023-03-31T05:58:44.8529888+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:24.3871272+00:00",
-  "LastUpdate_Ratings": "2023-12-28T06:59:26.2208468+00:00",
-  "LastUpdate_Achievements": "2023-12-28T07:05:24.8030418+00:00"
+  "LastUpdate_Ratings": "2023-12-28T07:59:24.4393782+00:00",
+  "LastUpdate_Achievements": "2023-12-28T08:05:24.4932373+00:00"
 }

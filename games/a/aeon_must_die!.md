@@ -16,8 +16,8 @@
 | Hot Potato | 6.00% | ~217 |
 | Emperor's Hubris | 4.00% | ~145 |
 | Nothing To Lose | 4.00% | ~145 |
-| Dreams Of Perfection | 3.00% | ~108 |
-| Untouchable Legend | 3.00% | ~108 |
+| Dreams Of Perfection | 3.00% | ~109 |
+| Untouchable Legend | 3.00% | ~109 |
 | Loyal Companion | 2.00% | ~72 |
 | Atta Boy! | 2.00% | ~72 |
 | Not Afraid Of The Dark | 2.00% | ~72 |
@@ -40,7 +40,7 @@
 | Full Might Of The Armada | 0.10% | ~4 |
 | The Many Fates Of The Many | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,616 (Ranked 216)  
+Progressed: 3,617 (Ranked 216)  
 Completed: -28 (-0.77%) (Ranked 3,788)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,6 +148,7 @@ Completed: -28 (-0.77%) (Ranked 3,788)
 | 2023-12-25 | 3,614 | -28 |
 | 2023-12-26 | 3,615 | -28 |
 | 2023-12-27 | 3,616 | -28 |
+| 2023-12-28 | 3,617 | -28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

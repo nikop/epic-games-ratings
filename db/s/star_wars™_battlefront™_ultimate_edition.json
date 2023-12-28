@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2268,
+  "EOS_Progressed": 2269,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 0,
@@ -6429,6 +6429,11 @@
       "Time": "2023-12-28T07:09:57.8066835+00:00",
       "NumProgressed": 2268,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T08:10:03.450715+00:00",
+      "NumProgressed": 2269,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6657,7 +6662,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "achievement_35",
@@ -6665,7 +6670,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "achievement_36",
@@ -6689,7 +6694,7 @@
       "Name": "Survivor",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "achievement_39",
@@ -6713,7 +6718,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "achievement_41",
@@ -6944,13 +6949,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2268,
+      "Progressed": 2269,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2268,
+      "Progressed": 2269,
       "Completed": 1
     }
   ],
@@ -6958,8 +6963,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-28T07:09:57.8066833+00:00",
+  "LastChanged_Achievements": "2023-12-28T08:10:03.4507146+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.4116758+00:00",
-  "LastUpdate_Ratings": "2023-12-28T07:00:41.9702487+00:00",
-  "LastUpdate_Achievements": "2023-12-28T07:09:57.8067509+00:00"
+  "LastUpdate_Ratings": "2023-12-28T08:02:39.7197119+00:00",
+  "LastUpdate_Achievements": "2023-12-28T08:10:03.45078+00:00"
 }

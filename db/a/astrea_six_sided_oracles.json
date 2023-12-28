@@ -1433,9 +1433,9 @@
       "ID": "MechanicalBuddy",
       "SetID": "1jeo1g7",
       "Name": "Mechanical Buddy",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 183
     },
     {
       "ID": "MeissasSavior",
@@ -1449,9 +1449,9 @@
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 116
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -1880,8 +1880,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-28T07:08:24.6536251+00:00",
+  "LastChanged_Achievements": "2023-12-28T08:08:32.5085983+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:02.5351328+00:00",
-  "LastUpdate_Ratings": "2023-12-28T06:57:26.1174519+00:00",
-  "LastUpdate_Achievements": "2023-12-28T07:08:24.6537245+00:00"
+  "LastUpdate_Ratings": "2023-12-28T07:57:19.990765+00:00",
+  "LastUpdate_Achievements": "2023-12-28T08:08:32.5086958+00:00"
 }

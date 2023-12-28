@@ -20,10 +20,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Frosts | 4.00% | ~779 |
 | Land of Greed | 4.00% | ~779 |
 | Ominous Presence | 4.00% | ~779 |
-| Fertile Meadows | 3.00% | ~584 |
-| Royal Outpost | 3.00% | ~584 |
-| Watchtower | 3.00% | ~584 |
-| Untamed Wilds | 3.00% | ~584 |
+| Fertile Meadows | 3.00% | ~585 |
+| Royal Outpost | 3.00% | ~585 |
+| Watchtower | 3.00% | ~585 |
+| Untamed Wilds | 3.00% | ~585 |
 | Homesick | 2.00% | ~390 |
 | Ruined Armory | 2.00% | ~390 |
 | Bandit Camp | 2.00% | ~390 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,482 (Ranked 150)  
+Progressed: 19,485 (Ranked 150)  
 Completed: 36 (0.18%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 36 (0.18%) (Ranked 278)
 | 2023-12-25 | 19,247 | 38 |
 | 2023-12-26 | 19,350 | 38 |
 | 2023-12-27 | 19,458 | 38 |
-| 2023-12-28 | 19,482 | 36 |
+| 2023-12-28 | 19,485 | 36 |
 ## Awards
 Max (Quickly Understood Controls): 445  (Ranked 228)  
 Sum: 3,298 (Ranked 176)  

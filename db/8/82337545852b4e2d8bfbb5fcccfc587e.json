@@ -784,9 +784,9 @@
       "ID": "EpicACHV_14",
       "SetID": "acn799d",
       "Name": "Rhinosaber",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "EpicACHV_15",
@@ -872,9 +872,9 @@
       "ID": "EpicACHV_9",
       "SetID": "acn799d",
       "Name": "Deer-hunting",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     }
   ],
   "AchievementSets": [
@@ -887,8 +887,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-12-28T07:08:48.1341545+00:00",
+  "LastChanged_Achievements": "2023-12-28T08:08:55.4739007+00:00",
   "LastUpdate_AppInfo": "2023-12-27T14:57:15.2228488+00:00",
-  "LastUpdate_Ratings": "2023-12-28T06:59:12.9372916+00:00",
-  "LastUpdate_Achievements": "2023-12-28T07:08:48.1341684+00:00"
+  "LastUpdate_Ratings": "2023-12-28T07:59:10.9639764+00:00",
+  "LastUpdate_Achievements": "2023-12-28T08:08:55.4739129+00:00"
 }
