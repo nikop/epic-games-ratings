@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2812,
+  "EOS_Progressed": 2813,
   "EOS_Completed": 258,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 9.17,
   "EosHistory": [
@@ -8041,6 +8041,11 @@
       "Time": "2023-12-28T13:12:37.0845369+00:00",
       "NumProgressed": 2812,
       "NumCompleted": 258
+    },
+    {
+      "Time": "2023-12-28T14:09:34.6465665+00:00",
+      "NumProgressed": 2813,
+      "NumCompleted": 258
     }
   ],
   "TotalAchievements": 12,
@@ -8140,14 +8145,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2812,
+      "Progressed": 2813,
       "Completed": 258
     }
   ],
@@ -8155,8 +8160,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-12-28T13:12:37.0845364+00:00",
+  "LastChanged_Achievements": "2023-12-28T14:09:34.646566+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:14.8198815+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:04:25.067065+00:00",
-  "LastUpdate_Achievements": "2023-12-28T13:12:37.0845849+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:01:45.5318393+00:00",
+  "LastUpdate_Achievements": "2023-12-28T14:09:34.6466094+00:00"
 }

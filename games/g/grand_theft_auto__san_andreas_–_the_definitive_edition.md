@@ -1,29 +1,29 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.54 (Ranked 539)  
+Rating: 4.54 (Ranked 540)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~13,968 |
-| Pay 'n' Spray | 50.00% | ~8,622 |
-| All Dressed Up for San Fierro | 25.00% | ~4,311 |
-| The American Dream | 18.00% | ~3,104 |
-| School's Out | 18.00% | ~3,104 |
-| Smooth Moves | 16.00% | ~2,759 |
-| What happens in Las Venturas... | 14.00% | ~2,414 |
-| Today Was a Good Day | 14.00% | ~2,414 |
-| Horror of the Santa Maria | 10.00% | ~1,724 |
-| Liberty City State of Mind | 9.00% | ~1,552 |
+| Getting Started | 81.00% | ~13,973 |
+| Pay 'n' Spray | 50.00% | ~8,626 |
+| All Dressed Up for San Fierro | 25.00% | ~4,313 |
+| The American Dream | 18.00% | ~3,105 |
+| School's Out | 18.00% | ~3,105 |
+| Smooth Moves | 16.00% | ~2,760 |
+| What happens in Las Venturas... | 14.00% | ~2,415 |
+| Today Was a Good Day | 14.00% | ~2,415 |
+| Horror of the Santa Maria | 10.00% | ~1,725 |
+| Liberty City State of Mind | 9.00% | ~1,553 |
 | Original Gangster | 8.00% | ~1,380 |
-| With Extra Dip | 7.00% | ~1,207 |
-| The End of the Line | 7.00% | ~1,207 |
+| With Extra Dip | 7.00% | ~1,208 |
+| The End of the Line | 7.00% | ~1,208 |
 | Saviour | 6.00% | ~1,035 |
-| Rescue a Kitten Too? | 5.00% | ~862 |
+| Rescue a Kitten Too? | 5.00% | ~863 |
 | They Can’t Stop All of Us | 4.00% | ~690 |
 | What are the Odds | 4.00% | ~690 |
-| Bike or Biker | 3.00% | ~517 |
-| What the City Needs | 3.00% | ~517 |
+| Bike or Biker | 3.00% | ~518 |
+| What the City Needs | 3.00% | ~518 |
 | A Legitimate Business | 2.00% | ~345 |
 | I’ll Have Two Number 9s | 2.00% | ~345 |
 | Who Needs Directions? | 2.00% | ~345 |
@@ -33,15 +33,15 @@ Rating: 4.54 (Ranked 539)
 | Assassin | 2.00% | ~345 |
 | Public Enemy No. 1 | 2.00% | ~345 |
 | Ain’t Nothing But a G Thing | 2.00% | ~345 |
-| Hoopin' it Up | 1.00% | ~172 |
-| Lucky Spinner | 1.00% | ~172 |
-| Not a Player | 1.00% | ~172 |
-| Chick Magnet | 1.00% | ~172 |
+| Hoopin' it Up | 1.00% | ~173 |
+| Lucky Spinner | 1.00% | ~173 |
+| Not a Player | 1.00% | ~173 |
+| Chick Magnet | 1.00% | ~173 |
 | Remastered | 0.70% | ~121 |
 | ...Here we go again | 0.50% | ~86 |
 | I Ain't No Buster | 0.40% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,244 (Ranked 159)  
+Progressed: 17,251 (Ranked 159)  
 Completed: 64 (0.37%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,10 +293,10 @@ Completed: 64 (0.37%) (Ranked 236)
 | 2023-12-25 | 16,820 | 63 |
 | 2023-12-26 | 17,001 | 64 |
 | 2023-12-27 | 17,152 | 64 |
-| 2023-12-28 | 17,244 | 64 |
+| 2023-12-28 | 17,251 | 64 |
 ## Awards
 Max (Great Boss Battles): 538  (Ranked 212)  
-Sum: 815 (Ranked 284)  
+Sum: 816 (Ranked 284)  
 Diff (max vs sum): -72  
 | Award | Count |
 | ----- | ----- |
@@ -308,7 +308,7 @@ Diff (max vs sum): -72
 | This game is Highly Recommended | 36 |
 | This game is Extremely Fun | 30 |
 | This game has a Creative Community | 29 |
-| This game has Quickly Understood Controls | 28 |
+| This game has Quickly Understood Controls | 29 |
 | This game has Diverse Characters | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -526,4 +526,4 @@ Diff (max vs sum): -72
 | 2023-12-25 | 4.54 | 508 | 821 |
 | 2023-12-26 | 4.54 | 519 | 793 |
 | 2023-12-27 | 4.54 | 530 | 807 |
-| 2023-12-28 | 4.54 | 538 | 815 |
+| 2023-12-28 | 4.54 | 538 | 816 |

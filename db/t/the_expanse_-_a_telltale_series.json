@@ -2,12 +2,12 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 498,
+  "Ranking_Rating": 499,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17640,
+  "EOS_Progressed": 17641,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 656,
+  "EOS_NewPlayers": 653,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15452,6 +15452,11 @@
       "Time": "2023-12-28T13:08:50.4624308+00:00",
       "NumProgressed": 17640,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-28T14:06:05.4459688+00:00",
+      "NumProgressed": 17641,
+      "NumCompleted": 56
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15480,7 +15485,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "12",
@@ -15496,7 +15501,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2822
+      "UsersEstimate": 2823
     },
     {
       "ID": "14",
@@ -15616,7 +15621,7 @@
       "Name": "Bosmang",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "28",
@@ -15672,7 +15677,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "7",
@@ -15696,7 +15701,7 @@
       "Name": "Impossible Objects",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "31",
@@ -15720,7 +15725,7 @@
       "Name": "Zen Master",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "34",
@@ -15743,22 +15748,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17640,
+      "Progressed": 17641,
       "Completed": 56
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3594,
-      "Completed": 1086
+      "Progressed": 3595,
+      "Completed": 1087
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-27T06:00:51.7325186+00:00",
-  "LastChanged_Achievements": "2023-12-28T13:08:50.4624303+00:00",
+  "LastChanged_Achievements": "2023-12-28T14:06:05.4459682+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:04:40.8254688+00:00",
-  "LastUpdate_Achievements": "2023-12-28T13:08:50.462526+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:02:04.0452292+00:00",
+  "LastUpdate_Achievements": "2023-12-28T14:06:05.4460575+00:00"
 }

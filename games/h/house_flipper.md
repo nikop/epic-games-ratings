@@ -16,7 +16,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Junior Estate Agent | 13.00% | ~2,833 |
 | Mystery | 10.00% | ~2,180 |
 | Artistic soul | 10.00% | ~2,180 |
-| Estate Agent | 5.00% | ~1,090 |
+| Estate Agent | 6.00% | ~1,308 |
 | Millionaire | 5.00% | ~1,090 |
 | Perfectionist | 5.00% | ~1,090 |
 | I'm Belieber | 3.00% | ~654 |

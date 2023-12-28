@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 200,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -915,9 +915,9 @@
       "ID": "ManicMechanic",
       "SetID": "4bd750m",
       "Name": "Manic Mechanic",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "Mathematic",
@@ -979,9 +979,9 @@
       "ID": "StackOverflow",
       "SetID": "4bd750m",
       "Name": "Stack Overflow",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "SteamPowered",
@@ -1050,8 +1050,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-28T13:08:05.1031902+00:00",
+  "LastChanged_Achievements": "2023-12-28T14:05:16.6290206+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3930423+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:06:35.1404073+00:00",
-  "LastUpdate_Achievements": "2023-12-28T13:08:05.1032087+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:03:39.1925797+00:00",
+  "LastUpdate_Achievements": "2023-12-28T14:05:16.629037+00:00"
 }

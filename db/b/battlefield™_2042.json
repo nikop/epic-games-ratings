@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 109180,
+  "EOS_Progressed": 109249,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 8001,
+  "EOS_NewPlayers": 7985,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11687,6 +11687,11 @@
       "Time": "2023-12-28T13:07:45.2534159+00:00",
       "NumProgressed": 109180,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-28T14:04:55.9480696+00:00",
+      "NumProgressed": 109249,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-20T19:08:07.8580208+00:00",
@@ -11699,7 +11704,7 @@
       "Name": "Adapt and Overcome",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 108088
+      "UsersEstimate": 108157
     },
     {
       "ID": "achievement_10",
@@ -11707,7 +11712,7 @@
       "Name": "Gun Master",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 13102
+      "UsersEstimate": 13110
     },
     {
       "ID": "achievement_11",
@@ -11715,7 +11720,7 @@
       "Name": "Wheeled Warrior",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 2184
+      "UsersEstimate": 2185
     },
     {
       "ID": "achievement_12",
@@ -11723,7 +11728,7 @@
       "Name": "Jack of all Trades",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 13102
+      "UsersEstimate": 13110
     },
     {
       "ID": "achievement_13",
@@ -11731,7 +11736,7 @@
       "Name": "Aerial Destroyer",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 5459
+      "UsersEstimate": 5462
     },
     {
       "ID": "achievement_14",
@@ -11739,7 +11744,7 @@
       "Name": "A bird?  A plane?",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 17469
+      "UsersEstimate": 17480
     },
     {
       "ID": "achievement_15",
@@ -11747,7 +11752,7 @@
       "Name": "Going Places",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 52406
+      "UsersEstimate": 52440
     },
     {
       "ID": "achievement_16",
@@ -11755,7 +11760,7 @@
       "Name": "Doze this",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 13102
+      "UsersEstimate": 13110
     },
     {
       "ID": "achievement_17",
@@ -11771,7 +11776,7 @@
       "Name": "Doctor Falck in the house",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2184
+      "UsersEstimate": 2185
     },
     {
       "ID": "achievement_19",
@@ -11779,7 +11784,7 @@
       "Name": "Happy birthday",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 14193
+      "UsersEstimate": 14202
     },
     {
       "ID": "achievement_2",
@@ -11787,7 +11792,7 @@
       "Name": "Making Dunn Proud",
       "Percentage": 84,
       "XP": 35,
-      "UsersEstimate": 91711
+      "UsersEstimate": 91769
     },
     {
       "ID": "achievement_20",
@@ -11795,7 +11800,7 @@
       "Name": "Squad Wiper",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 77518
+      "UsersEstimate": 77567
     },
     {
       "ID": "achievement_21",
@@ -11803,7 +11808,7 @@
       "Name": "War machine",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 67692
+      "UsersEstimate": 67734
     },
     {
       "ID": "achievement_22",
@@ -11811,7 +11816,7 @@
       "Name": "I\u0027m Five by Five, B",
       "Percentage": 34,
       "XP": 80,
-      "UsersEstimate": 37121
+      "UsersEstimate": 37145
     },
     {
       "ID": "achievement_23",
@@ -11819,7 +11824,7 @@
       "Name": "Tool Time",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2184
+      "UsersEstimate": 2185
     },
     {
       "ID": "achievement_24",
@@ -11827,7 +11832,7 @@
       "Name": "Wrecking Crew",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 46947
+      "UsersEstimate": 46977
     },
     {
       "ID": "achievement_25",
@@ -11835,7 +11840,7 @@
       "Name": "No-one gets left behind",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 54590
+      "UsersEstimate": 54624
     },
     {
       "ID": "achievement_26",
@@ -11843,7 +11848,7 @@
       "Name": "Thank you, Santa",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 62233
+      "UsersEstimate": 62272
     },
     {
       "ID": "achievement_27",
@@ -11859,7 +11864,7 @@
       "Name": "Foot Soldier",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 93895
+      "UsersEstimate": 93954
     },
     {
       "ID": "achievement_29",
@@ -11867,7 +11872,7 @@
       "Name": "CQC Specialist",
       "Percentage": 13,
       "XP": 80,
-      "UsersEstimate": 14193
+      "UsersEstimate": 14202
     },
     {
       "ID": "achievement_3",
@@ -11875,7 +11880,7 @@
       "Name": "Luck of the Irish",
       "Percentage": 70,
       "XP": 80,
-      "UsersEstimate": 76426
+      "UsersEstimate": 76474
     },
     {
       "ID": "achievement_30",
@@ -11883,7 +11888,7 @@
       "Name": "Deadshot",
       "Percentage": 62,
       "XP": 45,
-      "UsersEstimate": 67692
+      "UsersEstimate": 67734
     },
     {
       "ID": "achievement_31",
@@ -11891,7 +11896,7 @@
       "Name": "One Careful Owner",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 16377
+      "UsersEstimate": 16387
     },
     {
       "ID": "achievement_32",
@@ -11899,7 +11904,7 @@
       "Name": "Good Company",
       "Percentage": 83,
       "XP": 35,
-      "UsersEstimate": 90619
+      "UsersEstimate": 90677
     },
     {
       "ID": "achievement_33",
@@ -11907,7 +11912,7 @@
       "Name": "Showoff",
       "Percentage": 80,
       "XP": 35,
-      "UsersEstimate": 87344
+      "UsersEstimate": 87399
     },
     {
       "ID": "achievement_34",
@@ -11915,7 +11920,7 @@
       "Name": "Burnout",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 72059
+      "UsersEstimate": 72104
     },
     {
       "ID": "achievement_4",
@@ -11923,7 +11928,7 @@
       "Name": "Dead in their tracks!",
       "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 53498
+      "UsersEstimate": 53532
     },
     {
       "ID": "achievement_5",
@@ -11931,7 +11936,7 @@
       "Name": "Command and Conquest",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 32754
+      "UsersEstimate": 32775
     },
     {
       "ID": "achievement_6",
@@ -11955,7 +11960,7 @@
       "Name": "The Winner Takes It All",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 54590
+      "UsersEstimate": 54624
     },
     {
       "ID": "achievement_9",
@@ -11963,14 +11968,14 @@
       "Name": "Universal Soldier",
       "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 12010
+      "UsersEstimate": 12017
     }
   ],
   "AchievementSets": [
     {
       "ID": "6l7mn2m",
       "IsBase": true,
-      "Progressed": 109180,
+      "Progressed": 109249,
       "Completed": 5
     }
   ],
@@ -11978,8 +11983,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.4915207+00:00",
   "FirstSeenAchievements": "2023-07-26T19:04:03.7783313+00:00",
   "LastChanged": "2023-03-31T05:58:10.4915208+00:00",
-  "LastChanged_Achievements": "2023-12-28T13:07:45.2534154+00:00",
+  "LastChanged_Achievements": "2023-12-28T14:04:55.9480693+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:06.8001777+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:03:15.4150981+00:00",
-  "LastUpdate_Achievements": "2023-12-28T13:07:45.2534913+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:00:30.6148453+00:00",
+  "LastUpdate_Achievements": "2023-12-28T14:04:55.9481428+00:00"
 }

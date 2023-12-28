@@ -4,7 +4,7 @@
   "ProductSlug": "marvels-guardians-of-the-galaxy",
   "Ranking_Rating": 176,
   "Ranking_Popularity": 191,
-  "Ranking_PopularitySum": 275,
+  "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 817,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 565,
@@ -1661,6 +1661,6 @@
   "FirstSeen": "2022-07-22T20:24:01.0577713+00:00",
   "LastChanged": "2023-12-28T13:00:20.0337119+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:47.549812+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:00:20.0337126+00:00",
-  "LastUpdate_Achievements": "2023-12-28T13:07:14.3214498+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:57:19.1283344+00:00",
+  "LastUpdate_Achievements": "2023-12-28T14:04:22.1735075+00:00"
 }

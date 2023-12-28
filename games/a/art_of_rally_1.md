@@ -1,56 +1,56 @@
 # Art of Rally
 [Store](https://store.epicgames.com/en-US/p/art-of-rally)  
 [View Rawdata](../../db/a/art_of_rally_1.json)  
-Rating: 4.68 (Ranked 259)  
+Rating: 4.67 (Ranked 282)  
 Number of Ratings: 56  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 79.00% | ~269,969 |
-| good drivers have dead flies on the side windows | 31.00% | ~105,937 |
-| brail | 26.00% | ~88,851 |
-| keep it tidy | 25.00% | ~85,433 |
-| car wash | 23.00% | ~78,599 |
-| the artist | 22.00% | ~75,181 |
-| podium | 20.00% | ~68,347 |
-| medium attack | 17.00% | ~58,095 |
-| bicycle race | 6.00% | ~20,504 |
-| grocery-getter | 5.00% | ~17,087 |
-| autopilot | 3.00% | ~10,252 |
-| night ride | 3.00% | ~10,252 |
-| snorkel | 3.00% | ~10,252 |
-| food tour: pasta | 3.00% | ~10,252 |
-| perkele | 2.00% | ~6,835 |
-| rwd only | 2.00% | ~6,835 |
-| where is the stage? | 2.00% | ~6,835 |
-| if in doubt, flat out! | 2.00% | ~6,835 |
-| to finish first, first you must finish | 1.00% | ~3,417 |
-| espresso | 1.00% | ~3,417 |
-| turbo | 1.00% | ~3,417 |
-| you can't treat a car like a human being. a car requires love | 1.00% | ~3,417 |
-| mittens | 1.00% | ~3,417 |
-| food tour: pretzel | 1.00% | ~3,417 |
-| in like a lamb, out like a lion | 0.90% | ~3,076 |
-| monster | 0.60% | ~2,050 |
-| eurobeat | 0.50% | ~1,709 |
-| viking | 0.50% | ~1,709 |
-| oktoberfest | 0.40% | ~1,367 |
-| parallel universe | 0.40% | ~1,367 |
-| group b | 0.40% | ~1,367 |
-| maximum attack | 0.40% | ~1,367 |
-| samir | 0.40% | ~1,367 |
-| parking lot | 0.20% | ~683 |
-| master of rally | 0.20% | ~683 |
-| antilag | 0.20% | ~683 |
-| comfy seats | 0.20% | ~683 |
-| real roads, real fast | 0.20% | ~683 |
+| light attack | 79.00% | ~270,414 |
+| good drivers have dead flies on the side windows | 31.00% | ~106,112 |
+| brail | 26.00% | ~88,997 |
+| keep it tidy | 25.00% | ~85,574 |
+| car wash | 23.00% | ~78,728 |
+| the artist | 22.00% | ~75,305 |
+| podium | 20.00% | ~68,459 |
+| medium attack | 17.00% | ~58,190 |
+| bicycle race | 6.00% | ~20,538 |
+| grocery-getter | 5.00% | ~17,115 |
+| autopilot | 3.00% | ~10,269 |
+| night ride | 3.00% | ~10,269 |
+| snorkel | 3.00% | ~10,269 |
+| food tour: pasta | 3.00% | ~10,269 |
+| perkele | 2.00% | ~6,846 |
+| rwd only | 2.00% | ~6,846 |
+| where is the stage? | 2.00% | ~6,846 |
+| if in doubt, flat out! | 2.00% | ~6,846 |
+| to finish first, first you must finish | 1.00% | ~3,423 |
+| espresso | 1.00% | ~3,423 |
+| turbo | 1.00% | ~3,423 |
+| you can't treat a car like a human being. a car requires love | 1.00% | ~3,423 |
+| mittens | 1.00% | ~3,423 |
+| food tour: pretzel | 1.00% | ~3,423 |
+| in like a lamb, out like a lion | 0.90% | ~3,081 |
+| monster | 0.60% | ~2,054 |
+| eurobeat | 0.50% | ~1,711 |
+| viking | 0.50% | ~1,711 |
+| oktoberfest | 0.40% | ~1,369 |
+| parallel universe | 0.40% | ~1,369 |
+| group b | 0.40% | ~1,369 |
+| maximum attack | 0.40% | ~1,369 |
+| samir | 0.40% | ~1,369 |
+| parking lot | 0.20% | ~685 |
+| master of rally | 0.20% | ~685 |
+| antilag | 0.20% | ~685 |
+| comfy seats | 0.20% | ~685 |
+| real roads, real fast | 0.20% | ~685 |
 | if everything seems under control, you're not going fast enough | 0.10% | ~342 |
 | absolute drift | 0.10% | ~342 |
 | barely keeping it together | 0.10% | ~342 |
 | you're here for a good time, not a long time | 0.10% | ~342 |
 | simulator | 0.10% | ~342 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 341,733 (Ranked 54)  
+Progressed: 342,296 (Ranked 53)  
 Completed: 11 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 11 (0.00%) (Ranked 389)
 | 2023-12-25 | 308,993 | 10 |
 | 2023-12-26 | 324,645 | 11 |
 | 2023-12-27 | 336,606 | 11 |
-| 2023-12-28 | 341,733 | 11 |
+| 2023-12-28 | 342,296 | 11 |
 ## Awards
 Max (Quickly Understood Controls): 22  (Ranked 556)  
 Sum: 22 (Ranked 560)  
@@ -285,3 +285,4 @@ Diff (max vs sum): -4
 | 2023-12-25 | 4.69 | - | 0 | 0 |
 | 2023-12-26 | 4.70 | - | 0 | 0 |
 | 2023-12-27 | 4.68 | - | 22 | 22 |
+| 2023-12-28 | 4.67 | - | 22 | 22 |

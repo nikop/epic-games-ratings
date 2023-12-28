@@ -1,11 +1,11 @@
 # World War Z Aftermath
 [Store](https://store.epicgames.com/en-US/p/world-war-z)  
 [View Rawdata](../../db/w/world_war_z_aftermath.json)  
-Rating: 4.56 (Ranked 498)  
+Rating: 4.56 (Ranked 499)  
 Number of Ratings: 17,073  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 5,248  (Ranked 73)  
-Sum: 31,493 (Ranked 43)  
+Sum: 31,501 (Ranked 43)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): 30
 | This game is Extremely Fun | 3,625 |
 | This game has Quickly Understood Controls | 3,597 |
 | This game has Amazing Storytelling | 3,506 |
-| This game has Amazing Characters | 3,486 |
+| This game has Amazing Characters | 3,494 |
 | This game has Obsessive Gameplay | 552 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -368,4 +368,4 @@ Diff (max vs sum): 30
 | 2023-12-25 | 4.56 | - | 5,228 | 31,394 |
 | 2023-12-26 | 4.56 | - | 5,239 | 31,444 |
 | 2023-12-27 | 4.56 | - | 5,248 | 31,489 |
-| 2023-12-28 | 4.56 | - | 5,248 | 31,493 |
+| 2023-12-28 | 4.56 | - | 5,248 | 31,501 |

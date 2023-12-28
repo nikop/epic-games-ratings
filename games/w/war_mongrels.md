@@ -1,31 +1,31 @@
 # War Mongrels
 [Store](https://store.epicgames.com/en-US/p/war-mongrels)  
 [View Rawdata](../../db/w/war_mongrels.json)  
-Rating: 4.37 (Ranked 789)  
+Rating: 4.37 (Ranked 792)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 68.00% | ~494 |
-| Cowardice | 61.00% | ~443 |
-| NO LIFE IS WORTH SAVING... | 45.00% | ~327 |
+| Explorer | 68.00% | ~495 |
+| Cowardice | 61.00% | ~444 |
+| NO LIFE IS WORTH SAVING... | 45.00% | ~328 |
 | The Breaking Point | 43.00% | ~313 |
 | Eat Lead! | 43.00% | ~313 |
 | Here Comes the Boom | 40.00% | ~291 |
 | Prospector | 39.00% | ~284 |
-| Sniper Wolf | 38.00% | ~276 |
+| Sniper Wolf | 38.00% | ~277 |
 | The Motivation | 37.00% | ~269 |
 | Treasure Hunter | 36.00% | ~262 |
-| Heroism | 35.00% | ~254 |
+| Heroism | 35.00% | ~255 |
 | Collectibles of Chapter I | 33.00% | ~240 |
 | Missing in Action | 33.00% | ~240 |
-| Consequences | 31.00% | ~225 |
-| King of Knives | 31.00% | ~225 |
+| Consequences | 31.00% | ~226 |
+| King of Knives | 31.00% | ~226 |
 | Opportunities | 30.00% | ~218 |
 | The Horror | 28.00% | ~204 |
 | The Difference | 25.00% | ~182 |
 | It's Just an Accident | 25.00% | ~182 |
-| Vengeance | 24.00% | ~174 |
+| Vengeance | 24.00% | ~175 |
 | Collectibles of Chapter II | 22.00% | ~160 |
 | Broken Hopes | 22.00% | ~160 |
 | Bullseye! | 21.00% | ~153 |
@@ -40,10 +40,10 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter V | 10.00% | ~73 |
 | Such is War! | 8.00% | ~58 |
 | Collectibles of Chapter XII | 7.00% | ~51 |
-| Collectibles of Chapter VII | 6.00% | ~44 |
 | Piece of Cake | 6.00% | ~44 |
 | It Will Rain | 6.00% | ~44 |
 | Not Spill a Drop | 6.00% | ~44 |
+| Collectibles of Chapter VII | 5.00% | ~36 |
 | Collectibles of Chapter XI | 5.00% | ~36 |
 | The Good Samaritan | 5.00% | ~36 |
 | Collectibles of Chapter VIII | 4.00% | ~29 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.10% | ~1 |
 | Challenges of Chapter XII | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 727 (Ranked 305)  
+Progressed: 728 (Ranked 305)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 718 | 0 |
 | 2023-12-26 | 722 | 0 |
 | 2023-12-27 | 725 | 0 |
-| 2023-12-28 | 727 | 0 |
+| 2023-12-28 | 728 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -29,11 +29,11 @@
 | Eyes Shut | 5.00% | ~5 |
 | Mountain Runner | 4.00% | ~4 |
 | The Corporal's Golden Boy | 3.00% | ~3 |
+| A Yummy Detour | 3.00% | ~3 |
 | Subtlety | 3.00% | ~3 |
 | Threat | 3.00% | ~3 |
 | A Diagnosis | 2.00% | ~2 |
 | Jungle Runner | 2.00% | ~2 |
-| A Yummy Detour | 2.00% | ~2 |
 | The Pharaoh's New Clothes | 2.00% | ~2 |
 | Broken Brotherhood | 1.00% | ~1 |
 | Guilt | 1.00% | ~1 |

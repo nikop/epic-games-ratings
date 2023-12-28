@@ -1,15 +1,15 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.21 (Ranked 936)  
+Rating: 4.21 (Ranked 937)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 19.00% | ~3,744 |
-| The Outer Way | 19.00% | ~3,744 |
-| Desperate Times | 18.00% | ~3,547 |
-| Get a Grip | 17.00% | ~3,350 |
-| Paper Jams | 17.00% | ~3,350 |
+| Flesh Wound | 19.00% | ~3,745 |
+| The Outer Way | 19.00% | ~3,745 |
+| Desperate Times | 18.00% | ~3,548 |
+| Get a Grip | 17.00% | ~3,351 |
+| Paper Jams | 17.00% | ~3,351 |
 | Chew 'Em Up | 15.00% | ~2,956 |
 | Float Like A Butterfly | 13.00% | ~2,562 |
 | Reforged | 13.00% | ~2,562 |
@@ -18,14 +18,14 @@ Rating: 4.21 (Ranked 936)
 | Without A Paddle | 10.00% | ~1,971 |
 | In the Pipe, Five by Five | 9.00% | ~1,774 |
 | Crash Site | 9.00% | ~1,774 |
-| Two Heads Are Better Than One | 8.00% | ~1,576 |
-| Terminated | 8.00% | ~1,576 |
-| Power Up | 8.00% | ~1,576 |
-| Giving Back | 7.00% | ~1,379 |
-| You Need a Gun | 7.00% | ~1,379 |
-| What Lies Beneath | 7.00% | ~1,379 |
-| Full Circle | 7.00% | ~1,379 |
-| I Do Belong Here | 6.00% | ~1,182 |
+| Two Heads Are Better Than One | 8.00% | ~1,577 |
+| Terminated | 8.00% | ~1,577 |
+| Power Up | 8.00% | ~1,577 |
+| Giving Back | 7.00% | ~1,380 |
+| You Need a Gun | 7.00% | ~1,380 |
+| What Lies Beneath | 7.00% | ~1,380 |
+| Full Circle | 7.00% | ~1,380 |
+| I Do Belong Here | 6.00% | ~1,183 |
 | Keep Fighting | 6.00% | ~458 |
 | It's Time | 5.00% | ~382 |
 | In Striking Distance | 4.00% | ~788 |
@@ -53,8 +53,8 @@ Rating: 4.21 (Ranked 936)
 | Big Game Hunter | 0.10% | ~8 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,706 (Ranked 149)  
-Completed: 82 (0.42%) (Ranked 229)  
+Progressed: 19,710 (Ranked 149)  
+Completed: 82 (0.42%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -297,7 +297,7 @@ Completed: 82 (0.42%) (Ranked 229)
 | 2023-12-25 | 19,287 | 82 |
 | 2023-12-26 | 19,464 | 82 |
 | 2023-12-27 | 19,632 | 82 |
-| 2023-12-28 | 19,706 | 82 |
+| 2023-12-28 | 19,710 | 82 |
 ## Awards
 Max (Amazing Characters): 104  (Ranked 367)  
 Sum: 525 (Ranked 329)  

@@ -4,8 +4,8 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -2828,9 +2828,9 @@
       "ID": "HastrmanAcorn",
       "SetID": "db30heh",
       "Name": "Do Not Disturb",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 326
+      "UsersEstimate": 332
     },
     {
       "ID": "HastrmanAmanita",
@@ -2948,9 +2948,9 @@
       "ID": "RogueEat",
       "SetID": "db30heh",
       "Name": "Debt Free",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 605
+      "UsersEstimate": 612
     },
     {
       "ID": "RogueKing",
@@ -3035,8 +3035,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-28T13:07:45.5464315+00:00",
+  "LastChanged_Achievements": "2023-12-28T14:04:56.2090199+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:22.002955+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:02:32.574057+00:00",
-  "LastUpdate_Achievements": "2023-12-28T13:07:45.5464814+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:59:40.3185547+00:00",
+  "LastUpdate_Achievements": "2023-12-28T14:04:56.2090622+00:00"
 }

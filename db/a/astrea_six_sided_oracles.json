@@ -1550,9 +1550,9 @@
       "ID": "SanctuaryGuardian",
       "SetID": "1jeo1g7",
       "Name": "Sanctuary Guardian",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 142
     },
     {
       "ID": "Sentinelphobic",
@@ -1885,8 +1885,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-28T13:11:55.5013391+00:00",
+  "LastChanged_Achievements": "2023-12-28T14:08:49.6223527+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:02.5351328+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:00:46.8049618+00:00",
-  "LastUpdate_Achievements": "2023-12-28T13:11:55.5014281+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:57:47.7610111+00:00",
+  "LastUpdate_Achievements": "2023-12-28T14:08:49.6224932+00:00"
 }

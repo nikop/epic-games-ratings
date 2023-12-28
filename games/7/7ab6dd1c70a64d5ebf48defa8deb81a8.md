@@ -1,14 +1,14 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.08 (Ranked 999)  
+Rating: 4.08 (Ranked 1,000)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 57.00% | ~791 |
+| Break Out | 57.00% | ~792 |
 | Trinity | 27.00% | ~375 |
-| A Taste of Wrath | 21.00% | ~291 |
-| The Collector | 21.00% | ~291 |
+| A Taste of Wrath | 22.00% | ~306 |
+| The Collector | 21.00% | ~292 |
 | Find Allies | 20.00% | ~278 |
 | I Found It | 20.00% | ~278 |
 | Shatter Them All | 19.00% | ~264 |
@@ -24,10 +24,10 @@ Rating: 4.08 (Ranked 999)
 | Alchemist | 10.00% | ~139 |
 | The Mentor | 8.00% | ~111 |
 | Calm before the Storm | 7.00% | ~97 |
+| To Battle | 6.00% | ~83 |
+| Godslayer | 6.00% | ~83 |
 | Airborne | 6.00% | ~83 |
 | Miner | 6.00% | ~83 |
-| To Battle | 5.00% | ~69 |
-| Godslayer | 5.00% | ~69 |
 | Clear Sight | 3.00% | ~42 |
 | Shatterer | 3.00% | ~42 |
 | Fine Feathers Make Fine Birds | 3.00% | ~42 |
@@ -37,12 +37,12 @@ Rating: 4.08 (Ranked 999)
 | A Queen's Tale | 2.00% | ~28 |
 | Shardbearer | 1.00% | ~14 |
 | False God | 1.00% | ~14 |
-| Forgemaster | 0.90% | ~12 |
-| Summiter | 0.90% | ~12 |
+| Forgemaster | 0.90% | ~13 |
+| Summiter | 0.90% | ~13 |
 | All That Gold | 0.70% | ~10 |
 | Feeling Fancy | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,388 (Ranked 260)  
+Progressed: 1,390 (Ranked 260)  
 Completed: 3 (0.22%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 3 (0.22%) (Ranked 270)
 | 2023-12-25 | 1,248 | 3 |
 | 2023-12-26 | 1,308 | 3 |
 | 2023-12-27 | 1,365 | 3 |
-| 2023-12-28 | 1,388 | 3 |
+| 2023-12-28 | 1,390 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

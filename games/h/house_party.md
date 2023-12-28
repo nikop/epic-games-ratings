@@ -1,7 +1,7 @@
 # House Party
 [Store](https://store.epicgames.com/en-US/p/house-party-ae8b27)  
 [View Rawdata](../../db/h/house_party.json)  
-Rating: 4.33 (Ranked 837)  
+Rating: 4.33 (Ranked 838)  
 Number of Ratings: 177  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,7 +11,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Brahdyssey | 3.00% | ~208 |
 | Caught in the Act | 3.00% | ~208 |
 | Katherine | 3.00% | ~208 |
-| Life Found a Way | 3.00% | ~119 |
+| Life Found a Way | 3.00% | ~120 |
 | Relentless | 3.00% | ~208 |
 | If at First You Don't Succeed... | 3.00% | ~208 |
 | Drunk and Disorderly: Stephanie | 2.00% | ~139 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~7 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,944 (Ranked 191)  
+Progressed: 6,945 (Ranked 191)  
 Completed: 3 (0.04%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 3 (0.04%) (Ranked 345)
 | 2023-12-25 | 6,890 | 3 |
 | 2023-12-26 | 6,914 | 3 |
 | 2023-12-27 | 6,935 | 3 |
-| 2023-12-28 | 6,944 | 3 |
+| 2023-12-28 | 6,945 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

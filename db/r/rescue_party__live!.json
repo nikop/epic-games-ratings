@@ -2,9 +2,9 @@
   "ID": "f679c7125fd34092a6c20647917e207e",
   "Name": "Rescue Party: Live!",
   "ProductSlug": "rescue-party-live",
-  "Ranking_EOS_Progress": 398,
-  "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 462,
+  "Ranking_EOS_Progress": 396,
+  "Ranking_EOS_Completed": 117,
+  "Ranking_EOS_NewPlayers": 439,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-01-13T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 257,
+  "EOS_Progressed": 258,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.72,
+  "EOS_Completed_Percentage": 2.71,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:37.3014297+00:00",
@@ -479,6 +479,11 @@
       "Time": "2023-12-28T10:08:25.8300544+00:00",
       "NumProgressed": 257,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-28T14:08:54.0320733+00:00",
+      "NumProgressed": 258,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 18,
@@ -512,9 +517,9 @@
       "ID": "ACH_HERT_COLLECTOR",
       "SetID": "1p69hf1",
       "Name": "Medal of honor",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_IT_IS_IN_CONTROL",
@@ -610,7 +615,7 @@
       "Name": "Resource manager",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_SAFETY_FIRST",
@@ -626,14 +631,14 @@
       "Name": "ASAP",
       "Percentage": 98,
       "XP": 50,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     }
   ],
   "AchievementSets": [
     {
       "ID": "1p69hf1",
       "IsBase": true,
-      "Progressed": 257,
+      "Progressed": 258,
       "Completed": 7
     }
   ],
@@ -641,8 +646,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.1285386+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.3014308+00:00",
   "LastChanged": "2023-03-31T05:58:01.1285387+00:00",
-  "LastChanged_Achievements": "2023-12-28T13:11:59.4146487+00:00",
+  "LastChanged_Achievements": "2023-12-28T14:08:54.0320728+00:00",
   "LastUpdate_AppInfo": "2023-12-23T16:57:13.703955+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:04:15.3209298+00:00",
-  "LastUpdate_Achievements": "2023-12-28T13:11:59.4146672+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:01:36.1244773+00:00",
+  "LastUpdate_Achievements": "2023-12-28T14:08:54.0320862+00:00"
 }

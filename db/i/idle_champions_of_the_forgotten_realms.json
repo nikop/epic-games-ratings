@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 1013,
+  "Ranking_Rating": 1014,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 67,
@@ -9071,10 +9071,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33136,
       "NumberOfAwardsMax": 5701
+    },
+    {
+      "Time": "2023-12-28T13:59:51.1704717+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33140,
+      "NumberOfAwardsMax": 5701
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33136,
+  "NumberOfAwards": 33140,
   "NumberOfAwardsMax": 5701,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9094,7 +9100,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4866
+      "Count": 4870
     },
     {
       "Text": "This game is Relaxing",
@@ -9121,9 +9127,9 @@
       "Count": 3602
     }
   ],
-  "EOS_Progressed": 245967,
+  "EOS_Progressed": 245996,
   "EOS_Completed": 2570,
-  "EOS_NewPlayers": 3381,
+  "EOS_NewPlayers": 3391,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -37621,6 +37627,11 @@
       "Time": "2023-12-28T13:13:59.9556554+00:00",
       "NumProgressed": 245967,
       "NumCompleted": 2570
+    },
+    {
+      "Time": "2023-12-28T14:11:02.1613695+00:00",
+      "NumProgressed": 245996,
+      "NumCompleted": 2570
     }
   ],
   "TotalAchievements": 546,
@@ -37632,7 +37643,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4919
+      "UsersEstimate": 4920
     },
     {
       "ID": "objective_completed_10",
@@ -37998,9 +38009,9 @@
       "ID": "objective_completed_11",
       "SetID": "cc37lbc",
       "Name": "Beast Intentions",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1476
+      "UsersEstimate": 1722
     },
     {
       "ID": "objective_completed_110",
@@ -41912,7 +41923,7 @@
       "Name": "Welcome to the Vrocks",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "objective_completed_1557",
@@ -41936,7 +41947,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "objective_completed_1563",
@@ -41999,21 +42010,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 212241,
+      "Progressed": 212270,
       "Completed": 4075
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 245967,
+      "Progressed": 245996,
       "Completed": 2570
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-28T06:58:45.5766271+00:00",
-  "LastChanged_Achievements": "2023-12-28T13:13:59.9556549+00:00",
+  "LastChanged": "2023-12-28T13:59:51.1704715+00:00",
+  "LastChanged_Achievements": "2023-12-28T14:11:02.1613692+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:02:40.6082842+00:00",
-  "LastUpdate_Achievements": "2023-12-28T13:13:59.9580406+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:59:51.1704735+00:00",
+  "LastUpdate_Achievements": "2023-12-28T14:11:02.1638601+00:00"
 }

@@ -43,13 +43,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shadow Walker | 0.60% | ~1,451 |
 | Flesh Wound | 0.60% | ~1,451 |
 | What Doesn't Kill You | 0.60% | ~20 |
-| Consecutive Curses | 0.50% | ~1,209 |
-| Just Chilling | 0.50% | ~1,209 |
-| Save Our Souls | 0.50% | ~1,209 |
-| Stop Hitting Yourself | 0.50% | ~1,209 |
-| Acid Bath | 0.50% | ~1,209 |
-| New Perspectives | 0.50% | ~1,209 |
-| Shapeshifting | 0.50% | ~1,209 |
+| Consecutive Curses | 0.50% | ~1,210 |
+| Just Chilling | 0.50% | ~1,210 |
+| Save Our Souls | 0.50% | ~1,210 |
+| Stop Hitting Yourself | 0.50% | ~1,210 |
+| Acid Bath | 0.50% | ~1,210 |
+| New Perspectives | 0.50% | ~1,210 |
+| Shapeshifting | 0.50% | ~1,210 |
 | Expensive Look | 0.50% | ~17 |
 | Thank You, Friend | 0.40% | ~968 |
 | Shadow Spreads | 0.40% | ~968 |
@@ -74,6 +74,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Snake Sneak | 0.30% | ~726 |
 | Obsessed | 0.30% | ~726 |
 | Precious | 0.30% | ~726 |
+| Raw Power | 0.30% | ~10 |
 | Achievement Hunter | 0.20% | ~484 |
 | Challenge Increases | 0.20% | ~484 |
 | A Long Climb | 0.20% | ~484 |
@@ -95,7 +96,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Sentimental Value | 0.20% | ~484 |
 | Diviner | 0.20% | ~7 |
 | Nuclear | 0.20% | ~7 |
-| Raw Power | 0.20% | ~7 |
 | Quick Descent | 0.10% | ~242 |
 | A Week Attempt | 0.10% | ~242 |
 | Hydrophobe | 0.10% | ~242 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,895 (Ranked 70)  
+Progressed: 241,900 (Ranked 70)  
 Completed: 302 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -397,7 +397,7 @@ Completed: 302 (0.12%) (Ranked 301)
 | 2023-12-25 | 241,696 | 302 |
 | 2023-12-26 | 241,782 | 302 |
 | 2023-12-27 | 241,847 | 302 |
-| 2023-12-28 | 241,895 | 302 |
+| 2023-12-28 | 241,900 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,512  (Ranked 134)  
 Sum: 11,767 (Ranked 88)  

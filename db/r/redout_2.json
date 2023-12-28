@@ -2,12 +2,12 @@
   "ID": "05ae696a3c5f49af91a7433547460c21",
   "Name": "Redout 2",
   "ProductSlug": "redout-2",
-  "Ranking_Rating": 568,
+  "Ranking_Rating": 569,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewPlayers": 387,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1194,
+  "EOS_Progressed": 1195,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1245,6 +1245,11 @@
       "Time": "2023-12-27T17:06:33.0917778+00:00",
       "NumProgressed": 1194,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T14:08:03.0272523+00:00",
+      "NumProgressed": 1195,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1384,7 +1389,7 @@
       "Name": "Rookie No More",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "CAREERADVANCED",
@@ -1408,7 +1413,7 @@
       "Name": "Enter the Speed Gauntlet",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -1552,7 +1557,7 @@
       "Name": "I just can\u0027t choose",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ONELIVERY",
@@ -1568,7 +1573,7 @@
       "Name": "Increasing your Power Level",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ONEPAINT",
@@ -1671,7 +1676,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1194,
+      "Progressed": 1195,
       "Completed": 0
     }
   ],
@@ -1679,8 +1684,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-12-19T23:02:44.1554509+00:00",
-  "LastChanged_Achievements": "2023-12-28T13:10:40.7224434+00:00",
+  "LastChanged_Achievements": "2023-12-28T14:08:03.0272519+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:52.7211822+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:06:26.4808732+00:00",
-  "LastUpdate_Achievements": "2023-12-28T13:10:40.7224829+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:03:31.2385776+00:00",
+  "LastUpdate_Achievements": "2023-12-28T14:08:03.0272879+00:00"
 }

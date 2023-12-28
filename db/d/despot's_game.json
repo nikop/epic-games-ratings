@@ -2,12 +2,12 @@
   "ID": "7a0f0e0bef6a45249e9d476d08bc9739",
   "Name": "Despot\u0027s Game",
   "ProductSlug": "despots-game-f61a0a",
-  "Ranking_Rating": 607,
+  "Ranking_Rating": 608,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 470,
+  "EOS_Progressed": 471,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -623,6 +623,11 @@
       "Time": "2023-12-27T14:05:13.1604633+00:00",
       "NumProgressed": 470,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T14:07:00.5530063+00:00",
+      "NumProgressed": 471,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -666,7 +671,7 @@
       "Name": "Frugal",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "collect-discounted-items2",
@@ -682,7 +687,7 @@
       "Name": "No Mercy",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "different-items1",
@@ -690,7 +695,7 @@
       "Name": "Party",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "different-items2",
@@ -706,7 +711,7 @@
       "Name": "Fat of the Earth",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "finished-quest-cube",
@@ -714,7 +719,7 @@
       "Name": "Impossible Cube",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "finished-quest-flight",
@@ -810,7 +815,7 @@
       "Name": "Last Man Standing",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "save-zombie",
@@ -840,9 +845,9 @@
       "ID": "win-campaign",
       "SetID": "799afm0",
       "Name": "Great Hero",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 136
+      "UsersEstimate": 132
     },
     {
       "ID": "win-first-biom",
@@ -858,7 +863,7 @@
       "Name": "Good start!",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "win-koth-fights1",
@@ -880,7 +885,7 @@
       "ID": "win-koth-fights3",
       "SetID": "799afm0",
       "Name": "Vet",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -913,7 +918,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 470,
+      "Progressed": 471,
       "Completed": 1
     }
   ],
@@ -921,8 +926,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-12-28T13:09:42.5597474+00:00",
+  "LastChanged_Achievements": "2023-12-28T14:07:00.5530059+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:08.4827025+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:01:38.795142+00:00",
-  "LastUpdate_Achievements": "2023-12-28T13:09:42.5597718+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:58:45.3407093+00:00",
+  "LastUpdate_Achievements": "2023-12-28T14:07:00.5530313+00:00"
 }

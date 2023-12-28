@@ -1,37 +1,37 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.66 (Ranked 297)  
+Rating: 4.66 (Ranked 298)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,884 |
-| Gun Fu | 8.00% | ~78,590 |
-| Right Back At Ya | 7.00% | ~68,766 |
-| The Fool | 7.00% | ~68,766 |
-| The Lovers | 6.00% | ~58,942 |
-| Full Body Conversion | 5.00% | ~49,118 |
-| True Soldier | 5.00% | ~49,118 |
-| All the President's Men | 5.00% | ~5,550 |
-| Arachnophobia | 5.00% | ~5,550 |
-| Christmas Tree Attack | 4.00% | ~39,295 |
-| Stanislavski's Method | 4.00% | ~39,295 |
-| The Hermit | 4.00% | ~39,295 |
-| The Wheel of Fortune | 4.00% | ~39,295 |
-| Bushido and Chill | 3.00% | ~29,471 |
-| Master Crafter | 3.00% | ~29,471 |
-| The Quick and the Dead | 3.00% | ~29,471 |
-| Life of the Road | 3.00% | ~29,471 |
-| The High Priestess | 3.00% | ~29,471 |
-| The World | 3.00% | ~29,471 |
-| True Warrior | 3.00% | ~29,471 |
-| Legend of The Afterlife | 3.00% | ~29,471 |
-| Relic Ruler | 3.00% | ~3,330 |
-| To Protect and Serve | 2.00% | ~19,647 |
-| I Am The Law | 2.00% | ~19,647 |
-| Two Heads, One Bullet | 2.00% | ~19,647 |
-| Judy vs Night City | 2.00% | ~19,647 |
+| V for Vendetta | 12.00% | ~117,887 |
+| Gun Fu | 8.00% | ~78,592 |
+| Right Back At Ya | 7.00% | ~68,768 |
+| The Fool | 7.00% | ~68,768 |
+| The Lovers | 6.00% | ~58,944 |
+| Full Body Conversion | 5.00% | ~49,120 |
+| True Soldier | 5.00% | ~49,120 |
+| All the President's Men | 5.00% | ~5,551 |
+| Arachnophobia | 5.00% | ~5,551 |
+| Christmas Tree Attack | 4.00% | ~39,296 |
+| Stanislavski's Method | 4.00% | ~39,296 |
+| The Hermit | 4.00% | ~39,296 |
+| The Wheel of Fortune | 4.00% | ~39,296 |
+| Bushido and Chill | 3.00% | ~29,472 |
+| Master Crafter | 3.00% | ~29,472 |
+| The Quick and the Dead | 3.00% | ~29,472 |
+| Life of the Road | 3.00% | ~29,472 |
+| The High Priestess | 3.00% | ~29,472 |
+| The World | 3.00% | ~29,472 |
+| True Warrior | 3.00% | ~29,472 |
+| Legend of The Afterlife | 3.00% | ~29,472 |
+| Relic Ruler | 3.00% | ~3,331 |
+| To Protect and Serve | 2.00% | ~19,648 |
+| I Am The Law | 2.00% | ~19,648 |
+| Two Heads, One Bullet | 2.00% | ~19,648 |
+| Judy vs Night City | 2.00% | ~19,648 |
 | Spin Doctor | 2.00% | ~2,220 |
 | To Bad Decisions! | 1.00% | ~9,824 |
 | The Wandering Fool | 1.00% | ~9,824 |
@@ -40,8 +40,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 1.00% | ~1,110 |
 | Dirty Deeds | 1.00% | ~1,110 |
 | Easy Come, Easy Go | 1.00% | ~1,110 |
-| Breathtaking | 0.90% | ~8,841 |
-| The Star | 0.90% | ~8,841 |
+| Breathtaking | 0.90% | ~8,842 |
+| The Star | 0.90% | ~8,842 |
 | Autojock | 0.70% | ~6,877 |
 | The APB is Not Enough | 0.70% | ~777 |
 | Judgement Day | 0.70% | ~777 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 982,369 (Ranked 16)  
-Completed: 2,987 (0.30%) (Ranked 254)  
+Progressed: 982,395 (Ranked 16)  
+Completed: 2,988 (0.30%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -326,10 +326,10 @@ Completed: 2,987 (0.30%) (Ranked 254)
 | 2023-12-25 | 981,401 | 2,974 |
 | 2023-12-26 | 981,815 | 2,981 |
 | 2023-12-27 | 982,189 | 2,986 |
-| 2023-12-28 | 982,369 | 2,987 |
+| 2023-12-28 | 982,395 | 2,988 |
 ## Awards
 Max (Character Customization): 128,093  (Ranked 8)  
-Sum: 448,316 (Ranked 9)  
+Sum: 448,443 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -342,7 +342,7 @@ Diff (max vs sum): -1
 | This game is Extremely Fun | 25,586 |
 | This game has Amazing Characters | 25,420 |
 | This game is Relaxing | 24,611 |
-| This game has Quickly Understood Controls | 24,475 |
+| This game has Quickly Understood Controls | 24,602 |
 | This game has a Creative Community | 17,004 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -690,4 +690,4 @@ Diff (max vs sum): -1
 | 2023-12-25 | 4.66 | - | 127,442 | 443,750 |
 | 2023-12-26 | 4.66 | - | 127,789 | 445,740 |
 | 2023-12-27 | 4.66 | - | 128,093 | 447,581 |
-| 2023-12-28 | 4.66 | - | 128,093 | 448,316 |
+| 2023-12-28 | 4.66 | - | 128,093 | 448,443 |

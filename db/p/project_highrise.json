@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 450,
+  "EOS_Progressed": 451,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1420,6 +1420,11 @@
       "Time": "2023-12-27T22:07:15.7737442+00:00",
       "NumProgressed": 450,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T14:07:59.9710553+00:00",
+      "NumProgressed": 451,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1455,7 +1460,7 @@
       "Name": "Penthouse in the Sky",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_area",
@@ -1495,7 +1500,7 @@
       "Name": "Curated Class",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_art_outside",
@@ -1559,7 +1564,7 @@
       "Name": "Baron of Business",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_consultant",
@@ -1583,7 +1588,7 @@
       "Name": "Aestheticly Pleased",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_consultants_b",
@@ -1591,7 +1596,7 @@
       "Name": "I\u0027m Busy Ruling",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_consultants_c",
@@ -1663,7 +1668,7 @@
       "Name": "Full House",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_ep1_checkin_2",
@@ -1751,7 +1756,7 @@
       "Name": "Such Great Heights",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_fountains",
@@ -1783,7 +1788,7 @@
       "Name": "Rehab Expert",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ach_happy",
@@ -1791,7 +1796,7 @@
       "Name": "Happy Tenants",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ach_loan",
@@ -1887,7 +1892,7 @@
       "Name": "Sky High Stature",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_profit_0",
@@ -1895,7 +1900,7 @@
       "Name": "In the Black",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ach_profit_1",
@@ -1911,7 +1916,7 @@
       "Name": "Profound Proceeds",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_recycling_1",
@@ -1927,7 +1932,7 @@
       "Name": "Lofty Landlord",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_restaurants_1",
@@ -1935,7 +1940,7 @@
       "Name": "Refined Palates",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_restaurants_2",
@@ -2079,7 +2084,7 @@
       "Name": "Tuned In",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_util_gas",
@@ -2087,7 +2092,7 @@
       "Name": "It\u0027s a Gas",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_util_phone",
@@ -2134,7 +2139,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 450,
+      "Progressed": 451,
       "Completed": 0
     }
   ],
@@ -2142,8 +2147,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-28T13:10:37.8375309+00:00",
+  "LastChanged_Achievements": "2023-12-28T14:07:59.971055+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.0953028+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:03:15.7879605+00:00",
-  "LastUpdate_Achievements": "2023-12-28T13:10:37.8376065+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:00:30.9791649+00:00",
+  "LastUpdate_Achievements": "2023-12-28T14:07:59.9711489+00:00"
 }

@@ -44,11 +44,11 @@
 | Mortimer Ailsworth | 15.00% | ~11 |
 | Florence Farquhar | 13.00% | ~10 |
 | The Investigation Starts Anew | 13.00% | ~10 |
+| The Denouement | 12.00% | ~9 |
 | A treasured heirloom | 12.00% | ~9 |
 | A perilous journey | 12.00% | ~9 |
 | The Penitent Magdalene | 12.00% | ~9 |
 | A true performance | 12.00% | ~9 |
-| The Denouement | 11.00% | ~8 |
 | Perkins | 8.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 75 (Ranked 509)  

@@ -1,12 +1,12 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.21 (Ranked 936)  
+Rating: 4.21 (Ranked 937)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 4.00% | ~13,470 |
-| The touch of Chaos | 4.00% | ~13,470 |
+| May the Torchbearer light our way | 4.00% | ~13,471 |
+| The touch of Chaos | 4.00% | ~13,471 |
 | A powerful aura was here | 3.00% | ~10,103 |
 | Rumors are true | 1.00% | ~3,368 |
 | Your wounds… They are healing so fast! | 1.00% | ~3,368 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 936)
 | Something... unnatural | 0.10% | ~337 |
 | We strike as one | 0.10% | ~337 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 336,752 (Ranked 55)  
+Progressed: 336,772 (Ranked 55)  
 Completed: 7 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 7 (0.00%) (Ranked 389)
 | 2023-12-25 | 335,208 | 6 |
 | 2023-12-26 | 335,853 | 7 |
 | 2023-12-27 | 336,447 | 7 |
-| 2023-12-28 | 336,752 | 7 |
+| 2023-12-28 | 336,772 | 7 |
 ## Awards
 Max (Great Boss Battles): 73  (Ranked 409)  
 Sum: 73 (Ranked 479)  

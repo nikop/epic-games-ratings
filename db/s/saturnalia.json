@@ -2,7 +2,7 @@
   "ID": "c749cd78da34408d8434a46271f4bb79",
   "Name": "Saturnalia",
   "ProductSlug": "saturnalia",
-  "Ranking_Rating": 892,
+  "Ranking_Rating": 893,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 111,
@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69847,
+  "EOS_Progressed": 69851,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18843,6 +18843,11 @@
       "Time": "2023-12-28T13:06:48.1103117+00:00",
       "NumProgressed": 69847,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-28T14:03:54.4878476+00:00",
+      "NumProgressed": 69851,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -18862,7 +18867,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2096
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -18878,7 +18883,7 @@
       "Name": "Anger",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "ACH_COBRACOLA",
@@ -18926,7 +18931,7 @@
       "Name": "Fear Of The Dark",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "ACH_MOUTHTRUTH",
@@ -18966,7 +18971,7 @@
       "Name": "Detective of the occult",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "ACH_RESCUECHARACTER",
@@ -18982,7 +18987,7 @@
       "Name": "Depression",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "ACH_STAMINA",
@@ -19006,14 +19011,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2096
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 69847,
+      "Progressed": 69851,
       "Completed": 18
     }
   ],
@@ -19021,8 +19026,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2023-12-28T13:06:48.1103103+00:00",
+  "LastChanged_Achievements": "2023-12-28T14:03:54.4878465+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:07.2653355+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:01:50.5077155+00:00",
-  "LastUpdate_Achievements": "2023-12-28T13:06:48.1104957+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:58:57.8179522+00:00",
+  "LastUpdate_Achievements": "2023-12-28T14:03:54.4879642+00:00"
 }

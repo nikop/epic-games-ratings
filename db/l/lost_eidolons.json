@@ -2,7 +2,7 @@
   "ID": "de3677b7bac547128656ac18c5b2f298",
   "Name": "Lost Eidolons",
   "ProductSlug": "lost-eidolons",
-  "Ranking_Rating": 822,
+  "Ranking_Rating": 823,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 276,
@@ -2234,9 +2234,9 @@
       "ID": "14",
       "SetID": "73ikgfc",
       "Name": "Til We Meet Again",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 57
     },
     {
       "ID": "15",
@@ -2323,8 +2323,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-12-04T18:59:06.5793648+00:00",
-  "LastChanged_Achievements": "2023-12-28T13:07:35.305642+00:00",
+  "LastChanged_Achievements": "2023-12-28T14:04:45.3726448+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.4141578+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:03:33.6612854+00:00",
-  "LastUpdate_Achievements": "2023-12-28T13:07:35.3056699+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:00:50.4224519+00:00",
+  "LastUpdate_Achievements": "2023-12-28T14:04:45.3726672+00:00"
 }

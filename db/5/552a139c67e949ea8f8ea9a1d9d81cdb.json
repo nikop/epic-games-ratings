@@ -4487,9 +4487,9 @@
       "ID": "ML_ACHIEVEMENT_41",
       "SetID": "5k00jcd",
       "Name": "You\u0027re good at this!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ML_ACHIEVEMENT_42",
@@ -4548,8 +4548,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-28T13:07:01.3588036+00:00",
+  "LastChanged_Achievements": "2023-12-28T14:04:08.7078058+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:05:35.1670977+00:00",
-  "LastUpdate_Achievements": "2023-12-28T13:07:01.3588596+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:02:17.3198812+00:00",
+  "LastUpdate_Achievements": "2023-12-28T14:04:08.7078492+00:00"
 }

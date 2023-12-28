@@ -3796,9 +3796,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 241895,
+  "EOS_Progressed": 241900,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 496,
+  "EOS_NewPlayers": 499,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29841,6 +29841,11 @@
       "Time": "2023-12-28T13:13:58.0159274+00:00",
       "NumProgressed": 241895,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-28T14:11:00.0881738+00:00",
+      "NumProgressed": 241900,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -29900,7 +29905,7 @@
       "Name": "Consecutive Curses",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "DAILY7",
@@ -30108,7 +30113,7 @@
       "Name": "Just Chilling",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "FREEZE20TIMES",
@@ -30228,7 +30233,7 @@
       "Name": "Save Our Souls",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "HUGESOULSPILL",
@@ -30364,7 +30369,7 @@
       "Name": "Stop Hitting Yourself",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "KILLSAMSPAREOTHERS",
@@ -30540,7 +30545,7 @@
       "Name": "Acid Bath",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "POISONSELF20",
@@ -30580,7 +30585,7 @@
       "Name": "New Perspectives",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "SNAKESTEALTH",
@@ -30652,7 +30657,7 @@
       "Name": "Shapeshifting",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "TRANSFORMFIREBEAD",
@@ -30914,9 +30919,9 @@
       "ID": "KILLBOSSWITHNOITEMS",
       "SetID": "1peahb6",
       "Name": "Raw Power",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "KILLCREATUREWITHSAMESTATS",
@@ -30955,13 +30960,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241895,
+      "Progressed": 241900,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3375,
+      "Progressed": 3380,
       "Completed": 416
     }
   ],
@@ -30969,8 +30974,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-27T23:00:02.6538244+00:00",
-  "LastChanged_Achievements": "2023-12-28T13:13:58.0159269+00:00",
+  "LastChanged_Achievements": "2023-12-28T14:11:00.0881735+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:03:20.6540342+00:00",
-  "LastUpdate_Achievements": "2023-12-28T13:13:58.0161871+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:00:36.6746925+00:00",
+  "LastUpdate_Achievements": "2023-12-28T14:11:00.0884177+00:00"
 }

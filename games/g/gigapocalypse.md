@@ -34,11 +34,11 @@
 | Fight Me! | 30.00% | ~59 |
 | Supremacy | 30.00% | ~59 |
 | Mommy's Very Angry | 29.00% | ~57 |
-| Loyal Companion | 26.00% | ~51 |
-| Back To The Future | 25.00% | ~50 |
+| Loyal Companion | 27.00% | ~53 |
+| Back To The Future | 26.00% | ~51 |
 | Immortal Skin | 25.00% | ~50 |
+| Lunch Before The Lunch | 23.00% | ~46 |
 | Fire Beacon | 23.00% | ~46 |
-| Lunch Before The Lunch | 22.00% | ~44 |
 | From Here To Eternity | 20.00% | ~40 |
 | Building Blocks | 20.00% | ~40 |
 | Octopostructure | 17.00% | ~34 |

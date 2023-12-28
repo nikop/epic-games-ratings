@@ -1,7 +1,7 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 353)  
+Rating: 4.63 (Ranked 354)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,7 +10,7 @@ Number of Ratings: 85  (23.09.2022)
 | Kaijuiced | 66.00% | ~131 |
 | Lie Back and Think of Albion | 59.00% | ~117 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~115 |
-| Yettisoned | 54.00% | ~107 |
+| Yettisoned | 55.00% | ~109 |
 | I Look Up As I Walk to Takoshima | 54.00% | ~107 |
 | Perfect Probulator | 52.00% | ~103 |
 | Pimp My Raid | 49.00% | ~98 |

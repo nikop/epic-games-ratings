@@ -1,15 +1,15 @@
 # Shadow of the Tomb Raider: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/shadow-of-the-tomb-raider)  
 [View Rawdata](../../db/s/shadow_of_the_tomb_raider__definitive_edition.json)  
-Rating: 4.64 (Ranked 342)  
+Rating: 4.64 (Ranked 343)  
 Number of Ratings: 77,497  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 29,415  (Ranked 16)  
-Sum: 38,780 (Ranked 36)  
+Max (Great Boss Battles): 29,427  (Ranked 16)  
+Sum: 38,792 (Ranked 36)  
 Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 29,415 |
+| This game has Great Boss Battles | 29,427 |
 | This game is Great for Beginners | 1,104 |
 | This game has Quickly Understood Controls | 1,019 |
 | This game is Highly Recommended | 1,006 |
@@ -350,4 +350,4 @@ Diff (max vs sum): -20
 | 2023-12-25 | 4.64 | - | 29,402 | 38,763 |
 | 2023-12-26 | 4.64 | - | 29,407 | 38,769 |
 | 2023-12-27 | 4.64 | - | 29,415 | 38,779 |
-| 2023-12-28 | 4.64 | - | 29,415 | 38,780 |
+| 2023-12-28 | 4.64 | - | 29,427 | 38,792 |

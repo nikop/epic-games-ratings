@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -255,7 +255,7 @@
   ],
   "EOS_Progressed": 1162,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3191,9 +3191,9 @@
       "ID": "AbInitio",
       "SetID": "1n308hc",
       "Name": "Ab Initio",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 314
     },
     {
       "ID": "AnthropicHills",
@@ -3223,9 +3223,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 337
+      "UsersEstimate": 349
     },
     {
       "ID": "BreakTheLoop",
@@ -3664,8 +3664,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-28T02:59:27.0743673+00:00",
-  "LastChanged_Achievements": "2023-12-28T13:08:38.5824483+00:00",
+  "LastChanged_Achievements": "2023-12-28T14:05:53.4507245+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:03:57.4811644+00:00",
-  "LastUpdate_Achievements": "2023-12-28T13:08:38.5825175+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:01:17.9203975+00:00",
+  "LastUpdate_Achievements": "2023-12-28T14:05:53.4507753+00:00"
 }

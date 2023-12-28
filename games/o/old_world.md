@@ -29,6 +29,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pioneer | 0.40% | ~64 |
 | Warrior | 0.40% | ~64 |
 | Developing Cities | 0.40% | ~64 |
+| Strong Cities | 0.40% | ~64 |
 | Judaism | 0.40% | ~64 |
 | Greek Paganism | 0.40% | ~64 |
 | Naming Landmarks | 0.40% | ~64 |
@@ -39,7 +40,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent | 0.30% | ~48 |
 | Wise | 0.30% | ~48 |
 | Legendary Cities | 0.30% | ~48 |
-| Strong Cities | 0.30% | ~48 |
 | Able Difficulty | 0.30% | ~48 |
 | Furious Family | 0.30% | ~48 |
 | Apadana | 0.30% | ~48 |

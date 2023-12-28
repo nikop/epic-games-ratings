@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 670,
+  "EOS_Progressed": 671,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -2480,6 +2480,11 @@
       "Time": "2023-12-28T13:12:32.4753987+00:00",
       "NumProgressed": 670,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-28T14:09:29.5738055+00:00",
+      "NumProgressed": 671,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -2492,7 +2497,7 @@
       "Name": "New arm",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -2572,7 +2577,7 @@
       "Name": "Shelter Escape",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -2634,9 +2639,9 @@
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
       "SetID": "9bke6f1",
       "Name": "Novice Scavenger",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 395
+      "UsersEstimate": 389
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -2652,7 +2657,7 @@
       "Name": "First wall",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -2691,7 +2696,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 670,
+      "Progressed": 671,
       "Completed": 2
     }
   ],
@@ -2699,8 +2704,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-27T15:59:49.1136695+00:00",
-  "LastChanged_Achievements": "2023-12-28T13:12:32.4753983+00:00",
+  "LastChanged_Achievements": "2023-12-28T14:09:29.5738051+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:10.2016354+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:03:06.5347522+00:00",
-  "LastUpdate_Achievements": "2023-12-28T13:12:32.4754243+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:00:20.7978739+00:00",
+  "LastUpdate_Achievements": "2023-12-28T14:09:29.5738305+00:00"
 }

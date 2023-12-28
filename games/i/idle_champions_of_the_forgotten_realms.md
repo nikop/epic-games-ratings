@@ -1,17 +1,17 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 1,013)  
+Rating: 4.06 (Ranked 1,014)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,919 |
+| A Brief Tour of the Realms | 2.00% | ~4,920 |
 | The Cursed Farmer | 0.80% | ~1,968 |
+| Beast Intentions | 0.70% | ~1,722 |
 | Welcome to Sigil | 0.70% | ~1,486 |
-| Beast Intentions | 0.60% | ~1,476 |
 | The Mad Wizard | 0.60% | ~1,476 |
-| Fast Food | 0.60% | ~1,273 |
+| Fast Food | 0.60% | ~1,274 |
 | The Ring of Regeneration | 0.40% | ~984 |
 | The Overgrown Grove | 0.40% | ~849 |
 | Flames of Avernus | 0.40% | ~849 |
@@ -35,7 +35,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.20% | ~492 |
 | The Contagious Curse | 0.20% | ~492 |
 | Pure Energy | 0.20% | ~492 |
-| Welcome to the Vrocks | 0.20% | ~424 |
+| Welcome to the Vrocks | 0.20% | ~425 |
 | Pros and CONs | 0.10% | ~246 |
 | Upholding the Law | 0.10% | ~246 |
 | Starving in the Jungle | 0.10% | ~246 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~212 |
 | The Brains of an Illithid's Desire | 0.10% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,967 (Ranked 67)  
+Progressed: 245,996 (Ranked 67)  
 Completed: 2,570 (1.04%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -805,16 +805,16 @@ Completed: 2,570 (1.04%) (Ranked 168)
 | 2023-12-25 | 244,638 | 2,562 |
 | 2023-12-26 | 245,031 | 2,566 |
 | 2023-12-27 | 245,531 | 2,567 |
-| 2023-12-28 | 245,967 | 2,570 |
+| 2023-12-28 | 245,996 | 2,570 |
 ## Awards
 Max (Great for Beginners): 5,701  (Ranked 71)  
-Sum: 33,136 (Ranked 41)  
+Sum: 33,140 (Ranked 41)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,701 |
 | This game has Diverse Characters | 5,653 |
-| This game has Quickly Understood Controls | 4,866 |
+| This game has Quickly Understood Controls | 4,870 |
 | This game is Relaxing | 4,749 |
 | This game has Amazing Characters | 4,290 |
 | This game is Highly Recommended | 4,275 |
@@ -1158,4 +1158,4 @@ Diff (max vs sum): 30
 | 2023-12-25 | 4.06 | - | 5,691 | 33,079 |
 | 2023-12-26 | 4.06 | - | 5,696 | 33,100 |
 | 2023-12-27 | 4.06 | - | 5,701 | 33,129 |
-| 2023-12-28 | 4.06 | - | 5,701 | 33,136 |
+| 2023-12-28 | 4.06 | - | 5,701 | 33,140 |

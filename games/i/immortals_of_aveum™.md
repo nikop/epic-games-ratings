@@ -1,18 +1,18 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.22 (Ranked 927)  
+Rating: 4.22 (Ranked 928)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,825 |
-| Battlefields Have Memories | 80.00% | ~1,678 |
-| Enlisted | 73.00% | ~1,532 |
-| Maybe Engage a Little | 67.00% | ~1,406 |
-| No More Names | 49.00% | ~1,028 |
-| Initiate | 35.00% | ~734 |
-| Thrada-Kul | 31.00% | ~650 |
-| Gravity-Challenged Rocks | 25.00% | ~524 |
+| Unforeseen | 87.00% | ~1,828 |
+| Battlefields Have Memories | 80.00% | ~1,681 |
+| Enlisted | 73.00% | ~1,534 |
+| Maybe Engage a Little | 67.00% | ~1,408 |
+| No More Names | 49.00% | ~1,029 |
+| Initiate | 35.00% | ~735 |
+| Thrada-Kul | 31.00% | ~651 |
+| Gravity-Challenged Rocks | 25.00% | ~525 |
 | Socialite | 23.00% | ~483 |
 | Soldier | 21.00% | ~441 |
 | All the Major Food Groups | 21.00% | ~441 |
@@ -25,7 +25,7 @@ Rating: 4.22 (Ranked 927)
 | Periapt Alizarin | 12.00% | ~252 |
 | A Perfect Cycle | 11.00% | ~231 |
 | Recruit | 11.00% | ~231 |
-| Armsman | 9.00% | ~189 |
+| Armsman | 10.00% | ~210 |
 | Lights Army | 8.00% | ~168 |
 | Periapt Cerulean | 6.00% | ~126 |
 | Good Boy | 6.00% | ~126 |
@@ -44,7 +44,7 @@ Rating: 4.22 (Ranked 927)
 | Master of Ultramarine | 0.80% | ~17 |
 | Shroudfane Surveyor | 0.80% | ~17 |
 | Master of Malachite | 0.60% | ~13 |
-| Backtracker | 0.50% | ~10 |
+| Backtracker | 0.50% | ~11 |
 | Diplomat | 0.30% | ~6 |
 | Petite Bourgeoisie | 0.30% | ~6 |
 | Witch-Taker | 0.30% | ~6 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 927)
 | Out of Time | 0.20% | ~4 |
 | Fowl Play | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,098 (Ranked 238)  
+Progressed: 2,101 (Ranked 238)  
 Completed: 2 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 2 (0.10%) (Ranked 305)
 | 2023-12-25 | 1,876 | 2 |
 | 2023-12-26 | 1,969 | 2 |
 | 2023-12-27 | 2,049 | 2 |
-| 2023-12-28 | 2,098 | 2 |
+| 2023-12-28 | 2,101 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -11,10 +11,10 @@ Number of Ratings: 292  (23.09.2022)
 | Critical Hit | 20.00% | ~161 |
 | Veteran | 20.00% | ~161 |
 | Dressed For Success | 14.00% | ~113 |
+| Veni, Vidi, Vici | 9.00% | ~72 |
 | Multi Kill | 8.00% | ~64 |
 | Sorcerous Spree | 8.00% | ~64 |
 | Humiliation | 8.00% | ~64 |
-| Veni, Vidi, Vici | 8.00% | ~64 |
 | Master | 7.00% | ~56 |
 | Whoops! | 6.00% | ~48 |
 | Landlord Extraordinaire | 6.00% | ~48 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 805 (Ranked 294)  
+Progressed: 805 (Ranked 295)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |

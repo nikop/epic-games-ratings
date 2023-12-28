@@ -2,13 +2,13 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 680,
+  "Ranking_Rating": 681,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -419,10 +419,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27292,
+  "EOS_Progressed": 27294,
   "EOS_Completed": 504,
-  "EOS_NewPlayers": 581,
-  "EOS_NewCompleters": 9,
+  "EOS_NewPlayers": 580,
+  "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.85,
   "EosHistory": [
     {
@@ -27549,6 +27549,11 @@
       "Time": "2023-12-28T13:08:47.517605+00:00",
       "NumProgressed": 27292,
       "NumCompleted": 504
+    },
+    {
+      "Time": "2023-12-28T14:06:02.3982669+00:00",
+      "NumProgressed": 27294,
+      "NumCompleted": 504
     }
   ],
   "TotalAchievements": 20,
@@ -27608,7 +27613,7 @@
       "Name": "An uninvited guest",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -27680,7 +27685,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 20742
+      "UsersEstimate": 20743
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -27719,15 +27724,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 27292,
+      "Progressed": 27294,
       "Completed": 504
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-28T13:08:47.5176044+00:00",
+  "LastChanged_Achievements": "2023-12-28T14:06:02.3982665+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:49.8191353+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:00:59.4563877+00:00",
-  "LastUpdate_Achievements": "2023-12-28T13:08:47.5177346+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:58:02.7772263+00:00",
+  "LastUpdate_Achievements": "2023-12-28T14:06:02.3983962+00:00"
 }

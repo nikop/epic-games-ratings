@@ -2,7 +2,7 @@
   "ID": "9a4a6536096c4307bfb235d811f754ce",
   "Name": "Neverwinter",
   "ProductSlug": "neverwinter",
-  "Ranking_Rating": 860,
+  "Ranking_Rating": 861,
   "Ranking_Popularity": 176,
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 817,
@@ -3412,6 +3412,6 @@
   "FirstSeen": "2022-07-22T20:17:12.0635613+00:00",
   "LastChanged": "2023-12-28T13:03:21.0004721+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:19:59.2048029+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:03:21.0004727+00:00",
-  "LastUpdate_Achievements": "2023-12-28T13:07:07.0335025+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:00:37.1897614+00:00",
+  "LastUpdate_Achievements": "2023-12-28T14:04:14.4454853+00:00"
 }

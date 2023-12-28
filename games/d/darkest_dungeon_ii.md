@@ -6,11 +6,11 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~574 |
-| Lost and Found | 7.00% | ~365 |
-| This Belongs in a Museum | 5.00% | ~6,517 |
-| Overdue Notice | 5.00% | ~6,517 |
-| Autodidact | 5.00% | ~6,517 |
+| Malpractice Assurance | 11.00% | ~575 |
+| Lost and Found | 7.00% | ~366 |
+| This Belongs in a Museum | 5.00% | ~6,518 |
+| Overdue Notice | 5.00% | ~6,518 |
+| Autodidact | 5.00% | ~6,518 |
 | This guy... again? | 5.00% | ~261 |
 | Ploughshares to Swords | 5.00% | ~261 |
 | Bloody Graduation | 5.00% | ~261 |
@@ -23,17 +23,17 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 4.00% | ~5,214 |
 | Rush Hour | 4.00% | ~5,214 |
 | To Grandmother's House | 4.00% | ~5,214 |
-| It Rings a Bell | 3.00% | ~3,910 |
-| It Happens | 3.00% | ~3,910 |
-| Spelunker | 3.00% | ~3,910 |
-| Merry Time | 3.00% | ~3,910 |
-| Harvest Festival | 3.00% | ~3,910 |
-| Ramble On | 3.00% | ~3,910 |
-| Whale | 3.00% | ~3,910 |
-| A Place to Lay Your Head | 3.00% | ~3,910 |
-| FNG | 3.00% | ~3,910 |
-| Nope | 3.00% | ~3,910 |
-| Friends 'Til the End | 3.00% | ~156 |
+| It Rings a Bell | 3.00% | ~3,911 |
+| It Happens | 3.00% | ~3,911 |
+| Spelunker | 3.00% | ~3,911 |
+| Merry Time | 3.00% | ~3,911 |
+| Harvest Festival | 3.00% | ~3,911 |
+| Ramble On | 3.00% | ~3,911 |
+| Whale | 3.00% | ~3,911 |
+| A Place to Lay Your Head | 3.00% | ~3,911 |
+| FNG | 3.00% | ~3,911 |
+| Nope | 3.00% | ~3,911 |
+| Friends 'Til the End | 3.00% | ~157 |
 | Resurrection | 2.00% | ~2,607 |
 | Unleash Hell | 2.00% | ~2,607 |
 | Funny Guy | 2.00% | ~2,607 |
@@ -55,17 +55,17 @@ Number of Ratings: 7,767  (23.09.2022)
 | Unshackled | 2.00% | ~2,607 |
 | Hot Air | 2.00% | ~2,607 |
 | Road Trip | 2.00% | ~2,607 |
-| This Looks Familiar | 1.00% | ~1,303 |
-| Ichthyophobic | 1.00% | ~1,303 |
-| No More Mouths to Feed | 1.00% | ~1,303 |
-| Eyes Up | 1.00% | ~1,303 |
-| Handled | 1.00% | ~1,303 |
+| This Looks Familiar | 1.00% | ~1,304 |
+| Ichthyophobic | 1.00% | ~1,304 |
+| No More Mouths to Feed | 1.00% | ~1,304 |
+| Eyes Up | 1.00% | ~1,304 |
+| Handled | 1.00% | ~1,304 |
 | Slap on the Wrist | 1.00% | ~52 |
 | For Old Time' Sake | 1.00% | ~52 |
 | Shrine of Reflection | 0.90% | ~1,173 |
 | Body of Work | 0.90% | ~1,173 |
-| Clearing the Ledger | 0.70% | ~912 |
-| Triage | 0.70% | ~912 |
+| Clearing the Ledger | 0.70% | ~913 |
+| Triage | 0.70% | ~913 |
 | No Mercy | 0.70% | ~37 |
 | Et Tu, Riposte? | 0.70% | ~37 |
 | Hat Trick | 0.60% | ~782 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,347 (Ranked 87)  
+Progressed: 130,358 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,10 +328,10 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-25 | 129,858 | 3 |
 | 2023-12-26 | 130,068 | 3 |
 | 2023-12-27 | 130,259 | 3 |
-| 2023-12-28 | 130,347 | 3 |
+| 2023-12-28 | 130,358 | 3 |
 ## Awards
 Max (Character Customization): 7,888  (Ranked 50)  
-Sum: 21,185 (Ranked 58)  
+Sum: 21,194 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -339,12 +339,12 @@ Diff (max vs sum): -8
 | This game has Diverse Characters | 1,782 |
 | This game has Challenging Combat | 1,646 |
 | This game is Highly Recommended | 1,579 |
+| This game has Amazing Characters | 1,500 |
 | This game is Extremely Fun | 1,497 |
-| This game has Amazing Characters | 1,496 |
 | This game has Unique Visuals | 1,431 |
 | This game has Amazing Storytelling | 1,418 |
 | This game has Quickly Understood Controls | 1,389 |
-| This game has a Creative Community | 1,059 |
+| This game has a Creative Community | 1,064 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
 ## Ratings History
@@ -684,4 +684,4 @@ Diff (max vs sum): -8
 | 2023-12-25 | 4.68 | - | 7,875 | 21,096 |
 | 2023-12-26 | 4.68 | - | 7,882 | 21,127 |
 | 2023-12-27 | 4.68 | - | 7,882 | 21,156 |
-| 2023-12-28 | 4.68 | - | 7,888 | 21,185 |
+| 2023-12-28 | 4.68 | - | 7,888 | 21,194 |

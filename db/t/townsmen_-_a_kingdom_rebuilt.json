@@ -2,7 +2,7 @@
   "ID": "45a3134e24b3470dbd9ea94d17b3507b",
   "Name": "Townsmen - A Kingdom Rebuilt",
   "ProductSlug": "townsmen-a-kingdom-rebuilt-07c09d",
-  "Ranking_Rating": 887,
+  "Ranking_Rating": 888,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 203,
@@ -1974,9 +1974,9 @@
       "ID": "ACHIEVEMENT_CLOTHES1",
       "SetID": "9eacipp",
       "Name": "The King\u0027s new clothes I",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 264
     },
     {
       "ID": "ACHIEVEMENT_CLOTHES2",
@@ -2678,8 +2678,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-12-26T18:02:48.4372833+00:00",
-  "LastChanged_Achievements": "2023-12-28T13:13:57.5860367+00:00",
+  "LastChanged_Achievements": "2023-12-28T14:10:59.6634736+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:59.3199868+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:05:58.2139127+00:00",
-  "LastUpdate_Achievements": "2023-12-28T13:13:57.5861329+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:02:41.5194905+00:00",
+  "LastUpdate_Achievements": "2023-12-28T14:10:59.6635638+00:00"
 }

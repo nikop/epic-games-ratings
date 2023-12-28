@@ -2,7 +2,7 @@
   "ID": "fb76c816bb054fc8be57dc49f1600843",
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
-  "Ranking_Rating": 498,
+  "Ranking_Rating": 499,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 232,
@@ -4245,9 +4245,9 @@
       "ID": "CollectAllWeaponsAndGear",
       "SetID": "9lj35g4",
       "Name": "Complete Redgi\u0027s Armory",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "CompleteAll",
@@ -4309,9 +4309,9 @@
       "ID": "DefeatAvor",
       "SetID": "9lj35g4",
       "Name": "Defeat Avor Warden of the Northern Wastes",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "DefeatMoziQueen",
@@ -4397,9 +4397,9 @@
       "ID": "MysteryKingsChamber",
       "SetID": "9lj35g4",
       "Name": "Discover the mystery of the Kings Chambers",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "RepairChef",
@@ -4508,8 +4508,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-23T19:58:55.6551134+00:00",
-  "LastChanged_Achievements": "2023-12-28T13:07:00.0329617+00:00",
+  "LastChanged_Achievements": "2023-12-28T14:04:07.2573602+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:15.2928033+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:05:56.3523017+00:00",
-  "LastUpdate_Achievements": "2023-12-28T13:07:00.0330042+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:02:39.5318173+00:00",
+  "LastUpdate_Achievements": "2023-12-28T14:04:07.2573948+00:00"
 }

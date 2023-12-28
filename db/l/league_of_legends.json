@@ -2,7 +2,7 @@
   "ID": "24b9b5e323bc40eea252a10cdd3b2f10",
   "Name": "League of Legends",
   "ProductSlug": "league-of-legends",
-  "Ranking_Rating": 936,
+  "Ranking_Rating": 937,
   "Ranking_Popularity": 75,
   "Ranking_PopularitySum": 57,
   "Ranking_EOS_Progress": 817,
@@ -11887,10 +11887,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 22995,
       "NumberOfAwardsMax": 4935
+    },
+    {
+      "Time": "2023-12-28T13:59:55.093001+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 23002,
+      "NumberOfAwardsMax": 4935
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22995,
+  "NumberOfAwards": 23002,
   "NumberOfAwardsMax": 4935,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -11928,7 +11934,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 3450
+      "Count": 3457
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -11960,8 +11966,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
-  "LastChanged": "2023-12-28T13:02:44.3998754+00:00",
+  "LastChanged": "2023-12-28T13:59:55.0930008+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:32.8959576+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:02:44.3998761+00:00",
-  "LastUpdate_Achievements": "2023-12-28T13:08:49.1183584+00:00"
+  "LastUpdate_Ratings": "2023-12-28T13:59:55.0930014+00:00",
+  "LastUpdate_Achievements": "2023-12-28T14:06:04.1397813+00:00"
 }

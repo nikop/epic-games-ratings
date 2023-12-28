@@ -1,7 +1,7 @@
 # Hardspace: Shipbreaker
 [Store](https://store.epicgames.com/en-US/p/hardspace-shipbreaker)  
 [View Rawdata](../../db/h/hardspace__shipbreaker.json)  
-Rating: 4.67 (Ranked 283)  
+Rating: 4.67 (Ranked 282)  
 Number of Ratings: 36  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,7 +11,7 @@ Number of Ratings: 36  (23.09.2022)
 | Let’s patch things up | 65.00% | ~664 |
 | I can fix it! | 62.00% | ~634 |
 | Post No Bills | 54.00% | ~552 |
-| Truly Shocking! | 47.00% | ~480 |
+| Truly Shocking! | 48.00% | ~491 |
 | Critical Thinker | 36.00% | ~368 |
 | Act I Complete | 29.00% | ~296 |
 | Always Finding Your Mark | 29.00% | ~296 |

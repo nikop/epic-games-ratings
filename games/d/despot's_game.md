@@ -1,27 +1,27 @@
 # Despot's Game
 [Store](https://store.epicgames.com/en-US/p/despots-game-f61a0a)  
 [View Rawdata](../../db/d/despot's_game.json)  
-Rating: 4.50 (Ranked 607)  
+Rating: 4.50 (Ranked 608)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 87.00% | ~409 |
+| Good start! | 87.00% | ~410 |
 | Vanquisher of Robots | 78.00% | ~367 |
-| Party | 50.00% | ~235 |
-| Impossible Cube | 46.00% | ~216 |
+| Party | 50.00% | ~236 |
+| Impossible Cube | 46.00% | ~217 |
 | Knowledge is Power | 45.00% | ~212 |
 | Through the Darkness | 45.00% | ~212 |
-| No Mercy | 43.00% | ~202 |
+| No Mercy | 43.00% | ~203 |
 | The Return of a Rat | 41.00% | ~193 |
-| Fat of the Earth | 36.00% | ~169 |
-| Last Man Standing | 32.00% | ~150 |
-| Great Hero | 29.00% | ~136 |
+| Fat of the Earth | 36.00% | ~170 |
+| Last Man Standing | 32.00% | ~151 |
 | He's Seen It All | 28.00% | ~132 |
+| Great Hero | 28.00% | ~132 |
 | Campaigning | 27.00% | ~127 |
 | Rookie | 27.00% | ~127 |
 | Catch Jonathan_tostar | 26.00% | ~122 |
 | Assemble a Meganewbie | 25.00% | ~118 |
-| Frugal | 22.00% | ~103 |
+| Frugal | 22.00% | ~104 |
 | Feed a God | 21.00% | ~99 |
 | To the Moon and Back | 20.00% | ~94 |
 | Great Flight | 19.00% | ~89 |
@@ -38,10 +38,10 @@ Rating: 4.50 (Ranked 607)
 | Zombie Lover | 3.00% | ~14 |
 | Full House | 1.00% | ~5 |
 | Munchkin | 1.00% | ~5 |
-| Vet | 0.90% | ~4 |
+| Vet | 0.80% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 470 (Ranked 343)  
+Progressed: 471 (Ranked 343)  
 Completed: 1 (0.21%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,6 +120,7 @@ Completed: 1 (0.21%) (Ranked 271)
 | 2023-12-25 | 464 | 1 |
 | 2023-12-26 | 467 | 1 |
 | 2023-12-27 | 470 | 1 |
+| 2023-12-28 | 471 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

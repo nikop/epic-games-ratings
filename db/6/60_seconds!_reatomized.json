@@ -2,7 +2,7 @@
   "ID": "cc1d104767dc4a2fa22a44d487e2db64",
   "Name": "60 Seconds! Reatomized",
   "ProductSlug": "60-seconds-reatomized-91ffa3",
-  "Ranking_Rating": 568,
+  "Ranking_Rating": 569,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 196,
@@ -8595,9 +8595,9 @@
       "ID": "ACH_DISCO",
       "SetID": "5nj1ea3",
       "Name": "Disco Roach",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1668
+      "UsersEstimate": 1728
     },
     {
       "ID": "ACH_DOCEND",
@@ -8924,8 +8924,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-12-21T20:59:22.4145876+00:00",
-  "LastChanged_Achievements": "2023-12-28T13:09:46.2974925+00:00",
+  "LastChanged_Achievements": "2023-12-28T14:07:04.4748685+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:35.8675807+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:02:56.1923161+00:00",
-  "LastUpdate_Achievements": "2023-12-28T13:09:46.2975676+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:00:09.0451645+00:00",
+  "LastUpdate_Achievements": "2023-12-28T14:07:04.4749367+00:00"
 }

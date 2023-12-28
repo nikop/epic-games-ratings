@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 440,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -780,9 +780,9 @@
       "ID": "jk1",
       "SetID": "b1ggf28",
       "Name": "Treatment of plague",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "jk2",
@@ -916,9 +916,9 @@
       "ID": "w1",
       "SetID": "b1ggf28",
       "Name": "Against the Cold",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "w2",
@@ -1019,8 +1019,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-28T13:10:35.9879573+00:00",
+  "LastChanged_Achievements": "2023-12-28T14:07:57.9877234+00:00",
   "LastUpdate_AppInfo": "2023-12-27T04:56:58.3049887+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:06:12.0976378+00:00",
-  "LastUpdate_Achievements": "2023-12-28T13:10:35.9879932+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:03:15.8799797+00:00",
+  "LastUpdate_Achievements": "2023-12-28T14:07:57.9877698+00:00"
 }

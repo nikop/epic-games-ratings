@@ -2,12 +2,12 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_Rating": 1077,
+  "Ranking_Rating": 1078,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -8407,8 +8407,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2023-12-28T13:07:39.8900758+00:00",
+  "LastChanged_Achievements": "2023-12-28T14:04:50.2893502+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:02.8789919+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:03:36.5413853+00:00",
-  "LastUpdate_Achievements": "2023-12-28T13:07:39.8901251+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:00:53.2738932+00:00",
+  "LastUpdate_Achievements": "2023-12-28T14:04:50.2894158+00:00"
 }

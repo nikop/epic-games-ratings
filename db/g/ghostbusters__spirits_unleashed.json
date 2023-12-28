@@ -2,13 +2,13 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 607,
+  "Ranking_Rating": 608,
   "Ranking_Popularity": 253,
   "Ranking_PopularitySum": 182,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3861,9 +3861,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32840,
+  "EOS_Progressed": 32843,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 352,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -23751,6 +23751,11 @@
       "Time": "2023-12-28T13:12:05.6003682+00:00",
       "NumProgressed": 32840,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-28T14:09:00.6602015+00:00",
+      "NumProgressed": 32843,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 51,
@@ -23760,9 +23765,9 @@
       "ID": "Advancement",
       "SetID": "819popo",
       "Name": "Advancement",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2299
+      "UsersEstimate": 2627
     },
     {
       "ID": "Animated",
@@ -23850,7 +23855,7 @@
       "Name": "Discovery",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1970
+      "UsersEstimate": 1971
     },
     {
       "ID": "Dont_Need_These",
@@ -24050,7 +24055,7 @@
       "Name": "Solo Capture",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1970
+      "UsersEstimate": 1971
     },
     {
       "ID": "Stunner",
@@ -24090,7 +24095,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 1970
+      "UsersEstimate": 1971
     },
     {
       "ID": "Teamwork",
@@ -24169,7 +24174,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32840,
+      "Progressed": 32843,
       "Completed": 70
     }
   ],
@@ -24177,8 +24182,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-27T23:00:22.2812208+00:00",
-  "LastChanged_Achievements": "2023-12-28T13:12:05.6003675+00:00",
+  "LastChanged_Achievements": "2023-12-28T14:09:00.6602012+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.5748987+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:03:39.3223799+00:00",
-  "LastUpdate_Achievements": "2023-12-28T13:12:05.600518+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:00:56.6609832+00:00",
+  "LastUpdate_Achievements": "2023-12-28T14:09:00.6603096+00:00"
 }

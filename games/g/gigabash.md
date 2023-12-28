@@ -1,36 +1,36 @@
 # GigaBash
 [Store](https://store.epicgames.com/en-US/p/gigabash)  
 [View Rawdata](../../db/g/gigabash.json)  
-Rating: 4.54 (Ranked 539)  
+Rating: 4.54 (Ranked 540)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 16.00% | ~17,460 |
-| I've Had Enough! | 12.00% | ~13,095 |
-| Fists, Fury & a lot of Rage | 9.00% | ~9,821 |
-| All For One and One For All | 7.00% | ~7,639 |
-| Seasoned Fighter | 7.00% | ~7,639 |
-| Home Sweet Home? | 5.00% | ~5,456 |
-| A New Age | 4.00% | ~4,365 |
-| Oh Baby, A Triple | 3.00% | ~3,274 |
-| Battle Hardened | 2.00% | ~2,182 |
-| Master of Disguise | 2.00% | ~2,182 |
-| It's Mayhem! | 2.00% | ~2,182 |
-| Symbiotic | 2.00% | ~2,182 |
-| Cautious Veteran | 1.00% | ~1,091 |
-| Double Punch! | 1.00% | ~1,091 |
-| Martyrdom | 1.00% | ~1,091 |
-| Right back at'cha | 1.00% | ~1,091 |
-| Spectacular Finisher | 1.00% | ~1,091 |
-| Katamari | 0.80% | ~873 |
-| Zero-sum Game | 0.80% | ~873 |
+| All Grown Up! | 16.00% | ~17,473 |
+| I've Had Enough! | 12.00% | ~13,105 |
+| Fists, Fury & a lot of Rage | 9.00% | ~9,828 |
+| All For One and One For All | 7.00% | ~7,644 |
+| Seasoned Fighter | 7.00% | ~7,644 |
+| Home Sweet Home? | 5.00% | ~5,460 |
+| A New Age | 4.00% | ~4,368 |
+| Oh Baby, A Triple | 3.00% | ~3,276 |
+| Battle Hardened | 2.00% | ~2,184 |
+| Master of Disguise | 2.00% | ~2,184 |
+| It's Mayhem! | 2.00% | ~2,184 |
+| Symbiotic | 2.00% | ~2,184 |
+| Cautious Veteran | 1.00% | ~1,092 |
+| Double Punch! | 1.00% | ~1,092 |
+| Martyrdom | 1.00% | ~1,092 |
+| Right back at'cha | 1.00% | ~1,092 |
+| Spectacular Finisher | 1.00% | ~1,092 |
+| Katamari | 0.80% | ~874 |
+| Zero-sum Game | 0.80% | ~874 |
 | Ninja Reflex | 0.70% | ~764 |
 | Taste Your Own Medicine | 0.60% | ~655 |
-| This is GigaBash! | 0.40% | ~436 |
-| Sidetracked... | 0.40% | ~436 |
-| Eye of the Titan | 0.30% | ~327 |
-| Just Getting Warmed Up | 0.30% | ~327 |
-| Top of the Food Chain | 0.30% | ~327 |
+| This is GigaBash! | 0.40% | ~437 |
+| Sidetracked... | 0.40% | ~437 |
+| Eye of the Titan | 0.30% | ~328 |
+| Just Getting Warmed Up | 0.30% | ~328 |
+| Top of the Food Chain | 0.30% | ~328 |
 | Let Them Fight | 0.20% | ~218 |
 | 5 Stages of Grief | 0.10% | ~109 |
 | Bastion of Humanity | 0.10% | ~109 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 539)
 | What's Mine is Yours | 0.10% | ~109 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109,125 (Ranked 93)  
+Progressed: 109,205 (Ranked 93)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 105,837 | 0 |
 | 2023-12-26 | 107,258 | 0 |
 | 2023-12-27 | 108,438 | 0 |
-| 2023-12-28 | 109,125 | 0 |
+| 2023-12-28 | 109,205 | 0 |
 ## Awards
 Max (Great Boss Battles): 40  (Ranked 475)  
 Sum: 40 (Ranked 514)  

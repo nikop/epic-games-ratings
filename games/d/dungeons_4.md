@@ -1,6 +1,7 @@
 # Dungeons 4
 [Store](https://store.epicgames.com/en-US/p/dungeons-4-595454)  
 [View Rawdata](../../db/d/dungeons_4.json)  
+Rating: 4.65 (Ranked 323)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -22,7 +23,7 @@
 | Trap Master | 55.00% | ~358 |
 | Minions, Minions! | 55.00% | ~358 |
 | Hard Work | 54.00% | ~352 |
-| The Big Eaty | 53.00% | ~345 |
+| The Big Eaty | 54.00% | ~352 |
 | YOU SHALL NOT PASS! | 50.00% | ~326 |
 | “… like son” | 50.00% | ~326 |
 | The Cathedral of Light | 47.00% | ~306 |
@@ -120,3 +121,7 @@ Completed: 24 (3.69%) (Ranked 99)
 | 2023-12-26 | 644 | 21 |
 | 2023-12-27 | 650 | 24 |
 | 2023-12-28 | 651 | 24 |
+## Ratings History
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
+| 2023-12-28 | 4.65 | 0 | 0 |
