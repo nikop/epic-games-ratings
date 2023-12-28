@@ -1321,9 +1321,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 3421,
+  "EOS_Progressed": 3422,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7061,6 +7061,11 @@
       "Time": "2023-12-28T02:25:05.0890415+00:00",
       "NumProgressed": 3421,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-28T06:05:45.4162948+00:00",
+      "NumProgressed": 3422,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -7088,7 +7093,7 @@
       "Name": "Bottom ply killer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_COMMENCE-THE-HIJINX",
@@ -7136,7 +7141,7 @@
       "Name": "Fashionista",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_FINALLY-HE-SHUTS-UP",
@@ -7144,7 +7149,7 @@
       "Name": "Finally he zips it",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_FULFILLED-THE-DREAM",
@@ -7352,7 +7357,7 @@
       "Name": "That pinch!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_THAT-WAS-WHEELIE-FUN",
@@ -7400,7 +7405,7 @@
       "Name": "Tight lipslides",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_TRICK-SHOT-MARKSMAN",
@@ -7448,22 +7453,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2121
+      "UsersEstimate": 2122
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3421,
+      "Progressed": 3422,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-12-27T02:59:08.6955068+00:00",
-  "LastChanged_Achievements": "2023-12-28T05:08:04.5672065+00:00",
+  "LastChanged_Achievements": "2023-12-28T06:05:45.4162944+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:13.070131+00:00",
-  "LastUpdate_Ratings": "2023-12-28T04:59:50.7671441+00:00",
-  "LastUpdate_Achievements": "2023-12-28T05:08:04.5672917+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:58:43.3104005+00:00",
+  "LastUpdate_Achievements": "2023-12-28T06:05:45.4163452+00:00"
 }

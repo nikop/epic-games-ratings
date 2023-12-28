@@ -1412,9 +1412,9 @@
       "ID": "ACH_PURCHASE_CAPSTONE",
       "SetID": "4n84pon",
       "Name": "Upgreatest",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -1517,8 +1517,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-28T05:09:51.6959512+00:00",
+  "LastChanged_Achievements": "2023-12-28T06:08:38.5695377+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-28T04:59:33.1404813+00:00",
-  "LastUpdate_Achievements": "2023-12-28T05:09:51.6959832+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:58:31.4137077+00:00",
+  "LastUpdate_Achievements": "2023-12-28T06:08:38.5695701+00:00"
 }

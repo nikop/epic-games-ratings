@@ -227,9 +227,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70977,
+  "EOS_Progressed": 70981,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 2256,
+  "EOS_NewPlayers": 2238,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5182,6 +5182,11 @@
       "Time": "2023-12-28T05:04:51.8134725+00:00",
       "NumProgressed": 70977,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-12-28T06:03:32.1721299+00:00",
+      "NumProgressed": 70981,
+      "NumCompleted": 99
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -5194,7 +5199,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 26261
+      "UsersEstimate": 26263
     },
     {
       "ID": "Achievement_10",
@@ -5282,7 +5287,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 19164
+      "UsersEstimate": 19165
     },
     {
       "ID": "Achievement_20",
@@ -5370,7 +5375,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8517
+      "UsersEstimate": 8518
     },
     {
       "ID": "Achievement_30",
@@ -5465,7 +5470,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 70977,
+      "Progressed": 70981,
       "Completed": 99
     }
   ],
@@ -5473,8 +5478,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-25T04:02:51.5717545+00:00",
-  "LastChanged_Achievements": "2023-12-28T05:04:51.813472+00:00",
+  "LastChanged_Achievements": "2023-12-28T06:03:32.1721295+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:17.3346413+00:00",
-  "LastUpdate_Ratings": "2023-12-28T05:03:43.811701+00:00",
-  "LastUpdate_Achievements": "2023-12-28T05:04:51.8135166+00:00"
+  "LastUpdate_Ratings": "2023-12-28T06:02:46.1392194+00:00",
+  "LastUpdate_Achievements": "2023-12-28T06:03:32.1721671+00:00"
 }

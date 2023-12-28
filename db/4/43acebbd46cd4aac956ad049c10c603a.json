@@ -253,9 +253,9 @@
       "Count": 87
     }
   ],
-  "EOS_Progressed": 1160,
+  "EOS_Progressed": 1161,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3163,6 +3163,11 @@
       "Time": "2023-12-27T23:05:24.8087466+00:00",
       "NumProgressed": 1160,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-28T06:04:18.5373075+00:00",
+      "NumProgressed": 1161,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3215,7 +3220,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "BreakTheLoop",
@@ -3231,7 +3236,7 @@
       "Name": "Bridge Builder",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "ChasingTheLight",
@@ -3567,7 +3572,7 @@
       "Name": "The Spark",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "TheThiefOfFire",
@@ -3615,7 +3620,7 @@
       "Name": "Wanderers",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "WesternDelta",
@@ -3629,9 +3634,9 @@
       "ID": "WoodedPlateau",
       "SetID": "1n308hc",
       "Name": "Wooded Plateau",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 139
     },
     {
       "ID": "YourBiggestFan",
@@ -3646,7 +3651,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1160,
+      "Progressed": 1161,
       "Completed": 2
     }
   ],
@@ -3654,8 +3659,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-28T02:59:27.0743673+00:00",
-  "LastChanged_Achievements": "2023-12-28T05:05:59.0493333+00:00",
+  "LastChanged_Achievements": "2023-12-28T06:04:18.5373071+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-28T05:01:10.5497324+00:00",
-  "LastUpdate_Achievements": "2023-12-28T05:05:59.0493946+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:59:34.041535+00:00",
+  "LastUpdate_Achievements": "2023-12-28T06:04:18.5373549+00:00"
 }

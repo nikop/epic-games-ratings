@@ -27,13 +27,13 @@
 | Hate is... addictive | 12.00% | ~8 |
 | Kirlian's best disciple | 12.00% | ~8 |
 | Welcome to Hellville | 12.00% | ~8 |
+| Blood Red Island | 10.00% | ~7 |
 | Bread and bocaua | 10.00% | ~7 |
 | Fanatacism is... poisonous | 10.00% | ~7 |
 | The bully | 10.00% | ~7 |
 | Pulp! The Beyond | 10.00% | ~7 |
 | Blessed antennas | 9.00% | ~6 |
 | The beast in the Oval Office | 9.00% | ~6 |
-| Blood Red Island | 9.00% | ~6 |
 | The adventurer | 9.00% | ~6 |
 | ECO mode | 9.00% | ~6 |
 | The scholar | 7.00% | ~5 |

@@ -71,7 +71,7 @@
   "Tags": [],
   "EOS_Progressed": 1361,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -3731,9 +3731,9 @@
       "ID": "EV_ACH35",
       "SetID": "6jeac23",
       "Name": "The Fire Below the Mountain",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 817
+      "UsersEstimate": 830
     },
     {
       "ID": "EV_ACH36",
@@ -3820,8 +3820,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-25T19:59:38.6529887+00:00",
-  "LastChanged_Achievements": "2023-12-28T05:11:17.2451163+00:00",
+  "LastChanged_Achievements": "2023-12-28T06:09:38.316739+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:41.3966374+00:00",
-  "LastUpdate_Ratings": "2023-12-28T04:57:35.2762691+00:00",
-  "LastUpdate_Achievements": "2023-12-28T05:11:17.2451553+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:57:15.2674339+00:00",
+  "LastUpdate_Achievements": "2023-12-28T06:09:38.3167989+00:00"
 }

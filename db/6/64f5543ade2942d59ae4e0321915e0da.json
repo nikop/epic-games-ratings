@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 277,
+  "EOS_Progressed": 278,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1114,6 +1114,11 @@
       "Time": "2023-12-28T01:50:19.9990808+00:00",
       "NumProgressed": 277,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T06:05:40.4226283+00:00",
+      "NumProgressed": 278,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1196,9 +1201,9 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 153
     },
     {
       "ID": "AC_BOSS_01",
@@ -1212,9 +1217,9 @@
       "ID": "AC_BOSS_02",
       "SetID": "16i2akc",
       "Name": "Downfall",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "AC_BOSS_03",
@@ -1236,9 +1241,9 @@
       "ID": "AC_COMBO_1",
       "SetID": "16i2akc",
       "Name": "Pack",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 67
     },
     {
       "ID": "AC_COMBO_2",
@@ -1292,9 +1297,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 142
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1318,7 +1323,7 @@
       "Name": "Excursion",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -1358,7 +1363,7 @@
       "Name": "Demise",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "AC_FLASHBACK_03",
@@ -1461,14 +1466,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 277,
+      "Progressed": 278,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-28T05:07:57.3054733+00:00",
+  "LastChanged_Achievements": "2023-12-28T06:05:40.4226279+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:54.1541826+00:00",
-  "LastUpdate_Ratings": "2023-12-28T05:02:17.5716671+00:00",
-  "LastUpdate_Achievements": "2023-12-28T05:07:57.3055012+00:00"
+  "LastUpdate_Ratings": "2023-12-28T06:00:17.6850268+00:00",
+  "LastUpdate_Achievements": "2023-12-28T06:05:40.4226537+00:00"
 }

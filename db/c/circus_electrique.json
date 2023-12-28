@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 496,
+  "EOS_Progressed": 497,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -607,6 +607,11 @@
       "Time": "2023-12-26T22:04:53.8369967+00:00",
       "NumProgressed": 496,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T06:05:17.7231997+00:00",
+      "NumProgressed": 497,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -616,9 +621,9 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "631ndc2",
       "Name": "Grand Opening",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -640,9 +645,9 @@
       "ID": "ACHIEVEMENT_04",
       "SetID": "631ndc2",
       "Name": "One More Thing...",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 69
+      "UsersEstimate": 65
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -666,7 +671,7 @@
       "Name": "Circus Electrique Proudly Presents...",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -682,7 +687,7 @@
       "Name": "Path of Learning",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -698,7 +703,7 @@
       "Name": "Lucky Day",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -714,7 +719,7 @@
       "Name": "Bar Brawler",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -850,7 +855,7 @@
       "Name": "King of District 1",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -858,7 +863,7 @@
       "Name": "King of District 2",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -906,7 +911,7 @@
       "Name": "Flawless Presentation",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -938,7 +943,7 @@
       "Name": "Self Defense",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -1017,7 +1022,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 496,
+      "Progressed": 497,
       "Completed": 1
     }
   ],
@@ -1025,8 +1030,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-12-28T05:07:26.2874714+00:00",
+  "LastChanged_Achievements": "2023-12-28T06:05:17.7231993+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:04.8817708+00:00",
-  "LastUpdate_Ratings": "2023-12-28T05:02:49.6502749+00:00",
-  "LastUpdate_Achievements": "2023-12-28T05:07:26.2875136+00:00"
+  "LastUpdate_Ratings": "2023-12-28T06:02:31.5221248+00:00",
+  "LastUpdate_Achievements": "2023-12-28T06:05:17.7232387+00:00"
 }

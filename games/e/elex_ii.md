@@ -7,19 +7,19 @@ Number of Ratings: 124  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Entrepreneur | 35.00% | ~41 |
-| Best Buddy | 26.00% | ~30 |
-| Role Model | 25.00% | ~29 |
-| Civilian | 25.00% | ~29 |
+| Best Buddy | 26.00% | ~31 |
+| Role Model | 25.00% | ~30 |
+| Civilian | 25.00% | ~30 |
 | Festival-goer | 17.00% | ~20 |
 | Peddler | 16.00% | ~19 |
 | Creator | 16.00% | ~19 |
 | Military Leader | 15.00% | ~18 |
-| Commander | 15.00% | ~18 |
+| Commander | 14.00% | ~17 |
 | Long-Haul Flyer | 13.00% | ~15 |
 | Family Reunion | 10.00% | ~12 |
 | Pass A38 | 10.00% | ~12 |
-| Irissa's Fate | 9.00% | ~11 |
 | Berserker | 8.00% | ~9 |
+| Irissa's Fate | 8.00% | ~9 |
 | Eternal Oblivion | 8.00% | ~9 |
 | Globetrotter | 6.00% | ~7 |
 | Hotshot | 6.00% | ~7 |
@@ -37,11 +37,11 @@ Number of Ratings: 124  (23.09.2022)
 | Treasure Hunter | 2.00% | ~2 |
 | Morkon | 2.00% | ~2 |
 | Lover | 2.00% | ~2 |
-| Beam Me Up | 0.90% | ~1 |
-| Defector | 0.90% | ~1 |
-| Outlaw | 0.90% | ~1 |
-| Destroyer | 0.90% | ~1 |
-| Hunter | 0.90% | ~1 |
+| Beam Me Up | 0.80% | ~1 |
+| Defector | 0.80% | ~1 |
+| Outlaw | 0.80% | ~1 |
+| Destroyer | 0.80% | ~1 |
+| Hunter | 0.80% | ~1 |
 | Pack Rat | 0.00% | ~0 |
 | Drinker | 0.00% | ~0 |
 | Key Master | 0.00% | ~0 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117 (Ranked 470)  
+Progressed: 118 (Ranked 467)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,6 +72,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 100 | 0 |
 | 2023-12-26 | 109 | 0 |
 | 2023-12-27 | 117 | 0 |
+| 2023-12-28 | 118 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

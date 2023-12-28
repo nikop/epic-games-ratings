@@ -9115,9 +9115,9 @@
       "Count": 3602
     }
   ],
-  "EOS_Progressed": 245748,
+  "EOS_Progressed": 245776,
   "EOS_Completed": 2569,
-  "EOS_NewPlayers": 3274,
+  "EOS_NewPlayers": 3279,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -37575,6 +37575,11 @@
       "Time": "2023-12-28T05:11:23.0138191+00:00",
       "NumProgressed": 245748,
       "NumCompleted": 2569
+    },
+    {
+      "Time": "2023-12-28T06:09:43.1050472+00:00",
+      "NumProgressed": 245776,
+      "NumCompleted": 2569
     }
   ],
   "TotalAchievements": 546,
@@ -37586,7 +37591,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4915
+      "UsersEstimate": 4916
     },
     {
       "ID": "objective_completed_10",
@@ -37594,7 +37599,7 @@
       "Name": "Maddening",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "objective_completed_100",
@@ -37954,7 +37959,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1474
+      "UsersEstimate": 1475
     },
     {
       "ID": "objective_completed_110",
@@ -38562,7 +38567,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "objective_completed_130",
@@ -38706,7 +38711,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "objective_completed_150",
@@ -38914,7 +38919,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "objective_completed_20",
@@ -39274,7 +39279,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "objective_completed_36",
@@ -39730,7 +39735,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "objective_completed_540",
@@ -40730,7 +40735,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1474
+      "UsersEstimate": 1475
     },
     {
       "ID": "objective_completed_70",
@@ -41330,7 +41335,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "objective_completed_902",
@@ -41953,21 +41958,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 212022,
+      "Progressed": 212050,
       "Completed": 4072
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 245748,
+      "Progressed": 245776,
       "Completed": 2569
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-27T18:59:30.8252189+00:00",
-  "LastChanged_Achievements": "2023-12-28T05:11:23.0138185+00:00",
+  "LastChanged_Achievements": "2023-12-28T06:09:43.1050467+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-28T04:59:47.7691596+00:00",
-  "LastUpdate_Achievements": "2023-12-28T05:11:23.0163146+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:58:41.2813737+00:00",
+  "LastUpdate_Achievements": "2023-12-28T06:09:43.1074499+00:00"
 }

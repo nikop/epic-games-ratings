@@ -1056,9 +1056,9 @@
       "ID": "KR4_ACHIEVEMENT_BLACKBROTHER",
       "SetID": "caeik3h",
       "Name": "My Watch Begins",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "KR4_ACHIEVEMENT_BLACKBURN_RETURNS",
@@ -1104,9 +1104,9 @@
       "ID": "KR4_ACHIEVEMENT_CURSE_ME_KILTS",
       "SetID": "caeik3h",
       "Name": "Curse Me Kilts!",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 116
     },
     {
       "ID": "KR4_ACHIEVEMENT_DARKKNIGHTS",
@@ -1600,9 +1600,9 @@
       "ID": "KR4_ACHIEVEMENT_THE_THING",
       "SetID": "caeik3h",
       "Name": "Get Away From That!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "KR4_ACHIEVEMENT_TROLL",
@@ -1653,8 +1653,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-28T05:06:36.0224738+00:00",
+  "LastChanged_Achievements": "2023-12-28T06:04:43.8070677+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:53.420002+00:00",
-  "LastUpdate_Ratings": "2023-12-28T05:02:38.3505204+00:00",
-  "LastUpdate_Achievements": "2023-12-28T05:06:36.0225436+00:00"
+  "LastUpdate_Ratings": "2023-12-28T06:02:24.6632989+00:00",
+  "LastUpdate_Achievements": "2023-12-28T06:04:43.8071279+00:00"
 }

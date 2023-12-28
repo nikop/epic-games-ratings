@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 367,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
@@ -796,9 +796,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 43063,
+  "EOS_Progressed": 43064,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 465,
+  "EOS_NewPlayers": 462,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26486,6 +26486,11 @@
       "Time": "2023-12-28T05:04:26.6174606+00:00",
       "NumProgressed": 43063,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-28T06:03:15.1471407+00:00",
+      "NumProgressed": 43064,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -26849,7 +26854,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7751
+      "UsersEstimate": 7752
     },
     {
       "ID": "ach_terror100",
@@ -26865,7 +26870,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6459
+      "UsersEstimate": 6460
     },
     {
       "ID": "ach_undercurrent",
@@ -26928,15 +26933,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 43063,
+      "Progressed": 43064,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-12-24T21:57:48.6140592+00:00",
-  "LastChanged_Achievements": "2023-12-28T05:04:26.61746+00:00",
+  "LastChanged_Achievements": "2023-12-28T06:03:15.1471404+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:10.7920736+00:00",
-  "LastUpdate_Ratings": "2023-12-28T05:00:39.0193395+00:00",
-  "LastUpdate_Achievements": "2023-12-28T05:04:26.6176207+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:59:14.8916371+00:00",
+  "LastUpdate_Achievements": "2023-12-28T06:03:15.1472888+00:00"
 }

@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17617,
+  "EOS_Progressed": 17619,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 658,
+  "EOS_NewPlayers": 653,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15412,6 +15412,11 @@
       "Time": "2023-12-28T05:06:12.1984974+00:00",
       "NumProgressed": 17617,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-28T06:04:27.3672603+00:00",
+      "NumProgressed": 17619,
+      "NumCompleted": 56
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15568,7 +15573,7 @@
       "Name": "Call it Even",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "27",
@@ -15680,7 +15685,7 @@
       "Name": "Zen Master",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "34",
@@ -15703,13 +15708,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17617,
+      "Progressed": 17619,
       "Completed": 56
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3571,
+      "Progressed": 3573,
       "Completed": 1083
     }
   ],
@@ -15717,8 +15722,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-27T06:00:51.7325186+00:00",
-  "LastChanged_Achievements": "2023-12-28T05:06:12.1984967+00:00",
+  "LastChanged_Achievements": "2023-12-28T06:04:27.3672599+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-28T05:01:55.4842363+00:00",
-  "LastUpdate_Achievements": "2023-12-28T05:06:12.1985727+00:00"
+  "LastUpdate_Ratings": "2023-12-28T06:00:03.6477903+00:00",
+  "LastUpdate_Achievements": "2023-12-28T06:04:27.3673306+00:00"
 }

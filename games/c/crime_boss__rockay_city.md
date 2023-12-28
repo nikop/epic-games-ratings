@@ -10,12 +10,12 @@ Rating: 3.95 (Ranked 1,041)
 | Neophyte Ninja | 3.00% | ~2,779 |
 | Too Old for This | 3.00% | ~2,779 |
 | Fancy Pants | 3.00% | ~2,779 |
-| Underworld Initiate | 2.00% | ~1,852 |
-| Case Closed | 2.00% | ~1,852 |
-| King of the Hill | 2.00% | ~1,852 |
-| Off the Rocks | 2.00% | ~1,852 |
-| Raider’s Ruin | 2.00% | ~1,852 |
-| Dragonslayer | 2.00% | ~1,852 |
+| Underworld Initiate | 2.00% | ~1,853 |
+| Case Closed | 2.00% | ~1,853 |
+| King of the Hill | 2.00% | ~1,853 |
+| Off the Rocks | 2.00% | ~1,853 |
+| Raider’s Ruin | 2.00% | ~1,853 |
+| Dragonslayer | 2.00% | ~1,853 |
 | Roid Ranger | 1.00% | ~926 |
 | Hidden Sonata | 1.00% | ~926 |
 | Track Star | 1.00% | ~926 |
@@ -31,7 +31,7 @@ Rating: 3.95 (Ranked 1,041)
 | Savvy Seeker | 0.50% | ~463 |
 | Olympus Ascended | 0.50% | ~463 |
 | Ding Dong | 0.50% | ~463 |
-| Cracked the Jack | 0.40% | ~370 |
+| Cracked the Jack | 0.40% | ~371 |
 | All that Glitters | 0.40% | ~84 |
 | Rockay Raider | 0.30% | ~278 |
 | Rockay Knight | 0.30% | ~278 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,041)
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,625 (Ranked 97)  
+Progressed: 92,628 (Ranked 97)  
 Completed: 58 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 58 (0.06%) (Ranked 327)
 | 2023-12-25 | 92,533 | 58 |
 | 2023-12-26 | 92,581 | 58 |
 | 2023-12-27 | 92,615 | 58 |
-| 2023-12-28 | 92,625 | 58 |
+| 2023-12-28 | 92,628 | 58 |
 ## Awards
 Max (Diverse Characters): 581  (Ranked 208)  
 Sum: 2,740 (Ranked 190)  

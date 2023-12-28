@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 623,
+  "EOS_Progressed": 624,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1624,6 +1624,11 @@
       "Time": "2023-12-28T04:10:59.896507+00:00",
       "NumProgressed": 623,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T06:09:36.0928024+00:00",
+      "NumProgressed": 624,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1651,7 +1656,7 @@
       "Name": "Artifact Collector",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "Assassin",
@@ -1667,7 +1672,7 @@
       "Name": "Boss Killer",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "BugHunter",
@@ -1699,7 +1704,7 @@
       "Name": "Ghost Buster",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "Gladiator",
@@ -1835,7 +1840,7 @@
       "Name": "Reincarnation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "Roughneck",
@@ -1915,15 +1920,15 @@
       "Name": "Trap Master",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "TreasureHunter",
       "SetID": "82505mn",
       "Name": "Treasure Hunter",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 44
     },
     {
       "ID": "Troubleshooter",
@@ -1954,7 +1959,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 623,
+      "Progressed": 624,
       "Completed": 1
     }
   ],
@@ -1962,8 +1967,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-28T05:11:14.4667509+00:00",
+  "LastChanged_Achievements": "2023-12-28T06:09:36.0928022+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:40.3461076+00:00",
-  "LastUpdate_Ratings": "2023-12-28T04:59:09.5490885+00:00",
-  "LastUpdate_Achievements": "2023-12-28T05:11:14.4667804+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:58:15.263741+00:00",
+  "LastUpdate_Achievements": "2023-12-28T06:09:36.0928311+00:00"
 }

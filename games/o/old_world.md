@@ -6,9 +6,9 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Explorer | 0.70% | ~112 |
 | Settler | 0.70% | ~112 |
 | Play a Single Player Game | 0.70% | ~112 |
-| Explorer | 0.60% | ~96 |
 | Friendly Family | 0.60% | ~96 |
 | Able | 0.50% | ~80 |
 | Architect | 0.50% | ~80 |
@@ -35,6 +35,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 0.40% | ~64 |
 | Regicide | 0.30% | ~48 |
 | Brilliant | 0.30% | ~48 |
+| Intercessor | 0.30% | ~48 |
 | Magnificent | 0.30% | ~48 |
 | Wise | 0.30% | ~48 |
 | Legendary Cities | 0.30% | ~48 |
@@ -57,7 +58,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.20% | ~32 |
 | Drillmaster | 0.20% | ~32 |
 | Great | 0.20% | ~32 |
-| Intercessor | 0.20% | ~32 |
 | Mighty | 0.20% | ~32 |
 | Valiant | 0.20% | ~32 |
 | Good Difficulty | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,979 (Ranked 164)  
+Progressed: 15,983 (Ranked 164)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -617,7 +617,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-25 | 15,949 | 5 |
 | 2023-12-26 | 15,966 | 5 |
 | 2023-12-27 | 15,978 | 5 |
-| 2023-12-28 | 15,979 | 5 |
+| 2023-12-28 | 15,983 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,911 (Ranked 220)  

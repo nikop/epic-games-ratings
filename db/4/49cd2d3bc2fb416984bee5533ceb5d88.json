@@ -4,7 +4,7 @@
   "ProductSlug": "tales-of-kenzera",
   "Ranking_EOS_Progress": 817,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2024-04-23T16:00:00+00:00",
@@ -31,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-22T06:56:56.8545788+00:00",
-  "LastUpdate_Ratings": "2023-12-28T05:01:34.523889+00:00",
-  "LastUpdate_Achievements": "2023-12-28T05:06:15.9888837+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:59:49.6161894+00:00",
+  "LastUpdate_Achievements": "2023-12-28T06:04:29.8090189+00:00"
 }

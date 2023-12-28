@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 257,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1092,9 +1092,9 @@
       "ID": "AnomalyDestroyer",
       "SetID": "1jeo1g7",
       "Name": "Anomaly Destroyer",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 80
     },
     {
       "ID": "AnomalyMaster",
@@ -1820,9 +1820,9 @@
       "ID": "LacertianChampion",
       "SetID": "1jeo1g7",
       "Name": "Lacertian Champion",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 57
     },
     {
       "ID": "LacertianHero",
@@ -1875,8 +1875,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-28T05:09:09.5790568+00:00",
+  "LastChanged_Achievements": "2023-12-28T06:08:09.8417627+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:02.5351328+00:00",
-  "LastUpdate_Ratings": "2023-12-28T04:57:46.0167856+00:00",
-  "LastUpdate_Achievements": "2023-12-28T05:09:09.5791622+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:57:22.0193193+00:00",
+  "LastUpdate_Achievements": "2023-12-28T06:08:09.841855+00:00"
 }

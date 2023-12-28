@@ -43,9 +43,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1378,
+  "EOS_Progressed": 1380,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 436,
+  "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -2708,6 +2708,11 @@
       "Time": "2023-12-28T05:11:13.0021179+00:00",
       "NumProgressed": 1378,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T06:09:35.1766696+00:00",
+      "NumProgressed": 1380,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2719,7 +2724,7 @@
       "Name": "Break Out",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 785
+      "UsersEstimate": 787
     },
     {
       "ID": "ACH_02",
@@ -2735,7 +2740,7 @@
       "Name": "Powerful Allies",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_04",
@@ -2743,7 +2748,7 @@
       "Name": "Calm before the Storm",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_05",
@@ -2775,7 +2780,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ACH_09",
@@ -2791,7 +2796,7 @@
       "Name": "Trinity",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ACH_11",
@@ -2831,7 +2836,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_16",
@@ -2959,7 +2964,7 @@
       "Name": "Stone Collection",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_33",
@@ -2975,7 +2980,7 @@
       "Name": "The Collector",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ACH_35",
@@ -3006,7 +3011,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1378,
+      "Progressed": 1380,
       "Completed": 3
     }
   ],
@@ -3014,8 +3019,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2023-12-27T23:57:06.3972881+00:00",
-  "LastChanged_Achievements": "2023-12-28T05:11:13.0021176+00:00",
+  "LastChanged_Achievements": "2023-12-28T06:09:35.1766692+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-28T04:57:27.0233771+00:00",
-  "LastUpdate_Achievements": "2023-12-28T05:11:13.0021449+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:57:09.4057775+00:00",
+  "LastUpdate_Achievements": "2023-12-28T06:09:35.1767028+00:00"
 }

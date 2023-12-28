@@ -4,7 +4,7 @@
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 377,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
@@ -1043,9 +1043,9 @@
       "ID": "DEFEATED_1000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Assassin",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 60,
-      "UsersEstimate": 129
+      "UsersEstimate": 132
     },
     {
       "ID": "DEFEATED_100_ENEMIES",
@@ -1075,9 +1075,9 @@
       "ID": "NEW_ACHIEVEMENT_0_0",
       "SetID": "14g34pl",
       "Name": "Peaceful is safe!",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 60,
-      "UsersEstimate": 143
+      "UsersEstimate": 145
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_0",
@@ -1162,8 +1162,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-12-28T05:08:43.2589281+00:00",
+  "LastChanged_Achievements": "2023-12-28T06:06:12.0555384+00:00",
   "LastUpdate_AppInfo": "2023-12-26T22:57:06.6108745+00:00",
-  "LastUpdate_Ratings": "2023-12-28T05:00:12.3653845+00:00",
-  "LastUpdate_Achievements": "2023-12-28T05:08:43.2589418+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:58:57.0079384+00:00",
+  "LastUpdate_Achievements": "2023-12-28T06:06:12.0555524+00:00"
 }

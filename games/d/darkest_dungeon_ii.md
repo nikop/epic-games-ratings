@@ -6,9 +6,10 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~568 |
-| Lost and Found | 7.00% | ~361 |
+| Malpractice Assurance | 11.00% | ~569 |
+| Lost and Found | 7.00% | ~362 |
 | This Belongs in a Museum | 5.00% | ~6,515 |
+| Overdue Notice | 5.00% | ~6,515 |
 | Autodidact | 5.00% | ~6,515 |
 | This guy... again? | 5.00% | ~258 |
 | Ploughshares to Swords | 5.00% | ~258 |
@@ -18,7 +19,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Creep and Sleep | 4.00% | ~5,212 |
 | Meat and Greet | 4.00% | ~5,212 |
 | Catch and Decease | 4.00% | ~5,212 |
-| Overdue Notice | 4.00% | ~5,212 |
 | Escape from the Black Hole | 4.00% | ~5,212 |
 | Rush Hour | 4.00% | ~5,212 |
 | To Grandmother's House | 4.00% | ~5,212 |
@@ -69,14 +69,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.70% | ~36 |
 | Et Tu, Riposte? | 0.70% | ~36 |
 | Hat Trick | 0.60% | ~782 |
-| The World As It Was | 0.50% | ~651 |
+| The World As It Was | 0.50% | ~652 |
 | A Life Well Lived | 0.40% | ~521 |
 | Bacon Bits | 0.40% | ~521 |
 | Eidetic | 0.40% | ~521 |
 | On This Long Road, We Found Redemption | 0.40% | ~21 |
 | Tears in the Rain | 0.30% | ~391 |
-| Battle Hardened | 0.30% | ~15 |
-| Maître De La Lame | 0.30% | ~15 |
+| Battle Hardened | 0.30% | ~16 |
+| Maître De La Lame | 0.30% | ~16 |
 | Loop Year | 0.10% | ~130 |
 | Circle of Life | 0.10% | ~130 |
 | No Gravestone Left Unturned | 0.10% | ~130 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,291 (Ranked 87)  
+Progressed: 130,301 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-25 | 129,858 | 3 |
 | 2023-12-26 | 130,068 | 3 |
 | 2023-12-27 | 130,259 | 3 |
-| 2023-12-28 | 130,291 | 3 |
+| 2023-12-28 | 130,301 | 3 |
 ## Awards
 Max (Character Customization): 7,888  (Ranked 50)  
 Sum: 21,180 (Ranked 58)  

@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,863 |
-| Life is your teacher | 4.00% | ~29,863 |
-| The Assault | 3.00% | ~22,397 |
-| Lightning Hands | 3.00% | ~22,397 |
+| The Old Grandmaster | 4.00% | ~29,865 |
+| Life is your teacher | 4.00% | ~29,865 |
+| The Assault | 3.00% | ~22,398 |
+| Lightning Hands | 3.00% | ~22,398 |
 | The Hateful Pole Fighter | 2.00% | ~14,932 |
 | A Lady's Blood in the Snow | 2.00% | ~14,932 |
 | Stuntmaster | 2.00% | ~14,932 |
@@ -28,15 +28,15 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 1.00% | ~7,466 |
 | Take damage to save time | 1.00% | ~7,466 |
 | Project Arena | 1.00% | ~559 |
-| Scareless | 0.90% | ~6,719 |
-| Kung-Fu Tussle | 0.90% | ~6,719 |
+| Scareless | 0.90% | ~6,720 |
+| Kung-Fu Tussle | 0.90% | ~6,720 |
 | Dance of the Praying Mantis | 0.80% | ~5,973 |
 | Fight the way you practice | 0.70% | ~391 |
 | Martial Hub | 0.60% | ~335 |
 | Muk Yan Master | 0.50% | ~3,733 |
 | Tiger on Fire | 0.50% | ~3,733 |
 | Detective Story | 0.50% | ~3,733 |
-| Bloody Sport | 0.50% | ~279 |
+| Bloody Sport | 0.50% | ~280 |
 | Source of Flying Daggers | 0.40% | ~2,986 |
 | Iron Money | 0.40% | ~2,986 |
 | Legendary Talismans of Wuxing | 0.40% | ~2,986 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~56 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 746,580 (Ranked 23)  
+Progressed: 746,613 (Ranked 23)  
 Completed: 12,967 (1.74%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 12,967 (1.74%) (Ranked 141)
 | 2023-12-25 | 744,462 | 12,966 |
 | 2023-12-26 | 745,555 | 12,967 |
 | 2023-12-27 | 746,407 | 12,967 |
-| 2023-12-28 | 746,580 | 12,967 |
+| 2023-12-28 | 746,613 | 12,967 |
 ## Awards
 Max (Great Boss Battles): 7,028  (Ranked 55)  
 Sum: 11,890 (Ranked 87)  

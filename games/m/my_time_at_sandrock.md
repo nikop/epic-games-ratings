@@ -33,7 +33,7 @@ Number of Ratings: 892  (23.09.2022)
 | Panda-kin | 68.00% | ~490 |
 | What Plants Crave | 65.00% | ~468 |
 | Elementary, My Dear | 65.00% | ~468 |
-| Builder of the Month | 62.00% | ~446 |
+| Builder of the Month | 63.00% | ~454 |
 | Lifeline Pipeline | 62.00% | ~446 |
 | Waste Not Want Not | 61.00% | ~439 |
 | Martle's Dream | 59.00% | ~425 |
@@ -46,7 +46,7 @@ Number of Ratings: 892  (23.09.2022)
 | Got the Flow Back | 52.00% | ~374 |
 | Call Me Fishmael | 52.00% | ~374 |
 | Time Flies | 50.00% | ~360 |
-| Sepia Toned Memories | 49.00% | ~353 |
+| Sepia Toned Memories | 50.00% | ~360 |
 | Who Ya Gonna Call...? | 48.00% | ~346 |
 | Kind of a Big Deal | 46.00% | ~331 |
 | Jewel of the Eufaula | 44.00% | ~317 |

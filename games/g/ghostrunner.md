@@ -7,26 +7,26 @@ Number of Ratings: 1,047  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Longrunner | 76.00% | ~19,195 |
-| Sword Runner | 61.00% | ~15,406 |
+| Sword Runner | 61.00% | ~15,407 |
 | Running out of breath | 53.00% | ~13,386 |
 | Wallrunner | 53.00% | ~13,386 |
 | Homerunner | 44.00% | ~11,113 |
 | Out of order | 44.00% | ~11,113 |
-| I call it luck | 43.00% | ~10,860 |
-| Where are my Keys? | 40.00% | ~10,102 |
-| Back to hell | 36.00% | ~9,092 |
+| I call it luck | 43.00% | ~10,861 |
+| Where are my Keys? | 40.00% | ~10,103 |
+| Back to hell | 36.00% | ~9,093 |
 | Perfection | 32.00% | ~8,082 |
-| Sword to a gunfight | 29.00% | ~7,324 |
-| Upgrades not mandatory | 29.00% | ~7,324 |
-| Why not both | 29.00% | ~7,324 |
+| Sword to a gunfight | 29.00% | ~7,325 |
+| Upgrades not mandatory | 29.00% | ~7,325 |
+| Why not both | 29.00% | ~7,325 |
 | Artificial selection | 27.00% | ~6,819 |
 | Control freak | 27.00% | ~6,819 |
 | Running Wild | 26.00% | ~6,567 |
 | Finish line | 25.00% | ~6,314 |
-| Unstoppable force | 22.00% | ~5,556 |
+| Unstoppable force | 22.00% | ~5,557 |
 | Wave of mutilation | 21.00% | ~5,304 |
 | Can't Run Can't Hide | 16.00% | ~4,041 |
-| R is for Running | 15.00% | ~3,788 |
+| R is for Running | 15.00% | ~3,789 |
 | Dead in the air | 14.00% | ~3,536 |
 | Improvise, adapt, overrun | 12.00% | ~3,031 |
 | Pre-empative strike | 12.00% | ~3,031 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | GR Project Complete | 0.40% | ~101 |
 | Up Close And Personal | 0.40% | ~101 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,256 (Ranked 143)  
+Progressed: 25,257 (Ranked 143)  
 Completed: 98 (0.39%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 98 (0.39%) (Ranked 235)
 | 2023-12-25 | 25,095 | 95 |
 | 2023-12-26 | 25,180 | 98 |
 | 2023-12-27 | 25,248 | 98 |
-| 2023-12-28 | 25,256 | 98 |
+| 2023-12-28 | 25,257 | 98 |
 ## Awards
 Max (Great Boss Battles): 530  (Ranked 213)  
 Sum: 716 (Ranked 303)  

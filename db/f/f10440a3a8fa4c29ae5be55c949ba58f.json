@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3908,
+  "EOS_Progressed": 3916,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 3881,
+  "EOS_NewPlayers": 3888,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -834,6 +834,11 @@
       "Time": "2023-12-28T05:10:13.0638069+00:00",
       "NumProgressed": 3908,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-28T06:08:52.9614953+00:00",
+      "NumProgressed": 3916,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -846,7 +851,7 @@
       "Name": "Final Destination",
       "Percentage": 51,
       "XP": 200,
-      "UsersEstimate": 1993
+      "UsersEstimate": 1997
     },
     {
       "ID": "Document1",
@@ -862,7 +867,7 @@
       "Name": "Document Discoverer",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "Document3",
@@ -909,14 +914,14 @@
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 3908,
+      "Progressed": 3916,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2023-12-28T05:10:13.0638065+00:00",
+  "LastChanged_Achievements": "2023-12-28T06:08:52.9614951+00:00",
   "LastUpdate_AppInfo": "2023-12-24T20:56:57.0672179+00:00",
-  "LastUpdate_Ratings": "2023-12-28T04:57:32.8017271+00:00",
-  "LastUpdate_Achievements": "2023-12-28T05:10:13.0638156+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:57:12.5708071+00:00",
+  "LastUpdate_Achievements": "2023-12-28T06:08:52.9615041+00:00"
 }

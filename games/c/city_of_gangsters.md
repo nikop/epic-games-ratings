@@ -5,17 +5,17 @@ Rating: 4.29 (Ranked 867)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~165,111 |
-| Copacetic Coordination | 16.00% | ~57,430 |
+| Corner Clout | 46.00% | ~165,113 |
+| Copacetic Coordination | 16.00% | ~57,431 |
 | Fronting the Money | 15.00% | ~53,841 |
-| The Dawn of Automation | 14.00% | ~50,251 |
-| Extraordinary Logistics | 14.00% | ~50,251 |
+| The Dawn of Automation | 14.00% | ~50,252 |
+| Extraordinary Logistics | 14.00% | ~50,252 |
 | Dirty Money | 13.00% | ~46,662 |
 | Family First | 13.00% | ~46,662 |
 | Cleaning House | 12.00% | ~43,073 |
 | Room in the Back | 12.00% | ~43,073 |
-| Beating the Heat | 11.00% | ~39,483 |
-| Booze Baron | 11.00% | ~39,483 |
+| Beating the Heat | 11.00% | ~39,484 |
+| Booze Baron | 11.00% | ~39,484 |
 | Friends on the Force | 10.00% | ~35,894 |
 | Neighborhood Watch | 10.00% | ~35,894 |
 | Core Corps | 8.00% | ~28,715 |
@@ -23,12 +23,12 @@ Rating: 4.29 (Ranked 867)
 | Street Fighter | 7.00% | ~25,126 |
 | Friendly Gestures | 7.00% | ~25,126 |
 | People Person | 7.00% | ~25,126 |
-| Liquor Lord | 6.00% | ~21,536 |
-| Safety in Numbers | 6.00% | ~21,536 |
-| Moving Experiences | 6.00% | ~21,536 |
-| Wise Head | 6.00% | ~21,536 |
-| Show ‘em the Sugar | 6.00% | ~21,536 |
-| Killing Them Softly | 6.00% | ~21,536 |
+| Liquor Lord | 6.00% | ~21,537 |
+| Safety in Numbers | 6.00% | ~21,537 |
+| Moving Experiences | 6.00% | ~21,537 |
+| Wise Head | 6.00% | ~21,537 |
+| Show ‘em the Sugar | 6.00% | ~21,537 |
+| Killing Them Softly | 6.00% | ~21,537 |
 | Street Knowledge | 5.00% | ~17,947 |
 | Oh Captain | 5.00% | ~17,947 |
 | Branching Out | 5.00% | ~17,947 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 867)
 | High Pillow | 0.10% | ~359 |
 | Station Master | 0.10% | ~359 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 358,938 (Ranked 51)  
+Progressed: 358,942 (Ranked 51)  
 Completed: 7 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,11 +338,11 @@ Completed: 7 (0.00%) (Ranked 389)
 | 2023-12-25 | 358,511 | 7 |
 | 2023-12-26 | 358,697 | 7 |
 | 2023-12-27 | 358,887 | 7 |
-| 2023-12-28 | 358,938 | 7 |
+| 2023-12-28 | 358,942 | 7 |
 ## Awards
 Max (Great for Beginners): 57  (Ranked 428)  
-Sum: 263 (Ranked 394)  
-Diff (max vs sum): 34  
+Sum: 264 (Ranked 392)  
+Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 57 |
@@ -353,7 +353,7 @@ Diff (max vs sum): 34
 | This game has Quickly Understood Controls | 27 |
 | This game has Easy Combat | 25 |
 | This game has Amazing Storytelling | 22 |
-| This game has Unique Visuals | 20 |
+| This game has Unique Visuals | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -483,4 +483,4 @@ Diff (max vs sum): 34
 | 2023-12-25 | 4.29 | 57 | 261 |
 | 2023-12-26 | 4.28 | 57 | 261 |
 | 2023-12-27 | 4.28 | 57 | 263 |
-| 2023-12-28 | 4.29 | 57 | 263 |
+| 2023-12-28 | 4.29 | 57 | 264 |

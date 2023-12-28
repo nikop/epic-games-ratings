@@ -27,7 +27,7 @@ Rating: 4.79 (Ranked 101)
 | Accursed Artifacts | 9.00% | ~119 |
 | Lyrical Longing | 9.00% | ~119 |
 | Fully Decked | 7.00% | ~93 |
-| Corsair | 5.00% | ~66 |
+| Corsair | 6.00% | ~79 |
 | Freebooter | 4.00% | ~53 |
 | Marauder | 3.00% | ~40 |
 | Welcome Back Jester | 3.00% | ~40 |

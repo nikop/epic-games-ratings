@@ -6,35 +6,35 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 5.00% | ~56,199 |
-| Zealous | 4.00% | ~44,959 |
-| Not half bad | 4.00% | ~44,959 |
-| Skillful | 4.00% | ~44,959 |
-| Handyman | 3.00% | ~33,719 |
-| Apt Survivor | 3.00% | ~33,719 |
-| Survival Treasures | 3.00% | ~33,719 |
-| I | 3.00% | ~33,719 |
-| Sorted | 3.00% | ~33,719 |
-| Make Some Noise | 3.00% | ~33,719 |
-| The Grand Sacrifice | 2.00% | ~22,480 |
-| Agonizing Escape | 2.00% | ~22,480 |
-| Backdoor Escape | 2.00% | ~22,480 |
-| I've got your back | 2.00% | ~22,480 |
-| No one left behind | 2.00% | ~22,480 |
-| Medic | 2.00% | ~22,480 |
-| Perfect Escape | 2.00% | ~22,480 |
-| Perfect Killing | 2.00% | ~22,480 |
-| Bloody Millionaire | 2.00% | ~22,480 |
-| Apt Killer | 2.00% | ~22,480 |
-| Risk it all | 2.00% | ~22,480 |
-| II | 2.00% | ~22,480 |
-| Engineer | 2.00% | ~22,480 |
-| Wounded Healer | 2.00% | ~22,480 |
-| Healthy Obsession | 2.00% | ~22,480 |
-| Resurgence | 2.00% | ~22,480 |
-| Close Shave | 2.00% | ~22,480 |
-| Preemptive Strike | 2.00% | ~22,480 |
-| Humanitarian | 2.00% | ~22,480 |
+| It wakes | 5.00% | ~56,202 |
+| Zealous | 4.00% | ~44,962 |
+| Not half bad | 4.00% | ~44,962 |
+| Skillful | 4.00% | ~44,962 |
+| Handyman | 3.00% | ~33,721 |
+| Apt Survivor | 3.00% | ~33,721 |
+| Survival Treasures | 3.00% | ~33,721 |
+| I | 3.00% | ~33,721 |
+| Sorted | 3.00% | ~33,721 |
+| Make Some Noise | 3.00% | ~33,721 |
+| The Grand Sacrifice | 2.00% | ~22,481 |
+| Agonizing Escape | 2.00% | ~22,481 |
+| Backdoor Escape | 2.00% | ~22,481 |
+| I've got your back | 2.00% | ~22,481 |
+| No one left behind | 2.00% | ~22,481 |
+| Medic | 2.00% | ~22,481 |
+| Perfect Escape | 2.00% | ~22,481 |
+| Perfect Killing | 2.00% | ~22,481 |
+| Bloody Millionaire | 2.00% | ~22,481 |
+| Apt Killer | 2.00% | ~22,481 |
+| Risk it all | 2.00% | ~22,481 |
+| II | 2.00% | ~22,481 |
+| Engineer | 2.00% | ~22,481 |
+| Wounded Healer | 2.00% | ~22,481 |
+| Healthy Obsession | 2.00% | ~22,481 |
+| Resurgence | 2.00% | ~22,481 |
+| Close Shave | 2.00% | ~22,481 |
+| Preemptive Strike | 2.00% | ~22,481 |
+| Humanitarian | 2.00% | ~22,481 |
 | Blood on your hands | 1.00% | ~11,240 |
 | Escape Artist | 1.00% | ~11,240 |
 | Made it out alive! | 1.00% | ~11,240 |
@@ -43,6 +43,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | III | 1.00% | ~11,240 |
 | III-50 | 1.00% | ~11,240 |
 | Item of Obsession | 1.00% | ~11,240 |
+| House of Pain | 1.00% | ~11,240 |
 | Holiday Get-Together | 1.00% | ~11,240 |
 | Near-Death Experience | 1.00% | ~11,240 |
 | Cherish your Life | 1.00% | ~11,240 |
@@ -63,7 +64,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Nerves of steel | 0.90% | ~10,116 |
 | Shock Therapy | 0.90% | ~10,116 |
 | All Aboard | 0.90% | ~10,116 |
-| House of Pain | 0.90% | ~10,116 |
 | Ancestor's Rite | 0.90% | ~10,116 |
 | Outrun Evil | 0.90% | ~10,116 |
 | MU/TH/UR Dearest | 0.90% | ~10,116 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,124 |
 | Adept Good Guy | 0.10% | ~1,124 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,123,982 (Ranked 13)  
+Progressed: 1,124,047 (Ranked 13)  
 Completed: 65 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -491,7 +491,7 @@ Completed: 65 (0.01%) (Ranked 367)
 | 2023-12-25 | 1,118,749 | 65 |
 | 2023-12-26 | 1,121,100 | 65 |
 | 2023-12-27 | 1,123,455 | 65 |
-| 2023-12-28 | 1,123,982 | 65 |
+| 2023-12-28 | 1,124,047 | 65 |
 ## Awards
 Max (Diverse Characters): 38,689  (Ranked 15)  
 Sum: 292,521 (Ranked 12)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -848,9 +848,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5874,
+  "EOS_Progressed": 5875,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11983,6 +11983,11 @@
       "Time": "2023-12-28T04:04:40.3420908+00:00",
       "NumProgressed": 5874,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-28T06:03:27.2589794+00:00",
+      "NumProgressed": 5875,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12035,7 +12040,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -12043,7 +12048,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -12067,7 +12072,7 @@
       "Name": "The Fourth Gate",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "MF_Ach_HarderTheyFall",
@@ -12083,7 +12088,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -12115,7 +12120,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -12131,7 +12136,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -12163,7 +12168,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -12171,22 +12176,22 @@
       "Name": "Vexed Her",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5874,
+      "Progressed": 5875,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2023-12-28T05:04:44.5812293+00:00",
+  "LastChanged_Achievements": "2023-12-28T06:03:27.258979+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:25.4849752+00:00",
-  "LastUpdate_Ratings": "2023-12-28T05:00:54.9900162+00:00",
-  "LastUpdate_Achievements": "2023-12-28T05:04:44.5813002+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:59:24.8962447+00:00",
+  "LastUpdate_Achievements": "2023-12-28T06:03:27.2590328+00:00"
 }

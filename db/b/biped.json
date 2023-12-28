@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9008,
+  "EOS_Progressed": 9011,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 628,
+  "EOS_NewPlayers": 626,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15209,6 +15209,11 @@
       "Time": "2023-12-28T04:08:17.4232765+00:00",
       "NumProgressed": 9008,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T06:06:10.0998933+00:00",
+      "NumProgressed": 9011,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -15220,7 +15225,7 @@
       "Name": "First Step",
       "Percentage": 34,
       "XP": 45,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "10",
@@ -15276,7 +15281,7 @@
       "Name": "Dense Forest",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2432
+      "UsersEstimate": 2433
     },
     {
       "ID": "3",
@@ -15308,7 +15313,7 @@
       "Name": "High Treetops",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "7",
@@ -15316,7 +15321,7 @@
       "Name": "Blue Rapids",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "8",
@@ -15332,14 +15337,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 9008,
+      "Progressed": 9011,
       "Completed": 0
     }
   ],
@@ -15347,8 +15352,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-12-28T05:08:40.4485992+00:00",
+  "LastChanged_Achievements": "2023-12-28T06:06:10.099893+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:07.1374216+00:00",
-  "LastUpdate_Ratings": "2023-12-28T05:00:34.7283201+00:00",
-  "LastUpdate_Achievements": "2023-12-28T05:08:40.4486779+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:59:11.354345+00:00",
+  "LastUpdate_Achievements": "2023-12-28T06:06:10.0999729+00:00"
 }

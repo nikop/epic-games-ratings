@@ -249,9 +249,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 1867,
+  "EOS_Progressed": 1868,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 363,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4419,6 +4419,11 @@
       "Time": "2023-12-28T03:04:58.2505488+00:00",
       "NumProgressed": 1867,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T06:04:35.5109414+00:00",
+      "NumProgressed": 1868,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -4439,7 +4444,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "AC02",
@@ -4447,7 +4452,7 @@
       "Name": "Blood and Dust",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1195
+      "UsersEstimate": 1196
     },
     {
       "ID": "AC03",
@@ -4471,7 +4476,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "AC06",
@@ -4487,7 +4492,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "AC08",
@@ -4519,7 +4524,7 @@
       "Name": "A Heart of Gold",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "AC12",
@@ -4543,7 +4548,7 @@
       "Name": "Acta, Non Verba",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "AC15",
@@ -4567,7 +4572,7 @@
       "Name": "Second Pilgrimage",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "AC18",
@@ -4575,7 +4580,7 @@
       "Name": "Acquired Taste",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "AC19",
@@ -4735,7 +4740,7 @@
       "Name": "Edge of Orison",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "AC39",
@@ -4751,7 +4756,7 @@
       "Name": "Welcome Back!",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 1456
+      "UsersEstimate": 1457
     },
     {
       "ID": "AC41",
@@ -4798,7 +4803,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 1867,
+      "Progressed": 1868,
       "Completed": 0
     }
   ],
@@ -4806,8 +4811,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-28T05:02:31.3995097+00:00",
-  "LastChanged_Achievements": "2023-12-28T05:06:24.0962372+00:00",
+  "LastChanged_Achievements": "2023-12-28T06:04:35.5109407+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:24.8809366+00:00",
-  "LastUpdate_Ratings": "2023-12-28T05:02:31.3995102+00:00",
-  "LastUpdate_Achievements": "2023-12-28T05:06:24.0962803+00:00"
+  "LastUpdate_Ratings": "2023-12-28T06:00:27.8491038+00:00",
+  "LastUpdate_Achievements": "2023-12-28T06:04:35.5109857+00:00"
 }

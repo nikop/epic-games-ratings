@@ -13,8 +13,8 @@ Rating: 4.52 (Ranked 567)
 | Notai Notes | 66.00% | ~898 |
 | Krugmazing | 64.00% | ~871 |
 | Cutie Poro | 64.00% | ~871 |
+| The Fire Below the Mountain | 61.00% | ~830 |
 | Moneyball | 60.00% | ~817 |
-| The Fire Below the Mountain | 60.00% | ~817 |
 | No Bites | 55.00% | ~749 |
 | Iceborn | 55.00% | ~749 |
 | Boom Things | 53.00% | ~721 |

@@ -3796,9 +3796,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 241867,
+  "EOS_Progressed": 241871,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 494,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29801,6 +29801,11 @@
       "Time": "2023-12-28T04:11:06.776436+00:00",
       "NumProgressed": 241867,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-28T06:09:41.895513+00:00",
+      "NumProgressed": 241871,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -30626,9 +30631,9 @@
       "ID": "USESHRINE",
       "SetID": "5l8oe0h",
       "Name": "An Offering",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1935
+      "UsersEstimate": 2177
     },
     {
       "ID": "VISIT35DUNGEONS",
@@ -30908,29 +30913,29 @@
       "Name": "Matching",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     }
   ],
   "AchievementSets": [
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241867,
+      "Progressed": 241871,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3347,
-      "Completed": 414
+      "Progressed": 3351,
+      "Completed": 415
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-27T23:00:02.6538244+00:00",
-  "LastChanged_Achievements": "2023-12-28T05:11:21.472658+00:00",
+  "LastChanged_Achievements": "2023-12-28T06:09:41.8955127+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-28T05:00:29.6646619+00:00",
-  "LastUpdate_Achievements": "2023-12-28T05:11:21.4729354+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:59:08.2369716+00:00",
+  "LastUpdate_Achievements": "2023-12-28T06:09:41.8957836+00:00"
 }

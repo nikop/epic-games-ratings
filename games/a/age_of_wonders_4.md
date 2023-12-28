@@ -25,17 +25,17 @@ Rating: 4.63 (Ranked 353)
 | Digging for Treasure | 3.00% | ~191 |
 | My Final Form | 3.00% | ~191 |
 | Freed Lands of Manuhari | 3.00% | ~191 |
-| Crimson Caldera | 2.00% | ~127 |
-| Preparation Is Everything | 2.00% | ~127 |
-| Fiery Friend | 2.00% | ~127 |
-| Against the Odds | 2.00% | ~127 |
-| Impenetrable Fortress | 2.00% | ~127 |
-| Here be Dragons | 2.00% | ~127 |
-| Tipping the Scales | 2.00% | ~127 |
-| Mighty Hoard | 2.00% | ~127 |
-| Sehiran Oasis | 2.00% | ~127 |
-| Chaos Surge | 2.00% | ~127 |
-| Spoils of War | 2.00% | ~127 |
+| Crimson Caldera | 2.00% | ~128 |
+| Preparation Is Everything | 2.00% | ~128 |
+| Fiery Friend | 2.00% | ~128 |
+| Against the Odds | 2.00% | ~128 |
+| Impenetrable Fortress | 2.00% | ~128 |
+| Here be Dragons | 2.00% | ~128 |
+| Tipping the Scales | 2.00% | ~128 |
+| Mighty Hoard | 2.00% | ~128 |
+| Sehiran Oasis | 2.00% | ~128 |
+| Chaos Surge | 2.00% | ~128 |
+| Spoils of War | 2.00% | ~128 |
 | I've Got Everything I Need Right Here | 1.00% | ~64 |
 | God Emperor | 1.00% | ~64 |
 | Lord of Chaos | 1.00% | ~64 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 353)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,374 (Ranked 194)  
+Progressed: 6,375 (Ranked 194)  
 Completed: 7 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 7 (0.11%) (Ranked 304)
 | 2023-12-25 | 6,213 | 7 |
 | 2023-12-26 | 6,285 | 7 |
 | 2023-12-27 | 6,359 | 7 |
-| 2023-12-28 | 6,374 | 7 |
+| 2023-12-28 | 6,375 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 481)  
 Sum: 140 (Ranked 439)  

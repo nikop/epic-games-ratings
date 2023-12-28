@@ -6,11 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,915 |
+| A Brief Tour of the Realms | 2.00% | ~4,916 |
 | The Cursed Farmer | 0.80% | ~1,966 |
 | Welcome to Sigil | 0.70% | ~1,484 |
-| Beast Intentions | 0.60% | ~1,474 |
-| The Mad Wizard | 0.60% | ~1,474 |
+| Beast Intentions | 0.60% | ~1,475 |
+| The Mad Wizard | 0.60% | ~1,475 |
 | Fast Food | 0.60% | ~1,272 |
 | The Ring of Regeneration | 0.40% | ~983 |
 | The Overgrown Grove | 0.40% | ~848 |
@@ -26,13 +26,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | When Tentacles Attack | 0.30% | ~636 |
 | Don't Lose Your Head | 0.30% | ~636 |
 | Mind Spike | 0.30% | ~636 |
-| Maddening | 0.20% | ~491 |
-| A Persistent Buzzing | 0.20% | ~491 |
-| Terror in the Dark | 0.20% | ~491 |
-| Unearthed Evil | 0.20% | ~491 |
-| The Crumbling Temple | 0.20% | ~491 |
-| Exploring Port Nyanzaru | 0.20% | ~491 |
-| Pure Energy | 0.20% | ~491 |
+| Maddening | 0.20% | ~492 |
+| A Persistent Buzzing | 0.20% | ~492 |
+| Terror in the Dark | 0.20% | ~492 |
+| Unearthed Evil | 0.20% | ~492 |
+| The Crumbling Temple | 0.20% | ~492 |
+| Exploring Port Nyanzaru | 0.20% | ~492 |
+| Pure Energy | 0.20% | ~492 |
 | Arcane Suppression | 0.20% | ~424 |
 | Welcome to the Vrocks | 0.20% | ~424 |
 | Pros and CONs | 0.10% | ~246 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~212 |
 | The Brains of an Illithid's Desire | 0.10% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,748 (Ranked 67)  
+Progressed: 245,776 (Ranked 67)  
 Completed: 2,569 (1.05%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -805,7 +805,7 @@ Completed: 2,569 (1.05%) (Ranked 168)
 | 2023-12-25 | 244,638 | 2,562 |
 | 2023-12-26 | 245,031 | 2,566 |
 | 2023-12-27 | 245,531 | 2,567 |
-| 2023-12-28 | 245,748 | 2,569 |
+| 2023-12-28 | 245,776 | 2,569 |
 ## Awards
 Max (Great for Beginners): 5,701  (Ranked 71)  
 Sum: 33,129 (Ranked 41)  

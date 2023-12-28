@@ -10242,9 +10242,9 @@
       "Count": 1059
     }
   ],
-  "EOS_Progressed": 130291,
+  "EOS_Progressed": 130301,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1469,
+  "EOS_NewPlayers": 1465,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37167,6 +37167,11 @@
       "Time": "2023-12-28T05:10:27.0117895+00:00",
       "NumProgressed": 130291,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T06:09:02.6306639+00:00",
+      "NumProgressed": 130301,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37266,7 +37271,7 @@
       "Name": "The World As It Was",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "altar_of_hope_upgrade_total_half",
@@ -37400,9 +37405,9 @@
       "ID": "combat_kill_librarian",
       "SetID": "64l4lke",
       "Name": "Overdue Notice",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 5212
+      "UsersEstimate": 6515
     },
     {
       "ID": "combat_kill_pillagers",
@@ -37698,7 +37703,7 @@
       "Name": "Battle Hardened",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "altar_of_hope_memory_equip_all_duelist",
@@ -37706,7 +37711,7 @@
       "Name": "Ma\u00EEtre De La Lame",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "combat_kill_chirurgeon",
@@ -37714,7 +37719,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "combat_kill_collector",
@@ -37778,7 +37783,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -37809,21 +37814,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130291,
+      "Progressed": 130301,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5160,
+      "Progressed": 5170,
       "Completed": 812
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-28T02:59:19.4647315+00:00",
-  "LastChanged_Achievements": "2023-12-28T05:10:27.011789+00:00",
+  "LastChanged_Achievements": "2023-12-28T06:09:02.6306634+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-28T05:01:00.3653937+00:00",
-  "LastUpdate_Achievements": "2023-12-28T05:10:27.0119587+00:00"
+  "LastUpdate_Ratings": "2023-12-28T05:59:28.1276761+00:00",
+  "LastUpdate_Achievements": "2023-12-28T06:09:02.6308674+00:00"
 }
