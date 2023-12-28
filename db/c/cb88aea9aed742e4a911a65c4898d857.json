@@ -203,9 +203,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 8350,
+  "EOS_Progressed": 8369,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2343,
+  "EOS_NewPlayers": 2341,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2753,6 +2753,11 @@
       "Time": "2023-12-28T19:10:31.8274702+00:00",
       "NumProgressed": 8350,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T20:10:09.0798139+00:00",
+      "NumProgressed": 8369,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -2763,9 +2768,9 @@
       "ID": "02_TheIntrigue",
       "SetID": "37a94m8",
       "Name": "Conspiracy",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "03_TheStolenStar",
@@ -2787,9 +2792,9 @@
       "ID": "05_TheComorraghSurvivors",
       "SetID": "37a94m8",
       "Name": "Commorragh Survivors",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -2851,9 +2856,9 @@
       "ID": "13_TheDoomTrader",
       "SetID": "37a94m8",
       "Name": "Doom Trader",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "14_TheBreezeOfPain",
@@ -2867,9 +2872,9 @@
       "ID": "15_Pentakill",
       "SetID": "37a94m8",
       "Name": "Pentakill",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "16_TheRise",
@@ -2939,9 +2944,9 @@
       "ID": "24_TheHighrise",
       "SetID": "37a94m8",
       "Name": "Highrise",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "25_DynastyProspers",
@@ -2971,17 +2976,17 @@
       "ID": "28_TheLightOfAstronomicon",
       "SetID": "37a94m8",
       "Name": "Light of the Astronomican",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "29_NoStoneUnturned",
       "SetID": "37a94m8",
       "Name": "No Stone Unturned",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "30_The GreatestExploration",
@@ -3083,17 +3088,17 @@
       "ID": "42_TheIronJudgement",
       "SetID": "37a94m8",
       "Name": "Iron Judgement",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
       "SetID": "37a94m8",
       "Name": "No Place Like Home",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -3115,9 +3120,9 @@
       "ID": "46_ASpark",
       "SetID": "37a94m8",
       "Name": "A Spark",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "47_AFlame",
@@ -3179,33 +3184,33 @@
       "ID": "54_ThisIsAJobForLordCaptain",
       "SetID": "37a94m8",
       "Name": "This Is a Job for the Lord Captain!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "55_ReturningTheBoots",
       "SetID": "37a94m8",
       "Name": "Returning the Boots",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "56_ThoroughInvestigation",
       "SetID": "37a94m8",
       "Name": "Thorough Investigation",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "57_TheBurningHeritage",
       "SetID": "37a94m8",
       "Name": "Burning Inheritance",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "58_KneeDeepInChaos",
@@ -3243,9 +3248,9 @@
       "ID": "62_TheInvisibleBureaucracy",
       "SetID": "37a94m8",
       "Name": "Invisible Bureaucracy",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "63_YouShouldGoToAnotherWindow",
@@ -3284,7 +3289,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8350,
+      "Progressed": 8369,
       "Completed": 0
     }
   ],
@@ -3292,8 +3297,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-28T13:57:33.384002+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:10:31.8274697+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:10:09.0798131+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-28T18:57:52.1178761+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:10:31.8275311+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:57:33.8267114+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:10:09.0798868+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -1829,9 +1829,9 @@
       "ID": "8",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s On Fire",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 214
     },
     {
       "ID": "9",
@@ -2020,8 +2020,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:07:05.2676144+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:06:44.2184945+00:00",
   "LastUpdate_AppInfo": "2023-12-26T02:16:12.1403657+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:00:08.9422955+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:07:05.2676395+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:59:50.182016+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:06:44.2185234+00:00"
 }

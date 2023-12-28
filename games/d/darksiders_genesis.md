@@ -1,24 +1,24 @@
 # Darksiders Genesis
 [Store](https://store.epicgames.com/en-US/p/darksiders-genesis)  
 [View Rawdata](../../db/d/darksiders_genesis.json)  
-Rating: 4.49 (Ranked 627)  
+Rating: 4.49 (Ranked 629)  
 Number of Ratings: 67  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mint I | 5.00% | ~13 |
 | Soul Cache | 5.00% | ~13 |
-| Astarte | 2.00% | ~5 |
-| Close the Rift | 2.00% | ~5 |
 | Mammon | 2.00% | ~5 |
-| Master of War | 2.00% | ~5 |
-| The Dead Court | 2.00% | ~5 |
+| Astarte | 1.00% | ~3 |
+| Close the Rift | 1.00% | ~3 |
 | Demolition Derby | 1.00% | ~3 |
 | Hell's Forge | 1.00% | ~3 |
 | Master of Strife | 1.00% | ~3 |
+| Master of War | 1.00% | ~3 |
+| The Dead Court | 1.00% | ~3 |
 | Why'd It Have to Be Snakes? | 1.00% | ~3 |
-| Good Deeds | 0.80% | ~2 |
-| Mint II | 0.80% | ~2 |
+| Good Deeds | 0.70% | ~2 |
+| Mint II | 0.70% | ~2 |
 | A Bullet for All Seasons | 0.40% | ~1 |
 | Are You Not Entertained? | 0.40% | ~1 |
 | Collector | 0.40% | ~1 |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Respect For Animals | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266 (Ranked 394)  
+Progressed: 268 (Ranked 394)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,7 +52,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 221 | 0 |
 | 2023-12-26 | 236 | 0 |
 | 2023-12-27 | 256 | 0 |
-| 2023-12-28 | 266 | 0 |
+| 2023-12-28 | 268 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 463)  
 Sum: 45 (Ranked 507)  

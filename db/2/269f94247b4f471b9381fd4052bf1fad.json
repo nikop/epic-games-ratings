@@ -4,7 +4,7 @@
   "ProductSlug": "born-of-bread-008e66",
   "Ranking_EOS_Progress": 558,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -284,9 +284,9 @@
       "ID": "ACH_BREAD-AND-BREAKFAST",
       "SetID": "6lg1p1e",
       "Name": "Bread and Breakfast",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_COSPLAY",
@@ -380,9 +380,9 @@
       "ID": "ACH_LITTLE-ARSONIST",
       "SetID": "6lg1p1e",
       "Name": "Little Arsonist",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_LOREMASTER",
@@ -452,9 +452,9 @@
       "ID": "ACH_PRIVATE-EYE",
       "SetID": "6lg1p1e",
       "Name": "Private Eye",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_PRO-EXCAVATOR",
@@ -539,8 +539,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:09:15.7390795+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:08:53.1892994+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:55.0544104+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:01:12.7949222+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:09:15.7391027+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:00:54.4858283+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:08:53.1893319+00:00"
 }

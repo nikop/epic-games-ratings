@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252,
+  "EOS_Progressed": 253,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1011,6 +1011,11 @@
       "Time": "2023-12-28T18:05:22.8708457+00:00",
       "NumProgressed": 252,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T20:06:15.1329708+00:00",
+      "NumProgressed": 253,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -1022,7 +1027,7 @@
       "Name": "Randomized",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Vanilla_Abolitionists",
@@ -1164,9 +1169,9 @@
       "ID": "Vanilla_CombatStrenghtTier1",
       "SetID": "27kik8p",
       "Name": "Tactician",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 23
     },
     {
       "ID": "Vanilla_CombatStrenghtTier2",
@@ -1700,9 +1705,9 @@
       "ID": "Vanilla_ThePackage",
       "SetID": "27kik8p",
       "Name": "The Package",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 66
     },
     {
       "ID": "Vanilla_ThePilgrimageEnds",
@@ -1813,7 +1818,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 252,
+      "Progressed": 253,
       "Completed": 0
     }
   ],
@@ -1821,8 +1826,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:06:36.0134623+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:06:15.1329704+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:00.8212295+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:00:51.3850333+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:06:36.0135466+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:00:32.0830661+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:06:15.1330697+00:00"
 }

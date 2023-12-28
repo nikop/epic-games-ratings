@@ -6,8 +6,8 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 234,
-  "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -4367,9 +4367,9 @@
       "ID": "GetTHWeapon",
       "SetID": "9lj35g4",
       "Name": "Two Handed Weapon",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "Kill25Bugs",
@@ -4518,8 +4518,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-23T19:58:55.6551134+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:04:15.5169136+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:03:54.4820209+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:15.2928033+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:03:02.8979313+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:04:15.5169588+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:02:43.0997219+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:03:54.4820618+00:00"
 }

@@ -1,7 +1,7 @@
 # Hercule Poirot - The First Cases
 [Store](https://store.epicgames.com/en-US/p/hercule-poirot-the-first-cases-584238)  
 [View Rawdata](../../db/h/hercule_poirot_-_the_first_cases.json)  
-Rating: 4.35 (Ranked 814)  
+Rating: 4.35 (Ranked 815)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -44,9 +44,9 @@ Rating: 4.35 (Ranked 814)
 | Well-prepared | 21.00% | ~100 |
 | The Truth | 21.00% | ~100 |
 | Sunken Secrets | 19.00% | ~90 |
+| What Else Did I Miss? | 19.00% | ~90 |
 | I Like an Audience | 19.00% | ~90 |
 | The Denouement | 18.00% | ~86 |
-| What Else Did I Miss? | 18.00% | ~86 |
 | Probably the Greatest Detective in the World | 13.00% | ~62 |
 | Take a Break | 11.00% | ~52 |
 | Room with a View | 7.00% | ~33 |

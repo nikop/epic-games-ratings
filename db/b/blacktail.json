@@ -5,9 +5,9 @@
   "Ranking_Rating": 260,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 295,
+  "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 837,
+  "EOS_Progressed": 838,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2591,6 +2591,11 @@
       "Time": "2023-12-28T10:09:49.6882916+00:00",
       "NumProgressed": 837,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T20:10:27.6382789+00:00",
+      "NumProgressed": 838,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2602,7 +2607,7 @@
       "Name": "Extensive retelling",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "BadApple",
@@ -2658,7 +2663,7 @@
       "Name": "Sneak peek",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Favourite",
@@ -2666,7 +2671,7 @@
       "Name": "Favorite",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "FisherKing",
@@ -2842,7 +2847,7 @@
       "Name": "Forbidden techniques",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "YagaProfessional",
@@ -2857,7 +2862,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 837,
+      "Progressed": 838,
       "Completed": 1
     }
   ],
@@ -2865,8 +2870,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:10:50.4991553+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:10:27.6382785+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:54.4651467+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:03:04.6717935+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:10:50.4991838+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:02:44.7420719+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:10:27.6383216+00:00"
 }

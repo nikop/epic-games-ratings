@@ -1,33 +1,33 @@
 # MORDHAU
 [Store](https://store.epicgames.com/en-US/p/mordhau)  
 [View Rawdata](../../db/m/mordhau.json)  
-Rating: 4.38 (Ranked 780)  
+Rating: 4.38 (Ranked 781)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~774,132 |
-| The ABCs | 43.00% | ~679,341 |
-| Home Run | 41.00% | ~647,743 |
-| Keeps Coming Off | 41.00% | ~647,743 |
-| Guts | 19.00% | ~300,174 |
-| Meat Grinder | 19.00% | ~300,174 |
-| Burning Man | 16.00% | ~252,778 |
-| Lived to Tell the Tale | 12.00% | ~189,583 |
-| Highlander | 10.00% | ~157,986 |
-| Unstoppable | 10.00% | ~157,986 |
-| Just a Scratch | 9.00% | ~142,188 |
-| Tough Nut to Crack | 6.00% | ~94,792 |
-| Yoink | 6.00% | ~94,792 |
-| Long List of Names | 4.00% | ~63,194 |
-| Pyromaniac | 4.00% | ~63,194 |
-| The Queen of Weapons | 4.00% | ~63,194 |
-| This isn’t Sparta | 3.00% | ~47,396 |
-| Crybaby | 2.00% | ~31,597 |
-| Eagle Eye | 2.00% | ~31,597 |
-| I Know Kung Fu | 2.00% | ~31,597 |
-| Poacher | 2.00% | ~31,597 |
-| Put That Away | 2.00% | ~31,597 |
-| You’re Welcome | 2.00% | ~31,597 |
+| Justice from the Grave | 49.00% | ~774,155 |
+| The ABCs | 43.00% | ~679,360 |
+| Home Run | 41.00% | ~647,762 |
+| Keeps Coming Off | 41.00% | ~647,762 |
+| Guts | 19.00% | ~300,183 |
+| Meat Grinder | 19.00% | ~300,183 |
+| Burning Man | 16.00% | ~252,785 |
+| Lived to Tell the Tale | 12.00% | ~189,589 |
+| Highlander | 10.00% | ~157,991 |
+| Unstoppable | 10.00% | ~157,991 |
+| Just a Scratch | 9.00% | ~142,192 |
+| Tough Nut to Crack | 6.00% | ~94,794 |
+| Yoink | 6.00% | ~94,794 |
+| Long List of Names | 4.00% | ~63,196 |
+| Pyromaniac | 4.00% | ~63,196 |
+| The Queen of Weapons | 4.00% | ~63,196 |
+| This isn’t Sparta | 3.00% | ~47,397 |
+| Crybaby | 2.00% | ~31,598 |
+| Eagle Eye | 2.00% | ~31,598 |
+| I Know Kung Fu | 2.00% | ~31,598 |
+| Poacher | 2.00% | ~31,598 |
+| Put That Away | 2.00% | ~31,598 |
+| You’re Welcome | 2.00% | ~31,598 |
 | Chambermaid | 1.00% | ~15,799 |
 | Coming Through | 1.00% | ~15,799 |
 | Boxer | 0.90% | ~14,219 |
@@ -36,15 +36,15 @@ Rating: 4.38 (Ranked 780)
 | Friend Indeed | 0.70% | ~11,059 |
 | Rock’n’Roll | 0.70% | ~11,059 |
 | Virtuoso | 0.70% | ~11,059 |
-| Vlad the Impaler | 0.40% | ~6,319 |
-| Whack-A-Mole | 0.40% | ~6,319 |
+| Vlad the Impaler | 0.40% | ~6,320 |
+| Whack-A-Mole | 0.40% | ~6,320 |
 | Clobbered | 0.20% | ~3,160 |
 | Ended Rightly | 0.10% | ~1,580 |
 | Living Sculpture | 0.10% | ~1,580 |
 | That’s No Ordinary Cold | 0.10% | ~1,580 |
 | Stairway to Hell | 0.10% | ~1,580 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,579,862 (Ranked 7)  
+Progressed: 1,579,908 (Ranked 7)  
 Completed: 72 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 72 (0.00%) (Ranked 389)
 | 2023-12-25 | 1,578,078 | 70 |
 | 2023-12-26 | 1,578,728 | 70 |
 | 2023-12-27 | 1,579,371 | 72 |
-| 2023-12-28 | 1,579,862 | 72 |
+| 2023-12-28 | 1,579,908 | 72 |
 ## Awards
 Max (Diverse Characters): 1,129  (Ranked 147)  
 Sum: 5,897 (Ranked 135)  

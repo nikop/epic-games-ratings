@@ -2,12 +2,12 @@
   "ID": "8a574ca3cbfc46c69ea8d3491932e973",
   "Name": "Wreckfest",
   "ProductSlug": "wreckfest",
-  "Ranking_Rating": 877,
+  "Ranking_Rating": 878,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 341,
+  "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 491,
+  "EOS_Progressed": 496,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1345,6 +1345,11 @@
       "Time": "2023-12-28T19:09:06.4256791+00:00",
       "NumProgressed": 491,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T20:08:43.8457483+00:00",
+      "NumProgressed": 496,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1355,9 +1360,9 @@
       "ID": "AirborneTime",
       "SetID": "5hd282c",
       "Name": "Look Mom, I Can Fly",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 118
+      "UsersEstimate": 124
     },
     {
       "ID": "CareerAllChallenges",
@@ -1365,7 +1370,7 @@
       "Name": "Highballer",
       "Percentage": 38,
       "XP": 90,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "CareerChamp1",
@@ -1373,7 +1378,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 162
+      "UsersEstimate": 164
     },
     {
       "ID": "CareerChamp2",
@@ -1381,7 +1386,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "CareerChamp3",
@@ -1397,7 +1402,7 @@
       "Name": "Pro Internationals Champion",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "CareerComplete",
@@ -1413,15 +1418,15 @@
       "Name": "Storm Warning",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 314
+      "UsersEstimate": 317
     },
     {
       "ID": "CollectVehiclesA",
       "SetID": "5hd282c",
       "Name": "Wheeler Dealer",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 118
+      "UsersEstimate": 124
     },
     {
       "ID": "CollectVehiclesB",
@@ -1437,7 +1442,7 @@
       "Name": "Cash For Crashes",
       "Percentage": 7,
       "XP": 120,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "GetWreckedA",
@@ -1469,15 +1474,15 @@
       "Name": "Dirty Roller",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 172
+      "UsersEstimate": 174
     },
     {
       "ID": "PlayerRankB",
       "SetID": "5hd282c",
       "Name": "Trashing Around",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 79
     },
     {
       "ID": "PlayerRankC",
@@ -1516,7 +1521,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 491,
+      "Progressed": 496,
       "Completed": 0
     }
   ],
@@ -1524,8 +1529,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-26T23:01:34.391907+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:09:06.4256788+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:08:43.8457479+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-28T18:57:57.2586173+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:09:06.4256946+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:57:38.7206388+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:08:43.8457725+00:00"
 }

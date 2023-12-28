@@ -4,7 +4,7 @@
   "ProductSlug": "indoorlands-3b2356",
   "Ranking_EOS_Progress": 657,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewPlayers": 429,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-17T23:00:00+00:00",
@@ -183,9 +183,9 @@
       "ID": "expansion",
       "SetID": "d4692al",
       "Name": "Expansion",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "halls",
@@ -334,8 +334,8 @@
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:07:29.7761265+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:07:09.1704221+00:00",
   "LastUpdate_AppInfo": "2023-12-28T08:57:17.3349077+00:00",
-  "LastUpdate_Ratings": "2023-12-28T18:57:18.4284587+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:07:29.7761467+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:57:01.2538084+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:07:09.1704482+00:00"
 }

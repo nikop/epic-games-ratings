@@ -18,8 +18,8 @@ Rating: 4.65 (Ranked 323)
 | Honest Mistake | 24.00% | ~273 |
 | Immaculate Aim | 24.00% | ~273 |
 | The Steel Shadow | 23.00% | ~261 |
+| Breaking Down Barriers | 23.00% | ~261 |
 | Fast Learner | 23.00% | ~261 |
-| Breaking Down Barriers | 22.00% | ~250 |
 | The Wicked Twins | 22.00% | ~250 |
 | Right On Time | 21.00% | ~239 |
 | Like Clockwork | 21.00% | ~239 |
@@ -60,7 +60,7 @@ Rating: 4.65 (Ranked 323)
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,136 (Ranked 277)  
-Completed: 6 (0.53%) (Ranked 213)  
+Completed: 6 (0.53%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

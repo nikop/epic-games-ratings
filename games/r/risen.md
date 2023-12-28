@@ -6,9 +6,9 @@ Rating: 4.55 (Ranked 518)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Beginner | 91.00% | ~120 |
-| Map reader | 65.00% | ~86 |
+| Map reader | 66.00% | ~87 |
 | Adventurer | 63.00% | ~83 |
-| Philanthropist | 60.00% | ~79 |
+| Philanthropist | 61.00% | ~81 |
 | Archer | 44.00% | ~58 |
 | The brave little tailor | 42.00% | ~55 |
 | Field hand | 39.00% | ~51 |
@@ -16,13 +16,13 @@ Rating: 4.55 (Ranked 518)
 | Well-to-do | 36.00% | ~48 |
 | The merciful one | 33.00% | ~44 |
 | Ladies' man | 32.00% | ~42 |
-| Ferocious wild boars | 26.00% | ~34 |
+| Ferocious wild boars | 27.00% | ~36 |
 | Idiot | 24.00% | ~32 |
 | Beast slayer | 22.00% | ~29 |
 | Family man | 20.00% | ~26 |
 | Death of a legend | 20.00% | ~26 |
 | Archaeologist | 20.00% | ~26 |
-| Ogre friend | 19.00% | ~25 |
+| Ogre friend | 20.00% | ~26 |
 | Sidelined | 18.00% | ~24 |
 | Wise man | 17.00% | ~22 |
 | Little hero | 17.00% | ~22 |

@@ -4,7 +4,7 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 375,
+  "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -824,9 +824,9 @@
       "ID": "ACH_FINISH_ONCE",
       "SetID": "8h8m55b",
       "Name": "One Way to Find Out",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_FIRSTLOVE",
@@ -960,9 +960,9 @@
       "ID": "ACH_REMEMBRANCE",
       "SetID": "8h8m55b",
       "Name": "Remembrance",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_SAVED100",
@@ -1119,8 +1119,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:06:30.8371311+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:06:09.5053559+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:53.6877972+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:01:46.4403005+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:06:30.8371825+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:01:28.5009587+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:06:09.5053941+00:00"
 }

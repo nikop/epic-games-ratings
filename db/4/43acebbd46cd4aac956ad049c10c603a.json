@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -255,7 +255,7 @@
   ],
   "EOS_Progressed": 1170,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3558,9 +3558,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 199
     },
     {
       "ID": "TheEdgeOfForever",
@@ -3606,9 +3606,9 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 374
     },
     {
       "ID": "TouchGrass",
@@ -3654,9 +3654,9 @@
       "ID": "WoodedPlateau",
       "SetID": "1n308hc",
       "Name": "Wooded Plateau",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 152
     },
     {
       "ID": "YourBiggestFan",
@@ -3679,8 +3679,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-28T02:59:27.0743673+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:06:00.3412319+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:05:38.5943571+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:01:21.369714+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:06:00.3412821+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:01:02.7752749+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:05:38.5944125+00:00"
 }

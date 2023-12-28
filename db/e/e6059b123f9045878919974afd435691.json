@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1235,
+  "EOS_Progressed": 1236,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3289,6 +3289,11 @@
       "Time": "2023-12-28T16:10:16.6001665+00:00",
       "NumProgressed": 1235,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T20:10:35.5146388+00:00",
+      "NumProgressed": 1236,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3300,7 +3305,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3316,7 +3321,7 @@
       "Name": "FULLCLIP",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -3372,7 +3377,7 @@
       "Name": "Capraphobia",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -3588,7 +3593,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -3612,15 +3617,15 @@
       "Name": "Do This In Silence",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "And There We Go",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 420
+      "UsersEstimate": 433
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -3660,7 +3665,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -3676,7 +3681,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -3716,7 +3721,7 @@
       "Name": "Reading and More Reading",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "NOTE_ACHIEVEMENT_1",
@@ -3827,14 +3832,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1235,
+      "Progressed": 1236,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:10:58.1302524+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:10:35.5146385+00:00",
   "LastUpdate_AppInfo": "2023-12-22T02:57:06.6747577+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:02:52.6498004+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:10:58.1303118+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:02:32.3490054+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:10:35.5147239+00:00"
 }

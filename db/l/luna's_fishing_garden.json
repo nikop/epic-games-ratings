@@ -4,7 +4,7 @@
   "ProductSlug": "lunas-fishing-garden",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 572,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-06-16T16:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 693,
+  "EOS_Progressed": 694,
   "EOS_Completed": 43,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -184,6 +184,11 @@
       "Time": "2023-12-03T17:09:14.2823191+00:00",
       "NumProgressed": 693,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-12-28T20:10:08.0878171+00:00",
+      "NumProgressed": 694,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 14,
@@ -195,7 +200,7 @@
       "Name": "Fish Appreciation",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "10_screen",
@@ -203,7 +208,7 @@
       "Name": "We\u0027re Gonna Need a Bigger Screen",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "11_away",
@@ -211,7 +216,7 @@
       "Name": "The Ones that Got Away",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "12_art",
@@ -219,7 +224,7 @@
       "Name": "A Work of Art",
       "Percentage": 22,
       "XP": 200,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "13_hide",
@@ -243,7 +248,7 @@
       "Name": "A Feel for the Reel",
       "Percentage": 84,
       "XP": 80,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "3_master_angler",
@@ -251,7 +256,7 @@
       "Name": "Master Angler",
       "Percentage": 24,
       "XP": 200,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "4_bird_breeder",
@@ -275,7 +280,7 @@
       "Name": "Immortal",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "7_cleanup",
@@ -291,7 +296,7 @@
       "Name": "Anything Else?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "9_lotus",
@@ -306,7 +311,7 @@
     {
       "ID": "459695l",
       "IsBase": true,
-      "Progressed": 693,
+      "Progressed": 694,
       "Completed": 43
     }
   ],
@@ -314,8 +319,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.8897635+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.7835458+00:00",
   "LastChanged": "2023-03-31T05:57:45.8897637+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:10:30.8544932+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:10:08.0878167+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:05.8706036+00:00",
-  "LastUpdate_Ratings": "2023-12-28T18:57:35.8773696+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:10:30.8545045+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:57:18.0385093+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:10:08.0878373+00:00"
 }

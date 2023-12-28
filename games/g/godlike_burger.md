@@ -1,26 +1,26 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.51 (Ranked 585)  
+Rating: 4.51 (Ranked 586)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~176,901 |
-| FIRST BLOOD | 40.00% | ~157,245 |
-| KEVIN! | 30.00% | ~117,934 |
-| JACK OF ALL TRADES | 23.00% | ~90,416 |
-| CRIMINAL | 20.00% | ~78,623 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~43,242 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~35,380 |
-| HONORS STUDENT | 8.00% | ~31,449 |
-| BUTCHER | 6.00% | ~23,587 |
-| INDIVIDUAL APPROACH | 5.00% | ~19,656 |
-| RAMBO | 5.00% | ~19,656 |
-| HELL'S KITCHEN | 4.00% | ~15,725 |
-| CELEBRITY | 3.00% | ~11,793 |
-| MARTYR | 3.00% | ~11,793 |
-| GRATITUDE | 2.00% | ~7,862 |
-| PATTY-KILLER | 2.00% | ~7,862 |
+| MASTER CHEF | 45.00% | ~176,913 |
+| FIRST BLOOD | 40.00% | ~157,256 |
+| KEVIN! | 30.00% | ~117,942 |
+| JACK OF ALL TRADES | 23.00% | ~90,422 |
+| CRIMINAL | 20.00% | ~78,628 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~43,245 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~35,383 |
+| HONORS STUDENT | 8.00% | ~31,451 |
+| BUTCHER | 6.00% | ~23,588 |
+| INDIVIDUAL APPROACH | 5.00% | ~19,657 |
+| RAMBO | 5.00% | ~19,657 |
+| HELL'S KITCHEN | 4.00% | ~15,726 |
+| CELEBRITY | 3.00% | ~11,794 |
+| MARTYR | 3.00% | ~11,794 |
+| GRATITUDE | 2.00% | ~7,863 |
+| PATTY-KILLER | 2.00% | ~7,863 |
 | EXPERIMENTALIST | 1.00% | ~3,931 |
 | GOURMET | 1.00% | ~3,931 |
 | LAW-ABIDING CITIZEN | 1.00% | ~3,931 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 585)
 | MISTER ALL THUMBS | 0.10% | ~393 |
 | TRAVELER | 0.10% | ~393 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 393,113 (Ranked 47)  
+Progressed: 393,139 (Ranked 47)  
 Completed: 55 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 55 (0.01%) (Ranked 367)
 | 2023-12-25 | 391,232 | 53 |
 | 2023-12-26 | 391,924 | 53 |
 | 2023-12-27 | 392,575 | 55 |
-| 2023-12-28 | 393,113 | 55 |
+| 2023-12-28 | 393,139 | 55 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

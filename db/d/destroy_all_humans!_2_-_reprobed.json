@@ -6,9 +6,9 @@
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 521,
   "Ranking_EOS_Progress": 410,
-  "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_Completed": 224,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -1252,9 +1252,9 @@
       "ID": "ACH_COMPLETE_OJ01",
       "SetID": "4n84pon",
       "Name": "Transmitting From Sol-3",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_COP_THROUGH_DONUT",
@@ -1372,9 +1372,9 @@
       "ID": "ACH_KILL_PONSONBY",
       "SetID": "4n84pon",
       "Name": "Die Nasty",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -1533,8 +1533,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-28T10:58:39.1665152+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:09:32.0015393+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:09:09.630895+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-28T18:59:48.007307+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:09:32.0015677+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:59:29.8582281+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:09:09.63093+00:00"
 }

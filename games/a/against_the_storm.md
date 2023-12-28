@@ -40,11 +40,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Serving Ale | 1.00% | ~195 |
 | Against All Odds | 1.00% | ~195 |
 | Sparkdew Crystals | 1.00% | ~195 |
+| Fishmen Ritual Site | 1.00% | ~195 |
 | Haunted Forest | 1.00% | ~195 |
 | Flooded Mines | 1.00% | ~195 |
 | Defying the Crown | 1.00% | ~195 |
 | Into the Forest | 1.00% | ~195 |
-| Fishmen Ritual Site | 0.90% | ~176 |
 | Victory Through Prosperity | 0.90% | ~176 |
 | Efficient Explorer | 0.80% | ~156 |
 | Refinery | 0.80% | ~156 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,526 (Ranked 151)  
-Completed: 36 (0.18%) (Ranked 278)  
+Progressed: 19,530 (Ranked 151)  
+Completed: 36 (0.18%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -318,7 +318,7 @@ Completed: 36 (0.18%) (Ranked 278)
 | 2023-12-25 | 19,247 | 38 |
 | 2023-12-26 | 19,350 | 38 |
 | 2023-12-27 | 19,458 | 38 |
-| 2023-12-28 | 19,526 | 36 |
+| 2023-12-28 | 19,530 | 36 |
 ## Awards
 Max (Quickly Understood Controls): 446  (Ranked 228)  
 Sum: 3,301 (Ranked 176)  

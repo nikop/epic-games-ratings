@@ -2,13 +2,13 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 585,
+  "Ranking_Rating": 586,
   "Ranking_Popularity": 324,
   "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17466,
+  "EOS_Progressed": 17468,
   "EOS_Completed": 122,
   "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 3,
@@ -17230,6 +17230,11 @@
       "Time": "2023-12-28T19:04:09.742505+00:00",
       "NumProgressed": 17466,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-12-28T20:03:48.9293773+00:00",
+      "NumProgressed": 17468,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 41,
@@ -17257,7 +17262,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4017
+      "UsersEstimate": 4018
     },
     {
       "ID": "tpote_achievement_12",
@@ -17281,7 +17286,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5589
+      "UsersEstimate": 5590
     },
     {
       "ID": "tpote_achievement_15",
@@ -17297,7 +17302,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2445
+      "UsersEstimate": 2446
     },
     {
       "ID": "tpote_achievement_17",
@@ -17345,7 +17350,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5065
+      "UsersEstimate": 5066
     },
     {
       "ID": "tpote_achievement_22",
@@ -17353,7 +17358,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3493
+      "UsersEstimate": 3494
     },
     {
       "ID": "tpote_achievement_23",
@@ -17417,7 +17422,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5414
+      "UsersEstimate": 5415
     },
     {
       "ID": "tpote_achievement_30",
@@ -17441,7 +17446,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2445
+      "UsersEstimate": 2446
     },
     {
       "ID": "tpote_achievement_33",
@@ -17505,7 +17510,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6986
+      "UsersEstimate": 6987
     },
     {
       "ID": "tpote_achievement_40",
@@ -17529,7 +17534,7 @@
       "Name": "Garden of Eden",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4017
+      "UsersEstimate": 4018
     },
     {
       "ID": "tpote_achievement_6",
@@ -17537,7 +17542,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4017
+      "UsersEstimate": 4018
     },
     {
       "ID": "tpote_achievement_7",
@@ -17561,22 +17566,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5938
+      "UsersEstimate": 5939
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17466,
+      "Progressed": 17468,
       "Completed": 122
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:04:09.7425046+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:03:48.9293769+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.265609+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:00:55.370776+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:04:09.7425826+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:00:35.9962663+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:03:48.9295419+00:00"
 }

@@ -1,16 +1,16 @@
 # Q.U.B.E. 10th Anniversary
 [Store](https://store.epicgames.com/en-US/p/qube-10th-anniversary-59e999)  
 [View Rawdata](../../db/q/q.u.b.e._10th_anniversary.json)  
-Rating: 4.40 (Ranked 757)  
+Rating: 4.40 (Ranked 759)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 30.00% | ~8,190 |
-| Sector 2 | 27.00% | ~7,371 |
-| Sector 3 | 23.00% | ~6,279 |
-| Crush That Cube! | 22.00% | ~6,006 |
-| Sector 4 | 19.00% | ~5,187 |
-| Crush That Ball! | 18.00% | ~4,914 |
+| Sector 1 | 30.00% | ~8,191 |
+| Sector 2 | 27.00% | ~7,372 |
+| Sector 3 | 23.00% | ~6,280 |
+| Crush That Cube! | 22.00% | ~6,007 |
+| Sector 4 | 19.00% | ~5,188 |
+| Crush That Ball! | 18.00% | ~4,915 |
 | Sector 5 | 12.00% | ~3,276 |
 | Sector 6 | 10.00% | ~2,730 |
 | Feeling the Blues | 8.00% | ~2,184 |
@@ -30,8 +30,8 @@ Rating: 4.40 (Ranked 757)
 | Maxed Out | 2.00% | ~546 |
 | The Collector | 1.00% | ~273 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,299 (Ranked 140)  
-Completed: 176 (0.64%) (Ranked 201)  
+Progressed: 27,303 (Ranked 141)  
+Completed: 177 (0.65%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -105,14 +105,14 @@ Completed: 176 (0.64%) (Ranked 201)
 | 2023-12-25 | 26,827 | 174 |
 | 2023-12-26 | 26,998 | 174 |
 | 2023-12-27 | 27,159 | 176 |
-| 2023-12-28 | 27,299 | 176 |
+| 2023-12-28 | 27,303 | 177 |
 ## Awards
-Max (Challenging Puzzles): 22  (Ranked 556)  
-Sum: 22 (Ranked 560)  
-Diff (max vs sum): -4  
+Max (Challenging Puzzles): 23  (Ranked 553)  
+Sum: 23 (Ranked 558)  
+Diff (max vs sum): -5  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 22 |
+| This game features Challenging Puzzles | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -158,3 +158,4 @@ Diff (max vs sum): -4
 | 2023-12-21 | 4.42 | 22 | 22 |
 | 2023-12-23 | 4.41 | 22 | 22 |
 | 2023-12-25 | 4.40 | 22 | 22 |
+| 2023-12-28 | 4.40 | 23 | 23 |

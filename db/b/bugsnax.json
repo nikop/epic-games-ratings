@@ -6,9 +6,9 @@
   "Ranking_Popularity": 468,
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 137,
-  "Ranking_EOS_Completed": 76,
+  "Ranking_EOS_Completed": 77,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
     "PcReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -980,9 +980,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 28960,
+  "EOS_Progressed": 28961,
   "EOS_Completed": 1417,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 4.89,
   "EosHistory": [
@@ -8465,6 +8465,11 @@
       "Time": "2023-12-28T16:09:48.8912384+00:00",
       "NumProgressed": 28960,
       "NumCompleted": 1417
+    },
+    {
+      "Time": "2023-12-28T20:09:59.7253258+00:00",
+      "NumProgressed": 28961,
+      "NumCompleted": 1417
     }
   ],
   "TotalAchievements": 30,
@@ -8484,7 +8489,7 @@
       "Name": "Feeding Frenzy",
       "Percentage": 19,
       "XP": 70,
-      "UsersEstimate": 5502
+      "UsersEstimate": 5503
     },
     {
       "ID": "ACH_ALL_VIDS",
@@ -8524,7 +8529,7 @@
       "Name": "Got to Catch Them All",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 9267
+      "UsersEstimate": 9268
     },
     {
       "ID": "ACH_CATCH_HALF",
@@ -8540,7 +8545,7 @@
       "Name": "Got to Catch a Few",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 22299
+      "UsersEstimate": 22300
     },
     {
       "ID": "ACH_CHEESE_SCAN",
@@ -8564,7 +8569,7 @@
       "Name": "In the Arms of the Gramble",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 17086
+      "UsersEstimate": 17087
     },
     {
       "ID": "ACH_FIRST_BUGSNAK",
@@ -8572,7 +8577,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 28091
+      "UsersEstimate": 28092
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -8580,7 +8585,7 @@
       "Name": "I\u0027m Stuffed",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 19982
+      "UsersEstimate": 19983
     },
     {
       "ID": "ACH_GOLEM",
@@ -8644,7 +8649,7 @@
       "Name": "Know Thy Neighbor",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 17086
+      "UsersEstimate": 17087
     },
     {
       "ID": "ACH_SIDE_QUEST",
@@ -8668,7 +8673,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 26933
+      "UsersEstimate": 26934
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -8676,7 +8681,7 @@
       "Name": "Perf Dirt",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 16507
+      "UsersEstimate": 16508
     },
     {
       "ID": "ACH_SUNDAE",
@@ -8684,7 +8689,7 @@
       "Name": "Sundae Best",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 4054
+      "UsersEstimate": 4055
     },
     {
       "ID": "ACH_TRANSFORM_GRAMBLE",
@@ -8700,7 +8705,7 @@
       "Name": "Double Trapper",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 21720
+      "UsersEstimate": 21721
     },
     {
       "ID": "ACH_WATERFALL",
@@ -8708,22 +8713,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 25195
+      "UsersEstimate": 25196
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 28960,
+      "Progressed": 28961,
       "Completed": 1417
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-12-27T22:00:27.4132864+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:10:22.5508236+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:09:59.7253254+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:04.8569905+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:01:18.6491225+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:10:22.5508757+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:01:00.3049125+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:09:59.7253861+00:00"
 }

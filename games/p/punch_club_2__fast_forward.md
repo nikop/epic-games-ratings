@@ -33,7 +33,7 @@
 | Own four walls | 53.00% | ~260 |
 | Intriguing candies | 53.00% | ~260 |
 | Employee of the year | 53.00% | ~260 |
-| Legal courier | 49.00% | ~240 |
+| Legal courier | 50.00% | ~245 |
 | Extreme neuropower! | 49.00% | ~240 |
 | Escaped from a big trouble | 47.00% | ~230 |
 | Now you are worthy | 42.00% | ~206 |
@@ -72,7 +72,7 @@
 | Silver’s past | 25.00% | ~122 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 490 (Ranked 342)  
-Completed: 9 (1.84%) (Ranked 139)  
+Completed: 9 (1.84%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

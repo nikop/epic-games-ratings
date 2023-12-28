@@ -2,7 +2,7 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 654,
+  "Ranking_Rating": 656,
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 198,
@@ -850,7 +850,7 @@
   ],
   "EOS_Progressed": 5883,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -12116,9 +12116,9 @@
       "ID": "MF_Ach_HitEmWhereItHurts",
       "SetID": "9b9n573",
       "Name": "Hit \u0027Em Where It Hurts",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1530
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -12220,8 +12220,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:04:46.5306226+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:04:24.8622259+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:25.4849752+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:01:06.827668+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:04:46.5306994+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:00:48.0874925+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:04:24.8623045+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Punch Club 2: Fast Forward",
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 342,
-  "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_Completed": 138,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 490,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -2085,9 +2085,9 @@
       "ID": "courier_win",
       "SetID": "69co12a",
       "Name": "Legal courier",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 245
     },
     {
       "ID": "fight_defeat_1",
@@ -2524,8 +2524,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:10:14.8827864+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:09:52.1351322+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:13.9390464+00:00",
-  "LastUpdate_Ratings": "2023-12-28T18:58:17.047669+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:10:14.8828366+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:57:57.8629291+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:09:52.1351952+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 459,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewPlayers": 368,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
@@ -2893,9 +2893,9 @@
       "ID": "HighJump",
       "SetID": "5lok9mm",
       "Name": "High Jump",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 2298
+      "UsersEstimate": 2322
     },
     {
       "ID": "HotGuy",
@@ -2909,9 +2909,9 @@
       "ID": "KneeBending",
       "SetID": "5lok9mm",
       "Name": "Knee bending",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 2298
+      "UsersEstimate": 2322
     },
     {
       "ID": "Magnet",
@@ -3021,9 +3021,9 @@
       "ID": "Revenge",
       "SetID": "5lok9mm",
       "Name": "Revenge",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 2226
+      "UsersEstimate": 2250
     },
     {
       "ID": "RocketLaunched",
@@ -3125,8 +3125,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-12-19T21:02:52.87679+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:05:38.7280961+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:05:17.2106494+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:53.8151101+00:00",
-  "LastUpdate_Ratings": "2023-12-28T18:58:03.4825228+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:05:38.7281463+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:57:44.3668599+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:05:17.2106912+00:00"
 }

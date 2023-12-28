@@ -47,12 +47,12 @@
 | The Distorted Sage | 4.00% | ~10 |
 | Behenian Hero | 4.00% | ~10 |
 | Lacertian Hero | 4.00% | ~10 |
+| Noctuan Hero | 4.00% | ~10 |
 | Purification Avatar | 3.00% | ~8 |
 | The Abyssal Terror | 3.00% | ~8 |
 | The Ardent Prince | 3.00% | ~8 |
 | Behenian Mastery | 3.00% | ~8 |
 | Eridanian Hero | 3.00% | ~8 |
-| Noctuan Hero | 3.00% | ~8 |
 | Anomaly Master | 2.00% | ~5 |
 | Astromancer | 2.00% | ~5 |
 | Critical Twist | 2.00% | ~5 |

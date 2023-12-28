@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 388,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 801,
+  "EOS_Progressed": 802,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1114,6 +1114,11 @@
       "Time": "2023-12-27T15:05:10.1111033+00:00",
       "NumProgressed": 801,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T20:06:37.3256455+00:00",
+      "NumProgressed": 802,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1149,7 +1154,7 @@
       "Name": "Big Spender",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "Clarity_of_Mind",
@@ -1213,7 +1218,7 @@
       "Name": "I just love stuff!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "I_think_its_broke",
@@ -1221,7 +1226,7 @@
       "Name": "I think it\u0027s broke",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "In the smacker...I think",
@@ -1237,7 +1242,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "Lady_Luck",
@@ -1293,7 +1298,7 @@
       "Name": "Tell me your story",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -1301,7 +1306,7 @@
       "Name": "That\u0027s gotta hurt",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "The Traveler",
@@ -1325,7 +1330,7 @@
       "Name": "The Ann Flores Combo Experience",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "The_Warlord",
@@ -1341,7 +1346,7 @@
       "Name": "The things they print nowadays",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "The_truth_is_out_there",
@@ -1412,7 +1417,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 801,
+      "Progressed": 802,
       "Completed": 0
     }
   ],
@@ -1420,8 +1425,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-12-25T11:02:42.8909676+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:06:58.375637+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:06:37.3256451+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:23.7389862+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:03:12.8647865+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:06:58.3756636+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:02:52.9190077+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:06:37.3256683+00:00"
 }

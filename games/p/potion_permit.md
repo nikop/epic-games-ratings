@@ -1,30 +1,30 @@
 # Potion Permit
 [Store](https://store.epicgames.com/en-US/p/potion-permit)  
 [View Rawdata](../../db/p/potion_permit.json)  
-Rating: 3.85 (Ranked 1,056)  
+Rating: 3.85 (Ranked 1,057)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,781 |
-| The First Step | 88.00% | ~1,599 |
-| Moonbury Traveller | 63.00% | ~1,145 |
-| Rookie Chemist | 61.00% | ~1,108 |
-| Great Doctor | 50.00% | ~908 |
-| Dog Whisperer | 48.00% | ~872 |
-| Friendly | 47.00% | ~854 |
-| The Capitalist | 44.00% | ~799 |
-| K.O.! | 43.00% | ~781 |
+| Welcome to Moonbury | 98.00% | ~1,783 |
+| The First Step | 88.00% | ~1,601 |
+| Moonbury Traveller | 63.00% | ~1,146 |
+| Rookie Chemist | 61.00% | ~1,110 |
+| Great Doctor | 50.00% | ~910 |
+| Dog Whisperer | 48.00% | ~873 |
+| Friendly | 47.00% | ~855 |
+| The Capitalist | 44.00% | ~800 |
+| K.O.! | 43.00% | ~782 |
 | Intermediate Chemist | 39.00% | ~709 |
 | Decorative Mind | 33.00% | ~600 |
-| Lumber Specialist | 31.00% | ~563 |
-| Kind-hearted | 25.00% | ~454 |
-| Catch of the Day | 25.00% | ~454 |
+| Lumber Specialist | 31.00% | ~564 |
+| Kind-hearted | 25.00% | ~455 |
+| Catch of the Day | 25.00% | ~455 |
 | Amateur Chef | 22.00% | ~400 |
 | Fishing Guru | 21.00% | ~382 |
 | Spark of Love | 18.00% | ~327 |
 | Community Helper | 17.00% | ~309 |
-| Expert Chemist | 14.00% | ~254 |
-| Stone Specialist | 14.00% | ~254 |
+| Expert Chemist | 14.00% | ~255 |
+| Stone Specialist | 14.00% | ~255 |
 | Line Cook | 12.00% | ~218 |
 | Sociable | 12.00% | ~218 |
 | Ablutomaniac | 12.00% | ~218 |
@@ -44,8 +44,8 @@ Rating: 3.85 (Ranked 1,056)
 | Moonbury Navigator | 1.00% | ~18 |
 | Being a donut... | 0.70% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,817 (Ranked 245)  
-Completed: 11 (0.61%) (Ranked 203)  
+Progressed: 1,819 (Ranked 245)  
+Completed: 11 (0.60%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -221,7 +221,7 @@ Completed: 11 (0.61%) (Ranked 203)
 | 2023-12-25 | 1,788 | 11 |
 | 2023-12-26 | 1,800 | 11 |
 | 2023-12-27 | 1,811 | 11 |
-| 2023-12-28 | 1,817 | 11 |
+| 2023-12-28 | 1,819 | 11 |
 ## Awards
 Max (Character Customization): 70  (Ranked 414)  
 Sum: 70 (Ranked 485)  

@@ -8,10 +8,10 @@
 | Enough rooms to swing a cat | 81.00% | ~74 |
 | First to the post | 81.00% | ~74 |
 | A kind of Magic | 74.00% | ~67 |
-| Connected | 66.00% | ~60 |
-| Expansion | 60.00% | ~55 |
+| Connected | 67.00% | ~61 |
+| Expansion | 62.00% | ~56 |
 | Mine! | 58.00% | ~53 |
-| Harvest Time | 55.00% | ~50 |
+| Harvest Time | 56.00% | ~51 |
 | Artificer's Apprentice | 49.00% | ~45 |
 | Fly the friendly Sky | 45.00% | ~41 |
 | Get out of here! | 41.00% | ~37 |

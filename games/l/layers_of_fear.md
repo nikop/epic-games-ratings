@@ -27,7 +27,7 @@
 | Lights! Camera! Action! | 9.00% | ~20 |
 | The tragedy unfolds | 9.00% | ~20 |
 | A new way | 8.00% | ~17 |
-| Breaking free | 7.00% | ~15 |
+| Breaking free | 8.00% | ~17 |
 | True Reflection | 7.00% | ~15 |
 | Casting Finished | 6.00% | ~13 |
 | Heavy Burden | 6.00% | ~13 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218 (Ranked 414)  
+Progressed: 218 (Ranked 415)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |

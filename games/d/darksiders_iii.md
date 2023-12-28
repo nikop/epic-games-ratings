@@ -1,15 +1,15 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.48 (Ranked 645)  
+Rating: 4.48 (Ranked 646)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Green with Envy | 77.00% | ~204 |
 | First of many… | 69.00% | ~183 |
-| Helping Hand | 65.00% | ~172 |
-| Increased Vigor | 60.00% | ~159 |
+| Helping Hand | 66.00% | ~175 |
+| Increased Vigor | 61.00% | ~162 |
 | Fight Fire with Fire | 59.00% | ~156 |
 | Increased Capacity | 55.00% | ~146 |
 | Just the start | 51.00% | ~135 |
@@ -32,16 +32,16 @@ Number of Ratings: 116  (23.09.2022)
 | Eat Your Heart Out | 28.00% | ~74 |
 | For Whom the Bell Tolls | 28.00% | ~74 |
 | Unyielding Strength | 25.00% | ~66 |
+| Big Spender | 24.00% | ~64 |
 | Can you restore the Balance? | 23.00% | ~61 |
-| Big Spender | 23.00% | ~61 |
 | Cleanup Crew | 22.00% | ~58 |
 | Crowd Source | 22.00% | ~58 |
 | Maximum Capacity | 20.00% | ~53 |
 | Demon Meddler | 20.00% | ~53 |
-| Seeing Red | 18.00% | ~48 |
-| Egomaniac | 17.00% | ~45 |
-| Protector of Humanity | 15.00% | ~40 |
-| Everybody Wants to Rule the World | 15.00% | ~40 |
+| Seeing Red | 19.00% | ~50 |
+| Egomaniac | 18.00% | ~48 |
+| Protector of Humanity | 16.00% | ~42 |
+| Everybody Wants to Rule the World | 16.00% | ~42 |
 | Community Outreach | 13.00% | ~34 |
 | A Parting Gift | 12.00% | ~32 |
 | Unbreakable Will | 11.00% | ~29 |

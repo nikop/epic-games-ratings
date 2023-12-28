@@ -58,8 +58,8 @@
 | Destroy Everything | 1.00% | ~2 |
 | Hearty Meteor | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 199 (Ranked 421)  
-Completed: 1 (0.50%) (Ranked 217)  
+Progressed: 199 (Ranked 422)  
+Completed: 1 (0.50%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

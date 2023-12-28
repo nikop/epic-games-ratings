@@ -839,9 +839,9 @@
       "ID": "killGoldSkeleton10",
       "SetID": "ci65fo0",
       "Name": "Skeletons Fighter",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 53
     },
     {
       "ID": "killGolem1",
@@ -951,9 +951,9 @@
       "ID": "killZombie50",
       "SetID": "ci65fo0",
       "Name": "Threat to the undead",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "locBanditBoss",
@@ -1079,9 +1079,9 @@
       "ID": "questCemetery2",
       "SetID": "ci65fo0",
       "Name": "Cemetery secrets 2",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "questChef",
@@ -1127,9 +1127,9 @@
       "ID": "questDetective",
       "SetID": "ci65fo0",
       "Name": "True Detective",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "questEnemyTask",
@@ -1183,9 +1183,9 @@
       "ID": "questPumpkinKing",
       "SetID": "ci65fo0",
       "Name": "Pumpkin King",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "questReachLord",
@@ -1308,8 +1308,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:10:20.4042696+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:09:57.594794+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.0184442+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:00:22.2040665+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:10:20.4043238+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:00:03.8016931+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:09:57.5948758+00:00"
 }

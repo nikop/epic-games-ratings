@@ -7,10 +7,10 @@ Rating: 4.56 (Ranked 498)
 | ---- | ---------- | ----- |
 | Become King | 1.00% | ~23 |
 | Complete Guard Faction | 1.00% | ~23 |
+| Two Handed Weapon | 1.00% | ~23 |
 | The Bright Fir | 1.00% | ~9 |
 | Collect Monster Parts | 0.90% | ~21 |
 | Ranged Weapon | 0.90% | ~21 |
-| Two Handed Weapon | 0.90% | ~21 |
 | Defeat 25 Grubs | 0.90% | ~21 |
 | Defeat 25 Frogs | 0.90% | ~21 |
 | Shield Maiden Yellow Tongue | 0.90% | ~8 |
@@ -43,7 +43,7 @@ Rating: 4.56 (Ranked 498)
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,289 (Ranked 234)  
-Completed: 12 (0.52%) (Ranked 215)  
+Completed: 12 (0.52%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

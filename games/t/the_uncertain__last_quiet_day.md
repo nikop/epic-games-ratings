@@ -1,29 +1,29 @@
 # The Uncertain: Last Quiet Day
 [Store](https://store.epicgames.com/en-US/p/the-uncertain-last-quiet-day)  
 [View Rawdata](../../db/t/the_uncertain__last_quiet_day.json)  
-Rating: 3.75 (Ranked 1,070)  
+Rating: 3.75 (Ranked 1,071)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I can do a thing or two | 60.00% | ~368 |
-| Buckle up | 59.00% | ~362 |
-| Quick charge | 59.00% | ~362 |
-| Hands up! | 53.00% | ~325 |
-| Now you know | 53.00% | ~325 |
-| Short circuit | 53.00% | ~325 |
+| I can do a thing or two | 60.00% | ~369 |
+| Buckle up | 59.00% | ~363 |
+| Quick charge | 59.00% | ~363 |
+| Hands up! | 53.00% | ~326 |
+| Now you know | 53.00% | ~326 |
+| Short circuit | 53.00% | ~326 |
 | Curious | 43.00% | ~264 |
 | Everybody lies | 36.00% | ~221 |
 | Trick or Treat? | 23.00% | ~141 |
 | Sysadmin | 22.00% | ~135 |
 | There is another way | 22.00% | ~135 |
-| Every little helps | 21.00% | ~129 |
+| Every little helps | 20.00% | ~123 |
 | Annoying | 19.00% | ~117 |
 | Hacker | 19.00% | ~117 |
 | He is just a child | 19.00% | ~117 |
 | The Walking Robot Among Us | 19.00% | ~117 |
 | Uncertain | 18.00% | ~111 |
-| Goody | 17.00% | ~104 |
-| Please oh pleeease! | 17.00% | ~104 |
+| Goody | 17.00% | ~105 |
+| Please oh pleeease! | 17.00% | ~105 |
 | Ace | 16.00% | ~98 |
 | Concrete painting | 16.00% | ~98 |
 | Found it! | 16.00% | ~98 |
@@ -31,14 +31,14 @@ Rating: 3.75 (Ranked 1,070)
 | Not what it seems | 16.00% | ~98 |
 | That's much better! | 15.00% | ~92 |
 | Not as clumsy or random | 13.00% | ~80 |
-| Blade Runner | 10.00% | ~61 |
+| Blade Runner | 10.00% | ~62 |
 | Perfect hearing | 9.00% | ~55 |
 | Meticulous | 7.00% | ~43 |
 | Lucky dog | 5.00% | ~31 |
 | Accurate | 5.00% | ~31 |
 | Silent | 4.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 614 (Ranked 325)  
+Progressed: 615 (Ranked 325)  
 Completed: 19 (3.09%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 19 (3.09%) (Ranked 107)
 | 2023-12-25 | 609 | 19 |
 | 2023-12-26 | 612 | 19 |
 | 2023-12-27 | 613 | 19 |
-| 2023-12-28 | 614 | 19 |
+| 2023-12-28 | 615 | 19 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 354,
+  "Ranking_Rating": 355,
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 195,
@@ -621,7 +621,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6408,
+  "EOS_Progressed": 6411,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 475,
   "EOS_NewCompleters": 0,
@@ -9526,6 +9526,11 @@
       "Time": "2023-12-28T19:05:50.9661194+00:00",
       "NumProgressed": 6408,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-28T20:05:29.4395379+00:00",
+      "NumProgressed": 6411,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9553,7 +9558,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "12",
@@ -9577,7 +9582,7 @@
       "Name": "Full Ascension",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "15",
@@ -9705,7 +9710,7 @@
       "Name": "Stronger Together",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "3",
@@ -9729,7 +9734,7 @@
       "Name": "Magical Synergy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "32",
@@ -9745,7 +9750,7 @@
       "Name": "Seat of Power",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "34",
@@ -9767,9 +9772,9 @@
       "ID": "36",
       "SetID": "3aa2279",
       "Name": "Fiery Friend",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 192
     },
     {
       "ID": "37",
@@ -9871,9 +9876,9 @@
       "ID": "8",
       "SetID": "3aa2279",
       "Name": "Betrayal Most Foul",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 38
     },
     {
       "ID": "9",
@@ -10001,7 +10006,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "60",
@@ -10016,13 +10021,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6408,
+      "Progressed": 6411,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6408,
+      "Progressed": 6411,
       "Completed": 7
     }
   ],
@@ -10030,8 +10035,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-27T21:02:05.3548504+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:05:50.966119+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:05:29.4395375+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-28T18:57:19.959455+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:05:50.9662073+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:57:02.7952306+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:05:29.4396096+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 228,
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 278,
+  "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 3788,
+  "Ranking_EOS_NewCompleters": 3789,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3653,9 +3653,9 @@
       "Count": 336
     }
   ],
-  "EOS_Progressed": 19526,
+  "EOS_Progressed": 19530,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 679,
+  "EOS_NewPlayers": 678,
   "EOS_NewCompleters": -3,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -17508,6 +17508,11 @@
       "Time": "2023-12-28T19:06:57.1976911+00:00",
       "NumProgressed": 19526,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-12-28T20:06:35.9583316+00:00",
+      "NumProgressed": 19530,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17686,9 +17691,9 @@
       "ID": "WinNearFishmen",
       "SetID": "cfbk359",
       "Name": "Fishmen Ritual Site",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 195
     },
     {
       "ID": "WinNearForbidden",
@@ -17991,15 +17996,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19526,
+      "Progressed": 19530,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-28T19:01:03.5007466+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:06:57.1976907+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:06:35.9583311+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:01:03.5007472+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:06:57.1978132+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:00:44.3698303+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:06:35.9584392+00:00"
 }

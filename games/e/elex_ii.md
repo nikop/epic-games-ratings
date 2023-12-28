@@ -1,39 +1,39 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.29 (Ranked 867)  
+Rating: 4.29 (Ranked 868)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 36.00% | ~44 |
+| Entrepreneur | 37.00% | ~45 |
 | Best Buddy | 28.00% | ~34 |
 | Role Model | 25.00% | ~30 |
 | Civilian | 25.00% | ~30 |
-| Peddler | 17.00% | ~21 |
+| Peddler | 18.00% | ~22 |
 | Creator | 17.00% | ~21 |
+| Festival-goer | 17.00% | ~21 |
 | Military Leader | 16.00% | ~20 |
 | Commander | 16.00% | ~20 |
-| Festival-goer | 16.00% | ~20 |
 | Long-Haul Flyer | 13.00% | ~16 |
 | Pass A38 | 11.00% | ~13 |
 | Family Reunion | 10.00% | ~12 |
 | Irissa's Fate | 10.00% | ~12 |
-| Berserker | 8.00% | ~10 |
+| Berserker | 9.00% | ~11 |
+| Eternal Oblivion | 8.00% | ~10 |
 | Globetrotter | 7.00% | ~9 |
 | Alb | 7.00% | ~9 |
-| Eternal Oblivion | 7.00% | ~9 |
 | Hotshot | 6.00% | ~7 |
 | Storyteller | 5.00% | ~6 |
 | Self-Sufficient | 4.00% | ~5 |
 | Free as a Bird | 4.00% | ~5 |
 | Unbreakable | 4.00% | ~5 |
+| Alchemist | 3.00% | ~4 |
 | Idealist | 3.00% | ~4 |
 | Lover | 3.00% | ~4 |
 | Banker | 2.00% | ~2 |
 | Treasure Hunter | 2.00% | ~2 |
 | Beam Me Up | 2.00% | ~2 |
-| Alchemist | 2.00% | ~2 |
 | Cleric | 2.00% | ~2 |
 | Morkon | 2.00% | ~2 |
 | Perfectionist | 2.00% | ~2 |

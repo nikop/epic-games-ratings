@@ -2,13 +2,13 @@
   "ID": "ad43401ad02840c2b2bee5f1f1a59988",
   "Name": "Q.U.B.E. 10th Anniversary",
   "ProductSlug": "qube-10th-anniversary-59e999",
-  "Ranking_Rating": 757,
-  "Ranking_Popularity": 556,
-  "Ranking_PopularitySum": 560,
-  "Ranking_EOS_Progress": 140,
-  "Ranking_EOS_Completed": 201,
+  "Ranking_Rating": 759,
+  "Ranking_Popularity": 553,
+  "Ranking_PopularitySum": 558,
+  "Ranking_EOS_Progress": 141,
+  "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
     "PcReleaseDate": "2022-09-14T13:00:00+00:00",
@@ -298,25 +298,31 @@
       "Rating": 4.4,
       "NumberOfAwards": 22,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-12-28T20:00:38.9555825+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 23,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22,
-  "NumberOfAwardsMax": 22,
+  "NumberOfAwards": 23,
+  "NumberOfAwardsMax": 23,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 22
+      "Count": 23
     }
   ],
-  "EOS_Progressed": 27299,
-  "EOS_Completed": 176,
-  "EOS_NewPlayers": 1232,
-  "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 0.64,
+  "EOS_Progressed": 27303,
+  "EOS_Completed": 177,
+  "EOS_NewPlayers": 1229,
+  "EOS_NewCompleters": 10,
+  "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:51:02.5432355+00:00",
@@ -8537,6 +8543,11 @@
       "Time": "2023-12-28T19:10:41.432512+00:00",
       "NumProgressed": 27299,
       "NumCompleted": 176
+    },
+    {
+      "Time": "2023-12-28T20:10:18.8004053+00:00",
+      "NumProgressed": 27303,
+      "NumCompleted": 177
     }
   ],
   "TotalAchievements": 24,
@@ -8572,7 +8583,7 @@
       "Name": "Crush That Ball!",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 4914
+      "UsersEstimate": 4915
     },
     {
       "ID": "ACH_CrushPhysicsCube",
@@ -8580,7 +8591,7 @@
       "Name": "Crush That Cube!",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 6006
+      "UsersEstimate": 6007
     },
     {
       "ID": "ACH_Finale",
@@ -8676,7 +8687,7 @@
       "Name": "Sector 1",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 8190
+      "UsersEstimate": 8191
     },
     {
       "ID": "ACH_Sector2",
@@ -8684,7 +8695,7 @@
       "Name": "Sector 2",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 7371
+      "UsersEstimate": 7372
     },
     {
       "ID": "ACH_Sector3",
@@ -8692,7 +8703,7 @@
       "Name": "Sector 3",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 6279
+      "UsersEstimate": 6280
     },
     {
       "ID": "ACH_Sector4",
@@ -8700,7 +8711,7 @@
       "Name": "Sector 4",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 5187
+      "UsersEstimate": 5188
     },
     {
       "ID": "ACH_Sector5",
@@ -8739,16 +8750,16 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 27299,
-      "Completed": 176
+      "Progressed": 27303,
+      "Completed": 177
     }
   ],
   "FirstSeen": "2023-10-12T18:57:52.5770146+00:00",
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
-  "LastChanged": "2023-12-25T18:58:12.5329399+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:10:41.4325116+00:00",
+  "LastChanged": "2023-12-28T20:00:38.9555824+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:10:18.8004048+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:02.1123964+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:00:58.0555844+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:10:41.432558+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:00:38.9555831+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:10:18.8004607+00:00"
 }

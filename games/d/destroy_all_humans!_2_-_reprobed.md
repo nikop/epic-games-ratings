@@ -20,8 +20,8 @@ Number of Ratings: 90  (23.09.2022)
 | I Look Up As I Walk to Takoshima | 19.00% | ~43 |
 | Freshly Squeezed | 18.00% | ~41 |
 | Perfect Probulator | 16.00% | ~36 |
-| Die Nasty | 15.00% | ~34 |
-| Transmitting From Sol-3 | 14.00% | ~32 |
+| Die Nasty | 16.00% | ~36 |
+| Transmitting From Sol-3 | 15.00% | ~34 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 11.00% | ~25 |
 | Kaijuiced | 9.00% | ~21 |
 | Dusted | 9.00% | ~21 |
@@ -52,7 +52,7 @@ Number of Ratings: 90  (23.09.2022)
 | Trans-Siberian Express | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 228 (Ranked 410)  
-Completed: 1 (0.44%) (Ranked 225)  
+Completed: 1 (0.44%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

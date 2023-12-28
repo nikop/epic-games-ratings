@@ -2,12 +2,12 @@
   "ID": "48e20c81667c4ff49c85dd79ac3a01b0",
   "Name": "Redfall",
   "ProductSlug": "redfall",
-  "Ranking_Rating": 1074,
+  "Ranking_Rating": 1075,
   "Ranking_Popularity": 569,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -323,7 +323,7 @@
   ],
   "EOS_Progressed": 2134,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3709,9 +3709,9 @@
       "ID": "Achievement_025",
       "SetID": "6b34g18",
       "Name": "Grounded",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 107
     },
     {
       "ID": "Achievement_026",
@@ -4062,8 +4062,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-28T18:58:14.3894111+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:04:26.1654995+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:04:04.6799287+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:45.1864069+00:00",
-  "LastUpdate_Ratings": "2023-12-28T18:58:14.3894116+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:04:26.165562+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:57:55.1142275+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:04:04.679993+00:00"
 }

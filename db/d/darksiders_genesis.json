@@ -2,7 +2,7 @@
   "ID": "9bcf72043732431397782f3a32efbbd5",
   "Name": "Darksiders Genesis",
   "ProductSlug": "darksiders-genesis",
-  "Ranking_Rating": 627,
+  "Ranking_Rating": 629,
   "Ranking_Popularity": 463,
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 394,
@@ -445,7 +445,7 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 266,
+  "EOS_Progressed": 268,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
@@ -1140,6 +1140,11 @@
       "Time": "2023-12-28T18:09:32.341388+00:00",
       "NumProgressed": 266,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T20:10:04.3816396+00:00",
+      "NumProgressed": 268,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -1166,9 +1171,9 @@
       "ID": "Astarte",
       "SetID": "329ak73",
       "Name": "Astarte",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "Belial",
@@ -1190,9 +1195,9 @@
       "ID": "ClosetheRift",
       "SetID": "329ak73",
       "Name": "Close the Rift",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "Collector",
@@ -1238,7 +1243,7 @@
       "ID": "GoodDeeds",
       "SetID": "329ak73",
       "Name": "Good Deeds",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -1278,9 +1283,9 @@
       "ID": "MasterofWar",
       "SetID": "329ak73",
       "Name": "Master of War",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "MintI",
@@ -1294,7 +1299,7 @@
       "ID": "MintII",
       "SetID": "329ak73",
       "Name": "Mint II",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -1342,9 +1347,9 @@
       "ID": "TheDeadCourt",
       "SetID": "329ak73",
       "Name": "The Dead Court",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "TheGardenofForkingPaths",
@@ -1391,15 +1396,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 266,
+      "Progressed": 268,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:10:27.1029289+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:10:04.3816391+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:29.0736038+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:01:15.6134702+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:10:27.1029525+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:00:57.2770758+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:10:04.3816672+00:00"
 }

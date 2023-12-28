@@ -2,12 +2,12 @@
   "ID": "abda8262a7884126a637518b1b44a0f8",
   "Name": "Tortuga - A Pirate\u0027s Tale",
   "ProductSlug": "tortuga-a-pirates-tale-e02635",
-  "Ranking_Rating": 1066,
+  "Ranking_Rating": 1067,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 367,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17347,
+  "EOS_Progressed": 17348,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7741,6 +7741,11 @@
       "Time": "2023-12-28T17:05:26.4223799+00:00",
       "NumProgressed": 17347,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T20:05:14.2484419+00:00",
+      "NumProgressed": 17348,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -7752,7 +7757,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16480
+      "UsersEstimate": 16481
     },
     {
       "ID": "ACH001",
@@ -7760,7 +7765,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14918
+      "UsersEstimate": 14919
     },
     {
       "ID": "ACH0010",
@@ -7784,7 +7789,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 8500
+      "UsersEstimate": 8501
     },
     {
       "ID": "ACH0013",
@@ -7832,7 +7837,7 @@
       "Name": "Curse of the Seven Seas",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 3816
+      "UsersEstimate": 3817
     },
     {
       "ID": "ACH0019",
@@ -7848,7 +7853,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12490
+      "UsersEstimate": 12491
     },
     {
       "ID": "ACH0020",
@@ -7872,7 +7877,7 @@
       "Name": "House Party!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 6071
+      "UsersEstimate": 6072
     },
     {
       "ID": "ACH0023",
@@ -7904,7 +7909,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 9367
+      "UsersEstimate": 9368
     },
     {
       "ID": "ACH004",
@@ -7912,7 +7917,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 15092
+      "UsersEstimate": 15093
     },
     {
       "ID": "ACH005",
@@ -7959,7 +7964,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 17347,
+      "Progressed": 17348,
       "Completed": 1
     }
   ],
@@ -7967,8 +7972,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-12-25T00:02:45.1252566+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:05:35.682509+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:05:14.2484414+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:31.2449897+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:03:08.9384897+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:05:35.6825656+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:02:49.0323084+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:05:14.2485031+00:00"
 }

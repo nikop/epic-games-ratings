@@ -1,13 +1,13 @@
 # Operation New Earth
 [Store](https://store.epicgames.com/en-US/p/operation-new-earth-1d27c4)  
 [View Rawdata](../../db/o/operation_new_earth.json)  
-Rating: 3.28 (Ranked 1,078)  
+Rating: 3.28 (Ranked 1,079)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It's Good to have Allies | 27.00% | ~569 |
-| Defenses Online | 25.00% | ~526 |
-| Facility Online | 20.00% | ~421 |
+| Defenses Online | 25.00% | ~527 |
+| Facility Online | 20.00% | ~422 |
 | Corporal | 15.00% | ~316 |
 | Covert Operative | 12.00% | ~253 |
 | Sergeant | 11.00% | ~232 |
@@ -17,11 +17,11 @@ Rating: 3.28 (Ranked 1,078)
 | Keeping Busy | 9.00% | ~190 |
 | Stocking Up | 9.00% | ~190 |
 | Infantry Reporting | 9.00% | ~190 |
-| Fighting for Survival | 8.00% | ~168 |
-| Silver Competitor | 8.00% | ~168 |
-| Captain | 8.00% | ~168 |
-| Factory Expansion | 8.00% | ~168 |
-| Exterminator | 7.00% | ~147 |
+| Fighting for Survival | 8.00% | ~169 |
+| Silver Competitor | 8.00% | ~169 |
+| Factory Expansion | 8.00% | ~169 |
+| Exterminator | 7.00% | ~148 |
+| Captain | 7.00% | ~148 |
 | Know The Enemy | 6.00% | ~126 |
 | Moving On Up | 6.00% | ~126 |
 | Brothers in Arms | 6.00% | ~126 |
@@ -44,7 +44,7 @@ Rating: 3.28 (Ranked 1,078)
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,106 (Ranked 239)  
+Progressed: 2,108 (Ranked 239)  
 Completed: 1 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 1 (0.05%) (Ranked 336)
 | 2023-12-25 | 2,088 | 1 |
 | 2023-12-26 | 2,096 | 1 |
 | 2023-12-27 | 2,101 | 1 |
-| 2023-12-28 | 2,106 | 1 |
+| 2023-12-28 | 2,108 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

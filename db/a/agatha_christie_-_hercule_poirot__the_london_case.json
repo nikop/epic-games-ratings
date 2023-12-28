@@ -4,8 +4,8 @@
   "ProductSlug": "agatha-christie-hercule-poirot-london-cases-c81a32",
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
     "PcReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -456,9 +456,9 @@
       "ID": "ACH_013",
       "SetID": "7b646ck",
       "Name": "Seeking the truth",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_014",
@@ -512,17 +512,17 @@
       "ID": "ACH_02",
       "SetID": "7b646ck",
       "Name": "The Gala",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_020",
       "SetID": "7b646ck",
       "Name": "An old friend",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_021",
@@ -799,8 +799,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:10:15.5305782+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:09:52.6766259+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:26.0256312+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:00:07.2235382+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:10:15.5306059+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:59:48.799556+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:09:52.6766634+00:00"
 }

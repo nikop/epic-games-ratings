@@ -2,10 +2,10 @@
   "ID": "aa192fc2c63f4db5b9faf193acc807e1",
   "Name": "Creepy Tale",
   "ProductSlug": "creepy-tale-058ebd",
-  "Ranking_EOS_Progress": 422,
-  "Ranking_EOS_Completed": 81,
+  "Ranking_EOS_Progress": 423,
+  "Ranking_EOS_Completed": 75,
   "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2021-02-21T17:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 194,
-  "EOS_Completed": 9,
+  "EOS_Completed": 10,
   "EOS_NewPlayers": 47,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.64,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 5.15,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -874,6 +874,11 @@
       "Time": "2023-12-28T16:10:04.5816349+00:00",
       "NumProgressed": 194,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-28T20:10:20.3153164+00:00",
+      "NumProgressed": 194,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -908,9 +913,9 @@
       "ID": "creepytaleach12",
       "SetID": "bnif31p",
       "Name": "Sweet feeling",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "creepytaleach13",
@@ -990,13 +995,13 @@
       "ID": "bnif31p",
       "IsBase": true,
       "Progressed": 194,
-      "Completed": 9
+      "Completed": 10
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:10:42.9753694+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:10:20.3153158+00:00",
   "LastUpdate_AppInfo": "2023-12-27T07:56:54.2023855+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:02:58.7566422+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:10:42.9753821+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:02:38.535602+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:10:20.3153297+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "16c882e1ebdc4212b75b9d59c30b08f0",
   "Name": "Asteroids: Recharged",
   "ProductSlug": "asteroids-recharged",
-  "Ranking_EOS_Progress": 430,
-  "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_Progress": 411,
+  "Ranking_EOS_Completed": 224,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-12-14T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 174,
+  "EOS_Progressed": 227,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.57,
+  "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.0797761+00:00",
@@ -379,6 +379,11 @@
       "Time": "2023-12-28T19:04:45.0205551+00:00",
       "NumProgressed": 174,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T20:04:23.4118801+00:00",
+      "NumProgressed": 227,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 16,
@@ -388,31 +393,31 @@
       "ID": "ACH_ALL_DEAD",
       "SetID": "ca3jj1k",
       "Name": "All Dead, All Dead",
-      "Percentage": 30,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_COOL_CAT",
       "SetID": "ca3jj1k",
       "Name": "Cool Cat",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FRIENDS",
       "SetID": "ca3jj1k",
       "Name": "Friends Will Be Friends",
-      "Percentage": 6,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_GOOD_COMPANY",
       "SetID": "ca3jj1k",
       "Name": "Good Company",
-      "Percentage": 0.6,
+      "Percentage": 0.4,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -420,9 +425,9 @@
       "ID": "ACH_KEEP_YOURSELF_ALIVE",
       "SetID": "ca3jj1k",
       "Name": "Keep Yourself Alive",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_KILLER_QUEEN",
@@ -430,13 +435,13 @@
       "Name": "Killer Queen",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_MACHINES",
       "SetID": "ca3jj1k",
       "Name": "Machines",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
       "UsersEstimate": 7
     },
@@ -444,17 +449,17 @@
       "ID": "ACH_MISFIRE",
       "SetID": "ca3jj1k",
       "Name": "Misfire",
-      "Percentage": 29,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_NOW_IM_HERE",
       "SetID": "ca3jj1k",
       "Name": "Now I\u0027m Here",
-      "Percentage": 58,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_PUT_OUT_THE_FIRE",
@@ -462,62 +467,62 @@
       "Name": "Put Out the Fire",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_ROCK_IT",
       "SetID": "ca3jj1k",
       "Name": "Rock It",
-      "Percentage": 16,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_THE_HERO",
       "SetID": "ca3jj1k",
       "Name": "The Hero",
-      "Percentage": 65,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_THE_HITMAN",
       "SetID": "ca3jj1k",
       "Name": "The Hitman",
-      "Percentage": 44,
+      "Percentage": 38,
       "XP": 75,
-      "UsersEstimate": 77
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_THE_INVISIBLE",
       "SetID": "ca3jj1k",
       "Name": "The Invisible Man",
-      "Percentage": 28,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_THE_MIRACLE",
       "SetID": "ca3jj1k",
       "Name": "The Miracle",
-      "Percentage": 26,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_WE_WILL_ROCK_YOU",
       "SetID": "ca3jj1k",
       "Name": "We Will Rock You",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 35
+      "UsersEstimate": 39
     }
   ],
   "AchievementSets": [
     {
       "ID": "ca3jj1k",
       "IsBase": true,
-      "Progressed": 174,
+      "Progressed": 227,
       "Completed": 1
     }
   ],
@@ -525,8 +530,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:04:45.0205546+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:04:23.4118797+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:35.7524538+00:00",
-  "LastUpdate_Ratings": "2023-12-28T18:57:40.0048415+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:04:45.0205673+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:57:22.3494244+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:04:23.4118939+00:00"
 }

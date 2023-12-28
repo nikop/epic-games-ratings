@@ -1,7 +1,7 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.61 (Ranked 1,074)  
+Rating: 3.61 (Ranked 1,075)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,10 +18,10 @@ Rating: 3.61 (Ranked 1,074)
 | Sucks To Be You | 7.00% | ~149 |
 | Enter of Your Own Free Will | 6.00% | ~128 |
 | Welcome to the Neighborhood | 6.00% | ~128 |
+| Grounded | 5.00% | ~107 |
 | Heart Attack | 5.00% | ~107 |
 | Skin of Their Teeth | 5.00% | ~107 |
 | Bad Wiring | 4.00% | ~85 |
-| Grounded | 4.00% | ~85 |
 | Neighborhood Revitalization | 3.00% | ~64 |
 | Radio Silence | 3.00% | ~64 |
 | Sic Transit Umbra | 2.00% | ~43 |

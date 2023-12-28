@@ -6,9 +6,9 @@
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 346,
-  "Ranking_EOS_Completed": 200,
+  "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -317,11 +317,11 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 464,
+  "EOS_Progressed": 466,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.65,
+  "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -1287,6 +1287,11 @@
       "Time": "2023-12-28T19:06:42.4349839+00:00",
       "NumProgressed": 464,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T20:06:21.5950398+00:00",
+      "NumProgressed": 466,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1339,7 +1344,7 @@
       "Name": "Uptown and Downtown",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -1475,7 +1480,7 @@
       "Name": "Super Spatula Seeker",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -1505,9 +1510,9 @@
       "ID": "ACH_STAT_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Spatula Seeker",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -1523,7 +1528,7 @@
       "Name": "Squirrel Smasher",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_STAT_STAR_SMASHER",
@@ -1554,15 +1559,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 464,
+      "Progressed": 466,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:06:42.4349834+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:06:21.5950394+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:01:27.4980354+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:06:42.4350092+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:01:09.1834148+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:06:21.5950629+00:00"
 }

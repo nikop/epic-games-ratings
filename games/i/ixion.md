@@ -5,24 +5,24 @@ Rating: 4.58 (Ranked 460)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 31.00% | ~1,172 |
-| Sputnik 2049 | 28.00% | ~1,059 |
-| Without Breaking Some Eggs... | 26.00% | ~983 |
-| Infinite Growth... | 26.00% | ~983 |
+| Wakey Wakey | 31.00% | ~1,174 |
+| Sputnik 2049 | 28.00% | ~1,060 |
+| Without Breaking Some Eggs... | 26.00% | ~984 |
+| Infinite Growth... | 26.00% | ~984 |
 | Space Society | 18.00% | ~681 |
 | A Thousand Strong | 18.00% | ~681 |
 | Ready for a New World | 18.00% | ~681 |
-| Permanent Redesigns | 16.00% | ~605 |
-| Fully Recycled | 14.00% | ~529 |
-| Ain't Nobody Got Time for That | 14.00% | ~529 |
-| The Ship of Theseus | 14.00% | ~529 |
+| Permanent Redesigns | 16.00% | ~606 |
+| Fully Recycled | 14.00% | ~530 |
+| Ain't Nobody Got Time for That | 14.00% | ~530 |
+| The Ship of Theseus | 14.00% | ~530 |
 | Guy de Borderlands | 13.00% | ~492 |
 | Hope Seeker | 13.00% | ~492 |
 | A Hunk of Junk | 12.00% | ~454 |
 | Exceeding Capacity | 12.00% | ~454 |
 | Breaking Protocol | 12.00% | ~454 |
-| Man's Best Friend | 9.00% | ~340 |
-| Power Outage | 9.00% | ~340 |
+| Man's Best Friend | 9.00% | ~341 |
+| Power Outage | 9.00% | ~341 |
 | Convenient Transport | 8.00% | ~303 |
 | Please Make it Stop! | 8.00% | ~303 |
 | Sightseeing | 7.00% | ~265 |
@@ -39,10 +39,10 @@ Rating: 4.58 (Ranked 460)
 | What the Ruins Teach Us | 5.00% | ~189 |
 | Sustainable Energy | 4.00% | ~151 |
 | Pedal to the Metal | 4.00% | ~151 |
-| Praise the Hull! | 3.00% | ~113 |
-| Delivery! | 3.00% | ~113 |
-| Help of the Forgotten Member | 3.00% | ~113 |
-| Pulsar Disciple | 3.00% | ~113 |
+| Praise the Hull! | 3.00% | ~114 |
+| Delivery! | 3.00% | ~114 |
+| Help of the Forgotten Member | 3.00% | ~114 |
+| Pulsar Disciple | 3.00% | ~114 |
 | Mutual Loyalty | 2.00% | ~76 |
 | Tiqqun Contender | 2.00% | ~76 |
 | Catastrophe Avoided | 2.00% | ~76 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 460)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,782 (Ranked 212)  
+Progressed: 3,786 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 3,722 | 0 |
 | 2023-12-26 | 3,743 | 0 |
 | 2023-12-27 | 3,765 | 0 |
-| 2023-12-28 | 3,782 | 0 |
+| 2023-12-28 | 3,786 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

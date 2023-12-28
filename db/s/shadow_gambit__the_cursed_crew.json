@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -179,11 +179,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1328,
+  "EOS_Progressed": 1329,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 2.64,
+  "EOS_Completed_Percentage": 2.63,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -4579,6 +4579,11 @@
       "Time": "2023-12-28T17:04:37.9113876+00:00",
       "NumProgressed": 1328,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-28T20:04:23.8690515+00:00",
+      "NumProgressed": 1329,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4599,7 +4604,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "_03_FinishAct1",
@@ -4623,7 +4628,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -4631,7 +4636,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "_07_FinishAct3",
@@ -4647,7 +4652,7 @@
       "Name": "Swabbie",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "_09_Completion_20",
@@ -4655,7 +4660,7 @@
       "Name": "Powder Monkey",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "_10_Completion_30",
@@ -4719,7 +4724,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -4798,7 +4803,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1328,
+      "Progressed": 1329,
       "Completed": 35
     }
   ],
@@ -4806,8 +4811,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2023-12-28T19:04:45.5688756+00:00",
+  "LastChanged_Achievements": "2023-12-28T20:04:23.8690511+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-28T18:59:06.2681764+00:00",
-  "LastUpdate_Achievements": "2023-12-28T19:04:45.5689097+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:58:47.7166349+00:00",
+  "LastUpdate_Achievements": "2023-12-28T20:04:23.8690851+00:00"
 }

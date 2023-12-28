@@ -17,7 +17,7 @@
 | Proper Walls | 30.00% | ~136 |
 | Destination Destiny | 30.00% | ~136 |
 | Happy Tenants | 25.00% | ~113 |
-| Potent Potables | 24.00% | ~109 |
+| Potent Potables | 25.00% | ~113 |
 | Smooth Service | 24.00% | ~109 |
 | Your Prestige is Rising | 23.00% | ~104 |
 | Retail Revenue | 23.00% | ~104 |
