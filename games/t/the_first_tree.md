@@ -1,18 +1,18 @@
 # The First Tree
 [Store](https://store.epicgames.com/en-US/p/the-first-tree)  
 [View Rawdata](../../db/t/the_first_tree.json)  
-Rating: 4.01 (Ranked 1,024)  
+Rating: 4.01 (Ranked 1,025)  
 Number of Ratings: 56  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Two Worlds | 77.00% | ~30,520 |
+| Two Worlds | 77.00% | ~30,522 |
 | 50 Stars | 26.00% | ~10,306 |
 | Hare Today | 24.00% | ~9,513 |
-| The Way Forward | 17.00% | ~6,738 |
-| Joseph | 9.00% | ~3,567 |
+| The Way Forward | 17.00% | ~6,739 |
+| Joseph | 9.00% | ~3,568 |
 | 100 Stars | 5.00% | ~1,982 |
-| Hummed of Mystery | 4.00% | ~1,585 |
+| Hummed of Mystery | 4.00% | ~1,586 |
 | Excavator | 2.00% | ~793 |
 | Well Hidden | 1.00% | ~396 |
 | Easter Bunny | 0.50% | ~198 |
@@ -21,7 +21,7 @@ Number of Ratings: 56  (23.09.2022)
 | Completionist | 0.40% | ~159 |
 | Deja Vu | 0.40% | ~159 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,637 (Ranked 130)  
+Progressed: 39,639 (Ranked 130)  
 Completed: 124 (0.31%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 124 (0.31%) (Ranked 251)
 | 2023-12-25 | 39,500 | 122 |
 | 2023-12-26 | 39,554 | 123 |
 | 2023-12-27 | 39,620 | 124 |
-| 2023-12-28 | 39,637 | 124 |
+| 2023-12-28 | 39,639 | 124 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

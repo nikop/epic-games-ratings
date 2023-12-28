@@ -2,9 +2,9 @@
   "ID": "2f85e4b21b8b459fa78a34e59ccac2a2",
   "Name": "KeyWe",
   "ProductSlug": "keywe-c3a70e",
-  "Ranking_EOS_Progress": 477,
+  "Ranking_EOS_Progress": 475,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-04-28T09:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 104,
+  "EOS_Progressed": 105,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -465,6 +465,11 @@
       "Time": "2023-12-27T04:04:39.4654183+00:00",
       "NumProgressed": 104,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T09:05:40.2571733+00:00",
+      "NumProgressed": 105,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:04:51.255408+00:00",
@@ -549,21 +554,21 @@
       "Name": "You\u0027re Hired",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "completeSummer",
       "SetID": "cfe0fhi",
       "Name": "Fun in the Bungalow Basin Sun",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 39
     },
     {
       "ID": "completeTheFirstWeek",
       "SetID": "cfe0fhi",
       "Name": "Learn the Ropes",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 5,
       "UsersEstimate": 77
     },
@@ -571,7 +576,7 @@
       "ID": "findFirstCollectible",
       "SetID": "cfe0fhi",
       "Name": "A Startling Discovery",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 35
     },
@@ -636,13 +641,13 @@
     {
       "ID": "cfe0fhi",
       "IsBase": true,
-      "Progressed": 104,
+      "Progressed": 105,
       "Completed": 0
     },
     {
       "ID": "cfj6lld",
       "IsBase": false,
-      "Progressed": 104,
+      "Progressed": 105,
       "Completed": 0
     }
   ],
@@ -650,8 +655,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2023-12-28T08:04:17.1280089+00:00",
+  "LastChanged_Achievements": "2023-12-28T09:05:40.257173+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:12.7482599+00:00",
-  "LastUpdate_Ratings": "2023-12-28T07:59:45.6956813+00:00",
-  "LastUpdate_Achievements": "2023-12-28T08:04:17.1280242+00:00"
+  "LastUpdate_Ratings": "2023-12-28T09:01:12.3456656+00:00",
+  "LastUpdate_Achievements": "2023-12-28T09:05:40.2571876+00:00"
 }

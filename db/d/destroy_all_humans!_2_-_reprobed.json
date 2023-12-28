@@ -1409,9 +1409,9 @@
       "ID": "ACH_OPEN_FLUFF_MENU",
       "SetID": "4n84pon",
       "Name": "Earthly Pleasures",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -1522,8 +1522,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-28T08:09:01.751812+00:00",
+  "LastChanged_Achievements": "2023-12-28T09:10:05.2654546+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-28T07:58:33.4969787+00:00",
-  "LastUpdate_Achievements": "2023-12-28T08:09:01.7518402+00:00"
+  "LastUpdate_Ratings": "2023-12-28T08:59:29.9976525+00:00",
+  "LastUpdate_Achievements": "2023-12-28T09:10:05.2654802+00:00"
 }

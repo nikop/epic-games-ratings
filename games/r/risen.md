@@ -21,7 +21,7 @@ Rating: 4.55 (Ranked 516)
 | Beast slayer | 22.00% | ~28 |
 | Family man | 20.00% | ~26 |
 | Death of a legend | 20.00% | ~26 |
-| Archaeologist | 19.00% | ~25 |
+| Archaeologist | 20.00% | ~26 |
 | Ogre friend | 19.00% | ~25 |
 | Sidelined | 19.00% | ~25 |
 | Wise man | 18.00% | ~23 |

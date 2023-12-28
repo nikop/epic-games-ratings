@@ -7,7 +7,7 @@
 | Something important | 83.00% | ~179 |
 | A piece of the story | 60.00% | ~130 |
 | Wanderer | 56.00% | ~121 |
-| It's covered up for a reason | 51.00% | ~110 |
+| It's covered up for a reason | 52.00% | ~112 |
 | Scraps of love | 46.00% | ~99 |
 | The artist’s impression | 46.00% | ~99 |
 | Do what you have to | 44.00% | ~95 |

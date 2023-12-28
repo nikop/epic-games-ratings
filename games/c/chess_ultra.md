@@ -5,31 +5,31 @@ Rating: 4.31 (Ranked 853)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 71.00% | ~159,358 |
-| Doubled Pawn | 57.00% | ~127,935 |
-| Check | 55.00% | ~123,446 |
-| Absolute pin | 47.00% | ~105,491 |
-| Promotion | 31.00% | ~69,579 |
-| Checkmate | 30.00% | ~67,334 |
+| Chop Wood | 71.00% | ~159,361 |
+| Doubled Pawn | 57.00% | ~127,938 |
+| Check | 55.00% | ~123,449 |
+| Absolute pin | 47.00% | ~105,492 |
+| Promotion | 31.00% | ~69,580 |
+| Checkmate | 30.00% | ~67,336 |
 | O-O | 24.00% | ~53,868 |
-| Spanish Bishop | 21.00% | ~47,134 |
+| Spanish Bishop | 21.00% | ~47,135 |
 | Queen Sacrifice | 20.00% | ~44,890 |
 | Stalemate | 18.00% | ~40,401 |
-| O-O-O | 13.00% | ~29,178 |
-| Octopus | 13.00% | ~29,178 |
+| O-O-O | 13.00% | ~29,179 |
+| Octopus | 13.00% | ~29,179 |
 | Stranger Danger | 12.00% | ~26,934 |
-| En Passant | 9.00% | ~20,200 |
-| Double Check | 7.00% | ~15,711 |
+| En Passant | 9.00% | ~20,201 |
+| Double Check | 7.00% | ~15,712 |
 | Family Fork | 6.00% | ~13,467 |
 | Piece Collector | 6.00% | ~13,467 |
-| ELO | 5.00% | ~11,222 |
+| ELO | 5.00% | ~11,223 |
 | Friendly Fire | 4.00% | ~8,978 |
 | Underpromote | 4.00% | ~8,978 |
-| ELO ELO | 3.00% | ~6,733 |
-| Learner | 3.00% | ~6,733 |
+| ELO ELO | 3.00% | ~6,734 |
+| Learner | 3.00% | ~6,734 |
 | Blind Pigs | 2.00% | ~4,489 |
 | ELO ELO ELO | 2.00% | ~4,489 |
-| Bobby Time | 1.00% | ~2,244 |
+| Bobby Time | 1.00% | ~2,245 |
 | Back-rank Mate | 0.90% | ~2,020 |
 | Chess Champion | 0.30% | ~673 |
 | Alekhine’s gun | 0.20% | ~449 |
@@ -44,7 +44,7 @@ Rating: 4.31 (Ranked 853)
 | Tournament Master | 0.10% | ~224 |
 | Tournament Pro | 0.10% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,448 (Ranked 75)  
+Progressed: 224,452 (Ranked 75)  
 Completed: 2 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 2 (0.00%) (Ranked 389)
 | 2023-12-25 | 223,978 | 2 |
 | 2023-12-26 | 224,189 | 2 |
 | 2023-12-27 | 224,382 | 2 |
-| 2023-12-28 | 224,448 | 2 |
+| 2023-12-28 | 224,452 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

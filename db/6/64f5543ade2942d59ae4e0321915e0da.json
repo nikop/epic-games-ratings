@@ -2,9 +2,9 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 278,
+  "EOS_Progressed": 280,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1119,6 +1119,11 @@
       "Time": "2023-12-28T06:05:40.4226283+00:00",
       "NumProgressed": 278,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T09:07:53.2382165+00:00",
+      "NumProgressed": 280,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1195,7 +1200,7 @@
       "Name": "Ludopath",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "AC_BOSS_00",
@@ -1203,7 +1208,7 @@
       "Name": "Hunger",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "AC_BOSS_01",
@@ -1211,7 +1216,7 @@
       "Name": "Misery",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "AC_BOSS_02",
@@ -1219,7 +1224,7 @@
       "Name": "Downfall",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "AC_BOSS_03",
@@ -1227,7 +1232,7 @@
       "Name": "Sacrilege",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "AC_BOSS_04",
@@ -1275,7 +1280,7 @@
       "Name": "Corpse",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "AC_DEATH_2",
@@ -1299,7 +1304,7 @@
       "Name": "Killer",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1307,7 +1312,7 @@
       "Name": "Psycopath",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -1321,17 +1326,17 @@
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 224
     },
     {
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 125
+      "UsersEstimate": 123
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -1347,7 +1352,7 @@
       "Name": "Player",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -1355,7 +1360,7 @@
       "Name": "Creation",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "AC_FLASHBACK_02",
@@ -1379,7 +1384,7 @@
       "Name": "Vision",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "AC_MONEY_BLACKJACK",
@@ -1401,9 +1406,9 @@
       "ID": "AC_PISTOL_MAX",
       "SetID": "16i2akc",
       "Name": "Gun",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "AC_RECIPES_DONE_1",
@@ -1435,7 +1440,7 @@
       "Name": "Loss",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -1466,14 +1471,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 278,
+      "Progressed": 280,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-28T08:05:55.1879858+00:00",
+  "LastChanged_Achievements": "2023-12-28T09:07:53.2382163+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:54.1541826+00:00",
-  "LastUpdate_Ratings": "2023-12-28T08:00:21.9113771+00:00",
-  "LastUpdate_Achievements": "2023-12-28T08:05:55.1880182+00:00"
+  "LastUpdate_Ratings": "2023-12-28T09:02:00.8555535+00:00",
+  "LastUpdate_Achievements": "2023-12-28T09:07:53.2382459+00:00"
 }

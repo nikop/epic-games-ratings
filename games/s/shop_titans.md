@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 9.00% | ~13,327 |
-| Basic in Bulk | 9.00% | ~13,327 |
-| Titan's First Steps | 9.00% | ~13,327 |
-| Tinkle of Coins | 8.00% | ~11,846 |
+| Sponsored by Argon | 9.00% | ~13,328 |
+| Basic in Bulk | 9.00% | ~13,328 |
+| Titan's First Steps | 9.00% | ~13,328 |
+| Tinkle of Coins | 8.00% | ~11,847 |
 | Disintermediation | 7.00% | ~10,366 |
 | It's Free Real Estate | 6.00% | ~8,885 |
 | Budding Merchant | 6.00% | ~8,885 |
@@ -26,25 +26,25 @@ Number of Ratings: 12,664  (23.09.2022)
 | One-Armed Bandit | 4.00% | ~5,923 |
 | Dungeon Imports | 4.00% | ~5,923 |
 | Through Repetition, Perfection | 4.00% | ~5,923 |
-| On the Path to Greatness | 3.00% | ~4,442 |
-| Ascended | 3.00% | ~4,442 |
-| Research & Development | 3.00% | ~4,442 |
-| Vanity, Verily | 3.00% | ~4,442 |
-| Fated Encounters | 3.00% | ~4,442 |
-| Blank Page Syndrome | 3.00% | ~4,442 |
-| Demand for Supplies | 3.00% | ~4,442 |
-| Power of Love | 3.00% | ~4,442 |
-| Efficient Floor Space | 3.00% | ~4,442 |
-| Flawless Fusion | 3.00% | ~4,442 |
-| Gem Expert | 3.00% | ~4,442 |
-| Gild-Gotten Goods | 3.00% | ~4,442 |
-| Royal Ransom | 3.00% | ~4,442 |
-| Helping Hand | 3.00% | ~4,442 |
-| Accomplished Merchant | 3.00% | ~4,442 |
-| Natural 20 | 3.00% | ~4,442 |
-| Did we pack lunch? | 3.00% | ~4,442 |
-| Magical Harmony | 3.00% | ~4,442 |
-| Arcane Industries | 3.00% | ~4,442 |
+| On the Path to Greatness | 3.00% | ~4,443 |
+| Ascended | 3.00% | ~4,443 |
+| Research & Development | 3.00% | ~4,443 |
+| Vanity, Verily | 3.00% | ~4,443 |
+| Fated Encounters | 3.00% | ~4,443 |
+| Blank Page Syndrome | 3.00% | ~4,443 |
+| Demand for Supplies | 3.00% | ~4,443 |
+| Power of Love | 3.00% | ~4,443 |
+| Efficient Floor Space | 3.00% | ~4,443 |
+| Flawless Fusion | 3.00% | ~4,443 |
+| Gem Expert | 3.00% | ~4,443 |
+| Gild-Gotten Goods | 3.00% | ~4,443 |
+| Royal Ransom | 3.00% | ~4,443 |
+| Helping Hand | 3.00% | ~4,443 |
+| Accomplished Merchant | 3.00% | ~4,443 |
+| Natural 20 | 3.00% | ~4,443 |
+| Did we pack lunch? | 3.00% | ~4,443 |
+| Magical Harmony | 3.00% | ~4,443 |
+| Arcane Industries | 3.00% | ~4,443 |
 | A Notch Above the Rest | 2.00% | ~2,962 |
 | Cream of the Crop | 2.00% | ~2,962 |
 | Top of the World | 2.00% | ~2,962 |
@@ -61,6 +61,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Scrapbooker | 2.00% | ~2,962 |
 | Archivist | 2.00% | ~2,962 |
 | Locally Sourced | 2.00% | ~2,962 |
+| Fillin' the Bin | 2.00% | ~2,962 |
 | Flying off the Shelves | 2.00% | ~2,962 |
 | Industrial Evolution | 2.00% | ~2,962 |
 | This Power Level...! | 2.00% | ~2,962 |
@@ -100,7 +101,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 2.00% | ~2,962 |
 | King's Blade | 2.00% | ~2,962 |
 | The Free Encyclopedia | 1.00% | ~1,481 |
-| Fillin' the Bin | 1.00% | ~1,481 |
 | Thank You Tom Nook | 1.00% | ~1,481 |
 | Jackpot! | 1.00% | ~1,481 |
 | Eternal Crusade | 1.00% | ~1,481 |
@@ -110,16 +110,16 @@ Number of Ratings: 12,664  (23.09.2022)
 | Anything not Nailed Down | 0.80% | ~1,185 |
 | Marvels from the World Over | 0.80% | ~1,185 |
 | Bane of Legends | 0.70% | ~1,037 |
-| Ultimate Collector | 0.60% | ~888 |
-| Unleashed Potential | 0.60% | ~888 |
-| JACKPOT!!! | 0.60% | ~888 |
+| Ultimate Collector | 0.60% | ~889 |
+| Unleashed Potential | 0.60% | ~889 |
+| JACKPOT!!! | 0.60% | ~889 |
 | Oligarch Monarch | 0.50% | ~740 |
 | Merchant Extraordinaire | 0.50% | ~740 |
 | To Hell and Back | 0.40% | ~592 |
 | Cash Only Please | 0.40% | ~592 |
 | Capitalist Camaraderie | 0.20% | ~296 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,080 (Ranked 83)  
+Progressed: 148,086 (Ranked 83)  
 Completed: 336 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -371,7 +371,7 @@ Completed: 336 (0.23%) (Ranked 267)
 | 2023-12-25 | 147,608 | 334 |
 | 2023-12-26 | 147,830 | 336 |
 | 2023-12-27 | 148,016 | 336 |
-| 2023-12-28 | 148,080 | 336 |
+| 2023-12-28 | 148,086 | 336 |
 ## Awards
 Max (Great for Beginners): 4,922  (Ranked 76)  
 Sum: 27,837 (Ranked 51)  

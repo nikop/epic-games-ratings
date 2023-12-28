@@ -409,7 +409,7 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1524,
+  "EOS_Progressed": 1525,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
@@ -3834,6 +3834,11 @@
       "Time": "2023-12-28T07:09:49.0857048+00:00",
       "NumProgressed": 1524,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T09:11:17.3028458+00:00",
+      "NumProgressed": 1525,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3901,7 +3906,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1509
+      "UsersEstimate": 1510
     },
     {
       "ID": "EXPERT_1",
@@ -3995,9 +4000,9 @@
       "ID": "ONE_HIT_WONDER_1",
       "SetID": "bf13m8j",
       "Name": "One HIT wonder",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 533
+      "UsersEstimate": 518
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4005,7 +4010,7 @@
       "Name": "One shot, one kill",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "PACIFIST",
@@ -4109,7 +4114,7 @@
       "Name": "The Vitinsky Rifle",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "WANDERER_1",
@@ -4132,15 +4137,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1524,
+      "Progressed": 1525,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-12-27T01:41:52.1948259+00:00",
-  "LastChanged_Achievements": "2023-12-28T08:09:54.5283476+00:00",
+  "LastChanged_Achievements": "2023-12-28T09:11:17.3028455+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.1094893+00:00",
-  "LastUpdate_Ratings": "2023-12-28T07:58:03.0420505+00:00",
-  "LastUpdate_Achievements": "2023-12-28T08:09:54.5283846+00:00"
+  "LastUpdate_Ratings": "2023-12-28T08:58:49.8003054+00:00",
+  "LastUpdate_Achievements": "2023-12-28T09:11:17.3028861+00:00"
 }

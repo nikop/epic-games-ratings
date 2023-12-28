@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 856,
+  "EOS_Progressed": 857,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
@@ -2300,6 +2300,11 @@
       "Time": "2023-12-28T00:10:01.7287583+00:00",
       "NumProgressed": 856,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-28T09:10:40.4700586+00:00",
+      "NumProgressed": 857,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 20,
@@ -2311,7 +2316,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "CHOICES_MATTER",
@@ -2357,9 +2362,9 @@
       "ID": "ENDING_5",
       "SetID": "8eejhlh",
       "Name": "The Delivery",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 385
+      "UsersEstimate": 377
     },
     {
       "ID": "ENDING_6",
@@ -2367,7 +2372,7 @@
       "Name": "The Bribe",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ENDING_7",
@@ -2399,7 +2404,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "GOOD_KARMA",
@@ -2407,7 +2412,7 @@
       "Name": "Good Karma",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "INTERROGATION",
@@ -2415,7 +2420,7 @@
       "Name": "Interrogation",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "OFFICE_CLERK",
@@ -2470,7 +2475,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 856,
+      "Progressed": 857,
       "Completed": 10
     }
   ],
@@ -2478,8 +2483,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-28T08:09:27.2176282+00:00",
+  "LastChanged_Achievements": "2023-12-28T09:10:40.4700584+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:26.7088663+00:00",
-  "LastUpdate_Ratings": "2023-12-28T07:58:23.2959819+00:00",
-  "LastUpdate_Achievements": "2023-12-28T08:09:27.217647+00:00"
+  "LastUpdate_Ratings": "2023-12-28T08:59:16.501133+00:00",
+  "LastUpdate_Achievements": "2023-12-28T09:10:40.4700786+00:00"
 }

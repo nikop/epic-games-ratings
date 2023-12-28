@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1313,10 +1313,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 367,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2023-12-28T09:00:28.0246421+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 368,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 367,
+  "NumberOfAwards": 368,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1378,12 +1384,12 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 37
+      "Count": 38
     }
   ],
-  "EOS_Progressed": 259869,
+  "EOS_Progressed": 259872,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25451,6 +25457,11 @@
       "Time": "2023-12-28T08:08:15.2195652+00:00",
       "NumProgressed": 259869,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T09:09:01.8269043+00:00",
+      "NumProgressed": 259872,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -25510,7 +25521,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80559
+      "UsersEstimate": 80560
     },
     {
       "ID": "BackHomeNTimes",
@@ -25518,7 +25529,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12993
+      "UsersEstimate": 12994
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -25590,7 +25601,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12993
+      "UsersEstimate": 12994
     },
     {
       "ID": "CreedsInBank2",
@@ -25750,7 +25761,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59770
+      "UsersEstimate": 59771
     },
     {
       "ID": "KillOthers2",
@@ -25909,16 +25920,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 259869,
+      "Progressed": 259872,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-12-25T20:58:19.9704029+00:00",
-  "LastChanged_Achievements": "2023-12-28T08:08:15.2195646+00:00",
+  "LastChanged": "2023-12-28T09:00:28.0246418+00:00",
+  "LastChanged_Achievements": "2023-12-28T09:09:01.8269041+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:00.5138284+00:00",
-  "LastUpdate_Ratings": "2023-12-28T07:59:14.981824+00:00",
-  "LastUpdate_Achievements": "2023-12-28T08:08:15.2197216+00:00"
+  "LastUpdate_Ratings": "2023-12-28T09:00:28.0246424+00:00",
+  "LastUpdate_Achievements": "2023-12-28T09:09:01.8270287+00:00"
 }

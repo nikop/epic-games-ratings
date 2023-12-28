@@ -14,8 +14,8 @@
 | Clay Fighter | 16.00% | ~628 |
 | All Ovens Blazing | 13.00% | ~510 |
 | Nowhere left to Hide | 13.00% | ~510 |
+| Held Back by the Roots | 12.00% | ~471 |
 | Boulder Clash | 12.00% | ~471 |
-| Held Back by the Roots | 11.00% | ~432 |
 | Well Supplied | 10.00% | ~392 |
 | Sniped | 7.00% | ~275 |
 | Leave Them no Cake | 7.00% | ~275 |

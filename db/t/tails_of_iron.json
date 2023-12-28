@@ -4365,9 +4365,9 @@
       "ID": "Kill25Bugs",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Grubs",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "Kill25Frogs",
@@ -4381,9 +4381,9 @@
       "ID": "Kill25Mozi",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Mozis",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "MeetTheMoles",
@@ -4508,8 +4508,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-23T19:58:55.6551134+00:00",
-  "LastChanged_Achievements": "2023-12-28T08:03:18.3088419+00:00",
+  "LastChanged_Achievements": "2023-12-28T09:04:21.3001986+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:15.2928033+00:00",
-  "LastUpdate_Ratings": "2023-12-28T08:02:37.1565534+00:00",
-  "LastUpdate_Achievements": "2023-12-28T08:03:18.3088864+00:00"
+  "LastUpdate_Ratings": "2023-12-28T09:03:20.1112705+00:00",
+  "LastUpdate_Achievements": "2023-12-28T09:04:21.3002437+00:00"
 }

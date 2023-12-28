@@ -6,7 +6,7 @@
   "Ranking_Popularity": 425,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 81,
-  "Ranking_EOS_Completed": 264,
+  "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -1747,10 +1747,10 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 165031,
+  "EOS_Progressed": 165043,
   "EOS_Completed": 417,
-  "EOS_NewPlayers": 1431,
-  "EOS_NewCompleters": 50,
+  "EOS_NewPlayers": 1439,
+  "EOS_NewCompleters": 49,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
     {
@@ -20902,6 +20902,11 @@
       "Time": "2023-12-28T08:05:27.9783629+00:00",
       "NumProgressed": 165031,
       "NumCompleted": 417
+    },
+    {
+      "Time": "2023-12-28T09:07:15.8978579+00:00",
+      "NumProgressed": 165043,
+      "NumCompleted": 417
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -21026,7 +21031,7 @@
       "Name": "Glare",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -21281,21 +21286,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 164614,
+      "Progressed": 164626,
       "Completed": 1247
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 165031,
+      "Progressed": 165043,
       "Completed": 417
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-26T18:59:35.5919869+00:00",
-  "LastChanged_Achievements": "2023-12-28T08:05:27.9783624+00:00",
+  "LastChanged_Achievements": "2023-12-28T09:07:15.8978577+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:22.7260202+00:00",
-  "LastUpdate_Ratings": "2023-12-28T07:59:22.462341+00:00",
-  "LastUpdate_Achievements": "2023-12-28T08:05:27.9784769+00:00"
+  "LastUpdate_Ratings": "2023-12-28T09:00:38.0257656+00:00",
+  "LastUpdate_Achievements": "2023-12-28T09:07:15.8979544+00:00"
 }

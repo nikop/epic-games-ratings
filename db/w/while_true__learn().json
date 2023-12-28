@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2021-12-02T16:00:00+00:00",
     "PcReleaseDate": "2019-01-17T15:00:00+00:00",
@@ -523,7 +523,7 @@
       "Count": 140
     }
   ],
-  "EOS_Progressed": 615979,
+  "EOS_Progressed": 615983,
   "EOS_Completed": 562,
   "EOS_NewPlayers": 1218,
   "EOS_NewCompleters": 5,
@@ -28948,6 +28948,11 @@
       "Time": "2023-12-28T08:08:55.7663506+00:00",
       "NumProgressed": 615979,
       "NumCompleted": 562
+    },
+    {
+      "Time": "2023-12-28T09:09:57.1447889+00:00",
+      "NumProgressed": 615983,
+      "NumCompleted": 562
     }
   ],
   "TotalAchievements": 28,
@@ -29023,7 +29028,7 @@
       "Name": "We need more gold",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 375747
+      "UsersEstimate": 375750
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -29039,7 +29044,7 @@
       "Name": "One more!",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 271031
+      "UsersEstimate": 271033
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -29055,7 +29060,7 @@
       "Name": "Cosplay",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 86237
+      "UsersEstimate": 86238
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -29063,7 +29068,7 @@
       "Name": "Evolution in progress...",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 80077
+      "UsersEstimate": 80078
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -29071,7 +29076,7 @@
       "Name": "Beauty and harmony",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 295670
+      "UsersEstimate": 295672
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -29079,7 +29084,7 @@
       "Name": "More FPS for the FPS god!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 307990
+      "UsersEstimate": 307992
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -29087,7 +29092,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 572860
+      "UsersEstimate": 572864
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -29095,7 +29100,7 @@
       "Name": "Overmind",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 147835
+      "UsersEstimate": 147836
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -29119,7 +29124,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 406546
+      "UsersEstimate": 406549
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -29127,7 +29132,7 @@
       "Name": "RNG is my best friend now",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 110876
+      "UsersEstimate": 110877
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -29135,7 +29140,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 326469
+      "UsersEstimate": 326471
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -29143,7 +29148,7 @@
       "Name": "Step by step",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 49278
+      "UsersEstimate": 49279
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -29182,15 +29187,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 615979,
+      "Progressed": 615983,
       "Completed": 562
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-12-26T11:02:39.9263335+00:00",
-  "LastChanged_Achievements": "2023-12-28T08:08:55.76635+00:00",
+  "LastChanged_Achievements": "2023-12-28T09:09:57.1447887+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:35.6897978+00:00",
-  "LastUpdate_Ratings": "2023-12-28T07:56:58.4157019+00:00",
-  "LastUpdate_Achievements": "2023-12-28T08:08:55.7664941+00:00"
+  "LastUpdate_Ratings": "2023-12-28T08:57:24.5378463+00:00",
+  "LastUpdate_Achievements": "2023-12-28T09:09:57.1449104+00:00"
 }

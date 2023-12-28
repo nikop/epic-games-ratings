@@ -5,34 +5,34 @@ Rating: 4.88 (Ranked 17)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 54.00% | ~1,037 |
-| Welcome to the Tower | 49.00% | ~941 |
-| The great escape | 41.00% | ~787 |
-| The Preacher's fate | 39.00% | ~749 |
+| That's the spirit | 54.00% | ~1,038 |
+| Welcome to the Tower | 49.00% | ~942 |
+| The great escape | 41.00% | ~788 |
+| The Preacher's fate | 39.00% | ~750 |
 | A new dawn | 33.00% | ~634 |
 | Scholar | 28.00% | ~538 |
-| True G3M4R | 27.00% | ~518 |
-| The darkness | 27.00% | ~518 |
-| A good beginning | 26.00% | ~499 |
+| True G3M4R | 27.00% | ~519 |
+| The darkness | 27.00% | ~519 |
+| A good beginning | 26.00% | ~500 |
+| One last step | 24.00% | ~461 |
 | Cable guy | 23.00% | ~442 |
 | Half the way | 23.00% | ~442 |
 | Rascal | 23.00% | ~442 |
-| One last step | 23.00% | ~442 |
-| I did it | 22.00% | ~422 |
-| In this together | 21.00% | ~403 |
-| Peace walker | 21.00% | ~403 |
-| Champollion | 21.00% | ~403 |
+| I did it | 22.00% | ~423 |
+| In this together | 21.00% | ~404 |
+| Peace walker | 21.00% | ~404 |
+| Champollion | 21.00% | ~404 |
 | Open door | 19.00% | ~365 |
 | Feels like springtime | 18.00% | ~346 |
 | Alchemists Express | 18.00% | ~346 |
-| Free at last | 16.00% | ~307 |
+| Free at last | 16.00% | ~308 |
 | A Link to the Past | 14.00% | ~269 |
-| A great audience | 12.00% | ~230 |
-| For its own good | 12.00% | ~230 |
+| A great audience | 12.00% | ~231 |
+| For its own good | 12.00% | ~231 |
 | Fashion victim | 8.00% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,920 (Ranked 240)  
-Completed: 115 (5.99%) (Ranked 71)  
+Progressed: 1,922 (Ranked 240)  
+Completed: 115 (5.98%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -190,7 +190,7 @@ Completed: 115 (5.99%) (Ranked 71)
 | 2023-12-25 | 1,793 | 105 |
 | 2023-12-26 | 1,854 | 110 |
 | 2023-12-27 | 1,909 | 114 |
-| 2023-12-28 | 1,920 | 115 |
+| 2023-12-28 | 1,922 | 115 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

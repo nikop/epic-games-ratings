@@ -621,9 +621,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6377,
+  "EOS_Progressed": 6378,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 459,
+  "EOS_NewPlayers": 458,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9471,6 +9471,11 @@
       "Time": "2023-12-28T07:04:26.5492976+00:00",
       "NumProgressed": 6377,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-28T09:05:52.0002271+00:00",
+      "NumProgressed": 6378,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9610,7 +9615,7 @@
       "Name": "Secret Technique",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "25",
@@ -9648,9 +9653,9 @@
       "ID": "29",
       "SetID": "3aa2279",
       "Name": "Stronger Together",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 319
     },
     {
       "ID": "3",
@@ -9672,9 +9677,9 @@
       "ID": "31",
       "SetID": "3aa2279",
       "Name": "Magical Synergy",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 319
+      "UsersEstimate": 383
     },
     {
       "ID": "32",
@@ -9961,13 +9966,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6377,
+      "Progressed": 6378,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6377,
+      "Progressed": 6378,
       "Completed": 7
     }
   ],
@@ -9975,8 +9980,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-27T21:02:05.3548504+00:00",
-  "LastChanged_Achievements": "2023-12-28T08:04:25.8858272+00:00",
+  "LastChanged_Achievements": "2023-12-28T09:05:52.0002267+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-28T08:00:26.6170088+00:00",
-  "LastUpdate_Achievements": "2023-12-28T08:04:25.8858973+00:00"
+  "LastUpdate_Ratings": "2023-12-28T09:03:06.4580653+00:00",
+  "LastUpdate_Achievements": "2023-12-28T09:05:52.0002964+00:00"
 }

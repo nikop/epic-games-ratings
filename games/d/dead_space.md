@@ -5,47 +5,47 @@ Rating: 4.68 (Ranked 259)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 96.00% | ~10,652 |
-| Welcome Aboard | 80.00% | ~8,877 |
-| Lab Rat | 63.00% | ~6,990 |
-| All Systems Go | 51.00% | ~5,659 |
-| Brute Force | 49.00% | ~5,437 |
-| Raise the Stakes | 46.00% | ~5,104 |
-| Cannon Fodder | 45.00% | ~4,993 |
-| Autofire | 41.00% | ~4,549 |
-| True Believer | 41.00% | ~4,549 |
-| Story Teller | 40.00% | ~4,438 |
-| Surgeon | 37.00% | ~4,106 |
-| Freeze | 36.00% | ~3,995 |
-| Exterminator | 36.00% | ~3,995 |
-| Greenhouse Effect | 36.00% | ~3,995 |
-| Full Arsenal | 30.00% | ~3,329 |
-| Live with the Hot Ones | 30.00% | ~3,329 |
-| S.O.S. | 30.00% | ~3,329 |
-| Get Off My Ship! | 28.00% | ~3,107 |
-| Strange Transmissions | 28.00% | ~3,107 |
-| Wreckage | 27.00% | ~2,996 |
-| Keeper of the Faith | 25.00% | ~2,774 |
-| Betrayed | 23.00% | ~2,552 |
-| A Cut Above | 23.00% | ~2,552 |
-| Legend Teller | 23.00% | ~2,552 |
-| Exodus | 22.00% | ~2,441 |
-| There's Always Peng! | 22.00% | ~2,441 |
-| Mindless Prey | 22.00% | ~2,441 |
-| Front Toward Enemy | 21.00% | ~2,330 |
-| Whole Again | 17.00% | ~1,886 |
-| Set A Benchmark | 17.00% | ~1,886 |
-| Final Regeneration | 15.00% | ~1,664 |
-| Full Contact | 15.00% | ~1,664 |
-| Full Clearance | 14.00% | ~1,553 |
-| Pusher | 13.00% | ~1,442 |
-| Pack Rat | 13.00% | ~1,442 |
-| Z-Baller | 13.00% | ~1,442 |
-| Eviscerator | 10.00% | ~1,110 |
-| Backbreaker | 9.00% | ~999 |
-| Marked | 9.00% | ~999 |
-| Wishbone | 6.00% | ~666 |
-| Built To Order | 3.00% | ~333 |
+| Marksman | 96.00% | ~10,674 |
+| Welcome Aboard | 80.00% | ~8,895 |
+| Lab Rat | 63.00% | ~7,005 |
+| All Systems Go | 51.00% | ~5,671 |
+| Brute Force | 49.00% | ~5,448 |
+| Raise the Stakes | 46.00% | ~5,115 |
+| Cannon Fodder | 45.00% | ~5,004 |
+| Autofire | 41.00% | ~4,559 |
+| True Believer | 41.00% | ~4,559 |
+| Story Teller | 40.00% | ~4,448 |
+| Surgeon | 37.00% | ~4,114 |
+| Freeze | 36.00% | ~4,003 |
+| Exterminator | 36.00% | ~4,003 |
+| Greenhouse Effect | 36.00% | ~4,003 |
+| Full Arsenal | 31.00% | ~3,447 |
+| Live with the Hot Ones | 30.00% | ~3,336 |
+| S.O.S. | 30.00% | ~3,336 |
+| Get Off My Ship! | 28.00% | ~3,113 |
+| Strange Transmissions | 28.00% | ~3,113 |
+| Wreckage | 27.00% | ~3,002 |
+| Keeper of the Faith | 25.00% | ~2,780 |
+| Betrayed | 23.00% | ~2,557 |
+| A Cut Above | 23.00% | ~2,557 |
+| Legend Teller | 23.00% | ~2,557 |
+| Exodus | 22.00% | ~2,446 |
+| There's Always Peng! | 22.00% | ~2,446 |
+| Mindless Prey | 22.00% | ~2,446 |
+| Front Toward Enemy | 21.00% | ~2,335 |
+| Whole Again | 17.00% | ~1,890 |
+| Set A Benchmark | 17.00% | ~1,890 |
+| Final Regeneration | 15.00% | ~1,668 |
+| Full Contact | 15.00% | ~1,668 |
+| Full Clearance | 14.00% | ~1,557 |
+| Pusher | 13.00% | ~1,445 |
+| Pack Rat | 13.00% | ~1,445 |
+| Z-Baller | 13.00% | ~1,445 |
+| Eviscerator | 10.00% | ~1,112 |
+| Backbreaker | 9.00% | ~1,001 |
+| Marked | 9.00% | ~1,001 |
+| Wishbone | 6.00% | ~667 |
+| Built To Order | 3.00% | ~334 |
 | Trusted Contractor | 2.00% | ~222 |
 | Merchant | 2.00% | ~222 |
 | Maxed Out | 1.00% | ~111 |
@@ -53,7 +53,7 @@ Rating: 4.68 (Ranked 259)
 | Untouchable | 0.80% | ~89 |
 | One Gun | 0.80% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,096 (Ranked 175)  
+Progressed: 11,119 (Ranked 175)  
 Completed: 18 (0.16%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,14 +158,14 @@ Completed: 18 (0.16%) (Ranked 284)
 | 2023-12-25 | 10,052 | 18 |
 | 2023-12-26 | 10,555 | 18 |
 | 2023-12-27 | 10,976 | 18 |
-| 2023-12-28 | 11,096 | 18 |
+| 2023-12-28 | 11,119 | 18 |
 ## Awards
-Max (Great Boss Battles): 168  (Ranked 316)  
-Sum: 168 (Ranked 428)  
+Max (Great Boss Battles): 171  (Ranked 315)  
+Sum: 171 (Ranked 427)  
 Diff (max vs sum): -112  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 168 |
+| This game has Great Boss Battles | 171 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -296,3 +296,4 @@ Diff (max vs sum): -112
 | 2023-12-24 | 4.67 | 151 | 151 |
 | 2023-12-25 | 4.68 | 163 | 163 |
 | 2023-12-26 | 4.68 | 168 | 168 |
+| 2023-12-28 | 4.68 | 171 | 171 |

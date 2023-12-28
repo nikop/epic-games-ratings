@@ -5,22 +5,22 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Life of Pi | 57.00% | ~25 |
+| The Legend | 57.00% | ~25 |
 | The Remains of Fleed | 55.00% | ~24 |
-| The Legend | 55.00% | ~24 |
 | Escape from Fleed | 41.00% | ~18 |
 | First Contact | 39.00% | ~17 |
-| Strength in Defeat | 36.00% | ~16 |
+| Strength in Defeat | 39.00% | ~17 |
 | Technology first! | 23.00% | ~10 |
 | The Keeper of Fleed | 18.00% | ~8 |
 | The Exterminator | 16.00% | ~7 |
 | Earth's Savior | 14.00% | ~6 |
 | The Collector | 11.00% | ~5 |
+| The Vega Turtle | 9.00% | ~4 |
 | Gold Seeker | 7.00% | ~3 |
 | The Planner | 7.00% | ~3 |
 | Iron Fist | 7.00% | ~3 |
 | The Broken Guard | 7.00% | ~3 |
 | The Space Hydra | 7.00% | ~3 |
-| The Vega Turtle | 7.00% | ~3 |
 | A Land of Peace | 5.00% | ~2 |
 | A Good Paint Job | 5.00% | ~2 |
 | The Flying Octopus | 5.00% | ~2 |

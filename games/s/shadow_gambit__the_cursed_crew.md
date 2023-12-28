@@ -21,8 +21,8 @@ Rating: 4.79 (Ranked 101)
 | Persistent Parasite | 17.00% | ~225 |
 | Seadog | 14.00% | ~185 |
 | Jaded Judge | 12.00% | ~159 |
-| Tobacco Travesty | 11.00% | ~146 |
 | Rustic Recipe | 11.00% | ~146 |
+| Tobacco Travesty | 10.00% | ~132 |
 | Privateer | 9.00% | ~119 |
 | Accursed Artifacts | 9.00% | ~119 |
 | Lyrical Longing | 9.00% | ~119 |
@@ -32,8 +32,8 @@ Rating: 4.79 (Ranked 101)
 | Marauder | 3.00% | ~40 |
 | Welcome Back Jester | 3.00% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,323 (Ranked 266)  
-Completed: 35 (2.65%) (Ranked 122)  
+Progressed: 1,324 (Ranked 266)  
+Completed: 35 (2.64%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -172,7 +172,7 @@ Completed: 35 (2.65%) (Ranked 122)
 | 2023-12-25 | 1,294 | 34 |
 | 2023-12-26 | 1,308 | 34 |
 | 2023-12-27 | 1,320 | 35 |
-| 2023-12-28 | 1,323 | 35 |
+| 2023-12-28 | 1,324 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

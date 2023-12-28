@@ -3635,9 +3635,9 @@
       "Count": 335
     }
   ],
-  "EOS_Progressed": 19485,
+  "EOS_Progressed": 19488,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 689,
+  "EOS_NewPlayers": 692,
   "EOS_NewCompleters": -3,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -17435,6 +17435,11 @@
       "Time": "2023-12-28T08:05:13.268849+00:00",
       "NumProgressed": 19485,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-12-28T09:06:55.8331423+00:00",
+      "NumProgressed": 19488,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17543,7 +17548,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "WinImpossible",
@@ -17711,7 +17716,7 @@
       "Name": "Coral Forest",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "WinOnCursed",
@@ -17735,7 +17740,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "WinPrestige10",
@@ -17855,7 +17860,7 @@
       "Name": "Frosts",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "WinNearGreed",
@@ -17863,7 +17868,7 @@
       "Name": "Land of Greed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "WinNearLibrary",
@@ -17887,7 +17892,7 @@
       "Name": "Ominous Presence",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "WinNearStorms",
@@ -17918,15 +17923,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19485,
+      "Progressed": 19488,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-28T06:59:26.2841876+00:00",
-  "LastChanged_Achievements": "2023-12-28T08:05:13.2688486+00:00",
+  "LastChanged_Achievements": "2023-12-28T09:06:55.8331419+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-28T07:59:24.5471158+00:00",
-  "LastUpdate_Achievements": "2023-12-28T08:05:13.268956+00:00"
+  "LastUpdate_Ratings": "2023-12-28T09:00:41.2093576+00:00",
+  "LastUpdate_Achievements": "2023-12-28T09:06:55.833254+00:00"
 }

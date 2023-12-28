@@ -5,19 +5,19 @@ Rating: 4.21 (Ranked 936)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 19.00% | ~3,737 |
-| The Outer Way | 19.00% | ~3,737 |
-| Paper Jams | 17.00% | ~3,344 |
-| Desperate Times | 17.00% | ~3,344 |
-| Get a Grip | 16.00% | ~3,147 |
-| Chew 'Em Up | 14.00% | ~2,754 |
-| Float Like A Butterfly | 13.00% | ~2,557 |
-| Reforged | 13.00% | ~2,557 |
+| Flesh Wound | 19.00% | ~3,738 |
+| The Outer Way | 19.00% | ~3,738 |
+| Paper Jams | 17.00% | ~3,345 |
+| Desperate Times | 17.00% | ~3,345 |
+| Get a Grip | 16.00% | ~3,148 |
+| Chew 'Em Up | 14.00% | ~2,755 |
+| Float Like A Butterfly | 13.00% | ~2,558 |
+| Reforged | 13.00% | ~2,558 |
+| Workplace Hazard | 12.00% | ~2,361 |
 | If the SHU Fits... | 12.00% | ~2,361 |
-| Workplace Hazard | 11.00% | ~2,164 |
-| Without A Paddle | 10.00% | ~1,967 |
-| In the Pipe, Five by Five | 9.00% | ~1,770 |
-| Crash Site | 9.00% | ~1,770 |
+| Without A Paddle | 10.00% | ~1,968 |
+| In the Pipe, Five by Five | 9.00% | ~1,771 |
+| Crash Site | 9.00% | ~1,771 |
 | Two Heads Are Better Than One | 8.00% | ~1,574 |
 | Terminated | 8.00% | ~1,574 |
 | Power Up | 8.00% | ~1,574 |
@@ -25,7 +25,7 @@ Rating: 4.21 (Ranked 936)
 | You Need a Gun | 7.00% | ~1,377 |
 | What Lies Beneath | 7.00% | ~1,377 |
 | Full Circle | 7.00% | ~1,377 |
-| I Do Belong Here | 6.00% | ~1,180 |
+| I Do Belong Here | 6.00% | ~1,181 |
 | Keep Fighting | 6.00% | ~456 |
 | It's Time | 5.00% | ~380 |
 | In Striking Distance | 4.00% | ~787 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 936)
 | Big Game Hunter | 0.10% | ~8 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,671 (Ranked 149)  
+Progressed: 19,676 (Ranked 149)  
 Completed: 82 (0.42%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 82 (0.42%) (Ranked 229)
 | 2023-12-25 | 19,287 | 82 |
 | 2023-12-26 | 19,464 | 82 |
 | 2023-12-27 | 19,632 | 82 |
-| 2023-12-28 | 19,671 | 82 |
+| 2023-12-28 | 19,676 | 82 |
 ## Awards
 Max (Amazing Characters): 104  (Ranked 367)  
 Sum: 525 (Ranked 329)  

@@ -6,27 +6,27 @@ Number of Ratings: 1,919  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~79,063 |
-| No Escape | 86.00% | ~70,097 |
-| Seeker of Power | 84.00% | ~68,467 |
+| Manifestation of the Soul | 97.00% | ~79,064 |
+| No Escape | 86.00% | ~70,098 |
+| Seeker of Power | 84.00% | ~68,468 |
 | Hopes and Dreams | 82.00% | ~66,837 |
-| Lantern Smasher | 78.00% | ~63,576 |
-| The Pirate's Way | 73.00% | ~59,501 |
+| Lantern Smasher | 78.00% | ~63,577 |
+| The Pirate's Way | 73.00% | ~59,502 |
 | Dark Crystal, Warrior's Heart | 71.00% | ~57,871 |
-| The King of the Dark Elves | 68.00% | ~55,425 |
-| Memories of the Distant Past | 66.00% | ~53,795 |
-| Distortion's Progeny | 63.00% | ~51,350 |
-| Savant | 62.00% | ~50,535 |
+| The King of the Dark Elves | 68.00% | ~55,426 |
+| Memories of the Distant Past | 66.00% | ~53,796 |
+| Distortion's Progeny | 63.00% | ~51,351 |
+| Savant | 62.00% | ~50,536 |
 | A Landscape of Memory | 58.00% | ~47,275 |
-| The Wind's Light | 54.00% | ~44,014 |
+| The Wind's Light | 54.00% | ~44,015 |
 | Vague Remembrances | 49.00% | ~39,939 |
 | The Fire's Light | 47.00% | ~38,309 |
 | Phantom Memories | 47.00% | ~38,309 |
 | Imbued Memories | 46.00% | ~37,494 |
 | The Earth's Light | 45.00% | ~36,679 |
-| Shared Recollections | 42.00% | ~34,233 |
-| The Water's Light | 40.00% | ~32,603 |
-| Path of the Sage | 40.00% | ~32,603 |
+| Shared Recollections | 42.00% | ~34,234 |
+| The Water's Light | 40.00% | ~32,604 |
+| Path of the Sage | 40.00% | ~32,604 |
 | Malice Takes Root | 37.00% | ~30,158 |
 | Path of the Dark Knight | 37.00% | ~30,158 |
 | Path of the Breaker | 37.00% | ~30,158 |
@@ -53,7 +53,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Strangers' Memories | 3.00% | ~2,445 |
 | A Tale of Origins and Endings | 2.00% | ~1,630 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81,508 (Ranked 103)  
+Progressed: 81,509 (Ranked 103)  
 Completed: 2,213 (2.72%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 2,213 (2.72%) (Ranked 119)
 | 2023-12-25 | 81,370 | 2,213 |
 | 2023-12-26 | 81,431 | 2,213 |
 | 2023-12-27 | 81,490 | 2,213 |
-| 2023-12-28 | 81,508 | 2,213 |
+| 2023-12-28 | 81,509 | 2,213 |
 ## Awards
 Max (Great Boss Battles): 776  (Ranked 182)  
 Sum: 1,601 (Ranked 236)  

@@ -2777,9 +2777,9 @@
       "Count": 221
     }
   ],
-  "EOS_Progressed": 29273,
+  "EOS_Progressed": 29274,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1547,
+  "EOS_NewPlayers": 1546,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14737,6 +14737,11 @@
       "Time": "2023-12-28T08:09:21.7733173+00:00",
       "NumProgressed": 29273,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T09:10:32.9421774+00:00",
+      "NumProgressed": 29274,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -14933,7 +14938,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 11416
+      "UsersEstimate": 11417
     },
     {
       "ID": "Achievement_Trophy25",
@@ -14965,7 +14970,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 9367
+      "UsersEstimate": 9368
     },
     {
       "ID": "Achievement_Trophy29",
@@ -15045,7 +15050,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4976
+      "UsersEstimate": 4977
     },
     {
       "ID": "Achievement_Trophy39",
@@ -15085,7 +15090,7 @@
       "Name": "Light of my life",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3805
+      "UsersEstimate": 3806
     },
     {
       "ID": "Achievement_Trophy44",
@@ -15236,7 +15241,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 29273,
+      "Progressed": 29274,
       "Completed": 1
     }
   ],
@@ -15244,8 +15249,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-28T01:44:39.7399234+00:00",
-  "LastChanged_Achievements": "2023-12-28T08:09:21.7733169+00:00",
+  "LastChanged_Achievements": "2023-12-28T09:10:32.9421772+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:28.9438704+00:00",
-  "LastUpdate_Ratings": "2023-12-28T08:00:22.5856503+00:00",
-  "LastUpdate_Achievements": "2023-12-28T08:09:21.7733965+00:00"
+  "LastUpdate_Ratings": "2023-12-28T09:02:01.594514+00:00",
+  "LastUpdate_Achievements": "2023-12-28T09:10:32.9422572+00:00"
 }
