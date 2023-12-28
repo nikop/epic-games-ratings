@@ -35,10 +35,10 @@
 | Friend of Silver Drift Hollow | 11.00% | ~10 |
 | Friend of Bastion | 11.00% | ~10 |
 | Magic Academy | 11.00% | ~10 |
+| Mage Teacher | 10.00% | ~9 |
+| A Master of Magic | 10.00% | ~9 |
 | Defeat Gor | 9.00% | ~8 |
 | Silver Drift Hollow Mine | 9.00% | ~8 |
-| Mage Teacher | 9.00% | ~8 |
-| A Master of Magic | 9.00% | ~8 |
 | Friend of Windholme | 9.00% | ~8 |
 | Yngrid's Tale | 8.00% | ~7 |
 | A Joke | 8.00% | ~7 |
@@ -51,6 +51,8 @@
 | Defeat Undergast | 6.00% | ~5 |
 | Lore's Tale | 6.00% | ~5 |
 | Crypt of the Revenant | 6.00% | ~5 |
+| Master Artificer | 6.00% | ~5 |
+| A Monopoly of Might | 6.00% | ~5 |
 | Balanced | 6.00% | ~5 |
 | Friend of Uram Gor | 6.00% | ~5 |
 | Get to the Airship! | 4.00% | ~4 |
@@ -58,8 +60,6 @@
 | Defeat Isgrimm | 4.00% | ~4 |
 | Lytra's Tale | 4.00% | ~4 |
 | Fireforge | 4.00% | ~4 |
-| Master Artificer | 4.00% | ~4 |
-| A Monopoly of Might | 4.00% | ~4 |
 | Heroes | 4.00% | ~4 |
 | Master Necromancer | 4.00% | ~4 |
 | Friend of Grey Dusk Vale | 4.00% | ~4 |

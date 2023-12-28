@@ -2,13 +2,13 @@
   "ID": "de3677b7bac547128656ac18c5b2f298",
   "Name": "Lost Eidolons",
   "ProductSlug": "lost-eidolons",
-  "Ranking_Rating": 822,
+  "Ranking_Rating": 823,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 3785,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 3784,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1137,
+  "EOS_Progressed": 1138,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -4,
+  "EOS_NewPlayers": -3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2086,6 +2086,11 @@
       "Time": "2023-12-27T23:04:16.840506+00:00",
       "NumProgressed": 1137,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T01:47:52.5226231+00:00",
+      "NumProgressed": 1138,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -2105,7 +2110,7 @@
       "Name": "Way of the Warlord",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "03",
@@ -2129,7 +2134,7 @@
       "Name": "The First Step",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "06",
@@ -2145,7 +2150,7 @@
       "Name": "Monster Hunter",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "08",
@@ -2167,9 +2172,9 @@
       "ID": "10",
       "SetID": "73ikgfc",
       "Name": "Huntmaster",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 262
+      "UsersEstimate": 250
     },
     {
       "ID": "11",
@@ -2201,7 +2206,7 @@
       "Name": "Til We Meet Again",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "15",
@@ -2233,7 +2238,7 @@
       "Name": "Earning Trust",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "19",
@@ -2280,7 +2285,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1137,
+      "Progressed": 1138,
       "Completed": 1
     }
   ],
@@ -2288,8 +2293,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-12-04T18:59:06.5793648+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:04:21.5411462+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:47:52.5226226+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.4141578+00:00",
-  "LastUpdate_Ratings": "2023-12-28T00:00:15.0162113+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:04:21.541168+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:43:30.2841452+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:47:52.5226488+00:00"
 }

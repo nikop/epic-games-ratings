@@ -4,11 +4,11 @@
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 1022,
   "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 444,
+  "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -679,9 +679,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3887,
+  "EOS_Progressed": 3888,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11044,6 +11044,11 @@
       "Time": "2023-12-28T00:04:56.4215997+00:00",
       "NumProgressed": 3887,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-28T01:48:20.2582335+00:00",
+      "NumProgressed": 3888,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -11055,7 +11060,7 @@
       "Name": "Active Member",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ancientknowledge",
@@ -11063,7 +11068,7 @@
       "Name": "Ancient Knowledge",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "angelpower",
@@ -11079,7 +11084,7 @@
       "Name": "Arena Challenger",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "backgroundstory",
@@ -11087,7 +11092,7 @@
       "Name": "Background Story",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "beastwarmachines",
@@ -11343,7 +11348,7 @@
       "Name": "Legendary",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "lieutenant",
@@ -11351,7 +11356,7 @@
       "Name": "Lieutenant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "lockandload",
@@ -11447,7 +11452,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2060
+      "UsersEstimate": 2061
     },
     {
       "ID": "prestigiousx10",
@@ -11455,7 +11460,7 @@
       "Name": "Prestigious x10",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "relicofthepast",
@@ -11519,7 +11524,7 @@
       "Name": "The Alchemist",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "theexpeditioner",
@@ -11615,7 +11620,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3615
+      "UsersEstimate": 3616
     },
     {
       "ID": "warmachinesarmy",
@@ -11647,14 +11652,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3032
+      "UsersEstimate": 3033
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3887,
+      "Progressed": 3888,
       "Completed": 2
     }
   ],
@@ -11662,8 +11667,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-27T17:58:17.0243045+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:04:56.4215994+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:48:20.2582332+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:54.8970424+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:58:09.6457359+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:04:56.4216922+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:41:49.3116436+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:48:20.2583214+00:00"
 }

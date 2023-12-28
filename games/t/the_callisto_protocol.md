@@ -1,33 +1,33 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.21 (Ranked 934)  
+Rating: 4.21 (Ranked 935)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 19.00% | ~3,731 |
-| The Outer Way | 19.00% | ~3,731 |
-| Paper Jams | 17.00% | ~3,338 |
-| Desperate Times | 17.00% | ~3,338 |
-| Get a Grip | 16.00% | ~3,142 |
-| Chew 'Em Up | 14.00% | ~2,749 |
-| Float Like A Butterfly | 13.00% | ~2,553 |
-| Reforged | 13.00% | ~2,553 |
-| Workplace Hazard | 11.00% | ~2,160 |
-| If the SHU Fits... | 11.00% | ~2,160 |
+| Flesh Wound | 19.00% | ~3,733 |
+| The Outer Way | 19.00% | ~3,733 |
+| Paper Jams | 17.00% | ~3,340 |
+| Desperate Times | 17.00% | ~3,340 |
+| Get a Grip | 16.00% | ~3,143 |
+| Chew 'Em Up | 14.00% | ~2,750 |
+| Float Like A Butterfly | 13.00% | ~2,554 |
+| Reforged | 13.00% | ~2,554 |
+| Workplace Hazard | 11.00% | ~2,161 |
+| If the SHU Fits... | 11.00% | ~2,161 |
 | Without A Paddle | 10.00% | ~1,964 |
-| In the Pipe, Five by Five | 9.00% | ~1,767 |
-| Crash Site | 9.00% | ~1,767 |
-| Two Heads Are Better Than One | 8.00% | ~1,571 |
-| Terminated | 8.00% | ~1,571 |
-| Power Up | 8.00% | ~1,571 |
+| In the Pipe, Five by Five | 9.00% | ~1,768 |
+| Crash Site | 9.00% | ~1,768 |
+| Two Heads Are Better Than One | 8.00% | ~1,572 |
+| Terminated | 8.00% | ~1,572 |
+| Power Up | 8.00% | ~1,572 |
 | Giving Back | 7.00% | ~1,375 |
 | You Need a Gun | 7.00% | ~1,375 |
 | What Lies Beneath | 7.00% | ~1,375 |
 | Full Circle | 7.00% | ~1,375 |
-| I Do Belong Here | 6.00% | ~1,178 |
+| I Do Belong Here | 6.00% | ~1,179 |
 | Keep Fighting | 6.00% | ~454 |
-| It's Time | 5.00% | ~378 |
+| It's Time | 5.00% | ~379 |
 | In Striking Distance | 4.00% | ~786 |
 | The Commonality | 4.00% | ~786 |
 | One Last Job | 3.00% | ~227 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 934)
 | Big Game Hunter | 0.10% | ~8 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,638 (Ranked 149)  
+Progressed: 19,645 (Ranked 149)  
 Completed: 82 (0.42%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 82 (0.42%) (Ranked 229)
 | 2023-12-25 | 19,287 | 82 |
 | 2023-12-26 | 19,464 | 82 |
 | 2023-12-27 | 19,632 | 82 |
-| 2023-12-28 | 19,638 | 82 |
+| 2023-12-28 | 19,645 | 82 |
 ## Awards
 Max (Amazing Characters): 104  (Ranked 367)  
 Sum: 522 (Ranked 329)  

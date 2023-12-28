@@ -6,10 +6,10 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~565 |
-| Lost and Found | 7.00% | ~359 |
-| This Belongs in a Museum | 5.00% | ~6,513 |
-| Autodidact | 5.00% | ~6,513 |
+| Malpractice Assurance | 11.00% | ~566 |
+| Lost and Found | 7.00% | ~360 |
+| This Belongs in a Museum | 5.00% | ~6,514 |
+| Autodidact | 5.00% | ~6,514 |
 | This guy... again? | 5.00% | ~257 |
 | Ploughshares to Swords | 5.00% | ~257 |
 | Bloody Graduation | 5.00% | ~257 |
@@ -33,27 +33,27 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 3.00% | ~3,908 |
 | Nope | 3.00% | ~3,908 |
 | Friends 'Til the End | 3.00% | ~154 |
-| Resurrection | 2.00% | ~2,605 |
-| Unleash Hell | 2.00% | ~2,605 |
-| Funny Guy | 2.00% | ~2,605 |
-| Long Live the King | 2.00% | ~2,605 |
-| Wyrdly Reconstructed | 2.00% | ~2,605 |
-| Boxcar Kid | 2.00% | ~2,605 |
-| Unfulfilled Desires | 2.00% | ~2,605 |
-| Hope Rekindled | 2.00% | ~2,605 |
-| Predator | 2.00% | ~2,605 |
-| Dissector | 2.00% | ~2,605 |
-| Banishment | 2.00% | ~2,605 |
-| Deprogramming | 2.00% | ~2,605 |
-| Now Stay Dead | 2.00% | ~2,605 |
-| Reverse Banditry | 2.00% | ~2,605 |
-| Ramble On | 2.00% | ~2,605 |
-| A Clear Conscience | 2.00% | ~2,605 |
-| When You Want Something Done Right | 2.00% | ~2,605 |
-| Worldly Traveller | 2.00% | ~2,605 |
-| Utopia | 2.00% | ~2,605 |
-| Unshackled | 2.00% | ~2,605 |
-| Road Trip | 2.00% | ~2,605 |
+| Resurrection | 2.00% | ~2,606 |
+| Unleash Hell | 2.00% | ~2,606 |
+| Funny Guy | 2.00% | ~2,606 |
+| Long Live the King | 2.00% | ~2,606 |
+| Wyrdly Reconstructed | 2.00% | ~2,606 |
+| Boxcar Kid | 2.00% | ~2,606 |
+| Unfulfilled Desires | 2.00% | ~2,606 |
+| Hope Rekindled | 2.00% | ~2,606 |
+| Predator | 2.00% | ~2,606 |
+| Dissector | 2.00% | ~2,606 |
+| Banishment | 2.00% | ~2,606 |
+| Deprogramming | 2.00% | ~2,606 |
+| Now Stay Dead | 2.00% | ~2,606 |
+| Reverse Banditry | 2.00% | ~2,606 |
+| Ramble On | 2.00% | ~2,606 |
+| A Clear Conscience | 2.00% | ~2,606 |
+| When You Want Something Done Right | 2.00% | ~2,606 |
+| Worldly Traveller | 2.00% | ~2,606 |
+| Utopia | 2.00% | ~2,606 |
+| Unshackled | 2.00% | ~2,606 |
+| Road Trip | 2.00% | ~2,606 |
 | This Looks Familiar | 1.00% | ~1,303 |
 | Ichthyophobic | 1.00% | ~1,303 |
 | No More Mouths to Feed | 1.00% | ~1,303 |
@@ -62,7 +62,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Handled | 1.00% | ~1,303 |
 | Slap on the Wrist | 1.00% | ~51 |
 | For Old Time' Sake | 1.00% | ~51 |
-| Body of Work | 0.90% | ~1,172 |
+| Body of Work | 0.90% | ~1,173 |
 | Shrine of Reflection | 0.80% | ~1,042 |
 | Clearing the Ledger | 0.70% | ~912 |
 | No Mercy | 0.70% | ~36 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,264 (Ranked 87)  
+Progressed: 130,278 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,19 +328,19 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-25 | 129,858 | 3 |
 | 2023-12-26 | 130,068 | 3 |
 | 2023-12-27 | 130,259 | 3 |
-| 2023-12-28 | 130,264 | 3 |
+| 2023-12-28 | 130,278 | 3 |
 ## Awards
-Max (Character Customization): 7,882  (Ranked 50)  
-Sum: 21,162 (Ranked 58)  
+Max (Character Customization): 7,888  (Ranked 50)  
+Sum: 21,171 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,882 |
+| This game has Inclusive Character Customization | 7,888 |
 | This game has Diverse Characters | 1,782 |
 | This game has Challenging Combat | 1,642 |
 | This game is Highly Recommended | 1,579 |
+| This game is Extremely Fun | 1,497 |
 | This game has Amazing Characters | 1,496 |
-| This game is Extremely Fun | 1,494 |
 | This game has Unique Visuals | 1,428 |
 | This game has Amazing Storytelling | 1,416 |
 | This game has Quickly Understood Controls | 1,384 |
@@ -684,4 +684,4 @@ Diff (max vs sum): -8
 | 2023-12-25 | 4.68 | - | 7,875 | 21,096 |
 | 2023-12-26 | 4.68 | - | 7,882 | 21,127 |
 | 2023-12-27 | 4.68 | - | 7,882 | 21,156 |
-| 2023-12-28 | 4.68 | - | 7,882 | 21,162 |
+| 2023-12-28 | 4.68 | - | 7,888 | 21,171 |

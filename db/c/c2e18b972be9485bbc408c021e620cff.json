@@ -2,13 +2,13 @@
   "ID": "c2e18b972be9485bbc408c021e620cff",
   "Name": "Train Sim World\u00AE 4: Standard Edition",
   "ProductSlug": "train-sim-world-4",
-  "Ranking_Rating": 835,
+  "Ranking_Rating": 845,
   "Ranking_Popularity": 363,
-  "Ranking_PopularitySum": 372,
+  "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 566,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-26T17:00:00+00:00",
     "PcReleaseDate": "2023-09-26T17:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.33,
+  "Rating": 4.32,
   "RatingHistory": [
     {
       "Time": "2023-09-28T19:59:46.8251256+00:00",
@@ -1033,10 +1033,16 @@
       "Rating": 4.33,
       "NumberOfAwards": 304,
       "NumberOfAwardsMax": 106
+    },
+    {
+      "Time": "2023-12-28T01:43:10.4499454+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 333,
+      "NumberOfAwardsMax": 106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 304,
+  "NumberOfAwards": 333,
   "NumberOfAwardsMax": 106,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1074,13 +1080,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 24
+      "Count": 28
     }
   ],
   "EOS_Progressed": 0,
@@ -1103,9 +1109,9 @@
   "FirstSeen": "2023-09-26T18:02:09.8849688+00:00",
   "FirstSeenRating": "2023-09-28T19:59:46.8251254+00:00",
   "FirstSeenAchievements": "2023-08-15T22:07:16.7768201+00:00",
-  "LastChanged": "2023-12-27T13:58:49.5487797+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:06:38.2877318+00:00",
+  "LastChanged": "2023-12-28T01:43:10.4499452+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:49:41.7665652+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:23.2954874+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:59:49.4796984+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:06:38.2877358+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:43:10.4499457+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:49:41.766569+00:00"
 }

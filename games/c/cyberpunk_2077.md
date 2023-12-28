@@ -6,19 +6,19 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,864 |
-| Gun Fu | 8.00% | ~78,576 |
-| Right Back At Ya | 7.00% | ~68,754 |
-| The Fool | 7.00% | ~68,754 |
-| The Lovers | 6.00% | ~58,932 |
-| Full Body Conversion | 5.00% | ~49,110 |
-| True Soldier | 5.00% | ~49,110 |
-| All the President's Men | 5.00% | ~5,541 |
-| Christmas Tree Attack | 4.00% | ~39,288 |
-| Stanislavski's Method | 4.00% | ~39,288 |
-| The Hermit | 4.00% | ~39,288 |
-| The Wheel of Fortune | 4.00% | ~39,288 |
-| Arachnophobia | 4.00% | ~4,433 |
+| V for Vendetta | 12.00% | ~117,866 |
+| Gun Fu | 8.00% | ~78,577 |
+| Right Back At Ya | 7.00% | ~68,755 |
+| The Fool | 7.00% | ~68,755 |
+| The Lovers | 6.00% | ~58,933 |
+| Full Body Conversion | 5.00% | ~49,111 |
+| True Soldier | 5.00% | ~49,111 |
+| All the President's Men | 5.00% | ~5,542 |
+| Christmas Tree Attack | 4.00% | ~39,289 |
+| Stanislavski's Method | 4.00% | ~39,289 |
+| The Hermit | 4.00% | ~39,289 |
+| The Wheel of Fortune | 4.00% | ~39,289 |
+| Arachnophobia | 4.00% | ~4,434 |
 | Bushido and Chill | 3.00% | ~29,466 |
 | Master Crafter | 3.00% | ~29,466 |
 | The Quick and the Dead | 3.00% | ~29,466 |
@@ -32,7 +32,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | I Am The Law | 2.00% | ~19,644 |
 | Two Heads, One Bullet | 2.00% | ~19,644 |
 | Judy vs Night City | 2.00% | ~19,644 |
-| Spin Doctor | 2.00% | ~2,216 |
+| Spin Doctor | 2.00% | ~2,217 |
 | To Bad Decisions! | 1.00% | ~9,822 |
 | The Wandering Fool | 1.00% | ~9,822 |
 | Ten out of Ten | 1.00% | ~9,822 |
@@ -42,14 +42,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | Easy Come, Easy Go | 1.00% | ~1,108 |
 | Breathtaking | 0.90% | ~8,840 |
 | The Star | 0.90% | ~8,840 |
-| Autojock | 0.70% | ~6,875 |
+| Autojock | 0.70% | ~6,876 |
 | The APB is Not Enough | 0.70% | ~776 |
 | Judgement Day | 0.70% | ~776 |
+| King of Swords | 0.70% | ~776 |
 | The Tower | 0.70% | ~776 |
 | Must Be Rats | 0.60% | ~5,893 |
 | Temperance | 0.60% | ~5,893 |
 | King of Pentacles | 0.60% | ~665 |
-| King of Swords | 0.60% | ~665 |
 | King of Cups | 0.40% | ~443 |
 | City Lights | 0.30% | ~2,947 |
 | Little Tokyo | 0.30% | ~2,947 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 982,199 (Ranked 16)  
-Completed: 2,986 (0.30%) (Ranked 254)  
+Progressed: 982,216 (Ranked 16)  
+Completed: 2,987 (0.30%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -326,10 +326,10 @@ Completed: 2,986 (0.30%) (Ranked 254)
 | 2023-12-25 | 981,401 | 2,974 |
 | 2023-12-26 | 981,815 | 2,981 |
 | 2023-12-27 | 982,189 | 2,986 |
-| 2023-12-28 | 982,199 | 2,986 |
+| 2023-12-28 | 982,216 | 2,987 |
 ## Awards
 Max (Character Customization): 128,093  (Ranked 8)  
-Sum: 447,581 (Ranked 9)  
+Sum: 447,730 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -339,7 +339,7 @@ Diff (max vs sum): -1
 | This game has Diverse Characters | 27,505 |
 | This game is Highly Recommended | 26,270 |
 | This game has Amazing Storytelling | 25,840 |
-| This game is Extremely Fun | 25,437 |
+| This game is Extremely Fun | 25,586 |
 | This game has Amazing Characters | 25,420 |
 | This game is Relaxing | 24,611 |
 | This game has Quickly Understood Controls | 24,475 |
@@ -690,3 +690,4 @@ Diff (max vs sum): -1
 | 2023-12-25 | 4.66 | - | 127,442 | 443,750 |
 | 2023-12-26 | 4.66 | - | 127,789 | 445,740 |
 | 2023-12-27 | 4.66 | - | 128,093 | 447,581 |
+| 2023-12-28 | 4.66 | - | 128,093 | 447,730 |

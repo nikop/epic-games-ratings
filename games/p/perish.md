@@ -31,18 +31,18 @@
 | Ophiolatreia | 3.00% | ~116 |
 | Halls of Marble | 3.00% | ~116 |
 | Serpentine | 3.00% | ~116 |
-| Wayward Son of Hephaestus | 2.00% | ~77 |
-| Forged in Fire | 2.00% | ~77 |
-| Rock and a Hard Place | 2.00% | ~77 |
-| The Midas Touch | 2.00% | ~77 |
-| Hapax Legomenon | 2.00% | ~77 |
-| Veneration of Hephaestus | 2.00% | ~77 |
-| Vandili | 2.00% | ~77 |
-| No Scylla in Sight | 2.00% | ~77 |
-| Cloaca Maxima | 2.00% | ~77 |
-| Baby Crabs They Ain't | 2.00% | ~77 |
-| Mors Omnibus | 2.00% | ~77 |
-| Blot Out the Sky | 2.00% | ~77 |
+| Wayward Son of Hephaestus | 2.00% | ~78 |
+| Forged in Fire | 2.00% | ~78 |
+| Rock and a Hard Place | 2.00% | ~78 |
+| The Midas Touch | 2.00% | ~78 |
+| Hapax Legomenon | 2.00% | ~78 |
+| Veneration of Hephaestus | 2.00% | ~78 |
+| Vandili | 2.00% | ~78 |
+| No Scylla in Sight | 2.00% | ~78 |
+| Cloaca Maxima | 2.00% | ~78 |
+| Baby Crabs They Ain't | 2.00% | ~78 |
+| Mors Omnibus | 2.00% | ~78 |
+| Blot Out the Sky | 2.00% | ~78 |
 | The Nameless One | 1.00% | ~39 |
 | Lament of the Constellations | 1.00% | ~39 |
 | Rule of Thirds | 1.00% | ~39 |
@@ -56,10 +56,10 @@
 | Athenian Treasury | 0.90% | ~35 |
 | Invicta | 0.80% | ~31 |
 | Olympian | 0.60% | ~23 |
-| Hipparchia's Labour | 0.40% | ~15 |
-| Debauchery | 0.40% | ~15 |
-| Interrupt the Interloper | 0.40% | ~15 |
-| Elephantine | 0.40% | ~15 |
+| Hipparchia's Labour | 0.40% | ~16 |
+| Debauchery | 0.40% | ~16 |
+| Interrupt the Interloper | 0.40% | ~16 |
+| Elephantine | 0.40% | ~16 |
 | Window Shopping | 0.30% | ~12 |
 | Blessing of Spring | 0.30% | ~12 |
 | Buyer's Remorse | 0.20% | ~8 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,872 (Ranked 209)  
+Progressed: 3,875 (Ranked 209)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,6 +301,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 3,855 | 0 |
 | 2023-12-26 | 3,863 | 0 |
 | 2023-12-27 | 3,872 | 0 |
+| 2023-12-28 | 3,875 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

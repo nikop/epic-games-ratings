@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
     "PcReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 207,
+  "EOS_Progressed": 208,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
@@ -904,6 +904,11 @@
       "Time": "2023-12-27T22:05:10.9883103+00:00",
       "NumProgressed": 207,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T01:48:43.7161015+00:00",
+      "NumProgressed": 208,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -916,7 +921,7 @@
       "Name": "A mystery? No! A trifle for Poirot!",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "10",
@@ -1028,7 +1033,7 @@
       "Name": "I know kung fu",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "23",
@@ -1100,7 +1105,7 @@
       "Name": "A true detective",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "7",
@@ -1131,14 +1136,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 207,
+      "Progressed": 208,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:05:25.0505426+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:48:43.7161012+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:09.2427792+00:00",
-  "LastUpdate_Ratings": "2023-12-28T00:03:24.7640578+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:05:25.0505636+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:47:08.9284541+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:48:43.7161224+00:00"
 }

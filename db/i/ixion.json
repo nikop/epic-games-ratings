@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -323,7 +323,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3765,
+  "EOS_Progressed": 3766,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
@@ -7288,6 +7288,11 @@
       "Time": "2023-12-27T23:04:30.1217813+00:00",
       "NumProgressed": 3765,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T01:48:02.7161+00:00",
+      "NumProgressed": 3766,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7379,7 +7384,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ACH_BASE_21",
@@ -7595,7 +7600,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "ACH_BASE_49",
@@ -7683,7 +7688,7 @@
       "Name": "Hope Seeker",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ACH_BASE_60",
@@ -7754,13 +7759,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1949,
+      "Progressed": 1950,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3765,
+      "Progressed": 3766,
       "Completed": 0
     }
   ],
@@ -7768,8 +7773,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:04:34.7600254+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:48:02.7160996+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:27.94929+00:00",
-  "LastUpdate_Ratings": "2023-12-28T00:01:44.6845327+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:04:34.76009+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:44:37.2277439+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:48:02.7161749+00:00"
 }

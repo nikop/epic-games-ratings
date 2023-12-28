@@ -1,35 +1,35 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.21 (Ranked 934)  
+Rating: 4.21 (Ranked 935)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~12,649 |
-| Battering Crew | 19.00% | ~6,008 |
-| The Kingsroad | 18.00% | ~5,692 |
-| Well Stocked | 13.00% | ~4,111 |
-| Royal Fleet | 13.00% | ~4,111 |
-| The Kraken’s Grasp | 9.00% | ~2,846 |
-| Daggers in the Dark | 8.00% | ~2,530 |
-| Alliance | 8.00% | ~2,530 |
+| Conqueror | 40.00% | ~12,654 |
+| Battering Crew | 19.00% | ~6,010 |
+| The Kingsroad | 18.00% | ~5,694 |
+| Well Stocked | 13.00% | ~4,112 |
+| Royal Fleet | 13.00% | ~4,112 |
+| The Kraken’s Grasp | 9.00% | ~2,847 |
+| Daggers in the Dark | 8.00% | ~2,531 |
+| Alliance | 8.00% | ~2,531 |
 | Winter is Coming | 7.00% | ~2,214 |
 | Oathkeeper | 7.00% | ~2,214 |
 | Influential | 7.00% | ~2,214 |
 | A Long Journey | 7.00% | ~2,214 |
-| Ours is the Fury | 6.00% | ~1,897 |
-| We Do Not Sow | 6.00% | ~1,897 |
-| Defender of the Wall | 6.00% | ~1,897 |
-| Unbowed, Unbent, Unbroken | 5.00% | ~1,581 |
-| Growing Strong | 5.00% | ~1,581 |
-| Hear me Roar! | 5.00% | ~1,581 |
+| Ours is the Fury | 6.00% | ~1,898 |
+| We Do Not Sow | 6.00% | ~1,898 |
+| Defender of the Wall | 6.00% | ~1,898 |
+| Unbowed, Unbent, Unbroken | 5.00% | ~1,582 |
+| Growing Strong | 5.00% | ~1,582 |
+| Hear me Roar! | 5.00% | ~1,582 |
 | What is Dead may Never Die | 3.00% | ~949 |
 | The Swift | 3.00% | ~949 |
-| King in the North | 2.00% | ~632 |
+| King in the North | 2.00% | ~633 |
 | War of the Five Kings | 1.00% | ~316 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,622 (Ranked 134)  
+Progressed: 31,634 (Ranked 134)  
 Completed: 85 (0.27%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 85 (0.27%) (Ranked 259)
 | 2023-12-25 | 31,404 | 85 |
 | 2023-12-26 | 31,513 | 85 |
 | 2023-12-27 | 31,616 | 85 |
-| 2023-12-28 | 31,622 | 85 |
+| 2023-12-28 | 31,634 | 85 |
 ## Awards
 Max (Quickly Understood Controls): 127  (Ranked 344)  
 Sum: 805 (Ranked 287)  

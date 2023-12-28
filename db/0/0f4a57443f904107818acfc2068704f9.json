@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -2678,9 +2678,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 836
+      "UsersEstimate": 847
     },
     {
       "ID": "CompleteChapter10",
@@ -2798,9 +2798,9 @@
       "ID": "CompleteChapter6",
       "SetID": "52ail55",
       "Name": "More Waagh, More Problems",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 225
     },
     {
       "ID": "CompleteChapter7",
@@ -2925,8 +2925,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:06:39.0061682+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:49:42.4325903+00:00",
   "LastUpdate_AppInfo": "2023-12-22T09:57:09.096238+00:00",
-  "LastUpdate_Ratings": "2023-12-28T00:02:52.0800936+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:06:39.0061956+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:46:44.6756524+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:49:42.4326307+00:00"
 }

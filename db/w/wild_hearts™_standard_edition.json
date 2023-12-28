@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 943,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -3291,9 +3291,9 @@
       "ID": "achievement_24",
       "SetID": "2cpn27e",
       "Name": "Single Minded",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 217
+      "UsersEstimate": 226
     },
     {
       "ID": "achievement_25",
@@ -3553,8 +3553,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:09:46.0628391+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:53:31.5828688+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:00.2404368+00:00",
   "LastUpdate_Ratings": "2023-12-28T00:02:36.469333+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:09:46.0629216+00:00"
+  "LastUpdate_Achievements": "2023-12-28T01:53:31.5829087+00:00"
 }

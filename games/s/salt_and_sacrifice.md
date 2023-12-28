@@ -1,7 +1,7 @@
 # Salt and Sacrifice
 [Store](https://store.epicgames.com/en-US/p/salt-and-sacrifice)  
 [View Rawdata](../../db/s/salt_and_sacrifice.json)  
-Rating: 4.30 (Ranked 860)  
+Rating: 4.30 (Ranked 861)  
 Number of Ratings: 2,205  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -20,7 +20,7 @@ Number of Ratings: 2,205  (23.09.2022)
 | Dawnlight Order | 64.00% | ~43,511 |
 | The Electromancer | 61.00% | ~41,471 |
 | The Terramancer | 59.00% | ~40,112 |
-| The Exalted | 56.00% | ~38,072 |
+| The Exalted | 57.00% | ~38,752 |
 | Sheriff Inquisitors | 55.00% | ~37,392 |
 | Blueheart Runners | 54.00% | ~36,712 |
 | The Necromancer | 52.00% | ~35,353 |

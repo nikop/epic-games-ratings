@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 467,
+  "EOS_Progressed": 468,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 299,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1275,6 +1275,11 @@
       "Time": "2023-12-28T00:09:00.8220448+00:00",
       "NumProgressed": 467,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T01:52:55.3947245+00:00",
+      "NumProgressed": 468,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1303,7 +1308,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "CareerChamp2",
@@ -1343,7 +1348,7 @@
       "Name": "Storm Warning",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "CollectVehiclesA",
@@ -1399,7 +1404,7 @@
       "Name": "Dirty Roller",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "PlayerRankB",
@@ -1446,7 +1451,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 467,
+      "Progressed": 468,
       "Completed": 0
     }
   ],
@@ -1454,8 +1459,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-26T23:01:34.391907+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:09:00.8220443+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:52:55.3947241+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:57:15.6783878+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:09:00.8220638+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:41:06.6306205+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:52:55.3947413+00:00"
 }

@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1796,
+  "EOS_Progressed": 1797,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 3.84,
   "EosHistory": [
@@ -3929,6 +3929,11 @@
       "Time": "2023-12-27T21:10:44.2898441+00:00",
       "NumProgressed": 1796,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-28T01:54:05.4171857+00:00",
+      "NumProgressed": 1797,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 16,
@@ -3940,7 +3945,7 @@
       "Name": "Artist Assistant",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH_DEEPLISTENER",
@@ -3956,7 +3961,7 @@
       "Name": "Dream Listener",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH_EMOTIONALBAGGAGEHANDLER",
@@ -3996,7 +4001,7 @@
       "Name": "Home Leaver",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -4004,7 +4009,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -4060,14 +4065,14 @@
       "Name": "Tour de Tieng",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1796,
+      "Progressed": 1797,
       "Completed": 69
     }
   ],
@@ -4075,8 +4080,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:10:28.7402508+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:54:05.4171852+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:44.3535234+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:57:31.2695052+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:10:28.740282+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:41:18.3595236+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:54:05.4172187+00:00"
 }

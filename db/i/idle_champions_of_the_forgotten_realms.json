@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 56,
+  "Ranking_EOS_NewPlayers": 55,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9115,10 +9115,10 @@
       "Count": 3602
     }
   ],
-  "EOS_Progressed": 245575,
+  "EOS_Progressed": 245636,
   "EOS_Completed": 2567,
-  "EOS_NewPlayers": 3148,
-  "EOS_NewCompleters": 20,
+  "EOS_NewPlayers": 3190,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
@@ -37550,6 +37550,11 @@
       "Time": "2023-12-28T00:10:56.6733158+00:00",
       "NumProgressed": 245575,
       "NumCompleted": 2567
+    },
+    {
+      "Time": "2023-12-28T01:54:28.2093416+00:00",
+      "NumProgressed": 245636,
+      "NumCompleted": 2567
     }
   ],
   "TotalAchievements": 546,
@@ -37561,7 +37566,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4912
+      "UsersEstimate": 4913
     },
     {
       "ID": "objective_completed_10",
@@ -37929,7 +37934,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1474
     },
     {
       "ID": "objective_completed_110",
@@ -39241,7 +39246,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "objective_completed_35",
@@ -39695,9 +39700,9 @@
       "ID": "objective_completed_5",
       "SetID": "cc37lbc",
       "Name": "Mad Cow Disease",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 491
+      "UsersEstimate": 737
     },
     {
       "ID": "objective_completed_54",
@@ -40705,7 +40710,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1474
     },
     {
       "ID": "objective_completed_70",
@@ -41881,7 +41886,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "objective_completed_673",
@@ -41897,7 +41902,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "objective_completed_683",
@@ -41905,7 +41910,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "objective_completed_860",
@@ -41928,21 +41933,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 211849,
-      "Completed": 4069
+      "Progressed": 211910,
+      "Completed": 4070
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 245575,
+      "Progressed": 245636,
       "Completed": 2567
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-27T18:59:30.8252189+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:10:56.6733155+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:54:28.2093413+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:59:20.4965262+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:10:56.6759481+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:42:48.5668407+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:54:28.2116383+00:00"
 }

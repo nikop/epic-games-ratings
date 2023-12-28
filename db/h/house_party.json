@@ -2,13 +2,13 @@
   "ID": "5f2fcf280d11455f8eab5c1e2a4d0392",
   "Name": "House Party",
   "ProductSlug": "house-party-ae8b27",
-  "Ranking_Rating": 835,
+  "Ranking_Rating": 837,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6935,
+  "EOS_Progressed": 6938,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7762,6 +7762,11 @@
       "Time": "2023-12-27T22:09:05.243603+00:00",
       "NumProgressed": 6935,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T01:52:52.9532644+00:00",
+      "NumProgressed": 6938,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -7851,9 +7856,9 @@
       "ID": "Casanova",
       "SetID": "bmkn7o4",
       "Name": "Casanova",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 49
     },
     {
       "ID": "CaughtInAct",
@@ -8133,7 +8138,7 @@
       "Name": "Smooth Operator: Ashley",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "SO_Madison",
@@ -8229,7 +8234,7 @@
       "Name": "The Crush",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "TheCrushes",
@@ -8324,21 +8329,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3974,
+      "Progressed": 3977,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6935,
+      "Progressed": 6938,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:08:57.4861359+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:52:52.953264+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:06.2348386+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:59:30.3873419+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:08:57.4862178+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:42:56.0925738+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:52:52.9533536+00:00"
 }

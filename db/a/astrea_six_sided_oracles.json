@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1418,9 +1418,9 @@
       "ID": "MechanicalBuddy",
       "SetID": "1jeo1g7",
       "Name": "Mechanical Buddy",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 181
     },
     {
       "ID": "MeissasSavior",
@@ -1498,9 +1498,9 @@
       "ID": "PurificationPioneer",
       "SetID": "1jeo1g7",
       "Name": "Purification Pioneer",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 194
     },
     {
       "ID": "ReflexiveMind",
@@ -1530,9 +1530,9 @@
       "ID": "SanctuaryGuardian",
       "SetID": "1jeo1g7",
       "Name": "Sanctuary Guardian",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 138
     },
     {
       "ID": "Sentinelphobic",
@@ -1865,8 +1865,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:08:43.5897476+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:52:42.0612427+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:02.5351328+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:57:24.8286005+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:08:43.5898439+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:41:12.8747892+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:52:42.061332+00:00"
 }

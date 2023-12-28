@@ -5,10 +5,10 @@
   "Ranking_Rating": 297,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 522,
-  "Ranking_EOS_Progress": 351,
+  "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -317,11 +317,11 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 435,
+  "EOS_Progressed": 438,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 307,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.69,
+  "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -1222,6 +1222,11 @@
       "Time": "2023-12-27T23:06:09.1276047+00:00",
       "NumProgressed": 435,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T01:49:21.0619913+00:00",
+      "NumProgressed": 438,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1234,7 +1239,7 @@
       "Name": "Robot encyclopedia",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_ARE_YOU_READY_NOW",
@@ -1242,7 +1247,7 @@
       "Name": "Are you ready now?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_CHUM_BUCKET_BRAIN",
@@ -1274,7 +1279,7 @@
       "Name": "Uptown and Downtown",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -1290,7 +1295,7 @@
       "Name": "Hello, Bikini Bottom",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_FLYING_DUTCHMAN_BOSS",
@@ -1410,7 +1415,7 @@
       "Name": "Super Spatula Seeker",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -1450,7 +1455,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -1458,7 +1463,7 @@
       "Name": "Squirrel Smasher",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_STAT_STAR_SMASHER",
@@ -1489,15 +1494,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 435,
+      "Progressed": 438,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:06:12.5050763+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:49:21.0619908+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-28T00:00:46.2935579+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:06:12.5050953+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:43:53.8942113+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:49:21.0620219+00:00"
 }

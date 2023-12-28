@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 57.00% | ~142 |
+| A Second Chance | 57.00% | ~143 |
 | Press-ganged | 42.00% | ~105 |
 | The Package | 26.00% | ~65 |
 | Conquered | 19.00% | ~48 |
@@ -12,7 +12,7 @@
 | Scribe | 11.00% | ~28 |
 | Breached | 11.00% | ~28 |
 | Tactician | 10.00% | ~25 |
-| Conciliator | 9.00% | ~22 |
+| Conciliator | 9.00% | ~23 |
 | Fight Another Day | 8.00% | ~20 |
 | Taskmaster | 8.00% | ~20 |
 | Acquaintance | 7.00% | ~18 |
@@ -20,11 +20,11 @@
 | The More the Merrier | 6.00% | ~15 |
 | Harbinger | 6.00% | ~15 |
 | Tail-wind | 6.00% | ~15 |
-| Strategist | 5.00% | ~12 |
-| Deputized | 5.00% | ~12 |
-| Courier | 5.00% | ~12 |
-| Pilgrimage's End | 5.00% | ~12 |
-| Merchant | 5.00% | ~12 |
+| Strategist | 5.00% | ~13 |
+| Deputized | 5.00% | ~13 |
+| Courier | 5.00% | ~13 |
+| Pilgrimage's End | 5.00% | ~13 |
+| Merchant | 5.00% | ~13 |
 | Quartermaster | 4.00% | ~10 |
 | Potential Unlocked | 4.00% | ~10 |
 | Been There | 4.00% | ~10 |
@@ -50,15 +50,15 @@
 | Merchant Lord | 2.00% | ~5 |
 | Glorious leader | 2.00% | ~5 |
 | Insectoid Propagator | 2.00% | ~5 |
-| Making Contact | 1.00% | ~2 |
-| Executor | 1.00% | ~2 |
-| Loremaster | 1.00% | ~2 |
-| Adept | 1.00% | ~2 |
-| Ever After | 1.00% | ~2 |
-| Trailblazer | 1.00% | ~2 |
-| Moving At Odd Angles | 1.00% | ~2 |
-| Wyrmslayer | 1.00% | ~2 |
-| Voracity Confronted | 1.00% | ~2 |
+| Making Contact | 1.00% | ~3 |
+| Executor | 1.00% | ~3 |
+| Loremaster | 1.00% | ~3 |
+| Adept | 1.00% | ~3 |
+| Ever After | 1.00% | ~3 |
+| Trailblazer | 1.00% | ~3 |
+| Moving At Odd Angles | 1.00% | ~3 |
+| Wyrmslayer | 1.00% | ~3 |
+| Voracity Confronted | 1.00% | ~3 |
 | Embellished | 0.80% | ~2 |
 | Manticore | 0.80% | ~2 |
 | Huntsmaster | 0.80% | ~2 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250 (Ranked 400)  
+Progressed: 251 (Ranked 400)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,6 +203,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 241 | 0 |
 | 2023-12-26 | 248 | 0 |
 | 2023-12-27 | 250 | 0 |
+| 2023-12-28 | 251 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

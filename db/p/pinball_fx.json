@@ -3,12 +3,12 @@
   "Name": "Pinball FX",
   "ProductSlug": "pinball-fx",
   "Ranking_Rating": 1006,
-  "Ranking_Popularity": 290,
+  "Ranking_Popularity": 291,
   "Ranking_PopularitySum": 230,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 56,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2185,9 +2185,9 @@
       "Count": 113
     }
   ],
-  "EOS_Progressed": 287911,
+  "EOS_Progressed": 287948,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3172,
+  "EOS_NewPlayers": 3182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30995,6 +30995,11 @@
       "Time": "2023-12-28T00:09:04.7018852+00:00",
       "NumProgressed": 287911,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T01:52:58.5836449+00:00",
+      "NumProgressed": 287948,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 39,
@@ -31124,9 +31129,9 @@
       "ID": "ACHIEVEMENT_16",
       "SetID": "83b4cpd",
       "Name": "Ready Steady Score",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 576
+      "UsersEstimate": 864
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -31166,7 +31171,7 @@
       "Name": "I Found it!",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1728
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -31230,7 +31235,7 @@
       "Name": "Ball Launched",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5758
+      "UsersEstimate": 5759
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -31317,21 +31322,21 @@
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 287911,
+      "Progressed": 287948,
       "Completed": 0
     },
     {
       "ID": "5ld4kno",
       "IsBase": false,
-      "Progressed": 6070,
+      "Progressed": 6107,
       "Completed": 595
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-12-27T04:03:40.1299313+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:09:04.701881+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:52:58.5836445+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:22:00.8774128+00:00",
-  "LastUpdate_Ratings": "2023-12-28T00:03:45.1444893+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:09:04.7020406+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:47:23.3734236+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:52:58.5838093+00:00"
 }

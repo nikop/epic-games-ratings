@@ -4,11 +4,11 @@
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 353,
   "Ranking_Popularity": 481,
-  "Ranking_PopularitySum": 438,
+  "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -621,9 +621,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6363,
+  "EOS_Progressed": 6367,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9436,6 +9436,11 @@
       "Time": "2023-12-28T00:05:19.5263714+00:00",
       "NumProgressed": 6363,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-28T01:48:39.4090884+00:00",
+      "NumProgressed": 6367,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9541,9 +9546,9 @@
       "ID": "20",
       "SetID": "3aa2279",
       "Name": "The Goddess of Nature",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 64
     },
     {
       "ID": "21",
@@ -9581,9 +9586,9 @@
       "ID": "25",
       "SetID": "3aa2279",
       "Name": "Walls Cannot Stop Us",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 573
     },
     {
       "ID": "26",
@@ -9607,7 +9612,7 @@
       "Name": "From Friends to Family",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "29",
@@ -9926,13 +9931,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6363,
+      "Progressed": 6367,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6363,
+      "Progressed": 6367,
       "Completed": 7
     }
   ],
@@ -9940,8 +9945,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-27T21:02:05.3548504+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:05:19.5263711+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:48:39.4090879+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-28T00:01:53.2619264+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:05:19.5264386+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:44:43.6238108+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:48:39.4091582+00:00"
 }

@@ -6,19 +6,19 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~572,811 |
-| Error: Stack Overflow | 66.00% | ~406,511 |
-| We need more gold | 61.00% | ~375,715 |
-| The dawn of civilization | 53.00% | ~326,441 |
-| More FPS for the FPS god! | 50.00% | ~307,963 |
-| Beauty and harmony | 48.00% | ~295,644 |
-| One more! | 44.00% | ~271,007 |
-| Overmind | 24.00% | ~147,822 |
-| RNG is my best friend now | 18.00% | ~110,867 |
-| Cosplay | 14.00% | ~86,230 |
-| Evolution in progress... | 13.00% | ~80,070 |
-| Step by step | 8.00% | ~49,274 |
-| README reader | 4.00% | ~24,637 |
+| First.. Bit? | 93.00% | ~572,823 |
+| Error: Stack Overflow | 66.00% | ~406,520 |
+| We need more gold | 61.00% | ~375,723 |
+| The dawn of civilization | 53.00% | ~326,448 |
+| More FPS for the FPS god! | 50.00% | ~307,970 |
+| Beauty and harmony | 48.00% | ~295,651 |
+| One more! | 44.00% | ~271,013 |
+| Overmind | 24.00% | ~147,825 |
+| RNG is my best friend now | 18.00% | ~110,869 |
+| Cosplay | 14.00% | ~86,231 |
+| Evolution in progress... | 13.00% | ~80,072 |
+| Step by step | 8.00% | ~49,275 |
+| README reader | 4.00% | ~24,638 |
 | Data scientist | 3.00% | ~18,478 |
 | One small step for a man... | 3.00% | ~18,478 |
 | To see it all, to learn it all | 2.00% | ~12,319 |
@@ -35,7 +35,7 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.40% | ~2,464 |
 | The Scrooge | 0.10% | ~616 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 615,926 (Ranked 31)  
+Progressed: 615,939 (Ranked 31)  
 Completed: 562 (0.09%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,10 +287,10 @@ Completed: 562 (0.09%) (Ranked 314)
 | 2023-12-25 | 615,550 | 561 |
 | 2023-12-26 | 615,734 | 562 |
 | 2023-12-27 | 615,920 | 562 |
-| 2023-12-28 | 615,926 | 562 |
+| 2023-12-28 | 615,939 | 562 |
 ## Awards
-Max (Challenging Puzzles): 140  (Ranked 330)  
-Sum: 140 (Ranked 438)  
+Max (Challenging Puzzles): 140  (Ranked 331)  
+Sum: 140 (Ranked 439)  
 Diff (max vs sum): -108  
 | Award | Count |
 | ----- | ----- |

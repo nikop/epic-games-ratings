@@ -7,7 +7,7 @@
 | A path of no return | 98.00% | ~115 |
 | A bottomless pit | 82.00% | ~96 |
 | Pigeon | 79.00% | ~92 |
-| Baited | 66.00% | ~77 |
+| Baited | 67.00% | ~78 |
 | "Swoosh" | 59.00% | ~69 |
 | The light at the end of the tunnel | 58.00% | ~68 |
 | Masochistic | 53.00% | ~62 |
@@ -15,13 +15,13 @@
 | Splash! | 49.00% | ~57 |
 | Squid game | 42.00% | ~49 |
 | Rock Solid | 34.00% | ~40 |
+| The beast within | 33.00% | ~39 |
+| It's getting dark | 33.00% | ~39 |
 | Sensitive soul | 33.00% | ~39 |
-| The beast within | 32.00% | ~37 |
-| It's getting dark | 32.00% | ~37 |
 | Hard Rock | 31.00% | ~36 |
-| Rooftop | 29.00% | ~34 |
-| Homeless | 28.00% | ~33 |
-| Big badaboom! | 27.00% | ~32 |
+| Rooftop | 30.00% | ~35 |
+| Homeless | 29.00% | ~34 |
+| Big badaboom! | 28.00% | ~33 |
 | Payback | 25.00% | ~29 |
 | Nokron tower | 24.00% | ~28 |
 | Magnitude 5 | 24.00% | ~28 |

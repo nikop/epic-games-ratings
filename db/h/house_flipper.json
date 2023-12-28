@@ -3,12 +3,12 @@
   "Name": "House Flipper",
   "ProductSlug": "house-flipper",
   "Ranking_Rating": 232,
-  "Ranking_Popularity": 251,
+  "Ranking_Popularity": 252,
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -2241,9 +2241,9 @@
       "Count": 225
     }
   ],
-  "EOS_Progressed": 21789,
+  "EOS_Progressed": 21790,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12221,6 +12221,11 @@
       "Time": "2023-12-27T23:07:07.3312611+00:00",
       "NumProgressed": 21789,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-28T01:50:06.8382872+00:00",
+      "NumProgressed": 21790,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -12264,7 +12269,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 3050
+      "UsersEstimate": 3051
     },
     {
       "ID": "EstateAgent",
@@ -12272,7 +12277,7 @@
       "Name": "Estate Agent",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "FirstMoney",
@@ -12336,7 +12341,7 @@
       "Name": "Millionaire",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "MrAndMrsJantart",
@@ -12360,7 +12365,7 @@
       "Name": "Perfectionist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "RafaelErko",
@@ -12415,15 +12420,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21789,
+      "Progressed": 21790,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-12-27T19:58:53.3590107+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:07:09.7945835+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:50:06.8382867+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:15.1839615+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:59:46.2610389+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:07:09.7946345+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:43:07.8469038+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:50:06.8383619+00:00"
 }

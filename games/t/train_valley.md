@@ -1,7 +1,7 @@
 # Train Valley
 [Store](https://store.epicgames.com/en-US/p/train-valley-ead642)  
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.50 (Ranked 606)  
+Rating: 4.50 (Ranked 607)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,7 +12,7 @@ Number of Ratings: 28  (23.09.2022)
 | Living it large! | 45.00% | ~267 |
 | Pangs of conscience | 44.00% | ~261 |
 | Collector | 43.00% | ~255 |
-| Need to think | 42.00% | ~249 |
+| Need to think | 43.00% | ~255 |
 | Completely nuts! | 41.00% | ~243 |
 | Europe | 33.00% | ~196 |
 | Just in time! | 33.00% | ~196 |
@@ -47,7 +47,7 @@ Number of Ratings: 28  (23.09.2022)
 | Vandal | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 593 (Ranked 325)  
-Completed: 2 (0.34%) (Ranked 244)  
+Completed: 2 (0.34%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

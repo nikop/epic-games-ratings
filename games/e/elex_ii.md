@@ -9,7 +9,7 @@ Number of Ratings: 124  (23.09.2022)
 | Entrepreneur | 33.00% | ~39 |
 | Best Buddy | 26.00% | ~30 |
 | Role Model | 24.00% | ~28 |
-| Civilian | 23.00% | ~27 |
+| Civilian | 24.00% | ~28 |
 | Festival-goer | 17.00% | ~20 |
 | Peddler | 16.00% | ~19 |
 | Creator | 16.00% | ~19 |
@@ -18,13 +18,13 @@ Number of Ratings: 124  (23.09.2022)
 | Long-Haul Flyer | 13.00% | ~15 |
 | Family Reunion | 10.00% | ~12 |
 | Pass A38 | 10.00% | ~12 |
+| Irissa's Fate | 9.00% | ~11 |
 | Berserker | 8.00% | ~9 |
-| Irissa's Fate | 8.00% | ~9 |
 | Eternal Oblivion | 8.00% | ~9 |
 | Globetrotter | 6.00% | ~7 |
 | Hotshot | 6.00% | ~7 |
+| Alb | 6.00% | ~7 |
 | Storyteller | 5.00% | ~6 |
-| Alb | 5.00% | ~6 |
 | Free as a Bird | 4.00% | ~5 |
 | Unbreakable | 4.00% | ~5 |
 | Alchemist | 3.00% | ~4 |

@@ -13,17 +13,17 @@ Rating: 4.45 (Ranked 680)
 | Change the Channel | 31.00% | ~1,283 |
 | Taking it back | 29.00% | ~1,200 |
 | Resourceful | 28.00% | ~1,159 |
-| Target America | 27.00% | ~1,117 |
-| The Kraken Sleeps | 25.00% | ~1,034 |
+| Target America | 27.00% | ~1,118 |
+| The Kraken Sleeps | 25.00% | ~1,035 |
 | As Quiet as a Mouse | 24.00% | ~993 |
 | Liberté | 23.00% | ~952 |
 | Organ Grinder | 23.00% | ~952 |
 | Sharpshooter | 23.00% | ~952 |
 | Gunslinger | 19.00% | ~786 |
 | Explosive Efficiency | 19.00% | ~786 |
-| Climbing the Ladder | 17.00% | ~703 |
-| Just a Flesh Wound | 17.00% | ~703 |
-| Der Geist | 17.00% | ~703 |
+| Climbing the Ladder | 17.00% | ~704 |
+| Just a Flesh Wound | 17.00% | ~704 |
+| Der Geist | 17.00% | ~704 |
 | Close Quarters | 16.00% | ~662 |
 | Snake in the Grass | 16.00% | ~662 |
 | Skirmisher | 15.00% | ~621 |
@@ -36,7 +36,7 @@ Rating: 4.45 (Ranked 680)
 | Set Europe Ablaze | 13.00% | ~538 |
 | Precision Is Key | 10.00% | ~414 |
 | My Little Friend | 10.00% | ~414 |
-| Rigged to Blow | 9.00% | ~372 |
+| Rigged to Blow | 9.00% | ~373 |
 | Herr Today, Gone Tomorrow | 7.00% | ~286 |
 | The Long Game | 6.00% | ~248 |
 | Operation Foxley | 6.00% | ~245 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 680)
 | Stroll in the Woods | 0.60% | ~25 |
 | Going Overboard | 0.60% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,138 (Ranked 206)  
+Progressed: 4,139 (Ranked 206)  
 Completed: 11 (0.27%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 11 (0.27%) (Ranked 259)
 | 2023-12-25 | 4,109 | 11 |
 | 2023-12-26 | 4,128 | 11 |
 | 2023-12-27 | 4,137 | 11 |
-| 2023-12-28 | 4,138 | 11 |
+| 2023-12-28 | 4,139 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 525)  
 Sum: 28 (Ranked 540)  

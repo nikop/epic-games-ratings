@@ -2,13 +2,13 @@
   "ID": "03ecca4e19a9483aa05b3d99948c43ce",
   "Name": "Tom Clancy\u0027s The Division",
   "ProductSlug": "the-division",
-  "Ranking_Rating": 426,
+  "Ranking_Rating": 441,
   "Ranking_Popularity": 232,
   "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 566,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2016-03-08T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "NumberOfRatings": 247,
   "RatingHistory": [
     {
@@ -2891,6 +2891,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 1167,
       "NumberOfAwardsMax": 426
+    },
+    {
+      "Time": "2023-12-28T01:42:45.7330147+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1167,
+      "NumberOfAwardsMax": 426
     }
   ],
   "ReviewsDisabled": false,
@@ -2994,8 +3000,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2023-12-27T01:42:45.3043731+00:00",
+  "LastChanged": "2023-12-28T01:42:45.7330146+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:29.4300594+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:59:17.1147408+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:08:28.0573716+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:42:45.733015+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:52:29.5388417+00:00"
 }

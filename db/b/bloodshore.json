@@ -2,10 +2,10 @@
   "ID": "e1d9c285b5214c09b1bd096b63d2d28c",
   "Name": "Bloodshore",
   "ProductSlug": "bloodshore-939cb0",
-  "Ranking_EOS_Progress": 399,
+  "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 386,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 377,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 254,
+  "EOS_Progressed": 255,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.36,
+  "EOS_Completed_Percentage": 2.35,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -620,6 +620,11 @@
       "Time": "2023-12-26T23:05:23.6122668+00:00",
       "NumProgressed": 254,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-28T01:49:09.2753406+00:00",
+      "NumProgressed": 255,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 17,
@@ -639,7 +644,7 @@
       "Name": "Comedy Killer",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "congratulations_you_are_a_sadist",
@@ -751,7 +756,7 @@
       "Name": "Um, ok...",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "used_to_think_i_was_indecisive",
@@ -766,7 +771,7 @@
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 254,
+      "Progressed": 255,
       "Completed": 6
     }
   ],
@@ -774,8 +779,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:05:57.4048387+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:49:09.2753401+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:58.6858803+00:00",
-  "LastUpdate_Ratings": "2023-12-28T00:03:40.5254995+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:05:57.4048509+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:47:20.0988949+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:49:09.2753558+00:00"
 }

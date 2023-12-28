@@ -9,33 +9,33 @@ Number of Ratings: 34  (23.09.2022)
 | Explorer | 68.00% | ~494 |
 | Cowardice | 61.00% | ~443 |
 | NO LIFE IS WORTH SAVING... | 45.00% | ~327 |
-| The Breaking Point | 44.00% | ~319 |
-| Eat Lead! | 43.00% | ~312 |
-| Here Comes the Boom | 40.00% | ~290 |
-| Prospector | 39.00% | ~283 |
+| The Breaking Point | 43.00% | ~313 |
+| Eat Lead! | 43.00% | ~313 |
+| Here Comes the Boom | 40.00% | ~291 |
+| Prospector | 39.00% | ~284 |
 | Sniper Wolf | 38.00% | ~276 |
 | The Motivation | 37.00% | ~269 |
-| Treasure Hunter | 36.00% | ~261 |
+| Treasure Hunter | 36.00% | ~262 |
 | Heroism | 35.00% | ~254 |
 | Collectibles of Chapter I | 33.00% | ~240 |
 | Missing in Action | 33.00% | ~240 |
-| King of Knives | 32.00% | ~232 |
 | Consequences | 31.00% | ~225 |
+| King of Knives | 31.00% | ~225 |
 | Opportunities | 30.00% | ~218 |
-| The Horror | 28.00% | ~203 |
+| The Horror | 28.00% | ~204 |
 | The Difference | 25.00% | ~182 |
 | It's Just an Accident | 25.00% | ~182 |
 | Vengeance | 24.00% | ~174 |
 | Collectibles of Chapter II | 22.00% | ~160 |
 | Broken Hopes | 22.00% | ~160 |
-| Bullseye! | 21.00% | ~152 |
+| Bullseye! | 21.00% | ~153 |
 | Sorrow | 19.00% | ~138 |
-| Atonement | 17.00% | ~123 |
-| Food Massacre | 17.00% | ~123 |
+| Atonement | 17.00% | ~124 |
+| Food Massacre | 17.00% | ~124 |
 | Helping Hand | 16.00% | ~116 |
 | Without a Second Thought | 15.00% | ~109 |
-| Collectibles of Chapter III | 13.00% | ~94 |
-| Collectibles of Chapter IV | 13.00% | ~94 |
+| Collectibles of Chapter III | 13.00% | ~95 |
+| Collectibles of Chapter IV | 13.00% | ~95 |
 | Tiptoe Around | 11.00% | ~80 |
 | Collectibles of Chapter V | 10.00% | ~73 |
 | Such is War! | 8.00% | ~58 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.10% | ~1 |
 | Challenges of Chapter XII | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 726 (Ranked 306)  
+Progressed: 727 (Ranked 306)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 718 | 0 |
 | 2023-12-26 | 722 | 0 |
 | 2023-12-27 | 725 | 0 |
-| 2023-12-28 | 726 | 0 |
+| 2023-12-28 | 727 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

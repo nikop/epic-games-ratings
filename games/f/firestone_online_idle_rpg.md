@@ -5,14 +5,14 @@ Rating: 4.02 (Ranked 1,022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,615 |
-| World Map | 78.00% | ~3,032 |
+| Victor | 93.00% | ~3,616 |
+| World Map | 78.00% | ~3,033 |
 | Temple of Eternals | 56.00% | ~2,177 |
-| Prestigious | 53.00% | ~2,060 |
+| Prestigious | 53.00% | ~2,061 |
 | Fellowship Power | 42.00% | ~1,633 |
 | Full Party | 26.00% | ~1,011 |
 | Guild Power | 23.00% | ~894 |
-| Prestigious x10 | 20.00% | ~777 |
+| Prestigious x10 | 20.00% | ~778 |
 | The game is on | 18.00% | ~700 |
 | Exotic Merchant | 16.00% | ~622 |
 | Dragon Clicker | 15.00% | ~583 |
@@ -21,7 +21,7 @@ Rating: 4.02 (Ranked 1,022)
 | Dragon Master | 13.00% | ~505 |
 | Enlightenment | 13.00% | ~505 |
 | Hero inspection | 13.00% | ~505 |
-| Lieutenant | 12.00% | ~466 |
+| Lieutenant | 12.00% | ~467 |
 | Milestone collector | 11.00% | ~428 |
 | Mysterious Rock | 11.00% | ~428 |
 | Natural Talent | 11.00% | ~428 |
@@ -54,12 +54,12 @@ Rating: 4.02 (Ranked 1,022)
 | Lock And Load | 5.00% | ~194 |
 | Missions Dedication | 5.00% | ~194 |
 | Sailor | 5.00% | ~194 |
-| Active Member | 4.00% | ~155 |
-| Ancient Knowledge | 4.00% | ~155 |
-| Arena Challenger | 4.00% | ~155 |
-| Background Story | 4.00% | ~155 |
-| Legendary | 4.00% | ~155 |
-| The Alchemist | 4.00% | ~155 |
+| Active Member | 4.00% | ~156 |
+| Ancient Knowledge | 4.00% | ~156 |
+| Arena Challenger | 4.00% | ~156 |
+| Background Story | 4.00% | ~156 |
+| Legendary | 4.00% | ~156 |
+| The Alchemist | 4.00% | ~156 |
 | Ebony Jungle Liberator | 3.00% | ~117 |
 | Mythic Power | 3.00% | ~117 |
 | Cauldron Liberator | 2.00% | ~78 |
@@ -81,7 +81,7 @@ Rating: 4.02 (Ranked 1,022)
 | Jewel Enchanting | 0.20% | ~8 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,887 (Ranked 208)  
+Progressed: 3,888 (Ranked 208)  
 Completed: 2 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,11 +328,11 @@ Completed: 2 (0.05%) (Ranked 336)
 | 2023-12-25 | 3,807 | 2 |
 | 2023-12-26 | 3,857 | 2 |
 | 2023-12-27 | 3,886 | 2 |
-| 2023-12-28 | 3,887 | 2 |
+| 2023-12-28 | 3,888 | 2 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 478)  
-Sum: 128 (Ranked 444)  
-Diff (max vs sum): 34  
+Sum: 128 (Ranked 445)  
+Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 39 |

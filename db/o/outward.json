@@ -4,11 +4,11 @@
   "ProductSlug": "outward",
   "Ranking_Rating": 516,
   "Ranking_Popularity": 495,
-  "Ranking_PopularitySum": 398,
+  "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4292,
+  "EOS_Progressed": 4293,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -7141,6 +7141,11 @@
       "Time": "2023-12-27T23:04:13.2981066+00:00",
       "NumProgressed": 4292,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-28T01:47:49.552674+00:00",
+      "NumProgressed": 4293,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7224,7 +7229,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "ForAllAurai_8",
@@ -7256,7 +7261,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "HouseofCards_19",
@@ -7264,7 +7269,7 @@
       "Name": "House of Cards",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "LegacyOfaMasterHunter_55",
@@ -7280,7 +7285,7 @@
       "Name": "Let \u2018em eat magma!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "LightofLevant_18",
@@ -7336,7 +7341,7 @@
       "Name": "Ready for Summer",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2103
+      "UsersEstimate": 2104
     },
     {
       "ID": "ReadyforWinter_42",
@@ -7344,7 +7349,7 @@
       "Name": "Ready for Winter",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2661
+      "UsersEstimate": 2662
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -7376,7 +7381,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1502
+      "UsersEstimate": 1503
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -7472,7 +7477,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3133
+      "UsersEstimate": 3134
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7487,15 +7492,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4292,
+      "Progressed": 4293,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:04:17.9109178+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:47:49.5526736+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.9488093+00:00",
-  "LastUpdate_Ratings": "2023-12-28T00:03:10.5652952+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:04:17.9109804+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:46:58.8986815+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:47:49.5527343+00:00"
 }

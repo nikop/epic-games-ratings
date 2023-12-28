@@ -50,7 +50,7 @@
 | Bonus Evilness | 25.00% | ~162 |
 | The Rune Sockets of Finitude (Part 2) | 24.00% | ~156 |
 | The Last Stand - This Time For Real! | 22.00% | ~143 |
-| Rubble and Ashes | 20.00% | ~130 |
+| Rubble and Ashes | 21.00% | ~136 |
 | Lavalumps on Ice! | 19.00% | ~124 |
 | My Little Torture Chamber | 18.00% | ~117 |
 | To the Max! | 18.00% | ~117 |

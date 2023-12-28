@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1687,
+  "EOS_Progressed": 1689,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
@@ -4122,6 +4122,11 @@
       "Time": "2023-12-27T23:08:12.9836867+00:00",
       "NumProgressed": 1687,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T01:52:18.2982528+00:00",
+      "NumProgressed": 1689,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4230,7 +4235,7 @@
       "Name": "Look, Mom! No track!",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ML_ACHIEVEMENT_14",
@@ -4278,7 +4283,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -4374,7 +4379,7 @@
       "Name": "Shopping time!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -4390,7 +4395,7 @@
       "Name": "Spin the wheel",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -4470,7 +4475,7 @@
       "Name": "Mission complete",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ML_ACHIEVEMENT_44",
@@ -4501,20 +4506,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1687,
+      "Progressed": 1689,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1355,
+      "Progressed": 1357,
       "Completed": 1003
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:08:13.9343912+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:52:18.2982524+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-28T00:01:40.3838246+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:08:13.9344391+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:44:33.650915+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:52:18.2983177+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 324,
-  "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 366,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_Completed": 164,
+  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 606,
+  "EOS_Progressed": 607,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.16,
+  "EOS_Completed_Percentage": 1.15,
   "EosHistory": [
     {
       "Time": "2023-06-26T18:04:48.9323975+00:00",
@@ -2654,6 +2654,11 @@
       "Time": "2023-12-27T21:04:13.3423368+00:00",
       "NumProgressed": 606,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-28T01:47:37.7215084+00:00",
+      "NumProgressed": 607,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2665,7 +2670,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2681,7 +2686,7 @@
       "Name": "The crucifixion",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -2737,7 +2742,7 @@
       "Name": "Unholy lands",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -2769,21 +2774,21 @@
       "Name": "Flagellation",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     }
   ],
   "AchievementSets": [
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 606,
+      "Progressed": 607,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:04:03.2815866+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:47:37.721508+00:00",
   "LastUpdate_AppInfo": "2023-12-23T18:56:53.260283+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:57:18.8661754+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:04:03.2816489+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:41:09.1385085+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:47:37.7215544+00:00"
 }

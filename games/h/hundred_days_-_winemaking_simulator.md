@@ -1,24 +1,24 @@
 # Hundred Days - Winemaking Simulator
 [Store](https://store.epicgames.com/en-US/p/hundred-days-winemaking-simulator)  
 [View Rawdata](../../db/h/hundred_days_-_winemaking_simulator.json)  
-Rating: 4.35 (Ranked 812)  
+Rating: 4.35 (Ranked 813)  
 Number of Ratings: 7,669  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 42.00% | ~7,536 |
-| It's a good start | 10.00% | ~1,794 |
-| Bonjour! | 8.00% | ~1,435 |
-| Quack | 8.00% | ~1,435 |
+| Bye Bye | 42.00% | ~7,541 |
+| It's a good start | 10.00% | ~1,795 |
+| Bonjour! | 8.00% | ~1,436 |
+| Quack | 8.00% | ~1,436 |
 | The Assistant | 6.00% | ~1,077 |
 | The Blue Marl | 6.00% | ~1,077 |
-| Ostinata | 5.00% | ~897 |
-| Better than nothing? | 5.00% | ~897 |
+| Ostinata | 5.00% | ~898 |
+| Better than nothing? | 5.00% | ~898 |
 | A long journey | 4.00% | ~718 |
-| Big Money | 3.00% | ~538 |
-| Keep the doctor away | 3.00% | ~538 |
-| Surprise of Langhe | 3.00% | ~538 |
-| Famous | 3.00% | ~538 |
+| Big Money | 3.00% | ~539 |
+| Keep the doctor away | 3.00% | ~539 |
+| Surprise of Langhe | 3.00% | ~539 |
+| Famous | 3.00% | ~539 |
 | What is that? A castle? | 2.00% | ~359 |
 | A lot of space | 2.00% | ~359 |
 | A big garage | 2.00% | ~359 |
@@ -27,8 +27,8 @@ Number of Ratings: 7,669  (23.09.2022)
 | Pastry Chef | 2.00% | ~359 |
 | Welcome to the club | 2.00% | ~359 |
 | Very Important Winemaker | 2.00% | ~359 |
-| King of Langhe | 1.00% | ~179 |
-| Gem of Monferrato | 1.00% | ~179 |
+| King of Langhe | 1.00% | ~180 |
+| Gem of Monferrato | 1.00% | ~180 |
 | Treasure of Roero | 0.70% | ~126 |
 | Knight of Langhe | 0.50% | ~90 |
 | King of red wines | 0.20% | ~36 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Master Winemaker | 0.10% | ~18 |
 | Unsuitable Terroir | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,942 (Ranked 155)  
+Progressed: 17,954 (Ranked 155)  
 Completed: 13 (0.07%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,11 +163,11 @@ Completed: 13 (0.07%) (Ranked 322)
 | 2023-12-25 | 17,586 | 13 |
 | 2023-12-26 | 17,754 | 13 |
 | 2023-12-27 | 17,935 | 13 |
-| 2023-12-28 | 17,942 | 13 |
+| 2023-12-28 | 17,954 | 13 |
 ## Awards
-Max (Relaxing): 208  (Ranked 292)  
+Max (Relaxing): 208  (Ranked 293)  
 Sum: 1,736 (Ranked 223)  
-Diff (max vs sum): 69  
+Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 208 |

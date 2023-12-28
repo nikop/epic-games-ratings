@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 606)  
+Rating: 4.50 (Ranked 607)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -311,9 +311,9 @@ Completed: 70 (0.21%) (Ranked 271)
 | 2023-12-27 | 32,821 | 70 |
 | 2023-12-28 | 32,823 | 70 |
 ## Awards
-Max (Great for Beginners): 325  (Ranked 252)  
+Max (Great for Beginners): 325  (Ranked 253)  
 Sum: 2,933 (Ranked 182)  
-Diff (max vs sum): 70  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 325 |

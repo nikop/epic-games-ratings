@@ -2,13 +2,13 @@
   "ID": "3348e3d8eae449ecbcf9fe354d4fe8a0",
   "Name": "Hotel Renovator",
   "ProductSlug": "hotel-renovator",
-  "Ranking_Rating": 835,
+  "Ranking_Rating": 823,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.33,
+  "Rating": 4.34,
   "RatingHistory": [
     {
       "Time": "2023-03-30T21:57:33.3986384+00:00",
@@ -243,6 +243,12 @@
     {
       "Time": "2023-12-26T01:43:52.6080905+00:00",
       "Rating": 4.33,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-28T01:41:35.1559005+00:00",
+      "Rating": 4.34,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -3168,9 +3174,9 @@
       "ID": "ACH_ELIZA_PHOTO",
       "SetID": "7k95e4n",
       "Name": "Love is in the air",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 545
+      "UsersEstimate": 559
     },
     {
       "ID": "ACH_ENGAGEMENT_RING",
@@ -3344,9 +3350,9 @@
   "FirstSeen": "2023-03-07T20:57:17.7123218+00:00",
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
-  "LastChanged": "2023-12-26T01:43:52.6080902+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:08:49.5181854+00:00",
+  "LastChanged": "2023-12-28T01:41:35.1559003+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:52:46.5697387+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:02.4456941+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:57:54.6899587+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:08:49.5182183+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:41:35.1559008+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:52:46.5697683+00:00"
 }

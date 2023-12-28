@@ -2,10 +2,10 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 422,
+  "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 187,
+  "EOS_Progressed": 189,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -844,6 +844,11 @@
       "Time": "2023-12-27T20:08:17.4440827+00:00",
       "NumProgressed": 187,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T01:53:07.4939225+00:00",
+      "NumProgressed": 189,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -856,7 +861,7 @@
       "Name": "Abdication",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "SG_ACROSSTHESTYX",
@@ -880,7 +885,7 @@
       "Name": "All The Help You Need",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "SG_ARROWOFEROSUNDONE",
@@ -904,7 +909,7 @@
       "Name": "Brave On Time",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SG_CHARISMATIC",
@@ -926,9 +931,9 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 132
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -960,7 +965,7 @@
       "Name": "Heartbreaker",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "SG_LIKEHEROESBEFOREYOU",
@@ -1024,7 +1029,7 @@
       "Name": "Queen Without A Throne",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "SG_SAYINGGOODBYE",
@@ -1064,7 +1069,7 @@
       "Name": "The Answer Is You",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SG_THECHOICEISYOURS",
@@ -1072,15 +1077,15 @@
       "Name": "The Choice Is Yours",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "SG_THEDEEPEND",
       "SetID": "bj5g0n4",
       "Name": "The Deep End",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "SG_THEHIGHROAD",
@@ -1112,7 +1117,7 @@
       "Name": "The Queen Of The Dead",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SG_THEULTIMATESACRIFICE",
@@ -1151,14 +1156,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 187,
+      "Progressed": 189,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:09:15.9515612+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:53:07.493922+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:52.970167+00:00",
-  "LastUpdate_Ratings": "2023-12-28T00:01:50.5027523+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:09:15.9515907+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:44:41.5967464+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:53:07.4939458+00:00"
 }

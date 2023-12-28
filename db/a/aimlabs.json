@@ -4,11 +4,11 @@
   "ProductSlug": "aimlabs",
   "Ranking_Rating": 375,
   "Ranking_Popularity": 402,
-  "Ranking_PopularitySum": 326,
+  "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 566,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -1849,10 +1849,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 546,
       "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2023-12-28T01:43:56.3898373+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 547,
+      "NumberOfAwardsMax": 77
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 546,
+  "NumberOfAwards": 547,
   "NumberOfAwardsMax": 77,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1914,7 +1920,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has Playful Visuals",
@@ -1941,8 +1947,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2023-12-28T00:00:49.6238358+00:00",
+  "LastChanged": "2023-12-28T01:43:56.3898372+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:09.100445+00:00",
-  "LastUpdate_Ratings": "2023-12-28T00:00:49.6238364+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:03:54.9913677+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:43:56.3898376+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:47:31.2726102+00:00"
 }

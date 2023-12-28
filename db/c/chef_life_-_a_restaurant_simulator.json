@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 888,
+  "EOS_Progressed": 889,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
@@ -3832,6 +3832,11 @@
       "Time": "2023-12-27T19:10:08.3421297+00:00",
       "NumProgressed": 888,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T01:53:49.346051+00:00",
+      "NumProgressed": 889,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4019,7 +4024,7 @@
       "Name": "The Big Day",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "Packing20",
@@ -4162,7 +4167,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 888,
+      "Progressed": 889,
       "Completed": 0
     }
   ],
@@ -4170,8 +4175,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:10:08.5445154+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:53:49.3460505+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:29.3889235+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:59:04.4102711+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:10:08.5445807+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:42:34.9834266+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:53:49.3461018+00:00"
 }

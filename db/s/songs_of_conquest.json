@@ -4,11 +4,11 @@
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 232,
   "Ranking_Popularity": 518,
-  "Ranking_PopularitySum": 395,
+  "Ranking_PopularitySum": 396,
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,7 +450,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 797,
+  "EOS_Progressed": 798,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
@@ -2970,6 +2970,11 @@
       "Time": "2023-12-28T00:09:17.6354982+00:00",
       "NumProgressed": 797,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T01:53:08.8762705+00:00",
+      "NumProgressed": 798,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3086,7 +3091,7 @@
       "Name": "Critical Hit",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "Deepstrike",
@@ -3318,7 +3323,7 @@
       "Name": "Veteran",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "WielderLevel3",
@@ -3413,15 +3418,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 797,
+      "Progressed": 798,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:09:17.6354978+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:53:08.87627+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.1217697+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:58:29.0656168+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:09:17.6355634+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:42:04.1873928+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:53:08.8763159+00:00"
 }

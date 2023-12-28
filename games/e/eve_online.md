@@ -1,11 +1,11 @@
 # EVE Online
 [Store](https://store.epicgames.com/en-US/p/eve-online)  
 [View Rawdata](../../db/e/eve_online.json)  
-Rating: 4.23 (Ranked 923)  
+Rating: 4.24 (Ranked 910)  
 Number of Ratings: 1,408  (23.09.2022)  
 ## Awards
 Max (Character Customization): 1,169  (Ranked 145)  
-Sum: 2,775 (Ranked 188)  
+Sum: 2,776 (Ranked 188)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): -43
 | This game has Challenging Combat | 221 |
 | This game is Extremely Fun | 216 |
 | This game is Highly Recommended | 208 |
-| This game has Competitive Players | 189 |
+| This game has Competitive Players | 190 |
 | This game is Relaxing | 185 |
 | This game has Amazing Storytelling | 183 |
 | This game has a Competitive Community | 176 |
@@ -298,3 +298,4 @@ Diff (max vs sum): -43
 | 2023-12-24 | 4.23 | - | 1,166 | 2,769 |
 | 2023-12-25 | 4.23 | - | 1,168 | 2,774 |
 | 2023-12-26 | 4.23 | - | 1,169 | 2,775 |
+| 2023-12-28 | 4.24 | - | 1,169 | 2,776 |

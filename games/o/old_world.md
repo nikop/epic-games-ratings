@@ -21,6 +21,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 0.50% | ~80 |
 | Ambitious | 0.40% | ~64 |
 | Enlightened | 0.40% | ~64 |
+| Fountainhead | 0.40% | ~64 |
 | Glorious | 0.40% | ~64 |
 | Just | 0.40% | ~64 |
 | Keystone | 0.40% | ~64 |
@@ -34,7 +35,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 0.40% | ~64 |
 | Regicide | 0.30% | ~48 |
 | Brilliant | 0.30% | ~48 |
-| Fountainhead | 0.30% | ~48 |
 | Magnificent | 0.30% | ~48 |
 | Wise | 0.30% | ~48 |
 | Legendary Cities | 0.30% | ~48 |
@@ -618,9 +618,9 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-26 | 15,966 | 5 |
 | 2023-12-27 | 15,978 | 5 |
 ## Awards
-Max (Relaxing): 229  (Ranked 282)  
+Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,911 (Ranked 220)  
-Diff (max vs sum): 62  
+Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 229 |

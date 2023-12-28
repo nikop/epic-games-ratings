@@ -7,7 +7,7 @@ Number of Ratings: 76  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Spatula Seeker | 16.00% | ~70 |
-| Sponge Smasher | 15.00% | ~65 |
+| Sponge Smasher | 15.00% | ~66 |
 | Jellyfish Jam | 14.00% | ~61 |
 | Jellyfishing | 10.00% | ~44 |
 | Time For Tutorial | 10.00% | ~44 |
@@ -15,17 +15,17 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Getter | 9.00% | ~39 |
 | Star Smasher | 8.00% | ~35 |
 | Surf's Up! | 8.00% | ~35 |
-| Uptown and Downtown | 7.00% | ~30 |
-| Super Spatula Seeker | 7.00% | ~30 |
-| Squirrel Smasher | 7.00% | ~30 |
+| Uptown and Downtown | 7.00% | ~31 |
+| Super Spatula Seeker | 7.00% | ~31 |
+| Squirrel Smasher | 7.00% | ~31 |
 | Life's as extreme as you wanna make it! | 6.00% | ~26 |
 | Toxic Terror | 6.00% | ~26 |
 | Hit Rock Bottom | 6.00% | ~26 |
 | Keep it Rolling | 5.00% | ~22 |
 | Shrimp Catcher | 5.00% | ~22 |
-| Robot encyclopedia | 4.00% | ~17 |
-| Are you ready now? | 4.00% | ~17 |
-| Hello, Bikini Bottom | 4.00% | ~17 |
+| Robot encyclopedia | 4.00% | ~18 |
+| Are you ready now? | 4.00% | ~18 |
+| Hello, Bikini Bottom | 4.00% | ~18 |
 | Ship Shape | 3.00% | ~13 |
 | Shanghaied | 3.00% | ~13 |
 | Kelp Forest of Fear | 3.00% | ~13 |
@@ -39,8 +39,8 @@ Number of Ratings: 76  (23.09.2022)
 | 100% SpongeBob | 0.70% | ~3 |
 | Super Ultra Mega Spatula Seeker | 0.70% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 435 (Ranked 351)  
-Completed: 3 (0.69%) (Ranked 199)  
+Progressed: 438 (Ranked 350)  
+Completed: 3 (0.68%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -54,6 +54,7 @@ Completed: 3 (0.69%) (Ranked 199)
 | 2023-12-25 | 378 | 1 |
 | 2023-12-26 | 412 | 3 |
 | 2023-12-27 | 435 | 3 |
+| 2023-12-28 | 438 | 3 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 495)  
 Sum: 35 (Ranked 522)  

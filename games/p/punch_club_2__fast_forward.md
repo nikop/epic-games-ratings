@@ -33,13 +33,13 @@
 | Own four walls | 53.00% | ~258 |
 | Employee of the year | 53.00% | ~258 |
 | Intriguing candies | 52.00% | ~253 |
+| Extreme neuropower! | 50.00% | ~243 |
 | Legal courier | 49.00% | ~238 |
-| Extreme neuropower! | 49.00% | ~238 |
 | Escaped from a big trouble | 47.00% | ~228 |
 | Now you are worthy | 42.00% | ~204 |
 | Fight is life | 42.00% | ~204 |
+| Mysterious voice | 41.00% | ~199 |
 | Guiding on the right path | 41.00% | ~199 |
-| Mysterious voice | 40.00% | ~194 |
 | No blades in the gym | 40.00% | ~194 |
 | Champion – no way back | 37.00% | ~180 |
 | Responsible approach | 37.00% | ~180 |
@@ -71,7 +71,7 @@
 | The only right decision | 26.00% | ~126 |
 | Silver’s past | 25.00% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 486 (Ranked 337)  
+Progressed: 486 (Ranked 338)  
 Completed: 9 (1.85%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |

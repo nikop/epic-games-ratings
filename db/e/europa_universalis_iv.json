@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -13705,10 +13705,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 62528,
       "NumberOfAwardsMax": 7588
+    },
+    {
+      "Time": "2023-12-28T01:41:39.3567145+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 62554,
+      "NumberOfAwardsMax": 7588
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 62528,
+  "NumberOfAwards": 62554,
   "NumberOfAwardsMax": 7588,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -13728,7 +13734,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 7414
+      "Count": 7429
     },
     {
       "Text": "This game is Extremely Fun",
@@ -13758,7 +13764,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 6950
+      "Count": 6961
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -13779,9 +13785,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 485817,
+  "EOS_Progressed": 485850,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5719,
+  "EOS_NewPlayers": 5732,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -42749,6 +42755,11 @@
       "Time": "2023-12-28T00:09:07.7316068+00:00",
       "NumProgressed": 485817,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T01:53:01.3440954+00:00",
+      "NumProgressed": 485850,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -43200,7 +43211,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -43784,7 +43795,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -44760,7 +44771,7 @@
       "Name": "Seriously?!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -45663,21 +45674,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 485817,
+      "Progressed": 485850,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 485817,
+      "Progressed": 485850,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-12-27T22:57:57.2431338+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:09:07.7316065+00:00",
+  "LastChanged": "2023-12-28T01:41:39.3567143+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:53:01.3440951+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:16.1872373+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:57:58.6024561+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:09:07.7327942+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:41:39.356715+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:53:01.3451194+00:00"
 }

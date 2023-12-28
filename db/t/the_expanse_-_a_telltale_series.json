@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -307,10 +307,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17608,
-  "EOS_Completed": 54,
-  "EOS_NewPlayers": 660,
-  "EOS_NewCompleters": 8,
+  "EOS_Progressed": 17612,
+  "EOS_Completed": 55,
+  "EOS_NewPlayers": 657,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -15387,6 +15387,11 @@
       "Time": "2023-12-28T00:05:42.3172234+00:00",
       "NumProgressed": 17608,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-12-28T01:48:57.3109205+00:00",
+      "NumProgressed": 17612,
+      "NumCompleted": 55
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15423,7 +15428,7 @@
       "Name": "Data Archivist",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1057
     },
     {
       "ID": "13",
@@ -15431,7 +15436,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2817
+      "UsersEstimate": 2818
     },
     {
       "ID": "14",
@@ -15439,7 +15444,7 @@
       "Name": "Doctor Approved",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "15",
@@ -15455,7 +15460,7 @@
       "Name": "Drug Gifter",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1057
     },
     {
       "ID": "17",
@@ -15471,7 +15476,7 @@
       "Name": "Bottoms up!",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "19",
@@ -15495,7 +15500,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1057
     },
     {
       "ID": "21",
@@ -15535,7 +15540,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1057
     },
     {
       "ID": "26",
@@ -15639,7 +15644,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "32",
@@ -15678,22 +15683,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17608,
-      "Completed": 54
+      "Progressed": 17612,
+      "Completed": 55
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3562,
-      "Completed": 1080
+      "Progressed": 3566,
+      "Completed": 1081
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-27T06:00:51.7325186+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:05:42.3172231+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:48:57.3109201+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-28T00:01:27.0099886+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:05:42.3173073+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:44:23.4953865+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:48:57.311005+00:00"
 }

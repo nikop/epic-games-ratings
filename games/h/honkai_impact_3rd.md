@@ -1,17 +1,17 @@
 # Honkai Impact 3rd
 [Store](https://store.epicgames.com/en-US/p/honkai-impact-3rd)  
 [View Rawdata](../../db/h/honkai_impact_3rd.json)  
-Rating: 4.50 (Ranked 606)  
+Rating: 4.50 (Ranked 607)  
 ## Awards
 Max (Character Customization): 3,228  (Ranked 98)  
-Sum: 12,130 (Ranked 85)  
+Sum: 12,134 (Ranked 85)  
 Diff (max vs sum): 13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,228 |
 | This game has Great Boss Battles | 2,428 |
 | This game is Great for Quick Sessions | 792 |
-| This game has Diverse Characters | 765 |
+| This game has Diverse Characters | 769 |
 | This game is Great for Beginners | 750 |
 | This game is Highly Recommended | 649 |
 | This game has Amazing Characters | 647 |
@@ -336,3 +336,4 @@ Diff (max vs sum): 13
 | 2023-12-25 | 4.50 | 3,220 | 12,090 |
 | 2023-12-26 | 4.50 | 3,228 | 12,116 |
 | 2023-12-27 | 4.50 | 3,228 | 12,130 |
+| 2023-12-28 | 4.50 | 3,228 | 12,134 |

@@ -8,8 +8,8 @@ Rating: 4.63 (Ranked 353)
 | Secret Technique | 11.00% | ~700 |
 | Realm Estate | 9.00% | ~573 |
 | A Wonderful Discovery | 9.00% | ~573 |
-| Walls Cannot Stop Us | 8.00% | ~509 |
-| From Friends to Family | 7.00% | ~445 |
+| Walls Cannot Stop Us | 9.00% | ~573 |
+| From Friends to Family | 7.00% | ~446 |
 | Bone Peddler | 6.00% | ~382 |
 | There Can Only Be One! | 5.00% | ~318 |
 | Full Ascension | 5.00% | ~318 |
@@ -41,6 +41,7 @@ Rating: 4.63 (Ranked 353)
 | Lord of Chaos | 1.00% | ~64 |
 | Arch Mage | 1.00% | ~64 |
 | The Creator | 1.00% | ~64 |
+| The Goddess of Nature | 1.00% | ~64 |
 | Eternal Lord | 1.00% | ~64 |
 | The Eternal Court | 1.00% | ~64 |
 | Blood of the Dragon | 1.00% | ~64 |
@@ -48,7 +49,6 @@ Rating: 4.63 (Ranked 353)
 | Seal the Deal | 1.00% | ~64 |
 | A Conqueror's Cohort | 1.00% | ~64 |
 | Dawn of the Dread | 1.00% | ~64 |
-| The Goddess of Nature | 0.90% | ~57 |
 | Pruning for Progress | 0.90% | ~57 |
 | Manufactured War | 0.80% | ~51 |
 | Grexolis | 0.80% | ~51 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 353)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,363 (Ranked 194)  
+Progressed: 6,367 (Ranked 194)  
 Completed: 7 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,11 +286,11 @@ Completed: 7 (0.11%) (Ranked 304)
 | 2023-12-25 | 6,213 | 7 |
 | 2023-12-26 | 6,285 | 7 |
 | 2023-12-27 | 6,359 | 7 |
-| 2023-12-28 | 6,363 | 7 |
+| 2023-12-28 | 6,367 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 481)  
-Sum: 140 (Ranked 438)  
-Diff (max vs sum): 43  
+Sum: 140 (Ranked 439)  
+Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 38 |

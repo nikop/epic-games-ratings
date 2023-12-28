@@ -1,7 +1,7 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.33 (Ranked 835)  
+Rating: 4.34 (Ranked 823)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,7 +15,7 @@ Rating: 4.33 (Ranked 835)
 | Excellent service | 47.00% | ~625 |
 | Roll with it | 44.00% | ~585 |
 | Humble beginnings | 42.00% | ~559 |
-| Love is in the air | 41.00% | ~545 |
+| Love is in the air | 42.00% | ~559 |
 | Fine, I'll do it myself | 40.00% | ~532 |
 | Moving up | 40.00% | ~532 |
 | No need to call anyone | 38.00% | ~505 |
@@ -272,3 +272,4 @@ Completed: 18 (1.35%) (Ranked 152)
 | 2023-12-22 | 4.33 | 0 | 0 |
 | 2023-12-23 | 4.34 | 0 | 0 |
 | 2023-12-26 | 4.33 | 0 | 0 |
+| 2023-12-28 | 4.34 | 0 | 0 |

@@ -12,7 +12,7 @@ Number of Ratings: 285  (23.09.2022)
 | That'll Leave a Mark | 25.00% | ~1,467 |
 | Debuff Dogpile | 24.00% | ~1,409 |
 | Mushroom Madness! | 23.00% | ~1,350 |
-| First Strike | 20.00% | ~1,174 |
+| First Strike | 21.00% | ~1,232 |
 | Spending Spree | 19.00% | ~1,115 |
 | Horder Better Faster Stronger | 17.00% | ~998 |
 | Ten Steps from the Grave | 15.00% | ~880 |
@@ -199,8 +199,8 @@ Completed: 4 (0.07%) (Ranked 322)
 | 2023-12-28 | 5,869 | 4 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 489)  
-Sum: 295 (Ranked 374)  
-Diff (max vs sum): 115  
+Sum: 295 (Ranked 375)  
+Diff (max vs sum): 114  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |

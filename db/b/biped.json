@@ -4,8 +4,8 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9003,
+  "EOS_Progressed": 9005,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 625,
+  "EOS_NewPlayers": 627,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15194,6 +15194,11 @@
       "Time": "2023-12-28T00:08:10.7547279+00:00",
       "NumProgressed": 9003,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T01:52:15.8018703+00:00",
+      "NumProgressed": 9005,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -15205,7 +15210,7 @@
       "Name": "First Step",
       "Percentage": 34,
       "XP": 45,
-      "UsersEstimate": 3061
+      "UsersEstimate": 3062
     },
     {
       "ID": "10",
@@ -15277,7 +15282,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "5",
@@ -15324,7 +15329,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 9003,
+      "Progressed": 9005,
       "Completed": 0
     }
   ],
@@ -15332,8 +15337,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:08:10.7547276+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:52:15.80187+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:07.1374216+00:00",
-  "LastUpdate_Ratings": "2023-12-28T00:00:04.6766869+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:08:10.7548141+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:43:21.7308678+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:52:15.8019528+00:00"
 }

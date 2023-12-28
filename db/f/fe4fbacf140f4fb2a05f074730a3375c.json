@@ -2,10 +2,10 @@
   "ID": "fe4fbacf140f4fb2a05f074730a3375c",
   "Name": "Angelo and Deemon: One Hell of a Quest",
   "ProductSlug": "angelo-and-deemon-one-hell-of-a-quest-94d7e2",
-  "Ranking_EOS_Progress": 558,
-  "Ranking_EOS_Completed": 77,
-  "Ranking_EOS_NewPlayers": 515,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_Progress": 557,
+  "Ranking_EOS_Completed": 79,
+  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-08-15T14:00:00+00:00",
     "PcReleaseDate": "2019-09-27T12:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41,
+  "EOS_Progressed": 42,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.88,
+  "EOS_Completed_Percentage": 4.76,
   "EosHistory": [
     {
       "Time": "2023-08-11T11:05:27.7047685+00:00",
@@ -239,6 +239,11 @@
       "Time": "2023-12-27T19:05:03.3803524+00:00",
       "NumProgressed": 41,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-28T01:48:17.2053014+00:00",
+      "NumProgressed": 42,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-10T08:05:05.3419647+00:00",
@@ -249,7 +254,7 @@
       "ID": "BackFuture",
       "SetID": "bl5ebnd",
       "Name": "Back of the Future",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 50,
       "UsersEstimate": 11
     },
@@ -257,7 +262,7 @@
       "ID": "BigBrother",
       "SetID": "bl5ebnd",
       "Name": "Big Brother is Watching You",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
       "UsersEstimate": 9
     },
@@ -265,7 +270,7 @@
       "ID": "CustomerService",
       "SetID": "bl5ebnd",
       "Name": "Customer Service",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 80,
       "UsersEstimate": 13
     },
@@ -273,7 +278,7 @@
       "ID": "EnterMatrix",
       "SetID": "bl5ebnd",
       "Name": "Enter the Matrix",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 50,
       "UsersEstimate": 11
     },
@@ -289,7 +294,7 @@
       "ID": "Highway2Hell",
       "SetID": "bl5ebnd",
       "Name": "Highway to Hell",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 50,
       "UsersEstimate": 21
     },
@@ -297,7 +302,7 @@
       "ID": "LikeDislike",
       "SetID": "bl5ebnd",
       "Name": "To Like, Or Not To Like?",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 100,
       "UsersEstimate": 9
     },
@@ -305,7 +310,7 @@
       "ID": "MilitaryContract",
       "SetID": "bl5ebnd",
       "Name": "Military Contract",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 50,
       "UsersEstimate": 18
     },
@@ -315,7 +320,7 @@
       "Name": "New Life for a Blogger",
       "Percentage": 71,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "PersonalHell",
@@ -329,7 +334,7 @@
       "ID": "PetLover",
       "SetID": "bl5ebnd",
       "Name": "Pet Lover",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 50,
       "UsersEstimate": 17
     },
@@ -345,7 +350,7 @@
       "ID": "PrivateVisit",
       "SetID": "bl5ebnd",
       "Name": "Private Visit",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 70,
       "UsersEstimate": 13
     },
@@ -353,7 +358,7 @@
       "ID": "Reincarnation",
       "SetID": "bl5ebnd",
       "Name": "Reincarnation",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 50,
       "UsersEstimate": 11
     },
@@ -361,7 +366,7 @@
       "ID": "SelfieKing",
       "SetID": "bl5ebnd",
       "Name": "Selfie King",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 85,
       "UsersEstimate": 11
     },
@@ -377,7 +382,7 @@
       "ID": "WatchLearn",
       "SetID": "bl5ebnd",
       "Name": "Watch and Learn",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 50,
       "UsersEstimate": 25
     }
@@ -386,14 +391,14 @@
     {
       "ID": "bl5ebnd",
       "IsBase": true,
-      "Progressed": 41,
+      "Progressed": 42,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-08-17T18:58:24.9645981+00:00",
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:04:52.5542108+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:48:17.205301+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:54.7361932+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:58:23.4159563+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:04:52.5542228+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:41:59.628679+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:48:17.2053139+00:00"
 }

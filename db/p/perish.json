@@ -4,8 +4,8 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3872,
+  "EOS_Progressed": 3875,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4406,6 +4406,11 @@
       "Time": "2023-12-27T23:05:08.4221588+00:00",
       "NumProgressed": 3872,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T01:48:34.0464448+00:00",
+      "NumProgressed": 3875,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -4433,7 +4438,7 @@
       "Name": "Wayward Son of Hephaestus",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_B_K",
@@ -4473,7 +4478,7 @@
       "Name": "Forged in Fire",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_GE",
@@ -4521,7 +4526,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_M_AI",
@@ -4577,7 +4582,7 @@
       "Name": "The Midas Touch",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_M_D5",
@@ -4601,7 +4606,7 @@
       "Name": "Hipparchia\u0027s Labour",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_M_PW",
@@ -4649,7 +4654,7 @@
       "Name": "Hapax Legomenon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_OB_CC",
@@ -4697,7 +4702,7 @@
       "Name": "Veneration of Hephaestus",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_OB_FT",
@@ -4737,7 +4742,7 @@
       "Name": "Vandili",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_OB_RE",
@@ -4745,7 +4750,7 @@
       "Name": "No Scylla in Sight",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_OB_SC",
@@ -4761,7 +4766,7 @@
       "Name": "Cloaca Maxima",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_OB_TDS",
@@ -4809,7 +4814,7 @@
       "Name": "Debauchery",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_R_P",
@@ -4833,7 +4838,7 @@
       "Name": "Baby Crabs They Ain\u0027t",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_TOTN",
@@ -4857,7 +4862,7 @@
       "Name": "Mors Omnibus",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "KA2",
@@ -4873,7 +4878,7 @@
       "Name": "Interrupt the Interloper",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "KC",
@@ -4881,7 +4886,7 @@
       "Name": "Elephantine",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "KF",
@@ -4889,7 +4894,7 @@
       "Name": "Blot Out the Sky",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "KK",
@@ -4920,7 +4925,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3872,
+      "Progressed": 3875,
       "Completed": 0
     }
   ],
@@ -4928,8 +4933,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:05:12.7493791+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:48:34.0464445+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:17.7377939+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:59:54.5318847+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:05:12.749436+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:43:14.141942+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:48:34.0465239+00:00"
 }

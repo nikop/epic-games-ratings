@@ -12,11 +12,11 @@ Rating: 4.29 (Ranked 867)
 | Burn and Pillage | 7.00% | ~89 |
 | Hear me out | 7.00% | ~89 |
 | Listening to the crowd | 6.00% | ~76 |
-| The Penitent Ones | 5.00% | ~63 |
-| Greedy | 5.00% | ~63 |
-| Hidden Secrets | 5.00% | ~63 |
-| The Stranded King | 5.00% | ~63 |
-| Accepting the Prophecy | 5.00% | ~63 |
+| The Penitent Ones | 5.00% | ~64 |
+| Greedy | 5.00% | ~64 |
+| Hidden Secrets | 5.00% | ~64 |
+| The Stranded King | 5.00% | ~64 |
+| Accepting the Prophecy | 5.00% | ~64 |
 | Just Chilling | 4.00% | ~51 |
 | Ascended | 4.00% | ~51 |
 | Incredible Strength | 4.00% | ~51 |
@@ -51,7 +51,7 @@ Rating: 4.29 (Ranked 867)
 | Purist | 0.00% | ~0 |
 | King of the Dice | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,269 (Ranked 268)  
+Progressed: 1,270 (Ranked 268)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,6 +255,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 1,260 | 0 |
 | 2023-12-26 | 1,265 | 0 |
 | 2023-12-27 | 1,269 | 0 |
+| 2023-12-28 | 1,270 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

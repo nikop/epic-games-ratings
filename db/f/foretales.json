@@ -4,8 +4,8 @@
   "ProductSlug": "foretales-d6c5bd",
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 418,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
     "PcReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 288,
+  "EOS_Progressed": 289,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -230,6 +230,11 @@
       "Time": "2023-12-28T00:08:33.2040388+00:00",
       "NumProgressed": 288,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T01:52:33.7570061+00:00",
+      "NumProgressed": 289,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 41,
@@ -263,9 +268,9 @@
       "ID": "chapter1",
       "SetID": "5bkacmp",
       "Name": "Isenburg\u0027s fall",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 139
     },
     {
       "ID": "chapter2",
@@ -273,7 +278,7 @@
       "Name": "Aboard the Sea Bird",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "chapter3",
@@ -287,9 +292,9 @@
       "ID": "darkAndStinky",
       "SetID": "5bkacmp",
       "Name": "Dark and stinky",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 86
+      "UsersEstimate": 84
     },
     {
       "ID": "darkVolepain",
@@ -433,7 +438,7 @@
       "Name": "Say hello to my little friends",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "sneakInSneakOut",
@@ -457,7 +462,7 @@
       "Name": "Super Moth Boy",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "theBadPlace",
@@ -521,15 +526,15 @@
       "Name": "Elephant in the room",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "theRanger",
       "SetID": "5bkacmp",
       "Name": "Caged tiger",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 179
     },
     {
       "ID": "theUnionLeader",
@@ -537,7 +542,7 @@
       "Name": "Gorilla warfare",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "trialByCombat",
@@ -551,9 +556,9 @@
       "ID": "welcomeToForteAiles",
       "SetID": "5bkacmp",
       "Name": "Welcome to Forte Ailes",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     },
     {
       "ID": "youSssavedMe",
@@ -568,7 +573,7 @@
     {
       "ID": "5bkacmp",
       "IsBase": true,
-      "Progressed": 288,
+      "Progressed": 289,
       "Completed": 0
     }
   ],
@@ -576,8 +581,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:08:33.2040385+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:52:33.7570055+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:17.7200485+00:00",
-  "LastUpdate_Ratings": "2023-12-28T00:01:16.3641048+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:08:33.2040943+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:44:16.5470286+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:52:33.7570397+00:00"
 }

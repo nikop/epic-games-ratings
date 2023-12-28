@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Caged tiger | 63.00% | ~181 |
-| Gorilla warfare | 58.00% | ~167 |
-| Isenburg's fall | 49.00% | ~141 |
+| Caged tiger | 62.00% | ~179 |
+| Gorilla warfare | 58.00% | ~168 |
+| Isenburg's fall | 48.00% | ~139 |
 | Pieces of eight! | 42.00% | ~121 |
-| Aboard the Sea Bird | 31.00% | ~89 |
-| Elephant in the room | 31.00% | ~89 |
-| Dark and stinky | 30.00% | ~86 |
+| Aboard the Sea Bird | 31.00% | ~90 |
+| Elephant in the room | 31.00% | ~90 |
+| Dark and stinky | 29.00% | ~84 |
 | Is this the end? | 25.00% | ~72 |
 | Sneak in, sneak out | 25.00% | ~72 |
 | A gift horse | 25.00% | ~72 |
 | You sssaved me | 24.00% | ~69 |
-| Say hello to my little friends | 21.00% | ~60 |
+| Say hello to my little friends | 21.00% | ~61 |
 | Heal thyself | 20.00% | ~58 |
 | Gotcha | 19.00% | ~55 |
 | It's not cheating | 16.00% | ~46 |
 | Stronk | 16.00% | ~46 |
 | Double trouble | 15.00% | ~43 |
-| Welcome to Forte Ailes | 14.00% | ~40 |
-| Super Moth Boy | 13.00% | ~37 |
+| Super Moth Boy | 13.00% | ~38 |
+| Welcome to Forte Ailes | 13.00% | ~38 |
 | The Bad Place | 10.00% | ~29 |
 | Meet your maker | 9.00% | ~26 |
 | The pelican brief | 8.00% | ~23 |
@@ -46,7 +46,7 @@
 | Force of nature | 0.00% | ~0 |
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288 (Ranked 386)  
+Progressed: 289 (Ranked 386)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-21 | 281 | 0 |
 | 2023-12-22 | 283 | 0 |
 | 2023-12-23 | 287 | 0 |
-| 2023-12-28 | 288 | 0 |
+| 2023-12-28 | 289 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

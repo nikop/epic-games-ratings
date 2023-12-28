@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 296,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1269,
+  "EOS_Progressed": 1270,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2604,6 +2604,11 @@
       "Time": "2023-12-27T23:06:45.6782973+00:00",
       "NumProgressed": 1269,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T01:49:50.2632423+00:00",
+      "NumProgressed": 1270,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2783,7 +2788,7 @@
       "Name": "The Penitent Ones",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "EXILED_SOLDIER_FRIEND",
@@ -2807,7 +2812,7 @@
       "Name": "Greedy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "PREVENTRIOT",
@@ -2823,7 +2828,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "SUMMON_BOSS",
@@ -2903,7 +2908,7 @@
       "Name": "The Stranded King",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "WINMATCHWITH_MERCHANT",
@@ -2959,7 +2964,7 @@
       "Name": "Accepting the Prophecy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "WINMATCH_DIFF_STANDARD",
@@ -2974,7 +2979,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1269,
+      "Progressed": 1270,
       "Completed": 0
     }
   ],
@@ -2982,8 +2987,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-12-18T15:02:48.0768878+00:00",
-  "LastChanged_Achievements": "2023-12-28T00:06:48.5541734+00:00",
+  "LastChanged_Achievements": "2023-12-28T01:49:50.2632419+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:24.1709228+00:00",
-  "LastUpdate_Ratings": "2023-12-28T00:03:19.8355275+00:00",
-  "LastUpdate_Achievements": "2023-12-28T00:06:48.5542173+00:00"
+  "LastUpdate_Ratings": "2023-12-28T01:47:05.0884454+00:00",
+  "LastUpdate_Achievements": "2023-12-28T01:49:50.2632822+00:00"
 }

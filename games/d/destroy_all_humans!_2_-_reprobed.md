@@ -6,23 +6,23 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 78.00% | ~173 |
+| Rock of the Bay | 78.00% | ~174 |
 | Mash Machine | 71.00% | ~158 |
 | Ducks in a Row, Fish in a Barrel | 49.00% | ~109 |
-| Furon Fashion | 46.00% | ~102 |
-| Shop Til They Drop | 38.00% | ~84 |
-| Bodied Sattva | 34.00% | ~75 |
+| Furon Fashion | 46.00% | ~103 |
+| Shop Til They Drop | 38.00% | ~85 |
+| Bodied Sattva | 34.00% | ~76 |
 | Earthly Pleasures | 32.00% | ~71 |
-| Cult Following | 31.00% | ~69 |
-| Lie Back and Think of Albion | 24.00% | ~53 |
-| Upgreatest | 24.00% | ~53 |
+| Cult Following | 30.00% | ~67 |
+| Lie Back and Think of Albion | 25.00% | ~56 |
+| Upgreatest | 24.00% | ~54 |
 | Pimp My Raid | 23.00% | ~51 |
 | I Look Up As I Walk to Takoshima | 19.00% | ~42 |
 | Freshly Squeezed | 17.00% | ~38 |
 | Perfect Probulator | 16.00% | ~36 |
 | Die Nasty | 15.00% | ~33 |
 | Transmitting From Sol-3 | 14.00% | ~31 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 11.00% | ~24 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 11.00% | ~25 |
 | Kaijuiced | 9.00% | ~20 |
 | Dusted | 9.00% | ~20 |
 | Fly Me to the Moon Base | 8.00% | ~18 |
@@ -41,17 +41,17 @@ Number of Ratings: 90  (23.09.2022)
 | This Is Earth Radio | 0.90% | ~2 |
 | Forbidden Donut | 0.90% | ~2 |
 | Hidden Human Hive Harvest | 0.90% | ~2 |
-| Toilet Break | 0.50% | ~1 |
-| Albion Bridge Is for Falling Down | 0.50% | ~1 |
-| Ouch of Body Experience | 0.50% | ~1 |
-| Higher Than the Futen Zoku | 0.50% | ~1 |
-| To Russia With Love | 0.50% | ~1 |
-| If You Know What I Mean | 0.50% | ~1 |
-| Steezy Down the Spine | 0.50% | ~1 |
-| Path of the Furon | 0.50% | ~1 |
-| Trans-Siberian Express | 0.50% | ~1 |
+| Toilet Break | 0.40% | ~1 |
+| Albion Bridge Is for Falling Down | 0.40% | ~1 |
+| Ouch of Body Experience | 0.40% | ~1 |
+| Higher Than the Futen Zoku | 0.40% | ~1 |
+| To Russia With Love | 0.40% | ~1 |
+| If You Know What I Mean | 0.40% | ~1 |
+| Steezy Down the Spine | 0.40% | ~1 |
+| Path of the Furon | 0.40% | ~1 |
+| Trans-Siberian Express | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222 (Ranked 411)  
+Progressed: 223 (Ranked 410)  
 Completed: 1 (0.45%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,6 +83,7 @@ Completed: 1 (0.45%) (Ranked 224)
 | 2023-12-25 | 191 | 1 |
 | 2023-12-26 | 205 | 1 |
 | 2023-12-27 | 222 | 1 |
+| 2023-12-28 | 223 | 1 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 489)  
 Sum: 36 (Ranked 521)  
