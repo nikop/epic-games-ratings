@@ -203,9 +203,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 8369,
+  "EOS_Progressed": 8378,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2341,
+  "EOS_NewPlayers": 2324,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2758,6 +2758,11 @@
       "Time": "2023-12-28T20:10:09.0798139+00:00",
       "NumProgressed": 8369,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T21:11:13.2251394+00:00",
+      "NumProgressed": 8378,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -2768,17 +2773,17 @@
       "ID": "02_TheIntrigue",
       "SetID": "37a94m8",
       "Name": "Conspiracy",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 25
     },
     {
       "ID": "03_TheStolenStar",
       "SetID": "37a94m8",
       "Name": "Stolen Star",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -2880,9 +2885,9 @@
       "ID": "16_TheRise",
       "SetID": "37a94m8",
       "Name": "The Rise",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "17_TheExemplar",
@@ -2896,9 +2901,9 @@
       "ID": "18_TheRookieSkipper",
       "SetID": "37a94m8",
       "Name": "Rookie Skipper",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "19_TheVoidWolf",
@@ -2928,9 +2933,9 @@
       "ID": "22_PerfectTiming",
       "SetID": "37a94m8",
       "Name": "Perfect Timing",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "23_DynastyRestored",
@@ -3016,9 +3021,9 @@
       "ID": "33_TzeentchCleaning",
       "SetID": "37a94m8",
       "Name": "Cleening Out the Tzeentch",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -3048,9 +3053,9 @@
       "ID": "37_TheSirenicalDiplomat",
       "SetID": "37a94m8",
       "Name": "Silver-Tongued Diplomat",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "38_ThoseWhoAreAboutToDieSaluteYou",
@@ -3104,9 +3109,9 @@
       "ID": "44_OrdosHolyWork",
       "SetID": "37a94m8",
       "Name": "Work of the Holy Ordos",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "45_ThePolygloth",
@@ -3289,7 +3294,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8369,
+      "Progressed": 8378,
       "Completed": 0
     }
   ],
@@ -3297,8 +3302,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-28T13:57:33.384002+00:00",
-  "LastChanged_Achievements": "2023-12-28T20:10:09.0798131+00:00",
+  "LastChanged_Achievements": "2023-12-28T21:11:13.2251391+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:57:33.8267114+00:00",
-  "LastUpdate_Achievements": "2023-12-28T20:10:09.0798868+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:57:58.417978+00:00",
+  "LastUpdate_Achievements": "2023-12-28T21:11:13.2251965+00:00"
 }

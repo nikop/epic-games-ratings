@@ -4,7 +4,7 @@
   "ProductSlug": "paranormal-mission-ef50f9",
   "Ranking_EOS_Progress": 818,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 572,
+  "Ranking_EOS_NewPlayers": 571,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-14T22:03:09.0908095+00:00",
-  "LastChanged_Achievements": "2023-12-28T20:07:44.9923395+00:00",
+  "LastChanged_Achievements": "2023-12-28T21:08:44.8034669+00:00",
   "LastUpdate_AppInfo": "2023-12-22T05:56:59.7891108+00:00",
-  "LastUpdate_Ratings": "2023-12-28T20:01:45.6132796+00:00",
-  "LastUpdate_Achievements": "2023-12-28T20:07:44.9923412+00:00"
+  "LastUpdate_Ratings": "2023-12-28T21:02:55.0567324+00:00",
+  "LastUpdate_Achievements": "2023-12-28T21:08:44.80347+00:00"
 }

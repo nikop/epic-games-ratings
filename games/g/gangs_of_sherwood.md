@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 87.00% | ~90 |
-| Air Fighter | 75.00% | ~77 |
-| Oo-De-Lally | 70.00% | ~72 |
-| Treasure Hunter | 65.00% | ~67 |
-| The Altruist | 64.00% | ~66 |
+| Act of Kindness | 88.00% | ~92 |
+| Air Fighter | 75.00% | ~78 |
+| Oo-De-Lally | 70.00% | ~73 |
+| Treasure Hunter | 65.00% | ~68 |
+| The Altruist | 63.00% | ~66 |
 | Watch your Step! | 53.00% | ~55 |
 | Tap Dancing | 50.00% | ~52 |
-| MAX LEVEL | 50.00% | ~52 |
-| Right between the eyes | 41.00% | ~42 |
-| Starry Night | 39.00% | ~40 |
-| Spring Board | 39.00% | ~40 |
+| MAX LEVEL | 49.00% | ~51 |
+| Right between the eyes | 40.00% | ~42 |
+| Starry Night | 38.00% | ~40 |
+| Spring Board | 38.00% | ~40 |
 | Locksley's Tears | 37.00% | ~38 |
 | Rebel Unleashed | 35.00% | ~36 |
 | Merry Co-operation | 30.00% | ~31 |
@@ -23,11 +23,11 @@
 | Ultra Rebel Instinct | 22.00% | ~23 |
 | First Aid | 22.00% | ~23 |
 | Merry Go Round | 21.00% | ~22 |
-| Savior | 17.00% | ~18 |
-| Hidden Experiment | 17.00% | ~18 |
-| Take Action! | 16.00% | ~16 |
-| Ultra Combo | 15.00% | ~15 |
-| Ascending Will | 14.00% | ~14 |
+| Savior | 16.00% | ~17 |
+| Hidden Experiment | 16.00% | ~17 |
+| Take Action! | 15.00% | ~16 |
+| Ultra Combo | 14.00% | ~15 |
+| Ascending Will | 13.00% | ~14 |
 | Into the Lion's Den | 12.00% | ~12 |
 | Sky High Fighter | 11.00% | ~11 |
 | Haute Couture | 10.00% | ~10 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 103 (Ranked 482)  
+Progressed: 104 (Ranked 480)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,3 +93,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 97 | 0 |
 | 2023-12-25 | 99 | 0 |
 | 2023-12-26 | 103 | 0 |
+| 2023-12-28 | 104 | 0 |

@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 869,
+  "EOS_Progressed": 870,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.15,
   "EosHistory": [
@@ -2335,6 +2335,11 @@
       "Time": "2023-12-28T20:09:44.3006784+00:00",
       "NumProgressed": 869,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-28T21:10:47.003471+00:00",
+      "NumProgressed": 870,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 20,
@@ -2370,7 +2375,7 @@
       "Name": "The Lion\u0027s Den",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ENDING_3",
@@ -2394,7 +2399,7 @@
       "Name": "The Delivery",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "ENDING_6",
@@ -2418,7 +2423,7 @@
       "Name": "Even Tempered",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -2434,7 +2439,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "GOOD_KARMA",
@@ -2456,9 +2461,9 @@
       "ID": "OFFICE_CLERK",
       "SetID": "8eejhlh",
       "Name": "Office Clerk",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 226
+      "UsersEstimate": 235
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -2490,7 +2495,7 @@
       "Name": "Shill Bidder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -2505,7 +2510,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 869,
+      "Progressed": 870,
       "Completed": 10
     }
   ],
@@ -2513,8 +2518,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-28T20:09:44.3006776+00:00",
+  "LastChanged_Achievements": "2023-12-28T21:10:47.0034707+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:26.7088663+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:59:15.6530423+00:00",
-  "LastUpdate_Achievements": "2023-12-28T20:09:44.3007046+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:59:33.6990953+00:00",
+  "LastUpdate_Achievements": "2023-12-28T21:10:47.0034889+00:00"
 }

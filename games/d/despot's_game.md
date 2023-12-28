@@ -36,8 +36,8 @@ Rating: 4.50 (Ranked 608)
 | Android Power | 5.00% | ~24 |
 | Shopaholic | 3.00% | ~14 |
 | Zombie Lover | 3.00% | ~14 |
+| Munchkin | 2.00% | ~9 |
 | Full House | 1.00% | ~5 |
-| Munchkin | 1.00% | ~5 |
 | Vet | 0.80% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)

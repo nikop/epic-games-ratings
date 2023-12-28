@@ -605,9 +605,9 @@
       "ID": "CgkInO_K3eIdEAIQBw",
       "SetID": "6bj96in",
       "Name": "SCRIPTORIUM SNEAK",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "CgkInO_K3eIdEAIQCA",
@@ -693,9 +693,9 @@
       "ID": "CgkInO_K3eIdEAIQEg",
       "SetID": "6bj96in",
       "Name": "HOARDER",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "CgkInO_K3eIdEAIQEw",
@@ -749,9 +749,9 @@
       "ID": "CgkInO_K3eIdEAIQGQ",
       "SetID": "6bj96in",
       "Name": "BLINDED BY THE LIGHT",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "CgkInO_K3eIdEAIQGg",
@@ -772,8 +772,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-12-28T20:10:13.8603014+00:00",
+  "LastChanged_Achievements": "2023-12-28T21:11:17.9520638+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:14.0329257+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:57:58.055238+00:00",
-  "LastUpdate_Achievements": "2023-12-28T20:10:13.8603198+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:58:22.0501911+00:00",
+  "LastUpdate_Achievements": "2023-12-28T21:11:17.9520764+00:00"
 }

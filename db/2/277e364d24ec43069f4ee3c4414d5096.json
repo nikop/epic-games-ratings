@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 118228,
+  "EOS_Progressed": 118231,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 868,
+  "EOS_NewPlayers": 865,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -22925,6 +22925,11 @@
       "Time": "2023-12-28T20:10:24.6710733+00:00",
       "NumProgressed": 118228,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-28T21:11:28.9215655+00:00",
+      "NumProgressed": 118231,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 49,
@@ -22944,7 +22949,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 91036
+      "UsersEstimate": 91038
     },
     {
       "ID": "EAwards_10",
@@ -22952,7 +22957,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 14187
+      "UsersEstimate": 14188
     },
     {
       "ID": "EAwards_11",
@@ -22968,7 +22973,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17734
+      "UsersEstimate": 17735
     },
     {
       "ID": "EAwards_13",
@@ -23008,7 +23013,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 43744
+      "UsersEstimate": 43745
     },
     {
       "ID": "EAwards_18",
@@ -23032,7 +23037,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 57932
+      "UsersEstimate": 57933
     },
     {
       "ID": "EAwards_20",
@@ -23080,7 +23085,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 22463
+      "UsersEstimate": 22464
     },
     {
       "ID": "EAwards_26",
@@ -23304,7 +23309,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 14187
+      "UsersEstimate": 14188
     },
     {
       "ID": "EAwards_8",
@@ -23312,7 +23317,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 14187
+      "UsersEstimate": 14188
     },
     {
       "ID": "EAwards_9",
@@ -23327,7 +23332,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 118228,
+      "Progressed": 118231,
       "Completed": 53
     }
   ],
@@ -23335,8 +23340,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-12-21T05:59:27.8580735+00:00",
-  "LastChanged_Achievements": "2023-12-28T20:10:24.6710729+00:00",
+  "LastChanged_Achievements": "2023-12-28T21:11:28.9215651+00:00",
   "LastUpdate_AppInfo": "2023-12-22T08:57:08.9251827+00:00",
-  "LastUpdate_Ratings": "2023-12-28T20:00:39.879861+00:00",
-  "LastUpdate_Achievements": "2023-12-28T20:10:24.6711899+00:00"
+  "LastUpdate_Ratings": "2023-12-28T21:00:53.7655686+00:00",
+  "LastUpdate_Achievements": "2023-12-28T21:11:28.9217044+00:00"
 }

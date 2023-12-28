@@ -649,9 +649,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10916,
+  "EOS_Progressed": 10917,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 796,
+  "EOS_NewPlayers": 792,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -13904,6 +13904,11 @@
       "Time": "2023-12-28T20:04:12.6377714+00:00",
       "NumProgressed": 10916,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-28T21:04:48.8215112+00:00",
+      "NumProgressed": 10917,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 29,
@@ -13915,7 +13920,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 9060
+      "UsersEstimate": 9061
     },
     {
       "ID": "ACH02",
@@ -13923,7 +13928,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 3711
+      "UsersEstimate": 3712
     },
     {
       "ID": "ACH03",
@@ -13947,7 +13952,7 @@
       "Name": "Mob Boss",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "ACH06",
@@ -13987,7 +13992,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 3056
+      "UsersEstimate": 3057
     },
     {
       "ID": "ACH11",
@@ -14139,14 +14144,14 @@
       "Name": "King of Liberty City",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     }
   ],
   "AchievementSets": [
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 10916,
+      "Progressed": 10917,
       "Completed": 69
     }
   ],
@@ -14154,8 +14159,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-12-28T01:42:25.432123+00:00",
-  "LastChanged_Achievements": "2023-12-28T20:04:12.6377712+00:00",
+  "LastChanged_Achievements": "2023-12-28T21:04:48.821511+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:26.709752+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:59:15.8381716+00:00",
-  "LastUpdate_Achievements": "2023-12-28T20:04:12.6378439+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:59:33.8768915+00:00",
+  "LastUpdate_Achievements": "2023-12-28T21:04:48.8215885+00:00"
 }

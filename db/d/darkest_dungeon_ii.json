@@ -10260,9 +10260,9 @@
       "Count": 1064
     }
   ],
-  "EOS_Progressed": 130415,
+  "EOS_Progressed": 130422,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1465,
+  "EOS_NewPlayers": 1463,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37260,6 +37260,11 @@
       "Time": "2023-12-28T20:09:44.3946807+00:00",
       "NumProgressed": 130415,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T21:10:47.217404+00:00",
+      "NumProgressed": 130422,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37287,7 +37292,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3912
+      "UsersEstimate": 3913
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -37543,7 +37548,7 @@
       "Name": "It Happens",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3912
+      "UsersEstimate": 3913
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -37551,7 +37556,7 @@
       "Name": "Hat Trick",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "driving_biome_clear_cave",
@@ -37559,7 +37564,7 @@
       "Name": "Spelunker",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3912
+      "UsersEstimate": 3913
     },
     {
       "ID": "driving_biome_clear_city",
@@ -37575,7 +37580,7 @@
       "Name": "Merry Time",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3912
+      "UsersEstimate": 3913
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -37583,7 +37588,7 @@
       "Name": "Harvest Festival",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3912
+      "UsersEstimate": 3913
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -37599,7 +37604,7 @@
       "Name": "Ramble On",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3912
+      "UsersEstimate": 3913
     },
     {
       "ID": "driving_distance_hard",
@@ -37647,7 +37652,7 @@
       "Name": "Whale",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3912
+      "UsersEstimate": 3913
     },
     {
       "ID": "hospital_full_service",
@@ -37663,7 +37668,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3912
+      "UsersEstimate": 3913
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -37719,7 +37724,7 @@
       "Name": "Nope",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3912
+      "UsersEstimate": 3913
     },
     {
       "ID": "run_victory_act01",
@@ -37765,9 +37770,9 @@
       "ID": "run_victory_all_confessions_back_to_back",
       "SetID": "64l4lke",
       "Name": "Grand Slam",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 130
+      "UsersEstimate": 261
     },
     {
       "ID": "run_victory_final_boss_infernal_flame",
@@ -37807,7 +37812,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "combat_kill_collector",
@@ -37815,7 +37820,7 @@
       "Name": "This guy... again?",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -37855,7 +37860,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -37863,7 +37868,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "quest_complete_crusader",
@@ -37902,21 +37907,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130415,
+      "Progressed": 130422,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5284,
-      "Completed": 812
+      "Progressed": 5291,
+      "Completed": 813
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-28T14:01:05.7081436+00:00",
-  "LastChanged_Achievements": "2023-12-28T20:09:44.3946804+00:00",
+  "LastChanged_Achievements": "2023-12-28T21:10:47.2174038+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-28T20:00:53.552722+00:00",
-  "LastUpdate_Achievements": "2023-12-28T20:09:44.394871+00:00"
+  "LastUpdate_Ratings": "2023-12-28T21:01:06.3648653+00:00",
+  "LastUpdate_Achievements": "2023-12-28T21:10:47.217555+00:00"
 }

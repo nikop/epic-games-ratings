@@ -6,22 +6,22 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~730,520 |
-| The Blues | 85.00% | ~627,214 |
-| Fast | 66.00% | ~487,013 |
-| Healthbar | 55.00% | ~405,844 |
-| Force Cube | 53.00% | ~391,086 |
-| Double Jump | 48.00% | ~354,192 |
-| Regeneration | 47.00% | ~346,813 |
-| Triple Jump | 43.00% | ~317,297 |
-| Climb the hill | 42.00% | ~309,918 |
-| Through the fire pipe | 39.00% | ~287,781 |
-| MacGuffin | 38.00% | ~280,402 |
-| Just once | 37.00% | ~273,023 |
-| Armor | 30.00% | ~221,370 |
-| True holy spirit | 28.00% | ~206,612 |
-| That's how electronics work obviously | 27.00% | ~199,233 |
-| Force Cube Catapult | 25.00% | ~184,475 |
+| Out of bed | 99.00% | ~730,523 |
+| The Blues | 85.00% | ~627,217 |
+| Fast | 66.00% | ~487,015 |
+| Healthbar | 55.00% | ~405,846 |
+| Force Cube | 53.00% | ~391,088 |
+| Double Jump | 48.00% | ~354,193 |
+| Regeneration | 47.00% | ~346,814 |
+| Triple Jump | 43.00% | ~317,298 |
+| Climb the hill | 42.00% | ~309,919 |
+| Through the fire pipe | 39.00% | ~287,782 |
+| MacGuffin | 38.00% | ~280,403 |
+| Just once | 37.00% | ~273,024 |
+| Armor | 30.00% | ~221,371 |
+| True holy spirit | 28.00% | ~206,613 |
+| That's how electronics work obviously | 27.00% | ~199,234 |
+| Force Cube Catapult | 25.00% | ~184,476 |
 | Holy Sword | 23.00% | ~169,717 |
 | Telefrag | 23.00% | ~169,717 |
 | Freed from prison | 22.00% | ~162,338 |
@@ -69,23 +69,23 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: Crashed | 0.60% | ~4,427 |
 | DLC: Gotta Jump High | 0.60% | ~4,427 |
 | DLC: Gotta Run Fast | 0.60% | ~4,427 |
-| DLC: Green Bird | 0.50% | ~3,689 |
-| DLC: Basement Robbery | 0.50% | ~3,689 |
-| DLC: Rooftop Chase | 0.50% | ~3,689 |
-| DLC: Home Invasion | 0.50% | ~3,689 |
-| DLC: The palace job | 0.50% | ~3,689 |
-| DLC: Crashed again | 0.50% | ~3,689 |
-| DLC: Crashed again (again) | 0.50% | ~3,689 |
-| DLC: Crashed for the final time! | 0.50% | ~3,689 |
-| DLC: Discovering the Globe | 0.50% | ~3,689 |
-| DLC: Monster Maker | 0.50% | ~3,689 |
-| DLC: Obvious Area | 0.50% | ~3,689 |
-| DLC: Race the First | 0.50% | ~3,689 |
-| DLC: No-ball Winner | 0.50% | ~3,689 |
-| DLC: Race the Gauntlet | 0.50% | ~3,689 |
-| DLC: Finding Sideburg | 0.50% | ~3,689 |
-| DLC: Welcome to Orangeburg | 0.50% | ~3,689 |
-| DLC: A Wrinkle in Spacetime | 0.50% | ~3,689 |
+| DLC: Green Bird | 0.50% | ~3,690 |
+| DLC: Basement Robbery | 0.50% | ~3,690 |
+| DLC: Rooftop Chase | 0.50% | ~3,690 |
+| DLC: Home Invasion | 0.50% | ~3,690 |
+| DLC: The palace job | 0.50% | ~3,690 |
+| DLC: Crashed again | 0.50% | ~3,690 |
+| DLC: Crashed again (again) | 0.50% | ~3,690 |
+| DLC: Crashed for the final time! | 0.50% | ~3,690 |
+| DLC: Discovering the Globe | 0.50% | ~3,690 |
+| DLC: Monster Maker | 0.50% | ~3,690 |
+| DLC: Obvious Area | 0.50% | ~3,690 |
+| DLC: Race the First | 0.50% | ~3,690 |
+| DLC: No-ball Winner | 0.50% | ~3,690 |
+| DLC: Race the Gauntlet | 0.50% | ~3,690 |
+| DLC: Finding Sideburg | 0.50% | ~3,690 |
+| DLC: Welcome to Orangeburg | 0.50% | ~3,690 |
+| DLC: A Wrinkle in Spacetime | 0.50% | ~3,690 |
 | DLC: A Criminal Revealed | 0.40% | ~2,952 |
 | DLC: Crashed for the final time (again) | 0.40% | ~2,952 |
 | DLC: South of the wall | 0.40% | ~2,952 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~738 |
 | DLC: Top of the world | 0.10% | ~738 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 737,899 (Ranked 25)  
+Progressed: 737,902 (Ranked 25)  
 Completed: 774 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,7 +357,7 @@ Completed: 774 (0.10%) (Ranked 305)
 | 2023-12-25 | 737,460 | 772 |
 | 2023-12-26 | 737,636 | 772 |
 | 2023-12-27 | 737,766 | 773 |
-| 2023-12-28 | 737,899 | 774 |
+| 2023-12-28 | 737,902 | 774 |
 ## Awards
 Max (Challenging Puzzles): 7,756  (Ranked 52)  
 Sum: 10,119 (Ranked 92)  

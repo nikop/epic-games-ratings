@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1657,
+  "EOS_Progressed": 1658,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4173,6 +4173,11 @@
       "Time": "2023-12-28T09:11:26.9157353+00:00",
       "NumProgressed": 1657,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T21:11:36.4755219+00:00",
+      "NumProgressed": 1658,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -4200,7 +4205,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "ATTENBOROUGH",
@@ -4296,7 +4301,7 @@
       "Name": "Limp Richard",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -4344,7 +4349,7 @@
       "Name": "Exorcist",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "EXPERIENCED",
@@ -4368,7 +4373,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -4392,7 +4397,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "GIANT_KILLER",
@@ -4400,7 +4405,7 @@
       "Name": "Giant Killer",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "GOAL",
@@ -4416,7 +4421,7 @@
       "Name": "Gun for Hire",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -4424,7 +4429,7 @@
       "Name": "Hold The Line",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "IM_THE_LAW",
@@ -4432,7 +4437,7 @@
       "Name": "I am the law!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "INFILTRATOR",
@@ -4448,7 +4453,7 @@
       "Name": "Lumberjack",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -4488,7 +4493,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "RECYCLER",
@@ -4520,7 +4525,7 @@
       "Name": "Sensei",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "SHADOW_BOXING",
@@ -4544,7 +4549,7 @@
       "Name": "Silent but Violent",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "TECHNOPHOBE",
@@ -4552,7 +4557,7 @@
       "Name": "Technophobe",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -4591,7 +4596,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1657,
+      "Progressed": 1658,
       "Completed": 0
     }
   ],
@@ -4599,8 +4604,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-12-18T20:02:59.2153729+00:00",
-  "LastChanged_Achievements": "2023-12-28T20:10:32.552784+00:00",
+  "LastChanged_Achievements": "2023-12-28T21:11:36.4755218+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:51.9665809+00:00",
-  "LastUpdate_Ratings": "2023-12-28T20:03:11.6326393+00:00",
-  "LastUpdate_Achievements": "2023-12-28T20:10:32.5528388+00:00"
+  "LastUpdate_Ratings": "2023-12-28T21:03:47.5542528+00:00",
+  "LastUpdate_Achievements": "2023-12-28T21:11:36.4755663+00:00"
 }

@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 894,
+  "EOS_Progressed": 895,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3857,6 +3857,11 @@
       "Time": "2023-12-28T19:10:13.4369897+00:00",
       "NumProgressed": 894,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T21:10:53.6104665+00:00",
+      "NumProgressed": 895,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4044,7 +4049,7 @@
       "Name": "The Big Day",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "Packing20",
@@ -4124,7 +4129,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "TrattoriaSet",
@@ -4187,7 +4192,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 894,
+      "Progressed": 895,
       "Completed": 0
     }
   ],
@@ -4195,8 +4200,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-12-28T20:09:50.5954691+00:00",
+  "LastChanged_Achievements": "2023-12-28T21:10:53.610466+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:29.3889235+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:59:28.1569502+00:00",
-  "LastUpdate_Achievements": "2023-12-28T20:09:50.5955194+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:59:46.5316089+00:00",
+  "LastUpdate_Achievements": "2023-12-28T21:10:53.6105047+00:00"
 }

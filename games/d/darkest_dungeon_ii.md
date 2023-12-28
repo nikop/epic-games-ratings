@@ -6,14 +6,14 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~581 |
+| Malpractice Assurance | 11.00% | ~582 |
 | Lost and Found | 7.00% | ~370 |
 | Autodidact | 6.00% | ~7,825 |
 | This Belongs in a Museum | 5.00% | ~6,521 |
 | Overdue Notice | 5.00% | ~6,521 |
-| This guy... again? | 5.00% | ~264 |
-| Ploughshares to Swords | 5.00% | ~264 |
-| Bloody Graduation | 5.00% | ~264 |
+| This guy... again? | 5.00% | ~265 |
+| Ploughshares to Swords | 5.00% | ~265 |
+| Bloody Graduation | 5.00% | ~265 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,217 |
 | Serenity Now! | 4.00% | ~5,217 |
 | Not Today! | 4.00% | ~5,217 |
@@ -24,15 +24,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | Rush Hour | 4.00% | ~5,217 |
 | To Grandmother's House | 4.00% | ~5,217 |
 | FNG | 4.00% | ~5,217 |
-| It Rings a Bell | 3.00% | ~3,912 |
-| It Happens | 3.00% | ~3,912 |
-| Spelunker | 3.00% | ~3,912 |
-| Merry Time | 3.00% | ~3,912 |
-| Harvest Festival | 3.00% | ~3,912 |
-| Ramble On | 3.00% | ~3,912 |
-| Whale | 3.00% | ~3,912 |
-| A Place to Lay Your Head | 3.00% | ~3,912 |
-| Nope | 3.00% | ~3,912 |
+| It Rings a Bell | 3.00% | ~3,913 |
+| It Happens | 3.00% | ~3,913 |
+| Spelunker | 3.00% | ~3,913 |
+| Merry Time | 3.00% | ~3,913 |
+| Harvest Festival | 3.00% | ~3,913 |
+| Ramble On | 3.00% | ~3,913 |
+| Whale | 3.00% | ~3,913 |
+| A Place to Lay Your Head | 3.00% | ~3,913 |
+| Nope | 3.00% | ~3,913 |
 | Friends 'Til the End | 3.00% | ~159 |
 | Resurrection | 2.00% | ~2,608 |
 | Unleash Hell | 2.00% | ~2,608 |
@@ -68,7 +68,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Triage | 0.70% | ~913 |
 | No Mercy | 0.70% | ~37 |
 | Et Tu, Riposte? | 0.70% | ~37 |
-| Hat Trick | 0.60% | ~782 |
+| Hat Trick | 0.60% | ~783 |
 | The World As It Was | 0.50% | ~652 |
 | A Life Well Lived | 0.40% | ~522 |
 | Bacon Bits | 0.40% | ~522 |
@@ -77,16 +77,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | Tears in the Rain | 0.30% | ~391 |
 | Battle Hardened | 0.30% | ~16 |
 | Maître De La Lame | 0.30% | ~16 |
+| Grand Slam | 0.20% | ~261 |
 | Loop Year | 0.10% | ~130 |
 | Circle of Life | 0.10% | ~130 |
 | No Gravestone Left Unturned | 0.10% | ~130 |
 | 20,000 Leagues Above the Sea | 0.10% | ~130 |
 | The Clash | 0.10% | ~130 |
-| Grand Slam | 0.10% | ~130 |
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,415 (Ranked 87)  
+Progressed: 130,422 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-25 | 129,858 | 3 |
 | 2023-12-26 | 130,068 | 3 |
 | 2023-12-27 | 130,259 | 3 |
-| 2023-12-28 | 130,415 | 3 |
+| 2023-12-28 | 130,422 | 3 |
 ## Awards
 Max (Character Customization): 7,888  (Ranked 50)  
 Sum: 21,194 (Ranked 58)  

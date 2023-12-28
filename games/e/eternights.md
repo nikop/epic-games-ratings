@@ -6,9 +6,9 @@ Rating: 4.75 (Ranked 149)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | New arm | 77.00% | ~519 |
-| Shelter Escape | 75.00% | ~506 |
+| Shelter Escape | 76.00% | ~512 |
 | The First Bond | 65.00% | ~438 |
-| Novice Scavenger | 58.00% | ~391 |
+| Novice Scavenger | 59.00% | ~398 |
 | Master Craftsman | 47.00% | ~317 |
 | First wall | 46.00% | ~310 |
 | Piggyback Expert | 44.00% | ~297 |

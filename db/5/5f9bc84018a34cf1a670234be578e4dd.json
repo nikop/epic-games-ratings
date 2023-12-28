@@ -4,7 +4,7 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -2020,9 +2020,9 @@
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 176
+      "UsersEstimate": 180
     },
     {
       "ID": "FallDeath",
@@ -2076,9 +2076,9 @@
       "ID": "GasFound",
       "SetID": "7jbi7el",
       "Name": "Something is wrong here",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 180
+      "UsersEstimate": 184
     },
     {
       "ID": "Hologram",
@@ -2100,9 +2100,9 @@
       "ID": "SecretRoom",
       "SetID": "7jbi7el",
       "Name": "Researcher",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 80,
-      "UsersEstimate": 172
+      "UsersEstimate": 176
     },
     {
       "ID": "Synthesis",
@@ -2123,8 +2123,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-12-28T20:04:20.7189881+00:00",
+  "LastChanged_Achievements": "2023-12-28T21:04:56.7359981+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:21.0304+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:58:40.5067672+00:00",
-  "LastUpdate_Achievements": "2023-12-28T20:04:20.7190071+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:59:00.4230463+00:00",
+  "LastUpdate_Achievements": "2023-12-28T21:04:56.7360171+00:00"
 }

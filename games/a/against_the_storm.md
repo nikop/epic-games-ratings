@@ -6,14 +6,14 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 7.00% | ~1,367 |
-| Overgrown Library | 7.00% | ~1,367 |
+| Abandoned Settlement | 7.00% | ~1,368 |
+| Overgrown Library | 7.00% | ~1,368 |
 | Taking Action | 6.00% | ~1,172 |
 | No Deaths | 6.00% | ~1,172 |
 | Petrified Necropolis | 6.00% | ~1,172 |
-| First Real Expedition | 5.00% | ~976 |
-| The Marshlands | 5.00% | ~976 |
-| Gathering Storm | 5.00% | ~976 |
+| First Real Expedition | 5.00% | ~977 |
+| The Marshlands | 5.00% | ~977 |
+| Gathering Storm | 5.00% | ~977 |
 | Overcoming Difficulty | 4.00% | ~781 |
 | Coral Forest | 4.00% | ~781 |
 | The Scarlet Orchard | 4.00% | ~781 |
@@ -43,9 +43,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fishmen Ritual Site | 1.00% | ~195 |
 | Haunted Forest | 1.00% | ~195 |
 | Flooded Mines | 1.00% | ~195 |
+| Victory Through Prosperity | 1.00% | ~195 |
 | Defying the Crown | 1.00% | ~195 |
 | Into the Forest | 1.00% | ~195 |
-| Victory Through Prosperity | 0.90% | ~176 |
 | Efficient Explorer | 0.80% | ~156 |
 | Refinery | 0.80% | ~156 |
 | Forsaken Gods Temple | 0.80% | ~156 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,530 (Ranked 151)  
+Progressed: 19,536 (Ranked 151)  
 Completed: 36 (0.18%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 36 (0.18%) (Ranked 279)
 | 2023-12-25 | 19,247 | 38 |
 | 2023-12-26 | 19,350 | 38 |
 | 2023-12-27 | 19,458 | 38 |
-| 2023-12-28 | 19,530 | 36 |
+| 2023-12-28 | 19,536 | 36 |
 ## Awards
 Max (Quickly Understood Controls): 446  (Ranked 228)  
 Sum: 3,301 (Ranked 176)  

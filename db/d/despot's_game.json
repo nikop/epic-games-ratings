@@ -847,9 +847,9 @@
       "ID": "unlock-mutations",
       "SetID": "799afm0",
       "Name": "Munchkin",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 9
     },
     {
       "ID": "win-campaign",
@@ -936,8 +936,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-12-28T20:06:46.4843229+00:00",
+  "LastChanged_Achievements": "2023-12-28T21:07:26.3504061+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:08.4827025+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:58:44.5655477+00:00",
-  "LastUpdate_Achievements": "2023-12-28T20:06:46.484344+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:59:04.369771+00:00",
+  "LastUpdate_Achievements": "2023-12-28T21:07:26.3504249+00:00"
 }

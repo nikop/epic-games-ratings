@@ -6,20 +6,20 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~25,678 |
-| Exploitative | 4.00% | ~20,543 |
-| Point Shooting | 4.00% | ~20,543 |
-| Wet Feet | 4.00% | ~20,543 |
-| High Speed Low Drag | 3.00% | ~15,407 |
-| Lucky | 3.00% | ~15,407 |
-| Stylin' | 3.00% | ~15,407 |
-| Turf War | 3.00% | ~15,407 |
-| Banged | 2.00% | ~10,271 |
-| Checkpoint Victory | 2.00% | ~10,271 |
-| First Blood | 2.00% | ~10,271 |
-| Flaccid Paralysis | 2.00% | ~10,271 |
-| Push Victory | 2.00% | ~10,271 |
-| Self-destructive | 2.00% | ~10,271 |
+| Wallbanger | 5.00% | ~25,680 |
+| Exploitative | 4.00% | ~20,544 |
+| Point Shooting | 4.00% | ~20,544 |
+| Wet Feet | 4.00% | ~20,544 |
+| High Speed Low Drag | 3.00% | ~15,408 |
+| Lucky | 3.00% | ~15,408 |
+| Stylin' | 3.00% | ~15,408 |
+| Turf War | 3.00% | ~15,408 |
+| Banged | 2.00% | ~10,272 |
+| Checkpoint Victory | 2.00% | ~10,272 |
+| First Blood | 2.00% | ~10,272 |
+| Flaccid Paralysis | 2.00% | ~10,272 |
+| Push Victory | 2.00% | ~10,272 |
+| Self-destructive | 2.00% | ~10,272 |
 | Blindfire | 1.00% | ~5,136 |
 | Ruthless | 1.00% | ~5,136 |
 | Semper Paratus | 1.00% | ~5,136 |
@@ -30,8 +30,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | Grounded | 0.80% | ~4,109 |
 | Play to Win | 0.80% | ~4,109 |
 | Special Delivery | 0.70% | ~3,595 |
-| Firefight Victory | 0.60% | ~3,081 |
-| #1 | 0.60% | ~3,081 |
+| Firefight Victory | 0.60% | ~3,082 |
+| #1 | 0.60% | ~3,082 |
 | Cinematic | 0.50% | ~2,568 |
 | Thanks Station! | 0.40% | ~2,054 |
 | Knock Knock | 0.30% | ~1,541 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~514 |
 | Road Hazard | 0.10% | ~514 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 513,563 (Ranked 37)  
+Progressed: 513,596 (Ranked 37)  
 Completed: 2 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 2 (0.00%) (Ranked 389)
 | 2023-12-25 | 510,899 | 2 |
 | 2023-12-26 | 511,880 | 2 |
 | 2023-12-27 | 512,843 | 2 |
-| 2023-12-28 | 513,563 | 2 |
+| 2023-12-28 | 513,596 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 413  (Ranked 235)  
 Sum: 3,294 (Ranked 178)  

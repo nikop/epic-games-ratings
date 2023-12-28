@@ -48,12 +48,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legendary Cities | 0.30% | ~48 |
 | Able Difficulty | 0.30% | ~48 |
 | Furious Family | 0.30% | ~48 |
+| Acropolis | 0.30% | ~48 |
 | Apadana | 0.30% | ~48 |
 | Great Ziggurat | 0.30% | ~48 |
 | Lighthouse | 0.30% | ~48 |
 | Mausoleum | 0.30% | ~48 |
 | Musaeum | 0.30% | ~48 |
 | Necropolis | 0.30% | ~48 |
+| Learn to Play 2 | 0.30% | ~48 |
 | Christianity | 0.30% | ~48 |
 | Manichaeism | 0.30% | ~48 |
 | Babylonian Paganism | 0.30% | ~48 |
@@ -75,10 +77,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Sages | 0.20% | ~32 |
 | Traders | 0.20% | ~32 |
 | Hittite Iron | 0.20% | ~32 |
-| Acropolis | 0.20% | ~32 |
 | Colossus | 0.20% | ~32 |
 | Pantheon | 0.20% | ~32 |
-| Learn to Play 2 | 0.20% | ~32 |
 | Learn to Play 3 | 0.20% | ~32 |
 | Greece | 0.20% | ~32 |
 | Power to the People | 0.20% | ~32 |

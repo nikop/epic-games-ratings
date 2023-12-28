@@ -19,7 +19,7 @@ Rating: 4.52 (Ranked 567)
 | Iceborn | 55.00% | ~753 |
 | Boom Things | 53.00% | ~726 |
 | Tear of Freedom | 52.00% | ~712 |
-| My Darkest Day | 48.00% | ~657 |
+| My Darkest Day | 49.00% | ~671 |
 | Rhythm Of Willump | 46.00% | ~630 |
 | The Relentless Storm | 46.00% | ~630 |
 | A Tragic Reminder | 44.00% | ~602 |

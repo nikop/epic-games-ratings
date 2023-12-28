@@ -5,29 +5,29 @@ Rating: 4.22 (Ranked 930)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,855 |
-| Battlefields Have Memories | 79.00% | ~1,684 |
-| Enlisted | 73.00% | ~1,556 |
-| Maybe Engage a Little | 67.00% | ~1,428 |
-| No More Names | 49.00% | ~1,045 |
-| Initiate | 35.00% | ~746 |
-| Thrada-Kul | 31.00% | ~661 |
-| Gravity-Challenged Rocks | 25.00% | ~533 |
-| Socialite | 23.00% | ~490 |
-| Soldier | 21.00% | ~448 |
-| All the Major Food Groups | 21.00% | ~448 |
-| Beggars Would Ride | 19.00% | ~405 |
-| Control is an Illusion | 17.00% | ~362 |
+| Unforeseen | 87.00% | ~1,858 |
+| Battlefields Have Memories | 80.00% | ~1,709 |
+| Enlisted | 73.00% | ~1,559 |
+| Maybe Engage a Little | 67.00% | ~1,431 |
+| No More Names | 49.00% | ~1,047 |
+| Initiate | 35.00% | ~748 |
+| Thrada-Kul | 31.00% | ~662 |
+| Gravity-Challenged Rocks | 25.00% | ~534 |
+| Socialite | 23.00% | ~491 |
+| Soldier | 21.00% | ~449 |
+| All the Major Food Groups | 21.00% | ~449 |
+| Beggars Would Ride | 19.00% | ~406 |
+| Control is an Illusion | 17.00% | ~363 |
 | The Means to Save It | 15.00% | ~320 |
-| Resilience to Sin | 13.00% | ~277 |
-| A Familiar Nest | 13.00% | ~277 |
+| Resilience to Sin | 13.00% | ~278 |
+| A Familiar Nest | 13.00% | ~278 |
 | Geas Aristeya | 12.00% | ~256 |
 | Periapt Alizarin | 12.00% | ~256 |
 | A Perfect Cycle | 11.00% | ~235 |
-| Recruit | 10.00% | ~213 |
-| Armsman | 10.00% | ~213 |
-| Lights Army | 7.00% | ~149 |
-| Periapt Cerulean | 7.00% | ~149 |
+| Recruit | 10.00% | ~214 |
+| Armsman | 10.00% | ~214 |
+| Lights Army | 7.00% | ~150 |
+| Periapt Cerulean | 7.00% | ~150 |
 | Good Boy | 6.00% | ~128 |
 | Best Dressed | 5.00% | ~107 |
 | Periapt Viridian | 5.00% | ~107 |
@@ -41,8 +41,8 @@ Rating: 4.22 (Ranked 930)
 | Grand Magnus | 1.00% | ~21 |
 | Master of Carmine | 1.00% | ~21 |
 | Tip of the Spear | 0.90% | ~19 |
-| Master of Ultramarine | 0.80% | ~17 |
 | Shroudfane Surveyor | 0.80% | ~17 |
+| Master of Ultramarine | 0.70% | ~15 |
 | Master of Malachite | 0.60% | ~13 |
 | Backtracker | 0.50% | ~11 |
 | Diplomat | 0.30% | ~6 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 930)
 | Out of Time | 0.20% | ~4 |
 | Fowl Play | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,132 (Ranked 237)  
+Progressed: 2,136 (Ranked 236)  
 Completed: 2 (0.09%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 2 (0.09%) (Ranked 313)
 | 2023-12-25 | 1,876 | 2 |
 | 2023-12-26 | 1,969 | 2 |
 | 2023-12-27 | 2,049 | 2 |
-| 2023-12-28 | 2,132 | 2 |
+| 2023-12-28 | 2,136 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

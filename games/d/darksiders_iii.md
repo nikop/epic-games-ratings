@@ -32,11 +32,11 @@ Number of Ratings: 116  (23.09.2022)
 | Eat Your Heart Out | 28.00% | ~74 |
 | For Whom the Bell Tolls | 28.00% | ~74 |
 | Unyielding Strength | 25.00% | ~66 |
-| Big Spender | 24.00% | ~64 |
+| Big Spender | 25.00% | ~66 |
 | Can you restore the Balance? | 23.00% | ~61 |
 | Cleanup Crew | 22.00% | ~58 |
 | Crowd Source | 22.00% | ~58 |
-| Maximum Capacity | 20.00% | ~53 |
+| Maximum Capacity | 21.00% | ~56 |
 | Demon Meddler | 20.00% | ~53 |
 | Seeing Red | 19.00% | ~50 |
 | Egomaniac | 18.00% | ~48 |

@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 52.00% | ~130 |
-| The 4 Pillars | 49.00% | ~122 |
+| First Step | 52.00% | ~131 |
+| The 4 Pillars | 49.00% | ~123 |
 | Capitalism | 20.00% | ~50 |
 | Green Energy | 11.00% | ~28 |
 | There's something in those trees | 10.00% | ~25 |
 | Indebted | 10.00% | ~25 |
 | Great Producer | 10.00% | ~25 |
-| Desert Power | 9.00% | ~22 |
+| Desert Power | 9.00% | ~23 |
 | Health Care | 8.00% | ~20 |
 | Desert Rat | 8.00% | ~20 |
 | Perfect Soldier | 7.00% | ~18 |
@@ -21,9 +21,9 @@
 | Food Tycoon | 6.00% | ~15 |
 | Fuel Tycoon | 6.00% | ~15 |
 | Ammo Tycoon | 6.00% | ~15 |
-| Jantine: the Misfortunes of Evil | 5.00% | ~12 |
-| Property Bro | 5.00% | ~12 |
-| Self-sufficient | 5.00% | ~12 |
+| Jantine: the Misfortunes of Evil | 5.00% | ~13 |
+| Property Bro | 5.00% | ~13 |
+| Self-sufficient | 5.00% | ~13 |
 | Outdoor Decorator | 4.00% | ~10 |
 | Overpopulation | 4.00% | ~10 |
 | Medicine Tycoon | 4.00% | ~10 |
@@ -37,8 +37,8 @@
 | Reconquest | 2.00% | ~5 |
 | Winter Soldier | 2.00% | ~5 |
 | Researcher | 2.00% | ~5 |
-| Economist | 1.00% | ~2 |
-| Crisis Committee | 1.00% | ~2 |
+| Economist | 1.00% | ~3 |
+| Crisis Committee | 1.00% | ~3 |
 | Counter-espionage | 0.80% | ~2 |
 | Against Adversity | 0.80% | ~2 |
 | Conveyor Belt Madness | 0.40% | ~1 |
@@ -49,7 +49,7 @@
 | First Victory | 0.00% | ~0 |
 | Sandbox Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250 (Ranked 403)  
+Progressed: 251 (Ranked 404)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,4 +136,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 240 | 0 |
 | 2023-12-26 | 243 | 0 |
 | 2023-12-27 | 247 | 0 |
-| 2023-12-28 | 250 | 0 |
+| 2023-12-28 | 251 | 0 |

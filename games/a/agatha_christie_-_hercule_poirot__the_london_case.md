@@ -10,9 +10,9 @@
 | Seeking the truth | 56.00% | ~42 |
 | An old friend | 53.00% | ~40 |
 | The Gala | 52.00% | ~39 |
-| A curious gathering | 48.00% | ~36 |
-| Little grey cells | 45.00% | ~34 |
-| Impossible is possible | 45.00% | ~34 |
+| A curious gathering | 49.00% | ~37 |
+| Little grey cells | 47.00% | ~35 |
+| Impossible is possible | 47.00% | ~35 |
 | The Missing Magdalene | 45.00% | ~34 |
 | Arthur Hastings | 45.00% | ~34 |
 | Everything matters | 43.00% | ~32 |

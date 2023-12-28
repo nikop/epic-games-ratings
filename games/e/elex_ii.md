@@ -30,6 +30,7 @@ Number of Ratings: 124  (23.09.2022)
 | Unbreakable | 4.00% | ~5 |
 | Alchemist | 3.00% | ~4 |
 | Idealist | 3.00% | ~4 |
+| Detective | 3.00% | ~4 |
 | Lover | 3.00% | ~4 |
 | Banker | 2.00% | ~2 |
 | Treasure Hunter | 2.00% | ~2 |
@@ -37,7 +38,6 @@ Number of Ratings: 124  (23.09.2022)
 | Cleric | 2.00% | ~2 |
 | Morkon | 2.00% | ~2 |
 | Perfectionist | 2.00% | ~2 |
-| Detective | 2.00% | ~2 |
 | Hunter | 2.00% | ~2 |
 | Defector | 0.80% | ~1 |
 | Outlaw | 0.80% | ~1 |

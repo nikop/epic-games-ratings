@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4316,
+  "EOS_Progressed": 4317,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -7206,6 +7206,11 @@
       "Time": "2023-12-28T20:04:27.4406806+00:00",
       "NumProgressed": 4316,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-28T21:05:03.3899251+00:00",
+      "NumProgressed": 4317,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7217,7 +7222,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "AceDetective_9",
@@ -7241,7 +7246,7 @@
       "Name": "Apex Predator",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "BloodAndJustice_50",
@@ -7289,7 +7294,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "ForAllAurai_8",
@@ -7321,7 +7326,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "HouseofCards_19",
@@ -7353,7 +7358,7 @@
       "Name": "Light of Levant",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "MagicIsaScience_58",
@@ -7409,7 +7414,7 @@
       "Name": "Ready for Winter",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2676
+      "UsersEstimate": 2677
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -7489,7 +7494,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "TheStuffOfLegends",
@@ -7513,7 +7518,7 @@
       "Name": "This was a mistake...",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ThroughFireAndFlame",
@@ -7552,15 +7557,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4316,
+      "Progressed": 4317,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-28T20:04:27.4406798+00:00",
+  "LastChanged_Achievements": "2023-12-28T21:05:03.3899249+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.9488093+00:00",
-  "LastUpdate_Ratings": "2023-12-28T20:02:59.5578592+00:00",
-  "LastUpdate_Achievements": "2023-12-28T20:04:27.440753+00:00"
+  "LastUpdate_Ratings": "2023-12-28T21:03:35.620195+00:00",
+  "LastUpdate_Achievements": "2023-12-28T21:05:03.3899734+00:00"
 }

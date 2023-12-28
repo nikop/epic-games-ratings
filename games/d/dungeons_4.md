@@ -62,8 +62,8 @@ Rating: 4.65 (Ranked 323)
 | Mirror, Mirror | 15.00% | ~98 |
 | Untouchable | 15.00% | ~98 |
 | Laser Eyes Are So Useless | 13.00% | ~85 |
+| Gorgu is in the Best of Health | 12.00% | ~78 |
 | Hands Off My Stones | 12.00% | ~78 |
-| Gorgu is in the Best of Health | 11.00% | ~72 |
 | No Mana, No Cry | 10.00% | ~65 |
 | I Don't Need Any Help | 9.00% | ~59 |
 ## Popularity (Based on EOS Achievements)

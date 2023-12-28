@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -301,7 +301,7 @@
   ],
   "EOS_Progressed": 204,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -1050,9 +1050,9 @@
       "ID": "ACH_ABILITY_PKTHROWANDCATCHHUMAN",
       "SetID": "cefn62b",
       "Name": "Forbidden Donut",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
@@ -1322,8 +1322,8 @@
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2023-12-28T20:06:03.0507943+00:00",
+  "LastChanged_Achievements": "2023-12-28T21:06:43.0516286+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:18.8290018+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:59:17.4360139+00:00",
-  "LastUpdate_Achievements": "2023-12-28T20:06:03.0508216+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:59:35.3228403+00:00",
+  "LastUpdate_Achievements": "2023-12-28T21:06:43.0516561+00:00"
 }

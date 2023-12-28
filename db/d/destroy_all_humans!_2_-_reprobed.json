@@ -5,7 +5,7 @@
   "Ranking_Rating": 540,
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 521,
-  "Ranking_EOS_Progress": 410,
+  "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 108,
@@ -282,11 +282,11 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 228,
+  "EOS_Progressed": 230,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.44,
+  "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
     {
       "Time": "2023-12-01T10:05:16.7894965+00:00",
@@ -1162,6 +1162,11 @@
       "Time": "2023-12-28T18:08:51.8970303+00:00",
       "NumProgressed": 228,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T21:10:11.3915793+00:00",
+      "NumProgressed": 230,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1174,7 +1179,7 @@
       "Name": "Mash Machine",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 166
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1190,7 +1195,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -1206,7 +1211,7 @@
       "Name": "Furon Fashion",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1244,9 +1249,9 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1286,7 +1291,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1302,7 +1307,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -1310,7 +1315,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 180
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1326,7 +1331,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -1340,9 +1345,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1364,9 +1369,9 @@
       "ID": "ACH_KILL_ORANCHOV",
       "SetID": "4n84pon",
       "Name": "Freshly Squeezed",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -1374,7 +1379,7 @@
       "Name": "Die Nasty",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -1422,7 +1427,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -1430,7 +1435,7 @@
       "Name": "Upgreatest",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -1516,16 +1521,16 @@
       "ID": "ACH_UPGRADE_SAUCER",
       "SetID": "4n84pon",
       "Name": "Pimp My Raid",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 228,
+      "Progressed": 230,
       "Completed": 1
     }
   ],
@@ -1533,8 +1538,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-28T10:58:39.1665152+00:00",
-  "LastChanged_Achievements": "2023-12-28T20:09:09.630895+00:00",
+  "LastChanged_Achievements": "2023-12-28T21:10:11.3915789+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:59:29.8582281+00:00",
-  "LastUpdate_Achievements": "2023-12-28T20:09:09.63093+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:59:48.1724555+00:00",
+  "LastUpdate_Achievements": "2023-12-28T21:10:11.3916072+00:00"
 }

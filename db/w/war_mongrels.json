@@ -2821,9 +2821,9 @@
       "ID": "ACH_FIN_CH02",
       "SetID": "1j25agn",
       "Name": "The Breaking Point",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 321
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -3069,8 +3069,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2023-12-28T20:10:33.558715+00:00",
+  "LastChanged_Achievements": "2023-12-28T21:11:37.494203+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:19.2652244+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:57:47.3146428+00:00",
-  "LastUpdate_Achievements": "2023-12-28T20:10:33.5587667+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:58:11.5579363+00:00",
+  "LastUpdate_Achievements": "2023-12-28T21:11:37.4942471+00:00"
 }

@@ -6,16 +6,16 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 69.00% | ~53,993 |
-| INFUSED WITH LIGHT | 53.00% | ~41,473 |
+| A GUARDIAN FORGOTTEN | 69.00% | ~53,995 |
+| INFUSED WITH LIGHT | 53.00% | ~41,474 |
 | FOXIN' AROUND | 29.00% | ~22,693 |
-| FETCH | 28.00% | ~21,910 |
-| BLOOMS OF LIGHT | 26.00% | ~20,345 |
-| AWAKEN | 22.00% | ~17,215 |
-| BEST FRIENDS | 22.00% | ~17,215 |
+| FETCH | 28.00% | ~21,911 |
+| BLOOMS OF LIGHT | 26.00% | ~20,346 |
+| AWAKEN | 22.00% | ~17,216 |
+| BEST FRIENDS | 22.00% | ~17,216 |
 | ERADICATE | 21.00% | ~16,433 |
 | SPIRIT BARK | 21.00% | ~16,433 |
-| GARDEN OF LIGHT | 18.00% | ~14,085 |
+| GARDEN OF LIGHT | 18.00% | ~14,086 |
 | SPIRIT FORM | 17.00% | ~13,303 |
 | UPROOTING DARKNESS | 16.00% | ~12,520 |
 | WRITTEN IN STONE | 16.00% | ~12,520 |
@@ -31,8 +31,8 @@ Number of Ratings: 1,175  (23.09.2022)
 | NONE FORGOTTEN | 2.00% | ~1,565 |
 | KINDRED SPIRITS | 0.60% | ~470 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,251 (Ranked 106)  
-Completed: 418 (0.53%) (Ranked 212)  
+Progressed: 78,253 (Ranked 107)  
+Completed: 419 (0.54%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -283,7 +283,7 @@ Completed: 418 (0.53%) (Ranked 212)
 | 2023-12-25 | 77,912 | 418 |
 | 2023-12-26 | 78,045 | 418 |
 | 2023-12-27 | 78,164 | 418 |
-| 2023-12-28 | 78,251 | 418 |
+| 2023-12-28 | 78,253 | 419 |
 ## Awards
 Max (Extremely Fun): 27  (Ranked 532)  
 Sum: 116 (Ranked 453)  

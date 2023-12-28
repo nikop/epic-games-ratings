@@ -43,9 +43,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1409,
+  "EOS_Progressed": 1412,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 422,
+  "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -2773,6 +2773,11 @@
       "Time": "2023-12-28T20:10:28.8005871+00:00",
       "NumProgressed": 1409,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T21:11:32.7806788+00:00",
+      "NumProgressed": 1412,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2784,15 +2789,15 @@
       "Name": "Break Out",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 803
+      "UsersEstimate": 805
     },
     {
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 297
     },
     {
       "ID": "ACH_03",
@@ -2800,7 +2805,7 @@
       "Name": "Powerful Allies",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH_04",
@@ -2840,7 +2845,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACH_09",
@@ -2856,7 +2861,7 @@
       "Name": "Trinity",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "ACH_11",
@@ -2878,9 +2883,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 254
+      "UsersEstimate": 268
     },
     {
       "ID": "ACH_14",
@@ -3040,7 +3045,7 @@
       "Name": "The Collector",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACH_35",
@@ -3062,16 +3067,16 @@
       "ID": "ACH_38",
       "SetID": "efe2lj",
       "Name": "Summiter",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1409,
+      "Progressed": 1412,
       "Completed": 3
     }
   ],
@@ -3079,8 +3084,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2023-12-27T23:57:06.3972881+00:00",
-  "LastChanged_Achievements": "2023-12-28T20:10:28.8005866+00:00",
+  "LastChanged_Achievements": "2023-12-28T21:11:32.7806786+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:57:30.197128+00:00",
-  "LastUpdate_Achievements": "2023-12-28T20:10:28.8006257+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:57:54.9336064+00:00",
+  "LastUpdate_Achievements": "2023-12-28T21:11:32.7807136+00:00"
 }

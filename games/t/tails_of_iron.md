@@ -14,11 +14,11 @@ Rating: 4.56 (Ranked 498)
 | Defeat 25 Grubs | 0.90% | ~21 |
 | Defeat 25 Frogs | 0.90% | ~21 |
 | Shield Maiden Yellow Tongue | 0.90% | ~8 |
+| Collect Iron Ore | 0.80% | ~18 |
 | Rescue Redgi's Brothers | 0.80% | ~18 |
 | Defeat Croakhis Khan | 0.80% | ~7 |
 | I Remember My First Beer | 0.80% | ~7 |
 | Collect Gold | 0.70% | ~16 |
-| Collect Iron Ore | 0.70% | ~16 |
 | End of the Mozis | 0.70% | ~16 |
 | Defeat 25 Mozis | 0.70% | ~16 |
 | Meet the Creatures from the Deep | 0.70% | ~16 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 498)
 | King of Kings | 0.30% | ~7 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,289 (Ranked 234)  
+Progressed: 2,291 (Ranked 234)  
 Completed: 12 (0.52%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 12 (0.52%) (Ranked 214)
 | 2023-12-25 | 2,281 | 12 |
 | 2023-12-26 | 2,284 | 12 |
 | 2023-12-27 | 2,287 | 12 |
-| 2023-12-28 | 2,289 | 12 |
+| 2023-12-28 | 2,291 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

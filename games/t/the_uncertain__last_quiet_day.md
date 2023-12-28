@@ -5,17 +5,17 @@ Rating: 3.75 (Ranked 1,071)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I can do a thing or two | 60.00% | ~369 |
+| I can do a thing or two | 60.00% | ~370 |
 | Buckle up | 59.00% | ~363 |
 | Quick charge | 59.00% | ~363 |
 | Hands up! | 53.00% | ~326 |
 | Now you know | 53.00% | ~326 |
 | Short circuit | 53.00% | ~326 |
-| Curious | 43.00% | ~264 |
-| Everybody lies | 36.00% | ~221 |
-| Trick or Treat? | 23.00% | ~141 |
-| Sysadmin | 22.00% | ~135 |
-| There is another way | 22.00% | ~135 |
+| Curious | 43.00% | ~265 |
+| Everybody lies | 36.00% | ~222 |
+| Trick or Treat? | 23.00% | ~142 |
+| Sysadmin | 22.00% | ~136 |
+| There is another way | 22.00% | ~136 |
 | Every little helps | 20.00% | ~123 |
 | Annoying | 19.00% | ~117 |
 | Hacker | 19.00% | ~117 |
@@ -24,11 +24,11 @@ Rating: 3.75 (Ranked 1,071)
 | Uncertain | 18.00% | ~111 |
 | Goody | 17.00% | ~105 |
 | Please oh pleeease! | 17.00% | ~105 |
-| Ace | 16.00% | ~98 |
-| Concrete painting | 16.00% | ~98 |
-| Found it! | 16.00% | ~98 |
-| Hipster | 16.00% | ~98 |
-| Not what it seems | 16.00% | ~98 |
+| Ace | 16.00% | ~99 |
+| Concrete painting | 16.00% | ~99 |
+| Found it! | 16.00% | ~99 |
+| Hipster | 16.00% | ~99 |
+| Not what it seems | 16.00% | ~99 |
 | That's much better! | 15.00% | ~92 |
 | Not as clumsy or random | 13.00% | ~80 |
 | Blade Runner | 10.00% | ~62 |
@@ -38,8 +38,8 @@ Rating: 3.75 (Ranked 1,071)
 | Accurate | 5.00% | ~31 |
 | Silent | 4.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 615 (Ranked 325)  
-Completed: 19 (3.09%) (Ranked 107)  
+Progressed: 616 (Ranked 325)  
+Completed: 19 (3.08%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -176,7 +176,7 @@ Completed: 19 (3.09%) (Ranked 107)
 | 2023-12-25 | 609 | 19 |
 | 2023-12-26 | 612 | 19 |
 | 2023-12-27 | 613 | 19 |
-| 2023-12-28 | 615 | 19 |
+| 2023-12-28 | 616 | 19 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

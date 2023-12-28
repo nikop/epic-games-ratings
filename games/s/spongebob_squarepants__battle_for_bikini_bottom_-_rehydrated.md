@@ -6,10 +6,10 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 15.00% | ~70 |
+| Spatula Seeker | 16.00% | ~75 |
 | Sponge Smasher | 15.00% | ~70 |
 | Jellyfish Jam | 14.00% | ~65 |
-| Jellyfishing | 9.00% | ~42 |
+| Jellyfishing | 10.00% | ~47 |
 | Sweet Victory | 9.00% | ~42 |
 | Sock Getter | 9.00% | ~42 |
 | Time For Tutorial | 9.00% | ~42 |

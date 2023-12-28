@@ -5,19 +5,19 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | My Papyrus! | 75.00% | ~80 |
-| A Loyal Friend | 39.00% | ~41 |
+| A Loyal Friend | 38.00% | ~41 |
 | Abandon Ship! | 27.00% | ~29 |
 | The Tomb of Kih-Oskh | 21.00% | ~22 |
 | The Weighing of the Soul | 19.00% | ~20 |
 | The Curse of Kih-Oskh | 16.00% | ~17 |
 | It's a Deal! | 11.00% | ~12 |
 | Cat Lover | 10.00% | ~11 |
-| In the Name of the Law | 8.00% | ~8 |
-| Au Revoir, Abudin | 8.00% | ~8 |
-| Mysterious Bungalow | 8.00% | ~8 |
-| Mummy Nightmare | 8.00% | ~8 |
-| Dynamite, Treason and Coconuts | 8.00% | ~8 |
-| Save a Friend | 8.00% | ~8 |
+| In the Name of the Law | 8.00% | ~9 |
+| Au Revoir, Abudin | 8.00% | ~9 |
+| Mummy Nightmare | 8.00% | ~9 |
+| Dynamite, Treason and Coconuts | 8.00% | ~9 |
+| Save a Friend | 8.00% | ~9 |
+| Mysterious Bungalow | 7.00% | ~7 |
 | The Eyes! | 7.00% | ~7 |
 | Keep the Doctor Away | 7.00% | ~7 |
 | Just a Palm Tree | 7.00% | ~7 |
@@ -42,7 +42,7 @@
 | Trials of Kih-Oskh | 0.00% | ~0 |
 | Escaping War | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 106 (Ranked 477)  
+Progressed: 107 (Ranked 476)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,4 +82,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 102 | 0 |
 | 2023-12-26 | 104 | 0 |
 | 2023-12-27 | 105 | 0 |
-| 2023-12-28 | 106 | 0 |
+| 2023-12-28 | 107 | 0 |

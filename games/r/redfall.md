@@ -6,7 +6,7 @@ Rating: 3.61 (Ranked 1,075)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 16.00% | ~341 |
-| Catch and Release | 11.00% | ~235 |
+| Catch and Release | 12.00% | ~256 |
 | Home Is Where the Heart Is | 10.00% | ~213 |
 | ICU | 10.00% | ~213 |
 | Wounded Whispers | 10.00% | ~213 |
@@ -40,7 +40,7 @@ Rating: 3.61 (Ranked 1,075)
 | Check, Please! | 1.00% | ~21 |
 | Nice Try | 1.00% | ~21 |
 | Blacklight Down | 1.00% | ~21 |
-| Curious Finch | 0.90% | ~19 |
+| Curious Finch | 1.00% | ~21 |
 | Bloody Initiate | 0.70% | ~15 |
 | Right This Way | 0.70% | ~15 |
 | Empty Nest Syndrome | 0.60% | ~13 |
@@ -48,9 +48,9 @@ Rating: 3.61 (Ranked 1,075)
 | Neighborhood Watch | 0.50% | ~11 |
 | Blood Brother | 0.50% | ~11 |
 | What Lies Below | 0.50% | ~11 |
+| Good Samaritan | 0.50% | ~11 |
 | Friendgineering | 0.40% | ~9 |
 | Sisterhood | 0.40% | ~9 |
-| Good Samaritan | 0.40% | ~9 |
 | So Anyway I Started Blasting | 0.30% | ~6 |
 | Under a Bushel | 0.30% | ~6 |
 | Scream Team | 0.20% | ~4 |
@@ -72,7 +72,7 @@ Rating: 3.61 (Ranked 1,075)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,134 (Ranked 236)  
+Progressed: 2,134 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |

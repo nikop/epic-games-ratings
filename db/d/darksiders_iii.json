@@ -452,7 +452,7 @@
   ],
   "EOS_Progressed": 265,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1169,9 +1169,9 @@
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
       "SetID": "7a5k76n",
       "Name": "Maximum Capacity",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_1",
@@ -1577,9 +1577,9 @@
       "ID": "Spend_AttributePoint_50",
       "SetID": "7a5k76n",
       "Name": "Big Spender",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "Unlocked_49_Achievements",
@@ -1625,8 +1625,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-27T15:59:03.0058269+00:00",
-  "LastChanged_Achievements": "2023-12-28T20:03:50.6171662+00:00",
+  "LastChanged_Achievements": "2023-12-28T21:04:26.8226584+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:27.1633457+00:00",
-  "LastUpdate_Ratings": "2023-12-28T19:59:26.5226107+00:00",
-  "LastUpdate_Achievements": "2023-12-28T20:03:50.6172162+00:00"
+  "LastUpdate_Ratings": "2023-12-28T20:59:44.5915118+00:00",
+  "LastUpdate_Achievements": "2023-12-28T21:04:26.8227029+00:00"
 }

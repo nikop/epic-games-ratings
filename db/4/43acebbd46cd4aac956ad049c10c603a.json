@@ -253,7 +253,7 @@
       "Count": 87
     }
   ],
-  "EOS_Progressed": 1170,
+  "EOS_Progressed": 1171,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 1,
@@ -3188,6 +3188,11 @@
       "Time": "2023-12-28T19:06:00.3412323+00:00",
       "NumProgressed": 1170,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-28T21:06:18.5546836+00:00",
+      "NumProgressed": 1171,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3200,7 +3205,7 @@
       "Name": "Ab Aeterno",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "AbInitio",
@@ -3256,7 +3261,7 @@
       "Name": "Bridge Builder",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ChasingTheLight",
@@ -3304,7 +3309,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "EcstaticTruth",
@@ -3398,9 +3403,9 @@
       "ID": "MistressOfRiddles",
       "SetID": "1n308hc",
       "Name": "Mistress of Riddles",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 211
     },
     {
       "ID": "Mnemosyne",
@@ -3424,7 +3429,7 @@
       "Name": "Museum Visitor",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "NewBeginning",
@@ -3608,7 +3613,7 @@
       "Name": "The Word Endures",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "TouchGrass",
@@ -3664,14 +3669,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1170,
+      "Progressed": 1171,
       "Completed": 2
     }
   ],
@@ -3679,8 +3684,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-28T02:59:27.0743673+00:00",
-  "LastChanged_Achievements": "2023-12-28T20:05:38.5943571+00:00",
+  "LastChanged_Achievements": "2023-12-28T21:06:18.5546831+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2023-12-28T20:01:02.7752749+00:00",
-  "LastUpdate_Achievements": "2023-12-28T20:05:38.5944125+00:00"
+  "LastUpdate_Ratings": "2023-12-28T21:01:15.6794501+00:00",
+  "LastUpdate_Achievements": "2023-12-28T21:06:18.5547307+00:00"
 }

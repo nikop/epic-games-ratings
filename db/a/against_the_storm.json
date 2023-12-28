@@ -3653,9 +3653,9 @@
       "Count": 336
     }
   ],
-  "EOS_Progressed": 19530,
+  "EOS_Progressed": 19536,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 678,
+  "EOS_NewPlayers": 679,
   "EOS_NewCompleters": -3,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -17513,6 +17513,11 @@
       "Time": "2023-12-28T20:06:35.9583316+00:00",
       "NumProgressed": 19530,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-12-28T21:07:16.2458777+00:00",
+      "NumProgressed": 19536,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17613,7 +17618,7 @@
       "Name": "First Real Expedition",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "WinHard",
@@ -17805,7 +17810,7 @@
       "Name": "The Marshlands",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "WinOnMoorlands",
@@ -17867,9 +17872,9 @@
       "ID": "WinWithResolve",
       "SetID": "cfbk359",
       "Name": "Victory Through Prosperity",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 176
+      "UsersEstimate": 195
     },
     {
       "ID": "WinWithRuins",
@@ -17925,7 +17930,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1367
+      "UsersEstimate": 1368
     },
     {
       "ID": "WinNearFrosts",
@@ -17949,7 +17954,7 @@
       "Name": "Overgrown Library",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1367
+      "UsersEstimate": 1368
     },
     {
       "ID": "WinNearPetrified",
@@ -17973,7 +17978,7 @@
       "Name": "Gathering Storm",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -17996,15 +18001,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19530,
+      "Progressed": 19536,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-28T19:01:03.5007466+00:00",
-  "LastChanged_Achievements": "2023-12-28T20:06:35.9583311+00:00",
+  "LastChanged_Achievements": "2023-12-28T21:07:16.2458773+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-28T20:00:44.3698303+00:00",
-  "LastUpdate_Achievements": "2023-12-28T20:06:35.9584392+00:00"
+  "LastUpdate_Ratings": "2023-12-28T21:00:58.2987858+00:00",
+  "LastUpdate_Achievements": "2023-12-28T21:07:16.2459829+00:00"
 }
