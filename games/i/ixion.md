@@ -23,8 +23,8 @@ Rating: 4.58 (Ranked 460)
 | Breaking Protocol | 12.00% | ~454 |
 | Man's Best Friend | 9.00% | ~340 |
 | Power Outage | 9.00% | ~340 |
-| Convenient Transport | 8.00% | ~302 |
-| Please Make it Stop! | 8.00% | ~302 |
+| Convenient Transport | 8.00% | ~303 |
+| Please Make it Stop! | 8.00% | ~303 |
 | Sightseeing | 7.00% | ~265 |
 | Necessary Enhancement | 7.00% | ~265 |
 | From the Past | 7.00% | ~265 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 460)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,781 (Ranked 212)  
+Progressed: 3,782 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 3,722 | 0 |
 | 2023-12-26 | 3,743 | 0 |
 | 2023-12-27 | 3,765 | 0 |
-| 2023-12-28 | 3,781 | 0 |
+| 2023-12-28 | 3,782 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

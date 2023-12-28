@@ -2,9 +2,9 @@
   "ID": "7dee3ddeac7d427eb35def472be64d9c",
   "Name": "DEATHLOOP",
   "ProductSlug": "deathloop",
-  "Ranking_Rating": 644,
+  "Ranking_Rating": 627,
   "Ranking_Popularity": 452,
-  "Ranking_PopularitySum": 392,
+  "Ranking_PopularitySum": 391,
   "Ranking_EOS_Progress": 818,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 571,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.48,
+  "Rating": 4.49,
   "NumberOfRatings": 874,
   "RatingHistory": [
     {
@@ -1135,10 +1135,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 264,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2023-12-28T18:59:36.3305541+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 266,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 264,
+  "NumberOfAwards": 266,
   "NumberOfAwardsMax": 49,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -1146,7 +1152,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 36
+      "Count": 38
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1208,8 +1214,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:46.7837121+00:00",
-  "LastChanged": "2023-12-28T02:58:15.0715349+00:00",
+  "LastChanged": "2023-12-28T18:59:36.3305539+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:57.3195393+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:58:36.0878947+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:08:57.1275553+00:00"
+  "LastUpdate_Ratings": "2023-12-28T18:59:36.3305544+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:09:39.1316383+00:00"
 }

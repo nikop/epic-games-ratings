@@ -2,13 +2,13 @@
   "ID": "1e1d639f7fa045f08a1378885ec7080c",
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
-  "Ranking_Rating": 87,
+  "Ranking_Rating": 88,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -163,9 +163,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3121,
+  "EOS_Progressed": 3122,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -5403,6 +5403,11 @@
       "Time": "2023-12-28T18:07:58.9070095+00:00",
       "NumProgressed": 3121,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-12-28T19:08:19.3236998+00:00",
+      "NumProgressed": 3122,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 53,
@@ -5454,7 +5459,7 @@
       "Name": "Hijack",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -5478,7 +5483,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2965
+      "UsersEstimate": 2966
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -5486,7 +5491,7 @@
       "Name": "My heart and sword always for Demacia",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
@@ -5494,7 +5499,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2403
+      "UsersEstimate": 2404
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -5518,7 +5523,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -5558,7 +5563,7 @@
       "Name": "True power",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_III",
@@ -5590,7 +5595,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2372
+      "UsersEstimate": 2373
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -5598,7 +5603,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 2809
+      "UsersEstimate": 2810
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -5606,7 +5611,7 @@
       "Name": "Meltridge",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "STB_MISSION11_COMPLETED",
@@ -5630,7 +5635,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2372
+      "UsersEstimate": 2373
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -5646,7 +5651,7 @@
       "Name": "Clarion Cove",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -5782,7 +5787,7 @@
       "Name": "Cloven Dell Headquarters",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -5790,7 +5795,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2278
+      "UsersEstimate": 2279
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -5837,7 +5842,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3121,
+      "Progressed": 3122,
       "Completed": 17
     }
   ],
@@ -5845,8 +5850,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-26T20:58:40.3345897+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:07:58.9070092+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:08:19.3236993+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:06.9793878+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:59:23.6099643+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:07:58.9070789+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:00:42.484495+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:08:19.323779+00:00"
 }

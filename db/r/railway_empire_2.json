@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2557,
+  "EOS_Progressed": 2558,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7341,6 +7341,11 @@
       "Time": "2023-12-28T17:04:21.6358767+00:00",
       "NumProgressed": 2557,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T19:04:28.72325+00:00",
+      "NumProgressed": 2558,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -7360,7 +7365,7 @@
       "Name": "Stoker",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "A02",
@@ -7432,7 +7437,7 @@
       "Name": "From X to Y",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1892
+      "UsersEstimate": 1893
     },
     {
       "ID": "A11",
@@ -7448,7 +7453,7 @@
       "Name": "Departure",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1892
+      "UsersEstimate": 1893
     },
     {
       "ID": "A13",
@@ -7480,7 +7485,7 @@
       "Name": "Traffic Jam",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "A17",
@@ -7512,7 +7517,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 1943
+      "UsersEstimate": 1944
     },
     {
       "ID": "A21",
@@ -7600,7 +7605,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "A32",
@@ -7624,7 +7629,7 @@
       "Name": "Producer",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "A35",
@@ -7640,7 +7645,7 @@
       "Name": "Way of Iron",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1815
+      "UsersEstimate": 1816
     },
     {
       "ID": "A37",
@@ -7648,7 +7653,7 @@
       "Name": "All around the World",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 1611
+      "UsersEstimate": 1612
     },
     {
       "ID": "A38",
@@ -7720,7 +7725,7 @@
       "Name": "Mystery Tour",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1790
+      "UsersEstimate": 1791
     },
     {
       "ID": "A47",
@@ -7791,7 +7796,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2557,
+      "Progressed": 2558,
       "Completed": 0
     }
   ],
@@ -7799,8 +7804,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-27T17:00:03.776976+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:03:49.4007287+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:04:28.7232496+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:12.6153541+00:00",
-  "LastUpdate_Ratings": "2023-12-28T18:00:04.1453167+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:03:49.4008066+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:01:40.8825588+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:04:28.7233098+00:00"
 }

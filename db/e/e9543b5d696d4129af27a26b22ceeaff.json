@@ -2,7 +2,7 @@
   "ID": "e9543b5d696d4129af27a26b22ceeaff",
   "Name": "International Basketball Manager 23",
   "ProductSlug": "international-basketball-manager-23-561576",
-  "Ranking_EOS_Progress": 549,
+  "Ranking_EOS_Progress": 550,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 416,
   "Ranking_EOS_NewCompleters": 151,
@@ -291,9 +291,9 @@
       "ID": "ACH_AMERICAN_CAREER",
       "SetID": "1lnhagg",
       "Name": "To the States!",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_ASSISTS_DELIVERY",
@@ -522,8 +522,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:08:03.2749835+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:08:25.0824291+00:00",
   "LastUpdate_AppInfo": "2023-12-22T02:57:08.6689285+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:58:04.4596037+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:08:03.2750112+00:00"
+  "LastUpdate_Ratings": "2023-12-28T18:58:50.0480536+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:08:25.0824658+00:00"
 }

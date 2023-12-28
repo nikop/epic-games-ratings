@@ -7,8 +7,8 @@ Number of Ratings: 90  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rock of the Bay | 79.00% | ~180 |
-| Mash Machine | 71.00% | ~162 |
-| Ducks in a Row, Fish in a Barrel | 49.00% | ~112 |
+| Mash Machine | 72.00% | ~164 |
+| Ducks in a Row, Fish in a Barrel | 50.00% | ~114 |
 | Furon Fashion | 47.00% | ~107 |
 | Shop Til They Drop | 38.00% | ~87 |
 | Bodied Sattva | 34.00% | ~78 |
@@ -16,9 +16,9 @@ Number of Ratings: 90  (23.09.2022)
 | Cult Following | 31.00% | ~71 |
 | Lie Back and Think of Albion | 25.00% | ~57 |
 | Upgreatest | 25.00% | ~57 |
-| Pimp My Raid | 23.00% | ~52 |
+| Pimp My Raid | 24.00% | ~55 |
 | I Look Up As I Walk to Takoshima | 19.00% | ~43 |
-| Freshly Squeezed | 17.00% | ~39 |
+| Freshly Squeezed | 18.00% | ~41 |
 | Perfect Probulator | 16.00% | ~36 |
 | Die Nasty | 15.00% | ~34 |
 | Transmitting From Sol-3 | 14.00% | ~32 |

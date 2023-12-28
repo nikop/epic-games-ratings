@@ -870,9 +870,9 @@
       "ID": "CLG_LEVEL_BALLISTASHOT",
       "SetID": "89cjc9l",
       "Name": "Right in the kisser!",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 119
     },
     {
       "ID": "CLG_LEVEL_BULLSEYE",
@@ -1070,9 +1070,9 @@
       "ID": "PRG_BOSS_MAGICIAN",
       "SetID": "89cjc9l",
       "Name": "The Magician",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     },
     {
       "ID": "PRG_BOSS_NINJA",
@@ -1447,8 +1447,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-12-07T15:59:55.7707113+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:04:35.6375656+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:05:31.9467083+00:00",
   "LastUpdate_AppInfo": "2023-12-23T16:57:13.6590268+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:59:58.5742282+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:04:35.637673+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:01:32.6907023+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:05:31.9467836+00:00"
 }

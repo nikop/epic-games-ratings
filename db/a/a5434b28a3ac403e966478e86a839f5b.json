@@ -4,8 +4,8 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -2764,9 +2764,9 @@
       "ID": "ACH_eou3",
       "SetID": "51of0eo",
       "Name": "Destroy Security Grid",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 183
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_eou4",
@@ -2851,8 +2851,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:08:34.6388162+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:09:08.459144+00:00",
   "LastUpdate_AppInfo": "2023-12-22T05:56:59.907635+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:01:56.5162363+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:08:34.638846+00:00"
+  "LastUpdate_Ratings": "2023-12-28T18:57:11.5197637+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:09:08.4591684+00:00"
 }

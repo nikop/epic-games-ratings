@@ -1,20 +1,20 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.80 (Ranked 87)  
+Rating: 4.80 (Ranked 88)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,965 |
-| No more cages! | 90.00% | ~2,809 |
-| Everfrost | 77.00% | ~2,403 |
-| Pentakill | 76.00% | ~2,372 |
-| Dark Forest | 76.00% | ~2,372 |
-| The use of petricite | 73.00% | ~2,278 |
+| For Demacia | 95.00% | ~2,966 |
+| No more cages! | 90.00% | ~2,810 |
+| Everfrost | 77.00% | ~2,404 |
+| Pentakill | 76.00% | ~2,373 |
+| Dark Forest | 76.00% | ~2,373 |
+| The use of petricite | 73.00% | ~2,279 |
 | You can pet the dog | 60.00% | ~1,873 |
 | Thornbarrow | 42.00% | ~1,311 |
-| Big Helmet Bro | 40.00% | ~1,248 |
-| Clarion Cove | 40.00% | ~1,248 |
+| Big Helmet Bro | 40.00% | ~1,249 |
+| Clarion Cove | 40.00% | ~1,249 |
 | Ternmoat Headquarters | 38.00% | ~1,186 |
 | Past trauma | 37.00% | ~1,155 |
 | Elemental master | 36.00% | ~1,124 |
@@ -22,7 +22,7 @@ Rating: 4.80 (Ranked 87)
 | Petricite Burst | 33.00% | ~1,030 |
 | Old friend | 32.00% | ~999 |
 | Devineur | 31.00% | ~968 |
-| Hijack | 30.00% | ~936 |
+| Hijack | 30.00% | ~937 |
 | Whispers in the Woods I | 27.00% | ~843 |
 | I chose my shackles | 27.00% | ~843 |
 | Ancient power | 27.00% | ~843 |
@@ -39,10 +39,10 @@ Rating: 4.80 (Ranked 87)
 | Whispers in the Woods III | 17.00% | ~531 |
 | Friendly fire | 17.00% | ~531 |
 | The Central Headquarters | 17.00% | ~531 |
-| My heart and sword always for Demacia | 16.00% | ~499 |
-| True power | 16.00% | ~499 |
-| Meltridge | 16.00% | ~499 |
-| Cloven Dell Headquarters | 16.00% | ~499 |
+| My heart and sword always for Demacia | 16.00% | ~500 |
+| True power | 16.00% | ~500 |
+| Meltridge | 16.00% | ~500 |
+| Cloven Dell Headquarters | 16.00% | ~500 |
 | I smell fear | 14.00% | ~437 |
 | Embrace the darkness | 13.00% | ~406 |
 | Whispers in the Woods IV | 13.00% | ~406 |
@@ -59,7 +59,7 @@ Rating: 4.80 (Ranked 87)
 | Silverwing nest | 2.00% | ~62 |
 | The Unshackled | 1.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,121 (Ranked 221)  
+Progressed: 3,122 (Ranked 221)  
 Completed: 17 (0.54%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 17 (0.54%) (Ranked 211)
 | 2023-12-25 | 3,050 | 17 |
 | 2023-12-26 | 3,075 | 17 |
 | 2023-12-27 | 3,100 | 17 |
-| 2023-12-28 | 3,121 | 17 |
+| 2023-12-28 | 3,122 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

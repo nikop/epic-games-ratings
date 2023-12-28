@@ -9,13 +9,13 @@ Rating: 4.29 (Ranked 867)
 | Bullseye! | 84.00% | ~176 |
 | Graduation! | 80.00% | ~167 |
 | Villfir Forest | 72.00% | ~150 |
-| Right in the kisser! | 56.00% | ~117 |
+| Right in the kisser! | 57.00% | ~119 |
 | The Thrower | 45.00% | ~94 |
 | Duscot Steamcity | 45.00% | ~94 |
 | The Shaman | 44.00% | ~92 |
 | The Penguin | 43.00% | ~90 |
+| The Magician | 39.00% | ~82 |
 | The Tunneler | 39.00% | ~82 |
-| The Magician | 38.00% | ~79 |
 | Level Up!! | 35.00% | ~73 |
 | The Shield | 35.00% | ~73 |
 | Kill-streak | 29.00% | ~61 |

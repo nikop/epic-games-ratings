@@ -2,7 +2,7 @@
   "ID": "a64d4c5460384218b17de5bd785085f8",
   "Name": "Train Sim World\u00AE 3: Standard Edition",
   "ProductSlug": "train-sim-world-3",
-  "Ranking_Rating": 517,
+  "Ranking_Rating": 518,
   "Ranking_Popularity": 238,
   "Ranking_PopularitySum": 195,
   "Ranking_EOS_Progress": 818,
@@ -3316,18 +3316,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 2639,
       "NumberOfAwardsMax": 383
+    },
+    {
+      "Time": "2023-12-28T19:03:50.4795965+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 2644,
+      "NumberOfAwardsMax": 385
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2639,
-  "NumberOfAwardsMax": 383,
+  "NumberOfAwards": 2644,
+  "NumberOfAwardsMax": 385,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 383
+      "Count": 385
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -3351,7 +3357,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 241
+      "Count": 242
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3363,7 +3369,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 282
+      "Count": 284
     },
     {
       "Text": "This game has a Kind Community",
@@ -3408,8 +3414,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-06T15:30:57.6812817+00:00",
   "FirstSeenRating": "2022-09-07T06:00:21.7269742+00:00",
-  "LastChanged": "2023-12-26T19:04:03.9821375+00:00",
+  "LastChanged": "2023-12-28T19:03:50.4795963+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:22:00.1863032+00:00",
-  "LastUpdate_Ratings": "2023-12-28T18:03:23.6499193+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:03:44.1968257+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:03:50.4795968+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:04:21.5001902+00:00"
 }

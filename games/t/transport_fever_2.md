@@ -1,53 +1,53 @@
 # Transport Fever 2
 [Store](https://store.epicgames.com/en-US/p/transport-fever-2)  
 [View Rawdata](../../db/t/transport_fever_2.json)  
-Rating: 4.68 (Ranked 259)  
+Rating: 4.68 (Ranked 260)  
 Number of Ratings: 180  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 74.00% | ~1,632 |
-| First cargo item on board | 68.00% | ~1,499 |
-| First cargo item waiting | 68.00% | ~1,499 |
-| First bus stop | 67.00% | ~1,477 |
-| First passenger on board | 64.00% | ~1,411 |
-| First passenger waiting | 64.00% | ~1,411 |
-| First bus arrived | 63.00% | ~1,389 |
-| First train station | 61.00% | ~1,345 |
-| First steam train arrived | 57.00% | ~1,257 |
-| Cadet | 53.00% | ~1,169 |
-| First industry upgraded | 53.00% | ~1,169 |
-| Transport millionaire | 52.00% | ~1,147 |
-| Transport master | 49.00% | ~1,080 |
-| Cargo hub | 49.00% | ~1,080 |
-| Sculpturer | 47.00% | ~1,036 |
-| Settled down | 46.00% | ~1,014 |
-| Now what? | 44.00% | ~970 |
-| First electric train arrived | 43.00% | ~948 |
-| First ship arrived | 43.00% | ~948 |
-| Exemplary student | 41.00% | ~904 |
-| First aircraft arrived | 39.00% | ~860 |
-| High speed | 39.00% | ~860 |
-| Transport shark | 38.00% | ~838 |
-| Mass production | 33.00% | ~728 |
-| Aircraft entrepreneur | 31.00% | ~684 |
-| Crowd in a train | 29.00% | ~639 |
-| The future is now, old man | 29.00% | ~639 |
-| Not in my backyard | 28.00% | ~617 |
-| The king of the sea | 27.00% | ~595 |
-| City | 26.00% | ~573 |
-| Transport tycoon | 22.00% | ~485 |
-| Old timer | 21.00% | ~463 |
-| The ugly smell of success | 21.00% | ~463 |
-| Climate change | 20.00% | ~441 |
-| Heavily loaded | 19.00% | ~419 |
+| First line | 74.00% | ~1,635 |
+| First cargo item on board | 68.00% | ~1,502 |
+| First cargo item waiting | 68.00% | ~1,502 |
+| First bus stop | 67.00% | ~1,480 |
+| First passenger on board | 64.00% | ~1,414 |
+| First passenger waiting | 64.00% | ~1,414 |
+| First bus arrived | 63.00% | ~1,392 |
+| First train station | 60.00% | ~1,325 |
+| First steam train arrived | 57.00% | ~1,259 |
+| Cadet | 53.00% | ~1,171 |
+| First industry upgraded | 53.00% | ~1,171 |
+| Transport millionaire | 52.00% | ~1,149 |
+| Transport master | 49.00% | ~1,082 |
+| Cargo hub | 49.00% | ~1,082 |
+| Sculpturer | 47.00% | ~1,038 |
+| Settled down | 46.00% | ~1,016 |
+| Now what? | 44.00% | ~972 |
+| First electric train arrived | 43.00% | ~950 |
+| First ship arrived | 43.00% | ~950 |
+| Exemplary student | 41.00% | ~906 |
+| First aircraft arrived | 39.00% | ~862 |
+| High speed | 39.00% | ~862 |
+| Transport shark | 38.00% | ~839 |
+| Mass production | 33.00% | ~729 |
+| Aircraft entrepreneur | 31.00% | ~685 |
+| Crowd in a train | 29.00% | ~641 |
+| The future is now, old man | 29.00% | ~641 |
+| Not in my backyard | 28.00% | ~619 |
+| The king of the sea | 27.00% | ~596 |
+| City | 26.00% | ~574 |
+| Transport tycoon | 22.00% | ~486 |
+| Old timer | 21.00% | ~464 |
+| The ugly smell of success | 21.00% | ~464 |
+| Climate change | 20.00% | ~442 |
+| Heavily loaded | 19.00% | ~420 |
 | Bob Ross | 15.00% | ~331 |
-| Campaign expert | 10.00% | ~220 |
-| Truck Fever | 10.00% | ~220 |
-| No free seats | 9.00% | ~198 |
-| Penny pincher | 9.00% | ~198 |
-| Back to the future | 8.00% | ~176 |
-| Transport belt | 8.00% | ~176 |
+| Campaign expert | 10.00% | ~221 |
+| Truck Fever | 10.00% | ~221 |
+| No free seats | 9.00% | ~199 |
+| Penny pincher | 9.00% | ~199 |
+| Back to the future | 8.00% | ~177 |
+| Transport belt | 8.00% | ~177 |
 | Campaign shark | 5.00% | ~110 |
 | E.P.E.C. | 5.00% | ~110 |
 | Transport shark (Hard mode) | 4.00% | ~88 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~4 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,205 (Ranked 235)  
+Progressed: 2,209 (Ranked 235)  
 Completed: 1 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 1 (0.05%) (Ranked 336)
 | 2023-12-25 | 2,157 | 1 |
 | 2023-12-26 | 2,174 | 1 |
 | 2023-12-27 | 2,193 | 1 |
-| 2023-12-28 | 2,205 | 1 |
+| 2023-12-28 | 2,209 | 1 |
 ## Awards
 Max (Great for Beginners): 49  (Ranked 452)  
 Sum: 329 (Ranked 369)  

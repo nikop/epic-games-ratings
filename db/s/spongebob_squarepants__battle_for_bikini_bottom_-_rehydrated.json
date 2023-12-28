@@ -5,8 +5,8 @@
   "Ranking_Rating": 297,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 522,
-  "Ranking_EOS_Progress": 347,
-  "Ranking_EOS_Completed": 201,
+  "Ranking_EOS_Progress": 346,
+  "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
@@ -317,9 +317,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 460,
+  "EOS_Progressed": 464,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -1282,6 +1282,11 @@
       "Time": "2023-12-28T18:05:27.5892134+00:00",
       "NumProgressed": 460,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T19:06:42.4349839+00:00",
+      "NumProgressed": 464,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1294,7 +1299,7 @@
       "Name": "Robot encyclopedia",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_ARE_YOU_READY_NOW",
@@ -1302,7 +1307,7 @@
       "Name": "Are you ready now?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_CHUM_BUCKET_BRAIN",
@@ -1350,7 +1355,7 @@
       "Name": "Hello, Bikini Bottom",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_FLYING_DUTCHMAN_BOSS",
@@ -1364,9 +1369,9 @@
       "ID": "ACH_JELLYFISHING",
       "SetID": "biiejkc",
       "Name": "Jellyfishing",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -1374,7 +1379,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -1414,7 +1419,7 @@
       "Name": "Sweet Victory",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -1494,7 +1499,7 @@
       "Name": "Sock Getter",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -1510,7 +1515,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -1542,22 +1547,22 @@
       "Name": "Time For Tutorial",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     }
   ],
   "AchievementSets": [
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 460,
+      "Progressed": 464,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:05:27.5892129+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:06:42.4349834+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:59:54.774918+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:05:27.5892431+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:01:27.4980354+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:06:42.4350092+00:00"
 }

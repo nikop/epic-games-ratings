@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -1133,9 +1133,9 @@
       "ID": "KR4_ACHIEVEMENT_DEFEAT_DWARF_KING",
       "SetID": "caeik3h",
       "Name": "I am Iron Man",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 178
+      "UsersEstimate": 180
     },
     {
       "ID": "KR4_ACHIEVEMENT_DEMOGORGON",
@@ -1357,9 +1357,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_HARD",
       "SetID": "caeik3h",
       "Name": "No Survivors III",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 133
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
@@ -1658,8 +1658,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:05:23.5275074+00:00",
-  "LastUpdate_AppInfo": "2023-12-21T18:56:53.420002+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:57:06.160043+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:05:23.5275798+00:00"
+  "LastChanged_Achievements": "2023-12-28T19:06:36.8362315+00:00",
+  "LastUpdate_AppInfo": "2023-12-28T18:57:04.1058747+00:00",
+  "LastUpdate_Ratings": "2023-12-28T18:57:24.3492836+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:06:36.8362886+00:00"
 }

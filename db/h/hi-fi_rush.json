@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13055,
+  "EOS_Progressed": 13057,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2830,
+  "EOS_NewPlayers": 2827,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10153,6 +10153,11 @@
       "Time": "2023-12-28T18:05:08.2313231+00:00",
       "NumProgressed": 13055,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-28T19:06:15.8707635+00:00",
+      "NumProgressed": 13057,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -10220,7 +10225,7 @@
       "Name": "Easy Listening",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "Ach009",
@@ -10276,7 +10281,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 4047
+      "UsersEstimate": 4048
     },
     {
       "ID": "Ach016",
@@ -10356,7 +10361,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 3394
+      "UsersEstimate": 3395
     },
     {
       "ID": "Ach026",
@@ -10372,7 +10377,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2219
+      "UsersEstimate": 2220
     },
     {
       "ID": "Ach028",
@@ -10404,7 +10409,7 @@
       "Name": "Perfect Parry",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 3133
+      "UsersEstimate": 3134
     },
     {
       "ID": "Ach032",
@@ -10532,7 +10537,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4700
+      "UsersEstimate": 4701
     },
     {
       "ID": "Ach048",
@@ -10564,7 +10569,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 5875
+      "UsersEstimate": 5876
     },
     {
       "ID": "Ach052",
@@ -10580,7 +10585,7 @@
       "Name": "Does that say weakpoint?",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1958
+      "UsersEstimate": 1959
     },
     {
       "ID": "Ach054",
@@ -10731,13 +10736,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 13055,
+      "Progressed": 13057,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 11576,
+      "Progressed": 11578,
       "Completed": 1930
     }
   ],
@@ -10745,8 +10750,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-12-27T05:57:06.4006187+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:05:08.2313226+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:06:15.8707632+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:58.248811+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:57:42.9632289+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:05:08.2314376+00:00"
+  "LastUpdate_Ratings": "2023-12-28T18:58:17.5910531+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:06:15.8708663+00:00"
 }

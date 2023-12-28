@@ -7,13 +7,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Settler | 0.80% | ~128 |
+| Play a Single Player Game | 0.80% | ~128 |
 | Explorer | 0.70% | ~112 |
-| Play a Single Player Game | 0.70% | ~112 |
 | Intrepid | 0.60% | ~96 |
 | Friendly Family | 0.60% | ~96 |
 | Able | 0.50% | ~80 |
 | Architect | 0.50% | ~80 |
 | Good | 0.50% | ~80 |
+| Just | 0.50% | ~80 |
 | Keystone | 0.50% | ~80 |
 | Learned | 0.50% | ~80 |
 | Mason | 0.50% | ~80 |
@@ -29,7 +30,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 0.40% | ~64 |
 | Fountainhead | 0.40% | ~64 |
 | Glorious | 0.40% | ~64 |
-| Just | 0.40% | ~64 |
 | Magnificent | 0.40% | ~64 |
 | Warrior | 0.40% | ~64 |
 | Developing Cities | 0.40% | ~64 |
@@ -267,6 +267,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lost the Hearts of Kmt | 0.10% | ~16 |
 | Won the Hearts of Kmt | 0.10% | ~16 |
 | Partly Balanced Ma'at | 0.10% | ~16 |
+| Re-writing History | 0.10% | ~16 |
 | History Repeats | 0.10% | ~16 |
 | Egypt Campaign | 0.10% | ~16 |
 | Kushite Pyramids | 0.10% | ~16 |
@@ -352,7 +353,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pharaonic Partly Balanced Ma'at | 0.00% | ~0 |
 | Kmt's Sunset | 0.00% | ~0 |
 | Worst.Ending.Possible. | 0.00% | ~0 |
-| Re-writing History | 0.00% | ~0 |
 | The Greatest Pharaoh! | 0.00% | ~0 |
 | Pharaonic History Repeats | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,995 (Ranked 165)  
+Progressed: 15,997 (Ranked 165)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -617,7 +617,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-25 | 15,949 | 5 |
 | 2023-12-26 | 15,966 | 5 |
 | 2023-12-27 | 15,978 | 5 |
-| 2023-12-28 | 15,995 | 5 |
+| 2023-12-28 | 15,997 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,911 (Ranked 220)  

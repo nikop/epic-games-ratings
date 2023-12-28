@@ -452,7 +452,7 @@
   ],
   "EOS_Progressed": 813,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3366,9 +3366,9 @@
       "ID": "WielderLevel2",
       "SetID": "71c0n9i",
       "Name": "Veteran",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 171
     },
     {
       "ID": "WielderLevel3",
@@ -3470,8 +3470,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:08:46.4734165+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:09:24.7403127+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.1217697+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:58:19.0719532+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:08:46.4734586+00:00"
+  "LastUpdate_Ratings": "2023-12-28T18:59:10.4376368+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:09:24.7403532+00:00"
 }

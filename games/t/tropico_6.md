@@ -6,12 +6,12 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 74.00% | ~4,972 |
+| Just One...More...Term... | 74.00% | ~4,973 |
 | Un-Lonely Island | 45.00% | ~3,024 |
-| The Beginning of a Servantship | 44.00% | ~2,956 |
+| The Beginning of a Servantship | 44.00% | ~2,957 |
 | Trade Is My Trait | 36.00% | ~2,419 |
-| Number 18 | 23.00% | ~1,545 |
-| We Don't Have Time For That | 18.00% | ~1,209 |
+| Number 18 | 23.00% | ~1,546 |
+| We Don't Have Time For That | 18.00% | ~1,210 |
 | The Governator | 17.00% | ~1,142 |
 | The Legend of Langostino | 16.00% | ~1,075 |
 | Caribbean Comrade | 15.00% | ~1,008 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~54 |
 | My Ways | 0.20% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,719 (Ranked 194)  
+Progressed: 6,720 (Ranked 194)  
 Completed: 2 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,22 +299,22 @@ Completed: 2 (0.03%) (Ranked 350)
 | 2023-12-25 | 6,671 | 2 |
 | 2023-12-26 | 6,690 | 2 |
 | 2023-12-27 | 6,709 | 2 |
-| 2023-12-28 | 6,719 | 2 |
+| 2023-12-28 | 6,720 | 2 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 364)  
-Sum: 743 (Ranked 297)  
+Sum: 745 (Ranked 297)  
 Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |
 | This game is Highly Recommended | 105 |
 | This game has Quickly Understood Controls | 103 |
-| This game is Relaxing | 100 |
+| This game is Relaxing | 101 |
 | This game has Amazing Storytelling | 95 |
 | This game is Extremely Fun | 92 |
 | This game has Amazing Characters | 90 |
 | This game is Educational | 90 |
-| This game has a Creative Community | 68 |
+| This game has a Creative Community | 69 |
 | This game has Obsessive Gameplay | 52 |
 | This game has Diverse Characters | 46 |
 ## Ratings History
@@ -497,3 +497,4 @@ Diff (max vs sum): 67
 | 2023-12-21 | 4.66 | - | 104 | 742 |
 | 2023-12-24 | 4.65 | - | 105 | 743 |
 | 2023-12-25 | 4.66 | - | 105 | 743 |
+| 2023-12-28 | 4.66 | - | 105 | 745 |

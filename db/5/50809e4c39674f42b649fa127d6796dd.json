@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -1458,9 +1458,9 @@
       "ID": "FIRST_ACCEL_COMBO",
       "SetID": "apihg0e",
       "Name": "Combo Convert",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 175
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -1514,9 +1514,9 @@
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 230
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1729,8 +1729,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:07:59.3917949+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:08:19.8334338+00:00",
   "LastUpdate_AppInfo": "2023-12-26T20:57:07.4525805+00:00",
-  "LastUpdate_Ratings": "2023-12-28T18:03:11.5969056+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:07:59.3918333+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:03:34.0188543+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:08:19.833465+00:00"
 }

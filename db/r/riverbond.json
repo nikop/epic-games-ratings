@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -503,9 +503,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 534190,
+  "EOS_Progressed": 534191,
   "EOS_Completed": 512,
-  "EOS_NewPlayers": 596,
+  "EOS_NewPlayers": 592,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -27273,6 +27273,11 @@
       "Time": "2023-12-28T18:03:42.8799965+00:00",
       "NumProgressed": 534190,
       "NumCompleted": 512
+    },
+    {
+      "Time": "2023-12-28T19:04:19.8691943+00:00",
+      "NumProgressed": 534191,
+      "NumCompleted": 512
     }
   ],
   "TotalAchievements": 57,
@@ -27300,7 +27305,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 373933
+      "UsersEstimate": 373934
     },
     {
       "ID": "12",
@@ -27356,7 +27361,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 80128
+      "UsersEstimate": 80129
     },
     {
       "ID": "19",
@@ -27508,7 +27513,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 267095
+      "UsersEstimate": 267096
     },
     {
       "ID": "36",
@@ -27516,7 +27521,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 85470
+      "UsersEstimate": 85471
     },
     {
       "ID": "37",
@@ -27660,7 +27665,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 245727
+      "UsersEstimate": 245728
     },
     {
       "ID": "53",
@@ -27739,15 +27744,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 534190,
+      "Progressed": 534191,
       "Completed": 512
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-12-14T14:59:39.4842186+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:03:42.8799962+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:04:19.8691939+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:07.6757795+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:58:59.1449283+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:03:42.8801302+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:00:10.1123446+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:04:19.869376+00:00"
 }

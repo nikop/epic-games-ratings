@@ -2,7 +2,7 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 667,
+  "Ranking_Rating": 668,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 66,
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252693,
+  "EOS_Progressed": 252696,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22537,6 +22537,11 @@
       "Time": "2023-12-28T18:09:40.4756158+00:00",
       "NumProgressed": 252693,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-28T19:10:38.1892318+00:00",
+      "NumProgressed": 252696,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -22724,7 +22729,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133927
+      "UsersEstimate": 133929
     },
     {
       "ID": "indegestible",
@@ -22748,7 +22753,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65700
+      "UsersEstimate": 65701
     },
     {
       "ID": "justABit",
@@ -22764,7 +22769,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20215
+      "UsersEstimate": 20216
     },
     {
       "ID": "lockupLockdown",
@@ -22788,7 +22793,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126346
+      "UsersEstimate": 126348
     },
     {
       "ID": "notScared",
@@ -22852,7 +22857,7 @@
       "Name": "The Stunner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58119
+      "UsersEstimate": 58120
     },
     {
       "ID": "thunderstruck",
@@ -22915,7 +22920,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 252693,
+      "Progressed": 252696,
       "Completed": 6
     }
   ],
@@ -22923,8 +22928,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:09:40.4756155+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:10:38.1892314+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:20.5552445+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:59:29.9215895+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:09:40.475764+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:00:51.9176548+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:10:38.1893665+00:00"
 }

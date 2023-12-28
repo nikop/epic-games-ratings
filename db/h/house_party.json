@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6950,
+  "EOS_Progressed": 6951,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7822,6 +7822,11 @@
       "Time": "2023-12-28T18:08:31.3196493+00:00",
       "NumProgressed": 6950,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T19:09:04.1323124+00:00",
+      "NumProgressed": 6951,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -7889,7 +7894,7 @@
       "Name": "The Brahdyssey",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "Bride",
@@ -7921,7 +7926,7 @@
       "Name": "Caught in the Act",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "CongratsACelebrityHatesYou",
@@ -8097,7 +8102,7 @@
       "Name": "Katherine",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "LCA",
@@ -8153,7 +8158,7 @@
       "Name": "Relentless",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "Penguinfucker",
@@ -8241,7 +8246,7 @@
       "Name": "If at First You Don\u0027t Succeed...",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "SuckerPunch",
@@ -8384,21 +8389,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3989,
+      "Progressed": 3990,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6950,
+      "Progressed": 6951,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:08:31.3196488+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:09:04.1323119+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:06.2348386+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:59:01.1188908+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:08:31.3197377+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:00:13.0897369+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:09:04.132392+00:00"
 }

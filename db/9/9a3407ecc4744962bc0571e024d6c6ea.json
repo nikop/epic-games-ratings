@@ -3289,9 +3289,9 @@
       "ID": "ABetterTomorrow",
       "SetID": "3ai6ml8",
       "Name": "A Better Tomorrow",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 573
+      "UsersEstimate": 585
     },
     {
       "ID": "BostonHayDay",
@@ -3353,9 +3353,9 @@
       "ID": "DustDancing",
       "SetID": "3ai6ml8",
       "Name": "Dust Dancing",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 58
     },
     {
       "ID": "EverythingIsDust",
@@ -3456,8 +3456,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:09:37.322186+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:10:34.0171636+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:55.6682443+00:00",
-  "LastUpdate_Ratings": "2023-12-28T18:02:55.0888601+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:09:37.3222113+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:03:08.3873352+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:10:34.0171896+00:00"
 }

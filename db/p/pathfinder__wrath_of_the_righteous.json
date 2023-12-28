@@ -4721,9 +4721,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12840,
+  "EOS_Progressed": 12842,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18266,6 +18266,11 @@
       "Time": "2023-12-28T17:10:48.5873162+00:00",
       "NumProgressed": 12840,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T19:10:58.3774032+00:00",
+      "NumProgressed": 12842,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18285,7 +18290,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2311
+      "UsersEstimate": 2312
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -18485,7 +18490,7 @@
       "Name": "Great Upstart",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "29_StrategicVictory",
@@ -18525,7 +18530,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2054
+      "UsersEstimate": 2055
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -18629,7 +18634,7 @@
       "Name": "All Paths Open",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -19204,21 +19209,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11622,
+      "Progressed": 11624,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12840,
+      "Progressed": 12842,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-28T14:58:02.0640135+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:09:55.7292826+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:10:58.3774029+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:01.2970884+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:57:56.556859+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:09:55.7294581+00:00"
+  "LastUpdate_Ratings": "2023-12-28T18:58:38.7782492+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:10:58.3775598+00:00"
 }

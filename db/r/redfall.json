@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.59,
+  "Rating": 3.61,
   "RatingHistory": [
     {
       "Time": "2023-05-02T02:57:49.0820146+00:00",
@@ -301,6 +301,12 @@
       "Rating": 3.59,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2023-12-28T18:58:14.3894113+00:00",
+      "Rating": 3.61,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
@@ -315,9 +321,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2133,
+  "EOS_Progressed": 2134,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3505,6 +3511,11 @@
       "Time": "2023-12-28T17:04:19.1277566+00:00",
       "NumProgressed": 2133,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T19:04:26.1654999+00:00",
+      "NumProgressed": 2134,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3650,9 +3661,9 @@
       "ID": "Achievement_019",
       "SetID": "6b34g18",
       "Name": "I Like My Stakes Rare!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 341
     },
     {
       "ID": "Achievement_020",
@@ -3682,9 +3693,9 @@
       "ID": "Achievement_023",
       "SetID": "6b34g18",
       "Name": "Silence Is Golden",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 21
     },
     {
       "ID": "Achievement_024",
@@ -3698,9 +3709,9 @@
       "ID": "Achievement_025",
       "SetID": "6b34g18",
       "Name": "Grounded",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 85
     },
     {
       "ID": "Achievement_026",
@@ -3890,9 +3901,9 @@
       "ID": "Achievement_051",
       "SetID": "6b34g18",
       "Name": "Right This Way",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "Achievement_052",
@@ -4043,16 +4054,16 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2133,
+      "Progressed": 2134,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-02T02:57:49.0820129+00:00",
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
-  "LastChanged": "2023-12-28T07:57:25.4079831+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:03:47.5183848+00:00",
+  "LastChanged": "2023-12-28T18:58:14.3894111+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:04:26.1654995+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:45.1864069+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:57:40.7269351+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:03:47.5184639+00:00"
+  "LastUpdate_Ratings": "2023-12-28T18:58:14.3894116+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:04:26.165562+00:00"
 }

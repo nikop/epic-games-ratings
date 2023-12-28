@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1079,
+  "EOS_Progressed": 1080,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
@@ -2637,6 +2637,11 @@
       "Time": "2023-12-28T17:06:57.5892611+00:00",
       "NumProgressed": 1079,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T19:07:09.7982855+00:00",
+      "NumProgressed": 1080,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2721,7 +2726,7 @@
       "Name": "The Artefact is Mine",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "CompleteChapter12",
@@ -2729,7 +2734,7 @@
       "Name": "Grumblin\u0027 Bellies",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "CompleteChapter13",
@@ -2791,9 +2796,9 @@
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 658
+      "UsersEstimate": 648
     },
     {
       "ID": "CompleteChapter3",
@@ -2801,7 +2806,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "CompleteChapter4",
@@ -2809,7 +2814,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "CompleteChapter5",
@@ -2897,7 +2902,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "Win100OnlineMatched",
@@ -2944,14 +2949,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1079,
+      "Progressed": 1080,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:05:47.6096675+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:07:09.7982851+00:00",
   "LastUpdate_AppInfo": "2023-12-22T09:57:09.096238+00:00",
-  "LastUpdate_Ratings": "2023-12-28T18:02:52.1304968+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:05:47.6097026+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:03:03.7175592+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:07:09.7983222+00:00"
 }

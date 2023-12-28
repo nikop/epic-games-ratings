@@ -9,13 +9,13 @@ Rating: 4.63 (Ranked 354)
 | A Thorny Situation | 2.00% | ~175 |
 | Miner 49er | 2.00% | ~175 |
 | Break-Net Speed | 2.00% | ~175 |
+| Humble Collector | 2.00% | ~175 |
 | ... And Spit Back Out | 2.00% | ~175 |
 | Bramble Breaker | 2.00% | ~175 |
 | Calm Sailing | 1.00% | ~87 |
 | Open the Gate! | 1.00% | ~87 |
 | Clear the Air | 1.00% | ~87 |
 | Lumberjack | 1.00% | ~87 |
-| Humble Collector | 1.00% | ~87 |
 | Mist Walker | 1.00% | ~87 |
 | Oui, Chef! | 1.00% | ~87 |
 | Exit Through The Gift Shop | 0.90% | ~12 |

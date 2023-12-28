@@ -5,7 +5,7 @@
   "Ranking_Rating": 681,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 540,
-  "Ranking_EOS_Progress": 207,
+  "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 151,
@@ -649,7 +649,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4142,
+  "EOS_Progressed": 4143,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
@@ -9099,6 +9099,11 @@
       "Time": "2023-12-28T18:09:06.1681127+00:00",
       "NumProgressed": 4142,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-28T19:09:51.7249611+00:00",
+      "NumProgressed": 4143,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9262,7 +9267,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -9422,7 +9427,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -9502,7 +9507,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -9677,13 +9682,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4093,
+      "Progressed": 4094,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4142,
+      "Progressed": 4143,
       "Completed": 11
     }
   ],
@@ -9691,8 +9696,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-20T09:59:10.4485665+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:09:06.1681124+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:09:51.7249607+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:02.7105407+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:59:38.9735936+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:09:06.1682287+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:01:05.1123223+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:09:51.7250417+00:00"
 }

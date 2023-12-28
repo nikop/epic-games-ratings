@@ -4,7 +4,7 @@
   "ProductSlug": "the-outlast-trials",
   "Ranking_Rating": 297,
   "Ranking_Popularity": 275,
-  "Ranking_PopularitySum": 243,
+  "Ranking_PopularitySum": 242,
   "Ranking_EOS_Progress": 818,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 571,
@@ -3925,10 +3925,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 1429,
       "NumberOfAwardsMax": 263
+    },
+    {
+      "Time": "2023-12-28T18:59:22.5998677+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 1432,
+      "NumberOfAwardsMax": 263
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1429,
+  "NumberOfAwards": 1432,
   "NumberOfAwardsMax": 263,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3936,7 +3942,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 187
+      "Count": 190
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4005,8 +4011,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
-  "LastChanged": "2023-12-28T16:59:13.2494206+00:00",
+  "LastChanged": "2023-12-28T18:59:22.5998675+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:05.1980251+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:58:27.0881802+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:04:40.2909539+00:00"
+  "LastUpdate_Ratings": "2023-12-28T18:59:22.5998682+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:05:38.2175997+00:00"
 }

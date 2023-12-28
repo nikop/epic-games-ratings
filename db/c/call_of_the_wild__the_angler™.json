@@ -1015,9 +1015,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7679,
+  "EOS_Progressed": 7681,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 348,
+  "EOS_NewPlayers": 347,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12535,6 +12535,11 @@
       "Time": "2023-12-28T18:03:30.5330319+00:00",
       "NumProgressed": 7679,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T19:04:02.53939+00:00",
+      "NumProgressed": 7681,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -12562,7 +12567,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -12594,7 +12599,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -12865,13 +12870,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7679,
+      "Progressed": 7681,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7051,
+      "Progressed": 7053,
       "Completed": 113
     }
   ],
@@ -12879,8 +12884,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-26T19:00:49.2434236+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:03:30.5330316+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:04:02.5393895+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:25.278975+00:00",
-  "LastUpdate_Ratings": "2023-12-28T18:02:39.7134358+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:03:30.533137+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:02:45.7126778+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:04:02.539489+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3781,10 +3781,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2933,
       "NumberOfAwardsMax": 325
+    },
+    {
+      "Time": "2023-12-28T19:01:02.9335206+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2934,
+      "NumberOfAwardsMax": 325
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2933,
+  "NumberOfAwards": 2934,
   "NumberOfAwardsMax": 325,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3834,7 +3840,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 291
+      "Count": 292
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3861,9 +3867,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32850,
+  "EOS_Progressed": 32851,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 354,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -23766,6 +23772,11 @@
       "Time": "2023-12-28T16:08:47.2681654+00:00",
       "NumProgressed": 32850,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-28T19:09:01.3827802+00:00",
+      "NumProgressed": 32851,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 51,
@@ -23825,7 +23836,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1642
+      "UsersEstimate": 1643
     },
     {
       "ID": "Collector",
@@ -23857,7 +23868,7 @@
       "Name": "Diabolical",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "Discovery",
@@ -23905,7 +23916,7 @@
       "Name": "Fragile Panes",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "Fully_Upgraded",
@@ -23913,7 +23924,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1642
+      "UsersEstimate": 1643
     },
     {
       "ID": "GB_In_Training",
@@ -23953,7 +23964,7 @@
       "Name": "Liability",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "Line_Em_Up",
@@ -24033,7 +24044,7 @@
       "Name": "Rivalry",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "Seasoned",
@@ -24097,7 +24108,7 @@
       "Name": "Surprise!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "Swift_Removers",
@@ -24113,7 +24124,7 @@
       "Name": "Teamwork",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1642
+      "UsersEstimate": 1643
     },
     {
       "ID": "Terrifying",
@@ -24121,7 +24132,7 @@
       "Name": "Terrifying",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "Therapeutic",
@@ -24161,7 +24172,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1642
+      "UsersEstimate": 1643
     },
     {
       "ID": "Welcome_Crew",
@@ -24184,16 +24195,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32850,
+      "Progressed": 32851,
       "Completed": 70
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-12-27T23:00:22.2812208+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:08:29.3311047+00:00",
+  "LastChanged": "2023-12-28T19:01:02.9335204+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:09:01.3827798+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.5748987+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:59:37.5824985+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:08:29.3312802+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:01:02.9335209+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:09:01.3829005+00:00"
 }

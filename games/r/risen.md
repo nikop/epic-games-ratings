@@ -1,47 +1,47 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.55 (Ranked 517)  
+Rating: 4.55 (Ranked 518)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 91.00% | ~119 |
-| Map reader | 66.00% | ~86 |
+| Beginner | 91.00% | ~120 |
+| Map reader | 65.00% | ~86 |
 | Adventurer | 63.00% | ~83 |
 | Philanthropist | 60.00% | ~79 |
 | Archer | 44.00% | ~58 |
 | The brave little tailor | 42.00% | ~55 |
-| Field hand | 40.00% | ~52 |
-| Samaritan | 36.00% | ~47 |
-| Well-to-do | 36.00% | ~47 |
-| The merciful one | 33.00% | ~43 |
+| Field hand | 39.00% | ~51 |
+| Samaritan | 36.00% | ~48 |
+| Well-to-do | 36.00% | ~48 |
+| The merciful one | 33.00% | ~44 |
 | Ladies' man | 32.00% | ~42 |
 | Ferocious wild boars | 26.00% | ~34 |
-| Idiot | 24.00% | ~31 |
+| Idiot | 24.00% | ~32 |
 | Beast slayer | 22.00% | ~29 |
 | Family man | 20.00% | ~26 |
 | Death of a legend | 20.00% | ~26 |
 | Archaeologist | 20.00% | ~26 |
 | Ogre friend | 19.00% | ~25 |
-| Wise man | 18.00% | ~24 |
-| Little hero | 18.00% | ~24 |
-| Hard worker | 18.00% | ~24 |
-| The fourth triplet | 18.00% | ~24 |
-| Fence | 18.00% | ~24 |
 | Sidelined | 18.00% | ~24 |
-| Pandora's box | 15.00% | ~20 |
+| Wise man | 17.00% | ~22 |
+| Little hero | 17.00% | ~22 |
+| Hard worker | 17.00% | ~22 |
+| The fourth triplet | 17.00% | ~22 |
+| Fence | 17.00% | ~22 |
 | Ghost hunter | 15.00% | ~20 |
 | Master detective | 15.00% | ~20 |
+| Pandora's box | 14.00% | ~18 |
 | Peacekeeper | 14.00% | ~18 |
 | Workaholic | 13.00% | ~17 |
 | Defender | 12.00% | ~16 |
-| Showdown | 11.00% | ~14 |
-| Safecracker | 11.00% | ~14 |
-| Master thief | 11.00% | ~14 |
+| Showdown | 11.00% | ~15 |
+| Safecracker | 11.00% | ~15 |
+| Master thief | 11.00% | ~15 |
 | Freedom fighter | 10.00% | ~13 |
-| Titan Lord | 8.00% | ~10 |
-| Terror of the hens | 8.00% | ~10 |
-| King of the handymen | 8.00% | ~10 |
+| Titan Lord | 8.00% | ~11 |
+| Terror of the hens | 8.00% | ~11 |
+| King of the handymen | 8.00% | ~11 |
 | Expert | 7.00% | ~9 |
 | The traveler | 5.00% | ~7 |
 | Moneybags | 5.00% | ~7 |
@@ -56,7 +56,7 @@ Rating: 4.55 (Ranked 517)
 | Master of the classes | 0.80% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131 (Ranked 454)  
+Progressed: 132 (Ranked 455)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 124 | 0 |
 | 2023-12-26 | 126 | 0 |
 | 2023-12-27 | 128 | 0 |
-| 2023-12-28 | 131 | 0 |
+| 2023-12-28 | 132 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

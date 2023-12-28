@@ -1,11 +1,11 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.59 (Ranked 1,074)  
+Rating: 3.61 (Ranked 1,074)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 15.00% | ~320 |
+| I Like My Stakes Rare! | 16.00% | ~341 |
 | Catch and Release | 11.00% | ~235 |
 | Home Is Where the Heart Is | 10.00% | ~213 |
 | ICU | 10.00% | ~213 |
@@ -18,15 +18,14 @@ Rating: 3.59 (Ranked 1,074)
 | Sucks To Be You | 7.00% | ~149 |
 | Enter of Your Own Free Will | 6.00% | ~128 |
 | Welcome to the Neighborhood | 6.00% | ~128 |
-| Grounded | 5.00% | ~107 |
 | Heart Attack | 5.00% | ~107 |
 | Skin of Their Teeth | 5.00% | ~107 |
 | Bad Wiring | 4.00% | ~85 |
+| Grounded | 4.00% | ~85 |
 | Neighborhood Revitalization | 3.00% | ~64 |
 | Radio Silence | 3.00% | ~64 |
 | Sic Transit Umbra | 2.00% | ~43 |
 | Bell-ringer | 2.00% | ~43 |
-| Silence Is Golden | 2.00% | ~43 |
 | Good Morning | 2.00% | ~43 |
 | You Clean It Up | 2.00% | ~43 |
 | From the Shadows | 2.00% | ~43 |
@@ -37,12 +36,13 @@ Rating: 3.59 (Ranked 1,074)
 | Revelations | 1.00% | ~21 |
 | Contingency Plans | 1.00% | ~21 |
 | Block Party | 1.00% | ~21 |
+| Silence Is Golden | 1.00% | ~21 |
 | Check, Please! | 1.00% | ~21 |
 | Nice Try | 1.00% | ~21 |
 | Blacklight Down | 1.00% | ~21 |
 | Curious Finch | 0.90% | ~19 |
-| Right This Way | 0.80% | ~17 |
 | Bloody Initiate | 0.70% | ~15 |
+| Right This Way | 0.70% | ~15 |
 | Empty Nest Syndrome | 0.60% | ~13 |
 | Dexterity Save | 0.60% | ~13 |
 | Neighborhood Watch | 0.50% | ~11 |
@@ -72,7 +72,7 @@ Rating: 3.59 (Ranked 1,074)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,133 (Ranked 236)  
+Progressed: 2,134 (Ranked 236)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 2,067 | 0 |
 | 2023-12-26 | 2,087 | 0 |
 | 2023-12-27 | 2,113 | 0 |
-| 2023-12-28 | 2,133 | 0 |
+| 2023-12-28 | 2,134 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 569)  
 Sum: 20 (Ranked 570)  
@@ -254,4 +254,4 @@ Diff (max vs sum): -1
 | 2023-12-21 | 3.56 | 0 | 0 |
 | 2023-12-24 | 3.59 | 0 | 0 |
 | 2023-12-25 | 3.58 | 20 | 20 |
-| 2023-12-28 | 3.59 | 20 | 20 |
+| 2023-12-28 | 3.61 | 20 | 20 |

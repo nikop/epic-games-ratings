@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sweep | 94.00% | ~412 |
-| Scavenger | 74.00% | ~324 |
-| Line of Duty | 72.00% | ~315 |
-| Gunner | 57.00% | ~250 |
-| DocKing | 46.00% | ~201 |
+| Clean Sweep | 94.00% | ~413 |
+| Scavenger | 73.00% | ~320 |
+| Line of Duty | 72.00% | ~316 |
+| Gunner | 56.00% | ~246 |
+| DocKing | 46.00% | ~202 |
 | What-A-Shot | 44.00% | ~193 |
-| Batteries Included | 38.00% | ~166 |
+| Batteries Included | 38.00% | ~167 |
 | Death from Above | 34.00% | ~149 |
 | Hull King | 26.00% | ~114 |
 | Boss Down | 19.00% | ~83 |
 | Extra Ammo | 19.00% | ~83 |
 | Splash Damage | 19.00% | ~83 |
-| Hazardous Duty | 17.00% | ~74 |
+| Hazardous Duty | 17.00% | ~75 |
 | Perky | 15.00% | ~66 |
-| Salvage | 11.00% | ~48 |
-| Shocking | 11.00% | ~48 |
 | Perk King | 10.00% | ~44 |
+| Salvage | 10.00% | ~44 |
 | Sixty Seconds | 10.00% | ~44 |
-| Perfect Timing | 9.00% | ~39 |
+| Shocking | 10.00% | ~44 |
+| Perfect Timing | 9.00% | ~40 |
 | Killer Elite | 6.00% | ~26 |
 | OP | 5.00% | ~22 |
 | Bumper Car | 4.00% | ~18 |
@@ -49,7 +49,7 @@
 | Burn Them | 0.20% | ~1 |
 | Final Ascension | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 438 (Ranked 353)  
+Progressed: 439 (Ranked 353)  
 Completed: 1 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 1 (0.23%) (Ranked 267)
 | 2023-12-23 | 434 | 1 |
 | 2023-12-24 | 435 | 1 |
 | 2023-12-25 | 436 | 1 |
-| 2023-12-28 | 438 | 1 |
+| 2023-12-28 | 439 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

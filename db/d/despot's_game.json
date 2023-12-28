@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 472,
+  "EOS_Progressed": 473,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -633,6 +633,11 @@
       "Time": "2023-12-28T16:06:01.3301738+00:00",
       "NumProgressed": 472,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T19:07:07.5280874+00:00",
+      "NumProgressed": 473,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -724,7 +729,7 @@
       "Name": "Impossible Cube",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "finished-quest-flight",
@@ -740,7 +745,7 @@
       "Name": "Campaigning",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "finished-quest-nurgle",
@@ -780,7 +785,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "finished-quest-secret",
@@ -788,7 +793,7 @@
       "Name": "To the Moon and Back",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "finished-quest-sword",
@@ -860,7 +865,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "win-first-level",
@@ -868,7 +873,7 @@
       "Name": "Good start!",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "win-koth-fights1",
@@ -876,7 +881,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "win-koth-fights2",
@@ -900,7 +905,7 @@
       "Name": "Through the Darkness",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "win-with-3-cultists",
@@ -923,7 +928,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 472,
+      "Progressed": 473,
       "Completed": 1
     }
   ],
@@ -931,8 +936,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:05:46.0883024+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:07:07.528087+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:08.4827025+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:58:14.1777151+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:05:46.088332+00:00"
+  "LastUpdate_Ratings": "2023-12-28T18:59:03.0940125+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:07:07.52812+00:00"
 }

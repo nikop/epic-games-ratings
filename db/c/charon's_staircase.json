@@ -4,7 +4,7 @@
   "ProductSlug": "charons-staircase-b2d05f",
   "Ranking_EOS_Progress": 499,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 522,
+  "Ranking_EOS_NewPlayers": 523,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-28T07:00:00+00:00",
@@ -139,9 +139,9 @@
       "ID": "ACH_1",
       "SetID": "1g3d1lg",
       "Name": "Seth\u0027s office",
-      "Percentage": 56,
+      "Percentage": 58,
       "XP": 35,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_10",
@@ -195,9 +195,9 @@
       "ID": "ACH_16",
       "SetID": "1g3d1lg",
       "Name": "Curious by nature",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_17",
@@ -227,9 +227,9 @@
       "ID": "ACH_2",
       "SetID": "1g3d1lg",
       "Name": "The secret passage",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 35,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_20",
@@ -243,9 +243,9 @@
       "ID": "ACH_3",
       "SetID": "1g3d1lg",
       "Name": "Across the lake",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 35,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_4",
@@ -308,8 +308,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.6125588+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.3534182+00:00",
   "LastChanged": "2023-03-31T05:58:38.6125589+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:08:34.3308946+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:09:08.0527179+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.0118432+00:00",
-  "LastUpdate_Ratings": "2023-12-28T18:02:45.1051533+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:08:34.3309056+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:02:54.3280027+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:09:08.0527318+00:00"
 }

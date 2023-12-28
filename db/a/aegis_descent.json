@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewPlayers": 430,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 438,
+  "EOS_Progressed": 439,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -480,6 +480,11 @@
       "Time": "2023-12-28T16:08:37.8508792+00:00",
       "NumProgressed": 438,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T19:08:48.7289066+00:00",
+      "NumProgressed": 439,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -491,7 +496,7 @@
       "Name": "Batteries Included",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "Award_BigSpender",
@@ -531,7 +536,7 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -563,7 +568,7 @@
       "Name": "DocKing",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "Award_EarlyBird",
@@ -601,9 +606,9 @@
       "ID": "Award_Gunner",
       "SetID": "9ojec6n",
       "Name": "Gunner",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 246
     },
     {
       "ID": "Award_HalfwayThere",
@@ -627,7 +632,7 @@
       "Name": "Hazardous Duty",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Award_HeavyMetal",
@@ -667,7 +672,7 @@
       "Name": "Line of Duty",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -699,7 +704,7 @@
       "Name": "Perfect Timing",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Award_PerkKing",
@@ -729,17 +734,17 @@
       "ID": "Award_Salvage",
       "SetID": "9ojec6n",
       "Name": "Salvage",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 44
     },
     {
       "ID": "Award_Scavenger",
       "SetID": "9ojec6n",
       "Name": "Scavenger",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 320
     },
     {
       "ID": "Award_ShellShock",
@@ -785,9 +790,9 @@
       "ID": "Award_Stunning",
       "SetID": "9ojec6n",
       "Name": "Shocking",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 44
     },
     {
       "ID": "Award_SwissCheese",
@@ -842,7 +847,7 @@
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 438,
+      "Progressed": 439,
       "Completed": 1
     }
   ],
@@ -850,8 +855,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:08:20.2486736+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:08:48.7289062+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:55.752897+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:57:51.854342+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:08:20.2487113+00:00"
+  "LastUpdate_Ratings": "2023-12-28T18:58:30.4903535+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:08:48.7289339+00:00"
 }

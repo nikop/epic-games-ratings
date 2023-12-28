@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 371,
+  "Ranking_EOS_NewPlayers": 369,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4407,
+  "EOS_Progressed": 4408,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1853,6 +1853,11 @@
       "Time": "2023-12-27T19:10:53.6218121+00:00",
       "NumProgressed": 4407,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-28T19:10:59.3596565+00:00",
+      "NumProgressed": 4408,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 101,
@@ -1896,7 +1901,7 @@
       "Name": "Bread for the people I",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACHIEVEMENT_BREAD2",
@@ -1936,7 +1941,7 @@
       "Name": "I like to build stuff... II",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS3",
@@ -2160,7 +2165,7 @@
       "Name": "Completionist I",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACHIEVEMENT_QUESTS2",
@@ -2560,7 +2565,7 @@
       "Name": "A time consuming game II",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACHIEVEMENT_TIME3",
@@ -2671,15 +2676,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4407,
+      "Progressed": 4408,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-12-26T18:02:48.4372833+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:09:56.5286772+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:10:59.3596561+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:59.3199868+00:00",
-  "LastUpdate_Ratings": "2023-12-28T18:02:52.917107+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:09:56.5287658+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:03:05.033474+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:10:59.359745+00:00"
 }

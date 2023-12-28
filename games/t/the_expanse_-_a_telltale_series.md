@@ -17,9 +17,9 @@ Rating: 4.56 (Ranked 498)
 | Spore Taste | 9.00% | ~1,590 |
 | Zen Master | 9.00% | ~326 |
 | Call it Even | 8.00% | ~1,413 |
-| Safe Cracker | 8.00% | ~289 |
-| Madame Undersecretary | 8.00% | ~289 |
-| Heal Thy Medic | 7.00% | ~1,236 |
+| Safe Cracker | 8.00% | ~290 |
+| Madame Undersecretary | 8.00% | ~290 |
+| Heal Thy Medic | 7.00% | ~1,237 |
 | Keep Arjun in Check | 7.00% | ~253 |
 | Data Archivist | 6.00% | ~1,060 |
 | Drug Gifter | 6.00% | ~1,060 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 498)
 | Scavenger Star | 0.30% | ~53 |
 | Data Collector | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,664 (Ranked 156)  
+Progressed: 17,665 (Ranked 157)  
 Completed: 56 (0.32%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 56 (0.32%) (Ranked 248)
 | 2023-12-25 | 17,425 | 52 |
 | 2023-12-26 | 17,513 | 53 |
 | 2023-12-27 | 17,604 | 54 |
-| 2023-12-28 | 17,664 | 56 |
+| 2023-12-28 | 17,665 | 56 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

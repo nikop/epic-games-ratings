@@ -2,7 +2,7 @@
   "ID": "e8bab5eae849405890fca0cd2d1f808e",
   "Name": "Aragami 2",
   "ProductSlug": "aragami-2",
-  "Ranking_Rating": 517,
+  "Ranking_Rating": 518,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 124,
@@ -257,7 +257,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44587,
+  "EOS_Progressed": 44589,
   "EOS_Completed": 247,
   "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
@@ -19807,6 +19807,11 @@
       "Time": "2023-12-28T18:05:55.463207+00:00",
       "NumProgressed": 44587,
       "NumCompleted": 247
+    },
+    {
+      "Time": "2023-12-28T19:07:20.3920196+00:00",
+      "NumProgressed": 44589,
+      "NumCompleted": 247
     }
   ],
   "TotalAchievements": 44,
@@ -19818,7 +19823,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25415
+      "UsersEstimate": 25416
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -19826,7 +19831,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13822
+      "UsersEstimate": 13823
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -19834,7 +19839,7 @@
       "Name": "Embers",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 9809
+      "UsersEstimate": 9810
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -19858,7 +19863,7 @@
       "Name": "Ruse",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5350
+      "UsersEstimate": 5351
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -19906,7 +19911,7 @@
       "Name": "Left Behind",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -19914,7 +19919,7 @@
       "Name": "Secrets of the Earth",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -19930,7 +19935,7 @@
       "Name": "Heart of Fire",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -19938,7 +19943,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35670
+      "UsersEstimate": 35671
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -20010,7 +20015,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16497
+      "UsersEstimate": 16498
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -20026,7 +20031,7 @@
       "Name": "Wall Lizard",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 8917
+      "UsersEstimate": 8918
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -20042,7 +20047,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 24523
+      "UsersEstimate": 24524
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -20058,7 +20063,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 28090
+      "UsersEstimate": 28091
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -20066,7 +20071,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12038
+      "UsersEstimate": 12039
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -20082,7 +20087,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26752
+      "UsersEstimate": 26753
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -20090,7 +20095,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29873
+      "UsersEstimate": 29875
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -20122,7 +20127,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 20064
+      "UsersEstimate": 20065
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -20154,7 +20159,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41466
+      "UsersEstimate": 41468
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -20162,14 +20167,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 23185
+      "UsersEstimate": 23186
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44587,
+      "Progressed": 44589,
       "Completed": 247
     }
   ],
@@ -20177,8 +20182,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:05:55.4632065+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:07:20.3920192+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:53.9920689+00:00",
-  "LastUpdate_Ratings": "2023-12-28T18:03:12.4139387+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:05:55.4633747+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:03:35.1928309+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:07:20.3921249+00:00"
 }

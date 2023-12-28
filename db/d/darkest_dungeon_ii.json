@@ -2,12 +2,12 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 259,
+  "Ranking_Rating": 260,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10260,9 +10260,9 @@
       "Count": 1064
     }
   ],
-  "EOS_Progressed": 130394,
+  "EOS_Progressed": 130404,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1460,
+  "EOS_NewPlayers": 1463,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37250,6 +37250,11 @@
       "Time": "2023-12-28T18:09:17.6202776+00:00",
       "NumProgressed": 130394,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T19:10:07.2013912+00:00",
+      "NumProgressed": 130404,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37797,7 +37802,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "combat_kill_collector",
@@ -37805,7 +37810,7 @@
       "Name": "This guy... again?",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -37845,7 +37850,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -37853,7 +37858,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "quest_complete_crusader",
@@ -37861,7 +37866,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -37892,21 +37897,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130394,
+      "Progressed": 130404,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5263,
+      "Progressed": 5273,
       "Completed": 812
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-28T14:01:05.7081436+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:09:17.6202773+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:10:07.2013909+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:59:44.2757695+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:09:17.6204546+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:01:11.9177104+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:10:07.2015668+00:00"
 }

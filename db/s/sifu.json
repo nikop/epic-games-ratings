@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 32,
+  "Ranking_EOS_NewPlayers": 33,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8473,10 +8473,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 12449,
       "NumberOfAwardsMax": 7028
+    },
+    {
+      "Time": "2023-12-28T19:03:26.2594408+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12454,
+      "NumberOfAwardsMax": 7028
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12449,
+  "NumberOfAwards": 12454,
   "NumberOfAwardsMax": 7028,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8508,7 +8514,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 597
+      "Count": 600
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8526,7 +8532,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 631
+      "Count": 633
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8553,9 +8559,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 747181,
+  "EOS_Progressed": 747202,
   "EOS_Completed": 12967,
-  "EOS_NewPlayers": 8405,
+  "EOS_NewPlayers": 8396,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.74,
   "EosHistory": [
@@ -31313,6 +31319,11 @@
       "Time": "2023-12-28T18:08:51.1978859+00:00",
       "NumProgressed": 747181,
       "NumCompleted": 12967
+    },
+    {
+      "Time": "2023-12-28T19:09:31.0410875+00:00",
+      "NumProgressed": 747202,
+      "NumCompleted": 12967
     }
   ],
   "TotalAchievements": 60,
@@ -31324,7 +31335,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29887
+      "UsersEstimate": 29888
     },
     {
       "ID": "02_Vengeance_H1",
@@ -31332,7 +31343,7 @@
       "Name": "The Assault",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22415
+      "UsersEstimate": 22416
     },
     {
       "ID": "03_Vengeance_H2",
@@ -31484,7 +31495,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5977
+      "UsersEstimate": 5978
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -31500,7 +31511,7 @@
       "Name": "Life is your teacher",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29887
+      "UsersEstimate": 29888
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -31588,7 +31599,7 @@
       "Name": "Lightning Hands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22415
+      "UsersEstimate": 22416
     },
     {
       "ID": "35_WideStrike",
@@ -31676,7 +31687,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -31692,7 +31703,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -31700,7 +31711,7 @@
       "Name": "Secure, Protect, Leave",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "49_Arena_GoldSurvival",
@@ -31724,7 +31735,7 @@
       "Name": "Crouching Tiger",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "52_Arena_DragonAll",
@@ -31732,7 +31743,7 @@
       "Name": "Hidden Dragon",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "53_Arena_HighStamps",
@@ -31756,7 +31767,7 @@
       "Name": "Here Cometh the Iceman",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "56_Arena_LakeKill",
@@ -31764,7 +31775,7 @@
       "Name": "Fighter in the Pond",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "57_Arena_Car",
@@ -31772,7 +31783,7 @@
       "Name": "Bonus Stage",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "58_Arena_Music",
@@ -31788,7 +31799,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -31796,28 +31807,28 @@
       "Name": "A Bit Of Everything, Simultaneously",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 56482,
+      "Progressed": 56503,
       "Completed": 10789
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 747181,
+      "Progressed": 747202,
       "Completed": 12967
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-12-28T15:02:55.7466741+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:08:51.1978854+00:00",
+  "LastChanged": "2023-12-28T19:03:26.2594407+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:09:31.0410871+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:49.3189229+00:00",
-  "LastUpdate_Ratings": "2023-12-28T18:03:06.5060438+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:08:51.1980377+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:03:26.2594412+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:09:31.0412016+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "c986e75258a146fba03a920dba852ca9",
   "Name": "Cat Quest",
   "ProductSlug": "cat-quest-8373e0",
-  "Ranking_EOS_Progress": 158,
+  "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 35,
+  "Ranking_EOS_NewPlayers": 22,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-28T16:00:00+00:00",
@@ -21,10 +21,12 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17382,
+  "EOS_Progressed": 22939,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6744,
+  "EOS_NewPlayers": 12301,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36,6 +38,11 @@
     {
       "Time": "2023-12-28T18:03:25.7667417+00:00",
       "NumProgressed": 17382,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T19:03:56.0108372+00:00",
+      "NumProgressed": 22939,
       "NumCompleted": 0
     }
   ],
@@ -57,7 +64,7 @@
       "Name": "Fashionista Lion",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 23
     },
     {
       "ID": "com.thegentlebros.catquest.level_03",
@@ -65,15 +72,15 @@
       "Name": "Super Catventurer",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 23
     },
     {
       "ID": "com.thegentlebros.catquest.mainquest_02",
       "SetID": "8g22406",
       "Name": "Felingard Loremaster",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 46
     },
     {
       "ID": "com.thegentlebros.catquest.mew_00",
@@ -87,33 +94,33 @@
       "ID": "com.thegentlebros.catquest.mew_01",
       "SetID": "8g22406",
       "Name": "Level One",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 23
     },
     {
       "ID": "com.thegentlebros.catquest.mew_02",
       "SetID": "8g22406",
       "Name": "Naked Cat",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 23
     },
     {
       "ID": "com.thegentlebros.catquest.mew_03",
       "SetID": "8g22406",
       "Name": "Nine Lives",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 23
     },
     {
       "ID": "com.thegentlebros.catquest.mew_04",
       "SetID": "8g22406",
       "Name": "Stronger Enemies",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 23
     },
     {
       "ID": "com.thegentlebros.catquest.mew_05",
@@ -121,7 +128,7 @@
       "Name": "The Old Master",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 23
     },
     {
       "ID": "com.thegentlebros.catquest.sidequest_03",
@@ -129,28 +136,29 @@
       "Name": "Saviour of the Cats",
       "Percentage": 0.1,
       "XP": 200,
-      "UsersEstimate": 17
+      "UsersEstimate": 23
     },
     {
       "ID": "com.thegentlebros.catquest.skill_01",
       "SetID": "8g22406",
       "Name": "Power of the Arcane",
-      "Percentage": 0.1,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 92
     }
   ],
   "AchievementSets": [
     {
       "ID": "8g22406",
       "IsBase": true,
-      "Progressed": 17382,
+      "Progressed": 22939,
       "Completed": 0
     }
   ],
+  "FirstSeen": "2023-12-28T18:57:14.4261716+00:00",
   "FirstSeenAchievements": "2023-12-28T17:03:50.5211757+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:03:25.7667405+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:03:56.0108359+00:00",
   "LastUpdate_AppInfo": "2023-12-28T16:57:08.7273878+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:56:59.9218134+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:03:25.7683924+00:00"
+  "LastUpdate_Ratings": "2023-12-28T18:57:14.4261776+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:03:56.0108563+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 465,
+  "EOS_Progressed": 467,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1655,6 +1655,11 @@
       "Time": "2023-12-28T14:10:56.1135012+00:00",
       "NumProgressed": 465,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T19:10:55.7708274+00:00",
+      "NumProgressed": 467,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1968,9 +1973,9 @@
       "ID": "FISHING",
       "SetID": "44dlcg0",
       "Name": "King of fish",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 5
     },
     {
       "ID": "GRANJA_1",
@@ -2096,9 +2101,9 @@
       "ID": "POPULATION_1",
       "SetID": "44dlcg0",
       "Name": "Small town",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 84
     },
     {
       "ID": "POPULATION_2",
@@ -2297,7 +2302,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 465,
+      "Progressed": 467,
       "Completed": 0
     }
   ],
@@ -2305,8 +2310,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:09:53.5515595+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:10:55.770827+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:33.1198252+00:00",
-  "LastUpdate_Ratings": "2023-12-28T18:02:45.8078056+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:09:53.55163+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:02:55.057465+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:10:55.7709028+00:00"
 }

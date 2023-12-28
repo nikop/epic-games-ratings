@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1531,18 +1531,24 @@
       "Rating": 4.59,
       "NumberOfAwards": 540,
       "NumberOfAwardsMax": 258
+    },
+    {
+      "Time": "2023-12-28T18:57:26.1730278+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 542,
+      "NumberOfAwardsMax": 260
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 540,
-  "NumberOfAwardsMax": 258,
+  "NumberOfAwards": 542,
+  "NumberOfAwardsMax": 260,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 258
+      "Count": 260
     },
     {
       "Text": "This game is Relaxing",
@@ -1599,9 +1605,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 245210,
+  "EOS_Progressed": 245220,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1350,
+  "EOS_NewPlayers": 1347,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24024,6 +24030,11 @@
       "Time": "2023-12-28T18:09:49.2300737+00:00",
       "NumProgressed": 245210,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-28T19:10:50.2967058+00:00",
+      "NumProgressed": 245220,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -24035,7 +24046,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7356
+      "UsersEstimate": 7357
     },
     {
       "ID": "100Fail",
@@ -24051,7 +24062,7 @@
       "Name": "Holistic Adventuring Party",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "BarbarianEpic",
@@ -24067,7 +24078,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7356
+      "UsersEstimate": 7357
     },
     {
       "ID": "BookCollection",
@@ -24091,7 +24102,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12260
+      "UsersEstimate": 12261
     },
     {
       "ID": "Chapter3",
@@ -24099,7 +24110,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7356
+      "UsersEstimate": 7357
     },
     {
       "ID": "Chapter4",
@@ -24107,7 +24118,7 @@
       "Name": "The demons\u0027 feast",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7356
+      "UsersEstimate": 7357
     },
     {
       "ID": "Chapter5",
@@ -24115,7 +24126,7 @@
       "Name": "The Great Library",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7356
+      "UsersEstimate": 7357
     },
     {
       "ID": "Chapter6",
@@ -24123,7 +24134,7 @@
       "Name": "Torture and Sensibility",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7356
+      "UsersEstimate": 7357
     },
     {
       "ID": "Chapter7",
@@ -24187,7 +24198,7 @@
       "Name": "The Woman in the High Castle",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7356
+      "UsersEstimate": 7357
     },
     {
       "ID": "DLC1ChooseNecro",
@@ -24435,7 +24446,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22069
+      "UsersEstimate": 22070
     },
     {
       "ID": "DwarfElf15Support",
@@ -24483,7 +24494,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 88276
+      "UsersEstimate": 88279
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -24499,7 +24510,7 @@
       "Name": "GG EZ",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12260
+      "UsersEstimate": 12261
     },
     {
       "ID": "EndCombatOneHp",
@@ -24507,7 +24518,7 @@
       "Name": "DM intervention",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9808
+      "UsersEstimate": 9809
     },
     {
       "ID": "EndGameCursed",
@@ -24531,7 +24542,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24521
+      "UsersEstimate": 24522
     },
     {
       "ID": "FollowBraztok",
@@ -24547,7 +24558,7 @@
       "Name": "An old poacher makes the best gamekeeper",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "InsultLoose",
@@ -24683,7 +24694,7 @@
       "Name": "Speedrun",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12260
+      "UsersEstimate": 12261
     },
     {
       "ID": "SupportCount4",
@@ -24691,7 +24702,7 @@
       "Name": "Team Building Exercise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7356
+      "UsersEstimate": 7357
     },
     {
       "ID": "SystematicallyStupid",
@@ -24715,7 +24726,7 @@
       "Name": "Oh, when I\u0027ll be level 10...",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7356
+      "UsersEstimate": 7357
     },
     {
       "ID": "WizardEpic",
@@ -24731,28 +24742,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9808
+      "UsersEstimate": 9809
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 245210,
+      "Progressed": 245220,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 245210,
+      "Progressed": 245220,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-12-27T06:01:29.6112868+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:09:49.2300733+00:00",
+  "LastChanged": "2023-12-28T18:57:26.1730276+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:10:50.2967055+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:14.8119134+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:57:07.3466009+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:09:49.2302186+00:00"
+  "LastUpdate_Ratings": "2023-12-28T18:57:26.173028+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:10:50.29687+00:00"
 }

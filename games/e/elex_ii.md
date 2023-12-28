@@ -12,9 +12,9 @@ Number of Ratings: 124  (23.09.2022)
 | Civilian | 25.00% | ~30 |
 | Peddler | 17.00% | ~21 |
 | Creator | 17.00% | ~21 |
+| Military Leader | 16.00% | ~20 |
 | Commander | 16.00% | ~20 |
 | Festival-goer | 16.00% | ~20 |
-| Military Leader | 15.00% | ~18 |
 | Long-Haul Flyer | 13.00% | ~16 |
 | Pass A38 | 11.00% | ~13 |
 | Family Reunion | 10.00% | ~12 |
@@ -25,9 +25,9 @@ Number of Ratings: 124  (23.09.2022)
 | Eternal Oblivion | 7.00% | ~9 |
 | Hotshot | 6.00% | ~7 |
 | Storyteller | 5.00% | ~6 |
+| Self-Sufficient | 4.00% | ~5 |
 | Free as a Bird | 4.00% | ~5 |
 | Unbreakable | 4.00% | ~5 |
-| Self-Sufficient | 3.00% | ~4 |
 | Idealist | 3.00% | ~4 |
 | Lover | 3.00% | ~4 |
 | Banker | 2.00% | ~2 |

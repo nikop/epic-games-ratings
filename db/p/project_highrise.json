@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 452,
+  "EOS_Progressed": 453,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1430,6 +1430,11 @@
       "Time": "2023-12-28T17:07:51.2176346+00:00",
       "NumProgressed": 452,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T19:08:06.1087866+00:00",
+      "NumProgressed": 453,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1473,7 +1478,7 @@
       "Name": "Floor Galore",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ach_area_1",
@@ -1577,7 +1582,7 @@
       "Name": "Need a Consult",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ach_consultant_1",
@@ -1585,7 +1590,7 @@
       "Name": "Upgrade Unlock",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ach_consultants_a",
@@ -1841,7 +1846,7 @@
       "Name": "It\u0027s Technical",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ach_office_2",
@@ -1865,7 +1870,7 @@
       "Name": "People Mover",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ach_pop_2",
@@ -1953,7 +1958,7 @@
       "Name": "Tasty Profits",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ach_restaurants_3",
@@ -1969,7 +1974,7 @@
       "Name": "Potent Potables",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ach_restaurants_5",
@@ -2065,7 +2070,7 @@
       "Name": "Smooth Service",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ach_trash_1",
@@ -2081,7 +2086,7 @@
       "Name": "We Don\u0027t Need No Education",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ach_util_cable",
@@ -2113,7 +2118,7 @@
       "Name": "Get Electrified",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ach_util_water",
@@ -2144,7 +2149,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 452,
+      "Progressed": 453,
       "Completed": 0
     }
   ],
@@ -2152,8 +2157,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:06:28.5374256+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:08:06.1087862+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.0953028+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:59:22.5733962+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:06:28.5375349+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:00:40.5681128+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:08:06.1088697+00:00"
 }

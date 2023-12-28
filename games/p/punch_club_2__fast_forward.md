@@ -55,23 +55,23 @@
 | Absolute Champion! | 31.00% | ~152 |
 | Undercover robot | 31.00% | ~152 |
 | Problems of cyborgs | 30.00% | ~147 |
+| Not little hacker | 30.00% | ~147 |
 | The lonesome road | 29.00% | ~142 |
 | Family comes first | 29.00% | ~142 |
-| Not little hacker | 29.00% | ~142 |
 | Careerist | 29.00% | ~142 |
+| Anyone can resist | 29.00% | ~142 |
 | Your own way | 29.00% | ~142 |
 | Trap disarmed | 28.00% | ~137 |
 | Another world | 28.00% | ~137 |
 | Keep nature safe | 28.00% | ~137 |
 | Key memories | 28.00% | ~137 |
 | The last bell ring | 28.00% | ~137 |
-| Anyone can resist | 28.00% | ~137 |
 | The heart of the Resistance | 28.00% | ~137 |
 | Better cooking at home | 26.00% | ~127 |
 | The only right decision | 26.00% | ~127 |
 | Silver’s past | 25.00% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 490 (Ranked 341)  
+Progressed: 490 (Ranked 342)  
 Completed: 9 (1.84%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |

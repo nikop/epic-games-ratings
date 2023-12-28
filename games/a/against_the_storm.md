@@ -8,9 +8,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | Abandoned Settlement | 7.00% | ~1,367 |
 | Overgrown Library | 7.00% | ~1,367 |
-| Taking Action | 6.00% | ~1,171 |
-| No Deaths | 6.00% | ~1,171 |
-| Petrified Necropolis | 6.00% | ~1,171 |
+| Taking Action | 6.00% | ~1,172 |
+| No Deaths | 6.00% | ~1,172 |
+| Petrified Necropolis | 6.00% | ~1,172 |
 | First Real Expedition | 5.00% | ~976 |
 | The Marshlands | 5.00% | ~976 |
 | Gathering Storm | 5.00% | ~976 |
@@ -24,19 +24,19 @@ Number of Ratings: 1,845  (23.09.2022)
 | Royal Outpost | 3.00% | ~586 |
 | Watchtower | 3.00% | ~586 |
 | Untamed Wilds | 3.00% | ~586 |
-| Homesick | 2.00% | ~390 |
-| Ruined Armory | 2.00% | ~390 |
-| Bandit Camp | 2.00% | ~390 |
-| Barren Lands | 2.00% | ~390 |
-| Ancient Battleground | 2.00% | ~390 |
-| Levitating Monument | 2.00% | ~390 |
-| Monastery of the Holy Flame | 2.00% | ~390 |
-| Lost Colonies | 2.00% | ~390 |
-| Statue of the Forefathers | 2.00% | ~390 |
-| Corrosive Torrent | 2.00% | ~390 |
-| Cursed Lands | 2.00% | ~390 |
-| A Real Challenge | 2.00% | ~390 |
-| Trade Baron | 2.00% | ~390 |
+| Homesick | 2.00% | ~391 |
+| Ruined Armory | 2.00% | ~391 |
+| Bandit Camp | 2.00% | ~391 |
+| Barren Lands | 2.00% | ~391 |
+| Ancient Battleground | 2.00% | ~391 |
+| Levitating Monument | 2.00% | ~391 |
+| Monastery of the Holy Flame | 2.00% | ~391 |
+| Lost Colonies | 2.00% | ~391 |
+| Statue of the Forefathers | 2.00% | ~391 |
+| Corrosive Torrent | 2.00% | ~391 |
+| Cursed Lands | 2.00% | ~391 |
+| A Real Challenge | 2.00% | ~391 |
+| Trade Baron | 2.00% | ~391 |
 | Serving Ale | 1.00% | ~195 |
 | Against All Odds | 1.00% | ~195 |
 | Sparkdew Crystals | 1.00% | ~195 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,522 (Ranked 150)  
+Progressed: 19,526 (Ranked 151)  
 Completed: 36 (0.18%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,10 +318,10 @@ Completed: 36 (0.18%) (Ranked 278)
 | 2023-12-25 | 19,247 | 38 |
 | 2023-12-26 | 19,350 | 38 |
 | 2023-12-27 | 19,458 | 38 |
-| 2023-12-28 | 19,522 | 36 |
+| 2023-12-28 | 19,526 | 36 |
 ## Awards
 Max (Quickly Understood Controls): 446  (Ranked 228)  
-Sum: 3,300 (Ranked 176)  
+Sum: 3,301 (Ranked 176)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
@@ -331,7 +331,7 @@ Diff (max vs sum): 52
 | This game is Extremely Fun | 416 |
 | This game is Highly Recommended | 395 |
 | This game has Unique Visuals | 336 |
-| This game has Amazing Storytelling | 324 |
+| This game has Amazing Storytelling | 325 |
 | This game has Amazing Characters | 291 |
 | This game has Obsessive Gameplay | 254 |
 | This game has a Creative Community | 216 |
@@ -605,4 +605,4 @@ Diff (max vs sum): 52
 | 2023-12-25 | 4.82 | - | 444 | 3,291 |
 | 2023-12-26 | 4.82 | - | 444 | 3,295 |
 | 2023-12-27 | 4.82 | - | 445 | 3,297 |
-| 2023-12-28 | 4.82 | - | 446 | 3,300 |
+| 2023-12-28 | 4.82 | - | 446 | 3,301 |

@@ -168,6 +168,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Laughingstock | 0.10% | ~486 |
 | Lazarus | 0.10% | ~486 |
 | Lessons of Hemmingstedt | 0.10% | ~486 |
+| Let It Go! | 0.10% | ~486 |
 | The Levant Turnabout | 0.10% | ~486 |
 | Liberty or Death | 0.10% | ~486 |
 | Lion of the North | 0.10% | ~486 |
@@ -337,7 +338,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Jihad | 0.00% | ~0 |
 | Knights of the Caribbean | 0.00% | ~0 |
 | Kuban Cigars | 0.00% | ~0 |
-| Let It Go! | 0.00% | ~0 |
 | Mass Production | 0.00% | ~0 |
 | Meissner Porcelain | 0.00% | ~0 |
 | New, New Deli | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 486,379 (Ranked 40)  
+Progressed: 486,426 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -622,7 +622,7 @@ Completed: 1 (0.00%) (Ranked 389)
 | 2023-12-25 | 484,143 | 1 |
 | 2023-12-26 | 484,953 | 1 |
 | 2023-12-27 | 485,786 | 1 |
-| 2023-12-28 | 486,379 | 1 |
+| 2023-12-28 | 486,426 | 1 |
 ## Awards
 Max (Educational): 7,588  (Ranked 54)  
 Sum: 62,582 (Ranked 24)  

@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,887 |
-| Life is your teacher | 4.00% | ~29,887 |
-| The Assault | 3.00% | ~22,415 |
-| Lightning Hands | 3.00% | ~22,415 |
+| The Old Grandmaster | 4.00% | ~29,888 |
+| Life is your teacher | 4.00% | ~29,888 |
+| The Assault | 3.00% | ~22,416 |
+| Lightning Hands | 3.00% | ~22,416 |
 | The Hateful Pole Fighter | 2.00% | ~14,944 |
 | A Lady's Blood in the Snow | 2.00% | ~14,944 |
 | Stuntmaster | 2.00% | ~14,944 |
@@ -30,14 +30,14 @@ Number of Ratings: 9,492  (23.09.2022)
 | Project Arena | 1.00% | ~565 |
 | Scareless | 0.90% | ~6,725 |
 | Kung-Fu Tussle | 0.90% | ~6,725 |
-| Dance of the Praying Mantis | 0.80% | ~5,977 |
-| Fight the way you practice | 0.70% | ~395 |
+| Dance of the Praying Mantis | 0.80% | ~5,978 |
+| Fight the way you practice | 0.70% | ~396 |
 | Martial Hub | 0.60% | ~339 |
 | Muk Yan Master | 0.50% | ~3,736 |
 | Tiger on Fire | 0.50% | ~3,736 |
 | Source of Flying Daggers | 0.50% | ~3,736 |
 | Detective Story | 0.50% | ~3,736 |
-| Bloody Sport | 0.50% | ~282 |
+| Bloody Sport | 0.50% | ~283 |
 | Iron Money | 0.40% | ~2,989 |
 | Legendary Talismans of Wuxing | 0.40% | ~2,989 |
 | Prodigal Child | 0.40% | ~2,989 |
@@ -46,7 +46,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The best strikes are the ones we avoid | 0.40% | ~226 |
 | The Pit Protector | 0.30% | ~2,242 |
 | Come Snap With Me | 0.30% | ~2,242 |
-| Deadly Venom | 0.30% | ~169 |
+| Deadly Venom | 0.30% | ~170 |
 | Drunken Fighter | 0.20% | ~1,494 |
 | Martial Artist | 0.20% | ~1,494 |
 | Knowledge Greed | 0.20% | ~1,494 |
@@ -59,15 +59,15 @@ Number of Ratings: 9,492  (23.09.2022)
 | Master of the Flying Assassins | 0.20% | ~113 |
 | Beatmaker | 0.20% | ~113 |
 | Warriors from the Mountain | 0.10% | ~747 |
-| Secure, Protect, Leave | 0.10% | ~56 |
-| Crouching Tiger | 0.10% | ~56 |
-| Hidden Dragon | 0.10% | ~56 |
-| Here Cometh the Iceman | 0.10% | ~56 |
-| Fighter in the Pond | 0.10% | ~56 |
-| Bonus Stage | 0.10% | ~56 |
-| A Bit Of Everything, Simultaneously | 0.10% | ~56 |
+| Secure, Protect, Leave | 0.10% | ~57 |
+| Crouching Tiger | 0.10% | ~57 |
+| Hidden Dragon | 0.10% | ~57 |
+| Here Cometh the Iceman | 0.10% | ~57 |
+| Fighter in the Pond | 0.10% | ~57 |
+| Bonus Stage | 0.10% | ~57 |
+| A Bit Of Everything, Simultaneously | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 747,181 (Ranked 23)  
+Progressed: 747,202 (Ranked 23)  
 Completed: 12,967 (1.74%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,18 +319,18 @@ Completed: 12,967 (1.74%) (Ranked 141)
 | 2023-12-25 | 744,462 | 12,966 |
 | 2023-12-26 | 745,555 | 12,967 |
 | 2023-12-27 | 746,407 | 12,967 |
-| 2023-12-28 | 747,181 | 12,967 |
+| 2023-12-28 | 747,202 | 12,967 |
 ## Awards
 Max (Great Boss Battles): 7,028  (Ranked 55)  
-Sum: 12,449 (Ranked 84)  
+Sum: 12,454 (Ranked 84)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,028 |
 | This game has Diverse Characters | 685 |
-| This game has Challenging Combat | 631 |
+| This game has Challenging Combat | 633 |
 | This game has Amazing Storytelling | 611 |
-| This game has Amazing Characters | 597 |
+| This game has Amazing Characters | 600 |
 | This game is Highly Recommended | 596 |
 | This game has Quickly Understood Controls | 592 |
 | This game is Extremely Fun | 577 |
@@ -685,4 +685,4 @@ Diff (max vs sum): -29
 | 2023-12-25 | 4.82 | - | 7,010 | 12,297 |
 | 2023-12-26 | 4.82 | - | 7,018 | 11,874 |
 | 2023-12-27 | 4.82 | - | 7,028 | 11,888 |
-| 2023-12-28 | 4.82 | - | 7,028 | 12,449 |
+| 2023-12-28 | 4.82 | - | 7,028 | 12,454 |

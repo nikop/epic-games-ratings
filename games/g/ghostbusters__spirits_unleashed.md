@@ -11,10 +11,10 @@ Rating: 4.50 (Ranked 608)
 | Discovery | 6.00% | ~1,971 |
 | Solo Capture | 6.00% | ~1,971 |
 | Swift Rift Removers | 6.00% | ~1,971 |
-| I collect Spores, Molds, and Fungi | 5.00% | ~1,642 |
-| Fully Upgraded | 5.00% | ~1,642 |
-| Teamwork | 5.00% | ~1,642 |
-| Vaporous Expansion | 5.00% | ~1,642 |
+| I collect Spores, Molds, and Fungi | 5.00% | ~1,643 |
+| Fully Upgraded | 5.00% | ~1,643 |
+| Teamwork | 5.00% | ~1,643 |
+| Vaporous Expansion | 5.00% | ~1,643 |
 | Clutch Capture | 4.00% | ~1,314 |
 | Cultured | 4.00% | ~1,314 |
 | Daily Dose | 4.00% | ~1,314 |
@@ -40,12 +40,12 @@ Rating: 4.50 (Ranked 608)
 | Stunner | 2.00% | ~657 |
 | Tobin's Prodigy | 2.00% | ~657 |
 | Welcome to the Crew | 2.00% | ~657 |
-| Diabolical | 1.00% | ~328 |
-| Fragile Panes | 1.00% | ~328 |
-| Liability | 1.00% | ~328 |
-| Rivalry | 1.00% | ~328 |
-| Surprise! | 1.00% | ~328 |
-| Terrifying | 1.00% | ~328 |
+| Diabolical | 1.00% | ~329 |
+| Fragile Panes | 1.00% | ~329 |
+| Liability | 1.00% | ~329 |
+| Rivalry | 1.00% | ~329 |
+| Surprise! | 1.00% | ~329 |
+| Terrifying | 1.00% | ~329 |
 | Therapeutic | 0.80% | ~263 |
 | Rift Seeker | 0.60% | ~197 |
 | Master Collector | 0.50% | ~164 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 608)
 | Ultimate Defense | 0.20% | ~66 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,850 (Ranked 133)  
+Progressed: 32,851 (Ranked 133)  
 Completed: 70 (0.21%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,17 +309,17 @@ Completed: 70 (0.21%) (Ranked 271)
 | 2023-12-25 | 32,706 | 70 |
 | 2023-12-26 | 32,761 | 70 |
 | 2023-12-27 | 32,821 | 70 |
-| 2023-12-28 | 32,850 | 70 |
+| 2023-12-28 | 32,851 | 70 |
 ## Awards
 Max (Great for Beginners): 325  (Ranked 253)  
-Sum: 2,933 (Ranked 182)  
+Sum: 2,934 (Ranked 182)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 325 |
 | This game is Great for Quick Sessions | 322 |
 | This game has Diverse Characters | 311 |
-| This game has Amazing Storytelling | 291 |
+| This game has Amazing Storytelling | 292 |
 | This game is Highly Recommended | 291 |
 | This game has Competitive Players | 286 |
 | This game is Relaxing | 284 |
@@ -580,3 +580,4 @@ Diff (max vs sum): 71
 | 2023-12-25 | 4.50 | 325 | 2,926 |
 | 2023-12-26 | 4.50 | 325 | 2,929 |
 | 2023-12-27 | 4.50 | 325 | 2,933 |
+| 2023-12-28 | 4.50 | 325 | 2,934 |

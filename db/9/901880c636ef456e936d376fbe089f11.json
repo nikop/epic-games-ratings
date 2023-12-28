@@ -2,9 +2,9 @@
   "ID": "901880c636ef456e936d376fbe089f11",
   "Name": "Coffee Talk Episode 2 - Hibiscus and Butterfly",
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
-  "Ranking_EOS_Progress": 454,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_Progress": 455,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 375,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 131,
+  "EOS_Progressed": 132,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -674,6 +674,11 @@
       "Time": "2023-12-28T08:04:54.943171+00:00",
       "NumProgressed": 131,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T19:06:30.8371314+00:00",
+      "NumProgressed": 132,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -685,7 +690,7 @@
       "Name": "Barista Trainee",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_25_DRINK_CHALLENGEMODE",
@@ -739,15 +744,15 @@
       "ID": "ACH_BLOODISH_RED",
       "SetID": "8h8m55b",
       "Name": "Blood(ish) Red",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_BREW_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "First Brew",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 5,
       "UsersEstimate": 110
     },
@@ -757,7 +762,7 @@
       "Name": "It\u0027s a masterpiece!",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_CAT_SHELTER",
@@ -771,9 +776,9 @@
       "ID": "ACH_CHILDS_PLAY",
       "SetID": "8h8m55b",
       "Name": "Child\u2019s Play",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_COLD_SHOULDERS",
@@ -837,7 +842,7 @@
       "Name": "\u201CFive Stars!\u201D",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_GHOSTED",
@@ -883,17 +888,17 @@
       "ID": "ACH_HYDE_LEIBOVITZ",
       "SetID": "8h8m55b",
       "Name": "Hyde Leibovitz",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_JUST_MARRIED",
       "SetID": "8h8m55b",
       "Name": "Just Married",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_LISTEN_ALL_SONG",
@@ -909,7 +914,7 @@
       "Name": "Local Favorite",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_MASTER_PURLOINER",
@@ -917,7 +922,7 @@
       "Name": "Master Purloiner",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_NEW_GAME_FIRST_TIME",
@@ -949,7 +954,7 @@
       "Name": "\u201COverflowing Warmth: CBAW\u201D",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_REMEMBRANCE",
@@ -957,7 +962,7 @@
       "Name": "Remembrance",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_SAVED100",
@@ -1011,9 +1016,9 @@
       "ID": "ACH_TRASH_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Let me start over",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_TRUE_FAN",
@@ -1108,14 +1113,14 @@
     {
       "ID": "8h8m55b",
       "IsBase": true,
-      "Progressed": 131,
+      "Progressed": 132,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:05:19.2003997+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:06:30.8371311+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:53.6877972+00:00",
-  "LastUpdate_Ratings": "2023-12-28T18:00:07.5717671+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:05:19.20047+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:01:46.4403005+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:06:30.8371825+00:00"
 }

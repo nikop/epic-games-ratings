@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 90.00% | ~47 |
-| Suicide squad | 54.00% | ~28 |
-| Train hard, fight easy | 29.00% | ~15 |
-| Under cover | 29.00% | ~15 |
-| First blood | 29.00% | ~15 |
+| First success | 89.00% | ~47 |
+| Suicide squad | 53.00% | ~28 |
+| Train hard, fight easy | 28.00% | ~15 |
+| Under cover | 28.00% | ~15 |
+| First blood | 28.00% | ~15 |
 | Royal blessing | 25.00% | ~13 |
 | All for one! | 23.00% | ~12 |
 | A hidden snake | 21.00% | ~11 |
@@ -22,9 +22,9 @@
 | Berkanan Borgia | 13.00% | ~7 |
 | Rage | 13.00% | ~7 |
 | Trial by cold | 13.00% | ~7 |
-| The champion of the arena | 12.00% | ~6 |
-| Stronger than Gellian steel | 10.00% | ~5 |
-| Protect the Healer! | 10.00% | ~5 |
+| The champion of the arena | 11.00% | ~6 |
+| Stronger than Gellian steel | 9.00% | ~5 |
+| Protect the Healer! | 9.00% | ~5 |
 | For the greater good | 8.00% | ~4 |
 | Collector | 8.00% | ~4 |
 | Overplay the rogue | 8.00% | ~4 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52 (Ranked 539)  
+Progressed: 53 (Ranked 538)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 49 | 0 |
 | 2023-12-25 | 50 | 0 |
 | 2023-12-27 | 51 | 0 |
-| 2023-12-28 | 52 | 0 |
+| 2023-12-28 | 53 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

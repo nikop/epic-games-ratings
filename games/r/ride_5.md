@@ -1,21 +1,21 @@
 # RIDE 5
 [Store](https://store.epicgames.com/en-US/p/ride-5)  
 [View Rawdata](../../db/r/ride_5.json)  
-Rating: 4.48 (Ranked 644)  
+Rating: 4.48 (Ranked 645)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eat My Dust | 48.00% | ~1,470 |
 | First Love | 45.00% | ~1,378 |
 | Clean Race | 43.00% | ~1,317 |
-| Hear That Roar! | 41.00% | ~1,255 |
+| Hear That Roar! | 41.00% | ~1,256 |
 | Rivals to the End | 30.00% | ~919 |
 | Bitter Rivalry | 29.00% | ~888 |
-| Champagne Spray | 28.00% | ~857 |
+| Champagne Spray | 28.00% | ~858 |
 | We're Going to Need a Bigger Garage | 26.00% | ~796 |
 | Quick Pit Stop | 21.00% | ~643 |
-| Restored and Ready | 20.00% | ~612 |
-| I Want One Too! | 20.00% | ~612 |
+| Restored and Ready | 20.00% | ~613 |
+| I Want One Too! | 20.00% | ~613 |
 | Legendary!!! | 19.00% | ~582 |
 | Go-Faster Stripes | 17.00% | ~521 |
 | I'm Here Too! | 15.00% | ~459 |
@@ -24,8 +24,8 @@ Rating: 4.48 (Ranked 644)
 | Stamina Star | 8.00% | ~245 |
 | Evangelist | 6.00% | ~184 |
 | Make It Your Own! | 5.00% | ~153 |
-| Cherry Blossom and Temples | 4.00% | ~122 |
-| The Road to Liberty | 4.00% | ~122 |
+| Cherry Blossom and Temples | 4.00% | ~123 |
+| The Road to Liberty | 4.00% | ~123 |
 | Spoilt for Choice | 3.00% | ~92 |
 | La Dolce Vita | 3.00% | ~92 |
 | Romantic Races | 3.00% | ~92 |
@@ -55,7 +55,7 @@ Rating: 4.48 (Ranked 644)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,062 (Ranked 223)  
+Progressed: 3,063 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 2,986 | 0 |
 | 2023-12-26 | 3,019 | 0 |
 | 2023-12-27 | 3,044 | 0 |
-| 2023-12-28 | 3,062 | 0 |
+| 2023-12-28 | 3,063 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

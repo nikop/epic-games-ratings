@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -167,9 +167,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16012,
+  "EOS_Progressed": 16013,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 433,
+  "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5142,6 +5142,11 @@
       "Time": "2023-12-28T18:09:14.3788534+00:00",
       "NumProgressed": 16012,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-28T19:10:02.7407848+00:00",
+      "NumProgressed": 16013,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -5186,7 +5191,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12009
+      "UsersEstimate": 12010
     },
     {
       "ID": "ACH_AE_14",
@@ -5226,7 +5231,7 @@
       "Name": "Crime Fighter",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "ACH_AE_19",
@@ -5240,9 +5245,9 @@
       "ID": "ACH_AE_2",
       "SetID": "ck3465",
       "Name": "Back to School",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3683
+      "UsersEstimate": 3843
     },
     {
       "ID": "ACH_AE_20",
@@ -5394,7 +5399,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1921
+      "UsersEstimate": 1922
     },
     {
       "ID": "ACH_AE_6",
@@ -5433,7 +5438,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16012,
+      "Progressed": 16013,
       "Completed": 15
     }
   ],
@@ -5441,8 +5446,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-27T16:00:31.0909826+00:00",
-  "LastChanged_Achievements": "2023-12-28T18:09:14.378853+00:00",
+  "LastChanged_Achievements": "2023-12-28T19:10:02.7407845+00:00",
   "LastUpdate_AppInfo": "2023-12-26T18:57:07.3435183+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:59:43.0491579+00:00",
-  "LastUpdate_Achievements": "2023-12-28T18:09:14.3789187+00:00"
+  "LastUpdate_Ratings": "2023-12-28T19:01:10.5538677+00:00",
+  "LastUpdate_Achievements": "2023-12-28T19:10:02.7408296+00:00"
 }
