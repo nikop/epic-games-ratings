@@ -39,7 +39,7 @@
 | 37 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.16% |
 | 38 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 39 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
-| 40 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.22% |
+| 40 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.18% |
 | 41 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
 | 42 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 43 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.18% |
@@ -54,7 +54,7 @@
 | 52 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.76% |
 | 52 | [Ravenlok](games/r/ravenlok.md) | 7.76% |
 | 54 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 54 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.69% |
+| 55 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.68% |
 | 56 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.47% |
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 58 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 7.41% |
@@ -70,7 +70,7 @@
 | 67 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 6.25% |
 | 69 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
 | 70 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.13% |
-| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.99% |
+| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.98% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.80% |
 | 73 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 74 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 5.36% |
@@ -121,7 +121,7 @@
 | 119 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 120 | [Time on Frog Island](games/t/time_on_frog_island.md) | 2.70% |
 | 121 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.69% |
-| 122 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.65% |
+| 122 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.64% |
 | 123 | [Mega City Force](games/m/mega_city_police.md) | 2.63% |
 | 124 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.56% |
 | 125 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -129,8 +129,8 @@
 | 127 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.47% |
 | 128 | [Night Book](games/n/night_book.md) | 2.42% |
 | 129 | [Lamentum](games/l/lamentum.md) | 2.39% |
-| 130 | [Bloodshore](games/b/bloodshore.md) | 2.35% |
 | 130 | [Destiny 2](games/d/destiny_2.md) | 2.35% |
+| 131 | [Bloodshore](games/b/bloodshore.md) | 2.34% |
 | 132 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.29% |
 | 132 | [FORECLOSED](games/f/foreclosed.md) | 2.29% |
 | 134 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.04% |
@@ -167,8 +167,8 @@
 | 165 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.14% |
 | 166 | [Adios](games/a/adios.md) | 1.10% |
 | 166 | [Lemon Cake](games/l/lemon_cake.md) | 1.10% |
-| 168 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.05% |
-| 169 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.04% |
+| 168 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
+| 168 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.04% |
 | 170 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.03% |
 | 171 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.02% |
 | 172 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.01% |
@@ -262,10 +262,10 @@
 | 259 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.27% |
 | 261 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.26% |
 | 261 | [Filament](games/f/filament.md) | 0.26% |
+| 261 | [Remnant 2](games/r/remnant_2.md) | 0.26% |
 | 261 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.26% |
-| 264 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.25% |
-| 264 | [GRIME](games/g/grime.md) | 0.25% |
-| 264 | [Remnant 2](games/r/remnant_2.md) | 0.25% |
+| 265 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.25% |
+| 265 | [GRIME](games/g/grime.md) | 0.25% |
 | 267 | [Aegis Descent](games/a/aegis_descent.md) | 0.23% |
 | 267 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.23% |
 | 267 | [Shop Titans](games/s/shop_titans.md) | 0.23% |
@@ -293,13 +293,13 @@
 | 290 | [Tangles](games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 0.15% |
 | 290 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.15% |
 | 293 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.14% |
-| 293 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.14% |
 | 293 | [RAILGRADE](games/r/railgrade.md) | 0.14% |
 | 293 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.14% |
-| 297 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
-| 297 | [Fall Guys](games/f/fall_guys.md) | 0.13% |
-| 297 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
-| 297 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.13% |
+| 296 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
+| 296 | [Fall Guys](games/f/fall_guys.md) | 0.13% |
+| 296 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
+| 296 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.13% |
+| 296 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.13% |
 | 301 | [BLACKTAIL](games/b/blacktail.md) | 0.12% |
 | 301 | [Outward Definitive Edition](games/o/outward.md) | 0.12% |
 | 301 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
