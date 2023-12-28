@@ -1,32 +1,32 @@
 # World of Warships
 [Store](https://store.epicgames.com/en-US/p/world-of-warships)  
 [View Rawdata](../../db/w/world_of_warships.json)  
-Rating: 4.41 (Ranked 741)  
+Rating: 4.41 (Ranked 740)  
 Number of Ratings: 4,733  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 77.00% | ~59,595 |
-| Initial Capital | 63.00% | ~48,759 |
-| Moneybags | 41.00% | ~31,732 |
-| Junior Supply Officer | 41.00% | ~31,732 |
-| Naval Warfare. Arson | 31.00% | ~23,993 |
-| Naval Warfare. Ramming | 30.00% | ~23,219 |
-| Amateur | 28.00% | ~21,671 |
-| Naval Warfare. Tactics | 28.00% | ~21,671 |
-| Naval Constructor | 27.00% | ~20,897 |
-| Naval Warfare. Weaponry Basics | 20.00% | ~15,479 |
-| Naval Warfare. Lucky Shot | 18.00% | ~13,931 |
-| Naval Warfare. Flooding | 17.00% | ~13,157 |
-| Battle Hero | 14.00% | ~10,835 |
-| Business Magnate | 14.00% | ~10,835 |
-| Warrior | 11.00% | ~8,514 |
-| Supply Officer | 11.00% | ~8,514 |
-| Smooth Supply | 11.00% | ~8,514 |
-| Veteran | 6.00% | ~4,644 |
-| Legend of the Seas | 3.00% | ~2,322 |
-| Chief Naval Architect | 3.00% | ~2,322 |
-| Shield | 3.00% | ~2,322 |
+| Junior Naval Designer | 77.00% | ~59,616 |
+| Initial Capital | 63.00% | ~48,777 |
+| Moneybags | 41.00% | ~31,744 |
+| Junior Supply Officer | 41.00% | ~31,744 |
+| Naval Warfare. Arson | 31.00% | ~24,001 |
+| Naval Warfare. Ramming | 30.00% | ~23,227 |
+| Amateur | 28.00% | ~21,679 |
+| Naval Warfare. Tactics | 28.00% | ~21,679 |
+| Naval Constructor | 27.00% | ~20,904 |
+| Naval Warfare. Weaponry Basics | 20.00% | ~15,485 |
+| Naval Warfare. Lucky Shot | 18.00% | ~13,936 |
+| Naval Warfare. Flooding | 17.00% | ~13,162 |
+| Battle Hero | 14.00% | ~10,839 |
+| Business Magnate | 14.00% | ~10,839 |
+| Warrior | 11.00% | ~8,517 |
+| Supply Officer | 11.00% | ~8,517 |
+| Smooth Supply | 11.00% | ~8,517 |
+| Veteran | 6.00% | ~4,645 |
+| Legend of the Seas | 3.00% | ~2,323 |
+| Chief Naval Architect | 3.00% | ~2,323 |
+| Shield | 3.00% | ~2,323 |
 | Senior Supply Officer | 2.00% | ~1,548 |
 | Weather Beaten | 2.00% | ~1,548 |
 | Important Missions | 2.00% | ~1,548 |
@@ -38,8 +38,8 @@ Number of Ratings: 4,733  (23.09.2022)
 | Exterminator | 1.00% | ~774 |
 | American Cruisers | 1.00% | ~774 |
 | Old-Timer | 0.90% | ~697 |
-| Secret Instructions | 0.60% | ~464 |
-| Raider | 0.60% | ~464 |
+| Secret Instructions | 0.60% | ~465 |
+| Raider | 0.60% | ~465 |
 | Experienced One | 0.40% | ~310 |
 | Ravager | 0.30% | ~232 |
 | "Yamamoto Isoroku" | 0.30% | ~232 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~77 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,396 (Ranked 108)  
+Progressed: 77,424 (Ranked 108)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,21 +188,22 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 75,641 | 0 |
 | 2023-12-26 | 76,535 | 0 |
 | 2023-12-27 | 77,396 | 0 |
+| 2023-12-28 | 77,424 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,646  (Ranked 129)  
-Sum: 13,779 (Ranked 77)  
+Sum: 13,789 (Ranked 77)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 1,646 |
 | This game is Relaxing | 1,644 |
 | This game has Challenging Combat | 1,618 |
-| This game is Extremely Fun | 1,592 |
+| This game is Extremely Fun | 1,596 |
 | This game has Competitive Players | 1,591 |
 | This game is Highly Recommended | 1,591 |
 | This game has Realistic Visuals | 1,440 |
 | This game has Amazing Storytelling | 1,372 |
-| This game has a Competitive Community | 1,285 |
+| This game has a Competitive Community | 1,291 |
 | This game has Amazing Characters | 942 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -556,4 +557,4 @@ Diff (max vs sum): 52
 | 2023-12-24 | 4.41 | - | 1,634 | 13,670 |
 | 2023-12-25 | 4.41 | - | 1,634 | 13,700 |
 | 2023-12-26 | 4.41 | - | 1,639 | 13,736 |
-| 2023-12-27 | 4.41 | - | 1,646 | 13,779 |
+| 2023-12-27 | 4.41 | - | 1,646 | 13,789 |

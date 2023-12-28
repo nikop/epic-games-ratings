@@ -6,40 +6,40 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 68.00% | ~128 |
-| Kaijuiced | 66.00% | ~124 |
-| Lie Back and Think of Albion | 60.00% | ~113 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~109 |
-| Yettisoned | 55.00% | ~103 |
-| I Look Up As I Walk to Takoshima | 54.00% | ~102 |
-| Perfect Probulator | 52.00% | ~98 |
-| Lobster Blisque | 49.00% | ~92 |
-| Pimp My Raid | 48.00% | ~90 |
-| Earthly Pleasures | 47.00% | ~88 |
-| Fly Me to the Moon Base | 44.00% | ~83 |
-| Ducks in a Row, Fish in a Barrel | 43.00% | ~81 |
-| Bodied Sattva | 35.00% | ~66 |
-| Freshly Squeezed | 34.00% | ~64 |
-| Upgreatest | 32.00% | ~60 |
-| Forbidden Donut | 31.00% | ~58 |
-| Furon Fashion | 25.00% | ~47 |
-| Deincarnated | 24.00% | ~45 |
-| Trans-Siberian Express | 24.00% | ~45 |
-| Rock of the Bay | 23.00% | ~43 |
-| Re-Return of the Clone of the Invasion II-2 | 21.00% | ~39 |
-| Arkvoodle Doodle | 16.00% | ~30 |
-| Ouch of Body Experience | 15.00% | ~28 |
-| Die Nasty | 15.00% | ~28 |
-| Mash Machine | 15.00% | ~28 |
-| If You Know What I Mean | 14.00% | ~26 |
-| Hidden Human Hive Harvest | 14.00% | ~26 |
-| Dusted | 14.00% | ~26 |
+| Shop Til They Drop | 68.00% | ~130 |
+| Kaijuiced | 65.00% | ~124 |
+| Lie Back and Think of Albion | 60.00% | ~115 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~111 |
+| Yettisoned | 55.00% | ~105 |
+| I Look Up As I Walk to Takoshima | 54.00% | ~103 |
+| Perfect Probulator | 52.00% | ~99 |
+| Lobster Blisque | 49.00% | ~94 |
+| Pimp My Raid | 49.00% | ~94 |
+| Earthly Pleasures | 47.00% | ~90 |
+| Fly Me to the Moon Base | 43.00% | ~82 |
+| Ducks in a Row, Fish in a Barrel | 43.00% | ~82 |
+| Bodied Sattva | 35.00% | ~67 |
+| Freshly Squeezed | 34.00% | ~65 |
+| Upgreatest | 32.00% | ~61 |
+| Forbidden Donut | 31.00% | ~59 |
+| Furon Fashion | 26.00% | ~50 |
+| Deincarnated | 24.00% | ~46 |
+| Trans-Siberian Express | 24.00% | ~46 |
+| Rock of the Bay | 23.00% | ~44 |
+| Re-Return of the Clone of the Invasion II-2 | 21.00% | ~40 |
+| Arkvoodle Doodle | 16.00% | ~31 |
+| Ouch of Body Experience | 16.00% | ~31 |
+| If You Know What I Mean | 15.00% | ~29 |
+| Die Nasty | 15.00% | ~29 |
+| Mash Machine | 15.00% | ~29 |
+| Hidden Human Hive Harvest | 14.00% | ~27 |
+| Dusted | 14.00% | ~27 |
 | Albion Bridge Is for Falling Down | 12.00% | ~23 |
 | Scuttled | 9.00% | ~17 |
-| Higher Than the Futen Zoku | 9.00% | ~17 |
 | PK Slam Dunk | 8.00% | ~15 |
+| Higher Than the Futen Zoku | 8.00% | ~15 |
 | Arty Facts | 7.00% | ~13 |
-| Path of the Furon | 5.00% | ~9 |
+| Path of the Furon | 5.00% | ~10 |
 | Cult Following | 4.00% | ~8 |
 | To Russia With Love | 4.00% | ~8 |
 | Transmitting From Sol-3 | 2.00% | ~4 |
@@ -47,8 +47,8 @@ Number of Ratings: 85  (23.09.2022)
 | Against All Odds | 2.00% | ~4 |
 | Steezy Down the Spine | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 188 (Ranked 420)  
-Completed: 2 (1.06%) (Ranked 168)  
+Progressed: 191 (Ranked 420)  
+Completed: 2 (1.05%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -62,6 +62,7 @@ Completed: 2 (1.06%) (Ranked 168)
 | 2023-12-25 | 161 | 1 |
 | 2023-12-26 | 176 | 2 |
 | 2023-12-27 | 188 | 2 |
+| 2023-12-28 | 191 | 2 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 501)  
 Sum: 34 (Ranked 525)  

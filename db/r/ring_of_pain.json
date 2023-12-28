@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3796,9 +3796,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 241847,
+  "EOS_Progressed": 241852,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 488,
+  "EOS_NewPlayers": 491,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29781,6 +29781,11 @@
       "Time": "2023-12-27T23:10:56.327546+00:00",
       "NumProgressed": 241847,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-28T00:10:54.608883+00:00",
+      "NumProgressed": 241852,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -29824,7 +29829,7 @@
       "Name": "First Steps",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2418
+      "UsersEstimate": 2419
     },
     {
       "ID": "CURSE1HP",
@@ -30536,7 +30541,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2418
+      "UsersEstimate": 2419
     },
     {
       "ID": "SPECIALROOMS10",
@@ -30895,13 +30900,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241847,
+      "Progressed": 241852,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3327,
+      "Progressed": 3332,
       "Completed": 413
     }
   ],
@@ -30909,8 +30914,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-27T23:00:02.6538244+00:00",
-  "LastChanged_Achievements": "2023-12-27T23:10:56.3275458+00:00",
+  "LastChanged_Achievements": "2023-12-28T00:10:54.6088827+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:00:02.653825+00:00",
-  "LastUpdate_Achievements": "2023-12-27T23:10:56.3278459+00:00"
+  "LastUpdate_Ratings": "2023-12-28T00:00:00.5411749+00:00",
+  "LastUpdate_Achievements": "2023-12-28T00:10:54.6091547+00:00"
 }

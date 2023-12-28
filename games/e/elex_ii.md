@@ -41,6 +41,7 @@ Number of Ratings: 124  (23.09.2022)
 | Defector | 0.90% | ~1 |
 | Outlaw | 0.90% | ~1 |
 | Destroyer | 0.90% | ~1 |
+| Hunter | 0.90% | ~1 |
 | Pack Rat | 0.00% | ~0 |
 | Drinker | 0.00% | ~0 |
 | Key Master | 0.00% | ~0 |
@@ -51,13 +52,12 @@ Number of Ratings: 124  (23.09.2022)
 | Toy Time | 0.00% | ~0 |
 | Legendary | 0.00% | ~0 |
 | Warrior | 0.00% | ~0 |
-| Hunter | 0.00% | ~0 |
 | Defender | 0.00% | ~0 |
 | Ruthless | 0.00% | ~0 |
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117 (Ranked 468)  
+Progressed: 117 (Ranked 469)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |

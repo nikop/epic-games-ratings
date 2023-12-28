@@ -309,9 +309,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2113,
+  "EOS_Progressed": 2114,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3434,6 +3434,11 @@
       "Time": "2023-12-27T23:03:48.0382273+00:00",
       "NumProgressed": 2113,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T00:03:53.3491984+00:00",
+      "NumProgressed": 2114,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3701,7 +3706,7 @@
       "Name": "Catch and Release",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "Achievement_035",
@@ -3795,9 +3800,9 @@
       "ID": "Achievement_048",
       "SetID": "6b34g18",
       "Name": "Bloody Initiate",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "Achievement_049",
@@ -3972,7 +3977,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2113,
+      "Progressed": 2114,
       "Completed": 0
     }
   ],
@@ -3980,8 +3985,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-25T01:47:06.1967746+00:00",
-  "LastChanged_Achievements": "2023-12-27T23:03:48.0382268+00:00",
+  "LastChanged_Achievements": "2023-12-28T00:03:53.349198+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:45.1864069+00:00",
-  "LastUpdate_Ratings": "2023-12-27T22:57:29.6935866+00:00",
-  "LastUpdate_Achievements": "2023-12-27T23:03:48.0383019+00:00"
+  "LastUpdate_Ratings": "2023-12-27T23:57:32.3846614+00:00",
+  "LastUpdate_Achievements": "2023-12-28T00:03:53.3492877+00:00"
 }

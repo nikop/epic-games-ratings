@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 855,
+  "EOS_Progressed": 856,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
@@ -2295,6 +2295,11 @@
       "Time": "2023-12-27T20:08:51.6854545+00:00",
       "NumProgressed": 855,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-28T00:10:01.7287583+00:00",
+      "NumProgressed": 856,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 20,
@@ -2306,7 +2311,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "CHOICES_MATTER",
@@ -2354,7 +2359,7 @@
       "Name": "The Delivery",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "ENDING_6",
@@ -2378,7 +2383,7 @@
       "Name": "Even Tempered",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -2394,7 +2399,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "GOOD_KARMA",
@@ -2458,14 +2463,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 855,
+      "Progressed": 856,
       "Completed": 10
     }
   ],
@@ -2473,8 +2478,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-27T23:10:02.7624074+00:00",
+  "LastChanged_Achievements": "2023-12-28T00:10:01.728758+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:26.7088663+00:00",
-  "LastUpdate_Ratings": "2023-12-27T22:58:51.9810347+00:00",
-  "LastUpdate_Achievements": "2023-12-27T23:10:02.7624304+00:00"
+  "LastUpdate_Ratings": "2023-12-27T23:58:51.9231579+00:00",
+  "LastUpdate_Achievements": "2023-12-28T00:10:01.7287812+00:00"
 }

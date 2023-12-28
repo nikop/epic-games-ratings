@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 460,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 425,
+  "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -786,9 +786,9 @@
       "ID": "Epic_Kill_1000000",
       "SetID": "ba1m2fc",
       "Name": "Easy Defeat",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Epic_Live_100000",
@@ -969,8 +969,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-12-27T23:07:39.7781003+00:00",
+  "LastChanged_Achievements": "2023-12-28T00:07:41.6767672+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:57.2904596+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:01:14.0914044+00:00",
-  "LastUpdate_Achievements": "2023-12-27T23:07:39.7781343+00:00"
+  "LastUpdate_Ratings": "2023-12-28T00:01:11.3979068+00:00",
+  "LastUpdate_Achievements": "2023-12-28T00:07:41.6767964+00:00"
 }

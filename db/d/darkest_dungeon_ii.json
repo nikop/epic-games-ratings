@@ -10138,10 +10138,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21156,
       "NumberOfAwardsMax": 7882
+    },
+    {
+      "Time": "2023-12-28T00:00:30.6294784+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21162,
+      "NumberOfAwardsMax": 7882
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21156,
+  "NumberOfAwards": 21162,
   "NumberOfAwardsMax": 7882,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10161,7 +10167,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1573
+      "Count": 1579
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10218,9 +10224,9 @@
       "Count": 1059
     }
   ],
-  "EOS_Progressed": 130259,
+  "EOS_Progressed": 130264,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1474,
+  "EOS_NewPlayers": 1476,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37113,6 +37119,11 @@
       "Time": "2023-12-27T23:10:01.149275+00:00",
       "NumProgressed": 130259,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T00:10:00.1379534+00:00",
+      "NumProgressed": 130264,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37132,7 +37143,7 @@
       "Name": "Serenity Now!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5210
+      "UsersEstimate": 5211
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -37276,7 +37287,7 @@
       "Name": "Not Today!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5210
+      "UsersEstimate": 5211
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -37284,7 +37295,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5210
+      "UsersEstimate": 5211
     },
     {
       "ID": "combat_kill_fanatics",
@@ -37324,7 +37335,7 @@
       "Name": "Meat and Greet",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5210
+      "UsersEstimate": 5211
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -37340,7 +37351,7 @@
       "Name": "Catch and Decease",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5210
+      "UsersEstimate": 5211
     },
     {
       "ID": "combat_kill_librarian",
@@ -37348,7 +37359,7 @@
       "Name": "Overdue Notice",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5210
+      "UsersEstimate": 5211
     },
     {
       "ID": "combat_kill_pillagers",
@@ -37364,7 +37375,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5210
+      "UsersEstimate": 5211
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -37420,7 +37431,7 @@
       "Name": "Rush Hour",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5210
+      "UsersEstimate": 5211
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -37444,7 +37455,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5210
+      "UsersEstimate": 5211
     },
     {
       "ID": "driving_distance_easy",
@@ -37660,7 +37671,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "combat_kill_collector",
@@ -37668,7 +37679,7 @@
       "Name": "This guy... again?",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -37706,9 +37717,9 @@
       "ID": "hero_story_complete_crusader",
       "SetID": "d3bcpc8",
       "Name": "Ploughshares to Swords",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 257
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -37716,7 +37727,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "quest_complete_crusader",
@@ -37755,21 +37766,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130259,
+      "Progressed": 130264,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5128,
+      "Progressed": 5133,
       "Completed": 811
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-27T23:00:31.1442655+00:00",
-  "LastChanged_Achievements": "2023-12-27T23:10:01.1492746+00:00",
+  "LastChanged": "2023-12-28T00:00:30.6294782+00:00",
+  "LastChanged_Achievements": "2023-12-28T00:10:00.137953+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:00:31.144266+00:00",
-  "LastUpdate_Achievements": "2023-12-27T23:10:01.1494544+00:00"
+  "LastUpdate_Ratings": "2023-12-28T00:00:30.6294789+00:00",
+  "LastUpdate_Achievements": "2023-12-28T00:10:00.1381366+00:00"
 }

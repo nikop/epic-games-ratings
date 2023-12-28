@@ -1,7 +1,7 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.53 (Ranked 552)  
+Rating: 4.53 (Ranked 553)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -20,8 +20,8 @@ Number of Ratings: 90  (23.09.2022)
 | I Look Up As I Walk to Takoshima | 19.00% | ~42 |
 | Freshly Squeezed | 17.00% | ~38 |
 | Perfect Probulator | 16.00% | ~36 |
+| Die Nasty | 15.00% | ~33 |
 | Transmitting From Sol-3 | 14.00% | ~31 |
-| Die Nasty | 14.00% | ~31 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 11.00% | ~24 |
 | Kaijuiced | 9.00% | ~20 |
 | Dusted | 9.00% | ~20 |
@@ -84,9 +84,9 @@ Completed: 1 (0.45%) (Ranked 224)
 | 2023-12-26 | 205 | 1 |
 | 2023-12-27 | 222 | 1 |
 ## Awards
-Max (Great Boss Battles): 36  (Ranked 488)  
+Max (Great Boss Battles): 36  (Ranked 489)  
 Sum: 36 (Ranked 521)  
-Diff (max vs sum): -33  
+Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 36 |

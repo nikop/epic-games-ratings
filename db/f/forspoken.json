@@ -2,7 +2,7 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 992,
+  "Ranking_Rating": 991,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 121,
@@ -535,9 +535,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 45433,
+  "EOS_Progressed": 45441,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 877,
+  "EOS_NewPlayers": 879,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16675,6 +16675,11 @@
       "Time": "2023-12-27T22:07:16.7920319+00:00",
       "NumProgressed": 45433,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T00:07:36.3135102+00:00",
+      "NumProgressed": 45441,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -16718,7 +16723,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -16734,7 +16739,7 @@
       "Name": "Attachments",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4998
+      "UsersEstimate": 4999
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -16878,7 +16883,7 @@
       "Name": "Leapfrogger",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3180
+      "UsersEstimate": 3181
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -16926,7 +16931,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3180
+      "UsersEstimate": 3181
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -16974,7 +16979,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3180
+      "UsersEstimate": 3181
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -16998,7 +17003,7 @@
       "Name": "Hell of a Run",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3180
+      "UsersEstimate": 3181
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -17022,7 +17027,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4543
+      "UsersEstimate": 4544
     },
     {
       "ID": "SPRING_ALL",
@@ -17109,22 +17114,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 45433,
+      "Progressed": 45441,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 10270,
-      "Completed": 10270
+      "Progressed": 10278,
+      "Completed": 10278
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-26T06:59:48.6579528+00:00",
-  "LastChanged_Achievements": "2023-12-27T23:07:34.4881012+00:00",
+  "LastChanged_Achievements": "2023-12-28T00:07:36.3135099+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.8849039+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:01:48.4156095+00:00",
-  "LastUpdate_Achievements": "2023-12-27T23:07:34.4881963+00:00"
+  "LastUpdate_Ratings": "2023-12-28T00:01:45.7929934+00:00",
+  "LastUpdate_Achievements": "2023-12-28T00:07:36.3136123+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1130,
+  "EOS_Progressed": 1131,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -3226,6 +3226,11 @@
       "Time": "2023-12-27T23:10:45.782371+00:00",
       "NumProgressed": 1130,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-28T00:10:44.1049228+00:00",
+      "NumProgressed": 1131,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3269,7 +3274,7 @@
       "Name": "Right On Time",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ClockworkCompletion1",
@@ -3285,7 +3290,7 @@
       "Name": "Like Clockwork",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ClovemaryGift",
@@ -3309,7 +3314,7 @@
       "Name": "Street Style",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "CultivairChests1",
@@ -3357,7 +3362,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3365,7 +3370,7 @@
       "Name": "The Betrayer",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -3373,7 +3378,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "GadgetCompletion1",
@@ -3549,7 +3554,7 @@
       "Name": "Golem Chaser",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "SkillCompletion1",
@@ -3557,7 +3562,7 @@
       "Name": "Rungs Was Right",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "SkillProgress1",
@@ -3653,14 +3658,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1130,
+      "Progressed": 1131,
       "Completed": 6
     }
   ],
@@ -3668,8 +3673,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-27T23:10:45.7823707+00:00",
+  "LastChanged_Achievements": "2023-12-28T00:10:44.1049225+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:00:13.4360467+00:00",
-  "LastUpdate_Achievements": "2023-12-27T23:10:45.7824138+00:00"
+  "LastUpdate_Ratings": "2023-12-28T00:00:12.2505347+00:00",
+  "LastUpdate_Achievements": "2023-12-28T00:10:44.1049823+00:00"
 }

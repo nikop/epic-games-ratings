@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -621,9 +621,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6359,
+  "EOS_Progressed": 6363,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 448,
+  "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9431,6 +9431,11 @@
       "Time": "2023-12-27T23:05:15.4752999+00:00",
       "NumProgressed": 6359,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-28T00:05:19.5263714+00:00",
+      "NumProgressed": 6363,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9442,7 +9447,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "10",
@@ -9554,7 +9559,7 @@
       "Name": "Realm Estate",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "23",
@@ -9562,7 +9567,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "24",
@@ -9570,7 +9575,7 @@
       "Name": "Secret Technique",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "25",
@@ -9610,7 +9615,7 @@
       "Name": "Stronger Together",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "3",
@@ -9658,7 +9663,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "35",
@@ -9696,9 +9701,9 @@
       "ID": "39",
       "SetID": "3aa2279",
       "Name": "Impenetrable Fortress",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 127
     },
     {
       "ID": "4",
@@ -9714,7 +9719,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "41",
@@ -9921,13 +9926,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6359,
+      "Progressed": 6363,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6359,
+      "Progressed": 6363,
       "Completed": 7
     }
   ],
@@ -9935,8 +9940,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-27T21:02:05.3548504+00:00",
-  "LastChanged_Achievements": "2023-12-27T23:05:15.4752995+00:00",
+  "LastChanged_Achievements": "2023-12-28T00:05:19.5263711+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:01:55.9873114+00:00",
-  "LastUpdate_Achievements": "2023-12-27T23:05:15.4753691+00:00"
+  "LastUpdate_Ratings": "2023-12-28T00:01:53.2619264+00:00",
+  "LastUpdate_Achievements": "2023-12-28T00:05:19.5264386+00:00"
 }

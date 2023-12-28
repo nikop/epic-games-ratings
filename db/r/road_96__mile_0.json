@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 575,
+  "EOS_Progressed": 576,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2047,6 +2047,11 @@
       "Time": "2023-12-27T19:10:39.8321816+00:00",
       "NumProgressed": 575,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-28T00:10:40.4595213+00:00",
+      "NumProgressed": 576,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -2074,7 +2079,7 @@
       "Name": "On the Road",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "findalltapes",
@@ -2130,7 +2135,7 @@
       "Name": "Souvenirs",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "scoreminrankrp1",
@@ -2154,7 +2159,7 @@
       "Name": "The Eye of the Storm",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "scoreminrankrv1",
@@ -2177,7 +2182,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 575,
+      "Progressed": 576,
       "Completed": 2
     }
   ],
@@ -2185,8 +2190,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-27T23:10:42.232741+00:00",
+  "LastChanged_Achievements": "2023-12-28T00:10:40.4595208+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:13.373144+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:01:06.204658+00:00",
-  "LastUpdate_Achievements": "2023-12-27T23:10:42.2327635+00:00"
+  "LastUpdate_Ratings": "2023-12-28T00:01:03.21062+00:00",
+  "LastUpdate_Achievements": "2023-12-28T00:10:40.4595396+00:00"
 }

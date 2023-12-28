@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 84.00% | ~66,328 |
-| Struck A Pose | 82.00% | ~64,749 |
-| Look At Him Go | 68.00% | ~53,694 |
-| On Rails Experience | 43.00% | ~33,954 |
-| A Daring Devil | 43.00% | ~33,954 |
-| Break the Bank | 33.00% | ~26,057 |
-| It Took Two | 29.00% | ~22,899 |
-| Bug Sized Relaxation | 13.00% | ~10,265 |
-| Plastic Prison Breakers | 13.00% | ~10,265 |
-| Terror Of The Seven Seas | 10.00% | ~7,896 |
-| Realize Your Art | 8.00% | ~6,317 |
-| Force Triangulated | 8.00% | ~6,317 |
-| Meditation Maestro | 7.00% | ~5,527 |
-| Snackosaurus | 6.00% | ~4,738 |
-| Platforming Prodigy | 6.00% | ~4,738 |
-| Lost And Found | 6.00% | ~4,738 |
-| Something Fishy | 6.00% | ~4,738 |
-| Mood Swing | 4.00% | ~3,158 |
+| Fried Friendship | 84.00% | ~66,342 |
+| Struck A Pose | 82.00% | ~64,763 |
+| Look At Him Go | 68.00% | ~53,706 |
+| On Rails Experience | 43.00% | ~33,961 |
+| A Daring Devil | 43.00% | ~33,961 |
+| Break the Bank | 33.00% | ~26,063 |
+| It Took Two | 29.00% | ~22,904 |
+| Bug Sized Relaxation | 13.00% | ~10,267 |
+| Plastic Prison Breakers | 13.00% | ~10,267 |
+| Terror Of The Seven Seas | 10.00% | ~7,898 |
+| Realize Your Art | 8.00% | ~6,318 |
+| Force Triangulated | 8.00% | ~6,318 |
+| Meditation Maestro | 7.00% | ~5,529 |
+| Snackosaurus | 6.00% | ~4,739 |
+| Platforming Prodigy | 6.00% | ~4,739 |
+| Lost And Found | 6.00% | ~4,739 |
+| Something Fishy | 6.00% | ~4,739 |
+| Mood Swing | 4.00% | ~3,159 |
 | Faraway Frequencies | 3.00% | ~2,369 |
-| Minigame Megalomania | 2.00% | ~1,579 |
+| Minigame Megalomania | 2.00% | ~1,580 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,962 (Ranked 105)  
+Progressed: 78,979 (Ranked 105)  
 Completed: 169 (0.21%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,3 +129,4 @@ Completed: 169 (0.21%) (Ranked 271)
 | 2023-12-25 | 74,395 | 159 |
 | 2023-12-26 | 76,760 | 163 |
 | 2023-12-27 | 78,962 | 169 |
+| 2023-12-28 | 78,979 | 169 |

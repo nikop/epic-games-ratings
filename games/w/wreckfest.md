@@ -26,7 +26,7 @@ Rating: 4.28 (Ranked 876)
 | Human Lover | 0.90% | ~4 |
 | Rocketeer | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 466 (Ranked 342)  
+Progressed: 467 (Ranked 342)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -41,6 +41,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 380 | 0 |
 | 2023-12-26 | 414 | 0 |
 | 2023-12-27 | 466 | 0 |
+| 2023-12-28 | 467 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

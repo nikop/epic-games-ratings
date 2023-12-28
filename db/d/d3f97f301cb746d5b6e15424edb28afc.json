@@ -2,7 +2,7 @@
   "ID": "d3f97f301cb746d5b6e15424edb28afc",
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
-  "Ranking_Rating": 552,
+  "Ranking_Rating": 553,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 257,
@@ -4120,9 +4120,9 @@
       "ID": "GSS_ACH_22_LOCKPICKING_02",
       "SetID": "5fn8ia4",
       "Name": "So Shady!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 611
+      "UsersEstimate": 625
     },
     {
       "ID": "GSS_ACH_23_LOCKPICKING_03",
@@ -4609,8 +4609,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-27T13:01:41.0592419+00:00",
-  "LastChanged_Achievements": "2023-12-27T23:08:05.6918302+00:00",
+  "LastChanged_Achievements": "2023-12-28T00:08:06.8438192+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:05.7719462+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:00:00.0738361+00:00",
-  "LastUpdate_Achievements": "2023-12-27T23:08:05.6919136+00:00"
+  "LastUpdate_Ratings": "2023-12-27T23:59:57.9254478+00:00",
+  "LastUpdate_Achievements": "2023-12-28T00:08:06.8439104+00:00"
 }

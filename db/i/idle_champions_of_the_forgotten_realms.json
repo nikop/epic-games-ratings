@@ -6,9 +6,9 @@
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 67,
-  "Ranking_EOS_Completed": 169,
+  "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9115,10 +9115,10 @@
       "Count": 3602
     }
   ],
-  "EOS_Progressed": 245531,
+  "EOS_Progressed": 245575,
   "EOS_Completed": 2567,
-  "EOS_NewPlayers": 3119,
-  "EOS_NewCompleters": 21,
+  "EOS_NewPlayers": 3148,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
@@ -37545,6 +37545,11 @@
       "Time": "2023-12-27T23:10:57.9621612+00:00",
       "NumProgressed": 245531,
       "NumCompleted": 2567
+    },
+    {
+      "Time": "2023-12-28T00:10:56.6733158+00:00",
+      "NumProgressed": 245575,
+      "NumCompleted": 2567
     }
   ],
   "TotalAchievements": 546,
@@ -37556,7 +37561,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4911
+      "UsersEstimate": 4912
     },
     {
       "ID": "objective_completed_10",
@@ -39228,7 +39233,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1965
     },
     {
       "ID": "objective_completed_34",
@@ -39698,9 +39703,9 @@
       "ID": "objective_completed_54",
       "SetID": "cc37lbc",
       "Name": "Exploring Port Nyanzaru",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 491
     },
     {
       "ID": "objective_completed_540",
@@ -41852,7 +41857,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "objective_completed_1562",
@@ -41868,7 +41873,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "objective_completed_598",
@@ -41884,7 +41889,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "objective_completed_678",
@@ -41908,7 +41913,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "objective_completed_865",
@@ -41916,28 +41921,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 211805,
+      "Progressed": 211849,
       "Completed": 4069
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 245531,
+      "Progressed": 245575,
       "Completed": 2567
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-27T18:59:30.8252189+00:00",
-  "LastChanged_Achievements": "2023-12-27T23:10:57.9621607+00:00",
+  "LastChanged_Achievements": "2023-12-28T00:10:56.6733155+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-27T22:59:21.5868821+00:00",
-  "LastUpdate_Achievements": "2023-12-27T23:10:57.9644198+00:00"
+  "LastUpdate_Ratings": "2023-12-27T23:59:20.4965262+00:00",
+  "LastUpdate_Achievements": "2023-12-28T00:10:56.6759481+00:00"
 }

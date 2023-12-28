@@ -6,19 +6,19 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,863 |
-| Gun Fu | 8.00% | ~78,575 |
-| Right Back At Ya | 7.00% | ~68,753 |
-| The Fool | 7.00% | ~68,753 |
-| The Lovers | 6.00% | ~58,931 |
-| Full Body Conversion | 5.00% | ~49,109 |
-| True Soldier | 5.00% | ~49,109 |
+| V for Vendetta | 12.00% | ~117,864 |
+| Gun Fu | 8.00% | ~78,576 |
+| Right Back At Ya | 7.00% | ~68,754 |
+| The Fool | 7.00% | ~68,754 |
+| The Lovers | 6.00% | ~58,932 |
+| Full Body Conversion | 5.00% | ~49,110 |
+| True Soldier | 5.00% | ~49,110 |
 | All the President's Men | 5.00% | ~5,541 |
 | Christmas Tree Attack | 4.00% | ~39,288 |
 | Stanislavski's Method | 4.00% | ~39,288 |
 | The Hermit | 4.00% | ~39,288 |
 | The Wheel of Fortune | 4.00% | ~39,288 |
-| Arachnophobia | 4.00% | ~4,432 |
+| Arachnophobia | 4.00% | ~4,433 |
 | Bushido and Chill | 3.00% | ~29,466 |
 | Master Crafter | 3.00% | ~29,466 |
 | The Quick and the Dead | 3.00% | ~29,466 |
@@ -27,7 +27,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 3.00% | ~29,466 |
 | True Warrior | 3.00% | ~29,466 |
 | Legend of The Afterlife | 3.00% | ~29,466 |
-| Relic Ruler | 3.00% | ~3,324 |
+| Relic Ruler | 3.00% | ~3,325 |
 | To Protect and Serve | 2.00% | ~19,644 |
 | I Am The Law | 2.00% | ~19,644 |
 | Two Heads, One Bullet | 2.00% | ~19,644 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 982,189 (Ranked 16)  
+Progressed: 982,199 (Ranked 16)  
 Completed: 2,986 (0.30%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,6 +326,7 @@ Completed: 2,986 (0.30%) (Ranked 254)
 | 2023-12-25 | 981,401 | 2,974 |
 | 2023-12-26 | 981,815 | 2,981 |
 | 2023-12-27 | 982,189 | 2,986 |
+| 2023-12-28 | 982,199 | 2,986 |
 ## Awards
 Max (Character Customization): 128,093  (Ranked 8)  
 Sum: 447,581 (Ranked 9)  

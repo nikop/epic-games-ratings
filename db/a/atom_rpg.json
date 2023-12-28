@@ -409,7 +409,7 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1519,
+  "EOS_Progressed": 1520,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
@@ -3819,6 +3819,11 @@
       "Time": "2023-12-27T23:10:41.9938666+00:00",
       "NumProgressed": 1519,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T00:10:40.2095249+00:00",
+      "NumProgressed": 1520,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3886,7 +3891,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1504
+      "UsersEstimate": 1505
     },
     {
       "ID": "EXPERT_1",
@@ -3918,7 +3923,7 @@
       "Name": "Grave Robber",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "HEAD_BURST_1",
@@ -4102,7 +4107,7 @@
       "Name": "Wanderer",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "WISHMASTER_1",
@@ -4117,15 +4122,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1519,
+      "Progressed": 1520,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-12-27T01:41:52.1948259+00:00",
-  "LastChanged_Achievements": "2023-12-27T23:10:41.9938662+00:00",
+  "LastChanged_Achievements": "2023-12-28T00:10:40.2095244+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.1094893+00:00",
-  "LastUpdate_Ratings": "2023-12-27T22:58:22.7373305+00:00",
-  "LastUpdate_Achievements": "2023-12-27T23:10:41.9939034+00:00"
+  "LastUpdate_Ratings": "2023-12-27T23:58:23.8861402+00:00",
+  "LastUpdate_Achievements": "2023-12-28T00:10:40.2095626+00:00"
 }

@@ -8,8 +8,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | Abandoned Settlement | 7.00% | ~1,362 |
 | Overgrown Library | 7.00% | ~1,362 |
-| Taking Action | 6.00% | ~1,167 |
-| Petrified Necropolis | 6.00% | ~1,167 |
+| Taking Action | 6.00% | ~1,168 |
+| Petrified Necropolis | 6.00% | ~1,168 |
 | First Real Expedition | 5.00% | ~973 |
 | The Marshlands | 5.00% | ~973 |
 | No Deaths | 5.00% | ~973 |
@@ -36,6 +36,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 2.00% | ~389 |
 | A Real Challenge | 2.00% | ~389 |
 | Trade Baron | 2.00% | ~389 |
+| Serving Ale | 1.00% | ~195 |
 | Against All Odds | 1.00% | ~195 |
 | Barren Lands | 1.00% | ~195 |
 | Sparkdew Crystals | 1.00% | ~195 |
@@ -43,7 +44,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Flooded Mines | 1.00% | ~195 |
 | Defying the Crown | 1.00% | ~195 |
 | Into the Forest | 1.00% | ~195 |
-| Serving Ale | 0.90% | ~175 |
 | Fishmen Ritual Site | 0.90% | ~175 |
 | Victory Through Prosperity | 0.90% | ~175 |
 | Efficient Explorer | 0.80% | ~156 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~19 |
 | Ruins | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,458 (Ranked 150)  
-Completed: 37 (0.19%) (Ranked 276)  
+Progressed: 19,462 (Ranked 150)  
+Completed: 36 (0.18%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -318,6 +318,7 @@ Completed: 37 (0.19%) (Ranked 276)
 | 2023-12-25 | 19,247 | 38 |
 | 2023-12-26 | 19,350 | 38 |
 | 2023-12-27 | 19,458 | 38 |
+| 2023-12-28 | 19,462 | 36 |
 ## Awards
 Max (Quickly Understood Controls): 445  (Ranked 228)  
 Sum: 3,297 (Ranked 176)  

@@ -7,7 +7,7 @@ Rating: 4.65 (Ranked 322)
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 42.00% | ~475 |
 | Rail Rat | 32.00% | ~362 |
-| The Mysterious Stranger | 31.00% | ~350 |
+| The Mysterious Stranger | 31.00% | ~351 |
 | Immaculate Aim | 26.00% | ~294 |
 | The Brass Boss | 26.00% | ~294 |
 | Make Up For Lost Time | 24.00% | ~271 |
@@ -21,15 +21,15 @@ Rating: 4.65 (Ranked 322)
 | Fast Learner | 23.00% | ~260 |
 | Breaking Down Barriers | 22.00% | ~249 |
 | The Wicked Twins | 22.00% | ~249 |
-| Right On Time | 21.00% | ~237 |
-| Like Clockwork | 21.00% | ~237 |
-| The Betrayer | 21.00% | ~237 |
-| Golem Chaser | 21.00% | ~237 |
+| Right On Time | 21.00% | ~238 |
+| Like Clockwork | 21.00% | ~238 |
+| The Betrayer | 21.00% | ~238 |
+| Golem Chaser | 21.00% | ~238 |
 | The Loose Cannon | 19.00% | ~215 |
 | Check Your Pulse | 19.00% | ~215 |
-| Street Style | 18.00% | ~203 |
-| The Man Who Shattered Time | 18.00% | ~203 |
-| The Family Fortune | 18.00% | ~203 |
+| Street Style | 18.00% | ~204 |
+| The Man Who Shattered Time | 18.00% | ~204 |
+| The Family Fortune | 18.00% | ~204 |
 | Whiz Kid | 15.00% | ~170 |
 | Good Neighbor | 14.00% | ~158 |
 | Treasure Trove | 13.00% | ~147 |
@@ -49,7 +49,7 @@ Rating: 4.65 (Ranked 322)
 | Golem Hunter | 7.00% | ~79 |
 | Clovemary for Remembering | 6.00% | ~68 |
 | Hexlock for Protection | 6.00% | ~68 |
-| Rungs Was Right | 5.00% | ~56 |
+| Rungs Was Right | 5.00% | ~57 |
 | Wunderkind | 2.00% | ~23 |
 | Fitting In | 2.00% | ~23 |
 | Thinking Two Steps Ahead | 1.00% | ~11 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 322)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,130 (Ranked 277)  
+Progressed: 1,131 (Ranked 277)  
 Completed: 6 (0.53%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,6 +217,7 @@ Completed: 6 (0.53%) (Ranked 213)
 | 2023-12-25 | 1,106 | 6 |
 | 2023-12-26 | 1,118 | 6 |
 | 2023-12-27 | 1,130 | 6 |
+| 2023-12-28 | 1,131 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -103,9 +103,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 774,
+  "EOS_Progressed": 775,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3413,6 +3413,11 @@
       "Time": "2023-12-27T21:07:02.3832224+00:00",
       "NumProgressed": 774,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T00:06:50.5360278+00:00",
+      "NumProgressed": 775,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -3456,7 +3461,7 @@
       "Name": "War with Friends",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "DESTROY_100_EMPLACEMENTS_WITH_BOMBERS",
@@ -3488,7 +3493,7 @@
       "Name": "Earth Shattering",
       "Percentage": 45,
       "XP": 90,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -3512,14 +3517,14 @@
       "Name": "Nothing Can Stop Us!",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 774,
+      "Progressed": 775,
       "Completed": 0
     }
   ],
@@ -3527,8 +3532,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-12-27T10:03:07.7983759+00:00",
-  "LastChanged_Achievements": "2023-12-27T23:06:47.0705696+00:00",
+  "LastChanged_Achievements": "2023-12-28T00:06:50.5360272+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:47.8356656+00:00",
-  "LastUpdate_Ratings": "2023-12-27T22:57:06.7936939+00:00",
-  "LastUpdate_Achievements": "2023-12-27T23:06:47.0705928+00:00"
+  "LastUpdate_Ratings": "2023-12-27T23:57:09.767723+00:00",
+  "LastUpdate_Achievements": "2023-12-28T00:06:50.5360507+00:00"
 }

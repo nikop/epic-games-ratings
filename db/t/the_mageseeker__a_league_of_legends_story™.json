@@ -6,9 +6,9 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 221,
-  "Ranking_EOS_Completed": 209,
+  "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -163,9 +163,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3100,
+  "EOS_Progressed": 3101,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -5353,6 +5353,11 @@
       "Time": "2023-12-27T23:07:49.761933+00:00",
       "NumProgressed": 3100,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-12-28T00:07:51.2875247+00:00",
+      "NumProgressed": 3101,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 53,
@@ -5378,9 +5383,9 @@
       "ID": "STB_COLISSEUM_FOURTH",
       "SetID": "3pe2bac",
       "Name": "Whispers in the Woods IV",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 434
     },
     {
       "ID": "STB_COLISSEUM_SECOND",
@@ -5428,7 +5433,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2945
+      "UsersEstimate": 2946
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -5444,7 +5449,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2387
+      "UsersEstimate": 2388
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -5540,7 +5545,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2356
+      "UsersEstimate": 2357
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -5548,7 +5553,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 2790
+      "UsersEstimate": 2791
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -5580,7 +5585,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2356
+      "UsersEstimate": 2357
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -5668,7 +5673,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     },
     {
       "ID": "STB_PET_HORSE",
@@ -5740,7 +5745,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2263
+      "UsersEstimate": 2264
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -5787,7 +5792,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3100,
+      "Progressed": 3101,
       "Completed": 17
     }
   ],
@@ -5795,8 +5800,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-26T20:58:40.3345897+00:00",
-  "LastChanged_Achievements": "2023-12-27T23:07:49.7619328+00:00",
+  "LastChanged_Achievements": "2023-12-28T00:07:51.2875244+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:06.9793878+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:00:00.5454881+00:00",
-  "LastUpdate_Achievements": "2023-12-27T23:07:49.7619868+00:00"
+  "LastUpdate_Ratings": "2023-12-27T23:59:58.4041562+00:00",
+  "LastUpdate_Achievements": "2023-12-28T00:07:51.287579+00:00"
 }

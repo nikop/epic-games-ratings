@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2049,
+  "EOS_Progressed": 2050,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 626,
+  "EOS_NewPlayers": 623,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3426,6 +3426,11 @@
       "Time": "2023-12-27T23:10:28.5762972+00:00",
       "NumProgressed": 2049,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-28T00:10:26.892252+00:00",
+      "NumProgressed": 2050,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -3438,7 +3443,7 @@
       "Name": "Unforeseen",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "achievement_10",
@@ -3486,15 +3491,15 @@
       "Name": "A Perfect Cycle",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "achievement_16",
       "SetID": "18al4io",
       "Name": "Recruit",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 205
+      "UsersEstimate": 226
     },
     {
       "ID": "achievement_17",
@@ -3518,7 +3523,7 @@
       "Name": "Socialite",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "achievement_2",
@@ -3526,7 +3531,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     },
     {
       "ID": "achievement_20",
@@ -3574,15 +3579,15 @@
       "Name": "Scholar",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1373
+      "UsersEstimate": 1394
     },
     {
       "ID": "achievement_36",
@@ -3612,9 +3617,9 @@
       "ID": "achievement_4",
       "SetID": "18al4io",
       "Name": "No More Names",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1025
     },
     {
       "ID": "achievement_41",
@@ -3622,7 +3627,7 @@
       "Name": "Armaments Azure",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "achievement_42",
@@ -3638,7 +3643,7 @@
       "Name": "Armaments Vert",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "achievement_44",
@@ -3686,7 +3691,7 @@
       "Name": "Initiate",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "achievement_50",
@@ -3732,9 +3737,9 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 635
+      "UsersEstimate": 656
     },
     {
       "ID": "achievement_60",
@@ -3806,14 +3811,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 2049,
+      "Progressed": 2050,
       "Completed": 2
     }
   ],
@@ -3821,8 +3826,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-27T20:59:55.8315481+00:00",
-  "LastChanged_Achievements": "2023-12-27T23:10:28.5762968+00:00",
+  "LastChanged_Achievements": "2023-12-28T00:10:26.8922517+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:37.6657855+00:00",
-  "LastUpdate_Ratings": "2023-12-27T22:59:45.0896306+00:00",
-  "LastUpdate_Achievements": "2023-12-27T23:10:28.5763363+00:00"
+  "LastUpdate_Ratings": "2023-12-27T23:59:44.185609+00:00",
+  "LastUpdate_Achievements": "2023-12-28T00:10:26.8922956+00:00"
 }

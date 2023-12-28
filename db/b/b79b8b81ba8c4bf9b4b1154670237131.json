@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -167,9 +167,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15978,
+  "EOS_Progressed": 15984,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 449,
+  "EOS_NewPlayers": 451,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5072,6 +5072,11 @@
       "Time": "2023-12-27T23:09:58.0324096+00:00",
       "NumProgressed": 15978,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-28T00:09:56.9828515+00:00",
+      "NumProgressed": 15984,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -5084,7 +5089,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 6072
+      "UsersEstimate": 6074
     },
     {
       "ID": "ACH_AE_10",
@@ -5092,7 +5097,7 @@
       "Name": "Together We Fight",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "ACH_AE_11",
@@ -5116,7 +5121,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 11984
+      "UsersEstimate": 11988
     },
     {
       "ID": "ACH_AE_14",
@@ -5124,7 +5129,7 @@
       "Name": "Sticky Situation",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 3036
+      "UsersEstimate": 3037
     },
     {
       "ID": "ACH_AE_15",
@@ -5132,7 +5137,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3515
+      "UsersEstimate": 3516
     },
     {
       "ID": "ACH_AE_16",
@@ -5140,7 +5145,7 @@
       "Name": "Energy Efficient",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2077
+      "UsersEstimate": 2078
     },
     {
       "ID": "ACH_AE_17",
@@ -5164,7 +5169,7 @@
       "Name": "Signature Style",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2237
+      "UsersEstimate": 2238
     },
     {
       "ID": "ACH_AE_2",
@@ -5172,7 +5177,7 @@
       "Name": "Back to School",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3675
+      "UsersEstimate": 3676
     },
     {
       "ID": "ACH_AE_20",
@@ -5196,7 +5201,7 @@
       "Name": "The High Road",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 3675
+      "UsersEstimate": 3676
     },
     {
       "ID": "ACH_AE_23",
@@ -5252,7 +5257,7 @@
       "Name": "Swiped Right",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "ACH_AE_3",
@@ -5260,7 +5265,7 @@
       "Name": "Pajama Boy",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 2556
+      "UsersEstimate": 2557
     },
     {
       "ID": "ACH_AE_30",
@@ -5284,7 +5289,7 @@
       "Name": "Diplomat",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "ACH_AE_33",
@@ -5316,7 +5321,7 @@
       "Name": "The Bomb",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2077
+      "UsersEstimate": 2078
     },
     {
       "ID": "ACH_AE_5",
@@ -5324,7 +5329,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1917
+      "UsersEstimate": 1918
     },
     {
       "ID": "ACH_AE_6",
@@ -5332,7 +5337,7 @@
       "Name": "Betrayal",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "ACH_AE_7",
@@ -5363,7 +5368,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 15978,
+      "Progressed": 15984,
       "Completed": 15
     }
   ],
@@ -5371,8 +5376,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-27T16:00:31.0909826+00:00",
-  "LastChanged_Achievements": "2023-12-27T23:09:58.0324092+00:00",
+  "LastChanged_Achievements": "2023-12-28T00:09:56.9828511+00:00",
   "LastUpdate_AppInfo": "2023-12-26T18:57:07.3435183+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:00:29.9583188+00:00",
-  "LastUpdate_Achievements": "2023-12-27T23:09:58.0324471+00:00"
+  "LastUpdate_Ratings": "2023-12-28T00:00:29.4902766+00:00",
+  "LastUpdate_Achievements": "2023-12-28T00:09:56.9829109+00:00"
 }

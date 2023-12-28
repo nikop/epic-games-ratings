@@ -6,19 +6,19 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~11,874 |
-| What should I buy? | 81.00% | ~10,342 |
-| Rescued Elder Ent | 61.00% | ~7,788 |
+| The Legend Begins | 93.00% | ~11,875 |
+| What should I buy? | 81.00% | ~10,343 |
+| Rescued Elder Ent | 61.00% | ~7,789 |
 | Focus! | 60.00% | ~7,661 |
 | The End of the Gold Mane Knights | 47.00% | ~6,001 |
 | False Goddess, Disappear | 38.00% | ~4,852 |
-| Rules of Etiquette | 37.00% | ~4,724 |
+| Rules of Etiquette | 37.00% | ~4,725 |
 | Inventory Management | 31.00% | ~3,958 |
-| Quick Movements | 30.00% | ~3,830 |
+| Quick Movements | 30.00% | ~3,831 |
 | The Fall of the Leonia Order | 29.00% | ~3,703 |
 | Go Home... | 26.00% | ~3,320 |
 | The Final Battle of the First Hero | 25.00% | ~3,192 |
-| The Hero Killer | 24.00% | ~3,064 |
+| The Hero Killer | 24.00% | ~3,065 |
 | Brain at Full Throttle | 20.00% | ~2,554 |
 | Rookies Welcome | 18.00% | ~2,298 |
 | Deadly Power | 15.00% | ~1,915 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~128 |
 | Cold-Blooded | 0.60% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,768 (Ranked 171)  
+Progressed: 12,769 (Ranked 172)  
 Completed: 18 (0.14%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,6 +262,7 @@ Completed: 18 (0.14%) (Ranked 293)
 | 2023-12-25 | 12,498 | 18 |
 | 2023-12-26 | 12,633 | 18 |
 | 2023-12-27 | 12,768 | 18 |
+| 2023-12-28 | 12,769 | 18 |
 ## Awards
 Max (Great for Beginners): 145  (Ranked 329)  
 Sum: 971 (Ranked 270)  

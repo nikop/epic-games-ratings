@@ -9,7 +9,7 @@ Rating: 4.79 (Ranked 101)
 | The Adventure Begins | 50.00% | ~660 |
 | Swabbie | 37.00% | ~488 |
 | With Great Power… | 37.00% | ~488 |
-| This Belongs in a Museum | 33.00% | ~436 |
+| This Belongs in a Museum | 34.00% | ~449 |
 | The Gambit Has Begun | 30.00% | ~396 |
 | Somewhere Deep in the Lost Caribbean | 26.00% | ~343 |
 | Mirror Mirror on the Wall | 26.00% | ~343 |

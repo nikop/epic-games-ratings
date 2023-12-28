@@ -2,13 +2,13 @@
   "ID": "4d62b26703d24f6d919750b3d88b6d52",
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
-  "Ranking_Rating": 552,
-  "Ranking_Popularity": 488,
+  "Ranking_Rating": 553,
+  "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 521,
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -278,7 +278,7 @@
   ],
   "EOS_Progressed": 222,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -1341,9 +1341,9 @@
       "ID": "ACH_KILL_PONSONBY",
       "SetID": "4n84pon",
       "Name": "Die Nasty",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -1502,8 +1502,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-27T23:09:25.7694718+00:00",
+  "LastChanged_Achievements": "2023-12-28T00:09:25.0966942+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-27T22:59:07.3906434+00:00",
-  "LastUpdate_Achievements": "2023-12-27T23:09:25.7695+00:00"
+  "LastUpdate_Ratings": "2023-12-27T23:59:06.3805364+00:00",
+  "LastUpdate_Achievements": "2023-12-28T00:09:25.0967262+00:00"
 }

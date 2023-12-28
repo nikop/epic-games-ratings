@@ -2,7 +2,7 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_Rating": 986,
+  "Ranking_Rating": 999,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 260,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.14,
+  "Rating": 4.08,
   "RatingHistory": [
     {
       "Time": "2023-12-25T23:59:59.8062735+00:00",
@@ -31,15 +31,21 @@
       "Rating": 4.14,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-27T23:57:06.3972883+00:00",
+      "Rating": 4.08,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1365,
+  "EOS_Progressed": 1366,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 437,
+  "EOS_NewPlayers": 433,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -2672,6 +2678,11 @@
       "Time": "2023-12-27T23:10:48.1236889+00:00",
       "NumProgressed": 1365,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T00:10:46.3601465+00:00",
+      "NumProgressed": 1366,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2683,7 +2694,7 @@
       "Name": "Break Out",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "ACH_02",
@@ -2699,7 +2710,7 @@
       "Name": "Powerful Allies",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACH_04",
@@ -2803,7 +2814,7 @@
       "Name": "Essence Blow",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_17",
@@ -2819,7 +2830,7 @@
       "Name": "Shatter Them All",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_19",
@@ -2859,7 +2870,7 @@
       "Name": "Geared Up",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_24",
@@ -2883,7 +2894,7 @@
       "Name": "Scholar",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_27",
@@ -2915,7 +2926,7 @@
       "Name": "Alchemist",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_31",
@@ -2970,16 +2981,16 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1365,
+      "Progressed": 1366,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged": "2023-12-27T00:00:31.2413182+00:00",
-  "LastChanged_Achievements": "2023-12-27T23:10:48.1236885+00:00",
+  "LastChanged": "2023-12-27T23:57:06.3972881+00:00",
+  "LastChanged_Achievements": "2023-12-28T00:10:46.3601461+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-27T22:57:02.0371108+00:00",
-  "LastUpdate_Achievements": "2023-12-27T23:10:48.123717+00:00"
+  "LastUpdate_Ratings": "2023-12-27T23:57:06.3972886+00:00",
+  "LastUpdate_Achievements": "2023-12-28T00:10:46.3601893+00:00"
 }

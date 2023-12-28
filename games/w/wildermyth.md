@@ -42,13 +42,13 @@ Number of Ratings: 45  (23.09.2022)
 | Grillmaster | 0.50% | ~8 |
 | Into Mulch | 0.50% | ~8 |
 | Tempest | 0.50% | ~8 |
+| We Emerge Changed | 0.40% | ~6 |
 | No More Nightmares | 0.40% | ~6 |
 | A Hunger, Sated | 0.40% | ~6 |
 | Wingknight's Prowess | 0.40% | ~6 |
 | Bears are Scary | 0.40% | ~6 |
 | Fight Like a Bird | 0.40% | ~6 |
 | Lochias's Hunger | 0.40% | ~6 |
-| We Emerge Changed | 0.30% | ~5 |
 | The Power of Friendship | 0.30% | ~5 |
 | I'm Not Smiling | 0.30% | ~5 |
 | Overwhelming Monstrosity | 0.20% | ~3 |

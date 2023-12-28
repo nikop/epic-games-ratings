@@ -12,8 +12,8 @@ Rating: 4.52 (Ranked 567)
 | Archer | 45.00% | ~58 |
 | The brave little tailor | 43.00% | ~55 |
 | Field hand | 41.00% | ~52 |
+| Samaritan | 37.00% | ~47 |
 | Well-to-do | 37.00% | ~47 |
-| Samaritan | 36.00% | ~46 |
 | The merciful one | 34.00% | ~44 |
 | Ladies' man | 33.00% | ~42 |
 | Ferocious wild boars | 27.00% | ~35 |

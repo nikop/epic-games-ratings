@@ -6,9 +6,9 @@
   "Ranking_Popularity": 228,
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 150,
-  "Ranking_EOS_Completed": 276,
+  "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 3785,
+  "Ranking_EOS_NewCompleters": 3786,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3629,11 +3629,11 @@
       "Count": 335
     }
   ],
-  "EOS_Progressed": 19458,
-  "EOS_Completed": 37,
+  "EOS_Progressed": 19462,
+  "EOS_Completed": 36,
   "EOS_NewPlayers": 687,
-  "EOS_NewCompleters": -2,
-  "EOS_Completed_Percentage": 0.19,
+  "EOS_NewCompleters": -3,
+  "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:44.0193336+00:00",
@@ -17384,6 +17384,11 @@
       "Time": "2023-12-27T23:06:23.2891211+00:00",
       "NumProgressed": 19458,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-12-28T00:06:26.2589726+00:00",
+      "NumProgressed": 19462,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17394,9 +17399,9 @@
       "ID": "AleChain",
       "SetID": "cfbk359",
       "Name": "Serving Ale",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 195
     },
     {
       "ID": "AllFood",
@@ -17732,7 +17737,7 @@
       "Name": "Taking Action",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "WinWithResolve",
@@ -17828,7 +17833,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "WinNearPresence",
@@ -17867,15 +17872,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19458,
-      "Completed": 37
+      "Progressed": 19462,
+      "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-27T21:00:32.4755155+00:00",
-  "LastChanged_Achievements": "2023-12-27T23:06:23.2891205+00:00",
+  "LastChanged_Achievements": "2023-12-28T00:06:26.2589723+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:00:22.5989629+00:00",
-  "LastUpdate_Achievements": "2023-12-27T23:06:23.2892426+00:00"
+  "LastUpdate_Ratings": "2023-12-28T00:00:21.915683+00:00",
+  "LastUpdate_Achievements": "2023-12-28T00:06:26.2590979+00:00"
 }

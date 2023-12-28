@@ -15,7 +15,7 @@
 | Competitor's Spirit | 35.00% | ~261 |
 | The Strongest Field in Golf | 27.00% | ~201 |
 | Ace in the Hole | 26.00% | ~194 |
-| From Many, One | 23.00% | ~172 |
+| From Many, One | 24.00% | ~179 |
 | A Tradition Unlike Any Other | 21.00% | ~157 |
 | A Passion for Excellence | 20.00% | ~149 |
 | Golf's Original Championship | 20.00% | ~149 |

@@ -5,9 +5,9 @@
   "Ranking_Rating": 459,
   "Ranking_Popularity": 281,
   "Ranking_PopularitySum": 334,
-  "Ranking_EOS_Progress": 216,
+  "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -801,9 +801,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3615,
+  "EOS_Progressed": 3617,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4971,6 +4971,11 @@
       "Time": "2023-12-27T22:07:13.0403819+00:00",
       "NumProgressed": 3615,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T00:07:32.5680773+00:00",
+      "NumProgressed": 3617,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5142,7 +5147,7 @@
       "Name": "Hold Your Ground",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "Kills_Auto",
@@ -5174,7 +5179,7 @@
       "Name": "Executioner",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "Kills_Exterminator",
@@ -5254,7 +5259,7 @@
       "Name": "Nemesis Master",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -5262,7 +5267,7 @@
       "Name": "Gunmaster",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "MasterOfTheForge",
@@ -5342,7 +5347,7 @@
       "Name": "Just a Scratch",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "NexusCompleted",
@@ -5525,21 +5530,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3615,
+      "Progressed": 3617,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3615,
+      "Progressed": 3617,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-24T12:02:56.3421491+00:00",
-  "LastChanged_Achievements": "2023-12-27T23:07:30.6122031+00:00",
+  "LastChanged_Achievements": "2023-12-28T00:07:32.568077+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:54.0012795+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:03:25.158763+00:00",
-  "LastUpdate_Achievements": "2023-12-27T23:07:30.6122639+00:00"
+  "LastUpdate_Ratings": "2023-12-28T00:03:29.4212053+00:00",
+  "LastUpdate_Achievements": "2023-12-28T00:07:32.5681666+00:00"
 }

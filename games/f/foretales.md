@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Caged tiger | 63.00% | ~181 |
-| Gorilla warfare | 58.00% | ~166 |
+| Gorilla warfare | 58.00% | ~167 |
 | Isenburg's fall | 49.00% | ~141 |
 | Pieces of eight! | 42.00% | ~121 |
 | Aboard the Sea Bird | 31.00% | ~89 |
@@ -16,7 +16,7 @@
 | A gift horse | 25.00% | ~72 |
 | You sssaved me | 24.00% | ~69 |
 | Say hello to my little friends | 21.00% | ~60 |
-| Heal thyself | 20.00% | ~57 |
+| Heal thyself | 20.00% | ~58 |
 | Gotcha | 19.00% | ~55 |
 | It's not cheating | 16.00% | ~46 |
 | Stronk | 16.00% | ~46 |
@@ -33,8 +33,8 @@
 | Trial by combat | 7.00% | ~20 |
 | A bard day's night | 6.00% | ~17 |
 | Money talks | 6.00% | ~17 |
-| Squid Game | 4.00% | ~11 |
-| Lyre lyre pants on fyre | 4.00% | ~11 |
+| Squid Game | 4.00% | ~12 |
+| Lyre lyre pants on fyre | 4.00% | ~12 |
 | D4RK V0L3P41N | 3.00% | ~9 |
 | Family reunion | 3.00% | ~9 |
 | Be kind to monsters | 2.00% | ~6 |
@@ -46,7 +46,7 @@
 | Force of nature | 0.00% | ~0 |
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 287 (Ranked 386)  
+Progressed: 288 (Ranked 386)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,6 +80,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-21 | 281 | 0 |
 | 2023-12-22 | 283 | 0 |
 | 2023-12-23 | 287 | 0 |
+| 2023-12-28 | 288 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

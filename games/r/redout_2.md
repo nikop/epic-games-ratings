@@ -15,8 +15,8 @@ Rating: 4.52 (Ranked 567)
 | Ride in the rising sun | 16.00% | ~191 |
 | Suit up | 16.00% | ~191 |
 | Walked like an Egyptian | 15.00% | ~179 |
+| Rookie No-No More | 13.00% | ~155 |
 | Running at the speed of sound | 13.00% | ~155 |
-| Rookie No-No More | 12.00% | ~143 |
 | Martian explorer | 11.00% | ~131 |
 | To the core | 8.00% | ~96 |
 | Blurred photofinish | 8.00% | ~96 |

@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1228,
+  "EOS_Progressed": 1229,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3259,6 +3259,11 @@
       "Time": "2023-12-27T20:09:30.4859568+00:00",
       "NumProgressed": 1228,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T00:10:52.6759812+00:00",
+      "NumProgressed": 1229,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3278,7 +3283,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -3342,7 +3347,7 @@
       "Name": "Capraphobia",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -3486,7 +3491,7 @@
       "Name": "Fire Alarm",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "FREEB_ACHIEVEMENT_1",
@@ -3518,7 +3523,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -3542,7 +3547,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -3622,7 +3627,7 @@
       "Name": "Leecher Hunting Season",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -3630,7 +3635,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -3694,7 +3699,7 @@
       "Name": "Buy A Book",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
@@ -3724,9 +3729,9 @@
       "ID": "RAPTOR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Haunted Prison",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 37
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_3",
@@ -3797,14 +3802,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1228,
+      "Progressed": 1229,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-27T23:10:54.4640279+00:00",
+  "LastChanged_Achievements": "2023-12-28T00:10:52.6759809+00:00",
   "LastUpdate_AppInfo": "2023-12-22T02:57:06.6747577+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:01:50.6866213+00:00",
-  "LastUpdate_Achievements": "2023-12-27T23:10:54.4640838+00:00"
+  "LastUpdate_Ratings": "2023-12-28T00:01:47.9077609+00:00",
+  "LastUpdate_Achievements": "2023-12-28T00:10:52.6760542+00:00"
 }

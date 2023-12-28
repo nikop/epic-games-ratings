@@ -5,7 +5,7 @@
   "Ranking_Rating": 161,
   "Ranking_Popularity": 329,
   "Ranking_PopularitySum": 270,
-  "Ranking_EOS_Progress": 171,
+  "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 149,
@@ -1295,9 +1295,9 @@
       "Count": 145
     }
   ],
-  "EOS_Progressed": 12768,
+  "EOS_Progressed": 12769,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 1283,
+  "EOS_NewPlayers": 1282,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -7780,6 +7780,11 @@
       "Time": "2023-12-27T21:09:44.7439753+00:00",
       "NumProgressed": 12768,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-28T00:09:30.0196164+00:00",
+      "NumProgressed": 12769,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 24,
@@ -7879,7 +7884,7 @@
       "Name": "The Hero Killer",
       "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 3064
+      "UsersEstimate": 3065
     },
     {
       "ID": "LeoniasFall",
@@ -7903,7 +7908,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 4724
+      "UsersEstimate": 4725
     },
     {
       "ID": "RookieWelcome",
@@ -7919,7 +7924,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 7788
+      "UsersEstimate": 7789
     },
     {
       "ID": "SavedElderEnt_2",
@@ -7927,7 +7932,7 @@
       "Name": "Quick Movements",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 3830
+      "UsersEstimate": 3831
     },
     {
       "ID": "SkeletonKing",
@@ -7951,7 +7956,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 11874
+      "UsersEstimate": 11875
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -7975,22 +7980,22 @@
       "Name": "What should I buy?",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10342
+      "UsersEstimate": 10343
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 12768,
+      "Progressed": 12769,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-12-26T19:02:32.7110984+00:00",
-  "LastChanged_Achievements": "2023-12-27T23:09:30.8231901+00:00",
+  "LastChanged_Achievements": "2023-12-28T00:09:30.0196161+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:50.2570234+00:00",
-  "LastUpdate_Ratings": "2023-12-27T22:56:57.0688264+00:00",
-  "LastUpdate_Achievements": "2023-12-27T23:09:30.82323+00:00"
+  "LastUpdate_Ratings": "2023-12-27T23:57:01.8246032+00:00",
+  "LastUpdate_Achievements": "2023-12-28T00:09:30.0196678+00:00"
 }

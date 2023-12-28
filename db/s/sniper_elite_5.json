@@ -649,7 +649,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4137,
+  "EOS_Progressed": 4138,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
@@ -9074,6 +9074,11 @@
       "Time": "2023-12-27T21:10:00.0999201+00:00",
       "NumProgressed": 4137,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-28T00:09:45.3030122+00:00",
+      "NumProgressed": 4138,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9165,7 +9170,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1944
+      "UsersEstimate": 1945
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -9293,7 +9298,7 @@
       "Name": "Lord of War",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -9309,7 +9314,7 @@
       "Name": "Resourceful",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -9413,7 +9418,7 @@
       "Name": "Locomotion Commotion",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -9421,7 +9426,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -9652,13 +9657,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4088,
+      "Progressed": 4089,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4137,
+      "Progressed": 4138,
       "Completed": 11
     }
   ],
@@ -9666,8 +9671,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-20T09:59:10.4485665+00:00",
-  "LastChanged_Achievements": "2023-12-27T23:09:46.3106611+00:00",
+  "LastChanged_Achievements": "2023-12-28T00:09:45.3030117+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:02.7105407+00:00",
-  "LastUpdate_Ratings": "2023-12-27T23:00:23.9991375+00:00",
-  "LastUpdate_Achievements": "2023-12-27T23:09:46.3107416+00:00"
+  "LastUpdate_Ratings": "2023-12-28T00:00:23.4698003+00:00",
+  "LastUpdate_Achievements": "2023-12-28T00:09:45.3030984+00:00"
 }
