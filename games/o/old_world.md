@@ -14,6 +14,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 0.50% | ~80 |
 | Architect | 0.50% | ~80 |
 | Good | 0.50% | ~80 |
+| Learned | 0.50% | ~80 |
 | Mason | 0.50% | ~80 |
 | Noble | 0.50% | ~80 |
 | Strong | 0.50% | ~80 |
@@ -25,19 +26,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 0.40% | ~64 |
 | Just | 0.40% | ~64 |
 | Keystone | 0.40% | ~64 |
-| Learned | 0.40% | ~64 |
+| Magnificent | 0.40% | ~64 |
 | Pioneer | 0.40% | ~64 |
 | Warrior | 0.40% | ~64 |
 | Developing Cities | 0.40% | ~64 |
 | Strong Cities | 0.40% | ~64 |
+| Pyramids | 0.40% | ~64 |
+| Learn to Play 1 | 0.40% | ~64 |
 | Judaism | 0.40% | ~64 |
 | Greek Paganism | 0.40% | ~64 |
 | Naming Landmarks | 0.40% | ~64 |
 | Trade Caravan | 0.40% | ~64 |
 | Regicide | 0.30% | ~48 |
 | Brilliant | 0.30% | ~48 |
+| Great | 0.30% | ~48 |
 | Intercessor | 0.30% | ~48 |
-| Magnificent | 0.30% | ~48 |
 | Wise | 0.30% | ~48 |
 | Legendary Cities | 0.30% | ~48 |
 | Able Difficulty | 0.30% | ~48 |
@@ -47,8 +50,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate | 0.30% | ~48 |
 | Lighthouse | 0.30% | ~48 |
 | Mausoleum | 0.30% | ~48 |
-| Pyramids | 0.30% | ~48 |
-| Learn to Play 1 | 0.30% | ~48 |
 | Christianity | 0.30% | ~48 |
 | Babylonian Paganism | 0.30% | ~48 |
 | Carthaginian Paganism | 0.30% | ~48 |
@@ -58,7 +59,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.20% | ~32 |
 | Drillmaster | 0.20% | ~32 |
 | Conqueror | 0.20% | ~32 |
-| Great | 0.20% | ~32 |
 | Mighty | 0.20% | ~32 |
 | Valiant | 0.20% | ~32 |
 | Good Difficulty | 0.20% | ~32 |
@@ -75,13 +75,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 0.20% | ~32 |
 | Learn to Play 2 | 0.20% | ~32 |
 | Learn to Play 3 | 0.20% | ~32 |
+| Greece | 0.20% | ~32 |
 | Power to the People | 0.20% | ~32 |
 | Manichaeism | 0.20% | ~32 |
 | Egyptian Paganism | 0.20% | ~32 |
+| Persian Paganism | 0.20% | ~32 |
 | Building Wonders | 0.20% | ~32 |
 | Economic Reform | 0.20% | ~32 |
+| Enlightenment | 0.20% | ~32 |
 | Points Victory | 0.20% | ~32 |
 | Win a Single Player Game | 0.20% | ~32 |
+| The Clergy | 0.20% | ~32 |
 | Centenarian | 0.10% | ~16 |
 | Alexander the Great | 0.10% | ~16 |
 | Lighthouse in Alexandria | 0.10% | ~16 |
@@ -188,7 +192,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.10% | ~16 |
 | Carthage | 0.10% | ~16 |
 | Egypt | 0.10% | ~16 |
-| Greece | 0.10% | ~16 |
 | Hatti | 0.10% | ~16 |
 | Persia | 0.10% | ~16 |
 | Rome | 0.10% | ~16 |
@@ -205,7 +208,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Punic Wars | 0.10% | ~16 |
 | Assyrian Paganism | 0.10% | ~16 |
 | Hittite Paganism | 0.10% | ~16 |
-| Persian Paganism | 0.10% | ~16 |
 | Roman Papacy | 0.10% | ~16 |
 | Circus Maximus in Roma | 0.10% | ~16 |
 | Pantheon in Roma | 0.10% | ~16 |
@@ -214,7 +216,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 0.10% | ~16 |
 | Military Prestige | 0.10% | ~16 |
 | Dualism | 0.10% | ~16 |
-| Enlightenment | 0.10% | ~16 |
 | Gnosticism | 0.10% | ~16 |
 | Legalism | 0.10% | ~16 |
 | Mythology | 0.10% | ~16 |
@@ -246,7 +247,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Free-For-All Game (>2 Players) | 0.10% | ~16 |
 | Win a Hotseat Game | 0.10% | ~16 |
 | Win a Network Game | 0.10% | ~16 |
-| The Clergy | 0.10% | ~16 |
 | Deposed Tribe | 0.10% | ~16 |
 | Five Cults | 0.10% | ~16 |
 | The Great Mage | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,984 (Ranked 164)  
+Progressed: 15,986 (Ranked 164)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -617,7 +617,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-25 | 15,949 | 5 |
 | 2023-12-26 | 15,966 | 5 |
 | 2023-12-27 | 15,978 | 5 |
-| 2023-12-28 | 15,984 | 5 |
+| 2023-12-28 | 15,986 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,911 (Ranked 220)  

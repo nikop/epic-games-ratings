@@ -6,9 +6,9 @@
   "Ranking_Popularity": 423,
   "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 218,
-  "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Completed": 328,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2022-09-22T12:00:00+00:00",
@@ -1321,9 +1321,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 3427,
+  "EOS_Progressed": 3428,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7086,6 +7086,11 @@
       "Time": "2023-12-28T14:07:57.7048398+00:00",
       "NumProgressed": 3427,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-28T15:06:09.6364998+00:00",
+      "NumProgressed": 3428,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -7225,7 +7230,7 @@
       "Name": "Good vibes",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACH_HOARDER",
@@ -7241,7 +7246,7 @@
       "Name": "Keep the dream alive",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACH_KEEPING-IT-CLASSY",
@@ -7249,7 +7254,7 @@
       "Name": "Keeping it classy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -7449,7 +7454,7 @@
       "Name": "Upfront shredder",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACH_WE-GET-IT-YOURE-GOOD",
@@ -7480,15 +7485,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3427,
+      "Progressed": 3428,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-12-27T02:59:08.6955068+00:00",
-  "LastChanged_Achievements": "2023-12-28T14:07:57.7048395+00:00",
+  "LastChanged_Achievements": "2023-12-28T15:06:09.6364995+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:13.070131+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:59:54.3546026+00:00",
-  "LastUpdate_Achievements": "2023-12-28T14:07:57.7048892+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:59:05.6452012+00:00",
+  "LastUpdate_Achievements": "2023-12-28T15:06:09.6365484+00:00"
 }

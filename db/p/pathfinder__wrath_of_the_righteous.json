@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4641,10 +4641,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7171,
       "NumberOfAwardsMax": 1774
+    },
+    {
+      "Time": "2023-12-28T14:58:02.0640137+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7172,
+      "NumberOfAwardsMax": 1774
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7171,
+  "NumberOfAwards": 7172,
   "NumberOfAwardsMax": 1774,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4700,7 +4706,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 584
+      "Count": 585
     },
     {
       "Text": "This game has Challenging Combat",
@@ -4715,9 +4721,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12833,
+  "EOS_Progressed": 12835,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 268,
+  "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18245,6 +18251,11 @@
       "Time": "2023-12-28T14:10:58.5491419+00:00",
       "NumProgressed": 12833,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T15:09:49.5612945+00:00",
+      "NumProgressed": 12835,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18448,7 +18459,7 @@
       "Name": "Masterful Dispel",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "27_VictorySeige",
@@ -18504,7 +18515,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2053
+      "UsersEstimate": 2054
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -18560,7 +18571,7 @@
       "Name": "End of Eternal Guard",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "41_PlayfulMood",
@@ -18576,7 +18587,7 @@
       "Name": "Just Pathetic",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "43_DreadfulDragon",
@@ -18624,7 +18635,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2438
+      "UsersEstimate": 2439
     },
     {
       "ID": "49_Flame",
@@ -19136,7 +19147,7 @@
       "Name": "Hanged Man\u0027s Notes",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "DLC4_25_Sarkoris Will Be Green",
@@ -19144,7 +19155,7 @@
       "Name": "Sarkoris Will Be Green",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "DLC4_26_This Wall Won\u0027t Fall",
@@ -19168,7 +19179,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -19176,28 +19187,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11615,
+      "Progressed": 11617,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12833,
+      "Progressed": 12835,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-12-27T11:57:16.5832568+00:00",
-  "LastChanged_Achievements": "2023-12-28T14:10:58.5491416+00:00",
+  "LastChanged": "2023-12-28T14:58:02.0640135+00:00",
+  "LastChanged_Achievements": "2023-12-28T15:09:49.5612943+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:01.2970884+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:58:22.1739774+00:00",
-  "LastUpdate_Achievements": "2023-12-28T14:10:58.5493098+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:58:02.064014+00:00",
+  "LastUpdate_Achievements": "2023-12-28T15:09:49.5614536+00:00"
 }

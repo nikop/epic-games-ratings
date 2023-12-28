@@ -3796,7 +3796,7 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 241900,
+  "EOS_Progressed": 241902,
   "EOS_Completed": 302,
   "EOS_NewPlayers": 499,
   "EOS_NewCompleters": 2,
@@ -29846,6 +29846,11 @@
       "Time": "2023-12-28T14:11:00.0881738+00:00",
       "NumProgressed": 241900,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-28T15:09:50.7666219+00:00",
+      "NumProgressed": 241902,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -30279,9 +30284,9 @@
       "ID": "KILL10ONETURN",
       "SetID": "5l8oe0h",
       "Name": "Clearing The Room",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 484
+      "UsersEstimate": 726
     },
     {
       "ID": "KILL20TYPES",
@@ -30960,13 +30965,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241900,
+      "Progressed": 241902,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3380,
+      "Progressed": 3382,
       "Completed": 416
     }
   ],
@@ -30974,8 +30979,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-27T23:00:02.6538244+00:00",
-  "LastChanged_Achievements": "2023-12-28T14:11:00.0881735+00:00",
+  "LastChanged_Achievements": "2023-12-28T15:09:50.7666217+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-28T14:00:36.6746925+00:00",
-  "LastUpdate_Achievements": "2023-12-28T14:11:00.0884177+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:59:33.7343031+00:00",
+  "LastUpdate_Achievements": "2023-12-28T15:09:50.7668969+00:00"
 }

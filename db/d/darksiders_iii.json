@@ -450,9 +450,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 254,
+  "EOS_Progressed": 255,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 242,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1070,6 +1070,11 @@
       "Time": "2023-12-28T13:06:56.6407338+00:00",
       "NumProgressed": 254,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T15:03:23.7896821+00:00",
+      "NumProgressed": 255,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -1082,7 +1087,7 @@
       "Name": "Unbreakable Will",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Collect_AdamantineMedium_30",
@@ -1106,7 +1111,7 @@
       "Name": "Unshakable Fortitude",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "Collect_Artifact_Angel_50",
@@ -1128,17 +1133,17 @@
       "ID": "Collect_Artifact_EpicShard",
       "SetID": "7a5k76n",
       "Name": "One Of the Chosen",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 107
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
       "SetID": "7a5k76n",
       "Name": "Increased Capacity",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 143
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
@@ -1154,7 +1159,7 @@
       "Name": "Increased Vigor",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_4",
@@ -1178,7 +1183,7 @@
       "Name": "I Wanna Rock",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Collect_Hollow_Stasis",
@@ -1194,7 +1199,7 @@
       "Name": "Perfect Storm",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "Collect_Lurchers_100000",
@@ -1384,9 +1389,9 @@
       "ID": "Kill_Demon_Abraxis",
       "SetID": "7a5k76n",
       "Name": "Demon Meddler",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 51
     },
     {
       "ID": "Kill_Demon_Kraken",
@@ -1400,9 +1405,9 @@
       "ID": "Kill_Enemies_666",
       "SetID": "7a5k76n",
       "Name": "Devil\u0027s in the Details",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 102
     },
     {
       "ID": "Kill_Enemies_HavocForm_666",
@@ -1416,9 +1421,9 @@
       "ID": "Kill_Sin_Avarice",
       "SetID": "7a5k76n",
       "Name": "All That Glitters",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 120
     },
     {
       "ID": "Kill_Sin_BigBad",
@@ -1466,7 +1471,7 @@
       "Name": "Throne Potato",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "Kill_Sin_Wrath",
@@ -1506,7 +1511,7 @@
       "Name": "Community Outreach",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Save_Humans_20",
@@ -1538,7 +1543,7 @@
       "Name": "First of many\u2026",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -1554,7 +1559,7 @@
       "Name": "Big Spender",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Unlocked_49_Achievements",
@@ -1578,7 +1583,7 @@
       "Name": "Just the start",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "Upgrade_Weapon_Max",
@@ -1593,15 +1598,15 @@
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 254,
+      "Progressed": 255,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-27T15:59:03.0058269+00:00",
-  "LastChanged_Achievements": "2023-12-28T14:04:03.6502142+00:00",
+  "LastChanged_Achievements": "2023-12-28T15:03:23.7896818+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:27.1633457+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:59:29.5879982+00:00",
-  "LastUpdate_Achievements": "2023-12-28T14:04:03.6502618+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:58:49.6483529+00:00",
+  "LastUpdate_Achievements": "2023-12-28T15:03:23.7897485+00:00"
 }

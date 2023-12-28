@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 367,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -535,9 +535,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 45493,
+  "EOS_Progressed": 45495,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 876,
+  "EOS_NewPlayers": 875,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16750,6 +16750,11 @@
       "Time": "2023-12-28T14:08:00.6144888+00:00",
       "NumProgressed": 45493,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T15:06:11.847849+00:00",
+      "NumProgressed": 45495,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -16913,7 +16918,7 @@
       "Name": "Tinkerer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3639
+      "UsersEstimate": 3640
     },
     {
       "ID": "CUFF_ATTACK",
@@ -17097,7 +17102,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4549
+      "UsersEstimate": 4550
     },
     {
       "ID": "SPRING_ALL",
@@ -17184,22 +17189,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 45493,
+      "Progressed": 45495,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 10330,
-      "Completed": 10330
+      "Progressed": 10332,
+      "Completed": 10332
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-26T06:59:48.6579528+00:00",
-  "LastChanged_Achievements": "2023-12-28T14:08:00.6144885+00:00",
+  "LastChanged_Achievements": "2023-12-28T15:06:11.8478488+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.8849039+00:00",
-  "LastUpdate_Ratings": "2023-12-28T14:02:23.4933008+00:00",
-  "LastUpdate_Achievements": "2023-12-28T14:08:00.6145975+00:00"
+  "LastUpdate_Ratings": "2023-12-28T15:00:48.4449038+00:00",
+  "LastUpdate_Achievements": "2023-12-28T15:06:11.8479404+00:00"
 }

@@ -1599,9 +1599,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 245164,
+  "EOS_Progressed": 245174,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1342,
+  "EOS_NewPlayers": 1346,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24004,6 +24004,11 @@
       "Time": "2023-12-28T14:10:50.6585234+00:00",
       "NumProgressed": 245164,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-28T15:09:43.3146401+00:00",
+      "NumProgressed": 245174,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -24063,7 +24068,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 17161
+      "UsersEstimate": 17162
     },
     {
       "ID": "Chapter2",
@@ -24071,7 +24076,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12258
+      "UsersEstimate": 12259
     },
     {
       "ID": "Chapter3",
@@ -24151,7 +24156,7 @@
       "Name": "The number of the counting shalt be 7",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "CompanionPaladine",
@@ -24415,7 +24420,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22065
+      "UsersEstimate": 22066
     },
     {
       "ID": "DwarfElf15Support",
@@ -24463,7 +24468,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 88259
+      "UsersEstimate": 88263
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -24479,7 +24484,7 @@
       "Name": "GG EZ",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12258
+      "UsersEstimate": 12259
     },
     {
       "ID": "EndCombatOneHp",
@@ -24511,7 +24516,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24516
+      "UsersEstimate": 24517
     },
     {
       "ID": "FollowBraztok",
@@ -24623,7 +24628,7 @@
       "Name": "L\u00EBgal Legend",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 2206
+      "UsersEstimate": 2207
     },
     {
       "ID": "QuestPriestess",
@@ -24663,7 +24668,7 @@
       "Name": "Speedrun",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12258
+      "UsersEstimate": 12259
     },
     {
       "ID": "SupportCount4",
@@ -24718,21 +24723,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 245164,
+      "Progressed": 245174,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 245164,
+      "Progressed": 245174,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-27T06:01:29.6112868+00:00",
-  "LastChanged_Achievements": "2023-12-28T14:10:50.6585231+00:00",
+  "LastChanged_Achievements": "2023-12-28T15:09:43.31464+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:14.8119134+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:57:07.043907+00:00",
-  "LastUpdate_Achievements": "2023-12-28T14:10:50.6586774+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:57:11.0612186+00:00",
+  "LastUpdate_Achievements": "2023-12-28T15:09:43.3147869+00:00"
 }

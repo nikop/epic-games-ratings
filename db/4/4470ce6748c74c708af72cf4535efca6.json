@@ -4,8 +4,8 @@
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 515,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 518,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 517,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2018-05-23T19:00:00+00:00",
@@ -756,17 +756,17 @@
       "ID": "60",
       "SetID": "5e3maia",
       "Name": "Voyager",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "61",
       "SetID": "5e3maia",
       "Name": "Welcomer",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "62",
@@ -812,9 +812,9 @@
       "ID": "67",
       "SetID": "5e3maia",
       "Name": "Genius",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "68",
@@ -875,8 +875,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-12-28T14:05:17.9227563+00:00",
+  "LastChanged_Achievements": "2023-12-28T15:04:16.8789898+00:00",
   "LastUpdate_AppInfo": "2023-12-23T06:57:10.1897436+00:00",
-  "LastUpdate_Ratings": "2023-12-28T14:01:50.3451015+00:00",
-  "LastUpdate_Achievements": "2023-12-28T14:05:17.9228042+00:00"
+  "LastUpdate_Ratings": "2023-12-28T15:00:24.2664275+00:00",
+  "LastUpdate_Achievements": "2023-12-28T15:04:16.8790353+00:00"
 }

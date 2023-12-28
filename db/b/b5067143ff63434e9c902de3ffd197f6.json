@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16915,
+  "EOS_Progressed": 16921,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1485,
+  "EOS_NewPlayers": 1483,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10474,6 +10474,11 @@
       "Time": "2023-12-28T14:07:50.1212657+00:00",
       "NumProgressed": 16915,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T15:06:04.199964+00:00",
+      "NumProgressed": 16921,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -10582,7 +10587,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 4398
+      "UsersEstimate": 4399
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -10590,7 +10595,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -10606,7 +10611,7 @@
       "Name": "Poolrooms",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ACH_WINLEVEL4",
@@ -10646,7 +10651,7 @@
       "Name": "Motion",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ACH_WINLEVEL9999999",
@@ -10677,14 +10682,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 16915,
+      "Progressed": 16921,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-12-28T14:07:50.1212654+00:00",
+  "LastChanged_Achievements": "2023-12-28T15:06:04.1999637+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:06.2356641+00:00",
-  "LastUpdate_Ratings": "2023-12-28T14:02:32.5939249+00:00",
-  "LastUpdate_Achievements": "2023-12-28T14:07:50.1213316+00:00"
+  "LastUpdate_Ratings": "2023-12-28T15:02:35.1765912+00:00",
+  "LastUpdate_Achievements": "2023-12-28T15:06:04.2000162+00:00"
 }

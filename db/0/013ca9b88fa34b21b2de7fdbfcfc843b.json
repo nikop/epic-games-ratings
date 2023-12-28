@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 367,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8723,
+  "EOS_Progressed": 8724,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9260,6 +9260,11 @@
       "Time": "2023-12-28T11:10:15.5602882+00:00",
       "NumProgressed": 8723,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T15:09:46.2399179+00:00",
+      "NumProgressed": 8724,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -9270,9 +9275,9 @@
       "ID": "CHAPTER_1_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Azoria Beckons",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 262
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -9615,13 +9620,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8723,
+      "Progressed": 8724,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1340,
+      "Progressed": 1341,
       "Completed": 1050
     }
   ],
@@ -9629,8 +9634,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-28T14:10:54.4080048+00:00",
+  "LastChanged_Achievements": "2023-12-28T15:09:46.2399176+00:00",
   "LastUpdate_AppInfo": "2023-12-22T11:57:12.9881326+00:00",
-  "LastUpdate_Ratings": "2023-12-28T14:03:41.4929793+00:00",
-  "LastUpdate_Achievements": "2023-12-28T14:10:54.4080582+00:00"
+  "LastUpdate_Ratings": "2023-12-28T15:03:09.299476+00:00",
+  "LastUpdate_Achievements": "2023-12-28T15:09:46.2399892+00:00"
 }

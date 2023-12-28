@@ -4,8 +4,8 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 962,
+  "EOS_Progressed": 963,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 0,
@@ -3203,6 +3203,11 @@
       "Time": "2023-12-28T14:09:52.5436746+00:00",
       "NumProgressed": 962,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-28T15:09:01.7000283+00:00",
+      "NumProgressed": 963,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -3215,7 +3220,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "achievement_10",
@@ -3239,7 +3244,7 @@
       "Name": "Canyon of Karakuri",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "achievement_13",
@@ -3255,7 +3260,7 @@
       "Name": "Fusion Conjuror",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "achievement_15",
@@ -3271,7 +3276,7 @@
       "Name": "Distance Devourer",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "achievement_17",
@@ -3309,9 +3314,9 @@
       "ID": "achievement_20",
       "SetID": "2cpn27e",
       "Name": "Subsistence Skills",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 443
+      "UsersEstimate": 453
     },
     {
       "ID": "achievement_21",
@@ -3327,7 +3332,7 @@
       "Name": "Kemono Hunter",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "achievement_23",
@@ -3367,7 +3372,7 @@
       "Name": "Mighty Marmelizer",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "achievement_28",
@@ -3375,7 +3380,7 @@
       "Name": "Flawless Crystal",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "achievement_29",
@@ -3391,7 +3396,7 @@
       "Name": "Bonds of Enmity",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "achievement_30",
@@ -3431,7 +3436,7 @@
       "Name": "Kemono at Heart",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "achievement_35",
@@ -3447,7 +3452,7 @@
       "Name": "Bewitched by Bathing",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "achievement_37",
@@ -3455,7 +3460,7 @@
       "Name": "Hidden History",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "achievement_38",
@@ -3487,7 +3492,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "achievement_41",
@@ -3511,15 +3516,15 @@
       "Name": "Team Hunter",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "achievement_44",
       "SetID": "2cpn27e",
       "Name": "Artful Assister",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 202
     },
     {
       "ID": "achievement_45",
@@ -3535,7 +3540,7 @@
       "Name": "Charmed by the Hunt",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "achievement_47",
@@ -3598,13 +3603,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 962,
+      "Progressed": 963,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-28T14:09:52.5436739+00:00",
+  "LastChanged_Achievements": "2023-12-28T15:09:01.7000282+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:00.2404368+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:57:21.7883372+00:00",
-  "LastUpdate_Achievements": "2023-12-28T14:09:52.5437162+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:57:21.1395793+00:00",
+  "LastUpdate_Achievements": "2023-12-28T15:09:01.7000653+00:00"
 }

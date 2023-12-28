@@ -6,11 +6,11 @@ Rating: 4.26 (Ranked 893)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 79.00% | ~1,890 |
-| Don't I Know You...? | 76.00% | ~1,818 |
+| Don't I Know You...? | 76.00% | ~1,819 |
 | Jailbreak | 65.00% | ~1,555 |
 | HEADSHOT! | 38.00% | ~909 |
 | Suited and Booted | 38.00% | ~909 |
-| Sleeping With The Fishes | 35.00% | ~837 |
+| Sleeping With The Fishes | 35.00% | ~838 |
 | Overheated | 30.00% | ~718 |
 | High Performance | 30.00% | ~718 |
 | Powered Up | 28.00% | ~670 |
@@ -18,12 +18,12 @@ Rating: 4.26 (Ranked 893)
 | Home Invasion | 23.00% | ~550 |
 | Luminary | 22.00% | ~526 |
 | It's a Trap | 22.00% | ~526 |
-| True Survivor | 21.00% | ~502 |
-| Offensive Defense | 20.00% | ~478 |
-| Shocking | 20.00% | ~478 |
-| Court Martial | 19.00% | ~454 |
-| Clean Cut | 19.00% | ~454 |
-| Unforeseeable Consequences | 19.00% | ~454 |
+| True Survivor | 21.00% | ~503 |
+| Offensive Defense | 20.00% | ~479 |
+| Shocking | 20.00% | ~479 |
+| Court Martial | 19.00% | ~455 |
+| Clean Cut | 19.00% | ~455 |
+| Unforeseeable Consequences | 19.00% | ~455 |
 | Dead Again | 18.00% | ~431 |
 | Full Arsenal | 17.00% | ~407 |
 | Can't Trust Banks | 15.00% | ~359 |
@@ -41,7 +41,7 @@ Rating: 4.26 (Ranked 893)
 | A Little Banged Up | 8.00% | ~191 |
 | Following In Their Footsteps | 8.00% | ~191 |
 | Defense in Depth | 8.00% | ~191 |
-| Reverse Engineering | 7.00% | ~167 |
+| Reverse Engineering | 7.00% | ~168 |
 | Remote Surgery | 6.00% | ~144 |
 | Turbo Booster | 6.00% | ~144 |
 | Squid Pro Quo | 6.00% | ~144 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 893)
 | Three Birds With One Stone | 1.00% | ~24 |
 | The Easy Way Out | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,392 (Ranked 230)  
+Progressed: 2,393 (Ranked 229)  
 Completed: 13 (0.54%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 13 (0.54%) (Ranked 212)
 | 2023-12-25 | 2,372 | 13 |
 | 2023-12-26 | 2,379 | 13 |
 | 2023-12-27 | 2,388 | 13 |
-| 2023-12-28 | 2,392 | 13 |
+| 2023-12-28 | 2,393 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

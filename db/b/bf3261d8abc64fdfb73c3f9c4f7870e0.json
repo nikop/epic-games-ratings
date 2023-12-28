@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 512,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 318,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
     "PcReleaseDate": "2018-03-22T23:00:00+00:00",
@@ -479,9 +479,9 @@
       "ID": "achievement_fidelity_to_the_word",
       "SetID": "bngbnfb",
       "Name": "Oath-keeper",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_flit_alive",
@@ -766,8 +766,8 @@
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2023-12-28T14:09:43.4970509+00:00",
+  "LastChanged_Achievements": "2023-12-28T15:08:55.290515+00:00",
   "LastUpdate_AppInfo": "2023-12-27T14:57:14.899745+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:59:24.9704064+00:00",
-  "LastUpdate_Achievements": "2023-12-28T14:09:43.4970879+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:58:47.1612446+00:00",
+  "LastUpdate_Achievements": "2023-12-28T15:08:55.2905447+00:00"
 }

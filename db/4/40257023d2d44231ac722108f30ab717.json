@@ -4,8 +4,8 @@
   "ProductSlug": "orten-was-the-case-d108fb",
   "Ranking_EOS_Progress": 611,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 479,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 494,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-29T00:00:00+00:00",
     "PcReleaseDate": "2023-11-29T00:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 20,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 5,
   "EosHistory": [
@@ -168,9 +168,9 @@
       "ID": "FLASHBACK",
       "SetID": "51l0gl8",
       "Name": "Flashback",
-      "Percentage": 50,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "GETRICHORDIETRYING",
@@ -248,9 +248,9 @@
       "ID": "THEEND",
       "SetID": "51l0gl8",
       "Name": "The End",
-      "Percentage": 50,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "THEPROPHECY",
@@ -279,8 +279,8 @@
   ],
   "FirstSeen": "2023-12-03T01:50:41.1036238+00:00",
   "FirstSeenAchievements": "2023-10-25T12:03:08.1004674+00:00",
-  "LastChanged_Achievements": "2023-12-28T14:08:58.9732677+00:00",
+  "LastChanged_Achievements": "2023-12-28T15:08:23.5928151+00:00",
   "LastUpdate_AppInfo": "2023-12-27T14:57:15.5192883+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:57:07.6859+00:00",
-  "LastUpdate_Achievements": "2023-12-28T14:08:58.9732806+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:57:11.5463357+00:00",
+  "LastUpdate_Achievements": "2023-12-28T15:08:23.5928229+00:00"
 }

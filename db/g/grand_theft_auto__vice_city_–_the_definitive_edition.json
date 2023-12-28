@@ -2,13 +2,13 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 557,
+  "Ranking_Rating": 556,
   "Ranking_Popularity": 324,
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1015,9 +1015,9 @@
       "Count": 154
     }
   ],
-  "EOS_Progressed": 14379,
+  "EOS_Progressed": 14381,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1172,
+  "EOS_NewPlayers": 1165,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -16130,6 +16130,11 @@
       "Time": "2023-12-28T14:10:16.6165927+00:00",
       "NumProgressed": 14379,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-28T15:09:18.9353471+00:00",
+      "NumProgressed": 14381,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 34,
@@ -16245,7 +16250,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6039
+      "UsersEstimate": 6040
     },
     {
       "ID": "ACH15",
@@ -16301,7 +16306,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 6614
+      "UsersEstimate": 6615
     },
     {
       "ID": "ACH22",
@@ -16412,7 +16417,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 14379,
+      "Progressed": 14381,
       "Completed": 82
     }
   ],
@@ -16420,8 +16425,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-27T16:58:00.6584077+00:00",
-  "LastChanged_Achievements": "2023-12-28T14:10:16.6165923+00:00",
+  "LastChanged_Achievements": "2023-12-28T15:09:18.9353468+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:06.9886134+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:58:31.2545987+00:00",
-  "LastUpdate_Achievements": "2023-12-28T14:10:16.6167397+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:58:08.5064829+00:00",
+  "LastUpdate_Achievements": "2023-12-28T15:09:18.935423+00:00"
 }

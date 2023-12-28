@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -266,9 +266,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2287,
+  "EOS_Progressed": 2288,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -4196,6 +4196,11 @@
       "Time": "2023-12-27T13:10:56.8419838+00:00",
       "NumProgressed": 2287,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-28T15:03:26.3818846+00:00",
+      "NumProgressed": 2288,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 36,
@@ -4445,9 +4450,9 @@
       "ID": "DefeatCroakhisKhan",
       "SetID": "cbf1i0c",
       "Name": "Defeat Croakhis Khan",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "DefeatGrubBuster",
@@ -4477,9 +4482,9 @@
       "ID": "FirstBeer",
       "SetID": "cbf1i0c",
       "Name": "I Remember My First Beer",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TravelToBrightFirForest",
@@ -4494,22 +4499,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2287,
+      "Progressed": 2288,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 928,
-      "Completed": 905
+      "Progressed": 929,
+      "Completed": 906
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-23T19:58:55.6551134+00:00",
-  "LastChanged_Achievements": "2023-12-28T14:04:07.2573602+00:00",
+  "LastChanged_Achievements": "2023-12-28T15:03:26.3818844+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:15.2928033+00:00",
-  "LastUpdate_Ratings": "2023-12-28T14:02:39.5318173+00:00",
-  "LastUpdate_Achievements": "2023-12-28T14:04:07.2573948+00:00"
+  "LastUpdate_Ratings": "2023-12-28T15:02:39.5515971+00:00",
+  "LastUpdate_Achievements": "2023-12-28T15:03:26.3819183+00:00"
 }

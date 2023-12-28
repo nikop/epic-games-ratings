@@ -1,7 +1,7 @@
 # The Tenants
 [Store](https://store.epicgames.com/en-US/p/the-tenants)  
 [View Rawdata](../../db/t/the_tenants.json)  
-Rating: 4.52 (Ranked 569)  
+Rating: 4.52 (Ranked 568)  
 Number of Ratings: 82  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -93,7 +93,7 @@ Number of Ratings: 82  (23.09.2022)
 | White House | 0.00% | ~0 |
 | Wondersville Magnate | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,772 (Ranked 178)  
+Progressed: 9,773 (Ranked 178)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 9,769 | 0 |
 | 2023-12-24 | 9,770 | 0 |
 | 2023-12-25 | 9,771 | 0 |
-| 2023-12-28 | 9,772 | 0 |
+| 2023-12-28 | 9,773 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -20,7 +20,7 @@ Number of Ratings: 706  (23.09.2022)
 | Adept Researcher | 45.00% | ~3,411 |
 | Putting Food on the Table | 44.00% | ~3,335 |
 | Retribution | 43.00% | ~3,259 |
-| ...And Don’t Come Back! | 42.00% | ~3,183 |
+| ...And Don’t Come Back! | 43.00% | ~3,259 |
 | Feast or Famine | 36.00% | ~2,728 |
 | Heating Up | 33.00% | ~2,501 |
 | Luminary Researcher | 30.00% | ~2,274 |

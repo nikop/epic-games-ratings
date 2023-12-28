@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 481,
+  "EOS_Progressed": 484,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 292,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1320,6 +1320,11 @@
       "Time": "2023-12-28T13:12:10.5669289+00:00",
       "NumProgressed": 481,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T15:08:28.4836548+00:00",
+      "NumProgressed": 484,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1332,7 +1337,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "CareerAllChallenges",
@@ -1340,15 +1345,15 @@
       "Name": "Highballer",
       "Percentage": 37,
       "XP": 90,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "CareerChamp1",
       "SetID": "5hd282c",
       "Name": "Regional Juniors Champion",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 154
+      "UsersEstimate": 160
     },
     {
       "ID": "CareerChamp2",
@@ -1356,15 +1361,15 @@
       "Name": "National Amateurs Champion",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "CareerChamp3",
       "SetID": "5hd282c",
       "Name": "Challengers Champion",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 58
+      "UsersEstimate": 63
     },
     {
       "ID": "CareerChamp4",
@@ -1372,7 +1377,7 @@
       "Name": "Pro Internationals Champion",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "CareerComplete",
@@ -1380,15 +1385,15 @@
       "Name": "World Masters Champion",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "CareerFirstWin",
       "SetID": "5hd282c",
       "Name": "Storm Warning",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 308
+      "UsersEstimate": 305
     },
     {
       "ID": "CollectVehiclesA",
@@ -1396,7 +1401,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "CollectVehiclesB",
@@ -1404,7 +1409,7 @@
       "Name": "Junk Collector",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "CreditsEarnedA",
@@ -1444,7 +1449,7 @@
       "Name": "Dirty Roller",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "PlayerRankB",
@@ -1452,7 +1457,7 @@
       "Name": "Trashing Around",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "PlayerRankC",
@@ -1491,7 +1496,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 481,
+      "Progressed": 484,
       "Completed": 0
     }
   ],
@@ -1499,8 +1504,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-26T23:01:34.391907+00:00",
-  "LastChanged_Achievements": "2023-12-28T14:09:05.9525065+00:00",
+  "LastChanged_Achievements": "2023-12-28T15:08:28.4836546+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:57:39.0964319+00:00",
-  "LastUpdate_Achievements": "2023-12-28T14:09:05.9525286+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:57:33.9431388+00:00",
+  "LastUpdate_Achievements": "2023-12-28T15:08:28.483671+00:00"
 }

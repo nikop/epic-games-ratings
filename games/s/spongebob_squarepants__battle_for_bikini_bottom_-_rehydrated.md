@@ -26,12 +26,12 @@ Number of Ratings: 76  (23.09.2022)
 | Robot encyclopedia | 4.00% | ~18 |
 | Are you ready now? | 4.00% | ~18 |
 | Hello, Bikini Bottom | 4.00% | ~18 |
+| The Small Does Not Rule | 3.00% | ~14 |
 | Ship Shape | 3.00% | ~14 |
 | Shanghaied | 3.00% | ~14 |
 | Kelp Forest of Fear | 3.00% | ~14 |
+| SpongeBob vs SpongeBob! | 3.00% | ~14 |
 | Ultra Spatula Seeker | 3.00% | ~14 |
-| The Small Does Not Rule | 2.00% | ~9 |
-| SpongeBob vs SpongeBob! | 2.00% | ~9 |
 | Sleepy Time | 2.00% | ~9 |
 | Sock Concert | 2.00% | ~9 |
 | Mega Spatula Seeker | 2.00% | ~9 |
@@ -39,8 +39,8 @@ Number of Ratings: 76  (23.09.2022)
 | 100% SpongeBob | 0.70% | ~3 |
 | Super Ultra Mega Spatula Seeker | 0.70% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 451 (Ranked 346)  
-Completed: 3 (0.67%) (Ranked 199)  
+Progressed: 452 (Ranked 346)  
+Completed: 3 (0.66%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -54,7 +54,7 @@ Completed: 3 (0.67%) (Ranked 199)
 | 2023-12-25 | 378 | 1 |
 | 2023-12-26 | 412 | 3 |
 | 2023-12-27 | 435 | 3 |
-| 2023-12-28 | 451 | 3 |
+| 2023-12-28 | 452 | 3 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 495)  
 Sum: 35 (Ranked 522)  

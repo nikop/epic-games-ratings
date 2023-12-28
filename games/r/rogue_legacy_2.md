@@ -6,7 +6,7 @@ Number of Ratings: 1,331  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spells and Swords | 6.00% | ~1,620 |
+| Spells and Swords | 6.00% | ~1,621 |
 | Captain and Crew | 4.00% | ~1,080 |
 | No Harm in Looking | 4.00% | ~1,080 |
 | Harvest and Home | 3.00% | ~810 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,007 (Ranked 141)  
+Progressed: 27,010 (Ranked 141)  
 Completed: 35 (0.13%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,16 +296,16 @@ Completed: 35 (0.13%) (Ranked 296)
 | 2023-12-25 | 26,745 | 35 |
 | 2023-12-26 | 26,855 | 35 |
 | 2023-12-27 | 26,940 | 35 |
-| 2023-12-28 | 27,007 | 35 |
+| 2023-12-28 | 27,010 | 35 |
 ## Awards
 Max (Extremely Fun): 226  (Ranked 287)  
-Sum: 1,710 (Ranked 226)  
+Sum: 1,711 (Ranked 226)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 226 |
 | This game has Quickly Understood Controls | 207 |
-| This game has Diverse Characters | 201 |
+| This game has Diverse Characters | 202 |
 | This game has Challenging Combat | 198 |
 | This game is Highly Recommended | 195 |
 | This game is Relaxing | 189 |
@@ -446,3 +446,4 @@ Diff (max vs sum): 61
 | 2023-12-22 | 4.85 | - | 224 | 1,706 |
 | 2023-12-25 | 4.85 | - | 225 | 1,708 |
 | 2023-12-27 | 4.85 | - | 226 | 1,710 |
+| 2023-12-28 | 4.85 | - | 226 | 1,711 |

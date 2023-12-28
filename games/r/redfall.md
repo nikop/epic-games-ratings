@@ -42,8 +42,8 @@ Rating: 3.59 (Ranked 1,074)
 | Blacklight Down | 1.00% | ~21 |
 | Curious Finch | 0.90% | ~19 |
 | Right This Way | 0.80% | ~17 |
+| Bloody Initiate | 0.70% | ~15 |
 | Empty Nest Syndrome | 0.60% | ~13 |
-| Bloody Initiate | 0.60% | ~13 |
 | Dexterity Save | 0.60% | ~13 |
 | Neighborhood Watch | 0.50% | ~11 |
 | Blood Brother | 0.50% | ~11 |

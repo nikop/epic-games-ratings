@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -801,7 +801,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3625,
+  "EOS_Progressed": 3626,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
@@ -4996,6 +4996,11 @@
       "Time": "2023-12-28T13:10:35.7221164+00:00",
       "NumProgressed": 3625,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T15:06:09.6757922+00:00",
+      "NumProgressed": 3626,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5159,7 +5164,7 @@
       "Name": "Daemonkeeper",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "KadexDefeated_Nexus",
@@ -5191,7 +5196,7 @@
       "Name": "Corruption Cleanser",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Kills_Executioner",
@@ -5335,7 +5340,7 @@
       "Name": "Efficient Killer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "MissionVictory_NoDamage",
@@ -5431,7 +5436,7 @@
       "Name": "A Gift Spurned",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -5479,7 +5484,7 @@
       "Name": "Execution Force",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ExperiencedCallidus",
@@ -5487,7 +5492,7 @@
       "Name": "Reign of Confusion",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ExperiencedCulexus",
@@ -5527,7 +5532,7 @@
       "Name": "Suffer Not the Mutant",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "MissionVictory_BoardingAction",
@@ -5543,28 +5548,28 @@
       "Name": "Hive Exterminator",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     }
   ],
   "AchievementSets": [
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3625,
+      "Progressed": 3626,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3625,
+      "Progressed": 3626,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-24T12:02:56.3421491+00:00",
-  "LastChanged_Achievements": "2023-12-28T14:07:57.7208888+00:00",
+  "LastChanged_Achievements": "2023-12-28T15:06:09.6757921+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:54.0012795+00:00",
-  "LastUpdate_Ratings": "2023-12-28T14:03:33.9313192+00:00",
-  "LastUpdate_Achievements": "2023-12-28T14:07:57.7209504+00:00"
+  "LastUpdate_Ratings": "2023-12-28T15:03:02.8878671+00:00",
+  "LastUpdate_Achievements": "2023-12-28T15:06:09.6758712+00:00"
 }

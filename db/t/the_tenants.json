@@ -2,13 +2,13 @@
   "ID": "edaebe133189475c9fd853858b7fa9ac",
   "Name": "The Tenants",
   "ProductSlug": "the-tenants",
-  "Ranking_Rating": 569,
+  "Ranking_Rating": 568,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 425,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-03-25T23:00:00+00:00",
     "PcReleaseDate": "2021-03-25T23:00:00+00:00",
@@ -321,9 +321,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9772,
+  "EOS_Progressed": 9773,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -995,6 +995,11 @@
     {
       "Time": "2023-12-28T12:04:34.8963005+00:00",
       "NumProgressed": 9772,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T15:03:27.2908849+00:00",
+      "NumProgressed": 9773,
       "NumCompleted": 0
     }
   ],
@@ -1694,21 +1699,21 @@
     {
       "ID": "13614nd",
       "IsBase": true,
-      "Progressed": 9772,
+      "Progressed": 9773,
       "Completed": 0
     },
     {
       "ID": "1ejmoln",
       "IsBase": false,
-      "Progressed": 269,
+      "Progressed": 270,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:28:48.0535215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.1531533+00:00",
   "LastChanged": "2023-12-26T15:02:37.7996527+00:00",
-  "LastChanged_Achievements": "2023-12-28T14:04:08.4017367+00:00",
+  "LastChanged_Achievements": "2023-12-28T15:03:27.2908848+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:16.6477134+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:58:06.019569+00:00",
-  "LastUpdate_Achievements": "2023-12-28T14:04:08.401809+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:57:51.4048133+00:00",
+  "LastUpdate_Achievements": "2023-12-28T15:03:27.2909522+00:00"
 }

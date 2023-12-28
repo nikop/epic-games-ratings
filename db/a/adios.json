@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -135,10 +135,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81908,
-  "EOS_Completed": 901,
-  "EOS_NewPlayers": 728,
-  "EOS_NewCompleters": 11,
+  "EOS_Progressed": 81912,
+  "EOS_Completed": 902,
+  "EOS_NewPlayers": 726,
+  "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
     {
@@ -28235,6 +28235,11 @@
       "Time": "2023-12-28T14:07:01.2137286+00:00",
       "NumProgressed": 81908,
       "NumCompleted": 901
+    },
+    {
+      "Time": "2023-12-28T15:05:30.4839683+00:00",
+      "NumProgressed": 81912,
+      "NumCompleted": 902
     }
   ],
   "TotalAchievements": 25,
@@ -28278,7 +28283,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 18020
+      "UsersEstimate": 18021
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -28286,7 +28291,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14743
+      "UsersEstimate": 14744
     },
     {
       "ID": "Butcher",
@@ -28302,7 +28307,7 @@
       "Name": "Cut Call",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4914
+      "UsersEstimate": 4915
     },
     {
       "ID": "Fair\u0027sFair",
@@ -28342,7 +28347,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 4095
+      "UsersEstimate": 4096
     },
     {
       "ID": "Master, Commander",
@@ -28350,7 +28355,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17201
+      "UsersEstimate": 17202
     },
     {
       "ID": "Meaty",
@@ -28374,7 +28379,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 13105
+      "UsersEstimate": 13106
     },
     {
       "ID": "Nothing Left to Say",
@@ -28398,7 +28403,7 @@
       "Name": "Right On Target",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11467
+      "UsersEstimate": 11468
     },
     {
       "ID": "Sniper",
@@ -28445,16 +28450,16 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 81908,
-      "Completed": 901
+      "Progressed": 81912,
+      "Completed": 902
     }
   ],
   "FirstSeen": "2022-07-22T20:27:11.1683553+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-12-24T03:59:19.0038141+00:00",
-  "LastChanged_Achievements": "2023-12-28T14:07:01.2137282+00:00",
+  "LastChanged_Achievements": "2023-12-28T15:05:30.483968+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:32.7893719+00:00",
-  "LastUpdate_Ratings": "2023-12-28T14:02:30.6329588+00:00",
-  "LastUpdate_Achievements": "2023-12-28T14:07:01.2138745+00:00"
+  "LastUpdate_Ratings": "2023-12-28T15:02:33.9406087+00:00",
+  "LastUpdate_Achievements": "2023-12-28T15:05:30.4841477+00:00"
 }

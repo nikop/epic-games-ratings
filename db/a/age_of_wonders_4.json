@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -621,9 +621,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6392,
+  "EOS_Progressed": 6395,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 469,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9501,6 +9501,11 @@
       "Time": "2023-12-28T14:05:43.5517221+00:00",
       "NumProgressed": 6392,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-28T15:04:34.8811933+00:00",
+      "NumProgressed": 6395,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9624,7 +9629,7 @@
       "Name": "Realm Estate",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "23",
@@ -9632,7 +9637,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "24",
@@ -9648,7 +9653,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "26",
@@ -9656,7 +9661,7 @@
       "Name": "Bone Peddler",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "27",
@@ -9672,7 +9677,7 @@
       "Name": "From Friends to Family",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "29",
@@ -9991,13 +9996,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6392,
+      "Progressed": 6395,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6392,
+      "Progressed": 6395,
       "Completed": 7
     }
   ],
@@ -10005,8 +10010,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-27T21:02:05.3548504+00:00",
-  "LastChanged_Achievements": "2023-12-28T14:05:43.5517216+00:00",
+  "LastChanged_Achievements": "2023-12-28T15:04:34.8811931+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:57:00.1584313+00:00",
-  "LastUpdate_Achievements": "2023-12-28T14:05:43.5517954+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:57:06.837779+00:00",
+  "LastUpdate_Achievements": "2023-12-28T15:04:34.8812706+00:00"
 }

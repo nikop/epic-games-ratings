@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -855,9 +855,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2200,
+  "EOS_Progressed": 2201,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6005,6 +6005,11 @@
       "Time": "2023-12-28T13:12:15.2231871+00:00",
       "NumProgressed": 2200,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T15:08:32.3356416+00:00",
+      "NumProgressed": 2201,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 61,
@@ -6056,7 +6061,7 @@
       "Name": "Transport millionaire",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "achAircraftEarnings",
@@ -6078,9 +6083,9 @@
       "ID": "achAllElecHighSpeed",
       "SetID": "dgl390n",
       "Name": "No country for old trains",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 22
     },
     {
       "ID": "achAntique",
@@ -6112,7 +6117,7 @@
       "Name": "First bus stop",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1474
+      "UsersEstimate": 1475
     },
     {
       "ID": "achBuildTrainStation",
@@ -6120,7 +6125,7 @@
       "Name": "First train station",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "achCannotGetEnough",
@@ -6176,7 +6181,7 @@
       "Name": "Cadet",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "achCreateLine",
@@ -6184,7 +6189,7 @@
       "Name": "First line",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "achCrowdInATrain",
@@ -6224,7 +6229,7 @@
       "Name": "First bus arrived",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "achFirstCargoTransported",
@@ -6232,7 +6237,7 @@
       "Name": "First cargo item on board",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 1496
+      "UsersEstimate": 1497
     },
     {
       "ID": "achFirstCargoWaiting",
@@ -6240,15 +6245,15 @@
       "Name": "First cargo item waiting",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 1496
+      "UsersEstimate": 1497
     },
     {
       "ID": "achFirstElectricTrainArrived",
       "SetID": "dgl390n",
       "Name": "First electric train arrived",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 968
+      "UsersEstimate": 946
     },
     {
       "ID": "achFirstIndustryUpgrade",
@@ -6256,7 +6261,7 @@
       "Name": "First industry upgraded",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "achFirstPassengerTransported",
@@ -6264,7 +6269,7 @@
       "Name": "First passenger on board",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "achFirstPassengerWaiting",
@@ -6272,7 +6277,7 @@
       "Name": "First passenger waiting",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "achFirstShipArrived",
@@ -6288,7 +6293,7 @@
       "Name": "First steam train arrived",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "achGlacierExpress",
@@ -6446,9 +6451,9 @@
       "ID": "achTopSpeed120",
       "SetID": "dgl390n",
       "Name": "High speed",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 880
+      "UsersEstimate": 858
     },
     {
       "ID": "achTopSpeed300",
@@ -6503,15 +6508,15 @@
     {
       "ID": "dgl390n",
       "IsBase": true,
-      "Progressed": 2200,
+      "Progressed": 2201,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-12-25T18:59:12.0846943+00:00",
-  "LastChanged_Achievements": "2023-12-28T14:09:10.848662+00:00",
+  "LastChanged_Achievements": "2023-12-28T15:08:32.3356414+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:27.2154452+00:00",
-  "LastUpdate_Ratings": "2023-12-28T14:02:22.7335482+00:00",
-  "LastUpdate_Achievements": "2023-12-28T14:09:10.8487274+00:00"
+  "LastUpdate_Ratings": "2023-12-28T15:00:47.497363+00:00",
+  "LastUpdate_Achievements": "2023-12-28T15:08:32.3357195+00:00"
 }

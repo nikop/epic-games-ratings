@@ -3,9 +3,9 @@
   "Name": "Creepy Tale",
   "ProductSlug": "creepy-tale-058ebd",
   "Ranking_EOS_Progress": 421,
-  "Ranking_EOS_Completed": 80,
+  "Ranking_EOS_Completed": 81,
   "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2021-02-21T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 191,
+  "EOS_Progressed": 192,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.71,
+  "EOS_Completed_Percentage": 4.69,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -864,6 +864,11 @@
       "Time": "2023-12-28T13:13:41.7156888+00:00",
       "NumProgressed": 191,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-28T15:09:37.979993+00:00",
+      "NumProgressed": 192,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -884,7 +889,7 @@
       "Name": "Intuition",
       "Percentage": 17,
       "XP": 75,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "creepytaleach11",
@@ -900,7 +905,7 @@
       "Name": "Sweet feeling",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "creepytaleach13",
@@ -914,9 +919,9 @@
       "ID": "creepytaleach2",
       "SetID": "bnif31p",
       "Name": "Naivety",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 75,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "creepytaleach3",
@@ -924,7 +929,7 @@
       "Name": "Happy end",
       "Percentage": 42,
       "XP": 75,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "creepytaleach4",
@@ -940,7 +945,7 @@
       "Name": "Incorrigible researcher",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "creepytaleach6",
@@ -948,7 +953,7 @@
       "Name": "Dead together",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "creepytaleach7",
@@ -962,9 +967,9 @@
       "ID": "creepytaleach8",
       "SetID": "bnif31p",
       "Name": "Fake tune",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 88
+      "UsersEstimate": 86
     },
     {
       "ID": "creepytaleach9",
@@ -979,14 +984,14 @@
     {
       "ID": "bnif31p",
       "IsBase": true,
-      "Progressed": 191,
+      "Progressed": 192,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-12-28T14:10:43.9186912+00:00",
+  "LastChanged_Achievements": "2023-12-28T15:09:37.9799928+00:00",
   "LastUpdate_AppInfo": "2023-12-27T07:56:54.2023855+00:00",
-  "LastUpdate_Ratings": "2023-12-28T14:02:35.0587018+00:00",
-  "LastUpdate_Achievements": "2023-12-28T14:10:43.9187042+00:00"
+  "LastUpdate_Ratings": "2023-12-28T15:02:36.8120545+00:00",
+  "LastUpdate_Achievements": "2023-12-28T15:09:37.9800055+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "jackal",
   "Name": "Dauntless",
   "ProductSlug": "dauntless",
-  "Ranking_Rating": 557,
+  "Ranking_Rating": 556,
   "Ranking_Popularity": 19,
   "Ranking_PopularitySum": 23,
   "Ranking_EOS_Progress": 817,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2020-03-19T13:51:00+00:00",
     "PcReleaseDate": null,
@@ -12591,10 +12591,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 64882,
       "NumberOfAwardsMax": 25213
+    },
+    {
+      "Time": "2023-12-28T15:00:04.9097811+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 64896,
+      "NumberOfAwardsMax": 25213
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 64882,
+  "NumberOfAwards": 64896,
   "NumberOfAwardsMax": 25213,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12656,7 +12662,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 3508
+      "Count": 3522
     },
     {
       "Text": "This game has Diverse Characters",
@@ -12676,8 +12682,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2023-12-28T12:01:35.170481+00:00",
+  "LastChanged": "2023-12-28T15:00:04.9097809+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:06.544849+00:00",
-  "LastUpdate_Ratings": "2023-12-28T14:01:20.9577018+00:00",
-  "LastUpdate_Achievements": "2023-12-28T14:07:08.3611835+00:00"
+  "LastUpdate_Ratings": "2023-12-28T15:00:04.9097815+00:00",
+  "LastUpdate_Achievements": "2023-12-28T15:05:35.0446841+00:00"
 }

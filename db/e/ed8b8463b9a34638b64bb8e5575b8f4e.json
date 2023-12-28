@@ -3,9 +3,9 @@
   "Name": "The Isle Tide Hotel",
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 490,
-  "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 418,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Completed": 169,
+  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
     "PcReleaseDate": "2023-09-12T09:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 96,
+  "EOS_Progressed": 97,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.04,
+  "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
       "Time": "2023-09-12T13:07:07.5986891+00:00",
@@ -494,6 +494,11 @@
       "Time": "2023-12-27T15:09:47.1315153+00:00",
       "NumProgressed": 96,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T15:09:35.4955104+00:00",
+      "NumProgressed": 97,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-29T09:04:17.2869306+00:00",
@@ -512,7 +517,7 @@
       "ID": "christ_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Christ the Saviour",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 10,
       "UsersEstimate": 75
     },
@@ -528,7 +533,7 @@
       "ID": "cultipedia",
       "SetID": "7i36ba9",
       "Name": "Cultipedia",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -560,7 +565,7 @@
       "ID": "join_the_legal_team",
       "SetID": "7i36ba9",
       "Name": "Join the Legal Team",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -576,7 +581,7 @@
       "ID": "knock_knockout",
       "SetID": "7i36ba9",
       "Name": "Knock, Knockout",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
       "UsersEstimate": 40
     },
@@ -680,7 +685,7 @@
       "ID": "the_price_is_right",
       "SetID": "7i36ba9",
       "Name": "The Price is Right",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 10,
       "UsersEstimate": 70
     },
@@ -713,14 +718,14 @@
     {
       "ID": "7i36ba9",
       "IsBase": true,
-      "Progressed": 96,
+      "Progressed": 97,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-12-28T14:10:40.400513+00:00",
+  "LastChanged_Achievements": "2023-12-28T15:09:35.4955102+00:00",
   "LastUpdate_AppInfo": "2023-12-23T06:57:10.0357966+00:00",
-  "LastUpdate_Ratings": "2023-12-28T14:01:43.5144071+00:00",
-  "LastUpdate_Achievements": "2023-12-28T14:10:40.4005282+00:00"
+  "LastUpdate_Ratings": "2023-12-28T15:00:20.3289252+00:00",
+  "LastUpdate_Achievements": "2023-12-28T15:09:35.4955265+00:00"
 }

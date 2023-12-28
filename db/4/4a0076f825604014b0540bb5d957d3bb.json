@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 472,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -573,9 +573,9 @@
       "ID": "CgkInO_K3eIdEAIQAw",
       "SetID": "6bj96in",
       "Name": "GREAT ESCAPE",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 40,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "CgkInO_K3eIdEAIQBA",
@@ -621,9 +621,9 @@
       "ID": "CgkInO_K3eIdEAIQCQ",
       "SetID": "6bj96in",
       "Name": "NOVICE CRAFTSMAN",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 40,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "CgkInO_K3eIdEAIQCg",
@@ -637,17 +637,17 @@
       "ID": "CgkInO_K3eIdEAIQCw",
       "SetID": "6bj96in",
       "Name": "MASTER CRAFTSMAN",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 56
+      "UsersEstimate": 59
     },
     {
       "ID": "CgkInO_K3eIdEAIQDA",
       "SetID": "6bj96in",
       "Name": "BRIDGES OF THE PAST",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 40,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "CgkInO_K3eIdEAIQDQ",
@@ -669,9 +669,9 @@
       "ID": "CgkInO_K3eIdEAIQDw",
       "SetID": "6bj96in",
       "Name": "TIME THIEF",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "CgkInO_K3eIdEAIQEA",
@@ -709,17 +709,17 @@
       "ID": "CgkInO_K3eIdEAIQFA",
       "SetID": "6bj96in",
       "Name": "WALKER",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "CgkInO_K3eIdEAIQFQ",
       "SetID": "6bj96in",
       "Name": "RUNNER",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "CgkInO_K3eIdEAIQFg",
@@ -772,8 +772,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-12-28T14:10:37.2592982+00:00",
+  "LastChanged_Achievements": "2023-12-28T15:09:33.0468137+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:14.0329257+00:00",
-  "LastUpdate_Ratings": "2023-12-28T13:58:00.4232896+00:00",
-  "LastUpdate_Achievements": "2023-12-28T14:10:37.2593149+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:57:48.007709+00:00",
+  "LastUpdate_Achievements": "2023-12-28T15:09:33.0468266+00:00"
 }

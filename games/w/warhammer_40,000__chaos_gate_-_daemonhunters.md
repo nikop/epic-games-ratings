@@ -23,12 +23,12 @@ Number of Ratings: 371  (23.09.2022)
 | Hold Your Ground | 3.00% | ~109 |
 | Nemesis Master | 3.00% | ~109 |
 | Just a Scratch | 3.00% | ~109 |
-| Daemonkeeper | 2.00% | ~72 |
-| Corruption Cleanser | 2.00% | ~72 |
-| Efficient Killer | 2.00% | ~72 |
-| A Gift Spurned | 2.00% | ~72 |
-| Execution Force | 2.00% | ~72 |
-| Hive Exterminator | 2.00% | ~72 |
+| Daemonkeeper | 2.00% | ~73 |
+| Corruption Cleanser | 2.00% | ~73 |
+| Efficient Killer | 2.00% | ~73 |
+| A Gift Spurned | 2.00% | ~73 |
+| Execution Force | 2.00% | ~73 |
+| Hive Exterminator | 2.00% | ~73 |
 | Fleetmaster | 1.00% | ~36 |
 | Exterminator | 1.00% | ~36 |
 | Mind Like a Fortress | 1.00% | ~36 |
@@ -47,8 +47,8 @@ Number of Ratings: 371  (23.09.2022)
 | Strike Force | 0.60% | ~22 |
 | True Mastery | 0.60% | ~22 |
 | Exercise in Restraint | 0.50% | ~18 |
-| Reign of Confusion | 0.40% | ~14 |
-| Suffer Not the Mutant | 0.40% | ~14 |
+| Reign of Confusion | 0.40% | ~15 |
+| Suffer Not the Mutant | 0.40% | ~15 |
 | Blood and Iron | 0.30% | ~11 |
 | Clean Slate | 0.30% | ~11 |
 | Warp Flickers | 0.30% | ~11 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,625 (Ranked 215)  
+Progressed: 3,626 (Ranked 215)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 3,593 | 0 |
 | 2023-12-26 | 3,607 | 0 |
 | 2023-12-27 | 3,615 | 0 |
-| 2023-12-28 | 3,625 | 0 |
+| 2023-12-28 | 3,626 | 0 |
 ## Awards
 Max (Character Customization): 231  (Ranked 282)  
 Sum: 492 (Ranked 334)  

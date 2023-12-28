@@ -163,9 +163,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3110,
+  "EOS_Progressed": 3111,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -5383,6 +5383,11 @@
       "Time": "2023-12-28T09:08:47.7837522+00:00",
       "NumProgressed": 3110,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-12-28T15:06:22.4597787+00:00",
+      "NumProgressed": 3111,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 53,
@@ -5410,7 +5415,7 @@
       "Name": "Whispers in the Woods IV",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "STB_COLISSEUM_SECOND",
@@ -5458,7 +5463,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2954
+      "UsersEstimate": 2955
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -5482,7 +5487,7 @@
       "Name": "I smell fear",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "STB_DEFEAT_KILLAN",
@@ -5522,7 +5527,7 @@
       "Name": "Little light",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -5530,7 +5535,7 @@
       "Name": "Old friend",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -5576,9 +5581,9 @@
       "ID": "STB_MISSION0_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "No more cages!",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 2830
+      "UsersEstimate": 2800
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -5618,7 +5623,7 @@
       "Name": "Thornbarrow",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -5658,7 +5663,7 @@
       "Name": "Capelworth",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -5698,7 +5703,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1866
+      "UsersEstimate": 1867
     },
     {
       "ID": "STB_PET_HORSE",
@@ -5738,7 +5743,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -5770,7 +5775,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2270
+      "UsersEstimate": 2271
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -5786,7 +5791,7 @@
       "Name": "Full equipped",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -5810,14 +5815,14 @@
       "Name": "Petricite Burst",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3110,
+      "Progressed": 3111,
       "Completed": 17
     }
   ],
@@ -5825,8 +5830,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-26T20:58:40.3345897+00:00",
-  "LastChanged_Achievements": "2023-12-28T14:08:14.6003184+00:00",
+  "LastChanged_Achievements": "2023-12-28T15:06:22.4597785+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:06.9793878+00:00",
-  "LastUpdate_Ratings": "2023-12-28T14:00:33.0617426+00:00",
-  "LastUpdate_Achievements": "2023-12-28T14:08:14.6003724+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:59:32.7536841+00:00",
+  "LastUpdate_Achievements": "2023-12-28T15:06:22.4598583+00:00"
 }

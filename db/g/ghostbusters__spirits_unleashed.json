@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 182,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3861,9 +3861,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32843,
+  "EOS_Progressed": 32849,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 353,
+  "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -23756,6 +23756,11 @@
       "Time": "2023-12-28T14:09:00.6602015+00:00",
       "NumProgressed": 32843,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-28T15:08:24.6721293+00:00",
+      "NumProgressed": 32849,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 51,
@@ -23767,7 +23772,7 @@
       "Name": "Advancement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2627
+      "UsersEstimate": 2628
     },
     {
       "ID": "Animated",
@@ -23879,7 +23884,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2627
+      "UsersEstimate": 2628
     },
     {
       "ID": "Escape_Artist",
@@ -24071,7 +24076,7 @@
       "Name": "Stylish",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3284
+      "UsersEstimate": 3285
     },
     {
       "ID": "Summoner",
@@ -24174,7 +24179,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32843,
+      "Progressed": 32849,
       "Completed": 70
     }
   ],
@@ -24182,8 +24187,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-27T23:00:22.2812208+00:00",
-  "LastChanged_Achievements": "2023-12-28T14:09:00.6602012+00:00",
+  "LastChanged_Achievements": "2023-12-28T15:08:24.6721291+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.5748987+00:00",
-  "LastUpdate_Ratings": "2023-12-28T14:00:56.6609832+00:00",
-  "LastUpdate_Achievements": "2023-12-28T14:09:00.6603096+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:59:48.9592367+00:00",
+  "LastUpdate_Achievements": "2023-12-28T15:08:24.6722674+00:00"
 }

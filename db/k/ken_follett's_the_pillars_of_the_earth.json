@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17457,
+  "EOS_Progressed": 17459,
   "EOS_Completed": 122,
   "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 3,
@@ -17205,6 +17205,11 @@
       "Time": "2023-12-28T14:04:02.0853755+00:00",
       "NumProgressed": 17457,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-12-28T15:03:22.6880828+00:00",
+      "NumProgressed": 17459,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 41,
@@ -17224,7 +17229,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1048
     },
     {
       "ID": "tpote_achievement_11",
@@ -17232,7 +17237,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4015
+      "UsersEstimate": 4016
     },
     {
       "ID": "tpote_achievement_12",
@@ -17256,7 +17261,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5586
+      "UsersEstimate": 5587
     },
     {
       "ID": "tpote_achievement_15",
@@ -17296,7 +17301,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3142
+      "UsersEstimate": 3143
     },
     {
       "ID": "tpote_achievement_2",
@@ -17328,7 +17333,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3491
+      "UsersEstimate": 3492
     },
     {
       "ID": "tpote_achievement_23",
@@ -17360,7 +17365,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2269
+      "UsersEstimate": 2270
     },
     {
       "ID": "tpote_achievement_27",
@@ -17368,7 +17373,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3142
+      "UsersEstimate": 3143
     },
     {
       "ID": "tpote_achievement_28",
@@ -17408,7 +17413,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 3142
+      "UsersEstimate": 3143
     },
     {
       "ID": "tpote_achievement_32",
@@ -17480,7 +17485,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6983
+      "UsersEstimate": 6984
     },
     {
       "ID": "tpote_achievement_40",
@@ -17504,7 +17509,7 @@
       "Name": "Garden of Eden",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4015
+      "UsersEstimate": 4016
     },
     {
       "ID": "tpote_achievement_6",
@@ -17512,7 +17517,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4015
+      "UsersEstimate": 4016
     },
     {
       "ID": "tpote_achievement_7",
@@ -17536,22 +17541,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5935
+      "UsersEstimate": 5936
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17457,
+      "Progressed": 17459,
       "Completed": 122
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-28T14:04:02.0853751+00:00",
+  "LastChanged_Achievements": "2023-12-28T15:03:22.6880826+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.265609+00:00",
-  "LastUpdate_Ratings": "2023-12-28T14:00:48.3321925+00:00",
-  "LastUpdate_Achievements": "2023-12-28T14:04:02.0854799+00:00"
+  "LastUpdate_Ratings": "2023-12-28T14:59:43.0626779+00:00",
+  "LastUpdate_Achievements": "2023-12-28T15:03:22.6881698+00:00"
 }

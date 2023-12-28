@@ -1,7 +1,7 @@
 # Song of Nunu: A League of Legends Story
 [Store](https://store.epicgames.com/en-US/p/song-of-nunu-a-league-of-legends-story)  
 [View Rawdata](../../db/s/song_of_nunu__a_league_of_legends_story™.json)  
-Rating: 4.52 (Ranked 569)  
+Rating: 4.52 (Ranked 568)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,8 +15,8 @@ Rating: 4.52 (Ranked 569)
 | Cutie Poro | 64.00% | ~874 |
 | The Fire Below the Mountain | 61.00% | ~833 |
 | Moneyball | 60.00% | ~819 |
+| No Bites | 55.00% | ~751 |
 | Iceborn | 55.00% | ~751 |
-| No Bites | 54.00% | ~737 |
 | Boom Things | 53.00% | ~723 |
 | Tear of Freedom | 52.00% | ~710 |
 | My Darkest Day | 48.00% | ~655 |
@@ -51,7 +51,7 @@ Rating: 4.52 (Ranked 569)
 | Sneaky Notai | 1.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,365 (Ranked 261)  
-Completed: 9 (0.66%) (Ranked 200)  
+Completed: 9 (0.66%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

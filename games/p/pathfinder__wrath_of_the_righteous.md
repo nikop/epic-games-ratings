@@ -7,9 +7,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 27.00% | ~3,465 |
-| A Spark | 19.00% | ~2,438 |
+| A Spark | 19.00% | ~2,439 |
 | Burning City | 18.00% | ~2,310 |
-| Defender's Heart | 16.00% | ~2,053 |
+| Defender's Heart | 16.00% | ~2,054 |
 | Mythic Choices | 15.00% | ~1,925 |
 | Banner over the Citadel | 14.00% | ~1,797 |
 | Queen's Gratitude | 12.00% | ~1,540 |
@@ -34,10 +34,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Lich | 3.00% | ~385 |
 | Heroic Victory | 3.00% | ~385 |
 | Core of the Riddle | 3.00% | ~385 |
-| Hanged Man's Notes | 3.00% | ~348 |
-| Sarkoris Will Be Green | 3.00% | ~348 |
-| The Lady of the Forest | 3.00% | ~348 |
-| Beware Still Water | 3.00% | ~348 |
+| Hanged Man's Notes | 3.00% | ~349 |
+| Sarkoris Will Be Green | 3.00% | ~349 |
+| The Lady of the Forest | 3.00% | ~349 |
+| Beware Still Water | 3.00% | ~349 |
 | Path of the Demon | 2.00% | ~257 |
 | Path of the Aeon | 2.00% | ~257 |
 | Capitulation Is Now Moot | 2.00% | ~257 |
@@ -52,14 +52,14 @@ Number of Ratings: 1,354  (23.09.2022)
 | Truly Profane Gift | 1.00% | ~128 |
 | This Wall Won't Fall | 1.00% | ~116 |
 | Not the Last Sarkorian | 1.00% | ~116 |
-| End of Eternal Guard | 0.90% | ~115 |
+| End of Eternal Guard | 0.90% | ~116 |
 | Masterful Charge | 0.70% | ~90 |
 | Playful Mood | 0.70% | ~90 |
 | Dreadful Dragon | 0.70% | ~90 |
 | Prelate's Nemesis | 0.50% | ~64 |
 | Ashes to Ashes | 0.40% | ~51 |
-| Masterful Dispel | 0.30% | ~38 |
-| Just Pathetic | 0.30% | ~38 |
+| Masterful Dispel | 0.30% | ~39 |
+| Just Pathetic | 0.30% | ~39 |
 | Path of the Swarm | 0.20% | ~26 |
 | Spirit of Adventure | 0.20% | ~26 |
 | Equal to Aroden | 0.10% | ~13 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,833 (Ranked 173)  
+Progressed: 12,835 (Ranked 173)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -375,10 +375,10 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 12,766 | 0 |
 | 2023-12-26 | 12,801 | 0 |
 | 2023-12-27 | 12,819 | 0 |
-| 2023-12-28 | 12,833 | 0 |
+| 2023-12-28 | 12,835 | 0 |
 ## Awards
 Max (Character Customization): 1,774  (Ranked 125)  
-Sum: 7,171 (Ranked 124)  
+Sum: 7,172 (Ranked 124)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
@@ -389,7 +389,7 @@ Diff (max vs sum): 1
 | This game has Amazing Characters | 649 |
 | This game has Amazing Storytelling | 629 |
 | This game has Challenging Combat | 598 |
-| This game has Quickly Understood Controls | 584 |
+| This game has Quickly Understood Controls | 585 |
 | This game is Relaxing | 565 |
 | This game has a Creative Community | 404 |
 | This game has Obsessive Gameplay | 364 |
@@ -699,3 +699,4 @@ Diff (max vs sum): 1
 | 2023-12-25 | 4.76 | - | 1,769 | 7,165 |
 | 2023-12-26 | 4.76 | - | 1,772 | 7,169 |
 | 2023-12-27 | 4.76 | - | 1,774 | 7,171 |
+| 2023-12-28 | 4.76 | - | 1,774 | 7,172 |

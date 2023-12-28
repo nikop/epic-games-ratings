@@ -5,40 +5,40 @@ Rating: 4.88 (Ranked 17)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 50.00% | ~6,490 |
-| Start with a bang! | 49.00% | ~6,360 |
-| You can pet the cat! | 45.00% | ~5,841 |
-| Who put gears in there? | 36.00% | ~4,673 |
-| Cream of the Crop | 31.00% | ~4,024 |
-| Thanks for the free chip, Peppermint! | 31.00% | ~4,024 |
-| You got this, Peppermint? | 26.00% | ~3,375 |
-| Perfect Parry | 24.00% | ~3,115 |
-| Alright, that felt AWESOME! | 23.00% | ~2,985 |
-| I play my own way! | 21.00% | ~2,726 |
-| This will cost you big time | 18.00% | ~2,336 |
-| Uh, they were broken when I got here | 18.00% | ~2,336 |
-| Z-shielding's got nothing on us! | 17.00% | ~2,207 |
-| Kissing the sky! | 16.00% | ~2,077 |
-| Does that say weakpoint? | 15.00% | ~1,947 |
-| Whoa! There's ANOTHER health bar!? | 14.00% | ~1,817 |
-| The Negotiator | 13.00% | ~1,687 |
-| You must like calling me in, Chai | 11.00% | ~1,428 |
-| I look cool. But I can look COOLER. | 11.00% | ~1,428 |
-| Headliner | 10.00% | ~1,298 |
-| Out in a puff of smoke | 10.00% | ~1,298 |
-| Perfecter Parry-er! | 10.00% | ~1,298 |
-| Time to pay up! | 9.00% | ~1,168 |
-| Who's the boss now? | 9.00% | ~1,168 |
-| I have to read these things? | 9.00% | ~1,168 |
-| NOW we got a kickass hideout! | 7.00% | ~805 |
-| Well that was a rush! | 6.00% | ~779 |
-| There's such a thing as TOO helpful | 6.00% | ~779 |
-| Beat-hit mania | 5.00% | ~649 |
-| That's a lot of junk metal… | 5.00% | ~649 |
-| I told you I'd be fine, Peppermint! | 4.00% | ~519 |
-| Chip-tuned | 3.00% | ~389 |
-| Wanna hear my playlist? | 3.00% | ~389 |
-| Check out my moves! | 3.00% | ~389 |
+| Feeling the beat! | 50.00% | ~6,507 |
+| Start with a bang! | 49.00% | ~6,377 |
+| You can pet the cat! | 45.00% | ~5,856 |
+| Who put gears in there? | 36.00% | ~4,685 |
+| Cream of the Crop | 31.00% | ~4,034 |
+| Thanks for the free chip, Peppermint! | 31.00% | ~4,034 |
+| You got this, Peppermint? | 26.00% | ~3,384 |
+| Perfect Parry | 24.00% | ~3,123 |
+| Alright, that felt AWESOME! | 23.00% | ~2,993 |
+| I play my own way! | 21.00% | ~2,733 |
+| This will cost you big time | 18.00% | ~2,343 |
+| Uh, they were broken when I got here | 18.00% | ~2,343 |
+| Z-shielding's got nothing on us! | 17.00% | ~2,212 |
+| Kissing the sky! | 16.00% | ~2,082 |
+| Does that say weakpoint? | 15.00% | ~1,952 |
+| Whoa! There's ANOTHER health bar!? | 14.00% | ~1,822 |
+| The Negotiator | 13.00% | ~1,692 |
+| You must like calling me in, Chai | 11.00% | ~1,432 |
+| I look cool. But I can look COOLER. | 11.00% | ~1,432 |
+| Headliner | 10.00% | ~1,301 |
+| Out in a puff of smoke | 10.00% | ~1,301 |
+| Perfecter Parry-er! | 10.00% | ~1,301 |
+| Time to pay up! | 9.00% | ~1,171 |
+| Who's the boss now? | 9.00% | ~1,171 |
+| I have to read these things? | 9.00% | ~1,171 |
+| There's such a thing as TOO helpful | 7.00% | ~911 |
+| NOW we got a kickass hideout! | 7.00% | ~807 |
+| Well that was a rush! | 6.00% | ~781 |
+| Beat-hit mania | 5.00% | ~651 |
+| That's a lot of junk metal… | 5.00% | ~651 |
+| I told you I'd be fine, Peppermint! | 4.00% | ~521 |
+| Chip-tuned | 3.00% | ~390 |
+| Wanna hear my playlist? | 3.00% | ~390 |
+| Check out my moves! | 3.00% | ~390 |
 | I think I found your calling, Macaron | 2.00% | ~260 |
 | We're Jammin' | 2.00% | ~260 |
 | First we parry, then we counter | 2.00% | ~260 |
@@ -77,8 +77,8 @@ Rating: 4.88 (Ranked 17)
 | Voices from within | 0.10% | ~12 |
 | Low budget finish | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,980 (Ranked 171)  
-Completed: 8 (0.06%) (Ranked 327)  
+Progressed: 13,014 (Ranked 171)  
+Completed: 8 (0.06%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -319,7 +319,7 @@ Completed: 8 (0.06%) (Ranked 327)
 | 2023-12-25 | 12,076 | 8 |
 | 2023-12-26 | 12,450 | 8 |
 | 2023-12-27 | 12,766 | 8 |
-| 2023-12-28 | 12,980 | 8 |
+| 2023-12-28 | 13,014 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

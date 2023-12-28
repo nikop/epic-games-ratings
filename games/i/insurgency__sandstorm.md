@@ -6,30 +6,30 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~25,667 |
-| Exploitative | 4.00% | ~20,534 |
-| Point Shooting | 4.00% | ~20,534 |
-| Wet Feet | 4.00% | ~20,534 |
-| High Speed Low Drag | 3.00% | ~15,400 |
-| Lucky | 3.00% | ~15,400 |
-| Stylin' | 3.00% | ~15,400 |
-| Turf War | 3.00% | ~15,400 |
+| Wallbanger | 5.00% | ~25,669 |
+| Exploitative | 4.00% | ~20,535 |
+| Point Shooting | 4.00% | ~20,535 |
+| Wet Feet | 4.00% | ~20,535 |
+| High Speed Low Drag | 3.00% | ~15,401 |
+| Lucky | 3.00% | ~15,401 |
+| Stylin' | 3.00% | ~15,401 |
+| Turf War | 3.00% | ~15,401 |
 | Banged | 2.00% | ~10,267 |
 | Checkpoint Victory | 2.00% | ~10,267 |
 | First Blood | 2.00% | ~10,267 |
 | Flaccid Paralysis | 2.00% | ~10,267 |
 | Push Victory | 2.00% | ~10,267 |
 | Self-destructive | 2.00% | ~10,267 |
-| Blindfire | 1.00% | ~5,133 |
-| Ruthless | 1.00% | ~5,133 |
-| Semper Paratus | 1.00% | ~5,133 |
+| Blindfire | 1.00% | ~5,134 |
+| Ruthless | 1.00% | ~5,134 |
+| Semper Paratus | 1.00% | ~5,134 |
 | Carrying | 0.90% | ~4,620 |
 | Efficient | 0.90% | ~4,620 |
 | Mount & Gun | 0.90% | ~4,620 |
 | Personal | 0.90% | ~4,620 |
 | Grounded | 0.80% | ~4,107 |
 | Play to Win | 0.80% | ~4,107 |
-| Special Delivery | 0.70% | ~3,593 |
+| Special Delivery | 0.70% | ~3,594 |
 | Firefight Victory | 0.60% | ~3,080 |
 | #1 | 0.60% | ~3,080 |
 | Cinematic | 0.50% | ~2,567 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~513 |
 | Road Hazard | 0.10% | ~513 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 513,349 (Ranked 37)  
+Progressed: 513,374 (Ranked 37)  
 Completed: 2 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,10 +294,10 @@ Completed: 2 (0.00%) (Ranked 389)
 | 2023-12-25 | 510,899 | 2 |
 | 2023-12-26 | 511,880 | 2 |
 | 2023-12-27 | 512,843 | 2 |
-| 2023-12-28 | 513,349 | 2 |
+| 2023-12-28 | 513,374 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 413  (Ranked 235)  
-Sum: 3,292 (Ranked 178)  
+Sum: 3,293 (Ranked 178)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -307,7 +307,7 @@ Diff (max vs sum): 57
 | This game has Competitive Players | 379 |
 | This game is Highly Recommended | 365 |
 | This game has Realistic Visuals | 354 |
-| This game has Amazing Characters | 347 |
+| This game has Amazing Characters | 348 |
 | This game has Amazing Storytelling | 336 |
 | This game has a Competitive Community | 310 |
 | This game has Obsessive Gameplay | 156 |
@@ -636,3 +636,4 @@ Diff (max vs sum): 57
 | 2023-12-25 | 4.61 | - | 412 | 3,282 |
 | 2023-12-26 | 4.61 | - | 413 | 3,287 |
 | 2023-12-27 | 4.61 | - | 413 | 3,292 |
+| 2023-12-28 | 4.61 | - | 413 | 3,293 |

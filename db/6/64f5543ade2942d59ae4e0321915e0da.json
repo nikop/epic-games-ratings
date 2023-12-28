@@ -4,8 +4,8 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 281,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1283,9 +1283,9 @@
       "ID": "AC_DEATH_1",
       "SetID": "16i2akc",
       "Name": "Corpse",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 104
     },
     {
       "ID": "AC_DEATH_2",
@@ -1307,9 +1307,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 149
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1331,9 +1331,9 @@
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 225
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -1482,8 +1482,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-28T14:07:50.2575519+00:00",
+  "LastChanged_Achievements": "2023-12-28T15:06:04.2338099+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:54.1541826+00:00",
-  "LastUpdate_Ratings": "2023-12-28T14:02:24.8189813+00:00",
-  "LastUpdate_Achievements": "2023-12-28T14:07:50.2575857+00:00"
+  "LastUpdate_Ratings": "2023-12-28T15:00:49.3068572+00:00",
+  "LastUpdate_Achievements": "2023-12-28T15:06:04.2338355+00:00"
 }

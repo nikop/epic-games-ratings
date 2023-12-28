@@ -19,8 +19,8 @@
 | Starship Docks | 10.00% | ~91 |
 | Nanonic III | 10.00% | ~91 |
 | Rookie | 10.00% | ~91 |
+| Cybernetic | 9.00% | ~82 |
 | The Bigger They Are | 8.00% | ~72 |
-| Cybernetic | 8.00% | ~72 |
 | Eden Heights | 6.00% | ~54 |
 | Up Close And Personal | 6.00% | ~54 |
 | Outer Core | 5.00% | ~45 |

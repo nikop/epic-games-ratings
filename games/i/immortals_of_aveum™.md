@@ -1,31 +1,31 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.22 (Ranked 928)  
+Rating: 4.22 (Ranked 929)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,828 |
-| Battlefields Have Memories | 80.00% | ~1,681 |
-| Enlisted | 73.00% | ~1,534 |
-| Maybe Engage a Little | 67.00% | ~1,408 |
-| No More Names | 49.00% | ~1,029 |
-| Initiate | 35.00% | ~735 |
-| Thrada-Kul | 31.00% | ~651 |
-| Gravity-Challenged Rocks | 25.00% | ~525 |
-| Socialite | 23.00% | ~483 |
-| Soldier | 21.00% | ~441 |
-| All the Major Food Groups | 21.00% | ~441 |
-| Beggars Would Ride | 19.00% | ~399 |
-| Control is an Illusion | 17.00% | ~357 |
-| The Means to Save It | 15.00% | ~315 |
-| Resilience to Sin | 13.00% | ~273 |
-| A Familiar Nest | 12.00% | ~252 |
-| Geas Aristeya | 12.00% | ~252 |
-| Periapt Alizarin | 12.00% | ~252 |
-| A Perfect Cycle | 11.00% | ~231 |
-| Recruit | 11.00% | ~231 |
-| Armsman | 10.00% | ~210 |
+| Unforeseen | 87.00% | ~1,832 |
+| Battlefields Have Memories | 80.00% | ~1,685 |
+| Enlisted | 73.00% | ~1,537 |
+| Maybe Engage a Little | 67.00% | ~1,411 |
+| No More Names | 49.00% | ~1,032 |
+| Initiate | 35.00% | ~737 |
+| Thrada-Kul | 31.00% | ~653 |
+| Gravity-Challenged Rocks | 25.00% | ~526 |
+| Socialite | 23.00% | ~484 |
+| Soldier | 21.00% | ~442 |
+| All the Major Food Groups | 21.00% | ~442 |
+| Beggars Would Ride | 19.00% | ~400 |
+| Control is an Illusion | 17.00% | ~358 |
+| The Means to Save It | 15.00% | ~316 |
+| Resilience to Sin | 13.00% | ~274 |
+| A Familiar Nest | 12.00% | ~253 |
+| Geas Aristeya | 12.00% | ~253 |
+| Periapt Alizarin | 12.00% | ~253 |
+| A Perfect Cycle | 11.00% | ~232 |
+| Recruit | 11.00% | ~232 |
+| Armsman | 9.00% | ~190 |
 | Lights Army | 8.00% | ~168 |
 | Periapt Cerulean | 6.00% | ~126 |
 | Good Boy | 6.00% | ~126 |
@@ -40,7 +40,7 @@ Rating: 4.22 (Ranked 928)
 | Veteran | 2.00% | ~42 |
 | Grand Magnus | 1.00% | ~21 |
 | Master of Carmine | 1.00% | ~21 |
-| Tip of the Spear | 1.00% | ~21 |
+| Tip of the Spear | 0.90% | ~19 |
 | Master of Ultramarine | 0.80% | ~17 |
 | Shroudfane Surveyor | 0.80% | ~17 |
 | Master of Malachite | 0.60% | ~13 |
@@ -53,8 +53,8 @@ Rating: 4.22 (Ranked 928)
 | Out of Time | 0.20% | ~4 |
 | Fowl Play | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,101 (Ranked 238)  
-Completed: 2 (0.10%) (Ranked 305)  
+Progressed: 2,106 (Ranked 237)  
+Completed: 2 (0.09%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -144,7 +144,7 @@ Completed: 2 (0.10%) (Ranked 305)
 | 2023-12-25 | 1,876 | 2 |
 | 2023-12-26 | 1,969 | 2 |
 | 2023-12-27 | 2,049 | 2 |
-| 2023-12-28 | 2,101 | 2 |
+| 2023-12-28 | 2,106 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

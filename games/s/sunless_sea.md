@@ -6,19 +6,19 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~15,509 |
-| Sweet Sorrow | 18.00% | ~7,755 |
-| Rules the Waves | 17.00% | ~7,324 |
-| Thou, All-Shaking Thunder | 15.00% | ~6,462 |
-| Rival | 14.00% | ~6,031 |
+| Sink Beneath the Waves | 36.00% | ~15,511 |
+| Sweet Sorrow | 18.00% | ~7,756 |
+| Rules the Waves | 17.00% | ~7,325 |
+| Thou, All-Shaking Thunder | 15.00% | ~6,463 |
+| Rival | 14.00% | ~6,032 |
 | Correspondent | 12.00% | ~5,170 |
 | Lose Your Mind | 12.00% | ~5,170 |
 | Sound Mind? | 12.00% | ~5,170 |
-| Salt's Curse | 11.00% | ~4,739 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~4,739 |
-| The Fall of the House | 11.00% | ~4,739 |
-| Shipmate | 11.00% | ~4,739 |
-| One Year at Zee | 8.00% | ~3,446 |
+| Salt's Curse | 11.00% | ~4,740 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~4,740 |
+| The Fall of the House | 11.00% | ~4,740 |
+| Shipmate | 11.00% | ~4,740 |
+| One Year at Zee | 8.00% | ~3,447 |
 | Pupil | 7.00% | ~3,016 |
 | Salvager | 7.00% | ~3,016 |
 | Open Your Ears | 7.00% | ~3,016 |
@@ -26,9 +26,9 @@ Number of Ratings: 401  (23.09.2022)
 | Zee Fever | 5.00% | ~2,154 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,723 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,723 |
-| Storm's Curse | 3.00% | ~1,292 |
-| We're Gonna Need a Bigger Boat | 3.00% | ~1,292 |
-| Come Closer | 3.00% | ~1,292 |
+| Storm's Curse | 3.00% | ~1,293 |
+| We're Gonna Need a Bigger Boat | 3.00% | ~1,293 |
+| Come Closer | 3.00% | ~1,293 |
 | Roaring Rise | 2.00% | ~862 |
 | I am the Captain of my Soul | 2.00% | ~862 |
 | A buoyant escape | 1.00% | ~431 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~43 |
 | Ten Years at Zee | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,081 (Ranked 126)  
+Progressed: 43,087 (Ranked 126)  
 Completed: 4 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 4 (0.01%) (Ranked 367)
 | 2023-12-25 | 42,912 | 4 |
 | 2023-12-26 | 42,966 | 4 |
 | 2023-12-27 | 43,046 | 4 |
-| 2023-12-28 | 43,081 | 4 |
+| 2023-12-28 | 43,087 | 4 |
 ## Awards
 Max (Character Customization): 221  (Ranked 288)  
 Sum: 315 (Ranked 371)  
