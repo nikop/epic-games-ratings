@@ -84,6 +84,7 @@
 | [Alice's Jigsaw. Wonderland Chronicles 2](games/6/6445bb085c274bb58007a3febb1df67e.md) | 2024-01-26 | - |  | - | - |
 | [Tiny Jump](games/0/08d22307c66c4923ae6fab7edfa6e227.md) | 2024-01-29 | - |  | - | - |
 | [Rainbow Pixel - Color by Number](games/5/58c551d60fa348e899b68bbc6381ea42.md) | 2024-01-29 | - |  | - | - |
+| [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 2024-01-31 | - |  | - | - |
 | [CyberPunk:AI and Neon](games/6/64befde675a84adeb83ad9d69502ff75.md) | 2024-01-31 | - |  | - | - |
 | [Geometric Sniper](games/1/17514f68442f4cb19f6219f45309142b.md) | 2024-01-31 | - |  | - | - |
 | [Match Three Pirates 2](games/9/99b0be691570460b8cfdc9282fc011ab.md) | 2024-01-31 | - |  | - | - |
