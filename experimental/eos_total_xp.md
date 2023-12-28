@@ -178,6 +178,7 @@
 | [Candle Knight](../games/9/909c6e888c164c78a1811afccedbc3a7.md) | 23 | 1,000 |
 | [Carsick Carventure](../games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 5 | 1,000 |
 | [Cartel Tycoon](../games/c/cartel_tycoon.md) | 19 | 1,000 |
+| [Cat Quest](../games/c/c986e75258a146fba03a920dba852ca9.md) | 12 | 1,000 |
 | [Cave Digger 2](../games/9/959857360f1a4558b390204178101bc3.md) | 24 | 1,000 |
 | [Centipede: Recharged](../games/c/centipede__recharged.md) | 16 | 1,000 |
 | [Cepheus Protocol](../games/c/cepheus_protocol.md) | 5 | 1,000 |
