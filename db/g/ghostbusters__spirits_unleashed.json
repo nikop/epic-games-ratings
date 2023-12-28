@@ -6,7 +6,7 @@
   "Ranking_Popularity": 253,
   "Ranking_PopularitySum": 182,
   "Ranking_EOS_Progress": 133,
-  "Ranking_EOS_Completed": 271,
+  "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
@@ -3861,9 +3861,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32849,
+  "EOS_Progressed": 32850,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 357,
+  "EOS_NewPlayers": 356,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -23761,6 +23761,11 @@
       "Time": "2023-12-28T15:08:24.6721293+00:00",
       "NumProgressed": 32849,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-28T16:08:47.2681654+00:00",
+      "NumProgressed": 32850,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 51,
@@ -23780,7 +23785,7 @@
       "Name": "Animated",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "Back_Off",
@@ -23788,7 +23793,7 @@
       "Name": "Back Off",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "Best_Insurance",
@@ -23796,7 +23801,7 @@
       "Name": "We have the best insurance",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -23876,7 +23881,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "Efficient",
@@ -23932,7 +23937,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "Legions",
@@ -23940,7 +23945,7 @@
       "Name": "Legions",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "Liability",
@@ -23988,7 +23993,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "Reckless",
@@ -24020,7 +24025,7 @@
       "Name": "Right back at ya",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "Rivalry",
@@ -24036,7 +24041,7 @@
       "Name": "Seasoned",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "Side_Hustle",
@@ -24044,7 +24049,7 @@
       "Name": "Side Hustle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "Skilled",
@@ -24084,7 +24089,7 @@
       "Name": "Summoner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "Surprise",
@@ -24179,7 +24184,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32849,
+      "Progressed": 32850,
       "Completed": 70
     }
   ],
@@ -24187,8 +24192,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-27T23:00:22.2812208+00:00",
-  "LastChanged_Achievements": "2023-12-28T15:08:24.6721291+00:00",
+  "LastChanged_Achievements": "2023-12-28T16:08:47.2681651+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.5748987+00:00",
-  "LastUpdate_Ratings": "2023-12-28T14:59:48.9592367+00:00",
-  "LastUpdate_Achievements": "2023-12-28T15:08:24.6722674+00:00"
+  "LastUpdate_Ratings": "2023-12-28T16:00:19.2836892+00:00",
+  "LastUpdate_Achievements": "2023-12-28T16:08:47.2682974+00:00"
 }

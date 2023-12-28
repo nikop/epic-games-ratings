@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -295,7 +295,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 729,
+  "EOS_Progressed": 730,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
@@ -2575,6 +2575,11 @@
       "Time": "2023-12-28T15:09:47.791052+00:00",
       "NumProgressed": 729,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T16:10:14.754293+00:00",
+      "NumProgressed": 730,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2698,7 +2703,7 @@
       "Name": "Prospector",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -2706,7 +2711,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH_COLL_CH01",
@@ -2722,7 +2727,7 @@
       "Name": "Collectibles of Chapter II",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_COLL_CH03",
@@ -2818,7 +2823,7 @@
       "Name": "The Breaking Point",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -2882,7 +2887,7 @@
       "Name": "Broken Hopes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_FIN_CH11",
@@ -2946,7 +2951,7 @@
       "Name": "Without a Second Thought",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_KILL_BRAWL",
@@ -2994,7 +2999,7 @@
       "Name": "Eat Lead!",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -3057,15 +3062,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 729,
+      "Progressed": 730,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2023-12-28T15:09:47.7910519+00:00",
+  "LastChanged_Achievements": "2023-12-28T16:10:14.7542925+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:19.2652244+00:00",
-  "LastUpdate_Ratings": "2023-12-28T14:57:40.6615443+00:00",
-  "LastUpdate_Achievements": "2023-12-28T15:09:47.7910962+00:00"
+  "LastUpdate_Ratings": "2023-12-28T15:57:59.3162047+00:00",
+  "LastUpdate_Achievements": "2023-12-28T16:10:14.7543495+00:00"
 }

@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 71.00% | ~53 |
-| Little ideas | 68.00% | ~51 |
-| The Ship | 64.00% | ~48 |
-| Seeking the truth | 53.00% | ~40 |
-| An old friend | 51.00% | ~38 |
-| The Gala | 49.00% | ~37 |
-| A curious gathering | 47.00% | ~35 |
+| Marc Allard | 72.00% | ~54 |
+| Little ideas | 69.00% | ~52 |
+| The Ship | 65.00% | ~49 |
+| Seeking the truth | 55.00% | ~41 |
+| An old friend | 52.00% | ~39 |
+| The Gala | 51.00% | ~38 |
+| A curious gathering | 48.00% | ~36 |
 | Little grey cells | 45.00% | ~34 |
 | Impossible is possible | 45.00% | ~34 |
 | The Missing Magdalene | 45.00% | ~34 |

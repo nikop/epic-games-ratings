@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1298,
+  "EOS_Progressed": 1299,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4634,6 +4634,11 @@
       "Time": "2023-12-28T13:13:54.4636201+00:00",
       "NumProgressed": 1298,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T16:10:14.5451427+00:00",
+      "NumProgressed": 1299,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4645,7 +4650,7 @@
       "Name": "Adventurous 1",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "adventurous_2",
@@ -4683,9 +4688,9 @@
       "ID": "archmage_3",
       "SetID": "53c1p3k",
       "Name": "Archmage 3",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "call_of_mana_1",
@@ -4813,7 +4818,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "elemental_stones_2",
@@ -5115,9 +5120,9 @@
       "ID": "stronghold_3",
       "SetID": "53c1p3k",
       "Name": "Stronghold 3",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "taste_of_victory_1",
@@ -5172,14 +5177,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1298,
+      "Progressed": 1299,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-12-28T15:09:47.7133154+00:00",
+  "LastChanged_Achievements": "2023-12-28T16:10:14.5451424+00:00",
   "LastUpdate_AppInfo": "2023-12-26T18:57:06.3782572+00:00",
-  "LastUpdate_Ratings": "2023-12-28T14:58:05.7400983+00:00",
-  "LastUpdate_Achievements": "2023-12-28T15:09:47.7133758+00:00"
+  "LastUpdate_Ratings": "2023-12-28T15:58:26.9773377+00:00",
+  "LastUpdate_Achievements": "2023-12-28T16:10:14.5452179+00:00"
 }

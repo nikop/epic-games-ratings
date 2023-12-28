@@ -1,19 +1,19 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.56 (Ranked 499)  
+Rating: 4.56 (Ranked 498)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Become King | 1.00% | ~23 |
 | Complete Guard Faction | 1.00% | ~23 |
 | The Bright Fir | 1.00% | ~9 |
+| Collect Monster Parts | 0.90% | ~21 |
+| Ranged Weapon | 0.90% | ~21 |
 | Two Handed Weapon | 0.90% | ~21 |
+| Defeat 25 Grubs | 0.90% | ~21 |
 | Defeat 25 Frogs | 0.90% | ~21 |
 | Shield Maiden Yellow Tongue | 0.90% | ~8 |
-| Collect Monster Parts | 0.80% | ~18 |
-| Ranged Weapon | 0.80% | ~18 |
-| Defeat 25 Grubs | 0.80% | ~18 |
 | Rescue Redgi's Brothers | 0.80% | ~18 |
 | Defeat Croakhis Khan | 0.80% | ~7 |
 | I Remember My First Beer | 0.80% | ~7 |
@@ -28,18 +28,18 @@ Rating: 4.56 (Ranked 499)
 | Return Power To The Depths | 0.70% | ~16 |
 | Complete Elder Faction | 0.60% | ~14 |
 | Defeat Ratnor Rodentson | 0.60% | ~14 |
+| Defeat the Grub Buster | 0.60% | ~6 |
 | Complete the Chefs Book | 0.50% | ~11 |
 | Defeat Avor Warden of the Northern Wastes | 0.50% | ~11 |
 | Fix the Travellers Wagon | 0.50% | ~11 |
 | Discover the mystery of the Kings Chambers | 0.50% | ~11 |
-| Defeat the Grub Buster | 0.50% | ~5 |
+| Defeat the Stalker Queen | 0.50% | ~5 |
 | Return the Statues | 0.40% | ~9 |
+| Complete Arena Faction | 0.40% | ~9 |
 | Complete Ranger Faction | 0.40% | ~9 |
 | Defeat Rattus Augustail | 0.40% | ~9 |
-| Defeat the Stalker Queen | 0.40% | ~4 |
 | Complete Redgi's Armory | 0.30% | ~7 |
-| Complete Arena Faction | 0.30% | ~7 |
-| King of Kings | 0.20% | ~5 |
+| King of Kings | 0.30% | ~7 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,288 (Ranked 232)  

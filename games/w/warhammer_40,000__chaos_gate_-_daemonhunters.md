@@ -13,7 +13,7 @@ Number of Ratings: 371  (23.09.2022)
 | An Ill Omen | 12.00% | ~435 |
 | Purging Spree | 9.00% | ~326 |
 | Blood for the Blood God! | 7.00% | ~254 |
-| Bloodless | 6.00% | ~218 |
+| Bloodless | 7.00% | ~254 |
 | Surgical Excision | 5.00% | ~181 |
 | Friendly Fire | 5.00% | ~181 |
 | Honoured Battle-Brother | 4.00% | ~145 |
@@ -53,12 +53,12 @@ Number of Ratings: 371  (23.09.2022)
 | Clean Slate | 0.30% | ~11 |
 | Warp Flickers | 0.30% | ~11 |
 | Abomination | 0.30% | ~11 |
+| Killing Rampage | 0.30% | ~11 |
 | The Flesh is Weak | 0.20% | ~7 |
 | Unstable Immaterium | 0.20% | ~7 |
 | Opportunist | 0.20% | ~7 |
 | Phalanx | 0.20% | ~7 |
 | Strategic Command | 0.20% | ~7 |
-| Killing Rampage | 0.20% | ~7 |
 | Deadshot | 0.20% | ~7 |
 | Terminal Meltdown | 0.20% | ~7 |
 | Arsenal of Destruction | 0.10% | ~4 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,626 (Ranked 215)  
+Progressed: 3,627 (Ranked 215)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 3,593 | 0 |
 | 2023-12-26 | 3,607 | 0 |
 | 2023-12-27 | 3,615 | 0 |
-| 2023-12-28 | 3,626 | 0 |
+| 2023-12-28 | 3,627 | 0 |
 ## Awards
 Max (Character Customization): 231  (Ranked 282)  
 Sum: 492 (Ranked 334)  

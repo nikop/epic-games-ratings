@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 439,
+  "Ranking_EOS_NewPlayers": 427,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 792,
+  "EOS_Progressed": 793,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1076,6 +1076,11 @@
       "Time": "2023-12-26T22:04:28.1723395+00:00",
       "NumProgressed": 792,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T16:05:48.1914397+00:00",
+      "NumProgressed": 793,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -1095,7 +1100,7 @@
       "Name": "Across The Stars",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "Achievement_AirlockExit",
@@ -1119,7 +1124,7 @@
       "Name": "Axel jump in space!",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Achievement_BabyAstro",
@@ -1151,7 +1156,7 @@
       "Name": "Crafty",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "Achievement_DontPanic",
@@ -1159,7 +1164,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "Achievement_DustToDust",
@@ -1167,7 +1172,7 @@
       "Name": "Dust to Dust",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "Achievement_EcoShuttle",
@@ -1175,7 +1180,7 @@
       "Name": "Eco-Shuttle",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "Achievement_ExtremeMakeover",
@@ -1223,7 +1228,7 @@
       "Name": "For Science!",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "Achievement_Friendzone",
@@ -1263,7 +1268,7 @@
       "Name": "Hello World",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "Achievement_Improvinator",
@@ -1303,15 +1308,15 @@
       "Name": "Flawless Maegangement",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Achievement_MeetThePetersons",
       "SetID": "c01p6e5",
       "Name": "Meet the Petersons",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 262
     },
     {
       "ID": "Achievement_MutinyInMaking",
@@ -1423,7 +1428,7 @@
       "Name": "Tinkerer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "Achievement_Traitor",
@@ -1431,14 +1436,14 @@
       "Name": "Et tu, Astrocitizen?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     }
   ],
   "AchievementSets": [
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 792,
+      "Progressed": 793,
       "Completed": 1
     }
   ],
@@ -1446,8 +1451,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-12-28T15:05:17.7216963+00:00",
+  "LastChanged_Achievements": "2023-12-28T16:05:48.1914395+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:03.241152+00:00",
-  "LastUpdate_Ratings": "2023-12-28T15:00:37.3797289+00:00",
-  "LastUpdate_Achievements": "2023-12-28T15:05:17.7217227+00:00"
+  "LastUpdate_Ratings": "2023-12-28T16:01:26.1335857+00:00",
+  "LastUpdate_Achievements": "2023-12-28T16:05:48.1914727+00:00"
 }

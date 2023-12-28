@@ -6,39 +6,39 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My New Home | 60.00% | ~344 |
-| Mushroom Picker | 55.00% | ~315 |
-| Scrap Gatherer | 55.00% | ~315 |
-| Scrapper | 45.00% | ~258 |
-| Cook | 43.00% | ~246 |
-| Teleport | 43.00% | ~246 |
-| Scrap Master | 36.00% | ~206 |
-| Smelter | 34.00% | ~195 |
+| My New Home | 60.00% | ~345 |
+| Mushroom Picker | 55.00% | ~316 |
+| Scrap Gatherer | 55.00% | ~316 |
+| Scrapper | 45.00% | ~259 |
+| Cook | 43.00% | ~247 |
+| Teleport | 43.00% | ~247 |
+| Scrap Master | 36.00% | ~207 |
+| Smelter | 34.00% | ~196 |
 | Digger | 31.00% | ~178 |
 | Electro-Scrap Gatherer | 31.00% | ~178 |
-| Survivor | 29.00% | ~166 |
-| Herbalist | 28.00% | ~160 |
-| Lumberjack | 28.00% | ~160 |
-| Robot Destroyer | 28.00% | ~160 |
-| Prepper | 25.00% | ~143 |
+| Survivor | 29.00% | ~167 |
+| Herbalist | 28.00% | ~161 |
+| Lumberjack | 28.00% | ~161 |
+| Robot Destroyer | 28.00% | ~161 |
+| Prepper | 25.00% | ~144 |
 | Electro-Scrap Master | 23.00% | ~132 |
 | Robot Hunter | 20.00% | ~115 |
-| Advanced Survivalist | 18.00% | ~103 |
+| Advanced Survivalist | 18.00% | ~104 |
 | Master Of Technology | 16.00% | ~92 |
-| Treasure Hunter | 16.00% | ~92 |
-| Mythical Smelter | 13.00% | ~74 |
+| Treasure Hunter | 15.00% | ~86 |
+| Mythical Smelter | 13.00% | ~75 |
 | Blacksmith | 12.00% | ~69 |
-| Master Of Management | 10.00% | ~57 |
-| Forest Lord | 10.00% | ~57 |
-| Fuel | 10.00% | ~57 |
-| Smelting Master | 10.00% | ~57 |
+| Master Of Management | 10.00% | ~58 |
+| Forest Lord | 10.00% | ~58 |
+| Fuel | 10.00% | ~58 |
+| Smelting Master | 10.00% | ~58 |
 | Black Gold | 7.00% | ~40 |
 | Survival Master | 5.00% | ~29 |
 | Traveler | 3.00% | ~17 |
-| Forest Killer | 2.00% | ~11 |
+| Forest Killer | 2.00% | ~12 |
 | Invincible | 0.50% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 573 (Ranked 329)  
+Progressed: 575 (Ranked 329)  
 Completed: 4 (0.70%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,6 +205,7 @@ Completed: 4 (0.70%) (Ranked 197)
 | 2023-12-25 | 568 | 4 |
 | 2023-12-26 | 571 | 4 |
 | 2023-12-27 | 573 | 4 |
+| 2023-12-28 | 575 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

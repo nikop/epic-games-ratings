@@ -325,7 +325,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 484,
+  "EOS_Progressed": 487,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 0,
@@ -1325,6 +1325,11 @@
       "Time": "2023-12-28T15:08:28.4836548+00:00",
       "NumProgressed": 484,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T16:08:51.049712+00:00",
+      "NumProgressed": 487,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1337,15 +1342,15 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "CareerAllChallenges",
       "SetID": "5hd282c",
       "Name": "Highballer",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 90,
-      "UsersEstimate": 179
+      "UsersEstimate": 185
     },
     {
       "ID": "CareerChamp1",
@@ -1353,7 +1358,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "CareerChamp2",
@@ -1361,7 +1366,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "CareerChamp3",
@@ -1391,9 +1396,9 @@
       "ID": "CareerFirstWin",
       "SetID": "5hd282c",
       "Name": "Storm Warning",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 305
+      "UsersEstimate": 312
     },
     {
       "ID": "CollectVehiclesA",
@@ -1401,7 +1406,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "CollectVehiclesB",
@@ -1449,7 +1454,7 @@
       "Name": "Dirty Roller",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "PlayerRankB",
@@ -1481,22 +1486,22 @@
       "Name": "Hating Them Tin Cans",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "WreckOpponentsBus",
       "SetID": "5hd282c",
       "Name": "Maniac Driver",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 484,
+      "Progressed": 487,
       "Completed": 0
     }
   ],
@@ -1504,8 +1509,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-26T23:01:34.391907+00:00",
-  "LastChanged_Achievements": "2023-12-28T15:08:28.4836546+00:00",
+  "LastChanged_Achievements": "2023-12-28T16:08:51.0497117+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-28T14:57:33.9431388+00:00",
-  "LastUpdate_Achievements": "2023-12-28T15:08:28.483671+00:00"
+  "LastUpdate_Ratings": "2023-12-28T15:57:51.4779669+00:00",
+  "LastUpdate_Achievements": "2023-12-28T16:08:51.0497312+00:00"
 }

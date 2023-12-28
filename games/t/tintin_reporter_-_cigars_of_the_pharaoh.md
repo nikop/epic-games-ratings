@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 74.00% | ~78 |
+| My Papyrus! | 75.00% | ~80 |
 | A Loyal Friend | 38.00% | ~40 |
-| Abandon Ship! | 28.00% | ~29 |
+| Abandon Ship! | 27.00% | ~29 |
 | The Tomb of Kih-Oskh | 21.00% | ~22 |
 | The Weighing of the Soul | 19.00% | ~20 |
 | The Curse of Kih-Oskh | 16.00% | ~17 |
 | It's a Deal! | 11.00% | ~12 |
-| Cat Lover | 10.00% | ~10 |
-| In the Name of the Law | 9.00% | ~9 |
-| Au Revoir, Abudin | 9.00% | ~9 |
-| Mummy Nightmare | 9.00% | ~9 |
-| Dynamite, Treason and Coconuts | 9.00% | ~9 |
-| Save a Friend | 9.00% | ~9 |
+| Cat Lover | 10.00% | ~11 |
+| In the Name of the Law | 8.00% | ~8 |
+| Au Revoir, Abudin | 8.00% | ~8 |
 | Mysterious Bungalow | 8.00% | ~8 |
+| Mummy Nightmare | 8.00% | ~8 |
+| Dynamite, Treason and Coconuts | 8.00% | ~8 |
+| Save a Friend | 8.00% | ~8 |
 | The Eyes! | 7.00% | ~7 |
 | Keep the Doctor Away | 7.00% | ~7 |
 | Just a Palm Tree | 7.00% | ~7 |
@@ -35,14 +35,14 @@
 | A Diagnosis | 2.00% | ~2 |
 | Jungle Runner | 2.00% | ~2 |
 | The Pharaoh's New Clothes | 2.00% | ~2 |
-| Broken Brotherhood | 1.00% | ~1 |
-| Guilt | 1.00% | ~1 |
+| Broken Brotherhood | 0.90% | ~1 |
+| Guilt | 0.90% | ~1 |
 | Cookie Accomplished | 0.00% | ~0 |
 | Flying Ace | 0.00% | ~0 |
 | Trials of Kih-Oskh | 0.00% | ~0 |
 | Escaping War | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 105 (Ranked 476)  
+Progressed: 106 (Ranked 476)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,3 +82,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 102 | 0 |
 | 2023-12-26 | 104 | 0 |
 | 2023-12-27 | 105 | 0 |
+| 2023-12-28 | 106 | 0 |

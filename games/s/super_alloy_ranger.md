@@ -56,7 +56,7 @@
 | Super Alloy Ranger! | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 141 (Ranked 446)  
-Completed: 1 (0.71%) (Ranked 196)  
+Completed: 1 (0.71%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

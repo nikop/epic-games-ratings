@@ -6,8 +6,8 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Settler | 0.80% | ~128 |
 | Explorer | 0.70% | ~112 |
-| Settler | 0.70% | ~112 |
 | Play a Single Player Game | 0.70% | ~112 |
 | Intrepid | 0.60% | ~96 |
 | Friendly Family | 0.60% | ~96 |
@@ -21,6 +21,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 0.50% | ~80 |
 | Oracle | 0.50% | ~80 |
 | Ambitious | 0.40% | ~64 |
+| Brilliant | 0.40% | ~64 |
 | Enlightened | 0.40% | ~64 |
 | Fountainhead | 0.40% | ~64 |
 | Glorious | 0.40% | ~64 |
@@ -38,7 +39,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 0.40% | ~64 |
 | Trade Caravan | 0.40% | ~64 |
 | Regicide | 0.30% | ~48 |
-| Brilliant | 0.30% | ~48 |
+| Drillmaster | 0.30% | ~48 |
 | Great | 0.30% | ~48 |
 | Intercessor | 0.30% | ~48 |
 | Wise | 0.30% | ~48 |
@@ -51,13 +52,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 0.30% | ~48 |
 | Mausoleum | 0.30% | ~48 |
 | Christianity | 0.30% | ~48 |
+| Manichaeism | 0.30% | ~48 |
 | Babylonian Paganism | 0.30% | ~48 |
 | Carthaginian Paganism | 0.30% | ~48 |
 | Roman Paganism | 0.30% | ~48 |
 | Zoroastrianism | 0.30% | ~48 |
 | Hanging Gardens in Babylon | 0.20% | ~32 |
 | Beloved | 0.20% | ~32 |
-| Drillmaster | 0.20% | ~32 |
 | Conqueror | 0.20% | ~32 |
 | Mighty | 0.20% | ~32 |
 | Valiant | 0.20% | ~32 |
@@ -77,7 +78,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.20% | ~32 |
 | Greece | 0.20% | ~32 |
 | Power to the People | 0.20% | ~32 |
-| Manichaeism | 0.20% | ~32 |
 | Egyptian Paganism | 0.20% | ~32 |
 | Persian Paganism | 0.20% | ~32 |
 | Building Wonders | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,986 (Ranked 164)  
+Progressed: 15,992 (Ranked 164)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -617,7 +617,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-25 | 15,949 | 5 |
 | 2023-12-26 | 15,966 | 5 |
 | 2023-12-27 | 15,978 | 5 |
-| 2023-12-28 | 15,986 | 5 |
+| 2023-12-28 | 15,992 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,911 (Ranked 220)  

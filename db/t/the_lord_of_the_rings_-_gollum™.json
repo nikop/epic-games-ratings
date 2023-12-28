@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,7 +23,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 666,
+  "EOS_Progressed": 667,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
@@ -1918,6 +1918,11 @@
       "Time": "2023-12-28T15:05:32.2139807+00:00",
       "NumProgressed": 666,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T16:06:03.6936873+00:00",
+      "NumProgressed": 667,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1953,7 +1958,7 @@
       "Name": "The Wraith",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "Chapter10",
@@ -2033,7 +2038,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "Collectibles2",
@@ -2047,7 +2052,7 @@
       "ID": "Collectibles3",
       "SetID": "70l3651",
       "Name": "Rule them all!",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -2071,7 +2076,7 @@
       "ID": "ElfHater",
       "SetID": "70l3651",
       "Name": "We Hates Them!",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -2119,7 +2124,7 @@
       "ID": "NoDamage",
       "SetID": "70l3651",
       "Name": "Nervous Hands",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -2127,7 +2132,7 @@
       "ID": "NoDeath",
       "SetID": "70l3651",
       "Name": "How Did You Do That?",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -2143,7 +2148,7 @@
       "ID": "RiverHobbit",
       "SetID": "70l3651",
       "Name": "River Hobbit",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -2167,7 +2172,7 @@
       "ID": "SmeagolChoices",
       "SetID": "70l3651",
       "Name": "Good Sm\u00E9agol!",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 90,
       "UsersEstimate": 3
     },
@@ -2183,9 +2188,9 @@
       "ID": "StealFood",
       "SetID": "70l3651",
       "Name": "Ss ss ss...",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 7
     },
     {
       "ID": "Tasty",
@@ -2209,21 +2214,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 666,
+      "Progressed": 667,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-12-28T15:05:32.2139805+00:00",
+  "LastChanged_Achievements": "2023-12-28T16:06:03.693687+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:04.3285704+00:00",
-  "LastUpdate_Ratings": "2023-12-28T14:59:59.5443092+00:00",
-  "LastUpdate_Achievements": "2023-12-28T15:05:32.2140055+00:00"
+  "LastUpdate_Ratings": "2023-12-28T16:00:39.1180831+00:00",
+  "LastUpdate_Achievements": "2023-12-28T16:06:03.6937172+00:00"
 }

@@ -22,8 +22,8 @@ Rating: 3.95 (Ranked 1,042)
 | True Player | 1.00% | ~926 |
 | Rockay Rex | 1.00% | ~926 |
 | Headhunter | 0.90% | ~834 |
-| I Like Trains | 0.70% | ~648 |
-| Freebooter | 0.70% | ~648 |
+| I Like Trains | 0.70% | ~649 |
+| Freebooter | 0.70% | ~649 |
 | Legend Looter | 0.60% | ~556 |
 | Foo Finder | 0.60% | ~556 |
 | Moneybags | 0.60% | ~556 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,042)
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,642 (Ranked 97)  
+Progressed: 92,646 (Ranked 97)  
 Completed: 58 (0.06%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,10 +299,10 @@ Completed: 58 (0.06%) (Ranked 328)
 | 2023-12-25 | 92,533 | 58 |
 | 2023-12-26 | 92,581 | 58 |
 | 2023-12-27 | 92,615 | 58 |
-| 2023-12-28 | 92,642 | 58 |
+| 2023-12-28 | 92,646 | 58 |
 ## Awards
 Max (Diverse Characters): 583  (Ranked 205)  
-Sum: 2,746 (Ranked 190)  
+Sum: 2,752 (Ranked 190)  
 Diff (max vs sum): 15  
 | Award | Count |
 | ----- | ----- |
@@ -310,7 +310,7 @@ Diff (max vs sum): 15
 | This game is Highly Recommended | 559 |
 | This game has Quickly Understood Controls | 543 |
 | This game has Amazing Characters | 537 |
-| This game is Extremely Fun | 524 |
+| This game is Extremely Fun | 530 |
 | This game has Challenging Combat | 514 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
@@ -587,4 +587,4 @@ Diff (max vs sum): 15
 | 2023-12-25 | 3.95 | 578 | 2,721 |
 | 2023-12-26 | 3.95 | 581 | 2,732 |
 | 2023-12-27 | 3.95 | 581 | 2,740 |
-| 2023-12-28 | 3.95 | 583 | 2,746 |
+| 2023-12-28 | 3.95 | 583 | 2,752 |

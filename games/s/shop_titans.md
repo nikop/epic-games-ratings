@@ -6,26 +6,26 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 9.00% | ~13,332 |
-| Basic in Bulk | 9.00% | ~13,332 |
-| Titan's First Steps | 9.00% | ~13,332 |
-| Tinkle of Coins | 8.00% | ~11,851 |
-| Disintermediation | 7.00% | ~10,369 |
-| It's Free Real Estate | 6.00% | ~8,888 |
-| Budding Merchant | 6.00% | ~8,888 |
-| Capitalism Ho! | 6.00% | ~8,888 |
+| Sponsored by Argon | 9.00% | ~13,333 |
+| Basic in Bulk | 9.00% | ~13,333 |
+| Titan's First Steps | 9.00% | ~13,333 |
+| Tinkle of Coins | 8.00% | ~11,852 |
+| Disintermediation | 7.00% | ~10,370 |
+| It's Free Real Estate | 6.00% | ~8,889 |
+| Budding Merchant | 6.00% | ~8,889 |
+| Capitalism Ho! | 6.00% | ~8,889 |
 | One Easy Payment | 5.00% | ~7,407 |
 | Some Assembly Required | 5.00% | ~7,407 |
 | Another Satisfied Customer | 5.00% | ~7,407 |
 | Pretty Penny | 5.00% | ~7,407 |
 | Own the Means of Production | 5.00% | ~7,407 |
-| The Daily Grind | 4.00% | ~5,925 |
-| Bounty Hunters | 4.00% | ~5,925 |
-| Flooding the Market | 4.00% | ~5,925 |
-| Where it Hurts | 4.00% | ~5,925 |
-| One-Armed Bandit | 4.00% | ~5,925 |
-| Dungeon Imports | 4.00% | ~5,925 |
-| Through Repetition, Perfection | 4.00% | ~5,925 |
+| The Daily Grind | 4.00% | ~5,926 |
+| Bounty Hunters | 4.00% | ~5,926 |
+| Flooding the Market | 4.00% | ~5,926 |
+| Where it Hurts | 4.00% | ~5,926 |
+| One-Armed Bandit | 4.00% | ~5,926 |
+| Dungeon Imports | 4.00% | ~5,926 |
+| Through Repetition, Perfection | 4.00% | ~5,926 |
 | On the Path to Greatness | 3.00% | ~4,444 |
 | Ascended | 3.00% | ~4,444 |
 | Research & Development | 3.00% | ~4,444 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~593 |
 | Capitalist Camaraderie | 0.20% | ~296 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,134 (Ranked 83)  
+Progressed: 148,145 (Ranked 83)  
 Completed: 336 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -371,10 +371,10 @@ Completed: 336 (0.23%) (Ranked 267)
 | 2023-12-25 | 147,608 | 334 |
 | 2023-12-26 | 147,830 | 336 |
 | 2023-12-27 | 148,016 | 336 |
-| 2023-12-28 | 148,134 | 336 |
+| 2023-12-28 | 148,145 | 336 |
 ## Awards
 Max (Great for Beginners): 4,922  (Ranked 76)  
-Sum: 27,841 (Ranked 51)  
+Sum: 27,844 (Ranked 51)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
@@ -384,7 +384,7 @@ Diff (max vs sum): 25
 | This game has Diverse Characters | 3,999 |
 | This game is Highly Recommended | 3,806 |
 | This game has Easy Combat | 3,758 |
-| This game has Playful Visuals | 3,228 |
+| This game has Playful Visuals | 3,231 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -720,4 +720,4 @@ Diff (max vs sum): 25
 | 2023-12-25 | 3.99 | - | 4,914 | 27,816 |
 | 2023-12-26 | 3.99 | - | 4,917 | 27,823 |
 | 2023-12-27 | 3.99 | - | 4,922 | 27,834 |
-| 2023-12-28 | 3.99 | - | 4,922 | 27,841 |
+| 2023-12-28 | 3.99 | - | 4,922 | 27,844 |

@@ -4,42 +4,42 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A path of no return | 98.00% | ~118 |
-| A bottomless pit | 82.00% | ~98 |
-| Pigeon | 78.00% | ~94 |
-| Baited | 67.00% | ~80 |
+| A path of no return | 98.00% | ~119 |
+| A bottomless pit | 82.00% | ~99 |
+| Pigeon | 79.00% | ~96 |
+| Baited | 67.00% | ~81 |
 | "Swoosh" | 58.00% | ~70 |
-| The light at the end of the tunnel | 57.00% | ~68 |
-| Masochistic | 52.00% | ~62 |
+| The light at the end of the tunnel | 57.00% | ~69 |
+| Masochistic | 51.00% | ~62 |
 | Soft skin | 49.00% | ~59 |
-| Splash! | 48.00% | ~58 |
-| Squid game | 41.00% | ~49 |
+| Splash! | 49.00% | ~59 |
+| Squid game | 40.00% | ~48 |
 | Rock Solid | 33.00% | ~40 |
-| The beast within | 33.00% | ~40 |
-| It's getting dark | 33.00% | ~40 |
 | Sensitive soul | 33.00% | ~40 |
+| The beast within | 32.00% | ~39 |
+| It's getting dark | 32.00% | ~39 |
 | Hard Rock | 30.00% | ~36 |
 | Rooftop | 29.00% | ~35 |
 | Homeless | 28.00% | ~34 |
-| Big badaboom! | 28.00% | ~34 |
+| Big badaboom! | 27.00% | ~33 |
 | Payback | 25.00% | ~30 |
 | Nokron tower | 24.00% | ~29 |
 | Bookworm | 24.00% | ~29 |
 | Full power | 23.00% | ~28 |
 | "Ah sh*t... Here we go again!" | 23.00% | ~28 |
-| Compulsive hoarder | 23.00% | ~28 |
 | Magnitude 5 | 23.00% | ~28 |
+| Compulsive hoarder | 22.00% | ~27 |
 | GG EZ | 16.00% | ~19 |
 | Comeback | 16.00% | ~19 |
 | MayDay! MayDay! | 11.00% | ~13 |
-| Gooooooaaaaal!!! | 8.00% | ~10 |
+| Gooooooaaaaal!!! | 7.00% | ~8 |
 | Sadistic | 2.00% | ~2 |
 | Abyssal God | 0.00% | ~0 |
 | What do you want? | 0.00% | ~0 |
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120 (Ranked 468)  
+Progressed: 121 (Ranked 467)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,4 +107,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 114 | 0 |
 | 2023-12-26 | 115 | 0 |
 | 2023-12-27 | 117 | 0 |
-| 2023-12-28 | 120 | 0 |
+| 2023-12-28 | 121 | 0 |

@@ -3796,9 +3796,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 241902,
+  "EOS_Progressed": 241908,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 499,
+  "EOS_NewPlayers": 500,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29851,6 +29851,11 @@
       "Time": "2023-12-28T15:09:50.7666219+00:00",
       "NumProgressed": 241902,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-28T16:10:18.0605714+00:00",
+      "NumProgressed": 241908,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -29932,9 +29937,9 @@
       "ID": "DARKENDINGMEDIUM",
       "SetID": "5l8oe0h",
       "Name": "Challenge Increases",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 484
+      "UsersEstimate": 726
     },
     {
       "ID": "DEAL25DAMAGE",
@@ -30965,13 +30970,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241902,
+      "Progressed": 241908,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3382,
+      "Progressed": 3388,
       "Completed": 416
     }
   ],
@@ -30979,8 +30984,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-27T23:00:02.6538244+00:00",
-  "LastChanged_Achievements": "2023-12-28T15:09:50.7666217+00:00",
+  "LastChanged_Achievements": "2023-12-28T16:10:18.060571+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-28T14:59:33.7343031+00:00",
-  "LastUpdate_Achievements": "2023-12-28T15:09:50.7668969+00:00"
+  "LastUpdate_Ratings": "2023-12-28T15:59:54.1327613+00:00",
+  "LastUpdate_Achievements": "2023-12-28T16:10:18.0608437+00:00"
 }

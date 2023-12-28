@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tutorial Completed | 6.00% | ~524 |
-| Supermart Objectives Complete | 2.00% | ~174 |
-| Supermart Heisted | 2.00% | ~174 |
+| Supermart Objectives Complete | 2.00% | ~175 |
+| Supermart Heisted | 2.00% | ~175 |
 | Sewer Objectives Complete | 1.00% | ~87 |
 | Bank Heisted | 0.60% | ~52 |
 | Crocodile Maxed Out | 0.20% | ~17 |
@@ -33,7 +33,7 @@
 | Nuclear Plant Objectives Complete | 0.00% | ~0 |
 | Spaceship Objectives Complete | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,725 (Ranked 182)  
+Progressed: 8,726 (Ranked 182)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 8,693 | 0 |
 | 2023-12-26 | 8,709 | 0 |
 | 2023-12-27 | 8,723 | 0 |
-| 2023-12-28 | 8,725 | 0 |
+| 2023-12-28 | 8,726 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

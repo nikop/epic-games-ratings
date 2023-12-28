@@ -1,28 +1,28 @@
 # SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 [Store](https://store.epicgames.com/en-US/p/spongebob-squarepants-battle-for-bikini-bottom-rehydrated)  
 [View Rawdata](../../db/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.json)  
-Rating: 4.66 (Ranked 298)  
+Rating: 4.66 (Ranked 297)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 16.00% | ~72 |
-| Sponge Smasher | 15.00% | ~68 |
-| Jellyfish Jam | 14.00% | ~63 |
-| Jellyfishing | 10.00% | ~45 |
-| Time For Tutorial | 10.00% | ~45 |
+| Spatula Seeker | 16.00% | ~73 |
+| Sponge Smasher | 15.00% | ~69 |
+| Jellyfish Jam | 14.00% | ~64 |
+| Jellyfishing | 10.00% | ~46 |
 | Sweet Victory | 9.00% | ~41 |
 | Sock Getter | 9.00% | ~41 |
-| Star Smasher | 8.00% | ~36 |
-| Surf's Up! | 8.00% | ~36 |
+| Time For Tutorial | 9.00% | ~41 |
+| Star Smasher | 8.00% | ~37 |
 | Uptown and Downtown | 7.00% | ~32 |
 | Super Spatula Seeker | 7.00% | ~32 |
 | Squirrel Smasher | 7.00% | ~32 |
+| Surf's Up! | 7.00% | ~32 |
 | Life's as extreme as you wanna make it! | 6.00% | ~27 |
-| Toxic Terror | 6.00% | ~27 |
 | Hit Rock Bottom | 6.00% | ~27 |
 | Keep it Rolling | 5.00% | ~23 |
 | Shrimp Catcher | 5.00% | ~23 |
+| Toxic Terror | 5.00% | ~23 |
 | Robot encyclopedia | 4.00% | ~18 |
 | Are you ready now? | 4.00% | ~18 |
 | Hello, Bikini Bottom | 4.00% | ~18 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | 100% SpongeBob | 0.70% | ~3 |
 | Super Ultra Mega Spatula Seeker | 0.70% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 452 (Ranked 346)  
+Progressed: 458 (Ranked 346)  
 Completed: 3 (0.66%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -54,7 +54,7 @@ Completed: 3 (0.66%) (Ranked 199)
 | 2023-12-25 | 378 | 1 |
 | 2023-12-26 | 412 | 3 |
 | 2023-12-27 | 435 | 3 |
-| 2023-12-28 | 452 | 3 |
+| 2023-12-28 | 458 | 3 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 495)  
 Sum: 35 (Ranked 522)  

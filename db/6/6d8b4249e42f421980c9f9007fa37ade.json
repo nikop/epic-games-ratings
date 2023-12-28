@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 460,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_NewPlayers": 427,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -594,9 +594,9 @@
       "ID": "Epic_Brand_25",
       "SetID": "ba1m2fc",
       "Name": "Pilgrim",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Epic_ChainSaw_1",
@@ -762,9 +762,9 @@
       "ID": "Epic_InnerWorld_1",
       "SetID": "ba1m2fc",
       "Name": "Pseudo-redemption",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Epic_KillBoss_25",
@@ -969,8 +969,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-12-28T15:06:15.5704455+00:00",
+  "LastChanged_Achievements": "2023-12-28T16:06:58.586413+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:57.2904596+00:00",
-  "LastUpdate_Ratings": "2023-12-28T15:00:23.6298604+00:00",
-  "LastUpdate_Achievements": "2023-12-28T15:06:15.5704824+00:00"
+  "LastUpdate_Ratings": "2023-12-28T16:01:12.3970844+00:00",
+  "LastUpdate_Achievements": "2023-12-28T16:06:58.5864502+00:00"
 }

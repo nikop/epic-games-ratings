@@ -6,24 +6,24 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 7.00% | ~1,365 |
-| Overgrown Library | 7.00% | ~1,365 |
-| Taking Action | 6.00% | ~1,170 |
-| Petrified Necropolis | 6.00% | ~1,170 |
-| First Real Expedition | 5.00% | ~975 |
-| The Marshlands | 5.00% | ~975 |
-| No Deaths | 5.00% | ~975 |
-| Gathering Storm | 5.00% | ~975 |
-| Overcoming Difficulty | 4.00% | ~780 |
-| Coral Forest | 4.00% | ~780 |
-| The Scarlet Orchard | 4.00% | ~780 |
-| Frosts | 4.00% | ~780 |
-| Land of Greed | 4.00% | ~780 |
-| Ominous Presence | 4.00% | ~780 |
-| Fertile Meadows | 3.00% | ~585 |
-| Royal Outpost | 3.00% | ~585 |
-| Watchtower | 3.00% | ~585 |
-| Untamed Wilds | 3.00% | ~585 |
+| Abandoned Settlement | 7.00% | ~1,366 |
+| Overgrown Library | 7.00% | ~1,366 |
+| Taking Action | 6.00% | ~1,171 |
+| Petrified Necropolis | 6.00% | ~1,171 |
+| First Real Expedition | 5.00% | ~976 |
+| The Marshlands | 5.00% | ~976 |
+| No Deaths | 5.00% | ~976 |
+| Gathering Storm | 5.00% | ~976 |
+| Overcoming Difficulty | 4.00% | ~781 |
+| Coral Forest | 4.00% | ~781 |
+| The Scarlet Orchard | 4.00% | ~781 |
+| Frosts | 4.00% | ~781 |
+| Land of Greed | 4.00% | ~781 |
+| Ominous Presence | 4.00% | ~781 |
+| Fertile Meadows | 3.00% | ~586 |
+| Royal Outpost | 3.00% | ~586 |
+| Watchtower | 3.00% | ~586 |
+| Untamed Wilds | 3.00% | ~586 |
 | Homesick | 2.00% | ~390 |
 | Ruined Armory | 2.00% | ~390 |
 | Bandit Camp | 2.00% | ~390 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,507 (Ranked 150)  
+Progressed: 19,517 (Ranked 150)  
 Completed: 36 (0.18%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,14 +318,14 @@ Completed: 36 (0.18%) (Ranked 278)
 | 2023-12-25 | 19,247 | 38 |
 | 2023-12-26 | 19,350 | 38 |
 | 2023-12-27 | 19,458 | 38 |
-| 2023-12-28 | 19,507 | 36 |
+| 2023-12-28 | 19,517 | 36 |
 ## Awards
-Max (Quickly Understood Controls): 445  (Ranked 228)  
-Sum: 3,299 (Ranked 176)  
+Max (Quickly Understood Controls): 446  (Ranked 228)  
+Sum: 3,300 (Ranked 176)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 445 |
+| This game has Quickly Understood Controls | 446 |
 | This game is Relaxing | 441 |
 | This game is Great for Beginners | 435 |
 | This game is Extremely Fun | 416 |
@@ -605,4 +605,4 @@ Diff (max vs sum): 52
 | 2023-12-25 | 4.82 | - | 444 | 3,291 |
 | 2023-12-26 | 4.82 | - | 444 | 3,295 |
 | 2023-12-27 | 4.82 | - | 445 | 3,297 |
-| 2023-12-28 | 4.82 | - | 445 | 3,299 |
+| 2023-12-28 | 4.82 | - | 446 | 3,300 |

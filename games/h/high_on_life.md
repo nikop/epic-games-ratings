@@ -22,10 +22,10 @@ Rating: 4.65 (Ranked 323)
 | Self-Actualization | 3.00% | ~748 |
 | Fallout Doesn't Let You Do This | 3.00% | ~748 |
 | Spent 15 Hours At The Alien Strip Club | 3.00% | ~748 |
-| Eatin' Good in the Neighborhood | 2.00% | ~498 |
-| Eye Scream, You Scream | 2.00% | ~498 |
-| Legendary Bounty Hunter | 2.00% | ~498 |
-| Series Wrap on Suit-O | 2.00% | ~498 |
+| Eatin' Good in the Neighborhood | 2.00% | ~499 |
+| Eye Scream, You Scream | 2.00% | ~499 |
+| Legendary Bounty Hunter | 2.00% | ~499 |
+| Series Wrap on Suit-O | 2.00% | ~499 |
 | Bathe With A Giant Nude Alien | 2.00% | ~44 |
 | Gunning For Your Job | 1.00% | ~249 |
 | We Came, We Chainsaw, We Conquered | 1.00% | ~22 |
@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 323)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,925 (Ranked 144)  
+Progressed: 24,926 (Ranked 144)  
 Completed: 14 (0.06%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 14 (0.06%) (Ranked 328)
 | 2023-12-25 | 24,879 | 14 |
 | 2023-12-26 | 24,903 | 14 |
 | 2023-12-27 | 24,917 | 14 |
-| 2023-12-28 | 24,925 | 14 |
+| 2023-12-28 | 24,926 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

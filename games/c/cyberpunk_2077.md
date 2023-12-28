@@ -1,24 +1,24 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.66 (Ranked 298)  
+Rating: 4.66 (Ranked 297)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,891 |
-| Gun Fu | 8.00% | ~78,594 |
-| Right Back At Ya | 7.00% | ~68,769 |
-| The Fool | 7.00% | ~68,769 |
-| The Lovers | 6.00% | ~58,945 |
-| Full Body Conversion | 5.00% | ~49,121 |
-| Stanislavski's Method | 5.00% | ~49,121 |
-| True Soldier | 5.00% | ~49,121 |
-| All the President's Men | 5.00% | ~5,552 |
-| Arachnophobia | 5.00% | ~5,552 |
-| Christmas Tree Attack | 4.00% | ~39,297 |
-| The Hermit | 4.00% | ~39,297 |
-| The Wheel of Fortune | 4.00% | ~39,297 |
+| V for Vendetta | 12.00% | ~117,893 |
+| Gun Fu | 8.00% | ~78,595 |
+| Right Back At Ya | 7.00% | ~68,771 |
+| The Fool | 7.00% | ~68,771 |
+| The Lovers | 6.00% | ~58,947 |
+| Full Body Conversion | 5.00% | ~49,122 |
+| Stanislavski's Method | 5.00% | ~49,122 |
+| True Soldier | 5.00% | ~49,122 |
+| All the President's Men | 5.00% | ~5,553 |
+| Arachnophobia | 5.00% | ~5,553 |
+| Christmas Tree Attack | 4.00% | ~39,298 |
+| The Hermit | 4.00% | ~39,298 |
+| The Wheel of Fortune | 4.00% | ~39,298 |
 | Bushido and Chill | 3.00% | ~29,473 |
 | Master Crafter | 3.00% | ~29,473 |
 | The Quick and the Dead | 3.00% | ~29,473 |
@@ -27,19 +27,19 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 3.00% | ~29,473 |
 | True Warrior | 3.00% | ~29,473 |
 | Legend of The Afterlife | 3.00% | ~29,473 |
-| Relic Ruler | 3.00% | ~3,331 |
-| To Protect and Serve | 2.00% | ~19,648 |
-| I Am The Law | 2.00% | ~19,648 |
-| Two Heads, One Bullet | 2.00% | ~19,648 |
-| Judy vs Night City | 2.00% | ~19,648 |
+| Relic Ruler | 3.00% | ~3,332 |
+| To Protect and Serve | 2.00% | ~19,649 |
+| I Am The Law | 2.00% | ~19,649 |
+| Two Heads, One Bullet | 2.00% | ~19,649 |
+| Judy vs Night City | 2.00% | ~19,649 |
 | Spin Doctor | 2.00% | ~2,221 |
 | To Bad Decisions! | 1.00% | ~9,824 |
 | The Wandering Fool | 1.00% | ~9,824 |
 | Ten out of Ten | 1.00% | ~9,824 |
 | The Sun | 1.00% | ~9,824 |
-| King of Wands | 1.00% | ~1,110 |
-| Dirty Deeds | 1.00% | ~1,110 |
-| Easy Come, Easy Go | 1.00% | ~1,110 |
+| King of Wands | 1.00% | ~1,111 |
+| Dirty Deeds | 1.00% | ~1,111 |
+| Easy Come, Easy Go | 1.00% | ~1,111 |
 | Breathtaking | 0.90% | ~8,842 |
 | The Star | 0.90% | ~8,842 |
 | Autojock | 0.70% | ~6,877 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 982,421 (Ranked 16)  
+Progressed: 982,443 (Ranked 16)  
 Completed: 2,988 (0.30%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,10 +326,10 @@ Completed: 2,988 (0.30%) (Ranked 254)
 | 2023-12-25 | 981,401 | 2,974 |
 | 2023-12-26 | 981,815 | 2,981 |
 | 2023-12-27 | 982,189 | 2,986 |
-| 2023-12-28 | 982,421 | 2,988 |
+| 2023-12-28 | 982,443 | 2,988 |
 ## Awards
 Max (Character Customization): 128,093  (Ranked 8)  
-Sum: 448,443 (Ranked 9)  
+Sum: 448,599 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -337,7 +337,7 @@ Diff (max vs sum): -1
 | This game has Great Boss Battles | 95,033 |
 | This game is Great for Beginners | 28,190 |
 | This game has Diverse Characters | 27,653 |
-| This game is Highly Recommended | 26,270 |
+| This game is Highly Recommended | 26,426 |
 | This game has Amazing Storytelling | 25,981 |
 | This game is Extremely Fun | 25,586 |
 | This game has Amazing Characters | 25,420 |
@@ -690,4 +690,4 @@ Diff (max vs sum): -1
 | 2023-12-25 | 4.66 | - | 127,442 | 443,750 |
 | 2023-12-26 | 4.66 | - | 127,789 | 445,740 |
 | 2023-12-27 | 4.66 | - | 128,093 | 447,581 |
-| 2023-12-28 | 4.66 | - | 128,093 | 448,443 |
+| 2023-12-28 | 4.66 | - | 128,093 | 448,599 |

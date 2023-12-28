@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Master trainee | 46.00% | ~31 |
-| You have three wishes left | 42.00% | ~28 |
+| You have three wishes left | 41.00% | ~28 |
 | Jung's dream | 31.00% | ~21 |
 | The battle of Great Britain | 31.00% | ~21 |
-| Pulp! Where Monsters Dwell | 27.00% | ~18 |
+| Pulp! Where Monsters Dwell | 26.00% | ~18 |
 | A continent with chemistry | 22.00% | ~15 |
 | The happy farmer girl | 21.00% | ~14 |
 | Giant | 18.00% | ~12 |
@@ -52,7 +52,7 @@
 | Pulp! Skeleton Hand | 1.00% | ~1 |
 | Pulp! The Vault of Horror | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67 (Ranked 515)  
+Progressed: 68 (Ranked 515)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,3 +91,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-18 | 61 | 0 |
 | 2023-12-22 | 63 | 0 |
 | 2023-12-23 | 67 | 0 |
+| 2023-12-28 | 68 | 0 |

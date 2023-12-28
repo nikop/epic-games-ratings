@@ -26,7 +26,7 @@ Rating: 4.35 (Ranked 814)
 | Well-acquainted | 41.00% | ~195 |
 | Zakariya Demir | 41.00% | ~195 |
 | Well-read | 39.00% | ~185 |
-| Cassandra Van den Bosch | 37.00% | ~176 |
+| Cassandra Van den Bosch | 38.00% | ~180 |
 | The Secret | 37.00% | ~176 |
 | Gedeon Demir | 35.00% | ~166 |
 | Rehana Piette | 34.00% | ~162 |

@@ -12,10 +12,10 @@
 | Thick Skin | 69.00% | ~137 |
 | Math Wizard | 67.00% | ~133 |
 | Destroy Erase Improve | 67.00% | ~133 |
-| Power Overload | 63.00% | ~125 |
-| Quite A Snack | 60.00% | ~119 |
+| Power Overload | 64.00% | ~127 |
+| Quite A Snack | 61.00% | ~121 |
 | Impenetrable Skin | 57.00% | ~113 |
-| Overwhelming Power | 54.00% | ~107 |
+| Overwhelming Power | 55.00% | ~109 |
 | Chomp Chomp! | 47.00% | ~94 |
 | Supreme Power | 46.00% | ~92 |
 | The Duelist | 44.00% | ~88 |
@@ -41,7 +41,7 @@
 | Fire Beacon | 23.00% | ~46 |
 | From Here To Eternity | 20.00% | ~40 |
 | Building Blocks | 20.00% | ~40 |
-| Octopostructure | 17.00% | ~34 |
+| Octopostructure | 18.00% | ~36 |
 | Boss Hunter | 15.00% | ~30 |
 | Hawkman | 10.00% | ~20 |
 | Annihilate | 9.00% | ~18 |

@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Wraith | 62.00% | ~413 |
-| Welcome to Mordor! | 52.00% | ~346 |
-| Collectibles Part 1 | 50.00% | ~333 |
+| The Wraith | 62.00% | ~414 |
+| Welcome to Mordor! | 52.00% | ~347 |
+| Collectibles Part 1 | 50.00% | ~334 |
 | Wait! Wait! Not yet! | 38.00% | ~253 |
 | Like Flying... | 33.00% | ~220 |
 | The Maggot | 27.00% | ~180 |
@@ -29,19 +29,19 @@
 | So Silly! | 3.00% | ~20 |
 | Break a Leg! | 2.00% | ~13 |
 | And now we wish... | 2.00% | ~13 |
-| Ss ss ss... | 2.00% | ~13 |
 | Collectibles Part 2 | 1.00% | ~7 |
-| Nervous Hands | 0.80% | ~5 |
+| Ss ss ss... | 1.00% | ~7 |
+| Nervous Hands | 0.70% | ~5 |
 | Elf-Friend | 0.60% | ~4 |
 | We wants it! We needs it | 0.60% | ~4 |
 | Scout | 0.60% | ~4 |
-| We Hates Them! | 0.50% | ~3 |
-| Good Sméagol! | 0.50% | ~3 |
-| Rule them all! | 0.20% | ~1 |
-| How Did You Do That? | 0.20% | ~1 |
-| River Hobbit | 0.20% | ~1 |
+| We Hates Them! | 0.40% | ~3 |
+| Good Sméagol! | 0.40% | ~3 |
+| Rule them all! | 0.10% | ~1 |
+| How Did You Do That? | 0.10% | ~1 |
+| River Hobbit | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666 (Ranked 314)  
+Progressed: 667 (Ranked 314)  
 Completed: 1 (0.15%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,4 +175,4 @@ Completed: 1 (0.15%) (Ranked 290)
 | 2023-12-25 | 654 | 1 |
 | 2023-12-26 | 659 | 1 |
 | 2023-12-27 | 663 | 1 |
-| 2023-12-28 | 666 | 1 |
+| 2023-12-28 | 667 | 1 |

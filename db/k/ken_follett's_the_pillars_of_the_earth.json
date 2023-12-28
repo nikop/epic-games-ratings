@@ -2,12 +2,12 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 586,
+  "Ranking_Rating": 585,
   "Ranking_Popularity": 323,
   "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17459,
+  "EOS_Progressed": 17461,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -17210,6 +17210,11 @@
       "Time": "2023-12-28T15:03:22.6880828+00:00",
       "NumProgressed": 17459,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-12-28T16:03:47.6506961+00:00",
+      "NumProgressed": 17461,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 41,
@@ -17261,7 +17266,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5587
+      "UsersEstimate": 5588
     },
     {
       "ID": "tpote_achievement_15",
@@ -17277,7 +17282,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2445
     },
     {
       "ID": "tpote_achievement_17",
@@ -17285,7 +17290,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2793
+      "UsersEstimate": 2794
     },
     {
       "ID": "tpote_achievement_18",
@@ -17309,7 +17314,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5761
+      "UsersEstimate": 5762
     },
     {
       "ID": "tpote_achievement_20",
@@ -17325,7 +17330,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5063
+      "UsersEstimate": 5064
     },
     {
       "ID": "tpote_achievement_22",
@@ -17397,7 +17402,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5412
+      "UsersEstimate": 5413
     },
     {
       "ID": "tpote_achievement_30",
@@ -17421,7 +17426,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2445
     },
     {
       "ID": "tpote_achievement_33",
@@ -17533,7 +17538,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3666
+      "UsersEstimate": 3667
     },
     {
       "ID": "tpote_achievement_9",
@@ -17541,22 +17546,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5936
+      "UsersEstimate": 5937
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17459,
+      "Progressed": 17461,
       "Completed": 122
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-28T15:03:22.6880826+00:00",
+  "LastChanged_Achievements": "2023-12-28T16:03:47.6506955+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.265609+00:00",
-  "LastUpdate_Ratings": "2023-12-28T14:59:43.0626779+00:00",
-  "LastUpdate_Achievements": "2023-12-28T15:03:22.6881698+00:00"
+  "LastUpdate_Ratings": "2023-12-28T16:00:03.0157288+00:00",
+  "LastUpdate_Achievements": "2023-12-28T16:03:47.6508342+00:00"
 }

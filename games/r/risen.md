@@ -5,43 +5,43 @@ Rating: 4.55 (Ranked 517)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 91.00% | ~117 |
+| Beginner | 91.00% | ~118 |
 | Map reader | 65.00% | ~84 |
-| Adventurer | 63.00% | ~81 |
-| Philanthropist | 60.00% | ~77 |
+| Adventurer | 62.00% | ~81 |
+| Philanthropist | 59.00% | ~77 |
 | Archer | 45.00% | ~58 |
-| The brave little tailor | 43.00% | ~55 |
+| The brave little tailor | 42.00% | ~55 |
 | Field hand | 40.00% | ~52 |
-| Samaritan | 36.00% | ~46 |
-| Well-to-do | 36.00% | ~46 |
+| Samaritan | 36.00% | ~47 |
+| Well-to-do | 36.00% | ~47 |
 | The merciful one | 33.00% | ~43 |
-| Ladies' man | 33.00% | ~43 |
+| Ladies' man | 32.00% | ~42 |
 | Ferocious wild boars | 26.00% | ~34 |
 | Idiot | 25.00% | ~32 |
-| Beast slayer | 22.00% | ~28 |
+| Beast slayer | 22.00% | ~29 |
 | Family man | 20.00% | ~26 |
 | Death of a legend | 20.00% | ~26 |
 | Archaeologist | 20.00% | ~26 |
 | Ogre friend | 19.00% | ~25 |
-| Sidelined | 19.00% | ~25 |
 | Wise man | 18.00% | ~23 |
 | Little hero | 18.00% | ~23 |
 | Hard worker | 18.00% | ~23 |
 | The fourth triplet | 18.00% | ~23 |
 | Fence | 18.00% | ~23 |
-| Ghost hunter | 16.00% | ~21 |
-| Master detective | 16.00% | ~21 |
-| Pandora's box | 15.00% | ~19 |
+| Sidelined | 18.00% | ~23 |
+| Pandora's box | 15.00% | ~20 |
+| Ghost hunter | 15.00% | ~20 |
+| Master detective | 15.00% | ~20 |
 | Peacekeeper | 14.00% | ~18 |
 | Workaholic | 13.00% | ~17 |
-| Defender | 12.00% | ~15 |
+| Defender | 12.00% | ~16 |
 | Showdown | 11.00% | ~14 |
 | Safecracker | 11.00% | ~14 |
 | Master thief | 11.00% | ~14 |
 | Freedom fighter | 10.00% | ~13 |
-| Titan Lord | 9.00% | ~12 |
-| King of the handymen | 9.00% | ~12 |
+| Titan Lord | 8.00% | ~10 |
 | Terror of the hens | 8.00% | ~10 |
+| King of the handymen | 8.00% | ~10 |
 | Expert | 7.00% | ~9 |
 | The traveler | 5.00% | ~6 |
 | Moneybags | 5.00% | ~6 |
@@ -56,7 +56,7 @@ Rating: 4.55 (Ranked 517)
 | Master of the classes | 0.80% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129 (Ranked 457)  
+Progressed: 130 (Ranked 457)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 124 | 0 |
 | 2023-12-26 | 126 | 0 |
 | 2023-12-27 | 128 | 0 |
-| 2023-12-28 | 129 | 0 |
+| 2023-12-28 | 130 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

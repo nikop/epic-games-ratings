@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 619,
+  "EOS_Progressed": 620,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -1163,6 +1163,11 @@
       "Time": "2023-12-28T10:04:11.1596018+00:00",
       "NumProgressed": 619,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-28T16:04:46.195146+00:00",
+      "NumProgressed": 620,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1260,9 +1265,9 @@
       "ID": "Healthy_Child",
       "SetID": "ek310c",
       "Name": "Bundle of Joy",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 316
+      "UsersEstimate": 310
     },
     {
       "ID": "Hitman",
@@ -1398,14 +1403,14 @@
       "Name": "Unexpected Consequences",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     }
   ],
   "AchievementSets": [
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 619,
+      "Progressed": 620,
       "Completed": 6
     }
   ],
@@ -1413,8 +1418,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-12-28T15:04:18.0452143+00:00",
+  "LastChanged_Achievements": "2023-12-28T16:04:46.1951456+00:00",
   "LastUpdate_AppInfo": "2023-12-23T18:56:53.9595967+00:00",
-  "LastUpdate_Ratings": "2023-12-28T15:03:13.5629719+00:00",
-  "LastUpdate_Achievements": "2023-12-28T15:04:18.0452361+00:00"
+  "LastUpdate_Ratings": "2023-12-28T16:03:36.0287184+00:00",
+  "LastUpdate_Achievements": "2023-12-28T16:04:46.1951649+00:00"
 }

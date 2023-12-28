@@ -2,9 +2,9 @@
   "ID": "7d8459956d774d788532fd472b437df8",
   "Name": "Bunny Park",
   "ProductSlug": "bunny-park-835c4c",
-  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 517,
+  "Ranking_EOS_NewPlayers": 494,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-09-30T00:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 306,
+  "EOS_Progressed": 307,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.27,
+  "EOS_Completed_Percentage": 3.26,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.4240429+00:00",
@@ -205,6 +205,11 @@
       "Time": "2023-12-28T15:09:32.9460205+00:00",
       "NumProgressed": 306,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-28T16:09:59.2798458+00:00",
+      "NumProgressed": 307,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 18,
@@ -216,7 +221,7 @@
       "Name": "Lonely Bunny",
       "Percentage": 97,
       "XP": 25,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "BP-02",
@@ -240,7 +245,7 @@
       "Name": "Debris Finder",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "BP-05",
@@ -280,7 +285,7 @@
       "Name": "Ace Decorator",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "BP-10",
@@ -304,7 +309,7 @@
       "Name": "Cozy Autumn",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "BP-13",
@@ -320,7 +325,7 @@
       "Name": "Spring Blossom",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "BP-15",
@@ -336,7 +341,7 @@
       "Name": "Pom Pom",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "BP-17",
@@ -359,7 +364,7 @@
     {
       "ID": "7fc93f2",
       "IsBase": true,
-      "Progressed": 306,
+      "Progressed": 307,
       "Completed": 10
     }
   ],
@@ -367,8 +372,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5432443+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.424044+00:00",
   "LastChanged": "2023-03-31T05:58:48.5432443+00:00",
-  "LastChanged_Achievements": "2023-12-28T15:09:32.9460197+00:00",
+  "LastChanged_Achievements": "2023-12-28T16:09:59.2798456+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:50.7200436+00:00",
-  "LastUpdate_Ratings": "2023-12-28T14:57:46.851469+00:00",
-  "LastUpdate_Achievements": "2023-12-28T15:09:32.9460282+00:00"
+  "LastUpdate_Ratings": "2023-12-28T15:58:05.8043524+00:00",
+  "LastUpdate_Achievements": "2023-12-28T16:09:59.279862+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Transport Fever 2",
   "ProductSlug": "transport-fever-2",
   "Ranking_Rating": 259,
-  "Ranking_Popularity": 450,
+  "Ranking_Popularity": 451,
   "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 336,
@@ -857,7 +857,7 @@
   ],
   "EOS_Progressed": 2201,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6515,8 +6515,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-12-25T18:59:12.0846943+00:00",
-  "LastChanged_Achievements": "2023-12-28T15:08:32.3356414+00:00",
+  "LastChanged_Achievements": "2023-12-28T16:08:55.1923799+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:27.2154452+00:00",
-  "LastUpdate_Ratings": "2023-12-28T15:00:47.497363+00:00",
-  "LastUpdate_Achievements": "2023-12-28T15:08:32.3357195+00:00"
+  "LastUpdate_Ratings": "2023-12-28T16:02:46.3659346+00:00",
+  "LastUpdate_Achievements": "2023-12-28T16:08:55.1924588+00:00"
 }

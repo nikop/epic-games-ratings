@@ -4,7 +4,7 @@
   "ProductSlug": "1428-shadows-over-silesia-266e5f",
   "Ranking_EOS_Progress": 542,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 461,
+  "Ranking_EOS_NewPlayers": 462,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -260,9 +260,9 @@
       "ID": "SOS_ALL_LIVES_MATTER",
       "SetID": "6ci4lm2",
       "Name": "All lives matter",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SOS_ANCESTORS",
@@ -660,9 +660,9 @@
       "ID": "SOS_SHAFT_INTO_DARKNESS",
       "SetID": "6ci4lm2",
       "Name": "Shaft into the darkness",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SOS_SINNER",
@@ -724,9 +724,9 @@
       "ID": "SOS_WHAT_HURTS",
       "SetID": "6ci4lm2",
       "Name": "What hurts will stop hurting",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SOS_WHERE_IS_PRISONER",
@@ -747,8 +747,8 @@
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-12-28T15:04:36.9425696+00:00",
+  "LastChanged_Achievements": "2023-12-28T16:05:05.7983234+00:00",
   "LastUpdate_AppInfo": "2023-12-25T18:57:02.8169973+00:00",
-  "LastUpdate_Ratings": "2023-12-28T14:59:38.0204026+00:00",
-  "LastUpdate_Achievements": "2023-12-28T15:04:36.9426077+00:00"
+  "LastUpdate_Ratings": "2023-12-28T15:59:56.5967497+00:00",
+  "LastUpdate_Achievements": "2023-12-28T16:05:05.7983695+00:00"
 }

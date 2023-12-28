@@ -2,7 +2,7 @@
   "ID": "3428aac705b44d88beb8334780fa33bd",
   "Name": "SEASON\u00AE: A letter to the future",
   "ProductSlug": "season",
-  "Ranking_EOS_Progress": 245,
+  "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 93,
   "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 48,
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1810,
+  "EOS_Progressed": 1812,
   "EOS_Completed": 70,
   "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 3.87,
+  "EOS_Completed_Percentage": 3.86,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -3984,6 +3984,11 @@
       "Time": "2023-12-28T15:09:31.4865984+00:00",
       "NumProgressed": 1810,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-28T16:09:57.6777023+00:00",
+      "NumProgressed": 1812,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 16,
@@ -3995,7 +4000,7 @@
       "Name": "Artist Assistant",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH_DEEPLISTENER",
@@ -4003,7 +4008,7 @@
       "Name": "Deep Listener",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -4041,9 +4046,9 @@
       "ID": "ACH_GREYHANDSPRAXI101",
       "SetID": "7pam6gn",
       "Name": "Grey Hands Praxis 101",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 507
+      "UsersEstimate": 489
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -4051,7 +4056,7 @@
       "Name": "Home Leaver",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -4059,7 +4064,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -4083,7 +4088,7 @@
       "Name": "Outside World Seer",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -4115,14 +4120,14 @@
       "Name": "Tour de Tieng",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1810,
+      "Progressed": 1812,
       "Completed": 70
     }
   ],
@@ -4130,8 +4135,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-28T15:09:31.4865982+00:00",
+  "LastChanged_Achievements": "2023-12-28T16:09:57.677702+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:44.3535234+00:00",
-  "LastUpdate_Ratings": "2023-12-28T14:57:44.9532969+00:00",
-  "LastUpdate_Achievements": "2023-12-28T15:09:31.486626+00:00"
+  "LastUpdate_Ratings": "2023-12-28T15:58:04.0221816+00:00",
+  "LastUpdate_Achievements": "2023-12-28T16:09:57.6777313+00:00"
 }

@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lonely Bunny | 97.00% | ~297 |
-| Debris Finder | 84.00% | ~257 |
+| Lonely Bunny | 97.00% | ~298 |
+| Debris Finder | 84.00% | ~258 |
 | Debris Gatherer | 60.00% | ~184 |
 | Beginner Decorator | 49.00% | ~150 |
 | Helpful Bot-terfly | 46.00% | ~141 |
-| Cozy Autumn | 39.00% | ~119 |
+| Cozy Autumn | 39.00% | ~120 |
 | Bunny Party | 35.00% | ~107 |
 | Stylish Decorator | 31.00% | ~95 |
-| Ace Decorator | 23.00% | ~70 |
+| Ace Decorator | 23.00% | ~71 |
 | Debris Collector | 19.00% | ~58 |
 | Bunny Cuddles | 15.00% | ~46 |
 | Winter Wonderland | 13.00% | ~40 |
 | Park Manager | 12.00% | ~37 |
-| Spring Blossom | 8.00% | ~24 |
-| Pom Pom | 8.00% | ~24 |
+| Spring Blossom | 8.00% | ~25 |
+| Pom Pom | 8.00% | ~25 |
 | Bunny Fluffle | 7.00% | ~21 |
 | Tropical Summer | 6.00% | ~18 |
 | Quack quack | 6.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 306 (Ranked 380)  
-Completed: 10 (3.27%) (Ranked 103)  
+Progressed: 307 (Ranked 379)  
+Completed: 10 (3.26%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -58,7 +58,7 @@ Completed: 10 (3.27%) (Ranked 103)
 | 2023-12-01 | 303 | 10 |
 | 2023-12-14 | 304 | 10 |
 | 2023-12-15 | 305 | 10 |
-| 2023-12-28 | 306 | 10 |
+| 2023-12-28 | 307 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

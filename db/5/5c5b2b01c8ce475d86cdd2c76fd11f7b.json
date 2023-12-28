@@ -2,9 +2,9 @@
   "ID": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
   "Name": "Deus Ex - Mankind Divided",
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
-  "Ranking_EOS_Progress": 534,
+  "Ranking_EOS_Progress": 533,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 371,
+  "Ranking_EOS_NewPlayers": 370,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 54,
+  "EOS_Progressed": 55,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
@@ -289,6 +289,11 @@
       "Time": "2023-12-27T03:07:34.2013414+00:00",
       "NumProgressed": 54,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T16:07:02.8908365+00:00",
+      "NumProgressed": 55,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.7079864+00:00",
@@ -419,7 +424,7 @@
       "ID": "NEW_ACHIEVEMENT_1_23",
       "SetID": "7on801h",
       "Name": "And Embrace What You\u0027ve Become",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -427,7 +432,7 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "7on801h",
       "Name": "The Jack of All Augments",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -587,7 +592,7 @@
       "ID": "NEW_ACHIEVEMENT_2_13",
       "SetID": "7on801h",
       "Name": "Adept of the Metaverse",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -667,7 +672,7 @@
       "ID": "NEW_ACHIEVEMENT_2_22",
       "SetID": "o6aioj",
       "Name": "Help Desk",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -771,7 +776,7 @@
       "ID": "NEW_ACHIEVEMENT_2_6",
       "SetID": "7on801h",
       "Name": "The Last Harvest",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -779,7 +784,7 @@
       "ID": "NEW_ACHIEVEMENT_2_7",
       "SetID": "7on801h",
       "Name": "01011000",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -795,7 +800,7 @@
       "ID": "NEW_ACHIEVEMENT_2_9",
       "SetID": "7on801h",
       "Name": "All in the Family",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -948,20 +953,20 @@
     {
       "ID": "7on801h",
       "IsBase": true,
-      "Progressed": 54,
+      "Progressed": 55,
       "Completed": 0
     },
     {
       "ID": "o6aioj",
       "IsBase": false,
-      "Progressed": 54,
+      "Progressed": 55,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-28T15:06:19.8227218+00:00",
+  "LastChanged_Achievements": "2023-12-28T16:07:02.8908364+00:00",
   "LastUpdate_AppInfo": "2023-12-27T16:57:17.6990227+00:00",
-  "LastUpdate_Ratings": "2023-12-28T14:57:39.6603267+00:00",
-  "LastUpdate_Achievements": "2023-12-28T15:06:19.8227821+00:00"
+  "LastUpdate_Ratings": "2023-12-28T15:57:58.2976591+00:00",
+  "LastUpdate_Achievements": "2023-12-28T16:07:02.8909024+00:00"
 }

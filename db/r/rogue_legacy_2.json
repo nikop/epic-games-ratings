@@ -1536,9 +1536,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27010,
+  "EOS_Progressed": 27019,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 928,
+  "EOS_NewPlayers": 930,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -12181,6 +12181,11 @@
       "Time": "2023-12-28T15:09:32.2877062+00:00",
       "NumProgressed": 27010,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-28T16:09:58.6579731+00:00",
+      "NumProgressed": 27019,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -12256,7 +12261,7 @@
       "Name": "Captain and Crew",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -12320,7 +12325,7 @@
       "Name": "Harvest and Home",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -12384,7 +12389,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "EndTimerFail",
@@ -12503,21 +12508,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27010,
+      "Progressed": 27019,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 5940,
+      "Progressed": 5949,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-28T14:58:47.4806597+00:00",
-  "LastChanged_Achievements": "2023-12-28T15:09:32.287706+00:00",
+  "LastChanged_Achievements": "2023-12-28T16:09:58.6579728+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.6659711+00:00",
-  "LastUpdate_Ratings": "2023-12-28T14:58:47.4806604+00:00",
-  "LastUpdate_Achievements": "2023-12-28T15:09:32.2877902+00:00"
+  "LastUpdate_Ratings": "2023-12-28T15:59:10.0665669+00:00",
+  "LastUpdate_Achievements": "2023-12-28T16:09:58.6580626+00:00"
 }

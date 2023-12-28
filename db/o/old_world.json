@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2202,9 +2202,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15986,
+  "EOS_Progressed": 15992,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18492,6 +18492,11 @@
       "Time": "2023-12-28T15:09:51.6786447+00:00",
       "NumProgressed": 15986,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-28T16:10:18.9315014+00:00",
+      "NumProgressed": 15992,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -18877,17 +18882,17 @@
       "ID": "ACHIEVEMENT_COGNOMEN_BRAVE",
       "SetID": "9201eeb",
       "Name": "Drillmaster",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_BRILLIANT",
       "SetID": "9201eeb",
       "Name": "Brilliant",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CAPABLE",
@@ -19125,9 +19130,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SETTLER",
       "SetID": "9201eeb",
       "Name": "Settler",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 128
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -20293,9 +20298,9 @@
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
       "SetID": "7l38kb8",
       "Name": "Manichaeism",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ASSYRIA",
@@ -21366,21 +21371,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15986,
+      "Progressed": 15992,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15986,
+      "Progressed": 15992,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-27T17:03:20.9753221+00:00",
-  "LastChanged_Achievements": "2023-12-28T15:09:51.6786446+00:00",
+  "LastChanged_Achievements": "2023-12-28T16:10:18.931501+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:47.5878363+00:00",
-  "LastUpdate_Ratings": "2023-12-28T15:02:52.8003453+00:00",
-  "LastUpdate_Achievements": "2023-12-28T15:09:51.6796148+00:00"
+  "LastUpdate_Ratings": "2023-12-28T16:03:14.7151863+00:00",
+  "LastUpdate_Achievements": "2023-12-28T16:10:18.9325299+00:00"
 }
