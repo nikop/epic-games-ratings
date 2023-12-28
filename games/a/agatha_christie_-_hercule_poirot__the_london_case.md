@@ -39,12 +39,12 @@
 | The Suspects | 17.00% | ~13 |
 | Horace Mountjoy | 16.00% | ~12 |
 | The Secrets | 16.00% | ~12 |
-| Well-travelled | 13.00% | ~10 |
-| A peculiar fellow | 13.00% | ~10 |
-| Mortimer Ailsworth | 13.00% | ~10 |
+| Well-travelled | 15.00% | ~11 |
+| A peculiar fellow | 15.00% | ~11 |
+| Mortimer Ailsworth | 15.00% | ~11 |
+| Florence Farquhar | 13.00% | ~10 |
+| The Investigation Starts Anew | 13.00% | ~10 |
 | A perilous journey | 12.00% | ~9 |
-| Florence Farquhar | 12.00% | ~9 |
-| The Investigation Starts Anew | 12.00% | ~9 |
 | The Denouement | 11.00% | ~8 |
 | A treasured heirloom | 11.00% | ~8 |
 | The Penitent Magdalene | 11.00% | ~8 |

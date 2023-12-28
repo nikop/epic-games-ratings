@@ -6,38 +6,38 @@ Number of Ratings: 67  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Mint I | 5.00% | ~13 |
 | Soul Cache | 5.00% | ~13 |
-| Mint I | 4.00% | ~10 |
+| Astarte | 2.00% | ~5 |
+| Close the Rift | 2.00% | ~5 |
 | Mammon | 2.00% | ~5 |
-| Astarte | 1.00% | ~3 |
-| Close the Rift | 1.00% | ~3 |
+| Master of War | 2.00% | ~5 |
+| The Dead Court | 2.00% | ~5 |
+| Demolition Derby | 1.00% | ~3 |
 | Hell's Forge | 1.00% | ~3 |
-| Master of War | 1.00% | ~3 |
-| The Dead Court | 1.00% | ~3 |
+| Master of Strife | 1.00% | ~3 |
 | Why'd It Have to Be Snakes? | 1.00% | ~3 |
-| Demolition Derby | 0.80% | ~2 |
-| Master of Strife | 0.80% | ~2 |
-| Good Deeds | 0.40% | ~1 |
+| Good Deeds | 0.80% | ~2 |
+| Mint II | 0.80% | ~2 |
+| A Bullet for All Seasons | 0.40% | ~1 |
+| Are You Not Entertained? | 0.40% | ~1 |
+| Collector | 0.40% | ~1 |
+| Full of Hell | 0.40% | ~1 |
+| Gatekeeper | 0.40% | ~1 |
 | Infested | 0.40% | ~1 |
-| Mint II | 0.40% | ~1 |
-| A Bullet for All Seasons | 0.00% | ~0 |
-| Are You Not Entertained? | 0.00% | ~0 |
+| The Promised End | 0.40% | ~1 |
+| Walking Armory | 0.40% | ~1 |
+| Wicked Killington | 0.40% | ~1 |
 | Belial | 0.00% | ~0 |
 | Blademaster | 0.00% | ~0 |
-| Collector | 0.00% | ~0 |
 | Dagon | 0.00% | ~0 |
-| Full of Hell | 0.00% | ~0 |
-| Gatekeeper | 0.00% | ~0 |
 | Mint III | 0.00% | ~0 |
 | Moloch | 0.00% | ~0 |
 | Ready to Blow | 0.00% | ~0 |
 | Respect For Animals | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
-| The Promised End | 0.00% | ~0 |
-| Walking Armory | 0.00% | ~0 |
-| Wicked Killington | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 261 (Ranked 394)  
+Progressed: 262 (Ranked 394)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,7 +52,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 221 | 0 |
 | 2023-12-26 | 236 | 0 |
 | 2023-12-27 | 256 | 0 |
-| 2023-12-28 | 261 | 0 |
+| 2023-12-28 | 262 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 463)  
 Sum: 45 (Ranked 507)  

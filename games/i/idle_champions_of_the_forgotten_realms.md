@@ -13,14 +13,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 0.60% | ~1,475 |
 | Fast Food | 0.60% | ~1,273 |
 | The Ring of Regeneration | 0.40% | ~983 |
-| The Overgrown Grove | 0.40% | ~848 |
-| Flames of Avernus | 0.40% | ~848 |
-| Mental Gymnastics | 0.40% | ~848 |
+| The Overgrown Grove | 0.40% | ~849 |
+| Flames of Avernus | 0.40% | ~849 |
+| Mental Gymnastics | 0.40% | ~849 |
 | Were-verpowered | 0.30% | ~738 |
 | Seeking Allies | 0.30% | ~738 |
 | Are Ya Chicken? | 0.30% | ~738 |
 | Mad Cow Disease | 0.30% | ~738 |
 | Friendly Imps | 0.30% | ~738 |
+| Arcane Suppression | 0.30% | ~636 |
 | Misaligned in Sigil | 0.30% | ~636 |
 | Chaos Theory | 0.30% | ~636 |
 | When Tentacles Attack | 0.30% | ~636 |
@@ -33,7 +34,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.20% | ~492 |
 | Exploring Port Nyanzaru | 0.20% | ~492 |
 | Pure Energy | 0.20% | ~492 |
-| Arcane Suppression | 0.20% | ~424 |
 | Welcome to the Vrocks | 0.20% | ~424 |
 | Pros and CONs | 0.10% | ~246 |
 | Upholding the Law | 0.10% | ~246 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~212 |
 | The Brains of an Illithid's Desire | 0.10% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,849 (Ranked 67)  
+Progressed: 245,874 (Ranked 67)  
 Completed: 2,569 (1.04%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -805,7 +805,7 @@ Completed: 2,569 (1.04%) (Ranked 168)
 | 2023-12-25 | 244,638 | 2,562 |
 | 2023-12-26 | 245,031 | 2,566 |
 | 2023-12-27 | 245,531 | 2,567 |
-| 2023-12-28 | 245,849 | 2,569 |
+| 2023-12-28 | 245,874 | 2,569 |
 ## Awards
 Max (Great for Beginners): 5,701  (Ranked 71)  
 Sum: 33,136 (Ranked 41)  

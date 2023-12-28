@@ -17,12 +17,12 @@ Number of Ratings: 116  (23.09.2022)
 | All That Glitters | 47.00% | ~119 |
 | Enhance! | 44.00% | ~111 |
 | One Of the Chosen | 42.00% | ~106 |
+| Throne Potato | 41.00% | ~104 |
 | Devil's in the Details | 40.00% | ~101 |
-| Throne Potato | 40.00% | ~101 |
 | 25 to Life | 39.00% | ~99 |
 | Five's a Crowd | 38.00% | ~96 |
+| Soul Harvester | 37.00% | ~94 |
 | Unshakable Fortitude | 36.00% | ~91 |
-| Soul Harvester | 36.00% | ~91 |
 | Salvation | 35.00% | ~89 |
 | I Wanna Rock | 32.00% | ~81 |
 | Delusions of Grandeur | 32.00% | ~81 |
@@ -36,7 +36,7 @@ Number of Ratings: 116  (23.09.2022)
 | Can you restore the Balance? | 22.00% | ~56 |
 | Cleanup Crew | 21.00% | ~53 |
 | Crowd Source | 21.00% | ~53 |
-| Maximum Capacity | 19.00% | ~48 |
+| Maximum Capacity | 20.00% | ~51 |
 | Demon Meddler | 19.00% | ~48 |
 | Seeing Red | 18.00% | ~46 |
 | Egomaniac | 17.00% | ~43 |

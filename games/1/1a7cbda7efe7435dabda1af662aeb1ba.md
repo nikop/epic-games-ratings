@@ -4,17 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breaking Free | 38.00% | ~15 |
-| Boulder Breaker | 26.00% | ~10 |
+| Breaking Free | 41.00% | ~16 |
+| Boulder Breaker | 28.00% | ~11 |
 | Overcoming Weakness | 23.00% | ~9 |
 | Fence-Sitter | 13.00% | ~5 |
 | Green Thumb | 10.00% | ~4 |
 | Crystal Hunter | 8.00% | ~3 |
+| Setting Off | 8.00% | ~3 |
 | Bye-Bye, Butcher | 5.00% | ~2 |
 | Equivalent Exchange | 5.00% | ~2 |
-| Setting Off | 5.00% | ~2 |
 | Danger | 5.00% | ~2 |
 | Column Crusher | 3.00% | ~1 |
+| Rejected Parasite | 3.00% | ~1 |
 | A Twist of Fate | 3.00% | ~1 |
 | Strength | 3.00% | ~1 |
 | Eviction | 3.00% | ~1 |
@@ -22,7 +23,6 @@
 | Breach of Contract | 3.00% | ~1 |
 | My Turn | 0.00% | ~0 |
 | Armor Annihilator | 0.00% | ~0 |
-| Rejected Parasite | 0.00% | ~0 |
 | Rebellious Servant | 0.00% | ~0 |
 | Hermit | 0.00% | ~0 |
 | Tower | 0.00% | ~0 |

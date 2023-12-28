@@ -4,7 +4,7 @@
   "ProductSlug": "avatar-frontiers-of-pandora",
   "Ranking_Rating": 626,
   "Ranking_Popularity": 399,
-  "Ranking_PopularitySum": 327,
+  "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 817,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 568,
@@ -657,10 +657,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 544,
       "NumberOfAwardsMax": 79
+    },
+    {
+      "Time": "2023-12-28T09:58:04.0195454+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 550,
+      "NumberOfAwardsMax": 79
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 544,
+  "NumberOfAwards": 550,
   "NumberOfAwardsMax": 79,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -680,7 +686,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 66
+      "Count": 72
     },
     {
       "Text": "This game is Extremely Fun",
@@ -743,8 +749,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-07T07:59:53.6089805+00:00",
   "FirstSeenRating": "2023-12-07T19:59:23.1655437+00:00",
-  "LastChanged": "2023-12-28T03:58:46.9662017+00:00",
+  "LastChanged": "2023-12-28T09:58:04.0195452+00:00",
   "LastUpdate_AppInfo": "2023-12-25T06:57:12.3126511+00:00",
-  "LastUpdate_Ratings": "2023-12-28T08:58:52.3570003+00:00",
-  "LastUpdate_Achievements": "2023-12-28T09:07:22.4735896+00:00"
+  "LastUpdate_Ratings": "2023-12-28T09:58:04.0195457+00:00",
+  "LastUpdate_Achievements": "2023-12-28T10:05:34.4733915+00:00"
 }

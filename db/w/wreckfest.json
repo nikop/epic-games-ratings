@@ -325,7 +325,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 473,
+  "EOS_Progressed": 474,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 0,
@@ -1300,6 +1300,11 @@
       "Time": "2023-12-28T08:08:44.0030496+00:00",
       "NumProgressed": 473,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T10:08:34.6438421+00:00",
+      "NumProgressed": 474,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1326,9 +1331,9 @@
       "ID": "CareerChamp1",
       "SetID": "5hd282c",
       "Name": "Regional Juniors Champion",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 156
+      "UsersEstimate": 152
     },
     {
       "ID": "CareerChamp2",
@@ -1344,7 +1349,7 @@
       "Name": "Challengers Champion",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "CareerChamp4",
@@ -1368,7 +1373,7 @@
       "Name": "Storm Warning",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "CollectVehiclesA",
@@ -1471,7 +1476,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 473,
+      "Progressed": 474,
       "Completed": 0
     }
   ],
@@ -1479,8 +1484,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-26T23:01:34.391907+00:00",
-  "LastChanged_Achievements": "2023-12-28T09:09:41.4489969+00:00",
+  "LastChanged_Achievements": "2023-12-28T10:08:34.6438415+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-28T08:57:47.026781+00:00",
-  "LastUpdate_Achievements": "2023-12-28T09:09:41.4490088+00:00"
+  "LastUpdate_Ratings": "2023-12-28T09:57:14.1165252+00:00",
+  "LastUpdate_Achievements": "2023-12-28T10:08:34.6438549+00:00"
 }

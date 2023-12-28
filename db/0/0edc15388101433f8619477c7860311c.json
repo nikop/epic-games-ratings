@@ -4,7 +4,7 @@
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
   "Ranking_EOS_Progress": 500,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 371,
+  "Ranking_EOS_NewPlayers": 370,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
@@ -440,9 +440,9 @@
       "ID": "FirstTry",
       "SetID": "7m88n8p",
       "Name": "Getting It on the First Try",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "HauntingSpecter",
@@ -592,9 +592,9 @@
       "ID": "WhoseChild",
       "SetID": "7m88n8p",
       "Name": "Whose Child?",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     }
   ],
   "AchievementSets": [
@@ -607,8 +607,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-12-28T09:07:40.7985967+00:00",
+  "LastChanged_Achievements": "2023-12-28T10:05:48.1695221+00:00",
   "LastUpdate_AppInfo": "2023-12-25T13:57:09.7353071+00:00",
-  "LastUpdate_Ratings": "2023-12-28T08:59:33.8700142+00:00",
-  "LastUpdate_Achievements": "2023-12-28T09:07:40.7986135+00:00"
+  "LastUpdate_Ratings": "2023-12-28T09:58:34.4093998+00:00",
+  "LastUpdate_Achievements": "2023-12-28T10:05:48.169538+00:00"
 }

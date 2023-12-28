@@ -5577,7 +5577,7 @@
       "Count": 545
     }
   ],
-  "EOS_Progressed": 13347,
+  "EOS_Progressed": 13348,
   "EOS_Completed": 331,
   "EOS_NewPlayers": 437,
   "EOS_NewCompleters": 10,
@@ -23337,6 +23337,11 @@
       "Time": "2023-12-28T09:10:09.0553381+00:00",
       "NumProgressed": 13347,
       "NumCompleted": 331
+    },
+    {
+      "Time": "2023-12-28T10:08:55.1719688+00:00",
+      "NumProgressed": 13348,
+      "NumCompleted": 331
     }
   ],
   "TotalAchievements": 15,
@@ -23364,7 +23369,7 @@
       "Name": "Bestest Friend",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 6006
+      "UsersEstimate": 6007
     },
     {
       "ID": "Chef_Cook",
@@ -23420,7 +23425,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 68,
       "XP": 75,
-      "UsersEstimate": 9076
+      "UsersEstimate": 9077
     },
     {
       "ID": "Miner",
@@ -23436,7 +23441,7 @@
       "Name": "Photographer",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 8942
+      "UsersEstimate": 8943
     },
     {
       "ID": "Renovator",
@@ -23460,14 +23465,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 8008
+      "UsersEstimate": 8009
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 13347,
+      "Progressed": 13348,
       "Completed": 331
     }
   ],
@@ -23475,8 +23480,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-12-27T21:01:32.5429767+00:00",
-  "LastChanged_Achievements": "2023-12-28T09:10:09.0553379+00:00",
+  "LastChanged_Achievements": "2023-12-28T10:08:55.1719684+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:18.7003886+00:00",
-  "LastUpdate_Ratings": "2023-12-28T09:01:35.9511516+00:00",
-  "LastUpdate_Achievements": "2023-12-28T09:10:09.0554326+00:00"
+  "LastUpdate_Ratings": "2023-12-28T10:00:03.7407387+00:00",
+  "LastUpdate_Achievements": "2023-12-28T10:08:55.1720642+00:00"
 }

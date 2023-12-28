@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~2,001 |
+| New Recruit | 88.00% | ~2,002 |
 | Off to a good start | 63.00% | ~1,433 |
-| Do... or do not. There is no try | 52.00% | ~1,182 |
-| A good blaster at your side | 26.00% | ~591 |
-| I suggest a new strategy | 18.00% | ~409 |
+| Do... or do not. There is no try | 52.00% | ~1,183 |
+| A good blaster at your side | 26.00% | ~592 |
+| I suggest a new strategy | 18.00% | ~410 |
 | Scrap collector | 16.00% | ~364 |
 | Great shot, kid! | 16.00% | ~364 |
 | All right, I'll give it a try | 15.00% | ~341 |
@@ -33,16 +33,16 @@
 | Not bad for a little furball | 3.00% | ~68 |
 | Patience you must have | 3.00% | ~68 |
 | Don't underestimate the Force | 3.00% | ~68 |
-| The Force is strong with this one | 2.00% | ~45 |
-| I've been waiting for you | 2.00% | ~45 |
-| When 900 years old you reach... | 2.00% | ~45 |
-| Determined | 2.00% | ~45 |
-| Your journey has only started | 2.00% | ~45 |
-| Precision shot | 2.00% | ~45 |
-| City in the Clouds | 2.00% | ~45 |
-| That's no moon | 2.00% | ~45 |
-| What will you become? | 2.00% | ~45 |
-| Disturbed tranquility | 2.00% | ~45 |
+| The Force is strong with this one | 2.00% | ~46 |
+| I've been waiting for you | 2.00% | ~46 |
+| When 900 years old you reach... | 2.00% | ~46 |
+| Determined | 2.00% | ~46 |
+| Your journey has only started | 2.00% | ~46 |
+| Precision shot | 2.00% | ~46 |
+| City in the Clouds | 2.00% | ~46 |
+| That's no moon | 2.00% | ~46 |
+| What will you become? | 2.00% | ~46 |
+| Disturbed tranquility | 2.00% | ~46 |
 | Hold the line! | 1.00% | ~23 |
 | Playing the objective | 1.00% | ~23 |
 | Ackbar's Elite | 1.00% | ~23 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,274 (Ranked 233)  
+Progressed: 2,275 (Ranked 233)  
 Completed: 1 (0.04%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 1 (0.04%) (Ranked 345)
 | 2023-12-25 | 2,164 | 1 |
 | 2023-12-26 | 2,218 | 1 |
 | 2023-12-27 | 2,258 | 1 |
-| 2023-12-28 | 2,274 | 1 |
+| 2023-12-28 | 2,275 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

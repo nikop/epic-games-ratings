@@ -16,8 +16,8 @@ Number of Ratings: 292  (23.09.2022)
 | Humiliation | 8.00% | ~64 |
 | Veni, Vidi, Vici | 8.00% | ~64 |
 | Master | 7.00% | ~56 |
-| Whoops! | 6.00% | ~48 |
 | Landlord Extraordinaire | 6.00% | ~48 |
+| Whoops! | 5.00% | ~40 |
 | Don't Touch My Stuff | 5.00% | ~40 |
 | The Song of Stoutheart | 4.00% | ~32 |
 | Trojan Horse | 4.00% | ~32 |
@@ -25,10 +25,10 @@ Number of Ratings: 292  (23.09.2022)
 | Venisti, Vidisti, Perdidisti | 3.00% | ~24 |
 | This Spot's Taken | 2.00% | ~16 |
 | Deepstrike | 2.00% | ~16 |
-| Infernal Influence | 2.00% | ~16 |
 | Ultra Kill | 2.00% | ~16 |
 | Pyrrhic Victory | 2.00% | ~16 |
 | Versatile Wielder | 1.00% | ~8 |
+| Infernal Influence | 1.00% | ~8 |
 | From the Ashes | 1.00% | ~8 |
 | Such A Fungi | 1.00% | ~8 |
 | Grand Master | 1.00% | ~8 |
@@ -42,9 +42,9 @@ Number of Ratings: 292  (23.09.2022)
 | Coming Through! | 0.40% | ~3 |
 | Barbecue | 0.40% | ~3 |
 | Cleave | 0.40% | ~3 |
-| Attack Bonanza | 0.30% | ~2 |
-| Oops! | 0.30% | ~2 |
-| The Marsh Expands | 0.30% | ~2 |
+| Attack Bonanza | 0.20% | ~2 |
+| Oops! | 0.20% | ~2 |
+| The Marsh Expands | 0.20% | ~2 |
 | Bringer of Ruin | 0.10% | ~1 |
 | Hello There | 0.10% | ~1 |
 | An Empress's Hope | 0.10% | ~1 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 800 (Ranked 295)  
+Progressed: 801 (Ranked 294)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 749 | 0 |
 | 2023-12-26 | 773 | 0 |
 | 2023-12-27 | 796 | 0 |
-| 2023-12-28 | 800 | 0 |
+| 2023-12-28 | 801 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 29  (Ranked 519)  
 Sum: 251 (Ranked 396)  

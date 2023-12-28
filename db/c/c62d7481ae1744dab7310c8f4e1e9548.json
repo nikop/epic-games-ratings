@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 163,
+  "EOS_Progressed": 164,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.13,
+  "EOS_Completed_Percentage": 6.1,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -834,6 +834,11 @@
       "Time": "2023-12-27T11:05:24.792411+00:00",
       "NumProgressed": 163,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-28T10:05:31.7899046+00:00",
+      "NumProgressed": 164,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -886,7 +891,7 @@
       "Name": "Mushrooms",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Jing",
@@ -894,15 +899,15 @@
       "Name": "Jing Jang",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 84
     },
     {
       "ID": "Kour",
@@ -918,7 +923,7 @@
       "Name": "Crab Pyramid",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Kudla",
@@ -926,7 +931,7 @@
       "Name": "Knife",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "Kvitky",
@@ -942,7 +947,7 @@
       "Name": "Mimicking Parrot",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Myska",
@@ -966,7 +971,7 @@
       "Name": "Liana Bats",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Pejsek",
@@ -998,7 +1003,7 @@
       "Name": "Goldfish",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Sova",
@@ -1012,9 +1017,9 @@
       "ID": "SpiciPapouch",
       "SetID": "ag48e8e",
       "Name": "Sleeping Parrot",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 52
     },
     {
       "ID": "Sputnik2",
@@ -1022,7 +1027,7 @@
       "Name": "Sputnik",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Stonozka",
@@ -1044,9 +1049,9 @@
       "ID": "Termit",
       "SetID": "ag48e8e",
       "Name": "Saint Termite",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "Truhlice",
@@ -1070,29 +1075,29 @@
       "Name": "Goldbug",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ZpivajiciHouba",
       "SetID": "ag48e8e",
       "Name": "Dancing Fungus",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 49
     }
   ],
   "AchievementSets": [
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 163,
+      "Progressed": 164,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-12-28T09:07:18.7137701+00:00",
+  "LastChanged_Achievements": "2023-12-28T10:05:31.7899042+00:00",
   "LastUpdate_AppInfo": "2023-12-23T06:57:11.8700961+00:00",
-  "LastUpdate_Ratings": "2023-12-28T09:03:34.9372478+00:00",
-  "LastUpdate_Achievements": "2023-12-28T09:07:18.7137869+00:00"
+  "LastUpdate_Ratings": "2023-12-28T10:02:47.3558842+00:00",
+  "LastUpdate_Achievements": "2023-12-28T10:05:31.7899268+00:00"
 }

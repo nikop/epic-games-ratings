@@ -43,9 +43,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1382,
+  "EOS_Progressed": 1383,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 426,
+  "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -2718,6 +2718,11 @@
       "Time": "2023-12-28T08:09:59.0010914+00:00",
       "NumProgressed": 1382,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T10:09:50.5902122+00:00",
+      "NumProgressed": 1383,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2737,7 +2742,7 @@
       "Name": "Find Allies",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH_03",
@@ -2905,7 +2910,7 @@
       "Name": "Geared Up",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH_24",
@@ -2945,7 +2950,7 @@
       "Name": "I Found It",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH_29",
@@ -3016,7 +3021,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1382,
+      "Progressed": 1383,
       "Completed": 3
     }
   ],
@@ -3024,8 +3029,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2023-12-27T23:57:06.3972881+00:00",
-  "LastChanged_Achievements": "2023-12-28T09:11:23.5907717+00:00",
+  "LastChanged_Achievements": "2023-12-28T10:09:50.590212+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-28T08:57:38.6586388+00:00",
-  "LastUpdate_Achievements": "2023-12-28T09:11:23.5908031+00:00"
+  "LastUpdate_Ratings": "2023-12-28T09:57:07.8224575+00:00",
+  "LastUpdate_Achievements": "2023-12-28T10:09:50.5902387+00:00"
 }

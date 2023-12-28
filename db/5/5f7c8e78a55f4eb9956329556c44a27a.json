@@ -4,7 +4,7 @@
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 229,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -1180,9 +1180,9 @@
       "ID": "TINGWD_TRAP",
       "SetID": "c0imaa6",
       "Name": "It\u0027s a trap!",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 120,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "TINGWD_WRONGDIMENSION",
@@ -1203,8 +1203,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-12-28T09:06:01.7145359+00:00",
+  "LastChanged_Achievements": "2023-12-28T10:04:34.9707668+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.5556577+00:00",
-  "LastUpdate_Ratings": "2023-12-28T08:57:39.9966033+00:00",
-  "LastUpdate_Achievements": "2023-12-28T09:06:01.7145593+00:00"
+  "LastUpdate_Ratings": "2023-12-28T09:57:08.8027606+00:00",
+  "LastUpdate_Achievements": "2023-12-28T10:04:34.9707873+00:00"
 }

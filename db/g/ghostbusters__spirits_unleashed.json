@@ -3861,9 +3861,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32833,
+  "EOS_Progressed": 32837,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 347,
+  "EOS_NewPlayers": 351,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -23736,6 +23736,11 @@
       "Time": "2023-12-28T08:08:40.3147686+00:00",
       "NumProgressed": 32833,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-28T10:08:30.4827173+00:00",
+      "NumProgressed": 32837,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 51,
@@ -23747,7 +23752,7 @@
       "Name": "Advancement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2298
+      "UsersEstimate": 2299
     },
     {
       "ID": "Animated",
@@ -23899,7 +23904,7 @@
       "Name": "Ghost Expert",
       "Percentage": 0.3,
       "XP": 75,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "Icing_Cake",
@@ -24051,7 +24056,7 @@
       "Name": "Stylish",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3283
+      "UsersEstimate": 3284
     },
     {
       "ID": "Summoner",
@@ -24154,7 +24159,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32833,
+      "Progressed": 32837,
       "Completed": 70
     }
   ],
@@ -24162,8 +24167,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-27T23:00:22.2812208+00:00",
-  "LastChanged_Achievements": "2023-12-28T09:09:36.3185631+00:00",
+  "LastChanged_Achievements": "2023-12-28T10:08:30.4827169+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.5748987+00:00",
-  "LastUpdate_Ratings": "2023-12-28T09:00:40.690825+00:00",
-  "LastUpdate_Achievements": "2023-12-28T09:09:36.3187208+00:00"
+  "LastUpdate_Ratings": "2023-12-28T09:59:24.8560353+00:00",
+  "LastUpdate_Achievements": "2023-12-28T10:08:30.4828155+00:00"
 }

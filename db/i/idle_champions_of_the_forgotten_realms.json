@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9121,10 +9121,10 @@
       "Count": 3602
     }
   ],
-  "EOS_Progressed": 245849,
+  "EOS_Progressed": 245874,
   "EOS_Completed": 2569,
-  "EOS_NewPlayers": 3320,
-  "EOS_NewCompleters": 21,
+  "EOS_NewPlayers": 3331,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -37601,6 +37601,11 @@
       "Time": "2023-12-28T09:11:33.5158379+00:00",
       "NumProgressed": 245849,
       "NumCompleted": 2569
+    },
+    {
+      "Time": "2023-12-28T10:09:59.2680352+00:00",
+      "NumProgressed": 245874,
+      "NumCompleted": 2569
     }
   ],
   "TotalAchievements": 546,
@@ -41882,9 +41887,9 @@
       "ID": "objective_completed_1347",
       "SetID": "415jc5c",
       "Name": "Arcane Suppression",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 636
     },
     {
       "ID": "objective_completed_1352",
@@ -41932,7 +41937,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "objective_completed_673",
@@ -41948,7 +41953,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "objective_completed_683",
@@ -41956,7 +41961,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "objective_completed_860",
@@ -41979,21 +41984,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 212123,
-      "Completed": 4072
+      "Progressed": 212148,
+      "Completed": 4073
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 245849,
+      "Progressed": 245874,
       "Completed": 2569
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-28T06:58:45.5766271+00:00",
-  "LastChanged_Achievements": "2023-12-28T09:11:33.5158376+00:00",
+  "LastChanged_Achievements": "2023-12-28T10:09:59.2680349+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-28T08:59:43.6564624+00:00",
-  "LastUpdate_Achievements": "2023-12-28T09:11:33.5181086+00:00"
+  "LastUpdate_Ratings": "2023-12-28T09:58:40.9983592+00:00",
+  "LastUpdate_Achievements": "2023-12-28T10:09:59.270346+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 241,
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1988,7 +1988,7 @@
   ],
   "EOS_Progressed": 721,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8168,9 +8168,9 @@
       "ID": "M_GOLS",
       "SetID": "80dcan0",
       "Name": "Financially Secure",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 541
+      "UsersEstimate": 548
     },
     {
       "ID": "M_HOME_RANK",
@@ -8232,9 +8232,9 @@
       "ID": "P_FOREST",
       "SetID": "80dcan0",
       "Name": "The Little Wood that Could",
-      "Percentage": 115,
+      "Percentage": 116,
       "XP": 20,
-      "UsersEstimate": 829
+      "UsersEstimate": 836
     },
     {
       "ID": "P_HYDROGEL",
@@ -8280,9 +8280,9 @@
       "ID": "P_REMOVEPOLLUTION",
       "SetID": "80dcan0",
       "Name": "Greeno-B-Gone",
-      "Percentage": 115,
+      "Percentage": 116,
       "XP": 20,
-      "UsersEstimate": 829
+      "UsersEstimate": 836
     },
     {
       "ID": "P_SAVESANDROCK",
@@ -8296,9 +8296,9 @@
       "ID": "P_SCHOOL",
       "SetID": "80dcan0",
       "Name": "Elementary, My Dear",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 469
+      "UsersEstimate": 476
     },
     {
       "ID": "P_THEMEPARK",
@@ -8320,9 +8320,9 @@
       "ID": "P_WATERPIPELINE",
       "SetID": "80dcan0",
       "Name": "Lifeline Pipeline",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 440
+      "UsersEstimate": 447
     },
     {
       "ID": "P_WATERTOWER",
@@ -8544,8 +8544,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-12-28T05:01:26.4872169+00:00",
-  "LastChanged_Achievements": "2023-12-28T09:09:22.0218784+00:00",
+  "LastChanged_Achievements": "2023-12-28T10:08:19.8171955+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:10.7892311+00:00",
-  "LastUpdate_Ratings": "2023-12-28T09:01:14.0727191+00:00",
-  "LastUpdate_Achievements": "2023-12-28T09:09:22.0219586+00:00"
+  "LastUpdate_Ratings": "2023-12-28T09:59:48.0288132+00:00",
+  "LastUpdate_Achievements": "2023-12-28T10:08:19.8172636+00:00"
 }

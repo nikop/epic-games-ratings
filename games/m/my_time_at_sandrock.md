@@ -9,8 +9,8 @@ Number of Ratings: 892  (23.09.2022)
 | Adept Assembler | 210.00% | ~1,514 |
 | Iron Chef | 147.00% | ~1,060 |
 | Super Spelunker | 140.00% | ~1,009 |
-| The Little Wood that Could | 115.00% | ~829 |
-| Greeno-B-Gone | 115.00% | ~829 |
+| The Little Wood that Could | 116.00% | ~836 |
+| Greeno-B-Gone | 116.00% | ~836 |
 | On that Grindset | 98.00% | ~707 |
 | Officially Official | 98.00% | ~707 |
 | Your Especially Earned Trajectory | 97.00% | ~699 |
@@ -21,8 +21,8 @@ Number of Ratings: 892  (23.09.2022)
 | No Mountain Wide Enough | 79.00% | ~570 |
 | Got Served | 78.00% | ~562 |
 | I Do! | 77.00% | ~555 |
+| Financially Secure | 76.00% | ~548 |
 | Mole Masher | 76.00% | ~548 |
-| Financially Secure | 75.00% | ~541 |
 | Yakmel Whisperer | 75.00% | ~541 |
 | Knowledge is Power | 74.00% | ~534 |
 | Big Game Hunter | 72.00% | ~519 |
@@ -32,9 +32,9 @@ Number of Ratings: 892  (23.09.2022)
 | First Love | 70.00% | ~505 |
 | Panda-kin | 68.00% | ~490 |
 | What Plants Crave | 66.00% | ~476 |
-| Elementary, My Dear | 65.00% | ~469 |
+| Elementary, My Dear | 66.00% | ~476 |
 | Builder of the Month | 63.00% | ~454 |
-| Lifeline Pipeline | 61.00% | ~440 |
+| Lifeline Pipeline | 62.00% | ~447 |
 | Waste Not Want Not | 61.00% | ~440 |
 | Martle's Dream | 59.00% | ~425 |
 | Bridging the Gap | 58.00% | ~418 |

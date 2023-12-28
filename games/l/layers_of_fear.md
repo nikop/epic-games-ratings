@@ -8,7 +8,7 @@
 | A piece of the story | 60.00% | ~130 |
 | Wanderer | 56.00% | ~121 |
 | It's covered up for a reason | 52.00% | ~112 |
-| Scraps of love | 46.00% | ~99 |
+| Scraps of love | 47.00% | ~102 |
 | The artist’s impression | 46.00% | ~99 |
 | Do what you have to | 44.00% | ~95 |
 | Sign of weakness | 40.00% | ~86 |

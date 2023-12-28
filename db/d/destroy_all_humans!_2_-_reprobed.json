@@ -278,7 +278,7 @@
   ],
   "EOS_Progressed": 226,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -1289,9 +1289,9 @@
       "ID": "ACH_ENTER_ALBION",
       "SetID": "4n84pon",
       "Name": "Lie Back and Think of Albion",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -1522,8 +1522,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-28T09:10:05.2654546+00:00",
+  "LastChanged_Achievements": "2023-12-28T10:08:52.4076344+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-28T08:59:29.9976525+00:00",
-  "LastUpdate_Achievements": "2023-12-28T09:10:05.2654802+00:00"
+  "LastUpdate_Ratings": "2023-12-28T09:58:31.6513079+00:00",
+  "LastUpdate_Achievements": "2023-12-28T10:08:52.4076612+00:00"
 }

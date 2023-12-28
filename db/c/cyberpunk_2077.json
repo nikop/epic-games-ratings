@@ -17366,9 +17366,9 @@
       "Count": 17004
     }
   ],
-  "EOS_Progressed": 982296,
+  "EOS_Progressed": 982306,
   "EOS_Completed": 2987,
-  "EOS_NewPlayers": 2904,
+  "EOS_NewPlayers": 2892,
   "EOS_NewCompleters": 39,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -46126,6 +46126,11 @@
       "Time": "2023-12-28T09:07:37.3954078+00:00",
       "NumProgressed": 982296,
       "NumCompleted": 2987
+    },
+    {
+      "Time": "2023-12-28T10:05:45.6146398+00:00",
+      "NumProgressed": 982306,
+      "NumCompleted": 2987
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -46466,7 +46471,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117876
+      "UsersEstimate": 117877
     },
     {
       "ID": "YipMan",
@@ -46514,7 +46519,7 @@
       "Name": "The APB is Not Enough",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "Easycomeeasygo",
@@ -46538,7 +46543,7 @@
       "Name": "Spin Doctor",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 2218
+      "UsersEstimate": 2219
     },
     {
       "ID": "Kingofcups",
@@ -46602,7 +46607,7 @@
       "Name": "Judgement Day",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "IHateSpider",
@@ -46634,7 +46639,7 @@
       "Name": "King of Swords",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "KingOfTheWands",
@@ -46650,7 +46655,7 @@
       "Name": "The Tower",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "DirtyWork",
@@ -46673,21 +46678,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 982296,
+      "Progressed": 982306,
       "Completed": 2987
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 110919,
+      "Progressed": 110929,
       "Completed": 10476
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-28T03:03:12.0473289+00:00",
-  "LastChanged_Achievements": "2023-12-28T09:07:37.3954075+00:00",
+  "LastChanged_Achievements": "2023-12-28T10:05:45.6146395+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:20.7663762+00:00",
-  "LastUpdate_Ratings": "2023-12-28T09:03:50.0671599+00:00",
-  "LastUpdate_Achievements": "2023-12-28T09:07:37.3955721+00:00"
+  "LastUpdate_Ratings": "2023-12-28T10:02:57.9878247+00:00",
+  "LastUpdate_Achievements": "2023-12-28T10:05:45.6147873+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "68c8fe90d12b4ea494f549ec409f58c8",
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
-  "Ranking_EOS_Progress": 327,
+  "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 576,
+  "EOS_Progressed": 577,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2052,6 +2052,11 @@
       "Time": "2023-12-28T00:10:40.4595213+00:00",
       "NumProgressed": 576,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-28T10:09:46.0632507+00:00",
+      "NumProgressed": 577,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -2063,7 +2068,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 48,
       "XP": 60,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "completeact2",
@@ -2071,7 +2076,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 40,
       "XP": 80,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "completeact3",
@@ -2143,7 +2148,7 @@
       "Name": "This is Not Heavy Metal!",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "scoreminrankrp2",
@@ -2165,9 +2170,9 @@
       "ID": "scoreminrankrv1",
       "SetID": "40n95i5",
       "Name": "Welcome to the Garage",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 98
+      "UsersEstimate": 104
     },
     {
       "ID": "scoreminrankrv2",
@@ -2182,7 +2187,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 576,
+      "Progressed": 577,
       "Completed": 2
     }
   ],
@@ -2190,8 +2195,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-28T09:11:17.6121176+00:00",
+  "LastChanged_Achievements": "2023-12-28T10:09:46.0632503+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:13.373144+00:00",
-  "LastUpdate_Ratings": "2023-12-28T09:01:19.5223304+00:00",
-  "LastUpdate_Achievements": "2023-12-28T09:11:17.6121405+00:00"
+  "LastUpdate_Ratings": "2023-12-28T09:59:51.7500586+00:00",
+  "LastUpdate_Achievements": "2023-12-28T10:09:46.0632687+00:00"
 }

@@ -7,7 +7,7 @@ Number of Ratings: 85  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shop Til They Drop | 68.00% | ~135 |
-| Kaijuiced | 65.00% | ~129 |
+| Kaijuiced | 66.00% | ~131 |
 | Lie Back and Think of Albion | 60.00% | ~119 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~115 |
 | Yettisoned | 55.00% | ~109 |
@@ -27,8 +27,8 @@ Number of Ratings: 85  (23.09.2022)
 | Rock of the Bay | 24.00% | ~48 |
 | Trans-Siberian Express | 24.00% | ~48 |
 | Re-Return of the Clone of the Invasion II-2 | 20.00% | ~40 |
+| Arkvoodle Doodle | 16.00% | ~32 |
 | Ouch of Body Experience | 16.00% | ~32 |
-| Arkvoodle Doodle | 15.00% | ~30 |
 | If You Know What I Mean | 15.00% | ~30 |
 | Mash Machine | 15.00% | ~30 |
 | Die Nasty | 14.00% | ~28 |

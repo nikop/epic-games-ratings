@@ -6,19 +6,19 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,462 |
+| Devoured by Darkness | 27.00% | ~3,463 |
 | A Spark | 19.00% | ~2,437 |
-| Burning City | 18.00% | ~2,308 |
+| Burning City | 18.00% | ~2,309 |
 | Defender's Heart | 16.00% | ~2,052 |
 | Mythic Choices | 15.00% | ~1,924 |
-| Banner over the Citadel | 14.00% | ~1,795 |
+| Banner over the Citadel | 14.00% | ~1,796 |
 | Queen's Gratitude | 12.00% | ~1,539 |
 | Fifth Crusade | 9.00% | ~1,154 |
 | Embrace of the Abyss | 7.00% | ~898 |
 | Path of the Angel | 7.00% | ~898 |
 | Demonic and Divine | 7.00% | ~898 |
-| Great Upstart | 6.00% | ~769 |
-| All Paths Open | 6.00% | ~769 |
+| Great Upstart | 6.00% | ~770 |
+| All Paths Open | 6.00% | ~770 |
 | Path of the Azata | 5.00% | ~641 |
 | Transformation | 5.00% | ~641 |
 | The Legacy | 5.00% | ~641 |
@@ -38,11 +38,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Sarkoris Will Be Green | 3.00% | ~348 |
 | The Lady of the Forest | 3.00% | ~348 |
 | Beware Still Water | 3.00% | ~348 |
-| Path of the Demon | 2.00% | ~256 |
-| Path of the Aeon | 2.00% | ~256 |
-| Capitulation Is Now Moot | 2.00% | ~256 |
-| Your First Big Enemy | 2.00% | ~256 |
-| Truly Important Deed | 2.00% | ~256 |
+| Path of the Demon | 2.00% | ~257 |
+| Path of the Aeon | 2.00% | ~257 |
+| Capitulation Is Now Moot | 2.00% | ~257 |
+| Your First Big Enemy | 2.00% | ~257 |
+| Truly Important Deed | 2.00% | ~257 |
 | Stay Underground | 2.00% | ~232 |
 | The Final Threshold | 1.00% | ~128 |
 | Path of the Dragon | 1.00% | ~128 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,824 (Ranked 172)  
+Progressed: 12,827 (Ranked 172)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -375,7 +375,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 12,766 | 0 |
 | 2023-12-26 | 12,801 | 0 |
 | 2023-12-27 | 12,819 | 0 |
-| 2023-12-28 | 12,824 | 0 |
+| 2023-12-28 | 12,827 | 0 |
 ## Awards
 Max (Character Customization): 1,774  (Ranked 125)  
 Sum: 7,171 (Ranked 124)  

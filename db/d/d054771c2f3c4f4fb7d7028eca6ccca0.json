@@ -4,7 +4,7 @@
   "ProductSlug": "pinball-m-755276",
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 2966,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 581,
+  "EOS_NewPlayers": 578,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3492,8 +3492,8 @@
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-28T09:07:30.0339204+00:00",
+  "LastChanged_Achievements": "2023-12-28T10:05:40.306051+00:00",
   "LastUpdate_AppInfo": "2023-12-26T12:59:42.4793606+00:00",
-  "LastUpdate_Ratings": "2023-12-28T08:58:04.9589992+00:00",
-  "LastUpdate_Achievements": "2023-12-28T09:07:30.033964+00:00"
+  "LastUpdate_Ratings": "2023-12-28T09:57:28.2281677+00:00",
+  "LastUpdate_Achievements": "2023-12-28T10:05:40.3061039+00:00"
 }

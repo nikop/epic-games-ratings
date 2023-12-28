@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 836,
+  "EOS_Progressed": 837,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2586,6 +2586,11 @@
       "Time": "2023-12-28T03:10:09.5719924+00:00",
       "NumProgressed": 836,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T10:09:49.6882916+00:00",
+      "NumProgressed": 837,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2723,9 +2728,9 @@
       "ID": "LittleHelper",
       "SetID": "2aagp3d",
       "Name": "A friend in need...",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 50
+      "UsersEstimate": 42
     },
     {
       "ID": "LostAndFound",
@@ -2813,7 +2818,7 @@
       "Name": "Tooth fairy",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "Toxic",
@@ -2852,7 +2857,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 836,
+      "Progressed": 837,
       "Completed": 1
     }
   ],
@@ -2860,8 +2865,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-12-28T09:11:22.2864478+00:00",
+  "LastChanged_Achievements": "2023-12-28T10:09:49.6882913+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:54.4651467+00:00",
-  "LastUpdate_Ratings": "2023-12-28T09:03:21.7632828+00:00",
-  "LastUpdate_Achievements": "2023-12-28T09:11:22.2864793+00:00"
+  "LastUpdate_Ratings": "2023-12-28T10:02:37.594715+00:00",
+  "LastUpdate_Achievements": "2023-12-28T10:09:49.6883227+00:00"
 }

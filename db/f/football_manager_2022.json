@@ -8922,10 +8922,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 51186,
       "NumberOfAwardsMax": 6491
+    },
+    {
+      "Time": "2023-12-28T09:57:08.0424898+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 51187,
+      "NumberOfAwardsMax": 6491
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 51186,
+  "NumberOfAwards": 51187,
   "NumberOfAwardsMax": 6491,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -8981,7 +8987,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5611
+      "Count": 5612
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8996,9 +9002,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 478471,
+  "EOS_Progressed": 478472,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 417,
+  "EOS_NewPlayers": 418,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34411,6 +34417,11 @@
       "Time": "2023-12-28T09:08:12.8929003+00:00",
       "NumProgressed": 478471,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-12-28T10:06:11.8793705+00:00",
+      "NumProgressed": 478472,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -34446,7 +34457,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 177034
+      "UsersEstimate": 177035
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -34478,7 +34489,7 @@
       "Name": "On A Roll",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 124402
+      "UsersEstimate": 124403
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -34534,7 +34545,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 143541
+      "UsersEstimate": 143542
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -34566,7 +34577,7 @@
       "Name": "Beating Expectations",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 76555
+      "UsersEstimate": 76556
     },
     {
       "ID": "achievement_big_win",
@@ -34574,7 +34585,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 177034
+      "UsersEstimate": 177035
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -34622,7 +34633,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 90909
+      "UsersEstimate": 90910
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -34742,7 +34753,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 196173
+      "UsersEstimate": 196174
     },
     {
       "ID": "achievement_head_to_head",
@@ -34798,7 +34809,7 @@
       "Name": "Top Of The Class",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 110048
+      "UsersEstimate": 110049
     },
     {
       "ID": "achievement_manager_of_the_year",
@@ -34814,7 +34825,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 124402
+      "UsersEstimate": 124403
     },
     {
       "ID": "achievement_mr_delegator",
@@ -34838,7 +34849,7 @@
       "Name": "Overachiever!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 76555
+      "UsersEstimate": 76556
     },
     {
       "ID": "achievement_perfect_dressing_room_atmosphere",
@@ -34934,7 +34945,7 @@
       "Name": "Rushed signing",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 76555
+      "UsersEstimate": 76556
     },
     {
       "ID": "achievement_score_a_goal_in_10_consecutive_matches",
@@ -34966,7 +34977,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 229666
+      "UsersEstimate": 229667
     },
     {
       "ID": "achievement_signed_a_player",
@@ -34982,7 +34993,7 @@
       "Name": "Goal Machine",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 110048
+      "UsersEstimate": 110049
     },
     {
       "ID": "achievement_unbeaten_host_in_fantasy_draft",
@@ -35205,15 +35216,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 478471,
+      "Progressed": 478472,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
-  "LastChanged": "2023-12-28T04:57:27.4282864+00:00",
-  "LastChanged_Achievements": "2023-12-28T09:08:12.8929+00:00",
+  "LastChanged": "2023-12-28T09:57:08.0424896+00:00",
+  "LastChanged_Achievements": "2023-12-28T10:06:11.8793701+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:56.0435906+00:00",
-  "LastUpdate_Ratings": "2023-12-28T08:57:38.9186252+00:00",
-  "LastUpdate_Achievements": "2023-12-28T09:08:12.8930893+00:00"
+  "LastUpdate_Ratings": "2023-12-28T09:57:08.0424902+00:00",
+  "LastUpdate_Achievements": "2023-12-28T10:06:11.8795958+00:00"
 }

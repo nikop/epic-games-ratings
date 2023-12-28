@@ -36,7 +36,7 @@
 | If Looks Could Kill | 35.00% | ~227 |
 | Unstoppable Horde | 34.00% | ~221 |
 | Master of the Undead | 34.00% | ~221 |
-| The Finitude Drill | 32.00% | ~208 |
+| The Finitude Drill | 33.00% | ~214 |
 | Ghost Pirates? Ghost Heroes! | 30.00% | ~195 |
 | Doom Hill | 29.00% | ~188 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~182 |

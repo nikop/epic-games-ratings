@@ -6,20 +6,20 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~31,535 |
+| The Shadow strikes | 70.00% | ~31,536 |
 | The Evilest Evil | 59.00% | ~26,580 |
-| Twistram is devastated | 58.00% | ~26,129 |
-| The Gehenna Stones | 50.00% | ~22,525 |
+| Twistram is devastated | 58.00% | ~26,130 |
+| The Gehenna Stones | 50.00% | ~22,526 |
 | No one has to die today! | 47.00% | ~21,174 |
 | Death and destruction! | 46.00% | ~20,723 |
 | The Swamplanders from the swamplands | 44.00% | ~19,822 |
-| Rusty Steel | 41.00% | ~18,470 |
+| Rusty Steel | 41.00% | ~18,471 |
 | The One-Huge-Army-Building Evil | 40.00% | ~18,020 |
 | Braiiiiins! | 38.00% | ~17,119 |
-| The last burger | 37.00% | ~16,668 |
+| The last burger | 37.00% | ~16,669 |
 | Hands off the Dungeonheart! | 36.00% | ~16,218 |
 | A trip on sea, what fun it can be | 34.00% | ~15,317 |
-| Damned good | 33.00% | ~14,866 |
+| Damned good | 33.00% | ~14,867 |
 | Stock Market Crash | 31.00% | ~13,966 |
 | Factory farming | 31.00% | ~13,966 |
 | Shadow hunter | 30.00% | ~13,515 |
@@ -29,13 +29,13 @@ Number of Ratings: 1,635  (23.09.2022)
 | Ogre Solo! | 27.00% | ~12,164 |
 | Destroy the thing | 26.00% | ~11,713 |
 | Tide Master | 26.00% | ~11,713 |
-| Difficult family relationships | 25.00% | ~11,262 |
+| Difficult family relationships | 25.00% | ~11,263 |
 | MASS-O-BOT | 24.00% | ~10,812 |
 | Prepare the grave | 24.00% | ~10,812 |
 | Angel of Fire | 24.00% | ~10,812 |
 | Where there is Light, there is Shadow | 23.00% | ~10,362 |
 | At the foot of Mount Destiny | 22.00% | ~9,911 |
-| The Force disturbed | 21.00% | ~9,460 |
+| The Force disturbed | 21.00% | ~9,461 |
 | The Victorious Evil | 20.00% | ~9,010 |
 | Chorus of damnation | 19.00% | ~8,560 |
 | We don’t have time! | 19.00% | ~8,560 |
@@ -47,8 +47,8 @@ Number of Ratings: 1,635  (23.09.2022)
 | Then let them eat cake! | 12.00% | ~5,406 |
 | The White Knight | 10.00% | ~4,505 |
 | Please, no interruptions! | 10.00% | ~4,505 |
-| Use the terrain | 9.00% | ~4,054 |
-| Prison Break | 9.00% | ~4,054 |
+| Use the terrain | 9.00% | ~4,055 |
+| Prison Break | 9.00% | ~4,055 |
 | Hearts of Iron | 8.00% | ~3,604 |
 | Master of Traps | 8.00% | ~3,604 |
 | Ignore The Level Designer’s Plan | 8.00% | ~3,604 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~901 |
 | Sacrifices! | 2.00% | ~901 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,050 (Ranked 123)  
+Progressed: 45,051 (Ranked 123)  
 Completed: 362 (0.80%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 362 (0.80%) (Ranked 189)
 | 2023-12-25 | 44,758 | 362 |
 | 2023-12-26 | 44,895 | 362 |
 | 2023-12-27 | 45,022 | 362 |
-| 2023-12-28 | 45,050 | 362 |
+| 2023-12-28 | 45,051 | 362 |
 ## Awards
 Max (Great for Beginners): 393  (Ranked 236)  
 Sum: 2,830 (Ranked 185)  

@@ -4,8 +4,8 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -2700,9 +2700,9 @@
       "ID": "BearPistol",
       "SetID": "db30heh",
       "Name": "Ouch!",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 345
+      "UsersEstimate": 352
     },
     {
       "ID": "BearPoppiesBroth",
@@ -2804,9 +2804,9 @@
       "ID": "DwarfBeggarWoman",
       "SetID": "db30heh",
       "Name": "Funny Granny",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 293
+      "UsersEstimate": 299
     },
     {
       "ID": "DwarfHobo",
@@ -3035,8 +3035,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-28T09:05:07.3477935+00:00",
+  "LastChanged_Achievements": "2023-12-28T10:03:54.0547987+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:22.002955+00:00",
-  "LastUpdate_Ratings": "2023-12-28T08:59:35.896491+00:00",
-  "LastUpdate_Achievements": "2023-12-28T09:05:07.3478315+00:00"
+  "LastUpdate_Ratings": "2023-12-28T09:58:35.8356829+00:00",
+  "LastUpdate_Achievements": "2023-12-28T10:03:54.0548345+00:00"
 }

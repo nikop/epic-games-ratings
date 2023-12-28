@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1695,
+  "EOS_Progressed": 1696,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4142,6 +4142,11 @@
       "Time": "2023-12-28T08:03:19.4306771+00:00",
       "NumProgressed": 1695,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T10:03:20.2214629+00:00",
+      "NumProgressed": 1696,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4216,9 +4221,9 @@
       "ID": "ML_ACHIEVEMENT_09",
       "SetID": "5k00jcd",
       "Name": "Masterful!",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -4521,20 +4526,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1695,
+      "Progressed": 1696,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1363,
+      "Progressed": 1364,
       "Completed": 1003
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-28T09:04:22.6099808+00:00",
+  "LastChanged_Achievements": "2023-12-28T10:03:20.2214627+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2023-12-28T09:01:53.4375285+00:00",
-  "LastUpdate_Achievements": "2023-12-28T09:04:22.6100308+00:00"
+  "LastUpdate_Ratings": "2023-12-28T10:00:16.6966571+00:00",
+  "LastUpdate_Achievements": "2023-12-28T10:03:20.221515+00:00"
 }

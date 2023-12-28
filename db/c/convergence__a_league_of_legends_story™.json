@@ -2,12 +2,12 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 322,
+  "Ranking_Rating": 323,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,7 +51,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1133,
+  "EOS_Progressed": 1134,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
@@ -3241,6 +3241,11 @@
       "Time": "2023-12-28T05:11:11.2194038+00:00",
       "NumProgressed": 1133,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-28T10:09:48.8867027+00:00",
+      "NumProgressed": 1134,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3372,7 +3377,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3514,9 +3519,9 @@
       "ID": "PhaseDiveCounter",
       "SetID": "a9e499d",
       "Name": "Breaking Down Barriers",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 249
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -3675,7 +3680,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1133,
+      "Progressed": 1134,
       "Completed": 6
     }
   ],
@@ -3683,8 +3688,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-28T09:11:21.3028196+00:00",
+  "LastChanged_Achievements": "2023-12-28T10:09:48.8867025+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-28T09:00:31.3726494+00:00",
-  "LastUpdate_Achievements": "2023-12-28T09:11:21.3028628+00:00"
+  "LastUpdate_Ratings": "2023-12-28T09:59:19.0346328+00:00",
+  "LastUpdate_Achievements": "2023-12-28T10:09:48.8867432+00:00"
 }

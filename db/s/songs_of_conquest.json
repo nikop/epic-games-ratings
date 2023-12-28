@@ -5,7 +5,7 @@
   "Ranking_Rating": 232,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 396,
-  "Ranking_EOS_Progress": 295,
+  "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 149,
@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 800,
+  "EOS_Progressed": 801,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2985,6 +2985,11 @@
       "Time": "2023-12-28T08:08:56.5983399+00:00",
       "NumProgressed": 800,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T10:08:47.1716659+00:00",
+      "NumProgressed": 801,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3027,7 +3032,7 @@
       "ID": "AttackCount",
       "SetID": "71c0n9i",
       "Name": "Attack Bonanza",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -3171,9 +3176,9 @@
       "ID": "InfernalInfluence",
       "SetID": "71c0n9i",
       "Name": "Infernal Influence",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 8
     },
     {
       "ID": "KillingSpree",
@@ -3219,7 +3224,7 @@
       "ID": "Oops",
       "SetID": "71c0n9i",
       "Name": "Oops!",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -3235,9 +3240,9 @@
       "ID": "QuickRetaliationDeath",
       "SetID": "71c0n9i",
       "Name": "Whoops!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 40
     },
     {
       "ID": "RanaCampaign",
@@ -3251,7 +3256,7 @@
       "ID": "RanaCampaignFinaleOnHard",
       "SetID": "71c0n9i",
       "Name": "The Marsh Expands",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -3428,15 +3433,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 800,
+      "Progressed": 801,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2023-12-28T09:09:58.2665532+00:00",
+  "LastChanged_Achievements": "2023-12-28T10:08:47.1716656+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.1217697+00:00",
-  "LastUpdate_Ratings": "2023-12-28T08:58:55.2319543+00:00",
-  "LastUpdate_Achievements": "2023-12-28T09:09:58.2665914+00:00"
+  "LastUpdate_Ratings": "2023-12-28T09:58:06.0816086+00:00",
+  "LastUpdate_Achievements": "2023-12-28T10:08:47.1717075+00:00"
 }

@@ -5,9 +5,9 @@ Rating: 4.50 (Ranked 608)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 10.00% | ~3,283 |
+| Stylish | 10.00% | ~3,284 |
 | Meticulously Efficient | 8.00% | ~2,627 |
-| Advancement | 7.00% | ~2,298 |
+| Advancement | 7.00% | ~2,299 |
 | Discovery | 6.00% | ~1,970 |
 | Solo Capture | 6.00% | ~1,970 |
 | Swift Rift Removers | 6.00% | ~1,970 |
@@ -49,7 +49,7 @@ Rating: 4.50 (Ranked 608)
 | Therapeutic | 0.80% | ~263 |
 | Rift Seeker | 0.60% | ~197 |
 | Master Collector | 0.50% | ~164 |
-| Ghost Expert | 0.30% | ~98 |
+| Ghost Expert | 0.30% | ~99 |
 | Catostrophic Destroyer | 0.20% | ~66 |
 | I don't need these | 0.20% | ~66 |
 | Little Help Here | 0.20% | ~66 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 608)
 | Ultimate Defense | 0.20% | ~66 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,833 (Ranked 133)  
+Progressed: 32,837 (Ranked 133)  
 Completed: 70 (0.21%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 70 (0.21%) (Ranked 271)
 | 2023-12-25 | 32,706 | 70 |
 | 2023-12-26 | 32,761 | 70 |
 | 2023-12-27 | 32,821 | 70 |
-| 2023-12-28 | 32,833 | 70 |
+| 2023-12-28 | 32,837 | 70 |
 ## Awards
 Max (Great for Beginners): 325  (Ranked 253)  
 Sum: 2,933 (Ranked 182)  

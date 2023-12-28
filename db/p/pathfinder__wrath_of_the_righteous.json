@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 124,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4715,9 +4715,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12824,
+  "EOS_Progressed": 12827,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 267,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18220,6 +18220,11 @@
       "Time": "2023-12-28T08:10:04.5289756+00:00",
       "NumProgressed": 12824,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T10:09:55.81198+00:00",
+      "NumProgressed": 12827,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18231,7 +18236,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3462
+      "UsersEstimate": 3463
     },
     {
       "ID": "02_BurningCity",
@@ -18239,7 +18244,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2308
+      "UsersEstimate": 2309
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -18247,7 +18252,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1795
+      "UsersEstimate": 1796
     },
     {
       "ID": "04_FithCrusade",
@@ -18295,7 +18300,7 @@
       "Name": "Path of the Demon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "10_PathOfAzata",
@@ -18311,7 +18316,7 @@
       "Name": "Path of the Aeon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "12_PathOfTrickster",
@@ -18439,7 +18444,7 @@
       "Name": "Great Upstart",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "29_StrategicVictory",
@@ -18487,7 +18492,7 @@
       "Name": "Capitulation Is Now Moot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -18511,7 +18516,7 @@
       "Name": "Your First Big Enemy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "38_PrelatesNemesis",
@@ -18583,7 +18588,7 @@
       "Name": "All Paths Open",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -18631,7 +18636,7 @@
       "Name": "Truly Important Deed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -19158,21 +19163,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11606,
+      "Progressed": 11609,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12824,
+      "Progressed": 12827,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-27T11:57:16.5832568+00:00",
-  "LastChanged_Achievements": "2023-12-28T09:11:29.9787545+00:00",
+  "LastChanged_Achievements": "2023-12-28T10:09:55.8119797+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:01.2970884+00:00",
-  "LastUpdate_Ratings": "2023-12-28T08:58:25.8817078+00:00",
-  "LastUpdate_Achievements": "2023-12-28T09:11:29.9789127+00:00"
+  "LastUpdate_Ratings": "2023-12-28T09:57:42.5086731+00:00",
+  "LastUpdate_Achievements": "2023-12-28T10:09:55.8122068+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~117,876 |
+| V for Vendetta | 12.00% | ~117,877 |
 | Gun Fu | 8.00% | ~78,584 |
 | Right Back At Ya | 7.00% | ~68,761 |
 | The Fool | 7.00% | ~68,761 |
@@ -32,7 +32,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | I Am The Law | 2.00% | ~19,646 |
 | Two Heads, One Bullet | 2.00% | ~19,646 |
 | Judy vs Night City | 2.00% | ~19,646 |
-| Spin Doctor | 2.00% | ~2,218 |
+| Spin Doctor | 2.00% | ~2,219 |
 | To Bad Decisions! | 1.00% | ~9,823 |
 | The Wandering Fool | 1.00% | ~9,823 |
 | Ten out of Ten | 1.00% | ~9,823 |
@@ -43,10 +43,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | Breathtaking | 0.90% | ~8,841 |
 | The Star | 0.90% | ~8,841 |
 | Autojock | 0.70% | ~6,876 |
-| The APB is Not Enough | 0.70% | ~776 |
-| Judgement Day | 0.70% | ~776 |
-| King of Swords | 0.70% | ~776 |
-| The Tower | 0.70% | ~776 |
+| The APB is Not Enough | 0.70% | ~777 |
+| Judgement Day | 0.70% | ~777 |
+| King of Swords | 0.70% | ~777 |
+| The Tower | 0.70% | ~777 |
 | Must Be Rats | 0.60% | ~5,894 |
 | Temperance | 0.60% | ~5,894 |
 | King of Pentacles | 0.60% | ~666 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 982,296 (Ranked 16)  
+Progressed: 982,306 (Ranked 16)  
 Completed: 2,987 (0.30%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 2,987 (0.30%) (Ranked 254)
 | 2023-12-25 | 981,401 | 2,974 |
 | 2023-12-26 | 981,815 | 2,981 |
 | 2023-12-27 | 982,189 | 2,986 |
-| 2023-12-28 | 982,296 | 2,987 |
+| 2023-12-28 | 982,306 | 2,987 |
 ## Awards
 Max (Character Customization): 128,093  (Ranked 8)  
 Sum: 447,878 (Ranked 9)  

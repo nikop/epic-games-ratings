@@ -4023,9 +4023,9 @@
       "ID": "GSS_ACH_08_FUEL_03",
       "SetID": "5fn8ia4",
       "Name": "Fueling Superstar!",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1125
     },
     {
       "ID": "GSS_ACH_09_THROW_01",
@@ -4624,8 +4624,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-27T13:01:41.0592419+00:00",
-  "LastChanged_Achievements": "2023-12-28T09:04:13.3839369+00:00",
+  "LastChanged_Achievements": "2023-12-28T10:03:13.4389087+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:05.7719462+00:00",
-  "LastUpdate_Ratings": "2023-12-28T09:00:19.3258609+00:00",
-  "LastUpdate_Achievements": "2023-12-28T09:04:13.3847215+00:00"
+  "LastUpdate_Ratings": "2023-12-28T09:59:08.472356+00:00",
+  "LastUpdate_Achievements": "2023-12-28T10:03:13.4397152+00:00"
 }

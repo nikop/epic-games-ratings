@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 322)  
+Rating: 4.65 (Ranked 323)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -65,6 +65,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 0.20% | ~32 |
 | Champions | 0.20% | ~32 |
 | Patrons | 0.20% | ~32 |
+| Riders | 0.20% | ~32 |
 | Sages | 0.20% | ~32 |
 | Hittite Iron | 0.20% | ~32 |
 | Acropolis | 0.20% | ~32 |
@@ -141,7 +142,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Clerics | 0.10% | ~16 |
 | Hunters | 0.10% | ~16 |
 | Landowners | 0.10% | ~16 |
-| Riders | 0.10% | ~16 |
 | Statesmen | 0.10% | ~16 |
 | Traders | 0.10% | ~16 |
 | Battle of the Fertile Crescent | 0.10% | ~16 |

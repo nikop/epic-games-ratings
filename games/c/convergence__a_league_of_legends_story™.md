@@ -1,13 +1,13 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.65 (Ranked 322)  
+Rating: 4.65 (Ranked 323)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 42.00% | ~476 |
 | Rail Rat | 32.00% | ~363 |
-| The Mysterious Stranger | 31.00% | ~351 |
+| The Mysterious Stranger | 31.00% | ~352 |
 | Immaculate Aim | 26.00% | ~295 |
 | The Brass Boss | 26.00% | ~295 |
 | Make Up For Lost Time | 24.00% | ~272 |
@@ -18,8 +18,8 @@ Rating: 4.65 (Ranked 322)
 | Honest Mistake | 24.00% | ~272 |
 | Immaculate Aim | 24.00% | ~272 |
 | The Steel Shadow | 23.00% | ~261 |
-| Breaking Down Barriers | 23.00% | ~261 |
 | Fast Learner | 23.00% | ~261 |
+| Breaking Down Barriers | 22.00% | ~249 |
 | The Wicked Twins | 22.00% | ~249 |
 | Right On Time | 21.00% | ~238 |
 | Like Clockwork | 21.00% | ~238 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 322)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,133 (Ranked 277)  
+Progressed: 1,134 (Ranked 277)  
 Completed: 6 (0.53%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 6 (0.53%) (Ranked 213)
 | 2023-12-25 | 1,106 | 6 |
 | 2023-12-26 | 1,118 | 6 |
 | 2023-12-27 | 1,130 | 6 |
-| 2023-12-28 | 1,133 | 6 |
+| 2023-12-28 | 1,134 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

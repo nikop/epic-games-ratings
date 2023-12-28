@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -685,9 +685,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3897,
+  "EOS_Progressed": 3899,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 297,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11080,6 +11080,11 @@
       "Time": "2023-12-28T07:04:09.951843+00:00",
       "NumProgressed": 3897,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-28T10:04:11.4218844+00:00",
+      "NumProgressed": 3899,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -11275,7 +11280,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "fourleafclover",
@@ -11299,7 +11304,7 @@
       "Name": "Full Party",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "gearenchanting",
@@ -11323,7 +11328,7 @@
       "Name": "Guild Power",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "herewegoagain",
@@ -11483,7 +11488,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2065
+      "UsersEstimate": 2066
     },
     {
       "ID": "prestigiousx10",
@@ -11491,7 +11496,7 @@
       "Name": "Prestigious x10",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "relicofthepast",
@@ -11547,7 +11552,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "thealchemist",
@@ -11579,7 +11584,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "thepowerofawakening",
@@ -11651,7 +11656,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3624
+      "UsersEstimate": 3626
     },
     {
       "ID": "warmachinesarmy",
@@ -11683,14 +11688,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3040
+      "UsersEstimate": 3041
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3897,
+      "Progressed": 3899,
       "Completed": 2
     }
   ],
@@ -11698,8 +11703,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-28T06:57:57.303096+00:00",
-  "LastChanged_Achievements": "2023-12-28T09:05:29.8998314+00:00",
+  "LastChanged_Achievements": "2023-12-28T10:04:11.4218838+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:54.8970424+00:00",
-  "LastUpdate_Ratings": "2023-12-28T08:58:36.98921+00:00",
-  "LastUpdate_Achievements": "2023-12-28T09:05:29.8999407+00:00"
+  "LastUpdate_Ratings": "2023-12-28T09:57:52.0550508+00:00",
+  "LastUpdate_Achievements": "2023-12-28T10:04:11.4220833+00:00"
 }

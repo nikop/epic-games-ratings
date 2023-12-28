@@ -6,20 +6,20 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,868 |
-| Life is your teacher | 4.00% | ~29,868 |
-| The Assault | 3.00% | ~22,401 |
-| Lightning Hands | 3.00% | ~22,401 |
-| The Hateful Pole Fighter | 2.00% | ~14,934 |
-| A Lady's Blood in the Snow | 2.00% | ~14,934 |
-| Stuntmaster | 2.00% | ~14,934 |
-| Street Fighting | 2.00% | ~14,934 |
-| State of constant learning | 2.00% | ~14,934 |
-| Qi Gong: Breath | 2.00% | ~14,934 |
-| Qi Gong: Essence | 2.00% | ~14,934 |
-| Old Child | 2.00% | ~14,934 |
-| Rumble in the Hangar | 2.00% | ~14,934 |
-| Diligence as a goal | 2.00% | ~1,120 |
+| The Old Grandmaster | 4.00% | ~29,870 |
+| Life is your teacher | 4.00% | ~29,870 |
+| The Assault | 3.00% | ~22,402 |
+| Lightning Hands | 3.00% | ~22,402 |
+| The Hateful Pole Fighter | 2.00% | ~14,935 |
+| A Lady's Blood in the Snow | 2.00% | ~14,935 |
+| Stuntmaster | 2.00% | ~14,935 |
+| Street Fighting | 2.00% | ~14,935 |
+| State of constant learning | 2.00% | ~14,935 |
+| Qi Gong: Breath | 2.00% | ~14,935 |
+| Qi Gong: Essence | 2.00% | ~14,935 |
+| Old Child | 2.00% | ~14,935 |
+| Rumble in the Hangar | 2.00% | ~14,935 |
+| Diligence as a goal | 2.00% | ~1,121 |
 | Lady Wing Chun | 1.00% | ~7,467 |
 | Furious Fists | 1.00% | ~7,467 |
 | Kill Nil | 1.00% | ~7,467 |
@@ -28,8 +28,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 1.00% | ~7,467 |
 | Take damage to save time | 1.00% | ~7,467 |
 | Project Arena | 1.00% | ~560 |
-| Scareless | 0.90% | ~6,720 |
-| Kung-Fu Tussle | 0.90% | ~6,720 |
+| Scareless | 0.90% | ~6,721 |
+| Kung-Fu Tussle | 0.90% | ~6,721 |
 | Dance of the Praying Mantis | 0.80% | ~5,974 |
 | Fight the way you practice | 0.70% | ~392 |
 | Martial Hub | 0.60% | ~336 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~56 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 746,711 (Ranked 23)  
+Progressed: 746,743 (Ranked 23)  
 Completed: 12,967 (1.74%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,11 +319,11 @@ Completed: 12,967 (1.74%) (Ranked 141)
 | 2023-12-25 | 744,462 | 12,966 |
 | 2023-12-26 | 745,555 | 12,967 |
 | 2023-12-27 | 746,407 | 12,967 |
-| 2023-12-28 | 746,711 | 12,967 |
+| 2023-12-28 | 746,743 | 12,967 |
 ## Awards
 Max (Great Boss Battles): 7,028  (Ranked 55)  
-Sum: 11,890 (Ranked 87)  
-Diff (max vs sum): -32  
+Sum: 12,447 (Ranked 84)  
+Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,028 |
@@ -335,8 +335,8 @@ Diff (max vs sum): -32
 | This game has Quickly Understood Controls | 592 |
 | This game is Extremely Fun | 577 |
 | This game has Unique Visuals | 573 |
+| This game is Relaxing | 557 |
 | This game has a Creative Community | 436 |
-| This game is Relaxing | 401 |
 | This game has Obsessive Gameplay | 293 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -685,4 +685,4 @@ Diff (max vs sum): -32
 | 2023-12-25 | 4.82 | - | 7,010 | 12,297 |
 | 2023-12-26 | 4.82 | - | 7,018 | 11,874 |
 | 2023-12-27 | 4.82 | - | 7,028 | 11,888 |
-| 2023-12-28 | 4.82 | - | 7,028 | 11,890 |
+| 2023-12-28 | 4.82 | - | 7,028 | 12,447 |

@@ -4,7 +4,7 @@
   "ProductSlug": "zoeti-3ccef9",
   "Ranking_EOS_Progress": 564,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewPlayers": 463,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-16T22:30:00+00:00",
@@ -226,9 +226,9 @@
       "ID": "BOSS_KILL1",
       "SetID": "1icc7kd",
       "Name": "Breaking Free",
-      "Percentage": 38,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "BOSS_KILL10",
@@ -266,9 +266,9 @@
       "ID": "BOSS_KILL3",
       "SetID": "1icc7kd",
       "Name": "Boulder Breaker",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "BOSS_KILL4",
@@ -290,9 +290,9 @@
       "ID": "BOSS_KILL6",
       "SetID": "1icc7kd",
       "Name": "Rejected Parasite",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BOSS_KILL7",
@@ -322,9 +322,9 @@
       "ID": "CLEAR1",
       "SetID": "1icc7kd",
       "Name": "Setting Off",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CLEAR2",
@@ -465,8 +465,8 @@
   ],
   "FirstSeen": "2023-05-19T06:56:53.0270163+00:00",
   "FirstSeenAchievements": "2023-05-16T17:00:43.3294802+00:00",
-  "LastChanged_Achievements": "2023-12-28T09:11:19.4181459+00:00",
+  "LastChanged_Achievements": "2023-12-28T10:09:47.3299981+00:00",
   "LastUpdate_AppInfo": "2023-12-27T12:59:42.358956+00:00",
-  "LastUpdate_Ratings": "2023-12-28T08:58:23.1853985+00:00",
-  "LastUpdate_Achievements": "2023-12-28T09:11:19.4181653+00:00"
+  "LastUpdate_Ratings": "2023-12-28T09:57:40.5959317+00:00",
+  "LastUpdate_Achievements": "2023-12-28T10:09:47.330012+00:00"
 }
