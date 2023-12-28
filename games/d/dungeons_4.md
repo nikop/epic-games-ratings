@@ -14,7 +14,7 @@
 | Thalya's Concentrated Fury | 68.00% | ~442 |
 | Bad Elves Go Everywhere | 68.00% | ~442 |
 | Heroes’ Gorge | 64.00% | ~416 |
-| Master of Magic | 62.00% | ~403 |
+| Master of Magic | 63.00% | ~410 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~403 |
 | Magic Accidents | 59.00% | ~384 |
 | The Ascent | 58.00% | ~377 |
@@ -56,7 +56,7 @@
 | To the Max! | 18.00% | ~117 |
 | To Infinity And Beyond! | 18.00% | ~117 |
 | Sacrificial Pit = Garbage Disposal? | 17.00% | ~111 |
-| Evilification | 16.00% | ~104 |
+| Evilification | 17.00% | ~111 |
 | Mirror, Mirror | 15.00% | ~98 |
 | Untouchable | 15.00% | ~98 |
 | Heal Heal Blessing | 15.00% | ~98 |
@@ -67,7 +67,7 @@
 | I Don't Need Any Help | 9.00% | ~58 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 650 (Ranked 316)  
-Completed: 24 (3.69%) (Ranked 98)  
+Completed: 24 (3.69%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

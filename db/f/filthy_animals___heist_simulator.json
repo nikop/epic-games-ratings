@@ -2,10 +2,10 @@
   "ID": "506976eed6054a4aad5646197adc5c8d",
   "Name": "Filthy Animals | Heist Simulator",
   "ProductSlug": "filthy-animals-f6c65c",
-  "Ranking_EOS_Progress": 181,
+  "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-04-04T17:30:00+00:00",
     "PcReleaseDate": "2023-04-04T17:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8724,
+  "EOS_Progressed": 8725,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7231,6 +7231,11 @@
       "Time": "2023-12-28T00:04:20.0718201+00:00",
       "NumProgressed": 8724,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T04:04:45.1764074+00:00",
+      "NumProgressed": 8725,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -7458,14 +7463,14 @@
       "Name": "Tutorial Completed",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     }
   ],
   "AchievementSets": [
     {
       "ID": "10d14j0",
       "IsBase": true,
-      "Progressed": 8724,
+      "Progressed": 8725,
       "Completed": 0
     }
   ],
@@ -7473,8 +7478,8 @@
   "FirstSeenRating": "2023-04-05T14:58:37.7953176+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.1467348+00:00",
   "LastChanged": "2023-04-05T14:58:37.7953178+00:00",
-  "LastChanged_Achievements": "2023-12-28T03:03:52.9859596+00:00",
+  "LastChanged_Achievements": "2023-12-28T04:04:45.1764068+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:19:56.8971513+00:00",
-  "LastUpdate_Ratings": "2023-12-28T02:58:54.342425+00:00",
-  "LastUpdate_Achievements": "2023-12-28T03:03:52.9860038+00:00"
+  "LastUpdate_Ratings": "2023-12-28T04:00:10.2275997+00:00",
+  "LastUpdate_Achievements": "2023-12-28T04:04:45.1764569+00:00"
 }

@@ -1,57 +1,57 @@
 # Football Manager 2023
 [Store](https://store.epicgames.com/en-US/p/football-manager-2023)  
 [View Rawdata](../../db/f/football_manager_2023.json)  
-Rating: 4.75 (Ranked 148)  
+Rating: 4.76 (Ranked 133)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 69.00% | ~254,030 |
-| The Player Whisperer | 68.00% | ~250,348 |
-| One of Us, One of Us! | 62.00% | ~228,259 |
-| First Victory | 55.00% | ~202,487 |
-| Clean Sheet | 54.00% | ~198,806 |
-| #DoneDeal | 54.00% | ~198,806 |
-| Off the Books | 52.00% | ~191,443 |
-| Super-Sub | 52.00% | ~191,443 |
-| Hat-trick | 46.00% | ~169,353 |
-| Planned Signing | 44.00% | ~161,990 |
-| "I Would Love It If We Beat Them" | 43.00% | ~158,308 |
-| Thumping | 40.00% | ~147,264 |
-| Scoring Streak | 40.00% | ~147,264 |
-| Wheeler Dealer | 40.00% | ~147,264 |
-| People Pleaser | 39.00% | ~143,582 |
-| Unbeatable! | 38.00% | ~139,900 |
-| One Of Our Own | 36.00% | ~132,537 |
-| They're a Natural | 32.00% | ~117,811 |
-| Record Signing | 32.00% | ~117,811 |
-| Team Performance | 31.00% | ~114,129 |
-| The Only Stat That Matters | 30.00% | ~110,448 |
-| Star Player | 29.00% | ~106,766 |
+| Motivational Speaker | 69.00% | ~254,032 |
+| The Player Whisperer | 68.00% | ~250,350 |
+| One of Us, One of Us! | 62.00% | ~228,260 |
+| First Victory | 55.00% | ~202,489 |
+| Clean Sheet | 54.00% | ~198,807 |
+| #DoneDeal | 54.00% | ~198,807 |
+| Off the Books | 52.00% | ~191,444 |
+| Super-Sub | 52.00% | ~191,444 |
+| Hat-trick | 46.00% | ~169,355 |
+| Planned Signing | 44.00% | ~161,991 |
+| "I Would Love It If We Beat Them" | 43.00% | ~158,310 |
+| Thumping | 40.00% | ~147,265 |
+| Scoring Streak | 40.00% | ~147,265 |
+| Wheeler Dealer | 40.00% | ~147,265 |
+| People Pleaser | 39.00% | ~143,583 |
+| Unbeatable! | 38.00% | ~139,902 |
+| One Of Our Own | 36.00% | ~132,538 |
+| They're a Natural | 32.00% | ~117,812 |
+| Record Signing | 32.00% | ~117,812 |
+| Team Performance | 31.00% | ~114,130 |
+| The Only Stat That Matters | 30.00% | ~110,449 |
+| Star Player | 29.00% | ~106,767 |
 | Full Faith | 28.00% | ~103,085 |
 | Goal Rush | 28.00% | ~103,085 |
 | The People's Champion | 28.00% | ~103,085 |
-| Parked The Bus | 27.00% | ~99,403 |
-| Squad Goals | 27.00% | ~99,403 |
-| Beating Expectations | 26.00% | ~95,721 |
+| Parked The Bus | 27.00% | ~99,404 |
+| Squad Goals | 27.00% | ~99,404 |
+| Beating Expectations | 26.00% | ~95,722 |
 | You're on Fire | 25.00% | ~92,040 |
 | Tremendous Trio | 25.00% | ~92,040 |
 | Unstoppable Force | 25.00% | ~92,040 |
 | Record Sale | 25.00% | ~92,040 |
-| Shots For Days | 24.00% | ~88,358 |
+| Shots For Days | 24.00% | ~88,359 |
 | On a Roll | 23.00% | ~84,677 |
 | Drilling Down | 23.00% | ~84,677 |
 | Flavour Of The Month | 23.00% | ~84,677 |
 | The Special One | 23.00% | ~84,677 |
-| What A Goal! | 22.00% | ~80,995 |
-| Goal Machine | 21.00% | ~77,313 |
+| What A Goal! | 22.00% | ~80,996 |
+| Goal Machine | 21.00% | ~77,314 |
 | Splashing the Cash | 20.00% | ~73,632 |
 | Immovable Object | 20.00% | ~73,632 |
 | Cup Glory! | 20.00% | ~73,632 |
 | Irresistible Force | 18.00% | ~66,269 |
-| Do The Double | 17.00% | ~62,587 |
-| Cash to Burn | 16.00% | ~58,905 |
-| Top Form | 14.00% | ~51,542 |
-| Window Shopping | 14.00% | ~51,542 |
+| Do The Double | 17.00% | ~62,588 |
+| Cash to Burn | 16.00% | ~58,906 |
+| Top Form | 14.00% | ~51,543 |
+| Window Shopping | 14.00% | ~51,543 |
 | A Game of Two Halves | 13.00% | ~47,861 |
 | You're Up! | 12.00% | ~44,179 |
 | Money, Money, Money | 10.00% | ~36,816 |
@@ -106,7 +106,7 @@ Rating: 4.75 (Ranked 148)
 | 200 Club | 0.10% | ~368 |
 | Draft Value | 0.10% | ~368 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 368,159 (Ranked 50)  
+Progressed: 368,162 (Ranked 50)  
 Completed: 29 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -358,10 +358,10 @@ Completed: 29 (0.01%) (Ranked 367)
 | 2023-12-25 | 367,667 | 29 |
 | 2023-12-26 | 367,922 | 29 |
 | 2023-12-27 | 368,138 | 29 |
-| 2023-12-28 | 368,159 | 29 |
+| 2023-12-28 | 368,162 | 29 |
 ## Awards
 Max (Diverse Characters): 1,319  (Ranked 139)  
-Sum: 9,079 (Ranked 100)  
+Sum: 9,082 (Ranked 100)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -369,7 +369,7 @@ Diff (max vs sum): 39
 | This game is Extremely Fun | 1,108 |
 | This game is Highly Recommended | 1,096 |
 | This game is Educational | 1,041 |
-| This game is Relaxing | 1,021 |
+| This game is Relaxing | 1,024 |
 | This game has Competitive Players | 937 |
 | This game has Quickly Understood Controls | 903 |
 | This game has Amazing Storytelling | 869 |
@@ -683,3 +683,4 @@ Diff (max vs sum): 39
 | 2023-12-25 | 4.76 | 1,315 | 9,039 |
 | 2023-12-26 | 4.76 | 1,319 | 9,065 |
 | 2023-12-27 | 4.76 | 1,319 | 9,079 |
+| 2023-12-28 | 4.76 | 1,319 | 9,082 |

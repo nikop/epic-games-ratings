@@ -12,7 +12,7 @@
 | Five Of A Kind | 9.00% | ~4 |
 | I'm A Wizard | 9.00% | ~4 |
 | Hold The Line | 7.00% | ~3 |
-| Ender Ender | 2.00% | ~1 |
+| Ender Ender | 4.00% | ~2 |
 | Full House | 2.00% | ~1 |
 | Over 9000 | 2.00% | ~1 |
 | Tactical Spectacular | 2.00% | ~1 |

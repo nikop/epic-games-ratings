@@ -2,13 +2,13 @@
   "ID": "f2d5f78997994c9891b8f23d962be28e",
   "Name": "Lords of the Fallen",
   "ProductSlug": "lords-of-the-fallen",
-  "Ranking_Rating": 935,
+  "Ranking_Rating": 928,
   "Ranking_Popularity": 248,
   "Ranking_PopularitySum": 292,
-  "Ranking_EOS_Progress": 182,
+  "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
     "PcReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.21,
+  "Rating": 4.22,
   "RatingHistory": [
     {
       "Time": "2023-10-15T11:58:59.8898367+00:00",
@@ -1213,10 +1213,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 761,
       "NumberOfAwardsMax": 340
+    },
+    {
+      "Time": "2023-12-28T03:59:21.4207985+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 763,
+      "NumberOfAwardsMax": 340
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 761,
+  "NumberOfAwards": 763,
   "NumberOfAwardsMax": 340,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1242,7 +1248,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 35
+      "Count": 37
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1293,9 +1299,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 8714,
+  "EOS_Progressed": 8727,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2516,
+  "EOS_NewPlayers": 2508,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6698,6 +6704,11 @@
       "Time": "2023-12-28T03:09:13.4250158+00:00",
       "NumProgressed": 8714,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-28T04:09:24.1768706+00:00",
+      "NumProgressed": 8727,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -7213,16 +7224,16 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 8714,
+      "Progressed": 8727,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-10-13T16:58:40.9012964+00:00",
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
-  "LastChanged": "2023-12-27T20:59:10.5868586+00:00",
-  "LastChanged_Achievements": "2023-12-28T03:09:13.4250154+00:00",
+  "LastChanged": "2023-12-28T03:59:21.4207983+00:00",
+  "LastChanged_Achievements": "2023-12-28T04:09:24.1768701+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:20.6080478+00:00",
-  "LastUpdate_Ratings": "2023-12-28T02:58:18.7920799+00:00",
-  "LastUpdate_Achievements": "2023-12-28T03:09:13.4250797+00:00"
+  "LastUpdate_Ratings": "2023-12-28T03:59:21.4207987+00:00",
+  "LastUpdate_Achievements": "2023-12-28T04:09:24.1769338+00:00"
 }

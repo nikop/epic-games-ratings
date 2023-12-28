@@ -5,35 +5,35 @@ Rating: 4.12 (Ranked 991)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 11.00% | ~4,999 |
+| Attachments | 11.00% | ~5,000 |
 | Unlocked Potential | 10.00% | ~4,545 |
 | Tinkerer | 8.00% | ~3,636 |
-| Leapfrogger | 7.00% | ~3,181 |
-| Knock 'Em Dead | 7.00% | ~3,181 |
-| Pilgrimage: Initiate | 7.00% | ~3,181 |
-| Hell of a Run | 7.00% | ~3,181 |
+| Leapfrogger | 7.00% | ~3,182 |
+| Knock 'Em Dead | 7.00% | ~3,182 |
+| Pilgrimage: Initiate | 7.00% | ~3,182 |
+| Hell of a Run | 7.00% | ~3,182 |
 | Call of the Fount: Baptized | 6.00% | ~2,727 |
-| Stuck | 5.00% | ~2,272 |
-| No Mercy | 5.00% | ~2,272 |
-| Explorer: Seeker | 5.00% | ~2,272 |
-| Help Me Out Here | 5.00% | ~2,272 |
+| Stuck | 5.00% | ~2,273 |
+| No Mercy | 5.00% | ~2,273 |
+| Explorer: Seeker | 5.00% | ~2,273 |
+| Help Me Out Here | 5.00% | ~2,273 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,818 |
-| Outdoorsperson | 3.00% | ~1,363 |
-| The Interloper | 3.00% | ~1,363 |
-| Hop, Step, Jump | 3.00% | ~1,363 |
-| Endless Runner | 3.00% | ~1,363 |
+| Outdoorsperson | 3.00% | ~1,364 |
+| The Interloper | 3.00% | ~1,364 |
+| Hop, Step, Jump | 3.00% | ~1,364 |
+| Endless Runner | 3.00% | ~1,364 |
 | What Must Be Done | 2.00% | ~909 |
 | Might and Main | 2.00% | ~909 |
 | Damned If You Do... | 2.00% | ~909 |
 | Explorer: Pathfinder | 2.00% | ~909 |
 | Shocker | 2.00% | ~909 |
 | From Every Angle | 2.00% | ~909 |
-| The Hue of Blue | 1.00% | ~454 |
-| The Truth Will Out | 1.00% | ~454 |
-| Breaking Point | 1.00% | ~454 |
-| None the Wiser | 1.00% | ~454 |
-| Forspoken | 1.00% | ~454 |
-| Pilgrimage: Novice | 1.00% | ~454 |
+| The Hue of Blue | 1.00% | ~455 |
+| The Truth Will Out | 1.00% | ~455 |
+| Breaking Point | 1.00% | ~455 |
+| None the Wiser | 1.00% | ~455 |
+| Forspoken | 1.00% | ~455 |
+| Pilgrimage: Novice | 1.00% | ~455 |
 | Wildfire | 0.70% | ~318 |
 | Realized Potential | 0.70% | ~318 |
 | Awakening | 0.60% | ~273 |
@@ -59,7 +59,7 @@ Rating: 4.12 (Ranked 991)
 | Remembrance | 0.10% | ~45 |
 | Cat Person | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,448 (Ranked 121)  
+Progressed: 45,451 (Ranked 121)  
 Completed: 3 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 3 (0.01%) (Ranked 367)
 | 2023-12-25 | 45,221 | 3 |
 | 2023-12-26 | 45,329 | 3 |
 | 2023-12-27 | 45,433 | 3 |
-| 2023-12-28 | 45,448 | 3 |
+| 2023-12-28 | 45,451 | 3 |
 ## Awards
 Max (Character Customization): 33  (Ranked 506)  
 Sum: 33 (Ranked 529)  

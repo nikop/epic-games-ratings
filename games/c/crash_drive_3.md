@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 30.00% | ~127 |
+| Brace for impact! | 30.00% | ~128 |
 | A Forest Walk | 29.00% | ~123 |
 | Baby's First Car | 28.00% | ~119 |
 | Pushover | 28.00% | ~119 |
-| Amateur Mechanic | 27.00% | ~114 |
+| Amateur Mechanic | 27.00% | ~115 |
 | C-C-C-Combo! | 25.00% | ~106 |
 | Multiply that! | 25.00% | ~106 |
 | Fore! | 23.00% | ~98 |
-| The Collector | 22.00% | ~93 |
-| Insurance fraud | 22.00% | ~93 |
-| The Wild West | 22.00% | ~93 |
-| Snow Fun! | 22.00% | ~93 |
-| Bag of Tricks | 22.00% | ~93 |
-| You're it | 22.00% | ~93 |
+| The Collector | 22.00% | ~94 |
+| Insurance fraud | 22.00% | ~94 |
+| The Wild West | 22.00% | ~94 |
+| Snow Fun! | 22.00% | ~94 |
+| Bag of Tricks | 22.00% | ~94 |
+| You're it | 22.00% | ~94 |
 | To and Fro | 21.00% | ~89 |
 | I see the light! | 21.00% | ~89 |
 | In the Bag! | 21.00% | ~89 |
@@ -30,9 +30,9 @@
 | Anger Issues | 19.00% | ~81 |
 | Your Highness | 19.00% | ~81 |
 | Event Amateur | 18.00% | ~76 |
-| Feeling Hot Hot Hot! | 17.00% | ~72 |
-| Feeling Dizzy? | 17.00% | ~72 |
 | Drift King! | 16.00% | ~68 |
+| Feeling Hot Hot Hot! | 16.00% | ~68 |
+| Feeling Dizzy? | 16.00% | ~68 |
 | Ferry Good! | 16.00% | ~68 |
 | Assert Dominance | 16.00% | ~68 |
 | Speed of light | 16.00% | ~68 |
@@ -45,8 +45,8 @@
 | High Roller | 10.00% | ~42 |
 | Event Pro | 9.00% | ~38 |
 | Space Crash | 7.00% | ~30 |
-| To war! | 6.00% | ~25 |
-| Hoarder | 6.00% | ~25 |
+| To war! | 6.00% | ~26 |
+| Hoarder | 6.00% | ~26 |
 | A Starting Collector | 4.00% | ~17 |
 | Best Friends! | 4.00% | ~17 |
 | Event Master | 4.00% | ~17 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 0.90% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 424 (Ranked 353)  
+Progressed: 425 (Ranked 353)  
 Completed: 2 (0.47%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,6 +163,7 @@ Completed: 2 (0.47%) (Ranked 221)
 | 2023-12-21 | 421 | 2 |
 | 2023-12-24 | 422 | 2 |
 | 2023-12-26 | 424 | 2 |
+| 2023-12-28 | 425 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

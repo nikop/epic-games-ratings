@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 475,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 427,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-04-08T00:00:00+00:00",
     "PcReleaseDate": "2022-04-08T00:00:00+00:00",
@@ -384,9 +384,9 @@
       "ID": "BFT_COOK",
       "SetID": "7o7kd30",
       "Name": "Cooking Maestro",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "BFT_CRYST",
@@ -497,8 +497,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2023-12-28T03:09:55.5736082+00:00",
+  "LastChanged_Achievements": "2023-12-28T04:10:39.7457155+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:16.5653285+00:00",
-  "LastUpdate_Ratings": "2023-12-28T02:59:49.1331355+00:00",
-  "LastUpdate_Achievements": "2023-12-28T03:09:55.5736288+00:00"
+  "LastUpdate_Ratings": "2023-12-28T04:01:24.3524109+00:00",
+  "LastUpdate_Achievements": "2023-12-28T04:10:39.7457426+00:00"
 }

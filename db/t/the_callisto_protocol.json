@@ -2,13 +2,13 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 935,
+  "Ranking_Rating": 936,
   "Ranking_Popularity": 367,
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1827,10 +1827,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 522,
       "NumberOfAwardsMax": 104
+    },
+    {
+      "Time": "2023-12-28T04:03:58.2457203+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 525,
+      "NumberOfAwardsMax": 104
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 522,
+  "NumberOfAwards": 525,
   "NumberOfAwardsMax": 104,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -1862,7 +1868,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 96
+      "Count": 99
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1877,9 +1883,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 19652,
+  "EOS_Progressed": 19655,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1333,
+  "EOS_NewPlayers": 1330,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -11482,6 +11488,11 @@
       "Time": "2023-12-28T03:09:36.7027077+00:00",
       "NumProgressed": 19652,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-28T04:10:13.9314778+00:00",
+      "NumProgressed": 19655,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -11597,7 +11608,7 @@
       "Name": "Get a Grip",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 3144
+      "UsersEstimate": 3145
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -11621,7 +11632,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2751
+      "UsersEstimate": 2752
     },
     {
       "ID": "KILL_ROBOT",
@@ -11701,7 +11712,7 @@
       "Name": "Without A Paddle",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1966
     },
     {
       "ID": "STORY_HANGAR",
@@ -11868,22 +11879,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 19652,
+      "Progressed": 19655,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 7578,
+      "Progressed": 7581,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-12-27T23:03:29.8896547+00:00",
-  "LastChanged_Achievements": "2023-12-28T03:09:36.7027071+00:00",
+  "LastChanged": "2023-12-28T04:03:58.2457202+00:00",
+  "LastChanged_Achievements": "2023-12-28T04:10:13.9314773+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3019969+00:00",
-  "LastUpdate_Ratings": "2023-12-28T03:03:20.2505453+00:00",
-  "LastUpdate_Achievements": "2023-12-28T03:09:36.7027959+00:00"
+  "LastUpdate_Ratings": "2023-12-28T04:03:58.2457207+00:00",
+  "LastUpdate_Achievements": "2023-12-28T04:10:13.9315405+00:00"
 }

@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.21 (Ranked 935)  
+Rating: 4.21 (Ranked 936)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,13 +9,13 @@ Rating: 4.21 (Ranked 935)
 | The Outer Way | 19.00% | ~3,734 |
 | Paper Jams | 17.00% | ~3,341 |
 | Desperate Times | 17.00% | ~3,341 |
-| Get a Grip | 16.00% | ~3,144 |
-| Chew 'Em Up | 14.00% | ~2,751 |
+| Get a Grip | 16.00% | ~3,145 |
+| Chew 'Em Up | 14.00% | ~2,752 |
 | Float Like A Butterfly | 13.00% | ~2,555 |
 | Reforged | 13.00% | ~2,555 |
 | Workplace Hazard | 11.00% | ~2,162 |
 | If the SHU Fits... | 11.00% | ~2,162 |
-| Without A Paddle | 10.00% | ~1,965 |
+| Without A Paddle | 10.00% | ~1,966 |
 | In the Pipe, Five by Five | 9.00% | ~1,769 |
 | Crash Site | 9.00% | ~1,769 |
 | Two Heads Are Better Than One | 8.00% | ~1,572 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 935)
 | Big Game Hunter | 0.10% | ~8 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,652 (Ranked 149)  
+Progressed: 19,655 (Ranked 149)  
 Completed: 82 (0.42%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,16 +297,16 @@ Completed: 82 (0.42%) (Ranked 229)
 | 2023-12-25 | 19,287 | 82 |
 | 2023-12-26 | 19,464 | 82 |
 | 2023-12-27 | 19,632 | 82 |
-| 2023-12-28 | 19,652 | 82 |
+| 2023-12-28 | 19,655 | 82 |
 ## Awards
 Max (Amazing Characters): 104  (Ranked 367)  
-Sum: 522 (Ranked 329)  
+Sum: 525 (Ranked 329)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 104 |
+| This game has Amazing Storytelling | 99 |
 | This game is Highly Recommended | 97 |
-| This game has Amazing Storytelling | 96 |
 | This game is Extremely Fun | 94 |
 | This game has Quickly Understood Controls | 94 |
 | This game has Challenging Combat | 68 |
@@ -498,3 +498,4 @@ Diff (max vs sum): 38
 | 2023-12-25 | 4.20 | 100 | 510 |
 | 2023-12-26 | 4.20 | 102 | 515 |
 | 2023-12-27 | 4.21 | 104 | 522 |
+| 2023-12-28 | 4.21 | 104 | 525 |

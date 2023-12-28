@@ -11,11 +11,11 @@ Number of Ratings: 67  (23.09.2022)
 | Mammon | 2.00% | ~5 |
 | Astarte | 1.00% | ~3 |
 | Close the Rift | 1.00% | ~3 |
+| Hell's Forge | 1.00% | ~3 |
 | Master of War | 1.00% | ~3 |
 | The Dead Court | 1.00% | ~3 |
 | Why'd It Have to Be Snakes? | 1.00% | ~3 |
 | Demolition Derby | 0.80% | ~2 |
-| Hell's Forge | 0.80% | ~2 |
 | Master of Strife | 0.80% | ~2 |
 | Good Deeds | 0.40% | ~1 |
 | Infested | 0.40% | ~1 |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Walking Armory | 0.00% | ~0 |
 | Wicked Killington | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 256 (Ranked 396)  
+Progressed: 257 (Ranked 395)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,6 +52,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 221 | 0 |
 | 2023-12-26 | 236 | 0 |
 | 2023-12-27 | 256 | 0 |
+| 2023-12-28 | 257 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 463)  
 Sum: 45 (Ranked 507)  

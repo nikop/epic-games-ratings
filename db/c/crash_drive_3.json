@@ -4,8 +4,8 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 480,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 424,
+  "EOS_Progressed": 425,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -679,6 +679,11 @@
       "Time": "2023-12-26T19:09:18.7353474+00:00",
       "NumProgressed": 424,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-28T04:09:11.8839542+00:00",
+      "NumProgressed": 425,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -690,7 +695,7 @@
       "Name": "Brace for impact!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -722,7 +727,7 @@
       "Name": "The Collector",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "COLLECT_1_CAR",
@@ -842,7 +847,7 @@
       "Name": "Amateur Mechanic",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "HIGHEST_ASTEROID",
@@ -898,7 +903,7 @@
       "Name": "Insurance fraud",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "HIT_FLYING_UFO",
@@ -946,7 +951,7 @@
       "Name": "The Wild West",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "LOADED_LVL_FOREST",
@@ -962,15 +967,15 @@
       "Name": "Snow Fun!",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "LOADED_LVL_TANK",
       "SetID": "20koof9",
       "Name": "Feeling Hot Hot Hot!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 68
     },
     {
       "ID": "MAX_MULTIPLIER",
@@ -994,15 +999,15 @@
       "Name": "To war!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "SPIN_1080",
       "SetID": "20koof9",
       "Name": "Feeling Dizzy?",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 68
     },
     {
       "ID": "STUNT_EVENT",
@@ -1010,7 +1015,7 @@
       "Name": "Bag of Tricks",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "STUNT_SCORE_DOUBLE",
@@ -1026,7 +1031,7 @@
       "Name": "Hoarder",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "USE_FERRY",
@@ -1114,7 +1119,7 @@
       "Name": "You\u0027re it",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "WIN_TANK_BATTLES",
@@ -1129,7 +1134,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 424,
+      "Progressed": 425,
       "Completed": 2
     }
   ],
@@ -1137,8 +1142,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-12-28T03:09:04.1610594+00:00",
+  "LastChanged_Achievements": "2023-12-28T04:09:11.8839536+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:14.0108602+00:00",
-  "LastUpdate_Ratings": "2023-12-28T02:58:49.3972369+00:00",
-  "LastUpdate_Achievements": "2023-12-28T03:09:04.1611146+00:00"
+  "LastUpdate_Ratings": "2023-12-28T04:00:03.3747662+00:00",
+  "LastUpdate_Achievements": "2023-12-28T04:09:11.8839955+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 282,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -3229,9 +3229,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 336
     },
     {
       "ID": "ChasingTheLight",
@@ -3654,8 +3654,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-28T02:59:27.0743673+00:00",
-  "LastChanged_Achievements": "2023-12-28T03:04:40.8959818+00:00",
+  "LastChanged_Achievements": "2023-12-28T04:05:48.9315258+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-28T02:59:27.0743678+00:00",
-  "LastUpdate_Achievements": "2023-12-28T03:04:40.8960316+00:00"
+  "LastUpdate_Ratings": "2023-12-28T04:00:54.064614+00:00",
+  "LastUpdate_Achievements": "2023-12-28T04:05:48.9315831+00:00"
 }

@@ -5,37 +5,37 @@ Rating: 4.50 (Ranked 607)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 62.00% | ~829 |
-| To Hell In A Handcart | 61.00% | ~816 |
-| High Profile | 54.00% | ~722 |
-| Whispers In The Dark | 52.00% | ~695 |
-| Fond Memories | 50.00% | ~668 |
-| A Method To His Madness | 47.00% | ~628 |
-| History Check | 46.00% | ~615 |
-| The New World | 45.00% | ~602 |
-| Gaze Into The Abyss | 43.00% | ~575 |
-| Open Sesame | 43.00% | ~575 |
-| Sticky Fingers | 43.00% | ~575 |
-| Knives Out | 43.00% | ~575 |
+| Read Between The Lines | 62.00% | ~830 |
+| To Hell In A Handcart | 61.00% | ~817 |
+| High Profile | 54.00% | ~723 |
+| Whispers In The Dark | 52.00% | ~696 |
+| Fond Memories | 50.00% | ~670 |
+| A Method To His Madness | 47.00% | ~629 |
+| History Check | 46.00% | ~616 |
+| The New World | 44.00% | ~589 |
+| Gaze Into The Abyss | 43.00% | ~576 |
+| Open Sesame | 43.00% | ~576 |
+| Sticky Fingers | 43.00% | ~576 |
+| Knives Out | 43.00% | ~576 |
 | Lock, Stock, And Barrel | 42.00% | ~562 |
 | Back In The Saddle | 42.00% | ~562 |
 | Land, Ho! | 42.00% | ~562 |
-| No Man Is An Island | 41.00% | ~548 |
-| At Wits' End | 40.00% | ~535 |
-| Up In Flames | 38.00% | ~508 |
-| Fhtagn! | 38.00% | ~508 |
+| No Man Is An Island | 41.00% | ~549 |
+| At Wits' End | 40.00% | ~536 |
+| Up In Flames | 38.00% | ~509 |
+| Fhtagn! | 38.00% | ~509 |
 | Bookworm | 37.00% | ~495 |
-| Going Once... | 36.00% | ~481 |
+| Going Once... | 35.00% | ~469 |
 | Let Me Be Frank | 34.00% | ~455 |
 | No Stone Unturned | 32.00% | ~428 |
-| Brain Food | 31.00% | ~414 |
+| Brain Food | 31.00% | ~415 |
 | Read It And Weep | 19.00% | ~254 |
 | Curiosity Killed The Cat | 18.00% | ~241 |
-| Big Breakthrough | 12.00% | ~160 |
+| Big Breakthrough | 12.00% | ~161 |
 | Reawakened | 3.00% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,337 (Ranked 263)  
-Completed: 38 (2.84%) (Ranked 115)  
+Progressed: 1,339 (Ranked 263)  
+Completed: 38 (2.84%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -242,7 +242,7 @@ Completed: 38 (2.84%) (Ranked 115)
 | 2023-12-25 | 1,320 | 38 |
 | 2023-12-26 | 1,328 | 38 |
 | 2023-12-27 | 1,336 | 38 |
-| 2023-12-28 | 1,337 | 38 |
+| 2023-12-28 | 1,339 | 38 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

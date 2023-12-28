@@ -14,7 +14,7 @@
 | Love is in the Air | 23.00% | ~10 |
 | Spread the Love | 23.00% | ~10 |
 | A Heated Affair | 20.00% | ~9 |
-| Short Distance Relationship | 18.00% | ~8 |
+| Short Distance Relationship | 20.00% | ~9 |
 | Out of Your Shell | 16.00% | ~7 |
 | Long Distance Relationship | 14.00% | ~6 |
 | Polyamorousasaurus | 11.00% | ~5 |

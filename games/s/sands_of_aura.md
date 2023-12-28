@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Setting Sail | 90.00% | ~111 |
-| A Small Thirsty Thing | 13.00% | ~16 |
+| A Small Thirsty Thing | 14.00% | ~17 |
 | Dousing a Venerable Flame | 13.00% | ~16 |
 | Advanced Armaments | 11.00% | ~14 |
 | Spirit Within | 11.00% | ~14 |

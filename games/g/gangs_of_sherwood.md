@@ -19,7 +19,7 @@
 | Rebel Unleashed | 35.00% | ~36 |
 | Merry Co-operation | 30.00% | ~31 |
 | Finish Him! | 25.00% | ~26 |
-| Assault on the Ram | 24.00% | ~25 |
+| Assault on the Ram | 25.00% | ~26 |
 | Ultra Rebel Instinct | 22.00% | ~23 |
 | First Aid | 22.00% | ~23 |
 | Merry Go Round | 21.00% | ~22 |

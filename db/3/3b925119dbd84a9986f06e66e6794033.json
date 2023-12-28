@@ -4,8 +4,8 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 544,
+  "EOS_Progressed": 546,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
@@ -1789,6 +1789,11 @@
       "Time": "2023-12-28T02:28:36.4827657+00:00",
       "NumProgressed": 544,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T04:10:37.6845711+00:00",
+      "NumProgressed": 546,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1865,15 +1870,15 @@
       "Name": "FixyText: Pump It Up",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
       "SetID": "9j9h72e",
       "Name": "FixyText: Bestseller",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 87
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -1897,7 +1902,7 @@
       "Name": "Timejinx: Timejinx",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "TIME_ORWELL",
@@ -1921,15 +1926,15 @@
       "Name": "Timejinx: The Perfect Guest",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "TKO2_BEACH_LIFE",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: Life\u0027s A Beach",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 49
     },
     {
       "ID": "TKO2_DOMINO",
@@ -1960,14 +1965,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 544,
+      "Progressed": 546,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-28T03:09:54.0569654+00:00",
+  "LastChanged_Achievements": "2023-12-28T04:10:37.6845706+00:00",
   "LastUpdate_AppInfo": "2023-12-23T02:14:15.0192188+00:00",
-  "LastUpdate_Ratings": "2023-12-28T02:59:45.6977726+00:00",
-  "LastUpdate_Achievements": "2023-12-28T03:09:54.0569859+00:00"
+  "LastUpdate_Ratings": "2023-12-28T04:01:19.4280855+00:00",
+  "LastUpdate_Achievements": "2023-12-28T04:10:37.6845903+00:00"
 }

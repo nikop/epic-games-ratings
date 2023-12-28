@@ -5,36 +5,36 @@ Rating: 4.52 (Ranked 567)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 91.00% | ~116 |
-| Map reader | 65.00% | ~83 |
+| Beginner | 91.00% | ~117 |
+| Map reader | 65.00% | ~84 |
 | Adventurer | 63.00% | ~81 |
 | Philanthropist | 60.00% | ~77 |
 | Archer | 45.00% | ~58 |
 | The brave little tailor | 43.00% | ~55 |
-| Field hand | 41.00% | ~52 |
-| Samaritan | 37.00% | ~47 |
-| Well-to-do | 37.00% | ~47 |
-| The merciful one | 34.00% | ~44 |
-| Ladies' man | 33.00% | ~42 |
-| Ferocious wild boars | 27.00% | ~35 |
+| Field hand | 40.00% | ~52 |
+| Samaritan | 36.00% | ~46 |
+| Well-to-do | 36.00% | ~46 |
+| The merciful one | 33.00% | ~43 |
+| Ladies' man | 33.00% | ~43 |
+| Ferocious wild boars | 26.00% | ~34 |
 | Idiot | 25.00% | ~32 |
-| Beast slayer | 23.00% | ~29 |
+| Beast slayer | 22.00% | ~28 |
 | Family man | 20.00% | ~26 |
 | Death of a legend | 20.00% | ~26 |
-| Archaeologist | 20.00% | ~26 |
-| Ogre friend | 20.00% | ~26 |
-| Sidelined | 19.00% | ~24 |
+| Archaeologist | 19.00% | ~25 |
+| Ogre friend | 19.00% | ~25 |
+| Sidelined | 19.00% | ~25 |
 | Wise man | 18.00% | ~23 |
 | Little hero | 18.00% | ~23 |
 | Hard worker | 18.00% | ~23 |
 | The fourth triplet | 18.00% | ~23 |
 | Fence | 18.00% | ~23 |
-| Ghost hunter | 16.00% | ~20 |
-| Master detective | 16.00% | ~20 |
+| Ghost hunter | 16.00% | ~21 |
+| Master detective | 16.00% | ~21 |
 | Pandora's box | 15.00% | ~19 |
 | Peacekeeper | 14.00% | ~18 |
-| Defender | 13.00% | ~17 |
 | Workaholic | 13.00% | ~17 |
+| Defender | 12.00% | ~15 |
 | Showdown | 11.00% | ~14 |
 | Safecracker | 11.00% | ~14 |
 | Master thief | 11.00% | ~14 |
@@ -56,7 +56,7 @@ Rating: 4.52 (Ranked 567)
 | Master of the classes | 0.80% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128 (Ranked 459)  
+Progressed: 129 (Ranked 456)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,6 +116,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 124 | 0 |
 | 2023-12-26 | 126 | 0 |
 | 2023-12-27 | 128 | 0 |
+| 2023-12-28 | 129 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

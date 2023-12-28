@@ -21,7 +21,7 @@ Rating: 4.42 (Ranked 727)
 | Dog Person | 18.00% | ~660 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,666 (Ranked 214)  
-Completed: 140 (3.82%) (Ranked 95)  
+Completed: 140 (3.82%) (Ranked 96)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

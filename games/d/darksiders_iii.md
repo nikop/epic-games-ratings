@@ -28,7 +28,7 @@ Number of Ratings: 116  (23.09.2022)
 | I Wanna Rock | 31.00% | ~78 |
 | Love Tap | 30.00% | ~75 |
 | Maximum Vigor | 29.00% | ~72 |
-| Freeze Frame | 27.00% | ~68 |
+| Freeze Frame | 28.00% | ~70 |
 | Eat Your Heart Out | 27.00% | ~68 |
 | For Whom the Bell Tolls | 27.00% | ~68 |
 | Unyielding Strength | 24.00% | ~60 |

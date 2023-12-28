@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -304,7 +304,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1908,
+  "EOS_Progressed": 1909,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
@@ -4659,6 +4659,11 @@
       "Time": "2023-12-27T20:08:54.4625109+00:00",
       "NumProgressed": 1908,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-28T04:10:20.3586135+00:00",
+      "NumProgressed": 1909,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4758,7 +4763,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "Experienced_strategist",
@@ -4796,9 +4801,9 @@
       "ID": "Heroes_never_die",
       "SetID": "85nb4h3",
       "Name": "Heroes Never Die",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 782
+      "UsersEstimate": 764
     },
     {
       "ID": "High_noon",
@@ -4909,15 +4914,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1908,
+      "Progressed": 1909,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-12-28T03:09:41.4219274+00:00",
+  "LastChanged_Achievements": "2023-12-28T04:10:20.3586129+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:45.0819227+00:00",
-  "LastUpdate_Ratings": "2023-12-28T03:03:03.8207188+00:00",
-  "LastUpdate_Achievements": "2023-12-28T03:09:41.4219726+00:00"
+  "LastUpdate_Ratings": "2023-12-28T04:03:37.8013839+00:00",
+  "LastUpdate_Achievements": "2023-12-28T04:10:20.3586589+00:00"
 }

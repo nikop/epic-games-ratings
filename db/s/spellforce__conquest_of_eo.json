@@ -4,8 +4,8 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 494,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -557,9 +557,9 @@
       "ID": "Defeat_Hokan",
       "SetID": "7b9f97e",
       "Name": "Defeat Hokan",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Defeat_Ianna",
@@ -1038,8 +1038,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-28T03:09:32.1391891+00:00",
+  "LastChanged_Achievements": "2023-12-28T04:10:08.1431573+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:59.8342504+00:00",
-  "LastUpdate_Ratings": "2023-12-28T03:00:15.7132855+00:00",
-  "LastUpdate_Achievements": "2023-12-28T03:09:32.1392396+00:00"
+  "LastUpdate_Ratings": "2023-12-28T04:02:01.5409161+00:00",
+  "LastUpdate_Achievements": "2023-12-28T04:10:08.1432156+00:00"
 }

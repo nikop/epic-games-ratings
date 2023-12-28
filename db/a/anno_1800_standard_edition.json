@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2019-05-30T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -11925,10 +11925,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 15516,
       "NumberOfAwardsMax": 2008
+    },
+    {
+      "Time": "2023-12-28T03:57:25.6480274+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 15521,
+      "NumberOfAwardsMax": 2008
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15516,
+  "NumberOfAwards": 15521,
   "NumberOfAwardsMax": 2008,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -11984,7 +11990,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1739
+      "Count": 1744
     },
     {
       "Text": "This game has Amazing Characters",
@@ -12010,8 +12016,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2023-12-27T23:02:43.3347168+00:00",
+  "LastChanged": "2023-12-28T03:57:25.6480272+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:14.2190027+00:00",
-  "LastUpdate_Ratings": "2023-12-28T02:56:55.6256734+00:00",
-  "LastUpdate_Achievements": "2023-12-28T03:05:21.5636274+00:00"
+  "LastUpdate_Ratings": "2023-12-28T03:57:25.648028+00:00",
+  "LastUpdate_Achievements": "2023-12-28T04:06:43.117363+00:00"
 }
