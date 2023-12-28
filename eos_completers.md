@@ -4,7 +4,7 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [The InVincible Iron Ivy - Enter the Pretty Pretty Princess](games/6/6416a7e47acb440da6f7fc0eff798318.md) | 100.00% |
 | 1 | [The Repair House: Restoration Sim](games/7/76c6650b9d624427aab1c0f1ff3defb6.md) | 100.00% |
-| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.89% |
+| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.76% |
 | 6 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 46.15% |
 | 7 | [greensheen Production](games/g/greensheen_production.md) | 43.75% |
 | 8 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 42.00% |
@@ -132,7 +132,7 @@
 | 130 | [Bloodshore](games/b/bloodshore.md) | 2.35% |
 | 130 | [Destiny 2](games/d/destiny_2.md) | 2.35% |
 | 132 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.33% |
-| 132 | [FORECLOSED](games/f/foreclosed.md) | 2.33% |
+| 133 | [FORECLOSED](games/f/foreclosed.md) | 2.31% |
 | 134 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.04% |
 | 135 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 1.96% |
 | 136 | [Somerville](games/s/somerville.md) | 1.90% |

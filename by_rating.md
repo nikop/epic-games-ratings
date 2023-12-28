@@ -28,7 +28,7 @@
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,541 | 133 |
 | 24 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 755 | 186 |
 | 24 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 14,475 | 27 |
-| 24 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 4.87 | 84 | 395 |
+| 24 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 4.87 | 87 | 392 |
 | 24 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.87 | 578 | 210 |
 | 24 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.87 | 0 | 574 |
 | 32 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 140 | 331 |
@@ -163,7 +163,6 @@
 | 161 | [Beyond Good & Evil](games/b/beyond_good_&_evil.md) | 4.74 | 0 | 574 |
 | 161 | [Diabotical](games/d/diabotical.md) | 4.74 | 296 | 260 |
 | 161 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 855 | 172 |
-| 161 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 4.74 | 29 | 518 |
 | 161 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 782 | 177 |
 | 161 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,746 | 52 |
 | 161 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 44,557 | 14 |
@@ -175,17 +174,18 @@
 | 161 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 90 | 389 |
 | 161 | [Townscaper](games/t/townscaper.md) | 4.74 | 0 | 574 |
 | 161 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 761 | 184 |
-| 176 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 440 | 229 |
-| 176 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.73 | 0 | 574 |
-| 176 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.73 | 0 | 574 |
-| 176 | [Fez](games/f/fez.md) | 4.73 | 24 | 546 |
-| 176 | [GoNNER](games/g/gonner.md) | 4.73 | 0 | 574 |
-| 176 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.73 | 25,946 | 18 |
-| 176 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 665 | 191 |
-| 176 | [Remnant 2](games/r/remnant_2.md) | 4.73 | 4,361 | 84 |
-| 176 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 0 | 574 |
-| 176 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 0 | 574 |
-| 176 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 0 | 574 |
+| 175 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 440 | 229 |
+| 175 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.73 | 0 | 574 |
+| 175 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.73 | 0 | 574 |
+| 175 | [Fez](games/f/fez.md) | 4.73 | 24 | 546 |
+| 175 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 4.73 | 29 | 518 |
+| 175 | [GoNNER](games/g/gonner.md) | 4.73 | 0 | 574 |
+| 175 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.73 | 25,946 | 18 |
+| 175 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 665 | 191 |
+| 175 | [Remnant 2](games/r/remnant_2.md) | 4.73 | 4,361 | 84 |
+| 175 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 0 | 574 |
+| 175 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 0 | 574 |
+| 175 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 0 | 574 |
 | 187 | [Barony](games/b/barony.md) | 4.72 | 99 | 374 |
 | 187 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.72 | 48 | 455 |
 | 187 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 530 | 213 |
@@ -324,7 +324,7 @@
 | 322 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 574 |
 | 322 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 0 | 574 |
 | 322 | [Black Book](games/b/black_book.md) | 4.65 | 103 | 368 |
-| 322 | [Carcassonne](games/c/carcassonne.md) | 4.65 | 86 | 393 |
+| 322 | [Carcassonne](games/c/carcassonne.md) | 4.65 | 86 | 394 |
 | 322 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.65 | 0 | 574 |
 | 322 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 175 | 312 |
 | 322 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.65 | 0 | 574 |
@@ -399,7 +399,7 @@
 | 396 | [ABZU](games/a/abzu.md) | 4.61 | 0 | 574 |
 | 396 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.61 | 0 | 574 |
 | 396 | [Alien: Isolation](games/a/alien__isolation.md) | 4.61 | 138 | 334 |
-| 396 | [Control](games/c/control.md) | 4.61 | 8,978 | 43 |
+| 396 | [Control](games/c/control.md) | 4.61 | 8,978 | 44 |
 | 396 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 393 | 236 |
 | 396 | [Darkwood](games/d/darkwood.md) | 4.61 | 329 | 251 |
 | 396 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 51,793 | 12 |
@@ -513,7 +513,7 @@
 | 498 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.56 | 30 | 513 |
 | 498 | [Tails of Iron](games/t/tails_of_iron.md) | 4.56 | 0 | 574 |
 | 498 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.56 | 0 | 574 |
-| 498 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 85 | 394 |
+| 498 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 85 | 395 |
 | 498 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 5,248 | 73 |
 | 516 | [Alan Wake](games/a/alan_wake.md) | 4.55 | 0 | 574 |
 | 516 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 0 | 574 |
@@ -539,7 +539,7 @@
 | 516 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,412 | 135 |
 | 538 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.54 | 52 | 439 |
 | 538 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,623 | 131 |
-| 538 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 8,934 | 44 |
+| 538 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 9,016 | 43 |
 | 538 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.54 | 530 | 213 |
 | 538 | [Horace](games/h/horace.md) | 4.54 | 0 | 574 |
 | 538 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 1,658 | 128 |
@@ -713,7 +713,7 @@
 | 710 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.43 | 0 | 574 |
 | 710 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 52 | 439 |
 | 710 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.43 | 0 | 574 |
-| 710 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.43 | 14,043 | 29 |
+| 710 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.43 | 14,059 | 29 |
 | 710 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.43 | 0 | 574 |
 | 710 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.43 | 0 | 574 |
 | 710 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.43 | 0 | 574 |
