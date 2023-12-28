@@ -3,8 +3,8 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 24,
-  "Ranking_Popularity": 395,
-  "Ranking_PopularitySum": 471,
+  "Ranking_Popularity": 392,
+  "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 282,
   "Ranking_EOS_NewPlayers": 229,
@@ -233,18 +233,24 @@
       "Rating": 4.87,
       "NumberOfAwards": 84,
       "NumberOfAwardsMax": 84
+    },
+    {
+      "Time": "2023-12-28T02:59:27.0743675+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 87,
+      "NumberOfAwardsMax": 87
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 84,
-  "NumberOfAwardsMax": 84,
+  "NumberOfAwards": 87,
+  "NumberOfAwardsMax": 87,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 84
+      "Count": 87
     }
   ],
   "EOS_Progressed": 1160,
@@ -3559,9 +3565,9 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 278
     },
     {
       "ID": "TheThiefOfFire",
@@ -3647,9 +3653,9 @@
   "FirstSeen": "2023-11-03T01:41:58.8670455+00:00",
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
-  "LastChanged": "2023-12-26T14:58:48.4089704+00:00",
-  "LastChanged_Achievements": "2023-12-28T02:23:35.8144993+00:00",
+  "LastChanged": "2023-12-28T02:59:27.0743673+00:00",
+  "LastChanged_Achievements": "2023-12-28T03:04:40.8959818+00:00",
   "LastUpdate_AppInfo": "2023-12-21T15:57:15.0821967+00:00",
-  "LastUpdate_Ratings": "2023-12-28T02:18:48.4074708+00:00",
-  "LastUpdate_Achievements": "2023-12-28T02:23:35.8145448+00:00"
+  "LastUpdate_Ratings": "2023-12-28T02:59:27.0743678+00:00",
+  "LastUpdate_Achievements": "2023-12-28T03:04:40.8960316+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 467,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 418,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
     "PcReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -598,9 +598,9 @@
       "ID": "Ach_AllSlashDashUnlock",
       "SetID": "4o5gjp0",
       "Name": "Full power",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Ach_AllSucces",
@@ -646,9 +646,9 @@
       "ID": "Ach_BossSlugMk2",
       "SetID": "4o5gjp0",
       "Name": "\u0022Ah sh*t... Here we go again!\u0022",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Ach_BuyAllItemAndUpgrade",
@@ -718,9 +718,9 @@
       "ID": "Ach_DiscoveryFinalTower",
       "SetID": "4o5gjp0",
       "Name": "Nokron tower",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "Ach_DiscoveryTemple",
@@ -814,9 +814,9 @@
       "ID": "Ach_OptionalDialogRead",
       "SetID": "4o5gjp0",
       "Name": "Bookworm",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "Ach_SkullGoal",
@@ -877,8 +877,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-12-28T02:27:52.6090078+00:00",
+  "LastChanged_Achievements": "2023-12-28T03:09:11.1050917+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:12.9683486+00:00",
-  "LastUpdate_Ratings": "2023-12-28T02:19:02.206668+00:00",
-  "LastUpdate_Achievements": "2023-12-28T02:27:52.6090273+00:00"
+  "LastUpdate_Ratings": "2023-12-28T02:59:41.9617609+00:00",
+  "LastUpdate_Achievements": "2023-12-28T03:09:11.1051202+00:00"
 }

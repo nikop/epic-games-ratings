@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1877,9 +1877,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 19650,
+  "EOS_Progressed": 19652,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1331,
+  "EOS_NewPlayers": 1333,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -11477,6 +11477,11 @@
       "Time": "2023-12-28T02:28:18.7241634+00:00",
       "NumProgressed": 19650,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-28T03:09:36.7027077+00:00",
+      "NumProgressed": 19652,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -11648,7 +11653,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2554
+      "UsersEstimate": 2555
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -11656,7 +11661,7 @@
       "Name": "Reforged",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2554
+      "UsersEstimate": 2555
     },
     {
       "ID": "PRINT_WEAPON",
@@ -11672,7 +11677,7 @@
       "Name": "Mugshot",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -11704,7 +11709,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1768
+      "UsersEstimate": 1769
     },
     {
       "ID": "STORY_MINETOWN",
@@ -11728,7 +11733,7 @@
       "Name": "Crash Site",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1768
+      "UsersEstimate": 1769
     },
     {
       "ID": "STORY_TOWER",
@@ -11863,13 +11868,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 19650,
+      "Progressed": 19652,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 7576,
+      "Progressed": 7578,
       "Completed": 29
     }
   ],
@@ -11877,8 +11882,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-27T23:03:29.8896547+00:00",
-  "LastChanged_Achievements": "2023-12-28T02:28:18.724163+00:00",
+  "LastChanged_Achievements": "2023-12-28T03:09:36.7027071+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3019969+00:00",
-  "LastUpdate_Ratings": "2023-12-28T02:22:04.1140549+00:00",
-  "LastUpdate_Achievements": "2023-12-28T02:28:18.7242291+00:00"
+  "LastUpdate_Ratings": "2023-12-28T03:03:20.2505453+00:00",
+  "LastUpdate_Achievements": "2023-12-28T03:09:36.7027959+00:00"
 }

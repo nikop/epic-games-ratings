@@ -4,11 +4,11 @@
   "ProductSlug": "city-of-gangsters-6c2974",
   "Ranking_Rating": 867,
   "Ranking_Popularity": 428,
-  "Ranking_PopularitySum": 393,
+  "Ranking_PopularitySum": 394,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -988,7 +988,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 358913,
+  "EOS_Progressed": 358917,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1345,
   "EOS_NewCompleters": 0,
@@ -29688,6 +29688,11 @@
       "Time": "2023-12-28T02:23:50.6627495+00:00",
       "NumProgressed": 358913,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-28T03:04:55.1419552+00:00",
+      "NumProgressed": 358917,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -29699,7 +29704,7 @@
       "Name": "Corner Opportunities",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10767
+      "UsersEstimate": 10768
     },
     {
       "ID": "ach002",
@@ -29731,7 +29736,7 @@
       "Name": "2122 North Clark Street",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10767
+      "UsersEstimate": 10768
     },
     {
       "ID": "ach006",
@@ -29803,7 +29808,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 53837
+      "UsersEstimate": 53838
     },
     {
       "ID": "ach015",
@@ -29851,7 +29856,7 @@
       "Name": "Copious Cabbage",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 10767
+      "UsersEstimate": 10768
     },
     {
       "ID": "ach021",
@@ -29859,7 +29864,7 @@
       "Name": "Sockdolager",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10767
+      "UsersEstimate": 10768
     },
     {
       "ID": "ach022",
@@ -29907,7 +29912,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 165100
+      "UsersEstimate": 165102
     },
     {
       "ID": "ach028",
@@ -29923,7 +29928,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39480
+      "UsersEstimate": 39481
     },
     {
       "ID": "ach030",
@@ -30003,7 +30008,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35891
+      "UsersEstimate": 35892
     },
     {
       "ID": "ach040",
@@ -30099,7 +30104,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39480
+      "UsersEstimate": 39481
     },
     {
       "ID": "ach052",
@@ -30115,7 +30120,7 @@
       "Name": "Still Stalwart",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10767
+      "UsersEstimate": 10768
     },
     {
       "ID": "ach054",
@@ -30155,7 +30160,7 @@
       "Name": "Tighten the Screws",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10767
+      "UsersEstimate": 10768
     },
     {
       "ID": "ach059",
@@ -30163,7 +30168,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35891
+      "UsersEstimate": 35892
     },
     {
       "ID": "ach060",
@@ -30227,7 +30232,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 57426
+      "UsersEstimate": 57427
     },
     {
       "ID": "ach069",
@@ -30338,7 +30343,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 358913,
+      "Progressed": 358917,
       "Completed": 7
     }
   ],
@@ -30346,8 +30351,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-12-28T02:19:43.3217338+00:00",
-  "LastChanged_Achievements": "2023-12-28T02:23:50.6627491+00:00",
+  "LastChanged_Achievements": "2023-12-28T03:04:55.1419547+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:34.5692536+00:00",
-  "LastUpdate_Ratings": "2023-12-28T02:19:43.3217344+00:00",
-  "LastUpdate_Achievements": "2023-12-28T02:23:50.662911+00:00"
+  "LastUpdate_Ratings": "2023-12-28T03:00:22.2479709+00:00",
+  "LastUpdate_Achievements": "2023-12-28T03:04:55.1421356+00:00"
 }

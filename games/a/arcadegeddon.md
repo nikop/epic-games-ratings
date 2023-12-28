@@ -6,28 +6,28 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 86.00% | ~8,726 |
-| Photogenic | 83.00% | ~8,422 |
+| Let's Get This Party Started | 86.00% | ~8,727 |
+| Photogenic | 83.00% | ~8,423 |
 | Surge Gauntlet Jockey | 80.00% | ~8,118 |
-| Plug It In | 79.00% | ~8,016 |
-| Adventure Time | 75.00% | ~7,610 |
-| Playing With Power | 72.00% | ~7,306 |
+| Plug It In | 79.00% | ~8,017 |
+| Adventure Time | 75.00% | ~7,611 |
+| Playing With Power | 72.00% | ~7,307 |
 | Coup d'Etat | 55.00% | ~5,581 |
-| You're Fired | 54.00% | ~5,479 |
+| You're Fired | 54.00% | ~5,480 |
 | Get Furious | 53.00% | ~5,378 |
 | Hacks In Stacks | 53.00% | ~5,378 |
-| Gunplay And Cosplay | 52.00% | ~5,276 |
+| Gunplay And Cosplay | 52.00% | ~5,277 |
 | Meching Enemies | 46.00% | ~4,668 |
 | Ticket Toddler | 42.00% | ~4,262 |
 | Booty Bashing | 36.00% | ~3,653 |
 | Field Medic | 36.00% | ~3,653 |
-| Here Comes a New Challenger | 35.00% | ~3,551 |
+| Here Comes a New Challenger | 35.00% | ~3,552 |
 | Rapid Response | 32.00% | ~3,247 |
 | Surge Ahead | 29.00% | ~2,943 |
 | The Full Monty | 29.00% | ~2,943 |
 | Guardian Angel | 26.00% | ~2,638 |
 | Poppin Noggins | 23.00% | ~2,334 |
-| Clips and Crits | 18.00% | ~1,826 |
+| Clips and Crits | 18.00% | ~1,827 |
 | Grey Goo | 16.00% | ~1,624 |
 | Boss of Bosses | 14.00% | ~1,421 |
 | The Final Blow | 14.00% | ~1,421 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~41 |
 | Pyrotechnical | 0.20% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,147 (Ranked 177)  
+Progressed: 10,148 (Ranked 177)  
 Completed: 2 (0.02%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 2 (0.02%) (Ranked 357)
 | 2023-12-25 | 10,123 | 2 |
 | 2023-12-26 | 10,136 | 2 |
 | 2023-12-27 | 10,144 | 2 |
-| 2023-12-28 | 10,147 | 2 |
+| 2023-12-28 | 10,148 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 419)  
 Sum: 465 (Ranked 338)  

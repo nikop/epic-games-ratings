@@ -5,11 +5,11 @@ Rating: 3.58 (Ranked 1,073)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 15.00% | ~317 |
+| I Like My Stakes Rare! | 15.00% | ~318 |
 | Catch and Release | 11.00% | ~233 |
 | Home Is Where the Heart Is | 10.00% | ~212 |
-| ICU | 9.00% | ~190 |
-| Wounded Whispers | 9.00% | ~190 |
+| ICU | 9.00% | ~191 |
+| Wounded Whispers | 9.00% | ~191 |
 | Blood Will Have Blood | 8.00% | ~169 |
 | Ne Plus Ultra | 8.00% | ~169 |
 | Peek-a-boo | 8.00% | ~169 |
@@ -22,8 +22,8 @@ Rating: 3.58 (Ranked 1,073)
 | Skin of Their Teeth | 5.00% | ~106 |
 | Bad Wiring | 4.00% | ~85 |
 | Grounded | 4.00% | ~85 |
-| Neighborhood Revitalization | 3.00% | ~63 |
-| Radio Silence | 3.00% | ~63 |
+| Neighborhood Revitalization | 3.00% | ~64 |
+| Radio Silence | 3.00% | ~64 |
 | Sic Transit Umbra | 2.00% | ~42 |
 | Bell-ringer | 2.00% | ~42 |
 | Silence Is Golden | 2.00% | ~42 |
@@ -41,7 +41,7 @@ Rating: 3.58 (Ranked 1,073)
 | Nice Try | 1.00% | ~21 |
 | Blacklight Down | 1.00% | ~21 |
 | Curious Finch | 0.90% | ~19 |
-| Right This Way | 0.70% | ~15 |
+| Right This Way | 0.80% | ~17 |
 | Empty Nest Syndrome | 0.60% | ~13 |
 | Bloody Initiate | 0.60% | ~13 |
 | Dexterity Save | 0.60% | ~13 |
@@ -72,7 +72,7 @@ Rating: 3.58 (Ranked 1,073)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,116 (Ranked 236)  
+Progressed: 2,117 (Ranked 236)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 2,067 | 0 |
 | 2023-12-26 | 2,087 | 0 |
 | 2023-12-27 | 2,113 | 0 |
-| 2023-12-28 | 2,116 | 0 |
+| 2023-12-28 | 2,117 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 569)  
 Sum: 20 (Ranked 570)  

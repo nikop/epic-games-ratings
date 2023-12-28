@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 146,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
@@ -2398,9 +2398,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 222143,
+  "EOS_Progressed": 222145,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 1609,
+  "EOS_NewPlayers": 1605,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -31323,6 +31323,11 @@
       "Time": "2023-12-28T02:23:38.5433093+00:00",
       "NumProgressed": 222143,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-12-28T03:04:43.4166205+00:00",
+      "NumProgressed": 222145,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 44,
@@ -31582,7 +31587,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17771
+      "UsersEstimate": 17772
     },
     {
       "ID": "TanukiTime",
@@ -31678,22 +31683,22 @@
       "Name": "Yabu",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 17771
+      "UsersEstimate": 17772
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 222143,
+      "Progressed": 222145,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-12-28T01:44:13.8403419+00:00",
-  "LastChanged_Achievements": "2023-12-28T02:23:38.5433087+00:00",
+  "LastChanged_Achievements": "2023-12-28T03:04:43.4166198+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:16.1006959+00:00",
-  "LastUpdate_Ratings": "2023-12-28T02:19:09.3109593+00:00",
-  "LastUpdate_Achievements": "2023-12-28T02:23:38.5434728+00:00"
+  "LastUpdate_Ratings": "2023-12-28T02:59:48.8245859+00:00",
+  "LastUpdate_Achievements": "2023-12-28T03:04:43.4167707+00:00"
 }

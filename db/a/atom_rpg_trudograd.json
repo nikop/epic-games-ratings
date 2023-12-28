@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 318,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
     "PcReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -246,9 +246,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 1335,
+  "EOS_Progressed": 1336,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1901,6 +1901,11 @@
       "Time": "2023-12-26T11:09:13.3894472+00:00",
       "NumProgressed": 1335,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T03:09:38.7976446+00:00",
+      "NumProgressed": 1336,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -2008,7 +2013,7 @@
       "Name": "Household",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "HUMAN_ANTIDOTE",
@@ -2160,14 +2165,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1335,
+      "Progressed": 1336,
       "Completed": 0
     }
   ],
@@ -2175,8 +2180,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-11-22T02:59:27.1616324+00:00",
-  "LastChanged_Achievements": "2023-12-28T02:28:20.7543766+00:00",
+  "LastChanged_Achievements": "2023-12-28T03:09:38.7976439+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:18.8915743+00:00",
-  "LastUpdate_Ratings": "2023-12-28T02:18:02.0387958+00:00",
-  "LastUpdate_Achievements": "2023-12-28T02:28:20.7543991+00:00"
+  "LastUpdate_Ratings": "2023-12-28T02:58:42.0858701+00:00",
+  "LastUpdate_Achievements": "2023-12-28T03:09:38.7976688+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2262,
+  "EOS_Progressed": 2263,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 0,
@@ -6409,6 +6409,11 @@
       "Time": "2023-12-28T01:54:24.1779094+00:00",
       "NumProgressed": 2262,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T03:10:14.56464+00:00",
+      "NumProgressed": 2263,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6517,7 +6522,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "achievement_21",
@@ -6533,7 +6538,7 @@
       "Name": "Distinguished",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "achievement_23",
@@ -6557,7 +6562,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "achievement_26",
@@ -6565,7 +6570,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "achievement_27",
@@ -6645,7 +6650,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 1968
+      "UsersEstimate": 1969
     },
     {
       "ID": "achievement_36",
@@ -6661,7 +6666,7 @@
       "Name": "Off to a good start",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "achievement_38",
@@ -6693,7 +6698,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     },
     {
       "ID": "achievement_41",
@@ -6924,13 +6929,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2262,
+      "Progressed": 2263,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2262,
+      "Progressed": 2263,
       "Completed": 1
     }
   ],
@@ -6938,8 +6943,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-28T02:28:57.7952286+00:00",
+  "LastChanged_Achievements": "2023-12-28T03:10:14.5646394+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.4116758+00:00",
-  "LastUpdate_Ratings": "2023-12-28T02:21:37.1332854+00:00",
-  "LastUpdate_Achievements": "2023-12-28T02:28:57.7952952+00:00"
+  "LastUpdate_Ratings": "2023-12-28T03:02:53.2702537+00:00",
+  "LastUpdate_Achievements": "2023-12-28T03:10:14.5647089+00:00"
 }

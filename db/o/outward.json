@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4294,
+  "EOS_Progressed": 4297,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -7151,6 +7151,11 @@
       "Time": "2023-12-28T02:22:44.5831927+00:00",
       "NumProgressed": 4294,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-28T03:03:51.4187301+00:00",
+      "NumProgressed": 4297,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7162,7 +7167,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "AceDetective_9",
@@ -7186,7 +7191,7 @@
       "Name": "Apex Predator",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "BloodAndJustice_50",
@@ -7202,7 +7207,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1761
+      "UsersEstimate": 1762
     },
     {
       "ID": "CrowdPleaser",
@@ -7226,7 +7231,7 @@
       "Name": "Eureka",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -7346,7 +7351,7 @@
       "Name": "Ready for Summer",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2104
+      "UsersEstimate": 2106
     },
     {
       "ID": "ReadyforWinter_42",
@@ -7354,7 +7359,7 @@
       "Name": "Ready for Winter",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2662
+      "UsersEstimate": 2664
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -7378,7 +7383,7 @@
       "Name": "Strange amalgams",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "Tapped_22",
@@ -7386,7 +7391,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -7418,7 +7423,7 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -7426,7 +7431,7 @@
       "Name": "The Power of Family",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -7434,7 +7439,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "TheStuffOfLegends",
@@ -7482,7 +7487,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3135
+      "UsersEstimate": 3137
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7497,15 +7502,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4294,
+      "Progressed": 4297,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-28T02:22:44.5831922+00:00",
+  "LastChanged_Achievements": "2023-12-28T03:03:51.4187295+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.9488093+00:00",
-  "LastUpdate_Ratings": "2023-12-28T02:21:48.1328511+00:00",
-  "LastUpdate_Achievements": "2023-12-28T02:22:44.5832423+00:00"
+  "LastUpdate_Ratings": "2023-12-28T03:03:03.0884693+00:00",
+  "LastUpdate_Achievements": "2023-12-28T03:03:51.4187871+00:00"
 }

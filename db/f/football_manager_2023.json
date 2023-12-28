@@ -4,11 +4,11 @@
   "ProductSlug": "football-manager-2023",
   "Ranking_Rating": 148,
   "Ranking_Popularity": 139,
-  "Ranking_PopularitySum": 99,
+  "Ranking_PopularitySum": 100,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 367,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-11-08T00:00:00+00:00",
     "PcReleaseDate": "2022-11-08T00:00:00+00:00",
@@ -8997,7 +8997,7 @@
   ],
   "EOS_Progressed": 368159,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 1745,
+  "EOS_NewPlayers": 1744,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -38313,8 +38313,8 @@
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
   "LastChanged": "2023-12-27T21:58:39.4053216+00:00",
-  "LastChanged_Achievements": "2023-12-28T02:28:59.3265444+00:00",
+  "LastChanged_Achievements": "2023-12-28T03:10:16.0375652+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:39.4503669+00:00",
-  "LastUpdate_Ratings": "2023-12-28T02:17:25.4523112+00:00",
-  "LastUpdate_Achievements": "2023-12-28T02:28:59.3267339+00:00"
+  "LastUpdate_Ratings": "2023-12-28T02:58:09.1446458+00:00",
+  "LastUpdate_Achievements": "2023-12-28T03:10:16.0377648+00:00"
 }

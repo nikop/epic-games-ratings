@@ -26,8 +26,8 @@ Number of Ratings: 116  (23.09.2022)
 | Salvation | 35.00% | ~88 |
 | Delusions of Grandeur | 32.00% | ~80 |
 | I Wanna Rock | 31.00% | ~78 |
+| Love Tap | 30.00% | ~75 |
 | Maximum Vigor | 29.00% | ~72 |
-| Love Tap | 29.00% | ~72 |
 | Freeze Frame | 27.00% | ~68 |
 | Eat Your Heart Out | 27.00% | ~68 |
 | For Whom the Bell Tolls | 27.00% | ~68 |

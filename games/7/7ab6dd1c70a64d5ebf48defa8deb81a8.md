@@ -26,8 +26,8 @@ Rating: 4.08 (Ranked 999)
 | Calm before the Storm | 7.00% | ~96 |
 | Airborne | 6.00% | ~82 |
 | Miner | 6.00% | ~82 |
-| To Battle | 5.00% | ~68 |
-| Godslayer | 5.00% | ~68 |
+| To Battle | 5.00% | ~69 |
+| Godslayer | 5.00% | ~69 |
 | Clear Sight | 3.00% | ~41 |
 | Shatterer | 3.00% | ~41 |
 | Fine Feathers Make Fine Birds | 3.00% | ~41 |
@@ -42,7 +42,7 @@ Rating: 4.08 (Ranked 999)
 | All That Gold | 0.70% | ~10 |
 | Feeling Fancy | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,370 (Ranked 260)  
+Progressed: 1,371 (Ranked 260)  
 Completed: 3 (0.22%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 3 (0.22%) (Ranked 270)
 | 2023-12-25 | 1,248 | 3 |
 | 2023-12-26 | 1,308 | 3 |
 | 2023-12-27 | 1,365 | 3 |
-| 2023-12-28 | 1,370 | 3 |
+| 2023-12-28 | 1,371 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

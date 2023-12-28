@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 91.00% | ~2,925 |
-| Spectre Inductee | 67.00% | ~2,153 |
-| Medal of Exploration I | 57.00% | ~1,832 |
-| Recruit | 53.00% | ~1,703 |
-| Search and Rescue | 51.00% | ~1,639 |
-| Quarian Ally | 50.00% | ~1,607 |
-| Medal of Heroism | 44.00% | ~1,414 |
-| Honorarium of Corporate Service | 44.00% | ~1,414 |
+| Distinguished Service Medal | 91.00% | ~2,926 |
+| Spectre Inductee | 67.00% | ~2,154 |
+| Medal of Exploration I | 57.00% | ~1,833 |
+| Recruit | 53.00% | ~1,704 |
+| Search and Rescue | 51.00% | ~1,640 |
+| Quarian Ally | 50.00% | ~1,608 |
+| Medal of Heroism | 44.00% | ~1,415 |
+| Honorarium of Corporate Service | 44.00% | ~1,415 |
 | Turian Ally | 41.00% | ~1,318 |
-| Medal of Exploration II | 39.00% | ~1,253 |
-| Council Legion of Merit | 38.00% | ~1,221 |
+| Medal of Exploration II | 39.00% | ~1,254 |
+| Council Legion of Merit | 38.00% | ~1,222 |
 | Soldier Ally | 36.00% | ~1,157 |
 | Medal of Honor | 35.00% | ~1,125 |
-| Soldier | 35.00% | ~1,125 |
 | Meritorious Service Medal | 35.00% | ~1,125 |
 | Charismatic | 35.00% | ~1,125 |
 | Missing in Action | 35.00% | ~1,125 |
+| Soldier | 34.00% | ~1,093 |
 | Asari Ally | 34.00% | ~1,093 |
 | Colonial Savior | 33.00% | ~1,061 |
-| Medal of Exploration III | 32.00% | ~1,028 |
-| Krogan Ally | 32.00% | ~1,028 |
-| Principled | 32.00% | ~1,028 |
-| Very Elusive | 32.00% | ~1,028 |
-| Sentinel Ally | 31.00% | ~996 |
+| Medal of Exploration III | 32.00% | ~1,029 |
+| Krogan Ally | 32.00% | ~1,029 |
+| Principled | 32.00% | ~1,029 |
+| Very Elusive | 32.00% | ~1,029 |
+| Sentinel Ally | 31.00% | ~997 |
 | Merciless | 30.00% | ~964 |
 | Scientist | 30.00% | ~964 |
 | Paramour I | 29.00% | ~932 |
@@ -39,9 +39,9 @@
 | The Convict | 26.00% | ~836 |
 | Power Full | 26.00% | ~836 |
 | The Krogan | 25.00% | ~804 |
-| Veteran | 24.00% | ~771 |
-| Colony Defense | 24.00% | ~771 |
-| Broke, Blind, and Bedlam | 24.00% | ~771 |
+| Veteran | 24.00% | ~772 |
+| Colony Defense | 24.00% | ~772 |
+| Broke, Blind, and Bedlam | 24.00% | ~772 |
 | Ghost Ship | 22.00% | ~707 |
 | The Assassin | 22.00% | ~707 |
 | The Quarian | 22.00% | ~707 |
@@ -76,9 +76,9 @@
 | Suicide Mission | 18.00% | ~579 |
 | Against All Odds | 18.00% | ~579 |
 | Friend or Foe | 18.00% | ~579 |
-| Eye of the Hurricane | 17.00% | ~546 |
-| A House Divided | 17.00% | ~546 |
-| World Shaker | 17.00% | ~546 |
+| Eye of the Hurricane | 17.00% | ~547 |
+| A House Divided | 17.00% | ~547 |
+| World Shaker | 17.00% | ~547 |
 | Pathfinder | 16.00% | ~514 |
 | Tunnel Rat | 16.00% | ~514 |
 | Arbiter | 16.00% | ~514 |
@@ -105,7 +105,7 @@
 | Sabotage Specialist | 11.00% | ~354 |
 | Throw Mastery | 11.00% | ~354 |
 | Legend | 11.00% | ~354 |
-| Long Service Medal | 10.00% | ~321 |
+| Long Service Medal | 10.00% | ~322 |
 | Mail Slot | 9.00% | ~289 |
 | Combined Arms | 8.00% | ~257 |
 | Warp Mastery | 8.00% | ~257 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~32 |
 | The One and Only | 0.60% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,214 (Ranked 219)  
+Progressed: 3,215 (Ranked 219)  
 Completed: 11 (0.34%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,4 +236,4 @@ Completed: 11 (0.34%) (Ranked 243)
 | 2023-12-25 | 3,034 | 10 |
 | 2023-12-26 | 3,124 | 10 |
 | 2023-12-27 | 3,209 | 11 |
-| 2023-12-28 | 3,214 | 11 |
+| 2023-12-28 | 3,215 | 11 |

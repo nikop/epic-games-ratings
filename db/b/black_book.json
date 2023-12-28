@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 460,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -681,9 +681,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 63065,
+  "EOS_Progressed": 63067,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 1741,
+  "EOS_NewPlayers": 1738,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -14816,6 +14816,11 @@
       "Time": "2023-12-28T02:27:15.3527544+00:00",
       "NumProgressed": 63065,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-12-28T03:08:34.4940192+00:00",
+      "NumProgressed": 63067,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -14940,7 +14945,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 13874
+      "UsersEstimate": 13875
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -15012,7 +15017,7 @@
       "Name": "Herbalist",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6306
+      "UsersEstimate": 6307
     },
     {
       "ID": "HERBS_3",
@@ -15034,9 +15039,9 @@
       "ID": "KARNYSH_LOYAL",
       "SetID": "bijn3c8",
       "Name": "Vorsa",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3153
+      "UsersEstimate": 3784
     },
     {
       "ID": "MERMAID_FREE",
@@ -15180,7 +15185,7 @@
       "Name": "Water",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6306
+      "UsersEstimate": 6307
     },
     {
       "ID": "WOLF",
@@ -15204,7 +15209,7 @@
       "Name": "Knower",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 10090
+      "UsersEstimate": 10091
     },
     {
       "ID": "ZNATKOST_2",
@@ -15227,15 +15232,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 63065,
+      "Progressed": 63067,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-26T15:58:19.0277627+00:00",
-  "LastChanged_Achievements": "2023-12-28T02:27:15.3527538+00:00",
+  "LastChanged_Achievements": "2023-12-28T03:08:34.4940188+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:39.3063117+00:00",
-  "LastUpdate_Ratings": "2023-12-28T02:17:59.0500862+00:00",
-  "LastUpdate_Achievements": "2023-12-28T02:27:15.3528632+00:00"
+  "LastUpdate_Ratings": "2023-12-28T02:58:39.5571457+00:00",
+  "LastUpdate_Achievements": "2023-12-28T03:08:34.4941133+00:00"
 }

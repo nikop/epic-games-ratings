@@ -1,32 +1,32 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.73 (Ranked 176)  
+Rating: 4.73 (Ranked 175)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 9.00% | ~24,240 |
-| First of Many | 8.00% | ~21,546 |
-| Expanding Horizons | 6.00% | ~16,160 |
-| Not Your Average Trait | 6.00% | ~16,160 |
-| Gleaming the Cube | 5.00% | ~13,466 |
-| Quest for Survival | 5.00% | ~13,466 |
-| Familiar Face | 5.00% | ~13,466 |
-| Boss'n Up | 5.00% | ~13,466 |
-| Trait Chaser | 5.00% | ~13,466 |
-| Not So Special Now | 4.00% | ~10,773 |
-| Not a Janitor | 4.00% | ~10,773 |
-| Blue Goddess | 4.00% | ~10,773 |
-| Duality | 4.00% | ~10,773 |
-| Make Some Room | 4.00% | ~10,773 |
-| Chaos | 3.00% | ~8,080 |
-| Dark Designs | 3.00% | ~8,080 |
-| Equal Measures | 3.00% | ~8,080 |
-| Top Performer | 3.00% | ~8,080 |
-| Shhh...It's a Secret | 3.00% | ~8,080 |
-| Was This Supposed To Happen? | 3.00% | ~8,080 |
-| Almost There | 3.00% | ~8,080 |
-| Good, But Could Be Better! | 3.00% | ~8,080 |
+| The Killing Jar | 9.00% | ~24,242 |
+| First of Many | 8.00% | ~21,548 |
+| Expanding Horizons | 6.00% | ~16,161 |
+| Not Your Average Trait | 6.00% | ~16,161 |
+| Gleaming the Cube | 5.00% | ~13,468 |
+| Quest for Survival | 5.00% | ~13,468 |
+| Familiar Face | 5.00% | ~13,468 |
+| Boss'n Up | 5.00% | ~13,468 |
+| Trait Chaser | 5.00% | ~13,468 |
+| Not So Special Now | 4.00% | ~10,774 |
+| Not a Janitor | 4.00% | ~10,774 |
+| Blue Goddess | 4.00% | ~10,774 |
+| Duality | 4.00% | ~10,774 |
+| Make Some Room | 4.00% | ~10,774 |
+| Chaos | 3.00% | ~8,081 |
+| Dark Designs | 3.00% | ~8,081 |
+| Equal Measures | 3.00% | ~8,081 |
+| Top Performer | 3.00% | ~8,081 |
+| Shhh...It's a Secret | 3.00% | ~8,081 |
+| Was This Supposed To Happen? | 3.00% | ~8,081 |
+| Almost There | 3.00% | ~8,081 |
+| Good, But Could Be Better! | 3.00% | ~8,081 |
 | Am I Seeing This? | 2.00% | ~5,387 |
 | Traitor | 2.00% | ~5,387 |
 | Forever is a Long Time Coming | 2.00% | ~5,387 |
@@ -45,23 +45,23 @@ Rating: 4.73 (Ranked 176)
 | Carnage in C-Minor | 2.00% | ~5,387 |
 | The Ultimate Weapon | 2.00% | ~5,387 |
 | Regicide | 2.00% | ~970 |
-| Only Human | 1.00% | ~2,693 |
-| Red Room | 1.00% | ~2,693 |
-| No One Should Have All That Power | 1.00% | ~2,693 |
-| Maxed Out! | 1.00% | ~2,693 |
-| Transmutate | 1.00% | ~2,693 |
+| Only Human | 1.00% | ~2,694 |
+| Red Room | 1.00% | ~2,694 |
+| No One Should Have All That Power | 1.00% | ~2,694 |
+| Maxed Out! | 1.00% | ~2,694 |
+| Transmutate | 1.00% | ~2,694 |
 | Master of the Dark Arts | 1.00% | ~485 |
 | Crafty | 0.90% | ~2,424 |
-| Ghost in the Machine | 0.80% | ~2,155 |
+| Ghost in the Machine | 0.90% | ~2,424 |
 | The Trigger | 0.80% | ~2,155 |
 | The Collector | 0.80% | ~2,155 |
 | Cutting Edge | 0.70% | ~1,885 |
 | Proving Grounds | 0.60% | ~1,616 |
 | Succession | 0.40% | ~194 |
 | You Shall Pass | 0.40% | ~194 |
-| A Foul Feast | 0.30% | ~145 |
+| A Foul Feast | 0.30% | ~146 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 269,328 (Ranked 61)  
+Progressed: 269,355 (Ranked 61)  
 Completed: 685 (0.25%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 685 (0.25%) (Ranked 264)
 | 2023-12-25 | 266,094 | 657 |
 | 2023-12-26 | 267,712 | 671 |
 | 2023-12-27 | 269,168 | 685 |
-| 2023-12-28 | 269,328 | 685 |
+| 2023-12-28 | 269,355 | 685 |
 ## Awards
 Max (Great Boss Battles): 4,361  (Ranked 84)  
 Sum: 9,679 (Ranked 95)  

@@ -4,8 +4,8 @@
   "ProductSlug": "angelo-and-deemon-one-hell-of-a-quest-94d7e2",
   "Ranking_EOS_Progress": 557,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 496,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 495,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-08-15T14:00:00+00:00",
     "PcReleaseDate": "2019-09-27T12:00:00+00:00",
@@ -286,9 +286,9 @@
       "ID": "GoldenYouth",
       "SetID": "bl5ebnd",
       "Name": "Golden Youth",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Highway2Hell",
@@ -350,9 +350,9 @@
       "ID": "PrivateVisit",
       "SetID": "bl5ebnd",
       "Name": "Private Visit",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 70,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Reincarnation",
@@ -397,8 +397,8 @@
   ],
   "FirstSeen": "2023-08-17T18:58:24.9645981+00:00",
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2023-12-28T02:23:09.1371936+00:00",
+  "LastChanged_Achievements": "2023-12-28T03:04:15.3183402+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:54.7361932+00:00",
-  "LastUpdate_Ratings": "2023-12-28T02:17:07.6561417+00:00",
-  "LastUpdate_Achievements": "2023-12-28T02:23:09.1372053+00:00"
+  "LastUpdate_Ratings": "2023-12-28T02:57:53.9681582+00:00",
+  "LastUpdate_Achievements": "2023-12-28T03:04:15.3183523+00:00"
 }

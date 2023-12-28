@@ -4,52 +4,53 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 80.00% | ~204 |
-| Purification Pioneer | 76.00% | ~194 |
-| Mechanical Buddy | 71.00% | ~181 |
-| Dicesmithing Time! | 62.00% | ~158 |
+| Meissa's Savior | 80.00% | ~205 |
+| Purification Pioneer | 76.00% | ~195 |
+| Mechanical Buddy | 71.00% | ~182 |
+| Dicesmithing Time! | 63.00% | ~161 |
 | Sanctuary Guardian | 54.00% | ~138 |
 | Endless Tricks | 49.00% | ~125 |
-| Wild's Keeper | 45.00% | ~115 |
-| Mind Illuminator | 44.00% | ~112 |
-| Stellar Dismantler | 35.00% | ~89 |
-| Noctuan Champion | 35.00% | ~89 |
-| Anomaly Destroyer | 30.00% | ~76 |
-| Astral Adventurer | 30.00% | ~76 |
+| Wild's Keeper | 46.00% | ~118 |
+| Mind Illuminator | 44.00% | ~113 |
+| Stellar Dismantler | 35.00% | ~90 |
+| Noctuan Champion | 35.00% | ~90 |
+| Anomaly Destroyer | 30.00% | ~77 |
+| Astral Adventurer | 30.00% | ~77 |
 | Star Killer | 27.00% | ~69 |
-| Eridanian Champion | 24.00% | ~61 |
+| Eridanian Champion | 25.00% | ~64 |
 | Loyal Partner | 21.00% | ~54 |
 | Lacertian Champion | 21.00% | ~54 |
 | Apian Champion | 20.00% | ~51 |
-| Shard Spender | 17.00% | ~43 |
-| Unbeatable | 17.00% | ~43 |
+| Shard Spender | 18.00% | ~46 |
+| Unbeatable | 17.00% | ~44 |
 | Sadistic Plan | 15.00% | ~38 |
 | Behenian Champion | 15.00% | ~38 |
+| Astral Seeker | 10.00% | ~26 |
 | Aquarian Champion | 10.00% | ~26 |
-| Astral Seeker | 9.00% | ~23 |
 | Heavy Purger | 9.00% | ~23 |
 | Stellar Haste | 9.00% | ~23 |
 | Wave Bender | 9.00% | ~23 |
 | Heart Gate | 8.00% | ~20 |
+| The Corruption Goddess | 8.00% | ~20 |
+| The Goddes Avatar | 8.00% | ~20 |
 | Favored by the Cosmos | 7.00% | ~18 |
-| The Corruption Goddess | 7.00% | ~18 |
-| The Goddes Avatar | 7.00% | ~18 |
 | Anomaly Control | 6.00% | ~15 |
 | Artificer | 5.00% | ~13 |
 | Can't touch this | 5.00% | ~13 |
 | Prestidigitation | 5.00% | ~13 |
+| The Dark Moon | 5.00% | ~13 |
 | Apian Hero | 5.00% | ~13 |
 | Astrarium of Holding | 4.00% | ~10 |
 | Denying Destiny | 4.00% | ~10 |
+| If I Had Failed... | 4.00% | ~10 |
 | The Chaos Artisan | 4.00% | ~10 |
-| The Dark Moon | 4.00% | ~10 |
 | The Distorted Sage | 4.00% | ~10 |
 | Behenian Hero | 4.00% | ~10 |
 | Lacertian Hero | 4.00% | ~10 |
 | Noctuan Hero | 4.00% | ~10 |
-| If I Had Failed... | 3.00% | ~8 |
 | Purification Avatar | 3.00% | ~8 |
 | The Abyssal Terror | 3.00% | ~8 |
+| The Ardent Prince | 3.00% | ~8 |
 | Behenian Mastery | 3.00% | ~8 |
 | Eridanian Hero | 3.00% | ~8 |
 | Anomaly Master | 2.00% | ~5 |
@@ -58,7 +59,6 @@
 | Pocket Astrarium | 2.00% | ~5 |
 | Reflexive Mind | 2.00% | ~5 |
 | Sentinelphobic | 2.00% | ~5 |
-| The Ardent Prince | 2.00% | ~5 |
 | The Raging Skies | 2.00% | ~5 |
 | Unepic Hero | 2.00% | ~5 |
 | Apian Mastery | 2.00% | ~5 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255 (Ranked 398)  
+Progressed: 256 (Ranked 396)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,4 +166,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 241 | 0 |
 | 2023-12-26 | 246 | 0 |
 | 2023-12-27 | 253 | 0 |
-| 2023-12-28 | 255 | 0 |
+| 2023-12-28 | 256 | 0 |

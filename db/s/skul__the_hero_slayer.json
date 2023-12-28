@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -1295,9 +1295,9 @@
       "Count": 145
     }
   ],
-  "EOS_Progressed": 12776,
+  "EOS_Progressed": 12777,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 1284,
+  "EOS_NewPlayers": 1281,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -7795,6 +7795,11 @@
       "Time": "2023-12-28T02:27:57.2411531+00:00",
       "NumProgressed": 12776,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-28T03:09:15.4803283+00:00",
+      "NumProgressed": 12777,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 24,
@@ -7862,7 +7867,7 @@
       "Name": "Deadly Power",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -7934,7 +7939,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 7793
+      "UsersEstimate": 7794
     },
     {
       "ID": "SavedElderEnt_2",
@@ -7966,7 +7971,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 11882
+      "UsersEstimate": 11883
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -7997,15 +8002,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 12776,
+      "Progressed": 12777,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-12-26T19:02:32.7110984+00:00",
-  "LastChanged_Achievements": "2023-12-28T02:27:57.2411527+00:00",
+  "LastChanged_Achievements": "2023-12-28T03:09:15.4803277+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:50.2570234+00:00",
-  "LastUpdate_Ratings": "2023-12-28T02:16:11.88995+00:00",
-  "LastUpdate_Achievements": "2023-12-28T02:27:57.2412086+00:00"
+  "LastUpdate_Ratings": "2023-12-28T02:56:58.8779698+00:00",
+  "LastUpdate_Achievements": "2023-12-28T03:09:15.480373+00:00"
 }

@@ -5,27 +5,27 @@ Rating: 4.22 (Ranked 928)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,795 |
-| Battlefields Have Memories | 80.00% | ~1,650 |
-| Enlisted | 73.00% | ~1,506 |
-| Maybe Engage a Little | 67.00% | ~1,382 |
-| No More Names | 49.00% | ~1,011 |
-| Initiate | 35.00% | ~722 |
-| Thrada-Kul | 31.00% | ~640 |
-| Gravity-Challenged Rocks | 25.00% | ~516 |
-| Socialite | 23.00% | ~474 |
-| Soldier | 21.00% | ~433 |
-| All the Major Food Groups | 21.00% | ~433 |
-| Beggars Would Ride | 19.00% | ~392 |
-| Control is an Illusion | 17.00% | ~351 |
-| The Means to Save It | 15.00% | ~309 |
-| Resilience to Sin | 13.00% | ~268 |
+| Unforeseen | 87.00% | ~1,799 |
+| Battlefields Have Memories | 80.00% | ~1,654 |
+| Enlisted | 73.00% | ~1,510 |
+| Maybe Engage a Little | 67.00% | ~1,386 |
+| No More Names | 49.00% | ~1,013 |
+| Initiate | 35.00% | ~724 |
+| Thrada-Kul | 31.00% | ~641 |
+| Gravity-Challenged Rocks | 25.00% | ~517 |
+| Socialite | 23.00% | ~476 |
+| Soldier | 21.00% | ~434 |
+| All the Major Food Groups | 21.00% | ~434 |
+| Beggars Would Ride | 19.00% | ~393 |
+| Control is an Illusion | 17.00% | ~352 |
+| The Means to Save It | 15.00% | ~310 |
+| Resilience to Sin | 13.00% | ~269 |
 | A Familiar Nest | 12.00% | ~248 |
 | Geas Aristeya | 12.00% | ~248 |
 | Periapt Alizarin | 12.00% | ~248 |
 | A Perfect Cycle | 11.00% | ~227 |
 | Recruit | 11.00% | ~227 |
-| Armsman | 10.00% | ~206 |
+| Armsman | 10.00% | ~207 |
 | Lights Army | 8.00% | ~165 |
 | Periapt Cerulean | 6.00% | ~124 |
 | Good Boy | 6.00% | ~124 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 928)
 | Out of Time | 0.20% | ~4 |
 | Fowl Play | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,063 (Ranked 238)  
+Progressed: 2,068 (Ranked 238)  
 Completed: 2 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 2 (0.10%) (Ranked 305)
 | 2023-12-25 | 1,876 | 2 |
 | 2023-12-26 | 1,969 | 2 |
 | 2023-12-27 | 2,049 | 2 |
-| 2023-12-28 | 2,063 | 2 |
+| 2023-12-28 | 2,068 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

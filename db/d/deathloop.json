@@ -4,11 +4,11 @@
   "ProductSlug": "deathloop",
   "Ranking_Rating": 643,
   "Ranking_Popularity": 450,
-  "Ranking_PopularitySum": 395,
+  "Ranking_PopularitySum": 392,
   "Ranking_EOS_Progress": 816,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 566,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 565,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-03-24T15:00:00+00:00",
     "PcReleaseDate": "2021-09-14T15:00:00+00:00",
@@ -1129,10 +1129,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 262,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2023-12-28T02:58:15.0715351+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 264,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 262,
+  "NumberOfAwards": 264,
   "NumberOfAwardsMax": 49,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -1188,7 +1194,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 21
+      "Count": 23
     }
   ],
   "EOS_Progressed": 0,
@@ -1202,8 +1208,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:46.7837121+00:00",
-  "LastChanged": "2023-12-27T23:58:54.3565458+00:00",
+  "LastChanged": "2023-12-28T02:58:15.0715349+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:57.3195393+00:00",
-  "LastUpdate_Ratings": "2023-12-28T02:17:31.9558193+00:00",
-  "LastUpdate_Achievements": "2023-12-28T02:28:00.2397207+00:00"
+  "LastUpdate_Ratings": "2023-12-28T02:58:15.0715354+00:00",
+  "LastUpdate_Achievements": "2023-12-28T03:09:18.9061526+00:00"
 }

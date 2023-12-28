@@ -11,13 +11,13 @@ Rating: 4.21 (Ranked 935)
 | Desperate Times | 17.00% | ~3,341 |
 | Get a Grip | 16.00% | ~3,144 |
 | Chew 'Em Up | 14.00% | ~2,751 |
-| Float Like A Butterfly | 13.00% | ~2,554 |
-| Reforged | 13.00% | ~2,554 |
+| Float Like A Butterfly | 13.00% | ~2,555 |
+| Reforged | 13.00% | ~2,555 |
 | Workplace Hazard | 11.00% | ~2,162 |
 | If the SHU Fits... | 11.00% | ~2,162 |
 | Without A Paddle | 10.00% | ~1,965 |
-| In the Pipe, Five by Five | 9.00% | ~1,768 |
-| Crash Site | 9.00% | ~1,768 |
+| In the Pipe, Five by Five | 9.00% | ~1,769 |
+| Crash Site | 9.00% | ~1,769 |
 | Two Heads Are Better Than One | 8.00% | ~1,572 |
 | Terminated | 8.00% | ~1,572 |
 | Power Up | 8.00% | ~1,572 |
@@ -32,7 +32,7 @@ Rating: 4.21 (Ranked 935)
 | The Commonality | 4.00% | ~786 |
 | One Last Job | 3.00% | ~227 |
 | Armed to the Teeth | 1.00% | ~76 |
-| Mugshot | 1.00% | ~196 |
+| Mugshot | 1.00% | ~197 |
 | Big Spender | 1.00% | ~76 |
 | This Isn't About Escape | 1.00% | ~76 |
 | Instigator | 0.90% | ~68 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 935)
 | Big Game Hunter | 0.10% | ~8 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,650 (Ranked 149)  
+Progressed: 19,652 (Ranked 149)  
 Completed: 82 (0.42%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 82 (0.42%) (Ranked 229)
 | 2023-12-25 | 19,287 | 82 |
 | 2023-12-26 | 19,464 | 82 |
 | 2023-12-27 | 19,632 | 82 |
-| 2023-12-28 | 19,650 | 82 |
+| 2023-12-28 | 19,652 | 82 |
 ## Awards
 Max (Amazing Characters): 104  (Ranked 367)  
 Sum: 522 (Ranked 329)  

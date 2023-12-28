@@ -23,7 +23,7 @@
 | Battle Ready | 13.00% | ~14 |
 | All Geared Up | 12.00% | ~13 |
 | The End | 12.00% | ~13 |
-| Good Deed | 11.00% | ~12 |
+| Good Deed | 12.00% | ~13 |
 | Music Collector | 10.00% | ~10 |
 | Ultimate Team! | 10.00% | ~10 |
 | Gamer | 9.00% | ~9 |

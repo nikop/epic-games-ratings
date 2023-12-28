@@ -7801,7 +7801,7 @@
       "Count": 3803
     }
   ],
-  "EOS_Progressed": 148041,
+  "EOS_Progressed": 148045,
   "EOS_Completed": 336,
   "EOS_NewPlayers": 1443,
   "EOS_NewCompleters": 10,
@@ -34231,6 +34231,11 @@
       "Time": "2023-12-28T02:22:17.535549+00:00",
       "NumProgressed": 148041,
       "NumCompleted": 336
+    },
+    {
+      "Time": "2023-12-28T03:03:35.2324335+00:00",
+      "NumProgressed": 148045,
+      "NumCompleted": 336
     }
   ],
   "TotalAchievements": 112,
@@ -34618,7 +34623,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8882
+      "UsersEstimate": 8883
     },
     {
       "ID": "expansion02",
@@ -34714,7 +34719,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11843
+      "UsersEstimate": 11844
     },
     {
       "ID": "gold02",
@@ -34826,7 +34831,7 @@
       "Name": "Budding Merchant",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8882
+      "UsersEstimate": 8883
     },
     {
       "ID": "level02",
@@ -35018,7 +35023,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8882
+      "UsersEstimate": 8883
     },
     {
       "ID": "sell02",
@@ -35137,15 +35142,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 148041,
+      "Progressed": 148045,
       "Completed": 336
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-27T23:03:28.7872278+00:00",
-  "LastChanged_Achievements": "2023-12-28T02:22:17.5355485+00:00",
+  "LastChanged_Achievements": "2023-12-28T03:03:35.2324326+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:55.73992+00:00",
-  "LastUpdate_Ratings": "2023-12-28T02:22:02.968879+00:00",
-  "LastUpdate_Achievements": "2023-12-28T02:22:17.535782+00:00"
+  "LastUpdate_Ratings": "2023-12-28T03:03:19.1463132+00:00",
+  "LastUpdate_Achievements": "2023-12-28T03:03:35.2326789+00:00"
 }

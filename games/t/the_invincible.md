@@ -17,7 +17,7 @@ Rating: 4.54 (Ranked 538)
 | The Necroevolution | 27.00% | ~293 |
 | Peacemaker | 21.00% | ~228 |
 | Volcanologist | 21.00% | ~228 |
-| On her own | 19.00% | ~206 |
+| On her own | 20.00% | ~217 |
 | Fierce fight | 18.00% | ~195 |
 | Evacuation | 18.00% | ~195 |
 | Beyond divisions | 17.00% | ~184 |

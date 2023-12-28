@@ -13,26 +13,26 @@ Number of Ratings: 7,767  (23.09.2022)
 | This guy... again? | 5.00% | ~258 |
 | Ploughshares to Swords | 5.00% | ~258 |
 | Bloody Graduation | 5.00% | ~258 |
-| Serenity Now! | 4.00% | ~5,211 |
-| Not Today! | 4.00% | ~5,211 |
-| Creep and Sleep | 4.00% | ~5,211 |
-| Meat and Greet | 4.00% | ~5,211 |
-| Catch and Decease | 4.00% | ~5,211 |
-| Overdue Notice | 4.00% | ~5,211 |
-| Escape from the Black Hole | 4.00% | ~5,211 |
-| Rush Hour | 4.00% | ~5,211 |
-| To Grandmother's House | 4.00% | ~5,211 |
-| Don't Make Me Turn This Coach Around | 3.00% | ~3,908 |
-| It Rings a Bell | 3.00% | ~3,908 |
-| It Happens | 3.00% | ~3,908 |
-| Spelunker | 3.00% | ~3,908 |
-| Merry Time | 3.00% | ~3,908 |
-| Harvest Festival | 3.00% | ~3,908 |
-| Ramble On | 3.00% | ~3,908 |
-| Whale | 3.00% | ~3,908 |
-| A Place to Lay Your Head | 3.00% | ~3,908 |
-| FNG | 3.00% | ~3,908 |
-| Nope | 3.00% | ~3,908 |
+| Serenity Now! | 4.00% | ~5,212 |
+| Not Today! | 4.00% | ~5,212 |
+| Creep and Sleep | 4.00% | ~5,212 |
+| Meat and Greet | 4.00% | ~5,212 |
+| Catch and Decease | 4.00% | ~5,212 |
+| Overdue Notice | 4.00% | ~5,212 |
+| Escape from the Black Hole | 4.00% | ~5,212 |
+| Rush Hour | 4.00% | ~5,212 |
+| To Grandmother's House | 4.00% | ~5,212 |
+| Don't Make Me Turn This Coach Around | 3.00% | ~3,909 |
+| It Rings a Bell | 3.00% | ~3,909 |
+| It Happens | 3.00% | ~3,909 |
+| Spelunker | 3.00% | ~3,909 |
+| Merry Time | 3.00% | ~3,909 |
+| Harvest Festival | 3.00% | ~3,909 |
+| Ramble On | 3.00% | ~3,909 |
+| Whale | 3.00% | ~3,909 |
+| A Place to Lay Your Head | 3.00% | ~3,909 |
+| FNG | 3.00% | ~3,909 |
+| Nope | 3.00% | ~3,909 |
 | Friends 'Til the End | 3.00% | ~155 |
 | Resurrection | 2.00% | ~2,606 |
 | Unleash Hell | 2.00% | ~2,606 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,283 (Ranked 87)  
+Progressed: 130,288 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,16 +328,16 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-25 | 129,858 | 3 |
 | 2023-12-26 | 130,068 | 3 |
 | 2023-12-27 | 130,259 | 3 |
-| 2023-12-28 | 130,283 | 3 |
+| 2023-12-28 | 130,288 | 3 |
 ## Awards
 Max (Character Customization): 7,888  (Ranked 50)  
-Sum: 21,176 (Ranked 58)  
+Sum: 21,180 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,888 |
 | This game has Diverse Characters | 1,782 |
-| This game has Challenging Combat | 1,642 |
+| This game has Challenging Combat | 1,646 |
 | This game is Highly Recommended | 1,579 |
 | This game is Extremely Fun | 1,497 |
 | This game has Amazing Characters | 1,496 |
@@ -684,4 +684,4 @@ Diff (max vs sum): -8
 | 2023-12-25 | 4.68 | - | 7,875 | 21,096 |
 | 2023-12-26 | 4.68 | - | 7,882 | 21,127 |
 | 2023-12-27 | 4.68 | - | 7,882 | 21,156 |
-| 2023-12-28 | 4.68 | - | 7,888 | 21,176 |
+| 2023-12-28 | 4.68 | - | 7,888 | 21,180 |

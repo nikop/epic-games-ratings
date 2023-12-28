@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,859 |
-| Life is your teacher | 4.00% | ~29,859 |
-| The Assault | 3.00% | ~22,394 |
-| Lightning Hands | 3.00% | ~22,394 |
+| The Old Grandmaster | 4.00% | ~29,860 |
+| Life is your teacher | 4.00% | ~29,860 |
+| The Assault | 3.00% | ~22,395 |
+| Lightning Hands | 3.00% | ~22,395 |
 | The Hateful Pole Fighter | 2.00% | ~14,930 |
 | A Lady's Blood in the Snow | 2.00% | ~14,930 |
 | Stuntmaster | 2.00% | ~14,930 |
@@ -31,7 +31,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Scareless | 0.90% | ~6,718 |
 | Kung-Fu Tussle | 0.90% | ~6,718 |
 | Dance of the Praying Mantis | 0.80% | ~5,972 |
-| Fight the way you practice | 0.70% | ~390 |
+| Fight the way you practice | 0.70% | ~391 |
 | Martial Hub | 0.60% | ~335 |
 | Muk Yan Master | 0.50% | ~3,732 |
 | Tiger on Fire | 0.50% | ~3,732 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~56 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 746,478 (Ranked 23)  
+Progressed: 746,499 (Ranked 23)  
 Completed: 12,967 (1.74%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 12,967 (1.74%) (Ranked 141)
 | 2023-12-25 | 744,462 | 12,966 |
 | 2023-12-26 | 745,555 | 12,967 |
 | 2023-12-27 | 746,407 | 12,967 |
-| 2023-12-28 | 746,478 | 12,967 |
+| 2023-12-28 | 746,499 | 12,967 |
 ## Awards
 Max (Great Boss Battles): 7,028  (Ranked 55)  
 Sum: 11,888 (Ranked 87)  
