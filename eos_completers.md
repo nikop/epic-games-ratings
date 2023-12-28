@@ -62,15 +62,15 @@
 | 60 | [Scorn](games/s/scorn.md) | 6.95% |
 | 61 | [Sonic Origins](games/s/sonic_origins.md) | 6.75% |
 | 62 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 6.67% |
-| 62 | [Time Loader](games/t/time_loader.md) | 6.67% |
+| 63 | [Time Loader](games/t/time_loader.md) | 6.62% |
 | 64 | [Anna's Quest](games/a/anna's_quest.md) | 6.59% |
 | 65 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.45% |
-| 66 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.37% |
+| 66 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.35% |
 | 67 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 67 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 6.25% |
 | 69 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
 | 70 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.13% |
-| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.94% |
+| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.99% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.80% |
 | 73 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 74 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 5.36% |
@@ -106,7 +106,7 @@
 | 104 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 3.12% |
 | 104 | [Monster Harvest](games/m/monster_harvest.md) | 3.12% |
 | 104 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.12% |
-| 107 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.10% |
+| 107 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.09% |
 | 108 | [HordeCore](games/h/hordecore.md) | 3.03% |
 | 108 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 3.03% |
 | 110 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.99% |
@@ -150,11 +150,11 @@
 | 148 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.46% |
 | 149 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.39% |
 | 149 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.39% |
-| 151 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.37% |
+| 151 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.36% |
 | 152 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.35% |
 | 153 | [Chorus](games/c/chorus.md) | 1.33% |
 | 153 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.33% |
-| 155 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 1.32% |
+| 155 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 1.31% |
 | 156 | [Poosh XL](games/p/poosh_xl.md) | 1.30% |
 | 157 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.26% |
 | 157 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.26% |
@@ -170,15 +170,15 @@
 | 168 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.05% |
 | 169 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.04% |
 | 170 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.03% |
-| 171 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.02% |
 | 171 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.02% |
-| 173 | [Sable](games/s/sable.md) | 1.01% |
+| 172 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.01% |
+| 172 | [Sable](games/s/sable.md) | 1.01% |
 | 174 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.98% |
 | 175 | [Colossal Cave](games/c/colossal_cave.md) | 0.97% |
 | 175 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.97% |
 | 177 | [Trifox](games/t/trifox.md) | 0.96% |
-| 178 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.94% |
-| 179 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 0.93% |
+| 178 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 0.93% |
+| 178 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.93% |
 | 180 | [Hades](games/h/hades.md) | 0.91% |
 | 181 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.89% |
 | 181 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.89% |
@@ -190,8 +190,8 @@
 | 188 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.81% |
 | 189 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
 | 190 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.79% |
-| 191 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.77% |
-| 192 | [Infindustry](games/i/infindustry.md) | 0.76% |
+| 191 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.76% |
+| 191 | [Infindustry](games/i/infindustry.md) | 0.76% |
 | 193 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
 | 193 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.75% |
 | 195 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.72% |
