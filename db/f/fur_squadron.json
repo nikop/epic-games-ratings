@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 502,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 479,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-04T13:30:00+00:00",
     "PcReleaseDate": "2023-03-16T00:00:00+00:00",
@@ -490,25 +490,25 @@
       "ID": "COMPLETED_BLAZE_4",
       "SetID": "d91enl3",
       "Name": "Whatever it is, fix it!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "COMPLETED_BLAZE_5",
       "SetID": "d91enl3",
       "Name": "The opposite of good news",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "COMPLETED_BLAZE_6",
       "SetID": "d91enl3",
       "Name": "My Emperor... I\u0027ve failed you!",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "COMPLETED_KIRO_1",
@@ -617,8 +617,8 @@
   ],
   "FirstSeen": "2023-12-13T19:57:08.7340139+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:54.8735108+00:00",
-  "LastChanged_Achievements": "2023-12-28T10:03:28.8889744+00:00",
+  "LastChanged_Achievements": "2023-12-28T11:03:49.5884138+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:14.8974766+00:00",
-  "LastUpdate_Ratings": "2023-12-28T09:59:55.7090247+00:00",
-  "LastUpdate_Achievements": "2023-12-28T10:03:28.8889866+00:00"
+  "LastUpdate_Ratings": "2023-12-28T11:00:01.3715706+00:00",
+  "LastUpdate_Achievements": "2023-12-28T11:03:49.5884282+00:00"
 }

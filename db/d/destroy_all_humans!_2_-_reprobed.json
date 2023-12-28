@@ -2,7 +2,7 @@
   "ID": "4d62b26703d24f6d919750b3d88b6d52",
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
-  "Ranking_Rating": 554,
+  "Ranking_Rating": 539,
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 521,
   "Ranking_EOS_Progress": 410,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.53,
+  "Rating": 4.54,
   "NumberOfRatings": 90,
   "RatingHistory": [
     {
@@ -260,6 +260,12 @@
     {
       "Time": "2023-12-12T09:57:49.6526008+00:00",
       "Rating": 4.53,
+      "NumberOfAwards": 36,
+      "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-12-28T10:58:39.1665154+00:00",
+      "Rating": 4.54,
       "NumberOfAwards": 36,
       "NumberOfAwardsMax": 36
     }
@@ -1521,9 +1527,9 @@
   "FirstSeen": "2022-08-30T21:00:25.2604466+00:00",
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
-  "LastChanged": "2023-12-12T09:57:49.6526005+00:00",
-  "LastChanged_Achievements": "2023-12-28T10:08:52.4076344+00:00",
+  "LastChanged": "2023-12-28T10:58:39.1665152+00:00",
+  "LastChanged_Achievements": "2023-12-28T11:09:16.143678+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-28T09:58:31.6513079+00:00",
-  "LastUpdate_Achievements": "2023-12-28T10:08:52.4076612+00:00"
+  "LastUpdate_Ratings": "2023-12-28T10:58:39.1665158+00:00",
+  "LastUpdate_Achievements": "2023-12-28T11:09:16.1437129+00:00"
 }

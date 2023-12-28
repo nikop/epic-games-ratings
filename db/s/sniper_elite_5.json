@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -649,9 +649,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4140,
+  "EOS_Progressed": 4141,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -9089,6 +9089,11 @@
       "Time": "2023-12-28T02:28:09.1022784+00:00",
       "NumProgressed": 4140,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-28T11:09:29.8389926+00:00",
+      "NumProgressed": 4141,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9308,7 +9313,7 @@
       "Name": "Lord of War",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1284
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -9356,7 +9361,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -9364,7 +9369,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -9436,7 +9441,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1284
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -9572,7 +9577,7 @@
       "Name": "Operation Foxley",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -9667,13 +9672,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4091,
+      "Progressed": 4092,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4140,
+      "Progressed": 4141,
       "Completed": 11
     }
   ],
@@ -9681,8 +9686,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-20T09:59:10.4485665+00:00",
-  "LastChanged_Achievements": "2023-12-28T10:09:06.8377081+00:00",
+  "LastChanged_Achievements": "2023-12-28T11:09:29.838992+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:02.7105407+00:00",
-  "LastUpdate_Ratings": "2023-12-28T09:59:25.9902223+00:00",
-  "LastUpdate_Achievements": "2023-12-28T10:09:06.8377949+00:00"
+  "LastUpdate_Ratings": "2023-12-28T10:59:30.6806862+00:00",
+  "LastUpdate_Achievements": "2023-12-28T11:09:29.8390888+00:00"
 }

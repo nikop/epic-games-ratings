@@ -4,7 +4,7 @@
   "ProductSlug": "shadow-tactics",
   "Ranking_Rating": 297,
   "Ranking_Popularity": 203,
-  "Ranking_PopularitySum": 146,
+  "Ranking_PopularitySum": 147,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 87,
@@ -2324,10 +2324,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 4928,
       "NumberOfAwardsMax": 589
+    },
+    {
+      "Time": "2023-12-28T11:00:03.257404+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4930,
+      "NumberOfAwardsMax": 589
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4928,
+  "NumberOfAwards": 4930,
   "NumberOfAwardsMax": 589,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2359,7 +2365,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 464
+      "Count": 466
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2398,9 +2404,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 222201,
+  "EOS_Progressed": 222207,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 1609,
+  "EOS_NewPlayers": 1604,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -31363,6 +31369,11 @@
       "Time": "2023-12-28T10:04:36.9637462+00:00",
       "NumProgressed": 222201,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-12-28T11:04:55.9296573+00:00",
+      "NumProgressed": 222207,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 44,
@@ -31374,7 +31385,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 24442
+      "UsersEstimate": 24443
     },
     {
       "ID": "AtheistOx",
@@ -31414,7 +31425,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19998
+      "UsersEstimate": 19999
     },
     {
       "ID": "FiveShadows",
@@ -31446,7 +31457,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 26664
+      "UsersEstimate": 26665
     },
     {
       "ID": "HappyLittleAccidents",
@@ -31590,7 +31601,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19998
+      "UsersEstimate": 19999
     },
     {
       "ID": "Rollin",
@@ -31598,7 +31609,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19998
+      "UsersEstimate": 19999
     },
     {
       "ID": "StillRollin",
@@ -31622,7 +31633,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17776
+      "UsersEstimate": 17777
     },
     {
       "ID": "TanukiTime",
@@ -31630,7 +31641,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19998
+      "UsersEstimate": 19999
     },
     {
       "ID": "TheCave",
@@ -31662,7 +31673,7 @@
       "Name": "Thorough",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 24442
+      "UsersEstimate": 24443
     },
     {
       "ID": "TimeParadox",
@@ -31718,22 +31729,22 @@
       "Name": "Yabu",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 17776
+      "UsersEstimate": 17777
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 222201,
+      "Progressed": 222207,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2023-12-28T01:44:13.8403419+00:00",
-  "LastChanged_Achievements": "2023-12-28T10:04:36.9637459+00:00",
+  "LastChanged": "2023-12-28T11:00:03.2573975+00:00",
+  "LastChanged_Achievements": "2023-12-28T11:04:55.9296567+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:16.1006959+00:00",
-  "LastUpdate_Ratings": "2023-12-28T09:59:57.6061128+00:00",
-  "LastUpdate_Achievements": "2023-12-28T10:04:36.9638884+00:00"
+  "LastUpdate_Ratings": "2023-12-28T11:00:03.2574045+00:00",
+  "LastUpdate_Achievements": "2023-12-28T11:04:55.9298467+00:00"
 }

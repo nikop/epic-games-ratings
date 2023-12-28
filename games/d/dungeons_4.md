@@ -11,8 +11,8 @@
 | The Hellwoods | 77.00% | ~500 |
 | The Plains of Strothalm | 72.00% | ~468 |
 | Experienced Thalya | 72.00% | ~468 |
+| Bad Elves Go Everywhere | 69.00% | ~448 |
 | Thalya's Concentrated Fury | 68.00% | ~442 |
-| Bad Elves Go Everywhere | 68.00% | ~442 |
 | Heroes’ Gorge | 64.00% | ~416 |
 | Master of Magic | 63.00% | ~410 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~403 |
@@ -21,7 +21,7 @@
 | It's Warm and Cozy at Home | 58.00% | ~377 |
 | Trap Master | 55.00% | ~358 |
 | Minions, Minions! | 55.00% | ~358 |
-| Hard Work | 53.00% | ~344 |
+| Hard Work | 54.00% | ~351 |
 | The Big Eaty | 53.00% | ~344 |
 | YOU SHALL NOT PASS! | 50.00% | ~325 |
 | “… like son” | 50.00% | ~325 |
@@ -41,8 +41,8 @@
 | Doom Hill | 29.00% | ~188 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~182 |
 | Forbidden Knowledge | 28.00% | ~182 |
+| Brimstone Shaken, Not Stirred | 28.00% | ~182 |
 | Hungry, Hungry Gorgu! | 27.00% | ~176 |
-| Brimstone Shaken, Not Stirred | 27.00% | ~176 |
 | Stop Tanos! | 26.00% | ~169 |
 | Sabotage! | 26.00% | ~169 |
 | Raiders of the Lost Stone | 26.00% | ~169 |
@@ -57,9 +57,9 @@
 | To Infinity And Beyond! | 18.00% | ~117 |
 | Sacrificial Pit = Garbage Disposal? | 17.00% | ~111 |
 | Evilification | 17.00% | ~111 |
+| Heal Heal Blessing | 16.00% | ~104 |
 | Mirror, Mirror | 15.00% | ~98 |
 | Untouchable | 15.00% | ~98 |
-| Heal Heal Blessing | 15.00% | ~98 |
 | Laser Eyes Are So Useless | 13.00% | ~84 |
 | Hands Off My Stones | 12.00% | ~78 |
 | Gorgu is in the Best of Health | 11.00% | ~72 |

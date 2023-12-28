@@ -5,38 +5,38 @@ Rating: 4.21 (Ranked 936)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 19.00% | ~3,739 |
-| The Outer Way | 19.00% | ~3,739 |
-| Paper Jams | 17.00% | ~3,345 |
-| Desperate Times | 17.00% | ~3,345 |
-| Get a Grip | 16.00% | ~3,149 |
-| Chew 'Em Up | 14.00% | ~2,755 |
-| Float Like A Butterfly | 13.00% | ~2,558 |
-| Reforged | 13.00% | ~2,558 |
-| Workplace Hazard | 12.00% | ~2,361 |
-| If the SHU Fits... | 12.00% | ~2,361 |
-| Without A Paddle | 10.00% | ~1,968 |
-| In the Pipe, Five by Five | 9.00% | ~1,771 |
-| Crash Site | 9.00% | ~1,771 |
-| Two Heads Are Better Than One | 8.00% | ~1,574 |
-| Terminated | 8.00% | ~1,574 |
-| Power Up | 8.00% | ~1,574 |
+| Flesh Wound | 19.00% | ~3,741 |
+| The Outer Way | 19.00% | ~3,741 |
+| Get a Grip | 17.00% | ~3,347 |
+| Paper Jams | 17.00% | ~3,347 |
+| Desperate Times | 17.00% | ~3,347 |
+| Chew 'Em Up | 14.00% | ~2,756 |
+| Float Like A Butterfly | 13.00% | ~2,559 |
+| Reforged | 13.00% | ~2,559 |
+| Workplace Hazard | 12.00% | ~2,363 |
+| If the SHU Fits... | 12.00% | ~2,363 |
+| Without A Paddle | 10.00% | ~1,969 |
+| In the Pipe, Five by Five | 9.00% | ~1,772 |
+| Crash Site | 9.00% | ~1,772 |
+| Two Heads Are Better Than One | 8.00% | ~1,575 |
+| Terminated | 8.00% | ~1,575 |
+| Power Up | 8.00% | ~1,575 |
 | Giving Back | 7.00% | ~1,378 |
 | You Need a Gun | 7.00% | ~1,378 |
 | What Lies Beneath | 7.00% | ~1,378 |
 | Full Circle | 7.00% | ~1,378 |
 | I Do Belong Here | 6.00% | ~1,181 |
-| Keep Fighting | 6.00% | ~456 |
-| It's Time | 5.00% | ~380 |
-| In Striking Distance | 4.00% | ~787 |
-| The Commonality | 4.00% | ~787 |
+| Keep Fighting | 6.00% | ~457 |
+| It's Time | 5.00% | ~381 |
+| In Striking Distance | 4.00% | ~788 |
+| The Commonality | 4.00% | ~788 |
 | One Last Job | 3.00% | ~228 |
 | Armed to the Teeth | 1.00% | ~76 |
 | Mugshot | 1.00% | ~197 |
 | Big Spender | 1.00% | ~76 |
 | This Isn't About Escape | 1.00% | ~76 |
-| Instigator | 0.90% | ~68 |
-| Grim Reaper | 0.80% | ~157 |
+| Instigator | 0.90% | ~69 |
+| Grim Reaper | 0.80% | ~158 |
 | Parole Denied | 0.80% | ~61 |
 | Information Overload | 0.80% | ~61 |
 | Quick Pick | 0.70% | ~53 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 936)
 | Big Game Hunter | 0.10% | ~8 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,679 (Ranked 149)  
+Progressed: 19,688 (Ranked 149)  
 Completed: 82 (0.42%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 82 (0.42%) (Ranked 229)
 | 2023-12-25 | 19,287 | 82 |
 | 2023-12-26 | 19,464 | 82 |
 | 2023-12-27 | 19,632 | 82 |
-| 2023-12-28 | 19,679 | 82 |
+| 2023-12-28 | 19,688 | 82 |
 ## Awards
 Max (Amazing Characters): 104  (Ranked 367)  
 Sum: 525 (Ranked 329)  

@@ -25,19 +25,19 @@ Number of Ratings: 67  (23.09.2022)
 | Full of Hell | 0.40% | ~1 |
 | Gatekeeper | 0.40% | ~1 |
 | Infested | 0.40% | ~1 |
+| Mint III | 0.40% | ~1 |
 | The Promised End | 0.40% | ~1 |
 | Walking Armory | 0.40% | ~1 |
 | Wicked Killington | 0.40% | ~1 |
 | Belial | 0.00% | ~0 |
 | Blademaster | 0.00% | ~0 |
 | Dagon | 0.00% | ~0 |
-| Mint III | 0.00% | ~0 |
 | Moloch | 0.00% | ~0 |
 | Ready to Blow | 0.00% | ~0 |
 | Respect For Animals | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 262 (Ranked 394)  
+Progressed: 263 (Ranked 394)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,7 +52,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 221 | 0 |
 | 2023-12-26 | 236 | 0 |
 | 2023-12-27 | 256 | 0 |
-| 2023-12-28 | 262 | 0 |
+| 2023-12-28 | 263 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 463)  
 Sum: 45 (Ranked 507)  

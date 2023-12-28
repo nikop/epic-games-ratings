@@ -6,35 +6,35 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 5.00% | ~56,214 |
-| Zealous | 4.00% | ~44,971 |
-| Not half bad | 4.00% | ~44,971 |
-| Skillful | 4.00% | ~44,971 |
-| Handyman | 3.00% | ~33,728 |
-| Apt Survivor | 3.00% | ~33,728 |
-| Survival Treasures | 3.00% | ~33,728 |
-| I | 3.00% | ~33,728 |
-| Sorted | 3.00% | ~33,728 |
-| Make Some Noise | 3.00% | ~33,728 |
-| The Grand Sacrifice | 2.00% | ~22,486 |
-| Agonizing Escape | 2.00% | ~22,486 |
-| Backdoor Escape | 2.00% | ~22,486 |
-| I've got your back | 2.00% | ~22,486 |
-| No one left behind | 2.00% | ~22,486 |
-| Medic | 2.00% | ~22,486 |
-| Perfect Escape | 2.00% | ~22,486 |
-| Perfect Killing | 2.00% | ~22,486 |
-| Bloody Millionaire | 2.00% | ~22,486 |
-| Apt Killer | 2.00% | ~22,486 |
-| Risk it all | 2.00% | ~22,486 |
-| II | 2.00% | ~22,486 |
-| Engineer | 2.00% | ~22,486 |
-| Wounded Healer | 2.00% | ~22,486 |
-| Healthy Obsession | 2.00% | ~22,486 |
-| Resurgence | 2.00% | ~22,486 |
-| Close Shave | 2.00% | ~22,486 |
-| Preemptive Strike | 2.00% | ~22,486 |
-| Humanitarian | 2.00% | ~22,486 |
+| It wakes | 5.00% | ~56,217 |
+| Zealous | 4.00% | ~44,974 |
+| Not half bad | 4.00% | ~44,974 |
+| Skillful | 4.00% | ~44,974 |
+| Handyman | 3.00% | ~33,730 |
+| Apt Survivor | 3.00% | ~33,730 |
+| Survival Treasures | 3.00% | ~33,730 |
+| I | 3.00% | ~33,730 |
+| Sorted | 3.00% | ~33,730 |
+| Make Some Noise | 3.00% | ~33,730 |
+| The Grand Sacrifice | 2.00% | ~22,487 |
+| Agonizing Escape | 2.00% | ~22,487 |
+| Backdoor Escape | 2.00% | ~22,487 |
+| I've got your back | 2.00% | ~22,487 |
+| No one left behind | 2.00% | ~22,487 |
+| Medic | 2.00% | ~22,487 |
+| Perfect Escape | 2.00% | ~22,487 |
+| Perfect Killing | 2.00% | ~22,487 |
+| Bloody Millionaire | 2.00% | ~22,487 |
+| Apt Killer | 2.00% | ~22,487 |
+| Risk it all | 2.00% | ~22,487 |
+| II | 2.00% | ~22,487 |
+| Engineer | 2.00% | ~22,487 |
+| Wounded Healer | 2.00% | ~22,487 |
+| Healthy Obsession | 2.00% | ~22,487 |
+| Resurgence | 2.00% | ~22,487 |
+| Close Shave | 2.00% | ~22,487 |
+| Preemptive Strike | 2.00% | ~22,487 |
+| Humanitarian | 2.00% | ~22,487 |
 | Blood on your hands | 1.00% | ~11,243 |
 | Escape Artist | 1.00% | ~11,243 |
 | Made it out alive! | 1.00% | ~11,243 |
@@ -61,20 +61,20 @@ Number of Ratings: 70,340  (23.09.2022)
 | Chorus of Chaos | 1.00% | ~11,243 |
 | One More Step | 1.00% | ~11,243 |
 | Second Act | 1.00% | ~11,243 |
-| Nerves of steel | 0.90% | ~10,118 |
-| Shock Therapy | 0.90% | ~10,118 |
-| All Aboard | 0.90% | ~10,118 |
-| Ancestor's Rite | 0.90% | ~10,118 |
-| Outrun Evil | 0.90% | ~10,118 |
-| MU/TH/UR Dearest | 0.90% | ~10,118 |
-| Blood on your face | 0.80% | ~8,994 |
-| Cottage Owner | 0.80% | ~8,994 |
-| Campbell's Chapel Legacy | 0.80% | ~8,994 |
-| Grim Pilgrimage | 0.80% | ~8,994 |
-| Outrun the Overlap | 0.80% | ~8,994 |
-| A Fast Death | 0.80% | ~8,994 |
-| Extraterrestrial | 0.80% | ~8,994 |
-| Outta Nowhere | 0.80% | ~8,994 |
+| Nerves of steel | 0.90% | ~10,119 |
+| Shock Therapy | 0.90% | ~10,119 |
+| All Aboard | 0.90% | ~10,119 |
+| Ancestor's Rite | 0.90% | ~10,119 |
+| Outrun Evil | 0.90% | ~10,119 |
+| MU/TH/UR Dearest | 0.90% | ~10,119 |
+| Blood on your face | 0.80% | ~8,995 |
+| Cottage Owner | 0.80% | ~8,995 |
+| Campbell's Chapel Legacy | 0.80% | ~8,995 |
+| Grim Pilgrimage | 0.80% | ~8,995 |
+| Outrun the Overlap | 0.80% | ~8,995 |
+| A Fast Death | 0.80% | ~8,995 |
+| Extraterrestrial | 0.80% | ~8,995 |
+| Outta Nowhere | 0.80% | ~8,995 |
 | A bite for the Entity | 0.70% | ~7,870 |
 | Hemophobia | 0.70% | ~7,870 |
 | Leapfrog | 0.70% | ~7,870 |
@@ -92,12 +92,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | Broken Bodies | 0.60% | ~6,746 |
 | High Speed Pursuit | 0.60% | ~6,746 |
 | Complete the Evolution | 0.60% | ~6,746 |
-| Deep Cleansing | 0.50% | ~5,621 |
-| Texas BBQ | 0.50% | ~5,621 |
-| Outrage | 0.50% | ~5,621 |
-| Heavy Burden | 0.50% | ~5,621 |
-| I See You | 0.50% | ~5,621 |
-| Triage | 0.50% | ~5,621 |
+| Deep Cleansing | 0.50% | ~5,622 |
+| Texas BBQ | 0.50% | ~5,622 |
+| Outrage | 0.50% | ~5,622 |
+| Heavy Burden | 0.50% | ~5,622 |
+| I See You | 0.50% | ~5,622 |
+| Triage | 0.50% | ~5,622 |
 | Blood in your mouth | 0.40% | ~4,497 |
 | Looter | 0.40% | ~4,497 |
 | Whiffing to Success | 0.40% | ~4,497 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,124 |
 | Adept Good Guy | 0.10% | ~1,124 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,124,275 (Ranked 13)  
+Progressed: 1,124,339 (Ranked 13)  
 Completed: 65 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -491,7 +491,7 @@ Completed: 65 (0.01%) (Ranked 367)
 | 2023-12-25 | 1,118,749 | 65 |
 | 2023-12-26 | 1,121,100 | 65 |
 | 2023-12-27 | 1,123,455 | 65 |
-| 2023-12-28 | 1,124,275 | 65 |
+| 2023-12-28 | 1,124,339 | 65 |
 ## Awards
 Max (Diverse Characters): 38,689  (Ranked 15)  
 Sum: 292,521 (Ranked 12)  

@@ -1,17 +1,17 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.53 (Ranked 554)  
+Rating: 4.53 (Ranked 555)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~6,610 |
-| Greasy Palms | 42.00% | ~6,035 |
+| Legal Counsel | 46.00% | ~6,611 |
+| Greasy Palms | 42.00% | ~6,036 |
 | South American Connection | 26.00% | ~3,736 |
 | Life of the Party | 20.00% | ~2,874 |
-| Big Heat from Little Havana | 15.00% | ~2,155 |
-| Chauffeur | 15.00% | ~2,155 |
-| Tommy Two-Wheels | 15.00% | ~2,155 |
+| Big Heat from Little Havana | 15.00% | ~2,156 |
+| Chauffeur | 15.00% | ~2,156 |
+| Tommy Two-Wheels | 15.00% | ~2,156 |
 | Salutations My Little Friend | 11.00% | ~1,581 |
 | Iron-y | 10.00% | ~1,437 |
 | Gun for Hire | 9.00% | ~1,293 |
@@ -19,8 +19,8 @@ Rating: 4.53 (Ranked 554)
 | Vice City Mogul | 6.00% | ~862 |
 | Catch Me if You Can | 6.00% | ~862 |
 | Bloodstained Hands | 6.00% | ~862 |
-| Not my First Time | 5.00% | ~718 |
-| Grand Theft Auto | 5.00% | ~718 |
+| Not my First Time | 5.00% | ~719 |
+| Grand Theft Auto | 5.00% | ~719 |
 | Pie Guy | 4.00% | ~575 |
 | Point A to Point B | 3.00% | ~431 |
 | High Quality H2O | 3.00% | ~431 |
@@ -40,8 +40,8 @@ Rating: 4.53 (Ranked 554)
 | Done it All | 0.90% | ~129 |
 | Kingpin | 0.60% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,369 (Ranked 167)  
-Completed: 81 (0.56%) (Ranked 208)  
+Progressed: 14,371 (Ranked 167)  
+Completed: 82 (0.57%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -292,7 +292,7 @@ Completed: 81 (0.56%) (Ranked 208)
 | 2023-12-25 | 14,030 | 76 |
 | 2023-12-26 | 14,192 | 76 |
 | 2023-12-27 | 14,318 | 79 |
-| 2023-12-28 | 14,369 | 81 |
+| 2023-12-28 | 14,371 | 82 |
 ## Awards
 Max (Great Boss Battles): 154  (Ranked 324)  
 Sum: 154 (Ranked 435)  

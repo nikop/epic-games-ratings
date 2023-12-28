@@ -7,8 +7,8 @@ Rating: 4.39 (Ranked 766)
 | ---- | ---------- | ----- |
 | Survivor | 31.00% | ~80,561 |
 | Predator I | 23.00% | ~59,771 |
-| Fixer I | 10.00% | ~25,987 |
-| A week in Century City | 10.00% | ~25,987 |
+| Fixer I | 10.00% | ~25,988 |
+| A week in Century City | 10.00% | ~25,988 |
 | The Wait | 7.00% | ~18,191 |
 | Green thumb I | 6.00% | ~15,592 |
 | Cleaning Company | 6.00% | ~15,592 |
@@ -22,12 +22,12 @@ Rating: 4.39 (Ranked 766)
 | It took a while | 3.00% | ~7,796 |
 | Adrenaline | 3.00% | ~7,796 |
 | Predator II | 3.00% | ~7,796 |
-| By a hair | 2.00% | ~5,197 |
-| Samurai | 2.00% | ~5,197 |
-| I Left You a Present | 2.00% | ~5,197 |
-| Truffle Dog | 2.00% | ~5,197 |
-| Don't try this at home | 2.00% | ~5,197 |
-| A month in Century City | 2.00% | ~5,197 |
+| By a hair | 2.00% | ~5,198 |
+| Samurai | 2.00% | ~5,198 |
+| I Left You a Present | 2.00% | ~5,198 |
+| Truffle Dog | 2.00% | ~5,198 |
+| Don't try this at home | 2.00% | ~5,198 |
+| A month in Century City | 2.00% | ~5,198 |
 | The Strengthening | 1.00% | ~2,599 |
 | Saver II | 1.00% | ~2,599 |
 | It's the last one, I swear | 1.00% | ~2,599 |
@@ -41,9 +41,9 @@ Rating: 4.39 (Ranked 766)
 | Interior designer | 0.60% | ~1,559 |
 | The Gamble | 0.50% | ~1,299 |
 | The Descent | 0.50% | ~1,299 |
-| Expert Hunter | 0.40% | ~1,039 |
-| Fungi hunter | 0.40% | ~1,039 |
-| Predator III | 0.40% | ~1,039 |
+| Expert Hunter | 0.40% | ~1,040 |
+| Fungi hunter | 0.40% | ~1,040 |
+| Predator III | 0.40% | ~1,040 |
 | Arms dealer | 0.30% | ~780 |
 | Fixer III | 0.30% | ~780 |
 | AML questionnaire | 0.30% | ~780 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 766)
 | Capitalist III | 0.10% | ~260 |
 | Hell Is You | 0.10% | ~260 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 259,874 (Ranked 64)  
+Progressed: 259,875 (Ranked 64)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-25 | 259,786 | 3 |
 | 2023-12-26 | 259,820 | 3 |
 | 2023-12-27 | 259,849 | 3 |
-| 2023-12-28 | 259,874 | 3 |
+| 2023-12-28 | 259,875 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 54  (Ranked 436)  
 Sum: 368 (Ranked 358)  

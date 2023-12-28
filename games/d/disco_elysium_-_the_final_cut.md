@@ -6,22 +6,22 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~38,048 |
-| Biggest Communism Builder | 24.00% | ~32,612 |
-| The World's Most Laughable Centrist | 20.00% | ~27,177 |
-| Il Coppo Del'Arte! | 18.00% | ~24,459 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,742 |
-| Hyperstellar Law Official | 15.00% | ~20,383 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~19,024 |
-| Gurdi-Ball Is Lit | 14.00% | ~19,024 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~17,665 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,947 |
+| Goodest Of The Good Cops | 28.00% | ~38,050 |
+| Biggest Communism Builder | 24.00% | ~32,614 |
+| The World's Most Laughable Centrist | 20.00% | ~27,179 |
+| Il Coppo Del'Arte! | 18.00% | ~24,461 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,743 |
+| Hyperstellar Law Official | 15.00% | ~20,384 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~19,025 |
+| Gurdi-Ball Is Lit | 14.00% | ~19,025 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~17,666 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,948 |
 | Unbelievably Boring **** | 9.00% | ~12,230 |
 | The Figurines Won't Win Her Back | 9.00% | ~12,230 |
 | Enemy Of The Physical Realm | 8.00% | ~10,871 |
-| Hardie's Heroes | 6.00% | ~8,153 |
-| The Lawbringer | 4.00% | ~5,435 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,435 |
+| Hardie's Heroes | 6.00% | ~8,154 |
+| The Lawbringer | 4.00% | ~5,436 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,436 |
 | The Opener Of The Eighth Seal | 3.00% | ~4,077 |
 | Bother Kim After Hours | 3.00% | ~4,077 |
 | Baddest Of the Bad Cops | 2.00% | ~2,718 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~136 |
 | What body? | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,885 (Ranked 86)  
+Progressed: 135,893 (Ranked 86)  
 Completed: 28 (0.02%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 28 (0.02%) (Ranked 357)
 | 2023-12-25 | 135,437 | 28 |
 | 2023-12-26 | 135,655 | 28 |
 | 2023-12-27 | 135,838 | 28 |
-| 2023-12-28 | 135,885 | 28 |
+| 2023-12-28 | 135,893 | 28 |
 ## Awards
 Max (Character Customization): 755  (Ranked 186)  
 Sum: 1,150 (Ranked 257)  

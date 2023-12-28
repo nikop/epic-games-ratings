@@ -33,11 +33,11 @@ Number of Ratings: 124  (23.09.2022)
 | Cleric | 3.00% | ~4 |
 | Perfectionist | 3.00% | ~4 |
 | Detective | 3.00% | ~4 |
+| Lover | 3.00% | ~4 |
 | Banker | 2.00% | ~2 |
 | Treasure Hunter | 2.00% | ~2 |
+| Beam Me Up | 2.00% | ~2 |
 | Morkon | 2.00% | ~2 |
-| Lover | 2.00% | ~2 |
-| Beam Me Up | 0.80% | ~1 |
 | Defector | 0.80% | ~1 |
 | Outlaw | 0.80% | ~1 |
 | Destroyer | 0.80% | ~1 |

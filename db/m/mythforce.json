@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -848,7 +848,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5875,
+  "EOS_Progressed": 5876,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 0,
@@ -11988,6 +11988,11 @@
       "Time": "2023-12-28T06:03:27.2589794+00:00",
       "NumProgressed": 5875,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-28T11:04:01.7425155+00:00",
+      "NumProgressed": 5876,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12064,7 +12069,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -12080,7 +12085,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -12128,7 +12133,7 @@
       "Name": "On this Episode!",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -12183,15 +12188,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5875,
+      "Progressed": 5876,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2023-12-28T10:03:41.3678121+00:00",
+  "LastChanged_Achievements": "2023-12-28T11:04:01.742515+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:25.4849752+00:00",
-  "LastUpdate_Ratings": "2023-12-28T09:59:27.3774362+00:00",
-  "LastUpdate_Achievements": "2023-12-28T10:03:41.3678871+00:00"
+  "LastUpdate_Ratings": "2023-12-28T10:59:31.9970391+00:00",
+  "LastUpdate_Achievements": "2023-12-28T11:04:01.7425864+00:00"
 }

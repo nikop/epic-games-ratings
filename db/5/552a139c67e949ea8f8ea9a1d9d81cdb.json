@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1696,
+  "EOS_Progressed": 1697,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
@@ -4147,6 +4147,11 @@
       "Time": "2023-12-28T10:03:20.2214629+00:00",
       "NumProgressed": 1696,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T11:03:41.0417702+00:00",
+      "NumProgressed": 1697,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4245,9 +4250,9 @@
       "ID": "ML_ACHIEVEMENT_12",
       "SetID": "5k00jcd",
       "Name": "Immortal",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -4429,17 +4434,17 @@
       "ID": "ML_ACHIEVEMENT_35",
       "SetID": "5k00jcd",
       "Name": "Extra gear",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 51
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
       "SetID": "5k00jcd",
       "Name": "Perfectionist",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 51
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -4501,9 +4506,9 @@
       "ID": "ML_ACHIEVEMENT_44",
       "SetID": "8jfk4dl",
       "Name": "Ignition",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ML_ACHIEVEMENT_45",
@@ -4526,20 +4531,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1696,
+      "Progressed": 1697,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1364,
-      "Completed": 1003
+      "Progressed": 1365,
+      "Completed": 1004
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-28T10:03:20.2214627+00:00",
+  "LastChanged_Achievements": "2023-12-28T11:03:41.0417699+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2023-12-28T10:00:16.6966571+00:00",
-  "LastUpdate_Achievements": "2023-12-28T10:03:20.221515+00:00"
+  "LastUpdate_Ratings": "2023-12-28T11:00:24.1521872+00:00",
+  "LastUpdate_Achievements": "2023-12-28T11:03:41.0418217+00:00"
 }

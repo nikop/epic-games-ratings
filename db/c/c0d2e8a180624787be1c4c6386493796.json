@@ -1128,9 +1128,9 @@
       "ID": "KR4_ACHIEVEMENT_DEFEAT_DWARF_KING",
       "SetID": "caeik3h",
       "Name": "I am Iron Man",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 175
+      "UsersEstimate": 177
     },
     {
       "ID": "KR4_ACHIEVEMENT_DEMOGORGON",
@@ -1360,9 +1360,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
       "SetID": "caeik3h",
       "Name": "No Survivors II",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 186
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_WITH_VEZNAN_POWERS",
@@ -1520,9 +1520,9 @@
       "ID": "KR4_ACHIEVEMENT_SHAOLIN_MASTER",
       "SetID": "caeik3h",
       "Name": "Follow the Master",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "KR4_ACHIEVEMENT_SKIYETI",
@@ -1568,9 +1568,9 @@
       "ID": "KR4_ACHIEVEMENT_SPIRITMAUSOLEUM",
       "SetID": "caeik3h",
       "Name": "Defenders Of The Night",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 105
     },
     {
       "ID": "KR4_ACHIEVEMENT_SUPREME_DEFENDER",
@@ -1653,8 +1653,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-28T10:05:00.5186655+00:00",
+  "LastChanged_Achievements": "2023-12-28T11:05:19.0156128+00:00",
   "LastUpdate_AppInfo": "2023-12-21T18:56:53.420002+00:00",
-  "LastUpdate_Ratings": "2023-12-28T09:03:16.028022+00:00",
-  "LastUpdate_Achievements": "2023-12-28T10:05:00.5187256+00:00"
+  "LastUpdate_Ratings": "2023-12-28T10:57:03.1803455+00:00",
+  "LastUpdate_Achievements": "2023-12-28T11:05:19.0156764+00:00"
 }

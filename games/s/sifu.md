@@ -6,38 +6,38 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,870 |
-| Life is your teacher | 4.00% | ~29,870 |
-| The Assault | 3.00% | ~22,402 |
-| Lightning Hands | 3.00% | ~22,402 |
-| The Hateful Pole Fighter | 2.00% | ~14,935 |
-| A Lady's Blood in the Snow | 2.00% | ~14,935 |
-| Stuntmaster | 2.00% | ~14,935 |
-| Street Fighting | 2.00% | ~14,935 |
-| State of constant learning | 2.00% | ~14,935 |
-| Qi Gong: Breath | 2.00% | ~14,935 |
-| Qi Gong: Essence | 2.00% | ~14,935 |
-| Old Child | 2.00% | ~14,935 |
-| Rumble in the Hangar | 2.00% | ~14,935 |
-| Diligence as a goal | 2.00% | ~1,121 |
-| Lady Wing Chun | 1.00% | ~7,467 |
-| Furious Fists | 1.00% | ~7,467 |
-| Kill Nil | 1.00% | ~7,467 |
-| Qi Gong: Mind | 1.00% | ~7,467 |
-| I know Kung-Fu | 1.00% | ~7,467 |
-| Path of the Prospect | 1.00% | ~7,467 |
-| Take damage to save time | 1.00% | ~7,467 |
-| Project Arena | 1.00% | ~560 |
+| The Old Grandmaster | 4.00% | ~29,872 |
+| Life is your teacher | 4.00% | ~29,872 |
+| The Assault | 3.00% | ~22,404 |
+| Lightning Hands | 3.00% | ~22,404 |
+| The Hateful Pole Fighter | 2.00% | ~14,936 |
+| A Lady's Blood in the Snow | 2.00% | ~14,936 |
+| Stuntmaster | 2.00% | ~14,936 |
+| Street Fighting | 2.00% | ~14,936 |
+| State of constant learning | 2.00% | ~14,936 |
+| Qi Gong: Breath | 2.00% | ~14,936 |
+| Qi Gong: Essence | 2.00% | ~14,936 |
+| Old Child | 2.00% | ~14,936 |
+| Rumble in the Hangar | 2.00% | ~14,936 |
+| Diligence as a goal | 2.00% | ~1,122 |
+| Lady Wing Chun | 1.00% | ~7,468 |
+| Furious Fists | 1.00% | ~7,468 |
+| Kill Nil | 1.00% | ~7,468 |
+| Qi Gong: Mind | 1.00% | ~7,468 |
+| I know Kung-Fu | 1.00% | ~7,468 |
+| Path of the Prospect | 1.00% | ~7,468 |
+| Take damage to save time | 1.00% | ~7,468 |
+| Project Arena | 1.00% | ~561 |
 | Scareless | 0.90% | ~6,721 |
 | Kung-Fu Tussle | 0.90% | ~6,721 |
 | Dance of the Praying Mantis | 0.80% | ~5,974 |
-| Fight the way you practice | 0.70% | ~392 |
-| Martial Hub | 0.60% | ~336 |
+| Fight the way you practice | 0.70% | ~393 |
+| Martial Hub | 0.60% | ~337 |
 | Muk Yan Master | 0.50% | ~3,734 |
 | Tiger on Fire | 0.50% | ~3,734 |
+| Source of Flying Daggers | 0.50% | ~3,734 |
 | Detective Story | 0.50% | ~3,734 |
 | Bloody Sport | 0.50% | ~280 |
-| Source of Flying Daggers | 0.40% | ~2,987 |
 | Iron Money | 0.40% | ~2,987 |
 | Legendary Talismans of Wuxing | 0.40% | ~2,987 |
 | Prodigal Child | 0.40% | ~2,987 |
@@ -47,13 +47,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Pit Protector | 0.30% | ~2,240 |
 | Come Snap With Me | 0.30% | ~2,240 |
 | Deadly Venom | 0.30% | ~168 |
-| Drunken Fighter | 0.20% | ~1,493 |
-| Martial Artist | 0.20% | ~1,493 |
-| Knowledge Greed | 0.20% | ~1,493 |
-| Healing Memory | 0.20% | ~1,493 |
-| Master of the Phoenix Eye Fist | 0.20% | ~1,493 |
-| Ferocity, speed, strength, accuracy | 0.20% | ~1,493 |
-| Be like water my friend | 0.20% | ~1,493 |
+| Drunken Fighter | 0.20% | ~1,494 |
+| Martial Artist | 0.20% | ~1,494 |
+| Knowledge Greed | 0.20% | ~1,494 |
+| Healing Memory | 0.20% | ~1,494 |
+| Master of the Phoenix Eye Fist | 0.20% | ~1,494 |
+| Ferocity, speed, strength, accuracy | 0.20% | ~1,494 |
+| Be like water my friend | 0.20% | ~1,494 |
 | A Touch of Acumen | 0.20% | ~112 |
 | Skill and an even stronger will | 0.20% | ~112 |
 | Master of the Flying Assassins | 0.20% | ~112 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~56 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 746,743 (Ranked 23)  
+Progressed: 746,793 (Ranked 23)  
 Completed: 12,967 (1.74%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 12,967 (1.74%) (Ranked 141)
 | 2023-12-25 | 744,462 | 12,966 |
 | 2023-12-26 | 745,555 | 12,967 |
 | 2023-12-27 | 746,407 | 12,967 |
-| 2023-12-28 | 746,743 | 12,967 |
+| 2023-12-28 | 746,793 | 12,967 |
 ## Awards
 Max (Great Boss Battles): 7,028  (Ranked 55)  
 Sum: 12,447 (Ranked 84)  

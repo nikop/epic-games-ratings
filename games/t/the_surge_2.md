@@ -5,17 +5,17 @@ Rating: 4.26 (Ranked 892)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,887 |
+| Rigged And Ready | 79.00% | ~1,888 |
 | Don't I Know You...? | 76.00% | ~1,816 |
-| Jailbreak | 65.00% | ~1,553 |
+| Jailbreak | 65.00% | ~1,554 |
 | HEADSHOT! | 38.00% | ~908 |
 | Suited and Booted | 38.00% | ~908 |
 | Sleeping With The Fishes | 35.00% | ~836 |
 | Overheated | 30.00% | ~717 |
 | High Performance | 30.00% | ~717 |
 | Powered Up | 28.00% | ~669 |
-| Studied The Blade | 25.00% | ~597 |
-| Home Invasion | 23.00% | ~549 |
+| Studied The Blade | 25.00% | ~598 |
+| Home Invasion | 23.00% | ~550 |
 | Luminary | 22.00% | ~526 |
 | It's a Trap | 22.00% | ~526 |
 | True Survivor | 21.00% | ~502 |
@@ -45,11 +45,11 @@ Rating: 4.26 (Ranked 892)
 | Remote Surgery | 6.00% | ~143 |
 | Turbo Booster | 6.00% | ~143 |
 | Squid Pro Quo | 6.00% | ~143 |
-| Reborn | 5.00% | ~119 |
-| Hello Darkness My Old Friend | 5.00% | ~119 |
-| Counter-Sniper | 5.00% | ~119 |
-| Shrimp Cocktail | 5.00% | ~119 |
-| Juiced Up | 5.00% | ~119 |
+| Reborn | 5.00% | ~120 |
+| Hello Darkness My Old Friend | 5.00% | ~120 |
+| Counter-Sniper | 5.00% | ~120 |
+| Shrimp Cocktail | 5.00% | ~120 |
+| Juiced Up | 5.00% | ~120 |
 | Geronimo! | 4.00% | ~96 |
 | Plank of Wood | 4.00% | ~96 |
 | Gotta Craft 'em All | 3.00% | ~72 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 892)
 | Three Birds With One Stone | 1.00% | ~24 |
 | The Easy Way Out | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,389 (Ranked 230)  
+Progressed: 2,390 (Ranked 230)  
 Completed: 13 (0.54%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 13 (0.54%) (Ranked 212)
 | 2023-12-25 | 2,372 | 13 |
 | 2023-12-26 | 2,379 | 13 |
 | 2023-12-27 | 2,388 | 13 |
-| 2023-12-28 | 2,389 | 13 |
+| 2023-12-28 | 2,390 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

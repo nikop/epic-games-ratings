@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,7 +51,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1134,
+  "EOS_Progressed": 1135,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
@@ -3246,6 +3246,11 @@
       "Time": "2023-12-28T10:09:48.8867027+00:00",
       "NumProgressed": 1134,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-28T11:10:12.1003415+00:00",
+      "NumProgressed": 1135,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3281,7 +3286,7 @@
       "Name": "Treasure Trove",
       "Percentage": 13,
       "XP": 75,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -3353,7 +3358,7 @@
       "Name": "Family Memories",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "FactorywoodChests1",
@@ -3361,7 +3366,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "FairgroundsChests1",
@@ -3369,7 +3374,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -3441,7 +3446,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "LacunaCompleted",
@@ -3457,7 +3462,7 @@
       "Name": "Cartographer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "NoCritterSump",
@@ -3521,7 +3526,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -3529,7 +3534,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "PidgeDefeated",
@@ -3545,7 +3550,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "RewindParry",
@@ -3625,7 +3630,7 @@
       "Name": "Theater Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -3649,7 +3654,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "WatcherSpared",
@@ -3680,7 +3685,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1134,
+      "Progressed": 1135,
       "Completed": 6
     }
   ],
@@ -3688,8 +3693,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-28T10:09:48.8867025+00:00",
+  "LastChanged_Achievements": "2023-12-28T11:10:12.1003409+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-28T09:59:19.0346328+00:00",
-  "LastUpdate_Achievements": "2023-12-28T10:09:48.8867432+00:00"
+  "LastUpdate_Ratings": "2023-12-28T10:59:23.7466723+00:00",
+  "LastUpdate_Achievements": "2023-12-28T11:10:12.1004065+00:00"
 }

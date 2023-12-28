@@ -6,10 +6,10 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~52,208 |
-| Get Busy Living | 16.00% | ~33,413 |
-| Samuel Norton | 9.00% | ~18,795 |
-| Spare The Rod | 4.00% | ~8,353 |
+| Stone Walls | 25.00% | ~52,212 |
+| Get Busy Living | 16.00% | ~33,416 |
+| Samuel Norton | 9.00% | ~18,796 |
+| Spare The Rod | 4.00% | ~8,354 |
 | Don't Put Me In The Dark | 3.00% | ~6,265 |
 | Wait and Hope | 3.00% | ~6,265 |
 | I May Have Found A Way Out Of Here | 3.00% | ~6,265 |
@@ -19,11 +19,11 @@ Number of Ratings: 4,491  (23.09.2022)
 | Reformation | 0.60% | ~1,253 |
 | Crowd Control | 0.50% | ~1,044 |
 | Freedom | 0.40% | ~835 |
-| Confined | 0.30% | ~626 |
+| Confined | 0.30% | ~627 |
 | It's Not What You Know... | 0.10% | ~209 |
 | ... It's What You Can Prove | 0.10% | ~209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,831 (Ranked 77)  
+Progressed: 208,847 (Ranked 77)  
 Completed: 12 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,10 +275,10 @@ Completed: 12 (0.01%) (Ranked 367)
 | 2023-12-25 | 207,753 | 11 |
 | 2023-12-26 | 208,220 | 12 |
 | 2023-12-27 | 208,684 | 12 |
-| 2023-12-28 | 208,831 | 12 |
+| 2023-12-28 | 208,847 | 12 |
 ## Awards
 Max (Great for Beginners): 618  (Ranked 198)  
-Sum: 4,725 (Ranked 149)  
+Sum: 4,727 (Ranked 149)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -286,7 +286,7 @@ Diff (max vs sum): 49
 | This game is Extremely Fun | 599 |
 | This game is Highly Recommended | 564 |
 | This game has Quickly Understood Controls | 556 |
-| This game is Relaxing | 547 |
+| This game is Relaxing | 549 |
 | This game has Diverse Characters | 518 |
 | This game has Amazing Storytelling | 503 |
 | This game is Educational | 459 |
@@ -635,3 +635,4 @@ Diff (max vs sum): 49
 | 2023-12-25 | 4.61 | - | 614 | 4,704 |
 | 2023-12-26 | 4.61 | - | 616 | 4,715 |
 | 2023-12-27 | 4.61 | - | 618 | 4,725 |
+| 2023-12-28 | 4.61 | - | 618 | 4,727 |

@@ -5,28 +5,28 @@ Rating: 4.28 (Ranked 877)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Storm Warning | 63.00% | ~299 |
-| Highballer | 37.00% | ~175 |
-| Dirty Roller | 35.00% | ~166 |
-| Regional Juniors Champion | 32.00% | ~152 |
-| Look Mom, I Can Fly | 24.00% | ~114 |
-| Wheeler Dealer | 24.00% | ~114 |
-| National Amateurs Champion | 19.00% | ~90 |
-| Hating Them Tin Cans | 16.00% | ~76 |
-| Junk Collector | 15.00% | ~71 |
-| Trashing Around | 15.00% | ~71 |
+| Storm Warning | 63.00% | ~302 |
+| Highballer | 37.00% | ~177 |
+| Dirty Roller | 35.00% | ~168 |
+| Regional Juniors Champion | 32.00% | ~153 |
+| Look Mom, I Can Fly | 24.00% | ~115 |
+| Wheeler Dealer | 24.00% | ~115 |
+| National Amateurs Champion | 19.00% | ~91 |
+| Hating Them Tin Cans | 16.00% | ~77 |
+| Junk Collector | 15.00% | ~72 |
+| Trashing Around | 15.00% | ~72 |
 | Challengers Champion | 13.00% | ~62 |
 | Pro Internationals Champion | 8.00% | ~38 |
-| Cash For Crashes | 7.00% | ~33 |
+| Cash For Crashes | 7.00% | ~34 |
 | Showing Some Dedication | 4.00% | ~19 |
 | Maniac Driver | 4.00% | ~19 |
 | World Masters Champion | 3.00% | ~14 |
-| Garden Variety | 2.00% | ~9 |
+| Garden Variety | 2.00% | ~10 |
 | Glutton For Punishment | 0.80% | ~4 |
 | Human Lover | 0.80% | ~4 |
 | Rocketeer | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474 (Ranked 342)  
+Progressed: 479 (Ranked 341)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -41,7 +41,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 380 | 0 |
 | 2023-12-26 | 414 | 0 |
 | 2023-12-27 | 466 | 0 |
-| 2023-12-28 | 474 | 0 |
+| 2023-12-28 | 479 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

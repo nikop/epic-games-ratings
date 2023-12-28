@@ -4,8 +4,8 @@
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
   "Ranking_EOS_Progress": 534,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 370,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 371,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2016-08-23T05:00:00+00:00",
@@ -563,9 +563,9 @@
       "ID": "NEW_ACHIEVEMENT_2_10",
       "SetID": "7on801h",
       "Name": "Handle with Care",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_11",
@@ -731,9 +731,9 @@
       "ID": "NEW_ACHIEVEMENT_2_3",
       "SetID": "7on801h",
       "Name": "K is for Kazdy",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_30",
@@ -960,8 +960,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-28T10:06:12.2298622+00:00",
+  "LastChanged_Achievements": "2023-12-28T11:06:28.9564461+00:00",
   "LastUpdate_AppInfo": "2023-12-27T16:57:17.6990227+00:00",
-  "LastUpdate_Ratings": "2023-12-28T09:57:19.8245837+00:00",
-  "LastUpdate_Achievements": "2023-12-28T10:06:12.2299448+00:00"
+  "LastUpdate_Ratings": "2023-12-28T10:57:30.0191893+00:00",
+  "LastUpdate_Achievements": "2023-12-28T11:06:28.9565295+00:00"
 }

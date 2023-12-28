@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 226,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1530,9 +1530,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 26976,
+  "EOS_Progressed": 26979,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 965,
+  "EOS_NewPlayers": 955,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -12150,6 +12150,11 @@
       "Time": "2023-12-28T10:09:38.3295456+00:00",
       "NumProgressed": 26976,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-28T11:10:01.5518552+00:00",
+      "NumProgressed": 26979,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -12239,9 +12244,9 @@
       "ID": "BossCastleDefeated",
       "SetID": "3ojhj46",
       "Name": "Spells and Swords",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1349
+      "UsersEstimate": 1619
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -12472,21 +12477,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 26976,
+      "Progressed": 26979,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 5906,
+      "Progressed": 5909,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-27T14:58:28.1925208+00:00",
-  "LastChanged_Achievements": "2023-12-28T10:09:38.3295453+00:00",
+  "LastChanged_Achievements": "2023-12-28T11:10:01.5518546+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.6659711+00:00",
-  "LastUpdate_Ratings": "2023-12-28T09:58:27.1448047+00:00",
-  "LastUpdate_Achievements": "2023-12-28T10:09:38.3296062+00:00"
+  "LastUpdate_Ratings": "2023-12-28T10:58:34.8828881+00:00",
+  "LastUpdate_Achievements": "2023-12-28T11:10:01.5519269+00:00"
 }

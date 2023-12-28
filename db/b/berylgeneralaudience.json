@@ -3,8 +3,8 @@
   "Name": "BerylGeneralAudience",
   "Ranking_EOS_Progress": 817,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:31:11.5499279+00:00",
-  "LastUpdate_Ratings": "2023-12-28T09:58:29.9243394+00:00",
-  "LastUpdate_Achievements": "2023-12-28T10:05:05.5570778+00:00"
+  "LastUpdate_Ratings": "2023-12-28T10:58:37.6450823+00:00",
+  "LastUpdate_Achievements": "2023-12-28T11:05:23.9901112+00:00"
 }

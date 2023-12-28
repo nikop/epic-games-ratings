@@ -4,8 +4,8 @@
   "ProductSlug": "international-basketball-manager-23-561576",
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
     "PcReleaseDate": "2022-12-01T04:00:00+00:00",
@@ -294,17 +294,17 @@
       "ID": "ACH_ASSISTS_DELIVERY",
       "SetID": "1lnhagg",
       "Name": "Best Assistant",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_COACH_OF_THE_SEASON",
       "SetID": "1lnhagg",
       "Name": "Standing at the Top",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_EMPTY_ARENA",
@@ -350,9 +350,9 @@
       "ID": "ACH_FRANCHISE_PLAYER",
       "SetID": "1lnhagg",
       "Name": "Franchise Player",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_FULL_ARENA",
@@ -438,9 +438,9 @@
       "ID": "ACH_SCORING_MACHINE",
       "SetID": "1lnhagg",
       "Name": "Cumpulsive Scorer",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_STAR_IS_BORN",
@@ -517,8 +517,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2023-12-28T10:06:22.5719905+00:00",
+  "LastChanged_Achievements": "2023-12-28T11:08:28.329556+00:00",
   "LastUpdate_AppInfo": "2023-12-22T02:57:08.6689285+00:00",
-  "LastUpdate_Ratings": "2023-12-28T09:57:51.0671766+00:00",
-  "LastUpdate_Achievements": "2023-12-28T10:06:22.5720088+00:00"
+  "LastUpdate_Ratings": "2023-12-28T10:58:00.1269274+00:00",
+  "LastUpdate_Achievements": "2023-12-28T11:08:28.3295786+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
     "PcReleaseDate": "2019-12-05T15:00:00+00:00",
@@ -439,9 +439,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 262,
+  "EOS_Progressed": 263,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1114,6 +1114,11 @@
       "Time": "2023-12-28T10:09:32.5364359+00:00",
       "NumProgressed": 262,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T11:09:55.8083196+00:00",
+      "NumProgressed": 263,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -1276,9 +1281,9 @@
       "ID": "MintIII",
       "SetID": "329ak73",
       "Name": "Mint III",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Moloch",
@@ -1365,15 +1370,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 262,
+      "Progressed": 263,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-21T15:01:03.7221978+00:00",
-  "LastChanged_Achievements": "2023-12-28T10:09:32.5364356+00:00",
+  "LastChanged_Achievements": "2023-12-28T11:09:55.8083189+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:29.0736038+00:00",
-  "LastUpdate_Ratings": "2023-12-28T09:59:33.190339+00:00",
-  "LastUpdate_Achievements": "2023-12-28T10:09:32.5364565+00:00"
+  "LastUpdate_Ratings": "2023-12-28T10:59:37.6653225+00:00",
+  "LastUpdate_Achievements": "2023-12-28T11:09:55.8083454+00:00"
 }

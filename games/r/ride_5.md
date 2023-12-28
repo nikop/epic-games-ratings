@@ -6,7 +6,7 @@ Rating: 4.48 (Ranked 643)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eat My Dust | 47.00% | ~1,436 |
-| First Love | 44.00% | ~1,344 |
+| First Love | 45.00% | ~1,375 |
 | Clean Race | 43.00% | ~1,314 |
 | Hear That Roar! | 41.00% | ~1,253 |
 | Rivals to the End | 30.00% | ~916 |

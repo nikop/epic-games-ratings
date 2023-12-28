@@ -4,8 +4,8 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 416,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
     "PcReleaseDate": "2020-03-25T00:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 340,
+  "EOS_Progressed": 341,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.18,
+  "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.5378411+00:00",
@@ -909,6 +909,11 @@
       "Time": "2023-12-27T09:08:44.6229296+00:00",
       "NumProgressed": 340,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-28T11:09:02.7290137+00:00",
+      "NumProgressed": 341,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -1040,7 +1045,7 @@
       "Name": "First Shard",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_SHARD_2",
@@ -1103,7 +1108,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 340,
+      "Progressed": 341,
       "Completed": 4
     }
   ],
@@ -1111,8 +1116,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-12-28T10:08:39.0515204+00:00",
+  "LastChanged_Achievements": "2023-12-28T11:09:02.7290132+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:24.0812151+00:00",
-  "LastUpdate_Ratings": "2023-12-28T10:00:13.5418176+00:00",
-  "LastUpdate_Achievements": "2023-12-28T10:08:39.0515371+00:00"
+  "LastUpdate_Ratings": "2023-12-28T11:00:21.437334+00:00",
+  "LastUpdate_Achievements": "2023-12-28T11:09:02.7290296+00:00"
 }

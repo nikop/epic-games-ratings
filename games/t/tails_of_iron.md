@@ -8,11 +8,11 @@ Rating: 4.56 (Ranked 498)
 | Become King | 1.00% | ~23 |
 | Complete Guard Faction | 1.00% | ~23 |
 | The Bright Fir | 1.00% | ~9 |
+| Two Handed Weapon | 0.90% | ~21 |
 | Defeat 25 Frogs | 0.90% | ~21 |
 | Shield Maiden Yellow Tongue | 0.90% | ~8 |
 | Collect Monster Parts | 0.80% | ~18 |
 | Ranged Weapon | 0.80% | ~18 |
-| Two Handed Weapon | 0.80% | ~18 |
 | Defeat 25 Grubs | 0.80% | ~18 |
 | Collect Gold | 0.70% | ~16 |
 | Collect Iron Ore | 0.70% | ~16 |

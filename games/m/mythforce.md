@@ -20,9 +20,9 @@ Number of Ratings: 285  (23.09.2022)
 | Next Time on MythForce... | 14.00% | ~823 |
 | Cold-Blooded Critters | 11.00% | ~646 |
 | Death Becomes You | 8.00% | ~470 |
-| Flawless Victory | 6.00% | ~352 |
-| The Harder They Fall | 6.00% | ~352 |
-| On this Episode! | 6.00% | ~352 |
+| Flawless Victory | 6.00% | ~353 |
+| The Harder They Fall | 6.00% | ~353 |
+| On this Episode! | 6.00% | ~353 |
 | Deadication | 4.00% | ~235 |
 | Season Finale | 4.00% | ~235 |
 | We've Got a Kaiju on the Field | 3.00% | ~176 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.40% | ~24 |
 | Deadalus and Loving It | 0.20% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,875 (Ranked 197)  
+Progressed: 5,876 (Ranked 197)  
 Completed: 4 (0.07%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 4 (0.07%) (Ranked 322)
 | 2023-12-25 | 5,817 | 4 |
 | 2023-12-26 | 5,843 | 4 |
 | 2023-12-27 | 5,866 | 4 |
-| 2023-12-28 | 5,875 | 4 |
+| 2023-12-28 | 5,876 | 4 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 489)  
 Sum: 295 (Ranked 375)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 954,
+  "EOS_Progressed": 955,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -3183,6 +3183,11 @@
       "Time": "2023-12-28T10:09:07.6248674+00:00",
       "NumProgressed": 954,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-28T11:09:30.6312972+00:00",
+      "NumProgressed": 955,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -3195,7 +3200,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "achievement_10",
@@ -3243,7 +3248,7 @@
       "Name": "Memory Rouser",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "achievement_16",
@@ -3275,7 +3280,7 @@
       "Name": "Counter Specialist",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "achievement_2",
@@ -3323,7 +3328,7 @@
       "Name": "Single Minded",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "achievement_25",
@@ -3331,7 +3336,7 @@
       "Name": "Volatile Vocation",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "achievement_26",
@@ -3355,7 +3360,7 @@
       "Name": "Flawless Crystal",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "achievement_29",
@@ -3371,7 +3376,7 @@
       "Name": "Bonds of Enmity",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "achievement_30",
@@ -3411,7 +3416,7 @@
       "Name": "Kemono at Heart",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "achievement_35",
@@ -3467,7 +3472,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "achievement_41",
@@ -3515,7 +3520,7 @@
       "Name": "Charmed by the Hunt",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_47",
@@ -3531,7 +3536,7 @@
       "Name": "Haven Hunter",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "achievement_5",
@@ -3547,7 +3552,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "achievement_7",
@@ -3578,13 +3583,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 954,
+      "Progressed": 955,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-28T10:09:07.6248669+00:00",
+  "LastChanged_Achievements": "2023-12-28T11:09:30.631297+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:00.2404368+00:00",
-  "LastUpdate_Ratings": "2023-12-28T09:57:02.7747642+00:00",
-  "LastUpdate_Achievements": "2023-12-28T10:09:07.6249508+00:00"
+  "LastUpdate_Ratings": "2023-12-28T10:57:13.9615018+00:00",
+  "LastUpdate_Achievements": "2023-12-28T11:09:30.6313623+00:00"
 }

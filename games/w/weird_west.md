@@ -7,21 +7,21 @@ Number of Ratings: 125  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforgiven | 89.00% | ~1,824 |
-| Self-Improvement | 71.00% | ~1,455 |
+| Self-Improvement | 71.00% | ~1,456 |
 | Perky | 65.00% | ~1,332 |
-| Let’s Ride | 59.00% | ~1,209 |
-| Welcome to the Weird West | 56.00% | ~1,147 |
-| Dead or Alive | 55.00% | ~1,127 |
+| Let’s Ride | 59.00% | ~1,210 |
+| Welcome to the Weird West | 56.00% | ~1,148 |
+| Dead or Alive | 55.00% | ~1,128 |
 | Full House | 37.00% | ~758 |
 | Off the Trail | 34.00% | ~697 |
 | Justice Served | 29.00% | ~594 |
-| Chain Reaction | 27.00% | ~553 |
+| Chain Reaction | 27.00% | ~554 |
 | Through Their Eyes | 26.00% | ~533 |
 | Dishonored | 25.00% | ~512 |
 | Rain of Death | 25.00% | ~512 |
 | Scholar | 25.00% | ~512 |
-| The Great Escape | 23.00% | ~471 |
-| That’s All, Folks | 19.00% | ~389 |
+| The Great Escape | 23.00% | ~472 |
+| That’s All, Folks | 19.00% | ~390 |
 | Fallen Star | 16.00% | ~328 |
 | For Balance | 16.00% | ~328 |
 | Here Comes Santa Claus | 16.00% | ~328 |
@@ -42,14 +42,14 @@ Number of Ratings: 125  (23.09.2022)
 | Gold Digger | 8.00% | ~164 |
 | Monster Hunter | 8.00% | ~164 |
 | Knuckle Sandwich | 8.00% | ~164 |
-| Getting the Gang Back Together | 7.00% | ~143 |
+| Getting the Gang Back Together | 7.00% | ~144 |
 | Who You Gonna Call? | 6.00% | ~123 |
 | Healing Old Wounds | 5.00% | ~102 |
 | This Is Sparta | 5.00% | ~102 |
 | What’s in the Box? | 5.00% | ~102 |
-| Ghost Town | 3.00% | ~61 |
-| Lord Inut Sends His Regards | 3.00% | ~61 |
-| Moondrunk | 3.00% | ~61 |
+| Ghost Town | 3.00% | ~62 |
+| Lord Inut Sends His Regards | 3.00% | ~62 |
+| Moondrunk | 3.00% | ~62 |
 | 'Ma Barker | 2.00% | ~41 |
 | I Kicked a Bird and I Liked it | 1.00% | ~20 |
 | Hog Wild | 1.00% | ~20 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.50% | ~10 |
 | Winter Has Come | 0.40% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,049 (Ranked 239)  
+Progressed: 2,050 (Ranked 239)  
 Completed: 7 (0.34%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 7 (0.34%) (Ranked 244)
 | 2023-12-24 | 2,041 | 7 |
 | 2023-12-26 | 2,044 | 7 |
 | 2023-12-27 | 2,047 | 7 |
-| 2023-12-28 | 2,049 | 7 |
+| 2023-12-28 | 2,050 | 7 |
 ## Awards
 Max (Impact the Story): 29  (Ranked 519)  
 Sum: 29 (Ranked 537)  

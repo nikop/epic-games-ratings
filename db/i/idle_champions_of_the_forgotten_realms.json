@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9121,10 +9121,10 @@
       "Count": 3602
     }
   ],
-  "EOS_Progressed": 245874,
+  "EOS_Progressed": 245905,
   "EOS_Completed": 2569,
-  "EOS_NewPlayers": 3331,
-  "EOS_NewCompleters": 20,
+  "EOS_NewPlayers": 3349,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -37606,6 +37606,11 @@
       "Time": "2023-12-28T10:09:59.2680352+00:00",
       "NumProgressed": 245874,
       "NumCompleted": 2569
+    },
+    {
+      "Time": "2023-12-28T11:10:22.2752111+00:00",
+      "NumProgressed": 245905,
+      "NumCompleted": 2569
     }
   ],
   "TotalAchievements": 546,
@@ -37617,7 +37622,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4917
+      "UsersEstimate": 4918
     },
     {
       "ID": "objective_completed_10",
@@ -39297,7 +39302,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "objective_completed_35",
@@ -41889,7 +41894,7 @@
       "Name": "Arcane Suppression",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "objective_completed_1352",
@@ -41913,7 +41918,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "objective_completed_1562",
@@ -41929,7 +41934,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "objective_completed_598",
@@ -41945,7 +41950,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "objective_completed_678",
@@ -41969,7 +41974,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "objective_completed_865",
@@ -41977,28 +41982,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 212148,
+      "Progressed": 212179,
       "Completed": 4073
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 245874,
+      "Progressed": 245905,
       "Completed": 2569
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-28T06:58:45.5766271+00:00",
-  "LastChanged_Achievements": "2023-12-28T10:09:59.2680349+00:00",
+  "LastChanged_Achievements": "2023-12-28T11:10:22.2752106+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-28T09:58:40.9983592+00:00",
-  "LastUpdate_Achievements": "2023-12-28T10:09:59.270346+00:00"
+  "LastUpdate_Ratings": "2023-12-28T10:58:48.7722741+00:00",
+  "LastUpdate_Achievements": "2023-12-28T11:10:22.2776641+00:00"
 }

@@ -9,8 +9,8 @@ Rating: 4.45 (Ranked 680)
 | Confirming Suspicions | 42.00% | ~1,739 |
 | The Kraken Wakes | 37.00% | ~1,532 |
 | It's Starting to Crack | 34.00% | ~1,408 |
-| Lord of War | 31.00% | ~1,283 |
-| Change the Channel | 31.00% | ~1,283 |
+| Lord of War | 31.00% | ~1,284 |
+| Change the Channel | 31.00% | ~1,284 |
 | Taking it back | 29.00% | ~1,201 |
 | Resourceful | 28.00% | ~1,159 |
 | Target America | 27.00% | ~1,118 |
@@ -24,8 +24,8 @@ Rating: 4.45 (Ranked 680)
 | Climbing the Ladder | 17.00% | ~704 |
 | Just a Flesh Wound | 17.00% | ~704 |
 | Der Geist | 17.00% | ~704 |
-| Close Quarters | 16.00% | ~662 |
-| Snake in the Grass | 16.00% | ~662 |
+| Close Quarters | 16.00% | ~663 |
+| Snake in the Grass | 16.00% | ~663 |
 | Skirmisher | 15.00% | ~621 |
 | Die Nussknacker Sweet! | 15.00% | ~621 |
 | Brains of the Operation | 15.00% | ~621 |
@@ -39,7 +39,7 @@ Rating: 4.45 (Ranked 680)
 | Rigged to Blow | 9.00% | ~373 |
 | Herr Today, Gone Tomorrow | 7.00% | ~286 |
 | The Long Game | 6.00% | ~248 |
-| Operation Foxley | 6.00% | ~245 |
+| Operation Foxley | 6.00% | ~246 |
 | Strategist | 5.00% | ~207 |
 | Tinkerer | 5.00% | ~207 |
 | It'll Buff Right Out | 5.00% | ~207 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 680)
 | Stroll in the Woods | 0.60% | ~25 |
 | Going Overboard | 0.60% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,140 (Ranked 206)  
+Progressed: 4,141 (Ranked 206)  
 Completed: 11 (0.27%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 11 (0.27%) (Ranked 259)
 | 2023-12-25 | 4,109 | 11 |
 | 2023-12-26 | 4,128 | 11 |
 | 2023-12-27 | 4,137 | 11 |
-| 2023-12-28 | 4,140 | 11 |
+| 2023-12-28 | 4,141 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 525)  
 Sum: 28 (Ranked 540)  

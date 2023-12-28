@@ -4,7 +4,7 @@
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 370,
+  "Ranking_EOS_NewPlayers": 371,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
@@ -1032,9 +1032,9 @@
       "ID": "BUY_LASER_BEAM_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Laser Beam",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 60,
-      "UsersEstimate": 132
+      "UsersEstimate": 134
     },
     {
       "ID": "DEFEATED_10000_ENEMIES",
@@ -1048,9 +1048,9 @@
       "ID": "DEFEATED_1000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Assassin",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 60,
-      "UsersEstimate": 130
+      "UsersEstimate": 132
     },
     {
       "ID": "DEFEATED_100_ENEMIES",
@@ -1088,9 +1088,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "14g34pl",
       "Name": "Badlands is safe!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 60,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -1167,8 +1167,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-12-28T10:06:27.3931911+00:00",
+  "LastChanged_Achievements": "2023-12-28T11:08:33.1559587+00:00",
   "LastUpdate_AppInfo": "2023-12-26T22:57:06.6108745+00:00",
-  "LastUpdate_Ratings": "2023-12-28T09:58:56.5642927+00:00",
-  "LastUpdate_Achievements": "2023-12-28T10:06:27.3932146+00:00"
+  "LastUpdate_Ratings": "2023-12-28T10:59:04.1887459+00:00",
+  "LastUpdate_Achievements": "2023-12-28T11:08:33.1559794+00:00"
 }

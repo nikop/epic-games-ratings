@@ -4,8 +4,8 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1072,
+  "EOS_Progressed": 1073,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2612,6 +2612,11 @@
       "Time": "2023-12-28T00:06:39.0061685+00:00",
       "NumProgressed": 1072,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T11:05:41.7006823+00:00",
+      "NumProgressed": 1073,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2680,7 +2685,7 @@
       "Name": "Pathfinder",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "CompleteChapter10",
@@ -2720,7 +2725,7 @@
       "Name": "For Harkanibus!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "CompleteChapter15",
@@ -2768,7 +2773,7 @@
       "Name": "Met the Enemy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "CompleteChapter3",
@@ -2872,7 +2877,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "Win100OnlineMatched",
@@ -2919,14 +2924,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1072,
+      "Progressed": 1073,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-28T10:05:23.9883413+00:00",
+  "LastChanged_Achievements": "2023-12-28T11:05:41.7006819+00:00",
   "LastUpdate_AppInfo": "2023-12-22T09:57:09.096238+00:00",
-  "LastUpdate_Ratings": "2023-12-28T10:02:37.0888089+00:00",
-  "LastUpdate_Achievements": "2023-12-28T10:05:23.9883769+00:00"
+  "LastUpdate_Ratings": "2023-12-28T11:02:53.4610111+00:00",
+  "LastUpdate_Achievements": "2023-12-28T11:05:41.7007174+00:00"
 }
