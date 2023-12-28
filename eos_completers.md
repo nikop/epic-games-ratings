@@ -61,20 +61,20 @@
 | 59 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.25% |
 | 60 | [Scorn](games/s/scorn.md) | 6.95% |
 | 61 | [Sonic Origins](games/s/sonic_origins.md) | 6.74% |
-| 62 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 6.67% |
-| 63 | [Time Loader](games/t/time_loader.md) | 6.62% |
-| 64 | [Anna's Quest](games/a/anna's_quest.md) | 6.59% |
-| 65 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.45% |
-| 66 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.33% |
-| 67 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 67 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 6.25% |
+| 62 | [Time Loader](games/t/time_loader.md) | 6.62% |
+| 63 | [Anna's Quest](games/a/anna's_quest.md) | 6.59% |
+| 64 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.45% |
+| 65 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.33% |
+| 66 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 66 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 6.25% |
+| 66 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 6.25% |
 | 69 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
 | 70 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.06% |
-| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.96% |
+| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.00% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.80% |
 | 73 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 74 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 5.36% |
-| 75 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 5.26% |
+| 75 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 5.00% |
 | 76 | [Bugsnax](games/b/bugsnax.md) | 4.89% |
 | 76 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.89% |
 | 78 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.80% |
@@ -88,8 +88,8 @@
 | 86 | [The Bunker](games/t/the_bunker.md) | 4.29% |
 | 87 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.26% |
 | 88 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.24% |
-| 89 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 4.17% |
-| 90 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.16% |
+| 89 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.21% |
+| 90 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 4.17% |
 | 91 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 4.00% |
 | 92 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.90% |
 | 93 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.87% |
@@ -116,10 +116,10 @@
 | 114 | [The Complex](games/t/the_complex.md) | 2.86% |
 | 114 | [Without Escape](games/w/without_escape.md) | 2.86% |
 | 116 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.84% |
-| 117 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 2.78% |
-| 118 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.72% |
-| 119 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.71% |
-| 120 | [Time on Frog Island](games/t/time_on_frog_island.md) | 2.70% |
+| 117 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.71% |
+| 117 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.71% |
+| 119 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 2.70% |
+| 119 | [Time on Frog Island](games/t/time_on_frog_island.md) | 2.70% |
 | 121 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.68% |
 | 122 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.64% |
 | 123 | [Mega City Force](games/m/mega_city_police.md) | 2.63% |
@@ -198,9 +198,9 @@
 | 196 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.71% |
 | 197 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
 | 197 | [Scrapnaut](games/s/scrapnaut.md) | 0.70% |
-| 199 | [Five Dates](games/f/five_dates.md) | 0.67% |
 | 199 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.67% |
-| 201 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.66% |
+| 200 | [Five Dates](games/f/five_dates.md) | 0.66% |
+| 200 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.66% |
 | 202 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.65% |
 | 203 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.63% |
 | 204 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.62% |
@@ -225,10 +225,10 @@
 | 222 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.46% |
 | 224 | [Wildermyth](games/w/wildermyth.md) | 0.45% |
 | 225 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 0.44% |
-| 226 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.43% |
 | 226 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.43% |
 | 226 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.43% |
-| 229 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.42% |
+| 228 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.42% |
+| 228 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.42% |
 | 230 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.40% |
 | 230 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.40% |
 | 230 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 0.40% |
