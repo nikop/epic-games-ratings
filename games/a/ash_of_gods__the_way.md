@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 90.00% | ~46 |
-| Suicide squad | 53.00% | ~27 |
+| First success | 90.00% | ~47 |
+| Suicide squad | 52.00% | ~27 |
 | Train hard, fight easy | 29.00% | ~15 |
 | Under cover | 29.00% | ~15 |
 | First blood | 29.00% | ~15 |
 | Royal blessing | 25.00% | ~13 |
-| All for one! | 24.00% | ~12 |
-| A hidden snake | 22.00% | ~11 |
-| Blood and sand | 22.00% | ~11 |
-| Crimson rivers | 18.00% | ~9 |
-| Power of Inquisition | 18.00% | ~9 |
-| Surpass the teacher | 18.00% | ~9 |
-| Vene, vidi, vici | 18.00% | ~9 |
-| Help of the Gell | 16.00% | ~8 |
-| She-Wolf | 16.00% | ~8 |
-| Berkanan Borgia | 14.00% | ~7 |
-| Trial by cold | 14.00% | ~7 |
+| All for one! | 23.00% | ~12 |
+| A hidden snake | 21.00% | ~11 |
+| Blood and sand | 21.00% | ~11 |
+| Crimson rivers | 17.00% | ~9 |
+| Power of Inquisition | 17.00% | ~9 |
+| Surpass the teacher | 17.00% | ~9 |
+| Vene, vidi, vici | 17.00% | ~9 |
+| Help of the Gell | 15.00% | ~8 |
+| She-Wolf | 15.00% | ~8 |
+| Berkanan Borgia | 13.00% | ~7 |
+| Rage | 13.00% | ~7 |
+| Trial by cold | 13.00% | ~7 |
 | The champion of the arena | 12.00% | ~6 |
-| Rage | 12.00% | ~6 |
 | Stronger than Gellian steel | 10.00% | ~5 |
 | Protect the Healer! | 10.00% | ~5 |
 | For the greater good | 8.00% | ~4 |
@@ -30,6 +30,7 @@
 | Overplay the rogue | 8.00% | ~4 |
 | Punish the Punisher | 8.00% | ~4 |
 | The End | 8.00% | ~4 |
+| Supplier | 6.00% | ~3 |
 | The best apprentice | 6.00% | ~3 |
 | First among Frisians | 6.00% | ~3 |
 | Defeat the bear | 6.00% | ~3 |
@@ -37,7 +38,6 @@
 | Deadly strike | 6.00% | ~3 |
 | All's fair in love and war | 6.00% | ~3 |
 | Nothing is settled | 6.00% | ~3 |
-| Supplier | 4.00% | ~2 |
 | The power of persuasion | 4.00% | ~2 |
 | A solo player | 4.00% | ~2 |
 | Cunning plan | 4.00% | ~2 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51 (Ranked 539)  
+Progressed: 52 (Ranked 538)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,6 +87,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 49 | 0 |
 | 2023-12-25 | 50 | 0 |
 | 2023-12-27 | 51 | 0 |
+| 2023-12-28 | 52 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

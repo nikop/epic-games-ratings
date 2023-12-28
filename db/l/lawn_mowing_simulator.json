@@ -2230,7 +2230,7 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 692022,
+  "EOS_Progressed": 692027,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 2267,
   "EOS_NewCompleters": 0,
@@ -31175,6 +31175,11 @@
       "Time": "2023-12-28T06:09:37.0238432+00:00",
       "NumProgressed": 692022,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-28T07:09:55.447844+00:00",
+      "NumProgressed": 692027,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 54,
@@ -31186,7 +31191,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 546697
+      "UsersEstimate": 546701
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -31194,7 +31199,7 @@
       "Name": "Fighting on all fronts",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13840
+      "UsersEstimate": 13841
     },
     {
       "ID": "95_PERCENT_STRIPE",
@@ -31274,7 +31279,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 249128
+      "UsersEstimate": 249130
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -31282,7 +31287,7 @@
       "Name": "Mighty Mowing Park Ranger",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13840
+      "UsersEstimate": 13841
     },
     {
       "ID": "COMPLETE_STRIPING_CONTRACT",
@@ -31426,7 +31431,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 214527
+      "UsersEstimate": 214528
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -31450,7 +31455,7 @@
       "Name": "Every good deed\u2026",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13840
+      "UsersEstimate": 13841
     },
     {
       "ID": "HIRE_FIRST_EMPLOYEE",
@@ -31458,7 +31463,7 @@
       "Name": "Teamwork makes the dream work",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 41521
+      "UsersEstimate": 41522
     },
     {
       "ID": "NO_FINE_CONTRACT",
@@ -31490,7 +31495,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 103803
+      "UsersEstimate": 103804
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -31498,7 +31503,7 @@
       "Name": "Leaner and meaner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13840
+      "UsersEstimate": 13841
     },
     {
       "ID": "PART_EX_MORE_EXPENSIVE",
@@ -31522,7 +31527,7 @@
       "Name": "The top of the mountain",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13840
+      "UsersEstimate": 13841
     },
     {
       "ID": "PURCHASE_SECOND_HQ",
@@ -31530,7 +31535,7 @@
       "Name": "First step on the ladder",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13840
+      "UsersEstimate": 13841
     },
     {
       "ID": "PURCHASE_THIRD_HQ",
@@ -31586,7 +31591,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 124564
+      "UsersEstimate": 124565
     },
     {
       "ID": "RP_TRUSTED",
@@ -31594,7 +31599,7 @@
       "Name": "Trusted",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13840
+      "UsersEstimate": 13841
     },
     {
       "ID": "SPRINT_1_MILE",
@@ -31617,15 +31622,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 692022,
+      "Progressed": 692027,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-12-22T00:00:38.9182801+00:00",
-  "LastChanged_Achievements": "2023-12-28T06:09:37.0238429+00:00",
+  "LastChanged_Achievements": "2023-12-28T07:09:55.4478436+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:11.5619448+00:00",
-  "LastUpdate_Ratings": "2023-12-28T05:59:44.9087022+00:00",
-  "LastUpdate_Achievements": "2023-12-28T06:09:37.0240564+00:00"
+  "LastUpdate_Ratings": "2023-12-28T06:59:49.7552176+00:00",
+  "LastUpdate_Achievements": "2023-12-28T07:09:55.447984+00:00"
 }

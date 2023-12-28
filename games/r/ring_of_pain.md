@@ -51,20 +51,20 @@ Number of Ratings: 15,086  (23.09.2022)
 | New Perspectives | 0.50% | ~1,209 |
 | Shapeshifting | 0.50% | ~1,209 |
 | Expensive Look | 0.50% | ~17 |
-| Thank You, Friend | 0.40% | ~967 |
-| Shadow Spreads | 0.40% | ~967 |
-| Max Damage! | 0.40% | ~967 |
-| A Rough Road | 0.40% | ~967 |
-| To The Death! | 0.40% | ~967 |
-| Well Prepared | 0.40% | ~967 |
-| Don't Ignore Me! | 0.40% | ~967 |
-| All Consuming | 0.40% | ~967 |
-| Illuminate, Eliminate | 0.40% | ~967 |
-| Chain Reaction | 0.40% | ~967 |
-| Doing Time | 0.40% | ~967 |
-| Spreading Plague | 0.40% | ~967 |
-| Antivenom | 0.40% | ~967 |
-| The Long Run | 0.40% | ~967 |
+| Thank You, Friend | 0.40% | ~968 |
+| Shadow Spreads | 0.40% | ~968 |
+| Max Damage! | 0.40% | ~968 |
+| A Rough Road | 0.40% | ~968 |
+| To The Death! | 0.40% | ~968 |
+| Well Prepared | 0.40% | ~968 |
+| Don't Ignore Me! | 0.40% | ~968 |
+| All Consuming | 0.40% | ~968 |
+| Illuminate, Eliminate | 0.40% | ~968 |
+| Chain Reaction | 0.40% | ~968 |
+| Doing Time | 0.40% | ~968 |
+| Spreading Plague | 0.40% | ~968 |
+| Antivenom | 0.40% | ~968 |
+| The Long Run | 0.40% | ~968 |
 | Who Needs Luck? | 0.40% | ~13 |
 | New Game+ | 0.30% | ~726 |
 | Barbecue | 0.30% | ~726 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,871 (Ranked 70)  
+Progressed: 241,876 (Ranked 70)  
 Completed: 302 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -397,7 +397,7 @@ Completed: 302 (0.12%) (Ranked 301)
 | 2023-12-25 | 241,696 | 302 |
 | 2023-12-26 | 241,782 | 302 |
 | 2023-12-27 | 241,847 | 302 |
-| 2023-12-28 | 241,871 | 302 |
+| 2023-12-28 | 241,876 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,512  (Ranked 134)  
 Sum: 11,767 (Ranked 88)  

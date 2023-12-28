@@ -994,9 +994,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 358942,
+  "EOS_Progressed": 358946,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1349,
+  "EOS_NewPlayers": 1351,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29714,6 +29714,11 @@
       "Time": "2023-12-28T06:04:32.6809801+00:00",
       "NumProgressed": 358942,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-28T07:04:47.9414076+00:00",
+      "NumProgressed": 358946,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -29741,7 +29746,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43073
+      "UsersEstimate": 43074
     },
     {
       "ID": "ach004",
@@ -29781,7 +29786,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43073
+      "UsersEstimate": 43074
     },
     {
       "ID": "ach009",
@@ -29813,7 +29818,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28715
+      "UsersEstimate": 28716
     },
     {
       "ID": "ach013",
@@ -29829,7 +29834,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 53841
+      "UsersEstimate": 53842
     },
     {
       "ID": "ach015",
@@ -29853,7 +29858,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 46662
+      "UsersEstimate": 46663
     },
     {
       "ID": "ach018",
@@ -29861,7 +29866,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28715
+      "UsersEstimate": 28716
     },
     {
       "ID": "ach019",
@@ -29933,7 +29938,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 165113
+      "UsersEstimate": 165115
     },
     {
       "ID": "ach028",
@@ -30029,7 +30034,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35894
+      "UsersEstimate": 35895
     },
     {
       "ID": "ach040",
@@ -30077,7 +30082,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 46662
+      "UsersEstimate": 46663
     },
     {
       "ID": "ach046",
@@ -30093,7 +30098,7 @@
       "Name": "Crossing Over",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 3230
+      "UsersEstimate": 3231
     },
     {
       "ID": "ach048",
@@ -30189,7 +30194,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35894
+      "UsersEstimate": 35895
     },
     {
       "ID": "ach060",
@@ -30364,7 +30369,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 358942,
+      "Progressed": 358946,
       "Completed": 7
     }
   ],
@@ -30372,8 +30377,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-12-28T06:00:32.0023318+00:00",
-  "LastChanged_Achievements": "2023-12-28T06:04:32.6809797+00:00",
+  "LastChanged_Achievements": "2023-12-28T07:04:47.9414072+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:34.5692536+00:00",
-  "LastUpdate_Ratings": "2023-12-28T06:00:32.0023325+00:00",
-  "LastUpdate_Achievements": "2023-12-28T06:04:32.6811412+00:00"
+  "LastUpdate_Ratings": "2023-12-28T07:00:35.092324+00:00",
+  "LastUpdate_Achievements": "2023-12-28T07:04:47.941574+00:00"
 }

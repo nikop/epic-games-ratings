@@ -1,7 +1,7 @@
 # Partisans 1941
 [Store](https://store.epicgames.com/en-US/p/partisans-1941)  
 [View Rawdata](../../db/p/partisans_1941.json)  
-Rating: 4.62 (Ranked 375)  
+Rating: 4.62 (Ranked 374)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,7 +11,7 @@ Number of Ratings: 98  (23.09.2022)
 | War Never Changes | 44.00% | ~840 |
 | Heroes Never Die | 40.00% | ~764 |
 | Mosquito bite | 37.00% | ~706 |
-| Spice It Up | 32.00% | ~611 |
+| Spice It Up | 33.00% | ~630 |
 | Agent 47 | 27.00% | ~515 |
 | Bomberman | 27.00% | ~515 |
 | You're Gonna Go Far, Kid | 26.00% | ~496 |

@@ -5,14 +5,14 @@ Rating: 4.16 (Ranked 970)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 41.00% | ~31,880 |
-| As Far Away As Possible | 19.00% | ~14,773 |
-| More Power to You | 14.00% | ~10,886 |
-| A Most Unstable Organism | 13.00% | ~10,108 |
-| No Time to Follow Protocol | 10.00% | ~7,776 |
-| Float Like a Butterfly... | 8.00% | ~6,220 |
-| Nano Connoisseur | 7.00% | ~5,443 |
-| In Two Places At Once | 6.00% | ~4,665 |
+| Your Lucky Day | 41.00% | ~31,886 |
+| As Far Away As Possible | 19.00% | ~14,776 |
+| More Power to You | 14.00% | ~10,888 |
+| A Most Unstable Organism | 13.00% | ~10,110 |
+| No Time to Follow Protocol | 10.00% | ~7,777 |
+| Float Like a Butterfly... | 8.00% | ~6,222 |
+| Nano Connoisseur | 7.00% | ~5,444 |
+| In Two Places At Once | 6.00% | ~4,666 |
 | Pulling Your Weight | 3.00% | ~2,333 |
 | Reaping Rivals | 3.00% | ~2,333 |
 | fifteenth Time's the Charm | 1.00% | ~778 |
@@ -22,7 +22,7 @@ Rating: 4.16 (Ranked 970)
 | Runs for Your Money | 0.30% | ~233 |
 | Past Master | 0.30% | ~233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,755 (Ranked 107)  
+Progressed: 77,770 (Ranked 107)  
 Completed: 61 (0.08%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,14 +145,14 @@ Completed: 61 (0.08%) (Ranked 321)
 | 2023-12-25 | 75,646 | 60 |
 | 2023-12-26 | 76,575 | 60 |
 | 2023-12-27 | 77,509 | 61 |
-| 2023-12-28 | 77,755 | 61 |
+| 2023-12-28 | 77,770 | 61 |
 ## Awards
-Max (Great for Beginners): 120  (Ranked 349)  
-Sum: 474 (Ranked 336)  
+Max (Great for Beginners): 121  (Ranked 349)  
+Sum: 475 (Ranked 336)  
 Diff (max vs sum): 13  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 120 |
+| This game is Great for Beginners | 121 |
 | This game has Diverse Characters | 80 |
 | This game is Highly Recommended | 60 |
 | This game is Extremely Fun | 59 |
@@ -266,3 +266,4 @@ Diff (max vs sum): 13
 | 2023-12-25 | 4.15 | 120 | 469 |
 | 2023-12-26 | 4.15 | 120 | 470 |
 | 2023-12-27 | 4.16 | 120 | 474 |
+| 2023-12-28 | 4.16 | 121 | 475 |

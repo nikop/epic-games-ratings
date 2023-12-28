@@ -11,9 +11,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | This Belongs in a Museum | 5.00% | ~6,515 |
 | Overdue Notice | 5.00% | ~6,515 |
 | Autodidact | 5.00% | ~6,515 |
-| This guy... again? | 5.00% | ~258 |
-| Ploughshares to Swords | 5.00% | ~258 |
-| Bloody Graduation | 5.00% | ~258 |
+| This guy... again? | 5.00% | ~259 |
+| Ploughshares to Swords | 5.00% | ~259 |
+| Bloody Graduation | 5.00% | ~259 |
 | Serenity Now! | 4.00% | ~5,212 |
 | Not Today! | 4.00% | ~5,212 |
 | Creep and Sleep | 4.00% | ~5,212 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,301 (Ranked 87)  
+Progressed: 130,303 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-25 | 129,858 | 3 |
 | 2023-12-26 | 130,068 | 3 |
 | 2023-12-27 | 130,259 | 3 |
-| 2023-12-28 | 130,301 | 3 |
+| 2023-12-28 | 130,303 | 3 |
 ## Awards
 Max (Character Customization): 7,888  (Ranked 50)  
 Sum: 21,180 (Ranked 58)  

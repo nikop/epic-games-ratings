@@ -12,12 +12,12 @@ Rating: 4.65 (Ranked 322)
 | The Brass Boss | 26.00% | ~295 |
 | Make Up For Lost Time | 24.00% | ~272 |
 | Time Flies | 24.00% | ~272 |
+| The Harder They Fall | 24.00% | ~272 |
 | No, Thanks! | 24.00% | ~272 |
 | The Prince in Heels | 24.00% | ~272 |
 | Honest Mistake | 24.00% | ~272 |
 | Immaculate Aim | 24.00% | ~272 |
 | The Steel Shadow | 23.00% | ~261 |
-| The Harder They Fall | 23.00% | ~261 |
 | Fast Learner | 23.00% | ~261 |
 | Breaking Down Barriers | 22.00% | ~249 |
 | The Wicked Twins | 22.00% | ~249 |

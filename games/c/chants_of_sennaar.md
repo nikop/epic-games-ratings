@@ -1,20 +1,20 @@
 # Chants of Sennaar
 [Store](https://store.epicgames.com/en-US/p/chants-of-sennaar)  
 [View Rawdata](../../db/c/chants_of_sennaar.json)  
-Rating: 4.87 (Ranked 24)  
+Rating: 4.88 (Ranked 17)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | That's the spirit | 54.00% | ~1,036 |
 | Welcome to the Tower | 49.00% | ~940 |
-| The great escape | 41.00% | ~786 |
+| The great escape | 41.00% | ~787 |
 | The Preacher's fate | 39.00% | ~748 |
 | A new dawn | 33.00% | ~633 |
 | Scholar | 28.00% | ~537 |
 | True G3M4R | 27.00% | ~518 |
 | The darkness | 27.00% | ~518 |
 | A good beginning | 26.00% | ~499 |
-| One last step | 24.00% | ~460 |
+| One last step | 24.00% | ~461 |
 | Cable guy | 23.00% | ~441 |
 | Half the way | 23.00% | ~441 |
 | Rascal | 23.00% | ~441 |
@@ -22,16 +22,16 @@ Rating: 4.87 (Ranked 24)
 | In this together | 21.00% | ~403 |
 | Peace walker | 21.00% | ~403 |
 | Champollion | 21.00% | ~403 |
-| Open door | 19.00% | ~364 |
+| Open door | 19.00% | ~365 |
 | Feels like springtime | 18.00% | ~345 |
 | Alchemists Express | 18.00% | ~345 |
 | Free at last | 16.00% | ~307 |
 | A Link to the Past | 14.00% | ~269 |
 | A great audience | 12.00% | ~230 |
 | For its own good | 12.00% | ~230 |
-| Fashion victim | 8.00% | ~153 |
+| Fashion victim | 8.00% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,918 (Ranked 240)  
+Progressed: 1,919 (Ranked 240)  
 Completed: 114 (5.94%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 114 (5.94%) (Ranked 71)
 | 2023-12-25 | 1,793 | 105 |
 | 2023-12-26 | 1,854 | 110 |
 | 2023-12-27 | 1,909 | 114 |
-| 2023-12-28 | 1,918 | 114 |
+| 2023-12-28 | 1,919 | 114 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -202,3 +202,4 @@ Completed: 114 (5.94%) (Ranked 71)
 | 2023-12-23 | 4.83 | 0 | 0 |
 | 2023-12-25 | 4.85 | 0 | 0 |
 | 2023-12-26 | 4.87 | 0 | 0 |
+| 2023-12-28 | 4.88 | 0 | 0 |

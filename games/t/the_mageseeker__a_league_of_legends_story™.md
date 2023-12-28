@@ -5,24 +5,24 @@ Rating: 4.80 (Ranked 87)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,953 |
-| No more cages! | 91.00% | ~2,828 |
-| Everfrost | 77.00% | ~2,393 |
-| Pentakill | 76.00% | ~2,362 |
-| Dark Forest | 76.00% | ~2,362 |
-| The use of petricite | 73.00% | ~2,269 |
+| For Demacia | 95.00% | ~2,954 |
+| No more cages! | 91.00% | ~2,829 |
+| Everfrost | 77.00% | ~2,394 |
+| Pentakill | 76.00% | ~2,363 |
+| Dark Forest | 76.00% | ~2,363 |
+| The use of petricite | 73.00% | ~2,270 |
 | You can pet the dog | 60.00% | ~1,865 |
-| Thornbarrow | 42.00% | ~1,305 |
-| Big Helmet Bro | 40.00% | ~1,243 |
-| Clarion Cove | 40.00% | ~1,243 |
+| Thornbarrow | 42.00% | ~1,306 |
+| Big Helmet Bro | 40.00% | ~1,244 |
+| Clarion Cove | 40.00% | ~1,244 |
 | Ternmoat Headquarters | 38.00% | ~1,181 |
 | Past trauma | 37.00% | ~1,150 |
 | Elemental master | 36.00% | ~1,119 |
 | Cypress Glen Headquarters | 34.00% | ~1,057 |
 | Petricite Burst | 33.00% | ~1,026 |
 | Old friend | 32.00% | ~995 |
-| Devineur | 31.00% | ~963 |
-| Hijack | 30.00% | ~932 |
+| Devineur | 31.00% | ~964 |
+| Hijack | 30.00% | ~933 |
 | Whispers in the Woods I | 27.00% | ~839 |
 | Ancient power | 27.00% | ~839 |
 | I chose my shackles | 26.00% | ~808 |
@@ -32,13 +32,13 @@ Rating: 4.80 (Ranked 87)
 | Full equipped | 23.00% | ~715 |
 | Glyndemere | 22.00% | ~684 |
 | Iffighain Headquarters | 22.00% | ~684 |
-| Whispers in the Woods II | 18.00% | ~559 |
-| No more holding back | 18.00% | ~559 |
-| Terbisia | 18.00% | ~559 |
-| Quickmoore Headquarters | 18.00% | ~559 |
-| Whispers in the Woods III | 17.00% | ~528 |
-| Friendly fire | 17.00% | ~528 |
-| The Central Headquarters | 17.00% | ~528 |
+| Whispers in the Woods II | 18.00% | ~560 |
+| No more holding back | 18.00% | ~560 |
+| Terbisia | 18.00% | ~560 |
+| Quickmoore Headquarters | 18.00% | ~560 |
+| Whispers in the Woods III | 17.00% | ~529 |
+| Friendly fire | 17.00% | ~529 |
+| The Central Headquarters | 17.00% | ~529 |
 | My heart and sword always for Demacia | 16.00% | ~497 |
 | True power | 16.00% | ~497 |
 | Meltridge | 16.00% | ~497 |
@@ -59,7 +59,7 @@ Rating: 4.80 (Ranked 87)
 | Silverwing nest | 2.00% | ~62 |
 | The Unshackled | 1.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,108 (Ranked 221)  
+Progressed: 3,109 (Ranked 221)  
 Completed: 17 (0.55%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 17 (0.55%) (Ranked 210)
 | 2023-12-25 | 3,050 | 17 |
 | 2023-12-26 | 3,075 | 17 |
 | 2023-12-27 | 3,100 | 17 |
-| 2023-12-28 | 3,108 | 17 |
+| 2023-12-28 | 3,109 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

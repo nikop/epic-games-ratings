@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 55,
+  "Ranking_EOS_NewPlayers": 54,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9065,10 +9065,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33129,
       "NumberOfAwardsMax": 5701
+    },
+    {
+      "Time": "2023-12-28T06:58:45.5766273+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33136,
+      "NumberOfAwardsMax": 5701
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33129,
+  "NumberOfAwards": 33136,
   "NumberOfAwardsMax": 5701,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9106,7 +9112,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4283
+      "Count": 4290
     },
     {
       "Text": "This game has Playful Visuals",
@@ -9115,9 +9121,9 @@
       "Count": 3602
     }
   ],
-  "EOS_Progressed": 245776,
+  "EOS_Progressed": 245802,
   "EOS_Completed": 2569,
-  "EOS_NewPlayers": 3279,
+  "EOS_NewPlayers": 3291,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -37580,6 +37586,11 @@
       "Time": "2023-12-28T06:09:43.1050472+00:00",
       "NumProgressed": 245776,
       "NumCompleted": 2569
+    },
+    {
+      "Time": "2023-12-28T07:10:02.2352105+00:00",
+      "NumProgressed": 245802,
+      "NumCompleted": 2569
     }
   ],
   "TotalAchievements": 546,
@@ -41879,7 +41890,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "objective_completed_1558",
@@ -41958,21 +41969,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 212050,
+      "Progressed": 212076,
       "Completed": 4072
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 245776,
+      "Progressed": 245802,
       "Completed": 2569
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-27T18:59:30.8252189+00:00",
-  "LastChanged_Achievements": "2023-12-28T06:09:43.1050467+00:00",
+  "LastChanged": "2023-12-28T06:58:45.5766271+00:00",
+  "LastChanged_Achievements": "2023-12-28T07:10:02.2352102+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-28T05:58:41.2813737+00:00",
-  "LastUpdate_Achievements": "2023-12-28T06:09:43.1074499+00:00"
+  "LastUpdate_Ratings": "2023-12-28T06:58:45.5766277+00:00",
+  "LastUpdate_Achievements": "2023-12-28T07:10:02.2374516+00:00"
 }

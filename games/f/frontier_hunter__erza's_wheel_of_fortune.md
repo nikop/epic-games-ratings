@@ -35,7 +35,7 @@
 | Berserker Slayer | 11.00% | ~73 |
 | Boss challenge | 10.00% | ~67 |
 | Giantess Slayer | 10.00% | ~67 |
-| Warden Slayer | 9.00% | ~60 |
+| Warden Slayer | 10.00% | ~67 |
 | Master Cook | 8.00% | ~53 |
 | Silver Moon Wolf King Challenge | 4.00% | ~27 |
 | Flying Kobold Challenge | 3.00% | ~20 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 2.00% | ~13 |
 | Warden Challenge | 2.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 668 (Ranked 310)  
+Progressed: 668 (Ranked 311)  
 Completed: 2 (0.30%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |

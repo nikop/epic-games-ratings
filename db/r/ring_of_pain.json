@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3796,9 +3796,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 241871,
+  "EOS_Progressed": 241876,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 492,
+  "EOS_NewPlayers": 495,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29806,6 +29806,11 @@
       "Time": "2023-12-28T06:09:41.895513+00:00",
       "NumProgressed": 241871,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-28T07:10:00.3534079+00:00",
+      "NumProgressed": 241876,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -29817,7 +29822,7 @@
       "Name": "Thank You, Friend",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "ALLACHIEVEMENTS",
@@ -29881,7 +29886,7 @@
       "Name": "Shadow Spreads",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "DARKENDINGMEDIUM",
@@ -29905,7 +29910,7 @@
       "Name": "Max Damage!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "DEPTH12",
@@ -29929,7 +29934,7 @@
       "Name": "A Rough Road",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "DEPTH6",
@@ -29977,7 +29982,7 @@
       "Name": "To The Death!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "DIEHARD",
@@ -30025,7 +30030,7 @@
       "Name": "Well Prepared",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "ENDINGCHOICE",
@@ -30273,7 +30278,7 @@
       "Name": "Don\u0027t Ignore Me!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "KILLBOSSHARD",
@@ -30289,7 +30294,7 @@
       "Name": "All Consuming",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "KILLEDSELFWITHITEMS",
@@ -30369,7 +30374,7 @@
       "Name": "Illuminate, Eliminate",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "LIGHTENDINGHARD",
@@ -30409,7 +30414,7 @@
       "Name": "Chain Reaction",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "MULTIKILL30",
@@ -30481,7 +30486,7 @@
       "Name": "Doing Time",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "POISON300",
@@ -30489,7 +30494,7 @@
       "Name": "Spreading Plague",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "POISON30TIMES",
@@ -30521,7 +30526,7 @@
       "Name": "Antivenom",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "REROLL30TIMES",
@@ -30641,7 +30646,7 @@
       "Name": "The Long Run",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "WIN0ATTACK",
@@ -30920,13 +30925,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241871,
+      "Progressed": 241876,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3351,
+      "Progressed": 3356,
       "Completed": 415
     }
   ],
@@ -30934,8 +30939,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-27T23:00:02.6538244+00:00",
-  "LastChanged_Achievements": "2023-12-28T06:09:41.8955127+00:00",
+  "LastChanged_Achievements": "2023-12-28T07:10:00.3534076+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-28T05:59:08.2369716+00:00",
-  "LastUpdate_Achievements": "2023-12-28T06:09:41.8957836+00:00"
+  "LastUpdate_Ratings": "2023-12-28T06:59:12.5423028+00:00",
+  "LastUpdate_Achievements": "2023-12-28T07:10:00.3536481+00:00"
 }

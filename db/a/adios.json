@@ -135,7 +135,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81886,
+  "EOS_Progressed": 81887,
   "EOS_Completed": 901,
   "EOS_NewPlayers": 729,
   "EOS_NewCompleters": 12,
@@ -28200,6 +28200,11 @@
       "Time": "2023-12-28T06:05:05.4242287+00:00",
       "NumProgressed": 81886,
       "NumCompleted": 901
+    },
+    {
+      "Time": "2023-12-28T07:05:21.7233061+00:00",
+      "NumProgressed": 81887,
+      "NumCompleted": 901
     }
   ],
   "TotalAchievements": 25,
@@ -28227,7 +28232,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15558
+      "UsersEstimate": 15559
     },
     {
       "ID": "Audiophile",
@@ -28251,7 +28256,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14739
+      "UsersEstimate": 14740
     },
     {
       "ID": "Butcher",
@@ -28331,7 +28336,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15558
+      "UsersEstimate": 15559
     },
     {
       "ID": "Nice Try",
@@ -28355,7 +28360,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 9007
+      "UsersEstimate": 9008
     },
     {
       "ID": "Right On Target",
@@ -28410,7 +28415,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 81886,
+      "Progressed": 81887,
       "Completed": 901
     }
   ],
@@ -28418,8 +28423,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-12-24T03:59:19.0038141+00:00",
-  "LastChanged_Achievements": "2023-12-28T06:05:05.424228+00:00",
+  "LastChanged_Achievements": "2023-12-28T07:05:21.7233058+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:32.7893719+00:00",
-  "LastUpdate_Ratings": "2023-12-28T06:00:23.7680499+00:00",
-  "LastUpdate_Achievements": "2023-12-28T06:05:05.4243825+00:00"
+  "LastUpdate_Ratings": "2023-12-28T07:00:29.8609806+00:00",
+  "LastUpdate_Achievements": "2023-12-28T07:05:21.7234395+00:00"
 }

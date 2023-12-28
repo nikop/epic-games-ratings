@@ -493,9 +493,9 @@
       "ID": "Build_First_Room_Extension",
       "SetID": "7b9f97e",
       "Name": "Redecorating",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Capture_Own_Tower",
@@ -541,9 +541,9 @@
       "ID": "Craft_First_Undead",
       "SetID": "7b9f97e",
       "Name": "Necromancer\u0027s Apprentice",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Defeat_Gor",
@@ -677,9 +677,9 @@
       "ID": "HeroStory_Philo",
       "SetID": "7b9f97e",
       "Name": "Philo\u0027s Tale",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "HeroStory_Yngrid",
@@ -1038,8 +1038,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-28T06:08:56.9352124+00:00",
+  "LastChanged_Achievements": "2023-12-28T07:09:13.9633191+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:59.8342504+00:00",
-  "LastUpdate_Ratings": "2023-12-28T06:00:21.7371446+00:00",
-  "LastUpdate_Achievements": "2023-12-28T06:08:56.9352752+00:00"
+  "LastUpdate_Ratings": "2023-12-28T07:00:27.9598255+00:00",
+  "LastUpdate_Achievements": "2023-12-28T07:09:13.9633758+00:00"
 }

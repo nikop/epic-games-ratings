@@ -857,9 +857,9 @@
       "ID": "ACH_NOTALONE",
       "SetID": "88d7anj",
       "Name": "Not alone",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_PAIN",
@@ -944,8 +944,8 @@
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2023-12-28T06:08:11.6373752+00:00",
+  "LastChanged_Achievements": "2023-12-28T07:08:26.4842016+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:51.5570753+00:00",
-  "LastUpdate_Ratings": "2023-12-28T06:02:27.812272+00:00",
-  "LastUpdate_Achievements": "2023-12-28T06:08:11.6373957+00:00"
+  "LastUpdate_Ratings": "2023-12-28T07:00:39.959255+00:00",
+  "LastUpdate_Achievements": "2023-12-28T07:08:26.4842212+00:00"
 }

@@ -1,7 +1,7 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.54 (Ranked 538)  
+Rating: 4.54 (Ranked 539)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,24 +10,24 @@ Rating: 4.54 (Ranked 538)
 | Snatched Out | 65.00% | ~3,452 |
 | Cleaning Lethe, One Nest At A Time | 59.00% | ~3,133 |
 | Call Me Snake | 55.00% | ~2,921 |
-| Something Lurks Under The Hills | 53.00% | ~2,814 |
-| This Was No Papercut | 51.00% | ~2,708 |
+| Something Lurks Under The Hills | 53.00% | ~2,815 |
+| This Was No Papercut | 51.00% | ~2,709 |
 | The Shrink Hates Me | 49.00% | ~2,602 |
 | People Person | 48.00% | ~2,549 |
 | Use The Bumper, That's What It's For | 45.00% | ~2,390 |
 | First Steps Into Madness | 45.00% | ~2,390 |
-| Colonial Barrels | 43.00% | ~2,283 |
+| Colonial Barrels | 43.00% | ~2,284 |
 | Harper's Hell | 39.00% | ~2,071 |
 | Making a Stand | 38.00% | ~2,018 |
 | Damn Dude, You Gotta Lose Some Weight! | 36.00% | ~1,912 |
-| Where It All Begun | 34.00% | ~1,805 |
-| Recouped Investment | 32.00% | ~1,699 |
+| Where It All Begun | 34.00% | ~1,806 |
+| Recouped Investment | 32.00% | ~1,700 |
 | Living Nightmare | 28.00% | ~1,487 |
 | The More The Merrier | 28.00% | ~1,487 |
 | Omelette Du Fromage | 27.00% | ~1,434 |
 | The Darwin Era Was Here | 25.00% | ~1,328 |
-| Deep Into Insanity | 23.00% | ~1,221 |
-| The Passenger | 23.00% | ~1,221 |
+| Deep Into Insanity | 23.00% | ~1,222 |
+| The Passenger | 23.00% | ~1,222 |
 | Come on, You Wanna Live Forever? | 22.00% | ~1,168 |
 | The Spire | 21.00% | ~1,115 |
 | El Riesgo Siempre Vive | 20.00% | ~1,062 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 538)
 | This Ain't No Picnic | 0.60% | ~32 |
 | Chalk It Up To Experience | 0.60% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,310 (Ranked 199)  
+Progressed: 5,311 (Ranked 199)  
 Completed: 3 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 3 (0.06%) (Ranked 327)
 | 2023-12-25 | 5,139 | 3 |
 | 2023-12-26 | 5,230 | 3 |
 | 2023-12-27 | 5,297 | 3 |
-| 2023-12-28 | 5,310 | 3 |
+| 2023-12-28 | 5,311 | 3 |
 ## Awards
 Max (Great Boss Battles): 52  (Ranked 439)  
 Sum: 52 (Ranked 494)  

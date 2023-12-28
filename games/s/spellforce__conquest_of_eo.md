@@ -15,11 +15,11 @@
 | Artificer's Apprentice | 48.00% | ~43 |
 | Fly the friendly Sky | 46.00% | ~41 |
 | Get out of here! | 42.00% | ~37 |
+| Necromancer's Apprentice | 40.00% | ~36 |
 | Alchemist's Apprentice | 39.00% | ~35 |
-| Necromancer's Apprentice | 39.00% | ~35 |
 | Friend of Lyraine | 37.00% | ~33 |
 | The Circle | 36.00% | ~32 |
-| Redecorating | 31.00% | ~28 |
+| Redecorating | 33.00% | ~29 |
 | Bad JuJu | 25.00% | ~22 |
 | Slave to the rhythm | 21.00% | ~19 |
 | Friend of Sevenkeeps | 21.00% | ~19 |
@@ -29,7 +29,7 @@
 | Friend of Alluvyan | 15.00% | ~13 |
 | Friend of Connach | 15.00% | ~13 |
 | Friend of Gillyshire | 13.00% | ~12 |
-| Philo's Tale | 11.00% | ~10 |
+| Philo's Tale | 12.00% | ~11 |
 | Stormwatch Faste | 11.00% | ~10 |
 | Friend of Orgash | 11.00% | ~10 |
 | Friend of Silver Drift Hollow | 11.00% | ~10 |

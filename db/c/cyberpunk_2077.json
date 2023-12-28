@@ -17366,9 +17366,9 @@
       "Count": 17004
     }
   ],
-  "EOS_Progressed": 982271,
+  "EOS_Progressed": 982279,
   "EOS_Completed": 2987,
-  "EOS_NewPlayers": 2922,
+  "EOS_NewPlayers": 2917,
   "EOS_NewCompleters": 39,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -46111,6 +46111,11 @@
       "Time": "2023-12-28T06:05:27.2863515+00:00",
       "NumProgressed": 982271,
       "NumCompleted": 2987
+    },
+    {
+      "Time": "2023-12-28T07:05:44.0866186+00:00",
+      "NumProgressed": 982279,
+      "NumCompleted": 2987
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -46155,7 +46160,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68759
+      "UsersEstimate": 68760
     },
     {
       "ID": "FollowingTheRiver",
@@ -46163,7 +46168,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19645
+      "UsersEstimate": 19646
     },
     {
       "ID": "Fortuneteller",
@@ -46219,7 +46224,7 @@
       "Name": "I Am The Law",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 19645
+      "UsersEstimate": 19646
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -46267,7 +46272,7 @@
       "Name": "Breathtaking",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 8840
+      "UsersEstimate": 8841
     },
     {
       "ID": "NoMansLand",
@@ -46339,7 +46344,7 @@
       "Name": "The Fool",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68759
+      "UsersEstimate": 68760
     },
     {
       "ID": "TheHermit",
@@ -46363,7 +46368,7 @@
       "Name": "The Lovers",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58936
+      "UsersEstimate": 58937
     },
     {
       "ID": "TheStar",
@@ -46371,7 +46376,7 @@
       "Name": "The Star",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 8840
+      "UsersEstimate": 8841
     },
     {
       "ID": "TheSun",
@@ -46435,7 +46440,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19645
+      "UsersEstimate": 19646
     },
     {
       "ID": "UnderPressure",
@@ -46443,7 +46448,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19645
+      "UsersEstimate": 19646
     },
     {
       "ID": "VForVendetta",
@@ -46658,21 +46663,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 982271,
+      "Progressed": 982279,
       "Completed": 2987
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 110894,
-      "Completed": 10475
+      "Progressed": 110902,
+      "Completed": 10476
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-28T03:03:12.0473289+00:00",
-  "LastChanged_Achievements": "2023-12-28T06:05:27.2863511+00:00",
+  "LastChanged_Achievements": "2023-12-28T07:05:44.0866181+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:20.7663762+00:00",
-  "LastUpdate_Ratings": "2023-12-28T06:02:48.3521094+00:00",
-  "LastUpdate_Achievements": "2023-12-28T06:05:27.2865154+00:00"
+  "LastUpdate_Ratings": "2023-12-28T07:03:00.3399832+00:00",
+  "LastUpdate_Achievements": "2023-12-28T07:05:44.0867608+00:00"
 }

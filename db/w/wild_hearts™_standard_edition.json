@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 952,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -3231,9 +3231,9 @@
       "ID": "achievement_15",
       "SetID": "2cpn27e",
       "Name": "Memory Rouser",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 428
     },
     {
       "ID": "achievement_16",
@@ -3255,9 +3255,9 @@
       "ID": "achievement_18",
       "SetID": "2cpn27e",
       "Name": "Man-Machine Master",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 457
     },
     {
       "ID": "achievement_19",
@@ -3335,9 +3335,9 @@
       "ID": "achievement_27",
       "SetID": "2cpn27e",
       "Name": "Mighty Marmelizer",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 248
     },
     {
       "ID": "achievement_28",
@@ -3359,9 +3359,9 @@
       "ID": "achievement_3",
       "SetID": "2cpn27e",
       "Name": "Bonds of Enmity",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 343
     },
     {
       "ID": "achievement_30",
@@ -3391,9 +3391,9 @@
       "ID": "achievement_33",
       "SetID": "2cpn27e",
       "Name": "Human Believer",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 152
     },
     {
       "ID": "achievement_34",
@@ -3573,8 +3573,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-28T06:08:52.8094663+00:00",
+  "LastChanged_Achievements": "2023-12-28T07:09:09.9021443+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:00.2404368+00:00",
-  "LastUpdate_Ratings": "2023-12-28T05:57:04.3905851+00:00",
-  "LastUpdate_Achievements": "2023-12-28T06:08:52.8095099+00:00"
+  "LastUpdate_Ratings": "2023-12-28T06:57:07.8374252+00:00",
+  "LastUpdate_Achievements": "2023-12-28T07:09:09.9021949+00:00"
 }

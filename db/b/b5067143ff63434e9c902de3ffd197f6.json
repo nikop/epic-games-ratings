@@ -4,7 +4,7 @@
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16850,
+  "EOS_Progressed": 16855,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1454,
+  "EOS_NewPlayers": 1457,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10434,6 +10434,11 @@
       "Time": "2023-12-28T06:05:40.2457824+00:00",
       "NumProgressed": 16850,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T07:05:55.7061071+00:00",
+      "NumProgressed": 16855,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -10470,7 +10475,7 @@
       "Name": "Liminal Hotel",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_LEVEL974",
@@ -10534,7 +10539,7 @@
       "Name": "Electric",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -10542,7 +10547,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 4381
+      "UsersEstimate": 4382
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -10550,7 +10555,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2022
+      "UsersEstimate": 2023
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -10637,14 +10642,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 16850,
+      "Progressed": 16855,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-12-28T06:05:40.2457821+00:00",
+  "LastChanged_Achievements": "2023-12-28T07:05:55.7061067+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:06.2356641+00:00",
-  "LastUpdate_Ratings": "2023-12-28T06:00:25.4431914+00:00",
-  "LastUpdate_Achievements": "2023-12-28T06:05:40.2458415+00:00"
+  "LastUpdate_Ratings": "2023-12-28T07:00:31.8914797+00:00",
+  "LastUpdate_Achievements": "2023-12-28T07:05:55.7061573+00:00"
 }

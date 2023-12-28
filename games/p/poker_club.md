@@ -5,18 +5,18 @@ Rating: 3.84 (Ranked 1,057)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~415,412 |
-| Handy | 42.00% | ~229,570 |
-| Cold Caller | 40.00% | ~218,638 |
-| A Bit On The Side | 27.00% | ~147,581 |
-| Backdoor | 25.00% | ~136,649 |
-| Rank Amateur | 22.00% | ~120,251 |
-| Three Way | 19.00% | ~103,853 |
-| Deadly Assassin | 16.00% | ~87,455 |
-| Gutshot | 14.00% | ~76,523 |
-| Risk It For A Biscuit | 14.00% | ~76,523 |
-| Showoff | 13.00% | ~71,057 |
-| W.H.I.P. | 12.00% | ~65,591 |
+| Pro Creation | 76.00% | ~415,419 |
+| Handy | 42.00% | ~229,574 |
+| Cold Caller | 40.00% | ~218,642 |
+| A Bit On The Side | 27.00% | ~147,583 |
+| Backdoor | 25.00% | ~136,651 |
+| Rank Amateur | 22.00% | ~120,253 |
+| Three Way | 19.00% | ~103,855 |
+| Deadly Assassin | 16.00% | ~87,457 |
+| Gutshot | 14.00% | ~76,525 |
+| Risk It For A Biscuit | 14.00% | ~76,525 |
+| Showoff | 13.00% | ~71,059 |
+| W.H.I.P. | 12.00% | ~65,592 |
 | Bet Bet Bet | 10.00% | ~54,660 |
 | Blindman's Bluff | 9.00% | ~49,194 |
 | Poker Joker | 9.00% | ~49,194 |
@@ -51,7 +51,7 @@ Rating: 3.84 (Ranked 1,057)
 | Rounder | 0.10% | ~547 |
 | Top Dog | 0.10% | ~547 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 546,595 (Ranked 33)  
+Progressed: 546,604 (Ranked 33)  
 Completed: 2 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,15 +302,15 @@ Completed: 2 (0.00%) (Ranked 389)
 | 2023-12-25 | 545,910 | 2 |
 | 2023-12-26 | 546,215 | 2 |
 | 2023-12-27 | 546,536 | 2 |
-| 2023-12-28 | 546,595 | 2 |
+| 2023-12-28 | 546,604 | 2 |
 ## Awards
 Max (Great for Beginners): 63  (Ranked 420)  
-Sum: 199 (Ranked 414)  
-Diff (max vs sum): 6  
+Sum: 201 (Ranked 412)  
+Diff (max vs sum): 8  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 63 |
-| This game is Highly Recommended | 40 |
+| This game is Highly Recommended | 42 |
 | This game has Competitive Players | 34 |
 | This game has Quickly Understood Controls | 32 |
 | This game has a Competitive Community | 30 |
@@ -441,3 +441,4 @@ Diff (max vs sum): 6
 | 2023-12-23 | 3.83 | 63 | 197 |
 | 2023-12-26 | 3.84 | 63 | 197 |
 | 2023-12-27 | 3.84 | 63 | 199 |
+| 2023-12-28 | 3.84 | 63 | 201 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 668,
+  "EOS_Progressed": 669,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -2470,6 +2470,11 @@
       "Time": "2023-12-28T06:08:37.5916946+00:00",
       "NumProgressed": 668,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-28T07:08:53.6658963+00:00",
+      "NumProgressed": 669,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -2514,7 +2519,7 @@
       "Name": "Yuna\u0027s Promise",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -2562,7 +2567,7 @@
       "Name": "Shelter Escape",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -2618,7 +2623,7 @@
       "Name": "The First Bond",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -2626,7 +2631,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -2642,7 +2647,7 @@
       "Name": "First wall",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -2658,7 +2663,7 @@
       "Name": "Second wall",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -2681,7 +2686,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 668,
+      "Progressed": 669,
       "Completed": 2
     }
   ],
@@ -2689,8 +2694,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-27T15:59:49.1136695+00:00",
-  "LastChanged_Achievements": "2023-12-28T06:08:37.5916944+00:00",
+  "LastChanged_Achievements": "2023-12-28T07:08:53.6658959+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:10.2016354+00:00",
-  "LastUpdate_Ratings": "2023-12-28T05:58:59.5591673+00:00",
-  "LastUpdate_Achievements": "2023-12-28T06:08:37.5917399+00:00"
+  "LastUpdate_Ratings": "2023-12-28T06:59:03.5611741+00:00",
+  "LastUpdate_Achievements": "2023-12-28T07:08:53.6659281+00:00"
 }

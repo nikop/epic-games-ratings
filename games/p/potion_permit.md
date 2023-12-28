@@ -45,7 +45,7 @@ Rating: 3.84 (Ranked 1,057)
 | Being a donut... | 0.70% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,811 (Ranked 244)  
-Completed: 11 (0.61%) (Ranked 204)  
+Completed: 11 (0.61%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -902,9 +902,9 @@
       "ID": "ItsYoursMyFriend",
       "SetID": "4bd750m",
       "Name": "It\u0027s Yours, My Friend",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 149
     },
     {
       "ID": "ManicMechanic",
@@ -1045,8 +1045,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-28T06:03:53.5933278+00:00",
+  "LastChanged_Achievements": "2023-12-28T07:04:07.6082082+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3930423+00:00",
-  "LastUpdate_Ratings": "2023-12-28T06:02:55.7437462+00:00",
-  "LastUpdate_Achievements": "2023-12-28T06:03:53.5933457+00:00"
+  "LastUpdate_Ratings": "2023-12-28T07:03:07.1987235+00:00",
+  "LastUpdate_Achievements": "2023-12-28T07:04:07.6082278+00:00"
 }

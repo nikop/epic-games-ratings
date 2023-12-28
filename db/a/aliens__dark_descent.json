@@ -2,7 +2,7 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 538,
+  "Ranking_Rating": 539,
   "Ranking_Popularity": 439,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 199,
@@ -495,9 +495,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 5310,
+  "EOS_Progressed": 5311,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 642,
+  "EOS_NewPlayers": 641,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8015,6 +8015,11 @@
       "Time": "2023-12-28T06:07:58.9290718+00:00",
       "NumProgressed": 5310,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T07:06:34.1631723+00:00",
+      "NumProgressed": 5311,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -8066,7 +8071,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2283
+      "UsersEstimate": 2284
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -8218,7 +8223,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 2814
+      "UsersEstimate": 2815
     },
     {
       "ID": "ACH_MISSION_02",
@@ -8250,7 +8255,7 @@
       "Name": "Where It All Begun",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "ACH_MISSION_06",
@@ -8274,7 +8279,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "ACH_MISSION_09",
@@ -8282,7 +8287,7 @@
       "Name": "The Passenger",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "ACH_MISSION_10",
@@ -8338,7 +8343,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 2708
+      "UsersEstimate": 2709
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -8362,7 +8367,7 @@
       "Name": "Recouped Investment",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -8385,7 +8390,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 5310,
+      "Progressed": 5311,
       "Completed": 3
     }
   ],
@@ -8393,8 +8398,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-12-27T14:59:33.9489825+00:00",
-  "LastChanged_Achievements": "2023-12-28T06:07:58.9290714+00:00",
+  "LastChanged_Achievements": "2023-12-28T07:06:34.1631719+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:04.2476654+00:00",
-  "LastUpdate_Ratings": "2023-12-28T05:59:31.7301654+00:00",
-  "LastUpdate_Achievements": "2023-12-28T06:07:58.9291313+00:00"
+  "LastUpdate_Ratings": "2023-12-28T06:59:35.6975268+00:00",
+  "LastUpdate_Achievements": "2023-12-28T07:06:34.1632216+00:00"
 }

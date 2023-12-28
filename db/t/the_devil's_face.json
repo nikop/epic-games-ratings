@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 608,
+  "EOS_Progressed": 609,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.15,
   "EosHistory": [
@@ -2664,6 +2664,11 @@
       "Time": "2023-12-28T03:03:41.3084492+00:00",
       "NumProgressed": 608,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-28T07:03:32.5086326+00:00",
+      "NumProgressed": 609,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2699,7 +2704,7 @@
       "Name": "The choice",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -2731,7 +2736,7 @@
       "Name": "Our efforts are finally yielding progress",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -2786,14 +2791,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 608,
+      "Progressed": 609,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-12-28T06:03:19.0102053+00:00",
+  "LastChanged_Achievements": "2023-12-28T07:03:32.5086323+00:00",
   "LastUpdate_AppInfo": "2023-12-23T18:56:53.260283+00:00",
-  "LastUpdate_Ratings": "2023-12-28T05:57:18.8111286+00:00",
-  "LastUpdate_Achievements": "2023-12-28T06:03:19.0102303+00:00"
+  "LastUpdate_Ratings": "2023-12-28T06:57:22.5743747+00:00",
+  "LastUpdate_Achievements": "2023-12-28T07:03:32.5086493+00:00"
 }

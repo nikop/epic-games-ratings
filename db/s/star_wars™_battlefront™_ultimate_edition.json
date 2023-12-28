@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2267,
+  "EOS_Progressed": 2268,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 0,
@@ -6424,6 +6424,11 @@
       "Time": "2023-12-28T06:09:39.5108944+00:00",
       "NumProgressed": 2267,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T07:09:57.8066835+00:00",
+      "NumProgressed": 2268,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6660,7 +6665,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1995
+      "UsersEstimate": 1996
     },
     {
       "ID": "achievement_36",
@@ -6676,7 +6681,7 @@
       "Name": "Off to a good start",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "achievement_38",
@@ -6740,7 +6745,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "achievement_45",
@@ -6939,13 +6944,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2267,
+      "Progressed": 2268,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2267,
+      "Progressed": 2268,
       "Completed": 1
     }
   ],
@@ -6953,8 +6958,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-28T06:09:39.5108941+00:00",
+  "LastChanged_Achievements": "2023-12-28T07:09:57.8066833+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.4116758+00:00",
-  "LastUpdate_Ratings": "2023-12-28T06:02:29.8356634+00:00",
-  "LastUpdate_Achievements": "2023-12-28T06:09:39.510963+00:00"
+  "LastUpdate_Ratings": "2023-12-28T07:00:41.9702487+00:00",
+  "LastUpdate_Achievements": "2023-12-28T07:09:57.8067509+00:00"
 }

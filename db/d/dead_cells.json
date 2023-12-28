@@ -2,7 +2,7 @@
   "ID": "1368a7f14c3344bbaededbae528fafed",
   "Name": "Dead Cells",
   "ProductSlug": "dead-cells",
-  "Ranking_Rating": 24,
+  "Ranking_Rating": 25,
   "Ranking_Popularity": 255,
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 817,
@@ -3758,6 +3758,6 @@
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
   "LastChanged": "2023-12-27T18:58:47.6707824+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.8451289+00:00",
-  "LastUpdate_Ratings": "2023-12-28T05:58:10.8158363+00:00",
-  "LastUpdate_Achievements": "2023-12-28T06:03:08.5614493+00:00"
+  "LastUpdate_Ratings": "2023-12-28T06:58:15.1228355+00:00",
+  "LastUpdate_Achievements": "2023-12-28T07:03:22.3429132+00:00"
 }

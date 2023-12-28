@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6303,
+  "EOS_Progressed": 6306,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 521,
+  "EOS_NewPlayers": 522,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
@@ -6389,6 +6389,11 @@
       "Time": "2023-12-28T06:04:13.340728+00:00",
       "NumProgressed": 6303,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-12-28T07:04:27.8151555+00:00",
+      "NumProgressed": 6306,
+      "NumCompleted": 59
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -6417,7 +6422,7 @@
       "Name": "Collect the mask",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_OPENGATE",
@@ -6425,7 +6430,7 @@
       "Name": "Unlock the gate",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_PC",
@@ -6433,7 +6438,7 @@
       "Name": "Unlock the PC",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 2332
+      "UsersEstimate": 2333
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_SOFA",
@@ -6441,7 +6446,7 @@
       "Name": "Move the sofa",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 2143
+      "UsersEstimate": 2144
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -6449,7 +6454,7 @@
       "Name": "Turn on the TV",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 3593
+      "UsersEstimate": 3594
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -6457,7 +6462,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4979
+      "UsersEstimate": 4982
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -6528,14 +6533,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 6303,
+      "Progressed": 6306,
       "Completed": 59
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-12-28T06:04:13.3407275+00:00",
+  "LastChanged_Achievements": "2023-12-28T07:04:27.8151553+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:57.8220265+00:00",
-  "LastUpdate_Ratings": "2023-12-28T05:59:42.5787346+00:00",
-  "LastUpdate_Achievements": "2023-12-28T06:04:13.3407716+00:00"
+  "LastUpdate_Ratings": "2023-12-28T06:59:47.2711003+00:00",
+  "LastUpdate_Achievements": "2023-12-28T07:04:27.815188+00:00"
 }

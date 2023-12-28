@@ -1,28 +1,28 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 396)  
+Rating: 4.61 (Ranked 395)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~25,657 |
-| Exploitative | 4.00% | ~20,526 |
-| Point Shooting | 4.00% | ~20,526 |
-| Wet Feet | 4.00% | ~20,526 |
-| High Speed Low Drag | 3.00% | ~15,394 |
-| Lucky | 3.00% | ~15,394 |
-| Stylin' | 3.00% | ~15,394 |
-| Turf War | 3.00% | ~15,394 |
+| Wallbanger | 5.00% | ~25,658 |
+| Exploitative | 4.00% | ~20,527 |
+| Point Shooting | 4.00% | ~20,527 |
+| Wet Feet | 4.00% | ~20,527 |
+| High Speed Low Drag | 3.00% | ~15,395 |
+| Lucky | 3.00% | ~15,395 |
+| Stylin' | 3.00% | ~15,395 |
+| Turf War | 3.00% | ~15,395 |
 | Banged | 2.00% | ~10,263 |
 | Checkpoint Victory | 2.00% | ~10,263 |
 | First Blood | 2.00% | ~10,263 |
 | Flaccid Paralysis | 2.00% | ~10,263 |
 | Push Victory | 2.00% | ~10,263 |
 | Self-destructive | 2.00% | ~10,263 |
-| Blindfire | 1.00% | ~5,131 |
-| Ruthless | 1.00% | ~5,131 |
-| Semper Paratus | 1.00% | ~5,131 |
+| Blindfire | 1.00% | ~5,132 |
+| Ruthless | 1.00% | ~5,132 |
+| Semper Paratus | 1.00% | ~5,132 |
 | Carrying | 0.90% | ~4,618 |
 | Efficient | 0.90% | ~4,618 |
 | Mount & Gun | 0.90% | ~4,618 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~513 |
 | Road Hazard | 0.10% | ~513 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 513,139 (Ranked 37)  
+Progressed: 513,165 (Ranked 37)  
 Completed: 2 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 2 (0.00%) (Ranked 389)
 | 2023-12-25 | 510,899 | 2 |
 | 2023-12-26 | 511,880 | 2 |
 | 2023-12-27 | 512,843 | 2 |
-| 2023-12-28 | 513,139 | 2 |
+| 2023-12-28 | 513,165 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 413  (Ranked 235)  
 Sum: 3,292 (Ranked 178)  

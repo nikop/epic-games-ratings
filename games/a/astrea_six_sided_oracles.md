@@ -5,22 +5,22 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meissa's Savior | 80.00% | ~206 |
-| Purification Pioneer | 75.00% | ~193 |
-| Mechanical Buddy | 70.00% | ~180 |
-| Dicesmithing Time! | 62.00% | ~159 |
+| Purification Pioneer | 76.00% | ~196 |
+| Mechanical Buddy | 70.00% | ~181 |
+| Dicesmithing Time! | 62.00% | ~160 |
 | Sanctuary Guardian | 54.00% | ~139 |
 | Endless Tricks | 49.00% | ~126 |
-| Wild's Keeper | 46.00% | ~118 |
-| Mind Illuminator | 44.00% | ~113 |
+| Wild's Keeper | 46.00% | ~119 |
+| Mind Illuminator | 44.00% | ~114 |
 | Stellar Dismantler | 35.00% | ~90 |
-| Noctuan Champion | 35.00% | ~90 |
+| Noctuan Champion | 34.00% | ~88 |
 | Anomaly Destroyer | 31.00% | ~80 |
 | Astral Adventurer | 30.00% | ~77 |
-| Star Killer | 27.00% | ~69 |
-| Eridanian Champion | 25.00% | ~64 |
+| Star Killer | 27.00% | ~70 |
+| Eridanian Champion | 24.00% | ~62 |
 | Lacertian Champion | 22.00% | ~57 |
 | Loyal Partner | 21.00% | ~54 |
-| Apian Champion | 20.00% | ~51 |
+| Apian Champion | 20.00% | ~52 |
 | Shard Spender | 18.00% | ~46 |
 | Unbeatable | 17.00% | ~44 |
 | Sadistic Plan | 15.00% | ~39 |
@@ -47,12 +47,12 @@
 | The Distorted Sage | 4.00% | ~10 |
 | Behenian Hero | 4.00% | ~10 |
 | Lacertian Hero | 4.00% | ~10 |
-| Noctuan Hero | 4.00% | ~10 |
 | Purification Avatar | 3.00% | ~8 |
 | The Abyssal Terror | 3.00% | ~8 |
 | The Ardent Prince | 3.00% | ~8 |
 | Behenian Mastery | 3.00% | ~8 |
 | Eridanian Hero | 3.00% | ~8 |
+| Noctuan Hero | 3.00% | ~8 |
 | Anomaly Master | 2.00% | ~5 |
 | Astromancer | 2.00% | ~5 |
 | Critical Twist | 2.00% | ~5 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257 (Ranked 397)  
+Progressed: 258 (Ranked 395)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,4 +166,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 241 | 0 |
 | 2023-12-26 | 246 | 0 |
 | 2023-12-27 | 253 | 0 |
-| 2023-12-28 | 257 | 0 |
+| 2023-12-28 | 258 | 0 |

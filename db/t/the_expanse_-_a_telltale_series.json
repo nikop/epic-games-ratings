@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17619,
+  "EOS_Progressed": 17623,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 653,
+  "EOS_NewPlayers": 656,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15417,6 +15417,11 @@
       "Time": "2023-12-28T06:04:27.3672603+00:00",
       "NumProgressed": 17619,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-28T07:04:42.5284866+00:00",
+      "NumProgressed": 17623,
+      "NumCompleted": 56
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15461,7 +15466,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2819
+      "UsersEstimate": 2820
     },
     {
       "ID": "14",
@@ -15549,7 +15554,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "24",
@@ -15581,7 +15586,7 @@
       "Name": "Bosmang",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 1938
+      "UsersEstimate": 1939
     },
     {
       "ID": "28",
@@ -15605,7 +15610,7 @@
       "Name": "Captain Drummer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2114
+      "UsersEstimate": 2115
     },
     {
       "ID": "30",
@@ -15637,7 +15642,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1938
+      "UsersEstimate": 1939
     },
     {
       "ID": "7",
@@ -15661,7 +15666,7 @@
       "Name": "Impossible Objects",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1938
+      "UsersEstimate": 1939
     },
     {
       "ID": "31",
@@ -15708,13 +15713,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17619,
+      "Progressed": 17623,
       "Completed": 56
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3573,
+      "Progressed": 3577,
       "Completed": 1083
     }
   ],
@@ -15722,8 +15727,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-27T06:00:51.7325186+00:00",
-  "LastChanged_Achievements": "2023-12-28T06:04:27.3672599+00:00",
+  "LastChanged_Achievements": "2023-12-28T07:04:42.5284862+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-28T06:00:03.6477903+00:00",
-  "LastUpdate_Achievements": "2023-12-28T06:04:27.3673306+00:00"
+  "LastUpdate_Ratings": "2023-12-28T07:00:09.3430589+00:00",
+  "LastUpdate_Achievements": "2023-12-28T07:04:42.5285719+00:00"
 }

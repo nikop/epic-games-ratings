@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 470,
+  "EOS_Progressed": 472,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 292,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1290,6 +1290,11 @@
       "Time": "2023-12-28T04:09:00.0507371+00:00",
       "NumProgressed": 470,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T07:08:36.2904267+00:00",
+      "NumProgressed": 472,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1308,9 +1313,9 @@
       "ID": "CareerAllChallenges",
       "SetID": "5hd282c",
       "Name": "Highballer",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 90,
-      "UsersEstimate": 169
+      "UsersEstimate": 175
     },
     {
       "ID": "CareerChamp1",
@@ -1318,7 +1323,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "CareerChamp2",
@@ -1326,7 +1331,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "CareerChamp3",
@@ -1358,7 +1363,7 @@
       "Name": "Storm Warning",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "CollectVehiclesA",
@@ -1374,7 +1379,7 @@
       "Name": "Junk Collector",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "CreditsEarnedA",
@@ -1388,7 +1393,7 @@
       "ID": "GetWreckedA",
       "SetID": "5hd282c",
       "Name": "Glutton For Punishment",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -1404,7 +1409,7 @@
       "ID": "MultiplayerEventsWonA",
       "SetID": "5hd282c",
       "Name": "Human Lover",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 90,
       "UsersEstimate": 4
     },
@@ -1414,7 +1419,7 @@
       "Name": "Dirty Roller",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "PlayerRankB",
@@ -1422,7 +1427,7 @@
       "Name": "Trashing Around",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "PlayerRankC",
@@ -1446,7 +1451,7 @@
       "Name": "Hating Them Tin Cans",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "WreckOpponentsBus",
@@ -1461,7 +1466,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 470,
+      "Progressed": 472,
       "Completed": 0
     }
   ],
@@ -1469,8 +1474,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-26T23:01:34.391907+00:00",
-  "LastChanged_Achievements": "2023-12-28T06:08:21.1095713+00:00",
+  "LastChanged_Achievements": "2023-12-28T07:08:36.2904264+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-28T05:57:16.7030831+00:00",
-  "LastUpdate_Achievements": "2023-12-28T06:08:21.109594+00:00"
+  "LastUpdate_Ratings": "2023-12-28T06:57:20.4519119+00:00",
+  "LastUpdate_Achievements": "2023-12-28T07:08:36.2904511+00:00"
 }

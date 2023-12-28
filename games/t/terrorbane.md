@@ -13,8 +13,8 @@
 | Armed robbery | 36.00% | ~16 |
 | Never learn | 32.00% | ~14 |
 | B Rank Bug-catcher | 30.00% | ~13 |
+| Secret Admirer | 20.00% | ~9 |
 | Errorbane | 18.00% | ~8 |
-| Secret Admirer | 18.00% | ~8 |
 | Bugged, not stupid | 14.00% | ~6 |
 | Hackerman | 14.00% | ~6 |
 | A Rank Bug-catcher | 11.00% | ~5 |

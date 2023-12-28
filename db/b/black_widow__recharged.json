@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23944,
+  "EOS_Progressed": 23945,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 663,
+  "EOS_NewPlayers": 660,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -21628,6 +21628,11 @@
       "Time": "2023-12-28T06:03:57.330572+00:00",
       "NumProgressed": 23944,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-28T07:04:11.3470082+00:00",
+      "NumProgressed": 23945,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 14,
@@ -21639,7 +21644,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 18437
+      "UsersEstimate": 18438
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -21695,7 +21700,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 12211
+      "UsersEstimate": 12212
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -21719,7 +21724,7 @@
       "Name": "Look at Me Now",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 6225
+      "UsersEstimate": 6226
     },
     {
       "ID": "ACH_THE_FALL",
@@ -21750,15 +21755,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 23944,
+      "Progressed": 23945,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2023-12-28T06:03:57.3305716+00:00",
+  "LastChanged_Achievements": "2023-12-28T07:04:11.3470078+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:43.0369196+00:00",
-  "LastUpdate_Ratings": "2023-12-28T06:02:36.6188718+00:00",
-  "LastUpdate_Achievements": "2023-12-28T06:03:57.3306839+00:00"
+  "LastUpdate_Ratings": "2023-12-28T07:02:48.6251462+00:00",
+  "LastUpdate_Achievements": "2023-12-28T07:04:11.3471154+00:00"
 }
