@@ -19,7 +19,7 @@
 | 16 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 19 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 20 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.00% |
+| 20 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.27% |
 | 21 | [Doodle Devil](games/d/doodle_devil.md) | 21.35% |
 | 22 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.59% |
@@ -98,7 +98,7 @@
 | 96 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.80% |
 | 97 | [Doodle God](games/d/doodle_god.md) | 3.76% |
 | 98 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.70% |
-| 99 | [Dungeons 4](games/d/dungeons_4.md) | 3.68% |
+| 99 | [Dungeons 4](games/d/dungeons_4.md) | 3.67% |
 | 100 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.53% |
 | 101 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.49% |
 | 102 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.41% |
