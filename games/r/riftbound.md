@@ -10,8 +10,8 @@
 | Close Call | 20.00% | ~9 |
 | Evolution Revolution | 9.00% | ~4 |
 | Five Of A Kind | 9.00% | ~4 |
+| Hold The Line | 7.00% | ~3 |
 | I'm A Wizard | 7.00% | ~3 |
-| Hold The Line | 4.00% | ~2 |
 | Ender Ender | 2.00% | ~1 |
 | Full House | 2.00% | ~1 |
 | Over 9000 | 2.00% | ~1 |

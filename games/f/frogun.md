@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Historian | 94.00% | ~216 |
-| Treasure hunter | 90.00% | ~207 |
-| Survivalist | 84.00% | ~193 |
-| Challenge seeker | 80.00% | ~184 |
-| Coin collector | 74.00% | ~170 |
-| Floater | 59.00% | ~136 |
-| Speedrunner | 44.00% | ~101 |
-| On foot racer | 41.00% | ~94 |
-| Prickly situation handler | 35.00% | ~80 |
+| Historian | 94.00% | ~217 |
+| Treasure hunter | 90.00% | ~208 |
+| Survivalist | 84.00% | ~194 |
+| Challenge seeker | 80.00% | ~185 |
+| Coin collector | 74.00% | ~171 |
+| Floater | 58.00% | ~134 |
+| Speedrunner | 44.00% | ~102 |
+| On foot racer | 41.00% | ~95 |
+| Prickly situation handler | 35.00% | ~81 |
 | Hat lover | 33.00% | ~76 |
-| Perfectionist | 31.00% | ~71 |
+| Perfectionist | 31.00% | ~72 |
 | Protected | 30.00% | ~69 |
 | Pragmatic | 22.00% | ~51 |
 | Calory burner | 19.00% | ~44 |
-| Snow digger | 15.00% | ~34 |
-| Pacifist | 15.00% | ~34 |
+| Snow digger | 15.00% | ~35 |
+| Pacifist | 15.00% | ~35 |
 | Model | 14.00% | ~32 |
 | Fire extinguisher | 11.00% | ~25 |
 | Hubworld fan | 11.00% | ~25 |
@@ -36,8 +36,8 @@
 | Art lover | 1.00% | ~2 |
 | Completionist | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230 (Ranked 405)  
-Completed: 4 (1.74%) (Ranked 141)  
+Progressed: 231 (Ranked 405)  
+Completed: 4 (1.73%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,6 +73,7 @@ Completed: 4 (1.74%) (Ranked 141)
 | 2023-12-18 | 228 | 4 |
 | 2023-12-21 | 229 | 4 |
 | 2023-12-22 | 230 | 4 |
+| 2023-12-28 | 231 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

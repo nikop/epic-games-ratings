@@ -6,13 +6,13 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~566 |
-| Lost and Found | 7.00% | ~360 |
+| Malpractice Assurance | 11.00% | ~567 |
+| Lost and Found | 7.00% | ~361 |
 | This Belongs in a Museum | 5.00% | ~6,514 |
 | Autodidact | 5.00% | ~6,514 |
-| This guy... again? | 5.00% | ~257 |
-| Ploughshares to Swords | 5.00% | ~257 |
-| Bloody Graduation | 5.00% | ~257 |
+| This guy... again? | 5.00% | ~258 |
+| Ploughshares to Swords | 5.00% | ~258 |
+| Bloody Graduation | 5.00% | ~258 |
 | Serenity Now! | 4.00% | ~5,211 |
 | Not Today! | 4.00% | ~5,211 |
 | Creep and Sleep | 4.00% | ~5,211 |
@@ -28,11 +28,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | Spelunker | 3.00% | ~3,908 |
 | Merry Time | 3.00% | ~3,908 |
 | Harvest Festival | 3.00% | ~3,908 |
+| Ramble On | 3.00% | ~3,908 |
 | Whale | 3.00% | ~3,908 |
 | A Place to Lay Your Head | 3.00% | ~3,908 |
 | FNG | 3.00% | ~3,908 |
 | Nope | 3.00% | ~3,908 |
-| Friends 'Til the End | 3.00% | ~154 |
+| Friends 'Til the End | 3.00% | ~155 |
 | Resurrection | 2.00% | ~2,606 |
 | Unleash Hell | 2.00% | ~2,606 |
 | Funny Guy | 2.00% | ~2,606 |
@@ -47,7 +48,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Deprogramming | 2.00% | ~2,606 |
 | Now Stay Dead | 2.00% | ~2,606 |
 | Reverse Banditry | 2.00% | ~2,606 |
-| Ramble On | 2.00% | ~2,606 |
 | A Clear Conscience | 2.00% | ~2,606 |
 | When You Want Something Done Right | 2.00% | ~2,606 |
 | Worldly Traveller | 2.00% | ~2,606 |
@@ -60,8 +60,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hot Air | 1.00% | ~1,303 |
 | Eyes Up | 1.00% | ~1,303 |
 | Handled | 1.00% | ~1,303 |
-| Slap on the Wrist | 1.00% | ~51 |
-| For Old Time' Sake | 1.00% | ~51 |
+| Slap on the Wrist | 1.00% | ~52 |
+| For Old Time' Sake | 1.00% | ~52 |
 | Body of Work | 0.90% | ~1,173 |
 | Shrine of Reflection | 0.80% | ~1,042 |
 | Clearing the Ledger | 0.70% | ~912 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,278 (Ranked 87)  
+Progressed: 130,283 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,10 +328,10 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-25 | 129,858 | 3 |
 | 2023-12-26 | 130,068 | 3 |
 | 2023-12-27 | 130,259 | 3 |
-| 2023-12-28 | 130,278 | 3 |
+| 2023-12-28 | 130,283 | 3 |
 ## Awards
 Max (Character Customization): 7,888  (Ranked 50)  
-Sum: 21,171 (Ranked 58)  
+Sum: 21,176 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -343,7 +343,7 @@ Diff (max vs sum): -8
 | This game has Amazing Characters | 1,496 |
 | This game has Unique Visuals | 1,428 |
 | This game has Amazing Storytelling | 1,416 |
-| This game has Quickly Understood Controls | 1,384 |
+| This game has Quickly Understood Controls | 1,389 |
 | This game has a Creative Community | 1,059 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -684,4 +684,4 @@ Diff (max vs sum): -8
 | 2023-12-25 | 4.68 | - | 7,875 | 21,096 |
 | 2023-12-26 | 4.68 | - | 7,882 | 21,127 |
 | 2023-12-27 | 4.68 | - | 7,882 | 21,156 |
-| 2023-12-28 | 4.68 | - | 7,888 | 21,171 |
+| 2023-12-28 | 4.68 | - | 7,888 | 21,176 |

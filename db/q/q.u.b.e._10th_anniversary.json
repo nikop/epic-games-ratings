@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
     "PcReleaseDate": "2022-09-14T13:00:00+00:00",
@@ -312,9 +312,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 27174,
+  "EOS_Progressed": 27175,
   "EOS_Completed": 176,
-  "EOS_NewPlayers": 1211,
+  "EOS_NewPlayers": 1212,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -8447,6 +8447,11 @@
       "Time": "2023-12-28T01:54:11.9343044+00:00",
       "NumProgressed": 27174,
       "NumCompleted": 176
+    },
+    {
+      "Time": "2023-12-28T02:28:46.1514163+00:00",
+      "NumProgressed": 27175,
+      "NumCompleted": 176
     }
   ],
   "TotalAchievements": 24,
@@ -8482,7 +8487,7 @@
       "Name": "Crush That Ball!",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 4891
+      "UsersEstimate": 4892
     },
     {
       "ID": "ACH_CrushPhysicsCube",
@@ -8506,7 +8511,7 @@
       "Name": "Bronze Trophy",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ACH_S8AllCubes",
@@ -8514,7 +8519,7 @@
       "Name": "Master Of The Collectables",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ACH_S8AllGold",
@@ -8522,7 +8527,7 @@
       "Name": "Gold Trophy",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ACH_S8AllMasterRoom",
@@ -8530,7 +8535,7 @@
       "Name": "Hopefully that\u0027s all of them!",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ACH_S8AllPuzzleRooms",
@@ -8538,7 +8543,7 @@
       "Name": "Phew!",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ACH_S8AllPuzzles",
@@ -8546,7 +8551,7 @@
       "Name": "The Puzzle Master",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ACH_S8AllSilver",
@@ -8554,7 +8559,7 @@
       "Name": "Silver Trophy",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ACH_S8Exit",
@@ -8562,7 +8567,7 @@
       "Name": "Completed It.",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ACH_S8MasterRoom",
@@ -8578,7 +8583,7 @@
       "Name": "Maxed Out",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ACH_Sector1",
@@ -8626,7 +8631,7 @@
       "Name": "Sector 6",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2717
+      "UsersEstimate": 2718
     },
     {
       "ID": "ACH_Sector7",
@@ -8649,7 +8654,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 27174,
+      "Progressed": 27175,
       "Completed": 176
     }
   ],
@@ -8657,8 +8662,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-12-25T18:58:12.5329399+00:00",
-  "LastChanged_Achievements": "2023-12-28T01:54:11.9343037+00:00",
+  "LastChanged_Achievements": "2023-12-28T02:28:46.1514159+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:02.1123964+00:00",
-  "LastUpdate_Ratings": "2023-12-28T01:43:31.1540188+00:00",
-  "LastUpdate_Achievements": "2023-12-28T01:54:11.9343674+00:00"
+  "LastUpdate_Ratings": "2023-12-28T02:18:30.2293176+00:00",
+  "LastUpdate_Achievements": "2023-12-28T02:28:46.1514635+00:00"
 }

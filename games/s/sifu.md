@@ -6,20 +6,20 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,858 |
-| Life is your teacher | 4.00% | ~29,858 |
+| The Old Grandmaster | 4.00% | ~29,859 |
+| Life is your teacher | 4.00% | ~29,859 |
 | The Assault | 3.00% | ~22,394 |
 | Lightning Hands | 3.00% | ~22,394 |
-| The Hateful Pole Fighter | 2.00% | ~14,929 |
-| A Lady's Blood in the Snow | 2.00% | ~14,929 |
-| Stuntmaster | 2.00% | ~14,929 |
-| Street Fighting | 2.00% | ~14,929 |
-| State of constant learning | 2.00% | ~14,929 |
-| Qi Gong: Breath | 2.00% | ~14,929 |
-| Qi Gong: Essence | 2.00% | ~14,929 |
-| Old Child | 2.00% | ~14,929 |
-| Rumble in the Hangar | 2.00% | ~14,929 |
-| Diligence as a goal | 2.00% | ~1,115 |
+| The Hateful Pole Fighter | 2.00% | ~14,930 |
+| A Lady's Blood in the Snow | 2.00% | ~14,930 |
+| Stuntmaster | 2.00% | ~14,930 |
+| Street Fighting | 2.00% | ~14,930 |
+| State of constant learning | 2.00% | ~14,930 |
+| Qi Gong: Breath | 2.00% | ~14,930 |
+| Qi Gong: Essence | 2.00% | ~14,930 |
+| Old Child | 2.00% | ~14,930 |
+| Rumble in the Hangar | 2.00% | ~14,930 |
+| Diligence as a goal | 2.00% | ~1,116 |
 | Lady Wing Chun | 1.00% | ~7,465 |
 | Furious Fists | 1.00% | ~7,465 |
 | Kill Nil | 1.00% | ~7,465 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~56 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 746,456 (Ranked 23)  
+Progressed: 746,478 (Ranked 23)  
 Completed: 12,967 (1.74%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 12,967 (1.74%) (Ranked 141)
 | 2023-12-25 | 744,462 | 12,966 |
 | 2023-12-26 | 745,555 | 12,967 |
 | 2023-12-27 | 746,407 | 12,967 |
-| 2023-12-28 | 746,456 | 12,967 |
+| 2023-12-28 | 746,478 | 12,967 |
 ## Awards
 Max (Great Boss Battles): 7,028  (Ranked 55)  
 Sum: 11,888 (Ranked 87)  

@@ -20,7 +20,7 @@
 | Eridanian Champion | 24.00% | ~61 |
 | Loyal Partner | 21.00% | ~54 |
 | Lacertian Champion | 21.00% | ~54 |
-| Apian Champion | 19.00% | ~48 |
+| Apian Champion | 20.00% | ~51 |
 | Shard Spender | 17.00% | ~43 |
 | Unbeatable | 17.00% | ~43 |
 | Sadistic Plan | 15.00% | ~38 |

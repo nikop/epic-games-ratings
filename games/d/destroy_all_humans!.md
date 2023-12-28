@@ -6,7 +6,7 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 67.00% | ~129 |
+| Shop Til They Drop | 68.00% | ~131 |
 | Kaijuiced | 65.00% | ~125 |
 | Lie Back and Think of Albion | 60.00% | ~116 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~112 |
@@ -24,8 +24,8 @@ Number of Ratings: 85  (23.09.2022)
 | Forbidden Donut | 31.00% | ~60 |
 | Furon Fashion | 26.00% | ~50 |
 | Deincarnated | 24.00% | ~46 |
+| Rock of the Bay | 24.00% | ~46 |
 | Trans-Siberian Express | 24.00% | ~46 |
-| Rock of the Bay | 23.00% | ~44 |
 | Re-Return of the Clone of the Invasion II-2 | 21.00% | ~41 |
 | Arkvoodle Doodle | 16.00% | ~31 |
 | Ouch of Body Experience | 16.00% | ~31 |
@@ -36,8 +36,8 @@ Number of Ratings: 85  (23.09.2022)
 | Dusted | 13.00% | ~25 |
 | Albion Bridge Is for Falling Down | 12.00% | ~23 |
 | Scuttled | 9.00% | ~17 |
+| PK Slam Dunk | 9.00% | ~17 |
 | Higher Than the Futen Zoku | 9.00% | ~17 |
-| PK Slam Dunk | 8.00% | ~15 |
 | Arty Facts | 7.00% | ~14 |
 | Path of the Furon | 5.00% | ~10 |
 | Cult Following | 4.00% | ~8 |
@@ -48,7 +48,7 @@ Number of Ratings: 85  (23.09.2022)
 | Steezy Down the Spine | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 193 (Ranked 420)  
-Completed: 2 (1.04%) (Ranked 169)  
+Completed: 2 (1.04%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

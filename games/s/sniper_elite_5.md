@@ -5,22 +5,22 @@ Rating: 4.45 (Ranked 680)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,945 |
-| Confirming Suspicions | 42.00% | ~1,738 |
-| The Kraken Wakes | 37.00% | ~1,531 |
-| It's Starting to Crack | 34.00% | ~1,407 |
+| Meeting Resistance | 47.00% | ~1,946 |
+| Confirming Suspicions | 42.00% | ~1,739 |
+| The Kraken Wakes | 37.00% | ~1,532 |
+| It's Starting to Crack | 34.00% | ~1,408 |
 | Lord of War | 31.00% | ~1,283 |
 | Change the Channel | 31.00% | ~1,283 |
-| Taking it back | 29.00% | ~1,200 |
+| Taking it back | 29.00% | ~1,201 |
 | Resourceful | 28.00% | ~1,159 |
 | Target America | 27.00% | ~1,118 |
 | The Kraken Sleeps | 25.00% | ~1,035 |
-| As Quiet as a Mouse | 24.00% | ~993 |
+| As Quiet as a Mouse | 24.00% | ~994 |
 | Liberté | 23.00% | ~952 |
 | Organ Grinder | 23.00% | ~952 |
 | Sharpshooter | 23.00% | ~952 |
-| Gunslinger | 19.00% | ~786 |
-| Explosive Efficiency | 19.00% | ~786 |
+| Gunslinger | 19.00% | ~787 |
+| Explosive Efficiency | 19.00% | ~787 |
 | Climbing the Ladder | 17.00% | ~704 |
 | Just a Flesh Wound | 17.00% | ~704 |
 | Der Geist | 17.00% | ~704 |
@@ -29,10 +29,10 @@ Rating: 4.45 (Ranked 680)
 | Skirmisher | 15.00% | ~621 |
 | Die Nussknacker Sweet! | 15.00% | ~621 |
 | Brains of the Operation | 15.00% | ~621 |
-| No Stone Unturned | 14.00% | ~579 |
-| Opposing Force | 14.00% | ~579 |
-| Enemy at the Gates | 14.00% | ~579 |
-| Fields of Glory | 14.00% | ~579 |
+| No Stone Unturned | 14.00% | ~580 |
+| Opposing Force | 14.00% | ~580 |
+| Enemy at the Gates | 14.00% | ~580 |
+| Fields of Glory | 14.00% | ~580 |
 | Set Europe Ablaze | 13.00% | ~538 |
 | Precision Is Key | 10.00% | ~414 |
 | My Little Friend | 10.00% | ~414 |
@@ -45,9 +45,9 @@ Rating: 4.45 (Ranked 680)
 | It'll Buff Right Out | 5.00% | ~207 |
 | Road Rage | 5.00% | ~207 |
 | Don't hold your breath | 5.00% | ~207 |
-| Last Resort | 5.00% | ~204 |
-| Siegebreaker | 5.00% | ~204 |
-| Ghost of Falaise | 5.00% | ~204 |
+| Last Resort | 5.00% | ~205 |
+| Siegebreaker | 5.00% | ~205 |
+| Ghost of Falaise | 5.00% | ~205 |
 | Locomotion Commotion | 4.00% | ~166 |
 | From Paris with Love | 3.00% | ~124 |
 | Burn after reading | 3.00% | ~124 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 680)
 | Stroll in the Woods | 0.60% | ~25 |
 | Going Overboard | 0.60% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,139 (Ranked 206)  
+Progressed: 4,140 (Ranked 206)  
 Completed: 11 (0.27%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 11 (0.27%) (Ranked 259)
 | 2023-12-25 | 4,109 | 11 |
 | 2023-12-26 | 4,128 | 11 |
 | 2023-12-27 | 4,137 | 11 |
-| 2023-12-28 | 4,139 | 11 |
+| 2023-12-28 | 4,140 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 525)  
 Sum: 28 (Ranked 540)  

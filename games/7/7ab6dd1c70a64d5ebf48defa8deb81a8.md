@@ -5,17 +5,17 @@ Rating: 4.08 (Ranked 999)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 57.00% | ~780 |
+| Break Out | 57.00% | ~781 |
 | Trinity | 27.00% | ~370 |
-| A Taste of Wrath | 21.00% | ~287 |
-| The Collector | 21.00% | ~287 |
+| A Taste of Wrath | 21.00% | ~288 |
+| The Collector | 21.00% | ~288 |
 | Find Allies | 20.00% | ~274 |
-| Geared Up | 20.00% | ~274 |
 | I Found It | 20.00% | ~274 |
 | Shatter Them All | 19.00% | ~260 |
+| Geared Up | 19.00% | ~260 |
 | Scholar | 19.00% | ~260 |
-| Adventurer | 18.00% | ~246 |
-| Fashion Victim | 18.00% | ~246 |
+| Adventurer | 18.00% | ~247 |
+| Fashion Victim | 18.00% | ~247 |
 | Tributes of Caladrias | 17.00% | ~233 |
 | Stone Collection | 17.00% | ~233 |
 | Powerful Allies | 16.00% | ~219 |
@@ -42,7 +42,7 @@ Rating: 4.08 (Ranked 999)
 | All That Gold | 0.70% | ~10 |
 | Feeling Fancy | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,369 (Ranked 260)  
+Progressed: 1,370 (Ranked 260)  
 Completed: 3 (0.22%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 3 (0.22%) (Ranked 270)
 | 2023-12-25 | 1,248 | 3 |
 | 2023-12-26 | 1,308 | 3 |
 | 2023-12-27 | 1,365 | 3 |
-| 2023-12-28 | 1,369 | 3 |
+| 2023-12-28 | 1,370 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

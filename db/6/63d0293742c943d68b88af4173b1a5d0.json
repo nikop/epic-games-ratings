@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 542,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1903,9 +1903,9 @@
       "ID": "Remake_13",
       "SetID": "5pi96jj",
       "Name": "Toasted",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 87
+      "UsersEstimate": 92
     },
     {
       "ID": "Remake_14",
@@ -1990,8 +1990,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-28T01:49:39.2707914+00:00",
+  "LastChanged_Achievements": "2023-12-28T02:24:23.5145129+00:00",
   "LastUpdate_AppInfo": "2023-12-26T02:16:12.1403657+00:00",
-  "LastUpdate_Ratings": "2023-12-28T01:42:52.5197222+00:00",
-  "LastUpdate_Achievements": "2023-12-28T01:49:39.2708152+00:00"
+  "LastUpdate_Ratings": "2023-12-28T02:17:53.582863+00:00",
+  "LastUpdate_Achievements": "2023-12-28T02:24:23.5145335+00:00"
 }

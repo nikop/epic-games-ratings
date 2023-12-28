@@ -5,13 +5,13 @@ Rating: 4.54 (Ranked 538)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~4,084 |
+| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~4,085 |
 | Keep 'Em Coming | 66.00% | ~3,501 |
 | Snatched Out | 65.00% | ~3,448 |
-| Cleaning Lethe, One Nest At A Time | 59.00% | ~3,129 |
-| Call Me Snake | 55.00% | ~2,917 |
-| Something Lurks Under The Hills | 53.00% | ~2,811 |
-| This Was No Papercut | 51.00% | ~2,705 |
+| Cleaning Lethe, One Nest At A Time | 59.00% | ~3,130 |
+| Call Me Snake | 55.00% | ~2,918 |
+| Something Lurks Under The Hills | 53.00% | ~2,812 |
+| This Was No Papercut | 51.00% | ~2,706 |
 | The Shrink Hates Me | 49.00% | ~2,599 |
 | People Person | 48.00% | ~2,546 |
 | Use The Bumper, That's What It's For | 45.00% | ~2,387 |
@@ -19,9 +19,9 @@ Rating: 4.54 (Ranked 538)
 | Colonial Barrels | 43.00% | ~2,281 |
 | Harper's Hell | 39.00% | ~2,069 |
 | Making a Stand | 38.00% | ~2,016 |
-| Damn Dude, You Gotta Lose Some Weight! | 36.00% | ~1,909 |
-| Where It All Begun | 34.00% | ~1,803 |
-| Recouped Investment | 32.00% | ~1,697 |
+| Damn Dude, You Gotta Lose Some Weight! | 36.00% | ~1,910 |
+| Where It All Begun | 34.00% | ~1,804 |
+| Recouped Investment | 32.00% | ~1,698 |
 | Living Nightmare | 28.00% | ~1,485 |
 | The More The Merrier | 28.00% | ~1,485 |
 | Omelette Du Fromage | 27.00% | ~1,432 |
@@ -39,9 +39,9 @@ Rating: 4.54 (Ranked 538)
 | The Cable Guy | 17.00% | ~902 |
 | Bandage Lover | 16.00% | ~849 |
 | Regicide | 13.00% | ~690 |
-| This Went Smoothly | 12.00% | ~636 |
-| Flawless Victory | 11.00% | ~583 |
-| Heavy Steps | 11.00% | ~583 |
+| This Went Smoothly | 12.00% | ~637 |
+| Flawless Victory | 11.00% | ~584 |
+| Heavy Steps | 11.00% | ~584 |
 | Perfect Enhancements | 8.00% | ~424 |
 | Hardened In The Heat Of Battle | 6.00% | ~318 |
 | The True Experience | 5.00% | ~265 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 538)
 | This Ain't No Picnic | 0.60% | ~32 |
 | Chalk It Up To Experience | 0.60% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,304 (Ranked 199)  
+Progressed: 5,305 (Ranked 199)  
 Completed: 3 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 3 (0.06%) (Ranked 327)
 | 2023-12-25 | 5,139 | 3 |
 | 2023-12-26 | 5,230 | 3 |
 | 2023-12-27 | 5,297 | 3 |
-| 2023-12-28 | 5,304 | 3 |
+| 2023-12-28 | 5,305 | 3 |
 ## Awards
 Max (Great Boss Battles): 52  (Ranked 439)  
 Sum: 52 (Ranked 494)  

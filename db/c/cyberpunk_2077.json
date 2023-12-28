@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 9,
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -17360,9 +17360,9 @@
       "Count": 17004
     }
   ],
-  "EOS_Progressed": 982216,
+  "EOS_Progressed": 982221,
   "EOS_Completed": 2987,
-  "EOS_NewPlayers": 2911,
+  "EOS_NewPlayers": 2906,
   "EOS_NewCompleters": 39,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -46080,6 +46080,11 @@
       "Time": "2023-12-28T01:50:06.6382229+00:00",
       "NumProgressed": 982216,
       "NumCompleted": 2987
+    },
+    {
+      "Time": "2023-12-28T02:24:47.9041846+00:00",
+      "NumProgressed": 982221,
+      "NumCompleted": 2987
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -46108,7 +46113,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29466
+      "UsersEstimate": 29467
     },
     {
       "ID": "Cyberjunkie",
@@ -46164,7 +46169,7 @@
       "Name": "Gun Fu",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 78577
+      "UsersEstimate": 78578
     },
     {
       "ID": "Gunslinger",
@@ -46180,7 +46185,7 @@
       "Name": "Master Crafter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29466
+      "UsersEstimate": 29467
     },
     {
       "ID": "IAmMaxTac",
@@ -46220,7 +46225,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29466
+      "UsersEstimate": 29467
     },
     {
       "ID": "MustBeTheRats",
@@ -46260,7 +46265,7 @@
       "Name": "Life of the Road",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29466
+      "UsersEstimate": 29467
     },
     {
       "ID": "Roleplayer",
@@ -46324,7 +46329,7 @@
       "Name": "The High Priestess",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29466
+      "UsersEstimate": 29467
     },
     {
       "ID": "TheLovers",
@@ -46364,7 +46369,7 @@
       "Name": "The World",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 29466
+      "UsersEstimate": 29467
     },
     {
       "ID": "ThisIsPacifica",
@@ -46396,7 +46401,7 @@
       "Name": "True Warrior",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 29466
+      "UsersEstimate": 29467
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -46420,7 +46425,7 @@
       "Name": "V for Vendetta",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117866
+      "UsersEstimate": 117867
     },
     {
       "ID": "YipMan",
@@ -46436,7 +46441,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 29466
+      "UsersEstimate": 29467
     },
     {
       "ID": "All the President\u0027s Men",
@@ -46627,21 +46632,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 982216,
+      "Progressed": 982221,
       "Completed": 2987
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 110839,
+      "Progressed": 110844,
       "Completed": 10474
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-12-28T01:47:09.0795068+00:00",
-  "LastChanged_Achievements": "2023-12-28T01:50:06.6382225+00:00",
+  "LastChanged_Achievements": "2023-12-28T02:24:47.9041841+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:20.7663762+00:00",
-  "LastUpdate_Ratings": "2023-12-28T01:47:09.0795074+00:00",
-  "LastUpdate_Achievements": "2023-12-28T01:50:06.6384031+00:00"
+  "LastUpdate_Ratings": "2023-12-28T02:21:57.919728+00:00",
+  "LastUpdate_Achievements": "2023-12-28T02:24:47.9043299+00:00"
 }

@@ -25,8 +25,8 @@ Rating: 4.65 (Ranked 322)
 | Like Clockwork | 21.00% | ~238 |
 | The Betrayer | 21.00% | ~238 |
 | Golem Chaser | 21.00% | ~238 |
+| Check Your Pulse | 20.00% | ~226 |
 | The Loose Cannon | 19.00% | ~215 |
-| Check Your Pulse | 19.00% | ~215 |
 | Street Style | 18.00% | ~204 |
 | The Man Who Shattered Time | 18.00% | ~204 |
 | The Family Fortune | 18.00% | ~204 |

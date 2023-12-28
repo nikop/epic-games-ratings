@@ -1,30 +1,30 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.51 (Ranked 584)  
+Rating: 4.51 (Ranked 585)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~176,690 |
-| FIRST BLOOD | 40.00% | ~157,058 |
-| KEVIN! | 30.00% | ~117,794 |
-| JACK OF ALL TRADES | 23.00% | ~90,308 |
-| CRIMINAL | 20.00% | ~78,529 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~43,191 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~35,338 |
-| HONORS STUDENT | 8.00% | ~31,412 |
+| MASTER CHEF | 45.00% | ~176,696 |
+| FIRST BLOOD | 40.00% | ~157,063 |
+| KEVIN! | 30.00% | ~117,797 |
+| JACK OF ALL TRADES | 23.00% | ~90,311 |
+| CRIMINAL | 20.00% | ~78,532 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~43,192 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~35,339 |
+| HONORS STUDENT | 8.00% | ~31,413 |
 | BUTCHER | 6.00% | ~23,559 |
-| INDIVIDUAL APPROACH | 5.00% | ~19,632 |
-| RAMBO | 5.00% | ~19,632 |
+| INDIVIDUAL APPROACH | 5.00% | ~19,633 |
+| RAMBO | 5.00% | ~19,633 |
 | HELL'S KITCHEN | 4.00% | ~15,706 |
-| CELEBRITY | 3.00% | ~11,779 |
-| MARTYR | 3.00% | ~11,779 |
+| CELEBRITY | 3.00% | ~11,780 |
+| MARTYR | 3.00% | ~11,780 |
 | GRATITUDE | 2.00% | ~7,853 |
 | PATTY-KILLER | 2.00% | ~7,853 |
-| EXPERIMENTALIST | 1.00% | ~3,926 |
-| GOURMET | 1.00% | ~3,926 |
-| LAW-ABIDING CITIZEN | 1.00% | ~3,926 |
-| PRUDENT | 1.00% | ~3,926 |
+| EXPERIMENTALIST | 1.00% | ~3,927 |
+| GOURMET | 1.00% | ~3,927 |
+| LAW-ABIDING CITIZEN | 1.00% | ~3,927 |
+| PRUDENT | 1.00% | ~3,927 |
 | SCATTERBRAIN | 0.80% | ~3,141 |
 | HIGH TECHNOLOGIES | 0.70% | ~2,749 |
 | TASTE UNTASTY | 0.50% | ~1,963 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 584)
 | MISTER ALL THUMBS | 0.10% | ~393 |
 | TRAVELER | 0.10% | ~393 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 392,645 (Ranked 47)  
+Progressed: 392,658 (Ranked 47)  
 Completed: 55 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 55 (0.01%) (Ranked 367)
 | 2023-12-25 | 391,232 | 53 |
 | 2023-12-26 | 391,924 | 53 |
 | 2023-12-27 | 392,575 | 55 |
-| 2023-12-28 | 392,645 | 55 |
+| 2023-12-28 | 392,658 | 55 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

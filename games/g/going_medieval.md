@@ -10,22 +10,22 @@ Number of Ratings: 706  (23.09.2022)
 | Having A Field Day | 76.00% | ~5,752 |
 | Reap What You Sow | 73.00% | ~5,525 |
 | The First Day | 70.00% | ~5,298 |
-| Novice Researcher | 68.00% | ~5,146 |
+| Novice Researcher | 68.00% | ~5,147 |
 | Green Thumb | 67.00% | ~5,071 |
-| Home Cooked Meal | 62.00% | ~4,692 |
-| Onward | 58.00% | ~4,389 |
-| The First Week | 56.00% | ~4,238 |
-| Studious Researcher | 53.00% | ~4,011 |
-| Beam Me Up | 52.00% | ~3,935 |
+| Home Cooked Meal | 62.00% | ~4,693 |
+| Onward | 58.00% | ~4,390 |
+| The First Week | 56.00% | ~4,239 |
+| Studious Researcher | 53.00% | ~4,012 |
+| Beam Me Up | 52.00% | ~3,936 |
 | Putting Food on the Table | 45.00% | ~3,406 |
 | Adept Researcher | 45.00% | ~3,406 |
-| Retribution | 43.00% | ~3,254 |
-| ...And Don’t Come Back! | 43.00% | ~3,254 |
-| Feast or Famine | 36.00% | ~2,724 |
-| Heating Up | 33.00% | ~2,497 |
-| Luminary Researcher | 30.00% | ~2,270 |
+| Retribution | 43.00% | ~3,255 |
+| ...And Don’t Come Back! | 43.00% | ~3,255 |
+| Feast or Famine | 36.00% | ~2,725 |
+| Heating Up | 33.00% | ~2,498 |
+| Luminary Researcher | 30.00% | ~2,271 |
 | Winter Is Coming | 29.00% | ~2,195 |
-| Fit For A King | 27.00% | ~2,043 |
+| Fit For A King | 27.00% | ~2,044 |
 | Winter Is Here | 26.00% | ~1,968 |
 | Oh Deer! | 23.00% | ~1,741 |
 | Disassembled | 22.00% | ~1,665 |
@@ -33,12 +33,12 @@ Number of Ratings: 706  (23.09.2022)
 | All Year Round | 22.00% | ~1,665 |
 | Nothing Wasted | 13.00% | ~984 |
 | Don't Cry Wolf | 13.00% | ~984 |
-| Deerly Departed | 8.00% | ~605 |
+| Deerly Departed | 8.00% | ~606 |
 | Where Wolf? | 5.00% | ~378 |
 | Food Chain | 2.00% | ~151 |
 | Wabbit Season | 0.50% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,568 (Ranked 189)  
+Progressed: 7,569 (Ranked 189)  
 Completed: 14 (0.18%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 14 (0.18%) (Ranked 277)
 | 2023-12-25 | 7,519 | 14 |
 | 2023-12-26 | 7,541 | 14 |
 | 2023-12-27 | 7,564 | 14 |
-| 2023-12-28 | 7,568 | 14 |
+| 2023-12-28 | 7,569 | 14 |
 ## Awards
 Max (Great for Beginners): 133  (Ranked 337)  
 Sum: 1,052 (Ranked 261)  

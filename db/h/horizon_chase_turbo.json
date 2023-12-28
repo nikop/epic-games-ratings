@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2021-06-24T15:00:00+00:00",
     "PcReleaseDate": "2018-05-15T15:00:00+00:00",
@@ -3337,9 +3337,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 1094964,
+  "EOS_Progressed": 1094975,
   "EOS_Completed": 524,
-  "EOS_NewPlayers": 4797,
+  "EOS_NewPlayers": 4793,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -32227,6 +32227,11 @@
       "Time": "2023-12-28T01:52:11.3463358+00:00",
       "NumProgressed": 1094964,
       "NumCompleted": 524
+    },
+    {
+      "Time": "2023-12-28T02:25:26.7771792+00:00",
+      "NumProgressed": 1094975,
+      "NumCompleted": 524
     }
   ],
   "TotalAchievements": 37,
@@ -32238,7 +32243,7 @@
       "Name": "Ghostbuster",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 372288
+      "UsersEstimate": 372292
     },
     {
       "ID": "CompleteAustralia",
@@ -32262,7 +32267,7 @@
       "Name": "California Dreamer",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 76647
+      "UsersEstimate": 76648
     },
     {
       "ID": "CompleteChile",
@@ -32286,7 +32291,7 @@
       "Name": "God of Roads",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 21899
+      "UsersEstimate": 21900
     },
     {
       "ID": "CompleteHawaii",
@@ -32326,7 +32331,7 @@
       "Name": "Pathfinder",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 21899
+      "UsersEstimate": 21900
     },
     {
       "ID": "CompleteUAE",
@@ -32350,7 +32355,7 @@
       "Name": "Go-Kart Champion",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 21899
+      "UsersEstimate": 21900
     },
     {
       "ID": "FinishAllTournamentsGoldHard",
@@ -32398,7 +32403,7 @@
       "Name": "Round the Globe",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 21899
+      "UsersEstimate": 21900
     },
     {
       "ID": "FinishWorldTourAllGold",
@@ -32430,7 +32435,7 @@
       "Name": "Quickie",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 120446
+      "UsersEstimate": 120447
     },
     {
       "ID": "FirstRaceWorldTour",
@@ -32438,7 +32443,7 @@
       "Name": "The First of Many",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 985468
+      "UsersEstimate": 985478
     },
     {
       "ID": "GetLotsOfScore",
@@ -32446,7 +32451,7 @@
       "Name": "Completionist",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 21899
+      "UsersEstimate": 21900
     },
     {
       "ID": "GetReallyFast",
@@ -32462,7 +32467,7 @@
       "Name": "Harder, Better, Faster, Stronger",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 21899
+      "UsersEstimate": 21900
     },
     {
       "ID": "InstallOneUpgrade",
@@ -32470,7 +32475,7 @@
       "Name": "Pump my Ride",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 514633
+      "UsersEstimate": 514638
     },
     {
       "ID": "OutOfFuelLoseRace",
@@ -32478,7 +32483,7 @@
       "Name": "Call Roadside Assistance",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 197094
+      "UsersEstimate": 197096
     },
     {
       "ID": "OutOfFuelWinRace",
@@ -32502,7 +32507,7 @@
       "Name": "I Need a Bigger Garage",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 689827
+      "UsersEstimate": 689834
     },
     {
       "ID": "WinBySmallDifference",
@@ -32510,7 +32515,7 @@
       "Name": "That Was Close",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 197094
+      "UsersEstimate": 197096
     },
     {
       "ID": "WinLotsOfConsecutiveRaces",
@@ -32526,22 +32531,22 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 54748
+      "UsersEstimate": 54749
     }
   ],
   "AchievementSets": [
     {
       "ID": "77fdf3o",
       "IsBase": true,
-      "Progressed": 1094964,
+      "Progressed": 1094975,
       "Completed": 524
     }
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
   "LastChanged": "2023-12-28T01:47:10.3608127+00:00",
-  "LastChanged_Achievements": "2023-12-28T01:52:11.3463354+00:00",
+  "LastChanged_Achievements": "2023-12-28T02:25:26.7771787+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:20.9000357+00:00",
-  "LastUpdate_Ratings": "2023-12-28T01:47:10.3608132+00:00",
-  "LastUpdate_Achievements": "2023-12-28T01:52:11.3465516+00:00"
+  "LastUpdate_Ratings": "2023-12-28T02:21:59.1081855+00:00",
+  "LastUpdate_Achievements": "2023-12-28T02:25:26.7773188+00:00"
 }

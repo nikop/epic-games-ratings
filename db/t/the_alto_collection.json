@@ -928,7 +928,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 52255,
+  "EOS_Progressed": 52257,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 1177,
   "EOS_NewCompleters": 0,
@@ -29518,6 +29518,11 @@
       "Time": "2023-12-28T01:47:55.6173873+00:00",
       "NumProgressed": 52255,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-28T02:22:49.9240011+00:00",
+      "NumProgressed": 52257,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -29649,7 +29654,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 8883
+      "UsersEstimate": 8884
     },
     {
       "ID": "novice",
@@ -29657,7 +29662,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 7838
+      "UsersEstimate": 7839
     },
     {
       "ID": "playerFelipe",
@@ -29681,7 +29686,7 @@
       "Name": "Unlock Maya",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4180
+      "UsersEstimate": 4181
     },
     {
       "ID": "playerPaz",
@@ -29825,7 +29830,7 @@
       "Name": "Wanderer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4180
+      "UsersEstimate": 4181
     },
     {
       "ID": "windswept",
@@ -29840,15 +29845,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 52255,
+      "Progressed": 52257,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-12-25T13:04:24.8232865+00:00",
-  "LastChanged_Achievements": "2023-12-28T01:47:55.617387+00:00",
+  "LastChanged_Achievements": "2023-12-28T02:22:49.9240007+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:50.851246+00:00",
-  "LastUpdate_Ratings": "2023-12-28T01:46:43.8146881+00:00",
-  "LastUpdate_Achievements": "2023-12-28T01:47:55.6175857+00:00"
+  "LastUpdate_Ratings": "2023-12-28T02:21:34.2161693+00:00",
+  "LastUpdate_Achievements": "2023-12-28T02:22:49.9241366+00:00"
 }

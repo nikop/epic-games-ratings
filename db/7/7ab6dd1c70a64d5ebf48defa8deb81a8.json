@@ -43,9 +43,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1369,
+  "EOS_Progressed": 1370,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 432,
+  "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -2688,6 +2688,11 @@
       "Time": "2023-12-28T01:54:19.5228373+00:00",
       "NumProgressed": 1369,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T02:28:53.4245794+00:00",
+      "NumProgressed": 1370,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2699,7 +2704,7 @@
       "Name": "Break Out",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "ACH_02",
@@ -2755,7 +2760,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ACH_09",
@@ -2795,7 +2800,7 @@
       "Name": "Adventurer",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_14",
@@ -2873,9 +2878,9 @@
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 274
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_24",
@@ -2891,7 +2896,7 @@
       "Name": "Fashion Victim",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_26",
@@ -2955,7 +2960,7 @@
       "Name": "The Collector",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ACH_35",
@@ -2986,7 +2991,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1369,
+      "Progressed": 1370,
       "Completed": 3
     }
   ],
@@ -2994,8 +2999,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2023-12-27T23:57:06.3972881+00:00",
-  "LastChanged_Achievements": "2023-12-28T01:54:19.5228368+00:00",
+  "LastChanged_Achievements": "2023-12-28T02:28:53.4245791+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-28T01:40:58.9945421+00:00",
-  "LastUpdate_Achievements": "2023-12-28T01:54:19.5228735+00:00"
+  "LastUpdate_Ratings": "2023-12-28T02:16:14.4457972+00:00",
+  "LastUpdate_Achievements": "2023-12-28T02:28:53.4246144+00:00"
 }

@@ -8535,9 +8535,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 746456,
+  "EOS_Progressed": 746478,
   "EOS_Completed": 12967,
-  "EOS_NewPlayers": 8799,
+  "EOS_NewPlayers": 8790,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.74,
   "EosHistory": [
@@ -31210,6 +31210,11 @@
       "Time": "2023-12-28T01:53:14.3877033+00:00",
       "NumProgressed": 746456,
       "NumCompleted": 12967
+    },
+    {
+      "Time": "2023-12-28T02:27:53.4075798+00:00",
+      "NumProgressed": 746478,
+      "NumCompleted": 12967
     }
   ],
   "TotalAchievements": 60,
@@ -31221,7 +31226,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29858
+      "UsersEstimate": 29859
     },
     {
       "ID": "02_Vengeance_H1",
@@ -31237,7 +31242,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14929
+      "UsersEstimate": 14930
     },
     {
       "ID": "04_Vengeance_H3",
@@ -31245,7 +31250,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14929
+      "UsersEstimate": 14930
     },
     {
       "ID": "05_Vengeance_H4",
@@ -31373,7 +31378,7 @@
       "Name": "Stuntmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14929
+      "UsersEstimate": 14930
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -31389,7 +31394,7 @@
       "Name": "Street Fighting",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14929
+      "UsersEstimate": 14930
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -31397,7 +31402,7 @@
       "Name": "Life is your teacher",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29858
+      "UsersEstimate": 29859
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -31405,7 +31410,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14929
+      "UsersEstimate": 14930
     },
     {
       "ID": "25_ShrineMind",
@@ -31421,7 +31426,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14929
+      "UsersEstimate": 14930
     },
     {
       "ID": "27_ShrineBody",
@@ -31429,7 +31434,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14929
+      "UsersEstimate": 14930
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -31469,7 +31474,7 @@
       "Name": "Old Child",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14929
+      "UsersEstimate": 14930
     },
     {
       "ID": "33_BladeOneShot",
@@ -31509,7 +31514,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14929
+      "UsersEstimate": 14930
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -31565,7 +31570,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -31700,21 +31705,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 55757,
+      "Progressed": 55779,
       "Completed": 10787
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 746456,
+      "Progressed": 746478,
       "Completed": 12967
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-27T19:03:38.6092741+00:00",
-  "LastChanged_Achievements": "2023-12-28T01:53:14.387703+00:00",
+  "LastChanged_Achievements": "2023-12-28T02:27:53.4075794+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:49.3189229+00:00",
-  "LastUpdate_Ratings": "2023-12-28T01:47:04.7898876+00:00",
-  "LastUpdate_Achievements": "2023-12-28T01:53:14.3878207+00:00"
+  "LastUpdate_Ratings": "2023-12-28T02:21:53.3961996+00:00",
+  "LastUpdate_Achievements": "2023-12-28T02:27:53.4077086+00:00"
 }

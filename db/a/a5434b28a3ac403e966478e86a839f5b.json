@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 790,
+  "EOS_Progressed": 791,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.27,
+  "EOS_Completed_Percentage": 1.26,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -2700,6 +2700,11 @@
       "Time": "2023-12-28T01:52:56.5039315+00:00",
       "NumProgressed": 790,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-28T02:27:37.3004431+00:00",
+      "NumProgressed": 791,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2712,7 +2717,7 @@
       "Name": "Assassinate the Makron",
       "Percentage": 15,
       "XP": 120,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_eou1",
@@ -2750,9 +2755,9 @@
       "ID": "ACH_eou5",
       "SetID": "51of0eo",
       "Name": "Shut Down Processing Plant",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 166
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_eou6",
@@ -2776,7 +2781,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACH_mg2",
@@ -2815,14 +2820,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 790,
+      "Progressed": 791,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-28T01:52:56.5039312+00:00",
+  "LastChanged_Achievements": "2023-12-28T02:27:37.3004427+00:00",
   "LastUpdate_AppInfo": "2023-12-22T05:56:59.907635+00:00",
-  "LastUpdate_Ratings": "2023-12-28T01:44:26.2753391+00:00",
-  "LastUpdate_Achievements": "2023-12-28T01:52:56.5039563+00:00"
+  "LastUpdate_Ratings": "2023-12-28T02:19:20.4376697+00:00",
+  "LastUpdate_Achievements": "2023-12-28T02:27:37.3004612+00:00"
 }

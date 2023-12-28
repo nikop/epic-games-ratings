@@ -14,7 +14,7 @@ Number of Ratings: 116  (23.09.2022)
 | Increased Capacity | 54.00% | ~135 |
 | Just the start | 52.00% | ~130 |
 | Perfect Storm | 48.00% | ~120 |
-| All That Glitters | 46.00% | ~115 |
+| All That Glitters | 47.00% | ~118 |
 | Enhance! | 44.00% | ~110 |
 | One Of the Chosen | 41.00% | ~102 |
 | Devil's in the Details | 40.00% | ~100 |

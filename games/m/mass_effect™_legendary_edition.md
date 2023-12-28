@@ -7,7 +7,7 @@
 | Distinguished Service Medal | 91.00% | ~2,925 |
 | Spectre Inductee | 67.00% | ~2,153 |
 | Medal of Exploration I | 57.00% | ~1,832 |
-| Recruit | 52.00% | ~1,671 |
+| Recruit | 53.00% | ~1,703 |
 | Search and Rescue | 51.00% | ~1,639 |
 | Quarian Ally | 50.00% | ~1,607 |
 | Medal of Heroism | 44.00% | ~1,414 |
@@ -17,10 +17,10 @@
 | Council Legion of Merit | 38.00% | ~1,221 |
 | Soldier Ally | 36.00% | ~1,157 |
 | Medal of Honor | 35.00% | ~1,125 |
+| Soldier | 35.00% | ~1,125 |
 | Meritorious Service Medal | 35.00% | ~1,125 |
 | Charismatic | 35.00% | ~1,125 |
 | Missing in Action | 35.00% | ~1,125 |
-| Soldier | 34.00% | ~1,093 |
 | Asari Ally | 34.00% | ~1,093 |
 | Colonial Savior | 33.00% | ~1,061 |
 | Medal of Exploration III | 32.00% | ~1,028 |
@@ -44,12 +44,12 @@
 | Broke, Blind, and Bedlam | 24.00% | ~771 |
 | Ghost Ship | 22.00% | ~707 |
 | The Assassin | 22.00% | ~707 |
+| The Quarian | 22.00% | ~707 |
 | Galactic Explorer | 22.00% | ~707 |
 | Driven | 22.00% | ~707 |
 | A Personal Touch | 21.00% | ~675 |
 | Archivist | 21.00% | ~675 |
 | The Justicar | 21.00% | ~675 |
-| The Quarian | 21.00% | ~675 |
 | Catharsis | 21.00% | ~675 |
 | Ghost of the Father | 21.00% | ~675 |
 | The Prodigal | 21.00% | ~675 |
@@ -70,13 +70,13 @@
 | Agent | 19.00% | ~611 |
 | Mobilizer | 19.00% | ~611 |
 | Untouchable | 18.00% | ~579 |
+| Giant Killer | 18.00% | ~579 |
 | First Aid Specialist | 18.00% | ~579 |
 | Mission Accomplished | 18.00% | ~579 |
 | Suicide Mission | 18.00% | ~579 |
 | Against All Odds | 18.00% | ~579 |
 | Friend or Foe | 18.00% | ~579 |
 | Eye of the Hurricane | 17.00% | ~546 |
-| Giant Killer | 17.00% | ~546 |
 | A House Divided | 17.00% | ~546 |
 | World Shaker | 17.00% | ~546 |
 | Pathfinder | 16.00% | ~514 |

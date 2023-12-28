@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1689,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4145,9 +4145,9 @@
       "ID": "ML_ACHIEVEMENT_02",
       "SetID": "5k00jcd",
       "Name": "Acrobat",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 68
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -4518,8 +4518,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-28T01:52:18.2982524+00:00",
+  "LastChanged_Achievements": "2023-12-28T02:25:33.1479099+00:00",
   "LastUpdate_AppInfo": "2023-12-21T03:57:08.51229+00:00",
-  "LastUpdate_Ratings": "2023-12-28T01:44:33.650915+00:00",
-  "LastUpdate_Achievements": "2023-12-28T01:52:18.2983177+00:00"
+  "LastUpdate_Ratings": "2023-12-28T02:19:26.9973756+00:00",
+  "LastUpdate_Achievements": "2023-12-28T02:25:33.1479629+00:00"
 }

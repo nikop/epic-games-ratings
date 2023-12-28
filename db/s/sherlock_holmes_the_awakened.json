@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -4884,9 +4884,9 @@
       "ID": "MQ08_1",
       "SetID": "bbing49",
       "Name": "No Stone Unturned",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 414
+      "UsersEstimate": 428
     },
     {
       "ID": "MQ08_2",
@@ -4925,8 +4925,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-27T11:03:12.3161328+00:00",
-  "LastChanged_Achievements": "2023-12-28T01:50:27.722677+00:00",
+  "LastChanged_Achievements": "2023-12-28T02:25:06.4459348+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:08.3764282+00:00",
-  "LastUpdate_Ratings": "2023-12-28T01:47:12.8245175+00:00",
-  "LastUpdate_Achievements": "2023-12-28T01:50:27.7227143+00:00"
+  "LastUpdate_Ratings": "2023-12-28T02:22:00.878931+00:00",
+  "LastUpdate_Achievements": "2023-12-28T02:25:06.4459677+00:00"
 }

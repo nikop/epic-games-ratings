@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 3214,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 645,
+  "EOS_NewPlayers": 644,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -6457,9 +6457,9 @@
       "ID": "achievement_110",
       "SetID": "d252ncf",
       "Name": "Giant Killer",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 546
+      "UsersEstimate": 579
     },
     {
       "ID": "achievement_111",
@@ -6577,17 +6577,17 @@
       "ID": "achievement_124",
       "SetID": "d252ncf",
       "Name": "Recruit",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1703
     },
     {
       "ID": "achievement_125",
       "SetID": "d252ncf",
       "Name": "Soldier",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1125
     },
     {
       "ID": "achievement_126",
@@ -6937,9 +6937,9 @@
       "ID": "achievement_50",
       "SetID": "d252ncf",
       "Name": "The Quarian",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 675
+      "UsersEstimate": 707
     },
     {
       "ID": "achievement_51",
@@ -7381,8 +7381,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-28T01:54:25.5573773+00:00",
+  "LastChanged_Achievements": "2023-12-28T02:28:58.9791637+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:58.3788938+00:00",
-  "LastUpdate_Ratings": "2023-12-28T01:47:20.1483243+00:00",
-  "LastUpdate_Achievements": "2023-12-28T01:54:25.5575668+00:00"
+  "LastUpdate_Ratings": "2023-12-28T02:22:07.03175+00:00",
+  "LastUpdate_Achievements": "2023-12-28T02:28:58.9793371+00:00"
 }

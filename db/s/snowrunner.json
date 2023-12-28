@@ -2,7 +2,7 @@
   "ID": "2744acda6a2e493e9894b389b6564df7",
   "Name": "SnowRunner",
   "ProductSlug": "snowrunner",
-  "Ranking_Rating": 147,
+  "Ranking_Rating": 133,
   "Ranking_Popularity": 32,
   "Ranking_PopularitySum": 21,
   "Ranking_EOS_Progress": 816,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.75,
+  "Rating": 4.76,
   "NumberOfRatings": 21349,
   "RatingHistory": [
     {
@@ -14581,6 +14581,12 @@
       "Rating": 4.75,
       "NumberOfAwards": 88571,
       "NumberOfAwardsMax": 13399
+    },
+    {
+      "Time": "2023-12-28T02:18:21.7414881+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 88571,
+      "NumberOfAwardsMax": 13399
     }
   ],
   "ReviewsDisabled": false,
@@ -14660,8 +14666,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
-  "LastChanged": "2023-12-27T23:00:04.8325393+00:00",
+  "LastChanged": "2023-12-28T02:18:21.741488+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.6308536+00:00",
-  "LastUpdate_Ratings": "2023-12-28T01:43:20.1539937+00:00",
-  "LastUpdate_Achievements": "2023-12-28T01:50:15.5203608+00:00"
+  "LastUpdate_Ratings": "2023-12-28T02:18:21.7414886+00:00",
+  "LastUpdate_Achievements": "2023-12-28T02:24:55.7230791+00:00"
 }

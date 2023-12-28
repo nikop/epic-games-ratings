@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3922,
+  "EOS_Progressed": 3923,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -5177,6 +5177,11 @@
       "Time": "2023-12-27T21:06:43.5300253+00:00",
       "NumProgressed": 3922,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-28T02:24:20.8354656+00:00",
+      "NumProgressed": 3923,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5236,7 +5241,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3412
+      "UsersEstimate": 3413
     },
     {
       "ID": "campaign10",
@@ -5340,7 +5345,7 @@
       "Name": "Economics 101",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 2314
+      "UsersEstimate": 2315
     },
     {
       "ID": "campaign4",
@@ -5348,7 +5353,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "campaign5",
@@ -5372,7 +5377,7 @@
       "Name": "Maestro",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "campaign8",
@@ -5380,7 +5385,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "campaign9",
@@ -5396,7 +5401,7 @@
       "Name": "Do the Splits",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "scenario2",
@@ -5451,7 +5456,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3922,
+      "Progressed": 3923,
       "Completed": 11
     }
   ],
@@ -5459,8 +5464,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-12-28T01:49:36.3960933+00:00",
+  "LastChanged_Achievements": "2023-12-28T02:24:20.8354652+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:09.0478808+00:00",
-  "LastUpdate_Ratings": "2023-12-28T01:41:58.1890712+00:00",
-  "LastUpdate_Achievements": "2023-12-28T01:49:36.3961364+00:00"
+  "LastUpdate_Ratings": "2023-12-28T02:17:06.401404+00:00",
+  "LastUpdate_Achievements": "2023-12-28T02:24:20.8355014+00:00"
 }

@@ -1925,7 +1925,7 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 67725,
+  "EOS_Progressed": 67726,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 797,
   "EOS_NewCompleters": 0,
@@ -29655,6 +29655,11 @@
       "Time": "2023-12-28T01:48:17.7684019+00:00",
       "NumProgressed": 67725,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-28T02:23:09.7699716+00:00",
+      "NumProgressed": 67726,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -29730,7 +29735,7 @@
       "Name": "Bronze x100",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1354
+      "UsersEstimate": 1355
     },
     {
       "ID": "VERDUN_ACH_CANADIANS",
@@ -29858,7 +29863,7 @@
       "Name": "Shoot, Cover, Reload, Repeat",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1354
+      "UsersEstimate": 1355
     },
     {
       "ID": "VERDUN_ACH_GOLD10_KILLSTREAK",
@@ -29898,7 +29903,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17608
+      "UsersEstimate": 17609
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -30010,7 +30015,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16931
+      "UsersEstimate": 16932
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -30130,22 +30135,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 25058
+      "UsersEstimate": 25059
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 67725,
+      "Progressed": 67726,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-12-27T04:57:52.5953609+00:00",
-  "LastChanged_Achievements": "2023-12-28T01:48:17.7684016+00:00",
+  "LastChanged_Achievements": "2023-12-28T02:23:09.7699709+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:33.0401656+00:00",
-  "LastUpdate_Ratings": "2023-12-28T01:42:25.5920458+00:00",
-  "LastUpdate_Achievements": "2023-12-28T01:48:17.7685605+00:00"
+  "LastUpdate_Ratings": "2023-12-28T02:17:30.5674866+00:00",
+  "LastUpdate_Achievements": "2023-12-28T02:23:09.7701322+00:00"
 }

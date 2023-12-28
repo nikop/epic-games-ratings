@@ -5,24 +5,24 @@ Rating: 4.80 (Ranked 87)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,949 |
+| For Demacia | 95.00% | ~2,950 |
 | No more cages! | 90.00% | ~2,794 |
-| Everfrost | 77.00% | ~2,390 |
-| Pentakill | 76.00% | ~2,359 |
-| Dark Forest | 76.00% | ~2,359 |
-| The use of petricite | 73.00% | ~2,266 |
-| You can pet the dog | 60.00% | ~1,862 |
+| Everfrost | 77.00% | ~2,391 |
+| Pentakill | 76.00% | ~2,360 |
+| Dark Forest | 76.00% | ~2,360 |
+| The use of petricite | 73.00% | ~2,267 |
+| You can pet the dog | 60.00% | ~1,863 |
 | Thornbarrow | 42.00% | ~1,304 |
 | Big Helmet Bro | 40.00% | ~1,242 |
 | Clarion Cove | 40.00% | ~1,242 |
 | Ternmoat Headquarters | 38.00% | ~1,180 |
-| Past trauma | 37.00% | ~1,148 |
-| Elemental master | 36.00% | ~1,117 |
-| Cypress Glen Headquarters | 34.00% | ~1,055 |
-| Petricite Burst | 33.00% | ~1,024 |
-| Old friend | 32.00% | ~993 |
-| Devineur | 31.00% | ~962 |
-| Hijack | 30.00% | ~931 |
+| Past trauma | 37.00% | ~1,149 |
+| Elemental master | 36.00% | ~1,118 |
+| Cypress Glen Headquarters | 34.00% | ~1,056 |
+| Petricite Burst | 33.00% | ~1,025 |
+| Old friend | 32.00% | ~994 |
+| Devineur | 31.00% | ~963 |
+| Hijack | 30.00% | ~932 |
 | Whispers in the Woods I | 27.00% | ~838 |
 | Ancient power | 27.00% | ~838 |
 | I chose my shackles | 26.00% | ~807 |
@@ -50,16 +50,16 @@ Rating: 4.80 (Ranked 87)
 | The Great City of Demacia | 13.00% | ~404 |
 | Truth is a dark mirror | 13.00% | ~404 |
 | Call it 'redistribution of magic | 13.00% | ~404 |
-| Back to sleep, then... | 12.00% | ~372 |
-| Do you trust me? | 11.00% | ~341 |
-| The great mage rebellion starts now | 11.00% | ~341 |
+| Back to sleep, then... | 12.00% | ~373 |
+| Do you trust me? | 11.00% | ~342 |
+| The great mage rebellion starts now | 11.00% | ~342 |
 | Chains master | 10.00% | ~310 |
 | You can pet the... horse | 10.00% | ~310 |
 | Spellcrafting | 10.00% | ~310 |
 | Silverwing nest | 2.00% | ~62 |
 | The Unshackled | 1.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,104 (Ranked 221)  
+Progressed: 3,105 (Ranked 221)  
 Completed: 17 (0.55%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 17 (0.55%) (Ranked 210)
 | 2023-12-25 | 3,050 | 17 |
 | 2023-12-26 | 3,075 | 17 |
 | 2023-12-27 | 3,100 | 17 |
-| 2023-12-28 | 3,104 | 17 |
+| 2023-12-28 | 3,105 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

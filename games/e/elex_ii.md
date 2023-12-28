@@ -14,7 +14,7 @@ Number of Ratings: 124  (23.09.2022)
 | Peddler | 16.00% | ~19 |
 | Creator | 16.00% | ~19 |
 | Military Leader | 15.00% | ~18 |
-| Commander | 14.00% | ~16 |
+| Commander | 15.00% | ~18 |
 | Long-Haul Flyer | 13.00% | ~15 |
 | Family Reunion | 10.00% | ~12 |
 | Pass A38 | 10.00% | ~12 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117 (Ranked 469)  
+Progressed: 117 (Ranked 470)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |

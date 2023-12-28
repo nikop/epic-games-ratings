@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 94,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1797,
+  "EOS_Progressed": 1798,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 3.84,
   "EosHistory": [
@@ -3934,6 +3934,11 @@
       "Time": "2023-12-28T01:54:05.4171857+00:00",
       "NumProgressed": 1797,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-12-28T02:28:40.0959059+00:00",
+      "NumProgressed": 1798,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 16,
@@ -3953,7 +3958,7 @@
       "Name": "Deep Listener",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -3969,7 +3974,7 @@
       "Name": "Emotional Baggage Handler",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
@@ -4025,7 +4030,7 @@
       "Name": "Music for Cows",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "ACH_OUTSIDEWORLDSEER",
@@ -4033,7 +4038,7 @@
       "Name": "Outside World Seer",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1097
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -4072,7 +4077,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1797,
+      "Progressed": 1798,
       "Completed": 69
     }
   ],
@@ -4080,8 +4085,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-28T01:54:05.4171852+00:00",
+  "LastChanged_Achievements": "2023-12-28T02:28:40.0959055+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:44.3535234+00:00",
-  "LastUpdate_Ratings": "2023-12-28T01:41:18.3595236+00:00",
-  "LastUpdate_Achievements": "2023-12-28T01:54:05.4172187+00:00"
+  "LastUpdate_Ratings": "2023-12-28T02:16:31.2873937+00:00",
+  "LastUpdate_Achievements": "2023-12-28T02:28:40.0959348+00:00"
 }

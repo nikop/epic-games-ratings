@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4293,
+  "EOS_Progressed": 4294,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -7146,6 +7146,11 @@
       "Time": "2023-12-28T01:47:49.552674+00:00",
       "NumProgressed": 4293,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-28T02:22:44.5831927+00:00",
+      "NumProgressed": 4294,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7165,7 +7170,7 @@
       "Name": "Ace Detective",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "AncestorsPride_13",
@@ -7197,7 +7202,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1760
+      "UsersEstimate": 1761
     },
     {
       "ID": "CrowdPleaser",
@@ -7243,9 +7248,9 @@
       "ID": "GiftfromtheAncestors_34",
       "SetID": "c4hee28",
       "Name": "Gift from the Ancestors",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 343
+      "UsersEstimate": 301
     },
     {
       "ID": "HoldmyMeadandWatchThis_43",
@@ -7301,7 +7306,7 @@
       "Name": "Magic is a science",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "MasterofAurai_20",
@@ -7357,7 +7362,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -7365,7 +7370,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -7477,7 +7482,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3134
+      "UsersEstimate": 3135
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7492,15 +7497,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4293,
+      "Progressed": 4294,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-28T01:47:49.5526736+00:00",
+  "LastChanged_Achievements": "2023-12-28T02:22:44.5831922+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.9488093+00:00",
-  "LastUpdate_Ratings": "2023-12-28T01:46:58.8986815+00:00",
-  "LastUpdate_Achievements": "2023-12-28T01:47:49.5527343+00:00"
+  "LastUpdate_Ratings": "2023-12-28T02:21:48.1328511+00:00",
+  "LastUpdate_Achievements": "2023-12-28T02:22:44.5832423+00:00"
 }

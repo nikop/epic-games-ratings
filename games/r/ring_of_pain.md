@@ -46,6 +46,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Consecutive Curses | 0.50% | ~1,209 |
 | Just Chilling | 0.50% | ~1,209 |
 | Save Our Souls | 0.50% | ~1,209 |
+| Stop Hitting Yourself | 0.50% | ~1,209 |
 | Acid Bath | 0.50% | ~1,209 |
 | New Perspectives | 0.50% | ~1,209 |
 | Shapeshifting | 0.50% | ~1,209 |
@@ -58,7 +59,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Well Prepared | 0.40% | ~967 |
 | Don't Ignore Me! | 0.40% | ~967 |
 | All Consuming | 0.40% | ~967 |
-| Stop Hitting Yourself | 0.40% | ~967 |
 | Illuminate, Eliminate | 0.40% | ~967 |
 | Chain Reaction | 0.40% | ~967 |
 | Doing Time | 0.40% | ~967 |
