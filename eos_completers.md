@@ -61,7 +61,7 @@
 | 59 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.25% |
 | 60 | [Scorn](games/s/scorn.md) | 6.94% |
 | 61 | [Sonic Origins](games/s/sonic_origins.md) | 6.74% |
-| 62 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.67% |
+| 62 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.65% |
 | 63 | [Time Loader](games/t/time_loader.md) | 6.62% |
 | 64 | [Anna's Quest](games/a/anna's_quest.md) | 6.59% |
 | 65 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.45% |
@@ -172,9 +172,9 @@
 | 169 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.03% |
 | 171 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.02% |
 | 172 | [Sable](games/s/sable.md) | 1.01% |
-| 173 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 0.98% |
 | 173 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.98% |
-| 175 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.97% |
+| 174 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 0.97% |
+| 174 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.97% |
 | 176 | [Colossal Cave](games/c/colossal_cave.md) | 0.96% |
 | 176 | [Trifox](games/t/trifox.md) | 0.96% |
 | 178 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.93% |
@@ -186,7 +186,7 @@
 | 184 | [A Musical Story](games/a/a_musical_story.md) | 0.88% |
 | 185 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 0.87% |
 | 185 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.87% |
-| 187 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.83% |
+| 187 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.82% |
 | 188 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.81% |
 | 189 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
 | 190 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
@@ -232,9 +232,9 @@
 | 229 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.40% |
 | 229 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 0.40% |
 | 229 | [Tchia](games/t/tchia.md) | 0.40% |
-| 233 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.39% |
 | 233 | [Ghostrunner](games/g/ghostrunner.md) | 0.39% |
-| 235 | [Darksiders III](games/d/darksiders_iii.md) | 0.38% |
+| 234 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.38% |
+| 234 | [Darksiders III](games/d/darksiders_iii.md) | 0.38% |
 | 236 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
 | 236 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.37% |
 | 238 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.35% |
@@ -247,10 +247,10 @@
 | 243 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.34% |
 | 243 | [Train Valley](games/t/train_valley.md) | 0.34% |
 | 243 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.34% |
-| 248 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
-| 248 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.32% |
-| 248 | [The First Tree](games/t/the_first_tree.md) | 0.32% |
-| 248 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.32% |
+| 248 | [Dead Island 2](games/d/dead_island_2.md) | 0.33% |
+| 249 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.32% |
+| 249 | [The First Tree](games/t/the_first_tree.md) | 0.32% |
+| 249 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.32% |
 | 252 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.31% |
 | 252 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.31% |
 | 254 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
