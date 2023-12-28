@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 91.00% | ~2,976 |
-| Spectre Inductee | 67.00% | ~2,191 |
+| Distinguished Service Medal | 91.00% | ~2,977 |
+| Spectre Inductee | 67.00% | ~2,192 |
 | Medal of Exploration I | 57.00% | ~1,864 |
-| Recruit | 52.00% | ~1,700 |
-| Search and Rescue | 51.00% | ~1,668 |
-| Quarian Ally | 49.00% | ~1,602 |
+| Recruit | 52.00% | ~1,701 |
+| Search and Rescue | 52.00% | ~1,701 |
+| Quarian Ally | 49.00% | ~1,603 |
 | Medal of Heroism | 44.00% | ~1,439 |
 | Honorarium of Corporate Service | 44.00% | ~1,439 |
 | Turian Ally | 41.00% | ~1,341 |
-| Medal of Exploration II | 39.00% | ~1,275 |
+| Medal of Exploration II | 39.00% | ~1,276 |
 | Council Legion of Merit | 38.00% | ~1,243 |
-| Soldier Ally | 36.00% | ~1,177 |
-| Medal of Honor | 35.00% | ~1,144 |
-| Soldier | 35.00% | ~1,144 |
-| Meritorious Service Medal | 35.00% | ~1,144 |
-| Charismatic | 35.00% | ~1,144 |
-| Missing in Action | 35.00% | ~1,144 |
+| Soldier Ally | 36.00% | ~1,178 |
+| Medal of Honor | 35.00% | ~1,145 |
+| Soldier | 35.00% | ~1,145 |
+| Meritorious Service Medal | 35.00% | ~1,145 |
+| Charismatic | 35.00% | ~1,145 |
+| Missing in Action | 35.00% | ~1,145 |
 | Asari Ally | 34.00% | ~1,112 |
 | Colonial Savior | 33.00% | ~1,079 |
-| Medal of Exploration III | 32.00% | ~1,046 |
-| Principled | 32.00% | ~1,046 |
-| Very Elusive | 32.00% | ~1,046 |
+| Medal of Exploration III | 32.00% | ~1,047 |
+| Principled | 32.00% | ~1,047 |
+| Very Elusive | 32.00% | ~1,047 |
 | Sentinel Ally | 31.00% | ~1,014 |
 | Krogan Ally | 31.00% | ~1,014 |
 | Paramour I | 30.00% | ~981 |
 | Merciless | 30.00% | ~981 |
 | Scientist | 30.00% | ~981 |
-| Scholar | 29.00% | ~948 |
+| Scholar | 29.00% | ~949 |
 | The Archangel | 28.00% | ~916 |
 | The Professor | 28.00% | ~916 |
 | Head Hunter | 28.00% | ~916 |
@@ -43,10 +43,10 @@
 | Colony Defense | 24.00% | ~785 |
 | Broke, Blind, and Bedlam | 24.00% | ~785 |
 | Driven | 23.00% | ~752 |
-| Ghost Ship | 22.00% | ~719 |
-| The Assassin | 22.00% | ~719 |
-| The Quarian | 22.00% | ~719 |
-| Galactic Explorer | 22.00% | ~719 |
+| Ghost Ship | 22.00% | ~720 |
+| The Assassin | 22.00% | ~720 |
+| The Quarian | 22.00% | ~720 |
+| Galactic Explorer | 22.00% | ~720 |
 | A Personal Touch | 21.00% | ~687 |
 | Archivist | 21.00% | ~687 |
 | The Justicar | 21.00% | ~687 |
@@ -83,9 +83,9 @@
 | Pathfinder | 16.00% | ~523 |
 | Tunnel Rat | 16.00% | ~523 |
 | Arbiter | 16.00% | ~523 |
-| Savior | 15.00% | ~490 |
-| Weapon Specialist | 15.00% | ~490 |
-| Lost and Found | 15.00% | ~490 |
+| Savior | 15.00% | ~491 |
+| Weapon Specialist | 15.00% | ~491 |
+| Lost and Found | 15.00% | ~491 |
 | Paramour II | 14.00% | ~458 |
 | Party Crasher | 14.00% | ~458 |
 | Hard Target | 14.00% | ~458 |
@@ -97,10 +97,10 @@
 | Saboteur | 13.00% | ~425 |
 | Last Witness | 13.00% | ~425 |
 | Well Connected | 13.00% | ~425 |
-| Pyromaniac | 12.00% | ~392 |
-| Executioner | 12.00% | ~392 |
-| Patriot | 12.00% | ~392 |
-| Master and Commander | 12.00% | ~392 |
+| Pyromaniac | 12.00% | ~393 |
+| Executioner | 12.00% | ~393 |
+| Patriot | 12.00% | ~393 |
+| Master and Commander | 12.00% | ~393 |
 | Electronics Specialist | 11.00% | ~360 |
 | Sabotage Specialist | 11.00% | ~360 |
 | Throw Mastery | 11.00% | ~360 |
@@ -123,16 +123,16 @@
 | Shield Breaker | 3.00% | ~98 |
 | Incineration Specialist | 3.00% | ~98 |
 | Warp Specialist | 3.00% | ~98 |
+| Gunsmith | 2.00% | ~65 |
 | Insanity II | 2.00% | ~65 |
 | Tactician | 2.00% | ~65 |
 | Stasis Mastery | 1.00% | ~33 |
-| Gunsmith | 1.00% | ~33 |
 | AI Hacking Specialist | 1.00% | ~33 |
 | Neural Shock Specialist | 1.00% | ~33 |
 | Insanity III | 0.90% | ~29 |
 | The One and Only | 0.60% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,270 (Ranked 220)  
+Progressed: 3,271 (Ranked 220)  
 Completed: 12 (0.37%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,4 +236,4 @@ Completed: 12 (0.37%) (Ranked 236)
 | 2023-12-25 | 3,034 | 10 |
 | 2023-12-26 | 3,124 | 10 |
 | 2023-12-27 | 3,209 | 11 |
-| 2023-12-28 | 3,270 | 12 |
+| 2023-12-28 | 3,271 | 12 |

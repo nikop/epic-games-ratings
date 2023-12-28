@@ -335,9 +335,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 12028,
+  "EOS_Progressed": 12029,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 1132,
+  "EOS_NewPlayers": 1128,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -8285,6 +8285,11 @@
       "Time": "2023-12-28T21:11:28.2985438+00:00",
       "NumProgressed": 12028,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-12-28T22:10:39.5349413+00:00",
+      "NumProgressed": 12029,
+      "NumCompleted": 23
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -8513,7 +8518,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2285
+      "UsersEstimate": 2286
     },
     {
       "ID": "UnResurrected",
@@ -8568,7 +8573,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 12028,
+      "Progressed": 12029,
       "Completed": 23
     }
   ],
@@ -8576,8 +8581,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-28T06:59:21.2070382+00:00",
-  "LastChanged_Achievements": "2023-12-28T21:11:28.2985433+00:00",
+  "LastChanged_Achievements": "2023-12-28T22:10:39.5349408+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.4946312+00:00",
-  "LastUpdate_Ratings": "2023-12-28T21:00:51.9228035+00:00",
-  "LastUpdate_Achievements": "2023-12-28T21:11:28.2985931+00:00"
+  "LastUpdate_Ratings": "2023-12-28T22:00:15.6755036+00:00",
+  "LastUpdate_Achievements": "2023-12-28T22:10:39.5349912+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
   "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 416,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
@@ -602,9 +602,9 @@
       "ID": "Achievement2",
       "SetID": "9fa3l5n",
       "Name": "A Loyal Friend",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Achievement20",
@@ -690,9 +690,9 @@
       "ID": "Achievement3",
       "SetID": "9fa3l5n",
       "Name": "Abandon Ship!",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Achievement30",
@@ -817,8 +817,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-12-28T21:04:21.8265372+00:00",
+  "LastChanged_Achievements": "2023-12-28T22:04:04.3074062+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:52.0474774+00:00",
-  "LastUpdate_Ratings": "2023-12-28T20:58:27.7004259+00:00",
-  "LastUpdate_Achievements": "2023-12-28T21:04:21.8265643+00:00"
+  "LastUpdate_Ratings": "2023-12-28T21:58:00.5912524+00:00",
+  "LastUpdate_Achievements": "2023-12-28T22:04:04.307449+00:00"
 }

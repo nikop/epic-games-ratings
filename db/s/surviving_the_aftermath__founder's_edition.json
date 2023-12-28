@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 367,
   "Ranking_EOS_NewPlayers": 29,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -2712,9 +2712,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 484273,
+  "EOS_Progressed": 484274,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 10006,
+  "EOS_NewPlayers": 9934,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -23697,6 +23697,11 @@
       "Time": "2023-12-28T21:10:08.3021968+00:00",
       "NumProgressed": 484273,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-12-28T22:09:25.1862878+00:00",
+      "NumProgressed": 484274,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 59,
@@ -23764,7 +23769,7 @@
       "Name": "Adventurer",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 135596
+      "UsersEstimate": 135597
     },
     {
       "ID": "17",
@@ -23788,7 +23793,7 @@
       "Name": "Healer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 188866
+      "UsersEstimate": 188867
     },
     {
       "ID": "2",
@@ -23820,7 +23825,7 @@
       "Name": "First Step",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 411632
+      "UsersEstimate": 411633
     },
     {
       "ID": "23",
@@ -23828,7 +23833,7 @@
       "Name": "New Opportunities",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 101697
+      "UsersEstimate": 101698
     },
     {
       "ID": "24",
@@ -23844,7 +23849,7 @@
       "Name": "Cleaner",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 82326
+      "UsersEstimate": 82327
     },
     {
       "ID": "26",
@@ -23860,7 +23865,7 @@
       "Name": "Energized",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 101697
+      "UsersEstimate": 101698
     },
     {
       "ID": "28",
@@ -23884,7 +23889,7 @@
       "Name": "Great Leader",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 62955
+      "UsersEstimate": 62956
     },
     {
       "ID": "30",
@@ -24179,15 +24184,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 484273,
+      "Progressed": 484274,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-12-28T17:57:40.6017328+00:00",
-  "LastChanged_Achievements": "2023-12-28T21:10:08.3021966+00:00",
+  "LastChanged_Achievements": "2023-12-28T22:09:25.1862874+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:48.7391104+00:00",
-  "LastUpdate_Ratings": "2023-12-28T20:58:19.0752405+00:00",
-  "LastUpdate_Achievements": "2023-12-28T21:10:08.302319+00:00"
+  "LastUpdate_Ratings": "2023-12-28T21:57:52.5443745+00:00",
+  "LastUpdate_Achievements": "2023-12-28T22:09:25.1864197+00:00"
 }

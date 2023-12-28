@@ -5,7 +5,7 @@ Rating: 4.73 (Ranked 176)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 9.00% | ~24,345 |
+| The Killing Jar | 9.00% | ~24,346 |
 | First of Many | 8.00% | ~21,640 |
 | Not Your Average Trait | 7.00% | ~18,935 |
 | Expanding Horizons | 6.00% | ~16,230 |
@@ -61,7 +61,7 @@ Rating: 4.73 (Ranked 176)
 | You Shall Pass | 0.40% | ~199 |
 | A Foul Feast | 0.30% | ~149 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 270,503 (Ranked 62)  
+Progressed: 270,506 (Ranked 62)  
 Completed: 696 (0.26%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 696 (0.26%) (Ranked 262)
 | 2023-12-25 | 266,094 | 657 |
 | 2023-12-26 | 267,712 | 671 |
 | 2023-12-27 | 269,168 | 685 |
-| 2023-12-28 | 270,503 | 696 |
+| 2023-12-28 | 270,506 | 696 |
 ## Awards
 Max (Great Boss Battles): 4,516  (Ranked 84)  
 Sum: 9,935 (Ranked 94)  

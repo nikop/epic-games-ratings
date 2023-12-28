@@ -3829,9 +3829,9 @@
       "ID": "Achievement_040",
       "SetID": "6b34g18",
       "Name": "Heart Attack",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 128
     },
     {
       "ID": "Achievement_041",
@@ -4062,8 +4062,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-28T18:58:14.3894111+00:00",
-  "LastChanged_Achievements": "2023-12-28T21:04:40.9426934+00:00",
+  "LastChanged_Achievements": "2023-12-28T22:04:22.1247672+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:45.1864069+00:00",
-  "LastUpdate_Ratings": "2023-12-28T20:58:19.2103455+00:00",
-  "LastUpdate_Achievements": "2023-12-28T21:04:40.9427646+00:00"
+  "LastUpdate_Ratings": "2023-12-28T21:57:52.5964077+00:00",
+  "LastUpdate_Achievements": "2023-12-28T22:04:22.124831+00:00"
 }

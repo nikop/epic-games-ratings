@@ -2927,9 +2927,9 @@
       "Count": 150
     }
   ],
-  "EOS_Progressed": 675185,
+  "EOS_Progressed": 675188,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 3087,
+  "EOS_NewPlayers": 3076,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31887,6 +31887,11 @@
       "Time": "2023-12-28T21:11:33.4826202+00:00",
       "NumProgressed": 675185,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-28T22:10:44.381822+00:00",
+      "NumProgressed": 675188,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -31906,7 +31911,7 @@
       "Name": "Hiker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 81022
+      "UsersEstimate": 81023
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -31938,7 +31943,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 128285
+      "UsersEstimate": 128286
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -31954,7 +31959,7 @@
       "Name": "Advanced Voyager",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27007
+      "UsersEstimate": 27008
     },
     {
       "ID": "_01_08_DISTANCE_1000_MEDIUM",
@@ -31978,7 +31983,7 @@
       "Name": "Expert Stroller",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 27007
+      "UsersEstimate": 27008
     },
     {
       "ID": "_01_11_DISTANCE_200_HARD",
@@ -32026,7 +32031,7 @@
       "Name": "Orient Express",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27007
+      "UsersEstimate": 27008
     },
     {
       "ID": "_01_22_TRACKS_2000",
@@ -32114,7 +32119,7 @@
       "Name": "Rocketman",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5401
+      "UsersEstimate": 5402
     },
     {
       "ID": "_02_06_MISSED_STATIONS",
@@ -32146,7 +32151,7 @@
       "Name": "Incurious",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 121533
+      "UsersEstimate": 121534
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -32313,15 +32318,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 675185,
+      "Progressed": 675188,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-12-28T02:58:47.8325719+00:00",
-  "LastChanged_Achievements": "2023-12-28T21:11:33.4826199+00:00",
+  "LastChanged_Achievements": "2023-12-28T22:10:44.3818217+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:05.8431082+00:00",
-  "LastUpdate_Ratings": "2023-12-28T21:00:21.6565243+00:00",
-  "LastUpdate_Achievements": "2023-12-28T21:11:33.482776+00:00"
+  "LastUpdate_Ratings": "2023-12-28T21:59:47.3556077+00:00",
+  "LastUpdate_Achievements": "2023-12-28T22:10:44.3820083+00:00"
 }

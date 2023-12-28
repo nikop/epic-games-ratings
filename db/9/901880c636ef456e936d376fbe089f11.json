@@ -752,9 +752,9 @@
       "ID": "ACH_BREW_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "First Brew",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_BREW_LATTEART_FIRST_TIME",
@@ -1119,8 +1119,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-12-28T21:06:49.158052+00:00",
+  "LastChanged_Achievements": "2023-12-28T22:06:18.5963161+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:53.6877972+00:00",
-  "LastUpdate_Ratings": "2023-12-28T21:01:38.9274743+00:00",
-  "LastUpdate_Achievements": "2023-12-28T21:06:49.1580924+00:00"
+  "LastUpdate_Ratings": "2023-12-28T22:00:59.8626919+00:00",
+  "LastUpdate_Achievements": "2023-12-28T22:06:18.5963508+00:00"
 }

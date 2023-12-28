@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -651,7 +651,7 @@
   ],
   "EOS_Progressed": 4143,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -9449,9 +9449,9 @@
       "ID": "REWARD_5_BUNKER_BUSTER",
       "SetID": "bm6el81",
       "Name": "Change the Channel",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1326
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -9696,8 +9696,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-20T09:59:10.4485665+00:00",
-  "LastChanged_Achievements": "2023-12-28T21:10:31.7403647+00:00",
+  "LastChanged_Achievements": "2023-12-28T22:09:46.7779815+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:02.7105407+00:00",
-  "LastUpdate_Ratings": "2023-12-28T21:00:59.8208868+00:00",
-  "LastUpdate_Achievements": "2023-12-28T21:10:31.740453+00:00"
+  "LastUpdate_Ratings": "2023-12-28T22:00:23.3225414+00:00",
+  "LastUpdate_Achievements": "2023-12-28T22:09:46.7780691+00:00"
 }

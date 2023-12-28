@@ -452,7 +452,7 @@
   ],
   "EOS_Progressed": 265,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1209,17 +1209,17 @@
       "ID": "Collect_Hollow_Stasis",
       "SetID": "7a5k76n",
       "Name": "Freeze Frame",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "Collect_Hollow_Storm",
       "SetID": "7a5k76n",
       "Name": "Perfect Storm",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 130
     },
     {
       "ID": "Collect_Lurchers_100000",
@@ -1441,9 +1441,9 @@
       "ID": "Kill_Sin_Avarice",
       "SetID": "7a5k76n",
       "Name": "All That Glitters",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 127
     },
     {
       "ID": "Kill_Sin_BigBad",
@@ -1625,8 +1625,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-27T15:59:03.0058269+00:00",
-  "LastChanged_Achievements": "2023-12-28T21:04:26.8226584+00:00",
+  "LastChanged_Achievements": "2023-12-28T22:04:08.9105678+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:27.1633457+00:00",
-  "LastUpdate_Ratings": "2023-12-28T20:59:44.5915118+00:00",
-  "LastUpdate_Achievements": "2023-12-28T21:04:26.8227029+00:00"
+  "LastUpdate_Ratings": "2023-12-28T21:59:13.4052947+00:00",
+  "LastUpdate_Achievements": "2023-12-28T22:04:08.9106204+00:00"
 }

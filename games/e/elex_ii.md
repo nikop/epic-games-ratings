@@ -10,15 +10,15 @@ Number of Ratings: 124  (23.09.2022)
 | Best Buddy | 28.00% | ~34 |
 | Role Model | 25.00% | ~30 |
 | Civilian | 25.00% | ~30 |
-| Peddler | 18.00% | ~22 |
+| Peddler | 19.00% | ~23 |
+| Festival-goer | 18.00% | ~22 |
 | Creator | 17.00% | ~21 |
-| Festival-goer | 17.00% | ~21 |
 | Military Leader | 16.00% | ~20 |
 | Commander | 16.00% | ~20 |
 | Long-Haul Flyer | 13.00% | ~16 |
+| Irissa's Fate | 11.00% | ~13 |
 | Pass A38 | 11.00% | ~13 |
 | Family Reunion | 10.00% | ~12 |
-| Irissa's Fate | 10.00% | ~12 |
 | Berserker | 9.00% | ~11 |
 | Eternal Oblivion | 8.00% | ~10 |
 | Globetrotter | 7.00% | ~9 |
@@ -30,12 +30,12 @@ Number of Ratings: 124  (23.09.2022)
 | Unbreakable | 4.00% | ~5 |
 | Alchemist | 3.00% | ~4 |
 | Idealist | 3.00% | ~4 |
+| Cleric | 3.00% | ~4 |
 | Detective | 3.00% | ~4 |
 | Lover | 3.00% | ~4 |
 | Banker | 2.00% | ~2 |
 | Treasure Hunter | 2.00% | ~2 |
 | Beam Me Up | 2.00% | ~2 |
-| Cleric | 2.00% | ~2 |
 | Morkon | 2.00% | ~2 |
 | Perfectionist | 2.00% | ~2 |
 | Hunter | 2.00% | ~2 |

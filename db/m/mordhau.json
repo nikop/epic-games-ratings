@@ -6987,9 +6987,9 @@
       "Count": 132
     }
   ],
-  "EOS_Progressed": 1579928,
+  "EOS_Progressed": 1579929,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 4618,
+  "EOS_NewPlayers": 4589,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36022,6 +36022,11 @@
       "Time": "2023-12-28T21:06:57.464966+00:00",
       "NumProgressed": 1579928,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-12-28T22:06:26.2967876+00:00",
+      "NumProgressed": 1579929,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 38,
@@ -36041,7 +36046,7 @@
       "Name": "Burning Man",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 252788
+      "UsersEstimate": 252789
     },
     {
       "ID": "Chambermaid",
@@ -36105,7 +36110,7 @@
       "Name": "Friend Indeed",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 11059
+      "UsersEstimate": 11060
     },
     {
       "ID": "Guts",
@@ -36113,7 +36118,7 @@
       "Name": "Guts",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 300186
+      "UsersEstimate": 300187
     },
     {
       "ID": "Highlander",
@@ -36129,7 +36134,7 @@
       "Name": "Home Run",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 647770
+      "UsersEstimate": 647771
     },
     {
       "ID": "JustScratch",
@@ -36153,7 +36158,7 @@
       "Name": "Keeps Coming Off",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 647770
+      "UsersEstimate": 647771
     },
     {
       "ID": "KungFu",
@@ -36193,7 +36198,7 @@
       "Name": "Meat Grinder",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 300186
+      "UsersEstimate": 300187
     },
     {
       "ID": "NoOrdinaryCold",
@@ -36249,7 +36254,7 @@
       "Name": "Rock\u2019n\u2019Roll",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 11059
+      "UsersEstimate": 11060
     },
     {
       "ID": "StairwayHell",
@@ -36297,7 +36302,7 @@
       "Name": "Virtuoso",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 11059
+      "UsersEstimate": 11060
     },
     {
       "ID": "Vlad",
@@ -36336,7 +36341,7 @@
     {
       "ID": "anh8moj",
       "IsBase": true,
-      "Progressed": 1579928,
+      "Progressed": 1579929,
       "Completed": 72
     }
   ],
@@ -36344,8 +36349,8 @@
   "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:33.1084407+00:00",
   "LastChanged": "2023-12-28T19:00:10.3978346+00:00",
-  "LastChanged_Achievements": "2023-12-28T21:06:57.4649658+00:00",
+  "LastChanged_Achievements": "2023-12-28T22:06:26.296787+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:38.1606896+00:00",
-  "LastUpdate_Ratings": "2023-12-28T21:00:08.4810821+00:00",
-  "LastUpdate_Achievements": "2023-12-28T21:06:57.465102+00:00"
+  "LastUpdate_Ratings": "2023-12-28T21:59:35.1168964+00:00",
+  "LastUpdate_Achievements": "2023-12-28T22:06:26.2969511+00:00"
 }

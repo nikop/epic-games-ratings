@@ -711,9 +711,9 @@
       "ID": "die50",
       "SetID": "ci65fo0",
       "Name": "Loser",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "digTreasure1",
@@ -1047,9 +1047,9 @@
       "ID": "questBountyHunter",
       "SetID": "ci65fo0",
       "Name": "Bounty hunter",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "questBuildShip",
@@ -1167,9 +1167,9 @@
       "ID": "questKillSwampMonster",
       "SetID": "ci65fo0",
       "Name": "Threat of the swamps",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "questNorthGraveyard",
@@ -1308,8 +1308,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-12-28T21:11:01.6019451+00:00",
+  "LastChanged_Achievements": "2023-12-28T22:10:14.3058323+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.0184442+00:00",
-  "LastUpdate_Ratings": "2023-12-28T21:00:19.4801869+00:00",
-  "LastUpdate_Achievements": "2023-12-28T21:11:01.602001+00:00"
+  "LastUpdate_Ratings": "2023-12-28T21:59:45.3360626+00:00",
+  "LastUpdate_Achievements": "2023-12-28T22:10:14.305896+00:00"
 }

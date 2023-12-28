@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~621 |
-| Training Simulation | 79.00% | ~528 |
-| Kuku Bird Hunter | 66.00% | ~441 |
+| Travel Streamer | 93.00% | ~622 |
+| Training Simulation | 79.00% | ~529 |
+| Kuku Bird Hunter | 66.00% | ~442 |
 | Storm Traveller | 60.00% | ~401 |
-| Wolf King Killer | 56.00% | ~374 |
-| Fashion Connoisseur | 53.00% | ~354 |
-| Arms Mechanic | 49.00% | ~327 |
+| Wolf King Killer | 56.00% | ~375 |
+| Fashion Connoisseur | 53.00% | ~355 |
+| Arms Mechanic | 49.00% | ~328 |
 | Flower Thief | 44.00% | ~294 |
 | Apostle of Flame | 39.00% | ~261 |
 | Beginner Cook | 38.00% | ~254 |
@@ -32,11 +32,11 @@
 | Mermaid Killer | 15.00% | ~100 |
 | Cave Master | 14.00% | ~94 |
 | Face Slapper | 14.00% | ~94 |
-| Berserker Slayer | 11.00% | ~73 |
+| Berserker Slayer | 11.00% | ~74 |
 | Boss challenge | 10.00% | ~67 |
 | Giantess Slayer | 10.00% | ~67 |
 | Warden Slayer | 10.00% | ~67 |
-| Master Cook | 8.00% | ~53 |
+| Master Cook | 8.00% | ~54 |
 | Silver Moon Wolf King Challenge | 4.00% | ~27 |
 | Flying Kobold Challenge | 3.00% | ~20 |
 | Furious Scorpion Challenge | 3.00% | ~20 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 2.00% | ~13 |
 | Warden Challenge | 2.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 668 (Ranked 313)  
+Progressed: 669 (Ranked 313)  
 Completed: 2 (0.30%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,6 +164,7 @@ Completed: 2 (0.30%) (Ranked 254)
 | 2023-12-25 | 663 | 2 |
 | 2023-12-26 | 666 | 2 |
 | 2023-12-27 | 668 | 2 |
+| 2023-12-28 | 669 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

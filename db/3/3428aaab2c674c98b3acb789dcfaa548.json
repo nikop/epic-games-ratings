@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 31,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
     "PcReleaseDate": "2010-10-19T11:26:00+00:00",
@@ -9665,10 +9665,10 @@
       "Count": 1477
     }
   ],
-  "EOS_Progressed": 874498,
+  "EOS_Progressed": 874500,
   "EOS_Completed": 232,
-  "EOS_NewPlayers": 8619,
-  "EOS_NewCompleters": 10,
+  "EOS_NewPlayers": 8570,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
     {
@@ -35260,6 +35260,11 @@
       "Time": "2023-12-28T21:10:15.818932+00:00",
       "NumProgressed": 874498,
       "NumCompleted": 232
+    },
+    {
+      "Time": "2023-12-28T22:09:32.3855517+00:00",
+      "NumProgressed": 874500,
+      "NumCompleted": 232
     }
   ],
   "TotalAchievements": 75,
@@ -35271,7 +35276,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 236114
+      "UsersEstimate": 236115
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -35287,7 +35292,7 @@
       "Name": "Arizona Killer",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 2623
+      "UsersEstimate": 2624
     },
     {
       "ID": "ACHIEVEMENT_ARTFUL_POCKETER",
@@ -35383,7 +35388,7 @@
       "Name": "Desert Survivalist",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2623
+      "UsersEstimate": 2624
     },
     {
       "ID": "ACHIEVEMENT_DOUBLE_DOWN",
@@ -35431,7 +35436,7 @@
       "Name": "Globe Trotter",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 2623
+      "UsersEstimate": 2624
     },
     {
       "ID": "ACHIEVEMENT_HACK_THE_MOJAVE",
@@ -35447,7 +35452,7 @@
       "Name": "Hardcore",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 2623
+      "UsersEstimate": 2624
     },
     {
       "ID": "ACHIEVEMENT_HAVING_A_BALL",
@@ -35599,7 +35604,7 @@
       "Name": "Old-Tyme Brawler",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7870
+      "UsersEstimate": 7871
     },
     {
       "ID": "ACHIEVEMENT_OL_BUDDY_OL_PAL",
@@ -35655,7 +35660,7 @@
       "Name": "Render Unto Caesar",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2623
+      "UsersEstimate": 2624
     },
     {
       "ID": "ACHIEVEMENT_RESTORE_OUR_FORTUNES",
@@ -35807,7 +35812,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2623
+      "UsersEstimate": 2624
     },
     {
       "ID": "ACHIEVEMENT_VOLARE",
@@ -35870,13 +35875,13 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 874498,
+      "Progressed": 874500,
       "Completed": 276
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 874498,
+      "Progressed": 874500,
       "Completed": 232
     }
   ],
@@ -35884,8 +35889,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-12-28T18:59:15.6434496+00:00",
-  "LastChanged_Achievements": "2023-12-28T21:10:15.8189317+00:00",
+  "LastChanged_Achievements": "2023-12-28T22:09:32.3855512+00:00",
   "LastUpdate_AppInfo": "2023-12-22T10:56:59.455286+00:00",
-  "LastUpdate_Ratings": "2023-12-28T20:59:16.1256731+00:00",
-  "LastUpdate_Achievements": "2023-12-28T21:10:15.8191037+00:00"
+  "LastUpdate_Ratings": "2023-12-28T21:58:46.4446692+00:00",
+  "LastUpdate_Achievements": "2023-12-28T22:09:32.3857216+00:00"
 }

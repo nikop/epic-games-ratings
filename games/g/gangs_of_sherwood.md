@@ -8,12 +8,12 @@
 | Air Fighter | 75.00% | ~78 |
 | Oo-De-Lally | 70.00% | ~73 |
 | Treasure Hunter | 65.00% | ~68 |
-| The Altruist | 63.00% | ~66 |
+| The Altruist | 64.00% | ~67 |
 | Watch your Step! | 53.00% | ~55 |
 | Tap Dancing | 50.00% | ~52 |
 | MAX LEVEL | 49.00% | ~51 |
 | Right between the eyes | 40.00% | ~42 |
-| Starry Night | 38.00% | ~40 |
+| Starry Night | 39.00% | ~41 |
 | Spring Board | 38.00% | ~40 |
 | Locksley's Tears | 37.00% | ~38 |
 | Rebel Unleashed | 35.00% | ~36 |

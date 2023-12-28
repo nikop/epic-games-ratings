@@ -16608,9 +16608,9 @@
       "Count": 105133
     }
   ],
-  "EOS_Progressed": 37294080,
-  "EOS_Completed": 48974,
-  "EOS_NewPlayers": 186335,
+  "EOS_Progressed": 37294084,
+  "EOS_Completed": 48976,
+  "EOS_NewPlayers": 185081,
   "EOS_NewCompleters": 543,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -45703,6 +45703,11 @@
       "Time": "2023-12-28T21:06:42.0183494+00:00",
       "NumProgressed": 37294080,
       "NumCompleted": 48974
+    },
+    {
+      "Time": "2023-12-28T22:06:11.9298025+00:00",
+      "NumProgressed": 37294084,
+      "NumCompleted": 48976
     }
   ],
   "TotalAchievements": 34,
@@ -45754,7 +45759,7 @@
       "Name": "Catwalk Model",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1118822
+      "UsersEstimate": 1118823
     },
     {
       "ID": "ACH_DOWN_TO_THE_WIRE",
@@ -45762,7 +45767,7 @@
       "Name": "Down to the Wire",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1118822
+      "UsersEstimate": 1118823
     },
     {
       "ID": "ACH_FALL_10_QUALIFY_RACE",
@@ -45778,7 +45783,7 @@
       "Name": "Fall Throttle",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4848230
+      "UsersEstimate": 4848231
     },
     {
       "ID": "ACH_FAME_TIER_1",
@@ -45786,7 +45791,7 @@
       "Name": "One to Watch",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3356467
+      "UsersEstimate": 3356468
     },
     {
       "ID": "ACH_FAME_TIER_2",
@@ -45818,7 +45823,7 @@
       "Name": "Flawless Victory",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2983526
+      "UsersEstimate": 2983527
     },
     {
       "ID": "ACH_GRAB_PLAYER",
@@ -45826,7 +45831,7 @@
       "Name": "Fall Bae",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2983526
+      "UsersEstimate": 2983527
     },
     {
       "ID": "ACH_HEAD_TURNER",
@@ -45834,7 +45839,7 @@
       "Name": "Head Turner",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 1118822
+      "UsersEstimate": 1118823
     },
     {
       "ID": "ACH_INFALLIBLE",
@@ -45858,7 +45863,7 @@
       "Name": "One small trip",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 5594112
+      "UsersEstimate": 5594113
     },
     {
       "ID": "ACH_QUALIFY_ROUND_TIER_2",
@@ -45882,7 +45887,7 @@
       "Name": "Ahead of the Pack",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2983526
+      "UsersEstimate": 2983527
     },
     {
       "ID": "ACH_RACING_TIER_2",
@@ -45890,7 +45895,7 @@
       "Name": "Quite Dashing",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1118822
+      "UsersEstimate": 1118823
     },
     {
       "ID": "ACH_RACING_TIER_3",
@@ -45922,7 +45927,7 @@
       "Name": "Snowflake",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 5594112
+      "UsersEstimate": 5594113
     },
     {
       "ID": "ACH_SQUAD_GOALS",
@@ -45930,7 +45935,7 @@
       "Name": "Squad Goals",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1118822
+      "UsersEstimate": 1118823
     },
     {
       "ID": "ACH_STUMBLE_CHUMS",
@@ -45938,7 +45943,7 @@
       "Name": "Stumble Chums",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2983526
+      "UsersEstimate": 2983527
     },
     {
       "ID": "ACH_STYLE_POINTS",
@@ -45954,7 +45959,7 @@
       "Name": "Troublemaker",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3356467
+      "UsersEstimate": 3356468
     },
     {
       "ID": "ACH_WIN_1_EPISODE",
@@ -45985,15 +45990,15 @@
     {
       "ID": "59meapj",
       "IsBase": true,
-      "Progressed": 37294080,
-      "Completed": 48974
+      "Progressed": 37294084,
+      "Completed": 48976
     }
   ],
   "FirstSeen": "2022-07-22T20:18:16.49776+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.7143696+00:00",
   "LastChanged": "2023-12-28T19:02:54.1441926+00:00",
-  "LastChanged_Achievements": "2023-12-28T21:06:42.0183492+00:00",
+  "LastChanged_Achievements": "2023-12-28T22:06:11.9298019+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:30.5152385+00:00",
-  "LastUpdate_Ratings": "2023-12-28T21:03:12.3473727+00:00",
-  "LastUpdate_Achievements": "2023-12-28T21:06:42.0185378+00:00"
+  "LastUpdate_Ratings": "2023-12-28T22:01:29.6980642+00:00",
+  "LastUpdate_Achievements": "2023-12-28T22:06:11.9299749+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -3236,9 +3236,9 @@
       "ID": "we_go_again",
       "SetID": "c4ipj3h",
       "Name": "We Go Again",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 420
+      "UsersEstimate": 436
     }
   ],
   "AchievementSets": [
@@ -3253,8 +3253,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-12-28T21:11:20.673427+00:00",
+  "LastChanged_Achievements": "2023-12-28T22:10:32.3212107+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.2204919+00:00",
-  "LastUpdate_Ratings": "2023-12-28T20:57:52.9676826+00:00",
-  "LastUpdate_Achievements": "2023-12-28T21:11:20.6734503+00:00"
+  "LastUpdate_Ratings": "2023-12-28T21:57:28.1161207+00:00",
+  "LastUpdate_Achievements": "2023-12-28T22:10:32.3212375+00:00"
 }

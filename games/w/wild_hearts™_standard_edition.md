@@ -10,8 +10,8 @@
 | Budding Conjuror | 59.00% | ~571 |
 | Man-Machine Master | 48.00% | ~465 |
 | Mountain Splitter | 47.00% | ~455 |
+| Subsistence Skills | 47.00% | ~455 |
 | Charmed by the Hunt | 47.00% | ~455 |
-| Subsistence Skills | 46.00% | ~445 |
 | Memory Rouser | 45.00% | ~436 |
 | Fusion Conjuror | 44.00% | ~426 |
 | Kemono Hunter | 39.00% | ~378 |
@@ -31,8 +31,8 @@
 | Snare Specialist | 22.00% | ~213 |
 | Artful Assister | 22.00% | ~213 |
 | Team Hunter | 20.00% | ~194 |
+| Karakuri Isle | 18.00% | ~174 |
 | Reincarnation Cycle Stopper | 18.00% | ~174 |
-| Karakuri Isle | 17.00% | ~165 |
 | Human Believer | 16.00% | ~155 |
 | Left Arm Leverager | 15.00% | ~145 |
 | Style Seeker | 15.00% | ~145 |

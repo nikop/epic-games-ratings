@@ -5,17 +5,17 @@ Rating: 4.54 (Ranked 540)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 7.00% | ~54,100 |
-| Break A Leg | 6.00% | ~46,371 |
-| Hotel California | 6.00% | ~46,371 |
-| Coup de Grâce | 5.00% | ~38,643 |
-| Hazardous Materials | 5.00% | ~38,643 |
-| Git Gutte! | 4.00% | ~30,914 |
-| Bookworm | 4.00% | ~30,914 |
-| Friends Like These | 4.00% | ~30,914 |
-| Apex Predator | 4.00% | ~30,914 |
-| Personal Assistant Personally Assisted | 4.00% | ~30,914 |
-| Whatever It Takes | 4.00% | ~3,936 |
+| Welcome To Hell-A | 7.00% | ~54,101 |
+| Break A Leg | 6.00% | ~46,373 |
+| Hotel California | 6.00% | ~46,373 |
+| Coup de Grâce | 5.00% | ~38,644 |
+| Hazardous Materials | 5.00% | ~38,644 |
+| Git Gutte! | 4.00% | ~30,915 |
+| Bookworm | 4.00% | ~30,915 |
+| Friends Like These | 4.00% | ~30,915 |
+| Apex Predator | 4.00% | ~30,915 |
+| Personal Assistant Personally Assisted | 4.00% | ~30,915 |
+| Whatever It Takes | 4.00% | ~3,937 |
 | Dr. Reed, I Presume? | 3.00% | ~23,186 |
 | Anger Management | 3.00% | ~23,186 |
 | I Got a Zombie Army and You Can't Harm Me | 3.00% | ~23,186 |
@@ -25,18 +25,18 @@ Rating: 4.54 (Ranked 540)
 | Like Riding a Bike | 3.00% | ~23,186 |
 | Stacking the Deck | 3.00% | ~23,186 |
 | This is My Weapon | 3.00% | ~23,186 |
-| One of Us | 3.00% | ~2,952 |
-| Pork Chopped | 3.00% | ~2,952 |
-| Making Your Mark | 2.00% | ~15,457 |
-| Perks of the Job | 2.00% | ~15,457 |
-| Zombologist | 2.00% | ~15,457 |
-| Ooh, Shiny! | 2.00% | ~15,457 |
-| A Patton Emerges | 2.00% | ~15,457 |
-| Humanity Distilled | 2.00% | ~15,457 |
-| I Am the Resurrection | 2.00% | ~15,457 |
-| Down with the Sickness | 2.00% | ~15,457 |
-| Max Headroom | 2.00% | ~15,457 |
-| Our True Nature | 2.00% | ~15,457 |
+| One of Us | 3.00% | ~2,953 |
+| Pork Chopped | 3.00% | ~2,953 |
+| Making Your Mark | 2.00% | ~15,458 |
+| Perks of the Job | 2.00% | ~15,458 |
+| Zombologist | 2.00% | ~15,458 |
+| Ooh, Shiny! | 2.00% | ~15,458 |
+| A Patton Emerges | 2.00% | ~15,458 |
+| Humanity Distilled | 2.00% | ~15,458 |
+| I Am the Resurrection | 2.00% | ~15,458 |
+| Down with the Sickness | 2.00% | ~15,458 |
+| Max Headroom | 2.00% | ~15,458 |
+| Our True Nature | 2.00% | ~15,458 |
 | Smorgasbord | 1.00% | ~7,729 |
 | Not Even My Final Form | 1.00% | ~7,729 |
 | Internet Famous | 1.00% | ~7,729 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 540)
 | Bucket List | 0.10% | ~773 |
 | Wilhelm | 0.10% | ~98 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 772,857 (Ranked 20)  
+Progressed: 772,877 (Ranked 20)  
 Completed: 2,511 (0.32%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 2,511 (0.32%) (Ranked 248)
 | 2023-12-25 | 766,199 | 2,502 |
 | 2023-12-26 | 768,817 | 2,505 |
 | 2023-12-27 | 771,068 | 2,509 |
-| 2023-12-28 | 772,857 | 2,511 |
+| 2023-12-28 | 772,877 | 2,511 |
 ## Awards
 Max (Great Boss Battles): 9,016  (Ranked 43)  
 Sum: 13,770 (Ranked 78)  

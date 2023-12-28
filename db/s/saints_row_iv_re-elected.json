@@ -727,9 +727,9 @@
       "Count": 515
     }
   ],
-  "EOS_Progressed": 329197,
+  "EOS_Progressed": 329198,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 5314,
+  "EOS_NewPlayers": 5286,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29812,6 +29812,11 @@
       "Time": "2023-12-28T21:04:39.3376953+00:00",
       "NumProgressed": 329197,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-12-28T22:04:20.4832546+00:00",
+      "NumProgressed": 329198,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 72,
@@ -29975,7 +29980,7 @@
       "Name": "Destroyer-In-Chief",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 184350
+      "UsersEstimate": 184351
     },
     {
       "ID": "Didn\u0027t Need to See Him Naked",
@@ -30079,7 +30084,7 @@
       "Name": "Ghost in the Machine",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 55963
+      "UsersEstimate": 55964
     },
     {
       "ID": "Half Way Home",
@@ -30215,7 +30220,7 @@
       "Name": "Ooo A Piece of Candy!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 72423
+      "UsersEstimate": 72424
     },
     {
       "ID": "Our Gift to You",
@@ -30335,7 +30340,7 @@
       "Name": "There Is No Pancakes",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 174474
+      "UsersEstimate": 174475
     },
     {
       "ID": "Ultimate Hot Potato",
@@ -30383,7 +30388,7 @@
       "Name": "Zero Saints Thirty",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 204102
+      "UsersEstimate": 204103
     },
     {
       "ID": "Zoo Keeper",
@@ -30398,7 +30403,7 @@
     {
       "ID": "d4hjaom",
       "IsBase": true,
-      "Progressed": 329197,
+      "Progressed": 329198,
       "Completed": 17
     }
   ],
@@ -30406,8 +30411,8 @@
   "FirstSeenRating": "2022-12-09T02:11:05.5025317+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5717008+00:00",
   "LastChanged": "2023-12-28T01:47:00.4995449+00:00",
-  "LastChanged_Achievements": "2023-12-28T21:04:39.3376949+00:00",
+  "LastChanged_Achievements": "2023-12-28T22:04:20.4832541+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:47.2940377+00:00",
   "LastUpdate_Ratings": "2023-12-28T21:03:37.5977689+00:00",
-  "LastUpdate_Achievements": "2023-12-28T21:04:39.3378591+00:00"
+  "LastUpdate_Achievements": "2023-12-28T22:04:20.4834199+00:00"
 }

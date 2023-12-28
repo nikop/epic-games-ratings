@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 968,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 219,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -3254,9 +3254,9 @@
       "ID": "achievement_11",
       "SetID": "2cpn27e",
       "Name": "Karakuri Isle",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 174
     },
     {
       "ID": "achievement_12",
@@ -3334,9 +3334,9 @@
       "ID": "achievement_20",
       "SetID": "2cpn27e",
       "Name": "Subsistence Skills",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 445
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_21",
@@ -3628,8 +3628,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-28T21:10:32.5221035+00:00",
+  "LastChanged_Achievements": "2023-12-28T22:09:47.6275724+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:00.2404368+00:00",
-  "LastUpdate_Ratings": "2023-12-28T20:57:47.9768414+00:00",
-  "LastUpdate_Achievements": "2023-12-28T21:10:32.5221452+00:00"
+  "LastUpdate_Ratings": "2023-12-28T21:57:23.3229924+00:00",
+  "LastUpdate_Achievements": "2023-12-28T22:09:47.6276125+00:00"
 }

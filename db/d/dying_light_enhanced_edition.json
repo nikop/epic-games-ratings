@@ -14506,9 +14506,9 @@
       "Count": 1611
     }
   ],
-  "EOS_Progressed": 4132020,
+  "EOS_Progressed": 4132021,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 14895,
+  "EOS_NewPlayers": 14834,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -43546,6 +43546,11 @@
       "Time": "2023-12-28T21:04:31.275757+00:00",
       "NumProgressed": 4132020,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-12-28T22:04:12.824031+00:00",
+      "NumProgressed": 4132021,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 78,
@@ -43557,7 +43562,7 @@
       "Name": "Flight of the Crane",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 3553537
+      "UsersEstimate": 3553538
     },
     {
       "ID": "ACH_10",
@@ -43645,7 +43650,7 @@
       "Name": "My left or your left?",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2148650
+      "UsersEstimate": 2148651
     },
     {
       "ID": "ACH_20",
@@ -43661,7 +43666,7 @@
       "Name": "Pheidippides",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 702443
+      "UsersEstimate": 702444
     },
     {
       "ID": "ACH_22",
@@ -43677,7 +43682,7 @@
       "Name": "Is It Really Necessary?",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 3760138
+      "UsersEstimate": 3760139
     },
     {
       "ID": "ACH_24",
@@ -43733,7 +43738,7 @@
       "Name": "Snake in the grass",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1280926
+      "UsersEstimate": 1280927
     },
     {
       "ID": "ACH_30",
@@ -43805,7 +43810,7 @@
       "Name": "Little Craftsman",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 3677498
+      "UsersEstimate": 3677499
     },
     {
       "ID": "ACH_39",
@@ -43829,7 +43834,7 @@
       "Name": "Open Sesame",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1487527
+      "UsersEstimate": 1487528
     },
     {
       "ID": "ACH_41",
@@ -43837,7 +43842,7 @@
       "Name": "Everybody Knows Kyle",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1280926
+      "UsersEstimate": 1280927
     },
     {
       "ID": "ACH_42",
@@ -43853,7 +43858,7 @@
       "Name": "Agile",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1280926
+      "UsersEstimate": 1280927
     },
     {
       "ID": "ACH_44",
@@ -43861,7 +43866,7 @@
       "Name": "Strong",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1487527
+      "UsersEstimate": 1487528
     },
     {
       "ID": "ACH_45",
@@ -43877,7 +43882,7 @@
       "Name": "I\u0027ve Got Your Back",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1528847
+      "UsersEstimate": 1528848
     },
     {
       "ID": "ACH_47",
@@ -44077,7 +44082,7 @@
       "Name": "Now You Can Come In",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 909044
+      "UsersEstimate": 909045
     },
     {
       "ID": "ACH_70",
@@ -44165,7 +44170,7 @@
       "Name": "Vertigo",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 909044
+      "UsersEstimate": 909045
     },
     {
       "ID": "ACH_9",
@@ -44180,15 +44185,15 @@
     {
       "ID": "5fjkg7c",
       "IsBase": true,
-      "Progressed": 4132020,
+      "Progressed": 4132021,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:18:05.0678131+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:58.6045663+00:00",
   "LastChanged": "2023-12-28T14:59:43.4526761+00:00",
-  "LastChanged_Achievements": "2023-12-28T21:04:31.2757568+00:00",
+  "LastChanged_Achievements": "2023-12-28T22:04:12.8240307+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:21.7336764+00:00",
-  "LastUpdate_Ratings": "2023-12-28T21:00:51.0399542+00:00",
-  "LastUpdate_Achievements": "2023-12-28T21:04:31.2759656+00:00"
+  "LastUpdate_Ratings": "2023-12-28T22:00:14.8425512+00:00",
+  "LastUpdate_Achievements": "2023-12-28T22:04:12.8241851+00:00"
 }

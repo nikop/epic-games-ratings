@@ -139,7 +139,7 @@
   "Tags": [],
   "EOS_Progressed": 13600,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4675,
+  "EOS_NewPlayers": 4671,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9890,9 +9890,9 @@
       "ID": "ARUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded Accelerated Reload to Level 3",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1360
+      "UsersEstimate": 1496
     },
     {
       "ID": "ArachnidKills1",
@@ -9930,9 +9930,9 @@
       "ID": "CreditsEarned50000",
       "SetID": "12d07c7",
       "Name": "Earned 50000 Credits",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 3536
+      "UsersEstimate": 3672
     },
     {
       "ID": "CreditsSpent50000",
@@ -10010,9 +10010,9 @@
       "ID": "GamesPlayed10",
       "SetID": "12d07c7",
       "Name": "Played 10 Matches",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 952
+      "UsersEstimate": 1088
     },
     {
       "ID": "GamesPlayed100",
@@ -10026,9 +10026,9 @@
       "ID": "GamesWon1",
       "SetID": "12d07c7",
       "Name": "Won a Match",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 5304
+      "UsersEstimate": 5440
     },
     {
       "ID": "GamesWon10",
@@ -10170,9 +10170,9 @@
       "ID": "LMGUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded the LMG to Level 3",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 2040
+      "UsersEstimate": 2176
     },
     {
       "ID": "LaserUpgraded1",
@@ -10314,9 +10314,9 @@
       "ID": "PlayerKills10",
       "SetID": "12d07c7",
       "Name": "10 Eliminations",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 3536
+      "UsersEstimate": 3672
     },
     {
       "ID": "PlayerKills100",
@@ -10483,8 +10483,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-12-28T13:58:37.7057957+00:00",
-  "LastChanged_Achievements": "2023-12-28T21:11:40.5370661+00:00",
+  "LastChanged_Achievements": "2023-12-28T22:10:51.6291266+00:00",
   "LastUpdate_AppInfo": "2023-12-26T18:57:06.766532+00:00",
-  "LastUpdate_Ratings": "2023-12-28T20:58:56.3186873+00:00",
-  "LastUpdate_Achievements": "2023-12-28T21:11:40.5371531+00:00"
+  "LastUpdate_Ratings": "2023-12-28T21:58:27.5748286+00:00",
+  "LastUpdate_Achievements": "2023-12-28T22:10:51.6292322+00:00"
 }

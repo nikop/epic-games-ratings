@@ -21,10 +21,10 @@ Rating: 4.20 (Ranked 946)
 | Two Heads Are Better Than One | 8.00% | ~1,582 |
 | Terminated | 8.00% | ~1,582 |
 | Power Up | 8.00% | ~1,582 |
-| Giving Back | 7.00% | ~1,384 |
-| You Need a Gun | 7.00% | ~1,384 |
-| What Lies Beneath | 7.00% | ~1,384 |
-| Full Circle | 7.00% | ~1,384 |
+| Giving Back | 7.00% | ~1,385 |
+| You Need a Gun | 7.00% | ~1,385 |
+| What Lies Beneath | 7.00% | ~1,385 |
+| Full Circle | 7.00% | ~1,385 |
 | I Do Belong Here | 6.00% | ~1,187 |
 | Keep Fighting | 6.00% | ~462 |
 | It's Time | 5.00% | ~385 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 946)
 | Big Game Hunter | 0.10% | ~8 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,778 (Ranked 150)  
+Progressed: 19,779 (Ranked 150)  
 Completed: 82 (0.41%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 82 (0.41%) (Ranked 228)
 | 2023-12-25 | 19,287 | 82 |
 | 2023-12-26 | 19,464 | 82 |
 | 2023-12-27 | 19,632 | 82 |
-| 2023-12-28 | 19,778 | 82 |
+| 2023-12-28 | 19,779 | 82 |
 ## Awards
 Max (Amazing Characters): 104  (Ranked 367)  
 Sum: 525 (Ranked 329)  

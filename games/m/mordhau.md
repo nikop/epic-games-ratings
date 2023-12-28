@@ -7,11 +7,11 @@ Rating: 4.38 (Ranked 781)
 | ---- | ---------- | ----- |
 | Justice from the Grave | 49.00% | ~774,165 |
 | The ABCs | 43.00% | ~679,369 |
-| Home Run | 41.00% | ~647,770 |
-| Keeps Coming Off | 41.00% | ~647,770 |
-| Guts | 19.00% | ~300,186 |
-| Meat Grinder | 19.00% | ~300,186 |
-| Burning Man | 16.00% | ~252,788 |
+| Home Run | 41.00% | ~647,771 |
+| Keeps Coming Off | 41.00% | ~647,771 |
+| Guts | 19.00% | ~300,187 |
+| Meat Grinder | 19.00% | ~300,187 |
+| Burning Man | 16.00% | ~252,789 |
 | Lived to Tell the Tale | 12.00% | ~189,591 |
 | Highlander | 10.00% | ~157,993 |
 | Unstoppable | 10.00% | ~157,993 |
@@ -33,9 +33,9 @@ Rating: 4.38 (Ranked 781)
 | Boxer | 0.90% | ~14,219 |
 | Flyswatter | 0.90% | ~14,219 |
 | Training Accident | 0.90% | ~14,219 |
-| Friend Indeed | 0.70% | ~11,059 |
-| Rock’n’Roll | 0.70% | ~11,059 |
-| Virtuoso | 0.70% | ~11,059 |
+| Friend Indeed | 0.70% | ~11,060 |
+| Rock’n’Roll | 0.70% | ~11,060 |
+| Virtuoso | 0.70% | ~11,060 |
 | Vlad the Impaler | 0.40% | ~6,320 |
 | Whack-A-Mole | 0.40% | ~6,320 |
 | Clobbered | 0.20% | ~3,160 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 781)
 | That’s No Ordinary Cold | 0.10% | ~1,580 |
 | Stairway to Hell | 0.10% | ~1,580 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,579,928 (Ranked 7)  
+Progressed: 1,579,929 (Ranked 7)  
 Completed: 72 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 72 (0.00%) (Ranked 389)
 | 2023-12-25 | 1,578,078 | 70 |
 | 2023-12-26 | 1,578,728 | 70 |
 | 2023-12-27 | 1,579,371 | 72 |
-| 2023-12-28 | 1,579,928 | 72 |
+| 2023-12-28 | 1,579,929 | 72 |
 ## Awards
 Max (Diverse Characters): 1,129  (Ranked 147)  
 Sum: 5,897 (Ranked 135)  

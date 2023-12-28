@@ -1605,9 +1605,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 245235,
+  "EOS_Progressed": 245237,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1343,
+  "EOS_NewPlayers": 1338,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24045,6 +24045,11 @@
       "Time": "2023-12-28T21:11:31.5234304+00:00",
       "NumProgressed": 245235,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-28T22:10:42.4826204+00:00",
+      "NumProgressed": 245237,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -24104,7 +24109,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 17166
+      "UsersEstimate": 17167
     },
     {
       "ID": "Chapter2",
@@ -24759,21 +24764,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 245235,
+      "Progressed": 245237,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 245235,
+      "Progressed": 245237,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-28T18:57:26.1730276+00:00",
-  "LastChanged_Achievements": "2023-12-28T21:11:31.52343+00:00",
+  "LastChanged_Achievements": "2023-12-28T22:10:42.48262+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:14.8119134+00:00",
-  "LastUpdate_Ratings": "2023-12-28T20:57:34.6220524+00:00",
-  "LastUpdate_Achievements": "2023-12-28T21:11:31.5236012+00:00"
+  "LastUpdate_Ratings": "2023-12-28T21:57:10.5094378+00:00",
+  "LastUpdate_Achievements": "2023-12-28T22:10:42.4827672+00:00"
 }

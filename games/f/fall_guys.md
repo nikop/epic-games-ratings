@@ -6,27 +6,27 @@ Number of Ratings: 1,046,587  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One small trip | 15.00% | ~5,594,112 |
-| Snowflake | 15.00% | ~5,594,112 |
-| Fall Throttle | 13.00% | ~4,848,230 |
+| One small trip | 15.00% | ~5,594,113 |
+| Snowflake | 15.00% | ~5,594,113 |
+| Fall Throttle | 13.00% | ~4,848,231 |
 | Big Bully | 11.00% | ~4,102,349 |
 | Face First | 11.00% | ~4,102,349 |
 | Style Points | 10.00% | ~3,729,408 |
-| One to Watch | 9.00% | ~3,356,467 |
-| Troublemaker | 9.00% | ~3,356,467 |
-| Flawless Victory | 8.00% | ~2,983,526 |
-| Fall Bae | 8.00% | ~2,983,526 |
-| Ahead of the Pack | 8.00% | ~2,983,526 |
-| Stumble Chums | 8.00% | ~2,983,526 |
+| One to Watch | 9.00% | ~3,356,468 |
+| Troublemaker | 9.00% | ~3,356,468 |
+| Flawless Victory | 8.00% | ~2,983,527 |
+| Fall Bae | 8.00% | ~2,983,527 |
+| Ahead of the Pack | 8.00% | ~2,983,527 |
+| Stumble Chums | 8.00% | ~2,983,527 |
 | Victory! | 7.00% | ~2,610,586 |
 | Bargain Bucket | 5.00% | ~1,864,704 |
 | Household Name | 4.00% | ~1,491,763 |
 | One giant leap | 4.00% | ~1,491,763 |
-| Catwalk Model | 3.00% | ~1,118,822 |
-| Down to the Wire | 3.00% | ~1,118,822 |
-| Head Turner | 3.00% | ~1,118,822 |
-| Quite Dashing | 3.00% | ~1,118,822 |
-| Squad Goals | 3.00% | ~1,118,822 |
+| Catwalk Model | 3.00% | ~1,118,823 |
+| Down to the Wire | 3.00% | ~1,118,823 |
+| Head Turner | 3.00% | ~1,118,823 |
+| Quite Dashing | 3.00% | ~1,118,823 |
+| Squad Goals | 3.00% | ~1,118,823 |
 | Big Air | 2.00% | ~745,882 |
 | Star of the Show | 2.00% | ~745,882 |
 | Shopping Spree | 2.00% | ~745,882 |
@@ -41,8 +41,8 @@ Number of Ratings: 1,046,587  (23.09.2022)
 | Fall Guy Fashionista | 0.40% | ~149,176 |
 | Infallible | 0.30% | ~111,882 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,294,080 (Ranked 1)  
-Completed: 48,974 (0.13%) (Ranked 296)  
+Progressed: 37,294,084 (Ranked 1)  
+Completed: 48,976 (0.13%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -293,7 +293,7 @@ Completed: 48,974 (0.13%) (Ranked 296)
 | 2023-12-25 | 37,216,279 | 48,735 |
 | 2023-12-26 | 37,245,917 | 48,823 |
 | 2023-12-27 | 37,272,426 | 48,902 |
-| 2023-12-28 | 37,294,080 | 48,974 |
+| 2023-12-28 | 37,294,084 | 48,976 |
 ## Awards
 Max (Great for Beginners): 153,958  (Ranked 7)  
 Sum: 1,398,395 (Ranked 5)  

@@ -14251,9 +14251,9 @@
       "Count": 3791
     }
   ],
-  "EOS_Progressed": 1241252,
+  "EOS_Progressed": 1241260,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 10683,
+  "EOS_NewPlayers": 10631,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -43326,6 +43326,11 @@
       "Time": "2023-12-28T21:05:51.6826103+00:00",
       "NumProgressed": 1241252,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-28T22:05:25.6974356+00:00",
+      "NumProgressed": 1241260,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 119,
@@ -43473,7 +43478,7 @@
       "Name": "City Planner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 273075
+      "UsersEstimate": 273077
     },
     {
       "ID": "ClarkCable",
@@ -43489,7 +43494,7 @@
       "Name": "Climbing the Social Ladder",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 198600
+      "UsersEstimate": 198602
     },
     {
       "ID": "CoasterTycoon",
@@ -43553,7 +43558,7 @@
       "Name": "Does My Bum Look Big In This?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 211013
+      "UsersEstimate": 211014
     },
     {
       "ID": "DropTheBase",
@@ -43609,7 +43614,7 @@
       "Name": "Foggy Weather",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 719926
+      "UsersEstimate": 719931
     },
     {
       "ID": "ForForProfitEducation",
@@ -43673,7 +43678,7 @@
       "Name": "Green Energy",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 744751
+      "UsersEstimate": 744756
     },
     {
       "ID": "GreenestCity",
@@ -43801,7 +43806,7 @@
       "Name": "Lawmaker",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 124125
+      "UsersEstimate": 124126
     },
     {
       "ID": "LeisureSuites",
@@ -43913,7 +43918,7 @@
       "Name": "Pioneer",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 881289
+      "UsersEstimate": 881295
     },
     {
       "ID": "PlayingWithTheBoys",
@@ -43937,7 +43942,7 @@
       "Name": "Power at Your Fingertips",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 409613
+      "UsersEstimate": 409616
     },
     {
       "ID": "PowerToThePeople",
@@ -43977,7 +43982,7 @@
       "Name": "Quay-King",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 136538
+      "UsersEstimate": 136539
     },
     {
       "ID": "RejoiceAndBeFerry",
@@ -44001,7 +44006,7 @@
       "Name": "Rolling in Dough",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 248250
+      "UsersEstimate": 248252
     },
     {
       "ID": "RunBambi",
@@ -44025,7 +44030,7 @@
       "Name": "Safe City",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 161363
+      "UsersEstimate": 161364
     },
     {
       "ID": "ScalingUp",
@@ -44073,7 +44078,7 @@
       "Name": "Singing In The-",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 732339
+      "UsersEstimate": 732343
     },
     {
       "ID": "Speedup",
@@ -44209,7 +44214,7 @@
       "Name": "Unpopular Mayor",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 496501
+      "UsersEstimate": 496504
     },
     {
       "ID": "VarsitySportsPatron",
@@ -44249,7 +44254,7 @@
       "Name": "Well Informed",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 74475
+      "UsersEstimate": 74476
     },
     {
       "ID": "WhatThe",
@@ -44265,7 +44270,7 @@
       "Name": "With Canals You Can!",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 124125
+      "UsersEstimate": 124126
     },
     {
       "ID": "WorldOfRotorcraft",
@@ -44288,21 +44293,21 @@
     {
       "ID": "36jm6o0",
       "IsBase": false,
-      "Progressed": 1241252,
+      "Progressed": 1241260,
       "Completed": 2
     },
     {
       "ID": "6bebhm4",
       "IsBase": true,
-      "Progressed": 1241252,
+      "Progressed": 1241260,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:19:44.6167524+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.6011712+00:00",
   "LastChanged": "2023-12-28T16:57:19.4860561+00:00",
-  "LastChanged_Achievements": "2023-12-28T21:05:51.6826099+00:00",
+  "LastChanged_Achievements": "2023-12-28T22:05:25.6974353+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:30.1752912+00:00",
-  "LastUpdate_Ratings": "2023-12-28T20:57:34.0545755+00:00",
-  "LastUpdate_Achievements": "2023-12-28T21:05:51.682844+00:00"
+  "LastUpdate_Ratings": "2023-12-28T21:57:09.9717602+00:00",
+  "LastUpdate_Achievements": "2023-12-28T22:05:25.6976924+00:00"
 }

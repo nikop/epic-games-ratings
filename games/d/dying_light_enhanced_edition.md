@@ -6,30 +6,30 @@ Number of Ratings: 3,181  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Is It Really Necessary? | 91.00% | ~3,760,138 |
-| Little Craftsman | 89.00% | ~3,677,498 |
-| Flight of the Crane | 86.00% | ~3,553,537 |
-| My left or your left? | 52.00% | ~2,148,650 |
+| Is It Really Necessary? | 91.00% | ~3,760,139 |
+| Little Craftsman | 89.00% | ~3,677,499 |
+| Flight of the Crane | 86.00% | ~3,553,538 |
+| My left or your left? | 52.00% | ~2,148,651 |
 | Prom Night | 45.00% | ~1,859,409 |
 | Can't Touch This | 38.00% | ~1,570,168 |
 | Mouths Wide Open | 38.00% | ~1,570,168 |
-| I've Got Your Back | 37.00% | ~1,528,847 |
-| Open Sesame | 36.00% | ~1,487,527 |
-| Strong | 36.00% | ~1,487,527 |
+| I've Got Your Back | 37.00% | ~1,528,848 |
+| Open Sesame | 36.00% | ~1,487,528 |
+| Strong | 36.00% | ~1,487,528 |
 | Harran Shooting Club | 33.00% | ~1,363,567 |
-| Snake in the grass | 31.00% | ~1,280,926 |
-| Everybody Knows Kyle | 31.00% | ~1,280,926 |
-| Agile | 31.00% | ~1,280,926 |
+| Snake in the grass | 31.00% | ~1,280,927 |
+| Everybody Knows Kyle | 31.00% | ~1,280,927 |
+| Agile | 31.00% | ~1,280,927 |
 | Trade Company | 30.00% | ~1,239,606 |
 | Sightseeing | 29.00% | ~1,198,286 |
 | Hush, Hush Now | 25.00% | ~1,033,005 |
 | Making Faces | 25.00% | ~1,033,005 |
 | Tied loose end | 24.00% | ~991,685 |
-| Now You Can Come In | 22.00% | ~909,044 |
-| Vertigo | 22.00% | ~909,044 |
+| Now You Can Come In | 22.00% | ~909,045 |
+| Vertigo | 22.00% | ~909,045 |
 | The Legend of Harran | 20.00% | ~826,404 |
 | Bittersweet | 19.00% | ~785,084 |
-| Pheidippides | 17.00% | ~702,443 |
+| Pheidippides | 17.00% | ~702,444 |
 | Everybody Dance Now | 14.00% | ~578,483 |
 | Afraid to get wet? | 14.00% | ~578,483 |
 | BBQ | 11.00% | ~454,522 |
@@ -85,7 +85,7 @@ Number of Ratings: 3,181  (23.09.2022)
 | Fast as hell | 0.10% | ~4,132 |
 | Into the lava | 0.10% | ~4,132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,132,020 (Ranked 3)  
+Progressed: 4,132,021 (Ranked 3)  
 Completed: 52 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 52 (0.00%) (Ranked 389)
 | 2023-12-25 | 4,125,909 | 52 |
 | 2023-12-26 | 4,128,124 | 52 |
 | 2023-12-27 | 4,130,144 | 52 |
-| 2023-12-28 | 4,132,020 | 52 |
+| 2023-12-28 | 4,132,021 | 52 |
 ## Awards
 Max (Character Customization): 51,793  (Ranked 12)  
 Sum: 99,772 (Ranked 19)  

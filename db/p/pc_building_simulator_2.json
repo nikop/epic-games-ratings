@@ -3975,9 +3975,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 304587,
+  "EOS_Progressed": 304588,
   "EOS_Completed": 160,
-  "EOS_NewPlayers": 12248,
+  "EOS_NewPlayers": 12138,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -32275,6 +32275,11 @@
       "Time": "2023-12-28T21:06:30.5536586+00:00",
       "NumProgressed": 304587,
       "NumCompleted": 160
+    },
+    {
+      "Time": "2023-12-28T22:06:01.3266341+00:00",
+      "NumProgressed": 304588,
+      "NumCompleted": 160
     }
   ],
   "TotalAchievements": 59,
@@ -32294,7 +32299,7 @@
       "Name": "Unlimited Power",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 12183
+      "UsersEstimate": 12184
     },
     {
       "ID": "BUILD_when_in_doubt_throttle_out",
@@ -32318,7 +32323,7 @@
       "Name": "Bootstrapping",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 179706
+      "UsersEstimate": 179707
     },
     {
       "ID": "CASH_going_places",
@@ -32398,7 +32403,7 @@
       "Name": "Mix and Match",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 82238
+      "UsersEstimate": 82239
     },
     {
       "ID": "CUSTOMIZE_pimp_my_rig",
@@ -32462,7 +32467,7 @@
       "Name": "Very Imported PC",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 82238
+      "UsersEstimate": 82239
     },
     {
       "ID": "JOBS_old_hand",
@@ -32478,7 +32483,7 @@
       "Name": "On the Job",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 161431
+      "UsersEstimate": 161432
     },
     {
       "ID": "JOBS_pc_og",
@@ -32510,7 +32515,7 @@
       "Name": "Elite Technician",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 12183
+      "UsersEstimate": 12184
     },
     {
       "ID": "LEVEL_legendary_technician",
@@ -32646,7 +32651,7 @@
       "Name": "Forgetful Shopper",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 36550
+      "UsersEstimate": 36551
     },
     {
       "ID": "SHOP_sales_pitch",
@@ -32662,7 +32667,7 @@
       "Name": "Recycler",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 82238
+      "UsersEstimate": 82239
     },
     {
       "ID": "SPARESNREPAIRS_salvage_squad",
@@ -32686,7 +32691,7 @@
       "Name": "Local Hero",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 60917
+      "UsersEstimate": 60918
     },
     {
       "ID": "STARS_the_customer_is_king",
@@ -32702,7 +32707,7 @@
       "Name": "Get Stuck In",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 155339
+      "UsersEstimate": 155340
     },
     {
       "ID": "STICKERS_its_a_stick_up",
@@ -32734,7 +32739,7 @@
       "Name": "Room for Expansion",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 155339
+      "UsersEstimate": 155340
     },
     {
       "ID": "WATERCOOL_chill_out",
@@ -32742,7 +32747,7 @@
       "Name": "Chill Out",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 158385
+      "UsersEstimate": 158386
     },
     {
       "ID": "WATERCOOL_supercool",
@@ -32757,7 +32762,7 @@
     {
       "ID": "9b9e43a",
       "IsBase": true,
-      "Progressed": 304587,
+      "Progressed": 304588,
       "Completed": 160
     }
   ],
@@ -32765,8 +32770,8 @@
   "FirstSeenRating": "2022-10-12T23:00:34.9560938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.796705+00:00",
   "LastChanged": "2023-12-28T12:01:54.8257915+00:00",
-  "LastChanged_Achievements": "2023-12-28T21:06:30.5536581+00:00",
+  "LastChanged_Achievements": "2023-12-28T22:06:01.3266335+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:13.4954053+00:00",
-  "LastUpdate_Ratings": "2023-12-28T21:01:36.7578971+00:00",
-  "LastUpdate_Achievements": "2023-12-28T21:06:30.5538107+00:00"
+  "LastUpdate_Ratings": "2023-12-28T22:00:57.8273551+00:00",
+  "LastUpdate_Achievements": "2023-12-28T22:06:01.3268759+00:00"
 }

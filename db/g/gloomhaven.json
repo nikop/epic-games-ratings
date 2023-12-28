@@ -2789,9 +2789,9 @@
       "Count": 221
     }
   ],
-  "EOS_Progressed": 29414,
+  "EOS_Progressed": 29415,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1586,
+  "EOS_NewPlayers": 1579,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14814,6 +14814,11 @@
       "Time": "2023-12-28T21:10:39.8122929+00:00",
       "NumProgressed": 29414,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T22:09:54.3217628+00:00",
+      "NumProgressed": 29415,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -15010,7 +15015,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 11471
+      "UsersEstimate": 11472
     },
     {
       "ID": "Achievement_Trophy25",
@@ -15042,7 +15047,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 9412
+      "UsersEstimate": 9413
     },
     {
       "ID": "Achievement_Trophy29",
@@ -15114,15 +15119,15 @@
       "Name": "Get over here!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 7059
+      "UsersEstimate": 7060
     },
     {
       "ID": "Achievement_Trophy38",
       "SetID": "724h0m0",
       "Name": "Mine... All Mine...",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4706
+      "UsersEstimate": 5001
     },
     {
       "ID": "Achievement_Trophy39",
@@ -15202,7 +15207,7 @@
       "Name": "Doom and gloom",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2941
+      "UsersEstimate": 2942
     },
     {
       "ID": "Achievement_Trophy49",
@@ -15313,7 +15318,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 29414,
+      "Progressed": 29415,
       "Completed": 1
     }
   ],
@@ -15321,8 +15326,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-12-28T18:02:44.0383843+00:00",
-  "LastChanged_Achievements": "2023-12-28T21:10:39.8122926+00:00",
+  "LastChanged_Achievements": "2023-12-28T22:09:54.3217624+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:28.9438704+00:00",
-  "LastUpdate_Ratings": "2023-12-28T21:03:10.9264444+00:00",
-  "LastUpdate_Achievements": "2023-12-28T21:10:39.8123714+00:00"
+  "LastUpdate_Ratings": "2023-12-28T22:01:28.5092932+00:00",
+  "LastUpdate_Achievements": "2023-12-28T22:09:54.3218781+00:00"
 }

@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1814,
+  "EOS_Progressed": 1815,
   "EOS_Completed": 70,
   "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 6,
@@ -3999,6 +3999,11 @@
       "Time": "2023-12-28T20:10:11.3102813+00:00",
       "NumProgressed": 1814,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-28T22:10:27.1331938+00:00",
+      "NumProgressed": 1815,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 16,
@@ -4034,7 +4039,7 @@
       "Name": "Emotional Baggage Handler",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
@@ -4056,9 +4061,9 @@
       "ID": "ACH_GREYHANDSPRAXI101",
       "SetID": "7pam6gn",
       "Name": "Grey Hands Praxis 101",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 508
+      "UsersEstimate": 490
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -4066,7 +4071,7 @@
       "Name": "Home Leaver",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -4074,7 +4079,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -4137,7 +4142,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1814,
+      "Progressed": 1815,
       "Completed": 70
     }
   ],
@@ -4145,8 +4150,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-28T21:11:15.5773833+00:00",
+  "LastChanged_Achievements": "2023-12-28T22:10:27.1331934+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:44.3535234+00:00",
-  "LastUpdate_Ratings": "2023-12-28T20:58:17.7857055+00:00",
-  "LastUpdate_Achievements": "2023-12-28T21:11:15.5774086+00:00"
+  "LastUpdate_Ratings": "2023-12-28T21:57:51.3713612+00:00",
+  "LastUpdate_Achievements": "2023-12-28T22:10:27.1332288+00:00"
 }

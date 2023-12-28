@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -333,7 +333,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 202168,
+  "EOS_Progressed": 202169,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 0,
@@ -26903,6 +26903,11 @@
       "Time": "2023-12-28T20:08:18.9223592+00:00",
       "NumProgressed": 202168,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-28T22:08:20.2114934+00:00",
+      "NumProgressed": 202169,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -26914,7 +26919,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 16173
+      "UsersEstimate": 16174
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -26922,7 +26927,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 143539
+      "UsersEstimate": 143540
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -27041,7 +27046,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 202168,
+      "Progressed": 202169,
       "Completed": 4
     }
   ],
@@ -27049,8 +27054,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-11-21T16:01:30.5134894+00:00",
-  "LastChanged_Achievements": "2023-12-28T21:09:19.7426113+00:00",
+  "LastChanged_Achievements": "2023-12-28T22:08:20.2114924+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:24.676091+00:00",
-  "LastUpdate_Ratings": "2023-12-28T20:59:30.9861798+00:00",
-  "LastUpdate_Achievements": "2023-12-28T21:09:19.7427422+00:00"
+  "LastUpdate_Ratings": "2023-12-28T21:59:00.5464535+00:00",
+  "LastUpdate_Achievements": "2023-12-28T22:08:20.2116413+00:00"
 }

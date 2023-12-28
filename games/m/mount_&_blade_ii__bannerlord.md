@@ -6,7 +6,7 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 41.00% | ~34,278 |
+| Lawbringer | 42.00% | ~35,115 |
 | Landlord | 33.00% | ~27,590 |
 | Trained | 28.00% | ~23,410 |
 | Bannerlord | 24.00% | ~20,065 |

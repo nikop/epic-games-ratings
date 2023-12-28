@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -301,7 +301,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 876,
+  "EOS_Progressed": 877,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
@@ -3081,6 +3081,11 @@
       "Time": "2023-12-28T21:05:50.645773+00:00",
       "NumProgressed": 876,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T22:05:24.3318892+00:00",
+      "NumProgressed": 877,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3140,7 +3145,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "kill-lieutenants",
@@ -3156,7 +3161,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "play-at-night",
@@ -3186,9 +3191,9 @@
       "ID": "rename-lieutenant",
       "SetID": "bed33dd",
       "Name": "I\u0027m Going To Call You Kitty",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 53
     },
     {
       "ID": "rob-village",
@@ -3212,7 +3217,7 @@
       "Name": "Camellos",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "unlock-residences",
@@ -3220,7 +3225,7 @@
       "Name": "Pampered Life",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "upgrade-building",
@@ -3228,7 +3233,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "use-submarine",
@@ -3243,15 +3248,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 876,
+      "Progressed": 877,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2023-12-28T21:05:50.6457726+00:00",
+  "LastChanged_Achievements": "2023-12-28T22:05:24.3318887+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:28.0909212+00:00",
-  "LastUpdate_Ratings": "2023-12-28T21:03:08.4268457+00:00",
-  "LastUpdate_Achievements": "2023-12-28T21:05:50.6457989+00:00"
+  "LastUpdate_Ratings": "2023-12-28T22:01:26.1574429+00:00",
+  "LastUpdate_Achievements": "2023-12-28T22:05:24.3319162+00:00"
 }

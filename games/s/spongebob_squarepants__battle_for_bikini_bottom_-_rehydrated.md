@@ -31,12 +31,12 @@ Number of Ratings: 76  (23.09.2022)
 | Shanghaied | 3.00% | ~14 |
 | Kelp Forest of Fear | 3.00% | ~14 |
 | SpongeBob vs SpongeBob! | 3.00% | ~14 |
+| Sleepy Time | 3.00% | ~14 |
 | Ultra Spatula Seeker | 3.00% | ~14 |
-| Sleepy Time | 2.00% | ~9 |
 | Sock Concert | 2.00% | ~9 |
 | Mega Spatula Seeker | 2.00% | ~9 |
+| Sock Opera | 1.00% | ~5 |
 | 100% SpongeBob | 0.90% | ~4 |
-| Sock Opera | 0.90% | ~4 |
 | Super Ultra Mega Spatula Seeker | 0.90% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 466 (Ranked 346)  

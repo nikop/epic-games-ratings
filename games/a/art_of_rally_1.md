@@ -6,24 +6,24 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 79.00% | ~273,225 |
-| good drivers have dead flies on the side windows | 31.00% | ~107,215 |
-| brail | 26.00% | ~89,922 |
-| keep it tidy | 25.00% | ~86,464 |
-| car wash | 23.00% | ~79,546 |
-| the artist | 22.00% | ~76,088 |
-| podium | 20.00% | ~69,171 |
-| medium attack | 17.00% | ~58,795 |
-| bicycle race | 6.00% | ~20,751 |
-| grocery-getter | 5.00% | ~17,293 |
+| light attack | 79.00% | ~273,243 |
+| good drivers have dead flies on the side windows | 31.00% | ~107,222 |
+| brail | 26.00% | ~89,928 |
+| keep it tidy | 25.00% | ~86,469 |
+| car wash | 23.00% | ~79,552 |
+| the artist | 22.00% | ~76,093 |
+| podium | 20.00% | ~69,175 |
+| medium attack | 17.00% | ~58,799 |
+| bicycle race | 6.00% | ~20,753 |
+| grocery-getter | 5.00% | ~17,294 |
 | autopilot | 3.00% | ~10,376 |
 | where is the stage? | 3.00% | ~10,376 |
 | night ride | 3.00% | ~10,376 |
 | snorkel | 3.00% | ~10,376 |
 | food tour: pasta | 3.00% | ~10,376 |
-| perkele | 2.00% | ~6,917 |
-| rwd only | 2.00% | ~6,917 |
-| if in doubt, flat out! | 2.00% | ~6,917 |
+| perkele | 2.00% | ~6,918 |
+| rwd only | 2.00% | ~6,918 |
+| if in doubt, flat out! | 2.00% | ~6,918 |
 | to finish first, first you must finish | 1.00% | ~3,459 |
 | espresso | 1.00% | ~3,459 |
 | turbo | 1.00% | ~3,459 |
@@ -34,11 +34,11 @@ Number of Ratings: 56  (23.09.2022)
 | monster | 0.70% | ~2,421 |
 | eurobeat | 0.50% | ~1,729 |
 | viking | 0.50% | ~1,729 |
-| oktoberfest | 0.40% | ~1,383 |
-| parallel universe | 0.40% | ~1,383 |
-| group b | 0.40% | ~1,383 |
-| maximum attack | 0.40% | ~1,383 |
-| samir | 0.40% | ~1,383 |
+| oktoberfest | 0.40% | ~1,384 |
+| parallel universe | 0.40% | ~1,384 |
+| group b | 0.40% | ~1,384 |
+| maximum attack | 0.40% | ~1,384 |
+| samir | 0.40% | ~1,384 |
 | parking lot | 0.20% | ~692 |
 | master of rally | 0.20% | ~692 |
 | antilag | 0.20% | ~692 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | you're here for a good time, not a long time | 0.10% | ~346 |
 | simulator | 0.10% | ~346 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 345,854 (Ranked 53)  
+Progressed: 345,877 (Ranked 53)  
 Completed: 11 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 11 (0.00%) (Ranked 389)
 | 2023-12-25 | 308,993 | 10 |
 | 2023-12-26 | 324,645 | 11 |
 | 2023-12-27 | 336,606 | 11 |
-| 2023-12-28 | 345,854 | 11 |
+| 2023-12-28 | 345,877 | 11 |
 ## Awards
 Max (Quickly Understood Controls): 22  (Ranked 557)  
 Sum: 22 (Ranked 561)  

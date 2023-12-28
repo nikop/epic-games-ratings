@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 22,
   "Ranking_EOS_Progress": 9,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 38,
+  "Ranking_EOS_NewPlayers": 37,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-01-20T18:00:00+00:00",
@@ -13204,9 +13204,9 @@
       "Count": 8394
     }
   ],
-  "EOS_Progressed": 1382193,
+  "EOS_Progressed": 1382194,
   "EOS_Completed": 2215,
-  "EOS_NewPlayers": 6313,
+  "EOS_NewPlayers": 6289,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -42229,6 +42229,11 @@
       "Time": "2023-12-28T21:06:21.2932423+00:00",
       "NumProgressed": 1382193,
       "NumCompleted": 2215
+    },
+    {
+      "Time": "2023-12-28T22:05:52.6341344+00:00",
+      "NumProgressed": 1382194,
+      "NumCompleted": 2215
     }
   ],
   "TotalAchievements": 47,
@@ -42344,7 +42349,7 @@
       "Name": "Dune Raider",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 110575
+      "UsersEstimate": 110576
     },
     {
       "ID": "ACH_014",
@@ -42384,7 +42389,7 @@
       "Name": "Master of the Household",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 511411
+      "UsersEstimate": 511412
     },
     {
       "ID": "ACH_019",
@@ -42416,7 +42421,7 @@
       "Name": "Full House",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 110575
+      "UsersEstimate": 110576
     },
     {
       "ID": "ACH_023",
@@ -42600,7 +42605,7 @@
       "Name": "Train Surfing",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 110575
+      "UsersEstimate": 110576
     },
     {
       "ID": "ACH_046",
@@ -42615,15 +42620,15 @@
     {
       "ID": "62l33o1",
       "IsBase": true,
-      "Progressed": 1382193,
+      "Progressed": 1382194,
       "Completed": 2215
     }
   ],
   "FirstSeen": "2022-07-22T20:17:51.8099598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:56.7371376+00:00",
   "LastChanged": "2023-12-28T16:57:30.7416117+00:00",
-  "LastChanged_Achievements": "2023-12-28T21:06:21.293242+00:00",
+  "LastChanged_Achievements": "2023-12-28T22:05:52.634134+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:46.6829846+00:00",
-  "LastUpdate_Ratings": "2023-12-28T20:57:45.4190353+00:00",
-  "LastUpdate_Achievements": "2023-12-28T21:06:21.2934121+00:00"
+  "LastUpdate_Ratings": "2023-12-28T21:57:20.9151673+00:00",
+  "LastUpdate_Achievements": "2023-12-28T22:05:52.6342846+00:00"
 }

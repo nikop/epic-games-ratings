@@ -6,10 +6,10 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 5.00% | ~56,278 |
-| Zealous | 4.00% | ~45,022 |
-| Not half bad | 4.00% | ~45,022 |
-| Skillful | 4.00% | ~45,022 |
+| It wakes | 5.00% | ~56,279 |
+| Zealous | 4.00% | ~45,023 |
+| Not half bad | 4.00% | ~45,023 |
+| Skillful | 4.00% | ~45,023 |
 | Handyman | 3.00% | ~33,767 |
 | Apt Survivor | 3.00% | ~33,767 |
 | Survival Treasures | 3.00% | ~33,767 |
@@ -17,25 +17,25 @@ Number of Ratings: 70,340  (23.09.2022)
 | Sorted | 3.00% | ~33,767 |
 | Resurgence | 3.00% | ~33,767 |
 | Make Some Noise | 3.00% | ~33,767 |
-| The Grand Sacrifice | 2.00% | ~22,511 |
-| Agonizing Escape | 2.00% | ~22,511 |
-| Backdoor Escape | 2.00% | ~22,511 |
-| I've got your back | 2.00% | ~22,511 |
-| No one left behind | 2.00% | ~22,511 |
-| Medic | 2.00% | ~22,511 |
-| Perfect Escape | 2.00% | ~22,511 |
-| Perfect Killing | 2.00% | ~22,511 |
-| Bloody Millionaire | 2.00% | ~22,511 |
-| Apt Killer | 2.00% | ~22,511 |
-| Risk it all | 2.00% | ~22,511 |
-| II | 2.00% | ~22,511 |
-| III | 2.00% | ~22,511 |
-| Engineer | 2.00% | ~22,511 |
-| Wounded Healer | 2.00% | ~22,511 |
-| Healthy Obsession | 2.00% | ~22,511 |
-| Close Shave | 2.00% | ~22,511 |
-| Preemptive Strike | 2.00% | ~22,511 |
-| Humanitarian | 2.00% | ~22,511 |
+| The Grand Sacrifice | 2.00% | ~22,512 |
+| Agonizing Escape | 2.00% | ~22,512 |
+| Backdoor Escape | 2.00% | ~22,512 |
+| I've got your back | 2.00% | ~22,512 |
+| No one left behind | 2.00% | ~22,512 |
+| Medic | 2.00% | ~22,512 |
+| Perfect Escape | 2.00% | ~22,512 |
+| Perfect Killing | 2.00% | ~22,512 |
+| Bloody Millionaire | 2.00% | ~22,512 |
+| Apt Killer | 2.00% | ~22,512 |
+| Risk it all | 2.00% | ~22,512 |
+| II | 2.00% | ~22,512 |
+| III | 2.00% | ~22,512 |
+| Engineer | 2.00% | ~22,512 |
+| Wounded Healer | 2.00% | ~22,512 |
+| Healthy Obsession | 2.00% | ~22,512 |
+| Close Shave | 2.00% | ~22,512 |
+| Preemptive Strike | 2.00% | ~22,512 |
+| Humanitarian | 2.00% | ~22,512 |
 | Blood on your hands | 1.00% | ~11,256 |
 | Escape Artist | 1.00% | ~11,256 |
 | Made it out alive! | 1.00% | ~11,256 |
@@ -68,16 +68,16 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outrun Evil | 0.90% | ~10,130 |
 | A Fast Death | 0.90% | ~10,130 |
 | MU/TH/UR Dearest | 0.90% | ~10,130 |
-| A bite for the Entity | 0.80% | ~9,004 |
-| Blood on your face | 0.80% | ~9,004 |
-| Leapfrog | 0.80% | ~9,004 |
-| Cottage Owner | 0.80% | ~9,004 |
-| Escaping the Nightmare | 0.80% | ~9,004 |
-| Campbell's Chapel Legacy | 0.80% | ~9,004 |
-| Grim Pilgrimage | 0.80% | ~9,004 |
-| Outrun the Overlap | 0.80% | ~9,004 |
-| Extraterrestrial | 0.80% | ~9,004 |
-| Outta Nowhere | 0.80% | ~9,004 |
+| A bite for the Entity | 0.80% | ~9,005 |
+| Blood on your face | 0.80% | ~9,005 |
+| Leapfrog | 0.80% | ~9,005 |
+| Cottage Owner | 0.80% | ~9,005 |
+| Escaping the Nightmare | 0.80% | ~9,005 |
+| Campbell's Chapel Legacy | 0.80% | ~9,005 |
+| Grim Pilgrimage | 0.80% | ~9,005 |
+| Outrun the Overlap | 0.80% | ~9,005 |
+| Extraterrestrial | 0.80% | ~9,005 |
+| Outta Nowhere | 0.80% | ~9,005 |
 | Hemophobia | 0.70% | ~7,879 |
 | Serial Killer | 0.70% | ~7,879 |
 | Devoted Gatekeeping | 0.70% | ~7,879 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,126 |
 | Adept Good Guy | 0.10% | ~1,126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,125,551 (Ranked 13)  
+Progressed: 1,125,577 (Ranked 13)  
 Completed: 65 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -491,7 +491,7 @@ Completed: 65 (0.01%) (Ranked 367)
 | 2023-12-25 | 1,118,749 | 65 |
 | 2023-12-26 | 1,121,100 | 65 |
 | 2023-12-27 | 1,123,455 | 65 |
-| 2023-12-28 | 1,125,551 | 65 |
+| 2023-12-28 | 1,125,577 | 65 |
 ## Awards
 Max (Diverse Characters): 38,746  (Ranked 15)  
 Sum: 292,872 (Ranked 12)  

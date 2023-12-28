@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | New Recruit | 88.00% | ~2,022 |
-| Off to a good start | 62.00% | ~1,425 |
+| Off to a good start | 63.00% | ~1,448 |
 | Do... or do not. There is no try | 52.00% | ~1,195 |
 | A good blaster at your side | 26.00% | ~597 |
 | I suggest a new strategy | 18.00% | ~414 |
@@ -18,8 +18,8 @@
 | Together we can rule the galaxy | 12.00% | ~276 |
 | Tell Jabba that I've got his money | 9.00% | ~207 |
 | Best star-pilot in the galaxy | 8.00% | ~184 |
+| Survivor | 8.00% | ~184 |
 | Never tell me the odds! | 7.00% | ~161 |
-| Survivor | 7.00% | ~161 |
 | A cunning warrior | 7.00% | ~161 |
 | What's the cargo? | 6.00% | ~138 |
 | "Gonk? Gonk!" | 5.00% | ~115 |

@@ -13,8 +13,8 @@ Number of Ratings: 116  (23.09.2022)
 | Fight Fire with Fire | 59.00% | ~156 |
 | Increased Capacity | 55.00% | ~146 |
 | Just the start | 51.00% | ~135 |
-| Perfect Storm | 48.00% | ~127 |
-| All That Glitters | 47.00% | ~125 |
+| Perfect Storm | 49.00% | ~130 |
+| All That Glitters | 48.00% | ~127 |
 | Enhance! | 44.00% | ~117 |
 | One Of the Chosen | 42.00% | ~111 |
 | Throne Potato | 41.00% | ~109 |
@@ -28,7 +28,7 @@ Number of Ratings: 116  (23.09.2022)
 | I Wanna Rock | 32.00% | ~85 |
 | Love Tap | 31.00% | ~82 |
 | Maximum Vigor | 30.00% | ~80 |
-| Freeze Frame | 28.00% | ~74 |
+| Freeze Frame | 29.00% | ~77 |
 | Eat Your Heart Out | 28.00% | ~74 |
 | For Whom the Bell Tolls | 28.00% | ~74 |
 | Unyielding Strength | 25.00% | ~66 |
