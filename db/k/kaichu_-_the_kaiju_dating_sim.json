@@ -2,9 +2,9 @@
   "ID": "5cadfb94efd74932b97805c2a78f4150",
   "Name": "Kaichu - The Kaiju Dating Sim",
   "ProductSlug": "kaichu-the-kaiju-dating-sim-531fb7",
-  "Ranking_EOS_Progress": 555,
-  "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 519,
+  "Ranking_EOS_Progress": 551,
+  "Ranking_EOS_Completed": 46,
+  "Ranking_EOS_NewPlayers": 494,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-09-07T14:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44,
+  "EOS_Progressed": 45,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 9.09,
+  "EOS_Completed_Percentage": 8.89,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:42:13.8187686+00:00",
@@ -160,6 +160,11 @@
       "Time": "2023-12-22T21:07:34.1103068+00:00",
       "NumProgressed": 44,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-28T18:05:30.6834457+00:00",
+      "NumProgressed": 45,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 15,
@@ -169,7 +174,7 @@
       "ID": "A_HEATED_AFFAIR",
       "SetID": "dhjj31a",
       "Name": "A Heated Affair",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
       "UsersEstimate": 10
     },
@@ -177,7 +182,7 @@
       "ID": "CYBER_BULLY",
       "SetID": "dhjj31a",
       "Name": "Cyber Bully",
-      "Percentage": 73,
+      "Percentage": 71,
       "XP": 75,
       "UsersEstimate": 32
     },
@@ -187,13 +192,13 @@
       "Name": "Everything\u0027s Coming Up Gigachu",
       "Percentage": 93,
       "XP": 75,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "FRIENDZONED",
       "SetID": "dhjj31a",
       "Name": "Friendzoned",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 100,
       "UsersEstimate": 17
     },
@@ -201,7 +206,7 @@
       "ID": "LONG_DISTANCE_RELATIONSHIP",
       "SetID": "dhjj31a",
       "Name": "Long Distance Relationship",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -225,7 +230,7 @@
       "ID": "LOVE_IS_IN_THE_AIR",
       "SetID": "dhjj31a",
       "Name": "Love is in the Air",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
       "UsersEstimate": 10
     },
@@ -233,7 +238,7 @@
       "ID": "LOVING_COMMUTE",
       "SetID": "dhjj31a",
       "Name": "Loving Commute",
-      "Percentage": 64,
+      "Percentage": 62,
       "XP": 50,
       "UsersEstimate": 28
     },
@@ -257,7 +262,7 @@
       "ID": "ROYAL_ROMANCE",
       "SetID": "dhjj31a",
       "Name": "Royal Romance",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 15
     },
@@ -273,7 +278,7 @@
       "ID": "SPEED_DATING",
       "SetID": "dhjj31a",
       "Name": "Speed Dating",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 120,
       "UsersEstimate": 11
     },
@@ -281,7 +286,7 @@
       "ID": "SPREAD_THE_LOVE",
       "SetID": "dhjj31a",
       "Name": "Spread the Love",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 75,
       "UsersEstimate": 11
     }
@@ -290,7 +295,7 @@
     {
       "ID": "dhjj31a",
       "IsBase": true,
-      "Progressed": 44,
+      "Progressed": 45,
       "Completed": 4
     }
   ],
@@ -298,8 +303,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.7586093+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.8187697+00:00",
   "LastChanged": "2023-03-31T05:58:12.7586094+00:00",
-  "LastChanged_Achievements": "2023-12-28T17:06:35.5009589+00:00",
+  "LastChanged_Achievements": "2023-12-28T18:05:30.6834453+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:13.6083199+00:00",
-  "LastUpdate_Ratings": "2023-12-28T16:58:06.9182809+00:00",
-  "LastUpdate_Achievements": "2023-12-28T17:06:35.5009691+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:57:39.3798393+00:00",
+  "LastUpdate_Achievements": "2023-12-28T18:05:30.6834558+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Transport Fever 2",
   "ProductSlug": "transport-fever-2",
   "Ranking_Rating": 259,
-  "Ranking_Popularity": 451,
+  "Ranking_Popularity": 452,
   "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -855,7 +855,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2204,
+  "EOS_Progressed": 2205,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
@@ -6015,6 +6015,11 @@
       "Time": "2023-12-28T17:08:55.5082598+00:00",
       "NumProgressed": 2204,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T18:08:37.1950187+00:00",
+      "NumProgressed": 2205,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 61,
@@ -6066,7 +6071,7 @@
       "Name": "Transport millionaire",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1146
+      "UsersEstimate": 1147
     },
     {
       "ID": "achAircraftEarnings",
@@ -6074,7 +6079,7 @@
       "Name": "Aircraft entrepreneur",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "achAllClimates",
@@ -6130,7 +6135,7 @@
       "Name": "First train station",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1345
     },
     {
       "ID": "achCannotGetEnough",
@@ -6186,15 +6191,15 @@
       "Name": "Cadet",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "achCreateLine",
       "SetID": "dgl390n",
       "Name": "First line",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1632
     },
     {
       "ID": "achCrowdInATrain",
@@ -6266,7 +6271,7 @@
       "Name": "First industry upgraded",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "achFirstPassengerTransported",
@@ -6298,7 +6303,7 @@
       "Name": "First steam train arrived",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "achGlacierExpress",
@@ -6370,7 +6375,7 @@
       "Name": "Mass production",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "achMetropolis",
@@ -6513,15 +6518,15 @@
     {
       "ID": "dgl390n",
       "IsBase": true,
-      "Progressed": 2204,
+      "Progressed": 2205,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-12-25T18:59:12.0846943+00:00",
-  "LastChanged_Achievements": "2023-12-28T17:08:55.5082594+00:00",
+  "LastChanged_Achievements": "2023-12-28T18:08:37.1950184+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:27.2154452+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:02:08.474302+00:00",
-  "LastUpdate_Achievements": "2023-12-28T17:08:55.5083214+00:00"
+  "LastUpdate_Ratings": "2023-12-28T18:02:42.1725136+00:00",
+  "LastUpdate_Achievements": "2023-12-28T18:08:37.195109+00:00"
 }

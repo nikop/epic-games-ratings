@@ -2,7 +2,7 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 459,
+  "Ranking_Rating": 460,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 151,
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19184,
+  "EOS_Progressed": 19185,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14164,6 +14164,11 @@
       "Time": "2023-12-28T15:05:40.5874577+00:00",
       "NumProgressed": 19184,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-28T18:05:57.1824527+00:00",
+      "NumProgressed": 19185,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14175,7 +14180,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5755
+      "UsersEstimate": 5756
     },
     {
       "ID": "0002",
@@ -14239,7 +14244,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4412
+      "UsersEstimate": 4413
     },
     {
       "ID": "0010",
@@ -14263,7 +14268,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3069
+      "UsersEstimate": 3070
     },
     {
       "ID": "0013",
@@ -14279,7 +14284,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3069
+      "UsersEstimate": 3070
     },
     {
       "ID": "0015",
@@ -14359,7 +14364,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4220
+      "UsersEstimate": 4221
     },
     {
       "ID": "0025",
@@ -14391,7 +14396,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4412
+      "UsersEstimate": 4413
     },
     {
       "ID": "0029",
@@ -14462,7 +14467,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19184,
+      "Progressed": 19185,
       "Completed": 4
     }
   ],
@@ -14470,8 +14475,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-28T17:07:10.2115629+00:00",
+  "LastChanged_Achievements": "2023-12-28T18:05:57.1824522+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:06.2352565+00:00",
-  "LastUpdate_Ratings": "2023-12-28T16:58:37.7214803+00:00",
-  "LastUpdate_Achievements": "2023-12-28T17:07:10.2116359+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:58:01.3177401+00:00",
+  "LastUpdate_Achievements": "2023-12-28T18:05:57.1826134+00:00"
 }

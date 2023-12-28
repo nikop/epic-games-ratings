@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1702,
+  "EOS_Progressed": 1703,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4172,6 +4172,11 @@
       "Time": "2023-12-28T17:04:09.9205645+00:00",
       "NumProgressed": 1702,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T18:03:40.3679617+00:00",
+      "NumProgressed": 1703,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4350,9 +4355,9 @@
       "ID": "ML_ACHIEVEMENT_22",
       "SetID": "5k00jcd",
       "Name": "The Octopus",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 51
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -4494,9 +4499,9 @@
       "ID": "ML_ACHIEVEMENT_40",
       "SetID": "5k00jcd",
       "Name": "A little nest egg",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -4551,20 +4556,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1702,
+      "Progressed": 1703,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1370,
+      "Progressed": 1371,
       "Completed": 1004
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-28T17:04:09.9205641+00:00",
+  "LastChanged_Achievements": "2023-12-28T18:03:40.3679615+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2023-12-28T16:57:09.5091995+00:00",
-  "LastUpdate_Achievements": "2023-12-28T17:04:09.9206137+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:57:00.0935469+00:00",
+  "LastUpdate_Achievements": "2023-12-28T18:03:40.3680128+00:00"
 }

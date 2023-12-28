@@ -22,8 +22,8 @@ Rating: 4.65 (Ranked 323)
 | It's Warm and Cozy at Home | 58.00% | ~379 |
 | Trap Master | 55.00% | ~359 |
 | Minions, Minions! | 55.00% | ~359 |
+| The Big Eaty | 54.00% | ~353 |
 | Hard Work | 53.00% | ~346 |
-| The Big Eaty | 53.00% | ~346 |
 | “… like son” | 51.00% | ~333 |
 | YOU SHALL NOT PASS! | 50.00% | ~326 |
 | The Cathedral of Light | 47.00% | ~307 |
@@ -67,7 +67,7 @@ Rating: 4.65 (Ranked 323)
 | No Mana, No Cry | 10.00% | ~65 |
 | I Don't Need Any Help | 9.00% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 653 (Ranked 318)  
+Progressed: 653 (Ranked 319)  
 Completed: 24 (3.68%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |

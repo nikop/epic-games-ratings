@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -43,7 +43,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1398,
+  "EOS_Progressed": 1400,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 421,
   "EOS_NewCompleters": 0,
@@ -2758,6 +2758,11 @@
       "Time": "2023-12-28T17:10:41.898679+00:00",
       "NumProgressed": 1398,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T18:09:50.0843707+00:00",
+      "NumProgressed": 1400,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2769,7 +2774,7 @@
       "Name": "Break Out",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "ACH_02",
@@ -2841,7 +2846,7 @@
       "Name": "Trinity",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACH_11",
@@ -2863,9 +2868,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH_14",
@@ -2991,9 +2996,9 @@
       "ID": "ACH_29",
       "SetID": "efe2lj",
       "Name": "All That Gold",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 60,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_30",
@@ -3056,7 +3061,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1398,
+      "Progressed": 1400,
       "Completed": 3
     }
   ],
@@ -3064,8 +3069,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2023-12-27T23:57:06.3972881+00:00",
-  "LastChanged_Achievements": "2023-12-28T17:10:41.8986785+00:00",
+  "LastChanged_Achievements": "2023-12-28T18:09:50.0843704+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-28T16:57:40.4073429+00:00",
-  "LastUpdate_Achievements": "2023-12-28T17:10:41.8987171+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:57:22.7441212+00:00",
+  "LastUpdate_Achievements": "2023-12-28T18:09:50.0844022+00:00"
 }

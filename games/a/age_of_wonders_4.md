@@ -26,7 +26,6 @@ Rating: 4.63 (Ranked 354)
 | My Final Form | 3.00% | ~192 |
 | Impenetrable Fortress | 3.00% | ~192 |
 | Freed Lands of Manuhari | 3.00% | ~192 |
-| Arch Mage | 2.00% | ~128 |
 | Crimson Caldera | 2.00% | ~128 |
 | Preparation Is Everything | 2.00% | ~128 |
 | Fiery Friend | 2.00% | ~128 |
@@ -40,6 +39,7 @@ Rating: 4.63 (Ranked 354)
 | I've Got Everything I Need Right Here | 1.00% | ~64 |
 | God Emperor | 1.00% | ~64 |
 | Lord of Chaos | 1.00% | ~64 |
+| Arch Mage | 1.00% | ~64 |
 | The Creator | 1.00% | ~64 |
 | The Goddess of Nature | 1.00% | ~64 |
 | Eternal Lord | 1.00% | ~64 |
@@ -49,8 +49,8 @@ Rating: 4.63 (Ranked 354)
 | Seal the Deal | 1.00% | ~64 |
 | A Conqueror's Cohort | 1.00% | ~64 |
 | Dawn of the Dread | 1.00% | ~64 |
+| Manufactured War | 0.90% | ~58 |
 | Pruning for Progress | 0.90% | ~58 |
-| Manufactured War | 0.80% | ~51 |
 | Grexolis | 0.80% | ~51 |
 | One for All, All for One | 0.80% | ~51 |
 | Duality | 0.70% | ~45 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 354)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,400 (Ranked 195)  
+Progressed: 6,403 (Ranked 195)  
 Completed: 7 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 7 (0.11%) (Ranked 304)
 | 2023-12-25 | 6,213 | 7 |
 | 2023-12-26 | 6,285 | 7 |
 | 2023-12-27 | 6,359 | 7 |
-| 2023-12-28 | 6,400 | 7 |
+| 2023-12-28 | 6,403 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 481)  
 Sum: 140 (Ranked 439)  

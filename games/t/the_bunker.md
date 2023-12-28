@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Last Goodbye | 91.00% | ~148 |
-| The Routine | 79.00% | ~129 |
+| The Routine | 80.00% | ~130 |
 | Mother | 78.00% | ~127 |
 | Failure | 75.00% | ~122 |
 | Replace Fuse | 67.00% | ~109 |
@@ -17,7 +17,7 @@
 | Awakenings | 56.00% | ~91 |
 | Cold Storage | 56.00% | ~91 |
 | Sam | 56.00% | ~91 |
-| Soldier | 51.00% | ~83 |
+| Soldier | 52.00% | ~85 |
 | Leave | 50.00% | ~82 |
 | Commissioner | 50.00% | ~82 |
 | Churchill | 49.00% | ~80 |

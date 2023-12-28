@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -649,9 +649,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4141,
+  "EOS_Progressed": 4142,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -9094,6 +9094,11 @@
       "Time": "2023-12-28T11:09:29.8389926+00:00",
       "NumProgressed": 4141,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-28T18:09:06.1681127+00:00",
+      "NumProgressed": 4142,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9113,7 +9118,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -9169,7 +9174,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -9185,7 +9190,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1946
+      "UsersEstimate": 1947
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -9241,7 +9246,7 @@
       "Name": "Sharpshooter",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -9249,7 +9254,7 @@
       "Name": "The Long Game",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -9273,7 +9278,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1740
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -9329,7 +9334,7 @@
       "Name": "Resourceful",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -9353,7 +9358,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -9513,7 +9518,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -9569,7 +9574,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -9672,13 +9677,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4092,
+      "Progressed": 4093,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4141,
+      "Progressed": 4142,
       "Completed": 11
     }
   ],
@@ -9686,8 +9691,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-20T09:59:10.4485665+00:00",
-  "LastChanged_Achievements": "2023-12-28T17:09:34.0371295+00:00",
+  "LastChanged_Achievements": "2023-12-28T18:09:06.1681124+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:02.7105407+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:00:54.1817326+00:00",
-  "LastUpdate_Achievements": "2023-12-28T17:09:34.037207+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:59:38.9735936+00:00",
+  "LastUpdate_Achievements": "2023-12-28T18:09:06.1682287+00:00"
 }

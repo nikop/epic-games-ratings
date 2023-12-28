@@ -1,28 +1,28 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.52 (Ranked 568)  
+Rating: 4.52 (Ranked 567)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 94.00% | ~5,604 |
-| I will survive! | 93.00% | ~5,545 |
-| All thumbs | 92.00% | ~5,485 |
-| Home, sweet home | 91.00% | ~5,425 |
-| Survivalist | 90.00% | ~5,366 |
-| One way ticket | 85.00% | ~5,068 |
+| Prepper | 94.00% | ~5,605 |
+| I will survive! | 93.00% | ~5,546 |
+| All thumbs | 92.00% | ~5,486 |
+| Home, sweet home | 91.00% | ~5,426 |
+| Survivalist | 90.00% | ~5,367 |
+| One way ticket | 85.00% | ~5,069 |
 | Last man standing | 80.00% | ~4,770 |
-| Family guy | 77.00% | ~4,591 |
-| Out of the Bag | 76.00% | ~4,531 |
-| The Dark Side | 71.00% | ~4,233 |
-| Duck and cover! | 66.00% | ~3,935 |
-| Souper! | 65.00% | ~3,875 |
-| Pacifist | 60.00% | ~3,577 |
+| Family guy | 77.00% | ~4,592 |
+| Out of the Bag | 76.00% | ~4,532 |
+| The Dark Side | 71.00% | ~4,234 |
+| Souper! | 66.00% | ~3,936 |
+| Duck and cover! | 66.00% | ~3,936 |
+| Pacifist | 60.00% | ~3,578 |
 | 2-1-6 | 59.00% | ~3,518 |
-| A gift | 55.00% | ~3,279 |
-| Girl Power | 49.00% | ~2,921 |
-| What goes around... | 44.00% | ~2,623 |
-| Be Prepared | 39.00% | ~2,325 |
+| A gift | 55.00% | ~3,280 |
+| Girl Power | 49.00% | ~2,922 |
+| What goes around... | 44.00% | ~2,624 |
+| Be Prepared | 39.00% | ~2,326 |
 | Unbreakable | 37.00% | ~2,206 |
 | Gotta get 'em all | 34.00% | ~2,027 |
 | This is the end | 34.00% | ~2,027 |
@@ -36,7 +36,7 @@ Rating: 4.52 (Ranked 568)
 | Enigma | 16.00% | ~954 |
 | Challenger | 13.00% | ~775 |
 | Men in Black | 13.00% | ~775 |
-| No stone unturned | 12.00% | ~715 |
+| No stone unturned | 12.00% | ~716 |
 | Unplugged | 9.00% | ~537 |
 | Mad Hatter | 8.00% | ~477 |
 | Holidays! | 7.00% | ~417 |
@@ -45,8 +45,8 @@ Rating: 4.52 (Ranked 568)
 | Feline Domination | 5.00% | ~298 |
 | Take that, Brundlefly! | 5.00% | ~298 |
 | Rogue One | 5.00% | ~298 |
-| Danger zone | 4.00% | ~238 |
-| Friend in need | 4.00% | ~238 |
+| Danger zone | 4.00% | ~239 |
+| Friend in need | 4.00% | ~239 |
 | Soup Can into Space | 3.00% | ~179 |
 | Enola Gay | 2.00% | ~119 |
 | Stay frosty | 2.00% | ~119 |
@@ -66,7 +66,7 @@ Rating: 4.52 (Ranked 568)
 | Tora! Tora! Tora! | 0.20% | ~12 |
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,962 (Ranked 197)  
+Progressed: 5,963 (Ranked 197)  
 Completed: 1 (0.02%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 1 (0.02%) (Ranked 357)
 | 2023-12-25 | 5,923 | 1 |
 | 2023-12-26 | 5,940 | 1 |
 | 2023-12-27 | 5,951 | 1 |
-| 2023-12-28 | 5,962 | 1 |
+| 2023-12-28 | 5,963 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 347,
-  "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_Completed": 201,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
@@ -317,11 +317,11 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 458,
+  "EOS_Progressed": 460,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.66,
+  "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -1277,6 +1277,11 @@
       "Time": "2023-12-28T16:05:42.646502+00:00",
       "NumProgressed": 458,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T18:05:27.5892134+00:00",
+      "NumProgressed": 460,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1321,7 +1326,7 @@
       "Name": "Life\u0027s as extreme as you wanna make it!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_DOWN_TOWN",
@@ -1401,7 +1406,7 @@
       "Name": "Toxic Terror",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
@@ -1425,7 +1430,7 @@
       "Name": "Hit Rock Bottom",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -1497,7 +1502,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -1527,9 +1532,9 @@
       "ID": "ACH_SURFS_UP",
       "SetID": "biiejkc",
       "Name": "Surf\u0027s Up!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
@@ -1544,15 +1549,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 458,
+      "Progressed": 460,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-28T17:06:31.4110987+00:00",
+  "LastChanged_Achievements": "2023-12-28T18:05:27.5892129+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:01:16.7046828+00:00",
-  "LastUpdate_Achievements": "2023-12-28T17:06:31.4111179+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:59:54.774918+00:00",
+  "LastUpdate_Achievements": "2023-12-28T18:05:27.5892431+00:00"
 }

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | BBFF (Best Brigade Friend Forever) | 48.00% | ~278 |
-| Conspiracy Theorist | 39.00% | ~226 |
+| Conspiracy Theorist | 40.00% | ~232 |
 | On the Road | 39.00% | ~226 |
 | Souvenirs | 27.00% | ~157 |
 | Welcome to the Garage | 17.00% | ~99 |

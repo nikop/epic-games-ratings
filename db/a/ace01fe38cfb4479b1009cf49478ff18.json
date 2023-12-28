@@ -2,9 +2,9 @@
   "ID": "ace01fe38cfb4479b1009cf49478ff18",
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
-  "Ranking_EOS_Progress": 331,
+  "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 574,
+  "EOS_Progressed": 576,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
@@ -1954,6 +1954,11 @@
       "Time": "2023-12-28T17:08:12.779435+00:00",
       "NumProgressed": 574,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T18:08:04.4493985+00:00",
+      "NumProgressed": 576,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -1982,7 +1987,7 @@
       "Name": "Chapter III - Complete",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ach_complete_difficulty_easy",
@@ -1990,7 +1995,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ach_complete_difficulty_extreme",
@@ -2022,7 +2027,7 @@
       "Name": "Defeat a Great Unclean One",
       "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ach_defeat_lord_of_change",
@@ -2061,14 +2066,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 574,
+      "Progressed": 576,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-28T17:08:12.7794346+00:00",
+  "LastChanged_Achievements": "2023-12-28T18:08:04.4493981+00:00",
   "LastUpdate_AppInfo": "2023-12-22T14:57:06.4082276+00:00",
-  "LastUpdate_Ratings": "2023-12-28T16:57:42.9872815+00:00",
-  "LastUpdate_Achievements": "2023-12-28T17:08:12.7794542+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:57:24.8510321+00:00",
+  "LastUpdate_Achievements": "2023-12-28T18:08:04.4494193+00:00"
 }

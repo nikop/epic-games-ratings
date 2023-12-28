@@ -4,62 +4,62 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Touch My Gems! | 97.00% | ~177 |
-| On the Crest of a Wave | 96.00% | ~175 |
-| Foreman of Darkness | 96.00% | ~175 |
-| Brilliant Day | 93.00% | ~169 |
-| Evil Genius | 88.00% | ~160 |
-| Tinned Corpse | 85.00% | ~155 |
-| Air Defense | 85.00% | ~155 |
-| Your War is Over | 83.00% | ~151 |
-| The Starry Night | 78.00% | ~142 |
-| Go Home! | 77.00% | ~140 |
-| Brilliant: Meadowshire | 75.00% | ~136 |
-| Sergeant of the Evil | 75.00% | ~136 |
+| Don't Touch My Gems! | 97.00% | ~178 |
+| On the Crest of a Wave | 96.00% | ~176 |
+| Foreman of Darkness | 96.00% | ~176 |
+| Brilliant Day | 93.00% | ~170 |
+| Evil Genius | 88.00% | ~161 |
+| Air Defense | 85.00% | ~156 |
+| Tinned Corpse | 84.00% | ~154 |
+| Your War is Over | 83.00% | ~152 |
+| The Starry Night | 78.00% | ~143 |
+| Go Home! | 77.00% | ~141 |
+| Brilliant: Meadowshire | 75.00% | ~137 |
+| Sergeant of the Evil | 75.00% | ~137 |
 | Look After the Pence... | 74.00% | ~135 |
-| Drunken Master | 74.00% | ~135 |
-| V.I.P. Cemetery | 72.00% | ~131 |
-| Woodcutter | 71.00% | ~129 |
-| Architect of Darkness | 71.00% | ~129 |
-| Top of the World | 70.00% | ~127 |
-| Takeover | 70.00% | ~127 |
-| Sharpshooter | 70.00% | ~127 |
+| Drunken Master | 73.00% | ~134 |
+| V.I.P. Cemetery | 72.00% | ~132 |
+| Woodcutter | 71.00% | ~130 |
+| Top of the World | 70.00% | ~128 |
+| Takeover | 70.00% | ~128 |
+| Sharpshooter | 70.00% | ~128 |
+| Architect of Darkness | 70.00% | ~128 |
 | The Apotheosis of War | 68.00% | ~124 |
 | Stasis Alcatraz | 68.00% | ~124 |
-| Brilliant: Holy Mountain | 64.00% | ~116 |
-| Combo Breaker | 64.00% | ~116 |
-| Tastes Like Chicken | 64.00% | ~116 |
-| Thunderstorm | 64.00% | ~116 |
+| Tastes Like Chicken | 64.00% | ~117 |
+| Brilliant: Holy Mountain | 63.00% | ~115 |
+| Combo Breaker | 63.00% | ~115 |
+| Thunderstorm | 63.00% | ~115 |
 | Clean Forests | 62.00% | ~113 |
 | Starry: Meadowshire | 58.00% | ~106 |
 | Lieutenant of the Evil | 58.00% | ~106 |
 | Avada Kedavra | 57.00% | ~104 |
-| Brilliant: Tanglewood | 55.00% | ~100 |
-| Starry: Holy Mountain | 54.00% | ~98 |
-| It's a Trap | 54.00% | ~98 |
-| Deposition | 51.00% | ~93 |
+| Brilliant: Tanglewood | 55.00% | ~101 |
+| Starry: Holy Mountain | 54.00% | ~99 |
+| It's a Trap | 54.00% | ~99 |
 | Brilliant: Arcania | 51.00% | ~93 |
-| Starry: Tanglewood | 48.00% | ~87 |
-| Starry: Arcania | 45.00% | ~82 |
-| Sing, My Angel | 44.00% | ~80 |
-| The Coreland | 41.00% | ~75 |
+| Deposition | 50.00% | ~92 |
+| Starry: Tanglewood | 48.00% | ~88 |
+| Sing, My Angel | 44.00% | ~81 |
+| Starry: Arcania | 44.00% | ~81 |
+| The Coreland | 40.00% | ~73 |
 | Feed the Fishes | 39.00% | ~71 |
-| Starry: The Coreland | 38.00% | ~69 |
+| Starry: The Coreland | 38.00% | ~70 |
 | Brilliant: Wasteland | 35.00% | ~64 |
-| Father of Nation | 35.00% | ~64 |
-| Dwarven Countdown | 31.00% | ~56 |
+| Father of Nation | 34.00% | ~62 |
+| Dwarven Countdown | 31.00% | ~57 |
 | Starry: Wasteland | 30.00% | ~55 |
 | Deadman's Chest | 29.00% | ~53 |
-| Monument Keeper | 29.00% | ~53 |
+| Monument Keeper | 28.00% | ~51 |
 | Brilliant: Free Coast | 27.00% | ~49 |
 | Brilliant: The Deep | 25.00% | ~46 |
 | Starry: Free Coast | 24.00% | ~44 |
-| Starry: The Deep | 23.00% | ~42 |
+| Starry: The Deep | 22.00% | ~40 |
 | Hostile Waters | 19.00% | ~35 |
 | Loveless | 19.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 182 (Ranked 424)  
-Completed: 28 (15.38%) (Ranked 30)  
+Progressed: 183 (Ranked 424)  
+Completed: 28 (15.30%) (Ranked 32)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -108,6 +108,7 @@ Completed: 28 (15.38%) (Ranked 30)
 | 2023-11-27 | 180 | 28 |
 | 2023-11-28 | 181 | 28 |
 | 2023-12-06 | 182 | 28 |
+| 2023-12-28 | 183 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

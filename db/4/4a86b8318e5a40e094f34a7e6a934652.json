@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 406,
+  "EOS_Progressed": 407,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -1729,6 +1729,11 @@
       "Time": "2023-12-28T17:06:06.6371019+00:00",
       "NumProgressed": 406,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T18:05:09.2014023+00:00",
+      "NumProgressed": 407,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -1741,7 +1746,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -1755,9 +1760,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 260
+      "UsersEstimate": 256
     },
     {
       "ID": "BRING_PROSPERO",
@@ -1765,7 +1770,7 @@
       "Name": "Amusement Park",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -1853,7 +1858,7 @@
       "Name": "Weed Warrior",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -1885,7 +1890,7 @@
       "Name": "Uppies!",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -1900,14 +1905,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 406,
+      "Progressed": 407,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-28T17:06:06.6371016+00:00",
+  "LastChanged_Achievements": "2023-12-28T18:05:09.2014019+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.5394751+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:00:43.9177994+00:00",
-  "LastUpdate_Achievements": "2023-12-28T17:06:06.6371189+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:59:31.5998613+00:00",
+  "LastUpdate_Achievements": "2023-12-28T18:05:09.2014255+00:00"
 }

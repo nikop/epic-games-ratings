@@ -4,7 +4,7 @@
   "ProductSlug": "pinball-m-755276",
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2989,
+  "EOS_Progressed": 2993,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 580,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3134,6 +3134,11 @@
       "Time": "2023-12-28T17:07:18.964298+00:00",
       "NumProgressed": 2989,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T18:06:04.092675+00:00",
+      "NumProgressed": 2993,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -3168,9 +3173,9 @@
       "ID": "ACHIEVEMENT_09",
       "SetID": "c167foo",
       "Name": "Highest Among the Highest",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 867
+      "UsersEstimate": 838
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -3210,7 +3215,7 @@
       "Name": "Terrible Journey",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -3250,7 +3255,7 @@
       "Name": "Worthy Badge",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -3330,7 +3335,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 986
+      "UsersEstimate": 988
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -3346,7 +3351,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -3376,9 +3381,9 @@
       "ID": "ACHIEVEMENT_38",
       "SetID": "c167foo",
       "Name": "Profile Outfitted",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -3521,14 +3526,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 2989,
+      "Progressed": 2993,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-28T17:07:18.9642977+00:00",
+  "LastChanged_Achievements": "2023-12-28T18:06:04.0926745+00:00",
   "LastUpdate_AppInfo": "2023-12-26T12:59:42.4793606+00:00",
-  "LastUpdate_Ratings": "2023-12-28T16:58:10.1287289+00:00",
-  "LastUpdate_Achievements": "2023-12-28T17:07:18.9643497+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:57:41.6532087+00:00",
+  "LastUpdate_Achievements": "2023-12-28T18:06:04.0927408+00:00"
 }

@@ -6,22 +6,22 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,923 |
-| The Cursed Farmer | 0.80% | ~1,969 |
+| A Brief Tour of the Realms | 2.00% | ~4,924 |
+| The Cursed Farmer | 0.90% | ~2,216 |
 | Beast Intentions | 0.70% | ~1,723 |
 | Welcome to Sigil | 0.70% | ~1,487 |
 | The Mad Wizard | 0.60% | ~1,477 |
-| Fast Food | 0.60% | ~1,274 |
+| Fast Food | 0.60% | ~1,275 |
 | The Ring of Regeneration | 0.40% | ~985 |
 | The Overgrown Grove | 0.40% | ~850 |
 | Flames of Avernus | 0.40% | ~850 |
 | Mental Gymnastics | 0.40% | ~850 |
 | Don't Lose Your Head | 0.40% | ~850 |
-| Were-verpowered | 0.30% | ~738 |
-| Seeking Allies | 0.30% | ~738 |
-| Are Ya Chicken? | 0.30% | ~738 |
-| Mad Cow Disease | 0.30% | ~738 |
-| Friendly Imps | 0.30% | ~738 |
+| Were-verpowered | 0.30% | ~739 |
+| Seeking Allies | 0.30% | ~739 |
+| Are Ya Chicken? | 0.30% | ~739 |
+| Mad Cow Disease | 0.30% | ~739 |
+| Friendly Imps | 0.30% | ~739 |
 | Arcane Suppression | 0.30% | ~637 |
 | Misaligned in Sigil | 0.30% | ~637 |
 | Chaos Theory | 0.30% | ~637 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~212 |
 | The Brains of an Illithid's Desire | 0.10% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,130 (Ranked 67)  
+Progressed: 246,186 (Ranked 67)  
 Completed: 2,571 (1.04%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -805,10 +805,10 @@ Completed: 2,571 (1.04%) (Ranked 168)
 | 2023-12-25 | 244,638 | 2,562 |
 | 2023-12-26 | 245,031 | 2,566 |
 | 2023-12-27 | 245,531 | 2,567 |
-| 2023-12-28 | 246,130 | 2,571 |
+| 2023-12-28 | 246,186 | 2,571 |
 ## Awards
 Max (Great for Beginners): 5,708  (Ranked 71)  
-Sum: 33,147 (Ranked 41)  
+Sum: 33,152 (Ranked 41)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -818,7 +818,7 @@ Diff (max vs sum): 30
 | This game is Relaxing | 4,749 |
 | This game has Amazing Characters | 4,290 |
 | This game is Highly Recommended | 4,275 |
-| This game has Playful Visuals | 3,602 |
+| This game has Playful Visuals | 3,607 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -1158,4 +1158,4 @@ Diff (max vs sum): 30
 | 2023-12-25 | 4.06 | - | 5,691 | 33,079 |
 | 2023-12-26 | 4.06 | - | 5,696 | 33,100 |
 | 2023-12-27 | 4.06 | - | 5,701 | 33,129 |
-| 2023-12-28 | 4.06 | - | 5,708 | 33,147 |
+| 2023-12-28 | 4.06 | - | 5,708 | 33,152 |

@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 758,
+  "EOS_Progressed": 759,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
@@ -2740,6 +2740,11 @@
       "Time": "2023-12-28T17:10:04.8375269+00:00",
       "NumProgressed": 758,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-28T18:09:29.6152279+00:00",
+      "NumProgressed": 759,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -2760,7 +2765,7 @@
       "Name": "Holey Moley",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "achievement_11",
@@ -2768,7 +2773,7 @@
       "Name": "Bomb\u0027s Away",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "achievement_12",
@@ -2784,7 +2789,7 @@
       "Name": "Competitor\u0027s Spirit",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "achievement_14",
@@ -2808,7 +2813,7 @@
       "Name": "Star Power",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "achievement_17",
@@ -2816,7 +2821,7 @@
       "Name": "Clean Sheet",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "achievement_18",
@@ -2848,7 +2853,7 @@
       "Name": "From Many, One",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "achievement_5",
@@ -2880,7 +2885,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "achievement_9",
@@ -2895,13 +2900,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 758,
+      "Progressed": 759,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-28T17:10:04.8375265+00:00",
+  "LastChanged_Achievements": "2023-12-28T18:09:29.6152263+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:10.1040458+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:00:22.8236234+00:00",
-  "LastUpdate_Achievements": "2023-12-28T17:10:04.8375504+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:59:17.7117317+00:00",
+  "LastUpdate_Achievements": "2023-12-28T18:09:29.6152656+00:00"
 }

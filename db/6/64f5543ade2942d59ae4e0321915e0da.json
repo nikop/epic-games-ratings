@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -1160,9 +1160,9 @@
       "ID": "AC_ALL_MONEYSACKS",
       "SetID": "16i2akc",
       "Name": "Bowels",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "AC_ALL_RECIPES",
@@ -1487,8 +1487,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-28T17:07:41.8870374+00:00",
+  "LastChanged_Achievements": "2023-12-28T18:06:21.2726836+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:54.1541826+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:02:10.5594023+00:00",
-  "LastUpdate_Achievements": "2023-12-28T17:07:41.8870679+00:00"
+  "LastUpdate_Ratings": "2023-12-28T18:02:43.6529401+00:00",
+  "LastUpdate_Achievements": "2023-12-28T18:06:21.2727197+00:00"
 }

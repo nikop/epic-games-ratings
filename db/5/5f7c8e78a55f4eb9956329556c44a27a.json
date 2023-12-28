@@ -1028,9 +1028,9 @@
       "ID": "TINGWD_CHAP_END_06",
       "SetID": "c0imaa6",
       "Name": "Home at last",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "TINGWD_CLICKER",
@@ -1203,8 +1203,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-12-28T17:05:50.110937+00:00",
+  "LastChanged_Achievements": "2023-12-28T18:04:56.587303+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.5556577+00:00",
-  "LastUpdate_Ratings": "2023-12-28T16:57:41.8814177+00:00",
-  "LastUpdate_Achievements": "2023-12-28T17:05:50.1109583+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:57:24.2371697+00:00",
+  "LastUpdate_Achievements": "2023-12-28T18:04:56.5873286+00:00"
 }

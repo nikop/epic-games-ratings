@@ -6,22 +6,22 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~18,328 |
-| Student | 22.00% | ~13,904 |
-| Knower | 16.00% | ~10,112 |
-| Listener | 15.00% | ~9,480 |
-| Aspen Tree | 14.00% | ~8,848 |
-| Healer | 14.00% | ~8,848 |
-| Soldier | 12.00% | ~7,584 |
-| Cow Level | 11.00% | ~6,952 |
-| Scientist | 11.00% | ~6,952 |
-| Herbalist | 10.00% | ~6,320 |
-| Water | 10.00% | ~6,320 |
-| Old Friend | 9.00% | ~5,688 |
-| New Spirits | 9.00% | ~5,688 |
-| Voipel | 9.00% | ~5,688 |
-| Wolf | 9.00% | ~5,688 |
-| Black Mage | 9.00% | ~5,688 |
+| Initiation | 29.00% | ~18,330 |
+| Student | 22.00% | ~13,905 |
+| Knower | 16.00% | ~10,113 |
+| Listener | 15.00% | ~9,481 |
+| Aspen Tree | 14.00% | ~8,849 |
+| Healer | 14.00% | ~8,849 |
+| Soldier | 12.00% | ~7,585 |
+| Cow Level | 11.00% | ~6,953 |
+| Scientist | 11.00% | ~6,953 |
+| Herbalist | 10.00% | ~6,321 |
+| Water | 10.00% | ~6,321 |
+| Old Friend | 9.00% | ~5,689 |
+| New Spirits | 9.00% | ~5,689 |
+| Voipel | 9.00% | ~5,689 |
+| Wolf | 9.00% | ~5,689 |
+| Black Mage | 9.00% | ~5,689 |
 | Card Player | 8.00% | ~5,056 |
 | Dead Friend | 8.00% | ~5,056 |
 | Pine Tree | 8.00% | ~5,056 |
@@ -36,11 +36,11 @@ Number of Ratings: 96  (23.09.2022)
 | Savvy | 7.00% | ~4,424 |
 | Encyclopedist | 6.00% | ~3,792 |
 | Witch | 6.00% | ~3,792 |
-| Vorsa | 6.00% | ~3,792 |
 | Old Spirits | 6.00% | ~3,792 |
 | Sinner | 6.00% | ~3,792 |
 | Folklorist | 6.00% | ~3,792 |
 | Keeper of Knowledge | 6.00% | ~3,792 |
+| Vorsa | 5.00% | ~3,160 |
 | Susanin | 5.00% | ~3,160 |
 | Traveller | 5.00% | ~3,160 |
 | Righteous | 4.00% | ~2,528 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,264 |
 | Word Master | 0.20% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,199 (Ranked 114)  
+Progressed: 63,206 (Ranked 114)  
 Completed: 63 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 63 (0.10%) (Ranked 305)
 | 2023-12-25 | 62,508 | 63 |
 | 2023-12-26 | 62,786 | 63 |
 | 2023-12-27 | 63,043 | 63 |
-| 2023-12-28 | 63,199 | 63 |
+| 2023-12-28 | 63,206 | 63 |
 ## Awards
 Max (Character Customization): 103  (Ranked 368)  
 Sum: 103 (Ranked 460)  

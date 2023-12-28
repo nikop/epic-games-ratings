@@ -3,7 +3,7 @@
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 299,
-  "Ranking_EOS_Completed": 157,
+  "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 795,
+  "EOS_Progressed": 797,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.26,
+  "EOS_Completed_Percentage": 1.25,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -2725,6 +2725,11 @@
       "Time": "2023-12-28T17:08:52.2092595+00:00",
       "NumProgressed": 795,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-28T18:08:34.6388167+00:00",
+      "NumProgressed": 797,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2737,7 +2742,7 @@
       "Name": "Assassinate the Makron",
       "Percentage": 15,
       "XP": 120,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_eou1",
@@ -2745,7 +2750,7 @@
       "Name": "Establish Communications",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "ACH_eou2",
@@ -2753,15 +2758,15 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACH_eou3",
       "SetID": "51of0eo",
       "Name": "Destroy Security Grid",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 191
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_eou4",
@@ -2801,7 +2806,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_mg2",
@@ -2831,23 +2836,23 @@
       "ID": "ACH_xatrix",
       "SetID": "51of0eo",
       "Name": "Destroy the Moon Base",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 120,
-      "UsersEstimate": 64
+      "UsersEstimate": 72
     }
   ],
   "AchievementSets": [
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 795,
+      "Progressed": 797,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-28T17:08:52.2092591+00:00",
+  "LastChanged_Achievements": "2023-12-28T18:08:34.6388162+00:00",
   "LastUpdate_AppInfo": "2023-12-22T05:56:59.907635+00:00",
   "LastUpdate_Ratings": "2023-12-28T17:01:56.5162363+00:00",
-  "LastUpdate_Achievements": "2023-12-28T17:08:52.2092838+00:00"
+  "LastUpdate_Achievements": "2023-12-28T18:08:34.638846+00:00"
 }

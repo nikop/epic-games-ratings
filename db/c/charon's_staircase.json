@@ -4,7 +4,7 @@
   "ProductSlug": "charons-staircase-b2d05f",
   "Ranking_EOS_Progress": 499,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewPlayers": 522,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-28T07:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84,
+  "EOS_Progressed": 85,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.57,
+  "EOS_Completed_Percentage": 3.53,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.3534175+00:00",
@@ -125,6 +125,11 @@
       "Time": "2023-12-15T18:05:53.2310521+00:00",
       "NumProgressed": 84,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T18:08:34.3308949+00:00",
+      "NumProgressed": 85,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 20,
@@ -134,7 +139,7 @@
       "ID": "ACH_1",
       "SetID": "1g3d1lg",
       "Name": "Seth\u0027s office",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 35,
       "UsersEstimate": 48
     },
@@ -142,7 +147,7 @@
       "ID": "ACH_10",
       "SetID": "1g3d1lg",
       "Name": "First document retrieved",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 35,
       "UsersEstimate": 41
     },
@@ -150,7 +155,7 @@
       "ID": "ACH_11",
       "SetID": "1g3d1lg",
       "Name": "Second document retrieved",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 35,
       "UsersEstimate": 24
     },
@@ -158,7 +163,7 @@
       "ID": "ACH_12",
       "SetID": "1g3d1lg",
       "Name": "Third document retrieved",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 35,
       "UsersEstimate": 24
     },
@@ -166,7 +171,7 @@
       "ID": "ACH_13",
       "SetID": "1g3d1lg",
       "Name": "An ear for music",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 40,
       "UsersEstimate": 31
     },
@@ -174,7 +179,7 @@
       "ID": "ACH_14",
       "SetID": "1g3d1lg",
       "Name": "Agatha\u0027s favourite song",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 35,
       "UsersEstimate": 29
     },
@@ -262,7 +267,7 @@
       "ID": "ACH_6",
       "SetID": "1g3d1lg",
       "Name": "Deadly chase",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 35,
       "UsersEstimate": 24
     },
@@ -286,7 +291,7 @@
       "ID": "ACH_9",
       "SetID": "1g3d1lg",
       "Name": "Dara\u0027s home",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 200,
       "UsersEstimate": 24
     }
@@ -295,7 +300,7 @@
     {
       "ID": "1g3d1lg",
       "IsBase": true,
-      "Progressed": 84,
+      "Progressed": 85,
       "Completed": 3
     }
   ],
@@ -303,8 +308,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.6125588+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.3534182+00:00",
   "LastChanged": "2023-03-31T05:58:38.6125589+00:00",
-  "LastChanged_Achievements": "2023-12-28T17:08:51.7590034+00:00",
+  "LastChanged_Achievements": "2023-12-28T18:08:34.3308946+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.0118432+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:02:53.4763704+00:00",
-  "LastUpdate_Achievements": "2023-12-28T17:08:51.7590166+00:00"
+  "LastUpdate_Ratings": "2023-12-28T18:02:45.1051533+00:00",
+  "LastUpdate_Achievements": "2023-12-28T18:08:34.3309056+00:00"
 }

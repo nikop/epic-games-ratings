@@ -6,11 +6,11 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~578 |
+| Malpractice Assurance | 11.00% | ~579 |
 | Lost and Found | 7.00% | ~368 |
-| Autodidact | 6.00% | ~7,823 |
-| This Belongs in a Museum | 5.00% | ~6,519 |
-| Overdue Notice | 5.00% | ~6,519 |
+| Autodidact | 6.00% | ~7,824 |
+| This Belongs in a Museum | 5.00% | ~6,520 |
+| Overdue Notice | 5.00% | ~6,520 |
 | This guy... again? | 5.00% | ~263 |
 | Ploughshares to Swords | 5.00% | ~263 |
 | Bloody Graduation | 5.00% | ~263 |
@@ -62,8 +62,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Handled | 1.00% | ~1,304 |
 | Slap on the Wrist | 1.00% | ~53 |
 | For Old Time' Sake | 1.00% | ~53 |
-| Shrine of Reflection | 0.90% | ~1,173 |
-| Body of Work | 0.90% | ~1,173 |
+| Shrine of Reflection | 0.90% | ~1,174 |
+| Body of Work | 0.90% | ~1,174 |
 | Clearing the Ledger | 0.70% | ~913 |
 | Triage | 0.70% | ~913 |
 | No Mercy | 0.70% | ~37 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,388 (Ranked 87)  
+Progressed: 130,394 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-25 | 129,858 | 3 |
 | 2023-12-26 | 130,068 | 3 |
 | 2023-12-27 | 130,259 | 3 |
-| 2023-12-28 | 130,388 | 3 |
+| 2023-12-28 | 130,394 | 3 |
 ## Awards
 Max (Character Customization): 7,888  (Ranked 50)  
 Sum: 21,194 (Ranked 58)  

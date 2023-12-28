@@ -4,7 +4,7 @@
   "ProductSlug": "botanicula-50043d",
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -679,9 +679,9 @@
       "ID": "Ach-01-balonek",
       "SetID": "2pjo9pi",
       "Name": "Balonek",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Ach-01-brambora",
@@ -1110,8 +1110,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2023-12-28T17:09:08.7498696+00:00",
+  "LastChanged_Achievements": "2023-12-28T18:08:46.8132288+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:05.6352108+00:00",
-  "LastUpdate_Ratings": "2023-12-28T16:58:18.903797+00:00",
-  "LastUpdate_Achievements": "2023-12-28T17:09:08.7499057+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:57:47.5874655+00:00",
+  "LastUpdate_Achievements": "2023-12-28T18:08:46.8132706+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 52,
+  "Ranking_EOS_NewPlayers": 53,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9083,10 +9083,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33147,
       "NumberOfAwardsMax": 5708
+    },
+    {
+      "Time": "2023-12-28T17:58:54.2046413+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33152,
+      "NumberOfAwardsMax": 5708
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33147,
+  "NumberOfAwards": 33152,
   "NumberOfAwardsMax": 5708,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9130,12 +9136,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3602
+      "Count": 3607
     }
   ],
-  "EOS_Progressed": 246130,
+  "EOS_Progressed": 246186,
   "EOS_Completed": 2571,
-  "EOS_NewPlayers": 3432,
+  "EOS_NewPlayers": 3426,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -37653,6 +37659,11 @@
       "Time": "2023-12-28T17:10:51.3852799+00:00",
       "NumProgressed": 246130,
       "NumCompleted": 2571
+    },
+    {
+      "Time": "2023-12-28T18:09:58.9103873+00:00",
+      "NumProgressed": 246186,
+      "NumCompleted": 2571
     }
   ],
   "TotalAchievements": 546,
@@ -37664,7 +37675,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4923
+      "UsersEstimate": 4924
     },
     {
       "ID": "objective_completed_10",
@@ -38528,7 +38539,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "objective_completed_1203",
@@ -39334,9 +39345,9 @@
       "ID": "objective_completed_3",
       "SetID": "cc37lbc",
       "Name": "The Cursed Farmer",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1969
+      "UsersEstimate": 2216
     },
     {
       "ID": "objective_completed_34",
@@ -39456,7 +39467,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "objective_completed_390",
@@ -39528,7 +39539,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "objective_completed_40",
@@ -39800,7 +39811,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "objective_completed_54",
@@ -40880,7 +40891,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "objective_completed_80",
@@ -41968,7 +41979,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "objective_completed_1563",
@@ -42031,21 +42042,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 212404,
-      "Completed": 4076
+      "Progressed": 212460,
+      "Completed": 4077
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 246130,
+      "Progressed": 246186,
       "Completed": 2571
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-28T14:59:03.6001288+00:00",
-  "LastChanged_Achievements": "2023-12-28T17:10:51.3852796+00:00",
+  "LastChanged": "2023-12-28T17:58:54.2046411+00:00",
+  "LastChanged_Achievements": "2023-12-28T18:09:58.9103869+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-28T16:59:52.4755949+00:00",
-  "LastUpdate_Achievements": "2023-12-28T17:10:51.3876081+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:58:54.2046418+00:00",
+  "LastUpdate_Achievements": "2023-12-28T18:09:58.9126863+00:00"
 }

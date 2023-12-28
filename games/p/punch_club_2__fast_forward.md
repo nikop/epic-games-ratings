@@ -8,7 +8,7 @@
 | Your first fight | 85.00% | ~416 |
 | Good Person Chip | 83.00% | ~407 |
 | First winning | 82.00% | ~402 |
-| Your first job | 80.00% | ~392 |
+| Your first job | 81.00% | ~397 |
 | Depressed visitor | 75.00% | ~368 |
 | Fitness professional | 74.00% | ~363 |
 | Old movies enjoyer | 74.00% | ~363 |
@@ -25,14 +25,14 @@
 | Employee of the month | 59.00% | ~289 |
 | Law student | 58.00% | ~284 |
 | Workout professional | 55.00% | ~270 |
+| Little hacker | 55.00% | ~270 |
 | Handyman | 55.00% | ~270 |
-| Little hacker | 54.00% | ~265 |
 | Champion – starter pack | 54.00% | ~265 |
 | It's good to be alive | 54.00% | ~265 |
 | Fight for life | 53.00% | ~260 |
 | Own four walls | 53.00% | ~260 |
+| Intriguing candies | 53.00% | ~260 |
 | Employee of the year | 53.00% | ~260 |
-| Intriguing candies | 52.00% | ~255 |
 | Legal courier | 49.00% | ~240 |
 | Extreme neuropower! | 49.00% | ~240 |
 | Escaped from a big trouble | 47.00% | ~230 |
@@ -43,18 +43,18 @@
 | No blades in the gym | 39.00% | ~191 |
 | Responsible approach | 38.00% | ~186 |
 | Champion – no way back | 37.00% | ~181 |
+| Underground dwellers | 37.00% | ~181 |
 | Deal with life | 36.00% | ~176 |
-| Underground dwellers | 36.00% | ~176 |
+| Mom got better | 35.00% | ~172 |
 | GYM professional | 35.00% | ~172 |
-| Mom got better | 34.00% | ~167 |
 | Poisoned fighter | 34.00% | ~167 |
 | Get out of my apartment! | 34.00% | ~167 |
 | The die is cast | 34.00% | ~167 |
 | Gang wrangler | 32.00% | ~157 |
 | Seashell hunter | 32.00% | ~157 |
+| Absolute Champion! | 31.00% | ~152 |
 | Undercover robot | 31.00% | ~152 |
 | Problems of cyborgs | 30.00% | ~147 |
-| Absolute Champion! | 30.00% | ~147 |
 | The lonesome road | 29.00% | ~142 |
 | Family comes first | 29.00% | ~142 |
 | Not little hacker | 29.00% | ~142 |

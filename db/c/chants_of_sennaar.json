@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -79,7 +79,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1943,
+  "EOS_Progressed": 1944,
   "EOS_Completed": 117,
   "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 37,
@@ -5564,6 +5564,11 @@
       "Time": "2023-12-28T17:05:58.447951+00:00",
       "NumProgressed": 1943,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-12-28T18:05:03.1498862+00:00",
+      "NumProgressed": 1944,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 25,
@@ -5575,7 +5580,7 @@
       "Name": "I did it",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "END_GOOD",
@@ -5591,7 +5596,7 @@
       "Name": "Peace walker",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -5621,9 +5626,9 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 389
     },
     {
       "ID": "META_RESULT_1-3",
@@ -5703,7 +5708,7 @@
       "Name": "Fashion victim",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -5719,7 +5724,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -5727,7 +5732,7 @@
       "Name": "Scholar",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "PROGRESS_N1",
@@ -5735,7 +5740,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "PROGRESS_N2",
@@ -5751,7 +5756,7 @@
       "Name": "A new dawn",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "PROGRESS_N4",
@@ -5765,16 +5770,16 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 447
+      "UsersEstimate": 467
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1943,
+      "Progressed": 1944,
       "Completed": 117
     }
   ],
@@ -5782,8 +5787,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-28T06:58:32.2175131+00:00",
-  "LastChanged_Achievements": "2023-12-28T17:05:58.4479506+00:00",
+  "LastChanged_Achievements": "2023-12-28T18:05:03.1498856+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-28T16:59:33.798592+00:00",
-  "LastUpdate_Achievements": "2023-12-28T17:05:58.4479907+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:58:41.0401982+00:00",
+  "LastUpdate_Achievements": "2023-12-28T18:05:03.149957+00:00"
 }

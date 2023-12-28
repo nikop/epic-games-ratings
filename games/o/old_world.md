@@ -14,30 +14,32 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 0.50% | ~80 |
 | Architect | 0.50% | ~80 |
 | Good | 0.50% | ~80 |
+| Keystone | 0.50% | ~80 |
 | Learned | 0.50% | ~80 |
 | Mason | 0.50% | ~80 |
 | Noble | 0.50% | ~80 |
+| Pioneer | 0.50% | ~80 |
 | Strong | 0.50% | ~80 |
 | Hanging Gardens | 0.50% | ~80 |
 | Oracle | 0.50% | ~80 |
+| Greek Paganism | 0.50% | ~80 |
+| Trade Caravan | 0.50% | ~80 |
 | Ambitious | 0.40% | ~64 |
 | Brilliant | 0.40% | ~64 |
 | Enlightened | 0.40% | ~64 |
 | Fountainhead | 0.40% | ~64 |
 | Glorious | 0.40% | ~64 |
 | Just | 0.40% | ~64 |
-| Keystone | 0.40% | ~64 |
 | Magnificent | 0.40% | ~64 |
-| Pioneer | 0.40% | ~64 |
 | Warrior | 0.40% | ~64 |
 | Developing Cities | 0.40% | ~64 |
 | Strong Cities | 0.40% | ~64 |
+| Ishtar Gate | 0.40% | ~64 |
 | Pyramids | 0.40% | ~64 |
 | Learn to Play 1 | 0.40% | ~64 |
 | Judaism | 0.40% | ~64 |
-| Greek Paganism | 0.40% | ~64 |
+| Zoroastrianism | 0.40% | ~64 |
 | Naming Landmarks | 0.40% | ~64 |
-| Trade Caravan | 0.40% | ~64 |
 | Regicide | 0.30% | ~48 |
 | Drillmaster | 0.30% | ~48 |
 | Great | 0.30% | ~48 |
@@ -48,20 +50,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Furious Family | 0.30% | ~48 |
 | Apadana | 0.30% | ~48 |
 | Great Ziggurat | 0.30% | ~48 |
-| Ishtar Gate | 0.30% | ~48 |
 | Lighthouse | 0.30% | ~48 |
 | Mausoleum | 0.30% | ~48 |
 | Musaeum | 0.30% | ~48 |
+| Necropolis | 0.30% | ~48 |
 | Christianity | 0.30% | ~48 |
 | Manichaeism | 0.30% | ~48 |
 | Babylonian Paganism | 0.30% | ~48 |
 | Carthaginian Paganism | 0.30% | ~48 |
 | Roman Paganism | 0.30% | ~48 |
-| Zoroastrianism | 0.30% | ~48 |
 | Hanging Gardens in Babylon | 0.20% | ~32 |
 | Beloved | 0.20% | ~32 |
+| Capable | 0.20% | ~32 |
 | Conqueror | 0.20% | ~32 |
 | Mighty | 0.20% | ~32 |
+| Ready | 0.20% | ~32 |
 | Valiant | 0.20% | ~32 |
 | Good Difficulty | 0.20% | ~32 |
 | Just Difficulty | 0.20% | ~32 |
@@ -70,10 +73,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patrons | 0.20% | ~32 |
 | Riders | 0.20% | ~32 |
 | Sages | 0.20% | ~32 |
+| Traders | 0.20% | ~32 |
 | Hittite Iron | 0.20% | ~32 |
 | Acropolis | 0.20% | ~32 |
 | Colossus | 0.20% | ~32 |
-| Necropolis | 0.20% | ~32 |
+| Pantheon | 0.20% | ~32 |
 | Learn to Play 2 | 0.20% | ~32 |
 | Learn to Play 3 | 0.20% | ~32 |
 | Greece | 0.20% | ~32 |
@@ -84,6 +88,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 0.20% | ~32 |
 | Military Prestige | 0.20% | ~32 |
 | Enlightenment | 0.20% | ~32 |
+| Mythology | 0.20% | ~32 |
+| Legionary | 0.20% | ~32 |
 | Points Victory | 0.20% | ~32 |
 | Win a Single Player Game | 0.20% | ~32 |
 | The Clergy | 0.20% | ~32 |
@@ -124,7 +130,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cleopatra's Love | 0.10% | ~16 |
 | Ancient | 0.10% | ~16 |
 | Avenger | 0.10% | ~16 |
-| Capable | 0.10% | ~16 |
 | Destroyer | 0.10% | ~16 |
 | Devout | 0.10% | ~16 |
 | Holy | 0.10% | ~16 |
@@ -132,7 +137,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.10% | ~16 |
 | Old | 0.10% | ~16 |
 | Peacemaker | 0.10% | ~16 |
-| Ready | 0.10% | ~16 |
 | Subjugator | 0.10% | ~16 |
 | Victorious | 0.10% | ~16 |
 | White Death | 0.10% | ~16 |
@@ -148,7 +152,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.10% | ~16 |
 | Landowners | 0.10% | ~16 |
 | Statesmen | 0.10% | ~16 |
-| Traders | 0.10% | ~16 |
 | Battle of the Fertile Crescent | 0.10% | ~16 |
 | The Eternal Treaty | 0.10% | ~16 |
 | Five Routs | 0.10% | ~16 |
@@ -178,7 +181,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.10% | ~16 |
 | Cao'an | 0.10% | ~16 |
 | Adur Burzen-Mihr | 0.10% | ~16 |
-| Pantheon | 0.10% | ~16 |
 | Via Recta Souk | 0.10% | ~16 |
 | Learn By Playing 1 - Able | 0.10% | ~16 |
 | Learn By Playing 2 - Just | 0.10% | ~16 |
@@ -218,7 +220,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Dualism | 0.10% | ~16 |
 | Gnosticism | 0.10% | ~16 |
 | Legalism | 0.10% | ~16 |
-| Mythology | 0.10% | ~16 |
 | Redemption | 0.10% | ~16 |
 | Revelation | 0.10% | ~16 |
 | Veneration | 0.10% | ~16 |
@@ -227,7 +228,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.10% | ~16 |
 | Three Man Chariot | 0.10% | ~16 |
 | Kushite Cavalry | 0.10% | ~16 |
-| Legionary | 0.10% | ~16 |
 | Phalangite | 0.10% | ~16 |
 | Siege Tower | 0.10% | ~16 |
 | Turreted Elephant | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,994 (Ranked 164)  
+Progressed: 15,995 (Ranked 165)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -617,7 +617,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-25 | 15,949 | 5 |
 | 2023-12-26 | 15,966 | 5 |
 | 2023-12-27 | 15,978 | 5 |
-| 2023-12-28 | 15,994 | 5 |
+| 2023-12-28 | 15,995 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,911 (Ranked 220)  

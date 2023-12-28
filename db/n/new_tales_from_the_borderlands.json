@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3765,
+  "EOS_Progressed": 3766,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2087,6 +2087,11 @@
       "Time": "2023-12-28T16:06:12.4863578+00:00",
       "NumProgressed": 3765,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T18:05:57.0816665+00:00",
+      "NumProgressed": 3766,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2154,7 +2159,7 @@
       "Name": "Shard Snatchers",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -2210,7 +2215,7 @@
       "Name": "We\u0027re In",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -2218,7 +2223,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1920
+      "UsersEstimate": 1921
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -2266,7 +2271,7 @@
       "Name": "Those Were the Days...",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
@@ -2305,7 +2310,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3765,
+      "Progressed": 3766,
       "Completed": 0
     }
   ],
@@ -2313,8 +2318,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-12-28T17:07:10.0649652+00:00",
+  "LastChanged_Achievements": "2023-12-28T18:05:57.0816659+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1319758+00:00",
-  "LastUpdate_Ratings": "2023-12-28T16:59:52.2045189+00:00",
-  "LastUpdate_Achievements": "2023-12-28T17:07:10.0649878+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:58:53.9990498+00:00",
+  "LastUpdate_Achievements": "2023-12-28T18:05:57.0816922+00:00"
 }

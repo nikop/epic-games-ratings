@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 519,
+  "Ranking_EOS_NewPlayers": 494,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
@@ -78,11 +78,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 335,
+  "EOS_Progressed": 336,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.39,
+  "EOS_Completed_Percentage": 2.38,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -423,6 +423,11 @@
       "Time": "2023-12-27T04:08:18.6652973+00:00",
       "NumProgressed": 335,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-28T18:03:42.6744136+00:00",
+      "NumProgressed": 336,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -490,7 +495,7 @@
       "Name": "True magic doesn\u0027t exist",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_08",
@@ -504,9 +509,9 @@
       "ID": "achievement_09",
       "SetID": "7881h0d",
       "Name": "Grau Hill",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 255
     },
     {
       "ID": "achievement_10",
@@ -514,7 +519,7 @@
       "Name": "The creature",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "achievement_11",
@@ -522,7 +527,7 @@
       "Name": "A forgotten language",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "achievement_12",
@@ -536,9 +541,9 @@
       "ID": "achievement_13",
       "SetID": "7881h0d",
       "Name": "One step down",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_14",
@@ -554,7 +559,7 @@
       "Name": "My dear Magda",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "achievement_16",
@@ -585,7 +590,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 335,
+      "Progressed": 336,
       "Completed": 8
     }
   ],
@@ -593,8 +598,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-12-19T15:00:52.3248594+00:00",
-  "LastChanged_Achievements": "2023-12-28T17:04:12.5691744+00:00",
+  "LastChanged_Achievements": "2023-12-28T18:03:42.6744133+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:17.3876636+00:00",
-  "LastUpdate_Ratings": "2023-12-28T16:57:36.992043+00:00",
-  "LastUpdate_Achievements": "2023-12-28T17:04:12.5691886+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:57:19.3092498+00:00",
+  "LastUpdate_Achievements": "2023-12-28T18:03:42.6744259+00:00"
 }

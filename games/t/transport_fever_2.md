@@ -6,18 +6,18 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 75.00% | ~1,653 |
+| First line | 74.00% | ~1,632 |
 | First cargo item on board | 68.00% | ~1,499 |
 | First cargo item waiting | 68.00% | ~1,499 |
 | First bus stop | 67.00% | ~1,477 |
 | First passenger on board | 64.00% | ~1,411 |
 | First passenger waiting | 64.00% | ~1,411 |
 | First bus arrived | 63.00% | ~1,389 |
-| First train station | 61.00% | ~1,344 |
-| First steam train arrived | 57.00% | ~1,256 |
-| Cadet | 53.00% | ~1,168 |
-| First industry upgraded | 53.00% | ~1,168 |
-| Transport millionaire | 52.00% | ~1,146 |
+| First train station | 61.00% | ~1,345 |
+| First steam train arrived | 57.00% | ~1,257 |
+| Cadet | 53.00% | ~1,169 |
+| First industry upgraded | 53.00% | ~1,169 |
+| Transport millionaire | 52.00% | ~1,147 |
 | Transport master | 49.00% | ~1,080 |
 | Cargo hub | 49.00% | ~1,080 |
 | Sculpturer | 47.00% | ~1,036 |
@@ -29,8 +29,8 @@ Number of Ratings: 180  (23.09.2022)
 | First aircraft arrived | 39.00% | ~860 |
 | High speed | 39.00% | ~860 |
 | Transport shark | 38.00% | ~838 |
-| Mass production | 33.00% | ~727 |
-| Aircraft entrepreneur | 31.00% | ~683 |
+| Mass production | 33.00% | ~728 |
+| Aircraft entrepreneur | 31.00% | ~684 |
 | Crowd in a train | 29.00% | ~639 |
 | The future is now, old man | 29.00% | ~639 |
 | Not in my backyard | 28.00% | ~617 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~4 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,204 (Ranked 235)  
+Progressed: 2,205 (Ranked 235)  
 Completed: 1 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,11 +305,11 @@ Completed: 1 (0.05%) (Ranked 336)
 | 2023-12-25 | 2,157 | 1 |
 | 2023-12-26 | 2,174 | 1 |
 | 2023-12-27 | 2,193 | 1 |
-| 2023-12-28 | 2,204 | 1 |
+| 2023-12-28 | 2,205 | 1 |
 ## Awards
-Max (Great for Beginners): 49  (Ranked 451)  
+Max (Great for Beginners): 49  (Ranked 452)  
 Sum: 329 (Ranked 369)  
-Diff (max vs sum): 82  
+Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 49 |

@@ -6,29 +6,29 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 80.00% | ~912 |
-| My little farm | 64.00% | ~730 |
-| Every beginning is difficult | 62.00% | ~707 |
-| Gofer | 56.00% | ~638 |
-| 3, 2, 1, mine | 55.00% | ~627 |
-| O Captain! My Captain! | 54.00% | ~616 |
-| Seafarer | 51.00% | ~581 |
-| Greed for gold | 43.00% | ~490 |
-| Intangible | 41.00% | ~467 |
-| I'm out of here for a while | 41.00% | ~467 |
-| In a mint condition | 38.00% | ~433 |
-| Licence to Kill | 37.00% | ~422 |
+| Cabin boy | 80.00% | ~914 |
+| My little farm | 64.00% | ~731 |
+| Every beginning is difficult | 62.00% | ~708 |
+| Gofer | 56.00% | ~640 |
+| 3, 2, 1, mine | 55.00% | ~628 |
+| O Captain! My Captain! | 54.00% | ~617 |
+| Seafarer | 51.00% | ~582 |
+| Greed for gold | 43.00% | ~491 |
+| Intangible | 41.00% | ~468 |
+| I'm out of here for a while | 41.00% | ~468 |
+| In a mint condition | 38.00% | ~434 |
+| Licence to Kill | 37.00% | ~423 |
 | Pirates! | 34.00% | ~388 |
 | Collectionitis | 29.00% | ~331 |
-| Megalomania | 28.00% | ~319 |
+| Megalomania | 28.00% | ~320 |
 | Christening | 27.00% | ~308 |
-| Groundskeeper | 25.00% | ~285 |
+| Groundskeeper | 25.00% | ~286 |
 | Wholesale | 22.00% | ~251 |
-| Walk the plank | 21.00% | ~239 |
-| Pearly gates | 18.00% | ~205 |
-| My precious! | 18.00% | ~205 |
+| Walk the plank | 21.00% | ~240 |
+| Pearly gates | 18.00% | ~206 |
+| My precious! | 18.00% | ~206 |
 | Conquistador | 14.00% | ~160 |
-| Panic buying | 11.00% | ~125 |
+| Panic buying | 11.00% | ~126 |
 | Your vessel, my vessel | 10.00% | ~114 |
 | Just a scratch | 9.00% | ~103 |
 | All mine! | 9.00% | ~103 |
@@ -36,7 +36,7 @@ Number of Ratings: 53  (23.09.2022)
 | Panel of experts | 8.00% | ~91 |
 | Maker | 7.00% | ~80 |
 | Conglomerate | 7.00% | ~80 |
-| The Grande Bouffe | 6.00% | ~68 |
+| The Grande Bouffe | 6.00% | ~69 |
 | Buccaneer | 5.00% | ~57 |
 | Flying Dutchman | 5.00% | ~57 |
 | A true pirate! | 4.00% | ~46 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.80% | ~9 |
 | Davy Jones' locker | 0.40% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,140 (Ranked 276)  
+Progressed: 1,142 (Ranked 276)  
 Completed: 1 (0.09%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 1 (0.09%) (Ranked 313)
 | 2023-12-25 | 1,127 | 1 |
 | 2023-12-26 | 1,129 | 1 |
 | 2023-12-27 | 1,136 | 1 |
-| 2023-12-28 | 1,140 | 1 |
+| 2023-12-28 | 1,142 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

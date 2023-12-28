@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -277,7 +277,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39662,
+  "EOS_Progressed": 39663,
   "EOS_Completed": 125,
   "EOS_NewPlayers": 375,
   "EOS_NewCompleters": 4,
@@ -22312,6 +22312,11 @@
       "Time": "2023-12-28T17:08:23.6309869+00:00",
       "NumProgressed": 39662,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-12-28T18:08:12.8094873+00:00",
+      "NumProgressed": 39663,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 14,
@@ -22395,7 +22400,7 @@
       "Name": "Hummed of Mystery",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 1586
+      "UsersEstimate": 1587
     },
     {
       "ID": "firstBunny",
@@ -22409,9 +22414,9 @@
       "ID": "firstItem",
       "SetID": "8pjb9ak",
       "Name": "Two Worlds",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 30540
+      "UsersEstimate": 30144
     },
     {
       "ID": "roots",
@@ -22434,15 +22439,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 39662,
+      "Progressed": 39663,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-12-25T15:57:40.6217361+00:00",
-  "LastChanged_Achievements": "2023-12-28T17:08:23.6309866+00:00",
+  "LastChanged_Achievements": "2023-12-28T18:08:12.8094867+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:16.6802538+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:00:17.9771224+00:00",
-  "LastUpdate_Achievements": "2023-12-28T17:08:23.6311098+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:59:14.7009146+00:00",
+  "LastUpdate_Achievements": "2023-12-28T18:08:12.8096732+00:00"
 }

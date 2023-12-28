@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 89.00% | ~80 |
-| Enough rooms to swing a cat | 81.00% | ~73 |
-| First to the post | 81.00% | ~73 |
+| Home Sweet Home | 89.00% | ~81 |
+| Enough rooms to swing a cat | 80.00% | ~73 |
+| First to the post | 80.00% | ~73 |
 | A kind of Magic | 73.00% | ~66 |
-| Connected | 67.00% | ~60 |
-| Expansion | 61.00% | ~55 |
-| Mine! | 58.00% | ~52 |
-| Harvest Time | 56.00% | ~50 |
-| Artificer's Apprentice | 49.00% | ~44 |
-| Fly the friendly Sky | 46.00% | ~41 |
+| Connected | 66.00% | ~60 |
+| Expansion | 60.00% | ~55 |
+| Mine! | 57.00% | ~52 |
+| Harvest Time | 55.00% | ~50 |
+| Artificer's Apprentice | 48.00% | ~44 |
+| Fly the friendly Sky | 45.00% | ~41 |
 | Get out of here! | 41.00% | ~37 |
 | Necromancer's Apprentice | 40.00% | ~36 |
-| Alchemist's Apprentice | 39.00% | ~35 |
-| Friend of Lyraine | 37.00% | ~33 |
-| The Circle | 36.00% | ~32 |
-| Redecorating | 32.00% | ~29 |
+| Alchemist's Apprentice | 38.00% | ~35 |
+| Friend of Lyraine | 36.00% | ~33 |
+| The Circle | 35.00% | ~32 |
+| Redecorating | 33.00% | ~30 |
 | Bad JuJu | 24.00% | ~22 |
 | Slave to the rhythm | 21.00% | ~19 |
 | Friend of Sevenkeeps | 21.00% | ~19 |
 | Castle Meldec | 20.00% | ~18 |
 | Sevenkeeps Seat of Kings | 18.00% | ~16 |
-| Break Free | 16.00% | ~14 |
+| Break Free | 15.00% | ~14 |
 | Friend of Alluvyan | 14.00% | ~13 |
 | Friend of Connach | 14.00% | ~13 |
 | Friend of Gillyshire | 13.00% | ~12 |
@@ -47,14 +47,14 @@
 | Elynn's Tale | 7.00% | ~6 |
 | The Forge of Regan Gor | 7.00% | ~6 |
 | Tuscari Sea Portal | 7.00% | ~6 |
-| Defeat Raith | 6.00% | ~5 |
-| Defeat Undergast | 6.00% | ~5 |
-| Lore's Tale | 6.00% | ~5 |
-| Crypt of the Revenant | 6.00% | ~5 |
-| Master Artificer | 6.00% | ~5 |
-| A Monopoly of Might | 6.00% | ~5 |
-| Balanced | 6.00% | ~5 |
-| Friend of Uram Gor | 6.00% | ~5 |
+| Defeat Raith | 5.00% | ~5 |
+| Defeat Undergast | 5.00% | ~5 |
+| Lore's Tale | 5.00% | ~5 |
+| Crypt of the Revenant | 5.00% | ~5 |
+| Master Artificer | 5.00% | ~5 |
+| A Monopoly of Might | 5.00% | ~5 |
+| Balanced | 5.00% | ~5 |
+| Friend of Uram Gor | 5.00% | ~5 |
 | Get to the Airship! | 4.00% | ~4 |
 | Defeat Ianna | 4.00% | ~4 |
 | Defeat Isgrimm | 4.00% | ~4 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90 (Ranked 495)  
+Progressed: 91 (Ranked 493)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 81 | 0 |
 | 2023-12-26 | 84 | 0 |
 | 2023-12-27 | 89 | 0 |
-| 2023-12-28 | 90 | 0 |
+| 2023-12-28 | 91 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

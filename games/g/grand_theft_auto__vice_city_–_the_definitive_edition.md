@@ -1,24 +1,24 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.53 (Ranked 556)  
+Rating: 4.52 (Ranked 567)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~6,624 |
-| Greasy Palms | 42.00% | ~6,048 |
-| South American Connection | 26.00% | ~3,744 |
-| Life of the Party | 20.00% | ~2,880 |
-| Big Heat from Little Havana | 15.00% | ~2,160 |
-| Chauffeur | 15.00% | ~2,160 |
-| Tommy Two-Wheels | 15.00% | ~2,160 |
-| Salutations My Little Friend | 11.00% | ~1,584 |
-| Iron-y | 10.00% | ~1,440 |
-| Gun for Hire | 9.00% | ~1,296 |
-| Mischief Managed | 8.00% | ~1,152 |
-| Vice City Mogul | 6.00% | ~864 |
-| Catch Me if You Can | 6.00% | ~864 |
-| Bloodstained Hands | 6.00% | ~864 |
+| Legal Counsel | 46.00% | ~6,629 |
+| Greasy Palms | 42.00% | ~6,052 |
+| South American Connection | 26.00% | ~3,747 |
+| Life of the Party | 20.00% | ~2,882 |
+| Big Heat from Little Havana | 15.00% | ~2,162 |
+| Chauffeur | 15.00% | ~2,162 |
+| Tommy Two-Wheels | 15.00% | ~2,162 |
+| Salutations My Little Friend | 11.00% | ~1,585 |
+| Iron-y | 10.00% | ~1,441 |
+| Gun for Hire | 9.00% | ~1,297 |
+| Mischief Managed | 8.00% | ~1,153 |
+| Vice City Mogul | 6.00% | ~865 |
+| Catch Me if You Can | 6.00% | ~865 |
+| Bloodstained Hands | 6.00% | ~865 |
 | Not my First Time | 5.00% | ~720 |
 | Grand Theft Auto | 5.00% | ~720 |
 | Pie Guy | 4.00% | ~576 |
@@ -40,7 +40,7 @@ Rating: 4.53 (Ranked 556)
 | Done it All | 0.90% | ~130 |
 | Kingpin | 0.60% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,401 (Ranked 167)  
+Progressed: 14,410 (Ranked 168)  
 Completed: 82 (0.57%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,14 +292,14 @@ Completed: 82 (0.57%) (Ranked 207)
 | 2023-12-25 | 14,030 | 76 |
 | 2023-12-26 | 14,192 | 76 |
 | 2023-12-27 | 14,318 | 79 |
-| 2023-12-28 | 14,401 | 82 |
+| 2023-12-28 | 14,410 | 82 |
 ## Awards
-Max (Great Boss Battles): 154  (Ranked 324)  
-Sum: 154 (Ranked 436)  
-Diff (max vs sum): -112  
+Max (Great Boss Battles): 159  (Ranked 322)  
+Sum: 159 (Ranked 436)  
+Diff (max vs sum): -114  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 154 |
+| This game has Great Boss Battles | 159 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -460,3 +460,4 @@ Diff (max vs sum): -112
 | 2023-12-25 | 4.52 | 144 | 144 |
 | 2023-12-26 | 4.52 | 147 | 147 |
 | 2023-12-27 | 4.53 | 154 | 154 |
+| 2023-12-28 | 4.52 | 159 | 159 |

@@ -6,10 +6,10 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 45.00% | ~365 |
-| Double Kill | 38.00% | ~308 |
-| Critical Hit | 21.00% | ~170 |
-| Veteran | 20.00% | ~162 |
+| Adept | 45.00% | ~366 |
+| Double Kill | 38.00% | ~309 |
+| Critical Hit | 21.00% | ~171 |
+| Veteran | 20.00% | ~163 |
 | Dressed For Success | 14.00% | ~114 |
 | Veni, Vidi, Vici | 9.00% | ~73 |
 | Multi Kill | 8.00% | ~65 |
@@ -19,8 +19,8 @@ Number of Ratings: 292  (23.09.2022)
 | Whoops! | 6.00% | ~49 |
 | Landlord Extraordinaire | 6.00% | ~49 |
 | Don't Touch My Stuff | 5.00% | ~41 |
-| The Song of Stoutheart | 4.00% | ~32 |
-| Trojan Horse | 4.00% | ~32 |
+| The Song of Stoutheart | 4.00% | ~33 |
+| Trojan Horse | 4.00% | ~33 |
 | Expert Essence Employment | 3.00% | ~24 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~24 |
 | This Spot's Taken | 2.00% | ~16 |
@@ -35,9 +35,9 @@ Number of Ratings: 292  (23.09.2022)
 | Together For Her | 0.90% | ~7 |
 | Unlimited Power! | 0.60% | ~5 |
 | In The Thick of It | 0.60% | ~5 |
+| Get Over Here! | 0.60% | ~5 |
 | Death To Diplomacy | 0.50% | ~4 |
 | Killing Spree | 0.50% | ~4 |
-| Get Over Here! | 0.50% | ~4 |
 | Fully Charged | 0.40% | ~3 |
 | Coming Through! | 0.40% | ~3 |
 | Barbecue | 0.40% | ~3 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 811 (Ranked 297)  
+Progressed: 813 (Ranked 297)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 749 | 0 |
 | 2023-12-26 | 773 | 0 |
 | 2023-12-27 | 796 | 0 |
-| 2023-12-28 | 811 | 0 |
+| 2023-12-28 | 813 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 29  (Ranked 519)  
 Sum: 251 (Ranked 396)  

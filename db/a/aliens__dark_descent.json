@@ -2,12 +2,12 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 568,
+  "Ranking_Rating": 567,
   "Ranking_Popularity": 439,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -501,9 +501,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 5331,
+  "EOS_Progressed": 5332,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 626,
+  "EOS_NewPlayers": 623,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8066,6 +8066,11 @@
       "Time": "2023-12-28T17:03:58.7793322+00:00",
       "NumProgressed": 5331,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-28T18:03:32.0195519+00:00",
+      "NumProgressed": 5332,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -8085,7 +8090,7 @@
       "Name": "Flawless Victory",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "ACH_ALL_WEAPONS",
@@ -8101,7 +8106,7 @@
       "Name": "Perfect Enhancements",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "ACH_APC_RUN_OVER",
@@ -8117,7 +8122,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2292
+      "UsersEstimate": 2293
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -8125,7 +8130,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -8173,7 +8178,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 3518
+      "UsersEstimate": 3519
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -8189,7 +8194,7 @@
       "Name": "Call Me Snake",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 2932
+      "UsersEstimate": 2933
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -8197,7 +8202,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3145
+      "UsersEstimate": 3146
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -8205,7 +8210,7 @@
       "Name": "Heavy Steps",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "ACH_MARINE_PROSTHESIS",
@@ -8373,7 +8378,7 @@
       "Name": "Snatched Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 3465
+      "UsersEstimate": 3466
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -8381,7 +8386,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 4105
+      "UsersEstimate": 4106
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -8395,9 +8400,9 @@
       "ID": "ACH_SAVE_SURVIVORS",
       "SetID": "816efe",
       "Name": "People Person",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2613
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -8405,7 +8410,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1919
+      "UsersEstimate": 1920
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -8429,14 +8434,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 2612
+      "UsersEstimate": 2613
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 5331,
+      "Progressed": 5332,
       "Completed": 3
     }
   ],
@@ -8444,8 +8449,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-12-28T15:00:00.0349949+00:00",
-  "LastChanged_Achievements": "2023-12-28T17:03:58.7793318+00:00",
+  "LastChanged_Achievements": "2023-12-28T18:03:32.0195514+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:04.2476654+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:01:06.2412801+00:00",
-  "LastUpdate_Achievements": "2023-12-28T17:03:58.7794099+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:59:47.9967166+00:00",
+  "LastUpdate_Achievements": "2023-12-28T18:03:32.0196185+00:00"
 }

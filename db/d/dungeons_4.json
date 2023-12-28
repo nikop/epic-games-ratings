@@ -5,9 +5,9 @@
   "Ranking_Rating": 323,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 318,
+  "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -37,7 +37,7 @@
   "Tags": [],
   "EOS_Progressed": 653,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 3.68,
   "EosHistory": [
@@ -2131,9 +2131,9 @@
       "ID": "ach_main08sacrifice_completed",
       "SetID": "4hg22ll",
       "Name": "The Big Eaty",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 346
+      "UsersEstimate": 353
     },
     {
       "ID": "ach_main08sacrifice_gorguattack",
@@ -2452,8 +2452,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2023-12-28T14:01:53.0382272+00:00",
-  "LastChanged_Achievements": "2023-12-28T17:09:01.00642+00:00",
+  "LastChanged_Achievements": "2023-12-28T18:08:41.0663953+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.4415734+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:01:42.6688391+00:00",
-  "LastUpdate_Achievements": "2023-12-28T17:09:01.0064672+00:00"
+  "LastUpdate_Ratings": "2023-12-28T18:00:13.3695237+00:00",
+  "LastUpdate_Achievements": "2023-12-28T18:08:41.0664502+00:00"
 }

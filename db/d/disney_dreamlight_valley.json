@@ -5,9 +5,9 @@
   "Ranking_Rating": 132,
   "Ranking_Popularity": 146,
   "Ranking_PopularitySum": 108,
-  "Ranking_EOS_Progress": 168,
+  "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -5589,9 +5589,9 @@
       "Count": 545
     }
   ],
-  "EOS_Progressed": 13374,
+  "EOS_Progressed": 13378,
   "EOS_Completed": 331,
-  "EOS_NewPlayers": 450,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 2.47,
   "EosHistory": [
@@ -23389,6 +23389,11 @@
       "Time": "2023-12-28T17:09:18.5000302+00:00",
       "NumProgressed": 13374,
       "NumCompleted": 331
+    },
+    {
+      "Time": "2023-12-28T18:08:54.305745+00:00",
+      "NumProgressed": 13378,
+      "NumCompleted": 331
     }
   ],
   "TotalAchievements": 15,
@@ -23400,7 +23405,7 @@
       "Name": "Angler",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "Banker",
@@ -23408,7 +23413,7 @@
       "Name": "Banker",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 5082
+      "UsersEstimate": 5084
     },
     {
       "ID": "Bestest_Friend",
@@ -23416,7 +23421,7 @@
       "Name": "Bestest Friend",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 6018
+      "UsersEstimate": 6020
     },
     {
       "ID": "Chef_Cook",
@@ -23424,7 +23429,7 @@
       "Name": "Chef Cook",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 2541
+      "UsersEstimate": 2542
     },
     {
       "ID": "Chit_Chatter",
@@ -23440,7 +23445,7 @@
       "Name": "Constructor",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 6687
+      "UsersEstimate": 6689
     },
     {
       "ID": "Duty_Bound",
@@ -23456,7 +23461,7 @@
       "Name": "Gardener",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4146
+      "UsersEstimate": 4147
     },
     {
       "ID": "Generous",
@@ -23472,7 +23477,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 68,
       "XP": 75,
-      "UsersEstimate": 9094
+      "UsersEstimate": 9097
     },
     {
       "ID": "Miner",
@@ -23480,7 +23485,7 @@
       "Name": "Miner",
       "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1472
     },
     {
       "ID": "Photographer",
@@ -23488,7 +23493,7 @@
       "Name": "Photographer",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 8961
+      "UsersEstimate": 8963
     },
     {
       "ID": "Renovator",
@@ -23496,7 +23501,7 @@
       "Name": "Renovator",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 6687
+      "UsersEstimate": 6689
     },
     {
       "ID": "Thorn_Cleaner",
@@ -23504,7 +23509,7 @@
       "Name": "Thorn Cleaner",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "Valleys_Helper",
@@ -23512,14 +23517,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 8024
+      "UsersEstimate": 8027
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 13374,
+      "Progressed": 13378,
       "Completed": 331
     }
   ],
@@ -23527,8 +23532,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-12-28T16:01:19.2238059+00:00",
-  "LastChanged_Achievements": "2023-12-28T17:09:18.5000296+00:00",
+  "LastChanged_Achievements": "2023-12-28T18:08:54.3057447+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:18.7003886+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:01:47.9183309+00:00",
-  "LastUpdate_Achievements": "2023-12-28T17:09:18.5001377+00:00"
+  "LastUpdate_Ratings": "2023-12-28T18:00:16.3749157+00:00",
+  "LastUpdate_Achievements": "2023-12-28T18:08:54.3058868+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "f672c20984f04f69936e6057feefe3d1",
   "Name": "Sunless Sea",
   "ProductSlug": "sunless-sea",
-  "Ranking_Rating": 459,
+  "Ranking_Rating": 460,
   "Ranking_Popularity": 289,
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 367,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
@@ -796,9 +796,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 43097,
+  "EOS_Progressed": 43101,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 465,
+  "EOS_NewPlayers": 463,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26546,6 +26546,11 @@
       "Time": "2023-12-28T17:04:22.4402185+00:00",
       "NumProgressed": 43097,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-28T18:03:49.9895457+00:00",
+      "NumProgressed": 43101,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -26573,7 +26578,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7326
+      "UsersEstimate": 7327
     },
     {
       "ID": "ach_antiquarian10",
@@ -26677,7 +26682,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15515
+      "UsersEstimate": 15516
     },
     {
       "ID": "ach_die10",
@@ -26909,7 +26914,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7757
+      "UsersEstimate": 7758
     },
     {
       "ID": "ach_terror100",
@@ -26981,22 +26986,22 @@
       "Name": "Five Years at Zee",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     }
   ],
   "AchievementSets": [
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 43097,
+      "Progressed": 43101,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-12-24T21:57:48.6140592+00:00",
-  "LastChanged_Achievements": "2023-12-28T17:04:22.4402181+00:00",
+  "LastChanged_Achievements": "2023-12-28T18:03:49.9895454+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:10.7920736+00:00",
-  "LastUpdate_Ratings": "2023-12-28T17:00:41.0581746+00:00",
-  "LastUpdate_Achievements": "2023-12-28T17:04:22.4403894+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:59:29.9333743+00:00",
+  "LastUpdate_Achievements": "2023-12-28T18:03:49.9896668+00:00"
 }
