@@ -11,7 +11,7 @@ Rating: 4.48 (Ranked 644)
 | Hear That Roar! | 41.00% | ~1,255 |
 | Rivals to the End | 30.00% | ~918 |
 | Bitter Rivalry | 29.00% | ~887 |
-| Champagne Spray | 27.00% | ~826 |
+| Champagne Spray | 28.00% | ~857 |
 | We're Going to Need a Bigger Garage | 26.00% | ~796 |
 | Quick Pit Stop | 21.00% | ~643 |
 | Restored and Ready | 20.00% | ~612 |
@@ -55,7 +55,7 @@ Rating: 4.48 (Ranked 644)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,060 (Ranked 222)  
+Progressed: 3,060 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |

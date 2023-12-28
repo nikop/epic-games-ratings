@@ -2,10 +2,10 @@
   "ID": "b6f264421d8e41349aed0c89ebd0affc",
   "Name": "The Hand of Merlin",
   "ProductSlug": "the-hand-of-merlin",
-  "Ranking_EOS_Progress": 817,
+  "Ranking_EOS_Progress": 818,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-05-11T17:00:00+00:00",
     "PcReleaseDate": "2021-05-11T17:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:56.4154804+00:00",
   "LastChanged": "2023-03-31T05:57:56.4154805+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:49.8265832+00:00",
-  "LastUpdate_Ratings": "2023-12-28T16:03:17.1137091+00:00",
-  "LastUpdate_Achievements": "2023-12-28T16:05:54.8706715+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:03:23.1607101+00:00",
+  "LastUpdate_Achievements": "2023-12-28T17:06:47.4710413+00:00"
 }

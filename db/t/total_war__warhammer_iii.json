@@ -4,11 +4,11 @@
   "ProductSlug": "total-war-warhammer-3",
   "Ranking_Rating": 202,
   "Ranking_Popularity": 111,
-  "Ranking_PopularitySum": 107,
-  "Ranking_EOS_Progress": 817,
+  "Ranking_PopularitySum": 106,
+  "Ranking_EOS_Progress": 818,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-02-17T06:00:00+00:00",
     "PcReleaseDate": "2022-02-17T06:00:00+00:00",
@@ -9512,10 +9512,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 8274,
       "NumberOfAwardsMax": 2213
+    },
+    {
+      "Time": "2023-12-28T17:01:43.9255567+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 8278,
+      "NumberOfAwardsMax": 2213
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8274,
+  "NumberOfAwards": 8278,
   "NumberOfAwardsMax": 2213,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9565,7 +9571,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 566
+      "Count": 567
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9589,7 +9595,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 557
+      "Count": 560
     },
     {
       "Text": "This game has Challenging Combat",
@@ -9609,8 +9615,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
-  "LastChanged": "2023-12-28T13:04:31.8652789+00:00",
+  "LastChanged": "2023-12-28T17:01:43.9255565+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:17.6063393+00:00",
-  "LastUpdate_Ratings": "2023-12-28T16:01:16.3104778+00:00",
-  "LastUpdate_Achievements": "2023-12-28T16:04:41.2756962+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:01:43.9255571+00:00",
+  "LastUpdate_Achievements": "2023-12-28T17:05:12.2289588+00:00"
 }

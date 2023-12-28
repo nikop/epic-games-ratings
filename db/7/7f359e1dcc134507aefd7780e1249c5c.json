@@ -2,10 +2,10 @@
   "ID": "7f359e1dcc134507aefd7780e1249c5c",
   "Name": "Scaryy Bingo",
   "ProductSlug": "scaryy-bingo-ff2866",
-  "Ranking_EOS_Progress": 817,
+  "Ranking_EOS_Progress": 818,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-27T08:00:00+00:00",
     "PcReleaseDate": "2023-12-27T08:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-26T03:04:20.7560548+00:00",
-  "LastChanged_Achievements": "2023-12-28T16:04:48.1183723+00:00",
+  "LastChanged_Achievements": "2023-12-28T17:05:21.1084431+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:05.5059552+00:00",
-  "LastUpdate_Ratings": "2023-12-28T15:58:51.5090924+00:00",
-  "LastUpdate_Achievements": "2023-12-28T16:04:48.1183756+00:00"
+  "LastUpdate_Ratings": "2023-12-28T16:59:07.0720199+00:00",
+  "LastUpdate_Achievements": "2023-12-28T17:05:21.1084478+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16937,
+  "EOS_Progressed": 16951,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1490,
+  "EOS_NewPlayers": 1491,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10484,6 +10484,11 @@
       "Time": "2023-12-28T16:06:47.051702+00:00",
       "NumProgressed": 16937,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T17:07:41.6683409+00:00",
+      "NumProgressed": 16951,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -10520,7 +10525,7 @@
       "Name": "Liminal Hotel",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_LEVEL974",
@@ -10536,7 +10541,7 @@
       "Name": "MEG",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_RUNFORYOURLIFE",
@@ -10576,7 +10581,7 @@
       "Name": "End?",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_WINELECTRICALSTATION",
@@ -10584,7 +10589,7 @@
       "Name": "Electric",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -10592,7 +10597,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 4404
+      "UsersEstimate": 4407
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -10600,7 +10605,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2032
+      "UsersEstimate": 2034
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -10608,7 +10613,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1865
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -10616,7 +10621,7 @@
       "Name": "Poolrooms",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ACH_WINLEVEL4",
@@ -10624,7 +10629,7 @@
       "Name": "Management",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "ACH_WINLEVEL404",
@@ -10640,7 +10645,7 @@
       "Name": "Terror",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "ACH_WINLEVEL69",
@@ -10656,7 +10661,7 @@
       "Name": "Motion",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ACH_WINLEVEL9999999",
@@ -10680,21 +10685,21 @@
       "Name": "Lights Out",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     }
   ],
   "AchievementSets": [
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 16937,
+      "Progressed": 16951,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-12-28T16:06:47.0517017+00:00",
+  "LastChanged_Achievements": "2023-12-28T17:07:41.6683405+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:06.2356641+00:00",
-  "LastUpdate_Ratings": "2023-12-28T16:02:53.5523494+00:00",
-  "LastUpdate_Achievements": "2023-12-28T16:06:47.0517694+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:02:55.5215263+00:00",
+  "LastUpdate_Achievements": "2023-12-28T17:07:41.6684112+00:00"
 }

@@ -30,9 +30,9 @@
 | Friend of Connach | 14.00% | ~13 |
 | Friend of Gillyshire | 13.00% | ~12 |
 | Philo's Tale | 12.00% | ~11 |
+| Friend of Silver Drift Hollow | 12.00% | ~11 |
 | Stormwatch Faste | 11.00% | ~10 |
 | Friend of Orgash | 11.00% | ~10 |
-| Friend of Silver Drift Hollow | 11.00% | ~10 |
 | Friend of Bastion | 11.00% | ~10 |
 | Magic Academy | 11.00% | ~10 |
 | Mage Teacher | 10.00% | ~9 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90 (Ranked 494)  
+Progressed: 90 (Ranked 495)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -2,13 +2,13 @@
   "ID": "5f7c811695f14b8fa3a8e1ea35713d23",
   "Name": "Batman Arkham Asylum Game of the Year Edition",
   "ProductSlug": "batman-arkham-asylum",
-  "Ranking_Rating": 281,
+  "Ranking_Rating": 259,
   "Ranking_Popularity": 190,
   "Ranking_PopularitySum": 304,
-  "Ranking_EOS_Progress": 817,
+  "Ranking_EOS_Progress": 818,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2010-03-26T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.68,
   "NumberOfRatings": 2164,
   "RatingHistory": [
     {
@@ -1120,18 +1120,24 @@
       "Rating": 4.67,
       "NumberOfAwards": 711,
       "NumberOfAwardsMax": 711
+    },
+    {
+      "Time": "2023-12-28T16:57:21.818459+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 712,
+      "NumberOfAwardsMax": 712
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 711,
-  "NumberOfAwardsMax": 711,
+  "NumberOfAwards": 712,
+  "NumberOfAwardsMax": 712,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 711
+      "Count": 712
     }
   ],
   "EOS_Progressed": 0,
@@ -1145,8 +1151,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:33.3768867+00:00",
-  "LastChanged": "2023-12-27T17:03:07.439+00:00",
+  "LastChanged": "2023-12-28T16:57:21.8184588+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.8371686+00:00",
-  "LastUpdate_Ratings": "2023-12-28T15:57:27.9630142+00:00",
-  "LastUpdate_Achievements": "2023-12-28T16:05:51.8806758+00:00"
+  "LastUpdate_Ratings": "2023-12-28T16:57:21.8184593+00:00",
+  "LastUpdate_Achievements": "2023-12-28T17:06:43.2704572+00:00"
 }

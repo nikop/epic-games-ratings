@@ -2,10 +2,10 @@
   "ID": "e18be81f77f346dfbc4467f4ed715e27",
   "Name": "Blanc",
   "ProductSlug": "blanc-703b40",
-  "Ranking_EOS_Progress": 212,
+  "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3774,
+  "EOS_Progressed": 3777,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
@@ -6161,6 +6161,11 @@
       "Time": "2023-12-28T16:05:09.8532692+00:00",
       "NumProgressed": 3774,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-28T17:05:48.9479668+00:00",
+      "NumProgressed": 3777,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -6180,7 +6185,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "FALLEN_TREE",
@@ -6188,7 +6193,7 @@
       "Name": "Sheltered by the fallen tree",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "HELPING_LITTLE_ONES",
@@ -6196,7 +6201,7 @@
       "Name": "Helping the little ones",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "MOVE_ON",
@@ -6236,7 +6241,7 @@
       "Name": "Starting as a duo",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -6252,7 +6257,7 @@
       "Name": "The end",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "TRANSMISSION",
@@ -6275,7 +6280,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3774,
+      "Progressed": 3777,
       "Completed": 6
     }
   ],
@@ -6283,8 +6288,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-28T16:05:09.8532688+00:00",
+  "LastChanged_Achievements": "2023-12-28T17:05:48.9479665+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:05.8784684+00:00",
-  "LastUpdate_Ratings": "2023-12-28T16:00:45.1729349+00:00",
-  "LastUpdate_Achievements": "2023-12-28T16:05:09.8533125+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:01:10.3988489+00:00",
+  "LastUpdate_Achievements": "2023-12-28T17:05:48.9480073+00:00"
 }

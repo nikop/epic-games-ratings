@@ -5,10 +5,10 @@
   "Ranking_Rating": 1022,
   "Ranking_Popularity": 478,
   "Ranking_PopularitySum": 445,
-  "Ranking_EOS_Progress": 209,
+  "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -685,9 +685,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3905,
+  "EOS_Progressed": 3906,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 299,
+  "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11105,6 +11105,11 @@
       "Time": "2023-12-28T16:04:46.5420789+00:00",
       "NumProgressed": 3905,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-28T17:05:18.9302439+00:00",
+      "NumProgressed": 3906,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -11212,7 +11217,7 @@
       "Name": "Doing My Part",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "dragonclicker",
@@ -11282,9 +11287,9 @@
       "ID": "enlightenment",
       "SetID": "3nl4bcg",
       "Name": "Enlightenment",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 508
+      "UsersEstimate": 547
     },
     {
       "ID": "exoticmerchant",
@@ -11300,7 +11305,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "fourleafclover",
@@ -11324,7 +11329,7 @@
       "Name": "Full Party",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "gearenchanting",
@@ -11362,9 +11367,9 @@
       "ID": "heroinspection",
       "SetID": "3nl4bcg",
       "Name": "Hero inspection",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 508
+      "UsersEstimate": 547
     },
     {
       "ID": "howdoyouturnthison",
@@ -11380,7 +11385,7 @@
       "Name": "Hunter",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "inspection",
@@ -11540,7 +11545,7 @@
       "Name": "Scientist",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "scrollmaster",
@@ -11612,7 +11617,7 @@
       "Name": "The power of Awakening",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "theunstoppable",
@@ -11676,7 +11681,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3632
+      "UsersEstimate": 3633
     },
     {
       "ID": "warmachinesarmy",
@@ -11708,14 +11713,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3046
+      "UsersEstimate": 3047
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3905,
+      "Progressed": 3906,
       "Completed": 2
     }
   ],
@@ -11723,8 +11728,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-28T06:57:57.303096+00:00",
-  "LastChanged_Achievements": "2023-12-28T16:04:46.5420785+00:00",
+  "LastChanged_Achievements": "2023-12-28T17:05:18.9302436+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:54.8970424+00:00",
-  "LastUpdate_Ratings": "2023-12-28T15:58:31.5801969+00:00",
-  "LastUpdate_Achievements": "2023-12-28T16:04:46.5421783+00:00"
+  "LastUpdate_Ratings": "2023-12-28T16:58:43.3748012+00:00",
+  "LastUpdate_Achievements": "2023-12-28T17:05:18.9303701+00:00"
 }

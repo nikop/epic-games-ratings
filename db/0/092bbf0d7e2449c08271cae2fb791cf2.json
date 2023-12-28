@@ -2,7 +2,7 @@
   "ID": "092bbf0d7e2449c08271cae2fb791cf2",
   "Name": "CHUCHEL",
   "ProductSlug": "chuchel-203808",
-  "Ranking_EOS_Progress": 373,
+  "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 80,
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 330,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -1123,9 +1123,9 @@
       "ID": "ach4",
       "SetID": "796kfpa",
       "Name": "Three Caps",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 140,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "ach5",
@@ -1162,8 +1162,8 @@
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-12-28T16:05:30.0909494+00:00",
+  "LastChanged_Achievements": "2023-12-28T17:06:15.1522021+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:07.636228+00:00",
-  "LastUpdate_Ratings": "2023-12-28T16:00:38.0005154+00:00",
-  "LastUpdate_Achievements": "2023-12-28T16:05:30.0909615+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:01:03.7730906+00:00",
+  "LastUpdate_Achievements": "2023-12-28T17:06:15.1522159+00:00"
 }

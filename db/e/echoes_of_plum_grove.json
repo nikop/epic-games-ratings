@@ -2,10 +2,10 @@
   "ID": "8f5a6f004cdd43ec99b8fd9afa66cc43",
   "Name": "Echoes of Plum Grove",
   "ProductSlug": "echoes-of-plum-grove-bf886b",
-  "Ranking_EOS_Progress": 817,
+  "Ranking_EOS_Progress": 818,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-23T23:57:13.6064194+00:00",
-  "LastUpdate_Ratings": "2023-12-28T15:59:42.5438225+00:00",
-  "LastUpdate_Achievements": "2023-12-28T16:05:47.9531468+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:00:14.4553174+00:00",
+  "LastUpdate_Achievements": "2023-12-28T17:06:38.5507156+00:00"
 }

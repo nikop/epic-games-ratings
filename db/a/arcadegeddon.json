@@ -5,10 +5,10 @@
   "Ranking_Rating": 627,
   "Ranking_Popularity": 419,
   "Ranking_PopularitySum": 338,
-  "Ranking_EOS_Progress": 177,
+  "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
     "PcReleaseDate": "2021-07-08T21:30:00+00:00",
@@ -832,9 +832,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 10154,
+  "EOS_Progressed": 10155,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13447,6 +13447,11 @@
       "Time": "2023-12-28T16:06:49.8201931+00:00",
       "NumProgressed": 10154,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-28T17:07:45.1628882+00:00",
+      "NumProgressed": 10155,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 50,
@@ -13466,7 +13471,7 @@
       "Name": "Booty Bashing",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 3655
+      "UsersEstimate": 3656
     },
     {
       "ID": "ACH_BOSS_OF_BOSSES",
@@ -13514,7 +13519,7 @@
       "Name": "Field Medic",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 3655
+      "UsersEstimate": 3656
     },
     {
       "ID": "ACH_GET_FURIOUS",
@@ -13562,7 +13567,7 @@
       "Name": "Gunplay And Cosplay",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 5280
+      "UsersEstimate": 5281
     },
     {
       "ID": "ACH_HACKS_IN_STACKS",
@@ -13602,7 +13607,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 8732
+      "UsersEstimate": 8733
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -13658,7 +13663,7 @@
       "Name": "Photogenic",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 8428
+      "UsersEstimate": 8429
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -13666,7 +13671,7 @@
       "Name": "Playing With Power",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7311
+      "UsersEstimate": 7312
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -13682,7 +13687,7 @@
       "Name": "Poppin Noggins",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2335
+      "UsersEstimate": 2336
     },
     {
       "ID": "ACH_PYROTECHNICAL",
@@ -13698,7 +13703,7 @@
       "Name": "Rapid Response",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 3249
+      "UsersEstimate": 3250
     },
     {
       "ID": "ACH_RESCUE_RANGER",
@@ -13850,22 +13855,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 5483
+      "UsersEstimate": 5484
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 10154,
+      "Progressed": 10155,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-12-06T04:01:07.9880717+00:00",
-  "LastChanged_Achievements": "2023-12-28T16:06:49.8201928+00:00",
+  "LastChanged_Achievements": "2023-12-28T17:07:45.1628878+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:27.6113768+00:00",
-  "LastUpdate_Ratings": "2023-12-28T16:02:46.7277463+00:00",
-  "LastUpdate_Achievements": "2023-12-28T16:06:49.820268+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:02:08.828921+00:00",
+  "LastUpdate_Achievements": "2023-12-28T17:07:45.1629837+00:00"
 }

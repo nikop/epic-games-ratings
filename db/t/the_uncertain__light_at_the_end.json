@@ -5,10 +5,10 @@
   "Ranking_Rating": 1062,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 322,
+  "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -83,7 +83,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 620,
+  "EOS_Progressed": 621,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
@@ -1168,6 +1168,11 @@
       "Time": "2023-12-28T16:04:46.195146+00:00",
       "NumProgressed": 620,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-28T17:05:18.4699188+00:00",
+      "NumProgressed": 621,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1187,7 +1192,7 @@
       "Name": "Identity Theft",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Butterfly",
@@ -1211,7 +1216,7 @@
       "Name": "Mind the Gap",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Echoes",
@@ -1283,7 +1288,7 @@
       "Name": "F is for Feline",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Investigative",
@@ -1307,7 +1312,7 @@
       "Name": "A Trip to Remember",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "MISSING_DATA",
@@ -1315,7 +1320,7 @@
       "Name": "Does Not Compute",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Misanthrope",
@@ -1410,7 +1415,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 620,
+      "Progressed": 621,
       "Completed": 6
     }
   ],
@@ -1418,8 +1423,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-12-28T16:04:46.1951456+00:00",
+  "LastChanged_Achievements": "2023-12-28T17:05:18.4699184+00:00",
   "LastUpdate_AppInfo": "2023-12-23T18:56:53.9595967+00:00",
-  "LastUpdate_Ratings": "2023-12-28T16:03:36.0287184+00:00",
-  "LastUpdate_Achievements": "2023-12-28T16:04:46.1951649+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:03:47.1918887+00:00",
+  "LastUpdate_Achievements": "2023-12-28T17:05:18.4699403+00:00"
 }

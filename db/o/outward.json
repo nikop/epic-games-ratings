@@ -5,10 +5,10 @@
   "Ranking_Rating": 517,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 399,
-  "Ranking_EOS_Progress": 204,
+  "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4307,
+  "EOS_Progressed": 4312,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -7191,6 +7191,11 @@
       "Time": "2023-12-28T16:04:16.8220531+00:00",
       "NumProgressed": 4307,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-28T17:04:41.3002582+00:00",
+      "NumProgressed": 4312,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7202,7 +7207,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "AceDetective_9",
@@ -7226,7 +7231,7 @@
       "Name": "Apex Predator",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "BloodAndJustice_50",
@@ -7234,7 +7239,7 @@
       "Name": "Blood and justice",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "CordonBleu_28",
@@ -7242,7 +7247,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1766
+      "UsersEstimate": 1768
     },
     {
       "ID": "CrowdPleaser",
@@ -7258,7 +7263,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "Eureka_23",
@@ -7266,7 +7271,7 @@
       "Name": "Eureka",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1294
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -7274,7 +7279,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 904
+      "UsersEstimate": 906
     },
     {
       "ID": "ForAllAurai_8",
@@ -7290,7 +7295,7 @@
       "Name": "Gift from the Ancestors",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "HoldmyMeadandWatchThis_43",
@@ -7298,7 +7303,7 @@
       "Name": "Hold my Mead and Watch This",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "HomeSweetHome_25",
@@ -7306,7 +7311,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 904
+      "UsersEstimate": 906
     },
     {
       "ID": "HouseofCards_19",
@@ -7314,7 +7319,7 @@
       "Name": "House of Cards",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "LegacyOfaMasterHunter_55",
@@ -7330,7 +7335,7 @@
       "Name": "Let \u2018em eat magma!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "LightofLevant_18",
@@ -7386,7 +7391,7 @@
       "Name": "Ready for Summer",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2110
+      "UsersEstimate": 2113
     },
     {
       "ID": "ReadyforWinter_42",
@@ -7394,7 +7399,7 @@
       "Name": "Ready for Winter",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2670
+      "UsersEstimate": 2673
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -7402,7 +7407,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -7410,7 +7415,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -7426,7 +7431,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1509
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -7450,7 +7455,7 @@
       "Name": "The power of ambition",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ThePowerofFaith_4",
@@ -7466,7 +7471,7 @@
       "Name": "The Power of Family",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -7482,7 +7487,7 @@
       "Name": "The stuff of legends.",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "TheyllTellStoriesAboutThis_35",
@@ -7522,7 +7527,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3144
+      "UsersEstimate": 3148
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7537,15 +7542,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4307,
+      "Progressed": 4312,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-28T16:04:16.822053+00:00",
+  "LastChanged_Achievements": "2023-12-28T17:04:41.3002581+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.9488093+00:00",
-  "LastUpdate_Ratings": "2023-12-28T16:03:11.8480043+00:00",
-  "LastUpdate_Achievements": "2023-12-28T16:04:16.8221004+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:03:16.972115+00:00",
+  "LastUpdate_Achievements": "2023-12-28T17:04:41.3003083+00:00"
 }

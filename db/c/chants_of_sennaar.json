@@ -5,7 +5,7 @@
   "Ranking_Rating": 17,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 240,
+  "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 70,
   "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 10,
@@ -79,11 +79,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1941,
+  "EOS_Progressed": 1943,
   "EOS_Completed": 117,
-  "EOS_NewPlayers": 439,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 37,
-  "EOS_Completed_Percentage": 6.03,
+  "EOS_Completed_Percentage": 6.02,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -5559,6 +5559,11 @@
       "Time": "2023-12-28T16:05:17.3869455+00:00",
       "NumProgressed": 1941,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-12-28T17:05:58.447951+00:00",
+      "NumProgressed": 1943,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 25,
@@ -5594,7 +5599,7 @@
       "Name": "Cable guy",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "META_FIRST_LINK",
@@ -5610,7 +5615,7 @@
       "Name": "Half the way",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "META_RESULT_1-2",
@@ -5634,7 +5639,7 @@
       "Name": "Feels like springtime",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "META_RESULT_2-3",
@@ -5666,7 +5671,7 @@
       "Name": "Alchemists Express",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -5674,7 +5679,7 @@
       "Name": "Rascal",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -5682,7 +5687,7 @@
       "Name": "True G3M4R",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -5690,7 +5695,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -5714,15 +5719,15 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 543
+      "UsersEstimate": 563
     },
     {
       "ID": "PROGRESS_N1",
@@ -5730,7 +5735,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "PROGRESS_N2",
@@ -5738,7 +5743,7 @@
       "Name": "The great escape",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "PROGRESS_N3",
@@ -5754,7 +5759,7 @@
       "Name": "The darkness",
       "Percentage": 27,
       "XP": 60,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "PROGRESS_N5",
@@ -5762,14 +5767,14 @@
       "Name": "One last step",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1941,
+      "Progressed": 1943,
       "Completed": 117
     }
   ],
@@ -5777,8 +5782,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-28T06:58:32.2175131+00:00",
-  "LastChanged_Achievements": "2023-12-28T16:05:17.3869452+00:00",
+  "LastChanged_Achievements": "2023-12-28T17:05:58.4479506+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-28T15:59:11.2111688+00:00",
-  "LastUpdate_Achievements": "2023-12-28T16:05:17.3869846+00:00"
+  "LastUpdate_Ratings": "2023-12-28T16:59:33.798592+00:00",
+  "LastUpdate_Achievements": "2023-12-28T17:05:58.4479907+00:00"
 }

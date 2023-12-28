@@ -2,10 +2,10 @@
   "ID": "61f59d5d7e054ba7964ba6364772a31c",
   "Name": "King of Avalon",
   "ProductSlug": "king-of-avalon-113d24",
-  "Ranking_EOS_Progress": 817,
+  "Ranking_EOS_Progress": 818,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-06T06:30:00+00:00",
     "PcReleaseDate": "2023-12-08T09:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-06T19:57:30.3320089+00:00",
   "LastUpdate_AppInfo": "2023-12-27T07:56:54.018188+00:00",
-  "LastUpdate_Ratings": "2023-12-28T15:00:44.5561895+00:00",
-  "LastUpdate_Achievements": "2023-12-28T16:06:24.7994563+00:00"
+  "LastUpdate_Ratings": "2023-12-28T16:57:10.5984263+00:00",
+  "LastUpdate_Achievements": "2023-12-28T17:07:12.9531063+00:00"
 }

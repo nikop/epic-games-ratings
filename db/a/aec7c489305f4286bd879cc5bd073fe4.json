@@ -2,10 +2,10 @@
   "ID": "aec7c489305f4286bd879cc5bd073fe4",
   "Name": "Bird of Paradise",
   "ProductSlug": "bird-of-paradise-3264fc",
-  "Ranking_EOS_Progress": 817,
+  "Ranking_EOS_Progress": 818,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-30T00:00:00+00:00",
     "PcReleaseDate": "2024-01-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-26T20:57:06.3906983+00:00",
-  "LastUpdate_Ratings": "2023-12-28T15:58:21.0828931+00:00",
-  "LastUpdate_Achievements": "2023-12-28T16:08:53.9384284+00:00"
+  "LastUpdate_Ratings": "2023-12-28T16:58:28.8217058+00:00",
+  "LastUpdate_Achievements": "2023-12-28T17:08:53.860404+00:00"
 }

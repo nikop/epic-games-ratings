@@ -27,7 +27,7 @@ Rating: 4.30 (Ranked 861)
 | Lockdown Leader | 0.50% | ~21 |
 | The Fortress | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,212 (Ranked 205)  
+Progressed: 4,212 (Ranked 206)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |

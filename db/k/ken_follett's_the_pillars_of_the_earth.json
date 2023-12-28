@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17461,
+  "EOS_Progressed": 17462,
   "EOS_Completed": 122,
   "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 3,
@@ -17215,6 +17215,11 @@
       "Time": "2023-12-28T16:03:47.6506961+00:00",
       "NumProgressed": 17461,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-12-28T17:04:03.7792993+00:00",
+      "NumProgressed": 17462,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 41,
@@ -17394,7 +17399,7 @@
       "Name": "Skilled merchant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1572
     },
     {
       "ID": "tpote_achievement_3",
@@ -17458,7 +17463,7 @@
       "Name": "Brother Marcus",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1572
     },
     {
       "ID": "tpote_achievement_37",
@@ -17482,7 +17487,7 @@
       "Name": "The oath",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1572
     },
     {
       "ID": "tpote_achievement_4",
@@ -17490,7 +17495,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6984
+      "UsersEstimate": 6985
     },
     {
       "ID": "tpote_achievement_40",
@@ -17498,7 +17503,7 @@
       "Name": "The truth revealed",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1572
     },
     {
       "ID": "tpote_achievement_41",
@@ -17506,7 +17511,7 @@
       "Name": "The End.",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1572
     },
     {
       "ID": "tpote_achievement_5",
@@ -17553,15 +17558,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17461,
+      "Progressed": 17462,
       "Completed": 122
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-28T16:03:47.6506955+00:00",
+  "LastChanged_Achievements": "2023-12-28T17:04:03.7792988+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.265609+00:00",
-  "LastUpdate_Ratings": "2023-12-28T16:00:03.0157288+00:00",
-  "LastUpdate_Achievements": "2023-12-28T16:03:47.6508342+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:00:44.6236402+00:00",
+  "LastUpdate_Achievements": "2023-12-28T17:04:03.7794213+00:00"
 }

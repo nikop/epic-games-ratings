@@ -5,10 +5,10 @@
   "Ranking_Rating": 654,
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 375,
-  "Ranking_EOS_Progress": 197,
+  "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -848,7 +848,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5878,
+  "EOS_Progressed": 5880,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
@@ -12003,6 +12003,11 @@
       "Time": "2023-12-28T16:04:14.8935388+00:00",
       "NumProgressed": 5878,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-28T17:04:38.9175756+00:00",
+      "NumProgressed": 5880,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12063,7 +12068,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -12071,7 +12076,7 @@
       "Name": "First Strike",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -12103,7 +12108,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -12111,7 +12116,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -12198,15 +12203,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5878,
+      "Progressed": 5880,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2023-12-28T16:04:14.8935385+00:00",
+  "LastChanged_Achievements": "2023-12-28T17:04:38.9175752+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:25.4849752+00:00",
-  "LastUpdate_Ratings": "2023-12-28T16:00:23.6464166+00:00",
-  "LastUpdate_Achievements": "2023-12-28T16:04:14.8936084+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:00:55.7507087+00:00",
+  "LastUpdate_Achievements": "2023-12-28T17:04:38.917645+00:00"
 }

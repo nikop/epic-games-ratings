@@ -2,10 +2,10 @@
   "ID": "552a139c67e949ea8f8ea9a1d9d81cdb",
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
-  "Ranking_EOS_Progress": 249,
+  "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1700,
+  "EOS_Progressed": 1702,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4167,6 +4167,11 @@
       "Time": "2023-12-28T16:03:52.3624522+00:00",
       "NumProgressed": 1700,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-28T17:04:09.9205645+00:00",
+      "NumProgressed": 1702,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4395,7 +4400,7 @@
       "Name": "Can you keep a secret?",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ML_ACHIEVEMENT_29",
@@ -4483,7 +4488,7 @@
       "Name": "Tools of the trade",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -4546,20 +4551,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1700,
+      "Progressed": 1702,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1368,
+      "Progressed": 1370,
       "Completed": 1004
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-28T16:03:52.3624521+00:00",
+  "LastChanged_Achievements": "2023-12-28T17:04:09.9205641+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2023-12-28T15:00:43.1372113+00:00",
-  "LastUpdate_Achievements": "2023-12-28T16:03:52.3624974+00:00"
+  "LastUpdate_Ratings": "2023-12-28T16:57:09.5091995+00:00",
+  "LastUpdate_Achievements": "2023-12-28T17:04:09.9206137+00:00"
 }

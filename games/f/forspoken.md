@@ -5,8 +5,8 @@ Rating: 4.12 (Ranked 992)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 11.00% | ~5,005 |
-| Unlocked Potential | 10.00% | ~4,550 |
+| Attachments | 11.00% | ~5,006 |
+| Unlocked Potential | 10.00% | ~4,551 |
 | Tinkerer | 8.00% | ~3,640 |
 | Leapfrogger | 7.00% | ~3,185 |
 | Knock 'Em Dead | 7.00% | ~3,185 |
@@ -34,32 +34,32 @@ Rating: 4.12 (Ranked 992)
 | None the Wiser | 1.00% | ~455 |
 | Forspoken | 1.00% | ~455 |
 | Pilgrimage: Novice | 1.00% | ~455 |
-| Wildfire | 0.70% | ~318 |
-| Realized Potential | 0.70% | ~318 |
+| Wildfire | 0.70% | ~319 |
+| Realized Potential | 0.70% | ~319 |
 | Awakening | 0.60% | ~273 |
 | Explorer: Trailblazer | 0.60% | ~273 |
 | Through the Eyes of Another: Seer | 0.40% | ~182 |
-| Archivist | 0.30% | ~136 |
-| Craftsperson | 0.30% | ~136 |
-| Tit for Tat | 0.30% | ~136 |
-| Promises | 0.30% | ~136 |
+| Archivist | 0.30% | ~137 |
+| Craftsperson | 0.30% | ~137 |
+| Tit for Tat | 0.30% | ~137 |
+| Promises | 0.30% | ~137 |
 | Paragon | 0.20% | ~91 |
 | Pilgrimage: Adept | 0.20% | ~91 |
 | Call of the Fount: Beatified | 0.20% | ~91 |
 | I Can Fly! | 0.20% | ~91 |
 | A Roaring Trade | 0.20% | ~91 |
 | Rebirth | 0.20% | ~91 |
-| Abominizer | 0.10% | ~45 |
-| Through the Eyes of Another: Visionary | 0.10% | ~45 |
-| Kit and Caboodle | 0.10% | ~45 |
-| Above and Beyond | 0.10% | ~45 |
-| Happy Snapper | 0.10% | ~45 |
-| Barely There | 0.10% | ~45 |
-| Moves | 0.10% | ~45 |
-| Remembrance | 0.10% | ~45 |
-| Cat Person | 0.10% | ~45 |
+| Abominizer | 0.10% | ~46 |
+| Through the Eyes of Another: Visionary | 0.10% | ~46 |
+| Kit and Caboodle | 0.10% | ~46 |
+| Above and Beyond | 0.10% | ~46 |
+| Happy Snapper | 0.10% | ~46 |
+| Barely There | 0.10% | ~46 |
+| Moves | 0.10% | ~46 |
+| Remembrance | 0.10% | ~46 |
+| Cat Person | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,499 (Ranked 121)  
+Progressed: 45,506 (Ranked 121)  
 Completed: 3 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 3 (0.01%) (Ranked 367)
 | 2023-12-25 | 45,221 | 3 |
 | 2023-12-26 | 45,329 | 3 |
 | 2023-12-27 | 45,433 | 3 |
-| 2023-12-28 | 45,499 | 3 |
+| 2023-12-28 | 45,506 | 3 |
 ## Awards
 Max (Character Customization): 33  (Ranked 506)  
 Sum: 33 (Ranked 529)  

@@ -2,10 +2,10 @@
   "ID": "c841cfc229e74ac3acc08a0ae117f9c8",
   "Name": "Ravenswatch",
   "ProductSlug": "ravenswatch-b0115d",
-  "Ranking_EOS_Progress": 817,
+  "Ranking_EOS_Progress": 818,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-24T01:46:31.3209614+00:00",
-  "LastUpdate_Ratings": "2023-12-28T16:01:24.4214415+00:00",
-  "LastUpdate_Achievements": "2023-12-28T16:04:24.4504704+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:01:55.6376911+00:00",
+  "LastUpdate_Achievements": "2023-12-28T17:04:51.3512525+00:00"
 }

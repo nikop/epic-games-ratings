@@ -2,10 +2,10 @@
   "ID": "e25f3f1b1a3c4f3d902faf3eed3f0999",
   "Name": "Eternal Kingdom Battle Peak",
   "ProductSlug": "eternal-d70f99",
-  "Ranking_EOS_Progress": 817,
+  "Ranking_EOS_Progress": 818,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-02-07T15:30:00+00:00",
     "PcReleaseDate": "2020-12-14T15:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:58:25.9399861+00:00",
   "LastChanged": "2023-03-31T05:58:25.9399863+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:39.339525+00:00",
-  "LastUpdate_Ratings": "2023-12-28T15:59:32.4573462+00:00",
-  "LastUpdate_Achievements": "2023-12-28T16:06:26.6599439+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:00:02.2721407+00:00",
+  "LastUpdate_Achievements": "2023-12-28T17:07:15.2924119+00:00"
 }

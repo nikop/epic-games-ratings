@@ -1,51 +1,51 @@
 # Goat Simulator 3
 [Store](https://store.epicgames.com/en-US/p/goat-simulator-3)  
 [View Rawdata](../../db/g/goat_simulator_3.json)  
-Rating: 4.83 (Ranked 58)  
+Rating: 4.83 (Ranked 57)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~238,465 |
-| Private Club | 73.00% | ~191,296 |
-| Rogue Guild | 65.00% | ~170,332 |
-| I Watched the Intro | 57.00% | ~149,368 |
-| Covert Consortium | 54.00% | ~141,506 |
-| Goat Queen | 53.00% | ~138,886 |
-| Reach the Stratosphere | 50.00% | ~131,024 |
-| Synchronization Complete | 47.00% | ~123,163 |
-| Secret Society | 44.00% | ~115,302 |
-| Shadow Syndicate | 37.00% | ~96,958 |
-| What a Waste of Money | 33.00% | ~86,476 |
-| New Goat Order | 30.00% | ~78,615 |
-| Don't touch the servers | 28.00% | ~73,374 |
-| Real Buoy | 27.00% | ~70,753 |
-| San Angora: Become Human | 26.00% | ~68,133 |
-| Raider of the Lost Parking Garage | 26.00% | ~68,133 |
-| Welcome to Earth | 25.00% | ~65,512 |
-| Egg Simulator | 19.00% | ~49,789 |
-| Into the Matrix | 19.00% | ~49,789 |
-| Where is It? | 17.00% | ~44,548 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~39,307 |
-| 401(K.O.) | 15.00% | ~39,307 |
-| Black Market | 14.00% | ~36,687 |
-| Car Cave | 12.00% | ~31,446 |
-| Club Mohair | 8.00% | ~20,964 |
-| A Center for Ants? | 8.00% | ~20,964 |
-| French Fika | 7.00% | ~18,343 |
-| Nasty! | 5.00% | ~13,102 |
-| Who Baywatches the Baywatch? | 4.00% | ~10,482 |
-| [REDACTED] | 4.00% | ~10,482 |
+| Forgotten Sorority | 91.00% | ~238,482 |
+| Private Club | 73.00% | ~191,310 |
+| Rogue Guild | 65.00% | ~170,344 |
+| I Watched the Intro | 57.00% | ~149,379 |
+| Covert Consortium | 54.00% | ~141,517 |
+| Goat Queen | 53.00% | ~138,896 |
+| Reach the Stratosphere | 50.00% | ~131,034 |
+| Synchronization Complete | 47.00% | ~123,172 |
+| Secret Society | 44.00% | ~115,310 |
+| Shadow Syndicate | 37.00% | ~96,965 |
+| What a Waste of Money | 33.00% | ~86,482 |
+| New Goat Order | 30.00% | ~78,620 |
+| Don't touch the servers | 28.00% | ~73,379 |
+| Real Buoy | 27.00% | ~70,758 |
+| San Angora: Become Human | 26.00% | ~68,138 |
+| Raider of the Lost Parking Garage | 26.00% | ~68,138 |
+| Welcome to Earth | 25.00% | ~65,517 |
+| Egg Simulator | 19.00% | ~49,793 |
+| Into the Matrix | 19.00% | ~49,793 |
+| Where is It? | 17.00% | ~44,552 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~39,310 |
+| 401(K.O.) | 15.00% | ~39,310 |
+| Black Market | 14.00% | ~36,690 |
+| Car Cave | 12.00% | ~31,448 |
+| Club Mohair | 8.00% | ~20,965 |
+| A Center for Ants? | 8.00% | ~20,965 |
+| French Fika | 7.00% | ~18,345 |
+| Nasty! | 5.00% | ~13,103 |
+| Who Baywatches the Baywatch? | 4.00% | ~10,483 |
+| [REDACTED] | 4.00% | ~10,483 |
 | Cannibanana | 2.00% | ~5,241 |
 | Daredevil | 2.00% | ~5,241 |
-| Crocsquatch | 1.00% | ~2,620 |
-| You Trusted Your Instincts | 1.00% | ~2,620 |
-| Certified Fresh | 1.00% | ~2,620 |
-| Streaking | 1.00% | ~2,620 |
-| Try Hard 2 | 1.00% | ~2,620 |
+| Crocsquatch | 1.00% | ~2,621 |
+| You Trusted Your Instincts | 1.00% | ~2,621 |
+| Certified Fresh | 1.00% | ~2,621 |
+| Streaking | 1.00% | ~2,621 |
+| Try Hard 2 | 1.00% | ~2,621 |
 | Move! That! Bus! | 0.60% | ~1,572 |
 | G.O.A.T | 0.40% | ~1,048 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 262,049 (Ranked 63)  
+Progressed: 262,068 (Ranked 63)  
 Completed: 922 (0.35%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,15 +297,15 @@ Completed: 922 (0.35%) (Ranked 238)
 | 2023-12-25 | 260,833 | 920 |
 | 2023-12-26 | 261,326 | 920 |
 | 2023-12-27 | 261,742 | 920 |
-| 2023-12-28 | 262,049 | 922 |
+| 2023-12-28 | 262,068 | 922 |
 ## Awards
 Max (Great for Beginners): 524  (Ranked 216)  
-Sum: 4,226 (Ranked 156)  
+Sum: 4,228 (Ranked 156)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 524 |
-| This game has Diverse Characters | 480 |
+| This game has Diverse Characters | 482 |
 | This game is Highly Recommended | 450 |
 | This game has Amazing Characters | 424 |
 | This game is Extremely Fun | 408 |
@@ -593,4 +593,4 @@ Diff (max vs sum): 60
 | 2023-12-25 | 4.83 | 519 | 4,206 |
 | 2023-12-26 | 4.83 | 521 | 4,211 |
 | 2023-12-27 | 4.83 | 521 | 4,215 |
-| 2023-12-28 | 4.83 | 524 | 4,226 |
+| 2023-12-28 | 4.83 | 524 | 4,228 |

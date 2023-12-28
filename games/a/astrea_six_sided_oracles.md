@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meissa's Savior | 80.00% | ~209 |
-| Purification Pioneer | 75.00% | ~196 |
+| Purification Pioneer | 76.00% | ~198 |
 | Mechanical Buddy | 71.00% | ~185 |
 | Dicesmithing Time! | 62.00% | ~162 |
 | Sanctuary Guardian | 54.00% | ~141 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 261 (Ranked 395)  
+Progressed: 261 (Ranked 396)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |

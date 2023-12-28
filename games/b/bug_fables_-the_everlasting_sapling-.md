@@ -18,8 +18,8 @@
 | Reconciliation | 19.00% | ~20 |
 | Always Watchful | 18.00% | ~19 |
 | Chapter 7 Complete | 18.00% | ~19 |
+| Bounty Hunter | 16.00% | ~17 |
 | The Terror | 16.00% | ~17 |
-| Bounty Hunter | 15.00% | ~16 |
 | Battle Ready | 13.00% | ~14 |
 | All Geared Up | 12.00% | ~13 |
 | The End | 12.00% | ~13 |
@@ -35,7 +35,7 @@
 | Our job's done! | 5.00% | ~5 |
 | Crystal Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 105 (Ranked 477)  
+Progressed: 105 (Ranked 478)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |

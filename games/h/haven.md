@@ -10,12 +10,12 @@ Number of Ratings: 38  (23.09.2022)
 | Lovebirds | 45.00% | ~806 |
 | Life’s short, ride long | 40.00% | ~716 |
 | Hug therapy | 39.00% | ~698 |
-| Over my dead body | 36.00% | ~644 |
+| Over my dead body | 36.00% | ~645 |
 | Shake the rust off their feet | 19.00% | ~340 |
 | My little pony | 18.00% | ~322 |
 | Strike! | 17.00% | ~304 |
 | A love supreme | 17.00% | ~304 |
-| In my shoes | 15.00% | ~268 |
+| In my shoes | 15.00% | ~269 |
 | Like new! | 13.00% | ~233 |
 | Heartstrings | 12.00% | ~215 |
 | Head in the clouds | 12.00% | ~215 |
@@ -37,7 +37,7 @@ Number of Ratings: 38  (23.09.2022)
 | Thar she blows | 2.00% | ~36 |
 | À la carte | 2.00% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,790 (Ranked 247)  
+Progressed: 1,791 (Ranked 248)  
 Completed: 10 (0.56%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 10 (0.56%) (Ranked 209)
 | 2023-12-25 | 1,772 | 10 |
 | 2023-12-26 | 1,785 | 10 |
 | 2023-12-27 | 1,788 | 10 |
-| 2023-12-28 | 1,790 | 10 |
+| 2023-12-28 | 1,791 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

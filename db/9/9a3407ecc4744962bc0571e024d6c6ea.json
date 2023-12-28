@@ -2,10 +2,10 @@
   "ID": "9a3407ecc4744962bc0571e024d6c6ea",
   "Name": "Fort Solis",
   "ProductSlug": "fort-solis-9164ca",
-  "Ranking_EOS_Progress": 272,
+  "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -3425,9 +3425,9 @@
       "ID": "TheSafetyOfDisbelief",
       "SetID": "3ai6ml8",
       "Name": "The Safety of Disbelief",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 644
+      "UsersEstimate": 655
     },
     {
       "ID": "TragedyDocumented",
@@ -3456,8 +3456,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-12-28T16:09:57.8239527+00:00",
+  "LastChanged_Achievements": "2023-12-28T17:10:25.3791277+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:55.6682443+00:00",
-  "LastUpdate_Ratings": "2023-12-28T16:03:03.6595549+00:00",
-  "LastUpdate_Achievements": "2023-12-28T16:09:57.8239916+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:03:07.0026561+00:00",
+  "LastUpdate_Achievements": "2023-12-28T17:10:25.3791538+00:00"
 }

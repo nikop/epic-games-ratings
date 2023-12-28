@@ -6,17 +6,17 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~52,863 |
-| Worth it | 63.00% | ~42,697 |
-| Eagle Eye | 55.00% | ~37,275 |
-| Corpseman I | 39.00% | ~26,431 |
-| Blast fishing | 37.00% | ~25,076 |
-| Not alone | 32.00% | ~21,687 |
-| Headhunter I | 26.00% | ~17,621 |
-| Manual Labour I | 25.00% | ~16,943 |
+| Setting an example | 78.00% | ~52,865 |
+| Worth it | 63.00% | ~42,699 |
+| Eagle Eye | 55.00% | ~37,277 |
+| Corpseman I | 39.00% | ~26,433 |
+| Blast fishing | 37.00% | ~25,077 |
+| Not alone | 32.00% | ~21,688 |
+| Headhunter I | 26.00% | ~17,622 |
+| Manual Labour I | 25.00% | ~16,944 |
 | Developers, Developers, Developers | 24.00% | ~16,266 |
 | Basic Training | 23.00% | ~15,588 |
-| Furchtlos und Treu | 13.00% | ~8,810 |
+| Furchtlos und Treu | 13.00% | ~8,811 |
 | Gott Mit Uns | 12.00% | ~8,133 |
 | This We'll Defend! | 9.00% | ~6,100 |
 | Providentiea Memor | 9.00% | ~6,100 |
@@ -41,8 +41,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | In My Defens God Me Defend | 3.00% | ~2,033 |
 | Silver x100 | 3.00% | ~2,033 |
 | Impavidum Ferient Bella! | 3.00% | ~2,033 |
-| Bronze x100 | 2.00% | ~1,355 |
-| Shoot, Cover, Reload, Repeat | 2.00% | ~1,355 |
+| Bronze x100 | 2.00% | ~1,356 |
+| Shoot, Cover, Reload, Repeat | 2.00% | ~1,356 |
 | Gold x100 | 1.00% | ~678 |
 | Hunting the Hun | 1.00% | ~678 |
 | #1 | 1.00% | ~678 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~68 |
 | Blood Brother | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,773 (Ranked 113)  
+Progressed: 67,776 (Ranked 113)  
 Completed: 4 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,11 +318,11 @@ Completed: 4 (0.01%) (Ranked 367)
 | 2023-12-25 | 67,464 | 4 |
 | 2023-12-26 | 67,579 | 4 |
 | 2023-12-27 | 67,706 | 4 |
-| 2023-12-28 | 67,773 | 4 |
+| 2023-12-28 | 67,776 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 364)  
-Sum: 825 (Ranked 281)  
-Diff (max vs sum): 83  
+Sum: 825 (Ranked 282)  
+Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |

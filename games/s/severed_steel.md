@@ -5,28 +5,28 @@ Rating: 4.69 (Ranked 232)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 33.00% | ~218,893 |
-| 50 HEADSHOTS | 30.00% | ~198,994 |
-| SCIENCE AND INDUSTRY | 29.00% | ~192,360 |
-| FINISHED CHAPTER 1 | 28.00% | ~185,727 |
-| FINISHED CHAPTER 2 | 21.00% | ~139,296 |
-| 200 HEADSHOTS | 18.00% | ~119,396 |
-| FINISHED CHAPTER 3 | 17.00% | ~112,763 |
-| FINISHED CHAPTER 4 | 15.00% | ~99,497 |
-| FINISH CHAPTER 5 | 13.00% | ~86,231 |
-| FINISH CHAPTER 6 | 11.00% | ~72,964 |
-| CATHARTIC ESCAPISM | 11.00% | ~72,964 |
-| 1000 KILLS | 10.00% | ~66,331 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,532 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,266 |
-| FIRST BLOOD | 2.00% | ~13,266 |
+| 100 KILLS | 33.00% | ~218,876 |
+| 50 HEADSHOTS | 30.00% | ~198,979 |
+| SCIENCE AND INDUSTRY | 29.00% | ~192,346 |
+| FINISHED CHAPTER 1 | 28.00% | ~185,713 |
+| FINISHED CHAPTER 2 | 21.00% | ~139,285 |
+| 200 HEADSHOTS | 18.00% | ~119,387 |
+| FINISHED CHAPTER 3 | 17.00% | ~112,755 |
+| FINISHED CHAPTER 4 | 15.00% | ~99,489 |
+| FINISH CHAPTER 5 | 13.00% | ~86,224 |
+| FINISH CHAPTER 6 | 11.00% | ~72,959 |
+| CATHARTIC ESCAPISM | 11.00% | ~72,959 |
+| 1000 KILLS | 10.00% | ~66,326 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,530 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,265 |
+| FIRST BLOOD | 2.00% | ~13,265 |
 | OUT OF ORDER | 1.00% | ~6,633 |
 | PACEMAKER | 1.00% | ~6,633 |
 | TIME PARADOX | 1.00% | ~6,633 |
-| FIREFIGHT LEVEL 30 | 0.90% | ~5,970 |
+| FIREFIGHT LEVEL 30 | 0.90% | ~5,969 |
 | PARTYHARD | 0.80% | ~5,306 |
 | NEW GAME PLUS | 0.70% | ~4,643 |
-| FIREFIGHT LEVEL 40 | 0.50% | ~3,317 |
+| FIREFIGHT LEVEL 40 | 0.50% | ~3,316 |
 | CHURCH | 0.40% | ~2,653 |
 | FIREFIGHT LEVEL 50 | 0.30% | ~1,990 |
 | REMEMBER THE ARMORY | 0.30% | ~1,990 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 232)
 | THE GAMBLER | 0.10% | ~663 |
 | WARRIOR IN A GARDEN | 0.10% | ~663 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 663,312 (Ranked 30)  
+Progressed: 663,262 (Ranked 30)  
 Completed: 61 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |

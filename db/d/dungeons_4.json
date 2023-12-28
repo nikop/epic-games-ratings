@@ -5,7 +5,7 @@
   "Ranking_Rating": 323,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 317,
+  "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 99,
   "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 58,
@@ -2155,9 +2155,9 @@
       "ID": "ach_main09journey_completed",
       "SetID": "4hg22ll",
       "Name": "\u201C\u2026 like son\u201D",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 333
     },
     {
       "ID": "ach_main09journey_killheroes",
@@ -2403,9 +2403,9 @@
       "ID": "ach_main19war_heal",
       "SetID": "4hg22ll",
       "Name": "Heal Heal Blessing",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 104
     },
     {
       "ID": "ach_main19war_stonedamage",
@@ -2452,8 +2452,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2023-12-28T14:01:53.0382272+00:00",
-  "LastChanged_Achievements": "2023-12-28T16:08:59.5404876+00:00",
+  "LastChanged_Achievements": "2023-12-28T17:09:01.00642+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.4415734+00:00",
-  "LastUpdate_Ratings": "2023-12-28T16:01:15.665636+00:00",
-  "LastUpdate_Achievements": "2023-12-28T16:08:59.5405393+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:01:42.6688391+00:00",
+  "LastUpdate_Achievements": "2023-12-28T17:09:01.0064672+00:00"
 }

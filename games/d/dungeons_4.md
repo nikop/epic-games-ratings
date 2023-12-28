@@ -24,8 +24,8 @@ Rating: 4.65 (Ranked 323)
 | Minions, Minions! | 55.00% | ~359 |
 | Hard Work | 53.00% | ~346 |
 | The Big Eaty | 53.00% | ~346 |
+| “… like son” | 51.00% | ~333 |
 | YOU SHALL NOT PASS! | 50.00% | ~326 |
-| “… like son” | 50.00% | ~326 |
 | The Cathedral of Light | 47.00% | ~307 |
 | Shame! Shame! Shame! | 47.00% | ~307 |
 | Pure Dynamite! | 45.00% | ~294 |
@@ -58,16 +58,16 @@ Rating: 4.65 (Ranked 323)
 | To Infinity And Beyond! | 18.00% | ~118 |
 | Sacrificial Pit = Garbage Disposal? | 17.00% | ~111 |
 | Evilification | 17.00% | ~111 |
+| Heal Heal Blessing | 16.00% | ~104 |
 | Mirror, Mirror | 15.00% | ~98 |
 | Untouchable | 15.00% | ~98 |
-| Heal Heal Blessing | 15.00% | ~98 |
 | Laser Eyes Are So Useless | 13.00% | ~85 |
 | Hands Off My Stones | 12.00% | ~78 |
 | Gorgu is in the Best of Health | 11.00% | ~72 |
 | No Mana, No Cry | 10.00% | ~65 |
 | I Don't Need Any Help | 9.00% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 653 (Ranked 317)  
+Progressed: 653 (Ranked 318)  
 Completed: 24 (3.68%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |

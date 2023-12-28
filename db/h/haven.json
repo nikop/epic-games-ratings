@@ -5,10 +5,10 @@
   "Ranking_Rating": 149,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 247,
+  "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -183,7 +183,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1790,
+  "EOS_Progressed": 1791,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
@@ -2968,6 +2968,11 @@
       "Time": "2023-12-28T14:06:24.2604235+00:00",
       "NumProgressed": 1790,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-28T17:06:20.7215258+00:00",
+      "NumProgressed": 1791,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3107,7 +3112,7 @@
       "Name": "In my shoes",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "25",
@@ -3203,7 +3208,7 @@
       "Name": "Over my dead body",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "9",
@@ -3218,15 +3223,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1790,
+      "Progressed": 1791,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-28T16:05:34.3684103+00:00",
+  "LastChanged_Achievements": "2023-12-28T17:06:20.7215254+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.0357893+00:00",
-  "LastUpdate_Ratings": "2023-12-28T16:00:28.8902639+00:00",
-  "LastUpdate_Achievements": "2023-12-28T16:05:34.3684418+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:00:56.790992+00:00",
+  "LastUpdate_Achievements": "2023-12-28T17:06:20.7215537+00:00"
 }

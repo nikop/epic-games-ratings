@@ -12,7 +12,7 @@
 | Strength in Defeat | 38.00% | ~17 |
 | Technology first! | 22.00% | ~10 |
 | The Keeper of Fleed | 18.00% | ~8 |
-| The Exterminator | 16.00% | ~7 |
+| The Exterminator | 18.00% | ~8 |
 | Earth's Savior | 13.00% | ~6 |
 | The Collector | 11.00% | ~5 |
 | The Vega Turtle | 9.00% | ~4 |
@@ -35,7 +35,7 @@
 | Vengeance of the Wolf | 2.00% | ~1 |
 | The Fire Cannons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45 (Ranked 549)  
+Progressed: 45 (Ranked 550)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |

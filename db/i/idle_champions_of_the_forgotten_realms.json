@@ -9133,9 +9133,9 @@
       "Count": 3602
     }
   ],
-  "EOS_Progressed": 246082,
+  "EOS_Progressed": 246130,
   "EOS_Completed": 2571,
-  "EOS_NewPlayers": 3430,
+  "EOS_NewPlayers": 3432,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -37648,6 +37648,11 @@
       "Time": "2023-12-28T16:10:19.8637251+00:00",
       "NumProgressed": 246082,
       "NumCompleted": 2571
+    },
+    {
+      "Time": "2023-12-28T17:10:51.3852799+00:00",
+      "NumProgressed": 246130,
+      "NumCompleted": 2571
     }
   ],
   "TotalAchievements": 546,
@@ -37659,7 +37664,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4922
+      "UsersEstimate": 4923
     },
     {
       "ID": "objective_completed_10",
@@ -38761,9 +38766,9 @@
       "ID": "objective_completed_14",
       "SetID": "cc37lbc",
       "Name": "Beast Mode",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 492
     },
     {
       "ID": "objective_completed_149",
@@ -39339,7 +39344,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "objective_completed_35",
@@ -40803,7 +40808,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1476
+      "UsersEstimate": 1477
     },
     {
       "ID": "objective_completed_70",
@@ -41947,7 +41952,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1487
     },
     {
       "ID": "objective_completed_1558",
@@ -41979,7 +41984,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "objective_completed_673",
@@ -41995,7 +42000,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "objective_completed_683",
@@ -42003,7 +42008,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "objective_completed_860",
@@ -42011,7 +42016,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "objective_completed_865",
@@ -42026,21 +42031,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 212356,
-      "Completed": 4075
+      "Progressed": 212404,
+      "Completed": 4076
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 246082,
+      "Progressed": 246130,
       "Completed": 2571
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-28T14:59:03.6001288+00:00",
-  "LastChanged_Achievements": "2023-12-28T16:10:19.8637248+00:00",
+  "LastChanged_Achievements": "2023-12-28T17:10:51.3852796+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-28T15:59:24.4838051+00:00",
-  "LastUpdate_Achievements": "2023-12-28T16:10:19.8661327+00:00"
+  "LastUpdate_Ratings": "2023-12-28T16:59:52.4755949+00:00",
+  "LastUpdate_Achievements": "2023-12-28T17:10:51.3876081+00:00"
 }

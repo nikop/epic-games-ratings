@@ -5,10 +5,10 @@
   "Ranking_Rating": 877,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 341,
+  "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 487,
+  "EOS_Progressed": 489,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 293,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1330,6 +1330,11 @@
       "Time": "2023-12-28T16:08:51.049712+00:00",
       "NumProgressed": 487,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-28T17:08:50.3087088+00:00",
+      "NumProgressed": 489,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1350,7 +1355,7 @@
       "Name": "Highballer",
       "Percentage": 38,
       "XP": 90,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "CareerChamp1",
@@ -1374,7 +1379,7 @@
       "Name": "Challengers Champion",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "CareerChamp4",
@@ -1398,15 +1403,15 @@
       "Name": "Storm Warning",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "CollectVehiclesA",
       "SetID": "5hd282c",
       "Name": "Wheeler Dealer",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 117
+      "UsersEstimate": 122
     },
     {
       "ID": "CollectVehiclesB",
@@ -1454,7 +1459,7 @@
       "Name": "Dirty Roller",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "PlayerRankB",
@@ -1470,7 +1475,7 @@
       "Name": "Showing Some Dedication",
       "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "RocketSpeedReached",
@@ -1492,16 +1497,16 @@
       "ID": "WreckOpponentsBus",
       "SetID": "5hd282c",
       "Name": "Maniac Driver",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 20
     }
   ],
   "AchievementSets": [
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 487,
+      "Progressed": 489,
       "Completed": 0
     }
   ],
@@ -1509,8 +1514,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-26T23:01:34.391907+00:00",
-  "LastChanged_Achievements": "2023-12-28T16:08:51.0497117+00:00",
+  "LastChanged_Achievements": "2023-12-28T17:08:50.3087084+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-28T15:57:51.4779669+00:00",
-  "LastUpdate_Achievements": "2023-12-28T16:08:51.0497312+00:00"
+  "LastUpdate_Ratings": "2023-12-28T16:57:49.2059416+00:00",
+  "LastUpdate_Achievements": "2023-12-28T17:08:50.3087269+00:00"
 }

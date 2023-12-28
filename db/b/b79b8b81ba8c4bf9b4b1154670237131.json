@@ -167,9 +167,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16008,
+  "EOS_Progressed": 16009,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 437,
+  "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5132,6 +5132,11 @@
       "Time": "2023-12-28T13:13:03.8106853+00:00",
       "NumProgressed": 16008,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-28T17:09:44.9252972+00:00",
+      "NumProgressed": 16009,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -5168,7 +5173,7 @@
       "Name": "Versatile",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "ACH_AE_13",
@@ -5176,7 +5181,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12006
+      "UsersEstimate": 12007
     },
     {
       "ID": "ACH_AE_14",
@@ -5230,9 +5235,9 @@
       "ID": "ACH_AE_2",
       "SetID": "ck3465",
       "Name": "Back to School",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3842
+      "UsersEstimate": 3682
     },
     {
       "ID": "ACH_AE_20",
@@ -5423,7 +5428,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16008,
+      "Progressed": 16009,
       "Completed": 15
     }
   ],
@@ -5431,8 +5436,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-27T16:00:31.0909826+00:00",
-  "LastChanged_Achievements": "2023-12-28T16:09:33.9525317+00:00",
+  "LastChanged_Achievements": "2023-12-28T17:09:44.9252959+00:00",
   "LastUpdate_AppInfo": "2023-12-26T18:57:07.3435183+00:00",
-  "LastUpdate_Ratings": "2023-12-28T16:00:32.5371193+00:00",
-  "LastUpdate_Achievements": "2023-12-28T16:09:33.95259+00:00"
+  "LastUpdate_Ratings": "2023-12-28T17:00:59.5193594+00:00",
+  "LastUpdate_Achievements": "2023-12-28T17:09:44.925351+00:00"
 }

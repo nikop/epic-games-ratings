@@ -19,10 +19,10 @@ Number of Ratings: 76  (23.09.2022)
 | Squirrel Smasher | 7.00% | ~32 |
 | Surf's Up! | 7.00% | ~32 |
 | Life's as extreme as you wanna make it! | 6.00% | ~27 |
+| Toxic Terror | 6.00% | ~27 |
 | Hit Rock Bottom | 6.00% | ~27 |
 | Keep it Rolling | 5.00% | ~23 |
 | Shrimp Catcher | 5.00% | ~23 |
-| Toxic Terror | 5.00% | ~23 |
 | Robot encyclopedia | 4.00% | ~18 |
 | Are you ready now? | 4.00% | ~18 |
 | Hello, Bikini Bottom | 4.00% | ~18 |
@@ -35,11 +35,11 @@ Number of Ratings: 76  (23.09.2022)
 | Sleepy Time | 2.00% | ~9 |
 | Sock Concert | 2.00% | ~9 |
 | Mega Spatula Seeker | 2.00% | ~9 |
+| 100% SpongeBob | 0.90% | ~4 |
 | Sock Opera | 0.90% | ~4 |
-| 100% SpongeBob | 0.70% | ~3 |
-| Super Ultra Mega Spatula Seeker | 0.70% | ~3 |
+| Super Ultra Mega Spatula Seeker | 0.90% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458 (Ranked 346)  
+Progressed: 458 (Ranked 347)  
 Completed: 3 (0.66%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
