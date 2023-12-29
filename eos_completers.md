@@ -24,7 +24,7 @@
 | 22 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.59% |
 | 24 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.23% |
-| 25 | [The Riflemen](games/t/the_riflemen.md) | 18.90% |
+| 25 | [The Riflemen](games/t/the_riflemen.md) | 18.89% |
 | 26 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 27 | [Island Cities](games/i/island_cities.md) | 16.71% |
 | 28 | [Argol - Kronoss' Castle](games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 16.67% |
@@ -95,7 +95,7 @@
 | 93 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.85% |
 | 93 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.85% |
 | 93 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 3.85% |
-| 96 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.80% |
+| 96 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.79% |
 | 97 | [Doodle God](games/d/doodle_god.md) | 3.76% |
 | 98 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.70% |
 | 99 | [Dungeons 4](games/d/dungeons_4.md) | 3.66% |
@@ -122,7 +122,7 @@
 | 118 | [Time on Frog Island](games/t/time_on_frog_island.md) | 2.70% |
 | 121 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.68% |
 | 122 | [Mega City Force](games/m/mega_city_police.md) | 2.63% |
-| 122 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.63% |
+| 123 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.62% |
 | 124 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.56% |
 | 125 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 126 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.47% |
@@ -143,9 +143,9 @@
 | 141 | [Sifu](games/s/sifu.md) | 1.74% |
 | 142 | [Frogun](games/f/frogun.md) | 1.73% |
 | 143 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.65% |
-| 144 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.55% |
 | 144 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.55% |
 | 144 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.55% |
+| 146 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.54% |
 | 147 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.51% |
 | 148 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.46% |
 | 149 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.39% |
@@ -262,10 +262,10 @@
 | 258 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.27% |
 | 261 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.26% |
 | 261 | [Remnant 2](games/r/remnant_2.md) | 0.26% |
-| 263 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.25% |
 | 263 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.25% |
 | 263 | [GRIME](games/g/grime.md) | 0.25% |
 | 263 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.25% |
+| 266 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.24% |
 | 267 | [Aegis Descent](games/a/aegis_descent.md) | 0.23% |
 | 267 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.23% |
 | 267 | [Shop Titans](games/s/shop_titans.md) | 0.23% |
