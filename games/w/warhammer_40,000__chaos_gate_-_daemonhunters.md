@@ -42,8 +42,8 @@ Number of Ratings: 371  (23.09.2022)
 | For the Machine God | 0.90% | ~33 |
 | Engine Kill | 0.90% | ~33 |
 | Death Comes For All | 0.90% | ~33 |
-| Hands-On Research | 0.70% | ~25 |
-| Harvest No More | 0.70% | ~25 |
+| Hands-On Research | 0.70% | ~26 |
+| Harvest No More | 0.70% | ~26 |
 | Strike Force | 0.60% | ~22 |
 | True Mastery | 0.60% | ~22 |
 | Exercise in Restraint | 0.50% | ~18 |
@@ -54,12 +54,12 @@ Number of Ratings: 371  (23.09.2022)
 | Warp Flickers | 0.30% | ~11 |
 | Abomination | 0.30% | ~11 |
 | Killing Rampage | 0.30% | ~11 |
+| Deadshot | 0.30% | ~11 |
 | The Flesh is Weak | 0.20% | ~7 |
 | Unstable Immaterium | 0.20% | ~7 |
 | Opportunist | 0.20% | ~7 |
 | Phalanx | 0.20% | ~7 |
 | Strategic Command | 0.20% | ~7 |
-| Deadshot | 0.20% | ~7 |
 | Terminal Meltdown | 0.20% | ~7 |
 | Arsenal of Destruction | 0.10% | ~4 |
 | Crisis Management | 0.10% | ~4 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,642 (Ranked 216)  
+Progressed: 3,643 (Ranked 216)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 3,607 | 0 |
 | 2023-12-27 | 3,615 | 0 |
 | 2023-12-28 | 3,628 | 0 |
-| 2023-12-29 | 3,642 | 0 |
+| 2023-12-29 | 3,643 | 0 |
 ## Awards
 Max (Character Customization): 232  (Ranked 282)  
 Sum: 493 (Ranked 335)  

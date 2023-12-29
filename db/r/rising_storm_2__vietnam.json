@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 572,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-10-08T15:00:00+00:00",
     "PcReleaseDate": "2017-05-30T15:00:00+00:00",
@@ -8740,18 +8740,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 8239,
       "NumberOfAwardsMax": 936
+    },
+    {
+      "Time": "2023-12-29T22:02:34.8396755+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 8243,
+      "NumberOfAwardsMax": 938
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8239,
-  "NumberOfAwardsMax": 936,
+  "NumberOfAwards": 8243,
+  "NumberOfAwardsMax": 938,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 936
+      "Count": 938
     },
     {
       "Text": "This game has Challenging Combat",
@@ -8775,7 +8781,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 814
+      "Count": 815
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8811,7 +8817,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 714
+      "Count": 715
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8831,8 +8837,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
-  "LastChanged": "2023-12-29T16:00:07.6938097+00:00",
+  "LastChanged": "2023-12-29T22:02:34.8396753+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.280289+00:00",
-  "LastUpdate_Ratings": "2023-12-29T21:00:09.2753103+00:00",
-  "LastUpdate_Achievements": "2023-12-29T21:08:15.686922+00:00"
+  "LastUpdate_Ratings": "2023-12-29T22:02:34.8396759+00:00",
+  "LastUpdate_Achievements": "2023-12-29T22:08:38.4871209+00:00"
 }

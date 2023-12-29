@@ -2,13 +2,13 @@
   "ID": "4756b80eb0f74d45b77922e54052cfed",
   "Name": "Mutant Year Zero: Road to Eden",
   "ProductSlug": "mutant-year-zero",
-  "Ranking_Rating": 609,
-  "Ranking_Popularity": 193,
+  "Ranking_Rating": 610,
+  "Ranking_Popularity": 192,
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 572,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2018-12-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1503,18 +1503,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 972,
       "NumberOfAwardsMax": 659
+    },
+    {
+      "Time": "2023-12-29T21:59:24.7463095+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 973,
+      "NumberOfAwardsMax": 660
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 972,
-  "NumberOfAwardsMax": 659,
+  "NumberOfAwards": 973,
+  "NumberOfAwardsMax": 660,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 659
+      "Count": 660
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1582,8 +1588,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:31.3944406+00:00",
-  "LastChanged": "2023-12-27T19:58:15.1864944+00:00",
+  "LastChanged": "2023-12-29T21:59:24.7463093+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:26.8292283+00:00",
-  "LastUpdate_Ratings": "2023-12-29T20:59:08.266412+00:00",
-  "LastUpdate_Achievements": "2023-12-29T21:04:37.031172+00:00"
+  "LastUpdate_Ratings": "2023-12-29T21:59:24.7463098+00:00",
+  "LastUpdate_Achievements": "2023-12-29T22:04:52.7239752+00:00"
 }

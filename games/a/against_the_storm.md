@@ -8,10 +8,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | Abandoned Settlement | 7.00% | ~1,374 |
 | Overgrown Library | 7.00% | ~1,374 |
-| First Real Expedition | 6.00% | ~1,177 |
-| Taking Action | 6.00% | ~1,177 |
-| No Deaths | 6.00% | ~1,177 |
-| Petrified Necropolis | 6.00% | ~1,177 |
+| First Real Expedition | 6.00% | ~1,178 |
+| Taking Action | 6.00% | ~1,178 |
+| No Deaths | 6.00% | ~1,178 |
+| Petrified Necropolis | 6.00% | ~1,178 |
 | The Marshlands | 5.00% | ~981 |
 | Ominous Presence | 5.00% | ~981 |
 | Gathering Storm | 5.00% | ~981 |
@@ -25,19 +25,19 @@ Number of Ratings: 1,845  (23.09.2022)
 | Royal Outpost | 3.00% | ~589 |
 | Watchtower | 3.00% | ~589 |
 | Untamed Wilds | 3.00% | ~589 |
-| Ruined Armory | 2.00% | ~392 |
-| Bandit Camp | 2.00% | ~392 |
-| Barren Lands | 2.00% | ~392 |
-| Ancient Battleground | 2.00% | ~392 |
-| Levitating Monument | 2.00% | ~392 |
-| Flooded Mines | 2.00% | ~392 |
-| Monastery of the Holy Flame | 2.00% | ~392 |
-| Lost Colonies | 2.00% | ~392 |
-| Statue of the Forefathers | 2.00% | ~392 |
-| Corrosive Torrent | 2.00% | ~392 |
-| Cursed Lands | 2.00% | ~392 |
-| A Real Challenge | 2.00% | ~392 |
-| Trade Baron | 2.00% | ~392 |
+| Ruined Armory | 2.00% | ~393 |
+| Bandit Camp | 2.00% | ~393 |
+| Barren Lands | 2.00% | ~393 |
+| Ancient Battleground | 2.00% | ~393 |
+| Levitating Monument | 2.00% | ~393 |
+| Flooded Mines | 2.00% | ~393 |
+| Monastery of the Holy Flame | 2.00% | ~393 |
+| Lost Colonies | 2.00% | ~393 |
+| Statue of the Forefathers | 2.00% | ~393 |
+| Corrosive Torrent | 2.00% | ~393 |
+| Cursed Lands | 2.00% | ~393 |
+| A Real Challenge | 2.00% | ~393 |
+| Trade Baron | 2.00% | ~393 |
 | Serving Ale | 1.00% | ~196 |
 | Against All Odds | 1.00% | ~196 |
 | Sparkdew Crystals | 1.00% | ~196 |
@@ -47,14 +47,14 @@ Number of Ratings: 1,845  (23.09.2022)
 | Defying the Crown | 1.00% | ~196 |
 | Into the Forest | 1.00% | ~196 |
 | Refinery | 0.90% | ~177 |
+| Forsaken Gods Temple | 0.90% | ~177 |
 | Efficient Explorer | 0.80% | ~157 |
 | Dangerous Lands | 0.80% | ~157 |
-| Forsaken Gods Temple | 0.80% | ~157 |
 | Forbidden Lands | 0.70% | ~137 |
 | Feeding The People | 0.50% | ~98 |
 | Like a Machine | 0.50% | ~98 |
 | Fox Utopia | 0.50% | ~98 |
-| Blood Flower Farmer | 0.40% | ~78 |
+| Blood Flower Farmer | 0.40% | ~79 |
 | Prestigious Expedition | 0.30% | ~59 |
 | Human Utopia | 0.20% | ~39 |
 | Lizard Utopia | 0.20% | ~39 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,622 (Ranked 151)  
+Progressed: 19,626 (Ranked 151)  
 Completed: 35 (0.18%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 35 (0.18%) (Ranked 277)
 | 2023-12-26 | 19,350 | 38 |
 | 2023-12-27 | 19,458 | 38 |
 | 2023-12-28 | 19,536 | 36 |
-| 2023-12-29 | 19,622 | 36 |
+| 2023-12-29 | 19,626 | 36 |
 ## Awards
 Max (Quickly Understood Controls): 446  (Ranked 229)  
 Sum: 3,306 (Ranked 176)  

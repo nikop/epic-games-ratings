@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1341,
+  "EOS_Progressed": 1342,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.61,
   "EosHistory": [
@@ -4629,6 +4629,11 @@
       "Time": "2023-12-29T19:04:32.369467+00:00",
       "NumProgressed": 1341,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-29T22:04:36.5192583+00:00",
+      "NumProgressed": 1342,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4649,7 +4654,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "_03_FinishAct1",
@@ -4657,7 +4662,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4673,7 +4678,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -4697,7 +4702,7 @@
       "Name": "Swabbie",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "_09_Completion_20",
@@ -4769,7 +4774,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -4848,7 +4853,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1341,
+      "Progressed": 1342,
       "Completed": 35
     }
   ],
@@ -4856,8 +4861,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2023-12-29T21:04:20.5372536+00:00",
+  "LastChanged_Achievements": "2023-12-29T22:04:36.519258+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-29T20:58:48.1803488+00:00",
-  "LastUpdate_Achievements": "2023-12-29T21:04:20.5372809+00:00"
+  "LastUpdate_Ratings": "2023-12-29T21:59:06.2456217+00:00",
+  "LastUpdate_Achievements": "2023-12-29T22:04:36.5192955+00:00"
 }

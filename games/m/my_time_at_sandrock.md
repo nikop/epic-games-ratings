@@ -6,49 +6,49 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 214.00% | ~1,545 |
-| Iron Chef | 150.00% | ~1,083 |
-| Super Spelunker | 144.00% | ~1,040 |
-| The Little Wood that Could | 119.00% | ~859 |
-| Greeno-B-Gone | 117.00% | ~845 |
-| On that Grindset | 101.00% | ~729 |
-| Officially Official | 101.00% | ~729 |
-| Your Especially Earned Trajectory | 99.00% | ~715 |
-| Better Late than Never | 87.00% | ~628 |
-| One of the Cool Kids | 86.00% | ~621 |
-| Diamonds are Forever | 84.00% | ~606 |
-| Pack Mule | 83.00% | ~599 |
-| Got Served | 82.00% | ~592 |
-| No Mountain Wide Enough | 80.00% | ~578 |
-| Mole Masher | 79.00% | ~570 |
-| Financially Secure | 78.00% | ~563 |
-| I Do! | 78.00% | ~563 |
-| Knowledge is Power | 77.00% | ~556 |
-| Yakmel Whisperer | 77.00% | ~556 |
+| Adept Assembler | 214.00% | ~1,547 |
+| Iron Chef | 150.00% | ~1,084 |
+| Super Spelunker | 144.00% | ~1,041 |
+| The Little Wood that Could | 119.00% | ~860 |
+| Greeno-B-Gone | 117.00% | ~846 |
+| On that Grindset | 101.00% | ~730 |
+| Officially Official | 101.00% | ~730 |
+| Your Especially Earned Trajectory | 98.00% | ~709 |
+| Better Late than Never | 87.00% | ~629 |
+| One of the Cool Kids | 86.00% | ~622 |
+| Pack Mule | 84.00% | ~607 |
+| Diamonds are Forever | 84.00% | ~607 |
+| Got Served | 82.00% | ~593 |
+| No Mountain Wide Enough | 81.00% | ~586 |
+| Mole Masher | 79.00% | ~571 |
+| Financially Secure | 78.00% | ~564 |
+| I Do! | 78.00% | ~564 |
+| Yakmel Whisperer | 77.00% | ~557 |
+| Knowledge is Power | 76.00% | ~549 |
 | Big Game Hunter | 76.00% | ~549 |
-| Can We Keep It? | 74.00% | ~534 |
-| Unboxing | 74.00% | ~534 |
-| Chatterbox | 72.00% | ~520 |
+| Can We Keep It? | 74.00% | ~535 |
+| Unboxing | 74.00% | ~535 |
+| Chatterbox | 72.00% | ~521 |
+| First Love | 72.00% | ~521 |
 | Panda-kin | 71.00% | ~513 |
-| First Love | 71.00% | ~513 |
-| What Plants Crave | 69.00% | ~498 |
+| What Plants Crave | 69.00% | ~499 |
 | Elementary, My Dear | 67.00% | ~484 |
-| Builder of the Month | 65.00% | ~469 |
+| Builder of the Month | 65.00% | ~470 |
 | Waste Not Want Not | 63.00% | ~455 |
 | Lifeline Pipeline | 62.00% | ~448 |
-| Bridging the Gap | 60.00% | ~433 |
-| Martle's Dream | 60.00% | ~433 |
-| Commissions, commissions...! | 59.00% | ~426 |
+| Martle's Dream | 60.00% | ~434 |
+| Commissions, commissions...! | 59.00% | ~427 |
+| Bridging the Gap | 59.00% | ~427 |
 | Happier-est Place on Earth | 58.00% | ~419 |
 | Anti-Santa | 57.00% | ~412 |
-| Got the Flow Back | 55.00% | ~397 |
-| You Don't Win Friends With Salad | 55.00% | ~397 |
+| Got the Flow Back | 55.00% | ~398 |
+| You Don't Win Friends With Salad | 55.00% | ~398 |
 | Finishing Touches | 54.00% | ~390 |
 | Call Me Fishmael | 53.00% | ~383 |
-| Time Flies | 51.00% | ~368 |
-| Sepia Toned Memories | 51.00% | ~368 |
-| Who Ya Gonna Call...? | 50.00% | ~361 |
-| Kind of a Big Deal | 47.00% | ~339 |
+| Time Flies | 51.00% | ~369 |
+| Sepia Toned Memories | 51.00% | ~369 |
+| Who Ya Gonna Call...? | 50.00% | ~362 |
+| Kind of a Big Deal | 47.00% | ~340 |
 | Jewel of the Eufaula | 45.00% | ~325 |
 | Just What I Always Wanted! | 44.00% | ~318 |
 | My Time Mansion | 41.00% | ~296 |
@@ -56,18 +56,18 @@ Number of Ratings: 892  (23.09.2022)
 | Santa In Training | 39.00% | ~282 |
 | Sandrunning Speedster | 39.00% | ~282 |
 | It Belongs in a Museum! | 35.00% | ~253 |
-| Pro Gamer | 34.00% | ~245 |
-| Do Your Part | 33.00% | ~238 |
+| Pro Gamer | 33.00% | ~239 |
+| Do Your Part | 33.00% | ~239 |
 | Newton | 32.00% | ~231 |
 | Cardistry | 26.00% | ~188 |
-| Winner and Still Champeen | 25.00% | ~180 |
+| Winner and Still Champeen | 25.00% | ~181 |
 | Strong Arms | 18.00% | ~130 |
 | It's High Noon... | 17.00% | ~123 |
 | Got the Receipt? | 17.00% | ~123 |
 | Jack of All Trades | 8.00% | ~58 |
 | Sandrock's Hottest Club | 5.00% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722 (Ranked 310)  
+Progressed: 723 (Ranked 310)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |

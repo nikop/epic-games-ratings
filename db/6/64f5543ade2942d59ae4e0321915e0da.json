@@ -4,8 +4,8 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 299,
+  "EOS_Progressed": 301,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1204,6 +1204,11 @@
       "Time": "2023-12-29T19:08:28.1835329+00:00",
       "NumProgressed": 299,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T22:08:21.6626422+00:00",
+      "NumProgressed": 301,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1286,9 +1291,9 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 166
     },
     {
       "ID": "AC_BOSS_01",
@@ -1382,9 +1387,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 157
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1406,9 +1411,9 @@
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 241
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -1551,14 +1556,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 299,
+      "Progressed": 301,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-29T21:07:58.6954915+00:00",
+  "LastChanged_Achievements": "2023-12-29T22:08:21.6626418+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:54.1541826+00:00",
-  "LastUpdate_Ratings": "2023-12-29T20:57:21.6739726+00:00",
-  "LastUpdate_Achievements": "2023-12-29T21:07:58.695517+00:00"
+  "LastUpdate_Ratings": "2023-12-29T21:57:40.8143734+00:00",
+  "LastUpdate_Achievements": "2023-12-29T22:08:21.6626757+00:00"
 }

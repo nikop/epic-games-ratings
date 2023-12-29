@@ -23,8 +23,8 @@ Rating: 4.29 (Ranked 870)
 | Prophecy Fulfilled | 4.00% | ~51 |
 | The Greedy Ones | 3.00% | ~38 |
 | The First King | 2.00% | ~25 |
+| The great fire | 2.00% | ~25 |
 | The Unruly Ones | 2.00% | ~25 |
-| The great fire | 1.00% | ~13 |
 | The Council | 1.00% | ~13 |
 | The Mad | 1.00% | ~13 |
 | Like the dream | 1.00% | ~13 |

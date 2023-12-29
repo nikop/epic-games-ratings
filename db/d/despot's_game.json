@@ -2,13 +2,13 @@
   "ID": "7a0f0e0bef6a45249e9d476d08bc9739",
   "Name": "Despot\u0027s Game",
   "ProductSlug": "despots-game-f61a0a",
-  "Ranking_Rating": 609,
+  "Ranking_Rating": 610,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 344,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 473,
+  "EOS_Progressed": 474,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -638,6 +638,11 @@
       "Time": "2023-12-28T19:07:07.5280874+00:00",
       "NumProgressed": 473,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T22:06:17.4317288+00:00",
+      "NumProgressed": 474,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -697,7 +702,7 @@
       "Name": "No Mercy",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "different-items1",
@@ -705,7 +710,7 @@
       "Name": "Party",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "different-items2",
@@ -721,7 +726,7 @@
       "Name": "Fat of the Earth",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "finished-quest-cube",
@@ -753,7 +758,7 @@
       "Name": "Feed a God",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "finished-quest-pit",
@@ -817,7 +822,7 @@
       "Name": "He\u0027s Seen It All",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "last-hero",
@@ -825,7 +830,7 @@
       "Name": "Last Man Standing",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "save-zombie",
@@ -855,9 +860,9 @@
       "ID": "win-campaign",
       "SetID": "799afm0",
       "Name": "Great Hero",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 137
+      "UsersEstimate": 133
     },
     {
       "ID": "win-first-biom",
@@ -865,7 +870,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "win-first-level",
@@ -913,7 +918,7 @@
       "Name": "Honorary Cultist",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "win-with-mrakus",
@@ -928,7 +933,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 473,
+      "Progressed": 474,
       "Completed": 1
     }
   ],
@@ -936,8 +941,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-12-29T21:06:02.9648984+00:00",
+  "LastChanged_Achievements": "2023-12-29T22:06:17.4317284+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:08.4827025+00:00",
-  "LastUpdate_Ratings": "2023-12-29T20:58:45.9173213+00:00",
-  "LastUpdate_Achievements": "2023-12-29T21:06:02.9649213+00:00"
+  "LastUpdate_Ratings": "2023-12-29T21:59:04.0524342+00:00",
+  "LastUpdate_Achievements": "2023-12-29T22:06:17.431759+00:00"
 }

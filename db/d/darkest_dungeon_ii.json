@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10296,9 +10296,9 @@
       "Count": 1068
     }
   ],
-  "EOS_Progressed": 130600,
+  "EOS_Progressed": 130612,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1421,
+  "EOS_NewPlayers": 1423,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37411,6 +37411,11 @@
       "Time": "2023-12-29T21:09:14.1654205+00:00",
       "NumProgressed": 130600,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T22:09:36.1240545+00:00",
+      "NumProgressed": 130612,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37550,7 +37555,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6530
+      "UsersEstimate": 6531
     },
     {
       "ID": "combat_kill_cadavers",
@@ -37582,7 +37587,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6530
+      "UsersEstimate": 6531
     },
     {
       "ID": "combat_kill_fanatics",
@@ -37646,7 +37651,7 @@
       "Name": "Overdue Notice",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6530
+      "UsersEstimate": 6531
     },
     {
       "ID": "combat_kill_pillagers",
@@ -37774,7 +37779,7 @@
       "Name": "Autodidact",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7836
+      "UsersEstimate": 7837
     },
     {
       "ID": "hero_story_complete_all",
@@ -37782,7 +37787,7 @@
       "Name": "Shrine of Reflection",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "hero_story_complete_any",
@@ -37958,7 +37963,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "combat_kill_collector",
@@ -37966,7 +37971,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -38006,7 +38011,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -38014,7 +38019,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "quest_complete_crusader",
@@ -38022,7 +38027,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -38053,21 +38058,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130600,
+      "Progressed": 130612,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5469,
-      "Completed": 813
+      "Progressed": 5481,
+      "Completed": 814
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-29T17:00:36.8253934+00:00",
-  "LastChanged_Achievements": "2023-12-29T21:09:14.1654202+00:00",
+  "LastChanged_Achievements": "2023-12-29T22:09:36.1240541+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-29T21:00:09.9983159+00:00",
-  "LastUpdate_Achievements": "2023-12-29T21:09:14.1655697+00:00"
+  "LastUpdate_Ratings": "2023-12-29T22:02:35.5632187+00:00",
+  "LastUpdate_Achievements": "2023-12-29T22:09:36.1242469+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 344,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 357,
+  "EOS_Progressed": 358,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -1581,6 +1581,11 @@
       "Time": "2023-12-29T20:08:10.0976997+00:00",
       "NumProgressed": 357,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T22:08:27.8631538+00:00",
+      "NumProgressed": 358,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1590,9 +1595,9 @@
       "ID": "ETUA_ADC",
       "SetID": "65jc0ap",
       "Name": "Lover of classics",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 32
     },
     {
       "ID": "ETUA_AloneInTheDark",
@@ -1608,7 +1613,7 @@
       "Name": "Alone with Them",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1742,9 +1747,9 @@
       "ID": "ETUA_OpenSesame",
       "SetID": "65jc0ap",
       "Name": "Open Sesame",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 100
     },
     {
       "ID": "ETUA_OutRage",
@@ -1768,7 +1773,7 @@
       "Name": "Parasite Exterminated",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ETUA_Researcher",
@@ -1782,9 +1787,9 @@
       "ID": "ETUA_RestInPeace",
       "SetID": "65jc0ap",
       "Name": "Rest In Peace",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 32
     },
     {
       "ID": "ETUA_SUPER",
@@ -1856,7 +1861,7 @@
       "Name": "The Forgotten Tower",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ETUA_ThisCoffin",
@@ -1911,7 +1916,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 357,
+      "Progressed": 358,
       "Completed": 1
     }
   ],
@@ -1919,8 +1924,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-12-29T21:08:04.7519809+00:00",
+  "LastChanged_Achievements": "2023-12-29T22:08:27.8631534+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:04.1617838+00:00",
-  "LastUpdate_Ratings": "2023-12-29T20:59:33.2440785+00:00",
-  "LastUpdate_Achievements": "2023-12-29T21:08:04.7520134+00:00"
+  "LastUpdate_Ratings": "2023-12-29T21:59:48.8399561+00:00",
+  "LastUpdate_Achievements": "2023-12-29T22:08:27.8631915+00:00"
 }

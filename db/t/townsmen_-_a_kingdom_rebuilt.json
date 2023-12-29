@@ -6,9 +6,9 @@
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 205,
-  "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_Completed": 312,
+  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4408,
+  "EOS_Progressed": 4409,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1858,6 +1858,11 @@
       "Time": "2023-12-28T19:10:59.3596565+00:00",
       "NumProgressed": 4408,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-29T22:10:13.2550858+00:00",
+      "NumProgressed": 4409,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 101,
@@ -1877,7 +1882,7 @@
       "Name": "Not a small trader anymore",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACHIEVEMENT_AVALANCHE_MINES",
@@ -1981,7 +1986,7 @@
       "Name": "The King\u0027s new clothes I",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACHIEVEMENT_CLOTHES2",
@@ -2205,7 +2210,7 @@
       "Name": "Full-time job II",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACHIEVEMENT_REPAIR3",
@@ -2533,7 +2538,7 @@
       "Name": "Tax-man III",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACHIEVEMENT_TAXES4",
@@ -2597,7 +2602,7 @@
       "Name": "Tools of the trade I",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACHIEVEMENT_TOOLS2",
@@ -2645,7 +2650,7 @@
       "Name": "Knee deep in snow",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION05",
@@ -2676,15 +2681,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4408,
+      "Progressed": 4409,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-12-26T18:02:48.4372833+00:00",
-  "LastChanged_Achievements": "2023-12-29T21:09:51.2494011+00:00",
+  "LastChanged_Achievements": "2023-12-29T22:10:13.2550855+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:59.3199868+00:00",
-  "LastUpdate_Ratings": "2023-12-29T20:57:13.3170137+00:00",
-  "LastUpdate_Achievements": "2023-12-29T21:09:51.2495103+00:00"
+  "LastUpdate_Ratings": "2023-12-29T21:57:32.4440882+00:00",
+  "LastUpdate_Achievements": "2023-12-29T22:10:13.2551951+00:00"
 }

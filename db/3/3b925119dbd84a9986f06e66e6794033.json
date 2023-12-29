@@ -4,8 +4,8 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 561,
+  "EOS_Progressed": 562,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1844,6 +1844,11 @@
       "Time": "2023-12-29T18:10:36.702182+00:00",
       "NumProgressed": 561,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T22:09:50.3724147+00:00",
+      "NumProgressed": 562,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1920,7 +1925,7 @@
       "Name": "FixyText: Pump It Up",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
@@ -1968,7 +1973,7 @@
       "Name": "Timejinx: The Perfect Date",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -1976,7 +1981,7 @@
       "Name": "Timejinx: The Perfect Guest",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -1984,7 +1989,7 @@
       "Name": "Tee K.O. 2: Life\u0027s A Beach",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "TKO2_DOMINO",
@@ -2015,14 +2020,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 561,
+      "Progressed": 562,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-29T21:09:28.6820479+00:00",
+  "LastChanged_Achievements": "2023-12-29T22:09:50.3724142+00:00",
   "LastUpdate_AppInfo": "2023-12-23T02:14:15.0192188+00:00",
-  "LastUpdate_Ratings": "2023-12-29T21:02:34.0538864+00:00",
-  "LastUpdate_Achievements": "2023-12-29T21:09:28.6820738+00:00"
+  "LastUpdate_Ratings": "2023-12-29T22:02:47.9909505+00:00",
+  "LastUpdate_Achievements": "2023-12-29T22:09:50.3724409+00:00"
 }

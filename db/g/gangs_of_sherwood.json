@@ -4,8 +4,8 @@
   "ProductSlug": "gangs-of-sherwood",
   "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
     "PcReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -497,9 +497,9 @@
       "ID": "ACH_100_HIT_COMBO",
       "SetID": "5akmpni",
       "Name": "Ultra Combo",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_25_FINISHER",
@@ -513,9 +513,9 @@
       "ID": "ACH_AIR_COMBO",
       "SetID": "5akmpni",
       "Name": "Air Fighter",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_ALL_CHALENGES",
@@ -601,25 +601,25 @@
       "ID": "ACH_COOP_MISSIONS",
       "SetID": "5akmpni",
       "Name": "Merry Co-operation",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_ENCOUNTER_S_RANK",
       "SetID": "5akmpni",
       "Name": "Savior",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_ENEMY_FIRE",
       "SetID": "5akmpni",
       "Name": "Tap Dancing",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_ENEMY_LEDGE_FALL",
@@ -753,9 +753,9 @@
       "ID": "ACH_LAUNCH_ENEMY",
       "SetID": "5akmpni",
       "Name": "Spring Board",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_LONG_REBEL_INSTINCT",
@@ -777,9 +777,9 @@
       "ID": "ACH_MONEY_TO_POOR",
       "SetID": "5akmpni",
       "Name": "The Altruist",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_NO_SIBLINGS",
@@ -833,9 +833,9 @@
       "ID": "ACH_REVIVE_ALLY",
       "SetID": "5akmpni",
       "Name": "First Aid",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_THROW_ENEMY",
@@ -896,8 +896,8 @@
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-12-29T21:06:22.3812511+00:00",
+  "LastChanged_Achievements": "2023-12-29T22:08:16.3923104+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:27.5850344+00:00",
-  "LastUpdate_Ratings": "2023-12-29T20:59:15.4339734+00:00",
-  "LastUpdate_Achievements": "2023-12-29T21:06:22.381282+00:00"
+  "LastUpdate_Ratings": "2023-12-29T21:59:31.9867874+00:00",
+  "LastUpdate_Achievements": "2023-12-29T22:08:16.3923462+00:00"
 }

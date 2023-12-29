@@ -5,29 +5,29 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Act of Kindness | 88.00% | ~94 |
-| Air Fighter | 74.00% | ~79 |
+| Air Fighter | 75.00% | ~80 |
 | Oo-De-Lally | 71.00% | ~76 |
 | Treasure Hunter | 65.00% | ~70 |
-| The Altruist | 63.00% | ~67 |
+| The Altruist | 64.00% | ~68 |
 | Watch your Step! | 52.00% | ~56 |
+| Tap Dancing | 50.00% | ~54 |
 | MAX LEVEL | 50.00% | ~54 |
-| Tap Dancing | 49.00% | ~52 |
 | Right between the eyes | 40.00% | ~43 |
 | Starry Night | 39.00% | ~42 |
-| Spring Board | 37.00% | ~40 |
+| Spring Board | 38.00% | ~41 |
 | Locksley's Tears | 36.00% | ~39 |
 | Rebel Unleashed | 34.00% | ~36 |
-| Merry Co-operation | 29.00% | ~31 |
+| Merry Co-operation | 31.00% | ~33 |
 | Finish Him! | 24.00% | ~26 |
 | Assault on the Ram | 24.00% | ~26 |
+| First Aid | 22.00% | ~24 |
 | Ultra Rebel Instinct | 21.00% | ~22 |
-| First Aid | 21.00% | ~22 |
 | Merry Go Round | 21.00% | ~22 |
-| Savior | 16.00% | ~17 |
+| Savior | 17.00% | ~18 |
 | Hidden Experiment | 16.00% | ~17 |
+| Ultra Combo | 15.00% | ~16 |
 | Take Action! | 15.00% | ~16 |
 | Ascending Will | 14.00% | ~15 |
-| Ultra Combo | 14.00% | ~15 |
 | Into the Lion's Den | 11.00% | ~12 |
 | Sky High Fighter | 10.00% | ~11 |
 | Haute Couture | 9.00% | ~10 |

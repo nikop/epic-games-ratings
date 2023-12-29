@@ -4,11 +4,11 @@
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 231,
   "Ranking_Popularity": 520,
-  "Ranking_PopularitySum": 396,
+  "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 844,
+  "EOS_Progressed": 846,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3080,6 +3080,11 @@
       "Time": "2023-12-29T21:08:42.2945191+00:00",
       "NumProgressed": 844,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T22:09:04.7997555+00:00",
+      "NumProgressed": 846,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3098,9 +3103,9 @@
       "ID": "ArleonCampaign",
       "SetID": "71c0n9i",
       "Name": "The Song of Stoutheart",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 34
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -3194,9 +3199,9 @@
       "ID": "DamageThreshold",
       "SetID": "71c0n9i",
       "Name": "Critical Hit",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 178
     },
     {
       "ID": "Deepstrike",
@@ -3236,7 +3241,7 @@
       "Name": "Double Kill",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3338,9 +3343,9 @@
       "ID": "RanaCampaign",
       "SetID": "71c0n9i",
       "Name": "From the Ashes",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "RanaCampaignFinaleOnHard",
@@ -3420,7 +3425,7 @@
       "Name": "Adept",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "WielderLevel2",
@@ -3428,7 +3433,7 @@
       "Name": "Veteran",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "WielderLevel3",
@@ -3523,15 +3528,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 844,
+      "Progressed": 846,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2023-12-29T21:08:42.2945187+00:00",
+  "LastChanged_Achievements": "2023-12-29T22:09:04.7997552+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.1217697+00:00",
-  "LastUpdate_Ratings": "2023-12-29T20:58:51.4060139+00:00",
-  "LastUpdate_Achievements": "2023-12-29T21:08:42.2945587+00:00"
+  "LastUpdate_Ratings": "2023-12-29T21:59:09.0817508+00:00",
+  "LastUpdate_Achievements": "2023-12-29T22:09:04.7998059+00:00"
 }

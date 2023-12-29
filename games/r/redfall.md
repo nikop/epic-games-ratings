@@ -5,15 +5,15 @@ Rating: 3.59 (Ranked 1,078)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 16.00% | ~344 |
-| Catch and Release | 12.00% | ~258 |
+| I Like My Stakes Rare! | 16.00% | ~345 |
+| Catch and Release | 12.00% | ~259 |
 | Home Is Where the Heart Is | 11.00% | ~237 |
 | Wounded Whispers | 11.00% | ~237 |
-| ICU | 10.00% | ~215 |
+| ICU | 10.00% | ~216 |
 | Blood Will Have Blood | 9.00% | ~194 |
 | Ne Plus Ultra | 9.00% | ~194 |
+| Peek-a-boo | 9.00% | ~194 |
 | Fly Fisher | 8.00% | ~172 |
-| Peek-a-boo | 8.00% | ~172 |
 | Sucks To Be You | 8.00% | ~172 |
 | Throw The First Stone | 7.00% | ~151 |
 | Enter of Your Own Free Will | 6.00% | ~129 |
@@ -41,19 +41,19 @@ Rating: 3.59 (Ranked 1,078)
 | Nice Try | 1.00% | ~22 |
 | Blacklight Down | 1.00% | ~22 |
 | Curious Finch | 1.00% | ~22 |
-| Right This Way | 0.80% | ~17 |
-| Empty Nest Syndrome | 0.70% | ~15 |
+| Right This Way | 0.90% | ~19 |
 | Bloody Initiate | 0.70% | ~15 |
-| Dexterity Save | 0.70% | ~15 |
 | What Lies Below | 0.60% | ~13 |
+| Empty Nest Syndrome | 0.60% | ~13 |
+| Dexterity Save | 0.60% | ~13 |
 | Neighborhood Watch | 0.50% | ~11 |
 | Blood Brother | 0.50% | ~11 |
 | Good Samaritan | 0.50% | ~11 |
 | Friendgineering | 0.40% | ~9 |
 | Sisterhood | 0.40% | ~9 |
+| Scream Team | 0.30% | ~6 |
 | So Anyway I Started Blasting | 0.30% | ~6 |
 | Under a Bushel | 0.30% | ~6 |
-| Scream Team | 0.20% | ~4 |
 | Monster Hunters Club | 0.20% | ~4 |
 | Enemy of My Enemy | 0.20% | ~4 |
 | Bob’s Final Hour | 0.20% | ~4 |
@@ -72,7 +72,7 @@ Rating: 3.59 (Ranked 1,078)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,153 (Ranked 237)  
+Progressed: 2,155 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 2,087 | 0 |
 | 2023-12-27 | 2,113 | 0 |
 | 2023-12-28 | 2,135 | 0 |
-| 2023-12-29 | 2,153 | 0 |
+| 2023-12-29 | 2,155 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 569)  
 Sum: 20 (Ranked 570)  

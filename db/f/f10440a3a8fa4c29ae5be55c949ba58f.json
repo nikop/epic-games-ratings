@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4629,
+  "EOS_Progressed": 4648,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 4244,
+  "EOS_NewPlayers": 4186,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1034,6 +1034,11 @@
       "Time": "2023-12-29T21:09:00.9522645+00:00",
       "NumProgressed": 4629,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-29T22:09:23.4370685+00:00",
+      "NumProgressed": 4648,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -1044,9 +1049,9 @@
       "ID": "CompleteGame",
       "SetID": "ao2gjap",
       "Name": "Final Destination",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 200,
-      "UsersEstimate": 2314
+      "UsersEstimate": 2370
     },
     {
       "ID": "Document1",
@@ -1054,7 +1059,7 @@
       "Name": "The Seeker in the Shadows",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "Document2",
@@ -1062,7 +1067,7 @@
       "Name": "Document Discoverer",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "Document3",
@@ -1109,14 +1114,14 @@
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 4629,
+      "Progressed": 4648,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2023-12-29T21:09:00.9522643+00:00",
+  "LastChanged_Achievements": "2023-12-29T22:09:23.4370682+00:00",
   "LastUpdate_AppInfo": "2023-12-24T20:56:57.0672179+00:00",
-  "LastUpdate_Ratings": "2023-12-29T20:58:00.3145702+00:00",
-  "LastUpdate_Achievements": "2023-12-29T21:09:00.9522755+00:00"
+  "LastUpdate_Ratings": "2023-12-29T21:58:18.9213304+00:00",
+  "LastUpdate_Achievements": "2023-12-29T22:09:23.4370788+00:00"
 }

@@ -6,15 +6,15 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~602 |
-| Lost and Found | 7.00% | ~383 |
-| Autodidact | 6.00% | ~7,836 |
-| This guy... again? | 6.00% | ~328 |
-| This Belongs in a Museum | 5.00% | ~6,530 |
-| Creep and Sleep | 5.00% | ~6,530 |
-| Overdue Notice | 5.00% | ~6,530 |
-| Ploughshares to Swords | 5.00% | ~273 |
-| Bloody Graduation | 5.00% | ~273 |
+| Malpractice Assurance | 11.00% | ~603 |
+| Lost and Found | 7.00% | ~384 |
+| Autodidact | 6.00% | ~7,837 |
+| This guy... again? | 6.00% | ~329 |
+| This Belongs in a Museum | 5.00% | ~6,531 |
+| Creep and Sleep | 5.00% | ~6,531 |
+| Overdue Notice | 5.00% | ~6,531 |
+| Ploughshares to Swords | 5.00% | ~274 |
+| Bloody Graduation | 5.00% | ~274 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,224 |
 | Serenity Now! | 4.00% | ~5,224 |
 | Not Today! | 4.00% | ~5,224 |
@@ -63,7 +63,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Body of Work | 1.00% | ~1,306 |
 | Slap on the Wrist | 1.00% | ~55 |
 | For Old Time' Sake | 1.00% | ~55 |
-| Shrine of Reflection | 0.90% | ~1,175 |
+| Shrine of Reflection | 0.90% | ~1,176 |
 | Clearing the Ledger | 0.80% | ~1,045 |
 | Hat Trick | 0.70% | ~914 |
 | Triage | 0.70% | ~914 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,600 (Ranked 87)  
+Progressed: 130,612 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-26 | 130,068 | 3 |
 | 2023-12-27 | 130,259 | 3 |
 | 2023-12-28 | 130,422 | 3 |
-| 2023-12-29 | 130,600 | 3 |
+| 2023-12-29 | 130,612 | 3 |
 ## Awards
 Max (Character Customization): 7,899  (Ranked 50)  
 Sum: 21,240 (Ranked 58)  

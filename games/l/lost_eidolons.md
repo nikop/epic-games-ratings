@@ -1,7 +1,7 @@
 # Lost Eidolons
 [Store](https://store.epicgames.com/en-US/p/lost-eidolons)  
 [View Rawdata](../../db/l/lost_eidolons.json)  
-Rating: 4.34 (Ranked 826)  
+Rating: 4.34 (Ranked 827)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -30,7 +30,7 @@ Rating: 4.34 (Ranked 826)
 | Lean on Me | 0.60% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,133 (Ranked 280)  
-Completed: 1 (0.09%) (Ranked 313)  
+Completed: 1 (0.09%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

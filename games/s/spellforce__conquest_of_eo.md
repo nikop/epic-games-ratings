@@ -4,78 +4,78 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 89.00% | ~85 |
-| Enough rooms to swing a cat | 82.00% | ~78 |
-| First to the post | 81.00% | ~77 |
-| A kind of Magic | 75.00% | ~71 |
-| Connected | 67.00% | ~64 |
-| Expansion | 61.00% | ~58 |
-| Mine! | 59.00% | ~56 |
-| Harvest Time | 57.00% | ~54 |
-| Artificer's Apprentice | 51.00% | ~48 |
-| Fly the friendly Sky | 46.00% | ~44 |
-| Get out of here! | 41.00% | ~39 |
-| Alchemist's Apprentice | 39.00% | ~37 |
+| Home Sweet Home | 90.00% | ~86 |
+| Enough rooms to swing a cat | 82.00% | ~79 |
+| First to the post | 81.00% | ~78 |
+| A kind of Magic | 75.00% | ~72 |
+| Connected | 68.00% | ~65 |
+| Expansion | 61.00% | ~59 |
+| Mine! | 59.00% | ~57 |
+| Harvest Time | 57.00% | ~55 |
+| Artificer's Apprentice | 51.00% | ~49 |
+| Fly the friendly Sky | 47.00% | ~45 |
+| Get out of here! | 42.00% | ~40 |
+| Alchemist's Apprentice | 40.00% | ~38 |
 | Necromancer's Apprentice | 38.00% | ~36 |
-| Friend of Lyraine | 37.00% | ~35 |
-| The Circle | 36.00% | ~34 |
-| Redecorating | 35.00% | ~33 |
-| Bad JuJu | 23.00% | ~22 |
-| Slave to the rhythm | 21.00% | ~20 |
-| Castle Meldec | 20.00% | ~19 |
-| Friend of Sevenkeeps | 20.00% | ~19 |
-| Sevenkeeps Seat of Kings | 17.00% | ~16 |
-| Friend of Alluvyan | 16.00% | ~15 |
+| Friend of Lyraine | 38.00% | ~36 |
+| The Circle | 36.00% | ~35 |
+| Redecorating | 35.00% | ~34 |
+| Bad JuJu | 24.00% | ~23 |
+| Slave to the rhythm | 22.00% | ~21 |
+| Castle Meldec | 21.00% | ~20 |
+| Friend of Sevenkeeps | 21.00% | ~20 |
+| Sevenkeeps Seat of Kings | 18.00% | ~17 |
+| Friend of Alluvyan | 17.00% | ~16 |
 | Friend of Connach | 16.00% | ~15 |
+| Friend of Gillyshire | 15.00% | ~14 |
 | Break Free | 15.00% | ~14 |
-| Friend of Gillyshire | 14.00% | ~13 |
-| Philo's Tale | 12.00% | ~11 |
-| Friend of Silver Drift Hollow | 12.00% | ~11 |
-| Stormwatch Faste | 11.00% | ~10 |
-| Friend of Orgash | 11.00% | ~10 |
-| Friend of Bastion | 11.00% | ~10 |
-| Magic Academy | 11.00% | ~10 |
+| Philo's Tale | 13.00% | ~12 |
+| Friend of Silver Drift Hollow | 13.00% | ~12 |
+| Stormwatch Faste | 11.00% | ~11 |
+| Friend of Orgash | 11.00% | ~11 |
+| Friend of Bastion | 11.00% | ~11 |
+| A Master of Magic | 10.00% | ~10 |
+| Magic Academy | 10.00% | ~10 |
+| Defeat Gor | 9.00% | ~9 |
+| Silver Drift Hollow Mine | 9.00% | ~9 |
 | Mage Teacher | 9.00% | ~9 |
-| A Master of Magic | 9.00% | ~9 |
-| Defeat Gor | 8.00% | ~8 |
-| Silver Drift Hollow Mine | 8.00% | ~8 |
-| Friend of Windholme | 8.00% | ~8 |
+| Friend of Windholme | 9.00% | ~9 |
+| Yngrid's Tale | 8.00% | ~8 |
 | A Joke | 8.00% | ~8 |
 | Defeat Hokan | 7.00% | ~7 |
-| Yngrid's Tale | 7.00% | ~7 |
+| Elynn's Tale | 7.00% | ~7 |
+| The Forge of Regan Gor | 7.00% | ~7 |
+| Defeat Undergast | 6.00% | ~6 |
 | Defeat Uram | 6.00% | ~6 |
-| Elynn's Tale | 6.00% | ~6 |
 | Lore's Tale | 6.00% | ~6 |
-| The Forge of Regan Gor | 6.00% | ~6 |
 | Tuscari Sea Portal | 6.00% | ~6 |
+| Master Artificer | 6.00% | ~6 |
+| A Monopoly of Might | 6.00% | ~6 |
+| Balanced | 6.00% | ~6 |
+| Defeat Ianna | 5.00% | ~5 |
+| Defeat Isgrimm | 5.00% | ~5 |
 | Defeat Raith | 5.00% | ~5 |
-| Defeat Undergast | 5.00% | ~5 |
 | Crypt of the Revenant | 5.00% | ~5 |
-| Master Artificer | 5.00% | ~5 |
-| A Monopoly of Might | 5.00% | ~5 |
-| Balanced | 5.00% | ~5 |
+| Heroes | 5.00% | ~5 |
 | Friend of Uram Gor | 5.00% | ~5 |
 | Get to the Airship! | 4.00% | ~4 |
-| Defeat Ianna | 4.00% | ~4 |
-| Defeat Isgrimm | 4.00% | ~4 |
 | Defeat Yria | 4.00% | ~4 |
 | Lytra's Tale | 4.00% | ~4 |
 | Fireforge | 4.00% | ~4 |
-| Heroes | 4.00% | ~4 |
+| Master Alchemist | 4.00% | ~4 |
 | Master Necromancer | 4.00% | ~4 |
 | Friend of Grey Dusk Vale | 4.00% | ~4 |
 | Defeat Rohen | 3.00% | ~3 |
-| Master Alchemist | 3.00% | ~3 |
+| Breaking the circle | 3.00% | ~3 |
 | My Friends! | 3.00% | ~3 |
 | Misty Coast Dragonbones | 2.00% | ~2 |
-| Breaking the circle | 2.00% | ~2 |
-| Hard Life | 1.00% | ~1 |
+| Hard Life | 2.00% | ~2 |
 | Impossible Mission | 1.00% | ~1 |
 | Potion Master | 0.00% | ~0 |
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95 (Ranked 492)  
+Progressed: 96 (Ranked 492)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 84 | 0 |
 | 2023-12-27 | 89 | 0 |
 | 2023-12-28 | 92 | 0 |
-| 2023-12-29 | 95 | 0 |
+| 2023-12-29 | 96 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

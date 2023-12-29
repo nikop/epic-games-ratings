@@ -12,6 +12,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Getting A Glimpse | 0.90% | ~2,178 |
 | Defeat The Dark | 0.90% | ~2,178 |
 | A Quick Escape | 0.90% | ~2,178 |
+| Explorer | 0.90% | ~2,178 |
 | An Offering | 0.90% | ~2,178 |
 | Not Touching You | 0.90% | ~31 |
 | Nothing To Lose | 0.80% | ~1,936 |
@@ -21,7 +22,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Goodbye, Frog Friend | 0.80% | ~1,936 |
 | A Donation | 0.80% | ~1,936 |
 | Deflection | 0.80% | ~1,936 |
-| Explorer | 0.80% | ~1,936 |
 | Ambitious Intent | 0.70% | ~1,694 |
 | Delving Deeper | 0.70% | ~1,694 |
 | R.I.P | 0.70% | ~1,694 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,980 (Ranked 70)  
+Progressed: 241,983 (Ranked 70)  
 Completed: 302 (0.12%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -398,7 +398,7 @@ Completed: 302 (0.12%) (Ranked 300)
 | 2023-12-26 | 241,782 | 302 |
 | 2023-12-27 | 241,847 | 302 |
 | 2023-12-28 | 241,919 | 302 |
-| 2023-12-29 | 241,980 | 302 |
+| 2023-12-29 | 241,983 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 134)  
 Sum: 11,769 (Ranked 88)  

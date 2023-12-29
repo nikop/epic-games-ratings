@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -33,9 +33,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3095,
+  "EOS_Progressed": 3096,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7583,6 +7583,11 @@
       "Time": "2023-12-29T21:06:22.6097289+00:00",
       "NumProgressed": 3095,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T22:08:16.5600657+00:00",
+      "NumProgressed": 3096,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -7881,9 +7886,9 @@
       "ID": "ML_ACHIEVEMENT_37",
       "SetID": "c7hf6a4",
       "Name": "Bitter Rivalry",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 898
+      "UsersEstimate": 929
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -7947,7 +7952,7 @@
       "Name": "Rivals to the End",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -7986,7 +7991,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3095,
+      "Progressed": 3096,
       "Completed": 0
     }
   ],
@@ -7994,8 +7999,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2023-12-26T23:58:21.0860972+00:00",
-  "LastChanged_Achievements": "2023-12-29T21:06:22.6097287+00:00",
+  "LastChanged_Achievements": "2023-12-29T22:08:16.5600653+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:36.0007242+00:00",
-  "LastUpdate_Ratings": "2023-12-29T20:59:37.7841698+00:00",
-  "LastUpdate_Achievements": "2023-12-29T21:06:22.6097816+00:00"
+  "LastUpdate_Ratings": "2023-12-29T21:59:53.4554644+00:00",
+  "LastUpdate_Achievements": "2023-12-29T22:08:16.5601323+00:00"
 }

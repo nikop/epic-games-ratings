@@ -4,11 +4,11 @@
   "ProductSlug": "deathloop",
   "Ranking_Rating": 648,
   "Ranking_Popularity": 454,
-  "Ranking_PopularitySum": 374,
+  "Ranking_PopularitySum": 372,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 572,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-03-24T15:00:00+00:00",
     "PcReleaseDate": "2021-09-14T15:00:00+00:00",
@@ -1177,10 +1177,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 314,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2023-12-29T21:59:25.4328691+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 315,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 314,
+  "NumberOfAwards": 315,
   "NumberOfAwardsMax": 49,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -1188,7 +1194,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 38
+      "Count": 39
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1250,8 +1256,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:46.7837121+00:00",
-  "LastChanged": "2023-12-29T19:59:10.2010556+00:00",
+  "LastChanged": "2023-12-29T21:59:25.4328688+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:57.3195393+00:00",
-  "LastUpdate_Ratings": "2023-12-29T20:59:08.8448128+00:00",
-  "LastUpdate_Achievements": "2023-12-29T21:08:51.3997436+00:00"
+  "LastUpdate_Ratings": "2023-12-29T21:59:25.4328693+00:00",
+  "LastUpdate_Achievements": "2023-12-29T22:09:13.6937078+00:00"
 }

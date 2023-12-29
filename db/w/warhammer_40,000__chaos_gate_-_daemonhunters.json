@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -807,9 +807,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3642,
+  "EOS_Progressed": 3643,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5067,6 +5067,11 @@
       "Time": "2023-12-29T20:03:29.4354505+00:00",
       "NumProgressed": 3642,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T22:03:37.9922125+00:00",
+      "NumProgressed": 3643,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5318,7 +5323,7 @@
       "Name": "Hands-On Research",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "KoramarCompleted",
@@ -5486,7 +5491,7 @@
       "Name": "Harvest No More",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ReaperDefeated_Necrosus",
@@ -5580,9 +5585,9 @@
       "ID": "ExperiencedVindicare",
       "SetID": "2im8phi",
       "Name": "Deadshot",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     },
     {
       "ID": "Kills_BioMeltdown",
@@ -5621,21 +5626,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3642,
+      "Progressed": 3643,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3642,
+      "Progressed": 3643,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-29T09:03:12.9031427+00:00",
-  "LastChanged_Achievements": "2023-12-29T21:03:22.3564223+00:00",
+  "LastChanged_Achievements": "2023-12-29T22:03:37.9922122+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:54.0012795+00:00",
-  "LastUpdate_Ratings": "2023-12-29T21:03:01.2649915+00:00",
-  "LastUpdate_Achievements": "2023-12-29T21:03:22.3564822+00:00"
+  "LastUpdate_Ratings": "2023-12-29T22:03:15.8340696+00:00",
+  "LastUpdate_Achievements": "2023-12-29T22:03:37.9922733+00:00"
 }

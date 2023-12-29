@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
     "PcReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -1353,9 +1353,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 9248,
+  "EOS_Progressed": 9265,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2464,
+  "EOS_NewPlayers": 2462,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6968,6 +6968,11 @@
       "Time": "2023-12-29T21:08:48.7092325+00:00",
       "NumProgressed": 9248,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-29T22:09:11.3756574+00:00",
+      "NumProgressed": 9265,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -7132,7 +7137,7 @@
       "Name": "Comrades",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_021",
@@ -7483,7 +7488,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 9248,
+      "Progressed": 9265,
       "Completed": 2
     }
   ],
@@ -7491,8 +7496,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-12-29T20:59:12.9920459+00:00",
-  "LastChanged_Achievements": "2023-12-29T21:08:48.7092323+00:00",
+  "LastChanged_Achievements": "2023-12-29T22:09:11.375657+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:20.6080478+00:00",
-  "LastUpdate_Ratings": "2023-12-29T20:59:12.9920464+00:00",
-  "LastUpdate_Achievements": "2023-12-29T21:08:48.709291+00:00"
+  "LastUpdate_Ratings": "2023-12-29T21:59:29.6237402+00:00",
+  "LastUpdate_Achievements": "2023-12-29T22:09:11.3757259+00:00"
 }

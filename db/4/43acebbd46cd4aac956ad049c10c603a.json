@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -253,7 +253,7 @@
       "Count": 87
     }
   ],
-  "EOS_Progressed": 1183,
+  "EOS_Progressed": 1184,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
@@ -3238,6 +3238,11 @@
       "Time": "2023-12-29T21:05:14.7790156+00:00",
       "NumProgressed": 1183,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-29T22:05:29.7710359+00:00",
+      "NumProgressed": 1184,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3258,7 +3263,7 @@
       "Name": "Ab Initio",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "AnthropicHills",
@@ -3266,7 +3271,7 @@
       "Name": "Anthropic Hills",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "Archaeologist",
@@ -3274,7 +3279,7 @@
       "Name": "Archaeologist",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Balance",
@@ -3282,7 +3287,7 @@
       "Name": "Balance",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "BecomingSmarter",
@@ -3370,7 +3375,7 @@
       "Name": "Excellent",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "FloodedValley",
@@ -3434,7 +3439,7 @@
       "Name": "Lord of the Files",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "LostMarshes",
@@ -3458,7 +3463,7 @@
       "Name": "Mnemosyne",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "MuseumExplorer",
@@ -3466,7 +3471,7 @@
       "Name": "Museum Explorer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "MuseumVisitor",
@@ -3498,7 +3503,7 @@
       "Name": "Not What It Seems",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "Overload",
@@ -3506,7 +3511,7 @@
       "Name": "Overload",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "Persistent",
@@ -3514,7 +3519,7 @@
       "Name": "Persistent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "PrometheusUnbound",
@@ -3538,7 +3543,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "RenaissanceRobot",
@@ -3586,7 +3591,7 @@
       "Name": "Southern Coast",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "TeamSpirit",
@@ -3650,7 +3655,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "TheWordEndures",
@@ -3666,7 +3671,7 @@
       "Name": "Touch Grass",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "TrevorsBiographer",
@@ -3674,7 +3679,7 @@
       "Name": "Trevor\u0027s Biographer",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "VerdantCanyon",
@@ -3721,7 +3726,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1183,
+      "Progressed": 1184,
       "Completed": 2
     }
   ],
@@ -3729,8 +3734,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-28T02:59:27.0743673+00:00",
-  "LastChanged_Achievements": "2023-12-29T21:05:14.7790154+00:00",
+  "LastChanged_Achievements": "2023-12-29T22:05:29.7710357+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2023-12-29T20:57:04.7003644+00:00",
-  "LastUpdate_Achievements": "2023-12-29T21:05:14.7790701+00:00"
+  "LastUpdate_Ratings": "2023-12-29T21:57:24.0063443+00:00",
+  "LastUpdate_Achievements": "2023-12-29T22:05:29.7710828+00:00"
 }

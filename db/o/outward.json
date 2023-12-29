@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4332,
+  "EOS_Progressed": 4333,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -7261,6 +7261,11 @@
       "Time": "2023-12-29T20:04:30.2935449+00:00",
       "NumProgressed": 4332,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-29T22:04:39.7039798+00:00",
+      "NumProgressed": 4333,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7312,7 +7317,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1776
+      "UsersEstimate": 1777
     },
     {
       "ID": "CrowdPleaser",
@@ -7496,7 +7501,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1516
+      "UsersEstimate": 1517
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -7592,7 +7597,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3162
+      "UsersEstimate": 3163
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7607,15 +7612,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4332,
+      "Progressed": 4333,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-29T21:04:23.6566202+00:00",
+  "LastChanged_Achievements": "2023-12-29T22:04:39.7039795+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.9488093+00:00",
-  "LastUpdate_Ratings": "2023-12-29T21:02:50.1263761+00:00",
-  "LastUpdate_Achievements": "2023-12-29T21:04:23.6566692+00:00"
+  "LastUpdate_Ratings": "2023-12-29T22:03:04.2322698+00:00",
+  "LastUpdate_Achievements": "2023-12-29T22:04:39.7040363+00:00"
 }

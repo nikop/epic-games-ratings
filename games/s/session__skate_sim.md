@@ -6,10 +6,10 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 62.00% | ~2,135 |
+| You're free now! | 62.00% | ~2,136 |
 | Keeping it classy | 27.00% | ~930 |
 | Welcome to the family | 22.00% | ~758 |
-| The finer things in life | 19.00% | ~654 |
+| The finer things in life | 19.00% | ~655 |
 | Backpacker | 14.00% | ~482 |
 | Go with the Flow | 13.00% | ~448 |
 | Plastic Surgeon | 10.00% | ~344 |
@@ -31,7 +31,6 @@ Number of Ratings: 111  (23.09.2022)
 | Squad goals | 6.00% | ~207 |
 | Sup widdit big dog! | 6.00% | ~207 |
 | Commence the Hijinx! | 5.00% | ~172 |
-| Cops called! | 5.00% | ~172 |
 | DIY Boss | 5.00% | ~172 |
 | Globetrotter | 5.00% | ~172 |
 | Lines for days | 5.00% | ~172 |
@@ -40,11 +39,12 @@ Number of Ratings: 111  (23.09.2022)
 | Tank commander | 5.00% | ~172 |
 | Trick shot marksman | 5.00% | ~172 |
 | We get it, you're good | 5.00% | ~172 |
+| Cops called! | 4.00% | ~138 |
 | G.O.A.T. status | 4.00% | ~138 |
 | Hoarder | 4.00% | ~138 |
+| Pew-Pew | 4.00% | ~138 |
 | Prince of Philly | 4.00% | ~138 |
 | Many plys later... | 3.00% | ~103 |
-| Pew-Pew | 3.00% | ~103 |
 | Cross lock country | 2.00% | ~69 |
 | That was wheelie fun | 2.00% | ~69 |
 | Dipped! | 1.00% | ~34 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,444 (Ranked 219)  
+Progressed: 3,445 (Ranked 219)  
 Completed: 2 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 2 (0.06%) (Ranked 327)
 | 2023-12-26 | 3,401 | 2 |
 | 2023-12-27 | 3,417 | 2 |
 | 2023-12-28 | 3,434 | 2 |
-| 2023-12-29 | 3,444 | 2 |
+| 2023-12-29 | 3,445 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 62  (Ranked 425)  
 Sum: 577 (Ranked 324)  

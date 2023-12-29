@@ -6,20 +6,20 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,817 |
-| I'll Be Back | 84.00% | ~4,304 |
-| Sorry, I Dropped This | 77.00% | ~3,945 |
-| First Day on the Job | 76.00% | ~3,894 |
-| Butcher's Bill | 54.00% | ~2,767 |
-| P.A.X | 37.00% | ~1,896 |
+| On My Own Two Feet | 94.00% | ~4,818 |
+| I'll Be Back | 84.00% | ~4,306 |
+| Sorry, I Dropped This | 77.00% | ~3,947 |
+| First Day on the Job | 76.00% | ~3,896 |
+| Butcher's Bill | 54.00% | ~2,768 |
+| P.A.X | 37.00% | ~1,897 |
 | Hey Listen | 36.00% | ~1,845 |
-| OPERATOR | 35.00% | ~1,793 |
-| It's Blue Light | 33.00% | ~1,691 |
-| Most Wanted | 26.00% | ~1,332 |
+| OPERATOR | 35.00% | ~1,794 |
+| It's Blue Light | 33.00% | ~1,692 |
+| Most Wanted | 26.00% | ~1,333 |
 | Infidel | 23.00% | ~1,179 |
 | GOLIATH | 21.00% | ~1,076 |
 | Firebug | 20.00% | ~1,025 |
-| Nothing to Lose | 18.00% | ~922 |
+| Nothing to Lose | 18.00% | ~923 |
 | I Choose You | 17.00% | ~871 |
 | Big Sister | 15.00% | ~769 |
 | Gear Up | 15.00% | ~769 |
@@ -30,7 +30,7 @@ Number of Ratings: 62  (23.09.2022)
 | CREO Killed the Video Star | 11.00% | ~564 |
 | Who's in Charge Here? | 11.00% | ~564 |
 | Shall Not Pass | 11.00% | ~564 |
-| Right Tool for the Job | 10.00% | ~512 |
+| Right Tool for the Job | 10.00% | ~513 |
 | Melting Down | 9.00% | ~461 |
 | Raging Drones | 9.00% | ~461 |
 | Overconfident | 9.00% | ~461 |
@@ -42,8 +42,8 @@ Number of Ratings: 62  (23.09.2022)
 | Follow the White Rabbit | 7.00% | ~359 |
 | Liberation | 7.00% | ~359 |
 | Risk Assessment | 7.00% | ~359 |
-| Sunglasses at Night | 6.00% | ~307 |
-| Carbon Cat | 6.00% | ~307 |
+| Sunglasses at Night | 6.00% | ~308 |
+| Carbon Cat | 6.00% | ~308 |
 | It Lives! It Sniffs! It Conquers! | 5.00% | ~256 |
 | Man of Steel | 5.00% | ~256 |
 | Jack of All Trades | 5.00% | ~256 |
@@ -54,27 +54,27 @@ Number of Ratings: 62  (23.09.2022)
 | Turing Test | 3.00% | ~154 |
 | Repeat Customer | 3.00% | ~154 |
 | Evolution Theory | 3.00% | ~154 |
-| Ghost in the Machine | 2.00% | ~102 |
-| Homo Machinalis | 2.00% | ~102 |
-| Was That Yours? | 2.00% | ~102 |
-| Guard Dog | 2.00% | ~102 |
-| Carbon Cat vs Iron Maus | 2.00% | ~102 |
-| Dress Up | 2.00% | ~102 |
-| New Gear | 2.00% | ~102 |
-| Good Listener | 2.00% | ~102 |
-| One-Armed Bandit | 2.00% | ~102 |
-| Episodic | 2.00% | ~102 |
-| End of Transmission | 2.00% | ~102 |
-| Gramophone Enthusiast | 2.00% | ~102 |
+| Ghost in the Machine | 2.00% | ~103 |
+| Homo Machinalis | 2.00% | ~103 |
+| Was That Yours? | 2.00% | ~103 |
+| Guard Dog | 2.00% | ~103 |
+| Carbon Cat vs Iron Maus | 2.00% | ~103 |
+| Dress Up | 2.00% | ~103 |
+| New Gear | 2.00% | ~103 |
+| Good Listener | 2.00% | ~103 |
+| One-Armed Bandit | 2.00% | ~103 |
+| Episodic | 2.00% | ~103 |
+| End of Transmission | 2.00% | ~103 |
+| Gramophone Enthusiast | 2.00% | ~103 |
 | Bling-Bling | 1.00% | ~51 |
 | Sniffing Around | 0.80% | ~41 |
 | Tools of War | 0.80% | ~41 |
 | Modus Operandi | 0.70% | ~36 |
 | Suited and Booted | 0.70% | ~36 |
 | Brave New World | 0.60% | ~31 |
-| The Surge | 0.40% | ~20 |
+| The Surge | 0.40% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,124 (Ranked 202)  
+Progressed: 5,126 (Ranked 202)  
 Completed: 18 (0.35%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 18 (0.35%) (Ranked 236)
 | 2023-12-26 | 5,078 | 18 |
 | 2023-12-27 | 5,097 | 18 |
 | 2023-12-28 | 5,108 | 18 |
-| 2023-12-29 | 5,124 | 18 |
+| 2023-12-29 | 5,126 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 515)  
 Sum: 30 (Ranked 535)  

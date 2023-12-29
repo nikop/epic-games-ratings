@@ -6,39 +6,39 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~88,350 |
-| Alt+F4 | 10.00% | ~24,542 |
-| Where's that freaking Dwarf? | 9.00% | ~22,087 |
-| Déjà vu | 7.00% | ~17,179 |
-| Sock! SOCK! | 6.00% | ~14,725 |
+| Sowwy! | 36.00% | ~88,354 |
+| Alt+F4 | 10.00% | ~24,543 |
+| Where's that freaking Dwarf? | 9.00% | ~22,089 |
+| Déjà vu | 7.00% | ~17,180 |
+| Sock! SOCK! | 6.00% | ~14,726 |
 | A beer, two curses, three companions | 5.00% | ~12,271 |
 | GG EZ | 5.00% | ~12,271 |
 | DM intervention | 5.00% | ~12,271 |
 | Speedrun | 5.00% | ~12,271 |
 | Fireproof Wizardess | 4.00% | ~9,817 |
-| Livin' in a dwarven paradise | 3.00% | ~7,362 |
-| Way of the Wimp | 3.00% | ~7,362 |
-| The plot thickens... At the tavern | 3.00% | ~7,362 |
-| The demons' feast | 3.00% | ~7,362 |
-| The Great Library | 3.00% | ~7,362 |
-| Torture and Sensibility | 3.00% | ~7,362 |
-| The Woman in the High Castle | 3.00% | ~7,362 |
-| Team Building Exercise | 3.00% | ~7,362 |
-| Oh, when I'll be level 10... | 3.00% | ~7,362 |
-| Shiny and Crôm | 2.00% | ~4,908 |
-| Urik's Depths | 2.00% | ~4,908 |
-| The Dungeon Master | 2.00% | ~4,908 |
-| The Statuette of Gladeulfeurah | 2.00% | ~4,908 |
-| Res Judicata | 2.00% | ~4,908 |
-| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,908 |
-| A tale of adventurers not quite like the others... | 2.00% | ~4,908 |
-| Dwarf Fortress | 2.00% | ~4,908 |
-| Look but don't touch | 2.00% | ~4,908 |
-| The beards of change | 2.00% | ~4,908 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 2.00% | ~4,908 |
-| The Ranger of Chaos | 2.00% | ~4,908 |
-| I am the night | 2.00% | ~4,908 |
-| Thieves' Guild Accreditation | 2.00% | ~4,908 |
+| Livin' in a dwarven paradise | 3.00% | ~7,363 |
+| Way of the Wimp | 3.00% | ~7,363 |
+| The plot thickens... At the tavern | 3.00% | ~7,363 |
+| The demons' feast | 3.00% | ~7,363 |
+| The Great Library | 3.00% | ~7,363 |
+| Torture and Sensibility | 3.00% | ~7,363 |
+| The Woman in the High Castle | 3.00% | ~7,363 |
+| Team Building Exercise | 3.00% | ~7,363 |
+| Oh, when I'll be level 10... | 3.00% | ~7,363 |
+| Shiny and Crôm | 2.00% | ~4,909 |
+| Urik's Depths | 2.00% | ~4,909 |
+| The Dungeon Master | 2.00% | ~4,909 |
+| The Statuette of Gladeulfeurah | 2.00% | ~4,909 |
+| Res Judicata | 2.00% | ~4,909 |
+| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,909 |
+| A tale of adventurers not quite like the others... | 2.00% | ~4,909 |
+| Dwarf Fortress | 2.00% | ~4,909 |
+| Look but don't touch | 2.00% | ~4,909 |
+| The beards of change | 2.00% | ~4,909 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 2.00% | ~4,909 |
+| The Ranger of Chaos | 2.00% | ~4,909 |
+| I am the night | 2.00% | ~4,909 |
+| Thieves' Guild Accreditation | 2.00% | ~4,909 |
 | %#*!$*! | 1.00% | ~2,454 |
 | Dead for good | 1.00% | ~2,454 |
 | Gargantua | 1.00% | ~2,454 |
@@ -49,8 +49,8 @@ Number of Ratings: 118  (23.09.2022)
 | We come in peace | 0.80% | ~1,963 |
 | Holistic Adventuring Party | 0.70% | ~1,718 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,718 |
-| Scholar of the Lands of Fangh | 0.60% | ~1,472 |
-| Law and Order | 0.60% | ~1,472 |
+| Scholar of the Lands of Fangh | 0.60% | ~1,473 |
+| Law and Order | 0.60% | ~1,473 |
 | It's been a hard day's night | 0.50% | ~1,227 |
 | Friendly fire | 0.40% | ~982 |
 | I'd rather... Just... Sing! | 0.40% | ~982 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~245 |
 | Dwarf Candy | 0.10% | ~245 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,416 (Ranked 69)  
+Progressed: 245,429 (Ranked 69)  
 Completed: 8 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,10 +307,10 @@ Completed: 8 (0.00%) (Ranked 389)
 | 2023-12-26 | 244,894 | 8 |
 | 2023-12-27 | 245,077 | 8 |
 | 2023-12-28 | 245,240 | 8 |
-| 2023-12-29 | 245,416 | 8 |
+| 2023-12-29 | 245,429 | 8 |
 ## Awards
 Max (Character Customization): 260  (Ranked 277)  
-Sum: 543 (Ranked 329)  
+Sum: 544 (Ranked 329)  
 Diff (max vs sum): -52  
 | Award | Count |
 | ----- | ----- |
@@ -321,7 +321,7 @@ Diff (max vs sum): -52
 | This game is Highly Recommended | 33 |
 | This game has Amazing Storytelling | 33 |
 | This game has Diverse Characters | 30 |
-| This game has Amazing Characters | 28 |
+| This game has Amazing Characters | 29 |
 | This game is Extremely Fun | 28 |
 | This game has Playful Visuals | 21 |
 ## Ratings History
@@ -531,4 +531,4 @@ Diff (max vs sum): -52
 | 2023-12-26 | 4.59 | - | 256 | 538 |
 | 2023-12-27 | 4.59 | - | 258 | 540 |
 | 2023-12-28 | 4.59 | - | 260 | 542 |
-| 2023-12-29 | 4.59 | - | 260 | 543 |
+| 2023-12-29 | 4.59 | - | 260 | 544 |

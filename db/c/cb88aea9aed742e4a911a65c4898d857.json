@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -209,9 +209,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 8628,
+  "EOS_Progressed": 8639,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2238,
+  "EOS_NewPlayers": 2221,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2884,6 +2884,11 @@
       "Time": "2023-12-29T21:09:31.0265705+00:00",
       "NumProgressed": 8628,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T22:09:52.886659+00:00",
+      "NumProgressed": 8639,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -2902,17 +2907,17 @@
       "ID": "03_TheStolenStar",
       "SetID": "37a94m8",
       "Name": "Stolen Star",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 173
     },
     {
       "ID": "04_TheTradeEmpire",
       "SetID": "37a94m8",
       "Name": "Trade Empire",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 52
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -2998,9 +3003,9 @@
       "ID": "15_Pentakill",
       "SetID": "37a94m8",
       "Name": "Pentakill",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 78
     },
     {
       "ID": "16_TheRise",
@@ -3222,9 +3227,9 @@
       "ID": "43_ThereIsNoPlaceLikeHome",
       "SetID": "37a94m8",
       "Name": "No Place Like Home",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 52
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -3278,9 +3283,9 @@
       "ID": "50_Whodunit",
       "SetID": "37a94m8",
       "Name": "Whodunit?",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 35
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -3415,7 +3420,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8628,
+      "Progressed": 8639,
       "Completed": 0
     }
   ],
@@ -3423,8 +3428,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-29T15:57:59.1942922+00:00",
-  "LastChanged_Achievements": "2023-12-29T21:09:31.0265702+00:00",
+  "LastChanged_Achievements": "2023-12-29T22:09:52.8866587+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-29T20:57:59.7639472+00:00",
-  "LastUpdate_Achievements": "2023-12-29T21:09:31.0266184+00:00"
+  "LastUpdate_Ratings": "2023-12-29T21:58:17.9326751+00:00",
+  "LastUpdate_Achievements": "2023-12-29T22:09:52.8867195+00:00"
 }

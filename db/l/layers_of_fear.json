@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1047,9 +1047,9 @@
       "ID": "another_perspective",
       "SetID": "f2im8d",
       "Name": "Another perspective",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "assemble_puzzles",
@@ -1119,9 +1119,9 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 118
     },
     {
       "ID": "decrypt_one_myth",
@@ -1247,9 +1247,9 @@
       "ID": "hear_one_interview",
       "SetID": "f2im8d",
       "Name": "Sound Bite",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "heavy_burden",
@@ -1311,9 +1311,9 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 136
     },
     {
       "ID": "playtime",
@@ -1399,9 +1399,9 @@
       "ID": "the_art_of_movement",
       "SetID": "f2im8d",
       "Name": "The art of movement",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "the_tragedy_unfolds",
@@ -1462,8 +1462,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-29T21:08:12.4700331+00:00",
+  "LastChanged_Achievements": "2023-12-29T22:08:35.4719481+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:25.6985759+00:00",
-  "LastUpdate_Ratings": "2023-12-29T20:59:28.0939772+00:00",
-  "LastUpdate_Achievements": "2023-12-29T21:08:12.4700721+00:00"
+  "LastUpdate_Ratings": "2023-12-29T21:59:43.9335027+00:00",
+  "LastUpdate_Achievements": "2023-12-29T22:08:35.4719843+00:00"
 }

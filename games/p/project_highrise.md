@@ -14,8 +14,8 @@
 | Need a Consult | 34.00% | ~156 |
 | Upgrade Unlock | 34.00% | ~156 |
 | Delegate Maintenance | 31.00% | ~142 |
+| Proper Walls | 30.00% | ~138 |
 | Destination Destiny | 30.00% | ~138 |
-| Proper Walls | 29.00% | ~133 |
 | Happy Tenants | 24.00% | ~110 |
 | Potent Potables | 24.00% | ~110 |
 | Smooth Service | 24.00% | ~110 |

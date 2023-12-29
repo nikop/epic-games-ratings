@@ -22,13 +22,13 @@ Number of Ratings: 180  (23.09.2022)
 | Cargo hub | 49.00% | ~1,088 |
 | Sculpturer | 47.00% | ~1,043 |
 | Settled down | 46.00% | ~1,021 |
+| Now what? | 44.00% | ~977 |
 | First electric train arrived | 43.00% | ~955 |
 | First ship arrived | 43.00% | ~955 |
-| Now what? | 43.00% | ~955 |
 | Exemplary student | 41.00% | ~910 |
+| First aircraft arrived | 39.00% | ~866 |
 | High speed | 39.00% | ~866 |
 | Transport shark | 38.00% | ~844 |
-| First aircraft arrived | 38.00% | ~844 |
 | Mass production | 33.00% | ~733 |
 | Aircraft entrepreneur | 31.00% | ~688 |
 | Crowd in a train | 29.00% | ~644 |

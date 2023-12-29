@@ -39,8 +39,8 @@
 | Winter Soldier | 2.00% | ~5 |
 | Researcher | 2.00% | ~5 |
 | Crisis Committee | 1.00% | ~3 |
+| Against Adversity | 1.00% | ~3 |
 | Counter-espionage | 0.80% | ~2 |
-| Against Adversity | 0.80% | ~2 |
 | Conveyor Belt Madness | 0.40% | ~1 |
 | People's Hero | 0.40% | ~1 |
 | Attack of the Drones | 0.00% | ~0 |

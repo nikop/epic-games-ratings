@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 382,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
     "PcReleaseDate": "2023-09-12T09:00:00+00:00",
@@ -673,9 +673,9 @@
       "ID": "the_four_doors",
       "SetID": "7i36ba9",
       "Name": "The Four Doors",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 95,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "the_martyr",
@@ -689,17 +689,17 @@
       "ID": "the_pageant",
       "SetID": "7i36ba9",
       "Name": "The Pageant",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 95,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "the_petition",
       "SetID": "7i36ba9",
       "Name": "The Petition",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 95,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "the_price_is_right",
@@ -729,9 +729,9 @@
       "ID": "who_is_d",
       "SetID": "7i36ba9",
       "Name": "Who is D?",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     }
   ],
   "AchievementSets": [
@@ -744,8 +744,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-12-29T21:09:36.4104195+00:00",
+  "LastChanged_Achievements": "2023-12-29T22:09:58.262379+00:00",
   "LastUpdate_AppInfo": "2023-12-23T06:57:10.0357966+00:00",
-  "LastUpdate_Ratings": "2023-12-29T21:02:33.9348085+00:00",
-  "LastUpdate_Achievements": "2023-12-29T21:09:36.4104366+00:00"
+  "LastUpdate_Ratings": "2023-12-29T22:02:47.8706831+00:00",
+  "LastUpdate_Achievements": "2023-12-29T22:09:58.2623992+00:00"
 }

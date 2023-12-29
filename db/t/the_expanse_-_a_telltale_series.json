@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17746,
+  "EOS_Progressed": 17750,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 639,
+  "EOS_NewPlayers": 634,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15597,6 +15597,11 @@
       "Time": "2023-12-29T21:05:23.2215328+00:00",
       "NumProgressed": 17746,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-29T22:05:38.1484176+00:00",
+      "NumProgressed": 17750,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15609,7 +15614,7 @@
       "Name": "Urshanabi Hoarder",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "10",
@@ -15641,7 +15646,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2839
+      "UsersEstimate": 2840
     },
     {
       "ID": "14",
@@ -15649,7 +15654,7 @@
       "Name": "Doctor Approved",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "15",
@@ -15657,7 +15662,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1597
+      "UsersEstimate": 1598
     },
     {
       "ID": "16",
@@ -15673,7 +15678,7 @@
       "Name": "Spore Taste",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1597
+      "UsersEstimate": 1598
     },
     {
       "ID": "18",
@@ -15681,7 +15686,7 @@
       "Name": "Bottoms up!",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "19",
@@ -15729,7 +15734,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "24",
@@ -15777,7 +15782,7 @@
       "Name": "Data Collector",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "3",
@@ -15888,22 +15893,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17746,
+      "Progressed": 17750,
       "Completed": 57
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3700,
-      "Completed": 1109
+      "Progressed": 3704,
+      "Completed": 1110
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-27T06:00:51.7325186+00:00",
-  "LastChanged_Achievements": "2023-12-29T21:05:23.2215325+00:00",
+  "LastChanged_Achievements": "2023-12-29T22:05:38.1484173+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-29T20:57:11.1545714+00:00",
-  "LastUpdate_Achievements": "2023-12-29T21:05:23.2216038+00:00"
+  "LastUpdate_Ratings": "2023-12-29T21:57:30.353277+00:00",
+  "LastUpdate_Achievements": "2023-12-29T22:05:38.1484921+00:00"
 }

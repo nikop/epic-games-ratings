@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -613,9 +613,9 @@
       "ID": "CgkInO_K3eIdEAIQCA",
       "SetID": "6bj96in",
       "Name": "GIFTED LIBRARIAN",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "CgkInO_K3eIdEAIQCQ",
@@ -709,9 +709,9 @@
       "ID": "CgkInO_K3eIdEAIQFA",
       "SetID": "6bj96in",
       "Name": "WALKER",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 40,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "CgkInO_K3eIdEAIQFQ",
@@ -772,8 +772,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-12-29T21:09:33.2589334+00:00",
+  "LastChanged_Achievements": "2023-12-29T22:09:54.9842677+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:14.0329257+00:00",
-  "LastUpdate_Ratings": "2023-12-29T20:58:16.6536117+00:00",
-  "LastUpdate_Achievements": "2023-12-29T21:09:33.2589478+00:00"
+  "LastUpdate_Ratings": "2023-12-29T21:58:34.7344899+00:00",
+  "LastUpdate_Achievements": "2023-12-29T22:09:54.9842895+00:00"
 }

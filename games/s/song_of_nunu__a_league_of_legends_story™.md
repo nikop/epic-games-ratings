@@ -17,7 +17,7 @@ Rating: 4.52 (Ranked 569)
 | Moneyball | 60.00% | ~830 |
 | No Bites | 55.00% | ~761 |
 | Iceborn | 55.00% | ~761 |
-| Boom Things | 52.00% | ~720 |
+| Boom Things | 53.00% | ~734 |
 | Tear of Freedom | 51.00% | ~706 |
 | My Darkest Day | 48.00% | ~664 |
 | Rhythm Of Willump | 46.00% | ~637 |
@@ -30,9 +30,9 @@ Rating: 4.52 (Ranked 569)
 | Family | 39.00% | ~540 |
 | Biggest Snowball Ever | 39.00% | ~540 |
 | Freeze The Ice Witch | 39.00% | ~540 |
+| True Legends | 39.00% | ~540 |
 | Boosted! | 39.00% | ~540 |
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~540 |
-| True Legends | 38.00% | ~526 |
 | Bullseye | 36.00% | ~498 |
 | It Is Not Over | 35.00% | ~484 |
 | On The Rocks | 34.00% | ~471 |
@@ -50,7 +50,7 @@ Rating: 4.52 (Ranked 569)
 | We Are Speed | 2.00% | ~28 |
 | Sneaky Notai | 1.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,384 (Ranked 262)  
+Progressed: 1,384 (Ranked 263)  
 Completed: 9 (0.65%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
