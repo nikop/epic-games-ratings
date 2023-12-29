@@ -8,9 +8,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | Abandoned Settlement | 7.00% | ~1,370 |
 | Overgrown Library | 7.00% | ~1,370 |
-| Taking Action | 6.00% | ~1,174 |
-| No Deaths | 6.00% | ~1,174 |
-| Petrified Necropolis | 6.00% | ~1,174 |
+| Taking Action | 6.00% | ~1,175 |
+| No Deaths | 6.00% | ~1,175 |
+| Petrified Necropolis | 6.00% | ~1,175 |
 | First Real Expedition | 5.00% | ~979 |
 | The Marshlands | 5.00% | ~979 |
 | Gathering Storm | 5.00% | ~979 |
@@ -20,24 +20,24 @@ Number of Ratings: 1,845  (23.09.2022)
 | Frosts | 4.00% | ~783 |
 | Land of Greed | 4.00% | ~783 |
 | Ominous Presence | 4.00% | ~783 |
+| Homesick | 3.00% | ~587 |
 | Fertile Meadows | 3.00% | ~587 |
 | Royal Outpost | 3.00% | ~587 |
 | Watchtower | 3.00% | ~587 |
 | Untamed Wilds | 3.00% | ~587 |
-| Homesick | 2.00% | ~391 |
-| Ruined Armory | 2.00% | ~391 |
-| Bandit Camp | 2.00% | ~391 |
-| Barren Lands | 2.00% | ~391 |
-| Ancient Battleground | 2.00% | ~391 |
-| Levitating Monument | 2.00% | ~391 |
-| Flooded Mines | 2.00% | ~391 |
-| Monastery of the Holy Flame | 2.00% | ~391 |
-| Lost Colonies | 2.00% | ~391 |
-| Statue of the Forefathers | 2.00% | ~391 |
-| Corrosive Torrent | 2.00% | ~391 |
-| Cursed Lands | 2.00% | ~391 |
-| A Real Challenge | 2.00% | ~391 |
-| Trade Baron | 2.00% | ~391 |
+| Ruined Armory | 2.00% | ~392 |
+| Bandit Camp | 2.00% | ~392 |
+| Barren Lands | 2.00% | ~392 |
+| Ancient Battleground | 2.00% | ~392 |
+| Levitating Monument | 2.00% | ~392 |
+| Flooded Mines | 2.00% | ~392 |
+| Monastery of the Holy Flame | 2.00% | ~392 |
+| Lost Colonies | 2.00% | ~392 |
+| Statue of the Forefathers | 2.00% | ~392 |
+| Corrosive Torrent | 2.00% | ~392 |
+| Cursed Lands | 2.00% | ~392 |
+| A Real Challenge | 2.00% | ~392 |
+| Trade Baron | 2.00% | ~392 |
 | Serving Ale | 1.00% | ~196 |
 | Against All Odds | 1.00% | ~196 |
 | Sparkdew Crystals | 1.00% | ~196 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,571 (Ranked 151)  
+Progressed: 19,577 (Ranked 151)  
 Completed: 36 (0.18%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 36 (0.18%) (Ranked 276)
 | 2023-12-26 | 19,350 | 38 |
 | 2023-12-27 | 19,458 | 38 |
 | 2023-12-28 | 19,536 | 36 |
-| 2023-12-29 | 19,571 | 36 |
+| 2023-12-29 | 19,577 | 36 |
 ## Awards
 Max (Quickly Understood Controls): 446  (Ranked 229)  
 Sum: 3,303 (Ranked 176)  

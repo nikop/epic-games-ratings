@@ -12,16 +12,16 @@ Rating: 4.65 (Ranked 323)
 | The Hellwoods | 77.00% | ~506 |
 | The Plains of Strothalm | 72.00% | ~473 |
 | Experienced Thalya | 72.00% | ~473 |
+| Bad Elves Go Everywhere | 69.00% | ~453 |
 | Thalya's Concentrated Fury | 68.00% | ~447 |
-| Bad Elves Go Everywhere | 68.00% | ~447 |
 | Heroes’ Gorge | 64.00% | ~420 |
 | Master of Magic | 63.00% | ~414 |
-| Unicorn steaks – fresh off the hoof! | 62.00% | ~407 |
+| Unicorn steaks – fresh off the hoof! | 63.00% | ~414 |
 | Magic Accidents | 59.00% | ~388 |
 | The Ascent | 58.00% | ~381 |
 | It's Warm and Cozy at Home | 58.00% | ~381 |
+| Minions, Minions! | 56.00% | ~368 |
 | Trap Master | 55.00% | ~361 |
-| Minions, Minions! | 55.00% | ~361 |
 | Hard Work | 54.00% | ~355 |
 | The Big Eaty | 53.00% | ~348 |
 | “… like son” | 51.00% | ~335 |
@@ -67,7 +67,7 @@ Rating: 4.65 (Ranked 323)
 | No Mana, No Cry | 10.00% | ~66 |
 | I Don't Need Any Help | 9.00% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 657 (Ranked 319)  
+Progressed: 657 (Ranked 320)  
 Completed: 24 (3.65%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |

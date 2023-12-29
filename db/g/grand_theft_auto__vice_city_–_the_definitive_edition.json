@@ -2,13 +2,13 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 570,
+  "Ranking_Rating": 569,
   "Ranking_Popularity": 322,
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1021,10 +1021,10 @@
       "Count": 159
     }
   ],
-  "EOS_Progressed": 14491,
-  "EOS_Completed": 82,
-  "EOS_NewPlayers": 1119,
-  "EOS_NewCompleters": 9,
+  "EOS_Progressed": 14492,
+  "EOS_Completed": 83,
+  "EOS_NewPlayers": 1115,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
     {
@@ -16236,6 +16236,11 @@
       "Time": "2023-12-29T12:09:42.1943918+00:00",
       "NumProgressed": 14491,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-29T13:12:38.5803473+00:00",
+      "NumProgressed": 14492,
+      "NumCompleted": 83
     }
   ],
   "TotalAchievements": 34,
@@ -16319,7 +16324,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "ACH11",
@@ -16335,7 +16340,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "ACH13",
@@ -16351,7 +16356,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6086
+      "UsersEstimate": 6087
     },
     {
       "ID": "ACH15",
@@ -16463,7 +16468,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "ACH29",
@@ -16518,16 +16523,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 14491,
-      "Completed": 82
+      "Progressed": 14492,
+      "Completed": 83
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-28T17:58:03.31187+00:00",
-  "LastChanged_Achievements": "2023-12-29T12:09:42.1943912+00:00",
+  "LastChanged_Achievements": "2023-12-29T13:12:38.5803469+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:06.9886134+00:00",
-  "LastUpdate_Ratings": "2023-12-29T11:58:43.2725268+00:00",
-  "LastUpdate_Achievements": "2023-12-29T12:09:42.1944763+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:01:50.4069331+00:00",
+  "LastUpdate_Achievements": "2023-12-29T13:12:38.5804395+00:00"
 }

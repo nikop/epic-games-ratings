@@ -3,8 +3,8 @@
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_Rating": 101,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 231,
@@ -181,7 +181,7 @@
   "Tags": [],
   "EOS_Progressed": 1338,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.62,
   "EosHistory": [
@@ -4653,9 +4653,9 @@
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 455
     },
     {
       "ID": "_05_FinishAct2",
@@ -4846,8 +4846,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2023-12-29T12:04:16.0251521+00:00",
+  "LastChanged_Achievements": "2023-12-29T13:07:42.7638936+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-29T11:58:54.8436172+00:00",
-  "LastUpdate_Achievements": "2023-12-29T12:04:16.0251812+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:02:02.1597958+00:00",
+  "LastUpdate_Achievements": "2023-12-29T13:07:42.7639365+00:00"
 }

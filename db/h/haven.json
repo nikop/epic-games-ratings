@@ -3,11 +3,11 @@
   "Name": "Haven",
   "ProductSlug": "haven",
   "Ranking_Rating": 149,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -183,11 +183,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1801,
+  "EOS_Progressed": 1802,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.56,
+  "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:19.3415137+00:00",
@@ -3018,6 +3018,11 @@
       "Time": "2023-12-29T11:05:28.6585422+00:00",
       "NumProgressed": 1801,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-29T13:08:57.5715638+00:00",
+      "NumProgressed": 1802,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3029,7 +3034,7 @@
       "Name": "Lovebirds",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "10",
@@ -3189,7 +3194,7 @@
       "Name": "Hug therapy",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "30",
@@ -3237,7 +3242,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "7",
@@ -3253,7 +3258,7 @@
       "Name": "Over my dead body",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "9",
@@ -3268,15 +3273,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1801,
+      "Progressed": 1802,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-29T12:05:32.4871528+00:00",
+  "LastChanged_Achievements": "2023-12-29T13:08:57.5715635+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.0357893+00:00",
-  "LastUpdate_Ratings": "2023-12-29T12:00:12.0602029+00:00",
-  "LastUpdate_Achievements": "2023-12-29T12:05:32.4871843+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:03:20.4375159+00:00",
+  "LastUpdate_Achievements": "2023-12-29T13:08:57.5716027+00:00"
 }

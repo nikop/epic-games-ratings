@@ -3,11 +3,11 @@
   "Name": "Redfall",
   "ProductSlug": "redfall",
   "Ranking_Rating": 1078,
-  "Ranking_Popularity": 569,
-  "Ranking_PopularitySum": 570,
+  "Ranking_Popularity": 568,
+  "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -327,9 +327,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2142,
+  "EOS_Progressed": 2144,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3557,6 +3557,11 @@
       "Time": "2023-12-29T11:03:58.7703331+00:00",
       "NumProgressed": 2142,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T13:07:30.0600186+00:00",
+      "NumProgressed": 2144,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3616,7 +3621,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "Achievement_009",
@@ -3624,7 +3629,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "Achievement_010",
@@ -3686,9 +3691,9 @@
       "ID": "Achievement_017",
       "SetID": "6b34g18",
       "Name": "Bad Wiring",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 107
     },
     {
       "ID": "Achievement_018",
@@ -3760,7 +3765,7 @@
       "Name": "Fly Fisher",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "Achievement_027",
@@ -3768,7 +3773,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "Achievement_028",
@@ -4095,7 +4100,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2142,
+      "Progressed": 2144,
       "Completed": 0
     }
   ],
@@ -4103,8 +4108,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-28T23:57:36.8686406+00:00",
-  "LastChanged_Achievements": "2023-12-29T12:04:03.2928977+00:00",
+  "LastChanged_Achievements": "2023-12-29T13:07:30.0600183+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:45.1864069+00:00",
-  "LastUpdate_Ratings": "2023-12-29T11:58:22.4531565+00:00",
-  "LastUpdate_Achievements": "2023-12-29T12:04:03.2929576+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:01:29.2166338+00:00",
+  "LastUpdate_Achievements": "2023-12-29T13:07:30.0600738+00:00"
 }

@@ -7,28 +7,28 @@ Number of Ratings: 20  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Adventure Begins | 65.00% | ~248 |
-| Cartographer | 58.00% | ~221 |
-| A Strange Artefact | 54.00% | ~206 |
-| Insomnia | 50.00% | ~190 |
-| Lost & Found & Lost Again | 44.00% | ~168 |
+| Cartographer | 58.00% | ~222 |
+| A Strange Artefact | 53.00% | ~202 |
+| Insomnia | 49.00% | ~187 |
+| Lost & Found & Lost Again | 43.00% | ~164 |
 | From Whence we Came | 43.00% | ~164 |
-| Fire and Flood | 41.00% | ~156 |
-| Spooky! | 38.00% | ~145 |
-| Shennong Herbalist | 35.00% | ~133 |
-| Treasure Hunt | 35.00% | ~133 |
-| Good Mama | 33.00% | ~126 |
+| Fire and Flood | 41.00% | ~157 |
+| Spooky! | 37.00% | ~141 |
+| Shennong Herbalist | 35.00% | ~134 |
+| Treasure Hunt | 35.00% | ~134 |
 | O Captain My Captain | 32.00% | ~122 |
-| Plunderer | 30.00% | ~114 |
+| Good Mama | 32.00% | ~122 |
+| Plunderer | 30.00% | ~115 |
 | Taxonomist | 28.00% | ~107 |
-| Traveller | 25.00% | ~95 |
-| Uncertain Loyalties | 25.00% | ~95 |
+| Traveller | 25.00% | ~96 |
+| Uncertain Loyalties | 25.00% | ~96 |
 | Roll to Save | 23.00% | ~88 |
 | Nahua Seeker | 23.00% | ~88 |
 | Veteran Explorer | 22.00% | ~84 |
-| Red Flag Pirate | 19.00% | ~72 |
+| Red Flag Pirate | 19.00% | ~73 |
 | Iron Man | 17.00% | ~65 |
-| A Gentle Beast | 17.00% | ~65 |
 | Shortening of the Way | 16.00% | ~61 |
+| A Gentle Beast | 16.00% | ~61 |
 | Practical Palaeontology | 16.00% | ~61 |
 | Adventurer | 15.00% | ~57 |
 | For the Club! | 15.00% | ~57 |
@@ -43,10 +43,10 @@ Number of Ratings: 20  (23.09.2022)
 | It's Complicated | 11.00% | ~42 |
 | Cold Blood, Warm Heart | 9.00% | ~34 |
 | Errand Runner | 9.00% | ~34 |
-| SCHMETTERLING | 8.00% | ~30 |
-| No Laughing Matter | 8.00% | ~30 |
-| The Great Library | 8.00% | ~30 |
-| Level Up | 8.00% | ~30 |
+| SCHMETTERLING | 8.00% | ~31 |
+| No Laughing Matter | 8.00% | ~31 |
+| The Great Library | 8.00% | ~31 |
+| Level Up | 8.00% | ~31 |
 | Zookeeper | 7.00% | ~27 |
 | The Workshop | 7.00% | ~27 |
 | Islander Understanding | 6.00% | ~23 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.80% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 381 (Ranked 362)  
+Progressed: 382 (Ranked 362)  
 Completed: 1 (0.26%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,6 +131,7 @@ Completed: 1 (0.26%) (Ranked 261)
 | 2023-12-24 | 376 | 1 |
 | 2023-12-27 | 379 | 1 |
 | 2023-12-28 | 381 | 1 |
+| 2023-12-29 | 382 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

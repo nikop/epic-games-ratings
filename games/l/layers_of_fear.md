@@ -21,12 +21,12 @@
 | Debut | 10.00% | ~22 |
 | Playtime | 10.00% | ~22 |
 | The art of movement | 10.00% | ~22 |
+| The tragedy unfolds | 10.00% | ~22 |
 | Tough conversation | 10.00% | ~22 |
 | A new way | 9.00% | ~20 |
 | Another perspective | 9.00% | ~20 |
 | First steps | 9.00% | ~20 |
 | Lights! Camera! Action! | 9.00% | ~20 |
-| The tragedy unfolds | 9.00% | ~20 |
 | Breaking free | 8.00% | ~18 |
 | True Reflection | 7.00% | ~16 |
 | Casting Finished | 6.00% | ~13 |
@@ -38,9 +38,9 @@
 | The Perfect Storm | 4.00% | ~9 |
 | Something to think about | 3.00% | ~7 |
 | I remember It Like Was Yesterday | 3.00% | ~7 |
+| Dark correspondence | 3.00% | ~7 |
 | Se7en Seas | 3.00% | ~7 |
 | Body of Work | 2.00% | ~4 |
-| Dark correspondence | 2.00% | ~4 |
 | It was worth a try | 2.00% | ~4 |
 | Full Scoop | 2.00% | ~4 |
 | Preferred Parent | 2.00% | ~4 |

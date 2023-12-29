@@ -18,8 +18,8 @@ Number of Ratings: 743  (23.09.2022)
 | Stand back boy! | 47.00% | ~20,799 |
 | Chain reaction | 45.00% | ~19,914 |
 | Weird science | 44.00% | ~19,472 |
+| Look mummy! A shark! | 42.00% | ~18,587 |
 | What did you say, Blain? | 42.00% | ~18,587 |
-| Look mummy! A shark! | 41.00% | ~18,144 |
 | In the dark dark woods... | 39.00% | ~17,259 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,817 |
 | Double tap | 37.00% | ~16,374 |

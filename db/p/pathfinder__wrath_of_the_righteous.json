@@ -4727,9 +4727,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12853,
+  "EOS_Progressed": 12855,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18317,6 +18317,11 @@
       "Time": "2023-12-29T12:10:11.2711859+00:00",
       "NumProgressed": 12853,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T13:13:07.9388294+00:00",
+      "NumProgressed": 12855,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18328,7 +18333,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3470
+      "UsersEstimate": 3471
     },
     {
       "ID": "02_BurningCity",
@@ -18344,7 +18349,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1799
+      "UsersEstimate": 1800
     },
     {
       "ID": "04_FithCrusade",
@@ -18528,7 +18533,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     },
     {
       "ID": "28_GreatUpstart",
@@ -18576,7 +18581,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2056
+      "UsersEstimate": 2057
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -19255,21 +19260,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11635,
+      "Progressed": 11637,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12853,
+      "Progressed": 12855,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-29T03:58:23.1001383+00:00",
-  "LastChanged_Achievements": "2023-12-29T12:10:11.2711851+00:00",
+  "LastChanged_Achievements": "2023-12-29T13:13:07.9388291+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:01.2970884+00:00",
-  "LastUpdate_Ratings": "2023-12-29T11:58:37.6942743+00:00",
-  "LastUpdate_Achievements": "2023-12-29T12:10:11.271343+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:01:44.6639489+00:00",
+  "LastUpdate_Achievements": "2023-12-29T13:13:07.9389939+00:00"
 }

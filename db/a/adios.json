@@ -3,8 +3,8 @@
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
   "Ranking_Rating": 1081,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 131,
@@ -135,9 +135,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81977,
+  "EOS_Progressed": 81983,
   "EOS_Completed": 902,
-  "EOS_NewPlayers": 719,
+  "EOS_NewPlayers": 721,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
@@ -28335,6 +28335,11 @@
       "Time": "2023-12-29T12:05:58.3113807+00:00",
       "NumProgressed": 81977,
       "NumCompleted": 902
+    },
+    {
+      "Time": "2023-12-29T13:09:23.2661351+00:00",
+      "NumProgressed": 81983,
+      "NumCompleted": 902
     }
   ],
   "TotalAchievements": 25,
@@ -28362,7 +28367,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15576
+      "UsersEstimate": 15577
     },
     {
       "ID": "Audiophile",
@@ -28378,7 +28383,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 18035
+      "UsersEstimate": 18036
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -28386,7 +28391,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14756
+      "UsersEstimate": 14757
     },
     {
       "ID": "Butcher",
@@ -28418,7 +28423,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16395
+      "UsersEstimate": 16397
     },
     {
       "ID": "Hearty",
@@ -28450,7 +28455,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17215
+      "UsersEstimate": 17216
     },
     {
       "ID": "Meaty",
@@ -28466,7 +28471,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15576
+      "UsersEstimate": 15577
     },
     {
       "ID": "Nice Try",
@@ -28474,7 +28479,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 13116
+      "UsersEstimate": 13117
     },
     {
       "ID": "Nothing Left to Say",
@@ -28482,7 +28487,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 5738
+      "UsersEstimate": 5739
     },
     {
       "ID": "Piano Man",
@@ -28490,7 +28495,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 9017
+      "UsersEstimate": 9018
     },
     {
       "ID": "Right On Target",
@@ -28498,7 +28503,7 @@
       "Name": "Right On Target",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11477
+      "UsersEstimate": 11478
     },
     {
       "ID": "Sniper",
@@ -28506,7 +28511,7 @@
       "Name": "Sniper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 5738
+      "UsersEstimate": 5739
     },
     {
       "ID": "Spicy",
@@ -28538,14 +28543,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6558
+      "UsersEstimate": 6559
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 81977,
+      "Progressed": 81983,
       "Completed": 902
     }
   ],
@@ -28553,8 +28558,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-12-24T03:59:19.0038141+00:00",
-  "LastChanged_Achievements": "2023-12-29T12:05:58.3113801+00:00",
+  "LastChanged_Achievements": "2023-12-29T13:09:23.2661346+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:32.7893719+00:00",
-  "LastUpdate_Ratings": "2023-12-29T12:02:48.7831962+00:00",
-  "LastUpdate_Achievements": "2023-12-29T12:05:58.3114951+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:03:51.7631047+00:00",
+  "LastUpdate_Achievements": "2023-12-29T13:09:23.2662827+00:00"
 }

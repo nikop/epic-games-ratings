@@ -31,9 +31,9 @@
 | Surprise!! | 42.00% | ~58 |
 | Haemochromatosis | 41.00% | ~57 |
 | Make America Grate Again | 37.00% | ~51 |
+| Pasta Bolognese | 36.00% | ~50 |
 | You are no match for me, Billy! | 35.00% | ~49 |
 | You can't stop me, bro! | 35.00% | ~49 |
-| Pasta Bolognese | 35.00% | ~49 |
 | Karaoke king | 33.00% | ~46 |
 | Meatballs, coming up! | 32.00% | ~44 |
 | Catch the bus with me! | 32.00% | ~44 |
@@ -48,7 +48,7 @@
 | I cant stand still! | 22.00% | ~31 |
 | Slimy... yet satisfying | 21.00% | ~29 |
 | Master Butcher | 18.00% | ~25 |
-| Just wing it! | 17.00% | ~24 |
+| Just wing it! | 18.00% | ~25 |
 | Deal with it | 17.00% | ~24 |
 | Ancient Ruins of Dirty Feet | 14.00% | ~19 |
 | Yeehaw!!! | 14.00% | ~19 |

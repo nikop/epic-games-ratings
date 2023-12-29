@@ -12,8 +12,8 @@
 | Aristocratic | 63.00% | ~128 |
 | Tutti Frutti | 57.00% | ~116 |
 | Gotta Go Fast | 45.00% | ~91 |
-| Slotting Machine | 44.00% | ~89 |
-| Systematic | 43.00% | ~87 |
+| Slotting Machine | 45.00% | ~91 |
+| Systematic | 44.00% | ~89 |
 | Mine Sweeper | 39.00% | ~79 |
 | Roll Out | 37.00% | ~75 |
 | Dopa-Miner | 31.00% | ~63 |

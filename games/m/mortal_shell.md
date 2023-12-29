@@ -4,9 +4,9 @@
 Rating: 4.26 (Ranked 897)  
 Number of Ratings: 213  (23.09.2022)  
 ## Awards
-Max (Quickly Understood Controls): 20  (Ranked 569)  
+Max (Quickly Understood Controls): 20  (Ranked 568)  
 Sum: 40 (Ranked 515)  
-Diff (max vs sum): 54  
+Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 88 |

@@ -2,7 +2,7 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 282,
+  "Ranking_Rating": 283,
   "Ranking_Popularity": 426,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 185,
@@ -203,9 +203,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 8493,
+  "EOS_Progressed": 8503,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2284,
+  "EOS_NewPlayers": 2280,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2833,6 +2833,11 @@
       "Time": "2023-12-29T12:09:52.5086718+00:00",
       "NumProgressed": 8493,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T13:12:48.9967762+00:00",
+      "NumProgressed": 8503,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -2851,9 +2856,9 @@
       "ID": "03_TheStolenStar",
       "SetID": "37a94m8",
       "Name": "Stolen Star",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 68
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -2861,15 +2866,15 @@
       "Name": "Trade Empire",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "05_TheComorraghSurvivors",
       "SetID": "37a94m8",
       "Name": "Commorragh Survivors",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 26
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -2877,7 +2882,7 @@
       "Name": "Expanse Calamity",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "07_TheGrandFinale",
@@ -2885,7 +2890,7 @@
       "Name": "Grand Finale",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "08_TheEmperorsHand",
@@ -2893,7 +2898,7 @@
       "Name": "The Emperor\u0027s Servant",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "09_TheMercifulSoul",
@@ -2917,7 +2922,7 @@
       "Name": "Overcome and Overpower",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "12_TooFastToDie",
@@ -2933,7 +2938,7 @@
       "Name": "Doom Trader",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "14_TheBreezeOfPain",
@@ -2947,17 +2952,17 @@
       "ID": "15_Pentakill",
       "SetID": "37a94m8",
       "Name": "Pentakill",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 51
     },
     {
       "ID": "16_TheRise",
       "SetID": "37a94m8",
       "Name": "The Rise",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 60
     },
     {
       "ID": "17_TheExemplar",
@@ -2965,15 +2970,15 @@
       "Name": "Exemplar",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "18_TheRookieSkipper",
       "SetID": "37a94m8",
       "Name": "Rookie Skipper",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 68
     },
     {
       "ID": "19_TheVoidWolf",
@@ -2989,7 +2994,7 @@
       "Name": "Purge the Unclean",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "21_PreciseDefense",
@@ -3003,17 +3008,17 @@
       "ID": "22_PerfectTiming",
       "SetID": "37a94m8",
       "Name": "Perfect Timing",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 60
     },
     {
       "ID": "23_DynastyRestored",
       "SetID": "37a94m8",
       "Name": "The Dynasty Restored",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 26
     },
     {
       "ID": "24_TheHighrise",
@@ -3029,7 +3034,7 @@
       "Name": "The Dynasty Prospers",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "26_MasterOfTheTrade",
@@ -3045,15 +3050,15 @@
       "Name": "Uncover the Ice",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "28_TheLightOfAstronomicon",
       "SetID": "37a94m8",
       "Name": "Light of the Astronomican",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 60
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -3075,9 +3080,9 @@
       "ID": "31_DontTouchThis",
       "SetID": "37a94m8",
       "Name": "Don\u0027t Touch This",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "32_AviationSaviour",
@@ -3085,7 +3090,7 @@
       "Name": "Aviation Saviour",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "33_TzeentchCleaning",
@@ -3117,7 +3122,7 @@
       "Name": "Adventurous Archaeologist",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "37_TheSirenicalDiplomat",
@@ -3125,7 +3130,7 @@
       "Name": "Silver-Tongued Diplomat",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "38_ThoseWhoAreAboutToDieSaluteYou",
@@ -3133,7 +3138,7 @@
       "Name": "Those Who Are About to Die Salute You",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "39_FullyPrepared",
@@ -3141,7 +3146,7 @@
       "Name": "Fully Prepared",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "40_PreserveTheArchitecture",
@@ -3149,7 +3154,7 @@
       "Name": "Preserve the Architecture",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "41_TheJungleHeat",
@@ -3173,7 +3178,7 @@
       "Name": "No Place Like Home",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -3181,7 +3186,7 @@
       "Name": "Work of the Holy Ordos",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "45_ThePolygloth",
@@ -3189,15 +3194,15 @@
       "Name": "Polyglot",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "46_ASpark",
       "SetID": "37a94m8",
       "Name": "A Spark",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 68
     },
     {
       "ID": "47_AFlame",
@@ -3205,7 +3210,7 @@
       "Name": "A Flame",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "48_TheUnexpectedCompany",
@@ -3221,7 +3226,7 @@
       "Name": "How Did It All End?",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "50_Whodunit",
@@ -3237,7 +3242,7 @@
       "Name": "Amends to the Dead",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "52_TheGoldenFrog",
@@ -3245,7 +3250,7 @@
       "Name": "Frog Trader",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "53_GardensOfMadness",
@@ -3253,7 +3258,7 @@
       "Name": "Enraged Dragon",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "54_ThisIsAJobForLordCaptain",
@@ -3261,7 +3266,7 @@
       "Name": "This Is a Job for the Lord Captain!",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "55_ReturningTheBoots",
@@ -3269,7 +3274,7 @@
       "Name": "Returning the Boots",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "56_ThoroughInvestigation",
@@ -3277,7 +3282,7 @@
       "Name": "Thorough Investigation",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "57_TheBurningHeritage",
@@ -3285,7 +3290,7 @@
       "Name": "Burning Inheritance",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "58_KneeDeepInChaos",
@@ -3301,7 +3306,7 @@
       "Name": "The Possessed Ship",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "60_NotSoBottomlessPit",
@@ -3309,7 +3314,7 @@
       "Name": "The Not-So-Bottomless Pit",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "61_TheScourge",
@@ -3317,7 +3322,7 @@
       "Name": "Sweet Perdition",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "62_TheInvisibleBureaucracy",
@@ -3325,7 +3330,7 @@
       "Name": "Invisible Bureaucracy",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "63_YouShouldGoToAnotherWindow",
@@ -3364,7 +3369,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8493,
+      "Progressed": 8503,
       "Completed": 0
     }
   ],
@@ -3372,8 +3377,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-28T13:57:33.384002+00:00",
-  "LastChanged_Achievements": "2023-12-29T12:09:52.5086713+00:00",
+  "LastChanged_Achievements": "2023-12-29T13:12:48.9967758+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-29T11:58:07.9840852+00:00",
-  "LastUpdate_Achievements": "2023-12-29T12:09:52.5087235+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:01:14.3535979+00:00",
+  "LastUpdate_Achievements": "2023-12-29T13:12:48.9968356+00:00"
 }

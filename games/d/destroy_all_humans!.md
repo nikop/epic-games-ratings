@@ -24,7 +24,7 @@ Number of Ratings: 85  (23.09.2022)
 | Upgreatest | 32.00% | ~68 |
 | Furon Fashion | 27.00% | ~58 |
 | Deincarnated | 25.00% | ~53 |
-| Rock of the Bay | 23.00% | ~49 |
+| Rock of the Bay | 24.00% | ~51 |
 | Trans-Siberian Express | 23.00% | ~49 |
 | Re-Return of the Clone of the Invasion II-2 | 20.00% | ~43 |
 | Ouch of Body Experience | 16.00% | ~34 |

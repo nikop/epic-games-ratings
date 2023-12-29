@@ -5,22 +5,22 @@ Rating: 4.03 (Ranked 1,025)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,651 |
-| World Map | 78.00% | ~3,062 |
-| Temple of Eternals | 56.00% | ~2,199 |
-| Prestigious | 52.00% | ~2,042 |
-| Fellowship Power | 42.00% | ~1,649 |
-| Full Party | 27.00% | ~1,060 |
+| Victor | 93.00% | ~3,653 |
+| World Map | 78.00% | ~3,064 |
+| Temple of Eternals | 56.00% | ~2,200 |
+| Prestigious | 52.00% | ~2,043 |
+| Fellowship Power | 42.00% | ~1,650 |
+| Full Party | 27.00% | ~1,061 |
 | Guild Power | 23.00% | ~903 |
-| Prestigious x10 | 20.00% | ~785 |
+| Prestigious x10 | 20.00% | ~786 |
 | The game is on | 18.00% | ~707 |
 | Exotic Merchant | 16.00% | ~628 |
 | Dragon Clicker | 15.00% | ~589 |
 | Miner Clicker | 15.00% | ~589 |
 | Enlightenment | 14.00% | ~550 |
 | Inspection | 14.00% | ~550 |
-| Dragon Master | 13.00% | ~510 |
-| Hero inspection | 13.00% | ~510 |
+| Dragon Master | 13.00% | ~511 |
+| Hero inspection | 13.00% | ~511 |
 | Lieutenant | 12.00% | ~471 |
 | Milestone collector | 11.00% | ~432 |
 | Mysterious Rock | 11.00% | ~432 |
@@ -28,9 +28,9 @@ Rating: 4.03 (Ranked 1,025)
 | Superior | 11.00% | ~432 |
 | The Unstoppable | 11.00% | ~432 |
 | Scientist | 10.00% | ~393 |
-| Doing My Part | 9.00% | ~353 |
-| Hunter | 9.00% | ~353 |
-| The power of Awakening | 9.00% | ~353 |
+| Doing My Part | 9.00% | ~354 |
+| Hunter | 9.00% | ~354 |
+| The power of Awakening | 9.00% | ~354 |
 | Challenger | 8.00% | ~314 |
 | Daily Quest Completionist | 8.00% | ~314 |
 | Frostfire Liberator | 8.00% | ~314 |
@@ -43,11 +43,11 @@ Rating: 4.03 (Ranked 1,025)
 | Master Enchanter | 7.00% | ~275 |
 | The father of Dragons | 7.00% | ~275 |
 | Trader | 7.00% | ~275 |
-| Dragon Slayer | 6.00% | ~236 |
 | The Expeditioner | 6.00% | ~236 |
 | Weekly Quest Completionist | 6.00% | ~236 |
 | Blueprint Upgrades | 5.00% | ~196 |
 | Crystal Mining | 5.00% | ~196 |
+| Dragon Slayer | 5.00% | ~196 |
 | Enchanting skill | 5.00% | ~196 |
 | Engineer Mastery | 5.00% | ~196 |
 | How Do You Turn This On? | 5.00% | ~196 |
@@ -81,7 +81,7 @@ Rating: 4.03 (Ranked 1,025)
 | Jewel Enchanting | 0.20% | ~8 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,926 (Ranked 210)  
+Progressed: 3,928 (Ranked 210)  
 Completed: 2 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 2 (0.05%) (Ranked 336)
 | 2023-12-26 | 3,857 | 2 |
 | 2023-12-27 | 3,886 | 2 |
 | 2023-12-28 | 3,911 | 2 |
-| 2023-12-29 | 3,926 | 2 |
+| 2023-12-29 | 3,928 | 2 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 478)  
 Sum: 129 (Ranked 444)  

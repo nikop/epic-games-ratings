@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -317,7 +317,7 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 484,
+  "EOS_Progressed": 486,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 3,
@@ -1342,6 +1342,11 @@
       "Time": "2023-12-29T12:05:39.8442246+00:00",
       "NumProgressed": 484,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T13:09:04.9793747+00:00",
+      "NumProgressed": 486,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1400,9 +1405,9 @@
       "ID": "ACH_FD_GRAVEYARD",
       "SetID": "biiejkc",
       "Name": "Ship Shape",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_FIND_BB_SPATULAS",
@@ -1426,7 +1431,7 @@
       "Name": "Jellyfishing",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -1562,7 +1567,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -1609,15 +1614,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 484,
+      "Progressed": 486,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-29T12:05:39.8442241+00:00",
+  "LastChanged_Achievements": "2023-12-29T13:09:04.9793737+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-29T12:00:26.6445504+00:00",
-  "LastUpdate_Achievements": "2023-12-29T12:05:39.8442524+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:03:33.0675376+00:00",
+  "LastUpdate_Achievements": "2023-12-29T13:09:04.9793984+00:00"
 }

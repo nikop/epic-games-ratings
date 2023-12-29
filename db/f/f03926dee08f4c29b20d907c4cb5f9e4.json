@@ -365,9 +365,9 @@
       "ID": "ACH_08_WESTERN_RANCH",
       "SetID": "9loam6m",
       "Name": "Western ranch",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_09_RESCUE_DOG",
@@ -485,9 +485,9 @@
       "ID": "ACH_23_SLALOM",
       "SetID": "9loam6m",
       "Name": "Slalom",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_24_WILD_WEST",
@@ -652,8 +652,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-12-29T12:05:51.5368944+00:00",
+  "LastChanged_Achievements": "2023-12-29T13:09:16.4607218+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9207398+00:00",
-  "LastUpdate_Ratings": "2023-12-29T11:58:05.9460106+00:00",
-  "LastUpdate_Achievements": "2023-12-29T12:05:51.5369494+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:01:12.0875617+00:00",
+  "LastUpdate_Achievements": "2023-12-29T13:09:16.4607522+00:00"
 }

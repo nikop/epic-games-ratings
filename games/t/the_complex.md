@@ -11,7 +11,7 @@
 | Beat It | 49.00% | ~362 |
 | Free Champagne | 48.00% | ~355 |
 | Storage Hunter | 46.00% | ~340 |
-| Falling For You | 42.00% | ~310 |
+| Falling For You | 43.00% | ~318 |
 | Trust Me For Once | 27.00% | ~200 |
 | Lab Rat | 24.00% | ~177 |
 | Stalemate | 21.00% | ~155 |
@@ -25,7 +25,7 @@
 | Second Chances | 7.00% | ~52 |
 | Not A People Person | 4.00% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 739 (Ranked 305)  
+Progressed: 739 (Ranked 306)  
 Completed: 21 (2.84%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |

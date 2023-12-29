@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -1020,9 +1020,9 @@
       "ID": "SG_MEANTTOBE",
       "SetID": "bj5g0n4",
       "Name": "Meant To Be",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -1187,8 +1187,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-29T12:09:02.7227008+00:00",
+  "LastChanged_Achievements": "2023-12-29T13:11:58.220091+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.3127204+00:00",
-  "LastUpdate_Ratings": "2023-12-29T11:57:51.9092183+00:00",
-  "LastUpdate_Achievements": "2023-12-29T12:09:02.722728+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:00:57.8726226+00:00",
+  "LastUpdate_Achievements": "2023-12-29T13:11:58.2201191+00:00"
 }

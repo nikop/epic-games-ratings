@@ -3,11 +3,11 @@
   "Name": "Grindstone",
   "ProductSlug": "grindstone",
   "Ranking_Rating": 56,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewPlayers": 412,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -219,7 +219,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5215,
+  "EOS_Progressed": 5216,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
@@ -1059,6 +1059,11 @@
       "Time": "2023-12-28T05:04:38.2358849+00:00",
       "NumProgressed": 5215,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-29T13:07:40.041188+00:00",
+      "NumProgressed": 5216,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -1094,7 +1099,7 @@
       "Name": "Bone Collector",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1825
+      "UsersEstimate": 1826
     },
     {
       "ID": "ACHIEVE_50_CROWNS",
@@ -1126,7 +1131,7 @@
       "Name": "Jerk-Slayer",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2242
+      "UsersEstimate": 2243
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -1142,7 +1147,7 @@
       "Name": "Fe-Festival",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1825
+      "UsersEstimate": 1826
     },
     {
       "ID": "ACHIEVE_50_MAGMA",
@@ -1174,7 +1179,7 @@
       "Name": "Timber!",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 3181
+      "UsersEstimate": 3182
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -1182,7 +1187,7 @@
       "Name": "Yummy!",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "ACHIEVE_BIOHAZARD",
@@ -1198,7 +1203,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5111
+      "UsersEstimate": 5112
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1206,7 +1211,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3285
+      "UsersEstimate": 3286
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -1246,7 +1251,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2555
+      "UsersEstimate": 2556
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -1294,7 +1299,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2816
+      "UsersEstimate": 2817
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -1310,7 +1315,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3233
+      "UsersEstimate": 3234
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -1358,7 +1363,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5111
+      "UsersEstimate": 5112
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1414,7 +1419,7 @@
       "Name": "Death Defied",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 2816
+      "UsersEstimate": 2817
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -1461,15 +1466,15 @@
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5215,
+      "Progressed": 5216,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-12-26T18:58:09.3460811+00:00",
-  "LastChanged_Achievements": "2023-12-29T12:04:13.2943876+00:00",
+  "LastChanged_Achievements": "2023-12-29T13:07:40.0411874+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:32.6670985+00:00",
-  "LastUpdate_Ratings": "2023-12-29T11:59:11.930809+00:00",
-  "LastUpdate_Achievements": "2023-12-29T12:04:13.2944188+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:02:19.4680766+00:00",
+  "LastUpdate_Achievements": "2023-12-29T13:07:40.0412313+00:00"
 }

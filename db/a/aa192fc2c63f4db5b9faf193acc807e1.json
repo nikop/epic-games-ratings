@@ -3,8 +3,8 @@
   "Name": "Creepy Tale",
   "ProductSlug": "creepy-tale-058ebd",
   "Ranking_EOS_Progress": 423,
-  "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_Completed": 75,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 197,
+  "EOS_Progressed": 198,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.08,
+  "EOS_Completed_Percentage": 5.05,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -894,6 +894,11 @@
       "Time": "2023-12-29T12:09:59.9506839+00:00",
       "NumProgressed": 197,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-29T13:12:56.5615581+00:00",
+      "NumProgressed": 198,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -914,7 +919,7 @@
       "Name": "Intuition",
       "Percentage": 17,
       "XP": 75,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "creepytaleach11",
@@ -922,7 +927,7 @@
       "Name": "Alchemist",
       "Percentage": 57,
       "XP": 75,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "creepytaleach12",
@@ -952,9 +957,9 @@
       "ID": "creepytaleach3",
       "SetID": "bnif31p",
       "Name": "Happy end",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 75,
-      "UsersEstimate": 85
+      "UsersEstimate": 83
     },
     {
       "ID": "creepytaleach4",
@@ -962,7 +967,7 @@
       "Name": "Dominance",
       "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "creepytaleach5",
@@ -986,7 +991,7 @@
       "Name": "Crazy chef",
       "Percentage": 21,
       "XP": 80,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "creepytaleach8",
@@ -1009,14 +1014,14 @@
     {
       "ID": "bnif31p",
       "IsBase": true,
-      "Progressed": 197,
+      "Progressed": 198,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-12-29T12:09:59.9506833+00:00",
+  "LastChanged_Achievements": "2023-12-29T13:12:56.5615577+00:00",
   "LastUpdate_AppInfo": "2023-12-27T07:56:54.2023855+00:00",
-  "LastUpdate_Ratings": "2023-12-29T11:57:37.1631268+00:00",
-  "LastUpdate_Achievements": "2023-12-29T12:09:59.9506961+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:00:43.1887932+00:00",
+  "LastUpdate_Achievements": "2023-12-29T13:12:56.5615717+00:00"
 }

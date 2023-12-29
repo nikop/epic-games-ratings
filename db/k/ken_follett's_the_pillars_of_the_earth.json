@@ -2,13 +2,13 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 588,
+  "Ranking_Rating": 587,
   "Ranking_Popularity": 324,
   "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17475,
+  "EOS_Progressed": 17476,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -17260,6 +17260,11 @@
       "Time": "2023-12-29T10:03:47.8349749+00:00",
       "NumProgressed": 17475,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-12-29T13:07:16.7672451+00:00",
+      "NumProgressed": 17476,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 41,
@@ -17279,7 +17284,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "tpote_achievement_11",
@@ -17447,7 +17452,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5417
+      "UsersEstimate": 5418
     },
     {
       "ID": "tpote_achievement_30",
@@ -17598,15 +17603,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17475,
+      "Progressed": 17476,
       "Completed": 122
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-29T12:03:51.3214447+00:00",
+  "LastChanged_Achievements": "2023-12-29T13:07:16.7672447+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.265609+00:00",
-  "LastUpdate_Ratings": "2023-12-29T12:00:03.7765109+00:00",
-  "LastUpdate_Achievements": "2023-12-29T12:03:51.3215252+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:03:12.2706999+00:00",
+  "LastUpdate_Achievements": "2023-12-29T13:07:16.7673438+00:00"
 }

@@ -1,7 +1,7 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.95 (Ranked 1,046)  
+Rating: 3.95 (Ranked 1,045)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,046)
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,670 (Ranked 98)  
+Progressed: 92,673 (Ranked 98)  
 Completed: 58 (0.06%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,14 +300,14 @@ Completed: 58 (0.06%) (Ranked 328)
 | 2023-12-26 | 92,581 | 58 |
 | 2023-12-27 | 92,615 | 58 |
 | 2023-12-28 | 92,654 | 58 |
-| 2023-12-29 | 92,670 | 58 |
+| 2023-12-29 | 92,673 | 58 |
 ## Awards
-Max (Diverse Characters): 583  (Ranked 208)  
-Sum: 2,758 (Ranked 190)  
-Diff (max vs sum): 18  
+Max (Diverse Characters): 585  (Ranked 207)  
+Sum: 2,760 (Ranked 190)  
+Diff (max vs sum): 17  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 583 |
+| This game has Diverse Characters | 585 |
 | This game is Highly Recommended | 561 |
 | This game has Quickly Understood Controls | 543 |
 | This game has Amazing Characters | 541 |
@@ -589,4 +589,4 @@ Diff (max vs sum): 18
 | 2023-12-26 | 3.95 | 581 | 2,732 |
 | 2023-12-27 | 3.95 | 581 | 2,740 |
 | 2023-12-28 | 3.95 | 583 | 2,752 |
-| 2023-12-29 | 3.95 | 583 | 2,758 |
+| 2023-12-29 | 3.95 | 585 | 2,760 |

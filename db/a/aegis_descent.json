@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewPlayers": 412,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -539,9 +539,9 @@
       "ID": "Award_CleanSweep",
       "SetID": "9ojec6n",
       "Name": "Clean Sweep",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 409
+      "UsersEstimate": 414
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -611,9 +611,9 @@
       "ID": "Award_Gunner",
       "SetID": "9ojec6n",
       "Name": "Gunner",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 246
+      "UsersEstimate": 251
     },
     {
       "ID": "Award_HalfwayThere",
@@ -747,9 +747,9 @@
       "ID": "Award_Scavenger",
       "SetID": "9ojec6n",
       "Name": "Scavenger",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 321
+      "UsersEstimate": 326
     },
     {
       "ID": "Award_ShellShock",
@@ -860,8 +860,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-12-29T12:08:40.9181044+00:00",
+  "LastChanged_Achievements": "2023-12-29T13:11:36.1720059+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:55.752897+00:00",
-  "LastUpdate_Ratings": "2023-12-29T11:58:32.9973033+00:00",
-  "LastUpdate_Achievements": "2023-12-29T12:08:40.918137+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:01:39.6514753+00:00",
+  "LastUpdate_Achievements": "2023-12-29T13:11:36.1720351+00:00"
 }

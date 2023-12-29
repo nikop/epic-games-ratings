@@ -9107,10 +9107,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33167,
       "NumberOfAwardsMax": 5708
+    },
+    {
+      "Time": "2023-12-29T13:02:39.1033221+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33169,
+      "NumberOfAwardsMax": 5708
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33167,
+  "NumberOfAwards": 33169,
   "NumberOfAwardsMax": 5708,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9136,7 +9142,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4749
+      "Count": 4751
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9157,9 +9163,9 @@
       "Count": 3607
     }
   ],
-  "EOS_Progressed": 246677,
+  "EOS_Progressed": 246704,
   "EOS_Completed": 2575,
-  "EOS_NewPlayers": 3486,
+  "EOS_NewPlayers": 3488,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -37772,6 +37778,11 @@
       "Time": "2023-12-29T12:10:14.7599031+00:00",
       "NumProgressed": 246677,
       "NumCompleted": 2575
+    },
+    {
+      "Time": "2023-12-29T13:13:11.4096938+00:00",
+      "NumProgressed": 246704,
+      "NumCompleted": 2575
     }
   ],
   "TotalAchievements": 546,
@@ -40853,9 +40864,9 @@
       "ID": "objective_completed_69",
       "SetID": "cc37lbc",
       "Name": "Escort to Waterdeep",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 493
     },
     {
       "ID": "objective_completed_690",
@@ -42150,21 +42161,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 212951,
-      "Completed": 4089
+      "Progressed": 212978,
+      "Completed": 4090
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 246677,
+      "Progressed": 246704,
       "Completed": 2575
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-29T09:59:27.47412+00:00",
-  "LastChanged_Achievements": "2023-12-29T12:10:14.7599026+00:00",
+  "LastChanged": "2023-12-29T13:02:39.1033219+00:00",
+  "LastChanged_Achievements": "2023-12-29T13:13:11.4096934+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-29T11:59:31.0794376+00:00",
-  "LastUpdate_Achievements": "2023-12-29T12:10:14.7622162+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:02:39.1033226+00:00",
+  "LastUpdate_Achievements": "2023-12-29T13:13:11.4119328+00:00"
 }

@@ -8,16 +8,16 @@ Number of Ratings: 209  (23.09.2022)
 | ---- | ---------- | ----- |
 | Good Morning | 99.00% | ~2,372 |
 | Hit Rock Bottom | 97.00% | ~2,324 |
+| High Jump | 97.00% | ~2,324 |
+| Knee bending | 97.00% | ~2,324 |
 | Rocket Launched | 97.00% | ~2,324 |
 | Speed | 97.00% | ~2,324 |
-| High Jump | 96.00% | ~2,300 |
-| Knee bending | 96.00% | ~2,300 |
 | Pickaxe | 94.00% | ~2,252 |
+| Revenge | 94.00% | ~2,252 |
 | Cage Town | 94.00% | ~2,252 |
 | Force Beam | 93.00% | ~2,228 |
 | Entered Cage Town | 93.00% | ~2,228 |
 | Stone Pickaxe | 93.00% | ~2,228 |
-| Revenge | 93.00% | ~2,228 |
 | Surprise | 93.00% | ~2,228 |
 | Magnet | 90.00% | ~2,156 |
 | Industrial Area | 89.00% | ~2,132 |

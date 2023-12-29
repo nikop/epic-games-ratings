@@ -16,22 +16,22 @@
 | The Missing Magdalene | 46.00% | ~35 |
 | Arthur Hastings | 46.00% | ~35 |
 | Everything matters | 43.00% | ~33 |
-| An expert mediator | 41.00% | ~31 |
-| DI Hardwicke | 41.00% | ~31 |
-| Order and method | 36.00% | ~27 |
-| Betty Allen | 36.00% | ~27 |
-| The Investigation Begins | 33.00% | ~25 |
-| Ms. Camilla B. Culsham | 30.00% | ~23 |
-| Irene Court-Smyth | 30.00% | ~23 |
-| An odd series of events | 29.00% | ~22 |
-| The Apartment | 29.00% | ~22 |
-| Nathaniel Dryden | 26.00% | ~20 |
-| A rude awakening | 25.00% | ~19 |
-| Bartholomew | 25.00% | ~19 |
-| Well-acquainted | 24.00% | ~18 |
-| Anastasia Babanin | 24.00% | ~18 |
-| The Scheme | 24.00% | ~18 |
-| Zakariya Demir | 22.00% | ~17 |
+| An expert mediator | 42.00% | ~32 |
+| DI Hardwicke | 42.00% | ~32 |
+| Order and method | 37.00% | ~28 |
+| Betty Allen | 37.00% | ~28 |
+| The Investigation Begins | 34.00% | ~26 |
+| Ms. Camilla B. Culsham | 32.00% | ~24 |
+| Irene Court-Smyth | 32.00% | ~24 |
+| An odd series of events | 30.00% | ~23 |
+| The Apartment | 30.00% | ~23 |
+| Nathaniel Dryden | 28.00% | ~21 |
+| A rude awakening | 26.00% | ~20 |
+| Bartholomew | 26.00% | ~20 |
+| Well-acquainted | 25.00% | ~19 |
+| Anastasia Babanin | 25.00% | ~19 |
+| The Scheme | 25.00% | ~19 |
+| Zakariya Demir | 24.00% | ~18 |
 | Truth from within | 21.00% | ~16 |
 | A curious phrase | 20.00% | ~15 |
 | Evelyn Lakshmi Warbeck | 17.00% | ~13 |

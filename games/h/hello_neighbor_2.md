@@ -12,9 +12,9 @@ Rating: 4.42 (Ranked 731)
 | Family Lost | 32.00% | ~1,182 |
 | Treasure Hunt | 30.00% | ~1,108 |
 | Ancient Curse | 27.00% | ~997 |
+| Hidden Secrets | 25.00% | ~924 |
 | Cat Person | 24.00% | ~887 |
 | Climber | 24.00% | ~887 |
-| Hidden Secrets | 24.00% | ~887 |
 | Imprisonment | 23.00% | ~850 |
 | Mad Scientist | 23.00% | ~850 |
 | Reunion | 23.00% | ~850 |

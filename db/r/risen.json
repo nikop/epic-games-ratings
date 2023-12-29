@@ -3,11 +3,11 @@
   "Name": "Risen",
   "ProductSlug": "risen-e8e55e",
   "Ranking_Rating": 521,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -1132,9 +1132,9 @@
       "ID": "id_9",
       "SetID": "bk9jib6",
       "Name": "Master detective",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
@@ -1149,8 +1149,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-28T07:02:46.0007261+00:00",
-  "LastChanged_Achievements": "2023-12-29T12:10:02.8798467+00:00",
+  "LastChanged_Achievements": "2023-12-29T13:12:59.6631294+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:07.54931+00:00",
-  "LastUpdate_Ratings": "2023-12-29T12:02:52.7600507+00:00",
-  "LastUpdate_Achievements": "2023-12-29T12:10:02.8798826+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:06:15.4205231+00:00",
+  "LastUpdate_Achievements": "2023-12-29T13:12:59.6631764+00:00"
 }

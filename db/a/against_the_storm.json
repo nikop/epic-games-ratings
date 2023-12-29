@@ -3665,9 +3665,9 @@
       "Count": 336
     }
   ],
-  "EOS_Progressed": 19571,
+  "EOS_Progressed": 19577,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 666,
+  "EOS_NewPlayers": 669,
   "EOS_NewCompleters": -3,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -17595,6 +17595,11 @@
       "Time": "2023-12-29T12:05:51.7369915+00:00",
       "NumProgressed": 19571,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-12-29T13:09:16.7072245+00:00",
+      "NumProgressed": 19577,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17685,9 +17690,9 @@
       "ID": "Win5Years",
       "SetID": "cfbk359",
       "Name": "Homesick",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 391
+      "UsersEstimate": 587
     },
     {
       "ID": "WinFirstGame",
@@ -17719,7 +17724,7 @@
       "Name": "Ruined Armory",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "WinNearBandit",
@@ -17727,7 +17732,7 @@
       "Name": "Bandit Camp",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "WinNearBarren",
@@ -17735,7 +17740,7 @@
       "Name": "Barren Lands",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "WinNearBattleground",
@@ -17743,7 +17748,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "WinNearCrystals",
@@ -17799,7 +17804,7 @@
       "Name": "Levitating Monument",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "WinNearMines",
@@ -17807,7 +17812,7 @@
       "Name": "Flooded Mines",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "WinNearMonastery",
@@ -17815,7 +17820,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "WinNearOutpost",
@@ -17831,7 +17836,7 @@
       "Name": "Lost Colonies",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "WinNearStatue",
@@ -17839,7 +17844,7 @@
       "Name": "Statue of the Forefathers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "WinNearTemple",
@@ -17855,7 +17860,7 @@
       "Name": "Corrosive Torrent",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "WinNearWatchtower",
@@ -17879,7 +17884,7 @@
       "Name": "Cursed Lands",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "WinOnMarshlands",
@@ -17919,7 +17924,7 @@
       "Name": "A Real Challenge",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "WinWIthCaches",
@@ -17943,7 +17948,7 @@
       "Name": "Taking Action",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "WinWithResolve",
@@ -17975,7 +17980,7 @@
       "Name": "Trade Baron",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "WinWithoutDeath",
@@ -17983,7 +17988,7 @@
       "Name": "No Deaths",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "WinWithoutOrders",
@@ -18039,7 +18044,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "WinNearPresence",
@@ -18078,15 +18083,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19571,
+      "Progressed": 19577,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-29T07:59:36.20104+00:00",
-  "LastChanged_Achievements": "2023-12-29T12:05:51.7369911+00:00",
+  "LastChanged_Achievements": "2023-12-29T13:09:16.7072241+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-29T12:00:09.3667792+00:00",
-  "LastUpdate_Achievements": "2023-12-29T12:05:51.7370846+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:03:17.8336557+00:00",
+  "LastUpdate_Achievements": "2023-12-29T13:09:16.7073331+00:00"
 }

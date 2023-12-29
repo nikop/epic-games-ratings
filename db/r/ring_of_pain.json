@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3808,9 +3808,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 241948,
+  "EOS_Progressed": 241953,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 486,
+  "EOS_NewPlayers": 489,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29953,6 +29953,11 @@
       "Time": "2023-12-29T12:10:13.0608402+00:00",
       "NumProgressed": 241948,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-29T13:13:09.4652065+00:00",
+      "NumProgressed": 241953,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -29996,7 +30001,7 @@
       "Name": "First Steps",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2419
+      "UsersEstimate": 2420
     },
     {
       "ID": "CURSE1HP",
@@ -30290,9 +30295,9 @@
       "ID": "HIGHCLARITY",
       "SetID": "5l8oe0h",
       "Name": "Willing the World",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 484
     },
     {
       "ID": "HIGHDEFENSE",
@@ -30708,7 +30713,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2419
+      "UsersEstimate": 2420
     },
     {
       "ID": "SPECIALROOMS10",
@@ -31067,13 +31072,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241948,
+      "Progressed": 241953,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3428,
+      "Progressed": 3433,
       "Completed": 416
     }
   ],
@@ -31081,8 +31086,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-29T11:59:56.9615531+00:00",
-  "LastChanged_Achievements": "2023-12-29T12:10:13.06084+00:00",
+  "LastChanged_Achievements": "2023-12-29T13:13:09.4652062+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-29T11:59:56.9615535+00:00",
-  "LastUpdate_Achievements": "2023-12-29T12:10:13.061093+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:03:05.2645074+00:00",
+  "LastUpdate_Achievements": "2023-12-29T13:13:09.4654969+00:00"
 }

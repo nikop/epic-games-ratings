@@ -4,7 +4,7 @@
   "ProductSlug": "snowmen-5987b9",
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 387,
+  "Ranking_EOS_NewPlayers": 386,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-12-05T12:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 325,
+  "EOS_Progressed": 326,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
@@ -1509,6 +1509,11 @@
       "Time": "2023-12-29T02:21:23.6840454+00:00",
       "NumProgressed": 325,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T13:09:33.1684327+00:00",
+      "NumProgressed": 326,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-17T19:06:21.6274083+00:00",
@@ -1537,7 +1542,7 @@
       "Name": "A new HOME",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_ENDING_BAD_SNOWMAN",
@@ -1649,7 +1654,7 @@
       "Name": "Silver Scarf",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_MAIN_WRONG_PATH",
@@ -1664,14 +1669,14 @@
     {
       "ID": "5lffoo5",
       "IsBase": true,
-      "Progressed": 325,
+      "Progressed": 326,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-08T01:45:34.789391+00:00",
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2023-12-29T12:06:08.3982117+00:00",
+  "LastChanged_Achievements": "2023-12-29T13:09:33.1684322+00:00",
   "LastUpdate_AppInfo": "2023-12-25T02:56:58.7115371+00:00",
-  "LastUpdate_Ratings": "2023-12-29T11:57:35.2623151+00:00",
-  "LastUpdate_Achievements": "2023-12-29T12:06:08.3982289+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:00:41.2641526+00:00",
+  "LastUpdate_Achievements": "2023-12-29T13:09:33.1684564+00:00"
 }

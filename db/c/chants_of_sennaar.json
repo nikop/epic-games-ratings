@@ -3,12 +3,12 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_Rating": 10,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 70,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -85,11 +85,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1976,
-  "EOS_Completed": 119,
-  "EOS_NewPlayers": 430,
-  "EOS_NewCompleters": 36,
-  "EOS_Completed_Percentage": 6.02,
+  "EOS_Progressed": 1977,
+  "EOS_Completed": 120,
+  "EOS_NewPlayers": 428,
+  "EOS_NewCompleters": 37,
+  "EOS_Completed_Percentage": 6.07,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -5655,6 +5655,11 @@
       "Time": "2023-12-29T12:05:15.803523+00:00",
       "NumProgressed": 1976,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-29T13:08:41.0189974+00:00",
+      "NumProgressed": 1977,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 25,
@@ -5666,7 +5671,7 @@
       "Name": "I did it",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "END_GOOD",
@@ -5690,7 +5695,7 @@
       "Name": "Cable guy",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "META_FIRST_LINK",
@@ -5706,7 +5711,7 @@
       "Name": "Half the way",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "META_RESULT_1-2",
@@ -5770,7 +5775,7 @@
       "Name": "Rascal",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -5810,7 +5815,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -5826,7 +5831,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "PROGRESS_N2",
@@ -5834,7 +5839,7 @@
       "Name": "The great escape",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "PROGRESS_N3",
@@ -5865,16 +5870,16 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1976,
-      "Completed": 119
+      "Progressed": 1977,
+      "Completed": 120
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-29T06:59:08.3980906+00:00",
-  "LastChanged_Achievements": "2023-12-29T12:05:15.8035225+00:00",
+  "LastChanged_Achievements": "2023-12-29T13:08:41.0189969+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-29T11:59:18.88146+00:00",
-  "LastUpdate_Achievements": "2023-12-29T12:05:15.8035544+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:02:26.3158638+00:00",
+  "LastUpdate_Achievements": "2023-12-29T13:08:41.0190371+00:00"
 }

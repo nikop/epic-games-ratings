@@ -29,8 +29,8 @@ Rating: 4.55 (Ranked 521)
 | Hard worker | 17.00% | ~23 |
 | The fourth triplet | 17.00% | ~23 |
 | Fence | 17.00% | ~23 |
+| Master detective | 16.00% | ~22 |
 | Ghost hunter | 15.00% | ~20 |
-| Master detective | 15.00% | ~20 |
 | Pandora's box | 14.00% | ~19 |
 | Workaholic | 13.00% | ~18 |
 | Peacekeeper | 13.00% | ~18 |

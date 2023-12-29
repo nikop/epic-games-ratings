@@ -6,22 +6,22 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,111 |
-| The Journey Begins | 98.00% | ~5,111 |
+| Quinceañera Time | 98.00% | ~5,112 |
+| The Journey Begins | 98.00% | ~5,112 |
 | Slaughterhouse 5 (200 times) | 78.00% | ~4,068 |
 | There is No Escape | 71.00% | ~3,703 |
-| Fun, Flirty, and Thirty | 63.00% | ~3,285 |
-| Royal Flush | 62.00% | ~3,233 |
-| Timber! | 61.00% | ~3,181 |
+| Fun, Flirty, and Thirty | 63.00% | ~3,286 |
+| Royal Flush | 62.00% | ~3,234 |
+| Timber! | 61.00% | ~3,182 |
 | Survive the Bombsequences | 59.00% | ~3,077 |
-| Killed 20 Jerks | 54.00% | ~2,816 |
-| Death Defied | 54.00% | ~2,816 |
-| Fortunate Soul | 49.00% | ~2,555 |
-| Jerk-Slayer | 43.00% | ~2,242 |
+| Killed 20 Jerks | 54.00% | ~2,817 |
+| Death Defied | 54.00% | ~2,817 |
+| Fortunate Soul | 49.00% | ~2,556 |
+| Jerk-Slayer | 43.00% | ~2,243 |
 | Employee of the Month | 37.00% | ~1,930 |
 | I Believe I Can Fly | 37.00% | ~1,930 |
-| Bone Collector | 35.00% | ~1,825 |
-| Fe-Festival | 35.00% | ~1,825 |
+| Bone Collector | 35.00% | ~1,826 |
+| Fe-Festival | 35.00% | ~1,826 |
 | Pardon my Slob | 33.00% | ~1,721 |
 | Top of the Food Chain | 32.00% | ~1,669 |
 | Humerus Achievement | 32.00% | ~1,669 |
@@ -31,7 +31,7 @@ Number of Ratings: 63  (23.09.2022)
 | Trying To Get Into That 1%, Huh? | 18.00% | ~939 |
 | Can't Touch This | 18.00% | ~939 |
 | That Was Quick | 17.00% | ~887 |
-| Yummy! | 16.00% | ~834 |
+| Yummy! | 16.00% | ~835 |
 | Goldrush Glory Days | 15.00% | ~782 |
 | Best Party Guest | 15.00% | ~782 |
 | Shrub it Off | 15.00% | ~782 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.70% | ~37 |
 | Completionist | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,215 (Ranked 201)  
+Progressed: 5,216 (Ranked 201)  
 Completed: 30 (0.58%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,6 +156,7 @@ Completed: 30 (0.58%) (Ranked 205)
 | 2023-12-26 | 5,211 | 30 |
 | 2023-12-27 | 5,214 | 30 |
 | 2023-12-28 | 5,215 | 30 |
+| 2023-12-29 | 5,216 | 30 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

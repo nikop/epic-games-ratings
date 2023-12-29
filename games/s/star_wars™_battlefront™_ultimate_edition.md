@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~2,033 |
-| Off to a good start | 62.00% | ~1,432 |
-| Do... or do not. There is no try | 52.00% | ~1,201 |
+| New Recruit | 88.00% | ~2,035 |
+| Off to a good start | 62.00% | ~1,434 |
+| Do... or do not. There is no try | 52.00% | ~1,203 |
 | A good blaster at your side | 26.00% | ~601 |
 | I suggest a new strategy | 18.00% | ~416 |
 | Great shot, kid! | 16.00% | ~370 |
-| Scrap collector | 15.00% | ~346 |
-| All right, I'll give it a try | 15.00% | ~346 |
-| Shoot first | 13.00% | ~300 |
-| The power of the Force | 12.00% | ~277 |
-| Collector | 12.00% | ~277 |
-| Together we can rule the galaxy | 12.00% | ~277 |
+| Scrap collector | 15.00% | ~347 |
+| All right, I'll give it a try | 15.00% | ~347 |
+| Shoot first | 13.00% | ~301 |
+| The power of the Force | 12.00% | ~278 |
+| Collector | 12.00% | ~278 |
+| Together we can rule the galaxy | 12.00% | ~278 |
 | Tell Jabba that I've got his money | 9.00% | ~208 |
 | Best star-pilot in the galaxy | 8.00% | ~185 |
 | Survivor | 8.00% | ~185 |
@@ -26,8 +26,8 @@
 | Impressive. Most impressive. | 5.00% | ~116 |
 | Judge me by my size, do you? | 5.00% | ~116 |
 | Support the troops | 5.00% | ~116 |
-| Distinguished | 4.00% | ~92 |
-| A tremor in the Force | 4.00% | ~92 |
+| Distinguished | 4.00% | ~93 |
+| A tremor in the Force | 4.00% | ~93 |
 | On the ball | 3.00% | ~69 |
 | Safety ain't the point of a joyride | 3.00% | ~69 |
 | Not bad for a little furball | 3.00% | ~69 |
@@ -50,8 +50,8 @@
 | Alternative solution | 1.00% | ~23 |
 | Onwards! | 1.00% | ~23 |
 | The circle is now complete | 1.00% | ~23 |
-| You have your moments | 0.80% | ~18 |
-| When surrounded by war... | 0.80% | ~18 |
+| You have your moments | 0.80% | ~19 |
+| When surrounded by war... | 0.80% | ~19 |
 | A New Hope | 0.70% | ~16 |
 | Walker defender | 0.60% | ~14 |
 | No such thing as luck | 0.60% | ~14 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,310 (Ranked 233)  
+Progressed: 2,313 (Ranked 233)  
 Completed: 1 (0.04%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 1 (0.04%) (Ranked 345)
 | 2023-12-26 | 2,218 | 1 |
 | 2023-12-27 | 2,258 | 1 |
 | 2023-12-28 | 2,299 | 1 |
-| 2023-12-29 | 2,310 | 1 |
+| 2023-12-29 | 2,313 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

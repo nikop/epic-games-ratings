@@ -1,27 +1,27 @@
 # Eiyuden Chronicle: Rising
 [Store](https://store.epicgames.com/en-US/p/eiyuden-chronicle-rising)  
 [View Rawdata](../../db/e/eiyuden_chronicle__rising.json)  
-Rating: 4.50 (Ranked 610)  
+Rating: 4.50 (Ranked 609)  
 Number of Ratings: 48  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Plenty More to Go | 85.00% | ~659 |
+| Plenty More to Go | 85.00% | ~660 |
 | All Bark, No Bite | 74.00% | ~574 |
-| Hopeful Hunter | 64.00% | ~496 |
-| The Road to Recovery | 61.00% | ~473 |
+| Hopeful Hunter | 64.00% | ~497 |
 | Amateur Adventurer | 61.00% | ~473 |
-| Partners? | 59.00% | ~457 |
-| Magical Mineral Golem | 52.00% | ~403 |
-| On Outlander Lane | 51.00% | ~395 |
-| First Time Fishing | 49.00% | ~380 |
+| The Road to Recovery | 60.00% | ~466 |
+| Partners? | 59.00% | ~458 |
+| Magical Mineral Golem | 52.00% | ~404 |
+| On Outlander Lane | 51.00% | ~396 |
 | A Girl About the Town | 48.00% | ~372 |
-| First Time Hunting | 46.00% | ~356 |
-| Rune Wall Wreckage | 46.00% | ~356 |
+| First Time Fishing | 48.00% | ~372 |
+| First Time Hunting | 46.00% | ~357 |
+| Rune Wall Wreckage | 46.00% | ~357 |
 | ...And Your Tax Money | 44.00% | ~341 |
-| The Lords of the Snowpeak | 38.00% | ~294 |
-| The Go-To Girl | 35.00% | ~271 |
-| Natural Born Monster-Killer | 35.00% | ~271 |
+| The Lords of the Snowpeak | 38.00% | ~295 |
+| The Go-To Girl | 35.00% | ~272 |
+| Natural Born Monster-Killer | 35.00% | ~272 |
 | The Lava Mantor Wyrm | 34.00% | ~264 |
 | Scavenger's Honor | 34.00% | ~264 |
 | One Mean Merc | 34.00% | ~264 |
@@ -30,13 +30,13 @@ Number of Ratings: 48  (23.09.2022)
 | Money, Money, Money | 33.00% | ~256 |
 | Rune Wall Master | 32.00% | ~248 |
 | The Quarry...On Foot! | 29.00% | ~225 |
-| The Runebarrows...On Foot! | 27.00% | ~209 |
+| The Runebarrows...On Foot! | 27.00% | ~210 |
 | The Lava Ruins...On Foot! | 26.00% | ~202 |
 | Meat Master | 25.00% | ~194 |
 | The Snowpeak...On Foot! | 25.00% | ~194 |
 | Armor Master | 23.00% | ~178 |
 | Fishing Master | 23.00% | ~178 |
-| The Pride of the Town | 22.00% | ~170 |
+| The Pride of the Town | 22.00% | ~171 |
 | This Treasure I've Found | 20.00% | ~155 |
 | New Nevaeh's Number One Customer | 19.00% | ~147 |
 | Arms Master | 18.00% | ~140 |
@@ -57,8 +57,8 @@ Number of Ratings: 48  (23.09.2022)
 | Full Force - Isha | 7.00% | ~54 |
 | Rising Champion | 7.00% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 775 (Ranked 303)  
-Completed: 60 (7.74%) (Ranked 53)  
+Progressed: 776 (Ranked 303)  
+Completed: 60 (7.73%) (Ranked 53)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -118,7 +118,7 @@ Completed: 60 (7.74%) (Ranked 53)
 | 2023-12-26 | 770 | 60 |
 | 2023-12-27 | 773 | 60 |
 | 2023-12-28 | 774 | 60 |
-| 2023-12-29 | 775 | 60 |
+| 2023-12-29 | 776 | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

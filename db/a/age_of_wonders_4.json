@@ -633,9 +633,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6447,
+  "EOS_Progressed": 6450,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 479,
+  "EOS_NewPlayers": 480,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9618,6 +9618,11 @@
       "Time": "2023-12-29T12:05:03.7823249+00:00",
       "NumProgressed": 6447,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-29T13:08:29.0080032+00:00",
+      "NumProgressed": 6450,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9635,9 +9640,9 @@
       "ID": "10",
       "SetID": "3aa2279",
       "Name": "Snap Out of It!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 26
     },
     {
       "ID": "11",
@@ -9677,7 +9682,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "16",
@@ -9717,7 +9722,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "20",
@@ -9757,7 +9762,7 @@
       "Name": "Secret Technique",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "25",
@@ -9773,7 +9778,7 @@
       "Name": "Bone Peddler",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "27",
@@ -9781,7 +9786,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "28",
@@ -9829,7 +9834,7 @@
       "Name": "My Final Form",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "33",
@@ -9861,7 +9866,7 @@
       "Name": "Fiery Friend",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "37",
@@ -9885,7 +9890,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "4",
@@ -10029,7 +10034,7 @@
       "Name": "Freed Lands of Manuhari",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "52",
@@ -10108,13 +10113,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6447,
+      "Progressed": 6450,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6447,
+      "Progressed": 6450,
       "Completed": 7
     }
   ],
@@ -10122,8 +10127,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-29T11:57:48.2397736+00:00",
-  "LastChanged_Achievements": "2023-12-29T12:05:03.7823244+00:00",
+  "LastChanged_Achievements": "2023-12-29T13:08:29.0080027+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-29T11:57:48.2397741+00:00",
-  "LastUpdate_Achievements": "2023-12-29T12:05:03.7823944+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:00:54.2824005+00:00",
+  "LastUpdate_Achievements": "2023-12-29T13:08:29.0080995+00:00"
 }

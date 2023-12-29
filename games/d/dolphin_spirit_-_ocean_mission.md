@@ -21,6 +21,8 @@
 | Picture of the reef | 7.00% | ~2 |
 | In search of knowledge | 7.00% | ~2 |
 | Animal reporter | 4.00% | ~1 |
+| Creek cleanup | 4.00% | ~1 |
+| Atoll cleanup | 4.00% | ~1 |
 | Reef cleanup | 4.00% | ~1 |
 | Let's get started | 4.00% | ~1 |
 | Legend of the association | 4.00% | ~1 |
@@ -30,8 +32,6 @@
 | The fifth one! | 4.00% | ~1 |
 | Recycling Legend | 0.00% | ~0 |
 | Bay cleanup | 0.00% | ~0 |
-| Creek cleanup | 0.00% | ~0 |
-| Atoll cleanup | 0.00% | ~0 |
 | Island cleanup | 0.00% | ~0 |
 | Island protector | 0.00% | ~0 |
 | Picture of the creek | 0.00% | ~0 |

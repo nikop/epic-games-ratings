@@ -36,6 +36,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.20% | ~493 |
 | Exploring Port Nyanzaru | 0.20% | ~493 |
 | The Contagious Curse | 0.20% | ~493 |
+| Escort to Waterdeep | 0.20% | ~493 |
 | Pure Energy | 0.20% | ~493 |
 | Pros and CONs | 0.10% | ~247 |
 | Upholding the Law | 0.10% | ~247 |
@@ -405,7 +406,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Prison of Velkynvelve | 0.10% | ~213 |
 | Prisoners of Lolth | 0.10% | ~213 |
 | Prisoners of Unknown Choices | 0.10% | ~213 |
-| Escort to Waterdeep | 0.10% | ~247 |
 | The Giant's Bane Tavern | 0.10% | ~213 |
 | Rime Bandits | 0.10% | ~213 |
 | Giant-Size Adventure | 0.10% | ~213 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~213 |
 | The Brains of an Illithid's Desire | 0.10% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,677 (Ranked 68)  
+Progressed: 246,704 (Ranked 68)  
 Completed: 2,575 (1.04%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -806,17 +806,17 @@ Completed: 2,575 (1.04%) (Ranked 168)
 | 2023-12-26 | 245,031 | 2,566 |
 | 2023-12-27 | 245,531 | 2,567 |
 | 2023-12-28 | 246,305 | 2,573 |
-| 2023-12-29 | 246,677 | 2,575 |
+| 2023-12-29 | 246,704 | 2,575 |
 ## Awards
 Max (Great for Beginners): 5,708  (Ranked 71)  
-Sum: 33,167 (Ranked 41)  
+Sum: 33,169 (Ranked 41)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,708 |
 | This game has Diverse Characters | 5,657 |
 | This game has Quickly Understood Controls | 4,870 |
-| This game is Relaxing | 4,749 |
+| This game is Relaxing | 4,751 |
 | This game has Amazing Characters | 4,295 |
 | This game is Highly Recommended | 4,281 |
 | This game has Playful Visuals | 3,607 |
@@ -1160,4 +1160,4 @@ Diff (max vs sum): 30
 | 2023-12-26 | 4.06 | - | 5,696 | 33,100 |
 | 2023-12-27 | 4.06 | - | 5,701 | 33,129 |
 | 2023-12-28 | 4.06 | - | 5,708 | 33,156 |
-| 2023-12-29 | 4.06 | - | 5,708 | 33,167 |
+| 2023-12-29 | 4.06 | - | 5,708 | 33,169 |

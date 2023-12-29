@@ -2,13 +2,13 @@
   "ID": "f9bc208b965c4fb7afd0c842d764fc37",
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
-  "Ranking_Rating": 610,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
-  "Ranking_EOS_Progress": 265,
+  "Ranking_Rating": 609,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
+  "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -163,9 +163,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1341,
+  "EOS_Progressed": 1342,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.83,
   "EosHistory": [
@@ -4698,6 +4698,11 @@
       "Time": "2023-12-29T01:43:25.6731104+00:00",
       "NumProgressed": 1341,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-29T13:06:44.9045808+00:00",
+      "NumProgressed": 1342,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 28,
@@ -4709,7 +4714,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "MQ01_2",
@@ -4717,7 +4722,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "MQ02_1",
@@ -4725,7 +4730,7 @@
       "Name": "High Profile",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "MQ02_2",
@@ -4741,7 +4746,7 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "MQ02_4",
@@ -4749,7 +4754,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "MQ03_1",
@@ -4757,7 +4762,7 @@
       "Name": "Fond Memories",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "MQ03_2",
@@ -4765,7 +4770,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "MQ03_3",
@@ -4773,7 +4778,7 @@
       "Name": "History Check",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "MQ03_4",
@@ -4813,7 +4818,7 @@
       "Name": "The New World",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "MQ05_1",
@@ -4829,7 +4834,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "MQ05_3",
@@ -4861,7 +4866,7 @@
       "Name": "Bookworm",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "MQ06_3",
@@ -4869,7 +4874,7 @@
       "Name": "Land, Ho!",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "MQ06_4",
@@ -4893,7 +4898,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "MQ08_1",
@@ -4932,7 +4937,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1341,
+      "Progressed": 1342,
       "Completed": 38
     }
   ],
@@ -4940,8 +4945,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-27T11:03:12.3161328+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:08:21.5435746+00:00",
+  "LastChanged_Achievements": "2023-12-29T13:06:44.9045803+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:08.3764282+00:00",
-  "LastUpdate_Ratings": "2023-12-29T12:03:09.272156+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:08:21.543622+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:06:32.5961869+00:00",
+  "LastUpdate_Achievements": "2023-12-29T13:06:44.9046232+00:00"
 }

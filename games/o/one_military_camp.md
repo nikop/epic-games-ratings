@@ -31,13 +31,13 @@
 | Human Resources | 3.00% | ~8 |
 | Training Camp | 3.00% | ~8 |
 | Tear Down the Wall! | 2.00% | ~5 |
+| Economist | 2.00% | ~5 |
 | Vive le Résistance | 2.00% | ~5 |
 | No News is Good News | 2.00% | ~5 |
 | Snowman | 2.00% | ~5 |
 | Reconquest | 2.00% | ~5 |
 | Winter Soldier | 2.00% | ~5 |
 | Researcher | 2.00% | ~5 |
-| Economist | 1.00% | ~3 |
 | Crisis Committee | 1.00% | ~3 |
 | Counter-espionage | 0.80% | ~2 |
 | Against Adversity | 0.80% | ~2 |

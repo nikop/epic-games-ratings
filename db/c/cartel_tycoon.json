@@ -3,11 +3,11 @@
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
   "Ranking_Rating": 803,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 879,
+  "EOS_Progressed": 880,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -3096,6 +3096,11 @@
       "Time": "2023-12-29T10:04:46.8978623+00:00",
       "NumProgressed": 879,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T13:08:15.7020982+00:00",
+      "NumProgressed": 880,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3147,7 +3152,7 @@
       "Name": "That was base",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "hire-lieutenant",
@@ -3155,7 +3160,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "kill-lieutenants",
@@ -3193,9 +3198,9 @@
       "ID": "rage-quit",
       "SetID": "bed33dd",
       "Name": "Bad Trip",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 396
     },
     {
       "ID": "rename-lieutenant",
@@ -3209,9 +3214,9 @@
       "ID": "rob-village",
       "SetID": "bed33dd",
       "Name": "Bite the Blow",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 202
     },
     {
       "ID": "sell-variety",
@@ -3243,7 +3248,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "use-submarine",
@@ -3258,15 +3263,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 879,
+      "Progressed": 880,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2023-12-29T12:04:49.8360298+00:00",
+  "LastChanged_Achievements": "2023-12-29T13:08:15.7020977+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:28.0909212+00:00",
-  "LastUpdate_Ratings": "2023-12-29T12:02:46.8016498+00:00",
-  "LastUpdate_Achievements": "2023-12-29T12:04:49.8360539+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:03:49.9436213+00:00",
+  "LastUpdate_Achievements": "2023-12-29T13:08:15.7021244+00:00"
 }

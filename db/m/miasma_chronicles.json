@@ -3,11 +3,11 @@
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
   "Ranking_Rating": 796,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1658,
+  "EOS_Progressed": 1659,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4178,6 +4178,11 @@
       "Time": "2023-12-28T21:11:36.4755219+00:00",
       "NumProgressed": 1658,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T13:13:05.3718407+00:00",
+      "NumProgressed": 1659,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -4205,7 +4210,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1227
+      "UsersEstimate": 1228
     },
     {
       "ID": "ATTENBOROUGH",
@@ -4213,7 +4218,7 @@
       "Name": "Attenborough",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "BOOKWORM",
@@ -4269,7 +4274,7 @@
       "Name": "Croaked",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "CRUELTY",
@@ -4293,7 +4298,7 @@
       "Name": "Ganglord",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "DEAD_DICK",
@@ -4333,7 +4338,7 @@
       "Name": "Editor Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ENDGAME",
@@ -4341,7 +4346,7 @@
       "Name": "Endgame",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "EXORCIST",
@@ -4365,7 +4370,7 @@
       "Name": "Firestarter",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "FIRST_BLOOD",
@@ -4373,7 +4378,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1525
+      "UsersEstimate": 1526
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -4421,7 +4426,7 @@
       "Name": "Gun for Hire",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -4445,7 +4450,7 @@
       "Name": "Infiltrator",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "LUMBERJACK",
@@ -4461,7 +4466,7 @@
       "Name": "Master Editor",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "NEWTONIAN_KNOCKOUT",
@@ -4501,7 +4506,7 @@
       "Name": "Recycler",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "RUTHLESS",
@@ -4517,7 +4522,7 @@
       "Name": "Savior",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "SENSEI",
@@ -4573,7 +4578,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "THE_WATCHERS",
@@ -4596,7 +4601,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1658,
+      "Progressed": 1659,
       "Completed": 0
     }
   ],
@@ -4604,8 +4609,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-12-18T20:02:59.2153729+00:00",
-  "LastChanged_Achievements": "2023-12-29T12:10:08.6501217+00:00",
+  "LastChanged_Achievements": "2023-12-29T13:13:05.3718402+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:51.9665809+00:00",
-  "LastUpdate_Ratings": "2023-12-29T12:03:05.6791746+00:00",
-  "LastUpdate_Achievements": "2023-12-29T12:10:08.6501716+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:06:28.9857193+00:00",
+  "LastUpdate_Achievements": "2023-12-29T13:13:05.3719083+00:00"
 }

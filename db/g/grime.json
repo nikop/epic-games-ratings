@@ -1759,9 +1759,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 165248,
+  "EOS_Progressed": 165254,
   "EOS_Completed": 421,
-  "EOS_NewPlayers": 1446,
+  "EOS_NewPlayers": 1443,
   "EOS_NewCompleters": 40,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -21044,6 +21044,11 @@
       "Time": "2023-12-29T12:06:05.5229921+00:00",
       "NumProgressed": 165248,
       "NumCompleted": 421
+    },
+    {
+      "Time": "2023-12-29T13:09:30.382113+00:00",
+      "NumProgressed": 165254,
+      "NumCompleted": 421
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -21112,7 +21117,7 @@
       "Name": "Breath",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACQUIRE_TRAIT",
@@ -21128,7 +21133,7 @@
       "Name": "Weeper",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 1652
+      "UsersEstimate": 1653
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -21144,7 +21149,7 @@
       "Name": "Artisan",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -21176,7 +21181,7 @@
       "Name": "Host",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -21184,7 +21189,7 @@
       "Name": "Hush",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "DEFEAT_HARMLESSROCKGIANT",
@@ -21264,7 +21269,7 @@
       "Name": "All-Seeing",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "MISC_ACTIVATESURROGATE",
@@ -21304,7 +21309,7 @@
       "Name": "Breathsmith",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "MISC_PULLANENEMY",
@@ -21312,7 +21317,7 @@
       "Name": "Yank",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -21320,7 +21325,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -21336,7 +21341,7 @@
       "Name": "Unwrap the Gift",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -21344,7 +21349,7 @@
       "Name": "Passage",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "QUEST_CHILD",
@@ -21423,21 +21428,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 164831,
+      "Progressed": 164837,
       "Completed": 1248
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 165248,
+      "Progressed": 165254,
       "Completed": 421
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-28T14:59:47.5953521+00:00",
-  "LastChanged_Achievements": "2023-12-29T12:06:05.5229917+00:00",
+  "LastChanged_Achievements": "2023-12-29T13:09:30.3821125+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:22.7260202+00:00",
-  "LastUpdate_Ratings": "2023-12-29T12:00:08.0939557+00:00",
-  "LastUpdate_Achievements": "2023-12-29T12:06:05.5230966+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:03:16.4716252+00:00",
+  "LastUpdate_Achievements": "2023-12-29T13:09:30.3823015+00:00"
 }

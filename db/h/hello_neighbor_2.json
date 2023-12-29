@@ -3,8 +3,8 @@
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
   "Ranking_Rating": 731,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 96,
   "Ranking_EOS_NewPlayers": 195,
@@ -491,7 +491,7 @@
   "Tags": [],
   "EOS_Progressed": 3694,
   "EOS_Completed": 140,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.79,
   "EosHistory": [
@@ -6379,9 +6379,9 @@
       "ID": "ACH_HIDDEN_SECRETS",
       "SetID": "4kfb9pd",
       "Name": "Hidden Secrets",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 887
+      "UsersEstimate": 924
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -6444,8 +6444,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-12-26T22:59:33.8911341+00:00",
-  "LastChanged_Achievements": "2023-12-29T12:06:23.0324899+00:00",
+  "LastChanged_Achievements": "2023-12-29T13:09:49.6954451+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:21.8712839+00:00",
-  "LastUpdate_Ratings": "2023-12-29T12:00:04.2791764+00:00",
-  "LastUpdate_Achievements": "2023-12-29T12:06:23.0325288+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:03:12.8221188+00:00",
+  "LastUpdate_Achievements": "2023-12-29T13:09:49.6954947+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 299,
-  "Ranking_EOS_Completed": 158,
+  "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 803,
+  "EOS_Progressed": 804,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.25,
+  "EOS_Completed_Percentage": 1.24,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -2755,6 +2755,11 @@
       "Time": "2023-12-29T12:08:54.2977813+00:00",
       "NumProgressed": 803,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-29T13:11:49.6495092+00:00",
+      "NumProgressed": 804,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2767,7 +2772,7 @@
       "Name": "Assassinate the Makron",
       "Percentage": 15,
       "XP": 120,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_eou1",
@@ -2831,7 +2836,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_mg2",
@@ -2870,14 +2875,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 803,
+      "Progressed": 804,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-29T12:08:54.2977807+00:00",
+  "LastChanged_Achievements": "2023-12-29T13:11:49.6495089+00:00",
   "LastUpdate_AppInfo": "2023-12-29T06:57:16.3144275+00:00",
-  "LastUpdate_Ratings": "2023-12-29T11:57:42.1579015+00:00",
-  "LastUpdate_Achievements": "2023-12-29T12:08:54.2978009+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:00:48.5014829+00:00",
+  "LastUpdate_Achievements": "2023-12-29T13:11:49.6495337+00:00"
 }

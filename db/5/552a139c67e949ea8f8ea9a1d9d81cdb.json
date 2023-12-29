@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1712,
+  "EOS_Progressed": 1714,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
@@ -4222,6 +4222,11 @@
       "Time": "2023-12-29T09:03:55.1226963+00:00",
       "NumProgressed": 1712,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T13:07:21.6284348+00:00",
+      "NumProgressed": 1714,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4242,7 +4247,7 @@
       "Name": "Acrobat",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -4250,7 +4255,7 @@
       "Name": "Out of control",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -4474,7 +4479,7 @@
       "Name": "Shopping time!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -4490,7 +4495,7 @@
       "Name": "Spin the wheel",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -4498,7 +4503,7 @@
       "Name": "Beyond the limit",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -4601,20 +4606,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1712,
+      "Progressed": 1714,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1380,
+      "Progressed": 1382,
       "Completed": 1005
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-29T12:03:55.6734055+00:00",
+  "LastChanged_Achievements": "2023-12-29T13:07:21.6284344+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2023-12-29T11:57:44.2582131+00:00",
-  "LastUpdate_Achievements": "2023-12-29T12:03:55.6734492+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:00:50.6403517+00:00",
+  "LastUpdate_Achievements": "2023-12-29T13:07:21.6284775+00:00"
 }
