@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,7 +20,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 770,
+  "EOS_Progressed": 771,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
@@ -2775,6 +2775,11 @@
       "Time": "2023-12-29T05:10:24.1351911+00:00",
       "NumProgressed": 770,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-29T07:09:34.3681282+00:00",
+      "NumProgressed": 771,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -2801,9 +2806,9 @@
       "ID": "achievement_11",
       "SetID": "7ldgi7j",
       "Name": "Bomb\u0027s Away",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 324
     },
     {
       "ID": "achievement_12",
@@ -2827,7 +2832,7 @@
       "Name": "Golfer Versus Golfer",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_15",
@@ -2843,15 +2848,15 @@
       "Name": "Star Power",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "achievement_17",
       "SetID": "7ldgi7j",
       "Name": "Clean Sheet",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 416
+      "UsersEstimate": 409
     },
     {
       "ID": "achievement_18",
@@ -2923,20 +2928,20 @@
       "Name": "Ace in the Hole",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 770,
+      "Progressed": 771,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-29T06:09:38.8187059+00:00",
+  "LastChanged_Achievements": "2023-12-29T07:09:34.3681278+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:10.1040458+00:00",
-  "LastUpdate_Ratings": "2023-12-29T05:59:15.2307185+00:00",
-  "LastUpdate_Achievements": "2023-12-29T06:09:38.8187317+00:00"
+  "LastUpdate_Ratings": "2023-12-29T06:59:39.9439138+00:00",
+  "LastUpdate_Achievements": "2023-12-29T07:09:34.3681658+00:00"
 }

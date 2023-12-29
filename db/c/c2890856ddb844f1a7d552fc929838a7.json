@@ -2,7 +2,7 @@
   "ID": "c2890856ddb844f1a7d552fc929838a7",
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
-  "Ranking_Rating": 57,
+  "Ranking_Rating": 56,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 243,
@@ -249,7 +249,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 1897,
+  "EOS_Progressed": 1898,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 334,
   "EOS_NewCompleters": 0,
@@ -4514,6 +4514,11 @@
       "Time": "2023-12-29T06:05:08.6299218+00:00",
       "NumProgressed": 1897,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T07:05:30.5251365+00:00",
+      "NumProgressed": 1898,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -4532,9 +4537,9 @@
       "ID": "AC01",
       "SetID": "l4abp0",
       "Name": "A Thousand Years Later",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 1707
+      "UsersEstimate": 1689
     },
     {
       "ID": "AC02",
@@ -4542,7 +4547,7 @@
       "Name": "Blood and Dust",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "AC03",
@@ -4550,7 +4555,7 @@
       "Name": "Blood and Gold",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "AC04",
@@ -4558,7 +4563,7 @@
       "Name": "Blood and Iron",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "AC05",
@@ -4566,7 +4571,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "AC06",
@@ -4622,7 +4627,7 @@
       "Name": "Canvas of Light and Time",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "AC13",
@@ -4638,7 +4643,7 @@
       "Name": "Acta, Non Verba",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "AC15",
@@ -4668,9 +4673,9 @@
       "ID": "AC18",
       "SetID": "l4abp0",
       "Name": "Acquired Taste",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 740
+      "UsersEstimate": 759
     },
     {
       "ID": "AC19",
@@ -4718,7 +4723,7 @@
       "Name": "The Work of a Master",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "AC25",
@@ -4758,7 +4763,7 @@
       "Name": "The Veteran One",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "AC30",
@@ -4822,7 +4827,7 @@
       "Name": "Storm of Death",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "AC38",
@@ -4868,9 +4873,9 @@
       "ID": "AC43",
       "SetID": "l4abp0",
       "Name": "The Finest Craftmanship",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 778
     },
     {
       "ID": "AC44",
@@ -4893,7 +4898,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 1897,
+      "Progressed": 1898,
       "Completed": 0
     }
   ],
@@ -4901,8 +4906,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-28T05:02:31.3995097+00:00",
-  "LastChanged_Achievements": "2023-12-29T06:05:08.6299214+00:00",
+  "LastChanged_Achievements": "2023-12-29T07:05:30.5251361+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:24.8809366+00:00",
-  "LastUpdate_Ratings": "2023-12-29T05:56:58.8445738+00:00",
-  "LastUpdate_Achievements": "2023-12-29T06:05:08.6299687+00:00"
+  "LastUpdate_Ratings": "2023-12-29T06:57:27.4254284+00:00",
+  "LastUpdate_Achievements": "2023-12-29T07:05:30.5251784+00:00"
 }

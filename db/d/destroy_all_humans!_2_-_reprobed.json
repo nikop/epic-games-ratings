@@ -5,7 +5,7 @@
   "Ranking_Rating": 540,
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 521,
-  "Ranking_EOS_Progress": 408,
+  "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 108,
@@ -282,9 +282,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 230,
+  "EOS_Progressed": 231,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -1167,6 +1167,11 @@
       "Time": "2023-12-28T21:10:11.3915793+00:00",
       "NumProgressed": 230,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T07:08:58.1078813+00:00",
+      "NumProgressed": 231,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1211,7 +1216,7 @@
       "Name": "Furon Fashion",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1251,7 +1256,7 @@
       "Name": "Cult Following",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1259,7 +1264,7 @@
       "Name": "Transmitting From Sol-3",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_COP_THROUGH_DONUT",
@@ -1291,7 +1296,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1329,9 +1334,9 @@
       "ID": "ACH_ENTER_TAKOSHIMA",
       "SetID": "4n84pon",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -1347,7 +1352,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1401,9 +1406,9 @@
       "ID": "ACH_KILL_WARSHIP",
       "SetID": "4n84pon",
       "Name": "Scuttled",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_KILL_YETI",
@@ -1515,7 +1520,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1530,7 +1535,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 230,
+      "Progressed": 231,
       "Completed": 1
     }
   ],
@@ -1538,8 +1543,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-28T10:58:39.1665152+00:00",
-  "LastChanged_Achievements": "2023-12-29T06:09:01.685396+00:00",
+  "LastChanged_Achievements": "2023-12-29T07:08:58.1078811+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-29T05:58:46.17547+00:00",
-  "LastUpdate_Achievements": "2023-12-29T06:09:01.6854257+00:00"
+  "LastUpdate_Ratings": "2023-12-29T06:59:11.522226+00:00",
+  "LastUpdate_Achievements": "2023-12-29T07:08:58.107909+00:00"
 }

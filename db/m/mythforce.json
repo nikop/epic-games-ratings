@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -848,7 +848,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5888,
+  "EOS_Progressed": 5889,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
@@ -12038,6 +12038,11 @@
       "Time": "2023-12-29T04:04:02.1328565+00:00",
       "NumProgressed": 5888,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-29T07:04:23.1771765+00:00",
+      "NumProgressed": 5889,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12096,9 +12101,9 @@
       "ID": "MF_Ach_FacerollTheBones",
       "SetID": "9b9n573",
       "Name": "Faceroll the Bones",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1531
+      "UsersEstimate": 1590
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -12106,7 +12111,7 @@
       "Name": "First Strike",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -12233,15 +12238,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5888,
+      "Progressed": 5889,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2023-12-29T06:03:59.7928753+00:00",
+  "LastChanged_Achievements": "2023-12-29T07:04:23.1771761+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:25.4849752+00:00",
-  "LastUpdate_Ratings": "2023-12-29T05:59:36.3356124+00:00",
-  "LastUpdate_Achievements": "2023-12-29T06:03:59.7929325+00:00"
+  "LastUpdate_Ratings": "2023-12-29T07:00:00.4931348+00:00",
+  "LastUpdate_Achievements": "2023-12-29T07:04:23.1772461+00:00"
 }

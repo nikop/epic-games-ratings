@@ -13,18 +13,18 @@ Rating: 4.31 (Ranked 855)
 | Checkmate | 30.00% | ~67,384 |
 | O-O | 24.00% | ~53,907 |
 | Spanish Bishop | 21.00% | ~47,169 |
-| Queen Sacrifice | 20.00% | ~44,922 |
+| Queen Sacrifice | 20.00% | ~44,923 |
 | Stalemate | 18.00% | ~40,430 |
 | O-O-O | 13.00% | ~29,200 |
 | Octopus | 13.00% | ~29,200 |
-| Stranger Danger | 12.00% | ~26,953 |
+| Stranger Danger | 12.00% | ~26,954 |
 | En Passant | 9.00% | ~20,215 |
 | Double Check | 7.00% | ~15,723 |
 | Family Fork | 6.00% | ~13,477 |
 | Piece Collector | 6.00% | ~13,477 |
 | ELO | 5.00% | ~11,231 |
-| Friendly Fire | 4.00% | ~8,984 |
-| Underpromote | 4.00% | ~8,984 |
+| Friendly Fire | 4.00% | ~8,985 |
+| Underpromote | 4.00% | ~8,985 |
 | ELO ELO | 3.00% | ~6,738 |
 | Learner | 3.00% | ~6,738 |
 | Blind Pigs | 2.00% | ~4,492 |
@@ -44,7 +44,7 @@ Rating: 4.31 (Ranked 855)
 | Tournament Master | 0.10% | ~225 |
 | Tournament Pro | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,612 (Ranked 75)  
+Progressed: 224,613 (Ranked 75)  
 Completed: 2 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 2 (0.00%) (Ranked 389)
 | 2023-12-26 | 224,189 | 2 |
 | 2023-12-27 | 224,382 | 2 |
 | 2023-12-28 | 224,560 | 2 |
-| 2023-12-29 | 224,612 | 2 |
+| 2023-12-29 | 224,613 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

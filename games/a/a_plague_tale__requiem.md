@@ -6,18 +6,18 @@ Rating: 4.73 (Ranked 176)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Under a New Sun | 91.00% | ~14,029 |
-| Newcomers | 77.00% | ~11,870 |
+| Newcomers | 77.00% | ~11,871 |
 | A Burden of Blood | 72.00% | ~11,100 |
-| Protector's Duty | 68.00% | ~10,483 |
+| Protector's Duty | 68.00% | ~10,484 |
 | Alchemist | 67.00% | ~10,329 |
 | In our Wake | 66.00% | ~10,175 |
-| Leaving all Behind | 63.00% | ~9,712 |
+| Leaving all Behind | 63.00% | ~9,713 |
 | Felons | 60.00% | ~9,250 |
-| A Sea of Promises | 59.00% | ~9,095 |
-| Tales and Revelations | 56.00% | ~8,633 |
-| Bloodline | 51.00% | ~7,862 |
+| A Sea of Promises | 59.00% | ~9,096 |
+| Tales and Revelations | 56.00% | ~8,634 |
+| Bloodline | 51.00% | ~7,863 |
 | The Cradle of Centuries | 47.00% | ~7,246 |
-| The Life We Deserve | 45.00% | ~6,937 |
+| The Life We Deserve | 45.00% | ~6,938 |
 | Night guard | 42.00% | ~6,475 |
 | Nothing Left | 38.00% | ~5,858 |
 | Healing our Wounds | 36.00% | ~5,550 |
@@ -26,8 +26,8 @@ Rating: 4.73 (Ranked 176)
 | King Hugo | 24.00% | ~3,700 |
 | Perfect shot | 23.00% | ~3,546 |
 | Mercy | 23.00% | ~3,546 |
-| Effective instruments | 21.00% | ~3,237 |
-| Perfect throw | 21.00% | ~3,237 |
+| Effective instruments | 21.00% | ~3,238 |
+| Perfect throw | 21.00% | ~3,238 |
 | Knights! | 20.00% | ~3,083 |
 | Handful of pockets | 13.00% | ~2,004 |
 | Not a toy anymore | 11.00% | ~1,696 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 176)
 | Explorer | 1.00% | ~154 |
 | Malignant | 1.00% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,416 (Ranked 166)  
+Progressed: 15,417 (Ranked 166)  
 Completed: 61 (0.40%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,10 +293,10 @@ Completed: 61 (0.40%) (Ranked 229)
 | 2023-12-26 | 15,227 | 61 |
 | 2023-12-27 | 15,315 | 61 |
 | 2023-12-28 | 15,401 | 61 |
-| 2023-12-29 | 15,416 | 61 |
+| 2023-12-29 | 15,417 | 61 |
 ## Awards
 Max (Great Boss Battles): 440  (Ranked 231)  
-Sum: 696 (Ranked 309)  
+Sum: 697 (Ranked 309)  
 Diff (max vs sum): -78  
 | Award | Count |
 | ----- | ----- |
@@ -307,7 +307,7 @@ Diff (max vs sum): -78
 | This game has Diverse Characters | 30 |
 | This game has Amazing Storytelling | 30 |
 | This game is Extremely Fun | 26 |
-| This game has Amazing Characters | 25 |
+| This game has Amazing Characters | 26 |
 | This game has Quickly Understood Controls | 23 |
 | This game has a Creative Community | 21 |
 ## Ratings History
@@ -407,3 +407,4 @@ Diff (max vs sum): -78
 | 2023-12-22 | 4.73 | 439 | 694 |
 | 2023-12-26 | 4.73 | 440 | 695 |
 | 2023-12-27 | 4.73 | 440 | 696 |
+| 2023-12-29 | 4.73 | 440 | 697 |

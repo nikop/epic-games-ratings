@@ -17,8 +17,8 @@ Number of Ratings: 116  (23.09.2022)
 | All That Glitters | 48.00% | ~130 |
 | Enhance! | 44.00% | ~119 |
 | One Of the Chosen | 43.00% | ~117 |
+| Devil's in the Details | 41.00% | ~111 |
 | Throne Potato | 41.00% | ~111 |
-| Devil's in the Details | 40.00% | ~108 |
 | Five's a Crowd | 39.00% | ~106 |
 | 25 to Life | 39.00% | ~106 |
 | Soul Harvester | 37.00% | ~100 |
@@ -28,14 +28,14 @@ Number of Ratings: 116  (23.09.2022)
 | Delusions of Grandeur | 32.00% | ~87 |
 | Love Tap | 31.00% | ~84 |
 | Maximum Vigor | 30.00% | ~81 |
-| Freeze Frame | 28.00% | ~76 |
+| Freeze Frame | 29.00% | ~79 |
 | Eat Your Heart Out | 28.00% | ~76 |
 | For Whom the Bell Tolls | 28.00% | ~76 |
 | Unyielding Strength | 25.00% | ~68 |
 | Big Spender | 24.00% | ~65 |
 | Can you restore the Balance? | 23.00% | ~62 |
+| Crowd Source | 23.00% | ~62 |
 | Cleanup Crew | 22.00% | ~60 |
-| Crowd Source | 22.00% | ~60 |
 | Maximum Capacity | 20.00% | ~54 |
 | Demon Meddler | 20.00% | ~54 |
 | Seeing Red | 19.00% | ~51 |

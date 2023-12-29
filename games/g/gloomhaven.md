@@ -6,23 +6,23 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 39.00% | ~11,498 |
-| Overkill | 33.00% | ~9,729 |
-| Vaccine Incoming | 32.00% | ~9,435 |
-| A normal day in Gloomhaven | 29.00% | ~8,550 |
-| Spread the plague | 27.00% | ~7,960 |
-| Get over here! | 24.00% | ~7,076 |
+| I'm not dead yet | 39.00% | ~11,500 |
+| Overkill | 33.00% | ~9,730 |
+| Vaccine Incoming | 32.00% | ~9,436 |
+| A normal day in Gloomhaven | 29.00% | ~8,551 |
+| Spread the plague | 27.00% | ~7,961 |
+| Get over here! | 24.00% | ~7,077 |
 | Just when I thought I was out... | 19.00% | ~5,602 |
-| Mine... All Mine... | 17.00% | ~5,012 |
-| Precious! | 16.00% | ~4,717 |
-| Grizzled veteran | 15.00% | ~4,422 |
+| Mine... All Mine... | 17.00% | ~5,013 |
+| Precious! | 16.00% | ~4,718 |
+| Grizzled veteran | 15.00% | ~4,423 |
 | Anatomy Lesson | 14.00% | ~4,128 |
 | Light of my life | 13.00% | ~3,833 |
 | You activated my trap card! | 12.00% | ~3,538 |
 | Obstacle race | 12.00% | ~3,538 |
 | Who's the Boss? | 11.00% | ~3,243 |
 | Augmented rat | 11.00% | ~3,243 |
-| Doom and gloom | 10.00% | ~2,948 |
+| Doom and gloom | 10.00% | ~2,949 |
 | Dungeon Veteran | 8.00% | ~2,359 |
 | Pain is your friend | 8.00% | ~2,359 |
 | Play it again, Sam | 8.00% | ~2,359 |
@@ -35,10 +35,10 @@ Number of Ratings: 68  (23.09.2022)
 | Pretty lights! | 5.00% | ~1,474 |
 | Now you see me... | 5.00% | ~1,474 |
 | The Pro from Dover | 4.00% | ~1,179 |
-| I hate portals | 3.00% | ~884 |
-| Down the hatch | 3.00% | ~884 |
-| An eye for an eye | 3.00% | ~884 |
-| The Cephalophore | 3.00% | ~884 |
+| I hate portals | 3.00% | ~885 |
+| Down the hatch | 3.00% | ~885 |
+| An eye for an eye | 3.00% | ~885 |
+| The Cephalophore | 3.00% | ~885 |
 | From Gloom, only greed and death emerges | 2.00% | ~590 |
 | The Rat King | 2.00% | ~590 |
 | How to train your Drake | 2.00% | ~590 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~29 |
 | Murder Death Kill | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,483 (Ranked 137)  
+Progressed: 29,486 (Ranked 137)  
 Completed: 1 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 1 (0.00%) (Ranked 389)
 | 2023-12-26 | 28,980 | 1 |
 | 2023-12-27 | 29,209 | 1 |
 | 2023-12-28 | 29,416 | 1 |
-| 2023-12-29 | 29,483 | 1 |
+| 2023-12-29 | 29,486 | 1 |
 ## Awards
 Max (Character Customization): 3,606  (Ranked 93)  
 Sum: 8,442 (Ranked 105)  

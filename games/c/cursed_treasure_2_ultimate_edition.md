@@ -9,8 +9,8 @@
 | Foreman of Darkness | 96.00% | ~176 |
 | Brilliant Day | 93.00% | ~170 |
 | Evil Genius | 89.00% | ~163 |
+| Tinned Corpse | 85.00% | ~156 |
 | Air Defense | 85.00% | ~156 |
-| Tinned Corpse | 84.00% | ~154 |
 | Your War is Over | 83.00% | ~152 |
 | The Starry Night | 78.00% | ~143 |
 | Go Home! | 77.00% | ~141 |
@@ -48,7 +48,7 @@
 | Brilliant: Wasteland | 35.00% | ~64 |
 | Father of Nation | 34.00% | ~62 |
 | Dwarven Countdown | 31.00% | ~57 |
-| Starry: Wasteland | 30.00% | ~55 |
+| Starry: Wasteland | 31.00% | ~57 |
 | Deadman's Chest | 29.00% | ~53 |
 | Monument Keeper | 28.00% | ~51 |
 | Brilliant: Free Coast | 27.00% | ~49 |

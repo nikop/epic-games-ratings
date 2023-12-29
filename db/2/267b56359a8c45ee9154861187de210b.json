@@ -691,9 +691,9 @@
       "ID": "beat_c2_silver",
       "SetID": "3448go",
       "Name": "Gone for a Whirl",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "beat_c2a_bronze",
@@ -1194,8 +1194,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-12-29T06:04:33.4193538+00:00",
+  "LastChanged_Achievements": "2023-12-29T07:04:55.9508407+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:18.5941148+00:00",
-  "LastUpdate_Ratings": "2023-12-29T06:00:06.1509804+00:00",
-  "LastUpdate_Achievements": "2023-12-29T06:04:33.4194221+00:00"
+  "LastUpdate_Ratings": "2023-12-29T07:00:31.0065789+00:00",
+  "LastUpdate_Achievements": "2023-12-29T07:04:55.9509072+00:00"
 }

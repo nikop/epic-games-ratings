@@ -621,9 +621,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6437,
+  "EOS_Progressed": 6440,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 481,
+  "EOS_NewPlayers": 482,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9576,6 +9576,11 @@
       "Time": "2023-12-29T06:04:45.7098776+00:00",
       "NumProgressed": 6437,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-29T07:05:08.1706278+00:00",
+      "NumProgressed": 6440,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9587,7 +9592,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "10",
@@ -9707,7 +9712,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "24",
@@ -9723,7 +9728,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "26",
@@ -9803,7 +9808,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "35",
@@ -9859,7 +9864,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "41",
@@ -9899,7 +9904,7 @@
       "Name": "Grexolis",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "6",
@@ -9907,7 +9912,7 @@
       "Name": "One for All, All for One",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "7",
@@ -10066,13 +10071,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6437,
+      "Progressed": 6440,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6437,
+      "Progressed": 6440,
       "Completed": 7
     }
   ],
@@ -10080,8 +10085,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-27T21:02:05.3548504+00:00",
-  "LastChanged_Achievements": "2023-12-29T06:04:45.7098772+00:00",
+  "LastChanged_Achievements": "2023-12-29T07:05:08.1706275+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-29T05:57:09.7846643+00:00",
-  "LastUpdate_Achievements": "2023-12-29T06:04:45.70995+00:00"
+  "LastUpdate_Ratings": "2023-12-29T06:57:37.8554488+00:00",
+  "LastUpdate_Achievements": "2023-12-29T07:05:08.1706997+00:00"
 }

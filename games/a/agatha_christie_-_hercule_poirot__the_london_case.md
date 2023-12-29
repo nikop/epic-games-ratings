@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 71.00% | ~54 |
+| Marc Allard | 72.00% | ~55 |
 | Little ideas | 68.00% | ~52 |
 | The Ship | 64.00% | ~49 |
 | Seeking the truth | 55.00% | ~42 |
@@ -21,8 +21,8 @@
 | Order and method | 36.00% | ~27 |
 | Betty Allen | 36.00% | ~27 |
 | The Investigation Begins | 33.00% | ~25 |
-| Ms. Camilla B. Culsham | 29.00% | ~22 |
-| Irene Court-Smyth | 29.00% | ~22 |
+| Ms. Camilla B. Culsham | 30.00% | ~23 |
+| Irene Court-Smyth | 30.00% | ~23 |
 | An odd series of events | 28.00% | ~21 |
 | The Apartment | 28.00% | ~21 |
 | Nathaniel Dryden | 25.00% | ~19 |

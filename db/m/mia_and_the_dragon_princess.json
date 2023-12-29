@@ -2,9 +2,9 @@
   "ID": "c466c310959a47d9a3d59acdd77a0caa",
   "Name": "Mia and the Dragon Princess",
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
-  "Ranking_EOS_Progress": 487,
-  "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 459,
+  "Ranking_EOS_Progress": 486,
+  "Ranking_EOS_Completed": 109,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 99,
+  "EOS_Progressed": 100,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.03,
+  "EOS_Completed_Percentage": 3,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:47:18.2098376+00:00",
@@ -529,6 +529,11 @@
       "Time": "2023-12-26T22:08:53.5571327+00:00",
       "NumProgressed": 99,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T07:09:11.6896706+00:00",
+      "NumProgressed": 100,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 18,
@@ -683,14 +688,14 @@
     {
       "ID": "5anb57n",
       "IsBase": true,
-      "Progressed": 99,
+      "Progressed": 100,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-12-29T06:09:15.4914863+00:00",
+  "LastChanged_Achievements": "2023-12-29T07:09:11.6896702+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:15.2377289+00:00",
-  "LastUpdate_Ratings": "2023-12-29T05:57:02.6583255+00:00",
-  "LastUpdate_Achievements": "2023-12-29T06:09:15.4915006+00:00"
+  "LastUpdate_Ratings": "2023-12-29T06:57:30.9587672+00:00",
+  "LastUpdate_Achievements": "2023-12-29T07:09:11.689683+00:00"
 }

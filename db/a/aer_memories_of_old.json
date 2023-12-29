@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27338,
+  "EOS_Progressed": 27341,
   "EOS_Completed": 504,
-  "EOS_NewPlayers": 566,
+  "EOS_NewPlayers": 568,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -27624,6 +27624,11 @@
       "Time": "2023-12-29T05:06:26.3391886+00:00",
       "NumProgressed": 27338,
       "NumCompleted": 504
+    },
+    {
+      "Time": "2023-12-29T07:05:20.1555916+00:00",
+      "NumProgressed": 27341,
+      "NumCompleted": 504
     }
   ],
   "TotalAchievements": 20,
@@ -27633,9 +27638,9 @@
       "ID": "COMPLETED_MAP",
       "SetID": "b6m2mm5",
       "Name": "Cartographer",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 4374
+      "UsersEstimate": 4648
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -27651,7 +27656,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3827
+      "UsersEstimate": 3828
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -27659,7 +27664,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2460
+      "UsersEstimate": 2461
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -27667,7 +27672,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 3007
+      "UsersEstimate": 3008
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -27699,7 +27704,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3827
+      "UsersEstimate": 3828
     },
     {
       "ID": "FOUND_ERIN",
@@ -27755,7 +27760,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 20777
+      "UsersEstimate": 20779
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -27763,7 +27768,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7381
+      "UsersEstimate": 7382
     },
     {
       "ID": "NORTH_FINISHED",
@@ -27794,15 +27799,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 27338,
+      "Progressed": 27341,
       "Completed": 504
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-29T06:04:58.0717329+00:00",
+  "LastChanged_Achievements": "2023-12-29T07:05:20.1555911+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:49.8191353+00:00",
-  "LastUpdate_Ratings": "2023-12-29T05:57:48.3910712+00:00",
-  "LastUpdate_Achievements": "2023-12-29T06:04:58.0718827+00:00"
+  "LastUpdate_Ratings": "2023-12-29T06:58:15.2644234+00:00",
+  "LastUpdate_Achievements": "2023-12-29T07:05:20.1557111+00:00"
 }

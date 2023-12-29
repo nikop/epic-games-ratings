@@ -669,10 +669,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 696,
       "NumberOfAwardsMax": 440
+    },
+    {
+      "Time": "2023-12-29T07:00:18.461461+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 697,
+      "NumberOfAwardsMax": 440
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 696,
+  "NumberOfAwards": 697,
   "NumberOfAwardsMax": 440,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -734,10 +740,10 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 25
+      "Count": 26
     }
   ],
-  "EOS_Progressed": 15416,
+  "EOS_Progressed": 15417,
   "EOS_Completed": 61,
   "EOS_NewPlayers": 653,
   "EOS_NewCompleters": 2,
@@ -13947,6 +13953,11 @@
       "Time": "2023-12-29T06:04:13.354217+00:00",
       "NumProgressed": 15416,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-29T07:04:36.1699019+00:00",
+      "NumProgressed": 15417,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 35,
@@ -13966,7 +13977,7 @@
       "Name": "Newcomers",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 11870
+      "UsersEstimate": 11871
     },
     {
       "ID": "ACH_03",
@@ -13982,7 +13993,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 10483
+      "UsersEstimate": 10484
     },
     {
       "ID": "ACH_05",
@@ -13998,7 +14009,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 9712
+      "UsersEstimate": 9713
     },
     {
       "ID": "ACH_07",
@@ -14014,7 +14025,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 9095
+      "UsersEstimate": 9096
     },
     {
       "ID": "ACH_09",
@@ -14022,7 +14033,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 8633
+      "UsersEstimate": 8634
     },
     {
       "ID": "ACH_10",
@@ -14030,7 +14041,7 @@
       "Name": "Bloodline",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 7862
+      "UsersEstimate": 7863
     },
     {
       "ID": "ACH_11",
@@ -14046,7 +14057,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 6937
+      "UsersEstimate": 6938
     },
     {
       "ID": "ACH_13",
@@ -14150,7 +14161,7 @@
       "Name": "Effective instruments",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 3237
+      "UsersEstimate": 3238
     },
     {
       "ID": "ACH_26",
@@ -14214,7 +14225,7 @@
       "Name": "Perfect throw",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 3237
+      "UsersEstimate": 3238
     },
     {
       "ID": "ACH_34",
@@ -14237,16 +14248,16 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 15416,
+      "Progressed": 15417,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
-  "LastChanged": "2023-12-27T19:59:40.2675328+00:00",
-  "LastChanged_Achievements": "2023-12-29T06:04:13.3542166+00:00",
+  "LastChanged": "2023-12-29T07:00:18.4614608+00:00",
+  "LastChanged_Achievements": "2023-12-29T07:04:36.1699015+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:10.1732324+00:00",
-  "LastUpdate_Ratings": "2023-12-29T05:59:55.2946866+00:00",
-  "LastUpdate_Achievements": "2023-12-29T06:04:13.3542934+00:00"
+  "LastUpdate_Ratings": "2023-12-29T07:00:18.4614612+00:00",
+  "LastUpdate_Achievements": "2023-12-29T07:04:36.1699901+00:00"
 }

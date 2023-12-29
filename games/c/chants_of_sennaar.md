@@ -1,38 +1,38 @@
 # Chants of Sennaar
 [Store](https://store.epicgames.com/en-US/p/chants-of-sennaar)  
 [View Rawdata](../../db/c/chants_of_sennaar.json)  
-Rating: 4.88 (Ranked 17)  
+Rating: 4.89 (Ranked 10)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 54.00% | ~1,061 |
-| Welcome to the Tower | 49.00% | ~962 |
-| The great escape | 41.00% | ~805 |
-| The Preacher's fate | 39.00% | ~766 |
-| A new dawn | 33.00% | ~648 |
+| That's the spirit | 54.00% | ~1,062 |
+| Welcome to the Tower | 49.00% | ~963 |
+| The great escape | 41.00% | ~806 |
+| The Preacher's fate | 39.00% | ~767 |
+| A new dawn | 33.00% | ~649 |
 | Scholar | 29.00% | ~570 |
-| A good beginning | 27.00% | ~530 |
-| True G3M4R | 27.00% | ~530 |
-| The darkness | 27.00% | ~530 |
-| One last step | 24.00% | ~471 |
+| A good beginning | 27.00% | ~531 |
+| True G3M4R | 27.00% | ~531 |
+| The darkness | 27.00% | ~531 |
+| One last step | 24.00% | ~472 |
+| I did it | 23.00% | ~452 |
 | Cable guy | 23.00% | ~452 |
 | Half the way | 23.00% | ~452 |
 | Rascal | 23.00% | ~452 |
-| I did it | 22.00% | ~432 |
-| Peace walker | 22.00% | ~432 |
-| Champollion | 22.00% | ~432 |
-| In this together | 21.00% | ~412 |
+| Peace walker | 22.00% | ~433 |
+| Champollion | 22.00% | ~433 |
+| In this together | 21.00% | ~413 |
 | Open door | 20.00% | ~393 |
 | Feels like springtime | 18.00% | ~354 |
 | Alchemists Express | 18.00% | ~354 |
-| Free at last | 16.00% | ~314 |
+| Free at last | 16.00% | ~315 |
 | A Link to the Past | 14.00% | ~275 |
 | A great audience | 12.00% | ~236 |
 | For its own good | 12.00% | ~236 |
 | Fashion victim | 8.00% | ~157 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,964 (Ranked 241)  
-Completed: 117 (5.96%) (Ranked 70)  
+Progressed: 1,966 (Ranked 241)  
+Completed: 118 (6.00%) (Ranked 70)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -191,7 +191,7 @@ Completed: 117 (5.96%) (Ranked 70)
 | 2023-12-26 | 1,854 | 110 |
 | 2023-12-27 | 1,909 | 114 |
 | 2023-12-28 | 1,950 | 117 |
-| 2023-12-29 | 1,964 | 117 |
+| 2023-12-29 | 1,966 | 118 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -204,3 +204,4 @@ Completed: 117 (5.96%) (Ranked 70)
 | 2023-12-25 | 4.85 | 0 | 0 |
 | 2023-12-26 | 4.87 | 0 | 0 |
 | 2023-12-28 | 4.88 | 0 | 0 |
+| 2023-12-29 | 4.89 | 0 | 0 |

@@ -6,40 +6,40 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~31,603 |
-| The Evilest Evil | 59.00% | ~26,637 |
-| Twistram is devastated | 58.00% | ~26,185 |
+| The Shadow strikes | 70.00% | ~31,604 |
+| The Evilest Evil | 59.00% | ~26,638 |
+| Twistram is devastated | 58.00% | ~26,186 |
 | The Gehenna Stones | 50.00% | ~22,574 |
-| No one has to die today! | 47.00% | ~21,219 |
-| Death and destruction! | 46.00% | ~20,768 |
-| The Swamplanders from the swamplands | 44.00% | ~19,865 |
-| Rusty Steel | 41.00% | ~18,510 |
-| The One-Huge-Army-Building Evil | 40.00% | ~18,059 |
-| Braiiiiins! | 38.00% | ~17,156 |
-| The last burger | 37.00% | ~16,704 |
-| Hands off the Dungeonheart! | 36.00% | ~16,253 |
-| A trip on sea, what fun it can be | 34.00% | ~15,350 |
+| No one has to die today! | 47.00% | ~21,220 |
+| Death and destruction! | 46.00% | ~20,769 |
+| The Swamplanders from the swamplands | 44.00% | ~19,866 |
+| Rusty Steel | 41.00% | ~18,511 |
+| The One-Huge-Army-Building Evil | 40.00% | ~18,060 |
+| Braiiiiins! | 38.00% | ~17,157 |
+| The last burger | 37.00% | ~16,705 |
+| Hands off the Dungeonheart! | 36.00% | ~16,254 |
+| A trip on sea, what fun it can be | 34.00% | ~15,351 |
 | Damned good | 33.00% | ~14,899 |
 | Stock Market Crash | 31.00% | ~13,996 |
 | Factory farming | 31.00% | ~13,996 |
-| Shadow hunter | 30.00% | ~13,544 |
-| Not-So-Overproud | 30.00% | ~13,544 |
-| For a handfull of Catapults | 28.00% | ~12,641 |
+| Shadow hunter | 30.00% | ~13,545 |
+| Not-So-Overproud | 30.00% | ~13,545 |
+| For a handfull of Catapults | 28.00% | ~12,642 |
 | Thirst quencher | 27.00% | ~12,190 |
 | Ogre Solo! | 27.00% | ~12,190 |
-| Destroy the thing | 26.00% | ~11,738 |
-| Tide Master | 26.00% | ~11,738 |
+| Destroy the thing | 26.00% | ~11,739 |
+| Tide Master | 26.00% | ~11,739 |
 | Difficult family relationships | 25.00% | ~11,287 |
-| MASS-O-BOT | 24.00% | ~10,835 |
-| Prepare the grave | 24.00% | ~10,835 |
-| Angel of Fire | 24.00% | ~10,835 |
+| MASS-O-BOT | 24.00% | ~10,836 |
+| Prepare the grave | 24.00% | ~10,836 |
+| Angel of Fire | 24.00% | ~10,836 |
 | Where there is Light, there is Shadow | 23.00% | ~10,384 |
-| At the foot of Mount Destiny | 22.00% | ~9,932 |
+| At the foot of Mount Destiny | 22.00% | ~9,933 |
 | The Force disturbed | 21.00% | ~9,481 |
-| The Victorious Evil | 20.00% | ~9,029 |
+| The Victorious Evil | 20.00% | ~9,030 |
 | Chorus of damnation | 19.00% | ~8,578 |
 | We don’t have time! | 19.00% | ~8,578 |
-| The Stones’ Power | 18.00% | ~8,126 |
+| The Stones’ Power | 18.00% | ~8,127 |
 | Flat as a pancake | 17.00% | ~7,675 |
 | Lifeguard | 17.00% | ~7,675 |
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~6,772 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~903 |
 | Sacrifices! | 2.00% | ~903 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,147 (Ranked 124)  
+Progressed: 45,149 (Ranked 124)  
 Completed: 362 (0.80%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 362 (0.80%) (Ranked 189)
 | 2023-12-26 | 44,895 | 362 |
 | 2023-12-27 | 45,022 | 362 |
 | 2023-12-28 | 45,113 | 362 |
-| 2023-12-29 | 45,147 | 362 |
+| 2023-12-29 | 45,149 | 362 |
 ## Awards
 Max (Great for Beginners): 394  (Ranked 237)  
 Sum: 2,833 (Ranked 186)  

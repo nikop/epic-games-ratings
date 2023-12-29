@@ -14,7 +14,7 @@
 | I Believe I Can Fly | 49.00% | ~176 |
 | No Diggity | 44.00% | ~136 |
 | Early Survivor | 41.00% | ~127 |
-| Bouncemato | 31.00% | ~96 |
+| Bouncemato | 32.00% | ~99 |
 | 10K | 29.00% | ~104 |
 | Amateur Survivor | 29.00% | ~90 |
 | 15K | 27.00% | ~97 |
@@ -22,7 +22,7 @@
 | Quick-Draw Pod | 22.00% | ~68 |
 | Grave Digger | 22.00% | ~68 |
 | Pork Chop Express | 20.00% | ~72 |
-| Professional Survivor | 19.00% | ~59 |
+| Professional Survivor | 20.00% | ~62 |
 | Carrocketeer | 18.00% | ~65 |
 | Skin Of Your Teeth | 17.00% | ~61 |
 | Getting Started | 16.00% | ~58 |

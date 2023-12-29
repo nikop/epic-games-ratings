@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -396,7 +396,7 @@
   ],
   "EOS_Progressed": 5110,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -4716,9 +4716,9 @@
       "ID": "ID_ACHIEV_58",
       "SetID": "98bke8c",
       "Name": "Is This Real Life?",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 409
+      "UsersEstimate": 460
     },
     {
       "ID": "ID_ACHIEV_59",
@@ -4812,8 +4812,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-24T15:57:46.3755439+00:00",
-  "LastChanged_Achievements": "2023-12-29T06:05:16.6295184+00:00",
+  "LastChanged_Achievements": "2023-12-29T07:05:38.0410522+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:20.3744551+00:00",
-  "LastUpdate_Ratings": "2023-12-29T05:59:25.5041612+00:00",
-  "LastUpdate_Achievements": "2023-12-29T06:05:16.6295952+00:00"
+  "LastUpdate_Ratings": "2023-12-29T06:59:49.8668224+00:00",
+  "LastUpdate_Achievements": "2023-12-29T07:05:38.0411134+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Well Socialised! | 23.00% | ~25,283 |
+| Well Socialised! | 23.00% | ~25,284 |
 | Variety Player - Bronze | 13.00% | ~14,291 |
 | Express Yourself - Bronze | 7.00% | ~7,695 |
 | Getting Friendly | 5.00% | ~5,496 |
@@ -20,7 +20,7 @@ Number of Ratings: 94  (23.09.2022)
 | Grouping Up - Bronze | 1.00% | ~1,099 |
 | Community Creativity | 1.00% | ~1,099 |
 | Shared! | 1.00% | ~1,099 |
-| These Are a Few of My Favorite Things - Bronze | 0.70% | ~769 |
+| These Are a Few of My Favorite Things - Bronze | 0.70% | ~770 |
 | Standing on the Shoulders of Giants - Bronze | 0.60% | ~660 |
 | Going Public! | 0.60% | ~660 |
 | Variety Player - Gold | 0.50% | ~550 |
@@ -41,7 +41,7 @@ Number of Ratings: 94  (23.09.2022)
 | Featured Gamer - Silver | 0.10% | ~110 |
 | Featured Gamer - Gold | 0.10% | ~110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109,927 (Ranked 91)  
+Progressed: 109,929 (Ranked 91)  
 Completed: 5 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,6 +281,7 @@ Completed: 5 (0.00%) (Ranked 389)
 | 2023-12-26 | 109,923 | 5 |
 | 2023-12-27 | 109,924 | 5 |
 | 2023-12-28 | 109,927 | 5 |
+| 2023-12-29 | 109,929 | 5 |
 ## Awards
 Max (Diverse Characters): 50  (Ranked 448)  
 Sum: 370 (Ranked 357)  

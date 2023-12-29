@@ -12,15 +12,15 @@ Number of Ratings: 15,086  (23.09.2022)
 | Getting A Glimpse | 0.90% | ~2,177 |
 | A Quick Escape | 0.90% | ~2,177 |
 | An Offering | 0.90% | ~2,177 |
-| Nothing To Lose | 0.80% | ~1,935 |
-| Heavy Hitter | 0.80% | ~1,935 |
-| That Was Quick | 0.80% | ~1,935 |
-| Colorful Corpse | 0.80% | ~1,935 |
-| Defeat The Dark | 0.80% | ~1,935 |
-| Goodbye, Frog Friend | 0.80% | ~1,935 |
-| A Donation | 0.80% | ~1,935 |
-| Deflection | 0.80% | ~1,935 |
-| Explorer | 0.80% | ~1,935 |
+| Nothing To Lose | 0.80% | ~1,936 |
+| Heavy Hitter | 0.80% | ~1,936 |
+| That Was Quick | 0.80% | ~1,936 |
+| Colorful Corpse | 0.80% | ~1,936 |
+| Defeat The Dark | 0.80% | ~1,936 |
+| Goodbye, Frog Friend | 0.80% | ~1,936 |
+| A Donation | 0.80% | ~1,936 |
+| Deflection | 0.80% | ~1,936 |
+| Explorer | 0.80% | ~1,936 |
 | Not Touching You | 0.80% | ~27 |
 | Ambitious Intent | 0.70% | ~1,694 |
 | Delving Deeper | 0.70% | ~1,694 |
@@ -48,6 +48,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Just Chilling | 0.50% | ~1,210 |
 | Save Our Souls | 0.50% | ~1,210 |
 | Stop Hitting Yourself | 0.50% | ~1,210 |
+| Doing Time | 0.50% | ~1,210 |
 | Acid Bath | 0.50% | ~1,210 |
 | New Perspectives | 0.50% | ~1,210 |
 | Expensive Look | 0.50% | ~17 |
@@ -61,7 +62,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | All Consuming | 0.40% | ~968 |
 | Illuminate, Eliminate | 0.40% | ~968 |
 | Chain Reaction | 0.40% | ~968 |
-| Doing Time | 0.40% | ~968 |
 | Spreading Plague | 0.40% | ~968 |
 | Antivenom | 0.40% | ~968 |
 | The Long Run | 0.40% | ~968 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,937 (Ranked 70)  
+Progressed: 241,940 (Ranked 70)  
 Completed: 302 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -398,7 +398,7 @@ Completed: 302 (0.12%) (Ranked 301)
 | 2023-12-26 | 241,782 | 302 |
 | 2023-12-27 | 241,847 | 302 |
 | 2023-12-28 | 241,919 | 302 |
-| 2023-12-29 | 241,937 | 302 |
+| 2023-12-29 | 241,940 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,512  (Ranked 134)  
 Sum: 11,768 (Ranked 88)  

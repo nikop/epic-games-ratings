@@ -2,12 +2,12 @@
   "ID": "2f32d18c2cba4a2a92e359224f308770",
   "Name": "WarmSnow",
   "ProductSlug": "warmsnow-7e3180",
-  "Ranking_Rating": 57,
-  "Ranking_Popularity": 470,
-  "Ranking_PopularitySum": 510,
+  "Ranking_Rating": 56,
+  "Ranking_Popularity": 464,
+  "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 573,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-03-17T03:00:00+00:00",
@@ -275,18 +275,24 @@
       "Rating": 4.83,
       "NumberOfAwards": 43,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2023-12-29T06:57:54.4780229+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 45,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43,
-  "NumberOfAwardsMax": 43,
+  "NumberOfAwards": 45,
+  "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 43
+      "Count": 45
     }
   ],
   "EOS_Progressed": 0,
@@ -301,8 +307,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-17T11:57:45.9804138+00:00",
   "FirstSeenRating": "2023-03-31T05:57:32.8296597+00:00",
-  "LastChanged": "2023-12-28T16:57:39.4446642+00:00",
+  "LastChanged": "2023-12-29T06:57:54.4780227+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:37.0053639+00:00",
-  "LastUpdate_Ratings": "2023-12-29T05:57:27.4240587+00:00",
-  "LastUpdate_Achievements": "2023-12-29T06:09:13.3012839+00:00"
+  "LastUpdate_Ratings": "2023-12-29T06:57:54.4780232+00:00",
+  "LastUpdate_Achievements": "2023-12-29T07:09:09.4712215+00:00"
 }

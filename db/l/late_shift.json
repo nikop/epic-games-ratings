@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 871,
+  "EOS_Progressed": 872,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.26,
   "EosHistory": [
@@ -2350,6 +2350,11 @@
       "Time": "2023-12-29T04:09:33.0730563+00:00",
       "NumProgressed": 871,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-29T07:09:22.6815689+00:00",
+      "NumProgressed": 872,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 20,
@@ -2361,7 +2366,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "CHOICES_MATTER",
@@ -2409,7 +2414,7 @@
       "Name": "The Delivery",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ENDING_6",
@@ -2433,7 +2438,7 @@
       "Name": "Even Tempered",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -2449,7 +2454,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "GOOD_KARMA",
@@ -2505,7 +2510,7 @@
       "Name": "Shill Bidder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -2520,7 +2525,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 871,
+      "Progressed": 872,
       "Completed": 11
     }
   ],
@@ -2528,8 +2533,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-29T06:09:26.6893122+00:00",
+  "LastChanged_Achievements": "2023-12-29T07:09:22.6815686+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:26.7088663+00:00",
-  "LastUpdate_Ratings": "2023-12-29T05:58:36.8789551+00:00",
-  "LastUpdate_Achievements": "2023-12-29T06:09:26.6893374+00:00"
+  "LastUpdate_Ratings": "2023-12-29T06:59:02.6526663+00:00",
+  "LastUpdate_Achievements": "2023-12-29T07:09:22.6815906+00:00"
 }

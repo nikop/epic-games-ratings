@@ -479,9 +479,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 224612,
+  "EOS_Progressed": 224613,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1387,
+  "EOS_NewPlayers": 1383,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29379,6 +29379,11 @@
       "Time": "2023-12-29T06:08:32.6816546+00:00",
       "NumProgressed": 224612,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-29T07:07:00.657492+00:00",
+      "NumProgressed": 224613,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -29542,7 +29547,7 @@
       "Name": "Friendly Fire",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 8984
+      "UsersEstimate": 8985
     },
     {
       "ID": "Learner",
@@ -29614,7 +29619,7 @@
       "Name": "Queen Sacrifice",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 44922
+      "UsersEstimate": 44923
     },
     {
       "ID": "ScholarsMate",
@@ -29646,7 +29651,7 @@
       "Name": "Stranger Danger",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 26953
+      "UsersEstimate": 26954
     },
     {
       "ID": "TournamentAmateur",
@@ -29686,14 +29691,14 @@
       "Name": "Underpromote",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8984
+      "UsersEstimate": 8985
     }
   ],
   "AchievementSets": [
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 224612,
+      "Progressed": 224613,
       "Completed": 2
     }
   ],
@@ -29701,8 +29706,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-12-26T17:01:37.5810633+00:00",
-  "LastChanged_Achievements": "2023-12-29T06:08:32.6816541+00:00",
+  "LastChanged_Achievements": "2023-12-29T07:07:00.6574916+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:03.6337797+00:00",
-  "LastUpdate_Ratings": "2023-12-29T05:57:11.1318501+00:00",
-  "LastUpdate_Achievements": "2023-12-29T06:08:32.6818093+00:00"
+  "LastUpdate_Ratings": "2023-12-29T06:57:39.1593019+00:00",
+  "LastUpdate_Achievements": "2023-12-29T07:07:00.6576365+00:00"
 }

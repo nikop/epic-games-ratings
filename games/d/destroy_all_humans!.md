@@ -6,33 +6,33 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 66.00% | ~139 |
-| Kaijuiced | 65.00% | ~137 |
-| Lie Back and Think of Albion | 59.00% | ~124 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 57.00% | ~120 |
-| Yettisoned | 54.00% | ~114 |
-| I Look Up As I Walk to Takoshima | 54.00% | ~114 |
+| Shop Til They Drop | 67.00% | ~142 |
+| Kaijuiced | 65.00% | ~138 |
+| Lie Back and Think of Albion | 59.00% | ~125 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 57.00% | ~121 |
+| Yettisoned | 53.00% | ~112 |
+| I Look Up As I Walk to Takoshima | 53.00% | ~112 |
 | Perfect Probulator | 52.00% | ~110 |
-| Lobster Blisque | 48.00% | ~101 |
-| Pimp My Raid | 48.00% | ~101 |
-| Earthly Pleasures | 45.00% | ~95 |
-| Fly Me to the Moon Base | 44.00% | ~93 |
-| Ducks in a Row, Fish in a Barrel | 43.00% | ~91 |
-| Freshly Squeezed | 35.00% | ~74 |
-| Bodied Sattva | 34.00% | ~72 |
+| Lobster Blisque | 48.00% | ~102 |
+| Pimp My Raid | 48.00% | ~102 |
+| Earthly Pleasures | 46.00% | ~98 |
+| Fly Me to the Moon Base | 43.00% | ~91 |
+| Ducks in a Row, Fish in a Barrel | 42.00% | ~89 |
+| Freshly Squeezed | 34.00% | ~72 |
+| Bodied Sattva | 33.00% | ~70 |
 | Forbidden Donut | 32.00% | ~68 |
 | Upgreatest | 32.00% | ~68 |
-| Furon Fashion | 27.00% | ~57 |
-| Deincarnated | 26.00% | ~55 |
+| Furon Fashion | 26.00% | ~55 |
+| Deincarnated | 25.00% | ~53 |
 | Rock of the Bay | 23.00% | ~49 |
 | Trans-Siberian Express | 23.00% | ~49 |
 | Re-Return of the Clone of the Invasion II-2 | 19.00% | ~40 |
 | Ouch of Body Experience | 16.00% | ~34 |
 | Arkvoodle Doodle | 15.00% | ~32 |
-| If You Know What I Mean | 14.00% | ~30 |
+| If You Know What I Mean | 15.00% | ~32 |
 | Mash Machine | 14.00% | ~30 |
-| Die Nasty | 13.00% | ~27 |
-| Hidden Human Hive Harvest | 13.00% | ~27 |
+| Die Nasty | 13.00% | ~28 |
+| Hidden Human Hive Harvest | 13.00% | ~28 |
 | Albion Bridge Is for Falling Down | 12.00% | ~25 |
 | Dusted | 12.00% | ~25 |
 | Scuttled | 9.00% | ~19 |
@@ -47,8 +47,8 @@ Number of Ratings: 85  (23.09.2022)
 | Against All Odds | 1.00% | ~2 |
 | Steezy Down the Spine | 0.90% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211 (Ranked 418)  
-Completed: 2 (0.95%) (Ranked 177)  
+Progressed: 212 (Ranked 417)  
+Completed: 2 (0.94%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -63,7 +63,7 @@ Completed: 2 (0.95%) (Ranked 177)
 | 2023-12-26 | 176 | 2 |
 | 2023-12-27 | 188 | 2 |
 | 2023-12-28 | 206 | 2 |
-| 2023-12-29 | 211 | 2 |
+| 2023-12-29 | 212 | 2 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 501)  
 Sum: 34 (Ranked 525)  

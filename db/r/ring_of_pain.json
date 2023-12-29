@@ -3802,9 +3802,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 241937,
+  "EOS_Progressed": 241940,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 493,
+  "EOS_NewPlayers": 494,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29922,6 +29922,11 @@
       "Time": "2023-12-29T06:10:05.4930293+00:00",
       "NumProgressed": 241937,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-29T07:10:00.3505023+00:00",
+      "NumProgressed": 241940,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -29973,7 +29978,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1935
+      "UsersEstimate": 1936
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -30013,7 +30018,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1935
+      "UsersEstimate": 1936
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -30109,7 +30114,7 @@
       "Name": "That Was Quick",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1935
+      "UsersEstimate": 1936
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -30117,7 +30122,7 @@
       "Name": "Colorful Corpse",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1935
+      "UsersEstimate": 1936
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -30333,7 +30338,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1935
+      "UsersEstimate": 1936
     },
     {
       "ID": "KILL1000",
@@ -30421,7 +30426,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1935
+      "UsersEstimate": 1936
     },
     {
       "ID": "KILLNICEDOG",
@@ -30517,7 +30522,7 @@
       "Name": "A Donation",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1935
+      "UsersEstimate": 1936
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -30565,7 +30570,7 @@
       "Name": "Deflection",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1935
+      "UsersEstimate": 1936
     },
     {
       "ID": "PASSIVEDEPTH6",
@@ -30595,9 +30600,9 @@
       "ID": "PLAY10HOURS",
       "SetID": "5l8oe0h",
       "Name": "Doing Time",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 968
+      "UsersEstimate": 1210
     },
     {
       "ID": "POISON300",
@@ -30685,7 +30690,7 @@
       "Name": "Explorer",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1935
+      "UsersEstimate": 1936
     },
     {
       "ID": "SPEEDRUN10",
@@ -31036,13 +31041,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241937,
+      "Progressed": 241940,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3417,
+      "Progressed": 3420,
       "Completed": 416
     }
   ],
@@ -31050,8 +31055,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-28T23:00:28.6760098+00:00",
-  "LastChanged_Achievements": "2023-12-29T06:10:05.4930288+00:00",
+  "LastChanged_Achievements": "2023-12-29T07:10:00.350502+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-29T05:59:21.3949337+00:00",
-  "LastUpdate_Achievements": "2023-12-29T06:10:05.4932695+00:00"
+  "LastUpdate_Ratings": "2023-12-29T06:59:45.8666908+00:00",
+  "LastUpdate_Achievements": "2023-12-29T07:10:00.3507399+00:00"
 }

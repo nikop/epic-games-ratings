@@ -5,7 +5,7 @@
   "Ranking_Rating": 869,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
-  "Ranking_EOS_Progress": 335,
+  "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 149,
@@ -331,7 +331,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 509,
+  "EOS_Progressed": 510,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 0,
@@ -1396,6 +1396,11 @@
       "Time": "2023-12-29T06:08:43.2072558+00:00",
       "NumProgressed": 509,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T07:07:10.7050843+00:00",
+      "NumProgressed": 510,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1462,9 +1467,9 @@
       "ID": "CareerFirstWin",
       "SetID": "5hd282c",
       "Name": "Storm Warning",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 326
+      "UsersEstimate": 332
     },
     {
       "ID": "CollectVehiclesA",
@@ -1472,7 +1477,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "CollectVehiclesB",
@@ -1552,7 +1557,7 @@
       "Name": "Hating Them Tin Cans",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "WreckOpponentsBus",
@@ -1567,7 +1572,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 509,
+      "Progressed": 510,
       "Completed": 0
     }
   ],
@@ -1575,8 +1580,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-28T22:58:24.1175943+00:00",
-  "LastChanged_Achievements": "2023-12-29T06:08:43.2072552+00:00",
+  "LastChanged_Achievements": "2023-12-29T07:07:10.7050839+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-29T05:57:33.7665882+00:00",
-  "LastUpdate_Achievements": "2023-12-29T06:08:43.2072787+00:00"
+  "LastUpdate_Ratings": "2023-12-29T06:58:00.7873061+00:00",
+  "LastUpdate_Achievements": "2023-12-29T07:07:10.7050999+00:00"
 }

@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1420,
+  "EOS_Progressed": 1421,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
@@ -2950,6 +2950,11 @@
       "Time": "2023-12-29T05:05:22.9974413+00:00",
       "NumProgressed": 1420,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T07:04:35.8072801+00:00",
+      "NumProgressed": 1421,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3002,7 +3007,7 @@
       "Name": "Unblurred Lines",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACHIEVEMENT_BOT_BOSS",
@@ -3050,7 +3055,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -3058,7 +3063,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -3066,7 +3071,7 @@
       "Name": "Obsessively Thorough",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
@@ -3201,14 +3206,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1420,
+      "Progressed": 1421,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-12-29T06:04:13.0540514+00:00",
+  "LastChanged_Achievements": "2023-12-29T07:04:35.8072797+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:00.1965929+00:00",
-  "LastUpdate_Ratings": "2023-12-29T05:59:26.103434+00:00",
-  "LastUpdate_Achievements": "2023-12-29T06:04:13.0541086+00:00"
+  "LastUpdate_Ratings": "2023-12-29T06:59:50.3816444+00:00",
+  "LastUpdate_Achievements": "2023-12-29T07:04:35.807311+00:00"
 }

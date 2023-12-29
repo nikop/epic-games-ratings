@@ -3737,7 +3737,7 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 143091,
+  "EOS_Progressed": 143092,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 954,
   "EOS_NewCompleters": 0,
@@ -32207,6 +32207,11 @@
       "Time": "2023-12-29T06:05:30.7788268+00:00",
       "NumProgressed": 143091,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-29T07:05:51.8772255+00:00",
+      "NumProgressed": 143092,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 67,
@@ -32218,7 +32223,7 @@
       "Name": "Anarchist",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 97302
+      "UsersEstimate": 97303
     },
     {
       "ID": "TANNENBERG_ACH_ANYONE_ELSE",
@@ -32234,7 +32239,7 @@
       "Name": "At Least This Way I Can Win...",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 25756
+      "UsersEstimate": 25757
     },
     {
       "ID": "TANNENBERG_ACH_BEFORE_THE_LEAVES_FALL",
@@ -32298,7 +32303,7 @@
       "Name": "Crack Shot",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 8585
+      "UsersEstimate": 8586
     },
     {
       "ID": "TANNENBERG_ACH_DEMOCRACY_WORKS",
@@ -32338,7 +32343,7 @@
       "Name": "Fog of War",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 58667
+      "UsersEstimate": 58668
     },
     {
       "ID": "TANNENBERG_ACH_FORWARD_OBSERVER",
@@ -32346,7 +32351,7 @@
       "Name": "Forward Observer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 72976
+      "UsersEstimate": 72977
     },
     {
       "ID": "TANNENBERG_ACH_FOR_THE_EMPEROR",
@@ -32424,9 +32429,9 @@
       "ID": "TANNENBERG_ACH_IMMOVABLE_OBJECT",
       "SetID": "312pgde",
       "Name": "Immovable Object",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 127351
+      "UsersEstimate": 128783
     },
     {
       "ID": "TANNENBERG_ACH_INDIVISIBILITER_AC_INSEPARABILITER",
@@ -32442,7 +32447,7 @@
       "Name": "Information is Key",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 114473
+      "UsersEstimate": 114474
     },
     {
       "ID": "TANNENBERG_ACH_IVE_SEEN_IT_ALL",
@@ -32450,7 +32455,7 @@
       "Name": "I\u0027ve Seen It All",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 24325
+      "UsersEstimate": 24326
     },
     {
       "ID": "TANNENBERG_ACH_KESSELSCHLACHT",
@@ -32498,7 +32503,7 @@
       "Name": "Lucky Shot",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 75838
+      "UsersEstimate": 75839
     },
     {
       "ID": "TANNENBERG_ACH_NA_NOZH",
@@ -32522,7 +32527,7 @@
       "Name": "Oops!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 24325
+      "UsersEstimate": 24326
     },
     {
       "ID": "TANNENBERG_ACH_OVERACHIEVER",
@@ -32578,7 +32583,7 @@
       "Name": "Rasputin",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 55805
+      "UsersEstimate": 55806
     },
     {
       "ID": "TANNENBERG_ACH_RING_RING",
@@ -32586,7 +32591,7 @@
       "Name": "Ring Ring!",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 74407
+      "UsersEstimate": 74408
     },
     {
       "ID": "TANNENBERG_ACH_ROAD_TO_BERLIN",
@@ -32642,7 +32647,7 @@
       "Name": "Stronghold Denied",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 55805
+      "UsersEstimate": 55806
     },
     {
       "ID": "TANNENBERG_ACH_SWITCH_PLEASE",
@@ -32698,7 +32703,7 @@
       "Name": "Together As One",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 44358
+      "UsersEstimate": 44359
     },
     {
       "ID": "TANNENBERG_ACH_TOURIST",
@@ -32706,7 +32711,7 @@
       "Name": "Tourist",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 25756
+      "UsersEstimate": 25757
     },
     {
       "ID": "TANNENBERG_ACH_TO_ARMS_TO_ARMS",
@@ -32730,7 +32735,7 @@
       "Name": "Wallhack",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 93009
+      "UsersEstimate": 93010
     },
     {
       "ID": "TANNENBERG_ACH_YOUR_FAMILY_WILL_BE_PROUD",
@@ -32753,15 +32758,15 @@
     {
       "ID": "312pgde",
       "IsBase": true,
-      "Progressed": 143091,
+      "Progressed": 143092,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.3256152+00:00",
   "LastChanged": "2023-12-24T02:59:45.2944297+00:00",
-  "LastChanged_Achievements": "2023-12-29T06:05:30.7788263+00:00",
+  "LastChanged_Achievements": "2023-12-29T07:05:51.8772251+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:59.7456525+00:00",
-  "LastUpdate_Ratings": "2023-12-29T06:02:41.9409468+00:00",
-  "LastUpdate_Achievements": "2023-12-29T06:05:30.7789779+00:00"
+  "LastUpdate_Ratings": "2023-12-29T07:03:04.7712923+00:00",
+  "LastUpdate_Achievements": "2023-12-29T07:05:51.8773828+00:00"
 }

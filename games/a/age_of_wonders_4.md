@@ -7,8 +7,8 @@ Rating: 4.63 (Ranked 355)
 | ---- | ---------- | ----- |
 | Secret Technique | 11.00% | ~708 |
 | Realm Estate | 10.00% | ~644 |
-| A Wonderful Discovery | 9.00% | ~579 |
-| Walls Cannot Stop Us | 9.00% | ~579 |
+| A Wonderful Discovery | 9.00% | ~580 |
+| Walls Cannot Stop Us | 9.00% | ~580 |
 | From Friends to Family | 8.00% | ~515 |
 | Bone Peddler | 7.00% | ~451 |
 | Magical Synergy | 6.00% | ~386 |
@@ -17,9 +17,9 @@ Rating: 4.63 (Ranked 355)
 | Stronger Together | 5.00% | ~322 |
 | Seat of Power | 5.00% | ~322 |
 | But this one is mine | 5.00% | ~322 |
-| Valley of Wonders | 4.00% | ~257 |
-| In a Liege of Your Own | 4.00% | ~257 |
-| Intimidation Tactics | 4.00% | ~257 |
+| Valley of Wonders | 4.00% | ~258 |
+| In a Liege of Your Own | 4.00% | ~258 |
+| Intimidation Tactics | 4.00% | ~258 |
 | Return of the Wizard King | 3.00% | ~193 |
 | Enchanted Archipelago | 3.00% | ~193 |
 | Digging for Treasure | 3.00% | ~193 |
@@ -51,8 +51,8 @@ Rating: 4.63 (Ranked 355)
 | Dawn of the Dread | 1.00% | ~64 |
 | Manufactured War | 0.90% | ~58 |
 | Pruning for Progress | 0.90% | ~58 |
-| Grexolis | 0.80% | ~51 |
-| One for All, All for One | 0.80% | ~51 |
+| Grexolis | 0.80% | ~52 |
+| One for All, All for One | 0.80% | ~52 |
 | Duality | 0.70% | ~45 |
 | Betrayal Most Foul | 0.60% | ~39 |
 | Snap Out of It! | 0.30% | ~19 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 355)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,437 (Ranked 195)  
+Progressed: 6,440 (Ranked 195)  
 Completed: 7 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 7 (0.11%) (Ranked 304)
 | 2023-12-26 | 6,285 | 7 |
 | 2023-12-27 | 6,359 | 7 |
 | 2023-12-28 | 6,414 | 7 |
-| 2023-12-29 | 6,437 | 7 |
+| 2023-12-29 | 6,440 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 481)  
 Sum: 140 (Ranked 439)  

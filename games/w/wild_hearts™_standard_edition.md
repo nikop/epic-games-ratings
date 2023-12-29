@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 99.00% | ~962 |
-| Hidden History | 70.00% | ~680 |
-| Commencing of Quests | 61.00% | ~593 |
-| Budding Conjuror | 59.00% | ~573 |
+| Land of the Rising Sun | 99.00% | ~963 |
+| Hidden History | 71.00% | ~691 |
+| Commencing of Quests | 61.00% | ~594 |
+| Budding Conjuror | 59.00% | ~574 |
 | Man-Machine Master | 48.00% | ~467 |
 | Mountain Splitter | 47.00% | ~457 |
 | Subsistence Skills | 47.00% | ~457 |
 | Charmed by the Hunt | 47.00% | ~457 |
-| Fusion Conjuror | 45.00% | ~437 |
-| Memory Rouser | 45.00% | ~437 |
+| Fusion Conjuror | 45.00% | ~438 |
+| Memory Rouser | 45.00% | ~438 |
 | Kemono Hunter | 40.00% | ~389 |
-| Helpful Heart | 38.00% | ~369 |
-| Expert Conjuror | 38.00% | ~369 |
+| Helpful Heart | 38.00% | ~370 |
+| Expert Conjuror | 38.00% | ~370 |
 | Flawless Crystal | 37.00% | ~360 |
 | Bonds of Enmity | 36.00% | ~350 |
 | Distance Devourer | 33.00% | ~321 |
 | Counter Specialist | 32.00% | ~311 |
 | Master of the Skies | 30.00% | ~292 |
-| Axer of Auspice | 27.00% | ~262 |
+| Axer of Auspice | 27.00% | ~263 |
 | Fair Means or Foul | 26.00% | ~253 |
 | Mighty Marmelizer | 25.00% | ~243 |
 | Kemono at Heart | 25.00% | ~243 |
@@ -44,8 +44,8 @@
 | Jack of All Trades | 12.00% | ~117 |
 | Karakuri Fortress | 10.00% | ~97 |
 | Haven Hunter | 10.00% | ~97 |
-| Volatile Vocation | 9.00% | ~87 |
-| Tender Touch | 9.00% | ~87 |
+| Volatile Vocation | 9.00% | ~88 |
+| Tender Touch | 9.00% | ~88 |
 | Superlative View | 8.00% | ~78 |
 | Relentless Kemono Hunter | 7.00% | ~68 |
 | Vanquisher of the Volatile | 6.00% | ~58 |
@@ -53,7 +53,7 @@
 | Bewitched by Bathing | 4.00% | ~39 |
 | Tsukumo Whisperer | 3.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 972 (Ranked 286)  
+Progressed: 973 (Ranked 286)  
 Completed: 8 (0.82%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,4 +158,4 @@ Completed: 8 (0.82%) (Ranked 187)
 | 2023-12-26 | 919 | 8 |
 | 2023-12-27 | 941 | 8 |
 | 2023-12-28 | 970 | 8 |
-| 2023-12-29 | 972 | 8 |
+| 2023-12-29 | 973 | 8 |
