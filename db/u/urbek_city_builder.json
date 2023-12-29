@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 468,
+  "EOS_Progressed": 469,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1665,6 +1665,11 @@
       "Time": "2023-12-28T23:11:02.02366+00:00",
       "NumProgressed": 468,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T14:10:22.1823497+00:00",
+      "NumProgressed": 469,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -2106,9 +2111,9 @@
       "ID": "POPULATION_1",
       "SetID": "44dlcg0",
       "Name": "Small town",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 80
     },
     {
       "ID": "POPULATION_2",
@@ -2307,7 +2312,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 468,
+      "Progressed": 469,
       "Completed": 0
     }
   ],
@@ -2315,8 +2320,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:13:05.8521025+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:10:22.1823494+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:33.1198252+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:03:51.7747441+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:13:05.852169+00:00"
+  "LastUpdate_Ratings": "2023-12-29T14:02:57.3700064+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:10:22.1824474+00:00"
 }

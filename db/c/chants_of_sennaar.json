@@ -85,11 +85,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1977,
+  "EOS_Progressed": 1979,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 428,
-  "EOS_NewCompleters": 37,
-  "EOS_Completed_Percentage": 6.07,
+  "EOS_NewPlayers": 426,
+  "EOS_NewCompleters": 36,
+  "EOS_Completed_Percentage": 6.06,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -5660,6 +5660,11 @@
       "Time": "2023-12-29T13:08:41.0189974+00:00",
       "NumProgressed": 1977,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-12-29T14:05:28.5442624+00:00",
+      "NumProgressed": 1979,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 25,
@@ -5677,9 +5682,9 @@
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 200,
-      "UsersEstimate": 415
+      "UsersEstimate": 435
     },
     {
       "ID": "META_ALL_LINK",
@@ -5719,7 +5724,7 @@
       "Name": "Open door",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "META_RESULT_1-3",
@@ -5727,7 +5732,7 @@
       "Name": "Free at last",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "META_RESULT_1-4",
@@ -5791,7 +5796,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -5815,7 +5820,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -5823,7 +5828,7 @@
       "Name": "Scholar",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "PROGRESS_N1",
@@ -5831,7 +5836,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "PROGRESS_N2",
@@ -5847,7 +5852,7 @@
       "Name": "A new dawn",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "PROGRESS_N4",
@@ -5863,14 +5868,14 @@
       "Name": "One last step",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1977,
+      "Progressed": 1979,
       "Completed": 120
     }
   ],
@@ -5878,8 +5883,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-29T06:59:08.3980906+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:08:41.0189969+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:05:28.5442619+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:02:26.3158638+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:08:41.0190371+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:59:09.2657587+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:05:28.5443014+00:00"
 }

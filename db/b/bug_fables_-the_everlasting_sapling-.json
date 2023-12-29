@@ -4,7 +4,7 @@
   "ProductSlug": "bug-fables-the-everlasting-sapling-851aa9",
   "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewPlayers": 425,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-04-08T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 105,
+  "EOS_Progressed": 106,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -239,6 +239,11 @@
       "Time": "2023-12-26T23:10:34.8168354+00:00",
       "NumProgressed": 105,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T14:10:04.9252635+00:00",
+      "NumProgressed": 106,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -248,9 +253,9 @@
       "ID": "BFT_ARC",
       "SetID": "7o7kd30",
       "Name": "Gamer",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 8
     },
     {
       "ID": "BFT_BONUS",
@@ -272,7 +277,7 @@
       "ID": "BFT_CH1HB",
       "SetID": "7o7kd30",
       "Name": "Vicious Spider",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 30,
       "UsersEstimate": 46
     },
@@ -280,7 +285,7 @@
       "ID": "BFT_CH2",
       "SetID": "7o7kd30",
       "Name": "Chapter 2 Complete",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
       "UsersEstimate": 46
     },
@@ -312,9 +317,9 @@
       "ID": "BFT_CH4",
       "SetID": "7o7kd30",
       "Name": "Chapter 4 Complete",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 26
     },
     {
       "ID": "BFT_CH4HB",
@@ -384,9 +389,9 @@
       "ID": "BFT_COOK",
       "SetID": "7o7kd30",
       "Name": "Cooking Maestro",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 8
     },
     {
       "ID": "BFT_CRYST",
@@ -400,7 +405,7 @@
       "ID": "BFT_DISC",
       "SetID": "7o7kd30",
       "Name": "Pro Explorers",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -450,7 +455,7 @@
       "Name": "Music Collector",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "BFT_PLAT",
@@ -472,7 +477,7 @@
       "ID": "BFT_SUPER",
       "SetID": "7o7kd30",
       "Name": "Ultimate Team!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 65,
       "UsersEstimate": 10
     },
@@ -489,7 +494,7 @@
     {
       "ID": "7o7kd30",
       "IsBase": true,
-      "Progressed": 105,
+      "Progressed": 106,
       "Completed": 0
     }
   ],
@@ -497,8 +502,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:12:48.7443857+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:10:04.9252632+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:16.5653285+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:03:46.5086144+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:12:48.7444065+00:00"
+  "LastUpdate_Ratings": "2023-12-29T14:02:51.5132851+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:10:04.9252885+00:00"
 }

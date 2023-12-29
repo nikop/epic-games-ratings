@@ -14,8 +14,8 @@ Number of Ratings: 368  (23.09.2022)
 | Cave Drawings | 1.00% | ~972 |
 | Forest Drawings | 0.70% | ~680 |
 | Closet Drawings | 0.60% | ~583 |
+| Prologue Drawings | 0.60% | ~583 |
 | Collected all drawings | 0.50% | ~486 |
-| Prologue Drawings | 0.50% | ~486 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 97,185 (Ranked 97)  
 Completed: 448 (0.46%) (Ranked 221)  

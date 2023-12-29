@@ -450,7 +450,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 825,
+  "EOS_Progressed": 826,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 0,
@@ -3050,6 +3050,11 @@
       "Time": "2023-12-29T11:09:03.5133533+00:00",
       "NumProgressed": 825,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T14:09:16.801329+00:00",
+      "NumProgressed": 826,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3118,7 +3123,7 @@
       "Name": "This Spot\u0027s Taken",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "BurrowUp",
@@ -3174,7 +3179,7 @@
       "Name": "Deepstrike",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "DieByTheBow",
@@ -3238,7 +3243,7 @@
       "Name": "Infernal Influence",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "KillingSpree",
@@ -3382,7 +3387,7 @@
       "Name": "Ultra Kill",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "WielderLevel1",
@@ -3430,7 +3435,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "WinBattleWithoutAttacking",
@@ -3493,15 +3498,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 825,
+      "Progressed": 826,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:12:00.4121294+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:09:16.8013285+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.1217697+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:02:04.9965864+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:12:00.41218+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:58:46.5702364+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:09:16.8013975+00:00"
 }

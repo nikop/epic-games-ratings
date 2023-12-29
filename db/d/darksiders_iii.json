@@ -5,9 +5,9 @@
   "Ranking_Rating": 647,
   "Ranking_Popularity": 385,
   "Ranking_PopularitySum": 465,
-  "Ranking_EOS_Progress": 393,
+  "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -450,9 +450,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 278,
+  "EOS_Progressed": 279,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1135,6 +1135,11 @@
       "Time": "2023-12-29T13:07:19.0645603+00:00",
       "NumProgressed": 278,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T14:04:04.7218893+00:00",
+      "NumProgressed": 279,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -1171,7 +1176,7 @@
       "Name": "Unshakable Fortitude",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "Collect_Artifact_Angel_50",
@@ -1193,9 +1198,9 @@
       "ID": "Collect_Artifact_EpicShard",
       "SetID": "7a5k76n",
       "Name": "One Of the Chosen",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 120
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
@@ -1209,9 +1214,9 @@
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
       "SetID": "7a5k76n",
       "Name": "Maximum Capacity",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 56
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_1",
@@ -1227,7 +1232,7 @@
       "Name": "Maximum Vigor",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Collect_Hollow_Flame",
@@ -1235,7 +1240,7 @@
       "Name": "Fight Fire with Fire",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "Collect_Hollow_Force",
@@ -1259,7 +1264,7 @@
       "Name": "Perfect Storm",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "Collect_Lurchers_100000",
@@ -1275,7 +1280,7 @@
       "Name": "Soul Reaper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Collect_PickUp_500",
@@ -1289,9 +1294,9 @@
       "ID": "Collect_Soulmulet",
       "SetID": "7a5k76n",
       "Name": "A Parting Gift",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "Collect_Weapon_Crossblade",
@@ -1323,7 +1328,7 @@
       "Name": "Enhance!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "Crucible_Kill_WickedK",
@@ -1339,7 +1344,7 @@
       "Name": "My Evil Twin",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Crucible_Wave_100",
@@ -1379,7 +1384,7 @@
       "Name": "Protector of Humanity",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Game_CompleteApocolyptic",
@@ -1467,7 +1472,7 @@
       "Name": "Devil\u0027s in the Details",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "Kill_Enemies_HavocForm_666",
@@ -1481,9 +1486,9 @@
       "ID": "Kill_Sin_Avarice",
       "SetID": "7a5k76n",
       "Name": "All That Glitters",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 134
     },
     {
       "ID": "Kill_Sin_BigBad",
@@ -1491,7 +1496,7 @@
       "Name": "Everybody Wants to Rule the World",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Kill_Sin_Envy",
@@ -1499,7 +1504,7 @@
       "Name": "Green with Envy",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "Kill_Sin_Gluttony",
@@ -1579,7 +1584,7 @@
       "Name": "Humanitarian",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Save_Humans_5",
@@ -1587,7 +1592,7 @@
       "Name": "Five\u0027s a Crowd",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "Save_Usiel_No_Kill",
@@ -1601,17 +1606,17 @@
       "ID": "Spend_AttributePoint_1",
       "SetID": "7a5k76n",
       "Name": "First of many\u2026",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 195
     },
     {
       "ID": "Spend_AttributePoint_25",
       "SetID": "7a5k76n",
       "Name": "25 to Life",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 109
     },
     {
       "ID": "Spend_AttributePoint_50",
@@ -1641,9 +1646,9 @@
       "ID": "Upgrade_Weapon_First",
       "SetID": "7a5k76n",
       "Name": "Just the start",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 145
     },
     {
       "ID": "Upgrade_Weapon_Max",
@@ -1658,15 +1663,15 @@
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 278,
+      "Progressed": 279,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-27T15:59:03.0058269+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:07:19.0645599+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:04:04.721889+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:27.1633457+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:02:27.4421668+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:07:19.0646141+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:59:10.3760711+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:04:04.7219321+00:00"
 }

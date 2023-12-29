@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -317,7 +317,7 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 486,
+  "EOS_Progressed": 487,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 3,
@@ -1347,6 +1347,11 @@
       "Time": "2023-12-29T13:09:04.9793747+00:00",
       "NumProgressed": 486,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T14:05:53.0519003+00:00",
+      "NumProgressed": 487,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1597,9 +1602,9 @@
       "ID": "ACH_SURFS_UP",
       "SetID": "biiejkc",
       "Name": "Surf\u0027s Up!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
@@ -1614,15 +1619,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 486,
+      "Progressed": 487,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:09:04.9793737+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:05:53.0519+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:03:33.0675376+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:09:04.9793984+00:00"
+  "LastUpdate_Ratings": "2023-12-29T14:02:37.3603022+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:05:53.0519325+00:00"
 }

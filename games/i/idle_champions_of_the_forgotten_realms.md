@@ -6,11 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,934 |
-| The Cursed Farmer | 0.90% | ~2,220 |
+| A Brief Tour of the Realms | 2.00% | ~4,935 |
+| The Cursed Farmer | 0.90% | ~2,221 |
 | Beast Intentions | 0.70% | ~1,727 |
 | Welcome to Sigil | 0.70% | ~1,491 |
-| The Mad Wizard | 0.60% | ~1,480 |
+| The Mad Wizard | 0.60% | ~1,481 |
 | Fast Food | 0.60% | ~1,278 |
 | The Ring of Regeneration | 0.40% | ~987 |
 | Are Ya Chicken? | 0.40% | ~987 |
@@ -28,16 +28,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | Misaligned in Sigil | 0.30% | ~639 |
 | Chaos Theory | 0.30% | ~639 |
 | Mind Spike | 0.30% | ~639 |
-| Maddening | 0.20% | ~493 |
-| A Persistent Buzzing | 0.20% | ~493 |
-| Beast Mode | 0.20% | ~493 |
-| Terror in the Dark | 0.20% | ~493 |
-| Unearthed Evil | 0.20% | ~493 |
-| The Crumbling Temple | 0.20% | ~493 |
-| Exploring Port Nyanzaru | 0.20% | ~493 |
-| The Contagious Curse | 0.20% | ~493 |
-| Escort to Waterdeep | 0.20% | ~493 |
-| Pure Energy | 0.20% | ~493 |
+| Maddening | 0.20% | ~494 |
+| A Persistent Buzzing | 0.20% | ~494 |
+| Beast Mode | 0.20% | ~494 |
+| Terror in the Dark | 0.20% | ~494 |
+| Unearthed Evil | 0.20% | ~494 |
+| The Crumbling Temple | 0.20% | ~494 |
+| Exploring Port Nyanzaru | 0.20% | ~494 |
+| The Contagious Curse | 0.20% | ~494 |
+| Escort to Waterdeep | 0.20% | ~494 |
+| Pure Energy | 0.20% | ~494 |
 | Pros and CONs | 0.10% | ~247 |
 | Upholding the Law | 0.10% | ~247 |
 | Starving in the Jungle | 0.10% | ~247 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~213 |
 | The Brains of an Illithid's Desire | 0.10% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,704 (Ranked 68)  
+Progressed: 246,751 (Ranked 68)  
 Completed: 2,575 (1.04%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -806,7 +806,7 @@ Completed: 2,575 (1.04%) (Ranked 168)
 | 2023-12-26 | 245,031 | 2,566 |
 | 2023-12-27 | 245,531 | 2,567 |
 | 2023-12-28 | 246,305 | 2,573 |
-| 2023-12-29 | 246,704 | 2,575 |
+| 2023-12-29 | 246,751 | 2,575 |
 ## Awards
 Max (Great for Beginners): 5,708  (Ranked 71)  
 Sum: 33,169 (Ranked 41)  

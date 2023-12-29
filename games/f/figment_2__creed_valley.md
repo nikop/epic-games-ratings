@@ -12,11 +12,11 @@
 | A heavy thinker | 18.00% | ~10 |
 | Heavy Thoughts | 16.00% | ~9 |
 | Repair the Mind Validation Machine | 16.00% | ~9 |
-| Flee like an idiot | 15.00% | ~8 |
+| Flee like an idiot | 16.00% | ~9 |
 | Elementary, My Dear Dusty | 15.00% | ~8 |
-| Dance like an idiot | 11.00% | ~6 |
-| I'm Back at the Surface now | 9.00% | ~5 |
-| Come full circle | 7.00% | ~4 |
+| Dance like an idiot | 13.00% | ~7 |
+| I'm Back at the Surface now | 11.00% | ~6 |
+| Come full circle | 9.00% | ~5 |
 | Patient Listener | 5.00% | ~3 |
 | GOAAAAAAAAAL! | 4.00% | ~2 |
 | Whac-a-worker | 2.00% | ~1 |

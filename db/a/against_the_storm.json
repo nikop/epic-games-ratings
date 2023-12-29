@@ -3665,9 +3665,9 @@
       "Count": 336
     }
   ],
-  "EOS_Progressed": 19577,
+  "EOS_Progressed": 19582,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 669,
+  "EOS_NewPlayers": 670,
   "EOS_NewCompleters": -3,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -17600,6 +17600,11 @@
       "Time": "2023-12-29T13:09:16.7072245+00:00",
       "NumProgressed": 19577,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-12-29T14:06:04.3870455+00:00",
+      "NumProgressed": 19582,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18012,7 +18017,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1370
+      "UsersEstimate": 1371
     },
     {
       "ID": "WinNearFrosts",
@@ -18036,7 +18041,7 @@
       "Name": "Overgrown Library",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1370
+      "UsersEstimate": 1371
     },
     {
       "ID": "WinNearPetrified",
@@ -18083,15 +18088,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19577,
+      "Progressed": 19582,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-29T07:59:36.20104+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:09:16.7072241+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:06:04.3870451+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:03:17.8336557+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:09:16.7073331+00:00"
+  "LastUpdate_Ratings": "2023-12-29T14:00:01.5446912+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:06:04.3871315+00:00"
 }

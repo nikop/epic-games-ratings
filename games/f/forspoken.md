@@ -5,9 +5,9 @@ Rating: 4.11 (Ranked 996)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 11.00% | ~5,014 |
-| Unlocked Potential | 10.00% | ~4,558 |
-| Tinkerer | 8.00% | ~3,646 |
+| Attachments | 11.00% | ~5,015 |
+| Unlocked Potential | 10.00% | ~4,559 |
+| Tinkerer | 8.00% | ~3,647 |
 | Leapfrogger | 7.00% | ~3,191 |
 | Knock 'Em Dead | 7.00% | ~3,191 |
 | Pilgrimage: Initiate | 7.00% | ~3,191 |
@@ -17,11 +17,11 @@ Rating: 4.11 (Ranked 996)
 | No Mercy | 5.00% | ~2,279 |
 | Explorer: Seeker | 5.00% | ~2,279 |
 | Help Me Out Here | 5.00% | ~2,279 |
-| Through the Eyes of Another: Empath | 4.00% | ~1,823 |
-| Outdoorsperson | 3.00% | ~1,367 |
-| The Interloper | 3.00% | ~1,367 |
-| Hop, Step, Jump | 3.00% | ~1,367 |
-| Endless Runner | 3.00% | ~1,367 |
+| Through the Eyes of Another: Empath | 4.00% | ~1,824 |
+| Outdoorsperson | 3.00% | ~1,368 |
+| The Interloper | 3.00% | ~1,368 |
+| Hop, Step, Jump | 3.00% | ~1,368 |
+| Endless Runner | 3.00% | ~1,368 |
 | What Must Be Done | 2.00% | ~912 |
 | Might and Main | 2.00% | ~912 |
 | Damned If You Do... | 2.00% | ~912 |
@@ -36,8 +36,8 @@ Rating: 4.11 (Ranked 996)
 | Pilgrimage: Novice | 1.00% | ~456 |
 | Wildfire | 0.70% | ~319 |
 | Realized Potential | 0.70% | ~319 |
-| Awakening | 0.60% | ~273 |
-| Explorer: Trailblazer | 0.60% | ~273 |
+| Awakening | 0.60% | ~274 |
+| Explorer: Trailblazer | 0.60% | ~274 |
 | Through the Eyes of Another: Seer | 0.40% | ~182 |
 | Archivist | 0.30% | ~137 |
 | Craftsperson | 0.30% | ~137 |
@@ -59,7 +59,7 @@ Rating: 4.11 (Ranked 996)
 | Remembrance | 0.10% | ~46 |
 | Cat Person | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,580 (Ranked 122)  
+Progressed: 45,589 (Ranked 122)  
 Completed: 3 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,10 +312,10 @@ Completed: 3 (0.01%) (Ranked 367)
 | 2023-12-26 | 45,329 | 3 |
 | 2023-12-27 | 45,433 | 3 |
 | 2023-12-28 | 45,528 | 3 |
-| 2023-12-29 | 45,580 | 3 |
+| 2023-12-29 | 45,589 | 3 |
 ## Awards
-Max (Character Customization): 33  (Ranked 506)  
-Sum: 33 (Ranked 529)  
+Max (Character Customization): 33  (Ranked 507)  
+Sum: 33 (Ranked 530)  
 Diff (max vs sum): -23  
 | Award | Count |
 | ----- | ----- |

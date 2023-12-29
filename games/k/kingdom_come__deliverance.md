@@ -6,16 +6,16 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~260,767 |
-| Cavalier | 25.00% | ~203,724 |
-| Fatso | 23.00% | ~187,426 |
-| Awakening | 21.00% | ~171,128 |
-| Ranger | 20.00% | ~162,979 |
-| Scrooge | 20.00% | ~162,979 |
-| Anorectic | 16.00% | ~130,383 |
-| Firestarter | 16.00% | ~130,383 |
-| Bookworm | 15.00% | ~122,234 |
-| Insomniac | 13.00% | ~105,936 |
+| Blacksmith's Son | 32.00% | ~260,769 |
+| Cavalier | 25.00% | ~203,726 |
+| Fatso | 23.00% | ~187,427 |
+| Awakening | 21.00% | ~171,129 |
+| Ranger | 20.00% | ~162,980 |
+| Scrooge | 20.00% | ~162,980 |
+| Anorectic | 16.00% | ~130,384 |
+| Firestarter | 16.00% | ~130,384 |
+| Bookworm | 15.00% | ~122,235 |
+| Insomniac | 13.00% | ~105,937 |
 | Buddy | 12.00% | ~97,788 |
 | Thief | 12.00% | ~97,788 |
 | Sinner | 11.00% | ~89,639 |
@@ -58,8 +58,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Mercenary's Honour | 0.70% | ~5,704 |
 | Saviour | 0.70% | ~5,704 |
 | Edward Kelly | 0.60% | ~4,889 |
-| I Can Quit Anytime | 0.50% | ~4,074 |
-| Perfectionist | 0.50% | ~4,074 |
+| I Can Quit Anytime | 0.50% | ~4,075 |
+| Perfectionist | 0.50% | ~4,075 |
 | Alcoholic | 0.30% | ~2,445 |
 | Sniper | 0.30% | ~2,445 |
 | Angel of Mercy | 0.20% | ~1,630 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~815 |
 | Wingman | 0.10% | ~815 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 814,896 (Ranked 19)  
+Progressed: 814,902 (Ranked 19)  
 Completed: 53 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,10 +342,10 @@ Completed: 53 (0.01%) (Ranked 367)
 | 2023-12-26 | 814,513 | 52 |
 | 2023-12-27 | 814,667 | 52 |
 | 2023-12-28 | 814,823 | 53 |
-| 2023-12-29 | 814,896 | 53 |
+| 2023-12-29 | 814,902 | 53 |
 ## Awards
 Max (Character Customization): 7,720  (Ranked 53)  
-Sum: 28,662 (Ranked 50)  
+Sum: 28,663 (Ranked 50)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -356,8 +356,8 @@ Diff (max vs sum): 3
 | This game has Amazing Storytelling | 1,745 |
 | This game is Highly Recommended | 1,719 |
 | This game is Extremely Fun | 1,713 |
+| This game has Realistic Visuals | 1,690 |
 | This game has Amazing Characters | 1,689 |
-| This game has Realistic Visuals | 1,689 |
 | This game is Educational | 1,631 |
 | This game is Relaxing | 1,555 |
 | This game has Obsessive Gameplay | 1,048 |
@@ -700,4 +700,4 @@ Diff (max vs sum): 3
 | 2023-12-26 | 4.71 | - | 7,713 | 28,633 |
 | 2023-12-27 | 4.71 | - | 7,718 | 28,649 |
 | 2023-12-28 | 4.71 | - | 7,720 | 28,658 |
-| 2023-12-29 | 4.71 | - | 7,720 | 28,662 |
+| 2023-12-29 | 4.71 | - | 7,720 | 28,663 |

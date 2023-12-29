@@ -3,8 +3,8 @@
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
   "Ranking_Rating": 996,
-  "Ranking_Popularity": 506,
-  "Ranking_PopularitySum": 529,
+  "Ranking_Popularity": 507,
+  "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 367,
   "Ranking_EOS_NewPlayers": 125,
@@ -541,9 +541,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 45580,
+  "EOS_Progressed": 45589,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 831,
+  "EOS_NewPlayers": 833,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16856,6 +16856,11 @@
       "Time": "2023-12-29T13:06:55.7261418+00:00",
       "NumProgressed": 45580,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T14:03:41.7909199+00:00",
+      "NumProgressed": 45589,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -16883,7 +16888,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1367
+      "UsersEstimate": 1368
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -16899,7 +16904,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1823
+      "UsersEstimate": 1824
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -16915,7 +16920,7 @@
       "Name": "Attachments",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5014
+      "UsersEstimate": 5015
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -16931,7 +16936,7 @@
       "Name": "The Interloper",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1367
+      "UsersEstimate": 1368
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -17003,7 +17008,7 @@
       "Name": "Awakening",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "CRAFT_ALL",
@@ -17019,7 +17024,7 @@
       "Name": "Tinkerer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3646
+      "UsersEstimate": 3647
     },
     {
       "ID": "CUFF_ATTACK",
@@ -17043,7 +17048,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1367
+      "UsersEstimate": 1368
     },
     {
       "ID": "JUSTCOUNTER",
@@ -17075,7 +17080,7 @@
       "Name": "Explorer: Trailblazer",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "LOCATION_TEN",
@@ -17171,7 +17176,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1367
+      "UsersEstimate": 1368
     },
     {
       "ID": "PARKOUR_TIME",
@@ -17203,7 +17208,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4558
+      "UsersEstimate": 4559
     },
     {
       "ID": "SPRING_ALL",
@@ -17290,22 +17295,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 45580,
+      "Progressed": 45589,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 10417,
-      "Completed": 10417
+      "Progressed": 10426,
+      "Completed": 10426
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-29T05:02:23.0595699+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:06:55.7261416+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:03:41.7909196+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.8849039+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:03:50.2770717+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:06:55.726238+00:00"
+  "LastUpdate_Ratings": "2023-12-29T14:02:55.80526+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:03:41.791075+00:00"
 }

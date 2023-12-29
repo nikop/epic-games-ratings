@@ -18,9 +18,9 @@ Rating: 4.63 (Ranked 356)
 | Lumberjack | 1.00% | ~87 |
 | Mist Walker | 1.00% | ~87 |
 | Oui, Chef! | 1.00% | ~87 |
+| Higher Tax Bracket | 0.90% | ~79 |
 | Exit Through The Gift Shop | 0.90% | ~12 |
 | Search for the Hairy Grell | 0.80% | ~70 |
-| Higher Tax Bracket | 0.80% | ~70 |
 | Botanical Breakthrough | 0.80% | ~70 |
 | Beach Comber | 0.70% | ~61 |
 | Flaming Hot Completos | 0.60% | ~52 |

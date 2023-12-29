@@ -6,15 +6,15 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~52,920 |
-| Worth it | 63.00% | ~42,743 |
-| Eagle Eye | 55.00% | ~37,315 |
-| Corpseman I | 39.00% | ~26,460 |
-| Blast fishing | 37.00% | ~25,103 |
+| Setting an example | 78.00% | ~52,921 |
+| Worth it | 63.00% | ~42,744 |
+| Eagle Eye | 55.00% | ~37,316 |
+| Corpseman I | 39.00% | ~26,461 |
+| Blast fishing | 37.00% | ~25,104 |
 | Not alone | 32.00% | ~21,711 |
 | Headhunter I | 26.00% | ~17,640 |
 | Manual Labour I | 25.00% | ~16,962 |
-| Developers, Developers, Developers | 24.00% | ~16,283 |
+| Developers, Developers, Developers | 24.00% | ~16,284 |
 | Basic Training | 23.00% | ~15,605 |
 | Furchtlos und Treu | 13.00% | ~8,820 |
 | Gott Mit Uns | 12.00% | ~8,142 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~68 |
 | Blood Brother | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,846 (Ranked 114)  
+Progressed: 67,848 (Ranked 114)  
 Completed: 4 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,17 +319,17 @@ Completed: 4 (0.01%) (Ranked 367)
 | 2023-12-26 | 67,579 | 4 |
 | 2023-12-27 | 67,706 | 4 |
 | 2023-12-28 | 67,802 | 4 |
-| 2023-12-29 | 67,846 | 4 |
+| 2023-12-29 | 67,848 | 4 |
 ## Awards
-Max (Highly Recommended): 105  (Ranked 364)  
-Sum: 826 (Ranked 282)  
-Diff (max vs sum): 82  
+Max (Highly Recommended): 105  (Ranked 365)  
+Sum: 829 (Ranked 282)  
+Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |
 | This game is Highly Recommended | 105 |
 | This game is Extremely Fun | 96 |
-| This game has Diverse Characters | 92 |
+| This game has Diverse Characters | 95 |
 | This game has Quickly Understood Controls | 91 |
 | This game has Amazing Characters | 78 |
 | This game is Relaxing | 77 |
@@ -502,4 +502,4 @@ Diff (max vs sum): 82
 | 2023-12-24 | 4.53 | - | 105 | 823 |
 | 2023-12-26 | 4.53 | - | 105 | 824 |
 | 2023-12-27 | 4.53 | - | 105 | 825 |
-| 2023-12-29 | 4.53 | - | 105 | 826 |
+| 2023-12-29 | 4.53 | - | 105 | 829 |

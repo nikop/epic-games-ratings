@@ -4,7 +4,7 @@
   "ProductSlug": "deadwater-saloon-391b9d",
   "Ranking_EOS_Progress": 588,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 475,
+  "Ranking_EOS_NewPlayers": 461,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-09-21T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27,
+  "EOS_Progressed": 28,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -164,6 +164,11 @@
       "Time": "2023-12-27T06:09:18.512733+00:00",
       "NumProgressed": 27,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T14:09:19.7037031+00:00",
+      "NumProgressed": 28,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T10:04:12.9099765+00:00",
@@ -174,7 +179,7 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "631i43e",
       "Name": "First Shipment",
-      "Percentage": 78,
+      "Percentage": 75,
       "XP": 15,
       "UsersEstimate": 21
     },
@@ -190,7 +195,7 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "631i43e",
       "Name": "Hello Friend",
-      "Percentage": 59,
+      "Percentage": 57,
       "XP": 15,
       "UsersEstimate": 16
     },
@@ -230,7 +235,7 @@
       "ID": "NEW_ACHIEVEMENT_1_16",
       "SetID": "631i43e",
       "Name": "Lance Romance",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -262,7 +267,7 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "631i43e",
       "Name": "Get Your Swerve On",
-      "Percentage": 70,
+      "Percentage": 68,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -286,7 +291,7 @@
       "ID": "NEW_ACHIEVEMENT_1_22",
       "SetID": "631i43e",
       "Name": "Moneymaker",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -294,7 +299,7 @@
       "ID": "NEW_ACHIEVEMENT_1_23",
       "SetID": "631i43e",
       "Name": "Aces Wild",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
       "UsersEstimate": 12
     },
@@ -302,7 +307,7 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "631i43e",
       "Name": "Fine Tuned",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -310,7 +315,7 @@
       "ID": "NEW_ACHIEVEMENT_1_25",
       "SetID": "631i43e",
       "Name": "Watch Your Back",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
       "UsersEstimate": 9
     },
@@ -318,7 +323,7 @@
       "ID": "NEW_ACHIEVEMENT_1_26",
       "SetID": "631i43e",
       "Name": "Got Your Back",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
       "UsersEstimate": 9
     },
@@ -342,7 +347,7 @@
       "ID": "NEW_ACHIEVEMENT_1_29",
       "SetID": "631i43e",
       "Name": "Hello",
-      "Percentage": 67,
+      "Percentage": 64,
       "XP": 15,
       "UsersEstimate": 18
     },
@@ -350,7 +355,7 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "631i43e",
       "Name": "Chow Time",
-      "Percentage": 56,
+      "Percentage": 54,
       "XP": 15,
       "UsersEstimate": 15
     },
@@ -358,7 +363,7 @@
       "ID": "NEW_ACHIEVEMENT_1_30",
       "SetID": "631i43e",
       "Name": "Goodbye",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -366,7 +371,7 @@
       "ID": "NEW_ACHIEVEMENT_1_31",
       "SetID": "631i43e",
       "Name": "Might Close Early",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -374,7 +379,7 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "631i43e",
       "Name": "Just A Little Taste",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
       "UsersEstimate": 9
     },
@@ -390,7 +395,7 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "631i43e",
       "Name": "Why Me?",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -462,7 +467,7 @@
       "ID": "NEW_ACHIEVEMENT_2_13",
       "SetID": "631i43e",
       "Name": "Sue The World",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -638,7 +643,7 @@
       "ID": "NEW_ACHIEVEMENT_2_5",
       "SetID": "631i43e",
       "Name": "Get Lost",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -646,7 +651,7 @@
       "ID": "NEW_ACHIEVEMENT_2_6",
       "SetID": "631i43e",
       "Name": "Shovels!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -687,14 +692,14 @@
     {
       "ID": "631i43e",
       "IsBase": true,
-      "Progressed": 27,
+      "Progressed": 28,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-08T01:44:07.0326373+00:00",
   "FirstSeenAchievements": "2023-08-30T10:02:22.7238107+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:12:03.2440768+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:09:19.7037028+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:07.926146+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:03:40.2072809+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:12:03.2441281+00:00"
+  "LastUpdate_Ratings": "2023-12-29T14:02:45.0946485+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:09:19.7037787+00:00"
 }

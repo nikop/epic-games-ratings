@@ -26,8 +26,8 @@
 | Youth Magnet | 18.00% | ~121 |
 | Furious Scorpion Killer | 17.00% | ~114 |
 | Lethal Blade Mantis Killer | 17.00% | ~114 |
+| Squeaky Clean | 17.00% | ~114 |
 | Master Artificer | 17.00% | ~114 |
-| Squeaky Clean | 16.00% | ~107 |
 | Kind Adventurer | 15.00% | ~100 |
 | Mermaid Killer | 15.00% | ~100 |
 | Cave Master | 14.00% | ~94 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 2.00% | ~13 |
 | Warden Challenge | 2.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 670 (Ranked 313)  
+Progressed: 670 (Ranked 314)  
 Completed: 2 (0.30%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |

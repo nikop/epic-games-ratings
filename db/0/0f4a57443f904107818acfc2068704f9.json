@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1106,
+  "EOS_Progressed": 1108,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2707,6 +2707,11 @@
       "Time": "2023-12-29T13:09:25.2840121+00:00",
       "NumProgressed": 1106,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T14:06:13.4792161+00:00",
+      "NumProgressed": 1108,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2733,9 +2738,9 @@
       "ID": "Capture100VictoryPoints",
       "SetID": "52ail55",
       "Name": "Chosen Victor",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 66
     },
     {
       "ID": "CompleteCampaignChampion",
@@ -2775,7 +2780,7 @@
       "Name": "Pathfinder",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "CompleteChapter10",
@@ -2823,7 +2828,7 @@
       "Name": "The Great Scheme",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "CompleteChapter16",
@@ -2831,7 +2836,7 @@
       "Name": "Our Own Miracle",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "CompleteChapter17",
@@ -2839,7 +2844,7 @@
       "Name": "Fool\u0027s Errand",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "CompleteChapter17NoIdenDeath",
@@ -2855,7 +2860,7 @@
       "Name": "The Might of Sigmar\u0027s Warriors",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "CompleteChapter2",
@@ -2863,7 +2868,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "CompleteChapter3",
@@ -2871,7 +2876,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "CompleteChapter4",
@@ -2887,7 +2892,7 @@
       "Name": "Breathing Easy",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "CompleteChapter6",
@@ -2895,7 +2900,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "CompleteChapter7",
@@ -2967,7 +2972,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "Win100OnlineMatched",
@@ -2991,7 +2996,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "Win50ConquestBattles",
@@ -3014,14 +3019,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1106,
+      "Progressed": 1108,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:09:25.2840117+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:06:13.4792157+00:00",
   "LastUpdate_AppInfo": "2023-12-29T09:57:13.5043463+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:00:32.4968997+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:09:25.284045+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:57:13.0227085+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:06:13.4792567+00:00"
 }

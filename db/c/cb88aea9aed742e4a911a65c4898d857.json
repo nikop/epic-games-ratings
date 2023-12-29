@@ -203,9 +203,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 8503,
+  "EOS_Progressed": 8514,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2280,
+  "EOS_NewPlayers": 2273,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2838,6 +2838,11 @@
       "Time": "2023-12-29T13:12:48.9967762+00:00",
       "NumProgressed": 8503,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T14:10:05.1663614+00:00",
+      "NumProgressed": 8514,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -2960,9 +2965,9 @@
       "ID": "16_TheRise",
       "SetID": "37a94m8",
       "Name": "The Rise",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 68
     },
     {
       "ID": "17_TheExemplar",
@@ -2976,17 +2981,17 @@
       "ID": "18_TheRookieSkipper",
       "SetID": "37a94m8",
       "Name": "Rookie Skipper",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 77
     },
     {
       "ID": "19_TheVoidWolf",
       "SetID": "37a94m8",
       "Name": "Void Wolf",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 43
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -3008,17 +3013,17 @@
       "ID": "22_PerfectTiming",
       "SetID": "37a94m8",
       "Name": "Perfect Timing",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 68
     },
     {
       "ID": "23_DynastyRestored",
       "SetID": "37a94m8",
       "Name": "The Dynasty Restored",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 34
     },
     {
       "ID": "24_TheHighrise",
@@ -3096,17 +3101,17 @@
       "ID": "33_TzeentchCleaning",
       "SetID": "37a94m8",
       "Name": "Cleening Out the Tzeentch",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 60
     },
     {
       "ID": "34_CuriosityIsNotAVice",
       "SetID": "37a94m8",
       "Name": "Curiosity Is Not a Vice",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 43
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -3160,17 +3165,17 @@
       "ID": "41_TheJungleHeat",
       "SetID": "37a94m8",
       "Name": "Jungle Heat",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 60
     },
     {
       "ID": "42_TheIronJudgement",
       "SetID": "37a94m8",
       "Name": "Iron Judgement",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 43
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -3232,9 +3237,9 @@
       "ID": "50_Whodunit",
       "SetID": "37a94m8",
       "Name": "Whodunit?",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 26
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -3369,7 +3374,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8503,
+      "Progressed": 8514,
       "Completed": 0
     }
   ],
@@ -3377,8 +3382,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-28T13:57:33.384002+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:12:48.9967758+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:10:05.1663612+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:01:14.3535979+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:12:48.9968356+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:57:55.1701832+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:10:05.1664347+00:00"
 }

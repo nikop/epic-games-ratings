@@ -6,7 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 0.50% | ~2,434 |
+| Until death do us apart | 0.50% | ~2,435 |
 | That's a Grand Army | 0.40% | ~1,948 |
 | That is mine! | 0.40% | ~1,948 |
 | Victorious! | 0.40% | ~1,948 |
@@ -20,6 +20,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Respected | 0.20% | ~974 |
 | The Princess is in this Castle | 0.20% | ~974 |
 | True Catholic | 0.20% | ~974 |
+| Truly Divine Ruler | 0.20% | ~974 |
 | The 52 Garhs | 0.10% | ~487 |
 | I don't like sand | 0.10% | ~487 |
 | A Blessed Nation | 0.10% | ~487 |
@@ -293,7 +294,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Triple the Rome | 0.10% | ~487 |
 | Trophy Hunter | 0.10% | ~487 |
 | True Heir of Timur | 0.10% | ~487 |
-| Truly Divine Ruler | 0.10% | ~487 |
 | Trustworthy | 0.10% | ~487 |
 | Turn the Table | 0.10% | ~487 |
 | Turning the Tide | 0.10% | ~487 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 486,878 (Ranked 40)  
+Progressed: 486,930 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -623,7 +623,7 @@ Completed: 1 (0.00%) (Ranked 389)
 | 2023-12-26 | 484,953 | 1 |
 | 2023-12-27 | 485,786 | 1 |
 | 2023-12-28 | 486,523 | 1 |
-| 2023-12-29 | 486,878 | 1 |
+| 2023-12-29 | 486,930 | 1 |
 ## Awards
 Max (Educational): 7,601  (Ranked 54)  
 Sum: 62,734 (Ranked 24)  

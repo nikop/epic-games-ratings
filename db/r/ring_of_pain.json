@@ -2,13 +2,13 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 461,
+  "Ranking_Rating": 462,
   "Ranking_Popularity": 134,
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3808,9 +3808,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 241953,
+  "EOS_Progressed": 241959,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 489,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29958,6 +29958,11 @@
       "Time": "2023-12-29T13:13:09.4652065+00:00",
       "NumProgressed": 241953,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-29T14:10:26.0019703+00:00",
+      "NumProgressed": 241959,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -30231,9 +30236,9 @@
       "ID": "FREEZE20TIMES",
       "SetID": "5l8oe0h",
       "Name": "Cold Hearted",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1694
     },
     {
       "ID": "FULLINVENTORY",
@@ -31025,7 +31030,7 @@
       "Name": "Not Touching You",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "KILLBOSSWITHNOITEMS",
@@ -31072,13 +31077,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241953,
+      "Progressed": 241959,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3433,
+      "Progressed": 3439,
       "Completed": 416
     }
   ],
@@ -31086,8 +31091,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-29T11:59:56.9615531+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:13:09.4652062+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:10:26.0019697+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:03:05.2645074+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:13:09.4654969+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:59:48.6800099+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:10:26.0022463+00:00"
 }

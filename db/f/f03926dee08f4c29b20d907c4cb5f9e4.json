@@ -373,25 +373,25 @@
       "ID": "ACH_09_RESCUE_DOG",
       "SetID": "9loam6m",
       "Name": "Rescue dog",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_10_DOG_FRIENDS",
       "SetID": "9loam6m",
       "Name": "Dog friends",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_11_GOOD_BOY",
       "SetID": "9loam6m",
       "Name": "Good boy!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_12_PHOTO_SERIES",
@@ -557,9 +557,9 @@
       "ID": "ACH_32_HEART_FOR_ANIMALS",
       "SetID": "9loam6m",
       "Name": "A heart for animals",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_33_LOVELY_VIEW",
@@ -621,9 +621,9 @@
       "ID": "ACH_40_GLOBETROTTER",
       "SetID": "9loam6m",
       "Name": "Globetrotter",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_41_GOLDEN_GLEAM",
@@ -652,8 +652,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:09:16.4607218+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:06:04.1093026+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9207398+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:01:12.0875617+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:09:16.4607522+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:57:52.9656185+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:06:04.1093338+00:00"
 }

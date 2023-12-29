@@ -11,7 +11,7 @@
 | "Swoosh" | 58.00% | ~70 |
 | The light at the end of the tunnel | 57.00% | ~69 |
 | Masochistic | 51.00% | ~62 |
-| Soft skin | 49.00% | ~59 |
+| Soft skin | 50.00% | ~60 |
 | Splash! | 49.00% | ~59 |
 | Squid game | 40.00% | ~48 |
 | Rock Solid | 33.00% | ~40 |

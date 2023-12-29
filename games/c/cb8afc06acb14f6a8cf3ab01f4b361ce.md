@@ -1,27 +1,27 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.21 (Ranked 939)  
+Rating: 4.21 (Ranked 940)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 4.00% | ~13,491 |
-| The touch of Chaos | 4.00% | ~13,491 |
+| May the Torchbearer light our way | 4.00% | ~13,493 |
+| The touch of Chaos | 4.00% | ~13,493 |
 | A powerful aura was here | 3.00% | ~10,119 |
 | Rumors are true | 1.00% | ~3,373 |
 | Your wounds… They are healing so fast! | 1.00% | ~3,373 |
 | Let's raise the stakes!! | 1.00% | ~3,373 |
 | Pride is a sin, young Knight | 0.90% | ~3,036 |
-| We'll be careful | 0.80% | ~2,698 |
+| We'll be careful | 0.80% | ~2,699 |
 | Back to your senses | 0.70% | ~2,361 |
 | Bring it on! | 0.70% | ~2,361 |
 | They tricked me | 0.60% | ~2,024 |
 | We need to talk | 0.60% | ~2,024 |
 | They won't last long | 0.60% | ~2,024 |
-| I feel drawn to it | 0.50% | ~1,686 |
-| Here to stay | 0.50% | ~1,686 |
-| Counting on you | 0.50% | ~1,686 |
-| This is the end | 0.40% | ~1,349 |
+| I feel drawn to it | 0.50% | ~1,687 |
+| Here to stay | 0.50% | ~1,687 |
+| Counting on you | 0.50% | ~1,687 |
+| This is the end | 0.50% | ~1,687 |
 | We can choose to fight | 0.40% | ~1,349 |
 | I took a risk | 0.40% | ~1,349 |
 | Their fate is sealed | 0.30% | ~1,012 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 939)
 | Something... unnatural | 0.10% | ~337 |
 | We strike as one | 0.10% | ~337 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 337,285 (Ranked 55)  
+Progressed: 337,316 (Ranked 55)  
 Completed: 7 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 7 (0.00%) (Ranked 389)
 | 2023-12-26 | 335,853 | 7 |
 | 2023-12-27 | 336,447 | 7 |
 | 2023-12-28 | 337,012 | 7 |
-| 2023-12-29 | 337,285 | 7 |
+| 2023-12-29 | 337,316 | 7 |
 ## Awards
 Max (Great Boss Battles): 73  (Ranked 409)  
 Sum: 73 (Ranked 479)  

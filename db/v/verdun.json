@@ -3,7 +3,7 @@
   "Name": "Verdun",
   "ProductSlug": "verdun",
   "Ranking_Rating": 558,
-  "Ranking_Popularity": 364,
+  "Ranking_Popularity": 365,
   "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 367,
@@ -1839,10 +1839,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 826,
       "NumberOfAwardsMax": 105
+    },
+    {
+      "Time": "2023-12-29T13:59:03.1617521+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 829,
+      "NumberOfAwardsMax": 105
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 826,
+  "NumberOfAwards": 829,
   "NumberOfAwardsMax": 105,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1880,7 +1886,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 92
+      "Count": 95
     },
     {
       "Text": "This game is Relaxing",
@@ -1931,9 +1937,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 67846,
+  "EOS_Progressed": 67848,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 787,
+  "EOS_NewPlayers": 783,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29831,6 +29837,11 @@
       "Time": "2023-12-29T13:08:10.90029+00:00",
       "NumProgressed": 67846,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-29T14:04:57.4997124+00:00",
+      "NumProgressed": 67848,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -29842,7 +29853,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 37315
+      "UsersEstimate": 37316
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -29962,7 +29973,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 16283
+      "UsersEstimate": 16284
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -30106,7 +30117,7 @@
       "Name": "Corpseman I",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 26460
+      "UsersEstimate": 26461
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -30130,7 +30141,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 42743
+      "UsersEstimate": 42744
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -30210,7 +30221,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 52920
+      "UsersEstimate": 52921
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -30306,22 +30317,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 25103
+      "UsersEstimate": 25104
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 67846,
+      "Progressed": 67848,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
-  "LastChanged": "2023-12-29T08:59:12.8155918+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:08:10.9002896+00:00",
+  "LastChanged": "2023-12-29T13:59:03.1617519+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:04:57.4997122+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:33.0401656+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:02:20.4442619+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:08:10.9004641+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:59:03.1617524+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:04:57.4998832+00:00"
 }

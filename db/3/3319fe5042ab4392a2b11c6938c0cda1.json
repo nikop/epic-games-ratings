@@ -4,7 +4,7 @@
   "ProductSlug": "thief-5bb95f",
   "Ranking_EOS_Progress": 472,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 114,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -817,8 +817,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:09:58.5461408+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:08:35.0514775+00:00",
   "LastUpdate_AppInfo": "2023-12-27T16:57:17.5447439+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:01:15.930012+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:09:58.5461721+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:57:56.6024802+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:08:35.0515452+00:00"
 }

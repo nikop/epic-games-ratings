@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -394,9 +394,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5114,
+  "EOS_Progressed": 5115,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -4279,6 +4279,11 @@
       "Time": "2023-12-29T13:08:59.7601221+00:00",
       "NumProgressed": 5114,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-29T14:05:47.7947214+00:00",
+      "NumProgressed": 5115,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4290,7 +4295,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1892
+      "UsersEstimate": 1893
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -4328,9 +4333,9 @@
       "ID": "ID_ACHIEV_06",
       "SetID": "98bke8c",
       "Name": "For the Good of Mankind",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 205
+      "UsersEstimate": 153
     },
     {
       "ID": "ID_ACHIEV_07",
@@ -4338,7 +4343,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4296
+      "UsersEstimate": 4297
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -4346,7 +4351,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4807
+      "UsersEstimate": 4808
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4354,7 +4359,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3938
+      "UsersEstimate": 3939
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -4458,7 +4463,7 @@
       "Name": "Right Tool for the Job",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "ID_ACHIEV_23",
@@ -4578,7 +4583,7 @@
       "Name": "I Choose You",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -4825,15 +4830,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5114,
+      "Progressed": 5115,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-24T15:57:46.3755439+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:08:59.7601217+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:05:47.7947208+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:20.3744551+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:03:09.2026339+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:08:59.7601931+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:59:52.500424+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:05:47.7947919+00:00"
 }

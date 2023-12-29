@@ -43,9 +43,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1437,
+  "EOS_Progressed": 1439,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 405,
+  "EOS_NewPlayers": 406,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -2823,6 +2823,11 @@
       "Time": "2023-12-29T13:13:02.8774375+00:00",
       "NumProgressed": 1437,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T14:10:19.2471758+00:00",
+      "NumProgressed": 1439,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2832,9 +2837,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 833
+      "UsersEstimate": 820
     },
     {
       "ID": "ACH_02",
@@ -2850,7 +2855,7 @@
       "Name": "Powerful Allies",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_04",
@@ -2890,7 +2895,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ACH_09",
@@ -2906,7 +2911,7 @@
       "Name": "Trinity",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ACH_11",
@@ -2946,7 +2951,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_16",
@@ -2970,7 +2975,7 @@
       "Name": "Shatter Them All",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ACH_19",
@@ -3010,7 +3015,7 @@
       "Name": "Geared Up",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ACH_24",
@@ -3026,7 +3031,7 @@
       "Name": "Fashion Victim",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_26",
@@ -3058,7 +3063,7 @@
       "Name": "All That Gold",
       "Percentage": 0.8,
       "XP": 60,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_30",
@@ -3074,7 +3079,7 @@
       "Name": "Stone Collection",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_33",
@@ -3114,14 +3119,14 @@
       "Name": "Summiter",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1437,
+      "Progressed": 1439,
       "Completed": 3
     }
   ],
@@ -3129,8 +3134,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2023-12-27T23:57:06.3972881+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:13:02.8774373+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:10:19.2471755+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:01:11.8453643+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:13:02.8774695+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:57:52.7149701+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:10:19.2472328+00:00"
 }

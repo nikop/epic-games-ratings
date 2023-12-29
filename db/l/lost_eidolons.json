@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1136,
+  "EOS_Progressed": 1134,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -5,
+  "EOS_NewPlayers": -7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2146,6 +2146,11 @@
       "Time": "2023-12-29T13:07:47.9225824+00:00",
       "NumProgressed": 1136,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T14:04:33.6636516+00:00",
+      "NumProgressed": 1134,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -2189,15 +2194,15 @@
       "Name": "The First Step",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 807
+      "UsersEstimate": 805
     },
     {
       "ID": "06",
       "SetID": "73ikgfc",
       "Name": "First Blood",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 761
+      "UsersEstimate": 771
     },
     {
       "ID": "07",
@@ -2205,7 +2210,7 @@
       "Name": "Monster Hunter",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 625
+      "UsersEstimate": 624
     },
     {
       "ID": "08",
@@ -2213,7 +2218,7 @@
       "Name": "Monster Slayer",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 341
+      "UsersEstimate": 340
     },
     {
       "ID": "09",
@@ -2221,7 +2226,7 @@
       "Name": "Awakening",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 272
     },
     {
       "ID": "10",
@@ -2285,7 +2290,7 @@
       "Name": "Ready to Learn",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 727
+      "UsersEstimate": 726
     },
     {
       "ID": "18",
@@ -2293,7 +2298,7 @@
       "Name": "Earning Trust",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 591
+      "UsersEstimate": 590
     },
     {
       "ID": "19",
@@ -2333,14 +2338,14 @@
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 216
+      "UsersEstimate": 215
     }
   ],
   "AchievementSets": [
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1136,
+      "Progressed": 1134,
       "Completed": 1
     }
   ],
@@ -2348,8 +2353,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-12-04T18:59:06.5793648+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:07:47.9225812+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:04:33.6636512+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.4141578+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:03:13.4596922+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:07:47.9226108+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:59:56.9660534+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:04:33.6636755+00:00"
 }

@@ -1,21 +1,21 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.58 (Ranked 461)  
+Rating: 4.58 (Ranked 462)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You Shall Not Pass | 51.00% | ~4,928 |
-| Tutti Eroi! | 50.00% | ~4,831 |
+| Tutti Eroi! | 50.00% | ~4,832 |
 | Peak Performance | 46.00% | ~4,445 |
-| Avanti Savoia! | 44.00% | ~4,251 |
+| Avanti Savoia! | 44.00% | ~4,252 |
 | Mamma Mia! | 35.00% | ~3,382 |
 | Conrad von Hotzensocks | 32.00% | ~3,092 |
 | Gabriele D'Annunzio | 32.00% | ~3,092 |
 | Silver Lining | 27.00% | ~2,609 |
 | Aurelio Baruzzi | 21.00% | ~2,029 |
-| Decimation | 20.00% | ~1,932 |
+| Decimation | 20.00% | ~1,933 |
 | Donatello | 19.00% | ~1,836 |
 | Insubordination | 19.00% | ~1,836 |
 | The Italian Job | 19.00% | ~1,836 |
@@ -24,9 +24,9 @@ Number of Ratings: 98  (23.09.2022)
 | Luigi Cadorna | 16.00% | ~1,546 |
 | The Lion of the Isonzo | 14.00% | ~1,353 |
 | Uomo Universale | 13.00% | ~1,256 |
-| Die Bosniaken Kommen! | 12.00% | ~1,159 |
-| Dirty Dozen | 12.00% | ~1,159 |
-| Shaken, Not Stirred | 12.00% | ~1,159 |
+| Die Bosniaken Kommen! | 12.00% | ~1,160 |
+| Dirty Dozen | 12.00% | ~1,160 |
+| Shaken, Not Stirred | 12.00% | ~1,160 |
 | Machiavelli | 11.00% | ~1,063 |
 | The Devil's Paintbrush | 10.00% | ~966 |
 | Thus With A Kiss | 10.00% | ~966 |
@@ -38,8 +38,8 @@ Number of Ratings: 98  (23.09.2022)
 | 12th Bottle of the Isonzo | 6.00% | ~580 |
 | The Enlightment | 6.00% | ~580 |
 | Cercatore d'Oro | 5.00% | ~483 |
-| Generalissimo | 4.00% | ~386 |
-| "O La Vittoria, O Tutti Accoppati" | 4.00% | ~386 |
+| Generalissimo | 4.00% | ~387 |
+| "O La Vittoria, O Tutti Accoppati" | 4.00% | ~387 |
 | Seeing Red | 3.00% | ~290 |
 | Farewell to Arms | 2.00% | ~193 |
 | Ponte of No Return | 2.00% | ~193 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~39 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,662 (Ranked 180)  
+Progressed: 9,663 (Ranked 180)  
 Completed: 10 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 10 (0.10%) (Ranked 305)
 | 2023-12-26 | 9,630 | 10 |
 | 2023-12-27 | 9,644 | 10 |
 | 2023-12-28 | 9,657 | 10 |
-| 2023-12-29 | 9,662 | 10 |
+| 2023-12-29 | 9,663 | 10 |
 ## Awards
 Max (Diverse Characters): 41  (Ranked 472)  
 Sum: 333 (Ranked 368)  

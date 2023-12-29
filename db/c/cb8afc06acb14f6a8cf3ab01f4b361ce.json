@@ -2,13 +2,13 @@
   "ID": "cb8afc06acb14f6a8cf3ab01f4b361ce",
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
-  "Ranking_Rating": 939,
+  "Ranking_Rating": 940,
   "Ranking_Popularity": 409,
   "Ranking_PopularitySum": 479,
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -449,9 +449,9 @@
       "Count": 73
     }
   ],
-  "EOS_Progressed": 337285,
+  "EOS_Progressed": 337316,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 4342,
+  "EOS_NewPlayers": 4347,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11404,6 +11404,11 @@
       "Time": "2023-12-29T13:11:44.6111798+00:00",
       "NumProgressed": 337285,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-29T14:09:01.1114871+00:00",
+      "NumProgressed": 337316,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -11416,7 +11421,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13491
+      "UsersEstimate": 13493
     },
     {
       "ID": "S02_BRDA",
@@ -11440,7 +11445,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2698
+      "UsersEstimate": 2699
     },
     {
       "ID": "S05_SWRA",
@@ -11472,7 +11477,7 @@
       "Name": "I feel drawn to it",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1686
+      "UsersEstimate": 1687
     },
     {
       "ID": "S09_MNSE",
@@ -11480,7 +11485,7 @@
       "Name": "Here to stay",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1686
+      "UsersEstimate": 1687
     },
     {
       "ID": "S10_GRSB",
@@ -11488,15 +11493,15 @@
       "Name": "Counting on you",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1686
+      "UsersEstimate": 1687
     },
     {
       "ID": "S11_MMR6",
       "SetID": "4j44ol8",
       "Name": "This is the end",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1349
+      "UsersEstimate": 1687
     },
     {
       "ID": "S12_ALL",
@@ -11552,7 +11557,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13491
+      "UsersEstimate": 13493
     },
     {
       "ID": "S19_CHALLENGES",
@@ -11735,7 +11740,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 337285,
+      "Progressed": 337316,
       "Completed": 7
     }
   ],
@@ -11743,8 +11748,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-26T17:02:24.775583+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:11:44.6111795+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:09:01.1114867+00:00",
   "LastUpdate_AppInfo": "2023-12-28T22:56:57.7073923+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:01:34.9288596+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:11:44.6112806+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:58:16.0517285+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:09:01.1115619+00:00"
 }

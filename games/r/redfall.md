@@ -44,10 +44,10 @@ Rating: 3.59 (Ranked 1,078)
 | Right This Way | 0.80% | ~17 |
 | Empty Nest Syndrome | 0.70% | ~15 |
 | Bloody Initiate | 0.70% | ~15 |
+| What Lies Below | 0.60% | ~13 |
 | Dexterity Save | 0.60% | ~13 |
 | Neighborhood Watch | 0.50% | ~11 |
 | Blood Brother | 0.50% | ~11 |
-| What Lies Below | 0.50% | ~11 |
 | Good Samaritan | 0.50% | ~11 |
 | Friendgineering | 0.40% | ~9 |
 | Sisterhood | 0.40% | ~9 |
@@ -72,7 +72,7 @@ Rating: 3.59 (Ranked 1,078)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,144 (Ranked 237)  
+Progressed: 2,145 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 2,087 | 0 |
 | 2023-12-27 | 2,113 | 0 |
 | 2023-12-28 | 2,135 | 0 |
-| 2023-12-29 | 2,144 | 0 |
+| 2023-12-29 | 2,145 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 568)  
 Sum: 20 (Ranked 569)  

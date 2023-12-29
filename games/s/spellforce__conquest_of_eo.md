@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 89.00% | ~84 |
-| Enough rooms to swing a cat | 82.00% | ~77 |
-| First to the post | 81.00% | ~76 |
-| A kind of Magic | 74.00% | ~70 |
-| Connected | 67.00% | ~63 |
-| Expansion | 61.00% | ~57 |
-| Mine! | 57.00% | ~54 |
-| Harvest Time | 56.00% | ~53 |
-| Artificer's Apprentice | 50.00% | ~47 |
-| Fly the friendly Sky | 46.00% | ~43 |
+| Home Sweet Home | 89.00% | ~85 |
+| Enough rooms to swing a cat | 82.00% | ~78 |
+| First to the post | 81.00% | ~77 |
+| A kind of Magic | 75.00% | ~71 |
+| Connected | 67.00% | ~64 |
+| Expansion | 61.00% | ~58 |
+| Mine! | 59.00% | ~56 |
+| Harvest Time | 57.00% | ~54 |
+| Artificer's Apprentice | 51.00% | ~48 |
+| Fly the friendly Sky | 46.00% | ~44 |
 | Get out of here! | 41.00% | ~39 |
-| Alchemist's Apprentice | 38.00% | ~36 |
+| Alchemist's Apprentice | 39.00% | ~37 |
 | Necromancer's Apprentice | 38.00% | ~36 |
-| Friend of Lyraine | 36.00% | ~34 |
+| Friend of Lyraine | 37.00% | ~35 |
 | The Circle | 35.00% | ~33 |
-| Redecorating | 33.00% | ~31 |
+| Redecorating | 34.00% | ~32 |
 | Bad JuJu | 23.00% | ~22 |
-| Slave to the rhythm | 20.00% | ~19 |
+| Slave to the rhythm | 21.00% | ~20 |
 | Castle Meldec | 20.00% | ~19 |
 | Friend of Sevenkeeps | 20.00% | ~19 |
 | Sevenkeeps Seat of Kings | 17.00% | ~16 |
 | Friend of Alluvyan | 16.00% | ~15 |
-| Friend of Connach | 15.00% | ~14 |
+| Friend of Connach | 16.00% | ~15 |
 | Break Free | 15.00% | ~14 |
 | Friend of Gillyshire | 14.00% | ~13 |
 | Philo's Tale | 12.00% | ~11 |
@@ -35,14 +35,14 @@
 | Friend of Orgash | 11.00% | ~10 |
 | Friend of Bastion | 11.00% | ~10 |
 | Magic Academy | 11.00% | ~10 |
-| Mage Teacher | 10.00% | ~9 |
-| A Master of Magic | 10.00% | ~9 |
-| Defeat Gor | 9.00% | ~8 |
-| Silver Drift Hollow Mine | 9.00% | ~8 |
-| Friend of Windholme | 9.00% | ~8 |
+| Mage Teacher | 9.00% | ~9 |
+| A Master of Magic | 9.00% | ~9 |
+| Defeat Gor | 8.00% | ~8 |
+| Silver Drift Hollow Mine | 8.00% | ~8 |
+| Friend of Windholme | 8.00% | ~8 |
+| A Joke | 8.00% | ~8 |
 | Defeat Hokan | 7.00% | ~7 |
 | Yngrid's Tale | 7.00% | ~7 |
-| A Joke | 7.00% | ~7 |
 | Defeat Uram | 6.00% | ~6 |
 | Elynn's Tale | 6.00% | ~6 |
 | Lore's Tale | 6.00% | ~6 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94 (Ranked 492)  
+Progressed: 95 (Ranked 492)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 84 | 0 |
 | 2023-12-27 | 89 | 0 |
 | 2023-12-28 | 92 | 0 |
-| 2023-12-29 | 94 | 0 |
+| 2023-12-29 | 95 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

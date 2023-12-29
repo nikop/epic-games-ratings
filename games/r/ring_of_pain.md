@@ -1,7 +1,7 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 461)  
+Rating: 4.58 (Ranked 462)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -21,10 +21,11 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Donation | 0.80% | ~1,936 |
 | Deflection | 0.80% | ~1,936 |
 | Explorer | 0.80% | ~1,936 |
-| Not Touching You | 0.80% | ~27 |
+| Not Touching You | 0.80% | ~28 |
 | Ambitious Intent | 0.70% | ~1,694 |
 | Delving Deeper | 0.70% | ~1,694 |
 | R.I.P | 0.70% | ~1,694 |
+| Cold Hearted | 0.70% | ~1,694 |
 | The Bestiary | 0.70% | ~1,694 |
 | Heartless | 0.70% | ~1,694 |
 | What's Yours Is Mine | 0.70% | ~1,694 |
@@ -35,7 +36,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Dig Your Own Grave | 0.60% | ~1,452 |
 | Who To Trust? | 0.60% | ~1,452 |
 | Walk It Off | 0.60% | ~1,452 |
-| Cold Hearted | 0.60% | ~1,452 |
 | I Am Overburdened | 0.60% | ~1,452 |
 | Destroy Your Fears | 0.60% | ~1,452 |
 | Shootout | 0.60% | ~1,452 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,953 (Ranked 70)  
+Progressed: 241,959 (Ranked 70)  
 Completed: 302 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -398,7 +398,7 @@ Completed: 302 (0.12%) (Ranked 301)
 | 2023-12-26 | 241,782 | 302 |
 | 2023-12-27 | 241,847 | 302 |
 | 2023-12-28 | 241,919 | 302 |
-| 2023-12-29 | 241,953 | 302 |
+| 2023-12-29 | 241,959 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 134)  
 Sum: 11,769 (Ranked 88)  

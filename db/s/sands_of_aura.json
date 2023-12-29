@@ -2,9 +2,9 @@
   "ID": "ef02301060454cfd8345fae625743294",
   "Name": "Sands of Aura",
   "ProductSlug": "sands-of-aura",
-  "Ranking_EOS_Progress": 464,
+  "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 386,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 125,
+  "EOS_Progressed": 126,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -625,6 +625,11 @@
       "Time": "2023-12-29T04:05:29.4400362+00:00",
       "NumProgressed": 125,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T14:05:57.8516941+00:00",
+      "NumProgressed": 126,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-14T11:03:32.7947841+00:00",
@@ -637,7 +642,7 @@
       "Name": "Rain Must Fall",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ALAIRA_MASTER",
@@ -653,7 +658,7 @@
       "Name": "Overboard",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ALCHEMECT_MASTER",
@@ -757,7 +762,7 @@
       "Name": "Missing Melodies",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "COMPLETE_CALDER_STORY_BAD",
@@ -787,9 +792,9 @@
       "ID": "CRAGBOSS_DEFEAT",
       "SetID": "cm0d613",
       "Name": "A Small Thirsty Thing",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "CRAGBOSS_MASTER",
@@ -821,7 +826,7 @@
       "Name": "Smotherly Love",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DEFEAT_BELFRY_SOLO",
@@ -1013,7 +1018,7 @@
       "Name": "Leisis Bless You",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SMITH_UPGRADE_1",
@@ -1037,7 +1042,7 @@
       "Name": "Setting Sail",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "UBAANI_DEFEAT",
@@ -1045,7 +1050,7 @@
       "Name": "Spirit Within",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "UBAANI_MASTER",
@@ -1069,7 +1074,7 @@
       "Name": "Transformative Nature",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "WILGRAM_TWINS_DEFEAT",
@@ -1100,7 +1105,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 125,
+      "Progressed": 126,
       "Completed": 0
     }
   ],
@@ -1108,8 +1113,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:09:10.0637536+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:05:57.8516937+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.2387789+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:06:19.2226159+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:09:10.063795+00:00"
+  "LastUpdate_Ratings": "2023-12-29T14:03:03.3666014+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:05:57.8517395+00:00"
 }

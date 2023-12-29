@@ -4,7 +4,7 @@
   "ProductSlug": "skeletal-avengers-af85a4",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewPlayers": 520,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-24T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 50,
+  "EOS_Progressed": 51,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -259,6 +259,11 @@
       "Time": "2023-12-24T01:59:24.3754631+00:00",
       "NumProgressed": 50,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T14:09:45.9394585+00:00",
+      "NumProgressed": 51,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 21,
@@ -270,7 +275,7 @@
       "Name": "Baby Steps",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "COINS",
@@ -332,7 +337,7 @@
       "ID": "DUNGEON_BOSS",
       "SetID": "63n2m0e",
       "Name": "Master of Dungeon",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 20,
       "UsersEstimate": 20
     },
@@ -380,7 +385,7 @@
       "ID": "PERK_UP",
       "SetID": "63n2m0e",
       "Name": "Perk Up",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 13
     },
@@ -437,14 +442,14 @@
     {
       "ID": "63n2m0e",
       "IsBase": true,
-      "Progressed": 50,
+      "Progressed": 51,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T16:57:16.6095793+00:00",
   "FirstSeenAchievements": "2023-05-16T19:59:50.0064107+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:12:29.3792826+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:09:45.9394581+00:00",
   "LastUpdate_AppInfo": "2023-12-27T14:57:14.6342137+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:02:18.3565437+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:12:29.3792978+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:59:00.6005684+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:09:45.9394729+00:00"
 }

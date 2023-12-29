@@ -633,9 +633,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6450,
+  "EOS_Progressed": 6452,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9623,6 +9623,11 @@
       "Time": "2023-12-29T13:08:29.0080032+00:00",
       "NumProgressed": 6450,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-29T14:05:15.6366451+00:00",
+      "NumProgressed": 6452,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9650,7 +9655,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "12",
@@ -9658,7 +9663,7 @@
       "Name": "I\u0027ve Got Everything I Need Right Here",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "13",
@@ -9674,7 +9679,7 @@
       "Name": "Full Ascension",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "15",
@@ -9690,7 +9695,7 @@
       "Name": "God Emperor",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "17",
@@ -9698,7 +9703,7 @@
       "Name": "Lord of Chaos",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "18",
@@ -9714,7 +9719,7 @@
       "Name": "The Creator",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "2",
@@ -9730,7 +9735,7 @@
       "Name": "The Goddess of Nature",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "21",
@@ -9738,7 +9743,7 @@
       "Name": "Eternal Lord",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "22",
@@ -9754,7 +9759,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "24",
@@ -9770,7 +9775,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "26",
@@ -9802,7 +9807,7 @@
       "Name": "Stronger Together",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "3",
@@ -9842,7 +9847,7 @@
       "Name": "Seat of Power",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "34",
@@ -9898,7 +9903,7 @@
       "Name": "The Eternal Court",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "40",
@@ -10010,7 +10015,7 @@
       "Name": "Blood of the Dragon",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "49",
@@ -10050,7 +10055,7 @@
       "Name": "Prometheus Avenged",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "54",
@@ -10066,7 +10071,7 @@
       "Name": "Seal the Deal",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "56",
@@ -10074,7 +10079,7 @@
       "Name": "A Conqueror\u0027s Cohort",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "57",
@@ -10090,7 +10095,7 @@
       "Name": "Dawn of the Dread",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "59",
@@ -10098,7 +10103,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "60",
@@ -10113,13 +10118,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6450,
+      "Progressed": 6452,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6450,
+      "Progressed": 6452,
       "Completed": 7
     }
   ],
@@ -10127,8 +10132,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-29T11:57:48.2397736+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:08:29.0080027+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:05:15.6366446+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:00:54.2824005+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:08:29.0080995+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:57:34.6568851+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:05:15.6367312+00:00"
 }

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 158,
+  "EOS_Progressed": 159,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -624,6 +624,11 @@
       "Time": "2023-12-29T13:06:43.8040738+00:00",
       "NumProgressed": 158,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T14:03:29.5321814+00:00",
+      "NumProgressed": 159,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -692,7 +697,7 @@
       "Name": "Agriculture Tycoon",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "f2",
@@ -716,7 +721,7 @@
       "Name": "City Center",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "fw2",
@@ -740,7 +745,7 @@
       "Name": "Skilled Workers",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "g2",
@@ -812,7 +817,7 @@
       "Name": "Treatment of plague",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "jk2",
@@ -834,9 +839,9 @@
       "ID": "jz1",
       "SetID": "b1ggf28",
       "Name": "Builder",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "jz2",
@@ -860,7 +865,7 @@
       "Name": "Advanced Technology",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "k2",
@@ -946,9 +951,9 @@
       "ID": "w1",
       "SetID": "b1ggf28",
       "Name": "Against the Cold",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 95
     },
     {
       "ID": "w2",
@@ -1043,14 +1048,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 158,
+      "Progressed": 159,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:06:43.8040727+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:03:29.5321811+00:00",
   "LastUpdate_AppInfo": "2023-12-27T04:56:58.3049887+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:06:20.4608762+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:06:43.8058032+00:00"
+  "LastUpdate_Ratings": "2023-12-29T14:03:04.6993501+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:03:29.5322682+00:00"
 }

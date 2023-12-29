@@ -31,7 +31,7 @@
   "Tags": [],
   "EOS_Progressed": 2313,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6799,9 +6799,9 @@
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1457
     },
     {
       "ID": "achievement_38",
@@ -7078,8 +7078,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:13:06.8406868+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:10:23.3405567+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.4116758+00:00",
-  "LastUpdate_Ratings": "2023-12-29T12:02:50.3015019+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:13:06.8407717+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:57:02.2434699+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:10:23.3406499+00:00"
 }

@@ -1062,9 +1062,9 @@
       "ID": "KR4_ACHIEVEMENT_ASRA_MAX",
       "SetID": "caeik3h",
       "Name": "Mistress of Shadows",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "KR4_ACHIEVEMENT_BARNY",
@@ -1414,9 +1414,9 @@
       "ID": "KR4_ACHIEVEMENT_LINIREA",
       "SetID": "caeik3h",
       "Name": "Rightful Owner",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "KR4_ACHIEVEMENT_MADAGASCAR",
@@ -1574,9 +1574,9 @@
       "ID": "KR4_ACHIEVEMENT_SON_OF_FIRE",
       "SetID": "caeik3h",
       "Name": "Son of Fire",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 88
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPAWN_REINFORCEMENTS",
@@ -1683,8 +1683,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:09:02.3073808+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:05:50.3562872+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.1058747+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:00:56.834699+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:09:02.3074615+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:57:37.3587318+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:05:50.3563695+00:00"
 }

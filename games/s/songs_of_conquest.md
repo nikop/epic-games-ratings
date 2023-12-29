@@ -23,11 +23,11 @@ Number of Ratings: 292  (23.09.2022)
 | Trojan Horse | 4.00% | ~33 |
 | Expert Essence Employment | 3.00% | ~25 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~25 |
-| This Spot's Taken | 2.00% | ~16 |
-| Deepstrike | 2.00% | ~16 |
-| Infernal Influence | 2.00% | ~16 |
-| Ultra Kill | 2.00% | ~16 |
-| Pyrrhic Victory | 2.00% | ~16 |
+| This Spot's Taken | 2.00% | ~17 |
+| Deepstrike | 2.00% | ~17 |
+| Infernal Influence | 2.00% | ~17 |
+| Ultra Kill | 2.00% | ~17 |
+| Pyrrhic Victory | 2.00% | ~17 |
 | Versatile Wielder | 1.00% | ~8 |
 | From the Ashes | 1.00% | ~8 |
 | Such A Fungi | 1.00% | ~8 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 825 (Ranked 297)  
+Progressed: 826 (Ranked 297)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 773 | 0 |
 | 2023-12-27 | 796 | 0 |
 | 2023-12-28 | 815 | 0 |
-| 2023-12-29 | 825 | 0 |
+| 2023-12-29 | 826 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 29  (Ranked 519)  
 Sum: 251 (Ranked 396)  

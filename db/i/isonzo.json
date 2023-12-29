@@ -2,12 +2,12 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 461,
+  "Ranking_Rating": 462,
   "Ranking_Popularity": 472,
   "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1033,9 +1033,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9662,
+  "EOS_Progressed": 9663,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10213,6 +10213,11 @@
       "Time": "2023-12-29T13:12:12.5532089+00:00",
       "NumProgressed": 9662,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-29T14:09:29.0656611+00:00",
+      "NumProgressed": 9663,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10240,7 +10245,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4251
+      "UsersEstimate": 4252
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -10288,7 +10293,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1932
+      "UsersEstimate": 1933
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -10296,7 +10301,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -10304,7 +10309,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -10344,7 +10349,7 @@
       "Name": "Generalissimo",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "ISONZO_ACH_INSUBORDINATION",
@@ -10408,7 +10413,7 @@
       "Name": "\u0022O La Vittoria, O Tutti Accoppati\u0022",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "ISONZO_ACH_PEAK_PERFORMANCE",
@@ -10464,7 +10469,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -10552,7 +10557,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4831
+      "UsersEstimate": 4832
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -10583,7 +10588,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9662,
+      "Progressed": 9663,
       "Completed": 10
     }
   ],
@@ -10591,8 +10596,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-27T06:01:05.5832134+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:12:12.5532082+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:09:29.0656607+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.592446+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:00:44.4375283+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:12:12.5533105+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:57:24.7811882+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:09:29.0657597+00:00"
 }

@@ -971,9 +971,9 @@
       "ID": "Ach-05-hlavouni",
       "SetID": "2pjo9pi",
       "Name": "Hlavouni",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "Ach-05-hrouda",
@@ -1003,9 +1003,9 @@
       "ID": "Ach-05-krava",
       "SetID": "2pjo9pi",
       "Name": "Krava",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "Ach-05-krotitel",
@@ -1051,9 +1051,9 @@
       "ID": "Ach-05-zelva",
       "SetID": "2pjo9pi",
       "Name": "Zelva",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Ach-05-zloC",
@@ -1130,8 +1130,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:12:00.1969329+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:09:16.5418262+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:05.6352108+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:01:35.5609687+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:12:00.1969705+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:58:16.7687589+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:09:16.5418897+00:00"
 }

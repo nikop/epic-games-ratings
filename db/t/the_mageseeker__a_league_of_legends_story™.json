@@ -2,7 +2,7 @@
   "ID": "1e1d639f7fa045f08a1378885ec7080c",
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
-  "Ranking_Rating": 88,
+  "Ranking_Rating": 87,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 221,
@@ -165,7 +165,7 @@
   "Tags": [],
   "EOS_Progressed": 3130,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -5708,9 +5708,9 @@
       "ID": "STB_MISSION5A_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Glyndemere",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 689
+      "UsersEstimate": 720
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -5885,8 +5885,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-26T20:58:40.3345897+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:07:02.0368286+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:03:48.0112748+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:06.9793878+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:03:03.8815417+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:07:02.036903+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:59:47.2686056+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:03:48.0113366+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "ikonei-island-an-earthlock-adventure-fa1620",
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-11-09T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2849,
+  "EOS_Progressed": 2856,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4254,6 +4254,11 @@
       "Time": "2023-12-29T13:07:00.7522374+00:00",
       "NumProgressed": 2849,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T14:03:46.7507893+00:00",
+      "NumProgressed": 2856,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T10:03:34.0451585+00:00",
@@ -4402,7 +4407,7 @@
       "Name": "Heartland",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_HeroesOfIkoneiIsland",
@@ -4553,14 +4558,14 @@
     {
       "ID": "ai9gp4m",
       "IsBase": true,
-      "Progressed": 2849,
+      "Progressed": 2856,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T17:12:11.6441417+00:00",
   "FirstSeenAchievements": "2023-11-07T10:03:34.0451584+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:07:00.7522369+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:03:46.7507889+00:00",
   "LastUpdate_AppInfo": "2023-12-26T12:59:42.5726113+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:01:39.3729281+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:07:00.7522858+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:58:20.8541552+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:03:46.7508615+00:00"
 }

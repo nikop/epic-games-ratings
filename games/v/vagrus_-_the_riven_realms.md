@@ -27,13 +27,13 @@
 | Merchant | 5.00% | ~13 |
 | Quartermaster | 4.00% | ~10 |
 | Potential Unlocked | 4.00% | ~10 |
+| Despised | 4.00% | ~10 |
 | Been There | 4.00% | ~10 |
 | Spiritual Journey | 4.00% | ~10 |
 | Trouble at Fort Larius | 4.00% | ~10 |
 | Unseen Patterns | 4.00% | ~10 |
 | Xevarian Gambit | 3.00% | ~8 |
 | The Voice of Hereafter | 3.00% | ~8 |
-| Despised | 3.00% | ~8 |
 | A Terrible Will | 3.00% | ~8 |
 | Inquisitions of Discord | 3.00% | ~8 |
 | Bounty Hunter | 2.00% | ~5 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9163,9 +9163,9 @@
       "Count": 3607
     }
   ],
-  "EOS_Progressed": 246704,
+  "EOS_Progressed": 246751,
   "EOS_Completed": 2575,
-  "EOS_NewPlayers": 3488,
+  "EOS_NewPlayers": 3510,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -37783,6 +37783,11 @@
       "Time": "2023-12-29T13:13:11.4096938+00:00",
       "NumProgressed": 246704,
       "NumCompleted": 2575
+    },
+    {
+      "Time": "2023-12-29T14:10:27.5079468+00:00",
+      "NumProgressed": 246751,
+      "NumCompleted": 2575
     }
   ],
   "TotalAchievements": 546,
@@ -37794,7 +37799,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4934
+      "UsersEstimate": 4935
     },
     {
       "ID": "objective_completed_10",
@@ -37802,7 +37807,7 @@
       "Name": "Maddening",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "objective_completed_100",
@@ -38770,7 +38775,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "objective_completed_130",
@@ -38898,7 +38903,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "objective_completed_149",
@@ -38914,7 +38919,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "objective_completed_150",
@@ -39122,7 +39127,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "objective_completed_20",
@@ -39466,7 +39471,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2220
+      "UsersEstimate": 2221
     },
     {
       "ID": "objective_completed_34",
@@ -39482,7 +39487,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "objective_completed_36",
@@ -39938,7 +39943,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "objective_completed_540",
@@ -40338,7 +40343,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "objective_completed_60",
@@ -40866,7 +40871,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "objective_completed_690",
@@ -40938,7 +40943,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "objective_completed_70",
@@ -41538,7 +41543,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "objective_completed_902",
@@ -42161,21 +42166,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 212978,
+      "Progressed": 213025,
       "Completed": 4090
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 246704,
+      "Progressed": 246751,
       "Completed": 2575
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-29T13:02:39.1033219+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:13:11.4096934+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:10:27.5079465+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:02:39.1033226+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:13:11.4119328+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:59:22.0489422+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:10:27.5103684+00:00"
 }

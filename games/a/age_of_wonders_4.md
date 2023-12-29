@@ -7,16 +7,16 @@ Rating: 4.63 (Ranked 356)
 | ---- | ---------- | ----- |
 | Secret Technique | 11.00% | ~710 |
 | Realm Estate | 10.00% | ~645 |
-| A Wonderful Discovery | 9.00% | ~580 |
-| Walls Cannot Stop Us | 9.00% | ~580 |
+| A Wonderful Discovery | 9.00% | ~581 |
+| Walls Cannot Stop Us | 9.00% | ~581 |
 | From Friends to Family | 8.00% | ~516 |
 | Bone Peddler | 7.00% | ~452 |
 | Magical Synergy | 6.00% | ~387 |
-| There Can Only Be One! | 5.00% | ~322 |
-| Full Ascension | 5.00% | ~322 |
-| Stronger Together | 5.00% | ~322 |
-| Seat of Power | 5.00% | ~322 |
-| But this one is mine | 5.00% | ~322 |
+| There Can Only Be One! | 5.00% | ~323 |
+| Full Ascension | 5.00% | ~323 |
+| Stronger Together | 5.00% | ~323 |
+| Seat of Power | 5.00% | ~323 |
+| But this one is mine | 5.00% | ~323 |
 | Valley of Wonders | 4.00% | ~258 |
 | In a Liege of Your Own | 4.00% | ~258 |
 | Intimidation Tactics | 4.00% | ~258 |
@@ -37,18 +37,18 @@ Rating: 4.63 (Ranked 356)
 | Sehiran Oasis | 2.00% | ~129 |
 | Chaos Surge | 2.00% | ~129 |
 | Spoils of War | 2.00% | ~129 |
-| I've Got Everything I Need Right Here | 1.00% | ~64 |
-| God Emperor | 1.00% | ~64 |
-| Lord of Chaos | 1.00% | ~64 |
-| The Creator | 1.00% | ~64 |
-| The Goddess of Nature | 1.00% | ~64 |
-| Eternal Lord | 1.00% | ~64 |
-| The Eternal Court | 1.00% | ~64 |
-| Blood of the Dragon | 1.00% | ~64 |
-| Prometheus Avenged | 1.00% | ~64 |
-| Seal the Deal | 1.00% | ~64 |
-| A Conqueror's Cohort | 1.00% | ~64 |
-| Dawn of the Dread | 1.00% | ~64 |
+| I've Got Everything I Need Right Here | 1.00% | ~65 |
+| God Emperor | 1.00% | ~65 |
+| Lord of Chaos | 1.00% | ~65 |
+| The Creator | 1.00% | ~65 |
+| The Goddess of Nature | 1.00% | ~65 |
+| Eternal Lord | 1.00% | ~65 |
+| The Eternal Court | 1.00% | ~65 |
+| Blood of the Dragon | 1.00% | ~65 |
+| Prometheus Avenged | 1.00% | ~65 |
+| Seal the Deal | 1.00% | ~65 |
+| A Conqueror's Cohort | 1.00% | ~65 |
+| Dawn of the Dread | 1.00% | ~65 |
 | Manufactured War | 0.90% | ~58 |
 | Pruning for Progress | 0.90% | ~58 |
 | Grexolis | 0.80% | ~52 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 356)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,450 (Ranked 195)  
+Progressed: 6,452 (Ranked 195)  
 Completed: 7 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 7 (0.11%) (Ranked 304)
 | 2023-12-26 | 6,285 | 7 |
 | 2023-12-27 | 6,359 | 7 |
 | 2023-12-28 | 6,414 | 7 |
-| 2023-12-29 | 6,450 | 7 |
+| 2023-12-29 | 6,452 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 481)  
 Sum: 160 (Ranked 436)  

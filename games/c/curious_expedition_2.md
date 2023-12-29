@@ -9,7 +9,7 @@ Number of Ratings: 20  (23.09.2022)
 | The Adventure Begins | 65.00% | ~248 |
 | Cartographer | 58.00% | ~222 |
 | A Strange Artefact | 53.00% | ~202 |
-| Insomnia | 49.00% | ~187 |
+| Insomnia | 50.00% | ~191 |
 | Lost & Found & Lost Again | 43.00% | ~164 |
 | From Whence we Came | 43.00% | ~164 |
 | Fire and Flood | 41.00% | ~157 |
@@ -22,8 +22,8 @@ Number of Ratings: 20  (23.09.2022)
 | Taxonomist | 28.00% | ~107 |
 | Traveller | 25.00% | ~96 |
 | Uncertain Loyalties | 25.00% | ~96 |
+| Nahua Seeker | 24.00% | ~92 |
 | Roll to Save | 23.00% | ~88 |
-| Nahua Seeker | 23.00% | ~88 |
 | Veteran Explorer | 22.00% | ~84 |
 | Red Flag Pirate | 19.00% | ~73 |
 | Iron Man | 17.00% | ~65 |

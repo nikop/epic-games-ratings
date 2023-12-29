@@ -2,9 +2,9 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 388,
+  "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 292,
+  "EOS_Progressed": 293,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
@@ -1184,6 +1184,11 @@
       "Time": "2023-12-29T13:09:57.0767694+00:00",
       "NumProgressed": 292,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T14:08:33.65489+00:00",
+      "NumProgressed": 293,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1260,23 +1265,23 @@
       "Name": "Ludopath",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 164
     },
     {
       "ID": "AC_BOSS_01",
       "SetID": "16i2akc",
       "Name": "Misery",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 79
     },
     {
       "ID": "AC_BOSS_02",
@@ -1338,9 +1343,9 @@
       "ID": "AC_DEATH_1",
       "SetID": "16i2akc",
       "Name": "Corpse",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 108
     },
     {
       "ID": "AC_DEATH_2",
@@ -1370,9 +1375,9 @@
       "ID": "AC_DEATH_ENEMIES_2",
       "SetID": "16i2akc",
       "Name": "Psycopath",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 79
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -1380,15 +1385,15 @@
       "Name": "Genocide",
       "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 237
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -1396,7 +1401,7 @@
       "Name": "Journey",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -1444,7 +1449,7 @@
       "Name": "Vision",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "AC_MONEY_BLACKJACK",
@@ -1498,9 +1503,9 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 123
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -1531,14 +1536,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 292,
+      "Progressed": 293,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:09:57.076769+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:08:33.6548895+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:54.1541826+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:00:37.4388236+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:09:57.0768098+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:57:17.7013212+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:08:33.6549318+00:00"
 }

@@ -4485,9 +4485,9 @@
       "ID": "ML_ACHIEVEMENT_32",
       "SetID": "5k00jcd",
       "Name": "Spendthrift",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ML_ACHIEVEMENT_33",
@@ -4613,13 +4613,13 @@
       "ID": "8jfk4dl",
       "IsBase": false,
       "Progressed": 1382,
-      "Completed": 1005
+      "Completed": 1006
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:07:21.6284344+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:04:07.309946+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:00:50.6403517+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:07:21.6284775+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:57:31.0978853+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:04:07.3100023+00:00"
 }

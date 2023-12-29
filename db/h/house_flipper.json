@@ -2247,7 +2247,7 @@
       "Count": 225
     }
   ],
-  "EOS_Progressed": 21814,
+  "EOS_Progressed": 21815,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
@@ -12307,6 +12307,11 @@
       "Time": "2023-12-29T13:09:47.3560416+00:00",
       "NumProgressed": 21814,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-29T14:08:23.6054427+00:00",
+      "NumProgressed": 21815,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -12366,7 +12371,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20723
+      "UsersEstimate": 20724
     },
     {
       "ID": "GameOver",
@@ -12398,7 +12403,7 @@
       "Name": "Mystery",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "JuniorEstateAgent",
@@ -12478,7 +12483,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6762
+      "UsersEstimate": 6763
     },
     {
       "ID": "VeronicaLiptson",
@@ -12486,7 +12491,7 @@
       "Name": "Artistic soul",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "YouDoItWrong",
@@ -12501,15 +12506,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21814,
+      "Progressed": 21815,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-12-28T19:00:29.0402048+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:09:47.3560411+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:08:23.6054423+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:15.1839615+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:02:55.4432427+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:09:47.3561202+00:00"
+  "LastUpdate_Ratings": "2023-12-29T13:59:38.7345258+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:08:23.6055172+00:00"
 }

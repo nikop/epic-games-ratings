@@ -4,7 +4,7 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 203,
+  "EOS_Progressed": 204,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -819,6 +819,11 @@
       "Time": "2023-12-29T11:04:39.4998106+00:00",
       "NumProgressed": 203,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T14:04:56.5752451+00:00",
+      "NumProgressed": 204,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T14:06:40.4198033+00:00",
@@ -839,7 +844,7 @@
       "Name": "Aristocratic",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "Botropolis",
@@ -863,7 +868,7 @@
       "Name": "Conducted Trade",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "DiggingAHole",
@@ -871,7 +876,7 @@
       "Name": "Digging a Hole",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "DopaMiner",
@@ -885,9 +890,9 @@
       "ID": "GoingPlaces",
       "SetID": "4bd750m",
       "Name": "Going Places",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 133
     },
     {
       "ID": "GottaGoFast",
@@ -895,7 +900,7 @@
       "Name": "Gotta Go Fast",
       "Percentage": 45,
       "XP": 90,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ImALumberbot",
@@ -919,7 +924,7 @@
       "Name": "It\u0027s Yours, My Friend",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ManicMechanic",
@@ -935,7 +940,7 @@
       "Name": "Mathematic",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "MineSweeper",
@@ -943,7 +948,7 @@
       "Name": "Mine Sweeper",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "NothingButRoad",
@@ -975,7 +980,7 @@
       "Name": "Room To Spare",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "SlottingMachine",
@@ -983,7 +988,7 @@
       "Name": "Slotting Machine",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "StackOverflow",
@@ -1015,7 +1020,7 @@
       "Name": "Systematic",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "TuttiFrutti",
@@ -1054,14 +1059,14 @@
     {
       "ID": "4bd750m",
       "IsBase": true,
-      "Progressed": 203,
+      "Progressed": 204,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-29T13:08:10.02698+00:00",
+  "LastChanged_Achievements": "2023-12-29T14:04:56.5752448+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3930423+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:06:35.7301606+00:00",
-  "LastUpdate_Achievements": "2023-12-29T13:08:10.0269986+00:00"
+  "LastUpdate_Ratings": "2023-12-29T14:03:19.787863+00:00",
+  "LastUpdate_Achievements": "2023-12-29T14:04:56.5752645+00:00"
 }
