@@ -4496,10 +4496,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 3294,
       "NumberOfAwardsMax": 413
+    },
+    {
+      "Time": "2023-12-29T05:00:46.3471204+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3295,
+      "NumberOfAwardsMax": 413
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3294,
+  "NumberOfAwards": 3295,
   "NumberOfAwardsMax": 413,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -4525,7 +4531,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 336
+      "Count": 337
     },
     {
       "Text": "This game has Challenging Combat",
@@ -4570,9 +4576,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 513792,
+  "EOS_Progressed": 513817,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6590,
+  "EOS_NewPlayers": 6581,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33590,6 +33596,11 @@
       "Time": "2023-12-29T04:08:36.5427498+00:00",
       "NumProgressed": 513792,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-29T05:08:49.5292753+00:00",
+      "NumProgressed": 513817,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -33657,7 +33668,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20552
+      "UsersEstimate": 20553
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -33689,7 +33700,7 @@
       "Name": "Grounded",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 4110
+      "UsersEstimate": 4111
     },
     {
       "ID": "ACH_HIT_RUN",
@@ -33705,7 +33716,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15414
+      "UsersEstimate": 15415
     },
     {
       "ID": "ACH_JR_50",
@@ -33729,7 +33740,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15414
+      "UsersEstimate": 15415
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -33761,7 +33772,7 @@
       "Name": "Play to Win",
       "Percentage": 0.8,
       "XP": 80,
-      "UsersEstimate": 4110
+      "UsersEstimate": 4111
     },
     {
       "ID": "ACH_POINT_SHOOTING",
@@ -33769,7 +33780,7 @@
       "Name": "Point Shooting",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20552
+      "UsersEstimate": 20553
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -33833,7 +33844,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15414
+      "UsersEstimate": 15415
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -33857,7 +33868,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 15414
+      "UsersEstimate": 15415
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -33865,7 +33876,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 25690
+      "UsersEstimate": 25691
     },
     {
       "ID": "ACH_WET_FEET",
@@ -33873,22 +33884,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20552
+      "UsersEstimate": 20553
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 513792,
+      "Progressed": 513817,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-12-28T19:00:28.9153971+00:00",
-  "LastChanged_Achievements": "2023-12-29T04:08:36.5427495+00:00",
+  "LastChanged": "2023-12-29T05:00:46.3471202+00:00",
+  "LastChanged_Achievements": "2023-12-29T05:08:49.5292747+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:37.4464018+00:00",
-  "LastUpdate_Ratings": "2023-12-29T03:59:33.7472264+00:00",
-  "LastUpdate_Achievements": "2023-12-29T04:08:36.5429066+00:00"
+  "LastUpdate_Ratings": "2023-12-29T05:00:46.3471208+00:00",
+  "LastUpdate_Achievements": "2023-12-29T05:08:49.5294444+00:00"
 }

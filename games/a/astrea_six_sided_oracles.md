@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 81.00% | ~213 |
-| Purification Pioneer | 76.00% | ~200 |
+| Meissa's Savior | 81.00% | ~214 |
+| Purification Pioneer | 76.00% | ~201 |
 | Mechanical Buddy | 71.00% | ~187 |
 | Dicesmithing Time! | 63.00% | ~166 |
 | Sanctuary Guardian | 55.00% | ~145 |
@@ -21,10 +21,10 @@
 | Loyal Partner | 22.00% | ~58 |
 | Lacertian Champion | 21.00% | ~55 |
 | Apian Champion | 19.00% | ~50 |
-| Shard Spender | 18.00% | ~47 |
+| Shard Spender | 18.00% | ~48 |
 | Unbeatable | 17.00% | ~45 |
 | Sadistic Plan | 16.00% | ~42 |
-| Behenian Champion | 15.00% | ~39 |
+| Behenian Champion | 15.00% | ~40 |
 | Astral Seeker | 10.00% | ~26 |
 | Aquarian Champion | 10.00% | ~26 |
 | Stellar Haste | 9.00% | ~24 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 263 (Ranked 398)  
+Progressed: 264 (Ranked 398)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,4 +167,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 246 | 0 |
 | 2023-12-27 | 253 | 0 |
 | 2023-12-28 | 262 | 0 |
-| 2023-12-29 | 263 | 0 |
+| 2023-12-29 | 264 | 0 |

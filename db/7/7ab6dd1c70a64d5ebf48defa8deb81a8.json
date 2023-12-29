@@ -6,7 +6,7 @@
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 260,
-  "Ranking_EOS_Completed": 271,
+  "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
@@ -43,9 +43,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1421,
+  "EOS_Progressed": 1422,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 405,
+  "EOS_NewPlayers": 406,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -2788,6 +2788,11 @@
       "Time": "2023-12-29T01:47:02.083867+00:00",
       "NumProgressed": 1421,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T05:10:51.2188399+00:00",
+      "NumProgressed": 1422,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2799,7 +2804,7 @@
       "Name": "Break Out",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "ACH_02",
@@ -2807,15 +2812,15 @@
       "Name": "Find Allies",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ACH_03",
       "SetID": "efe2lj",
       "Name": "Powerful Allies",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_04",
@@ -2823,7 +2828,7 @@
       "Name": "Calm before the Storm",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_05",
@@ -3015,7 +3020,7 @@
       "Name": "I Found It",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ACH_29",
@@ -3037,9 +3042,9 @@
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone Collection",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 242
+      "UsersEstimate": 256
     },
     {
       "ID": "ACH_33",
@@ -3055,7 +3060,7 @@
       "Name": "The Collector",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ACH_35",
@@ -3086,7 +3091,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1421,
+      "Progressed": 1422,
       "Completed": 3
     }
   ],
@@ -3094,8 +3099,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2023-12-27T23:57:06.3972881+00:00",
-  "LastChanged_Achievements": "2023-12-29T04:10:05.8183485+00:00",
+  "LastChanged_Achievements": "2023-12-29T05:10:51.2188395+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-29T03:57:50.7343201+00:00",
-  "LastUpdate_Achievements": "2023-12-29T04:10:05.8183749+00:00"
+  "LastUpdate_Ratings": "2023-12-29T04:58:10.1503524+00:00",
+  "LastUpdate_Achievements": "2023-12-29T05:10:51.2188683+00:00"
 }

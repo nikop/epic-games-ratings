@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 263,
+  "EOS_Progressed": 264,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1104,6 +1104,11 @@
       "Time": "2023-12-29T02:23:55.0655173+00:00",
       "NumProgressed": 263,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T05:08:51.7130532+00:00",
+      "NumProgressed": 264,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -1468,7 +1473,7 @@
       "Name": "Meissa\u0027s Savior",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "MindIlluminator",
@@ -1540,7 +1545,7 @@
       "Name": "Purification Pioneer",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ReflexiveMind",
@@ -1588,7 +1593,7 @@
       "Name": "Shard Spender",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "SixSidedMastery",
@@ -1804,7 +1809,7 @@
       "Name": "Behenian Champion",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "BehenianHero",
@@ -1899,14 +1904,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 263,
+      "Progressed": 264,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-29T04:08:38.3303579+00:00",
+  "LastChanged_Achievements": "2023-12-29T05:08:51.7130528+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:02.5351328+00:00",
-  "LastUpdate_Ratings": "2023-12-29T03:58:02.4958495+00:00",
-  "LastUpdate_Achievements": "2023-12-29T04:08:38.3304391+00:00"
+  "LastUpdate_Ratings": "2023-12-29T04:58:27.3487235+00:00",
+  "LastUpdate_Achievements": "2023-12-29T05:08:51.7131836+00:00"
 }

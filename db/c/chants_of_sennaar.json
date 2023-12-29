@@ -79,10 +79,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1960,
+  "EOS_Progressed": 1961,
   "EOS_Completed": 117,
   "EOS_NewPlayers": 439,
-  "EOS_NewCompleters": 36,
+  "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 5.97,
   "EosHistory": [
     {
@@ -5614,6 +5614,11 @@
       "Time": "2023-12-29T04:05:00.4002868+00:00",
       "NumProgressed": 1960,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-12-29T05:06:25.9983025+00:00",
+      "NumProgressed": 1961,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 25,
@@ -5713,7 +5718,7 @@
       "Name": "A Link to the Past",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -5745,7 +5750,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -5769,7 +5774,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -5777,7 +5782,7 @@
       "Name": "Scholar",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "PROGRESS_N1",
@@ -5785,7 +5790,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "PROGRESS_N2",
@@ -5817,14 +5822,14 @@
       "Name": "One last step",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1960,
+      "Progressed": 1961,
       "Completed": 117
     }
   ],
@@ -5832,8 +5837,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-28T06:58:32.2175131+00:00",
-  "LastChanged_Achievements": "2023-12-29T04:05:00.4002867+00:00",
+  "LastChanged_Achievements": "2023-12-29T05:06:25.9983024+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-29T03:59:04.3688834+00:00",
-  "LastUpdate_Achievements": "2023-12-29T04:05:00.400319+00:00"
+  "LastUpdate_Ratings": "2023-12-29T05:00:00.5853343+00:00",
+  "LastUpdate_Achievements": "2023-12-29T05:06:25.9983365+00:00"
 }

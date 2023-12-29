@@ -6,29 +6,29 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 67.00% | ~140 |
+| Shop Til They Drop | 66.00% | ~139 |
 | Kaijuiced | 65.00% | ~136 |
-| Lie Back and Think of Albion | 59.00% | ~123 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~121 |
+| Lie Back and Think of Albion | 60.00% | ~126 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~122 |
 | Yettisoned | 54.00% | ~113 |
 | I Look Up As I Walk to Takoshima | 54.00% | ~113 |
 | Perfect Probulator | 52.00% | ~109 |
-| Lobster Blisque | 48.00% | ~100 |
-| Pimp My Raid | 48.00% | ~100 |
-| Earthly Pleasures | 46.00% | ~96 |
+| Lobster Blisque | 48.00% | ~101 |
+| Pimp My Raid | 48.00% | ~101 |
+| Earthly Pleasures | 46.00% | ~97 |
 | Fly Me to the Moon Base | 44.00% | ~92 |
-| Ducks in a Row, Fish in a Barrel | 43.00% | ~90 |
-| Freshly Squeezed | 34.00% | ~71 |
+| Ducks in a Row, Fish in a Barrel | 42.00% | ~88 |
+| Freshly Squeezed | 35.00% | ~74 |
 | Bodied Sattva | 34.00% | ~71 |
 | Forbidden Donut | 32.00% | ~67 |
 | Upgreatest | 32.00% | ~67 |
-| Furon Fashion | 27.00% | ~56 |
-| Deincarnated | 25.00% | ~52 |
+| Furon Fashion | 27.00% | ~57 |
+| Deincarnated | 26.00% | ~55 |
 | Rock of the Bay | 23.00% | ~48 |
 | Trans-Siberian Express | 23.00% | ~48 |
 | Re-Return of the Clone of the Invasion II-2 | 19.00% | ~40 |
-| Ouch of Body Experience | 16.00% | ~33 |
-| Arkvoodle Doodle | 15.00% | ~31 |
+| Ouch of Body Experience | 16.00% | ~34 |
+| Arkvoodle Doodle | 15.00% | ~32 |
 | If You Know What I Mean | 14.00% | ~29 |
 | Mash Machine | 14.00% | ~29 |
 | Die Nasty | 13.00% | ~27 |
@@ -47,8 +47,8 @@ Number of Ratings: 85  (23.09.2022)
 | Steezy Down the Spine | 1.00% | ~2 |
 | Against All Odds | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209 (Ranked 418)  
-Completed: 2 (0.96%) (Ranked 175)  
+Progressed: 210 (Ranked 418)  
+Completed: 2 (0.95%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -63,7 +63,7 @@ Completed: 2 (0.96%) (Ranked 175)
 | 2023-12-26 | 176 | 2 |
 | 2023-12-27 | 188 | 2 |
 | 2023-12-28 | 206 | 2 |
-| 2023-12-29 | 209 | 2 |
+| 2023-12-29 | 210 | 2 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 501)  
 Sum: 34 (Ranked 525)  

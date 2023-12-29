@@ -6,7 +6,7 @@
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 134,
-  "Ranking_EOS_Completed": 271,
+  "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
@@ -3867,7 +3867,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32869,
+  "EOS_Progressed": 32871,
   "EOS_Completed": 70,
   "EOS_NewPlayers": 356,
   "EOS_NewCompleters": 1,
@@ -23812,6 +23812,11 @@
       "Time": "2023-12-29T04:08:45.6736524+00:00",
       "NumProgressed": 32869,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-29T05:09:01.2609112+00:00",
+      "NumProgressed": 32871,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 51,
@@ -23871,7 +23876,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "Collector",
@@ -23959,7 +23964,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "GB_In_Training",
@@ -24159,7 +24164,7 @@
       "Name": "Teamwork",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "Terrifying",
@@ -24207,7 +24212,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "Welcome_Crew",
@@ -24230,7 +24235,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32869,
+      "Progressed": 32871,
       "Completed": 70
     }
   ],
@@ -24238,8 +24243,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-28T19:01:02.9335204+00:00",
-  "LastChanged_Achievements": "2023-12-29T04:08:45.673652+00:00",
+  "LastChanged_Achievements": "2023-12-29T05:09:01.2609108+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.5748987+00:00",
-  "LastUpdate_Ratings": "2023-12-29T03:59:55.7435392+00:00",
-  "LastUpdate_Achievements": "2023-12-29T04:08:45.6737583+00:00"
+  "LastUpdate_Ratings": "2023-12-29T05:01:19.4378258+00:00",
+  "LastUpdate_Achievements": "2023-12-29T05:09:01.2610225+00:00"
 }

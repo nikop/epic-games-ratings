@@ -4,7 +4,7 @@
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
   "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
@@ -387,17 +387,17 @@
       "ID": "achievement_appearance_of_god_gleda",
       "SetID": "bngbnfb",
       "Name": "Theophany (Gleda)",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_appearance_of_god_philia",
       "SetID": "bngbnfb",
       "Name": "Theophany (Philia)",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_appearance_of_god_rit",
@@ -459,9 +459,9 @@
       "ID": "achievement_death_to_javelin",
       "SetID": "bngbnfb",
       "Name": "Death to the javelin thrower",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_drunk_lucky",
@@ -483,9 +483,9 @@
       "ID": "achievement_feng_is_my_choise",
       "SetID": "bngbnfb",
       "Name": "My name is Pheng",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_fidelity_to_the_clan",
@@ -715,9 +715,9 @@
       "ID": "achievement_thorn_is_my_choise",
       "SetID": "bngbnfb",
       "Name": "My name is Thorn",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_thrifty",
@@ -786,8 +786,8 @@
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2023-12-29T04:09:16.0765525+00:00",
+  "LastChanged_Achievements": "2023-12-29T05:09:43.8516458+00:00",
   "LastUpdate_AppInfo": "2023-12-27T14:57:14.899745+00:00",
-  "LastUpdate_Ratings": "2023-12-29T03:59:02.9359805+00:00",
-  "LastUpdate_Achievements": "2023-12-29T04:09:16.0765809+00:00"
+  "LastUpdate_Ratings": "2023-12-29T04:59:58.3509272+00:00",
+  "LastUpdate_Achievements": "2023-12-29T05:09:43.8516753+00:00"
 }

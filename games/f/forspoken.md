@@ -1,39 +1,39 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.12 (Ranked 994)  
+Rating: 4.11 (Ranked 995)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 11.00% | ~5,010 |
-| Unlocked Potential | 10.00% | ~4,554 |
+| Attachments | 11.00% | ~5,011 |
+| Unlocked Potential | 10.00% | ~4,556 |
 | Tinkerer | 8.00% | ~3,644 |
-| Leapfrogger | 7.00% | ~3,188 |
-| Knock 'Em Dead | 7.00% | ~3,188 |
-| Pilgrimage: Initiate | 7.00% | ~3,188 |
-| Hell of a Run | 7.00% | ~3,188 |
+| Leapfrogger | 7.00% | ~3,189 |
+| Knock 'Em Dead | 7.00% | ~3,189 |
+| Pilgrimage: Initiate | 7.00% | ~3,189 |
+| Hell of a Run | 7.00% | ~3,189 |
 | Call of the Fount: Baptized | 6.00% | ~2,733 |
-| Stuck | 5.00% | ~2,277 |
-| No Mercy | 5.00% | ~2,277 |
-| Explorer: Seeker | 5.00% | ~2,277 |
-| Help Me Out Here | 5.00% | ~2,277 |
+| Stuck | 5.00% | ~2,278 |
+| No Mercy | 5.00% | ~2,278 |
+| Explorer: Seeker | 5.00% | ~2,278 |
+| Help Me Out Here | 5.00% | ~2,278 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,822 |
-| Outdoorsperson | 3.00% | ~1,366 |
-| The Interloper | 3.00% | ~1,366 |
-| Hop, Step, Jump | 3.00% | ~1,366 |
-| Endless Runner | 3.00% | ~1,366 |
+| Outdoorsperson | 3.00% | ~1,367 |
+| The Interloper | 3.00% | ~1,367 |
+| Hop, Step, Jump | 3.00% | ~1,367 |
+| Endless Runner | 3.00% | ~1,367 |
 | What Must Be Done | 2.00% | ~911 |
 | Might and Main | 2.00% | ~911 |
 | Damned If You Do... | 2.00% | ~911 |
 | Explorer: Pathfinder | 2.00% | ~911 |
 | Shocker | 2.00% | ~911 |
 | From Every Angle | 2.00% | ~911 |
-| The Hue of Blue | 1.00% | ~455 |
-| The Truth Will Out | 1.00% | ~455 |
-| Breaking Point | 1.00% | ~455 |
-| None the Wiser | 1.00% | ~455 |
-| Forspoken | 1.00% | ~455 |
-| Pilgrimage: Novice | 1.00% | ~455 |
+| The Hue of Blue | 1.00% | ~456 |
+| The Truth Will Out | 1.00% | ~456 |
+| Breaking Point | 1.00% | ~456 |
+| None the Wiser | 1.00% | ~456 |
+| Forspoken | 1.00% | ~456 |
+| Pilgrimage: Novice | 1.00% | ~456 |
 | Wildfire | 0.70% | ~319 |
 | Realized Potential | 0.70% | ~319 |
 | Awakening | 0.60% | ~273 |
@@ -59,7 +59,7 @@ Rating: 4.12 (Ranked 994)
 | Remembrance | 0.10% | ~46 |
 | Cat Person | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,544 (Ranked 122)  
+Progressed: 45,555 (Ranked 122)  
 Completed: 3 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 3 (0.01%) (Ranked 367)
 | 2023-12-26 | 45,329 | 3 |
 | 2023-12-27 | 45,433 | 3 |
 | 2023-12-28 | 45,528 | 3 |
-| 2023-12-29 | 45,544 | 3 |
+| 2023-12-29 | 45,555 | 3 |
 ## Awards
 Max (Character Customization): 33  (Ranked 506)  
 Sum: 33 (Ranked 529)  
@@ -412,3 +412,4 @@ Diff (max vs sum): -23
 | 2023-12-21 | 4.11 | 33 | 33 |
 | 2023-12-23 | 4.10 | 33 | 33 |
 | 2023-12-26 | 4.12 | 33 | 33 |
+| 2023-12-29 | 4.11 | 33 | 33 |

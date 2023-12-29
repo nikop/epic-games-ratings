@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221,
+  "EOS_Progressed": 222,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1004,6 +1004,11 @@
       "Time": "2023-12-29T04:08:29.9532553+00:00",
       "NumProgressed": 221,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T05:08:40.6335346+00:00",
+      "NumProgressed": 222,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1014,9 +1019,9 @@
       "ID": "a_new_way",
       "SetID": "f2im8d",
       "Name": "A new way",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "another_perspective",
@@ -1054,9 +1059,9 @@
       "ID": "collect_items_mother",
       "SetID": "f2im8d",
       "Name": "Something to think about",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "collect_most_of_memories",
@@ -1094,9 +1099,9 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 113
     },
     {
       "ID": "decrypt_one_myth",
@@ -1120,7 +1125,7 @@
       "Name": "Refuse to look",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "do_what_you_have_to",
@@ -1128,7 +1133,7 @@
       "Name": "Do what you have to",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "earn_all_trophies",
@@ -1166,9 +1171,9 @@
       "ID": "find_one_memento",
       "SetID": "f2im8d",
       "Name": "Scraps of love",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 102
     },
     {
       "ID": "find_one_photo",
@@ -1192,7 +1197,7 @@
       "Name": "The artist\u2019s impression",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "finished_it",
@@ -1286,9 +1291,9 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 131
     },
     {
       "ID": "playtime",
@@ -1344,15 +1349,15 @@
       "Name": "Sign of weakness",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 184
     },
     {
       "ID": "spy_one_item",
@@ -1400,7 +1405,7 @@
       "Name": "True Reflection",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "view_most_of_photos",
@@ -1431,14 +1436,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 221,
+      "Progressed": 222,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-29T04:08:29.9532549+00:00",
+  "LastChanged_Achievements": "2023-12-29T05:08:40.6335344+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:25.6985759+00:00",
-  "LastUpdate_Ratings": "2023-12-29T03:59:18.4101155+00:00",
-  "LastUpdate_Achievements": "2023-12-29T04:08:29.9532982+00:00"
+  "LastUpdate_Ratings": "2023-12-29T05:00:21.1568037+00:00",
+  "LastUpdate_Achievements": "2023-12-29T05:08:40.6335682+00:00"
 }

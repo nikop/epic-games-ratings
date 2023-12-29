@@ -5,16 +5,16 @@ Rating: 4.27 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,896 |
-| Don't I Know You...? | 76.00% | ~1,824 |
-| Jailbreak | 65.00% | ~1,560 |
-| HEADSHOT! | 38.00% | ~912 |
+| Rigged And Ready | 79.00% | ~1,897 |
+| Don't I Know You...? | 76.00% | ~1,825 |
+| Jailbreak | 65.00% | ~1,561 |
 | Suited and Booted | 38.00% | ~912 |
+| HEADSHOT! | 37.00% | ~888 |
 | Sleeping With The Fishes | 35.00% | ~840 |
 | Overheated | 30.00% | ~720 |
 | High Performance | 30.00% | ~720 |
 | Powered Up | 28.00% | ~672 |
-| Studied The Blade | 25.00% | ~600 |
+| Studied The Blade | 24.00% | ~576 |
 | Home Invasion | 23.00% | ~552 |
 | Luminary | 22.00% | ~528 |
 | It's a Trap | 22.00% | ~528 |
@@ -42,10 +42,10 @@ Rating: 4.27 (Ranked 890)
 | Following In Their Footsteps | 8.00% | ~192 |
 | Defense in Depth | 8.00% | ~192 |
 | Reverse Engineering | 7.00% | ~168 |
-| Reborn | 6.00% | ~144 |
 | Remote Surgery | 6.00% | ~144 |
 | Turbo Booster | 6.00% | ~144 |
 | Squid Pro Quo | 6.00% | ~144 |
+| Reborn | 5.00% | ~120 |
 | Hello Darkness My Old Friend | 5.00% | ~120 |
 | Counter-Sniper | 5.00% | ~120 |
 | Shrimp Cocktail | 5.00% | ~120 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 890)
 | Three Birds With One Stone | 1.00% | ~24 |
 | The Easy Way Out | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,400 (Ranked 230)  
+Progressed: 2,401 (Ranked 230)  
 Completed: 13 (0.54%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 13 (0.54%) (Ranked 210)
 | 2023-12-26 | 2,379 | 13 |
 | 2023-12-27 | 2,388 | 13 |
 | 2023-12-28 | 2,397 | 13 |
-| 2023-12-29 | 2,400 | 13 |
+| 2023-12-29 | 2,401 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,30 +6,30 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~12,698 |
-| Battering Crew | 19.00% | ~6,032 |
-| The Kingsroad | 18.00% | ~5,714 |
-| Well Stocked | 13.00% | ~4,127 |
-| Royal Fleet | 13.00% | ~4,127 |
-| The Kraken’s Grasp | 9.00% | ~2,857 |
+| Conqueror | 40.00% | ~12,700 |
+| Battering Crew | 19.00% | ~6,033 |
+| The Kingsroad | 18.00% | ~5,715 |
+| Well Stocked | 13.00% | ~4,128 |
+| Royal Fleet | 13.00% | ~4,128 |
+| The Kraken’s Grasp | 9.00% | ~2,858 |
 | Daggers in the Dark | 8.00% | ~2,540 |
 | Alliance | 8.00% | ~2,540 |
-| Winter is Coming | 7.00% | ~2,222 |
-| Oathkeeper | 7.00% | ~2,222 |
-| Influential | 7.00% | ~2,222 |
-| A Long Journey | 7.00% | ~2,222 |
+| Winter is Coming | 7.00% | ~2,223 |
+| Oathkeeper | 7.00% | ~2,223 |
+| Influential | 7.00% | ~2,223 |
+| A Long Journey | 7.00% | ~2,223 |
 | Ours is the Fury | 6.00% | ~1,905 |
 | We Do Not Sow | 6.00% | ~1,905 |
 | Defender of the Wall | 6.00% | ~1,905 |
-| Unbowed, Unbent, Unbroken | 5.00% | ~1,587 |
-| Growing Strong | 5.00% | ~1,587 |
-| Hear me Roar! | 5.00% | ~1,587 |
-| What is Dead may Never Die | 3.00% | ~952 |
-| The Swift | 3.00% | ~952 |
+| Unbowed, Unbent, Unbroken | 5.00% | ~1,588 |
+| Growing Strong | 5.00% | ~1,588 |
+| Hear me Roar! | 5.00% | ~1,588 |
+| What is Dead may Never Die | 3.00% | ~953 |
+| The Swift | 3.00% | ~953 |
 | King in the North | 2.00% | ~635 |
-| War of the Five Kings | 1.00% | ~317 |
+| War of the Five Kings | 1.00% | ~318 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,745 (Ranked 135)  
+Progressed: 31,751 (Ranked 135)  
 Completed: 85 (0.27%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,17 +282,17 @@ Completed: 85 (0.27%) (Ranked 258)
 | 2023-12-26 | 31,513 | 85 |
 | 2023-12-27 | 31,616 | 85 |
 | 2023-12-28 | 31,717 | 85 |
-| 2023-12-29 | 31,745 | 85 |
+| 2023-12-29 | 31,751 | 85 |
 ## Awards
 Max (Quickly Understood Controls): 127  (Ranked 344)  
-Sum: 805 (Ranked 286)  
+Sum: 806 (Ranked 286)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 127 |
 | This game is Extremely Fun | 112 |
 | This game is Highly Recommended | 112 |
-| This game has Competitive Players | 100 |
+| This game has Competitive Players | 101 |
 | This game is Relaxing | 98 |
 | This game has Amazing Storytelling | 93 |
 | This game has Amazing Characters | 88 |
@@ -399,3 +399,4 @@ Diff (max vs sum): 58
 | 2023-12-23 | 4.20 | - | 127 | 804 |
 | 2023-12-25 | 4.20 | - | 127 | 805 |
 | 2023-12-26 | 4.21 | - | 127 | 805 |
+| 2023-12-29 | 4.21 | - | 127 | 806 |

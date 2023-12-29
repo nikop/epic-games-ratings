@@ -449,9 +449,9 @@
       "Count": 73
     }
   ],
-  "EOS_Progressed": 337121,
+  "EOS_Progressed": 337137,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 4364,
+  "EOS_NewPlayers": 4365,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11359,6 +11359,11 @@
       "Time": "2023-12-29T04:08:45.5230258+00:00",
       "NumProgressed": 337121,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-29T05:09:01.141312+00:00",
+      "NumProgressed": 337137,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -11451,7 +11456,7 @@
       "Name": "This is the end",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "S12_ALL",
@@ -11459,7 +11464,7 @@
       "Name": "We can choose to fight",
       "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "S13_ALL_HARD",
@@ -11675,7 +11680,7 @@
       "Name": "I took a risk",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "S40_BONUS",
@@ -11690,7 +11695,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 337121,
+      "Progressed": 337137,
       "Completed": 7
     }
   ],
@@ -11698,8 +11703,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-26T17:02:24.775583+00:00",
-  "LastChanged_Achievements": "2023-12-29T04:08:45.5230254+00:00",
+  "LastChanged_Achievements": "2023-12-29T05:09:01.1413116+00:00",
   "LastUpdate_AppInfo": "2023-12-28T22:56:57.7073923+00:00",
-  "LastUpdate_Ratings": "2023-12-29T03:58:13.7222066+00:00",
-  "LastUpdate_Achievements": "2023-12-29T04:08:45.5231165+00:00"
+  "LastUpdate_Ratings": "2023-12-29T04:58:44.1938686+00:00",
+  "LastUpdate_Achievements": "2023-12-29T05:09:01.1413708+00:00"
 }

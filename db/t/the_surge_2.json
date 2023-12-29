@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2400,
+  "EOS_Progressed": 2401,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -3994,6 +3994,11 @@
       "Time": "2023-12-29T04:05:45.6568802+00:00",
       "NumProgressed": 2400,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-29T05:07:28.3094846+00:00",
+      "NumProgressed": 2401,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4013,7 +4018,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     },
     {
       "ID": "ACHV_03",
@@ -4035,9 +4040,9 @@
       "ID": "ACHV_05",
       "SetID": "8p5mlmc",
       "Name": "Studied The Blade",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 600
+      "UsersEstimate": 576
     },
     {
       "ID": "ACHV_06",
@@ -4107,9 +4112,9 @@
       "ID": "ACHV_14",
       "SetID": "8p5mlmc",
       "Name": "Reborn",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 120
     },
     {
       "ID": "ACHV_15",
@@ -4179,9 +4184,9 @@
       "ID": "ACHV_23",
       "SetID": "8p5mlmc",
       "Name": "HEADSHOT!",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 912
+      "UsersEstimate": 888
     },
     {
       "ID": "ACHV_24",
@@ -4205,7 +4210,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1896
+      "UsersEstimate": 1897
     },
     {
       "ID": "ACHV_27",
@@ -4309,7 +4314,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "ACHV_40",
@@ -4460,7 +4465,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2400,
+      "Progressed": 2401,
       "Completed": 13
     }
   ],
@@ -4468,8 +4473,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-29T03:00:05.8444174+00:00",
-  "LastChanged_Achievements": "2023-12-29T04:05:45.6568799+00:00",
+  "LastChanged_Achievements": "2023-12-29T05:07:28.3094841+00:00",
   "LastUpdate_AppInfo": "2023-12-23T16:57:13.3130714+00:00",
-  "LastUpdate_Ratings": "2023-12-29T04:00:12.7508398+00:00",
-  "LastUpdate_Achievements": "2023-12-29T04:05:45.6569286+00:00"
+  "LastUpdate_Ratings": "2023-12-29T05:01:44.9710859+00:00",
+  "LastUpdate_Achievements": "2023-12-29T05:07:28.3095455+00:00"
 }

@@ -203,9 +203,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 8432,
+  "EOS_Progressed": 8438,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2302,
+  "EOS_NewPlayers": 2296,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2793,6 +2793,11 @@
       "Time": "2023-12-29T04:09:51.564533+00:00",
       "NumProgressed": 8432,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T05:10:32.5501863+00:00",
+      "NumProgressed": 8438,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -2819,9 +2824,9 @@
       "ID": "04_TheTradeEmpire",
       "SetID": "37a94m8",
       "Name": "Trade Empire",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -2923,17 +2928,17 @@
       "ID": "17_TheExemplar",
       "SetID": "37a94m8",
       "Name": "Exemplar",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "18_TheRookieSkipper",
       "SetID": "37a94m8",
       "Name": "Rookie Skipper",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 42
     },
     {
       "ID": "19_TheVoidWolf",
@@ -2963,9 +2968,9 @@
       "ID": "22_PerfectTiming",
       "SetID": "37a94m8",
       "Name": "Perfect Timing",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 34
     },
     {
       "ID": "23_DynastyRestored",
@@ -3027,9 +3032,9 @@
       "ID": "30_The GreatestExploration",
       "SetID": "37a94m8",
       "Name": "Greatest Exploration",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 25
     },
     {
       "ID": "31_DontTouchThis",
@@ -3115,9 +3120,9 @@
       "ID": "41_TheJungleHeat",
       "SetID": "37a94m8",
       "Name": "Jungle Heat",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 25
     },
     {
       "ID": "42_TheIronJudgement",
@@ -3267,17 +3272,17 @@
       "ID": "60_NotSoBottomlessPit",
       "SetID": "37a94m8",
       "Name": "The Not-So-Bottomless Pit",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "61_TheScourge",
       "SetID": "37a94m8",
       "Name": "Sweet Perdition",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "62_TheInvisibleBureaucracy",
@@ -3324,7 +3329,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8432,
+      "Progressed": 8438,
       "Completed": 0
     }
   ],
@@ -3332,8 +3337,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-28T13:57:33.384002+00:00",
-  "LastChanged_Achievements": "2023-12-29T04:09:51.5645326+00:00",
+  "LastChanged_Achievements": "2023-12-29T05:10:32.5501858+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-29T03:57:53.1342637+00:00",
-  "LastUpdate_Achievements": "2023-12-29T04:09:51.564584+00:00"
+  "LastUpdate_Ratings": "2023-12-29T04:58:13.7430118+00:00",
+  "LastUpdate_Achievements": "2023-12-29T05:10:32.5502379+00:00"
 }

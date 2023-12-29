@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1335,
+  "EOS_Progressed": 1336,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.62,
   "EosHistory": [
@@ -4604,6 +4604,11 @@
       "Time": "2023-12-29T04:04:01.3782765+00:00",
       "NumProgressed": 1335,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-29T05:05:03.3142278+00:00",
+      "NumProgressed": 1336,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4614,9 +4619,9 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 360
+      "UsersEstimate": 347
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -4648,7 +4653,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -4736,7 +4741,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -4752,7 +4757,7 @@
       "Name": "Fully Decked",
       "Percentage": 7,
       "XP": 125,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -4823,7 +4828,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1335,
+      "Progressed": 1336,
       "Completed": 35
     }
   ],
@@ -4831,8 +4836,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2023-12-29T04:04:01.3782763+00:00",
+  "LastChanged_Achievements": "2023-12-29T05:05:03.3142273+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-29T03:58:40.6306549+00:00",
-  "LastUpdate_Achievements": "2023-12-29T04:04:01.3783044+00:00"
+  "LastUpdate_Ratings": "2023-12-29T04:59:24.7345776+00:00",
+  "LastUpdate_Achievements": "2023-12-29T05:05:03.314257+00:00"
 }

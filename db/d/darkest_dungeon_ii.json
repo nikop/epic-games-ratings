@@ -10266,9 +10266,9 @@
       "Count": 1064
     }
   ],
-  "EOS_Progressed": 130458,
+  "EOS_Progressed": 130466,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1433,
+  "EOS_NewPlayers": 1434,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37296,6 +37296,11 @@
       "Time": "2023-12-29T04:09:33.9843355+00:00",
       "NumProgressed": 130458,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T05:10:08.5434046+00:00",
+      "NumProgressed": 130466,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37307,7 +37312,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5218
+      "UsersEstimate": 5219
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -37315,7 +37320,7 @@
       "Name": "Serenity Now!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5218
+      "UsersEstimate": 5219
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -37459,7 +37464,7 @@
       "Name": "Not Today!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5218
+      "UsersEstimate": 5219
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -37467,7 +37472,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5218
+      "UsersEstimate": 5219
     },
     {
       "ID": "combat_kill_fanatics",
@@ -37507,7 +37512,7 @@
       "Name": "Meat and Greet",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5218
+      "UsersEstimate": 5219
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -37523,7 +37528,7 @@
       "Name": "Catch and Decease",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5218
+      "UsersEstimate": 5219
     },
     {
       "ID": "combat_kill_librarian",
@@ -37547,7 +37552,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5218
+      "UsersEstimate": 5219
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -37603,7 +37608,7 @@
       "Name": "Rush Hour",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5218
+      "UsersEstimate": 5219
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -37627,7 +37632,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5218
+      "UsersEstimate": 5219
     },
     {
       "ID": "driving_distance_easy",
@@ -37659,7 +37664,7 @@
       "Name": "Autodidact",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7827
+      "UsersEstimate": 7828
     },
     {
       "ID": "hero_story_complete_all",
@@ -37715,7 +37720,7 @@
       "Name": "FNG",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5218
+      "UsersEstimate": 5219
     },
     {
       "ID": "inn_visit_all_variants",
@@ -37843,7 +37848,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "combat_kill_collector",
@@ -37851,7 +37856,7 @@
       "Name": "This guy... again?",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -37891,7 +37896,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -37899,7 +37904,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "quest_complete_crusader",
@@ -37938,21 +37943,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130458,
+      "Progressed": 130466,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5327,
+      "Progressed": 5335,
       "Completed": 813
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-29T02:59:55.0672824+00:00",
-  "LastChanged_Achievements": "2023-12-29T04:09:33.9843351+00:00",
+  "LastChanged_Achievements": "2023-12-29T05:10:08.5434041+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-29T04:00:01.5753372+00:00",
-  "LastUpdate_Achievements": "2023-12-29T04:09:33.9845118+00:00"
+  "LastUpdate_Ratings": "2023-12-29T05:01:28.3200128+00:00",
+  "LastUpdate_Achievements": "2023-12-29T05:10:08.5436294+00:00"
 }

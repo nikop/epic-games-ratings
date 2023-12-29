@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4320,
+  "EOS_Progressed": 4321,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -7226,6 +7226,11 @@
       "Time": "2023-12-29T02:19:37.0670271+00:00",
       "NumProgressed": 4320,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-29T05:05:06.9649347+00:00",
+      "NumProgressed": 4321,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7277,7 +7282,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1771
+      "UsersEstimate": 1772
     },
     {
       "ID": "CrowdPleaser",
@@ -7379,9 +7384,9 @@
       "ID": "MagicIsaScience_58",
       "SetID": "c4hee28",
       "Name": "Magic is a science",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 302
     },
     {
       "ID": "MasterofAurai_20",
@@ -7429,7 +7434,7 @@
       "Name": "Ready for Winter",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2678
+      "UsersEstimate": 2679
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -7437,7 +7442,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -7493,7 +7498,7 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -7572,15 +7577,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4320,
+      "Progressed": 4321,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-29T04:04:03.9734729+00:00",
+  "LastChanged_Achievements": "2023-12-29T05:05:06.9649343+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.9488093+00:00",
-  "LastUpdate_Ratings": "2023-12-29T04:02:53.6029528+00:00",
-  "LastUpdate_Achievements": "2023-12-29T04:04:03.9735299+00:00"
+  "LastUpdate_Ratings": "2023-12-29T05:03:24.7972386+00:00",
+  "LastUpdate_Achievements": "2023-12-29T05:05:06.9649881+00:00"
 }

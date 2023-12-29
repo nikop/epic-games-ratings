@@ -1536,9 +1536,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27047,
+  "EOS_Progressed": 27051,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 912,
+  "EOS_NewPlayers": 906,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -12231,6 +12231,11 @@
       "Time": "2023-12-29T04:09:54.2808105+00:00",
       "NumProgressed": 27047,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-29T05:10:36.0957721+00:00",
+      "NumProgressed": 27051,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -12354,7 +12359,7 @@
       "Name": "King and Kin",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -12370,7 +12375,7 @@
       "Name": "Harvest and Home",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -12498,7 +12503,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "RogueMode",
@@ -12553,21 +12558,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27047,
+      "Progressed": 27051,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 5977,
+      "Progressed": 5981,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-28T14:58:47.4806597+00:00",
-  "LastChanged_Achievements": "2023-12-29T04:09:54.2808102+00:00",
+  "LastChanged_Achievements": "2023-12-29T05:10:36.0957716+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.6659711+00:00",
-  "LastUpdate_Ratings": "2023-12-29T03:59:03.247226+00:00",
-  "LastUpdate_Achievements": "2023-12-29T04:09:54.2808757+00:00"
+  "LastUpdate_Ratings": "2023-12-29T04:59:58.9099657+00:00",
+  "LastUpdate_Achievements": "2023-12-29T05:10:36.0958764+00:00"
 }

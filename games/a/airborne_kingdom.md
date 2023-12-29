@@ -13,8 +13,8 @@ Number of Ratings: 74  (23.09.2022)
 | Settling the Skies | 41.00% | ~3,155 |
 | Wind Powered | 40.00% | ~3,078 |
 | It Takes a Village | 34.00% | ~2,616 |
-| On the Town | 28.00% | ~2,154 |
-| Daylight Found | 26.00% | ~2,000 |
+| On the Town | 28.00% | ~2,155 |
+| Daylight Found | 26.00% | ~2,001 |
 | Irons Scorched | 25.00% | ~1,924 |
 | Islands Connected | 25.00% | ~1,924 |
 | Harp Tuned | 23.00% | ~1,770 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~154 |
 | A True Challenge | 2.00% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,694 (Ranked 189)  
+Progressed: 7,695 (Ranked 189)  
 Completed: 59 (0.77%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 59 (0.77%) (Ranked 190)
 | 2023-12-26 | 7,681 | 58 |
 | 2023-12-27 | 7,688 | 58 |
 | 2023-12-28 | 7,692 | 59 |
-| 2023-12-29 | 7,694 | 59 |
+| 2023-12-29 | 7,695 | 59 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

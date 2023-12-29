@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 427,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -997,9 +997,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4218,
+  "EOS_Progressed": 4219,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7942,6 +7942,11 @@
       "Time": "2023-12-29T04:04:00.5481284+00:00",
       "NumProgressed": 4218,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T05:05:02.2088337+00:00",
+      "NumProgressed": 4219,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -7970,7 +7975,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "achievement_12",
@@ -7978,7 +7983,7 @@
       "Name": "Stud Finder",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 1687
+      "UsersEstimate": 1688
     },
     {
       "ID": "achievement_13",
@@ -8121,7 +8126,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4218,
+      "Progressed": 4219,
       "Completed": 0
     }
   ],
@@ -8129,8 +8134,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-28T15:58:42.1942443+00:00",
-  "LastChanged_Achievements": "2023-12-29T04:04:00.5481281+00:00",
+  "LastChanged_Achievements": "2023-12-29T05:05:02.2088333+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:10.6313253+00:00",
-  "LastUpdate_Ratings": "2023-12-29T03:58:39.7903806+00:00",
-  "LastUpdate_Achievements": "2023-12-29T04:04:00.5481636+00:00"
+  "LastUpdate_Ratings": "2023-12-29T04:59:23.5876316+00:00",
+  "LastUpdate_Achievements": "2023-12-29T05:05:02.2088821+00:00"
 }

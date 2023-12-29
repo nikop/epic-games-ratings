@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3930,
+  "EOS_Progressed": 3931,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -5207,6 +5207,11 @@
       "Time": "2023-12-29T03:05:37.4358334+00:00",
       "NumProgressed": 3930,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-29T05:07:19.4913133+00:00",
+      "NumProgressed": 3931,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5266,7 +5271,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3419
+      "UsersEstimate": 3420
     },
     {
       "ID": "campaign10",
@@ -5346,7 +5351,7 @@
       "Name": "An Ally in Need",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "campaign2",
@@ -5362,7 +5367,7 @@
       "Name": "For the Queen",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "campaign3",
@@ -5402,15 +5407,15 @@
       "Name": "Maestro",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "campaign8",
       "SetID": "2h56gn1",
       "Name": "Held Back by the Roots",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 472
+      "UsersEstimate": 432
     },
     {
       "ID": "campaign9",
@@ -5434,7 +5439,7 @@
       "Name": "Full Employment",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "scenario3",
@@ -5442,7 +5447,7 @@
       "Name": "Not a Drop Wasted",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "scenario4",
@@ -5458,7 +5463,7 @@
       "Name": "We Have the Technology",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "scenario6",
@@ -5481,7 +5486,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3930,
+      "Progressed": 3931,
       "Completed": 11
     }
   ],
@@ -5489,8 +5494,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-12-29T04:05:39.1156661+00:00",
+  "LastChanged_Achievements": "2023-12-29T05:07:19.4913127+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:09.0478808+00:00",
-  "LastUpdate_Ratings": "2023-12-29T03:58:38.2268809+00:00",
-  "LastUpdate_Achievements": "2023-12-29T04:05:39.1157025+00:00"
+  "LastUpdate_Ratings": "2023-12-29T04:59:21.1828243+00:00",
+  "LastUpdate_Achievements": "2023-12-29T05:07:19.4913919+00:00"
 }

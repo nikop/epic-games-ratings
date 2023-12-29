@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mathematic | 87.00% | ~174 |
-| Digging a Hole | 77.00% | ~154 |
-| It's Yours, My Friend | 75.00% | ~150 |
-| Conducted Trade | 67.00% | ~134 |
-| Going Places | 66.00% | ~132 |
-| Aristocratic | 64.00% | ~128 |
-| Tutti Frutti | 57.00% | ~114 |
-| Gotta Go Fast | 45.00% | ~90 |
-| Slotting Machine | 45.00% | ~90 |
-| Systematic | 44.00% | ~88 |
-| Mine Sweeper | 40.00% | ~80 |
-| Roll Out | 38.00% | ~76 |
-| Dopa-Miner | 32.00% | ~64 |
-| Up, Up And Away! | 31.00% | ~62 |
-| Whoa! | 31.00% | ~62 |
-| Botropolis | 26.00% | ~52 |
-| Manic Mechanic | 20.00% | ~40 |
-| Steam Powered | 19.00% | ~38 |
+| Mathematic | 87.00% | ~176 |
+| Digging a Hole | 77.00% | ~156 |
+| It's Yours, My Friend | 74.00% | ~149 |
+| Conducted Trade | 67.00% | ~135 |
+| Going Places | 65.00% | ~131 |
+| Aristocratic | 63.00% | ~127 |
+| Tutti Frutti | 57.00% | ~115 |
+| Gotta Go Fast | 45.00% | ~91 |
+| Slotting Machine | 44.00% | ~89 |
+| Systematic | 44.00% | ~89 |
+| Mine Sweeper | 40.00% | ~81 |
+| Roll Out | 37.00% | ~75 |
+| Dopa-Miner | 31.00% | ~63 |
+| Up, Up And Away! | 31.00% | ~63 |
+| Whoa! | 30.00% | ~61 |
+| Botropolis | 25.00% | ~50 |
+| Manic Mechanic | 19.00% | ~38 |
+| Steam Powered | 18.00% | ~36 |
 | Steaming Rich | 18.00% | ~36 |
 | Room To Spare | 14.00% | ~28 |
-| Stack Overflow | 5.00% | ~10 |
 | Click 'Em All | 4.00% | ~8 |
 | Real Purdy | 4.00% | ~8 |
-| Accustomed Customer | 3.00% | ~6 |
+| Stack Overflow | 4.00% | ~8 |
+| Accustomed Customer | 2.00% | ~4 |
 | Interstellar Performance | 2.00% | ~4 |
 | I'm A Lumberbot | 0.50% | ~1 |
 | Yup. | 0.50% | ~1 |
 | Nothing But Road | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200 (Ranked 420)  
+Progressed: 202 (Ranked 420)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,3 +64,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 191 | 0 |
 | 2023-12-27 | 198 | 0 |
 | 2023-12-28 | 200 | 0 |
+| 2023-12-29 | 202 | 0 |

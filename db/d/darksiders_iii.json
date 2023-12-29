@@ -452,7 +452,7 @@
   ],
   "EOS_Progressed": 271,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1173,9 +1173,9 @@
       "ID": "Collect_Artifact_EpicShard",
       "SetID": "7a5k76n",
       "Name": "One Of the Chosen",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 117
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
@@ -1213,9 +1213,9 @@
       "ID": "Collect_Hollow_Flame",
       "SetID": "7a5k76n",
       "Name": "Fight Fire with Fire",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 163
     },
     {
       "ID": "Collect_Hollow_Force",
@@ -1581,9 +1581,9 @@
       "ID": "Spend_AttributePoint_1",
       "SetID": "7a5k76n",
       "Name": "First of many\u2026",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 190
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -1645,8 +1645,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-27T15:59:03.0058269+00:00",
-  "LastChanged_Achievements": "2023-12-29T04:03:37.804968+00:00",
+  "LastChanged_Achievements": "2023-12-29T05:04:30.9305076+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:27.1633457+00:00",
-  "LastUpdate_Ratings": "2023-12-29T03:59:05.5450113+00:00",
-  "LastUpdate_Achievements": "2023-12-29T04:03:37.8050123+00:00"
+  "LastUpdate_Ratings": "2023-12-29T05:00:01.9877409+00:00",
+  "LastUpdate_Achievements": "2023-12-29T05:04:30.9305516+00:00"
 }

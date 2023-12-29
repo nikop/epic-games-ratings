@@ -2,7 +2,7 @@
   "ID": "5e09944aaced4155ac9463196b5deada",
   "Name": "Astalon -Tears of the Earth-",
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
-  "Ranking_EOS_Progress": 507,
+  "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 92,
   "Ranking_EOS_NewPlayers": 460,
   "Ranking_EOS_NewCompleters": 150,
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 77,
+  "EOS_Progressed": 78,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.9,
+  "EOS_Completed_Percentage": 3.85,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:01.3708206+00:00",
@@ -169,6 +169,11 @@
       "Time": "2023-12-28T02:23:52.6178316+00:00",
       "NumProgressed": 77,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T05:06:40.4127845+00:00",
+      "NumProgressed": 78,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 30,
@@ -194,7 +199,7 @@
       "ID": "Beat_Game_100",
       "SetID": "4f0g260",
       "Name": "God of the Tower!",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 100,
       "UsersEstimate": 19
     },
@@ -250,7 +255,7 @@
       "ID": "Buy_All_Kyuli_Character_Deals",
       "SetID": "4f0g260",
       "Name": "Rogue Mastery",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 12
     },
@@ -290,7 +295,7 @@
       "ID": "Complete_Bestiary_20",
       "SetID": "4f0g260",
       "Name": "Beast Quest",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
       "UsersEstimate": 29
     },
@@ -306,7 +311,7 @@
       "ID": "Complete_Bestiary_80",
       "SetID": "4f0g260",
       "Name": "Beast Knight",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 40,
       "UsersEstimate": 22
     },
@@ -330,7 +335,7 @@
       "ID": "Defeat_Gemini",
       "SetID": "4f0g260",
       "Name": "Twin slayer!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 23
     },
@@ -354,7 +359,7 @@
       "ID": "Defeat_Tauros",
       "SetID": "4f0g260",
       "Name": "Horn prize!",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
       "UsersEstimate": 39
     },
@@ -386,7 +391,7 @@
       "ID": "Get_100_Map_Completion",
       "SetID": "4f0g260",
       "Name": "Cartographer",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 40,
       "UsersEstimate": 19
     },
@@ -402,7 +407,7 @@
       "ID": "Unlock_Bram",
       "SetID": "4f0g260",
       "Name": "Mercenary!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 23
     },
@@ -419,7 +424,7 @@
     {
       "ID": "4f0g260",
       "IsBase": true,
-      "Progressed": 77,
+      "Progressed": 78,
       "Completed": 3
     }
   ],
@@ -427,8 +432,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-12-29T04:05:10.8913952+00:00",
+  "LastChanged_Achievements": "2023-12-29T05:06:40.412784+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:16.0426676+00:00",
-  "LastUpdate_Ratings": "2023-12-29T03:57:25.5858117+00:00",
-  "LastUpdate_Achievements": "2023-12-29T04:05:10.8914128+00:00"
+  "LastUpdate_Ratings": "2023-12-29T04:57:32.4757139+00:00",
+  "LastUpdate_Achievements": "2023-12-29T05:06:40.4128024+00:00"
 }

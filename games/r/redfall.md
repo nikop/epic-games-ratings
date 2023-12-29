@@ -41,8 +41,8 @@ Rating: 3.59 (Ranked 1,077)
 | Nice Try | 1.00% | ~21 |
 | Blacklight Down | 1.00% | ~21 |
 | Curious Finch | 1.00% | ~21 |
+| Right This Way | 0.80% | ~17 |
 | Bloody Initiate | 0.70% | ~15 |
-| Right This Way | 0.70% | ~15 |
 | Empty Nest Syndrome | 0.60% | ~13 |
 | Dexterity Save | 0.60% | ~13 |
 | Neighborhood Watch | 0.50% | ~11 |
@@ -72,7 +72,7 @@ Rating: 3.59 (Ranked 1,077)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,138 (Ranked 237)  
+Progressed: 2,139 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 2,087 | 0 |
 | 2023-12-27 | 2,113 | 0 |
 | 2023-12-28 | 2,135 | 0 |
-| 2023-12-29 | 2,138 | 0 |
+| 2023-12-29 | 2,139 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 569)  
 Sum: 20 (Ranked 570)  

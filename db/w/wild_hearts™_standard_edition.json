@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 971,
+  "EOS_Progressed": 972,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -3238,6 +3238,11 @@
       "Time": "2023-12-29T04:09:22.8681965+00:00",
       "NumProgressed": 971,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-29T05:09:52.8969054+00:00",
+      "NumProgressed": 972,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -3248,9 +3253,9 @@
       "ID": "achievement_1",
       "SetID": "2cpn27e",
       "Name": "Land of the Rising Sun",
-      "Percentage": 100,
+      "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 971
+      "UsersEstimate": 962
     },
     {
       "ID": "achievement_10",
@@ -3306,7 +3311,7 @@
       "Name": "Distance Devourer",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "achievement_17",
@@ -3314,7 +3319,7 @@
       "Name": "Master of the Skies",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "achievement_18",
@@ -3322,7 +3327,7 @@
       "Name": "Man-Machine Master",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "achievement_19",
@@ -3338,7 +3343,7 @@
       "Name": "Mountain Splitter",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "achievement_20",
@@ -3346,7 +3351,7 @@
       "Name": "Subsistence Skills",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "achievement_21",
@@ -3360,9 +3365,9 @@
       "ID": "achievement_22",
       "SetID": "2cpn27e",
       "Name": "Kemono Hunter",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 389
     },
     {
       "ID": "achievement_23",
@@ -3378,7 +3383,7 @@
       "Name": "Single Minded",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "achievement_25",
@@ -3410,7 +3415,7 @@
       "Name": "Flawless Crystal",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "achievement_29",
@@ -3418,7 +3423,7 @@
       "Name": "Fair Means or Foul",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "achievement_3",
@@ -3458,7 +3463,7 @@
       "Name": "Human Believer",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "achievement_34",
@@ -3488,9 +3493,9 @@
       "ID": "achievement_37",
       "SetID": "2cpn27e",
       "Name": "Hidden History",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 689
+      "UsersEstimate": 680
     },
     {
       "ID": "achievement_38",
@@ -3546,7 +3551,7 @@
       "Name": "Team Hunter",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "achievement_44",
@@ -3570,7 +3575,7 @@
       "Name": "Charmed by the Hunt",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "achievement_47",
@@ -3602,7 +3607,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "achievement_7",
@@ -3633,13 +3638,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 971,
+      "Progressed": 972,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-29T04:09:22.868196+00:00",
+  "LastChanged_Achievements": "2023-12-29T05:09:52.8969047+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:00.2404368+00:00",
-  "LastUpdate_Ratings": "2023-12-29T03:57:45.9196976+00:00",
-  "LastUpdate_Achievements": "2023-12-29T04:09:22.8682363+00:00"
+  "LastUpdate_Ratings": "2023-12-29T04:58:02.9107203+00:00",
+  "LastUpdate_Achievements": "2023-12-29T05:09:52.8969658+00:00"
 }
