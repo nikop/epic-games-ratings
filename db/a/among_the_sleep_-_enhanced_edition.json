@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 97132,
+  "EOS_Progressed": 97139,
   "EOS_Completed": 447,
-  "EOS_NewPlayers": 880,
+  "EOS_NewPlayers": 885,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -28630,6 +28630,11 @@
       "Time": "2023-12-28T23:10:03.7735443+00:00",
       "NumProgressed": 97132,
       "NumCompleted": 447
+    },
+    {
+      "Time": "2023-12-29T00:08:56.2308925+00:00",
+      "NumProgressed": 97139,
+      "NumCompleted": 447
     }
   ],
   "TotalAchievements": 10,
@@ -28697,7 +28702,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 9713
+      "UsersEstimate": 9714
     },
     {
       "ID": "Level00BowlingStrike",
@@ -28705,7 +28710,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 33996
+      "UsersEstimate": 33999
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -28720,15 +28725,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 97132,
+      "Progressed": 97139,
       "Completed": 447
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-12-20T03:02:57.8561576+00:00",
-  "LastChanged_Achievements": "2023-12-28T23:10:03.7735437+00:00",
+  "LastChanged_Achievements": "2023-12-29T00:08:56.2308922+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:54.9488301+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:03:59.5933569+00:00",
-  "LastUpdate_Achievements": "2023-12-28T23:10:03.7737062+00:00"
+  "LastUpdate_Ratings": "2023-12-29T00:02:58.8509413+00:00",
+  "LastUpdate_Achievements": "2023-12-29T00:08:56.2310306+00:00"
 }

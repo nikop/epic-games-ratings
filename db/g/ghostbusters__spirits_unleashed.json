@@ -3,9 +3,9 @@
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
   "Ranking_Rating": 608,
-  "Ranking_Popularity": 253,
+  "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 182,
-  "Ranking_EOS_Progress": 133,
+  "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 108,
@@ -3867,9 +3867,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32854,
+  "EOS_Progressed": 32857,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 354,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -23787,6 +23787,11 @@
       "Time": "2023-12-28T23:09:33.035364+00:00",
       "NumProgressed": 32854,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-29T00:08:27.1798832+00:00",
+      "NumProgressed": 32857,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 51,
@@ -23798,7 +23803,7 @@
       "Name": "Advancement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2628
+      "UsersEstimate": 2629
     },
     {
       "ID": "Animated",
@@ -23910,7 +23915,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2628
+      "UsersEstimate": 2629
     },
     {
       "ID": "Escape_Artist",
@@ -24102,7 +24107,7 @@
       "Name": "Stylish",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3285
+      "UsersEstimate": 3286
     },
     {
       "ID": "Summoner",
@@ -24205,7 +24210,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32854,
+      "Progressed": 32857,
       "Completed": 70
     }
   ],
@@ -24213,8 +24218,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-28T19:01:02.9335204+00:00",
-  "LastChanged_Achievements": "2023-12-28T23:09:33.0353635+00:00",
+  "LastChanged_Achievements": "2023-12-29T00:08:27.1798829+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.5748987+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:00:42.7188182+00:00",
-  "LastUpdate_Achievements": "2023-12-28T23:09:33.0354676+00:00"
+  "LastUpdate_Ratings": "2023-12-28T23:59:29.2054462+00:00",
+  "LastUpdate_Achievements": "2023-12-29T00:08:27.1799822+00:00"
 }

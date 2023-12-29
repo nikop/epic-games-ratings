@@ -5,34 +5,34 @@ Rating: 4.88 (Ranked 17)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 54.00% | ~1,053 |
-| Welcome to the Tower | 49.00% | ~956 |
-| The great escape | 41.00% | ~800 |
-| The Preacher's fate | 39.00% | ~760 |
+| That's the spirit | 54.00% | ~1,055 |
+| Welcome to the Tower | 49.00% | ~957 |
+| The great escape | 41.00% | ~801 |
+| The Preacher's fate | 39.00% | ~762 |
 | A new dawn | 33.00% | ~644 |
 | Scholar | 29.00% | ~566 |
-| A good beginning | 27.00% | ~526 |
-| True G3M4R | 27.00% | ~526 |
-| The darkness | 27.00% | ~526 |
-| One last step | 24.00% | ~468 |
-| I did it | 23.00% | ~448 |
-| Cable guy | 23.00% | ~448 |
-| Half the way | 23.00% | ~448 |
-| Rascal | 23.00% | ~448 |
-| Peace walker | 22.00% | ~429 |
-| Champollion | 22.00% | ~429 |
+| A good beginning | 27.00% | ~527 |
+| True G3M4R | 27.00% | ~527 |
+| The darkness | 27.00% | ~527 |
+| One last step | 24.00% | ~469 |
+| Cable guy | 23.00% | ~449 |
+| Half the way | 23.00% | ~449 |
+| Rascal | 23.00% | ~449 |
+| I did it | 22.00% | ~430 |
+| Peace walker | 22.00% | ~430 |
+| Champollion | 22.00% | ~430 |
 | In this together | 21.00% | ~410 |
-| Open door | 20.00% | ~390 |
-| Feels like springtime | 18.00% | ~351 |
-| Alchemists Express | 18.00% | ~351 |
+| Open door | 20.00% | ~391 |
+| Feels like springtime | 18.00% | ~352 |
+| Alchemists Express | 18.00% | ~352 |
 | Free at last | 16.00% | ~312 |
 | A Link to the Past | 14.00% | ~273 |
 | A great audience | 12.00% | ~234 |
 | For its own good | 12.00% | ~234 |
 | Fashion victim | 8.00% | ~156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,950 (Ranked 241)  
-Completed: 117 (6.00%) (Ranked 71)  
+Progressed: 1,953 (Ranked 241)  
+Completed: 117 (5.99%) (Ranked 70)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -191,6 +191,7 @@ Completed: 117 (6.00%) (Ranked 71)
 | 2023-12-26 | 1,854 | 110 |
 | 2023-12-27 | 1,909 | 114 |
 | 2023-12-28 | 1,950 | 117 |
+| 2023-12-29 | 1,953 | 117 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

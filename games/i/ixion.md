@@ -6,7 +6,7 @@ Rating: 4.58 (Ranked 459)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 31.00% | ~1,174 |
-| Sputnik 2049 | 28.00% | ~1,060 |
+| Sputnik 2049 | 28.00% | ~1,061 |
 | Without Breaking Some Eggs... | 26.00% | ~985 |
 | Infinite Growth... | 26.00% | ~985 |
 | Space Society | 18.00% | ~682 |
@@ -18,9 +18,9 @@ Rating: 4.58 (Ranked 459)
 | The Ship of Theseus | 14.00% | ~530 |
 | Guy de Borderlands | 13.00% | ~492 |
 | Hope Seeker | 13.00% | ~492 |
-| A Hunk of Junk | 12.00% | ~454 |
-| Exceeding Capacity | 12.00% | ~454 |
-| Breaking Protocol | 12.00% | ~454 |
+| A Hunk of Junk | 12.00% | ~455 |
+| Exceeding Capacity | 12.00% | ~455 |
+| Breaking Protocol | 12.00% | ~455 |
 | Man's Best Friend | 9.00% | ~341 |
 | Power Outage | 9.00% | ~341 |
 | Convenient Transport | 8.00% | ~303 |
@@ -37,8 +37,8 @@ Rating: 4.58 (Ranked 459)
 | BRAWL! | 5.00% | ~189 |
 | Drill-dozer | 5.00% | ~189 |
 | What the Ruins Teach Us | 5.00% | ~189 |
-| Sustainable Energy | 4.00% | ~151 |
-| Pedal to the Metal | 4.00% | ~151 |
+| Sustainable Energy | 4.00% | ~152 |
+| Pedal to the Metal | 4.00% | ~152 |
 | Praise the Hull! | 3.00% | ~114 |
 | Delivery! | 3.00% | ~114 |
 | Help of the Forgotten Member | 3.00% | ~114 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 459)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,787 (Ranked 212)  
+Progressed: 3,788 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,6 +306,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 3,743 | 0 |
 | 2023-12-27 | 3,765 | 0 |
 | 2023-12-28 | 3,787 | 0 |
+| 2023-12-29 | 3,788 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

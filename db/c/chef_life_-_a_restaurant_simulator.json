@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 896,
+  "EOS_Progressed": 897,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
@@ -3867,6 +3867,11 @@
       "Time": "2023-12-28T23:10:29.2262126+00:00",
       "NumProgressed": 896,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T00:09:20.4509992+00:00",
+      "NumProgressed": 897,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3926,7 +3931,7 @@
       "Name": "French Flair",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -3934,7 +3939,7 @@
       "Name": "So Clean You Can Eat Off the Floor",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "Clothes10",
@@ -4052,9 +4057,9 @@
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 564
+      "UsersEstimate": 556
     },
     {
       "ID": "Packing20",
@@ -4102,7 +4107,7 @@
       "Name": "S is for Scrumptious",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ServiceMaxClient",
@@ -4197,7 +4202,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 896,
+      "Progressed": 897,
       "Completed": 0
     }
   ],
@@ -4205,8 +4210,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-12-28T23:10:29.2262116+00:00",
+  "LastChanged_Achievements": "2023-12-29T00:09:20.4509986+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:29.3889235+00:00",
-  "LastUpdate_Ratings": "2023-12-28T22:59:43.7547308+00:00",
-  "LastUpdate_Achievements": "2023-12-28T23:10:29.2262617+00:00"
+  "LastUpdate_Ratings": "2023-12-28T23:58:38.2087263+00:00",
+  "LastUpdate_Achievements": "2023-12-29T00:09:20.4510427+00:00"
 }

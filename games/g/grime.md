@@ -24,10 +24,10 @@ Number of Ratings: 46  (23.09.2022)
 | Glare | 0.40% | ~659 |
 | Watcher | 0.40% | ~661 |
 | Predator | 0.40% | ~661 |
-| Assimilation | 0.30% | ~495 |
-| Hunt Down | 0.30% | ~495 |
+| Assimilation | 0.30% | ~496 |
+| Hunt Down | 0.30% | ~496 |
 | Host | 0.30% | ~494 |
-| Celebration | 0.30% | ~495 |
+| Celebration | 0.30% | ~496 |
 | Breath | 0.20% | ~330 |
 | Artisan | 0.20% | ~330 |
 | Hush | 0.20% | ~330 |
@@ -36,7 +36,7 @@ Number of Ratings: 46  (23.09.2022)
 | Breathsmith | 0.20% | ~330 |
 | Unwrap the Gift | 0.20% | ~330 |
 | Passage | 0.20% | ~330 |
-| Dream | 0.20% | ~329 |
+| Dream | 0.20% | ~330 |
 | Spiral Heart | 0.10% | ~161 |
 | Bloodhunter | 0.10% | ~165 |
 | Skinmaker | 0.10% | ~165 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~165 |
 | Intensify | 0.10% | ~165 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 165,163 (Ranked 81)  
+Progressed: 165,173 (Ranked 81)  
 Completed: 418 (0.25%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,6 +283,7 @@ Completed: 418 (0.25%) (Ranked 264)
 | 2023-12-26 | 164,741 | 413 |
 | 2023-12-27 | 164,964 | 416 |
 | 2023-12-28 | 165,163 | 418 |
+| 2023-12-29 | 165,173 | 418 |
 ## Awards
 Max (Unique Visuals): 60  (Ranked 425)  
 Sum: 429 (Ranked 343)  

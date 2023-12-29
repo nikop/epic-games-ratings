@@ -5,9 +5,9 @@
   "Ranking_Rating": 518,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
-  "Ranking_EOS_Progress": 336,
+  "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 379,
+  "Ranking_EOS_NewPlayers": 373,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 506,
+  "EOS_Progressed": 507,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.38,
   "EosHistory": [
@@ -825,6 +825,11 @@
       "Time": "2023-12-28T13:06:53.1910481+00:00",
       "NumProgressed": 506,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-29T00:03:22.1215343+00:00",
+      "NumProgressed": 507,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 36,
@@ -836,15 +841,15 @@
       "Name": "Huzza, he\u0027s back.",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "dep4_achievement_10",
       "SetID": "5d32b60",
       "Name": "Sole Music",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 183
     },
     {
       "ID": "dep4_achievement_11",
@@ -884,7 +889,7 @@
       "Name": "Weapons 101",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "dep4_achievement_16",
@@ -916,7 +921,7 @@
       "Name": "FunScore",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "dep4_achievement_2",
@@ -980,7 +985,7 @@
       "Name": "Scaffolding Expert",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "dep4_achievement_27",
@@ -1020,7 +1025,7 @@
       "Name": "Elysian Minigame-Master",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "dep4_achievement_31",
@@ -1076,7 +1081,7 @@
       "Name": "Funtime\u0027s over",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "dep4_achievement_5",
@@ -1123,7 +1128,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 506,
+      "Progressed": 507,
       "Completed": 7
     }
   ],
@@ -1131,8 +1136,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-12-28T23:04:22.9091335+00:00",
+  "LastChanged_Achievements": "2023-12-29T00:03:22.1215339+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:53.2401379+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:03:57.6606662+00:00",
-  "LastUpdate_Achievements": "2023-12-28T23:04:22.9091552+00:00"
+  "LastUpdate_Ratings": "2023-12-29T00:02:57.0789142+00:00",
+  "LastUpdate_Achievements": "2023-12-29T00:03:22.121558+00:00"
 }

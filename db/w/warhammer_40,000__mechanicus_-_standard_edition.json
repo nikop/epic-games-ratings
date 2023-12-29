@@ -3,7 +3,7 @@
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
   "Ranking_Rating": 711,
-  "Ranking_Popularity": 262,
+  "Ranking_Popularity": 263,
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 389,
@@ -1050,9 +1050,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 230726,
+  "EOS_Progressed": 230731,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 712,
+  "EOS_NewPlayers": 715,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28735,6 +28735,11 @@
       "Time": "2023-12-28T23:10:54.0284666+00:00",
       "NumProgressed": 230726,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-29T00:09:44.4602992+00:00",
+      "NumProgressed": 230731,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -28746,7 +28751,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46145
+      "UsersEstimate": 46146
     },
     {
       "ID": "ACH_BASE_10",
@@ -28754,7 +28759,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59989
+      "UsersEstimate": 59990
     },
     {
       "ID": "ACH_BASE_11",
@@ -28786,7 +28791,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20765
+      "UsersEstimate": 20766
     },
     {
       "ID": "ACH_BASE_16",
@@ -28802,7 +28807,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20765
+      "UsersEstimate": 20766
     },
     {
       "ID": "ACH_BASE_18",
@@ -28994,7 +28999,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 29994
+      "UsersEstimate": 29995
     },
     {
       "ID": "ACH_BASE_8",
@@ -29010,14 +29015,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20765
+      "UsersEstimate": 20766
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 230726,
+      "Progressed": 230731,
       "Completed": 5
     }
   ],
@@ -29025,8 +29030,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-28T22:58:51.4033804+00:00",
-  "LastChanged_Achievements": "2023-12-28T23:10:54.0284663+00:00",
+  "LastChanged_Achievements": "2023-12-29T00:09:44.4602989+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:03.0757799+00:00",
-  "LastUpdate_Ratings": "2023-12-28T22:58:51.403381+00:00",
-  "LastUpdate_Achievements": "2023-12-28T23:10:54.0285967+00:00"
+  "LastUpdate_Ratings": "2023-12-28T23:57:50.7981874+00:00",
+  "LastUpdate_Achievements": "2023-12-29T00:09:44.460414+00:00"
 }

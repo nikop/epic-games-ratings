@@ -1,28 +1,28 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.69 (Ranked 232)  
+Rating: 4.69 (Ranked 231)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 62.00% | ~2,129 |
-| Keeping it classy | 27.00% | ~927 |
-| Welcome to the family | 22.00% | ~755 |
-| The finer things in life | 19.00% | ~652 |
+| You're free now! | 62.00% | ~2,130 |
+| Keeping it classy | 27.00% | ~928 |
+| Welcome to the family | 22.00% | ~756 |
+| The finer things in life | 19.00% | ~653 |
 | Backpacker | 14.00% | ~481 |
-| Go with the Flow | 13.00% | ~446 |
-| Plastic Surgeon | 10.00% | ~343 |
-| The flip trick crown jewel | 10.00% | ~343 |
-| The hard way | 10.00% | ~343 |
+| Go with the Flow | 13.00% | ~447 |
+| Plastic Surgeon | 10.00% | ~344 |
+| The flip trick crown jewel | 10.00% | ~344 |
+| The hard way | 10.00% | ~344 |
 | Good vibes | 9.00% | ~309 |
 | Keep the dream alive | 9.00% | ~309 |
 | Upfront shredder | 9.00% | ~309 |
-| Bottom ply killer | 7.00% | ~240 |
-| Fashionista | 7.00% | ~240 |
-| Finally he zips it | 7.00% | ~240 |
-| That pinch! | 7.00% | ~240 |
-| Tight lipslides | 7.00% | ~240 |
+| Bottom ply killer | 7.00% | ~241 |
+| Fashionista | 7.00% | ~241 |
+| Finally he zips it | 7.00% | ~241 |
+| That pinch! | 7.00% | ~241 |
+| Tight lipslides | 7.00% | ~241 |
 | Fulfilled the dream | 6.00% | ~206 |
 | G'Day Mate! | 6.00% | ~206 |
 | Laid back | 6.00% | ~206 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,434 (Ranked 219)  
+Progressed: 3,436 (Ranked 219)  
 Completed: 2 (0.06%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,10 +283,11 @@ Completed: 2 (0.06%) (Ranked 328)
 | 2023-12-26 | 3,401 | 2 |
 | 2023-12-27 | 3,417 | 2 |
 | 2023-12-28 | 3,434 | 2 |
+| 2023-12-29 | 3,436 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 62  (Ranked 423)  
-Sum: 576 (Ranked 323)  
-Diff (max vs sum): 100  
+Sum: 576 (Ranked 324)  
+Diff (max vs sum): 99  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 62 |

@@ -9145,10 +9145,10 @@
       "Count": 3607
     }
   ],
-  "EOS_Progressed": 246305,
-  "EOS_Completed": 2573,
-  "EOS_NewPlayers": 3343,
-  "EOS_NewCompleters": 20,
+  "EOS_Progressed": 246334,
+  "EOS_Completed": 2574,
+  "EOS_NewPlayers": 3350,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -37695,6 +37695,11 @@
       "Time": "2023-12-28T23:11:07.153283+00:00",
       "NumProgressed": 246305,
       "NumCompleted": 2573
+    },
+    {
+      "Time": "2023-12-29T00:09:57.8510936+00:00",
+      "NumProgressed": 246334,
+      "NumCompleted": 2574
     }
   ],
   "TotalAchievements": 546,
@@ -37706,7 +37711,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4926
+      "UsersEstimate": 4927
     },
     {
       "ID": "objective_completed_10",
@@ -42010,7 +42015,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     },
     {
       "ID": "objective_completed_1563",
@@ -42073,21 +42078,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 212579,
-      "Completed": 4079
+      "Progressed": 212608,
+      "Completed": 4082
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 246305,
-      "Completed": 2573
+      "Progressed": 246334,
+      "Completed": 2574
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-28T19:59:44.2419091+00:00",
-  "LastChanged_Achievements": "2023-12-28T23:11:07.1532824+00:00",
+  "LastChanged_Achievements": "2023-12-29T00:09:57.8510932+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-28T22:59:55.7648052+00:00",
-  "LastUpdate_Achievements": "2023-12-28T23:11:07.1555672+00:00"
+  "LastUpdate_Ratings": "2023-12-28T23:58:49.1663383+00:00",
+  "LastUpdate_Achievements": "2023-12-29T00:09:57.8534957+00:00"
 }

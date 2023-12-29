@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1759,9 +1759,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 165163,
+  "EOS_Progressed": 165173,
   "EOS_Completed": 418,
-  "EOS_NewPlayers": 1440,
+  "EOS_NewPlayers": 1441,
   "EOS_NewCompleters": 38,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -20979,6 +20979,11 @@
       "Time": "2023-12-28T21:07:36.2977544+00:00",
       "NumProgressed": 165163,
       "NumCompleted": 418
+    },
+    {
+      "Time": "2023-12-29T00:05:42.6547308+00:00",
+      "NumProgressed": 165173,
+      "NumCompleted": 418
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -21015,7 +21020,7 @@
       "Name": "Assimilation",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -21071,7 +21076,7 @@
       "Name": "Hunt Down",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -21151,7 +21156,7 @@
       "Name": "Celebration",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -21287,7 +21292,7 @@
       "Name": "Dream",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "QUEST_CODA",
@@ -21358,21 +21363,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 164746,
+      "Progressed": 164756,
       "Completed": 1248
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 165163,
+      "Progressed": 165173,
       "Completed": 418
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-28T14:59:47.5953521+00:00",
-  "LastChanged_Achievements": "2023-12-28T23:06:52.3254301+00:00",
+  "LastChanged_Achievements": "2023-12-29T00:05:42.6547305+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:22.7260202+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:00:41.986825+00:00",
-  "LastUpdate_Achievements": "2023-12-28T23:06:52.3255221+00:00"
+  "LastUpdate_Ratings": "2023-12-28T23:59:28.4555622+00:00",
+  "LastUpdate_Achievements": "2023-12-29T00:05:42.6548541+00:00"
 }

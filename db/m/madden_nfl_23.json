@@ -997,9 +997,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4214,
+  "EOS_Progressed": 4215,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7927,6 +7927,11 @@
       "Time": "2023-12-28T23:04:51.1477168+00:00",
       "NumProgressed": 4214,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T00:03:49.1285597+00:00",
+      "NumProgressed": 4215,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -7971,7 +7976,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2233
+      "UsersEstimate": 2234
     },
     {
       "ID": "achievement_14",
@@ -7979,7 +7984,7 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "achievement_15",
@@ -7995,7 +8000,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "achievement_17",
@@ -8067,7 +8072,7 @@
       "Name": "Already in Progress",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "achievement_6",
@@ -8075,7 +8080,7 @@
       "Name": "Change of Scenery",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "achievement_7",
@@ -8083,7 +8088,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "achievement_8",
@@ -8106,7 +8111,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4214,
+      "Progressed": 4215,
       "Completed": 0
     }
   ],
@@ -8114,8 +8119,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-28T15:58:42.1942443+00:00",
-  "LastChanged_Achievements": "2023-12-28T23:04:51.1477164+00:00",
+  "LastChanged_Achievements": "2023-12-29T00:03:49.1285593+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:10.6313253+00:00",
-  "LastUpdate_Ratings": "2023-12-28T22:59:12.9029956+00:00",
-  "LastUpdate_Achievements": "2023-12-28T23:04:51.1477645+00:00"
+  "LastUpdate_Ratings": "2023-12-28T23:58:10.6630925+00:00",
+  "LastUpdate_Achievements": "2023-12-29T00:03:49.1285978+00:00"
 }

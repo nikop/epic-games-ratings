@@ -4,7 +4,7 @@
   "ProductSlug": "botanicula-50043d",
   "Ranking_EOS_Progress": 437,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 157,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.27,
   "EosHistory": [
@@ -684,41 +684,41 @@
       "ID": "Ach-01-balonek",
       "SetID": "2pjo9pi",
       "Name": "Balonek",
-      "Percentage": 45,
-      "XP": 20,
-      "UsersEstimate": 71
-    },
-    {
-      "ID": "Ach-01-brambora",
-      "SetID": "2pjo9pi",
-      "Name": "Brambora",
-      "Percentage": 79,
-      "XP": 20,
-      "UsersEstimate": 124
-    },
-    {
-      "ID": "Ach-01-bzukavec",
-      "SetID": "2pjo9pi",
-      "Name": "Bzukavec",
       "Percentage": 46,
       "XP": 20,
       "UsersEstimate": 72
     },
     {
+      "ID": "Ach-01-brambora",
+      "SetID": "2pjo9pi",
+      "Name": "Brambora",
+      "Percentage": 80,
+      "XP": 20,
+      "UsersEstimate": 126
+    },
+    {
+      "ID": "Ach-01-bzukavec",
+      "SetID": "2pjo9pi",
+      "Name": "Bzukavec",
+      "Percentage": 47,
+      "XP": 20,
+      "UsersEstimate": 74
+    },
+    {
       "ID": "Ach-01-jepice",
       "SetID": "2pjo9pi",
       "Name": "Jepice",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "Ach-01-soukac",
       "SetID": "2pjo9pi",
       "Name": "Soukac",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "Ach-01-ulita",
@@ -1052,9 +1052,9 @@
       "ID": "Ach-level-1",
       "SetID": "2pjo9pi",
       "Name": "Level 1",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 126
     },
     {
       "ID": "Ach-level-2",
@@ -1115,8 +1115,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2023-12-28T23:09:51.8945274+00:00",
+  "LastChanged_Achievements": "2023-12-29T00:08:45.2770524+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:05.6352108+00:00",
-  "LastUpdate_Ratings": "2023-12-28T22:58:44.2147712+00:00",
-  "LastUpdate_Achievements": "2023-12-28T23:09:51.8945962+00:00"
+  "LastUpdate_Ratings": "2023-12-28T23:57:43.8292816+00:00",
+  "LastUpdate_Achievements": "2023-12-29T00:08:45.2770938+00:00"
 }

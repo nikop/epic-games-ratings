@@ -3,8 +3,8 @@
   "Name": "Mass Effect\u2122 Legendary Edition",
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 220,
-  "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_Completed": 235,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 3273,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 610,
+  "EOS_NewPlayers": 603,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -6917,9 +6917,9 @@
       "ID": "achievement_37",
       "SetID": "b9pe172",
       "Name": "Very Elusive",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1080
     },
     {
       "ID": "achievement_38",
@@ -7481,8 +7481,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-28T23:11:03.8134926+00:00",
+  "LastChanged_Achievements": "2023-12-29T00:09:54.3697546+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:58.3788938+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:04:05.8763906+00:00",
-  "LastUpdate_Achievements": "2023-12-28T23:11:03.8136613+00:00"
+  "LastUpdate_Ratings": "2023-12-29T00:03:04.3360117+00:00",
+  "LastUpdate_Achievements": "2023-12-29T00:09:54.3699186+00:00"
 }

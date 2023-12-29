@@ -23,9 +23,9 @@
 | Missing in Action | 35.00% | ~1,146 |
 | Asari Ally | 34.00% | ~1,113 |
 | Colonial Savior | 33.00% | ~1,080 |
+| Very Elusive | 33.00% | ~1,080 |
 | Medal of Exploration III | 32.00% | ~1,047 |
 | Principled | 32.00% | ~1,047 |
-| Very Elusive | 32.00% | ~1,047 |
 | Sentinel Ally | 31.00% | ~1,015 |
 | Krogan Ally | 31.00% | ~1,015 |
 | Scientist | 31.00% | ~1,015 |
@@ -133,7 +133,7 @@
 | The One and Only | 0.60% | ~20 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,273 (Ranked 220)  
-Completed: 12 (0.37%) (Ranked 236)  
+Completed: 12 (0.37%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

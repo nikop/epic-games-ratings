@@ -5,21 +5,21 @@ Rating: 4.88 (Ranked 17)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 50.00% | ~6,531 |
-| Feeling the beat! | 50.00% | ~6,531 |
-| You can pet the cat! | 45.00% | ~5,878 |
-| Who put gears in there? | 36.00% | ~4,702 |
+| Start with a bang! | 50.00% | ~6,532 |
+| Feeling the beat! | 50.00% | ~6,532 |
+| You can pet the cat! | 45.00% | ~5,879 |
+| Who put gears in there? | 36.00% | ~4,703 |
 | Cream of the Crop | 32.00% | ~4,180 |
-| Thanks for the free chip, Peppermint! | 31.00% | ~4,049 |
-| You got this, Peppermint? | 26.00% | ~3,396 |
+| Thanks for the free chip, Peppermint! | 31.00% | ~4,050 |
+| You got this, Peppermint? | 26.00% | ~3,397 |
 | Perfect Parry | 24.00% | ~3,135 |
 | Alright, that felt AWESOME! | 24.00% | ~3,135 |
 | I play my own way! | 21.00% | ~2,743 |
 | This will cost you big time | 19.00% | ~2,482 |
-| Uh, they were broken when I got here | 18.00% | ~2,351 |
+| Uh, they were broken when I got here | 18.00% | ~2,352 |
 | Z-shielding's got nothing on us! | 17.00% | ~2,221 |
 | Kissing the sky! | 16.00% | ~2,090 |
-| Does that say weakpoint? | 15.00% | ~1,959 |
+| Does that say weakpoint? | 15.00% | ~1,960 |
 | Whoa! There's ANOTHER health bar!? | 14.00% | ~1,829 |
 | The Negotiator | 13.00% | ~1,698 |
 | You must like calling me in, Chai | 11.00% | ~1,437 |
@@ -35,7 +35,7 @@ Rating: 4.88 (Ranked 17)
 | Well that was a rush! | 6.00% | ~784 |
 | Beat-hit mania | 5.00% | ~653 |
 | That's a lot of junk metal… | 5.00% | ~653 |
-| I told you I'd be fine, Peppermint! | 4.00% | ~522 |
+| I told you I'd be fine, Peppermint! | 4.00% | ~523 |
 | Chip-tuned | 3.00% | ~392 |
 | Wanna hear my playlist? | 3.00% | ~392 |
 | Check out my moves! | 3.00% | ~392 |
@@ -50,7 +50,7 @@ Rating: 4.88 (Ranked 17)
 | Call me Turbo Chai | 1.00% | ~116 |
 | Easy Listening | 0.90% | ~118 |
 | OK, well THEY came after ME! | 0.60% | ~78 |
-| New bad guys? No problem! | 0.60% | ~69 |
+| New bad guys? No problem! | 0.60% | ~70 |
 | And the crowd goes wild! | 0.30% | ~39 |
 | Problem solved... wait, what? | 0.30% | ~39 |
 | Fully Powered Up! | 0.30% | ~39 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 17)
 | Voices from within | 0.10% | ~12 |
 | Low budget finish | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,062 (Ranked 172)  
+Progressed: 13,064 (Ranked 172)  
 Completed: 8 (0.06%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,6 +320,7 @@ Completed: 8 (0.06%) (Ranked 328)
 | 2023-12-26 | 12,450 | 8 |
 | 2023-12-27 | 12,766 | 8 |
 | 2023-12-28 | 13,062 | 8 |
+| 2023-12-29 | 13,064 | 8 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 569)  
 Sum: 20 (Ranked 570)  

@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 2813,
   "EOS_Completed": 259,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 9.21,
   "EosHistory": [
@@ -8165,8 +8165,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-12-28T23:09:58.7391313+00:00",
+  "LastChanged_Achievements": "2023-12-29T00:08:51.8068903+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:14.8198815+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:01:15.630381+00:00",
-  "LastUpdate_Achievements": "2023-12-28T23:09:58.7391784+00:00"
+  "LastUpdate_Ratings": "2023-12-29T00:00:00.812169+00:00",
+  "LastUpdate_Achievements": "2023-12-29T00:08:51.8069351+00:00"
 }

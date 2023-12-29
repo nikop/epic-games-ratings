@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1705,
+  "EOS_Progressed": 1706,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4187,6 +4187,11 @@
       "Time": "2023-12-28T21:04:31.0943634+00:00",
       "NumProgressed": 1705,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T00:03:28.1907346+00:00",
+      "NumProgressed": 1706,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4213,9 +4218,9 @@
       "ID": "ML_ACHIEVEMENT_03",
       "SetID": "5k00jcd",
       "Name": "Out of control",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 68
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -4285,9 +4290,9 @@
       "ID": "ML_ACHIEVEMENT_12",
       "SetID": "5k00jcd",
       "Name": "Immortal",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -4349,9 +4354,9 @@
       "ID": "ML_ACHIEVEMENT_20",
       "SetID": "5k00jcd",
       "Name": "Challenge accepted!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 51
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -4381,9 +4386,9 @@
       "ID": "ML_ACHIEVEMENT_24",
       "SetID": "5k00jcd",
       "Name": "The Terrordactyl",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "ML_ACHIEVEMENT_25",
@@ -4461,9 +4466,9 @@
       "ID": "ML_ACHIEVEMENT_34",
       "SetID": "5k00jcd",
       "Name": "Beyond the limit",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 68
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -4566,20 +4571,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1705,
+      "Progressed": 1706,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1373,
+      "Progressed": 1374,
       "Completed": 1004
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-28T23:04:29.0590609+00:00",
+  "LastChanged_Achievements": "2023-12-29T00:03:28.1907341+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2023-12-28T22:57:49.8599231+00:00",
-  "LastUpdate_Achievements": "2023-12-28T23:04:29.0591115+00:00"
+  "LastUpdate_Ratings": "2023-12-28T23:56:56.784254+00:00",
+  "LastUpdate_Achievements": "2023-12-29T00:03:28.1908142+00:00"
 }

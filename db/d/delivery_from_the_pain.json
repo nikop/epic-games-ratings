@@ -2,9 +2,9 @@
   "ID": "808b7e84dc7145adac359cd19ac2442e",
   "Name": "Delivery from the Pain",
   "ProductSlug": "delivery-from-the-pain-73198e",
-  "Ranking_EOS_Progress": 383,
+  "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-06-12T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 296,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1993,8 +1993,8 @@
   ],
   "FirstSeen": "2023-06-13T22:58:14.2557499+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:17.7528576+00:00",
-  "LastChanged_Achievements": "2023-12-28T23:08:54.4096975+00:00",
+  "LastChanged_Achievements": "2023-12-29T00:06:21.7822347+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:21.8915202+00:00",
-  "LastUpdate_Ratings": "2023-12-28T22:59:49.8808028+00:00",
-  "LastUpdate_Achievements": "2023-12-28T23:08:54.409774+00:00"
+  "LastUpdate_Ratings": "2023-12-28T23:58:43.7155896+00:00",
+  "LastUpdate_Achievements": "2023-12-29T00:06:21.7822997+00:00"
 }

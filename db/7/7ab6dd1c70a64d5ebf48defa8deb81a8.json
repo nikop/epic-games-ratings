@@ -43,7 +43,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1412,
+  "EOS_Progressed": 1416,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 0,
@@ -2778,6 +2778,11 @@
       "Time": "2023-12-28T21:11:32.7806788+00:00",
       "NumProgressed": 1412,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T00:09:49.297263+00:00",
+      "NumProgressed": 1416,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2789,7 +2794,7 @@
       "Name": "Break Out",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 805
+      "UsersEstimate": 807
     },
     {
       "ID": "ACH_02",
@@ -2805,7 +2810,7 @@
       "Name": "Powerful Allies",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH_04",
@@ -2859,9 +2864,9 @@
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 381
+      "UsersEstimate": 396
     },
     {
       "ID": "ACH_11",
@@ -2885,7 +2890,7 @@
       "Name": "Adventurer",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH_14",
@@ -2901,7 +2906,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACH_16",
@@ -2909,7 +2914,7 @@
       "Name": "Essence Blow",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_17",
@@ -2925,7 +2930,7 @@
       "Name": "Shatter Them All",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH_19",
@@ -2949,7 +2954,7 @@
       "Name": "Big Bazar",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_22",
@@ -2965,7 +2970,7 @@
       "Name": "Geared Up",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH_24",
@@ -2981,7 +2986,7 @@
       "Name": "Fashion Victim",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ACH_26",
@@ -2989,7 +2994,7 @@
       "Name": "Scholar",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH_27",
@@ -3021,7 +3026,7 @@
       "Name": "Alchemist",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_31",
@@ -3029,7 +3034,7 @@
       "Name": "Stone Collection",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACH_33",
@@ -3076,7 +3081,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1412,
+      "Progressed": 1416,
       "Completed": 3
     }
   ],
@@ -3084,8 +3089,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2023-12-27T23:57:06.3972881+00:00",
-  "LastChanged_Achievements": "2023-12-28T23:10:58.6816683+00:00",
+  "LastChanged_Achievements": "2023-12-29T00:09:49.2972627+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-28T22:58:17.5446524+00:00",
-  "LastUpdate_Achievements": "2023-12-28T23:10:58.6817032+00:00"
+  "LastUpdate_Ratings": "2023-12-28T23:57:19.3085364+00:00",
+  "LastUpdate_Achievements": "2023-12-29T00:09:49.2972974+00:00"
 }

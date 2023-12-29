@@ -2,9 +2,9 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 389,
-  "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Completed": 237,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 285,
+  "EOS_Progressed": 286,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -1149,6 +1149,11 @@
       "Time": "2023-12-28T21:08:34.0269087+00:00",
       "NumProgressed": 285,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T00:06:10.1882473+00:00",
+      "NumProgressed": 286,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1169,7 +1174,7 @@
       "Name": "Empire",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "AC_ALL_MONEYSACKS",
@@ -1265,7 +1270,7 @@
       "Name": "Heresy",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "AC_COMBO_1",
@@ -1273,7 +1278,7 @@
       "Name": "Pack",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "AC_COMBO_2",
@@ -1327,9 +1332,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 149
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1343,9 +1348,9 @@
       "ID": "AC_DEATH_ENEMIES_3",
       "SetID": "16i2akc",
       "Name": "Genocide",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 54
+      "UsersEstimate": 57
     },
     {
       "ID": "AC_DISTANCE_1",
@@ -1353,15 +1358,15 @@
       "Name": "Excursion",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 131
+      "UsersEstimate": 129
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -1385,7 +1390,7 @@
       "Name": "Creation",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "AC_FLASHBACK_02",
@@ -1463,9 +1468,9 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 120
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -1496,14 +1501,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 285,
+      "Progressed": 286,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-28T23:07:21.2731975+00:00",
+  "LastChanged_Achievements": "2023-12-29T00:06:10.1882472+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:54.1541826+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:03:27.1867018+00:00",
-  "LastUpdate_Achievements": "2023-12-28T23:07:21.2732354+00:00"
+  "LastUpdate_Ratings": "2023-12-29T00:00:19.4594747+00:00",
+  "LastUpdate_Achievements": "2023-12-29T00:06:10.1882815+00:00"
 }

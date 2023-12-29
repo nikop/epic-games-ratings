@@ -2,12 +2,12 @@
   "ID": "dfd2530e80e4425d801913b0879be444",
   "Name": "Zombie Army 4: Dead War",
   "ProductSlug": "zombie-army-4-dead-war",
-  "Ranking_Rating": 232,
+  "Ranking_Rating": 231,
   "Ranking_Popularity": 171,
   "Ranking_PopularitySum": 197,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -2612,7 +2612,7 @@
   ],
   "EOS_Progressed": 44250,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10920,8 +10920,8 @@
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-12-28T14:02:17.5096715+00:00",
-  "LastChanged_Achievements": "2023-12-28T23:08:54.217548+00:00",
+  "LastChanged_Achievements": "2023-12-29T00:06:21.5498567+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:25.7383264+00:00",
-  "LastUpdate_Ratings": "2023-12-28T22:57:50.1352496+00:00",
-  "LastUpdate_Achievements": "2023-12-28T23:08:54.2176542+00:00"
+  "LastUpdate_Ratings": "2023-12-28T23:56:56.9075802+00:00",
+  "LastUpdate_Achievements": "2023-12-29T00:06:21.5499427+00:00"
 }

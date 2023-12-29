@@ -2410,9 +2410,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 222330,
+  "EOS_Progressed": 222331,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 1614,
+  "EOS_NewPlayers": 1608,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -31435,6 +31435,11 @@
       "Time": "2023-12-28T23:05:53.2842488+00:00",
       "NumProgressed": 222330,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-12-29T00:04:47.9667677+00:00",
+      "NumProgressed": 222331,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 44,
@@ -31526,7 +31531,7 @@
       "Name": "Happy little accidents",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 11116
+      "UsersEstimate": 11117
     },
     {
       "ID": "HappyPlanning",
@@ -31622,7 +31627,7 @@
       "Name": "Okkoto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 11116
+      "UsersEstimate": 11117
     },
     {
       "ID": "OldMan",
@@ -31646,7 +31651,7 @@
       "Name": "Prisoners",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 11116
+      "UsersEstimate": 11117
     },
     {
       "ID": "ReleaseTheKraken",
@@ -31758,7 +31763,7 @@
       "Name": "Too Early",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 11116
+      "UsersEstimate": 11117
     },
     {
       "ID": "Warzone",
@@ -31797,15 +31802,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 222330,
+      "Progressed": 222331,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-12-28T18:00:11.2894316+00:00",
-  "LastChanged_Achievements": "2023-12-28T23:05:53.2842483+00:00",
+  "LastChanged_Achievements": "2023-12-29T00:04:47.9667671+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:16.1006959+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:01:17.3511274+00:00",
-  "LastUpdate_Achievements": "2023-12-28T23:05:53.2843888+00:00"
+  "LastUpdate_Ratings": "2023-12-29T00:00:02.2703197+00:00",
+  "LastUpdate_Achievements": "2023-12-29T00:04:47.9668929+00:00"
 }

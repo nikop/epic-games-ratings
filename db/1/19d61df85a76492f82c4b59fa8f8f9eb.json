@@ -2108,9 +2108,9 @@
       "ID": "CgkIgaGB2J0LEAIQAA",
       "SetID": "4ocea6d",
       "Name": "Printing Press",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 175,
-      "UsersEstimate": 266
+      "UsersEstimate": 270
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
@@ -2163,8 +2163,8 @@
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-12-28T23:09:53.4036836+00:00",
+  "LastChanged_Achievements": "2023-12-29T00:08:46.7065266+00:00",
   "LastUpdate_AppInfo": "2023-12-22T02:57:06.5196626+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:03:24.5642369+00:00",
-  "LastUpdate_Achievements": "2023-12-28T23:09:53.4036995+00:00"
+  "LastUpdate_Ratings": "2023-12-29T00:00:16.9025895+00:00",
+  "LastUpdate_Achievements": "2023-12-29T00:08:46.7065425+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 232,
+  "Ranking_Rating": 231,
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 40,
@@ -13729,11 +13729,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 62601,
       "NumberOfAwardsMax": 7588
+    },
+    {
+      "Time": "2023-12-28T23:57:54.2961517+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 62637,
+      "NumberOfAwardsMax": 7601
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 62601,
-  "NumberOfAwardsMax": 7588,
+  "NumberOfAwards": 62637,
+  "NumberOfAwardsMax": 7601,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -13746,7 +13752,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 7215
+      "Count": 7238
     },
     {
       "Text": "This game has Diverse Characters",
@@ -13764,7 +13770,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 7588
+      "Count": 7601
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -13803,9 +13809,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 486523,
+  "EOS_Progressed": 486564,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5728,
+  "EOS_NewPlayers": 5748,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -42888,6 +42894,11 @@
       "Time": "2023-12-28T23:09:48.7393852+00:00",
       "NumProgressed": 486523,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T00:08:42.4307175+00:00",
+      "NumProgressed": 486564,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -45802,21 +45813,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 486523,
+      "Progressed": 486564,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 486523,
+      "Progressed": 486564,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-12-28T19:58:21.3777901+00:00",
-  "LastChanged_Achievements": "2023-12-28T23:09:48.7393847+00:00",
+  "LastChanged": "2023-12-28T23:57:54.2961515+00:00",
+  "LastChanged_Achievements": "2023-12-29T00:08:42.4307171+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:16.1872373+00:00",
-  "LastUpdate_Ratings": "2023-12-28T22:58:55.2295639+00:00",
-  "LastUpdate_Achievements": "2023-12-28T23:09:48.7403997+00:00"
+  "LastUpdate_Ratings": "2023-12-28T23:57:54.296152+00:00",
+  "LastUpdate_Achievements": "2023-12-29T00:08:42.431783+00:00"
 }

@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1332,
+  "EOS_Progressed": 1333,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 2,
@@ -4589,6 +4589,11 @@
       "Time": "2023-12-28T21:04:59.8569545+00:00",
       "NumProgressed": 1332,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-29T00:03:49.7822697+00:00",
+      "NumProgressed": 1333,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4641,7 +4646,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "_07_FinishAct3",
@@ -4649,7 +4654,7 @@
       "Name": "All Good Things",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "_08_Completion_10",
@@ -4665,7 +4670,7 @@
       "Name": "Powder Monkey",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "_10_Completion_30",
@@ -4673,7 +4678,7 @@
       "Name": "Buccaneer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "_11_Completion_40",
@@ -4681,7 +4686,7 @@
       "Name": "Seadog",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "_12_Completion_50",
@@ -4745,7 +4750,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -4753,7 +4758,7 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -4808,7 +4813,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1332,
+      "Progressed": 1333,
       "Completed": 35
     }
   ],
@@ -4816,8 +4821,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2023-12-28T23:04:51.8138367+00:00",
+  "LastChanged_Achievements": "2023-12-29T00:03:49.7822693+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-28T22:59:13.8338896+00:00",
-  "LastUpdate_Achievements": "2023-12-28T23:04:51.8138679+00:00"
+  "LastUpdate_Ratings": "2023-12-28T23:58:11.5138961+00:00",
+  "LastUpdate_Achievements": "2023-12-29T00:03:49.782306+00:00"
 }

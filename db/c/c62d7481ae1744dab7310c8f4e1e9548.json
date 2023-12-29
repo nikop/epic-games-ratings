@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 166,
+  "EOS_Progressed": 167,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.02,
+  "EOS_Completed_Percentage": 5.99,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -849,6 +849,11 @@
       "Time": "2023-12-28T16:06:10.8937936+00:00",
       "NumProgressed": 166,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-29T00:05:45.0117197+00:00",
+      "NumProgressed": 167,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -909,15 +914,15 @@
       "Name": "Jing Jang",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 85
     },
     {
       "ID": "Kour",
@@ -941,7 +946,7 @@
       "Name": "Knife",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "Kvitky",
@@ -1100,14 +1105,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 166,
+      "Progressed": 167,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-12-28T23:06:54.828891+00:00",
+  "LastChanged_Achievements": "2023-12-29T00:05:45.0117195+00:00",
   "LastUpdate_AppInfo": "2023-12-23T06:57:11.8700961+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:03:44.3511675+00:00",
-  "LastUpdate_Achievements": "2023-12-28T23:06:54.828915+00:00"
+  "LastUpdate_Ratings": "2023-12-29T00:02:44.8046224+00:00",
+  "LastUpdate_Achievements": "2023-12-29T00:05:45.0117374+00:00"
 }

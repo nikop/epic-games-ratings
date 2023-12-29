@@ -541,7 +541,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4317,
+  "EOS_Progressed": 4318,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
@@ -7211,6 +7211,11 @@
       "Time": "2023-12-28T21:05:03.3899251+00:00",
       "NumProgressed": 4317,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-29T00:03:52.4570979+00:00",
+      "NumProgressed": 4318,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7406,7 +7411,7 @@
       "Name": "Ready for Summer",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2115
+      "UsersEstimate": 2116
     },
     {
       "ID": "ReadyforWinter_42",
@@ -7542,7 +7547,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3151
+      "UsersEstimate": 3152
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7557,15 +7562,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4317,
+      "Progressed": 4318,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-28T23:04:54.6190993+00:00",
+  "LastChanged_Achievements": "2023-12-29T00:03:52.4570976+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.9488093+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:03:46.2968763+00:00",
-  "LastUpdate_Achievements": "2023-12-28T23:04:54.6191486+00:00"
+  "LastUpdate_Ratings": "2023-12-29T00:02:46.5771474+00:00",
+  "LastUpdate_Achievements": "2023-12-29T00:03:52.4571487+00:00"
 }

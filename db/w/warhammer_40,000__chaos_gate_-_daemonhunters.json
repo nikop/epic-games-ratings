@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -801,9 +801,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3628,
+  "EOS_Progressed": 3629,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5011,6 +5011,11 @@
       "Time": "2023-12-28T21:08:42.4506291+00:00",
       "NumProgressed": 3628,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T00:06:16.1854882+00:00",
+      "NumProgressed": 3629,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5214,7 +5219,7 @@
       "Name": "Executioner",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "Kills_Exterminator",
@@ -5300,9 +5305,9 @@
       "ID": "MasterCraftLevel3_Ranged",
       "SetID": "3jha1np",
       "Name": "Gunmaster",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 109
     },
     {
       "ID": "MasterOfTheForge",
@@ -5565,21 +5570,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3628,
+      "Progressed": 3629,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3628,
+      "Progressed": 3629,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-24T12:02:56.3421491+00:00",
-  "LastChanged_Achievements": "2023-12-28T23:07:27.5893904+00:00",
+  "LastChanged_Achievements": "2023-12-29T00:06:16.1854878+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:54.0012795+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:03:58.5155713+00:00",
-  "LastUpdate_Achievements": "2023-12-28T23:07:27.5894667+00:00"
+  "LastUpdate_Ratings": "2023-12-29T00:02:57.8510304+00:00",
+  "LastUpdate_Achievements": "2023-12-29T00:06:16.1855493+00:00"
 }

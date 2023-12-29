@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -255,7 +255,7 @@
   ],
   "EOS_Progressed": 1172,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3608,9 +3608,9 @@
       "ID": "TheThiefOfFire",
       "SetID": "1n308hc",
       "Name": "The Thief of Fire",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 246
     },
     {
       "ID": "TheWordEndures",
@@ -3689,8 +3689,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-28T02:59:27.0743673+00:00",
-  "LastChanged_Achievements": "2023-12-28T23:05:50.5443481+00:00",
+  "LastChanged_Achievements": "2023-12-29T00:04:45.3044819+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:00:56.2430936+00:00",
-  "LastUpdate_Achievements": "2023-12-28T23:05:50.5444059+00:00"
+  "LastUpdate_Ratings": "2023-12-28T23:59:42.260772+00:00",
+  "LastUpdate_Achievements": "2023-12-29T00:04:45.3045266+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 228,
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 279,
+  "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 3789,
   "Store": {
@@ -3659,9 +3659,9 @@
       "Count": 336
     }
   ],
-  "EOS_Progressed": 19536,
+  "EOS_Progressed": 19539,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 675,
+  "EOS_NewPlayers": 671,
   "EOS_NewCompleters": -3,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -17524,6 +17524,11 @@
       "Time": "2023-12-28T21:07:16.2458777+00:00",
       "NumProgressed": 19536,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-12-29T00:05:27.8892659+00:00",
+      "NumProgressed": 19539,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17632,7 +17637,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "WinImpossible",
@@ -17800,7 +17805,7 @@
       "Name": "Coral Forest",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "WinOnCursed",
@@ -17824,7 +17829,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "WinPrestige10",
@@ -17944,7 +17949,7 @@
       "Name": "Frosts",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "WinNearGreed",
@@ -17952,7 +17957,7 @@
       "Name": "Land of Greed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "WinNearLibrary",
@@ -17976,7 +17981,7 @@
       "Name": "Ominous Presence",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "WinNearStorms",
@@ -18007,15 +18012,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19536,
+      "Progressed": 19539,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-28T23:00:43.078461+00:00",
-  "LastChanged_Achievements": "2023-12-28T23:06:36.2055802+00:00",
+  "LastChanged_Achievements": "2023-12-29T00:05:27.8892657+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:00:43.0784616+00:00",
-  "LastUpdate_Achievements": "2023-12-28T23:06:36.2057022+00:00"
+  "LastUpdate_Ratings": "2023-12-28T23:59:29.4779904+00:00",
+  "LastUpdate_Achievements": "2023-12-29T00:05:27.8893509+00:00"
 }

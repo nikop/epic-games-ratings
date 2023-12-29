@@ -2,7 +2,7 @@
   "ID": "4b2f856e9ffe4b1a82c3633e51c29371",
   "Name": "Cornucopia",
   "ProductSlug": "cornucopia-053d20",
-  "Ranking_EOS_Progress": 818,
+  "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 571,
   "Ranking_EOS_NewCompleters": 151,
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-24T19:57:03.3320262+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:00:30.3752755+00:00",
-  "LastUpdate_Achievements": "2023-12-28T23:04:50.9597661+00:00"
+  "LastUpdate_Ratings": "2023-12-28T23:59:17.8168958+00:00",
+  "LastUpdate_Achievements": "2023-12-29T00:03:48.9217708+00:00"
 }
