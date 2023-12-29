@@ -69,7 +69,7 @@
 | 66 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 6.25% |
 | 66 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 6.25% |
 | 69 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
-| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.98% |
+| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.97% |
 | 71 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.95% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.80% |
 | 73 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
@@ -110,8 +110,8 @@
 | 108 | [HordeCore](games/h/hordecore.md) | 3.03% |
 | 108 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 3.03% |
 | 110 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.99% |
-| 111 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.95% |
-| 112 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 2.94% |
+| 111 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.94% |
+| 111 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 2.94% |
 | 113 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 114 | [Without Escape](games/w/without_escape.md) | 2.86% |
 | 115 | [The Complex](games/t/the_complex.md) | 2.85% |
@@ -151,10 +151,10 @@
 | 149 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.39% |
 | 150 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.38% |
 | 151 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.36% |
-| 152 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.35% |
+| 152 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.34% |
 | 153 | [Chorus](games/c/chorus.md) | 1.32% |
-| 154 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.31% |
-| 155 | [Poosh XL](games/p/poosh_xl.md) | 1.30% |
+| 154 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.30% |
+| 154 | [Poosh XL](games/p/poosh_xl.md) | 1.30% |
 | 156 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 1.27% |
 | 157 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.26% |
 | 157 | [Late Shift](games/l/late_shift.md) | 1.26% |
@@ -166,7 +166,7 @@
 | 164 | [The Devil's Face](games/t/the_devil's_face.md) | 1.15% |
 | 165 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.13% |
 | 166 | [Adios](games/a/adios.md) | 1.10% |
-| 166 | [Lemon Cake](games/l/lemon_cake.md) | 1.10% |
+| 167 | [Lemon Cake](games/l/lemon_cake.md) | 1.09% |
 | 168 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
 | 169 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.03% |
 | 170 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.02% |
@@ -200,8 +200,8 @@
 | 198 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.66% |
 | 199 | [Five Dates](games/f/five_dates.md) | 0.65% |
 | 199 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.65% |
-| 201 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.64% |
-| 202 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.63% |
+| 201 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.63% |
+| 201 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.63% |
 | 203 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.61% |
 | 204 | [Potion Permit](games/p/potion_permit.md) | 0.60% |
 | 205 | [Grindstone](games/g/grindstone.md) | 0.58% |
@@ -265,11 +265,11 @@
 | 263 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.25% |
 | 263 | [GRIME](games/g/grime.md) | 0.25% |
 | 263 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.25% |
-| 266 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.24% |
-| 267 | [Aegis Descent](games/a/aegis_descent.md) | 0.23% |
-| 267 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.23% |
-| 267 | [Shop Titans](games/s/shop_titans.md) | 0.23% |
-| 270 | [It Takes Two](games/i/it_takes_two.md) | 0.22% |
+| 266 | [Aegis Descent](games/a/aegis_descent.md) | 0.23% |
+| 266 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.23% |
+| 266 | [Shop Titans](games/s/shop_titans.md) | 0.23% |
+| 269 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.22% |
+| 269 | [It Takes Two](games/i/it_takes_two.md) | 0.22% |
 | 271 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.21% |
 | 271 | [Despot's Game](games/d/despot's_game.md) | 0.21% |
 | 271 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
