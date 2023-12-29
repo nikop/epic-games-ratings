@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -253,7 +253,7 @@
       "Count": 87
     }
   ],
-  "EOS_Progressed": 1173,
+  "EOS_Progressed": 1174,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 1,
@@ -3203,6 +3203,11 @@
       "Time": "2023-12-29T01:41:54.726466+00:00",
       "NumProgressed": 1173,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-29T02:20:27.0052861+00:00",
+      "NumProgressed": 1174,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3279,7 +3284,7 @@
       "Name": "Chasing the Light",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "Chicken",
@@ -3503,7 +3508,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "RenaissanceRobot",
@@ -3575,7 +3580,7 @@
       "Name": "The All-Gifted",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "TheEdgeOfForever",
@@ -3615,7 +3620,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "TheWordEndures",
@@ -3623,7 +3628,7 @@
       "Name": "The Word Endures",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "TouchGrass",
@@ -3631,7 +3636,7 @@
       "Name": "Touch Grass",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "TrevorsBiographer",
@@ -3671,7 +3676,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "YourBiggestFan",
@@ -3686,7 +3691,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1173,
+      "Progressed": 1174,
       "Completed": 2
     }
   ],
@@ -3694,8 +3699,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-28T02:59:27.0743673+00:00",
-  "LastChanged_Achievements": "2023-12-29T01:41:54.7264655+00:00",
+  "LastChanged_Achievements": "2023-12-29T02:20:27.0052856+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2023-12-29T01:36:43.219309+00:00",
-  "LastUpdate_Achievements": "2023-12-29T01:41:54.7265205+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:15:23.6256293+00:00",
+  "LastUpdate_Achievements": "2023-12-29T02:20:27.0053364+00:00"
 }

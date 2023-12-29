@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 367,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -940,9 +940,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 52390,
+  "EOS_Progressed": 52393,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1162,
+  "EOS_NewPlayers": 1160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29645,6 +29645,11 @@
       "Time": "2023-12-29T01:41:08.7060199+00:00",
       "NumProgressed": 52390,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-29T02:19:42.3521788+00:00",
+      "NumProgressed": 52393,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -29696,7 +29701,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 14145
+      "UsersEstimate": 14146
     },
     {
       "ID": "goals180",
@@ -29736,7 +29741,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3143
+      "UsersEstimate": 3144
     },
     {
       "ID": "journeyer",
@@ -29776,7 +29781,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 8906
+      "UsersEstimate": 8907
     },
     {
       "ID": "novice",
@@ -29784,7 +29789,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 7858
+      "UsersEstimate": 7859
     },
     {
       "ID": "playerFelipe",
@@ -29928,7 +29933,7 @@
       "Name": "Enter Paz",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3667
+      "UsersEstimate": 3668
     },
     {
       "ID": "vandal",
@@ -29967,15 +29972,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 52390,
+      "Progressed": 52393,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-12-28T19:03:02.718582+00:00",
-  "LastChanged_Achievements": "2023-12-29T01:41:08.7060195+00:00",
+  "LastChanged_Achievements": "2023-12-29T02:19:42.3521785+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:50.851246+00:00",
-  "LastUpdate_Ratings": "2023-12-29T01:39:45.0748741+00:00",
-  "LastUpdate_Achievements": "2023-12-29T01:41:08.7061381+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:18:21.4616609+00:00",
+  "LastUpdate_Achievements": "2023-12-29T02:19:42.3523374+00:00"
 }

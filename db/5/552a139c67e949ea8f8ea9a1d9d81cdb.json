@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -4346,9 +4346,9 @@
       "ID": "ML_ACHIEVEMENT_19",
       "SetID": "5k00jcd",
       "Name": "Well begun\u2026",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 85
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -4583,8 +4583,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-29T01:40:39.5381762+00:00",
+  "LastChanged_Achievements": "2023-12-29T02:19:14.3676658+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2023-12-29T01:34:00.4253067+00:00",
-  "LastUpdate_Achievements": "2023-12-29T01:40:39.5382266+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:12:47.3176901+00:00",
+  "LastUpdate_Achievements": "2023-12-29T02:19:14.3677214+00:00"
 }

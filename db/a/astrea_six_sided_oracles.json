@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 262,
+  "EOS_Progressed": 263,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1099,6 +1099,11 @@
       "Time": "2023-12-28T18:08:21.7260121+00:00",
       "NumProgressed": 262,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T02:23:55.0655173+00:00",
+      "NumProgressed": 263,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -1117,9 +1122,9 @@
       "ID": "AnomalyDestroyer",
       "SetID": "1jeo1g7",
       "Name": "Anomaly Destroyer",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 79
     },
     {
       "ID": "AnomalyMaster",
@@ -1199,7 +1204,7 @@
       "Name": "Astral Adventurer",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "AstralSeeker",
@@ -1223,7 +1228,7 @@
       "Name": "Astrarium of Holding",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "AstreasSaviors",
@@ -1319,7 +1324,7 @@
       "Name": "Denying Destiny",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "DiceSpecialist",
@@ -1335,7 +1340,7 @@
       "Name": "Dicesmithing Time!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "EndlessTricks",
@@ -1343,7 +1348,7 @@
       "Name": "Endless Tricks",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "EridanianChampionAchievement",
@@ -1407,7 +1412,7 @@
       "Name": "If I Had Failed...",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "LacertianChampionAchievement",
@@ -1455,7 +1460,7 @@
       "Name": "Mechanical Buddy",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "MeissasSavior",
@@ -1463,7 +1468,7 @@
       "Name": "Meissa\u0027s Savior",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "MindIlluminator",
@@ -1471,7 +1476,7 @@
       "Name": "Mind Illuminator",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -1535,7 +1540,7 @@
       "Name": "Purification Pioneer",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ReflexiveMind",
@@ -1567,7 +1572,7 @@
       "Name": "Sanctuary Guardian",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "Sentinelphobic",
@@ -1647,7 +1652,7 @@
       "Name": "The Chaos Artisan",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "TheCorruptionGoddess",
@@ -1671,7 +1676,7 @@
       "Name": "The Distorted Sage",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "TheGoddesAvatar",
@@ -1807,7 +1812,7 @@
       "Name": "Behenian Hero",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "BehenianMastery",
@@ -1855,7 +1860,7 @@
       "Name": "Lacertian Hero",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "LacertianMastery",
@@ -1879,7 +1884,7 @@
       "Name": "Noctuan Hero",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "NoctuanMastery",
@@ -1894,14 +1899,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 262,
+      "Progressed": 263,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-29T01:45:35.0702516+00:00",
+  "LastChanged_Achievements": "2023-12-29T02:23:55.065516+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:02.5351328+00:00",
-  "LastUpdate_Ratings": "2023-12-29T01:34:34.0021058+00:00",
-  "LastUpdate_Achievements": "2023-12-29T01:45:35.0704149+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:13:19.7496831+00:00",
+  "LastUpdate_Achievements": "2023-12-29T02:23:55.0656233+00:00"
 }

@@ -79,9 +79,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1955,
+  "EOS_Progressed": 1956,
   "EOS_Completed": 117,
-  "EOS_NewPlayers": 439,
+  "EOS_NewPlayers": 438,
   "EOS_NewCompleters": 37,
   "EOS_Completed_Percentage": 5.98,
   "EosHistory": [
@@ -5599,6 +5599,11 @@
       "Time": "2023-12-29T01:42:00.6820248+00:00",
       "NumProgressed": 1955,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-12-29T02:20:32.9494169+00:00",
+      "NumProgressed": 1956,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 25,
@@ -5730,7 +5735,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -5809,7 +5814,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1955,
+      "Progressed": 1956,
       "Completed": 117
     }
   ],
@@ -5817,8 +5822,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-28T06:58:32.2175131+00:00",
-  "LastChanged_Achievements": "2023-12-29T01:42:00.682024+00:00",
+  "LastChanged_Achievements": "2023-12-29T02:20:32.9494164+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-29T01:35:38.1539483+00:00",
-  "LastUpdate_Achievements": "2023-12-29T01:42:00.6820697+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:14:21.6157716+00:00",
+  "LastUpdate_Achievements": "2023-12-29T02:20:32.9494578+00:00"
 }

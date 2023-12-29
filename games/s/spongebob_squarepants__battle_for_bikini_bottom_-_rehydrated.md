@@ -13,16 +13,16 @@ Number of Ratings: 76  (23.09.2022)
 | Sweet Victory | 9.00% | ~42 |
 | Sock Getter | 9.00% | ~42 |
 | Time For Tutorial | 9.00% | ~42 |
-| Star Smasher | 8.00% | ~37 |
-| Surf's Up! | 8.00% | ~37 |
+| Star Smasher | 8.00% | ~38 |
+| Surf's Up! | 8.00% | ~38 |
 | Uptown and Downtown | 7.00% | ~33 |
 | Super Spatula Seeker | 7.00% | ~33 |
 | Squirrel Smasher | 7.00% | ~33 |
 | Life's as extreme as you wanna make it! | 6.00% | ~28 |
 | Toxic Terror | 6.00% | ~28 |
 | Hit Rock Bottom | 6.00% | ~28 |
-| Keep it Rolling | 5.00% | ~23 |
-| Shrimp Catcher | 5.00% | ~23 |
+| Keep it Rolling | 5.00% | ~24 |
+| Shrimp Catcher | 5.00% | ~24 |
 | Robot encyclopedia | 4.00% | ~19 |
 | Are you ready now? | 4.00% | ~19 |
 | Hello, Bikini Bottom | 4.00% | ~19 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | 100% SpongeBob | 0.90% | ~4 |
 | Super Ultra Mega Spatula Seeker | 0.90% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 468 (Ranked 345)  
+Progressed: 470 (Ranked 345)  
 Completed: 3 (0.64%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,7 +55,7 @@ Completed: 3 (0.64%) (Ranked 201)
 | 2023-12-26 | 412 | 3 |
 | 2023-12-27 | 435 | 3 |
 | 2023-12-28 | 466 | 3 |
-| 2023-12-29 | 468 | 3 |
+| 2023-12-29 | 470 | 3 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 495)  
 Sum: 35 (Ranked 522)  

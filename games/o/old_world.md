@@ -23,6 +23,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 0.50% | ~80 |
 | Hanging Gardens | 0.50% | ~80 |
 | Oracle | 0.50% | ~80 |
+| Judaism | 0.50% | ~80 |
 | Greek Paganism | 0.50% | ~80 |
 | Trade Caravan | 0.50% | ~80 |
 | Ambitious | 0.40% | ~64 |
@@ -37,7 +38,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate | 0.40% | ~64 |
 | Pyramids | 0.40% | ~64 |
 | Learn to Play 1 | 0.40% | ~64 |
-| Judaism | 0.40% | ~64 |
 | Zoroastrianism | 0.40% | ~64 |
 | Naming Landmarks | 0.40% | ~64 |
 | Regicide | 0.30% | ~48 |
@@ -176,6 +176,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Philip's Golden Crown | 0.10% | ~16 |
 | Philip's Silver Crown | 0.10% | ~16 |
 | Mausoleum in Halicarnassus | 0.10% | ~16 |
+| Hardcore | 0.10% | ~16 |
 | Circus Maximus | 0.10% | ~16 |
 | Hagia Sophia | 0.10% | ~16 |
 | Church of the Holy Sepulchre | 0.10% | ~16 |
@@ -317,7 +318,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Toppling the Giants | 0.00% | ~0 |
 | Rule of Pharaohs | 0.00% | ~0 |
 | The Eastern Empire | 0.00% | ~0 |
-| Hardcore | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
 | Learn By Playing 3 - Good | 0.00% | ~0 |
 | Learn By Playing 4 - Strong | 0.00% | ~0 |

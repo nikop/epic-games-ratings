@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -994,7 +994,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 359097,
+  "EOS_Progressed": 359101,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1343,
   "EOS_NewCompleters": 0,
@@ -29804,6 +29804,11 @@
       "Time": "2023-12-29T01:42:10.3438031+00:00",
       "NumProgressed": 359097,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-29T02:20:41.6295945+00:00",
+      "NumProgressed": 359101,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -30023,7 +30028,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 165185
+      "UsersEstimate": 165186
     },
     {
       "ID": "ach028",
@@ -30095,7 +30100,7 @@
       "Name": "Still Dreaming",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1795
+      "UsersEstimate": 1796
     },
     {
       "ID": "ach037",
@@ -30263,7 +30268,7 @@
       "Name": "Working on the Railroad",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1795
+      "UsersEstimate": 1796
     },
     {
       "ID": "ach058",
@@ -30431,7 +30436,7 @@
       "Name": "Social Butterfly",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1795
+      "UsersEstimate": 1796
     },
     {
       "ID": "ach080",
@@ -30454,7 +30459,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 359097,
+      "Progressed": 359101,
       "Completed": 7
     }
   ],
@@ -30462,8 +30467,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-12-28T06:00:32.0023318+00:00",
-  "LastChanged_Achievements": "2023-12-29T01:42:10.3438025+00:00",
+  "LastChanged_Achievements": "2023-12-29T02:20:41.6295942+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:34.5692536+00:00",
-  "LastUpdate_Ratings": "2023-12-29T01:34:08.459883+00:00",
-  "LastUpdate_Achievements": "2023-12-29T01:42:10.3439734+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:12:54.9125444+00:00",
+  "LastUpdate_Achievements": "2023-12-29T02:20:41.6298237+00:00"
 }

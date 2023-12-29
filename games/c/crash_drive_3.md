@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Brace for impact! | 30.00% | ~128 |
-| A Forest Walk | 29.00% | ~123 |
+| A Forest Walk | 29.00% | ~124 |
 | Baby's First Car | 28.00% | ~119 |
-| Pushover | 28.00% | ~119 |
 | Amateur Mechanic | 27.00% | ~115 |
+| Pushover | 27.00% | ~115 |
 | C-C-C-Combo! | 25.00% | ~106 |
 | Multiply that! | 25.00% | ~106 |
 | Fore! | 23.00% | ~98 |
@@ -23,13 +23,13 @@
 | In the Bag! | 21.00% | ~89 |
 | Car-Tapult | 20.00% | ~85 |
 | First Come, First Serve | 20.00% | ~85 |
-| Take that Frosty! | 20.00% | ~85 |
 | Goodbye cruel world | 20.00% | ~85 |
 | Beach Party! | 20.00% | ~85 |
 | Disoriented | 19.00% | ~81 |
 | Anger Issues | 19.00% | ~81 |
+| Take that Frosty! | 19.00% | ~81 |
 | Your Highness | 19.00% | ~81 |
-| Event Amateur | 18.00% | ~76 |
+| Event Amateur | 18.00% | ~77 |
 | Drift King! | 16.00% | ~68 |
 | Feeling Hot Hot Hot! | 16.00% | ~68 |
 | Feeling Dizzy? | 16.00% | ~68 |
@@ -42,7 +42,7 @@
 | Earth Defense Force | 11.00% | ~47 |
 | Toot Toot! | 11.00% | ~47 |
 | Rocketman | 11.00% | ~47 |
-| High Roller | 10.00% | ~42 |
+| High Roller | 10.00% | ~43 |
 | Event Pro | 9.00% | ~38 |
 | Space Crash | 7.00% | ~30 |
 | To war! | 6.00% | ~26 |
@@ -54,13 +54,13 @@
 | Apprentice Mechanic | 3.00% | ~13 |
 | 433 Eros | 3.00% | ~13 |
 | One Million Dollars! | 3.00% | ~13 |
-| Monkey Madness | 2.00% | ~8 |
-| M2H was Here! | 2.00% | ~8 |
+| Monkey Madness | 2.00% | ~9 |
+| M2H was Here! | 2.00% | ~9 |
 | Ultimate Car Collector | 0.90% | ~4 |
 | Master Mechanic | 0.90% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425 (Ranked 354)  
+Progressed: 426 (Ranked 354)  
 Completed: 2 (0.47%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,6 +164,7 @@ Completed: 2 (0.47%) (Ranked 220)
 | 2023-12-24 | 422 | 2 |
 | 2023-12-26 | 424 | 2 |
 | 2023-12-28 | 425 | 2 |
+| 2023-12-29 | 426 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

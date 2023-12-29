@@ -17,7 +17,7 @@ Number of Ratings: 90  (23.09.2022)
 | Lie Back and Think of Albion | 25.00% | ~58 |
 | Upgreatest | 25.00% | ~58 |
 | Pimp My Raid | 23.00% | ~53 |
-| I Look Up As I Walk to Takoshima | 19.00% | ~44 |
+| I Look Up As I Walk to Takoshima | 20.00% | ~46 |
 | Freshly Squeezed | 17.00% | ~39 |
 | Die Nasty | 17.00% | ~39 |
 | Perfect Probulator | 16.00% | ~37 |
@@ -26,7 +26,7 @@ Number of Ratings: 90  (23.09.2022)
 | Kaijuiced | 9.00% | ~21 |
 | Dusted | 9.00% | ~21 |
 | Fly Me to the Moon Base | 8.00% | ~18 |
-| Scuttled | 6.00% | ~14 |
+| Scuttled | 7.00% | ~16 |
 | Re-Return of the Clone of the Invasion II-2 | 6.00% | ~14 |
 | Lobster Blisque | 4.00% | ~9 |
 | Yettisoned | 4.00% | ~9 |

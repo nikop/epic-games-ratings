@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -335,9 +335,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 12041,
+  "EOS_Progressed": 12043,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 1122,
+  "EOS_NewPlayers": 1116,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -8305,6 +8305,11 @@
       "Time": "2023-12-29T01:46:58.6386955+00:00",
       "NumProgressed": 12041,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-12-29T02:25:24.9399901+00:00",
+      "NumProgressed": 12043,
+      "NumCompleted": 23
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -8357,7 +8362,7 @@
       "Name": "Connection Lost",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 2408
+      "UsersEstimate": 2409
     },
     {
       "ID": "Eavesdropper",
@@ -8389,7 +8394,7 @@
       "Name": "First Time?",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 5900
+      "UsersEstimate": 5901
     },
     {
       "ID": "FuneralForTheDeath",
@@ -8429,7 +8434,7 @@
       "Name": "He Just Wanted To Help",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "JackOfAllTrades",
@@ -8461,7 +8466,7 @@
       "Name": "Nasty!",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 3010
+      "UsersEstimate": 3011
     },
     {
       "ID": "NoMoreTotems",
@@ -8525,7 +8530,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1565
+      "UsersEstimate": 1566
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -8557,7 +8562,7 @@
       "Name": "Digestive Issues",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1565
+      "UsersEstimate": 1566
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -8588,7 +8593,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 12041,
+      "Progressed": 12043,
       "Completed": 23
     }
   ],
@@ -8596,8 +8601,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-28T06:59:21.2070382+00:00",
-  "LastChanged_Achievements": "2023-12-29T01:46:58.6386951+00:00",
+  "LastChanged_Achievements": "2023-12-29T02:25:24.9399896+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.4946312+00:00",
-  "LastUpdate_Ratings": "2023-12-29T01:36:26.4638944+00:00",
-  "LastUpdate_Achievements": "2023-12-29T01:46:58.6387508+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:15:07.7729371+00:00",
+  "LastUpdate_Achievements": "2023-12-29T02:25:24.9400477+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "16c882e1ebdc4212b75b9d59c30b08f0",
   "Name": "Asteroids: Recharged",
   "ProductSlug": "asteroids-recharged",
-  "Ranking_EOS_Progress": 363,
-  "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_Progress": 357,
+  "Ranking_EOS_Completed": 263,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-12-14T16:00:00+00:00",
     "PcReleaseDate": "2021-12-14T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 376,
+  "EOS_Progressed": 406,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 284,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.27,
+  "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.0797761+00:00",
@@ -404,6 +404,11 @@
       "Time": "2023-12-29T01:41:00.1058251+00:00",
       "NumProgressed": 376,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T02:19:34.0664062+00:00",
+      "NumProgressed": 406,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 16,
@@ -415,13 +420,13 @@
       "Name": "All Dead, All Dead",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_COOL_CAT",
       "SetID": "ca3jj1k",
       "Name": "Cool Cat",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -431,13 +436,13 @@
       "Name": "Friends Will Be Friends",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_GOOD_COMPANY",
       "SetID": "ca3jj1k",
       "Name": "Good Company",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -445,17 +450,17 @@
       "ID": "ACH_KEEP_YOURSELF_ALIVE",
       "SetID": "ca3jj1k",
       "Name": "Keep Yourself Alive",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH_KILLER_QUEEN",
       "SetID": "ca3jj1k",
       "Name": "Killer Queen",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_MACHINES",
@@ -469,9 +474,9 @@
       "ID": "ACH_MISFIRE",
       "SetID": "ca3jj1k",
       "Name": "Misfire",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_NOW_IM_HERE",
@@ -479,7 +484,7 @@
       "Name": "Now I\u0027m Here",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 188
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_PUT_OUT_THE_FIRE",
@@ -493,25 +498,25 @@
       "ID": "ACH_ROCK_IT",
       "SetID": "ca3jj1k",
       "Name": "Rock It",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_THE_HERO",
       "SetID": "ca3jj1k",
       "Name": "The Hero",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 207
+      "UsersEstimate": 219
     },
     {
       "ID": "ACH_THE_HITMAN",
       "SetID": "ca3jj1k",
       "Name": "The Hitman",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 120
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_THE_INVISIBLE",
@@ -519,7 +524,7 @@
       "Name": "The Invisible Man",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 75
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_THE_MIRACLE",
@@ -527,22 +532,22 @@
       "Name": "The Miracle",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_WE_WILL_ROCK_YOU",
       "SetID": "ca3jj1k",
       "Name": "We Will Rock You",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 57
     }
   ],
   "AchievementSets": [
     {
       "ID": "ca3jj1k",
       "IsBase": true,
-      "Progressed": 376,
+      "Progressed": 406,
       "Completed": 1
     }
   ],
@@ -550,8 +555,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2023-12-29T01:41:00.1058245+00:00",
+  "LastChanged_Achievements": "2023-12-29T02:19:34.0664059+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:35.7524538+00:00",
-  "LastUpdate_Ratings": "2023-12-29T01:34:17.3839963+00:00",
-  "LastUpdate_Achievements": "2023-12-29T01:41:00.105836+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:13:03.6501056+00:00",
+  "LastUpdate_Achievements": "2023-12-29T02:19:34.0664185+00:00"
 }

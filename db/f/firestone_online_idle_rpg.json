@@ -4,11 +4,11 @@
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 1023,
   "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 445,
+  "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -641,10 +641,16 @@
       "Rating": 4.03,
       "NumberOfAwards": 128,
       "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-12-29T02:13:48.1079307+00:00",
+      "Rating": 4.03,
+      "NumberOfAwards": 129,
+      "NumberOfAwardsMax": 39
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 128,
+  "NumberOfAwards": 129,
   "NumberOfAwardsMax": 39,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -658,7 +664,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Diverse Characters",
@@ -687,7 +693,7 @@
   ],
   "EOS_Progressed": 3915,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11747,9 +11753,9 @@
   "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
-  "LastChanged": "2023-12-28T06:57:57.303096+00:00",
-  "LastChanged_Achievements": "2023-12-29T01:41:31.502245+00:00",
+  "LastChanged": "2023-12-29T02:13:48.1079305+00:00",
+  "LastChanged_Achievements": "2023-12-29T02:20:04.2883647+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:54.8970424+00:00",
-  "LastUpdate_Ratings": "2023-12-29T01:35:03.2149884+00:00",
-  "LastUpdate_Achievements": "2023-12-29T01:41:31.5023418+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:13:48.1079311+00:00",
+  "LastUpdate_Achievements": "2023-12-29T02:20:04.2884576+00:00"
 }

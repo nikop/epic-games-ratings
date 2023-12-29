@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 409,
+  "EOS_Progressed": 410,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -1744,6 +1744,11 @@
       "Time": "2023-12-29T01:42:07.3567891+00:00",
       "NumProgressed": 409,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T02:20:38.9205644+00:00",
+      "NumProgressed": 410,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -1756,7 +1761,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -1796,7 +1801,7 @@
       "Name": "Fisherman",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -1810,9 +1815,9 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 262
+      "UsersEstimate": 258
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -1820,7 +1825,7 @@
       "Name": "Farmer",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "HOUSEWARMING",
@@ -1834,9 +1839,9 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 172
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -1898,9 +1903,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 303
+      "UsersEstimate": 299
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -1908,21 +1913,21 @@
       "Name": "Strong Signal",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 409,
+      "Progressed": 410,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-29T01:42:07.3567888+00:00",
+  "LastChanged_Achievements": "2023-12-29T02:20:38.9205641+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.5394751+00:00",
-  "LastUpdate_Ratings": "2023-12-29T01:36:24.885634+00:00",
-  "LastUpdate_Achievements": "2023-12-29T01:42:07.3568054+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:15:06.3552116+00:00",
+  "LastUpdate_Achievements": "2023-12-29T02:20:38.9205827+00:00"
 }

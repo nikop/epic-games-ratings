@@ -41,7 +41,7 @@ Rating: 4.35 (Ranked 814)
 | Archibald Sterling | 26.00% | ~124 |
 | Viscount Edwin Van den Bosch | 26.00% | ~124 |
 | Exquisite Artwork | 25.00% | ~119 |
-| Well-prepared | 21.00% | ~100 |
+| Well-prepared | 22.00% | ~104 |
 | The Truth | 21.00% | ~100 |
 | Sunken Secrets | 19.00% | ~90 |
 | What Else Did I Miss? | 19.00% | ~90 |

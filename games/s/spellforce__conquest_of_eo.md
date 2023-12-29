@@ -12,7 +12,7 @@
 | Expansion | 62.00% | ~57 |
 | Mine! | 59.00% | ~54 |
 | Harvest Time | 57.00% | ~52 |
-| Artificer's Apprentice | 50.00% | ~46 |
+| Artificer's Apprentice | 51.00% | ~47 |
 | Fly the friendly Sky | 46.00% | ~42 |
 | Get out of here! | 40.00% | ~37 |
 | Necromancer's Apprentice | 39.00% | ~36 |
@@ -28,7 +28,7 @@
 | Friend of Connach | 15.00% | ~14 |
 | Break Free | 15.00% | ~14 |
 | Friend of Alluvyan | 14.00% | ~13 |
-| Friend of Gillyshire | 13.00% | ~12 |
+| Friend of Gillyshire | 14.00% | ~13 |
 | Philo's Tale | 12.00% | ~11 |
 | Friend of Silver Drift Hollow | 12.00% | ~11 |
 | Stormwatch Faste | 11.00% | ~10 |

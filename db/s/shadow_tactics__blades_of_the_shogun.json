@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2410,9 +2410,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 222342,
+  "EOS_Progressed": 222349,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 1610,
+  "EOS_NewPlayers": 1614,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -31445,6 +31445,11 @@
       "Time": "2023-12-29T01:41:57.3108856+00:00",
       "NumProgressed": 222342,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-12-29T02:20:29.5394542+00:00",
+      "NumProgressed": 222349,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 44,
@@ -31528,7 +31533,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 26681
+      "UsersEstimate": 26682
     },
     {
       "ID": "HappyLittleAccidents",
@@ -31704,7 +31709,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17787
+      "UsersEstimate": 17788
     },
     {
       "ID": "TanukiTime",
@@ -31800,22 +31805,22 @@
       "Name": "Yabu",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 17787
+      "UsersEstimate": 17788
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 222342,
+      "Progressed": 222349,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-12-28T18:00:11.2894316+00:00",
-  "LastChanged_Achievements": "2023-12-29T01:41:57.3108851+00:00",
+  "LastChanged_Achievements": "2023-12-29T02:20:29.5394538+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:16.1006959+00:00",
-  "LastUpdate_Ratings": "2023-12-29T01:37:02.9875296+00:00",
-  "LastUpdate_Achievements": "2023-12-29T01:41:57.3110698+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:15:42.7641225+00:00",
+  "LastUpdate_Achievements": "2023-12-29T02:20:29.5396119+00:00"
 }

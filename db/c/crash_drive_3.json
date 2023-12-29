@@ -4,8 +4,8 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 459,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 425,
+  "EOS_Progressed": 426,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -684,6 +684,11 @@
       "Time": "2023-12-28T04:09:11.8839542+00:00",
       "NumProgressed": 425,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-29T02:24:15.55732+00:00",
+      "NumProgressed": 426,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -751,7 +756,7 @@
       "Name": "High Roller",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "COLLECT_ALL_CARS",
@@ -775,7 +780,7 @@
       "Name": "Monkey Madness",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "DRIFT_500M",
@@ -791,7 +796,7 @@
       "Name": "M2H was Here!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "FIND_ALL_GAPS",
@@ -877,9 +882,9 @@
       "ID": "HIT_50_PUSHABLES",
       "SetID": "20koof9",
       "Name": "Pushover",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 115
     },
     {
       "ID": "HIT_ALIEN",
@@ -893,9 +898,9 @@
       "ID": "HIT_BIG_SNOWMAN",
       "SetID": "20koof9",
       "Name": "Take that Frosty!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 81
     },
     {
       "ID": "HIT_EXPLOSIVE_BARREL",
@@ -959,7 +964,7 @@
       "Name": "A Forest Walk",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -1071,7 +1076,7 @@
       "Name": "Event Amateur",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "WIN_50_EVENTS",
@@ -1134,7 +1139,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 425,
+      "Progressed": 426,
       "Completed": 2
     }
   ],
@@ -1142,8 +1147,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-12-29T01:45:55.423457+00:00",
+  "LastChanged_Achievements": "2023-12-29T02:24:15.5573196+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:14.0108602+00:00",
-  "LastUpdate_Ratings": "2023-12-29T01:36:06.6690415+00:00",
-  "LastUpdate_Achievements": "2023-12-29T01:45:55.4234933+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:14:48.9055528+00:00",
+  "LastUpdate_Achievements": "2023-12-29T02:24:15.5573695+00:00"
 }

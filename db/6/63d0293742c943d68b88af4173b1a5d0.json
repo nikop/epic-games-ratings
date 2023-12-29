@@ -2,10 +2,10 @@
   "ID": "63d0293742c943d68b88af4173b1a5d0",
   "Name": "Who\u0027s Your Daddy?!",
   "ProductSlug": "whos-your-daddy-403b04",
-  "Ranking_EOS_Progress": 333,
+  "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -1855,9 +1855,9 @@
       "ID": "REMAKE_001",
       "SetID": "5pi96jj",
       "Name": "Turn a Rat into a Snack",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 171
     },
     {
       "ID": "REMAKE_002",
@@ -2015,9 +2015,9 @@
       "ID": "Remake_22",
       "SetID": "5pi96jj",
       "Name": "Escape Lookout Cove",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 105
     }
   ],
   "AchievementSets": [
@@ -2030,8 +2030,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-29T01:42:42.3808835+00:00",
+  "LastChanged_Achievements": "2023-12-29T02:21:12.5409751+00:00",
   "LastUpdate_AppInfo": "2023-12-26T02:16:12.1403657+00:00",
-  "LastUpdate_Ratings": "2023-12-29T01:35:54.9571598+00:00",
-  "LastUpdate_Achievements": "2023-12-29T01:42:42.3809359+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:14:37.4861247+00:00",
+  "LastUpdate_Achievements": "2023-12-29T02:21:12.5409963+00:00"
 }

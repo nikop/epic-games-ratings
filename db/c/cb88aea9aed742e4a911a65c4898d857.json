@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -203,9 +203,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 8412,
+  "EOS_Progressed": 8418,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2303,
+  "EOS_NewPlayers": 2306,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2778,6 +2778,11 @@
       "Time": "2023-12-29T01:46:47.4905293+00:00",
       "NumProgressed": 8412,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T02:25:13.8416816+00:00",
+      "NumProgressed": 8418,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -2788,9 +2793,9 @@
       "ID": "02_TheIntrigue",
       "SetID": "37a94m8",
       "Name": "Conspiracy",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 51
     },
     {
       "ID": "03_TheStolenStar",
@@ -2900,9 +2905,9 @@
       "ID": "16_TheRise",
       "SetID": "37a94m8",
       "Name": "The Rise",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 34
     },
     {
       "ID": "17_TheExemplar",
@@ -2916,9 +2921,9 @@
       "ID": "18_TheRookieSkipper",
       "SetID": "37a94m8",
       "Name": "Rookie Skipper",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 34
     },
     {
       "ID": "19_TheVoidWolf",
@@ -3140,9 +3145,9 @@
       "ID": "46_ASpark",
       "SetID": "37a94m8",
       "Name": "A Spark",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 34
     },
     {
       "ID": "47_AFlame",
@@ -3309,7 +3314,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8412,
+      "Progressed": 8418,
       "Completed": 0
     }
   ],
@@ -3317,8 +3322,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-28T13:57:33.384002+00:00",
-  "LastChanged_Achievements": "2023-12-29T01:46:47.490529+00:00",
+  "LastChanged_Achievements": "2023-12-29T02:25:13.8416813+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-29T01:34:24.7510216+00:00",
-  "LastUpdate_Achievements": "2023-12-29T01:46:47.4905798+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:13:10.7406289+00:00",
+  "LastUpdate_Achievements": "2023-12-29T02:25:13.841732+00:00"
 }

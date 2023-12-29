@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 81.00% | ~212 |
-| Purification Pioneer | 76.00% | ~199 |
-| Mechanical Buddy | 71.00% | ~186 |
-| Dicesmithing Time! | 63.00% | ~165 |
-| Sanctuary Guardian | 55.00% | ~144 |
-| Endless Tricks | 49.00% | ~128 |
+| Meissa's Savior | 81.00% | ~213 |
+| Purification Pioneer | 76.00% | ~200 |
+| Mechanical Buddy | 71.00% | ~187 |
+| Dicesmithing Time! | 63.00% | ~166 |
+| Sanctuary Guardian | 55.00% | ~145 |
+| Endless Tricks | 49.00% | ~129 |
 | Wild's Keeper | 46.00% | ~121 |
-| Mind Illuminator | 44.00% | ~115 |
+| Mind Illuminator | 44.00% | ~116 |
 | Stellar Dismantler | 35.00% | ~92 |
 | Noctuan Champion | 35.00% | ~92 |
-| Anomaly Destroyer | 31.00% | ~81 |
-| Astral Adventurer | 31.00% | ~81 |
+| Astral Adventurer | 31.00% | ~82 |
+| Anomaly Destroyer | 30.00% | ~79 |
 | Star Killer | 27.00% | ~71 |
 | Eridanian Champion | 24.00% | ~63 |
 | Loyal Partner | 22.00% | ~58 |
@@ -40,14 +40,14 @@
 | Prestidigitation | 5.00% | ~13 |
 | The Dark Moon | 5.00% | ~13 |
 | Apian Hero | 5.00% | ~13 |
-| Astrarium of Holding | 4.00% | ~10 |
-| Denying Destiny | 4.00% | ~10 |
-| If I Had Failed... | 4.00% | ~10 |
-| The Chaos Artisan | 4.00% | ~10 |
-| The Distorted Sage | 4.00% | ~10 |
-| Behenian Hero | 4.00% | ~10 |
-| Lacertian Hero | 4.00% | ~10 |
-| Noctuan Hero | 4.00% | ~10 |
+| Astrarium of Holding | 4.00% | ~11 |
+| Denying Destiny | 4.00% | ~11 |
+| If I Had Failed... | 4.00% | ~11 |
+| The Chaos Artisan | 4.00% | ~11 |
+| The Distorted Sage | 4.00% | ~11 |
+| Behenian Hero | 4.00% | ~11 |
+| Lacertian Hero | 4.00% | ~11 |
+| Noctuan Hero | 4.00% | ~11 |
 | Purification Avatar | 3.00% | ~8 |
 | The Abyssal Terror | 3.00% | ~8 |
 | The Ardent Prince | 3.00% | ~8 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 262 (Ranked 398)  
+Progressed: 263 (Ranked 398)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,3 +167,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 246 | 0 |
 | 2023-12-27 | 253 | 0 |
 | 2023-12-28 | 262 | 0 |
+| 2023-12-29 | 263 | 0 |

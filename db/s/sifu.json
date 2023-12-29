@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8565,9 +8565,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 747289,
+  "EOS_Progressed": 747302,
   "EOS_Completed": 12967,
-  "EOS_NewPlayers": 8308,
+  "EOS_NewPlayers": 8301,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.74,
   "EosHistory": [
@@ -31360,6 +31360,11 @@
       "Time": "2023-12-29T01:46:03.6646286+00:00",
       "NumProgressed": 747289,
       "NumCompleted": 12967
+    },
+    {
+      "Time": "2023-12-29T02:24:24.0373827+00:00",
+      "NumProgressed": 747302,
+      "NumCompleted": 12967
     }
   ],
   "TotalAchievements": 60,
@@ -31419,7 +31424,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3736
+      "UsersEstimate": 3737
     },
     {
       "ID": "08_Wude_H2",
@@ -31427,7 +31432,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3736
+      "UsersEstimate": 3737
     },
     {
       "ID": "09_Wude_H3",
@@ -31435,7 +31440,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3736
+      "UsersEstimate": 3737
     },
     {
       "ID": "10_Wude_H4",
@@ -31483,7 +31488,7 @@
       "Name": "Detective Story",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3736
+      "UsersEstimate": 3737
     },
     {
       "ID": "16_Detective_H2",
@@ -31850,21 +31855,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 56590,
+      "Progressed": 56603,
       "Completed": 10789
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 747289,
+      "Progressed": 747302,
       "Completed": 12967
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-28T23:03:51.5468805+00:00",
-  "LastChanged_Achievements": "2023-12-29T01:46:03.6646282+00:00",
+  "LastChanged_Achievements": "2023-12-29T02:24:24.0373824+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:49.3189229+00:00",
-  "LastUpdate_Ratings": "2023-12-29T01:40:00.9933842+00:00",
-  "LastUpdate_Achievements": "2023-12-29T01:46:03.6647839+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:18:36.33943+00:00",
+  "LastUpdate_Achievements": "2023-12-29T02:24:24.037509+00:00"
 }

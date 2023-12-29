@@ -11,8 +11,8 @@
 | First blood | 28.00% | ~15 |
 | Royal blessing | 25.00% | ~13 |
 | All for one! | 23.00% | ~12 |
+| Blood and sand | 23.00% | ~12 |
 | A hidden snake | 21.00% | ~11 |
-| Blood and sand | 21.00% | ~11 |
 | Crimson rivers | 17.00% | ~9 |
 | Power of Inquisition | 17.00% | ~9 |
 | Surpass the teacher | 17.00% | ~9 |
@@ -41,7 +41,7 @@
 | The power of persuasion | 4.00% | ~2 |
 | A solo player | 4.00% | ~2 |
 | Cunning plan | 4.00% | ~2 |
-| Do it yourself | 2.00% | ~1 |
+| Do it yourself | 4.00% | ~2 |
 | By someone else's hands | 2.00% | ~1 |
 | There can be only one | 2.00% | ~1 |
 | Happily ever after | 2.00% | ~1 |

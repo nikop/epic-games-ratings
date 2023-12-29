@@ -33,10 +33,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Dance of the Praying Mantis | 0.80% | ~5,978 |
 | Fight the way you practice | 0.70% | ~396 |
 | Martial Hub | 0.60% | ~340 |
-| Muk Yan Master | 0.50% | ~3,736 |
-| Tiger on Fire | 0.50% | ~3,736 |
-| Source of Flying Daggers | 0.50% | ~3,736 |
-| Detective Story | 0.50% | ~3,736 |
+| Muk Yan Master | 0.50% | ~3,737 |
+| Tiger on Fire | 0.50% | ~3,737 |
+| Source of Flying Daggers | 0.50% | ~3,737 |
+| Detective Story | 0.50% | ~3,737 |
 | Bloody Sport | 0.50% | ~283 |
 | Iron Money | 0.40% | ~2,989 |
 | Legendary Talismans of Wuxing | 0.40% | ~2,989 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~57 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 747,289 (Ranked 23)  
+Progressed: 747,302 (Ranked 23)  
 Completed: 12,967 (1.74%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 12,967 (1.74%) (Ranked 141)
 | 2023-12-26 | 745,555 | 12,967 |
 | 2023-12-27 | 746,407 | 12,967 |
 | 2023-12-28 | 747,246 | 12,967 |
-| 2023-12-29 | 747,289 | 12,967 |
+| 2023-12-29 | 747,302 | 12,967 |
 ## Awards
 Max (Great Boss Battles): 7,041  (Ranked 55)  
 Sum: 12,467 (Ranked 84)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 704,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 493,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-29T00:00:00+00:00",
     "PcReleaseDate": "2023-05-14T15:00:00+00:00",
@@ -367,9 +367,9 @@
       "ID": "LEVEL_COMPLETE_1_0",
       "SetID": "1fek4an",
       "Name": "Boneyard",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LEVEL_COMPLETE_1_12",
@@ -605,8 +605,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2023-12-29T01:42:41.8386113+00:00",
+  "LastChanged_Achievements": "2023-12-29T02:21:11.9598561+00:00",
   "LastUpdate_AppInfo": "2023-12-27T12:59:42.9426347+00:00",
-  "LastUpdate_Ratings": "2023-12-29T01:39:49.1893436+00:00",
-  "LastUpdate_Achievements": "2023-12-29T01:42:41.8386765+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:18:25.2199738+00:00",
+  "LastUpdate_Achievements": "2023-12-29T02:21:11.9599154+00:00"
 }

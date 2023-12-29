@@ -19,18 +19,18 @@ Number of Ratings: 15,086  (23.09.2022)
 | Defeat The Dark | 0.80% | ~1,935 |
 | Goodbye, Frog Friend | 0.80% | ~1,935 |
 | A Donation | 0.80% | ~1,935 |
+| Deflection | 0.80% | ~1,935 |
 | Explorer | 0.80% | ~1,935 |
 | Not Touching You | 0.80% | ~27 |
-| Ambitious Intent | 0.70% | ~1,693 |
-| Delving Deeper | 0.70% | ~1,693 |
-| R.I.P | 0.70% | ~1,693 |
-| The Bestiary | 0.70% | ~1,693 |
-| Heartless | 0.70% | ~1,693 |
-| What's Yours Is Mine | 0.70% | ~1,693 |
-| Spine Breaker | 0.70% | ~1,693 |
-| C-C-Combo | 0.70% | ~1,693 |
-| Deflection | 0.70% | ~1,693 |
-| Sneaky | 0.70% | ~1,693 |
+| Ambitious Intent | 0.70% | ~1,694 |
+| Delving Deeper | 0.70% | ~1,694 |
+| R.I.P | 0.70% | ~1,694 |
+| The Bestiary | 0.70% | ~1,694 |
+| Heartless | 0.70% | ~1,694 |
+| What's Yours Is Mine | 0.70% | ~1,694 |
+| Spine Breaker | 0.70% | ~1,694 |
+| C-C-Combo | 0.70% | ~1,694 |
+| Sneaky | 0.70% | ~1,694 |
 | Dig Your Own Grave | 0.60% | ~1,452 |
 | Who To Trust? | 0.60% | ~1,452 |
 | Walk It Off | 0.60% | ~1,452 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,928 (Ranked 70)  
+Progressed: 241,932 (Ranked 70)  
 Completed: 302 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -398,7 +398,7 @@ Completed: 302 (0.12%) (Ranked 301)
 | 2023-12-26 | 241,782 | 302 |
 | 2023-12-27 | 241,847 | 302 |
 | 2023-12-28 | 241,919 | 302 |
-| 2023-12-29 | 241,928 | 302 |
+| 2023-12-29 | 241,932 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,512  (Ranked 134)  
 Sum: 11,768 (Ranked 88)  
