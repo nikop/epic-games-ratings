@@ -535,9 +535,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 45537,
+  "EOS_Progressed": 45542,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 856,
+  "EOS_NewPlayers": 855,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16800,6 +16800,11 @@
       "Time": "2023-12-29T00:06:18.3003194+00:00",
       "NumProgressed": 45537,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T01:43:26.7730037+00:00",
+      "NumProgressed": 45542,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -16843,7 +16848,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1821
+      "UsersEstimate": 1822
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -16859,7 +16864,7 @@
       "Name": "Attachments",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5009
+      "UsersEstimate": 5010
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -17163,7 +17168,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2732
+      "UsersEstimate": 2733
     },
     {
       "ID": "STAYING_AIR",
@@ -17234,22 +17239,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 45537,
+      "Progressed": 45542,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 10374,
-      "Completed": 10374
+      "Progressed": 10379,
+      "Completed": 10379
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-26T06:59:48.6579528+00:00",
-  "LastChanged_Achievements": "2023-12-29T00:06:18.3003192+00:00",
+  "LastChanged_Achievements": "2023-12-29T01:43:26.7730034+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.8849039+00:00",
-  "LastUpdate_Ratings": "2023-12-29T00:00:18.4416269+00:00",
-  "LastUpdate_Achievements": "2023-12-29T00:06:18.3004066+00:00"
+  "LastUpdate_Ratings": "2023-12-29T01:39:39.0381931+00:00",
+  "LastUpdate_Achievements": "2023-12-29T01:43:26.7731246+00:00"
 }

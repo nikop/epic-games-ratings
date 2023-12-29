@@ -4,8 +4,8 @@
   "ProductSlug": "boxville-2b75d3",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 10,
-  "Ranking_EOS_NewPlayers": 495,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewPlayers": 493,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2022-09-30T08:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 227,
-  "EOS_Completed": 86,
+  "EOS_Completed": 87,
   "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 37.89,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 38.33,
   "EosHistory": [
     {
       "Time": "2023-05-08T15:02:14.2317541+00:00",
@@ -1334,6 +1334,11 @@
       "Time": "2023-12-27T17:04:47.0305237+00:00",
       "NumProgressed": 227,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2023-12-29T01:41:45.7161071+00:00",
+      "NumProgressed": 227,
+      "NumCompleted": 87
     }
   ],
   "TotalAchievements": 18,
@@ -1455,9 +1460,9 @@
       "ID": "Samaritan",
       "SetID": "b7i210",
       "Name": "Samaritan",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 134
+      "UsersEstimate": 136
     },
     {
       "ID": "Street_food",
@@ -1489,13 +1494,13 @@
       "ID": "b7i210",
       "IsBase": true,
       "Progressed": 227,
-      "Completed": 86
+      "Completed": 87
     }
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-12-29T00:04:36.1451813+00:00",
+  "LastChanged_Achievements": "2023-12-29T01:41:45.7161067+00:00",
   "LastUpdate_AppInfo": "2023-12-26T08:57:12.6749173+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:59:36.7513918+00:00",
-  "LastUpdate_Achievements": "2023-12-29T00:04:36.1451989+00:00"
+  "LastUpdate_Ratings": "2023-12-29T01:36:37.748994+00:00",
+  "LastUpdate_Achievements": "2023-12-29T01:41:45.7161254+00:00"
 }

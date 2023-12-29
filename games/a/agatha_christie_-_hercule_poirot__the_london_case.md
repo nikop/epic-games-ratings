@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 72.00% | ~54 |
-| Little ideas | 69.00% | ~52 |
-| The Ship | 65.00% | ~49 |
-| Seeking the truth | 56.00% | ~42 |
+| Marc Allard | 71.00% | ~54 |
+| Little ideas | 68.00% | ~52 |
+| The Ship | 64.00% | ~49 |
+| Seeking the truth | 55.00% | ~42 |
 | An old friend | 53.00% | ~40 |
-| The Gala | 52.00% | ~39 |
+| The Gala | 51.00% | ~39 |
 | A curious gathering | 49.00% | ~37 |
-| Little grey cells | 47.00% | ~35 |
-| Impossible is possible | 47.00% | ~35 |
-| The Missing Magdalene | 47.00% | ~35 |
-| Arthur Hastings | 47.00% | ~35 |
-| Everything matters | 44.00% | ~33 |
+| Little grey cells | 46.00% | ~35 |
+| Impossible is possible | 46.00% | ~35 |
+| The Missing Magdalene | 46.00% | ~35 |
+| Arthur Hastings | 46.00% | ~35 |
+| Everything matters | 43.00% | ~33 |
 | An expert mediator | 41.00% | ~31 |
 | DI Hardwicke | 41.00% | ~31 |
 | Order and method | 36.00% | ~27 |
@@ -31,7 +31,7 @@
 | A rude awakening | 24.00% | ~18 |
 | Anastasia Babanin | 24.00% | ~18 |
 | The Scheme | 24.00% | ~18 |
-| Zakariya Demir | 23.00% | ~17 |
+| Zakariya Demir | 22.00% | ~17 |
 | Truth from within | 21.00% | ~16 |
 | A curious phrase | 20.00% | ~15 |
 | Evelyn Lakshmi Warbeck | 17.00% | ~13 |
@@ -39,9 +39,9 @@
 | The Suspects | 17.00% | ~13 |
 | Horace Mountjoy | 16.00% | ~12 |
 | The Secrets | 16.00% | ~12 |
-| Well-travelled | 15.00% | ~11 |
-| A peculiar fellow | 15.00% | ~11 |
-| Mortimer Ailsworth | 15.00% | ~11 |
+| Well-travelled | 14.00% | ~11 |
+| A peculiar fellow | 14.00% | ~11 |
+| Mortimer Ailsworth | 14.00% | ~11 |
 | Florence Farquhar | 13.00% | ~10 |
 | The Investigation Starts Anew | 13.00% | ~10 |
 | The Denouement | 12.00% | ~9 |
@@ -51,8 +51,8 @@
 | A true performance | 12.00% | ~9 |
 | Perkins | 8.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75 (Ranked 510)  
-Completed: 3 (4.00%) (Ranked 91)  
+Progressed: 76 (Ranked 509)  
+Completed: 3 (3.95%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -104,3 +104,4 @@ Completed: 3 (4.00%) (Ranked 91)
 | 2023-12-26 | 69 | 2 |
 | 2023-12-27 | 74 | 2 |
 | 2023-12-28 | 75 | 3 |
+| 2023-12-29 | 76 | 3 |

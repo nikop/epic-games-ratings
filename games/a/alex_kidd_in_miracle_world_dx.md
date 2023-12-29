@@ -7,8 +7,8 @@
 | Wild Ox | 42.00% | ~163 |
 | Magic Ball | 31.00% | ~121 |
 | Assailants | 24.00% | ~93 |
-| Prisoner | 21.00% | ~82 |
-| First Commander | 17.00% | ~66 |
+| Prisoner | 22.00% | ~86 |
+| First Commander | 18.00% | ~70 |
 | Adventurer | 17.00% | ~66 |
 | Second Commander | 16.00% | ~62 |
 | Third Commander | 14.00% | ~54 |

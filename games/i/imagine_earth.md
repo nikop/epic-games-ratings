@@ -1,7 +1,7 @@
 # Imagine Earth
 [Store](https://store.epicgames.com/en-US/p/imagine-earth-7498e4)  
 [View Rawdata](../../db/i/imagine_earth.json)  
-Rating: 4.32 (Ranked 847)  
+Rating: 4.32 (Ranked 846)  
 Number of Ratings: 22  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,7 +11,7 @@ Number of Ratings: 22  (23.09.2022)
 | Campaign Bronze | 35.00% | ~156 |
 | Lorian | 31.00% | ~138 |
 | Metropolis | 27.00% | ~120 |
-| Rounos | 23.00% | ~102 |
+| Rounos | 24.00% | ~107 |
 | Campaign Silver | 21.00% | ~93 |
 | Magni | 21.00% | ~93 |
 | Bora | 18.00% | ~80 |

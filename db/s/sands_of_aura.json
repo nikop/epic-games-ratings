@@ -2,9 +2,9 @@
   "ID": "ef02301060454cfd8345fae625743294",
   "Name": "Sands of Aura",
   "ProductSlug": "sands-of-aura",
-  "Ranking_EOS_Progress": 466,
+  "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 123,
+  "EOS_Progressed": 124,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -615,6 +615,11 @@
       "Time": "2023-12-27T07:05:44.537307+00:00",
       "NumProgressed": 123,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T01:42:30.4063002+00:00",
+      "NumProgressed": 124,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-14T11:03:32.7947841+00:00",
@@ -841,9 +846,9 @@
       "ID": "DISCOVER_ALL_ISLANDS",
       "SetID": "cm0d613",
       "Name": "Explorer",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "DISCOVER_ONCEMAN_TOWN",
@@ -1027,15 +1032,15 @@
       "Name": "Setting Sail",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "UBAANI_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Spirit Within",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "UBAANI_MASTER",
@@ -1065,9 +1070,9 @@
       "ID": "WILGRAM_TWINS_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Twin Thorns",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "WILGRAM_TWINS_MASTER",
@@ -1090,7 +1095,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 123,
+      "Progressed": 124,
       "Completed": 0
     }
   ],
@@ -1098,8 +1103,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-12-29T00:05:21.6792472+00:00",
+  "LastChanged_Achievements": "2023-12-29T01:42:30.4062999+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.2387789+00:00",
-  "LastUpdate_Ratings": "2023-12-29T00:02:45.0589225+00:00",
-  "LastUpdate_Achievements": "2023-12-29T00:05:21.6792854+00:00"
+  "LastUpdate_Ratings": "2023-12-29T01:39:54.8040629+00:00",
+  "LastUpdate_Achievements": "2023-12-29T01:42:30.4063385+00:00"
 }

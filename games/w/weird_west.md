@@ -6,53 +6,53 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 89.00% | ~1,824 |
+| Unforgiven | 88.00% | ~1,805 |
 | Self-Improvement | 71.00% | ~1,456 |
-| Perky | 65.00% | ~1,332 |
+| Perky | 65.00% | ~1,333 |
 | Let’s Ride | 59.00% | ~1,210 |
-| Welcome to the Weird West | 56.00% | ~1,148 |
+| Welcome to the Weird West | 56.00% | ~1,149 |
 | Dead or Alive | 55.00% | ~1,128 |
-| Full House | 37.00% | ~758 |
+| Full House | 37.00% | ~759 |
 | Off the Trail | 34.00% | ~697 |
-| Justice Served | 29.00% | ~594 |
+| Justice Served | 29.00% | ~595 |
 | Chain Reaction | 27.00% | ~554 |
 | Through Their Eyes | 26.00% | ~533 |
-| Dishonored | 25.00% | ~512 |
-| Rain of Death | 25.00% | ~512 |
-| Scholar | 25.00% | ~512 |
+| Dishonored | 25.00% | ~513 |
+| Rain of Death | 25.00% | ~513 |
+| Scholar | 25.00% | ~513 |
 | The Great Escape | 23.00% | ~472 |
 | That’s All, Folks | 19.00% | ~390 |
 | Fallen Star | 16.00% | ~328 |
 | For Balance | 16.00% | ~328 |
 | Here Comes Santa Claus | 16.00% | ~328 |
 | Winds of War | 16.00% | ~328 |
-| Dog Days | 13.00% | ~266 |
-| Out on the Ebb Tide | 13.00% | ~266 |
-| Turning the Tables | 13.00% | ~266 |
-| Workers' Rights | 13.00% | ~266 |
+| Dog Days | 13.00% | ~267 |
+| Out on the Ebb Tide | 13.00% | ~267 |
+| Turning the Tables | 13.00% | ~267 |
+| Workers' Rights | 13.00% | ~267 |
 | Elusive Prey | 12.00% | ~246 |
 | Power Behind the Pulpit | 12.00% | ~246 |
 | Something Wicked This Way Comes… | 12.00% | ~246 |
 | There is Hope | 12.00% | ~246 |
 | The Philosopher’s Stone | 10.00% | ~205 |
-| Loyalty to the Pack | 9.00% | ~184 |
-| Eternity Can Wait | 9.00% | ~184 |
-| Mystery Machine | 9.00% | ~184 |
+| Loyalty to the Pack | 9.00% | ~185 |
+| Eternity Can Wait | 9.00% | ~185 |
+| Mystery Machine | 9.00% | ~185 |
 | Do Not Pass Go… | 8.00% | ~164 |
 | Gold Digger | 8.00% | ~164 |
 | Monster Hunter | 8.00% | ~164 |
 | Knuckle Sandwich | 8.00% | ~164 |
 | Getting the Gang Back Together | 7.00% | ~144 |
 | Who You Gonna Call? | 6.00% | ~123 |
-| Healing Old Wounds | 5.00% | ~102 |
-| This Is Sparta | 5.00% | ~102 |
-| What’s in the Box? | 5.00% | ~102 |
+| Healing Old Wounds | 5.00% | ~103 |
+| This Is Sparta | 5.00% | ~103 |
+| What’s in the Box? | 5.00% | ~103 |
 | Ghost Town | 3.00% | ~62 |
 | Lord Inut Sends His Regards | 3.00% | ~62 |
 | Moondrunk | 3.00% | ~62 |
 | 'Ma Barker | 2.00% | ~41 |
-| I Kicked a Bird and I Liked it | 1.00% | ~20 |
-| Hog Wild | 1.00% | ~20 |
+| I Kicked a Bird and I Liked it | 1.00% | ~21 |
+| Hog Wild | 1.00% | ~21 |
 | Explorer | 0.70% | ~14 |
 | End the world | 0.70% | ~14 |
 | Dirt and Blame | 0.50% | ~10 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.50% | ~10 |
 | Winter Has Come | 0.40% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,050 (Ranked 240)  
+Progressed: 2,051 (Ranked 240)  
 Completed: 7 (0.34%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,6 +249,7 @@ Completed: 7 (0.34%) (Ranked 242)
 | 2023-12-26 | 2,044 | 7 |
 | 2023-12-27 | 2,047 | 7 |
 | 2023-12-28 | 2,050 | 7 |
+| 2023-12-29 | 2,051 | 7 |
 ## Awards
 Max (Impact the Story): 29  (Ranked 519)  
 Sum: 29 (Ranked 537)  

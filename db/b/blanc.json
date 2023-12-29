@@ -2,9 +2,9 @@
   "ID": "e18be81f77f346dfbc4467f4ed715e27",
   "Name": "Blanc",
   "ProductSlug": "blanc-703b40",
-  "Ranking_EOS_Progress": 213,
-  "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_Progress": 212,
+  "Ranking_EOS_Completed": 285,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3786,
+  "EOS_Progressed": 3790,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -6181,6 +6181,11 @@
       "Time": "2023-12-28T21:06:17.6417021+00:00",
       "NumProgressed": 3786,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-29T01:41:53.9376186+00:00",
+      "NumProgressed": 3790,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -6256,7 +6261,7 @@
       "Name": "Starting as a duo",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -6264,7 +6269,7 @@
       "Name": "Stronger together",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "THE_END",
@@ -6295,7 +6300,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3786,
+      "Progressed": 3790,
       "Completed": 6
     }
   ],
@@ -6303,8 +6308,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-29T00:04:44.5290365+00:00",
+  "LastChanged_Achievements": "2023-12-29T01:41:53.937618+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:05.8784684+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:59:42.536324+00:00",
-  "LastUpdate_Achievements": "2023-12-29T00:04:44.5290728+00:00"
+  "LastUpdate_Ratings": "2023-12-29T01:36:43.4600457+00:00",
+  "LastUpdate_Achievements": "2023-12-29T01:41:53.9376678+00:00"
 }

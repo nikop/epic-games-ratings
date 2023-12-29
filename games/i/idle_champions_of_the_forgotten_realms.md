@@ -6,24 +6,25 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,927 |
-| The Cursed Farmer | 0.90% | ~2,217 |
-| Beast Intentions | 0.70% | ~1,724 |
-| Welcome to Sigil | 0.70% | ~1,488 |
+| A Brief Tour of the Realms | 2.00% | ~4,928 |
+| The Cursed Farmer | 0.90% | ~2,218 |
+| Beast Intentions | 0.70% | ~1,725 |
+| Welcome to Sigil | 0.70% | ~1,489 |
 | The Mad Wizard | 0.60% | ~1,478 |
 | Fast Food | 0.60% | ~1,276 |
-| The Ring of Regeneration | 0.40% | ~985 |
-| The Overgrown Grove | 0.40% | ~850 |
-| When Tentacles Attack | 0.40% | ~850 |
-| Flames of Avernus | 0.40% | ~850 |
-| Mental Gymnastics | 0.40% | ~850 |
-| Don't Lose Your Head | 0.40% | ~850 |
+| The Ring of Regeneration | 0.40% | ~986 |
+| The Overgrown Grove | 0.40% | ~851 |
+| When Tentacles Attack | 0.40% | ~851 |
+| Flames of Avernus | 0.40% | ~851 |
+| Mental Gymnastics | 0.40% | ~851 |
+| Don't Lose Your Head | 0.40% | ~851 |
 | Were-verpowered | 0.30% | ~739 |
 | Seeking Allies | 0.30% | ~739 |
 | Are Ya Chicken? | 0.30% | ~739 |
 | Mad Cow Disease | 0.30% | ~739 |
 | Friendly Imps | 0.30% | ~739 |
 | Arcane Suppression | 0.30% | ~638 |
+| Welcome to the Vrocks | 0.30% | ~638 |
 | Misaligned in Sigil | 0.30% | ~638 |
 | Chaos Theory | 0.30% | ~638 |
 | Mind Spike | 0.30% | ~638 |
@@ -36,7 +37,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.20% | ~493 |
 | The Contagious Curse | 0.20% | ~493 |
 | Pure Energy | 0.20% | ~493 |
-| Welcome to the Vrocks | 0.20% | ~425 |
 | Pros and CONs | 0.10% | ~246 |
 | Upholding the Law | 0.10% | ~246 |
 | Starving in the Jungle | 0.10% | ~246 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~213 |
 | The Brains of an Illithid's Desire | 0.10% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,334 (Ranked 67)  
+Progressed: 246,391 (Ranked 68)  
 Completed: 2,574 (1.04%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -806,7 +806,7 @@ Completed: 2,574 (1.04%) (Ranked 168)
 | 2023-12-26 | 245,031 | 2,566 |
 | 2023-12-27 | 245,531 | 2,567 |
 | 2023-12-28 | 246,305 | 2,573 |
-| 2023-12-29 | 246,334 | 2,574 |
+| 2023-12-29 | 246,391 | 2,574 |
 ## Awards
 Max (Great for Beginners): 5,708  (Ranked 71)  
 Sum: 33,156 (Ranked 41)  

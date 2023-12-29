@@ -41,10 +41,10 @@ Number of Ratings: 292  (23.09.2022)
 | Fully Charged | 0.40% | ~3 |
 | Coming Through! | 0.40% | ~3 |
 | Barbecue | 0.40% | ~3 |
+| The Marsh Expands | 0.40% | ~3 |
 | Cleave | 0.40% | ~3 |
 | Attack Bonanza | 0.20% | ~2 |
 | Oops! | 0.20% | ~2 |
-| The Marsh Expands | 0.20% | ~2 |
 | Bringer of Ruin | 0.10% | ~1 |
 | Hello There | 0.10% | ~1 |
 | An Empress's Hope | 0.10% | ~1 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 815 (Ranked 297)  
+Progressed: 816 (Ranked 297)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,6 +110,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 773 | 0 |
 | 2023-12-27 | 796 | 0 |
 | 2023-12-28 | 815 | 0 |
+| 2023-12-29 | 816 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 29  (Ranked 519)  
 Sum: 251 (Ranked 396)  

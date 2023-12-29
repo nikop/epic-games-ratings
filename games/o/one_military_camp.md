@@ -15,15 +15,15 @@
 | Health Care | 8.00% | ~20 |
 | Desert Rat | 8.00% | ~20 |
 | Perfect Soldier | 7.00% | ~18 |
+| Ammo Tycoon | 7.00% | ~18 |
 | Healing | 6.00% | ~15 |
 | Good payer | 6.00% | ~15 |
 | Pathfinder | 6.00% | ~15 |
+| Self-sufficient | 6.00% | ~15 |
 | Food Tycoon | 6.00% | ~15 |
 | Fuel Tycoon | 6.00% | ~15 |
-| Ammo Tycoon | 6.00% | ~15 |
 | Jantine: the Misfortunes of Evil | 5.00% | ~13 |
 | Property Bro | 5.00% | ~13 |
-| Self-sufficient | 5.00% | ~13 |
 | Outdoor Decorator | 4.00% | ~10 |
 | Overpopulation | 4.00% | ~10 |
 | Medicine Tycoon | 4.00% | ~10 |

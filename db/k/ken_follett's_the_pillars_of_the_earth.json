@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17468,
+  "EOS_Progressed": 17470,
   "EOS_Completed": 122,
   "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 3,
@@ -17235,6 +17235,11 @@
       "Time": "2023-12-28T20:03:48.9293773+00:00",
       "NumProgressed": 17468,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-12-29T01:40:35.1606642+00:00",
+      "NumProgressed": 17470,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 41,
@@ -17270,7 +17275,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "tpote_achievement_13",
@@ -17278,7 +17283,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "tpote_achievement_14",
@@ -17326,7 +17331,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3144
+      "UsersEstimate": 3145
     },
     {
       "ID": "tpote_achievement_2",
@@ -17334,7 +17339,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5764
+      "UsersEstimate": 5765
     },
     {
       "ID": "tpote_achievement_20",
@@ -17398,7 +17403,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3144
+      "UsersEstimate": 3145
     },
     {
       "ID": "tpote_achievement_28",
@@ -17422,7 +17427,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5415
+      "UsersEstimate": 5416
     },
     {
       "ID": "tpote_achievement_30",
@@ -17438,7 +17443,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 3144
+      "UsersEstimate": 3145
     },
     {
       "ID": "tpote_achievement_32",
@@ -17454,7 +17459,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "tpote_achievement_34",
@@ -17486,7 +17491,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "tpote_achievement_38",
@@ -17510,7 +17515,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6987
+      "UsersEstimate": 6988
     },
     {
       "ID": "tpote_achievement_40",
@@ -17558,7 +17563,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3668
+      "UsersEstimate": 3669
     },
     {
       "ID": "tpote_achievement_9",
@@ -17566,22 +17571,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5939
+      "UsersEstimate": 5940
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17468,
+      "Progressed": 17470,
       "Completed": 122
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-29T00:03:23.4525801+00:00",
+  "LastChanged_Achievements": "2023-12-29T01:40:35.1606638+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.265609+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:59:23.9523128+00:00",
-  "LastUpdate_Achievements": "2023-12-29T00:03:23.4526695+00:00"
+  "LastUpdate_Ratings": "2023-12-29T01:36:25.398415+00:00",
+  "LastUpdate_Achievements": "2023-12-29T01:40:35.1607432+00:00"
 }

@@ -288,7 +288,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2397,
+  "EOS_Progressed": 2398,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
@@ -3973,6 +3973,11 @@
       "Time": "2023-12-28T19:07:11.6233854+00:00",
       "NumProgressed": 2397,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-29T01:42:47.0819933+00:00",
+      "NumProgressed": 2398,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3992,7 +3997,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1558
+      "UsersEstimate": 1559
     },
     {
       "ID": "ACHV_03",
@@ -4000,7 +4005,7 @@
       "Name": "Dead Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ACHV_04",
@@ -4016,7 +4021,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ACHV_06",
@@ -4024,7 +4029,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "ACHV_07",
@@ -4032,7 +4037,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACHV_08",
@@ -4120,7 +4125,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "ACHV_19",
@@ -4152,7 +4157,7 @@
       "Name": "Offensive Defense",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "ACHV_23",
@@ -4176,7 +4181,7 @@
       "Name": "Full Arsenal",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "ACHV_26",
@@ -4200,7 +4205,7 @@
       "Name": "Clean Cut",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACHV_29",
@@ -4248,7 +4253,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "ACHV_35",
@@ -4272,7 +4277,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ACHV_38",
@@ -4336,7 +4341,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ACHV_46",
@@ -4344,7 +4349,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACHV_47",
@@ -4439,7 +4444,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2397,
+      "Progressed": 2398,
       "Completed": 13
     }
   ],
@@ -4447,8 +4452,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-17T06:57:54.8643494+00:00",
-  "LastChanged_Achievements": "2023-12-29T00:05:38.2144865+00:00",
+  "LastChanged_Achievements": "2023-12-29T01:42:47.081993+00:00",
   "LastUpdate_AppInfo": "2023-12-23T16:57:13.3130714+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:59:47.3283052+00:00",
-  "LastUpdate_Achievements": "2023-12-29T00:05:38.2145318+00:00"
+  "LastUpdate_Ratings": "2023-12-29T01:36:48.4036325+00:00",
+  "LastUpdate_Achievements": "2023-12-29T01:42:47.082043+00:00"
 }

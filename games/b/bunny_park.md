@@ -15,7 +15,7 @@
 | Ace Decorator | 23.00% | ~71 |
 | Debris Collector | 19.00% | ~58 |
 | Bunny Cuddles | 15.00% | ~46 |
-| Winter Wonderland | 13.00% | ~40 |
+| Winter Wonderland | 14.00% | ~43 |
 | Park Manager | 12.00% | ~37 |
 | Spring Blossom | 8.00% | ~25 |
 | Pom Pom | 8.00% | ~25 |

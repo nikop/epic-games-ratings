@@ -5,13 +5,13 @@ Rating: 4.63 (Ranked 355)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 11.00% | ~706 |
-| Realm Estate | 10.00% | ~642 |
-| A Wonderful Discovery | 9.00% | ~577 |
-| Walls Cannot Stop Us | 9.00% | ~577 |
-| From Friends to Family | 8.00% | ~513 |
-| Bone Peddler | 7.00% | ~449 |
-| Magical Synergy | 6.00% | ~385 |
+| Secret Technique | 11.00% | ~707 |
+| Realm Estate | 10.00% | ~643 |
+| A Wonderful Discovery | 9.00% | ~578 |
+| Walls Cannot Stop Us | 9.00% | ~578 |
+| From Friends to Family | 8.00% | ~514 |
+| Bone Peddler | 7.00% | ~450 |
+| Magical Synergy | 6.00% | ~386 |
 | There Can Only Be One! | 5.00% | ~321 |
 | Full Ascension | 5.00% | ~321 |
 | Stronger Together | 5.00% | ~321 |
@@ -20,23 +20,23 @@ Rating: 4.63 (Ranked 355)
 | Valley of Wonders | 4.00% | ~257 |
 | In a Liege of Your Own | 4.00% | ~257 |
 | Intimidation Tactics | 4.00% | ~257 |
-| Return of the Wizard King | 3.00% | ~192 |
-| Enchanted Archipelago | 3.00% | ~192 |
-| Digging for Treasure | 3.00% | ~192 |
-| My Final Form | 3.00% | ~192 |
-| Fiery Friend | 3.00% | ~192 |
-| Impenetrable Fortress | 3.00% | ~192 |
-| Freed Lands of Manuhari | 3.00% | ~192 |
-| Arch Mage | 2.00% | ~128 |
-| Crimson Caldera | 2.00% | ~128 |
-| Preparation Is Everything | 2.00% | ~128 |
-| Against the Odds | 2.00% | ~128 |
-| Here be Dragons | 2.00% | ~128 |
-| Tipping the Scales | 2.00% | ~128 |
-| Mighty Hoard | 2.00% | ~128 |
-| Sehiran Oasis | 2.00% | ~128 |
-| Chaos Surge | 2.00% | ~128 |
-| Spoils of War | 2.00% | ~128 |
+| Return of the Wizard King | 3.00% | ~193 |
+| Enchanted Archipelago | 3.00% | ~193 |
+| Digging for Treasure | 3.00% | ~193 |
+| My Final Form | 3.00% | ~193 |
+| Fiery Friend | 3.00% | ~193 |
+| Impenetrable Fortress | 3.00% | ~193 |
+| Freed Lands of Manuhari | 3.00% | ~193 |
+| Arch Mage | 2.00% | ~129 |
+| Crimson Caldera | 2.00% | ~129 |
+| Preparation Is Everything | 2.00% | ~129 |
+| Against the Odds | 2.00% | ~129 |
+| Here be Dragons | 2.00% | ~129 |
+| Tipping the Scales | 2.00% | ~129 |
+| Mighty Hoard | 2.00% | ~129 |
+| Sehiran Oasis | 2.00% | ~129 |
+| Chaos Surge | 2.00% | ~129 |
+| Spoils of War | 2.00% | ~129 |
 | I've Got Everything I Need Right Here | 1.00% | ~64 |
 | God Emperor | 1.00% | ~64 |
 | Lord of Chaos | 1.00% | ~64 |
@@ -54,7 +54,7 @@ Rating: 4.63 (Ranked 355)
 | Grexolis | 0.80% | ~51 |
 | One for All, All for One | 0.80% | ~51 |
 | Duality | 0.70% | ~45 |
-| Betrayal Most Foul | 0.60% | ~38 |
+| Betrayal Most Foul | 0.60% | ~39 |
 | Snap Out of It! | 0.30% | ~19 |
 | The Magic That Empowers Me! | 0.30% | ~19 |
 | Jack of All Tomes | 0.30% | ~19 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 355)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,416 (Ranked 195)  
+Progressed: 6,427 (Ranked 195)  
 Completed: 7 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 7 (0.11%) (Ranked 304)
 | 2023-12-26 | 6,285 | 7 |
 | 2023-12-27 | 6,359 | 7 |
 | 2023-12-28 | 6,414 | 7 |
-| 2023-12-29 | 6,416 | 7 |
+| 2023-12-29 | 6,427 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 481)  
 Sum: 140 (Ranked 439)  

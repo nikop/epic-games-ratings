@@ -4,7 +4,7 @@
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1255,
+  "EOS_Progressed": 1256,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.22,
   "EosHistory": [
@@ -2919,6 +2919,11 @@
       "Time": "2023-12-29T00:09:29.2075736+00:00",
       "NumProgressed": 1255,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-29T01:46:42.6718704+00:00",
+      "NumProgressed": 1256,
+      "NumCompleted": 53
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -2947,7 +2952,7 @@
       "Name": "Sweet tooth",
       "Percentage": 70,
       "XP": 45,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -2955,7 +2960,7 @@
       "Name": "An apple a day",
       "Percentage": 55,
       "XP": 75,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -3010,14 +3015,14 @@
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 1255,
+      "Progressed": 1256,
       "Completed": 53
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-12-29T00:09:29.2075732+00:00",
+  "LastChanged_Achievements": "2023-12-29T01:46:42.6718699+00:00",
   "LastUpdate_AppInfo": "2023-12-22T18:57:03.6270643+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:57:07.0156475+00:00",
-  "LastUpdate_Achievements": "2023-12-29T00:09:29.2075909+00:00"
+  "LastUpdate_Ratings": "2023-12-29T01:34:10.2277838+00:00",
+  "LastUpdate_Achievements": "2023-12-29T01:46:42.6718919+00:00"
 }

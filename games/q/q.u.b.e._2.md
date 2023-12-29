@@ -6,19 +6,19 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~34,126 |
-| Quick Understanding of Block Extrusion | 68.00% | ~30,941 |
-| Nature or Nurture | 52.00% | ~23,661 |
-| Power Glove | 50.00% | ~22,750 |
-| Forgotten Memories | 43.00% | ~19,565 |
-| Cogs in the Machine | 36.00% | ~16,380 |
-| Mission Success | 23.00% | ~10,465 |
-| There's No Place Like Home | 23.00% | ~10,465 |
-| Green Cube Killer | 20.00% | ~9,100 |
-| Infinity Loop | 17.00% | ~7,735 |
-| Path to Salvation | 17.00% | ~7,735 |
-| Descendants | 15.00% | ~6,825 |
-| The Flawed Teacher | 12.00% | ~5,460 |
+| Lost in Space | 75.00% | ~34,130 |
+| Quick Understanding of Block Extrusion | 68.00% | ~30,945 |
+| Nature or Nurture | 52.00% | ~23,664 |
+| Power Glove | 50.00% | ~22,754 |
+| Forgotten Memories | 43.00% | ~19,568 |
+| Cogs in the Machine | 36.00% | ~16,383 |
+| Mission Success | 23.00% | ~10,467 |
+| There's No Place Like Home | 23.00% | ~10,467 |
+| Green Cube Killer | 20.00% | ~9,101 |
+| Infinity Loop | 17.00% | ~7,736 |
+| Path to Salvation | 17.00% | ~7,736 |
+| Descendants | 15.00% | ~6,826 |
+| The Flawed Teacher | 12.00% | ~5,461 |
 | To Infinity and Beyond | 6.00% | ~2,730 |
 | The Truthful Enemy | 5.00% | ~2,275 |
 | Laser Sharp | 3.00% | ~1,365 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 1.00% | ~455 |
 | Expert Collector | 1.00% | ~455 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,501 (Ranked 122)  
+Progressed: 45,507 (Ranked 122)  
 Completed: 227 (0.50%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 227 (0.50%) (Ranked 216)
 | 2023-12-26 | 45,239 | 225 |
 | 2023-12-27 | 45,376 | 226 |
 | 2023-12-28 | 45,496 | 227 |
-| 2023-12-29 | 45,501 | 227 |
+| 2023-12-29 | 45,507 | 227 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -1,39 +1,39 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.34 (Ranked 825)  
+Rating: 4.35 (Ranked 814)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~1,015 |
-| And so it begins | 72.00% | ~962 |
-| No pressure | 69.00% | ~922 |
-| Memento | 60.00% | ~802 |
-| Let there be light | 57.00% | ~762 |
-| I think you dropped this | 53.00% | ~708 |
-| Soulmate? | 51.00% | ~681 |
-| Excellent service | 47.00% | ~628 |
-| Roll with it | 44.00% | ~588 |
-| Humble beginnings | 43.00% | ~574 |
-| Love is in the air | 42.00% | ~561 |
-| Fine, I'll do it myself | 40.00% | ~534 |
-| Moving up | 40.00% | ~534 |
+| Good start | 76.00% | ~1,017 |
+| And so it begins | 72.00% | ~963 |
+| No pressure | 69.00% | ~923 |
+| Memento | 60.00% | ~803 |
+| Let there be light | 57.00% | ~763 |
+| I think you dropped this | 53.00% | ~709 |
+| Soulmate? | 51.00% | ~682 |
+| Excellent service | 47.00% | ~629 |
+| Roll with it | 44.00% | ~589 |
+| Humble beginnings | 43.00% | ~575 |
+| Love is in the air | 41.00% | ~549 |
+| Fine, I'll do it myself | 40.00% | ~535 |
+| Moving up | 40.00% | ~535 |
 | No need to call anyone | 38.00% | ~508 |
-| Big fortune | 31.00% | ~414 |
-| Still more work ahead | 29.00% | ~387 |
+| Big fortune | 31.00% | ~415 |
+| Still more work ahead | 29.00% | ~388 |
 | Aesop's fable | 27.00% | ~361 |
-| Kaboom | 26.00% | ~347 |
-| Hotel sleuthing | 26.00% | ~347 |
+| Kaboom | 26.00% | ~348 |
+| Hotel sleuthing | 26.00% | ~348 |
 | Nearly there | 24.00% | ~321 |
 | Broken heart | 22.00% | ~294 |
 | Island boy | 21.00% | ~281 |
 | You're a star | 19.00% | ~254 |
-| Unstoppable | 18.00% | ~240 |
-| Reunited | 18.00% | ~240 |
+| Unstoppable | 18.00% | ~241 |
+| Reunited | 18.00% | ~241 |
 | King of hospitality | 11.00% | ~147 |
 | Top spot in town | 2.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,336 (Ranked 266)  
+Progressed: 1,338 (Ranked 266)  
 Completed: 18 (1.35%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,6 +232,7 @@ Completed: 18 (1.35%) (Ranked 152)
 | 2023-12-26 | 1,317 | 18 |
 | 2023-12-27 | 1,330 | 18 |
 | 2023-12-28 | 1,336 | 18 |
+| 2023-12-29 | 1,338 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -274,3 +275,4 @@ Completed: 18 (1.35%) (Ranked 152)
 | 2023-12-23 | 4.34 | 0 | 0 |
 | 2023-12-26 | 4.33 | 0 | 0 |
 | 2023-12-28 | 4.34 | 0 | 0 |
+| 2023-12-29 | 4.35 | 0 | 0 |

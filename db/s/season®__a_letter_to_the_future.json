@@ -4,8 +4,8 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1815,
+  "EOS_Progressed": 1816,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 3.86,
+  "EOS_Completed_Percentage": 3.85,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -4004,6 +4004,11 @@
       "Time": "2023-12-28T22:10:27.1331938+00:00",
       "NumProgressed": 1815,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-29T01:46:49.0430112+00:00",
+      "NumProgressed": 1816,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 16,
@@ -4071,7 +4076,7 @@
       "Name": "Home Leaver",
       "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -4079,7 +4084,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -4103,7 +4108,7 @@
       "Name": "Outside World Seer",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -4119,7 +4124,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "ACH_THEEND",
@@ -4142,7 +4147,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1815,
+      "Progressed": 1816,
       "Completed": 70
     }
   ],
@@ -4150,8 +4155,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-29T00:09:35.5635147+00:00",
+  "LastChanged_Achievements": "2023-12-29T01:46:49.0430105+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:44.3535234+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:57:35.8608336+00:00",
-  "LastUpdate_Achievements": "2023-12-29T00:09:35.5635406+00:00"
+  "LastUpdate_Ratings": "2023-12-29T01:34:38.490908+00:00",
+  "LastUpdate_Achievements": "2023-12-29T01:46:49.043041+00:00"
 }

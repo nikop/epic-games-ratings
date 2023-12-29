@@ -3,9 +3,9 @@
   "Name": "Samorost 3",
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 433,
-  "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_Completed": 71,
+  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 167,
+  "EOS_Progressed": 168,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.99,
+  "EOS_Completed_Percentage": 5.95,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -854,6 +854,11 @@
       "Time": "2023-12-29T00:05:45.0117197+00:00",
       "NumProgressed": 167,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-29T01:42:53.7071669+00:00",
+      "NumProgressed": 168,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -866,7 +871,7 @@
       "Name": "Woodworm",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Cikady",
@@ -874,7 +879,7 @@
       "Name": "Cicadas",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Destilat",
@@ -898,7 +903,7 @@
       "Name": "Four Flutes",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Houby",
@@ -906,7 +911,7 @@
       "Name": "Mushrooms",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Jing",
@@ -922,7 +927,7 @@
       "Name": "Chamois",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Kour",
@@ -930,7 +935,7 @@
       "Name": "Spiral Smoke",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "KrabiPyramida",
@@ -938,23 +943,23 @@
       "Name": "Crab Pyramid",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Kudla",
       "SetID": "ag48e8e",
       "Name": "Knife",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 99
+      "UsersEstimate": 97
     },
     {
       "ID": "Kvitky",
       "SetID": "ag48e8e",
       "Name": "Blossoms",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 72
     },
     {
       "ID": "MluviciPapouch",
@@ -962,7 +967,7 @@
       "Name": "Mimicking Parrot",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Myska",
@@ -986,7 +991,7 @@
       "Name": "Liana Bats",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Pejsek",
@@ -1034,7 +1039,7 @@
       "Name": "Sleeping Parrot",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "Sputnik2",
@@ -1048,9 +1053,9 @@
       "ID": "Stonozka",
       "SetID": "ag48e8e",
       "Name": "Centipede",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "Strom",
@@ -1088,9 +1093,9 @@
       "ID": "Zelvak",
       "SetID": "ag48e8e",
       "Name": "Goldbug",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "ZpivajiciHouba",
@@ -1105,14 +1110,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 167,
+      "Progressed": 168,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-12-29T00:05:45.0117195+00:00",
+  "LastChanged_Achievements": "2023-12-29T01:42:53.7071666+00:00",
   "LastUpdate_AppInfo": "2023-12-23T06:57:11.8700961+00:00",
-  "LastUpdate_Ratings": "2023-12-29T00:02:44.8046224+00:00",
-  "LastUpdate_Achievements": "2023-12-29T00:05:45.0117374+00:00"
+  "LastUpdate_Ratings": "2023-12-29T01:39:54.5571669+00:00",
+  "LastUpdate_Achievements": "2023-12-29T01:42:53.7071918+00:00"
 }

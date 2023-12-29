@@ -1,26 +1,26 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.54 (Ranked 540)  
+Rating: 4.54 (Ranked 539)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rock of the Bay | 79.00% | ~182 |
 | Mash Machine | 72.00% | ~166 |
-| Ducks in a Row, Fish in a Barrel | 50.00% | ~115 |
+| Ducks in a Row, Fish in a Barrel | 51.00% | ~117 |
 | Furon Fashion | 47.00% | ~108 |
 | Shop Til They Drop | 38.00% | ~87 |
-| Bodied Sattva | 33.00% | ~76 |
+| Bodied Sattva | 34.00% | ~78 |
 | Earthly Pleasures | 33.00% | ~76 |
-| Cult Following | 30.00% | ~69 |
+| Cult Following | 31.00% | ~71 |
 | Lie Back and Think of Albion | 25.00% | ~58 |
 | Upgreatest | 25.00% | ~58 |
 | Pimp My Raid | 23.00% | ~53 |
 | I Look Up As I Walk to Takoshima | 19.00% | ~44 |
 | Freshly Squeezed | 17.00% | ~39 |
+| Die Nasty | 17.00% | ~39 |
 | Perfect Probulator | 16.00% | ~37 |
-| Die Nasty | 16.00% | ~37 |
 | Transmitting From Sol-3 | 15.00% | ~34 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 11.00% | ~25 |
 | Kaijuiced | 9.00% | ~21 |

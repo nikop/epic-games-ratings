@@ -621,9 +621,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6416,
+  "EOS_Progressed": 6427,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 480,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9546,6 +9546,11 @@
       "Time": "2023-12-29T00:04:38.7448273+00:00",
       "NumProgressed": 6416,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-29T01:41:48.2694969+00:00",
+      "NumProgressed": 6427,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9605,7 +9610,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "16",
@@ -9629,7 +9634,7 @@
       "Name": "Arch Mage",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "19",
@@ -9645,7 +9650,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "20",
@@ -9669,7 +9674,7 @@
       "Name": "Realm Estate",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "23",
@@ -9677,7 +9682,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "24",
@@ -9685,7 +9690,7 @@
       "Name": "Secret Technique",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "25",
@@ -9693,7 +9698,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "26",
@@ -9701,7 +9706,7 @@
       "Name": "Bone Peddler",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "27",
@@ -9709,7 +9714,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "28",
@@ -9717,7 +9722,7 @@
       "Name": "From Friends to Family",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "29",
@@ -9733,7 +9738,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "30",
@@ -9741,7 +9746,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "31",
@@ -9749,7 +9754,7 @@
       "Name": "Magical Synergy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "32",
@@ -9757,7 +9762,7 @@
       "Name": "My Final Form",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "33",
@@ -9789,7 +9794,7 @@
       "Name": "Fiery Friend",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "37",
@@ -9797,7 +9802,7 @@
       "Name": "Against the Odds",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "38",
@@ -9813,7 +9818,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "4",
@@ -9893,7 +9898,7 @@
       "Name": "Betrayal Most Foul",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "9",
@@ -9909,7 +9914,7 @@
       "Name": "Here be Dragons",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "46",
@@ -9917,7 +9922,7 @@
       "Name": "Tipping the Scales",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "47",
@@ -9941,7 +9946,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "50",
@@ -9957,7 +9962,7 @@
       "Name": "Freed Lands of Manuhari",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "52",
@@ -9965,7 +9970,7 @@
       "Name": "Sehiran Oasis",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "53",
@@ -9981,7 +9986,7 @@
       "Name": "Chaos Surge",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "55",
@@ -10005,7 +10010,7 @@
       "Name": "Spoils of War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "58",
@@ -10036,13 +10041,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6416,
+      "Progressed": 6427,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6416,
+      "Progressed": 6427,
       "Completed": 7
     }
   ],
@@ -10050,8 +10055,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-27T21:02:05.3548504+00:00",
-  "LastChanged_Achievements": "2023-12-29T00:04:38.7448269+00:00",
+  "LastChanged_Achievements": "2023-12-29T01:41:48.2694965+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:57:00.4548817+00:00",
-  "LastUpdate_Achievements": "2023-12-29T00:04:38.7449092+00:00"
+  "LastUpdate_Ratings": "2023-12-29T01:34:04.0660886+00:00",
+  "LastUpdate_Achievements": "2023-12-29T01:41:48.2695754+00:00"
 }

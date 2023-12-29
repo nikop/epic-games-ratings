@@ -2,12 +2,12 @@
   "ID": "cb62701a29834de6a91e5f634a72b6f8",
   "Name": "ATOM RPG",
   "ProductSlug": "atom-rpg-3adb54",
-  "Ranking_Rating": 646,
+  "Ranking_Rating": 647,
   "Ranking_Popularity": 439,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -409,7 +409,7 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1530,
+  "EOS_Progressed": 1531,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
@@ -3859,6 +3859,11 @@
       "Time": "2023-12-28T18:09:45.3210999+00:00",
       "NumProgressed": 1530,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T01:46:57.119689+00:00",
+      "NumProgressed": 1531,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3926,7 +3931,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1516
     },
     {
       "ID": "EXPERT_1",
@@ -3958,7 +3963,7 @@
       "Name": "Grave Robber",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "HEAD_BURST_1",
@@ -4020,9 +4025,9 @@
       "ID": "ONE_HIT_WONDER_1",
       "SetID": "bf13m8j",
       "Name": "One HIT wonder",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 536
+      "UsersEstimate": 521
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4062,7 +4067,7 @@
       "Name": "Protection racket",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "RELICTS",
@@ -4102,7 +4107,7 @@
       "Name": "Secret room",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "SHOG",
@@ -4157,15 +4162,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1530,
+      "Progressed": 1531,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-12-27T01:41:52.1948259+00:00",
-  "LastChanged_Achievements": "2023-12-29T00:09:43.9010065+00:00",
+  "LastChanged_Achievements": "2023-12-29T01:46:57.1196886+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.1094893+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:58:10.9972145+00:00",
-  "LastUpdate_Achievements": "2023-12-29T00:09:43.901035+00:00"
+  "LastUpdate_Ratings": "2023-12-29T01:35:12.7149215+00:00",
+  "LastUpdate_Achievements": "2023-12-29T01:46:57.1197265+00:00"
 }

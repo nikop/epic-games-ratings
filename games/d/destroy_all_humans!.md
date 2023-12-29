@@ -20,10 +20,10 @@ Number of Ratings: 85  (23.09.2022)
 | Ducks in a Row, Fish in a Barrel | 43.00% | ~89 |
 | Freshly Squeezed | 34.00% | ~70 |
 | Bodied Sattva | 34.00% | ~70 |
+| Forbidden Donut | 32.00% | ~66 |
 | Upgreatest | 32.00% | ~66 |
-| Forbidden Donut | 31.00% | ~64 |
+| Deincarnated | 26.00% | ~54 |
 | Furon Fashion | 26.00% | ~54 |
-| Deincarnated | 25.00% | ~52 |
 | Rock of the Bay | 24.00% | ~50 |
 | Trans-Siberian Express | 23.00% | ~48 |
 | Re-Return of the Clone of the Invasion II-2 | 19.00% | ~39 |

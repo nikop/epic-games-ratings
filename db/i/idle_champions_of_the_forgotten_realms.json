@@ -5,7 +5,7 @@
   "Ranking_Rating": 1015,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 41,
-  "Ranking_EOS_Progress": 67,
+  "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 54,
   "Ranking_EOS_NewCompleters": 14,
@@ -9145,10 +9145,10 @@
       "Count": 3607
     }
   ],
-  "EOS_Progressed": 246334,
+  "EOS_Progressed": 246391,
   "EOS_Completed": 2574,
-  "EOS_NewPlayers": 3350,
-  "EOS_NewCompleters": 21,
+  "EOS_NewPlayers": 3363,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -37700,6 +37700,11 @@
       "Time": "2023-12-29T00:09:57.8510936+00:00",
       "NumProgressed": 246334,
       "NumCompleted": 2574
+    },
+    {
+      "Time": "2023-12-29T01:47:10.5917223+00:00",
+      "NumProgressed": 246391,
+      "NumCompleted": 2574
     }
   ],
   "TotalAchievements": 546,
@@ -37711,7 +37716,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4927
+      "UsersEstimate": 4928
     },
     {
       "ID": "objective_completed_10",
@@ -38079,7 +38084,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1725
     },
     {
       "ID": "objective_completed_110",
@@ -39383,7 +39388,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2217
+      "UsersEstimate": 2218
     },
     {
       "ID": "objective_completed_34",
@@ -39391,7 +39396,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "objective_completed_35",
@@ -41989,9 +41994,9 @@
       "ID": "objective_completed_1352",
       "SetID": "415jc5c",
       "Name": "Welcome to the Vrocks",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 638
     },
     {
       "ID": "objective_completed_1557",
@@ -41999,7 +42004,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1488
+      "UsersEstimate": 1489
     },
     {
       "ID": "objective_completed_1558",
@@ -42031,7 +42036,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "objective_completed_673",
@@ -42039,7 +42044,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "objective_completed_678",
@@ -42047,7 +42052,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "objective_completed_683",
@@ -42055,7 +42060,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "objective_completed_860",
@@ -42063,7 +42068,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "objective_completed_865",
@@ -42078,21 +42083,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 212608,
-      "Completed": 4082
+      "Progressed": 212665,
+      "Completed": 4086
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 246334,
+      "Progressed": 246391,
       "Completed": 2574
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-28T19:59:44.2419091+00:00",
-  "LastChanged_Achievements": "2023-12-29T00:09:57.8510932+00:00",
+  "LastChanged_Achievements": "2023-12-29T01:47:10.591722+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:58:49.1663383+00:00",
-  "LastUpdate_Achievements": "2023-12-29T00:09:57.8534957+00:00"
+  "LastUpdate_Ratings": "2023-12-29T01:35:51.1536814+00:00",
+  "LastUpdate_Achievements": "2023-12-29T01:47:10.5939446+00:00"
 }

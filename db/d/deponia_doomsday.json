@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 373,
+  "Ranking_EOS_NewPlayers": 368,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 507,
+  "EOS_Progressed": 508,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.38,
   "EosHistory": [
@@ -830,6 +830,11 @@
       "Time": "2023-12-29T00:03:22.1215343+00:00",
       "NumProgressed": 507,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-29T01:40:33.8611696+00:00",
+      "NumProgressed": 508,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 36,
@@ -841,7 +846,7 @@
       "Name": "Huzza, he\u0027s back.",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "dep4_achievement_10",
@@ -865,7 +870,7 @@
       "Name": "Masseltov",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "dep4_achievement_13",
@@ -881,7 +886,7 @@
       "Name": "Shall we play a game?",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "dep4_achievement_15",
@@ -897,7 +902,7 @@
       "Name": "Brainfreeze",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "dep4_achievement_17",
@@ -913,7 +918,7 @@
       "Name": "Chunky",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "dep4_achievement_19",
@@ -929,7 +934,7 @@
       "Name": "And again, and again, and...",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "dep4_achievement_20",
@@ -937,7 +942,7 @@
       "Name": "Sadist",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "dep4_achievement_21",
@@ -991,17 +996,17 @@
       "ID": "dep4_achievement_27",
       "SetID": "5d32b60",
       "Name": "The customer is always right",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 30
     },
     {
       "ID": "dep4_achievement_28",
       "SetID": "5d32b60",
       "Name": "Kuvaq Minigame-Master",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 314
+      "UsersEstimate": 310
     },
     {
       "ID": "dep4_achievement_29",
@@ -1017,7 +1022,7 @@
       "Name": "Burn, Elysium, burn!",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "dep4_achievement_30",
@@ -1089,7 +1094,7 @@
       "Name": "Boat of love, boat of love",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "dep4_achievement_6",
@@ -1097,7 +1102,7 @@
       "Name": "School\u0027s out",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "dep4_achievement_7",
@@ -1113,7 +1118,7 @@
       "Name": "And everything comes full circle.",
       "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "dep4_achievement_9",
@@ -1128,7 +1133,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 507,
+      "Progressed": 508,
       "Completed": 7
     }
   ],
@@ -1136,8 +1141,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-12-29T00:03:22.1215339+00:00",
+  "LastChanged_Achievements": "2023-12-29T01:40:33.8611693+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:53.2401379+00:00",
-  "LastUpdate_Ratings": "2023-12-29T00:02:57.0789142+00:00",
-  "LastUpdate_Achievements": "2023-12-29T00:03:22.121558+00:00"
+  "LastUpdate_Ratings": "2023-12-29T01:40:06.7088241+00:00",
+  "LastUpdate_Achievements": "2023-12-29T01:40:33.8611922+00:00"
 }

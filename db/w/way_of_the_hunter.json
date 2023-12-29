@@ -2,10 +2,10 @@
   "ID": "bdbfb29cbd004978acad9ca4eaf9ec82",
   "Name": "Way of the Hunter",
   "ProductSlug": "way-of-the-hunter",
-  "Ranking_Rating": 759,
+  "Ranking_Rating": 758,
   "Ranking_Popularity": 424,
-  "Ranking_PopularitySum": 359,
-  "Ranking_EOS_Progress": 258,
+  "Ranking_PopularitySum": 360,
+  "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 151,
@@ -1469,10 +1469,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 359,
       "NumberOfAwardsMax": 61
+    },
+    {
+      "Time": "2023-12-29T01:35:55.1431354+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 360,
+      "NumberOfAwardsMax": 61
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 359,
+  "NumberOfAwards": 360,
   "NumberOfAwardsMax": 61,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1534,7 +1540,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1555,9 +1561,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1475,
+  "EOS_Progressed": 1481,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 534,
+  "EOS_NewPlayers": 537,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3290,6 +3296,11 @@
       "Time": "2023-12-29T00:09:39.1934675+00:00",
       "NumProgressed": 1475,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T01:46:52.5803154+00:00",
+      "NumProgressed": 1481,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T12:10:13.2139946+00:00",
@@ -3517,16 +3528,16 @@
     {
       "ID": "d5e5a3e",
       "IsBase": true,
-      "Progressed": 1475,
+      "Progressed": 1481,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-08-22T17:32:55.4881061+00:00",
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
   "FirstSeenAchievements": "2023-11-30T10:10:08.8604761+00:00",
-  "LastChanged": "2023-12-28T22:59:59.9504346+00:00",
-  "LastChanged_Achievements": "2023-12-29T00:09:39.193467+00:00",
+  "LastChanged": "2023-12-29T01:35:55.1431352+00:00",
+  "LastChanged_Achievements": "2023-12-29T01:46:52.5803149+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:31.5518904+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:58:53.0529742+00:00",
-  "LastUpdate_Achievements": "2023-12-29T00:09:39.1934871+00:00"
+  "LastUpdate_Ratings": "2023-12-29T01:35:55.1431357+00:00",
+  "LastUpdate_Achievements": "2023-12-29T01:46:52.580336+00:00"
 }

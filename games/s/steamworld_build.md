@@ -16,12 +16,12 @@
 | Systematic | 44.00% | ~88 |
 | Mine Sweeper | 40.00% | ~80 |
 | Roll Out | 37.00% | ~74 |
-| Dopa-Miner | 31.00% | ~62 |
-| Up, Up And Away! | 30.00% | ~60 |
-| Whoa! | 30.00% | ~60 |
-| Botropolis | 25.00% | ~50 |
-| Manic Mechanic | 19.00% | ~38 |
-| Steam Powered | 18.00% | ~36 |
+| Dopa-Miner | 32.00% | ~64 |
+| Up, Up And Away! | 31.00% | ~62 |
+| Whoa! | 31.00% | ~62 |
+| Botropolis | 26.00% | ~52 |
+| Manic Mechanic | 20.00% | ~40 |
+| Steam Powered | 19.00% | ~38 |
 | Steaming Rich | 18.00% | ~36 |
 | Room To Spare | 14.00% | ~28 |
 | Stack Overflow | 5.00% | ~10 |

@@ -227,9 +227,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 91248,
+  "EOS_Progressed": 91255,
   "EOS_Completed": 318,
-  "EOS_NewPlayers": 968,
+  "EOS_NewPlayers": 962,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -15942,6 +15942,11 @@
       "Time": "2023-12-29T00:05:18.2689041+00:00",
       "NumProgressed": 91248,
       "NumCompleted": 318
+    },
+    {
+      "Time": "2023-12-29T01:42:26.9428362+00:00",
+      "NumProgressed": 91255,
+      "NumCompleted": 318
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -15954,7 +15959,7 @@
       "Name": "Welcome to Dodo Peak",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 72998
+      "UsersEstimate": 73004
     },
     {
       "ID": "grp_beet",
@@ -15962,7 +15967,7 @@
       "Name": "The early bird gets the beet",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 18250
+      "UsersEstimate": 18251
     },
     {
       "ID": "grp_collect_ruby",
@@ -15970,7 +15975,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 70261
+      "UsersEstimate": 70266
     },
     {
       "ID": "grp_endless",
@@ -15978,7 +15983,7 @@
       "Name": "That Sinking Feeling",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 31937
+      "UsersEstimate": 31939
     },
     {
       "ID": "grp_finallevel",
@@ -15994,7 +15999,7 @@
       "Name": "Play Free Bird",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 22812
+      "UsersEstimate": 22814
     },
     {
       "ID": "grp_level10",
@@ -16002,7 +16007,7 @@
       "Name": "Level 10!",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 4562
+      "UsersEstimate": 4563
     },
     {
       "ID": "grp_level20",
@@ -16018,7 +16023,7 @@
       "Name": "Level 30!",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "grp_level40",
@@ -16042,7 +16047,7 @@
       "Name": "Investing in BirdCoin",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 49274
+      "UsersEstimate": 49278
     },
     {
       "ID": "grp_money_tree",
@@ -16050,7 +16055,7 @@
       "Name": "Money doesn\u0027t grow on trees",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 67524
+      "UsersEstimate": 67529
     },
     {
       "ID": "grp_speed",
@@ -16058,7 +16063,7 @@
       "Name": "As the dodo flies",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 43799
+      "UsersEstimate": 43802
     },
     {
       "ID": "grp_stone",
@@ -16066,7 +16071,7 @@
       "Name": "Killing one stone with two birds",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 10037
+      "UsersEstimate": 10038
     },
     {
       "ID": "grp_store_ftux",
@@ -16074,7 +16079,7 @@
       "Name": "Birds of a Feather",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 39237
+      "UsersEstimate": 39240
     },
     {
       "ID": "grp_weekly_beaten",
@@ -16082,14 +16087,14 @@
       "Name": "Bird of the Week",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 8212
+      "UsersEstimate": 8213
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 91248,
+      "Progressed": 91255,
       "Completed": 318
     }
   ],
@@ -16097,8 +16102,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2023-12-22T14:00:04.8857427+00:00",
-  "LastChanged_Achievements": "2023-12-29T00:05:18.2689029+00:00",
+  "LastChanged_Achievements": "2023-12-29T01:42:26.9428357+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:08.0510318+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:59:07.456431+00:00",
-  "LastUpdate_Achievements": "2023-12-29T00:05:18.2689894+00:00"
+  "LastUpdate_Ratings": "2023-12-29T01:36:09.3243286+00:00",
+  "LastUpdate_Achievements": "2023-12-29T01:42:26.9429167+00:00"
 }

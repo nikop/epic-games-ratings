@@ -4,7 +4,7 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
@@ -1239,9 +1239,9 @@
       "ID": "questSWVillage",
       "SetID": "2fb6h6c",
       "Name": "Village defender",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "questSavePrincess",
@@ -1308,8 +1308,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-12-29T00:09:25.7994027+00:00",
+  "LastChanged_Achievements": "2023-12-29T01:46:39.3338881+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.0184442+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:59:01.5560084+00:00",
-  "LastUpdate_Achievements": "2023-12-29T00:09:25.7994659+00:00"
+  "LastUpdate_Ratings": "2023-12-29T01:36:03.5130637+00:00",
+  "LastUpdate_Achievements": "2023-12-29T01:46:39.3339513+00:00"
 }

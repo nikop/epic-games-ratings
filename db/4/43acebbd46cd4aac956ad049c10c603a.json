@@ -6,9 +6,9 @@
   "Ranking_Popularity": 392,
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 273,
-  "Ranking_EOS_Completed": 281,
+  "Ranking_EOS_Completed": 282,
   "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -253,9 +253,9 @@
       "Count": 87
     }
   ],
-  "EOS_Progressed": 1172,
+  "EOS_Progressed": 1173,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3198,6 +3198,11 @@
       "Time": "2023-12-28T23:05:50.5443484+00:00",
       "NumProgressed": 1172,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-29T01:41:54.726466+00:00",
+      "NumProgressed": 1173,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3218,7 +3223,7 @@
       "Name": "Ab Initio",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "AnthropicHills",
@@ -3330,7 +3335,7 @@
       "Name": "Excellent",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "FloodedValley",
@@ -3458,7 +3463,7 @@
       "Name": "Not What It Seems",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "Overload",
@@ -3466,7 +3471,7 @@
       "Name": "Overload",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "Persistent",
@@ -3546,7 +3551,7 @@
       "Name": "Southern Coast",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "TeamSpirit",
@@ -3554,7 +3559,7 @@
       "Name": "Team Spirit",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "TextAdventurer",
@@ -3602,7 +3607,7 @@
       "Name": "The Spark",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "TheThiefOfFire",
@@ -3634,7 +3639,7 @@
       "Name": "Trevor\u0027s Biographer",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "VerdantCanyon",
@@ -3681,7 +3686,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1172,
+      "Progressed": 1173,
       "Completed": 2
     }
   ],
@@ -3689,8 +3694,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-28T02:59:27.0743673+00:00",
-  "LastChanged_Achievements": "2023-12-29T00:04:45.3044819+00:00",
+  "LastChanged_Achievements": "2023-12-29T01:41:54.7264655+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:59:42.260772+00:00",
-  "LastUpdate_Achievements": "2023-12-29T00:04:45.3045266+00:00"
+  "LastUpdate_Ratings": "2023-12-29T01:36:43.219309+00:00",
+  "LastUpdate_Achievements": "2023-12-29T01:41:54.7265205+00:00"
 }

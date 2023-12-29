@@ -2,7 +2,7 @@
   "ID": "cf318a791de349f2b724136be105a6f1",
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
-  "Ranking_Rating": 540,
+  "Ranking_Rating": 539,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 279,
@@ -43,7 +43,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1118,
+  "EOS_Progressed": 1119,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 0,
@@ -2908,6 +2908,11 @@
       "Time": "2023-12-29T00:09:16.027107+00:00",
       "NumProgressed": 1118,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T01:46:29.5812183+00:00",
+      "NumProgressed": 1119,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -2960,7 +2965,7 @@
       "Name": "Violent solution",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "AchvConvoyList",
@@ -3096,7 +3101,7 @@
       "Name": "The Camp",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "AchvReachCity",
@@ -3151,7 +3156,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1118,
+      "Progressed": 1119,
       "Completed": 0
     }
   ],
@@ -3159,8 +3164,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2023-12-26T16:59:14.4896995+00:00",
-  "LastChanged_Achievements": "2023-12-29T00:09:16.0271067+00:00",
+  "LastChanged_Achievements": "2023-12-29T01:46:29.5812179+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:33.4496725+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:59:02.7415225+00:00",
-  "LastUpdate_Achievements": "2023-12-29T00:09:16.0271365+00:00"
+  "LastUpdate_Ratings": "2023-12-29T01:36:04.7591905+00:00",
+  "LastUpdate_Achievements": "2023-12-29T01:46:29.5812496+00:00"
 }

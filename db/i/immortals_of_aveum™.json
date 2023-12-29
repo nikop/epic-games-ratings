@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2144,
+  "EOS_Progressed": 2150,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 626,
+  "EOS_NewPlayers": 630,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3547,6 +3547,11 @@
       "Time": "2023-12-29T00:09:34.3722272+00:00",
       "NumProgressed": 2144,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-29T01:46:47.8236481+00:00",
+      "NumProgressed": 2150,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -3559,7 +3564,7 @@
       "Name": "Unforeseen",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 1865
+      "UsersEstimate": 1870
     },
     {
       "ID": "achievement_10",
@@ -3567,7 +3572,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 366
     },
     {
       "ID": "achievement_11",
@@ -3583,7 +3588,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "achievement_13",
@@ -3591,7 +3596,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "achievement_14",
@@ -3599,7 +3604,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "achievement_15",
@@ -3631,7 +3636,7 @@
       "Name": "Grand Magnus",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "achievement_19",
@@ -3639,7 +3644,7 @@
       "Name": "Socialite",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "achievement_2",
@@ -3647,7 +3652,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1720
     },
     {
       "ID": "achievement_20",
@@ -3703,7 +3708,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1440
     },
     {
       "ID": "achievement_36",
@@ -3711,7 +3716,7 @@
       "Name": "Armsman",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "achievement_37",
@@ -3727,7 +3732,7 @@
       "Name": "Best Dressed",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "achievement_4",
@@ -3735,7 +3740,7 @@
       "Name": "No More Names",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1054
     },
     {
       "ID": "achievement_41",
@@ -3767,7 +3772,7 @@
       "Name": "Periapt Cerulean",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "achievement_45",
@@ -3775,7 +3780,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "achievement_46",
@@ -3783,7 +3788,7 @@
       "Name": "Periapt Viridian",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "achievement_48",
@@ -3791,7 +3796,7 @@
       "Name": "Enlisted",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1565
+      "UsersEstimate": 1570
     },
     {
       "ID": "achievement_49",
@@ -3799,7 +3804,7 @@
       "Name": "Soldier",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 450
+      "UsersEstimate": 452
     },
     {
       "ID": "achievement_5",
@@ -3807,7 +3812,7 @@
       "Name": "Initiate",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 750
+      "UsersEstimate": 752
     },
     {
       "ID": "achievement_50",
@@ -3831,7 +3836,7 @@
       "Name": "Master of Carmine",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "achievement_56",
@@ -3847,7 +3852,7 @@
       "Name": "Shroudfane Explorer",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "achievement_6",
@@ -3855,7 +3860,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "achievement_60",
@@ -3911,7 +3916,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 538
     },
     {
       "ID": "achievement_8",
@@ -3919,7 +3924,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 450
+      "UsersEstimate": 452
     },
     {
       "ID": "achievement_9",
@@ -3927,14 +3932,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 2144,
+      "Progressed": 2150,
       "Completed": 2
     }
   ],
@@ -3942,8 +3947,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-28T01:43:06.2876057+00:00",
-  "LastChanged_Achievements": "2023-12-29T00:09:34.3722268+00:00",
+  "LastChanged_Achievements": "2023-12-29T01:46:47.8236479+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:37.6657855+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:59:05.0864236+00:00",
-  "LastUpdate_Achievements": "2023-12-29T00:09:34.3722763+00:00"
+  "LastUpdate_Ratings": "2023-12-29T01:36:07.0176958+00:00",
+  "LastUpdate_Achievements": "2023-12-29T01:46:47.8236935+00:00"
 }

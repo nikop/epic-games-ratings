@@ -19,15 +19,15 @@
 | Alchemist's Apprentice | 38.00% | ~35 |
 | Friend of Lyraine | 37.00% | ~34 |
 | The Circle | 35.00% | ~32 |
-| Redecorating | 33.00% | ~30 |
+| Redecorating | 34.00% | ~31 |
 | Bad JuJu | 24.00% | ~22 |
 | Slave to the rhythm | 21.00% | ~19 |
 | Friend of Sevenkeeps | 21.00% | ~19 |
 | Castle Meldec | 20.00% | ~18 |
 | Sevenkeeps Seat of Kings | 17.00% | ~16 |
+| Friend of Connach | 15.00% | ~14 |
 | Break Free | 15.00% | ~14 |
 | Friend of Alluvyan | 14.00% | ~13 |
-| Friend of Connach | 14.00% | ~13 |
 | Friend of Gillyshire | 13.00% | ~12 |
 | Philo's Tale | 12.00% | ~11 |
 | Friend of Silver Drift Hollow | 12.00% | ~11 |
@@ -58,13 +58,13 @@
 | Get to the Airship! | 4.00% | ~4 |
 | Defeat Ianna | 4.00% | ~4 |
 | Defeat Isgrimm | 4.00% | ~4 |
+| Defeat Yria | 4.00% | ~4 |
 | Lytra's Tale | 4.00% | ~4 |
 | Fireforge | 4.00% | ~4 |
 | Heroes | 4.00% | ~4 |
 | Master Necromancer | 4.00% | ~4 |
 | Friend of Grey Dusk Vale | 4.00% | ~4 |
 | Defeat Rohen | 3.00% | ~3 |
-| Defeat Yria | 3.00% | ~3 |
 | Master Alchemist | 3.00% | ~3 |
 | My Friends! | 3.00% | ~3 |
 | Misty Coast Dragonbones | 2.00% | ~2 |

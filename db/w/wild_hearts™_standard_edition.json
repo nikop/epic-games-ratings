@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -3411,9 +3411,9 @@
       "ID": "achievement_29",
       "SetID": "2cpn27e",
       "Name": "Fair Means or Foul",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 252
     },
     {
       "ID": "achievement_3",
@@ -3633,8 +3633,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-29T00:09:05.2282973+00:00",
+  "LastChanged_Achievements": "2023-12-29T01:46:18.9512674+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:00.2404368+00:00",
-  "LastUpdate_Ratings": "2023-12-28T23:57:14.2808712+00:00",
-  "LastUpdate_Achievements": "2023-12-29T00:09:05.2283654+00:00"
+  "LastUpdate_Ratings": "2023-12-29T01:34:17.3317916+00:00",
+  "LastUpdate_Achievements": "2023-12-29T01:46:18.951369+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "bcabb7efae0c4d0b9f652d6b232449d3",
   "Name": "\u0027n Verlore Verstand",
   "ProductSlug": "n-verlore-verstand-1d7f5b",
-  "Ranking_EOS_Progress": 519,
+  "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 495,
+  "Ranking_EOS_NewPlayers": 475,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-04-13T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65,
+  "EOS_Progressed": 66,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -329,6 +329,11 @@
       "Time": "2023-12-23T21:08:47.0188652+00:00",
       "NumProgressed": 65,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T01:45:50.7292893+00:00",
+      "NumProgressed": 66,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -340,7 +345,7 @@
       "Name": "Start of a Journey",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "10",
@@ -490,7 +495,7 @@
       "ID": "27",
       "SetID": "6m1k8ai",
       "Name": "A thing of beauty",
-      "Percentage": 85,
+      "Percentage": 83,
       "XP": 5,
       "UsersEstimate": 55
     },
@@ -514,7 +519,7 @@
       "ID": "3",
       "SetID": "6m1k8ai",
       "Name": "Brace the cold",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
       "UsersEstimate": 28
     },
@@ -602,7 +607,7 @@
       "ID": "4",
       "SetID": "6m1k8ai",
       "Name": "A Long Walk",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
       "UsersEstimate": 27
     },
@@ -723,14 +728,14 @@
     {
       "ID": "6m1k8ai",
       "IsBase": true,
-      "Progressed": 65,
+      "Progressed": 66,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-02T12:00:06.1215649+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2023-12-29T00:08:36.0220998+00:00",
+  "LastChanged_Achievements": "2023-12-29T01:45:50.7292889+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:52.5495475+00:00",
-  "LastUpdate_Ratings": "2023-12-29T00:02:55.8787347+00:00",
-  "LastUpdate_Achievements": "2023-12-29T00:08:36.0221282+00:00"
+  "LastUpdate_Ratings": "2023-12-29T01:40:05.4883655+00:00",
+  "LastUpdate_Achievements": "2023-12-29T01:45:50.7293247+00:00"
 }
