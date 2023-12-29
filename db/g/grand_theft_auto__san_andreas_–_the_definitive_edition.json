@@ -4,7 +4,7 @@
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 539,
   "Ranking_Popularity": 213,
-  "Ranking_PopularitySum": 285,
+  "Ranking_PopularitySum": 288,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 101,
@@ -1967,10 +1967,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 817,
       "NumberOfAwardsMax": 538
+    },
+    {
+      "Time": "2023-12-29T02:58:38.0662737+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 788,
+      "NumberOfAwardsMax": 538
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 817,
+  "NumberOfAwards": 788,
   "NumberOfAwardsMax": 538,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2035,9 +2041,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 17326,
+  "EOS_Progressed": 17329,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 1306,
+  "EOS_NewPlayers": 1304,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -18045,6 +18051,11 @@
       "Time": "2023-12-29T02:25:20.2345411+00:00",
       "NumProgressed": 17326,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-12-29T03:10:02.8392437+00:00",
+      "NumProgressed": 17329,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 35,
@@ -18056,7 +18067,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 14034
+      "UsersEstimate": 14036
     },
     {
       "ID": "ACH02",
@@ -18112,7 +18123,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 8663
+      "UsersEstimate": 8664
     },
     {
       "ID": "ACH09",
@@ -18136,7 +18147,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1560
     },
     {
       "ID": "ACH12",
@@ -18176,7 +18187,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2772
+      "UsersEstimate": 2773
     },
     {
       "ID": "ACH17",
@@ -18335,16 +18346,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 17326,
+      "Progressed": 17329,
       "Completed": 64
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-12-28T15:58:47.235981+00:00",
-  "LastChanged_Achievements": "2023-12-29T02:25:20.2345407+00:00",
+  "LastChanged": "2023-12-29T02:58:38.0662735+00:00",
+  "LastChanged_Achievements": "2023-12-29T03:10:02.8392433+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:16.9169269+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:13:59.9985475+00:00",
-  "LastUpdate_Achievements": "2023-12-29T02:25:20.2346362+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:58:38.0662742+00:00",
+  "LastUpdate_Achievements": "2023-12-29T03:10:02.8393337+00:00"
 }

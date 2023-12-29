@@ -7825,9 +7825,9 @@
       "Count": 3806
     }
   ],
-  "EOS_Progressed": 148206,
+  "EOS_Progressed": 148208,
   "EOS_Completed": 338,
-  "EOS_NewPlayers": 1379,
+  "EOS_NewPlayers": 1377,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -34370,6 +34370,11 @@
       "Time": "2023-12-29T02:19:22.7133458+00:00",
       "NumProgressed": 148206,
       "NumCompleted": 338
+    },
+    {
+      "Time": "2023-12-29T03:03:50.233232+00:00",
+      "NumProgressed": 148208,
+      "NumCompleted": 338
     }
   ],
   "TotalAchievements": 112,
@@ -34645,7 +34650,7 @@
       "Name": "Disintermediation",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10374
+      "UsersEstimate": 10375
     },
     {
       "ID": "craft02",
@@ -34853,7 +34858,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11856
+      "UsersEstimate": 11857
     },
     {
       "ID": "gold02",
@@ -35276,15 +35281,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 148206,
+      "Progressed": 148208,
       "Completed": 338
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-28T18:03:16.2286538+00:00",
-  "LastChanged_Achievements": "2023-12-29T02:19:22.7133455+00:00",
+  "LastChanged_Achievements": "2023-12-29T03:03:50.2332314+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:55.73992+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:18:45.633345+00:00",
-  "LastUpdate_Achievements": "2023-12-29T02:19:22.713543+00:00"
+  "LastUpdate_Ratings": "2023-12-29T03:03:11.2191989+00:00",
+  "LastUpdate_Achievements": "2023-12-29T03:03:50.2334567+00:00"
 }

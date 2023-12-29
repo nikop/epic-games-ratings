@@ -6,8 +6,8 @@
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 267,
-  "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_Completed": 123,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -179,11 +179,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1333,
+  "EOS_Progressed": 1334,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 2.63,
+  "EOS_Completed_Percentage": 2.62,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -4594,6 +4594,11 @@
       "Time": "2023-12-29T00:03:49.7822697+00:00",
       "NumProgressed": 1333,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-29T03:04:01.9419998+00:00",
+      "NumProgressed": 1334,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4614,7 +4619,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "_03_FinishAct1",
@@ -4622,7 +4627,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4630,7 +4635,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "_05_FinishAct2",
@@ -4662,7 +4667,7 @@
       "Name": "Swabbie",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "_09_Completion_20",
@@ -4813,7 +4818,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1333,
+      "Progressed": 1334,
       "Completed": 35
     }
   ],
@@ -4821,8 +4826,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2023-12-29T02:19:34.515166+00:00",
+  "LastChanged_Achievements": "2023-12-29T03:04:01.9419993+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:13:57.6346367+00:00",
-  "LastUpdate_Achievements": "2023-12-29T02:19:34.5152017+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:58:35.8097357+00:00",
+  "LastUpdate_Achievements": "2023-12-29T03:04:01.9420414+00:00"
 }

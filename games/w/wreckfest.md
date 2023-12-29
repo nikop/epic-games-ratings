@@ -5,7 +5,7 @@ Rating: 4.29 (Ranked 868)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Storm Warning | 64.00% | ~324 |
+| Storm Warning | 65.00% | ~329 |
 | Highballer | 38.00% | ~192 |
 | Dirty Roller | 35.00% | ~177 |
 | Regional Juniors Champion | 32.00% | ~162 |

@@ -2,13 +2,13 @@
   "ID": "95cda0d0b9124cc790f3893ac41cc29a",
   "Name": "Imagine Earth",
   "ProductSlug": "imagine-earth-7498e4",
-  "Ranking_Rating": 846,
+  "Ranking_Rating": 847,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 431,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
     "PcReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 445,
+  "EOS_Progressed": 446,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -503,6 +503,11 @@
       "Time": "2023-12-26T18:06:35.6595869+00:00",
       "NumProgressed": 445,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T03:08:26.1817933+00:00",
+      "NumProgressed": 446,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -530,7 +535,7 @@
       "Name": "Campaign Silver",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "CampaignStars3",
@@ -578,7 +583,7 @@
       "Name": "Environmentalist",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "Forester",
@@ -634,7 +639,7 @@
       "Name": "Joma",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "PlanetLorian",
@@ -650,7 +655,7 @@
       "Name": "Magni",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "PlanetRounos",
@@ -672,9 +677,9 @@
       "ID": "PlanetTuto",
       "SetID": "c2k469b",
       "Name": "Tuto",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 267
+      "UsersEstimate": 263
     },
     {
       "ID": "PlanetUdionTorix",
@@ -705,7 +710,7 @@
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 445,
+      "Progressed": 446,
       "Completed": 0
     }
   ],
@@ -713,8 +718,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-11-02T00:00:47.6208108+00:00",
-  "LastChanged_Achievements": "2023-12-29T02:23:35.2555165+00:00",
+  "LastChanged_Achievements": "2023-12-29T03:08:26.1817929+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:14.2881005+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:12:52.3550979+00:00",
-  "LastUpdate_Achievements": "2023-12-29T02:23:35.2555348+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:57:31.9236691+00:00",
+  "LastUpdate_Achievements": "2023-12-29T03:08:26.181809+00:00"
 }

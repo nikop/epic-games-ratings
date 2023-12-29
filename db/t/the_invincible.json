@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -43,9 +43,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1120,
+  "EOS_Progressed": 1121,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2918,6 +2918,11 @@
       "Time": "2023-12-29T02:24:49.4642755+00:00",
       "NumProgressed": 1120,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T03:09:39.6681345+00:00",
+      "NumProgressed": 1121,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -2994,7 +2999,7 @@
       "Name": "The Alliance",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "AchvDoom",
@@ -3018,7 +3023,7 @@
       "Name": "Another giant",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "AchvKrautaAlive",
@@ -3026,7 +3031,7 @@
       "Name": "Krauta is alive",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "AchvLava",
@@ -3058,7 +3063,7 @@
       "Name": "The Necroevolution",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "AchvNest",
@@ -3106,7 +3111,7 @@
       "Name": "The Camp",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "AchvReachCity",
@@ -3130,7 +3135,7 @@
       "Name": "Survivors",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -3154,14 +3159,14 @@
       "Name": "Beyond divisions",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1120,
+      "Progressed": 1121,
       "Completed": 0
     }
   ],
@@ -3169,8 +3174,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2023-12-26T16:59:14.4896995+00:00",
-  "LastChanged_Achievements": "2023-12-29T02:24:49.4642752+00:00",
+  "LastChanged_Achievements": "2023-12-29T03:09:39.6681339+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:33.4496725+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:14:47.0579656+00:00",
-  "LastUpdate_Achievements": "2023-12-29T02:24:49.4643103+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:59:24.6265082+00:00",
+  "LastUpdate_Achievements": "2023-12-29T03:09:39.6681688+00:00"
 }

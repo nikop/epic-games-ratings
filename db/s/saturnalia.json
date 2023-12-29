@@ -2,13 +2,13 @@
   "ID": "c749cd78da34408d8434a46271f4bb79",
   "Name": "Saturnalia",
   "ProductSlug": "saturnalia",
-  "Ranking_Rating": 894,
+  "Ranking_Rating": 895,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -273,7 +273,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69874,
+  "EOS_Progressed": 69875,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 0,
@@ -18883,6 +18883,11 @@
       "Time": "2023-12-29T01:40:29.5016444+00:00",
       "NumProgressed": 69874,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-29T03:03:31.4733552+00:00",
+      "NumProgressed": 69875,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -18894,7 +18899,7 @@
       "Name": "Denial",
       "Percentage": 2,
       "XP": 105,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "ACH_BONFIRES",
@@ -18926,7 +18931,7 @@
       "Name": "Soda addiction",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_FIRECRACKERS",
@@ -18942,7 +18947,7 @@
       "Name": "Paparazzi",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_FRIENDSHIPPOWER",
@@ -18982,7 +18987,7 @@
       "Name": "Acceptance",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "ACH_PHONECAPTURE",
@@ -18990,7 +18995,7 @@
       "Name": "Are you still there?",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_PHONEGATHER",
@@ -19038,7 +19043,7 @@
       "Name": "Bargaining",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "ACH_TOOLS",
@@ -19053,7 +19058,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 69874,
+      "Progressed": 69875,
       "Completed": 18
     }
   ],
@@ -19061,8 +19066,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2023-12-29T02:19:04.7339741+00:00",
+  "LastChanged_Achievements": "2023-12-29T03:03:31.4733546+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:07.2653355+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:14:02.9378282+00:00",
-  "LastUpdate_Achievements": "2023-12-29T02:19:04.7341397+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:58:40.796155+00:00",
+  "LastUpdate_Achievements": "2023-12-29T03:03:31.4735406+00:00"
 }

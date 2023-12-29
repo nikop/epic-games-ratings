@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -4108,9 +4108,9 @@
       "ID": "GSS_ACH_13_FUEL_SERVE_01",
       "SetID": "5fn8ia4",
       "Name": "So it begins",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1341
     },
     {
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
@@ -4156,9 +4156,9 @@
       "ID": "GSS_ACH_19_RUDY",
       "SetID": "5fn8ia4",
       "Name": "Rudy!",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 1370
+      "UsersEstimate": 1384
     },
     {
       "ID": "GSS_ACH_20_DECORATION_01",
@@ -4669,8 +4669,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-27T13:01:41.0592419+00:00",
-  "LastChanged_Achievements": "2023-12-29T02:19:08.1225752+00:00",
+  "LastChanged_Achievements": "2023-12-29T03:03:35.0164297+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:05.7719462+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:14:57.9318939+00:00",
-  "LastUpdate_Achievements": "2023-12-29T02:19:08.1226633+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:59:35.5127968+00:00",
+  "LastUpdate_Achievements": "2023-12-29T03:03:35.0165506+00:00"
 }

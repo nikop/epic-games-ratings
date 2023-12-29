@@ -4,8 +4,8 @@
   "ProductSlug": "snowmen-5987b9",
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 387,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-05T12:00:00+00:00",
     "PcReleaseDate": "2023-12-05T12:00:00+00:00",
@@ -1567,9 +1567,9 @@
       "ID": "ACHIEVEMENT_MAIN_FAILED",
       "SetID": "5lffoo5",
       "Name": "At least you tried",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_MAIN_GOLD_BUTTON",
@@ -1583,9 +1583,9 @@
       "ID": "ACHIEVEMENT_MAIN_GOLD_CARROT",
       "SetID": "5lffoo5",
       "Name": "Golden Carrot",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_MAIN_GOLD_HAT",
@@ -1623,9 +1623,9 @@
       "ID": "ACHIEVEMENT_MAIN_SILVER_BUTTON",
       "SetID": "5lffoo5",
       "Name": "Silver Button",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_MAIN_SILVER_CARROT",
@@ -1670,8 +1670,8 @@
   ],
   "FirstSeen": "2023-12-08T01:45:34.789391+00:00",
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2023-12-29T02:21:23.684045+00:00",
+  "LastChanged_Achievements": "2023-12-29T03:05:50.4707494+00:00",
   "LastUpdate_AppInfo": "2023-12-25T02:56:58.7115371+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:12:38.0745195+00:00",
-  "LastUpdate_Achievements": "2023-12-29T02:21:23.6840642+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:57:17.5876593+00:00",
+  "LastUpdate_Achievements": "2023-12-29T03:05:50.4707677+00:00"
 }

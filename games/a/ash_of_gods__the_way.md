@@ -36,11 +36,11 @@
 | Defeat the bear | 6.00% | ~3 |
 | By own strength | 6.00% | ~3 |
 | Deadly strike | 6.00% | ~3 |
+| Cunning plan | 6.00% | ~3 |
 | All's fair in love and war | 6.00% | ~3 |
 | Nothing is settled | 6.00% | ~3 |
 | The power of persuasion | 4.00% | ~2 |
 | A solo player | 4.00% | ~2 |
-| Cunning plan | 4.00% | ~2 |
 | Do it yourself | 4.00% | ~2 |
 | By someone else's hands | 2.00% | ~1 |
 | There can be only one | 2.00% | ~1 |

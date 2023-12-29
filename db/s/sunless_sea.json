@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 367,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -796,9 +796,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 43118,
+  "EOS_Progressed": 43123,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 460,
+  "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26581,6 +26581,11 @@
       "Time": "2023-12-29T02:19:23.5122294+00:00",
       "NumProgressed": 43118,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-29T03:03:50.996167+00:00",
+      "NumProgressed": 43123,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -26608,7 +26613,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7330
+      "UsersEstimate": 7331
     },
     {
       "ID": "ach_antiquarian10",
@@ -26656,7 +26661,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4743
+      "UsersEstimate": 4744
     },
     {
       "ID": "ach_cursestone",
@@ -26680,7 +26685,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4743
+      "UsersEstimate": 4744
     },
     {
       "ID": "ach_deathofermod",
@@ -26712,7 +26717,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15522
+      "UsersEstimate": 15524
     },
     {
       "ID": "ach_die10",
@@ -26760,7 +26765,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4743
+      "UsersEstimate": 4744
     },
     {
       "ID": "ach_invictus",
@@ -26784,7 +26789,7 @@
       "Name": "Correspondent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5174
+      "UsersEstimate": 5175
     },
     {
       "ID": "ach_legacypupil",
@@ -26792,7 +26797,7 @@
       "Name": "Pupil",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3018
+      "UsersEstimate": 3019
     },
     {
       "ID": "ach_legacyrival",
@@ -26808,7 +26813,7 @@
       "Name": "Salvager",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3018
+      "UsersEstimate": 3019
     },
     {
       "ID": "ach_legacyshipmate",
@@ -26816,7 +26821,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4743
+      "UsersEstimate": 4744
     },
     {
       "ID": "ach_newstories",
@@ -26824,7 +26829,7 @@
       "Name": "Open Your Ears",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3018
+      "UsersEstimate": 3019
     },
     {
       "ID": "ach_portbell",
@@ -26936,7 +26941,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3018
+      "UsersEstimate": 3019
     },
     {
       "ID": "ach_sweetheart",
@@ -26944,7 +26949,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7761
+      "UsersEstimate": 7762
     },
     {
       "ID": "ach_terror100",
@@ -26952,7 +26957,7 @@
       "Name": "Lose Your Mind",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5174
+      "UsersEstimate": 5175
     },
     {
       "ID": "ach_terror90",
@@ -26992,7 +26997,7 @@
       "Name": "Sound Mind?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 5174
+      "UsersEstimate": 5175
     },
     {
       "ID": "ach_year1",
@@ -27000,7 +27005,7 @@
       "Name": "One Year at Zee",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3449
+      "UsersEstimate": 3450
     },
     {
       "ID": "ach_year10",
@@ -27023,15 +27028,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 43118,
+      "Progressed": 43123,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-12-24T21:57:48.6140592+00:00",
-  "LastChanged_Achievements": "2023-12-29T02:19:23.5122288+00:00",
+  "LastChanged_Achievements": "2023-12-29T03:03:50.9961664+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:10.7920736+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:15:04.495676+00:00",
-  "LastUpdate_Achievements": "2023-12-29T02:19:23.5123979+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:59:42.1752949+00:00",
+  "LastUpdate_Achievements": "2023-12-29T03:03:50.9962915+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -3504,9 +3504,9 @@
       "ID": "EV_ACH01",
       "SetID": "6jeac23",
       "Name": "Blue Dreams",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 892
+      "UsersEstimate": 906
     },
     {
       "ID": "EV_ACH02",
@@ -3520,9 +3520,9 @@
       "ID": "EV_ACH03",
       "SetID": "6jeac23",
       "Name": "He\u0027s Famous!",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 892
+      "UsersEstimate": 906
     },
     {
       "ID": "EV_ACH04",
@@ -3865,8 +3865,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-25T19:59:38.6529887+00:00",
-  "LastChanged_Achievements": "2023-12-29T02:25:31.1770176+00:00",
+  "LastChanged_Achievements": "2023-12-29T03:10:13.6265675+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:41.3966374+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:13:13.0218417+00:00",
-  "LastUpdate_Achievements": "2023-12-29T02:25:31.1770525+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:57:52.1998438+00:00",
+  "LastUpdate_Achievements": "2023-12-29T03:10:13.6266075+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -1111,9 +1111,9 @@
       "ID": "KR4_ACHIEVEMENT_CALL_EARLY_WAVES",
       "SetID": "caeik3h",
       "Name": "Gotta Go Fast",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 209
     },
     {
       "ID": "KR4_ACHIEVEMENT_CURSE_ME_KILTS",
@@ -1668,8 +1668,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-29T02:20:53.1178065+00:00",
+  "LastChanged_Achievements": "2023-12-29T03:05:20.2591946+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.1058747+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:12:53.2907226+00:00",
-  "LastUpdate_Achievements": "2023-12-29T02:20:53.117867+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:57:32.7925629+00:00",
+  "LastUpdate_Achievements": "2023-12-29T03:05:20.2592594+00:00"
 }

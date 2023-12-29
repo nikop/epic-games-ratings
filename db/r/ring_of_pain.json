@@ -3802,9 +3802,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 241932,
+  "EOS_Progressed": 241935,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 494,
+  "EOS_NewPlayers": 496,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29907,6 +29907,11 @@
       "Time": "2023-12-29T02:25:35.0231952+00:00",
       "NumProgressed": 241932,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-29T03:10:17.4045583+00:00",
+      "NumProgressed": 241935,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -30716,9 +30721,9 @@
       "ID": "TRANSFORM20TIMES",
       "SetID": "5l8oe0h",
       "Name": "Shapeshifting",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1452
     },
     {
       "ID": "TRANSFORMFIREBEAD",
@@ -31021,13 +31026,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241932,
+      "Progressed": 241935,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3412,
+      "Progressed": 3415,
       "Completed": 416
     }
   ],
@@ -31035,8 +31040,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-28T23:00:28.6760098+00:00",
-  "LastChanged_Achievements": "2023-12-29T02:25:35.0231946+00:00",
+  "LastChanged_Achievements": "2023-12-29T03:10:17.4045579+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:14:59.4131631+00:00",
-  "LastUpdate_Achievements": "2023-12-29T02:25:35.0234502+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:59:36.9766855+00:00",
+  "LastUpdate_Achievements": "2023-12-29T03:10:17.4048089+00:00"
 }

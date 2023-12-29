@@ -1021,9 +1021,9 @@
       "Count": 159
     }
   ],
-  "EOS_Progressed": 14449,
+  "EOS_Progressed": 14452,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1137,
+  "EOS_NewPlayers": 1134,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -16186,6 +16186,11 @@
       "Time": "2023-12-29T02:25:03.2962528+00:00",
       "NumProgressed": 14449,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-29T03:09:46.5046322+00:00",
+      "NumProgressed": 14452,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 34,
@@ -16197,7 +16202,7 @@
       "Name": "Born in the 80\u2019s",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH02",
@@ -16221,7 +16226,7 @@
       "Name": "Not my First Time",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "ACH05",
@@ -16237,7 +16242,7 @@
       "Name": "Point A to Point B",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ACH07",
@@ -16245,7 +16250,7 @@
       "Name": "High Quality H2O",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ACH08",
@@ -16261,7 +16266,7 @@
       "Name": "Bull in a China Shop",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ACH10",
@@ -16277,7 +16282,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "ACH12",
@@ -16293,7 +16298,7 @@
       "Name": "Somebody Call the Wambulance?",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ACH14",
@@ -16301,7 +16306,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6069
+      "UsersEstimate": 6070
     },
     {
       "ID": "ACH15",
@@ -16309,7 +16314,7 @@
       "Name": "Just Like the Real Thing",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ACH16",
@@ -16317,7 +16322,7 @@
       "Name": "Keepie-Uppy Okie Dokie",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH17",
@@ -16325,7 +16330,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "ACH18",
@@ -16333,7 +16338,7 @@
       "Name": "I\u0027m Famous!",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH19",
@@ -16341,7 +16346,7 @@
       "Name": "Don\u0027t Need Roads",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ACH20",
@@ -16349,7 +16354,7 @@
       "Name": "Daredevil",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH21",
@@ -16357,7 +16362,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 6647
+      "UsersEstimate": 6648
     },
     {
       "ID": "ACH22",
@@ -16373,7 +16378,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3757
+      "UsersEstimate": 3758
     },
     {
       "ID": "ACH24",
@@ -16381,7 +16386,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2167
+      "UsersEstimate": 2168
     },
     {
       "ID": "ACH25",
@@ -16389,7 +16394,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2167
+      "UsersEstimate": 2168
     },
     {
       "ID": "ACH26",
@@ -16397,7 +16402,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2167
+      "UsersEstimate": 2168
     },
     {
       "ID": "ACH27",
@@ -16405,7 +16410,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "ACH28",
@@ -16468,7 +16473,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 14449,
+      "Progressed": 14452,
       "Completed": 82
     }
   ],
@@ -16476,8 +16481,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-28T17:58:03.31187+00:00",
-  "LastChanged_Achievements": "2023-12-29T02:25:03.2962524+00:00",
+  "LastChanged_Achievements": "2023-12-29T03:09:46.5046316+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:06.9886134+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:13:46.1158666+00:00",
-  "LastUpdate_Achievements": "2023-12-29T02:25:03.2963445+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:58:24.4697048+00:00",
+  "LastUpdate_Achievements": "2023-12-29T03:09:46.5047383+00:00"
 }

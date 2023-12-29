@@ -6,14 +6,14 @@
 | ---- | ---------- | ----- |
 | Lost forever | 12.00% | ~39 |
 | Silver Hat | 8.00% | ~26 |
+| Golden Carrot | 6.00% | ~20 |
 | Naughty list | 6.00% | ~20 |
-| Golden Carrot | 5.00% | ~16 |
-| Silver Button | 4.00% | ~13 |
+| Silver Button | 5.00% | ~16 |
 | Silver Carrot | 4.00% | ~13 |
+| At least you tried | 3.00% | ~10 |
 | Golden Button | 3.00% | ~10 |
 | Golden Hat | 3.00% | ~10 |
 | A new HOME | 2.00% | ~6 |
-| At least you tried | 2.00% | ~6 |
 | Silver Scarf | 2.00% | ~6 |
 | Minimalist lifestyle | 0.90% | ~3 |
 | I deliver the presents! | 0.90% | ~3 |

@@ -4,11 +4,11 @@
   "ProductSlug": "inscryption-6b29ab",
   "Ranking_Rating": 31,
   "Ranking_Popularity": 244,
-  "Ranking_PopularitySum": 341,
+  "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 573,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-10-19T19:00:00+00:00",
     "PcReleaseDate": "2021-10-19T19:00:00+00:00",
@@ -788,10 +788,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 446,
       "NumberOfAwardsMax": 357
+    },
+    {
+      "Time": "2023-12-29T02:59:55.6123052+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 425,
+      "NumberOfAwardsMax": 357
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 446,
+  "NumberOfAwards": 425,
   "NumberOfAwardsMax": 357,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -837,8 +843,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:28.221027+00:00",
-  "LastChanged": "2023-12-28T12:01:22.445341+00:00",
+  "LastChanged": "2023-12-29T02:59:55.612305+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:08.024519+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:15:17.9944953+00:00",
-  "LastUpdate_Achievements": "2023-12-29T02:21:10.2900159+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:59:55.6123056+00:00",
+  "LastUpdate_Achievements": "2023-12-29T03:05:37.1217324+00:00"
 }

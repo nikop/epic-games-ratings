@@ -8,7 +8,7 @@ Rating: 4.65 (Ranked 323)
 | Time Heals All Wounds | 42.00% | ~478 |
 | Rail Rat | 32.00% | ~364 |
 | The Mysterious Stranger | 31.00% | ~353 |
-| Immaculate Aim | 26.00% | ~296 |
+| Immaculate Aim | 27.00% | ~307 |
 | The Brass Boss | 26.00% | ~296 |
 | Make Up For Lost Time | 24.00% | ~273 |
 | Time Flies | 24.00% | ~273 |

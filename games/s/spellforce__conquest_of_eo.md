@@ -25,9 +25,9 @@
 | Friend of Sevenkeeps | 21.00% | ~19 |
 | Castle Meldec | 20.00% | ~18 |
 | Sevenkeeps Seat of Kings | 17.00% | ~16 |
+| Friend of Alluvyan | 15.00% | ~14 |
 | Friend of Connach | 15.00% | ~14 |
 | Break Free | 15.00% | ~14 |
-| Friend of Alluvyan | 14.00% | ~13 |
 | Friend of Gillyshire | 14.00% | ~13 |
 | Philo's Tale | 12.00% | ~11 |
 | Friend of Silver Drift Hollow | 12.00% | ~11 |
@@ -45,11 +45,11 @@
 | A Joke | 8.00% | ~7 |
 | Defeat Uram | 7.00% | ~6 |
 | Elynn's Tale | 7.00% | ~6 |
+| Lore's Tale | 7.00% | ~6 |
 | The Forge of Regan Gor | 7.00% | ~6 |
 | Tuscari Sea Portal | 7.00% | ~6 |
 | Defeat Raith | 5.00% | ~5 |
 | Defeat Undergast | 5.00% | ~5 |
-| Lore's Tale | 5.00% | ~5 |
 | Crypt of the Revenant | 5.00% | ~5 |
 | Master Artificer | 5.00% | ~5 |
 | A Monopoly of Might | 5.00% | ~5 |

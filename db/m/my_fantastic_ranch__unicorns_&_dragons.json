@@ -4,8 +4,8 @@
   "ProductSlug": "my-fantastic-ranch",
   "Ranking_EOS_Progress": 551,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 475,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 459,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-11-17T09:00:00+00:00",
     "PcReleaseDate": "2022-11-17T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 45,
+  "EOS_Progressed": 46,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -257,6 +257,11 @@
       "Time": "2023-12-26T20:04:14.493909+00:00",
       "NumProgressed": 45,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T03:04:18.5501801+00:00",
+      "NumProgressed": 46,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -266,7 +271,7 @@
       "ID": "1",
       "SetID": "6ljhbe4",
       "Name": "Let the Adventure Begin!",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 20,
       "UsersEstimate": 26
     },
@@ -274,7 +279,7 @@
       "ID": "10",
       "SetID": "6ljhbe4",
       "Name": "Creature Evolution",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
       "UsersEstimate": 14
     },
@@ -354,7 +359,7 @@
       "ID": "2",
       "SetID": "6ljhbe4",
       "Name": "Spirit of competition",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 20,
       "UsersEstimate": 16
     },
@@ -418,7 +423,7 @@
       "ID": "4",
       "SetID": "6ljhbe4",
       "Name": "Entering New Territory",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 60,
       "UsersEstimate": 8
     },
@@ -467,7 +472,7 @@
     {
       "ID": "6ljhbe4",
       "IsBase": true,
-      "Progressed": 45,
+      "Progressed": 46,
       "Completed": 0
     }
   ],
@@ -475,8 +480,8 @@
   "FirstSeenRating": "2023-03-31T05:58:20.5434938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.8838282+00:00",
   "LastChanged": "2023-03-31T05:58:20.5434939+00:00",
-  "LastChanged_Achievements": "2023-12-29T02:19:51.4371959+00:00",
+  "LastChanged_Achievements": "2023-12-29T03:04:18.5501796+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:03.3490891+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:15:16.7402985+00:00",
-  "LastUpdate_Achievements": "2023-12-29T02:19:51.4372134+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:59:54.3099952+00:00",
+  "LastUpdate_Achievements": "2023-12-29T03:04:18.5501963+00:00"
 }

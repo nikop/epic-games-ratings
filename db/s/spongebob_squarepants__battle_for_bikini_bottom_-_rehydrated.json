@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
@@ -317,9 +317,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 470,
+  "EOS_Progressed": 472,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 295,
+  "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -1307,6 +1307,11 @@
       "Time": "2023-12-29T02:20:56.6339299+00:00",
       "NumProgressed": 470,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T03:05:23.4072545+00:00",
+      "NumProgressed": 472,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1341,7 +1346,7 @@
       "ID": "ACH_COMPLETION",
       "SetID": "biiejkc",
       "Name": "100% SpongeBob",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 200,
       "UsersEstimate": 4
     },
@@ -1485,7 +1490,7 @@
       "ID": "ACH_STAT_100_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Super Ultra Mega Spatula Seeker",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -1527,7 +1532,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -1535,7 +1540,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -1574,15 +1579,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 470,
+      "Progressed": 472,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-29T02:20:56.6339295+00:00",
+  "LastChanged_Achievements": "2023-12-29T03:05:23.4072538+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:15:28.082836+00:00",
-  "LastUpdate_Achievements": "2023-12-29T02:20:56.6339594+00:00"
+  "LastUpdate_Ratings": "2023-12-29T03:00:05.1936218+00:00",
+  "LastUpdate_Achievements": "2023-12-29T03:05:23.4072788+00:00"
 }

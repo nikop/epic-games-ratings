@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1684,
+  "EOS_Progressed": 1685,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 278,
+  "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -3130,6 +3130,11 @@
       "Time": "2023-12-29T01:46:52.9087342+00:00",
       "NumProgressed": 1684,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-29T03:10:01.8282323+00:00",
+      "NumProgressed": 1685,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 15,
@@ -3141,7 +3146,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "booty_call",
@@ -3149,7 +3154,7 @@
       "Name": "Booty Call",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "crash_and_burn",
@@ -3165,7 +3170,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 1617
+      "UsersEstimate": 1618
     },
     {
       "ID": "hold_my_beer",
@@ -3173,7 +3178,7 @@
       "Name": "Hold my Beer",
       "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -3205,7 +3210,7 @@
       "Name": "Not Alone",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "nueva_beginnings",
@@ -3229,7 +3234,7 @@
       "Name": "Planting the Seed",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "smooth_criminal",
@@ -3260,7 +3265,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 1684,
+      "Progressed": 1685,
       "Completed": 11
     }
   ],
@@ -3268,8 +3273,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-12-29T02:25:19.0454938+00:00",
+  "LastChanged_Achievements": "2023-12-29T03:10:01.8282318+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.2204919+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:13:07.0414461+00:00",
-  "LastUpdate_Achievements": "2023-12-29T02:25:19.0455173+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:57:46.217052+00:00",
+  "LastUpdate_Achievements": "2023-12-29T03:10:01.8282583+00:00"
 }

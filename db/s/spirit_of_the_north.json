@@ -5,7 +5,7 @@
   "Ranking_Rating": 801,
   "Ranking_Popularity": 532,
   "Ranking_PopularitySum": 453,
-  "Ranking_EOS_Progress": 107,
+  "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 69,
@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 78268,
+  "EOS_Progressed": 78269,
   "EOS_Completed": 419,
-  "EOS_NewPlayers": 805,
+  "EOS_NewPlayers": 801,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -28229,6 +28229,11 @@
       "Time": "2023-12-29T02:25:01.3146049+00:00",
       "NumProgressed": 78268,
       "NumCompleted": 419
+    },
+    {
+      "Time": "2023-12-29T03:09:44.6641371+00:00",
+      "NumProgressed": 78269,
+      "NumCompleted": 419
     }
   ],
   "TotalAchievements": 24,
@@ -28256,7 +28261,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 54005
+      "UsersEstimate": 54006
     },
     {
       "ID": "BEST_FRIENDS",
@@ -28320,7 +28325,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 41482
+      "UsersEstimate": 41483
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -28336,7 +28341,7 @@
       "Name": "MATCH MAKER",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 6261
+      "UsersEstimate": 6262
     },
     {
       "ID": "NONE_FORGOTTEN",
@@ -28352,7 +28357,7 @@
       "Name": "NORTHERN LIGHTS",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 6261
+      "UsersEstimate": 6262
     },
     {
       "ID": "OLD_COMPANION",
@@ -28376,7 +28381,7 @@
       "Name": "SPIRITED AWAY",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 6261
+      "UsersEstimate": 6262
     },
     {
       "ID": "SPIRIT_BARK",
@@ -28392,7 +28397,7 @@
       "Name": "SPIRIT DASH",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 8609
+      "UsersEstimate": 8610
     },
     {
       "ID": "SPIRIT_FORM",
@@ -28431,7 +28436,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 78268,
+      "Progressed": 78269,
       "Completed": 419
     }
   ],
@@ -28439,8 +28444,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2023-12-29T02:25:01.3146044+00:00",
+  "LastChanged_Achievements": "2023-12-29T03:09:44.6641365+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:46.017366+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:13:47.6232006+00:00",
-  "LastUpdate_Achievements": "2023-12-29T02:25:01.3147699+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:58:25.9625852+00:00",
+  "LastUpdate_Achievements": "2023-12-29T03:09:44.6643225+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1485,9 +1485,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6729,
+  "EOS_Progressed": 6730,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15440,6 +15440,11 @@
       "Time": "2023-12-29T01:41:36.5215858+00:00",
       "NumProgressed": 6729,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-29T03:04:36.1699382+00:00",
+      "NumProgressed": 6730,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -15507,7 +15512,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -15523,7 +15528,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -15611,7 +15616,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4979
+      "UsersEstimate": 4980
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -15723,7 +15728,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2422
+      "UsersEstimate": 2423
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -15770,15 +15775,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6729,
+      "Progressed": 6730,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-28T18:57:53.4773246+00:00",
-  "LastChanged_Achievements": "2023-12-29T02:20:09.1647285+00:00",
+  "LastChanged_Achievements": "2023-12-29T03:04:36.1699377+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:39.6786531+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:13:11.6037659+00:00",
-  "LastUpdate_Achievements": "2023-12-29T02:20:09.1647977+00:00"
+  "LastUpdate_Ratings": "2023-12-29T02:57:50.7691211+00:00",
+  "LastUpdate_Achievements": "2023-12-29T03:04:36.1700085+00:00"
 }
