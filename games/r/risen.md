@@ -11,7 +11,7 @@ Rating: 4.55 (Ranked 523)
 | Philanthropist | 60.00% | ~82 |
 | Archer | 43.00% | ~58 |
 | The brave little tailor | 41.00% | ~56 |
-| Field hand | 38.00% | ~52 |
+| Field hand | 39.00% | ~53 |
 | Samaritan | 35.00% | ~48 |
 | Well-to-do | 35.00% | ~48 |
 | The merciful one | 32.00% | ~44 |

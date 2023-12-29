@@ -3,9 +3,9 @@
   "Name": "Placid Plastic Duck Simulator",
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 375,
-  "Ranking_EOS_Completed": 48,
+  "Ranking_EOS_Completed": 49,
   "Ranking_EOS_NewPlayers": 461,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 333,
+  "EOS_Progressed": 334,
   "EOS_Completed": 29,
   "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.71,
+  "EOS_Completed_Percentage": 8.68,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -1484,6 +1484,11 @@
       "Time": "2023-12-29T17:08:17.3433511+00:00",
       "NumProgressed": 333,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-12-29T18:08:32.2796795+00:00",
+      "NumProgressed": 334,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 16,
@@ -1511,15 +1516,15 @@
       "Name": "Cruise ship",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "8d3ci0",
       "Name": "Ducks adrift",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 137
+      "UsersEstimate": 134
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -1535,7 +1540,7 @@
       "Name": "High-rise",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -1591,7 +1596,7 @@
       "Name": "Private pool",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1599,37 +1604,37 @@
       "Name": "Abducktion",
       "Percentage": 25,
       "XP": 95,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "8d3ci0",
       "Name": "On fire",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 60,
-      "UsersEstimate": 127
+      "UsersEstimate": 124
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "8d3ci0",
       "Name": "Watery help",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 87
+      "UsersEstimate": 84
     }
   ],
   "AchievementSets": [
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 333,
+      "Progressed": 334,
       "Completed": 29
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-12-29T17:08:17.3433508+00:00",
+  "LastChanged_Achievements": "2023-12-29T18:08:32.2796792+00:00",
   "LastUpdate_AppInfo": "2023-12-24T04:57:03.3422722+00:00",
-  "LastUpdate_Ratings": "2023-12-29T16:59:14.1108961+00:00",
-  "LastUpdate_Achievements": "2023-12-29T17:08:17.3433677+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:00:08.6478519+00:00",
+  "LastUpdate_Achievements": "2023-12-29T18:08:32.2796963+00:00"
 }

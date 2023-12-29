@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 279,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1064,9 +1064,9 @@
       "ID": "collect_items_mother",
       "SetID": "f2im8d",
       "Name": "Something to think about",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "collect_most_of_memories",
@@ -1248,7 +1248,7 @@
       "ID": "in_one_take",
       "SetID": "f2im8d",
       "Name": "In One Take",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1272,9 +1272,9 @@
       "ID": "lights_camera_action",
       "SetID": "f2im8d",
       "Name": "Lights! Camera! Action!",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "once_upon_a_time",
@@ -1360,9 +1360,9 @@
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 187
     },
     {
       "ID": "spy_one_item",
@@ -1384,9 +1384,9 @@
       "ID": "the_art_of_movement",
       "SetID": "f2im8d",
       "Name": "The art of movement",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "the_tragedy_unfolds",
@@ -1447,8 +1447,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-29T17:08:32.9071917+00:00",
+  "LastChanged_Achievements": "2023-12-29T18:08:50.9589179+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:25.6985759+00:00",
-  "LastUpdate_Ratings": "2023-12-29T16:59:45.654833+00:00",
-  "LastUpdate_Achievements": "2023-12-29T17:08:32.9072329+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:00:48.7816325+00:00",
+  "LastUpdate_Achievements": "2023-12-29T18:08:50.9589515+00:00"
 }

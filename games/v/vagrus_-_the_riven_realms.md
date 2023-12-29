@@ -25,12 +25,12 @@
 | Courier | 5.00% | ~13 |
 | Pilgrimage's End | 5.00% | ~13 |
 | Merchant | 5.00% | ~13 |
+| Trouble at Fort Larius | 5.00% | ~13 |
 | Quartermaster | 4.00% | ~10 |
 | Potential Unlocked | 4.00% | ~10 |
 | Despised | 4.00% | ~10 |
 | Been There | 4.00% | ~10 |
 | Spiritual Journey | 4.00% | ~10 |
-| Trouble at Fort Larius | 4.00% | ~10 |
 | Unseen Patterns | 4.00% | ~10 |
 | Xevarian Gambit | 3.00% | ~8 |
 | The Voice of Hereafter | 3.00% | ~8 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253 (Ranked 403)  
+Progressed: 253 (Ranked 404)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |

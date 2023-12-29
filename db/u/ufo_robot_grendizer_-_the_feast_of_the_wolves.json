@@ -4,8 +4,8 @@
   "ProductSlug": "goldorak-d90cf1",
   "Ranking_EOS_Progress": 545,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
     "PcReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -327,9 +327,9 @@
       "ID": "ACH_FIRSTLEGENDARYLOOT",
       "SetID": "ch874lb",
       "Name": "The Remains of Fleed",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_FIRSTMEDITATION",
@@ -399,9 +399,9 @@
       "ID": "ACH_LEGENDARYMATERIAL",
       "SetID": "ch874lb",
       "Name": "The Legend",
-      "Percentage": 50,
+      "Percentage": 52,
       "XP": 35,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_PERFECTDODGE",
@@ -526,8 +526,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2023-12-29T17:04:22.8373936+00:00",
+  "LastChanged_Achievements": "2023-12-29T18:05:12.0386146+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:19.6020378+00:00",
-  "LastUpdate_Ratings": "2023-12-29T16:59:52.1457402+00:00",
-  "LastUpdate_Achievements": "2023-12-29T17:04:22.8374106+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:00:57.354516+00:00",
+  "LastUpdate_Achievements": "2023-12-29T18:05:12.0386292+00:00"
 }

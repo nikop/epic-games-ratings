@@ -29,13 +29,13 @@ Rating: 4.50 (Ranked 609)
 | Let Me Be Frank | 34.00% | ~457 |
 | No Stone Unturned | 32.00% | ~430 |
 | Brain Food | 31.00% | ~417 |
-| Read It And Weep | 19.00% | ~256 |
+| Read It And Weep | 20.00% | ~269 |
 | Curiosity Killed The Cat | 18.00% | ~242 |
 | Big Breakthrough | 12.00% | ~161 |
 | Reawakened | 3.00% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,345 (Ranked 264)  
-Completed: 38 (2.83%) (Ranked 116)  
+Progressed: 1,345 (Ranked 265)  
+Completed: 38 (2.83%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

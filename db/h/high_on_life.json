@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24934,
+  "EOS_Progressed": 24935,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8391,6 +8391,11 @@
       "Time": "2023-12-29T14:08:48.1726142+00:00",
       "NumProgressed": 24934,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-29T18:08:51.85382+00:00",
+      "NumProgressed": 24935,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -8488,9 +8493,9 @@
       "ID": "ACH_GET_SWEEZY",
       "SetID": "cdkbb11",
       "Name": "Sweezy Like Sunday Morning",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 997
+      "UsersEstimate": 1247
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -8753,13 +8758,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24934,
+      "Progressed": 24935,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2227,
+      "Progressed": 2228,
       "Completed": 1376
     }
   ],
@@ -8767,8 +8772,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2023-12-29T17:08:33.6503639+00:00",
+  "LastChanged_Achievements": "2023-12-29T18:08:51.8538194+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:42.9479421+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:02:52.8772114+00:00",
-  "LastUpdate_Achievements": "2023-12-29T17:08:33.6504316+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:03:17.9586083+00:00",
+  "LastUpdate_Achievements": "2023-12-29T18:08:51.8538863+00:00"
 }

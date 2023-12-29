@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 557,
+  "EOS_Progressed": 558,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
@@ -1809,6 +1809,11 @@
       "Time": "2023-12-29T14:06:09.8523107+00:00",
       "NumProgressed": 557,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T18:07:49.3386219+00:00",
+      "NumProgressed": 558,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1861,7 +1866,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "9",
@@ -1885,7 +1890,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "REMAKE_004",
@@ -1893,7 +1898,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "Remake_005",
@@ -1995,9 +2000,9 @@
       "ID": "Remake_17",
       "SetID": "5pi96jj",
       "Name": "Lawn Daddy",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Remake_18",
@@ -2044,14 +2049,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 557,
+      "Progressed": 558,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-29T17:06:31.2730849+00:00",
+  "LastChanged_Achievements": "2023-12-29T18:07:49.3386215+00:00",
   "LastUpdate_AppInfo": "2023-12-26T02:16:12.1403657+00:00",
-  "LastUpdate_Ratings": "2023-12-29T16:59:48.431268+00:00",
-  "LastUpdate_Achievements": "2023-12-29T17:06:31.2731122+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:00:52.4641184+00:00",
+  "LastUpdate_Achievements": "2023-12-29T18:07:49.3386458+00:00"
 }

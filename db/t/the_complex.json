@@ -4,8 +4,8 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 740,
+  "EOS_Progressed": 742,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.84,
+  "EOS_Completed_Percentage": 2.83,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -1465,6 +1465,11 @@
       "Time": "2023-12-29T17:09:45.2627186+00:00",
       "NumProgressed": 740,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-29T18:10:19.1717634+00:00",
+      "NumProgressed": 742,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 20,
@@ -1476,15 +1481,15 @@
       "Name": "Beat It",
       "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "blast_from_the_past",
       "SetID": "d4f4pll",
       "Name": "Blast From The Past",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 622
+      "UsersEstimate": 616
     },
     {
       "ID": "deadly_secret",
@@ -1540,7 +1545,7 @@
       "Name": "Stalemate",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ending_7",
@@ -1564,7 +1569,7 @@
       "Name": "Falling For You",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "free_champagne",
@@ -1572,7 +1577,7 @@
       "Name": "Free Champagne",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "kamikaze",
@@ -1580,7 +1585,7 @@
       "Name": "Kamikaze",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "kindar_surprise",
@@ -1602,9 +1607,9 @@
       "ID": "people_pleaser",
       "SetID": "d4f4pll",
       "Name": "People Pleaser",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 67
+      "UsersEstimate": 59
     },
     {
       "ID": "storage_hunter",
@@ -1612,7 +1617,7 @@
       "Name": "Storage Hunter",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "the_rebel_and_the_doctor",
@@ -1620,7 +1625,7 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "tough_decision",
@@ -1628,14 +1633,14 @@
       "Name": "Tough Decision",
       "Percentage": 92,
       "XP": 50,
-      "UsersEstimate": 681
+      "UsersEstimate": 683
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 740,
+      "Progressed": 742,
       "Completed": 21
     }
   ],
@@ -1643,8 +1648,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-12-29T17:09:45.2627181+00:00",
+  "LastChanged_Achievements": "2023-12-29T18:10:19.1717629+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.7149105+00:00",
-  "LastUpdate_Ratings": "2023-12-29T16:57:27.7866953+00:00",
-  "LastUpdate_Achievements": "2023-12-29T17:09:45.2627413+00:00"
+  "LastUpdate_Ratings": "2023-12-29T17:57:50.1487566+00:00",
+  "LastUpdate_Achievements": "2023-12-29T18:10:19.1717826+00:00"
 }

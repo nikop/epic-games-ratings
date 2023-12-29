@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 367,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -796,9 +796,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 43148,
+  "EOS_Progressed": 43150,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 458,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26646,6 +26646,11 @@
       "Time": "2023-12-29T17:04:21.6234288+00:00",
       "NumProgressed": 43148,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-29T18:05:10.4822182+00:00",
+      "NumProgressed": 43150,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -26673,7 +26678,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7335
+      "UsersEstimate": 7336
     },
     {
       "ID": "ach_antiquarian10",
@@ -26689,7 +26694,7 @@
       "Name": "A buoyant escape",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ach_constant",
@@ -26777,7 +26782,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15533
+      "UsersEstimate": 15534
     },
     {
       "ID": "ach_die10",
@@ -26801,7 +26806,7 @@
       "Name": "Frightful, sheer, no-man-fathomed",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ach_dreadnaught",
@@ -26857,7 +26862,7 @@
       "Name": "Pupil",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3020
+      "UsersEstimate": 3021
     },
     {
       "ID": "ach_legacyrival",
@@ -26873,7 +26878,7 @@
       "Name": "Salvager",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3020
+      "UsersEstimate": 3021
     },
     {
       "ID": "ach_legacyshipmate",
@@ -26889,7 +26894,7 @@
       "Name": "Open Your Ears",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3020
+      "UsersEstimate": 3021
     },
     {
       "ID": "ach_portbell",
@@ -26897,7 +26902,7 @@
       "Name": "The Bell Tolls",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ach_portbones",
@@ -26937,7 +26942,7 @@
       "Name": "Knife, Cup and Bone",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ach_portleviathan",
@@ -26969,7 +26974,7 @@
       "Name": "Rosewater sailor",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ach_portunder",
@@ -26985,7 +26990,7 @@
       "Name": "Zee Fever",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "ach_stranger",
@@ -27001,7 +27006,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3020
+      "UsersEstimate": 3021
     },
     {
       "ID": "ach_sweetheart",
@@ -27033,7 +27038,7 @@
       "Name": "A current under zee",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ach_underdepth",
@@ -27088,15 +27093,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 43148,
+      "Progressed": 43150,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-12-24T21:57:48.6140592+00:00",
-  "LastChanged_Achievements": "2023-12-29T17:04:21.6234285+00:00",
+  "LastChanged_Achievements": "2023-12-29T18:05:10.4822179+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:10.7920736+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:00:21.6353355+00:00",
-  "LastUpdate_Achievements": "2023-12-29T17:04:21.6235515+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:01:34.7076675+00:00",
+  "LastUpdate_Achievements": "2023-12-29T18:05:10.4823764+00:00"
 }

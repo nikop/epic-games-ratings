@@ -4,8 +4,8 @@
   "ProductSlug": "scathe-ca258f",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
     "PcReleaseDate": "2022-08-29T23:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 588,
+  "EOS_Progressed": 589,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -2491,6 +2491,11 @@
       "Time": "2023-12-29T16:09:10.9605454+00:00",
       "NumProgressed": 588,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T18:10:15.9958885+00:00",
+      "NumProgressed": 589,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2540,7 +2545,7 @@
       "ID": "ACHIEVEMENT_DOOMED",
       "SetID": "2ff85j2",
       "Name": "Doomed",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -2612,7 +2617,7 @@
       "ID": "ACHIEVEMENT_POSTAL_SERVICE",
       "SetID": "2ff85j2",
       "Name": "Postal Service",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -2716,7 +2721,7 @@
       "ID": "ACHIEVEMENT_UNREAL",
       "SetID": "2ff85j2",
       "Name": "Unreal",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -2741,7 +2746,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 588,
+      "Progressed": 589,
       "Completed": 1
     }
   ],
@@ -2749,8 +2754,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2023-12-29T17:09:42.7729663+00:00",
+  "LastChanged_Achievements": "2023-12-29T18:10:15.995888+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.3399558+00:00",
-  "LastUpdate_Ratings": "2023-12-29T16:57:07.6439684+00:00",
-  "LastUpdate_Achievements": "2023-12-29T17:09:42.7729986+00:00"
+  "LastUpdate_Ratings": "2023-12-29T17:57:23.9056703+00:00",
+  "LastUpdate_Achievements": "2023-12-29T18:10:15.9959136+00:00"
 }

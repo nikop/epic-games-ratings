@@ -6,25 +6,25 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 35.00% | ~44 |
-| Best Buddy | 27.00% | ~34 |
-| Role Model | 24.00% | ~30 |
-| Civilian | 24.00% | ~30 |
-| Peddler | 20.00% | ~25 |
-| Military Leader | 17.00% | ~22 |
+| Entrepreneur | 35.00% | ~45 |
+| Best Buddy | 27.00% | ~35 |
+| Civilian | 24.00% | ~31 |
+| Role Model | 23.00% | ~29 |
+| Peddler | 20.00% | ~26 |
 | Creator | 17.00% | ~22 |
 | Commander | 17.00% | ~22 |
 | Festival-goer | 17.00% | ~22 |
+| Military Leader | 16.00% | ~20 |
 | Long-Haul Flyer | 13.00% | ~17 |
+| Pass A38 | 12.00% | ~15 |
 | Irissa's Fate | 11.00% | ~14 |
-| Pass A38 | 11.00% | ~14 |
-| Berserker | 9.00% | ~11 |
-| Family Reunion | 9.00% | ~11 |
+| Berserker | 9.00% | ~12 |
+| Family Reunion | 9.00% | ~12 |
 | Eternal Oblivion | 8.00% | ~10 |
 | Alb | 7.00% | ~9 |
 | Storyteller | 6.00% | ~8 |
 | Globetrotter | 6.00% | ~8 |
-| Hotshot | 6.00% | ~8 |
+| Hotshot | 5.00% | ~6 |
 | Free as a Bird | 5.00% | ~6 |
 | Self-Sufficient | 4.00% | ~5 |
 | Unbreakable | 4.00% | ~5 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127 (Ranked 462)  
+Progressed: 128 (Ranked 462)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 109 | 0 |
 | 2023-12-27 | 117 | 0 |
 | 2023-12-28 | 122 | 0 |
-| 2023-12-29 | 127 | 0 |
+| 2023-12-29 | 128 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

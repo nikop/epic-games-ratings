@@ -2,13 +2,13 @@
   "ID": "calluna",
   "Name": "Control",
   "ProductSlug": "control",
-  "Ranking_Rating": 398,
+  "Ranking_Rating": 397,
   "Ranking_Popularity": 44,
   "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2019-08-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -6296,10 +6296,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 13615,
       "NumberOfAwardsMax": 8985
+    },
+    {
+      "Time": "2023-12-29T18:00:04.6986514+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 13616,
+      "NumberOfAwardsMax": 8985
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13615,
+  "NumberOfAwards": 13616,
   "NumberOfAwardsMax": 8985,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6313,7 +6319,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 555
+      "Count": 556
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6375,8 +6381,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:45.0678604+00:00",
-  "LastChanged": "2023-12-29T11:59:03.4388779+00:00",
+  "LastChanged": "2023-12-29T18:00:04.6986512+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:23.1138491+00:00",
-  "LastUpdate_Ratings": "2023-12-29T16:59:11.089608+00:00",
-  "LastUpdate_Achievements": "2023-12-29T17:04:15.9898431+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:00:04.6986518+00:00",
+  "LastUpdate_Achievements": "2023-12-29T18:05:03.9278602+00:00"
 }

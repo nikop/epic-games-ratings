@@ -2,13 +2,13 @@
   "ID": "13bb5776b9e1424d84ce42d9ba61c0ca",
   "Name": "INSIDE",
   "ProductSlug": "inside",
-  "Ranking_Rating": 260,
+  "Ranking_Rating": 261,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2019-08-29T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -503,6 +503,6 @@
   "FirstSeen": "2022-07-22T20:27:08.8041774+00:00",
   "LastChanged": "2023-08-08T22:00:12.0045141+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:20.7730361+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:03:06.0582344+00:00",
-  "LastUpdate_Achievements": "2023-12-29T17:06:42.8184547+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:03:35.3396699+00:00",
+  "LastUpdate_Achievements": "2023-12-29T18:08:03.2127919+00:00"
 }

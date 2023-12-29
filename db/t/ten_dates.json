@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 415,
+  "EOS_Progressed": 416,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.2,
   "EosHistory": [
@@ -1091,6 +1091,11 @@
       "Time": "2023-12-29T10:09:20.9543978+00:00",
       "NumProgressed": 415,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-29T18:10:20.8970936+00:00",
+      "NumProgressed": 416,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 19,
@@ -1134,7 +1139,7 @@
       "Name": "Let it begin",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "profile_ryan",
@@ -1142,7 +1147,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "ryan_date2_all",
@@ -1182,7 +1187,7 @@
       "Name": "The boss",
       "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "success_derek",
@@ -1253,7 +1258,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 415,
+      "Progressed": 416,
       "Completed": 5
     }
   ],
@@ -1261,8 +1266,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-12-29T17:09:46.7917596+00:00",
+  "LastChanged_Achievements": "2023-12-29T18:10:20.8970933+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:59.9685233+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:02:46.8385697+00:00",
-  "LastUpdate_Achievements": "2023-12-29T17:09:46.7917762+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:03:10.3840324+00:00",
+  "LastUpdate_Achievements": "2023-12-29T18:10:20.897116+00:00"
 }

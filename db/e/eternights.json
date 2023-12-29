@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 687,
+  "EOS_Progressed": 688,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -2530,6 +2530,11 @@
       "Time": "2023-12-29T16:08:41.5197302+00:00",
       "NumProgressed": 687,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-29T18:09:36.3780442+00:00",
+      "NumProgressed": 688,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -2542,7 +2547,7 @@
       "Name": "New arm",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -2558,7 +2563,7 @@
       "Name": "Their Rock",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
@@ -2620,9 +2625,9 @@
       "ID": "ACHIEVEMENT_1_ShelterEscape",
       "SetID": "9bke6f1",
       "Name": "Shelter Escape",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 522
+      "UsersEstimate": 516
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -2638,7 +2643,7 @@
       "Name": "Plushyboy",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_22_Dreamboat",
@@ -2676,9 +2681,9 @@
       "ID": "ACHIEVEMENT_2_FirstBond",
       "SetID": "9bke6f1",
       "Name": "The First Bond",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 453
+      "UsersEstimate": 447
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -2686,7 +2691,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -2710,7 +2715,7 @@
       "Name": "Piggyback Expert",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
@@ -2741,7 +2746,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 687,
+      "Progressed": 688,
       "Completed": 2
     }
   ],
@@ -2749,8 +2754,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-27T15:59:49.1136695+00:00",
-  "LastChanged_Achievements": "2023-12-29T17:09:10.0425243+00:00",
+  "LastChanged_Achievements": "2023-12-29T18:09:36.378044+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:10.2016354+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:00:05.077964+00:00",
-  "LastUpdate_Achievements": "2023-12-29T17:09:10.0425442+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:01:13.3385481+00:00",
+  "LastUpdate_Achievements": "2023-12-29T18:09:36.3780705+00:00"
 }

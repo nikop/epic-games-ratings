@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -397,9 +397,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 1825,
+  "EOS_Progressed": 1826,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -3132,6 +3132,11 @@
       "Time": "2023-12-29T16:03:48.2377317+00:00",
       "NumProgressed": 1825,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-29T18:04:40.8539241+00:00",
+      "NumProgressed": 1826,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 38,
@@ -3143,7 +3148,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -3151,7 +3156,7 @@
       "Name": "Great Doctor",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -3159,7 +3164,7 @@
       "Name": "Good Samaritan",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACHIEVEMENTS_04",
@@ -3167,7 +3172,7 @@
       "Name": "Being forgetful...",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVEMENTS_05",
@@ -3183,7 +3188,7 @@
       "Name": "Acrobatic Adventurer",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACHIEVEMENTS_07",
@@ -3197,9 +3202,9 @@
       "ID": "ACHIEVEMENTS_08",
       "SetID": "d4o538a",
       "Name": "The First Step",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 1606
+      "UsersEstimate": 1589
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -3207,7 +3212,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -3287,7 +3292,7 @@
       "Name": "Spark of Love",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "ACHIEVEMENTS_20",
@@ -3295,7 +3300,7 @@
       "Name": "Decorative Mind",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "ACHIEVEMENTS_21",
@@ -3343,7 +3348,7 @@
       "Name": "Community Advisor",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVEMENTS_27",
@@ -3359,7 +3364,7 @@
       "Name": "Rock Exterminator",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVEMENTS_29",
@@ -3367,7 +3372,7 @@
       "Name": "Tree Exterminator",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVEMENTS_30",
@@ -3446,7 +3451,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1825,
+      "Progressed": 1826,
       "Completed": 11
     }
   ],
@@ -3454,8 +3459,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-28T09:03:17.5303608+00:00",
-  "LastChanged_Achievements": "2023-12-29T17:03:57.2327642+00:00",
+  "LastChanged_Achievements": "2023-12-29T18:04:40.8539238+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:45.5140216+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:02:48.1357573+00:00",
-  "LastUpdate_Achievements": "2023-12-29T17:03:57.2327964+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:03:12.0557964+00:00",
+  "LastUpdate_Achievements": "2023-12-29T18:04:40.8539632+00:00"
 }

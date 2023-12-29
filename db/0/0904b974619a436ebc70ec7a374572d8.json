@@ -4,8 +4,8 @@
   "ProductSlug": "picklock-33eab8",
   "Ranking_EOS_Progress": 523,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 381,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2020-05-07T16:00:00+00:00",
@@ -350,41 +350,41 @@
       "ID": "ach_picklock11",
       "SetID": "753ghg2",
       "Name": "Neighbor\u0027s house",
-      "Percentage": 64,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ach_picklock12",
       "SetID": "753ghg2",
       "Name": "Sewing factory",
-      "Percentage": 64,
+      "Percentage": 66,
       "XP": 45,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ach_picklock13",
       "SetID": "753ghg2",
       "Name": "Butcher shop",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ach_picklock14",
       "SetID": "753ghg2",
       "Name": "Cinema",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_picklock15",
       "SetID": "753ghg2",
       "Name": "Shop dairy",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_picklock16",
@@ -478,9 +478,9 @@
       "ID": "ach_picklock4",
       "SetID": "753ghg2",
       "Name": "Fix it",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ach_picklock5",
@@ -502,9 +502,9 @@
       "ID": "ach_picklock7",
       "SetID": "753ghg2",
       "Name": "Good movie",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ach_picklock8",
@@ -533,8 +533,8 @@
   ],
   "FirstSeen": "2023-11-03T03:57:37.1640095+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2023-12-29T17:10:09.8150975+00:00",
+  "LastChanged_Achievements": "2023-12-29T18:10:49.1781484+00:00",
   "LastUpdate_AppInfo": "2023-12-27T09:57:10.9685369+00:00",
-  "LastUpdate_Ratings": "2023-12-29T16:57:29.8220662+00:00",
-  "LastUpdate_Achievements": "2023-12-29T17:10:09.8151083+00:00"
+  "LastUpdate_Ratings": "2023-12-29T17:57:52.8351992+00:00",
+  "LastUpdate_Achievements": "2023-12-29T18:10:49.1781627+00:00"
 }

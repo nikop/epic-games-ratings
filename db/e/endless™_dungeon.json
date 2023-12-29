@@ -4,8 +4,8 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1421,
+  "EOS_Progressed": 1422,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2955,6 +2955,11 @@
       "Time": "2023-12-29T07:04:35.8072801+00:00",
       "NumProgressed": 1421,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T18:05:47.2331135+00:00",
+      "NumProgressed": 1422,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -2999,7 +3004,7 @@
       "Name": "Blobmeister",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -3015,7 +3020,7 @@
       "Name": "Aggressive Antivirus",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACHIEVEMENT_BUG_BOSS",
@@ -3047,7 +3052,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -3079,7 +3084,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -3143,7 +3148,7 @@
       "Name": "Long Live Rock",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACHIEVEMENT_ROOKY_WIN",
@@ -3206,14 +3211,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1421,
+      "Progressed": 1422,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-12-29T17:04:51.3791754+00:00",
+  "LastChanged_Achievements": "2023-12-29T18:05:47.2331132+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:00.1965929+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:00:20.7249234+00:00",
-  "LastUpdate_Achievements": "2023-12-29T17:04:51.379206+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:01:33.6506877+00:00",
+  "LastUpdate_Achievements": "2023-12-29T18:05:47.2331452+00:00"
 }

@@ -28,11 +28,11 @@ Rating: 4.56 (Ranked 500)
 | Meet the Creatures from the Deep | 0.70% | ~16 |
 | Throne Room Fit For A King | 0.70% | ~16 |
 | Return Power To The Depths | 0.70% | ~16 |
+| Defeat Avor Warden of the Northern Wastes | 0.60% | ~14 |
 | Fix the Travellers Wagon | 0.60% | ~14 |
 | Defeat the Grub Buster | 0.60% | ~6 |
 | Return the Statues | 0.50% | ~11 |
 | Complete the Chefs Book | 0.50% | ~11 |
-| Defeat Avor Warden of the Northern Wastes | 0.50% | ~11 |
 | Defeat Rattus Augustail | 0.50% | ~11 |
 | Discover the mystery of the Kings Chambers | 0.50% | ~11 |
 | Defeat the Stalker Queen | 0.50% | ~5 |

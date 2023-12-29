@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 69,
   "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-06-16T16:00:00+00:00",
     "PcReleaseDate": "2021-06-16T16:00:00+00:00",
@@ -238,9 +238,9 @@
       "ID": "1_skies",
       "SetID": "459695l",
       "Name": "Up!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 243
     },
     {
       "ID": "2_reel",
@@ -319,8 +319,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.8897635+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.7835458+00:00",
   "LastChanged": "2023-03-31T05:57:45.8897637+00:00",
-  "LastChanged_Achievements": "2023-12-29T17:10:00.8406054+00:00",
+  "LastChanged_Achievements": "2023-12-29T18:10:38.0804212+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:05.8706036+00:00",
-  "LastUpdate_Ratings": "2023-12-29T16:57:53.4421932+00:00",
-  "LastUpdate_Achievements": "2023-12-29T17:10:00.8406169+00:00"
+  "LastUpdate_Ratings": "2023-12-29T17:58:23.960685+00:00",
+  "LastUpdate_Achievements": "2023-12-29T18:10:38.0804301+00:00"
 }

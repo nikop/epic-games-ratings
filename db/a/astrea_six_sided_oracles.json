@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 267,
+  "EOS_Progressed": 268,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
@@ -1124,6 +1124,11 @@
       "Time": "2023-12-29T16:08:15.2602745+00:00",
       "NumProgressed": 267,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T18:09:00.5870828+00:00",
+      "NumProgressed": 268,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -1222,9 +1227,9 @@
       "ID": "AstralAdventurer",
       "SetID": "1jeo1g7",
       "Name": "Astral Adventurer",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 83
     },
     {
       "ID": "AstralSeeker",
@@ -1360,7 +1365,7 @@
       "Name": "Dicesmithing Time!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "EndlessTricks",
@@ -1422,9 +1427,9 @@
       "ID": "HeavyPurger",
       "SetID": "1jeo1g7",
       "Name": "Heavy Purger",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "IfIHadFailed",
@@ -1488,15 +1493,15 @@
       "Name": "Meissa\u0027s Savior",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 118
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -1560,7 +1565,7 @@
       "Name": "Purification Pioneer",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ReflexiveMind",
@@ -1592,7 +1597,7 @@
       "Name": "Sanctuary Guardian",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "Sentinelphobic",
@@ -1640,7 +1645,7 @@
       "Name": "Stellar Dismantler",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "StellarHaste",
@@ -1736,7 +1741,7 @@
       "Name": "Unbeatable",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "UnepicHero",
@@ -1894,9 +1899,9 @@
       "ID": "NoctuanChampion",
       "SetID": "1jeo1g7",
       "Name": "Noctuan Champion",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 94
     },
     {
       "ID": "NoctuanHero",
@@ -1919,14 +1924,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 267,
+      "Progressed": 268,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-29T17:08:41.0101459+00:00",
+  "LastChanged_Achievements": "2023-12-29T18:09:00.5870824+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:02.5351328+00:00",
-  "LastUpdate_Ratings": "2023-12-29T16:58:15.7221656+00:00",
-  "LastUpdate_Achievements": "2023-12-29T17:08:41.0102348+00:00"
+  "LastUpdate_Ratings": "2023-12-29T17:58:52.9994466+00:00",
+  "LastUpdate_Achievements": "2023-12-29T18:09:00.587158+00:00"
 }

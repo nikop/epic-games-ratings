@@ -9169,9 +9169,9 @@
       "Count": 3607
     }
   ],
-  "EOS_Progressed": 246867,
+  "EOS_Progressed": 246913,
   "EOS_Completed": 2575,
-  "EOS_NewPlayers": 3547,
+  "EOS_NewPlayers": 3564,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -37809,6 +37809,11 @@
       "Time": "2023-12-29T17:10:26.557499+00:00",
       "NumProgressed": 246867,
       "NumCompleted": 2575
+    },
+    {
+      "Time": "2023-12-29T18:11:09.1777552+00:00",
+      "NumProgressed": 246913,
+      "NumCompleted": 2575
     }
   ],
   "TotalAchievements": 546,
@@ -37820,7 +37825,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4937
+      "UsersEstimate": 4938
     },
     {
       "ID": "objective_completed_10",
@@ -39500,7 +39505,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "objective_completed_35",
@@ -39684,7 +39689,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "objective_completed_40",
@@ -42092,7 +42097,7 @@
       "Name": "Arcane Suppression",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "objective_completed_1352",
@@ -42100,7 +42105,7 @@
       "Name": "Welcome to the Vrocks",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "objective_completed_1557",
@@ -42116,7 +42121,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "objective_completed_1562",
@@ -42132,7 +42137,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "objective_completed_598",
@@ -42180,28 +42185,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 213141,
+      "Progressed": 213187,
       "Completed": 4092
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 246867,
+      "Progressed": 246913,
       "Completed": 2575
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-29T16:59:44.2818973+00:00",
-  "LastChanged_Achievements": "2023-12-29T17:10:26.5574984+00:00",
+  "LastChanged_Achievements": "2023-12-29T18:11:09.1777549+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-29T16:59:44.2818979+00:00",
-  "LastUpdate_Achievements": "2023-12-29T17:10:26.5599883+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:00:47.0570737+00:00",
+  "LastUpdate_Achievements": "2023-12-29T18:11:09.1800169+00:00"
 }

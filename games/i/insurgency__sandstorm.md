@@ -1,19 +1,19 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 398)  
+Rating: 4.61 (Ranked 397)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~25,709 |
-| Exploitative | 4.00% | ~20,567 |
-| Point Shooting | 4.00% | ~20,567 |
-| Wet Feet | 4.00% | ~20,567 |
-| High Speed Low Drag | 3.00% | ~15,425 |
-| Lucky | 3.00% | ~15,425 |
-| Stylin' | 3.00% | ~15,425 |
-| Turf War | 3.00% | ~15,425 |
+| Wallbanger | 5.00% | ~25,711 |
+| Exploitative | 4.00% | ~20,569 |
+| Point Shooting | 4.00% | ~20,569 |
+| Wet Feet | 4.00% | ~20,569 |
+| High Speed Low Drag | 3.00% | ~15,426 |
+| Lucky | 3.00% | ~15,426 |
+| Stylin' | 3.00% | ~15,426 |
+| Turf War | 3.00% | ~15,426 |
 | Banged | 2.00% | ~10,284 |
 | Checkpoint Victory | 2.00% | ~10,284 |
 | First Blood | 2.00% | ~10,284 |
@@ -27,9 +27,9 @@ Number of Ratings: 1,316  (23.09.2022)
 | Efficient | 0.90% | ~4,628 |
 | Mount & Gun | 0.90% | ~4,628 |
 | Personal | 0.90% | ~4,628 |
-| Grounded | 0.80% | ~4,113 |
-| Play to Win | 0.80% | ~4,113 |
-| Special Delivery | 0.70% | ~3,599 |
+| Grounded | 0.80% | ~4,114 |
+| Play to Win | 0.80% | ~4,114 |
+| Special Delivery | 0.70% | ~3,600 |
 | Firefight Victory | 0.60% | ~3,085 |
 | #1 | 0.60% | ~3,085 |
 | Cinematic | 0.50% | ~2,571 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~514 |
 | Road Hazard | 0.10% | ~514 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 514,182 (Ranked 37)  
+Progressed: 514,215 (Ranked 37)  
 Completed: 2 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 2 (0.00%) (Ranked 389)
 | 2023-12-26 | 511,880 | 2 |
 | 2023-12-27 | 512,843 | 2 |
 | 2023-12-28 | 513,607 | 2 |
-| 2023-12-29 | 514,182 | 2 |
+| 2023-12-29 | 514,215 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 413  (Ranked 236)  
 Sum: 3,299 (Ranked 177)  

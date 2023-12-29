@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -43,9 +43,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1443,
+  "EOS_Progressed": 1444,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -2838,6 +2838,11 @@
       "Time": "2023-12-29T17:10:17.8369618+00:00",
       "NumProgressed": 1443,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T18:10:58.7412939+00:00",
+      "NumProgressed": 1444,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2849,7 +2854,7 @@
       "Name": "Break Out",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "ACH_02",
@@ -2905,7 +2910,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "ACH_09",
@@ -2913,7 +2918,7 @@
       "Name": "The Mentor",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_10",
@@ -3087,9 +3092,9 @@
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone Collection",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_33",
@@ -3103,9 +3108,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 303
+      "UsersEstimate": 318
     },
     {
       "ID": "ACH_35",
@@ -3136,7 +3141,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1443,
+      "Progressed": 1444,
       "Completed": 3
     }
   ],
@@ -3144,8 +3149,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2023-12-27T23:57:06.3972881+00:00",
-  "LastChanged_Achievements": "2023-12-29T17:10:17.8369616+00:00",
+  "LastChanged_Achievements": "2023-12-29T18:10:58.7412936+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-29T16:58:02.5700272+00:00",
-  "LastUpdate_Achievements": "2023-12-29T17:10:17.8369923+00:00"
+  "LastUpdate_Ratings": "2023-12-29T17:58:35.3743939+00:00",
+  "LastUpdate_Achievements": "2023-12-29T18:10:58.7413253+00:00"
 }

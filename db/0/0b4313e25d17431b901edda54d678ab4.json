@@ -4,8 +4,8 @@
   "ProductSlug": "echo-storm-4e5fbe",
   "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 522,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 521,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-11T05:00:00+00:00",
     "PcReleaseDate": "2023-03-16T17:00:00+00:00",
@@ -331,9 +331,9 @@
       "ID": "earn3000",
       "SetID": "bma0pih",
       "Name": "Reach",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 60,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "fastBossKill",
@@ -355,25 +355,25 @@
       "ID": "kill100",
       "SetID": "bma0pih",
       "Name": "Recruit",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "kill300",
       "SetID": "bma0pih",
       "Name": "Soldier",
-      "Percentage": 80,
+      "Percentage": 82,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "kill750",
       "SetID": "bma0pih",
       "Name": "War machine",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 150,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "killWithHammer",
@@ -427,9 +427,9 @@
       "ID": "pyromancer",
       "SetID": "bma0pih",
       "Name": "Pyromancer",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "reroll10",
@@ -443,9 +443,9 @@
       "ID": "unlockPlasmaMoon",
       "SetID": "bma0pih",
       "Name": "Solar power",
-      "Percentage": 50,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
@@ -458,8 +458,8 @@
   ],
   "FirstSeen": "2023-08-31T13:03:44.3512159+00:00",
   "FirstSeenAchievements": "2023-05-07T09:02:54.6493409+00:00",
-  "LastChanged_Achievements": "2023-12-29T17:09:21.159636+00:00",
+  "LastChanged_Achievements": "2023-12-29T18:09:49.9983845+00:00",
   "LastUpdate_AppInfo": "2023-12-25T02:56:58.1037152+00:00",
-  "LastUpdate_Ratings": "2023-12-29T16:59:47.7391805+00:00",
-  "LastUpdate_Achievements": "2023-12-29T17:09:21.1596548+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:00:51.5352859+00:00",
+  "LastUpdate_Achievements": "2023-12-29T18:09:49.9983943+00:00"
 }

@@ -9,8 +9,8 @@
 | Job one. DONE! | 62.00% | ~172 |
 | You are Carol Vorderman | 57.00% | ~158 |
 | Toby foolery | 51.00% | ~141 |
+| Instinct | 40.00% | ~111 |
 | Don't fear the baldness | 39.00% | ~108 |
-| Instinct | 39.00% | ~108 |
 | Blow | 36.00% | ~100 |
 | Just like me | 34.00% | ~94 |
 | I bless the rain down in London | 30.00% | ~83 |
@@ -19,10 +19,10 @@
 | Delusions | 27.00% | ~75 |
 | Prove it | 26.00% | ~72 |
 | The truth | 26.00% | ~72 |
-| Making a murderer | 18.00% | ~50 |
+| Making a murderer | 19.00% | ~53 |
 | The whole truth | 15.00% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 277 (Ranked 394)  
+Progressed: 277 (Ranked 395)  
 Completed: 28 (10.11%) (Ranked 40)  
 ## EOS Players History
 | Date | Progressed | Completed |

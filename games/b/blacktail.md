@@ -1,7 +1,7 @@
 # BLACKTAIL
 [Store](https://store.epicgames.com/en-US/p/blacktail)  
 [View Rawdata](../../db/b/blacktail.json)  
-Rating: 4.68 (Ranked 260)  
+Rating: 4.68 (Ranked 261)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -38,7 +38,7 @@ Rating: 4.68 (Ranked 260)
 | Mushrooming enthusiast | 0.60% | ~5 |
 | Apex predator | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 840 (Ranked 297)  
+Progressed: 840 (Ranked 298)  
 Completed: 1 (0.12%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |

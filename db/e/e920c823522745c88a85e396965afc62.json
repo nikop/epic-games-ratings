@@ -2,10 +2,10 @@
   "ID": "e920c823522745c88a85e396965afc62",
   "Name": "Indoorlands",
   "ProductSlug": "indoorlands-3b2356",
-  "Ranking_EOS_Progress": 654,
+  "Ranking_EOS_Progress": 651,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 416,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-12-17T23:00:00+00:00",
     "PcReleaseDate": "2022-10-13T23:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -74,6 +74,11 @@
       "Time": "2023-12-29T00:05:51.4311245+00:00",
       "NumProgressed": 9,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T18:08:09.7384836+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-14T09:03:47.827813+00:00",
@@ -84,7 +89,7 @@
       "ID": "apoland",
       "SetID": "d4692al",
       "Name": "Apocalypse Land",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -92,7 +97,7 @@
       "ID": "articland",
       "SetID": "d4692al",
       "Name": "Articland",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -100,7 +105,7 @@
       "ID": "beautiful",
       "SetID": "d4692al",
       "Name": "It\u0027s beautiful",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -108,7 +113,7 @@
       "ID": "beginner",
       "SetID": "d4692al",
       "Name": "Beginner Guide",
-      "Percentage": 67,
+      "Percentage": 60,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -116,7 +121,7 @@
       "ID": "contractor",
       "SetID": "d4692al",
       "Name": "New Contractor",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -140,7 +145,7 @@
       "ID": "dealmaker",
       "SetID": "d4692al",
       "Name": "Devious Dealmaker",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 45,
       "UsersEstimate": 1
     },
@@ -148,7 +153,7 @@
       "ID": "decorated",
       "SetID": "d4692al",
       "Name": "Decorated",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -156,7 +161,7 @@
       "ID": "dining",
       "SetID": "d4692al",
       "Name": "Fine Dining",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 35,
       "UsersEstimate": 2
     },
@@ -164,7 +169,7 @@
       "ID": "entertainment",
       "SetID": "d4692al",
       "Name": "Exquisite Entertainment",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -172,7 +177,7 @@
       "ID": "exContractor",
       "SetID": "d4692al",
       "Name": "Experienced Contractor",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 45,
       "UsersEstimate": 1
     },
@@ -188,7 +193,7 @@
       "ID": "expansion",
       "SetID": "d4692al",
       "Name": "Expansion",
-      "Percentage": 33,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -196,7 +201,7 @@
       "ID": "halls",
       "SetID": "d4692al",
       "Name": "Not enough halls",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -204,7 +209,7 @@
       "ID": "happyVisitors",
       "SetID": "d4692al",
       "Name": "Happy visitors",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -212,7 +217,7 @@
       "ID": "indoorlands",
       "SetID": "d4692al",
       "Name": "Indoorlands",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 75,
       "UsersEstimate": 2
     },
@@ -220,7 +225,7 @@
       "ID": "keepComing",
       "SetID": "d4692al",
       "Name": "They keep coming",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -228,7 +233,7 @@
       "ID": "mass",
       "SetID": "d4692al",
       "Name": "Mass Transportation",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -244,7 +249,7 @@
       "ID": "researcher",
       "SetID": "d4692al",
       "Name": "Researcher",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -260,7 +265,7 @@
       "ID": "sight",
       "SetID": "d4692al",
       "Name": "A sight to behold",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -268,7 +273,7 @@
       "ID": "store",
       "SetID": "d4692al",
       "Name": "Luxurious Store",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -276,7 +281,7 @@
       "ID": "toomany",
       "SetID": "d4692al",
       "Name": "Too many too count",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -300,9 +305,9 @@
       "ID": "vip",
       "SetID": "d4692al",
       "Name": "VIP",
-      "Percentage": 44,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "visitorLife",
@@ -316,7 +321,7 @@
       "ID": "visitorSat",
       "SetID": "d4692al",
       "Name": "Visitor Satisfaction Wanted",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -333,14 +338,14 @@
     {
       "ID": "d4692al",
       "IsBase": true,
-      "Progressed": 9,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2023-12-29T17:06:48.3539921+00:00",
+  "LastChanged_Achievements": "2023-12-29T18:08:09.7384832+00:00",
   "LastUpdate_AppInfo": "2023-12-28T08:57:17.3349077+00:00",
-  "LastUpdate_Ratings": "2023-12-29T16:57:40.1846195+00:00",
-  "LastUpdate_Achievements": "2023-12-29T17:06:48.3540154+00:00"
+  "LastUpdate_Ratings": "2023-12-29T17:58:06.8023945+00:00",
+  "LastUpdate_Achievements": "2023-12-29T18:08:09.7385192+00:00"
 }

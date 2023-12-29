@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 126,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -5539,10 +5539,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 8292,
       "NumberOfAwardsMax": 1163
+    },
+    {
+      "Time": "2023-12-29T17:57:32.1619681+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 8293,
+      "NumberOfAwardsMax": 1163
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8292,
+  "NumberOfAwards": 8293,
   "NumberOfAwardsMax": 1163,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5592,7 +5598,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 823
+      "Count": 824
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5613,10 +5619,10 @@
       "Count": 548
     }
   ],
-  "EOS_Progressed": 13430,
+  "EOS_Progressed": 13433,
   "EOS_Completed": 332,
-  "EOS_NewPlayers": 456,
-  "EOS_NewCompleters": 8,
+  "EOS_NewPlayers": 455,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2.47,
   "EosHistory": [
     {
@@ -23513,6 +23519,11 @@
       "Time": "2023-12-29T17:09:14.3710574+00:00",
       "NumProgressed": 13430,
       "NumCompleted": 332
+    },
+    {
+      "Time": "2023-12-29T18:09:41.6497673+00:00",
+      "NumProgressed": 13433,
+      "NumCompleted": 332
     }
   ],
   "TotalAchievements": 15,
@@ -23532,7 +23543,7 @@
       "Name": "Banker",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 5103
+      "UsersEstimate": 5105
     },
     {
       "ID": "Bestest_Friend",
@@ -23540,7 +23551,7 @@
       "Name": "Bestest Friend",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 6044
+      "UsersEstimate": 6045
     },
     {
       "ID": "Chef_Cook",
@@ -23564,7 +23575,7 @@
       "Name": "Constructor",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 6715
+      "UsersEstimate": 6716
     },
     {
       "ID": "Duty_Bound",
@@ -23572,7 +23583,7 @@
       "Name": "Duty Bound",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "Gardener",
@@ -23580,7 +23591,7 @@
       "Name": "Gardener",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4163
+      "UsersEstimate": 4164
     },
     {
       "ID": "Generous",
@@ -23596,7 +23607,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 68,
       "XP": 75,
-      "UsersEstimate": 9132
+      "UsersEstimate": 9134
     },
     {
       "ID": "Miner",
@@ -23604,7 +23615,7 @@
       "Name": "Miner",
       "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 1477
+      "UsersEstimate": 1478
     },
     {
       "ID": "Photographer",
@@ -23612,7 +23623,7 @@
       "Name": "Photographer",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 8998
+      "UsersEstimate": 9000
     },
     {
       "ID": "Renovator",
@@ -23620,7 +23631,7 @@
       "Name": "Renovator",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 6715
+      "UsersEstimate": 6716
     },
     {
       "ID": "Thorn_Cleaner",
@@ -23636,23 +23647,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 8058
+      "UsersEstimate": 8060
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 13430,
+      "Progressed": 13433,
       "Completed": 332
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-12-29T15:57:14.3948238+00:00",
-  "LastChanged_Achievements": "2023-12-29T17:09:14.3710571+00:00",
+  "LastChanged": "2023-12-29T17:57:32.1619679+00:00",
+  "LastChanged_Achievements": "2023-12-29T18:09:41.6497671+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:18.7003886+00:00",
-  "LastUpdate_Ratings": "2023-12-29T16:57:13.912033+00:00",
-  "LastUpdate_Achievements": "2023-12-29T17:09:14.3711564+00:00"
+  "LastUpdate_Ratings": "2023-12-29T17:57:32.1619685+00:00",
+  "LastUpdate_Achievements": "2023-12-29T18:09:41.6498468+00:00"
 }

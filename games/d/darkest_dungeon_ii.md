@@ -1,29 +1,29 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 260)  
+Rating: 4.68 (Ranked 261)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~597 |
-| Lost and Found | 7.00% | ~380 |
+| Malpractice Assurance | 11.00% | ~599 |
+| Lost and Found | 7.00% | ~381 |
 | Autodidact | 6.00% | ~7,834 |
-| This guy... again? | 6.00% | ~326 |
-| This Belongs in a Museum | 5.00% | ~6,528 |
-| Creep and Sleep | 5.00% | ~6,528 |
-| Overdue Notice | 5.00% | ~6,528 |
-| Ploughshares to Swords | 5.00% | ~271 |
-| Bloody Graduation | 5.00% | ~271 |
-| Don't Make Me Turn This Coach Around | 4.00% | ~5,222 |
-| Serenity Now! | 4.00% | ~5,222 |
-| Not Today! | 4.00% | ~5,222 |
-| Meat and Greet | 4.00% | ~5,222 |
-| Catch and Decease | 4.00% | ~5,222 |
-| Escape from the Black Hole | 4.00% | ~5,222 |
-| Rush Hour | 4.00% | ~5,222 |
-| To Grandmother's House | 4.00% | ~5,222 |
-| FNG | 4.00% | ~5,222 |
+| This guy... again? | 6.00% | ~327 |
+| This Belongs in a Museum | 5.00% | ~6,529 |
+| Creep and Sleep | 5.00% | ~6,529 |
+| Overdue Notice | 5.00% | ~6,529 |
+| Ploughshares to Swords | 5.00% | ~272 |
+| Bloody Graduation | 5.00% | ~272 |
+| Don't Make Me Turn This Coach Around | 4.00% | ~5,223 |
+| Serenity Now! | 4.00% | ~5,223 |
+| Not Today! | 4.00% | ~5,223 |
+| Meat and Greet | 4.00% | ~5,223 |
+| Catch and Decease | 4.00% | ~5,223 |
+| Escape from the Black Hole | 4.00% | ~5,223 |
+| Rush Hour | 4.00% | ~5,223 |
+| To Grandmother's House | 4.00% | ~5,223 |
+| FNG | 4.00% | ~5,223 |
 | It Rings a Bell | 3.00% | ~3,917 |
 | Dissector | 3.00% | ~3,917 |
 | It Happens | 3.00% | ~3,917 |
@@ -64,7 +64,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | For Old Time' Sake | 1.00% | ~54 |
 | Shrine of Reflection | 0.90% | ~1,175 |
 | Body of Work | 0.90% | ~1,175 |
-| Clearing the Ledger | 0.80% | ~1,044 |
+| Clearing the Ledger | 0.80% | ~1,045 |
 | Hat Trick | 0.70% | ~914 |
 | Triage | 0.70% | ~914 |
 | No Mercy | 0.70% | ~38 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,560 (Ranked 87)  
+Progressed: 130,574 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-26 | 130,068 | 3 |
 | 2023-12-27 | 130,259 | 3 |
 | 2023-12-28 | 130,422 | 3 |
-| 2023-12-29 | 130,560 | 3 |
+| 2023-12-29 | 130,574 | 3 |
 ## Awards
 Max (Character Customization): 7,899  (Ranked 50)  
 Sum: 21,240 (Ranked 58)  

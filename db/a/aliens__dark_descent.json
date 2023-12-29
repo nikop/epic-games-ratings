@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -507,7 +507,7 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 5397,
+  "EOS_Progressed": 5402,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 594,
   "EOS_NewCompleters": 0,
@@ -8177,6 +8177,11 @@
       "Time": "2023-12-29T17:04:01.5191772+00:00",
       "NumProgressed": 5397,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T18:04:46.6202415+00:00",
+      "NumProgressed": 5402,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -8204,7 +8209,7 @@
       "Name": "One For Every Occasion",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "ACH_ALL_XENO_TECHS",
@@ -8220,7 +8225,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2429
+      "UsersEstimate": 2431
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -8228,7 +8233,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2321
+      "UsersEstimate": 2323
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -8236,7 +8241,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1459
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -8244,7 +8249,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -8284,7 +8289,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 3562
+      "UsersEstimate": 3565
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -8300,7 +8305,7 @@
       "Name": "Call Me Snake",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 2968
+      "UsersEstimate": 2971
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -8308,7 +8313,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3184
+      "UsersEstimate": 3187
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -8340,7 +8345,7 @@
       "Name": "El Riesgo Siempre Vive",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "ACH_MAX_MEDIC",
@@ -8356,7 +8361,7 @@
       "Name": "Frontliner",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -8364,7 +8369,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -8372,7 +8377,7 @@
       "Name": "The Cable Guy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "ACH_MISSION_01",
@@ -8380,7 +8385,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 2860
+      "UsersEstimate": 2863
     },
     {
       "ID": "ACH_MISSION_02",
@@ -8388,7 +8393,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2429
+      "UsersEstimate": 2431
     },
     {
       "ID": "ACH_MISSION_03",
@@ -8396,15 +8401,15 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2105
+      "UsersEstimate": 2107
     },
     {
       "ID": "ACH_MISSION_04",
       "SetID": "816efe",
       "Name": "Making a Stand",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2051
+      "UsersEstimate": 1999
     },
     {
       "ID": "ACH_MISSION_05",
@@ -8412,7 +8417,7 @@
       "Name": "Where It All Begun",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1835
+      "UsersEstimate": 1837
     },
     {
       "ID": "ACH_MISSION_06",
@@ -8420,7 +8425,7 @@
       "Name": "Living Nightmare",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1513
     },
     {
       "ID": "ACH_MISSION_07",
@@ -8428,7 +8433,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1349
+      "UsersEstimate": 1350
     },
     {
       "ID": "ACH_MISSION_08",
@@ -8436,7 +8441,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "ACH_MISSION_09",
@@ -8444,7 +8449,7 @@
       "Name": "The Passenger",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "ACH_MISSION_10",
@@ -8452,7 +8457,7 @@
       "Name": "The Spire",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 1133
+      "UsersEstimate": 1134
     },
     {
       "ID": "ACH_MISSION_11",
@@ -8460,7 +8465,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     },
     {
       "ID": "ACH_MISSION_12",
@@ -8468,7 +8473,7 @@
       "Name": "Abysmal Horrors",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -8484,7 +8489,7 @@
       "Name": "Snatched Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 3508
+      "UsersEstimate": 3511
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -8492,7 +8497,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 4156
+      "UsersEstimate": 4160
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -8500,7 +8505,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 2752
+      "UsersEstimate": 2755
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -8508,7 +8513,7 @@
       "Name": "People Person",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 2591
+      "UsersEstimate": 2593
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -8516,7 +8521,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1943
+      "UsersEstimate": 1945
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -8524,7 +8529,7 @@
       "Name": "Recouped Investment",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1729
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -8532,7 +8537,7 @@
       "Name": "The More The Merrier",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1513
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -8540,14 +8545,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 2645
+      "UsersEstimate": 2647
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 5397,
+      "Progressed": 5402,
       "Completed": 3
     }
   ],
@@ -8555,8 +8560,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-12-29T11:00:02.6468787+00:00",
-  "LastChanged_Achievements": "2023-12-29T17:04:01.5191768+00:00",
+  "LastChanged_Achievements": "2023-12-29T18:04:46.6202411+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:04.2476654+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:00:40.9662885+00:00",
-  "LastUpdate_Achievements": "2023-12-29T17:04:01.5192481+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:01:59.7255995+00:00",
+  "LastUpdate_Achievements": "2023-12-29T18:04:46.6203183+00:00"
 }

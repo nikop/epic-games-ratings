@@ -4,8 +4,8 @@
   "ProductSlug": "buddy-and-friends-in-halloween-192190",
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 374,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 373,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
     "PcReleaseDate": "2023-10-18T15:00:00+00:00",
@@ -422,17 +422,17 @@
       "ID": "LEVEL_135_005",
       "SetID": "5g7b0mb",
       "Name": "Grass - 135 pieces",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "LEVEL_135_006",
       "SetID": "5g7b0mb",
       "Name": "Warmth - 135 pieces",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "LEVEL_240_001",
@@ -589,8 +589,8 @@
   ],
   "FirstSeen": "2023-10-25T11:59:09.0555301+00:00",
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2023-12-29T17:05:45.2800236+00:00",
+  "LastChanged_Achievements": "2023-12-29T18:06:54.0567906+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.5932305+00:00",
-  "LastUpdate_Ratings": "2023-12-29T16:57:31.3352125+00:00",
-  "LastUpdate_Achievements": "2023-12-29T17:05:45.280042+00:00"
+  "LastUpdate_Ratings": "2023-12-29T17:57:54.7942741+00:00",
+  "LastUpdate_Achievements": "2023-12-29T18:06:54.0568111+00:00"
 }

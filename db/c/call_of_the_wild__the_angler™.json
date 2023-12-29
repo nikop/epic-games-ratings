@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1015,9 +1015,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7713,
+  "EOS_Progressed": 7714,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 336,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12620,6 +12620,11 @@
       "Time": "2023-12-29T17:03:59.9430408+00:00",
       "NumProgressed": 7713,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T18:04:44.8570989+00:00",
+      "NumProgressed": 7714,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -12639,7 +12644,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -12687,7 +12692,7 @@
       "Name": "Scaling up",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -12950,13 +12955,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7713,
+      "Progressed": 7714,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7085,
+      "Progressed": 7086,
       "Completed": 113
     }
   ],
@@ -12964,8 +12969,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-26T19:00:49.2434236+00:00",
-  "LastChanged_Achievements": "2023-12-29T17:03:59.9430405+00:00",
+  "LastChanged_Achievements": "2023-12-29T18:04:44.8570986+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:25.278975+00:00",
-  "LastUpdate_Ratings": "2023-12-29T16:57:30.3893594+00:00",
-  "LastUpdate_Achievements": "2023-12-29T17:03:59.9431154+00:00"
+  "LastUpdate_Ratings": "2023-12-29T17:57:53.5988725+00:00",
+  "LastUpdate_Achievements": "2023-12-29T18:04:44.8571747+00:00"
 }

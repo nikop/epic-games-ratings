@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1345,
+  "EOS_Progressed": 1346,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.34,
   "EosHistory": [
@@ -3183,6 +3183,11 @@
       "Time": "2023-12-29T17:08:44.9665823+00:00",
       "NumProgressed": 1345,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-29T18:09:05.6204055+00:00",
+      "NumProgressed": 1346,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -3242,7 +3247,7 @@
       "Name": "Love is in the air",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "ACH_ENGAGEMENT_RING",
@@ -3290,7 +3295,7 @@
       "Name": "No pressure",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -3298,7 +3303,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -3322,7 +3327,7 @@
       "Name": "Island boy",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
@@ -3346,7 +3351,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "ACH_STAR_2",
@@ -3394,7 +3399,7 @@
       "Name": "Excellent service",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -3409,7 +3414,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1345,
+      "Progressed": 1346,
       "Completed": 18
     }
   ],
@@ -3417,8 +3422,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-29T01:34:53.0019618+00:00",
-  "LastChanged_Achievements": "2023-12-29T17:08:44.9665818+00:00",
+  "LastChanged_Achievements": "2023-12-29T18:09:05.6204051+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:02.4456941+00:00",
-  "LastUpdate_Ratings": "2023-12-29T16:58:37.1296588+00:00",
-  "LastUpdate_Achievements": "2023-12-29T17:08:44.9666101+00:00"
+  "LastUpdate_Ratings": "2023-12-29T17:59:21.2239679+00:00",
+  "LastUpdate_Achievements": "2023-12-29T18:09:05.6204372+00:00"
 }

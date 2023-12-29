@@ -26,6 +26,7 @@ Number of Ratings: 111  (23.09.2022)
 | Fulfilled the dream | 6.00% | ~207 |
 | G'Day Mate! | 6.00% | ~207 |
 | Laid back | 6.00% | ~207 |
+| NAHELL! | 6.00% | ~207 |
 | Purple passion | 6.00% | ~207 |
 | Squad goals | 6.00% | ~207 |
 | Sup widdit big dog! | 6.00% | ~207 |
@@ -35,7 +36,6 @@ Number of Ratings: 111  (23.09.2022)
 | Globetrotter | 5.00% | ~172 |
 | Lines for days | 5.00% | ~172 |
 | Manny Destroys All | 5.00% | ~172 |
-| NAHELL! | 5.00% | ~172 |
 | Renaissance man | 5.00% | ~172 |
 | Tank commander | 5.00% | ~172 |
 | Trick shot marksman | 5.00% | ~172 |
@@ -286,8 +286,8 @@ Completed: 2 (0.06%) (Ranked 328)
 | 2023-12-29 | 3,442 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 62  (Ranked 424)  
-Sum: 576 (Ranked 325)  
-Diff (max vs sum): 99  
+Sum: 577 (Ranked 324)  
+Diff (max vs sum): 100  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 62 |
@@ -297,8 +297,8 @@ Diff (max vs sum): 99
 | This game has a Creative Community | 49 |
 | This game has Amazing Characters | 49 |
 | This game is Extremely Fun | 47 |
+| This game is Relaxing | 46 |
 | This game has Amazing Storytelling | 46 |
-| This game is Relaxing | 45 |
 | This game has Quickly Understood Controls | 40 |
 | This game is Educational | 39 |
 | This game has Challenging Combat | 32 |
@@ -496,3 +496,4 @@ Diff (max vs sum): 99
 | 2023-12-25 | 4.69 | - | 62 | 574 |
 | 2023-12-26 | 4.69 | - | 62 | 575 |
 | 2023-12-27 | 4.69 | - | 62 | 576 |
+| 2023-12-29 | 4.69 | - | 62 | 577 |

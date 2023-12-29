@@ -4,8 +4,8 @@
   "ProductSlug": "horse-club-adventures-2-hazelwood-stories-b257d3",
   "Ranking_EOS_Progress": 531,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 496,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 495,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
     "PcReleaseDate": "2022-10-27T11:00:00+00:00",
@@ -421,9 +421,9 @@
       "ID": "ACH_15_SOMETHING_TO_DO",
       "SetID": "9loam6m",
       "Name": "Always something to do",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_16_ART_AT_LIGHTHOUSE",
@@ -652,8 +652,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-12-29T17:06:25.0846668+00:00",
+  "LastChanged_Achievements": "2023-12-29T18:07:42.0258178+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9207398+00:00",
-  "LastUpdate_Ratings": "2023-12-29T16:58:02.8544766+00:00",
-  "LastUpdate_Achievements": "2023-12-29T17:06:25.0846957+00:00"
+  "LastUpdate_Ratings": "2023-12-29T17:58:35.7416504+00:00",
+  "LastUpdate_Achievements": "2023-12-29T18:07:42.0258405+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 127,
+  "EOS_Progressed": 128,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1041,6 +1041,11 @@
       "Time": "2023-12-29T17:04:18.7687596+00:00",
       "NumProgressed": 127,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T18:05:07.1411912+00:00",
+      "NumProgressed": 128,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1069,7 +1074,7 @@
       "Name": "Entrepreneur",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "100HEALS",
@@ -1117,7 +1122,7 @@
       "Name": "Peddler",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "20WEAPONSCRAFTED",
@@ -1179,17 +1184,17 @@
       "ID": "5CREWMEMBER",
       "SetID": "a1angca",
       "Name": "Military Leader",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "ALLCOMBAT",
       "SetID": "a1angca",
       "Name": "Hotshot",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "ALLCRAFT",
@@ -1227,9 +1232,9 @@
       "ID": "ALLXP",
       "SetID": "a1angca",
       "Name": "Role Model",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 29
     },
     {
       "ID": "BRINGTOYS",
@@ -1261,7 +1266,7 @@
       "Name": "Berserker",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CHOSEKLE",
@@ -1333,7 +1338,7 @@
       "Name": "Civilian",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "FINDCRONY",
@@ -1341,7 +1346,7 @@
       "Name": "Best Buddy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "FINDMAP",
@@ -1357,7 +1362,7 @@
       "Name": "Family Reunion",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "FUTUREIRISSA",
@@ -1379,9 +1384,9 @@
       "ID": "HELPTHORHILD",
       "SetID": "a1angca",
       "Name": "Pass A38",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "KILL200MONSTER",
@@ -1452,15 +1457,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 127,
+      "Progressed": 128,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2023-12-29T17:04:18.7687593+00:00",
+  "LastChanged_Achievements": "2023-12-29T18:05:07.1411908+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:36.6401654+00:00",
-  "LastUpdate_Ratings": "2023-12-29T16:57:53.5138876+00:00",
-  "LastUpdate_Achievements": "2023-12-29T17:04:18.7687896+00:00"
+  "LastUpdate_Ratings": "2023-12-29T17:58:24.1516622+00:00",
+  "LastUpdate_Achievements": "2023-12-29T18:05:07.1412273+00:00"
 }

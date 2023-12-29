@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 367,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -541,9 +541,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 45609,
+  "EOS_Progressed": 45618,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 837,
+  "EOS_NewPlayers": 839,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16876,6 +16876,11 @@
       "Time": "2023-12-29T17:03:41.6037535+00:00",
       "NumProgressed": 45609,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T18:04:21.530964+00:00",
+      "NumProgressed": 45618,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -16903,7 +16908,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -16919,7 +16924,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -16935,7 +16940,7 @@
       "Name": "Attachments",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5017
+      "UsersEstimate": 5018
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -16943,7 +16948,7 @@
       "Name": "Stuck",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2280
+      "UsersEstimate": 2281
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -16951,7 +16956,7 @@
       "Name": "The Interloper",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -17047,7 +17052,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2280
+      "UsersEstimate": 2281
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -17063,7 +17068,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "JUSTCOUNTER",
@@ -17103,7 +17108,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2280
+      "UsersEstimate": 2281
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -17143,7 +17148,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2280
+      "UsersEstimate": 2281
     },
     {
       "ID": "MAGIC_IVY",
@@ -17191,7 +17196,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "PARKOUR_TIME",
@@ -17223,7 +17228,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4561
+      "UsersEstimate": 4562
     },
     {
       "ID": "SPRING_ALL",
@@ -17310,22 +17315,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 45609,
+      "Progressed": 45618,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 10446,
-      "Completed": 10446
+      "Progressed": 10455,
+      "Completed": 10455
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-29T05:02:23.0595699+00:00",
-  "LastChanged_Achievements": "2023-12-29T17:03:41.6037531+00:00",
+  "LastChanged_Achievements": "2023-12-29T18:04:21.5309636+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.8849039+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:02:45.1778387+00:00",
-  "LastUpdate_Achievements": "2023-12-29T17:03:41.6038576+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:03:08.3273809+00:00",
+  "LastUpdate_Achievements": "2023-12-29T18:04:21.5310848+00:00"
 }

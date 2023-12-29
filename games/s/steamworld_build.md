@@ -21,7 +21,7 @@
 | Whoa! | 29.00% | ~60 |
 | Botropolis | 25.00% | ~52 |
 | Manic Mechanic | 19.00% | ~39 |
-| Steam Powered | 18.00% | ~37 |
+| Steam Powered | 19.00% | ~39 |
 | Steaming Rich | 18.00% | ~37 |
 | Room To Spare | 14.00% | ~29 |
 | Click 'Em All | 4.00% | ~8 |
