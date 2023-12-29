@@ -1,33 +1,33 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.58 (Ranked 462)  
+Rating: 4.58 (Ranked 461)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Shall Not Pass | 51.00% | ~4,926 |
+| You Shall Not Pass | 51.00% | ~4,927 |
 | Tutti Eroi! | 50.00% | ~4,830 |
-| Peak Performance | 46.00% | ~4,443 |
+| Peak Performance | 46.00% | ~4,444 |
 | Avanti Savoia! | 44.00% | ~4,250 |
 | Mamma Mia! | 35.00% | ~3,381 |
 | Conrad von Hotzensocks | 32.00% | ~3,091 |
 | Gabriele D'Annunzio | 32.00% | ~3,091 |
 | Silver Lining | 27.00% | ~2,608 |
-| Aurelio Baruzzi | 21.00% | ~2,028 |
+| Aurelio Baruzzi | 21.00% | ~2,029 |
 | Decimation | 20.00% | ~1,932 |
 | Donatello | 19.00% | ~1,835 |
 | Insubordination | 19.00% | ~1,835 |
 | The Italian Job | 19.00% | ~1,835 |
 | Veni Vidi Vici | 19.00% | ~1,835 |
 | Ragazzi del '99 | 17.00% | ~1,642 |
-| Luigi Cadorna | 16.00% | ~1,545 |
+| Luigi Cadorna | 16.00% | ~1,546 |
 | The Lion of the Isonzo | 14.00% | ~1,352 |
 | Uomo Universale | 13.00% | ~1,256 |
 | Die Bosniaken Kommen! | 12.00% | ~1,159 |
 | Dirty Dozen | 12.00% | ~1,159 |
 | Shaken, Not Stirred | 12.00% | ~1,159 |
-| Machiavelli | 11.00% | ~1,062 |
+| Machiavelli | 11.00% | ~1,063 |
 | The Devil's Paintbrush | 10.00% | ~966 |
 | Thus With A Kiss | 10.00% | ~966 |
 | Dante's Inferno | 9.00% | ~869 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~39 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,659 (Ranked 180)  
+Progressed: 9,660 (Ranked 180)  
 Completed: 10 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 10 (0.10%) (Ranked 305)
 | 2023-12-26 | 9,630 | 10 |
 | 2023-12-27 | 9,644 | 10 |
 | 2023-12-28 | 9,657 | 10 |
-| 2023-12-29 | 9,659 | 10 |
+| 2023-12-29 | 9,660 | 10 |
 ## Awards
 Max (Diverse Characters): 41  (Ranked 472)  
 Sum: 333 (Ranked 368)  

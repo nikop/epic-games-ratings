@@ -85,11 +85,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1975,
+  "EOS_Progressed": 1976,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 36,
-  "EOS_Completed_Percentage": 6.03,
+  "EOS_Completed_Percentage": 6.02,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -5650,6 +5650,11 @@
       "Time": "2023-12-29T11:05:11.7010773+00:00",
       "NumProgressed": 1975,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-12-29T12:05:15.803523+00:00",
+      "NumProgressed": 1976,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 25,
@@ -5677,7 +5682,7 @@
       "Name": "Peace walker",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -5693,7 +5698,7 @@
       "Name": "A good beginning",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "META_HALF_LINK",
@@ -5749,7 +5754,7 @@
       "Name": "A Link to the Past",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -5773,7 +5778,7 @@
       "Name": "True G3M4R",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -5781,7 +5786,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -5797,7 +5802,7 @@
       "Name": "Champollion",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -5805,7 +5810,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -5845,7 +5850,7 @@
       "Name": "The darkness",
       "Percentage": 27,
       "XP": 60,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "PROGRESS_N5",
@@ -5860,7 +5865,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1975,
+      "Progressed": 1976,
       "Completed": 119
     }
   ],
@@ -5868,8 +5873,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-29T06:59:08.3980906+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:05:11.701077+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:05:15.8035225+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:59:00.9129212+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:05:11.701111+00:00"
+  "LastUpdate_Ratings": "2023-12-29T11:59:18.88146+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:05:15.8035544+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-dragoness-command-of-the-flame-b3b544",
   "Ranking_EOS_Progress": 563,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewPlayers": 461,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-08-09T23:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 40,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -394,9 +394,9 @@
       "ID": "SteamAchievment_CompleteQuest04",
       "SetID": "b8gj0ip",
       "Name": "Forest Dragons\u0027 Ally",
-      "Percentage": 25,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SteamAchievment_CompleteQuest05",
@@ -537,8 +537,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:04:48.1222398+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:04:52.7113193+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:22.1421686+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:59:08.1681702+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:04:48.122262+00:00"
+  "LastUpdate_Ratings": "2023-12-29T11:59:25.7824905+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:04:52.7113389+00:00"
 }

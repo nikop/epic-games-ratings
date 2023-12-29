@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -319,9 +319,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 1361,
+  "EOS_Progressed": 1362,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
@@ -2809,6 +2809,11 @@
       "Time": "2023-12-29T04:09:38.356884+00:00",
       "NumProgressed": 1361,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-29T12:09:39.6405526+00:00",
+      "NumProgressed": 1362,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 43,
@@ -2820,7 +2825,7 @@
       "Name": "Demigod",
       "Percentage": 74,
       "XP": 150,
-      "UsersEstimate": 1007
+      "UsersEstimate": 1008
     },
     {
       "ID": "DieInPermadeath",
@@ -2836,7 +2841,7 @@
       "Name": "Voices from the Past",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "Finish5SideMissions",
@@ -2844,7 +2849,7 @@
       "Name": "Helping Hand",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "FinishAllSideMissions",
@@ -2852,7 +2857,7 @@
       "Name": "Paragon",
       "Percentage": 61,
       "XP": 70,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "GatlingVsArmor",
@@ -2876,7 +2881,7 @@
       "Name": "Born to Drift",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "KillWithALargeShip",
@@ -2924,7 +2929,7 @@
       "Name": "Retaliate",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "MissionAncientRitual",
@@ -2948,7 +2953,7 @@
       "Name": "Payback",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "MissionDreamsOfThePast",
@@ -2988,7 +2993,7 @@
       "Name": "Disciple",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "MissionHelios",
@@ -2996,7 +3001,7 @@
       "Name": "Cult Slayer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "MissionLiberateEnclave",
@@ -3044,7 +3049,7 @@
       "Name": "Another Life",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "MissionShipyard",
@@ -3068,7 +3073,7 @@
       "Name": "Disruption",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "MissionTheArmadaStrikes",
@@ -3116,7 +3121,7 @@
       "Name": "Huntress",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "RiteOfTheStar",
@@ -3140,7 +3145,7 @@
       "Name": "Phoenix",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "VisitAllLocations",
@@ -3148,7 +3153,7 @@
       "Name": "Space Traveler",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "WinARace",
@@ -3163,15 +3168,15 @@
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 1361,
+      "Progressed": 1362,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-12-28T20:00:41.3353527+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:09:39.3620119+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:09:39.6405521+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:02.386194+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:59:51.1534213+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:09:39.3620465+00:00"
+  "LastUpdate_Ratings": "2023-12-29T12:00:07.2650956+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:09:39.6405849+00:00"
 }

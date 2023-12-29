@@ -25,6 +25,7 @@ Rating: 3.59 (Ranked 1,078)
 | Neighborhood Revitalization | 3.00% | ~64 |
 | Radio Silence | 3.00% | ~64 |
 | Helping Hand | 3.00% | ~64 |
+| I Spit On Your Grave | 3.00% | ~64 |
 | Sic Transit Umbra | 2.00% | ~43 |
 | Bell-ringer | 2.00% | ~43 |
 | Good Morning | 2.00% | ~43 |
@@ -32,7 +33,6 @@ Rating: 3.59 (Ranked 1,078)
 | From the Shadows | 2.00% | ~43 |
 | Starve the Beast | 2.00% | ~43 |
 | Harvest’s End | 2.00% | ~43 |
-| I Spit On Your Grave | 2.00% | ~43 |
 | Revelations | 1.00% | ~21 |
 | Contingency Plans | 1.00% | ~21 |
 | Block Party | 1.00% | ~21 |

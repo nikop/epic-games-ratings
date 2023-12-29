@@ -5,23 +5,23 @@ Rating: 4.52 (Ranked 570)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~6,663 |
-| Greasy Palms | 42.00% | ~6,084 |
-| South American Connection | 26.00% | ~3,766 |
-| Life of the Party | 20.00% | ~2,897 |
-| Big Heat from Little Havana | 15.00% | ~2,173 |
-| Chauffeur | 15.00% | ~2,173 |
-| Tommy Two-Wheels | 15.00% | ~2,173 |
-| Salutations My Little Friend | 11.00% | ~1,593 |
-| Iron-y | 10.00% | ~1,448 |
+| Legal Counsel | 46.00% | ~6,666 |
+| Greasy Palms | 42.00% | ~6,086 |
+| South American Connection | 26.00% | ~3,768 |
+| Life of the Party | 20.00% | ~2,898 |
+| Big Heat from Little Havana | 15.00% | ~2,174 |
+| Chauffeur | 15.00% | ~2,174 |
+| Tommy Two-Wheels | 15.00% | ~2,174 |
+| Salutations My Little Friend | 11.00% | ~1,594 |
+| Iron-y | 10.00% | ~1,449 |
 | Gun for Hire | 9.00% | ~1,304 |
 | Mischief Managed | 8.00% | ~1,159 |
 | Vice City Mogul | 6.00% | ~869 |
 | Catch Me if You Can | 6.00% | ~869 |
 | Bloodstained Hands | 6.00% | ~869 |
-| Not my First Time | 5.00% | ~724 |
-| Grand Theft Auto | 5.00% | ~724 |
-| Pie Guy | 4.00% | ~579 |
+| Not my First Time | 5.00% | ~725 |
+| Grand Theft Auto | 5.00% | ~725 |
+| Pie Guy | 4.00% | ~580 |
 | Point A to Point B | 3.00% | ~435 |
 | High Quality H2O | 3.00% | ~435 |
 | Bull in a China Shop | 3.00% | ~435 |
@@ -40,7 +40,7 @@ Rating: 4.52 (Ranked 570)
 | Done it All | 0.90% | ~130 |
 | Kingpin | 0.60% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,485 (Ranked 168)  
+Progressed: 14,491 (Ranked 168)  
 Completed: 82 (0.57%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,11 +293,11 @@ Completed: 82 (0.57%) (Ranked 206)
 | 2023-12-26 | 14,192 | 76 |
 | 2023-12-27 | 14,318 | 79 |
 | 2023-12-28 | 14,428 | 82 |
-| 2023-12-29 | 14,485 | 82 |
+| 2023-12-29 | 14,491 | 82 |
 ## Awards
 Max (Great Boss Battles): 159  (Ranked 322)  
-Sum: 159 (Ranked 436)  
-Diff (max vs sum): -114  
+Sum: 159 (Ranked 437)  
+Diff (max vs sum): -115  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 159 |

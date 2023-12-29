@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Too Cool For School | 85.00% | ~169 |
-| Caretaker | 84.00% | ~167 |
-| Feng Shui | 72.00% | ~143 |
-| Who's A Good Boy | 71.00% | ~141 |
-| Power Up | 70.00% | ~139 |
-| Thick Skin | 69.00% | ~137 |
-| Math Wizard | 67.00% | ~133 |
-| Destroy Erase Improve | 67.00% | ~133 |
-| Power Overload | 64.00% | ~127 |
-| Quite A Snack | 61.00% | ~121 |
-| Impenetrable Skin | 57.00% | ~113 |
-| Overwhelming Power | 55.00% | ~109 |
+| Too Cool For School | 85.00% | ~170 |
+| Caretaker | 84.00% | ~168 |
+| Feng Shui | 72.00% | ~144 |
+| Who's A Good Boy | 71.00% | ~142 |
+| Power Up | 70.00% | ~140 |
+| Thick Skin | 69.00% | ~138 |
+| Math Wizard | 67.00% | ~134 |
+| Destroy Erase Improve | 67.00% | ~134 |
+| Power Overload | 64.00% | ~128 |
+| Quite A Snack | 61.00% | ~122 |
+| Impenetrable Skin | 56.00% | ~112 |
+| Overwhelming Power | 55.00% | ~110 |
 | Chomp Chomp! | 47.00% | ~94 |
 | Supreme Power | 46.00% | ~92 |
 | The Duelist | 44.00% | ~88 |
@@ -58,7 +58,7 @@
 | Destroy Everything | 1.00% | ~2 |
 | Hearty Meteor | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 199 (Ranked 422)  
+Progressed: 200 (Ranked 422)  
 Completed: 1 (0.50%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,6 +123,7 @@ Completed: 1 (0.50%) (Ranked 216)
 | 2023-12-25 | 197 | 1 |
 | 2023-12-27 | 198 | 1 |
 | 2023-12-28 | 199 | 1 |
+| 2023-12-29 | 200 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

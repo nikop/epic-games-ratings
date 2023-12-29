@@ -2,12 +2,12 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 462,
+  "Ranking_Rating": 461,
   "Ranking_Popularity": 134,
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3728,11 +3728,17 @@
       "Rating": 4.58,
       "NumberOfAwards": 11768,
       "NumberOfAwardsMax": 1512
+    },
+    {
+      "Time": "2023-12-29T11:59:56.9615533+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11769,
+      "NumberOfAwardsMax": 1513
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11768,
-  "NumberOfAwardsMax": 1512,
+  "NumberOfAwards": 11769,
+  "NumberOfAwardsMax": 1513,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -3763,7 +3769,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1512
+      "Count": 1513
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3802,9 +3808,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 241946,
+  "EOS_Progressed": 241948,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 488,
+  "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29942,6 +29948,11 @@
       "Time": "2023-12-29T11:10:13.5692604+00:00",
       "NumProgressed": 241946,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-29T12:10:13.0608402+00:00",
+      "NumProgressed": 241948,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -30351,9 +30362,9 @@
       "ID": "KILL100",
       "SetID": "5l8oe0h",
       "Name": "Defeat The Dark",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1936
+      "UsersEstimate": 2178
     },
     {
       "ID": "KILL1000",
@@ -31056,22 +31067,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241946,
+      "Progressed": 241948,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3426,
+      "Progressed": 3428,
       "Completed": 416
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2023-12-28T23:00:28.6760098+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:10:13.5692603+00:00",
+  "LastChanged": "2023-12-29T11:59:56.9615531+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:10:13.06084+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:59:40.4762957+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:10:13.5695071+00:00"
+  "LastUpdate_Ratings": "2023-12-29T11:59:56.9615535+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:10:13.061093+00:00"
 }

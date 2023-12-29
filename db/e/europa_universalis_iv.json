@@ -13833,9 +13833,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 486800,
+  "EOS_Progressed": 486835,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5798,
+  "EOS_NewPlayers": 5801,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -42978,6 +42978,11 @@
       "Time": "2023-12-29T11:09:03.6267018+00:00",
       "NumProgressed": 486800,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T12:09:05.4957592+00:00",
+      "NumProgressed": 486835,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -43195,9 +43200,9 @@
       "ID": "achievement_animal_kingdom",
       "SetID": "67mdiil",
       "Name": "The Animal Kingdom",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 487
     },
     {
       "ID": "achievement_arabian_coffee",
@@ -43429,7 +43434,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -43899,9 +43904,9 @@
       "ID": "achievement_ganges_khan",
       "SetID": "8p2n7he",
       "Name": "Ganges Khan",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 487
     },
     {
       "ID": "achievement_gentle_persuasion",
@@ -44013,7 +44018,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -44989,7 +44994,7 @@
       "Name": "Seriously?!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -45892,21 +45897,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 486800,
+      "Progressed": 486835,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 486800,
+      "Progressed": 486835,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-12-29T06:58:27.9569317+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:09:03.6267016+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:09:05.4957587+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:16.1872373+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:58:19.093263+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:09:03.6277268+00:00"
+  "LastUpdate_Ratings": "2023-12-29T11:58:38.8162096+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:09:05.4968207+00:00"
 }

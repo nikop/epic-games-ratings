@@ -5,24 +5,24 @@ Rating: 4.28 (Ranked 880)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~165,213 |
-| Copacetic Coordination | 16.00% | ~57,465 |
-| Fronting the Money | 15.00% | ~53,874 |
-| The Dawn of Automation | 14.00% | ~50,282 |
-| Extraordinary Logistics | 14.00% | ~50,282 |
-| Dirty Money | 13.00% | ~46,691 |
-| Family First | 13.00% | ~46,691 |
-| Cleaning House | 12.00% | ~43,099 |
-| Room in the Back | 12.00% | ~43,099 |
-| Beating the Heat | 11.00% | ~39,507 |
-| Booze Baron | 11.00% | ~39,507 |
-| Friends on the Force | 10.00% | ~35,916 |
-| Neighborhood Watch | 10.00% | ~35,916 |
+| Corner Clout | 46.00% | ~165,217 |
+| Copacetic Coordination | 16.00% | ~57,467 |
+| Fronting the Money | 15.00% | ~53,875 |
+| The Dawn of Automation | 14.00% | ~50,283 |
+| Extraordinary Logistics | 14.00% | ~50,283 |
+| Dirty Money | 13.00% | ~46,692 |
+| Family First | 13.00% | ~46,692 |
+| Cleaning House | 12.00% | ~43,100 |
+| Room in the Back | 12.00% | ~43,100 |
+| Beating the Heat | 11.00% | ~39,508 |
+| Booze Baron | 11.00% | ~39,508 |
+| Friends on the Force | 10.00% | ~35,917 |
+| Neighborhood Watch | 10.00% | ~35,917 |
 | Core Corps | 8.00% | ~28,733 |
 | Sizeable Stash | 8.00% | ~28,733 |
-| Street Fighter | 7.00% | ~25,141 |
-| Friendly Gestures | 7.00% | ~25,141 |
-| People Person | 7.00% | ~25,141 |
+| Street Fighter | 7.00% | ~25,142 |
+| Friendly Gestures | 7.00% | ~25,142 |
+| People Person | 7.00% | ~25,142 |
 | Liquor Lord | 6.00% | ~21,550 |
 | Safety in Numbers | 6.00% | ~21,550 |
 | Moving Experiences | 6.00% | ~21,550 |
@@ -36,12 +36,12 @@ Rating: 4.28 (Ranked 880)
 | Opportunity Knocked | 5.00% | ~17,958 |
 | City of Big Shoulders | 5.00% | ~17,958 |
 | Mission Mastery | 5.00% | ~17,958 |
-| Considerable Clams | 4.00% | ~14,366 |
-| Gin Joint | 4.00% | ~14,366 |
-| An Affront to the Enemy | 4.00% | ~14,366 |
-| Friends from Back Home | 4.00% | ~14,366 |
-| Bees Knees Bootlegger | 4.00% | ~14,366 |
-| Half Century Mark | 4.00% | ~14,366 |
+| Considerable Clams | 4.00% | ~14,367 |
+| Gin Joint | 4.00% | ~14,367 |
+| An Affront to the Enemy | 4.00% | ~14,367 |
+| Friends from Back Home | 4.00% | ~14,367 |
+| Bees Knees Bootlegger | 4.00% | ~14,367 |
+| Half Century Mark | 4.00% | ~14,367 |
 | Corner Opportunities | 3.00% | ~10,775 |
 | 2122 North Clark Street | 3.00% | ~10,775 |
 | Copious Cabbage | 3.00% | ~10,775 |
@@ -61,7 +61,7 @@ Rating: 4.28 (Ranked 880)
 | Cat’s Meow Clubs | 1.00% | ~3,592 |
 | Determined Deliveries | 1.00% | ~3,592 |
 | Stepping It Up | 1.00% | ~3,592 |
-| Crossing Over | 0.90% | ~3,232 |
+| Crossing Over | 0.90% | ~3,233 |
 | Boots in the Ground | 0.80% | ~2,873 |
 | Getting Fancy | 0.80% | ~2,873 |
 | Still Dreaming | 0.50% | ~1,796 |
@@ -70,9 +70,9 @@ Rating: 4.28 (Ranked 880)
 | Homemade Hooch | 0.40% | ~1,437 |
 | High End Booze | 0.40% | ~1,437 |
 | In-House Maintenance | 0.40% | ~1,437 |
-| Dirty Work | 0.30% | ~1,077 |
-| Bottled Up | 0.30% | ~1,077 |
-| Streetwise | 0.30% | ~1,077 |
+| Dirty Work | 0.30% | ~1,078 |
+| Bottled Up | 0.30% | ~1,078 |
+| Streetwise | 0.30% | ~1,078 |
 | Balkan Firewater | 0.20% | ~718 |
 | Windy City Win | 0.10% | ~359 |
 | Steeling Victory | 0.10% | ~359 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 880)
 | High Pillow | 0.10% | ~359 |
 | Station Master | 0.10% | ~359 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 359,159 (Ranked 51)  
+Progressed: 359,167 (Ranked 51)  
 Completed: 7 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,11 +339,11 @@ Completed: 7 (0.00%) (Ranked 389)
 | 2023-12-26 | 358,697 | 7 |
 | 2023-12-27 | 358,887 | 7 |
 | 2023-12-28 | 359,078 | 7 |
-| 2023-12-29 | 359,159 | 7 |
+| 2023-12-29 | 359,167 | 7 |
 ## Awards
 Max (Great for Beginners): 57  (Ranked 430)  
-Sum: 264 (Ranked 393)  
-Diff (max vs sum): 37  
+Sum: 265 (Ranked 392)  
+Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 57 |
@@ -351,7 +351,7 @@ Diff (max vs sum): 37
 | This game is Relaxing | 34 |
 | This game is Extremely Fun | 33 |
 | This game has Diverse Characters | 31 |
-| This game has Quickly Understood Controls | 27 |
+| This game has Quickly Understood Controls | 28 |
 | This game has Easy Combat | 25 |
 | This game has Amazing Storytelling | 22 |
 | This game has Unique Visuals | 21 |
@@ -485,4 +485,4 @@ Diff (max vs sum): 37
 | 2023-12-26 | 4.28 | 57 | 261 |
 | 2023-12-27 | 4.28 | 57 | 263 |
 | 2023-12-28 | 4.29 | 57 | 264 |
-| 2023-12-29 | 4.28 | 57 | 264 |
+| 2023-12-29 | 4.28 | 57 | 265 |

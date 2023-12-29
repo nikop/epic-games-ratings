@@ -1,12 +1,12 @@
 # Yooka-Laylee
 [Store](https://store.epicgames.com/en-US/p/yooka-laylee)  
 [View Rawdata](../../db/y/yooka-laylee.json)  
-Rating: 4.25 (Ranked 906)  
+Rating: 4.25 (Ranked 907)  
 Number of Ratings: 366  (23.09.2022)  
 ## Awards
 Max (Extremely Fun): 24  (Ranked 547)  
-Sum: 112 (Ranked 456)  
-Diff (max vs sum): 91  
+Sum: 112 (Ranked 457)  
+Diff (max vs sum): 90  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 24 |

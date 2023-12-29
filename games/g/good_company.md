@@ -20,10 +20,10 @@ Number of Ratings: 75  (23.09.2022)
 | Extra Life: Wish Granted | 4.00% | ~230 |
 | High Five! | 4.00% | ~230 |
 | Modular Progress | 4.00% | ~230 |
-| Campaign: Lesson Learned | 3.00% | ~172 |
-| Level: Bet On Bots | 3.00% | ~172 |
-| Modular Performance | 3.00% | ~172 |
-| Salesperson | 3.00% | ~172 |
+| Campaign: Lesson Learned | 3.00% | ~173 |
+| Level: Bet On Bots | 3.00% | ~173 |
+| Modular Performance | 3.00% | ~173 |
+| Salesperson | 3.00% | ~173 |
 | Level: Merry-Go-Around | 2.00% | ~115 |
 | Charlies's Circuits: Artist | 2.00% | ~115 |
 | Modular Peak | 2.00% | ~115 |
@@ -46,8 +46,8 @@ Number of Ratings: 75  (23.09.2022)
 | Bet On Bots: Safety First | 0.80% | ~46 |
 | Tycoon | 0.80% | ~46 |
 | Merry-Go-Around: Self-Made | 0.70% | ~40 |
-| Bet On Bots: Inspector's Favorite | 0.60% | ~34 |
-| Trendsetter | 0.60% | ~34 |
+| Bet On Bots: Inspector's Favorite | 0.60% | ~35 |
+| Trendsetter | 0.60% | ~35 |
 | Level: Heating-Up | 0.50% | ~29 |
 | Level: Eye In The Sky | 0.50% | ~29 |
 | CEO | 0.50% | ~29 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~6 |
 | Prestigious | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,750 (Ranked 199)  
+Progressed: 5,751 (Ranked 199)  
 Completed: 1 (0.02%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 1 (0.02%) (Ranked 357)
 | 2023-12-26 | 5,740 | 1 |
 | 2023-12-27 | 5,743 | 1 |
 | 2023-12-28 | 5,747 | 1 |
-| 2023-12-29 | 5,750 | 1 |
+| 2023-12-29 | 5,751 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

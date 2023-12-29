@@ -1485,9 +1485,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6732,
+  "EOS_Progressed": 6733,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15455,6 +15455,11 @@
       "Time": "2023-12-29T10:04:48.7411136+00:00",
       "NumProgressed": 6732,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-29T12:04:51.5862086+00:00",
+      "NumProgressed": 6733,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -15562,7 +15567,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2962
+      "UsersEstimate": 2963
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -15586,7 +15591,7 @@
       "Name": "Number 18",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1548
+      "UsersEstimate": 1549
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -15618,7 +15623,7 @@
       "Name": "The Governator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -15722,7 +15727,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 3029
+      "UsersEstimate": 3030
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -15785,15 +15790,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6732,
+      "Progressed": 6733,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-28T18:57:53.4773246+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:04:46.9371903+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:04:51.5862081+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:39.6786531+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:57:48.5788612+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:04:46.9372795+00:00"
+  "LastUpdate_Ratings": "2023-12-29T11:58:09.0094448+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:04:51.5862858+00:00"
 }

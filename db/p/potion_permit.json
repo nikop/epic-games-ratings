@@ -3238,9 +3238,9 @@
       "ID": "ACHIEVEMENTS_15",
       "SetID": "d4o538a",
       "Name": "Friendly",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 837
+      "UsersEstimate": 855
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -3439,8 +3439,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-28T09:03:17.5303608+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:03:39.2054187+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:03:43.8662268+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:45.5140216+00:00",
-  "LastUpdate_Ratings": "2023-12-29T11:02:45.7634385+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:03:39.2054529+00:00"
+  "LastUpdate_Ratings": "2023-12-29T12:02:49.8310943+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:03:43.8662657+00:00"
 }

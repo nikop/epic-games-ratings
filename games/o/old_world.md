@@ -9,10 +9,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 0.80% | ~128 |
 | Play a Single Player Game | 0.80% | ~128 |
 | Explorer | 0.70% | ~112 |
+| Architect | 0.60% | ~96 |
 | Intrepid | 0.60% | ~96 |
 | Friendly Family | 0.60% | ~96 |
 | Able | 0.50% | ~80 |
-| Architect | 0.50% | ~80 |
 | Good | 0.50% | ~80 |
 | Just | 0.50% | ~80 |
 | Keystone | 0.50% | ~80 |
@@ -38,6 +38,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate | 0.40% | ~64 |
 | Pyramids | 0.40% | ~64 |
 | Learn to Play 1 | 0.40% | ~64 |
+| Babylonian Paganism | 0.40% | ~64 |
 | Zoroastrianism | 0.40% | ~64 |
 | Naming Landmarks | 0.40% | ~64 |
 | Regicide | 0.30% | ~48 |
@@ -58,7 +59,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 0.30% | ~48 |
 | Christianity | 0.30% | ~48 |
 | Manichaeism | 0.30% | ~48 |
-| Babylonian Paganism | 0.30% | ~48 |
 | Carthaginian Paganism | 0.30% | ~48 |
 | Roman Paganism | 0.30% | ~48 |
 | Hanging Gardens in Babylon | 0.20% | ~32 |
@@ -87,6 +87,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Building Wonders | 0.20% | ~32 |
 | Economic Reform | 0.20% | ~32 |
 | Military Prestige | 0.20% | ~32 |
+| Mythology | 0.20% | ~32 |
 | Legionary | 0.20% | ~32 |
 | Points Victory | 0.20% | ~32 |
 | Win a Single Player Game | 0.20% | ~32 |
@@ -219,7 +220,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightenment | 0.10% | ~16 |
 | Gnosticism | 0.10% | ~16 |
 | Legalism | 0.10% | ~16 |
-| Mythology | 0.10% | ~16 |
 | Redemption | 0.10% | ~16 |
 | Revelation | 0.10% | ~16 |
 | Veneration | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,001 (Ranked 165)  
+Progressed: 16,002 (Ranked 165)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -618,7 +618,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-26 | 15,966 | 5 |
 | 2023-12-27 | 15,978 | 5 |
 | 2023-12-28 | 15,997 | 5 |
-| 2023-12-29 | 16,001 | 5 |
+| 2023-12-29 | 16,002 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 284)  
 Sum: 1,911 (Ranked 220)  

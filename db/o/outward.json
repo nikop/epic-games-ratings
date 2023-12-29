@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,7 +541,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4322,
+  "EOS_Progressed": 4323,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
@@ -7236,6 +7236,11 @@
       "Time": "2023-12-29T10:04:16.1393494+00:00",
       "NumProgressed": 4322,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-29T12:04:18.6637177+00:00",
+      "NumProgressed": 4323,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7455,7 +7460,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -7463,7 +7468,7 @@
       "Name": "Strange amalgams",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "Tapped_22",
@@ -7567,7 +7572,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3155
+      "UsersEstimate": 3156
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7582,15 +7587,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4322,
+      "Progressed": 4323,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:04:14.3193361+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:04:18.6637172+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.9488093+00:00",
-  "LastUpdate_Ratings": "2023-12-29T11:02:54.0806993+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:04:14.3193941+00:00"
+  "LastUpdate_Ratings": "2023-12-29T12:02:57.9031201+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:04:18.6637697+00:00"
 }

@@ -2247,7 +2247,7 @@
       "Count": 225
     }
   ],
-  "EOS_Progressed": 21812,
+  "EOS_Progressed": 21813,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
@@ -12297,6 +12297,11 @@
       "Time": "2023-12-29T09:06:19.1447527+00:00",
       "NumProgressed": 21812,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-29T12:06:20.6805487+00:00",
+      "NumProgressed": 21813,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -12316,7 +12321,7 @@
       "Name": "Car Mechanic",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ChangChoi",
@@ -12356,7 +12361,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20721
+      "UsersEstimate": 20722
     },
     {
       "ID": "GameOver",
@@ -12364,7 +12369,7 @@
       "Name": "Game Over",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "GorgioShanua",
@@ -12420,7 +12425,7 @@
       "Name": "Just Enough",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4362
+      "UsersEstimate": 4363
     },
     {
       "ID": "Negotiator",
@@ -12444,7 +12449,7 @@
       "Name": "Alpha Male",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4362
+      "UsersEstimate": 4363
     },
     {
       "ID": "SeniorEstateAgent",
@@ -12491,15 +12496,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21812,
+      "Progressed": 21813,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-12-28T19:00:29.0402048+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:06:16.7684953+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:06:20.6805481+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:15.1839615+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:59:30.3109414+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:06:16.7685365+00:00"
+  "LastUpdate_Ratings": "2023-12-29T11:59:47.3803576+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:06:20.6806225+00:00"
 }

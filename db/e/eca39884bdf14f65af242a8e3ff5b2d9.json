@@ -3,8 +3,8 @@
   "Name": "Avatar: Frontiers of Pandora",
   "ProductSlug": "avatar-frontiers-of-pandora",
   "Ranking_Rating": 610,
-  "Ranking_Popularity": 399,
-  "Ranking_PopularitySum": 315,
+  "Ranking_Popularity": 398,
+  "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 569,
@@ -711,18 +711,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 637,
       "NumberOfAwardsMax": 79
+    },
+    {
+      "Time": "2023-12-29T11:58:55.7973474+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 640,
+      "NumberOfAwardsMax": 82
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 637,
-  "NumberOfAwardsMax": 79,
+  "NumberOfAwards": 640,
+  "NumberOfAwardsMax": 82,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 79
+      "Count": 82
     },
     {
       "Text": "This game is Relaxing",
@@ -797,8 +803,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-07T07:59:53.6089805+00:00",
   "FirstSeenRating": "2023-12-07T19:59:23.1655437+00:00",
-  "LastChanged": "2023-12-29T07:58:20.8103024+00:00",
+  "LastChanged": "2023-12-29T11:58:55.7973472+00:00",
   "LastUpdate_AppInfo": "2023-12-25T06:57:12.3126511+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:58:37.0148353+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:06:05.391519+00:00"
+  "LastUpdate_Ratings": "2023-12-29T11:58:55.7973479+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:06:09.4917542+00:00"
 }

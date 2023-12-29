@@ -4,7 +4,7 @@
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
   "Ranking_EOS_Progress": 499,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewPlayers": 367,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
@@ -564,9 +564,9 @@
       "ID": "ProtectedPower",
       "SetID": "7m88n8p",
       "Name": "Protected by Divine Power",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "RoadToSalvation",
@@ -627,8 +627,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:06:20.03936+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:06:23.9621492+00:00",
   "LastUpdate_AppInfo": "2023-12-25T13:57:09.7353071+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:59:06.9088337+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:06:20.0393735+00:00"
+  "LastUpdate_Ratings": "2023-12-29T11:59:24.570854+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:06:23.9621711+00:00"
 }

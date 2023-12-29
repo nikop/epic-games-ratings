@@ -43,7 +43,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1432,
+  "EOS_Progressed": 1434,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 0,
@@ -2813,6 +2813,11 @@
       "Time": "2023-12-29T11:10:06.7571391+00:00",
       "NumProgressed": 1432,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T12:10:06.231253+00:00",
+      "NumProgressed": 1434,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2824,7 +2829,7 @@
       "Name": "Break Out",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "ACH_02",
@@ -2840,7 +2845,7 @@
       "Name": "Powerful Allies",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_04",
@@ -2896,7 +2901,7 @@
       "Name": "Trinity",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "ACH_11",
@@ -2936,7 +2941,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_16",
@@ -2958,9 +2963,9 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 287
     },
     {
       "ID": "ACH_19",
@@ -3000,7 +3005,7 @@
       "Name": "Geared Up",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ACH_24",
@@ -3064,7 +3069,7 @@
       "Name": "Stone Collection",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_33",
@@ -3111,7 +3116,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1432,
+      "Progressed": 1434,
       "Completed": 3
     }
   ],
@@ -3119,8 +3124,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2023-12-27T23:57:06.3972881+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:10:06.7571389+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:10:06.2312525+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:57:45.021233+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:10:06.7571866+00:00"
+  "LastUpdate_Ratings": "2023-12-29T11:58:05.7759176+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:10:06.231287+00:00"
 }

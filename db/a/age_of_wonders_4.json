@@ -4,10 +4,10 @@
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 356,
   "Ranking_Popularity": 481,
-  "Ranking_PopularitySum": 439,
+  "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -583,10 +583,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 140,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-12-29T11:57:48.2397739+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 160,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 140,
+  "NumberOfAwards": 160,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -619,11 +625,17 @@
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
       "Count": 20
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 20
     }
   ],
-  "EOS_Progressed": 6446,
+  "EOS_Progressed": 6447,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 479,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9601,6 +9613,11 @@
       "Time": "2023-12-29T11:04:58.7269188+00:00",
       "NumProgressed": 6446,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-29T12:05:03.7823249+00:00",
+      "NumProgressed": 6447,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10091,22 +10108,22 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6446,
+      "Progressed": 6447,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6446,
+      "Progressed": 6447,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2023-12-27T21:02:05.3548504+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:04:58.7269186+00:00",
+  "LastChanged": "2023-12-29T11:57:48.2397736+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:05:03.7823244+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:57:26.9409687+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:04:58.7269808+00:00"
+  "LastUpdate_Ratings": "2023-12-29T11:57:48.2397741+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:05:03.7823944+00:00"
 }

@@ -1536,9 +1536,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27082,
+  "EOS_Progressed": 27089,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 888,
+  "EOS_NewPlayers": 876,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -12266,6 +12266,11 @@
       "Time": "2023-12-29T11:09:54.8727356+00:00",
       "NumProgressed": 27082,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-29T12:09:54.900203+00:00",
+      "NumProgressed": 27089,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -12333,7 +12338,7 @@
       "Name": "For Justice",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "BossBridgeDefeated",
@@ -12341,7 +12346,7 @@
       "Name": "Captain and Crew",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -12405,7 +12410,7 @@
       "Name": "Harvest and Home",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -12469,7 +12474,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "EndTimerFail",
@@ -12525,7 +12530,7 @@
       "Name": "Good Boy!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "PrequelReveal",
@@ -12588,21 +12593,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27082,
+      "Progressed": 27089,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6012,
+      "Progressed": 6019,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-28T14:58:47.4806597+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:09:54.8727354+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:09:54.9002026+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.6659711+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:58:59.7904814+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:09:54.8727955+00:00"
+  "LastUpdate_Ratings": "2023-12-29T11:59:17.709792+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:09:54.9002663+00:00"
 }

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 119,
   "Ranking_PopularitySum": 148,
   "Ranking_EOS_Progress": 282,
-  "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 3787,
+  "Ranking_EOS_Completed": 276,
+  "Ranking_EOS_NewPlayers": 3788,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
@@ -3501,11 +3501,11 @@
       "Count": 189
     }
   ],
-  "EOS_Progressed": 1081,
+  "EOS_Progressed": 1082,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": -3,
+  "EOS_NewPlayers": -2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.19,
+  "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:37.752475+00:00",
@@ -3856,6 +3856,11 @@
       "Time": "2023-12-27T18:06:52.5759232+00:00",
       "NumProgressed": 1081,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-29T12:05:53.5144096+00:00",
+      "NumProgressed": 1082,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -3883,7 +3888,7 @@
       "Name": "Completed Act III",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_04",
@@ -4139,7 +4144,7 @@
       "Name": "Fish Guts and Murder",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_36",
@@ -4147,7 +4152,7 @@
       "Name": "Kickstarter Backer",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "achievement_37",
@@ -4250,15 +4255,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1081,
+      "Progressed": 1082,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2023-12-29T02:15:13.2135036+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:05:49.2484722+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:05:53.514409+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.660058+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:59:54.3800279+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:05:49.248508+00:00"
+  "LastUpdate_Ratings": "2023-12-29T12:00:10.3440644+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:05:53.5144617+00:00"
 }

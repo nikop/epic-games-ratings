@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5750,
+  "EOS_Progressed": 5751,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5033,6 +5033,11 @@
       "Time": "2023-12-29T09:05:17.4749991+00:00",
       "NumProgressed": 5750,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T12:05:19.757033+00:00",
+      "NumProgressed": 5751,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -5076,7 +5081,7 @@
       "Name": "Campaign: Lesson Learned",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ach_campaign_chapter2",
@@ -5140,7 +5145,7 @@
       "Name": "Level: Bet On Bots",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ach_campaign_progress4",
@@ -5332,7 +5337,7 @@
       "Name": "Bet On Bots: Inspector\u0027s Favorite",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ach_challenge_special1",
@@ -5412,7 +5417,7 @@
       "Name": "Modular Performance",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ach_frp_many_modules3",
@@ -5436,7 +5441,7 @@
       "Name": "Salesperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ach_frp_many_products3",
@@ -5588,7 +5593,7 @@
       "Name": "Trendsetter",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ach_prof_modules_analyzed",
@@ -5651,15 +5656,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5750,
+      "Progressed": 5751,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:05:15.3463195+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:05:19.7570321+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:01.9204048+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:58:16.7666623+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:05:15.3464119+00:00"
+  "LastUpdate_Ratings": "2023-12-29T11:58:36.5173761+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:05:19.7571167+00:00"
 }

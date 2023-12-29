@@ -6,8 +6,8 @@
   "Ranking_Popularity": 261,
   "Ranking_PopularitySum": 216,
   "Ranking_EOS_Progress": 34,
-  "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_Completed": 250,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -2922,9 +2922,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 542456,
+  "EOS_Progressed": 542459,
   "EOS_Completed": 1660,
-  "EOS_NewPlayers": 873,
+  "EOS_NewPlayers": 871,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -30942,6 +30942,11 @@
       "Time": "2023-12-29T11:06:20.7865546+00:00",
       "NumProgressed": 542456,
       "NumCompleted": 1660
+    },
+    {
+      "Time": "2023-12-29T12:06:24.6857491+00:00",
+      "NumProgressed": 542459,
+      "NumCompleted": 1660
     }
   ],
   "TotalAchievements": 37,
@@ -30953,7 +30958,7 @@
       "Name": "Branded",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 70519
+      "UsersEstimate": 70520
     },
     {
       "ID": "COASTROCK",
@@ -30969,7 +30974,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 168161
+      "UsersEstimate": 168162
     },
     {
       "ID": "DEVOTED",
@@ -31009,7 +31014,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 450238
+      "UsersEstimate": 450241
     },
     {
       "ID": "HONED",
@@ -31049,7 +31054,7 @@
       "Name": "Storied",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 32547
+      "UsersEstimate": 32548
     },
     {
       "ID": "THE_ALKYMANCERY",
@@ -31065,7 +31070,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 216982
+      "UsersEstimate": 216984
     },
     {
       "ID": "THE_CASTLE",
@@ -31081,7 +31086,7 @@
       "Name": "The Cave",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 43396
+      "UsersEstimate": 43397
     },
     {
       "ID": "THE_CONSTRUCT",
@@ -31089,7 +31094,7 @@
       "Name": "The Construct",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 32547
+      "UsersEstimate": 32548
     },
     {
       "ID": "THE_CRYPT",
@@ -31113,7 +31118,7 @@
       "Name": "The Forest",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 81368
+      "UsersEstimate": 81369
     },
     {
       "ID": "THE_IMPOSTER",
@@ -31145,7 +31150,7 @@
       "Name": "The Lake",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 32547
+      "UsersEstimate": 32548
     },
     {
       "ID": "THE_MIRE",
@@ -31185,7 +31190,7 @@
       "Name": "The Ruins",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 32547
+      "UsersEstimate": 32548
     },
     {
       "ID": "THE_SACRIFICE",
@@ -31209,7 +31214,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 347172
+      "UsersEstimate": 347174
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -31233,7 +31238,7 @@
       "Name": "The Ziggurat",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 43396
+      "UsersEstimate": 43397
     },
     {
       "ID": "WISE_WORDS",
@@ -31248,15 +31253,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 542456,
+      "Progressed": 542459,
       "Completed": 1660
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-12-29T02:18:19.1459779+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:06:20.7865544+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:06:24.6857485+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:32.7182261+00:00",
-  "LastUpdate_Ratings": "2023-12-29T11:02:44.9354222+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:06:20.7866744+00:00"
+  "LastUpdate_Ratings": "2023-12-29T12:02:49.02823+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:06:24.6858957+00:00"
 }

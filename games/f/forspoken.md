@@ -6,13 +6,13 @@ Rating: 4.11 (Ranked 996)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Attachments | 11.00% | ~5,013 |
-| Unlocked Potential | 10.00% | ~4,557 |
+| Unlocked Potential | 10.00% | ~4,558 |
 | Tinkerer | 8.00% | ~3,646 |
 | Leapfrogger | 7.00% | ~3,190 |
 | Knock 'Em Dead | 7.00% | ~3,190 |
 | Pilgrimage: Initiate | 7.00% | ~3,190 |
 | Hell of a Run | 7.00% | ~3,190 |
-| Call of the Fount: Baptized | 6.00% | ~2,734 |
+| Call of the Fount: Baptized | 6.00% | ~2,735 |
 | Stuck | 5.00% | ~2,279 |
 | No Mercy | 5.00% | ~2,279 |
 | Explorer: Seeker | 5.00% | ~2,279 |
@@ -22,12 +22,12 @@ Rating: 4.11 (Ranked 996)
 | The Interloper | 3.00% | ~1,367 |
 | Hop, Step, Jump | 3.00% | ~1,367 |
 | Endless Runner | 3.00% | ~1,367 |
-| What Must Be Done | 2.00% | ~911 |
-| Might and Main | 2.00% | ~911 |
-| Damned If You Do... | 2.00% | ~911 |
-| Explorer: Pathfinder | 2.00% | ~911 |
-| Shocker | 2.00% | ~911 |
-| From Every Angle | 2.00% | ~911 |
+| What Must Be Done | 2.00% | ~912 |
+| Might and Main | 2.00% | ~912 |
+| Damned If You Do... | 2.00% | ~912 |
+| Explorer: Pathfinder | 2.00% | ~912 |
+| Shocker | 2.00% | ~912 |
+| From Every Angle | 2.00% | ~912 |
 | The Hue of Blue | 1.00% | ~456 |
 | The Truth Will Out | 1.00% | ~456 |
 | Breaking Point | 1.00% | ~456 |
@@ -59,7 +59,7 @@ Rating: 4.11 (Ranked 996)
 | Remembrance | 0.10% | ~46 |
 | Cat Person | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,572 (Ranked 122)  
+Progressed: 45,577 (Ranked 122)  
 Completed: 3 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 3 (0.01%) (Ranked 367)
 | 2023-12-26 | 45,329 | 3 |
 | 2023-12-27 | 45,433 | 3 |
 | 2023-12-28 | 45,528 | 3 |
-| 2023-12-29 | 45,572 | 3 |
+| 2023-12-29 | 45,577 | 3 |
 ## Awards
 Max (Character Customization): 33  (Ranked 506)  
 Sum: 33 (Ranked 529)  

@@ -6,32 +6,32 @@ Rating: 4.48 (Ranked 647)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eat My Dust | 48.00% | ~1,480 |
-| First Love | 45.00% | ~1,387 |
+| First Love | 45.00% | ~1,388 |
 | Clean Race | 43.00% | ~1,326 |
 | Hear That Roar! | 41.00% | ~1,264 |
 | Rivals to the End | 30.00% | ~925 |
 | Bitter Rivalry | 29.00% | ~894 |
-| Champagne Spray | 28.00% | ~863 |
+| Champagne Spray | 28.00% | ~864 |
 | We're Going to Need a Bigger Garage | 26.00% | ~802 |
-| Quick Pit Stop | 21.00% | ~647 |
+| Quick Pit Stop | 21.00% | ~648 |
 | Restored and Ready | 20.00% | ~617 |
 | I Want One Too! | 20.00% | ~617 |
 | Legendary!!! | 19.00% | ~586 |
 | Go-Faster Stripes | 17.00% | ~524 |
-| I'm Here Too! | 15.00% | ~462 |
+| I'm Here Too! | 15.00% | ~463 |
 | We've Just Begun | 14.00% | ~432 |
-| Is It the Right Size? | 9.00% | ~277 |
+| Is It the Right Size? | 9.00% | ~278 |
 | Stamina Star | 8.00% | ~247 |
 | Evangelist | 6.00% | ~185 |
 | Make It Your Own! | 5.00% | ~154 |
 | Cherry Blossom and Temples | 4.00% | ~123 |
 | The Road to Liberty | 4.00% | ~123 |
-| Spoilt for Choice | 3.00% | ~92 |
-| La Dolce Vita | 3.00% | ~92 |
-| Romantic Races | 3.00% | ~92 |
-| I Make the Rules! | 3.00% | ~92 |
-| Rounding Off | 3.00% | ~92 |
-| My Work Here Is Done | 3.00% | ~92 |
+| Spoilt for Choice | 3.00% | ~93 |
+| La Dolce Vita | 3.00% | ~93 |
+| Romantic Races | 3.00% | ~93 |
+| I Make the Rules! | 3.00% | ~93 |
+| Rounding Off | 3.00% | ~93 |
+| My Work Here Is Done | 3.00% | ~93 |
 | Iconic! | 2.00% | ~62 |
 | I'll Be the Best! | 2.00% | ~62 |
 | Back in Blighty | 2.00% | ~62 |
@@ -40,7 +40,7 @@ Rating: 4.48 (Ranked 647)
 | Next Level | 1.00% | ~31 |
 | I Don't Stop | 1.00% | ~31 |
 | In Search of Perfection | 0.70% | ~22 |
-| Exhausted but Happy | 0.60% | ~18 |
+| Exhausted but Happy | 0.60% | ~19 |
 | Globe-trotter | 0.50% | ~15 |
 | Maximum Endurance | 0.20% | ~6 |
 | Breathtaking Views | 0.20% | ~6 |
@@ -55,7 +55,7 @@ Rating: 4.48 (Ranked 647)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,083 (Ranked 223)  
+Progressed: 3,084 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 3,019 | 0 |
 | 2023-12-27 | 3,044 | 0 |
 | 2023-12-28 | 3,069 | 0 |
-| 2023-12-29 | 3,083 | 0 |
+| 2023-12-29 | 3,084 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

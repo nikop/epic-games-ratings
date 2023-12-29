@@ -15,10 +15,10 @@
 | Bladesmith | 9.00% | ~11 |
 | The Guardian of Fire | 9.00% | ~11 |
 | Explorer | 7.00% | ~9 |
+| Sommelier | 6.00% | ~8 |
 | The River Styx | 6.00% | ~8 |
 | Sovereignty of Irons | 6.00% | ~8 |
 | Twin Thorns | 6.00% | ~8 |
-| Sommelier | 5.00% | ~6 |
 | Let Me Solo Them | 5.00% | ~6 |
 | A Sandwyrm's Hoard | 5.00% | ~6 |
 | Frigid Winds | 3.00% | ~4 |

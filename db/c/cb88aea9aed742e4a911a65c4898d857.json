@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -203,9 +203,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 8484,
+  "EOS_Progressed": 8493,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2291,
+  "EOS_NewPlayers": 2284,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2828,6 +2828,11 @@
       "Time": "2023-12-29T11:09:52.3022287+00:00",
       "NumProgressed": 8484,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T12:09:52.5086718+00:00",
+      "NumProgressed": 8493,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -2846,9 +2851,9 @@
       "ID": "03_TheStolenStar",
       "SetID": "37a94m8",
       "Name": "Stolen Star",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 59
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -2934,9 +2939,9 @@
       "ID": "14_TheBreezeOfPain",
       "SetID": "37a94m8",
       "Name": "Fear Not Obliteration",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 34
     },
     {
       "ID": "15_Pentakill",
@@ -2966,9 +2971,9 @@
       "ID": "18_TheRookieSkipper",
       "SetID": "37a94m8",
       "Name": "Rookie Skipper",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 59
     },
     {
       "ID": "19_TheVoidWolf",
@@ -3014,9 +3019,9 @@
       "ID": "24_TheHighrise",
       "SetID": "37a94m8",
       "Name": "Highrise",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "25_DynastyProspers",
@@ -3062,9 +3067,9 @@
       "ID": "30_The GreatestExploration",
       "SetID": "37a94m8",
       "Name": "Greatest Exploration",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 34
     },
     {
       "ID": "31_DontTouchThis",
@@ -3086,9 +3091,9 @@
       "ID": "33_TzeentchCleaning",
       "SetID": "37a94m8",
       "Name": "Cleening Out the Tzeentch",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 51
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -3166,9 +3171,9 @@
       "ID": "43_ThereIsNoPlaceLikeHome",
       "SetID": "37a94m8",
       "Name": "No Place Like Home",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 25
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -3359,7 +3364,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8484,
+      "Progressed": 8493,
       "Completed": 0
     }
   ],
@@ -3367,8 +3372,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-28T13:57:33.384002+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:09:52.3022285+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:09:52.5086713+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:57:47.3096388+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:09:52.3022964+00:00"
+  "LastUpdate_Ratings": "2023-12-29T11:58:07.9840852+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:09:52.5087235+00:00"
 }

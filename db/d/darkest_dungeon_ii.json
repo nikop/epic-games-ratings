@@ -10278,9 +10278,9 @@
       "Count": 1064
     }
   ],
-  "EOS_Progressed": 130502,
+  "EOS_Progressed": 130507,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1429,
+  "EOS_NewPlayers": 1423,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37343,6 +37343,11 @@
       "Time": "2023-12-29T11:09:35.0909415+00:00",
       "NumProgressed": 130502,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T12:09:35.7518731+00:00",
+      "NumProgressed": 130507,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37488,9 +37493,9 @@
       "ID": "combat_kill_cadavers",
       "SetID": "64l4lke",
       "Name": "Dissector",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2610
+      "UsersEstimate": 3915
     },
     {
       "ID": "combat_kill_cosmic",
@@ -37898,7 +37903,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -37978,28 +37983,28 @@
       "Name": "On This Long Road, We Found Redemption",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130502,
+      "Progressed": 130507,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5371,
+      "Progressed": 5376,
       "Completed": 813
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-29T09:00:16.4486808+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:09:35.0909414+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:09:35.7518724+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:59:58.8051544+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:09:35.0911118+00:00"
+  "LastUpdate_Ratings": "2023-12-29T12:00:14.6682978+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:09:35.7520796+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "8912b079197744f58b41915923cc8da1",
   "Name": "The Light in the Darkness",
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
-  "Ranking_EOS_Progress": 227,
+  "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2813,
+  "EOS_Progressed": 2815,
   "EOS_Completed": 259,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 9.21,
+  "EOS_Completed_Percentage": 9.2,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -8051,6 +8051,11 @@
       "Time": "2023-12-28T19:09:34.717083+00:00",
       "NumProgressed": 2813,
       "NumCompleted": 259
+    },
+    {
+      "Time": "2023-12-29T12:09:11.5511855+00:00",
+      "NumProgressed": 2815,
+      "NumCompleted": 259
     }
   ],
   "TotalAchievements": 12,
@@ -8086,7 +8091,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "Jacques a Dit",
@@ -8094,7 +8099,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 38,
       "XP": 40,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "Jakob",
@@ -8126,7 +8131,7 @@
       "Name": "Little Helper",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -8142,7 +8147,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "Nuremberg Laws",
@@ -8157,7 +8162,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2813,
+      "Progressed": 2815,
       "Completed": 259
     }
   ],
@@ -8165,8 +8170,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:09:10.1297681+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:09:11.551185+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:14.8198815+00:00",
-  "LastUpdate_Ratings": "2023-12-29T11:02:36.4312208+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:09:10.1298123+00:00"
+  "LastUpdate_Ratings": "2023-12-29T12:00:40.4493892+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:09:11.5512283+00:00"
 }

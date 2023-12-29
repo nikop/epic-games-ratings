@@ -2047,9 +2047,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 17370,
+  "EOS_Progressed": 17373,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 1284,
+  "EOS_NewPlayers": 1276,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -18102,6 +18102,11 @@
       "Time": "2023-12-29T11:09:58.6352941+00:00",
       "NumProgressed": 17370,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-12-29T12:09:58.5278446+00:00",
+      "NumProgressed": 17373,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 35,
@@ -18113,7 +18118,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 14070
+      "UsersEstimate": 14072
     },
     {
       "ID": "ACH02",
@@ -18169,7 +18174,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 8685
+      "UsersEstimate": 8686
     },
     {
       "ID": "ACH09",
@@ -18193,7 +18198,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "ACH12",
@@ -18233,7 +18238,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2779
+      "UsersEstimate": 2780
     },
     {
       "ID": "ACH17",
@@ -18257,7 +18262,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "ACH20",
@@ -18289,7 +18294,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4342
+      "UsersEstimate": 4343
     },
     {
       "ID": "ACH24",
@@ -18392,7 +18397,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 17370,
+      "Progressed": 17373,
       "Completed": 64
     }
   ],
@@ -18400,8 +18405,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-29T03:58:42.7564712+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:09:58.6352939+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:09:58.5278441+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:16.9169269+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:58:38.5909243+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:09:58.6353708+00:00"
+  "LastUpdate_Ratings": "2023-12-29T11:58:57.308641+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:09:58.5280431+00:00"
 }

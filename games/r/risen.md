@@ -23,8 +23,8 @@ Rating: 4.55 (Ranked 521)
 | Death of a legend | 19.00% | ~26 |
 | Archaeologist | 19.00% | ~26 |
 | Ogre friend | 19.00% | ~26 |
+| Wise man | 18.00% | ~24 |
 | Sidelined | 18.00% | ~24 |
-| Wise man | 17.00% | ~23 |
 | Little hero | 17.00% | ~23 |
 | Hard worker | 17.00% | ~23 |
 | The fourth triplet | 17.00% | ~23 |

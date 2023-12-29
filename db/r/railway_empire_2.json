@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2564,
+  "EOS_Progressed": 2565,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7366,6 +7366,11 @@
       "Time": "2023-12-29T11:04:00.3482211+00:00",
       "NumProgressed": 2564,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T12:04:04.8446711+00:00",
+      "NumProgressed": 2565,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -7441,7 +7446,7 @@
       "Name": "Conductor",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "A09",
@@ -7457,7 +7462,7 @@
       "Name": "From X to Y",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "A11",
@@ -7473,7 +7478,7 @@
       "Name": "Departure",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "A13",
@@ -7481,7 +7486,7 @@
       "Name": "Seven at one stroke",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "A14",
@@ -7489,7 +7494,7 @@
       "Name": "A new Journey",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1923
+      "UsersEstimate": 1924
     },
     {
       "ID": "A15",
@@ -7553,7 +7558,7 @@
       "Name": "Brainstorm",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1692
+      "UsersEstimate": 1693
     },
     {
       "ID": "A23",
@@ -7665,7 +7670,7 @@
       "Name": "Way of Iron",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1820
+      "UsersEstimate": 1821
     },
     {
       "ID": "A37",
@@ -7673,7 +7678,7 @@
       "Name": "All around the World",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1616
     },
     {
       "ID": "A38",
@@ -7697,7 +7702,7 @@
       "Name": "Mind the Gap",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1692
+      "UsersEstimate": 1693
     },
     {
       "ID": "A41",
@@ -7721,7 +7726,7 @@
       "Name": "Mole",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "A44",
@@ -7753,7 +7758,7 @@
       "Name": "Travel Company",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1692
+      "UsersEstimate": 1693
     },
     {
       "ID": "A48",
@@ -7761,7 +7766,7 @@
       "Name": "Bull and bear",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "A49",
@@ -7816,7 +7821,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2564,
+      "Progressed": 2565,
       "Completed": 0
     }
   ],
@@ -7824,8 +7829,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-27T17:00:03.776976+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:04:00.348221+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:04:04.8446705+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:12.6153541+00:00",
-  "LastUpdate_Ratings": "2023-12-29T11:00:21.7622684+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:04:00.3482775+00:00"
+  "LastUpdate_Ratings": "2023-12-29T12:00:37.2461171+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:04:04.8447348+00:00"
 }

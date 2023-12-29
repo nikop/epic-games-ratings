@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2309,
+  "EOS_Progressed": 2310,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6539,6 +6539,11 @@
       "Time": "2023-12-29T11:10:10.8912153+00:00",
       "NumProgressed": 2309,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T12:10:10.1791613+00:00",
+      "NumProgressed": 2310,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6615,7 +6620,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "achievement_18",
@@ -6775,7 +6780,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 2032
+      "UsersEstimate": 2033
     },
     {
       "ID": "achievement_36",
@@ -6783,7 +6788,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "achievement_37",
@@ -6831,7 +6836,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "achievement_42",
@@ -6855,7 +6860,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "achievement_45",
@@ -6959,7 +6964,7 @@
       "Name": "Support the troops",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "achievement_57",
@@ -6991,7 +6996,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "achievement_60",
@@ -7054,13 +7059,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2309,
+      "Progressed": 2310,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2309,
+      "Progressed": 2310,
       "Completed": 1
     }
   ],
@@ -7068,8 +7073,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:10:10.891215+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:10:10.1791612+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.4116758+00:00",
-  "LastUpdate_Ratings": "2023-12-29T11:02:46.2534089+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:10:10.8913071+00:00"
+  "LastUpdate_Ratings": "2023-12-29T12:02:50.3015019+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:10:10.1792324+00:00"
 }

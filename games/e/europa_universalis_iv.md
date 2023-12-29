@@ -10,9 +10,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Army | 0.40% | ~1,947 |
 | That is mine! | 0.40% | ~1,947 |
 | Victorious! | 0.40% | ~1,947 |
-| Brothers in Arms | 0.30% | ~1,460 |
-| That's a Grand Navy | 0.30% | ~1,460 |
-| Seriously?! | 0.30% | ~1,460 |
+| Brothers in Arms | 0.30% | ~1,461 |
+| That's a Grand Navy | 0.30% | ~1,461 |
+| Seriously?! | 0.30% | ~1,461 |
 | Cold War | 0.20% | ~974 |
 | Defender of the Faith | 0.20% | ~974 |
 | For the Glory | 0.20% | ~974 |
@@ -46,6 +46,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | An early Reich | 0.10% | ~487 |
 | An Unlikely Candidate | 0.10% | ~487 |
 | Anglophile | 0.10% | ~487 |
+| The Animal Kingdom | 0.10% | ~487 |
 | Arabian Coffee | 0.10% | ~487 |
 | Assembly Instructions Needed | 0.10% | ~487 |
 | At every continent | 0.10% | ~487 |
@@ -120,6 +121,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | From Humble Origins | 0.10% | ~487 |
 | Fugger Banking | 0.10% | ~487 |
 | Full House | 0.10% | ~487 |
+| Ganges Khan | 0.10% | ~487 |
 | Gentle Persuasion | 0.10% | ~487 |
 | Georgia on my Mind | 0.10% | ~487 |
 | Global Hegemony | 0.10% | ~487 |
@@ -318,7 +320,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Restore the Pentarchy | 0.10% | ~487 |
 | The Last Crusade | 0.10% | ~487 |
 | Truly Good Maaaaa-tch | 0.10% | ~487 |
-| The Animal Kingdom | 0.00% | ~0 |
 | Around the World in 80 Years | 0.00% | ~0 |
 | Barbarossa | 0.00% | ~0 |
 | Crossing the Finnish Line | 0.00% | ~0 |
@@ -328,7 +329,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Fezzan Corridors | 0.00% | ~0 |
 | For Odin! | 0.00% | ~0 |
 | Frozen Assets | 0.00% | ~0 |
-| Ganges Khan | 0.00% | ~0 |
 | Gothic Invasion | 0.00% | ~0 |
 | Great Moravia | 0.00% | ~0 |
 | Great Perm | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 486,800 (Ranked 40)  
+Progressed: 486,835 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -623,7 +623,7 @@ Completed: 1 (0.00%) (Ranked 389)
 | 2023-12-26 | 484,953 | 1 |
 | 2023-12-27 | 485,786 | 1 |
 | 2023-12-28 | 486,523 | 1 |
-| 2023-12-29 | 486,800 | 1 |
+| 2023-12-29 | 486,835 | 1 |
 ## Awards
 Max (Educational): 7,601  (Ranked 54)  
 Sum: 62,721 (Ranked 24)  

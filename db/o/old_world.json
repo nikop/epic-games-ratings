@@ -2202,9 +2202,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16001,
+  "EOS_Progressed": 16002,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18522,6 +18522,11 @@
       "Time": "2023-12-29T11:10:14.208989+00:00",
       "NumProgressed": 16001,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-29T12:10:13.6819164+00:00",
+      "NumProgressed": 16002,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -18883,9 +18888,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ARCHITECT",
       "SetID": "9201eeb",
       "Name": "Architect",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -20339,9 +20344,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
       "SetID": "7l38kb8",
       "Name": "Babylonian Paganism",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
@@ -20523,9 +20528,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_MYTHOLOGY",
       "SetID": "7l38kb8",
       "Name": "Mythology",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_REDEMPTION",
@@ -21396,21 +21401,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16001,
+      "Progressed": 16002,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16001,
+      "Progressed": 16002,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-27T17:03:20.9753221+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:10:14.2089888+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:10:13.681916+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:47.5878363+00:00",
-  "LastUpdate_Ratings": "2023-12-29T11:02:55.9579742+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:10:14.2100169+00:00"
+  "LastUpdate_Ratings": "2023-12-29T12:02:59.7565624+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:10:13.6828933+00:00"
 }

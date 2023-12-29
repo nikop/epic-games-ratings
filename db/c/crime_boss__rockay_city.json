@@ -4,8 +4,8 @@
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 1046,
   "Ranking_Popularity": 208,
-  "Ranking_PopularitySum": 191,
-  "Ranking_EOS_Progress": 97,
+  "Ranking_PopularitySum": 190,
+  "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 147,
@@ -5233,10 +5233,16 @@
       "Rating": 3.95,
       "NumberOfAwards": 2756,
       "NumberOfAwardsMax": 583
+    },
+    {
+      "Time": "2023-12-29T11:58:32.5997337+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 2758,
+      "NumberOfAwardsMax": 583
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2756,
+  "NumberOfAwards": 2758,
   "NumberOfAwardsMax": 583,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5280,7 +5286,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 559
+      "Count": 561
     },
     {
       "Text": "This game has a Silly Community",
@@ -5297,7 +5303,7 @@
   ],
   "EOS_Progressed": 92670,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -29941,9 +29947,9 @@
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-12-29T08:58:31.9754168+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:06:09.346775+00:00",
+  "LastChanged": "2023-12-29T11:58:32.5997336+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:06:13.3165046+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:55.2021168+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:58:12.6190144+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:06:09.3469247+00:00"
+  "LastUpdate_Ratings": "2023-12-29T11:58:32.599741+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:06:13.3166278+00:00"
 }

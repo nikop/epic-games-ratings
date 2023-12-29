@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 556,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1870,9 +1870,9 @@
       "ID": "REMAKE_001",
       "SetID": "5pi96jj",
       "Name": "Turn a Rat into a Snack",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 172
     },
     {
       "ID": "REMAKE_002",
@@ -2045,8 +2045,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:05:52.6211161+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:05:56.7937471+00:00",
   "LastUpdate_AppInfo": "2023-12-26T02:16:12.1403657+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:59:17.3796288+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:05:52.6211446+00:00"
+  "LastUpdate_Ratings": "2023-12-29T11:59:34.7783698+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:05:56.7937707+00:00"
 }

@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 802,
+  "EOS_Progressed": 803,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.25,
   "EosHistory": [
@@ -2750,6 +2750,11 @@
       "Time": "2023-12-29T11:08:52.9884614+00:00",
       "NumProgressed": 802,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-29T12:08:54.2977813+00:00",
+      "NumProgressed": 803,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2770,7 +2775,7 @@
       "Name": "Establish Communications",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ACH_eou2",
@@ -2786,7 +2791,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_eou4",
@@ -2794,7 +2799,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_eou5",
@@ -2802,7 +2807,7 @@
       "Name": "Shut Down Processing Plant",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_eou6",
@@ -2810,7 +2815,7 @@
       "Name": "Destroy Strogg Main Reactor",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_eou7",
@@ -2818,7 +2823,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_eou8",
@@ -2865,14 +2870,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 802,
+      "Progressed": 803,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:08:52.9884612+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:08:54.2977807+00:00",
   "LastUpdate_AppInfo": "2023-12-29T06:57:16.3144275+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:57:21.1492051+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:08:52.9884871+00:00"
+  "LastUpdate_Ratings": "2023-12-29T11:57:42.1579015+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:08:54.2978009+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "e4cb896c77f842a3a75d2a19165f4ce5",
   "Name": "Dolmenjord - Viking Islands",
   "ProductSlug": "dolmenjord-viking-islands-965b06",
-  "Ranking_EOS_Progress": 311,
+  "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -2177,9 +2177,9 @@
       "ID": "LEVEL_006",
       "SetID": "7jk5g4e",
       "Name": "Market",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 95,
-      "UsersEstimate": 422
+      "UsersEstimate": 429
     },
     {
       "ID": "LEVEL_012",
@@ -2248,8 +2248,8 @@
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:09:24.9487314+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:09:26.3053535+00:00",
   "LastUpdate_AppInfo": "2023-12-26T05:57:26.5905913+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:57:14.0931913+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:09:24.9487533+00:00"
+  "LastUpdate_Ratings": "2023-12-29T11:57:35.1487745+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:09:26.3053691+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 462,
+  "Ranking_Rating": 461,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19195,
+  "EOS_Progressed": 19197,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14199,6 +14199,11 @@
       "Time": "2023-12-29T09:06:07.7459824+00:00",
       "NumProgressed": 19195,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-29T12:06:09.8374674+00:00",
+      "NumProgressed": 19197,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14210,7 +14215,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5758
+      "UsersEstimate": 5759
     },
     {
       "ID": "0002",
@@ -14298,7 +14303,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3071
+      "UsersEstimate": 3072
     },
     {
       "ID": "0013",
@@ -14314,7 +14319,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3071
+      "UsersEstimate": 3072
     },
     {
       "ID": "0015",
@@ -14410,7 +14415,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2303
+      "UsersEstimate": 2304
     },
     {
       "ID": "0027",
@@ -14418,7 +14423,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2111
+      "UsersEstimate": 2112
     },
     {
       "ID": "0028",
@@ -14434,7 +14439,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2495
+      "UsersEstimate": 2496
     },
     {
       "ID": "0030",
@@ -14450,7 +14455,7 @@
       "Name": "Private Collection",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2111
+      "UsersEstimate": 2112
     },
     {
       "ID": "0032",
@@ -14458,7 +14463,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2111
+      "UsersEstimate": 2112
     },
     {
       "ID": "0033",
@@ -14466,7 +14471,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2111
+      "UsersEstimate": 2112
     },
     {
       "ID": "0034",
@@ -14474,7 +14479,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2303
+      "UsersEstimate": 2304
     },
     {
       "ID": "0035",
@@ -14497,7 +14502,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19195,
+      "Progressed": 19197,
       "Completed": 4
     }
   ],
@@ -14505,8 +14510,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:06:05.627102+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:06:09.8374668+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:06.2352565+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:58:21.9809714+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:06:05.6271968+00:00"
+  "LastUpdate_Ratings": "2023-12-29T11:58:41.6507695+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:06:09.8375643+00:00"
 }

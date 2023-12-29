@@ -554,9 +554,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "ae95dh3",
       "Name": "Child of the Shadows",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -690,9 +690,9 @@
       "ID": "NEW_ACHIEVEMENT_1_29",
       "SetID": "ae95dh3",
       "Name": "Dust to Dust",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -738,9 +738,9 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "ae95dh3",
       "Name": "Mint Condition",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -817,8 +817,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:08:19.2393916+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:06:31.849882+00:00",
   "LastUpdate_AppInfo": "2023-12-27T16:57:17.5447439+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:57:48.9628348+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:08:19.2394253+00:00"
+  "LastUpdate_Ratings": "2023-12-29T11:58:09.4921043+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:06:31.8499258+00:00"
 }

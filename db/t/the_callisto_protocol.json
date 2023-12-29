@@ -1889,9 +1889,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 19851,
+  "EOS_Progressed": 19852,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1297,
+  "EOS_NewPlayers": 1288,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -11654,6 +11654,11 @@
       "Time": "2023-12-29T11:09:31.8942336+00:00",
       "NumProgressed": 19851,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-29T12:09:33.114212+00:00",
+      "NumProgressed": 19852,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -11823,9 +11828,9 @@
       "ID": "PERFECT_DODGE_MULTIPLE",
       "SetID": "4hj6d86",
       "Name": "Float Like A Butterfly",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2581
+      "UsersEstimate": 2779
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -12040,13 +12045,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 19851,
+      "Progressed": 19852,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 7777,
+      "Progressed": 7778,
       "Completed": 29
     }
   ],
@@ -12054,8 +12059,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-28T17:03:38.8993186+00:00",
-  "LastChanged_Achievements": "2023-12-29T11:09:31.8942333+00:00",
+  "LastChanged_Achievements": "2023-12-29T12:09:33.1142114+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3019969+00:00",
-  "LastUpdate_Ratings": "2023-12-29T11:03:08.4721067+00:00",
-  "LastUpdate_Achievements": "2023-12-29T11:09:31.89432+00:00"
+  "LastUpdate_Ratings": "2023-12-29T12:03:12.2285801+00:00",
+  "LastUpdate_Achievements": "2023-12-29T12:09:33.1142963+00:00"
 }
