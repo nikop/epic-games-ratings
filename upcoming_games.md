@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Burst Hero](games/c/c923cc91073d4405bd8d2f356066bfbd.md) | 2023-12-29 | 69 (1,000 XP) | 1 | - | - |
 | [Team Disorder](games/9/9c9cc8a992404fb8925827eed7a7f500.md) | 2023-12-29 | - |  | - | - |
 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 2023-12-29 | 15 (1,000 XP) | 1 | - | - |
 | [Sakura Day 2 Mahjong](games/c/ca3057f83651427394eb172a4addc286.md) | 2023-12-30 | - |  | - | - |
