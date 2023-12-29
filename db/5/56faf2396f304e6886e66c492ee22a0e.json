@@ -466,9 +466,9 @@
       "ID": "ACHIEVEMENT_Suave",
       "SetID": "70j9o42",
       "Name": "Master Of Love",
-      "Percentage": 39,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_Team_Fumi",
@@ -513,8 +513,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-12-29T09:03:26.1631703+00:00",
+  "LastChanged_Achievements": "2023-12-29T10:03:22.429328+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:53.2158921+00:00",
-  "LastUpdate_Ratings": "2023-12-29T09:00:10.2276604+00:00",
-  "LastUpdate_Achievements": "2023-12-29T09:03:26.1637632+00:00"
+  "LastUpdate_Ratings": "2023-12-29T10:00:05.455852+00:00",
+  "LastUpdate_Achievements": "2023-12-29T10:03:22.429359+00:00"
 }

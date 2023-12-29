@@ -5,7 +5,7 @@ Rating: 4.08 (Ranked 1,002)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 57.00% | ~813 |
+| Break Out | 58.00% | ~828 |
 | Trinity | 28.00% | ~400 |
 | A Taste of Wrath | 22.00% | ~314 |
 | Find Allies | 21.00% | ~300 |

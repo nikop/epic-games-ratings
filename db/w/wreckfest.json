@@ -331,7 +331,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 511,
+  "EOS_Progressed": 512,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 0,
@@ -1406,6 +1406,11 @@
       "Time": "2023-12-29T09:08:56.2540702+00:00",
       "NumProgressed": 511,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T10:08:33.3267541+00:00",
+      "NumProgressed": 512,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1426,7 +1431,7 @@
       "Name": "Highballer",
       "Percentage": 39,
       "XP": 90,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "CareerChamp1",
@@ -1450,7 +1455,7 @@
       "Name": "Challengers Champion",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "CareerChamp4",
@@ -1474,7 +1479,7 @@
       "Name": "Storm Warning",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "CollectVehiclesA",
@@ -1577,7 +1582,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 511,
+      "Progressed": 512,
       "Completed": 0
     }
   ],
@@ -1585,8 +1590,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-28T22:58:24.1175943+00:00",
-  "LastChanged_Achievements": "2023-12-29T09:08:56.2540698+00:00",
+  "LastChanged_Achievements": "2023-12-29T10:08:33.3267537+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-29T08:58:10.2154866+00:00",
-  "LastUpdate_Achievements": "2023-12-29T09:08:56.2540879+00:00"
+  "LastUpdate_Ratings": "2023-12-29T09:58:05.4812835+00:00",
+  "LastUpdate_Achievements": "2023-12-29T10:08:33.3267707+00:00"
 }

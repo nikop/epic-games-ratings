@@ -2,7 +2,7 @@
   "ID": "bd1047eb76fd4fd490fcb8f668e5deda",
   "Name": "ToeJam \u0026 Earl: Back in the Groove!",
   "ProductSlug": "toejam-and-earl-back-in-the-groove-cddc16",
-  "Ranking_Rating": 840,
+  "Ranking_Rating": 841,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 118,
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58500,
+  "EOS_Progressed": 58501,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14951,6 +14951,11 @@
       "Time": "2023-12-29T09:04:07.4962126+00:00",
       "NumProgressed": 58500,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-29T10:04:04.8703779+00:00",
+      "NumProgressed": 58501,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -14962,7 +14967,7 @@
       "Name": "Achievement Achiever",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "BackerVisitor",
@@ -14986,7 +14991,7 @@
       "Name": "Boom Box Wipeout",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "CantBelieve",
@@ -14994,7 +14999,7 @@
       "Name": "I Can\u0027t Believe I\u0027ve Done This",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "CantTouchThis",
@@ -15002,7 +15007,7 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ElfChaser",
@@ -15066,7 +15071,7 @@
       "Name": "Found All The Backers!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "FunklordPower",
@@ -15074,7 +15079,7 @@
       "Name": "FunkLord Power",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Generous",
@@ -15090,7 +15095,7 @@
       "Name": "Gotta Get \u0027Em All",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "GimmieMyPresentBack",
@@ -15130,7 +15135,7 @@
       "Name": "Is This Really Possible?",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "LevelDiver",
@@ -15154,7 +15159,7 @@
       "Name": "Lord Of The HFZ",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "MadHatter",
@@ -15162,7 +15167,7 @@
       "Name": "Mad Hatter",
       "Percentage": 0.1,
       "XP": 70,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "MadeIt",
@@ -15178,7 +15183,7 @@
       "Name": "99 Problems (But A Buck Ain\u0027t One)",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "NinePlayers",
@@ -15202,7 +15207,7 @@
       "Name": "Pacifist Victory",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "PieceOfCake",
@@ -15210,7 +15215,7 @@
       "Name": "Piece O\u0027 Cake",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "Randomizer",
@@ -15226,7 +15231,7 @@
       "Name": "Rhythm Star",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "RiskTaker",
@@ -15250,7 +15255,7 @@
       "Name": "Cleaning Out Santa\u0027s Sack",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "SecretLevel",
@@ -15282,7 +15287,7 @@
       "Name": "Teamwork Rules",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "TheWorstPossibleLuck",
@@ -15338,7 +15343,7 @@
       "Name": "Why Do I Keep Doing That?",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "YouDidIt",
@@ -15346,14 +15351,14 @@
       "Name": "Hey, You Did It!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     }
   ],
   "AchievementSets": [
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58500,
+      "Progressed": 58501,
       "Completed": 6
     }
   ],
@@ -15361,8 +15366,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-12-29T09:04:07.4962123+00:00",
+  "LastChanged_Achievements": "2023-12-29T10:04:04.8703777+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:13.3776759+00:00",
-  "LastUpdate_Ratings": "2023-12-29T09:00:38.0202533+00:00",
-  "LastUpdate_Achievements": "2023-12-29T09:04:07.496304+00:00"
+  "LastUpdate_Ratings": "2023-12-29T10:00:32.9619153+00:00",
+  "LastUpdate_Achievements": "2023-12-29T10:04:04.8704563+00:00"
 }

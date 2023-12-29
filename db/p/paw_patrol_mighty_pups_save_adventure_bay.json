@@ -547,9 +547,9 @@
       "ID": "9",
       "SetID": "38ide56",
       "Name": "Adventure Bay\u2019s Citizen",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
@@ -564,8 +564,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-12-29T09:05:35.8905812+00:00",
+  "LastChanged_Achievements": "2023-12-29T10:05:34.4937724+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:35.6397047+00:00",
-  "LastUpdate_Ratings": "2023-12-29T08:57:58.9836287+00:00",
-  "LastUpdate_Achievements": "2023-12-29T09:05:35.8905958+00:00"
+  "LastUpdate_Ratings": "2023-12-29T09:57:53.759963+00:00",
+  "LastUpdate_Achievements": "2023-12-29T10:05:34.4938129+00:00"
 }

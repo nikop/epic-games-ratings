@@ -95,7 +95,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2113,
+  "EOS_Progressed": 2114,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
@@ -8115,6 +8115,11 @@
       "Time": "2023-12-29T09:04:24.0107872+00:00",
       "NumProgressed": 2113,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T10:04:22.1172127+00:00",
+      "NumProgressed": 2114,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8246,7 +8251,7 @@
       "Name": "Sergeant",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -8429,7 +8434,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2113,
+      "Progressed": 2114,
       "Completed": 1
     }
   ],
@@ -8437,8 +8442,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2023-12-29T09:04:24.0107868+00:00",
+  "LastChanged_Achievements": "2023-12-29T10:04:22.1172123+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:02.8789919+00:00",
-  "LastUpdate_Ratings": "2023-12-29T09:00:08.7455777+00:00",
-  "LastUpdate_Achievements": "2023-12-29T09:04:24.0108387+00:00"
+  "LastUpdate_Ratings": "2023-12-29T10:00:04.0529253+00:00",
+  "LastUpdate_Achievements": "2023-12-29T10:04:22.1172631+00:00"
 }

@@ -661,9 +661,9 @@
       "ID": "dl1",
       "SetID": "b1ggf28",
       "Name": "Clear Road",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 85
     },
     {
       "ID": "dl2",
@@ -909,9 +909,9 @@
       "ID": "r2",
       "SetID": "b1ggf28",
       "Name": "A Welcoming Settlement",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "r3",
@@ -1044,8 +1044,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-29T09:08:24.1882879+00:00",
+  "LastChanged_Achievements": "2023-12-29T10:06:31.6342938+00:00",
   "LastUpdate_AppInfo": "2023-12-27T04:56:58.3049887+00:00",
-  "LastUpdate_Ratings": "2023-12-29T09:03:01.6819263+00:00",
-  "LastUpdate_Achievements": "2023-12-29T09:08:24.1883482+00:00"
+  "LastUpdate_Ratings": "2023-12-29T10:02:56.0486429+00:00",
+  "LastUpdate_Achievements": "2023-12-29T10:06:31.6343265+00:00"
 }

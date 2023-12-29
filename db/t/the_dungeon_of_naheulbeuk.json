@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1611,9 +1611,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 245296,
+  "EOS_Progressed": 245301,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1333,
+  "EOS_NewPlayers": 1334,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24111,6 +24111,11 @@
       "Time": "2023-12-29T09:10:09.280247+00:00",
       "NumProgressed": 245296,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-29T10:09:47.3080735+00:00",
+      "NumProgressed": 245301,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -24570,7 +24575,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 88307
+      "UsersEstimate": 88308
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -24714,7 +24719,7 @@
       "Name": "It\u0027s been a hard day\u0027s night",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "QuestMinstrel",
@@ -24825,21 +24830,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 245296,
+      "Progressed": 245301,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 245296,
+      "Progressed": 245301,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-29T04:57:48.9827291+00:00",
-  "LastChanged_Achievements": "2023-12-29T09:10:09.2802466+00:00",
+  "LastChanged_Achievements": "2023-12-29T10:09:47.3080732+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:14.8119134+00:00",
-  "LastUpdate_Ratings": "2023-12-29T08:57:50.3403773+00:00",
-  "LastUpdate_Achievements": "2023-12-29T09:10:09.2803991+00:00"
+  "LastUpdate_Ratings": "2023-12-29T09:57:45.2846221+00:00",
+  "LastUpdate_Achievements": "2023-12-29T10:09:47.3082242+00:00"
 }

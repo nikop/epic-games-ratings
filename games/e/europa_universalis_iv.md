@@ -13,13 +13,13 @@ Number of Ratings: 8,414  (23.09.2022)
 | Brothers in Arms | 0.30% | ~1,460 |
 | That's a Grand Navy | 0.30% | ~1,460 |
 | Seriously?! | 0.30% | ~1,460 |
-| Cold War | 0.20% | ~973 |
-| Defender of the Faith | 0.20% | ~973 |
-| For the Glory | 0.20% | ~973 |
-| It's all about the money | 0.20% | ~973 |
-| Respected | 0.20% | ~973 |
-| The Princess is in this Castle | 0.20% | ~973 |
-| True Catholic | 0.20% | ~973 |
+| Cold War | 0.20% | ~974 |
+| Defender of the Faith | 0.20% | ~974 |
+| For the Glory | 0.20% | ~974 |
+| It's all about the money | 0.20% | ~974 |
+| Respected | 0.20% | ~974 |
+| The Princess is in this Castle | 0.20% | ~974 |
+| True Catholic | 0.20% | ~974 |
 | The 52 Garhs | 0.10% | ~487 |
 | I don't like sand | 0.10% | ~487 |
 | A Blessed Nation | 0.10% | ~487 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 486,738 (Ranked 40)  
+Progressed: 486,768 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -623,7 +623,7 @@ Completed: 1 (0.00%) (Ranked 389)
 | 2023-12-26 | 484,953 | 1 |
 | 2023-12-27 | 485,786 | 1 |
 | 2023-12-28 | 486,523 | 1 |
-| 2023-12-29 | 486,738 | 1 |
+| 2023-12-29 | 486,768 | 1 |
 ## Awards
 Max (Educational): 7,601  (Ranked 54)  
 Sum: 62,721 (Ranked 24)  

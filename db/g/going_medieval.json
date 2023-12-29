@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1563,10 +1563,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 1052,
       "NumberOfAwardsMax": 133
+    },
+    {
+      "Time": "2023-12-29T10:00:37.314082+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1053,
+      "NumberOfAwardsMax": 133
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1052,
+  "NumberOfAwards": 1053,
   "NumberOfAwardsMax": 133,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1598,7 +1604,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 101
+      "Count": 102
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1643,9 +1649,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 7592,
+  "EOS_Progressed": 7593,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -15653,6 +15659,11 @@
       "Time": "2023-12-29T06:08:46.2419689+00:00",
       "NumProgressed": 7592,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-29T10:03:23.1731554+00:00",
+      "NumProgressed": 7593,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -15664,7 +15675,7 @@
       "Name": "Get A Room",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5770
+      "UsersEstimate": 5771
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -15704,7 +15715,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5770
+      "UsersEstimate": 5771
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -15712,7 +15723,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5542
+      "UsersEstimate": 5543
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -15784,7 +15795,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 4707
+      "UsersEstimate": 4708
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -15808,7 +15819,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3340
+      "UsersEstimate": 3341
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -15824,15 +15835,15 @@
       "Name": "The First Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 5314
+      "UsersEstimate": 5315
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
       "SetID": "5349c2e",
       "Name": "...And Don\u2019t Come Back!",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 3265
+      "UsersEstimate": 3189
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -15840,7 +15851,7 @@
       "Name": "Heating Up",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2506
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -15862,9 +15873,9 @@
       "ID": "SURVIVE_SEVEN_DAY",
       "SetID": "5349c2e",
       "Name": "The First Week",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 4252
+      "UsersEstimate": 4176
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -15880,7 +15891,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 3416
+      "UsersEstimate": 3417
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -15896,7 +15907,7 @@
       "Name": "Onward",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 4403
+      "UsersEstimate": 4404
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -15911,15 +15922,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7592,
+      "Progressed": 7593,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
-  "LastChanged": "2023-12-21T23:02:58.0023012+00:00",
-  "LastChanged_Achievements": "2023-12-29T09:03:26.8193638+00:00",
+  "LastChanged": "2023-12-29T10:00:37.3140819+00:00",
+  "LastChanged_Achievements": "2023-12-29T10:03:23.1731552+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:15.6112107+00:00",
-  "LastUpdate_Ratings": "2023-12-29T09:00:42.2788175+00:00",
-  "LastUpdate_Achievements": "2023-12-29T09:03:26.8194846+00:00"
+  "LastUpdate_Ratings": "2023-12-29T10:00:37.3140824+00:00",
+  "LastUpdate_Achievements": "2023-12-29T10:03:23.1732396+00:00"
 }

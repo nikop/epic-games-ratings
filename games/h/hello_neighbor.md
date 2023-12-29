@@ -1,7 +1,7 @@
 # Hello Neighbor
 [Store](https://store.epicgames.com/en-US/p/hello-neighbor)  
 [View Rawdata](../../db/h/hello_neighbor.json)  
-Rating: 4.57 (Ranked 490)  
+Rating: 4.58 (Ranked 461)  
 Number of Ratings: 1,166  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 367  (Ranked 243)  
@@ -360,3 +360,4 @@ Diff (max vs sum): 39
 | 2023-12-26 | 4.57 | - | 365 | 2,357 |
 | 2023-12-27 | 4.57 | - | 366 | 2,358 |
 | 2023-12-28 | 4.57 | - | 367 | 2,365 |
+| 2023-12-29 | 4.58 | - | 367 | 2,365 |

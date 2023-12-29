@@ -6,34 +6,34 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~40,893 |
-| Blood Moon | 73.00% | ~35,120 |
-| Path of the Necromancer | 65.00% | ~31,271 |
-| Chainbreaker - I | 60.00% | ~28,865 |
-| Cursed Creature | 57.00% | ~27,422 |
-| Extraction | 57.00% | ~27,422 |
-| Chainbreaker - II | 55.00% | ~26,460 |
-| Necromancer's Apprentice | 50.00% | ~24,054 |
-| Keeper of Keys | 47.00% | ~22,611 |
-| Distillation | 43.00% | ~20,687 |
-| Transmutation | 42.00% | ~20,206 |
-| Mountain King - I | 41.00% | ~19,725 |
+| Improvement | 85.00% | ~40,894 |
+| Blood Moon | 73.00% | ~35,121 |
+| Path of the Necromancer | 65.00% | ~31,272 |
+| Chainbreaker - I | 60.00% | ~28,867 |
+| Cursed Creature | 57.00% | ~27,423 |
+| Extraction | 57.00% | ~27,423 |
+| Chainbreaker - II | 55.00% | ~26,461 |
+| Necromancer's Apprentice | 50.00% | ~24,056 |
+| Keeper of Keys | 47.00% | ~22,612 |
+| Distillation | 43.00% | ~20,688 |
+| Transmutation | 42.00% | ~20,207 |
+| Mountain King - I | 41.00% | ~19,726 |
 | Prepared Necromancer | 40.00% | ~19,244 |
 | Mountain King - II | 39.00% | ~18,763 |
-| Blind Rage | 38.00% | ~18,281 |
-| Mad Genius | 35.00% | ~16,838 |
-| Cannon Fodder - I | 34.00% | ~16,357 |
-| Soul of Lies | 34.00% | ~16,357 |
-| Bane of Mercenaries - I | 32.00% | ~15,395 |
+| Blind Rage | 38.00% | ~18,282 |
+| Mad Genius | 35.00% | ~16,839 |
+| Cannon Fodder - I | 34.00% | ~16,358 |
+| Soul of Lies | 34.00% | ~16,358 |
+| Bane of Mercenaries - I | 32.00% | ~15,396 |
 | Bane of Mercenaries - II | 31.00% | ~14,914 |
 | Cannon Fodder - II | 29.00% | ~13,952 |
 | Shadow Between Worlds | 29.00% | ~13,952 |
 | Bane of Monsters | 28.00% | ~13,471 |
 | Chainbreaker - III | 28.00% | ~13,471 |
-| Revealed Secrets - I | 26.00% | ~12,508 |
-| Revealed Secrets - II | 25.00% | ~12,027 |
-| Blood Elemental | 24.00% | ~11,546 |
-| Unholy Bones | 23.00% | ~11,065 |
+| Revealed Secrets - I | 26.00% | ~12,509 |
+| Revealed Secrets - II | 25.00% | ~12,028 |
+| Blood Elemental | 24.00% | ~11,547 |
+| Unholy Bones | 23.00% | ~11,066 |
 | Lord of Fire | 22.00% | ~10,584 |
 | Cannon Fodder - III | 22.00% | ~10,584 |
 | Spiritual Attraction | 22.00% | ~10,584 |
@@ -45,11 +45,11 @@ Number of Ratings: 10,109  (23.09.2022)
 | Head of Order | 20.00% | ~9,622 |
 | Calcination | 19.00% | ~9,141 |
 | Blood Mage | 17.00% | ~8,179 |
-| Wild Hunger | 16.00% | ~7,697 |
-| Rage Concentrated | 16.00% | ~7,697 |
-| Mountain King - III | 15.00% | ~7,216 |
-| Rare Warrior | 15.00% | ~7,216 |
-| Grand Arena | 14.00% | ~6,735 |
+| Wild Hunger | 16.00% | ~7,698 |
+| Rage Concentrated | 16.00% | ~7,698 |
+| Mountain King - III | 15.00% | ~7,217 |
+| Rare Warrior | 15.00% | ~7,217 |
+| Grand Arena | 14.00% | ~6,736 |
 | Blood Madness | 13.00% | ~6,254 |
 | First Sacrifice | 13.00% | ~6,254 |
 | Master of Alchemy | 13.00% | ~6,254 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.50% | ~241 |
 | Renowned Researcher | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,109 (Ranked 121)  
+Progressed: 48,111 (Ranked 121)  
 Completed: 26 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 26 (0.05%) (Ranked 336)
 | 2023-12-26 | 47,925 | 26 |
 | 2023-12-27 | 48,012 | 26 |
 | 2023-12-28 | 48,085 | 26 |
-| 2023-12-29 | 48,109 | 26 |
+| 2023-12-29 | 48,111 | 26 |
 ## Awards
 Max (Character Customization): 2,165  (Ranked 113)  
 Sum: 4,221 (Ranked 157)  

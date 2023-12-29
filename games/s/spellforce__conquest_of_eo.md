@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 89.00% | ~83 |
-| Enough rooms to swing a cat | 82.00% | ~76 |
-| First to the post | 82.00% | ~76 |
-| A kind of Magic | 74.00% | ~69 |
-| Connected | 68.00% | ~63 |
+| Home Sweet Home | 88.00% | ~83 |
+| Enough rooms to swing a cat | 81.00% | ~76 |
+| First to the post | 81.00% | ~76 |
+| A kind of Magic | 73.00% | ~69 |
+| Connected | 67.00% | ~63 |
 | Expansion | 61.00% | ~57 |
-| Mine! | 58.00% | ~54 |
-| Harvest Time | 57.00% | ~53 |
-| Artificer's Apprentice | 51.00% | ~47 |
+| Mine! | 57.00% | ~54 |
+| Harvest Time | 56.00% | ~53 |
+| Artificer's Apprentice | 50.00% | ~47 |
 | Fly the friendly Sky | 45.00% | ~42 |
-| Get out of here! | 42.00% | ~39 |
-| Alchemist's Apprentice | 39.00% | ~36 |
-| Necromancer's Apprentice | 39.00% | ~36 |
-| Friend of Lyraine | 37.00% | ~34 |
+| Get out of here! | 41.00% | ~39 |
+| Alchemist's Apprentice | 38.00% | ~36 |
+| Necromancer's Apprentice | 38.00% | ~36 |
+| Friend of Lyraine | 36.00% | ~34 |
 | The Circle | 35.00% | ~33 |
 | Redecorating | 33.00% | ~31 |
-| Bad JuJu | 24.00% | ~22 |
+| Bad JuJu | 23.00% | ~22 |
 | Slave to the rhythm | 20.00% | ~19 |
 | Castle Meldec | 20.00% | ~19 |
 | Friend of Sevenkeeps | 20.00% | ~19 |
@@ -40,9 +40,9 @@
 | Defeat Gor | 9.00% | ~8 |
 | Silver Drift Hollow Mine | 9.00% | ~8 |
 | Friend of Windholme | 9.00% | ~8 |
-| Defeat Hokan | 8.00% | ~7 |
-| Yngrid's Tale | 8.00% | ~7 |
-| A Joke | 8.00% | ~7 |
+| Defeat Hokan | 7.00% | ~7 |
+| Yngrid's Tale | 7.00% | ~7 |
+| A Joke | 7.00% | ~7 |
 | Defeat Uram | 6.00% | ~6 |
 | Elynn's Tale | 6.00% | ~6 |
 | Lore's Tale | 6.00% | ~6 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93 (Ranked 493)  
+Progressed: 94 (Ranked 492)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 84 | 0 |
 | 2023-12-27 | 89 | 0 |
 | 2023-12-28 | 92 | 0 |
-| 2023-12-29 | 93 | 0 |
+| 2023-12-29 | 94 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

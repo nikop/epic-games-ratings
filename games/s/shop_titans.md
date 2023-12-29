@@ -9,11 +9,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 9.00% | ~13,342 |
 | Basic in Bulk | 9.00% | ~13,342 |
 | Titan's First Steps | 9.00% | ~13,342 |
-| Tinkle of Coins | 8.00% | ~11,859 |
+| Tinkle of Coins | 8.00% | ~11,860 |
 | Disintermediation | 7.00% | ~10,377 |
-| It's Free Real Estate | 6.00% | ~8,894 |
-| Budding Merchant | 6.00% | ~8,894 |
-| Capitalism Ho! | 6.00% | ~8,894 |
+| It's Free Real Estate | 6.00% | ~8,895 |
+| Budding Merchant | 6.00% | ~8,895 |
+| Capitalism Ho! | 6.00% | ~8,895 |
 | One Easy Payment | 5.00% | ~7,412 |
 | Some Assembly Required | 5.00% | ~7,412 |
 | Another Satisfied Customer | 5.00% | ~7,412 |
@@ -107,9 +107,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 1.00% | ~1,482 |
 | The Greatest Grind | 0.90% | ~1,334 |
 | All or Nothing! | 0.90% | ~1,334 |
+| Bane of Legends | 0.80% | ~1,186 |
 | Anything not Nailed Down | 0.80% | ~1,186 |
 | Marvels from the World Over | 0.80% | ~1,186 |
-| Bane of Legends | 0.70% | ~1,038 |
 | Unleashed Potential | 0.70% | ~1,038 |
 | Ultimate Collector | 0.60% | ~889 |
 | JACKPOT!!! | 0.60% | ~889 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~593 |
 | Capitalist Camaraderie | 0.20% | ~296 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,239 (Ranked 83)  
+Progressed: 148,244 (Ranked 83)  
 Completed: 338 (0.23%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -372,17 +372,17 @@ Completed: 338 (0.23%) (Ranked 266)
 | 2023-12-26 | 147,830 | 336 |
 | 2023-12-27 | 148,016 | 336 |
 | 2023-12-28 | 148,196 | 337 |
-| 2023-12-29 | 148,239 | 338 |
+| 2023-12-29 | 148,244 | 338 |
 ## Awards
 Max (Great for Beginners): 4,925  (Ranked 76)  
-Sum: 27,850 (Ranked 51)  
+Sum: 27,856 (Ranked 51)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,925 |
 | This game is Relaxing | 4,068 |
 | This game has Quickly Understood Controls | 4,062 |
-| This game has Diverse Characters | 3,999 |
+| This game has Diverse Characters | 4,005 |
 | This game is Highly Recommended | 3,807 |
 | This game has Easy Combat | 3,758 |
 | This game has Playful Visuals | 3,231 |
@@ -722,4 +722,4 @@ Diff (max vs sum): 25
 | 2023-12-26 | 3.99 | - | 4,917 | 27,823 |
 | 2023-12-27 | 3.99 | - | 4,922 | 27,834 |
 | 2023-12-28 | 3.99 | - | 4,925 | 27,847 |
-| 2023-12-29 | 3.99 | - | 4,925 | 27,850 |
+| 2023-12-29 | 3.99 | - | 4,925 | 27,856 |

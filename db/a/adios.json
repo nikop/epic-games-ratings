@@ -135,7 +135,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81968,
+  "EOS_Progressed": 81970,
   "EOS_Completed": 902,
   "EOS_NewPlayers": 716,
   "EOS_NewCompleters": 12,
@@ -28320,6 +28320,11 @@
       "Time": "2023-12-29T09:05:56.5608157+00:00",
       "NumProgressed": 81968,
       "NumCompleted": 902
+    },
+    {
+      "Time": "2023-12-29T10:05:55.0473321+00:00",
+      "NumProgressed": 81970,
+      "NumCompleted": 902
     }
   ],
   "TotalAchievements": 25,
@@ -28371,7 +28376,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14754
+      "UsersEstimate": 14755
     },
     {
       "ID": "Butcher",
@@ -28435,7 +28440,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17213
+      "UsersEstimate": 17214
     },
     {
       "ID": "Meaty",
@@ -28475,7 +28480,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 9016
+      "UsersEstimate": 9017
     },
     {
       "ID": "Right On Target",
@@ -28523,14 +28528,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6557
+      "UsersEstimate": 6558
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 81968,
+      "Progressed": 81970,
       "Completed": 902
     }
   ],
@@ -28538,8 +28543,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-12-24T03:59:19.0038141+00:00",
-  "LastChanged_Achievements": "2023-12-29T09:05:56.5608155+00:00",
+  "LastChanged_Achievements": "2023-12-29T10:05:55.047332+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:32.7893719+00:00",
-  "LastUpdate_Ratings": "2023-12-29T09:00:51.4316778+00:00",
-  "LastUpdate_Achievements": "2023-12-29T09:05:56.5609734+00:00"
+  "LastUpdate_Ratings": "2023-12-29T10:02:46.7226904+00:00",
+  "LastUpdate_Achievements": "2023-12-29T10:05:55.0474461+00:00"
 }

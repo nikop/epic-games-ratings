@@ -2,7 +2,7 @@
   "ID": "aa102e1c575d42868a11ac8e79af2126",
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
-  "Ranking_Rating": 375,
+  "Ranking_Rating": 376,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 242,
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1909,
+  "EOS_Progressed": 1910,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -4664,6 +4664,11 @@
       "Time": "2023-12-28T04:10:20.3586135+00:00",
       "NumProgressed": 1909,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-29T10:09:20.405105+00:00",
+      "NumProgressed": 1910,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4675,7 +4680,7 @@
       "Name": "Agent 47",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "Auditor",
@@ -4707,7 +4712,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "Commandos",
@@ -4755,7 +4760,7 @@
       "Name": "E1M1",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "Everyone_is_here",
@@ -4835,7 +4840,7 @@
       "Name": "No Witness",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "Kultprosvet",
@@ -4859,7 +4864,7 @@
       "Name": "Bomberman",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "MoskitoBite",
@@ -4867,7 +4872,7 @@
       "Name": "Mosquito bite",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "Scout",
@@ -4914,15 +4919,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1909,
+      "Progressed": 1910,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-12-29T09:09:42.4270533+00:00",
+  "LastChanged_Achievements": "2023-12-29T10:09:20.4051046+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:45.0819227+00:00",
-  "LastUpdate_Ratings": "2023-12-29T09:03:02.3057073+00:00",
-  "LastUpdate_Achievements": "2023-12-29T09:09:42.4270867+00:00"
+  "LastUpdate_Ratings": "2023-12-29T10:02:56.7026161+00:00",
+  "LastUpdate_Achievements": "2023-12-29T10:09:20.405136+00:00"
 }

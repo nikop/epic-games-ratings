@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
@@ -319,7 +319,7 @@
   ],
   "EOS_Progressed": 480,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 296,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -1446,17 +1446,17 @@
       "ID": "ACH_PRAWN_BOSS",
       "SetID": "biiejkc",
       "Name": "Shrimp Catcher",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
       "SetID": "biiejkc",
       "Name": "Toxic Terror",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
@@ -1606,8 +1606,8 @@
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-29T09:05:38.6983303+00:00",
+  "LastChanged_Achievements": "2023-12-29T10:05:36.9192849+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-29T09:00:27.4840841+00:00",
-  "LastUpdate_Achievements": "2023-12-29T09:05:38.6983511+00:00"
+  "LastUpdate_Ratings": "2023-12-29T10:00:22.806798+00:00",
+  "LastUpdate_Achievements": "2023-12-29T10:05:36.9193064+00:00"
 }

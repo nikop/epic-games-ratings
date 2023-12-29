@@ -18,7 +18,7 @@
 | Astral Adventurer | 30.00% | ~80 |
 | Star Killer | 27.00% | ~72 |
 | Eridanian Champion | 24.00% | ~64 |
-| Loyal Partner | 21.00% | ~56 |
+| Loyal Partner | 22.00% | ~59 |
 | Lacertian Champion | 21.00% | ~56 |
 | Apian Champion | 19.00% | ~51 |
 | Shard Spender | 18.00% | ~48 |

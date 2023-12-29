@@ -15,8 +15,8 @@ Rating: 4.50 (Ranked 609)
 | The Return of a Rat | 41.00% | ~194 |
 | Fat of the Earth | 36.00% | ~170 |
 | Last Man Standing | 32.00% | ~151 |
+| Great Hero | 29.00% | ~137 |
 | He's Seen It All | 28.00% | ~132 |
-| Great Hero | 28.00% | ~132 |
 | Campaigning | 27.00% | ~128 |
 | Rookie | 27.00% | ~128 |
 | Catch Jonathan_tostar | 26.00% | ~123 |

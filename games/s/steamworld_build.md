@@ -27,7 +27,7 @@
 | Click 'Em All | 4.00% | ~8 |
 | Real Purdy | 4.00% | ~8 |
 | Stack Overflow | 4.00% | ~8 |
-| Accustomed Customer | 2.00% | ~4 |
+| Accustomed Customer | 3.00% | ~6 |
 | Interstellar Performance | 2.00% | ~4 |
 | I'm A Lumberbot | 0.50% | ~1 |
 | Yup. | 0.50% | ~1 |

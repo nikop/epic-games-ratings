@@ -16,7 +16,7 @@ Number of Ratings: 90  (23.09.2022)
 | Cult Following | 31.00% | ~72 |
 | Lie Back and Think of Albion | 25.00% | ~58 |
 | Upgreatest | 24.00% | ~56 |
-| Pimp My Raid | 23.00% | ~54 |
+| Pimp My Raid | 24.00% | ~56 |
 | I Look Up As I Walk to Takoshima | 19.00% | ~44 |
 | Freshly Squeezed | 17.00% | ~40 |
 | Die Nasty | 17.00% | ~40 |

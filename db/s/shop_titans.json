@@ -7781,10 +7781,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27850,
       "NumberOfAwardsMax": 4925
+    },
+    {
+      "Time": "2023-12-29T10:03:10.6061761+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27856,
+      "NumberOfAwardsMax": 4925
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27850,
+  "NumberOfAwards": 27856,
   "NumberOfAwardsMax": 4925,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7798,7 +7804,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3999
+      "Count": 4005
     },
     {
       "Text": "This game is Great for Beginners",
@@ -7837,7 +7843,7 @@
       "Count": 3807
     }
   ],
-  "EOS_Progressed": 148239,
+  "EOS_Progressed": 148244,
   "EOS_Completed": 338,
   "EOS_NewPlayers": 1364,
   "EOS_NewCompleters": 9,
@@ -34417,6 +34423,11 @@
       "Time": "2023-12-29T09:04:03.7742202+00:00",
       "NumProgressed": 148239,
       "NumCompleted": 338
+    },
+    {
+      "Time": "2023-12-29T10:04:01.2350977+00:00",
+      "NumProgressed": 148244,
+      "NumCompleted": 338
     }
   ],
   "TotalAchievements": 112,
@@ -34578,9 +34589,9 @@
       "ID": "boss03",
       "SetID": "anfd17p",
       "Name": "Bane of Legends",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1186
     },
     {
       "ID": "champions01",
@@ -34804,7 +34815,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8894
+      "UsersEstimate": 8895
     },
     {
       "ID": "expansion02",
@@ -34900,7 +34911,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11859
+      "UsersEstimate": 11860
     },
     {
       "ID": "gold02",
@@ -35012,7 +35023,7 @@
       "Name": "Budding Merchant",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8894
+      "UsersEstimate": 8895
     },
     {
       "ID": "level02",
@@ -35204,7 +35215,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8894
+      "UsersEstimate": 8895
     },
     {
       "ID": "sell02",
@@ -35323,15 +35334,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 148239,
+      "Progressed": 148244,
       "Completed": 338
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-12-29T09:03:16.1620513+00:00",
-  "LastChanged_Achievements": "2023-12-29T09:04:03.7742199+00:00",
+  "LastChanged": "2023-12-29T10:03:10.6061759+00:00",
+  "LastChanged_Achievements": "2023-12-29T10:04:01.2350972+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:55.73992+00:00",
-  "LastUpdate_Ratings": "2023-12-29T09:03:16.1620524+00:00",
-  "LastUpdate_Achievements": "2023-12-29T09:04:03.7744285+00:00"
+  "LastUpdate_Ratings": "2023-12-29T10:03:10.6061766+00:00",
+  "LastUpdate_Achievements": "2023-12-29T10:04:01.2353036+00:00"
 }

@@ -8,7 +8,7 @@
 | Treasure Hunting | 38.00% | ~48 |
 | Shine! | 32.00% | ~40 |
 | Friend! | 30.00% | ~38 |
-| Uncut Gem | 29.00% | ~36 |
+| Uncut Gem | 29.00% | ~37 |
 | Clear as Water | 27.00% | ~34 |
 | Setting Off | 24.00% | ~30 |
 | Card Collector | 22.00% | ~28 |
@@ -28,24 +28,24 @@
 | Warden Mastery | 4.00% | ~5 |
 | The Plot Thickens | 4.00% | ~5 |
 | Raider Mastery | 3.00% | ~4 |
-| Best Pupil | 2.00% | ~2 |
-| FOR JUSTICE! | 2.00% | ~2 |
-| Journey’s End | 2.00% | ~2 |
-| Masterpiece | 2.00% | ~2 |
-| Towards the Future | 2.00% | ~2 |
-| Trinket Enthusiast | 2.00% | ~2 |
-| The Usurper | 2.00% | ~2 |
-| First time? | 2.00% | ~2 |
-| Harmony | 2.00% | ~2 |
-| The False Prophet | 2.00% | ~2 |
-| Sealed Once Again | 2.00% | ~2 |
-| A New Tomorrow | 2.00% | ~2 |
-| ACHOO! | 2.00% | ~2 |
+| Best Pupil | 2.00% | ~3 |
+| FOR JUSTICE! | 2.00% | ~3 |
+| Journey’s End | 2.00% | ~3 |
+| Masterpiece | 2.00% | ~3 |
+| Towards the Future | 2.00% | ~3 |
+| Trinket Enthusiast | 2.00% | ~3 |
+| The Usurper | 2.00% | ~3 |
+| First time? | 2.00% | ~3 |
+| Harmony | 2.00% | ~3 |
+| The False Prophet | 2.00% | ~3 |
+| Sealed Once Again | 2.00% | ~3 |
+| A New Tomorrow | 2.00% | ~3 |
+| ACHOO! | 2.00% | ~3 |
 | The New Demon Lord | 0.80% | ~1 |
 | Gladiator | 0.80% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125 (Ranked 463)  
+Progressed: 126 (Ranked 463)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,6 +117,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 123 | 0 |
 | 2023-12-26 | 124 | 0 |
 | 2023-12-28 | 125 | 0 |
+| 2023-12-29 | 126 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

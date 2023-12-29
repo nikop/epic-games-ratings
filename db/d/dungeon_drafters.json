@@ -4,7 +4,7 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 391,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 125,
+  "EOS_Progressed": 126,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -611,6 +611,11 @@
       "Time": "2023-12-28T06:04:08.4488837+00:00",
       "NumProgressed": 125,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T10:04:56.5134732+00:00",
+      "NumProgressed": 126,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -694,7 +699,7 @@
       "Name": "Best Pupil",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MasterOracleQuestlineThird",
@@ -718,7 +723,7 @@
       "Name": "FOR JUSTICE!",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MasterRaiderQuestlineThird",
@@ -742,7 +747,7 @@
       "Name": "Journey\u2019s End",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MasterTravelerQuestlineThird",
@@ -758,7 +763,7 @@
       "Name": "Uncut Gem",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "MasterWardenQuestlineLast",
@@ -766,7 +771,7 @@
       "Name": "Masterpiece",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MasterWardenQuestlineThird",
@@ -790,7 +795,7 @@
       "Name": "Towards the Future",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "StrangerQuestlineThird",
@@ -806,7 +811,7 @@
       "Name": "Trinket Enthusiast",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "any_curio",
@@ -854,7 +859,7 @@
       "Name": "The Usurper",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "foil_card",
@@ -870,7 +875,7 @@
       "Name": "First time?",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "harmony_rune",
@@ -878,7 +883,7 @@
       "Name": "Harmony",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "madking_free",
@@ -886,7 +891,7 @@
       "Name": "The False Prophet",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ok_ending",
@@ -894,7 +899,7 @@
       "Name": "Sealed Once Again",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "perfect_ending",
@@ -902,7 +907,7 @@
       "Name": "A New Tomorrow",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "portaltraveler_mirrors",
@@ -910,7 +915,7 @@
       "Name": "ACHOO!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "scavanger_curios",
@@ -941,7 +946,7 @@
     {
       "ID": "3b8n56h",
       "IsBase": true,
-      "Progressed": 125,
+      "Progressed": 126,
       "Completed": 0
     }
   ],
@@ -949,8 +954,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-12-29T09:04:58.1424131+00:00",
+  "LastChanged_Achievements": "2023-12-29T10:04:56.513473+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:06.0228118+00:00",
-  "LastUpdate_Ratings": "2023-12-29T08:59:42.2573709+00:00",
-  "LastUpdate_Achievements": "2023-12-29T09:04:58.1424364+00:00"
+  "LastUpdate_Ratings": "2023-12-29T09:59:37.5669682+00:00",
+  "LastUpdate_Achievements": "2023-12-29T10:04:56.5134942+00:00"
 }

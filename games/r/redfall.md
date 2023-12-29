@@ -7,7 +7,7 @@ Rating: 3.59 (Ranked 1,077)
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 16.00% | ~343 |
 | Catch and Release | 12.00% | ~257 |
-| Home Is Where the Heart Is | 10.00% | ~214 |
+| Home Is Where the Heart Is | 11.00% | ~236 |
 | ICU | 10.00% | ~214 |
 | Wounded Whispers | 10.00% | ~214 |
 | Blood Will Have Blood | 8.00% | ~171 |
@@ -42,8 +42,8 @@ Rating: 3.59 (Ranked 1,077)
 | Blacklight Down | 1.00% | ~21 |
 | Curious Finch | 1.00% | ~21 |
 | Right This Way | 0.80% | ~17 |
+| Empty Nest Syndrome | 0.70% | ~15 |
 | Bloody Initiate | 0.70% | ~15 |
-| Empty Nest Syndrome | 0.60% | ~13 |
 | Dexterity Save | 0.60% | ~13 |
 | Neighborhood Watch | 0.50% | ~11 |
 | Blood Brother | 0.50% | ~11 |

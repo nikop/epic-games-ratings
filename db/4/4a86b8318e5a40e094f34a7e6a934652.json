@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 413,
+  "EOS_Progressed": 414,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.73,
+  "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
     {
       "Time": "2023-08-29T09:05:59.1773399+00:00",
@@ -1759,6 +1759,11 @@
       "Time": "2023-12-29T09:05:20.2143378+00:00",
       "NumProgressed": 413,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T10:05:18.7409912+00:00",
+      "NumProgressed": 414,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -1771,7 +1776,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -1787,7 +1792,7 @@
       "Name": "Retro Diva",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "BRING_PROSPERO",
@@ -1803,7 +1808,7 @@
       "Name": "Empty Shelves",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "CATCH_30_FISH",
@@ -1811,7 +1816,7 @@
       "Name": "Fisherman",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -1827,7 +1832,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -1851,7 +1856,7 @@
       "Name": "Leech Lunch",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -1907,7 +1912,7 @@
       "Name": "Crypto Bro",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "TAKE_LEECH",
@@ -1915,7 +1920,7 @@
       "Name": "Uppies!",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -1923,21 +1928,21 @@
       "Name": "Strong Signal",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 413,
+      "Progressed": 414,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-29T09:05:20.2143375+00:00",
+  "LastChanged_Achievements": "2023-12-29T10:05:18.7409909+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.5394751+00:00",
-  "LastUpdate_Ratings": "2023-12-29T09:00:05.2466628+00:00",
-  "LastUpdate_Achievements": "2023-12-29T09:05:20.2143577+00:00"
+  "LastUpdate_Ratings": "2023-12-29T10:00:00.4395834+00:00",
+  "LastUpdate_Achievements": "2023-12-29T10:05:18.7410111+00:00"
 }

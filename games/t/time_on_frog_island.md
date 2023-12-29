@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shipwrecked! | 70.00% | ~26 |
-| Sea Legs | 59.00% | ~22 |
+| Sea Legs | 62.00% | ~23 |
 | What?! | 41.00% | ~15 |
 | Frogs Legs | 22.00% | ~8 |
 | Mad Scientist | 19.00% | ~7 |

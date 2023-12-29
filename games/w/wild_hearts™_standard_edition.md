@@ -14,12 +14,12 @@
 | Charmed by the Hunt | 47.00% | ~458 |
 | Fusion Conjuror | 45.00% | ~439 |
 | Memory Rouser | 45.00% | ~439 |
-| Kemono Hunter | 39.00% | ~380 |
+| Kemono Hunter | 40.00% | ~390 |
 | Helpful Heart | 38.00% | ~370 |
 | Expert Conjuror | 38.00% | ~370 |
 | Flawless Crystal | 37.00% | ~361 |
 | Bonds of Enmity | 36.00% | ~351 |
-| Distance Devourer | 33.00% | ~322 |
+| Distance Devourer | 34.00% | ~332 |
 | Counter Specialist | 32.00% | ~312 |
 | Master of the Skies | 30.00% | ~292 |
 | Axer of Auspice | 27.00% | ~263 |

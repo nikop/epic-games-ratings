@@ -203,9 +203,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 8466,
+  "EOS_Progressed": 8474,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2294,
+  "EOS_NewPlayers": 2292,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2818,6 +2818,11 @@
       "Time": "2023-12-29T09:09:56.1916425+00:00",
       "NumProgressed": 8466,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T10:09:34.2520873+00:00",
+      "NumProgressed": 8474,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -2924,25 +2929,25 @@
       "ID": "14_TheBreezeOfPain",
       "SetID": "37a94m8",
       "Name": "Fear Not Obliteration",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 25
     },
     {
       "ID": "15_Pentakill",
       "SetID": "37a94m8",
       "Name": "Pentakill",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 42
     },
     {
       "ID": "16_TheRise",
       "SetID": "37a94m8",
       "Name": "The Rise",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 51
     },
     {
       "ID": "17_TheExemplar",
@@ -2988,9 +2993,9 @@
       "ID": "22_PerfectTiming",
       "SetID": "37a94m8",
       "Name": "Perfect Timing",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 51
     },
     {
       "ID": "23_DynastyRestored",
@@ -3132,17 +3137,17 @@
       "ID": "40_PreserveTheArchitecture",
       "SetID": "37a94m8",
       "Name": "Preserve the Architecture",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "41_TheJungleHeat",
       "SetID": "37a94m8",
       "Name": "Jungle Heat",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 42
     },
     {
       "ID": "42_TheIronJudgement",
@@ -3180,9 +3185,9 @@
       "ID": "46_ASpark",
       "SetID": "37a94m8",
       "Name": "A Spark",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 51
     },
     {
       "ID": "47_AFlame",
@@ -3349,7 +3354,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8466,
+      "Progressed": 8474,
       "Completed": 0
     }
   ],
@@ -3357,8 +3362,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-28T13:57:33.384002+00:00",
-  "LastChanged_Achievements": "2023-12-29T09:09:56.1916422+00:00",
+  "LastChanged_Achievements": "2023-12-29T10:09:34.252087+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-29T08:58:06.9281936+00:00",
-  "LastUpdate_Achievements": "2023-12-29T09:09:56.1916932+00:00"
+  "LastUpdate_Ratings": "2023-12-29T09:58:02.1196031+00:00",
+  "LastUpdate_Achievements": "2023-12-29T10:09:34.2521405+00:00"
 }

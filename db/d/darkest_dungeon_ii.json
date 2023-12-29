@@ -10278,9 +10278,9 @@
       "Count": 1064
     }
   ],
-  "EOS_Progressed": 130488,
+  "EOS_Progressed": 130493,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1429,
+  "EOS_NewPlayers": 1430,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37333,6 +37333,11 @@
       "Time": "2023-12-29T09:09:38.8713031+00:00",
       "NumProgressed": 130488,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T10:09:16.6264951+00:00",
+      "NumProgressed": 130493,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37472,7 +37477,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6524
+      "UsersEstimate": 6525
     },
     {
       "ID": "combat_kill_cadavers",
@@ -37502,9 +37507,9 @@
       "ID": "combat_kill_dreaming_general",
       "SetID": "64l4lke",
       "Name": "Creep and Sleep",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 5220
+      "UsersEstimate": 6525
     },
     {
       "ID": "combat_kill_fanatics",
@@ -37568,7 +37573,7 @@
       "Name": "Overdue Notice",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6524
+      "UsersEstimate": 6525
     },
     {
       "ID": "combat_kill_pillagers",
@@ -37696,7 +37701,7 @@
       "Name": "Autodidact",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7829
+      "UsersEstimate": 7830
     },
     {
       "ID": "hero_story_complete_all",
@@ -37880,7 +37885,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "combat_kill_collector",
@@ -37904,7 +37909,7 @@
       "Name": "No Mercy",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "combat_land_riposte_dmg_threshold_duelist",
@@ -37920,7 +37925,7 @@
       "Name": "Et Tu, Riposte?",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -37975,21 +37980,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130488,
+      "Progressed": 130493,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5357,
+      "Progressed": 5362,
       "Completed": 813
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-29T09:00:16.4486808+00:00",
-  "LastChanged_Achievements": "2023-12-29T09:09:38.8713026+00:00",
+  "LastChanged_Achievements": "2023-12-29T10:09:16.6264947+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-29T09:00:16.4486814+00:00",
-  "LastUpdate_Achievements": "2023-12-29T09:09:38.8714695+00:00"
+  "LastUpdate_Ratings": "2023-12-29T10:00:12.3425298+00:00",
+  "LastUpdate_Achievements": "2023-12-29T10:09:16.6267002+00:00"
 }

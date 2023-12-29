@@ -2,9 +2,9 @@
   "ID": "3a5c77a536854024add2714cbd0fa865",
   "Name": "RoboCop: Rogue City",
   "ProductSlug": "robocop-rogue-city",
-  "Ranking_Rating": 840,
-  "Ranking_Popularity": 378,
-  "Ranking_PopularitySum": 462,
+  "Ranking_Rating": 827,
+  "Ranking_Popularity": 370,
+  "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 518,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "robocop-rogue-city"
     }
   },
-  "Rating": 4.33,
+  "Rating": 4.34,
   "RatingHistory": [
     {
       "Time": "2023-11-07T18:58:52.6047076+00:00",
@@ -393,18 +393,24 @@
       "Rating": 4.33,
       "NumberOfAwards": 98,
       "NumberOfAwardsMax": 98
+    },
+    {
+      "Time": "2023-12-29T09:59:39.2835619+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 102,
+      "NumberOfAwardsMax": 102
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 98,
-  "NumberOfAwardsMax": 98,
+  "NumberOfAwards": 102,
+  "NumberOfAwardsMax": 102,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 98
+      "Count": 102
     }
   ],
   "EOS_Progressed": 707,
@@ -1561,9 +1567,9 @@
   "FirstSeen": "2023-11-02T16:00:47.732778+00:00",
   "FirstSeenRating": "2023-11-07T18:58:52.6047074+00:00",
   "FirstSeenAchievements": "2023-10-10T13:10:57.0550884+00:00",
-  "LastChanged": "2023-12-27T22:59:40.2847994+00:00",
-  "LastChanged_Achievements": "2023-12-29T09:04:57.922941+00:00",
+  "LastChanged": "2023-12-29T09:59:39.2835618+00:00",
+  "LastChanged_Achievements": "2023-12-29T10:04:56.2603856+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:06.1119232+00:00",
-  "LastUpdate_Ratings": "2023-12-29T08:59:44.1473685+00:00",
-  "LastUpdate_Achievements": "2023-12-29T09:04:57.9229873+00:00"
+  "LastUpdate_Ratings": "2023-12-29T09:59:39.2835621+00:00",
+  "LastUpdate_Achievements": "2023-12-29T10:04:56.2604051+00:00"
 }

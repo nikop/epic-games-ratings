@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -2103,9 +2103,9 @@
       "ID": "ACH_FIND_10_TREASURES",
       "SetID": "7c4cldc",
       "Name": "Treasure Hunter",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_FIRST_BASE",
@@ -2191,9 +2191,9 @@
       "ID": "ACH_SURVIVE_10_DAYS",
       "SetID": "7c4cldc",
       "Name": "Survivor",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_SURVIVE_20_DAYS",
@@ -2232,8 +2232,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2023-12-29T09:09:25.4202497+00:00",
+  "LastChanged_Achievements": "2023-12-29T10:09:03.0740775+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:34.110653+00:00",
-  "LastUpdate_Ratings": "2023-12-29T08:59:19.3549039+00:00",
-  "LastUpdate_Achievements": "2023-12-29T09:09:25.4202775+00:00"
+  "LastUpdate_Ratings": "2023-12-29T09:59:15.4001155+00:00",
+  "LastUpdate_Achievements": "2023-12-29T10:09:03.0741036+00:00"
 }

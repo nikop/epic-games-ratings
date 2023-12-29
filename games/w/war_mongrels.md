@@ -13,8 +13,8 @@ Number of Ratings: 34  (23.09.2022)
 | Eat Lead! | 43.00% | ~314 |
 | Here Comes the Boom | 40.00% | ~292 |
 | Prospector | 39.00% | ~285 |
+| Sniper Wolf | 38.00% | ~277 |
 | The Motivation | 37.00% | ~270 |
-| Sniper Wolf | 37.00% | ~270 |
 | Treasure Hunter | 36.00% | ~263 |
 | Heroism | 35.00% | ~255 |
 | Collectibles of Chapter I | 33.00% | ~241 |

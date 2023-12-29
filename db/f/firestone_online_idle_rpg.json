@@ -691,9 +691,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3923,
+  "EOS_Progressed": 3924,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 268,
+  "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11156,6 +11156,11 @@
       "Time": "2023-12-29T09:04:45.7237375+00:00",
       "NumProgressed": 3923,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-29T10:04:44.195589+00:00",
+      "NumProgressed": 3924,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -11271,7 +11276,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "dragonmaster",
@@ -11399,7 +11404,7 @@
       "Name": "Guild Power",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "herewegoagain",
@@ -11503,7 +11508,7 @@
       "Name": "Miner Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "missionsdedication",
@@ -11557,9 +11562,9 @@
       "ID": "prestigious",
       "SetID": "3nl4bcg",
       "Name": "Prestigious",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2079
+      "UsersEstimate": 2040
     },
     {
       "ID": "prestigiousx10",
@@ -11727,7 +11732,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3648
+      "UsersEstimate": 3649
     },
     {
       "ID": "warmachinesarmy",
@@ -11759,14 +11764,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3060
+      "UsersEstimate": 3061
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3923,
+      "Progressed": 3924,
       "Completed": 2
     }
   ],
@@ -11774,8 +11779,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-29T02:13:48.1079305+00:00",
-  "LastChanged_Achievements": "2023-12-29T09:04:45.7237371+00:00",
+  "LastChanged_Achievements": "2023-12-29T10:04:44.1955888+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:54.8970424+00:00",
-  "LastUpdate_Ratings": "2023-12-29T08:58:45.1104543+00:00",
-  "LastUpdate_Achievements": "2023-12-29T09:04:45.7238542+00:00"
+  "LastUpdate_Ratings": "2023-12-29T09:58:40.6510051+00:00",
+  "LastUpdate_Achievements": "2023-12-29T10:04:44.1956781+00:00"
 }

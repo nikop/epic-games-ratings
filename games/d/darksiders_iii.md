@@ -7,7 +7,7 @@ Number of Ratings: 116  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Green with Envy | 78.00% | ~212 |
-| First of many… | 69.00% | ~188 |
+| First of many… | 70.00% | ~190 |
 | Helping Hand | 66.00% | ~180 |
 | Increased Vigor | 61.00% | ~166 |
 | Fight Fire with Fire | 60.00% | ~163 |

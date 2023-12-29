@@ -21,9 +21,9 @@
 | Master of the Rope | 34.00% | ~19 |
 | Training Day | 32.00% | ~18 |
 | Animal Sighting | 29.00% | ~16 |
+| Adventure Bay’s Citizen | 25.00% | ~14 |
 | The Fastest | 23.00% | ~13 |
 | Don’t Miss Any | 23.00% | ~13 |
-| Adventure Bay’s Citizen | 23.00% | ~13 |
 | Mountain and Ice | 21.00% | ~12 |
 | You Have Been Everywhere | 18.00% | ~10 |
 | Everything Under Control | 16.00% | ~9 |

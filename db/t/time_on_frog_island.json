@@ -401,9 +401,9 @@
       "ID": "a3",
       "SetID": "cdg65ol",
       "Name": "Sea Legs",
-      "Percentage": 59,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "a30",
@@ -514,8 +514,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2023-12-29T09:04:59.6016874+00:00",
+  "LastChanged_Achievements": "2023-12-29T10:04:57.9139007+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.260771+00:00",
-  "LastUpdate_Ratings": "2023-12-29T09:03:01.5027697+00:00",
-  "LastUpdate_Achievements": "2023-12-29T09:04:59.6017091+00:00"
+  "LastUpdate_Ratings": "2023-12-29T10:02:55.8218615+00:00",
+  "LastUpdate_Achievements": "2023-12-29T10:04:57.9139225+00:00"
 }

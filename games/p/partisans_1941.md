@@ -1,20 +1,20 @@
 # Partisans 1941
 [Store](https://store.epicgames.com/en-US/p/partisans-1941)  
 [View Rawdata](../../db/p/partisans_1941.json)  
-Rating: 4.62 (Ranked 375)  
+Rating: 4.62 (Ranked 376)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| E1M1 | 45.00% | ~859 |
+| E1M1 | 45.00% | ~860 |
 | Grenadier | 44.00% | ~840 |
 | War Never Changes | 44.00% | ~840 |
 | Heroes Never Die | 40.00% | ~764 |
-| Mosquito bite | 37.00% | ~706 |
+| Mosquito bite | 37.00% | ~707 |
 | Spice It Up | 33.00% | ~630 |
-| Agent 47 | 27.00% | ~515 |
-| Bomberman | 27.00% | ~515 |
-| You're Gonna Go Far, Kid | 26.00% | ~496 |
+| Agent 47 | 27.00% | ~516 |
+| Bomberman | 27.00% | ~516 |
+| You're Gonna Go Far, Kid | 26.00% | ~497 |
 | Death to the Oppressor! | 19.00% | ~363 |
 | The Gang's All Here | 17.00% | ~325 |
 | One by One | 15.00% | ~286 |
@@ -23,7 +23,7 @@ Number of Ratings: 98  (23.09.2022)
 | Game Over | 12.00% | ~229 |
 | Lock, Stock | 8.00% | ~153 |
 | Payback Time | 7.00% | ~134 |
-| No Witness | 5.00% | ~95 |
+| No Witness | 5.00% | ~96 |
 | Strategist | 4.00% | ~76 |
 | Do a Barrel Roll! | 2.00% | ~38 |
 | Unbreakable Wall | 2.00% | ~38 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | A Little Culture | 0.10% | ~2 |
 | Scout | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,909 (Ranked 242)  
+Progressed: 1,910 (Ranked 242)  
 Completed: 2 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,6 +266,7 @@ Completed: 2 (0.10%) (Ranked 305)
 | 2023-12-26 | 1,904 | 2 |
 | 2023-12-27 | 1,908 | 2 |
 | 2023-12-28 | 1,909 | 2 |
+| 2023-12-29 | 1,910 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

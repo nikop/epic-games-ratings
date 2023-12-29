@@ -6,11 +6,11 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 39.00% | ~11,504 |
-| Overkill | 33.00% | ~9,734 |
-| Vaccine Incoming | 32.00% | ~9,439 |
-| A normal day in Gloomhaven | 29.00% | ~8,554 |
-| Spread the plague | 27.00% | ~7,964 |
+| I'm not dead yet | 39.00% | ~11,505 |
+| Overkill | 33.00% | ~9,735 |
+| Vaccine Incoming | 32.00% | ~9,440 |
+| A normal day in Gloomhaven | 29.00% | ~8,555 |
+| Spread the plague | 27.00% | ~7,965 |
 | Get over here! | 24.00% | ~7,080 |
 | Just when I thought I was out... | 19.00% | ~5,605 |
 | Mine... All Mine... | 17.00% | ~5,015 |
@@ -50,25 +50,25 @@ Number of Ratings: 68  (23.09.2022)
 | Captain hooked | 1.00% | ~295 |
 | Spoiler police! | 1.00% | ~295 |
 | New Blood | 1.00% | ~295 |
-| Betray this | 0.90% | ~265 |
-| The Pacifist | 0.50% | ~147 |
-| Born Support | 0.50% | ~147 |
+| Betray this | 0.90% | ~266 |
+| The Pacifist | 0.50% | ~148 |
+| Born Support | 0.50% | ~148 |
 | The evil that men do | 0.40% | ~118 |
 | MacReady Steady.. Go! | 0.40% | ~118 |
-| A tough job | 0.30% | ~88 |
-| The Jaws of victory! | 0.30% | ~88 |
-| Pull out the big guns | 0.30% | ~88 |
+| A tough job | 0.30% | ~89 |
+| The Jaws of victory! | 0.30% | ~89 |
+| Pull out the big guns | 0.30% | ~89 |
 | The Cartographer | 0.20% | ~59 |
 | Beware my power | 0.20% | ~59 |
 | Crimson Tornado | 0.20% | ~59 |
-| A cult following | 0.10% | ~29 |
-| Over your dead body | 0.10% | ~29 |
-| The Guildmaster | 0.10% | ~29 |
-| Lara Who? | 0.10% | ~29 |
-| Hard-travelling Heroes | 0.10% | ~29 |
-| Murder Death Kill | 0.10% | ~29 |
+| A cult following | 0.10% | ~30 |
+| Over your dead body | 0.10% | ~30 |
+| The Guildmaster | 0.10% | ~30 |
+| Lara Who? | 0.10% | ~30 |
+| Hard-travelling Heroes | 0.10% | ~30 |
+| Murder Death Kill | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,498 (Ranked 137)  
+Progressed: 29,501 (Ranked 137)  
 Completed: 1 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 1 (0.00%) (Ranked 389)
 | 2023-12-26 | 28,980 | 1 |
 | 2023-12-27 | 29,209 | 1 |
 | 2023-12-28 | 29,416 | 1 |
-| 2023-12-29 | 29,498 | 1 |
+| 2023-12-29 | 29,501 | 1 |
 ## Awards
 Max (Character Customization): 3,606  (Ranked 93)  
 Sum: 8,442 (Ranked 105)  

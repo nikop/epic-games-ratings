@@ -4,7 +4,7 @@
   "ProductSlug": "horizon-zero-dawn-complete-edition",
   "Ranking_Rating": 132,
   "Ranking_Popularity": 72,
-  "Ranking_PopularitySum": 86,
+  "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 569,
@@ -8834,18 +8834,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 12178,
       "NumberOfAwardsMax": 5551
+    },
+    {
+      "Time": "2023-12-29T09:57:56.2904841+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 12207,
+      "NumberOfAwardsMax": 5573
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12178,
-  "NumberOfAwardsMax": 5551,
+  "NumberOfAwards": 12207,
+  "NumberOfAwardsMax": 5573,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 5551
+      "Count": 5573
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -8881,7 +8887,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 328
+      "Count": 333
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8911,7 +8917,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 316
+      "Count": 318
     }
   ],
   "EOS_Progressed": 0,
@@ -8925,8 +8931,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:54.5867721+00:00",
-  "LastChanged": "2023-12-29T08:58:01.5755885+00:00",
+  "LastChanged": "2023-12-29T09:57:56.2904841+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:59.9388954+00:00",
-  "LastUpdate_Ratings": "2023-12-29T08:58:01.575589+00:00",
-  "LastUpdate_Achievements": "2023-12-29T09:03:26.298216+00:00"
+  "LastUpdate_Ratings": "2023-12-29T09:57:56.2904847+00:00",
+  "LastUpdate_Achievements": "2023-12-29T10:03:22.5589227+00:00"
 }
