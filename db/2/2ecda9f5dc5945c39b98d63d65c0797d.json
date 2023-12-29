@@ -4,7 +4,7 @@
   "ProductSlug": "the-gap-e8d40c",
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2024-01-18T09:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-14T13:10:04.1106533+00:00",
-  "LastChanged_Achievements": "2023-12-29T14:05:54.9605976+00:00",
+  "LastChanged_Achievements": "2023-12-29T15:07:12.0086028+00:00",
   "LastUpdate_AppInfo": "2023-12-28T14:57:05.2645644+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:57:30.7937071+00:00",
-  "LastUpdate_Achievements": "2023-12-29T14:05:54.960601+00:00"
+  "LastUpdate_Ratings": "2023-12-29T14:57:42.5870808+00:00",
+  "LastUpdate_Achievements": "2023-12-29T15:07:12.0086046+00:00"
 }

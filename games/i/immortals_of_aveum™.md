@@ -1,19 +1,19 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.22 (Ranked 933)  
+Rating: 4.22 (Ranked 934)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,900 |
-| Battlefields Have Memories | 80.00% | ~1,747 |
-| Enlisted | 73.00% | ~1,594 |
-| Maybe Engage a Little | 68.00% | ~1,485 |
-| No More Names | 49.00% | ~1,070 |
-| Initiate | 35.00% | ~764 |
-| Thrada-Kul | 31.00% | ~677 |
+| Unforeseen | 87.00% | ~1,902 |
+| Battlefields Have Memories | 80.00% | ~1,749 |
+| Enlisted | 73.00% | ~1,596 |
+| Maybe Engage a Little | 68.00% | ~1,486 |
+| No More Names | 50.00% | ~1,093 |
+| Initiate | 35.00% | ~765 |
+| Thrada-Kul | 31.00% | ~678 |
 | Gravity-Challenged Rocks | 25.00% | ~546 |
-| Socialite | 23.00% | ~502 |
+| Socialite | 23.00% | ~503 |
 | Soldier | 21.00% | ~459 |
 | All the Major Food Groups | 21.00% | ~459 |
 | Beggars Would Ride | 19.00% | ~415 |
@@ -23,9 +23,9 @@ Rating: 4.22 (Ranked 933)
 | A Familiar Nest | 13.00% | ~284 |
 | Periapt Alizarin | 13.00% | ~284 |
 | Geas Aristeya | 12.00% | ~262 |
-| A Perfect Cycle | 11.00% | ~240 |
+| A Perfect Cycle | 12.00% | ~262 |
 | Recruit | 11.00% | ~240 |
-| Armsman | 10.00% | ~218 |
+| Armsman | 10.00% | ~219 |
 | Lights Army | 8.00% | ~175 |
 | Periapt Cerulean | 7.00% | ~153 |
 | Good Boy | 6.00% | ~131 |
@@ -45,15 +45,15 @@ Rating: 4.22 (Ranked 933)
 | Master of Ultramarine | 0.70% | ~15 |
 | Master of Malachite | 0.50% | ~11 |
 | Backtracker | 0.50% | ~11 |
+| Petite Bourgeoisie | 0.40% | ~9 |
 | Family Business | 0.30% | ~7 |
 | Diplomat | 0.30% | ~7 |
-| Petite Bourgeoisie | 0.30% | ~7 |
 | Witch-Taker | 0.30% | ~7 |
 | Treasure Hunter | 0.30% | ~7 |
 | Out of Time | 0.20% | ~4 |
 | Fowl Play | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,184 (Ranked 236)  
+Progressed: 2,186 (Ranked 236)  
 Completed: 2 (0.09%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 2 (0.09%) (Ranked 313)
 | 2023-12-26 | 1,969 | 2 |
 | 2023-12-27 | 2,049 | 2 |
 | 2023-12-28 | 2,136 | 2 |
-| 2023-12-29 | 2,184 | 2 |
+| 2023-12-29 | 2,186 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

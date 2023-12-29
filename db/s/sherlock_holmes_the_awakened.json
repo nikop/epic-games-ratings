@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -163,9 +163,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1342,
+  "EOS_Progressed": 1343,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.83,
   "EosHistory": [
@@ -4703,6 +4703,11 @@
       "Time": "2023-12-29T13:06:44.9045808+00:00",
       "NumProgressed": 1342,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-29T15:03:52.9079101+00:00",
+      "NumProgressed": 1343,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 28,
@@ -4714,7 +4719,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "MQ01_2",
@@ -4762,7 +4767,7 @@
       "Name": "Fond Memories",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "MQ03_2",
@@ -4794,7 +4799,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "MQ04_1",
@@ -4810,7 +4815,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "MQ04_3",
@@ -4882,7 +4887,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "MQ07_1",
@@ -4906,7 +4911,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "MQ08_2",
@@ -4937,7 +4942,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1342,
+      "Progressed": 1343,
       "Completed": 38
     }
   ],
@@ -4945,8 +4950,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-27T11:03:12.3161328+00:00",
-  "LastChanged_Achievements": "2023-12-29T14:03:30.6525111+00:00",
+  "LastChanged_Achievements": "2023-12-29T15:03:52.9079098+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:08.3764282+00:00",
-  "LastUpdate_Ratings": "2023-12-29T14:03:16.8437787+00:00",
-  "LastUpdate_Achievements": "2023-12-29T14:03:30.6525587+00:00"
+  "LastUpdate_Ratings": "2023-12-29T15:03:20.3685297+00:00",
+  "LastUpdate_Achievements": "2023-12-29T15:03:52.9079507+00:00"
 }

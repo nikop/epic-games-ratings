@@ -4,7 +4,7 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 739,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.84,
   "EosHistory": [
@@ -1485,9 +1485,9 @@
       "ID": "deadly_secret",
       "SetID": "d4f4pll",
       "Name": "Deadly Secret",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 75,
-      "UsersEstimate": 89
+      "UsersEstimate": 96
     },
     {
       "ID": "ending_1",
@@ -1638,8 +1638,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-12-29T14:09:50.4880268+00:00",
+  "LastChanged_Achievements": "2023-12-29T15:10:03.1744757+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.7149105+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:57:22.5124112+00:00",
-  "LastUpdate_Achievements": "2023-12-29T14:09:50.488073+00:00"
+  "LastUpdate_Ratings": "2023-12-29T14:57:30.74022+00:00",
+  "LastUpdate_Achievements": "2023-12-29T15:10:03.1744959+00:00"
 }

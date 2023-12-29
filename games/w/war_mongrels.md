@@ -31,8 +31,8 @@ Number of Ratings: 34  (23.09.2022)
 | Bullseye! | 21.00% | ~154 |
 | Sorrow | 19.00% | ~139 |
 | Atonement | 17.00% | ~124 |
+| Helping Hand | 17.00% | ~124 |
 | Food Massacre | 17.00% | ~124 |
-| Helping Hand | 16.00% | ~117 |
 | Without a Second Thought | 15.00% | ~110 |
 | Collectibles of Chapter III | 13.00% | ~95 |
 | Collectibles of Chapter IV | 13.00% | ~95 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.10% | ~1 |
 | Challenges of Chapter XII | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731 (Ranked 307)  
+Progressed: 731 (Ranked 308)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39691,
+  "EOS_Progressed": 39692,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 370,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -22387,6 +22387,11 @@
       "Time": "2023-12-29T14:08:45.9287139+00:00",
       "NumProgressed": 39691,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-12-29T15:08:34.0505257+00:00",
+      "NumProgressed": 39692,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 14,
@@ -22486,7 +22491,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 30562
+      "UsersEstimate": 30563
     },
     {
       "ID": "roots",
@@ -22494,7 +22499,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6747
+      "UsersEstimate": 6748
     },
     {
       "ID": "secretItem",
@@ -22509,15 +22514,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 39691,
+      "Progressed": 39692,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-12-25T15:57:40.6217361+00:00",
-  "LastChanged_Achievements": "2023-12-29T14:08:45.9287134+00:00",
+  "LastChanged_Achievements": "2023-12-29T15:08:34.0505251+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:16.6802538+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:59:39.2170836+00:00",
-  "LastUpdate_Achievements": "2023-12-29T14:08:45.9288373+00:00"
+  "LastUpdate_Ratings": "2023-12-29T15:00:49.5222281+00:00",
+  "LastUpdate_Achievements": "2023-12-29T15:08:34.0506452+00:00"
 }

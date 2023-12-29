@@ -5,26 +5,26 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Iceberg Theory | 77.00% | ~109 |
-| Gear Up | 66.00% | ~93 |
-| A Grand Show | 66.00% | ~93 |
+| Gear Up | 66.00% | ~94 |
+| A Grand Show | 66.00% | ~94 |
 | Freshen Up | 55.00% | ~78 |
-| GG EZ | 52.00% | ~73 |
-| Hydrophobia | 37.00% | ~52 |
-| Ka-Ching! | 30.00% | ~42 |
-| Stop Right There | 28.00% | ~39 |
-| Get to the Point | 26.00% | ~37 |
+| GG EZ | 53.00% | ~75 |
+| Hydrophobia | 37.00% | ~53 |
+| Ka-Ching! | 30.00% | ~43 |
+| Stop Right There | 28.00% | ~40 |
+| Get to the Point | 25.00% | ~36 |
 | Phew! | 15.00% | ~21 |
 | Mr. Want It All | 14.00% | ~20 |
 | Toe to Toe | 14.00% | ~20 |
 | The Hidden Secret | 13.00% | ~18 |
 | The Abyss Conqueror | 10.00% | ~14 |
 | Space Warrior: Prologue | 10.00% | ~14 |
-| The Fortress Conqueror | 9.00% | ~13 |
 | Grand Escape | 9.00% | ~13 |
+| The Fortress Conqueror | 8.00% | ~11 |
 | Keep it Up, rookie! | 7.00% | ~10 |
-| The Hypergravitational Abyss Conqueror | 6.00% | ~8 |
-| he Ultra Fortress Conqueror | 6.00% | ~8 |
-| Decapitation Strike | 6.00% | ~8 |
+| The Hypergravitational Abyss Conqueror | 6.00% | ~9 |
+| he Ultra Fortress Conqueror | 6.00% | ~9 |
+| Decapitation Strike | 6.00% | ~9 |
 | The Deep Frozen Conqueror | 5.00% | ~7 |
 | The Infinite Train Conqueror | 5.00% | ~7 |
 | The Paradox Coordinate Conqueror | 5.00% | ~7 |
@@ -55,8 +55,8 @@
 | Bullets Fear Me | 0.70% | ~1 |
 | Super Alloy Ranger! | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141 (Ranked 449)  
-Completed: 1 (0.71%) (Ranked 194)  
+Progressed: 142 (Ranked 449)  
+Completed: 1 (0.70%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -133,6 +133,7 @@ Completed: 1 (0.71%) (Ranked 194)
 | 2023-12-23 | 137 | 1 |
 | 2023-12-25 | 139 | 1 |
 | 2023-12-26 | 141 | 1 |
+| 2023-12-29 | 142 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

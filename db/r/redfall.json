@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -327,9 +327,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2145,
+  "EOS_Progressed": 2146,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3567,6 +3567,11 @@
       "Time": "2023-12-29T14:04:15.0516546+00:00",
       "NumProgressed": 2145,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T15:04:54.8219666+00:00",
+      "NumProgressed": 2146,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3632,9 +3637,9 @@
       "ID": "Achievement_009",
       "SetID": "6b34g18",
       "Name": "Ne Plus Ultra",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 193
     },
     {
       "ID": "Achievement_010",
@@ -3728,9 +3733,9 @@
       "ID": "Achievement_021",
       "SetID": "6b34g18",
       "Name": "Radio Silence",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 86
     },
     {
       "ID": "Achievement_022",
@@ -3802,7 +3807,7 @@
       "Name": "ICU",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "Achievement_031",
@@ -3826,7 +3831,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "Achievement_034",
@@ -3834,7 +3839,7 @@
       "Name": "Catch and Release",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "Achievement_035",
@@ -4105,7 +4110,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2145,
+      "Progressed": 2146,
       "Completed": 0
     }
   ],
@@ -4113,8 +4118,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-28T23:57:36.8686406+00:00",
-  "LastChanged_Achievements": "2023-12-29T14:04:15.0516541+00:00",
+  "LastChanged_Achievements": "2023-12-29T15:04:54.8219662+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:45.1864069+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:58:10.2105959+00:00",
-  "LastUpdate_Achievements": "2023-12-29T14:04:15.0517239+00:00"
+  "LastUpdate_Ratings": "2023-12-29T14:58:40.5098174+00:00",
+  "LastUpdate_Achievements": "2023-12-29T15:04:54.822032+00:00"
 }

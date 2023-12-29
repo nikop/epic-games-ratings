@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 683,
+  "EOS_Progressed": 684,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -2520,6 +2520,11 @@
       "Time": "2023-12-29T12:09:08.0925202+00:00",
       "NumProgressed": 683,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-29T15:09:21.1707639+00:00",
+      "NumProgressed": 684,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -2532,7 +2537,7 @@
       "Name": "New arm",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -2548,7 +2553,7 @@
       "Name": "Their Rock",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
@@ -2562,9 +2567,9 @@
       "ID": "ACHIEVEMENT_14_PromiseYuna",
       "SetID": "9bke6f1",
       "Name": "Yuna\u0027s Promise",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 184
+      "UsersEstimate": 178
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -2612,7 +2617,7 @@
       "Name": "Shelter Escape",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -2652,7 +2657,7 @@
       "Name": "TentacleMAN",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACHIEVEMENT_25_LoveAssistant",
@@ -2660,7 +2665,7 @@
       "Name": "LOVEassistant",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_2_FirstBond",
@@ -2676,7 +2681,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -2692,15 +2697,15 @@
       "Name": "First wall",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
       "SetID": "9bke6f1",
       "Name": "Piggyback Expert",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 301
+      "UsersEstimate": 308
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
@@ -2708,7 +2713,7 @@
       "Name": "Second wall",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -2731,7 +2736,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 683,
+      "Progressed": 684,
       "Completed": 2
     }
   ],
@@ -2739,8 +2744,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-27T15:59:49.1136695+00:00",
-  "LastChanged_Achievements": "2023-12-29T14:09:19.898991+00:00",
+  "LastChanged_Achievements": "2023-12-29T15:09:21.1707636+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:10.2016354+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:59:39.849819+00:00",
-  "LastUpdate_Achievements": "2023-12-29T14:09:19.8990315+00:00"
+  "LastUpdate_Ratings": "2023-12-29T15:00:50.7812244+00:00",
+  "LastUpdate_Achievements": "2023-12-29T15:09:21.1707923+00:00"
 }

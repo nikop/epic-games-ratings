@@ -481,9 +481,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1559911,
+  "EOS_Progressed": 1559931,
   "EOS_Completed": 759,
-  "EOS_NewPlayers": 2155,
+  "EOS_NewPlayers": 2167,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -29481,6 +29481,11 @@
       "Time": "2023-12-29T14:04:57.8065823+00:00",
       "NumProgressed": 1559911,
       "NumCompleted": 759
+    },
+    {
+      "Time": "2023-12-29T15:05:53.7908433+00:00",
+      "NumProgressed": 1559931,
+      "NumCompleted": 759
     }
   ],
   "TotalAchievements": 20,
@@ -29492,7 +29497,7 @@
       "Name": "Bacon Donuts",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 9359
+      "UsersEstimate": 9360
     },
     {
       "ID": "ACH_BUZZ_CONTROL_TOWER",
@@ -29500,7 +29505,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 109194
+      "UsersEstimate": 109195
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -29508,7 +29513,7 @@
       "Name": "Bring the Cubic Ruckus",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31198
+      "UsersEstimate": 31199
     },
     {
       "ID": "ACH_DOUBLE_RAINBOW",
@@ -29524,7 +29529,7 @@
       "Name": "Drift Line Apprentice",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 46797
+      "UsersEstimate": 46798
     },
     {
       "ID": "ACH_DRIFT_LINE_MASTER",
@@ -29540,7 +29545,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 140392
+      "UsersEstimate": 140394
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -29564,7 +29569,7 @@
       "Name": "Jelly Donuts",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31198
+      "UsersEstimate": 31199
     },
     {
       "ID": "ACH_MAD_SKILLS",
@@ -29572,7 +29577,7 @@
       "Name": "Mad Skills",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 46797
+      "UsersEstimate": 46798
     },
     {
       "ID": "ACH_MASTER_DRIFTER",
@@ -29580,7 +29585,7 @@
       "Name": "Master Drifter",
       "Percentage": 2,
       "XP": 95,
-      "UsersEstimate": 31198
+      "UsersEstimate": 31199
     },
     {
       "ID": "ACH_MIDNIGHT_DRIFTER",
@@ -29588,7 +29593,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 155991
+      "UsersEstimate": 155993
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -29596,7 +29601,7 @@
       "Name": "Midnight Master",
       "Percentage": 2,
       "XP": 95,
-      "UsersEstimate": 31198
+      "UsersEstimate": 31199
     },
     {
       "ID": "ACH_MULTIPLIER_MASTER",
@@ -29604,7 +29609,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 140392
+      "UsersEstimate": 140394
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -29620,7 +29625,7 @@
       "Name": "Spin Doctor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31198
+      "UsersEstimate": 31199
     },
     {
       "ID": "ACH_THE_COMPLETIONIST",
@@ -29636,7 +29641,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 77996
+      "UsersEstimate": 77997
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -29651,15 +29656,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1559911,
+      "Progressed": 1559931,
       "Completed": 759
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-12-17T11:57:05.6881594+00:00",
-  "LastChanged_Achievements": "2023-12-29T14:04:57.806582+00:00",
+  "LastChanged_Achievements": "2023-12-29T15:05:53.7908429+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:34.4889522+00:00",
-  "LastUpdate_Ratings": "2023-12-29T14:02:58.7806009+00:00",
-  "LastUpdate_Achievements": "2023-12-29T14:04:57.8067199+00:00"
+  "LastUpdate_Ratings": "2023-12-29T15:02:54.3190372+00:00",
+  "LastUpdate_Achievements": "2023-12-29T15:05:53.7909932+00:00"
 }

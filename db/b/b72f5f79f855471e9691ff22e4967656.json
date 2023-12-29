@@ -761,9 +761,9 @@
       "ID": "explodeItem100",
       "SetID": "ci65fo0",
       "Name": "Demoman with experience",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "fall",
@@ -913,9 +913,9 @@
       "ID": "killSlug50",
       "SetID": "ci65fo0",
       "Name": "Slug fighter",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "killStone50",
@@ -953,9 +953,9 @@
       "ID": "killZombie10",
       "SetID": "ci65fo0",
       "Name": "Paladin",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "killZombie50",
@@ -985,9 +985,9 @@
       "ID": "locCompRandomLabyrinth",
       "SetID": "ci65fo0",
       "Name": "Winner of the Random",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 24
     },
     {
       "ID": "locDungeon1",
@@ -1185,9 +1185,9 @@
       "ID": "questNorthGraveyard",
       "SetID": "ci65fo0",
       "Name": "In charge of the cemetery",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "questPumpkinKing",
@@ -1233,17 +1233,17 @@
       "ID": "questSWAntidot",
       "SetID": "2fb6h6c",
       "Name": "Conquerer of Animalizing",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "questSWComplete",
       "SetID": "2fb6h6c",
       "Name": "Renowned ufologist",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "questSWVillage",
@@ -1318,8 +1318,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-12-29T14:09:57.4858915+00:00",
+  "LastChanged_Achievements": "2023-12-29T15:10:13.0155583+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.0184442+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:59:34.1375174+00:00",
-  "LastUpdate_Achievements": "2023-12-29T14:09:57.4859549+00:00"
+  "LastUpdate_Ratings": "2023-12-29T15:00:42.3203869+00:00",
+  "LastUpdate_Achievements": "2023-12-29T15:10:13.0156198+00:00"
 }

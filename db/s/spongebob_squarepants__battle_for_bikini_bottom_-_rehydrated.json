@@ -4,7 +4,7 @@
   "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
   "Ranking_Rating": 296,
   "Ranking_Popularity": 495,
-  "Ranking_PopularitySum": 522,
+  "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 180,
@@ -317,11 +317,11 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 487,
+  "EOS_Progressed": 489,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 295,
+  "EOS_NewPlayers": 289,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.62,
+  "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -1352,6 +1352,11 @@
       "Time": "2023-12-29T14:05:53.0519003+00:00",
       "NumProgressed": 487,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T15:07:09.4281865+00:00",
+      "NumProgressed": 489,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1364,7 +1369,7 @@
       "Name": "Robot encyclopedia",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_ARE_YOU_READY_NOW",
@@ -1372,7 +1377,7 @@
       "Name": "Are you ready now?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_CHUM_BUCKET_BRAIN",
@@ -1420,7 +1425,7 @@
       "Name": "Hello, Bikini Bottom",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_FLYING_DUTCHMAN_BOSS",
@@ -1578,9 +1583,9 @@
       "ID": "ACH_STAT_SPONGE_SMASHER",
       "SetID": "biiejkc",
       "Name": "Sponge Smasher",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -1619,15 +1624,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 487,
+      "Progressed": 489,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-29T14:05:53.0519+00:00",
+  "LastChanged_Achievements": "2023-12-29T15:07:09.4281862+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-29T14:02:37.3603022+00:00",
-  "LastUpdate_Achievements": "2023-12-29T14:05:53.0519325+00:00"
+  "LastUpdate_Ratings": "2023-12-29T15:02:23.4868759+00:00",
+  "LastUpdate_Achievements": "2023-12-29T15:07:09.4282095+00:00"
 }

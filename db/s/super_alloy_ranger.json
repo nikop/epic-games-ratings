@@ -3,8 +3,8 @@
   "Name": "Super Alloy Ranger",
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 449,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 425,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 141,
+  "EOS_Progressed": 142,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.71,
+  "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:20.3185117+00:00",
@@ -691,6 +691,11 @@
       "Time": "2023-12-26T13:07:02.5448603+00:00",
       "NumProgressed": 141,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T15:06:50.9369476+00:00",
+      "NumProgressed": 142,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -732,9 +737,9 @@
       "ID": "Achi_05",
       "SetID": "51a97k7",
       "Name": "The Fortress Conqueror",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "Achi_06",
@@ -766,7 +771,7 @@
       "Name": "The Hypergravitational Abyss Conqueror",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Achi_10",
@@ -782,7 +787,7 @@
       "Name": "he Ultra Fortress Conqueror",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Achi_12",
@@ -838,7 +843,7 @@
       "Name": "Gear Up",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "Achi_19",
@@ -908,9 +913,9 @@
       "ID": "Achi_27",
       "SetID": "51a97k7",
       "Name": "GG EZ",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 75
     },
     {
       "ID": "Achi_28",
@@ -918,7 +923,7 @@
       "Name": "Ka-Ching!",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Achi_29",
@@ -934,7 +939,7 @@
       "Name": "A Grand Show",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "Achi_31",
@@ -966,7 +971,7 @@
       "Name": "Hydrophobia",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "Achi_35",
@@ -974,7 +979,7 @@
       "Name": "Stop Right There",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Achi_36",
@@ -988,9 +993,9 @@
       "ID": "Achi_37",
       "SetID": "51a97k7",
       "Name": "Get to the Point",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 36
     },
     {
       "ID": "Achi_38",
@@ -1046,7 +1051,7 @@
       "Name": "Decapitation Strike",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Achi_45",
@@ -1101,7 +1106,7 @@
     {
       "ID": "51a97k7",
       "IsBase": true,
-      "Progressed": 141,
+      "Progressed": 142,
       "Completed": 1
     }
   ],
@@ -1109,8 +1114,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-12-29T14:05:39.7199537+00:00",
+  "LastChanged_Achievements": "2023-12-29T15:06:50.9369474+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:57.3788075+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:58:12.3716501+00:00",
-  "LastUpdate_Achievements": "2023-12-29T14:05:39.720021+00:00"
+  "LastUpdate_Ratings": "2023-12-29T14:58:43.5201214+00:00",
+  "LastUpdate_Achievements": "2023-12-29T15:06:50.9369898+00:00"
 }

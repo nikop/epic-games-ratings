@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sweep | 93.00% | ~410 |
+| Clean Sweep | 94.00% | ~415 |
 | Scavenger | 73.00% | ~322 |
 | Line of Duty | 72.00% | ~318 |
-| Gunner | 56.00% | ~247 |
+| Gunner | 57.00% | ~251 |
 | DocKing | 46.00% | ~203 |
 | What-A-Shot | 43.00% | ~190 |
 | Batteries Included | 38.00% | ~168 |

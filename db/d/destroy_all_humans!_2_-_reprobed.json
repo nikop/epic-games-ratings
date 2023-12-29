@@ -4,10 +4,10 @@
   "ProductSlug": "destroy-all-humans-2-reprobed",
   "Ranking_Rating": 541,
   "Ranking_Popularity": 489,
-  "Ranking_PopularitySum": 521,
+  "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -282,9 +282,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 237,
+  "EOS_Progressed": 238,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -1192,6 +1192,11 @@
       "Time": "2023-12-29T14:09:21.3010102+00:00",
       "NumProgressed": 237,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T15:09:23.0906871+00:00",
+      "NumProgressed": 238,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1276,7 +1281,7 @@
       "Name": "Cult Following",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1332,7 +1337,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -1340,7 +1345,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1388,7 +1393,7 @@
       "Name": "Lobster Blisque",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_KILL_ORANCHOV",
@@ -1436,7 +1441,7 @@
       "Name": "Yettisoned",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
@@ -1452,7 +1457,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -1555,7 +1560,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 237,
+      "Progressed": 238,
       "Completed": 1
     }
   ],
@@ -1563,8 +1568,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-28T10:58:39.1665152+00:00",
-  "LastChanged_Achievements": "2023-12-29T14:09:21.3010098+00:00",
+  "LastChanged_Achievements": "2023-12-29T15:09:23.0906869+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:59:12.5822219+00:00",
-  "LastUpdate_Achievements": "2023-12-29T14:09:21.301054+00:00"
+  "LastUpdate_Ratings": "2023-12-29T15:00:10.0295279+00:00",
+  "LastUpdate_Achievements": "2023-12-29T15:09:23.0907155+00:00"
 }

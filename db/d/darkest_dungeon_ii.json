@@ -10204,10 +10204,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21228,
       "NumberOfAwardsMax": 7899
+    },
+    {
+      "Time": "2023-12-29T15:01:30.9007271+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21232,
+      "NumberOfAwardsMax": 7899
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21228,
+  "NumberOfAwards": 21232,
   "NumberOfAwardsMax": 7899,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10251,7 +10257,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1500
+      "Count": 1504
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10284,7 +10290,7 @@
       "Count": 1068
     }
   ],
-  "EOS_Progressed": 130527,
+  "EOS_Progressed": 130541,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 1421,
   "EOS_NewCompleters": 0,
@@ -37364,6 +37370,11 @@
       "Time": "2023-12-29T14:09:48.2610753+00:00",
       "NumProgressed": 130527,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T15:10:00.0524646+00:00",
+      "NumProgressed": 130541,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37375,7 +37386,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5221
+      "UsersEstimate": 5222
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -37383,7 +37394,7 @@
       "Name": "Serenity Now!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5221
+      "UsersEstimate": 5222
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -37503,7 +37514,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6526
+      "UsersEstimate": 6527
     },
     {
       "ID": "combat_kill_cadavers",
@@ -37527,7 +37538,7 @@
       "Name": "Not Today!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5221
+      "UsersEstimate": 5222
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -37535,7 +37546,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6526
+      "UsersEstimate": 6527
     },
     {
       "ID": "combat_kill_fanatics",
@@ -37575,7 +37586,7 @@
       "Name": "Meat and Greet",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5221
+      "UsersEstimate": 5222
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -37591,7 +37602,7 @@
       "Name": "Catch and Decease",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5221
+      "UsersEstimate": 5222
     },
     {
       "ID": "combat_kill_librarian",
@@ -37599,7 +37610,7 @@
       "Name": "Overdue Notice",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6526
+      "UsersEstimate": 6527
     },
     {
       "ID": "combat_kill_pillagers",
@@ -37615,7 +37626,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5221
+      "UsersEstimate": 5222
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -37653,9 +37664,9 @@
       "ID": "combat_run_kill_three_lair_bosses",
       "SetID": "64l4lke",
       "Name": "Hat Trick",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 783
+      "UsersEstimate": 914
     },
     {
       "ID": "driving_biome_clear_cave",
@@ -37671,7 +37682,7 @@
       "Name": "Rush Hour",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5221
+      "UsersEstimate": 5222
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -37695,7 +37706,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5221
+      "UsersEstimate": 5222
     },
     {
       "ID": "driving_distance_easy",
@@ -37783,7 +37794,7 @@
       "Name": "FNG",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5221
+      "UsersEstimate": 5222
     },
     {
       "ID": "inn_visit_all_variants",
@@ -37911,7 +37922,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "combat_kill_collector",
@@ -37919,7 +37930,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -37975,7 +37986,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -38006,21 +38017,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130527,
+      "Progressed": 130541,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5396,
+      "Progressed": 5410,
       "Completed": 813
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-29T14:00:06.913306+00:00",
-  "LastChanged_Achievements": "2023-12-29T14:09:48.2610748+00:00",
+  "LastChanged": "2023-12-29T15:01:30.900727+00:00",
+  "LastChanged_Achievements": "2023-12-29T15:10:00.0524639+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-29T14:00:06.9133066+00:00",
-  "LastUpdate_Achievements": "2023-12-29T14:09:48.261238+00:00"
+  "LastUpdate_Ratings": "2023-12-29T15:01:30.9007275+00:00",
+  "LastUpdate_Achievements": "2023-12-29T15:10:00.0526307+00:00"
 }

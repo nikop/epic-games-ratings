@@ -9,8 +9,8 @@ Number of Ratings: 36  (23.09.2022)
 | Breathe In… Breathe Out… | 73.00% | ~748 |
 | It’s Heating up! | 69.00% | ~707 |
 | Let’s patch things up | 65.00% | ~666 |
-| I can fix it! | 62.00% | ~635 |
-| Post No Bills | 54.00% | ~553 |
+| I can fix it! | 62.00% | ~636 |
+| Post No Bills | 54.00% | ~554 |
 | Truly Shocking! | 48.00% | ~492 |
 | Critical Thinker | 36.00% | ~369 |
 | Act I Complete | 29.00% | ~297 |
@@ -26,15 +26,15 @@ Number of Ratings: 36  (23.09.2022)
 | Solidarity Forever | 12.00% | ~123 |
 | A Tucked Tale | 10.00% | ~102 |
 | The best thing money can buy | 9.00% | ~92 |
-| Act III Complete | 6.00% | ~61 |
-| See you Space Cowboy | 6.00% | ~61 |
+| Act III Complete | 6.00% | ~62 |
+| See you Space Cowboy | 6.00% | ~62 |
 | Fire and Brimstone | 5.00% | ~51 |
 | Ghost in the Ship | 2.00% | ~20 |
 | Disagree and Commit | 0.10% | ~1 |
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,024 (Ranked 285)  
+Progressed: 1,025 (Ranked 285)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,6 +186,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 1,016 | 0 |
 | 2023-12-27 | 1,021 | 0 |
 | 2023-12-28 | 1,024 | 0 |
+| 2023-12-29 | 1,025 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

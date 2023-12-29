@@ -1,25 +1,25 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.08 (Ranked 1,003)  
+Rating: 4.08 (Ranked 1,002)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 57.00% | ~820 |
+| Break Out | 58.00% | ~836 |
 | Trinity | 28.00% | ~403 |
 | A Taste of Wrath | 22.00% | ~317 |
-| Find Allies | 21.00% | ~302 |
-| I Found It | 21.00% | ~302 |
-| The Collector | 21.00% | ~302 |
+| Find Allies | 21.00% | ~303 |
+| I Found It | 21.00% | ~303 |
+| The Collector | 21.00% | ~303 |
 | Shatter Them All | 20.00% | ~288 |
 | Geared Up | 20.00% | ~288 |
-| Adventurer | 19.00% | ~273 |
-| Scholar | 19.00% | ~273 |
+| Adventurer | 19.00% | ~274 |
+| Scholar | 19.00% | ~274 |
+| Fashion Victim | 18.00% | ~259 |
 | Powerful Allies | 17.00% | ~245 |
 | Tributes of Caladrias | 17.00% | ~245 |
-| Fashion Victim | 17.00% | ~245 |
 | Stone Collection | 17.00% | ~245 |
-| Big Bazar | 11.00% | ~158 |
+| Big Bazar | 11.00% | ~159 |
 | Essence Blow | 10.00% | ~144 |
 | Alchemist | 10.00% | ~144 |
 | The Mentor | 8.00% | ~115 |
@@ -28,7 +28,7 @@ Rating: 4.08 (Ranked 1,003)
 | Godslayer | 6.00% | ~86 |
 | Airborne | 6.00% | ~86 |
 | Miner | 6.00% | ~86 |
-| Clear Sight | 3.00% | ~43 |
+| Clear Sight | 4.00% | ~58 |
 | Shatterer | 3.00% | ~43 |
 | Fine Feathers Make Fine Birds | 3.00% | ~43 |
 | Slayer | 2.00% | ~29 |
@@ -42,7 +42,7 @@ Rating: 4.08 (Ranked 1,003)
 | Summiter | 0.80% | ~12 |
 | Feeling Fancy | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,439 (Ranked 260)  
+Progressed: 1,441 (Ranked 260)  
 Completed: 3 (0.21%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 3 (0.21%) (Ranked 270)
 | 2023-12-26 | 1,308 | 3 |
 | 2023-12-27 | 1,365 | 3 |
 | 2023-12-28 | 1,412 | 3 |
-| 2023-12-29 | 1,439 | 3 |
+| 2023-12-29 | 1,441 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

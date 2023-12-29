@@ -13,8 +13,8 @@ Number of Ratings: 85  (23.09.2022)
 | Yettisoned | 54.00% | ~115 |
 | I Look Up As I Walk to Takoshima | 54.00% | ~115 |
 | Perfect Probulator | 53.00% | ~113 |
+| Pimp My Raid | 49.00% | ~104 |
 | Lobster Blisque | 48.00% | ~102 |
-| Pimp My Raid | 48.00% | ~102 |
 | Earthly Pleasures | 46.00% | ~98 |
 | Fly Me to the Moon Base | 44.00% | ~94 |
 | Ducks in a Row, Fish in a Barrel | 43.00% | ~92 |
@@ -66,8 +66,8 @@ Completed: 2 (0.94%) (Ranked 177)
 | 2023-12-29 | 213 | 2 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 501)  
-Sum: 34 (Ranked 525)  
-Diff (max vs sum): -24  
+Sum: 34 (Ranked 526)  
+Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 34 |

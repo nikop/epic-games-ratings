@@ -6,15 +6,15 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 79.00% | ~187 |
+| Rock of the Bay | 79.00% | ~188 |
 | Mash Machine | 72.00% | ~171 |
 | Ducks in a Row, Fish in a Barrel | 51.00% | ~121 |
 | Furon Fashion | 46.00% | ~109 |
 | Shop Til They Drop | 38.00% | ~90 |
 | Bodied Sattva | 34.00% | ~81 |
-| Earthly Pleasures | 33.00% | ~78 |
-| Cult Following | 31.00% | ~73 |
-| Lie Back and Think of Albion | 25.00% | ~59 |
+| Earthly Pleasures | 33.00% | ~79 |
+| Cult Following | 31.00% | ~74 |
+| Lie Back and Think of Albion | 25.00% | ~60 |
 | Upgreatest | 24.00% | ~57 |
 | Pimp My Raid | 23.00% | ~55 |
 | I Look Up As I Walk to Takoshima | 19.00% | ~45 |
@@ -28,8 +28,8 @@ Number of Ratings: 90  (23.09.2022)
 | Dusted | 8.00% | ~19 |
 | Scuttled | 6.00% | ~14 |
 | Re-Return of the Clone of the Invasion II-2 | 6.00% | ~14 |
-| Lobster Blisque | 4.00% | ~9 |
-| Yettisoned | 4.00% | ~9 |
+| Lobster Blisque | 4.00% | ~10 |
+| Yettisoned | 4.00% | ~10 |
 | Ultimate Smoothie | 3.00% | ~7 |
 | Deincarnated | 3.00% | ~7 |
 | Arkvoodle Doodle | 3.00% | ~7 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.40% | ~1 |
 | Trans-Siberian Express | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237 (Ranked 406)  
+Progressed: 238 (Ranked 406)  
 Completed: 1 (0.42%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,11 +84,11 @@ Completed: 1 (0.42%) (Ranked 225)
 | 2023-12-26 | 205 | 1 |
 | 2023-12-27 | 222 | 1 |
 | 2023-12-28 | 230 | 1 |
-| 2023-12-29 | 237 | 1 |
+| 2023-12-29 | 238 | 1 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 489)  
-Sum: 36 (Ranked 521)  
-Diff (max vs sum): -32  
+Sum: 36 (Ranked 522)  
+Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 36 |

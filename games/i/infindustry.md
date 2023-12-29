@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Harvester | 14.00% | ~18 |
-| Workforce | 13.00% | ~17 |
+| Workforce | 14.00% | ~18 |
 | Builder | 10.00% | ~13 |
 | Cook | 6.00% | ~8 |
 | Crafter | 2.00% | ~3 |

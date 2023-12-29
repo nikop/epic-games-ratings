@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 124,
+  "EOS_Progressed": 125,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1031,6 +1031,11 @@
       "Time": "2023-12-29T06:03:44.5809919+00:00",
       "NumProgressed": 124,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T15:04:52.7401616+00:00",
+      "NumProgressed": 125,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1131,7 +1136,7 @@
       "Name": "Long-Haul Flyer",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "30POTIONS",
@@ -1155,7 +1160,7 @@
       "Name": "Globetrotter",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "50000ELEXIT",
@@ -1179,7 +1184,7 @@
       "Name": "Hotshot",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ALLCRAFT",
@@ -1331,15 +1336,15 @@
       "Name": "Best Buddy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "FINDMAP",
       "SetID": "a1angca",
       "Name": "Legendary",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FINDWARDEK",
@@ -1442,15 +1447,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 124,
+      "Progressed": 125,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2023-12-29T14:04:13.5397546+00:00",
+  "LastChanged_Achievements": "2023-12-29T15:04:52.7401612+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:36.6401654+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:57:45.1609774+00:00",
-  "LastUpdate_Achievements": "2023-12-29T14:04:13.5397912+00:00"
+  "LastUpdate_Ratings": "2023-12-29T14:58:03.9613677+00:00",
+  "LastUpdate_Achievements": "2023-12-29T15:04:52.7401984+00:00"
 }

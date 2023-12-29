@@ -4,7 +4,7 @@
   "ProductSlug": "gigapocalypse-fdc53b",
   "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 461,
+  "Ranking_EOS_NewPlayers": 462,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-03-22T16:00:00+00:00",
@@ -566,9 +566,9 @@
       "ID": "secret20",
       "SetID": "39f6ck8",
       "Name": "Caretaker",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 170
     },
     {
       "ID": "secret21",
@@ -903,8 +903,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-12-29T14:05:41.352315+00:00",
+  "LastChanged_Achievements": "2023-12-29T15:06:53.1465955+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:22:01.310535+00:00",
-  "LastUpdate_Ratings": "2023-12-29T14:03:26.0570686+00:00",
-  "LastUpdate_Achievements": "2023-12-29T14:05:41.352359+00:00"
+  "LastUpdate_Ratings": "2023-12-29T15:03:43.6744221+00:00",
+  "LastUpdate_Achievements": "2023-12-29T15:06:53.1466312+00:00"
 }

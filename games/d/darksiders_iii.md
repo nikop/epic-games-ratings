@@ -8,7 +8,7 @@ Number of Ratings: 116  (23.09.2022)
 | ---- | ---------- | ----- |
 | Green with Envy | 78.00% | ~218 |
 | First of many… | 70.00% | ~195 |
-| Helping Hand | 65.00% | ~181 |
+| Helping Hand | 66.00% | ~184 |
 | Increased Vigor | 61.00% | ~170 |
 | Fight Fire with Fire | 59.00% | ~165 |
 | Increased Capacity | 56.00% | ~156 |
@@ -87,8 +87,8 @@ Completed: 1 (0.36%) (Ranked 235)
 | 2023-12-28 | 265 | 1 |
 | 2023-12-29 | 279 | 1 |
 ## Awards
-Max (Great Boss Battles): 94  (Ranked 385)  
-Sum: 94 (Ranked 465)  
+Max (Great Boss Battles): 94  (Ranked 386)  
+Sum: 94 (Ranked 466)  
 Diff (max vs sum): -80  
 | Award | Count |
 | ----- | ----- |

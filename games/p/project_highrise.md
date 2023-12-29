@@ -17,11 +17,11 @@
 | Proper Walls | 30.00% | ~136 |
 | Destination Destiny | 30.00% | ~136 |
 | Happy Tenants | 25.00% | ~114 |
-| Potent Potables | 24.00% | ~109 |
+| Potent Potables | 25.00% | ~114 |
 | Smooth Service | 24.00% | ~109 |
 | Your Prestige is Rising | 23.00% | ~105 |
+| Don't Feel a Loan | 22.00% | ~100 |
 | Retail Revenue | 22.00% | ~100 |
-| Don't Feel a Loan | 21.00% | ~96 |
 | People Mover | 20.00% | ~91 |
 | Artfully Done | 19.00% | ~86 |
 | Emporium Empire | 19.00% | ~86 |

@@ -5,37 +5,37 @@ Rating: 4.45 (Ranked 684)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,948 |
-| Confirming Suspicions | 42.00% | ~1,741 |
+| Meeting Resistance | 47.00% | ~1,949 |
+| Confirming Suspicions | 42.00% | ~1,742 |
 | The Kraken Wakes | 37.00% | ~1,534 |
-| It's Starting to Crack | 34.00% | ~1,409 |
-| Change the Channel | 32.00% | ~1,326 |
-| Lord of War | 31.00% | ~1,285 |
-| Taking it back | 29.00% | ~1,202 |
+| It's Starting to Crack | 34.00% | ~1,410 |
+| Change the Channel | 32.00% | ~1,327 |
+| Lord of War | 31.00% | ~1,286 |
+| Taking it back | 29.00% | ~1,203 |
 | Resourceful | 28.00% | ~1,161 |
-| Target America | 27.00% | ~1,119 |
-| The Kraken Sleeps | 25.00% | ~1,036 |
+| Target America | 27.00% | ~1,120 |
+| The Kraken Sleeps | 25.00% | ~1,037 |
 | As Quiet as a Mouse | 24.00% | ~995 |
-| Liberté | 23.00% | ~953 |
-| Organ Grinder | 23.00% | ~953 |
-| Sharpshooter | 23.00% | ~953 |
+| Liberté | 23.00% | ~954 |
+| Organ Grinder | 23.00% | ~954 |
+| Sharpshooter | 23.00% | ~954 |
 | Gunslinger | 19.00% | ~788 |
 | Explosive Efficiency | 19.00% | ~788 |
 | Climbing the Ladder | 17.00% | ~705 |
 | Just a Flesh Wound | 17.00% | ~705 |
 | Der Geist | 17.00% | ~705 |
-| Close Quarters | 16.00% | ~663 |
-| Snake in the Grass | 16.00% | ~663 |
+| Close Quarters | 16.00% | ~664 |
+| Snake in the Grass | 16.00% | ~664 |
 | Skirmisher | 15.00% | ~622 |
 | Die Nussknacker Sweet! | 15.00% | ~622 |
 | Brains of the Operation | 15.00% | ~622 |
-| No Stone Unturned | 14.00% | ~580 |
-| Opposing Force | 14.00% | ~580 |
-| Enemy at the Gates | 14.00% | ~580 |
-| Fields of Glory | 14.00% | ~580 |
+| No Stone Unturned | 14.00% | ~581 |
+| Opposing Force | 14.00% | ~581 |
+| Enemy at the Gates | 14.00% | ~581 |
+| Fields of Glory | 14.00% | ~581 |
 | Set Europe Ablaze | 13.00% | ~539 |
-| Precision Is Key | 10.00% | ~414 |
-| My Little Friend | 10.00% | ~414 |
+| Precision Is Key | 10.00% | ~415 |
+| My Little Friend | 10.00% | ~415 |
 | Rigged to Blow | 9.00% | ~373 |
 | Herr Today, Gone Tomorrow | 7.00% | ~287 |
 | The Long Game | 6.00% | ~249 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 684)
 | Stroll in the Woods | 0.60% | ~25 |
 | Going Overboard | 0.60% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,145 (Ranked 208)  
+Progressed: 4,147 (Ranked 208)  
 Completed: 11 (0.27%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,11 +328,11 @@ Completed: 11 (0.27%) (Ranked 258)
 | 2023-12-26 | 4,128 | 11 |
 | 2023-12-27 | 4,137 | 11 |
 | 2023-12-28 | 4,143 | 11 |
-| 2023-12-29 | 4,145 | 11 |
+| 2023-12-29 | 4,147 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 525)  
-Sum: 28 (Ranked 540)  
-Diff (max vs sum): -15  
+Sum: 28 (Ranked 541)  
+Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 28 |

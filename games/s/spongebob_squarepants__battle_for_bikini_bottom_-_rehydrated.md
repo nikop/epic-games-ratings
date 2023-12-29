@@ -7,7 +7,7 @@ Number of Ratings: 76  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Spatula Seeker | 16.00% | ~78 |
-| Sponge Smasher | 15.00% | ~73 |
+| Sponge Smasher | 16.00% | ~78 |
 | Jellyfish Jam | 14.00% | ~68 |
 | Jellyfishing | 10.00% | ~49 |
 | Sweet Victory | 9.00% | ~44 |
@@ -23,9 +23,9 @@ Number of Ratings: 76  (23.09.2022)
 | Toxic Terror | 6.00% | ~29 |
 | Hit Rock Bottom | 6.00% | ~29 |
 | Keep it Rolling | 5.00% | ~24 |
-| Robot encyclopedia | 4.00% | ~19 |
-| Are you ready now? | 4.00% | ~19 |
-| Hello, Bikini Bottom | 4.00% | ~19 |
+| Robot encyclopedia | 4.00% | ~20 |
+| Are you ready now? | 4.00% | ~20 |
+| Hello, Bikini Bottom | 4.00% | ~20 |
 | Ship Shape | 3.00% | ~15 |
 | Shanghaied | 3.00% | ~15 |
 | Kelp Forest of Fear | 3.00% | ~15 |
@@ -39,8 +39,8 @@ Number of Ratings: 76  (23.09.2022)
 | 100% SpongeBob | 0.80% | ~4 |
 | Super Ultra Mega Spatula Seeker | 0.80% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 487 (Ranked 344)  
-Completed: 3 (0.62%) (Ranked 202)  
+Progressed: 489 (Ranked 344)  
+Completed: 3 (0.61%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -55,11 +55,11 @@ Completed: 3 (0.62%) (Ranked 202)
 | 2023-12-26 | 412 | 3 |
 | 2023-12-27 | 435 | 3 |
 | 2023-12-28 | 466 | 3 |
-| 2023-12-29 | 487 | 3 |
+| 2023-12-29 | 489 | 3 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 495)  
-Sum: 35 (Ranked 522)  
-Diff (max vs sum): -27  
+Sum: 35 (Ranked 523)  
+Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 35 |

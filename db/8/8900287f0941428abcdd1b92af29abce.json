@@ -221,9 +221,9 @@
       "ID": "ach-carpenter-table",
       "SetID": "6aph42m",
       "Name": "Time to build a house",
-      "Percentage": 59,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach-chest",
@@ -325,9 +325,9 @@
       "ID": "ach-furniture-table",
       "SetID": "6aph42m",
       "Name": "Time to furnish",
-      "Percentage": 59,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach-goblin-bed",
@@ -572,8 +572,8 @@
   ],
   "FirstSeen": "2023-12-09T20:59:53.605626+00:00",
   "FirstSeenAchievements": "2023-09-27T06:05:39.2666292+00:00",
-  "LastChanged_Achievements": "2023-12-29T14:09:51.275337+00:00",
+  "LastChanged_Achievements": "2023-12-29T15:10:04.3126485+00:00",
   "LastUpdate_AppInfo": "2023-12-27T12:59:42.3590497+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:58:04.7002128+00:00",
-  "LastUpdate_Achievements": "2023-12-29T14:09:51.2753885+00:00"
+  "LastUpdate_Ratings": "2023-12-29T14:58:32.2737695+00:00",
+  "LastUpdate_Achievements": "2023-12-29T15:10:04.3126916+00:00"
 }

@@ -6,29 +6,29 @@ Rating: 3.75 (Ranked 1,074)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I can do a thing or two | 60.00% | ~371 |
-| Buckle up | 59.00% | ~365 |
-| Quick charge | 59.00% | ~365 |
+| Buckle up | 58.00% | ~359 |
+| Quick charge | 58.00% | ~359 |
 | Now you know | 53.00% | ~328 |
-| Hands up! | 52.00% | ~321 |
-| Short circuit | 52.00% | ~321 |
+| Hands up! | 52.00% | ~322 |
+| Short circuit | 52.00% | ~322 |
 | Curious | 42.00% | ~260 |
-| Everybody lies | 36.00% | ~222 |
+| Everybody lies | 36.00% | ~223 |
 | Trick or Treat? | 23.00% | ~142 |
-| Sysadmin | 22.00% | ~136 |
 | There is another way | 22.00% | ~136 |
+| Sysadmin | 21.00% | ~130 |
 | Every little helps | 20.00% | ~124 |
-| Annoying | 19.00% | ~117 |
-| Hacker | 19.00% | ~117 |
-| He is just a child | 19.00% | ~117 |
-| The Walking Robot Among Us | 19.00% | ~117 |
+| Annoying | 19.00% | ~118 |
+| Hacker | 19.00% | ~118 |
+| He is just a child | 19.00% | ~118 |
+| The Walking Robot Among Us | 19.00% | ~118 |
 | Uncertain | 18.00% | ~111 |
 | Goody | 17.00% | ~105 |
-| Please oh pleeease! | 17.00% | ~105 |
 | Ace | 16.00% | ~99 |
 | Concrete painting | 16.00% | ~99 |
 | Found it! | 16.00% | ~99 |
 | Hipster | 16.00% | ~99 |
 | Not what it seems | 16.00% | ~99 |
+| Please oh pleeease! | 16.00% | ~99 |
 | That's much better! | 15.00% | ~93 |
 | Not as clumsy or random | 13.00% | ~80 |
 | Blade Runner | 10.00% | ~62 |
@@ -38,7 +38,7 @@ Rating: 3.75 (Ranked 1,074)
 | Accurate | 5.00% | ~31 |
 | Silent | 4.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 618 (Ranked 326)  
+Progressed: 619 (Ranked 326)  
 Completed: 19 (3.07%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 19 (3.07%) (Ranked 107)
 | 2023-12-26 | 612 | 19 |
 | 2023-12-27 | 613 | 19 |
 | 2023-12-28 | 616 | 19 |
-| 2023-12-29 | 618 | 19 |
+| 2023-12-29 | 619 | 19 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

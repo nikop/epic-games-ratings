@@ -7,7 +7,7 @@ Number of Ratings: 124  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Entrepreneur | 36.00% | ~45 |
-| Best Buddy | 27.00% | ~33 |
+| Best Buddy | 27.00% | ~34 |
 | Civilian | 25.00% | ~31 |
 | Role Model | 24.00% | ~30 |
 | Peddler | 20.00% | ~25 |
@@ -15,15 +15,15 @@ Number of Ratings: 124  (23.09.2022)
 | Festival-goer | 18.00% | ~22 |
 | Commander | 17.00% | ~21 |
 | Military Leader | 15.00% | ~19 |
-| Long-Haul Flyer | 14.00% | ~17 |
+| Long-Haul Flyer | 14.00% | ~18 |
 | Irissa's Fate | 11.00% | ~14 |
 | Pass A38 | 11.00% | ~14 |
 | Berserker | 10.00% | ~12 |
 | Family Reunion | 10.00% | ~12 |
 | Eternal Oblivion | 8.00% | ~10 |
 | Alb | 7.00% | ~9 |
-| Globetrotter | 6.00% | ~7 |
-| Hotshot | 6.00% | ~7 |
+| Globetrotter | 6.00% | ~8 |
+| Hotshot | 6.00% | ~8 |
 | Storyteller | 5.00% | ~6 |
 | Free as a Bird | 5.00% | ~6 |
 | Self-Sufficient | 4.00% | ~5 |
@@ -42,6 +42,7 @@ Number of Ratings: 124  (23.09.2022)
 | Defector | 0.80% | ~1 |
 | Outlaw | 0.80% | ~1 |
 | Destroyer | 0.80% | ~1 |
+| Legendary | 0.80% | ~1 |
 | Pack Rat | 0.00% | ~0 |
 | Drinker | 0.00% | ~0 |
 | Key Master | 0.00% | ~0 |
@@ -50,14 +51,13 @@ Number of Ratings: 124  (23.09.2022)
 | Computer Scientist | 0.00% | ~0 |
 | Treasurer | 0.00% | ~0 |
 | Toy Time | 0.00% | ~0 |
-| Legendary | 0.00% | ~0 |
 | Warrior | 0.00% | ~0 |
 | Defender | 0.00% | ~0 |
 | Ruthless | 0.00% | ~0 |
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124 (Ranked 465)  
+Progressed: 125 (Ranked 465)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 109 | 0 |
 | 2023-12-27 | 117 | 0 |
 | 2023-12-28 | 122 | 0 |
-| 2023-12-29 | 124 | 0 |
+| 2023-12-29 | 125 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

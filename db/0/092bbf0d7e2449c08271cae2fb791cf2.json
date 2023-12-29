@@ -4,7 +4,7 @@
   "ProductSlug": "chuchel-203808",
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 340,
+  "EOS_Progressed": 341,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 2,
@@ -1124,6 +1124,11 @@
       "Time": "2023-12-29T14:05:40.9798359+00:00",
       "NumProgressed": 340,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T15:06:52.6358474+00:00",
+      "NumProgressed": 341,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1136,7 +1141,7 @@
       "Name": "Good Morning",
       "Percentage": 16,
       "XP": 145,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ach2",
@@ -1184,21 +1189,21 @@
       "Name": "Snail Racing Champion",
       "Percentage": 11,
       "XP": 145,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     }
   ],
   "AchievementSets": [
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 340,
+      "Progressed": 341,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-12-29T14:05:40.9798351+00:00",
+  "LastChanged_Achievements": "2023-12-29T15:06:52.6358471+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:07.636228+00:00",
-  "LastUpdate_Ratings": "2023-12-29T14:00:09.1485966+00:00",
-  "LastUpdate_Achievements": "2023-12-29T14:05:40.9798536+00:00"
+  "LastUpdate_Ratings": "2023-12-29T15:01:34.0264218+00:00",
+  "LastUpdate_Achievements": "2023-12-29T15:06:52.6358588+00:00"
 }

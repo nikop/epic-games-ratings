@@ -30,9 +30,9 @@ Rating: 4.52 (Ranked 569)
 | Family | 39.00% | ~537 |
 | Biggest Snowball Ever | 39.00% | ~537 |
 | Freeze The Ice Witch | 39.00% | ~537 |
+| True Legends | 39.00% | ~537 |
 | Boosted! | 39.00% | ~537 |
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~537 |
-| True Legends | 38.00% | ~523 |
 | It Is Not Over | 36.00% | ~496 |
 | Bullseye | 36.00% | ~496 |
 | On The Rocks | 34.00% | ~468 |

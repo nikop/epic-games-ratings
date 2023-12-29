@@ -9163,9 +9163,9 @@
       "Count": 3607
     }
   ],
-  "EOS_Progressed": 246751,
+  "EOS_Progressed": 246793,
   "EOS_Completed": 2575,
-  "EOS_NewPlayers": 3510,
+  "EOS_NewPlayers": 3518,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -37788,6 +37788,11 @@
       "Time": "2023-12-29T14:10:27.5079468+00:00",
       "NumProgressed": 246751,
       "NumCompleted": 2575
+    },
+    {
+      "Time": "2023-12-29T15:10:51.5597018+00:00",
+      "NumProgressed": 246793,
+      "NumCompleted": 2575
     }
   ],
   "TotalAchievements": 546,
@@ -37799,7 +37804,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4935
+      "UsersEstimate": 4936
     },
     {
       "ID": "objective_completed_10",
@@ -38167,7 +38172,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1728
     },
     {
       "ID": "objective_completed_110",
@@ -42166,21 +42171,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 213025,
-      "Completed": 4090
+      "Progressed": 213067,
+      "Completed": 4091
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 246751,
+      "Progressed": 246793,
       "Completed": 2575
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-29T13:02:39.1033219+00:00",
-  "LastChanged_Achievements": "2023-12-29T14:10:27.5079465+00:00",
+  "LastChanged_Achievements": "2023-12-29T15:10:51.5597011+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:59:22.0489422+00:00",
-  "LastUpdate_Achievements": "2023-12-29T14:10:27.5103684+00:00"
+  "LastUpdate_Ratings": "2023-12-29T15:00:24.2223844+00:00",
+  "LastUpdate_Achievements": "2023-12-29T15:10:51.5620011+00:00"
 }

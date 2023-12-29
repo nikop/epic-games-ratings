@@ -10,10 +10,10 @@ Rating: 4.56 (Ranked 500)
 | Ranged Weapon | 1.00% | ~23 |
 | Two Handed Weapon | 1.00% | ~23 |
 | Defeat 25 Frogs | 1.00% | ~23 |
+| Shield Maiden Yellow Tongue | 1.00% | ~9 |
 | The Bright Fir | 1.00% | ~9 |
 | Collect Monster Parts | 0.90% | ~21 |
 | Defeat 25 Grubs | 0.90% | ~21 |
-| Shield Maiden Yellow Tongue | 0.90% | ~8 |
 | Collect Gold | 0.80% | ~18 |
 | Collect Iron Ore | 0.80% | ~18 |
 | Defeat 25 Mozis | 0.80% | ~18 |

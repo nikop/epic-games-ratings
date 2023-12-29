@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1714,
+  "EOS_Progressed": 1715,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
@@ -4227,6 +4227,11 @@
       "Time": "2023-12-29T13:07:21.6284348+00:00",
       "NumProgressed": 1714,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T15:04:44.2778418+00:00",
+      "NumProgressed": 1715,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4261,9 +4266,9 @@
       "ID": "ML_ACHIEVEMENT_04",
       "SetID": "5k00jcd",
       "Name": "Drifting teacher",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -4533,9 +4538,9 @@
       "ID": "ML_ACHIEVEMENT_38",
       "SetID": "5k00jcd",
       "Name": "Spoiled for choice",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -4565,9 +4570,9 @@
       "ID": "ML_ACHIEVEMENT_42",
       "SetID": "5k00jcd",
       "Name": "Magic trick",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "ML_ACHIEVEMENT_43",
@@ -4606,20 +4611,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1714,
+      "Progressed": 1715,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1382,
+      "Progressed": 1383,
       "Completed": 1006
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-29T14:04:07.309946+00:00",
+  "LastChanged_Achievements": "2023-12-29T15:04:44.2778414+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:57:31.0978853+00:00",
-  "LastUpdate_Achievements": "2023-12-29T14:04:07.3100023+00:00"
+  "LastUpdate_Ratings": "2023-12-29T14:57:43.0141612+00:00",
+  "LastUpdate_Achievements": "2023-12-29T15:04:44.2778992+00:00"
 }

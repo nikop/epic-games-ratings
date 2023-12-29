@@ -1021,7 +1021,7 @@
       "Count": 159
     }
   ],
-  "EOS_Progressed": 14495,
+  "EOS_Progressed": 14502,
   "EOS_Completed": 83,
   "EOS_NewPlayers": 1112,
   "EOS_NewCompleters": 10,
@@ -16246,6 +16246,11 @@
       "Time": "2023-12-29T14:09:54.6708851+00:00",
       "NumProgressed": 14495,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2023-12-29T15:10:08.9097758+00:00",
+      "NumProgressed": 14502,
+      "NumCompleted": 83
     }
   ],
   "TotalAchievements": 34,
@@ -16337,7 +16342,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1594
+      "UsersEstimate": 1595
     },
     {
       "ID": "ACH12",
@@ -16361,7 +16366,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6088
+      "UsersEstimate": 6091
     },
     {
       "ID": "ACH15",
@@ -16417,7 +16422,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 6668
+      "UsersEstimate": 6671
     },
     {
       "ID": "ACH22",
@@ -16425,7 +16430,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2899
+      "UsersEstimate": 2900
     },
     {
       "ID": "ACH23",
@@ -16433,7 +16438,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3769
+      "UsersEstimate": 3771
     },
     {
       "ID": "ACH24",
@@ -16441,7 +16446,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2174
+      "UsersEstimate": 2175
     },
     {
       "ID": "ACH25",
@@ -16449,7 +16454,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2174
+      "UsersEstimate": 2175
     },
     {
       "ID": "ACH26",
@@ -16457,7 +16462,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2174
+      "UsersEstimate": 2175
     },
     {
       "ID": "ACH27",
@@ -16513,7 +16518,7 @@
       "Name": "Done it All",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH34",
@@ -16528,7 +16533,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 14495,
+      "Progressed": 14502,
       "Completed": 83
     }
   ],
@@ -16536,8 +16541,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-28T17:58:03.31187+00:00",
-  "LastChanged_Achievements": "2023-12-29T14:09:54.6708847+00:00",
+  "LastChanged_Achievements": "2023-12-29T15:10:08.9097757+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:06.9886134+00:00",
-  "LastUpdate_Ratings": "2023-12-29T13:58:31.5919786+00:00",
-  "LastUpdate_Achievements": "2023-12-29T14:09:54.6710077+00:00"
+  "LastUpdate_Ratings": "2023-12-29T14:59:11.6109338+00:00",
+  "LastUpdate_Achievements": "2023-12-29T15:10:08.9098866+00:00"
 }
