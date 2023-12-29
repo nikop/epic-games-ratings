@@ -14,7 +14,7 @@ Number of Ratings: 124  (23.09.2022)
 | Creator | 18.00% | ~22 |
 | Festival-goer | 18.00% | ~22 |
 | Commander | 17.00% | ~21 |
-| Military Leader | 15.00% | ~19 |
+| Military Leader | 16.00% | ~20 |
 | Long-Haul Flyer | 14.00% | ~18 |
 | Irissa's Fate | 11.00% | ~14 |
 | Pass A38 | 11.00% | ~14 |
@@ -22,9 +22,9 @@ Number of Ratings: 124  (23.09.2022)
 | Family Reunion | 10.00% | ~12 |
 | Eternal Oblivion | 8.00% | ~10 |
 | Alb | 7.00% | ~9 |
+| Storyteller | 6.00% | ~8 |
 | Globetrotter | 6.00% | ~8 |
 | Hotshot | 6.00% | ~8 |
-| Storyteller | 5.00% | ~6 |
 | Free as a Bird | 5.00% | ~6 |
 | Self-Sufficient | 4.00% | ~5 |
 | Unbreakable | 4.00% | ~5 |

@@ -2,13 +2,13 @@
   "ID": "3a5c77a536854024add2714cbd0fa865",
   "Name": "RoboCop: Rogue City",
   "ProductSlug": "robocop-rogue-city",
-  "Ranking_Rating": 826,
+  "Ranking_Rating": 840,
   "Ranking_Popularity": 370,
   "Ranking_PopularitySum": 461,
-  "Ranking_EOS_Progress": 298,
+  "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-11-02T15:00:00+00:00",
     "PcReleaseDate": "2023-11-02T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "robocop-rogue-city"
     }
   },
-  "Rating": 4.34,
+  "Rating": 4.33,
   "RatingHistory": [
     {
       "Time": "2023-11-07T18:58:52.6047076+00:00",
@@ -399,6 +399,12 @@
       "Rating": 4.34,
       "NumberOfAwards": 102,
       "NumberOfAwardsMax": 102
+    },
+    {
+      "Time": "2023-12-29T15:59:35.9584046+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 102,
+      "NumberOfAwardsMax": 102
     }
   ],
   "ReviewsDisabled": false,
@@ -413,9 +419,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 823,
+  "EOS_Progressed": 849,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1358,6 +1364,11 @@
       "Time": "2023-12-29T15:06:12.5065873+00:00",
       "NumProgressed": 823,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T16:05:07.7148799+00:00",
+      "NumProgressed": 849,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-10T15:05:52.8911905+00:00",
@@ -1585,16 +1596,16 @@
     {
       "ID": "80nhi4a",
       "IsBase": true,
-      "Progressed": 823,
+      "Progressed": 849,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-02T16:00:47.732778+00:00",
   "FirstSeenRating": "2023-11-07T18:58:52.6047074+00:00",
   "FirstSeenAchievements": "2023-10-10T13:10:57.0550884+00:00",
-  "LastChanged": "2023-12-29T09:59:39.2835618+00:00",
-  "LastChanged_Achievements": "2023-12-29T15:06:12.506587+00:00",
+  "LastChanged": "2023-12-29T15:59:35.9584044+00:00",
+  "LastChanged_Achievements": "2023-12-29T16:05:07.7148795+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:06.1119232+00:00",
-  "LastUpdate_Ratings": "2023-12-29T15:00:42.1245153+00:00",
-  "LastUpdate_Achievements": "2023-12-29T15:06:12.5066076+00:00"
+  "LastUpdate_Ratings": "2023-12-29T15:59:35.9584049+00:00",
+  "LastUpdate_Achievements": "2023-12-29T16:05:07.7148985+00:00"
 }

@@ -6,18 +6,18 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 86.00% | ~8,743 |
-| Photogenic | 83.00% | ~8,438 |
-| Plug It In | 79.00% | ~8,031 |
-| Surge Gauntlet Jockey | 79.00% | ~8,031 |
-| Adventure Time | 75.00% | ~7,624 |
+| Let's Get This Party Started | 86.00% | ~8,744 |
+| Photogenic | 83.00% | ~8,439 |
+| Plug It In | 79.00% | ~8,032 |
+| Surge Gauntlet Jockey | 79.00% | ~8,032 |
+| Adventure Time | 75.00% | ~7,625 |
 | Playing With Power | 72.00% | ~7,320 |
-| Coup d'Etat | 55.00% | ~5,591 |
+| Coup d'Etat | 55.00% | ~5,592 |
 | You're Fired | 54.00% | ~5,490 |
-| Get Furious | 53.00% | ~5,388 |
-| Hacks In Stacks | 53.00% | ~5,388 |
-| Gunplay And Cosplay | 52.00% | ~5,286 |
-| Meching Enemies | 46.00% | ~4,676 |
+| Get Furious | 53.00% | ~5,389 |
+| Hacks In Stacks | 53.00% | ~5,389 |
+| Gunplay And Cosplay | 52.00% | ~5,287 |
+| Meching Enemies | 46.00% | ~4,677 |
 | Ticket Toddler | 42.00% | ~4,270 |
 | Booty Bashing | 36.00% | ~3,660 |
 | Field Medic | 36.00% | ~3,660 |
@@ -50,14 +50,14 @@ Number of Ratings: 801  (23.09.2022)
 | Treasure Hunting | 3.00% | ~305 |
 | Nexuwizard | 2.00% | ~203 |
 | Everybody Freeze | 1.00% | ~102 |
-| The Collector | 0.90% | ~91 |
+| The Collector | 0.90% | ~92 |
 | Nature Is Lit | 0.80% | ~81 |
 | I'm The Pluggernaut | 0.60% | ~61 |
 | Shield and Shred | 0.60% | ~61 |
 | Infinite Adventures! | 0.40% | ~41 |
 | Pyrotechnical | 0.20% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,166 (Ranked 178)  
+Progressed: 10,167 (Ranked 178)  
 Completed: 2 (0.02%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 2 (0.02%) (Ranked 357)
 | 2023-12-26 | 10,136 | 2 |
 | 2023-12-27 | 10,144 | 2 |
 | 2023-12-28 | 10,157 | 2 |
-| 2023-12-29 | 10,166 | 2 |
+| 2023-12-29 | 10,167 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 419)  
 Sum: 465 (Ranked 339)  

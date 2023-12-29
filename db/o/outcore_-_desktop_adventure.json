@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 545,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-07T07:00:00+00:00",
     "PcReleaseDate": "2022-09-25T21:00:00+00:00",
@@ -295,9 +295,9 @@
       "ID": "CompletedChapter4",
       "SetID": "7ejh407",
       "Name": "Defeated the core of the outside world",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 200,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Creepy1",
@@ -375,9 +375,9 @@
       "ID": "InternetExplorer",
       "SetID": "7ejh407",
       "Name": "Internet Explorer",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "LaifuRouteDemon",
@@ -478,8 +478,8 @@
   ],
   "FirstSeen": "2023-05-08T18:00:59.2575901+00:00",
   "FirstSeenAchievements": "2023-05-02T18:05:17.3554395+00:00",
-  "LastChanged_Achievements": "2023-12-29T15:09:29.2897474+00:00",
+  "LastChanged_Achievements": "2023-12-29T16:08:47.7110115+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:19.4044185+00:00",
-  "LastUpdate_Ratings": "2023-12-29T14:58:00.3963876+00:00",
-  "LastUpdate_Achievements": "2023-12-29T15:09:29.2897641+00:00"
+  "LastUpdate_Ratings": "2023-12-29T15:57:46.7723627+00:00",
+  "LastUpdate_Achievements": "2023-12-29T16:08:47.7110296+00:00"
 }

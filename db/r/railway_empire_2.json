@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -7566,9 +7566,9 @@
       "ID": "A22",
       "SetID": "9b7p7eo",
       "Name": "Brainstorm",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1720
     },
     {
       "ID": "A23",
@@ -7686,9 +7686,9 @@
       "ID": "A37",
       "SetID": "9b7p7eo",
       "Name": "All around the World",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1617
+      "UsersEstimate": 1643
     },
     {
       "ID": "A38",
@@ -7839,8 +7839,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-27T17:00:03.776976+00:00",
-  "LastChanged_Achievements": "2023-12-29T15:04:56.8287024+00:00",
+  "LastChanged_Achievements": "2023-12-29T16:04:10.3251927+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:12.6153541+00:00",
-  "LastUpdate_Ratings": "2023-12-29T15:02:36.6561607+00:00",
-  "LastUpdate_Achievements": "2023-12-29T15:04:56.8287737+00:00"
+  "LastUpdate_Ratings": "2023-12-29T16:02:36.0655548+00:00",
+  "LastUpdate_Achievements": "2023-12-29T16:04:10.3252823+00:00"
 }

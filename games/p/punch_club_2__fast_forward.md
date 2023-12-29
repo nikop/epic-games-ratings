@@ -28,8 +28,8 @@
 | Workout professional | 54.00% | ~267 |
 | Little hacker | 54.00% | ~267 |
 | Champion – starter pack | 54.00% | ~267 |
+| It's good to be alive | 54.00% | ~267 |
 | Fight for life | 53.00% | ~262 |
-| It's good to be alive | 53.00% | ~262 |
 | Own four walls | 53.00% | ~262 |
 | Intriguing candies | 53.00% | ~262 |
 | Employee of the year | 53.00% | ~262 |
@@ -37,9 +37,9 @@
 | Extreme neuropower! | 49.00% | ~243 |
 | Escaped from a big trouble | 47.00% | ~233 |
 | Now you are worthy | 42.00% | ~208 |
-| Fight is life | 41.00% | ~203 |
+| Fight is life | 42.00% | ~208 |
+| Guiding on the right path | 42.00% | ~208 |
 | Mysterious voice | 41.00% | ~203 |
-| Guiding on the right path | 41.00% | ~203 |
 | No blades in the gym | 39.00% | ~193 |
 | Champion – no way back | 37.00% | ~183 |
 | Underground dwellers | 37.00% | ~183 |
@@ -52,9 +52,9 @@
 | The die is cast | 34.00% | ~168 |
 | Gang wrangler | 32.00% | ~158 |
 | Seashell hunter | 32.00% | ~158 |
+| Problems of cyborgs | 31.00% | ~153 |
 | Absolute Champion! | 31.00% | ~153 |
 | Undercover robot | 31.00% | ~153 |
-| Problems of cyborgs | 30.00% | ~148 |
 | The lonesome road | 29.00% | ~144 |
 | Family comes first | 29.00% | ~144 |
 | Not little hacker | 29.00% | ~144 |

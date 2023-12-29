@@ -6,20 +6,20 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 7.00% | ~1,371 |
-| Overgrown Library | 7.00% | ~1,371 |
-| Taking Action | 6.00% | ~1,175 |
-| No Deaths | 6.00% | ~1,175 |
-| Petrified Necropolis | 6.00% | ~1,175 |
-| First Real Expedition | 5.00% | ~979 |
-| The Marshlands | 5.00% | ~979 |
-| Gathering Storm | 5.00% | ~979 |
-| Overcoming Difficulty | 4.00% | ~783 |
-| Coral Forest | 4.00% | ~783 |
-| The Scarlet Orchard | 4.00% | ~783 |
-| Frosts | 4.00% | ~783 |
-| Land of Greed | 4.00% | ~783 |
-| Ominous Presence | 4.00% | ~783 |
+| Abandoned Settlement | 7.00% | ~1,372 |
+| Overgrown Library | 7.00% | ~1,372 |
+| Taking Action | 6.00% | ~1,176 |
+| No Deaths | 6.00% | ~1,176 |
+| Petrified Necropolis | 6.00% | ~1,176 |
+| First Real Expedition | 5.00% | ~980 |
+| The Marshlands | 5.00% | ~980 |
+| Ominous Presence | 5.00% | ~980 |
+| Gathering Storm | 5.00% | ~980 |
+| Overcoming Difficulty | 4.00% | ~784 |
+| Coral Forest | 4.00% | ~784 |
+| The Scarlet Orchard | 4.00% | ~784 |
+| Frosts | 4.00% | ~784 |
+| Land of Greed | 4.00% | ~784 |
 | Homesick | 3.00% | ~588 |
 | Fertile Meadows | 3.00% | ~588 |
 | Royal Outpost | 3.00% | ~588 |
@@ -54,8 +54,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Feeding The People | 0.50% | ~98 |
 | Like a Machine | 0.50% | ~98 |
 | Fox Utopia | 0.50% | ~98 |
+| Blood Flower Farmer | 0.40% | ~78 |
 | Prestigious Expedition | 0.30% | ~59 |
-| Blood Flower Farmer | 0.30% | ~59 |
 | Human Utopia | 0.20% | ~39 |
 | Lizard Utopia | 0.20% | ~39 |
 | Paradise | 0.10% | ~20 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,587 (Ranked 151)  
+Progressed: 19,597 (Ranked 151)  
 Completed: 36 (0.18%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,10 +319,10 @@ Completed: 36 (0.18%) (Ranked 276)
 | 2023-12-26 | 19,350 | 38 |
 | 2023-12-27 | 19,458 | 38 |
 | 2023-12-28 | 19,536 | 36 |
-| 2023-12-29 | 19,587 | 36 |
+| 2023-12-29 | 19,597 | 36 |
 ## Awards
 Max (Quickly Understood Controls): 446  (Ranked 229)  
-Sum: 3,303 (Ranked 176)  
+Sum: 3,305 (Ranked 176)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
@@ -330,8 +330,8 @@ Diff (max vs sum): 53
 | This game is Relaxing | 442 |
 | This game is Great for Beginners | 435 |
 | This game is Extremely Fun | 416 |
-| This game is Highly Recommended | 395 |
-| This game has Unique Visuals | 336 |
+| This game is Highly Recommended | 396 |
+| This game has Unique Visuals | 337 |
 | This game has Amazing Storytelling | 325 |
 | This game has Amazing Characters | 292 |
 | This game has Obsessive Gameplay | 254 |
@@ -607,4 +607,4 @@ Diff (max vs sum): 53
 | 2023-12-26 | 4.82 | - | 444 | 3,295 |
 | 2023-12-27 | 4.82 | - | 445 | 3,297 |
 | 2023-12-28 | 4.82 | - | 446 | 3,302 |
-| 2023-12-29 | 4.82 | - | 446 | 3,303 |
+| 2023-12-29 | 4.82 | - | 446 | 3,305 |

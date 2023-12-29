@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -301,7 +301,7 @@
   ],
   "EOS_Progressed": 213,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
@@ -1263,9 +1263,9 @@
       "ID": "ACH_INVADE_CAPITOL",
       "SetID": "cefn62b",
       "Name": "Hidden Human Hive Harvest",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_INVADE_ROCKWELL",
@@ -1367,8 +1367,8 @@
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2023-12-29T15:06:52.2057677+00:00",
+  "LastChanged_Achievements": "2023-12-29T16:05:38.9560721+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:18.8290018+00:00",
-  "LastUpdate_Ratings": "2023-12-29T14:59:57.8316116+00:00",
-  "LastUpdate_Achievements": "2023-12-29T15:06:52.2057893+00:00"
+  "LastUpdate_Ratings": "2023-12-29T15:59:06.1021893+00:00",
+  "LastUpdate_Achievements": "2023-12-29T16:05:38.9561024+00:00"
 }

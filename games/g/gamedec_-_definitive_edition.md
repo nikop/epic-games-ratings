@@ -6,11 +6,11 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,276 |
+| I will finish what you started | 29.00% | ~74,277 |
 | Powergamer | 27.00% | ~69,154 |
-| Write that down | 25.00% | ~64,031 |
-| Barely scratched the surface | 25.00% | ~64,031 |
-| Guns, lots of guns | 13.00% | ~33,296 |
+| Write that down | 25.00% | ~64,032 |
+| Barely scratched the surface | 25.00% | ~64,032 |
+| Guns, lots of guns | 13.00% | ~33,297 |
 | Collector | 12.00% | ~30,735 |
 | Elementary! | 9.00% | ~23,051 |
 | Griever | 8.00% | ~20,490 |
@@ -27,14 +27,14 @@ Number of Ratings: 33  (23.09.2022)
 | Hoarder | 3.00% | ~7,684 |
 | I like to sniff around | 3.00% | ~7,684 |
 | Mind reader | 3.00% | ~7,684 |
-| Catnip | 2.00% | ~5,122 |
-| Gentleman's classic | 2.00% | ~5,122 |
-| Is that a rift? | 2.00% | ~5,122 |
-| It's alive! | 2.00% | ~5,122 |
-| Enjoy the beach | 2.00% | ~5,122 |
-| Rinse and repeat | 2.00% | ~5,122 |
-| Mama, I'm a criminal | 2.00% | ~5,122 |
-| Never gonna give you up | 2.00% | ~5,122 |
+| Catnip | 2.00% | ~5,123 |
+| Gentleman's classic | 2.00% | ~5,123 |
+| Is that a rift? | 2.00% | ~5,123 |
+| It's alive! | 2.00% | ~5,123 |
+| Enjoy the beach | 2.00% | ~5,123 |
+| Rinse and repeat | 2.00% | ~5,123 |
+| Mama, I'm a criminal | 2.00% | ~5,123 |
+| Never gonna give you up | 2.00% | ~5,123 |
 | A muscle to rely on | 1.00% | ~2,561 |
 | A true blacksmith | 1.00% | ~2,561 |
 | I am in great pain, please help me | 1.00% | ~2,561 |
@@ -49,9 +49,9 @@ Number of Ratings: 33  (23.09.2022)
 | I have the high ground | 0.70% | ~1,793 |
 | Enjoy these little moments | 0.50% | ~1,281 |
 | Who wouldn't love a troll? | 0.50% | ~1,281 |
-| Irondec | 0.40% | ~1,024 |
-| LET ME OUT! | 0.40% | ~1,024 |
-| Un-bear-able | 0.40% | ~1,024 |
+| Irondec | 0.40% | ~1,025 |
+| LET ME OUT! | 0.40% | ~1,025 |
+| Un-bear-able | 0.40% | ~1,025 |
 | Well-deserved reunion | 0.30% | ~768 |
 | Breaking the chains | 0.20% | ~512 |
 | Aren't you overthinking? | 0.20% | ~512 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~512 |
 | Memory 5 | 0.10% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 256,125 (Ranked 65)  
+Progressed: 256,127 (Ranked 65)  
 Completed: 8 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 8 (0.00%) (Ranked 389)
 | 2023-12-26 | 255,820 | 8 |
 | 2023-12-27 | 255,936 | 8 |
 | 2023-12-28 | 256,053 | 8 |
-| 2023-12-29 | 256,125 | 8 |
+| 2023-12-29 | 256,127 | 8 |
 ## Awards
 Max (Character Customization): 95  (Ranked 385)  
 Sum: 95 (Ranked 465)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 600,
   "Ranking_EOS_Completed": 89,
   "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -348,9 +348,9 @@
       "ID": "MEM_V",
       "SetID": "35d3i7a",
       "Name": "Put on the mask!",
-      "Percentage": 54,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "MEM_VI",
@@ -412,9 +412,9 @@
       "ID": "MEM_XIV",
       "SetID": "35d3i7a",
       "Name": "You could be BEAUTIFUL.",
-      "Percentage": 58,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "MEM_XIX",
@@ -428,9 +428,9 @@
       "ID": "MEM_XV",
       "SetID": "35d3i7a",
       "Name": "I will make you a REAL prince.",
-      "Percentage": 42,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "MEM_XVI",
@@ -444,9 +444,9 @@
       "ID": "MEM_XVII",
       "SetID": "35d3i7a",
       "Name": "I like your loneliness.",
-      "Percentage": 50,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "MEM_XVIII",
@@ -587,8 +587,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2023-12-29T15:10:41.7942289+00:00",
+  "LastChanged_Achievements": "2023-12-29T16:09:44.4004514+00:00",
   "LastUpdate_AppInfo": "2023-12-27T14:57:15.6707756+00:00",
-  "LastUpdate_Ratings": "2023-12-29T14:57:33.4589697+00:00",
-  "LastUpdate_Achievements": "2023-12-29T15:10:41.7942685+00:00"
+  "LastUpdate_Ratings": "2023-12-29T15:57:28.2807253+00:00",
+  "LastUpdate_Achievements": "2023-12-29T16:09:44.4004797+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10290,9 +10290,9 @@
       "Count": 1068
     }
   ],
-  "EOS_Progressed": 130541,
+  "EOS_Progressed": 130550,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1421,
+  "EOS_NewPlayers": 1418,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37375,6 +37375,11 @@
       "Time": "2023-12-29T15:10:00.0524646+00:00",
       "NumProgressed": 130541,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T16:09:10.8985451+00:00",
+      "NumProgressed": 130550,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37482,7 +37487,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -37514,7 +37519,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6527
+      "UsersEstimate": 6528
     },
     {
       "ID": "combat_kill_cadavers",
@@ -37546,7 +37551,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6527
+      "UsersEstimate": 6528
     },
     {
       "ID": "combat_kill_fanatics",
@@ -37562,7 +37567,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "combat_kill_gaunts",
@@ -37578,7 +37583,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -37610,7 +37615,7 @@
       "Name": "Overdue Notice",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6527
+      "UsersEstimate": 6528
     },
     {
       "ID": "combat_kill_pillagers",
@@ -37738,7 +37743,7 @@
       "Name": "Autodidact",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7832
+      "UsersEstimate": 7833
     },
     {
       "ID": "hero_story_complete_all",
@@ -37858,7 +37863,7 @@
       "Name": "Eyes Up",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "run_victory_act04",
@@ -37866,7 +37871,7 @@
       "Name": "Handled",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "run_victory_act05",
@@ -37922,7 +37927,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "combat_kill_collector",
@@ -37970,7 +37975,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -37978,7 +37983,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "quest_complete_crusader",
@@ -37994,7 +37999,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -38017,21 +38022,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130541,
+      "Progressed": 130550,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5410,
+      "Progressed": 5419,
       "Completed": 813
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-29T15:01:30.900727+00:00",
-  "LastChanged_Achievements": "2023-12-29T15:10:00.0524639+00:00",
+  "LastChanged_Achievements": "2023-12-29T16:09:10.8985446+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-29T15:01:30.9007275+00:00",
-  "LastUpdate_Achievements": "2023-12-29T15:10:00.0526307+00:00"
+  "LastUpdate_Ratings": "2023-12-29T16:00:08.6256651+00:00",
+  "LastUpdate_Achievements": "2023-12-29T16:09:10.8987253+00:00"
 }

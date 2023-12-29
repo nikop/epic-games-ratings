@@ -6,15 +6,15 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~595 |
+| Malpractice Assurance | 11.00% | ~596 |
 | Lost and Found | 7.00% | ~379 |
-| Autodidact | 6.00% | ~7,832 |
+| Autodidact | 6.00% | ~7,833 |
 | This guy... again? | 6.00% | ~325 |
-| This Belongs in a Museum | 5.00% | ~6,527 |
-| Creep and Sleep | 5.00% | ~6,527 |
-| Overdue Notice | 5.00% | ~6,527 |
-| Ploughshares to Swords | 5.00% | ~270 |
-| Bloody Graduation | 5.00% | ~270 |
+| This Belongs in a Museum | 5.00% | ~6,528 |
+| Creep and Sleep | 5.00% | ~6,528 |
+| Overdue Notice | 5.00% | ~6,528 |
+| Ploughshares to Swords | 5.00% | ~271 |
+| Bloody Graduation | 5.00% | ~271 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,222 |
 | Serenity Now! | 4.00% | ~5,222 |
 | Not Today! | 4.00% | ~5,222 |
@@ -35,7 +35,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 3.00% | ~3,916 |
 | Nope | 3.00% | ~3,916 |
 | Unshackled | 3.00% | ~3,916 |
-| Friends 'Til the End | 3.00% | ~162 |
+| Friends 'Til the End | 3.00% | ~163 |
 | Resurrection | 2.00% | ~2,611 |
 | Unleash Hell | 2.00% | ~2,611 |
 | Funny Guy | 2.00% | ~2,611 |
@@ -55,11 +55,11 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 2.00% | ~2,611 |
 | Hot Air | 2.00% | ~2,611 |
 | Road Trip | 2.00% | ~2,611 |
-| This Looks Familiar | 1.00% | ~1,305 |
-| Ichthyophobic | 1.00% | ~1,305 |
-| No More Mouths to Feed | 1.00% | ~1,305 |
-| Eyes Up | 1.00% | ~1,305 |
-| Handled | 1.00% | ~1,305 |
+| This Looks Familiar | 1.00% | ~1,306 |
+| Ichthyophobic | 1.00% | ~1,306 |
+| No More Mouths to Feed | 1.00% | ~1,306 |
+| Eyes Up | 1.00% | ~1,306 |
+| Handled | 1.00% | ~1,306 |
 | Slap on the Wrist | 1.00% | ~54 |
 | For Old Time' Sake | 1.00% | ~54 |
 | Shrine of Reflection | 0.90% | ~1,175 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,541 (Ranked 87)  
+Progressed: 130,550 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-26 | 130,068 | 3 |
 | 2023-12-27 | 130,259 | 3 |
 | 2023-12-28 | 130,422 | 3 |
-| 2023-12-29 | 130,541 | 3 |
+| 2023-12-29 | 130,550 | 3 |
 ## Awards
 Max (Character Customization): 7,899  (Ranked 50)  
 Sum: 21,232 (Ranked 58)  

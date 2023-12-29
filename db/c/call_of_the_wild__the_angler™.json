@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1015,9 +1015,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7709,
+  "EOS_Progressed": 7711,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12610,6 +12610,11 @@
       "Time": "2023-12-29T15:04:30.762459+00:00",
       "NumProgressed": 7709,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T16:03:50.8423512+00:00",
+      "NumProgressed": 7711,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -12621,7 +12626,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -12653,7 +12658,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -12940,13 +12945,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7709,
+      "Progressed": 7711,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7081,
+      "Progressed": 7083,
       "Completed": 113
     }
   ],
@@ -12954,8 +12959,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-26T19:00:49.2434236+00:00",
-  "LastChanged_Achievements": "2023-12-29T15:04:30.7624586+00:00",
+  "LastChanged_Achievements": "2023-12-29T16:03:50.8423507+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:25.278975+00:00",
-  "LastUpdate_Ratings": "2023-12-29T14:57:34.1785599+00:00",
-  "LastUpdate_Achievements": "2023-12-29T15:04:30.7625356+00:00"
+  "LastUpdate_Ratings": "2023-12-29T15:57:28.699878+00:00",
+  "LastUpdate_Achievements": "2023-12-29T16:03:50.8424283+00:00"
 }

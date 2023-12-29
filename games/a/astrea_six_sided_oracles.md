@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 81.00% | ~215 |
-| Purification Pioneer | 76.00% | ~202 |
-| Mechanical Buddy | 71.00% | ~189 |
+| Meissa's Savior | 81.00% | ~216 |
+| Purification Pioneer | 76.00% | ~203 |
+| Mechanical Buddy | 71.00% | ~190 |
 | Dicesmithing Time! | 63.00% | ~168 |
 | Sanctuary Guardian | 54.00% | ~144 |
-| Endless Tricks | 49.00% | ~130 |
-| Wild's Keeper | 46.00% | ~122 |
-| Mind Illuminator | 44.00% | ~117 |
+| Endless Tricks | 49.00% | ~131 |
+| Wild's Keeper | 46.00% | ~123 |
+| Mind Illuminator | 43.00% | ~115 |
 | Stellar Dismantler | 35.00% | ~93 |
-| Noctuan Champion | 35.00% | ~93 |
+| Noctuan Champion | 34.00% | ~91 |
 | Anomaly Destroyer | 30.00% | ~80 |
 | Astral Adventurer | 30.00% | ~80 |
 | Star Killer | 27.00% | ~72 |
@@ -37,12 +37,12 @@
 | Anomaly Control | 6.00% | ~16 |
 | Artificer | 5.00% | ~13 |
 | Can't touch this | 5.00% | ~13 |
-| Prestidigitation | 5.00% | ~13 |
 | The Dark Moon | 5.00% | ~13 |
 | Apian Hero | 5.00% | ~13 |
 | Astrarium of Holding | 4.00% | ~11 |
 | Denying Destiny | 4.00% | ~11 |
 | If I Had Failed... | 4.00% | ~11 |
+| Prestidigitation | 4.00% | ~11 |
 | The Chaos Artisan | 4.00% | ~11 |
 | The Distorted Sage | 4.00% | ~11 |
 | Behenian Hero | 4.00% | ~11 |
@@ -53,27 +53,27 @@
 | The Ardent Prince | 3.00% | ~8 |
 | Behenian Mastery | 3.00% | ~8 |
 | Eridanian Hero | 3.00% | ~8 |
-| Anomaly Master | 2.00% | ~5 |
 | Astromancer | 2.00% | ~5 |
 | Critical Twist | 2.00% | ~5 |
 | Pocket Astrarium | 2.00% | ~5 |
-| Reflexive Mind | 2.00% | ~5 |
 | Sentinelphobic | 2.00% | ~5 |
 | The Raging Skies | 2.00% | ~5 |
-| Unepic Hero | 2.00% | ~5 |
-| Apian Mastery | 2.00% | ~5 |
 | Aquarian Hero | 2.00% | ~5 |
 | Aquarian Mastery | 2.00% | ~5 |
-| Eridanian Mastery | 2.00% | ~5 |
 | Lacertian Mastery | 2.00% | ~5 |
 | Noctuan Mastery | 2.00% | ~5 |
+| Anomaly Master | 1.00% | ~3 |
+| Reflexive Mind | 1.00% | ~3 |
 | Royal Choir | 1.00% | ~3 |
-| Astral Tinkerer | 0.80% | ~2 |
-| Astrea's Saviors | 0.80% | ~2 |
-| Astrium Specialist | 0.80% | ~2 |
-| Plague Doctor | 0.80% | ~2 |
-| Six-Sided Mastery | 0.80% | ~2 |
-| This is Fine | 0.80% | ~2 |
+| Unepic Hero | 1.00% | ~3 |
+| Apian Mastery | 1.00% | ~3 |
+| Eridanian Mastery | 1.00% | ~3 |
+| Astral Tinkerer | 0.70% | ~2 |
+| Astrea's Saviors | 0.70% | ~2 |
+| Astrium Specialist | 0.70% | ~2 |
+| Plague Doctor | 0.70% | ~2 |
+| Six-Sided Mastery | 0.70% | ~2 |
+| This is Fine | 0.70% | ~2 |
 | Arch-Oracle | 0.40% | ~1 |
 | Dice Specialist | 0.40% | ~1 |
 | Gotta tinker'em all! | 0.40% | ~1 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266 (Ranked 398)  
+Progressed: 267 (Ranked 397)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,4 +167,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 246 | 0 |
 | 2023-12-27 | 253 | 0 |
 | 2023-12-28 | 262 | 0 |
-| 2023-12-29 | 266 | 0 |
+| 2023-12-29 | 267 | 0 |

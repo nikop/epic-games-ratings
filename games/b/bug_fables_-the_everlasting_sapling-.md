@@ -20,8 +20,8 @@
 | Chapter 7 Complete | 18.00% | ~19 |
 | Bounty Hunter | 16.00% | ~17 |
 | The Terror | 16.00% | ~17 |
+| Battle Ready | 14.00% | ~15 |
 | All Geared Up | 13.00% | ~14 |
-| Battle Ready | 13.00% | ~14 |
 | The End | 12.00% | ~13 |
 | Good Deed | 12.00% | ~13 |
 | Music Collector | 10.00% | ~11 |

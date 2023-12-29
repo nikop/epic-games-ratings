@@ -6,23 +6,23 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 68.00% | ~9,126 |
-| Photographer | 67.00% | ~8,992 |
-| Valley's Helper | 60.00% | ~8,053 |
-| Constructor | 50.00% | ~6,710 |
-| Renovator | 50.00% | ~6,710 |
-| Bestest Friend | 45.00% | ~6,039 |
-| Banker | 38.00% | ~5,100 |
-| Gardener | 31.00% | ~4,161 |
-| Generous | 25.00% | ~3,355 |
-| Chef Cook | 19.00% | ~2,550 |
-| Miner | 11.00% | ~1,476 |
+| Goofy's Investor | 68.00% | ~9,130 |
+| Photographer | 67.00% | ~8,995 |
+| Valley's Helper | 60.00% | ~8,056 |
+| Constructor | 50.00% | ~6,713 |
+| Renovator | 50.00% | ~6,713 |
+| Bestest Friend | 45.00% | ~6,042 |
+| Banker | 38.00% | ~5,102 |
+| Gardener | 31.00% | ~4,162 |
+| Generous | 25.00% | ~3,356 |
+| Chef Cook | 19.00% | ~2,551 |
+| Miner | 11.00% | ~1,477 |
 | Duty Bound | 8.00% | ~1,074 |
-| Angler | 6.00% | ~805 |
-| Thorn Cleaner | 6.00% | ~805 |
+| Angler | 6.00% | ~806 |
+| Thorn Cleaner | 6.00% | ~806 |
 | Chit Chatter | 3.00% | ~403 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,421 (Ranked 170)  
+Progressed: 13,426 (Ranked 171)  
 Completed: 331 (2.47%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,10 +226,10 @@ Completed: 331 (2.47%) (Ranked 126)
 | 2023-12-26 | 13,271 | 326 |
 | 2023-12-27 | 13,331 | 331 |
 | 2023-12-28 | 13,390 | 331 |
-| 2023-12-29 | 13,421 | 331 |
+| 2023-12-29 | 13,426 | 331 |
 ## Awards
 Max (Great for Beginners): 1,163  (Ranked 146)  
-Sum: 8,291 (Ranked 106)  
+Sum: 8,292 (Ranked 106)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
@@ -241,7 +241,7 @@ Diff (max vs sum): 40
 | This game has Amazing Storytelling | 802 |
 | This game is Extremely Fun | 787 |
 | This game has Quickly Understood Controls | 772 |
-| This game has a Creative Community | 726 |
+| This game has a Creative Community | 727 |
 | This game has Easy Combat | 548 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
@@ -536,4 +536,4 @@ Diff (max vs sum): 40
 | 2023-12-26 | 4.76 | - | 1,160 | 8,259 |
 | 2023-12-27 | 4.76 | - | 1,160 | 8,266 |
 | 2023-12-28 | 4.76 | - | 1,163 | 8,274 |
-| 2023-12-29 | 4.76 | - | 1,163 | 8,291 |
+| 2023-12-29 | 4.76 | - | 1,163 | 8,292 |

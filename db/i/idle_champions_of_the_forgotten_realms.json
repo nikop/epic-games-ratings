@@ -9163,9 +9163,9 @@
       "Count": 3607
     }
   ],
-  "EOS_Progressed": 246793,
+  "EOS_Progressed": 246822,
   "EOS_Completed": 2575,
-  "EOS_NewPlayers": 3518,
+  "EOS_NewPlayers": 3528,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -37793,6 +37793,11 @@
       "Time": "2023-12-29T15:10:51.5597018+00:00",
       "NumProgressed": 246793,
       "NumCompleted": 2575
+    },
+    {
+      "Time": "2023-12-29T16:09:53.3271706+00:00",
+      "NumProgressed": 246822,
+      "NumCompleted": 2575
     }
   ],
   "TotalAchievements": 546,
@@ -42092,7 +42097,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1491
+      "UsersEstimate": 1492
     },
     {
       "ID": "objective_completed_1558",
@@ -42108,7 +42113,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "objective_completed_1563",
@@ -42171,21 +42176,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 213067,
+      "Progressed": 213096,
       "Completed": 4091
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 246793,
+      "Progressed": 246822,
       "Completed": 2575
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-29T13:02:39.1033219+00:00",
-  "LastChanged_Achievements": "2023-12-29T15:10:51.5597011+00:00",
+  "LastChanged_Achievements": "2023-12-29T16:09:53.3271702+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-29T15:00:24.2223844+00:00",
-  "LastUpdate_Achievements": "2023-12-29T15:10:51.5620011+00:00"
+  "LastUpdate_Ratings": "2023-12-29T15:59:23.9306003+00:00",
+  "LastUpdate_Achievements": "2023-12-29T16:09:53.3294857+00:00"
 }

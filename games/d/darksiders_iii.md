@@ -1,7 +1,7 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.48 (Ranked 647)  
+Rating: 4.49 (Ranked 631)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -19,8 +19,8 @@ Number of Ratings: 116  (23.09.2022)
 | One Of the Chosen | 43.00% | ~120 |
 | Throne Potato | 41.00% | ~114 |
 | Devil's in the Details | 40.00% | ~112 |
+| 25 to Life | 40.00% | ~112 |
 | Five's a Crowd | 39.00% | ~109 |
-| 25 to Life | 39.00% | ~109 |
 | Soul Harvester | 37.00% | ~103 |
 | Salvation | 36.00% | ~100 |
 | Unshakable Fortitude | 35.00% | ~98 |
@@ -176,3 +176,4 @@ Diff (max vs sum): -80
 | 2023-12-24 | 4.50 | - | 94 | 94 |
 | 2023-12-25 | 4.49 | - | 94 | 94 |
 | 2023-12-27 | 4.48 | - | 94 | 94 |
+| 2023-12-29 | 4.49 | - | 94 | 94 |

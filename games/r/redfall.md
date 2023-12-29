@@ -22,8 +22,8 @@ Rating: 3.59 (Ranked 1,078)
 | Bad Wiring | 5.00% | ~107 |
 | Grounded | 5.00% | ~107 |
 | Skin of Their Teeth | 5.00% | ~107 |
+| Neighborhood Revitalization | 4.00% | ~86 |
 | Radio Silence | 4.00% | ~86 |
-| Neighborhood Revitalization | 3.00% | ~64 |
 | Helping Hand | 3.00% | ~64 |
 | I Spit On Your Grave | 3.00% | ~64 |
 | Sic Transit Umbra | 2.00% | ~43 |

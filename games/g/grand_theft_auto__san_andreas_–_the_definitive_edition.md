@@ -5,21 +5,21 @@ Rating: 4.54 (Ranked 541)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~14,094 |
-| Pay 'n' Spray | 50.00% | ~8,700 |
-| All Dressed Up for San Fierro | 25.00% | ~4,350 |
-| The American Dream | 18.00% | ~3,132 |
-| School's Out | 18.00% | ~3,132 |
-| Smooth Moves | 16.00% | ~2,784 |
-| Today Was a Good Day | 15.00% | ~2,610 |
-| What happens in Las Venturas... | 14.00% | ~2,436 |
-| Horror of the Santa Maria | 10.00% | ~1,740 |
-| Liberty City State of Mind | 9.00% | ~1,566 |
-| Original Gangster | 8.00% | ~1,392 |
-| With Extra Dip | 7.00% | ~1,218 |
-| The End of the Line | 7.00% | ~1,218 |
-| Saviour | 6.00% | ~1,044 |
-| Rescue a Kitten Too? | 5.00% | ~870 |
+| Getting Started | 81.00% | ~14,104 |
+| Pay 'n' Spray | 50.00% | ~8,706 |
+| All Dressed Up for San Fierro | 25.00% | ~4,353 |
+| The American Dream | 18.00% | ~3,134 |
+| School's Out | 18.00% | ~3,134 |
+| Smooth Moves | 16.00% | ~2,786 |
+| Today Was a Good Day | 15.00% | ~2,612 |
+| What happens in Las Venturas... | 14.00% | ~2,438 |
+| Horror of the Santa Maria | 10.00% | ~1,741 |
+| Liberty City State of Mind | 9.00% | ~1,567 |
+| Original Gangster | 8.00% | ~1,393 |
+| With Extra Dip | 7.00% | ~1,219 |
+| The End of the Line | 7.00% | ~1,219 |
+| Saviour | 6.00% | ~1,045 |
+| Rescue a Kitten Too? | 5.00% | ~871 |
 | They Can’t Stop All of Us | 4.00% | ~696 |
 | What are the Odds | 4.00% | ~696 |
 | Bike or Biker | 3.00% | ~522 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 541)
 | ...Here we go again | 0.50% | ~87 |
 | I Ain't No Buster | 0.40% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,400 (Ranked 159)  
+Progressed: 17,412 (Ranked 159)  
 Completed: 65 (0.37%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,11 +294,11 @@ Completed: 65 (0.37%) (Ranked 234)
 | 2023-12-26 | 17,001 | 64 |
 | 2023-12-27 | 17,152 | 64 |
 | 2023-12-28 | 17,305 | 64 |
-| 2023-12-29 | 17,400 | 65 |
+| 2023-12-29 | 17,412 | 65 |
 ## Awards
 Max (Great Boss Battles): 545  (Ranked 213)  
-Sum: 801 (Ranked 287)  
-Diff (max vs sum): -74  
+Sum: 801 (Ranked 288)  
+Diff (max vs sum): -75  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 545 |

@@ -2,7 +2,7 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 587,
+  "Ranking_Rating": 588,
   "Ranking_Popularity": 324,
   "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 158,
@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17478,
+  "EOS_Progressed": 17479,
   "EOS_Completed": 122,
   "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 3,
@@ -17270,6 +17270,11 @@
       "Time": "2023-12-29T14:04:02.7479493+00:00",
       "NumProgressed": 17478,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-12-29T16:03:55.9655381+00:00",
+      "NumProgressed": 17479,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 41,
@@ -17345,7 +17350,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2796
+      "UsersEstimate": 2797
     },
     {
       "ID": "tpote_achievement_18",
@@ -17497,7 +17502,7 @@
       "Name": "A cry for help",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "tpote_achievement_35",
@@ -17545,7 +17550,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6991
+      "UsersEstimate": 6992
     },
     {
       "ID": "tpote_achievement_40",
@@ -17585,7 +17590,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "tpote_achievement_8",
@@ -17593,7 +17598,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3670
+      "UsersEstimate": 3671
     },
     {
       "ID": "tpote_achievement_9",
@@ -17608,15 +17613,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17478,
+      "Progressed": 17479,
       "Completed": 122
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-29T15:04:38.0379181+00:00",
+  "LastChanged_Achievements": "2023-12-29T16:03:55.9655376+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.265609+00:00",
-  "LastUpdate_Ratings": "2023-12-29T15:01:14.4765418+00:00",
-  "LastUpdate_Achievements": "2023-12-29T15:04:38.038017+00:00"
+  "LastUpdate_Ratings": "2023-12-29T15:59:57.2040537+00:00",
+  "LastUpdate_Achievements": "2023-12-29T16:03:55.9656338+00:00"
 }

@@ -12,10 +12,10 @@ Rating: 4.42 (Ranked 731)
 | Way of Iron | 71.00% | ~1,823 |
 | Mystery Tour | 70.00% | ~1,797 |
 | We brake for nobody | 69.00% | ~1,771 |
-| Brainstorm | 66.00% | ~1,694 |
+| Brainstorm | 67.00% | ~1,720 |
 | Mind the Gap | 66.00% | ~1,694 |
 | Travel Company | 66.00% | ~1,694 |
-| All around the World | 63.00% | ~1,617 |
+| All around the World | 64.00% | ~1,643 |
 | Right through the middle | 59.00% | ~1,515 |
 | Facility Manager | 54.00% | ~1,386 |
 | Poor Devil | 54.00% | ~1,386 |

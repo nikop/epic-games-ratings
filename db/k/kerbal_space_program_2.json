@@ -4,11 +4,11 @@
   "ProductSlug": "kerbal-space-program-2",
   "Ranking_Rating": 955,
   "Ranking_Popularity": 488,
-  "Ranking_PopularitySum": 383,
+  "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-02-24T14:00:00+00:00",
     "PcReleaseDate": "2023-02-24T14:00:00+00:00",
@@ -899,10 +899,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 284,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2023-12-29T16:03:17.2671268+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 287,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 284,
+  "NumberOfAwards": 287,
   "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -958,7 +964,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 21
+      "Count": 24
     },
     {
       "Text": "This game has a Creative Community",
@@ -979,8 +985,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-24T16:58:34.691796+00:00",
   "FirstSeenRating": "2023-02-27T02:15:09.7091148+00:00",
-  "LastChanged": "2023-12-29T09:03:23.775298+00:00",
+  "LastChanged": "2023-12-29T16:03:17.2671267+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:21.8170775+00:00",
-  "LastUpdate_Ratings": "2023-12-29T15:03:45.8033871+00:00",
-  "LastUpdate_Achievements": "2023-12-29T15:08:32.9348295+00:00"
+  "LastUpdate_Ratings": "2023-12-29T16:03:17.2671271+00:00",
+  "LastUpdate_Achievements": "2023-12-29T16:08:05.5394362+00:00"
 }

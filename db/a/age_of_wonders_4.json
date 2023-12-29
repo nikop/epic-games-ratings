@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -633,9 +633,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6458,
+  "EOS_Progressed": 6464,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 473,
+  "EOS_NewPlayers": 477,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9633,6 +9633,11 @@
       "Time": "2023-12-29T15:06:18.4389344+00:00",
       "NumProgressed": 6458,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-29T16:05:12.2489791+00:00",
+      "NumProgressed": 6464,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9644,7 +9649,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "10",
@@ -9764,7 +9769,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "24",
@@ -9772,7 +9777,7 @@
       "Name": "Secret Technique",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "25",
@@ -9780,7 +9785,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "26",
@@ -9836,7 +9841,7 @@
       "Name": "Magical Synergy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "32",
@@ -9860,7 +9865,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "35",
@@ -9916,7 +9921,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "41",
@@ -10123,13 +10128,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6458,
+      "Progressed": 6464,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6458,
+      "Progressed": 6464,
       "Completed": 7
     }
   ],
@@ -10137,8 +10142,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-29T11:57:48.2397736+00:00",
-  "LastChanged_Achievements": "2023-12-29T15:06:18.4389341+00:00",
+  "LastChanged_Achievements": "2023-12-29T16:05:12.2489787+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-29T14:57:48.4860241+00:00",
-  "LastUpdate_Achievements": "2023-12-29T15:06:18.4390424+00:00"
+  "LastUpdate_Ratings": "2023-12-29T15:57:38.4102886+00:00",
+  "LastUpdate_Achievements": "2023-12-29T16:05:12.2490568+00:00"
 }
