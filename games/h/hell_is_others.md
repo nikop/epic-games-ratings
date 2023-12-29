@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 773)
 | Capitalist III | 0.10% | ~260 |
 | Hell Is You | 0.10% | ~260 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 259,913 (Ranked 64)  
+Progressed: 259,914 (Ranked 64)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-26 | 259,820 | 3 |
 | 2023-12-27 | 259,849 | 3 |
 | 2023-12-28 | 259,901 | 3 |
-| 2023-12-29 | 259,913 | 3 |
+| 2023-12-29 | 259,914 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 54  (Ranked 436)  
 Sum: 369 (Ranked 358)  

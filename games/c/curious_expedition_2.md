@@ -38,8 +38,8 @@ Number of Ratings: 20  (23.09.2022)
 | And Here Is Your Statue | 13.00% | ~50 |
 | Discovery | 13.00% | ~50 |
 | Plays Well With Others | 13.00% | ~50 |
+| Under the Table | 12.00% | ~46 |
 | Very Classy | 12.00% | ~46 |
-| Under the Table | 11.00% | ~42 |
 | It's Complicated | 11.00% | ~42 |
 | Cold Blood, Warm Heart | 9.00% | ~34 |
 | Errand Runner | 9.00% | ~34 |

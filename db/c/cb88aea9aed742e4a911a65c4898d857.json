@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -203,9 +203,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 8438,
+  "EOS_Progressed": 8448,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2296,
+  "EOS_NewPlayers": 2298,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2798,6 +2798,11 @@
       "Time": "2023-12-29T05:10:32.5501863+00:00",
       "NumProgressed": 8438,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T06:09:44.937199+00:00",
+      "NumProgressed": 8448,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -2808,17 +2813,17 @@
       "ID": "02_TheIntrigue",
       "SetID": "37a94m8",
       "Name": "Conspiracy",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 68
     },
     {
       "ID": "03_TheStolenStar",
       "SetID": "37a94m8",
       "Name": "Stolen Star",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 42
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -2904,9 +2909,9 @@
       "ID": "14_TheBreezeOfPain",
       "SetID": "37a94m8",
       "Name": "Fear Not Obliteration",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "15_Pentakill",
@@ -2944,9 +2949,9 @@
       "ID": "19_TheVoidWolf",
       "SetID": "37a94m8",
       "Name": "Void Wolf",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 25
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -3056,9 +3061,9 @@
       "ID": "33_TzeentchCleaning",
       "SetID": "37a94m8",
       "Name": "Cleening Out the Tzeentch",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 34
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -3136,9 +3141,9 @@
       "ID": "43_ThereIsNoPlaceLikeHome",
       "SetID": "37a94m8",
       "Name": "No Place Like Home",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -3329,7 +3334,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8438,
+      "Progressed": 8448,
       "Completed": 0
     }
   ],
@@ -3337,8 +3342,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-28T13:57:33.384002+00:00",
-  "LastChanged_Achievements": "2023-12-29T05:10:32.5501858+00:00",
+  "LastChanged_Achievements": "2023-12-29T06:09:44.9371985+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-29T04:58:13.7430118+00:00",
-  "LastUpdate_Achievements": "2023-12-29T05:10:32.5502379+00:00"
+  "LastUpdate_Ratings": "2023-12-29T05:57:30.5712069+00:00",
+  "LastUpdate_Achievements": "2023-12-29T06:09:44.9372506+00:00"
 }

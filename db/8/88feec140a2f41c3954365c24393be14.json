@@ -185,10 +185,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 110214,
-  "EOS_Completed": 5292,
-  "EOS_NewPlayers": 1484,
-  "EOS_NewCompleters": 122,
+  "EOS_Progressed": 110215,
+  "EOS_Completed": 5293,
+  "EOS_NewPlayers": 1481,
+  "EOS_NewCompleters": 123,
   "EOS_Completed_Percentage": 4.8,
   "EosHistory": [
     {
@@ -12400,6 +12400,11 @@
       "Time": "2023-12-29T05:04:05.9151504+00:00",
       "NumProgressed": 110214,
       "NumCompleted": 5292
+    },
+    {
+      "Time": "2023-12-29T06:03:17.7106757+00:00",
+      "NumProgressed": 110215,
+      "NumCompleted": 5293
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -12444,7 +12449,7 @@
       "Name": "Pelagic Perils",
       "Percentage": 57,
       "XP": 75,
-      "UsersEstimate": 62822
+      "UsersEstimate": 62823
     },
     {
       "ID": "ShipDip",
@@ -12452,7 +12457,7 @@
       "Name": "Ship Dip!",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 58413
+      "UsersEstimate": 58414
     },
     {
       "ID": "TheArtOfParley",
@@ -12484,7 +12489,7 @@
       "Name": "We Can Do Better!",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 85967
+      "UsersEstimate": 85968
     },
     {
       "ID": "WeighAnchorSetSail",
@@ -12492,7 +12497,7 @@
       "Name": "Weigh Anchor, Set Sail!",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 87069
+      "UsersEstimate": 87070
     },
     {
       "ID": "WelcomeAboard",
@@ -12500,23 +12505,23 @@
       "Name": "Welcome Aboard!",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 87069
+      "UsersEstimate": 87070
     }
   ],
   "AchievementSets": [
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 110214,
-      "Completed": 5292
+      "Progressed": 110215,
+      "Completed": 5293
     }
   ],
   "FirstSeen": "2023-09-14T19:57:24.2585556+00:00",
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2023-12-06T21:57:26.986764+00:00",
-  "LastChanged_Achievements": "2023-12-29T05:04:05.9151499+00:00",
+  "LastChanged_Achievements": "2023-12-29T06:03:17.7106753+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.5269617+00:00",
-  "LastUpdate_Ratings": "2023-12-29T04:57:58.9949024+00:00",
-  "LastUpdate_Achievements": "2023-12-29T05:04:05.9152502+00:00"
+  "LastUpdate_Ratings": "2023-12-29T05:57:20.6110147+00:00",
+  "LastUpdate_Achievements": "2023-12-29T06:03:17.7107603+00:00"
 }

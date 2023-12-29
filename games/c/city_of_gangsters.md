@@ -1,28 +1,28 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.29 (Ranked 869)  
+Rating: 4.28 (Ranked 879)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~165,196 |
-| Copacetic Coordination | 16.00% | ~57,459 |
-| Fronting the Money | 15.00% | ~53,868 |
+| Corner Clout | 46.00% | ~165,197 |
+| Copacetic Coordination | 16.00% | ~57,460 |
+| Fronting the Money | 15.00% | ~53,869 |
 | The Dawn of Automation | 14.00% | ~50,277 |
 | Extraordinary Logistics | 14.00% | ~50,277 |
 | Dirty Money | 13.00% | ~46,686 |
 | Family First | 13.00% | ~46,686 |
 | Cleaning House | 12.00% | ~43,095 |
 | Room in the Back | 12.00% | ~43,095 |
-| Beating the Heat | 11.00% | ~39,503 |
-| Booze Baron | 11.00% | ~39,503 |
+| Beating the Heat | 11.00% | ~39,504 |
+| Booze Baron | 11.00% | ~39,504 |
 | Friends on the Force | 10.00% | ~35,912 |
 | Neighborhood Watch | 10.00% | ~35,912 |
 | Core Corps | 8.00% | ~28,730 |
 | Sizeable Stash | 8.00% | ~28,730 |
-| Street Fighter | 7.00% | ~25,138 |
-| Friendly Gestures | 7.00% | ~25,138 |
-| People Person | 7.00% | ~25,138 |
+| Street Fighter | 7.00% | ~25,139 |
+| Friendly Gestures | 7.00% | ~25,139 |
+| People Person | 7.00% | ~25,139 |
 | Liquor Lord | 6.00% | ~21,547 |
 | Safety in Numbers | 6.00% | ~21,547 |
 | Moving Experiences | 6.00% | ~21,547 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 869)
 | High Pillow | 0.10% | ~359 |
 | Station Master | 0.10% | ~359 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 359,121 (Ranked 51)  
+Progressed: 359,124 (Ranked 51)  
 Completed: 7 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 7 (0.00%) (Ranked 389)
 | 2023-12-26 | 358,697 | 7 |
 | 2023-12-27 | 358,887 | 7 |
 | 2023-12-28 | 359,078 | 7 |
-| 2023-12-29 | 359,121 | 7 |
+| 2023-12-29 | 359,124 | 7 |
 ## Awards
 Max (Great for Beginners): 57  (Ranked 430)  
 Sum: 264 (Ranked 393)  
@@ -485,3 +485,4 @@ Diff (max vs sum): 37
 | 2023-12-26 | 4.28 | 57 | 261 |
 | 2023-12-27 | 4.28 | 57 | 263 |
 | 2023-12-28 | 4.29 | 57 | 264 |
+| 2023-12-29 | 4.28 | 57 | 264 |

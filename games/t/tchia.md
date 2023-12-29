@@ -6,12 +6,12 @@ Rating: 4.72 (Ranked 187)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In a Pinch | 0.60% | ~51 |
-| Energy Saver | 0.40% | ~34 |
+| Energy Saver | 0.50% | ~42 |
+| Body and Soul | 0.20% | ~17 |
 | Soul-Canon | 0.20% | ~17 |
 | The Journey Onwards | 0.20% | ~17 |
 | Ahem Ahem | 0.10% | ~8 |
 | Audiophile | 0.10% | ~8 |
-| Body and Soul | 0.10% | ~8 |
 | Clay Pigeon | 0.10% | ~8 |
 | Fashion Faux-Pas | 0.10% | ~8 |
 | Globe Trotter | 0.10% | ~8 |

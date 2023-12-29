@@ -3,7 +3,7 @@
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
   "Ranking_Rating": 802,
-  "Ranking_Popularity": 532,
+  "Ranking_Popularity": 533,
   "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 210,
@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 78276,
+  "EOS_Progressed": 78277,
   "EOS_Completed": 419,
-  "EOS_NewPlayers": 802,
+  "EOS_NewPlayers": 800,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -28244,6 +28244,11 @@
       "Time": "2023-12-29T05:10:15.113737+00:00",
       "NumProgressed": 78276,
       "NumCompleted": 419
+    },
+    {
+      "Time": "2023-12-29T06:09:32.2683086+00:00",
+      "NumProgressed": 78277,
+      "NumCompleted": 419
     }
   ],
   "TotalAchievements": 24,
@@ -28271,7 +28276,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 54010
+      "UsersEstimate": 54011
     },
     {
       "ID": "BEST_FRIENDS",
@@ -28303,7 +28308,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21917
+      "UsersEstimate": 21918
     },
     {
       "ID": "FOXIN_AROUND",
@@ -28335,7 +28340,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 41486
+      "UsersEstimate": 41487
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -28446,7 +28451,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 78276,
+      "Progressed": 78277,
       "Completed": 419
     }
   ],
@@ -28454,8 +28459,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2023-12-29T05:10:15.1137366+00:00",
+  "LastChanged_Achievements": "2023-12-29T06:09:32.2683083+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:46.017366+00:00",
-  "LastUpdate_Ratings": "2023-12-29T04:59:09.061215+00:00",
-  "LastUpdate_Achievements": "2023-12-29T05:10:15.1138937+00:00"
+  "LastUpdate_Ratings": "2023-12-29T05:58:07.9342922+00:00",
+  "LastUpdate_Achievements": "2023-12-29T06:09:32.2684426+00:00"
 }

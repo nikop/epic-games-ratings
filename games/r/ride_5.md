@@ -5,20 +5,20 @@ Rating: 4.48 (Ranked 647)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 48.00% | ~1,476 |
-| First Love | 45.00% | ~1,384 |
+| Eat My Dust | 48.00% | ~1,477 |
+| First Love | 45.00% | ~1,385 |
 | Clean Race | 43.00% | ~1,323 |
-| Hear That Roar! | 41.00% | ~1,261 |
+| Hear That Roar! | 41.00% | ~1,262 |
 | Rivals to the End | 30.00% | ~923 |
 | Bitter Rivalry | 29.00% | ~892 |
-| Champagne Spray | 28.00% | ~861 |
+| Champagne Spray | 28.00% | ~862 |
 | We're Going to Need a Bigger Garage | 26.00% | ~800 |
 | Quick Pit Stop | 21.00% | ~646 |
 | Restored and Ready | 20.00% | ~615 |
 | I Want One Too! | 20.00% | ~615 |
-| Legendary!!! | 19.00% | ~584 |
+| Legendary!!! | 19.00% | ~585 |
 | Go-Faster Stripes | 17.00% | ~523 |
-| I'm Here Too! | 15.00% | ~461 |
+| I'm Here Too! | 15.00% | ~462 |
 | We've Just Begun | 14.00% | ~431 |
 | Is It the Right Size? | 9.00% | ~277 |
 | Stamina Star | 8.00% | ~246 |
@@ -39,8 +39,8 @@ Rating: 4.48 (Ranked 647)
 | Overtaking the Master | 2.00% | ~62 |
 | Next Level | 1.00% | ~31 |
 | I Don't Stop | 1.00% | ~31 |
-| Exhausted but Happy | 0.70% | ~22 |
 | In Search of Perfection | 0.70% | ~22 |
+| Exhausted but Happy | 0.60% | ~18 |
 | Globe-trotter | 0.50% | ~15 |
 | Maximum Endurance | 0.20% | ~6 |
 | Breathtaking Views | 0.20% | ~6 |
@@ -55,7 +55,7 @@ Rating: 4.48 (Ranked 647)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,076 (Ranked 223)  
+Progressed: 3,077 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 3,019 | 0 |
 | 2023-12-27 | 3,044 | 0 |
 | 2023-12-28 | 3,069 | 0 |
-| 2023-12-29 | 3,076 | 0 |
+| 2023-12-29 | 3,077 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

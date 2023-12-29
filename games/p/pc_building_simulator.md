@@ -1,26 +1,26 @@
 # PC Building Simulator
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator)  
 [View Rawdata](../../db/p/pc_building_simulator.json)  
-Rating: 4.66 (Ranked 297)  
+Rating: 4.66 (Ranked 296)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,763,754 |
-| Easy to forget | 46.00% | ~1,655,769 |
-| Back in the black | 39.00% | ~1,403,804 |
-| That's what I'm talking about | 29.00% | ~1,043,854 |
-| The Best of Both Worlds | 25.00% | ~899,874 |
-| Get your wings | 20.00% | ~719,900 |
-| Double trouble | 16.00% | ~575,920 |
-| Smashing it | 11.00% | ~395,945 |
-| But can it run Crysis? | 9.00% | ~323,955 |
-| My favourite feature... | 9.00% | ~323,955 |
-| From humble beginnings... | 7.00% | ~251,965 |
-| Customer satisfaction | 7.00% | ~251,965 |
-| Keeping things neat | 4.00% | ~143,980 |
-| Seems you're pretty good at this | 4.00% | ~143,980 |
-| Bending over backwards | 4.00% | ~143,980 |
+| You need to plug it in... | 49.00% | ~1,763,762 |
+| Easy to forget | 46.00% | ~1,655,776 |
+| Back in the black | 39.00% | ~1,403,810 |
+| That's what I'm talking about | 29.00% | ~1,043,859 |
+| The Best of Both Worlds | 25.00% | ~899,878 |
+| Get your wings | 20.00% | ~719,903 |
+| Double trouble | 16.00% | ~575,922 |
+| Smashing it | 11.00% | ~395,947 |
+| But can it run Crysis? | 9.00% | ~323,956 |
+| My favourite feature... | 9.00% | ~323,956 |
+| From humble beginnings... | 7.00% | ~251,966 |
+| Customer satisfaction | 7.00% | ~251,966 |
+| Keeping things neat | 4.00% | ~143,981 |
+| Seems you're pretty good at this | 4.00% | ~143,981 |
+| Bending over backwards | 4.00% | ~143,981 |
 | I'm broke, Uncle! | 3.00% | ~107,985 |
 | Triple threat | 3.00% | ~107,985 |
 | You rock at this! | 3.00% | ~107,985 |
@@ -38,28 +38,28 @@ Number of Ratings: 12,155  (23.09.2022)
 | Building isn't cheap! | 1.00% | ~35,995 |
 | Majority Shareholder | 1.00% | ~35,995 |
 | Owner | 1.00% | ~35,995 |
-| Work ethic 101 | 0.70% | ~25,196 |
+| Work ethic 101 | 0.70% | ~25,197 |
 | Building momentum | 0.60% | ~21,597 |
 | Lead by example | 0.60% | ~21,597 |
-| Treat yourself - RAM | 0.50% | ~17,997 |
+| Treat yourself - RAM | 0.50% | ~17,998 |
 | Mr big business | 0.40% | ~14,398 |
-| So you're the reason why the prices are so high? | 0.30% | ~10,798 |
-| Mister Big | 0.30% | ~10,798 |
-| Getting your feet wet | 0.30% | ~10,798 |
-| Customer's ALWAYS right. | 0.30% | ~10,798 |
-| Treat yourself - CPU | 0.30% | ~10,798 |
+| So you're the reason why the prices are so high? | 0.30% | ~10,799 |
+| Mister Big | 0.30% | ~10,799 |
+| Getting your feet wet | 0.30% | ~10,799 |
+| Customer's ALWAYS right. | 0.30% | ~10,799 |
+| Treat yourself - CPU | 0.30% | ~10,799 |
 | 1920x1080 | 0.20% | ~7,199 |
 | Blow 'em away | 0.20% | ~7,199 |
-| Hasta La Vista, Baby. | 0.10% | ~3,599 |
-| Wow to build a PC! | 0.10% | ~3,599 |
-| Hoarder | 0.10% | ~3,599 |
-| Sitting on a fortune | 0.10% | ~3,599 |
-| Wow, you really like PCs | 0.10% | ~3,599 |
-| Going loopy | 0.10% | ~3,599 |
-| Stop it | 0.10% | ~3,599 |
-| Treat yourself - GPU | 0.10% | ~3,599 |
+| Hasta La Vista, Baby. | 0.10% | ~3,600 |
+| Wow to build a PC! | 0.10% | ~3,600 |
+| Hoarder | 0.10% | ~3,600 |
+| Sitting on a fortune | 0.10% | ~3,600 |
+| Wow, you really like PCs | 0.10% | ~3,600 |
+| Going loopy | 0.10% | ~3,600 |
+| Stop it | 0.10% | ~3,600 |
+| Treat yourself - GPU | 0.10% | ~3,600 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,599,498 (Ranked 5)  
+Progressed: 3,599,514 (Ranked 5)  
 Completed: 41 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 41 (0.00%) (Ranked 389)
 | 2023-12-26 | 3,598,293 | 40 |
 | 2023-12-27 | 3,598,868 | 41 |
 | 2023-12-28 | 3,599,396 | 41 |
-| 2023-12-29 | 3,599,498 | 41 |
+| 2023-12-29 | 3,599,514 | 41 |
 ## Awards
 Max (Great for Beginners): 1,123  (Ranked 148)  
 Sum: 8,244 (Ranked 109)  

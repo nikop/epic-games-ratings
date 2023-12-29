@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -4577,9 +4577,9 @@
       "ID": "GSS_ACH_72_GAME_COMPLETE",
       "SetID": "5fn8ia4",
       "Name": "The Dust Bowl",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 361
+      "UsersEstimate": 375
     },
     {
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
@@ -4674,8 +4674,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-27T13:01:41.0592419+00:00",
-  "LastChanged_Achievements": "2023-12-29T05:04:25.8961067+00:00",
+  "LastChanged_Achievements": "2023-12-29T06:03:32.1994714+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:05.7719462+00:00",
-  "LastUpdate_Ratings": "2023-12-29T05:00:58.3481311+00:00",
-  "LastUpdate_Achievements": "2023-12-29T05:04:25.8961977+00:00"
+  "LastUpdate_Ratings": "2023-12-29T05:59:19.8452972+00:00",
+  "LastUpdate_Achievements": "2023-12-29T06:03:32.1995577+00:00"
 }

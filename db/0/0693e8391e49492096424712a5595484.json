@@ -3,9 +3,9 @@
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 319,
-  "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_Completed": 51,
+  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 655,
-  "EOS_Completed": 50,
+  "EOS_Completed": 51,
   "EOS_NewPlayers": 39,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 7.63,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 7.79,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -2679,6 +2679,11 @@
       "Time": "2023-12-28T19:05:04.1001604+00:00",
       "NumProgressed": 655,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-12-29T06:04:12.7113103+00:00",
+      "NumProgressed": 655,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 45,
@@ -2816,9 +2821,9 @@
       "ID": "DwarDevil",
       "SetID": "db30heh",
       "Name": "Funny Devil",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 190
     },
     {
       "ID": "DwarfBeggarWoman",
@@ -2912,9 +2917,9 @@
       "ID": "PriestPistol",
       "SetID": "db30heh",
       "Name": "Unexpected Hit",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 124
+      "UsersEstimate": 131
     },
     {
       "ID": "PriestPoppiesBroth",
@@ -3008,9 +3013,9 @@
       "ID": "SleepingBasiliskPistol",
       "SetID": "db30heh",
       "Name": "Knockout",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 118
     },
     {
       "ID": "SleepingBasiliskPoppiesBroth",
@@ -3050,13 +3055,13 @@
       "ID": "db30heh",
       "IsBase": true,
       "Progressed": 655,
-      "Completed": 50
+      "Completed": 51
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-29T05:05:22.336332+00:00",
+  "LastChanged_Achievements": "2023-12-29T06:04:12.7113096+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:22.002955+00:00",
-  "LastUpdate_Ratings": "2023-12-29T05:00:11.1004817+00:00",
-  "LastUpdate_Achievements": "2023-12-29T05:05:22.3363738+00:00"
+  "LastUpdate_Ratings": "2023-12-29T05:58:49.9134735+00:00",
+  "LastUpdate_Achievements": "2023-12-29T06:04:12.7113519+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 460,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
-  "Ranking_EOS_Progress": 213,
+  "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -323,9 +323,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3793,
+  "EOS_Progressed": 3795,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7383,6 +7383,11 @@
       "Time": "2023-12-29T05:05:24.4899067+00:00",
       "NumProgressed": 3793,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T06:04:14.1927266+00:00",
+      "NumProgressed": 3795,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7394,7 +7399,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "ACH_BASE_10",
@@ -7402,7 +7407,7 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "ACH_BASE_11",
@@ -7458,7 +7463,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "ACH_BASE_19",
@@ -7506,7 +7511,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "ACH_BASE_25",
@@ -7570,7 +7575,7 @@
       "Name": "Power Outage",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "ACH_BASE_32",
@@ -7722,7 +7727,7 @@
       "Name": "Convenient Transport",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_BASE_52",
@@ -7746,7 +7751,7 @@
       "Name": "Please Make it Stop!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_BASE_57",
@@ -7849,13 +7854,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1977,
+      "Progressed": 1979,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3793,
+      "Progressed": 3795,
       "Completed": 0
     }
   ],
@@ -7863,8 +7868,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2023-12-29T05:05:24.4899063+00:00",
+  "LastChanged_Achievements": "2023-12-29T06:04:14.1927262+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:27.94929+00:00",
-  "LastUpdate_Ratings": "2023-12-29T05:02:22.0459594+00:00",
-  "LastUpdate_Achievements": "2023-12-29T05:05:24.4899728+00:00"
+  "LastUpdate_Ratings": "2023-12-29T06:02:35.4530757+00:00",
+  "LastUpdate_Achievements": "2023-12-29T06:04:14.1928019+00:00"
 }

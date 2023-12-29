@@ -2,13 +2,13 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 869,
+  "Ranking_Rating": 879,
   "Ranking_Popularity": 430,
   "Ranking_PopularitySum": 393,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.29,
+  "Rating": 4.28,
   "RatingHistory": [
     {
       "Time": "2023-02-04T02:04:08.6033841+00:00",
@@ -932,6 +932,12 @@
       "Rating": 4.29,
       "NumberOfAwards": 264,
       "NumberOfAwardsMax": 57
+    },
+    {
+      "Time": "2023-12-29T05:57:14.130127+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 264,
+      "NumberOfAwardsMax": 57
     }
   ],
   "ReviewsDisabled": false,
@@ -994,9 +1000,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 359121,
+  "EOS_Progressed": 359124,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1349,
+  "EOS_NewPlayers": 1345,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29824,6 +29830,11 @@
       "Time": "2023-12-29T05:06:38.4394648+00:00",
       "NumProgressed": 359121,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-29T06:05:06.7579112+00:00",
+      "NumProgressed": 359124,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -29939,7 +29950,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 53868
+      "UsersEstimate": 53869
     },
     {
       "ID": "ach015",
@@ -30043,7 +30054,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 165196
+      "UsersEstimate": 165197
     },
     {
       "ID": "ach028",
@@ -30059,7 +30070,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39503
+      "UsersEstimate": 39504
     },
     {
       "ID": "ach030",
@@ -30171,7 +30182,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 25138
+      "UsersEstimate": 25139
     },
     {
       "ID": "ach044",
@@ -30195,7 +30206,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 25138
+      "UsersEstimate": 25139
     },
     {
       "ID": "ach047",
@@ -30235,7 +30246,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39503
+      "UsersEstimate": 39504
     },
     {
       "ID": "ach052",
@@ -30363,7 +30374,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 57459
+      "UsersEstimate": 57460
     },
     {
       "ID": "ach069",
@@ -30443,7 +30454,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 25138
+      "UsersEstimate": 25139
     },
     {
       "ID": "ach079",
@@ -30474,16 +30485,16 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 359121,
+      "Progressed": 359124,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-08-11T21:00:23.9390359+00:00",
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
-  "LastChanged": "2023-12-28T06:00:32.0023318+00:00",
-  "LastChanged_Achievements": "2023-12-29T05:06:38.4394645+00:00",
+  "LastChanged": "2023-12-29T05:57:14.1301268+00:00",
+  "LastChanged_Achievements": "2023-12-29T06:05:06.7579109+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:34.5692536+00:00",
-  "LastUpdate_Ratings": "2023-12-29T04:57:49.7362543+00:00",
-  "LastUpdate_Achievements": "2023-12-29T05:06:38.4396292+00:00"
+  "LastUpdate_Ratings": "2023-12-29T05:57:14.1301275+00:00",
+  "LastUpdate_Achievements": "2023-12-29T06:05:06.7581233+00:00"
 }

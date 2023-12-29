@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 282,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -253,10 +253,10 @@
       "Count": 87
     }
   ],
-  "EOS_Progressed": 1175,
+  "EOS_Progressed": 1176,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 94,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 95,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
@@ -3213,6 +3213,11 @@
       "Time": "2023-12-29T04:04:54.5355585+00:00",
       "NumProgressed": 1175,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-29T06:04:52.1419863+00:00",
+      "NumProgressed": 1176,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3233,7 +3238,7 @@
       "Name": "Ab Initio",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "AnthropicHills",
@@ -3265,7 +3270,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "BreakTheLoop",
@@ -3273,7 +3278,7 @@
       "Name": "Break the Loop",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "BridgeBuilder",
@@ -3361,7 +3366,7 @@
       "Name": "Gnothi Seauton",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "GoodCitizen",
@@ -3369,7 +3374,7 @@
       "Name": "Good Citizen",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "GrasslandsRing",
@@ -3385,7 +3390,7 @@
       "Name": "High Plain",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "IntoTheMachine",
@@ -3449,7 +3454,7 @@
       "Name": "Museum Visitor",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "NewBeginning",
@@ -3457,7 +3462,7 @@
       "Name": "A New Beginning",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "NewMorality",
@@ -3481,7 +3486,7 @@
       "Name": "Overload",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "Persistent",
@@ -3623,9 +3628,9 @@
       "ID": "TheThiefOfFire",
       "SetID": "1n308hc",
       "Name": "The Thief of Fire",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 247
+      "UsersEstimate": 235
     },
     {
       "ID": "TheWordEndures",
@@ -3696,7 +3701,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1175,
+      "Progressed": 1176,
       "Completed": 2
     }
   ],
@@ -3704,8 +3709,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-28T02:59:27.0743673+00:00",
-  "LastChanged_Achievements": "2023-12-29T05:06:17.848073+00:00",
+  "LastChanged_Achievements": "2023-12-29T06:04:52.1419858+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2023-12-29T05:01:37.8246833+00:00",
-  "LastUpdate_Achievements": "2023-12-29T05:06:17.8481288+00:00"
+  "LastUpdate_Ratings": "2023-12-29T05:59:46.3694504+00:00",
+  "LastUpdate_Achievements": "2023-12-29T06:04:52.142036+00:00"
 }

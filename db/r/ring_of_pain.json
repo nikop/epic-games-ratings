@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3802,9 +3802,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 241936,
+  "EOS_Progressed": 241937,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 495,
+  "EOS_NewPlayers": 493,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29917,6 +29917,11 @@
       "Time": "2023-12-29T05:10:59.1290455+00:00",
       "NumProgressed": 241936,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-29T06:10:05.4930293+00:00",
+      "NumProgressed": 241937,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -31016,7 +31021,7 @@
       "Name": "What Doesn\u0027t Kill You",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "WEARSAMESETINSLOTS",
@@ -31031,13 +31036,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241936,
+      "Progressed": 241937,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3416,
+      "Progressed": 3417,
       "Completed": 416
     }
   ],
@@ -31045,8 +31050,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-28T23:00:28.6760098+00:00",
-  "LastChanged_Achievements": "2023-12-29T05:10:59.1290449+00:00",
+  "LastChanged_Achievements": "2023-12-29T06:10:05.4930288+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-29T05:01:00.6239483+00:00",
-  "LastUpdate_Achievements": "2023-12-29T05:10:59.129305+00:00"
+  "LastUpdate_Ratings": "2023-12-29T05:59:21.3949337+00:00",
+  "LastUpdate_Achievements": "2023-12-29T06:10:05.4932695+00:00"
 }

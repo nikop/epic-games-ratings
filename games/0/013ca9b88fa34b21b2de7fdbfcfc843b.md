@@ -6,7 +6,7 @@ Rating: 4.63 (Ranked 355)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Azoria Beckons | 3.00% | ~262 |
-| A Thorny Situation | 2.00% | ~175 |
+| A Thorny Situation | 3.00% | ~262 |
 | Miner 49er | 2.00% | ~175 |
 | Break-Net Speed | 2.00% | ~175 |
 | ... And Spit Back Out | 2.00% | ~175 |
@@ -19,20 +19,20 @@ Rating: 4.63 (Ranked 355)
 | Mist Walker | 1.00% | ~87 |
 | Oui, Chef! | 1.00% | ~87 |
 | Exit Through The Gift Shop | 0.90% | ~12 |
+| Search for the Hairy Grell | 0.80% | ~70 |
 | Higher Tax Bracket | 0.80% | ~70 |
 | Botanical Breakthrough | 0.80% | ~70 |
-| Search for the Hairy Grell | 0.70% | ~61 |
 | Beach Comber | 0.70% | ~61 |
 | Flaming Hot Completos | 0.60% | ~52 |
 | Azorian Anniversary | 0.60% | ~52 |
 | Skilled | 0.60% | ~52 |
 | Fae Farmer | 0.50% | ~44 |
 | Got to Catch Them All | 0.40% | ~35 |
+| Scattered Scroll Scrounger | 0.40% | ~35 |
 | Rumble in the Jumble | 0.40% | ~35 |
 | Fanatical Farmer | 0.40% | ~35 |
 | Right Tool For the Job | 0.40% | ~35 |
 | Azorian Hat Dance | 0.40% | ~5 |
-| Scattered Scroll Scrounger | 0.30% | ~26 |
 | I Now Pronounce You... | 0.30% | ~26 |
 | Chatty Neighbor | 0.30% | ~26 |
 | House Proud | 0.30% | ~26 |
@@ -49,7 +49,7 @@ Rating: 4.63 (Ranked 355)
 | Splish-Splash | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,734 (Ranked 183)  
+Progressed: 8,735 (Ranked 183)  
 Completed: 1 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 1 (0.01%) (Ranked 367)
 | 2023-12-26 | 8,692 | 1 |
 | 2023-12-27 | 8,713 | 1 |
 | 2023-12-28 | 8,728 | 1 |
-| 2023-12-29 | 8,734 | 1 |
+| 2023-12-29 | 8,735 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

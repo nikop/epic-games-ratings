@@ -1,34 +1,34 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.22 (Ranked 931)  
+Rating: 4.22 (Ranked 932)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,877 |
-| Battlefields Have Memories | 80.00% | ~1,726 |
-| Enlisted | 73.00% | ~1,575 |
-| Maybe Engage a Little | 67.00% | ~1,446 |
-| No More Names | 49.00% | ~1,057 |
-| Initiate | 35.00% | ~755 |
-| Thrada-Kul | 31.00% | ~669 |
+| Unforeseen | 87.00% | ~1,879 |
+| Battlefields Have Memories | 80.00% | ~1,728 |
+| Enlisted | 73.00% | ~1,577 |
+| Maybe Engage a Little | 68.00% | ~1,469 |
+| No More Names | 49.00% | ~1,058 |
+| Initiate | 35.00% | ~756 |
+| Thrada-Kul | 31.00% | ~670 |
 | Gravity-Challenged Rocks | 25.00% | ~540 |
-| Socialite | 23.00% | ~496 |
-| Soldier | 21.00% | ~453 |
-| All the Major Food Groups | 21.00% | ~453 |
+| Socialite | 23.00% | ~497 |
+| Soldier | 21.00% | ~454 |
+| All the Major Food Groups | 21.00% | ~454 |
 | Beggars Would Ride | 19.00% | ~410 |
 | Control is an Illusion | 17.00% | ~367 |
 | The Means to Save It | 15.00% | ~324 |
-| Resilience to Sin | 13.00% | ~281 |
+| Resilience to Sin | 14.00% | ~302 |
 | A Familiar Nest | 13.00% | ~281 |
 | Periapt Alizarin | 13.00% | ~281 |
 | Geas Aristeya | 12.00% | ~259 |
-| A Perfect Cycle | 11.00% | ~237 |
-| Recruit | 11.00% | ~237 |
+| A Perfect Cycle | 11.00% | ~238 |
+| Recruit | 11.00% | ~238 |
 | Armsman | 10.00% | ~216 |
 | Lights Army | 8.00% | ~173 |
 | Periapt Cerulean | 7.00% | ~151 |
-| Good Boy | 6.00% | ~129 |
+| Good Boy | 6.00% | ~130 |
 | Best Dressed | 5.00% | ~108 |
 | Periapt Viridian | 5.00% | ~108 |
 | Shroudfane Explorer | 5.00% | ~108 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 931)
 | Out of Time | 0.20% | ~4 |
 | Fowl Play | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,158 (Ranked 236)  
+Progressed: 2,160 (Ranked 236)  
 Completed: 2 (0.09%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 2 (0.09%) (Ranked 313)
 | 2023-12-26 | 1,969 | 2 |
 | 2023-12-27 | 2,049 | 2 |
 | 2023-12-28 | 2,136 | 2 |
-| 2023-12-29 | 2,158 | 2 |
+| 2023-12-29 | 2,160 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

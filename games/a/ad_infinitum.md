@@ -22,12 +22,12 @@
 | Jigsaw | 10.00% | ~15 |
 | Peace | 10.00% | ~15 |
 | Art critic | 9.00% | ~13 |
+| An act of courage | 7.00% | ~10 |
 | Lost | 7.00% | ~10 |
-| An act of courage | 6.00% | ~9 |
 | An act of compassion | 4.00% | ~6 |
 | An act of mercy | 4.00% | ~6 |
 | All knowing | 4.00% | ~6 |
-| Corruption | 3.00% | ~4 |
+| Corruption | 4.00% | ~6 |
 | Ad Infinitum | 1.00% | ~1 |
 | Despair | 0.70% | ~1 |
 | Pain | 0.70% | ~1 |

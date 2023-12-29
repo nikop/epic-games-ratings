@@ -4,52 +4,52 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tastes just like chicken! | 94.00% | ~130 |
-| MLG 360 no scope kill! | 94.00% | ~130 |
-| Are you ready to rumble? | 94.00% | ~130 |
-| That's what cheese said! | 90.00% | ~124 |
-| AHHHHHH.....I'M ON FIRE!!! | 87.00% | ~120 |
-| I like you...but I have to kill you... | 87.00% | ~120 |
-| Not so hip anymore! | 86.00% | ~119 |
-| Blurry depth perception | 82.00% | ~113 |
-| Nerd | 81.00% | ~112 |
-| Up and down | 80.00% | ~110 |
-| Rolling, Rolling, Rolling | 76.00% | ~105 |
-| Fire-fighter! | 67.00% | ~92 |
+| Tastes just like chicken! | 94.00% | ~131 |
+| MLG 360 no scope kill! | 94.00% | ~131 |
+| Are you ready to rumble? | 94.00% | ~131 |
+| That's what cheese said! | 89.00% | ~124 |
+| AHHHHHH.....I'M ON FIRE!!! | 86.00% | ~120 |
+| I like you...but I have to kill you... | 86.00% | ~120 |
+| Not so hip anymore! | 85.00% | ~118 |
+| Nerd | 81.00% | ~113 |
+| Blurry depth perception | 81.00% | ~113 |
+| Up and down | 79.00% | ~110 |
+| Rolling, Rolling, Rolling | 76.00% | ~106 |
+| Fire-fighter! | 67.00% | ~93 |
 | Oh, you're up to no gouda! | 65.00% | ~90 |
-| Make Love not War-Craft a Mistlefoe | 63.00% | ~87 |
+| Make Love not War-Craft a Mistlefoe | 63.00% | ~88 |
 | Meat grinder | 62.00% | ~86 |
-| You're not going to blow me up! | 57.00% | ~79 |
+| You're not going to blow me up! | 56.00% | ~78 |
 | Mushroom soup of the day | 54.00% | ~75 |
-| Honk honk! | 51.00% | ~70 |
-| Cockadoodledoo! | 51.00% | ~70 |
-| Butcher | 50.00% | ~69 |
-| Spare Ribs | 50.00% | ~69 |
-| Thats disgusting! | 49.00% | ~68 |
+| Cockadoodledoo! | 51.00% | ~71 |
+| Honk honk! | 50.00% | ~70 |
+| Butcher | 50.00% | ~70 |
+| Spare Ribs | 50.00% | ~70 |
+| Thats disgusting! | 48.00% | ~67 |
 | Self assessed tax return | 44.00% | ~61 |
 | My pants squeak when I walk | 44.00% | ~61 |
-| Surprise!! | 43.00% | ~59 |
+| Surprise!! | 42.00% | ~58 |
 | Haemochromatosis | 41.00% | ~57 |
-| Make America Grate Again | 38.00% | ~52 |
-| You can't stop me, bro! | 36.00% | ~50 |
-| Pasta Bolognese | 36.00% | ~50 |
-| You are no match for me, Billy! | 35.00% | ~48 |
-| Catch the bus with me! | 33.00% | ~46 |
+| Make America Grate Again | 37.00% | ~51 |
+| You are no match for me, Billy! | 35.00% | ~49 |
+| You can't stop me, bro! | 35.00% | ~49 |
+| Pasta Bolognese | 35.00% | ~49 |
 | Karaoke king | 33.00% | ~46 |
 | Meatballs, coming up! | 32.00% | ~44 |
-| I'm going to get a concussion | 30.00% | ~41 |
-| Another one bites the iron | 30.00% | ~41 |
-| Kleptomaniac | 27.00% | ~37 |
+| Catch the bus with me! | 32.00% | ~44 |
+| I'm going to get a concussion | 30.00% | ~42 |
+| Another one bites the iron | 29.00% | ~40 |
+| Kleptomaniac | 27.00% | ~38 |
 | Ripe Meat Off The Bone! | 26.00% | ~36 |
 | Hovering around | 26.00% | ~36 |
-| You're not so Big anymore, Boi! | 25.00% | ~34 |
-| A Megapint...? | 25.00% | ~34 |
-| Your daily dose of Vitamin C. | 25.00% | ~34 |
-| I cant stand still! | 22.00% | ~30 |
+| You're not so Big anymore, Boi! | 24.00% | ~33 |
+| A Megapint...? | 24.00% | ~33 |
+| Your daily dose of Vitamin C. | 24.00% | ~33 |
+| I cant stand still! | 22.00% | ~31 |
 | Slimy... yet satisfying | 21.00% | ~29 |
 | Master Butcher | 18.00% | ~25 |
-| Just wing it! | 17.00% | ~23 |
-| Deal with it | 17.00% | ~23 |
+| Just wing it! | 17.00% | ~24 |
+| Deal with it | 17.00% | ~24 |
 | Ancient Ruins of Dirty Feet | 14.00% | ~19 |
 | Yeehaw!!! | 14.00% | ~19 |
 | You're looking mozzare-hella good! | 13.00% | ~18 |
@@ -57,8 +57,8 @@
 | Free Of Chains | 11.00% | ~15 |
 | Spoiler alert! | 10.00% | ~14 |
 | Grumpy Immortal | 10.00% | ~14 |
-| Ancient Ruins of Moist Overhangs | 9.00% | ~12 |
-| I drink, but I'm not a drunk! | 9.00% | ~12 |
+| Ancient Ruins of Moist Overhangs | 9.00% | ~13 |
+| I drink, but I'm not a drunk! | 9.00% | ~13 |
 | I want to throw up! | 8.00% | ~11 |
 | Scrambled Eggs | 8.00% | ~11 |
 | My name is Whoopass, SIR Whoopass! | 7.00% | ~10 |
@@ -87,7 +87,7 @@
 | Catch me if you can | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138 (Ranked 452)  
+Progressed: 139 (Ranked 452)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,3 +150,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-23 | 136 | 0 |
 | 2023-12-26 | 137 | 0 |
 | 2023-12-27 | 138 | 0 |
+| 2023-12-29 | 139 | 0 |

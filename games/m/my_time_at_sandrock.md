@@ -6,60 +6,60 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 211.00% | ~1,532 |
-| Iron Chef | 148.00% | ~1,074 |
-| Super Spelunker | 142.00% | ~1,031 |
-| The Little Wood that Could | 116.00% | ~842 |
-| Greeno-B-Gone | 115.00% | ~835 |
-| On that Grindset | 99.00% | ~719 |
-| Officially Official | 99.00% | ~719 |
-| Your Especially Earned Trajectory | 97.00% | ~704 |
-| Better Late than Never | 85.00% | ~617 |
-| One of the Cool Kids | 85.00% | ~617 |
-| Pack Mule | 82.00% | ~595 |
-| Diamonds are Forever | 82.00% | ~595 |
-| Got Served | 80.00% | ~581 |
-| No Mountain Wide Enough | 79.00% | ~574 |
-| Financially Secure | 77.00% | ~559 |
-| I Do! | 77.00% | ~559 |
-| Mole Masher | 77.00% | ~559 |
-| Yakmel Whisperer | 76.00% | ~552 |
+| Adept Assembler | 211.00% | ~1,530 |
+| Iron Chef | 148.00% | ~1,073 |
+| Super Spelunker | 142.00% | ~1,030 |
+| The Little Wood that Could | 117.00% | ~848 |
+| Greeno-B-Gone | 115.00% | ~834 |
+| On that Grindset | 100.00% | ~725 |
+| Officially Official | 99.00% | ~718 |
+| Your Especially Earned Trajectory | 97.00% | ~703 |
+| Better Late than Never | 85.00% | ~616 |
+| One of the Cool Kids | 85.00% | ~616 |
+| Pack Mule | 82.00% | ~594 |
+| Diamonds are Forever | 82.00% | ~594 |
+| Got Served | 80.00% | ~580 |
+| No Mountain Wide Enough | 79.00% | ~573 |
+| Mole Masher | 78.00% | ~566 |
+| Financially Secure | 77.00% | ~558 |
+| I Do! | 77.00% | ~558 |
+| Yakmel Whisperer | 76.00% | ~551 |
 | Knowledge is Power | 75.00% | ~544 |
-| Big Game Hunter | 74.00% | ~537 |
-| Can We Keep It? | 73.00% | ~530 |
-| Unboxing | 72.00% | ~523 |
-| Chatterbox | 70.00% | ~508 |
-| First Love | 70.00% | ~508 |
-| Panda-kin | 69.00% | ~501 |
-| What Plants Crave | 67.00% | ~486 |
+| Big Game Hunter | 74.00% | ~536 |
+| Can We Keep It? | 73.00% | ~529 |
+| Unboxing | 72.00% | ~522 |
+| Chatterbox | 70.00% | ~507 |
+| First Love | 70.00% | ~507 |
+| Panda-kin | 69.00% | ~500 |
+| What Plants Crave | 68.00% | ~493 |
 | Elementary, My Dear | 67.00% | ~486 |
-| Builder of the Month | 64.00% | ~465 |
+| Builder of the Month | 64.00% | ~464 |
 | Lifeline Pipeline | 62.00% | ~450 |
 | Waste Not Want Not | 62.00% | ~450 |
 | Martle's Dream | 59.00% | ~428 |
-| Commissions, commissions...! | 58.00% | ~421 |
-| Bridging the Gap | 58.00% | ~421 |
-| Happier-est Place on Earth | 57.00% | ~414 |
-| Anti-Santa | 57.00% | ~414 |
+| Commissions, commissions...! | 58.00% | ~420 |
+| Bridging the Gap | 58.00% | ~420 |
+| Happier-est Place on Earth | 57.00% | ~413 |
+| Anti-Santa | 57.00% | ~413 |
 | Finishing Touches | 54.00% | ~392 |
 | Got the Flow Back | 54.00% | ~392 |
 | You Don't Win Friends With Salad | 54.00% | ~392 |
-| Call Me Fishmael | 52.00% | ~378 |
+| Call Me Fishmael | 52.00% | ~377 |
 | Sepia Toned Memories | 51.00% | ~370 |
-| Time Flies | 50.00% | ~363 |
-| Who Ya Gonna Call...? | 48.00% | ~348 |
+| Time Flies | 50.00% | ~362 |
+| Who Ya Gonna Call...? | 49.00% | ~355 |
 | Kind of a Big Deal | 46.00% | ~334 |
-| Jewel of the Eufaula | 44.00% | ~319 |
+| Jewel of the Eufaula | 45.00% | ~326 |
 | Just What I Always Wanted! | 43.00% | ~312 |
-| My Time Mansion | 41.00% | ~298 |
+| My Time Mansion | 41.00% | ~297 |
 | He Can Spin A Yarn... | 39.00% | ~283 |
 | Santa In Training | 38.00% | ~276 |
 | Sandrunning Speedster | 38.00% | ~276 |
 | It Belongs in a Museum! | 35.00% | ~254 |
-| Pro Gamer | 33.00% | ~240 |
+| Pro Gamer | 33.00% | ~239 |
 | Do Your Part | 32.00% | ~232 |
 | Newton | 32.00% | ~232 |
-| Cardistry | 26.00% | ~189 |
+| Cardistry | 26.00% | ~188 |
 | Winner and Still Champeen | 24.00% | ~174 |
 | It's High Noon... | 17.00% | ~123 |
 | Strong Arms | 17.00% | ~123 |
@@ -67,7 +67,7 @@ Number of Ratings: 892  (23.09.2022)
 | Jack of All Trades | 8.00% | ~58 |
 | Sandrock's Hottest Club | 5.00% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 726 (Ranked 308)  
+Progressed: 725 (Ranked 308)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |

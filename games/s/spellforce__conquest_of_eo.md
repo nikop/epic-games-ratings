@@ -8,13 +8,13 @@
 | Enough rooms to swing a cat | 82.00% | ~76 |
 | First to the post | 82.00% | ~76 |
 | A kind of Magic | 74.00% | ~69 |
-| Connected | 67.00% | ~62 |
+| Connected | 68.00% | ~63 |
 | Expansion | 61.00% | ~57 |
 | Mine! | 58.00% | ~54 |
 | Harvest Time | 57.00% | ~53 |
 | Artificer's Apprentice | 51.00% | ~47 |
 | Fly the friendly Sky | 45.00% | ~42 |
-| Get out of here! | 41.00% | ~38 |
+| Get out of here! | 42.00% | ~39 |
 | Alchemist's Apprentice | 39.00% | ~36 |
 | Necromancer's Apprentice | 39.00% | ~36 |
 | Friend of Lyraine | 37.00% | ~34 |
@@ -25,7 +25,7 @@
 | Friend of Sevenkeeps | 20.00% | ~19 |
 | Castle Meldec | 19.00% | ~18 |
 | Sevenkeeps Seat of Kings | 17.00% | ~16 |
-| Friend of Alluvyan | 15.00% | ~14 |
+| Friend of Alluvyan | 16.00% | ~15 |
 | Friend of Connach | 15.00% | ~14 |
 | Break Free | 15.00% | ~14 |
 | Friend of Gillyshire | 14.00% | ~13 |

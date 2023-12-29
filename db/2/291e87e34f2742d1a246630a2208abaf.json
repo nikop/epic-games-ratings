@@ -2,13 +2,13 @@
   "ID": "291e87e34f2742d1a246630a2208abaf",
   "Name": "Dragonheir: Silent Gods",
   "ProductSlug": "dragonheir-silent-gods-559a4c",
-  "Ranking_Rating": 931,
+  "Ranking_Rating": 926,
   "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 423,
+  "Ranking_PopularitySum": 422,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 573,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-18T00:00:00+00:00",
     "PcReleaseDate": "2023-09-18T00:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.22,
+  "Rating": 4.23,
   "RatingHistory": [
     {
       "Time": "2023-09-23T08:59:11.6504535+00:00",
@@ -767,10 +767,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 177,
       "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-12-29T06:00:05.2943792+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 180,
+      "NumberOfAwardsMax": 39
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 177,
+  "NumberOfAwards": 180,
   "NumberOfAwardsMax": 39,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -784,7 +790,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 30
+      "Count": 33
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -829,8 +835,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-18T10:02:38.3470906+00:00",
   "FirstSeenRating": "2023-09-23T08:59:11.6504531+00:00",
-  "LastChanged": "2023-12-28T14:01:47.1354376+00:00",
+  "LastChanged": "2023-12-29T06:00:05.294379+00:00",
   "LastUpdate_AppInfo": "2023-12-25T11:56:51.8426334+00:00",
-  "LastUpdate_Ratings": "2023-12-29T05:02:06.2383899+00:00",
-  "LastUpdate_Achievements": "2023-12-29T05:07:04.5311595+00:00"
+  "LastUpdate_Ratings": "2023-12-29T06:00:05.2943796+00:00",
+  "LastUpdate_Achievements": "2023-12-29T06:05:25.8073194+00:00"
 }

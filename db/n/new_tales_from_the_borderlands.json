@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3769,
+  "EOS_Progressed": 3770,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2107,6 +2107,11 @@
       "Time": "2023-12-29T05:07:38.9714684+00:00",
       "NumProgressed": 3769,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T06:05:50.6229563+00:00",
+      "NumProgressed": 3770,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2158,7 +2163,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -2182,7 +2187,7 @@
       "Name": "Our Lucky Winner",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "FINISH_EPISODE_4",
@@ -2198,7 +2203,7 @@
       "Name": "...To Heroes",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "FINISH_GAME_W_GOOD_SKATE_RAT",
@@ -2238,7 +2243,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1922
+      "UsersEstimate": 1923
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -2246,7 +2251,7 @@
       "Name": "You Poor Now!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -2294,7 +2299,7 @@
       "Name": "And Still Champion...",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "WIN_FIRST_VAULTLANDER_BATTLE",
@@ -2318,14 +2323,14 @@
       "Name": "Mas, Por Favor",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     }
   ],
   "AchievementSets": [
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3769,
+      "Progressed": 3770,
       "Completed": 0
     }
   ],
@@ -2333,8 +2338,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-12-29T05:07:38.971468+00:00",
+  "LastChanged_Achievements": "2023-12-29T06:05:50.6229557+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1319758+00:00",
-  "LastUpdate_Ratings": "2023-12-29T05:00:18.9464352+00:00",
-  "LastUpdate_Achievements": "2023-12-29T05:07:38.9714915+00:00"
+  "LastUpdate_Ratings": "2023-12-29T05:58:55.0421914+00:00",
+  "LastUpdate_Achievements": "2023-12-29T06:05:50.6229806+00:00"
 }

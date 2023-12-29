@@ -52,9 +52,9 @@
 | Get out of my apartment! | 33.00% | ~163 |
 | Gang wrangler | 32.00% | ~158 |
 | Seashell hunter | 32.00% | ~158 |
+| Absolute Champion! | 31.00% | ~153 |
 | Undercover robot | 31.00% | ~153 |
 | Problems of cyborgs | 30.00% | ~148 |
-| Absolute Champion! | 30.00% | ~148 |
 | The lonesome road | 29.00% | ~143 |
 | Family comes first | 29.00% | ~143 |
 | Not little hacker | 29.00% | ~143 |
@@ -71,7 +71,7 @@
 | The only right decision | 26.00% | ~128 |
 | Silver’s past | 25.00% | ~123 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 493 (Ranked 342)  
+Progressed: 493 (Ranked 343)  
 Completed: 9 (1.83%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |

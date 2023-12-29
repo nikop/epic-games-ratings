@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1497,9 +1497,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 25309,
+  "EOS_Progressed": 25310,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 506,
+  "EOS_NewPlayers": 504,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -28732,6 +28732,11 @@
       "Time": "2023-12-29T05:06:06.2002572+00:00",
       "NumProgressed": 25309,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-12-29T06:04:43.7280441+00:00",
+      "NumProgressed": 25310,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 45,
@@ -28759,7 +28764,7 @@
       "Name": "Artificial selection",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 6833
+      "UsersEstimate": 6834
     },
     {
       "ID": "BackToHell",
@@ -28767,7 +28772,7 @@
       "Name": "Back to hell",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 9111
+      "UsersEstimate": 9112
     },
     {
       "ID": "CantRunCantHide",
@@ -28775,7 +28780,7 @@
       "Name": "Can\u0027t Run Can\u0027t Hide",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4049
+      "UsersEstimate": 4050
     },
     {
       "ID": "DeadInTheAir",
@@ -28807,7 +28812,7 @@
       "Name": "Finish line",
       "Percentage": 25,
       "XP": 60,
-      "UsersEstimate": 6327
+      "UsersEstimate": 6328
     },
     {
       "ID": "GRProjectComplete",
@@ -28879,7 +28884,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 19235
+      "UsersEstimate": 19236
     },
     {
       "ID": "MoreThanHuman",
@@ -28895,7 +28900,7 @@
       "Name": "Control freak",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 6833
+      "UsersEstimate": 6834
     },
     {
       "ID": "ObedientMachine",
@@ -28975,7 +28980,7 @@
       "Name": "Running Wild",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6580
+      "UsersEstimate": 6581
     },
     {
       "ID": "Scrapped",
@@ -29015,7 +29020,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 15438
+      "UsersEstimate": 15439
     },
     {
       "ID": "SwordToAGunfight",
@@ -29087,7 +29092,7 @@
       "Name": "Where He Stood",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "WhyNotBoth",
@@ -29102,21 +29107,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 25309,
+      "Progressed": 25310,
       "Completed": 69
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 25309,
+      "Progressed": 25310,
       "Completed": 98
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-12-26T14:58:44.9755835+00:00",
-  "LastChanged_Achievements": "2023-12-29T05:06:06.2002567+00:00",
+  "LastChanged_Achievements": "2023-12-29T06:04:43.7280436+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:29.5913812+00:00",
-  "LastUpdate_Ratings": "2023-12-29T05:01:32.4771835+00:00",
-  "LastUpdate_Achievements": "2023-12-29T05:06:06.2003873+00:00"
+  "LastUpdate_Ratings": "2023-12-29T05:59:42.3119075+00:00",
+  "LastUpdate_Achievements": "2023-12-29T06:04:43.7281966+00:00"
 }

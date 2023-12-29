@@ -6,7 +6,7 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Two Worlds | 76.00% | ~30,155 |
+| Two Worlds | 77.00% | ~30,552 |
 | 50 Stars | 26.00% | ~10,316 |
 | Hare Today | 24.00% | ~9,523 |
 | The Way Forward | 17.00% | ~6,745 |

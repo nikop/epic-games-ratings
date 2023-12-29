@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 367,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8734,
+  "EOS_Progressed": 8735,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9295,6 +9295,11 @@
       "Time": "2023-12-29T05:10:53.5951093+00:00",
       "NumProgressed": 8734,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T06:10:00.7571328+00:00",
+      "NumProgressed": 8735,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -9313,9 +9318,9 @@
       "ID": "CHAPTER_2_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "A Thorny Situation",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 262
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -9345,9 +9350,9 @@
       "ID": "CHAPTER_6_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Search for the Hairy Grell",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 70
     },
     {
       "ID": "CHAPTER_7_COMPLETE",
@@ -9449,9 +9454,9 @@
       "ID": "DISCOVER_SCROLLS_2",
       "SetID": "9eia0f5",
       "Name": "Scattered Scroll Scrounger",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 35
     },
     {
       "ID": "DISCOVER_WHIRLPOOL",
@@ -9650,13 +9655,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8734,
+      "Progressed": 8735,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1351,
+      "Progressed": 1352,
       "Completed": 1050
     }
   ],
@@ -9664,8 +9669,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-29T05:10:53.5951078+00:00",
+  "LastChanged_Achievements": "2023-12-29T06:10:00.7571325+00:00",
   "LastUpdate_AppInfo": "2023-12-22T11:57:12.9881326+00:00",
-  "LastUpdate_Ratings": "2023-12-29T05:03:49.2267283+00:00",
-  "LastUpdate_Achievements": "2023-12-29T05:10:53.595185+00:00"
+  "LastUpdate_Ratings": "2023-12-29T06:03:06.2254815+00:00",
+  "LastUpdate_Achievements": "2023-12-29T06:10:00.7571874+00:00"
 }

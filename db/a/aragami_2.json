@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -257,7 +257,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44601,
+  "EOS_Progressed": 44602,
   "EOS_Completed": 247,
   "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
@@ -19837,6 +19837,11 @@
       "Time": "2023-12-29T03:05:49.8154494+00:00",
       "NumProgressed": 44601,
       "NumCompleted": 247
+    },
+    {
+      "Time": "2023-12-29T06:05:49.1539119+00:00",
+      "NumProgressed": 44602,
+      "NumCompleted": 247
     }
   ],
   "TotalAchievements": 44,
@@ -19856,7 +19861,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13826
+      "UsersEstimate": 13827
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -19968,7 +19973,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35681
+      "UsersEstimate": 35682
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -20040,7 +20045,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16502
+      "UsersEstimate": 16503
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -20080,7 +20085,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 14272
+      "UsersEstimate": 14273
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -20096,7 +20101,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12042
+      "UsersEstimate": 12043
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -20152,7 +20157,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 20070
+      "UsersEstimate": 20071
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -20184,7 +20189,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41479
+      "UsersEstimate": 41480
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -20199,7 +20204,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44601,
+      "Progressed": 44602,
       "Completed": 247
     }
   ],
@@ -20207,8 +20212,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2023-12-29T05:07:36.9537377+00:00",
+  "LastChanged_Achievements": "2023-12-29T06:05:49.1539116+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:53.9920689+00:00",
-  "LastUpdate_Ratings": "2023-12-29T05:03:40.8716393+00:00",
-  "LastUpdate_Achievements": "2023-12-29T05:07:36.9538661+00:00"
+  "LastUpdate_Ratings": "2023-12-29T06:03:00.728786+00:00",
+  "LastUpdate_Achievements": "2023-12-29T06:05:49.1540379+00:00"
 }

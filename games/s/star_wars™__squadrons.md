@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~33,218 |
-| Safety in the Storm | 23.00% | ~8,042 |
-| A Better Idea | 23.00% | ~8,042 |
-| Begin the Ceremony | 19.00% | ~6,644 |
-| Mission Accomplished | 18.00% | ~6,294 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~5,245 |
-| Asset Secured | 13.00% | ~4,546 |
-| A Starfighter of Your Own | 13.00% | ~4,546 |
+| Fracture at Fostar Haven | 95.00% | ~33,227 |
+| Safety in the Storm | 23.00% | ~8,044 |
+| A Better Idea | 23.00% | ~8,044 |
+| Begin the Ceremony | 19.00% | ~6,645 |
+| Mission Accomplished | 18.00% | ~6,296 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~5,246 |
+| Asset Secured | 13.00% | ~4,547 |
+| A Starfighter of Your Own | 13.00% | ~4,547 |
 | Unkillable | 7.00% | ~2,448 |
 | Together, Vanguard | 7.00% | ~2,448 |
-| The Galaxy's Finest (Pilot) | 6.00% | ~2,098 |
-| Sound Strategy | 6.00% | ~2,098 |
-| Stomped | 5.00% | ~1,748 |
+| The Galaxy's Finest (Pilot) | 6.00% | ~2,099 |
+| Sound Strategy | 6.00% | ~2,099 |
+| Stomped | 5.00% | ~1,749 |
 | Fearless | 4.00% | ~1,399 |
 | Back From the Brink | 4.00% | ~1,399 |
 | Flames Over Mon Cala | 4.00% | ~1,399 |
@@ -26,10 +26,10 @@
 | Stronger Together | 3.00% | ~1,049 |
 | Temporary Guardian | 3.00% | ~1,049 |
 | Punch It | 3.00% | ~1,049 |
-| Stun 'Em | 2.00% | ~699 |
-| Squadron Hunter | 2.00% | ~699 |
-| Combat Pilot | 2.00% | ~699 |
-| Dressed for the Job You Want | 2.00% | ~699 |
+| Stun 'Em | 2.00% | ~700 |
+| Squadron Hunter | 2.00% | ~700 |
+| Combat Pilot | 2.00% | ~700 |
+| Dressed for the Job You Want | 2.00% | ~700 |
 | I Have You Now | 1.00% | ~350 |
 | Against the Current | 0.80% | ~280 |
 | Denied | 0.70% | ~245 |
@@ -52,7 +52,7 @@
 | The Galaxy's Finest (Ace) | 0.10% | ~35 |
 | Ultimate Weapon | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,966 (Ranked 132)  
+Progressed: 34,976 (Ranked 132)  
 Completed: 3 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 3 (0.01%) (Ranked 367)
 | 2023-12-26 | 34,130 | 3 |
 | 2023-12-27 | 34,521 | 3 |
 | 2023-12-28 | 34,900 | 3 |
-| 2023-12-29 | 34,966 | 3 |
+| 2023-12-29 | 34,976 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

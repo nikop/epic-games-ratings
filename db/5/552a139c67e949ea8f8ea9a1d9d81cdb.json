@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1709,
+  "EOS_Progressed": 1710,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
@@ -4207,6 +4207,11 @@
       "Time": "2023-12-29T05:04:34.6364272+00:00",
       "NumProgressed": 1709,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T06:03:38.4343548+00:00",
+      "NumProgressed": 1710,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4345,9 +4350,9 @@
       "ID": "ML_ACHIEVEMENT_17",
       "SetID": "5k00jcd",
       "Name": "Solo",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -4363,7 +4368,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -4555,7 +4560,7 @@
       "Name": "Mission complete",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ML_ACHIEVEMENT_44",
@@ -4586,20 +4591,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1709,
+      "Progressed": 1710,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1377,
+      "Progressed": 1378,
       "Completed": 1005
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-29T05:04:34.6364267+00:00",
+  "LastChanged_Achievements": "2023-12-29T06:03:38.4343543+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2023-12-29T04:57:37.5006331+00:00",
-  "LastUpdate_Achievements": "2023-12-29T05:04:34.6364748+00:00"
+  "LastUpdate_Ratings": "2023-12-29T05:57:06.3567202+00:00",
+  "LastUpdate_Achievements": "2023-12-29T06:03:38.4344088+00:00"
 }

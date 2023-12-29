@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 197,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2530,18 +2530,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 2608,
       "NumberOfAwardsMax": 863
+    },
+    {
+      "Time": "2023-12-29T05:57:06.3700731+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2609,
+      "NumberOfAwardsMax": 864
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2608,
-  "NumberOfAwardsMax": 863,
+  "NumberOfAwards": 2609,
+  "NumberOfAwardsMax": 864,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 863
+      "Count": 864
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2610,9 +2616,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44252,
+  "EOS_Progressed": 44253,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10380,6 +10386,11 @@
       "Time": "2023-12-29T04:03:16.4797757+00:00",
       "NumProgressed": 44252,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-12-29T06:03:14.9946547+00:00",
+      "NumProgressed": 44253,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -10391,7 +10402,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27436
+      "UsersEstimate": 27437
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -10495,7 +10506,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 17258
+      "UsersEstimate": 17259
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -10639,7 +10650,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21683
+      "UsersEstimate": 21684
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -10679,7 +10690,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16373
+      "UsersEstimate": 16374
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -10711,7 +10722,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 16373
+      "UsersEstimate": 16374
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -10719,7 +10730,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30534
+      "UsersEstimate": 30535
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -10743,7 +10754,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20798
+      "UsersEstimate": 20799
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -10759,7 +10770,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20798
+      "UsersEstimate": 20799
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -10783,7 +10794,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19913
+      "UsersEstimate": 19914
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -10791,7 +10802,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29206
+      "UsersEstimate": 29207
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -10847,7 +10858,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29206
+      "UsersEstimate": 29207
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -10855,7 +10866,7 @@
       "Name": "Gore soaked",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 10620
+      "UsersEstimate": 10621
     },
     {
       "ID": "SE_REACH_WAVE_X",
@@ -10903,7 +10914,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7965
+      "UsersEstimate": 7966
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -10918,15 +10929,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44252,
+      "Progressed": 44253,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
-  "LastChanged": "2023-12-28T14:02:17.5096715+00:00",
-  "LastChanged_Achievements": "2023-12-29T05:04:01.9257295+00:00",
+  "LastChanged": "2023-12-29T05:57:06.3700729+00:00",
+  "LastChanged_Achievements": "2023-12-29T06:03:14.9946543+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:25.7383264+00:00",
-  "LastUpdate_Ratings": "2023-12-29T04:57:37.5483055+00:00",
-  "LastUpdate_Achievements": "2023-12-29T05:04:01.9258219+00:00"
+  "LastUpdate_Ratings": "2023-12-29T05:57:06.3700736+00:00",
+  "LastUpdate_Achievements": "2023-12-29T06:03:14.9947474+00:00"
 }

@@ -24,6 +24,7 @@ Rating: 3.59 (Ranked 1,077)
 | Bad Wiring | 4.00% | ~86 |
 | Neighborhood Revitalization | 3.00% | ~64 |
 | Radio Silence | 3.00% | ~64 |
+| Helping Hand | 3.00% | ~64 |
 | Sic Transit Umbra | 2.00% | ~43 |
 | Bell-ringer | 2.00% | ~43 |
 | Good Morning | 2.00% | ~43 |
@@ -31,7 +32,6 @@ Rating: 3.59 (Ranked 1,077)
 | From the Shadows | 2.00% | ~43 |
 | Starve the Beast | 2.00% | ~43 |
 | Harvest’s End | 2.00% | ~43 |
-| Helping Hand | 2.00% | ~43 |
 | I Spit On Your Grave | 2.00% | ~43 |
 | Revelations | 1.00% | ~21 |
 | Contingency Plans | 1.00% | ~21 |
@@ -72,7 +72,7 @@ Rating: 3.59 (Ranked 1,077)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,139 (Ranked 237)  
+Progressed: 2,140 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 2,087 | 0 |
 | 2023-12-27 | 2,113 | 0 |
 | 2023-12-28 | 2,135 | 0 |
-| 2023-12-29 | 2,139 | 0 |
+| 2023-12-29 | 2,140 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 569)  
 Sum: 20 (Ranked 570)  

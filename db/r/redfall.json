@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -327,9 +327,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2139,
+  "EOS_Progressed": 2140,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3542,6 +3542,11 @@
       "Time": "2023-12-29T05:04:45.0399212+00:00",
       "NumProgressed": 2139,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T06:03:46.1417353+00:00",
+      "NumProgressed": 2140,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4015,9 +4020,9 @@
       "ID": "Achievement_063",
       "SetID": "6b34g18",
       "Name": "Helping Hand",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 43
+      "UsersEstimate": 64
     },
     {
       "ID": "Achievement_064",
@@ -4080,7 +4085,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2139,
+      "Progressed": 2140,
       "Completed": 0
     }
   ],
@@ -4088,8 +4093,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-28T23:57:36.8686406+00:00",
-  "LastChanged_Achievements": "2023-12-29T05:04:45.0399208+00:00",
+  "LastChanged_Achievements": "2023-12-29T06:03:46.1417348+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:45.1864069+00:00",
-  "LastUpdate_Ratings": "2023-12-29T04:58:35.4590642+00:00",
-  "LastUpdate_Achievements": "2023-12-29T05:04:45.0399789+00:00"
+  "LastUpdate_Ratings": "2023-12-29T05:57:44.9997948+00:00",
+  "LastUpdate_Achievements": "2023-12-29T06:03:46.1417936+00:00"
 }

@@ -1,21 +1,21 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.28 (Ranked 880)  
+Rating: 4.28 (Ranked 879)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,263 |
-| Powergamer | 27.00% | ~69,141 |
-| Write that down | 25.00% | ~64,020 |
-| Barely scratched the surface | 25.00% | ~64,020 |
-| Guns, lots of guns | 13.00% | ~33,290 |
-| Collector | 12.00% | ~30,729 |
-| Elementary! | 9.00% | ~23,047 |
-| Griever | 8.00% | ~20,486 |
-| Pumpkin Jack | 8.00% | ~20,486 |
-| Wake up! | 8.00% | ~20,486 |
+| I will finish what you started | 29.00% | ~74,265 |
+| Powergamer | 27.00% | ~69,143 |
+| Write that down | 25.00% | ~64,021 |
+| Barely scratched the surface | 25.00% | ~64,021 |
+| Guns, lots of guns | 13.00% | ~33,291 |
+| Collector | 12.00% | ~30,730 |
+| Elementary! | 9.00% | ~23,048 |
+| Griever | 8.00% | ~20,487 |
+| Pumpkin Jack | 8.00% | ~20,487 |
+| Wake up! | 8.00% | ~20,487 |
 | It's honest work | 7.00% | ~17,926 |
 | Me smart | 6.00% | ~15,365 |
 | Trash compactor | 6.00% | ~15,365 |
@@ -24,9 +24,9 @@ Number of Ratings: 33  (23.09.2022)
 | BOY! | 4.00% | ~10,243 |
 | Ka-ching! | 4.00% | ~10,243 |
 | So you like to read? | 4.00% | ~10,243 |
-| Hoarder | 3.00% | ~7,682 |
-| I like to sniff around | 3.00% | ~7,682 |
-| Mind reader | 3.00% | ~7,682 |
+| Hoarder | 3.00% | ~7,683 |
+| I like to sniff around | 3.00% | ~7,683 |
+| Mind reader | 3.00% | ~7,683 |
 | Catnip | 2.00% | ~5,122 |
 | Gentleman's classic | 2.00% | ~5,122 |
 | Is that a rift? | 2.00% | ~5,122 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~512 |
 | Memory 5 | 0.10% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 256,079 (Ranked 65)  
+Progressed: 256,085 (Ranked 65)  
 Completed: 8 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 8 (0.00%) (Ranked 389)
 | 2023-12-26 | 255,820 | 8 |
 | 2023-12-27 | 255,936 | 8 |
 | 2023-12-28 | 256,053 | 8 |
-| 2023-12-29 | 256,079 | 8 |
+| 2023-12-29 | 256,085 | 8 |
 ## Awards
 Max (Character Customization): 93  (Ranked 386)  
 Sum: 93 (Ranked 466)  

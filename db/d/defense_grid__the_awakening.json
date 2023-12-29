@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2020-12-20T16:00:00+00:00",
     "PcReleaseDate": "2020-12-20T16:00:00+00:00",
@@ -2092,9 +2092,9 @@
       "Count": 74
     }
   ],
-  "EOS_Progressed": 492751,
+  "EOS_Progressed": 492752,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 591,
+  "EOS_NewPlayers": 590,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28807,6 +28807,11 @@
       "Time": "2023-12-29T05:09:46.7209173+00:00",
       "NumProgressed": 492751,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-29T06:09:12.0980477+00:00",
+      "NumProgressed": 492752,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 87,
@@ -28834,7 +28839,7 @@
       "Name": "Arsenal",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 226665
+      "UsersEstimate": 226666
     },
     {
       "ID": "BASEDEFENDER",
@@ -28874,7 +28879,7 @@
       "Name": "Burn Baby Burn",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 290723
+      "UsersEstimate": 290724
     },
     {
       "ID": "CHAS",
@@ -28962,7 +28967,7 @@
       "Name": "Eradicator",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 330143
+      "UsersEstimate": 330144
     },
     {
       "ID": "EXTERMINATOR",
@@ -28970,7 +28975,7 @@
       "Name": "Exterminator",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 177390
+      "UsersEstimate": 177391
     },
     {
       "ID": "FAITHFULCOMPANION",
@@ -29010,7 +29015,7 @@
       "Name": "First Blood",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 399128
+      "UsersEstimate": 399129
     },
     {
       "ID": "FLAWLESSVICTORY",
@@ -29018,7 +29023,7 @@
       "Name": "Flawless Victory",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 206955
+      "UsersEstimate": 206956
     },
     {
       "ID": "FLURRY",
@@ -29074,7 +29079,7 @@
       "Name": "Great Ball of Fire",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 157680
+      "UsersEstimate": 157681
     },
     {
       "ID": "GUNCRAZY",
@@ -29090,7 +29095,7 @@
       "Name": "Happy Returns",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 384346
+      "UsersEstimate": 384347
     },
     {
       "ID": "HEADTRAUMA",
@@ -29106,7 +29111,7 @@
       "Name": "Hey! That\u0027s mine!",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 384346
+      "UsersEstimate": 384347
     },
     {
       "ID": "HIGHVOLTAGE",
@@ -29138,7 +29143,7 @@
       "Name": "Kaboom!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 147825
+      "UsersEstimate": 147826
     },
     {
       "ID": "KICKSTARTER",
@@ -29154,7 +29159,7 @@
       "Name": "Leadhead",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 349853
+      "UsersEstimate": 349854
     },
     {
       "ID": "LIQUIDATOR",
@@ -29346,7 +29351,7 @@
       "Name": "Salvage Rights",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 261158
+      "UsersEstimate": 261159
     },
     {
       "ID": "SAVANTGENIUS",
@@ -29362,7 +29367,7 @@
       "Name": "Sharpshooter",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 167535
+      "UsersEstimate": 167536
     },
     {
       "ID": "SHELLSHOCKED",
@@ -29482,7 +29487,7 @@
       "Name": "What IS that?",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 251303
+      "UsersEstimate": 251304
     },
     {
       "ID": "XENOCIDE",
@@ -29513,15 +29518,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 492751,
+      "Progressed": 492752,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2023-12-29T02:18:37.766107+00:00",
-  "LastChanged_Achievements": "2023-12-29T05:09:46.720917+00:00",
+  "LastChanged_Achievements": "2023-12-29T06:09:12.0980472+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:50.5044973+00:00",
-  "LastUpdate_Ratings": "2023-12-29T05:03:34.3247824+00:00",
-  "LastUpdate_Achievements": "2023-12-29T05:09:46.7210966+00:00"
+  "LastUpdate_Ratings": "2023-12-29T06:02:56.3466119+00:00",
+  "LastUpdate_Achievements": "2023-12-29T06:09:12.0983093+00:00"
 }

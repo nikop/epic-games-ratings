@@ -4,8 +4,8 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -2849,9 +2849,9 @@
       "ID": "achievement_17",
       "SetID": "7ldgi7j",
       "Name": "Clean Sheet",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 408
+      "UsersEstimate": 416
     },
     {
       "ID": "achievement_18",
@@ -2935,8 +2935,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-29T05:10:24.1351906+00:00",
+  "LastChanged_Achievements": "2023-12-29T06:09:38.8187059+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:10.1040458+00:00",
-  "LastUpdate_Ratings": "2023-12-29T05:00:51.5001282+00:00",
-  "LastUpdate_Achievements": "2023-12-29T05:10:24.1352129+00:00"
+  "LastUpdate_Ratings": "2023-12-29T05:59:15.2307185+00:00",
+  "LastUpdate_Achievements": "2023-12-29T06:09:38.8187317+00:00"
 }
