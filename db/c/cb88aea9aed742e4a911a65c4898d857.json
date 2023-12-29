@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -203,9 +203,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 8454,
+  "EOS_Progressed": 8458,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2297,
+  "EOS_NewPlayers": 2298,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2808,6 +2808,11 @@
       "Time": "2023-12-29T07:09:40.0650504+00:00",
       "NumProgressed": 8454,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T08:09:35.7848226+00:00",
+      "NumProgressed": 8458,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -2818,9 +2823,9 @@
       "ID": "02_TheIntrigue",
       "SetID": "37a94m8",
       "Name": "Conspiracy",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 76
     },
     {
       "ID": "03_TheStolenStar",
@@ -3114,9 +3119,9 @@
       "ID": "39_FullyPrepared",
       "SetID": "37a94m8",
       "Name": "Fully Prepared",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "40_PreserveTheArchitecture",
@@ -3170,9 +3175,9 @@
       "ID": "46_ASpark",
       "SetID": "37a94m8",
       "Name": "A Spark",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 42
     },
     {
       "ID": "47_AFlame",
@@ -3210,9 +3215,9 @@
       "ID": "51_AmendsToTheDead",
       "SetID": "37a94m8",
       "Name": "Amends to the Dead",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "52_TheGoldenFrog",
@@ -3339,7 +3344,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8454,
+      "Progressed": 8458,
       "Completed": 0
     }
   ],
@@ -3347,8 +3352,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-28T13:57:33.384002+00:00",
-  "LastChanged_Achievements": "2023-12-29T07:09:40.0650502+00:00",
+  "LastChanged_Achievements": "2023-12-29T08:09:35.7848224+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-29T06:57:57.6471072+00:00",
-  "LastUpdate_Achievements": "2023-12-29T07:09:40.0650994+00:00"
+  "LastUpdate_Ratings": "2023-12-29T07:57:32.5762+00:00",
+  "LastUpdate_Achievements": "2023-12-29T08:09:35.7848715+00:00"
 }

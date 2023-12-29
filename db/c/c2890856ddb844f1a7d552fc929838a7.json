@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -251,7 +251,7 @@
   ],
   "EOS_Progressed": 1898,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 334,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4593,9 +4593,9 @@
       "ID": "AC08",
       "SetID": "l4abp0",
       "Name": "Forged in Fire",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 873
+      "UsersEstimate": 892
     },
     {
       "ID": "AC09",
@@ -4906,8 +4906,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-28T05:02:31.3995097+00:00",
-  "LastChanged_Achievements": "2023-12-29T07:05:30.5251361+00:00",
+  "LastChanged_Achievements": "2023-12-29T08:05:13.1645161+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:24.8809366+00:00",
-  "LastUpdate_Ratings": "2023-12-29T06:57:27.4254284+00:00",
-  "LastUpdate_Achievements": "2023-12-29T07:05:30.5251784+00:00"
+  "LastUpdate_Ratings": "2023-12-29T07:57:01.1039765+00:00",
+  "LastUpdate_Achievements": "2023-12-29T08:05:13.1645653+00:00"
 }

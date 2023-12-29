@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 580,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 518,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-07-27T17:00:00+00:00",
     "PcReleaseDate": "2022-08-22T16:00:00+00:00",
@@ -202,9 +202,9 @@
       "ID": "ACHIEVEMENT_Ach_MioIntro_Cleavage",
       "SetID": "70j9o42",
       "Name": "A Load Of The Goods",
-      "Percentage": 39,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_Ach_MioScene4_Flex",
@@ -250,9 +250,9 @@
       "ID": "ACHIEVEMENT_Cassie_Death2_Failed",
       "SetID": "70j9o42",
       "Name": "No Such Thing As Bad Pizza",
-      "Percentage": 35,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_Dorian_Impress_D2",
@@ -513,8 +513,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-12-29T06:08:45.5854705+00:00",
+  "LastChanged_Achievements": "2023-12-29T08:03:12.4527673+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:53.2158921+00:00",
-  "LastUpdate_Ratings": "2023-12-29T06:59:57.654103+00:00",
-  "LastUpdate_Achievements": "2023-12-29T06:08:45.5854933+00:00"
+  "LastUpdate_Ratings": "2023-12-29T07:59:35.3274212+00:00",
+  "LastUpdate_Achievements": "2023-12-29T08:03:12.4543811+00:00"
 }

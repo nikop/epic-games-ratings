@@ -3,9 +3,9 @@
   "Name": "The House of Da Vinci",
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 350,
-  "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_Completed": 45,
+  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 451,
+  "EOS_Progressed": 452,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 9.09,
+  "EOS_Completed_Percentage": 9.07,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -2104,6 +2104,11 @@
       "Time": "2023-12-29T01:46:00.7625559+00:00",
       "NumProgressed": 451,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-12-29T08:08:49.5403486+00:00",
+      "NumProgressed": 452,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 6,
@@ -2155,21 +2160,21 @@
       "Name": "Flying Machine",
       "Percentage": 32,
       "XP": 165,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 451,
+      "Progressed": 452,
       "Completed": 41
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-12-29T07:08:54.9823345+00:00",
+  "LastChanged_Achievements": "2023-12-29T08:08:49.5403484+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:14.6672707+00:00",
-  "LastUpdate_Ratings": "2023-12-29T07:00:37.7857186+00:00",
-  "LastUpdate_Achievements": "2023-12-29T07:08:54.9823539+00:00"
+  "LastUpdate_Ratings": "2023-12-29T08:02:35.1830645+00:00",
+  "LastUpdate_Achievements": "2023-12-29T08:08:49.5403683+00:00"
 }

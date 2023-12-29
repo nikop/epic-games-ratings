@@ -5,36 +5,36 @@ Rating: 4.08 (Ranked 1,002)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 57.00% | ~812 |
+| Break Out | 57.00% | ~813 |
 | Trinity | 28.00% | ~399 |
-| A Taste of Wrath | 22.00% | ~313 |
+| A Taste of Wrath | 22.00% | ~314 |
 | Find Allies | 21.00% | ~299 |
 | I Found It | 21.00% | ~299 |
 | The Collector | 21.00% | ~299 |
-| Shatter Them All | 20.00% | ~285 |
 | Geared Up | 20.00% | ~285 |
 | Adventurer | 19.00% | ~271 |
+| Shatter Them All | 19.00% | ~271 |
 | Scholar | 19.00% | ~271 |
-| Fashion Victim | 18.00% | ~256 |
-| Stone Collection | 18.00% | ~256 |
+| Fashion Victim | 18.00% | ~257 |
+| Stone Collection | 18.00% | ~257 |
 | Powerful Allies | 17.00% | ~242 |
 | Tributes of Caladrias | 17.00% | ~242 |
 | Big Bazar | 11.00% | ~157 |
-| Essence Blow | 10.00% | ~142 |
-| Alchemist | 10.00% | ~142 |
+| Essence Blow | 10.00% | ~143 |
+| Alchemist | 10.00% | ~143 |
 | The Mentor | 8.00% | ~114 |
 | Calm before the Storm | 7.00% | ~100 |
-| To Battle | 6.00% | ~85 |
-| Godslayer | 6.00% | ~85 |
-| Airborne | 6.00% | ~85 |
-| Miner | 6.00% | ~85 |
+| To Battle | 6.00% | ~86 |
+| Godslayer | 6.00% | ~86 |
+| Airborne | 6.00% | ~86 |
+| Miner | 6.00% | ~86 |
 | Clear Sight | 3.00% | ~43 |
 | Shatterer | 3.00% | ~43 |
 | Fine Feathers Make Fine Birds | 3.00% | ~43 |
-| Slayer | 2.00% | ~28 |
-| Flawless Victory | 2.00% | ~28 |
-| All There Is | 2.00% | ~28 |
-| A Queen's Tale | 2.00% | ~28 |
+| Slayer | 2.00% | ~29 |
+| Flawless Victory | 2.00% | ~29 |
+| All There Is | 2.00% | ~29 |
+| A Queen's Tale | 2.00% | ~29 |
 | Shardbearer | 1.00% | ~14 |
 | False God | 1.00% | ~14 |
 | Forgemaster | 0.90% | ~13 |
@@ -42,7 +42,7 @@ Rating: 4.08 (Ranked 1,002)
 | Summiter | 0.80% | ~11 |
 | Feeling Fancy | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,424 (Ranked 260)  
+Progressed: 1,426 (Ranked 260)  
 Completed: 3 (0.21%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 3 (0.21%) (Ranked 270)
 | 2023-12-26 | 1,308 | 3 |
 | 2023-12-27 | 1,365 | 3 |
 | 2023-12-28 | 1,412 | 3 |
-| 2023-12-29 | 1,424 | 3 |
+| 2023-12-29 | 1,426 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

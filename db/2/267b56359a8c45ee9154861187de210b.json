@@ -4,8 +4,8 @@
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 484,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
     "PcReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 101,
+  "EOS_Progressed": 102,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -489,6 +489,11 @@
       "Time": "2023-12-29T05:05:51.4354064+00:00",
       "NumProgressed": 101,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T08:04:37.5667658+00:00",
+      "NumProgressed": 102,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T22:03:23.4161887+00:00",
@@ -595,7 +600,7 @@
       "ID": "airtime_short",
       "SetID": "3448go",
       "Name": "Glider",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
       "UsersEstimate": 28
     },
@@ -619,7 +624,7 @@
       "ID": "beat_c1_gold",
       "SetID": "3448go",
       "Name": "Venture Time",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 34
     },
@@ -629,7 +634,7 @@
       "Name": "Treasured Momentum",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "beat_c1a_bronze",
@@ -755,9 +760,9 @@
       "ID": "beat_c3_silver",
       "SetID": "3448go",
       "Name": "Power-Ups and Downs",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "beat_c3a_bronze",
@@ -1188,14 +1193,14 @@
     {
       "ID": "3448go",
       "IsBase": true,
-      "Progressed": 101,
+      "Progressed": 102,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-12-29T07:04:55.9508407+00:00",
+  "LastChanged_Achievements": "2023-12-29T08:04:37.5667656+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:18.5941148+00:00",
-  "LastUpdate_Ratings": "2023-12-29T07:00:31.0065789+00:00",
-  "LastUpdate_Achievements": "2023-12-29T07:04:55.9509072+00:00"
+  "LastUpdate_Ratings": "2023-12-29T08:00:08.2066558+00:00",
+  "LastUpdate_Achievements": "2023-12-29T08:04:37.56683+00:00"
 }

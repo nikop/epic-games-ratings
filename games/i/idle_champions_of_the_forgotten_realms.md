@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~213 |
 | The Brains of an Illithid's Desire | 0.10% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,543 (Ranked 68)  
+Progressed: 246,559 (Ranked 68)  
 Completed: 2,575 (1.04%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -806,10 +806,10 @@ Completed: 2,575 (1.04%) (Ranked 168)
 | 2023-12-26 | 245,031 | 2,566 |
 | 2023-12-27 | 245,531 | 2,567 |
 | 2023-12-28 | 246,305 | 2,573 |
-| 2023-12-29 | 246,543 | 2,575 |
+| 2023-12-29 | 246,559 | 2,575 |
 ## Awards
 Max (Great for Beginners): 5,708  (Ranked 71)  
-Sum: 33,156 (Ranked 41)  
+Sum: 33,161 (Ranked 41)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -817,7 +817,7 @@ Diff (max vs sum): 30
 | This game has Diverse Characters | 5,657 |
 | This game has Quickly Understood Controls | 4,870 |
 | This game is Relaxing | 4,749 |
-| This game has Amazing Characters | 4,290 |
+| This game has Amazing Characters | 4,295 |
 | This game is Highly Recommended | 4,275 |
 | This game has Playful Visuals | 3,607 |
 ## Ratings History
@@ -1160,3 +1160,4 @@ Diff (max vs sum): 30
 | 2023-12-26 | 4.06 | - | 5,696 | 33,100 |
 | 2023-12-27 | 4.06 | - | 5,701 | 33,129 |
 | 2023-12-28 | 4.06 | - | 5,708 | 33,156 |
+| 2023-12-29 | 4.06 | - | 5,708 | 33,161 |

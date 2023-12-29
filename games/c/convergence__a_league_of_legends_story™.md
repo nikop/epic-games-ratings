@@ -8,7 +8,7 @@ Rating: 4.65 (Ranked 323)
 | Time Heals All Wounds | 42.00% | ~478 |
 | Rail Rat | 32.00% | ~364 |
 | The Mysterious Stranger | 31.00% | ~353 |
-| Immaculate Aim | 27.00% | ~307 |
+| Immaculate Aim | 27.00% | ~308 |
 | The Brass Boss | 26.00% | ~296 |
 | Make Up For Lost Time | 24.00% | ~273 |
 | Time Flies | 24.00% | ~273 |
@@ -20,16 +20,16 @@ Rating: 4.65 (Ranked 323)
 | The Steel Shadow | 23.00% | ~262 |
 | Breaking Down Barriers | 23.00% | ~262 |
 | Fast Learner | 23.00% | ~262 |
-| The Wicked Twins | 22.00% | ~250 |
+| The Wicked Twins | 22.00% | ~251 |
 | Right On Time | 21.00% | ~239 |
 | Like Clockwork | 21.00% | ~239 |
 | The Betrayer | 21.00% | ~239 |
 | Golem Chaser | 21.00% | ~239 |
-| Check Your Pulse | 20.00% | ~228 |
 | The Loose Cannon | 19.00% | ~216 |
+| Check Your Pulse | 19.00% | ~216 |
 | The Man Who Shattered Time | 18.00% | ~205 |
 | The Family Fortune | 18.00% | ~205 |
-| Street Style | 17.00% | ~193 |
+| Street Style | 17.00% | ~194 |
 | Whiz Kid | 15.00% | ~171 |
 | Good Neighbor | 14.00% | ~159 |
 | Treasure Trove | 13.00% | ~148 |
@@ -40,9 +40,9 @@ Rating: 4.65 (Ranked 323)
 | Syron for Hope | 12.00% | ~137 |
 | Sump Explorer | 11.00% | ~125 |
 | Factorywood Explorer | 10.00% | ~114 |
+| Fairgrounds Explorer | 10.00% | ~114 |
 | Theater Explorer | 10.00% | ~114 |
-| Cultivair Explorer | 9.00% | ~102 |
-| Fairgrounds Explorer | 9.00% | ~102 |
+| Cultivair Explorer | 9.00% | ~103 |
 | Corin Goes Home | 8.00% | ~91 |
 | Sartorialist | 8.00% | ~91 |
 | Entresol Explorer | 8.00% | ~91 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 323)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,138 (Ranked 278)  
+Progressed: 1,139 (Ranked 278)  
 Completed: 6 (0.53%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 6 (0.53%) (Ranked 213)
 | 2023-12-26 | 1,118 | 6 |
 | 2023-12-27 | 1,130 | 6 |
 | 2023-12-28 | 1,136 | 6 |
-| 2023-12-29 | 1,138 | 6 |
+| 2023-12-29 | 1,139 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

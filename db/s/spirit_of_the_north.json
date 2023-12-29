@@ -2,7 +2,7 @@
   "ID": "6098a8c7375c43458a22163a637c0c2f",
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
-  "Ranking_Rating": 803,
+  "Ranking_Rating": 802,
   "Ranking_Popularity": 533,
   "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 108,
@@ -339,7 +339,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 78280,
+  "EOS_Progressed": 78281,
   "EOS_Completed": 419,
   "EOS_NewPlayers": 801,
   "EOS_NewCompleters": 3,
@@ -28254,6 +28254,11 @@
       "Time": "2023-12-29T07:09:28.0632958+00:00",
       "NumProgressed": 78280,
       "NumCompleted": 419
+    },
+    {
+      "Time": "2023-12-29T08:09:23.3271459+00:00",
+      "NumProgressed": 78281,
+      "NumCompleted": 419
     }
   ],
   "TotalAchievements": 24,
@@ -28281,7 +28286,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 54013
+      "UsersEstimate": 54014
     },
     {
       "ID": "BEST_FRIENDS",
@@ -28313,7 +28318,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21918
+      "UsersEstimate": 21919
     },
     {
       "ID": "FOXIN_AROUND",
@@ -28337,7 +28342,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 14090
+      "UsersEstimate": 14091
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -28345,7 +28350,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 41488
+      "UsersEstimate": 41489
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -28456,7 +28461,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 78280,
+      "Progressed": 78281,
       "Completed": 419
     }
   ],
@@ -28464,8 +28469,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2023-12-29T07:09:28.0632954+00:00",
+  "LastChanged_Achievements": "2023-12-29T08:09:23.3271458+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:46.017366+00:00",
-  "LastUpdate_Ratings": "2023-12-29T06:58:34.1509205+00:00",
-  "LastUpdate_Achievements": "2023-12-29T07:09:28.0635382+00:00"
+  "LastUpdate_Ratings": "2023-12-29T07:58:09.8144195+00:00",
+  "LastUpdate_Achievements": "2023-12-29T08:09:23.327251+00:00"
 }

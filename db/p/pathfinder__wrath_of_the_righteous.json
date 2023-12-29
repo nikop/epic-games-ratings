@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4727,9 +4727,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12849,
+  "EOS_Progressed": 12850,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18302,6 +18302,11 @@
       "Time": "2023-12-29T07:09:58.9826017+00:00",
       "NumProgressed": 12849,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T08:09:55.0327879+00:00",
+      "NumProgressed": 12850,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18313,7 +18318,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3469
+      "UsersEstimate": 3470
     },
     {
       "ID": "02_BurningCity",
@@ -18345,7 +18350,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -18369,7 +18374,7 @@
       "Name": "Path of the Angel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "09_PathOfDemon",
@@ -18401,7 +18406,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "13_PathOfLich",
@@ -18409,7 +18414,7 @@
       "Name": "Path of the Lich",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "14_PathOfSwarm",
@@ -18449,7 +18454,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1927
+      "UsersEstimate": 1928
     },
     {
       "ID": "19_EqualToAroden",
@@ -18537,7 +18542,7 @@
       "Name": "Heroic Victory",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "31_DivideAndRule",
@@ -18585,7 +18590,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -18681,7 +18686,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2441
+      "UsersEstimate": 2442
     },
     {
       "ID": "49_Flame",
@@ -18705,7 +18710,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -19240,21 +19245,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11631,
+      "Progressed": 11632,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12849,
+      "Progressed": 12850,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-29T03:58:23.1001383+00:00",
-  "LastChanged_Achievements": "2023-12-29T07:09:58.9826015+00:00",
+  "LastChanged_Achievements": "2023-12-29T08:09:55.0327869+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:01.2970884+00:00",
-  "LastUpdate_Ratings": "2023-12-29T06:58:26.7862388+00:00",
-  "LastUpdate_Achievements": "2023-12-29T07:09:58.982757+00:00"
+  "LastUpdate_Ratings": "2023-12-29T07:58:02.4943885+00:00",
+  "LastUpdate_Achievements": "2023-12-29T08:09:55.0329427+00:00"
 }

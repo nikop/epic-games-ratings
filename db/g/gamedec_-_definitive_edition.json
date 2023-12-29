@@ -507,9 +507,9 @@
       "Count": 93
     }
   ],
-  "EOS_Progressed": 256089,
+  "EOS_Progressed": 256093,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 796,
+  "EOS_NewPlayers": 797,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28837,6 +28837,11 @@
       "Time": "2023-12-29T07:04:33.3188519+00:00",
       "NumProgressed": 256089,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-29T08:04:14.1999808+00:00",
+      "NumProgressed": 256093,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -28848,7 +28853,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 69144
+      "UsersEstimate": 69145
     },
     {
       "ID": "ACH_AON",
@@ -28992,7 +28997,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 74266
+      "UsersEstimate": 74267
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -29064,7 +29069,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64022
+      "UsersEstimate": 64023
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -29080,7 +29085,7 @@
       "Name": "Good listener",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 12804
+      "UsersEstimate": 12805
     },
     {
       "ID": "ACH_LETSOTHERTHINKING",
@@ -29120,7 +29125,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 17926
+      "UsersEstimate": 17927
     },
     {
       "ID": "ACH_MEMESMART",
@@ -29128,7 +29133,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 15365
+      "UsersEstimate": 15366
     },
     {
       "ID": "ACH_MEMORY5",
@@ -29168,7 +29173,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64022
+      "UsersEstimate": 64023
     },
     {
       "ID": "ACH_SOREAD",
@@ -29216,7 +29221,7 @@
       "Name": "Trash compactor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15365
+      "UsersEstimate": 15366
     },
     {
       "ID": "ACH_TROLLKING",
@@ -29232,7 +29237,7 @@
       "Name": "Valedictorian",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 15365
+      "UsersEstimate": 15366
     },
     {
       "ID": "ACH_WAKEUP",
@@ -29263,7 +29268,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 256089,
+      "Progressed": 256093,
       "Completed": 8
     }
   ],
@@ -29271,8 +29276,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-12-26T10:03:44.4340285+00:00",
-  "LastChanged_Achievements": "2023-12-29T07:04:33.3188515+00:00",
+  "LastChanged_Achievements": "2023-12-29T08:04:14.1999805+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:20.3145423+00:00",
-  "LastUpdate_Ratings": "2023-12-29T07:03:14.125972+00:00",
-  "LastUpdate_Achievements": "2023-12-29T07:04:33.3190367+00:00"
+  "LastUpdate_Ratings": "2023-12-29T08:02:50.48537+00:00",
+  "LastUpdate_Achievements": "2023-12-29T08:04:14.2001072+00:00"
 }

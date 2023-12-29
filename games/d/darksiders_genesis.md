@@ -1,7 +1,7 @@
 # Darksiders Genesis
 [Store](https://store.epicgames.com/en-US/p/darksiders-genesis)  
 [View Rawdata](../../db/d/darksiders_genesis.json)  
-Rating: 4.49 (Ranked 629)  
+Rating: 4.49 (Ranked 630)  
 Number of Ratings: 67  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Respect For Animals | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 273 (Ranked 394)  
+Progressed: 274 (Ranked 394)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -53,7 +53,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 236 | 0 |
 | 2023-12-27 | 256 | 0 |
 | 2023-12-28 | 270 | 0 |
-| 2023-12-29 | 273 | 0 |
+| 2023-12-29 | 274 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 464)  
 Sum: 45 (Ranked 508)  

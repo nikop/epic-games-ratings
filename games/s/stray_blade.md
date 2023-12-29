@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Self-Defence | 15.00% | ~22 |
 | Tinkerer | 10.00% | ~15 |
-| Welcome to the Club | 8.00% | ~12 |
+| Welcome to the Club | 9.00% | ~13 |
 | Don't Cry Wolf | 7.00% | ~10 |
 | A new World ahead | 7.00% | ~10 |
 | Apprentice | 4.00% | ~6 |
@@ -57,7 +57,7 @@
 | Whispers of the Sand | 0.00% | ~0 |
 | Lost and Found | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146 (Ranked 446)  
+Progressed: 147 (Ranked 445)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,6 +156,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-24 | 144 | 0 |
 | 2023-12-26 | 145 | 0 |
 | 2023-12-27 | 146 | 0 |
+| 2023-12-29 | 147 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

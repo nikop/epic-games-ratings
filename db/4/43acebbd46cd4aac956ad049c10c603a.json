@@ -5,10 +5,10 @@
   "Ranking_Rating": 25,
   "Ranking_Popularity": 392,
   "Ranking_PopularitySum": 469,
-  "Ranking_EOS_Progress": 273,
+  "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -253,9 +253,9 @@
       "Count": 87
     }
   ],
-  "EOS_Progressed": 1176,
+  "EOS_Progressed": 1177,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3218,6 +3218,11 @@
       "Time": "2023-12-29T06:04:52.1419863+00:00",
       "NumProgressed": 1176,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-29T08:04:56.5540887+00:00",
+      "NumProgressed": 1177,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3326,7 +3331,7 @@
       "Name": "Discovery",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "EasternWetlands",
@@ -3398,7 +3403,7 @@
       "Name": "Into the Machine",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "JustOneLap",
@@ -3446,7 +3451,7 @@
       "Name": "Museum Explorer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "MuseumVisitor",
@@ -3494,7 +3499,7 @@
       "Name": "Persistent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "PrometheusUnbound",
@@ -3510,7 +3515,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "RemnantsOfThePast",
@@ -3518,7 +3523,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "RenaissanceRobot",
@@ -3638,7 +3643,7 @@
       "Name": "The Word Endures",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "TouchGrass",
@@ -3670,7 +3675,7 @@
       "Name": "Wanderers",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "WesternDelta",
@@ -3701,7 +3706,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1176,
+      "Progressed": 1177,
       "Completed": 2
     }
   ],
@@ -3709,8 +3714,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-28T02:59:27.0743673+00:00",
-  "LastChanged_Achievements": "2023-12-29T07:05:14.3573088+00:00",
+  "LastChanged_Achievements": "2023-12-29T08:04:56.5540885+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2023-12-29T07:00:09.8317905+00:00",
-  "LastUpdate_Achievements": "2023-12-29T07:05:14.3573585+00:00"
+  "LastUpdate_Ratings": "2023-12-29T07:59:47.9222726+00:00",
+  "LastUpdate_Achievements": "2023-12-29T08:04:56.5541471+00:00"
 }

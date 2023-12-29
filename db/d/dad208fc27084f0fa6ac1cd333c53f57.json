@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6381,
+  "EOS_Progressed": 6382,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 523,
+  "EOS_NewPlayers": 524,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
@@ -6504,6 +6504,11 @@
       "Time": "2023-12-29T07:05:08.7730403+00:00",
       "NumProgressed": 6381,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-29T08:04:50.525854+00:00",
+      "NumProgressed": 6382,
+      "NumCompleted": 60
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -6564,7 +6569,7 @@
       "Name": "Turn on the TV",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 3637
+      "UsersEstimate": 3638
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -6572,7 +6577,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 5041
+      "UsersEstimate": 5042
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -6643,14 +6648,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 6381,
+      "Progressed": 6382,
       "Completed": 60
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-12-29T07:05:08.7730398+00:00",
+  "LastChanged_Achievements": "2023-12-29T08:04:50.5258538+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:57.8220265+00:00",
-  "LastUpdate_Ratings": "2023-12-29T07:00:18.0114627+00:00",
-  "LastUpdate_Achievements": "2023-12-29T07:05:08.7730822+00:00"
+  "LastUpdate_Ratings": "2023-12-29T07:59:56.778992+00:00",
+  "LastUpdate_Achievements": "2023-12-29T08:04:50.5258911+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 771,
+  "EOS_Progressed": 772,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.3,
   "EosHistory": [
@@ -2780,6 +2780,11 @@
       "Time": "2023-12-29T07:09:34.3681282+00:00",
       "NumProgressed": 771,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-29T08:09:29.8063221+00:00",
+      "NumProgressed": 772,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -2790,9 +2795,9 @@
       "ID": "achievement_1",
       "SetID": "7ldgi7j",
       "Name": "The Ultimate Prize",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 108
+      "UsersEstimate": 116
     },
     {
       "ID": "achievement_10",
@@ -2800,7 +2805,7 @@
       "Name": "Holey Moley",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "achievement_11",
@@ -2814,9 +2819,9 @@
       "ID": "achievement_12",
       "SetID": "7ldgi7j",
       "Name": "From Way Downtown",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 439
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_13",
@@ -2888,7 +2893,7 @@
       "Name": "From Many, One",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "achievement_5",
@@ -2904,7 +2909,7 @@
       "Name": "The Strongest Field in Golf",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "achievement_7",
@@ -2912,7 +2917,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "achievement_8",
@@ -2920,7 +2925,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 48,
       "XP": 35,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "achievement_9",
@@ -2935,13 +2940,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 771,
+      "Progressed": 772,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-29T07:09:34.3681278+00:00",
+  "LastChanged_Achievements": "2023-12-29T08:09:29.8063219+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:10.1040458+00:00",
-  "LastUpdate_Ratings": "2023-12-29T06:59:39.9439138+00:00",
-  "LastUpdate_Achievements": "2023-12-29T07:09:34.3681658+00:00"
+  "LastUpdate_Ratings": "2023-12-29T07:59:17.0146866+00:00",
+  "LastUpdate_Achievements": "2023-12-29T08:09:29.8063442+00:00"
 }

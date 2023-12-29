@@ -18,7 +18,7 @@ Rating: 4.54 (Ranked 540)
 | Peacemaker | 21.00% | ~236 |
 | Volcanologist | 21.00% | ~236 |
 | On her own | 20.00% | ~225 |
-| Fierce fight | 18.00% | ~202 |
+| Fierce fight | 19.00% | ~213 |
 | Evacuation | 18.00% | ~202 |
 | Beyond divisions | 17.00% | ~191 |
 | Flying Objects Operator | 16.00% | ~180 |

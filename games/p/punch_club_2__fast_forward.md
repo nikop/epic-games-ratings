@@ -56,17 +56,17 @@
 | Undercover robot | 31.00% | ~153 |
 | Problems of cyborgs | 30.00% | ~148 |
 | The lonesome road | 29.00% | ~143 |
+| Keep nature safe | 29.00% | ~143 |
 | Family comes first | 29.00% | ~143 |
+| Key memories | 29.00% | ~143 |
 | Not little hacker | 29.00% | ~143 |
 | Careerist | 29.00% | ~143 |
+| The heart of the Resistance | 29.00% | ~143 |
 | Your own way | 29.00% | ~143 |
 | Trap disarmed | 28.00% | ~138 |
 | Another world | 28.00% | ~138 |
-| Keep nature safe | 28.00% | ~138 |
-| Key memories | 28.00% | ~138 |
 | The last bell ring | 28.00% | ~138 |
 | Anyone can resist | 28.00% | ~138 |
-| The heart of the Resistance | 28.00% | ~138 |
 | Better cooking at home | 26.00% | ~128 |
 | The only right decision | 26.00% | ~128 |
 | Silver’s past | 25.00% | ~123 |

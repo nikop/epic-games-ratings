@@ -5607,7 +5607,7 @@
       "Count": 548
     }
   ],
-  "EOS_Progressed": 13407,
+  "EOS_Progressed": 13408,
   "EOS_Completed": 331,
   "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 9,
@@ -23462,6 +23462,11 @@
       "Time": "2023-12-29T07:09:00.285249+00:00",
       "NumProgressed": 13407,
       "NumCompleted": 331
+    },
+    {
+      "Time": "2023-12-29T08:08:55.1910066+00:00",
+      "NumProgressed": 13408,
+      "NumCompleted": 331
     }
   ],
   "TotalAchievements": 15,
@@ -23489,7 +23494,7 @@
       "Name": "Bestest Friend",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 6033
+      "UsersEstimate": 6034
     },
     {
       "ID": "Chef_Cook",
@@ -23497,7 +23502,7 @@
       "Name": "Chef Cook",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 2547
+      "UsersEstimate": 2548
     },
     {
       "ID": "Chit_Chatter",
@@ -23585,14 +23590,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 8044
+      "UsersEstimate": 8045
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 13407,
+      "Progressed": 13408,
       "Completed": 331
     }
   ],
@@ -23600,8 +23605,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-12-29T06:00:10.7269009+00:00",
-  "LastChanged_Achievements": "2023-12-29T07:09:00.2852486+00:00",
+  "LastChanged_Achievements": "2023-12-29T08:08:55.191005+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:18.7003886+00:00",
   "LastUpdate_Ratings": "2023-12-29T07:00:35.4833438+00:00",
-  "LastUpdate_Achievements": "2023-12-29T07:09:00.2853367+00:00"
+  "LastUpdate_Achievements": "2023-12-29T08:08:55.1911015+00:00"
 }

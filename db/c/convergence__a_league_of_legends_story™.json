@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1138,
+  "EOS_Progressed": 1139,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -3261,6 +3261,11 @@
       "Time": "2023-12-29T01:47:00.7432027+00:00",
       "NumProgressed": 1138,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-29T08:09:48.6041959+00:00",
+      "NumProgressed": 1139,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3344,7 +3349,7 @@
       "Name": "Street Style",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "CultivairChests1",
@@ -3352,7 +3357,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "EntresolChests1",
@@ -3382,9 +3387,9 @@
       "ID": "FairgroundsChests1",
       "SetID": "a9e499d",
       "Name": "Fairgrounds Explorer",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 114
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -3544,7 +3549,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "PidgeDefeated",
@@ -3630,9 +3635,9 @@
       "ID": "TemporalPulseKills1",
       "SetID": "a9e499d",
       "Name": "Check Your Pulse",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 216
     },
     {
       "ID": "TheaterChests1",
@@ -3648,7 +3653,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "WarwickDefeated",
@@ -3695,7 +3700,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1138,
+      "Progressed": 1139,
       "Completed": 6
     }
   ],
@@ -3703,8 +3708,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-29T07:09:52.7071813+00:00",
+  "LastChanged_Achievements": "2023-12-29T08:09:48.6041957+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-29T06:59:52.226086+00:00",
-  "LastUpdate_Achievements": "2023-12-29T07:09:52.7072249+00:00"
+  "LastUpdate_Ratings": "2023-12-29T07:59:29.7277055+00:00",
+  "LastUpdate_Achievements": "2023-12-29T08:09:48.6042353+00:00"
 }

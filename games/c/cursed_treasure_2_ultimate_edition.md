@@ -17,17 +17,17 @@
 | Brilliant: Meadowshire | 75.00% | ~137 |
 | Sergeant of the Evil | 75.00% | ~137 |
 | Look After the Pence... | 74.00% | ~135 |
-| Drunken Master | 73.00% | ~134 |
+| Drunken Master | 74.00% | ~135 |
 | V.I.P. Cemetery | 72.00% | ~132 |
-| Woodcutter | 71.00% | ~130 |
+| Woodcutter | 72.00% | ~132 |
+| Architect of Darkness | 71.00% | ~130 |
 | Top of the World | 70.00% | ~128 |
 | Takeover | 70.00% | ~128 |
 | Sharpshooter | 70.00% | ~128 |
-| Architect of Darkness | 70.00% | ~128 |
 | The Apotheosis of War | 68.00% | ~124 |
 | Stasis Alcatraz | 68.00% | ~124 |
+| Brilliant: Holy Mountain | 64.00% | ~117 |
 | Tastes Like Chicken | 64.00% | ~117 |
-| Brilliant: Holy Mountain | 63.00% | ~115 |
 | Combo Breaker | 63.00% | ~115 |
 | Thunderstorm | 63.00% | ~115 |
 | Clean Forests | 62.00% | ~113 |

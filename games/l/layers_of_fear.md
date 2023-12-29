@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 83.00% | ~184 |
-| A piece of the story | 59.00% | ~131 |
-| Wanderer | 55.00% | ~122 |
-| It's covered up for a reason | 51.00% | ~113 |
-| Scraps of love | 46.00% | ~102 |
+| Something important | 83.00% | ~185 |
+| A piece of the story | 59.00% | ~132 |
+| Wanderer | 55.00% | ~123 |
+| It's covered up for a reason | 51.00% | ~114 |
+| Scraps of love | 46.00% | ~103 |
 | The artist’s impression | 45.00% | ~100 |
-| Do what you have to | 44.00% | ~98 |
-| Sign of weakness | 40.00% | ~89 |
+| Do what you have to | 43.00% | ~96 |
+| Sign of weakness | 39.00% | ~87 |
 | Refuse to look | 35.00% | ~78 |
-| Face your fears | 29.00% | ~64 |
-| Finished it | 27.00% | ~60 |
+| Face your fears | 29.00% | ~65 |
+| Finished it | 26.00% | ~58 |
 | Whispers long forgotten | 15.00% | ~33 |
-| Sound Bite | 11.00% | ~24 |
+| Sound Bite | 11.00% | ~25 |
 | A Slice of Life | 10.00% | ~22 |
 | Debut | 10.00% | ~22 |
 | Playtime | 10.00% | ~22 |
@@ -49,15 +49,15 @@
 | The Big Picture | 0.90% | ~2 |
 | In One Take | 0.90% | ~2 |
 | Rocket Science | 0.90% | ~2 |
-| You Can’t Handle the Truth | 0.50% | ~1 |
-| The Tree and the Apple | 0.50% | ~1 |
+| You Can’t Handle the Truth | 0.40% | ~1 |
+| The Tree and the Apple | 0.40% | ~1 |
 | The whole story | 0.00% | ~0 |
 | You might have a problem | 0.00% | ~0 |
 | Inheritance | 0.00% | ~0 |
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222 (Ranked 415)  
+Progressed: 223 (Ranked 415)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,4 +124,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 208 | 0 |
 | 2023-12-27 | 213 | 0 |
 | 2023-12-28 | 220 | 0 |
-| 2023-12-29 | 222 | 0 |
+| 2023-12-29 | 223 | 0 |

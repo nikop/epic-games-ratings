@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 680,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 460,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-12-29T00:00:00+00:00",
     "PcReleaseDate": "2023-05-14T15:00:00+00:00",
@@ -105,9 +105,9 @@
       "ID": "COMBO_DRONE",
       "SetID": "1fek4an",
       "Name": "Skynet",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "COMBO_HP",
@@ -329,9 +329,9 @@
       "ID": "LEVEL_COMPLETE_0_0",
       "SetID": "1fek4an",
       "Name": "Grass",
-      "Percentage": 60,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "LEVEL_COMPLETE_0_12",
@@ -593,9 +593,9 @@
       "ID": "TEAMWORK",
       "SetID": "1fek4an",
       "Name": "Teamwork",
-      "Percentage": 60,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "UPGRADE_DONE",
@@ -615,8 +615,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2023-12-29T07:05:58.9128516+00:00",
+  "LastChanged_Achievements": "2023-12-29T08:05:42.3271668+00:00",
   "LastUpdate_AppInfo": "2023-12-27T12:59:42.9426347+00:00",
-  "LastUpdate_Ratings": "2023-12-29T07:03:06.1047226+00:00",
-  "LastUpdate_Achievements": "2023-12-29T07:05:58.9128976+00:00"
+  "LastUpdate_Ratings": "2023-12-29T08:02:42.3168641+00:00",
+  "LastUpdate_Achievements": "2023-12-29T08:05:42.3272238+00:00"
 }

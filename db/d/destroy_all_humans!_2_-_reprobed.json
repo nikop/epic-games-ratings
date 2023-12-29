@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 521,
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -282,9 +282,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 231,
+  "EOS_Progressed": 232,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -1172,6 +1172,11 @@
       "Time": "2023-12-29T07:08:58.1078813+00:00",
       "NumProgressed": 231,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T08:08:52.7642163+00:00",
+      "NumProgressed": 232,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1184,7 +1189,7 @@
       "Name": "Mash Machine",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1320,7 +1325,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1432,7 +1437,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -1535,7 +1540,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 231,
+      "Progressed": 232,
       "Completed": 1
     }
   ],
@@ -1543,8 +1548,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-28T10:58:39.1665152+00:00",
-  "LastChanged_Achievements": "2023-12-29T07:08:58.1078811+00:00",
+  "LastChanged_Achievements": "2023-12-29T08:08:52.7642161+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-29T06:59:11.522226+00:00",
-  "LastUpdate_Achievements": "2023-12-29T07:08:58.107909+00:00"
+  "LastUpdate_Ratings": "2023-12-29T07:58:47.5894617+00:00",
+  "LastUpdate_Achievements": "2023-12-29T08:08:52.7642476+00:00"
 }

@@ -1301,9 +1301,9 @@
       "ID": "Craft_Enhancement_First",
       "SetID": "7a5k76n",
       "Name": "Enhance!",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 122
     },
     {
       "ID": "Crucible_Kill_WickedK",
@@ -1605,9 +1605,9 @@
       "ID": "Unlocked_49_Achievements",
       "SetID": "7a5k76n",
       "Name": "BFA",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "Upgrade_Armor_First",
@@ -1621,9 +1621,9 @@
       "ID": "Upgrade_Weapon_First",
       "SetID": "7a5k76n",
       "Name": "Just the start",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 141
     },
     {
       "ID": "Upgrade_Weapon_Max",
@@ -1645,8 +1645,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-27T15:59:03.0058269+00:00",
-  "LastChanged_Achievements": "2023-12-29T07:03:59.8761377+00:00",
+  "LastChanged_Achievements": "2023-12-29T08:03:39.3350963+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:27.1633457+00:00",
-  "LastUpdate_Ratings": "2023-12-29T06:59:09.2826902+00:00",
-  "LastUpdate_Achievements": "2023-12-29T07:03:59.8761796+00:00"
+  "LastUpdate_Ratings": "2023-12-29T07:58:45.1808058+00:00",
+  "LastUpdate_Achievements": "2023-12-29T08:03:39.3351359+00:00"
 }

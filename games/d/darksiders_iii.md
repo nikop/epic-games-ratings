@@ -12,10 +12,10 @@ Number of Ratings: 116  (23.09.2022)
 | Increased Vigor | 61.00% | ~165 |
 | Fight Fire with Fire | 60.00% | ~163 |
 | Increased Capacity | 56.00% | ~152 |
-| Just the start | 51.00% | ~138 |
+| Just the start | 52.00% | ~141 |
 | Perfect Storm | 49.00% | ~133 |
 | All That Glitters | 48.00% | ~130 |
-| Enhance! | 44.00% | ~119 |
+| Enhance! | 45.00% | ~122 |
 | One Of the Chosen | 43.00% | ~117 |
 | Devil's in the Details | 41.00% | ~111 |
 | Throne Potato | 41.00% | ~111 |
@@ -59,11 +59,11 @@ Number of Ratings: 116  (23.09.2022)
 | Keeper of the Vale | 4.00% | ~11 |
 | Keeper of the Tempo | 4.00% | ~11 |
 | Keep it 100! | 4.00% | ~11 |
+| BFA | 4.00% | ~11 |
 | Made of Sterner Stuff | 4.00% | ~11 |
 | Balance in all things | 3.00% | ~8 |
 | "Incredible!" | 3.00% | ~8 |
 | Keeper of Colossal Automata | 3.00% | ~8 |
-| BFA | 3.00% | ~8 |
 | "Amazing!" | 2.00% | ~5 |
 | Proceed on your way to Armageddon | 2.00% | ~5 |
 | "Apocalyptic!" | 1.00% | ~3 |

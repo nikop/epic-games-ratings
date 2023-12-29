@@ -2,10 +2,10 @@
   "ID": "f10440a3a8fa4c29ae5be55c949ba58f",
   "Name": "Tangles",
   "ProductSlug": "tangles-e99298",
-  "Ranking_EOS_Progress": 206,
-  "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_Progress": 205,
+  "Ranking_EOS_Completed": 278,
+  "Ranking_EOS_NewPlayers": 50,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-12-21T00:00:00+00:00",
     "PcReleaseDate": "2023-12-22T03:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4320,
+  "EOS_Progressed": 4327,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 4274,
+  "EOS_NewPlayers": 4281,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 0.19,
+  "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
     {
       "Time": "2023-12-04T20:08:44.4848229+00:00",
@@ -964,6 +964,11 @@
       "Time": "2023-12-29T07:09:12.3553376+00:00",
       "NumProgressed": 4320,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-29T08:09:07.1884822+00:00",
+      "NumProgressed": 4327,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -976,7 +981,7 @@
       "Name": "Final Destination",
       "Percentage": 51,
       "XP": 200,
-      "UsersEstimate": 2203
+      "UsersEstimate": 2207
     },
     {
       "ID": "Document1",
@@ -1000,7 +1005,7 @@
       "Name": "Secrets Revealer",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Document4",
@@ -1008,7 +1013,7 @@
       "Name": "Truth Seeker",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Document5",
@@ -1024,7 +1029,7 @@
       "Name": "Perseverant",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Untraceable2",
@@ -1032,21 +1037,21 @@
       "Name": "Untraceable",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     }
   ],
   "AchievementSets": [
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 4320,
+      "Progressed": 4327,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2023-12-29T07:09:12.3553371+00:00",
+  "LastChanged_Achievements": "2023-12-29T08:09:07.1884819+00:00",
   "LastUpdate_AppInfo": "2023-12-24T20:56:57.0672179+00:00",
-  "LastUpdate_Ratings": "2023-12-29T06:57:58.3698907+00:00",
-  "LastUpdate_Achievements": "2023-12-29T07:09:12.355347+00:00"
+  "LastUpdate_Ratings": "2023-12-29T07:57:33.3532748+00:00",
+  "LastUpdate_Achievements": "2023-12-29T08:09:07.1884965+00:00"
 }

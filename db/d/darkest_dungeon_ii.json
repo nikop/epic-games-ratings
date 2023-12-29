@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10272,9 +10272,9 @@
       "Count": 1064
     }
   ],
-  "EOS_Progressed": 130476,
+  "EOS_Progressed": 130483,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1429,
+  "EOS_NewPlayers": 1431,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37317,6 +37317,11 @@
       "Time": "2023-12-29T07:09:23.5639165+00:00",
       "NumProgressed": 130476,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T08:09:18.6497274+00:00",
+      "NumProgressed": 130483,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37864,7 +37869,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "combat_kill_collector",
@@ -37872,7 +37877,7 @@
       "Name": "This guy... again?",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -37896,7 +37901,7 @@
       "Name": "Slap on the Wrist",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -37912,7 +37917,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -37920,7 +37925,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "quest_complete_crusader",
@@ -37928,7 +37933,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -37936,7 +37941,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -37944,7 +37949,7 @@
       "Name": "For Old Time\u0027 Sake",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "run_victory_final_boss_hwy_cru",
@@ -37959,21 +37964,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130476,
+      "Progressed": 130483,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5345,
+      "Progressed": 5352,
       "Completed": 813
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-29T07:00:03.6947703+00:00",
-  "LastChanged_Achievements": "2023-12-29T07:09:23.5639161+00:00",
+  "LastChanged_Achievements": "2023-12-29T08:09:18.6497272+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-29T07:00:03.694771+00:00",
-  "LastUpdate_Achievements": "2023-12-29T07:09:23.5641322+00:00"
+  "LastUpdate_Ratings": "2023-12-29T07:59:41.7612929+00:00",
+  "LastUpdate_Achievements": "2023-12-29T08:09:18.6499225+00:00"
 }

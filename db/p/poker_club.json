@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-04-27T15:00:00+00:00",
     "PcReleaseDate": "2020-11-20T00:00:00+00:00",
@@ -1099,9 +1099,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 546890,
+  "EOS_Progressed": 546892,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2070,
+  "EOS_NewPlayers": 2068,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29919,6 +29919,11 @@
       "Time": "2023-12-29T07:09:04.6002274+00:00",
       "NumProgressed": 546890,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-29T08:08:59.6778742+00:00",
+      "NumProgressed": 546892,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -29930,7 +29935,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 147660
+      "UsersEstimate": 147661
     },
     {
       "ID": "Backdoor",
@@ -29938,7 +29943,7 @@
       "Name": "Backdoor",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 136722
+      "UsersEstimate": 136723
     },
     {
       "ID": "BeforeYouWreckYourself",
@@ -30026,7 +30031,7 @@
       "Name": "Cold Caller",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 218756
+      "UsersEstimate": 218757
     },
     {
       "ID": "DeadlyAssassin",
@@ -30034,7 +30039,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 87502
+      "UsersEstimate": 87503
     },
     {
       "ID": "DogEatDog",
@@ -30058,7 +30063,7 @@
       "Name": "Give Your Regards To Broadway",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 32813
+      "UsersEstimate": 32814
     },
     {
       "ID": "GoForIt",
@@ -30082,7 +30087,7 @@
       "Name": "Handy",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 229694
+      "UsersEstimate": 229695
     },
     {
       "ID": "HoldingYourOwn",
@@ -30178,7 +30183,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 415636
+      "UsersEstimate": 415638
     },
     {
       "ID": "ProPlayer",
@@ -30289,7 +30294,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 546890,
+      "Progressed": 546892,
       "Completed": 2
     }
   ],
@@ -30297,8 +30302,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-12-28T23:56:52.9059835+00:00",
-  "LastChanged_Achievements": "2023-12-29T07:09:04.600227+00:00",
+  "LastChanged_Achievements": "2023-12-29T08:08:59.677874+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:15.3077367+00:00",
-  "LastUpdate_Ratings": "2023-12-29T06:57:30.7823974+00:00",
-  "LastUpdate_Achievements": "2023-12-29T07:09:04.6003802+00:00"
+  "LastUpdate_Ratings": "2023-12-29T07:57:04.7398809+00:00",
+  "LastUpdate_Achievements": "2023-12-29T08:08:59.6780358+00:00"
 }

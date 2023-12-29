@@ -2401,9 +2401,9 @@
       "ID": "ACHIEVEMENT_23",
       "SetID": "7pimpda",
       "Name": "Master Cook",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 60
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -2650,8 +2650,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-29T07:09:07.7493204+00:00",
+  "LastChanged_Achievements": "2023-12-29T08:09:02.7761528+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:49.8378615+00:00",
-  "LastUpdate_Ratings": "2023-12-29T06:58:15.0183406+00:00",
-  "LastUpdate_Achievements": "2023-12-29T07:09:07.7493928+00:00"
+  "LastUpdate_Ratings": "2023-12-29T07:57:50.2857949+00:00",
+  "LastUpdate_Achievements": "2023-12-29T08:09:02.7761944+00:00"
 }

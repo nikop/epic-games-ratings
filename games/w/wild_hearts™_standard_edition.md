@@ -30,7 +30,7 @@
 | Karakuri Trail | 22.00% | ~214 |
 | Snare Specialist | 22.00% | ~214 |
 | Artful Assister | 22.00% | ~214 |
-| Team Hunter | 19.00% | ~185 |
+| Team Hunter | 20.00% | ~195 |
 | Karakuri Isle | 18.00% | ~175 |
 | Reincarnation Cycle Stopper | 18.00% | ~175 |
 | Human Believer | 16.00% | ~156 |

@@ -1,19 +1,19 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 460)  
+Rating: 4.58 (Ranked 461)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~15,526 |
-| Sweet Sorrow | 18.00% | ~7,763 |
+| Sink Beneath the Waves | 36.00% | ~15,527 |
+| Sweet Sorrow | 18.00% | ~7,764 |
 | Rules the Waves | 17.00% | ~7,332 |
-| Thou, All-Shaking Thunder | 15.00% | ~6,469 |
+| Thou, All-Shaking Thunder | 15.00% | ~6,470 |
 | Rival | 14.00% | ~6,038 |
-| Correspondent | 12.00% | ~5,175 |
-| Lose Your Mind | 12.00% | ~5,175 |
-| Sound Mind? | 12.00% | ~5,175 |
+| Correspondent | 12.00% | ~5,176 |
+| Lose Your Mind | 12.00% | ~5,176 |
+| Sound Mind? | 12.00% | ~5,176 |
 | Salt's Curse | 11.00% | ~4,744 |
 | HE SUN THE SUN THE SUN T | 11.00% | ~4,744 |
 | The Fall of the House | 11.00% | ~4,744 |
@@ -23,7 +23,7 @@ Number of Ratings: 401  (23.09.2022)
 | Salvager | 7.00% | ~3,019 |
 | Open Your Ears | 7.00% | ~3,019 |
 | The Ascent of Man | 7.00% | ~3,019 |
-| Zee Fever | 5.00% | ~2,156 |
+| Zee Fever | 5.00% | ~2,157 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,725 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,725 |
 | Storm's Curse | 3.00% | ~1,294 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~43 |
 | Ten Years at Zee | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,129 (Ranked 127)  
+Progressed: 43,131 (Ranked 127)  
 Completed: 4 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 4 (0.01%) (Ranked 367)
 | 2023-12-26 | 42,966 | 4 |
 | 2023-12-27 | 43,046 | 4 |
 | 2023-12-28 | 43,111 | 4 |
-| 2023-12-29 | 43,129 | 4 |
+| 2023-12-29 | 43,131 | 4 |
 ## Awards
 Max (Character Customization): 221  (Ranked 289)  
 Sum: 315 (Ranked 372)  

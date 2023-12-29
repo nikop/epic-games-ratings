@@ -2,13 +2,13 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 460,
+  "Ranking_Rating": 461,
   "Ranking_Popularity": 134,
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3802,9 +3802,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 241940,
+  "EOS_Progressed": 241941,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 494,
+  "EOS_NewPlayers": 491,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -29927,6 +29927,11 @@
       "Time": "2023-12-29T07:10:00.3505023+00:00",
       "NumProgressed": 241940,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-29T08:09:56.5313927+00:00",
+      "NumProgressed": 241941,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -30616,9 +30621,9 @@
       "ID": "POISON30TIMES",
       "SetID": "5l8oe0h",
       "Name": "Toxic",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1694
     },
     {
       "ID": "POISONEDTWICEIN1TURN",
@@ -31041,13 +31046,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241940,
+      "Progressed": 241941,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3420,
+      "Progressed": 3421,
       "Completed": 416
     }
   ],
@@ -31055,8 +31060,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-28T23:00:28.6760098+00:00",
-  "LastChanged_Achievements": "2023-12-29T07:10:00.350502+00:00",
+  "LastChanged_Achievements": "2023-12-29T08:09:56.5313926+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-29T06:59:45.8666908+00:00",
-  "LastUpdate_Achievements": "2023-12-29T07:10:00.3507399+00:00"
+  "LastUpdate_Ratings": "2023-12-29T07:59:23.078044+00:00",
+  "LastUpdate_Achievements": "2023-12-29T08:09:56.5316256+00:00"
 }

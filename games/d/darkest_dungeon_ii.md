@@ -6,14 +6,14 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~588 |
-| Lost and Found | 7.00% | ~374 |
+| Malpractice Assurance | 11.00% | ~589 |
+| Lost and Found | 7.00% | ~375 |
 | Autodidact | 6.00% | ~7,829 |
 | This Belongs in a Museum | 5.00% | ~6,524 |
 | Overdue Notice | 5.00% | ~6,524 |
-| This guy... again? | 5.00% | ~267 |
-| Ploughshares to Swords | 5.00% | ~267 |
-| Bloody Graduation | 5.00% | ~267 |
+| This guy... again? | 5.00% | ~268 |
+| Ploughshares to Swords | 5.00% | ~268 |
+| Bloody Graduation | 5.00% | ~268 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,219 |
 | Serenity Now! | 4.00% | ~5,219 |
 | Not Today! | 4.00% | ~5,219 |
@@ -33,7 +33,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 3.00% | ~3,914 |
 | A Place to Lay Your Head | 3.00% | ~3,914 |
 | Nope | 3.00% | ~3,914 |
-| Friends 'Til the End | 3.00% | ~160 |
+| Friends 'Til the End | 3.00% | ~161 |
 | Resurrection | 2.00% | ~2,610 |
 | Unleash Hell | 2.00% | ~2,610 |
 | Funny Guy | 2.00% | ~2,610 |
@@ -60,8 +60,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | No More Mouths to Feed | 1.00% | ~1,305 |
 | Eyes Up | 1.00% | ~1,305 |
 | Handled | 1.00% | ~1,305 |
-| Slap on the Wrist | 1.00% | ~53 |
-| For Old Time' Sake | 1.00% | ~53 |
+| Slap on the Wrist | 1.00% | ~54 |
+| For Old Time' Sake | 1.00% | ~54 |
 | Shrine of Reflection | 0.90% | ~1,174 |
 | Body of Work | 0.90% | ~1,174 |
 | Clearing the Ledger | 0.80% | ~1,044 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~130 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,476 (Ranked 87)  
+Progressed: 130,483 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-26 | 130,068 | 3 |
 | 2023-12-27 | 130,259 | 3 |
 | 2023-12-28 | 130,422 | 3 |
-| 2023-12-29 | 130,476 | 3 |
+| 2023-12-29 | 130,483 | 3 |
 ## Awards
 Max (Character Customization): 7,899  (Ranked 50)  
 Sum: 21,221 (Ranked 58)  

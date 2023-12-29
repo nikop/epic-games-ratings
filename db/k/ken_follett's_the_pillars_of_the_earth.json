@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17472,
+  "EOS_Progressed": 17473,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -17250,6 +17250,11 @@
       "Time": "2023-12-29T03:03:37.0509971+00:00",
       "NumProgressed": 17472,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-12-29T08:03:37.6913049+00:00",
+      "NumProgressed": 17473,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 41,
@@ -17373,7 +17378,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3494
+      "UsersEstimate": 3495
     },
     {
       "ID": "tpote_achievement_23",
@@ -17429,7 +17434,7 @@
       "Name": "Skilled merchant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "tpote_achievement_3",
@@ -17437,7 +17442,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5416
+      "UsersEstimate": 5417
     },
     {
       "ID": "tpote_achievement_30",
@@ -17493,7 +17498,7 @@
       "Name": "Brother Marcus",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "tpote_achievement_37",
@@ -17517,7 +17522,7 @@
       "Name": "The oath",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "tpote_achievement_4",
@@ -17533,7 +17538,7 @@
       "Name": "The truth revealed",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "tpote_achievement_41",
@@ -17541,7 +17546,7 @@
       "Name": "The End.",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "tpote_achievement_5",
@@ -17581,22 +17586,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5940
+      "UsersEstimate": 5941
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17472,
+      "Progressed": 17473,
       "Completed": 122
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-29T07:03:58.2145773+00:00",
+  "LastChanged_Achievements": "2023-12-29T08:03:37.6913047+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.265609+00:00",
-  "LastUpdate_Ratings": "2023-12-29T06:59:52.9935063+00:00",
-  "LastUpdate_Achievements": "2023-12-29T07:03:58.2146655+00:00"
+  "LastUpdate_Ratings": "2023-12-29T07:59:30.3823563+00:00",
+  "LastUpdate_Achievements": "2023-12-29T08:03:37.6913815+00:00"
 }

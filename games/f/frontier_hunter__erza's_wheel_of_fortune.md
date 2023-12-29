@@ -36,7 +36,7 @@
 | Boss challenge | 10.00% | ~67 |
 | Giantess Slayer | 10.00% | ~67 |
 | Warden Slayer | 10.00% | ~67 |
-| Master Cook | 8.00% | ~54 |
+| Master Cook | 9.00% | ~60 |
 | Silver Moon Wolf King Challenge | 4.00% | ~27 |
 | Flying Kobold Challenge | 3.00% | ~20 |
 | Furious Scorpion Challenge | 3.00% | ~20 |

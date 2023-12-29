@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 372,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 616,
+  "EOS_Progressed": 617,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.08,
   "EosHistory": [
@@ -1009,6 +1009,11 @@
       "Time": "2023-12-28T21:11:27.5144872+00:00",
       "NumProgressed": 616,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-29T08:09:45.3612757+00:00",
+      "NumProgressed": 617,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 32,
@@ -1044,7 +1049,7 @@
       "Name": "Buckle up",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -1058,9 +1063,9 @@
       "ID": "CURIOUS",
       "SetID": "2iigf77",
       "Name": "Curious",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 259
     },
     {
       "ID": "EVERYBODY_LIES",
@@ -1108,7 +1113,7 @@
       "Name": "Hands up!",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -1180,7 +1185,7 @@
       "Name": "Now you know",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "PERFECT_HEARING",
@@ -1188,7 +1193,7 @@
       "Name": "Perfect hearing",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "PLEASE",
@@ -1212,7 +1217,7 @@
       "Name": "Quick charge",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "SHORT_CIRCUIT",
@@ -1220,7 +1225,7 @@
       "Name": "Short circuit",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "SILENT",
@@ -1244,7 +1249,7 @@
       "Name": "That\u0027s much better!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "THERE_IS_ANOTHER_WAY",
@@ -1275,7 +1280,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 616,
+      "Progressed": 617,
       "Completed": 19
     }
   ],
@@ -1283,8 +1288,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2023-12-29T07:09:49.817587+00:00",
+  "LastChanged_Achievements": "2023-12-29T08:09:45.3612755+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:27.9005622+00:00",
-  "LastUpdate_Ratings": "2023-12-29T07:00:05.4637732+00:00",
-  "LastUpdate_Achievements": "2023-12-29T07:09:49.8176123+00:00"
+  "LastUpdate_Ratings": "2023-12-29T07:59:43.5399976+00:00",
+  "LastUpdate_Achievements": "2023-12-29T08:09:45.3612926+00:00"
 }

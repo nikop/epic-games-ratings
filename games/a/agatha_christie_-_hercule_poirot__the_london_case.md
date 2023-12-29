@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Marc Allard | 72.00% | ~55 |
-| Little ideas | 68.00% | ~52 |
-| The Ship | 64.00% | ~49 |
-| Seeking the truth | 55.00% | ~42 |
-| An old friend | 53.00% | ~40 |
+| Little ideas | 70.00% | ~53 |
+| The Ship | 66.00% | ~50 |
+| Seeking the truth | 57.00% | ~43 |
+| An old friend | 54.00% | ~41 |
 | The Gala | 51.00% | ~39 |
 | A curious gathering | 49.00% | ~37 |
 | Little grey cells | 46.00% | ~35 |
@@ -23,8 +23,8 @@
 | The Investigation Begins | 33.00% | ~25 |
 | Ms. Camilla B. Culsham | 30.00% | ~23 |
 | Irene Court-Smyth | 30.00% | ~23 |
-| An odd series of events | 28.00% | ~21 |
-| The Apartment | 28.00% | ~21 |
+| An odd series of events | 29.00% | ~22 |
+| The Apartment | 29.00% | ~22 |
 | Nathaniel Dryden | 25.00% | ~19 |
 | Bartholomew | 25.00% | ~19 |
 | Well-acquainted | 24.00% | ~18 |
