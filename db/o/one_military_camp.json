@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -1289,9 +1289,9 @@
       "ID": "ACHIEVEMENT_ID_27",
       "SetID": "c504de6",
       "Name": "The 4 Pillars",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHIEVEMENT_ID_28",
@@ -1337,9 +1337,9 @@
       "ID": "ACHIEVEMENT_ID_32",
       "SetID": "c504de6",
       "Name": "Capitalism",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_ID_33",
@@ -1401,9 +1401,9 @@
       "ID": "ACHIEVEMENT_ID_4",
       "SetID": "c504de6",
       "Name": "First Step",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_ID_40",
@@ -1488,8 +1488,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-12-29T16:03:47.8765629+00:00",
+  "LastChanged_Achievements": "2023-12-29T17:03:56.8333655+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.8669849+00:00",
-  "LastUpdate_Ratings": "2023-12-29T15:58:47.2888276+00:00",
-  "LastUpdate_Achievements": "2023-12-29T16:03:47.8765933+00:00"
+  "LastUpdate_Ratings": "2023-12-29T16:59:01.458491+00:00",
+  "LastUpdate_Achievements": "2023-12-29T17:03:56.833394+00:00"
 }

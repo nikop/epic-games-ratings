@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -144,9 +144,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 599,
+  "EOS_Progressed": 600,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1669,6 +1669,11 @@
       "Time": "2023-12-29T15:07:49.0018626+00:00",
       "NumProgressed": 599,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-29T17:03:22.7866973+00:00",
+      "NumProgressed": 600,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1680,7 +1685,7 @@
       "Name": "Getting started",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "02_collector",
@@ -1808,7 +1813,7 @@
       "Name": "Builder",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "18_foreman",
@@ -1856,7 +1861,7 @@
       "Name": "Close call!",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "24_mega",
@@ -1942,9 +1947,9 @@
       "ID": "34_needtothink",
       "SetID": "chb1m60",
       "Name": "Need to think",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 252
+      "UsersEstimate": 258
     },
     {
       "ID": "35_achtung",
@@ -1991,15 +1996,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 599,
+      "Progressed": 600,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-12-18T07:02:31.8741871+00:00",
-  "LastChanged_Achievements": "2023-12-29T15:07:49.0018621+00:00",
+  "LastChanged_Achievements": "2023-12-29T17:03:22.786697+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:20.7345819+00:00",
-  "LastUpdate_Ratings": "2023-12-29T15:58:39.857775+00:00",
-  "LastUpdate_Achievements": "2023-12-29T15:07:49.0019028+00:00"
+  "LastUpdate_Ratings": "2023-12-29T16:58:53.0905277+00:00",
+  "LastUpdate_Achievements": "2023-12-29T17:03:22.7867902+00:00"
 }

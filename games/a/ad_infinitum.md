@@ -10,8 +10,8 @@
 | Hunger | 52.00% | ~76 |
 | Awaken | 42.00% | ~62 |
 | Path of Corruption | 33.00% | ~49 |
+| Rage | 30.00% | ~44 |
 | Hope | 29.00% | ~43 |
-| Rage | 29.00% | ~43 |
 | Path of Pain | 22.00% | ~32 |
 | Mayhem | 18.00% | ~26 |
 | Reflections | 17.00% | ~25 |
@@ -19,9 +19,9 @@
 | Clarity | 16.00% | ~24 |
 | Health | 14.00% | ~21 |
 | Awaiting orders | 12.00% | ~18 |
+| Art critic | 10.00% | ~15 |
 | Jigsaw | 10.00% | ~15 |
 | Peace | 10.00% | ~15 |
-| Art critic | 9.00% | ~13 |
 | An act of courage | 7.00% | ~10 |
 | Lost | 7.00% | ~10 |
 | An act of compassion | 4.00% | ~6 |

@@ -156,7 +156,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 576,
+  "EOS_Progressed": 577,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 1,
@@ -1971,6 +1971,11 @@
       "Time": "2023-12-29T13:12:17.4530711+00:00",
       "NumProgressed": 576,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-29T17:09:26.3573036+00:00",
+      "NumProgressed": 577,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -2006,7 +2011,7 @@
       "Name": "Electro-Scrap Master",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_COLLECT_100_SCRAP",
@@ -2014,7 +2019,7 @@
       "Name": "Scrap Master",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_COLLECT_10_HERBS",
@@ -2022,7 +2027,7 @@
       "Name": "Herbalist",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH_COLLECT_10_MUSHROOMS",
@@ -2094,7 +2099,7 @@
       "Name": "Lumberjack",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH_CUT_50_TREES",
@@ -2134,7 +2139,7 @@
       "Name": "Scrapper",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_KILL_50",
@@ -2142,7 +2147,7 @@
       "Name": "Robot Destroyer",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH_MAKE_CANNED_FOOD",
@@ -2196,9 +2201,9 @@
       "ID": "ACH_SURVIVE_10_DAYS",
       "SetID": "7c4cldc",
       "Name": "Survivor",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_SURVIVE_20_DAYS",
@@ -2229,7 +2234,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 576,
+      "Progressed": 577,
       "Completed": 4
     }
   ],
@@ -2237,8 +2242,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2023-12-29T16:08:56.0083326+00:00",
+  "LastChanged_Achievements": "2023-12-29T17:09:26.357303+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:34.110653+00:00",
-  "LastUpdate_Ratings": "2023-12-29T15:59:11.756253+00:00",
-  "LastUpdate_Achievements": "2023-12-29T16:08:56.0083564+00:00"
+  "LastUpdate_Ratings": "2023-12-29T16:59:29.9158468+00:00",
+  "LastUpdate_Achievements": "2023-12-29T17:09:26.3573682+00:00"
 }

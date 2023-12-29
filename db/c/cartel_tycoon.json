@@ -2,7 +2,7 @@
   "ID": "1696ef78f67c411ea67d2c2b8e9bc5a6",
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
-  "Ranking_Rating": 803,
+  "Ranking_Rating": 801,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 291,
@@ -301,7 +301,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 882,
+  "EOS_Progressed": 883,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
@@ -3111,6 +3111,11 @@
       "Time": "2023-12-29T16:04:58.0935176+00:00",
       "NumProgressed": 882,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T17:05:14.0161268+00:00",
+      "NumProgressed": 883,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3138,7 +3143,7 @@
       "Name": "Architect of Fortunes",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "dont-miss-calls",
@@ -3146,7 +3151,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "female-conqueror",
@@ -3162,7 +3167,7 @@
       "Name": "That was base",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "hire-lieutenant",
@@ -3170,7 +3175,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "kill-lieutenants",
@@ -3234,7 +3239,7 @@
       "Name": "Spread",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "send-smuggling",
@@ -3242,7 +3247,7 @@
       "Name": "Camellos",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "unlock-residences",
@@ -3273,15 +3278,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 882,
+      "Progressed": 883,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2023-12-29T16:04:58.0935173+00:00",
+  "LastChanged_Achievements": "2023-12-29T17:05:14.0161255+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:28.0909212+00:00",
-  "LastUpdate_Ratings": "2023-12-29T16:02:44.548794+00:00",
-  "LastUpdate_Achievements": "2023-12-29T16:04:58.0935387+00:00"
+  "LastUpdate_Ratings": "2023-12-29T17:02:44.7552107+00:00",
+  "LastUpdate_Achievements": "2023-12-29T17:05:14.0161529+00:00"
 }

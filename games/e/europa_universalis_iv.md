@@ -320,6 +320,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Restore the Pentarchy | 0.10% | ~487 |
 | The Last Crusade | 0.10% | ~487 |
 | Truly Good Maaaaa-tch | 0.10% | ~487 |
+| The Zoro-Austrians | 0.10% | ~487 |
 | Around the World in 80 Years | 0.00% | ~0 |
 | Barbarossa | 0.00% | ~0 |
 | Crossing the Finnish Line | 0.00% | ~0 |
@@ -368,9 +369,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
-| The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 487,035 (Ranked 40)  
+Progressed: 487,098 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -623,7 +623,7 @@ Completed: 1 (0.00%) (Ranked 389)
 | 2023-12-26 | 484,953 | 1 |
 | 2023-12-27 | 485,786 | 1 |
 | 2023-12-28 | 486,523 | 1 |
-| 2023-12-29 | 487,035 | 1 |
+| 2023-12-29 | 487,098 | 1 |
 ## Awards
 Max (Educational): 7,601  (Ranked 54)  
 Sum: 62,734 (Ranked 24)  

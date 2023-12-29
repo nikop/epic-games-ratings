@@ -4,7 +4,7 @@
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 356,
   "Ranking_Popularity": 481,
-  "Ranking_PopularitySum": 436,
+  "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 157,
@@ -589,12 +589,18 @@
       "Rating": 4.63,
       "NumberOfAwards": 160,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-12-29T16:57:41.49828+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 161,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 160,
+  "NumberOfAwards": 161,
   "NumberOfAwardsMax": 38,
-  "MaxAwardTitle": "Great for Beginners",
+  "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
@@ -606,7 +612,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game is Extremely Fun",
@@ -633,9 +639,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6464,
+  "EOS_Progressed": 6469,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 477,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9638,6 +9644,11 @@
       "Time": "2023-12-29T16:05:12.2489791+00:00",
       "NumProgressed": 6464,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-29T17:05:29.3280749+00:00",
+      "NumProgressed": 6469,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9761,7 +9772,7 @@
       "Name": "Realm Estate",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "23",
@@ -9775,9 +9786,9 @@
       "ID": "24",
       "SetID": "3aa2279",
       "Name": "Secret Technique",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 711
+      "UsersEstimate": 776
     },
     {
       "ID": "25",
@@ -9793,7 +9804,7 @@
       "Name": "Bone Peddler",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "27",
@@ -9809,7 +9820,7 @@
       "Name": "From Friends to Family",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "29",
@@ -10128,22 +10139,22 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6464,
+      "Progressed": 6469,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6464,
+      "Progressed": 6469,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2023-12-29T11:57:48.2397736+00:00",
-  "LastChanged_Achievements": "2023-12-29T16:05:12.2489787+00:00",
+  "LastChanged": "2023-12-29T16:57:41.4982798+00:00",
+  "LastChanged_Achievements": "2023-12-29T17:05:29.3280746+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-29T15:57:38.4102886+00:00",
-  "LastUpdate_Achievements": "2023-12-29T16:05:12.2490568+00:00"
+  "LastUpdate_Ratings": "2023-12-29T16:57:41.4982803+00:00",
+  "LastUpdate_Achievements": "2023-12-29T17:05:29.3281486+00:00"
 }

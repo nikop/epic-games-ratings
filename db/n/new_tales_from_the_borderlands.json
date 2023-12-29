@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3770,
+  "EOS_Progressed": 3771,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2112,6 +2112,11 @@
       "Time": "2023-12-29T06:05:50.6229563+00:00",
       "NumProgressed": 3770,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T17:03:22.8963782+00:00",
+      "NumProgressed": 3771,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2155,7 +2160,7 @@
       "Name": "Totally Intentional",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1734
+      "UsersEstimate": 1735
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -2171,7 +2176,7 @@
       "Name": "From Zeroes...",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "FINISH_EPISODE_2",
@@ -2179,7 +2184,7 @@
       "Name": "Shard Snatchers",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -2330,7 +2335,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3770,
+      "Progressed": 3771,
       "Completed": 0
     }
   ],
@@ -2338,8 +2343,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-12-29T15:07:49.1765473+00:00",
+  "LastChanged_Achievements": "2023-12-29T17:03:22.8963779+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1319758+00:00",
-  "LastUpdate_Ratings": "2023-12-29T15:59:23.5662681+00:00",
-  "LastUpdate_Achievements": "2023-12-29T15:07:49.1765702+00:00"
+  "LastUpdate_Ratings": "2023-12-29T16:59:43.863045+00:00",
+  "LastUpdate_Achievements": "2023-12-29T17:03:22.8964108+00:00"
 }

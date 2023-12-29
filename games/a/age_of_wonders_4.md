@@ -5,12 +5,12 @@ Rating: 4.63 (Ranked 356)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 11.00% | ~711 |
-| Realm Estate | 10.00% | ~646 |
+| Secret Technique | 12.00% | ~776 |
+| Realm Estate | 10.00% | ~647 |
 | A Wonderful Discovery | 9.00% | ~582 |
 | Walls Cannot Stop Us | 9.00% | ~582 |
-| From Friends to Family | 8.00% | ~517 |
-| Bone Peddler | 7.00% | ~452 |
+| From Friends to Family | 8.00% | ~518 |
+| Bone Peddler | 7.00% | ~453 |
 | Magical Synergy | 6.00% | ~388 |
 | There Can Only Be One! | 5.00% | ~323 |
 | Full Ascension | 5.00% | ~323 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 356)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,464 (Ranked 195)  
+Progressed: 6,469 (Ranked 195)  
 Completed: 7 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,15 +287,15 @@ Completed: 7 (0.11%) (Ranked 304)
 | 2023-12-26 | 6,285 | 7 |
 | 2023-12-27 | 6,359 | 7 |
 | 2023-12-28 | 6,414 | 7 |
-| 2023-12-29 | 6,464 | 7 |
+| 2023-12-29 | 6,469 | 7 |
 ## Awards
-Max (Great for Beginners): 38  (Ranked 481)  
-Sum: 160 (Ranked 436)  
-Diff (max vs sum): 45  
+Max (Diverse Characters): 38  (Ranked 481)  
+Sum: 161 (Ranked 435)  
+Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 38 |
-| This game has Diverse Characters | 37 |
+| This game has Diverse Characters | 38 |
 | This game is Extremely Fun | 24 |
 | This game is Highly Recommended | 21 |
 | This game has Amazing Storytelling | 20 |
@@ -380,4 +380,4 @@ Diff (max vs sum): 45
 | 2023-12-24 | 4.62 | 38 | 136 |
 | 2023-12-26 | 4.63 | 38 | 138 |
 | 2023-12-27 | 4.63 | 38 | 140 |
-| 2023-12-29 | 4.63 | 38 | 160 |
+| 2023-12-29 | 4.63 | 38 | 161 |

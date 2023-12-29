@@ -9113,10 +9113,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33169,
       "NumberOfAwardsMax": 5708
+    },
+    {
+      "Time": "2023-12-29T16:59:44.2818974+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33171,
+      "NumberOfAwardsMax": 5708
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33169,
+  "NumberOfAwards": 33171,
   "NumberOfAwardsMax": 5708,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9136,7 +9142,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4870
+      "Count": 4872
     },
     {
       "Text": "This game is Relaxing",
@@ -9163,9 +9169,9 @@
       "Count": 3607
     }
   ],
-  "EOS_Progressed": 246822,
+  "EOS_Progressed": 246867,
   "EOS_Completed": 2575,
-  "EOS_NewPlayers": 3528,
+  "EOS_NewPlayers": 3547,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -37798,6 +37804,11 @@
       "Time": "2023-12-29T16:09:53.3271706+00:00",
       "NumProgressed": 246822,
       "NumCompleted": 2575
+    },
+    {
+      "Time": "2023-12-29T17:10:26.557499+00:00",
+      "NumProgressed": 246867,
+      "NumCompleted": 2575
     }
   ],
   "TotalAchievements": 546,
@@ -37809,7 +37820,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4936
+      "UsersEstimate": 4937
     },
     {
       "ID": "objective_completed_10",
@@ -38673,7 +38684,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "objective_completed_1203",
@@ -39481,7 +39492,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2221
+      "UsersEstimate": 2222
     },
     {
       "ID": "objective_completed_34",
@@ -39601,7 +39612,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "objective_completed_390",
@@ -39945,7 +39956,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "objective_completed_54",
@@ -41025,7 +41036,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "objective_completed_80",
@@ -42129,7 +42140,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "objective_completed_673",
@@ -42137,7 +42148,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "objective_completed_678",
@@ -42145,7 +42156,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "objective_completed_683",
@@ -42153,7 +42164,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "objective_completed_860",
@@ -42161,7 +42172,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "objective_completed_865",
@@ -42176,21 +42187,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 213096,
-      "Completed": 4091
+      "Progressed": 213141,
+      "Completed": 4092
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 246822,
+      "Progressed": 246867,
       "Completed": 2575
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-29T13:02:39.1033219+00:00",
-  "LastChanged_Achievements": "2023-12-29T16:09:53.3271702+00:00",
+  "LastChanged": "2023-12-29T16:59:44.2818973+00:00",
+  "LastChanged_Achievements": "2023-12-29T17:10:26.5574984+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-29T15:59:23.9306003+00:00",
-  "LastUpdate_Achievements": "2023-12-29T16:09:53.3294857+00:00"
+  "LastUpdate_Ratings": "2023-12-29T16:59:44.2818979+00:00",
+  "LastUpdate_Achievements": "2023-12-29T17:10:26.5599883+00:00"
 }

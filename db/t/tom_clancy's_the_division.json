@@ -2,12 +2,12 @@
   "ID": "03ecca4e19a9483aa05b3d99948c43ce",
   "Name": "Tom Clancy\u0027s The Division",
   "ProductSlug": "the-division",
-  "Ranking_Rating": 442,
+  "Ranking_Rating": 426,
   "Ranking_Popularity": 233,
   "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewPlayers": 569,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2016-03-08T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.6,
   "NumberOfRatings": 247,
   "RatingHistory": [
     {
@@ -2915,10 +2915,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1170,
       "NumberOfAwardsMax": 427
+    },
+    {
+      "Time": "2023-12-29T16:59:41.1669376+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1171,
+      "NumberOfAwardsMax": 427
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1170,
+  "NumberOfAwards": 1171,
   "NumberOfAwardsMax": 427,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2998,7 +3004,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3018,8 +3024,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2023-12-28T18:59:58.9107594+00:00",
+  "LastChanged": "2023-12-29T16:59:41.1669374+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:29.4300594+00:00",
-  "LastUpdate_Ratings": "2023-12-29T15:59:21.3174755+00:00",
-  "LastUpdate_Achievements": "2023-12-29T16:04:00.6408119+00:00"
+  "LastUpdate_Ratings": "2023-12-29T16:59:41.166938+00:00",
+  "LastUpdate_Achievements": "2023-12-29T17:04:11.0525697+00:00"
 }

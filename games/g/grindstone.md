@@ -6,14 +6,14 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,112 |
-| The Journey Begins | 98.00% | ~5,112 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~4,068 |
-| There is No Escape | 71.00% | ~3,703 |
-| Fun, Flirty, and Thirty | 63.00% | ~3,286 |
-| Royal Flush | 62.00% | ~3,234 |
+| Quinceañera Time | 98.00% | ~5,113 |
+| The Journey Begins | 98.00% | ~5,113 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~4,069 |
+| There is No Escape | 71.00% | ~3,704 |
+| Fun, Flirty, and Thirty | 63.00% | ~3,287 |
+| Royal Flush | 62.00% | ~3,235 |
 | Timber! | 61.00% | ~3,182 |
-| Survive the Bombsequences | 59.00% | ~3,077 |
+| Survive the Bombsequences | 59.00% | ~3,078 |
 | Killed 20 Jerks | 54.00% | ~2,817 |
 | Death Defied | 54.00% | ~2,817 |
 | Fortunate Soul | 49.00% | ~2,556 |
@@ -22,33 +22,33 @@ Number of Ratings: 63  (23.09.2022)
 | I Believe I Can Fly | 37.00% | ~1,930 |
 | Bone Collector | 35.00% | ~1,826 |
 | Fe-Festival | 35.00% | ~1,826 |
-| Pardon my Slob | 33.00% | ~1,721 |
+| Pardon my Slob | 33.00% | ~1,722 |
 | Top of the Food Chain | 32.00% | ~1,669 |
 | Humerus Achievement | 32.00% | ~1,669 |
-| Ghost Facers! | 27.00% | ~1,408 |
-| If It Bleeds, You Can Kill It | 21.00% | ~1,095 |
+| Ghost Facers! | 27.00% | ~1,409 |
+| If It Bleeds, You Can Kill It | 21.00% | ~1,096 |
 | Royal Flush, Again | 19.00% | ~991 |
 | Trying To Get Into That 1%, Huh? | 18.00% | ~939 |
 | Can't Touch This | 18.00% | ~939 |
 | That Was Quick | 17.00% | ~887 |
 | Yummy! | 16.00% | ~835 |
-| Goldrush Glory Days | 15.00% | ~782 |
-| Best Party Guest | 15.00% | ~782 |
-| Shrub it Off | 15.00% | ~782 |
+| Goldrush Glory Days | 15.00% | ~783 |
+| Best Party Guest | 15.00% | ~783 |
+| Shrub it Off | 15.00% | ~783 |
 | Collected 50 mushrooms | 14.00% | ~730 |
 | Budding Gardener | 14.00% | ~730 |
 | Stop Hitting Each Other | 14.00% | ~730 |
 | Ultimate Jerk | 13.00% | ~678 |
 | Hot Potato | 11.00% | ~574 |
 | Off the Beaten Path | 10.00% | ~522 |
-| It's Been a Blast | 9.00% | ~469 |
-| For Rock and Stone! | 9.00% | ~469 |
+| It's Been a Blast | 9.00% | ~470 |
+| For Rock and Stone! | 9.00% | ~470 |
 | Don't Get Too Greedy | 7.00% | ~365 |
 | You're In a Cult, Call Your Dad | 6.00% | ~313 |
 | Survived The Slaughter | 5.00% | ~261 |
 | The Poison You Just Drank | 4.00% | ~209 |
 | Eternal Frenemies | 4.00% | ~209 |
-| The Fellowship | 3.00% | ~156 |
+| The Fellowship | 3.00% | ~157 |
 | Are We Good Guys Or Bad Guys? | 1.00% | ~52 |
 | Biohazard | 0.90% | ~47 |
 | OK Boomer | 0.90% | ~47 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.70% | ~37 |
 | Completionist | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,216 (Ranked 201)  
+Progressed: 5,217 (Ranked 201)  
 Completed: 30 (0.58%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 30 (0.58%) (Ranked 205)
 | 2023-12-26 | 5,211 | 30 |
 | 2023-12-27 | 5,214 | 30 |
 | 2023-12-28 | 5,215 | 30 |
-| 2023-12-29 | 5,216 | 30 |
+| 2023-12-29 | 5,217 | 30 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -6,10 +6,10 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~596 |
-| Lost and Found | 7.00% | ~379 |
-| Autodidact | 6.00% | ~7,833 |
-| This guy... again? | 6.00% | ~325 |
+| Malpractice Assurance | 11.00% | ~597 |
+| Lost and Found | 7.00% | ~380 |
+| Autodidact | 6.00% | ~7,834 |
+| This guy... again? | 6.00% | ~326 |
 | This Belongs in a Museum | 5.00% | ~6,528 |
 | Creep and Sleep | 5.00% | ~6,528 |
 | Overdue Notice | 5.00% | ~6,528 |
@@ -24,17 +24,17 @@ Number of Ratings: 7,767  (23.09.2022)
 | Rush Hour | 4.00% | ~5,222 |
 | To Grandmother's House | 4.00% | ~5,222 |
 | FNG | 4.00% | ~5,222 |
-| It Rings a Bell | 3.00% | ~3,916 |
-| Dissector | 3.00% | ~3,916 |
-| It Happens | 3.00% | ~3,916 |
-| Spelunker | 3.00% | ~3,916 |
-| Merry Time | 3.00% | ~3,916 |
-| Harvest Festival | 3.00% | ~3,916 |
-| Ramble On | 3.00% | ~3,916 |
-| Whale | 3.00% | ~3,916 |
-| A Place to Lay Your Head | 3.00% | ~3,916 |
-| Nope | 3.00% | ~3,916 |
-| Unshackled | 3.00% | ~3,916 |
+| It Rings a Bell | 3.00% | ~3,917 |
+| Dissector | 3.00% | ~3,917 |
+| It Happens | 3.00% | ~3,917 |
+| Spelunker | 3.00% | ~3,917 |
+| Merry Time | 3.00% | ~3,917 |
+| Harvest Festival | 3.00% | ~3,917 |
+| Ramble On | 3.00% | ~3,917 |
+| Whale | 3.00% | ~3,917 |
+| A Place to Lay Your Head | 3.00% | ~3,917 |
+| Nope | 3.00% | ~3,917 |
+| Unshackled | 3.00% | ~3,917 |
 | Friends 'Til the End | 3.00% | ~163 |
 | Resurrection | 2.00% | ~2,611 |
 | Unleash Hell | 2.00% | ~2,611 |
@@ -77,16 +77,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | Tears in the Rain | 0.30% | ~392 |
 | Battle Hardened | 0.30% | ~16 |
 | Maître De La Lame | 0.30% | ~16 |
+| Circle of Life | 0.20% | ~261 |
 | Grand Slam | 0.20% | ~261 |
 | Loop Year | 0.10% | ~131 |
-| Circle of Life | 0.10% | ~131 |
 | No Gravestone Left Unturned | 0.10% | ~131 |
 | 20,000 Leagues Above the Sea | 0.10% | ~131 |
 | The Clash | 0.10% | ~131 |
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,550 (Ranked 87)  
+Progressed: 130,560 (Ranked 87)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,10 +329,10 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-26 | 130,068 | 3 |
 | 2023-12-27 | 130,259 | 3 |
 | 2023-12-28 | 130,422 | 3 |
-| 2023-12-29 | 130,550 | 3 |
+| 2023-12-29 | 130,560 | 3 |
 ## Awards
 Max (Character Customization): 7,899  (Ranked 50)  
-Sum: 21,232 (Ranked 58)  
+Sum: 21,240 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -342,9 +342,9 @@ Diff (max vs sum): -8
 | This game is Highly Recommended | 1,582 |
 | This game has Amazing Characters | 1,504 |
 | This game is Extremely Fun | 1,497 |
-| This game has Unique Visuals | 1,431 |
+| This game has Unique Visuals | 1,437 |
 | This game has Amazing Storytelling | 1,418 |
-| This game has Quickly Understood Controls | 1,389 |
+| This game has Quickly Understood Controls | 1,391 |
 | This game has a Creative Community | 1,068 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -686,4 +686,4 @@ Diff (max vs sum): -8
 | 2023-12-26 | 4.68 | - | 7,882 | 21,127 |
 | 2023-12-27 | 4.68 | - | 7,882 | 21,156 |
 | 2023-12-28 | 4.68 | - | 7,888 | 21,194 |
-| 2023-12-29 | 4.68 | - | 7,899 | 21,232 |
+| 2023-12-29 | 4.68 | - | 7,899 | 21,240 |

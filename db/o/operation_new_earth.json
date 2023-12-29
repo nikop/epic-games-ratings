@@ -97,7 +97,7 @@
   "Tags": [],
   "EOS_Progressed": 2118,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8211,9 +8211,9 @@
       "ID": "ach_silver_rewards_50",
       "SetID": "bm61c2p",
       "Name": "Silver Achiever",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 127
     },
     {
       "ID": "objective_headquarters_10",
@@ -8452,8 +8452,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2023-12-29T16:04:31.9018397+00:00",
+  "LastChanged_Achievements": "2023-12-29T17:04:45.7088142+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:02.8789919+00:00",
-  "LastUpdate_Ratings": "2023-12-29T16:00:00.4911065+00:00",
-  "LastUpdate_Achievements": "2023-12-29T16:04:31.9019178+00:00"
+  "LastUpdate_Ratings": "2023-12-29T17:00:27.7149859+00:00",
+  "LastUpdate_Achievements": "2023-12-29T17:04:45.708887+00:00"
 }

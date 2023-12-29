@@ -2,12 +2,12 @@
   "ID": "5fd8f5ae809f46d4b33741cc80d3aef8",
   "Name": "Stranded Deep",
   "ProductSlug": "stranded-deep",
-  "Ranking_Rating": 927,
+  "Ranking_Rating": 932,
   "Ranking_Popularity": 283,
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewPlayers": 569,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2020-12-28T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.23,
+  "Rating": 4.22,
   "NumberOfRatings": 3300,
   "RatingHistory": [
     {
@@ -2881,10 +2881,16 @@
       "Rating": 4.23,
       "NumberOfAwards": 1186,
       "NumberOfAwardsMax": 230
+    },
+    {
+      "Time": "2023-12-29T16:59:30.0565361+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1187,
+      "NumberOfAwardsMax": 230
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1186,
+  "NumberOfAwards": 1187,
   "NumberOfAwardsMax": 230,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -2898,7 +2904,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 209
+      "Count": 210
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2960,8 +2966,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
-  "LastChanged": "2023-12-29T15:00:06.2564854+00:00",
+  "LastChanged": "2023-12-29T16:59:30.0565359+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:34.04104+00:00",
-  "LastUpdate_Ratings": "2023-12-29T15:59:11.7642509+00:00",
-  "LastUpdate_Achievements": "2023-12-29T16:05:28.1397636+00:00"
+  "LastUpdate_Ratings": "2023-12-29T16:59:30.0565365+00:00",
+  "LastUpdate_Achievements": "2023-12-29T17:05:45.4368991+00:00"
 }

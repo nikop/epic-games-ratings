@@ -26,6 +26,7 @@
 | Nothing but the Truth | 0.70% | ~1 |
 | Trailblazer | 0.70% | ~1 |
 | Finally! | 0.70% | ~1 |
+| Unveiling the Truth | 0.70% | ~1 |
 | The Power of the Mountains | 0.70% | ~1 |
 | Changing the World | 0.70% | ~1 |
 | Small Setback | 0.70% | ~1 |
@@ -49,7 +50,6 @@
 | Globetrotter | 0.00% | ~0 |
 | The End | 0.00% | ~0 |
 | But what of the Acreans? | 0.00% | ~0 |
-| Unveiling the Truth | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 | Mind Over Matter | 0.00% | ~0 |
 | Coming Prepared | 0.00% | ~0 |

@@ -2,9 +2,9 @@
   "ID": "6a50e1ce4d1a4666ba51e31a351b0947",
   "Name": "Breakout: Recharged",
   "ProductSlug": "breakout-recharged",
-  "Ranking_EOS_Progress": 457,
+  "Ranking_EOS_Progress": 456,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewPlayers": 428,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 132,
+  "EOS_Progressed": 133,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.27,
+  "EOS_Completed_Percentage": 2.26,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:23.2577147+00:00",
@@ -359,6 +359,11 @@
       "Time": "2023-12-29T11:09:43.3679558+00:00",
       "NumProgressed": 132,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T17:09:51.4253468+00:00",
+      "NumProgressed": 133,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -378,7 +383,7 @@
       "Name": "Another Brick in the Wall (Part 2)",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_ANOTHER_BRICK_3",
@@ -394,7 +399,7 @@
       "Name": "Is There Anybody Out There?",
       "Percentage": 92,
       "XP": 100,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_BIDING_MY_TIME",
@@ -410,7 +415,7 @@
       "Name": "Burning Bridges",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_CLUSTER_ONE",
@@ -440,7 +445,7 @@
       "ID": "ACH_ECHOES",
       "SetID": "5kae3ip",
       "Name": "Echoes",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 100,
       "UsersEstimate": 63
     },
@@ -456,9 +461,9 @@
       "ID": "ACH_HIGH_HOPES",
       "SetID": "5kae3ip",
       "Name": "High Hopes",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_KING_BEE",
@@ -489,7 +494,7 @@
     {
       "ID": "5kae3ip",
       "IsBase": true,
-      "Progressed": 132,
+      "Progressed": 133,
       "Completed": 3
     }
   ],
@@ -497,8 +502,8 @@
   "FirstSeenRating": "2023-03-31T05:58:34.1207634+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:23.2577155+00:00",
   "LastChanged": "2023-03-31T05:58:34.1207635+00:00",
-  "LastChanged_Achievements": "2023-12-29T16:09:18.7680361+00:00",
+  "LastChanged_Achievements": "2023-12-29T17:09:51.4253461+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:01.048537+00:00",
-  "LastUpdate_Ratings": "2023-12-29T15:57:48.0408665+00:00",
-  "LastUpdate_Achievements": "2023-12-29T16:09:18.7680487+00:00"
+  "LastUpdate_Ratings": "2023-12-29T16:57:52.1684612+00:00",
+  "LastUpdate_Achievements": "2023-12-29T17:09:51.4253571+00:00"
 }

@@ -1,27 +1,27 @@
 # The Invincible
 [Store](https://store.epicgames.com/en-US/p/the-invincible)  
 [View Rawdata](../../db/t/the_invincible.json)  
-Rating: 4.54 (Ranked 541)  
+Rating: 4.56 (Ranked 500)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 67.00% | ~763 |
-| The Teleprobe | 53.00% | ~604 |
-| The City | 48.00% | ~547 |
-| The field base | 43.00% | ~490 |
-| The Alliance | 38.00% | ~433 |
-| Survivors | 37.00% | ~421 |
-| The Condor | 34.00% | ~387 |
-| The End | 34.00% | ~387 |
+| The Camp | 67.00% | ~764 |
+| The Teleprobe | 53.00% | ~605 |
+| The City | 48.00% | ~548 |
+| The field base | 43.00% | ~491 |
+| The Alliance | 38.00% | ~434 |
+| Survivors | 37.00% | ~422 |
+| The Condor | 34.00% | ~388 |
+| The End | 34.00% | ~388 |
 | Krauta is alive | 27.00% | ~308 |
 | The Necroevolution | 27.00% | ~308 |
-| Peacemaker | 21.00% | ~239 |
-| Volcanologist | 21.00% | ~239 |
+| Peacemaker | 21.00% | ~240 |
+| Volcanologist | 21.00% | ~240 |
 | On her own | 20.00% | ~228 |
-| Fierce fight | 19.00% | ~216 |
+| Fierce fight | 19.00% | ~217 |
 | Evacuation | 18.00% | ~205 |
 | Beyond divisions | 17.00% | ~194 |
-| Flying Objects Operator | 16.00% | ~182 |
+| Flying Objects Operator | 16.00% | ~183 |
 | I remember everything! | 13.00% | ~148 |
 | Another giant | 12.00% | ~137 |
 | Violent solution | 9.00% | ~103 |
@@ -35,7 +35,7 @@ Rating: 4.54 (Ranked 541)
 | Convoy list | 1.00% | ~11 |
 | No more mistakes | 0.40% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,139 (Ranked 278)  
+Progressed: 1,141 (Ranked 278)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,10 +89,11 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 1,040 | 0 |
 | 2023-12-27 | 1,083 | 0 |
 | 2023-12-28 | 1,116 | 0 |
-| 2023-12-29 | 1,139 | 0 |
+| 2023-12-29 | 1,141 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-12-23 | 4.60 | 0 | 0 |
 | 2023-12-24 | 4.52 | 0 | 0 |
 | 2023-12-26 | 4.54 | 0 | 0 |
+| 2023-12-29 | 4.56 | 0 | 0 |

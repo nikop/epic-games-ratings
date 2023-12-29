@@ -1815,9 +1815,9 @@
       "ID": "Wins_10",
       "SetID": "2bonhb9",
       "Name": "10 Wins",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Wins_100",
@@ -1902,8 +1902,8 @@
   ],
   "FirstSeen": "2023-11-18T15:00:14.9921948+00:00",
   "FirstSeenAchievements": "2023-08-03T14:01:50.784469+00:00",
-  "LastChanged_Achievements": "2023-12-29T16:09:26.1731592+00:00",
+  "LastChanged_Achievements": "2023-12-29T17:09:59.639998+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:13.2550009+00:00",
-  "LastUpdate_Ratings": "2023-12-29T15:59:50.4326242+00:00",
-  "LastUpdate_Achievements": "2023-12-29T16:09:26.173182+00:00"
+  "LastUpdate_Ratings": "2023-12-29T17:00:15.8387859+00:00",
+  "LastUpdate_Achievements": "2023-12-29T17:09:59.6400206+00:00"
 }

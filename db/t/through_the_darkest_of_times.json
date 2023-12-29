@@ -4,7 +4,7 @@
   "ProductSlug": "through-the-darkest-of-times",
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewPlayers": 569,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2020-12-10T18:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:21.28568+00:00",
   "LastChanged": "2023-03-31T05:57:21.2856801+00:00",
   "LastUpdate_AppInfo": "2023-12-23T16:57:13.9199008+00:00",
-  "LastUpdate_Ratings": "2023-12-29T15:57:14.4842312+00:00",
-  "LastUpdate_Achievements": "2023-12-29T16:03:43.3641881+00:00"
+  "LastUpdate_Ratings": "2023-12-29T16:57:14.0041035+00:00",
+  "LastUpdate_Achievements": "2023-12-29T17:03:51.705369+00:00"
 }

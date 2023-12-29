@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 91.00% | ~48 |
-| Suicide squad | 53.00% | ~28 |
+| First success | 89.00% | ~48 |
+| Suicide squad | 52.00% | ~28 |
 | Train hard, fight easy | 30.00% | ~16 |
 | Under cover | 30.00% | ~16 |
 | First blood | 30.00% | ~16 |
-| Royal blessing | 25.00% | ~13 |
-| All for one! | 23.00% | ~12 |
-| Blood and sand | 23.00% | ~12 |
-| A hidden snake | 21.00% | ~11 |
+| Royal blessing | 24.00% | ~13 |
+| All for one! | 22.00% | ~12 |
+| Blood and sand | 22.00% | ~12 |
+| A hidden snake | 20.00% | ~11 |
 | Crimson rivers | 17.00% | ~9 |
 | Power of Inquisition | 17.00% | ~9 |
 | Surpass the teacher | 17.00% | ~9 |
@@ -25,11 +25,11 @@
 | The champion of the arena | 11.00% | ~6 |
 | Stronger than Gellian steel | 9.00% | ~5 |
 | Protect the Healer! | 9.00% | ~5 |
-| For the greater good | 8.00% | ~4 |
-| Collector | 8.00% | ~4 |
-| Overplay the rogue | 8.00% | ~4 |
-| Punish the Punisher | 8.00% | ~4 |
-| The End | 8.00% | ~4 |
+| For the greater good | 7.00% | ~4 |
+| Collector | 7.00% | ~4 |
+| Overplay the rogue | 7.00% | ~4 |
+| Punish the Punisher | 7.00% | ~4 |
+| The End | 7.00% | ~4 |
 | Supplier | 6.00% | ~3 |
 | The best apprentice | 6.00% | ~3 |
 | First among Frisians | 6.00% | ~3 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53 (Ranked 538)  
+Progressed: 54 (Ranked 537)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,6 +88,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 50 | 0 |
 | 2023-12-27 | 51 | 0 |
 | 2023-12-28 | 53 | 0 |
+| 2023-12-29 | 54 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

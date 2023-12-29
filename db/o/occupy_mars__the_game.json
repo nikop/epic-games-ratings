@@ -5,9 +5,9 @@
   "Ranking_Rating": 1027,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 246,
+  "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1824,
+  "EOS_Progressed": 1825,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4782,6 +4782,11 @@
       "Time": "2023-12-27T21:10:04.6033244+00:00",
       "NumProgressed": 1824,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T17:09:32.4754598+00:00",
+      "NumProgressed": 1825,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4873,7 +4878,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -4911,9 +4916,9 @@
       "ID": "NEW_ACHIEVEMENT_BOTANY_POWERS",
       "SetID": "l546gc",
       "Name": "Fear my botany powers, Mars",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 602
+      "UsersEstimate": 584
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -5063,9 +5068,9 @@
       "ID": "NEW_ACHIEVEMENT_OCCUPY_MARS",
       "SetID": "l546gc",
       "Name": "Occupy Mars!",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 566
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -5176,7 +5181,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1824,
+      "Progressed": 1825,
       "Completed": 0
     }
   ],
@@ -5184,8 +5189,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-25T15:00:25.6690232+00:00",
-  "LastChanged_Achievements": "2023-12-29T16:09:01.561476+00:00",
+  "LastChanged_Achievements": "2023-12-29T17:09:32.4754594+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:04.6449043+00:00",
-  "LastUpdate_Ratings": "2023-12-29T15:58:39.3367874+00:00",
-  "LastUpdate_Achievements": "2023-12-29T16:09:01.5615247+00:00"
+  "LastUpdate_Ratings": "2023-12-29T16:58:52.5215721+00:00",
+  "LastUpdate_Achievements": "2023-12-29T17:09:32.4755231+00:00"
 }

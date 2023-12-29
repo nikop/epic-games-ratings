@@ -4,7 +4,7 @@
   "ProductSlug": "miniland-adventure-ee81ff",
   "Ranking_EOS_Progress": 609,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 521,
+  "Ranking_EOS_NewPlayers": 522,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-12-07T14:00:00+00:00",
@@ -317,9 +317,9 @@
       "ID": "ach-furnace",
       "SetID": "6aph42m",
       "Name": "Time to smelt",
-      "Percentage": 59,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach-furniture-table",
@@ -365,9 +365,9 @@
       "ID": "ach-ladder",
       "SetID": "6aph42m",
       "Name": "It\u0027s dark here!",
-      "Percentage": 55,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ach-lava-lamp",
@@ -572,8 +572,8 @@
   ],
   "FirstSeen": "2023-12-09T20:59:53.605626+00:00",
   "FirstSeenAchievements": "2023-09-27T06:05:39.2666292+00:00",
-  "LastChanged_Achievements": "2023-12-29T16:09:14.1216602+00:00",
+  "LastChanged_Achievements": "2023-12-29T17:09:46.2076449+00:00",
   "LastUpdate_AppInfo": "2023-12-27T12:59:42.3590497+00:00",
-  "LastUpdate_Ratings": "2023-12-29T15:58:08.3736949+00:00",
-  "LastUpdate_Achievements": "2023-12-29T16:09:14.121699+00:00"
+  "LastUpdate_Ratings": "2023-12-29T16:58:15.7467068+00:00",
+  "LastUpdate_Achievements": "2023-12-29T17:09:46.2077032+00:00"
 }

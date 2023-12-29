@@ -1,7 +1,7 @@
 # Curious Expedition 2
 [Store](https://store.epicgames.com/en-US/p/curious-expedition-2-8cb901)  
 [View Rawdata](../../db/c/curious_expedition_2.json)  
-Rating: 4.73 (Ranked 176)  
+Rating: 4.73 (Ranked 175)  
 Number of Ratings: 20  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,11 +10,11 @@ Number of Ratings: 20  (23.09.2022)
 | Cartographer | 58.00% | ~222 |
 | A Strange Artefact | 53.00% | ~202 |
 | Insomnia | 50.00% | ~191 |
-| Lost & Found & Lost Again | 43.00% | ~164 |
+| Lost & Found & Lost Again | 44.00% | ~168 |
 | From Whence we Came | 43.00% | ~164 |
 | Fire and Flood | 41.00% | ~157 |
 | Spooky! | 37.00% | ~141 |
-| Shennong Herbalist | 35.00% | ~134 |
+| Shennong Herbalist | 36.00% | ~138 |
 | Treasure Hunt | 35.00% | ~134 |
 | O Captain My Captain | 32.00% | ~122 |
 | Good Mama | 32.00% | ~122 |
@@ -25,7 +25,7 @@ Number of Ratings: 20  (23.09.2022)
 | Nahua Seeker | 24.00% | ~92 |
 | Roll to Save | 23.00% | ~88 |
 | Veteran Explorer | 22.00% | ~84 |
-| Red Flag Pirate | 19.00% | ~73 |
+| Red Flag Pirate | 20.00% | ~76 |
 | Iron Man | 17.00% | ~65 |
 | Shortening of the Way | 16.00% | ~61 |
 | A Gentle Beast | 16.00% | ~61 |

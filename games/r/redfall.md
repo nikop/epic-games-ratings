@@ -44,8 +44,8 @@ Rating: 3.59 (Ranked 1,078)
 | Right This Way | 0.80% | ~17 |
 | Empty Nest Syndrome | 0.70% | ~15 |
 | Bloody Initiate | 0.70% | ~15 |
+| Dexterity Save | 0.70% | ~15 |
 | What Lies Below | 0.60% | ~13 |
-| Dexterity Save | 0.60% | ~13 |
 | Neighborhood Watch | 0.50% | ~11 |
 | Blood Brother | 0.50% | ~11 |
 | Good Samaritan | 0.50% | ~11 |

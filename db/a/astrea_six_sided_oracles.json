@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1566,9 +1566,9 @@
       "ID": "ReflexiveMind",
       "SetID": "1jeo1g7",
       "Name": "Reflexive Mind",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "RoyalChoir",
@@ -1925,8 +1925,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-29T16:08:15.2602742+00:00",
+  "LastChanged_Achievements": "2023-12-29T17:08:41.0101459+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:02.5351328+00:00",
-  "LastUpdate_Ratings": "2023-12-29T15:58:08.3406647+00:00",
-  "LastUpdate_Achievements": "2023-12-29T16:08:15.2603515+00:00"
+  "LastUpdate_Ratings": "2023-12-29T16:58:15.7221656+00:00",
+  "LastUpdate_Achievements": "2023-12-29T17:08:41.0102348+00:00"
 }

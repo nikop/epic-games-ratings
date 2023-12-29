@@ -2,7 +2,7 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 442,
+  "Ranking_Rating": 443,
   "Ranking_Popularity": 426,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 81,
@@ -1765,10 +1765,10 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 165280,
-  "EOS_Completed": 422,
-  "EOS_NewPlayers": 1435,
-  "EOS_NewCompleters": 40,
+  "EOS_Progressed": 165292,
+  "EOS_Completed": 424,
+  "EOS_NewPlayers": 1447,
+  "EOS_NewCompleters": 42,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
     {
@@ -21070,6 +21070,11 @@
       "Time": "2023-12-29T16:06:20.0022316+00:00",
       "NumProgressed": 165280,
       "NumCompleted": 422
+    },
+    {
+      "Time": "2023-12-29T17:06:41.5421218+00:00",
+      "NumProgressed": 165292,
+      "NumCompleted": 424
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -21194,7 +21199,7 @@
       "Name": "Glare",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -21449,21 +21454,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 164863,
+      "Progressed": 164875,
       "Completed": 1248
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 165280,
-      "Completed": 422
+      "Progressed": 165292,
+      "Completed": 424
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-29T14:00:00.2266614+00:00",
-  "LastChanged_Achievements": "2023-12-29T16:06:20.0022311+00:00",
+  "LastChanged_Achievements": "2023-12-29T17:06:41.5421215+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:22.7260202+00:00",
-  "LastUpdate_Ratings": "2023-12-29T16:00:01.5293799+00:00",
-  "LastUpdate_Achievements": "2023-12-29T16:06:20.002327+00:00"
+  "LastUpdate_Ratings": "2023-12-29T17:00:28.9877692+00:00",
+  "LastUpdate_Achievements": "2023-12-29T17:06:41.5422326+00:00"
 }

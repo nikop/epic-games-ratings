@@ -10210,10 +10210,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21232,
       "NumberOfAwardsMax": 7899
+    },
+    {
+      "Time": "2023-12-29T17:00:36.8253936+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21240,
+      "NumberOfAwardsMax": 7899
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21232,
+  "NumberOfAwards": 21240,
   "NumberOfAwardsMax": 7899,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10251,7 +10257,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1389
+      "Count": 1391
     },
     {
       "Text": "This game has Amazing Characters",
@@ -10275,7 +10281,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1431
+      "Count": 1437
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -10290,9 +10296,9 @@
       "Count": 1068
     }
   ],
-  "EOS_Progressed": 130550,
+  "EOS_Progressed": 130560,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1418,
+  "EOS_NewPlayers": 1422,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37380,6 +37386,11 @@
       "Time": "2023-12-29T16:09:10.8985451+00:00",
       "NumProgressed": 130550,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T17:09:42.7133151+00:00",
+      "NumProgressed": 130560,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37407,7 +37418,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3916
+      "UsersEstimate": 3917
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -37527,7 +37538,7 @@
       "Name": "Dissector",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3916
+      "UsersEstimate": 3917
     },
     {
       "ID": "combat_kill_cosmic",
@@ -37637,9 +37648,9 @@
       "ID": "combat_kill_shambler_pet_shambler",
       "SetID": "64l4lke",
       "Name": "Circle of Life",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 261
     },
     {
       "ID": "combat_kill_swine",
@@ -37663,7 +37674,7 @@
       "Name": "It Happens",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3916
+      "UsersEstimate": 3917
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -37679,7 +37690,7 @@
       "Name": "Spelunker",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3916
+      "UsersEstimate": 3917
     },
     {
       "ID": "driving_biome_clear_city",
@@ -37695,7 +37706,7 @@
       "Name": "Merry Time",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3916
+      "UsersEstimate": 3917
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -37703,7 +37714,7 @@
       "Name": "Harvest Festival",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3916
+      "UsersEstimate": 3917
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -37719,7 +37730,7 @@
       "Name": "Ramble On",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3916
+      "UsersEstimate": 3917
     },
     {
       "ID": "driving_distance_hard",
@@ -37743,7 +37754,7 @@
       "Name": "Autodidact",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7833
+      "UsersEstimate": 7834
     },
     {
       "ID": "hero_story_complete_all",
@@ -37767,7 +37778,7 @@
       "Name": "Whale",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3916
+      "UsersEstimate": 3917
     },
     {
       "ID": "hospital_full_service",
@@ -37783,7 +37794,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3916
+      "UsersEstimate": 3917
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -37839,7 +37850,7 @@
       "Name": "Nope",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3916
+      "UsersEstimate": 3917
     },
     {
       "ID": "run_victory_act01",
@@ -37847,7 +37858,7 @@
       "Name": "Unshackled",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3916
+      "UsersEstimate": 3917
     },
     {
       "ID": "run_victory_act02",
@@ -37927,7 +37938,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "combat_kill_collector",
@@ -37935,7 +37946,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -37991,7 +38002,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -38022,21 +38033,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130550,
+      "Progressed": 130560,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5419,
+      "Progressed": 5429,
       "Completed": 813
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-29T15:01:30.900727+00:00",
-  "LastChanged_Achievements": "2023-12-29T16:09:10.8985446+00:00",
+  "LastChanged": "2023-12-29T17:00:36.8253934+00:00",
+  "LastChanged_Achievements": "2023-12-29T17:09:42.7133148+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-29T16:00:08.6256651+00:00",
-  "LastUpdate_Achievements": "2023-12-29T16:09:10.8987253+00:00"
+  "LastUpdate_Ratings": "2023-12-29T17:00:36.8253942+00:00",
+  "LastUpdate_Achievements": "2023-12-29T17:09:42.713484+00:00"
 }

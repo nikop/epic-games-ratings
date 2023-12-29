@@ -16,28 +16,28 @@
 | Face your fears | 29.00% | ~65 |
 | Finished it | 26.00% | ~58 |
 | Whispers long forgotten | 15.00% | ~33 |
+| A Slice of Life | 11.00% | ~25 |
+| Debut | 11.00% | ~25 |
 | Sound Bite | 11.00% | ~25 |
-| A Slice of Life | 10.00% | ~22 |
-| Debut | 10.00% | ~22 |
-| Playtime | 10.00% | ~22 |
+| Playtime | 11.00% | ~25 |
+| Tough conversation | 11.00% | ~25 |
+| First steps | 10.00% | ~22 |
 | The art of movement | 10.00% | ~22 |
 | The tragedy unfolds | 10.00% | ~22 |
-| Tough conversation | 10.00% | ~22 |
 | A new way | 9.00% | ~20 |
 | Another perspective | 9.00% | ~20 |
-| First steps | 9.00% | ~20 |
+| Breaking free | 9.00% | ~20 |
 | Lights! Camera! Action! | 9.00% | ~20 |
-| Breaking free | 8.00% | ~18 |
 | True Reflection | 7.00% | ~16 |
 | Casting Finished | 6.00% | ~13 |
 | Heavy Burden | 6.00% | ~13 |
 | Instinct of self-preservation | 5.00% | ~11 |
 | Fisherman | 5.00% | ~11 |
+| I remember It Like Was Yesterday | 4.00% | ~9 |
 | We Are Not Alone | 4.00% | ~9 |
 | Immortalized in my heart | 4.00% | ~9 |
 | The Perfect Storm | 4.00% | ~9 |
 | Something to think about | 3.00% | ~7 |
-| I remember It Like Was Yesterday | 3.00% | ~7 |
 | Dark correspondence | 3.00% | ~7 |
 | Se7en Seas | 3.00% | ~7 |
 | Body of Work | 2.00% | ~4 |

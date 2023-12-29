@@ -5,57 +5,57 @@ Rating: 4.65 (Ranked 323)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 88.00% | ~579 |
-| Thalya – Simply Immortal | 88.00% | ~579 |
+| The Last Stand | 88.00% | ~580 |
+| Thalya – Simply Immortal | 88.00% | ~580 |
 | For the Horde! | 82.00% | ~540 |
-| Hammer Time, Round Two | 81.00% | ~533 |
+| Hammer Time, Round Two | 80.00% | ~527 |
 | The Hellwoods | 77.00% | ~507 |
 | The Plains of Strothalm | 72.00% | ~474 |
 | Experienced Thalya | 72.00% | ~474 |
-| Bad Elves Go Everywhere | 69.00% | ~454 |
-| Thalya's Concentrated Fury | 68.00% | ~447 |
-| Heroes’ Gorge | 64.00% | ~421 |
+| Bad Elves Go Everywhere | 69.00% | ~455 |
+| Thalya's Concentrated Fury | 68.00% | ~448 |
+| Heroes’ Gorge | 64.00% | ~422 |
 | Master of Magic | 63.00% | ~415 |
 | Unicorn steaks – fresh off the hoof! | 63.00% | ~415 |
-| Magic Accidents | 59.00% | ~388 |
-| The Ascent | 59.00% | ~388 |
-| It's Warm and Cozy at Home | 59.00% | ~388 |
-| Minions, Minions! | 56.00% | ~368 |
+| Magic Accidents | 59.00% | ~389 |
+| The Ascent | 59.00% | ~389 |
+| It's Warm and Cozy at Home | 59.00% | ~389 |
+| Minions, Minions! | 56.00% | ~369 |
 | Trap Master | 55.00% | ~362 |
-| Hard Work | 54.00% | ~355 |
+| Hard Work | 54.00% | ~356 |
 | The Big Eaty | 53.00% | ~349 |
 | “… like son” | 51.00% | ~336 |
-| YOU SHALL NOT PASS! | 50.00% | ~329 |
-| The Cathedral of Light | 47.00% | ~309 |
-| Shame! Shame! Shame! | 47.00% | ~309 |
-| Pure Dynamite! | 45.00% | ~296 |
-| Dungeonlord Gorgu | 45.00% | ~296 |
-| Tanos' Crusade Against Thalya | 45.00% | ~296 |
-| Mana Cannon | 41.00% | ~270 |
-| All’s Well That Ends Evil | 40.00% | ~263 |
+| YOU SHALL NOT PASS! | 50.00% | ~330 |
+| The Cathedral of Light | 47.00% | ~310 |
+| Shame! Shame! Shame! | 47.00% | ~310 |
+| Pure Dynamite! | 45.00% | ~297 |
+| Dungeonlord Gorgu | 45.00% | ~297 |
+| Tanos' Crusade Against Thalya | 45.00% | ~297 |
+| Mana Cannon | 42.00% | ~277 |
+| All’s Well That Ends Evil | 40.00% | ~264 |
 | The Duel | 38.00% | ~250 |
-| If Looks Could Kill | 35.00% | ~230 |
+| If Looks Could Kill | 35.00% | ~231 |
 | Unstoppable Horde | 34.00% | ~224 |
 | Master of the Undead | 34.00% | ~224 |
 | The Finitude Drill | 32.00% | ~211 |
-| Ghost Pirates? Ghost Heroes! | 30.00% | ~197 |
+| Ghost Pirates? Ghost Heroes! | 30.00% | ~198 |
 | Doom Hill | 29.00% | ~191 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~184 |
-| Forbidden Knowledge | 28.00% | ~184 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~185 |
+| Forbidden Knowledge | 28.00% | ~185 |
 | Hungry, Hungry Gorgu! | 27.00% | ~178 |
 | Brimstone Shaken, Not Stirred | 27.00% | ~178 |
 | Stop Tanos! | 26.00% | ~171 |
 | Sabotage! | 26.00% | ~171 |
 | Raiders of the Lost Stone | 26.00% | ~171 |
 | The Rune Sockets of Finitude (Part 1) | 26.00% | ~171 |
-| Bonus Evilness | 25.00% | ~164 |
+| Bonus Evilness | 25.00% | ~165 |
 | The Rune Sockets of Finitude (Part 2) | 24.00% | ~158 |
 | The Last Stand - This Time For Real! | 22.00% | ~145 |
 | Rubble and Ashes | 20.00% | ~132 |
 | Lavalumps on Ice! | 19.00% | ~125 |
-| My Little Torture Chamber | 18.00% | ~118 |
-| To the Max! | 18.00% | ~118 |
-| To Infinity And Beyond! | 18.00% | ~118 |
+| My Little Torture Chamber | 18.00% | ~119 |
+| To the Max! | 18.00% | ~119 |
+| To Infinity And Beyond! | 18.00% | ~119 |
 | Sacrificial Pit = Garbage Disposal? | 17.00% | ~112 |
 | Evilification | 17.00% | ~112 |
 | Heal Heal Blessing | 16.00% | ~105 |
@@ -67,8 +67,8 @@ Rating: 4.65 (Ranked 323)
 | No Mana, No Cry | 10.00% | ~66 |
 | I Don't Need Any Help | 9.00% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 658 (Ranked 319)  
-Completed: 24 (3.65%) (Ranked 99)  
+Progressed: 659 (Ranked 318)  
+Completed: 24 (3.64%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -121,7 +121,7 @@ Completed: 24 (3.65%) (Ranked 99)
 | 2023-12-26 | 644 | 21 |
 | 2023-12-27 | 650 | 24 |
 | 2023-12-28 | 654 | 24 |
-| 2023-12-29 | 658 | 24 |
+| 2023-12-29 | 659 | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

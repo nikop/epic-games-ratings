@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 170,
+  "EOS_Progressed": 171,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.88,
+  "EOS_Completed_Percentage": 5.85,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -864,6 +864,11 @@
       "Time": "2023-12-29T13:09:32.5032136+00:00",
       "NumProgressed": 170,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-29T17:06:43.9467343+00:00",
+      "NumProgressed": 171,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -906,9 +911,9 @@
       "ID": "Fletny",
       "SetID": "ag48e8e",
       "Name": "Four Flutes",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "Houby",
@@ -924,15 +929,15 @@
       "Name": "Jing Jang",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 86
     },
     {
       "ID": "Kour",
@@ -964,7 +969,7 @@
       "Name": "Blossoms",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "MluviciPapouch",
@@ -980,7 +985,7 @@
       "Name": "Singing Mouse",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Netopyrci",
@@ -988,7 +993,7 @@
       "Name": "Cave Bats",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Netopyrek",
@@ -996,7 +1001,7 @@
       "Name": "Liana Bats",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Pejsek",
@@ -1004,7 +1009,7 @@
       "Name": "Dog",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Poustevnik",
@@ -1052,7 +1057,7 @@
       "Name": "Sputnik",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Stonozka",
@@ -1084,7 +1089,7 @@
       "Name": "Shem Is Home",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Xicht",
@@ -1092,7 +1097,7 @@
       "Name": "Rockheads",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Zelvak",
@@ -1115,14 +1120,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 170,
+      "Progressed": 171,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-12-29T16:06:22.1663843+00:00",
+  "LastChanged_Achievements": "2023-12-29T17:06:43.946734+00:00",
   "LastUpdate_AppInfo": "2023-12-23T06:57:11.8700961+00:00",
-  "LastUpdate_Ratings": "2023-12-29T16:02:52.162072+00:00",
-  "LastUpdate_Achievements": "2023-12-29T16:06:22.1664068+00:00"
+  "LastUpdate_Ratings": "2023-12-29T17:02:53.924966+00:00",
+  "LastUpdate_Achievements": "2023-12-29T17:06:43.9467791+00:00"
 }

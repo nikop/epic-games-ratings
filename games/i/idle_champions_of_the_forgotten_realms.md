@@ -6,23 +6,23 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,936 |
-| The Cursed Farmer | 0.90% | ~2,221 |
+| A Brief Tour of the Realms | 2.00% | ~4,937 |
+| The Cursed Farmer | 0.90% | ~2,222 |
 | Beast Intentions | 0.70% | ~1,728 |
 | Welcome to Sigil | 0.70% | ~1,492 |
 | The Mad Wizard | 0.60% | ~1,481 |
 | Fast Food | 0.60% | ~1,279 |
 | The Ring of Regeneration | 0.40% | ~987 |
 | Are Ya Chicken? | 0.40% | ~987 |
-| The Overgrown Grove | 0.40% | ~852 |
-| When Tentacles Attack | 0.40% | ~852 |
-| Flames of Avernus | 0.40% | ~852 |
-| Mental Gymnastics | 0.40% | ~852 |
-| Don't Lose Your Head | 0.40% | ~852 |
-| Were-verpowered | 0.30% | ~740 |
-| Seeking Allies | 0.30% | ~740 |
-| Mad Cow Disease | 0.30% | ~740 |
-| Friendly Imps | 0.30% | ~740 |
+| The Overgrown Grove | 0.40% | ~853 |
+| When Tentacles Attack | 0.40% | ~853 |
+| Flames of Avernus | 0.40% | ~853 |
+| Mental Gymnastics | 0.40% | ~853 |
+| Don't Lose Your Head | 0.40% | ~853 |
+| Were-verpowered | 0.30% | ~741 |
+| Seeking Allies | 0.30% | ~741 |
+| Mad Cow Disease | 0.30% | ~741 |
+| Friendly Imps | 0.30% | ~741 |
 | Arcane Suppression | 0.30% | ~639 |
 | Welcome to the Vrocks | 0.30% | ~639 |
 | Misaligned in Sigil | 0.30% | ~639 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~213 |
 | The Brains of an Illithid's Desire | 0.10% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,822 (Ranked 68)  
+Progressed: 246,867 (Ranked 68)  
 Completed: 2,575 (1.04%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -806,16 +806,16 @@ Completed: 2,575 (1.04%) (Ranked 168)
 | 2023-12-26 | 245,031 | 2,566 |
 | 2023-12-27 | 245,531 | 2,567 |
 | 2023-12-28 | 246,305 | 2,573 |
-| 2023-12-29 | 246,822 | 2,575 |
+| 2023-12-29 | 246,867 | 2,575 |
 ## Awards
 Max (Great for Beginners): 5,708  (Ranked 71)  
-Sum: 33,169 (Ranked 41)  
+Sum: 33,171 (Ranked 41)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,708 |
 | This game has Diverse Characters | 5,657 |
-| This game has Quickly Understood Controls | 4,870 |
+| This game has Quickly Understood Controls | 4,872 |
 | This game is Relaxing | 4,751 |
 | This game has Amazing Characters | 4,295 |
 | This game is Highly Recommended | 4,281 |
@@ -1160,4 +1160,4 @@ Diff (max vs sum): 30
 | 2023-12-26 | 4.06 | - | 5,696 | 33,100 |
 | 2023-12-27 | 4.06 | - | 5,701 | 33,129 |
 | 2023-12-28 | 4.06 | - | 5,708 | 33,156 |
-| 2023-12-29 | 4.06 | - | 5,708 | 33,169 |
+| 2023-12-29 | 4.06 | - | 5,708 | 33,171 |

@@ -1,16 +1,16 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.54 (Ranked 541)  
+Rating: 4.54 (Ranked 542)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 79.00% | ~188 |
-| Mash Machine | 72.00% | ~171 |
-| Ducks in a Row, Fish in a Barrel | 51.00% | ~121 |
-| Furon Fashion | 46.00% | ~109 |
-| Shop Til They Drop | 38.00% | ~90 |
+| Rock of the Bay | 79.00% | ~189 |
+| Mash Machine | 72.00% | ~172 |
+| Ducks in a Row, Fish in a Barrel | 51.00% | ~122 |
+| Furon Fashion | 46.00% | ~110 |
+| Shop Til They Drop | 38.00% | ~91 |
 | Bodied Sattva | 34.00% | ~81 |
 | Earthly Pleasures | 33.00% | ~79 |
 | Cult Following | 31.00% | ~74 |
@@ -18,12 +18,12 @@ Number of Ratings: 90  (23.09.2022)
 | Upgreatest | 24.00% | ~57 |
 | Pimp My Raid | 23.00% | ~55 |
 | I Look Up As I Walk to Takoshima | 19.00% | ~45 |
-| Freshly Squeezed | 17.00% | ~40 |
+| Freshly Squeezed | 17.00% | ~41 |
 | Die Nasty | 16.00% | ~38 |
 | Perfect Probulator | 15.00% | ~36 |
 | Transmitting From Sol-3 | 15.00% | ~36 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 11.00% | ~26 |
-| Kaijuiced | 9.00% | ~21 |
+| Kaijuiced | 9.00% | ~22 |
 | Fly Me to the Moon Base | 8.00% | ~19 |
 | Dusted | 8.00% | ~19 |
 | Scuttled | 6.00% | ~14 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.40% | ~1 |
 | Trans-Siberian Express | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238 (Ranked 406)  
+Progressed: 239 (Ranked 406)  
 Completed: 1 (0.42%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 1 (0.42%) (Ranked 225)
 | 2023-12-26 | 205 | 1 |
 | 2023-12-27 | 222 | 1 |
 | 2023-12-28 | 230 | 1 |
-| 2023-12-29 | 238 | 1 |
+| 2023-12-29 | 239 | 1 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 489)  
 Sum: 36 (Ranked 522)  

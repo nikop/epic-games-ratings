@@ -56,6 +56,7 @@
 | Astromancer | 2.00% | ~5 |
 | Critical Twist | 2.00% | ~5 |
 | Pocket Astrarium | 2.00% | ~5 |
+| Reflexive Mind | 2.00% | ~5 |
 | Sentinelphobic | 2.00% | ~5 |
 | The Raging Skies | 2.00% | ~5 |
 | Aquarian Hero | 2.00% | ~5 |
@@ -63,7 +64,6 @@
 | Lacertian Mastery | 2.00% | ~5 |
 | Noctuan Mastery | 2.00% | ~5 |
 | Anomaly Master | 1.00% | ~3 |
-| Reflexive Mind | 1.00% | ~3 |
 | Royal Choir | 1.00% | ~3 |
 | Unepic Hero | 1.00% | ~3 |
 | Apian Mastery | 1.00% | ~3 |

@@ -14,20 +14,20 @@
 | Destroy Erase Improve | 67.00% | ~134 |
 | Power Overload | 64.00% | ~128 |
 | Quite A Snack | 61.00% | ~122 |
-| Impenetrable Skin | 56.00% | ~112 |
+| Impenetrable Skin | 57.00% | ~114 |
 | Overwhelming Power | 55.00% | ~110 |
 | Chomp Chomp! | 47.00% | ~94 |
 | Supreme Power | 46.00% | ~92 |
+| Target Practice | 45.00% | ~90 |
 | The Duelist | 44.00% | ~88 |
+| Glorious Battle | 44.00% | ~88 |
 | Diaper Time! | 44.00% | ~88 |
-| Target Practice | 44.00% | ~88 |
-| Glorious Battle | 43.00% | ~86 |
 | Meat Larder | 40.00% | ~80 |
 | Mutant And Proud | 39.00% | ~78 |
 | The Emperor's New Clothes | 33.00% | ~66 |
 | You Shall Not Pass | 32.00% | ~64 |
+| Animal Lover | 32.00% | ~64 |
 | Final Evolution | 32.00% | ~64 |
-| Animal Lover | 31.00% | ~62 |
 | Godlike Power | 31.00% | ~62 |
 | Undying Skin | 31.00% | ~62 |
 | Happy Little Home | 31.00% | ~62 |
