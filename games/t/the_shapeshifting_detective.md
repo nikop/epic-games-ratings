@@ -9,7 +9,7 @@
 | Play Me By The Hour | 70.00% | ~207 |
 | Patient Listener | 47.00% | ~139 |
 | Video Saved The Radio Star | 39.00% | ~115 |
-| Hashtag Winning | 37.00% | ~110 |
+| Hashtag Winning | 38.00% | ~112 |
 | A Woman Scorned | 28.00% | ~83 |
 | Look Mum I'm A Detective | 21.00% | ~62 |
 | Chameleon | 20.00% | ~59 |
@@ -26,7 +26,7 @@
 | Bullseye | 4.00% | ~12 |
 | The Big Sleep | 4.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296 (Ranked 384)  
+Progressed: 296 (Ranked 385)  
 Completed: 3 (1.01%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |

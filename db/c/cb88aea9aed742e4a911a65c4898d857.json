@@ -5,7 +5,7 @@
   "Ranking_Rating": 282,
   "Ranking_Popularity": 426,
   "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 186,
+  "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 147,
@@ -203,9 +203,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 8474,
+  "EOS_Progressed": 8484,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2292,
+  "EOS_NewPlayers": 2291,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2823,6 +2823,11 @@
       "Time": "2023-12-29T10:09:34.2520873+00:00",
       "NumProgressed": 8474,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T11:09:52.3022287+00:00",
+      "NumProgressed": 8484,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -2849,9 +2854,9 @@
       "ID": "04_TheTradeEmpire",
       "SetID": "37a94m8",
       "Name": "Trade Empire",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 25
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -2953,9 +2958,9 @@
       "ID": "17_TheExemplar",
       "SetID": "37a94m8",
       "Name": "Exemplar",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 25
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -2969,9 +2974,9 @@
       "ID": "19_TheVoidWolf",
       "SetID": "37a94m8",
       "Name": "Void Wolf",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 34
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -3041,17 +3046,17 @@
       "ID": "28_TheLightOfAstronomicon",
       "SetID": "37a94m8",
       "Name": "Light of the Astronomican",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 51
     },
     {
       "ID": "29_NoStoneUnturned",
       "SetID": "37a94m8",
       "Name": "No Stone Unturned",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "30_The GreatestExploration",
@@ -3089,9 +3094,9 @@
       "ID": "34_CuriosityIsNotAVice",
       "SetID": "37a94m8",
       "Name": "Curiosity Is Not a Vice",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 34
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -3145,17 +3150,17 @@
       "ID": "41_TheJungleHeat",
       "SetID": "37a94m8",
       "Name": "Jungle Heat",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 51
     },
     {
       "ID": "42_TheIronJudgement",
       "SetID": "37a94m8",
       "Name": "Iron Judgement",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 34
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -3185,17 +3190,17 @@
       "ID": "46_ASpark",
       "SetID": "37a94m8",
       "Name": "A Spark",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 59
     },
     {
       "ID": "47_AFlame",
       "SetID": "37a94m8",
       "Name": "A Flame",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "48_TheUnexpectedCompany",
@@ -3354,7 +3359,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8474,
+      "Progressed": 8484,
       "Completed": 0
     }
   ],
@@ -3362,8 +3367,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-28T13:57:33.384002+00:00",
-  "LastChanged_Achievements": "2023-12-29T10:09:34.252087+00:00",
+  "LastChanged_Achievements": "2023-12-29T11:09:52.3022285+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-29T09:58:02.1196031+00:00",
-  "LastUpdate_Achievements": "2023-12-29T10:09:34.2521405+00:00"
+  "LastUpdate_Ratings": "2023-12-29T10:57:47.3096388+00:00",
+  "LastUpdate_Achievements": "2023-12-29T11:09:52.3022964+00:00"
 }

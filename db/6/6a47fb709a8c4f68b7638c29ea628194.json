@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 881,
+  "EOS_Progressed": 884,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 678,
+  "EOS_NewPlayers": 679,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1129,6 +1129,11 @@
       "Time": "2023-12-29T10:08:54.422545+00:00",
       "NumProgressed": 881,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T11:09:12.1038296+00:00",
+      "NumProgressed": 884,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T16:02:20.9417999+00:00",
@@ -1189,7 +1194,7 @@
       "Name": "Greener",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "FINISHED_10",
@@ -1229,7 +1234,7 @@
       "Name": "One motorbike race",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 352
+      "UsersEstimate": 354
     },
     {
       "ID": "ONE_LAP",
@@ -1237,15 +1242,15 @@
       "Name": "First lap",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 590
+      "UsersEstimate": 592
     },
     {
       "ID": "PODIUM_1",
       "SetID": "4nk2039",
       "Name": "Podium finisher",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 301
     },
     {
       "ID": "PODIUM_10",
@@ -1269,7 +1274,7 @@
       "Name": "On the starting grid",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 846
+      "UsersEstimate": 849
     },
     {
       "ID": "RESEARCHED_2",
@@ -1277,7 +1282,7 @@
       "Name": "Generation 2",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "RESEARCHED_3",
@@ -1293,7 +1298,7 @@
       "Name": "Generation 4",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "RESEARCHED_5",
@@ -1341,7 +1346,7 @@
       "Name": "Race winner",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "WIN_10",
@@ -1349,7 +1354,7 @@
       "Name": "Championship contender",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "WIN_100",
@@ -1365,7 +1370,7 @@
       "Name": "Multiple race winner",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "WIN_HORICE",
@@ -1381,7 +1386,7 @@
       "Name": "Newcomer",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "XP_1000",
@@ -1389,7 +1394,7 @@
       "Name": "Rookie",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "XP_10000",
@@ -1420,14 +1425,14 @@
     {
       "ID": "4nk2039",
       "IsBase": true,
-      "Progressed": 881,
+      "Progressed": 884,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-20T20:59:52.9883268+00:00",
   "FirstSeenAchievements": "2023-09-03T16:02:20.9417998+00:00",
-  "LastChanged_Achievements": "2023-12-29T10:08:54.4225449+00:00",
+  "LastChanged_Achievements": "2023-12-29T11:09:12.1038294+00:00",
   "LastUpdate_AppInfo": "2023-12-24T23:57:03.0458166+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:00:22.3776868+00:00",
-  "LastUpdate_Achievements": "2023-12-29T10:08:54.422571+00:00"
+  "LastUpdate_Ratings": "2023-12-29T11:00:09.0914587+00:00",
+  "LastUpdate_Achievements": "2023-12-29T11:09:12.1038531+00:00"
 }

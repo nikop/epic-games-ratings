@@ -1,7 +1,7 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.20 (Ranked 947)  
+Rating: 4.20 (Ranked 948)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -25,8 +25,8 @@ Number of Ratings: 281  (23.09.2022)
 | I'm the Captain Now | 0.80% | ~62 |
 | Hook, Line and Sinker | 0.70% | ~54 |
 | More than a Tourist | 0.60% | ~46 |
-| No Fin left to give | 0.50% | ~38 |
-| Gonna Need a Bigger Boat | 0.50% | ~38 |
+| No Fin left to give | 0.50% | ~39 |
+| Gonna Need a Bigger Boat | 0.50% | ~39 |
 | Live by the Rod, Diez by the Rod! | 0.40% | ~28 |
 | Aguas Claras Conquistador | 0.40% | ~28 |
 | All Good Kings Must Come to an End | 0.30% | ~21 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,699 (Ranked 188)  
+Progressed: 7,701 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 7,601 | 0 |
 | 2023-12-27 | 7,651 | 0 |
 | 2023-12-28 | 7,687 | 0 |
-| 2023-12-29 | 7,699 | 0 |
+| 2023-12-29 | 7,701 | 0 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 472)  
 Sum: 212 (Ranked 408)  

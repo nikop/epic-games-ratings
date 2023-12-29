@@ -2,7 +2,7 @@
   "ID": "08f38e25e11f4c1e977cb75aae5e4535",
   "Name": "The Surge",
   "ProductSlug": "the-surge",
-  "Ranking_Rating": 712,
+  "Ranking_Rating": 713,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 202,
@@ -394,9 +394,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5111,
+  "EOS_Progressed": 5112,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -4264,6 +4264,11 @@
       "Time": "2023-12-29T10:05:31.5357073+00:00",
       "NumProgressed": 5111,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-29T11:05:30.7189025+00:00",
+      "NumProgressed": 5112,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4323,7 +4328,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4293
+      "UsersEstimate": 4294
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -4331,7 +4336,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4804
+      "UsersEstimate": 4805
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4339,7 +4344,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3935
+      "UsersEstimate": 3936
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -4459,7 +4464,7 @@
       "Name": "Core Power",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "ID_ACHIEV_25",
@@ -4491,7 +4496,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3884
+      "UsersEstimate": 3885
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -4611,7 +4616,7 @@
       "Name": "GOLIATH",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -4810,15 +4815,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5111,
+      "Progressed": 5112,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-24T15:57:46.3755439+00:00",
-  "LastChanged_Achievements": "2023-12-29T10:05:31.5357071+00:00",
+  "LastChanged_Achievements": "2023-12-29T11:05:30.7189023+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:20.3744551+00:00",
-  "LastUpdate_Ratings": "2023-12-29T09:59:57.6304438+00:00",
-  "LastUpdate_Achievements": "2023-12-29T10:05:31.535768+00:00"
+  "LastUpdate_Ratings": "2023-12-29T10:59:44.3764203+00:00",
+  "LastUpdate_Achievements": "2023-12-29T11:05:30.7189626+00:00"
 }

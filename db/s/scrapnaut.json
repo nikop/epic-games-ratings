@@ -2,13 +2,13 @@
   "ID": "c1edd23d035a4df0bbc419f2d0fbb40d",
   "Name": "Scrapnaut",
   "ProductSlug": "scrapnaut",
-  "Ranking_Rating": 869,
+  "Ranking_Rating": 870,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
-  "Ranking_EOS_Progress": 331,
+  "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -2167,9 +2167,9 @@
       "ID": "ACH_MYTHRIL_SMELTER",
       "SetID": "7c4cldc",
       "Name": "Mythical Smelter",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_PERMADEATH",
@@ -2232,8 +2232,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2023-12-29T10:09:03.0740775+00:00",
+  "LastChanged_Achievements": "2023-12-29T11:09:20.787785+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:34.110653+00:00",
-  "LastUpdate_Ratings": "2023-12-29T09:59:15.4001155+00:00",
-  "LastUpdate_Achievements": "2023-12-29T10:09:03.0741036+00:00"
+  "LastUpdate_Ratings": "2023-12-29T10:59:01.6431846+00:00",
+  "LastUpdate_Achievements": "2023-12-29T11:09:20.7878188+00:00"
 }

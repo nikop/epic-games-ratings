@@ -1,12 +1,12 @@
 # Darksiders Warmastered Edition
 [Store](https://store.epicgames.com/en-US/p/darksiders)  
 [View Rawdata](../../db/d/darksiders_warmastered_edition.json)  
-Rating: 4.60 (Ranked 425)  
+Rating: 4.60 (Ranked 426)  
 Number of Ratings: 721  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 80  (Ranked 398)  
-Sum: 80 (Ranked 474)  
-Diff (max vs sum): -76  
+Sum: 80 (Ranked 475)  
+Diff (max vs sum): -77  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 86 |

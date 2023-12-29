@@ -1,11 +1,11 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 609)  
+Rating: 4.50 (Ranked 610)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 10.00% | ~3,288 |
+| Stylish | 10.00% | ~3,289 |
 | Advancement | 8.00% | ~2,631 |
 | Meticulously Efficient | 8.00% | ~2,631 |
 | Discovery | 6.00% | ~1,973 |
@@ -21,17 +21,17 @@ Rating: 4.50 (Ranked 609)
 | Ghostbuster In Training | 4.00% | ~1,315 |
 | There you are! | 4.00% | ~1,315 |
 | Whoopsie | 4.00% | ~1,315 |
-| Animated | 3.00% | ~986 |
-| Back Off | 3.00% | ~986 |
-| We have the best insurance | 3.00% | ~986 |
-| Ectoplasmic Entity | 3.00% | ~986 |
-| Icing on the Cake | 3.00% | ~986 |
-| Legions | 3.00% | ~986 |
-| Pesky Jerks | 3.00% | ~986 |
-| Right back at ya | 3.00% | ~986 |
-| Seasoned | 3.00% | ~986 |
-| Side Hustle | 3.00% | ~986 |
-| Summoner | 3.00% | ~986 |
+| Animated | 3.00% | ~987 |
+| Back Off | 3.00% | ~987 |
+| We have the best insurance | 3.00% | ~987 |
+| Ectoplasmic Entity | 3.00% | ~987 |
+| Icing on the Cake | 3.00% | ~987 |
+| Legions | 3.00% | ~987 |
+| Pesky Jerks | 3.00% | ~987 |
+| Right back at ya | 3.00% | ~987 |
+| Seasoned | 3.00% | ~987 |
+| Side Hustle | 3.00% | ~987 |
+| Summoner | 3.00% | ~987 |
 | Collector | 2.00% | ~658 |
 | Escape Artist | 2.00% | ~658 |
 | Reckless | 2.00% | ~658 |
@@ -57,8 +57,8 @@ Rating: 4.50 (Ranked 609)
 | Ultimate Defense | 0.20% | ~66 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,883 (Ranked 134)  
-Completed: 70 (0.21%) (Ranked 270)  
+Progressed: 32,887 (Ranked 134)  
+Completed: 71 (0.22%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -310,7 +310,7 @@ Completed: 70 (0.21%) (Ranked 270)
 | 2023-12-26 | 32,761 | 70 |
 | 2023-12-27 | 32,821 | 70 |
 | 2023-12-28 | 32,854 | 70 |
-| 2023-12-29 | 32,883 | 70 |
+| 2023-12-29 | 32,887 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 325  (Ranked 254)  
 Sum: 2,937 (Ranked 183)  

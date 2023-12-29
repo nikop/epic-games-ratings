@@ -1,23 +1,23 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 355)  
+Rating: 4.63 (Ranked 356)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 67.00% | ~142 |
-| Kaijuiced | 66.00% | ~140 |
-| Lie Back and Think of Albion | 59.00% | ~125 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~123 |
-| Yettisoned | 54.00% | ~114 |
-| I Look Up As I Walk to Takoshima | 54.00% | ~114 |
-| Perfect Probulator | 52.00% | ~110 |
+| Shop Til They Drop | 67.00% | ~143 |
+| Kaijuiced | 66.00% | ~141 |
+| Lie Back and Think of Albion | 60.00% | ~128 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~124 |
+| Yettisoned | 54.00% | ~115 |
+| I Look Up As I Walk to Takoshima | 54.00% | ~115 |
+| Perfect Probulator | 52.00% | ~111 |
 | Lobster Blisque | 48.00% | ~102 |
 | Pimp My Raid | 48.00% | ~102 |
 | Earthly Pleasures | 46.00% | ~98 |
-| Fly Me to the Moon Base | 44.00% | ~93 |
-| Ducks in a Row, Fish in a Barrel | 43.00% | ~91 |
+| Fly Me to the Moon Base | 44.00% | ~94 |
+| Ducks in a Row, Fish in a Barrel | 43.00% | ~92 |
 | Freshly Squeezed | 34.00% | ~72 |
 | Forbidden Donut | 33.00% | ~70 |
 | Bodied Sattva | 33.00% | ~70 |
@@ -26,28 +26,28 @@ Number of Ratings: 85  (23.09.2022)
 | Deincarnated | 25.00% | ~53 |
 | Rock of the Bay | 23.00% | ~49 |
 | Trans-Siberian Express | 23.00% | ~49 |
-| Re-Return of the Clone of the Invasion II-2 | 20.00% | ~42 |
-| Arkvoodle Doodle | 16.00% | ~34 |
-| Ouch of Body Experience | 16.00% | ~34 |
+| Re-Return of the Clone of the Invasion II-2 | 20.00% | ~43 |
+| Arkvoodle Doodle | 15.00% | ~32 |
+| Ouch of Body Experience | 15.00% | ~32 |
 | If You Know What I Mean | 15.00% | ~32 |
 | Die Nasty | 14.00% | ~30 |
 | Mash Machine | 14.00% | ~30 |
 | Hidden Human Hive Harvest | 13.00% | ~28 |
 | Dusted | 13.00% | ~28 |
-| Albion Bridge Is for Falling Down | 12.00% | ~25 |
+| Albion Bridge Is for Falling Down | 12.00% | ~26 |
 | Scuttled | 9.00% | ~19 |
 | PK Slam Dunk | 9.00% | ~19 |
 | Higher Than the Futen Zoku | 8.00% | ~17 |
 | Arty Facts | 6.00% | ~13 |
 | Path of the Furon | 5.00% | ~11 |
-| Cult Following | 4.00% | ~8 |
-| To Russia With Love | 4.00% | ~8 |
+| Cult Following | 4.00% | ~9 |
+| To Russia With Love | 4.00% | ~9 |
 | Transmitting From Sol-3 | 2.00% | ~4 |
 | Toilet Break | 2.00% | ~4 |
 | Against All Odds | 1.00% | ~2 |
 | Steezy Down the Spine | 0.90% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212 (Ranked 417)  
+Progressed: 213 (Ranked 417)  
 Completed: 2 (0.94%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 2 (0.94%) (Ranked 177)
 | 2023-12-26 | 176 | 2 |
 | 2023-12-27 | 188 | 2 |
 | 2023-12-28 | 206 | 2 |
-| 2023-12-29 | 212 | 2 |
+| 2023-12-29 | 213 | 2 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 501)  
 Sum: 34 (Ranked 525)  

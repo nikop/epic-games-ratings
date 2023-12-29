@@ -1,19 +1,19 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 1,016)  
+Rating: 4.06 (Ranked 1,017)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,932 |
+| A Brief Tour of the Realms | 2.00% | ~4,933 |
 | The Cursed Farmer | 0.90% | ~2,220 |
-| Beast Intentions | 0.70% | ~1,726 |
+| Beast Intentions | 0.70% | ~1,727 |
 | Welcome to Sigil | 0.70% | ~1,490 |
 | The Mad Wizard | 0.60% | ~1,480 |
-| Fast Food | 0.60% | ~1,277 |
-| The Ring of Regeneration | 0.40% | ~986 |
-| Are Ya Chicken? | 0.40% | ~986 |
+| Fast Food | 0.60% | ~1,278 |
+| The Ring of Regeneration | 0.40% | ~987 |
+| Are Ya Chicken? | 0.40% | ~987 |
 | The Overgrown Grove | 0.40% | ~852 |
 | When Tentacles Attack | 0.40% | ~852 |
 | Flames of Avernus | 0.40% | ~852 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~213 |
 | The Brains of an Illithid's Desire | 0.10% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,612 (Ranked 68)  
+Progressed: 246,646 (Ranked 68)  
 Completed: 2,575 (1.04%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -806,7 +806,7 @@ Completed: 2,575 (1.04%) (Ranked 168)
 | 2023-12-26 | 245,031 | 2,566 |
 | 2023-12-27 | 245,531 | 2,567 |
 | 2023-12-28 | 246,305 | 2,573 |
-| 2023-12-29 | 246,612 | 2,575 |
+| 2023-12-29 | 246,646 | 2,575 |
 ## Awards
 Max (Great for Beginners): 5,708  (Ranked 71)  
 Sum: 33,167 (Ranked 41)  

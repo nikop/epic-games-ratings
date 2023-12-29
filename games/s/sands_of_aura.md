@@ -8,13 +8,13 @@
 | A Small Thirsty Thing | 14.00% | ~18 |
 | Dousing a Venerable Flame | 13.00% | ~16 |
 | Advanced Armaments | 13.00% | ~16 |
+| Rain Must Fall | 10.00% | ~12 |
 | Leisis Bless You | 10.00% | ~12 |
 | Spirit Within | 10.00% | ~12 |
-| Rain Must Fall | 9.00% | ~11 |
 | Overboard | 9.00% | ~11 |
 | Bladesmith | 9.00% | ~11 |
 | The Guardian of Fire | 9.00% | ~11 |
-| Explorer | 6.00% | ~8 |
+| Explorer | 7.00% | ~9 |
 | The River Styx | 6.00% | ~8 |
 | Sovereignty of Irons | 6.00% | ~8 |
 | Twin Thorns | 6.00% | ~8 |

@@ -1,22 +1,22 @@
 # Train Valley
 [Store](https://store.epicgames.com/en-US/p/train-valley-ead642)  
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.50 (Ranked 609)  
+Rating: 4.50 (Ranked 610)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 78.00% | ~465 |
-| Close call! | 72.00% | ~429 |
+| Getting started | 77.00% | ~460 |
+| Close call! | 72.00% | ~430 |
 | Builder | 52.00% | ~310 |
-| Living it large! | 45.00% | ~268 |
-| Pangs of conscience | 44.00% | ~262 |
-| Collector | 43.00% | ~256 |
-| Need to think | 43.00% | ~256 |
-| Completely nuts! | 41.00% | ~244 |
+| Living it large! | 45.00% | ~269 |
+| Pangs of conscience | 44.00% | ~263 |
+| Collector | 43.00% | ~257 |
+| Need to think | 43.00% | ~257 |
+| Completely nuts! | 41.00% | ~245 |
 | Europe | 33.00% | ~197 |
 | Just in time! | 33.00% | ~197 |
-| Madness! | 32.00% | ~191 |
+| Madness! | 31.00% | ~185 |
 | It's no coincidence. | 28.00% | ~167 |
 | Philatelist | 26.00% | ~155 |
 | Let's roll! | 26.00% | ~155 |
@@ -26,7 +26,7 @@ Number of Ratings: 28  (23.09.2022)
 | Russia | 20.00% | ~119 |
 | America | 18.00% | ~107 |
 | Missed it! | 18.00% | ~107 |
-| Sabotage | 16.00% | ~95 |
+| Sabotage | 16.00% | ~96 |
 | Achtung! | 12.00% | ~72 |
 | Japan | 11.00% | ~66 |
 | Woodcutter | 10.00% | ~60 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Mega-railroad | 0.50% | ~3 |
 | Vandal | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 596 (Ranked 327)  
+Progressed: 597 (Ranked 328)  
 Completed: 2 (0.34%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,6 +184,7 @@ Completed: 2 (0.34%) (Ranked 242)
 | 2023-12-26 | 590 | 2 |
 | 2023-12-27 | 593 | 2 |
 | 2023-12-28 | 596 | 2 |
+| 2023-12-29 | 597 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

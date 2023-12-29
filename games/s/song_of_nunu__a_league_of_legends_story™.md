@@ -1,7 +1,7 @@
 # Song of Nunu: A League of Legends Story
 [Store](https://store.epicgames.com/en-US/p/song-of-nunu-a-league-of-legends-story)  
 [View Rawdata](../../db/s/song_of_nunu__a_league_of_legends_story™.json)  
-Rating: 4.52 (Ranked 568)  
+Rating: 4.52 (Ranked 570)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -30,9 +30,9 @@ Rating: 4.52 (Ranked 568)
 | Family | 39.00% | ~536 |
 | Biggest Snowball Ever | 39.00% | ~536 |
 | Freeze The Ice Witch | 39.00% | ~536 |
+| True Legends | 39.00% | ~536 |
 | Boosted! | 39.00% | ~536 |
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~536 |
-| True Legends | 38.00% | ~522 |
 | It Is Not Over | 36.00% | ~495 |
 | Bullseye | 36.00% | ~495 |
 | On The Rocks | 34.00% | ~468 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -317,9 +317,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 480,
+  "EOS_Progressed": 483,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -1332,6 +1332,11 @@
       "Time": "2023-12-29T09:05:38.6983307+00:00",
       "NumProgressed": 480,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T11:05:36.1048645+00:00",
+      "NumProgressed": 483,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1358,9 +1363,9 @@
       "ID": "ACH_CHUM_BUCKET_BRAIN",
       "SetID": "biiejkc",
       "Name": "The Small Does Not Rule",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_COMPLETION",
@@ -1422,9 +1427,9 @@
       "ID": "ACH_JELLYFISH_JAM",
       "SetID": "biiejkc",
       "Name": "Jellyfish Jam",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -1486,9 +1491,9 @@
       "ID": "ACH_SLEEPY_TIME",
       "SetID": "biiejkc",
       "Name": "Sleepy Time",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_SOCK_CONCERT",
@@ -1576,15 +1581,15 @@
       "Name": "Star Smasher",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_SURFS_UP",
       "SetID": "biiejkc",
       "Name": "Surf\u0027s Up!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
@@ -1599,15 +1604,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 480,
+      "Progressed": 483,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-29T10:05:36.9192849+00:00",
+  "LastChanged_Achievements": "2023-12-29T11:05:36.1048643+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:00:22.806798+00:00",
-  "LastUpdate_Achievements": "2023-12-29T10:05:36.9193064+00:00"
+  "LastUpdate_Ratings": "2023-12-29T11:00:09.4976584+00:00",
+  "LastUpdate_Achievements": "2023-12-29T11:05:36.1048879+00:00"
 }

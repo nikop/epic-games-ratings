@@ -1,22 +1,22 @@
 # Lawn Mowing Simulator
 [Store](https://store.epicgames.com/en-US/p/lawn-mowing-simulator-838bf3)  
 [View Rawdata](../../db/l/lawn_mowing_simulator.json)  
-Rating: 4.08 (Ranked 1,002)  
+Rating: 4.08 (Ranked 1,003)  
 Number of Ratings: 5,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 79.00% | ~546,939 |
-| Every story has a beginning | 36.00% | ~249,238 |
-| The first of many | 31.00% | ~214,622 |
-| Positive word of mouth | 18.00% | ~124,619 |
-| Lawn in the U.S.A. | 15.00% | ~103,849 |
-| Blade Runner | 9.00% | ~62,310 |
-| Credible | 7.00% | ~48,463 |
-| Teamwork makes the dream work | 6.00% | ~41,540 |
-| Where there's muck there's brass | 4.00% | ~27,693 |
-| Bigger and better | 4.00% | ~27,693 |
-| Aggressive expansion | 4.00% | ~27,693 |
+| The dream begins | 79.00% | ~546,954 |
+| Every story has a beginning | 36.00% | ~249,245 |
+| The first of many | 31.00% | ~214,628 |
+| Positive word of mouth | 18.00% | ~124,622 |
+| Lawn in the U.S.A. | 15.00% | ~103,852 |
+| Blade Runner | 9.00% | ~62,311 |
+| Credible | 7.00% | ~48,464 |
+| Teamwork makes the dream work | 6.00% | ~41,541 |
+| Where there's muck there's brass | 4.00% | ~27,694 |
+| Bigger and better | 4.00% | ~27,694 |
+| Aggressive expansion | 4.00% | ~27,694 |
 | Size isn't everything | 3.00% | ~20,770 |
 | Close shave | 3.00% | ~20,770 |
 | Established | 3.00% | ~20,770 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~692 |
 | Mo mowers, mo problems | 0.10% | ~692 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 692,328 (Ranked 27)  
+Progressed: 692,347 (Ranked 27)  
 Completed: 19 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 19 (0.00%) (Ranked 389)
 | 2023-12-26 | 691,603 | 19 |
 | 2023-12-27 | 691,951 | 19 |
 | 2023-12-28 | 692,223 | 19 |
-| 2023-12-29 | 692,328 | 19 |
+| 2023-12-29 | 692,347 | 19 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 307)  
 Sum: 990 (Ranked 266)  

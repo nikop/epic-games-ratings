@@ -510,9 +510,9 @@
       "ID": "Build_First_Room",
       "SetID": "7b9f97e",
       "Name": "Enough rooms to swing a cat",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Build_First_Room_Extension",
@@ -526,17 +526,17 @@
       "ID": "Capture_Own_Tower",
       "SetID": "7b9f97e",
       "Name": "Home Sweet Home",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Cast_First_Spell",
       "SetID": "7b9f97e",
       "Name": "A kind of Magic",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Circle_Page",
@@ -1063,8 +1063,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-29T10:09:10.0844993+00:00",
+  "LastChanged_Achievements": "2023-12-29T11:09:27.8777882+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:59.8342504+00:00",
-  "LastUpdate_Ratings": "2023-12-29T09:57:41.4180415+00:00",
-  "LastUpdate_Achievements": "2023-12-29T10:09:10.0845637+00:00"
+  "LastUpdate_Ratings": "2023-12-29T10:57:26.9073501+00:00",
+  "LastUpdate_Achievements": "2023-12-29T11:09:27.8778524+00:00"
 }

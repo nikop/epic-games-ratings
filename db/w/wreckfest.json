@@ -2,7 +2,7 @@
   "ID": "8a574ca3cbfc46c69ea8d3491932e973",
   "Name": "Wreckfest",
   "ProductSlug": "wreckfest",
-  "Ranking_Rating": 869,
+  "Ranking_Rating": 870,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 336,
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 512,
+  "EOS_Progressed": 514,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 296,
+  "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1411,6 +1411,11 @@
       "Time": "2023-12-29T10:08:33.3267541+00:00",
       "NumProgressed": 512,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T11:08:51.0988217+00:00",
+      "NumProgressed": 514,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1447,15 +1452,15 @@
       "Name": "National Amateurs Champion",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "CareerChamp3",
       "SetID": "5hd282c",
       "Name": "Challengers Champion",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 67
+      "UsersEstimate": 62
     },
     {
       "ID": "CareerChamp4",
@@ -1479,7 +1484,7 @@
       "Name": "Storm Warning",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "CollectVehiclesA",
@@ -1535,7 +1540,7 @@
       "Name": "Dirty Roller",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "PlayerRankB",
@@ -1551,7 +1556,7 @@
       "Name": "Showing Some Dedication",
       "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "RocketSpeedReached",
@@ -1575,14 +1580,14 @@
       "Name": "Maniac Driver",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 512,
+      "Progressed": 514,
       "Completed": 0
     }
   ],
@@ -1590,8 +1595,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-28T22:58:24.1175943+00:00",
-  "LastChanged_Achievements": "2023-12-29T10:08:33.3267537+00:00",
+  "LastChanged_Achievements": "2023-12-29T11:08:51.0988215+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-29T09:58:05.4812835+00:00",
-  "LastUpdate_Achievements": "2023-12-29T10:08:33.3267707+00:00"
+  "LastUpdate_Ratings": "2023-12-29T10:57:50.878411+00:00",
+  "LastUpdate_Achievements": "2023-12-29T11:08:51.0988491+00:00"
 }

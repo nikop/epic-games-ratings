@@ -1,12 +1,12 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.56 (Ranked 499)  
+Rating: 4.56 (Ranked 500)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 16.00% | ~2,834 |
-| Captain Drummer | 12.00% | ~2,125 |
+| Captain Drummer | 12.00% | ~2,126 |
 | The Pit and the Pirates | 11.00% | ~1,948 |
 | Martian Music | 11.00% | ~1,948 |
 | Bosmang | 11.00% | ~1,948 |
@@ -20,7 +20,7 @@ Rating: 4.56 (Ranked 499)
 | Safe Cracker | 8.00% | ~293 |
 | Madame Undersecretary | 8.00% | ~293 |
 | Heal Thy Medic | 7.00% | ~1,240 |
-| Keep Arjun in Check | 7.00% | ~256 |
+| Keep Arjun in Check | 7.00% | ~257 |
 | Data Archivist | 6.00% | ~1,063 |
 | Drug Gifter | 6.00% | ~1,063 |
 | Thorston Mayer | 6.00% | ~1,063 |
@@ -28,8 +28,8 @@ Rating: 4.56 (Ranked 499)
 | Doctor Approved | 5.00% | ~886 |
 | Bottoms up! | 5.00% | ~886 |
 | Master Negotiator | 5.00% | ~183 |
-| Data Logger | 4.00% | ~708 |
-| Miraculous Maya | 4.00% | ~708 |
+| Data Logger | 4.00% | ~709 |
+| Miraculous Maya | 4.00% | ~709 |
 | Data Master | 3.00% | ~531 |
 | Brother's Reaper | 2.00% | ~354 |
 | No Belter Left Behind | 2.00% | ~354 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 499)
 | Scavenger Star | 0.30% | ~53 |
 | Data Collector | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,710 (Ranked 157)  
+Progressed: 17,713 (Ranked 157)  
 Completed: 56 (0.32%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 56 (0.32%) (Ranked 247)
 | 2023-12-26 | 17,513 | 53 |
 | 2023-12-27 | 17,604 | 54 |
 | 2023-12-28 | 17,675 | 56 |
-| 2023-12-29 | 17,710 | 56 |
+| 2023-12-29 | 17,713 | 56 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 540,
+  "Ranking_Rating": 541,
   "Ranking_Popularity": 213,
   "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 159,
@@ -2047,9 +2047,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 17367,
+  "EOS_Progressed": 17370,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 1291,
+  "EOS_NewPlayers": 1284,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -18097,6 +18097,11 @@
       "Time": "2023-12-29T10:09:40.3648864+00:00",
       "NumProgressed": 17367,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-12-29T11:09:58.6352941+00:00",
+      "NumProgressed": 17370,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 35,
@@ -18108,7 +18113,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 14067
+      "UsersEstimate": 14070
     },
     {
       "ID": "ACH02",
@@ -18156,7 +18161,7 @@
       "Name": "The American Dream",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 3126
+      "UsersEstimate": 3127
     },
     {
       "ID": "ACH08",
@@ -18164,7 +18169,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 8684
+      "UsersEstimate": 8685
     },
     {
       "ID": "ACH09",
@@ -18204,7 +18209,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3126
+      "UsersEstimate": 3127
     },
     {
       "ID": "ACH14",
@@ -18276,7 +18281,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2431
+      "UsersEstimate": 2432
     },
     {
       "ID": "ACH23",
@@ -18290,9 +18295,9 @@
       "ID": "ACH24",
       "SetID": "4ck5mbe",
       "Name": "Not a Player",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 174
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH25",
@@ -18324,7 +18329,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "ACH29",
@@ -18332,7 +18337,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2605
+      "UsersEstimate": 2606
     },
     {
       "ID": "ACH30",
@@ -18387,7 +18392,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 17367,
+      "Progressed": 17370,
       "Completed": 64
     }
   ],
@@ -18395,8 +18400,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-29T03:58:42.7564712+00:00",
-  "LastChanged_Achievements": "2023-12-29T10:09:40.364886+00:00",
+  "LastChanged_Achievements": "2023-12-29T11:09:58.6352939+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:16.9169269+00:00",
-  "LastUpdate_Ratings": "2023-12-29T09:58:52.9917523+00:00",
-  "LastUpdate_Achievements": "2023-12-29T10:09:40.3649821+00:00"
+  "LastUpdate_Ratings": "2023-12-29T10:58:38.5909243+00:00",
+  "LastUpdate_Achievements": "2023-12-29T11:09:58.6353708+00:00"
 }

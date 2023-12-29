@@ -635,9 +635,9 @@
       "ID": "ALAIRA_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Rain Must Fall",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ALAIRA_MASTER",
@@ -851,9 +851,9 @@
       "ID": "DISCOVER_ALL_ISLANDS",
       "SetID": "cm0d613",
       "Name": "Explorer",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "DISCOVER_ONCEMAN_TOWN",
@@ -1108,8 +1108,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-12-29T10:05:41.6474585+00:00",
+  "LastChanged_Achievements": "2023-12-29T11:05:41.1839077+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.2387789+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:02:54.81806+00:00",
-  "LastUpdate_Achievements": "2023-12-29T10:05:41.6475028+00:00"
+  "LastUpdate_Ratings": "2023-12-29T11:02:52.5444561+00:00",
+  "LastUpdate_Achievements": "2023-12-29T11:05:41.1839783+00:00"
 }

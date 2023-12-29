@@ -10278,9 +10278,9 @@
       "Count": 1064
     }
   ],
-  "EOS_Progressed": 130493,
+  "EOS_Progressed": 130502,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1430,
+  "EOS_NewPlayers": 1429,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37338,6 +37338,11 @@
       "Time": "2023-12-29T10:09:16.6264951+00:00",
       "NumProgressed": 130493,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T11:09:35.0909415+00:00",
+      "NumProgressed": 130502,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37437,7 +37442,7 @@
       "Name": "The World As It Was",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "altar_of_hope_upgrade_total_half",
@@ -37461,7 +37466,7 @@
       "Name": "Loop Year",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "combat_kill_animal",
@@ -37597,7 +37602,7 @@
       "Name": "Circle of Life",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "combat_kill_swine",
@@ -37613,7 +37618,7 @@
       "Name": "No Gravestone Left Unturned",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "combat_party_wipe_any_run_boss",
@@ -37685,7 +37690,7 @@
       "Name": "20,000 Leagues Above the Sea",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "hero_loss_memoried",
@@ -37693,7 +37698,7 @@
       "Name": "Tears in the Rain",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "hero_skill_mastery_five",
@@ -37709,7 +37714,7 @@
       "Name": "Shrine of Reflection",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "hero_story_complete_any",
@@ -37733,7 +37738,7 @@
       "Name": "Triage",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "inn_first_time",
@@ -37773,7 +37778,7 @@
       "Name": "The Clash",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "relationships_all_positive_mountain",
@@ -37837,7 +37842,7 @@
       "Name": "Body of Work",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -37853,7 +37858,7 @@
       "Name": "Hard Mode",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "stagecoach_upgrade_equip_all",
@@ -37885,15 +37890,15 @@
       "Name": "Malpractice Assurance",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "combat_kill_collector",
       "SetID": "d3bcpc8",
       "Name": "This guy... again?",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 322
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -37933,7 +37938,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -37941,7 +37946,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "quest_complete_crusader",
@@ -37949,7 +37954,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -37980,21 +37985,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130493,
+      "Progressed": 130502,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5362,
+      "Progressed": 5371,
       "Completed": 813
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-29T09:00:16.4486808+00:00",
-  "LastChanged_Achievements": "2023-12-29T10:09:16.6264947+00:00",
+  "LastChanged_Achievements": "2023-12-29T11:09:35.0909414+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:00:12.3425298+00:00",
-  "LastUpdate_Achievements": "2023-12-29T10:09:16.6267002+00:00"
+  "LastUpdate_Ratings": "2023-12-29T10:59:58.8051544+00:00",
+  "LastUpdate_Achievements": "2023-12-29T11:09:35.0911118+00:00"
 }

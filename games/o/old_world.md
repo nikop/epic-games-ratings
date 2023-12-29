@@ -87,13 +87,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Building Wonders | 0.20% | ~32 |
 | Economic Reform | 0.20% | ~32 |
 | Military Prestige | 0.20% | ~32 |
-| Enlightenment | 0.20% | ~32 |
-| Gnosticism | 0.20% | ~32 |
-| Mythology | 0.20% | ~32 |
 | Legionary | 0.20% | ~32 |
 | Points Victory | 0.20% | ~32 |
 | Win a Single Player Game | 0.20% | ~32 |
-| The Clergy | 0.20% | ~32 |
 | Centenarian | 0.10% | ~16 |
 | Alexander the Great | 0.10% | ~16 |
 | Lighthouse in Alexandria | 0.10% | ~16 |
@@ -220,7 +216,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ten Crowns | 0.10% | ~16 |
 | Industrial Progress | 0.10% | ~16 |
 | Dualism | 0.10% | ~16 |
+| Enlightenment | 0.10% | ~16 |
+| Gnosticism | 0.10% | ~16 |
 | Legalism | 0.10% | ~16 |
+| Mythology | 0.10% | ~16 |
 | Redemption | 0.10% | ~16 |
 | Revelation | 0.10% | ~16 |
 | Veneration | 0.10% | ~16 |
@@ -248,6 +247,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Free-For-All Game (>2 Players) | 0.10% | ~16 |
 | Win a Hotseat Game | 0.10% | ~16 |
 | Win a Network Game | 0.10% | ~16 |
+| The Clergy | 0.10% | ~16 |
 | Deposed Tribe | 0.10% | ~16 |
 | Five Cults | 0.10% | ~16 |
 | The Great Mage | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,998 (Ranked 165)  
+Progressed: 16,001 (Ranked 165)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -618,7 +618,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-26 | 15,966 | 5 |
 | 2023-12-27 | 15,978 | 5 |
 | 2023-12-28 | 15,997 | 5 |
-| 2023-12-29 | 15,998 | 5 |
+| 2023-12-29 | 16,001 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 284)  
 Sum: 1,911 (Ranked 220)  

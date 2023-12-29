@@ -1,42 +1,42 @@
 # Train Valley 2
 [Store](https://store.epicgames.com/en-US/p/train-valley-2-3606da)  
 [View Rawdata](../../db/t/train_valley_2.json)  
-Rating: 4.45 (Ranked 683)  
+Rating: 4.45 (Ranked 684)  
 Number of Ratings: 87  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~312,433 |
-| Full garage | 61.00% | ~261,075 |
-| To the eyeballs! | 51.00% | ~218,275 |
-| Individual delivery | 47.00% | ~201,156 |
-| Non-Stop | 45.00% | ~192,596 |
-| Juggler | 36.00% | ~154,077 |
-| Forgot something | 35.00% | ~149,797 |
-| Close call! | 30.00% | ~128,397 |
-| Get out my way | 28.00% | ~119,837 |
-| Common cause | 26.00% | ~111,278 |
-| Critical care | 26.00% | ~111,278 |
-| Mega-railroad | 23.00% | ~98,438 |
-| Upgrade complete | 23.00% | ~98,438 |
-| Just in time! | 18.00% | ~77,038 |
-| Builder | 17.00% | ~72,758 |
-| Long Haul | 17.00% | ~72,646 |
-| Steam Age | 16.00% | ~68,479 |
-| Multilevel road | 15.00% | ~64,199 |
-| Bridgemania | 14.00% | ~59,919 |
-| Need to think | 14.00% | ~59,919 |
-| The Tortoise | 12.00% | ~51,359 |
-| Beginner | 11.00% | ~47,079 |
-| Without a lunch break | 11.00% | ~47,079 |
-| One way | 10.00% | ~42,799 |
-| Relocation | 10.00% | ~42,799 |
-| Industrial Age | 9.00% | ~38,519 |
-| Just One More Valley | 9.00% | ~38,460 |
-| Prick of conscience | 8.00% | ~34,239 |
-| Missed it! | 7.00% | ~29,959 |
-| At the last moment! | 6.00% | ~25,679 |
-| Overseer | 6.00% | ~25,679 |
+| Dealmaker | 73.00% | ~312,444 |
+| Full garage | 61.00% | ~261,084 |
+| To the eyeballs! | 51.00% | ~218,283 |
+| Individual delivery | 47.00% | ~201,163 |
+| Non-Stop | 45.00% | ~192,603 |
+| Juggler | 36.00% | ~154,082 |
+| Forgot something | 35.00% | ~149,802 |
+| Close call! | 30.00% | ~128,402 |
+| Get out my way | 28.00% | ~119,842 |
+| Common cause | 26.00% | ~111,282 |
+| Critical care | 26.00% | ~111,282 |
+| Mega-railroad | 23.00% | ~98,441 |
+| Upgrade complete | 23.00% | ~98,441 |
+| Just in time! | 18.00% | ~77,041 |
+| Builder | 17.00% | ~72,761 |
+| Long Haul | 17.00% | ~72,649 |
+| Steam Age | 16.00% | ~68,481 |
+| Multilevel road | 15.00% | ~64,201 |
+| Bridgemania | 14.00% | ~59,921 |
+| Need to think | 14.00% | ~59,921 |
+| The Tortoise | 12.00% | ~51,361 |
+| Beginner | 11.00% | ~47,081 |
+| Without a lunch break | 11.00% | ~47,081 |
+| One way | 10.00% | ~42,801 |
+| Relocation | 10.00% | ~42,801 |
+| Industrial Age | 9.00% | ~38,521 |
+| Just One More Valley | 9.00% | ~38,461 |
+| Prick of conscience | 8.00% | ~34,240 |
+| Missed it! | 7.00% | ~29,960 |
+| At the last moment! | 6.00% | ~25,680 |
+| Overseer | 6.00% | ~25,680 |
 | Highlander | 5.00% | ~21,400 |
 | Jewelry accuracy | 5.00% | ~21,400 |
 | Stargazer | 5.00% | ~21,400 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~427 |
 | World Zapper | 0.10% | ~427 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 427,991 (Ranked 45)  
+Progressed: 428,006 (Ranked 45)  
 Completed: 24 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 24 (0.01%) (Ranked 367)
 | 2023-12-26 | 427,220 | 23 |
 | 2023-12-27 | 427,557 | 23 |
 | 2023-12-28 | 427,885 | 24 |
-| 2023-12-29 | 427,991 | 24 |
+| 2023-12-29 | 428,006 | 24 |
 ## Awards
 Max (Challenging Puzzles): 998  (Ranked 159)  
 Sum: 2,067 (Ranked 215)  

@@ -1,32 +1,32 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 397)  
+Rating: 4.61 (Ranked 398)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~25,697 |
-| Exploitative | 4.00% | ~20,558 |
-| Point Shooting | 4.00% | ~20,558 |
-| Wet Feet | 4.00% | ~20,558 |
-| High Speed Low Drag | 3.00% | ~15,418 |
-| Lucky | 3.00% | ~15,418 |
-| Stylin' | 3.00% | ~15,418 |
-| Turf War | 3.00% | ~15,418 |
+| Wallbanger | 5.00% | ~25,699 |
+| Exploitative | 4.00% | ~20,559 |
+| Point Shooting | 4.00% | ~20,559 |
+| Wet Feet | 4.00% | ~20,559 |
+| High Speed Low Drag | 3.00% | ~15,419 |
+| Lucky | 3.00% | ~15,419 |
+| Stylin' | 3.00% | ~15,419 |
+| Turf War | 3.00% | ~15,419 |
 | Banged | 2.00% | ~10,279 |
 | Checkpoint Victory | 2.00% | ~10,279 |
 | First Blood | 2.00% | ~10,279 |
 | Flaccid Paralysis | 2.00% | ~10,279 |
 | Push Victory | 2.00% | ~10,279 |
 | Self-destructive | 2.00% | ~10,279 |
-| Blindfire | 1.00% | ~5,139 |
-| Ruthless | 1.00% | ~5,139 |
-| Semper Paratus | 1.00% | ~5,139 |
-| Carrying | 0.90% | ~4,625 |
-| Efficient | 0.90% | ~4,625 |
-| Mount & Gun | 0.90% | ~4,625 |
-| Personal | 0.90% | ~4,625 |
+| Blindfire | 1.00% | ~5,140 |
+| Ruthless | 1.00% | ~5,140 |
+| Semper Paratus | 1.00% | ~5,140 |
+| Carrying | 0.90% | ~4,626 |
+| Efficient | 0.90% | ~4,626 |
+| Mount & Gun | 0.90% | ~4,626 |
+| Personal | 0.90% | ~4,626 |
 | Grounded | 0.80% | ~4,112 |
 | Play to Win | 0.80% | ~4,112 |
 | Special Delivery | 0.70% | ~3,598 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~514 |
 | Road Hazard | 0.10% | ~514 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 513,943 (Ranked 37)  
+Progressed: 513,973 (Ranked 37)  
 Completed: 2 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,11 +295,11 @@ Completed: 2 (0.00%) (Ranked 389)
 | 2023-12-26 | 511,880 | 2 |
 | 2023-12-27 | 512,843 | 2 |
 | 2023-12-28 | 513,607 | 2 |
-| 2023-12-29 | 513,943 | 2 |
+| 2023-12-29 | 513,973 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 413  (Ranked 236)  
-Sum: 3,295 (Ranked 178)  
-Diff (max vs sum): 58  
+Sum: 3,296 (Ranked 177)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 413 |
@@ -307,7 +307,7 @@ Diff (max vs sum): 58
 | This game is Extremely Fun | 382 |
 | This game has Competitive Players | 380 |
 | This game is Highly Recommended | 365 |
-| This game has Realistic Visuals | 354 |
+| This game has Realistic Visuals | 355 |
 | This game has Amazing Characters | 348 |
 | This game has Amazing Storytelling | 337 |
 | This game has a Competitive Community | 310 |
@@ -638,4 +638,4 @@ Diff (max vs sum): 58
 | 2023-12-26 | 4.61 | - | 413 | 3,287 |
 | 2023-12-27 | 4.61 | - | 413 | 3,292 |
 | 2023-12-28 | 4.61 | - | 413 | 3,294 |
-| 2023-12-29 | 4.61 | - | 413 | 3,295 |
+| 2023-12-29 | 4.61 | - | 413 | 3,296 |

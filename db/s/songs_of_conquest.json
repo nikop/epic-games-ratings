@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 822,
+  "EOS_Progressed": 825,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3045,6 +3045,11 @@
       "Time": "2023-12-29T08:08:48.2824148+00:00",
       "NumProgressed": 822,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T11:09:03.5133533+00:00",
+      "NumProgressed": 825,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3081,7 +3086,7 @@
       "Name": "Dressed For Success",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "AttackCount",
@@ -3201,7 +3206,7 @@
       "Name": "Double Kill",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 314
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3231,9 +3236,9 @@
       "ID": "InfernalInfluence",
       "SetID": "71c0n9i",
       "Name": "Infernal Influence",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "KillingSpree",
@@ -3247,7 +3252,7 @@
       "ID": "LothCampaign",
       "SetID": "71c0n9i",
       "Name": "Together For Her",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -3297,7 +3302,7 @@
       "Name": "Whoops!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "RanaCampaign",
@@ -3361,7 +3366,7 @@
       "Name": "Landlord Extraordinaire",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "TrojanHorse",
@@ -3383,9 +3388,9 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 370
+      "UsersEstimate": 363
     },
     {
       "ID": "WielderLevel2",
@@ -3488,15 +3493,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 822,
+      "Progressed": 825,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2023-12-29T10:08:46.0901101+00:00",
+  "LastChanged_Achievements": "2023-12-29T11:09:03.5133531+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.1217697+00:00",
-  "LastUpdate_Ratings": "2023-12-29T09:58:53.6013914+00:00",
-  "LastUpdate_Achievements": "2023-12-29T10:08:46.0901599+00:00"
+  "LastUpdate_Ratings": "2023-12-29T10:58:39.2187032+00:00",
+  "LastUpdate_Achievements": "2023-12-29T11:09:03.5133994+00:00"
 }

@@ -9,9 +9,9 @@
 | Not alone | 61.00% | ~90 |
 | Hunger | 52.00% | ~76 |
 | Awaken | 42.00% | ~62 |
-| Path of Corruption | 32.00% | ~47 |
+| Path of Corruption | 33.00% | ~49 |
 | Rage | 29.00% | ~43 |
-| Hope | 27.00% | ~40 |
+| Hope | 28.00% | ~41 |
 | Path of Pain | 22.00% | ~32 |
 | Mayhem | 18.00% | ~26 |
 | Reflections | 17.00% | ~25 |

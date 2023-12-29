@@ -45,8 +45,8 @@
 | Full Scoop | 2.00% | ~4 |
 | Preferred Parent | 2.00% | ~4 |
 | A Mosaic of Misery | 2.00% | ~4 |
+| The Big Picture | 1.00% | ~2 |
 | Sword of the Serpent | 1.00% | ~2 |
-| The Big Picture | 0.90% | ~2 |
 | In One Take | 0.90% | ~2 |
 | Rocket Science | 0.90% | ~2 |
 | You Can’t Handle the Truth | 0.40% | ~1 |

@@ -2202,9 +2202,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15998,
+  "EOS_Progressed": 16001,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18517,6 +18517,11 @@
       "Time": "2023-12-29T10:09:56.3658325+00:00",
       "NumProgressed": 15998,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-29T11:10:14.208989+00:00",
+      "NumProgressed": 16001,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20494,17 +20499,17 @@
       "ID": "ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT",
       "SetID": "7l38kb8",
       "Name": "Enlightenment",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
       "SetID": "7l38kb8",
       "Name": "Gnosticism",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
@@ -20518,9 +20523,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_MYTHOLOGY",
       "SetID": "7l38kb8",
       "Name": "Mythology",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_REDEMPTION",
@@ -20806,9 +20811,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT",
       "SetID": "9201eeb",
       "Name": "The Clergy",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
@@ -21391,21 +21396,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15998,
+      "Progressed": 16001,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15998,
+      "Progressed": 16001,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-27T17:03:20.9753221+00:00",
-  "LastChanged_Achievements": "2023-12-29T10:09:56.3658322+00:00",
+  "LastChanged_Achievements": "2023-12-29T11:10:14.2089888+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:47.5878363+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:02:58.4064278+00:00",
-  "LastUpdate_Achievements": "2023-12-29T10:09:56.3668046+00:00"
+  "LastUpdate_Ratings": "2023-12-29T11:02:55.9579742+00:00",
+  "LastUpdate_Achievements": "2023-12-29T11:10:14.2100169+00:00"
 }

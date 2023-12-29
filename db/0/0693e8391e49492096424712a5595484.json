@@ -2813,9 +2813,9 @@
       "ID": "Drunkard",
       "SetID": "db30heh",
       "Name": "Drunkard",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 177
+      "UsersEstimate": 183
     },
     {
       "ID": "DwarDevil",
@@ -3060,8 +3060,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-29T10:04:26.8985056+00:00",
+  "LastChanged_Achievements": "2023-12-29T11:04:25.1998652+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:22.002955+00:00",
-  "LastUpdate_Ratings": "2023-12-29T09:59:21.9550279+00:00",
-  "LastUpdate_Achievements": "2023-12-29T10:04:26.8985453+00:00"
+  "LastUpdate_Ratings": "2023-12-29T10:59:08.0484671+00:00",
+  "LastUpdate_Achievements": "2023-12-29T11:04:25.1998939+00:00"
 }

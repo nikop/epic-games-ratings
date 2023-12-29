@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_NewPlayers": 425,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 793,
+  "EOS_Progressed": 794,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
@@ -1081,6 +1081,11 @@
       "Time": "2023-12-28T16:05:48.1914397+00:00",
       "NumProgressed": 793,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T11:05:42.6113618+00:00",
+      "NumProgressed": 794,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -1116,7 +1121,7 @@
       "Name": "All Seats Taken",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "Achievement_AxelInSpace",
@@ -1164,7 +1169,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "Achievement_DustToDust",
@@ -1212,7 +1217,7 @@
       "Name": "First of April",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Achievement_FixItFelix",
@@ -1220,7 +1225,7 @@
       "Name": "Fix-It Felix",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Achievement_ForScience",
@@ -1236,7 +1241,7 @@
       "Name": "Friendzone",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -1268,7 +1273,7 @@
       "Name": "Hello World",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "Achievement_Improvinator",
@@ -1284,7 +1289,7 @@
       "Name": "Intergalactic Breakup",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Achievement_KIA",
@@ -1314,9 +1319,9 @@
       "ID": "Achievement_MeetThePetersons",
       "SetID": "c01p6e5",
       "Name": "Meet the Petersons",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 254
     },
     {
       "ID": "Achievement_MutinyInMaking",
@@ -1324,7 +1329,7 @@
       "Name": "Mutiny in making",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Achievement_Muttnik",
@@ -1356,7 +1361,7 @@
       "Name": "Second Life",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Achievement_SmallStep",
@@ -1380,7 +1385,7 @@
       "Name": "Space Colonization",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -1388,7 +1393,7 @@
       "Name": "Space Engineer",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -1443,7 +1448,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 793,
+      "Progressed": 794,
       "Completed": 1
     }
   ],
@@ -1451,8 +1456,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-12-29T10:05:43.1059264+00:00",
+  "LastChanged_Achievements": "2023-12-29T11:05:42.6113614+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:03.241152+00:00",
-  "LastUpdate_Ratings": "2023-12-29T09:57:35.9253369+00:00",
-  "LastUpdate_Achievements": "2023-12-29T10:05:43.10598+00:00"
+  "LastUpdate_Ratings": "2023-12-29T10:57:21.6552096+00:00",
+  "LastUpdate_Achievements": "2023-12-29T11:05:42.6114056+00:00"
 }

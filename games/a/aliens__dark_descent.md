@@ -1,57 +1,57 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.52 (Ranked 568)  
+Rating: 4.53 (Ranked 558)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~4,137 |
-| Keep 'Em Coming | 66.00% | ~3,546 |
-| Snatched Out | 65.00% | ~3,492 |
-| Cleaning Lethe, One Nest At A Time | 59.00% | ~3,170 |
-| Call Me Snake | 55.00% | ~2,955 |
-| Something Lurks Under The Hills | 54.00% | ~2,901 |
-| This Was No Papercut | 51.00% | ~2,740 |
-| The Shrink Hates Me | 49.00% | ~2,633 |
-| People Person | 48.00% | ~2,579 |
-| Use The Bumper, That's What It's For | 45.00% | ~2,418 |
-| First Steps Into Madness | 45.00% | ~2,418 |
-| Colonial Barrels | 43.00% | ~2,310 |
-| Harper's Hell | 39.00% | ~2,095 |
-| Making a Stand | 38.00% | ~2,042 |
-| Damn Dude, You Gotta Lose Some Weight! | 36.00% | ~1,934 |
-| Where It All Begun | 34.00% | ~1,827 |
-| Recouped Investment | 32.00% | ~1,719 |
-| Living Nightmare | 28.00% | ~1,504 |
-| The More The Merrier | 28.00% | ~1,504 |
-| Omelette Du Fromage | 27.00% | ~1,451 |
-| The Darwin Era Was Here | 25.00% | ~1,343 |
-| Deep Into Insanity | 23.00% | ~1,236 |
-| The Passenger | 23.00% | ~1,236 |
-| Come on, You Wanna Live Forever? | 22.00% | ~1,182 |
-| The Spire | 21.00% | ~1,128 |
+| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~4,140 |
+| Keep 'Em Coming | 66.00% | ~3,549 |
+| Snatched Out | 65.00% | ~3,495 |
+| Cleaning Lethe, One Nest At A Time | 59.00% | ~3,172 |
+| Call Me Snake | 55.00% | ~2,957 |
+| Something Lurks Under The Hills | 54.00% | ~2,904 |
+| This Was No Papercut | 51.00% | ~2,742 |
+| The Shrink Hates Me | 49.00% | ~2,635 |
+| People Person | 48.00% | ~2,581 |
+| Use The Bumper, That's What It's For | 45.00% | ~2,420 |
+| First Steps Into Madness | 45.00% | ~2,420 |
+| Colonial Barrels | 43.00% | ~2,312 |
+| Harper's Hell | 39.00% | ~2,097 |
+| Making a Stand | 38.00% | ~2,043 |
+| Damn Dude, You Gotta Lose Some Weight! | 36.00% | ~1,936 |
+| Where It All Begun | 34.00% | ~1,828 |
+| Recouped Investment | 32.00% | ~1,721 |
+| Living Nightmare | 28.00% | ~1,506 |
+| The More The Merrier | 28.00% | ~1,506 |
+| Omelette Du Fromage | 27.00% | ~1,452 |
+| The Darwin Era Was Here | 25.00% | ~1,344 |
+| Deep Into Insanity | 23.00% | ~1,237 |
+| The Passenger | 23.00% | ~1,237 |
+| Come on, You Wanna Live Forever? | 22.00% | ~1,183 |
+| The Spire | 21.00% | ~1,129 |
 | El Riesgo Siempre Vive | 20.00% | ~1,075 |
-| Stuff Of Nightmares | 19.00% | ~1,021 |
-| Excavating The Truth | 19.00% | ~1,021 |
-| Abysmal Horrors | 18.00% | ~967 |
-| One For Every Occasion | 17.00% | ~913 |
-| Frontliner | 17.00% | ~913 |
-| The Cable Guy | 17.00% | ~913 |
+| Stuff Of Nightmares | 19.00% | ~1,022 |
+| Excavating The Truth | 19.00% | ~1,022 |
+| Abysmal Horrors | 18.00% | ~968 |
+| One For Every Occasion | 17.00% | ~914 |
+| Frontliner | 17.00% | ~914 |
+| The Cable Guy | 17.00% | ~914 |
 | Bandage Lover | 16.00% | ~860 |
-| Regicide | 13.00% | ~698 |
+| Regicide | 13.00% | ~699 |
 | This Went Smoothly | 12.00% | ~645 |
 | Flawless Victory | 11.00% | ~591 |
 | Heavy Steps | 11.00% | ~591 |
 | Perfect Enhancements | 8.00% | ~430 |
-| Hardened In The Heat Of Battle | 6.00% | ~322 |
+| Hardened In The Heat Of Battle | 6.00% | ~323 |
 | The True Experience | 5.00% | ~269 |
-| Fair And Square | 2.00% | ~107 |
+| Fair And Square | 2.00% | ~108 |
 | Archivist | 1.00% | ~54 |
 | Perfect Organism | 0.70% | ~38 |
 | This Ain't No Picnic | 0.60% | ~32 |
 | Chalk It Up To Experience | 0.60% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,373 (Ranked 200)  
+Progressed: 5,377 (Ranked 200)  
 Completed: 3 (0.06%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,14 +237,14 @@ Completed: 3 (0.06%) (Ranked 328)
 | 2023-12-26 | 5,230 | 3 |
 | 2023-12-27 | 5,297 | 3 |
 | 2023-12-28 | 5,348 | 3 |
-| 2023-12-29 | 5,373 | 3 |
+| 2023-12-29 | 5,377 | 3 |
 ## Awards
-Max (Great Boss Battles): 52  (Ranked 439)  
-Sum: 52 (Ranked 494)  
-Diff (max vs sum): -55  
+Max (Great Boss Battles): 54  (Ranked 436)  
+Sum: 54 (Ranked 493)  
+Diff (max vs sum): -57  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 52 |
+| This game has Great Boss Battles | 54 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -321,3 +321,4 @@ Diff (max vs sum): -55
 | 2023-12-26 | 4.55 | 51 | 51 |
 | 2023-12-27 | 4.54 | 52 | 52 |
 | 2023-12-28 | 4.52 | 52 | 52 |
+| 2023-12-29 | 4.53 | 54 | 54 |

@@ -1,22 +1,22 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.11 (Ranked 995)  
+Rating: 4.11 (Ranked 996)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 11.00% | ~5,012 |
+| Attachments | 11.00% | ~5,013 |
 | Unlocked Potential | 10.00% | ~4,557 |
-| Tinkerer | 8.00% | ~3,645 |
+| Tinkerer | 8.00% | ~3,646 |
 | Leapfrogger | 7.00% | ~3,190 |
 | Knock 'Em Dead | 7.00% | ~3,190 |
 | Pilgrimage: Initiate | 7.00% | ~3,190 |
 | Hell of a Run | 7.00% | ~3,190 |
 | Call of the Fount: Baptized | 6.00% | ~2,734 |
-| Stuck | 5.00% | ~2,278 |
-| No Mercy | 5.00% | ~2,278 |
-| Explorer: Seeker | 5.00% | ~2,278 |
-| Help Me Out Here | 5.00% | ~2,278 |
+| Stuck | 5.00% | ~2,279 |
+| No Mercy | 5.00% | ~2,279 |
+| Explorer: Seeker | 5.00% | ~2,279 |
+| Help Me Out Here | 5.00% | ~2,279 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,823 |
 | Outdoorsperson | 3.00% | ~1,367 |
 | The Interloper | 3.00% | ~1,367 |
@@ -59,7 +59,7 @@ Rating: 4.11 (Ranked 995)
 | Remembrance | 0.10% | ~46 |
 | Cat Person | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,568 (Ranked 122)  
+Progressed: 45,572 (Ranked 122)  
 Completed: 3 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 3 (0.01%) (Ranked 367)
 | 2023-12-26 | 45,329 | 3 |
 | 2023-12-27 | 45,433 | 3 |
 | 2023-12-28 | 45,528 | 3 |
-| 2023-12-29 | 45,568 | 3 |
+| 2023-12-29 | 45,572 | 3 |
 ## Awards
 Max (Character Customization): 33  (Ranked 506)  
 Sum: 33 (Ranked 529)  

@@ -2,12 +2,12 @@
   "ID": "fb76c816bb054fc8be57dc49f1600843",
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
-  "Ranking_Rating": 499,
+  "Ranking_Rating": 500,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -4364,9 +4364,9 @@
       "ID": "GetRangedWeapon",
       "SetID": "9lj35g4",
       "Name": "Ranged Weapon",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "GetTHWeapon",
@@ -4388,9 +4388,9 @@
       "ID": "Kill25Frogs",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Frogs",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "Kill25Mozi",
@@ -4523,8 +4523,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-23T19:58:55.6551134+00:00",
-  "LastChanged_Achievements": "2023-12-29T10:03:51.9346132+00:00",
+  "LastChanged_Achievements": "2023-12-29T11:03:50.8391406+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:15.2928033+00:00",
-  "LastUpdate_Ratings": "2023-12-29T09:57:19.3660712+00:00",
-  "LastUpdate_Achievements": "2023-12-29T10:03:51.9346477+00:00"
+  "LastUpdate_Ratings": "2023-12-29T10:57:05.0435761+00:00",
+  "LastUpdate_Achievements": "2023-12-29T11:03:50.8391859+00:00"
 }

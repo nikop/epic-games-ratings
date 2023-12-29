@@ -4,7 +4,7 @@
   "ProductSlug": "last-labyrinth-5aed27",
   "Ranking_EOS_Progress": 584,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 459,
+  "Ranking_EOS_NewPlayers": 461,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-06-21T04:00:00+00:00",
@@ -436,9 +436,9 @@
       "ID": "ClearTE05",
       "SetID": "94lmepd",
       "Name": "Seventh Tale",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ClearTE06",
@@ -475,8 +475,8 @@
   ],
   "FirstSeen": "2023-09-11T06:01:10.0585097+00:00",
   "FirstSeenAchievements": "2023-05-25T04:01:22.7183097+00:00",
-  "LastChanged_Achievements": "2023-12-29T10:03:20.4541891+00:00",
+  "LastChanged_Achievements": "2023-12-29T11:03:19.4252038+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.3125496+00:00",
-  "LastUpdate_Ratings": "2023-12-29T09:57:46.1664282+00:00",
-  "LastUpdate_Achievements": "2023-12-29T10:03:20.4545545+00:00"
+  "LastUpdate_Ratings": "2023-12-29T10:57:31.5596927+00:00",
+  "LastUpdate_Achievements": "2023-12-29T11:03:19.4252285+00:00"
 }

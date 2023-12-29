@@ -1,21 +1,21 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.45 (Ranked 683)  
+Rating: 4.45 (Ranked 684)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,947 |
+| Meeting Resistance | 47.00% | ~1,948 |
 | Confirming Suspicions | 42.00% | ~1,740 |
 | The Kraken Wakes | 37.00% | ~1,533 |
 | It's Starting to Crack | 34.00% | ~1,409 |
 | Change the Channel | 32.00% | ~1,326 |
-| Lord of War | 31.00% | ~1,284 |
-| Taking it back | 29.00% | ~1,201 |
+| Lord of War | 31.00% | ~1,285 |
+| Taking it back | 29.00% | ~1,202 |
 | Resourceful | 28.00% | ~1,160 |
 | Target America | 27.00% | ~1,119 |
 | The Kraken Sleeps | 25.00% | ~1,036 |
-| As Quiet as a Mouse | 24.00% | ~994 |
+| As Quiet as a Mouse | 24.00% | ~995 |
 | Liberté | 23.00% | ~953 |
 | Organ Grinder | 23.00% | ~953 |
 | Sharpshooter | 23.00% | ~953 |
@@ -26,9 +26,9 @@ Rating: 4.45 (Ranked 683)
 | Der Geist | 17.00% | ~704 |
 | Close Quarters | 16.00% | ~663 |
 | Snake in the Grass | 16.00% | ~663 |
-| Skirmisher | 15.00% | ~621 |
-| Die Nussknacker Sweet! | 15.00% | ~621 |
-| Brains of the Operation | 15.00% | ~621 |
+| Skirmisher | 15.00% | ~622 |
+| Die Nussknacker Sweet! | 15.00% | ~622 |
+| Brains of the Operation | 15.00% | ~622 |
 | No Stone Unturned | 14.00% | ~580 |
 | Opposing Force | 14.00% | ~580 |
 | Enemy at the Gates | 14.00% | ~580 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 683)
 | Stroll in the Woods | 0.60% | ~25 |
 | Going Overboard | 0.60% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,143 (Ranked 208)  
+Progressed: 4,144 (Ranked 208)  
 Completed: 11 (0.27%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,6 +328,7 @@ Completed: 11 (0.27%) (Ranked 258)
 | 2023-12-26 | 4,128 | 11 |
 | 2023-12-27 | 4,137 | 11 |
 | 2023-12-28 | 4,143 | 11 |
+| 2023-12-29 | 4,144 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 525)  
 Sum: 28 (Ranked 540)  

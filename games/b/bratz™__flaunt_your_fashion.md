@@ -13,8 +13,8 @@
 | Roller Race | 38.00% | ~46 |
 | Stilesville Hidden Style | 31.00% | ~38 |
 | Creating New Trends | 28.00% | ~34 |
+| Best Gala Ever | 27.00% | ~33 |
 | Welcome to the The Stylin' Soiree | 27.00% | ~33 |
-| Best Gala Ever | 26.00% | ~32 |
 | Scooter Race | 25.00% | ~30 |
 | Barcelona Hidden Style | 19.00% | ~23 |
 | Seoul Hidden Style | 16.00% | ~20 |

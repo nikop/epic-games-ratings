@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 91.00% | ~2,997 |
-| Spectre Inductee | 67.00% | ~2,206 |
-| Medal of Exploration I | 57.00% | ~1,877 |
-| Recruit | 52.00% | ~1,712 |
-| Search and Rescue | 52.00% | ~1,712 |
-| Quarian Ally | 50.00% | ~1,646 |
-| Medal of Heroism | 44.00% | ~1,449 |
-| Honorarium of Corporate Service | 44.00% | ~1,449 |
-| Turian Ally | 41.00% | ~1,350 |
-| Medal of Exploration II | 39.00% | ~1,284 |
-| Council Legion of Merit | 38.00% | ~1,251 |
-| Soldier Ally | 36.00% | ~1,185 |
+| Distinguished Service Medal | 91.00% | ~2,998 |
+| Spectre Inductee | 67.00% | ~2,208 |
+| Medal of Exploration I | 57.00% | ~1,878 |
+| Recruit | 52.00% | ~1,713 |
+| Search and Rescue | 52.00% | ~1,713 |
+| Quarian Ally | 50.00% | ~1,648 |
+| Medal of Heroism | 44.00% | ~1,450 |
+| Honorarium of Corporate Service | 44.00% | ~1,450 |
+| Turian Ally | 41.00% | ~1,351 |
+| Medal of Exploration II | 39.00% | ~1,285 |
+| Council Legion of Merit | 38.00% | ~1,252 |
+| Soldier Ally | 36.00% | ~1,186 |
 | Medal of Honor | 35.00% | ~1,153 |
 | Soldier | 35.00% | ~1,153 |
 | Meritorious Service Medal | 35.00% | ~1,153 |
@@ -31,24 +31,24 @@
 | Scientist | 31.00% | ~1,021 |
 | Paramour I | 30.00% | ~988 |
 | Merciless | 30.00% | ~988 |
-| Scholar | 29.00% | ~955 |
-| The Archangel | 28.00% | ~922 |
-| The Professor | 28.00% | ~922 |
-| Head Hunter | 28.00% | ~922 |
-| Operative | 27.00% | ~889 |
-| The Convict | 26.00% | ~856 |
-| Power Full | 26.00% | ~856 |
-| Colony Defense | 25.00% | ~823 |
-| The Krogan | 25.00% | ~823 |
-| Veteran | 24.00% | ~790 |
-| Broke, Blind, and Bedlam | 24.00% | ~790 |
-| Driven | 23.00% | ~757 |
-| Archivist | 22.00% | ~724 |
-| Ghost Ship | 22.00% | ~724 |
-| The Assassin | 22.00% | ~724 |
-| The Justicar | 22.00% | ~724 |
-| The Quarian | 22.00% | ~724 |
-| Galactic Explorer | 22.00% | ~724 |
+| Scholar | 29.00% | ~956 |
+| The Archangel | 28.00% | ~923 |
+| The Professor | 28.00% | ~923 |
+| Head Hunter | 28.00% | ~923 |
+| Operative | 27.00% | ~890 |
+| The Convict | 26.00% | ~857 |
+| Power Full | 26.00% | ~857 |
+| Colony Defense | 25.00% | ~824 |
+| The Krogan | 25.00% | ~824 |
+| Veteran | 24.00% | ~791 |
+| Broke, Blind, and Bedlam | 24.00% | ~791 |
+| Driven | 23.00% | ~758 |
+| Archivist | 22.00% | ~725 |
+| Ghost Ship | 22.00% | ~725 |
+| The Assassin | 22.00% | ~725 |
+| The Justicar | 22.00% | ~725 |
+| The Quarian | 22.00% | ~725 |
+| Galactic Explorer | 22.00% | ~725 |
 | A Personal Touch | 21.00% | ~692 |
 | Catharsis | 21.00% | ~692 |
 | Ghost of the Father | 21.00% | ~692 |
@@ -79,10 +79,10 @@
 | Eye of the Hurricane | 17.00% | ~560 |
 | A House Divided | 17.00% | ~560 |
 | World Shaker | 17.00% | ~560 |
+| Liberator | 17.00% | ~560 |
 | Pathfinder | 16.00% | ~527 |
 | Tunnel Rat | 16.00% | ~527 |
 | Arbiter | 16.00% | ~527 |
-| Liberator | 16.00% | ~527 |
 | Savior | 15.00% | ~494 |
 | Weapon Specialist | 15.00% | ~494 |
 | Lost and Found | 15.00% | ~494 |
@@ -105,10 +105,10 @@
 | Sabotage Specialist | 11.00% | ~362 |
 | Throw Mastery | 11.00% | ~362 |
 | Legend | 11.00% | ~362 |
-| Long Service Medal | 10.00% | ~329 |
-| Mail Slot | 9.00% | ~296 |
-| Combined Arms | 8.00% | ~263 |
-| Warp Mastery | 8.00% | ~263 |
+| Long Service Medal | 10.00% | ~330 |
+| Mail Slot | 9.00% | ~297 |
+| Combined Arms | 8.00% | ~264 |
+| Warp Mastery | 8.00% | ~264 |
 | Barrier Mastery | 7.00% | ~231 |
 | Always Prepared | 7.00% | ~231 |
 | Bruiser | 7.00% | ~231 |
@@ -132,8 +132,8 @@
 | Neural Shock Specialist | 1.00% | ~33 |
 | The One and Only | 0.60% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,293 (Ranked 220)  
-Completed: 12 (0.36%) (Ranked 236)  
+Progressed: 3,295 (Ranked 220)  
+Completed: 12 (0.36%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -237,4 +237,4 @@ Completed: 12 (0.36%) (Ranked 236)
 | 2023-12-26 | 3,124 | 10 |
 | 2023-12-27 | 3,209 | 11 |
 | 2023-12-28 | 3,273 | 12 |
-| 2023-12-29 | 3,293 | 12 |
+| 2023-12-29 | 3,295 | 12 |

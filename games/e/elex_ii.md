@@ -1,7 +1,7 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.29 (Ranked 869)  
+Rating: 4.29 (Ranked 870)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -32,12 +32,12 @@ Number of Ratings: 124  (23.09.2022)
 | Alchemist | 3.00% | ~4 |
 | Idealist | 3.00% | ~4 |
 | Cleric | 3.00% | ~4 |
+| Perfectionist | 3.00% | ~4 |
 | Detective | 3.00% | ~4 |
 | Lover | 3.00% | ~4 |
 | Treasure Hunter | 2.00% | ~2 |
 | Beam Me Up | 2.00% | ~2 |
 | Morkon | 2.00% | ~2 |
-| Perfectionist | 2.00% | ~2 |
 | Hunter | 2.00% | ~2 |
 | Defector | 0.80% | ~1 |
 | Outlaw | 0.80% | ~1 |

@@ -2,9 +2,9 @@
   "ID": "6a50e1ce4d1a4666ba51e31a351b0947",
   "Name": "Breakout: Recharged",
   "ProductSlug": "breakout-recharged",
-  "Ranking_EOS_Progress": 459,
+  "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 459,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 131,
+  "EOS_Progressed": 132,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.29,
+  "EOS_Completed_Percentage": 2.27,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:23.2577147+00:00",
@@ -354,6 +354,11 @@
       "Time": "2023-12-28T07:09:29.6716736+00:00",
       "NumProgressed": 131,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T11:09:43.3679558+00:00",
+      "NumProgressed": 132,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -363,7 +368,7 @@
       "ID": "ACH_ANOTHER_BRICK_1",
       "SetID": "5kae3ip",
       "Name": "Another Brick in the Wall (Part 1)",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 20,
       "UsersEstimate": 86
     },
@@ -371,9 +376,9 @@
       "ID": "ACH_ANOTHER_BRICK_2",
       "SetID": "5kae3ip",
       "Name": "Another Brick in the Wall (Part 2)",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_ANOTHER_BRICK_3",
@@ -397,15 +402,15 @@
       "Name": "Biding My Time",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_BURNING_BRIDGES",
       "SetID": "5kae3ip",
       "Name": "Burning Bridges",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 31
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_CLUSTER_ONE",
@@ -413,7 +418,7 @@
       "Name": "Cluster One",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_COMFORTABLY_NUMB",
@@ -421,7 +426,7 @@
       "Name": "Comfortably Numb",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_DOGS_OF_WAR",
@@ -445,7 +450,7 @@
       "Name": "The Gunner\u0027s Dream",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_HIGH_HOPES",
@@ -453,7 +458,7 @@
       "Name": "High Hopes",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_KING_BEE",
@@ -469,7 +474,7 @@
       "Name": "The Last Few Bricks",
       "Percentage": 24,
       "XP": 75,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_WHAT_DO",
@@ -484,7 +489,7 @@
     {
       "ID": "5kae3ip",
       "IsBase": true,
-      "Progressed": 131,
+      "Progressed": 132,
       "Completed": 3
     }
   ],
@@ -492,8 +497,8 @@
   "FirstSeenRating": "2023-03-31T05:58:34.1207634+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:23.2577155+00:00",
   "LastChanged": "2023-03-31T05:58:34.1207635+00:00",
-  "LastChanged_Achievements": "2023-12-29T10:09:24.9732807+00:00",
+  "LastChanged_Achievements": "2023-12-29T11:09:43.3679555+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:01.048537+00:00",
-  "LastUpdate_Ratings": "2023-12-29T09:57:50.5257973+00:00",
-  "LastUpdate_Achievements": "2023-12-29T10:09:24.9732928+00:00"
+  "LastUpdate_Ratings": "2023-12-29T10:57:36.1517878+00:00",
+  "LastUpdate_Achievements": "2023-12-29T11:09:43.3679704+00:00"
 }

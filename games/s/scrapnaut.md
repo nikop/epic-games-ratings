@@ -1,7 +1,7 @@
 # Scrapnaut
 [Store](https://store.epicgames.com/en-US/p/scrapnaut)  
 [View Rawdata](../../db/s/scrapnaut.json)  
-Rating: 4.29 (Ranked 869)  
+Rating: 4.29 (Ranked 870)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -26,7 +26,7 @@ Number of Ratings: 38  (23.09.2022)
 | Advanced Survivalist | 18.00% | ~104 |
 | Master Of Technology | 16.00% | ~92 |
 | Treasure Hunter | 16.00% | ~92 |
-| Mythical Smelter | 13.00% | ~75 |
+| Mythical Smelter | 14.00% | ~81 |
 | Blacksmith | 12.00% | ~69 |
 | Master Of Management | 10.00% | ~58 |
 | Forest Lord | 10.00% | ~58 |
@@ -38,7 +38,7 @@ Number of Ratings: 38  (23.09.2022)
 | Forest Killer | 2.00% | ~12 |
 | Invincible | 0.50% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 575 (Ranked 331)  
+Progressed: 575 (Ranked 332)  
 Completed: 4 (0.70%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |

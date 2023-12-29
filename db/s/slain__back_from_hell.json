@@ -2,7 +2,7 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 879,
+  "Ranking_Rating": 880,
   "Ranking_Popularity": 343,
   "Ranking_PopularitySum": 446,
   "Ranking_EOS_Progress": 129,
@@ -250,9 +250,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 43021,
+  "EOS_Progressed": 43022,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 525,
+  "EOS_NewPlayers": 526,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -27695,6 +27695,11 @@
       "Time": "2023-12-29T10:05:12.4172572+00:00",
       "NumProgressed": 43021,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-29T11:05:11.558+00:00",
+      "NumProgressed": 43022,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -27714,7 +27719,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9034
+      "UsersEstimate": 9035
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -27937,7 +27942,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 43021,
+      "Progressed": 43022,
       "Completed": 30
     }
   ],
@@ -27945,8 +27950,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-18T19:58:40.3413682+00:00",
-  "LastChanged_Achievements": "2023-12-29T10:05:12.4172569+00:00",
+  "LastChanged_Achievements": "2023-12-29T11:05:11.5579999+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:31.7001832+00:00",
-  "LastUpdate_Ratings": "2023-12-29T09:57:28.8441166+00:00",
-  "LastUpdate_Achievements": "2023-12-29T10:05:12.4173943+00:00"
+  "LastUpdate_Ratings": "2023-12-29T10:57:14.6373465+00:00",
+  "LastUpdate_Achievements": "2023-12-29T11:05:11.5581115+00:00"
 }

@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3796,
+  "EOS_Progressed": 3797,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
@@ -6206,6 +6206,11 @@
       "Time": "2023-12-29T09:05:07.405621+00:00",
       "NumProgressed": 3796,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-29T11:05:04.4243071+00:00",
+      "NumProgressed": 3797,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -6281,7 +6286,7 @@
       "Name": "Starting as a duo",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -6289,7 +6294,7 @@
       "Name": "Stronger together",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "THE_END",
@@ -6313,14 +6318,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3796,
+      "Progressed": 3797,
       "Completed": 6
     }
   ],
@@ -6328,8 +6333,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-29T10:05:05.8406139+00:00",
+  "LastChanged_Achievements": "2023-12-29T11:05:04.4243008+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:05.8784684+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:00:18.831581+00:00",
-  "LastUpdate_Achievements": "2023-12-29T10:05:05.8406514+00:00"
+  "LastUpdate_Ratings": "2023-12-29T11:00:05.545152+00:00",
+  "LastUpdate_Achievements": "2023-12-29T11:05:04.4243453+00:00"
 }

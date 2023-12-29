@@ -2,12 +2,12 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 630,
+  "Ranking_Rating": 631,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238166,
+  "EOS_Progressed": 238170,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 607,
+  "EOS_NewPlayers": 611,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -26853,6 +26853,11 @@
       "Time": "2023-12-29T10:04:08.9999196+00:00",
       "NumProgressed": 238166,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-29T11:04:07.5258487+00:00",
+      "NumProgressed": 238170,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -26880,7 +26885,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 66686
+      "UsersEstimate": 66688
     },
     {
       "ID": "CENTAUR",
@@ -26888,7 +26893,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19053
+      "UsersEstimate": 19054
     },
     {
       "ID": "CHALLENGER",
@@ -26896,7 +26901,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 26198
+      "UsersEstimate": 26199
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -26928,7 +26933,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 19053
+      "UsersEstimate": 19054
     },
     {
       "ID": "FLAWLESS",
@@ -26952,7 +26957,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 47633
+      "UsersEstimate": 47634
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -26992,7 +26997,7 @@
       "Name": "MARID",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "NATURALBORNWINNER",
@@ -27000,7 +27005,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78595
+      "UsersEstimate": 78596
     },
     {
       "ID": "NOBUNAGA",
@@ -27128,22 +27133,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 97648
+      "UsersEstimate": 97650
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 238166,
+      "Progressed": 238170,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2023-12-29T10:04:08.9999194+00:00",
+  "LastChanged_Achievements": "2023-12-29T11:04:07.5258484+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:24.7134546+00:00",
-  "LastUpdate_Ratings": "2023-12-29T10:00:07.7617631+00:00",
-  "LastUpdate_Achievements": "2023-12-29T10:04:09.0000703+00:00"
+  "LastUpdate_Ratings": "2023-12-29T10:59:54.5092319+00:00",
+  "LastUpdate_Achievements": "2023-12-29T11:04:07.5259557+00:00"
 }

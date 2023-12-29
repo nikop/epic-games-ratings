@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 1016,
+  "Ranking_Rating": 1017,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 68,
@@ -9157,9 +9157,9 @@
       "Count": 3607
     }
   ],
-  "EOS_Progressed": 246612,
+  "EOS_Progressed": 246646,
   "EOS_Completed": 2575,
-  "EOS_NewPlayers": 3452,
+  "EOS_NewPlayers": 3473,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -37762,6 +37762,11 @@
       "Time": "2023-12-29T10:09:56.870666+00:00",
       "NumProgressed": 246612,
       "NumCompleted": 2575
+    },
+    {
+      "Time": "2023-12-29T11:10:15.0939149+00:00",
+      "NumProgressed": 246646,
+      "NumCompleted": 2575
     }
   ],
   "TotalAchievements": 546,
@@ -37773,7 +37778,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4932
+      "UsersEstimate": 4933
     },
     {
       "ID": "objective_completed_10",
@@ -38141,7 +38146,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1726
+      "UsersEstimate": 1727
     },
     {
       "ID": "objective_completed_110",
@@ -39453,7 +39458,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "objective_completed_35",
@@ -39637,7 +39642,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "objective_completed_40",
@@ -42077,7 +42082,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "objective_completed_1563",
@@ -42140,21 +42145,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 212886,
+      "Progressed": 212920,
       "Completed": 4087
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 246612,
+      "Progressed": 246646,
       "Completed": 2575
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-29T09:59:27.47412+00:00",
-  "LastChanged_Achievements": "2023-12-29T10:09:56.8706658+00:00",
+  "LastChanged_Achievements": "2023-12-29T11:10:15.0939146+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-29T09:59:27.474121+00:00",
-  "LastUpdate_Achievements": "2023-12-29T10:09:56.8729826+00:00"
+  "LastUpdate_Ratings": "2023-12-29T10:59:13.792508+00:00",
+  "LastUpdate_Achievements": "2023-12-29T11:10:15.0965047+00:00"
 }

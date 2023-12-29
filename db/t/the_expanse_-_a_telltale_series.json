@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 499,
+  "Ranking_Rating": 500,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 157,
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17710,
+  "EOS_Progressed": 17713,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 645,
+  "EOS_NewPlayers": 646,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15547,6 +15547,11 @@
       "Time": "2023-12-29T10:05:15.5895864+00:00",
       "NumProgressed": 17710,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-29T11:05:14.463693+00:00",
+      "NumProgressed": 17713,
+      "NumCompleted": 56
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15647,7 +15652,7 @@
       "Name": "Data Logger",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "20",
@@ -15687,7 +15692,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "25",
@@ -15735,7 +15740,7 @@
       "Name": "Captain Drummer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2125
+      "UsersEstimate": 2126
     },
     {
       "ID": "30",
@@ -15799,7 +15804,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "32",
@@ -15838,13 +15843,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17710,
+      "Progressed": 17713,
       "Completed": 56
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3664,
+      "Progressed": 3667,
       "Completed": 1102
     }
   ],
@@ -15852,8 +15857,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-27T06:00:51.7325186+00:00",
-  "LastChanged_Achievements": "2023-12-29T10:05:15.5895863+00:00",
+  "LastChanged_Achievements": "2023-12-29T11:05:14.4636927+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-29T09:00:47.9952043+00:00",
-  "LastUpdate_Achievements": "2023-12-29T10:05:15.5896613+00:00"
+  "LastUpdate_Ratings": "2023-12-29T10:56:59.9121098+00:00",
+  "LastUpdate_Achievements": "2023-12-29T11:05:14.4637902+00:00"
 }
