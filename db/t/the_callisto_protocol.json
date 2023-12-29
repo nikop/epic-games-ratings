@@ -2,13 +2,13 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 946,
+  "Ranking_Rating": 947,
   "Ranking_Popularity": 367,
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1889,9 +1889,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 19815,
+  "EOS_Progressed": 19819,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1310,
+  "EOS_NewPlayers": 1307,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -11614,6 +11614,11 @@
       "Time": "2023-12-29T03:09:37.771555+00:00",
       "NumProgressed": 19815,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-29T04:09:31.7587116+00:00",
+      "NumProgressed": 19819,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -11657,7 +11662,7 @@
       "Name": "Flesh Wound",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 3765
+      "UsersEstimate": 3766
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -11745,7 +11750,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -11753,7 +11758,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2972
+      "UsersEstimate": 2973
     },
     {
       "ID": "KILL_ROBOT",
@@ -11761,7 +11766,7 @@
       "Name": "Terminated",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1585
+      "UsersEstimate": 1586
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -11793,7 +11798,7 @@
       "Name": "Reforged",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2774
+      "UsersEstimate": 2775
     },
     {
       "ID": "PRINT_WEAPON",
@@ -11817,7 +11822,7 @@
       "Name": "The Outer Way",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3765
+      "UsersEstimate": 3766
     },
     {
       "ID": "STORY_ESCAPE",
@@ -11841,7 +11846,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "STORY_MINETOWN",
@@ -11865,7 +11870,7 @@
       "Name": "Crash Site",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "STORY_TOWER",
@@ -11881,7 +11886,7 @@
       "Name": "Power Up",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1585
+      "UsersEstimate": 1586
     },
     {
       "ID": "DISMEMBER_100",
@@ -11977,7 +11982,7 @@
       "Name": "Keep Fighting",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -12000,13 +12005,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 19815,
+      "Progressed": 19819,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 7741,
+      "Progressed": 7745,
       "Completed": 29
     }
   ],
@@ -12014,8 +12019,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-28T17:03:38.8993186+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:09:37.7715543+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:09:31.7587114+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3019969+00:00",
-  "LastUpdate_Ratings": "2023-12-29T03:03:11.4761484+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:09:37.7716354+00:00"
+  "LastUpdate_Ratings": "2023-12-29T04:03:07.9126987+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:09:31.7587884+00:00"
 }

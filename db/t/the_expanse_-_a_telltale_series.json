@@ -2,13 +2,13 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 498,
+  "Ranking_Rating": 499,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -307,7 +307,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17696,
+  "EOS_Progressed": 17698,
   "EOS_Completed": 56,
   "EOS_NewPlayers": 653,
   "EOS_NewCompleters": 10,
@@ -15517,6 +15517,11 @@
       "Time": "2023-12-29T03:05:02.4012512+00:00",
       "NumProgressed": 17696,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-29T04:05:03.3061387+00:00",
+      "NumProgressed": 17698,
+      "NumCompleted": 56
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15561,7 +15566,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2832
     },
     {
       "ID": "14",
@@ -15785,7 +15790,7 @@
       "Name": "Zen Master",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "34",
@@ -15793,7 +15798,7 @@
       "Name": "Master Negotiator",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "35",
@@ -15808,13 +15813,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17696,
+      "Progressed": 17698,
       "Completed": 56
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3650,
+      "Progressed": 3652,
       "Completed": 1101
     }
   ],
@@ -15822,8 +15827,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-27T06:00:51.7325186+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:05:02.4012506+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:05:03.3061384+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-29T03:00:28.3516355+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:05:02.4013395+00:00"
+  "LastUpdate_Ratings": "2023-12-29T04:02:35.2831536+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:05:03.3062112+00:00"
 }

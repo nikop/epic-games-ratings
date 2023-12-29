@@ -4,8 +4,8 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -2143,9 +2143,9 @@
       "ID": "first_job",
       "SetID": "69co12a",
       "Name": "Your first job",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 399
     },
     {
       "ID": "flash_bobo",
@@ -2263,9 +2263,9 @@
       "ID": "league_2",
       "SetID": "69co12a",
       "Name": "Champion \u2013 no way back",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 187
     },
     {
       "ID": "league_3",
@@ -2534,8 +2534,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:09:45.2183434+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:09:39.534011+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:13.9390464+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:58:05.8656435+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:09:45.2184025+00:00"
+  "LastUpdate_Ratings": "2023-12-29T03:58:09.639479+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:09:39.5340597+00:00"
 }

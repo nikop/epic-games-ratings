@@ -2,13 +2,13 @@
   "ID": "48e20c81667c4ff49c85dd79ac3a01b0",
   "Name": "Redfall",
   "ProductSlug": "redfall",
-  "Ranking_Rating": 1076,
+  "Ranking_Rating": 1077,
   "Ranking_Popularity": 569,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -327,9 +327,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2136,
+  "EOS_Progressed": 2138,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3532,6 +3532,11 @@
       "Time": "2023-12-29T00:03:35.8025745+00:00",
       "NumProgressed": 2136,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T04:03:48.0340621+00:00",
+      "NumProgressed": 2138,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3663,7 +3668,7 @@
       "Name": "Bad Wiring",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Achievement_018",
@@ -3799,7 +3804,7 @@
       "Name": "Catch and Release",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "Achievement_035",
@@ -4070,7 +4075,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2136,
+      "Progressed": 2138,
       "Completed": 0
     }
   ],
@@ -4078,8 +4083,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-28T23:57:36.8686406+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:03:49.0627772+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:03:48.0340617+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:45.1864069+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:58:04.1500254+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:03:49.0628479+00:00"
+  "LastUpdate_Ratings": "2023-12-29T03:58:07.8109108+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:03:48.0341332+00:00"
 }

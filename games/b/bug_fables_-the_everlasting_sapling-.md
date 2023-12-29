@@ -12,23 +12,23 @@
 | Chapter 4 Complete | 26.00% | ~27 |
 | Heavy Duty | 22.00% | ~23 |
 | Chapter 5 Complete | 21.00% | ~22 |
+| Chapter 6 Complete | 20.00% | ~21 |
 | The Truth | 20.00% | ~21 |
-| Chapter 6 Complete | 19.00% | ~20 |
 | Plant Enchanter | 19.00% | ~20 |
 | Reconciliation | 19.00% | ~20 |
 | Always Watchful | 18.00% | ~19 |
 | Chapter 7 Complete | 18.00% | ~19 |
 | Bounty Hunter | 16.00% | ~17 |
 | The Terror | 16.00% | ~17 |
+| All Geared Up | 13.00% | ~14 |
 | Battle Ready | 13.00% | ~14 |
-| All Geared Up | 12.00% | ~13 |
 | The End | 12.00% | ~13 |
 | Good Deed | 12.00% | ~13 |
+| Pro Explorers | 10.00% | ~10 |
 | Music Collector | 10.00% | ~10 |
 | Ultimate Team! | 10.00% | ~10 |
 | Gamer | 9.00% | ~9 |
 | Cooking Maestro | 9.00% | ~9 |
-| Pro Explorers | 9.00% | ~9 |
 | Field Researcher | 8.00% | ~8 |
 | Helping Hand | 8.00% | ~8 |
 | Medal Collector | 5.00% | ~5 |

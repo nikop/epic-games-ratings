@@ -1,16 +1,16 @@
 # Tortuga - A Pirate's Tale
 [Store](https://store.epicgames.com/en-US/p/tortuga-a-pirates-tale-e02635)  
 [View Rawdata](../../db/t/tortuga_-_a_pirate's_tale.json)  
-Rating: 3.80 (Ranked 1,068)  
+Rating: 3.80 (Ranked 1,069)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eeligally Ambitious | 95.00% | ~16,482 |
 | No Half Measures | 87.00% | ~15,094 |
-| Personal Matter | 86.00% | ~14,920 |
-| But You Have Heard of Me | 72.00% | ~12,491 |
-| Double the Barrels, double the Fun | 54.00% | ~9,368 |
-| Pimp My Glide | 49.00% | ~8,501 |
+| Personal Matter | 86.00% | ~14,921 |
+| But You Have Heard of Me | 72.00% | ~12,492 |
+| Double the Barrels, double the Fun | 54.00% | ~9,369 |
+| Pimp My Glide | 49.00% | ~8,502 |
 | ... And Where Do the Stories Come From? | 40.00% | ~6,940 |
 | House Party! | 35.00% | ~6,072 |
 | Make It Rain | 23.00% | ~3,990 |
@@ -21,10 +21,10 @@ Rating: 3.80 (Ranked 1,068)
 | Sharing Is Caring | 10.00% | ~1,735 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,388 |
 | Morally Flexible | 6.00% | ~1,041 |
-| Fishing for Compliments | 5.00% | ~867 |
+| Fishing for Compliments | 5.00% | ~868 |
 | After All, Why Shouldn't I Keep It? | 3.00% | ~520 |
 | A True Dandy | 2.00% | ~347 |
-| A New Legend Awaits | 1.00% | ~173 |
+| A New Legend Awaits | 1.00% | ~174 |
 | Pirate King | 0.90% | ~156 |
 | Oooh, We're Half Way There | 0.80% | ~139 |
 | O Captain! My Captain! | 0.20% | ~35 |
@@ -32,7 +32,7 @@ Rating: 3.80 (Ranked 1,068)
 | Heavy Tunaing | 0.10% | ~17 |
 | Pufferfish | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,349 (Ranked 159)  
+Progressed: 17,350 (Ranked 159)  
 Completed: 1 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,6 +280,7 @@ Completed: 1 (0.01%) (Ranked 367)
 | 2023-12-26 | 17,332 | 1 |
 | 2023-12-27 | 17,340 | 1 |
 | 2023-12-28 | 17,349 | 1 |
+| 2023-12-29 | 17,350 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

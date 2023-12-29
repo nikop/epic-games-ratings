@@ -4,8 +4,8 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 389,
+  "EOS_Progressed": 390,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -789,6 +789,11 @@
       "Time": "2023-12-28T00:03:58.2603549+00:00",
       "NumProgressed": 389,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-29T04:03:49.9448748+00:00",
+      "NumProgressed": 390,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -856,7 +861,7 @@
       "Name": "Assailants",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "JANKEN_DEFEATED",
@@ -896,7 +901,7 @@
       "Name": "Wild Ox",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -904,7 +909,7 @@
       "Name": "Third Commander",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "PET_DOG",
@@ -927,7 +932,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 389,
+      "Progressed": 390,
       "Completed": 4
     }
   ],
@@ -935,8 +940,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:03:50.6706328+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:03:49.9448746+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:38.7969974+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:57:40.8124001+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:03:50.6706488+00:00"
+  "LastUpdate_Ratings": "2023-12-29T03:57:43.7826827+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:03:49.9448846+00:00"
 }

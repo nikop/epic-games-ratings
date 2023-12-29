@@ -2,13 +2,13 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 519,
+  "Ranking_Rating": 520,
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 417,
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -943,9 +943,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 666450,
+  "EOS_Progressed": 666451,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 359,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -24918,6 +24918,11 @@
       "Time": "2023-12-29T03:09:23.7637853+00:00",
       "NumProgressed": 666450,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2023-12-29T04:09:17.0959874+00:00",
+      "NumProgressed": 666451,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -24929,7 +24934,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 479844
+      "UsersEstimate": 479845
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -24937,7 +24942,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 386541
+      "UsersEstimate": 386542
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -24961,7 +24966,7 @@
       "Name": "Protector of the Realm",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 6664
+      "UsersEstimate": 6665
     },
     {
       "ID": "Achievement_06_Knight",
@@ -25017,7 +25022,7 @@
       "Name": "Jack of all Trades",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 33322
+      "UsersEstimate": 33323
     },
     {
       "ID": "Achievement_13_Dice_Master",
@@ -25105,7 +25110,7 @@
       "Name": "Smithy",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 33322
+      "UsersEstimate": 33323
     },
     {
       "ID": "Achievement_24_Leap_of_Faith",
@@ -25121,7 +25126,7 @@
       "Name": "Purgatorium",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 6664
+      "UsersEstimate": 6665
     },
     {
       "ID": "Achievement_26_Gamester",
@@ -25193,7 +25198,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166612
+      "UsersEstimate": 166613
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -25201,7 +25206,7 @@
       "Name": "Cursed Soul",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6664
+      "UsersEstimate": 6665
     },
     {
       "ID": "Achievement_36_Swordsman",
@@ -25209,7 +25214,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59980
+      "UsersEstimate": 59981
     },
     {
       "ID": "Achievement_37_Champion",
@@ -25217,7 +25222,7 @@
       "Name": "Champion",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6664
+      "UsersEstimate": 6665
     },
     {
       "ID": "Achievement_38_Flurry_of_Fury",
@@ -25265,7 +25270,7 @@
       "Name": "Final Death",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 6664
+      "UsersEstimate": 6665
     },
     {
       "ID": "Achievement_44_Miracle",
@@ -25312,15 +25317,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 666450,
+      "Progressed": 666451,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-24T17:58:48.2867936+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:09:23.7637846+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:09:17.0959871+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:23.2843557+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:59:18.5436723+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:09:23.7639752+00:00"
+  "LastUpdate_Ratings": "2023-12-29T03:59:24.3463704+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:09:17.096178+00:00"
 }

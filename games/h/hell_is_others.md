@@ -1,19 +1,19 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.39 (Ranked 772)  
+Rating: 4.39 (Ranked 773)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~80,572 |
-| Predator I | 23.00% | ~59,779 |
+| Survivor | 31.00% | ~80,573 |
+| Predator I | 23.00% | ~59,780 |
 | Fixer I | 10.00% | ~25,991 |
 | A week in Century City | 10.00% | ~25,991 |
 | The Wait | 7.00% | ~18,194 |
 | Green thumb I | 6.00% | ~15,595 |
 | Cleaning Company | 6.00% | ~15,595 |
-| Well-oiled machine | 5.00% | ~12,995 |
-| Saver I | 5.00% | ~12,995 |
+| Well-oiled machine | 5.00% | ~12,996 |
+| Saver I | 5.00% | ~12,996 |
 | The Ascent | 4.00% | ~10,396 |
 | Pacifist | 4.00% | ~10,396 |
 | Vandalism | 4.00% | ~10,396 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 772)
 | Capitalist III | 0.10% | ~260 |
 | Hell Is You | 0.10% | ~260 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 259,909 (Ranked 64)  
+Progressed: 259,912 (Ranked 64)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,11 +315,11 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-26 | 259,820 | 3 |
 | 2023-12-27 | 259,849 | 3 |
 | 2023-12-28 | 259,901 | 3 |
-| 2023-12-29 | 259,909 | 3 |
+| 2023-12-29 | 259,912 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 54  (Ranked 436)  
-Sum: 368 (Ranked 359)  
-Diff (max vs sum): 77  
+Sum: 369 (Ranked 358)  
+Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 54 |
@@ -328,8 +328,8 @@ Diff (max vs sum): 77
 | This game has Amazing Storytelling | 38 |
 | This game has Challenging Combat | 37 |
 | This game is Highly Recommended | 36 |
+| This game has a Competitive Community | 34 |
 | This game has Quickly Understood Controls | 33 |
-| This game has a Competitive Community | 33 |
 | This game has Competitive Players | 31 |
 | This game is Extremely Fun | 25 |
 ## Ratings History
@@ -521,3 +521,4 @@ Diff (max vs sum): 77
 | 2023-12-22 | 4.40 | 53 | 366 |
 | 2023-12-25 | 4.39 | 54 | 367 |
 | 2023-12-28 | 4.39 | 54 | 368 |
+| 2023-12-29 | 4.39 | 54 | 369 |

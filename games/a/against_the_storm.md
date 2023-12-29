@@ -6,24 +6,24 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 7.00% | ~1,368 |
-| Overgrown Library | 7.00% | ~1,368 |
+| Abandoned Settlement | 7.00% | ~1,369 |
+| Overgrown Library | 7.00% | ~1,369 |
 | Taking Action | 6.00% | ~1,173 |
 | No Deaths | 6.00% | ~1,173 |
 | Petrified Necropolis | 6.00% | ~1,173 |
-| First Real Expedition | 5.00% | ~977 |
-| The Marshlands | 5.00% | ~977 |
-| Gathering Storm | 5.00% | ~977 |
+| First Real Expedition | 5.00% | ~978 |
+| The Marshlands | 5.00% | ~978 |
+| Gathering Storm | 5.00% | ~978 |
 | Overcoming Difficulty | 4.00% | ~782 |
 | Coral Forest | 4.00% | ~782 |
 | The Scarlet Orchard | 4.00% | ~782 |
 | Frosts | 4.00% | ~782 |
 | Land of Greed | 4.00% | ~782 |
 | Ominous Presence | 4.00% | ~782 |
-| Fertile Meadows | 3.00% | ~586 |
-| Royal Outpost | 3.00% | ~586 |
-| Watchtower | 3.00% | ~586 |
-| Untamed Wilds | 3.00% | ~586 |
+| Fertile Meadows | 3.00% | ~587 |
+| Royal Outpost | 3.00% | ~587 |
+| Watchtower | 3.00% | ~587 |
+| Untamed Wilds | 3.00% | ~587 |
 | Homesick | 2.00% | ~391 |
 | Ruined Armory | 2.00% | ~391 |
 | Bandit Camp | 2.00% | ~391 |
@@ -37,15 +37,15 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 2.00% | ~391 |
 | A Real Challenge | 2.00% | ~391 |
 | Trade Baron | 2.00% | ~391 |
-| Serving Ale | 1.00% | ~195 |
-| Against All Odds | 1.00% | ~195 |
-| Sparkdew Crystals | 1.00% | ~195 |
-| Fishmen Ritual Site | 1.00% | ~195 |
-| Haunted Forest | 1.00% | ~195 |
-| Flooded Mines | 1.00% | ~195 |
-| Victory Through Prosperity | 1.00% | ~195 |
-| Defying the Crown | 1.00% | ~195 |
-| Into the Forest | 1.00% | ~195 |
+| Serving Ale | 1.00% | ~196 |
+| Against All Odds | 1.00% | ~196 |
+| Sparkdew Crystals | 1.00% | ~196 |
+| Fishmen Ritual Site | 1.00% | ~196 |
+| Haunted Forest | 1.00% | ~196 |
+| Flooded Mines | 1.00% | ~196 |
+| Victory Through Prosperity | 1.00% | ~196 |
+| Defying the Crown | 1.00% | ~196 |
+| Into the Forest | 1.00% | ~196 |
 | Efficient Explorer | 0.80% | ~156 |
 | Refinery | 0.80% | ~156 |
 | Forsaken Gods Temple | 0.80% | ~156 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,549 (Ranked 151)  
+Progressed: 19,551 (Ranked 151)  
 Completed: 36 (0.18%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 36 (0.18%) (Ranked 279)
 | 2023-12-26 | 19,350 | 38 |
 | 2023-12-27 | 19,458 | 38 |
 | 2023-12-28 | 19,536 | 36 |
-| 2023-12-29 | 19,549 | 36 |
+| 2023-12-29 | 19,551 | 36 |
 ## Awards
 Max (Quickly Understood Controls): 446  (Ranked 229)  
 Sum: 3,302 (Ranked 176)  

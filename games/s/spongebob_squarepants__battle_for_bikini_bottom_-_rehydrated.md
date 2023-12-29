@@ -8,21 +8,21 @@ Number of Ratings: 76  (23.09.2022)
 | ---- | ---------- | ----- |
 | Spatula Seeker | 16.00% | ~76 |
 | Sponge Smasher | 15.00% | ~71 |
-| Jellyfish Jam | 14.00% | ~66 |
-| Jellyfishing | 10.00% | ~47 |
-| Sweet Victory | 9.00% | ~42 |
-| Sock Getter | 9.00% | ~42 |
-| Time For Tutorial | 9.00% | ~42 |
+| Jellyfish Jam | 14.00% | ~67 |
+| Jellyfishing | 10.00% | ~48 |
+| Sweet Victory | 9.00% | ~43 |
+| Sock Getter | 9.00% | ~43 |
+| Time For Tutorial | 9.00% | ~43 |
 | Star Smasher | 8.00% | ~38 |
 | Surf's Up! | 8.00% | ~38 |
 | Uptown and Downtown | 7.00% | ~33 |
 | Super Spatula Seeker | 7.00% | ~33 |
 | Squirrel Smasher | 7.00% | ~33 |
-| Life's as extreme as you wanna make it! | 6.00% | ~28 |
-| Toxic Terror | 6.00% | ~28 |
-| Hit Rock Bottom | 6.00% | ~28 |
+| Life's as extreme as you wanna make it! | 6.00% | ~29 |
+| Hit Rock Bottom | 6.00% | ~29 |
 | Keep it Rolling | 5.00% | ~24 |
 | Shrimp Catcher | 5.00% | ~24 |
+| Toxic Terror | 5.00% | ~24 |
 | Robot encyclopedia | 4.00% | ~19 |
 | Are you ready now? | 4.00% | ~19 |
 | Hello, Bikini Bottom | 4.00% | ~19 |
@@ -33,14 +33,14 @@ Number of Ratings: 76  (23.09.2022)
 | SpongeBob vs SpongeBob! | 3.00% | ~14 |
 | Sleepy Time | 3.00% | ~14 |
 | Ultra Spatula Seeker | 3.00% | ~14 |
-| Sock Concert | 2.00% | ~9 |
-| Mega Spatula Seeker | 2.00% | ~9 |
+| Sock Concert | 2.00% | ~10 |
+| Mega Spatula Seeker | 2.00% | ~10 |
 | Sock Opera | 1.00% | ~5 |
 | 100% SpongeBob | 0.80% | ~4 |
 | Super Ultra Mega Spatula Seeker | 0.80% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 472 (Ranked 345)  
-Completed: 3 (0.64%) (Ranked 201)  
+Progressed: 476 (Ranked 343)  
+Completed: 3 (0.63%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -55,7 +55,7 @@ Completed: 3 (0.64%) (Ranked 201)
 | 2023-12-26 | 412 | 3 |
 | 2023-12-27 | 435 | 3 |
 | 2023-12-28 | 466 | 3 |
-| 2023-12-29 | 472 | 3 |
+| 2023-12-29 | 476 | 3 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 495)  
 Sum: 35 (Ranked 522)  

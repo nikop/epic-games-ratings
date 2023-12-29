@@ -22,7 +22,7 @@ Number of Ratings: 85  (23.09.2022)
 | Bodied Sattva | 34.00% | ~71 |
 | Forbidden Donut | 32.00% | ~67 |
 | Upgreatest | 32.00% | ~67 |
-| Furon Fashion | 26.00% | ~54 |
+| Furon Fashion | 27.00% | ~56 |
 | Deincarnated | 25.00% | ~52 |
 | Rock of the Bay | 23.00% | ~48 |
 | Trans-Siberian Express | 23.00% | ~48 |

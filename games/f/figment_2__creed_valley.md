@@ -7,7 +7,7 @@
 | Black Hog Down | 62.00% | ~34 |
 | Remembering of the past | 42.00% | ~23 |
 | Ouch, that hurt! | 33.00% | ~18 |
-| Fight like an idiot | 29.00% | ~16 |
+| Fight like an idiot | 31.00% | ~17 |
 | Slam-KABAM | 24.00% | ~13 |
 | A heavy thinker | 18.00% | ~10 |
 | Heavy Thoughts | 16.00% | ~9 |

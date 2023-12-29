@@ -4,8 +4,8 @@
   "ProductSlug": "hush-hush-5c1fa0",
   "Ranking_EOS_Progress": 580,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 520,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 519,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-07-27T17:00:00+00:00",
     "PcReleaseDate": "2022-08-22T16:00:00+00:00",
@@ -322,9 +322,9 @@
       "ID": "ACHIEVEMENT_Helped_Lotus_1",
       "SetID": "70j9o42",
       "Name": "Lotus Bud",
-      "Percentage": 35,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_Iro_BestEnding",
@@ -394,9 +394,9 @@
       "ID": "ACHIEVEMENT_Money",
       "SetID": "70j9o42",
       "Name": "Six Figures",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_Motivation",
@@ -513,8 +513,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:08:58.5781087+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:08:51.5530144+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:53.2158921+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:59:48.8820641+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:08:58.5781302+00:00"
+  "LastUpdate_Ratings": "2023-12-29T03:59:55.3585101+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:08:51.5530383+00:00"
 }

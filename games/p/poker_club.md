@@ -1,33 +1,33 @@
 # Poker Club
 [Store](https://store.epicgames.com/en-US/p/poker-club-6e18ee)  
 [View Rawdata](../../db/p/poker_club.json)  
-Rating: 3.84 (Ranked 1,061)  
+Rating: 3.84 (Ranked 1,062)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~415,611 |
-| Handy | 42.00% | ~229,680 |
-| Cold Caller | 40.00% | ~218,742 |
-| A Bit On The Side | 27.00% | ~147,651 |
-| Backdoor | 25.00% | ~136,714 |
-| Rank Amateur | 22.00% | ~120,308 |
-| Three Way | 19.00% | ~103,903 |
-| Deadly Assassin | 16.00% | ~87,497 |
-| Gutshot | 14.00% | ~76,560 |
-| Risk It For A Biscuit | 14.00% | ~76,560 |
-| Showoff | 13.00% | ~71,091 |
-| W.H.I.P. | 12.00% | ~65,623 |
-| Bet Bet Bet | 10.00% | ~54,686 |
-| Blindman's Bluff | 9.00% | ~49,217 |
-| Poker Joker | 9.00% | ~49,217 |
-| Never Give Up | 8.00% | ~43,748 |
-| The Bigger They Are | 8.00% | ~43,748 |
-| Total Knock Out | 8.00% | ~43,748 |
-| Dog Eat Dog | 7.00% | ~38,280 |
-| Quack Quack | 7.00% | ~38,280 |
-| Give Your Regards To Broadway | 6.00% | ~32,811 |
-| Check Yourself | 4.00% | ~21,874 |
-| Moneymaker | 4.00% | ~21,874 |
+| Pro Creation | 76.00% | ~415,619 |
+| Handy | 42.00% | ~229,684 |
+| Cold Caller | 40.00% | ~218,747 |
+| A Bit On The Side | 27.00% | ~147,654 |
+| Backdoor | 25.00% | ~136,717 |
+| Rank Amateur | 22.00% | ~120,311 |
+| Three Way | 19.00% | ~103,905 |
+| Deadly Assassin | 16.00% | ~87,499 |
+| Gutshot | 14.00% | ~76,561 |
+| Risk It For A Biscuit | 14.00% | ~76,561 |
+| Showoff | 13.00% | ~71,093 |
+| W.H.I.P. | 12.00% | ~65,624 |
+| Bet Bet Bet | 10.00% | ~54,687 |
+| Blindman's Bluff | 9.00% | ~49,218 |
+| Poker Joker | 9.00% | ~49,218 |
+| Never Give Up | 8.00% | ~43,749 |
+| The Bigger They Are | 8.00% | ~43,749 |
+| Total Knock Out | 8.00% | ~43,749 |
+| Dog Eat Dog | 7.00% | ~38,281 |
+| Quack Quack | 7.00% | ~38,281 |
+| Give Your Regards To Broadway | 6.00% | ~32,812 |
+| Check Yourself | 4.00% | ~21,875 |
+| Moneymaker | 4.00% | ~21,875 |
 | In The Gang | 3.00% | ~16,406 |
 | On The Button | 3.00% | ~16,406 |
 | Before You Wreck Yourself | 2.00% | ~10,937 |
@@ -51,7 +51,7 @@ Rating: 3.84 (Ranked 1,061)
 | Rounder | 0.10% | ~547 |
 | Top Dog | 0.10% | ~547 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 546,856 (Ranked 33)  
+Progressed: 546,867 (Ranked 33)  
 Completed: 2 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 2 (0.00%) (Ranked 389)
 | 2023-12-26 | 546,215 | 2 |
 | 2023-12-27 | 546,536 | 2 |
 | 2023-12-28 | 546,809 | 2 |
-| 2023-12-29 | 546,856 | 2 |
+| 2023-12-29 | 546,867 | 2 |
 ## Awards
 Max (Great for Beginners): 64  (Ranked 420)  
 Sum: 203 (Ranked 412)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24931,
+  "EOS_Progressed": 24933,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8381,6 +8381,11 @@
       "Time": "2023-12-29T02:23:47.9776324+00:00",
       "NumProgressed": 24931,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-29T04:08:30.6329534+00:00",
+      "NumProgressed": 24933,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -8534,9 +8539,9 @@
       "ID": "ACH_KILL_GARM",
       "SetID": "cdkbb11",
       "Name": "Legendary Bounty Hunter",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 499
+      "UsersEstimate": 748
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -8710,9 +8715,9 @@
       "ID": "ACH_PARASITE_PASSENGER_LOVE",
       "SetID": "7fgbhpb",
       "Name": "Fall In Love With A Parasite",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_PLAY_ALL_CHEEKS_SCENARIOS",
@@ -8736,20 +8741,20 @@
       "Name": "Bathe With A Giant Nude Alien",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24931,
+      "Progressed": 24933,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2224,
+      "Progressed": 2226,
       "Completed": 1376
     }
   ],
@@ -8757,8 +8762,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:08:38.8918306+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:08:30.6329532+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:42.9479421+00:00",
-  "LastUpdate_Ratings": "2023-12-29T03:02:54.9221744+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:08:38.8919073+00:00"
+  "LastUpdate_Ratings": "2023-12-29T04:02:50.7277542+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:08:30.6330039+00:00"
 }

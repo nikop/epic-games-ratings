@@ -1,14 +1,14 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.08 (Ranked 1,001)  
+Rating: 4.08 (Ranked 1,002)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break Out | 57.00% | ~810 |
 | Trinity | 28.00% | ~398 |
+| A Taste of Wrath | 22.00% | ~313 |
 | Find Allies | 21.00% | ~298 |
-| A Taste of Wrath | 21.00% | ~298 |
 | I Found It | 21.00% | ~298 |
 | The Collector | 21.00% | ~298 |
 | Geared Up | 20.00% | ~284 |

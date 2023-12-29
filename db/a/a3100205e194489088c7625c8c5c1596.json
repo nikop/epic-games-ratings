@@ -155,9 +155,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 103298,
+  "EOS_Progressed": 103301,
   "EOS_Completed": 329,
-  "EOS_NewPlayers": 1710,
+  "EOS_NewPlayers": 1705,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -11870,6 +11870,11 @@
       "Time": "2023-12-29T03:04:41.3260979+00:00",
       "NumProgressed": 103298,
       "NumCompleted": 329
+    },
+    {
+      "Time": "2023-12-29T04:04:42.0202408+00:00",
+      "NumProgressed": 103301,
+      "NumCompleted": 329
     }
   ],
   "AchievementsAdded": "2023-09-15T07:03:16.7096023+00:00",
@@ -11882,7 +11887,7 @@
       "Name": "Forest Stage Discovered",
       "Percentage": 90,
       "XP": 100,
-      "UsersEstimate": 92968
+      "UsersEstimate": 92971
     },
     {
       "ID": "JB_is_Playing",
@@ -11898,7 +11903,7 @@
       "Name": "JB\u2019s House Discovered",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 26857
+      "UsersEstimate": 26858
     },
     {
       "ID": "Kirk_is_Playing",
@@ -11906,7 +11911,7 @@
       "Name": "Kirk is Playing",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 43385
+      "UsersEstimate": 43386
     },
     {
       "ID": "Kirks_House_Discovered",
@@ -11914,7 +11919,7 @@
       "Name": "Kirk\u2019s House Discovered",
       "Percentage": 67,
       "XP": 100,
-      "UsersEstimate": 69210
+      "UsersEstimate": 69212
     },
     {
       "ID": "Lamp_Post_Illuminated",
@@ -11922,7 +11927,7 @@
       "Name": "Lamp Post Illuminated",
       "Percentage": 91,
       "XP": 100,
-      "UsersEstimate": 94001
+      "UsersEstimate": 94004
     },
     {
       "ID": "Lights_On",
@@ -11953,7 +11958,7 @@
     {
       "ID": "8a67465",
       "IsBase": true,
-      "Progressed": 103298,
+      "Progressed": 103301,
       "Completed": 329
     }
   ],
@@ -11961,8 +11966,8 @@
   "FirstSeenRating": "2023-09-27T18:00:22.5093748+00:00",
   "FirstSeenAchievements": "2023-09-14T15:02:30.0133191+00:00",
   "LastChanged": "2023-12-28T14:58:01.5635125+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:04:41.3260972+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:04:42.0202405+00:00",
   "LastUpdate_AppInfo": "2023-12-28T22:56:57.700255+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:58:18.4834181+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:04:41.3261754+00:00"
+  "LastUpdate_Ratings": "2023-12-29T03:58:22.7028948+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:04:42.0202983+00:00"
 }

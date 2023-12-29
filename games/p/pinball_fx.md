@@ -1,7 +1,7 @@
 # Pinball FX
 [Store](https://store.epicgames.com/en-US/p/pinball-fx)  
 [View Rawdata](../../db/p/pinball_fx.json)  
-Rating: 4.07 (Ranked 1,008)  
+Rating: 4.07 (Ranked 1,009)  
 Number of Ratings: 756  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -46,7 +46,7 @@ Number of Ratings: 756  (23.09.2022)
 | The most beautiful Christmas | 0.00% | ~0 |
 | End of Gloom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,376 (Ranked 60)  
+Progressed: 288,386 (Ranked 60)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,10 +299,10 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 287,443 | 0 |
 | 2023-12-27 | 287,895 | 0 |
 | 2023-12-28 | 288,319 | 0 |
-| 2023-12-29 | 288,376 | 0 |
+| 2023-12-29 | 288,386 | 0 |
 ## Awards
 Max (Great for Beginners): 211  (Ranked 291)  
-Sum: 1,630 (Ranked 230)  
+Sum: 1,631 (Ranked 230)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
@@ -313,7 +313,7 @@ Diff (max vs sum): 61
 | This game is Extremely Fun | 160 |
 | This game is Highly Recommended | 158 |
 | This game has Competitive Players | 157 |
-| This game has Challenging Combat | 113 |
+| This game has Challenging Combat | 114 |
 | This game has a Competitive Community | 106 |
 | This game has Amazing Storytelling | 103 |
 | This game has Amazing Characters | 92 |
@@ -528,3 +528,4 @@ Diff (max vs sum): 61
 | 2023-12-24 | 4.06 | - | 210 | 1,626 |
 | 2023-12-26 | 4.06 | - | 210 | 1,628 |
 | 2023-12-27 | 4.07 | - | 211 | 1,630 |
+| 2023-12-29 | 4.07 | - | 211 | 1,631 |

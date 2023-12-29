@@ -2,7 +2,7 @@
   "ID": "100f8957d16d4d2d89716775b5767779",
   "Name": "Riverbond",
   "ProductSlug": "riverbond-782aa4",
-  "Ranking_Rating": 656,
+  "Ranking_Rating": 657,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 35,
@@ -503,9 +503,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 534210,
+  "EOS_Progressed": 534211,
   "EOS_Completed": 512,
-  "EOS_NewPlayers": 598,
+  "EOS_NewPlayers": 599,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -27313,6 +27313,11 @@
       "Time": "2023-12-29T03:03:44.2708156+00:00",
       "NumProgressed": 534210,
       "NumCompleted": 512
+    },
+    {
+      "Time": "2023-12-29T04:03:43.1785095+00:00",
+      "NumProgressed": 534211,
+      "NumCompleted": 512
     }
   ],
   "TotalAchievements": 57,
@@ -27324,7 +27329,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 122868
+      "UsersEstimate": 122869
     },
     {
       "ID": "10",
@@ -27332,7 +27337,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 240394
+      "UsersEstimate": 240395
     },
     {
       "ID": "11",
@@ -27340,7 +27345,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 373947
+      "UsersEstimate": 373948
     },
     {
       "ID": "12",
@@ -27404,7 +27409,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 331210
+      "UsersEstimate": 331211
     },
     {
       "ID": "2",
@@ -27420,7 +27425,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 128210
+      "UsersEstimate": 128211
     },
     {
       "ID": "21",
@@ -27532,7 +27537,7 @@
       "Name": "Noble Intentions",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26710
+      "UsersEstimate": 26711
     },
     {
       "ID": "34",
@@ -27548,7 +27553,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 267105
+      "UsersEstimate": 267106
     },
     {
       "ID": "36",
@@ -27580,7 +27585,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 181631
+      "UsersEstimate": 181632
     },
     {
       "ID": "4",
@@ -27596,7 +27601,7 @@
       "Name": "Rising Star",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26710
+      "UsersEstimate": 26711
     },
     {
       "ID": "41",
@@ -27652,7 +27657,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 331210
+      "UsersEstimate": 331211
     },
     {
       "ID": "48",
@@ -27668,7 +27673,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 181631
+      "UsersEstimate": 181632
     },
     {
       "ID": "5",
@@ -27684,7 +27689,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 74789
+      "UsersEstimate": 74790
     },
     {
       "ID": "51",
@@ -27708,7 +27713,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 122868
+      "UsersEstimate": 122869
     },
     {
       "ID": "54",
@@ -27779,15 +27784,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 534210,
+      "Progressed": 534211,
       "Completed": 512
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-12-14T14:59:39.4842186+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:03:44.2708152+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:03:43.1785091+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:07.6757795+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:59:15.804634+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:03:44.2709928+00:00"
+  "LastUpdate_Ratings": "2023-12-29T03:59:21.7181081+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:03:43.1786785+00:00"
 }

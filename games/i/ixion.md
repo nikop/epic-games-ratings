@@ -1,18 +1,18 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.58 (Ranked 459)  
+Rating: 4.58 (Ranked 460)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 31.00% | ~1,175 |
-| Sputnik 2049 | 28.00% | ~1,061 |
-| Without Breaking Some Eggs... | 26.00% | ~985 |
-| Infinite Growth... | 26.00% | ~985 |
-| Space Society | 18.00% | ~682 |
-| A Thousand Strong | 18.00% | ~682 |
-| Ready for a New World | 18.00% | ~682 |
-| Permanent Redesigns | 16.00% | ~606 |
+| Wakey Wakey | 31.00% | ~1,176 |
+| Sputnik 2049 | 28.00% | ~1,062 |
+| Without Breaking Some Eggs... | 26.00% | ~986 |
+| Infinite Growth... | 26.00% | ~986 |
+| Space Society | 18.00% | ~683 |
+| A Thousand Strong | 18.00% | ~683 |
+| Ready for a New World | 18.00% | ~683 |
+| Permanent Redesigns | 16.00% | ~607 |
 | Fully Recycled | 14.00% | ~531 |
 | Ain't Nobody Got Time for That | 14.00% | ~531 |
 | The Ship of Theseus | 14.00% | ~531 |
@@ -28,8 +28,8 @@ Rating: 4.58 (Ranked 459)
 | Sightseeing | 7.00% | ~265 |
 | Necessary Enhancement | 7.00% | ~265 |
 | From the Past | 7.00% | ~265 |
-| Access Granted | 6.00% | ~227 |
-| All in Good Health | 6.00% | ~227 |
+| Access Granted | 6.00% | ~228 |
+| All in Good Health | 6.00% | ~228 |
 | Oats | 5.00% | ~190 |
 | What They Hide From Us | 5.00% | ~190 |
 | ...  in a finite world | 5.00% | ~190 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 459)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,790 (Ranked 213)  
+Progressed: 3,792 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 3,743 | 0 |
 | 2023-12-27 | 3,765 | 0 |
 | 2023-12-28 | 3,787 | 0 |
-| 2023-12-29 | 3,790 | 0 |
+| 2023-12-29 | 3,792 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

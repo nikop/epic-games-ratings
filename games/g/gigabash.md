@@ -1,22 +1,22 @@
 # GigaBash
 [Store](https://store.epicgames.com/en-US/p/gigabash)  
 [View Rawdata](../../db/g/gigabash.json)  
-Rating: 4.54 (Ranked 539)  
+Rating: 4.54 (Ranked 540)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 16.00% | ~17,553 |
-| I've Had Enough! | 12.00% | ~13,164 |
-| Fists, Fury & a lot of Rage | 9.00% | ~9,873 |
-| All For One and One For All | 7.00% | ~7,679 |
-| Seasoned Fighter | 7.00% | ~7,679 |
-| Home Sweet Home? | 5.00% | ~5,485 |
-| A New Age | 4.00% | ~4,388 |
-| Oh Baby, A Triple | 3.00% | ~3,291 |
-| Battle Hardened | 2.00% | ~2,194 |
-| Master of Disguise | 2.00% | ~2,194 |
-| It's Mayhem! | 2.00% | ~2,194 |
-| Symbiotic | 2.00% | ~2,194 |
+| All Grown Up! | 16.00% | ~17,559 |
+| I've Had Enough! | 12.00% | ~13,169 |
+| Fists, Fury & a lot of Rage | 9.00% | ~9,877 |
+| All For One and One For All | 7.00% | ~7,682 |
+| Seasoned Fighter | 7.00% | ~7,682 |
+| Home Sweet Home? | 5.00% | ~5,487 |
+| A New Age | 4.00% | ~4,390 |
+| Oh Baby, A Triple | 3.00% | ~3,292 |
+| Battle Hardened | 2.00% | ~2,195 |
+| Master of Disguise | 2.00% | ~2,195 |
+| It's Mayhem! | 2.00% | ~2,195 |
+| Symbiotic | 2.00% | ~2,195 |
 | Cautious Veteran | 1.00% | ~1,097 |
 | Double Punch! | 1.00% | ~1,097 |
 | Martyrdom | 1.00% | ~1,097 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 539)
 | What's Mine is Yours | 0.10% | ~110 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109,704 (Ranked 92)  
+Progressed: 109,741 (Ranked 92)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 107,258 | 0 |
 | 2023-12-27 | 108,438 | 0 |
 | 2023-12-28 | 109,557 | 0 |
-| 2023-12-29 | 109,704 | 0 |
+| 2023-12-29 | 109,741 | 0 |
 ## Awards
 Max (Great Boss Battles): 40  (Ranked 475)  
 Sum: 40 (Ranked 514)  

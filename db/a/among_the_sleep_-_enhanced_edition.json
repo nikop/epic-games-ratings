@@ -2,7 +2,7 @@
   "ID": "53ef2f4592684c4c97d6d32e40467274",
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
-  "Ranking_Rating": 868,
+  "Ranking_Rating": 869,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 96,
@@ -500,7 +500,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 97154,
+  "EOS_Progressed": 97159,
   "EOS_Completed": 447,
   "EOS_NewPlayers": 886,
   "EOS_NewCompleters": 8,
@@ -28650,6 +28650,11 @@
       "Time": "2023-12-29T03:09:20.7738865+00:00",
       "NumProgressed": 97154,
       "NumCompleted": 447
+    },
+    {
+      "Time": "2023-12-29T04:09:13.9562244+00:00",
+      "NumProgressed": 97159,
+      "NumCompleted": 447
     }
   ],
   "TotalAchievements": 10,
@@ -28717,7 +28722,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 9715
+      "UsersEstimate": 9716
     },
     {
       "ID": "Level00BowlingStrike",
@@ -28725,7 +28730,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 34004
+      "UsersEstimate": 34006
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -28740,15 +28745,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 97154,
+      "Progressed": 97159,
       "Completed": 447
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-12-20T03:02:57.8561576+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:09:20.7738858+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:09:13.9562238+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:54.9488301+00:00",
-  "LastUpdate_Ratings": "2023-12-29T03:03:09.1815964+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:09:20.7740507+00:00"
+  "LastUpdate_Ratings": "2023-12-29T04:03:05.4244565+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:09:13.9563731+00:00"
 }

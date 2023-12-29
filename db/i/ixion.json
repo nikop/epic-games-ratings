@@ -2,13 +2,13 @@
   "ID": "1efd3d783b814b8b8548fb60c5983825",
   "Name": "IXION",
   "ProductSlug": "ixion-88cda4",
-  "Ranking_Rating": 459,
+  "Ranking_Rating": 460,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
-  "Ranking_EOS_Progress": 213,
+  "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -323,9 +323,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3790,
+  "EOS_Progressed": 3792,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7373,6 +7373,11 @@
       "Time": "2023-12-29T02:19:49.2213104+00:00",
       "NumProgressed": 3790,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T04:04:16.3370643+00:00",
+      "NumProgressed": 3792,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7384,7 +7389,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "ACH_BASE_10",
@@ -7448,7 +7453,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "ACH_BASE_19",
@@ -7472,7 +7477,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "ACH_BASE_22",
@@ -7488,7 +7493,7 @@
       "Name": "Space Society",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "ACH_BASE_24",
@@ -7496,7 +7501,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "ACH_BASE_25",
@@ -7536,7 +7541,7 @@
       "Name": "A Thousand Strong",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "ACH_BASE_3",
@@ -7584,7 +7589,7 @@
       "Name": "Ready for a New World",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "ACH_BASE_35",
@@ -7600,7 +7605,7 @@
       "Name": "Access Granted",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_BASE_37",
@@ -7680,7 +7685,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "ACH_BASE_49",
@@ -7728,7 +7733,7 @@
       "Name": "All in Good Health",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_BASE_56",
@@ -7839,13 +7844,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1974,
+      "Progressed": 1976,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3790,
+      "Progressed": 3792,
       "Completed": 0
     }
   ],
@@ -7853,8 +7858,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:04:16.446328+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:04:16.3370639+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:27.94929+00:00",
-  "LastUpdate_Ratings": "2023-12-29T03:00:31.3268859+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:04:16.4464005+00:00"
+  "LastUpdate_Ratings": "2023-12-29T04:02:38.3189782+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:04:16.3371441+00:00"
 }

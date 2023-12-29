@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 1,032)  
+Rating: 3.99 (Ranked 1,033)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,22 +11,22 @@ Number of Ratings: 12,664  (23.09.2022)
 | Titan's First Steps | 9.00% | ~13,339 |
 | Tinkle of Coins | 8.00% | ~11,857 |
 | Disintermediation | 7.00% | ~10,375 |
-| It's Free Real Estate | 6.00% | ~8,892 |
-| Budding Merchant | 6.00% | ~8,892 |
-| Capitalism Ho! | 6.00% | ~8,892 |
-| One Easy Payment | 5.00% | ~7,410 |
-| Some Assembly Required | 5.00% | ~7,410 |
-| Another Satisfied Customer | 5.00% | ~7,410 |
-| Pretty Penny | 5.00% | ~7,410 |
-| Own the Means of Production | 5.00% | ~7,410 |
-| The Daily Grind | 4.00% | ~5,928 |
-| Bounty Hunters | 4.00% | ~5,928 |
-| Demand for Supplies | 4.00% | ~5,928 |
-| Flooding the Market | 4.00% | ~5,928 |
-| Where it Hurts | 4.00% | ~5,928 |
-| One-Armed Bandit | 4.00% | ~5,928 |
-| Dungeon Imports | 4.00% | ~5,928 |
-| Through Repetition, Perfection | 4.00% | ~5,928 |
+| It's Free Real Estate | 6.00% | ~8,893 |
+| Budding Merchant | 6.00% | ~8,893 |
+| Capitalism Ho! | 6.00% | ~8,893 |
+| One Easy Payment | 5.00% | ~7,411 |
+| Some Assembly Required | 5.00% | ~7,411 |
+| Another Satisfied Customer | 5.00% | ~7,411 |
+| Pretty Penny | 5.00% | ~7,411 |
+| Own the Means of Production | 5.00% | ~7,411 |
+| The Daily Grind | 4.00% | ~5,929 |
+| Bounty Hunters | 4.00% | ~5,929 |
+| Demand for Supplies | 4.00% | ~5,929 |
+| Flooding the Market | 4.00% | ~5,929 |
+| Where it Hurts | 4.00% | ~5,929 |
+| One-Armed Bandit | 4.00% | ~5,929 |
+| Dungeon Imports | 4.00% | ~5,929 |
+| Through Repetition, Perfection | 4.00% | ~5,929 |
 | On the Path to Greatness | 3.00% | ~4,446 |
 | Ascended | 3.00% | ~4,446 |
 | Research & Development | 3.00% | ~4,446 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~593 |
 | Capitalist Camaraderie | 0.20% | ~296 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,208 (Ranked 83)  
-Completed: 338 (0.23%) (Ranked 267)  
+Progressed: 148,213 (Ranked 83)  
+Completed: 338 (0.23%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -372,7 +372,7 @@ Completed: 338 (0.23%) (Ranked 267)
 | 2023-12-26 | 147,830 | 336 |
 | 2023-12-27 | 148,016 | 336 |
 | 2023-12-28 | 148,196 | 337 |
-| 2023-12-29 | 148,208 | 338 |
+| 2023-12-29 | 148,213 | 338 |
 ## Awards
 Max (Great for Beginners): 4,925  (Ranked 76)  
 Sum: 27,847 (Ranked 51)  

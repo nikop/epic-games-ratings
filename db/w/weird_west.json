@@ -2,13 +2,13 @@
   "ID": "73ce3d09e1d949e8b80f66c78c1cda50",
   "Name": "Weird West: Definitive Edition",
   "ProductSlug": "weird-west-906661",
-  "Ranking_Rating": 697,
+  "Ranking_Rating": 698,
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 375,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 2051,
+  "EOS_Progressed": 2052,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -2996,6 +2996,11 @@
       "Time": "2023-12-29T01:41:16.5949939+00:00",
       "NumProgressed": 2051,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-29T04:04:17.1191068+00:00",
+      "NumProgressed": 2052,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3015,7 +3020,7 @@
       "Name": "Dead or Alive",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1129
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -3159,7 +3164,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -3239,7 +3244,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -3255,7 +3260,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -3303,7 +3308,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1456
+      "UsersEstimate": 1457
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -3367,7 +3372,7 @@
       "Name": "Through Their Eyes",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ACH_TURNING_THE_TABLES",
@@ -3383,7 +3388,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -3430,15 +3435,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 2051,
+      "Progressed": 2052,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-11-26T10:59:42.9428977+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:04:17.2158622+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:04:17.1191063+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:27.4938558+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:59:55.3472471+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:04:17.2159098+00:00"
+  "LastUpdate_Ratings": "2023-12-29T04:00:01.865725+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:04:17.1191476+00:00"
 }

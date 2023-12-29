@@ -1,31 +1,31 @@
 # Redout: Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/redout-enhanced-edition)  
 [View Rawdata](../../db/r/redout__enhanced_edition.json)  
-Rating: 4.49 (Ranked 628)  
+Rating: 4.49 (Ranked 629)  
 Number of Ratings: 274  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~97,639 |
-| NATURAL BORN WINNER | 33.00% | ~78,588 |
-| CALLING HOUSTON | 28.00% | ~66,681 |
-| SNEAKY SNEAKY | 22.00% | ~52,392 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~52,392 |
-| GT9STRADALE | 20.00% | ~47,629 |
+| VANGUARD | 41.00% | ~97,642 |
+| NATURAL BORN WINNER | 33.00% | ~78,590 |
+| CALLING HOUSTON | 28.00% | ~66,682 |
+| SNEAKY SNEAKY | 22.00% | ~52,393 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~52,393 |
+| GT9STRADALE | 20.00% | ~47,630 |
 | CHALLENGER | 11.00% | ~26,196 |
-| ON A ROLL | 9.00% | ~21,433 |
+| ON A ROLL | 9.00% | ~21,434 |
 | CENTAUR | 8.00% | ~19,052 |
 | FASTER THAN EVER | 8.00% | ~19,052 |
 | CHALLENGE THE WORLD | 7.00% | ~16,670 |
 | PHOTOFINISH | 7.00% | ~16,670 |
-| QAREEN | 5.00% | ~11,907 |
-| TAKATORA | 5.00% | ~11,907 |
+| QAREEN | 5.00% | ~11,908 |
+| TAKATORA | 5.00% | ~11,908 |
 | SHOWOFF | 4.00% | ~9,526 |
 | GILA | 3.00% | ~7,144 |
 | PRO | 2.00% | ~4,763 |
 | RESPWND | 2.00% | ~4,763 |
 | SHINY SHINY GOLD | 2.00% | ~4,763 |
-| HARDCORE | 1.00% | ~2,381 |
+| HARDCORE | 1.00% | ~2,382 |
 | ACE | 0.80% | ~1,905 |
 | TACTICIAN | 0.60% | ~1,429 |
 | GTX COMPETIZIONE | 0.50% | ~1,191 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~476 |
 | ENLIGHTENED | 0.10% | ~238 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,145 (Ranked 72)  
+Progressed: 238,150 (Ranked 72)  
 Completed: 49 (0.02%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 49 (0.02%) (Ranked 357)
 | 2023-12-26 | 237,991 | 49 |
 | 2023-12-27 | 238,073 | 49 |
 | 2023-12-28 | 238,135 | 49 |
-| 2023-12-29 | 238,145 | 49 |
+| 2023-12-29 | 238,150 | 49 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

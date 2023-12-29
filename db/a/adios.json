@@ -2,7 +2,7 @@
   "ID": "a3dd9f3da8ec49c7b25dec42cce2ec46",
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
-  "Ranking_Rating": 1079,
+  "Ranking_Rating": 1080,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 102,
@@ -135,7 +135,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81956,
+  "EOS_Progressed": 81957,
   "EOS_Completed": 902,
   "EOS_NewPlayers": 711,
   "EOS_NewCompleters": 12,
@@ -28290,6 +28290,11 @@
       "Time": "2023-12-29T03:05:40.9247349+00:00",
       "NumProgressed": 81956,
       "NumCompleted": 902
+    },
+    {
+      "Time": "2023-12-29T04:05:42.7806141+00:00",
+      "NumProgressed": 81957,
+      "NumCompleted": 902
     }
   ],
   "TotalAchievements": 25,
@@ -28333,7 +28338,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 18030
+      "UsersEstimate": 18031
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -28493,14 +28498,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6556
+      "UsersEstimate": 6557
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 81956,
+      "Progressed": 81957,
       "Completed": 902
     }
   ],
@@ -28508,8 +28513,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-12-24T03:59:19.0038141+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:05:40.9247341+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:05:42.7806137+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:32.7893719+00:00",
-  "LastUpdate_Ratings": "2023-12-29T03:02:44.7925488+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:05:40.9248773+00:00"
+  "LastUpdate_Ratings": "2023-12-29T04:02:40.5419041+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:05:42.7807705+00:00"
 }

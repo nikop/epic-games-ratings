@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1334,
+  "EOS_Progressed": 1335,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 2,
@@ -4599,6 +4599,11 @@
       "Time": "2023-12-29T03:04:01.9419998+00:00",
       "NumProgressed": 1334,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-29T04:04:01.3782765+00:00",
+      "NumProgressed": 1335,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4619,7 +4624,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 907
+      "UsersEstimate": 908
     },
     {
       "ID": "_03_FinishAct1",
@@ -4627,15 +4632,15 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 441
     },
     {
       "ID": "_05_FinishAct2",
@@ -4739,7 +4744,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -4818,7 +4823,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1334,
+      "Progressed": 1335,
       "Completed": 35
     }
   ],
@@ -4826,8 +4831,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:04:01.9419993+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:04:01.3782763+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:58:35.8097357+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:04:01.9420414+00:00"
+  "LastUpdate_Ratings": "2023-12-29T03:58:40.6306549+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:04:01.3783044+00:00"
 }

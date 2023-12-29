@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 870,
+  "EOS_Progressed": 871,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 2,
@@ -2345,6 +2345,11 @@
       "Time": "2023-12-29T01:46:29.3312585+00:00",
       "NumProgressed": 870,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-29T04:09:33.0730563+00:00",
+      "NumProgressed": 871,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 20,
@@ -2356,7 +2361,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "CHOICES_MATTER",
@@ -2420,15 +2425,15 @@
       "Name": "The Frenzy",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "EVEN_TEMPERED",
       "SetID": "8eejhlh",
       "Name": "Even Tempered",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 470
+      "UsersEstimate": 479
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -2452,7 +2457,7 @@
       "Name": "Good Karma",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "INTERROGATION",
@@ -2460,7 +2465,7 @@
       "Name": "Interrogation",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "OFFICE_CLERK",
@@ -2508,14 +2513,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 870,
+      "Progressed": 871,
       "Completed": 11
     }
   ],
@@ -2523,8 +2528,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:09:39.2725886+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:09:33.073056+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:26.7088663+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:58:53.3697022+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:09:39.272611+00:00"
+  "LastUpdate_Ratings": "2023-12-29T03:58:58.4852908+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:09:33.0730784+00:00"
 }

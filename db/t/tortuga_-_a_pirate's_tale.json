@@ -2,13 +2,13 @@
   "ID": "abda8262a7884126a637518b1b44a0f8",
   "Name": "Tortuga - A Pirate\u0027s Tale",
   "ProductSlug": "tortuga-a-pirates-tale-e02635",
-  "Ranking_Rating": 1068,
+  "Ranking_Rating": 1069,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 367,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -281,7 +281,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17349,
+  "EOS_Progressed": 17350,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
@@ -7751,6 +7751,11 @@
       "Time": "2023-12-28T21:05:53.1736021+00:00",
       "NumProgressed": 17349,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T04:04:37.10252+00:00",
+      "NumProgressed": 17350,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -7770,7 +7775,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14920
+      "UsersEstimate": 14921
     },
     {
       "ID": "ACH0010",
@@ -7794,7 +7799,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 8501
+      "UsersEstimate": 8502
     },
     {
       "ID": "ACH0013",
@@ -7834,7 +7839,7 @@
       "Name": "Fishing for Compliments",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "ACH0018",
@@ -7858,7 +7863,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12491
+      "UsersEstimate": 12492
     },
     {
       "ID": "ACH0020",
@@ -7866,7 +7871,7 @@
       "Name": "A New Legend Awaits",
       "Percentage": 1,
       "XP": 110,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH0021",
@@ -7914,7 +7919,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 9368
+      "UsersEstimate": 9369
     },
     {
       "ID": "ACH004",
@@ -7969,7 +7974,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 17349,
+      "Progressed": 17350,
       "Completed": 1
     }
   ],
@@ -7977,8 +7982,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-12-25T00:02:45.1252566+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:04:36.6198504+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:04:37.1025198+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:31.2449897+00:00",
-  "LastUpdate_Ratings": "2023-12-29T03:02:51.1541966+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:04:36.6199021+00:00"
+  "LastUpdate_Ratings": "2023-12-29T04:02:46.9720148+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:04:37.1025696+00:00"
 }

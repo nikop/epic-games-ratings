@@ -2,13 +2,13 @@
   "ID": "4311a0ee99724086b1a4f261b827d038",
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
-  "Ranking_Rating": 519,
+  "Ranking_Rating": 520,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -815,7 +815,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 240174,
+  "EOS_Progressed": 240177,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1336,
   "EOS_NewCompleters": 0,
@@ -19200,6 +19200,11 @@
       "Time": "2023-12-29T03:10:06.7491042+00:00",
       "NumProgressed": 240174,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T04:10:01.9488013+00:00",
+      "NumProgressed": 240177,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -19300,7 +19305,7 @@
       "Name": "Great Wastelands (part 2) Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4803
+      "UsersEstimate": 4804
     },
     {
       "ID": "HW1_MISSION6_COMPLETE",
@@ -19324,7 +19329,7 @@
       "Name": "The Cathedral of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4803
+      "UsersEstimate": 4804
     },
     {
       "ID": "HW1_MISSION9_COMPLETE",
@@ -19332,7 +19337,7 @@
       "Name": "Sea of Lost Souls Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4803
+      "UsersEstimate": 4804
     },
     {
       "ID": "HW1_TUTORIAL_COMPLETE",
@@ -19396,7 +19401,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33624
+      "UsersEstimate": 33625
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -19412,7 +19417,7 @@
       "Name": "Sarum Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4803
+      "UsersEstimate": 4804
     },
     {
       "ID": "HW2_MISSION4_COMPLETE",
@@ -19483,7 +19488,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 240174,
+      "Progressed": 240177,
       "Completed": 0
     }
   ],
@@ -19491,8 +19496,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-28T23:00:12.8923406+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:10:06.7491035+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:10:01.9488011+00:00",
   "LastUpdate_AppInfo": "2023-12-22T05:57:00.8106495+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:59:24.475541+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:10:06.7492146+00:00"
+  "LastUpdate_Ratings": "2023-12-29T03:59:30.3812176+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:10:01.9489081+00:00"
 }

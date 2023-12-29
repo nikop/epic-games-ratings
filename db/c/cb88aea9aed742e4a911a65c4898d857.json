@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -203,7 +203,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 8425,
+  "EOS_Progressed": 8432,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 2302,
   "EOS_NewCompleters": 0,
@@ -2788,6 +2788,11 @@
       "Time": "2023-12-29T03:09:56.7631975+00:00",
       "NumProgressed": 8425,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T04:09:51.564533+00:00",
+      "NumProgressed": 8432,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -2822,9 +2827,9 @@
       "ID": "05_TheComorraghSurvivors",
       "SetID": "37a94m8",
       "Name": "Commorragh Survivors",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -2838,17 +2843,17 @@
       "ID": "07_TheGrandFinale",
       "SetID": "37a94m8",
       "Name": "Grand Finale",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "08_TheEmperorsHand",
       "SetID": "37a94m8",
       "Name": "The Emperor\u0027s Servant",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "09_TheMercifulSoul",
@@ -2870,9 +2875,9 @@
       "ID": "11_OvercomeAndOverpower",
       "SetID": "37a94m8",
       "Name": "Overcome and Overpower",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "12_TooFastToDie",
@@ -2902,9 +2907,9 @@
       "ID": "15_Pentakill",
       "SetID": "37a94m8",
       "Name": "Pentakill",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 25
     },
     {
       "ID": "16_TheRise",
@@ -3006,9 +3011,9 @@
       "ID": "28_TheLightOfAstronomicon",
       "SetID": "37a94m8",
       "Name": "Light of the Astronomican",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 34
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -3174,17 +3179,17 @@
       "ID": "49_HowDidItAllEnd",
       "SetID": "37a94m8",
       "Name": "How Did It All End?",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "50_Whodunit",
       "SetID": "37a94m8",
       "Name": "Whodunit?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -3319,7 +3324,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8425,
+      "Progressed": 8432,
       "Completed": 0
     }
   ],
@@ -3327,8 +3332,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-28T13:57:33.384002+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:09:56.763197+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:09:51.5645326+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:57:49.9095845+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:09:56.763262+00:00"
+  "LastUpdate_Ratings": "2023-12-29T03:57:53.1342637+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:09:51.564584+00:00"
 }

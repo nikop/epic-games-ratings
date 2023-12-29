@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1562,9 +1562,9 @@
       "ID": "SadisticPlan",
       "SetID": "1jeo1g7",
       "Name": "Sadistic Plan",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 42
     },
     {
       "ID": "SanctuaryGuardian",
@@ -1610,9 +1610,9 @@
       "ID": "StarKiller",
       "SetID": "1jeo1g7",
       "Name": "Star Killer",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 74
     },
     {
       "ID": "StellarDismantler",
@@ -1905,8 +1905,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:08:46.2073356+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:08:38.3303579+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:02.5351328+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:57:58.9427643+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:08:46.2074198+00:00"
+  "LastUpdate_Ratings": "2023-12-29T03:58:02.4958495+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:08:38.3304391+00:00"
 }

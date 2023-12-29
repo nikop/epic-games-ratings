@@ -1,7 +1,7 @@
 # Sonic Origins
 [Store](https://store.epicgames.com/en-US/p/sonic-origins)  
 [View Rawdata](../../db/s/sonic_origins.json)  
-Rating: 4.59 (Ranked 440)  
+Rating: 4.59 (Ranked 441)  
 Number of Ratings: 154  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -36,10 +36,10 @@ Number of Ratings: 154  (23.09.2022)
 | Movie Maniac | 18.00% | ~120 |
 | Sound Savant | 18.00% | ~120 |
 | Sonic the Hedgehog Mission Master | 16.00% | ~107 |
+| Art Appreciator | 15.00% | ~100 |
 | Beware Rhinobots! | 14.00% | ~94 |
-| Art Appreciator | 14.00% | ~94 |
 | Sonic CD Mission Master | 13.00% | ~87 |
-| S3 & K Mission Master | 12.00% | ~80 |
+| S3 & K Mission Master | 13.00% | ~87 |
 | Sonic the Hedgehog 2 Mission Master | 11.00% | ~73 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 668 (Ranked 314)  

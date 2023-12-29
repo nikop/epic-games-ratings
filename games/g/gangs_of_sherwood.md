@@ -5,19 +5,19 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Act of Kindness | 88.00% | ~92 |
-| Air Fighter | 75.00% | ~78 |
-| Oo-De-Lally | 70.00% | ~73 |
+| Air Fighter | 74.00% | ~78 |
+| Oo-De-Lally | 70.00% | ~74 |
 | Treasure Hunter | 65.00% | ~68 |
 | The Altruist | 64.00% | ~67 |
-| Watch your Step! | 53.00% | ~55 |
+| Watch your Step! | 52.00% | ~55 |
 | Tap Dancing | 50.00% | ~52 |
 | MAX LEVEL | 49.00% | ~51 |
 | Right between the eyes | 40.00% | ~42 |
 | Starry Night | 39.00% | ~41 |
 | Spring Board | 38.00% | ~40 |
-| Locksley's Tears | 37.00% | ~38 |
-| Rebel Unleashed | 35.00% | ~36 |
-| Merry Co-operation | 30.00% | ~31 |
+| Locksley's Tears | 36.00% | ~38 |
+| Rebel Unleashed | 34.00% | ~36 |
+| Merry Co-operation | 30.00% | ~32 |
 | Finish Him! | 25.00% | ~26 |
 | Assault on the Ram | 25.00% | ~26 |
 | Ultra Rebel Instinct | 22.00% | ~23 |
@@ -28,8 +28,8 @@
 | Take Action! | 15.00% | ~16 |
 | Ultra Combo | 14.00% | ~15 |
 | Ascending Will | 13.00% | ~14 |
-| Into the Lion's Den | 12.00% | ~12 |
-| Sky High Fighter | 11.00% | ~11 |
+| Into the Lion's Den | 11.00% | ~12 |
+| Sky High Fighter | 10.00% | ~10 |
 | Haute Couture | 10.00% | ~10 |
 | The Gang prevails | 7.00% | ~7 |
 | Brilliant Executioner | 6.00% | ~6 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 104 (Ranked 480)  
+Progressed: 105 (Ranked 479)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,3 +94,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 99 | 0 |
 | 2023-12-26 | 103 | 0 |
 | 2023-12-28 | 104 | 0 |
+| 2023-12-29 | 105 | 0 |

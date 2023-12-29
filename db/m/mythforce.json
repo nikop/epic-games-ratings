@@ -2,13 +2,13 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 656,
+  "Ranking_Rating": 657,
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -848,7 +848,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5886,
+  "EOS_Progressed": 5888,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
@@ -12033,6 +12033,11 @@
       "Time": "2023-12-29T01:41:01.2720909+00:00",
       "NumProgressed": 5886,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-29T04:04:02.1328565+00:00",
+      "NumProgressed": 5888,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12045,7 +12050,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -12061,7 +12066,7 @@
       "Name": "Deadication",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -12093,7 +12098,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1530
+      "UsersEstimate": 1531
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -12133,7 +12138,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1530
+      "UsersEstimate": 1531
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -12189,7 +12194,7 @@
       "Name": "Season Finale",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "MF_Ach_SpendingSpree",
@@ -12197,7 +12202,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -12228,15 +12233,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5886,
+      "Progressed": 5888,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:04:02.6608603+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:04:02.1328563+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:25.4849752+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:59:51.7603202+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:04:02.6609252+00:00"
+  "LastUpdate_Ratings": "2023-12-29T03:59:58.2498348+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:04:02.1329058+00:00"
 }

@@ -1123,9 +1123,9 @@
       "ID": "ACH_CHALLENGE_ANY",
       "SetID": "cefn62b",
       "Name": "Furon Fashion",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_CHALLENGE_ARMAGEDDONTHREESTAR",
@@ -1347,8 +1347,8 @@
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:05:11.1129777+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:05:11.9321568+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:18.8290018+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:58:54.3514203+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:05:11.1130087+00:00"
+  "LastUpdate_Ratings": "2023-12-29T03:58:59.4795+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:05:11.9321832+00:00"
 }

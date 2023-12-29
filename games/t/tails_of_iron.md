@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.56 (Ranked 498)  
+Rating: 4.56 (Ranked 499)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,24 +14,24 @@ Rating: 4.56 (Ranked 498)
 | Defeat 25 Grubs | 0.90% | ~21 |
 | Defeat 25 Frogs | 0.90% | ~21 |
 | Shield Maiden Yellow Tongue | 0.90% | ~8 |
+| Collect Gold | 0.80% | ~18 |
 | Collect Iron Ore | 0.80% | ~18 |
 | Defeat 25 Mozis | 0.80% | ~18 |
+| Kitchen Ready To Cook | 0.80% | ~18 |
+| Smithy Ready to Craft | 0.80% | ~18 |
 | Rescue Redgi's Brothers | 0.80% | ~18 |
 | Defeat Croakhis Khan | 0.80% | ~7 |
 | I Remember My First Beer | 0.80% | ~7 |
-| Collect Gold | 0.70% | ~16 |
 | End of the Mozis | 0.70% | ~16 |
 | Meet the Creatures from the Deep | 0.70% | ~16 |
-| Kitchen Ready To Cook | 0.70% | ~16 |
-| Smithy Ready to Craft | 0.70% | ~16 |
 | Throne Room Fit For A King | 0.70% | ~16 |
 | Return Power To The Depths | 0.70% | ~16 |
 | Complete Elder Faction | 0.60% | ~14 |
 | Defeat Ratnor Rodentson | 0.60% | ~14 |
+| Fix the Travellers Wagon | 0.60% | ~14 |
 | Defeat the Grub Buster | 0.60% | ~6 |
 | Complete the Chefs Book | 0.50% | ~11 |
 | Defeat Avor Warden of the Northern Wastes | 0.50% | ~11 |
-| Fix the Travellers Wagon | 0.50% | ~11 |
 | Discover the mystery of the Kings Chambers | 0.50% | ~11 |
 | Defeat the Stalker Queen | 0.50% | ~5 |
 | Return the Statues | 0.40% | ~9 |

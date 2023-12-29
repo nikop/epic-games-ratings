@@ -5,34 +5,34 @@ Rating: 4.88 (Ranked 17)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 54.00% | ~1,057 |
-| Welcome to the Tower | 49.00% | ~959 |
-| The great escape | 41.00% | ~802 |
-| The Preacher's fate | 39.00% | ~763 |
-| A new dawn | 33.00% | ~646 |
+| That's the spirit | 54.00% | ~1,058 |
+| Welcome to the Tower | 49.00% | ~960 |
+| The great escape | 41.00% | ~804 |
+| The Preacher's fate | 39.00% | ~764 |
+| A new dawn | 33.00% | ~647 |
 | Scholar | 29.00% | ~568 |
-| A good beginning | 27.00% | ~528 |
-| True G3M4R | 27.00% | ~528 |
-| The darkness | 27.00% | ~528 |
+| A good beginning | 27.00% | ~529 |
+| True G3M4R | 27.00% | ~529 |
+| The darkness | 27.00% | ~529 |
 | One last step | 24.00% | ~470 |
-| Cable guy | 23.00% | ~450 |
-| Half the way | 23.00% | ~450 |
-| Rascal | 23.00% | ~450 |
+| Cable guy | 23.00% | ~451 |
+| Half the way | 23.00% | ~451 |
+| Rascal | 23.00% | ~451 |
 | I did it | 22.00% | ~431 |
 | Peace walker | 22.00% | ~431 |
 | Champollion | 22.00% | ~431 |
-| In this together | 21.00% | ~411 |
-| Open door | 20.00% | ~391 |
-| Feels like springtime | 18.00% | ~352 |
-| Alchemists Express | 18.00% | ~352 |
-| Free at last | 16.00% | ~313 |
+| In this together | 21.00% | ~412 |
+| Open door | 20.00% | ~392 |
+| Feels like springtime | 18.00% | ~353 |
+| Alchemists Express | 18.00% | ~353 |
+| Free at last | 16.00% | ~314 |
 | A Link to the Past | 14.00% | ~274 |
 | A great audience | 12.00% | ~235 |
 | For its own good | 12.00% | ~235 |
 | Fashion victim | 8.00% | ~157 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,957 (Ranked 241)  
-Completed: 117 (5.98%) (Ranked 70)  
+Progressed: 1,960 (Ranked 241)  
+Completed: 117 (5.97%) (Ranked 70)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -191,7 +191,7 @@ Completed: 117 (5.98%) (Ranked 70)
 | 2023-12-26 | 1,854 | 110 |
 | 2023-12-27 | 1,909 | 114 |
 | 2023-12-28 | 1,950 | 117 |
-| 2023-12-29 | 1,957 | 117 |
+| 2023-12-29 | 1,960 | 117 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

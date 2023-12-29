@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1093,
+  "EOS_Progressed": 1096,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2677,6 +2677,11 @@
       "Time": "2023-12-29T03:05:42.5400664+00:00",
       "NumProgressed": 1093,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T04:05:44.374792+00:00",
+      "NumProgressed": 1096,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2745,7 +2750,7 @@
       "Name": "Pathfinder",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 853
+      "UsersEstimate": 855
     },
     {
       "ID": "CompleteChapter10",
@@ -2761,15 +2766,15 @@
       "Name": "The Artefact is Mine",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "CompleteChapter12",
       "SetID": "52ail55",
       "Name": "Grumblin\u0027 Bellies",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 121
     },
     {
       "ID": "CompleteChapter13",
@@ -2777,7 +2782,7 @@
       "Name": "Slaughter and Siege wiv da Squeeze",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "CompleteChapter14",
@@ -2785,7 +2790,7 @@
       "Name": "For Harkanibus!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "CompleteChapter15",
@@ -2793,7 +2798,7 @@
       "Name": "The Great Scheme",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "CompleteChapter16",
@@ -2801,7 +2806,7 @@
       "Name": "Our Own Miracle",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "CompleteChapter17",
@@ -2833,7 +2838,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 656
+      "UsersEstimate": 658
     },
     {
       "ID": "CompleteChapter3",
@@ -2841,7 +2846,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "CompleteChapter4",
@@ -2849,7 +2854,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "CompleteChapter5",
@@ -2857,7 +2862,7 @@
       "Name": "Breathing Easy",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "CompleteChapter6",
@@ -2937,7 +2942,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 404
+      "UsersEstimate": 406
     },
     {
       "ID": "Win100OnlineMatched",
@@ -2984,14 +2989,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1093,
+      "Progressed": 1096,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:05:42.5400658+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:05:44.3747916+00:00",
   "LastUpdate_AppInfo": "2023-12-22T09:57:09.096238+00:00",
-  "LastUpdate_Ratings": "2023-12-29T03:02:47.9827544+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:05:42.540101+00:00"
+  "LastUpdate_Ratings": "2023-12-29T04:02:43.7111653+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:05:44.3748203+00:00"
 }

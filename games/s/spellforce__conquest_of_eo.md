@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 89.00% | ~82 |
-| Enough rooms to swing a cat | 82.00% | ~75 |
-| First to the post | 82.00% | ~75 |
-| A kind of Magic | 74.00% | ~68 |
+| Home Sweet Home | 89.00% | ~83 |
+| Enough rooms to swing a cat | 81.00% | ~75 |
+| First to the post | 81.00% | ~75 |
+| A kind of Magic | 73.00% | ~68 |
 | Connected | 67.00% | ~62 |
-| Expansion | 62.00% | ~57 |
-| Mine! | 59.00% | ~54 |
-| Harvest Time | 57.00% | ~52 |
+| Expansion | 61.00% | ~57 |
+| Mine! | 58.00% | ~54 |
+| Harvest Time | 56.00% | ~52 |
 | Artificer's Apprentice | 51.00% | ~47 |
-| Fly the friendly Sky | 46.00% | ~42 |
+| Fly the friendly Sky | 45.00% | ~42 |
 | Get out of here! | 40.00% | ~37 |
 | Necromancer's Apprentice | 39.00% | ~36 |
 | Alchemist's Apprentice | 38.00% | ~35 |
 | Friend of Lyraine | 37.00% | ~34 |
-| The Circle | 35.00% | ~32 |
-| Redecorating | 34.00% | ~31 |
+| The Circle | 35.00% | ~33 |
+| Redecorating | 33.00% | ~31 |
 | Bad JuJu | 24.00% | ~22 |
-| Slave to the rhythm | 21.00% | ~19 |
-| Friend of Sevenkeeps | 21.00% | ~19 |
-| Castle Meldec | 20.00% | ~18 |
+| Slave to the rhythm | 20.00% | ~19 |
+| Friend of Sevenkeeps | 20.00% | ~19 |
+| Castle Meldec | 19.00% | ~18 |
 | Sevenkeeps Seat of Kings | 17.00% | ~16 |
 | Friend of Alluvyan | 15.00% | ~14 |
 | Friend of Connach | 15.00% | ~14 |
@@ -43,11 +43,11 @@
 | Defeat Hokan | 8.00% | ~7 |
 | Yngrid's Tale | 8.00% | ~7 |
 | A Joke | 8.00% | ~7 |
-| Defeat Uram | 7.00% | ~6 |
-| Elynn's Tale | 7.00% | ~6 |
-| Lore's Tale | 7.00% | ~6 |
-| The Forge of Regan Gor | 7.00% | ~6 |
-| Tuscari Sea Portal | 7.00% | ~6 |
+| Defeat Uram | 6.00% | ~6 |
+| Elynn's Tale | 6.00% | ~6 |
+| Lore's Tale | 6.00% | ~6 |
+| The Forge of Regan Gor | 6.00% | ~6 |
+| Tuscari Sea Portal | 6.00% | ~6 |
 | Defeat Raith | 5.00% | ~5 |
 | Defeat Undergast | 5.00% | ~5 |
 | Crypt of the Revenant | 5.00% | ~5 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92 (Ranked 493)  
+Progressed: 93 (Ranked 493)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,6 +121,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 84 | 0 |
 | 2023-12-27 | 89 | 0 |
 | 2023-12-28 | 92 | 0 |
+| 2023-12-29 | 93 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

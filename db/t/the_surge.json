@@ -2,13 +2,13 @@
   "ID": "08f38e25e11f4c1e977cb75aae5e4535",
   "Name": "The Surge",
   "ProductSlug": "the-surge",
-  "Ranking_Rating": 711,
+  "Ranking_Rating": 712,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -394,9 +394,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5109,
+  "EOS_Progressed": 5110,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -4254,6 +4254,11 @@
       "Time": "2023-12-29T01:42:19.9177787+00:00",
       "NumProgressed": 5109,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-29T04:05:19.0552118+00:00",
+      "NumProgressed": 5110,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4265,7 +4270,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1890
+      "UsersEstimate": 1891
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -4281,7 +4286,7 @@
       "Name": "Big Sister",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "ID_ACHIEV_04",
@@ -4321,7 +4326,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4802
+      "UsersEstimate": 4803
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4329,7 +4334,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3934
+      "UsersEstimate": 3935
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -4337,7 +4342,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -4385,7 +4390,7 @@
       "Name": "It Lives! It Sniffs! It Conquers!",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ID_ACHIEV_17",
@@ -4441,7 +4446,7 @@
       "Name": "Man of Steel",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ID_ACHIEV_24",
@@ -4481,7 +4486,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3883
+      "UsersEstimate": 3884
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -4521,7 +4526,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ID_ACHIEV_35",
@@ -4529,7 +4534,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -4705,7 +4710,7 @@
       "Name": "3-2-1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ID_ACHIEV_58",
@@ -4800,15 +4805,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5109,
+      "Progressed": 5110,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-24T15:57:46.3755439+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:05:17.9447368+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:05:19.0552116+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:20.3744551+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:59:41.1366181+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:05:17.9448053+00:00"
+  "LastUpdate_Ratings": "2023-12-29T03:59:47.3032171+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:05:19.0552731+00:00"
 }

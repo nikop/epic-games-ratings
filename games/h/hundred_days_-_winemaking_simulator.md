@@ -1,13 +1,13 @@
 # Hundred Days - Winemaking Simulator
 [Store](https://store.epicgames.com/en-US/p/hundred-days-winemaking-simulator)  
 [View Rawdata](../../db/h/hundred_days_-_winemaking_simulator.json)  
-Rating: 4.35 (Ranked 814)  
+Rating: 4.35 (Ranked 815)  
 Number of Ratings: 7,669  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 43.00% | ~7,794 |
-| It's a good start | 10.00% | ~1,812 |
+| Bye Bye | 43.00% | ~7,796 |
+| It's a good start | 10.00% | ~1,813 |
 | Bonjour! | 8.00% | ~1,450 |
 | Quack | 8.00% | ~1,450 |
 | The Assistant | 6.00% | ~1,088 |
@@ -19,14 +19,14 @@ Number of Ratings: 7,669  (23.09.2022)
 | Keep the doctor away | 3.00% | ~544 |
 | Surprise of Langhe | 3.00% | ~544 |
 | Famous | 3.00% | ~544 |
-| What is that? A castle? | 2.00% | ~362 |
-| A lot of space | 2.00% | ~362 |
-| A big garage | 2.00% | ~362 |
-| Millionaire | 2.00% | ~362 |
-| Exotic | 2.00% | ~362 |
-| Pastry Chef | 2.00% | ~362 |
-| Welcome to the club | 2.00% | ~362 |
-| Very Important Winemaker | 2.00% | ~362 |
+| What is that? A castle? | 2.00% | ~363 |
+| A lot of space | 2.00% | ~363 |
+| A big garage | 2.00% | ~363 |
+| Millionaire | 2.00% | ~363 |
+| Exotic | 2.00% | ~363 |
+| Pastry Chef | 2.00% | ~363 |
+| Welcome to the club | 2.00% | ~363 |
+| Very Important Winemaker | 2.00% | ~363 |
 | King of Langhe | 1.00% | ~181 |
 | Gem of Monferrato | 1.00% | ~181 |
 | Treasure of Roero | 0.70% | ~127 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Master Winemaker | 0.10% | ~18 |
 | Unsuitable Terroir | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,125 (Ranked 155)  
+Progressed: 18,130 (Ranked 155)  
 Completed: 13 (0.07%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 13 (0.07%) (Ranked 322)
 | 2023-12-26 | 17,754 | 13 |
 | 2023-12-27 | 17,935 | 13 |
 | 2023-12-28 | 18,098 | 13 |
-| 2023-12-29 | 18,125 | 13 |
+| 2023-12-29 | 18,130 | 13 |
 ## Awards
 Max (Relaxing): 208  (Ranked 293)  
 Sum: 1,736 (Ranked 224)  

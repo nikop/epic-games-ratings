@@ -8,7 +8,7 @@
 | Your first fight | 85.00% | ~418 |
 | Good Person Chip | 83.00% | ~408 |
 | First winning | 82.00% | ~403 |
-| Your first job | 80.00% | ~394 |
+| Your first job | 81.00% | ~399 |
 | Depressed visitor | 75.00% | ~369 |
 | Fitness professional | 74.00% | ~364 |
 | Old movies enjoyer | 74.00% | ~364 |
@@ -41,8 +41,8 @@
 | Mysterious voice | 41.00% | ~202 |
 | Guiding on the right path | 41.00% | ~202 |
 | No blades in the gym | 39.00% | ~192 |
+| Champion – no way back | 38.00% | ~187 |
 | Responsible approach | 38.00% | ~187 |
-| Champion – no way back | 37.00% | ~182 |
 | Underground dwellers | 37.00% | ~182 |
 | Mom got better | 35.00% | ~172 |
 | Deal with life | 35.00% | ~172 |

@@ -2,10 +2,10 @@
   "ID": "942b563ee0aa4086a55d8b746aca514d",
   "Name": "Train World",
   "ProductSlug": "train-world-07e156",
-  "Ranking_EOS_Progress": 608,
+  "Ranking_EOS_Progress": 604,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 459,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-07-19T21:00:00+00:00",
     "PcReleaseDate": "2023-07-19T21:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22,
+  "EOS_Progressed": 23,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -139,6 +139,11 @@
       "Time": "2023-12-27T01:49:24.8195947+00:00",
       "NumProgressed": 22,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T04:04:59.0166528+00:00",
+      "NumProgressed": 23,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-14T15:04:55.3907399+00:00",
@@ -149,7 +154,7 @@
       "ID": "all_capitals_connected",
       "SetID": "5ia1dkp",
       "Name": "Capital Connection",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -173,7 +178,7 @@
       "ID": "company_billion",
       "SetID": "5ia1dkp",
       "Name": "Billionaire Club",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -213,7 +218,7 @@
       "ID": "first_line",
       "SetID": "5ia1dkp",
       "Name": "Connection Up",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -533,7 +538,7 @@
       "ID": "two_industries_connected",
       "SetID": "5ia1dkp",
       "Name": "Industrial Revolution",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -550,14 +555,14 @@
     {
       "ID": "5ia1dkp",
       "IsBase": true,
-      "Progressed": 22,
+      "Progressed": 23,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-21T20:59:26.8070141+00:00",
   "FirstSeenAchievements": "2023-07-14T13:20:01.4168917+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:04:58.0732464+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:04:59.0166524+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:45.2890016+00:00",
-  "LastUpdate_Ratings": "2023-12-29T03:02:58.251014+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:04:58.0732756+00:00"
+  "LastUpdate_Ratings": "2023-12-29T04:02:54.20773+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:04:59.0166955+00:00"
 }

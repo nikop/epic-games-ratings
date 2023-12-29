@@ -2,10 +2,10 @@
   "ID": "3eae9135a71f43a288f3b683fe83bc11",
   "Name": "Lemon Cake",
   "ProductSlug": "lemon-cake-c683d8",
-  "Ranking_EOS_Progress": 426,
-  "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 432,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_Progress": 425,
+  "Ranking_EOS_Completed": 167,
+  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-09-29T23:00:00+00:00",
     "PcReleaseDate": "2021-02-18T01:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 182,
+  "EOS_Progressed": 183,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.1,
+  "EOS_Completed_Percentage": 1.09,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:16.6062056+00:00",
@@ -380,6 +380,11 @@
       "Time": "2023-12-27T21:09:20.4499382+00:00",
       "NumProgressed": 182,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-29T04:08:53.6986696+00:00",
+      "NumProgressed": 183,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 17,
@@ -391,7 +396,7 @@
       "Name": "Proving Your Skills",
       "Percentage": 92,
       "XP": 25,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "LC-02",
@@ -399,7 +404,7 @@
       "Name": "Bakery Startup",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "LC-03",
@@ -421,9 +426,9 @@
       "ID": "LC-05",
       "SetID": "ap2ljl4",
       "Name": "Apprentice Baker",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 64
+      "UsersEstimate": 62
     },
     {
       "ID": "LC-06",
@@ -485,9 +490,9 @@
       "ID": "LC-13",
       "SetID": "ap2ljl4",
       "Name": "The Kitchen Is On Fire",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 62
+      "UsersEstimate": 60
     },
     {
       "ID": "LC-14",
@@ -526,7 +531,7 @@
     {
       "ID": "ap2ljl4",
       "IsBase": true,
-      "Progressed": 182,
+      "Progressed": 183,
       "Completed": 2
     }
   ],
@@ -534,8 +539,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:09:01.0601288+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:08:53.6986694+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:19:55.7144811+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:59:27.9750062+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:09:01.0601414+00:00"
+  "LastUpdate_Ratings": "2023-12-29T03:59:33.9863928+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:08:53.6986793+00:00"
 }

@@ -9,9 +9,9 @@
 | Overcoming Weakness | 23.00% | ~9 |
 | Fence-Sitter | 13.00% | ~5 |
 | Green Thumb | 10.00% | ~4 |
+| Setting Off | 10.00% | ~4 |
 | Crystal Hunter | 8.00% | ~3 |
-| Setting Off | 8.00% | ~3 |
-| Bye-Bye, Butcher | 5.00% | ~2 |
+| Bye-Bye, Butcher | 8.00% | ~3 |
 | Equivalent Exchange | 5.00% | ~2 |
 | Danger | 5.00% | ~2 |
 | Column Crusher | 3.00% | ~1 |

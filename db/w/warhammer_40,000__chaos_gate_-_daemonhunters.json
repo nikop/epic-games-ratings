@@ -2,13 +2,13 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 459,
+  "Ranking_Rating": 460,
   "Ranking_Popularity": 282,
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -801,9 +801,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3630,
+  "EOS_Progressed": 3631,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5021,6 +5021,11 @@
       "Time": "2023-12-29T01:43:24.8380004+00:00",
       "NumProgressed": 3630,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T04:06:21.6185353+00:00",
+      "NumProgressed": 3631,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5575,21 +5580,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3630,
+      "Progressed": 3631,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3630,
+      "Progressed": 3631,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-24T12:02:56.3421491+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:06:18.471978+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:06:21.6185349+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:54.0012795+00:00",
-  "LastUpdate_Ratings": "2023-12-29T03:03:08.225198+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:06:18.4720773+00:00"
+  "LastUpdate_Ratings": "2023-12-29T04:03:04.5263094+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:06:21.6186142+00:00"
 }

@@ -1,11 +1,11 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.56 (Ranked 498)  
+Rating: 4.56 (Ranked 499)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 16.00% | ~2,831 |
+| Oyedang, Kopengs | 16.00% | ~2,832 |
 | Captain Drummer | 12.00% | ~2,124 |
 | The Pit and the Pirates | 11.00% | ~1,947 |
 | Bosmang | 11.00% | ~1,947 |
@@ -15,7 +15,7 @@ Rating: 4.56 (Ranked 498)
 | Drone Dodger | 10.00% | ~1,770 |
 | Stogie for Fogey | 9.00% | ~1,593 |
 | Spore Taste | 9.00% | ~1,593 |
-| Zen Master | 9.00% | ~328 |
+| Zen Master | 9.00% | ~329 |
 | Call it Even | 8.00% | ~1,416 |
 | Safe Cracker | 8.00% | ~292 |
 | Madame Undersecretary | 8.00% | ~292 |
@@ -27,7 +27,7 @@ Rating: 4.56 (Ranked 498)
 | Khan's Revenge | 6.00% | ~1,062 |
 | Doctor Approved | 5.00% | ~885 |
 | Bottoms up! | 5.00% | ~885 |
-| Master Negotiator | 5.00% | ~182 |
+| Master Negotiator | 5.00% | ~183 |
 | Data Logger | 4.00% | ~708 |
 | Miraculous Maya | 4.00% | ~708 |
 | Data Master | 3.00% | ~531 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 498)
 | Scavenger Star | 0.30% | ~53 |
 | Data Collector | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,696 (Ranked 157)  
+Progressed: 17,698 (Ranked 157)  
 Completed: 56 (0.32%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 56 (0.32%) (Ranked 247)
 | 2023-12-26 | 17,513 | 53 |
 | 2023-12-27 | 17,604 | 54 |
 | 2023-12-28 | 17,675 | 56 |
-| 2023-12-29 | 17,696 | 56 |
+| 2023-12-29 | 17,698 | 56 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

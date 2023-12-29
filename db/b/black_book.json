@@ -681,9 +681,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 63256,
+  "EOS_Progressed": 63259,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 1731,
+  "EOS_NewPlayers": 1727,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -14931,6 +14931,11 @@
       "Time": "2023-12-29T03:08:38.3791895+00:00",
       "NumProgressed": 63256,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-12-29T04:08:29.9537829+00:00",
+      "NumProgressed": 63259,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -14999,7 +15004,7 @@
       "Name": "Card Player",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5060
+      "UsersEstimate": 5061
     },
     {
       "ID": "CHEATER",
@@ -15055,7 +15060,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 13916
+      "UsersEstimate": 13917
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -15071,7 +15076,7 @@
       "Name": "Encyclopedist",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3795
+      "UsersEstimate": 3796
     },
     {
       "ID": "FERN",
@@ -15135,7 +15140,7 @@
       "Name": "Witch",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3795
+      "UsersEstimate": 3796
     },
     {
       "ID": "INITIATION",
@@ -15143,7 +15148,7 @@
       "Name": "Initiation",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 18344
+      "UsersEstimate": 18345
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -15151,7 +15156,7 @@
       "Name": "Vorsa",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3795
+      "UsersEstimate": 3796
     },
     {
       "ID": "MERMAID_FREE",
@@ -15159,7 +15164,7 @@
       "Name": "Dead Friend",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5060
+      "UsersEstimate": 5061
     },
     {
       "ID": "MERMAID_NOT_FREE",
@@ -15207,7 +15212,7 @@
       "Name": "Old Spirits",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3795
+      "UsersEstimate": 3796
     },
     {
       "ID": "ONOMASTIKON_ITEMS",
@@ -15223,7 +15228,7 @@
       "Name": "Pine Tree",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5060
+      "UsersEstimate": 5061
     },
     {
       "ID": "PROSHKA_LOYAL",
@@ -15247,7 +15252,7 @@
       "Name": "Sinner",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3795
+      "UsersEstimate": 3796
     },
     {
       "ID": "SUSANIN",
@@ -15263,7 +15268,7 @@
       "Name": "Listener",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 9488
+      "UsersEstimate": 9489
     },
     {
       "ID": "TALES_2",
@@ -15271,7 +15276,7 @@
       "Name": "Collector",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5060
+      "UsersEstimate": 5061
     },
     {
       "ID": "TALES_3",
@@ -15279,7 +15284,7 @@
       "Name": "Folklorist",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3795
+      "UsersEstimate": 3796
     },
     {
       "ID": "TRAVELLER",
@@ -15335,22 +15340,22 @@
       "Name": "Keeper of Knowledge",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3795
+      "UsersEstimate": 3796
     }
   ],
   "AchievementSets": [
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 63256,
+      "Progressed": 63259,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-26T15:58:19.0277627+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:08:38.3791889+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:08:29.9537827+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:39.3063117+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:59:17.4487445+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:08:38.3792915+00:00"
+  "LastUpdate_Ratings": "2023-12-29T03:59:23.2280154+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:08:29.9538871+00:00"
 }

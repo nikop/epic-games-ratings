@@ -2,13 +2,13 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 938,
+  "Ranking_Rating": 939,
   "Ranking_Popularity": 344,
   "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1368,9 +1368,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 31738,
+  "EOS_Progressed": 31745,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 745,
+  "EOS_NewPlayers": 744,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -28478,6 +28478,11 @@
       "Time": "2023-12-29T03:09:54.2047498+00:00",
       "NumProgressed": 31738,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2023-12-29T04:09:48.8702674+00:00",
+      "NumProgressed": 31745,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 22,
@@ -28497,7 +28502,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1905
     },
     {
       "ID": "1017",
@@ -28505,7 +28510,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1905
     },
     {
       "ID": "1018",
@@ -28545,7 +28550,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1905
     },
     {
       "ID": "1023",
@@ -28561,7 +28566,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2539
+      "UsersEstimate": 2540
     },
     {
       "ID": "1025",
@@ -28585,7 +28590,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2856
+      "UsersEstimate": 2857
     },
     {
       "ID": "1028",
@@ -28593,7 +28598,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5713
+      "UsersEstimate": 5714
     },
     {
       "ID": "1029",
@@ -28601,7 +28606,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2539
+      "UsersEstimate": 2540
     },
     {
       "ID": "1030",
@@ -28609,7 +28614,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6030
+      "UsersEstimate": 6032
     },
     {
       "ID": "1031",
@@ -28617,7 +28622,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4126
+      "UsersEstimate": 4127
     },
     {
       "ID": "1032",
@@ -28625,7 +28630,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12695
+      "UsersEstimate": 12698
     },
     {
       "ID": "1033",
@@ -28649,7 +28654,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 4126
+      "UsersEstimate": 4127
     },
     {
       "ID": "1036",
@@ -28664,15 +28669,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 31738,
+      "Progressed": 31745,
       "Completed": 85
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-26T20:57:53.621354+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:09:54.2047491+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:09:48.8702672+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:33.0963309+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:58:54.1230576+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:09:54.2048781+00:00"
+  "LastUpdate_Ratings": "2023-12-29T03:58:59.2220814+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:09:48.870387+00:00"
 }

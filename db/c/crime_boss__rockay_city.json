@@ -2,13 +2,13 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 1044,
+  "Ranking_Rating": 1045,
   "Ranking_Popularity": 208,
   "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5289,9 +5289,9 @@
       "Count": 530
     }
   ],
-  "EOS_Progressed": 92658,
+  "EOS_Progressed": 92660,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -29549,6 +29549,11 @@
       "Time": "2023-12-29T01:42:59.1388632+00:00",
       "NumProgressed": 92658,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-29T04:05:57.2808329+00:00",
+      "NumProgressed": 92660,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -29887,13 +29892,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92658,
+      "Progressed": 92660,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21005,
+      "Progressed": 21007,
       "Completed": 15593
     }
   ],
@@ -29901,8 +29906,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-28T15:58:17.1594128+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:05:55.1900371+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:05:57.2808326+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:55.2021168+00:00",
-  "LastUpdate_Ratings": "2023-12-29T02:58:14.1095037+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:05:55.19018+00:00"
+  "LastUpdate_Ratings": "2023-12-29T03:58:18.1935526+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:05:57.2809508+00:00"
 }

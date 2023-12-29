@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 432,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-04-08T00:00:00+00:00",
     "PcReleaseDate": "2022-04-08T00:00:00+00:00",
@@ -344,17 +344,17 @@
       "ID": "BFT_CH6",
       "SetID": "7o7kd30",
       "Name": "Chapter 6 Complete",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "BFT_CH6HB",
       "SetID": "7o7kd30",
       "Name": "All Geared Up",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "BFT_CH7",
@@ -400,9 +400,9 @@
       "ID": "BFT_DISC",
       "SetID": "7o7kd30",
       "Name": "Pro Explorers",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "BFT_ENEMY",
@@ -497,8 +497,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2023-12-29T03:09:56.5380157+00:00",
+  "LastChanged_Achievements": "2023-12-29T04:09:51.297522+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:16.5653285+00:00",
-  "LastUpdate_Ratings": "2023-12-29T03:00:20.2596037+00:00",
-  "LastUpdate_Achievements": "2023-12-29T03:09:56.5380353+00:00"
+  "LastUpdate_Ratings": "2023-12-29T04:00:27.4726802+00:00",
+  "LastUpdate_Achievements": "2023-12-29T04:09:51.2975412+00:00"
 }
