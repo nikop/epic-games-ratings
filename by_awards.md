@@ -62,7 +62,7 @@
 | 60 | [Cities: Skylines](games/c/cities__skylines.md) | 6,559 | 4.66 | 297 |
 | 61 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,491 | 4.80 | 88 |
 | 62 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 6,300 | 4.82 | 70 |
-| 63 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,185 | 4.78 | 109 |
+| 63 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,191 | 4.78 | 109 |
 | 64 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,039 | 4.66 | 297 |
 | 65 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,016 | 4.64 | 343 |
 | 66 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 5,943 | 4.68 | 260 |
@@ -332,8 +332,8 @@
 | 330 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 145 | 4.74 | 161 |
 | 331 | [Atomicrops](games/a/atomicrops.md) | 140 | 4.86 | 31 |
 | 331 | [while True: learn()](games/w/while_true__learn().md) | 140 | 4.51 | 587 |
+| 333 | [Alien: Isolation](games/a/alien__isolation.md) | 139 | 4.61 | 397 |
 | 333 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 139 | 4.51 | 587 |
-| 334 | [Alien: Isolation](games/a/alien__isolation.md) | 138 | 4.61 | 397 |
 | 335 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 136 | 4.42 | 730 |
 | 335 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 136 | 4.37 | 794 |
 | 337 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 133 | 4.70 | 217 |
@@ -470,13 +470,13 @@
 | 468 | [Bugsnax](games/b/bugsnax.md) | 44 | 4.86 | 31 |
 | 468 | [Coromon](games/c/coromon.md) | 44 | 4.68 | 260 |
 | 470 | [WarmSnow](games/w/warmsnow.md) | 43 | 4.83 | 57 |
-| 471 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 41 | 4.20 | 947 |
-| 471 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 41 | 4.60 | 425 |
-| 471 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 41 | 4.84 | 49 |
-| 471 | [Isonzo](games/i/isonzo.md) | 41 | 4.58 | 460 |
-| 475 | [GigaBash](games/g/gigabash.md) | 40 | 4.54 | 540 |
-| 475 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 40 | 4.58 | 460 |
-| 475 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 40 | 4.71 | 202 |
+| 471 | [GigaBash](games/g/gigabash.md) | 42 | 4.54 | 540 |
+| 472 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 41 | 4.20 | 947 |
+| 472 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 41 | 4.60 | 425 |
+| 472 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 41 | 4.84 | 49 |
+| 472 | [Isonzo](games/i/isonzo.md) | 41 | 4.58 | 460 |
+| 476 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 40 | 4.58 | 460 |
+| 476 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 40 | 4.71 | 202 |
 | 478 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 39 | 4.22 | 931 |
 | 478 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 39 | 4.03 | 1,024 |
 | 478 | [Steelrising](games/s/steelrising.md) | 39 | 4.30 | 863 |
@@ -505,7 +505,7 @@
 | 501 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 34 | 4.63 | 355 |
 | 501 | [DOOM (1993)](games/d/doom_(1993).md) | 34 | 4.82 | 70 |
 | 501 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 34 | 4.54 | 540 |
-| 506 | [Forspoken](games/f/forspoken.md) | 33 | 4.12 | 994 |
+| 506 | [Forspoken](games/f/forspoken.md) | 33 | 4.11 | 995 |
 | 506 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 33 | 4.20 | 947 |
 | 506 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 33 | 4.74 | 161 |
 | 506 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 33 | 4.76 | 132 |
