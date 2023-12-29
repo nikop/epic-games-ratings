@@ -44,7 +44,7 @@
 | 42 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 43 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.21% |
 | 44 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 9.09% |
-| 44 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.09% |
+| 45 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.07% |
 | 46 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.89% |
 | 46 | [Smelter](games/s/smelter.md) | 8.89% |
 | 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.73% |
@@ -69,7 +69,7 @@
 | 66 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 6.25% |
 | 66 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 6.25% |
 | 69 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
-| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.00% |
+| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.99% |
 | 71 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.95% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.80% |
 | 73 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
@@ -236,16 +236,16 @@
 | 234 | [Darksiders III](games/d/darksiders_iii.md) | 0.37% |
 | 234 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
 | 236 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.36% |
+| 237 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.35% |
 | 237 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.35% |
 | 237 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
 | 237 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 0.35% |
 | 237 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.35% |
 | 237 | [The Surge](games/t/the_surge.md) | 0.35% |
-| 242 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.34% |
-| 242 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.34% |
-| 242 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.34% |
-| 242 | [Train Valley](games/t/train_valley.md) | 0.34% |
-| 242 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.34% |
+| 243 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.34% |
+| 243 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.34% |
+| 243 | [Train Valley](games/t/train_valley.md) | 0.34% |
+| 243 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.34% |
 | 247 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 247 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.32% |
 | 247 | [The First Tree](games/t/the_first_tree.md) | 0.32% |
@@ -277,10 +277,10 @@
 | 275 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.19% |
 | 275 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.19% |
 | 275 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.19% |
-| 275 | [Tangles](games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 0.19% |
-| 279 | [Against the Storm](games/a/against_the_storm.md) | 0.18% |
-| 279 | [Going Medieval](games/g/going_medieval.md) | 0.18% |
-| 279 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.18% |
+| 278 | [Against the Storm](games/a/against_the_storm.md) | 0.18% |
+| 278 | [Going Medieval](games/g/going_medieval.md) | 0.18% |
+| 278 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.18% |
+| 278 | [Tangles](games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 0.18% |
 | 282 | [Scathe](games/s/scathe.md) | 0.17% |
 | 282 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.17% |
 | 282 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.17% |
