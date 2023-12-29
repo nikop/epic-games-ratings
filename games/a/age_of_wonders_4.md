@@ -1,16 +1,16 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.63 (Ranked 356)  
+Rating: 4.63 (Ranked 355)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 12.00% | ~777 |
+| Secret Technique | 12.00% | ~778 |
 | Realm Estate | 10.00% | ~648 |
-| A Wonderful Discovery | 9.00% | ~583 |
-| Walls Cannot Stop Us | 9.00% | ~583 |
-| From Friends to Family | 8.00% | ~518 |
-| Bone Peddler | 7.00% | ~453 |
+| A Wonderful Discovery | 10.00% | ~648 |
+| Walls Cannot Stop Us | 9.00% | ~584 |
+| From Friends to Family | 8.00% | ~519 |
+| Bone Peddler | 7.00% | ~454 |
 | Full Ascension | 6.00% | ~389 |
 | Magical Synergy | 6.00% | ~389 |
 | There Can Only Be One! | 5.00% | ~324 |
@@ -20,13 +20,13 @@ Rating: 4.63 (Ranked 356)
 | Valley of Wonders | 4.00% | ~259 |
 | In a Liege of Your Own | 4.00% | ~259 |
 | Intimidation Tactics | 4.00% | ~259 |
-| Return of the Wizard King | 3.00% | ~194 |
-| Enchanted Archipelago | 3.00% | ~194 |
-| Digging for Treasure | 3.00% | ~194 |
-| My Final Form | 3.00% | ~194 |
-| Fiery Friend | 3.00% | ~194 |
-| Impenetrable Fortress | 3.00% | ~194 |
-| Freed Lands of Manuhari | 3.00% | ~194 |
+| Return of the Wizard King | 3.00% | ~195 |
+| Enchanted Archipelago | 3.00% | ~195 |
+| Digging for Treasure | 3.00% | ~195 |
+| My Final Form | 3.00% | ~195 |
+| Fiery Friend | 3.00% | ~195 |
+| Impenetrable Fortress | 3.00% | ~195 |
+| Freed Lands of Manuhari | 3.00% | ~195 |
 | Arch Mage | 2.00% | ~130 |
 | Crimson Caldera | 2.00% | ~130 |
 | Preparation Is Everything | 2.00% | ~130 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 356)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,477 (Ranked 195)  
+Progressed: 6,484 (Ranked 195)  
 Completed: 7 (0.11%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 7 (0.11%) (Ranked 303)
 | 2023-12-26 | 6,285 | 7 |
 | 2023-12-27 | 6,359 | 7 |
 | 2023-12-28 | 6,414 | 7 |
-| 2023-12-29 | 6,477 | 7 |
+| 2023-12-29 | 6,484 | 7 |
 ## Awards
 Max (Diverse Characters): 38  (Ranked 482)  
 Sum: 161 (Ranked 435)  

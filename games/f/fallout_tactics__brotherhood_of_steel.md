@@ -4,11 +4,12 @@
 Rating: 4.43 (Ranked 713)  
 ## Awards
 Max (Character Customization): 116  (Ranked 352)  
-Sum: 116 (Ranked 453)  
-Diff (max vs sum): -101  
+Sum: 136 (Ranked 441)  
+Diff (max vs sum): -89  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 116 |
+| This game has Challenging Combat | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -95,4 +96,4 @@ Diff (max vs sum): -101
 | 2023-12-13 | 4.44 | 111 | 111 |
 | 2023-12-16 | 4.43 | 111 | 111 |
 | 2023-12-22 | 4.43 | 112 | 112 |
-| 2023-12-29 | 4.43 | 116 | 116 |
+| 2023-12-29 | 4.43 | 116 | 136 |

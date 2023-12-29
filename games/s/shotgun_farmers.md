@@ -35,7 +35,7 @@
 | Quit Horsin' Around | 11.00% | ~40 |
 | Quadsparagus | 10.00% | ~31 |
 | Bring Home The Bacon | 9.00% | ~32 |
-| Expert Survivor | 8.00% | ~25 |
+| Expert Survivor | 9.00% | ~28 |
 | Early Bird | 6.00% | ~22 |
 | Chick Magnet | 5.00% | ~18 |
 | I Have The High Ground | 5.00% | ~18 |

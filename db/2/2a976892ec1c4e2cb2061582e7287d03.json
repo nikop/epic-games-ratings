@@ -4,7 +4,7 @@
   "ProductSlug": "mystery-solitaire-grimms-tales-2-e1e538",
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewPlayers": 572,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-11T00:00:00+00:00",
@@ -21,6 +21,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
@@ -32,7 +34,8 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
+  "FirstSeen": "2023-12-29T19:59:37.582907+00:00",
   "LastUpdate_AppInfo": "2023-12-27T10:56:56.6495374+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:59:35.3085503+00:00",
-  "LastUpdate_Achievements": "2023-12-29T19:05:31.6766977+00:00"
+  "LastUpdate_Ratings": "2023-12-29T19:59:37.5829095+00:00",
+  "LastUpdate_Achievements": "2023-12-29T20:05:22.5645282+00:00"
 }

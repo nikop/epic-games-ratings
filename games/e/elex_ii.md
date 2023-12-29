@@ -8,14 +8,14 @@ Number of Ratings: 124  (23.09.2022)
 | ---- | ---------- | ----- |
 | Entrepreneur | 36.00% | ~46 |
 | Best Buddy | 27.00% | ~35 |
-| Civilian | 24.00% | ~31 |
+| Civilian | 25.00% | ~32 |
 | Role Model | 23.00% | ~29 |
 | Peddler | 20.00% | ~26 |
 | Military Leader | 17.00% | ~22 |
 | Creator | 17.00% | ~22 |
 | Commander | 17.00% | ~22 |
 | Festival-goer | 17.00% | ~22 |
-| Long-Haul Flyer | 13.00% | ~17 |
+| Long-Haul Flyer | 14.00% | ~18 |
 | Pass A38 | 12.00% | ~15 |
 | Irissa's Fate | 11.00% | ~14 |
 | Berserker | 9.00% | ~12 |
@@ -39,6 +39,7 @@ Number of Ratings: 124  (23.09.2022)
 | Beam Me Up | 2.00% | ~3 |
 | Morkon | 2.00% | ~3 |
 | Hunter | 2.00% | ~3 |
+| Weaponsmith | 0.80% | ~1 |
 | Defector | 0.80% | ~1 |
 | Outlaw | 0.80% | ~1 |
 | Destroyer | 0.80% | ~1 |
@@ -46,7 +47,6 @@ Number of Ratings: 124  (23.09.2022)
 | Pack Rat | 0.00% | ~0 |
 | Drinker | 0.00% | ~0 |
 | Key Master | 0.00% | ~0 |
-| Weaponsmith | 0.00% | ~0 |
 | Socializer | 0.00% | ~0 |
 | Computer Scientist | 0.00% | ~0 |
 | Treasurer | 0.00% | ~0 |

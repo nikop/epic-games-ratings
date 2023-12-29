@@ -1382,9 +1382,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 158
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1398,9 +1398,9 @@
       "ID": "AC_DEATH_ENEMIES_3",
       "SetID": "16i2akc",
       "Name": "Genocide",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 57
+      "UsersEstimate": 60
     },
     {
       "ID": "AC_DISTANCE_1",
@@ -1557,8 +1557,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-29T19:08:28.1835327+00:00",
+  "LastChanged_Achievements": "2023-12-29T20:08:03.7263369+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:54.1541826+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:57:19.3441712+00:00",
-  "LastUpdate_Achievements": "2023-12-29T19:08:28.1835607+00:00"
+  "LastUpdate_Ratings": "2023-12-29T19:57:26.9539589+00:00",
+  "LastUpdate_Achievements": "2023-12-29T20:08:03.7263666+00:00"
 }

@@ -1,31 +1,31 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.63 (Ranked 356)  
+Rating: 4.63 (Ranked 355)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 3.00% | ~262 |
-| A Thorny Situation | 3.00% | ~262 |
+| Azoria Beckons | 3.00% | ~263 |
+| A Thorny Situation | 3.00% | ~263 |
 | Miner 49er | 2.00% | ~175 |
 | Break-Net Speed | 2.00% | ~175 |
 | Humble Collector | 2.00% | ~175 |
 | ... And Spit Back Out | 2.00% | ~175 |
 | Bramble Breaker | 2.00% | ~175 |
-| Calm Sailing | 1.00% | ~87 |
-| Open the Gate! | 1.00% | ~87 |
-| Clear the Air | 1.00% | ~87 |
-| Lumberjack | 1.00% | ~87 |
-| Mist Walker | 1.00% | ~87 |
-| Oui, Chef! | 1.00% | ~87 |
+| Calm Sailing | 1.00% | ~88 |
+| Open the Gate! | 1.00% | ~88 |
+| Clear the Air | 1.00% | ~88 |
+| Lumberjack | 1.00% | ~88 |
+| Mist Walker | 1.00% | ~88 |
+| Oui, Chef! | 1.00% | ~88 |
 | Higher Tax Bracket | 0.90% | ~79 |
 | Exit Through The Gift Shop | 0.90% | ~12 |
 | Search for the Hairy Grell | 0.80% | ~70 |
 | Botanical Breakthrough | 0.80% | ~70 |
 | Beach Comber | 0.70% | ~61 |
-| Flaming Hot Completos | 0.60% | ~52 |
-| Azorian Anniversary | 0.60% | ~52 |
-| Skilled | 0.60% | ~52 |
+| Flaming Hot Completos | 0.60% | ~53 |
+| Azorian Anniversary | 0.60% | ~53 |
+| Skilled | 0.60% | ~53 |
 | Fae Farmer | 0.50% | ~44 |
 | Got to Catch Them All | 0.40% | ~35 |
 | Scattered Scroll Scrounger | 0.40% | ~35 |
@@ -37,8 +37,8 @@ Rating: 4.63 (Ranked 356)
 | Chatty Neighbor | 0.30% | ~26 |
 | House Proud | 0.30% | ~26 |
 | Going Down | 0.30% | ~4 |
-| Angling Authority | 0.20% | ~17 |
-| Captain of Cozy | 0.20% | ~17 |
+| Angling Authority | 0.20% | ~18 |
+| Captain of Cozy | 0.20% | ~18 |
 | Polyglot | 0.20% | ~3 |
 | Cloverfield Island | 0.10% | ~9 |
 | Workaholic | 0.10% | ~9 |
@@ -49,7 +49,7 @@ Rating: 4.63 (Ranked 356)
 | Splish-Splash | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,748 (Ranked 183)  
+Progressed: 8,751 (Ranked 183)  
 Completed: 1 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 1 (0.01%) (Ranked 367)
 | 2023-12-26 | 8,692 | 1 |
 | 2023-12-27 | 8,713 | 1 |
 | 2023-12-28 | 8,728 | 1 |
-| 2023-12-29 | 8,748 | 1 |
+| 2023-12-29 | 8,751 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

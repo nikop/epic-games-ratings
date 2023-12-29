@@ -43,9 +43,9 @@
 | No blades in the gym | 39.00% | ~193 |
 | Champion – no way back | 38.00% | ~188 |
 | Responsible approach | 37.00% | ~184 |
+| GYM professional | 36.00% | ~179 |
 | Underground dwellers | 36.00% | ~179 |
 | Deal with life | 35.00% | ~174 |
-| GYM professional | 35.00% | ~174 |
 | Mom got better | 34.00% | ~169 |
 | Poisoned fighter | 34.00% | ~169 |
 | Get out of my apartment! | 34.00% | ~169 |
@@ -60,18 +60,18 @@
 | Family comes first | 29.00% | ~144 |
 | Key memories | 29.00% | ~144 |
 | Not little hacker | 29.00% | ~144 |
+| Careerist | 29.00% | ~144 |
 | The heart of the Resistance | 29.00% | ~144 |
 | Your own way | 29.00% | ~144 |
 | Trap disarmed | 28.00% | ~139 |
 | Another world | 28.00% | ~139 |
 | The last bell ring | 28.00% | ~139 |
-| Careerist | 28.00% | ~139 |
 | Anyone can resist | 28.00% | ~139 |
 | Better cooking at home | 26.00% | ~129 |
 | The only right decision | 26.00% | ~129 |
 | Silver’s past | 25.00% | ~124 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 496 (Ranked 343)  
+Progressed: 496 (Ranked 344)  
 Completed: 9 (1.81%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |

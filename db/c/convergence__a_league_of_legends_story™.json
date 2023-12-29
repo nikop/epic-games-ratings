@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,7 +51,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1140,
+  "EOS_Progressed": 1142,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
@@ -3271,6 +3271,11 @@
       "Time": "2023-12-29T18:10:57.2132299+00:00",
       "NumProgressed": 1140,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-29T20:09:46.0833835+00:00",
+      "NumProgressed": 1142,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3290,7 +3295,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -3314,7 +3319,7 @@
       "Name": "Right On Time",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ClockworkCompletion1",
@@ -3330,7 +3335,7 @@
       "Name": "Like Clockwork",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ClovemaryGift",
@@ -3338,7 +3343,7 @@
       "Name": "Clovemary for Remembering",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "CosmeticCompletion1",
@@ -3402,7 +3407,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3410,7 +3415,7 @@
       "Name": "The Betrayer",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -3418,7 +3423,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "GadgetCompletion1",
@@ -3450,7 +3455,7 @@
       "Name": "Hexlock for Protection",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "InxChromaInTheatre",
@@ -3546,7 +3551,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -3570,7 +3575,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "RewindParry",
@@ -3594,7 +3599,7 @@
       "Name": "Golem Chaser",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "SkillCompletion1",
@@ -3610,7 +3615,7 @@
       "Name": "Fast Learner",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "SpeedRun",
@@ -3626,7 +3631,7 @@
       "Name": "Sump Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "SyronGift",
@@ -3690,7 +3695,7 @@
       "Name": "The Brass Boss",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3698,14 +3703,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1140,
+      "Progressed": 1142,
       "Completed": 6
     }
   ],
@@ -3713,8 +3718,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-29T19:10:14.7571682+00:00",
+  "LastChanged_Achievements": "2023-12-29T20:09:46.083383+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:59:57.9874081+00:00",
-  "LastUpdate_Achievements": "2023-12-29T19:10:14.7572078+00:00"
+  "LastUpdate_Ratings": "2023-12-29T19:59:58.9312352+00:00",
+  "LastUpdate_Achievements": "2023-12-29T20:09:46.0834733+00:00"
 }

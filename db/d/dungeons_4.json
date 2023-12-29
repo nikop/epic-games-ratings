@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -37,7 +37,7 @@
   "Tags": [],
   "EOS_Progressed": 660,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.64,
   "EosHistory": [
@@ -2070,9 +2070,9 @@
       "ID": "ach_main04undead_minions",
       "SetID": "4hg22ll",
       "Name": "Minions, Minions!",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 363
+      "UsersEstimate": 370
     },
     {
       "ID": "ach_main04undead_sacrifice",
@@ -2487,8 +2487,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2023-12-28T14:01:53.0382272+00:00",
-  "LastChanged_Achievements": "2023-12-29T19:09:07.5109269+00:00",
+  "LastChanged_Achievements": "2023-12-29T20:08:42.0185517+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.4415734+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:57:06.3212513+00:00",
-  "LastUpdate_Achievements": "2023-12-29T19:09:07.5109818+00:00"
+  "LastUpdate_Ratings": "2023-12-29T19:57:14.0143076+00:00",
+  "LastUpdate_Achievements": "2023-12-29T20:08:42.0186394+00:00"
 }

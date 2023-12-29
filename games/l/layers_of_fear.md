@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 83.00% | ~186 |
-| A piece of the story | 59.00% | ~132 |
-| Wanderer | 54.00% | ~121 |
-| It's covered up for a reason | 51.00% | ~114 |
-| Scraps of love | 46.00% | ~103 |
-| The artist’s impression | 45.00% | ~101 |
-| Do what you have to | 43.00% | ~96 |
-| Sign of weakness | 39.00% | ~87 |
-| Refuse to look | 35.00% | ~78 |
+| Something important | 84.00% | ~189 |
+| A piece of the story | 60.00% | ~135 |
+| Wanderer | 54.00% | ~122 |
+| It's covered up for a reason | 52.00% | ~117 |
+| Scraps of love | 46.00% | ~104 |
+| The artist’s impression | 44.00% | ~99 |
+| Do what you have to | 43.00% | ~97 |
+| Sign of weakness | 39.00% | ~88 |
+| Refuse to look | 35.00% | ~79 |
 | Face your fears | 29.00% | ~65 |
 | Finished it | 26.00% | ~58 |
 | Whispers long forgotten | 16.00% | ~36 |
@@ -21,17 +21,17 @@
 | Sound Bite | 11.00% | ~25 |
 | Playtime | 11.00% | ~25 |
 | The art of movement | 11.00% | ~25 |
+| The tragedy unfolds | 11.00% | ~25 |
 | Tough conversation | 11.00% | ~25 |
+| A new way | 10.00% | ~22 |
 | First steps | 10.00% | ~22 |
 | Lights! Camera! Action! | 10.00% | ~22 |
-| The tragedy unfolds | 10.00% | ~22 |
-| A new way | 9.00% | ~20 |
 | Another perspective | 9.00% | ~20 |
 | Breaking free | 9.00% | ~20 |
 | True Reflection | 7.00% | ~16 |
-| Casting Finished | 6.00% | ~13 |
-| Heavy Burden | 6.00% | ~13 |
-| Fisherman | 6.00% | ~13 |
+| Casting Finished | 6.00% | ~14 |
+| Heavy Burden | 6.00% | ~14 |
+| Fisherman | 6.00% | ~14 |
 | Instinct of self-preservation | 5.00% | ~11 |
 | Something to think about | 4.00% | ~9 |
 | I remember It Like Was Yesterday | 4.00% | ~9 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224 (Ranked 415)  
+Progressed: 225 (Ranked 415)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,4 +124,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 208 | 0 |
 | 2023-12-27 | 213 | 0 |
 | 2023-12-28 | 220 | 0 |
-| 2023-12-29 | 224 | 0 |
+| 2023-12-29 | 225 | 0 |

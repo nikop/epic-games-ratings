@@ -17,6 +17,7 @@
 | Rok and Roll | 11.00% | ~2 |
 | First Contact? | 11.00% | ~2 |
 | Not Too Long | 11.00% | ~2 |
+| Welcome back | 11.00% | ~2 |
 | Getting Better | 11.00% | ~2 |
 | Priceless Collection | 6.00% | ~1 |
 | One Man Army | 6.00% | ~1 |
@@ -30,7 +31,6 @@
 | Seeking Discovery | 6.00% | ~1 |
 | Trekkie | 6.00% | ~1 |
 | The Crew is Back! | 6.00% | ~1 |
-| Welcome back | 6.00% | ~1 |
 | Teamwork makes the dream work | 6.00% | ~1 |
 | Badge of a Captain | 0.00% | ~0 |
 | A True Merit Badge | 0.00% | ~0 |

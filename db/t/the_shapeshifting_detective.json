@@ -4,7 +4,7 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 297,
+  "EOS_Progressed": 298,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -720,6 +720,11 @@
       "Time": "2023-12-29T18:08:10.0405926+00:00",
       "NumProgressed": 297,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T20:03:21.9501681+00:00",
+      "NumProgressed": 298,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 21,
@@ -753,9 +758,9 @@
       "ID": "chameleon",
       "SetID": "2db2j74",
       "Name": "Chameleon",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 57
     },
     {
       "ID": "chicken",
@@ -787,15 +792,15 @@
       "Name": "Highlander",
       "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "look_mum_im_a_detective",
       "SetID": "2db2j74",
       "Name": "Look Mum I\u0027m A Detective",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 62
+      "UsersEstimate": 60
     },
     {
       "ID": "oscar_winning_performance",
@@ -817,9 +822,9 @@
       "ID": "play_it_again_sam",
       "SetID": "2db2j74",
       "Name": "Play It Again Sam",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 268
     },
     {
       "ID": "play_me_by_the_hour",
@@ -827,7 +832,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "poetent",
@@ -859,7 +864,7 @@
       "Name": "Strong Silent Type",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "the_big_sleep",
@@ -898,7 +903,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 297,
+      "Progressed": 298,
       "Completed": 3
     }
   ],
@@ -906,8 +911,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:08:10.0405922+00:00",
+  "LastChanged_Achievements": "2023-12-29T20:03:21.9501678+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:53.236705+00:00",
-  "LastUpdate_Ratings": "2023-12-29T19:03:11.8811378+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:08:10.0406081+00:00"
+  "LastUpdate_Ratings": "2023-12-29T20:03:08.106519+00:00",
+  "LastUpdate_Achievements": "2023-12-29T20:03:21.9502142+00:00"
 }

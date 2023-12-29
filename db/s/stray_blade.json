@@ -4,7 +4,7 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 446,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 449,
+  "Ranking_EOS_NewPlayers": 448,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -1085,7 +1085,7 @@
       "ID": "ACH_UNLOCK_ABILITY_MANNINITE",
       "SetID": "7i20me3",
       "Name": "The Power of the Mountains",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -1164,8 +1164,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-12-29T19:10:16.0719674+00:00",
+  "LastChanged_Achievements": "2023-12-29T20:09:47.0107821+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:39.7737079+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:57:36.1247213+00:00",
-  "LastUpdate_Achievements": "2023-12-29T19:10:16.0719979+00:00"
+  "LastUpdate_Ratings": "2023-12-29T19:57:42.9494399+00:00",
+  "LastUpdate_Achievements": "2023-12-29T20:09:47.0108283+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -282,9 +282,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 241,
+  "EOS_Progressed": 242,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -1212,6 +1212,11 @@
       "Time": "2023-12-29T19:09:16.781958+00:00",
       "NumProgressed": 241,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T20:08:50.8254897+00:00",
+      "NumProgressed": 242,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1222,9 +1227,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1238,9 +1243,9 @@
       "ID": "ACH_ANAL_PROBE_TRIPPLE_CRIT",
       "SetID": "4n84pon",
       "Name": "Perfect Probulator",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -1360,7 +1365,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1390,9 +1395,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1448,7 +1453,7 @@
       "Name": "Scuttled",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_KILL_YETI",
@@ -1496,7 +1501,7 @@
       "Name": "Re-Return of the Clone of the Invasion II-2",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_SKATE_ALBION",
@@ -1568,14 +1573,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 241,
+      "Progressed": 242,
       "Completed": 1
     }
   ],
@@ -1583,8 +1588,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-28T10:58:39.1665152+00:00",
-  "LastChanged_Achievements": "2023-12-29T19:09:16.7819578+00:00",
+  "LastChanged_Achievements": "2023-12-29T20:08:50.825489+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:59:14.5266573+00:00",
-  "LastUpdate_Achievements": "2023-12-29T19:09:16.7819899+00:00"
+  "LastUpdate_Ratings": "2023-12-29T19:59:18.1624446+00:00",
+  "LastUpdate_Achievements": "2023-12-29T20:08:50.8255493+00:00"
 }

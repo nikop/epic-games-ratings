@@ -9,16 +9,16 @@
 | The Ship | 68.00% | ~52 |
 | Seeking the truth | 57.00% | ~44 |
 | An old friend | 55.00% | ~42 |
-| The Gala | 52.00% | ~40 |
-| A curious gathering | 49.00% | ~38 |
-| Little grey cells | 47.00% | ~36 |
-| Impossible is possible | 47.00% | ~36 |
-| The Missing Magdalene | 47.00% | ~36 |
-| Arthur Hastings | 47.00% | ~36 |
-| Everything matters | 43.00% | ~33 |
-| An expert mediator | 42.00% | ~32 |
-| DI Hardwicke | 42.00% | ~32 |
-| Order and method | 36.00% | ~28 |
+| The Gala | 53.00% | ~41 |
+| A curious gathering | 51.00% | ~39 |
+| Little grey cells | 48.00% | ~37 |
+| Impossible is possible | 48.00% | ~37 |
+| The Missing Magdalene | 48.00% | ~37 |
+| Arthur Hastings | 48.00% | ~37 |
+| Everything matters | 44.00% | ~34 |
+| An expert mediator | 43.00% | ~33 |
+| DI Hardwicke | 43.00% | ~33 |
+| Order and method | 38.00% | ~29 |
 | Betty Allen | 36.00% | ~28 |
 | The Investigation Begins | 34.00% | ~26 |
 | Ms. Camilla B. Culsham | 31.00% | ~24 |

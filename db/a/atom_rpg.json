@@ -4,10 +4,10 @@
   "ProductSlug": "atom-rpg-3adb54",
   "Ranking_Rating": 648,
   "Ranking_Popularity": 441,
-  "Ranking_PopularitySum": 496,
+  "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 256,
-  "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_Completed": 327,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -409,11 +409,11 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1538,
+  "EOS_Progressed": 1540,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.07,
+  "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:26.9288979+00:00",
@@ -3894,6 +3894,11 @@
       "Time": "2023-12-29T19:10:11.0509809+00:00",
       "NumProgressed": 1538,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T20:09:42.4537871+00:00",
+      "NumProgressed": 1540,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3961,7 +3966,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1523
+      "UsersEstimate": 1525
     },
     {
       "ID": "EXPERT_1",
@@ -3977,7 +3982,7 @@
       "Name": "Explorer",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "GHOSTBUSTER",
@@ -3993,7 +3998,7 @@
       "Name": "Grave Robber",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "HEAD_BURST_1",
@@ -4001,7 +4006,7 @@
       "Name": "Head Burst",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "INDY_1",
@@ -4025,7 +4030,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "LOVE_GURU_1",
@@ -4033,7 +4038,7 @@
       "Name": "Love Guru",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -4057,7 +4062,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4065,7 +4070,7 @@
       "Name": "One shot, one kill",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "PACIFIST",
@@ -4129,7 +4134,7 @@
       "Name": "Savant",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "SECRET_ROOM",
@@ -4161,7 +4166,7 @@
       "Name": "Traveler",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "VVE",
@@ -4192,15 +4197,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1538,
+      "Progressed": 1540,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-12-27T01:41:52.1948259+00:00",
-  "LastChanged_Achievements": "2023-12-29T19:10:11.0509807+00:00",
+  "LastChanged_Achievements": "2023-12-29T20:09:42.4537868+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.1094893+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:58:45.4352293+00:00",
-  "LastUpdate_Achievements": "2023-12-29T19:10:11.0510098+00:00"
+  "LastUpdate_Ratings": "2023-12-29T19:58:50.4444511+00:00",
+  "LastUpdate_Achievements": "2023-12-29T20:09:42.4538341+00:00"
 }

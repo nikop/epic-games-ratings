@@ -6,7 +6,7 @@
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 262,
-  "Ranking_EOS_Completed": 198,
+  "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
@@ -71,7 +71,7 @@
   "Tags": [],
   "EOS_Progressed": 1384,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -3568,9 +3568,9 @@
       "ID": "EV_ACH04",
       "SetID": "6jeac23",
       "Name": "No Bites",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 747
+      "UsersEstimate": 761
     },
     {
       "ID": "EV_ACH05",
@@ -3672,9 +3672,9 @@
       "ID": "EV_ACH17",
       "SetID": "6jeac23",
       "Name": "Iceborn",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 747
+      "UsersEstimate": 761
     },
     {
       "ID": "EV_ACH18",
@@ -3816,9 +3816,9 @@
       "ID": "EV_ACH35",
       "SetID": "6jeac23",
       "Name": "The Fire Below the Mountain",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 830
+      "UsersEstimate": 844
     },
     {
       "ID": "EV_ACH36",
@@ -3905,8 +3905,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-25T19:59:38.6529887+00:00",
-  "LastChanged_Achievements": "2023-12-29T19:10:19.0876244+00:00",
+  "LastChanged_Achievements": "2023-12-29T20:09:49.8057333+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:41.3966374+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:57:59.6437436+00:00",
-  "LastUpdate_Achievements": "2023-12-29T19:10:19.0876581+00:00"
+  "LastUpdate_Ratings": "2023-12-29T19:58:06.0132173+00:00",
+  "LastUpdate_Achievements": "2023-12-29T20:09:49.8057824+00:00"
 }

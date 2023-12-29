@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -1118,9 +1118,9 @@
       "ID": "ACHIEVE_50_ECTOPLASM",
       "SetID": "b8l3p0g",
       "Name": "Ghost Facers!",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1461
     },
     {
       "ID": "ACHIEVE_50_GOLD",
@@ -1478,8 +1478,8 @@
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-12-26T18:58:09.3460811+00:00",
-  "LastChanged_Achievements": "2023-12-29T19:04:29.6933923+00:00",
+  "LastChanged_Achievements": "2023-12-29T20:04:24.6081814+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:32.6670985+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:59:03.9913542+00:00",
-  "LastUpdate_Achievements": "2023-12-29T19:04:29.6934195+00:00"
+  "LastUpdate_Ratings": "2023-12-29T19:59:07.9672623+00:00",
+  "LastUpdate_Achievements": "2023-12-29T20:04:24.6082187+00:00"
 }

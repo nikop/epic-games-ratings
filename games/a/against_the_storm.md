@@ -15,16 +15,16 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Marshlands | 5.00% | ~981 |
 | Ominous Presence | 5.00% | ~981 |
 | Gathering Storm | 5.00% | ~981 |
-| Overcoming Difficulty | 4.00% | ~784 |
-| Coral Forest | 4.00% | ~784 |
-| The Scarlet Orchard | 4.00% | ~784 |
-| Frosts | 4.00% | ~784 |
-| Land of Greed | 4.00% | ~784 |
-| Homesick | 3.00% | ~588 |
-| Fertile Meadows | 3.00% | ~588 |
-| Royal Outpost | 3.00% | ~588 |
-| Watchtower | 3.00% | ~588 |
-| Untamed Wilds | 3.00% | ~588 |
+| Overcoming Difficulty | 4.00% | ~785 |
+| Coral Forest | 4.00% | ~785 |
+| The Scarlet Orchard | 4.00% | ~785 |
+| Frosts | 4.00% | ~785 |
+| Land of Greed | 4.00% | ~785 |
+| Homesick | 3.00% | ~589 |
+| Fertile Meadows | 3.00% | ~589 |
+| Royal Outpost | 3.00% | ~589 |
+| Watchtower | 3.00% | ~589 |
+| Untamed Wilds | 3.00% | ~589 |
 | Ruined Armory | 2.00% | ~392 |
 | Bandit Camp | 2.00% | ~392 |
 | Barren Lands | 2.00% | ~392 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,611 (Ranked 151)  
-Completed: 36 (0.18%) (Ranked 277)  
+Progressed: 19,618 (Ranked 151)  
+Completed: 35 (0.18%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -319,10 +319,10 @@ Completed: 36 (0.18%) (Ranked 277)
 | 2023-12-26 | 19,350 | 38 |
 | 2023-12-27 | 19,458 | 38 |
 | 2023-12-28 | 19,536 | 36 |
-| 2023-12-29 | 19,611 | 36 |
+| 2023-12-29 | 19,618 | 36 |
 ## Awards
 Max (Quickly Understood Controls): 446  (Ranked 229)  
-Sum: 3,305 (Ranked 176)  
+Sum: 3,306 (Ranked 176)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
@@ -332,7 +332,7 @@ Diff (max vs sum): 53
 | This game is Extremely Fun | 416 |
 | This game is Highly Recommended | 396 |
 | This game has Unique Visuals | 337 |
-| This game has Amazing Storytelling | 325 |
+| This game has Amazing Storytelling | 326 |
 | This game has Amazing Characters | 292 |
 | This game has Obsessive Gameplay | 254 |
 | This game has a Creative Community | 216 |
@@ -607,4 +607,4 @@ Diff (max vs sum): 53
 | 2023-12-26 | 4.82 | - | 444 | 3,295 |
 | 2023-12-27 | 4.82 | - | 445 | 3,297 |
 | 2023-12-28 | 4.82 | - | 446 | 3,302 |
-| 2023-12-29 | 4.82 | - | 446 | 3,305 |
+| 2023-12-29 | 4.82 | - | 446 | 3,306 |

@@ -6,20 +6,20 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,925 |
-| Life is your teacher | 4.00% | ~29,925 |
+| The Old Grandmaster | 4.00% | ~29,926 |
+| Life is your teacher | 4.00% | ~29,926 |
 | The Assault | 3.00% | ~22,444 |
 | Lightning Hands | 3.00% | ~22,444 |
-| The Hateful Pole Fighter | 2.00% | ~14,962 |
-| A Lady's Blood in the Snow | 2.00% | ~14,962 |
-| Stuntmaster | 2.00% | ~14,962 |
-| Street Fighting | 2.00% | ~14,962 |
-| State of constant learning | 2.00% | ~14,962 |
-| Qi Gong: Breath | 2.00% | ~14,962 |
-| Qi Gong: Essence | 2.00% | ~14,962 |
-| Old Child | 2.00% | ~14,962 |
-| Rumble in the Hangar | 2.00% | ~14,962 |
-| Diligence as a goal | 2.00% | ~1,148 |
+| The Hateful Pole Fighter | 2.00% | ~14,963 |
+| A Lady's Blood in the Snow | 2.00% | ~14,963 |
+| Stuntmaster | 2.00% | ~14,963 |
+| Street Fighting | 2.00% | ~14,963 |
+| State of constant learning | 2.00% | ~14,963 |
+| Qi Gong: Breath | 2.00% | ~14,963 |
+| Qi Gong: Essence | 2.00% | ~14,963 |
+| Old Child | 2.00% | ~14,963 |
+| Rumble in the Hangar | 2.00% | ~14,963 |
+| Diligence as a goal | 2.00% | ~1,149 |
 | Lady Wing Chun | 1.00% | ~7,481 |
 | Furious Fists | 1.00% | ~7,481 |
 | Kill Nil | 1.00% | ~7,481 |
@@ -38,11 +38,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Source of Flying Daggers | 0.50% | ~3,741 |
 | Detective Story | 0.50% | ~3,741 |
 | Bloody Sport | 0.50% | ~287 |
-| Iron Money | 0.40% | ~2,992 |
-| Legendary Talismans of Wuxing | 0.40% | ~2,992 |
-| Prodigal Child | 0.40% | ~2,992 |
-| The 36th Chamber of Kung-Fu | 0.40% | ~2,992 |
-| Sword Stained With Blood | 0.40% | ~2,992 |
+| Iron Money | 0.40% | ~2,993 |
+| Legendary Talismans of Wuxing | 0.40% | ~2,993 |
+| Prodigal Child | 0.40% | ~2,993 |
+| The 36th Chamber of Kung-Fu | 0.40% | ~2,993 |
+| Sword Stained With Blood | 0.40% | ~2,993 |
 | The best strikes are the ones we avoid | 0.40% | ~230 |
 | Knowledge Greed | 0.30% | ~2,244 |
 | The Pit Protector | 0.30% | ~2,244 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~57 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 748,124 (Ranked 23)  
+Progressed: 748,147 (Ranked 23)  
 Completed: 12,968 (1.73%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 12,968 (1.73%) (Ranked 141)
 | 2023-12-26 | 745,555 | 12,967 |
 | 2023-12-27 | 746,407 | 12,967 |
 | 2023-12-28 | 747,246 | 12,967 |
-| 2023-12-29 | 748,124 | 12,968 |
+| 2023-12-29 | 748,147 | 12,968 |
 ## Awards
 Max (Great Boss Battles): 7,041  (Ranked 55)  
 Sum: 12,471 (Ranked 84)  

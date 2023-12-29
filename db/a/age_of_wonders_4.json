@@ -2,7 +2,7 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 356,
+  "Ranking_Rating": 355,
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 195,
@@ -639,9 +639,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6477,
+  "EOS_Progressed": 6484,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 482,
+  "EOS_NewPlayers": 488,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9659,6 +9659,11 @@
       "Time": "2023-12-29T19:05:21.7848174+00:00",
       "NumProgressed": 6477,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-29T20:05:13.0775626+00:00",
+      "NumProgressed": 6484,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9718,7 +9723,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "16",
@@ -9758,7 +9763,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "20",
@@ -9788,9 +9793,9 @@
       "ID": "23",
       "SetID": "3aa2279",
       "Name": "A Wonderful Discovery",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 583
+      "UsersEstimate": 648
     },
     {
       "ID": "24",
@@ -9798,7 +9803,7 @@
       "Name": "Secret Technique",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "25",
@@ -9806,7 +9811,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "26",
@@ -9814,7 +9819,7 @@
       "Name": "Bone Peddler",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "27",
@@ -9822,7 +9827,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "28",
@@ -9830,7 +9835,7 @@
       "Name": "From Friends to Family",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "29",
@@ -9870,7 +9875,7 @@
       "Name": "My Final Form",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "33",
@@ -9902,7 +9907,7 @@
       "Name": "Fiery Friend",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "37",
@@ -9926,7 +9931,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "4",
@@ -10070,7 +10075,7 @@
       "Name": "Freed Lands of Manuhari",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "52",
@@ -10149,13 +10154,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6477,
+      "Progressed": 6484,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6477,
+      "Progressed": 6484,
       "Completed": 7
     }
   ],
@@ -10163,8 +10168,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-29T16:57:41.4982798+00:00",
-  "LastChanged_Achievements": "2023-12-29T19:05:21.7848171+00:00",
+  "LastChanged_Achievements": "2023-12-29T20:05:13.077562+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:57:36.773124+00:00",
-  "LastUpdate_Achievements": "2023-12-29T19:05:21.7849074+00:00"
+  "LastUpdate_Ratings": "2023-12-29T19:57:43.5772954+00:00",
+  "LastUpdate_Achievements": "2023-12-29T20:05:13.0776836+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 307,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -999,7 +999,7 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7481,
+  "EOS_Progressed": 7482,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
@@ -9489,6 +9489,11 @@
       "Time": "2023-12-29T05:10:44.0878415+00:00",
       "NumProgressed": 7481,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T20:09:42.2627922+00:00",
+      "NumProgressed": 7482,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9532,7 +9537,7 @@
       "Name": "Commodity Trader",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 2169
+      "UsersEstimate": 2170
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -9604,7 +9609,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5760
+      "UsersEstimate": 5761
     },
     {
       "ID": "First_Race_Met",
@@ -9612,7 +9617,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5386
+      "UsersEstimate": 5387
     },
     {
       "ID": "First_Ship_Designed",
@@ -9692,7 +9697,7 @@
       "Name": "Trading Partner",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "Level_5_Ship",
@@ -9804,7 +9809,7 @@
       "Name": "Commodity Seller",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1795
+      "UsersEstimate": 1796
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -9996,7 +10001,7 @@
       "Name": "Fleet Victory",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "Win_Conquest",
@@ -10075,15 +10080,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7481,
+      "Progressed": 7482,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-12-27T21:02:14.3045553+00:00",
-  "LastChanged_Achievements": "2023-12-29T19:10:10.8488382+00:00",
+  "LastChanged_Achievements": "2023-12-29T20:09:42.2627918+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:11.9243121+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:57:40.9942304+00:00",
-  "LastUpdate_Achievements": "2023-12-29T19:10:10.8489145+00:00"
+  "LastUpdate_Ratings": "2023-12-29T19:57:47.6092439+00:00",
+  "LastUpdate_Achievements": "2023-12-29T20:09:42.2628823+00:00"
 }

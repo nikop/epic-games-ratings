@@ -92,6 +92,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 0.20% | ~32 |
 | Military Prestige | 0.20% | ~32 |
 | Enlightenment | 0.20% | ~32 |
+| Gnosticism | 0.20% | ~32 |
 | Mythology | 0.20% | ~32 |
 | Legionary | 0.20% | ~32 |
 | Points Victory | 0.20% | ~32 |
@@ -219,7 +220,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ten Crowns | 0.10% | ~16 |
 | Industrial Progress | 0.10% | ~16 |
 | Dualism | 0.10% | ~16 |
-| Gnosticism | 0.10% | ~16 |
 | Legalism | 0.10% | ~16 |
 | Redemption | 0.10% | ~16 |
 | Revelation | 0.10% | ~16 |

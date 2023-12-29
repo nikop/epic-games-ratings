@@ -21,13 +21,13 @@
 | A Deceiving Gift | 1.00% | ~1 |
 | Expert | 1.00% | ~1 |
 | The Golden Flash | 1.00% | ~1 |
+| The Power of the Mountains | 1.00% | ~1 |
 | Sponsor | 0.70% | ~1 |
 | Defeat Uskol | 0.70% | ~1 |
 | Nothing but the Truth | 0.70% | ~1 |
 | Trailblazer | 0.70% | ~1 |
 | Finally! | 0.70% | ~1 |
 | Unveiling the Truth | 0.70% | ~1 |
-| The Power of the Mountains | 0.70% | ~1 |
 | Changing the World | 0.70% | ~1 |
 | Small Setback | 0.70% | ~1 |
 | Mirror, Mirror on the Wall | 0.00% | ~0 |

@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~4 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,219 (Ranked 235)  
+Progressed: 2,219 (Ranked 236)  
 Completed: 1 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 1 (0.05%) (Ranked 336)
 | 2023-12-29 | 2,219 | 1 |
 ## Awards
 Max (Great for Beginners): 49  (Ranked 454)  
-Sum: 329 (Ranked 370)  
+Sum: 330 (Ranked 370)  
 Diff (max vs sum): 84  
 | Award | Count |
 | ----- | ----- |
@@ -319,7 +319,7 @@ Diff (max vs sum): 84
 | This game is Extremely Fun | 38 |
 | This game is Relaxing | 35 |
 | This game has Quickly Understood Controls | 35 |
-| This game has a Creative Community | 32 |
+| This game has a Creative Community | 33 |
 | This game is Educational | 30 |
 | This game has Amazing Characters | 26 |
 | This game has Obsessive Gameplay | 21 |
@@ -443,4 +443,4 @@ Diff (max vs sum): 84
 | 2023-12-22 | 4.68 | - | 48 | 327 |
 | 2023-12-24 | 4.68 | - | 48 | 328 |
 | 2023-12-25 | 4.68 | - | 49 | 329 |
-| 2023-12-29 | 4.69 | - | 49 | 329 |
+| 2023-12-29 | 4.69 | - | 49 | 330 |

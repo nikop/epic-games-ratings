@@ -353,7 +353,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24294,
+  "EOS_Progressed": 24295,
   "EOS_Completed": 118,
   "EOS_NewPlayers": 442,
   "EOS_NewCompleters": 1,
@@ -21453,6 +21453,11 @@
       "Time": "2023-12-29T19:04:03.797266+00:00",
       "NumProgressed": 24294,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2023-12-29T20:03:59.6192838+00:00",
+      "NumProgressed": 24295,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 16,
@@ -21472,7 +21477,7 @@
       "Name": "Burning For You",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6316
+      "UsersEstimate": 6317
     },
     {
       "ID": "Deadline",
@@ -21488,7 +21493,7 @@
       "Name": "Don\u0027t Fear The Reaper",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 2429
+      "UsersEstimate": 2430
     },
     {
       "ID": "Eyes_On_Fire",
@@ -21560,7 +21565,7 @@
       "Name": "Shooting Shark",
       "Percentage": 47,
       "XP": 90,
-      "UsersEstimate": 11418
+      "UsersEstimate": 11419
     },
     {
       "ID": "Sole_Survivor",
@@ -21591,15 +21596,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 24294,
+      "Progressed": 24295,
       "Completed": 118
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-12-26T13:00:27.7460321+00:00",
-  "LastChanged_Achievements": "2023-12-29T19:04:03.7972658+00:00",
+  "LastChanged_Achievements": "2023-12-29T20:03:59.6192834+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:14.0171346+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:59:11.4105384+00:00",
-  "LastUpdate_Achievements": "2023-12-29T19:04:03.7973729+00:00"
+  "LastUpdate_Ratings": "2023-12-29T19:59:15.3135167+00:00",
+  "LastUpdate_Achievements": "2023-12-29T20:03:59.6193802+00:00"
 }

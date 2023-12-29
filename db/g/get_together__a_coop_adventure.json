@@ -2,9 +2,9 @@
   "ID": "162c788ef5924c688fa0d0663c15a763",
   "Name": "Get Together: A Coop Adventure",
   "ProductSlug": "get-together-176532",
-  "Ranking_EOS_Progress": 499,
+  "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewPlayers": 496,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-04-10T13:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 86,
+  "EOS_Progressed": 88,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.16,
+  "EOS_Completed_Percentage": 1.14,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:43.6991454+00:00",
@@ -256,6 +256,11 @@
       "Time": "2023-12-22T06:04:47.4600976+00:00",
       "NumProgressed": 86,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T20:08:16.2126799+00:00",
+      "NumProgressed": 88,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 10,
@@ -265,7 +270,7 @@
       "ID": "GT_ACH_CAVESYNC",
       "SetID": "883j7b4",
       "Name": "Beam me up",
-      "Percentage": 62,
+      "Percentage": 60,
       "XP": 100,
       "UsersEstimate": 53
     },
@@ -275,7 +280,7 @@
       "Name": "Elevator Pitch",
       "Percentage": 83,
       "XP": 100,
-      "UsersEstimate": 71
+      "UsersEstimate": 73
     },
     {
       "ID": "GT_ACH_ENDBOTH",
@@ -289,7 +294,7 @@
       "ID": "GT_ACH_FREECOMP",
       "SetID": "883j7b4",
       "Name": "Uncaged",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 100,
       "UsersEstimate": 17
     },
@@ -313,7 +318,7 @@
       "ID": "GT_ACH_REALMLOW",
       "SetID": "883j7b4",
       "Name": "Rock Bottom",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 100,
       "UsersEstimate": 49
     },
@@ -339,14 +344,14 @@
       "Name": "Get lost!",
       "Percentage": 93,
       "XP": 100,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     }
   ],
   "AchievementSets": [
     {
       "ID": "883j7b4",
       "IsBase": true,
-      "Progressed": 86,
+      "Progressed": 88,
       "Completed": 1
     }
   ],
@@ -354,8 +359,8 @@
   "FirstSeenRating": "2023-04-16T21:58:05.2747204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.6991461+00:00",
   "LastChanged": "2023-04-16T21:58:05.2747204+00:00",
-  "LastChanged_Achievements": "2023-12-29T19:08:40.9164023+00:00",
+  "LastChanged_Achievements": "2023-12-29T20:08:16.2126795+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:00.8201322+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:59:55.7896831+00:00",
-  "LastUpdate_Achievements": "2023-12-29T19:08:40.9164089+00:00"
+  "LastUpdate_Ratings": "2023-12-29T19:59:56.7936845+00:00",
+  "LastUpdate_Achievements": "2023-12-29T20:08:16.2126888+00:00"
 }

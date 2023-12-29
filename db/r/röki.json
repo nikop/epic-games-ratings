@@ -4,7 +4,7 @@
   "ProductSlug": "roki-38e7c2",
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewPlayers": 572,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-03-17T16:00:00+00:00",
@@ -52,8 +52,8 @@
   "FirstSeenRating": "2023-03-31T05:57:33.2829621+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.8459096+00:00",
   "LastChanged": "2023-03-31T05:57:33.2829623+00:00",
-  "LastChanged_Achievements": "2023-12-29T19:05:40.5788082+00:00",
+  "LastChanged_Achievements": "2023-12-29T20:05:30.8361631+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:19:59.3888355+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:59:51.0521239+00:00",
-  "LastUpdate_Achievements": "2023-12-29T19:05:40.5788098+00:00"
+  "LastUpdate_Ratings": "2023-12-29T19:59:52.0872952+00:00",
+  "LastUpdate_Achievements": "2023-12-29T20:05:30.8361668+00:00"
 }

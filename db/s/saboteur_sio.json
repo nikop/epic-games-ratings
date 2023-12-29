@@ -4,7 +4,7 @@
   "ProductSlug": "saboteur-sio-123236",
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewPlayers": 572,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-04-28T18:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-24T02:21:59.3385481+00:00",
-  "LastUpdate_Ratings": "2023-12-29T19:03:21.6049338+00:00",
-  "LastUpdate_Achievements": "2023-12-29T19:06:11.1302091+00:00"
+  "LastUpdate_Ratings": "2023-12-29T20:03:17.2145161+00:00",
+  "LastUpdate_Achievements": "2023-12-29T20:05:59.599558+00:00"
 }

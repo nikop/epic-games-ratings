@@ -3,8 +3,8 @@
   "Name": "Hanoi Puzzles - Solid Match",
   "ProductSlug": "hanoi-puzzles-solid-match-6a9e0c",
   "Ranking_EOS_Progress": 494,
-  "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 461,
+  "Ranking_EOS_Completed": 36,
+  "Ranking_EOS_NewPlayers": 448,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-11T18:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 91,
+  "EOS_Progressed": 92,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 13.19,
+  "EOS_Completed_Percentage": 13.04,
   "EosHistory": [
     {
       "Time": "2023-11-02T21:11:02.0754149+00:00",
@@ -469,6 +469,11 @@
       "Time": "2023-12-28T13:13:41.3318777+00:00",
       "NumProgressed": 91,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-29T20:09:40.3649536+00:00",
+      "NumProgressed": 92,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-11-02T15:09:10.4117013+00:00",
@@ -481,13 +486,13 @@
       "Name": "First tower built",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "02_ACHIEVEMENT_Level_10",
       "SetID": "6opd2eg",
       "Name": "Hanoi beginner",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 10,
       "UsersEstimate": 67
     },
@@ -495,7 +500,7 @@
       "ID": "03_ACHIEVEMENT_Level_20",
       "SetID": "6opd2eg",
       "Name": "A new challenge",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
       "UsersEstimate": 48
     },
@@ -511,7 +516,7 @@
       "ID": "05_ACHIEVEMENT_Level_40",
       "SetID": "6opd2eg",
       "Name": "Ready for the next Challenge",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 40,
       "UsersEstimate": 37
     },
@@ -559,7 +564,7 @@
       "ID": "11_ACHIEVEMENT_Shortcut_Master",
       "SetID": "6opd2eg",
       "Name": "Shortcut Master",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 200,
       "UsersEstimate": 17
     }
@@ -568,14 +573,14 @@
     {
       "ID": "6opd2eg",
       "IsBase": true,
-      "Progressed": 91,
+      "Progressed": 92,
       "Completed": 12
     }
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2023-12-29T19:10:08.9153388+00:00",
+  "LastChanged_Achievements": "2023-12-29T20:09:40.3649532+00:00",
   "LastUpdate_AppInfo": "2023-12-26T08:57:12.4272586+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:59:03.7417599+00:00",
-  "LastUpdate_Achievements": "2023-12-29T19:10:08.9153464+00:00"
+  "LastUpdate_Ratings": "2023-12-29T19:59:07.7178536+00:00",
+  "LastUpdate_Achievements": "2023-12-29T20:09:40.3649632+00:00"
 }

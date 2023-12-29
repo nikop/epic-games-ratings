@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 3791,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3603,10 +3603,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3305,
       "NumberOfAwardsMax": 446
+    },
+    {
+      "Time": "2023-12-29T20:02:24.9867937+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3306,
+      "NumberOfAwardsMax": 446
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3305,
+  "NumberOfAwards": 3306,
   "NumberOfAwardsMax": 446,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3656,7 +3662,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 325
+      "Count": 326
     },
     {
       "Text": "This game has a Creative Community",
@@ -3671,10 +3677,10 @@
       "Count": 337
     }
   ],
-  "EOS_Progressed": 19611,
-  "EOS_Completed": 36,
-  "EOS_NewPlayers": 682,
-  "EOS_NewCompleters": -3,
+  "EOS_Progressed": 19618,
+  "EOS_Completed": 35,
+  "EOS_NewPlayers": 687,
+  "EOS_NewCompleters": -4,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
     {
@@ -17636,6 +17642,11 @@
       "Time": "2023-12-29T19:06:11.9627729+00:00",
       "NumProgressed": 19611,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-12-29T20:06:00.5119172+00:00",
+      "NumProgressed": 19618,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17728,7 +17739,7 @@
       "Name": "Homesick",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "WinFirstGame",
@@ -17744,7 +17755,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "WinImpossible",
@@ -17808,7 +17819,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "WinNearFishmen",
@@ -17864,7 +17875,7 @@
       "Name": "Royal Outpost",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "WinNearRuins",
@@ -17904,7 +17915,7 @@
       "Name": "Watchtower",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "WinOnCoral",
@@ -17912,7 +17923,7 @@
       "Name": "Coral Forest",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "WinOnCursed",
@@ -17936,7 +17947,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "WinPrestige10",
@@ -18056,7 +18067,7 @@
       "Name": "Frosts",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "WinNearGreed",
@@ -18064,7 +18075,7 @@
       "Name": "Land of Greed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "WinNearLibrary",
@@ -18104,7 +18115,7 @@
       "Name": "Untamed Wilds",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "WinWithFoxes",
@@ -18119,15 +18130,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19611,
-      "Completed": 36
+      "Progressed": 19618,
+      "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-29T16:00:02.8870435+00:00",
-  "LastChanged_Achievements": "2023-12-29T19:06:11.9627726+00:00",
+  "LastChanged": "2023-12-29T20:02:24.9867935+00:00",
+  "LastChanged_Achievements": "2023-12-29T20:06:00.5119168+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-29T19:00:04.5466533+00:00",
-  "LastUpdate_Achievements": "2023-12-29T19:06:11.9628851+00:00"
+  "LastUpdate_Ratings": "2023-12-29T20:02:24.986794+00:00",
+  "LastUpdate_Achievements": "2023-12-29T20:06:00.5120228+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "013ca9b88fa34b21b2de7fdbfcfc843b",
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
-  "Ranking_Rating": 356,
+  "Ranking_Rating": 355,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 183,
@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8748,
+  "EOS_Progressed": 8751,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9325,6 +9325,11 @@
       "Time": "2023-12-29T19:10:18.2334916+00:00",
       "NumProgressed": 8748,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T20:09:49.0299567+00:00",
+      "NumProgressed": 8751,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -9337,7 +9342,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -9345,7 +9350,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -9353,7 +9358,7 @@
       "Name": "Calm Sailing",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -9361,7 +9366,7 @@
       "Name": "Open the Gate!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -9369,7 +9374,7 @@
       "Name": "Clear the Air",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -9385,7 +9390,7 @@
       "Name": "Flaming Hot Completos",
       "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "CHAPTER_8_COMPLETE",
@@ -9417,7 +9422,7 @@
       "Name": "Angling Authority",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "COLLECT_LOGS",
@@ -9425,7 +9430,7 @@
       "Name": "Lumberjack",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -9497,7 +9502,7 @@
       "Name": "Mist Walker",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -9553,7 +9558,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -9569,7 +9574,7 @@
       "Name": "Azorian Anniversary",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "UPGRADE_ALLSKILLSMAX",
@@ -9593,7 +9598,7 @@
       "Name": "Captain of Cozy",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "UPGRADE_HOUSEMAX",
@@ -9609,7 +9614,7 @@
       "Name": "Skilled",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "DLC1_ACHIEVEMENT_01",
@@ -9680,13 +9685,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8748,
+      "Progressed": 8751,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1365,
+      "Progressed": 1368,
       "Completed": 1050
     }
   ],
@@ -9694,8 +9699,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-29T19:10:18.2334913+00:00",
+  "LastChanged_Achievements": "2023-12-29T20:09:49.0299562+00:00",
   "LastUpdate_AppInfo": "2023-12-29T11:57:18.9799571+00:00",
-  "LastUpdate_Ratings": "2023-12-29T19:03:19.1878949+00:00",
-  "LastUpdate_Achievements": "2023-12-29T19:10:18.2335543+00:00"
+  "LastUpdate_Ratings": "2023-12-29T20:03:15.1025178+00:00",
+  "LastUpdate_Achievements": "2023-12-29T20:09:49.030031+00:00"
 }
