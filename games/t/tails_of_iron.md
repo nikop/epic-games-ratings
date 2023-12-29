@@ -30,14 +30,14 @@ Rating: 4.56 (Ranked 499)
 | Return Power To The Depths | 0.70% | ~16 |
 | Fix the Travellers Wagon | 0.60% | ~14 |
 | Defeat the Grub Buster | 0.60% | ~6 |
+| Return the Statues | 0.50% | ~11 |
 | Complete the Chefs Book | 0.50% | ~11 |
 | Defeat Avor Warden of the Northern Wastes | 0.50% | ~11 |
+| Defeat Rattus Augustail | 0.50% | ~11 |
 | Discover the mystery of the Kings Chambers | 0.50% | ~11 |
 | Defeat the Stalker Queen | 0.50% | ~5 |
-| Return the Statues | 0.40% | ~9 |
 | Complete Arena Faction | 0.40% | ~9 |
 | Complete Ranger Faction | 0.40% | ~9 |
-| Defeat Rattus Augustail | 0.40% | ~9 |
 | Complete Redgi's Armory | 0.30% | ~7 |
 | King of Kings | 0.30% | ~7 |
 | A new Warchief rises | 0.00% | ~0 |

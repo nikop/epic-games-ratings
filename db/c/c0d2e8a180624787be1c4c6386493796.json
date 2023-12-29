@@ -1070,9 +1070,9 @@
       "ID": "KR4_ACHIEVEMENT_BARNY",
       "SetID": "caeik3h",
       "Name": "BUUURP!",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "KR4_ACHIEVEMENT_BILBO_DOOR",
@@ -1462,9 +1462,9 @@
       "ID": "KR4_ACHIEVEMENT_MOUSETHON",
       "SetID": "caeik3h",
       "Name": "Mouserthon",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 208
     },
     {
       "ID": "KR4_ACHIEVEMENT_OLAF",
@@ -1574,9 +1574,9 @@
       "ID": "KR4_ACHIEVEMENT_SON_OF_FIRE",
       "SetID": "caeik3h",
       "Name": "Son of Fire",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 85
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPAWN_REINFORCEMENTS",
@@ -1638,9 +1638,9 @@
       "ID": "KR4_ACHIEVEMENT_TROLL",
       "SetID": "caeik3h",
       "Name": "Oh My God!",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 72
     },
     {
       "ID": "KR4_ACHIEVEMENT_VERUK_MAX",
@@ -1683,8 +1683,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-29T08:05:23.2466929+00:00",
+  "LastChanged_Achievements": "2023-12-29T09:05:35.4673042+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.1058747+00:00",
-  "LastUpdate_Ratings": "2023-12-29T07:57:14.9665196+00:00",
-  "LastUpdate_Achievements": "2023-12-29T08:05:23.2467652+00:00"
+  "LastUpdate_Ratings": "2023-12-29T08:57:49.2132615+00:00",
+  "LastUpdate_Achievements": "2023-12-29T09:05:35.46736+00:00"
 }

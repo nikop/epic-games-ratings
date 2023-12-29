@@ -14,12 +14,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | First Real Expedition | 5.00% | ~978 |
 | The Marshlands | 5.00% | ~978 |
 | Gathering Storm | 5.00% | ~978 |
-| Overcoming Difficulty | 4.00% | ~782 |
-| Coral Forest | 4.00% | ~782 |
-| The Scarlet Orchard | 4.00% | ~782 |
-| Frosts | 4.00% | ~782 |
-| Land of Greed | 4.00% | ~782 |
-| Ominous Presence | 4.00% | ~782 |
+| Overcoming Difficulty | 4.00% | ~783 |
+| Coral Forest | 4.00% | ~783 |
+| The Scarlet Orchard | 4.00% | ~783 |
+| Frosts | 4.00% | ~783 |
+| Land of Greed | 4.00% | ~783 |
+| Ominous Presence | 4.00% | ~783 |
 | Fertile Meadows | 3.00% | ~587 |
 | Royal Outpost | 3.00% | ~587 |
 | Watchtower | 3.00% | ~587 |
@@ -46,9 +46,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Victory Through Prosperity | 1.00% | ~196 |
 | Defying the Crown | 1.00% | ~196 |
 | Into the Forest | 1.00% | ~196 |
-| Efficient Explorer | 0.80% | ~156 |
-| Refinery | 0.80% | ~156 |
-| Forsaken Gods Temple | 0.80% | ~156 |
+| Efficient Explorer | 0.80% | ~157 |
+| Refinery | 0.80% | ~157 |
+| Forsaken Gods Temple | 0.80% | ~157 |
 | Dangerous Lands | 0.70% | ~137 |
 | Forbidden Lands | 0.70% | ~137 |
 | Feeding The People | 0.50% | ~98 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,560 (Ranked 151)  
-Completed: 36 (0.18%) (Ranked 278)  
+Progressed: 19,564 (Ranked 151)  
+Completed: 36 (0.18%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -319,7 +319,7 @@ Completed: 36 (0.18%) (Ranked 278)
 | 2023-12-26 | 19,350 | 38 |
 | 2023-12-27 | 19,458 | 38 |
 | 2023-12-28 | 19,536 | 36 |
-| 2023-12-29 | 19,560 | 36 |
+| 2023-12-29 | 19,564 | 36 |
 ## Awards
 Max (Quickly Understood Controls): 446  (Ranked 229)  
 Sum: 3,303 (Ranked 176)  

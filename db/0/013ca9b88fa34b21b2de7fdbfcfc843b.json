@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 367,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8735,
+  "EOS_Progressed": 8737,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9300,6 +9300,11 @@
       "Time": "2023-12-29T06:10:00.7571328+00:00",
       "NumProgressed": 8735,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T09:10:12.101211+00:00",
+      "NumProgressed": 8737,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -9446,9 +9451,9 @@
       "ID": "DISCOVER_SCROLLS_1",
       "SetID": "9eia0f5",
       "Name": "Humble Collector",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 175
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -9655,13 +9660,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8735,
+      "Progressed": 8737,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1352,
+      "Progressed": 1354,
       "Completed": 1050
     }
   ],
@@ -9669,8 +9674,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-29T08:09:51.6407471+00:00",
+  "LastChanged_Achievements": "2023-12-29T09:10:12.1012106+00:00",
   "LastUpdate_AppInfo": "2023-12-22T11:57:12.9881326+00:00",
-  "LastUpdate_Ratings": "2023-12-29T08:03:05.7348218+00:00",
-  "LastUpdate_Achievements": "2023-12-29T08:09:51.6408019+00:00"
+  "LastUpdate_Ratings": "2023-12-29T09:03:18.2113748+00:00",
+  "LastUpdate_Achievements": "2023-12-29T09:10:12.1012798+00:00"
 }

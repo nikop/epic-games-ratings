@@ -4,8 +4,8 @@
   "ProductSlug": "racing-the-gods-25565b",
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-12-01T05:00:00.431+00:00",
     "PcReleaseDate": "2023-12-01T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-01T06:03:34.6824416+00:00",
-  "LastChanged_Achievements": "2023-12-29T08:04:24.9298991+00:00",
-  "LastUpdate_AppInfo": "2023-12-22T08:57:09.2273047+00:00",
-  "LastUpdate_Ratings": "2023-12-29T07:59:52.0437968+00:00",
-  "LastUpdate_Achievements": "2023-12-29T08:04:24.9299011+00:00"
+  "LastChanged_Achievements": "2023-12-29T09:04:37.5243847+00:00",
+  "LastUpdate_AppInfo": "2023-12-29T08:57:21.9015752+00:00",
+  "LastUpdate_Ratings": "2023-12-29T09:00:27.1741666+00:00",
+  "LastUpdate_Achievements": "2023-12-29T09:04:37.5243886+00:00"
 }

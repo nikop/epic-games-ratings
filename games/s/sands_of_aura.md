@@ -12,8 +12,8 @@
 | Spirit Within | 10.00% | ~12 |
 | Rain Must Fall | 9.00% | ~11 |
 | Overboard | 9.00% | ~11 |
+| Bladesmith | 9.00% | ~11 |
 | The Guardian of Fire | 9.00% | ~11 |
-| Bladesmith | 8.00% | ~10 |
 | Explorer | 6.00% | ~8 |
 | The River Styx | 6.00% | ~8 |
 | Sovereignty of Irons | 6.00% | ~8 |

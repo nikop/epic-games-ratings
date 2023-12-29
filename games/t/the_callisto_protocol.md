@@ -8,10 +8,10 @@ Rating: 4.20 (Ranked 947)
 | Flesh Wound | 19.00% | ~3,768 |
 | The Outer Way | 19.00% | ~3,768 |
 | Desperate Times | 18.00% | ~3,570 |
-| Get a Grip | 17.00% | ~3,371 |
-| Paper Jams | 17.00% | ~3,371 |
+| Get a Grip | 17.00% | ~3,372 |
+| Paper Jams | 17.00% | ~3,372 |
 | Chew 'Em Up | 15.00% | ~2,975 |
-| Reforged | 14.00% | ~2,776 |
+| Reforged | 14.00% | ~2,777 |
 | Float Like A Butterfly | 13.00% | ~2,578 |
 | Workplace Hazard | 12.00% | ~2,380 |
 | If the SHU Fits... | 12.00% | ~2,380 |
@@ -26,7 +26,7 @@ Rating: 4.20 (Ranked 947)
 | What Lies Beneath | 7.00% | ~1,388 |
 | Full Circle | 7.00% | ~1,388 |
 | I Do Belong Here | 6.00% | ~1,190 |
-| Keep Fighting | 6.00% | ~465 |
+| Keep Fighting | 6.00% | ~466 |
 | It's Time | 5.00% | ~388 |
 | In Striking Distance | 4.00% | ~793 |
 | The Commonality | 4.00% | ~793 |
@@ -41,7 +41,7 @@ Rating: 4.20 (Ranked 947)
 | Information Overload | 0.80% | ~62 |
 | Quick Pick | 0.70% | ~54 |
 | Subject Alpha | 0.50% | ~39 |
-| The Protocol is About Life | 0.30% | ~59 |
+| The Protocol is About Life | 0.30% | ~60 |
 | Hoard Mode | 0.30% | ~23 |
 | Don't Let It Mellow | 0.30% | ~23 |
 | Recidivist | 0.20% | ~16 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 947)
 | Big Game Hunter | 0.10% | ~8 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,832 (Ranked 150)  
+Progressed: 19,834 (Ranked 150)  
 Completed: 82 (0.41%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 82 (0.41%) (Ranked 228)
 | 2023-12-26 | 19,464 | 82 |
 | 2023-12-27 | 19,632 | 82 |
 | 2023-12-28 | 19,780 | 82 |
-| 2023-12-29 | 19,832 | 82 |
+| 2023-12-29 | 19,834 | 82 |
 ## Awards
 Max (Amazing Characters): 104  (Ranked 367)  
 Sum: 525 (Ranked 330)  

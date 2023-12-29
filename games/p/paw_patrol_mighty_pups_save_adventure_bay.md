@@ -13,14 +13,14 @@
 | Carlos Is Tangled | 52.00% | ~29 |
 | Mandy Family | 45.00% | ~25 |
 | Clear the Road | 43.00% | ~24 |
+| Never Miss | 39.00% | ~22 |
 | Paw patrol member | 39.00% | ~22 |
 | Robot Out of Control | 39.00% | ~22 |
 | In the Air | 38.00% | ~21 |
-| Never Miss | 38.00% | ~21 |
 | Break Time | 34.00% | ~19 |
 | Master of the Rope | 34.00% | ~19 |
 | Training Day | 32.00% | ~18 |
-| Animal Sighting | 27.00% | ~15 |
+| Animal Sighting | 29.00% | ~16 |
 | The Fastest | 23.00% | ~13 |
 | Don’t Miss Any | 23.00% | ~13 |
 | Adventure Bay’s Citizen | 23.00% | ~13 |

@@ -57,8 +57,8 @@ Rating: 4.65 (Ranked 323)
 | To the Max! | 18.00% | ~118 |
 | To Infinity And Beyond! | 18.00% | ~118 |
 | Sacrificial Pit = Garbage Disposal? | 17.00% | ~112 |
+| Evilification | 17.00% | ~112 |
 | Heal Heal Blessing | 16.00% | ~105 |
-| Evilification | 16.00% | ~105 |
 | Mirror, Mirror | 15.00% | ~98 |
 | Untouchable | 15.00% | ~98 |
 | Laser Eyes Are So Useless | 13.00% | ~85 |

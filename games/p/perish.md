@@ -19,18 +19,18 @@
 | Symbols of Heresy | 4.00% | ~155 |
 | The Sons of Minos | 4.00% | ~155 |
 | Eidola | 4.00% | ~155 |
-| Comedy and Tragedy | 3.00% | ~116 |
-| Pillars of Eternity | 3.00% | ~116 |
-| War Chest | 3.00% | ~116 |
-| Chthonic Investor | 3.00% | ~116 |
-| First Fragment | 3.00% | ~116 |
-| Sisters of the Pantheon | 3.00% | ~116 |
-| Labour of Apollo | 3.00% | ~116 |
-| Siege Unit | 3.00% | ~116 |
-| Divine Assemblage | 3.00% | ~116 |
-| Ophiolatreia | 3.00% | ~116 |
-| Halls of Marble | 3.00% | ~116 |
-| Serpentine | 3.00% | ~116 |
+| Comedy and Tragedy | 3.00% | ~117 |
+| Pillars of Eternity | 3.00% | ~117 |
+| War Chest | 3.00% | ~117 |
+| Chthonic Investor | 3.00% | ~117 |
+| First Fragment | 3.00% | ~117 |
+| Sisters of the Pantheon | 3.00% | ~117 |
+| Labour of Apollo | 3.00% | ~117 |
+| Siege Unit | 3.00% | ~117 |
+| Divine Assemblage | 3.00% | ~117 |
+| Ophiolatreia | 3.00% | ~117 |
+| Halls of Marble | 3.00% | ~117 |
+| Serpentine | 3.00% | ~117 |
 | Wayward Son of Hephaestus | 2.00% | ~78 |
 | Forged in Fire | 2.00% | ~78 |
 | Rock and a Hard Place | 2.00% | ~78 |
@@ -53,7 +53,7 @@
 | Rites at Sea | 1.00% | ~39 |
 | Close Shut the Doors | 1.00% | ~39 |
 | Scrap Metal | 1.00% | ~39 |
-| Athenian Treasury | 0.90% | ~35 |
+| Athenian Treasury | 0.80% | ~31 |
 | Invicta | 0.80% | ~31 |
 | Olympian | 0.60% | ~23 |
 | Hipparchia's Labour | 0.40% | ~16 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,881 (Ranked 211)  
+Progressed: 3,884 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 3,863 | 0 |
 | 2023-12-27 | 3,872 | 0 |
 | 2023-12-28 | 3,878 | 0 |
-| 2023-12-29 | 3,881 | 0 |
+| 2023-12-29 | 3,884 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

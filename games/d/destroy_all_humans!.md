@@ -9,9 +9,9 @@ Number of Ratings: 85  (23.09.2022)
 | Shop Til They Drop | 67.00% | ~142 |
 | Kaijuiced | 66.00% | ~140 |
 | Lie Back and Think of Albion | 59.00% | ~125 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 57.00% | ~121 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~123 |
+| Yettisoned | 54.00% | ~114 |
 | I Look Up As I Walk to Takoshima | 54.00% | ~114 |
-| Yettisoned | 53.00% | ~112 |
 | Perfect Probulator | 52.00% | ~110 |
 | Lobster Blisque | 48.00% | ~102 |
 | Pimp My Raid | 48.00% | ~102 |
@@ -33,8 +33,8 @@ Number of Ratings: 85  (23.09.2022)
 | Die Nasty | 14.00% | ~30 |
 | Mash Machine | 14.00% | ~30 |
 | Hidden Human Hive Harvest | 13.00% | ~28 |
+| Dusted | 13.00% | ~28 |
 | Albion Bridge Is for Falling Down | 12.00% | ~25 |
-| Dusted | 12.00% | ~25 |
 | Scuttled | 9.00% | ~19 |
 | PK Slam Dunk | 9.00% | ~19 |
 | Higher Than the Futen Zoku | 8.00% | ~17 |

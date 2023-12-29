@@ -3,12 +3,12 @@
   "Name": "Horizon Chase Turbo",
   "ProductSlug": "horizon-chase-turbo",
   "Ranking_Rating": 520,
-  "Ranking_Popularity": 308,
+  "Ranking_Popularity": 307,
   "Ranking_PopularitySum": 234,
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 44,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2021-06-24T15:00:00+00:00",
     "PcReleaseDate": "2018-05-15T15:00:00+00:00",
@@ -3281,18 +3281,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 1617,
       "NumberOfAwardsMax": 181
+    },
+    {
+      "Time": "2023-12-29T09:03:11.3631298+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1618,
+      "NumberOfAwardsMax": 182
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1617,
-  "NumberOfAwardsMax": 181,
+  "NumberOfAwards": 1618,
+  "NumberOfAwardsMax": 182,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 181
+      "Count": 182
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3361,9 +3367,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 1095684,
+  "EOS_Progressed": 1095716,
   "EOS_Completed": 524,
-  "EOS_NewPlayers": 4886,
+  "EOS_NewPlayers": 4900,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -32406,6 +32412,11 @@
       "Time": "2023-12-29T08:06:28.5380402+00:00",
       "NumProgressed": 1095684,
       "NumCompleted": 524
+    },
+    {
+      "Time": "2023-12-29T09:08:30.6543191+00:00",
+      "NumProgressed": 1095716,
+      "NumCompleted": 524
     }
   ],
   "TotalAchievements": 37,
@@ -32417,7 +32428,7 @@
       "Name": "Ghostbuster",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 372533
+      "UsersEstimate": 372543
     },
     {
       "ID": "CompleteAustralia",
@@ -32441,7 +32452,7 @@
       "Name": "California Dreamer",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 76698
+      "UsersEstimate": 76700
     },
     {
       "ID": "CompleteChile",
@@ -32449,7 +32460,7 @@
       "Name": "Carm\u00E9n\u00E8re Taster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 43827
+      "UsersEstimate": 43829
     },
     {
       "ID": "CompleteChina",
@@ -32545,7 +32556,7 @@
       "Name": "Getting Famous",
       "Percentage": 0.5,
       "XP": 75,
-      "UsersEstimate": 5478
+      "UsersEstimate": 5479
     },
     {
       "ID": "FinishEnduranceGoldEasy",
@@ -32609,7 +32620,7 @@
       "Name": "Quickie",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 120525
+      "UsersEstimate": 120529
     },
     {
       "ID": "FirstRaceWorldTour",
@@ -32617,7 +32628,7 @@
       "Name": "The First of Many",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 986116
+      "UsersEstimate": 986144
     },
     {
       "ID": "GetLotsOfScore",
@@ -32649,7 +32660,7 @@
       "Name": "Pump my Ride",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 514971
+      "UsersEstimate": 514987
     },
     {
       "ID": "OutOfFuelLoseRace",
@@ -32657,7 +32668,7 @@
       "Name": "Call Roadside Assistance",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 197223
+      "UsersEstimate": 197229
     },
     {
       "ID": "OutOfFuelWinRace",
@@ -32665,7 +32676,7 @@
       "Name": "Comeback",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 43827
+      "UsersEstimate": 43829
     },
     {
       "ID": "RunLotsOfMiles",
@@ -32681,7 +32692,7 @@
       "Name": "I Need a Bigger Garage",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 690281
+      "UsersEstimate": 690301
     },
     {
       "ID": "WinBySmallDifference",
@@ -32689,7 +32700,7 @@
       "Name": "That Was Close",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 197223
+      "UsersEstimate": 197229
     },
     {
       "ID": "WinLotsOfConsecutiveRaces",
@@ -32705,22 +32716,22 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 54784
+      "UsersEstimate": 54786
     }
   ],
   "AchievementSets": [
     {
       "ID": "77fdf3o",
       "IsBase": true,
-      "Progressed": 1095684,
+      "Progressed": 1095716,
       "Completed": 524
     }
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
-  "LastChanged": "2023-12-29T00:02:56.299744+00:00",
-  "LastChanged_Achievements": "2023-12-29T08:06:28.53804+00:00",
+  "LastChanged": "2023-12-29T09:03:11.3631296+00:00",
+  "LastChanged_Achievements": "2023-12-29T09:08:30.6543188+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:20.9000357+00:00",
-  "LastUpdate_Ratings": "2023-12-29T08:02:58.6960812+00:00",
-  "LastUpdate_Achievements": "2023-12-29T08:06:28.5381948+00:00"
+  "LastUpdate_Ratings": "2023-12-29T09:03:11.3631302+00:00",
+  "LastUpdate_Achievements": "2023-12-29T09:08:30.6544971+00:00"
 }

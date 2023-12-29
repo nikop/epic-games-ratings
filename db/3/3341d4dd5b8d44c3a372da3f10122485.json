@@ -4,8 +4,8 @@
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -1405,9 +1405,9 @@
       "ID": "Nora",
       "SetID": "823jm6g",
       "Name": "Burrow",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 75,
-      "UsersEstimate": 119
+      "UsersEstimate": 121
     },
     {
       "ID": "Planina",
@@ -1445,9 +1445,9 @@
       "ID": "Tuleni",
       "SetID": "823jm6g",
       "Name": "Seal Peaks",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 75,
-      "UsersEstimate": 100
+      "UsersEstimate": 103
     }
   ],
   "AchievementSets": [
@@ -1460,8 +1460,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-12-29T08:03:25.6479248+00:00",
+  "LastChanged_Achievements": "2023-12-29T09:03:38.8000839+00:00",
   "LastUpdate_AppInfo": "2023-12-23T06:57:11.6934755+00:00",
-  "LastUpdate_Ratings": "2023-12-29T07:59:33.5385758+00:00",
-  "LastUpdate_Achievements": "2023-12-29T08:03:25.6479377+00:00"
+  "LastUpdate_Ratings": "2023-12-29T09:00:08.3791596+00:00",
+  "LastUpdate_Achievements": "2023-12-29T09:03:38.8000982+00:00"
 }

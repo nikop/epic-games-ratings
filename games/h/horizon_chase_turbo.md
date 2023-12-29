@@ -6,17 +6,17 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~986,116 |
-| I Need a Bigger Garage | 63.00% | ~690,281 |
-| Pump my Ride | 47.00% | ~514,971 |
-| Ghostbuster | 34.00% | ~372,533 |
-| Call Roadside Assistance | 18.00% | ~197,223 |
-| That Was Close | 18.00% | ~197,223 |
-| Quickie | 11.00% | ~120,525 |
-| California Dreamer | 7.00% | ~76,698 |
-| Can't Touch This | 5.00% | ~54,784 |
-| Carménère Taster | 4.00% | ~43,827 |
-| Comeback | 4.00% | ~43,827 |
+| The First of Many | 90.00% | ~986,144 |
+| I Need a Bigger Garage | 63.00% | ~690,301 |
+| Pump my Ride | 47.00% | ~514,987 |
+| Ghostbuster | 34.00% | ~372,543 |
+| Call Roadside Assistance | 18.00% | ~197,229 |
+| That Was Close | 18.00% | ~197,229 |
+| Quickie | 11.00% | ~120,529 |
+| California Dreamer | 7.00% | ~76,700 |
+| Can't Touch This | 5.00% | ~54,786 |
+| Carménère Taster | 4.00% | ~43,829 |
+| Comeback | 4.00% | ~43,829 |
 | Driver from Ipanema | 3.00% | ~32,871 |
 | Supersonic | 3.00% | ~32,871 |
 | Marathonist | 3.00% | ~32,871 |
@@ -38,13 +38,13 @@ Number of Ratings: 1,343  (23.09.2022)
 | Otaku | 0.90% | ~9,861 |
 | Survivor | 0.60% | ~6,574 |
 | King of the World | 0.60% | ~6,574 |
-| Getting Famous | 0.50% | ~5,478 |
+| Getting Famous | 0.50% | ~5,479 |
 | Now Go Play Outside | 0.30% | ~3,287 |
 | Master of the Racetrack | 0.20% | ~2,191 |
 | Look Mom, No Hands! | 0.20% | ~2,191 |
 | Transporter | 0.10% | ~1,096 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,095,684 (Ranked 14)  
+Progressed: 1,095,716 (Ranked 14)  
 Completed: 524 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,14 +297,14 @@ Completed: 524 (0.05%) (Ranked 336)
 | 2023-12-26 | 1,094,256 | 522 |
 | 2023-12-27 | 1,094,898 | 523 |
 | 2023-12-28 | 1,095,524 | 524 |
-| 2023-12-29 | 1,095,684 | 524 |
+| 2023-12-29 | 1,095,716 | 524 |
 ## Awards
-Max (Great for Beginners): 181  (Ranked 308)  
-Sum: 1,617 (Ranked 234)  
-Diff (max vs sum): 74  
+Max (Great for Beginners): 182  (Ranked 307)  
+Sum: 1,618 (Ranked 234)  
+Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 181 |
+| This game is Great for Beginners | 182 |
 | This game is Great for Quick Sessions | 153 |
 | This game has Diverse Characters | 152 |
 | This game has Quickly Understood Controls | 149 |
@@ -600,4 +600,4 @@ Diff (max vs sum): 74
 | 2023-12-26 | 4.55 | - | 181 | 1,610 |
 | 2023-12-27 | 4.55 | - | 181 | 1,612 |
 | 2023-12-28 | 4.55 | - | 181 | 1,616 |
-| 2023-12-29 | 4.55 | - | 181 | 1,617 |
+| 2023-12-29 | 4.55 | - | 182 | 1,618 |

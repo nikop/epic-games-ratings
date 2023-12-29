@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 367,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -541,7 +541,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 45562,
+  "EOS_Progressed": 45567,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 841,
   "EOS_NewCompleters": 0,
@@ -16831,6 +16831,11 @@
       "Time": "2023-12-29T08:03:16.3407017+00:00",
       "NumProgressed": 45562,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T09:03:29.9953785+00:00",
+      "NumProgressed": 45567,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -16874,7 +16879,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -17034,7 +17039,7 @@
       "Name": "Leapfrogger",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3189
+      "UsersEstimate": 3190
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -17082,7 +17087,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3189
+      "UsersEstimate": 3190
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -17130,7 +17135,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3189
+      "UsersEstimate": 3190
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -17154,7 +17159,7 @@
       "Name": "Hell of a Run",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3189
+      "UsersEstimate": 3190
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -17178,7 +17183,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4556
+      "UsersEstimate": 4557
     },
     {
       "ID": "SPRING_ALL",
@@ -17265,22 +17270,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 45562,
+      "Progressed": 45567,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 10399,
-      "Completed": 10399
+      "Progressed": 10404,
+      "Completed": 10404
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-29T05:02:23.0595699+00:00",
-  "LastChanged_Achievements": "2023-12-29T08:03:16.3407014+00:00",
+  "LastChanged_Achievements": "2023-12-29T09:03:29.9953782+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.8849039+00:00",
-  "LastUpdate_Ratings": "2023-12-29T08:02:36.7665663+00:00",
-  "LastUpdate_Achievements": "2023-12-29T08:03:16.3408183+00:00"
+  "LastUpdate_Ratings": "2023-12-29T09:00:49.9882387+00:00",
+  "LastUpdate_Achievements": "2023-12-29T09:03:29.9954851+00:00"
 }

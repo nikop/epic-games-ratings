@@ -1,27 +1,27 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 960)  
+Rating: 4.18 (Ranked 962)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~40,148 |
-| Har, Har, Har, Very Funny | 34.00% | ~27,301 |
-| Loose Ends | 33.00% | ~26,498 |
-| To the Victor Go the Spoils | 28.00% | ~22,483 |
-| Knighthood | 27.00% | ~21,680 |
-| Get ReQ'd | 25.00% | ~20,074 |
-| Whispered Words | 24.00% | ~19,271 |
-| The Batman Family | 22.00% | ~17,665 |
-| Lock and Key | 22.00% | ~17,665 |
-| Something in the Clay | 20.00% | ~16,059 |
-| Quartzer Life Crisis | 20.00% | ~16,059 |
-| Working Hard or Harley Working? | 20.00% | ~16,059 |
-| Unstoppable Force | 20.00% | ~16,059 |
-| Bad Apples in Every Orchard | 20.00% | ~16,059 |
-| Snow Problem | 19.00% | ~15,256 |
-| The Show Mud Go On | 17.00% | ~13,650 |
-| From Inside Gotham's Walls | 17.00% | ~13,650 |
+| First Step Into the Knight | 50.00% | ~40,150 |
+| Har, Har, Har, Very Funny | 34.00% | ~27,302 |
+| Loose Ends | 33.00% | ~26,499 |
+| To the Victor Go the Spoils | 28.00% | ~22,484 |
+| Knighthood | 27.00% | ~21,681 |
+| Get ReQ'd | 25.00% | ~20,075 |
+| Whispered Words | 24.00% | ~19,272 |
+| The Batman Family | 22.00% | ~17,666 |
+| Lock and Key | 22.00% | ~17,666 |
+| Something in the Clay | 20.00% | ~16,060 |
+| Quartzer Life Crisis | 20.00% | ~16,060 |
+| Working Hard or Harley Working? | 20.00% | ~16,060 |
+| Unstoppable Force | 20.00% | ~16,060 |
+| Bad Apples in Every Orchard | 20.00% | ~16,060 |
+| Snow Problem | 19.00% | ~15,257 |
+| The Show Mud Go On | 17.00% | ~13,651 |
+| From Inside Gotham's Walls | 17.00% | ~13,651 |
 | Protector of Gotham | 16.00% | ~12,848 |
 | In Your Element | 15.00% | ~12,045 |
 | Universal Health Scare | 15.00% | ~12,045 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 960)
 | The Cold, the Bad and the Ugly | 0.30% | ~152 |
 | It's Nice to Be Wanted | 0.20% | ~101 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80,297 (Ranked 105)  
+Progressed: 80,301 (Ranked 105)  
 Completed: 128 (0.16%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 128 (0.16%) (Ranked 285)
 | 2023-12-26 | 79,890 | 128 |
 | 2023-12-27 | 80,076 | 128 |
 | 2023-12-28 | 80,233 | 128 |
-| 2023-12-29 | 80,297 | 128 |
+| 2023-12-29 | 80,301 | 128 |
 ## Awards
 Max (Great Boss Battles): 3,079  (Ranked 99)  
 Sum: 5,273 (Ranked 141)  

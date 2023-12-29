@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 510,
+  "EOS_Progressed": 511,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 295,
+  "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1401,6 +1401,11 @@
       "Time": "2023-12-29T07:07:10.7050843+00:00",
       "NumProgressed": 510,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T09:08:56.2540702+00:00",
+      "NumProgressed": 511,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1413,7 +1418,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "CareerAllChallenges",
@@ -1429,7 +1434,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "CareerChamp2",
@@ -1485,7 +1490,7 @@
       "Name": "Junk Collector",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "CreditsEarnedA",
@@ -1525,7 +1530,7 @@
       "Name": "Dirty Roller",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "PlayerRankB",
@@ -1533,7 +1538,7 @@
       "Name": "Trashing Around",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "PlayerRankC",
@@ -1572,7 +1577,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 510,
+      "Progressed": 511,
       "Completed": 0
     }
   ],
@@ -1580,8 +1585,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-28T22:58:24.1175943+00:00",
-  "LastChanged_Achievements": "2023-12-29T08:08:35.9055959+00:00",
+  "LastChanged_Achievements": "2023-12-29T09:08:56.2540698+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-29T07:57:35.7692895+00:00",
-  "LastUpdate_Achievements": "2023-12-29T08:08:35.905607+00:00"
+  "LastUpdate_Ratings": "2023-12-29T08:58:10.2154866+00:00",
+  "LastUpdate_Achievements": "2023-12-29T09:08:56.2540879+00:00"
 }

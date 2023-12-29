@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -43,7 +43,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1426,
+  "EOS_Progressed": 1427,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 0,
@@ -2803,6 +2803,11 @@
       "Time": "2023-12-29T08:09:49.6647421+00:00",
       "NumProgressed": 1426,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T09:10:10.2393287+00:00",
+      "NumProgressed": 1427,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2822,7 +2827,7 @@
       "Name": "Find Allies",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_03",
@@ -2830,7 +2835,7 @@
       "Name": "Powerful Allies",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_04",
@@ -2886,7 +2891,7 @@
       "Name": "Trinity",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "ACH_11",
@@ -2926,7 +2931,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_16",
@@ -3030,7 +3035,7 @@
       "Name": "I Found It",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_29",
@@ -3070,7 +3075,7 @@
       "Name": "The Collector",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_35",
@@ -3101,7 +3106,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1426,
+      "Progressed": 1427,
       "Completed": 3
     }
   ],
@@ -3109,8 +3114,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2023-12-27T23:57:06.3972881+00:00",
-  "LastChanged_Achievements": "2023-12-29T08:09:49.6647418+00:00",
+  "LastChanged_Achievements": "2023-12-29T09:10:10.2393283+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-29T07:57:30.1597856+00:00",
-  "LastUpdate_Achievements": "2023-12-29T08:09:49.6647753+00:00"
+  "LastUpdate_Ratings": "2023-12-29T08:58:04.563748+00:00",
+  "LastUpdate_Achievements": "2023-12-29T09:10:10.2393625+00:00"
 }

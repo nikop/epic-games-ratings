@@ -1759,9 +1759,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 165225,
+  "EOS_Progressed": 165230,
   "EOS_Completed": 420,
-  "EOS_NewPlayers": 1448,
+  "EOS_NewPlayers": 1447,
   "EOS_NewCompleters": 39,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -21024,6 +21024,11 @@
       "Time": "2023-12-29T08:05:51.316202+00:00",
       "NumProgressed": 165225,
       "NumCompleted": 420
+    },
+    {
+      "Time": "2023-12-29T09:06:03.5212967+00:00",
+      "NumProgressed": 165230,
+      "NumCompleted": 420
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -21084,7 +21089,7 @@
       "Name": "The Hunt",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3304
+      "UsersEstimate": 3305
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -21100,7 +21105,7 @@
       "Name": "Taste",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3304
+      "UsersEstimate": 3305
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -21252,7 +21257,7 @@
       "Name": "Imprint",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3304
+      "UsersEstimate": 3305
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -21308,7 +21313,7 @@
       "Name": "Ravenous",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3304
+      "UsersEstimate": 3305
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -21403,21 +21408,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 164808,
+      "Progressed": 164813,
       "Completed": 1248
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 165225,
+      "Progressed": 165230,
       "Completed": 420
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-28T14:59:47.5953521+00:00",
-  "LastChanged_Achievements": "2023-12-29T08:05:51.3162017+00:00",
+  "LastChanged_Achievements": "2023-12-29T09:06:03.5212964+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:22.7260202+00:00",
-  "LastUpdate_Ratings": "2023-12-29T07:59:34.9571287+00:00",
-  "LastUpdate_Achievements": "2023-12-29T08:05:51.3163089+00:00"
+  "LastUpdate_Ratings": "2023-12-29T09:00:09.8709299+00:00",
+  "LastUpdate_Achievements": "2023-12-29T09:06:03.5213981+00:00"
 }

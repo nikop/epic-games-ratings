@@ -6,28 +6,28 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,900 |
-| Life is your teacher | 4.00% | ~29,900 |
-| The Assault | 3.00% | ~22,425 |
-| Lightning Hands | 3.00% | ~22,425 |
-| The Hateful Pole Fighter | 2.00% | ~14,950 |
-| A Lady's Blood in the Snow | 2.00% | ~14,950 |
-| Stuntmaster | 2.00% | ~14,950 |
-| Street Fighting | 2.00% | ~14,950 |
-| State of constant learning | 2.00% | ~14,950 |
-| Qi Gong: Breath | 2.00% | ~14,950 |
-| Qi Gong: Essence | 2.00% | ~14,950 |
-| Old Child | 2.00% | ~14,950 |
-| Rumble in the Hangar | 2.00% | ~14,950 |
-| Diligence as a goal | 2.00% | ~1,136 |
-| Lady Wing Chun | 1.00% | ~7,475 |
-| Furious Fists | 1.00% | ~7,475 |
-| Kill Nil | 1.00% | ~7,475 |
-| Qi Gong: Mind | 1.00% | ~7,475 |
-| I know Kung-Fu | 1.00% | ~7,475 |
-| Path of the Prospect | 1.00% | ~7,475 |
-| Take damage to save time | 1.00% | ~7,475 |
-| Project Arena | 1.00% | ~568 |
+| The Old Grandmaster | 4.00% | ~29,902 |
+| Life is your teacher | 4.00% | ~29,902 |
+| The Assault | 3.00% | ~22,427 |
+| Lightning Hands | 3.00% | ~22,427 |
+| The Hateful Pole Fighter | 2.00% | ~14,951 |
+| A Lady's Blood in the Snow | 2.00% | ~14,951 |
+| Stuntmaster | 2.00% | ~14,951 |
+| Street Fighting | 2.00% | ~14,951 |
+| State of constant learning | 2.00% | ~14,951 |
+| Qi Gong: Breath | 2.00% | ~14,951 |
+| Qi Gong: Essence | 2.00% | ~14,951 |
+| Old Child | 2.00% | ~14,951 |
+| Rumble in the Hangar | 2.00% | ~14,951 |
+| Diligence as a goal | 2.00% | ~1,137 |
+| Lady Wing Chun | 1.00% | ~7,476 |
+| Furious Fists | 1.00% | ~7,476 |
+| Kill Nil | 1.00% | ~7,476 |
+| Qi Gong: Mind | 1.00% | ~7,476 |
+| I know Kung-Fu | 1.00% | ~7,476 |
+| Path of the Prospect | 1.00% | ~7,476 |
+| Take damage to save time | 1.00% | ~7,476 |
+| Project Arena | 1.00% | ~569 |
 | Scareless | 0.90% | ~6,728 |
 | Kung-Fu Tussle | 0.90% | ~6,728 |
 | Dance of the Praying Mantis | 0.80% | ~5,980 |
@@ -44,12 +44,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | The 36th Chamber of Kung-Fu | 0.40% | ~2,990 |
 | Sword Stained With Blood | 0.40% | ~2,990 |
 | The best strikes are the ones we avoid | 0.40% | ~227 |
+| Knowledge Greed | 0.30% | ~2,243 |
 | The Pit Protector | 0.30% | ~2,243 |
 | Come Snap With Me | 0.30% | ~2,243 |
-| Deadly Venom | 0.30% | ~170 |
+| Deadly Venom | 0.30% | ~171 |
 | Drunken Fighter | 0.20% | ~1,495 |
 | Martial Artist | 0.20% | ~1,495 |
-| Knowledge Greed | 0.20% | ~1,495 |
 | Healing Memory | 0.20% | ~1,495 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,495 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,495 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~57 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 747,508 (Ranked 23)  
+Progressed: 747,558 (Ranked 23)  
 Completed: 12,967 (1.73%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 12,967 (1.73%) (Ranked 141)
 | 2023-12-26 | 745,555 | 12,967 |
 | 2023-12-27 | 746,407 | 12,967 |
 | 2023-12-28 | 747,246 | 12,967 |
-| 2023-12-29 | 747,508 | 12,967 |
+| 2023-12-29 | 747,558 | 12,967 |
 ## Awards
 Max (Great Boss Battles): 7,041  (Ranked 55)  
 Sum: 12,467 (Ranked 84)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 99,
   "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -38,7 +38,7 @@
   "EOS_Progressed": 656,
   "EOS_Completed": 24,
   "EOS_NewPlayers": 49,
-  "EOS_NewCompleters": 4,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.66,
   "EosHistory": [
     {
@@ -2450,9 +2450,9 @@
       "ID": "ach_main20end_spawners",
       "SetID": "4hg22ll",
       "Name": "Evilification",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 112
     }
   ],
   "AchievementSets": [
@@ -2467,8 +2467,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2023-12-28T14:01:53.0382272+00:00",
-  "LastChanged_Achievements": "2023-12-29T08:08:43.1841127+00:00",
+  "LastChanged_Achievements": "2023-12-29T09:09:03.564466+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.4415734+00:00",
-  "LastUpdate_Ratings": "2023-12-29T08:00:09.871704+00:00",
-  "LastUpdate_Achievements": "2023-12-29T08:08:43.1841742+00:00"
+  "LastUpdate_Ratings": "2023-12-29T09:00:44.940219+00:00",
+  "LastUpdate_Achievements": "2023-12-29T09:09:03.5645099+00:00"
 }

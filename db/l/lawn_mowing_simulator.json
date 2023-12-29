@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
     "PcReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2230,9 +2230,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 692317,
+  "EOS_Progressed": 692323,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 2276,
+  "EOS_NewPlayers": 2278,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31300,6 +31300,11 @@
       "Time": "2023-12-29T08:09:51.410241+00:00",
       "NumProgressed": 692317,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-29T09:10:11.8511563+00:00",
+      "NumProgressed": 692323,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 54,
@@ -31311,7 +31316,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 546930
+      "UsersEstimate": 546935
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -31399,7 +31404,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 249234
+      "UsersEstimate": 249236
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -31551,7 +31556,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 214618
+      "UsersEstimate": 214620
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -31671,7 +31676,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 48462
+      "UsersEstimate": 48463
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -31711,7 +31716,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 124617
+      "UsersEstimate": 124618
     },
     {
       "ID": "RP_TRUSTED",
@@ -31742,15 +31747,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 692317,
+      "Progressed": 692323,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-12-22T00:00:38.9182801+00:00",
-  "LastChanged_Achievements": "2023-12-29T08:09:51.4102407+00:00",
+  "LastChanged_Achievements": "2023-12-29T09:10:11.8511561+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:11.5619448+00:00",
-  "LastUpdate_Ratings": "2023-12-29T07:59:59.3782118+00:00",
-  "LastUpdate_Achievements": "2023-12-29T08:09:51.4103874+00:00"
+  "LastUpdate_Ratings": "2023-12-29T09:00:34.4755337+00:00",
+  "LastUpdate_Achievements": "2023-12-29T09:10:11.8513054+00:00"
 }

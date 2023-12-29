@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 91.00% | ~2,994 |
-| Spectre Inductee | 67.00% | ~2,204 |
-| Medal of Exploration I | 57.00% | ~1,875 |
+| Distinguished Service Medal | 91.00% | ~2,995 |
+| Spectre Inductee | 67.00% | ~2,205 |
+| Medal of Exploration I | 57.00% | ~1,876 |
 | Recruit | 52.00% | ~1,711 |
 | Search and Rescue | 52.00% | ~1,711 |
-| Quarian Ally | 50.00% | ~1,645 |
+| Quarian Ally | 50.00% | ~1,646 |
 | Medal of Heroism | 44.00% | ~1,448 |
 | Honorarium of Corporate Service | 44.00% | ~1,448 |
 | Turian Ally | 41.00% | ~1,349 |
 | Medal of Exploration II | 39.00% | ~1,283 |
-| Council Legion of Merit | 38.00% | ~1,250 |
-| Soldier Ally | 36.00% | ~1,184 |
+| Council Legion of Merit | 38.00% | ~1,251 |
+| Soldier Ally | 36.00% | ~1,185 |
 | Medal of Honor | 35.00% | ~1,152 |
 | Soldier | 35.00% | ~1,152 |
 | Meritorious Service Medal | 35.00% | ~1,152 |
@@ -35,10 +35,10 @@
 | The Archangel | 28.00% | ~921 |
 | The Professor | 28.00% | ~921 |
 | Head Hunter | 28.00% | ~921 |
-| Operative | 27.00% | ~888 |
-| The Convict | 26.00% | ~855 |
-| Power Full | 26.00% | ~855 |
-| The Krogan | 25.00% | ~822 |
+| Operative | 27.00% | ~889 |
+| The Convict | 26.00% | ~856 |
+| Power Full | 26.00% | ~856 |
+| The Krogan | 25.00% | ~823 |
 | Veteran | 24.00% | ~790 |
 | Colony Defense | 24.00% | ~790 |
 | Broke, Blind, and Bedlam | 24.00% | ~790 |
@@ -71,18 +71,18 @@
 | Agent | 19.00% | ~625 |
 | Mobilizer | 19.00% | ~625 |
 | Untouchable | 18.00% | ~592 |
+| Eye of the Hurricane | 18.00% | ~592 |
 | Giant Killer | 18.00% | ~592 |
 | First Aid Specialist | 18.00% | ~592 |
 | Mission Accomplished | 18.00% | ~592 |
 | Suicide Mission | 18.00% | ~592 |
 | Against All Odds | 18.00% | ~592 |
-| Eye of the Hurricane | 17.00% | ~559 |
 | A House Divided | 17.00% | ~559 |
 | World Shaker | 17.00% | ~559 |
-| Pathfinder | 16.00% | ~526 |
-| Tunnel Rat | 16.00% | ~526 |
-| Arbiter | 16.00% | ~526 |
-| Liberator | 16.00% | ~526 |
+| Pathfinder | 16.00% | ~527 |
+| Tunnel Rat | 16.00% | ~527 |
+| Arbiter | 16.00% | ~527 |
+| Liberator | 16.00% | ~527 |
 | Savior | 15.00% | ~494 |
 | Weapon Specialist | 15.00% | ~494 |
 | Lost and Found | 15.00% | ~494 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~33 |
 | The One and Only | 0.60% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,290 (Ranked 220)  
+Progressed: 3,291 (Ranked 220)  
 Completed: 12 (0.36%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,4 +237,4 @@ Completed: 12 (0.36%) (Ranked 236)
 | 2023-12-26 | 3,124 | 10 |
 | 2023-12-27 | 3,209 | 11 |
 | 2023-12-28 | 3,273 | 12 |
-| 2023-12-29 | 3,290 | 12 |
+| 2023-12-29 | 3,291 | 12 |

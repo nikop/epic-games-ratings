@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1822,
+  "EOS_Progressed": 1823,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 3.84,
   "EosHistory": [
@@ -4029,6 +4029,11 @@
       "Time": "2023-12-29T08:09:36.964217+00:00",
       "NumProgressed": 1822,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-29T09:09:57.366164+00:00",
+      "NumProgressed": 1823,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 16,
@@ -4072,7 +4077,7 @@
       "Name": "Goodbye Tieng Valley",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH_GRAFFITIARTIST",
@@ -4094,9 +4099,9 @@
       "ID": "ACH_HOMELEAVER",
       "SetID": "7pam6gn",
       "Name": "Home Leaver",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1458
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -4104,7 +4109,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -4128,7 +4133,7 @@
       "Name": "Outside World Seer",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1112
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -4152,7 +4157,7 @@
       "Name": "The End",
       "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH_TOURDETIENG",
@@ -4167,7 +4172,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1822,
+      "Progressed": 1823,
       "Completed": 70
     }
   ],
@@ -4175,8 +4180,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-29T08:09:36.9642168+00:00",
+  "LastChanged_Achievements": "2023-12-29T09:09:57.3661636+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:44.3535234+00:00",
-  "LastUpdate_Ratings": "2023-12-29T07:57:46.1567262+00:00",
-  "LastUpdate_Achievements": "2023-12-29T08:09:36.9642446+00:00"
+  "LastUpdate_Ratings": "2023-12-29T08:58:20.5399578+00:00",
+  "LastUpdate_Achievements": "2023-12-29T09:09:57.3661946+00:00"
 }

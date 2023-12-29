@@ -3,9 +3,9 @@
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 330,
-  "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 582,
+  "EOS_Progressed": 583,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -2082,6 +2082,11 @@
       "Time": "2023-12-28T21:11:26.6631177+00:00",
       "NumProgressed": 582,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-29T09:10:05.4621748+00:00",
+      "NumProgressed": 583,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -2093,7 +2098,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 48,
       "XP": 60,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "completeact2",
@@ -2133,7 +2138,7 @@
       "Name": "Truthseeker",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "scoreminrankrb2",
@@ -2212,7 +2217,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 582,
+      "Progressed": 583,
       "Completed": 2
     }
   ],
@@ -2220,8 +2225,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-29T08:09:44.7916341+00:00",
+  "LastChanged_Achievements": "2023-12-29T09:10:05.4621745+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:13.373144+00:00",
-  "LastUpdate_Ratings": "2023-12-29T08:00:02.7527073+00:00",
-  "LastUpdate_Achievements": "2023-12-29T08:09:44.7916582+00:00"
+  "LastUpdate_Ratings": "2023-12-29T09:00:37.9025344+00:00",
+  "LastUpdate_Achievements": "2023-12-29T09:10:05.4621923+00:00"
 }

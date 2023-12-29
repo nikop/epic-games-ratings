@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17706,
+  "EOS_Progressed": 17708,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 649,
+  "EOS_NewPlayers": 648,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15537,6 +15537,11 @@
       "Time": "2023-12-29T07:05:22.6903591+00:00",
       "NumProgressed": 17706,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-12-29T09:05:16.812082+00:00",
+      "NumProgressed": 17708,
+      "NumCompleted": 56
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15669,7 +15674,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1239
+      "UsersEstimate": 1240
     },
     {
       "ID": "24",
@@ -15693,7 +15698,7 @@
       "Name": "Call it Even",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "27",
@@ -15805,7 +15810,7 @@
       "Name": "Zen Master",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "34",
@@ -15828,13 +15833,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17706,
+      "Progressed": 17708,
       "Completed": 56
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3660,
+      "Progressed": 3662,
       "Completed": 1102
     }
   ],
@@ -15842,8 +15847,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-27T06:00:51.7325186+00:00",
-  "LastChanged_Achievements": "2023-12-29T08:05:04.8887835+00:00",
+  "LastChanged_Achievements": "2023-12-29T09:05:16.8120816+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-29T08:02:34.6945846+00:00",
-  "LastUpdate_Achievements": "2023-12-29T08:05:04.8888747+00:00"
+  "LastUpdate_Ratings": "2023-12-29T09:00:47.9952043+00:00",
+  "LastUpdate_Achievements": "2023-12-29T09:05:16.812196+00:00"
 }

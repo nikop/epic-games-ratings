@@ -6,11 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,931 |
+| A Brief Tour of the Realms | 2.00% | ~4,932 |
 | The Cursed Farmer | 0.90% | ~2,219 |
 | Beast Intentions | 0.70% | ~1,726 |
 | Welcome to Sigil | 0.70% | ~1,490 |
-| The Mad Wizard | 0.60% | ~1,479 |
+| The Mad Wizard | 0.60% | ~1,480 |
 | Fast Food | 0.60% | ~1,277 |
 | The Ring of Regeneration | 0.40% | ~986 |
 | Are Ya Chicken? | 0.40% | ~986 |
@@ -23,11 +23,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.30% | ~740 |
 | Mad Cow Disease | 0.30% | ~740 |
 | Friendly Imps | 0.30% | ~740 |
-| Arcane Suppression | 0.30% | ~638 |
-| Welcome to the Vrocks | 0.30% | ~638 |
-| Misaligned in Sigil | 0.30% | ~638 |
-| Chaos Theory | 0.30% | ~638 |
-| Mind Spike | 0.30% | ~638 |
+| Arcane Suppression | 0.30% | ~639 |
+| Welcome to the Vrocks | 0.30% | ~639 |
+| Misaligned in Sigil | 0.30% | ~639 |
+| Chaos Theory | 0.30% | ~639 |
+| Mind Spike | 0.30% | ~639 |
 | Maddening | 0.20% | ~493 |
 | A Persistent Buzzing | 0.20% | ~493 |
 | Beast Mode | 0.20% | ~493 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~213 |
 | The Brains of an Illithid's Desire | 0.10% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,559 (Ranked 68)  
+Progressed: 246,587 (Ranked 68)  
 Completed: 2,575 (1.04%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -806,7 +806,7 @@ Completed: 2,575 (1.04%) (Ranked 168)
 | 2023-12-26 | 245,031 | 2,566 |
 | 2023-12-27 | 245,531 | 2,567 |
 | 2023-12-28 | 246,305 | 2,573 |
-| 2023-12-29 | 246,559 | 2,575 |
+| 2023-12-29 | 246,587 | 2,575 |
 ## Awards
 Max (Great for Beginners): 5,708  (Ranked 71)  
 Sum: 33,161 (Ranked 41)  

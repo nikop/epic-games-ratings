@@ -227,9 +227,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 71247,
+  "EOS_Progressed": 71252,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 2163,
+  "EOS_NewPlayers": 2161,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5312,6 +5312,11 @@
       "Time": "2023-12-29T08:04:08.2393649+00:00",
       "NumProgressed": 71247,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-12-29T09:04:20.9596306+00:00",
+      "NumProgressed": 71252,
+      "NumCompleted": 102
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -5324,7 +5329,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 26361
+      "UsersEstimate": 26363
     },
     {
       "ID": "Achievement_10",
@@ -5332,7 +5337,7 @@
       "Name": "Inside Ma\u00E1to\u0027s Mind",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "Achievement_11",
@@ -5380,7 +5385,7 @@
       "Name": "Diligent Hogbunny",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "Achievement_17",
@@ -5404,7 +5409,7 @@
       "Name": "Fearless in Karba",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "Achievement_2",
@@ -5412,7 +5417,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 19237
+      "UsersEstimate": 19238
     },
     {
       "ID": "Achievement_20",
@@ -5428,7 +5433,7 @@
       "Name": "Heroic Hoarder",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "Achievement_22",
@@ -5460,7 +5465,7 @@
       "Name": "Konkylian Custodian",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "Achievement_26",
@@ -5468,7 +5473,7 @@
       "Name": "Fruits of Labour",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "Achievement_27",
@@ -5492,7 +5497,7 @@
       "Name": "Gold Finger",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "Achievement_3",
@@ -5516,7 +5521,7 @@
       "Name": "Well Traveled",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "Achievement_32",
@@ -5532,7 +5537,7 @@
       "Name": "Family Ties",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "Achievement_34",
@@ -5548,7 +5553,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6412
+      "UsersEstimate": 6413
     },
     {
       "ID": "Achievement_5",
@@ -5572,7 +5577,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2137
+      "UsersEstimate": 2138
     },
     {
       "ID": "Achievement_8",
@@ -5580,7 +5585,7 @@
       "Name": "House In Order",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2137
+      "UsersEstimate": 2138
     },
     {
       "ID": "Achievement_9",
@@ -5588,14 +5593,14 @@
       "Name": "Shielded by L\u00FFs",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     }
   ],
   "AchievementSets": [
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 71247,
+      "Progressed": 71252,
       "Completed": 102
     }
   ],
@@ -5603,8 +5608,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-25T04:02:51.5717545+00:00",
-  "LastChanged_Achievements": "2023-12-29T08:04:08.2393646+00:00",
+  "LastChanged_Achievements": "2023-12-29T09:04:20.9596303+00:00",
   "LastUpdate_AppInfo": "2023-12-28T16:57:09.138646+00:00",
-  "LastUpdate_Ratings": "2023-12-29T08:02:55.1843806+00:00",
-  "LastUpdate_Achievements": "2023-12-29T08:04:08.2393997+00:00"
+  "LastUpdate_Ratings": "2023-12-29T09:03:07.9476522+00:00",
+  "LastUpdate_Achievements": "2023-12-29T09:04:20.9596681+00:00"
 }

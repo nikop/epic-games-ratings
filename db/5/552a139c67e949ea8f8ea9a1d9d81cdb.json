@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1711,
+  "EOS_Progressed": 1712,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
@@ -4217,6 +4217,11 @@
       "Time": "2023-12-29T07:04:02.4600595+00:00",
       "NumProgressed": 1711,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T09:03:55.1226963+00:00",
+      "NumProgressed": 1712,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4419,9 +4424,9 @@
       "ID": "ML_ACHIEVEMENT_25",
       "SetID": "5k00jcd",
       "Name": "The Yeti",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ML_ACHIEVEMENT_26",
@@ -4596,20 +4601,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1711,
+      "Progressed": 1712,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1379,
+      "Progressed": 1380,
       "Completed": 1005
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-29T08:03:41.918899+00:00",
+  "LastChanged_Achievements": "2023-12-29T09:03:55.122696+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2023-12-29T07:57:08.5447642+00:00",
-  "LastUpdate_Achievements": "2023-12-29T08:03:41.9189371+00:00"
+  "LastUpdate_Ratings": "2023-12-29T08:57:43.0896376+00:00",
+  "LastUpdate_Achievements": "2023-12-29T09:03:55.1227439+00:00"
 }
