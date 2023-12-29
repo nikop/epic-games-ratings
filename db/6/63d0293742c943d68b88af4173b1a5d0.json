@@ -4,8 +4,8 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 558,
+  "EOS_Progressed": 559,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1814,6 +1814,11 @@
       "Time": "2023-12-29T18:07:49.3386219+00:00",
       "NumProgressed": 558,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T19:06:17.2079411+00:00",
+      "NumProgressed": 559,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1864,9 +1869,9 @@
       "ID": "8",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s On Fire",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 224
     },
     {
       "ID": "9",
@@ -1890,7 +1895,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "REMAKE_004",
@@ -2049,14 +2054,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 558,
+      "Progressed": 559,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:07:49.3386215+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:06:17.2079409+00:00",
   "LastUpdate_AppInfo": "2023-12-26T02:16:12.1403657+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:00:52.4641184+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:07:49.3386458+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:59:27.8730831+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:06:17.2079632+00:00"
 }

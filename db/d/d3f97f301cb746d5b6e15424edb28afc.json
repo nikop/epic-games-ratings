@@ -3,12 +3,12 @@
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_Rating": 609,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -115,7 +115,7 @@
   "Tags": [],
   "EOS_Progressed": 1456,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4058,9 +4058,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1281
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -4082,17 +4082,17 @@
       "ID": "GSS_ACH_04_TIP_02",
       "SetID": "5fn8ia4",
       "Name": "Gaining skill",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1252
     },
     {
       "ID": "GSS_ACH_05_TIP_03",
       "SetID": "5fn8ia4",
       "Name": "Tip of the Iceberg",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1063
     },
     {
       "ID": "GSS_ACH_06_FUEL_01",
@@ -4298,9 +4298,9 @@
       "ID": "GSS_ACH_32_TRASH_03",
       "SetID": "5fn8ia4",
       "Name": "It has to be clean!",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1019
     },
     {
       "ID": "GSS_ACH_33_FLY",
@@ -4715,8 +4715,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-29T13:03:03.3962443+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:04:49.2998754+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:04:04.3477334+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:05.7719462+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:01:24.1379203+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:04:49.2999736+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:59:49.8493629+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:04:04.3478145+00:00"
 }

@@ -5,14 +5,14 @@ Rating: 4.58 (Ranked 462)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 31.00% | ~1,180 |
-| Sputnik 2049 | 28.00% | ~1,066 |
-| Without Breaking Some Eggs... | 26.00% | ~990 |
-| Infinite Growth... | 26.00% | ~990 |
-| Space Society | 18.00% | ~685 |
-| A Thousand Strong | 18.00% | ~685 |
-| Ready for a New World | 18.00% | ~685 |
-| Permanent Redesigns | 16.00% | ~609 |
+| Wakey Wakey | 31.00% | ~1,181 |
+| Sputnik 2049 | 28.00% | ~1,067 |
+| Without Breaking Some Eggs... | 26.00% | ~991 |
+| Infinite Growth... | 26.00% | ~991 |
+| Space Society | 18.00% | ~686 |
+| A Thousand Strong | 18.00% | ~686 |
+| Ready for a New World | 18.00% | ~686 |
+| Permanent Redesigns | 16.00% | ~610 |
 | Fully Recycled | 14.00% | ~533 |
 | Ain't Nobody Got Time for That | 14.00% | ~533 |
 | The Ship of Theseus | 14.00% | ~533 |
@@ -25,11 +25,11 @@ Rating: 4.58 (Ranked 462)
 | Power Outage | 9.00% | ~343 |
 | Convenient Transport | 8.00% | ~305 |
 | Please Make it Stop! | 8.00% | ~305 |
-| Sightseeing | 7.00% | ~266 |
-| Necessary Enhancement | 7.00% | ~266 |
-| From the Past | 7.00% | ~266 |
-| Access Granted | 6.00% | ~228 |
-| All in Good Health | 6.00% | ~228 |
+| Sightseeing | 7.00% | ~267 |
+| Necessary Enhancement | 7.00% | ~267 |
+| From the Past | 7.00% | ~267 |
+| Access Granted | 6.00% | ~229 |
+| All in Good Health | 6.00% | ~229 |
 | Oats | 5.00% | ~190 |
 | What They Hide From Us | 5.00% | ~190 |
 | ...  in a finite world | 5.00% | ~190 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 462)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,807 (Ranked 212)  
+Progressed: 3,810 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 3,743 | 0 |
 | 2023-12-27 | 3,765 | 0 |
 | 2023-12-28 | 3,787 | 0 |
-| 2023-12-29 | 3,807 | 0 |
+| 2023-12-29 | 3,810 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

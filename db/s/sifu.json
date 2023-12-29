@@ -2,7 +2,7 @@
   "ID": "b7b42e2078524ab386a8b2a9856ef557",
   "Name": "Sifu",
   "ProductSlug": "sifu",
-  "Ranking_Rating": 70,
+  "Ranking_Rating": 69,
   "Ranking_Popularity": 55,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 23,
@@ -8577,9 +8577,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 748089,
+  "EOS_Progressed": 748124,
   "EOS_Completed": 12968,
-  "EOS_NewPlayers": 7906,
+  "EOS_NewPlayers": 7905,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.73,
   "EosHistory": [
@@ -31457,6 +31457,11 @@
       "Time": "2023-12-29T18:09:39.1084286+00:00",
       "NumProgressed": 748089,
       "NumCompleted": 12968
+    },
+    {
+      "Time": "2023-12-29T19:09:17.1556486+00:00",
+      "NumProgressed": 748124,
+      "NumCompleted": 12968
     }
   ],
   "TotalAchievements": 60,
@@ -31468,7 +31473,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29924
+      "UsersEstimate": 29925
     },
     {
       "ID": "02_Vengeance_H1",
@@ -31476,7 +31481,7 @@
       "Name": "The Assault",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22443
+      "UsersEstimate": 22444
     },
     {
       "ID": "03_Vengeance_H2",
@@ -31516,7 +31521,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3740
+      "UsersEstimate": 3741
     },
     {
       "ID": "08_Wude_H2",
@@ -31524,7 +31529,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3740
+      "UsersEstimate": 3741
     },
     {
       "ID": "09_Wude_H3",
@@ -31532,7 +31537,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3740
+      "UsersEstimate": 3741
     },
     {
       "ID": "10_Wude_H4",
@@ -31580,7 +31585,7 @@
       "Name": "Detective Story",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3740
+      "UsersEstimate": 3741
     },
     {
       "ID": "16_Detective_H2",
@@ -31644,7 +31649,7 @@
       "Name": "Life is your teacher",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29924
+      "UsersEstimate": 29925
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -31732,7 +31737,7 @@
       "Name": "Lightning Hands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22443
+      "UsersEstimate": 22444
     },
     {
       "ID": "35_WideStrike",
@@ -31828,7 +31833,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -31947,21 +31952,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 57390,
+      "Progressed": 57425,
       "Completed": 10791
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 748089,
+      "Progressed": 748124,
       "Completed": 12968
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-29T14:03:09.5215935+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:09:39.108428+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:09:17.1556484+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:49.3189229+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:03:28.9070397+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:09:39.1085916+00:00"
+  "LastUpdate_Ratings": "2023-12-29T19:03:07.1190865+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:09:17.1557619+00:00"
 }

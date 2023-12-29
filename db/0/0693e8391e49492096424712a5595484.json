@@ -2876,9 +2876,9 @@
       "ID": "HastrmanAmanita",
       "SetID": "db30heh",
       "Name": "Tastes Funny",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 323
+      "UsersEstimate": 330
     },
     {
       "ID": "HastrmanHappy",
@@ -2916,9 +2916,9 @@
       "ID": "PitSoul",
       "SetID": "db30heh",
       "Name": "Your Soul Is Mine",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 297
+      "UsersEstimate": 304
     },
     {
       "ID": "PriestBroom",
@@ -3075,8 +3075,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:05:46.8249753+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:04:46.6655008+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:22.002955+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:00:38.7655116+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:05:46.8250165+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:59:18.3391636+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:04:46.6655415+00:00"
 }

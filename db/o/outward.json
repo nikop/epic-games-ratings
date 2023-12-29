@@ -3,12 +3,12 @@
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
   "Ranking_Rating": 523,
-  "Ranking_Popularity": 495,
+  "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -543,7 +543,7 @@
   ],
   "EOS_Progressed": 4330,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -7609,8 +7609,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:05:31.5527198+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:04:35.6438493+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.9488093+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:03:22.2122347+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:05:31.5527673+00:00"
+  "LastUpdate_Ratings": "2023-12-29T19:03:02.5245587+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:04:35.6438933+00:00"
 }

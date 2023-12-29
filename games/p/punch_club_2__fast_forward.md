@@ -9,7 +9,7 @@
 | Good Person Chip | 84.00% | ~417 |
 | First winning | 82.00% | ~407 |
 | Your first job | 81.00% | ~402 |
-| Depressed visitor | 75.00% | ~372 |
+| Depressed visitor | 76.00% | ~377 |
 | Fitness professional | 74.00% | ~367 |
 | Old movies enjoyer | 74.00% | ~367 |
 | Neurotrainer – power gainer! | 74.00% | ~367 |
@@ -41,7 +41,7 @@
 | Guiding on the right path | 42.00% | ~208 |
 | Mysterious voice | 41.00% | ~203 |
 | No blades in the gym | 39.00% | ~193 |
-| Champion – no way back | 37.00% | ~184 |
+| Champion – no way back | 38.00% | ~188 |
 | Responsible approach | 37.00% | ~184 |
 | Underground dwellers | 36.00% | ~179 |
 | Deal with life | 35.00% | ~174 |
@@ -52,21 +52,21 @@
 | The die is cast | 34.00% | ~169 |
 | Gang wrangler | 32.00% | ~159 |
 | Seashell hunter | 32.00% | ~159 |
+| Absolute Champion! | 31.00% | ~154 |
 | Undercover robot | 31.00% | ~154 |
 | Problems of cyborgs | 30.00% | ~149 |
-| Absolute Champion! | 30.00% | ~149 |
 | The lonesome road | 29.00% | ~144 |
+| Keep nature safe | 29.00% | ~144 |
 | Family comes first | 29.00% | ~144 |
+| Key memories | 29.00% | ~144 |
 | Not little hacker | 29.00% | ~144 |
+| The heart of the Resistance | 29.00% | ~144 |
 | Your own way | 29.00% | ~144 |
 | Trap disarmed | 28.00% | ~139 |
 | Another world | 28.00% | ~139 |
-| Keep nature safe | 28.00% | ~139 |
-| Key memories | 28.00% | ~139 |
 | The last bell ring | 28.00% | ~139 |
 | Careerist | 28.00% | ~139 |
 | Anyone can resist | 28.00% | ~139 |
-| The heart of the Resistance | 28.00% | ~139 |
 | Better cooking at home | 26.00% | ~129 |
 | The only right decision | 26.00% | ~129 |
 | Silver’s past | 25.00% | ~124 |

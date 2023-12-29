@@ -3,12 +3,12 @@
   "Name": "Curious Expedition 2",
   "ProductSlug": "curious-expedition-2-8cb901",
   "Ranking_Rating": 175,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 362,
-  "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 403,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_Completed": 260,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -630,9 +630,9 @@
       "ID": "ach-campaign-finish-easy",
       "SetID": "17ih7ma",
       "Name": "Traveller",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 99
     },
     {
       "ID": "ach-campaign-finish-hard",
@@ -1023,8 +1023,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:11:04.2343479+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:10:20.6286783+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.7715172+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:57:33.0625797+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:11:04.2344035+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:57:12.6589485+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:10:20.6287135+00:00"
 }

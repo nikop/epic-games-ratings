@@ -3,12 +3,12 @@
   "Name": "Pikuniku",
   "ProductSlug": "pikuniku",
   "Ranking_Rating": 231,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-10-01T15:00:00+00:00",
     "PcReleaseDate": "2020-10-01T15:00:00+00:00",
@@ -545,6 +545,6 @@
   "FirstSeen": "2022-07-22T20:25:30.6223242+00:00",
   "LastChanged": "2023-12-19T12:01:06.2109136+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:15.5160861+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:03:01.095016+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:08:52.5213531+00:00"
+  "LastUpdate_Ratings": "2023-12-29T19:02:39.6789484+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:08:43.5573153+00:00"
 }

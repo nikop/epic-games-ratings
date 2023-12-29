@@ -7,32 +7,32 @@ Number of Ratings: 90  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rock of the Bay | 79.00% | ~190 |
-| Mash Machine | 72.00% | ~173 |
-| Ducks in a Row, Fish in a Barrel | 51.00% | ~122 |
-| Furon Fashion | 46.00% | ~110 |
-| Shop Til They Drop | 38.00% | ~91 |
+| Mash Machine | 72.00% | ~174 |
+| Ducks in a Row, Fish in a Barrel | 51.00% | ~123 |
+| Furon Fashion | 46.00% | ~111 |
+| Shop Til They Drop | 38.00% | ~92 |
 | Bodied Sattva | 34.00% | ~82 |
-| Earthly Pleasures | 33.00% | ~79 |
-| Cult Following | 31.00% | ~74 |
+| Earthly Pleasures | 33.00% | ~80 |
+| Cult Following | 31.00% | ~75 |
 | Lie Back and Think of Albion | 25.00% | ~60 |
 | Upgreatest | 24.00% | ~58 |
 | Pimp My Raid | 23.00% | ~55 |
 | I Look Up As I Walk to Takoshima | 19.00% | ~46 |
 | Freshly Squeezed | 17.00% | ~41 |
-| Die Nasty | 16.00% | ~38 |
+| Die Nasty | 16.00% | ~39 |
 | Perfect Probulator | 15.00% | ~36 |
 | Transmitting From Sol-3 | 15.00% | ~36 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 11.00% | ~26 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 11.00% | ~27 |
 | Kaijuiced | 9.00% | ~22 |
 | Fly Me to the Moon Base | 8.00% | ~19 |
 | Dusted | 8.00% | ~19 |
 | Scuttled | 6.00% | ~14 |
 | Re-Return of the Clone of the Invasion II-2 | 6.00% | ~14 |
+| Ultimate Smoothie | 4.00% | ~10 |
 | Lobster Blisque | 4.00% | ~10 |
 | Yettisoned | 4.00% | ~10 |
-| Ultimate Smoothie | 3.00% | ~7 |
-| Deincarnated | 3.00% | ~7 |
 | Arkvoodle Doodle | 3.00% | ~7 |
+| Deincarnated | 2.00% | ~5 |
 | Arty Facts | 1.00% | ~2 |
 | Against All Odds | 1.00% | ~2 |
 | The Optional Mandate | 1.00% | ~2 |
@@ -51,8 +51,8 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.40% | ~1 |
 | Trans-Siberian Express | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240 (Ranked 406)  
-Completed: 1 (0.42%) (Ranked 225)  
+Progressed: 241 (Ranked 406)  
+Completed: 1 (0.41%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -84,10 +84,10 @@ Completed: 1 (0.42%) (Ranked 225)
 | 2023-12-26 | 205 | 1 |
 | 2023-12-27 | 222 | 1 |
 | 2023-12-28 | 230 | 1 |
-| 2023-12-29 | 240 | 1 |
+| 2023-12-29 | 241 | 1 |
 ## Awards
-Max (Great Boss Battles): 36  (Ranked 489)  
-Sum: 36 (Ranked 522)  
+Max (Great Boss Battles): 36  (Ranked 490)  
+Sum: 36 (Ranked 523)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |

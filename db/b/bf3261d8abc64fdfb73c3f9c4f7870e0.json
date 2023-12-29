@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
     "PcReleaseDate": "2018-03-22T23:00:00+00:00",
@@ -480,9 +480,9 @@
       "ID": "achievement_egoist",
       "SetID": "bngbnfb",
       "Name": "Egomaniac",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_feng_is_my_choise",
@@ -791,8 +791,8 @@
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:09:51.0908743+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:09:25.9416735+00:00",
   "LastUpdate_AppInfo": "2023-12-27T14:57:14.899745+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:00:25.7077833+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:09:51.0909041+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:59:09.4351744+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:09:25.9417085+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "arms-race-2-219fd5",
   "Ranking_EOS_Progress": 658,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 521,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 522,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
     "PcReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -135,9 +135,9 @@
       "ID": "Industrialisation",
       "SetID": "1g0ce2c",
       "Name": "Industrialisation",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Korean reunification",
@@ -199,9 +199,9 @@
       "ID": "United Nations",
       "SetID": "1g0ce2c",
       "Name": "United Nations",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Win the game",
@@ -222,8 +222,8 @@
   ],
   "FirstSeen": "2023-12-23T13:59:26.4382087+00:00",
   "FirstSeenAchievements": "2023-10-11T21:08:28.3507055+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:06:03.4239406+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:04:58.4568259+00:00",
   "LastUpdate_AppInfo": "2023-12-26T22:57:07.644988+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:58:54.8944988+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:06:03.4239513+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:58:08.2803496+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:04:58.4568359+00:00"
 }

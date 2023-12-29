@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 323)  
+Rating: 4.65 (Ranked 322)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -40,6 +40,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 0.40% | ~64 |
 | Christianity | 0.40% | ~64 |
 | Babylonian Paganism | 0.40% | ~64 |
+| Roman Paganism | 0.40% | ~64 |
 | Zoroastrianism | 0.40% | ~64 |
 | Naming Landmarks | 0.40% | ~64 |
 | Regicide | 0.30% | ~48 |
@@ -60,7 +61,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 0.30% | ~48 |
 | Manichaeism | 0.30% | ~48 |
 | Carthaginian Paganism | 0.30% | ~48 |
-| Roman Paganism | 0.30% | ~48 |
 | Bad Heir Day | 0.20% | ~32 |
 | Hanging Gardens in Babylon | 0.20% | ~32 |
 | Beloved | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,006 (Ranked 165)  
+Progressed: 16,007 (Ranked 165)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -618,7 +618,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-26 | 15,966 | 5 |
 | 2023-12-27 | 15,978 | 5 |
 | 2023-12-28 | 15,997 | 5 |
-| 2023-12-29 | 16,006 | 5 |
+| 2023-12-29 | 16,007 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 284)  
 Sum: 1,912 (Ranked 220)  

@@ -2,13 +2,13 @@
   "ID": "643a8667d7a940b8b36094020fcd0dcf",
   "Name": "Hell is other demons",
   "ProductSlug": "hell-is-other-demons",
-  "Ranking_Rating": 323,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Rating": 322,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-06-17T15:00:00+00:00",
     "PcReleaseDate": "2019-04-18T15:00:00+00:00",
@@ -487,6 +487,6 @@
   "FirstSeen": "2022-07-22T20:20:36.4695159+00:00",
   "LastChanged": "2023-12-22T23:58:48.8799674+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:40.5615456+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:58:51.142487+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:07:46.9468427+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:58:05.4609686+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:06:15.3209629+00:00"
 }

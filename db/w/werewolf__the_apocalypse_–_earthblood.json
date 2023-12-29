@@ -3,12 +3,12 @@
   "Name": "Werewolf: The Apocalypse \u2013 Earthblood",
   "ProductSlug": "werewolf-the-apocalypse-earthblood",
   "Ranking_Rating": 990,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-12-14T16:00:00+00:00",
     "PcReleaseDate": "2021-02-04T13:00:00+00:00",
@@ -300,6 +300,6 @@
   "FirstSeen": "2022-07-22T20:25:47.1467743+00:00",
   "LastChanged": "2023-12-20T13:00:28.2040949+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:15.4538785+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:03:01.4707432+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:06:56.9297871+00:00"
+  "LastUpdate_Ratings": "2023-12-29T19:02:40.2076295+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:05:38.5182825+00:00"
 }

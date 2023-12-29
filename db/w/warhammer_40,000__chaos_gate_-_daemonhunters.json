@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -807,9 +807,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3638,
+  "EOS_Progressed": 3641,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5057,6 +5057,11 @@
       "Time": "2023-12-29T18:04:04.6522163+00:00",
       "NumProgressed": 3638,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T19:03:32.6734878+00:00",
+      "NumProgressed": 3641,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5260,7 +5265,7 @@
       "Name": "Executioner",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "Kills_Exterminator",
@@ -5300,7 +5305,7 @@
       "Name": "Purging Spree",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "Kills_Vakir",
@@ -5611,21 +5616,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3638,
+      "Progressed": 3641,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3638,
+      "Progressed": 3641,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-29T09:03:12.9031427+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:04:04.652216+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:03:32.6734875+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:54.0012795+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:03:38.5871384+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:04:04.6522751+00:00"
+  "LastUpdate_Ratings": "2023-12-29T19:03:13.7756682+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:03:32.6735471+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 523,
-  "Ranking_Popularity": 495,
+  "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -815,9 +815,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 240289,
+  "EOS_Progressed": 240301,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1338,
+  "EOS_NewPlayers": 1342,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19275,6 +19275,11 @@
       "Time": "2023-12-29T18:10:53.1889025+00:00",
       "NumProgressed": 240289,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T19:10:11.8565194+00:00",
+      "NumProgressed": 240301,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -19343,7 +19348,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 50461
+      "UsersEstimate": 50463
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -19351,7 +19356,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21626
+      "UsersEstimate": 21627
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -19359,7 +19364,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 12014
+      "UsersEstimate": 12015
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -19439,7 +19444,7 @@
       "Name": "Thaddis Sabbah Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "HW2_MISSION13_COMPLETE",
@@ -19455,7 +19460,7 @@
       "Name": "Balcora Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "HW2_MISSION15_COMPLETE",
@@ -19463,7 +19468,7 @@
       "Name": "Return to Hiigara Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "HW2_MISSION1_COMPLETE",
@@ -19471,7 +19476,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33640
+      "UsersEstimate": 33642
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -19479,7 +19484,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16820
+      "UsersEstimate": 16821
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -19535,7 +19540,7 @@
       "Name": "Counter Attack Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "HW2_TUTORIAL_COMPLETE",
@@ -19543,7 +19548,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 60072
+      "UsersEstimate": 60075
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -19558,7 +19563,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 240289,
+      "Progressed": 240301,
       "Completed": 0
     }
   ],
@@ -19566,8 +19571,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-28T23:00:12.8923406+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:10:53.1889023+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:10:11.8565193+00:00",
   "LastUpdate_AppInfo": "2023-12-29T06:57:17.105104+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:01:06.6860232+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:10:53.1889987+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:59:37.6238461+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:10:11.8566053+00:00"
 }

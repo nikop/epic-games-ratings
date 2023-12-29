@@ -5,11 +5,11 @@ Rating: 4.72 (Ranked 187)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In a Pinch | 0.60% | ~51 |
+| In a Pinch | 0.70% | ~59 |
 | Energy Saver | 0.50% | ~42 |
-| The Journey Onwards | 0.30% | ~25 |
+| Soul-Canon | 0.30% | ~26 |
+| The Journey Onwards | 0.30% | ~26 |
 | Body and Soul | 0.20% | ~17 |
-| Soul-Canon | 0.20% | ~17 |
 | Ahem Ahem | 0.10% | ~8 |
 | Audiophile | 0.10% | ~8 |
 | Clay Pigeon | 0.10% | ~8 |
@@ -27,7 +27,7 @@ Rating: 4.72 (Ranked 187)
 | Live Wire | 0.00% | ~0 |
 | Thing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,497 (Ranked 186)  
+Progressed: 8,500 (Ranked 186)  
 Completed: 34 (0.40%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 34 (0.40%) (Ranked 229)
 | 2023-12-26 | 8,364 | 34 |
 | 2023-12-27 | 8,408 | 34 |
 | 2023-12-28 | 8,451 | 34 |
-| 2023-12-29 | 8,497 | 34 |
+| 2023-12-29 | 8,500 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

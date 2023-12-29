@@ -45,7 +45,7 @@ Rating: 3.85 (Ranked 1,059)
 | Being a donut... | 0.70% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,826 (Ranked 245)  
-Completed: 11 (0.60%) (Ranked 204)  
+Completed: 11 (0.60%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -224,8 +224,8 @@ Completed: 11 (0.60%) (Ranked 204)
 | 2023-12-28 | 1,820 | 11 |
 | 2023-12-29 | 1,826 | 11 |
 ## Awards
-Max (Character Customization): 70  (Ranked 415)  
-Sum: 70 (Ranked 485)  
+Max (Character Customization): 70  (Ranked 416)  
+Sum: 70 (Ranked 486)  
 Diff (max vs sum): -70  
 | Award | Count |
 | ----- | ----- |

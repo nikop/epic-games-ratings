@@ -1021,9 +1021,9 @@
       "Count": 159
     }
   ],
-  "EOS_Progressed": 14530,
+  "EOS_Progressed": 14539,
   "EOS_Completed": 83,
-  "EOS_NewPlayers": 1101,
+  "EOS_NewPlayers": 1098,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -16266,6 +16266,11 @@
       "Time": "2023-12-29T18:10:24.8561908+00:00",
       "NumProgressed": 14530,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2023-12-29T19:09:51.020664+00:00",
+      "NumProgressed": 14539,
+      "NumCompleted": 83
     }
   ],
   "TotalAchievements": 34,
@@ -16293,7 +16298,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1454
     },
     {
       "ID": "ACH04",
@@ -16301,7 +16306,7 @@
       "Name": "Not my First Time",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "ACH05",
@@ -16333,7 +16338,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "ACH09",
@@ -16357,7 +16362,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1599
     },
     {
       "ID": "ACH12",
@@ -16381,7 +16386,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6103
+      "UsersEstimate": 6106
     },
     {
       "ID": "ACH15",
@@ -16405,7 +16410,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "ACH18",
@@ -16437,7 +16442,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 6684
+      "UsersEstimate": 6688
     },
     {
       "ID": "ACH22",
@@ -16445,7 +16450,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2906
+      "UsersEstimate": 2908
     },
     {
       "ID": "ACH23",
@@ -16453,7 +16458,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3778
+      "UsersEstimate": 3780
     },
     {
       "ID": "ACH24",
@@ -16461,7 +16466,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "ACH25",
@@ -16469,7 +16474,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "ACH26",
@@ -16477,7 +16482,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "ACH27",
@@ -16485,7 +16490,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "ACH28",
@@ -16509,7 +16514,7 @@
       "Name": "Mischief Managed",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "ACH31",
@@ -16548,7 +16553,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 14530,
+      "Progressed": 14539,
       "Completed": 83
     }
   ],
@@ -16556,8 +16561,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-28T17:58:03.31187+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:10:24.8561905+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:09:51.0206639+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:06.9886134+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:59:33.3574386+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:10:24.8562826+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:58:34.0741077+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:09:51.020755+00:00"
 }

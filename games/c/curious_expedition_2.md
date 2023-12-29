@@ -20,7 +20,7 @@ Number of Ratings: 20  (23.09.2022)
 | O Captain My Captain | 32.00% | ~122 |
 | Plunderer | 30.00% | ~115 |
 | Taxonomist | 28.00% | ~107 |
-| Traveller | 25.00% | ~96 |
+| Traveller | 26.00% | ~99 |
 | Uncertain Loyalties | 25.00% | ~96 |
 | Nahua Seeker | 24.00% | ~92 |
 | Roll to Save | 23.00% | ~88 |
@@ -68,7 +68,7 @@ Number of Ratings: 20  (23.09.2022)
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 382 (Ranked 362)  
-Completed: 1 (0.26%) (Ranked 261)  
+Completed: 1 (0.26%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

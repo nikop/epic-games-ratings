@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1837,
+  "EOS_Progressed": 1838,
   "EOS_Completed": 70,
   "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 6,
@@ -4069,6 +4069,11 @@
       "Time": "2023-12-29T18:10:41.1694004+00:00",
       "NumProgressed": 1837,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-29T19:10:02.8035072+00:00",
+      "NumProgressed": 1838,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 16,
@@ -4088,7 +4093,7 @@
       "Name": "Deep Listener",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -4144,7 +4149,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -4176,7 +4181,7 @@
       "Name": "Shrine Arriver",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_STRANGERENCOUNTERER",
@@ -4184,7 +4189,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "ACH_THEEND",
@@ -4207,7 +4212,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1837,
+      "Progressed": 1838,
       "Completed": 70
     }
   ],
@@ -4215,8 +4220,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:10:41.1694002+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:10:02.803507+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:44.3535234+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:58:59.5415198+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:10:41.1694307+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:58:11.2792211+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:10:02.8035345+00:00"
 }

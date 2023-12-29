@@ -3,11 +3,11 @@
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_Rating": 101,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 267,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
+  "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1340,
+  "EOS_Progressed": 1341,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.61,
   "EosHistory": [
@@ -4624,6 +4624,11 @@
       "Time": "2023-12-29T17:04:35.4786943+00:00",
       "NumProgressed": 1340,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-29T19:04:32.369467+00:00",
+      "NumProgressed": 1341,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4644,7 +4649,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "_03_FinishAct1",
@@ -4676,7 +4681,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "_07_FinishAct3",
@@ -4700,7 +4705,7 @@
       "Name": "Powder Monkey",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "_10_Completion_30",
@@ -4796,7 +4801,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -4828,7 +4833,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -4843,7 +4848,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1340,
+      "Progressed": 1341,
       "Completed": 35
     }
   ],
@@ -4851,8 +4856,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:05:27.4172117+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:04:32.3694668+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:59:51.0697503+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:05:27.4172479+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:58:45.9370425+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:04:32.3695023+00:00"
 }

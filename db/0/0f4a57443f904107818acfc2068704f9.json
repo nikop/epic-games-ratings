@@ -4,8 +4,8 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1115,
+  "EOS_Progressed": 1116,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
@@ -2727,6 +2727,11 @@
       "Time": "2023-12-29T18:07:54.4628874+00:00",
       "NumProgressed": 1115,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T19:06:20.8741377+00:00",
+      "NumProgressed": 1116,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2883,15 +2888,15 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "CompleteChapter3",
       "SetID": "52ail55",
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 446
+      "UsersEstimate": 458
     },
     {
       "ID": "CompleteChapter4",
@@ -2931,7 +2936,7 @@
       "Name": "Troggoff Troubles",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "CompleteChapter9",
@@ -3034,14 +3039,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1115,
+      "Progressed": 1116,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:07:54.462887+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:06:20.8741373+00:00",
   "LastUpdate_AppInfo": "2023-12-29T09:57:13.5043463+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:57:36.0901548+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:07:54.4629241+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:57:14.6506538+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:06:20.8741653+00:00"
 }

@@ -1,15 +1,15 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 70)  
+Rating: 4.82 (Ranked 69)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,924 |
-| Life is your teacher | 4.00% | ~29,924 |
-| The Assault | 3.00% | ~22,443 |
-| Lightning Hands | 3.00% | ~22,443 |
+| The Old Grandmaster | 4.00% | ~29,925 |
+| Life is your teacher | 4.00% | ~29,925 |
+| The Assault | 3.00% | ~22,444 |
+| Lightning Hands | 3.00% | ~22,444 |
 | The Hateful Pole Fighter | 2.00% | ~14,962 |
 | A Lady's Blood in the Snow | 2.00% | ~14,962 |
 | Stuntmaster | 2.00% | ~14,962 |
@@ -32,11 +32,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 0.90% | ~6,733 |
 | Dance of the Praying Mantis | 0.80% | ~5,985 |
 | Fight the way you practice | 0.70% | ~402 |
-| Martial Hub | 0.60% | ~344 |
-| Muk Yan Master | 0.50% | ~3,740 |
-| Tiger on Fire | 0.50% | ~3,740 |
-| Source of Flying Daggers | 0.50% | ~3,740 |
-| Detective Story | 0.50% | ~3,740 |
+| Martial Hub | 0.60% | ~345 |
+| Muk Yan Master | 0.50% | ~3,741 |
+| Tiger on Fire | 0.50% | ~3,741 |
+| Source of Flying Daggers | 0.50% | ~3,741 |
+| Detective Story | 0.50% | ~3,741 |
 | Bloody Sport | 0.50% | ~287 |
 | Iron Money | 0.40% | ~2,992 |
 | Legendary Talismans of Wuxing | 0.40% | ~2,992 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~57 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 748,089 (Ranked 23)  
+Progressed: 748,124 (Ranked 23)  
 Completed: 12,968 (1.73%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 12,968 (1.73%) (Ranked 141)
 | 2023-12-26 | 745,555 | 12,967 |
 | 2023-12-27 | 746,407 | 12,967 |
 | 2023-12-28 | 747,246 | 12,967 |
-| 2023-12-29 | 748,089 | 12,968 |
+| 2023-12-29 | 748,124 | 12,968 |
 ## Awards
 Max (Great Boss Battles): 7,041  (Ranked 55)  
 Sum: 12,471 (Ranked 84)  

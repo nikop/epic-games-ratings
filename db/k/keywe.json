@@ -4,8 +4,8 @@
   "ProductSlug": "keywe-c3a70e",
   "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-04-28T09:00:00+00:00",
     "PcReleaseDate": "2021-08-31T00:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 109,
+  "EOS_Progressed": 110,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -485,6 +485,11 @@
       "Time": "2023-12-29T10:04:50.8597246+00:00",
       "NumProgressed": 109,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T19:05:11.729571+00:00",
+      "NumProgressed": 110,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:04:51.255408+00:00",
@@ -505,7 +510,7 @@
       "Name": "Secrets of the Telepost",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "allCoursesCleared",
@@ -569,15 +574,15 @@
       "Name": "You\u0027re Hired",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "completeSummer",
       "SetID": "cfe0fhi",
       "Name": "Fun in the Bungalow Basin Sun",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 42
     },
     {
       "ID": "completeTheFirstWeek",
@@ -656,13 +661,13 @@
     {
       "ID": "cfe0fhi",
       "IsBase": true,
-      "Progressed": 109,
+      "Progressed": 110,
       "Completed": 0
     },
     {
       "ID": "cfj6lld",
       "IsBase": false,
-      "Progressed": 109,
+      "Progressed": 110,
       "Completed": 0
     }
   ],
@@ -670,8 +675,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:06:20.3734206+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:05:11.7295708+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:12.7482599+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:02:11.285472+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:06:20.3734348+00:00"
+  "LastUpdate_Ratings": "2023-12-29T19:00:21.4488962+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:05:11.729581+00:00"
 }

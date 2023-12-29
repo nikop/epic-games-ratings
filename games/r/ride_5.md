@@ -9,8 +9,8 @@ Rating: 4.48 (Ranked 648)
 | First Love | 45.00% | ~1,390 |
 | Clean Race | 43.00% | ~1,328 |
 | Hear That Roar! | 41.00% | ~1,266 |
+| Bitter Rivalry | 30.00% | ~926 |
 | Rivals to the End | 30.00% | ~926 |
-| Bitter Rivalry | 29.00% | ~896 |
 | Champagne Spray | 28.00% | ~865 |
 | We're Going to Need a Bigger Garage | 26.00% | ~803 |
 | Quick Pit Stop | 21.00% | ~648 |

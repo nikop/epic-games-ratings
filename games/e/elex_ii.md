@@ -6,15 +6,15 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 35.00% | ~45 |
+| Entrepreneur | 36.00% | ~46 |
 | Best Buddy | 27.00% | ~35 |
 | Civilian | 24.00% | ~31 |
 | Role Model | 23.00% | ~29 |
 | Peddler | 20.00% | ~26 |
+| Military Leader | 17.00% | ~22 |
 | Creator | 17.00% | ~22 |
 | Commander | 17.00% | ~22 |
 | Festival-goer | 17.00% | ~22 |
-| Military Leader | 16.00% | ~20 |
 | Long-Haul Flyer | 13.00% | ~17 |
 | Pass A38 | 12.00% | ~15 |
 | Irissa's Fate | 11.00% | ~14 |
@@ -28,11 +28,11 @@ Number of Ratings: 124  (23.09.2022)
 | Free as a Bird | 5.00% | ~6 |
 | Self-Sufficient | 4.00% | ~5 |
 | Unbreakable | 4.00% | ~5 |
+| Perfectionist | 4.00% | ~5 |
 | Banker | 3.00% | ~4 |
 | Alchemist | 3.00% | ~4 |
 | Idealist | 3.00% | ~4 |
 | Cleric | 3.00% | ~4 |
-| Perfectionist | 3.00% | ~4 |
 | Detective | 3.00% | ~4 |
 | Lover | 3.00% | ~4 |
 | Treasure Hunter | 2.00% | ~3 |

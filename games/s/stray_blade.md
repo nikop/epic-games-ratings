@@ -12,8 +12,8 @@
 | Apprentice | 4.00% | ~6 |
 | Craftsmen | 3.00% | ~4 |
 | Defeat Tezuth | 3.00% | ~4 |
+| Freezing Cold | 3.00% | ~4 |
 | Locked and Loaded | 3.00% | ~4 |
-| Freezing Cold | 2.00% | ~3 |
 | The A-Team | 2.00% | ~3 |
 | Searing Heat | 1.00% | ~1 |
 | Witch | 1.00% | ~1 |

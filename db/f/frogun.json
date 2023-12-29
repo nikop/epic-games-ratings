@@ -2,10 +2,10 @@
   "ID": "dae5ac373ed9475a8edd99f3c7f5b010",
   "Name": "Frogun",
   "ProductSlug": "frogun-9cf69e",
-  "Ranking_EOS_Progress": 409,
-  "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 521,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_Progress": 408,
+  "Ranking_EOS_Completed": 142,
+  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-08-02T14:00:00+00:00",
     "PcReleaseDate": "2022-08-02T14:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 231,
+  "EOS_Progressed": 232,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.73,
+  "EOS_Completed_Percentage": 1.72,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:55.639606+00:00",
@@ -235,6 +235,11 @@
       "Time": "2023-12-28T02:22:28.6261589+00:00",
       "NumProgressed": 231,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-29T19:04:28.9314534+00:00",
+      "NumProgressed": 232,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -244,9 +249,9 @@
       "ID": "Achievement_AllCoins",
       "SetID": "cn6a29l",
       "Name": "Coin collector",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 171
+      "UsersEstimate": 169
     },
     {
       "ID": "Achievement_Beelzebub",
@@ -260,9 +265,9 @@
       "ID": "Achievement_Eyemeralds",
       "SetID": "cn6a29l",
       "Name": "Treasure hunter",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 211
     },
     {
       "ID": "Achievement_Hexy",
@@ -270,7 +275,7 @@
       "Name": "Occult cataloger",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Achievement_Kicky",
@@ -286,7 +291,7 @@
       "Name": "Survivalist",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "Achievement_Notes",
@@ -294,15 +299,15 @@
       "Name": "Historian",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "Achievement_Prickly",
       "SetID": "cn6a29l",
       "Name": "Prickly situation handler",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 79
     },
     {
       "ID": "Achievement_Race1",
@@ -326,7 +331,7 @@
       "Name": "Fire extinguisher",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Achievement_Skull",
@@ -334,7 +339,7 @@
       "Name": "Challenge seeker",
       "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "Achievement_TimeTrial",
@@ -398,7 +403,7 @@
       "Name": "Floater",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "Achievement_hat",
@@ -406,7 +411,7 @@
       "Name": "Hat lover",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Achievement_healthup",
@@ -414,7 +419,7 @@
       "Name": "Protected",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Achievement_hitJake",
@@ -430,7 +435,7 @@
       "Name": "Hubworld fan",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Achievement_mirrormatch",
@@ -493,7 +498,7 @@
     {
       "ID": "cn6a29l",
       "IsBase": true,
-      "Progressed": 231,
+      "Progressed": 232,
       "Completed": 4
     }
   ],
@@ -501,8 +506,8 @@
   "FirstSeenRating": "2023-03-31T05:57:36.5225978+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.6396069+00:00",
   "LastChanged": "2023-03-31T05:57:36.5225979+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:05:22.6573188+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:04:28.9314531+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:42.4244404+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:03:16.6811823+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:05:22.6573349+00:00"
+  "LastUpdate_Ratings": "2023-12-29T19:02:58.6278584+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:04:28.9314712+00:00"
 }

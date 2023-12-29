@@ -3,12 +3,12 @@
   "Name": "Coffee Talk",
   "ProductSlug": "coffee-talk",
   "Ranking_Rating": 41,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-01-31T19:00:00+00:00",
     "PcReleaseDate": "2020-01-28T12:00:00+00:00",
@@ -81,6 +81,6 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7803537+00:00",
   "LastChanged": "2023-12-18T23:00:39.8671801+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:39.0777823+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:58:47.5467528+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:10:03.0159464+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:58:02.8804226+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:09:34.9739306+00:00"
 }

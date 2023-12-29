@@ -3,12 +3,12 @@
   "Name": "Wreckfest",
   "ProductSlug": "wreckfest",
   "Ranking_Rating": 870,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 530,
+  "EOS_Progressed": 531,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 296,
+  "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1446,6 +1446,11 @@
       "Time": "2023-12-29T18:09:14.3559942+00:00",
       "NumProgressed": 530,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T19:08:59.1268856+00:00",
+      "NumProgressed": 531,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1464,9 +1469,9 @@
       "ID": "CareerAllChallenges",
       "SetID": "5hd282c",
       "Name": "Highballer",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 90,
-      "UsersEstimate": 207
+      "UsersEstimate": 212
     },
     {
       "ID": "CareerChamp1",
@@ -1514,7 +1519,7 @@
       "Name": "Storm Warning",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "CollectVehiclesA",
@@ -1522,7 +1527,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "CollectVehiclesB",
@@ -1617,7 +1622,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 530,
+      "Progressed": 531,
       "Completed": 0
     }
   ],
@@ -1625,8 +1630,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-28T22:58:24.1175943+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:09:14.355994+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:08:59.1268854+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:58:43.9582997+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:09:14.3560091+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:58:00.470805+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:08:59.1268978+00:00"
 }

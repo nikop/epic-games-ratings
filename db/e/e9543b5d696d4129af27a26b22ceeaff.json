@@ -4,8 +4,8 @@
   "ProductSlug": "international-basketball-manager-23-561576",
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 427,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 417,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
     "PcReleaseDate": "2022-12-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 47,
+  "EOS_Progressed": 48,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -254,6 +254,11 @@
       "Time": "2023-12-29T01:45:18.0555544+00:00",
       "NumProgressed": 47,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T19:08:35.8538194+00:00",
+      "NumProgressed": 48,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-23T13:12:02.8509977+00:00",
@@ -296,7 +301,7 @@
       "ID": "ACH_AMERICAN_CAREER",
       "SetID": "1lnhagg",
       "Name": "To the States!",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -304,7 +309,7 @@
       "ID": "ACH_ASSISTS_DELIVERY",
       "SetID": "1lnhagg",
       "Name": "Best Assistant",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -328,7 +333,7 @@
       "ID": "ACH_FIRST_CHAMPIONSHIP",
       "SetID": "1lnhagg",
       "Name": "First is Always Special",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -336,15 +341,15 @@
       "ID": "ACH_FIRST_STAR_MANAGER",
       "SetID": "1lnhagg",
       "Name": "The First Star",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_FIRST_WIN",
       "SetID": "1lnhagg",
       "Name": "The First of Many to Come",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 10,
       "UsersEstimate": 31
     },
@@ -368,7 +373,7 @@
       "ID": "ACH_FULL_ARENA",
       "SetID": "1lnhagg",
       "Name": "Full Arena",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -456,7 +461,7 @@
       "ID": "ACH_STAR_IS_BORN",
       "SetID": "1lnhagg",
       "Name": "A Star is Born",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 40,
       "UsersEstimate": 4
     },
@@ -472,9 +477,9 @@
       "ID": "ACH_WELCOME",
       "SetID": "1lnhagg",
       "Name": "Welcome to IBM 23!",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_WINNER_STREAK",
@@ -488,7 +493,7 @@
       "ID": "ACH_WIN_BY_40",
       "SetID": "1lnhagg",
       "Name": "Overpowered",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
       "UsersEstimate": 21
     },
@@ -521,14 +526,14 @@
     {
       "ID": "1lnhagg",
       "IsBase": true,
-      "Progressed": 47,
+      "Progressed": 48,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:08:42.0996979+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:08:35.853819+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:12.5001029+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:59:35.065532+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:08:42.0997232+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:58:35.2183826+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:08:35.8538429+00:00"
 }

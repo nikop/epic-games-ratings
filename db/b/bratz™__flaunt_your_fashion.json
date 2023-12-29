@@ -4,8 +4,8 @@
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
   "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
     "PcReleaseDate": "2022-11-04T00:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 122,
+  "EOS_Progressed": 123,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -481,6 +481,11 @@
       "Time": "2023-12-29T00:03:57.5635274+00:00",
       "NumProgressed": 122,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T19:04:40.1927403+00:00",
+      "NumProgressed": 123,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -492,13 +497,13 @@
       "Name": "Welcome to Stilesville",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "10",
       "SetID": "41h3j82",
       "Name": "Born to Win",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 70,
       "UsersEstimate": 46
     },
@@ -578,7 +583,7 @@
       "ID": "2",
       "SetID": "41h3j82",
       "Name": "Welcome to Barcelona",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 50,
       "UsersEstimate": 68
     },
@@ -586,7 +591,7 @@
       "ID": "3",
       "SetID": "41h3j82",
       "Name": "Welcome to Seoul",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 70,
       "UsersEstimate": 46
     },
@@ -612,13 +617,13 @@
       "Name": "Scooter Race",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "7",
       "SetID": "41h3j82",
       "Name": "Roller Race",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
       "UsersEstimate": 46
     },
@@ -643,7 +648,7 @@
     {
       "ID": "41h3j82",
       "IsBase": true,
-      "Progressed": 122,
+      "Progressed": 123,
       "Completed": 0
     }
   ],
@@ -651,8 +656,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:05:38.0076062+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:04:40.1927401+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:15.2924165+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:59:40.0694227+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:05:38.0076207+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:58:38.6101217+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:04:40.1927532+00:00"
 }

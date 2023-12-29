@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 279,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223,
+  "EOS_Progressed": 224,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
@@ -1014,6 +1014,11 @@
       "Time": "2023-12-29T08:08:17.5299764+00:00",
       "NumProgressed": 223,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T19:08:42.5154543+00:00",
+      "NumProgressed": 224,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1202,7 +1207,7 @@
       "Name": "The artist\u2019s impression",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "finished_it",
@@ -1360,17 +1365,17 @@
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 186
     },
     {
       "ID": "spy_one_item",
       "SetID": "f2im8d",
       "Name": "Fisherman",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "sword_of_the_serpent",
@@ -1424,31 +1429,31 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 121
     },
     {
       "ID": "whispers_long_forgotten",
       "SetID": "f2im8d",
       "Name": "Whispers long forgotten",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     }
   ],
   "AchievementSets": [
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 223,
+      "Progressed": 224,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:08:50.9589179+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:08:42.5154542+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:25.6985759+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:00:48.7816325+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:08:50.9589515+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:59:25.1780991+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:08:42.515485+00:00"
 }

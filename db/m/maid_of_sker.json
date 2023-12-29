@@ -4,8 +4,8 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 367,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 261,
+  "EOS_Progressed": 262,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -675,6 +675,11 @@
       "Time": "2023-12-29T15:06:58.5798192+00:00",
       "NumProgressed": 261,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T19:05:51.6918675+00:00",
+      "NumProgressed": 262,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -684,9 +689,9 @@
       "ID": "animal_lover",
       "SetID": "3j2phem",
       "Name": "Animal Lover",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 84
     },
     {
       "ID": "axe_of_kindness",
@@ -718,7 +723,7 @@
       "Name": "Chief Butler",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "choking_hazzard",
@@ -726,7 +731,7 @@
       "Name": "Choking Hazard",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "dodgy_geezer",
@@ -742,7 +747,7 @@
       "Name": "Don\u0027t Breathe",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "easy_listening",
@@ -916,16 +921,16 @@
       "ID": "wales_interactive",
       "SetID": "3j2phem",
       "Name": "Wales Interactive",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     }
   ],
   "AchievementSets": [
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 261,
+      "Progressed": 262,
       "Completed": 0
     }
   ],
@@ -933,8 +938,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:07:15.4028707+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:05:51.6918673+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:19:56.58025+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:01:15.140171+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:07:15.4028926+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:59:43.502602+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:05:51.6918828+00:00"
 }

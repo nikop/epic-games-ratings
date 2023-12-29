@@ -9,32 +9,32 @@ Number of Ratings: 85  (23.09.2022)
 | Shop Til They Drop | 68.00% | ~147 |
 | Kaijuiced | 66.00% | ~143 |
 | Lie Back and Think of Albion | 60.00% | ~130 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 57.00% | ~123 |
-| Yettisoned | 54.00% | ~117 |
-| I Look Up As I Walk to Takoshima | 54.00% | ~117 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~125 |
+| Yettisoned | 55.00% | ~119 |
+| I Look Up As I Walk to Takoshima | 55.00% | ~119 |
 | Perfect Probulator | 53.00% | ~114 |
+| Lobster Blisque | 49.00% | ~106 |
 | Pimp My Raid | 49.00% | ~106 |
-| Lobster Blisque | 48.00% | ~104 |
 | Earthly Pleasures | 46.00% | ~99 |
 | Fly Me to the Moon Base | 44.00% | ~95 |
 | Ducks in a Row, Fish in a Barrel | 43.00% | ~93 |
 | Freshly Squeezed | 34.00% | ~73 |
 | Forbidden Donut | 33.00% | ~71 |
 | Bodied Sattva | 33.00% | ~71 |
-| Upgreatest | 31.00% | ~67 |
+| Upgreatest | 32.00% | ~69 |
 | Furon Fashion | 27.00% | ~58 |
 | Deincarnated | 25.00% | ~54 |
 | Rock of the Bay | 24.00% | ~52 |
 | Trans-Siberian Express | 23.00% | ~50 |
 | Re-Return of the Clone of the Invasion II-2 | 19.00% | ~41 |
+| Arkvoodle Doodle | 16.00% | ~35 |
 | Ouch of Body Experience | 16.00% | ~35 |
-| Arkvoodle Doodle | 15.00% | ~32 |
 | If You Know What I Mean | 15.00% | ~32 |
 | Die Nasty | 14.00% | ~30 |
 | Hidden Human Hive Harvest | 14.00% | ~30 |
 | Mash Machine | 14.00% | ~30 |
+| Albion Bridge Is for Falling Down | 13.00% | ~28 |
 | Dusted | 13.00% | ~28 |
-| Albion Bridge Is for Falling Down | 12.00% | ~26 |
 | Scuttled | 9.00% | ~19 |
 | PK Slam Dunk | 9.00% | ~19 |
 | Higher Than the Futen Zoku | 8.00% | ~17 |
@@ -65,8 +65,8 @@ Completed: 2 (0.93%) (Ranked 177)
 | 2023-12-28 | 206 | 2 |
 | 2023-12-29 | 216 | 2 |
 ## Awards
-Max (Great Boss Battles): 34  (Ranked 501)  
-Sum: 34 (Ranked 526)  
+Max (Great Boss Battles): 34  (Ranked 502)  
+Sum: 34 (Ranked 527)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |

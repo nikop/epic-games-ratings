@@ -3,12 +3,12 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 25,
-  "Ranking_Popularity": 392,
-  "Ranking_PopularitySum": 469,
+  "Ranking_Popularity": 393,
+  "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 274,
-  "Ranking_EOS_Completed": 281,
+  "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -3411,9 +3411,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 283
     },
     {
       "ID": "JustOneLap",
@@ -3611,9 +3611,9 @@
       "ID": "TheEdgeOfForever",
       "SetID": "1n308hc",
       "Name": "The Edge of Forever",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 47
     },
     {
       "ID": "TheFuture",
@@ -3724,8 +3724,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-28T02:59:27.0743673+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:06:44.044564+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:05:29.3109912+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:57:18.0092177+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:06:44.0446255+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:57:02.520958+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:05:29.3110363+00:00"
 }

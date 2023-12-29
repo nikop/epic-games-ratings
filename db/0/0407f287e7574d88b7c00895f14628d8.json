@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -724,9 +724,9 @@
       "ID": "fw1",
       "SetID": "b1ggf28",
       "Name": "City Center",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "fw2",
@@ -1004,9 +1004,9 @@
       "ID": "zf1",
       "SetID": "b1ggf28",
       "Name": "Cozy Houses",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "zf2",
@@ -1059,8 +1059,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:04:03.6281895+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:03:31.8097319+00:00",
   "LastUpdate_AppInfo": "2023-12-27T04:56:58.3049887+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:03:21.6372035+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:04:03.6282257+00:00"
+  "LastUpdate_Ratings": "2023-12-29T19:03:02.1225138+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:03:31.8097615+00:00"
 }

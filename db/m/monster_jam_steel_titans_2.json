@@ -2,13 +2,13 @@
   "ID": "e65e11fc4aee4bb28c3bddf0b6d490bd",
   "Name": "Monster Jam Steel Titans 2",
   "ProductSlug": "monster-jam-steel-titans-2",
-  "Ranking_Rating": 323,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Rating": 322,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-03-02T18:00:00+00:00",
     "PcReleaseDate": "2021-03-02T18:00:00+00:00",
@@ -67,6 +67,6 @@
   "FirstSeenRating": "2023-03-02T13:57:28.8342245+00:00",
   "LastChanged": "2023-11-14T13:04:16.9427821+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:13.6903317+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:58:57.2952212+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:10:17.4326073+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:58:09.6656878+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:09:45.5602494+00:00"
 }

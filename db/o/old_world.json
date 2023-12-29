@@ -2,13 +2,13 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 323,
+  "Ranking_Rating": 322,
   "Ranking_Popularity": 284,
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2208,9 +2208,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16006,
+  "EOS_Progressed": 16007,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18548,6 +18548,11 @@
       "Time": "2023-12-29T15:10:50.846915+00:00",
       "NumProgressed": 16006,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-29T19:10:23.6841874+00:00",
+      "NumProgressed": 16007,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20413,9 +20418,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ROME",
       "SetID": "7l38kb8",
       "Name": "Roman Paganism",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_ZOROASTRIANISM",
@@ -21422,21 +21427,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16006,
+      "Progressed": 16007,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16006,
+      "Progressed": 16007,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-29T16:02:55.9624641+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:11:07.8272033+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:10:23.6841873+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:47.5878363+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:03:24.9077403+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:11:07.8282554+00:00"
+  "LastUpdate_Ratings": "2023-12-29T19:03:04.4384762+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:10:23.6851455+00:00"
 }

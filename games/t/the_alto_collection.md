@@ -6,13 +6,13 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~14,174 |
-| Finding Your Footing | 25.00% | ~13,124 |
-| Nomad | 17.00% | ~8,924 |
-| Picking Up Speed | 15.00% | ~7,874 |
-| Welcome Maya | 14.00% | ~7,349 |
-| Scout | 11.00% | ~5,775 |
-| Sightseer | 11.00% | ~5,775 |
+| Rookie | 27.00% | ~14,176 |
+| Finding Your Footing | 25.00% | ~13,126 |
+| Nomad | 17.00% | ~8,926 |
+| Picking Up Speed | 15.00% | ~7,876 |
+| Welcome Maya | 14.00% | ~7,351 |
+| Scout | 11.00% | ~5,776 |
+| Sightseer | 11.00% | ~5,776 |
 | Amateur | 10.00% | ~5,250 |
 | Unlock Maya | 8.00% | ~4,200 |
 | Wanderer | 8.00% | ~4,200 |
@@ -36,17 +36,17 @@ Number of Ratings: 332  (23.09.2022)
 | Daredevil | 1.00% | ~525 |
 | Introducing Sumara | 1.00% | ~525 |
 | Vandal | 1.00% | ~525 |
-| Unlock Felipe | 0.90% | ~472 |
+| Unlock Felipe | 0.90% | ~473 |
 | Adventurer | 0.80% | ~420 |
-| Unlock Tupa | 0.50% | ~262 |
-| Master Of The Sands | 0.30% | ~157 |
+| Unlock Tupa | 0.50% | ~263 |
+| Master Of The Sands | 0.30% | ~158 |
 | Master | 0.20% | ~105 |
 | Survivalist | 0.20% | ~105 |
-| Life Aquatic | 0.10% | ~52 |
-| The Ultimate Challenge | 0.10% | ~52 |
-| Windswept | 0.10% | ~52 |
+| Life Aquatic | 0.10% | ~53 |
+| The Ultimate Challenge | 0.10% | ~53 |
+| Windswept | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,496 (Ranked 120)  
+Progressed: 52,505 (Ranked 120)  
 Completed: 5 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,11 +299,11 @@ Completed: 5 (0.01%) (Ranked 367)
 | 2023-12-26 | 52,064 | 5 |
 | 2023-12-27 | 52,228 | 5 |
 | 2023-12-28 | 52,370 | 5 |
-| 2023-12-29 | 52,496 | 5 |
+| 2023-12-29 | 52,505 | 5 |
 ## Awards
-Max (Great for Quick Sessions): 50  (Ranked 449)  
+Max (Great for Quick Sessions): 50  (Ranked 450)  
 Sum: 391 (Ranked 353)  
-Diff (max vs sum): 96  
+Diff (max vs sum): 97  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 50 |

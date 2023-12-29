@@ -4,11 +4,11 @@
   "ProductSlug": "totally-accurate-battle-simulator",
   "Ranking_Rating": 149,
   "Ranking_Popularity": 232,
-  "Ranking_PopularitySum": 171,
+  "Ranking_PopularitySum": 170,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2019-04-01T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -5010,11 +5010,17 @@
       "Rating": 4.75,
       "NumberOfAwards": 3511,
       "NumberOfAwardsMax": 430
+    },
+    {
+      "Time": "2023-12-29T18:59:58.1073521+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 3513,
+      "NumberOfAwardsMax": 432
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3511,
-  "NumberOfAwardsMax": 430,
+  "NumberOfAwards": 3513,
+  "NumberOfAwardsMax": 432,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -5027,7 +5033,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 430
+      "Count": 432
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5113,8 +5119,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:14.6922177+00:00",
-  "LastChanged": "2023-12-29T15:59:56.609598+00:00",
+  "LastChanged": "2023-12-29T18:59:58.1073519+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.4006318+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:01:36.7426856+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:06:01.9703672+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:59:58.1073523+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:04:57.4799681+00:00"
 }

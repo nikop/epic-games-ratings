@@ -3,12 +3,12 @@
   "Name": "Tchia",
   "ProductSlug": "tchia",
   "Ranking_Rating": 187,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -263,7 +263,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8497,
+  "EOS_Progressed": 8500,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
@@ -10328,6 +10328,11 @@
       "Time": "2023-12-29T18:09:01.8970343+00:00",
       "NumProgressed": 8497,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-29T19:08:50.2739362+00:00",
+      "NumProgressed": 8500,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -10441,9 +10446,9 @@
       "ID": "IN_A_PINCH",
       "SetID": "3cck1g6",
       "Name": "In a Pinch",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 59
     },
     {
       "ID": "LIBERATOR",
@@ -10481,9 +10486,9 @@
       "ID": "SOUL_CANON",
       "SetID": "3cck1g6",
       "Name": "Soul-Canon",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 26
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -10491,7 +10496,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "THING",
@@ -10506,7 +10511,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8497,
+      "Progressed": 8500,
       "Completed": 34
     }
   ],
@@ -10514,8 +10519,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-12-22T18:01:14.9082256+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:09:01.8970335+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:08:50.273936+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:37.7358257+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:01:06.8774914+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:09:01.8970915+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:59:37.7473462+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:08:50.2739932+00:00"
 }

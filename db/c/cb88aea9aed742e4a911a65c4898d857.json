@@ -3,12 +3,12 @@
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_Rating": 283,
-  "Ranking_Popularity": 420,
-  "Ranking_PopularitySum": 487,
+  "Ranking_Popularity": 421,
+  "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -209,9 +209,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 8573,
+  "EOS_Progressed": 8591,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2245,
+  "EOS_NewPlayers": 2239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2869,6 +2869,11 @@
       "Time": "2023-12-29T18:10:39.920355+00:00",
       "NumProgressed": 8573,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T19:10:02.007956+00:00",
+      "NumProgressed": 8591,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -2881,7 +2886,7 @@
       "Name": "Conspiracy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "03_TheStolenStar",
@@ -3015,9 +3020,9 @@
       "ID": "19_TheVoidWolf",
       "SetID": "37a94m8",
       "Name": "Void Wolf",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 60
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -3049,7 +3054,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "24_TheHighrise",
@@ -3103,9 +3108,9 @@
       "ID": "30_The GreatestExploration",
       "SetID": "37a94m8",
       "Name": "Greatest Exploration",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 52
     },
     {
       "ID": "31_DontTouchThis",
@@ -3127,9 +3132,9 @@
       "ID": "33_TzeentchCleaning",
       "SetID": "37a94m8",
       "Name": "Cleening Out the Tzeentch",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 77
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -3400,7 +3405,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8573,
+      "Progressed": 8591,
       "Completed": 0
     }
   ],
@@ -3408,8 +3413,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-29T15:57:59.1942922+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:10:39.9203545+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:10:02.0079558+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:58:38.9379143+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:10:39.9204149+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:57:57.1984594+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:10:02.0080043+00:00"
 }

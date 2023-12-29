@@ -3,12 +3,12 @@
   "Name": "ATOM RPG",
   "ProductSlug": "atom-rpg-3adb54",
   "Ranking_Rating": 648,
-  "Ranking_Popularity": 440,
-  "Ranking_PopularitySum": 495,
+  "Ranking_Popularity": 441,
+  "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -409,9 +409,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1536,
+  "EOS_Progressed": 1538,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3889,6 +3889,11 @@
       "Time": "2023-12-29T18:10:52.1801206+00:00",
       "NumProgressed": 1536,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T19:10:11.0509809+00:00",
+      "NumProgressed": 1538,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -3948,7 +3953,7 @@
       "Name": "Double agent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -3956,7 +3961,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1523
     },
     {
       "ID": "EXPERT_1",
@@ -4052,7 +4057,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4076,7 +4081,7 @@
       "Name": "Paranoia",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "PRIVATE_EYE",
@@ -4116,7 +4121,7 @@
       "Name": "Sacrifice",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "SAVANT_1",
@@ -4172,7 +4177,7 @@
       "Name": "Wanderer",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "WISHMASTER_1",
@@ -4187,15 +4192,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1536,
+      "Progressed": 1538,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-12-27T01:41:52.1948259+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:10:52.1801204+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:10:11.0509807+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.1094893+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:59:50.3075966+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:10:52.180154+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:58:45.4352293+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:10:11.0510098+00:00"
 }

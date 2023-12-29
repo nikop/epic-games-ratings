@@ -46,8 +46,8 @@ Number of Ratings: 75  (23.09.2022)
 | Bet On Bots: Safety First | 0.80% | ~46 |
 | Tycoon | 0.80% | ~46 |
 | Merry-Go-Around: Self-Made | 0.70% | ~40 |
+| Trendsetter | 0.70% | ~40 |
 | Bet On Bots: Inspector's Favorite | 0.60% | ~35 |
-| Trendsetter | 0.60% | ~35 |
 | Level: Heating-Up | 0.50% | ~29 |
 | Level: Eye In The Sky | 0.50% | ~29 |
 | CEO | 0.50% | ~29 |

@@ -6,14 +6,14 @@ Rating: 4.63 (Ranked 356)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 12.00% | ~777 |
-| Realm Estate | 10.00% | ~647 |
+| Realm Estate | 10.00% | ~648 |
 | A Wonderful Discovery | 9.00% | ~583 |
 | Walls Cannot Stop Us | 9.00% | ~583 |
 | From Friends to Family | 8.00% | ~518 |
 | Bone Peddler | 7.00% | ~453 |
-| Magical Synergy | 6.00% | ~388 |
+| Full Ascension | 6.00% | ~389 |
+| Magical Synergy | 6.00% | ~389 |
 | There Can Only Be One! | 5.00% | ~324 |
-| Full Ascension | 5.00% | ~324 |
 | Stronger Together | 5.00% | ~324 |
 | Seat of Power | 5.00% | ~324 |
 | But this one is mine | 5.00% | ~324 |
@@ -27,16 +27,16 @@ Rating: 4.63 (Ranked 356)
 | Fiery Friend | 3.00% | ~194 |
 | Impenetrable Fortress | 3.00% | ~194 |
 | Freed Lands of Manuhari | 3.00% | ~194 |
-| Arch Mage | 2.00% | ~129 |
-| Crimson Caldera | 2.00% | ~129 |
-| Preparation Is Everything | 2.00% | ~129 |
-| Against the Odds | 2.00% | ~129 |
-| Here be Dragons | 2.00% | ~129 |
-| Tipping the Scales | 2.00% | ~129 |
-| Mighty Hoard | 2.00% | ~129 |
-| Sehiran Oasis | 2.00% | ~129 |
-| Chaos Surge | 2.00% | ~129 |
-| Spoils of War | 2.00% | ~129 |
+| Arch Mage | 2.00% | ~130 |
+| Crimson Caldera | 2.00% | ~130 |
+| Preparation Is Everything | 2.00% | ~130 |
+| Against the Odds | 2.00% | ~130 |
+| Here be Dragons | 2.00% | ~130 |
+| Tipping the Scales | 2.00% | ~130 |
+| Mighty Hoard | 2.00% | ~130 |
+| Sehiran Oasis | 2.00% | ~130 |
+| Chaos Surge | 2.00% | ~130 |
+| Spoils of War | 2.00% | ~130 |
 | I've Got Everything I Need Right Here | 1.00% | ~65 |
 | God Emperor | 1.00% | ~65 |
 | Lord of Chaos | 1.00% | ~65 |
@@ -53,7 +53,7 @@ Rating: 4.63 (Ranked 356)
 | Pruning for Progress | 0.90% | ~58 |
 | Grexolis | 0.80% | ~52 |
 | One for All, All for One | 0.80% | ~52 |
-| Duality | 0.70% | ~45 |
+| Duality | 0.80% | ~52 |
 | Betrayal Most Foul | 0.60% | ~39 |
 | Snap Out of It! | 0.40% | ~26 |
 | The Magic That Empowers Me! | 0.30% | ~19 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 356)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,474 (Ranked 195)  
+Progressed: 6,477 (Ranked 195)  
 Completed: 7 (0.11%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,11 +287,11 @@ Completed: 7 (0.11%) (Ranked 303)
 | 2023-12-26 | 6,285 | 7 |
 | 2023-12-27 | 6,359 | 7 |
 | 2023-12-28 | 6,414 | 7 |
-| 2023-12-29 | 6,474 | 7 |
+| 2023-12-29 | 6,477 | 7 |
 ## Awards
-Max (Diverse Characters): 38  (Ranked 481)  
+Max (Diverse Characters): 38  (Ranked 482)  
 Sum: 161 (Ranked 435)  
-Diff (max vs sum): 46  
+Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 38 |

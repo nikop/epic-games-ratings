@@ -2,10 +2,10 @@
   "ID": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
   "Name": "Deus Ex - Mankind Divided",
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
-  "Ranking_EOS_Progress": 531,
+  "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 373,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2016-08-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56,
+  "EOS_Progressed": 57,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -299,6 +299,11 @@
       "Time": "2023-12-28T19:08:15.4357602+00:00",
       "NumProgressed": 56,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T19:08:32.7155604+00:00",
+      "NumProgressed": 57,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.7079864+00:00",
@@ -317,7 +322,7 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "7on801h",
       "Name": "Ghost",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -333,7 +338,7 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "7on801h",
       "Name": "Between Technology and the Divine",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -549,7 +554,7 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "7on801h",
       "Name": "A Heated Combination",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -581,7 +586,7 @@
       "ID": "NEW_ACHIEVEMENT_2_11",
       "SetID": "7on801h",
       "Name": "Neon Nights",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -773,7 +778,7 @@
       "ID": "NEW_ACHIEVEMENT_2_5",
       "SetID": "7on801h",
       "Name": "The Golden Ticket",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -958,20 +963,20 @@
     {
       "ID": "7on801h",
       "IsBase": true,
-      "Progressed": 56,
+      "Progressed": 57,
       "Completed": 0
     },
     {
       "ID": "o6aioj",
       "IsBase": false,
-      "Progressed": 56,
+      "Progressed": 57,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:08:37.9979828+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:08:32.7155603+00:00",
   "LastUpdate_AppInfo": "2023-12-27T16:57:17.6990227+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:58:51.4488909+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:08:37.9980782+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:58:05.656994+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:08:32.715641+00:00"
 }

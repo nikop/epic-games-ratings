@@ -2,10 +2,10 @@
   "ID": "fcfb5f2cb071465391cc3c4555327790",
   "Name": "Tales of the Tiny Planet",
   "ProductSlug": "tales-of-the-tiny-planet-ab9e11",
-  "Ranking_EOS_Progress": 752,
+  "Ranking_EOS_Progress": 753,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-12-18T10:00:00+00:00",
     "PcReleaseDate": "2017-08-02T22:00:00+00:00",
@@ -320,8 +320,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-08T16:04:47.8734626+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:04:21.1912445+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:03:44.063882+00:00",
   "LastUpdate_AppInfo": "2023-12-26T11:56:57.5203938+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:59:34.8486938+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:04:21.1912647+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:58:35.0125375+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:03:44.0639006+00:00"
 }

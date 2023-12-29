@@ -3,8 +3,8 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_Rating": 10,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 70,
   "Ranking_EOS_NewPlayers": 162,
@@ -85,9 +85,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1992,
+  "EOS_Progressed": 1993,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 426,
+  "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 36,
   "EOS_Completed_Percentage": 6.07,
   "EosHistory": [
@@ -5685,6 +5685,11 @@
       "Time": "2023-12-29T18:06:52.0731699+00:00",
       "NumProgressed": 1992,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-12-29T19:05:35.0127943+00:00",
+      "NumProgressed": 1993,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 25,
@@ -5744,7 +5749,7 @@
       "Name": "Open door",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "META_RESULT_1-3",
@@ -5856,7 +5861,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "PROGRESS_N2",
@@ -5872,7 +5877,7 @@
       "Name": "A new dawn",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "PROGRESS_N4",
@@ -5895,7 +5900,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 1992,
+      "Progressed": 1993,
       "Completed": 121
     }
   ],
@@ -5903,8 +5908,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-29T06:59:08.3980906+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:06:52.0731696+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:05:35.012794+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:00:27.9448015+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:06:52.0732221+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:59:10.9519678+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:05:35.0128335+00:00"
 }

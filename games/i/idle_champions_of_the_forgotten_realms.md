@@ -6,11 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,938 |
-| The Cursed Farmer | 0.90% | ~2,222 |
-| Beast Intentions | 0.70% | ~1,728 |
-| Welcome to Sigil | 0.70% | ~1,492 |
-| The Mad Wizard | 0.60% | ~1,481 |
+| A Brief Tour of the Realms | 2.00% | ~4,939 |
+| The Cursed Farmer | 1.00% | ~2,470 |
+| Beast Intentions | 0.70% | ~1,729 |
+| Welcome to Sigil | 0.70% | ~1,493 |
+| The Mad Wizard | 0.60% | ~1,482 |
 | Fast Food | 0.60% | ~1,279 |
 | The Ring of Regeneration | 0.40% | ~988 |
 | Are Ya Chicken? | 0.40% | ~988 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~213 |
 | The Brains of an Illithid's Desire | 0.10% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,913 (Ranked 68)  
+Progressed: 246,965 (Ranked 68)  
 Completed: 2,575 (1.04%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -806,10 +806,10 @@ Completed: 2,575 (1.04%) (Ranked 168)
 | 2023-12-26 | 245,031 | 2,566 |
 | 2023-12-27 | 245,531 | 2,567 |
 | 2023-12-28 | 246,305 | 2,573 |
-| 2023-12-29 | 246,913 | 2,575 |
+| 2023-12-29 | 246,965 | 2,575 |
 ## Awards
 Max (Great for Beginners): 5,708  (Ranked 71)  
-Sum: 33,171 (Ranked 41)  
+Sum: 33,173 (Ranked 41)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -819,7 +819,7 @@ Diff (max vs sum): 30
 | This game is Relaxing | 4,751 |
 | This game has Amazing Characters | 4,295 |
 | This game is Highly Recommended | 4,281 |
-| This game has Playful Visuals | 3,607 |
+| This game has Playful Visuals | 3,609 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -1160,4 +1160,4 @@ Diff (max vs sum): 30
 | 2023-12-26 | 4.06 | - | 5,696 | 33,100 |
 | 2023-12-27 | 4.06 | - | 5,701 | 33,129 |
 | 2023-12-28 | 4.06 | - | 5,708 | 33,156 |
-| 2023-12-29 | 4.06 | - | 5,708 | 33,171 |
+| 2023-12-29 | 4.06 | - | 5,708 | 33,173 |

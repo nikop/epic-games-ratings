@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 291,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -887,9 +887,9 @@
       "ID": "ACH_NOTALONE",
       "SetID": "88d7anj",
       "Name": "Not alone",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_PAIN",
@@ -974,8 +974,8 @@
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:09:02.3886349+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:08:50.6585544+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:51.5570753+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:57:35.5876055+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:09:02.3886548+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:57:14.4104577+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:08:50.6585729+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Despot\u0027s Game",
   "ProductSlug": "despots-game-f61a0a",
   "Ranking_Rating": 609,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -936,8 +936,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:07:51.1182539+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:06:18.5089626+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:08.4827025+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:59:47.6474934+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:07:51.1182783+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:58:43.7165663+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:06:18.5089801+00:00"
 }

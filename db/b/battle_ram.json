@@ -4,8 +4,8 @@
   "ProductSlug": "battle-ram-d001fd",
   "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 522,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-06-04T18:00:00+00:00",
     "PcReleaseDate": "2020-03-21T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 301,
+  "EOS_Progressed": 302,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1299,6 +1299,11 @@
       "Time": "2023-12-25T14:03:21.3566208+00:00",
       "NumProgressed": 301,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T19:05:28.2471935+00:00",
+      "NumProgressed": 302,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -1308,9 +1313,9 @@
       "ID": "ach_1",
       "SetID": "392n4e7",
       "Name": "START",
-      "Percentage": 93,
+      "Percentage": 92,
       "XP": 45,
-      "UsersEstimate": 280
+      "UsersEstimate": 278
     },
     {
       "ID": "ach_10",
@@ -1318,7 +1323,7 @@
       "Name": "Senior warrant officer Baran 3rd class",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ach_11",
@@ -1398,7 +1403,7 @@
       "Name": "Ram Corporal",
       "Percentage": 86,
       "XP": 30,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ach_20",
@@ -1462,7 +1467,7 @@
       "Name": "Sergeant Major Baran",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ach_8",
@@ -1470,7 +1475,7 @@
       "Name": "Senior warrant officer Baran 1st class",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ach_9",
@@ -1478,21 +1483,21 @@
       "Name": "Senior warrant officer Baran 2nd class",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     }
   ],
   "AchievementSets": [
     {
       "ID": "392n4e7",
       "IsBase": true,
-      "Progressed": 301,
+      "Progressed": 302,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-10T14:58:14.6297429+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:06:42.5723199+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:05:28.2471933+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:36.8823734+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:00:10.8335099+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:06:42.5723397+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:58:59.4270714+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:05:28.2472068+00:00"
 }

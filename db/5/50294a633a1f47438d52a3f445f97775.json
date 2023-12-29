@@ -4,8 +4,8 @@
   "ProductSlug": "spiderbro-e037b7",
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-01T23:00:00+00:00",
     "PcReleaseDate": "2022-02-22T00:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T12:01:35.4461945+00:00",
   "LastUpdate_AppInfo": "2023-12-25T02:56:59.114203+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:00:22.8561534+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:04:51.7360621+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:59:07.5659544+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:04:06.0661957+00:00"
 }

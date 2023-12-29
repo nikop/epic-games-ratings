@@ -3,12 +3,12 @@
   "Name": "Train Valley",
   "ProductSlug": "train-valley-ead642",
   "Ranking_Rating": 609,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 328,
-  "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_Completed": 245,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -144,9 +144,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 600,
+  "EOS_Progressed": 601,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1674,6 +1674,11 @@
       "Time": "2023-12-29T17:03:22.7866973+00:00",
       "NumProgressed": 600,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-29T19:03:28.1293862+00:00",
+      "NumProgressed": 601,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1685,7 +1690,7 @@
       "Name": "Getting started",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "02_collector",
@@ -1731,9 +1736,9 @@
       "ID": "07_europe",
       "SetID": "chb1m60",
       "Name": "Europe",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 192
     },
     {
       "ID": "08_america",
@@ -1747,9 +1752,9 @@
       "ID": "09_russia",
       "SetID": "chb1m60",
       "Name": "Russia",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 120
+      "UsersEstimate": 114
     },
     {
       "ID": "10_japan",
@@ -1763,9 +1768,9 @@
       "ID": "11_germany",
       "SetID": "chb1m60",
       "Name": "Germany",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 36
     },
     {
       "ID": "12_roll",
@@ -1813,7 +1818,7 @@
       "Name": "Builder",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "18_foreman",
@@ -1851,17 +1856,17 @@
       "ID": "22_ouroboros",
       "SetID": "chb1m60",
       "Name": "Ouroboros",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 144
     },
     {
       "ID": "23_closecall",
       "SetID": "chb1m60",
       "Name": "Close call!",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 432
+      "UsersEstimate": 427
     },
     {
       "ID": "24_mega",
@@ -1955,9 +1960,9 @@
       "ID": "35_achtung",
       "SetID": "chb1m60",
       "Name": "Achtung!",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 66
     },
     {
       "ID": "36_supercrash",
@@ -1996,15 +2001,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 600,
+      "Progressed": 601,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-12-18T07:02:31.8741871+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:03:58.4302798+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:03:28.1293861+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:20.7345819+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:59:40.8876885+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:03:58.4303489+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:58:39.2210674+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:03:28.1294129+00:00"
 }

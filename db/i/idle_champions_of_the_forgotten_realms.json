@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewPlayers": 52,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9119,10 +9119,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33171,
       "NumberOfAwardsMax": 5708
+    },
+    {
+      "Time": "2023-12-29T18:59:24.0618355+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33173,
+      "NumberOfAwardsMax": 5708
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33171,
+  "NumberOfAwards": 33173,
   "NumberOfAwardsMax": 5708,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9166,12 +9172,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3607
+      "Count": 3609
     }
   ],
-  "EOS_Progressed": 246913,
+  "EOS_Progressed": 246965,
   "EOS_Completed": 2575,
-  "EOS_NewPlayers": 3564,
+  "EOS_NewPlayers": 3592,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -37814,6 +37820,11 @@
       "Time": "2023-12-29T18:11:09.1777552+00:00",
       "NumProgressed": 246913,
       "NumCompleted": 2575
+    },
+    {
+      "Time": "2023-12-29T19:10:24.8076898+00:00",
+      "NumProgressed": 246965,
+      "NumCompleted": 2575
     }
   ],
   "TotalAchievements": 546,
@@ -37825,7 +37836,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4938
+      "UsersEstimate": 4939
     },
     {
       "ID": "objective_completed_10",
@@ -38193,7 +38204,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1728
+      "UsersEstimate": 1729
     },
     {
       "ID": "objective_completed_110",
@@ -39495,9 +39506,9 @@
       "ID": "objective_completed_3",
       "SetID": "cc37lbc",
       "Name": "The Cursed Farmer",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2222
+      "UsersEstimate": 2470
     },
     {
       "ID": "objective_completed_34",
@@ -40969,7 +40980,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "objective_completed_70",
@@ -42113,7 +42124,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "objective_completed_1558",
@@ -42192,21 +42203,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 213187,
+      "Progressed": 213239,
       "Completed": 4092
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 246913,
+      "Progressed": 246965,
       "Completed": 2575
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-29T16:59:44.2818973+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:11:09.1777549+00:00",
+  "LastChanged": "2023-12-29T18:59:24.0618354+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:10:24.8076894+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-29T18:00:47.0570737+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:11:09.1800169+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:59:24.0618361+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:10:24.8099694+00:00"
 }

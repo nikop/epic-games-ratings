@@ -3,12 +3,12 @@
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 356,
-  "Ranking_Popularity": 481,
+  "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -639,9 +639,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6474,
+  "EOS_Progressed": 6477,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 482,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9654,6 +9654,11 @@
       "Time": "2023-12-29T18:06:34.1645274+00:00",
       "NumProgressed": 6474,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-29T19:05:21.7848174+00:00",
+      "NumProgressed": 6477,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9703,9 +9708,9 @@
       "ID": "14",
       "SetID": "3aa2279",
       "Name": "Full Ascension",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 324
+      "UsersEstimate": 389
     },
     {
       "ID": "15",
@@ -9737,7 +9742,7 @@
       "Name": "Arch Mage",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "19",
@@ -9777,7 +9782,7 @@
       "Name": "Realm Estate",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "23",
@@ -9841,7 +9846,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "30",
@@ -9849,7 +9854,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "31",
@@ -9857,7 +9862,7 @@
       "Name": "Magical Synergy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "32",
@@ -9905,7 +9910,7 @@
       "Name": "Against the Odds",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "38",
@@ -10017,7 +10022,7 @@
       "Name": "Here be Dragons",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "46",
@@ -10025,15 +10030,15 @@
       "Name": "Tipping the Scales",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "47",
       "SetID": "7132754",
       "Name": "Duality",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 52
     },
     {
       "ID": "48",
@@ -10049,7 +10054,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "50",
@@ -10073,7 +10078,7 @@
       "Name": "Sehiran Oasis",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "53",
@@ -10089,7 +10094,7 @@
       "Name": "Chaos Surge",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "55",
@@ -10113,7 +10118,7 @@
       "Name": "Spoils of War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "58",
@@ -10144,13 +10149,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6474,
+      "Progressed": 6477,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6474,
+      "Progressed": 6477,
       "Completed": 7
     }
   ],
@@ -10158,8 +10163,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-29T16:57:41.4982798+00:00",
-  "LastChanged_Achievements": "2023-12-29T18:06:34.1645271+00:00",
+  "LastChanged_Achievements": "2023-12-29T19:05:21.7848171+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-29T17:58:08.5304878+00:00",
-  "LastUpdate_Achievements": "2023-12-29T18:06:34.1646055+00:00"
+  "LastUpdate_Ratings": "2023-12-29T18:57:36.773124+00:00",
+  "LastUpdate_Achievements": "2023-12-29T19:05:21.7849074+00:00"
 }
