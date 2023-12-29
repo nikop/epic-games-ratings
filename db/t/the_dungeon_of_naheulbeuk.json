@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1549,18 +1549,24 @@
       "Rating": 4.59,
       "NumberOfAwards": 544,
       "NumberOfAwardsMax": 260
+    },
+    {
+      "Time": "2023-12-29T22:57:44.8134067+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 545,
+      "NumberOfAwardsMax": 261
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 544,
-  "NumberOfAwardsMax": 260,
+  "NumberOfAwards": 545,
+  "NumberOfAwardsMax": 261,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 260
+      "Count": 261
     },
     {
       "Text": "This game is Relaxing",
@@ -1617,7 +1623,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 245429,
+  "EOS_Progressed": 245438,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 1359,
   "EOS_NewCompleters": 1,
@@ -24182,6 +24188,11 @@
       "Time": "2023-12-29T22:10:05.5762987+00:00",
       "NumProgressed": 245429,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-29T23:09:53.5202594+00:00",
+      "NumProgressed": 245438,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -24241,7 +24252,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 17180
+      "UsersEstimate": 17181
     },
     {
       "ID": "Chapter2",
@@ -24249,7 +24260,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12271
+      "UsersEstimate": 12272
     },
     {
       "ID": "Chapter3",
@@ -24641,7 +24652,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 88354
+      "UsersEstimate": 88358
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -24657,7 +24668,7 @@
       "Name": "GG EZ",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12271
+      "UsersEstimate": 12272
     },
     {
       "ID": "EndCombatOneHp",
@@ -24665,7 +24676,7 @@
       "Name": "DM intervention",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12271
+      "UsersEstimate": 12272
     },
     {
       "ID": "EndGameCursed",
@@ -24689,7 +24700,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24543
+      "UsersEstimate": 24544
     },
     {
       "ID": "FollowBraztok",
@@ -24729,7 +24740,7 @@
       "Name": "We come in peace",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 1963
+      "UsersEstimate": 1964
     },
     {
       "ID": "MinistrelEpic",
@@ -24841,7 +24852,7 @@
       "Name": "Speedrun",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12271
+      "UsersEstimate": 12272
     },
     {
       "ID": "SupportCount4",
@@ -24889,28 +24900,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9817
+      "UsersEstimate": 9818
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 245429,
+      "Progressed": 245438,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 245429,
+      "Progressed": 245438,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-12-29T21:58:01.2004839+00:00",
-  "LastChanged_Achievements": "2023-12-29T22:10:05.576298+00:00",
+  "LastChanged": "2023-12-29T22:57:44.8134065+00:00",
+  "LastChanged_Achievements": "2023-12-29T23:09:53.5202592+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:14.8119134+00:00",
-  "LastUpdate_Ratings": "2023-12-29T21:58:01.2004844+00:00",
-  "LastUpdate_Achievements": "2023-12-29T22:10:05.5764697+00:00"
+  "LastUpdate_Ratings": "2023-12-29T22:57:44.8134068+00:00",
+  "LastUpdate_Achievements": "2023-12-29T23:09:53.5204061+00:00"
 }

@@ -1,33 +1,33 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.20 (Ranked 948)  
+Rating: 4.20 (Ranked 947)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 20.00% | ~3,988 |
-| The Outer Way | 20.00% | ~3,988 |
-| Desperate Times | 18.00% | ~3,589 |
-| Get a Grip | 17.00% | ~3,390 |
-| Paper Jams | 17.00% | ~3,390 |
-| Chew 'Em Up | 15.00% | ~2,991 |
+| Flesh Wound | 20.00% | ~3,989 |
+| The Outer Way | 20.00% | ~3,989 |
+| Desperate Times | 18.00% | ~3,590 |
+| Get a Grip | 17.00% | ~3,391 |
+| Paper Jams | 17.00% | ~3,391 |
+| Chew 'Em Up | 15.00% | ~2,992 |
 | Float Like A Butterfly | 14.00% | ~2,792 |
 | Reforged | 14.00% | ~2,792 |
-| Workplace Hazard | 12.00% | ~2,393 |
-| If the SHU Fits... | 12.00% | ~2,393 |
-| Without A Paddle | 10.00% | ~1,994 |
+| Workplace Hazard | 12.00% | ~2,394 |
+| If the SHU Fits... | 12.00% | ~2,394 |
+| Without A Paddle | 10.00% | ~1,995 |
 | Two Heads Are Better Than One | 9.00% | ~1,795 |
 | In the Pipe, Five by Five | 9.00% | ~1,795 |
 | Crash Site | 9.00% | ~1,795 |
-| Terminated | 8.00% | ~1,595 |
-| Full Circle | 8.00% | ~1,595 |
-| Power Up | 8.00% | ~1,595 |
+| Terminated | 8.00% | ~1,596 |
+| Full Circle | 8.00% | ~1,596 |
+| Power Up | 8.00% | ~1,596 |
 | Giving Back | 7.00% | ~1,396 |
 | You Need a Gun | 7.00% | ~1,396 |
 | What Lies Beneath | 7.00% | ~1,396 |
-| I Do Belong Here | 6.00% | ~1,196 |
+| I Do Belong Here | 6.00% | ~1,197 |
 | Keep Fighting | 6.00% | ~472 |
-| It's Time | 5.00% | ~393 |
+| It's Time | 5.00% | ~394 |
 | In Striking Distance | 4.00% | ~798 |
 | The Commonality | 4.00% | ~798 |
 | One Last Job | 3.00% | ~236 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 948)
 | Big Game Hunter | 0.10% | ~8 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,940 (Ranked 150)  
+Progressed: 19,946 (Ranked 150)  
 Completed: 82 (0.41%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 82 (0.41%) (Ranked 227)
 | 2023-12-26 | 19,464 | 82 |
 | 2023-12-27 | 19,632 | 82 |
 | 2023-12-28 | 19,780 | 82 |
-| 2023-12-29 | 19,940 | 82 |
+| 2023-12-29 | 19,946 | 82 |
 ## Awards
 Max (Amazing Characters): 106  (Ranked 366)  
 Sum: 532 (Ranked 330)  

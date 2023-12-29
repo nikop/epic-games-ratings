@@ -1,7 +1,7 @@
 # War Mongrels
 [Store](https://store.epicgames.com/en-US/p/war-mongrels)  
 [View Rawdata](../../db/w/war_mongrels.json)  
-Rating: 4.37 (Ranked 795)  
+Rating: 4.37 (Ranked 794)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -35,7 +35,7 @@ Number of Ratings: 34  (23.09.2022)
 | Food Massacre | 17.00% | ~125 |
 | Without a Second Thought | 15.00% | ~110 |
 | Collectibles of Chapter III | 14.00% | ~103 |
-| Collectibles of Chapter IV | 13.00% | ~95 |
+| Collectibles of Chapter IV | 14.00% | ~103 |
 | Tiptoe Around | 11.00% | ~81 |
 | Collectibles of Chapter V | 10.00% | ~73 |
 | Such is War! | 8.00% | ~59 |

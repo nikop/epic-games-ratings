@@ -2,7 +2,7 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 384,
+  "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 152,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 301,
+  "EOS_Progressed": 302,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
@@ -1209,6 +1209,11 @@
       "Time": "2023-12-29T22:08:21.6626422+00:00",
       "NumProgressed": 301,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T23:06:29.2433579+00:00",
+      "NumProgressed": 302,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1299,9 +1304,9 @@
       "ID": "AC_BOSS_01",
       "SetID": "16i2akc",
       "Name": "Misery",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 79
     },
     {
       "ID": "AC_BOSS_02",
@@ -1333,7 +1338,7 @@
       "Name": "Pack",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "AC_COMBO_2",
@@ -1365,7 +1370,7 @@
       "Name": "Corpse",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "AC_DEATH_2",
@@ -1387,9 +1392,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 160
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1397,7 +1402,7 @@
       "Name": "Psycopath",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -1411,9 +1416,9 @@
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 245
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -1421,7 +1426,7 @@
       "Name": "Journey",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -1429,7 +1434,7 @@
       "Name": "Voyage",
       "Percentage": 28,
       "XP": 45,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -1437,7 +1442,7 @@
       "Name": "Player",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -1525,7 +1530,7 @@
       "Name": "Loss",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -1556,14 +1561,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 301,
+      "Progressed": 302,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-29T22:08:21.6626418+00:00",
+  "LastChanged_Achievements": "2023-12-29T23:06:29.2433577+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:54.1541826+00:00",
-  "LastUpdate_Ratings": "2023-12-29T21:57:40.8143734+00:00",
-  "LastUpdate_Achievements": "2023-12-29T22:08:21.6626757+00:00"
+  "LastUpdate_Ratings": "2023-12-29T22:57:23.7532187+00:00",
+  "LastUpdate_Achievements": "2023-12-29T23:06:29.2433945+00:00"
 }

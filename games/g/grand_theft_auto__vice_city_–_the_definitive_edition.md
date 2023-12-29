@@ -5,23 +5,23 @@ Rating: 4.52 (Ranked 569)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~6,696 |
-| Greasy Palms | 42.00% | ~6,114 |
-| South American Connection | 26.00% | ~3,785 |
-| Life of the Party | 20.00% | ~2,911 |
-| Big Heat from Little Havana | 15.00% | ~2,184 |
-| Chauffeur | 15.00% | ~2,184 |
-| Tommy Two-Wheels | 15.00% | ~2,184 |
-| Salutations My Little Friend | 11.00% | ~1,601 |
+| Legal Counsel | 46.00% | ~6,699 |
+| Greasy Palms | 42.00% | ~6,117 |
+| South American Connection | 26.00% | ~3,787 |
+| Life of the Party | 20.00% | ~2,913 |
+| Big Heat from Little Havana | 15.00% | ~2,185 |
+| Chauffeur | 15.00% | ~2,185 |
+| Tommy Two-Wheels | 15.00% | ~2,185 |
+| Salutations My Little Friend | 11.00% | ~1,602 |
 | Iron-y | 10.00% | ~1,456 |
-| Gun for Hire | 9.00% | ~1,310 |
+| Gun for Hire | 9.00% | ~1,311 |
 | Mischief Managed | 8.00% | ~1,165 |
-| Vice City Mogul | 6.00% | ~873 |
-| Catch Me if You Can | 6.00% | ~873 |
-| Bloodstained Hands | 6.00% | ~873 |
+| Vice City Mogul | 6.00% | ~874 |
+| Catch Me if You Can | 6.00% | ~874 |
+| Bloodstained Hands | 6.00% | ~874 |
 | Not my First Time | 5.00% | ~728 |
 | Grand Theft Auto | 5.00% | ~728 |
-| Pie Guy | 4.00% | ~582 |
+| Pie Guy | 4.00% | ~583 |
 | Point A to Point B | 3.00% | ~437 |
 | High Quality H2O | 3.00% | ~437 |
 | Bull in a China Shop | 3.00% | ~437 |
@@ -40,7 +40,7 @@ Rating: 4.52 (Ranked 569)
 | Done it All | 0.90% | ~131 |
 | Kingpin | 0.60% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,557 (Ranked 169)  
+Progressed: 14,564 (Ranked 169)  
 Completed: 83 (0.57%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,10 +293,10 @@ Completed: 83 (0.57%) (Ranked 206)
 | 2023-12-26 | 14,192 | 76 |
 | 2023-12-27 | 14,318 | 79 |
 | 2023-12-28 | 14,428 | 82 |
-| 2023-12-29 | 14,557 | 83 |
+| 2023-12-29 | 14,564 | 83 |
 ## Awards
-Max (Great Boss Battles): 164  (Ranked 319)  
-Sum: 164 (Ranked 433)  
+Max (Great Boss Battles): 164  (Ranked 320)  
+Sum: 164 (Ranked 434)  
 Diff (max vs sum): -114  
 | Award | Count |
 | ----- | ----- |

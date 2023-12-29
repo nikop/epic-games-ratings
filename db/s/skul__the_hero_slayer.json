@@ -1313,9 +1313,9 @@
       "Count": 146
     }
   ],
-  "EOS_Progressed": 13029,
+  "EOS_Progressed": 13030,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1135,
+  "EOS_NewPlayers": 1136,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -8018,6 +8018,11 @@
       "Time": "2023-12-29T22:09:12.1349432+00:00",
       "NumProgressed": 13029,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-29T23:08:59.8479089+00:00",
+      "NumProgressed": 13030,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 24,
@@ -8053,7 +8058,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 7817
+      "UsersEstimate": 7818
     },
     {
       "ID": "DemonCastleRestoration",
@@ -8061,7 +8066,7 @@
       "Name": "Castle Restoration Plans",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "DwarfChandelier",
@@ -8093,7 +8098,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 3257
+      "UsersEstimate": 3258
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -8125,7 +8130,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 3778
+      "UsersEstimate": 3779
     },
     {
       "ID": "LeoniasFall_2",
@@ -8189,7 +8194,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 12117
+      "UsersEstimate": 12118
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -8213,22 +8218,22 @@
       "Name": "What should I buy?",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10553
+      "UsersEstimate": 10554
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 13029,
+      "Progressed": 13030,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-12-29T13:57:51.1173754+00:00",
-  "LastChanged_Achievements": "2023-12-29T22:09:12.1349429+00:00",
+  "LastChanged_Achievements": "2023-12-29T23:08:59.8479087+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:50.2570234+00:00",
-  "LastUpdate_Ratings": "2023-12-29T21:58:13.9589057+00:00",
-  "LastUpdate_Achievements": "2023-12-29T22:09:12.1349965+00:00"
+  "LastUpdate_Ratings": "2023-12-29T22:57:57.4195459+00:00",
+  "LastUpdate_Achievements": "2023-12-29T23:08:59.8479418+00:00"
 }

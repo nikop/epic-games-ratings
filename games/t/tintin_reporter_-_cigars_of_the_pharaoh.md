@@ -18,15 +18,15 @@
 | Save a Friend | 9.00% | ~10 |
 | Mysterious Bungalow | 8.00% | ~9 |
 | Mummy Nightmare | 8.00% | ~9 |
-| The Eyes! | 6.00% | ~6 |
+| The Eyes! | 7.00% | ~8 |
+| Punctual | 7.00% | ~8 |
 | Keep the Doctor Away | 6.00% | ~6 |
 | Just a Palm Tree | 6.00% | ~6 |
 | Under the Hood | 6.00% | ~6 |
 | Long Live Gaipajama! | 6.00% | ~6 |
-| Punctual | 6.00% | ~6 |
+| Eyes Shut | 6.00% | ~6 |
 | Barking Dog | 6.00% | ~6 |
 | Tintin, Reporter | 5.00% | ~5 |
-| Eyes Shut | 5.00% | ~5 |
 | Mountain Runner | 4.00% | ~4 |
 | The Corporal's Golden Boy | 3.00% | ~3 |
 | A Yummy Detour | 3.00% | ~3 |
@@ -35,8 +35,8 @@
 | A Diagnosis | 2.00% | ~2 |
 | Jungle Runner | 2.00% | ~2 |
 | The Pharaoh's New Clothes | 2.00% | ~2 |
+| Guilt | 2.00% | ~2 |
 | Broken Brotherhood | 0.90% | ~1 |
-| Guilt | 0.90% | ~1 |
 | Cookie Accomplished | 0.00% | ~0 |
 | Flying Ace | 0.00% | ~0 |
 | Trials of Kih-Oskh | 0.00% | ~0 |

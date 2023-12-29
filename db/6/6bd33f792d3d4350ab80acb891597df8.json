@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 477,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -608,9 +608,9 @@
       "ID": "CgkIxYDzrbcPEAIQBg",
       "SetID": "4egpam7",
       "Name": "Uninvited Guests",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBw",
@@ -664,9 +664,9 @@
       "ID": "CgkIxYDzrbcPEAIQDQ",
       "SetID": "4egpam7",
       "Name": "Control Pests",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDg",
@@ -815,8 +815,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-12-29T22:05:16.5069049+00:00",
+  "LastChanged_Achievements": "2023-12-29T23:05:04.4244648+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:26.2622847+00:00",
-  "LastUpdate_Ratings": "2023-12-29T22:02:58.6364894+00:00",
-  "LastUpdate_Achievements": "2023-12-29T22:05:16.5069224+00:00"
+  "LastUpdate_Ratings": "2023-12-29T23:02:45.5660981+00:00",
+  "LastUpdate_Achievements": "2023-12-29T23:05:04.4244797+00:00"
 }

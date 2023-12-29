@@ -3,7 +3,7 @@
   "Name": "The Alto Collection",
   "ProductSlug": "the-alto-collection",
   "Ranking_Rating": 217,
-  "Ranking_Popularity": 450,
+  "Ranking_Popularity": 449,
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 367,
@@ -940,9 +940,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 52530,
+  "EOS_Progressed": 52536,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1172,
+  "EOS_NewPlayers": 1170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29750,6 +29750,11 @@
       "Time": "2023-12-29T22:04:43.854623+00:00",
       "NumProgressed": 52530,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-29T23:04:32.0321619+00:00",
+      "NumProgressed": 52536,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -29785,7 +29790,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5778
+      "UsersEstimate": 5779
     },
     {
       "ID": "distance500000",
@@ -29801,7 +29806,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 14183
+      "UsersEstimate": 14185
     },
     {
       "ID": "goals180",
@@ -29817,7 +29822,7 @@
       "Name": "Amateur",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5253
+      "UsersEstimate": 5254
     },
     {
       "ID": "goals75",
@@ -29873,7 +29878,7 @@
       "Name": "My Little Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2626
+      "UsersEstimate": 2627
     },
     {
       "ID": "nomad",
@@ -29881,7 +29886,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 8930
+      "UsersEstimate": 8931
     },
     {
       "ID": "novice",
@@ -29913,7 +29918,7 @@
       "Name": "Unlock Maya",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4202
+      "UsersEstimate": 4203
     },
     {
       "ID": "playerPaz",
@@ -29953,7 +29958,7 @@
       "Name": "One With The Board",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2626
+      "UsersEstimate": 2627
     },
     {
       "ID": "proximityFly1000",
@@ -29969,7 +29974,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13132
+      "UsersEstimate": 13134
     },
     {
       "ID": "sandboarder",
@@ -29985,7 +29990,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5778
+      "UsersEstimate": 5779
     },
     {
       "ID": "ultimate",
@@ -30025,7 +30030,7 @@
       "Name": "Welcome Maya",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7354
+      "UsersEstimate": 7355
     },
     {
       "ID": "unlockpaz",
@@ -30033,7 +30038,7 @@
       "Name": "Enter Paz",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3677
+      "UsersEstimate": 3678
     },
     {
       "ID": "vandal",
@@ -30047,9 +30052,9 @@
       "ID": "voyager",
       "SetID": "2lgngib",
       "Name": "Voyager",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2626
+      "UsersEstimate": 2101
     },
     {
       "ID": "wanderer",
@@ -30057,7 +30062,7 @@
       "Name": "Wanderer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4202
+      "UsersEstimate": 4203
     },
     {
       "ID": "windswept",
@@ -30072,15 +30077,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 52530,
+      "Progressed": 52536,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-12-28T19:03:02.718582+00:00",
-  "LastChanged_Achievements": "2023-12-29T22:04:43.8546228+00:00",
+  "LastChanged_Achievements": "2023-12-29T23:04:32.0321618+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:50.851246+00:00",
-  "LastUpdate_Ratings": "2023-12-29T21:57:35.3372425+00:00",
-  "LastUpdate_Achievements": "2023-12-29T22:04:43.8547436+00:00"
+  "LastUpdate_Ratings": "2023-12-29T22:57:18.5309994+00:00",
+  "LastUpdate_Achievements": "2023-12-29T23:04:32.0322896+00:00"
 }

@@ -12,18 +12,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 0.70% | ~112 |
 | Architect | 0.60% | ~96 |
 | Intrepid | 0.60% | ~96 |
+| Mason | 0.60% | ~96 |
+| Strong | 0.60% | ~96 |
 | Hanging Gardens | 0.60% | ~96 |
+| Oracle | 0.60% | ~96 |
 | Able | 0.50% | ~80 |
 | Glorious | 0.50% | ~80 |
 | Good | 0.50% | ~80 |
 | Just | 0.50% | ~80 |
 | Keystone | 0.50% | ~80 |
 | Learned | 0.50% | ~80 |
-| Mason | 0.50% | ~80 |
 | Noble | 0.50% | ~80 |
 | Pioneer | 0.50% | ~80 |
-| Strong | 0.50% | ~80 |
-| Oracle | 0.50% | ~80 |
 | Judaism | 0.50% | ~80 |
 | Greek Paganism | 0.50% | ~80 |
 | Trade Caravan | 0.50% | ~80 |
@@ -36,7 +36,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 0.40% | ~64 |
 | Developing Cities | 0.40% | ~64 |
 | Strong Cities | 0.40% | ~64 |
+| Apadana | 0.40% | ~64 |
 | Ishtar Gate | 0.40% | ~64 |
+| Lighthouse | 0.40% | ~64 |
 | Pyramids | 0.40% | ~64 |
 | Learn to Play 1 | 0.40% | ~64 |
 | Christianity | 0.40% | ~64 |
@@ -52,9 +54,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 0.30% | ~48 |
 | Furious Family | 0.30% | ~48 |
 | Acropolis | 0.30% | ~48 |
-| Apadana | 0.30% | ~48 |
+| Colossus | 0.30% | ~48 |
 | Great Ziggurat | 0.30% | ~48 |
-| Lighthouse | 0.30% | ~48 |
 | Mausoleum | 0.30% | ~48 |
 | Musaeum | 0.30% | ~48 |
 | Necropolis | 0.30% | ~48 |
@@ -80,7 +81,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 0.20% | ~32 |
 | Hittite Iron | 0.20% | ~32 |
 | Circus Maximus | 0.20% | ~32 |
-| Colossus | 0.20% | ~32 |
 | Temple of Solomon | 0.20% | ~32 |
 | Pantheon | 0.20% | ~32 |
 | Learn to Play 3 | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,009 (Ranked 165)  
+Progressed: 16,011 (Ranked 165)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -618,7 +618,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-26 | 15,966 | 5 |
 | 2023-12-27 | 15,978 | 5 |
 | 2023-12-28 | 15,997 | 5 |
-| 2023-12-29 | 16,009 | 5 |
+| 2023-12-29 | 16,011 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 284)  
 Sum: 1,912 (Ranked 220)  

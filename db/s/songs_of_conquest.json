@@ -3,9 +3,9 @@
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 231,
-  "Ranking_Popularity": 520,
+  "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 397,
-  "Ranking_EOS_Progress": 298,
+  "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 152,
@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 846,
+  "EOS_Progressed": 850,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3085,6 +3085,11 @@
       "Time": "2023-12-29T22:09:04.7997555+00:00",
       "NumProgressed": 846,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T23:08:52.6036674+00:00",
+      "NumProgressed": 850,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3121,7 +3126,7 @@
       "Name": "Dressed For Success",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "AttackCount",
@@ -3241,7 +3246,7 @@
       "Name": "Double Kill",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 332
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3255,9 +3260,9 @@
       "ID": "FrontlineFighterCount",
       "SetID": "71c0n9i",
       "Name": "In The Thick of It",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "FullHouse",
@@ -3377,7 +3382,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -3425,7 +3430,7 @@
       "Name": "Adept",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "WielderLevel2",
@@ -3441,7 +3446,7 @@
       "Name": "Master",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "WielderLevel4",
@@ -3473,7 +3478,7 @@
       "Name": "Expert Essence Employment",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "WinSiegeAsAttacker",
@@ -3489,7 +3494,7 @@
       "Name": "Venisti, Vidisti, Perdidisti",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "WinsWithFactionArleon",
@@ -3528,15 +3533,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 846,
+      "Progressed": 850,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2023-12-29T22:09:04.7997552+00:00",
+  "LastChanged_Achievements": "2023-12-29T23:08:52.6036673+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.1217697+00:00",
-  "LastUpdate_Ratings": "2023-12-29T21:59:09.0817508+00:00",
-  "LastUpdate_Achievements": "2023-12-29T22:09:04.7998059+00:00"
+  "LastUpdate_Ratings": "2023-12-29T22:58:53.4424508+00:00",
+  "LastUpdate_Achievements": "2023-12-29T23:08:52.6037067+00:00"
 }

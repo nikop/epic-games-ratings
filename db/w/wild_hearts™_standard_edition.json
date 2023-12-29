@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 994,
+  "EOS_Progressed": 995,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -3308,6 +3308,11 @@
       "Time": "2023-12-29T22:09:25.1157406+00:00",
       "NumProgressed": 994,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-29T23:09:12.9136005+00:00",
+      "NumProgressed": 995,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -3320,7 +3325,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "achievement_10",
@@ -3352,7 +3357,7 @@
       "Name": "Karakuri Fortress",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "achievement_14",
@@ -3360,7 +3365,7 @@
       "Name": "Fusion Conjuror",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "achievement_15",
@@ -3368,7 +3373,7 @@
       "Name": "Memory Rouser",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_16",
@@ -3392,7 +3397,7 @@
       "Name": "Man-Machine Master",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "achievement_19",
@@ -3408,7 +3413,7 @@
       "Name": "Mountain Splitter",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "achievement_20",
@@ -3416,7 +3421,7 @@
       "Name": "Subsistence Skills",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "achievement_21",
@@ -3456,7 +3461,7 @@
       "Name": "Volatile Vocation",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "achievement_26",
@@ -3472,15 +3477,15 @@
       "Name": "Mighty Marmelizer",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "achievement_28",
       "SetID": "2cpn27e",
       "Name": "Flawless Crystal",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 368
+      "UsersEstimate": 358
     },
     {
       "ID": "achievement_29",
@@ -3488,7 +3493,7 @@
       "Name": "Fair Means or Foul",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "achievement_3",
@@ -3504,7 +3509,7 @@
       "Name": "Tender Touch",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "achievement_31",
@@ -3536,7 +3541,7 @@
       "Name": "Kemono at Heart",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "achievement_35",
@@ -3584,7 +3589,7 @@
       "Name": "Axer of Auspice",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "achievement_40",
@@ -3640,7 +3645,7 @@
       "Name": "Charmed by the Hunt",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "achievement_47",
@@ -3656,7 +3661,7 @@
       "Name": "Haven Hunter",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "achievement_5",
@@ -3672,7 +3677,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "achievement_7",
@@ -3680,7 +3685,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "achievement_8",
@@ -3703,13 +3708,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 994,
+      "Progressed": 995,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-29T22:09:25.1157402+00:00",
+  "LastChanged_Achievements": "2023-12-29T23:09:12.9136003+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:00.2404368+00:00",
-  "LastUpdate_Ratings": "2023-12-29T21:58:10.4286408+00:00",
-  "LastUpdate_Achievements": "2023-12-29T22:09:25.1157924+00:00"
+  "LastUpdate_Ratings": "2023-12-29T22:57:53.9546161+00:00",
+  "LastUpdate_Achievements": "2023-12-29T23:09:12.9136489+00:00"
 }

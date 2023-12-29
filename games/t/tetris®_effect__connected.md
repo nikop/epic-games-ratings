@@ -4,9 +4,9 @@
 Rating: 4.86 (Ranked 30)  
 Number of Ratings: 272  (23.09.2022)  
 ## Awards
-Max (Great for Quick Sessions): 51  (Ranked 447)  
+Max (Great for Quick Sessions): 51  (Ranked 446)  
 Sum: 414 (Ranked 345)  
-Diff (max vs sum): 102  
+Diff (max vs sum): 101  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 166 |

@@ -7,33 +7,33 @@ Number of Ratings: 743  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shoot it, man! Shoot it in the head! | 69.00% | ~30,541 |
-| Say goodbye, creep! | 66.00% | ~29,213 |
-| Blood splattered | 66.00% | ~29,213 |
-| Choo choo! | 63.00% | ~27,885 |
-| Groovy | 62.00% | ~27,442 |
-| Cleanup on aisle 4! | 57.00% | ~25,229 |
+| Say goodbye, creep! | 66.00% | ~29,214 |
+| Blood splattered | 66.00% | ~29,214 |
+| Choo choo! | 63.00% | ~27,886 |
+| Groovy | 62.00% | ~27,443 |
+| Cleanup on aisle 4! | 57.00% | ~25,230 |
 | Gold | 51.00% | ~22,574 |
-| The boat can leave now...tell the crew | 49.00% | ~21,688 |
-| Give me something to shoot! | 47.00% | ~20,803 |
-| Stand back boy! | 47.00% | ~20,803 |
+| The boat can leave now...tell the crew | 49.00% | ~21,689 |
+| Give me something to shoot! | 47.00% | ~20,804 |
+| Stand back boy! | 47.00% | ~20,804 |
 | Chain reaction | 45.00% | ~19,918 |
-| Weird science | 44.00% | ~19,475 |
-| Look mummy! A shark! | 42.00% | ~18,590 |
+| Weird science | 44.00% | ~19,476 |
 | What did you say, Blain? | 42.00% | ~18,590 |
-| In the dark dark woods... | 39.00% | ~17,262 |
+| Look mummy! A shark! | 41.00% | ~18,148 |
+| In the dark dark woods... | 39.00% | ~17,263 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,820 |
 | Double tap | 37.00% | ~16,377 |
 | Cranial blowout! | 37.00% | ~16,377 |
-| All of this has happened before… | 36.00% | ~15,934 |
-| Zombie killin' machine | 36.00% | ~15,934 |
-| Every bullet counts | 36.00% | ~15,934 |
+| All of this has happened before… | 36.00% | ~15,935 |
+| Zombie killin' machine | 36.00% | ~15,935 |
+| Every bullet counts | 36.00% | ~15,935 |
 | All roads lead to Rome | 34.00% | ~15,049 |
 | You've got red on you | 34.00% | ~15,049 |
 | You're all going to die down here | 32.00% | ~14,164 |
 | He did Nazi that coming | 32.00% | ~14,164 |
-| Kill of the week | 31.00% | ~13,721 |
-| I never liked them anyway | 31.00% | ~13,721 |
-| Is it over? | 28.00% | ~12,393 |
+| Kill of the week | 31.00% | ~13,722 |
+| I never liked them anyway | 31.00% | ~13,722 |
+| Is it over? | 28.00% | ~12,394 |
 | Got your back | 27.00% | ~11,951 |
 | Gore soaked | 24.00% | ~10,623 |
 | Shock therapy | 23.00% | ~10,180 |
@@ -45,7 +45,7 @@ Number of Ratings: 743  (23.09.2022)
 | The bigger they are... | 15.00% | ~6,639 |
 | I'm going deeper underground | 14.00% | ~6,197 |
 | Well equipped | 13.00% | ~5,754 |
-| Into the deep | 12.00% | ~5,311 |
+| Into the deep | 12.00% | ~5,312 |
 | Damnedbusters | 9.00% | ~3,984 |
 | Plane sailing | 8.00% | ~3,541 |
 | I can do anything I want. I got guns | 8.00% | ~3,541 |
@@ -63,9 +63,9 @@ Number of Ratings: 743  (23.09.2022)
 | Hoarder | 6.00% | ~2,656 |
 | Kali Ma | 5.00% | ~2,213 |
 | Have you tried turning it off and on again? | 5.00% | ~2,213 |
-| They're coming to get you Barbara | 4.00% | ~1,770 |
-| Total protonic reversal | 4.00% | ~1,770 |
-| A friend in need | 4.00% | ~1,770 |
+| They're coming to get you Barbara | 4.00% | ~1,771 |
+| Total protonic reversal | 4.00% | ~1,771 |
+| A friend in need | 4.00% | ~1,771 |
 | People don't change. We go round in circles | 3.00% | ~1,328 |
 | The blighters got through a second time. | 3.00% | ~1,328 |
 | I'm a survivor! | 3.00% | ~1,328 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~443 |
 | None more hard | 0.60% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,262 (Ranked 126)  
+Progressed: 44,263 (Ranked 126)  
 Completed: 25 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 25 (0.06%) (Ranked 327)
 | 2023-12-26 | 44,234 | 25 |
 | 2023-12-27 | 44,241 | 25 |
 | 2023-12-28 | 44,250 | 25 |
-| 2023-12-29 | 44,262 | 25 |
+| 2023-12-29 | 44,263 | 25 |
 ## Awards
 Max (Great Boss Battles): 864  (Ranked 171)  
 Sum: 2,609 (Ranked 197)  

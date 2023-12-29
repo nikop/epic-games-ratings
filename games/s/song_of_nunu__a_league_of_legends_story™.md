@@ -18,7 +18,7 @@ Rating: 4.52 (Ranked 569)
 | No Bites | 55.00% | ~761 |
 | Iceborn | 55.00% | ~761 |
 | Boom Things | 53.00% | ~734 |
-| Tear of Freedom | 51.00% | ~706 |
+| Tear of Freedom | 52.00% | ~720 |
 | My Darkest Day | 48.00% | ~664 |
 | Rhythm Of Willump | 46.00% | ~637 |
 | The Relentless Storm | 46.00% | ~637 |

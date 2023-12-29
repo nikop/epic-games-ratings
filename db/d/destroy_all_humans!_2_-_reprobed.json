@@ -3,11 +3,11 @@
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
   "Ranking_Rating": 542,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 523,
+  "Ranking_Popularity": 489,
+  "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -282,9 +282,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 245,
+  "EOS_Progressed": 246,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -1227,6 +1227,11 @@
       "Time": "2023-12-29T22:09:09.2322511+00:00",
       "NumProgressed": 245,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-29T23:08:56.962868+00:00",
+      "NumProgressed": 246,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1239,7 +1244,7 @@
       "Name": "Mash Machine",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1253,9 +1258,9 @@
       "ID": "ACH_ANAL_PROBE_TRIPPLE_CRIT",
       "SetID": "4n84pon",
       "Name": "Perfect Probulator",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -1367,15 +1372,15 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
       "SetID": "4n84pon",
       "Name": "Rock of the Bay",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 194
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1405,9 +1410,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1583,14 +1588,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 245,
+      "Progressed": 246,
       "Completed": 1
     }
   ],
@@ -1598,8 +1603,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-28T10:58:39.1665152+00:00",
-  "LastChanged_Achievements": "2023-12-29T22:09:09.2322507+00:00",
+  "LastChanged_Achievements": "2023-12-29T23:08:56.9628678+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-29T21:59:33.5601766+00:00",
-  "LastUpdate_Achievements": "2023-12-29T22:09:09.2323192+00:00"
+  "LastUpdate_Ratings": "2023-12-29T22:59:17.9737067+00:00",
+  "LastUpdate_Achievements": "2023-12-29T23:08:56.9628988+00:00"
 }

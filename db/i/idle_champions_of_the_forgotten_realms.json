@@ -9131,10 +9131,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33180,
       "NumberOfAwardsMax": 5715
+    },
+    {
+      "Time": "2023-12-29T22:59:27.6538151+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33183,
+      "NumberOfAwardsMax": 5715
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33180,
+  "NumberOfAwards": 33183,
   "NumberOfAwardsMax": 5715,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9148,7 +9154,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5657
+      "Count": 5660
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9181,10 +9187,10 @@
       "Count": 3609
     }
   ],
-  "EOS_Progressed": 247078,
+  "EOS_Progressed": 247120,
   "EOS_Completed": 2575,
-  "EOS_NewPlayers": 3642,
-  "EOS_NewCompleters": 20,
+  "EOS_NewPlayers": 3663,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -37846,6 +37852,11 @@
       "Time": "2023-12-29T22:10:14.9361439+00:00",
       "NumProgressed": 247078,
       "NumCompleted": 2575
+    },
+    {
+      "Time": "2023-12-29T23:10:02.7904301+00:00",
+      "NumProgressed": 247120,
+      "NumCompleted": 2575
     }
   ],
   "TotalAchievements": 546,
@@ -39047,9 +39058,9 @@
       "ID": "objective_completed_164",
       "SetID": "cc37lbc",
       "Name": "A Mysterious Summons",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 494
     },
     {
       "ID": "objective_completed_165",
@@ -41001,7 +41012,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1482
+      "UsersEstimate": 1483
     },
     {
       "ID": "objective_completed_70",
@@ -41599,9 +41610,9 @@
       "ID": "objective_completed_9",
       "SetID": "cc37lbc",
       "Name": "Pure Energy",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 494
+      "UsersEstimate": 741
     },
     {
       "ID": "objective_completed_902",
@@ -42145,7 +42156,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "objective_completed_1558",
@@ -42177,7 +42188,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "objective_completed_673",
@@ -42185,7 +42196,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "objective_completed_678",
@@ -42193,7 +42204,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "objective_completed_683",
@@ -42201,7 +42212,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "objective_completed_860",
@@ -42209,7 +42220,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "objective_completed_865",
@@ -42224,21 +42235,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 213352,
-      "Completed": 4092
+      "Progressed": 213394,
+      "Completed": 4093
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 247078,
+      "Progressed": 247120,
       "Completed": 2575
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-29T20:59:26.9512563+00:00",
-  "LastChanged_Achievements": "2023-12-29T22:10:14.9361435+00:00",
+  "LastChanged": "2023-12-29T22:59:27.6538149+00:00",
+  "LastChanged_Achievements": "2023-12-29T23:10:02.7904299+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-29T21:59:42.8458525+00:00",
-  "LastUpdate_Achievements": "2023-12-29T22:10:14.9387476+00:00"
+  "LastUpdate_Ratings": "2023-12-29T22:59:27.6538155+00:00",
+  "LastUpdate_Achievements": "2023-12-29T23:10:02.7926962+00:00"
 }

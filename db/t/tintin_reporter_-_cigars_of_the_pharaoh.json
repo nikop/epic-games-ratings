@@ -551,9 +551,9 @@
       "ID": "Achievement13",
       "SetID": "9fa3l5n",
       "Name": "The Eyes!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "Achievement14",
@@ -623,9 +623,9 @@
       "ID": "Achievement21",
       "SetID": "9fa3l5n",
       "Name": "Eyes Shut",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Achievement22",
@@ -639,9 +639,9 @@
       "ID": "Achievement23",
       "SetID": "9fa3l5n",
       "Name": "Punctual",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "Achievement24",
@@ -751,9 +751,9 @@
       "ID": "Achievement36",
       "SetID": "9fa3l5n",
       "Name": "Guilt",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Achievement37",
@@ -822,8 +822,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-12-29T22:04:08.8639792+00:00",
+  "LastChanged_Achievements": "2023-12-29T23:03:56.6435412+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:52.0474774+00:00",
-  "LastUpdate_Ratings": "2023-12-29T21:58:38.7575096+00:00",
-  "LastUpdate_Achievements": "2023-12-29T22:04:08.864005+00:00"
+  "LastUpdate_Ratings": "2023-12-29T22:58:22.2451581+00:00",
+  "LastUpdate_Achievements": "2023-12-29T23:03:56.6435651+00:00"
 }

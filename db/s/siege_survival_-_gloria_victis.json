@@ -3,11 +3,11 @@
   "Name": "Siege Survival - Gloria Victis",
   "ProductSlug": "siege-survival-gloria-victis",
   "Ranking_Rating": 1032,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 572,
+  "Ranking_EOS_NewPlayers": 569,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-05-18T11:00:00+00:00",
@@ -63,6 +63,6 @@
   "FirstSeenRating": "2023-03-25T19:58:23.4994247+00:00",
   "LastChanged": "2023-07-11T10:59:44.0216567+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:31.7023122+00:00",
-  "LastUpdate_Ratings": "2023-12-29T21:59:46.9700843+00:00",
-  "LastUpdate_Achievements": "2023-12-29T22:03:57.563735+00:00"
+  "LastUpdate_Ratings": "2023-12-29T22:59:31.9317921+00:00",
+  "LastUpdate_Achievements": "2023-12-29T23:03:45.8896798+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Potion Permit",
   "ProductSlug": "potion-permit",
   "Ranking_Rating": 1059,
-  "Ranking_Popularity": 416,
-  "Ranking_PopularitySum": 487,
+  "Ranking_Popularity": 415,
+  "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -3172,9 +3172,9 @@
       "ID": "ACHIEVEMENTS_03",
       "SetID": "d4o538a",
       "Name": "Good Samaritan",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 183
+      "UsersEstimate": 201
     },
     {
       "ID": "ACHIEVEMENTS_04",
@@ -3469,8 +3469,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-28T09:03:17.5303608+00:00",
-  "LastChanged_Achievements": "2023-12-29T22:04:03.1104163+00:00",
+  "LastChanged_Achievements": "2023-12-29T23:03:51.400672+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:45.5140216+00:00",
-  "LastUpdate_Ratings": "2023-12-29T22:02:57.1656289+00:00",
-  "LastUpdate_Achievements": "2023-12-29T22:04:03.1104461+00:00"
+  "LastUpdate_Ratings": "2023-12-29T23:02:44.2043451+00:00",
+  "LastUpdate_Achievements": "2023-12-29T23:03:51.4007012+00:00"
 }

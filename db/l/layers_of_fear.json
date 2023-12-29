@@ -2,7 +2,7 @@
   "ID": "9df61912ce644d8096412ba0f516759a",
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fears-85a02b",
-  "Ranking_EOS_Progress": 414,
+  "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 152,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 226,
+  "EOS_Progressed": 227,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
@@ -1029,6 +1029,11 @@
       "Time": "2023-12-29T21:08:12.4700335+00:00",
       "NumProgressed": 226,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T23:08:23.0122357+00:00",
+      "NumProgressed": 227,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1153,7 +1158,7 @@
       "Name": "Do what you have to",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "earn_all_trophies",
@@ -1215,9 +1220,9 @@
       "ID": "find_one_rat_sketch",
       "SetID": "f2im8d",
       "Name": "The artist\u2019s impression",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 100
     },
     {
       "ID": "finished_it",
@@ -1247,9 +1252,9 @@
       "ID": "hear_one_interview",
       "SetID": "f2im8d",
       "Name": "Sound Bite",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "heavy_burden",
@@ -1311,9 +1316,9 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 134
     },
     {
       "ID": "playtime",
@@ -1369,7 +1374,7 @@
       "Name": "Sign of weakness",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "something_important",
@@ -1377,7 +1382,7 @@
       "Name": "Something important",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "spy_one_item",
@@ -1399,9 +1404,9 @@
       "ID": "the_art_of_movement",
       "SetID": "f2im8d",
       "Name": "The art of movement",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "the_tragedy_unfolds",
@@ -1441,29 +1446,29 @@
       "Name": "Wanderer",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "whispers_long_forgotten",
       "SetID": "f2im8d",
       "Name": "Whispers long forgotten",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     }
   ],
   "AchievementSets": [
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 226,
+      "Progressed": 227,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-29T22:08:35.4719481+00:00",
+  "LastChanged_Achievements": "2023-12-29T23:08:23.0122355+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:25.6985759+00:00",
-  "LastUpdate_Ratings": "2023-12-29T21:59:43.9335027+00:00",
-  "LastUpdate_Achievements": "2023-12-29T22:08:35.4719843+00:00"
+  "LastUpdate_Ratings": "2023-12-29T22:59:28.8034431+00:00",
+  "LastUpdate_Achievements": "2023-12-29T23:08:23.0122761+00:00"
 }

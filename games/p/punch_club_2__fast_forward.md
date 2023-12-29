@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 88.00% | ~436 |
+| Such a strange dream… | 88.00% | ~437 |
 | Your first fight | 85.00% | ~422 |
 | Good Person Chip | 84.00% | ~417 |
-| First winning | 82.00% | ~407 |
-| Your first job | 81.00% | ~402 |
-| Depressed visitor | 76.00% | ~377 |
-| Old movies enjoyer | 75.00% | ~372 |
-| Fitness professional | 74.00% | ~367 |
-| Neurotrainer – power gainer! | 74.00% | ~367 |
-| Employee of the week | 73.00% | ~362 |
-| Your own amateur gym | 68.00% | ~337 |
-| First defeat | 67.00% | ~332 |
-| Run K, run! | 67.00% | ~332 |
-| Hello, world! | 66.00% | ~327 |
-| No bullying more | 65.00% | ~322 |
-| Fighting is cool | 64.00% | ~317 |
+| First winning | 82.00% | ~408 |
+| Your first job | 81.00% | ~403 |
+| Depressed visitor | 76.00% | ~378 |
+| Fitness professional | 74.00% | ~368 |
+| Old movies enjoyer | 74.00% | ~368 |
+| Neurotrainer – power gainer! | 74.00% | ~368 |
+| Employee of the week | 73.00% | ~363 |
+| Your own amateur gym | 68.00% | ~338 |
+| First defeat | 67.00% | ~333 |
+| Run K, run! | 67.00% | ~333 |
+| Hello, world! | 66.00% | ~328 |
+| No bullying more | 65.00% | ~323 |
+| Fighting is cool | 64.00% | ~318 |
 | Pal of your father? | 62.00% | ~308 |
 | Spirit of the past | 60.00% | ~298 |
 | Employee of the month | 59.00% | ~293 |
@@ -33,15 +33,15 @@
 | Own four walls | 53.00% | ~263 |
 | Intriguing candies | 53.00% | ~263 |
 | Employee of the year | 52.00% | ~258 |
-| Legal courier | 49.00% | ~243 |
-| Extreme neuropower! | 49.00% | ~243 |
-| Escaped from a big trouble | 47.00% | ~233 |
-| Now you are worthy | 42.00% | ~208 |
-| Fight is life | 42.00% | ~208 |
-| Guiding on the right path | 42.00% | ~208 |
-| Mysterious voice | 41.00% | ~203 |
-| No blades in the gym | 39.00% | ~193 |
-| Champion – no way back | 38.00% | ~188 |
+| Legal courier | 49.00% | ~244 |
+| Extreme neuropower! | 48.00% | ~239 |
+| Escaped from a big trouble | 46.00% | ~229 |
+| Now you are worthy | 42.00% | ~209 |
+| Fight is life | 41.00% | ~204 |
+| Mysterious voice | 41.00% | ~204 |
+| Guiding on the right path | 41.00% | ~204 |
+| No blades in the gym | 39.00% | ~194 |
+| Champion – no way back | 37.00% | ~184 |
 | Responsible approach | 37.00% | ~184 |
 | GYM professional | 36.00% | ~179 |
 | Underground dwellers | 36.00% | ~179 |
@@ -71,7 +71,7 @@
 | The only right decision | 26.00% | ~129 |
 | Silver’s past | 25.00% | ~124 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 496 (Ranked 344)  
+Progressed: 497 (Ranked 343)  
 Completed: 9 (1.81%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,4 +179,4 @@ Completed: 9 (1.81%) (Ranked 140)
 | 2023-12-26 | 476 | 9 |
 | 2023-12-27 | 486 | 9 |
 | 2023-12-28 | 492 | 9 |
-| 2023-12-29 | 496 | 9 |
+| 2023-12-29 | 497 | 9 |

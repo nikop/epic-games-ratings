@@ -3,11 +3,11 @@
   "Name": "The Uncertain: Last Quiet Day",
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_Rating": 1074,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
-  "Ranking_EOS_Progress": 326,
-  "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 372,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
+  "Ranking_EOS_Progress": 325,
+  "Ranking_EOS_Completed": 106,
+  "Ranking_EOS_NewPlayers": 368,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -39,11 +39,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 619,
+  "EOS_Progressed": 620,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.07,
+  "EOS_Completed_Percentage": 3.06,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:50.241177+00:00",
@@ -1024,6 +1024,11 @@
       "Time": "2023-12-29T15:10:36.4434182+00:00",
       "NumProgressed": 619,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-29T23:09:49.9873695+00:00",
+      "NumProgressed": 620,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 32,
@@ -1059,7 +1064,7 @@
       "Name": "Buckle up",
       "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -1131,7 +1136,7 @@
       "Name": "Trick or Treat?",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "HE_IS_JUST_A_CHILD",
@@ -1145,9 +1150,9 @@
       "ID": "HIPSTER",
       "SetID": "2iigf77",
       "Name": "Hipster",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 93
     },
     {
       "ID": "I_CAN_DO_A_THING_OR_TWO",
@@ -1155,7 +1160,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "LUCKY_DOG",
@@ -1179,7 +1184,7 @@
       "Name": "Not as clumsy or random",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "NOT_WHAT_IT_SEEMS",
@@ -1193,9 +1198,9 @@
       "ID": "NOW_YOU_KNOW",
       "SetID": "2iigf77",
       "Name": "Now you know",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 328
+      "UsersEstimate": 322
     },
     {
       "ID": "PERFECT_HEARING",
@@ -1227,7 +1232,7 @@
       "Name": "Quick charge",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "SHORT_CIRCUIT",
@@ -1275,7 +1280,7 @@
       "Name": "Uncertain",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "WALKING_ROBOT",
@@ -1290,7 +1295,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 619,
+      "Progressed": 620,
       "Completed": 19
     }
   ],
@@ -1298,8 +1303,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2023-12-29T22:10:02.1180534+00:00",
+  "LastChanged_Achievements": "2023-12-29T23:09:49.9873693+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:27.9005622+00:00",
-  "LastUpdate_Ratings": "2023-12-29T22:02:37.2617712+00:00",
-  "LastUpdate_Achievements": "2023-12-29T22:10:02.1180817+00:00"
+  "LastUpdate_Ratings": "2023-12-29T23:00:11.5353158+00:00",
+  "LastUpdate_Achievements": "2023-12-29T23:09:49.987387+00:00"
 }

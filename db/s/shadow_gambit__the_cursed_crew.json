@@ -3,11 +3,11 @@
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_Rating": 101,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1342,
+  "EOS_Progressed": 1343,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.61,
   "EosHistory": [
@@ -4634,6 +4634,11 @@
       "Time": "2023-12-29T22:04:36.5192583+00:00",
       "NumProgressed": 1342,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-29T23:04:24.3847833+00:00",
+      "NumProgressed": 1343,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4646,7 +4651,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -4662,7 +4667,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4670,7 +4675,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "_05_FinishAct2",
@@ -4718,7 +4723,7 @@
       "Name": "Buccaneer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "_11_Completion_40",
@@ -4798,15 +4803,15 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "_21_CrewTale_OVT",
       "SetID": "8a1io5d",
       "Name": "Tobacco Travesty",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 134
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -4853,7 +4858,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1342,
+      "Progressed": 1343,
       "Completed": 35
     }
   ],
@@ -4861,8 +4866,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2023-12-29T22:04:36.519258+00:00",
+  "LastChanged_Achievements": "2023-12-29T23:04:24.3847829+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-29T21:59:06.2456217+00:00",
-  "LastUpdate_Achievements": "2023-12-29T22:04:36.5192955+00:00"
+  "LastUpdate_Ratings": "2023-12-29T22:58:50.5715339+00:00",
+  "LastUpdate_Achievements": "2023-12-29T23:04:24.3848097+00:00"
 }

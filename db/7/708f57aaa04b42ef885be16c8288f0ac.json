@@ -3,8 +3,8 @@
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
   "Ranking_Rating": 175,
-  "Ranking_Popularity": 503,
-  "Ranking_PopularitySum": 528,
+  "Ranking_Popularity": 502,
+  "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 114,
@@ -347,9 +347,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 12168,
+  "EOS_Progressed": 12171,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 1116,
+  "EOS_NewPlayers": 1113,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -8422,6 +8422,11 @@
       "Time": "2023-12-29T22:10:03.0553791+00:00",
       "NumProgressed": 12168,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-12-29T23:09:50.9337425+00:00",
+      "NumProgressed": 12171,
+      "NumCompleted": 23
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -8442,7 +8447,7 @@
       "Name": "Baby Steps",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 4380
+      "UsersEstimate": 4382
     },
     {
       "ID": "BeLikeWater",
@@ -8506,7 +8511,7 @@
       "Name": "First Time?",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 5962
+      "UsersEstimate": 5964
     },
     {
       "ID": "FuneralForTheDeath",
@@ -8514,7 +8519,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "GarbageMan",
@@ -8578,7 +8583,7 @@
       "Name": "Nasty!",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 3042
+      "UsersEstimate": 3043
     },
     {
       "ID": "NoMoreTotems",
@@ -8618,7 +8623,7 @@
       "Name": "The Floor Is Lava",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "TheOldSchoolWay",
@@ -8626,7 +8631,7 @@
       "Name": "The Old-School Way",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 2677
+      "UsersEstimate": 2678
     },
     {
       "ID": "TheQuarterback",
@@ -8634,7 +8639,7 @@
       "Name": "The Quarterback",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 4624
+      "UsersEstimate": 4625
     },
     {
       "ID": "ThisIsDharma",
@@ -8656,9 +8661,9 @@
       "ID": "UnResurrected",
       "SetID": "acc6ea0",
       "Name": "Un-Resurrected",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1339
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -8666,7 +8671,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -8690,7 +8695,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "k01101110",
@@ -8698,14 +8703,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 12168,
+      "Progressed": 12171,
       "Completed": 23
     }
   ],
@@ -8713,8 +8718,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-12-29T17:00:25.1265358+00:00",
-  "LastChanged_Achievements": "2023-12-29T22:10:03.0553787+00:00",
+  "LastChanged_Achievements": "2023-12-29T23:09:50.9337422+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.4946312+00:00",
-  "LastUpdate_Ratings": "2023-12-29T22:00:17.5743299+00:00",
-  "LastUpdate_Achievements": "2023-12-29T22:10:03.0554606+00:00"
+  "LastUpdate_Ratings": "2023-12-29T23:00:03.2468534+00:00",
+  "LastUpdate_Achievements": "2023-12-29T23:09:50.9337981+00:00"
 }

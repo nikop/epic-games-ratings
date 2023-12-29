@@ -28,8 +28,8 @@ Rating: 3.85 (Ranked 1,059)
 | Line Cook | 12.00% | ~219 |
 | Sociable | 12.00% | ~219 |
 | Ablutomaniac | 12.00% | ~219 |
+| Good Samaritan | 11.00% | ~201 |
 | Production Sorter | 11.00% | ~201 |
-| Good Samaritan | 10.00% | ~183 |
 | Acrobatic Adventurer | 10.00% | ~183 |
 | Animal Exterminator | 9.00% | ~165 |
 | Adolescent Love | 6.00% | ~110 |
@@ -224,8 +224,8 @@ Completed: 11 (0.60%) (Ranked 204)
 | 2023-12-28 | 1,820 | 11 |
 | 2023-12-29 | 1,828 | 11 |
 ## Awards
-Max (Character Customization): 70  (Ranked 416)  
-Sum: 70 (Ranked 487)  
+Max (Character Customization): 70  (Ranked 415)  
+Sum: 70 (Ranked 486)  
 Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |

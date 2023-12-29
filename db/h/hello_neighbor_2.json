@@ -2,9 +2,9 @@
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
-  "Ranking_Rating": 732,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Rating": 713,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 96,
   "Ranking_EOS_NewPlayers": 198,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.43,
   "RatingHistory": [
     {
       "Time": "2022-12-13T19:57:02.6250274+00:00",
@@ -483,15 +483,21 @@
       "Rating": 4.42,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-29T23:00:02.8144421+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3710,
+  "EOS_Progressed": 3711,
   "EOS_Completed": 140,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.77,
   "EosHistory": [
@@ -6354,6 +6360,11 @@
       "Time": "2023-12-29T22:08:16.1895362+00:00",
       "NumProgressed": 3710,
       "NumCompleted": 140
+    },
+    {
+      "Time": "2023-12-29T23:06:23.6972571+00:00",
+      "NumProgressed": 3711,
+      "NumCompleted": 140
     }
   ],
   "TotalAchievements": 14,
@@ -6381,7 +6392,7 @@
       "Name": "Cat Person",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "ACH_CLIMBER",
@@ -6389,7 +6400,7 @@
       "Name": "Climber",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -6405,7 +6416,7 @@
       "Name": "Easy As Pie",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1225
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -6413,7 +6424,7 @@
       "Name": "Family Lost",
       "Percentage": 32,
       "XP": 80,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -6421,7 +6432,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -6429,7 +6440,7 @@
       "Name": "Imprisonment",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -6437,7 +6448,7 @@
       "Name": "Mad Scientist",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "ACH_REUNION",
@@ -6445,7 +6456,7 @@
       "Name": "Reunion",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -6469,23 +6480,23 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 2931
+      "UsersEstimate": 2932
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3710,
+      "Progressed": 3711,
       "Completed": 140
     }
   ],
   "FirstSeen": "2022-12-06T19:57:03.5315641+00:00",
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
-  "LastChanged": "2023-12-26T22:59:33.8911341+00:00",
-  "LastChanged_Achievements": "2023-12-29T22:08:16.1895358+00:00",
+  "LastChanged": "2023-12-29T23:00:02.814442+00:00",
+  "LastChanged_Achievements": "2023-12-29T23:06:23.6972569+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:21.8712839+00:00",
-  "LastUpdate_Ratings": "2023-12-29T22:00:17.1510485+00:00",
-  "LastUpdate_Achievements": "2023-12-29T22:08:16.1895718+00:00"
+  "LastUpdate_Ratings": "2023-12-29T23:00:02.8144426+00:00",
+  "LastUpdate_Achievements": "2023-12-29T23:06:23.6972923+00:00"
 }

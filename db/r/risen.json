@@ -3,8 +3,8 @@
   "Name": "Risen",
   "ProductSlug": "risen-e8e55e",
   "Ranking_Rating": 523,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 301,
@@ -1086,9 +1086,9 @@
       "ID": "id_6",
       "SetID": "bk9jib6",
       "Name": "Fence",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "id_60",
@@ -1159,8 +1159,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-28T07:02:46.0007261+00:00",
-  "LastChanged_Achievements": "2023-12-29T22:10:03.3632342+00:00",
+  "LastChanged_Achievements": "2023-12-29T23:09:51.1782852+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:07.54931+00:00",
-  "LastUpdate_Ratings": "2023-12-29T22:02:58.3949814+00:00",
-  "LastUpdate_Achievements": "2023-12-29T22:10:03.363275+00:00"
+  "LastUpdate_Ratings": "2023-12-29T23:02:45.4503364+00:00",
+  "LastUpdate_Achievements": "2023-12-29T23:09:51.1783258+00:00"
 }

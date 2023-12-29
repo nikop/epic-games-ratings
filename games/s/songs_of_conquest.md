@@ -6,23 +6,23 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 45.00% | ~381 |
-| Double Kill | 39.00% | ~330 |
+| Adept | 45.00% | ~382 |
+| Double Kill | 39.00% | ~332 |
 | Critical Hit | 21.00% | ~178 |
 | Veteran | 21.00% | ~178 |
-| Dressed For Success | 14.00% | ~118 |
+| Dressed For Success | 14.00% | ~119 |
 | Veni, Vidi, Vici | 9.00% | ~76 |
 | Multi Kill | 8.00% | ~68 |
 | Humiliation | 8.00% | ~68 |
-| Sorcerous Spree | 7.00% | ~59 |
-| Master | 7.00% | ~59 |
+| Sorcerous Spree | 7.00% | ~60 |
+| Master | 7.00% | ~60 |
 | Whoops! | 6.00% | ~51 |
 | Landlord Extraordinaire | 6.00% | ~51 |
 | Don't Touch My Stuff | 5.00% | ~42 |
 | The Song of Stoutheart | 4.00% | ~34 |
 | Trojan Horse | 4.00% | ~34 |
-| Expert Essence Employment | 3.00% | ~25 |
-| Venisti, Vidisti, Perdidisti | 3.00% | ~25 |
+| Expert Essence Employment | 3.00% | ~26 |
+| Venisti, Vidisti, Perdidisti | 3.00% | ~26 |
 | This Spot's Taken | 2.00% | ~17 |
 | Deepstrike | 2.00% | ~17 |
 | Infernal Influence | 2.00% | ~17 |
@@ -33,8 +33,8 @@ Number of Ratings: 292  (23.09.2022)
 | Such A Fungi | 1.00% | ~8 |
 | Grand Master | 1.00% | ~8 |
 | Together For Her | 0.80% | ~7 |
+| In The Thick of It | 0.70% | ~6 |
 | Unlimited Power! | 0.60% | ~5 |
-| In The Thick of It | 0.60% | ~5 |
 | Get Over Here! | 0.60% | ~5 |
 | Death To Diplomacy | 0.50% | ~4 |
 | Killing Spree | 0.50% | ~4 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 846 (Ranked 298)  
+Progressed: 850 (Ranked 296)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,11 +110,11 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 773 | 0 |
 | 2023-12-27 | 796 | 0 |
 | 2023-12-28 | 815 | 0 |
-| 2023-12-29 | 846 | 0 |
+| 2023-12-29 | 850 | 0 |
 ## Awards
-Max (Quickly Understood Controls): 29  (Ranked 520)  
+Max (Quickly Understood Controls): 29  (Ranked 519)  
 Sum: 251 (Ranked 397)  
-Diff (max vs sum): 123  
+Diff (max vs sum): 122  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 29 |

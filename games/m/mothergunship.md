@@ -1,15 +1,15 @@
 # Mothergunship
 [Store](https://store.epicgames.com/en-US/p/mothergunship)  
 [View Rawdata](../../db/m/mothergunship.json)  
-Rating: 4.38 (Ranked 782)  
+Rating: 4.38 (Ranked 781)  
 Number of Ratings: 436  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 176  (Ranked 310)  
-Sum: 176 (Ranked 424)  
+Max (Great Boss Battles): 177  (Ranked 310)  
+Sum: 177 (Ranked 424)  
 Diff (max vs sum): -114  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 176 |
+| This game has Great Boss Battles | 177 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -122,3 +122,4 @@ Diff (max vs sum): -114
 | 2023-10-29 | 4.37 | - | 175 | 175 |
 | 2023-11-21 | 4.38 | - | 175 | 175 |
 | 2023-12-05 | 4.38 | - | 176 | 176 |
+| 2023-12-29 | 4.38 | - | 177 | 177 |

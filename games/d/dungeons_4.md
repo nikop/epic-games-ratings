@@ -49,11 +49,11 @@ Rating: 4.65 (Ranked 322)
 | Raiders of the Lost Stone | 26.00% | ~172 |
 | The Rune Sockets of Finitude (Part 1) | 26.00% | ~172 |
 | Bonus Evilness | 25.00% | ~165 |
-| The Rune Sockets of Finitude (Part 2) | 24.00% | ~159 |
-| The Last Stand - This Time For Real! | 22.00% | ~145 |
+| The Rune Sockets of Finitude (Part 2) | 25.00% | ~165 |
+| The Last Stand - This Time For Real! | 23.00% | ~152 |
 | Rubble and Ashes | 21.00% | ~139 |
+| Lavalumps on Ice! | 19.00% | ~126 |
 | My Little Torture Chamber | 18.00% | ~119 |
-| Lavalumps on Ice! | 18.00% | ~119 |
 | To the Max! | 18.00% | ~119 |
 | To Infinity And Beyond! | 18.00% | ~119 |
 | Sacrificial Pit = Garbage Disposal? | 17.00% | ~112 |

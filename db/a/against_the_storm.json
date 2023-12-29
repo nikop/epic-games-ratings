@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 3791,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3677,9 +3677,9 @@
       "Count": 337
     }
   ],
-  "EOS_Progressed": 19626,
+  "EOS_Progressed": 19630,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 687,
+  "EOS_NewPlayers": 686,
   "EOS_NewCompleters": -4,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -17657,6 +17657,11 @@
       "Time": "2023-12-29T22:06:11.2842778+00:00",
       "NumProgressed": 19626,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-29T23:05:59.1474166+00:00",
+      "NumProgressed": 19630,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17731,9 +17736,9 @@
       "ID": "ManyEvents",
       "SetID": "cfbk359",
       "Name": "Efficient Explorer",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 177
     },
     {
       "ID": "MetalChain",
@@ -17949,7 +17954,7 @@
       "Name": "The Marshlands",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "WinOnMoorlands",
@@ -18109,7 +18114,7 @@
       "Name": "Ominous Presence",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "WinNearStorms",
@@ -18117,7 +18122,7 @@
       "Name": "Gathering Storm",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -18140,15 +18145,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19626,
+      "Progressed": 19630,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-29T20:02:24.9867935+00:00",
-  "LastChanged_Achievements": "2023-12-29T22:06:11.2842772+00:00",
+  "LastChanged_Achievements": "2023-12-29T23:05:59.1474164+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-29T22:00:20.433383+00:00",
-  "LastUpdate_Achievements": "2023-12-29T22:06:11.2843723+00:00"
+  "LastUpdate_Ratings": "2023-12-29T23:00:06.0656211+00:00",
+  "LastUpdate_Achievements": "2023-12-29T23:05:59.1475165+00:00"
 }

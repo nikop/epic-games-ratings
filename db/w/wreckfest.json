@@ -3,8 +3,8 @@
   "Name": "Wreckfest",
   "ProductSlug": "wreckfest",
   "Ranking_Rating": 870,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 180,
@@ -331,7 +331,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 536,
+  "EOS_Progressed": 537,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 0,
@@ -1466,6 +1466,11 @@
       "Time": "2023-12-29T22:08:51.5957087+00:00",
       "NumProgressed": 536,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T23:08:39.5515158+00:00",
+      "NumProgressed": 537,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1486,7 +1491,7 @@
       "Name": "Highballer",
       "Percentage": 40,
       "XP": 90,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "CareerChamp1",
@@ -1534,7 +1539,7 @@
       "Name": "Storm Warning",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "CollectVehiclesA",
@@ -1550,7 +1555,7 @@
       "Name": "Junk Collector",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "CreditsEarnedA",
@@ -1598,7 +1603,7 @@
       "Name": "Trashing Around",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "PlayerRankC",
@@ -1622,7 +1627,7 @@
       "Name": "Hating Them Tin Cans",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "WreckOpponentsBus",
@@ -1637,7 +1642,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 536,
+      "Progressed": 537,
       "Completed": 0
     }
   ],
@@ -1645,8 +1650,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-28T22:58:24.1175943+00:00",
-  "LastChanged_Achievements": "2023-12-29T22:08:51.5957084+00:00",
+  "LastChanged_Achievements": "2023-12-29T23:08:39.5515156+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-29T21:58:21.5611289+00:00",
-  "LastUpdate_Achievements": "2023-12-29T22:08:51.5957262+00:00"
+  "LastUpdate_Ratings": "2023-12-29T22:58:04.5681901+00:00",
+  "LastUpdate_Achievements": "2023-12-29T23:08:39.5515288+00:00"
 }

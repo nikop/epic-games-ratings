@@ -12,9 +12,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 6.00% | ~1,178 |
 | No Deaths | 6.00% | ~1,178 |
 | Petrified Necropolis | 6.00% | ~1,178 |
-| The Marshlands | 5.00% | ~981 |
-| Ominous Presence | 5.00% | ~981 |
-| Gathering Storm | 5.00% | ~981 |
+| The Marshlands | 5.00% | ~982 |
+| Ominous Presence | 5.00% | ~982 |
+| Gathering Storm | 5.00% | ~982 |
 | Overcoming Difficulty | 4.00% | ~785 |
 | Coral Forest | 4.00% | ~785 |
 | The Scarlet Orchard | 4.00% | ~785 |
@@ -46,9 +46,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Victory Through Prosperity | 1.00% | ~196 |
 | Defying the Crown | 1.00% | ~196 |
 | Into the Forest | 1.00% | ~196 |
+| Efficient Explorer | 0.90% | ~177 |
 | Refinery | 0.90% | ~177 |
 | Forsaken Gods Temple | 0.90% | ~177 |
-| Efficient Explorer | 0.80% | ~157 |
 | Dangerous Lands | 0.80% | ~157 |
 | Forbidden Lands | 0.70% | ~137 |
 | Feeding The People | 0.50% | ~98 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,626 (Ranked 151)  
+Progressed: 19,630 (Ranked 151)  
 Completed: 35 (0.18%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 35 (0.18%) (Ranked 277)
 | 2023-12-26 | 19,350 | 38 |
 | 2023-12-27 | 19,458 | 38 |
 | 2023-12-28 | 19,536 | 36 |
-| 2023-12-29 | 19,626 | 36 |
+| 2023-12-29 | 19,630 | 36 |
 ## Awards
 Max (Quickly Understood Controls): 446  (Ranked 229)  
 Sum: 3,306 (Ranked 176)  

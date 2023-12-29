@@ -31,13 +31,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Scareless | 0.90% | ~6,734 |
 | Kung-Fu Tussle | 0.90% | ~6,734 |
 | Dance of the Praying Mantis | 0.80% | ~5,986 |
-| Fight the way you practice | 0.70% | ~402 |
+| Fight the way you practice | 0.70% | ~403 |
 | Martial Hub | 0.60% | ~345 |
 | Muk Yan Master | 0.50% | ~3,741 |
 | Tiger on Fire | 0.50% | ~3,741 |
 | Source of Flying Daggers | 0.50% | ~3,741 |
 | Detective Story | 0.50% | ~3,741 |
-| Bloody Sport | 0.50% | ~287 |
+| Bloody Sport | 0.50% | ~288 |
 | Iron Money | 0.40% | ~2,993 |
 | Legendary Talismans of Wuxing | 0.40% | ~2,993 |
 | Prodigal Child | 0.40% | ~2,993 |
@@ -47,7 +47,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Knowledge Greed | 0.30% | ~2,245 |
 | The Pit Protector | 0.30% | ~2,245 |
 | Come Snap With Me | 0.30% | ~2,245 |
-| Deadly Venom | 0.30% | ~172 |
+| Deadly Venom | 0.30% | ~173 |
 | Drunken Fighter | 0.20% | ~1,496 |
 | Martial Artist | 0.20% | ~1,496 |
 | Healing Memory | 0.20% | ~1,496 |
@@ -59,15 +59,15 @@ Number of Ratings: 9,492  (23.09.2022)
 | Master of the Flying Assassins | 0.20% | ~115 |
 | Beatmaker | 0.20% | ~115 |
 | Warriors from the Mountain | 0.10% | ~748 |
-| Secure, Protect, Leave | 0.10% | ~57 |
-| Crouching Tiger | 0.10% | ~57 |
-| Hidden Dragon | 0.10% | ~57 |
-| Here Cometh the Iceman | 0.10% | ~57 |
-| Fighter in the Pond | 0.10% | ~57 |
-| Bonus Stage | 0.10% | ~57 |
-| A Bit Of Everything, Simultaneously | 0.10% | ~57 |
+| Secure, Protect, Leave | 0.10% | ~58 |
+| Crouching Tiger | 0.10% | ~58 |
+| Hidden Dragon | 0.10% | ~58 |
+| Here Cometh the Iceman | 0.10% | ~58 |
+| Fighter in the Pond | 0.10% | ~58 |
+| Bonus Stage | 0.10% | ~58 |
+| A Bit Of Everything, Simultaneously | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 748,195 (Ranked 23)  
+Progressed: 748,212 (Ranked 23)  
 Completed: 12,968 (1.73%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 12,968 (1.73%) (Ranked 141)
 | 2023-12-26 | 745,555 | 12,967 |
 | 2023-12-27 | 746,407 | 12,967 |
 | 2023-12-28 | 747,246 | 12,967 |
-| 2023-12-29 | 748,195 | 12,968 |
+| 2023-12-29 | 748,212 | 12,968 |
 ## Awards
 Max (Great Boss Battles): 7,041  (Ranked 55)  
 Sum: 12,473 (Ranked 84)  

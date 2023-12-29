@@ -5,22 +5,22 @@ Rating: 4.80 (Ranked 89)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,982 |
-| No more cages! | 91.00% | ~2,856 |
-| Everfrost | 77.00% | ~2,417 |
+| For Demacia | 95.00% | ~2,983 |
+| No more cages! | 91.00% | ~2,857 |
+| Everfrost | 77.00% | ~2,418 |
 | Pentakill | 76.00% | ~2,386 |
 | Dark Forest | 76.00% | ~2,386 |
-| The use of petricite | 73.00% | ~2,291 |
-| You can pet the dog | 60.00% | ~1,883 |
-| Thornbarrow | 42.00% | ~1,318 |
+| The use of petricite | 73.00% | ~2,292 |
+| You can pet the dog | 60.00% | ~1,884 |
+| Thornbarrow | 42.00% | ~1,319 |
 | Big Helmet Bro | 40.00% | ~1,256 |
 | Clarion Cove | 40.00% | ~1,256 |
 | Ternmoat Headquarters | 38.00% | ~1,193 |
-| Elemental master | 37.00% | ~1,161 |
-| Past trauma | 37.00% | ~1,161 |
-| Cypress Glen Headquarters | 34.00% | ~1,067 |
+| Elemental master | 37.00% | ~1,162 |
+| Past trauma | 37.00% | ~1,162 |
+| Cypress Glen Headquarters | 34.00% | ~1,068 |
 | Petricite Burst | 33.00% | ~1,036 |
-| Old friend | 32.00% | ~1,004 |
+| Old friend | 32.00% | ~1,005 |
 | Devineur | 31.00% | ~973 |
 | Hijack | 30.00% | ~942 |
 | Whispers in the Woods I | 27.00% | ~848 |
@@ -43,8 +43,8 @@ Rating: 4.80 (Ranked 89)
 | True power | 16.00% | ~502 |
 | Meltridge | 16.00% | ~502 |
 | Cloven Dell Headquarters | 16.00% | ~502 |
-| Whispers in the Woods IV | 14.00% | ~439 |
-| I smell fear | 14.00% | ~439 |
+| Whispers in the Woods IV | 14.00% | ~440 |
+| I smell fear | 14.00% | ~440 |
 | Embrace the darkness | 13.00% | ~408 |
 | The end of the experiments | 13.00% | ~408 |
 | The Great City of Demacia | 13.00% | ~408 |
@@ -53,13 +53,13 @@ Rating: 4.80 (Ranked 89)
 | Back to sleep, then... | 12.00% | ~377 |
 | Do you trust me? | 11.00% | ~345 |
 | The great mage rebellion starts now | 11.00% | ~345 |
+| You can pet the... horse | 11.00% | ~345 |
 | Chains master | 10.00% | ~314 |
-| You can pet the... horse | 10.00% | ~314 |
 | Spellcrafting | 10.00% | ~314 |
 | Silverwing nest | 2.00% | ~63 |
 | The Unshackled | 1.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,139 (Ranked 221)  
+Progressed: 3,140 (Ranked 221)  
 Completed: 17 (0.54%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 17 (0.54%) (Ranked 210)
 | 2023-12-26 | 3,075 | 17 |
 | 2023-12-27 | 3,100 | 17 |
 | 2023-12-28 | 3,125 | 17 |
-| 2023-12-29 | 3,139 | 17 |
+| 2023-12-29 | 3,140 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

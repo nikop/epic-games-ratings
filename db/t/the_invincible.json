@@ -3,8 +3,8 @@
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
   "Ranking_Rating": 500,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 185,
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1150,
+  "EOS_Progressed": 1151,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3004,6 +3004,11 @@
       "Time": "2023-12-29T22:09:34.8821796+00:00",
       "NumProgressed": 1150,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T23:09:22.5418948+00:00",
+      "NumProgressed": 1151,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -3040,7 +3045,7 @@
       "Name": "Fierce fight",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "AchvBombStop",
@@ -3112,7 +3117,7 @@
       "Name": "Krauta is alive",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "AchvLava",
@@ -3184,7 +3189,7 @@
       "Name": "The field base",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "AchvReachCamp",
@@ -3192,7 +3197,7 @@
       "Name": "The Camp",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "AchvReachCity",
@@ -3247,7 +3252,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1150,
+      "Progressed": 1151,
       "Completed": 0
     }
   ],
@@ -3255,8 +3260,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2023-12-29T16:59:59.7446678+00:00",
-  "LastChanged_Achievements": "2023-12-29T22:09:34.8821793+00:00",
+  "LastChanged_Achievements": "2023-12-29T23:09:22.5418947+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:33.4496725+00:00",
-  "LastUpdate_Ratings": "2023-12-29T21:59:55.9893708+00:00",
-  "LastUpdate_Achievements": "2023-12-29T22:09:34.8822174+00:00"
+  "LastUpdate_Ratings": "2023-12-29T22:59:40.8930678+00:00",
+  "LastUpdate_Achievements": "2023-12-29T23:09:22.5419176+00:00"
 }

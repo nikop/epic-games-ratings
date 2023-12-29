@@ -6,9 +6,9 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 214.00% | ~1,547 |
+| Adept Assembler | 215.00% | ~1,554 |
 | Iron Chef | 150.00% | ~1,084 |
-| Super Spelunker | 144.00% | ~1,041 |
+| Super Spelunker | 145.00% | ~1,048 |
 | The Little Wood that Could | 119.00% | ~860 |
 | Greeno-B-Gone | 117.00% | ~846 |
 | On that Grindset | 101.00% | ~730 |
@@ -34,11 +34,11 @@ Number of Ratings: 892  (23.09.2022)
 | What Plants Crave | 69.00% | ~499 |
 | Elementary, My Dear | 67.00% | ~484 |
 | Builder of the Month | 65.00% | ~470 |
+| Lifeline Pipeline | 63.00% | ~455 |
 | Waste Not Want Not | 63.00% | ~455 |
-| Lifeline Pipeline | 62.00% | ~448 |
+| Bridging the Gap | 60.00% | ~434 |
 | Martle's Dream | 60.00% | ~434 |
 | Commissions, commissions...! | 59.00% | ~427 |
-| Bridging the Gap | 59.00% | ~427 |
 | Happier-est Place on Earth | 58.00% | ~419 |
 | Anti-Santa | 57.00% | ~412 |
 | Got the Flow Back | 55.00% | ~398 |
@@ -56,7 +56,7 @@ Number of Ratings: 892  (23.09.2022)
 | Santa In Training | 39.00% | ~282 |
 | Sandrunning Speedster | 39.00% | ~282 |
 | It Belongs in a Museum! | 35.00% | ~253 |
-| Pro Gamer | 33.00% | ~239 |
+| Pro Gamer | 34.00% | ~246 |
 | Do Your Part | 33.00% | ~239 |
 | Newton | 32.00% | ~231 |
 | Cardistry | 26.00% | ~188 |

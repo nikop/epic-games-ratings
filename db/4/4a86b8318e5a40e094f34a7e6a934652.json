@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 415,
+  "EOS_Progressed": 416,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -1769,6 +1769,11 @@
       "Time": "2023-12-29T11:05:17.9105553+00:00",
       "NumProgressed": 415,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T23:05:29.1176572+00:00",
+      "NumProgressed": 416,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -1789,7 +1794,7 @@
       "Name": "Design Engineer",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "BRING_MARY",
@@ -1797,7 +1802,7 @@
       "Name": "Retro Diva",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "BRING_PROSPERO",
@@ -1821,7 +1826,7 @@
       "Name": "Fisherman",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -1837,7 +1842,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -1861,7 +1866,7 @@
       "Name": "Leech Lunch",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -1925,7 +1930,7 @@
       "Name": "Uppies!",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -1933,21 +1938,21 @@
       "Name": "Strong Signal",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 415,
+      "Progressed": 416,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-29T22:05:41.3128668+00:00",
+  "LastChanged_Achievements": "2023-12-29T23:05:29.117657+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.5394751+00:00",
-  "LastUpdate_Ratings": "2023-12-29T22:00:16.1748392+00:00",
-  "LastUpdate_Achievements": "2023-12-29T22:05:41.3128839+00:00"
+  "LastUpdate_Ratings": "2023-12-29T23:00:01.8634379+00:00",
+  "LastUpdate_Achievements": "2023-12-29T23:05:29.1176767+00:00"
 }

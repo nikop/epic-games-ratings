@@ -6,34 +6,34 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,818 |
-| I'll Be Back | 84.00% | ~4,306 |
-| Sorry, I Dropped This | 77.00% | ~3,947 |
-| First Day on the Job | 76.00% | ~3,896 |
-| Butcher's Bill | 54.00% | ~2,768 |
+| On My Own Two Feet | 94.00% | ~4,820 |
+| I'll Be Back | 84.00% | ~4,308 |
+| Sorry, I Dropped This | 77.00% | ~3,949 |
+| First Day on the Job | 76.00% | ~3,897 |
+| Butcher's Bill | 54.00% | ~2,769 |
 | P.A.X | 37.00% | ~1,897 |
-| Hey Listen | 36.00% | ~1,845 |
-| OPERATOR | 35.00% | ~1,794 |
+| Hey Listen | 36.00% | ~1,846 |
+| OPERATOR | 35.00% | ~1,795 |
 | It's Blue Light | 33.00% | ~1,692 |
 | Most Wanted | 26.00% | ~1,333 |
 | Infidel | 23.00% | ~1,179 |
-| GOLIATH | 21.00% | ~1,076 |
-| Firebug | 20.00% | ~1,025 |
+| GOLIATH | 21.00% | ~1,077 |
+| Firebug | 20.00% | ~1,026 |
 | Nothing to Lose | 18.00% | ~923 |
-| I Choose You | 17.00% | ~871 |
+| I Choose You | 17.00% | ~872 |
 | Big Sister | 15.00% | ~769 |
 | Gear Up | 15.00% | ~769 |
 | SENTINEL | 15.00% | ~769 |
-| Core Power | 13.00% | ~666 |
+| Core Power | 13.00% | ~667 |
 | The Black Cerberus | 12.00% | ~615 |
 | Watchman | 12.00% | ~615 |
 | CREO Killed the Video Star | 11.00% | ~564 |
 | Who's in Charge Here? | 11.00% | ~564 |
 | Shall Not Pass | 11.00% | ~564 |
 | Right Tool for the Job | 10.00% | ~513 |
-| Melting Down | 9.00% | ~461 |
-| Raging Drones | 9.00% | ~461 |
-| Overconfident | 9.00% | ~461 |
+| Melting Down | 9.00% | ~462 |
+| Raging Drones | 9.00% | ~462 |
+| Overconfident | 9.00% | ~462 |
 | Pusher Man | 8.00% | ~410 |
 | Squad Chief Helvig | 8.00% | ~410 |
 | No More Marching | 8.00% | ~410 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~31 |
 | The Surge | 0.40% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,126 (Ranked 202)  
+Progressed: 5,128 (Ranked 202)  
 Completed: 18 (0.35%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,10 +284,10 @@ Completed: 18 (0.35%) (Ranked 236)
 | 2023-12-26 | 5,078 | 18 |
 | 2023-12-27 | 5,097 | 18 |
 | 2023-12-28 | 5,108 | 18 |
-| 2023-12-29 | 5,126 | 18 |
+| 2023-12-29 | 5,128 | 18 |
 ## Awards
-Max (Great Boss Battles): 30  (Ranked 515)  
-Sum: 30 (Ranked 535)  
+Max (Great Boss Battles): 30  (Ranked 514)  
+Sum: 30 (Ranked 534)  
 Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |

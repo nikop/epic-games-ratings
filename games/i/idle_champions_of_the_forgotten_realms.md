@@ -9,20 +9,21 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 2.00% | ~4,942 |
 | The Cursed Farmer | 1.00% | ~2,471 |
 | Beast Intentions | 0.70% | ~1,730 |
-| Welcome to Sigil | 0.70% | ~1,493 |
-| The Mad Wizard | 0.60% | ~1,482 |
+| Welcome to Sigil | 0.70% | ~1,494 |
+| The Mad Wizard | 0.60% | ~1,483 |
 | Fast Food | 0.60% | ~1,280 |
 | The Ring of Regeneration | 0.40% | ~988 |
 | Are Ya Chicken? | 0.40% | ~988 |
-| The Overgrown Grove | 0.40% | ~853 |
-| When Tentacles Attack | 0.40% | ~853 |
-| Flames of Avernus | 0.40% | ~853 |
-| Mental Gymnastics | 0.40% | ~853 |
-| Don't Lose Your Head | 0.40% | ~853 |
+| The Overgrown Grove | 0.40% | ~854 |
+| When Tentacles Attack | 0.40% | ~854 |
+| Flames of Avernus | 0.40% | ~854 |
+| Mental Gymnastics | 0.40% | ~854 |
+| Don't Lose Your Head | 0.40% | ~854 |
 | Were-verpowered | 0.30% | ~741 |
 | Seeking Allies | 0.30% | ~741 |
 | Mad Cow Disease | 0.30% | ~741 |
 | Friendly Imps | 0.30% | ~741 |
+| Pure Energy | 0.30% | ~741 |
 | Arcane Suppression | 0.30% | ~640 |
 | Welcome to the Vrocks | 0.30% | ~640 |
 | Misaligned in Sigil | 0.30% | ~640 |
@@ -32,13 +33,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Persistent Buzzing | 0.20% | ~494 |
 | Beast Mode | 0.20% | ~494 |
 | Terror in the Dark | 0.20% | ~494 |
+| A Mysterious Summons | 0.20% | ~494 |
 | Unearthed Evil | 0.20% | ~494 |
 | The Crumbling Temple | 0.20% | ~494 |
 | Useless Allies | 0.20% | ~494 |
 | Exploring Port Nyanzaru | 0.20% | ~494 |
 | The Contagious Curse | 0.20% | ~494 |
 | Escort to Waterdeep | 0.20% | ~494 |
-| Pure Energy | 0.20% | ~494 |
 | Pros and CONs | 0.10% | ~247 |
 | Upholding the Law | 0.10% | ~247 |
 | Starving in the Jungle | 0.10% | ~247 |
@@ -181,7 +182,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Double Vision | 0.10% | ~247 |
 | Underground Railroad | 0.10% | ~247 |
 | Low Initiative | 0.10% | ~247 |
-| A Mysterious Summons | 0.10% | ~247 |
 | Street War | 0.10% | ~247 |
 | Force Grey Unleashed | 0.10% | ~247 |
 | Vajra's Guards | 0.10% | ~247 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~213 |
 | The Brains of an Illithid's Desire | 0.10% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,078 (Ranked 68)  
+Progressed: 247,120 (Ranked 68)  
 Completed: 2,575 (1.04%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -806,15 +806,15 @@ Completed: 2,575 (1.04%) (Ranked 168)
 | 2023-12-26 | 245,031 | 2,566 |
 | 2023-12-27 | 245,531 | 2,567 |
 | 2023-12-28 | 246,305 | 2,573 |
-| 2023-12-29 | 247,078 | 2,575 |
+| 2023-12-29 | 247,120 | 2,575 |
 ## Awards
 Max (Great for Beginners): 5,715  (Ranked 71)  
-Sum: 33,180 (Ranked 41)  
+Sum: 33,183 (Ranked 41)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,715 |
-| This game has Diverse Characters | 5,657 |
+| This game has Diverse Characters | 5,660 |
 | This game has Quickly Understood Controls | 4,872 |
 | This game is Relaxing | 4,751 |
 | This game has Amazing Characters | 4,295 |
@@ -1160,4 +1160,4 @@ Diff (max vs sum): 30
 | 2023-12-26 | 4.06 | - | 5,696 | 33,100 |
 | 2023-12-27 | 4.06 | - | 5,701 | 33,129 |
 | 2023-12-28 | 4.06 | - | 5,708 | 33,156 |
-| 2023-12-29 | 4.06 | - | 5,715 | 33,180 |
+| 2023-12-29 | 4.06 | - | 5,715 | 33,183 |

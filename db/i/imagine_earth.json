@@ -3,11 +3,11 @@
   "Name": "Imagine Earth",
   "ProductSlug": "imagine-earth-7498e4",
   "Ranking_Rating": 849,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 429,
+  "Ranking_EOS_NewPlayers": 430,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -720,6 +720,6 @@
   "LastChanged": "2023-11-02T00:00:47.6208108+00:00",
   "LastChanged_Achievements": "2023-12-29T22:08:26.5925372+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:14.2881005+00:00",
-  "LastUpdate_Ratings": "2023-12-29T21:57:59.3110369+00:00",
+  "LastUpdate_Ratings": "2023-12-29T22:57:42.9282226+00:00",
   "LastUpdate_Achievements": "2023-12-29T22:08:26.5925818+00:00"
 }

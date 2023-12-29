@@ -3,11 +3,11 @@
   "Name": "Saturnalia",
   "ProductSlug": "saturnalia",
   "Ranking_Rating": 897,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69915,
+  "EOS_Progressed": 69917,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 331,
+  "EOS_NewPlayers": 332,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18968,6 +18968,11 @@
       "Time": "2023-12-29T22:04:04.6068847+00:00",
       "NumProgressed": 69915,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-29T23:03:52.7899198+00:00",
+      "NumProgressed": 69917,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -18987,7 +18992,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 2097
+      "UsersEstimate": 2098
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -19131,14 +19136,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 2097
+      "UsersEstimate": 2098
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 69915,
+      "Progressed": 69917,
       "Completed": 18
     }
   ],
@@ -19146,8 +19151,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2023-12-29T22:04:04.6068843+00:00",
+  "LastChanged_Achievements": "2023-12-29T23:03:52.7899196+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:07.2653355+00:00",
-  "LastUpdate_Ratings": "2023-12-29T21:59:11.1984304+00:00",
-  "LastUpdate_Achievements": "2023-12-29T22:04:04.6069609+00:00"
+  "LastUpdate_Ratings": "2023-12-29T22:58:55.5614554+00:00",
+  "LastUpdate_Achievements": "2023-12-29T23:03:52.7900184+00:00"
 }

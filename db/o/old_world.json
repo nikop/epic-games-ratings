@@ -2208,9 +2208,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16009,
+  "EOS_Progressed": 16011,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18558,6 +18558,11 @@
       "Time": "2023-12-29T22:10:13.9222285+00:00",
       "NumProgressed": 16009,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-29T23:10:01.9496075+00:00",
+      "NumProgressed": 16011,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19119,9 +19124,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MASON",
       "SetID": "9201eeb",
       "Name": "Mason",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
@@ -19199,9 +19204,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -19895,9 +19900,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_APADANA",
       "SetID": "9201eeb",
       "Name": "Apadana",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
@@ -19911,9 +19916,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
       "SetID": "9201eeb",
       "Name": "Colossus",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT",
@@ -19983,9 +19988,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE",
       "SetID": "9201eeb",
       "Name": "Lighthouse",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
@@ -20015,9 +20020,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ORACLE",
       "SetID": "9201eeb",
       "Name": "Oracle",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
@@ -21432,21 +21437,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16009,
+      "Progressed": 16011,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16009,
+      "Progressed": 16011,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-29T16:02:55.9624641+00:00",
-  "LastChanged_Achievements": "2023-12-29T22:10:13.9222281+00:00",
+  "LastChanged_Achievements": "2023-12-29T23:10:01.9496074+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:47.5878363+00:00",
-  "LastUpdate_Ratings": "2023-12-29T22:03:06.0659289+00:00",
-  "LastUpdate_Achievements": "2023-12-29T22:10:13.9232672+00:00"
+  "LastUpdate_Ratings": "2023-12-29T23:02:52.6756864+00:00",
+  "LastUpdate_Achievements": "2023-12-29T23:10:01.9505992+00:00"
 }

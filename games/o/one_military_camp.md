@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 52.00% | ~133 |
-| The 4 Pillars | 49.00% | ~125 |
+| The 4 Pillars | 50.00% | ~128 |
 | Capitalism | 20.00% | ~51 |
+| There's something in those trees | 11.00% | ~28 |
+| Great Producer | 11.00% | ~28 |
 | Green Energy | 11.00% | ~28 |
-| There's something in those trees | 10.00% | ~26 |
+| Desert Power | 10.00% | ~26 |
 | Indebted | 10.00% | ~26 |
-| Great Producer | 10.00% | ~26 |
 | Health Care | 9.00% | ~23 |
-| Desert Power | 9.00% | ~23 |
 | Perfect Soldier | 7.00% | ~18 |
 | Ammo Tycoon | 7.00% | ~18 |
 | Desert Rat | 7.00% | ~18 |
@@ -22,17 +22,17 @@
 | Food Tycoon | 6.00% | ~15 |
 | Fuel Tycoon | 6.00% | ~15 |
 | Jantine: the Misfortunes of Evil | 5.00% | ~13 |
+| Overpopulation | 5.00% | ~13 |
 | Property Bro | 5.00% | ~13 |
 | Self-sufficient | 5.00% | ~13 |
 | Outdoor Decorator | 4.00% | ~10 |
-| Overpopulation | 4.00% | ~10 |
 | Medicine Tycoon | 4.00% | ~10 |
 | Supersoldier | 3.00% | ~8 |
+| Vive le Résistance | 3.00% | ~8 |
 | Human Resources | 3.00% | ~8 |
 | Training Camp | 3.00% | ~8 |
 | Tear Down the Wall! | 2.00% | ~5 |
 | Economist | 2.00% | ~5 |
-| Vive le Résistance | 2.00% | ~5 |
 | No News is Good News | 2.00% | ~5 |
 | Snowman | 2.00% | ~5 |
 | Reconquest | 2.00% | ~5 |

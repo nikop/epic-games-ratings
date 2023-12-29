@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 197,
+  "EOS_Progressed": 198,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -884,6 +884,11 @@
       "Time": "2023-12-29T20:08:44.1111269+00:00",
       "NumProgressed": 197,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T23:08:50.2392494+00:00",
+      "NumProgressed": 198,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -904,7 +909,7 @@
       "Name": "Across The Styx",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "SG_AGAINSTALLODDS",
@@ -966,9 +971,9 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 137
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1032,7 +1037,7 @@
       "Name": "Meant To Be",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -1040,7 +1045,7 @@
       "Name": "My Time To Shine",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "SG_NOTALOSTGIRL",
@@ -1120,7 +1125,7 @@
       "Name": "The Deep End",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "SG_THEHIGHROAD",
@@ -1191,14 +1196,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 197,
+      "Progressed": 198,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-29T22:09:02.4053878+00:00",
+  "LastChanged_Achievements": "2023-12-29T23:08:50.2392492+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.3127204+00:00",
-  "LastUpdate_Ratings": "2023-12-29T21:58:01.0265302+00:00",
-  "LastUpdate_Achievements": "2023-12-29T22:09:02.4054196+00:00"
+  "LastUpdate_Ratings": "2023-12-29T22:57:44.5494982+00:00",
+  "LastUpdate_Achievements": "2023-12-29T23:08:50.2392756+00:00"
 }

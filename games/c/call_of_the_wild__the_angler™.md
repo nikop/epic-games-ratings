@@ -1,7 +1,7 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.20 (Ranked 948)  
+Rating: 4.20 (Ranked 947)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,8 +9,8 @@ Number of Ratings: 281  (23.09.2022)
 | Fish Just Got Reel | 15.00% | ~1,158 |
 | More Fish in the Sea | 13.00% | ~1,004 |
 | Hey Good Hookin | 12.00% | ~927 |
-| Can you smell what the Rod is Hooking | 11.00% | ~849 |
-| Scaling up | 11.00% | ~849 |
+| Can you smell what the Rod is Hooking | 11.00% | ~850 |
+| Scaling up | 11.00% | ~850 |
 | I'm on a Boat! | 10.00% | ~772 |
 | Ready to Rod and Roll | 8.00% | ~618 |
 | Things that go Splash in the Night | 6.00% | ~463 |
@@ -21,8 +21,8 @@ Number of Ratings: 281  (23.09.2022)
 | School's Out for Summer | 3.00% | ~232 |
 | I'm Hooked! | 2.00% | ~154 |
 | Diamond in the Rough | 1.00% | ~77 |
-| I'm the Captain Now | 0.90% | ~69 |
-| Marathon | 0.90% | ~69 |
+| I'm the Captain Now | 0.90% | ~70 |
+| Marathon | 0.90% | ~70 |
 | Hook, Line and Sinker | 0.70% | ~54 |
 | More than a Tourist | 0.60% | ~46 |
 | No Fin left to give | 0.50% | ~39 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,722 (Ranked 188)  
+Progressed: 7,723 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 7,601 | 0 |
 | 2023-12-27 | 7,651 | 0 |
 | 2023-12-28 | 7,687 | 0 |
-| 2023-12-29 | 7,722 | 0 |
+| 2023-12-29 | 7,723 | 0 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 474)  
 Sum: 212 (Ranked 408)  

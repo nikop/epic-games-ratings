@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 95,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1840,
+  "EOS_Progressed": 1841,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 3.8,
   "EosHistory": [
@@ -4079,6 +4079,11 @@
       "Time": "2023-12-29T21:09:31.7862279+00:00",
       "NumProgressed": 1840,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-29T23:09:41.6366983+00:00",
+      "NumProgressed": 1841,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 16,
@@ -4122,7 +4127,7 @@
       "Name": "Goodbye Tieng Valley",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_GRAFFITIARTIST",
@@ -4146,7 +4151,7 @@
       "Name": "Home Leaver",
       "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -4178,7 +4183,7 @@
       "Name": "Outside World Seer",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -4194,7 +4199,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "ACH_THEEND",
@@ -4202,7 +4207,7 @@
       "Name": "The End",
       "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_TOURDETIENG",
@@ -4217,7 +4222,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1840,
+      "Progressed": 1841,
       "Completed": 70
     }
   ],
@@ -4225,8 +4230,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-29T22:09:53.5033951+00:00",
+  "LastChanged_Achievements": "2023-12-29T23:09:41.6366982+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:44.3535234+00:00",
-  "LastUpdate_Ratings": "2023-12-29T21:58:31.6736925+00:00",
-  "LastUpdate_Achievements": "2023-12-29T22:09:53.5034227+00:00"
+  "LastUpdate_Ratings": "2023-12-29T22:58:14.7790345+00:00",
+  "LastUpdate_Achievements": "2023-12-29T23:09:41.6367216+00:00"
 }
