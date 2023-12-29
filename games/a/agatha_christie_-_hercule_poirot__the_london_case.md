@@ -19,7 +19,7 @@
 | An expert mediator | 43.00% | ~33 |
 | DI Hardwicke | 43.00% | ~33 |
 | Order and method | 38.00% | ~29 |
-| Betty Allen | 36.00% | ~28 |
+| Betty Allen | 38.00% | ~29 |
 | The Investigation Begins | 34.00% | ~26 |
 | Ms. Camilla B. Culsham | 31.00% | ~24 |
 | Irene Court-Smyth | 31.00% | ~24 |

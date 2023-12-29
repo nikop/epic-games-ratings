@@ -2,10 +2,10 @@
   "ID": "04e9492e1c384d3283aa2c5b329af66c",
   "Name": "Chef Life - A Restaurant Simulator",
   "ProductSlug": "chef-life-a-restaurant-simulator",
-  "Ranking_EOS_Progress": 292,
+  "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 906,
+  "EOS_Progressed": 908,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3912,6 +3912,11 @@
       "Time": "2023-12-29T19:09:48.6953117+00:00",
       "NumProgressed": 906,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T21:09:18.1580774+00:00",
+      "NumProgressed": 908,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4083,7 +4088,7 @@
       "Name": "Haute Cuisine",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Money10000",
@@ -4099,7 +4104,7 @@
       "Name": "The Big Day",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "Packing20",
@@ -4107,7 +4112,7 @@
       "Name": "Next Level Cuisine",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "PerfectGrade25",
@@ -4123,7 +4128,7 @@
       "Name": "Home Cook",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "RecipeDifferent30",
@@ -4242,7 +4247,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 906,
+      "Progressed": 908,
       "Completed": 0
     }
   ],
@@ -4250,8 +4255,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-12-29T20:09:21.1775529+00:00",
+  "LastChanged_Achievements": "2023-12-29T21:09:18.1580771+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:29.3889235+00:00",
-  "LastUpdate_Ratings": "2023-12-29T19:59:17.0257786+00:00",
-  "LastUpdate_Achievements": "2023-12-29T20:09:21.1776014+00:00"
+  "LastUpdate_Ratings": "2023-12-29T20:59:16.0316916+00:00",
+  "LastUpdate_Achievements": "2023-12-29T21:09:18.1581108+00:00"
 }

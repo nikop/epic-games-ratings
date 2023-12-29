@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -209,9 +209,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 8611,
+  "EOS_Progressed": 8628,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2237,
+  "EOS_NewPlayers": 2238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2879,6 +2879,11 @@
       "Time": "2023-12-29T20:09:33.860251+00:00",
       "NumProgressed": 8611,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T21:09:31.0265705+00:00",
+      "NumProgressed": 8628,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -2891,7 +2896,7 @@
       "Name": "Conspiracy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "03_TheStolenStar",
@@ -2915,7 +2920,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -3011,7 +3016,7 @@
       "Name": "Exemplar",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -3025,9 +3030,9 @@
       "ID": "19_TheVoidWolf",
       "SetID": "37a94m8",
       "Name": "Void Wolf",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 69
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -3065,9 +3070,9 @@
       "ID": "24_TheHighrise",
       "SetID": "37a94m8",
       "Name": "Highrise",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 26
     },
     {
       "ID": "25_DynastyProspers",
@@ -3137,17 +3142,17 @@
       "ID": "33_TzeentchCleaning",
       "SetID": "37a94m8",
       "Name": "Cleening Out the Tzeentch",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 86
     },
     {
       "ID": "34_CuriosityIsNotAVice",
       "SetID": "37a94m8",
       "Name": "Curiosity Is Not a Vice",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 69
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -3201,9 +3206,9 @@
       "ID": "41_TheJungleHeat",
       "SetID": "37a94m8",
       "Name": "Jungle Heat",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 86
     },
     {
       "ID": "42_TheIronJudgement",
@@ -3329,9 +3334,9 @@
       "ID": "57_TheBurningHeritage",
       "SetID": "37a94m8",
       "Name": "Burning Inheritance",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 17
     },
     {
       "ID": "58_KneeDeepInChaos",
@@ -3410,7 +3415,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8611,
+      "Progressed": 8628,
       "Completed": 0
     }
   ],
@@ -3418,8 +3423,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-29T15:57:59.1942922+00:00",
-  "LastChanged_Achievements": "2023-12-29T20:09:33.8602506+00:00",
+  "LastChanged_Achievements": "2023-12-29T21:09:31.0265702+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-29T19:58:03.6446189+00:00",
-  "LastUpdate_Achievements": "2023-12-29T20:09:33.8603113+00:00"
+  "LastUpdate_Ratings": "2023-12-29T20:57:59.7639472+00:00",
+  "LastUpdate_Achievements": "2023-12-29T21:09:31.0266184+00:00"
 }

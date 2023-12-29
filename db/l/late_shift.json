@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 876,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.26,
   "EosHistory": [
@@ -2427,9 +2427,9 @@
       "ID": "ENDING_5",
       "SetID": "8eejhlh",
       "Name": "The Delivery",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 385
+      "UsersEstimate": 394
     },
     {
       "ID": "ENDING_6",
@@ -2451,9 +2451,9 @@
       "ID": "EVEN_TEMPERED",
       "SetID": "8eejhlh",
       "Name": "Even Tempered",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 473
+      "UsersEstimate": 482
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -2531,9 +2531,9 @@
       "ID": "STAR_CROSSED_LOVERS",
       "SetID": "8eejhlh",
       "Name": "Star-Crossed Lovers",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 403
+      "UsersEstimate": 412
     }
   ],
   "AchievementSets": [
@@ -2548,8 +2548,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-29T20:09:15.9478481+00:00",
+  "LastChanged_Achievements": "2023-12-29T21:09:12.8491592+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:26.7088663+00:00",
-  "LastUpdate_Ratings": "2023-12-29T19:59:08.827894+00:00",
-  "LastUpdate_Achievements": "2023-12-29T20:09:15.9478767+00:00"
+  "LastUpdate_Ratings": "2023-12-29T20:59:07.570692+00:00",
+  "LastUpdate_Achievements": "2023-12-29T21:09:12.8491784+00:00"
 }

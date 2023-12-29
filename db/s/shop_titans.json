@@ -2,7 +2,7 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 1034,
+  "Ranking_Rating": 1035,
   "Ranking_Popularity": 76,
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 83,
@@ -7843,9 +7843,9 @@
       "Count": 3807
     }
   ],
-  "EOS_Progressed": 148328,
+  "EOS_Progressed": 148337,
   "EOS_Completed": 338,
-  "EOS_NewPlayers": 1345,
+  "EOS_NewPlayers": 1347,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -34478,6 +34478,11 @@
       "Time": "2023-12-29T20:04:16.0186057+00:00",
       "NumProgressed": 148328,
       "NumCompleted": 338
+    },
+    {
+      "Time": "2023-12-29T21:04:09.4400713+00:00",
+      "NumProgressed": 148337,
+      "NumCompleted": 338
     }
   ],
   "TotalAchievements": 112,
@@ -34569,7 +34574,7 @@
       "Name": "One Easy Payment",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7416
+      "UsersEstimate": 7417
     },
     {
       "ID": "bigsale02",
@@ -34593,7 +34598,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7416
+      "UsersEstimate": 7417
     },
     {
       "ID": "blueprint02",
@@ -34657,7 +34662,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14833
+      "UsersEstimate": 14834
     },
     {
       "ID": "chest02",
@@ -34753,7 +34758,7 @@
       "Name": "Disintermediation",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10383
+      "UsersEstimate": 10384
     },
     {
       "ID": "craft02",
@@ -34841,7 +34846,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7416
+      "UsersEstimate": 7417
     },
     {
       "ID": "energy02",
@@ -34961,7 +34966,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11866
+      "UsersEstimate": 11867
     },
     {
       "ID": "gold02",
@@ -34969,7 +34974,7 @@
       "Name": "Pretty Penny",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7416
+      "UsersEstimate": 7417
     },
     {
       "ID": "gold03",
@@ -35265,7 +35270,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10383
+      "UsersEstimate": 10384
     },
     {
       "ID": "sell02",
@@ -35343,9 +35348,9 @@
       "ID": "uncommonres03",
       "SetID": "anfd17p",
       "Name": "Economy of Scarce",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 1483
     },
     {
       "ID": "workers01",
@@ -35353,7 +35358,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7416
+      "UsersEstimate": 7417
     },
     {
       "ID": "workers02",
@@ -35384,15 +35389,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 148328,
+      "Progressed": 148337,
       "Completed": 338
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-29T10:03:10.6061759+00:00",
-  "LastChanged_Achievements": "2023-12-29T20:04:16.0186054+00:00",
+  "LastChanged_Achievements": "2023-12-29T21:04:09.4400709+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:55.73992+00:00",
-  "LastUpdate_Ratings": "2023-12-29T20:03:13.043785+00:00",
-  "LastUpdate_Achievements": "2023-12-29T20:04:16.018801+00:00"
+  "LastUpdate_Ratings": "2023-12-29T21:03:04.333077+00:00",
+  "LastUpdate_Achievements": "2023-12-29T21:04:09.4403116+00:00"
 }

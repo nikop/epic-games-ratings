@@ -5,10 +5,10 @@
   "Ranking_Rating": 462,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
-  "Ranking_EOS_Progress": 212,
+  "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -323,9 +323,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3810,
+  "EOS_Progressed": 3811,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7428,6 +7428,11 @@
       "Time": "2023-12-29T19:04:48.5372698+00:00",
       "NumProgressed": 3810,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T21:04:36.0126583+00:00",
+      "NumProgressed": 3811,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7471,7 +7476,7 @@
       "Name": "Oats",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_BASE_15",
@@ -7495,7 +7500,7 @@
       "Name": "What They Hide From Us",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_BASE_18",
@@ -7511,7 +7516,7 @@
       "Name": "...  in a finite world",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_BASE_2",
@@ -7583,7 +7588,7 @@
       "Name": "In Dolos We Trust",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_BASE_29",
@@ -7631,7 +7636,7 @@
       "Name": "Fully Recycled",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ACH_BASE_34",
@@ -7743,7 +7748,7 @@
       "Name": "Ain\u0027t Nobody Got Time for That",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ACH_BASE_5",
@@ -7775,7 +7780,7 @@
       "Name": "BRAWL!",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_BASE_53",
@@ -7807,7 +7812,7 @@
       "Name": "Drill-dozer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_BASE_59",
@@ -7815,7 +7820,7 @@
       "Name": "The Ship of Theseus",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ACH_BASE_6",
@@ -7879,7 +7884,7 @@
       "Name": "What the Ruins Teach Us",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_BASE_9",
@@ -7894,13 +7899,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1994,
+      "Progressed": 1995,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3810,
+      "Progressed": 3811,
       "Completed": 0
     }
   ],
@@ -7908,8 +7913,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2023-12-29T20:04:42.462456+00:00",
+  "LastChanged_Achievements": "2023-12-29T21:04:36.0126579+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:27.94929+00:00",
-  "LastUpdate_Ratings": "2023-12-29T20:02:49.3734853+00:00",
-  "LastUpdate_Achievements": "2023-12-29T20:04:42.4625255+00:00"
+  "LastUpdate_Ratings": "2023-12-29T21:02:40.2587396+00:00",
+  "LastUpdate_Achievements": "2023-12-29T21:04:36.0127657+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -1294,9 +1294,9 @@
       "ID": "AC_BOSS_01",
       "SetID": "16i2akc",
       "Name": "Misery",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 81
     },
     {
       "ID": "AC_BOSS_02",
@@ -1358,9 +1358,9 @@
       "ID": "AC_DEATH_1",
       "SetID": "16i2akc",
       "Name": "Corpse",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 111
     },
     {
       "ID": "AC_DEATH_2",
@@ -1414,9 +1414,9 @@
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 135
+      "UsersEstimate": 138
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -1446,9 +1446,9 @@
       "ID": "AC_FLASHBACK_02",
       "SetID": "16i2akc",
       "Name": "Demise",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "AC_FLASHBACK_03",
@@ -1557,8 +1557,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-29T20:08:03.7263369+00:00",
+  "LastChanged_Achievements": "2023-12-29T21:07:58.6954915+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:54.1541826+00:00",
-  "LastUpdate_Ratings": "2023-12-29T19:57:26.9539589+00:00",
-  "LastUpdate_Achievements": "2023-12-29T20:08:03.7263666+00:00"
+  "LastUpdate_Ratings": "2023-12-29T20:57:21.6739726+00:00",
+  "LastUpdate_Achievements": "2023-12-29T21:07:58.695517+00:00"
 }

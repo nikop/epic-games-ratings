@@ -6,12 +6,12 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 67.00% | ~146 |
-| Kaijuiced | 65.00% | ~142 |
+| Shop Til They Drop | 68.00% | ~148 |
+| Kaijuiced | 66.00% | ~144 |
 | Lie Back and Think of Albion | 60.00% | ~131 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~126 |
 | Yettisoned | 55.00% | ~120 |
-| I Look Up As I Walk to Takoshima | 54.00% | ~118 |
+| I Look Up As I Walk to Takoshima | 55.00% | ~120 |
 | Perfect Probulator | 53.00% | ~116 |
 | Pimp My Raid | 49.00% | ~107 |
 | Lobster Blisque | 48.00% | ~105 |
@@ -24,8 +24,8 @@ Number of Ratings: 85  (23.09.2022)
 | Upgreatest | 32.00% | ~70 |
 | Furon Fashion | 27.00% | ~59 |
 | Deincarnated | 25.00% | ~54 |
-| Rock of the Bay | 24.00% | ~52 |
-| Trans-Siberian Express | 22.00% | ~48 |
+| Rock of the Bay | 25.00% | ~54 |
+| Trans-Siberian Express | 23.00% | ~50 |
 | Re-Return of the Clone of the Invasion II-2 | 20.00% | ~44 |
 | Arkvoodle Doodle | 16.00% | ~35 |
 | Ouch of Body Experience | 16.00% | ~35 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17741,
+  "EOS_Progressed": 17746,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 636,
+  "EOS_NewPlayers": 639,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15592,6 +15592,11 @@
       "Time": "2023-12-29T20:05:28.1425151+00:00",
       "NumProgressed": 17741,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-29T21:05:23.2215328+00:00",
+      "NumProgressed": 17746,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15628,7 +15633,7 @@
       "Name": "Data Archivist",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "13",
@@ -15660,7 +15665,7 @@
       "Name": "Drug Gifter",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "17",
@@ -15700,7 +15705,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "21",
@@ -15708,7 +15713,7 @@
       "Name": "Drone Dodger",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "22",
@@ -15740,7 +15745,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "26",
@@ -15748,7 +15753,7 @@
       "Name": "Call it Even",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "27",
@@ -15780,7 +15785,7 @@
       "Name": "Captain Drummer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2129
+      "UsersEstimate": 2130
     },
     {
       "ID": "30",
@@ -15883,22 +15888,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17741,
+      "Progressed": 17746,
       "Completed": 57
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3695,
-      "Completed": 1108
+      "Progressed": 3700,
+      "Completed": 1109
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-27T06:00:51.7325186+00:00",
-  "LastChanged_Achievements": "2023-12-29T20:05:28.1425148+00:00",
+  "LastChanged_Achievements": "2023-12-29T21:05:23.2215325+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-29T19:57:16.8769361+00:00",
-  "LastUpdate_Achievements": "2023-12-29T20:05:28.1426138+00:00"
+  "LastUpdate_Ratings": "2023-12-29T20:57:11.1545714+00:00",
+  "LastUpdate_Achievements": "2023-12-29T21:05:23.2216038+00:00"
 }

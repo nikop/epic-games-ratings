@@ -4,11 +4,11 @@
   "ProductSlug": "tower-of-fantasy",
   "Ranking_Rating": 826,
   "Ranking_Popularity": 241,
-  "Ranking_PopularitySum": 284,
+  "Ranking_PopularitySum": 285,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 572,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-11T14:00:00+00:00",
     "PcReleaseDate": "2021-12-16T19:36:00+00:00",
@@ -2759,6 +2759,6 @@
   "FirstSeenRating": "2023-05-19T13:03:09.3101373+00:00",
   "LastChanged": "2023-12-29T19:58:08.9907883+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:38.59845+00:00",
-  "LastUpdate_Ratings": "2023-12-29T19:58:08.9907888+00:00",
-  "LastUpdate_Achievements": "2023-12-29T20:09:24.1940218+00:00"
+  "LastUpdate_Ratings": "2023-12-29T20:58:05.6263061+00:00",
+  "LastUpdate_Achievements": "2023-12-29T21:09:21.1790755+00:00"
 }

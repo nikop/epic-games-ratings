@@ -2,10 +2,10 @@
   "ID": "2d6693ed985e4774a19d77291f8593db",
   "Name": "Bratz\u2122: Flaunt Your Fashion",
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
-  "Ranking_EOS_Progress": 466,
+  "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
     "PcReleaseDate": "2022-11-04T00:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 125,
+  "EOS_Progressed": 127,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -491,6 +491,11 @@
       "Time": "2023-12-29T20:04:34.7339315+00:00",
       "NumProgressed": 125,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T21:04:28.0265356+00:00",
+      "NumProgressed": 127,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -502,13 +507,13 @@
       "Name": "Welcome to Stilesville",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 122
     },
     {
       "ID": "10",
       "SetID": "41h3j82",
       "Name": "Born to Win",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 70,
       "UsersEstimate": 46
     },
@@ -532,9 +537,9 @@
       "ID": "13",
       "SetID": "41h3j82",
       "Name": "Barcelona Hidden Style",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "14",
@@ -558,7 +563,7 @@
       "Name": "Xtremely Cool Pictures",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "17",
@@ -566,7 +571,7 @@
       "Name": "Trendy Selfies",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "18",
@@ -582,7 +587,7 @@
       "Name": "Best Gala Ever",
       "Percentage": 26,
       "XP": 70,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "2",
@@ -590,13 +595,13 @@
       "Name": "Welcome to Barcelona",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "3",
       "SetID": "41h3j82",
       "Name": "Welcome to Seoul",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 70,
       "UsersEstimate": 46
     },
@@ -606,13 +611,13 @@
       "Name": "Welcome to the The Stylin\u0027 Soiree",
       "Percentage": 26,
       "XP": 70,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "5",
       "SetID": "41h3j82",
       "Name": "We will need a bigger wardrobe",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 70,
       "UsersEstimate": 51
     },
@@ -622,13 +627,13 @@
       "Name": "Scooter Race",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "7",
       "SetID": "41h3j82",
       "Name": "Roller Race",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
       "UsersEstimate": 46
     },
@@ -646,14 +651,14 @@
       "Name": "Talented Performer",
       "Percentage": 56,
       "XP": 70,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     }
   ],
   "AchievementSets": [
     {
       "ID": "41h3j82",
       "IsBase": true,
-      "Progressed": 125,
+      "Progressed": 127,
       "Completed": 0
     }
   ],
@@ -661,8 +666,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-12-29T20:04:34.7339311+00:00",
+  "LastChanged_Achievements": "2023-12-29T21:04:28.0265352+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:15.2924165+00:00",
-  "LastUpdate_Ratings": "2023-12-29T19:58:43.8418244+00:00",
-  "LastUpdate_Achievements": "2023-12-29T20:04:34.7339443+00:00"
+  "LastUpdate_Ratings": "2023-12-29T20:58:40.7738931+00:00",
+  "LastUpdate_Achievements": "2023-12-29T21:04:28.0265464+00:00"
 }

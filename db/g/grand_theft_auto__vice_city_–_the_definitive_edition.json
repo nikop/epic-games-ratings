@@ -1021,9 +1021,9 @@
       "Count": 159
     }
   ],
-  "EOS_Progressed": 14545,
+  "EOS_Progressed": 14550,
   "EOS_Completed": 83,
-  "EOS_NewPlayers": 1094,
+  "EOS_NewPlayers": 1089,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -16276,6 +16276,11 @@
       "Time": "2023-12-29T20:09:23.4048961+00:00",
       "NumProgressed": 14545,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2023-12-29T21:09:20.3888376+00:00",
+      "NumProgressed": 14550,
+      "NumCompleted": 83
     }
   ],
   "TotalAchievements": 34,
@@ -16287,7 +16292,7 @@
       "Name": "Born in the 80\u2019s",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH02",
@@ -16303,7 +16308,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "ACH04",
@@ -16311,7 +16316,7 @@
       "Name": "Not my First Time",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "ACH05",
@@ -16391,7 +16396,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6109
+      "UsersEstimate": 6111
     },
     {
       "ID": "ACH15",
@@ -16407,7 +16412,7 @@
       "Name": "Keepie-Uppy Okie Dokie",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH17",
@@ -16415,7 +16420,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     },
     {
       "ID": "ACH18",
@@ -16423,7 +16428,7 @@
       "Name": "I\u0027m Famous!",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH19",
@@ -16439,7 +16444,7 @@
       "Name": "Daredevil",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH21",
@@ -16447,7 +16452,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 6691
+      "UsersEstimate": 6693
     },
     {
       "ID": "ACH22",
@@ -16455,7 +16460,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2909
+      "UsersEstimate": 2910
     },
     {
       "ID": "ACH23",
@@ -16463,7 +16468,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3782
+      "UsersEstimate": 3783
     },
     {
       "ID": "ACH24",
@@ -16495,7 +16500,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "ACH28",
@@ -16558,7 +16563,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 14545,
+      "Progressed": 14550,
       "Completed": 83
     }
   ],
@@ -16566,8 +16571,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-28T17:58:03.31187+00:00",
-  "LastChanged_Achievements": "2023-12-29T20:09:23.4048957+00:00",
+  "LastChanged_Achievements": "2023-12-29T21:09:20.3888374+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:06.9886134+00:00",
-  "LastUpdate_Ratings": "2023-12-29T19:58:38.9536942+00:00",
-  "LastUpdate_Achievements": "2023-12-29T20:09:23.4049939+00:00"
+  "LastUpdate_Ratings": "2023-12-29T20:58:35.6956046+00:00",
+  "LastUpdate_Achievements": "2023-12-29T21:09:20.3889347+00:00"
 }

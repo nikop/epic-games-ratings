@@ -4,8 +4,8 @@
   "ProductSlug": "1428-shadows-over-silesia-266e5f",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 462,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2022-10-04T11:00:00+00:00",
@@ -257,9 +257,9 @@
       "ID": "SOS_ALARM_ALARM",
       "SetID": "6ci4lm2",
       "Name": "Alarm! Alarm!",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SOS_ALL_LIVES_MATTER",
@@ -273,9 +273,9 @@
       "ID": "SOS_ANCESTORS",
       "SetID": "6ci4lm2",
       "Name": "May devil seize the ancestors",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SOS_AUTHORIZATION",
@@ -289,25 +289,25 @@
       "ID": "SOS_BASILISK",
       "SetID": "6ci4lm2",
       "Name": "Half rooster and half snake",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SOS_BLOOD_TEARS",
       "SetID": "6ci4lm2",
       "Name": "Blood, sweat and tears",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SOS_BOOKWORM",
       "SetID": "6ci4lm2",
       "Name": "Bookworm",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SOS_BRIBER",
@@ -345,9 +345,9 @@
       "ID": "SOS_DRUNKARD",
       "SetID": "6ci4lm2",
       "Name": "Drunkard",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SOS_ENEMY_OF_MY_ENEMY",
@@ -377,9 +377,9 @@
       "ID": "SOS_EVIL_DEAD",
       "SetID": "6ci4lm2",
       "Name": "Evil dead",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SOS_FAMILY_TIES",
@@ -409,9 +409,9 @@
       "ID": "SOS_FISH",
       "SetID": "6ci4lm2",
       "Name": "Ichthys",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SOS_FOR_GLORY_OF_GOD",
@@ -425,25 +425,25 @@
       "ID": "SOS_GHOSTS",
       "SetID": "6ci4lm2",
       "Name": "Like the ghosts",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SOS_GOOD_MANNERS",
       "SetID": "6ci4lm2",
       "Name": "Good manners",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SOS_HARD_WAY",
       "SetID": "6ci4lm2",
       "Name": "Do it the hard way",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SOS_HEADACHE",
@@ -465,9 +465,9 @@
       "ID": "SOS_HELL_STONE",
       "SetID": "6ci4lm2",
       "Name": "Infernal stone",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SOS_HER_FAULT",
@@ -489,9 +489,9 @@
       "ID": "SOS_INFERNAL_TONES",
       "SetID": "6ci4lm2",
       "Name": "Infernal tones",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SOS_ITS_TRAP",
@@ -505,9 +505,9 @@
       "ID": "SOS_LASTBATTLE",
       "SetID": "6ci4lm2",
       "Name": "Last battle",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SOS_LAST_LETTER",
@@ -537,9 +537,9 @@
       "ID": "SOS_LIAISONS",
       "SetID": "6ci4lm2",
       "Name": "Dangerous liaisons",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SOS_MARATHON_RUNNER",
@@ -585,9 +585,9 @@
       "ID": "SOS_NOWAYBACK",
       "SetID": "6ci4lm2",
       "Name": "No way back",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SOS_ORDO",
@@ -601,17 +601,17 @@
       "ID": "SOS_OTHER_SIDE",
       "SetID": "6ci4lm2",
       "Name": "To the other side",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SOS_PENANCE",
       "SetID": "6ci4lm2",
       "Name": "Sacrament of Penance",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SOS_POISON",
@@ -673,9 +673,9 @@
       "ID": "SOS_SINNER",
       "SetID": "6ci4lm2",
       "Name": "Sinner",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SOS_SMOKED",
@@ -697,9 +697,9 @@
       "ID": "SOS_THRONEHELL",
       "SetID": "6ci4lm2",
       "Name": "Throne of Hell",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SOS_US_AGAINST_US",
@@ -752,8 +752,8 @@
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-12-29T20:05:15.2984965+00:00",
+  "LastChanged_Achievements": "2023-12-29T21:05:09.868009+00:00",
   "LastUpdate_AppInfo": "2023-12-25T18:57:02.8169973+00:00",
-  "LastUpdate_Ratings": "2023-12-29T19:59:54.6822673+00:00",
-  "LastUpdate_Achievements": "2023-12-29T20:05:15.2985435+00:00"
+  "LastUpdate_Ratings": "2023-12-29T20:59:55.7523288+00:00",
+  "LastUpdate_Achievements": "2023-12-29T21:05:09.8680604+00:00"
 }

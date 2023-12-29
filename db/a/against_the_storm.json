@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 3791,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3677,9 +3677,9 @@
       "Count": 337
     }
   ],
-  "EOS_Progressed": 19618,
+  "EOS_Progressed": 19622,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 687,
+  "EOS_NewPlayers": 689,
   "EOS_NewCompleters": -4,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -17647,6 +17647,11 @@
       "Time": "2023-12-29T20:06:00.5119172+00:00",
       "NumProgressed": 19618,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-29T21:05:56.6475012+00:00",
+      "NumProgressed": 19622,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17729,9 +17734,9 @@
       "ID": "MetalChain",
       "SetID": "cfbk359",
       "Name": "Refinery",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 177
     },
     {
       "ID": "Win5Years",
@@ -18059,7 +18064,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1373
+      "UsersEstimate": 1374
     },
     {
       "ID": "WinNearFrosts",
@@ -18083,7 +18088,7 @@
       "Name": "Overgrown Library",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1373
+      "UsersEstimate": 1374
     },
     {
       "ID": "WinNearPetrified",
@@ -18130,15 +18135,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19618,
+      "Progressed": 19622,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-29T20:02:24.9867935+00:00",
-  "LastChanged_Achievements": "2023-12-29T20:06:00.5119168+00:00",
+  "LastChanged_Achievements": "2023-12-29T21:05:56.6475008+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-29T20:02:24.986794+00:00",
-  "LastUpdate_Achievements": "2023-12-29T20:06:00.5120228+00:00"
+  "LastUpdate_Ratings": "2023-12-29T21:00:04.6593014+00:00",
+  "LastUpdate_Achievements": "2023-12-29T21:05:56.6476194+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1805,
+  "EOS_Progressed": 1807,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3033,6 +3033,11 @@
       "Time": "2023-12-29T18:07:15.5100691+00:00",
       "NumProgressed": 1805,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-29T21:05:37.4682494+00:00",
+      "NumProgressed": 1807,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3044,7 +3049,7 @@
       "Name": "Lovebirds",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "10",
@@ -3052,7 +3057,7 @@
       "Name": "Perfect timing",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "11",
@@ -3076,7 +3081,7 @@
       "Name": "Unstoppable",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "14",
@@ -3108,7 +3113,7 @@
       "Name": "Balding bloot!",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     },
     {
       "ID": "18",
@@ -3204,7 +3209,7 @@
       "Name": "Hug therapy",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "30",
@@ -3252,7 +3257,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "7",
@@ -3260,7 +3265,7 @@
       "Name": "Ain\u0027t no mountain high enough",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "8",
@@ -3268,7 +3273,7 @@
       "Name": "Over my dead body",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "9",
@@ -3283,15 +3288,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1805,
+      "Progressed": 1807,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-29T20:05:41.678077+00:00",
+  "LastChanged_Achievements": "2023-12-29T21:05:37.468249+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.0357893+00:00",
-  "LastUpdate_Ratings": "2023-12-29T20:02:27.7207213+00:00",
-  "LastUpdate_Achievements": "2023-12-29T20:05:41.6781292+00:00"
+  "LastUpdate_Ratings": "2023-12-29T21:00:07.3566812+00:00",
+  "LastUpdate_Achievements": "2023-12-29T21:05:37.4682775+00:00"
 }

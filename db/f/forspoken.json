@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 367,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -541,9 +541,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 45633,
+  "EOS_Progressed": 45645,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 844,
+  "EOS_NewPlayers": 851,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16891,6 +16891,11 @@
       "Time": "2023-12-29T20:03:41.0187705+00:00",
       "NumProgressed": 45633,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T21:03:34.1175257+00:00",
+      "NumProgressed": 45645,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -16934,7 +16939,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1825
+      "UsersEstimate": 1826
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -16950,7 +16955,7 @@
       "Name": "Attachments",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5020
+      "UsersEstimate": 5021
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -17054,7 +17059,7 @@
       "Name": "Tinkerer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3651
+      "UsersEstimate": 3652
     },
     {
       "ID": "CUFF_ATTACK",
@@ -17094,7 +17099,7 @@
       "Name": "Leapfrogger",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3194
+      "UsersEstimate": 3195
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -17142,7 +17147,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3194
+      "UsersEstimate": 3195
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -17166,7 +17171,7 @@
       "Name": "Wildfire",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "MAGIC_TANTA",
@@ -17190,7 +17195,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3194
+      "UsersEstimate": 3195
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -17214,7 +17219,7 @@
       "Name": "Hell of a Run",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3194
+      "UsersEstimate": 3195
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -17230,7 +17235,7 @@
       "Name": "Realized Potential",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "SKILLTREE_FIRST",
@@ -17238,7 +17243,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4563
+      "UsersEstimate": 4564
     },
     {
       "ID": "SPRING_ALL",
@@ -17254,7 +17259,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2738
+      "UsersEstimate": 2739
     },
     {
       "ID": "STAYING_AIR",
@@ -17325,22 +17330,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 45633,
+      "Progressed": 45645,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 10470,
-      "Completed": 10470
+      "Progressed": 10482,
+      "Completed": 10482
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-29T05:02:23.0595699+00:00",
-  "LastChanged_Achievements": "2023-12-29T20:03:41.0187692+00:00",
+  "LastChanged_Achievements": "2023-12-29T21:03:34.1175254+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.8849039+00:00",
-  "LastUpdate_Ratings": "2023-12-29T20:02:50.0044915+00:00",
-  "LastUpdate_Achievements": "2023-12-29T20:03:41.0188614+00:00"
+  "LastUpdate_Ratings": "2023-12-29T21:02:40.8765638+00:00",
+  "LastUpdate_Achievements": "2023-12-29T21:03:34.1176116+00:00"
 }

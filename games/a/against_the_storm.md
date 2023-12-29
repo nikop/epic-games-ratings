@@ -6,8 +6,8 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 7.00% | ~1,373 |
-| Overgrown Library | 7.00% | ~1,373 |
+| Abandoned Settlement | 7.00% | ~1,374 |
+| Overgrown Library | 7.00% | ~1,374 |
 | First Real Expedition | 6.00% | ~1,177 |
 | Taking Action | 6.00% | ~1,177 |
 | No Deaths | 6.00% | ~1,177 |
@@ -46,8 +46,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Victory Through Prosperity | 1.00% | ~196 |
 | Defying the Crown | 1.00% | ~196 |
 | Into the Forest | 1.00% | ~196 |
+| Refinery | 0.90% | ~177 |
 | Efficient Explorer | 0.80% | ~157 |
-| Refinery | 0.80% | ~157 |
 | Dangerous Lands | 0.80% | ~157 |
 | Forsaken Gods Temple | 0.80% | ~157 |
 | Forbidden Lands | 0.70% | ~137 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,618 (Ranked 151)  
+Progressed: 19,622 (Ranked 151)  
 Completed: 35 (0.18%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 35 (0.18%) (Ranked 277)
 | 2023-12-26 | 19,350 | 38 |
 | 2023-12-27 | 19,458 | 38 |
 | 2023-12-28 | 19,536 | 36 |
-| 2023-12-29 | 19,618 | 36 |
+| 2023-12-29 | 19,622 | 36 |
 ## Awards
 Max (Quickly Understood Controls): 446  (Ranked 229)  
 Sum: 3,306 (Ranked 176)  

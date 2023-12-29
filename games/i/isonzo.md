@@ -6,9 +6,9 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Shall Not Pass | 51.00% | ~4,929 |
-| Tutti Eroi! | 50.00% | ~4,832 |
-| Peak Performance | 46.00% | ~4,446 |
+| You Shall Not Pass | 51.00% | ~4,930 |
+| Tutti Eroi! | 50.00% | ~4,834 |
+| Peak Performance | 46.00% | ~4,447 |
 | Avanti Savoia! | 44.00% | ~4,253 |
 | Mamma Mia! | 35.00% | ~3,383 |
 | Conrad von Hotzensocks | 32.00% | ~3,093 |
@@ -16,20 +16,20 @@ Number of Ratings: 98  (23.09.2022)
 | Silver Lining | 27.00% | ~2,610 |
 | Aurelio Baruzzi | 21.00% | ~2,030 |
 | Decimation | 20.00% | ~1,933 |
-| Donatello | 19.00% | ~1,836 |
-| Insubordination | 19.00% | ~1,836 |
-| The Italian Job | 19.00% | ~1,836 |
-| Veni Vidi Vici | 19.00% | ~1,836 |
+| Donatello | 19.00% | ~1,837 |
+| Insubordination | 19.00% | ~1,837 |
+| The Italian Job | 19.00% | ~1,837 |
+| Veni Vidi Vici | 19.00% | ~1,837 |
 | Ragazzi del '99 | 17.00% | ~1,643 |
-| Luigi Cadorna | 16.00% | ~1,546 |
+| Luigi Cadorna | 16.00% | ~1,547 |
 | The Lion of the Isonzo | 14.00% | ~1,353 |
-| Uomo Universale | 13.00% | ~1,256 |
+| Uomo Universale | 13.00% | ~1,257 |
 | Die Bosniaken Kommen! | 12.00% | ~1,160 |
 | Dirty Dozen | 12.00% | ~1,160 |
 | Shaken, Not Stirred | 12.00% | ~1,160 |
 | Machiavelli | 11.00% | ~1,063 |
-| The Devil's Paintbrush | 10.00% | ~966 |
-| Thus With A Kiss | 10.00% | ~966 |
+| The Devil's Paintbrush | 10.00% | ~967 |
+| Thus With A Kiss | 10.00% | ~967 |
 | Dante's Inferno | 9.00% | ~870 |
 | I Have the High Ground | 9.00% | ~870 |
 | Millenial | 9.00% | ~870 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~39 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,665 (Ranked 180)  
+Progressed: 9,667 (Ranked 180)  
 Completed: 10 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 10 (0.10%) (Ranked 305)
 | 2023-12-26 | 9,630 | 10 |
 | 2023-12-27 | 9,644 | 10 |
 | 2023-12-28 | 9,657 | 10 |
-| 2023-12-29 | 9,665 | 10 |
+| 2023-12-29 | 9,667 | 10 |
 ## Awards
 Max (Diverse Characters): 41  (Ranked 474)  
 Sum: 334 (Ranked 368)  

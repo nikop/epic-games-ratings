@@ -6,15 +6,15 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 36.00% | ~46 |
-| Best Buddy | 27.00% | ~35 |
+| Entrepreneur | 37.00% | ~47 |
+| Best Buddy | 28.00% | ~36 |
 | Civilian | 25.00% | ~32 |
 | Role Model | 23.00% | ~29 |
 | Peddler | 20.00% | ~26 |
+| Festival-goer | 18.00% | ~23 |
 | Military Leader | 17.00% | ~22 |
 | Creator | 17.00% | ~22 |
 | Commander | 17.00% | ~22 |
-| Festival-goer | 17.00% | ~22 |
 | Long-Haul Flyer | 14.00% | ~18 |
 | Pass A38 | 12.00% | ~15 |
 | Irissa's Fate | 11.00% | ~14 |

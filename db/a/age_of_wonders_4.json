@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -639,9 +639,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6484,
+  "EOS_Progressed": 6489,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 488,
+  "EOS_NewPlayers": 491,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9664,6 +9664,11 @@
       "Time": "2023-12-29T20:05:13.0775626+00:00",
       "NumProgressed": 6484,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-29T21:05:07.6589069+00:00",
+      "NumProgressed": 6489,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9675,7 +9680,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "10",
@@ -9787,7 +9792,7 @@
       "Name": "Realm Estate",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "23",
@@ -9795,7 +9800,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "24",
@@ -9803,7 +9808,7 @@
       "Name": "Secret Technique",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "25",
@@ -9891,7 +9896,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "35",
@@ -9947,7 +9952,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "41",
@@ -10154,13 +10159,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6484,
+      "Progressed": 6489,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6484,
+      "Progressed": 6489,
       "Completed": 7
     }
   ],
@@ -10168,8 +10173,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-29T16:57:41.4982798+00:00",
-  "LastChanged_Achievements": "2023-12-29T20:05:13.077562+00:00",
+  "LastChanged_Achievements": "2023-12-29T21:05:07.6589065+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-29T19:57:43.5772954+00:00",
-  "LastUpdate_Achievements": "2023-12-29T20:05:13.0776836+00:00"
+  "LastUpdate_Ratings": "2023-12-29T20:57:39.2667098+00:00",
+  "LastUpdate_Achievements": "2023-12-29T21:05:07.6589919+00:00"
 }

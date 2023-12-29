@@ -5,9 +5,9 @@ Rating: 4.50 (Ranked 609)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 10.00% | ~3,290 |
-| Advancement | 8.00% | ~2,632 |
-| Meticulously Efficient | 8.00% | ~2,632 |
+| Stylish | 10.00% | ~3,291 |
+| Advancement | 8.00% | ~2,633 |
+| Meticulously Efficient | 8.00% | ~2,633 |
 | Discovery | 6.00% | ~1,974 |
 | Solo Capture | 6.00% | ~1,974 |
 | Swift Rift Removers | 6.00% | ~1,974 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 609)
 | Ultimate Defense | 0.20% | ~66 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,904 (Ranked 134)  
+Progressed: 32,908 (Ranked 134)  
 Completed: 71 (0.22%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,10 +310,10 @@ Completed: 71 (0.22%) (Ranked 269)
 | 2023-12-26 | 32,761 | 70 |
 | 2023-12-27 | 32,821 | 70 |
 | 2023-12-28 | 32,854 | 70 |
-| 2023-12-29 | 32,904 | 71 |
+| 2023-12-29 | 32,908 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 325  (Ranked 255)  
-Sum: 2,937 (Ranked 184)  
+Sum: 2,938 (Ranked 184)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
@@ -324,7 +324,7 @@ Diff (max vs sum): 71
 | This game is Highly Recommended | 291 |
 | This game has Competitive Players | 286 |
 | This game is Relaxing | 284 |
-| This game is Extremely Fun | 282 |
+| This game is Extremely Fun | 283 |
 | This game has Amazing Characters | 272 |
 | This game has Quickly Understood Controls | 269 |
 | This game has Playful Visuals | 94 |
@@ -582,4 +582,4 @@ Diff (max vs sum): 71
 | 2023-12-26 | 4.50 | 325 | 2,929 |
 | 2023-12-27 | 4.50 | 325 | 2,933 |
 | 2023-12-28 | 4.50 | 325 | 2,934 |
-| 2023-12-29 | 4.50 | 325 | 2,937 |
+| 2023-12-29 | 4.50 | 325 | 2,938 |

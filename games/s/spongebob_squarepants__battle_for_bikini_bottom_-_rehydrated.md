@@ -26,12 +26,12 @@ Number of Ratings: 76  (23.09.2022)
 | Keep it Rolling | 5.00% | ~25 |
 | Robot encyclopedia | 4.00% | ~20 |
 | Hello, Bikini Bottom | 4.00% | ~20 |
+| Ultra Spatula Seeker | 4.00% | ~20 |
 | The Small Does Not Rule | 3.00% | ~15 |
 | Ship Shape | 3.00% | ~15 |
 | Shanghaied | 3.00% | ~15 |
 | Kelp Forest of Fear | 3.00% | ~15 |
 | SpongeBob vs SpongeBob! | 3.00% | ~15 |
-| Ultra Spatula Seeker | 3.00% | ~15 |
 | Sleepy Time | 2.00% | ~10 |
 | Sock Concert | 2.00% | ~10 |
 | Mega Spatula Seeker | 2.00% | ~10 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Opera | 1.00% | ~5 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 498 (Ranked 342)  
+Progressed: 500 (Ranked 341)  
 Completed: 4 (0.80%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,7 +55,7 @@ Completed: 4 (0.80%) (Ranked 189)
 | 2023-12-26 | 412 | 3 |
 | 2023-12-27 | 435 | 3 |
 | 2023-12-28 | 466 | 3 |
-| 2023-12-29 | 498 | 4 |
+| 2023-12-29 | 500 | 4 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 496)  
 Sum: 35 (Ranked 524)  

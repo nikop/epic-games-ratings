@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 297,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1485,9 +1485,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6745,
+  "EOS_Progressed": 6748,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15490,6 +15490,11 @@
       "Time": "2023-12-29T20:05:01.6080313+00:00",
       "NumProgressed": 6745,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-29T21:04:55.9458332+00:00",
+      "NumProgressed": 6748,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -15525,7 +15530,7 @@
       "Name": "Happy Ending?",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -15587,9 +15592,9 @@
       "ID": "ACH_EP_ONEPERCENTERS",
       "SetID": "1p8ab95",
       "Name": "Beware The Betman",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 405
+      "UsersEstimate": 337
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -15597,7 +15602,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2968
+      "UsersEstimate": 2969
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -15605,7 +15610,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -15621,7 +15626,7 @@
       "Name": "Number 18",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -15661,7 +15666,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4991
+      "UsersEstimate": 4994
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -15685,7 +15690,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -15757,7 +15762,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 3035
+      "UsersEstimate": 3037
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -15773,7 +15778,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2428
+      "UsersEstimate": 2429
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -15820,15 +15825,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6745,
+      "Progressed": 6748,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-28T18:57:53.4773246+00:00",
-  "LastChanged_Achievements": "2023-12-29T20:05:01.6080308+00:00",
+  "LastChanged_Achievements": "2023-12-29T21:04:55.9458328+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:39.6786531+00:00",
-  "LastUpdate_Ratings": "2023-12-29T19:58:04.4826049+00:00",
-  "LastUpdate_Achievements": "2023-12-29T20:05:01.6081255+00:00"
+  "LastUpdate_Ratings": "2023-12-29T20:58:00.6240839+00:00",
+  "LastUpdate_Achievements": "2023-12-29T21:04:55.9459172+00:00"
 }

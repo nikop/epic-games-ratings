@@ -5,22 +5,22 @@ Rating: 4.52 (Ranked 569)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~6,691 |
-| Greasy Palms | 42.00% | ~6,109 |
-| South American Connection | 26.00% | ~3,782 |
-| Life of the Party | 20.00% | ~2,909 |
+| Legal Counsel | 46.00% | ~6,693 |
+| Greasy Palms | 42.00% | ~6,111 |
+| South American Connection | 26.00% | ~3,783 |
+| Life of the Party | 20.00% | ~2,910 |
 | Big Heat from Little Havana | 15.00% | ~2,182 |
 | Chauffeur | 15.00% | ~2,182 |
 | Tommy Two-Wheels | 15.00% | ~2,182 |
 | Salutations My Little Friend | 11.00% | ~1,600 |
-| Iron-y | 10.00% | ~1,454 |
-| Gun for Hire | 9.00% | ~1,309 |
+| Iron-y | 10.00% | ~1,455 |
+| Gun for Hire | 9.00% | ~1,310 |
 | Mischief Managed | 8.00% | ~1,164 |
 | Vice City Mogul | 6.00% | ~873 |
 | Catch Me if You Can | 6.00% | ~873 |
 | Bloodstained Hands | 6.00% | ~873 |
-| Not my First Time | 5.00% | ~727 |
-| Grand Theft Auto | 5.00% | ~727 |
+| Not my First Time | 5.00% | ~728 |
+| Grand Theft Auto | 5.00% | ~728 |
 | Pie Guy | 4.00% | ~582 |
 | Point A to Point B | 3.00% | ~436 |
 | High Quality H2O | 3.00% | ~436 |
@@ -33,14 +33,14 @@ Rating: 4.52 (Ranked 569)
 | Take the Cannoli | 2.00% | ~291 |
 | Chopper’d Up | 2.00% | ~291 |
 | City Sleuth | 2.00% | ~291 |
-| Born in the 80’s | 1.00% | ~145 |
-| Keepie-Uppy Okie Dokie | 1.00% | ~145 |
-| I'm Famous! | 1.00% | ~145 |
-| Daredevil | 1.00% | ~145 |
+| Born in the 80’s | 1.00% | ~146 |
+| Keepie-Uppy Okie Dokie | 1.00% | ~146 |
+| I'm Famous! | 1.00% | ~146 |
+| Daredevil | 1.00% | ~146 |
 | Done it All | 0.90% | ~131 |
 | Kingpin | 0.60% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,545 (Ranked 168)  
+Progressed: 14,550 (Ranked 168)  
 Completed: 83 (0.57%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 83 (0.57%) (Ranked 206)
 | 2023-12-26 | 14,192 | 76 |
 | 2023-12-27 | 14,318 | 79 |
 | 2023-12-28 | 14,428 | 82 |
-| 2023-12-29 | 14,545 | 83 |
+| 2023-12-29 | 14,550 | 83 |
 ## Awards
 Max (Great Boss Battles): 159  (Ranked 322)  
 Sum: 159 (Ranked 437)  

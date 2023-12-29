@@ -81,6 +81,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.20% | ~32 |
 | Circus Maximus | 0.20% | ~32 |
 | Colossus | 0.20% | ~32 |
+| Temple of Solomon | 0.20% | ~32 |
 | Pantheon | 0.20% | ~32 |
 | Learn to Play 3 | 0.20% | ~32 |
 | Greece | 0.20% | ~32 |
@@ -181,7 +182,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hardcore | 0.10% | ~16 |
 | Hagia Sophia | 0.10% | ~16 |
 | Church of the Holy Sepulchre | 0.10% | ~16 |
-| Temple of Solomon | 0.10% | ~16 |
 | Cao'an | 0.10% | ~16 |
 | Adur Burzen-Mihr | 0.10% | ~16 |
 | Via Recta Souk | 0.10% | ~16 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -43,9 +43,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1449,
+  "EOS_Progressed": 1451,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 395,
+  "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -2853,6 +2853,11 @@
       "Time": "2023-12-29T20:09:47.1283785+00:00",
       "NumProgressed": 1449,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-29T21:09:44.5088082+00:00",
+      "NumProgressed": 1451,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2864,7 +2869,7 @@
       "Name": "Break Out",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 840
+      "UsersEstimate": 842
     },
     {
       "ID": "ACH_02",
@@ -2872,7 +2877,7 @@
       "Name": "Find Allies",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH_03",
@@ -2880,7 +2885,7 @@
       "Name": "Powerful Allies",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_04",
@@ -2888,7 +2893,7 @@
       "Name": "Calm before the Storm",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_05",
@@ -2952,7 +2957,7 @@
       "Name": "Shardbearer",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_13",
@@ -2960,7 +2965,7 @@
       "Name": "Adventurer",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_14",
@@ -2974,9 +2979,9 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 246
+      "UsersEstimate": 261
     },
     {
       "ID": "ACH_16",
@@ -2992,7 +2997,7 @@
       "Name": "Shatterer",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_18",
@@ -3024,7 +3029,7 @@
       "Name": "Big Bazar",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_22",
@@ -3032,7 +3037,7 @@
       "Name": "Fine Feathers Make Fine Birds",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_23",
@@ -3064,7 +3069,7 @@
       "Name": "Scholar",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_27",
@@ -3072,7 +3077,7 @@
       "Name": "False God",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_28",
@@ -3080,7 +3085,7 @@
       "Name": "I Found It",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH_29",
@@ -3151,7 +3156,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1449,
+      "Progressed": 1451,
       "Completed": 3
     }
   ],
@@ -3159,8 +3164,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2023-12-27T23:57:06.3972881+00:00",
-  "LastChanged_Achievements": "2023-12-29T20:09:47.1283782+00:00",
+  "LastChanged_Achievements": "2023-12-29T21:09:44.5088079+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-29T19:58:01.3225793+00:00",
-  "LastUpdate_Achievements": "2023-12-29T20:09:47.1284122+00:00"
+  "LastUpdate_Ratings": "2023-12-29T20:57:57.4001895+00:00",
+  "LastUpdate_Achievements": "2023-12-29T21:09:44.5088431+00:00"
 }

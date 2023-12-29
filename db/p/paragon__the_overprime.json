@@ -2,13 +2,13 @@
   "ID": "7bb9b09415a544f78fadf6390b2e3a80",
   "Name": "Paragon: The Overprime",
   "ProductSlug": "paragon-the-overprime-0bca60",
-  "Ranking_Rating": 912,
+  "Ranking_Rating": 906,
   "Ranking_Popularity": 167,
   "Ranking_PopularitySum": 132,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 572,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-12-09T02:00:00+00:00",
     "PcReleaseDate": "2022-12-09T02:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.24,
+  "Rating": 4.25,
   "RatingHistory": [
     {
       "Time": "2022-11-10T14:19:52.8915147+00:00",
@@ -8167,10 +8167,16 @@
       "Rating": 4.24,
       "NumberOfAwards": 6381,
       "NumberOfAwardsMax": 886
+    },
+    {
+      "Time": "2023-12-29T20:57:31.6130571+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 6385,
+      "NumberOfAwardsMax": 886
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6381,
+  "NumberOfAwards": 6385,
   "NumberOfAwardsMax": 886,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -8244,7 +8250,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 671
+      "Count": 675
     },
     {
       "Text": "This game has Unique Visuals",
@@ -8265,8 +8271,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-07T03:53:37.8993563+00:00",
   "FirstSeenRating": "2022-11-10T14:19:52.8915141+00:00",
-  "LastChanged": "2023-12-29T19:57:36.4217383+00:00",
+  "LastChanged": "2023-12-29T20:57:31.613057+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:15.7871179+00:00",
-  "LastUpdate_Ratings": "2023-12-29T19:57:36.4217389+00:00",
-  "LastUpdate_Achievements": "2023-12-29T20:09:04.1734236+00:00"
+  "LastUpdate_Ratings": "2023-12-29T20:57:31.6130574+00:00",
+  "LastUpdate_Achievements": "2023-12-29T21:09:00.2991185+00:00"
 }

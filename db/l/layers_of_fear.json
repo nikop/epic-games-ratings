@@ -2,10 +2,10 @@
   "ID": "9df61912ce644d8096412ba0f516759a",
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fears-85a02b",
-  "Ranking_EOS_Progress": 415,
+  "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 279,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 225,
+  "EOS_Progressed": 226,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1024,6 +1024,11 @@
       "Time": "2023-12-29T20:08:17.728071+00:00",
       "NumProgressed": 225,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-29T21:08:12.4700335+00:00",
+      "NumProgressed": 226,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1036,7 +1041,7 @@
       "Name": "A new way",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "another_perspective",
@@ -1100,7 +1105,7 @@
       "Name": "Body of Work",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "collect_notes_mother",
@@ -1114,9 +1119,9 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 115
     },
     {
       "ID": "decrypt_one_myth",
@@ -1132,7 +1137,7 @@
       "Name": "It was worth a try",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "do_not_look",
@@ -1164,7 +1169,7 @@
       "Name": "Face your fears",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -1210,9 +1215,9 @@
       "ID": "find_one_rat_sketch",
       "SetID": "f2im8d",
       "Name": "The artist\u2019s impression",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 102
     },
     {
       "ID": "finished_it",
@@ -1220,7 +1225,7 @@
       "Name": "Finished it",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "first_step",
@@ -1228,7 +1233,7 @@
       "Name": "First steps",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "hear_most_of_interviews",
@@ -1236,7 +1241,7 @@
       "Name": "Full Scoop",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "hear_one_interview",
@@ -1284,7 +1289,7 @@
       "Name": "Lights! Camera! Action!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "once_upon_a_time",
@@ -1306,9 +1311,9 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 133
     },
     {
       "ID": "playtime",
@@ -1324,7 +1329,7 @@
       "Name": "Preferred Parent",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "rocket_science",
@@ -1372,7 +1377,7 @@
       "Name": "Something important",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "spy_one_item",
@@ -1428,7 +1433,7 @@
       "Name": "A Mosaic of Misery",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "wanderer",
@@ -1442,23 +1447,23 @@
       "ID": "whispers_long_forgotten",
       "SetID": "f2im8d",
       "Name": "Whispers long forgotten",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     }
   ],
   "AchievementSets": [
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 225,
+      "Progressed": 226,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-29T20:08:17.7280707+00:00",
+  "LastChanged_Achievements": "2023-12-29T21:08:12.4700331+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:25.6985759+00:00",
-  "LastUpdate_Ratings": "2023-12-29T19:59:28.2405406+00:00",
-  "LastUpdate_Achievements": "2023-12-29T20:08:17.7281229+00:00"
+  "LastUpdate_Ratings": "2023-12-29T20:59:28.0939772+00:00",
+  "LastUpdate_Achievements": "2023-12-29T21:08:12.4700721+00:00"
 }

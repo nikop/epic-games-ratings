@@ -5,19 +5,19 @@ Rating: 4.11 (Ranked 996)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 11.00% | ~5,020 |
-| Unlocked Potential | 10.00% | ~4,563 |
-| Tinkerer | 8.00% | ~3,651 |
-| Leapfrogger | 7.00% | ~3,194 |
-| Knock 'Em Dead | 7.00% | ~3,194 |
-| Pilgrimage: Initiate | 7.00% | ~3,194 |
-| Hell of a Run | 7.00% | ~3,194 |
-| Call of the Fount: Baptized | 6.00% | ~2,738 |
+| Attachments | 11.00% | ~5,021 |
+| Unlocked Potential | 10.00% | ~4,564 |
+| Tinkerer | 8.00% | ~3,652 |
+| Leapfrogger | 7.00% | ~3,195 |
+| Knock 'Em Dead | 7.00% | ~3,195 |
+| Pilgrimage: Initiate | 7.00% | ~3,195 |
+| Hell of a Run | 7.00% | ~3,195 |
+| Call of the Fount: Baptized | 6.00% | ~2,739 |
 | Stuck | 5.00% | ~2,282 |
 | No Mercy | 5.00% | ~2,282 |
 | Explorer: Seeker | 5.00% | ~2,282 |
 | Help Me Out Here | 5.00% | ~2,282 |
-| Through the Eyes of Another: Empath | 4.00% | ~1,825 |
+| Through the Eyes of Another: Empath | 4.00% | ~1,826 |
 | Outdoorsperson | 3.00% | ~1,369 |
 | The Interloper | 3.00% | ~1,369 |
 | Hop, Step, Jump | 3.00% | ~1,369 |
@@ -34,8 +34,8 @@ Rating: 4.11 (Ranked 996)
 | None the Wiser | 1.00% | ~456 |
 | Forspoken | 1.00% | ~456 |
 | Pilgrimage: Novice | 1.00% | ~456 |
-| Wildfire | 0.70% | ~319 |
-| Realized Potential | 0.70% | ~319 |
+| Wildfire | 0.70% | ~320 |
+| Realized Potential | 0.70% | ~320 |
 | Awakening | 0.60% | ~274 |
 | Explorer: Trailblazer | 0.60% | ~274 |
 | Through the Eyes of Another: Seer | 0.40% | ~183 |
@@ -59,7 +59,7 @@ Rating: 4.11 (Ranked 996)
 | Remembrance | 0.10% | ~46 |
 | Cat Person | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,633 (Ranked 122)  
+Progressed: 45,645 (Ranked 122)  
 Completed: 3 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 3 (0.01%) (Ranked 367)
 | 2023-12-26 | 45,329 | 3 |
 | 2023-12-27 | 45,433 | 3 |
 | 2023-12-28 | 45,528 | 3 |
-| 2023-12-29 | 45,633 | 3 |
+| 2023-12-29 | 45,645 | 3 |
 ## Awards
 Max (Character Customization): 33  (Ranked 508)  
 Sum: 33 (Ranked 532)  

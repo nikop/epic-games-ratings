@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 84.00% | ~189 |
-| A piece of the story | 60.00% | ~135 |
+| Something important | 84.00% | ~190 |
+| A piece of the story | 59.00% | ~133 |
 | Wanderer | 54.00% | ~122 |
-| It's covered up for a reason | 52.00% | ~117 |
+| It's covered up for a reason | 51.00% | ~115 |
 | Scraps of love | 46.00% | ~104 |
-| The artist’s impression | 44.00% | ~99 |
+| The artist’s impression | 45.00% | ~102 |
 | Do what you have to | 43.00% | ~97 |
 | Sign of weakness | 39.00% | ~88 |
 | Refuse to look | 35.00% | ~79 |
-| Face your fears | 29.00% | ~65 |
-| Finished it | 26.00% | ~58 |
-| Whispers long forgotten | 16.00% | ~36 |
+| Face your fears | 29.00% | ~66 |
+| Finished it | 26.00% | ~59 |
+| Whispers long forgotten | 15.00% | ~34 |
 | A Slice of Life | 11.00% | ~25 |
 | Debut | 11.00% | ~25 |
 | Sound Bite | 11.00% | ~25 |
@@ -23,9 +23,9 @@
 | The art of movement | 11.00% | ~25 |
 | The tragedy unfolds | 11.00% | ~25 |
 | Tough conversation | 11.00% | ~25 |
-| A new way | 10.00% | ~22 |
-| First steps | 10.00% | ~22 |
-| Lights! Camera! Action! | 10.00% | ~22 |
+| A new way | 10.00% | ~23 |
+| First steps | 10.00% | ~23 |
+| Lights! Camera! Action! | 10.00% | ~23 |
 | Another perspective | 9.00% | ~20 |
 | Breaking free | 9.00% | ~20 |
 | True Reflection | 7.00% | ~16 |
@@ -40,11 +40,11 @@
 | The Perfect Storm | 4.00% | ~9 |
 | Dark correspondence | 3.00% | ~7 |
 | Se7en Seas | 3.00% | ~7 |
-| Body of Work | 2.00% | ~4 |
-| It was worth a try | 2.00% | ~4 |
-| Full Scoop | 2.00% | ~4 |
-| Preferred Parent | 2.00% | ~4 |
-| A Mosaic of Misery | 2.00% | ~4 |
+| Body of Work | 2.00% | ~5 |
+| It was worth a try | 2.00% | ~5 |
+| Full Scoop | 2.00% | ~5 |
+| Preferred Parent | 2.00% | ~5 |
+| A Mosaic of Misery | 2.00% | ~5 |
 | The Big Picture | 1.00% | ~2 |
 | In One Take | 1.00% | ~2 |
 | Sword of the Serpent | 1.00% | ~2 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225 (Ranked 415)  
+Progressed: 226 (Ranked 414)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,4 +124,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 208 | 0 |
 | 2023-12-27 | 213 | 0 |
 | 2023-12-28 | 220 | 0 |
-| 2023-12-29 | 225 | 0 |
+| 2023-12-29 | 226 | 0 |

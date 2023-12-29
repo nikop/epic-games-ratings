@@ -4,8 +4,8 @@
   "ProductSlug": "doodle-god-f6a7b6",
   "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 479,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
     "PcReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 268,
+  "EOS_Progressed": 269,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.73,
+  "EOS_Completed_Percentage": 3.72,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:26.6583072+00:00",
@@ -424,6 +424,11 @@
       "Time": "2023-12-29T20:04:48.4942721+00:00",
       "NumProgressed": 268,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-29T21:04:42.2027526+00:00",
+      "NumProgressed": 269,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 22,
@@ -435,7 +440,7 @@
       "Name": "Good Start",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "605742",
@@ -443,7 +448,7 @@
       "Name": "Creator of Diversity",
       "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "605752",
@@ -451,7 +456,7 @@
       "Name": "Creator of Life",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "605762",
@@ -459,7 +464,7 @@
       "Name": "Creator of Humanity",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "605772",
@@ -467,7 +472,7 @@
       "Name": "Creator of Civilization",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "605782",
@@ -475,15 +480,15 @@
       "Name": "Creator of Technology",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "605792",
       "SetID": "4lpaifm",
       "Name": "Creator of Modernity",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "605802",
@@ -507,7 +512,7 @@
       "Name": "Brilliant Inventor",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "605832",
@@ -529,9 +534,9 @@
       "ID": "605852",
       "SetID": "4lpaifm",
       "Name": "Doodle Bar",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "605862",
@@ -547,7 +552,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 85,
       "XP": 25,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "605892",
@@ -555,7 +560,7 @@
       "Name": "Similar to Similar",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "605912",
@@ -603,14 +608,14 @@
       "Name": "Heavenly Virtues",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     }
   ],
   "AchievementSets": [
     {
       "ID": "4lpaifm",
       "IsBase": true,
-      "Progressed": 268,
+      "Progressed": 269,
       "Completed": 10
     }
   ],
@@ -618,8 +623,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-12-29T20:04:48.4942718+00:00",
+  "LastChanged_Achievements": "2023-12-29T21:04:42.2027523+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:39.7169826+00:00",
-  "LastUpdate_Ratings": "2023-12-29T19:59:02.9245333+00:00",
-  "LastUpdate_Achievements": "2023-12-29T20:04:48.4942855+00:00"
+  "LastUpdate_Ratings": "2023-12-29T20:59:01.3326779+00:00",
+  "LastUpdate_Achievements": "2023-12-29T21:04:42.202771+00:00"
 }

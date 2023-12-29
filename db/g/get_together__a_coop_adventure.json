@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 496,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-04-10T13:00:00+00:00",
     "PcReleaseDate": "2021-10-14T16:00:00+00:00",
@@ -270,9 +270,9 @@
       "ID": "GT_ACH_CAVESYNC",
       "SetID": "883j7b4",
       "Name": "Beam me up",
-      "Percentage": 60,
+      "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "GT_ACH_ELEVATOR",
@@ -294,9 +294,9 @@
       "ID": "GT_ACH_FREECOMP",
       "SetID": "883j7b4",
       "Name": "Uncaged",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "GT_ACH_GATE",
@@ -318,9 +318,9 @@
       "ID": "GT_ACH_REALMLOW",
       "SetID": "883j7b4",
       "Name": "Rock Bottom",
-      "Percentage": 56,
+      "Percentage": 58,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "GT_ACH_RITUALEND",
@@ -359,8 +359,8 @@
   "FirstSeenRating": "2023-04-16T21:58:05.2747204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.6991461+00:00",
   "LastChanged": "2023-04-16T21:58:05.2747204+00:00",
-  "LastChanged_Achievements": "2023-12-29T20:08:16.2126795+00:00",
+  "LastChanged_Achievements": "2023-12-29T21:08:10.8736613+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:00.8201322+00:00",
-  "LastUpdate_Ratings": "2023-12-29T19:59:56.7936845+00:00",
-  "LastUpdate_Achievements": "2023-12-29T20:08:16.2126888+00:00"
+  "LastUpdate_Ratings": "2023-12-29T20:59:57.8292905+00:00",
+  "LastUpdate_Achievements": "2023-12-29T21:08:10.873673+00:00"
 }

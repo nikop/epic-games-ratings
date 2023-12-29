@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,940 |
+| A Brief Tour of the Realms | 2.00% | ~4,941 |
 | The Cursed Farmer | 1.00% | ~2,470 |
 | Beast Intentions | 0.70% | ~1,729 |
 | Welcome to Sigil | 0.70% | ~1,493 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~213 |
 | The Brains of an Illithid's Desire | 0.10% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,001 (Ranked 68)  
+Progressed: 247,043 (Ranked 68)  
 Completed: 2,575 (1.04%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -806,14 +806,14 @@ Completed: 2,575 (1.04%) (Ranked 168)
 | 2023-12-26 | 245,031 | 2,566 |
 | 2023-12-27 | 245,531 | 2,567 |
 | 2023-12-28 | 246,305 | 2,573 |
-| 2023-12-29 | 247,001 | 2,575 |
+| 2023-12-29 | 247,043 | 2,575 |
 ## Awards
-Max (Great for Beginners): 5,708  (Ranked 71)  
-Sum: 33,173 (Ranked 41)  
+Max (Great for Beginners): 5,715  (Ranked 71)  
+Sum: 33,180 (Ranked 41)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 5,708 |
+| This game is Great for Beginners | 5,715 |
 | This game has Diverse Characters | 5,657 |
 | This game has Quickly Understood Controls | 4,872 |
 | This game is Relaxing | 4,751 |
@@ -1160,4 +1160,4 @@ Diff (max vs sum): 30
 | 2023-12-26 | 4.06 | - | 5,696 | 33,100 |
 | 2023-12-27 | 4.06 | - | 5,701 | 33,129 |
 | 2023-12-28 | 4.06 | - | 5,708 | 33,156 |
-| 2023-12-29 | 4.06 | - | 5,708 | 33,173 |
+| 2023-12-29 | 4.06 | - | 5,715 | 33,180 |

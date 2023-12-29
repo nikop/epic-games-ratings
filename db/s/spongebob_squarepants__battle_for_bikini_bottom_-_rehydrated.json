@@ -5,10 +5,10 @@
   "Ranking_Rating": 297,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 524,
-  "Ranking_EOS_Progress": 342,
+  "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -317,9 +317,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 498,
+  "EOS_Progressed": 500,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 284,
+  "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -1382,6 +1382,11 @@
       "Time": "2023-12-29T20:05:48.9213067+00:00",
       "NumProgressed": 498,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-29T21:05:45.0183133+00:00",
+      "NumProgressed": 500,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1576,9 +1581,9 @@
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Ultra Spatula Seeker",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_STAT_75_SPATULA_SEEKER",
@@ -1649,15 +1654,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 498,
+      "Progressed": 500,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-29T20:05:48.9213063+00:00",
+  "LastChanged_Achievements": "2023-12-29T21:05:45.0183129+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-29T20:02:36.427103+00:00",
-  "LastUpdate_Achievements": "2023-12-29T20:05:48.9213309+00:00"
+  "LastUpdate_Ratings": "2023-12-29T21:02:26.2685281+00:00",
+  "LastUpdate_Achievements": "2023-12-29T21:05:45.0183332+00:00"
 }

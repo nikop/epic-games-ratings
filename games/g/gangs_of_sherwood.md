@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 88.00% | ~92 |
-| Air Fighter | 74.00% | ~78 |
-| Oo-De-Lally | 70.00% | ~74 |
-| Treasure Hunter | 65.00% | ~68 |
-| The Altruist | 64.00% | ~67 |
-| Watch your Step! | 52.00% | ~55 |
-| Tap Dancing | 50.00% | ~52 |
-| MAX LEVEL | 49.00% | ~51 |
-| Right between the eyes | 40.00% | ~42 |
-| Starry Night | 39.00% | ~41 |
-| Spring Board | 38.00% | ~40 |
-| Locksley's Tears | 36.00% | ~38 |
+| Act of Kindness | 88.00% | ~94 |
+| Air Fighter | 74.00% | ~79 |
+| Oo-De-Lally | 71.00% | ~76 |
+| Treasure Hunter | 65.00% | ~70 |
+| The Altruist | 63.00% | ~67 |
+| Watch your Step! | 52.00% | ~56 |
+| MAX LEVEL | 50.00% | ~54 |
+| Tap Dancing | 49.00% | ~52 |
+| Right between the eyes | 40.00% | ~43 |
+| Starry Night | 39.00% | ~42 |
+| Spring Board | 37.00% | ~40 |
+| Locksley's Tears | 36.00% | ~39 |
 | Rebel Unleashed | 34.00% | ~36 |
-| Merry Co-operation | 30.00% | ~32 |
-| Finish Him! | 25.00% | ~26 |
-| Assault on the Ram | 25.00% | ~26 |
-| Ultra Rebel Instinct | 22.00% | ~23 |
-| First Aid | 22.00% | ~23 |
+| Merry Co-operation | 29.00% | ~31 |
+| Finish Him! | 24.00% | ~26 |
+| Assault on the Ram | 24.00% | ~26 |
+| Ultra Rebel Instinct | 21.00% | ~22 |
+| First Aid | 21.00% | ~22 |
 | Merry Go Round | 21.00% | ~22 |
 | Savior | 16.00% | ~17 |
 | Hidden Experiment | 16.00% | ~17 |
 | Take Action! | 15.00% | ~16 |
+| Ascending Will | 14.00% | ~15 |
 | Ultra Combo | 14.00% | ~15 |
-| Ascending Will | 13.00% | ~14 |
 | Into the Lion's Den | 11.00% | ~12 |
-| Sky High Fighter | 10.00% | ~10 |
-| Haute Couture | 10.00% | ~10 |
+| Sky High Fighter | 10.00% | ~11 |
+| Haute Couture | 9.00% | ~10 |
 | The Gang prevails | 7.00% | ~7 |
 | Brilliant Executioner | 6.00% | ~6 |
 | Bold and Bossy | 5.00% | ~5 |
@@ -43,10 +43,10 @@
 | Only Child | 2.00% | ~2 |
 | The Arsenal | 2.00% | ~2 |
 | Master of One | 2.00% | ~2 |
-| Sherwood Moment 37 | 1.00% | ~1 |
-| The Crowkiller | 1.00% | ~1 |
-| Money can not buy happiness | 1.00% | ~1 |
-| Fashionista | 1.00% | ~1 |
+| Sherwood Moment 37 | 0.90% | ~1 |
+| The Crowkiller | 0.90% | ~1 |
+| Money can not buy happiness | 0.90% | ~1 |
+| Fashionista | 0.90% | ~1 |
 | Challenger | 0.00% | ~0 |
 | The Apprentice | 0.00% | ~0 |
 | Lore-ified | 0.00% | ~0 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 105 (Ranked 480)  
+Progressed: 107 (Ranked 479)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,4 +94,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-25 | 99 | 0 |
 | 2023-12-26 | 103 | 0 |
 | 2023-12-28 | 104 | 0 |
-| 2023-12-29 | 105 | 0 |
+| 2023-12-29 | 107 | 0 |

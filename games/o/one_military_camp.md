@@ -49,7 +49,7 @@
 | First Victory | 0.00% | ~0 |
 | Sandbox Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255 (Ranked 403)  
+Progressed: 256 (Ranked 403)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,4 +137,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-26 | 243 | 0 |
 | 2023-12-27 | 247 | 0 |
 | 2023-12-28 | 251 | 0 |
-| 2023-12-29 | 255 | 0 |
+| 2023-12-29 | 256 | 0 |
