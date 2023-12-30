@@ -6,25 +6,25 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~608 |
+| Malpractice Assurance | 11.00% | ~609 |
 | Lost and Found | 7.00% | ~387 |
 | Autodidact | 6.00% | ~7,840 |
 | This guy... again? | 6.00% | ~332 |
 | This Belongs in a Museum | 5.00% | ~6,533 |
 | Creep and Sleep | 5.00% | ~6,533 |
 | Overdue Notice | 5.00% | ~6,533 |
-| Ploughshares to Swords | 5.00% | ~276 |
-| Bloody Graduation | 5.00% | ~276 |
-| Don't Make Me Turn This Coach Around | 4.00% | ~5,226 |
-| Serenity Now! | 4.00% | ~5,226 |
-| It Rings a Bell | 4.00% | ~5,226 |
-| Not Today! | 4.00% | ~5,226 |
-| Meat and Greet | 4.00% | ~5,226 |
-| Catch and Decease | 4.00% | ~5,226 |
-| Escape from the Black Hole | 4.00% | ~5,226 |
-| Rush Hour | 4.00% | ~5,226 |
-| To Grandmother's House | 4.00% | ~5,226 |
-| FNG | 4.00% | ~5,226 |
+| Ploughshares to Swords | 5.00% | ~277 |
+| Bloody Graduation | 5.00% | ~277 |
+| Don't Make Me Turn This Coach Around | 4.00% | ~5,227 |
+| Serenity Now! | 4.00% | ~5,227 |
+| It Rings a Bell | 4.00% | ~5,227 |
+| Not Today! | 4.00% | ~5,227 |
+| Meat and Greet | 4.00% | ~5,227 |
+| Catch and Decease | 4.00% | ~5,227 |
+| Escape from the Black Hole | 4.00% | ~5,227 |
+| Rush Hour | 4.00% | ~5,227 |
+| To Grandmother's House | 4.00% | ~5,227 |
+| FNG | 4.00% | ~5,227 |
 | Friends 'Til the End | 4.00% | ~221 |
 | Dissector | 3.00% | ~3,920 |
 | Banishment | 3.00% | ~3,920 |
@@ -47,6 +47,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hope Rekindled | 2.00% | ~2,613 |
 | Predator | 2.00% | ~2,613 |
 | Deprogramming | 2.00% | ~2,613 |
+| Ichthyophobic | 2.00% | ~2,613 |
 | Now Stay Dead | 2.00% | ~2,613 |
 | Reverse Banditry | 2.00% | ~2,613 |
 | A Clear Conscience | 2.00% | ~2,613 |
@@ -56,7 +57,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hot Air | 2.00% | ~2,613 |
 | Road Trip | 2.00% | ~2,613 |
 | This Looks Familiar | 1.00% | ~1,307 |
-| Ichthyophobic | 1.00% | ~1,307 |
 | No More Mouths to Feed | 1.00% | ~1,307 |
 | Eyes Up | 1.00% | ~1,307 |
 | Handled | 1.00% | ~1,307 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,659 (Ranked 88)  
+Progressed: 130,663 (Ranked 88)  
 Completed: 3 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 3 (0.00%) (Ranked 390)
 | 2023-12-27 | 130,259 | 3 |
 | 2023-12-28 | 130,422 | 3 |
 | 2023-12-29 | 130,627 | 3 |
-| 2023-12-30 | 130,659 | 3 |
+| 2023-12-30 | 130,663 | 3 |
 ## Awards
 Max (Character Customization): 7,899  (Ranked 50)  
 Sum: 21,244 (Ranked 58)  

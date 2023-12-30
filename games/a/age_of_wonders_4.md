@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.63 (Ranked 354)  
+Rating: 4.63 (Ranked 355)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 354)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,502 (Ranked 195)  
+Progressed: 6,504 (Ranked 195)  
 Completed: 7 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,14 +288,14 @@ Completed: 7 (0.11%) (Ranked 304)
 | 2023-12-27 | 6,359 | 7 |
 | 2023-12-28 | 6,414 | 7 |
 | 2023-12-29 | 6,495 | 7 |
-| 2023-12-30 | 6,502 | 7 |
+| 2023-12-30 | 6,504 | 7 |
 ## Awards
-Max (Diverse Characters): 38  (Ranked 481)  
-Sum: 161 (Ranked 436)  
-Diff (max vs sum): 45  
+Max (Great for Beginners): 39  (Ranked 478)  
+Sum: 162 (Ranked 436)  
+Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 38 |
+| This game is Great for Beginners | 39 |
 | This game has Diverse Characters | 38 |
 | This game is Extremely Fun | 24 |
 | This game is Highly Recommended | 21 |
@@ -382,3 +382,4 @@ Diff (max vs sum): 45
 | 2023-12-26 | 4.63 | 38 | 138 |
 | 2023-12-27 | 4.63 | 38 | 140 |
 | 2023-12-29 | 4.63 | 38 | 161 |
+| 2023-12-30 | 4.63 | 39 | 162 |

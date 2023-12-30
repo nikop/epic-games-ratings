@@ -51,7 +51,7 @@
   "Tags": [],
   "EOS_Progressed": 1161,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3071,9 +3071,9 @@
       "ID": "AchvBombStop",
       "SetID": "1hj060c",
       "Name": "Peacemaker",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 244
+      "UsersEstimate": 255
     },
     {
       "ID": "AchvBombing",
@@ -3280,8 +3280,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2023-12-29T16:59:59.7446678+00:00",
-  "LastChanged_Achievements": "2023-12-30T03:10:13.3431413+00:00",
+  "LastChanged_Achievements": "2023-12-30T04:09:00.4357304+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:33.4496725+00:00",
-  "LastUpdate_Ratings": "2023-12-30T03:01:09.4142413+00:00",
-  "LastUpdate_Achievements": "2023-12-30T03:10:13.3431737+00:00"
+  "LastUpdate_Ratings": "2023-12-30T03:59:43.493938+00:00",
+  "LastUpdate_Achievements": "2023-12-30T04:09:00.4357632+00:00"
 }

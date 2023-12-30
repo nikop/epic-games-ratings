@@ -552,9 +552,9 @@
       "ID": "Circle_Page",
       "SetID": "7b9f97e",
       "Name": "The Circle",
-      "Percentage": 36,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Craft_First_Glyph",
@@ -1073,8 +1073,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-30T03:10:05.232558+00:00",
+  "LastChanged_Achievements": "2023-12-30T04:08:54.6016512+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:59.8342504+00:00",
-  "LastUpdate_Ratings": "2023-12-30T02:58:09.388558+00:00",
-  "LastUpdate_Achievements": "2023-12-30T03:10:05.2326084+00:00"
+  "LastUpdate_Ratings": "2023-12-30T03:57:43.4322888+00:00",
+  "LastUpdate_Achievements": "2023-12-30T04:08:54.6016962+00:00"
 }

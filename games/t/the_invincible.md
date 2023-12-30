@@ -15,7 +15,7 @@ Rating: 4.56 (Ranked 500)
 | The End | 34.00% | ~395 |
 | Krauta is alive | 27.00% | ~313 |
 | The Necroevolution | 27.00% | ~313 |
-| Peacemaker | 21.00% | ~244 |
+| Peacemaker | 22.00% | ~255 |
 | Volcanologist | 21.00% | ~244 |
 | On her own | 20.00% | ~232 |
 | Fierce fight | 19.00% | ~221 |

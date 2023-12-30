@@ -40,6 +40,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Cities | 0.40% | ~64 |
 | Furious Family | 0.40% | ~64 |
 | Apadana | 0.40% | ~64 |
+| Great Ziggurat | 0.40% | ~64 |
 | Ishtar Gate | 0.40% | ~64 |
 | Lighthouse | 0.40% | ~64 |
 | Pyramids | 0.40% | ~64 |
@@ -48,6 +49,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonian Paganism | 0.40% | ~64 |
 | Roman Paganism | 0.40% | ~64 |
 | Zoroastrianism | 0.40% | ~64 |
+| Beloved | 0.30% | ~48 |
 | Drillmaster | 0.30% | ~48 |
 | Great | 0.30% | ~48 |
 | Intercessor | 0.30% | ~48 |
@@ -56,16 +58,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 0.30% | ~48 |
 | Acropolis | 0.30% | ~48 |
 | Colossus | 0.30% | ~48 |
-| Great Ziggurat | 0.30% | ~48 |
 | Mausoleum | 0.30% | ~48 |
 | Musaeum | 0.30% | ~48 |
 | Necropolis | 0.30% | ~48 |
 | Learn to Play 2 | 0.30% | ~48 |
 | Manichaeism | 0.30% | ~48 |
 | Carthaginian Paganism | 0.30% | ~48 |
+| Building Wonders | 0.30% | ~48 |
 | Bad Heir Day | 0.20% | ~32 |
 | Hanging Gardens in Babylon | 0.20% | ~32 |
-| Beloved | 0.20% | ~32 |
 | Capable | 0.20% | ~32 |
 | Conqueror | 0.20% | ~32 |
 | Mighty | 0.20% | ~32 |
@@ -79,6 +80,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patrons | 0.20% | ~32 |
 | Riders | 0.20% | ~32 |
 | Sages | 0.20% | ~32 |
+| Statesmen | 0.20% | ~32 |
 | Traders | 0.20% | ~32 |
 | Hittite Iron | 0.20% | ~32 |
 | Circus Maximus | 0.20% | ~32 |
@@ -91,12 +93,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyrian Paganism | 0.20% | ~32 |
 | Egyptian Paganism | 0.20% | ~32 |
 | Persian Paganism | 0.20% | ~32 |
-| Building Wonders | 0.20% | ~32 |
 | Economic Reform | 0.20% | ~32 |
 | Military Prestige | 0.20% | ~32 |
 | Enlightenment | 0.20% | ~32 |
 | Gnosticism | 0.20% | ~32 |
 | Mythology | 0.20% | ~32 |
+| Cimmerian Archer | 0.20% | ~32 |
 | Legionary | 0.20% | ~32 |
 | Points Victory | 0.20% | ~32 |
 | Win a Single Player Game | 0.20% | ~32 |
@@ -156,7 +158,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Event Level High | 0.10% | ~16 |
 | Clerics | 0.10% | ~16 |
 | Hunters | 0.10% | ~16 |
-| Statesmen | 0.10% | ~16 |
 | Battle of the Fertile Crescent | 0.10% | ~16 |
 | The Eternal Treaty | 0.10% | ~16 |
 | Five Routs | 0.10% | ~16 |
@@ -226,7 +227,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.10% | ~16 |
 | Word of God | 0.10% | ~16 |
 | Cataphract Archer | 0.10% | ~16 |
-| Cimmerian Archer | 0.10% | ~16 |
 | Three Man Chariot | 0.10% | ~16 |
 | Kushite Cavalry | 0.10% | ~16 |
 | Phalangite | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,016 (Ranked 165)  
+Progressed: 16,017 (Ranked 165)  
 Completed: 5 (0.03%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -619,7 +619,7 @@ Completed: 5 (0.03%) (Ranked 351)
 | 2023-12-27 | 15,978 | 5 |
 | 2023-12-28 | 15,997 | 5 |
 | 2023-12-29 | 16,011 | 5 |
-| 2023-12-30 | 16,016 | 5 |
+| 2023-12-30 | 16,017 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 284)  
 Sum: 1,912 (Ranked 220)  

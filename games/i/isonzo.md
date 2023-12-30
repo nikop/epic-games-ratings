@@ -303,7 +303,7 @@ Completed: 10 (0.10%) (Ranked 306)
 | 2023-12-30 | 9,670 | 10 |
 ## Awards
 Max (Diverse Characters): 41  (Ranked 474)  
-Sum: 334 (Ranked 368)  
+Sum: 335 (Ranked 368)  
 Diff (max vs sum): 106  
 | Award | Count |
 | ----- | ----- |
@@ -315,7 +315,7 @@ Diff (max vs sum): 106
 | This game has Amazing Characters | 34 |
 | This game is Educational | 32 |
 | This game has Quickly Understood Controls | 31 |
-| This game has Competitive Players | 27 |
+| This game has Competitive Players | 28 |
 | This game has Amazing Storytelling | 25 |
 | This game has a Kind Community | 20 |
 ## Ratings History
@@ -461,3 +461,4 @@ Diff (max vs sum): 106
 | 2023-12-26 | 4.58 | - | 41 | 332 |
 | 2023-12-27 | 4.58 | - | 41 | 333 |
 | 2023-12-29 | 4.58 | - | 41 | 334 |
+| 2023-12-30 | 4.58 | - | 41 | 335 |

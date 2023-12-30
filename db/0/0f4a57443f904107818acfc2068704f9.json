@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1129,
+  "EOS_Progressed": 1130,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2762,6 +2762,11 @@
       "Time": "2023-12-30T03:07:48.1667448+00:00",
       "NumProgressed": 1129,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T04:06:03.2986481+00:00",
+      "NumProgressed": 1130,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2782,7 +2787,7 @@
       "Name": "Territorial",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -2846,7 +2851,7 @@
       "Name": "The Artefact is Mine",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "CompleteChapter12",
@@ -2918,7 +2923,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "CompleteChapter3",
@@ -2966,7 +2971,7 @@
       "Name": "Troggoff Troubles",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "CompleteChapter9",
@@ -3069,14 +3074,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1129,
+      "Progressed": 1130,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-30T03:07:48.1667443+00:00",
+  "LastChanged_Achievements": "2023-12-30T04:06:03.2986478+00:00",
   "LastUpdate_AppInfo": "2023-12-29T09:57:13.5043463+00:00",
-  "LastUpdate_Ratings": "2023-12-30T02:57:36.5457314+00:00",
-  "LastUpdate_Achievements": "2023-12-30T03:07:48.1667944+00:00"
+  "LastUpdate_Ratings": "2023-12-30T03:57:21.84666+00:00",
+  "LastUpdate_Achievements": "2023-12-30T04:06:03.298676+00:00"
 }

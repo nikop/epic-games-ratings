@@ -46,6 +46,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Expensive Look | 0.60% | ~21 |
 | What Doesn't Kill You | 0.60% | ~21 |
 | Consecutive Curses | 0.50% | ~1,210 |
+| To The Death! | 0.50% | ~1,210 |
 | Just Chilling | 0.50% | ~1,210 |
 | Save Our Souls | 0.50% | ~1,210 |
 | Stop Hitting Yourself | 0.50% | ~1,210 |
@@ -56,7 +57,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shadow Spreads | 0.40% | ~968 |
 | Max Damage! | 0.40% | ~968 |
 | A Rough Road | 0.40% | ~968 |
-| To The Death! | 0.40% | ~968 |
 | Well Prepared | 0.40% | ~968 |
 | Don't Ignore Me! | 0.40% | ~968 |
 | All Consuming | 0.40% | ~968 |

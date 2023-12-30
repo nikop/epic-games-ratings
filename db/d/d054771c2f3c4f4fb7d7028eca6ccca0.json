@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3097,
+  "EOS_Progressed": 3099,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 564,
   "EOS_NewCompleters": 0,
@@ -3289,6 +3289,11 @@
       "Time": "2023-12-30T03:08:18.5612011+00:00",
       "NumProgressed": 3097,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T04:06:10.1363741+00:00",
+      "NumProgressed": 3099,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -3325,7 +3330,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -3405,7 +3410,7 @@
       "Name": "Worthy Badge",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -3485,7 +3490,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1054
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -3501,7 +3506,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -3676,14 +3681,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 3097,
+      "Progressed": 3099,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2023-12-30T03:08:18.5612007+00:00",
+  "LastChanged_Achievements": "2023-12-30T04:06:10.1363737+00:00",
   "LastUpdate_AppInfo": "2023-12-26T12:59:42.4793606+00:00",
-  "LastUpdate_Ratings": "2023-12-30T02:59:03.9759625+00:00",
-  "LastUpdate_Achievements": "2023-12-30T03:08:18.5612586+00:00"
+  "LastUpdate_Ratings": "2023-12-30T03:58:19.4814594+00:00",
+  "LastUpdate_Achievements": "2023-12-30T04:06:10.1364123+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
   "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 391,
+  "Ranking_EOS_NewPlayers": 380,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57,
+  "EOS_Progressed": 58,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -304,6 +304,11 @@
       "Time": "2023-12-29T19:08:32.7155604+00:00",
       "NumProgressed": 57,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T04:03:11.103571+00:00",
+      "NumProgressed": 58,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.7079864+00:00",
@@ -314,7 +319,7 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "7on801h",
       "Name": "We Are Human Beings",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -330,7 +335,7 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "7on801h",
       "Name": "Singh No Swan Song",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
       "UsersEstimate": 18
     },
@@ -362,7 +367,7 @@
       "ID": "NEW_ACHIEVEMENT_1_15",
       "SetID": "7on801h",
       "Name": "The Golden Rookery",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -378,7 +383,7 @@
       "ID": "NEW_ACHIEVEMENT_1_17",
       "SetID": "7on801h",
       "Name": "The Net Is Vast and Infinite",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -394,7 +399,7 @@
       "ID": "NEW_ACHIEVEMENT_1_19",
       "SetID": "7on801h",
       "Name": "Time Traveler",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -402,7 +407,7 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "7on801h",
       "Name": "Pacifist",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -410,7 +415,7 @@
       "ID": "NEW_ACHIEVEMENT_1_20",
       "SetID": "7on801h",
       "Name": "Tablet Collector",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -450,7 +455,7 @@
       "ID": "NEW_ACHIEVEMENT_1_25",
       "SetID": "7on801h",
       "Name": "The Invincible Body, Fighting an Iron Devil",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -458,7 +463,7 @@
       "ID": "NEW_ACHIEVEMENT_1_26",
       "SetID": "7on801h",
       "Name": "Slow \u0026 Sharp",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -466,7 +471,7 @@
       "ID": "NEW_ACHIEVEMENT_1_27",
       "SetID": "7on801h",
       "Name": "This is Great for Spring Cleaning",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -474,7 +479,7 @@
       "ID": "NEW_ACHIEVEMENT_1_28",
       "SetID": "7on801h",
       "Name": "Ramming Speed!!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -482,7 +487,7 @@
       "ID": "NEW_ACHIEVEMENT_1_29",
       "SetID": "7on801h",
       "Name": "Express Elevator to Hell, Going Down",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -498,7 +503,7 @@
       "ID": "NEW_ACHIEVEMENT_1_30",
       "SetID": "7on801h",
       "Name": "Invisible War",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -562,7 +567,7 @@
       "ID": "NEW_ACHIEVEMENT_2_0",
       "SetID": "7on801h",
       "Name": "****! Taser Fist!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -594,7 +599,7 @@
       "ID": "NEW_ACHIEVEMENT_2_12",
       "SetID": "7on801h",
       "Name": "Ballsy",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -602,7 +607,7 @@
       "ID": "NEW_ACHIEVEMENT_2_13",
       "SetID": "7on801h",
       "Name": "Adept of the Metaverse",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -610,7 +615,7 @@
       "ID": "NEW_ACHIEVEMENT_2_14",
       "SetID": "7on801h",
       "Name": "Fresh Out of the Package",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -626,7 +631,7 @@
       "ID": "NEW_ACHIEVEMENT_2_16",
       "SetID": "7on801h",
       "Name": "Data Detective",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -650,7 +655,7 @@
       "ID": "NEW_ACHIEVEMENT_2_19",
       "SetID": "o6aioj",
       "Name": "Extract the Data\u2026",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -658,7 +663,7 @@
       "ID": "NEW_ACHIEVEMENT_2_2",
       "SetID": "7on801h",
       "Name": "Samizdat",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -666,7 +671,7 @@
       "ID": "NEW_ACHIEVEMENT_2_20",
       "SetID": "o6aioj",
       "Name": "Expose the Truth!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -674,7 +679,7 @@
       "ID": "NEW_ACHIEVEMENT_2_21",
       "SetID": "o6aioj",
       "Name": "Murder He Wrote",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -690,7 +695,7 @@
       "ID": "NEW_ACHIEVEMENT_2_23",
       "SetID": "o6aioj",
       "Name": "Go Figure",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -698,7 +703,7 @@
       "ID": "NEW_ACHIEVEMENT_2_24",
       "SetID": "o6aioj",
       "Name": "Knock Knock",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -706,7 +711,7 @@
       "ID": "NEW_ACHIEVEMENT_2_25",
       "SetID": "o6aioj",
       "Name": "Too Hot to Handle",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -714,7 +719,7 @@
       "ID": "NEW_ACHIEVEMENT_2_26",
       "SetID": "o6aioj",
       "Name": "Clean Sweep",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -842,7 +847,7 @@
       "ID": "NEW_ACHIEVEMENT_3_11",
       "SetID": "o6aioj",
       "Name": "Don\u0027t Reach, Kid",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -850,7 +855,7 @@
       "ID": "NEW_ACHIEVEMENT_3_12",
       "SetID": "o6aioj",
       "Name": "Smooth Like Soap",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -858,7 +863,7 @@
       "ID": "NEW_ACHIEVEMENT_3_13",
       "SetID": "o6aioj",
       "Name": "Objection!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -866,7 +871,7 @@
       "ID": "NEW_ACHIEVEMENT_3_14",
       "SetID": "o6aioj",
       "Name": "Quid Pro Quo",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -874,7 +879,7 @@
       "ID": "NEW_ACHIEVEMENT_3_15",
       "SetID": "o6aioj",
       "Name": "Dressed for the Occasion",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -882,7 +887,7 @@
       "ID": "NEW_ACHIEVEMENT_3_16",
       "SetID": "o6aioj",
       "Name": "A Just Cause",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -963,20 +968,20 @@
     {
       "ID": "7on801h",
       "IsBase": true,
-      "Progressed": 57,
+      "Progressed": 58,
       "Completed": 0
     },
     {
       "ID": "o6aioj",
       "IsBase": false,
-      "Progressed": 57,
+      "Progressed": 58,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-30T03:03:45.6026767+00:00",
+  "LastChanged_Achievements": "2023-12-30T04:03:11.1035707+00:00",
   "LastUpdate_AppInfo": "2023-12-27T16:57:17.6990227+00:00",
-  "LastUpdate_Ratings": "2023-12-30T02:58:52.7814227+00:00",
-  "LastUpdate_Achievements": "2023-12-30T03:03:45.6027458+00:00"
+  "LastUpdate_Ratings": "2023-12-30T03:58:12.1538309+00:00",
+  "LastUpdate_Achievements": "2023-12-30T04:03:11.1036411+00:00"
 }

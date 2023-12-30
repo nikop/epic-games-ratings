@@ -5,28 +5,28 @@ Rating: 4.53 (Ranked 557)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 16.00% | ~17,740 |
-| I've Had Enough! | 13.00% | ~14,414 |
-| Fists, Fury & a lot of Rage | 9.00% | ~9,979 |
-| Seasoned Fighter | 8.00% | ~8,870 |
-| All For One and One For All | 7.00% | ~7,761 |
-| Home Sweet Home? | 5.00% | ~5,544 |
-| A New Age | 4.00% | ~4,435 |
-| Oh Baby, A Triple | 3.00% | ~3,326 |
-| Battle Hardened | 2.00% | ~2,218 |
-| Master of Disguise | 2.00% | ~2,218 |
-| It's Mayhem! | 2.00% | ~2,218 |
-| Symbiotic | 2.00% | ~2,218 |
+| All Grown Up! | 16.00% | ~17,749 |
+| I've Had Enough! | 13.00% | ~14,421 |
+| Fists, Fury & a lot of Rage | 9.00% | ~9,984 |
+| Seasoned Fighter | 8.00% | ~8,874 |
+| All For One and One For All | 7.00% | ~7,765 |
+| Home Sweet Home? | 5.00% | ~5,546 |
+| A New Age | 4.00% | ~4,437 |
+| Oh Baby, A Triple | 3.00% | ~3,328 |
+| Battle Hardened | 2.00% | ~2,219 |
+| Master of Disguise | 2.00% | ~2,219 |
+| It's Mayhem! | 2.00% | ~2,219 |
+| Right back at'cha | 2.00% | ~2,219 |
+| Symbiotic | 2.00% | ~2,219 |
 | Cautious Veteran | 1.00% | ~1,109 |
 | Double Punch! | 1.00% | ~1,109 |
 | Martyrdom | 1.00% | ~1,109 |
-| Right back at'cha | 1.00% | ~1,109 |
 | Spectacular Finisher | 1.00% | ~1,109 |
 | Katamari | 0.80% | ~887 |
 | Ninja Reflex | 0.80% | ~887 |
 | Zero-sum Game | 0.80% | ~887 |
-| Taste Your Own Medicine | 0.60% | ~665 |
-| This is GigaBash! | 0.50% | ~554 |
+| Taste Your Own Medicine | 0.60% | ~666 |
+| This is GigaBash! | 0.50% | ~555 |
 | Just Getting Warmed Up | 0.40% | ~444 |
 | Sidetracked... | 0.40% | ~444 |
 | Eye of the Titan | 0.30% | ~333 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 557)
 | What's Mine is Yours | 0.10% | ~111 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 110,876 (Ranked 91)  
+Progressed: 110,930 (Ranked 91)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-27 | 108,438 | 0 |
 | 2023-12-28 | 109,557 | 0 |
 | 2023-12-29 | 110,708 | 0 |
-| 2023-12-30 | 110,876 | 0 |
+| 2023-12-30 | 110,930 | 0 |
 ## Awards
 Max (Great Boss Battles): 42  (Ranked 472)  
 Sum: 42 (Ranked 513)  

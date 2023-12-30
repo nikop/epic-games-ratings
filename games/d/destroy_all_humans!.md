@@ -1,7 +1,7 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 354)  
+Rating: 4.63 (Ranked 355)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -48,7 +48,7 @@ Number of Ratings: 85  (23.09.2022)
 | Steezy Down the Spine | 0.90% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 227 (Ranked 414)  
-Completed: 2 (0.88%) (Ranked 182)  
+Completed: 2 (0.88%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

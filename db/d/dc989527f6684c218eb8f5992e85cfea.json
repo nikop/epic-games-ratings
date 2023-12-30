@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15008,
+  "EOS_Progressed": 15009,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17775,6 +17775,11 @@
       "Time": "2023-12-30T03:06:59.6832984+00:00",
       "NumProgressed": 15008,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T04:05:28.8188684+00:00",
+      "NumProgressed": 15009,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -17874,7 +17879,7 @@
       "Name": "Facepalm",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2701
+      "UsersEstimate": 2702
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -17978,14 +17983,14 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2701
+      "UsersEstimate": 2702
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 15008,
+      "Progressed": 15009,
       "Completed": 0
     }
   ],
@@ -17993,8 +17998,8 @@
   "FirstSeenRating": "2023-12-27T16:58:07.3955203+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
   "LastChanged": "2023-12-27T16:58:07.3955204+00:00",
-  "LastChanged_Achievements": "2023-12-30T03:06:59.6832979+00:00",
+  "LastChanged_Achievements": "2023-12-30T04:05:28.8188681+00:00",
   "LastUpdate_AppInfo": "2023-12-23T06:57:11.4371726+00:00",
-  "LastUpdate_Ratings": "2023-12-30T02:59:46.8943398+00:00",
-  "LastUpdate_Achievements": "2023-12-30T03:06:59.6833824+00:00"
+  "LastUpdate_Ratings": "2023-12-30T03:58:47.8095622+00:00",
+  "LastUpdate_Achievements": "2023-12-30T04:05:28.8189695+00:00"
 }

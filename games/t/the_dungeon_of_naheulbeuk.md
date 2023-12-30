@@ -6,10 +6,10 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~88,367 |
-| Alt+F4 | 10.00% | ~24,546 |
+| Sowwy! | 36.00% | ~88,369 |
+| Alt+F4 | 10.00% | ~24,547 |
 | Where's that freaking Dwarf? | 9.00% | ~22,092 |
-| Déjà vu | 7.00% | ~17,182 |
+| Déjà vu | 7.00% | ~17,183 |
 | Sock! SOCK! | 6.00% | ~14,728 |
 | A beer, two curses, three companions | 5.00% | ~12,273 |
 | GG EZ | 5.00% | ~12,273 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~245 |
 | Dwarf Candy | 0.10% | ~245 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,463 (Ranked 69)  
+Progressed: 245,469 (Ranked 69)  
 Completed: 8 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,18 +308,18 @@ Completed: 8 (0.00%) (Ranked 390)
 | 2023-12-27 | 245,077 | 8 |
 | 2023-12-28 | 245,240 | 8 |
 | 2023-12-29 | 245,438 | 8 |
-| 2023-12-30 | 245,463 | 8 |
+| 2023-12-30 | 245,469 | 8 |
 ## Awards
 Max (Character Customization): 261  (Ranked 277)  
-Sum: 545 (Ranked 329)  
-Diff (max vs sum): -52  
+Sum: 547 (Ranked 328)  
+Diff (max vs sum): -51  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 261 |
 | This game is Relaxing | 39 |
 | This game is Great for Beginners | 37 |
+| This game is Highly Recommended | 35 |
 | This game has Quickly Understood Controls | 34 |
-| This game is Highly Recommended | 33 |
 | This game has Amazing Storytelling | 33 |
 | This game has Diverse Characters | 30 |
 | This game has Amazing Characters | 29 |
@@ -533,3 +533,4 @@ Diff (max vs sum): -52
 | 2023-12-27 | 4.59 | - | 258 | 540 |
 | 2023-12-28 | 4.59 | - | 260 | 542 |
 | 2023-12-29 | 4.59 | - | 261 | 545 |
+| 2023-12-30 | 4.59 | - | 261 | 547 |

@@ -32,11 +32,11 @@
 | Anastasia Babanin | 25.00% | ~19 |
 | The Scheme | 25.00% | ~19 |
 | Zakariya Demir | 23.00% | ~18 |
-| Truth from within | 21.00% | ~16 |
-| A curious phrase | 19.00% | ~15 |
-| Evelyn Lakshmi Warbeck | 17.00% | ~13 |
-| Johan Kristiansen | 17.00% | ~13 |
-| The Suspects | 17.00% | ~13 |
+| Truth from within | 22.00% | ~17 |
+| A curious phrase | 21.00% | ~16 |
+| Evelyn Lakshmi Warbeck | 18.00% | ~14 |
+| Johan Kristiansen | 18.00% | ~14 |
+| The Suspects | 18.00% | ~14 |
 | Horace Mountjoy | 16.00% | ~12 |
 | The Secrets | 16.00% | ~12 |
 | Well-travelled | 14.00% | ~11 |

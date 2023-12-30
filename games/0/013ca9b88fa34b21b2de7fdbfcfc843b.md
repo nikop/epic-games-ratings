@@ -1,7 +1,7 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.63 (Ranked 354)  
+Rating: 4.63 (Ranked 355)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -27,9 +27,9 @@ Rating: 4.63 (Ranked 354)
 | Flaming Hot Completos | 0.60% | ~53 |
 | Skilled | 0.60% | ~53 |
 | Fae Farmer | 0.50% | ~44 |
+| Rumble in the Jumble | 0.50% | ~44 |
 | Got to Catch Them All | 0.40% | ~35 |
 | Scattered Scroll Scrounger | 0.40% | ~35 |
-| Rumble in the Jumble | 0.40% | ~35 |
 | Fanatical Farmer | 0.40% | ~35 |
 | Right Tool For the Job | 0.40% | ~35 |
 | Azorian Hat Dance | 0.40% | ~6 |
@@ -49,7 +49,7 @@ Rating: 4.63 (Ranked 354)
 | Splish-Splash | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,760 (Ranked 183)  
+Progressed: 8,762 (Ranked 183)  
 Completed: 1 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 1 (0.01%) (Ranked 368)
 | 2023-12-27 | 8,713 | 1 |
 | 2023-12-28 | 8,728 | 1 |
 | 2023-12-29 | 8,759 | 1 |
-| 2023-12-30 | 8,760 | 1 |
+| 2023-12-30 | 8,762 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

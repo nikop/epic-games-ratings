@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17769,
+  "EOS_Progressed": 17772,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 635,
+  "EOS_NewPlayers": 637,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15622,6 +15622,11 @@
       "Time": "2023-12-30T02:25:06.2875609+00:00",
       "NumProgressed": 17769,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-30T04:05:22.1797345+00:00",
+      "NumProgressed": 17772,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15666,7 +15671,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2843
+      "UsersEstimate": 2844
     },
     {
       "ID": "14",
@@ -15674,7 +15679,7 @@
       "Name": "Doctor Approved",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "15",
@@ -15706,7 +15711,7 @@
       "Name": "Bottoms up!",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "19",
@@ -15810,7 +15815,7 @@
       "Name": "Captain Drummer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2132
+      "UsersEstimate": 2133
     },
     {
       "ID": "30",
@@ -15840,9 +15845,9 @@
       "ID": "6",
       "SetID": "458bbdk",
       "Name": "Celebrations are in Order",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1955
+      "UsersEstimate": 2133
     },
     {
       "ID": "7",
@@ -15913,13 +15918,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17769,
+      "Progressed": 17772,
       "Completed": 57
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3723,
+      "Progressed": 3726,
       "Completed": 1114
     }
   ],
@@ -15927,8 +15932,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-27T06:00:51.7325186+00:00",
-  "LastChanged_Achievements": "2023-12-30T03:06:50.2635972+00:00",
+  "LastChanged_Achievements": "2023-12-30T04:05:22.1797341+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-30T02:57:27.8869883+00:00",
-  "LastUpdate_Achievements": "2023-12-30T03:06:50.2637151+00:00"
+  "LastUpdate_Ratings": "2023-12-30T03:57:16.0826202+00:00",
+  "LastUpdate_Achievements": "2023-12-30T04:05:22.1798409+00:00"
 }

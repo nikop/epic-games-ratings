@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 566,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1957,9 +1957,9 @@
       "ID": "RISKYTEXT_VOTE_FOR_EDITED_WORD",
       "SetID": "9j9h72e",
       "Name": "FixyText: Co-author",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 96
     },
     {
       "ID": "TIME_JINX",
@@ -2036,8 +2036,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-30T03:10:35.8474468+00:00",
+  "LastChanged_Achievements": "2023-12-30T04:09:16.1061863+00:00",
   "LastUpdate_AppInfo": "2023-12-30T02:16:13.4108208+00:00",
-  "LastUpdate_Ratings": "2023-12-30T03:02:42.3872134+00:00",
-  "LastUpdate_Achievements": "2023-12-30T03:10:35.8474754+00:00"
+  "LastUpdate_Ratings": "2023-12-30T04:02:27.747249+00:00",
+  "LastUpdate_Achievements": "2023-12-30T04:09:16.1062066+00:00"
 }

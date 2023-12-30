@@ -31,7 +31,7 @@ Rating: 4.65 (Ranked 322)
 | Pure Dynamite! | 45.00% | ~298 |
 | Dungeonlord Gorgu | 45.00% | ~298 |
 | Tanos' Crusade Against Thalya | 45.00% | ~298 |
-| Mana Cannon | 41.00% | ~272 |
+| Mana Cannon | 42.00% | ~278 |
 | All’s Well That Ends Evil | 41.00% | ~272 |
 | The Duel | 38.00% | ~252 |
 | Unstoppable Horde | 35.00% | ~232 |

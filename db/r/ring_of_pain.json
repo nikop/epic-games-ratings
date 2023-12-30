@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3810,7 +3810,7 @@
   ],
   "EOS_Progressed": 241994,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 508,
+  "EOS_NewPlayers": 505,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -30197,9 +30197,9 @@
       "ID": "DIEBOSS",
       "SetID": "5l8oe0h",
       "Name": "To The Death!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 968
+      "UsersEstimate": 1210
     },
     {
       "ID": "DIEHARD",
@@ -31156,8 +31156,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-29T11:59:56.9615531+00:00",
-  "LastChanged_Achievements": "2023-12-30T03:11:05.1255031+00:00",
+  "LastChanged_Achievements": "2023-12-30T04:09:38.7120542+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-30T03:01:29.6188173+00:00",
-  "LastUpdate_Achievements": "2023-12-30T03:11:05.1257662+00:00"
+  "LastUpdate_Ratings": "2023-12-30T03:59:56.6530608+00:00",
+  "LastUpdate_Achievements": "2023-12-30T04:09:38.7122939+00:00"
 }

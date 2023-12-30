@@ -8,11 +8,11 @@ Rating: 4.65 (Ranked 322)
 | Satisfied Gus-tomer | 5.00% | ~1,247 |
 | Sweezy Like Sunday Morning | 5.00% | ~1,247 |
 | First Bounty Down | 5.00% | ~1,247 |
+| G3 Graduation | 5.00% | ~1,247 |
 | Cold-Blooded Driller | 5.00% | ~1,247 |
 | Are You Packin'? | 4.00% | ~998 |
 | Bring A Knife to a Gun Fight | 4.00% | ~998 |
 | We're All Very Impressed, Trust Me | 4.00% | ~998 |
-| G3 Graduation | 4.00% | ~998 |
 | Who's The Boss? | 4.00% | ~998 |
 | Don't Knife The Hand That Feeds | 4.00% | ~998 |
 | Creature Feature | 3.00% | ~748 |

@@ -4,7 +4,7 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 3792,
-  "Ranking_EOS_NewPlayers": 391,
+  "Ranking_EOS_NewPlayers": 380,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3620,
+  "EOS_Progressed": 3621,
   "EOS_Completed": -28,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.77,
   "EosHistory": [
@@ -814,6 +814,11 @@
       "Time": "2023-12-30T03:09:15.8247176+00:00",
       "NumProgressed": 3620,
       "NumCompleted": -28
+    },
+    {
+      "Time": "2023-12-30T04:08:19.5169058+00:00",
+      "NumProgressed": 3621,
+      "NumCompleted": -28
     }
   ],
   "TotalAchievements": 35,
@@ -897,7 +902,7 @@
       "Name": "Rightfully Yours",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "19",
@@ -1104,7 +1109,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3620,
+      "Progressed": 3621,
       "Completed": -28
     }
   ],
@@ -1112,8 +1117,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2023-12-30T03:09:15.8247172+00:00",
+  "LastChanged_Achievements": "2023-12-30T04:08:19.5169052+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.313726+00:00",
-  "LastUpdate_Ratings": "2023-12-30T02:57:24.0246754+00:00",
-  "LastUpdate_Achievements": "2023-12-30T03:09:15.8247386+00:00"
+  "LastUpdate_Ratings": "2023-12-30T03:57:13.5702607+00:00",
+  "LastUpdate_Achievements": "2023-12-30T04:08:19.5169262+00:00"
 }

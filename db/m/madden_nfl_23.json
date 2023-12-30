@@ -3,7 +3,7 @@
   "Name": "Madden NFL 23",
   "ProductSlug": "madden-nfl-23",
   "Ranking_Rating": 864,
-  "Ranking_Popularity": 461,
+  "Ranking_Popularity": 462,
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 390,
@@ -997,7 +997,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4237,
+  "EOS_Progressed": 4238,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
@@ -8002,6 +8002,11 @@
       "Time": "2023-12-30T03:05:22.273525+00:00",
       "NumProgressed": 4237,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T04:04:19.194171+00:00",
+      "NumProgressed": 4238,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -8022,7 +8027,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 2330
+      "UsersEstimate": 2331
     },
     {
       "ID": "achievement_11",
@@ -8054,7 +8059,7 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1652
+      "UsersEstimate": 1653
     },
     {
       "ID": "achievement_15",
@@ -8062,7 +8067,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2288
+      "UsersEstimate": 2289
     },
     {
       "ID": "achievement_16",
@@ -8158,7 +8163,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     },
     {
       "ID": "achievement_8",
@@ -8181,7 +8186,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4237,
+      "Progressed": 4238,
       "Completed": 0
     }
   ],
@@ -8189,8 +8194,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-28T15:58:42.1942443+00:00",
-  "LastChanged_Achievements": "2023-12-30T03:05:22.2735246+00:00",
+  "LastChanged_Achievements": "2023-12-30T04:04:19.1941707+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:10.6313253+00:00",
-  "LastUpdate_Ratings": "2023-12-30T02:59:51.7512764+00:00",
-  "LastUpdate_Achievements": "2023-12-30T03:05:22.2735625+00:00"
+  "LastUpdate_Ratings": "2023-12-30T03:58:50.9184251+00:00",
+  "LastUpdate_Achievements": "2023-12-30T04:04:19.1942397+00:00"
 }

@@ -6,25 +6,25 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~41,513 |
-| First Steps | 80.00% | ~35,710 |
-| Control the Shadows | 67.00% | ~29,907 |
-| Tools of the Trade | 63.00% | ~28,122 |
+| Awakening | 93.00% | ~41,514 |
+| First Steps | 80.00% | ~35,711 |
+| Control the Shadows | 67.00% | ~29,908 |
+| Tools of the Trade | 63.00% | ~28,123 |
 | Apprentice | 60.00% | ~26,783 |
 | Secret Seeker | 57.00% | ~25,444 |
 | Forge of Assassins | 55.00% | ~24,551 |
 | Revenant | 52.00% | ~23,212 |
-| I don’t Care! | 45.00% | ~20,087 |
+| I don’t Care! | 45.00% | ~20,088 |
 | Bird of Prey | 37.00% | ~16,516 |
 | Engraved with Power | 32.00% | ~14,284 |
 | Lady | 31.00% | ~13,838 |
-| Fashionable Assassin | 27.00% | ~12,052 |
+| Fashionable Assassin | 27.00% | ~12,053 |
 | Apex Predator | 24.00% | ~10,713 |
 | Soul Reaver | 23.00% | ~10,267 |
-| Embers | 22.00% | ~9,820 |
+| Embers | 22.00% | ~9,821 |
 | Wall Lizard | 20.00% | ~8,928 |
 | Clinging to Life | 18.00% | ~8,035 |
-| Burning | 17.00% | ~7,588 |
+| Burning | 17.00% | ~7,589 |
 | Look Behind You | 16.00% | ~7,142 |
 | Sleeping on the Job | 16.00% | ~7,142 |
 | Family | 14.00% | ~6,249 |
@@ -33,9 +33,9 @@ Number of Ratings: 88  (23.09.2022)
 | Ruse | 12.00% | ~5,357 |
 | Master Ninja | 11.00% | ~4,910 |
 | Hatching | 10.00% | ~4,464 |
-| Bonds | 9.00% | ~4,017 |
-| Get Over Here | 9.00% | ~4,017 |
-| The Hidden Village | 9.00% | ~4,017 |
+| Bonds | 9.00% | ~4,018 |
+| Get Over Here | 9.00% | ~4,018 |
+| The Hidden Village | 9.00% | ~4,018 |
 | Denouement | 8.00% | ~3,571 |
 | A Pleasant Stay | 8.00% | ~3,571 |
 | Pilgrimage | 7.00% | ~3,125 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~893 |
 | Legacy | 2.00% | ~893 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,638 (Ranked 125)  
+Progressed: 44,639 (Ranked 125)  
 Completed: 247 (0.55%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 247 (0.55%) (Ranked 209)
 | 2023-12-27 | 44,568 | 247 |
 | 2023-12-28 | 44,596 | 247 |
 | 2023-12-29 | 44,633 | 247 |
-| 2023-12-30 | 44,638 | 247 |
+| 2023-12-30 | 44,639 | 247 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

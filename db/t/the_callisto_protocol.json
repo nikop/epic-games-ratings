@@ -1913,9 +1913,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 19977,
+  "EOS_Progressed": 19979,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1265,
+  "EOS_NewPlayers": 1264,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -11758,6 +11758,11 @@
       "Time": "2023-12-30T03:10:11.459637+00:00",
       "NumProgressed": 19977,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-30T04:08:59.0515585+00:00",
+      "NumProgressed": 19979,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -11785,7 +11790,7 @@
       "Name": "Giving Back",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1399
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -11793,7 +11798,7 @@
       "Name": "You Need a Gun",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1399
     },
     {
       "ID": "DISARM_ENEMY",
@@ -11801,7 +11806,7 @@
       "Name": "Flesh Wound",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3995
+      "UsersEstimate": 3996
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -11961,7 +11966,7 @@
       "Name": "The Outer Way",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 3995
+      "UsersEstimate": 3996
     },
     {
       "ID": "STORY_ESCAPE",
@@ -11991,9 +11996,9 @@
       "ID": "STORY_MINETOWN",
       "SetID": "4hj6d86",
       "Name": "What Lies Beneath",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1598
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -12144,13 +12149,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 19977,
+      "Progressed": 19979,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 7903,
+      "Progressed": 7905,
       "Completed": 29
     }
   ],
@@ -12158,8 +12163,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-30T00:03:09.7437849+00:00",
-  "LastChanged_Achievements": "2023-12-30T03:10:11.4596365+00:00",
+  "LastChanged_Achievements": "2023-12-30T04:08:59.051558+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3019969+00:00",
-  "LastUpdate_Ratings": "2023-12-30T03:03:26.592366+00:00",
-  "LastUpdate_Achievements": "2023-12-30T03:10:11.4597055+00:00"
+  "LastUpdate_Ratings": "2023-12-30T04:02:57.8483669+00:00",
+  "LastUpdate_Achievements": "2023-12-30T04:08:59.0516505+00:00"
 }

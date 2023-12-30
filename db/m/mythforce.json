@@ -848,9 +848,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5921,
+  "EOS_Progressed": 5922,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -12103,6 +12103,11 @@
       "Time": "2023-12-30T03:05:24.8687598+00:00",
       "NumProgressed": 5921,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-30T04:04:21.1131087+00:00",
+      "NumProgressed": 5922,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12171,7 +12176,7 @@
       "Name": "First Strike",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -12203,7 +12208,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1539
+      "UsersEstimate": 1540
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -12298,15 +12303,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5921,
+      "Progressed": 5922,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2023-12-30T03:05:24.8687593+00:00",
+  "LastChanged_Achievements": "2023-12-30T04:04:21.1131084+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:25.4849752+00:00",
-  "LastUpdate_Ratings": "2023-12-30T03:01:49.5102711+00:00",
-  "LastUpdate_Achievements": "2023-12-30T03:05:24.8688473+00:00"
+  "LastUpdate_Ratings": "2023-12-30T04:00:10.0501456+00:00",
+  "LastUpdate_Achievements": "2023-12-30T04:04:21.1131676+00:00"
 }

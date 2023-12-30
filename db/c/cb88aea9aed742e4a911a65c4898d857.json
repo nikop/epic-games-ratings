@@ -209,9 +209,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 8709,
+  "EOS_Progressed": 8718,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2222,
+  "EOS_NewPlayers": 2219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2914,6 +2914,11 @@
       "Time": "2023-12-30T03:10:39.109247+00:00",
       "NumProgressed": 8709,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T04:09:18.4349805+00:00",
+      "NumProgressed": 8718,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -2926,7 +2931,7 @@
       "Name": "Conspiracy",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "03_TheStolenStar",
@@ -3020,9 +3025,9 @@
       "ID": "14_TheBreezeOfPain",
       "SetID": "37a94m8",
       "Name": "Fear Not Obliteration",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 70
     },
     {
       "ID": "15_Pentakill",
@@ -3244,17 +3249,17 @@
       "ID": "42_TheIronJudgement",
       "SetID": "37a94m8",
       "Name": "Iron Judgement",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 87
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
       "SetID": "37a94m8",
       "Name": "No Place Like Home",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 61
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -3332,9 +3337,9 @@
       "ID": "53_GardensOfMadness",
       "SetID": "37a94m8",
       "Name": "Enraged Dragon",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 17
     },
     {
       "ID": "54_ThisIsAJobForLordCaptain",
@@ -3445,7 +3450,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8709,
+      "Progressed": 8718,
       "Completed": 0
     }
   ],
@@ -3453,8 +3458,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-29T15:57:59.1942922+00:00",
-  "LastChanged_Achievements": "2023-12-30T03:10:39.1092465+00:00",
+  "LastChanged_Achievements": "2023-12-30T04:09:18.4349802+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-30T02:58:40.2470555+00:00",
-  "LastUpdate_Achievements": "2023-12-30T03:10:39.1093145+00:00"
+  "LastUpdate_Ratings": "2023-12-30T03:58:04.0655695+00:00",
+  "LastUpdate_Achievements": "2023-12-30T04:09:18.4350297+00:00"
 }

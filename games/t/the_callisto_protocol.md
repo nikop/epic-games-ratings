@@ -5,8 +5,8 @@ Rating: 4.20 (Ranked 947)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 20.00% | ~3,995 |
-| The Outer Way | 20.00% | ~3,995 |
+| Flesh Wound | 20.00% | ~3,996 |
+| The Outer Way | 20.00% | ~3,996 |
 | Desperate Times | 18.00% | ~3,596 |
 | Get a Grip | 17.00% | ~3,396 |
 | Paper Jams | 17.00% | ~3,396 |
@@ -20,11 +20,11 @@ Rating: 4.20 (Ranked 947)
 | In the Pipe, Five by Five | 9.00% | ~1,798 |
 | Crash Site | 9.00% | ~1,798 |
 | Terminated | 8.00% | ~1,598 |
+| What Lies Beneath | 8.00% | ~1,598 |
 | Full Circle | 8.00% | ~1,598 |
 | Power Up | 8.00% | ~1,598 |
-| Giving Back | 7.00% | ~1,398 |
-| You Need a Gun | 7.00% | ~1,398 |
-| What Lies Beneath | 7.00% | ~1,398 |
+| Giving Back | 7.00% | ~1,399 |
+| You Need a Gun | 7.00% | ~1,399 |
 | I Do Belong Here | 6.00% | ~1,199 |
 | Keep Fighting | 6.00% | ~474 |
 | It's Time | 5.00% | ~395 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 947)
 | Big Game Hunter | 0.10% | ~8 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,977 (Ranked 150)  
+Progressed: 19,979 (Ranked 150)  
 Completed: 82 (0.41%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 82 (0.41%) (Ranked 228)
 | 2023-12-27 | 19,632 | 82 |
 | 2023-12-28 | 19,780 | 82 |
 | 2023-12-29 | 19,946 | 82 |
-| 2023-12-30 | 19,977 | 82 |
+| 2023-12-30 | 19,979 | 82 |
 ## Awards
 Max (Amazing Characters): 106  (Ranked 366)  
 Sum: 533 (Ranked 330)  
