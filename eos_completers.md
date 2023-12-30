@@ -7,13 +7,13 @@
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.76% |
 | 6 | [greensheen Production](games/g/greensheen_production.md) | 43.75% |
 | 7 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 42.86% |
-| 8 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 41.67% |
+| 8 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 42.16% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 38.93% |
 | 10 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.33% |
 | 11 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 33.33% |
 | 12 | [Volley Pals](games/v/volley_pals.md) | 31.78% |
 | 13 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 27.66% |
-| 14 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 26.73% |
+| 14 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 26.47% |
 | 15 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 25.93% |
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 25.00% |
@@ -70,13 +70,13 @@
 | 67 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 6.25% |
 | 67 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 6.25% |
 | 70 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
-| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.04% |
-| 72 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.85% |
+| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.03% |
+| 72 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.81% |
 | 73 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.80% |
 | 74 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 75 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 5.08% |
-| 76 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 5.03% |
-| 77 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 5.00% |
+| 76 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 5.00% |
+| 76 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 5.00% |
 | 78 | [Bugsnax](games/b/bugsnax.md) | 4.89% |
 | 79 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.85% |
 | 80 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.81% |
@@ -94,9 +94,9 @@
 | 92 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.90% |
 | 93 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.85% |
 | 93 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 3.85% |
-| 95 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.80% |
-| 96 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.79% |
-| 97 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.77% |
+| 95 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.79% |
+| 96 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.77% |
+| 97 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.75% |
 | 98 | [Doodle God](games/d/doodle_god.md) | 3.72% |
 | 99 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.70% |
 | 100 | [Dungeons 4](games/d/dungeons_4.md) | 3.62% |
@@ -129,7 +129,7 @@
 | 127 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.47% |
 | 128 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.45% |
 | 129 | [Night Book](games/n/night_book.md) | 2.40% |
-| 130 | [Lamentum](games/l/lamentum.md) | 2.37% |
+| 130 | [Lamentum](games/l/lamentum.md) | 2.36% |
 | 131 | [Destiny 2](games/d/destiny_2.md) | 2.35% |
 | 132 | [Bloodshore](games/b/bloodshore.md) | 2.33% |
 | 133 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.26% |

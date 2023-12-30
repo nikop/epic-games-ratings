@@ -116,6 +116,7 @@
 | [LakeSide](games/6/6c09dd49cbb348d5ae4d4c9c308890b8.md) | 2024-02-29 | - |  | - | - |
 | [Minigolf Blast](games/0/0d088fcaab2d4c41954845267cb28b39.md) | 2024-02-29 | - |  | - | - |
 | [RETOOLED](games/3/3bb0cfb02595417f9134a5f31bc46333.md) | 2024-02-29 | - |  | - | - |
+| [Revenge Of The Ronin](games/2/21edf107f297432e92d754543485ad08.md) | 2024-02-29 | - |  | - | - |
 | [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2024-02-29 | 19 (1,000 XP) | 462 | - | 0 |
 | [Expeditions - A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 2024-03-05 | - |  | - | - |
 | [Life by You](games/l/life_by_you.md) | 2024-03-05 | - |  | - | - |
@@ -431,7 +432,6 @@
 | [RENNSPORT](games/1/1faf75ce10534366b99229d1507de1cb.md) | 2099-01-01 | - |  | - | - |
 | [RESISTOR](games/0/0d7ae272a45342aa8abcc5b6a9bca792.md) | 2099-01-01 | - |  | - | - |
 | [Resonance](games/8/83b49dc072664d6ebcfa819730e6caf7.md) | 2099-01-01 | - |  | - | - |
-| [Revenge Of The Ronin](games/2/21edf107f297432e92d754543485ad08.md) | 2099-01-01 | - |  | - | - |
 | [Rooted](games/0/0c0ddf9e73d7480cb81033411e840dd1.md) | 2099-01-01 | - |  | - | - |
 | [SAE](games/6/686efc1d997044d9ad89f3601f859f68.md) | 2099-01-01 | - |  | - | - |
 | [Savant - Ascent REMIX](games/a/a013d93390c34ff588ab136bee0cde71.md) | 2099-01-01 | - |  | - | - |

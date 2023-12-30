@@ -4,7 +4,7 @@
 | [Team Disorder](games/9/9c9cc8a992404fb8925827eed7a7f500.md) | 2023-12-29 | - |  | - | - |
 | [Awaken](games/8/879a4b6564b4491e9f523c634d181756.md) | 2099-01-01 | - |  | - | - |
 | [CoopValor WW2 Battle of the Bulge](games/a/a607d7b55d8a4a3ab898c28a16897c5e.md) | 2023-10-31 | - |  | - | - |
-| [Revenge Of The Ronin](games/2/21edf107f297432e92d754543485ad08.md) | 2099-01-01 | - |  | - | - |
+| [Revenge Of The Ronin](games/2/21edf107f297432e92d754543485ad08.md) | 2024-02-29 | - |  | - | - |
 | [Little Wu Chang](games/2/2949830a102e4b6aad990f6ae31e758f.md) | 2024-06-30 | - |  | - | - |
 | [I'm in Love With Your Dead Grandmother](games/3/3eab9be22dbd475ab1ef7e3824b81121.md) | 2024-02-09 | 12 (1,000 XP) | 1 | - | - |
 | [Cyber Hacker](games/6/64befde675a84adeb83ad9d69502ff75.md) | 2024-01-31 | - |  | - | - |
