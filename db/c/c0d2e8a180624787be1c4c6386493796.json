@@ -3,7 +3,7 @@
   "Name": "Kingdom Rush Vengeance",
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 409,
-  "Ranking_EOS_Completed": 186,
+  "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
@@ -1515,9 +1515,9 @@
       "ID": "KR4_ACHIEVEMENT_POLYX",
       "SetID": "caeik3h",
       "Name": "Much To Learn",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 93
     },
     {
       "ID": "KR4_ACHIEVEMENT_PUMPKIN",
@@ -1659,9 +1659,9 @@
       "ID": "KR4_ACHIEVEMENT_WINTERLORD",
       "SetID": "caeik3h",
       "Name": "Lord of Winter",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 93
     },
     {
       "ID": "KR4_ACHIEVEMENT_WINTER_QUEEN",
@@ -1688,8 +1688,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-30T08:07:34.0568296+00:00",
+  "LastChanged_Achievements": "2023-12-30T09:06:16.4118812+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.1058747+00:00",
-  "LastUpdate_Ratings": "2023-12-30T07:58:30.6097606+00:00",
-  "LastUpdate_Achievements": "2023-12-30T08:07:34.0569031+00:00"
+  "LastUpdate_Ratings": "2023-12-30T08:58:13.8588844+00:00",
+  "LastUpdate_Achievements": "2023-12-30T09:06:16.4119543+00:00"
 }

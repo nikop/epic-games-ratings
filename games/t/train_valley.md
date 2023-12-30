@@ -27,8 +27,8 @@ Number of Ratings: 28  (23.09.2022)
 | America | 18.00% | ~109 |
 | Missed it! | 18.00% | ~109 |
 | Sabotage | 16.00% | ~97 |
+| Achtung! | 12.00% | ~72 |
 | Japan | 11.00% | ~66 |
-| Achtung! | 11.00% | ~66 |
 | Woodcutter | 10.00% | ~60 |
 | Engineer | 10.00% | ~60 |
 | Tycoon | 9.00% | ~54 |
@@ -47,7 +47,7 @@ Number of Ratings: 28  (23.09.2022)
 | Vandal | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 604 (Ranked 329)  
-Completed: 2 (0.33%) (Ranked 246)  
+Completed: 2 (0.33%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

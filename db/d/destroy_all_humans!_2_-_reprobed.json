@@ -3,11 +3,11 @@
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
   "Ranking_Rating": 543,
-  "Ranking_Popularity": 489,
+  "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -282,9 +282,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 249,
+  "EOS_Progressed": 250,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1247,6 +1247,11 @@
       "Time": "2023-12-30T08:09:23.7047526+00:00",
       "NumProgressed": 249,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T09:09:13.6842372+00:00",
+      "NumProgressed": 250,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1291,7 +1296,7 @@
       "Name": "Furon Fashion",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1329,9 +1334,9 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1371,7 +1376,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1395,7 +1400,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1419,7 +1424,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_KILL_BONGWATER",
@@ -1603,14 +1608,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 249,
+      "Progressed": 250,
       "Completed": 1
     }
   ],
@@ -1618,8 +1623,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-28T10:58:39.1665152+00:00",
-  "LastChanged_Achievements": "2023-12-30T08:09:23.7047521+00:00",
+  "LastChanged_Achievements": "2023-12-30T09:09:13.684237+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-30T08:00:50.1192639+00:00",
-  "LastUpdate_Achievements": "2023-12-30T08:09:23.7047869+00:00"
+  "LastUpdate_Ratings": "2023-12-30T08:59:48.0832205+00:00",
+  "LastUpdate_Achievements": "2023-12-30T09:09:13.6842655+00:00"
 }

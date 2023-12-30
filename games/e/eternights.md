@@ -9,7 +9,7 @@ Rating: 4.75 (Ranked 150)
 | Shelter Escape | 75.00% | ~524 |
 | The First Bond | 65.00% | ~454 |
 | Novice Scavenger | 58.00% | ~405 |
-| Master Craftsman | 46.00% | ~321 |
+| Master Craftsman | 47.00% | ~328 |
 | First wall | 46.00% | ~321 |
 | Piggyback Expert | 44.00% | ~307 |
 | Second wall | 33.00% | ~230 |

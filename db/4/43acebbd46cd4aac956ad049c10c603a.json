@@ -259,9 +259,9 @@
       "Count": 89
     }
   ],
-  "EOS_Progressed": 1187,
+  "EOS_Progressed": 1188,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3264,6 +3264,11 @@
       "Time": "2023-12-30T01:49:28.2762926+00:00",
       "NumProgressed": 1187,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-30T09:05:48.4452404+00:00",
+      "NumProgressed": 1188,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3284,7 +3289,7 @@
       "Name": "Ab Initio",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "AnthropicHills",
@@ -3370,9 +3375,9 @@
       "ID": "Discovery",
       "SetID": "1n308hc",
       "Name": "Discovery",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 273
     },
     {
       "ID": "EasternWetlands",
@@ -3460,7 +3465,7 @@
       "Name": "Lord of the Files",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "LostMarshes",
@@ -3532,7 +3537,7 @@
       "Name": "Overload",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "Persistent",
@@ -3564,7 +3569,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "RenaissanceRobot",
@@ -3572,7 +3577,7 @@
       "Name": "Renaissance Robot",
       "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ScientiaVincereTenebras",
@@ -3620,7 +3625,7 @@
       "Name": "Team Spirit",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "TextAdventurer",
@@ -3644,7 +3649,7 @@
       "Name": "The Edge of Forever",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "TheFuture",
@@ -3652,7 +3657,7 @@
       "Name": "The Future",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "TheHardWay",
@@ -3666,9 +3671,9 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 285
     },
     {
       "ID": "TheThiefOfFire",
@@ -3747,7 +3752,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1187,
+      "Progressed": 1188,
       "Completed": 2
     }
   ],
@@ -3755,8 +3760,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-29T23:57:10.9507958+00:00",
-  "LastChanged_Achievements": "2023-12-30T08:06:54.8937453+00:00",
+  "LastChanged_Achievements": "2023-12-30T09:05:48.4452401+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2023-12-30T07:57:37.393699+00:00",
-  "LastUpdate_Achievements": "2023-12-30T08:06:54.8937969+00:00"
+  "LastUpdate_Ratings": "2023-12-30T08:57:37.6992759+00:00",
+  "LastUpdate_Achievements": "2023-12-30T09:05:48.4452989+00:00"
 }

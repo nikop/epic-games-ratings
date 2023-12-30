@@ -7,7 +7,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 11.00% | ~612 |
-| Lost and Found | 7.00% | ~389 |
+| Lost and Found | 7.00% | ~390 |
 | Autodidact | 6.00% | ~7,842 |
 | This guy... again? | 6.00% | ~334 |
 | This Belongs in a Museum | 5.00% | ~6,535 |
@@ -25,7 +25,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Rush Hour | 4.00% | ~5,228 |
 | To Grandmother's House | 4.00% | ~5,228 |
 | FNG | 4.00% | ~5,228 |
-| Friends 'Til the End | 4.00% | ~222 |
+| Friends 'Til the End | 4.00% | ~223 |
+| Unfulfilled Desires | 3.00% | ~3,921 |
 | Dissector | 3.00% | ~3,921 |
 | Banishment | 3.00% | ~3,921 |
 | Now Stay Dead | 3.00% | ~3,921 |
@@ -44,7 +45,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Long Live the King | 2.00% | ~2,614 |
 | Wyrdly Reconstructed | 2.00% | ~2,614 |
 | Boxcar Kid | 2.00% | ~2,614 |
-| Unfulfilled Desires | 2.00% | ~2,614 |
 | Hope Rekindled | 2.00% | ~2,614 |
 | Predator | 2.00% | ~2,614 |
 | Deprogramming | 2.00% | ~2,614 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,693 (Ranked 88)  
+Progressed: 130,698 (Ranked 88)  
 Completed: 3 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,16 +330,16 @@ Completed: 3 (0.00%) (Ranked 391)
 | 2023-12-27 | 130,259 | 3 |
 | 2023-12-28 | 130,422 | 3 |
 | 2023-12-29 | 130,627 | 3 |
-| 2023-12-30 | 130,693 | 3 |
+| 2023-12-30 | 130,698 | 3 |
 ## Awards
 Max (Character Customization): 7,905  (Ranked 50)  
-Sum: 21,252 (Ranked 58)  
+Sum: 21,256 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,905 |
 | This game has Diverse Characters | 1,791 |
-| This game has Challenging Combat | 1,653 |
+| This game has Challenging Combat | 1,657 |
 | This game is Highly Recommended | 1,582 |
 | This game has Amazing Characters | 1,504 |
 | This game is Extremely Fun | 1,501 |
@@ -688,4 +688,4 @@ Diff (max vs sum): -8
 | 2023-12-27 | 4.68 | - | 7,882 | 21,156 |
 | 2023-12-28 | 4.68 | - | 7,888 | 21,194 |
 | 2023-12-29 | 4.68 | - | 7,899 | 21,240 |
-| 2023-12-30 | 4.68 | - | 7,905 | 21,252 |
+| 2023-12-30 | 4.68 | - | 7,905 | 21,256 |

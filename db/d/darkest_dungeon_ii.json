@@ -10234,10 +10234,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21252,
       "NumberOfAwardsMax": 7905
+    },
+    {
+      "Time": "2023-12-30T08:57:16.5532469+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21256,
+      "NumberOfAwardsMax": 7905
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21252,
+  "NumberOfAwards": 21256,
   "NumberOfAwardsMax": 7905,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10269,7 +10275,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1653
+      "Count": 1657
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -10314,9 +10320,9 @@
       "Count": 1068
     }
   ],
-  "EOS_Progressed": 130693,
+  "EOS_Progressed": 130698,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1419,
+  "EOS_NewPlayers": 1414,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37484,6 +37490,11 @@
       "Time": "2023-12-30T08:10:02.4081725+00:00",
       "NumProgressed": 130693,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-30T09:09:41.7787382+00:00",
+      "NumProgressed": 130698,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37573,9 +37584,9 @@
       "ID": "altar_of_hope_unlock_hero_vestal",
       "SetID": "64l4lke",
       "Name": "Unfulfilled Desires",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2614
+      "UsersEstimate": 3921
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -38095,7 +38106,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -38103,7 +38114,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -38126,21 +38137,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130693,
+      "Progressed": 130698,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5562,
+      "Progressed": 5567,
       "Completed": 815
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-30T06:57:06.8113202+00:00",
-  "LastChanged_Achievements": "2023-12-30T08:10:02.4081722+00:00",
+  "LastChanged": "2023-12-30T08:57:16.5532467+00:00",
+  "LastChanged_Achievements": "2023-12-30T09:09:41.7787378+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-30T07:57:04.759221+00:00",
-  "LastUpdate_Achievements": "2023-12-30T08:10:02.408357+00:00"
+  "LastUpdate_Ratings": "2023-12-30T08:57:16.5532472+00:00",
+  "LastUpdate_Achievements": "2023-12-30T09:09:41.7789003+00:00"
 }

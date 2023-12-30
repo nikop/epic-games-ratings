@@ -6,7 +6,7 @@
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 283,
-  "Ranking_EOS_Completed": 313,
+  "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 3790,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1132,
+  "EOS_Progressed": 1131,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -8,
+  "EOS_NewPlayers": -9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2166,6 +2166,11 @@
       "Time": "2023-12-30T01:48:20.2975472+00:00",
       "NumProgressed": 1132,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T09:04:58.8363706+00:00",
+      "NumProgressed": 1131,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -2177,7 +2182,7 @@
       "Name": "Way of the King",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 90
     },
     {
       "ID": "02",
@@ -2209,7 +2214,7 @@
       "Name": "The First Step",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 804
+      "UsersEstimate": 803
     },
     {
       "ID": "06",
@@ -2217,7 +2222,7 @@
       "Name": "First Blood",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 770
+      "UsersEstimate": 769
     },
     {
       "ID": "07",
@@ -2225,15 +2230,15 @@
       "Name": "Monster Hunter",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 623
+      "UsersEstimate": 622
     },
     {
       "ID": "08",
       "SetID": "73ikgfc",
       "Name": "Monster Slayer",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 340
+      "UsersEstimate": 351
     },
     {
       "ID": "09",
@@ -2241,7 +2246,7 @@
       "Name": "Awakening",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 271
     },
     {
       "ID": "10",
@@ -2305,7 +2310,7 @@
       "Name": "Ready to Learn",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 736
+      "UsersEstimate": 735
     },
     {
       "ID": "18",
@@ -2313,7 +2318,7 @@
       "Name": "Earning Trust",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 589
+      "UsersEstimate": 588
     },
     {
       "ID": "19",
@@ -2360,7 +2365,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1132,
+      "Progressed": 1131,
       "Completed": 1
     }
   ],
@@ -2368,8 +2373,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-12-04T18:59:06.5793648+00:00",
-  "LastChanged_Achievements": "2023-12-30T08:05:46.6332956+00:00",
+  "LastChanged_Achievements": "2023-12-30T09:04:58.8363703+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.4141578+00:00",
-  "LastUpdate_Ratings": "2023-12-30T08:02:36.6900295+00:00",
-  "LastUpdate_Achievements": "2023-12-30T08:05:46.6333204+00:00"
+  "LastUpdate_Ratings": "2023-12-30T09:02:45.0602746+00:00",
+  "LastUpdate_Achievements": "2023-12-30T09:04:58.8363938+00:00"
 }

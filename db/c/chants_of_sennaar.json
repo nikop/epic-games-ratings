@@ -91,7 +91,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2026,
+  "EOS_Progressed": 2028,
   "EOS_Completed": 122,
   "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 35,
@@ -5756,6 +5756,11 @@
       "Time": "2023-12-30T08:07:02.9736711+00:00",
       "NumProgressed": 2026,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-12-30T09:05:54.0793068+00:00",
+      "NumProgressed": 2028,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 25,
@@ -5799,7 +5804,7 @@
       "Name": "A good beginning",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "META_HALF_LINK",
@@ -5869,9 +5874,9 @@
       "ID": "OPTIONNAL_BELL",
       "SetID": "2gma9an",
       "Name": "Rascal",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 487
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -5879,15 +5884,15 @@
       "Name": "True G3M4R",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 810
+      "UsersEstimate": 791
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -5911,7 +5916,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -5927,7 +5932,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "PROGRESS_N2",
@@ -5951,7 +5956,7 @@
       "Name": "The darkness",
       "Percentage": 27,
       "XP": 60,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "PROGRESS_N5",
@@ -5959,14 +5964,14 @@
       "Name": "One last step",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2026,
+      "Progressed": 2028,
       "Completed": 122
     }
   ],
@@ -5974,8 +5979,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-30T06:59:31.3780132+00:00",
-  "LastChanged_Achievements": "2023-12-30T08:07:02.9736708+00:00",
+  "LastChanged_Achievements": "2023-12-30T09:05:54.0793066+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-30T08:00:45.1531775+00:00",
-  "LastUpdate_Achievements": "2023-12-30T08:07:02.9737021+00:00"
+  "LastUpdate_Ratings": "2023-12-30T08:59:44.8528239+00:00",
+  "LastUpdate_Achievements": "2023-12-30T09:05:54.07934+00:00"
 }

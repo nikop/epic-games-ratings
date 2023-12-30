@@ -10,23 +10,23 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 9.00% | ~13,357 |
 | Titan's First Steps | 9.00% | ~13,357 |
 | Tinkle of Coins | 8.00% | ~11,873 |
-| Disintermediation | 7.00% | ~10,388 |
-| Capitalism Ho! | 7.00% | ~10,388 |
-| It's Free Real Estate | 6.00% | ~8,904 |
-| Budding Merchant | 6.00% | ~8,904 |
-| One Easy Payment | 5.00% | ~7,420 |
-| Some Assembly Required | 5.00% | ~7,420 |
-| Another Satisfied Customer | 5.00% | ~7,420 |
-| Pretty Penny | 5.00% | ~7,420 |
-| Own the Means of Production | 5.00% | ~7,420 |
-| The Daily Grind | 4.00% | ~5,936 |
-| Bounty Hunters | 4.00% | ~5,936 |
-| Demand for Supplies | 4.00% | ~5,936 |
-| Flooding the Market | 4.00% | ~5,936 |
-| Where it Hurts | 4.00% | ~5,936 |
-| One-Armed Bandit | 4.00% | ~5,936 |
-| Dungeon Imports | 4.00% | ~5,936 |
-| Through Repetition, Perfection | 4.00% | ~5,936 |
+| Disintermediation | 7.00% | ~10,389 |
+| Capitalism Ho! | 7.00% | ~10,389 |
+| It's Free Real Estate | 6.00% | ~8,905 |
+| Budding Merchant | 6.00% | ~8,905 |
+| One Easy Payment | 5.00% | ~7,421 |
+| Some Assembly Required | 5.00% | ~7,421 |
+| Another Satisfied Customer | 5.00% | ~7,421 |
+| Pretty Penny | 5.00% | ~7,421 |
+| Own the Means of Production | 5.00% | ~7,421 |
+| The Daily Grind | 4.00% | ~5,937 |
+| Bounty Hunters | 4.00% | ~5,937 |
+| Demand for Supplies | 4.00% | ~5,937 |
+| Flooding the Market | 4.00% | ~5,937 |
+| Where it Hurts | 4.00% | ~5,937 |
+| One-Armed Bandit | 4.00% | ~5,937 |
+| Dungeon Imports | 4.00% | ~5,937 |
+| Through Repetition, Perfection | 4.00% | ~5,937 |
 | On the Path to Greatness | 3.00% | ~4,452 |
 | Ascended | 3.00% | ~4,452 |
 | Tax not Included | 3.00% | ~4,452 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~594 |
 | Capitalist Camaraderie | 0.20% | ~297 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,407 (Ranked 83)  
+Progressed: 148,413 (Ranked 83)  
 Completed: 340 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -373,7 +373,7 @@ Completed: 340 (0.23%) (Ranked 267)
 | 2023-12-27 | 148,016 | 336 |
 | 2023-12-28 | 148,196 | 337 |
 | 2023-12-29 | 148,353 | 338 |
-| 2023-12-30 | 148,407 | 340 |
+| 2023-12-30 | 148,413 | 340 |
 ## Awards
 Max (Great for Beginners): 4,925  (Ranked 77)  
 Sum: 27,858 (Ranked 51)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1027,7 +1027,7 @@
       "Count": 164
     }
   ],
-  "EOS_Progressed": 14606,
+  "EOS_Progressed": 14609,
   "EOS_Completed": 83,
   "EOS_NewPlayers": 1065,
   "EOS_NewCompleters": 9,
@@ -16342,6 +16342,11 @@
       "Time": "2023-12-30T08:10:10.9015119+00:00",
       "NumProgressed": 14606,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2023-12-30T09:09:47.6387552+00:00",
+      "NumProgressed": 14609,
+      "NumCompleted": 83
     }
   ],
   "TotalAchievements": 34,
@@ -16425,7 +16430,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "ACH11",
@@ -16441,7 +16446,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "ACH13",
@@ -16457,7 +16462,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6135
+      "UsersEstimate": 6136
     },
     {
       "ID": "ACH15",
@@ -16513,7 +16518,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 6719
+      "UsersEstimate": 6720
     },
     {
       "ID": "ACH22",
@@ -16521,7 +16526,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2921
+      "UsersEstimate": 2922
     },
     {
       "ID": "ACH23",
@@ -16569,7 +16574,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "ACH29",
@@ -16585,7 +16590,7 @@
       "Name": "Mischief Managed",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "ACH31",
@@ -16624,7 +16629,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 14606,
+      "Progressed": 14609,
       "Completed": 83
     }
   ],
@@ -16632,8 +16637,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-29T21:58:53.8500554+00:00",
-  "LastChanged_Achievements": "2023-12-30T08:10:10.9015116+00:00",
+  "LastChanged_Achievements": "2023-12-30T09:09:47.6387551+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:06.9886134+00:00",
-  "LastUpdate_Ratings": "2023-12-30T07:59:50.3012095+00:00",
-  "LastUpdate_Achievements": "2023-12-30T08:10:10.9015949+00:00"
+  "LastUpdate_Ratings": "2023-12-30T08:59:08.1193699+00:00",
+  "LastUpdate_Achievements": "2023-12-30T09:09:47.6388363+00:00"
 }

@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.20 (Ranked 948)  
+Rating: 4.20 (Ranked 949)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -26,7 +26,7 @@ Rating: 4.20 (Ranked 948)
 | Giving Back | 7.00% | ~1,400 |
 | You Need a Gun | 7.00% | ~1,400 |
 | I Do Belong Here | 6.00% | ~1,200 |
-| Keep Fighting | 6.00% | ~475 |
+| Keep Fighting | 6.00% | ~476 |
 | It's Time | 5.00% | ~396 |
 | In Striking Distance | 4.00% | ~800 |
 | The Commonality | 4.00% | ~800 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 948)
 | Big Game Hunter | 0.10% | ~8 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,998 (Ranked 150)  
+Progressed: 20,002 (Ranked 150)  
 Completed: 82 (0.41%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 82 (0.41%) (Ranked 228)
 | 2023-12-27 | 19,632 | 82 |
 | 2023-12-28 | 19,780 | 82 |
 | 2023-12-29 | 19,946 | 82 |
-| 2023-12-30 | 19,998 | 82 |
+| 2023-12-30 | 20,002 | 82 |
 ## Awards
 Max (Amazing Characters): 106  (Ranked 366)  
 Sum: 534 (Ranked 330)  

@@ -215,9 +215,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 8753,
+  "EOS_Progressed": 8762,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2208,
+  "EOS_NewPlayers": 2203,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2945,6 +2945,11 @@
       "Time": "2023-12-30T08:10:25.2049896+00:00",
       "NumProgressed": 8753,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T09:09:57.8507593+00:00",
+      "NumProgressed": 8762,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3171,25 +3176,25 @@
       "ID": "29_NoStoneUnturned",
       "SetID": "37a94m8",
       "Name": "No Stone Unturned",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 44
     },
     {
       "ID": "30_The GreatestExploration",
       "SetID": "37a94m8",
       "Name": "Greatest Exploration",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 70
     },
     {
       "ID": "31_DontTouchThis",
       "SetID": "37a94m8",
       "Name": "Don\u0027t Touch This",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 35
     },
     {
       "ID": "32_AviationSaviour",
@@ -3476,7 +3481,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8753,
+      "Progressed": 8762,
       "Completed": 0
     }
   ],
@@ -3484,8 +3489,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-30T04:58:20.1392626+00:00",
-  "LastChanged_Achievements": "2023-12-30T08:10:25.2049892+00:00",
+  "LastChanged_Achievements": "2023-12-30T09:09:57.8507591+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-30T07:58:57.0649321+00:00",
-  "LastUpdate_Achievements": "2023-12-30T08:10:25.2050526+00:00"
+  "LastUpdate_Ratings": "2023-12-30T08:58:31.6487439+00:00",
+  "LastUpdate_Achievements": "2023-12-30T09:09:57.8508278+00:00"
 }

@@ -19,10 +19,10 @@
 | Parasite Exterminated | 13.00% | ~47 |
 | Trapped | 12.00% | ~43 |
 | Modern Player | 11.00% | ~40 |
-| The Curse Is Real | 10.00% | ~36 |
+| The Curse Is Real | 11.00% | ~40 |
+| Rest In Peace | 10.00% | ~36 |
 | Lover of classics | 9.00% | ~32 |
-| Rest In Peace | 9.00% | ~32 |
-| What A Mansion | 8.00% | ~29 |
+| What A Mansion | 9.00% | ~32 |
 | Researcher | 7.00% | ~25 |
 | I Am The Gate Keeper! | 7.00% | ~25 |
 | Armed To The Teeth | 4.00% | ~14 |

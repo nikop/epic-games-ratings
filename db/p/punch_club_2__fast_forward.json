@@ -2360,9 +2360,9 @@
       "ID": "nero_extrime",
       "SetID": "69co12a",
       "Name": "Extreme neuropower!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 244
     },
     {
       "ID": "not_ok",
@@ -2544,9 +2544,9 @@
       "ID": "work_promotion_3",
       "SetID": "69co12a",
       "Name": "Employee of the year",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 258
+      "UsersEstimate": 263
     }
   ],
   "AchievementSets": [
@@ -2559,8 +2559,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-30T08:10:09.4264968+00:00",
+  "LastChanged_Achievements": "2023-12-30T09:09:46.7628691+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:13.9390464+00:00",
-  "LastUpdate_Ratings": "2023-12-30T07:59:20.9499293+00:00",
-  "LastUpdate_Achievements": "2023-12-30T08:10:09.426551+00:00"
+  "LastUpdate_Ratings": "2023-12-30T08:58:48.0516516+00:00",
+  "LastUpdate_Achievements": "2023-12-30T09:09:46.7629253+00:00"
 }

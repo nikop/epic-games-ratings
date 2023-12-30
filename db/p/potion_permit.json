@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -397,9 +397,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 1833,
+  "EOS_Progressed": 1834,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -3172,6 +3172,11 @@
       "Time": "2023-12-30T08:04:54.1926669+00:00",
       "NumProgressed": 1833,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-30T09:04:20.65903+00:00",
+      "NumProgressed": 1834,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 38,
@@ -3183,7 +3188,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1796
+      "UsersEstimate": 1797
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -3191,7 +3196,7 @@
       "Name": "Great Doctor",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -3231,7 +3236,7 @@
       "Name": "K.O.!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -3239,7 +3244,7 @@
       "Name": "The First Step",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 1595
+      "UsersEstimate": 1596
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -3247,7 +3252,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -3295,7 +3300,7 @@
       "Name": "Friendly",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -3351,7 +3356,7 @@
       "Name": "The Capitalist",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -3359,7 +3364,7 @@
       "Name": "Lumber Specialist",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "ACHIEVEMENTS_24",
@@ -3486,7 +3491,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1833,
+      "Progressed": 1834,
       "Completed": 11
     }
   ],
@@ -3494,8 +3499,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-28T09:03:17.5303608+00:00",
-  "LastChanged_Achievements": "2023-12-30T08:04:54.1926665+00:00",
+  "LastChanged_Achievements": "2023-12-30T09:04:20.6590297+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:45.5140216+00:00",
-  "LastUpdate_Ratings": "2023-12-30T08:02:59.7734608+00:00",
-  "LastUpdate_Achievements": "2023-12-30T08:04:54.1927052+00:00"
+  "LastUpdate_Ratings": "2023-12-30T09:03:00.3724303+00:00",
+  "LastUpdate_Achievements": "2023-12-30T09:04:20.6590693+00:00"
 }

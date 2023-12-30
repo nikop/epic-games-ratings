@@ -670,9 +670,9 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "ae95dh3",
       "Name": "All That Glitters",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -837,8 +837,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2023-12-30T08:08:26.6864057+00:00",
+  "LastChanged_Achievements": "2023-12-30T09:08:33.1340417+00:00",
   "LastUpdate_AppInfo": "2023-12-27T16:57:17.5447439+00:00",
-  "LastUpdate_Ratings": "2023-12-30T07:58:59.0241635+00:00",
-  "LastUpdate_Achievements": "2023-12-30T08:08:26.6864381+00:00"
+  "LastUpdate_Ratings": "2023-12-30T08:58:32.929957+00:00",
+  "LastUpdate_Achievements": "2023-12-30T09:08:33.1340715+00:00"
 }

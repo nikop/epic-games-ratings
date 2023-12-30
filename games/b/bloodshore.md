@@ -12,8 +12,8 @@
 | Comedy Killer | 33.00% | ~85 |
 | Bromance | 31.00% | ~80 |
 | Good job, nerd | 31.00% | ~80 |
+| Mission Complete | 31.00% | ~80 |
 | This won't end well... | 31.00% | ~80 |
-| Mission Complete | 30.00% | ~77 |
 | Lootaphilia | 22.00% | ~57 |
 | Maybe you should give it another go | 11.00% | ~28 |
 | Mikey Lizard | 7.00% | ~18 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 382,
+  "EOS_Progressed": 383,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -525,6 +525,11 @@
       "Time": "2023-12-29T13:13:06.9769013+00:00",
       "NumProgressed": 382,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T09:10:15.1524944+00:00",
+      "NumProgressed": 383,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -576,7 +581,7 @@
       "Name": "The New Director",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ach-ascension-complete-years",
@@ -632,7 +637,7 @@
       "Name": "Traveller",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ach-campaign-finish-hard",
@@ -672,7 +677,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ach-campaign-story2",
@@ -680,7 +685,7 @@
       "Name": "Lost \u0026 Found \u0026 Lost Again",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ach-campaign-story3",
@@ -688,7 +693,7 @@
       "Name": "O Captain My Captain",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ach-cartography-complete",
@@ -726,9 +731,9 @@
       "ID": "ach-drinkingContest",
       "SetID": "17ih7ma",
       "Name": "Under the Table",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 42
     },
     {
       "ID": "ach-environmentKill",
@@ -744,7 +749,7 @@
       "Name": "Red Flag Pirate",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ach-find-treasure-high",
@@ -760,7 +765,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ach-hardExpeditions",
@@ -864,7 +869,7 @@
       "Name": "Spooky!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ach-noEquipment",
@@ -880,15 +885,15 @@
       "Name": "Insomnia",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ach-pacifist-goals",
       "SetID": "17ih7ma",
       "Name": "Nahua Seeker",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 88
     },
     {
       "ID": "ach-paleMask-cure",
@@ -912,7 +917,7 @@
       "Name": "From Whence we Came",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ach-promotion",
@@ -1015,7 +1020,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 382,
+      "Progressed": 383,
       "Completed": 1
     }
   ],
@@ -1023,8 +1028,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-30T08:10:48.4139329+00:00",
+  "LastChanged_Achievements": "2023-12-30T09:10:15.1524941+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.7715172+00:00",
-  "LastUpdate_Ratings": "2023-12-30T07:57:52.2086641+00:00",
-  "LastUpdate_Achievements": "2023-12-30T08:10:48.4139711+00:00"
+  "LastUpdate_Ratings": "2023-12-30T08:57:48.0784349+00:00",
+  "LastUpdate_Achievements": "2023-12-30T09:10:15.1525412+00:00"
 }

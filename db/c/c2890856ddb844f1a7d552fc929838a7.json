@@ -257,7 +257,7 @@
   ],
   "EOS_Progressed": 1935,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4651,9 +4651,9 @@
       "ID": "AC02",
       "SetID": "l4abp0",
       "Name": "Blood and Dust",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1258
     },
     {
       "ID": "AC03",
@@ -5012,8 +5012,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-30T01:40:37.020659+00:00",
-  "LastChanged_Achievements": "2023-12-30T08:07:19.7284681+00:00",
+  "LastChanged_Achievements": "2023-12-30T09:06:05.9051517+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:24.8809366+00:00",
-  "LastUpdate_Ratings": "2023-12-30T07:58:10.6281219+00:00",
-  "LastUpdate_Achievements": "2023-12-30T08:07:19.7285188+00:00"
+  "LastUpdate_Ratings": "2023-12-30T08:58:00.4786569+00:00",
+  "LastUpdate_Achievements": "2023-12-30T09:06:05.9051931+00:00"
 }

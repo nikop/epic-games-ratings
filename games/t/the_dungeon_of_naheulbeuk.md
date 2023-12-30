@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~88,380 |
+| Sowwy! | 36.00% | ~88,381 |
 | Alt+F4 | 10.00% | ~24,550 |
 | Where's that freaking Dwarf? | 9.00% | ~22,095 |
 | Déjà vu | 7.00% | ~17,185 |
@@ -47,15 +47,15 @@ Number of Ratings: 118  (23.09.2022)
 | Material Girl | 1.00% | ~2,455 |
 | Lëgal Legend | 0.90% | ~2,210 |
 | We come in peace | 0.80% | ~1,964 |
-| Holistic Adventuring Party | 0.70% | ~1,718 |
-| An old poacher makes the best gamekeeper | 0.70% | ~1,718 |
+| Holistic Adventuring Party | 0.70% | ~1,719 |
+| An old poacher makes the best gamekeeper | 0.70% | ~1,719 |
 | Scholar of the Lands of Fangh | 0.60% | ~1,473 |
 | Law and Order | 0.60% | ~1,473 |
 | It's been a hard day's night | 0.50% | ~1,228 |
 | Friendly fire | 0.40% | ~982 |
 | I'd rather... Just... Sing! | 0.40% | ~982 |
 | Inception | 0.40% | ~982 |
-| The number of the counting shalt be 7 | 0.30% | ~736 |
+| The number of the counting shalt be 7 | 0.30% | ~737 |
 | Cursed die | 0.20% | ~491 |
 | The Blood Countess | 0.20% | ~491 |
 | He’s alive! Aliiiive! | 0.20% | ~491 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~246 |
 | Dwarf Candy | 0.10% | ~246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,500 (Ranked 69)  
+Progressed: 245,504 (Ranked 69)  
 Completed: 8 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 8 (0.00%) (Ranked 391)
 | 2023-12-27 | 245,077 | 8 |
 | 2023-12-28 | 245,240 | 8 |
 | 2023-12-29 | 245,438 | 8 |
-| 2023-12-30 | 245,500 | 8 |
+| 2023-12-30 | 245,504 | 8 |
 ## Awards
 Max (Character Customization): 261  (Ranked 277)  
 Sum: 547 (Ranked 328)  

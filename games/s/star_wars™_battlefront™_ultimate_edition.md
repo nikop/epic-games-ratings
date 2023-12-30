@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~2,044 |
-| Off to a good start | 62.00% | ~1,457 |
-| Do... or do not. There is no try | 52.00% | ~1,222 |
+| New Recruit | 87.00% | ~2,045 |
+| Off to a good start | 62.00% | ~1,458 |
+| Do... or do not. There is no try | 52.00% | ~1,223 |
 | A good blaster at your side | 26.00% | ~611 |
 | I suggest a new strategy | 18.00% | ~423 |
 | Great shot, kid! | 16.00% | ~376 |
-| Scrap collector | 15.00% | ~352 |
-| All right, I'll give it a try | 15.00% | ~352 |
+| Scrap collector | 15.00% | ~353 |
+| All right, I'll give it a try | 15.00% | ~353 |
 | The power of the Force | 13.00% | ~306 |
 | Shoot first | 13.00% | ~306 |
 | Collector | 12.00% | ~282 |
@@ -28,11 +28,11 @@
 | Support the troops | 5.00% | ~118 |
 | Distinguished | 4.00% | ~94 |
 | A tremor in the Force | 4.00% | ~94 |
-| On the ball | 3.00% | ~70 |
-| Safety ain't the point of a joyride | 3.00% | ~70 |
-| Not bad for a little furball | 3.00% | ~70 |
-| Patience you must have | 3.00% | ~70 |
-| Don't underestimate the Force | 3.00% | ~70 |
+| On the ball | 3.00% | ~71 |
+| Safety ain't the point of a joyride | 3.00% | ~71 |
+| Not bad for a little furball | 3.00% | ~71 |
+| Patience you must have | 3.00% | ~71 |
+| Don't underestimate the Force | 3.00% | ~71 |
 | The Force is strong with this one | 2.00% | ~47 |
 | I've been waiting for you | 2.00% | ~47 |
 | When 900 years old you reach... | 2.00% | ~47 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,350 (Ranked 232)  
+Progressed: 2,351 (Ranked 232)  
 Completed: 1 (0.04%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 1 (0.04%) (Ranked 346)
 | 2023-12-27 | 2,258 | 1 |
 | 2023-12-28 | 2,299 | 1 |
 | 2023-12-29 | 2,337 | 1 |
-| 2023-12-30 | 2,350 | 1 |
+| 2023-12-30 | 2,351 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

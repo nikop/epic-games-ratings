@@ -1503,9 +1503,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "8d3ci0",
       "Name": "Three is company",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 201
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -1527,9 +1527,9 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "8d3ci0",
       "Name": "Ducks adrift",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 134
+      "UsersEstimate": 137
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -1638,8 +1638,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-12-30T08:03:53.859376+00:00",
+  "LastChanged_Achievements": "2023-12-30T09:03:37.0801106+00:00",
   "LastUpdate_AppInfo": "2023-12-24T04:57:03.3422722+00:00",
-  "LastUpdate_Ratings": "2023-12-30T08:00:25.5614986+00:00",
-  "LastUpdate_Achievements": "2023-12-30T08:03:53.859397+00:00"
+  "LastUpdate_Ratings": "2023-12-30T08:59:31.7933797+00:00",
+  "LastUpdate_Achievements": "2023-12-30T09:03:37.0801287+00:00"
 }

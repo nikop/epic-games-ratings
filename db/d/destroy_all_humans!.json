@@ -5,8 +5,8 @@
   "Ranking_Rating": 356,
   "Ranking_Popularity": 502,
   "Ranking_PopularitySum": 527,
-  "Ranking_EOS_Progress": 411,
-  "Ranking_EOS_Completed": 183,
+  "Ranking_EOS_Progress": 409,
+  "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
@@ -299,11 +299,11 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 231,
+  "EOS_Progressed": 232,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.87,
+  "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
     {
       "Time": "2023-12-18T10:04:38.3586261+00:00",
@@ -1064,6 +1064,11 @@
       "Time": "2023-12-30T05:05:59.1306556+00:00",
       "NumProgressed": 231,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-30T09:06:06.3149863+00:00",
+      "NumProgressed": 232,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -1100,7 +1105,7 @@
       "Name": "Deincarnated",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_ABILITY_PKBURNINGINTOHUMAN",
@@ -1116,7 +1121,7 @@
       "Name": "Yettisoned",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -1140,7 +1145,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -1148,7 +1153,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_ABILITY_TRANSMOG",
@@ -1234,9 +1239,9 @@
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
       "SetID": "cefn62b",
       "Name": "Kaijuiced",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -1244,7 +1249,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -1268,7 +1273,7 @@
       "Name": "Higher Than the Futen Zoku",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_ENEMY_KILLSWITHEXPLOSIVE",
@@ -1276,7 +1281,7 @@
       "Name": "Lobster Blisque",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_ENEMY_SILHOUETTE",
@@ -1316,7 +1321,7 @@
       "Name": "Upgreatest",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_INVADE_TURNIPSEED",
@@ -1324,7 +1329,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -1346,9 +1351,9 @@
       "ID": "ACH_MENU_FURONIGAMI",
       "SetID": "cefn62b",
       "Name": "Bodied Sattva",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
@@ -1370,9 +1375,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "cefn62b",
       "Name": "Perfect Probulator",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1395,15 +1400,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 231,
+      "Progressed": 232,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2023-12-30T08:07:20.4078429+00:00",
+  "LastChanged_Achievements": "2023-12-30T09:06:06.314986+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:18.8290018+00:00",
-  "LastUpdate_Ratings": "2023-12-30T08:00:37.7814896+00:00",
-  "LastUpdate_Achievements": "2023-12-30T08:07:20.4078735+00:00"
+  "LastUpdate_Ratings": "2023-12-30T08:59:39.6864971+00:00",
+  "LastUpdate_Achievements": "2023-12-30T09:06:06.3150146+00:00"
 }

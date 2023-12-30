@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 586,
+  "EOS_Progressed": 587,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -2102,6 +2102,11 @@
       "Time": "2023-12-30T03:10:50.6784025+00:00",
       "NumProgressed": 586,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-30T09:10:05.9938282+00:00",
+      "NumProgressed": 587,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -2113,7 +2118,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 48,
       "XP": 60,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "completeact2",
@@ -2121,7 +2126,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 40,
       "XP": 80,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "completeact3",
@@ -2175,9 +2180,9 @@
       "ID": "scoreminrankrf2",
       "SetID": "40n95i5",
       "Name": "Partners in Crime",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 47
+      "UsersEstimate": 41
     },
     {
       "ID": "scoreminrankrh1",
@@ -2232,7 +2237,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 586,
+      "Progressed": 587,
       "Completed": 2
     }
   ],
@@ -2240,8 +2245,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-30T08:10:36.3860593+00:00",
+  "LastChanged_Achievements": "2023-12-30T09:10:05.9938279+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:13.373144+00:00",
-  "LastUpdate_Ratings": "2023-12-30T07:57:44.1104334+00:00",
-  "LastUpdate_Achievements": "2023-12-30T08:10:36.3860754+00:00"
+  "LastUpdate_Ratings": "2023-12-30T08:57:42.2726751+00:00",
+  "LastUpdate_Achievements": "2023-12-30T09:10:05.9938531+00:00"
 }

@@ -32,9 +32,9 @@
 | Fight for life | 53.00% | ~263 |
 | Own four walls | 53.00% | ~263 |
 | Intriguing candies | 53.00% | ~263 |
-| Employee of the year | 52.00% | ~258 |
+| Employee of the year | 53.00% | ~263 |
 | Legal courier | 49.00% | ~244 |
-| Extreme neuropower! | 48.00% | ~239 |
+| Extreme neuropower! | 49.00% | ~244 |
 | Escaped from a big trouble | 46.00% | ~229 |
 | Now you are worthy | 42.00% | ~209 |
 | Fight is life | 41.00% | ~204 |

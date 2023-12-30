@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 78407,
+  "EOS_Progressed": 78408,
   "EOS_Completed": 419,
-  "EOS_NewPlayers": 827,
+  "EOS_NewPlayers": 826,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -28374,6 +28374,11 @@
       "Time": "2023-12-30T07:09:16.4920666+00:00",
       "NumProgressed": 78407,
       "NumCompleted": 419
+    },
+    {
+      "Time": "2023-12-30T09:09:44.5233826+00:00",
+      "NumProgressed": 78408,
+      "NumCompleted": 419
     }
   ],
   "TotalAchievements": 24,
@@ -28401,7 +28406,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 54101
+      "UsersEstimate": 54102
     },
     {
       "ID": "BEST_FRIENDS",
@@ -28425,7 +28430,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16465
+      "UsersEstimate": 16466
     },
     {
       "ID": "FETCH",
@@ -28529,7 +28534,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 16465
+      "UsersEstimate": 16466
     },
     {
       "ID": "SPIRIT_DASH",
@@ -28576,7 +28581,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 78407,
+      "Progressed": 78408,
       "Completed": 419
     }
   ],
@@ -28584,8 +28589,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2023-12-30T08:10:06.3572764+00:00",
+  "LastChanged_Achievements": "2023-12-30T09:09:44.5233821+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:46.017366+00:00",
-  "LastUpdate_Ratings": "2023-12-30T07:59:52.6859465+00:00",
-  "LastUpdate_Achievements": "2023-12-30T08:10:06.3574577+00:00"
+  "LastUpdate_Ratings": "2023-12-30T08:59:09.6628826+00:00",
+  "LastUpdate_Achievements": "2023-12-30T09:09:44.5235619+00:00"
 }

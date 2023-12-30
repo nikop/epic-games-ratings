@@ -3677,7 +3677,7 @@
       "Count": 337
     }
   ],
-  "EOS_Progressed": 19665,
+  "EOS_Progressed": 19669,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 691,
   "EOS_NewCompleters": -4,
@@ -17707,6 +17707,11 @@
       "Time": "2023-12-30T08:07:53.5278258+00:00",
       "NumProgressed": 19665,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-30T09:06:30.0015179+00:00",
+      "NumProgressed": 19669,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17781,9 +17786,9 @@
       "ID": "ManyEvents",
       "SetID": "cfbk359",
       "Name": "Efficient Explorer",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 177
     },
     {
       "ID": "MetalChain",
@@ -17893,9 +17898,9 @@
       "ID": "WinNearForbidden",
       "SetID": "cfbk359",
       "Name": "Forbidden Lands",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 157
     },
     {
       "ID": "WinNearHaunted",
@@ -18190,15 +18195,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19665,
+      "Progressed": 19669,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-29T20:02:24.9867935+00:00",
-  "LastChanged_Achievements": "2023-12-30T08:07:53.5278252+00:00",
+  "LastChanged_Achievements": "2023-12-30T09:06:30.0015176+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-30T08:02:40.9070511+00:00",
-  "LastUpdate_Achievements": "2023-12-30T08:07:53.5279381+00:00"
+  "LastUpdate_Ratings": "2023-12-30T09:02:47.9757493+00:00",
+  "LastUpdate_Achievements": "2023-12-30T09:06:30.0016272+00:00"
 }

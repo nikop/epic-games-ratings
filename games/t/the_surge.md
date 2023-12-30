@@ -6,48 +6,48 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,822 |
-| I'll Be Back | 84.00% | ~4,309 |
-| Sorry, I Dropped This | 77.00% | ~3,950 |
-| First Day on the Job | 76.00% | ~3,899 |
-| Butcher's Bill | 54.00% | ~2,770 |
-| P.A.X | 37.00% | ~1,898 |
-| Hey Listen | 36.00% | ~1,847 |
-| OPERATOR | 35.00% | ~1,795 |
-| It's Blue Light | 33.00% | ~1,693 |
-| Most Wanted | 26.00% | ~1,334 |
-| Infidel | 23.00% | ~1,180 |
-| GOLIATH | 21.00% | ~1,077 |
-| Firebug | 20.00% | ~1,026 |
-| Nothing to Lose | 18.00% | ~923 |
-| I Choose You | 17.00% | ~872 |
+| On My Own Two Feet | 94.00% | ~4,825 |
+| I'll Be Back | 84.00% | ~4,312 |
+| Sorry, I Dropped This | 77.00% | ~3,952 |
+| First Day on the Job | 76.00% | ~3,901 |
+| Butcher's Bill | 54.00% | ~2,772 |
+| P.A.X | 37.00% | ~1,899 |
+| Hey Listen | 36.00% | ~1,848 |
+| OPERATOR | 35.00% | ~1,797 |
+| It's Blue Light | 33.00% | ~1,694 |
+| Most Wanted | 26.00% | ~1,335 |
+| Infidel | 23.00% | ~1,181 |
+| GOLIATH | 21.00% | ~1,078 |
+| Firebug | 20.00% | ~1,027 |
+| Nothing to Lose | 18.00% | ~924 |
+| I Choose You | 17.00% | ~873 |
 | Big Sister | 15.00% | ~770 |
 | Gear Up | 15.00% | ~770 |
 | SENTINEL | 15.00% | ~770 |
 | Core Power | 13.00% | ~667 |
 | The Black Cerberus | 12.00% | ~616 |
 | Watchman | 12.00% | ~616 |
-| CREO Killed the Video Star | 11.00% | ~564 |
-| Who's in Charge Here? | 11.00% | ~564 |
-| Shall Not Pass | 11.00% | ~564 |
+| CREO Killed the Video Star | 11.00% | ~565 |
+| Who's in Charge Here? | 11.00% | ~565 |
+| Shall Not Pass | 11.00% | ~565 |
 | Right Tool for the Job | 10.00% | ~513 |
 | Melting Down | 9.00% | ~462 |
 | Raging Drones | 9.00% | ~462 |
 | Overconfident | 9.00% | ~462 |
-| Pusher Man | 8.00% | ~410 |
-| Squad Chief Helvig | 8.00% | ~410 |
-| No More Marching | 8.00% | ~410 |
-| Is This Real Life? | 8.00% | ~410 |
+| Pusher Man | 8.00% | ~411 |
+| Squad Chief Helvig | 8.00% | ~411 |
+| No More Marching | 8.00% | ~411 |
+| Is This Real Life? | 8.00% | ~411 |
 | Duty-Bound | 7.00% | ~359 |
 | Follow the White Rabbit | 7.00% | ~359 |
 | Liberation | 7.00% | ~359 |
 | Risk Assessment | 7.00% | ~359 |
 | Sunglasses at Night | 6.00% | ~308 |
 | Carbon Cat | 6.00% | ~308 |
-| It Lives! It Sniffs! It Conquers! | 5.00% | ~256 |
-| Man of Steel | 5.00% | ~256 |
-| Jack of All Trades | 5.00% | ~256 |
-| 3-2-1 | 5.00% | ~256 |
+| It Lives! It Sniffs! It Conquers! | 5.00% | ~257 |
+| Man of Steel | 5.00% | ~257 |
+| Jack of All Trades | 5.00% | ~257 |
+| 3-2-1 | 5.00% | ~257 |
 | Rusty Rat | 4.00% | ~205 |
 | Desecration | 4.00% | ~205 |
 | For the Good of Mankind | 3.00% | ~154 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~31 |
 | The Surge | 0.40% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,130 (Ranked 202)  
+Progressed: 5,133 (Ranked 202)  
 Completed: 18 (0.35%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 18 (0.35%) (Ranked 237)
 | 2023-12-27 | 5,097 | 18 |
 | 2023-12-28 | 5,108 | 18 |
 | 2023-12-29 | 5,128 | 18 |
-| 2023-12-30 | 5,130 | 18 |
+| 2023-12-30 | 5,133 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 514)  
 Sum: 30 (Ranked 534)  

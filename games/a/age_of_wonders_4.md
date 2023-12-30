@@ -6,27 +6,27 @@ Rating: 4.63 (Ranked 356)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 12.00% | ~782 |
-| Realm Estate | 10.00% | ~651 |
-| A Wonderful Discovery | 10.00% | ~651 |
-| Walls Cannot Stop Us | 9.00% | ~586 |
-| From Friends to Family | 8.00% | ~521 |
+| Realm Estate | 10.00% | ~652 |
+| A Wonderful Discovery | 10.00% | ~652 |
+| Walls Cannot Stop Us | 9.00% | ~587 |
+| From Friends to Family | 8.00% | ~522 |
 | Bone Peddler | 7.00% | ~456 |
 | Full Ascension | 6.00% | ~391 |
 | Magical Synergy | 6.00% | ~391 |
 | There Can Only Be One! | 5.00% | ~326 |
 | Stronger Together | 5.00% | ~326 |
 | Seat of Power | 5.00% | ~326 |
+| In a Liege of Your Own | 5.00% | ~326 |
 | But this one is mine | 5.00% | ~326 |
 | Valley of Wonders | 4.00% | ~261 |
-| In a Liege of Your Own | 4.00% | ~261 |
 | Intimidation Tactics | 4.00% | ~261 |
-| Return of the Wizard King | 3.00% | ~195 |
-| Enchanted Archipelago | 3.00% | ~195 |
-| Digging for Treasure | 3.00% | ~195 |
-| My Final Form | 3.00% | ~195 |
-| Fiery Friend | 3.00% | ~195 |
-| Impenetrable Fortress | 3.00% | ~195 |
-| Freed Lands of Manuhari | 3.00% | ~195 |
+| Return of the Wizard King | 3.00% | ~196 |
+| Enchanted Archipelago | 3.00% | ~196 |
+| Digging for Treasure | 3.00% | ~196 |
+| My Final Form | 3.00% | ~196 |
+| Fiery Friend | 3.00% | ~196 |
+| Impenetrable Fortress | 3.00% | ~196 |
+| Freed Lands of Manuhari | 3.00% | ~196 |
 | Arch Mage | 2.00% | ~130 |
 | Crimson Caldera | 2.00% | ~130 |
 | Preparation Is Everything | 2.00% | ~130 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 356)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,513 (Ranked 195)  
+Progressed: 6,519 (Ranked 195)  
 Completed: 7 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,17 +288,17 @@ Completed: 7 (0.11%) (Ranked 304)
 | 2023-12-27 | 6,359 | 7 |
 | 2023-12-28 | 6,414 | 7 |
 | 2023-12-29 | 6,495 | 7 |
-| 2023-12-30 | 6,513 | 7 |
+| 2023-12-30 | 6,519 | 7 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 478)  
-Sum: 162 (Ranked 436)  
+Sum: 163 (Ranked 436)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 39 |
 | This game has Diverse Characters | 38 |
 | This game is Extremely Fun | 24 |
-| This game is Highly Recommended | 21 |
+| This game is Highly Recommended | 22 |
 | This game has Amazing Storytelling | 20 |
 | This game has Challenging Combat | 20 |
 ## Ratings History
@@ -382,4 +382,4 @@ Diff (max vs sum): 42
 | 2023-12-26 | 4.63 | 38 | 138 |
 | 2023-12-27 | 4.63 | 38 | 140 |
 | 2023-12-29 | 4.63 | 38 | 161 |
-| 2023-12-30 | 4.63 | 39 | 162 |
+| 2023-12-30 | 4.63 | 39 | 163 |

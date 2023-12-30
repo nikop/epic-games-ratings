@@ -2,7 +2,7 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 948,
+  "Ranking_Rating": 949,
   "Ranking_Popularity": 366,
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 150,
@@ -1919,9 +1919,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 19998,
+  "EOS_Progressed": 20002,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1261,
+  "EOS_NewPlayers": 1258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -11789,6 +11789,11 @@
       "Time": "2023-12-30T08:09:58.1716016+00:00",
       "NumProgressed": 19998,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-30T09:09:38.5337467+00:00",
+      "NumProgressed": 20002,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -12152,7 +12157,7 @@
       "Name": "Keep Fighting",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -12175,13 +12180,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 19998,
+      "Progressed": 20002,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 7924,
+      "Progressed": 7928,
       "Completed": 29
     }
   ],
@@ -12189,8 +12194,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-30T05:03:27.0737838+00:00",
-  "LastChanged_Achievements": "2023-12-30T08:09:58.1716014+00:00",
+  "LastChanged_Achievements": "2023-12-30T09:09:38.5337465+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3019969+00:00",
-  "LastUpdate_Ratings": "2023-12-30T08:03:31.4568534+00:00",
-  "LastUpdate_Achievements": "2023-12-30T08:09:58.1716933+00:00"
+  "LastUpdate_Ratings": "2023-12-30T09:03:21.8441521+00:00",
+  "LastUpdate_Achievements": "2023-12-30T09:09:38.5338811+00:00"
 }
