@@ -3,9 +3,9 @@
   "Name": "Foretales",
   "ProductSlug": "foretales-d6c5bd",
   "Ranking_EOS_Progress": 391,
-  "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 431,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 390,
+  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
     "PcReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -268,9 +268,9 @@
       "ID": "chapter1",
       "SetID": "5bkacmp",
       "Name": "Isenburg\u0027s fall",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 142
     },
     {
       "ID": "chapter2",
@@ -581,8 +581,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-12-30T00:08:33.4924029+00:00",
+  "LastChanged_Achievements": "2023-12-30T01:51:52.0294927+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:17.7200485+00:00",
-  "LastUpdate_Ratings": "2023-12-30T00:02:43.9146717+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:08:33.492453+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:45:39.6865866+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:51:52.0295243+00:00"
 }

@@ -14,16 +14,16 @@ Number of Ratings: 28  (23.09.2022)
 | Collector | 43.00% | ~258 |
 | Need to think | 43.00% | ~258 |
 | Completely nuts! | 41.00% | ~246 |
+| Europe | 33.00% | ~198 |
 | Just in time! | 33.00% | ~198 |
-| Europe | 32.00% | ~192 |
 | Madness! | 31.00% | ~186 |
 | It's no coincidence. | 28.00% | ~168 |
 | Philatelist | 26.00% | ~156 |
 | Let's roll! | 26.00% | ~156 |
-| Ouroboros | 24.00% | ~144 |
+| Ouroboros | 25.00% | ~150 |
 | Non Stop! | 24.00% | ~144 |
 | Foreman | 21.00% | ~126 |
-| Russia | 19.00% | ~114 |
+| Russia | 20.00% | ~120 |
 | America | 18.00% | ~108 |
 | Missed it! | 18.00% | ~108 |
 | Sabotage | 16.00% | ~96 |
@@ -47,7 +47,7 @@ Number of Ratings: 28  (23.09.2022)
 | Vandal | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 601 (Ranked 329)  
-Completed: 2 (0.33%) (Ranked 245)  
+Completed: 2 (0.33%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

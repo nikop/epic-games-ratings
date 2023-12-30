@@ -6,16 +6,16 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 78.00% | ~229 |
-| First of many… | 69.00% | ~203 |
-| Helping Hand | 66.00% | ~194 |
-| Increased Vigor | 60.00% | ~176 |
-| Fight Fire with Fire | 57.00% | ~168 |
+| Green with Envy | 78.00% | ~230 |
+| First of many… | 69.00% | ~204 |
+| Helping Hand | 66.00% | ~195 |
+| Increased Vigor | 60.00% | ~177 |
+| Fight Fire with Fire | 58.00% | ~171 |
 | Increased Capacity | 54.00% | ~159 |
-| Just the start | 50.00% | ~147 |
-| Perfect Storm | 47.00% | ~138 |
-| All That Glitters | 46.00% | ~135 |
-| Enhance! | 43.00% | ~126 |
+| Just the start | 51.00% | ~150 |
+| Perfect Storm | 47.00% | ~139 |
+| All That Glitters | 46.00% | ~136 |
+| Enhance! | 43.00% | ~127 |
 | One Of the Chosen | 41.00% | ~121 |
 | Devil's in the Details | 39.00% | ~115 |
 | Throne Potato | 39.00% | ~115 |
@@ -27,10 +27,10 @@ Number of Ratings: 116  (23.09.2022)
 | I Wanna Rock | 31.00% | ~91 |
 | Delusions of Grandeur | 31.00% | ~91 |
 | Maximum Vigor | 30.00% | ~88 |
-| Love Tap | 30.00% | ~88 |
-| Freeze Frame | 28.00% | ~82 |
-| Eat Your Heart Out | 27.00% | ~79 |
-| For Whom the Bell Tolls | 27.00% | ~79 |
+| Love Tap | 29.00% | ~86 |
+| Freeze Frame | 27.00% | ~80 |
+| Eat Your Heart Out | 27.00% | ~80 |
+| For Whom the Bell Tolls | 27.00% | ~80 |
 | Unyielding Strength | 24.00% | ~71 |
 | Big Spender | 24.00% | ~71 |
 | Can you restore the Balance? | 23.00% | ~68 |
@@ -46,8 +46,8 @@ Number of Ratings: 116  (23.09.2022)
 | A Parting Gift | 12.00% | ~35 |
 | Path of the Horseman | 12.00% | ~35 |
 | Unbreakable Will | 11.00% | ~32 |
-| Holy Keeper | 9.00% | ~26 |
-| Take it to the Limit | 9.00% | ~26 |
+| Take it to the Limit | 9.00% | ~27 |
+| Holy Keeper | 8.00% | ~24 |
 | Demon Keeper | 8.00% | ~24 |
 | My Evil Twin | 7.00% | ~21 |
 | Humanitarian | 7.00% | ~21 |
@@ -71,8 +71,8 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 0.70% | ~2 |
 | Beast Mode | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 294 (Ranked 388)  
-Completed: 1 (0.34%) (Ranked 241)  
+Progressed: 295 (Ranked 387)  
+Completed: 1 (0.34%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,7 +86,7 @@ Completed: 1 (0.34%) (Ranked 241)
 | 2023-12-27 | 247 | 1 |
 | 2023-12-28 | 265 | 1 |
 | 2023-12-29 | 293 | 1 |
-| 2023-12-30 | 294 | 1 |
+| 2023-12-30 | 295 | 1 |
 ## Awards
 Max (Great Boss Battles): 94  (Ranked 387)  
 Sum: 94 (Ranked 467)  

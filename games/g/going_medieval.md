@@ -1,7 +1,7 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 427)  
+Rating: 4.60 (Ranked 426)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -39,7 +39,7 @@ Number of Ratings: 706  (23.09.2022)
 | Wabbit Season | 0.50% | ~38 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,608 (Ranked 190)  
-Completed: 14 (0.18%) (Ranked 277)  
+Completed: 14 (0.18%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

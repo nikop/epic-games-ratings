@@ -6,9 +6,9 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 247,
-  "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 209,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1808,
+  "EOS_Progressed": 1811,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3043,6 +3043,11 @@
       "Time": "2023-12-30T00:05:43.2906799+00:00",
       "NumProgressed": 1808,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-30T01:49:59.6565455+00:00",
+      "NumProgressed": 1811,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3054,7 +3059,7 @@
       "Name": "Lovebirds",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "10",
@@ -3070,7 +3075,7 @@
       "Name": "Strike!",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "12",
@@ -3110,7 +3115,7 @@
       "Name": "My little pony",
       "Percentage": 18,
       "XP": 70,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "17",
@@ -3118,7 +3123,7 @@
       "Name": "Balding bloot!",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1322
     },
     {
       "ID": "18",
@@ -3182,7 +3187,7 @@
       "Name": "In my shoes",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "25",
@@ -3206,7 +3211,7 @@
       "Name": "A love supreme",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "3",
@@ -3214,7 +3219,7 @@
       "Name": "Hug therapy",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "30",
@@ -3238,7 +3243,7 @@
       "Name": "Spring cleaning",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "4",
@@ -3254,7 +3259,7 @@
       "Name": "An eye for an eye",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "6",
@@ -3262,7 +3267,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "7",
@@ -3278,7 +3283,7 @@
       "Name": "Over my dead body",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "9",
@@ -3293,15 +3298,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1808,
+      "Progressed": 1811,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-30T00:05:43.2906796+00:00",
+  "LastChanged_Achievements": "2023-12-30T01:49:59.6565452+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.0357893+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:56:59.7790889+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:05:43.2907047+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:39:44.9013351+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:49:59.6565752+00:00"
 }

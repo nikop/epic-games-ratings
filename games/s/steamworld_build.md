@@ -14,7 +14,7 @@
 | Gotta Go Fast | 44.00% | ~93 |
 | Slotting Machine | 44.00% | ~93 |
 | Systematic | 43.00% | ~91 |
-| Mine Sweeper | 39.00% | ~82 |
+| Mine Sweeper | 40.00% | ~84 |
 | Roll Out | 36.00% | ~76 |
 | Dopa-Miner | 30.00% | ~63 |
 | Up, Up And Away! | 30.00% | ~63 |
@@ -34,7 +34,7 @@
 | Nothing But Road | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 211 (Ranked 419)  
-Completed: 0 (0.00%) (Ranked 389)  
+Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

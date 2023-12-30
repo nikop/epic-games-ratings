@@ -6,9 +6,9 @@
   "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 240,
-  "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 368,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -3386,9 +3386,9 @@
       "ID": "ACH_UNFORGIVEN",
       "SetID": "8j30i9k",
       "Name": "Unforgiven",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1826
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -3442,8 +3442,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-11-26T10:59:42.9428977+00:00",
-  "LastChanged_Achievements": "2023-12-30T00:04:44.4736794+00:00",
+  "LastChanged_Achievements": "2023-12-30T01:48:35.8958054+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:27.4938558+00:00",
-  "LastUpdate_Ratings": "2023-12-30T00:00:07.7935849+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:04:44.4737202+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:44:31.5645306+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:48:35.8958557+00:00"
 }

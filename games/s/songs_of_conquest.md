@@ -62,7 +62,7 @@ Number of Ratings: 292  (23.09.2022)
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 851 (Ranked 296)  
-Completed: 0 (0.00%) (Ranked 389)  
+Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

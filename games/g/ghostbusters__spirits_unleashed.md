@@ -21,17 +21,17 @@ Rating: 4.50 (Ranked 610)
 | Ghostbuster In Training | 4.00% | ~1,317 |
 | There you are! | 4.00% | ~1,317 |
 | Whoopsie | 4.00% | ~1,317 |
-| Animated | 3.00% | ~987 |
-| Back Off | 3.00% | ~987 |
-| We have the best insurance | 3.00% | ~987 |
-| Ectoplasmic Entity | 3.00% | ~987 |
-| Icing on the Cake | 3.00% | ~987 |
-| Legions | 3.00% | ~987 |
-| Pesky Jerks | 3.00% | ~987 |
-| Right back at ya | 3.00% | ~987 |
-| Seasoned | 3.00% | ~987 |
-| Side Hustle | 3.00% | ~987 |
-| Summoner | 3.00% | ~987 |
+| Animated | 3.00% | ~988 |
+| Back Off | 3.00% | ~988 |
+| We have the best insurance | 3.00% | ~988 |
+| Ectoplasmic Entity | 3.00% | ~988 |
+| Icing on the Cake | 3.00% | ~988 |
+| Legions | 3.00% | ~988 |
+| Pesky Jerks | 3.00% | ~988 |
+| Right back at ya | 3.00% | ~988 |
+| Seasoned | 3.00% | ~988 |
+| Side Hustle | 3.00% | ~988 |
+| Summoner | 3.00% | ~988 |
 | Collector | 2.00% | ~658 |
 | Escape Artist | 2.00% | ~658 |
 | Reckless | 2.00% | ~658 |
@@ -47,7 +47,7 @@ Rating: 4.50 (Ranked 610)
 | Surprise! | 1.00% | ~329 |
 | Terrifying | 1.00% | ~329 |
 | Therapeutic | 0.80% | ~263 |
-| Rift Seeker | 0.60% | ~197 |
+| Rift Seeker | 0.60% | ~198 |
 | Master Collector | 0.50% | ~165 |
 | Ghost Expert | 0.30% | ~99 |
 | Catostrophic Destroyer | 0.20% | ~66 |
@@ -57,8 +57,8 @@ Rating: 4.50 (Ranked 610)
 | Ultimate Defense | 0.20% | ~66 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,915 (Ranked 134)  
-Completed: 71 (0.22%) (Ranked 269)  
+Progressed: 32,918 (Ranked 134)  
+Completed: 71 (0.22%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -311,13 +311,14 @@ Completed: 71 (0.22%) (Ranked 269)
 | 2023-12-27 | 32,821 | 70 |
 | 2023-12-28 | 32,854 | 70 |
 | 2023-12-29 | 32,915 | 71 |
+| 2023-12-30 | 32,918 | 71 |
 ## Awards
-Max (Great for Quick Sessions): 325  (Ranked 255)  
-Sum: 2,938 (Ranked 184)  
-Diff (max vs sum): 71  
+Max (Great for Beginners): 326  (Ranked 255)  
+Sum: 2,939 (Ranked 183)  
+Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 325 |
+| This game is Great for Beginners | 326 |
 | This game is Great for Quick Sessions | 325 |
 | This game has Diverse Characters | 311 |
 | This game has Amazing Storytelling | 292 |
@@ -583,3 +584,4 @@ Diff (max vs sum): 71
 | 2023-12-27 | 4.50 | 325 | 2,933 |
 | 2023-12-28 | 4.50 | 325 | 2,934 |
 | 2023-12-29 | 4.50 | 325 | 2,938 |
+| 2023-12-30 | 4.50 | 326 | 2,939 |

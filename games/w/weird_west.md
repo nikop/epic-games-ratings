@@ -6,7 +6,7 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,806 |
+| Unforgiven | 89.00% | ~1,826 |
 | Self-Improvement | 71.00% | ~1,457 |
 | Perky | 65.00% | ~1,334 |
 | Let’s Ride | 59.00% | ~1,211 |
@@ -61,7 +61,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.40% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,052 (Ranked 240)  
-Completed: 7 (0.34%) (Ranked 241)  
+Completed: 7 (0.34%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

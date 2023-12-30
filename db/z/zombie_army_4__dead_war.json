@@ -3,12 +3,12 @@
   "Name": "Zombie Army 4: Dead War",
   "ProductSlug": "zombie-army-4-dead-war",
   "Ranking_Rating": 231,
-  "Ranking_Popularity": 171,
+  "Ranking_Popularity": 172,
   "Ranking_PopularitySum": 197,
   "Ranking_EOS_Progress": 126,
-  "Ranking_EOS_Completed": 327,
+  "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2616,9 +2616,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44263,
+  "EOS_Progressed": 44264,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10426,6 +10426,11 @@
       "Time": "2023-12-29T23:03:39.8971424+00:00",
       "NumProgressed": 44263,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-12-30T01:47:12.3022149+00:00",
+      "NumProgressed": 44264,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -10437,7 +10442,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27443
+      "UsersEstimate": 27444
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -10507,9 +10512,9 @@
       "ID": "SE_COMPLETE_CROATIA",
       "SetID": "49kdhbg",
       "Name": "Look mummy! A shark!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 18148
+      "UsersEstimate": 18591
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -10645,7 +10650,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 15049
+      "UsersEstimate": 15050
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -10709,7 +10714,7 @@
       "Name": "Shock therapy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 10180
+      "UsersEstimate": 10181
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -10725,7 +10730,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16377
+      "UsersEstimate": 16378
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -10733,7 +10738,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18590
+      "UsersEstimate": 18591
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -10741,7 +10746,7 @@
       "Name": "Gold",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 22574
+      "UsersEstimate": 22575
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -10757,7 +10762,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 16377
+      "UsersEstimate": 16378
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -10765,7 +10770,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30541
+      "UsersEstimate": 30542
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -10829,7 +10834,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19918
+      "UsersEstimate": 19919
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -10877,7 +10882,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 15049
+      "UsersEstimate": 15050
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -10933,7 +10938,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 10180
+      "UsersEstimate": 10181
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -10941,7 +10946,7 @@
       "Name": "The bigger they are...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6639
+      "UsersEstimate": 6640
     },
     {
       "ID": "SE_TAKEDOWN_A_BLIND_SCREAMER",
@@ -10949,7 +10954,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7967
+      "UsersEstimate": 7968
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -10964,15 +10969,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44263,
+      "Progressed": 44264,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-12-29T05:57:06.3700729+00:00",
-  "LastChanged_Achievements": "2023-12-30T00:03:44.9308869+00:00",
+  "LastChanged_Achievements": "2023-12-30T01:47:12.3022146+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:25.7383264+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:57:39.9666127+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:03:44.9309557+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:40:48.3966771+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:47:12.3022842+00:00"
 }

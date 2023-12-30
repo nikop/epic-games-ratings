@@ -6,19 +6,19 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~15,540 |
+| Sink Beneath the Waves | 36.00% | ~15,541 |
 | Sweet Sorrow | 18.00% | ~7,770 |
-| Rules the Waves | 17.00% | ~7,338 |
+| Rules the Waves | 17.00% | ~7,339 |
 | Thou, All-Shaking Thunder | 15.00% | ~6,475 |
-| Rival | 14.00% | ~6,043 |
+| Rival | 14.00% | ~6,044 |
 | Correspondent | 12.00% | ~5,180 |
 | Lose Your Mind | 12.00% | ~5,180 |
 | Sound Mind? | 12.00% | ~5,180 |
-| Salt's Curse | 11.00% | ~4,748 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~4,748 |
-| The Fall of the House | 11.00% | ~4,748 |
-| Shipmate | 11.00% | ~4,748 |
-| One Year at Zee | 8.00% | ~3,453 |
+| Salt's Curse | 11.00% | ~4,749 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~4,749 |
+| The Fall of the House | 11.00% | ~4,749 |
+| Shipmate | 11.00% | ~4,749 |
+| One Year at Zee | 8.00% | ~3,454 |
 | Pupil | 7.00% | ~3,022 |
 | Salvager | 7.00% | ~3,022 |
 | Open Your Ears | 7.00% | ~3,022 |
@@ -37,15 +37,15 @@ Number of Ratings: 401  (23.09.2022)
 | Knife, Cup and Bone | 1.00% | ~432 |
 | Rosewater sailor | 1.00% | ~432 |
 | A current under zee | 1.00% | ~432 |
-| Never Stop Sinking... | 0.90% | ~388 |
-| His bones in whispers | 0.90% | ~388 |
-| The beauty of the deep | 0.90% | ~388 |
-| The dragon in the zee | 0.90% | ~388 |
-| Thanks for all the fish | 0.90% | ~388 |
-| Those are pearls that were his eyes | 0.90% | ~388 |
-| No regrets | 0.90% | ~388 |
-| Under the zee | 0.90% | ~388 |
-| Depth charge | 0.90% | ~388 |
+| Never Stop Sinking... | 0.90% | ~389 |
+| His bones in whispers | 0.90% | ~389 |
+| The beauty of the deep | 0.90% | ~389 |
+| The dragon in the zee | 0.90% | ~389 |
+| Thanks for all the fish | 0.90% | ~389 |
+| Those are pearls that were his eyes | 0.90% | ~389 |
+| No regrets | 0.90% | ~389 |
+| Under the zee | 0.90% | ~389 |
+| Depth charge | 0.90% | ~389 |
 | A zee-change | 0.80% | ~345 |
 | Leviathan | 0.80% | ~345 |
 | What lies beneath | 0.70% | ~302 |
@@ -61,8 +61,8 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~43 |
 | Ten Years at Zee | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,166 (Ranked 128)  
-Completed: 4 (0.01%) (Ranked 367)  
+Progressed: 43,169 (Ranked 128)  
+Completed: 4 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -315,7 +315,7 @@ Completed: 4 (0.01%) (Ranked 367)
 | 2023-12-27 | 43,046 | 4 |
 | 2023-12-28 | 43,111 | 4 |
 | 2023-12-29 | 43,162 | 4 |
-| 2023-12-30 | 43,166 | 4 |
+| 2023-12-30 | 43,169 | 4 |
 ## Awards
 Max (Character Customization): 221  (Ranked 289)  
 Sum: 315 (Ranked 373)  

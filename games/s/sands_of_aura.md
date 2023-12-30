@@ -18,9 +18,9 @@
 | Sommelier | 6.00% | ~8 |
 | The River Styx | 6.00% | ~8 |
 | Sovereignty of Irons | 6.00% | ~8 |
+| A Sandwyrm's Hoard | 6.00% | ~8 |
 | Twin Thorns | 6.00% | ~8 |
 | Let Me Solo Them | 5.00% | ~6 |
-| A Sandwyrm's Hoard | 5.00% | ~6 |
 | Frigid Winds | 4.00% | ~5 |
 | Missing Melodies | 2.00% | ~3 |
 | Smotherly Love | 2.00% | ~3 |
@@ -64,7 +64,7 @@
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 126 (Ranked 466)  
-Completed: 0 (0.00%) (Ranked 389)  
+Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

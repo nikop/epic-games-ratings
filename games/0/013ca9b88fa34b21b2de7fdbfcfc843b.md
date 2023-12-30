@@ -18,13 +18,13 @@ Rating: 4.63 (Ranked 355)
 | Lumberjack | 1.00% | ~88 |
 | Mist Walker | 1.00% | ~88 |
 | Oui, Chef! | 1.00% | ~88 |
+| Exit Through The Gift Shop | 1.00% | ~14 |
 | Higher Tax Bracket | 0.90% | ~79 |
 | Botanical Breakthrough | 0.90% | ~79 |
-| Exit Through The Gift Shop | 0.90% | ~12 |
 | Search for the Hairy Grell | 0.80% | ~70 |
 | Beach Comber | 0.70% | ~61 |
+| Azorian Anniversary | 0.70% | ~61 |
 | Flaming Hot Completos | 0.60% | ~53 |
-| Azorian Anniversary | 0.60% | ~53 |
 | Skilled | 0.60% | ~53 |
 | Fae Farmer | 0.50% | ~44 |
 | Got to Catch Them All | 0.40% | ~35 |
@@ -50,7 +50,7 @@ Rating: 4.63 (Ranked 355)
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8,760 (Ranked 183)  
-Completed: 1 (0.01%) (Ranked 367)  
+Completed: 1 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

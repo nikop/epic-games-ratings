@@ -3,9 +3,9 @@
   "Name": "Starheim",
   "ProductSlug": "starheim-8fae84",
   "Ranking_EOS_Progress": 819,
-  "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 390,
+  "Ranking_EOS_NewPlayers": 567,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-06T19:00:00+00:00",
     "PcReleaseDate": "2023-10-06T19:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-07T03:57:14.1027448+00:00",
   "LastUpdate_AppInfo": "2023-12-28T08:57:16.8753727+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:59:19.4886914+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:04:10.7817915+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:43:17.6991386+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:47:47.6646704+00:00"
 }

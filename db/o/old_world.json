@@ -6,9 +6,9 @@
   "Ranking_Popularity": 284,
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 165,
-  "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 351,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2208,7 +2208,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16013,
+  "EOS_Progressed": 16014,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
@@ -18568,6 +18568,11 @@
       "Time": "2023-12-30T00:10:09.0205974+00:00",
       "NumProgressed": 16013,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-30T01:54:04.2961709+00:00",
+      "NumProgressed": 16014,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19201,9 +19206,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SETTLER",
       "SetID": "9201eeb",
       "Name": "Settler",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 144
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -20049,9 +20054,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK",
       "SetID": "9201eeb",
       "Name": "Via Recta Souk",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_KNOWLEDGE_ANCIENTS",
@@ -21442,21 +21447,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16013,
+      "Progressed": 16014,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16013,
+      "Progressed": 16014,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-29T16:02:55.9624641+00:00",
-  "LastChanged_Achievements": "2023-12-30T00:10:09.0205971+00:00",
+  "LastChanged_Achievements": "2023-12-30T01:54:04.2961707+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:47.5878363+00:00",
-  "LastUpdate_Ratings": "2023-12-30T00:02:57.5510913+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:10:09.0216636+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:46:00.5730354+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:54:04.2972019+00:00"
 }

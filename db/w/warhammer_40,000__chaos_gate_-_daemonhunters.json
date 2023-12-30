@@ -6,9 +6,9 @@
   "Ranking_Popularity": 282,
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 216,
-  "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 390,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -807,9 +807,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3645,
+  "EOS_Progressed": 3646,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5082,6 +5082,11 @@
       "Time": "2023-12-30T00:03:31.8965144+00:00",
       "NumProgressed": 3645,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T01:46:53.9565977+00:00",
+      "NumProgressed": 3646,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5109,7 +5114,7 @@
       "Name": "Look Over There!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "BloodAndIron",
@@ -5261,7 +5266,7 @@
       "Name": "Not So Fast...",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "Kills_Bleed",
@@ -5317,7 +5322,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "Kills_Streak",
@@ -5341,7 +5346,7 @@
       "Name": "An Ill Omen",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -5636,21 +5641,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3645,
+      "Progressed": 3646,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3645,
+      "Progressed": 3646,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-29T09:03:12.9031427+00:00",
-  "LastChanged_Achievements": "2023-12-30T00:03:31.896514+00:00",
+  "LastChanged_Achievements": "2023-12-30T01:46:53.9565975+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:54.0012795+00:00",
-  "LastUpdate_Ratings": "2023-12-30T00:03:06.502857+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:03:31.8965886+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:46:14.0427529+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:46:53.956658+00:00"
 }

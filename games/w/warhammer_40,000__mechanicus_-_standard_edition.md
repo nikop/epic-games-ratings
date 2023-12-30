@@ -5,26 +5,26 @@ Rating: 4.43 (Ranked 713)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~60,011 |
-| This is only the beginning | 20.00% | ~46,162 |
-| Knowledge is power | 13.00% | ~30,005 |
-| Galvanic Rifle | 10.00% | ~23,081 |
-| Radium Ready | 10.00% | ~23,081 |
-| Power Ranger | 9.00% | ~20,773 |
-| Taser Goad | 9.00% | ~20,773 |
-| Half a cog | 9.00% | ~20,773 |
+| No aid from the Omnissiah | 26.00% | ~60,012 |
+| This is only the beginning | 20.00% | ~46,163 |
+| Knowledge is power | 13.00% | ~30,006 |
+| Galvanic Rifle | 10.00% | ~23,082 |
+| Radium Ready | 10.00% | ~23,082 |
+| Power Ranger | 9.00% | ~20,774 |
+| Taser Goad | 9.00% | ~20,774 |
+| Half a cog | 9.00% | ~20,774 |
 | Watch them crumble | 6.00% | ~13,849 |
-| Competent Cohort | 4.00% | ~9,232 |
-| Celestial Cartography Catastrophe | 4.00% | ~9,232 |
-| One with the Machine | 4.00% | ~9,232 |
-| Legio Cybernetica | 3.00% | ~6,924 |
-| Fleshy Disposal | 3.00% | ~6,924 |
+| Competent Cohort | 4.00% | ~9,233 |
+| Celestial Cartography Catastrophe | 4.00% | ~9,233 |
+| One with the Machine | 4.00% | ~9,233 |
+| Legio Cybernetica | 3.00% | ~6,925 |
+| Fleshy Disposal | 3.00% | ~6,925 |
 | Battle Servitor | 2.00% | ~4,616 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,616 |
 | Impatient destruction | 2.00% | ~4,616 |
 | Vivisected Vizier | 2.00% | ~4,616 |
 | Architect Abortion | 2.00% | ~4,616 |
-| Cohortus Maximus | 0.80% | ~1,846 |
+| Cohortus Maximus | 0.80% | ~1,847 |
 | Mother of Xenarites | 0.40% | ~923 |
 | False God | 0.30% | ~692 |
 | Hard | 0.20% | ~462 |
@@ -40,8 +40,8 @@ Rating: 4.43 (Ranked 713)
 | Perma-live | 0.10% | ~231 |
 | Purge the Heretek | 0.10% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,811 (Ranked 74)  
-Completed: 5 (0.00%) (Ranked 389)  
+Progressed: 230,817 (Ranked 74)  
+Completed: 5 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -294,7 +294,7 @@ Completed: 5 (0.00%) (Ranked 389)
 | 2023-12-27 | 230,647 | 5 |
 | 2023-12-28 | 230,726 | 5 |
 | 2023-12-29 | 230,808 | 5 |
-| 2023-12-30 | 230,811 | 5 |
+| 2023-12-30 | 230,817 | 5 |
 ## Awards
 Max (Highly Recommended): 291  (Ranked 263)  
 Sum: 2,221 (Ranked 209)  

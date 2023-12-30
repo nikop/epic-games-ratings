@@ -6,9 +6,9 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 329,
-  "Ranking_EOS_Completed": 245,
+  "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -146,7 +146,7 @@
   "Tags": [],
   "EOS_Progressed": 601,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1736,9 +1736,9 @@
       "ID": "07_europe",
       "SetID": "chb1m60",
       "Name": "Europe",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 192
+      "UsersEstimate": 198
     },
     {
       "ID": "08_america",
@@ -1752,9 +1752,9 @@
       "ID": "09_russia",
       "SetID": "chb1m60",
       "Name": "Russia",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 114
+      "UsersEstimate": 120
     },
     {
       "ID": "10_japan",
@@ -1856,9 +1856,9 @@
       "ID": "22_ouroboros",
       "SetID": "chb1m60",
       "Name": "Ouroboros",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 150
     },
     {
       "ID": "23_closecall",
@@ -2008,8 +2008,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-12-18T07:02:31.8741871+00:00",
-  "LastChanged_Achievements": "2023-12-30T00:03:27.8070874+00:00",
+  "LastChanged_Achievements": "2023-12-30T01:46:48.0628483+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:20.7345819+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:58:44.5983338+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:03:27.807149+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:42:24.475306+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:46:48.0628744+00:00"
 }

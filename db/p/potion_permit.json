@@ -6,9 +6,9 @@
   "Ranking_Popularity": 415,
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 245,
-  "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_Completed": 205,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -397,9 +397,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 1829,
+  "EOS_Progressed": 1830,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -3152,6 +3152,11 @@
       "Time": "2023-12-30T00:03:56.5506796+00:00",
       "NumProgressed": 1829,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-30T01:47:28.1934267+00:00",
+      "NumProgressed": 1830,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 38,
@@ -3163,7 +3168,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -3171,7 +3176,7 @@
       "Name": "Great Doctor",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -3211,7 +3216,7 @@
       "Name": "K.O.!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -3219,7 +3224,7 @@
       "Name": "The First Step",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 1591
+      "UsersEstimate": 1592
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -3235,7 +3240,7 @@
       "Name": "Intermediate Chemist",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -3251,7 +3256,7 @@
       "Name": "Amateur Chef",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ACHIEVEMENTS_13",
@@ -3259,7 +3264,7 @@
       "Name": "Line Cook",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACHIEVEMENTS_14",
@@ -3275,7 +3280,7 @@
       "Name": "Friendly",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -3283,7 +3288,7 @@
       "Name": "Sociable",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACHIEVEMENTS_17",
@@ -3291,7 +3296,7 @@
       "Name": "Kind-hearted",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACHIEVEMENTS_18",
@@ -3329,9 +3334,9 @@
       "ID": "ACHIEVEMENTS_22",
       "SetID": "d4o538a",
       "Name": "The Capitalist",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 805
+      "UsersEstimate": 787
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -3371,7 +3376,7 @@
       "Name": "Plantation Exterminator",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACHIEVEMENTS_28",
@@ -3403,7 +3408,7 @@
       "Name": "Ablutomaniac",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACHIEVEMENTS_32",
@@ -3419,7 +3424,7 @@
       "Name": "Catch of the Day",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACHIEVEMENTS_34",
@@ -3427,7 +3432,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -3466,7 +3471,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1829,
+      "Progressed": 1830,
       "Completed": 11
     }
   ],
@@ -3474,8 +3479,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-28T09:03:17.5303608+00:00",
-  "LastChanged_Achievements": "2023-12-30T00:03:56.5506793+00:00",
+  "LastChanged_Achievements": "2023-12-30T01:47:28.1934265+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:45.5140216+00:00",
-  "LastUpdate_Ratings": "2023-12-30T00:02:49.2440713+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:03:56.5507105+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:45:47.9079142+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:47:28.193456+00:00"
 }

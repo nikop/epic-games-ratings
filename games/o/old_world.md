@@ -6,8 +6,8 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Settler | 0.90% | ~144 |
 | Explorer | 0.80% | ~128 |
-| Settler | 0.80% | ~128 |
 | Play a Single Player Game | 0.80% | ~128 |
 | Friendly Family | 0.70% | ~112 |
 | Architect | 0.60% | ~96 |
@@ -84,6 +84,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.20% | ~32 |
 | Temple of Solomon | 0.20% | ~32 |
 | Pantheon | 0.20% | ~32 |
+| Via Recta Souk | 0.20% | ~32 |
 | Learn to Play 3 | 0.20% | ~32 |
 | Greece | 0.20% | ~32 |
 | Power to the People | 0.20% | ~32 |
@@ -184,7 +185,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Church of the Holy Sepulchre | 0.10% | ~16 |
 | Cao'an | 0.10% | ~16 |
 | Adur Burzen-Mihr | 0.10% | ~16 |
-| Via Recta Souk | 0.10% | ~16 |
 | Learn By Playing 1 - Able | 0.10% | ~16 |
 | Learn By Playing 2 - Just | 0.10% | ~16 |
 | Learn to Play 4 | 0.10% | ~16 |
@@ -365,8 +365,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,013 (Ranked 165)  
-Completed: 5 (0.03%) (Ranked 350)  
+Progressed: 16,014 (Ranked 165)  
+Completed: 5 (0.03%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -619,7 +619,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-27 | 15,978 | 5 |
 | 2023-12-28 | 15,997 | 5 |
 | 2023-12-29 | 16,011 | 5 |
-| 2023-12-30 | 16,013 | 5 |
+| 2023-12-30 | 16,014 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 284)  
 Sum: 1,912 (Ranked 220)  

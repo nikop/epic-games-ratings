@@ -6,9 +6,9 @@
   "Ranking_Popularity": 207,
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 98,
-  "Ranking_EOS_Completed": 327,
+  "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5313,9 +5313,9 @@
       "Count": 530
     }
   ],
-  "EOS_Progressed": 92698,
+  "EOS_Progressed": 92700,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 344,
+  "EOS_NewPlayers": 343,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -29658,6 +29658,11 @@
       "Time": "2023-12-29T23:06:15.2040731+00:00",
       "NumProgressed": 92698,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-30T01:50:44.895089+00:00",
+      "NumProgressed": 92700,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -29717,7 +29722,7 @@
       "Name": "Imports and Exports",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "ACH_0021",
@@ -29741,7 +29746,7 @@
       "Name": "Savvy Seeker",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "ACH_0040",
@@ -29845,7 +29850,7 @@
       "Name": "Olympus Ascended",
       "Percentage": 0.5,
       "XP": 55,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "ACH_0310",
@@ -29861,7 +29866,7 @@
       "Name": "Ding Dong",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "ACH_0340",
@@ -29996,13 +30001,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92698,
+      "Progressed": 92700,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21045,
+      "Progressed": 21047,
       "Completed": 15593
     }
   ],
@@ -30010,8 +30015,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-29T17:59:16.843642+00:00",
-  "LastChanged_Achievements": "2023-12-30T00:08:07.0192136+00:00",
+  "LastChanged_Achievements": "2023-12-30T01:50:44.8950886+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:55.2021168+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:58:28.6306916+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:08:07.0193332+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:42:00.604911+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:50:44.8952042+00:00"
 }

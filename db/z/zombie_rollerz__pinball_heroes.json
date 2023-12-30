@@ -6,9 +6,9 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 420,
-  "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 496,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 220,
+  "Ranking_EOS_NewPlayers": 481,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
     "PcReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 209,
+  "EOS_Progressed": 210,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -845,6 +845,11 @@
       "Time": "2023-12-27T01:48:49.9517024+00:00",
       "NumProgressed": 209,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T01:49:01.3217094+00:00",
+      "NumProgressed": 210,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 73,
@@ -862,9 +867,9 @@
       "ID": "CLG_CHAPTER_NODROPBALL",
       "SetID": "89cjc9l",
       "Name": "1 is all I need",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "CLG_LEVEL_BALLISTASHOT",
@@ -872,15 +877,15 @@
       "Name": "Right in the kisser!",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "CLG_LEVEL_BULLSEYE",
       "SetID": "89cjc9l",
       "Name": "Bullseye!",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 174
     },
     {
       "ID": "CLG_LEVEL_COMBO",
@@ -904,7 +909,7 @@
       "Name": "Level Up!",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "CLG_RUN_LEVELUP_2",
@@ -912,7 +917,7 @@
       "Name": "Level Up!!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "CLG_SKILL_LEVEL5_1",
@@ -952,7 +957,7 @@
       "Name": "The Blacksmith",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "CLG_UNLOCK_10005",
@@ -1030,9 +1035,9 @@
       "ID": "PRG_ACCUM_GOLD",
       "SetID": "89cjc9l",
       "Name": "I\u0027m Rich",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "PRG_BOSS_BIRD",
@@ -1040,7 +1045,7 @@
       "Name": "The Bird",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "PRG_BOSS_FLOWER",
@@ -1048,7 +1053,7 @@
       "Name": "The Flower",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "PRG_BOSS_GIANT",
@@ -1062,9 +1067,9 @@
       "ID": "PRG_BOSS_MAGE",
       "SetID": "89cjc9l",
       "Name": "The Shaman",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 90
     },
     {
       "ID": "PRG_BOSS_MAGICIAN",
@@ -1088,7 +1093,7 @@
       "Name": "The Ooze",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "PRG_BOSS_SHIELD",
@@ -1096,7 +1101,7 @@
       "Name": "The Shield",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "PRG_BOSS_SLIME",
@@ -1128,7 +1133,7 @@
       "Name": "Villfir Forest",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "PRG_CHAPTER_2",
@@ -1328,7 +1333,7 @@
       "Name": "Out of the Frying Pan...",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "PRG_MODE_HELL",
@@ -1344,7 +1349,7 @@
       "Name": "Ember",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "PRG_NORMAL_10002",
@@ -1352,15 +1357,15 @@
       "Name": "Turquoise",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "PRG_NORMAL_10003",
       "SetID": "89cjc9l",
       "Name": "Verse",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "PRG_NORMAL_10004",
@@ -1432,14 +1437,14 @@
       "Name": "Graduation!",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     }
   ],
   "AchievementSets": [
     {
       "ID": "89cjc9l",
       "IsBase": true,
-      "Progressed": 209,
+      "Progressed": 210,
       "Completed": 1
     }
   ],
@@ -1447,8 +1452,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-12-07T15:59:55.7707113+00:00",
-  "LastChanged_Achievements": "2023-12-30T00:05:02.4281495+00:00",
+  "LastChanged_Achievements": "2023-12-30T01:49:01.3217092+00:00",
   "LastUpdate_AppInfo": "2023-12-23T16:57:13.6590268+00:00",
-  "LastUpdate_Ratings": "2023-12-30T00:02:38.2051543+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:05:02.4282051+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:45:30.7439274+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:49:01.3217606+00:00"
 }

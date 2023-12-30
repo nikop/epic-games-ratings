@@ -42,24 +42,24 @@
 | From Here To Eternity | 20.00% | ~40 |
 | Building Blocks | 20.00% | ~40 |
 | Octopostructure | 18.00% | ~36 |
-| Boss Hunter | 15.00% | ~30 |
-| Hawkman | 10.00% | ~20 |
+| Boss Hunter | 16.00% | ~32 |
+| Hawkman | 11.00% | ~22 |
+| Fashion Victim | 9.00% | ~18 |
 | Annihilate | 9.00% | ~18 |
-| Fashion Victim | 8.00% | ~16 |
 | See You Later | 7.00% | ~14 |
 | Godlike Skin | 7.00% | ~14 |
+| Feast Time | 7.00% | ~14 |
 | Unlucky Luke | 6.00% | ~12 |
-| Feast Time | 6.00% | ~12 |
+| A Phony Clown | 5.00% | ~10 |
 | Cheesy Chess | 5.00% | ~10 |
 | Octopy Mayhem | 5.00% | ~10 |
-| A Phony Clown | 4.00% | ~8 |
 | Duck Knight | 4.00% | ~8 |
 | Got'em Totem | 4.00% | ~8 |
 | Destroy Everything | 1.00% | ~2 |
 | Hearty Meteor | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 200 (Ranked 422)  
-Completed: 1 (0.50%) (Ranked 216)  
+Completed: 1 (0.50%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

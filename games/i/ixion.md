@@ -5,14 +5,14 @@ Rating: 4.58 (Ranked 462)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 31.00% | ~1,182 |
-| Sputnik 2049 | 28.00% | ~1,068 |
+| Wakey Wakey | 31.00% | ~1,183 |
+| Sputnik 2049 | 28.00% | ~1,069 |
 | Without Breaking Some Eggs... | 26.00% | ~992 |
 | Infinite Growth... | 26.00% | ~992 |
 | Space Society | 18.00% | ~687 |
 | A Thousand Strong | 18.00% | ~687 |
 | Ready for a New World | 18.00% | ~687 |
-| Permanent Redesigns | 16.00% | ~610 |
+| Permanent Redesigns | 16.00% | ~611 |
 | Fully Recycled | 14.00% | ~534 |
 | Ain't Nobody Got Time for That | 14.00% | ~534 |
 | The Ship of Theseus | 14.00% | ~534 |
@@ -21,8 +21,8 @@ Rating: 4.58 (Ranked 462)
 | A Hunk of Junk | 12.00% | ~458 |
 | Exceeding Capacity | 12.00% | ~458 |
 | Breaking Protocol | 12.00% | ~458 |
-| Man's Best Friend | 9.00% | ~343 |
-| Power Outage | 9.00% | ~343 |
+| Man's Best Friend | 9.00% | ~344 |
+| Power Outage | 9.00% | ~344 |
 | Convenient Transport | 8.00% | ~305 |
 | Please Make it Stop! | 8.00% | ~305 |
 | Sightseeing | 7.00% | ~267 |
@@ -39,10 +39,10 @@ Rating: 4.58 (Ranked 462)
 | What the Ruins Teach Us | 5.00% | ~191 |
 | Sustainable Energy | 4.00% | ~153 |
 | Pedal to the Metal | 4.00% | ~153 |
-| Praise the Hull! | 3.00% | ~114 |
-| Delivery! | 3.00% | ~114 |
-| Help of the Forgotten Member | 3.00% | ~114 |
-| Pulsar Disciple | 3.00% | ~114 |
+| Praise the Hull! | 3.00% | ~115 |
+| Delivery! | 3.00% | ~115 |
+| Help of the Forgotten Member | 3.00% | ~115 |
+| Pulsar Disciple | 3.00% | ~115 |
 | Mutual Loyalty | 2.00% | ~76 |
 | Tiqqun Contender | 2.00% | ~76 |
 | Catastrophe Avoided | 2.00% | ~76 |
@@ -63,8 +63,8 @@ Rating: 4.58 (Ranked 462)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,814 (Ranked 213)  
-Completed: 0 (0.00%) (Ranked 389)  
+Progressed: 3,817 (Ranked 213)  
+Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -307,6 +307,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-27 | 3,765 | 0 |
 | 2023-12-28 | 3,787 | 0 |
 | 2023-12-29 | 3,814 | 0 |
+| 2023-12-30 | 3,817 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

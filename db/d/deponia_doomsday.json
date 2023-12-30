@@ -6,9 +6,9 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 340,
-  "Ranking_EOS_Completed": 150,
+  "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 373,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -852,9 +852,9 @@
       "ID": "dep4_achievement_10",
       "SetID": "5d32b60",
       "Name": "Sole Music",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 188
     },
     {
       "ID": "dep4_achievement_11",
@@ -1141,8 +1141,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-12-30T00:04:02.5304008+00:00",
+  "LastChanged_Achievements": "2023-12-30T01:47:36.7099778+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:53.2401379+00:00",
-  "LastUpdate_Ratings": "2023-12-30T00:03:06.0009565+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:04:02.5304213+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:46:13.0927123+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:47:36.7100035+00:00"
 }

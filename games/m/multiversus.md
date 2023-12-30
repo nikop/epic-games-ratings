@@ -36,7 +36,7 @@ Number of Ratings: 55,748  (23.09.2022)
 | Run It Back | 6.00% | ~64,866 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,081,100 (Ranked 15)  
-Completed: 31,692 (2.93%) (Ranked 111)  
+Completed: 31,692 (2.93%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -110,7 +110,7 @@ Completed: 31,692 (2.93%) (Ranked 111)
 | 2023-12-20 | 1,081,100 | 31,692 |
 ## Awards
 Max (Great for Beginners): 4,751  (Ranked 81)  
-Sum: 45,750 (Ranked 33)  
+Sum: 45,751 (Ranked 33)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
@@ -124,7 +124,7 @@ Diff (max vs sum): 48
 | This game is Highly Recommended | 3,948 |
 | This game has Amazing Storytelling | 3,608 |
 | This game has Playful Visuals | 3,607 |
-| This game has a Competitive Community | 3,408 |
+| This game has a Competitive Community | 3,409 |
 | This game has Obsessive Gameplay | 3,030 |
 | This game is Relaxing | 86 |
 ## Ratings History
@@ -276,3 +276,4 @@ Diff (max vs sum): 48
 | 2023-12-02 | 4.56 | - | 4,751 | 45,748 |
 | 2023-12-06 | 4.56 | - | 4,751 | 45,749 |
 | 2023-12-15 | 4.56 | - | 4,751 | 45,750 |
+| 2023-12-30 | 4.56 | - | 4,751 | 45,751 |

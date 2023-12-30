@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Will This Help? | 75.00% | ~219 |
 | Career Woman | 67.00% | ~196 |
-| No One Is Safe | 65.00% | ~190 |
+| No One Is Safe | 66.00% | ~193 |
 | He's Off His Meds | 55.00% | ~161 |
 | Deal Or No Deal | 49.00% | ~143 |
 | Impress Theron | 48.00% | ~140 |
@@ -23,7 +23,7 @@
 | Hopeful | 5.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 292 (Ranked 390)  
-Completed: 7 (2.40%) (Ranked 128)  
+Completed: 7 (2.40%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

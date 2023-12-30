@@ -6,9 +6,9 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 118,
-  "Ranking_EOS_Completed": 367,
+  "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58515,
+  "EOS_Progressed": 58519,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15001,6 +15001,11 @@
       "Time": "2023-12-29T22:04:28.3333653+00:00",
       "NumProgressed": 58515,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-30T01:48:02.0080267+00:00",
+      "NumProgressed": 58519,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -15076,7 +15081,7 @@
       "Name": "Fall Fest",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 4681
+      "UsersEstimate": 4682
     },
     {
       "ID": "FlyingPresent",
@@ -15172,7 +15177,7 @@
       "Name": "Hi Fiver",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1755
+      "UsersEstimate": 1756
     },
     {
       "ID": "IsThisPossible",
@@ -15356,7 +15361,7 @@
       "Name": "A Timely Splash",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1755
+      "UsersEstimate": 1756
     },
     {
       "ID": "TotalBummer",
@@ -15403,7 +15408,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58515,
+      "Progressed": 58519,
       "Completed": 6
     }
   ],
@@ -15411,8 +15416,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-12-30T00:04:20.8067242+00:00",
+  "LastChanged_Achievements": "2023-12-30T01:48:02.0080264+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:13.3776759+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:57:15.469965+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:04:20.8068102+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:40:09.4713952+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:48:02.0081287+00:00"
 }

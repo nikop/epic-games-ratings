@@ -5,10 +5,10 @@
   "Ranking_Rating": 25,
   "Ranking_Popularity": 391,
   "Ranking_PopularitySum": 469,
-  "Ranking_EOS_Progress": 274,
-  "Ranking_EOS_Completed": 280,
+  "Ranking_EOS_Progress": 275,
+  "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -259,9 +259,9 @@
       "Count": 89
     }
   ],
-  "EOS_Progressed": 1186,
+  "EOS_Progressed": 1187,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3259,6 +3259,11 @@
       "Time": "2023-12-30T00:05:21.6265808+00:00",
       "NumProgressed": 1186,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-30T01:49:28.2762926+00:00",
+      "NumProgressed": 1187,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3359,7 +3364,7 @@
       "Name": "Desolate Island",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "Discovery",
@@ -3447,7 +3452,7 @@
       "Name": "Just One Lap",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "LordOfTheFiles",
@@ -3463,7 +3468,7 @@
       "Name": "Lost Marshes",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "MistressOfRiddles",
@@ -3471,7 +3476,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "Mnemosyne",
@@ -3543,7 +3548,7 @@
       "Name": "Prometheus Unbound",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "PuzzleFiend",
@@ -3711,7 +3716,7 @@
       "Name": "Wanderers",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "WesternDelta",
@@ -3742,7 +3747,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1186,
+      "Progressed": 1187,
       "Completed": 2
     }
   ],
@@ -3750,8 +3755,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-29T23:57:10.9507958+00:00",
-  "LastChanged_Achievements": "2023-12-30T00:05:21.6265805+00:00",
+  "LastChanged_Achievements": "2023-12-30T01:49:28.2762924+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:57:10.9507963+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:05:21.626627+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:40:02.3376944+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:49:28.276351+00:00"
 }

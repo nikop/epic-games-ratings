@@ -6,9 +6,9 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 213,
-  "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 390,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -323,9 +323,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3814,
+  "EOS_Progressed": 3817,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7443,6 +7443,11 @@
       "Time": "2023-12-29T23:04:39.72608+00:00",
       "NumProgressed": 3814,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T01:48:34.5249495+00:00",
+      "NumProgressed": 3817,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7462,7 +7467,7 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "ACH_BASE_11",
@@ -7542,7 +7547,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1183
     },
     {
       "ID": "ACH_BASE_22",
@@ -7566,7 +7571,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "ACH_BASE_25",
@@ -7630,7 +7635,7 @@
       "Name": "Power Outage",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "ACH_BASE_32",
@@ -7638,7 +7643,7 @@
       "Name": "Praise the Hull!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_BASE_33",
@@ -7742,7 +7747,7 @@
       "Name": "Delivery!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_BASE_48",
@@ -7750,7 +7755,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "ACH_BASE_49",
@@ -7870,7 +7875,7 @@
       "Name": "Help of the Forgotten Member",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_BASE_64",
@@ -7902,20 +7907,20 @@
       "Name": "Pulsar Disciple",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1998,
+      "Progressed": 2001,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3814,
+      "Progressed": 3817,
       "Completed": 0
     }
   ],
@@ -7923,8 +7928,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2023-12-30T00:04:43.5401886+00:00",
+  "LastChanged_Achievements": "2023-12-30T01:48:34.5249492+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:27.94929+00:00",
-  "LastUpdate_Ratings": "2023-12-30T00:02:46.1796416+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:04:43.5402496+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:45:43.257692+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:48:34.5250087+00:00"
 }

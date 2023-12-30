@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,943 |
+| A Brief Tour of the Realms | 2.00% | ~4,944 |
 | The Cursed Farmer | 1.00% | ~2,472 |
 | Beast Intentions | 0.70% | ~1,730 |
 | The Mad Wizard | 0.70% | ~1,730 |
@@ -19,11 +19,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flames of Avernus | 0.40% | ~854 |
 | Mental Gymnastics | 0.40% | ~854 |
 | Don't Lose Your Head | 0.40% | ~854 |
-| Were-verpowered | 0.30% | ~741 |
-| Seeking Allies | 0.30% | ~741 |
-| Mad Cow Disease | 0.30% | ~741 |
-| Friendly Imps | 0.30% | ~741 |
-| Pure Energy | 0.30% | ~741 |
+| Were-verpowered | 0.30% | ~742 |
+| Seeking Allies | 0.30% | ~742 |
+| Mad Cow Disease | 0.30% | ~742 |
+| Friendly Imps | 0.30% | ~742 |
+| Pure Energy | 0.30% | ~742 |
 | Arcane Suppression | 0.30% | ~640 |
 | Welcome to the Vrocks | 0.30% | ~640 |
 | Misaligned in Sigil | 0.30% | ~640 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~213 |
 | The Brains of an Illithid's Desire | 0.10% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,156 (Ranked 68)  
-Completed: 2,575 (1.04%) (Ranked 168)  
+Progressed: 247,214 (Ranked 68)  
+Completed: 2,575 (1.04%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -807,7 +807,7 @@ Completed: 2,575 (1.04%) (Ranked 168)
 | 2023-12-27 | 245,531 | 2,567 |
 | 2023-12-28 | 246,305 | 2,573 |
 | 2023-12-29 | 247,120 | 2,575 |
-| 2023-12-30 | 247,156 | 2,575 |
+| 2023-12-30 | 247,214 | 2,575 |
 ## Awards
 Max (Great for Beginners): 5,715  (Ranked 71)  
 Sum: 33,183 (Ranked 41)  

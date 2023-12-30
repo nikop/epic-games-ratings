@@ -9,12 +9,12 @@ Rating: 4.65 (Ranked 322)
 | Sweezy Like Sunday Morning | 5.00% | ~1,247 |
 | First Bounty Down | 5.00% | ~1,247 |
 | Cold-Blooded Driller | 5.00% | ~1,247 |
-| Are You Packin'? | 4.00% | ~997 |
-| Bring A Knife to a Gun Fight | 4.00% | ~997 |
-| We're All Very Impressed, Trust Me | 4.00% | ~997 |
-| G3 Graduation | 4.00% | ~997 |
-| Who's The Boss? | 4.00% | ~997 |
-| Don't Knife The Hand That Feeds | 4.00% | ~997 |
+| Are You Packin'? | 4.00% | ~998 |
+| Bring A Knife to a Gun Fight | 4.00% | ~998 |
+| We're All Very Impressed, Trust Me | 4.00% | ~998 |
+| G3 Graduation | 4.00% | ~998 |
+| Who's The Boss? | 4.00% | ~998 |
+| Don't Knife The Hand That Feeds | 4.00% | ~998 |
 | Creature Feature | 3.00% | ~748 |
 | Lezduit! | 3.00% | ~748 |
 | RIP Davey Glutes | 3.00% | ~748 |
@@ -50,8 +50,8 @@ Rating: 4.65 (Ranked 322)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,937 (Ranked 145)  
-Completed: 14 (0.06%) (Ranked 327)  
+Progressed: 24,938 (Ranked 145)  
+Completed: 14 (0.06%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -303,6 +303,7 @@ Completed: 14 (0.06%) (Ranked 327)
 | 2023-12-27 | 24,917 | 14 |
 | 2023-12-28 | 24,929 | 14 |
 | 2023-12-29 | 24,937 | 14 |
+| 2023-12-30 | 24,938 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,16 +6,16 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 73.00% | ~1,320 |
-| Lovebirds | 45.00% | ~814 |
-| Life’s short, ride long | 40.00% | ~723 |
-| Hug therapy | 39.00% | ~705 |
-| Over my dead body | 36.00% | ~651 |
+| Balding bloot! | 73.00% | ~1,322 |
+| Lovebirds | 45.00% | ~815 |
+| Life’s short, ride long | 40.00% | ~724 |
+| Hug therapy | 39.00% | ~706 |
+| Over my dead body | 36.00% | ~652 |
 | Shake the rust off their feet | 19.00% | ~344 |
-| My little pony | 18.00% | ~325 |
-| Strike! | 17.00% | ~307 |
-| A love supreme | 17.00% | ~307 |
-| In my shoes | 15.00% | ~271 |
+| My little pony | 18.00% | ~326 |
+| Strike! | 17.00% | ~308 |
+| A love supreme | 17.00% | ~308 |
+| In my shoes | 15.00% | ~272 |
 | Like new! | 13.00% | ~235 |
 | Heartstrings | 12.00% | ~217 |
 | Head in the clouds | 12.00% | ~217 |
@@ -26,8 +26,8 @@ Number of Ratings: 38  (23.09.2022)
 | Perfect timing | 8.00% | ~145 |
 | Ain't no mountain high enough | 8.00% | ~145 |
 | Self-sustainability | 7.00% | ~127 |
-| Spring cleaning | 5.00% | ~90 |
-| An eye for an eye | 5.00% | ~90 |
+| Spring cleaning | 5.00% | ~91 |
+| An eye for an eye | 5.00% | ~91 |
 | Can't get wetter... | 4.00% | ~72 |
 | Second thoughts | 3.00% | ~54 |
 | Mooning the moon | 3.00% | ~54 |
@@ -37,8 +37,8 @@ Number of Ratings: 38  (23.09.2022)
 | Thar she blows | 2.00% | ~36 |
 | À la carte | 1.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,808 (Ranked 247)  
-Completed: 10 (0.55%) (Ranked 208)  
+Progressed: 1,811 (Ranked 247)  
+Completed: 10 (0.55%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -234,7 +234,7 @@ Completed: 10 (0.55%) (Ranked 208)
 | 2023-12-27 | 1,788 | 10 |
 | 2023-12-28 | 1,795 | 10 |
 | 2023-12-29 | 1,807 | 10 |
-| 2023-12-30 | 1,808 | 10 |
+| 2023-12-30 | 1,811 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

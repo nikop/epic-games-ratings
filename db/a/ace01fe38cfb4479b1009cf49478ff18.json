@@ -2,10 +2,10 @@
   "ID": "ace01fe38cfb4479b1009cf49478ff18",
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
-  "Ranking_EOS_Progress": 328,
-  "Ranking_EOS_Completed": 283,
+  "Ranking_EOS_Progress": 327,
+  "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 611,
+  "EOS_Progressed": 614,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2054,6 +2054,11 @@
       "Time": "2023-12-30T00:08:26.5347321+00:00",
       "NumProgressed": 611,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T01:51:42.4499151+00:00",
+      "NumProgressed": 614,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -2066,7 +2071,7 @@
       "Name": "Chapter I - Complete",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -2161,14 +2166,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 611,
+      "Progressed": 614,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-30T00:08:26.5347317+00:00",
+  "LastChanged_Achievements": "2023-12-30T01:51:42.4499149+00:00",
   "LastUpdate_AppInfo": "2023-12-29T15:57:01.9014557+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:58:02.3803148+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:08:26.5347492+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:41:22.5559874+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:51:42.4499312+00:00"
 }

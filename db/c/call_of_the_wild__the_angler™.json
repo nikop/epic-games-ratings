@@ -6,9 +6,9 @@
   "Ranking_Popularity": 474,
   "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 188,
-  "Ranking_EOS_Completed": 389,
+  "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1015,7 +1015,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7725,
+  "EOS_Progressed": 7728,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 335,
   "EOS_NewCompleters": 0,
@@ -12655,6 +12655,11 @@
       "Time": "2023-12-30T00:03:59.0273061+00:00",
       "NumProgressed": 7725,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T01:47:31.7303077+00:00",
+      "NumProgressed": 7728,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -12706,7 +12711,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -12714,7 +12719,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -12826,7 +12831,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -12985,13 +12990,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7725,
+      "Progressed": 7728,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7097,
+      "Progressed": 7100,
       "Completed": 113
     }
   ],
@@ -12999,8 +13004,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-26T19:00:49.2434236+00:00",
-  "LastChanged_Achievements": "2023-12-30T00:03:59.0273058+00:00",
+  "LastChanged_Achievements": "2023-12-30T01:47:31.7303075+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:25.278975+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:57:33.8492662+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:03:59.0273676+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:40:38.8344508+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:47:31.7303711+00:00"
 }

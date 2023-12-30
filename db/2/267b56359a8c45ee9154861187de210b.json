@@ -2,10 +2,10 @@
   "ID": "267b56359a8c45ee9154861187de210b",
   "Name": "Marble It Up! Ultra",
   "ProductSlug": "marble-it-up-ultra-7b5692",
-  "Ranking_EOS_Progress": 484,
-  "Ranking_EOS_Completed": 389,
+  "Ranking_EOS_Progress": 483,
+  "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 339,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
     "PcReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 102,
+  "EOS_Progressed": 103,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
@@ -494,6 +494,11 @@
       "Time": "2023-12-29T08:04:37.5667658+00:00",
       "NumProgressed": 102,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T01:49:03.2903843+00:00",
+      "NumProgressed": 103,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T22:03:23.4161887+00:00",
@@ -634,7 +639,7 @@
       "Name": "Treasured Momentum",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "beat_c1a_bronze",
@@ -696,7 +701,7 @@
       "ID": "beat_c2_silver",
       "SetID": "3448go",
       "Name": "Gone for a Whirl",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 24
     },
@@ -1080,7 +1085,7 @@
       "ID": "rolldist_mid",
       "SetID": "3448go",
       "Name": "Marathon",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
       "UsersEstimate": 22
     },
@@ -1088,7 +1093,7 @@
       "ID": "rolldist_short",
       "SetID": "3448go",
       "Name": "Rolling the Competition",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 5,
       "UsersEstimate": 67
     },
@@ -1193,14 +1198,14 @@
     {
       "ID": "3448go",
       "IsBase": true,
-      "Progressed": 102,
+      "Progressed": 103,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-12-30T00:05:03.8519991+00:00",
+  "LastChanged_Achievements": "2023-12-30T01:49:03.290384+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:18.5941148+00:00",
-  "LastUpdate_Ratings": "2023-12-30T00:02:43.3272459+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:05:03.8520651+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:45:38.5895932+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:49:03.2904715+00:00"
 }

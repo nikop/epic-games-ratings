@@ -6,9 +6,9 @@
   "Ranking_Popularity": 405,
   "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 55,
-  "Ranking_EOS_Completed": 389,
+  "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -455,9 +455,9 @@
       "Count": 75
     }
   ],
-  "EOS_Progressed": 337564,
+  "EOS_Progressed": 337601,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 4307,
+  "EOS_NewPlayers": 4310,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11465,6 +11465,11 @@
       "Time": "2023-12-30T00:08:45.0487223+00:00",
       "NumProgressed": 337564,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-30T01:52:08.7958037+00:00",
+      "NumProgressed": 337601,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -11477,7 +11482,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13503
+      "UsersEstimate": 13504
     },
     {
       "ID": "S02_BRDA",
@@ -11485,7 +11490,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10127
+      "UsersEstimate": 10128
     },
     {
       "ID": "S03_OTWA",
@@ -11517,7 +11522,7 @@
       "Name": "They tricked me",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2025
+      "UsersEstimate": 2026
     },
     {
       "ID": "S07_INWA",
@@ -11525,7 +11530,7 @@
       "Name": "We need to talk",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2025
+      "UsersEstimate": 2026
     },
     {
       "ID": "S08_MNSA",
@@ -11613,7 +11618,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13503
+      "UsersEstimate": 13504
     },
     {
       "ID": "S19_CHALLENGES",
@@ -11645,7 +11650,7 @@
       "Name": "They won\u0027t last long",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2025
+      "UsersEstimate": 2026
     },
     {
       "ID": "S23_ETHEREAL",
@@ -11796,7 +11801,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 337564,
+      "Progressed": 337601,
       "Completed": 7
     }
   ],
@@ -11804,8 +11809,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-29T17:59:10.0786957+00:00",
-  "LastChanged_Achievements": "2023-12-30T00:08:45.0487219+00:00",
+  "LastChanged_Achievements": "2023-12-30T01:52:08.7958034+00:00",
   "LastUpdate_AppInfo": "2023-12-28T22:56:57.7073923+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:58:23.5205799+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:08:45.0488095+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:41:53.9894743+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:52:08.7958679+00:00"
 }

@@ -10,8 +10,8 @@
 | First winning | 82.00% | ~408 |
 | Your first job | 81.00% | ~403 |
 | Depressed visitor | 76.00% | ~378 |
+| Old movies enjoyer | 75.00% | ~373 |
 | Fitness professional | 74.00% | ~368 |
-| Old movies enjoyer | 74.00% | ~368 |
 | Neurotrainer – power gainer! | 74.00% | ~368 |
 | Employee of the week | 73.00% | ~363 |
 | Your own amateur gym | 68.00% | ~338 |
@@ -24,9 +24,9 @@
 | Spirit of the past | 60.00% | ~298 |
 | Employee of the month | 59.00% | ~293 |
 | Law student | 57.00% | ~283 |
+| Little hacker | 55.00% | ~273 |
 | Handyman | 55.00% | ~273 |
 | Workout professional | 54.00% | ~268 |
-| Little hacker | 54.00% | ~268 |
 | Champion – starter pack | 54.00% | ~268 |
 | Fight for life | 53.00% | ~263 |
 | It's good to be alive | 53.00% | ~263 |
@@ -52,9 +52,9 @@
 | The die is cast | 34.00% | ~169 |
 | Gang wrangler | 32.00% | ~159 |
 | Seashell hunter | 32.00% | ~159 |
+| Problems of cyborgs | 31.00% | ~154 |
 | Absolute Champion! | 31.00% | ~154 |
 | Undercover robot | 31.00% | ~154 |
-| Problems of cyborgs | 30.00% | ~149 |
 | The lonesome road | 29.00% | ~144 |
 | Keep nature safe | 29.00% | ~144 |
 | Family comes first | 29.00% | ~144 |
@@ -72,7 +72,7 @@
 | Silver’s past | 25.00% | ~124 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 497 (Ranked 343)  
-Completed: 9 (1.81%) (Ranked 140)  
+Completed: 9 (1.81%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

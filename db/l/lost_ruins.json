@@ -3,9 +3,9 @@
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 323,
-  "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 284,
+  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 630,
+  "EOS_Progressed": 631,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1654,6 +1654,11 @@
       "Time": "2023-12-29T12:10:07.0087803+00:00",
       "NumProgressed": 630,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T01:53:55.8914363+00:00",
+      "NumProgressed": 631,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1729,7 +1734,7 @@
       "Name": "Ghost Buster",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "Gladiator",
@@ -1865,7 +1870,7 @@
       "Name": "Reincarnation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "Roughneck",
@@ -1945,15 +1950,15 @@
       "Name": "Trap Master",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "TreasureHunter",
       "SetID": "82505mn",
       "Name": "Treasure Hunter",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 38
     },
     {
       "ID": "Troubleshooter",
@@ -1984,7 +1989,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 630,
+      "Progressed": 631,
       "Completed": 1
     }
   ],
@@ -1992,8 +1997,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-30T00:10:02.3363387+00:00",
+  "LastChanged_Achievements": "2023-12-30T01:53:55.8914361+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:40.3461076+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:59:03.0849904+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:10:02.3364037+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:42:52.8874583+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:53:55.8914647+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Defend the Rook",
   "ProductSlug": "defend-the-rook",
   "Ranking_EOS_Progress": 819,
-  "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 390,
+  "Ranking_EOS_NewPlayers": 567,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-11-11T15:20:00+00:00",
     "PcReleaseDate": "2021-10-26T15:20:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:31.2429471+00:00",
   "LastChanged": "2023-03-31T05:58:31.2429472+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:12.7012644+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:58:08.4349616+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:04:32.6159632+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:41:31.35143+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:48:18.5993443+00:00"
 }

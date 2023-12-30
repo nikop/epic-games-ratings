@@ -3,9 +3,9 @@
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 282,
-  "Ranking_EOS_Completed": 312,
+  "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1127,
+  "EOS_Progressed": 1128,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
@@ -2752,6 +2752,11 @@
       "Time": "2023-12-29T23:06:07.7694898+00:00",
       "NumProgressed": 1127,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T01:50:37.4843505+00:00",
+      "NumProgressed": 1128,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2820,7 +2825,7 @@
       "Name": "Pathfinder",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "CompleteChapter10",
@@ -2860,7 +2865,7 @@
       "Name": "For Harkanibus!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "CompleteChapter15",
@@ -2908,7 +2913,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "CompleteChapter3",
@@ -2924,7 +2929,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "CompleteChapter5",
@@ -2932,7 +2937,7 @@
       "Name": "Breathing Easy",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "CompleteChapter6",
@@ -2940,7 +2945,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "CompleteChapter7",
@@ -3059,14 +3064,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1127,
+      "Progressed": 1128,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-30T00:06:10.3091591+00:00",
+  "LastChanged_Achievements": "2023-12-30T01:50:37.4843502+00:00",
   "LastUpdate_AppInfo": "2023-12-29T09:57:13.5043463+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:57:22.5588889+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:06:10.3091959+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:40:20.7589351+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:50:37.4843817+00:00"
 }

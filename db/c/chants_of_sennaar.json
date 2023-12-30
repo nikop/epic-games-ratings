@@ -6,7 +6,7 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 241,
-  "Ranking_EOS_Completed": 70,
+  "Ranking_EOS_Completed": 71,
   "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
@@ -85,11 +85,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2008,
+  "EOS_Progressed": 2009,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 37,
-  "EOS_Completed_Percentage": 6.08,
+  "EOS_Completed_Percentage": 6.07,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -5710,6 +5710,11 @@
       "Time": "2023-12-30T00:05:26.9819075+00:00",
       "NumProgressed": 2008,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-12-30T01:49:36.7849929+00:00",
+      "NumProgressed": 2009,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 25,
@@ -5783,9 +5788,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 382
     },
     {
       "ID": "META_RESULT_2-3",
@@ -5817,7 +5822,7 @@
       "Name": "Alchemists Express",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -5841,7 +5846,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -5865,7 +5870,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -5873,7 +5878,7 @@
       "Name": "Scholar",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "PROGRESS_N1",
@@ -5889,7 +5894,7 @@
       "Name": "The great escape",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "PROGRESS_N3",
@@ -5920,7 +5925,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2008,
+      "Progressed": 2009,
       "Completed": 122
     }
   ],
@@ -5928,8 +5933,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-29T06:59:08.3980906+00:00",
-  "LastChanged_Achievements": "2023-12-30T00:05:26.9819072+00:00",
+  "LastChanged_Achievements": "2023-12-30T01:49:36.7849926+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:59:14.8696772+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:05:26.9819486+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:43:10.8626766+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:49:36.7850317+00:00"
 }

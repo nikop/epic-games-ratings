@@ -6,9 +6,9 @@
   "Ranking_Popularity": 289,
   "Ranking_PopularitySum": 373,
   "Ranking_EOS_Progress": 128,
-  "Ranking_EOS_Completed": 367,
+  "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -796,9 +796,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 43166,
+  "EOS_Progressed": 43169,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 459,
+  "EOS_NewPlayers": 460,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26676,6 +26676,11 @@
       "Time": "2023-12-30T00:04:16.9353082+00:00",
       "NumProgressed": 43166,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-30T01:47:56.6528601+00:00",
+      "NumProgressed": 43169,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -26703,7 +26708,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7338
+      "UsersEstimate": 7339
     },
     {
       "ID": "ach_antiquarian10",
@@ -26751,7 +26756,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4748
+      "UsersEstimate": 4749
     },
     {
       "ID": "ach_cursestone",
@@ -26775,7 +26780,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4748
+      "UsersEstimate": 4749
     },
     {
       "ID": "ach_deathofermod",
@@ -26807,7 +26812,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15540
+      "UsersEstimate": 15541
     },
     {
       "ID": "ach_die10",
@@ -26815,7 +26820,7 @@
       "Name": "Never Stop Sinking...",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ach_die5",
@@ -26855,7 +26860,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4748
+      "UsersEstimate": 4749
     },
     {
       "ID": "ach_invictus",
@@ -26895,7 +26900,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6043
+      "UsersEstimate": 6044
     },
     {
       "ID": "ach_legacysalvager",
@@ -26911,7 +26916,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4748
+      "UsersEstimate": 4749
     },
     {
       "ID": "ach_newstories",
@@ -26935,7 +26940,7 @@
       "Name": "His bones in whispers",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ach_portdeep",
@@ -26943,7 +26948,7 @@
       "Name": "The beauty of the deep",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ach_portdragon",
@@ -26951,7 +26956,7 @@
       "Name": "The dragon in the zee",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ach_portfish",
@@ -26959,7 +26964,7 @@
       "Name": "Thanks for all the fish",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ach_portknife",
@@ -26983,7 +26988,7 @@
       "Name": "Those are pearls that were his eyes",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ach_portregret",
@@ -26991,7 +26996,7 @@
       "Name": "No regrets",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ach_portrose",
@@ -27007,7 +27012,7 @@
       "Name": "Under the zee",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ach_scion",
@@ -27071,7 +27076,7 @@
       "Name": "Depth charge",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ach_underpressure",
@@ -27095,7 +27100,7 @@
       "Name": "One Year at Zee",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3453
+      "UsersEstimate": 3454
     },
     {
       "ID": "ach_year10",
@@ -27118,15 +27123,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 43166,
+      "Progressed": 43169,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-12-24T21:57:48.6140592+00:00",
-  "LastChanged_Achievements": "2023-12-30T00:04:16.9353077+00:00",
+  "LastChanged_Achievements": "2023-12-30T01:47:56.6528599+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:10.7920736+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:59:58.1741397+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:04:16.9354293+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:44:16.810175+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:47:56.6529804+00:00"
 }

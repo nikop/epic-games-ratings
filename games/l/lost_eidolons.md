@@ -12,10 +12,10 @@ Rating: 4.34 (Ranked 827)
 | Earning Trust | 52.00% | ~589 |
 | Monster Slayer | 30.00% | ~340 |
 | Awakening | 24.00% | ~272 |
-| Huntmaster | 23.00% | ~261 |
+| Huntmaster | 23.00% | ~260 |
 | Complete the sidequest 'Malice and Greed' | 19.00% | ~215 |
 | House Vulisica's Heirloom | 15.00% | ~170 |
-| Digging Deep | 14.00% | ~159 |
+| Digging Deep | 14.00% | ~158 |
 | Broken Oath | 9.00% | ~102 |
 | Way of the King | 8.00% | ~91 |
 | Til We Meet Again | 5.00% | ~57 |
@@ -29,8 +29,8 @@ Rating: 4.34 (Ranked 827)
 | First Bloom | 1.00% | ~11 |
 | Lean on Me | 0.60% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,133 (Ranked 281)  
-Completed: 1 (0.09%) (Ranked 312)  
+Progressed: 1,132 (Ranked 281)  
+Completed: 1 (0.09%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -161,6 +161,7 @@ Completed: 1 (0.09%) (Ranked 312)
 | 2023-12-27 | 1,137 | 1 |
 | 2023-12-28 | 1,138 | 1 |
 | 2023-12-29 | 1,136 | 1 |
+| 2023-12-30 | 1,132 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

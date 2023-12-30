@@ -35,8 +35,8 @@
 | Cruising Speed | 0.00% | ~0 |
 | Full Throttle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,423 (Ranked 261)  
-Completed: 0 (0.00%) (Ranked 389)  
+Progressed: 1,423 (Ranked 262)  
+Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

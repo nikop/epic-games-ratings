@@ -6,9 +6,9 @@
   "Ranking_Popularity": 474,
   "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 180,
-  "Ranking_EOS_Completed": 305,
+  "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1039,9 +1039,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9668,
+  "EOS_Progressed": 9669,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10244,6 +10244,11 @@
       "Time": "2023-12-29T22:09:17.2468562+00:00",
       "NumProgressed": 9668,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-30T01:52:47.985929+00:00",
+      "NumProgressed": 9669,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10407,7 +10412,7 @@
       "Name": "Machiavelli",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1064
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -10447,7 +10452,7 @@
       "Name": "Peak Performance",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4447
+      "UsersEstimate": 4448
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -10503,7 +10508,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2610
+      "UsersEstimate": 2611
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -10559,7 +10564,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -10575,7 +10580,7 @@
       "Name": "Tosca",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -10614,7 +10619,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9668,
+      "Progressed": 9669,
       "Completed": 10
     }
   ],
@@ -10622,8 +10627,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-29T15:57:28.5590101+00:00",
-  "LastChanged_Achievements": "2023-12-30T00:09:12.9768998+00:00",
+  "LastChanged_Achievements": "2023-12-30T01:52:47.9859287+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.592446+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:57:33.8135642+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:09:12.9770897+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:40:38.8139863+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:52:47.9860062+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Punch Club 2: Fast Forward",
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 343,
-  "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 141,
+  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 497,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -2056,9 +2056,9 @@
       "ID": "all_promotion_5",
       "SetID": "69co12a",
       "Name": "Problems of cyborgs",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 154
     },
     {
       "ID": "all_promotion_6",
@@ -2216,9 +2216,9 @@
       "ID": "get_tape",
       "SetID": "69co12a",
       "Name": "Old movies enjoyer",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 368
+      "UsersEstimate": 373
     },
     {
       "ID": "gpp_chip",
@@ -2240,9 +2240,9 @@
       "ID": "hack_gpp",
       "SetID": "69co12a",
       "Name": "Little hacker",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 273
     },
     {
       "ID": "handyman",
@@ -2559,8 +2559,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-30T00:09:36.9153522+00:00",
+  "LastChanged_Achievements": "2023-12-30T01:53:21.3406308+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:13.9390464+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:58:19.4786581+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:09:36.9154258+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:41:47.9021123+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:53:21.3407024+00:00"
 }

@@ -22,9 +22,9 @@
 | Sugar Pills Lover | 12.00% | ~4 |
 | Tramp Saver | 12.00% | ~4 |
 | Chipmunk | 9.00% | ~3 |
+| Secret Locker | 9.00% | ~3 |
 | Paw Music | 9.00% | ~3 |
 | Bear Cop | 6.00% | ~2 |
-| Secret Locker | 6.00% | ~2 |
 | Main Endings | 3.00% | ~1 |
 | Summary Filled | 3.00% | ~1 |
 | Toilets Tormentor | 3.00% | ~1 |
@@ -35,7 +35,7 @@
 | Worst. Investigator. Ever. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 33 (Ranked 576)  
-Completed: 0 (0.00%) (Ranked 389)  
+Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

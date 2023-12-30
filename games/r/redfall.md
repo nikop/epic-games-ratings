@@ -26,6 +26,7 @@ Rating: 3.60 (Ranked 1,078)
 | Radio Silence | 4.00% | ~86 |
 | Helping Hand | 3.00% | ~65 |
 | I Spit On Your Grave | 3.00% | ~65 |
+| Block Party | 2.00% | ~43 |
 | Sic Transit Umbra | 2.00% | ~43 |
 | Bell-ringer | 2.00% | ~43 |
 | Good Morning | 2.00% | ~43 |
@@ -35,7 +36,6 @@ Rating: 3.60 (Ranked 1,078)
 | Harvest’s End | 2.00% | ~43 |
 | Revelations | 1.00% | ~22 |
 | Contingency Plans | 1.00% | ~22 |
-| Block Party | 1.00% | ~22 |
 | Silence Is Golden | 1.00% | ~22 |
 | Check, Please! | 1.00% | ~22 |
 | Nice Try | 1.00% | ~22 |
@@ -43,9 +43,9 @@ Rating: 3.60 (Ranked 1,078)
 | Curious Finch | 1.00% | ~22 |
 | Right This Way | 0.90% | ~19 |
 | Bloody Initiate | 0.70% | ~15 |
+| Dexterity Save | 0.70% | ~15 |
 | What Lies Below | 0.60% | ~13 |
 | Empty Nest Syndrome | 0.60% | ~13 |
-| Dexterity Save | 0.60% | ~13 |
 | Neighborhood Watch | 0.50% | ~11 |
 | Blood Brother | 0.50% | ~11 |
 | Good Samaritan | 0.50% | ~11 |
@@ -73,7 +73,7 @@ Rating: 3.60 (Ranked 1,078)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,156 (Ranked 237)  
-Completed: 0 (0.00%) (Ranked 389)  
+Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

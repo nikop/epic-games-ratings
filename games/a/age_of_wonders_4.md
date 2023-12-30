@@ -49,16 +49,16 @@ Rating: 4.63 (Ranked 355)
 | Seal the Deal | 1.00% | ~65 |
 | A Conqueror's Cohort | 1.00% | ~65 |
 | Dawn of the Dread | 1.00% | ~65 |
-| Manufactured War | 0.90% | ~58 |
-| Pruning for Progress | 0.90% | ~58 |
+| Manufactured War | 0.90% | ~59 |
+| Pruning for Progress | 0.90% | ~59 |
 | Grexolis | 0.80% | ~52 |
 | One for All, All for One | 0.80% | ~52 |
 | Duality | 0.80% | ~52 |
 | Betrayal Most Foul | 0.60% | ~39 |
 | Snap Out of It! | 0.40% | ~26 |
-| The Magic That Empowers Me! | 0.30% | ~19 |
-| Jack of All Tomes | 0.30% | ~19 |
-| A Very Special Ring | 0.30% | ~19 |
+| The Magic That Empowers Me! | 0.40% | ~26 |
+| Jack of All Tomes | 0.30% | ~20 |
+| A Very Special Ring | 0.30% | ~20 |
 | I Want to Break Free | 0.10% | ~6 |
 | Master of Evilness | 0.10% | ~6 |
 | The Grey Wizard | 0.10% | ~6 |
@@ -66,8 +66,8 @@ Rating: 4.63 (Ranked 355)
 | I'll Fight You All | 0.10% | ~6 |
 | Draconic Connoisseur | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,497 (Ranked 195)  
-Completed: 7 (0.11%) (Ranked 303)  
+Progressed: 6,500 (Ranked 195)  
+Completed: 7 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -288,7 +288,7 @@ Completed: 7 (0.11%) (Ranked 303)
 | 2023-12-27 | 6,359 | 7 |
 | 2023-12-28 | 6,414 | 7 |
 | 2023-12-29 | 6,495 | 7 |
-| 2023-12-30 | 6,497 | 7 |
+| 2023-12-30 | 6,500 | 7 |
 ## Awards
 Max (Diverse Characters): 38  (Ranked 481)  
 Sum: 161 (Ranked 436)  

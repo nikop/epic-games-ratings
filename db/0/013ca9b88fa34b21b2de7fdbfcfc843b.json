@@ -6,9 +6,9 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 183,
-  "Ranking_EOS_Completed": 367,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 368,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -237,7 +237,7 @@
   "Tags": [],
   "EOS_Progressed": 8760,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9592,9 +9592,9 @@
       "ID": "SPEND_FIRSTYEAR",
       "SetID": "9eia0f5",
       "Name": "Azorian Anniversary",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 61
     },
     {
       "ID": "UPGRADE_ALLSKILLSMAX",
@@ -9696,9 +9696,9 @@
       "ID": "DLC1_ACHIEVEMENT_08",
       "SetID": "6p01o4j",
       "Name": "Exit Through The Gift Shop",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
@@ -9719,8 +9719,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-30T00:10:03.5233246+00:00",
+  "LastChanged_Achievements": "2023-12-30T01:53:57.6361593+00:00",
   "LastUpdate_AppInfo": "2023-12-29T11:57:18.9799571+00:00",
-  "LastUpdate_Ratings": "2023-12-30T00:03:11.6846274+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:10:03.5234184+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:46:21.5457087+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:53:57.6362233+00:00"
 }

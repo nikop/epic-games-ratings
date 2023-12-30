@@ -9,7 +9,7 @@
 | First to the post | 81.00% | ~78 |
 | A kind of Magic | 75.00% | ~72 |
 | Connected | 68.00% | ~65 |
-| Expansion | 61.00% | ~59 |
+| Expansion | 63.00% | ~60 |
 | Mine! | 59.00% | ~57 |
 | Harvest Time | 57.00% | ~55 |
 | Artificer's Apprentice | 51.00% | ~49 |
@@ -25,7 +25,7 @@
 | Friend of Sevenkeeps | 22.00% | ~21 |
 | Castle Meldec | 21.00% | ~20 |
 | Sevenkeeps Seat of Kings | 19.00% | ~18 |
-| Friend of Alluvyan | 17.00% | ~16 |
+| Friend of Alluvyan | 18.00% | ~17 |
 | Friend of Connach | 16.00% | ~15 |
 | Friend of Gillyshire | 15.00% | ~14 |
 | Break Free | 15.00% | ~14 |
@@ -76,7 +76,7 @@
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 96 (Ranked 492)  
-Completed: 0 (0.00%) (Ranked 389)  
+Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

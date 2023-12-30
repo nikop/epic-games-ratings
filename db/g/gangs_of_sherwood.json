@@ -2,10 +2,10 @@
   "ID": "f76aab05872f4293bb5f46485cb2f16c",
   "Name": "Gangs of Sherwood",
   "ProductSlug": "gangs-of-sherwood",
-  "Ranking_EOS_Progress": 479,
-  "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Progress": 477,
+  "Ranking_EOS_Completed": 390,
+  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
     "PcReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107,
+  "EOS_Progressed": 108,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -455,6 +455,11 @@
       "Time": "2023-12-29T21:06:22.3812512+00:00",
       "NumProgressed": 107,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T01:51:26.2764797+00:00",
+      "NumProgressed": 108,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-21T10:10:18.7530566+00:00",
@@ -513,7 +518,7 @@
       "ID": "ACH_AIR_COMBO",
       "SetID": "5akmpni",
       "Name": "Air Fighter",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 5,
       "UsersEstimate": 80
     },
@@ -577,9 +582,9 @@
       "ID": "ACH_COMPLETE_ACTS_REGULAR",
       "SetID": "5akmpni",
       "Name": "The Gang prevails",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_COMPLETE_LEVEL_COOP",
@@ -593,7 +598,7 @@
       "ID": "ACH_COMPLETE_TUTO",
       "SetID": "5akmpni",
       "Name": "Oo-De-Lally",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 5,
       "UsersEstimate": 76
     },
@@ -675,7 +680,7 @@
       "Name": "Act of Kindness",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_GRAPPLE_ENEMY",
@@ -713,9 +718,9 @@
       "ID": "ACH_KILL_GISBORNE",
       "SetID": "5akmpni",
       "Name": "Locksley\u0027s Tears",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_KILL_KIRKLEES",
@@ -763,7 +768,7 @@
       "Name": "Ultra Rebel Instinct",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_MONEY_KILL",
@@ -779,7 +784,7 @@
       "Name": "The Altruist",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_NO_SIBLINGS",
@@ -817,7 +822,7 @@
       "ID": "ACH_REBEL_INSTINCT",
       "SetID": "5akmpni",
       "Name": "Rebel Unleashed",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 36
     },
@@ -825,9 +830,9 @@
       "ID": "ACH_REPUTATION_LVL_4",
       "SetID": "5akmpni",
       "Name": "MAX LEVEL",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_REVIVE_ALLY",
@@ -843,7 +848,7 @@
       "Name": "Merry Go Round",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_UNLOCK_ALL_GEARS",
@@ -890,14 +895,14 @@
     {
       "ID": "5akmpni",
       "IsBase": true,
-      "Progressed": 107,
+      "Progressed": 108,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-12-30T00:08:14.9337456+00:00",
+  "LastChanged_Achievements": "2023-12-30T01:51:26.2764795+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:27.5850344+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:59:16.7347211+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:08:14.9337821+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:43:13.3966387+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:51:26.2765283+00:00"
 }

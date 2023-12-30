@@ -5,38 +5,38 @@ Rating: 4.56 (Ranked 500)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 67.00% | ~773 |
-| The Teleprobe | 53.00% | ~611 |
-| The City | 48.00% | ~553 |
-| The field base | 43.00% | ~496 |
-| The Alliance | 38.00% | ~438 |
-| Survivors | 37.00% | ~427 |
-| The Condor | 34.00% | ~392 |
-| The End | 34.00% | ~392 |
-| The Necroevolution | 28.00% | ~323 |
-| Krauta is alive | 27.00% | ~311 |
-| Peacemaker | 22.00% | ~254 |
-| Volcanologist | 21.00% | ~242 |
-| On her own | 20.00% | ~231 |
-| Fierce fight | 19.00% | ~219 |
+| The Camp | 67.00% | ~776 |
+| The Teleprobe | 53.00% | ~614 |
+| The City | 48.00% | ~556 |
+| The field base | 43.00% | ~498 |
+| The Alliance | 38.00% | ~440 |
+| Survivors | 37.00% | ~428 |
+| The Condor | 34.00% | ~394 |
+| The End | 34.00% | ~394 |
+| The Necroevolution | 28.00% | ~324 |
+| Krauta is alive | 27.00% | ~313 |
+| Peacemaker | 21.00% | ~243 |
+| Volcanologist | 21.00% | ~243 |
+| On her own | 20.00% | ~232 |
+| Fierce fight | 19.00% | ~220 |
 | Evacuation | 18.00% | ~208 |
-| Beyond divisions | 17.00% | ~196 |
-| Flying Objects Operator | 16.00% | ~184 |
-| I remember everything! | 13.00% | ~150 |
-| Another giant | 12.00% | ~138 |
+| Beyond divisions | 17.00% | ~197 |
+| Flying Objects Operator | 16.00% | ~185 |
+| I remember everything! | 13.00% | ~151 |
+| Another giant | 12.00% | ~139 |
 | I leave no man behind | 9.00% | ~104 |
-| Violent solution | 8.00% | ~92 |
+| Violent solution | 8.00% | ~93 |
 | Innate curiosity | 7.00% | ~81 |
 | Strong objection | 6.00% | ~69 |
 | Ubiquitous holes | 5.00% | ~58 |
 | The Invincible | 5.00% | ~58 |
 | Got lost again | 5.00% | ~58 |
 | I leave no man behind (no exceptions) | 2.00% | ~23 |
-| Convoy list | 1.00% | ~12 |
+| Convoy list | 0.90% | ~10 |
 | No more mistakes | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,153 (Ranked 278)  
-Completed: 0 (0.00%) (Ranked 389)  
+Progressed: 1,158 (Ranked 278)  
+Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -90,7 +90,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-27 | 1,083 | 0 |
 | 2023-12-28 | 1,116 | 0 |
 | 2023-12-29 | 1,151 | 0 |
-| 2023-12-30 | 1,153 | 0 |
+| 2023-12-30 | 1,158 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

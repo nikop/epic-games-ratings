@@ -6,9 +6,9 @@
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 195,
-  "Ranking_EOS_Completed": 303,
+  "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -639,9 +639,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6497,
+  "EOS_Progressed": 6500,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 491,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9684,6 +9684,11 @@
       "Time": "2023-12-30T00:05:14.8197424+00:00",
       "NumProgressed": 6497,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-30T01:49:18.6928732+00:00",
+      "NumProgressed": 6500,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9725,9 +9730,9 @@
       "ID": "13",
       "SetID": "3aa2279",
       "Name": "The Magic That Empowers Me!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 26
     },
     {
       "ID": "14",
@@ -9943,7 +9948,7 @@
       "Name": "Manufactured War",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "39",
@@ -9975,7 +9980,7 @@
       "Name": "Jack of All Tomes",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "42",
@@ -9999,7 +10004,7 @@
       "Name": "Pruning for Progress",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "5",
@@ -10167,20 +10172,20 @@
       "Name": "A Very Special Ring",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     }
   ],
   "AchievementSets": [
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6497,
+      "Progressed": 6500,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6497,
+      "Progressed": 6500,
       "Completed": 7
     }
   ],
@@ -10188,8 +10193,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-29T16:57:41.4982798+00:00",
-  "LastChanged_Achievements": "2023-12-30T00:05:14.8197421+00:00",
+  "LastChanged_Achievements": "2023-12-30T01:49:18.6928729+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:57:43.2392723+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:05:14.819834+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:40:53.4353554+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:49:18.6929619+00:00"
 }

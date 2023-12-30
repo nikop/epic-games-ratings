@@ -1,12 +1,12 @@
 # Scavengers
 [Store](https://store.epicgames.com/en-US/p/scavengers)  
 [View Rawdata](../../db/s/scavengers.json)  
-Rating: 4.18 (Ranked 963)  
+Rating: 4.18 (Ranked 964)  
 Number of Ratings: 403  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 96  (Ranked 384)  
-Sum: 824 (Ranked 284)  
-Diff (max vs sum): 100  
+Sum: 824 (Ranked 285)  
+Diff (max vs sum): 99  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 96 |

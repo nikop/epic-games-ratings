@@ -18,7 +18,7 @@ Number of Ratings: 124  (23.09.2022)
 | Long-Haul Flyer | 14.00% | ~18 |
 | Irissa's Fate | 11.00% | ~15 |
 | Pass A38 | 11.00% | ~15 |
-| Berserker | 9.00% | ~12 |
+| Berserker | 10.00% | ~13 |
 | Family Reunion | 9.00% | ~12 |
 | Eternal Oblivion | 8.00% | ~11 |
 | Globetrotter | 7.00% | ~9 |
@@ -58,7 +58,7 @@ Number of Ratings: 124  (23.09.2022)
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 132 (Ranked 458)  
-Completed: 0 (0.00%) (Ranked 389)  
+Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

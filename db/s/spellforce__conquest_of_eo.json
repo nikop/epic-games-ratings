@@ -3,9 +3,9 @@
   "Name": "SpellForce: Conquest of Eo",
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 492,
-  "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 390,
+  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -512,9 +512,9 @@
       "ID": "Build_First_Lodge",
       "SetID": "7b9f97e",
       "Name": "Expansion",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Build_First_Room",
@@ -896,9 +896,9 @@
       "ID": "Max_Reputation_Alluvyan",
       "SetID": "7b9f97e",
       "Name": "Friend of Alluvyan",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Max_Reputation_Coldmark",
@@ -1073,8 +1073,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-30T00:09:24.5728137+00:00",
+  "LastChanged_Achievements": "2023-12-30T01:53:04.2915555+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:59.8342504+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:57:43.3092106+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:09:24.572879+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:40:53.6207886+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:53:04.2916089+00:00"
 }

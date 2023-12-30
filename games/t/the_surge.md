@@ -75,7 +75,7 @@ Number of Ratings: 62  (23.09.2022)
 | The Surge | 0.40% | ~21 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,128 (Ranked 202)  
-Completed: 18 (0.35%) (Ranked 236)  
+Completed: 18 (0.35%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

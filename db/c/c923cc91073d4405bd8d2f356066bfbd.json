@@ -3,9 +3,9 @@
   "Name": "Burst Hero",
   "ProductSlug": "bursthero-dd5a56",
   "Ranking_EOS_Progress": 664,
-  "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 431,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 390,
+  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-29T00:00:00+00:00",
     "PcReleaseDate": "2023-05-14T15:00:00+00:00",
@@ -69,9 +69,9 @@
       "ID": "ACED",
       "SetID": "1fek4an",
       "Name": "ACED!",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CHALLENGER",
@@ -85,9 +85,9 @@
       "ID": "CHALLENGER_CHAOS",
       "SetID": "1fek4an",
       "Name": "Chaos Challenger",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "COMBO_BULLETSIZE",
@@ -628,8 +628,8 @@
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2023-12-30T00:06:06.5254109+00:00",
+  "LastChanged_Achievements": "2023-12-30T01:50:32.1945575+00:00",
   "LastUpdate_AppInfo": "2023-12-27T12:59:42.9426347+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:57:13.3744744+00:00",
-  "LastUpdate_Achievements": "2023-12-30T00:06:06.5254558+00:00"
+  "LastUpdate_Ratings": "2023-12-30T01:40:06.1119374+00:00",
+  "LastUpdate_Achievements": "2023-12-30T01:50:32.1946086+00:00"
 }

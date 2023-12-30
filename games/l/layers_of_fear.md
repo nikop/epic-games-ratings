@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Something important | 84.00% | ~192 |
-| A piece of the story | 59.00% | ~135 |
+| A piece of the story | 60.00% | ~137 |
 | Wanderer | 54.00% | ~124 |
 | It's covered up for a reason | 52.00% | ~119 |
 | Scraps of love | 46.00% | ~105 |
@@ -16,11 +16,11 @@
 | Face your fears | 28.00% | ~64 |
 | Finished it | 26.00% | ~60 |
 | Whispers long forgotten | 16.00% | ~37 |
+| Sound Bite | 12.00% | ~27 |
+| The art of movement | 12.00% | ~27 |
 | A Slice of Life | 11.00% | ~25 |
 | Debut | 11.00% | ~25 |
-| Sound Bite | 11.00% | ~25 |
 | Playtime | 11.00% | ~25 |
-| The art of movement | 11.00% | ~25 |
 | Tough conversation | 11.00% | ~25 |
 | A new way | 10.00% | ~23 |
 | Another perspective | 10.00% | ~23 |
@@ -58,7 +58,7 @@
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 229 (Ranked 412)  
-Completed: 0 (0.00%) (Ranked 389)  
+Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
