@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2074,9 +2074,9 @@
       "ID": "ach_main02horde_completed",
       "SetID": "4hg22ll",
       "Name": "Hammer Time, Round Two",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 538
+      "UsersEstimate": 545
     },
     {
       "ID": "ach_main02horde_creatures",
@@ -2146,9 +2146,9 @@
       "ID": "ach_main05evil_completed",
       "SetID": "4hg22ll",
       "Name": "Bad Elves Go Everywhere",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 458
+      "UsersEstimate": 464
     },
     {
       "ID": "ach_main05evil_thalyalevel",
@@ -2162,9 +2162,9 @@
       "ID": "ach_main05evil_unicorn",
       "SetID": "4hg22ll",
       "Name": "Unicorn steaks\u00A0\u2013 fresh off the hoof!",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 417
+      "UsersEstimate": 424
     },
     {
       "ID": "ach_main06transporter_completed",
@@ -2434,9 +2434,9 @@
       "ID": "ach_main16ring_spawners",
       "SetID": "4hg22ll",
       "Name": "Rubble and Ashes",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 141
     },
     {
       "ID": "ach_main17stone_completed",
@@ -2547,8 +2547,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2023-12-28T14:01:53.0382272+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:09:02.7002565+00:00",
-  "LastUpdate_AppInfo": "2023-12-23T19:56:58.4415734+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:57:44.2594296+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:09:02.7002972+00:00"
+  "LastChanged_Achievements": "2023-12-30T21:10:10.1104261+00:00",
+  "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
+  "LastUpdate_Ratings": "2023-12-30T20:58:43.8655433+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:10:10.1104752+00:00"
 }

@@ -946,9 +946,9 @@
       "ID": "Max_Reputation_Sevenkeeps",
       "SetID": "7b9f97e",
       "Name": "Friend of Sevenkeeps",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Max_Reputation_SilverDriftHollow",
@@ -1083,8 +1083,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:09:31.1398341+00:00",
-  "LastUpdate_AppInfo": "2023-12-23T19:56:59.8342504+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:58:14.5617529+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:09:31.1398949+00:00"
+  "LastChanged_Achievements": "2023-12-30T21:10:51.0629669+00:00",
+  "LastUpdate_AppInfo": "2023-12-30T20:57:20.4706393+00:00",
+  "LastUpdate_Ratings": "2023-12-30T20:59:29.9299701+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:10:51.0630219+00:00"
 }

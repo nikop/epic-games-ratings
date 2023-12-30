@@ -27,11 +27,11 @@
 | Self-sufficient | 5.00% | ~13 |
 | Outdoor Decorator | 4.00% | ~10 |
 | Medicine Tycoon | 4.00% | ~10 |
+| Tear Down the Wall! | 3.00% | ~8 |
 | Supersoldier | 3.00% | ~8 |
 | Vive le Résistance | 3.00% | ~8 |
 | Human Resources | 3.00% | ~8 |
 | Training Camp | 3.00% | ~8 |
-| Tear Down the Wall! | 2.00% | ~5 |
 | Economist | 2.00% | ~5 |
 | No News is Good News | 2.00% | ~5 |
 | Snowman | 2.00% | ~5 |

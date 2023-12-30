@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,956 |
+| A Brief Tour of the Realms | 2.00% | ~4,957 |
 | The Cursed Farmer | 1.00% | ~2,478 |
 | Beast Intentions | 0.80% | ~1,983 |
 | The Mad Wizard | 0.70% | ~1,735 |
@@ -20,11 +20,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flames of Avernus | 0.40% | ~856 |
 | Mental Gymnastics | 0.40% | ~856 |
 | Don't Lose Your Head | 0.40% | ~856 |
-| A Persistent Buzzing | 0.30% | ~743 |
-| Seeking Allies | 0.30% | ~743 |
-| Mad Cow Disease | 0.30% | ~743 |
-| Friendly Imps | 0.30% | ~743 |
-| Pure Energy | 0.30% | ~743 |
+| A Persistent Buzzing | 0.30% | ~744 |
+| Seeking Allies | 0.30% | ~744 |
+| Mad Cow Disease | 0.30% | ~744 |
+| Friendly Imps | 0.30% | ~744 |
+| Pure Energy | 0.30% | ~744 |
 | Arcane Suppression | 0.30% | ~642 |
 | Welcome to the Vrocks | 0.30% | ~642 |
 | Misaligned in Sigil | 0.30% | ~642 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~214 |
 | The Brains of an Illithid's Desire | 0.10% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,816 (Ranked 68)  
+Progressed: 247,850 (Ranked 68)  
 Completed: 2,578 (1.04%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -807,10 +807,10 @@ Completed: 2,578 (1.04%) (Ranked 170)
 | 2023-12-27 | 245,531 | 2,567 |
 | 2023-12-28 | 246,305 | 2,573 |
 | 2023-12-29 | 247,120 | 2,575 |
-| 2023-12-30 | 247,816 | 2,578 |
+| 2023-12-30 | 247,850 | 2,578 |
 ## Awards
 Max (Great for Beginners): 5,715  (Ranked 71)  
-Sum: 33,188 (Ranked 41)  
+Sum: 33,193 (Ranked 41)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -820,7 +820,7 @@ Diff (max vs sum): 30
 | This game is Relaxing | 4,751 |
 | This game has Amazing Characters | 4,295 |
 | This game is Highly Recommended | 4,286 |
-| This game has Playful Visuals | 3,609 |
+| This game has Playful Visuals | 3,614 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -1162,4 +1162,4 @@ Diff (max vs sum): 30
 | 2023-12-27 | 4.06 | - | 5,701 | 33,129 |
 | 2023-12-28 | 4.06 | - | 5,708 | 33,156 |
 | 2023-12-29 | 4.06 | - | 5,715 | 33,183 |
-| 2023-12-30 | 4.06 | - | 5,715 | 33,188 |
+| 2023-12-30 | 4.06 | - | 5,715 | 33,193 |

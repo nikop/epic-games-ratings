@@ -17,8 +17,8 @@ Rating: 4.52 (Ranked 570)
 | Moneyball | 60.00% | ~836 |
 | No Bites | 55.00% | ~767 |
 | Iceborn | 55.00% | ~767 |
+| Boom Things | 53.00% | ~739 |
 | Tear of Freedom | 52.00% | ~725 |
-| Boom Things | 52.00% | ~725 |
 | My Darkest Day | 48.00% | ~669 |
 | Rhythm Of Willump | 46.00% | ~641 |
 | The Relentless Storm | 46.00% | ~641 |
@@ -51,7 +51,7 @@ Rating: 4.52 (Ranked 570)
 | Sneaky Notai | 1.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,394 (Ranked 264)  
-Completed: 9 (0.65%) (Ranked 201)  
+Completed: 9 (0.65%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

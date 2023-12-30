@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4357,
+  "EOS_Progressed": 4358,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -7331,6 +7331,11 @@
       "Time": "2023-12-30T20:04:56.7650188+00:00",
       "NumProgressed": 4357,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-30T21:06:55.8666828+00:00",
+      "NumProgressed": 4358,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7382,7 +7387,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "CrowdPleaser",
@@ -7534,7 +7539,7 @@
       "Name": "Ready for Winter",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2701
+      "UsersEstimate": 2702
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -7646,7 +7651,7 @@
       "Name": "Through fire and flame.",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "VanquisherOfNightmares_52",
@@ -7677,15 +7682,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4357,
+      "Progressed": 4358,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:04:56.7650187+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:06:55.8666825+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.9488093+00:00",
-  "LastUpdate_Ratings": "2023-12-30T20:02:53.4982975+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:04:56.7650617+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:03:53.3486711+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:06:55.8667307+00:00"
 }

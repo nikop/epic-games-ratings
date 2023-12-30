@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2133,
+  "EOS_Progressed": 2134,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8190,6 +8190,11 @@
       "Time": "2023-12-30T20:05:02.4326701+00:00",
       "NumProgressed": 2133,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T21:07:04.2483183+00:00",
+      "NumProgressed": 2134,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8359,9 +8364,9 @@
       "ID": "objective_hero_level_up_7",
       "SetID": "bm61c2p",
       "Name": "General",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 43
+      "UsersEstimate": 21
     },
     {
       "ID": "objective_key_alliance_help_2",
@@ -8447,9 +8452,9 @@
       "ID": "objective_multiple_factory_1",
       "SetID": "bm61c2p",
       "Name": "Factory Expansion",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 149
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -8457,7 +8462,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -8487,9 +8492,9 @@
       "ID": "objective_research_unlock_light_infantry_tier_4",
       "SetID": "bm61c2p",
       "Name": "Jet Troops",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "objective_upgrade_dropships_2",
@@ -8504,7 +8509,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2133,
+      "Progressed": 2134,
       "Completed": 1
     }
   ],
@@ -8512,8 +8517,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:05:02.4326698+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:07:04.2483179+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:02.8789919+00:00",
-  "LastUpdate_Ratings": "2023-12-30T20:02:40.0491776+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:05:02.4327326+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:03:33.2038063+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:07:04.2483755+00:00"
 }

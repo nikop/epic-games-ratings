@@ -68,6 +68,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Manichaeism | 0.30% | ~48 |
 | Egyptian Paganism | 0.30% | ~48 |
 | Building Wonders | 0.30% | ~48 |
+| Points Victory | 0.30% | ~48 |
 | Win a Single Player Game | 0.30% | ~48 |
 | Bad Heir Day | 0.20% | ~32 |
 | Hanging Gardens in Babylon | 0.20% | ~32 |
@@ -108,7 +109,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.20% | ~32 |
 | Legionary | 0.20% | ~32 |
 | Double Victory | 0.20% | ~32 |
-| Points Victory | 0.20% | ~32 |
 | The Clergy | 0.20% | ~32 |
 | Centenarian | 0.10% | ~16 |
 | Alexander the Great | 0.10% | ~16 |
@@ -248,6 +248,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis in Waset | 0.10% | ~16 |
 | Win a Free-For-All Game (>2 Players) | 0.10% | ~16 |
 | Win a Hotseat Game | 0.10% | ~16 |
+| Win a MP Teams Game | 0.10% | ~16 |
 | Win a Network Game | 0.10% | ~16 |
 | Deposed Tribe | 0.10% | ~16 |
 | Five Cults | 0.10% | ~16 |
@@ -325,7 +326,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
-| Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 | Religious Dissent | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,034 (Ranked 165)  
+Progressed: 16,036 (Ranked 165)  
 Completed: 5 (0.03%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -619,7 +619,7 @@ Completed: 5 (0.03%) (Ranked 351)
 | 2023-12-27 | 15,978 | 5 |
 | 2023-12-28 | 15,997 | 5 |
 | 2023-12-29 | 16,011 | 5 |
-| 2023-12-30 | 16,034 | 5 |
+| 2023-12-30 | 16,036 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 284)  
 Sum: 1,912 (Ranked 220)  

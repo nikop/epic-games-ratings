@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3942,
+  "EOS_Progressed": 3943,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
@@ -5257,6 +5257,11 @@
       "Time": "2023-12-30T17:07:58.8120556+00:00",
       "NumProgressed": 3942,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-30T21:09:06.2770063+00:00",
+      "NumProgressed": 3943,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5268,7 +5273,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "bonus2",
@@ -5290,9 +5295,9 @@
       "ID": "bonus4",
       "SetID": "2h56gn1",
       "Name": "Work It",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 118
     },
     {
       "ID": "bonus5",
@@ -5404,7 +5409,7 @@
       "Name": "Flanked!",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 2956
+      "UsersEstimate": 2957
     },
     {
       "ID": "campaign20",
@@ -5444,7 +5449,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "campaign7",
@@ -5531,7 +5536,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3942,
+      "Progressed": 3943,
       "Completed": 11
     }
   ],
@@ -5539,8 +5544,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:08:18.012545+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:09:06.2770059+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:09.0478808+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:59:21.4670245+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:08:18.0125827+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:01:09.848618+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:09:06.2770473+00:00"
 }

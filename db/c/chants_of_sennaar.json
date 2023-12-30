@@ -91,11 +91,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2061,
+  "EOS_Progressed": 2063,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 399,
-  "EOS_NewCompleters": 36,
-  "EOS_Completed_Percentage": 6.02,
+  "EOS_NewPlayers": 395,
+  "EOS_NewCompleters": 35,
+  "EOS_Completed_Percentage": 6.01,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -5811,6 +5811,11 @@
       "Time": "2023-12-30T20:05:53.0305556+00:00",
       "NumProgressed": 2061,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-30T21:08:18.0467514+00:00",
+      "NumProgressed": 2063,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 25,
@@ -5830,7 +5835,7 @@
       "Name": "In this together",
       "Percentage": 22,
       "XP": 200,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "META_ALL_LINK",
@@ -5838,7 +5843,7 @@
       "Name": "Peace walker",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -5854,7 +5859,7 @@
       "Name": "A good beginning",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "META_HALF_LINK",
@@ -5870,7 +5875,7 @@
       "Name": "Open door",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "META_RESULT_1-3",
@@ -5894,7 +5899,7 @@
       "Name": "A great audience",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "META_RESULT_2-4",
@@ -5902,7 +5907,7 @@
       "Name": "For its own good",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "META_RESULT_3-4",
@@ -5934,7 +5939,7 @@
       "Name": "True G3M4R",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -5942,7 +5947,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -5958,7 +5963,7 @@
       "Name": "Champollion",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -5966,7 +5971,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -5982,7 +5987,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1032
     },
     {
       "ID": "PROGRESS_N2",
@@ -6006,7 +6011,7 @@
       "Name": "The darkness",
       "Percentage": 28,
       "XP": 60,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "PROGRESS_N5",
@@ -6021,7 +6026,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2061,
+      "Progressed": 2063,
       "Completed": 124
     }
   ],
@@ -6029,8 +6034,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-30T06:59:31.3780132+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:05:53.0305554+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:08:18.046751+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:59:48.642145+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:05:53.0306006+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:01:51.7353241+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:08:18.0468172+00:00"
 }

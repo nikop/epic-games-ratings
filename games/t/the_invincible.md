@@ -5,37 +5,37 @@ Rating: 4.58 (Ranked 463)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 67.00% | ~795 |
-| The Teleprobe | 54.00% | ~641 |
-| The City | 48.00% | ~570 |
-| The field base | 44.00% | ~522 |
-| The Alliance | 38.00% | ~451 |
-| Survivors | 37.00% | ~439 |
-| The Condor | 35.00% | ~415 |
-| The End | 34.00% | ~404 |
-| Krauta is alive | 27.00% | ~320 |
-| The Necroevolution | 27.00% | ~320 |
-| Peacemaker | 21.00% | ~249 |
-| Volcanologist | 21.00% | ~249 |
-| On her own | 20.00% | ~237 |
+| The Camp | 67.00% | ~797 |
+| The Teleprobe | 54.00% | ~643 |
+| The City | 48.00% | ~571 |
+| The field base | 44.00% | ~524 |
+| The Alliance | 38.00% | ~452 |
+| Survivors | 37.00% | ~440 |
+| The Condor | 35.00% | ~416 |
+| The End | 34.00% | ~405 |
+| Krauta is alive | 27.00% | ~321 |
+| The Necroevolution | 27.00% | ~321 |
+| Peacemaker | 22.00% | ~262 |
+| Volcanologist | 21.00% | ~250 |
+| On her own | 20.00% | ~238 |
 | Fierce fight | 19.00% | ~226 |
 | Evacuation | 18.00% | ~214 |
 | Beyond divisions | 17.00% | ~202 |
 | Flying Objects Operator | 16.00% | ~190 |
-| I remember everything! | 13.00% | ~154 |
-| Another giant | 12.00% | ~142 |
+| I remember everything! | 13.00% | ~155 |
+| Another giant | 12.00% | ~143 |
 | I leave no man behind | 9.00% | ~107 |
 | Violent solution | 8.00% | ~95 |
 | Innate curiosity | 7.00% | ~83 |
 | Strong objection | 6.00% | ~71 |
-| Ubiquitous holes | 5.00% | ~59 |
-| The Invincible | 5.00% | ~59 |
-| Got lost again | 5.00% | ~59 |
+| Ubiquitous holes | 5.00% | ~60 |
+| The Invincible | 5.00% | ~60 |
+| Got lost again | 5.00% | ~60 |
 | I leave no man behind (no exceptions) | 2.00% | ~24 |
 | Convoy list | 0.90% | ~11 |
 | No more mistakes | 0.60% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,187 (Ranked 277)  
+Progressed: 1,190 (Ranked 277)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 1,083 | 0 |
 | 2023-12-28 | 1,116 | 0 |
 | 2023-12-29 | 1,151 | 0 |
-| 2023-12-30 | 1,187 | 0 |
+| 2023-12-30 | 1,190 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

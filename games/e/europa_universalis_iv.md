@@ -10,9 +10,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Army | 0.40% | ~1,953 |
 | That is mine! | 0.40% | ~1,953 |
 | Victorious! | 0.40% | ~1,953 |
-| Brothers in Arms | 0.30% | ~1,464 |
-| That's a Grand Navy | 0.30% | ~1,464 |
-| Seriously?! | 0.30% | ~1,464 |
+| Brothers in Arms | 0.30% | ~1,465 |
+| That's a Grand Navy | 0.30% | ~1,465 |
+| Seriously?! | 0.30% | ~1,465 |
 | Cold War | 0.20% | ~976 |
 | Defender of the Faith | 0.20% | ~976 |
 | For the Glory | 0.20% | ~976 |
@@ -299,6 +299,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Turning the Tide | 0.10% | ~488 |
 | Turtles all the way down | 0.10% | ~488 |
 | Vasa or Wettin? | 0.10% | ~488 |
+| Venetian Sea | 0.10% | ~488 |
 | Victorian Three | 0.10% | ~488 |
 | Viva la Revolución! | 0.10% | ~488 |
 | Voltaire's Nightmare | 0.10% | ~488 |
@@ -364,13 +365,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | To the Bone | 0.00% | ~0 |
 | Turkish Delight | 0.00% | ~0 |
 | Ultimate Military | 0.00% | ~0 |
-| Venetian Sea | 0.00% | ~0 |
 | Where Am I? | 0.00% | ~0 |
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 488,149 (Ranked 40)  
+Progressed: 488,186 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -624,7 +624,7 @@ Completed: 1 (0.00%) (Ranked 391)
 | 2023-12-27 | 485,786 | 1 |
 | 2023-12-28 | 486,523 | 1 |
 | 2023-12-29 | 487,372 | 1 |
-| 2023-12-30 | 488,149 | 1 |
+| 2023-12-30 | 488,186 | 1 |
 ## Awards
 Max (Educational): 7,620  (Ranked 54)  
 Sum: 62,880 (Ranked 24)  

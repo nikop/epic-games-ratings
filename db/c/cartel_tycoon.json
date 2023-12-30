@@ -6,7 +6,7 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 293,
-  "Ranking_EOS_Completed": 241,
+  "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
@@ -301,11 +301,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 895,
+  "EOS_Progressed": 896,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.34,
+  "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.4589703+00:00",
@@ -3156,6 +3156,11 @@
       "Time": "2023-12-30T20:05:27.2838684+00:00",
       "NumProgressed": 895,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-30T21:07:40.6836613+00:00",
+      "NumProgressed": 896,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3167,7 +3172,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "cool-shirts",
@@ -3215,7 +3220,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "kill-lieutenants",
@@ -3229,9 +3234,9 @@
       "ID": "pack-and-sell",
       "SetID": "bed33dd",
       "Name": "Hokey-Pokey",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 609
+      "UsersEstimate": 618
     },
     {
       "ID": "play-at-night",
@@ -3239,7 +3244,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "product-profit",
@@ -3287,7 +3292,7 @@
       "Name": "Camellos",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "unlock-residences",
@@ -3303,7 +3308,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "use-submarine",
@@ -3318,15 +3323,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 895,
+      "Progressed": 896,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:05:27.2838681+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:07:40.6836607+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:28.0909212+00:00",
-  "LastUpdate_Ratings": "2023-12-30T20:02:45.3417386+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:05:27.283891+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:03:41.3087835+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:07:40.6836862+00:00"
 }

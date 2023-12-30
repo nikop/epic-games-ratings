@@ -8,10 +8,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | Abandoned Settlement | 7.00% | ~1,381 |
 | Overgrown Library | 7.00% | ~1,381 |
-| First Real Expedition | 6.00% | ~1,183 |
-| Taking Action | 6.00% | ~1,183 |
-| No Deaths | 6.00% | ~1,183 |
-| Petrified Necropolis | 6.00% | ~1,183 |
+| First Real Expedition | 6.00% | ~1,184 |
+| Taking Action | 6.00% | ~1,184 |
+| No Deaths | 6.00% | ~1,184 |
+| Petrified Necropolis | 6.00% | ~1,184 |
 | Overcoming Difficulty | 5.00% | ~986 |
 | Coral Forest | 5.00% | ~986 |
 | The Marshlands | 5.00% | ~986 |
@@ -25,20 +25,20 @@ Number of Ratings: 1,845  (23.09.2022)
 | Monastery of the Holy Flame | 3.00% | ~592 |
 | Royal Outpost | 3.00% | ~592 |
 | Watchtower | 3.00% | ~592 |
+| A Real Challenge | 3.00% | ~592 |
 | Untamed Wilds | 3.00% | ~592 |
-| Ruined Armory | 2.00% | ~394 |
-| Bandit Camp | 2.00% | ~394 |
-| Barren Lands | 2.00% | ~394 |
-| Ancient Battleground | 2.00% | ~394 |
-| Sparkdew Crystals | 2.00% | ~394 |
-| Levitating Monument | 2.00% | ~394 |
-| Flooded Mines | 2.00% | ~394 |
-| Lost Colonies | 2.00% | ~394 |
-| Statue of the Forefathers | 2.00% | ~394 |
-| Corrosive Torrent | 2.00% | ~394 |
-| Cursed Lands | 2.00% | ~394 |
-| A Real Challenge | 2.00% | ~394 |
-| Trade Baron | 2.00% | ~394 |
+| Ruined Armory | 2.00% | ~395 |
+| Bandit Camp | 2.00% | ~395 |
+| Barren Lands | 2.00% | ~395 |
+| Ancient Battleground | 2.00% | ~395 |
+| Sparkdew Crystals | 2.00% | ~395 |
+| Levitating Monument | 2.00% | ~395 |
+| Flooded Mines | 2.00% | ~395 |
+| Lost Colonies | 2.00% | ~395 |
+| Statue of the Forefathers | 2.00% | ~395 |
+| Corrosive Torrent | 2.00% | ~395 |
+| Cursed Lands | 2.00% | ~395 |
+| Trade Baron | 2.00% | ~395 |
 | Serving Ale | 1.00% | ~197 |
 | Against All Odds | 1.00% | ~197 |
 | Fishmen Ritual Site | 1.00% | ~197 |
@@ -46,9 +46,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Victory Through Prosperity | 1.00% | ~197 |
 | Defying the Crown | 1.00% | ~197 |
 | Into the Forest | 1.00% | ~197 |
-| Efficient Explorer | 0.90% | ~177 |
-| Refinery | 0.90% | ~177 |
-| Forsaken Gods Temple | 0.90% | ~177 |
+| Efficient Explorer | 0.90% | ~178 |
+| Refinery | 0.90% | ~178 |
+| Forsaken Gods Temple | 0.90% | ~178 |
 | Dangerous Lands | 0.80% | ~158 |
 | Forbidden Lands | 0.80% | ~158 |
 | Feeding The People | 0.60% | ~118 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,722 (Ranked 151)  
+Progressed: 19,729 (Ranked 151)  
 Completed: 35 (0.18%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,10 +320,10 @@ Completed: 35 (0.18%) (Ranked 279)
 | 2023-12-27 | 19,458 | 38 |
 | 2023-12-28 | 19,536 | 36 |
 | 2023-12-29 | 19,630 | 36 |
-| 2023-12-30 | 19,722 | 35 |
+| 2023-12-30 | 19,729 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 446  (Ranked 229)  
-Sum: 3,306 (Ranked 176)  
+Sum: 3,308 (Ranked 176)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
@@ -331,7 +331,7 @@ Diff (max vs sum): 53
 | This game is Relaxing | 442 |
 | This game is Great for Beginners | 435 |
 | This game is Extremely Fun | 416 |
-| This game is Highly Recommended | 396 |
+| This game is Highly Recommended | 398 |
 | This game has Unique Visuals | 337 |
 | This game has Amazing Storytelling | 326 |
 | This game has Amazing Characters | 292 |
@@ -609,3 +609,4 @@ Diff (max vs sum): 53
 | 2023-12-27 | 4.82 | - | 445 | 3,297 |
 | 2023-12-28 | 4.82 | - | 446 | 3,302 |
 | 2023-12-29 | 4.82 | - | 446 | 3,306 |
+| 2023-12-30 | 4.82 | - | 446 | 3,308 |

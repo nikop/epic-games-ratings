@@ -6,7 +6,7 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 264,
-  "Ranking_EOS_Completed": 201,
+  "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
@@ -71,7 +71,7 @@
   "Tags": [],
   "EOS_Progressed": 1394,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -3688,9 +3688,9 @@
       "ID": "EV_ACH14",
       "SetID": "6jeac23",
       "Name": "Boom Things",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 725
+      "UsersEstimate": 739
     },
     {
       "ID": "EV_ACH15",
@@ -3945,8 +3945,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-25T19:59:38.6529887+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:10:11.1111233+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:11:47.1498742+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:41.3966374+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:58:37.0457976+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:10:11.1111592+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:00:04.4276236+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:11:47.1499249+00:00"
 }

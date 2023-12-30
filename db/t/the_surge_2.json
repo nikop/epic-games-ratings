@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2416,
+  "EOS_Progressed": 2417,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -4064,6 +4064,11 @@
       "Time": "2023-12-30T18:03:26.7181491+00:00",
       "NumProgressed": 2416,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-30T21:04:49.4584013+00:00",
+      "NumProgressed": 2417,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4083,7 +4088,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1570
+      "UsersEstimate": 1571
     },
     {
       "ID": "ACHV_03",
@@ -4155,7 +4160,7 @@
       "Name": "Denying Prophecy",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACHV_12",
@@ -4211,7 +4216,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ACHV_19",
@@ -4235,7 +4240,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACHV_22",
@@ -4259,7 +4264,7 @@
       "Name": "Gotta Craft \u0027em All",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHV_25",
@@ -4307,7 +4312,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "ACHV_31",
@@ -4355,7 +4360,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ACHV_37",
@@ -4379,7 +4384,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1836
+      "UsersEstimate": 1837
     },
     {
       "ID": "ACHV_40",
@@ -4475,7 +4480,7 @@
       "Name": "Homewrecker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHV_52",
@@ -4530,7 +4535,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2416,
+      "Progressed": 2417,
       "Completed": 13
     }
   ],
@@ -4538,8 +4543,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-29T03:00:05.8444174+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:03:27.7472808+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:04:49.4584009+00:00",
   "LastUpdate_AppInfo": "2023-12-30T17:56:59.176771+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:57:26.3175953+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:03:27.7473304+00:00"
+  "LastUpdate_Ratings": "2023-12-30T20:58:15.9257783+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:04:49.4584517+00:00"
 }

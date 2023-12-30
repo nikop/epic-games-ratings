@@ -20,7 +20,7 @@
 | Flawless Crystal | 37.00% | ~377 |
 | Bonds of Enmity | 37.00% | ~377 |
 | Distance Devourer | 34.00% | ~347 |
-| Counter Specialist | 32.00% | ~326 |
+| Counter Specialist | 33.00% | ~337 |
 | Master of the Skies | 31.00% | ~316 |
 | Axer of Auspice | 27.00% | ~275 |
 | Fair Means or Foul | 26.00% | ~265 |

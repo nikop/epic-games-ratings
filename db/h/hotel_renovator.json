@@ -5,9 +5,9 @@
   "Ranking_Rating": 815,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 267,
+  "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -3405,9 +3405,9 @@
       "ID": "ACH_STAR_3",
       "SetID": "7k95e4n",
       "Name": "Still more work ahead",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 379
+      "UsersEstimate": 393
     },
     {
       "ID": "ACH_STAR_4",
@@ -3462,8 +3462,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-29T01:34:53.0019618+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:08:47.7158672+00:00",
-  "LastUpdate_AppInfo": "2023-12-23T19:57:02.4456941+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:59:02.8530758+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:08:47.7158954+00:00"
+  "LastChanged_Achievements": "2023-12-30T21:09:48.167517+00:00",
+  "LastUpdate_AppInfo": "2023-12-30T20:57:25.8678636+00:00",
+  "LastUpdate_Ratings": "2023-12-30T21:00:42.7710438+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:09:48.1675414+00:00"
 }

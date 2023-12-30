@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -317,11 +317,11 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 542,
+  "EOS_Progressed": 545,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.74,
+  "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -1487,6 +1487,11 @@
       "Time": "2023-12-30T20:06:16.2817343+00:00",
       "NumProgressed": 542,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-30T21:08:51.216001+00:00",
+      "NumProgressed": 545,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1675,7 +1680,7 @@
       "Name": "Super Spatula Seeker",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -1699,7 +1704,7 @@
       "Name": "Sock Getter",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -1723,7 +1728,7 @@
       "Name": "Squirrel Smasher",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_STAT_STAR_SMASHER",
@@ -1731,7 +1736,7 @@
       "Name": "Star Smasher",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_SURFS_UP",
@@ -1739,7 +1744,7 @@
       "Name": "Surf\u0027s Up!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
@@ -1754,15 +1759,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 542,
+      "Progressed": 545,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:06:16.281734+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:08:51.2160006+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:57:25.4737102+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:06:16.2817557+00:00"
+  "LastUpdate_Ratings": "2023-12-30T20:58:14.7734389+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:08:51.216054+00:00"
 }

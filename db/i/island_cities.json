@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 459,
+  "Ranking_EOS_NewPlayers": 440,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 852,
+  "EOS_Progressed": 853,
   "EOS_Completed": 142,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 16.67,
+  "EOS_Completed_Percentage": 16.65,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3661,6 +3661,11 @@
       "Time": "2023-12-30T13:07:31.7193122+00:00",
       "NumProgressed": 852,
       "NumCompleted": 142
+    },
+    {
+      "Time": "2023-12-30T21:06:31.2023232+00:00",
+      "NumProgressed": 853,
+      "NumCompleted": 142
     }
   ],
   "TotalAchievements": 22,
@@ -3672,7 +3677,7 @@
       "Name": "Welcome!",
       "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "LEVEL_002",
@@ -3680,7 +3685,7 @@
       "Name": "A tiny town",
       "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "LEVEL_003",
@@ -3688,7 +3693,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "LEVEL_004",
@@ -3760,7 +3765,7 @@
       "Name": "Calm neighborhood",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "LEVEL_013",
@@ -3808,7 +3813,7 @@
       "Name": "Le jardin magnifique",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "LEVEL_019",
@@ -3847,7 +3852,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 852,
+      "Progressed": 853,
       "Completed": 142
     }
   ],
@@ -3855,8 +3860,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:04:38.8105016+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:06:31.2023227+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:02.2338359+00:00",
-  "LastUpdate_Ratings": "2023-12-30T20:02:38.7085368+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:04:38.8105307+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:03:30.6037857+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:06:31.2023549+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-12-21T00:00:00+00:00",
     "PcReleaseDate": "2023-12-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5000,
+  "EOS_Progressed": 5027,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 3615,
+  "EOS_NewPlayers": 3597,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1149,6 +1149,11 @@
       "Time": "2023-12-30T20:09:24.4230942+00:00",
       "NumProgressed": 5000,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-30T21:10:41.350347+00:00",
+      "NumProgressed": 5027,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -1161,7 +1166,7 @@
       "Name": "Final Destination",
       "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 2500
+      "UsersEstimate": 2514
     },
     {
       "ID": "Document1",
@@ -1169,7 +1174,7 @@
       "Name": "The Seeker in the Shadows",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 450
+      "UsersEstimate": 452
     },
     {
       "ID": "Document2",
@@ -1177,7 +1182,7 @@
       "Name": "Document Discoverer",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Document3",
@@ -1185,7 +1190,7 @@
       "Name": "Secrets Revealer",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "Document4",
@@ -1193,7 +1198,7 @@
       "Name": "Truth Seeker",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "Document5",
@@ -1209,7 +1214,7 @@
       "Name": "Perseverant",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "Untraceable2",
@@ -1217,21 +1222,21 @@
       "Name": "Untraceable",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     }
   ],
   "AchievementSets": [
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 5000,
+      "Progressed": 5027,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:09:24.4230939+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:10:41.3503464+00:00",
   "LastUpdate_AppInfo": "2023-12-24T20:56:57.0672179+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:58:35.0089334+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:09:24.423104+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:00:01.4205379+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:10:41.3503584+00:00"
 }

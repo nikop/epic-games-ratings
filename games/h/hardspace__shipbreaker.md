@@ -6,35 +6,35 @@ Number of Ratings: 36  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 73.00% | ~751 |
-| It’s Heating up! | 69.00% | ~710 |
-| Let’s patch things up | 65.00% | ~669 |
-| I can fix it! | 62.00% | ~638 |
-| Post No Bills | 54.00% | ~556 |
-| Truly Shocking! | 48.00% | ~494 |
-| Critical Thinker | 36.00% | ~370 |
-| Act I Complete | 29.00% | ~298 |
-| Always Finding Your Mark | 29.00% | ~298 |
-| The Weight of the World | 29.00% | ~298 |
-| A drop in the Ocean | 28.00% | ~288 |
+| Breathe In… Breathe Out… | 73.00% | ~753 |
+| It’s Heating up! | 69.00% | ~711 |
+| Let’s patch things up | 65.00% | ~670 |
+| I can fix it! | 62.00% | ~639 |
+| Post No Bills | 54.00% | ~557 |
+| Truly Shocking! | 48.00% | ~495 |
+| Critical Thinker | 36.00% | ~371 |
+| Act I Complete | 29.00% | ~299 |
+| Always Finding Your Mark | 29.00% | ~299 |
+| The Weight of the World | 29.00% | ~299 |
+| A drop in the Ocean | 28.00% | ~289 |
 | No Niños | 26.00% | ~268 |
 | I ain’t afraid of no Ghost | 24.00% | ~247 |
-| Act II Complete | 21.00% | ~216 |
+| Act II Complete | 21.00% | ~217 |
 | A successful procedure! | 19.00% | ~196 |
 | Bing Bang BOOM | 19.00% | ~196 |
-| Breaking the Ice | 18.00% | ~185 |
-| Solidarity Forever | 12.00% | ~123 |
+| Breaking the Ice | 18.00% | ~186 |
+| Solidarity Forever | 12.00% | ~124 |
 | A Tucked Tale | 10.00% | ~103 |
 | The best thing money can buy | 9.00% | ~93 |
 | Act III Complete | 6.00% | ~62 |
 | See you Space Cowboy | 6.00% | ~62 |
-| Fire and Brimstone | 5.00% | ~51 |
+| Fire and Brimstone | 5.00% | ~52 |
 | Ghost in the Ship | 2.00% | ~21 |
 | Disagree and Commit | 0.10% | ~1 |
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,029 (Ranked 287)  
+Progressed: 1,031 (Ranked 287)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 1,021 | 0 |
 | 2023-12-28 | 1,024 | 0 |
 | 2023-12-29 | 1,027 | 0 |
-| 2023-12-30 | 1,029 | 0 |
+| 2023-12-30 | 1,031 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -5,31 +5,31 @@ Rating: 4.55 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 106.00% | ~19,076 |
-| Before the Downfall | 101.00% | ~18,176 |
-| Money like Water | 99.00% | ~17,816 |
-| Minimalist | 98.00% | ~17,636 |
+| Trevithick's Legacy | 106.00% | ~19,075 |
+| Before the Downfall | 101.00% | ~18,175 |
+| Money like Water | 99.00% | ~17,815 |
+| Minimalist | 98.00% | ~17,635 |
 | Builder | 90.00% | ~16,196 |
-| Eraser | 76.00% | ~13,677 |
-| Pocket of Trains | 71.00% | ~12,777 |
+| Eraser | 76.00% | ~13,676 |
+| Pocket of Trains | 71.00% | ~12,776 |
 | Inspector | 64.00% | ~11,517 |
-| Going the Distance | 59.00% | ~10,618 |
+| Going the Distance | 59.00% | ~10,617 |
 | Oil Baron | 46.00% | ~8,278 |
 | Loads-a-Money | 46.00% | ~8,278 |
 | Helper of the People | 43.00% | ~7,738 |
-| Simplification | 37.00% | ~6,659 |
-| Box of Trains | 36.00% | ~6,479 |
-| Let There be Light | 35.00% | ~6,299 |
-| Hot Water | 33.00% | ~5,939 |
-| Indecisive | 32.00% | ~5,759 |
-| The scenic route | 30.00% | ~5,399 |
+| Simplification | 37.00% | ~6,658 |
+| Box of Trains | 36.00% | ~6,478 |
+| Let There be Light | 35.00% | ~6,298 |
+| Hot Water | 33.00% | ~5,938 |
+| Indecisive | 32.00% | ~5,758 |
+| The scenic route | 30.00% | ~5,398 |
 | Industrialist | 27.00% | ~4,859 |
 | Perfectionist | 26.00% | ~4,679 |
 | 8K is Enough for Everyone | 25.00% | ~4,499 |
 | Trains over Pipes | 25.00% | ~4,499 |
 | Man of Steel | 18.00% | ~3,239 |
 | Room Full of Trains | 14.00% | ~2,519 |
-| Investor | 11.00% | ~1,980 |
+| Investor | 11.00% | ~1,979 |
 | Multiverse | 8.00% | ~1,440 |
 | The poor groundwater levels | 8.00% | ~1,440 |
 | Metropolis | 8.00% | ~1,440 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 522)
 | Overdeer | 0.60% | ~108 |
 | Cloud Services | 0.30% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,996 (Ranked 156)  
+Progressed: 17,995 (Ranked 156)  
 Completed: 26 (0.14%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |

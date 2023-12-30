@@ -33,9 +33,9 @@ Number of Ratings: 90  (23.09.2022)
 | Ultimate Smoothie | 3.00% | ~8 |
 | Deincarnated | 3.00% | ~8 |
 | Arkvoodle Doodle | 3.00% | ~8 |
+| Against All Odds | 2.00% | ~5 |
 | The Optional Mandate | 2.00% | ~5 |
 | Arty Facts | 1.00% | ~3 |
-| Against All Odds | 1.00% | ~3 |
 | PK Slam Dunk | 0.80% | ~2 |
 | Gotta Catch All the Pop Art | 0.80% | ~2 |
 | This Is Earth Radio | 0.80% | ~2 |

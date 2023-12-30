@@ -1083,9 +1083,9 @@
       "ID": "Stonozka",
       "SetID": "ag48e8e",
       "Name": "Centipede",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "Strom",
@@ -1146,8 +1146,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:03:30.1706418+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:04:52.6695791+00:00",
   "LastUpdate_AppInfo": "2023-12-30T07:56:58.817379+00:00",
-  "LastUpdate_Ratings": "2023-12-30T20:02:51.7002322+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:03:30.1706645+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:03:50.5010305+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:04:52.6697918+00:00"
 }

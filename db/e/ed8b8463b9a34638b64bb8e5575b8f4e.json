@@ -4,7 +4,7 @@
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 484,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewPlayers": 382,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
@@ -547,9 +547,9 @@
       "ID": "christ_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Christ the Saviour",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "cold_feet",
@@ -699,9 +699,9 @@
       "ID": "the_pageant",
       "SetID": "7i36ba9",
       "Name": "The Pageant",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 95,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "the_petition",
@@ -739,9 +739,9 @@
       "ID": "who_is_d",
       "SetID": "7i36ba9",
       "Name": "Who is D?",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
@@ -754,8 +754,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:10:00.1264888+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:11:32.9946651+00:00",
   "LastUpdate_AppInfo": "2023-12-30T07:56:58.7509332+00:00",
-  "LastUpdate_Ratings": "2023-12-30T20:02:42.3446957+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:10:00.1265016+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:03:36.6910834+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:11:32.9946878+00:00"
 }

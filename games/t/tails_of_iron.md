@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.56 (Ranked 501)  
+Rating: 4.56 (Ranked 502)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,20 +13,20 @@ Rating: 4.56 (Ranked 501)
 | Defeat 25 Frogs | 1.00% | ~23 |
 | Shield Maiden Yellow Tongue | 1.00% | ~9 |
 | The Bright Fir | 1.00% | ~9 |
+| Collect Gold | 0.90% | ~21 |
 | Collect Iron Ore | 0.90% | ~21 |
 | Defeat 25 Grubs | 0.90% | ~21 |
+| Defeat 25 Mozis | 0.90% | ~21 |
 | Kitchen Ready To Cook | 0.90% | ~21 |
+| Smithy Ready to Craft | 0.90% | ~21 |
 | Rescue Redgi's Brothers | 0.90% | ~21 |
-| Collect Gold | 0.80% | ~18 |
-| Defeat 25 Mozis | 0.80% | ~18 |
-| Smithy Ready to Craft | 0.80% | ~18 |
+| End of the Mozis | 0.80% | ~18 |
+| Throne Room Fit For A King | 0.80% | ~18 |
 | Defeat Croakhis Khan | 0.80% | ~7 |
 | I Remember My First Beer | 0.80% | ~7 |
 | Complete Elder Faction | 0.70% | ~16 |
-| End of the Mozis | 0.70% | ~16 |
 | Defeat Ratnor Rodentson | 0.70% | ~16 |
 | Meet the Creatures from the Deep | 0.70% | ~16 |
-| Throne Room Fit For A King | 0.70% | ~16 |
 | Return Power To The Depths | 0.70% | ~16 |
 | Defeat Avor Warden of the Northern Wastes | 0.60% | ~14 |
 | Fix the Travellers Wagon | 0.60% | ~14 |

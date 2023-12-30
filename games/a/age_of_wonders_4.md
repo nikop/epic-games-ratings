@@ -11,9 +11,9 @@ Rating: 4.63 (Ranked 356)
 | Walls Cannot Stop Us | 10.00% | ~656 |
 | From Friends to Family | 9.00% | ~590 |
 | Bone Peddler | 7.00% | ~459 |
-| There Can Only Be One! | 6.00% | ~393 |
-| Full Ascension | 6.00% | ~393 |
-| Magical Synergy | 6.00% | ~393 |
+| There Can Only Be One! | 6.00% | ~394 |
+| Full Ascension | 6.00% | ~394 |
+| Magical Synergy | 6.00% | ~394 |
 | Stronger Together | 5.00% | ~328 |
 | Seat of Power | 5.00% | ~328 |
 | In a Liege of Your Own | 5.00% | ~328 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 356)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,555 (Ranked 195)  
+Progressed: 6,559 (Ranked 195)  
 Completed: 7 (0.11%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 7 (0.11%) (Ranked 303)
 | 2023-12-27 | 6,359 | 7 |
 | 2023-12-28 | 6,414 | 7 |
 | 2023-12-29 | 6,495 | 7 |
-| 2023-12-30 | 6,555 | 7 |
+| 2023-12-30 | 6,559 | 7 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 478)  
 Sum: 163 (Ranked 436)  

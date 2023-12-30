@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -1867,9 +1867,9 @@
       "ID": "EAT_AN_ENERGY_BAR",
       "SetID": "aniflfk",
       "Name": "Energy Boost",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 26
     },
     {
       "ID": "GO_ON_EXPEDITION",
@@ -1883,9 +1883,9 @@
       "ID": "GROW_20_PLANTS",
       "SetID": "aniflfk",
       "Name": "Farmer",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 193
+      "UsersEstimate": 197
     },
     {
       "ID": "HOUSEWARMING",
@@ -1986,8 +1986,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:05:58.8932683+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:08:26.5350974+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.5394751+00:00",
-  "LastUpdate_Ratings": "2023-12-30T20:02:36.3146074+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:05:58.8932921+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:03:26.8031469+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:08:26.5351182+00:00"
 }

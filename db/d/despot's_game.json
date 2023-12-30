@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 475,
+  "EOS_Progressed": 476,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -648,6 +648,11 @@
       "Time": "2023-12-30T01:50:34.1607094+00:00",
       "NumProgressed": 475,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T21:09:10.7286318+00:00",
+      "NumProgressed": 476,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -691,7 +696,7 @@
       "Name": "Frugal",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "collect-discounted-items2",
@@ -707,7 +712,7 @@
       "Name": "No Mercy",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "different-items1",
@@ -715,7 +720,7 @@
       "Name": "Party",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "different-items2",
@@ -739,7 +744,7 @@
       "Name": "Impossible Cube",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "finished-quest-flight",
@@ -755,7 +760,7 @@
       "Name": "Campaigning",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "finished-quest-nurgle",
@@ -851,7 +856,7 @@
       "Name": "Wide Selection",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "unlock-mutations",
@@ -875,7 +880,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "win-first-level",
@@ -883,7 +888,7 @@
       "Name": "Good start!",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "win-koth-fights1",
@@ -891,7 +896,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "win-koth-fights2",
@@ -938,7 +943,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 475,
+      "Progressed": 476,
       "Completed": 1
     }
   ],
@@ -946,8 +951,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:08:21.0490104+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:09:10.7286313+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:08.4827025+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:59:21.5374497+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:08:21.0490285+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:01:09.9867847+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:09:10.7286683+00:00"
 }

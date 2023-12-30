@@ -6,27 +6,27 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~624 |
-| Lost and Found | 7.00% | ~397 |
-| Autodidact | 6.00% | ~7,848 |
-| This guy... again? | 6.00% | ~340 |
-| This Belongs in a Museum | 5.00% | ~6,540 |
-| Creep and Sleep | 5.00% | ~6,540 |
-| Overdue Notice | 5.00% | ~6,540 |
-| Escape from the Black Hole | 5.00% | ~6,540 |
+| Malpractice Assurance | 11.00% | ~625 |
+| Lost and Found | 7.00% | ~398 |
+| Autodidact | 6.00% | ~7,849 |
+| This guy... again? | 6.00% | ~341 |
+| This Belongs in a Museum | 5.00% | ~6,541 |
+| Creep and Sleep | 5.00% | ~6,541 |
+| Overdue Notice | 5.00% | ~6,541 |
+| Escape from the Black Hole | 5.00% | ~6,541 |
 | Ploughshares to Swords | 5.00% | ~284 |
 | Bloody Graduation | 5.00% | ~284 |
-| Don't Make Me Turn This Coach Around | 4.00% | ~5,232 |
-| Serenity Now! | 4.00% | ~5,232 |
-| It Rings a Bell | 4.00% | ~5,232 |
-| Not Today! | 4.00% | ~5,232 |
-| Meat and Greet | 4.00% | ~5,232 |
-| Catch and Decease | 4.00% | ~5,232 |
-| It Happens | 4.00% | ~5,232 |
-| Rush Hour | 4.00% | ~5,232 |
-| To Grandmother's House | 4.00% | ~5,232 |
-| A Place to Lay Your Head | 4.00% | ~5,232 |
-| FNG | 4.00% | ~5,232 |
+| Don't Make Me Turn This Coach Around | 4.00% | ~5,233 |
+| Serenity Now! | 4.00% | ~5,233 |
+| It Rings a Bell | 4.00% | ~5,233 |
+| Not Today! | 4.00% | ~5,233 |
+| Meat and Greet | 4.00% | ~5,233 |
+| Catch and Decease | 4.00% | ~5,233 |
+| It Happens | 4.00% | ~5,233 |
+| Rush Hour | 4.00% | ~5,233 |
+| To Grandmother's House | 4.00% | ~5,233 |
+| A Place to Lay Your Head | 4.00% | ~5,233 |
+| FNG | 4.00% | ~5,233 |
 | Friends 'Til the End | 4.00% | ~227 |
 | Unleash Hell | 3.00% | ~3,924 |
 | Unfulfilled Desires | 3.00% | ~3,924 |
@@ -64,7 +64,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Slap on the Wrist | 1.00% | ~57 |
 | For Old Time' Sake | 1.00% | ~57 |
 | Shrine of Reflection | 0.90% | ~1,177 |
-| Clearing the Ledger | 0.80% | ~1,046 |
+| Clearing the Ledger | 0.80% | ~1,047 |
 | Hat Trick | 0.70% | ~916 |
 | Triage | 0.70% | ~916 |
 | No Mercy | 0.70% | ~40 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,804 (Ranked 89)  
+Progressed: 130,816 (Ranked 89)  
 Completed: 3 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 3 (0.00%) (Ranked 391)
 | 2023-12-27 | 130,259 | 3 |
 | 2023-12-28 | 130,422 | 3 |
 | 2023-12-29 | 130,627 | 3 |
-| 2023-12-30 | 130,804 | 3 |
+| 2023-12-30 | 130,816 | 3 |
 ## Awards
 Max (Character Customization): 7,905  (Ranked 50)  
 Sum: 21,274 (Ranked 58)  

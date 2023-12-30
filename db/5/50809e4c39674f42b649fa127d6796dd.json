@@ -1513,9 +1513,9 @@
       "ID": "FIRST_METEOR_SHOWER",
       "SetID": "apihg0e",
       "Name": "Celestial Rain",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 120
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -1744,8 +1744,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:03:32.6727768+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:04:56.2781021+00:00",
   "LastUpdate_AppInfo": "2023-12-26T20:57:07.4525805+00:00",
-  "LastUpdate_Ratings": "2023-12-30T20:03:03.1519516+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:03:32.6728057+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:04:09.1313098+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:04:56.2781354+00:00"
 }

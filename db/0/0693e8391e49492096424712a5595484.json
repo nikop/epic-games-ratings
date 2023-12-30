@@ -4,8 +4,8 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -27,7 +27,7 @@
   "EOS_Progressed": 667,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 37,
-  "EOS_NewCompleters": 4,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 7.8,
   "EosHistory": [
     {
@@ -2914,9 +2914,9 @@
       "ID": "HastrmanHappy",
       "SetID": "db30heh",
       "Name": "Regular Diet",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 293
+      "UsersEstimate": 300
     },
     {
       "ID": "HastrmanRum",
@@ -3010,9 +3010,9 @@
       "ID": "RogueChest",
       "SetID": "db30heh",
       "Name": "Treasure Chest",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 380
+      "UsersEstimate": 387
     },
     {
       "ID": "RogueEat",
@@ -3105,8 +3105,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:05:07.9349404+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:07:12.4256225+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:22.002955+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:59:55.4165241+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:05:07.9349819+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:02:02.6773578+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:07:12.4256581+00:00"
 }

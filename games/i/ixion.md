@@ -5,19 +5,19 @@ Rating: 4.58 (Ranked 463)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 32.00% | ~1,226 |
-| Sputnik 2049 | 28.00% | ~1,073 |
+| Wakey Wakey | 32.00% | ~1,227 |
+| Sputnik 2049 | 28.00% | ~1,074 |
 | Infinite Growth... | 27.00% | ~1,035 |
-| Without Breaking Some Eggs... | 26.00% | ~996 |
+| Without Breaking Some Eggs... | 26.00% | ~997 |
 | Space Society | 18.00% | ~690 |
 | A Thousand Strong | 18.00% | ~690 |
 | Ready for a New World | 18.00% | ~690 |
-| Permanent Redesigns | 16.00% | ~613 |
-| The Ship of Theseus | 15.00% | ~575 |
-| Fully Recycled | 14.00% | ~536 |
-| Ain't Nobody Got Time for That | 14.00% | ~536 |
-| Guy de Borderlands | 13.00% | ~498 |
-| Hope Seeker | 13.00% | ~498 |
+| Permanent Redesigns | 16.00% | ~614 |
+| Fully Recycled | 14.00% | ~537 |
+| Ain't Nobody Got Time for That | 14.00% | ~537 |
+| The Ship of Theseus | 14.00% | ~537 |
+| Guy de Borderlands | 13.00% | ~499 |
+| Hope Seeker | 13.00% | ~499 |
 | A Hunk of Junk | 12.00% | ~460 |
 | Exceeding Capacity | 12.00% | ~460 |
 | Breaking Protocol | 12.00% | ~460 |
@@ -55,15 +55,15 @@ Rating: 4.58 (Ranked 463)
 | Scientifically Accurate | 1.00% | ~38 |
 | Work Harder | 0.60% | ~23 |
 | Soylent Green | 0.40% | ~15 |
-| A Junker's Dream | 0.30% | ~11 |
-| Crunch Culture | 0.30% | ~11 |
+| A Junker's Dream | 0.30% | ~12 |
+| Crunch Culture | 0.30% | ~12 |
 | Scenic View | 0.20% | ~8 |
 | I Give You the Stars | 0.20% | ~4 |
 | Beyond Time and Space | 0.10% | ~4 |
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,832 (Ranked 213)  
+Progressed: 3,835 (Ranked 213)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 3,765 | 0 |
 | 2023-12-28 | 3,787 | 0 |
 | 2023-12-29 | 3,814 | 0 |
-| 2023-12-30 | 3,832 | 0 |
+| 2023-12-30 | 3,835 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

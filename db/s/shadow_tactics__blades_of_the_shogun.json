@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 147,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
@@ -2434,9 +2434,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 222811,
+  "EOS_Progressed": 222815,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 1643,
+  "EOS_NewPlayers": 1636,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -31684,6 +31684,11 @@
       "Time": "2023-12-30T20:05:49.9672223+00:00",
       "NumProgressed": 222811,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-12-30T21:08:13.7006926+00:00",
+      "NumProgressed": 222815,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 44,
@@ -31695,7 +31700,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 24509
+      "UsersEstimate": 24510
     },
     {
       "ID": "AtheistOx",
@@ -31759,7 +31764,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8912
+      "UsersEstimate": 8913
     },
     {
       "ID": "Genin",
@@ -31767,7 +31772,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 26737
+      "UsersEstimate": 26738
     },
     {
       "ID": "HappyLittleAccidents",
@@ -31791,7 +31796,7 @@
       "Name": "High Five the Moon",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 1782
+      "UsersEstimate": 1783
     },
     {
       "ID": "IceIceYuki",
@@ -31863,7 +31868,7 @@
       "Name": "Noboru",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 8912
+      "UsersEstimate": 8913
     },
     {
       "ID": "Okkoto",
@@ -31927,7 +31932,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8912
+      "UsersEstimate": 8913
     },
     {
       "ID": "Stoned",
@@ -31935,7 +31940,7 @@
       "Name": "Stoned",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8912
+      "UsersEstimate": 8913
     },
     {
       "ID": "StonedOx",
@@ -31983,7 +31988,7 @@
       "Name": "Thorough",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 24509
+      "UsersEstimate": 24510
     },
     {
       "ID": "TimeParadox",
@@ -32046,15 +32051,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 222811,
+      "Progressed": 222815,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-12-30T16:57:13.2786728+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:05:49.9672222+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:08:13.7006922+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:16.1006959+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:57:17.285885+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:05:49.9673563+00:00"
+  "LastUpdate_Ratings": "2023-12-30T20:58:02.4998357+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:08:13.7008327+00:00"
 }

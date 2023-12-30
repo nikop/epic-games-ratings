@@ -213,9 +213,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 13727,
+  "EOS_Progressed": 13729,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2525,
+  "EOS_NewPlayers": 2524,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10413,6 +10413,11 @@
       "Time": "2023-12-30T20:06:00.4531105+00:00",
       "NumProgressed": 13727,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-30T21:08:28.5521881+00:00",
+      "NumProgressed": 13729,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -10424,7 +10429,7 @@
       "Name": "Start with a bang!",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 7001
+      "UsersEstimate": 7002
     },
     {
       "ID": "Ach002",
@@ -10432,7 +10437,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4530
+      "UsersEstimate": 4531
     },
     {
       "ID": "Ach003",
@@ -10440,7 +10445,7 @@
       "Name": "This will cost you big time",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     },
     {
       "ID": "Ach004",
@@ -10472,7 +10477,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "Ach008",
@@ -10584,7 +10589,7 @@
       "Name": "I have to read these things?",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "Ach022",
@@ -10600,7 +10605,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 7001
+      "UsersEstimate": 7002
     },
     {
       "ID": "Ach024",
@@ -10616,7 +10621,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 3706
+      "UsersEstimate": 3707
     },
     {
       "ID": "Ach026",
@@ -10680,7 +10685,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     },
     {
       "ID": "Ach034",
@@ -10792,7 +10797,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 5079
+      "UsersEstimate": 5080
     },
     {
       "ID": "Ach048",
@@ -10824,7 +10829,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 6314
+      "UsersEstimate": 6315
     },
     {
       "ID": "Ach052",
@@ -10912,7 +10917,7 @@
       "Name": "NOW we got a kickass hideout!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "Ach063",
@@ -10960,7 +10965,7 @@
       "Name": "New bad guys? No problem!",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Ach069",
@@ -10991,13 +10996,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 13727,
+      "Progressed": 13729,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 12248,
+      "Progressed": 12250,
       "Completed": 1930
     }
   ],
@@ -11005,8 +11010,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-12-30T07:59:21.5322419+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:06:00.4531102+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:08:28.5521877+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:58.248811+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:58:51.5584212+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:06:00.4532039+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:00:26.1592974+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:08:28.5522943+00:00"
 }

@@ -8,15 +8,15 @@ Rating: 4.65 (Ranked 324)
 | The Last Stand | 89.00% | ~599 |
 | Thalya – Simply Immortal | 88.00% | ~592 |
 | For the Horde! | 82.00% | ~552 |
-| Hammer Time, Round Two | 80.00% | ~538 |
+| Hammer Time, Round Two | 81.00% | ~545 |
 | The Hellwoods | 76.00% | ~511 |
 | The Plains of Strothalm | 72.00% | ~485 |
 | Experienced Thalya | 72.00% | ~485 |
+| Bad Elves Go Everywhere | 69.00% | ~464 |
 | Thalya's Concentrated Fury | 68.00% | ~458 |
-| Bad Elves Go Everywhere | 68.00% | ~458 |
 | Heroes’ Gorge | 64.00% | ~431 |
+| Unicorn steaks – fresh off the hoof! | 63.00% | ~424 |
 | Master of Magic | 62.00% | ~417 |
-| Unicorn steaks – fresh off the hoof! | 62.00% | ~417 |
 | Magic Accidents | 59.00% | ~397 |
 | The Ascent | 58.00% | ~390 |
 | It's Warm and Cozy at Home | 58.00% | ~390 |
@@ -51,7 +51,7 @@ Rating: 4.65 (Ranked 324)
 | Bonus Evilness | 25.00% | ~168 |
 | The Rune Sockets of Finitude (Part 2) | 24.00% | ~162 |
 | The Last Stand - This Time For Real! | 22.00% | ~148 |
-| Rubble and Ashes | 20.00% | ~135 |
+| Rubble and Ashes | 21.00% | ~141 |
 | Lavalumps on Ice! | 19.00% | ~128 |
 | My Little Torture Chamber | 18.00% | ~121 |
 | To the Max! | 18.00% | ~121 |

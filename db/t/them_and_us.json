@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -1642,9 +1642,9 @@
       "ID": "ETUA_BackInTime",
       "SetID": "65jc0ap",
       "Name": "Back In Time",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "ETUA_BeforeTheEclipse",
@@ -1842,9 +1842,9 @@
       "ID": "ETUA_The5thElement",
       "SetID": "65jc0ap",
       "Name": "The 5th Element",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "ETUA_TheBusStop",
@@ -1939,8 +1939,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:08:32.3324887+00:00",
-  "LastUpdate_AppInfo": "2023-12-23T19:57:04.1617838+00:00",
-  "LastUpdate_Ratings": "2023-12-30T20:00:07.9318972+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:08:32.3325193+00:00"
+  "LastChanged_Achievements": "2023-12-30T21:09:26.3216023+00:00",
+  "LastUpdate_AppInfo": "2023-12-30T20:57:30.0285391+00:00",
+  "LastUpdate_Ratings": "2023-12-30T21:02:21.8251715+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:09:26.3216382+00:00"
 }

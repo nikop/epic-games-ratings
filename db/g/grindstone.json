@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewPlayers": 391,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -1264,9 +1264,9 @@
       "ID": "ACHIEVE_FORTUNE_GRIND_WIN",
       "SetID": "b8l3p0g",
       "Name": "Fortunate Soul",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2557
+      "UsersEstimate": 2610
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -1488,8 +1488,8 @@
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-12-26T18:58:09.3460811+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:04:50.5911164+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:06:47.9112705+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:32.6670985+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:59:41.5081731+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:04:50.5911444+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:01:40.9015111+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:06:47.9113068+00:00"
 }

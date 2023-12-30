@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -7493,17 +7493,17 @@
       "ID": "A06",
       "SetID": "9b7p7eo",
       "Name": "Unstoppable",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 232
     },
     {
       "ID": "A07",
       "SetID": "9b7p7eo",
       "Name": "Track to the Future",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 206
+      "UsersEstimate": 232
     },
     {
       "ID": "A08",
@@ -7605,9 +7605,9 @@
       "ID": "A20",
       "SetID": "9b7p7eo",
       "Name": "Country Bumpkin",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1961
+      "UsersEstimate": 1987
     },
     {
       "ID": "A21",
@@ -7669,9 +7669,9 @@
       "ID": "A28",
       "SetID": "9b7p7eo",
       "Name": "We brake for nobody",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1754
+      "UsersEstimate": 1780
     },
     {
       "ID": "A29",
@@ -7894,8 +7894,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-27T17:00:03.776976+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:04:41.4395998+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:06:34.8907898+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:12.6153541+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:57:34.313172+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:04:41.4396536+00:00"
+  "LastUpdate_Ratings": "2023-12-30T20:58:29.0796131+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:06:34.8908476+00:00"
 }

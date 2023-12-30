@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1512,
+  "EOS_Progressed": 1514,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -2979,6 +2979,11 @@
       "Time": "2023-12-30T20:10:08.0178425+00:00",
       "NumProgressed": 1512,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-30T21:11:43.1491808+00:00",
+      "NumProgressed": 1514,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2990,7 +2995,7 @@
       "Name": "Break Out",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "ACH_02",
@@ -3038,7 +3043,7 @@
       "Name": "Clear Sight",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_08",
@@ -3062,7 +3067,7 @@
       "Name": "Trinity",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ACH_11",
@@ -3086,7 +3091,7 @@
       "Name": "Adventurer",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ACH_14",
@@ -3102,7 +3107,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH_16",
@@ -3110,7 +3115,7 @@
       "Name": "Essence Blow",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_17",
@@ -3150,7 +3155,7 @@
       "Name": "Big Bazar",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_22",
@@ -3158,7 +3163,7 @@
       "Name": "Fine Feathers Make Fine Birds",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_23",
@@ -3182,7 +3187,7 @@
       "Name": "Fashion Victim",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ACH_26",
@@ -3190,7 +3195,7 @@
       "Name": "Scholar",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ACH_27",
@@ -3222,7 +3227,7 @@
       "Name": "Alchemist",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_31",
@@ -3230,7 +3235,7 @@
       "Name": "Stone Collection",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH_33",
@@ -3277,7 +3282,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1512,
+      "Progressed": 1514,
       "Completed": 3
     }
   ],
@@ -3285,8 +3290,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2023-12-29T23:58:00.9350231+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:10:08.0178424+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:11:43.1491803+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:58:32.3413722+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:10:08.0178765+00:00"
+  "LastUpdate_Ratings": "2023-12-30T20:59:57.2509231+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:11:43.1492211+00:00"
 }

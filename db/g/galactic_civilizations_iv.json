@@ -999,9 +999,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7487,
+  "EOS_Progressed": 7488,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9519,6 +9519,11 @@
       "Time": "2023-12-30T19:12:44.5651057+00:00",
       "NumProgressed": 7487,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T21:11:37.7601236+00:00",
+      "NumProgressed": 7488,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9562,7 +9567,7 @@
       "Name": "Commodity Trader",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 2171
+      "UsersEstimate": 2172
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -9570,7 +9575,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4492
+      "UsersEstimate": 4493
     },
     {
       "ID": "Control_All_Relics",
@@ -9634,7 +9639,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5765
+      "UsersEstimate": 5766
     },
     {
       "ID": "First_Race_Met",
@@ -9650,7 +9655,7 @@
       "Name": "Design a Ship",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "First_Stream_Travel",
@@ -9666,7 +9671,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5690
+      "UsersEstimate": 5691
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -9850,7 +9855,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4492
+      "UsersEstimate": 4493
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -10034,7 +10039,7 @@
       "Name": "Conquest Victory!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "Win_CustomFaction",
@@ -10090,7 +10095,7 @@
       "Name": "Win Quickly",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "Win_Research",
@@ -10105,15 +10110,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7487,
+      "Progressed": 7488,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-12-27T21:02:14.3045553+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:10:03.8047736+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:11:37.7601232+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:11.9243121+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:58:18.6736237+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:10:03.8048496+00:00"
+  "LastUpdate_Ratings": "2023-12-30T20:59:36.2900444+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:11:37.7602163+00:00"
 }

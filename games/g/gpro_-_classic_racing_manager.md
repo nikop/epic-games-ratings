@@ -9,13 +9,13 @@
 | No brakes | 13.00% | ~67 |
 | Wannabe | 10.00% | ~51 |
 | First taste | 7.00% | ~36 |
+| Amateur hitchhiker | 7.00% | ~36 |
 | Better than cake | 7.00% | ~36 |
-| Amateur hitchhiker | 6.00% | ~31 |
 | Amateur newbie | 3.00% | ~15 |
+| Reliability expert | 3.00% | ~15 |
 | Hero | 2.00% | ~10 |
 | Drama queen | 2.00% | ~10 |
 | Mr. Whiting | 2.00% | ~10 |
-| Reliability expert | 2.00% | ~10 |
 | Hattrick | 2.00% | ~10 |
 | On the top | 2.00% | ~10 |
 | Loyalty | 1.00% | ~5 |

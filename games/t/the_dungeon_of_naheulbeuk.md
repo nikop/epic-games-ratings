@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~88,418 |
-| Alt+F4 | 10.00% | ~24,560 |
-| Where's that freaking Dwarf? | 9.00% | ~22,104 |
-| Déjà vu | 7.00% | ~17,192 |
-| Sock! SOCK! | 6.00% | ~14,736 |
-| A beer, two curses, three companions | 5.00% | ~12,280 |
-| GG EZ | 5.00% | ~12,280 |
-| DM intervention | 5.00% | ~12,280 |
-| Speedrun | 5.00% | ~12,280 |
-| Fireproof Wizardess | 4.00% | ~9,824 |
+| Sowwy! | 36.00% | ~88,421 |
+| Alt+F4 | 10.00% | ~24,561 |
+| Where's that freaking Dwarf? | 9.00% | ~22,105 |
+| Déjà vu | 7.00% | ~17,193 |
+| Sock! SOCK! | 6.00% | ~14,737 |
+| A beer, two curses, three companions | 5.00% | ~12,281 |
+| GG EZ | 5.00% | ~12,281 |
+| DM intervention | 5.00% | ~12,281 |
+| Speedrun | 5.00% | ~12,281 |
+| Fireproof Wizardess | 4.00% | ~9,825 |
 | Livin' in a dwarven paradise | 3.00% | ~7,368 |
 | Way of the Wimp | 3.00% | ~7,368 |
 | The plot thickens... At the tavern | 3.00% | ~7,368 |
@@ -45,7 +45,7 @@ Number of Ratings: 118  (23.09.2022)
 | In Navalu's footsteps | 1.00% | ~2,456 |
 | Lust and Debauchery | 1.00% | ~2,456 |
 | Material Girl | 1.00% | ~2,456 |
-| Lëgal Legend | 0.90% | ~2,210 |
+| Lëgal Legend | 0.90% | ~2,211 |
 | We come in peace | 0.80% | ~1,965 |
 | Holistic Adventuring Party | 0.70% | ~1,719 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,719 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~246 |
 | Dwarf Candy | 0.10% | ~246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,605 (Ranked 69)  
+Progressed: 245,614 (Ranked 69)  
 Completed: 8 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 8 (0.00%) (Ranked 391)
 | 2023-12-27 | 245,077 | 8 |
 | 2023-12-28 | 245,240 | 8 |
 | 2023-12-29 | 245,438 | 8 |
-| 2023-12-30 | 245,605 | 8 |
+| 2023-12-30 | 245,614 | 8 |
 ## Awards
 Max (Character Customization): 261  (Ranked 277)  
 Sum: 547 (Ranked 328)  

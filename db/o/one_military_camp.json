@@ -1157,9 +1157,9 @@
       "ID": "ACHIEVEMENT_ID_1",
       "SetID": "c504de6",
       "Name": "Tear Down the Wall!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_ID_10",
@@ -1508,8 +1508,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:04:18.8719302+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:06:02.9355474+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.8669849+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:59:24.4061348+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:04:18.8719578+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:01:14.5428037+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:06:02.9355774+00:00"
 }

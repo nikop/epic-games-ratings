@@ -9143,10 +9143,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33188,
       "NumberOfAwardsMax": 5715
+    },
+    {
+      "Time": "2023-12-30T21:02:12.1889787+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33193,
+      "NumberOfAwardsMax": 5715
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33188,
+  "NumberOfAwards": 33193,
   "NumberOfAwardsMax": 5715,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9190,12 +9196,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3609
+      "Count": 3614
     }
   ],
-  "EOS_Progressed": 247816,
+  "EOS_Progressed": 247850,
   "EOS_Completed": 2578,
-  "EOS_NewPlayers": 3974,
+  "EOS_NewPlayers": 3991,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -37968,6 +37974,11 @@
       "Time": "2023-12-30T20:10:16.6685983+00:00",
       "NumProgressed": 247816,
       "NumCompleted": 2578
+    },
+    {
+      "Time": "2023-12-30T21:11:54.0008197+00:00",
+      "NumProgressed": 247850,
+      "NumCompleted": 2578
     }
   ],
   "TotalAchievements": 546,
@@ -37979,7 +37990,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4956
+      "UsersEstimate": 4957
     },
     {
       "ID": "objective_completed_10",
@@ -38955,7 +38966,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "objective_completed_130",
@@ -39771,7 +39782,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "objective_completed_390",
@@ -40115,7 +40126,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "objective_completed_54",
@@ -41195,7 +41206,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "objective_completed_80",
@@ -41723,7 +41734,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "objective_completed_902",
@@ -42346,21 +42357,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 214090,
+      "Progressed": 214124,
       "Completed": 4102
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 247816,
+      "Progressed": 247850,
       "Completed": 2578
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-30T16:00:10.7112472+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:10:16.6685982+00:00",
+  "LastChanged": "2023-12-30T21:02:12.1889786+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:11:54.0008191+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-30T20:00:01.3476101+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:10:16.6708684+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:02:12.1889791+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:11:54.0033052+00:00"
 }

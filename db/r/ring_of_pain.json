@@ -3814,7 +3814,7 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 242055,
+  "EOS_Progressed": 242056,
   "EOS_Completed": 302,
   "EOS_NewPlayers": 513,
   "EOS_NewCompleters": 1,
@@ -30114,6 +30114,11 @@
       "Time": "2023-12-30T20:10:14.7525596+00:00",
       "NumProgressed": 242055,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-30T21:11:51.518707+00:00",
+      "NumProgressed": 242056,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -30309,7 +30314,7 @@
       "Name": "Colorful Corpse",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2178
+      "UsersEstimate": 2179
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -30525,7 +30530,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2178
+      "UsersEstimate": 2179
     },
     {
       "ID": "KILL1000",
@@ -30773,7 +30778,7 @@
       "Name": "A Quick Escape",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2178
+      "UsersEstimate": 2179
     },
     {
       "ID": "PETRIFY50",
@@ -30877,7 +30882,7 @@
       "Name": "Explorer",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2178
+      "UsersEstimate": 2179
     },
     {
       "ID": "SPEEDRUN10",
@@ -30941,7 +30946,7 @@
       "Name": "An Offering",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2178
+      "UsersEstimate": 2179
     },
     {
       "ID": "VISIT35DUNGEONS",
@@ -31228,13 +31233,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242055,
+      "Progressed": 242056,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3535,
+      "Progressed": 3536,
       "Completed": 416
     }
   ],
@@ -31242,8 +31247,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-30T08:01:44.1465561+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:10:14.7525593+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:11:51.5187066+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-30T20:02:34.3959402+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:10:14.7528827+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:03:23.9320912+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:11:51.5189666+00:00"
 }

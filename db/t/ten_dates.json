@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 423,
+  "EOS_Progressed": 424,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.18,
   "EosHistory": [
@@ -1131,6 +1131,11 @@
       "Time": "2023-12-30T19:12:13.0088483+00:00",
       "NumProgressed": 423,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-30T21:11:05.1436474+00:00",
+      "NumProgressed": 424,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 19,
@@ -1182,7 +1187,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "ryan_date2_all",
@@ -1293,7 +1298,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 423,
+      "Progressed": 424,
       "Completed": 5
     }
   ],
@@ -1301,8 +1306,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:09:40.9287957+00:00",
-  "LastUpdate_AppInfo": "2023-12-23T19:56:59.9685233+00:00",
-  "LastUpdate_Ratings": "2023-12-30T20:02:46.9185572+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:09:40.9288119+00:00"
+  "LastChanged_Achievements": "2023-12-30T21:11:05.143647+00:00",
+  "LastUpdate_AppInfo": "2023-12-30T20:57:31.6181665+00:00",
+  "LastUpdate_Ratings": "2023-12-30T21:03:43.7944406+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:11:05.143661+00:00"
 }

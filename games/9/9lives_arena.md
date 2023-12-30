@@ -10,7 +10,7 @@
 | Epic Angler Trophy | 0.00% | ~0 |
 | Silver Angler Trophy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,667 (Ranked 255)  
+Progressed: 1,681 (Ranked 253)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -25,4 +25,4 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 310 | 0 |
 | 2023-12-28 | 1,008 | 0 |
 | 2023-12-29 | 1,404 | 0 |
-| 2023-12-30 | 1,667 | 0 |
+| 2023-12-30 | 1,681 | 0 |

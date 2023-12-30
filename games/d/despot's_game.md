@@ -5,23 +5,23 @@ Rating: 4.50 (Ranked 611)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 87.00% | ~413 |
-| Vanquisher of Robots | 78.00% | ~370 |
-| Party | 51.00% | ~242 |
-| Impossible Cube | 46.00% | ~218 |
+| Good start! | 87.00% | ~414 |
+| Vanquisher of Robots | 78.00% | ~371 |
+| Party | 51.00% | ~243 |
+| Impossible Cube | 46.00% | ~219 |
 | Knowledge is Power | 45.00% | ~214 |
 | Through the Darkness | 45.00% | ~214 |
-| No Mercy | 43.00% | ~204 |
+| No Mercy | 43.00% | ~205 |
 | The Return of a Rat | 41.00% | ~195 |
 | Fat of the Earth | 36.00% | ~171 |
 | Last Man Standing | 32.00% | ~152 |
 | He's Seen It All | 28.00% | ~133 |
 | Great Hero | 28.00% | ~133 |
-| Campaigning | 27.00% | ~128 |
-| Rookie | 27.00% | ~128 |
+| Campaigning | 27.00% | ~129 |
+| Rookie | 27.00% | ~129 |
 | Catch Jonathan_tostar | 26.00% | ~124 |
 | Assemble a Meganewbie | 25.00% | ~119 |
-| Frugal | 22.00% | ~104 |
+| Frugal | 22.00% | ~105 |
 | Feed a God | 21.00% | ~100 |
 | To the Moon and Back | 20.00% | ~95 |
 | Great Flight | 19.00% | ~90 |
@@ -32,7 +32,7 @@ Rating: 4.50 (Ranked 611)
 | Omae Wa Mou Shindeiru | 8.00% | ~38 |
 | Experimentalist | 7.00% | ~33 |
 | Soldier | 7.00% | ~33 |
-| Wide Selection | 6.00% | ~28 |
+| Wide Selection | 6.00% | ~29 |
 | Android Power | 5.00% | ~24 |
 | Shopaholic | 3.00% | ~14 |
 | Zombie Lover | 3.00% | ~14 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 611)
 | Vet | 0.80% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 475 (Ranked 346)  
+Progressed: 476 (Ranked 346)  
 Completed: 1 (0.21%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 1 (0.21%) (Ranked 271)
 | 2023-12-27 | 470 | 1 |
 | 2023-12-28 | 473 | 1 |
 | 2023-12-29 | 474 | 1 |
-| 2023-12-30 | 475 | 1 |
+| 2023-12-30 | 476 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

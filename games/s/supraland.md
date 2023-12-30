@@ -6,37 +6,37 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~730,826 |
-| The Blues | 85.00% | ~627,477 |
-| Fast | 66.00% | ~487,217 |
-| Healthbar | 55.00% | ~406,014 |
-| Force Cube | 53.00% | ~391,250 |
-| Double Jump | 48.00% | ~354,340 |
-| Regeneration | 47.00% | ~346,958 |
-| Triple Jump | 43.00% | ~317,429 |
-| Climb the hill | 42.00% | ~310,047 |
-| Through the fire pipe | 39.00% | ~287,901 |
-| MacGuffin | 38.00% | ~280,519 |
-| Just once | 37.00% | ~273,137 |
-| Armor | 30.00% | ~221,462 |
-| True holy spirit | 28.00% | ~206,698 |
-| That's how electronics work obviously | 27.00% | ~199,316 |
-| Force Cube Catapult | 25.00% | ~184,552 |
-| Holy Sword | 23.00% | ~169,788 |
-| Telefrag | 23.00% | ~169,788 |
-| Freed from prison | 22.00% | ~162,406 |
-| Stomp | 21.00% | ~155,024 |
+| Out of bed | 99.00% | ~730,830 |
+| The Blues | 85.00% | ~627,480 |
+| Fast | 66.00% | ~487,220 |
+| Healthbar | 55.00% | ~406,017 |
+| Force Cube | 53.00% | ~391,252 |
+| Double Jump | 48.00% | ~354,342 |
+| Regeneration | 47.00% | ~346,960 |
+| Triple Jump | 43.00% | ~317,431 |
+| Climb the hill | 42.00% | ~310,049 |
+| Through the fire pipe | 39.00% | ~287,903 |
+| MacGuffin | 38.00% | ~280,521 |
+| Just once | 37.00% | ~273,138 |
+| Armor | 30.00% | ~221,464 |
+| True holy spirit | 28.00% | ~206,699 |
+| That's how electronics work obviously | 27.00% | ~199,317 |
+| Force Cube Catapult | 25.00% | ~184,553 |
+| Holy Sword | 23.00% | ~169,789 |
+| Telefrag | 23.00% | ~169,789 |
+| Freed from prison | 22.00% | ~162,407 |
+| Stomp | 21.00% | ~155,025 |
 | Double Health | 19.00% | ~140,260 |
-| Buckle | 18.00% | ~132,877 |
-| Green Keycard | 18.00% | ~132,877 |
-| Rattle Hag | 16.00% | ~118,113 |
-| All Shells | 15.00% | ~110,731 |
-| Beam | 14.00% | ~103,349 |
-| 9 | 14.00% | ~103,349 |
-| Supraball Noob | 14.00% | ~103,349 |
-| Health Drink | 13.00% | ~95,967 |
-| Helped a star | 13.00% | ~95,967 |
-| Purple Cube | 13.00% | ~95,967 |
+| Buckle | 18.00% | ~132,878 |
+| Green Keycard | 18.00% | ~132,878 |
+| Rattle Hag | 16.00% | ~118,114 |
+| All Shells | 15.00% | ~110,732 |
+| Beam | 14.00% | ~103,350 |
+| 9 | 14.00% | ~103,350 |
+| Supraball Noob | 14.00% | ~103,350 |
+| Health Drink | 13.00% | ~95,968 |
+| Helped a star | 13.00% | ~95,968 |
+| Purple Cube | 13.00% | ~95,968 |
 | Strong | 12.00% | ~88,585 |
 | Blue King's lair | 11.00% | ~81,203 |
 | Payback | 11.00% | ~81,203 |
@@ -56,7 +56,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | Through the tiny pipe | 9.00% | ~66,439 |
 | Win! | 9.00% | ~66,439 |
 | The real real teleported man | 8.00% | ~59,057 |
-| Well deserved | 6.00% | ~44,292 |
+| Well deserved | 6.00% | ~44,293 |
 | Super Sword | 4.00% | ~29,528 |
 | Happiness | 3.00% | ~22,146 |
 | All Chests | 2.00% | ~14,764 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~738 |
 | DLC: Top of the world | 0.10% | ~738 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 738,208 (Ranked 25)  
+Progressed: 738,212 (Ranked 25)  
 Completed: 775 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -359,14 +359,14 @@ Completed: 775 (0.10%) (Ranked 305)
 | 2023-12-27 | 737,766 | 773 |
 | 2023-12-28 | 737,906 | 774 |
 | 2023-12-29 | 738,051 | 775 |
-| 2023-12-30 | 738,208 | 775 |
+| 2023-12-30 | 738,212 | 775 |
 ## Awards
-Max (Challenging Puzzles): 7,760  (Ranked 52)  
-Sum: 10,125 (Ranked 93)  
+Max (Challenging Puzzles): 7,766  (Ranked 52)  
+Sum: 10,131 (Ranked 93)  
 Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 7,760 |
+| This game features Challenging Puzzles | 7,766 |
 | This game is Educational | 285 |
 | This game has Amazing Storytelling | 282 |
 | This game has Amazing Characters | 280 |
@@ -592,3 +592,4 @@ Diff (max vs sum): -41
 | 2023-12-27 | 4.61 | - | 7,756 | 10,118 |
 | 2023-12-28 | 4.61 | - | 7,756 | 10,119 |
 | 2023-12-29 | 4.61 | - | 7,760 | 10,125 |
+| 2023-12-30 | 4.61 | - | 7,766 | 10,131 |

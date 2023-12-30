@@ -5,31 +5,31 @@ Rating: 4.12 (Ranked 995)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 58.00% | ~877 |
-| Trinity | 28.00% | ~423 |
+| Break Out | 58.00% | ~878 |
+| Trinity | 28.00% | ~424 |
 | Find Allies | 22.00% | ~333 |
 | A Taste of Wrath | 22.00% | ~333 |
 | The Collector | 22.00% | ~333 |
 | Shatter Them All | 21.00% | ~318 |
 | Geared Up | 21.00% | ~318 |
 | I Found It | 21.00% | ~318 |
-| Adventurer | 20.00% | ~302 |
-| Scholar | 20.00% | ~302 |
-| Fashion Victim | 19.00% | ~287 |
-| Tributes of Caladrias | 18.00% | ~272 |
-| Stone Collection | 18.00% | ~272 |
+| Adventurer | 20.00% | ~303 |
+| Scholar | 20.00% | ~303 |
+| Fashion Victim | 19.00% | ~288 |
+| Tributes of Caladrias | 18.00% | ~273 |
+| Stone Collection | 18.00% | ~273 |
 | Powerful Allies | 17.00% | ~257 |
-| Big Bazar | 12.00% | ~181 |
-| Essence Blow | 11.00% | ~166 |
-| Alchemist | 11.00% | ~166 |
+| Big Bazar | 12.00% | ~182 |
+| Essence Blow | 11.00% | ~167 |
+| Alchemist | 11.00% | ~167 |
 | The Mentor | 9.00% | ~136 |
 | Calm before the Storm | 7.00% | ~106 |
 | To Battle | 6.00% | ~91 |
 | Godslayer | 6.00% | ~91 |
 | Airborne | 6.00% | ~91 |
 | Miner | 6.00% | ~91 |
-| Clear Sight | 4.00% | ~60 |
-| Fine Feathers Make Fine Birds | 4.00% | ~60 |
+| Clear Sight | 4.00% | ~61 |
+| Fine Feathers Make Fine Birds | 4.00% | ~61 |
 | Shatterer | 3.00% | ~45 |
 | Slayer | 2.00% | ~30 |
 | Flawless Victory | 2.00% | ~30 |
@@ -42,7 +42,7 @@ Rating: 4.12 (Ranked 995)
 | All That Gold | 0.70% | ~11 |
 | Feeling Fancy | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,512 (Ranked 260)  
+Progressed: 1,514 (Ranked 260)  
 Completed: 3 (0.20%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 3 (0.20%) (Ranked 273)
 | 2023-12-27 | 1,365 | 3 |
 | 2023-12-28 | 1,412 | 3 |
 | 2023-12-29 | 1,459 | 3 |
-| 2023-12-30 | 1,512 | 3 |
+| 2023-12-30 | 1,514 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

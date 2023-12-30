@@ -5,9 +5,9 @@
   "Ranking_Rating": 324,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 280,
+  "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1161,
+  "EOS_Progressed": 1163,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -3341,6 +3341,11 @@
       "Time": "2023-12-30T20:10:07.5831598+00:00",
       "NumProgressed": 1161,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-30T21:11:42.7893273+00:00",
+      "NumProgressed": 1163,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3360,7 +3365,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -3368,7 +3373,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ChestCompletion1",
@@ -3376,7 +3381,7 @@
       "Name": "Treasure Trove",
       "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -3424,7 +3429,7 @@
       "Name": "Street Style",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "CultivairChests1",
@@ -3432,7 +3437,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "EntresolChests1",
@@ -3464,7 +3469,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -3472,7 +3477,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3480,7 +3485,7 @@
       "Name": "The Betrayer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -3624,7 +3629,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "PidgeDefeated",
@@ -3632,7 +3637,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "RewindDamage1",
@@ -3704,7 +3709,7 @@
       "Name": "Syron for Hope",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "TemporalPulseKills1",
@@ -3728,7 +3733,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "WarwickDefeated",
@@ -3775,7 +3780,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1161,
+      "Progressed": 1163,
       "Completed": 6
     }
   ],
@@ -3783,8 +3788,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:10:07.5831596+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:11:42.7893269+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-30T20:02:36.0074489+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:10:07.5831998+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:03:26.2407467+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:11:42.7893972+00:00"
 }

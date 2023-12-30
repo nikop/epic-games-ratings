@@ -12,9 +12,9 @@
 | Sport is good for you | 7.00% | ~33 |
 | I like books | 6.00% | ~28 |
 | I like my life | 6.00% | ~28 |
+| Bucolic city | 6.00% | ~28 |
 | Soviet town | 6.00% | ~28 |
 | Clean energy | 5.00% | ~24 |
-| Bucolic city | 5.00% | ~24 |
 | I love parks | 3.00% | ~14 |
 | Food producer | 2.00% | ~9 |
 | I love books! | 2.00% | ~9 |

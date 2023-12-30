@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 624,
+  "EOS_Progressed": 625,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2099,6 +2099,11 @@
       "Time": "2023-12-30T18:08:22.4570143+00:00",
       "NumProgressed": 624,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T21:09:28.92871+00:00",
+      "NumProgressed": 625,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -2127,7 +2132,7 @@
       "Name": "Chapter III - Complete",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_complete_difficulty_easy",
@@ -2135,7 +2140,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_complete_difficulty_extreme",
@@ -2206,14 +2211,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 624,
+      "Progressed": 625,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:08:34.294018+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:09:28.9287095+00:00",
   "LastUpdate_AppInfo": "2023-12-29T15:57:01.9014557+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:58:33.9242565+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:08:34.2940346+00:00"
+  "LastUpdate_Ratings": "2023-12-30T20:59:59.7503021+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:09:28.9287324+00:00"
 }

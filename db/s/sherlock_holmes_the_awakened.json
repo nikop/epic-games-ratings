@@ -163,11 +163,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1354,
+  "EOS_Progressed": 1355,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.81,
+  "EOS_Completed_Percentage": 2.8,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -4743,6 +4743,11 @@
       "Time": "2023-12-30T20:03:53.5580387+00:00",
       "NumProgressed": 1354,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-30T21:05:27.0690722+00:00",
+      "NumProgressed": 1355,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 28,
@@ -4752,9 +4757,9 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 839
+      "UsersEstimate": 854
     },
     {
       "ID": "MQ01_2",
@@ -4762,7 +4767,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "MQ02_1",
@@ -4770,7 +4775,7 @@
       "Name": "High Profile",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "MQ02_2",
@@ -4778,7 +4783,7 @@
       "Name": "Big Breakthrough",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "MQ02_3",
@@ -4794,7 +4799,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "MQ03_1",
@@ -4802,7 +4807,7 @@
       "Name": "Fond Memories",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "MQ03_2",
@@ -4818,7 +4823,7 @@
       "Name": "History Check",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "MQ03_4",
@@ -4826,7 +4831,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "MQ03_5",
@@ -4842,7 +4847,7 @@
       "Name": "Going Once...",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "MQ04_2",
@@ -4850,7 +4855,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "MQ04_3",
@@ -4858,7 +4863,7 @@
       "Name": "The New World",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "MQ05_1",
@@ -4866,7 +4871,7 @@
       "Name": "Open Sesame",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "MQ05_2",
@@ -4882,7 +4887,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "MQ05_4",
@@ -4890,7 +4895,7 @@
       "Name": "Knives Out",
       "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "MQ06_1",
@@ -4922,7 +4927,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "MQ07_1",
@@ -4946,7 +4951,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "MQ08_2",
@@ -4977,7 +4982,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1354,
+      "Progressed": 1355,
       "Completed": 38
     }
   ],
@@ -4985,8 +4990,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-27T11:03:12.3161328+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:03:53.5580384+00:00",
-  "LastUpdate_AppInfo": "2023-12-23T20:57:08.3764282+00:00",
-  "LastUpdate_Ratings": "2023-12-30T20:03:04.8945566+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:03:53.5580758+00:00"
+  "LastChanged_Achievements": "2023-12-30T21:05:27.0690719+00:00",
+  "LastUpdate_AppInfo": "2023-12-30T20:57:32.3322639+00:00",
+  "LastUpdate_Ratings": "2023-12-30T21:04:11.6959055+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:05:27.0691168+00:00"
 }

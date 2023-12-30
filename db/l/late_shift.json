@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 885,
+  "EOS_Progressed": 886,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 2,
@@ -2410,6 +2410,11 @@
       "Time": "2023-12-30T19:12:06.0638403+00:00",
       "NumProgressed": 885,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-30T21:10:58.4261164+00:00",
+      "NumProgressed": 886,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 20,
@@ -2421,7 +2426,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "CHOICES_MATTER",
@@ -2469,7 +2474,7 @@
       "Name": "The Delivery",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ENDING_6",
@@ -2477,7 +2482,7 @@
       "Name": "The Bribe",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ENDING_7",
@@ -2485,7 +2490,7 @@
       "Name": "The Frenzy",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -2580,7 +2585,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 885,
+      "Progressed": 886,
       "Completed": 11
     }
   ],
@@ -2588,8 +2593,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:09:36.2034047+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:10:58.426116+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:26.7088663+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:59:42.4845392+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:09:36.2034275+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:01:42.1057878+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:10:58.4261698+00:00"
 }

@@ -29,7 +29,7 @@ Rating: 4.65 (Ranked 324)
 | Bathe With A Giant Nude Alien | 2.00% | ~45 |
 | Gunning For Your Job | 1.00% | ~249 |
 | We Came, We Chainsaw, We Conquered | 1.00% | ~22 |
-| We Paid For The Rights To Put A Whole Movie In Here | 0.90% | ~224 |
+| We Paid For The Rights To Put A Whole Movie In Here | 0.90% | ~225 |
 | Mux Ado About Shipping | 0.90% | ~20 |
 | Fall In Love With A Parasite | 0.60% | ~13 |
 | Sequel-Bait | 0.50% | ~125 |
@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 324)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,943 (Ranked 145)  
+Progressed: 24,945 (Ranked 145)  
 Completed: 14 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 14 (0.06%) (Ranked 327)
 | 2023-12-27 | 24,917 | 14 |
 | 2023-12-28 | 24,929 | 14 |
 | 2023-12-29 | 24,937 | 14 |
-| 2023-12-30 | 24,943 | 14 |
+| 2023-12-30 | 24,945 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

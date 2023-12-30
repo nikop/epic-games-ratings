@@ -5,13 +5,13 @@ Rating: 4.42 (Ranked 733)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 76.00% | ~1,961 |
+| Country Bumpkin | 77.00% | ~1,987 |
 | A new Journey | 75.00% | ~1,935 |
 | From X to Y | 74.00% | ~1,909 |
 | Departure | 74.00% | ~1,909 |
 | Way of Iron | 71.00% | ~1,832 |
 | Mystery Tour | 70.00% | ~1,806 |
-| We brake for nobody | 68.00% | ~1,754 |
+| We brake for nobody | 69.00% | ~1,780 |
 | Brainstorm | 67.00% | ~1,729 |
 | Mind the Gap | 66.00% | ~1,703 |
 | Travel Company | 66.00% | ~1,703 |
@@ -50,8 +50,8 @@ Rating: 4.42 (Ranked 733)
 | A new Hope | 11.00% | ~284 |
 | Tycoon | 11.00% | ~284 |
 | Call of Duty | 10.00% | ~258 |
-| Unstoppable | 8.00% | ~206 |
-| Track to the Future | 8.00% | ~206 |
+| Unstoppable | 9.00% | ~232 |
+| Track to the Future | 9.00% | ~232 |
 | Conductor | 7.00% | ~181 |
 | Let off some steam | 5.00% | ~129 |
 | Engineer | 4.00% | ~103 |

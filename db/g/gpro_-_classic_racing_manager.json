@@ -1334,9 +1334,9 @@
       "ID": "ACHIEVEMENT_188",
       "SetID": "76k7b7p",
       "Name": "Amateur hitchhiker",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 36
     },
     {
       "ID": "ACHIEVEMENT_189",
@@ -1902,9 +1902,9 @@
       "ID": "ACHIEVEMENT_307",
       "SetID": "76k7b7p",
       "Name": "Reliability expert",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_308",
@@ -2501,8 +2501,8 @@
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:10:13.9740716+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:11:50.8166794+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:15.345684+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:58:55.0433598+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:10:13.9742791+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:00:31.5708621+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:11:50.8169304+00:00"
 }

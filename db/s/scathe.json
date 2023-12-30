@@ -2,9 +2,9 @@
   "ID": "8dcfcaf1aa72402fa2e84897f6cccc50",
   "Name": "Scathe",
   "ProductSlug": "scathe-ca258f",
-  "Ranking_EOS_Progress": 330,
+  "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 590,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -2759,8 +2759,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:09:37.4859011+00:00",
-  "LastUpdate_AppInfo": "2023-12-23T19:56:58.3399558+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:57:44.365501+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:09:37.4859284+00:00"
+  "LastChanged_Achievements": "2023-12-30T21:11:00.2026579+00:00",
+  "LastUpdate_AppInfo": "2023-12-30T20:57:16.2900958+00:00",
+  "LastUpdate_Ratings": "2023-12-30T20:58:43.9558289+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:11:00.2026873+00:00"
 }

@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 115,
+  "EOS_Progressed": 116,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
@@ -510,6 +510,11 @@
       "Time": "2023-12-30T17:05:52.5449966+00:00",
       "NumProgressed": 115,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T21:07:46.3955934+00:00",
+      "NumProgressed": 116,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:04:51.255408+00:00",
@@ -570,13 +575,13 @@
       "Name": "Practice Makes Postmasters",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "completeFall",
       "SetID": "cfe0fhi",
       "Name": "Pumpkins and Postage Stamps",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
       "UsersEstimate": 26
     },
@@ -594,15 +599,15 @@
       "Name": "You\u0027re Hired",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "completeSummer",
       "SetID": "cfe0fhi",
       "Name": "Fun in the Bungalow Basin Sun",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "completeTheFirstWeek",
@@ -610,7 +615,7 @@
       "Name": "Learn the Ropes",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "findFirstCollectible",
@@ -681,13 +686,13 @@
     {
       "ID": "cfe0fhi",
       "IsBase": true,
-      "Progressed": 115,
+      "Progressed": 116,
       "Completed": 0
     },
     {
       "ID": "cfj6lld",
       "IsBase": false,
-      "Progressed": 115,
+      "Progressed": 116,
       "Completed": 0
     }
   ],
@@ -695,8 +700,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:05:31.0085381+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:07:46.395593+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:12.7482599+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:57:23.6243242+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:05:31.0085518+00:00"
+  "LastUpdate_Ratings": "2023-12-30T20:58:11.8501209+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:07:46.3956077+00:00"
 }

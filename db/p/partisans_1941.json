@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1913,
+  "EOS_Progressed": 1914,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -4684,6 +4684,11 @@
       "Time": "2023-12-30T18:09:32.3616893+00:00",
       "NumProgressed": 1913,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-30T21:11:05.8030362+00:00",
+      "NumProgressed": 1914,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4727,7 +4732,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "Commandos",
@@ -4823,7 +4828,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "High_noon",
@@ -4847,7 +4852,7 @@
       "Name": "Spice It Up",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "KillAllM2",
@@ -4934,15 +4939,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1913,
+      "Progressed": 1914,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-12-30T20:09:41.2650377+00:00",
+  "LastChanged_Achievements": "2023-12-30T21:11:05.8030359+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:45.0819227+00:00",
-  "LastUpdate_Ratings": "2023-12-30T20:02:53.8270433+00:00",
-  "LastUpdate_Achievements": "2023-12-30T20:09:41.2650702+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:03:53.7829023+00:00",
+  "LastUpdate_Achievements": "2023-12-30T21:11:05.8030729+00:00"
 }
