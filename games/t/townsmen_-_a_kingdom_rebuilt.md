@@ -1,7 +1,7 @@
 # Townsmen - A Kingdom Rebuilt
 [Store](https://store.epicgames.com/en-US/p/townsmen-a-kingdom-rebuilt-07c09d)  
 [View Rawdata](../../db/t/townsmen_-_a_kingdom_rebuilt.json)  
-Rating: 4.27 (Ranked 892)  
+Rating: 4.27 (Ranked 891)  
 Number of Ratings: 37  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,409 (Ranked 205)  
+Progressed: 4,410 (Ranked 205)  
 Completed: 4 (0.09%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,6 +257,7 @@ Completed: 4 (0.09%) (Ranked 312)
 | 2023-12-27 | 4,407 | 4 |
 | 2023-12-28 | 4,408 | 4 |
 | 2023-12-29 | 4,409 | 4 |
+| 2023-12-30 | 4,410 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

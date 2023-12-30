@@ -1,15 +1,15 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 69)  
+Rating: 4.82 (Ranked 70)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,462 |
-| Life is your teacher | 4.00% | ~29,970 |
-| Lightning Hands | 4.00% | ~29,970 |
-| The Assault | 3.00% | ~22,477 |
+| The Old Grandmaster | 5.00% | ~37,463 |
+| Life is your teacher | 4.00% | ~29,971 |
+| Lightning Hands | 4.00% | ~29,971 |
+| The Assault | 3.00% | ~22,478 |
 | The Hateful Pole Fighter | 2.00% | ~14,985 |
 | A Lady's Blood in the Snow | 2.00% | ~14,985 |
 | Stuntmaster | 2.00% | ~14,985 |
@@ -20,26 +20,26 @@ Number of Ratings: 9,492  (23.09.2022)
 | Old Child | 2.00% | ~14,985 |
 | Rumble in the Hangar | 2.00% | ~14,985 |
 | Diligence as a goal | 2.00% | ~1,171 |
-| Lady Wing Chun | 1.00% | ~7,492 |
-| Furious Fists | 1.00% | ~7,492 |
-| Kill Nil | 1.00% | ~7,492 |
-| Qi Gong: Mind | 1.00% | ~7,492 |
-| I know Kung-Fu | 1.00% | ~7,492 |
-| Kung-Fu Tussle | 1.00% | ~7,492 |
-| Path of the Prospect | 1.00% | ~7,492 |
-| Take damage to save time | 1.00% | ~7,492 |
-| Project Arena | 1.00% | ~585 |
+| Lady Wing Chun | 1.00% | ~7,493 |
+| Furious Fists | 1.00% | ~7,493 |
+| Kill Nil | 1.00% | ~7,493 |
+| Qi Gong: Mind | 1.00% | ~7,493 |
+| I know Kung-Fu | 1.00% | ~7,493 |
+| Kung-Fu Tussle | 1.00% | ~7,493 |
+| Path of the Prospect | 1.00% | ~7,493 |
+| Take damage to save time | 1.00% | ~7,493 |
+| Project Arena | 1.00% | ~586 |
 | Scareless | 0.90% | ~6,743 |
 | Dance of the Praying Mantis | 0.90% | ~6,743 |
 | Fight the way you practice | 0.70% | ~410 |
-| Muk Yan Master | 0.60% | ~4,495 |
+| Muk Yan Master | 0.60% | ~4,496 |
 | Martial Hub | 0.60% | ~351 |
 | Tiger on Fire | 0.50% | ~3,746 |
 | Source of Flying Daggers | 0.50% | ~3,746 |
+| Iron Money | 0.50% | ~3,746 |
 | Detective Story | 0.50% | ~3,746 |
 | Sword Stained With Blood | 0.50% | ~3,746 |
 | Bloody Sport | 0.50% | ~293 |
-| Iron Money | 0.40% | ~2,997 |
 | Legendary Talismans of Wuxing | 0.40% | ~2,997 |
 | Prodigal Child | 0.40% | ~2,997 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~2,997 |
@@ -48,12 +48,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Pit Protector | 0.30% | ~2,248 |
 | Come Snap With Me | 0.30% | ~2,248 |
 | Deadly Venom | 0.30% | ~176 |
-| Drunken Fighter | 0.20% | ~1,498 |
-| Martial Artist | 0.20% | ~1,498 |
-| Healing Memory | 0.20% | ~1,498 |
-| Master of the Phoenix Eye Fist | 0.20% | ~1,498 |
-| Ferocity, speed, strength, accuracy | 0.20% | ~1,498 |
-| Be like water my friend | 0.20% | ~1,498 |
+| Drunken Fighter | 0.20% | ~1,499 |
+| Martial Artist | 0.20% | ~1,499 |
+| Healing Memory | 0.20% | ~1,499 |
+| Master of the Phoenix Eye Fist | 0.20% | ~1,499 |
+| Ferocity, speed, strength, accuracy | 0.20% | ~1,499 |
+| Be like water my friend | 0.20% | ~1,499 |
 | A Touch of Acumen | 0.20% | ~117 |
 | Crouching Tiger | 0.20% | ~117 |
 | Skill and an even stronger will | 0.20% | ~117 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~59 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 749,239 (Ranked 23)  
+Progressed: 749,268 (Ranked 23)  
 Completed: 12,968 (1.73%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 12,968 (1.73%) (Ranked 142)
 | 2023-12-27 | 746,407 | 12,967 |
 | 2023-12-28 | 747,246 | 12,967 |
 | 2023-12-29 | 748,212 | 12,968 |
-| 2023-12-30 | 749,239 | 12,968 |
+| 2023-12-30 | 749,268 | 12,968 |
 ## Awards
 Max (Great Boss Battles): 7,052  (Ranked 55)  
 Sum: 12,490 (Ranked 84)  

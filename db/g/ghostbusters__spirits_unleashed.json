@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3885,9 +3885,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32947,
+  "EOS_Progressed": 32952,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 357,
+  "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -23985,6 +23985,11 @@
       "Time": "2023-12-30T18:08:40.7423962+00:00",
       "NumProgressed": 32947,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-12-30T19:11:03.4307467+00:00",
+      "NumProgressed": 32952,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -24004,7 +24009,7 @@
       "Name": "Animated",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "Back_Off",
@@ -24012,7 +24017,7 @@
       "Name": "Back Off",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "Best_Insurance",
@@ -24020,7 +24025,7 @@
       "Name": "We have the best insurance",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -24044,7 +24049,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "Collector",
@@ -24076,7 +24081,7 @@
       "Name": "Diabolical",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "Discovery",
@@ -24100,7 +24105,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "Efficient",
@@ -24124,7 +24129,7 @@
       "Name": "Fragile Panes",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "Fully_Upgraded",
@@ -24132,7 +24137,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "GB_In_Training",
@@ -24156,7 +24161,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "Legions",
@@ -24164,7 +24169,7 @@
       "Name": "Legions",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "Liability",
@@ -24172,7 +24177,7 @@
       "Name": "Liability",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "Line_Em_Up",
@@ -24212,7 +24217,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "Reckless",
@@ -24244,7 +24249,7 @@
       "Name": "Right back at ya",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "Rivalry",
@@ -24252,7 +24257,7 @@
       "Name": "Rivalry",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "Seasoned",
@@ -24260,7 +24265,7 @@
       "Name": "Seasoned",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "Side_Hustle",
@@ -24268,7 +24273,7 @@
       "Name": "Side Hustle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "Skilled",
@@ -24308,7 +24313,7 @@
       "Name": "Summoner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "Surprise",
@@ -24316,7 +24321,7 @@
       "Name": "Surprise!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "Swift_Removers",
@@ -24332,7 +24337,7 @@
       "Name": "Teamwork",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "Terrifying",
@@ -24340,7 +24345,7 @@
       "Name": "Terrifying",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "Therapeutic",
@@ -24380,7 +24385,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "Welcome_Crew",
@@ -24403,7 +24408,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32947,
+      "Progressed": 32952,
       "Completed": 71
     }
   ],
@@ -24411,8 +24416,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-30T01:39:52.0408687+00:00",
-  "LastChanged_Achievements": "2023-12-30T18:08:40.7423957+00:00",
+  "LastChanged_Achievements": "2023-12-30T19:11:03.4307463+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.5748987+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:57:33.4371345+00:00",
-  "LastUpdate_Achievements": "2023-12-30T18:08:40.7425162+00:00"
+  "LastUpdate_Ratings": "2023-12-30T18:59:34.1866929+00:00",
+  "LastUpdate_Achievements": "2023-12-30T19:11:03.4308525+00:00"
 }

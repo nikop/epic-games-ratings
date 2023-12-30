@@ -6,19 +6,19 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 10.00% | ~14,849 |
-| Titan's First Steps | 10.00% | ~14,849 |
-| Basic in Bulk | 9.00% | ~13,364 |
-| Tinkle of Coins | 8.00% | ~11,879 |
-| Disintermediation | 7.00% | ~10,394 |
-| Capitalism Ho! | 7.00% | ~10,394 |
-| It's Free Real Estate | 6.00% | ~8,909 |
-| Budding Merchant | 6.00% | ~8,909 |
-| One Easy Payment | 5.00% | ~7,424 |
-| Some Assembly Required | 5.00% | ~7,424 |
-| Another Satisfied Customer | 5.00% | ~7,424 |
-| Pretty Penny | 5.00% | ~7,424 |
-| Own the Means of Production | 5.00% | ~7,424 |
+| Sponsored by Argon | 10.00% | ~14,850 |
+| Titan's First Steps | 10.00% | ~14,850 |
+| Basic in Bulk | 9.00% | ~13,365 |
+| Tinkle of Coins | 8.00% | ~11,880 |
+| Disintermediation | 7.00% | ~10,395 |
+| Capitalism Ho! | 7.00% | ~10,395 |
+| It's Free Real Estate | 6.00% | ~8,910 |
+| Budding Merchant | 6.00% | ~8,910 |
+| One Easy Payment | 5.00% | ~7,425 |
+| Some Assembly Required | 5.00% | ~7,425 |
+| Another Satisfied Customer | 5.00% | ~7,425 |
+| Pretty Penny | 5.00% | ~7,425 |
+| Own the Means of Production | 5.00% | ~7,425 |
 | The Daily Grind | 4.00% | ~5,940 |
 | Bounty Hunters | 4.00% | ~5,940 |
 | Demand for Supplies | 4.00% | ~5,940 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~594 |
 | Capitalist Camaraderie | 0.20% | ~297 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,489 (Ranked 84)  
+Progressed: 148,495 (Ranked 84)  
 Completed: 340 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -373,10 +373,10 @@ Completed: 340 (0.23%) (Ranked 267)
 | 2023-12-27 | 148,016 | 336 |
 | 2023-12-28 | 148,196 | 337 |
 | 2023-12-29 | 148,353 | 338 |
-| 2023-12-30 | 148,489 | 340 |
+| 2023-12-30 | 148,495 | 340 |
 ## Awards
 Max (Great for Beginners): 4,931  (Ranked 77)  
-Sum: 27,867 (Ranked 51)  
+Sum: 27,868 (Ranked 51)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
@@ -384,7 +384,7 @@ Diff (max vs sum): 26
 | This game is Relaxing | 4,068 |
 | This game has Quickly Understood Controls | 4,062 |
 | This game has Diverse Characters | 4,005 |
-| This game is Highly Recommended | 3,807 |
+| This game is Highly Recommended | 3,808 |
 | This game has Easy Combat | 3,760 |
 | This game has Playful Visuals | 3,234 |
 | This game has Inclusive Character Customization | 22 |
@@ -724,4 +724,4 @@ Diff (max vs sum): 26
 | 2023-12-27 | 3.99 | - | 4,922 | 27,834 |
 | 2023-12-28 | 3.99 | - | 4,925 | 27,847 |
 | 2023-12-29 | 3.99 | - | 4,925 | 27,858 |
-| 2023-12-30 | 3.99 | - | 4,931 | 27,867 |
+| 2023-12-30 | 3.99 | - | 4,931 | 27,868 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5331,9 +5331,9 @@
       "Count": 531
     }
   ],
-  "EOS_Progressed": 92754,
+  "EOS_Progressed": 92760,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 355,
+  "EOS_NewPlayers": 356,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -29761,6 +29761,11 @@
       "Time": "2023-12-30T17:08:07.7902418+00:00",
       "NumProgressed": 92754,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-30T19:05:40.7625443+00:00",
+      "NumProgressed": 92760,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -29866,9 +29871,9 @@
       "ID": "ACH_0060",
       "SetID": "3kam13l",
       "Name": "Freebooter",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 649
+      "UsersEstimate": 742
     },
     {
       "ID": "ACH_0061",
@@ -29930,9 +29935,9 @@
       "ID": "ACH_0211",
       "SetID": "3kam13l",
       "Name": "Groundhog Days",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 278
+      "UsersEstimate": 371
     },
     {
       "ID": "ACH_0220",
@@ -30099,13 +30104,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92754,
+      "Progressed": 92760,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21101,
+      "Progressed": 21107,
       "Completed": 15593
     }
   ],
@@ -30113,8 +30118,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-30T15:59:09.7129225+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:08:07.7902415+00:00",
+  "LastChanged_Achievements": "2023-12-30T19:05:40.7625437+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:55.2021168+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:59:03.4020151+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:08:07.7903965+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:01:46.7832432+00:00",
+  "LastUpdate_Achievements": "2023-12-30T19:05:40.7647639+00:00"
 }

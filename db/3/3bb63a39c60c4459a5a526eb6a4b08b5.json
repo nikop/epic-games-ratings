@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1057,
+  "EOS_Progressed": 1058,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4094,6 +4094,11 @@
       "Time": "2023-12-30T16:10:16.7715773+00:00",
       "NumProgressed": 1057,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T19:12:50.954158+00:00",
+      "NumProgressed": 1058,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -4121,7 +4126,7 @@
       "Name": "Basic Controls",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "BigPlane",
@@ -4233,7 +4238,7 @@
       "Name": "Lack of Time",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "LargeAirport",
@@ -4265,7 +4270,7 @@
       "Name": "Linear Network",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "LongDistance",
@@ -4305,7 +4310,7 @@
       "Name": "New Record",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "NoTimeForModernization",
@@ -4313,7 +4318,7 @@
       "Name": "No Time for Modernization",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "NoWayBack",
@@ -4417,7 +4422,7 @@
       "Name": "Ten!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "TimeForManagement",
@@ -4440,14 +4445,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1057,
+      "Progressed": 1058,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-12-30T18:10:01.9162007+00:00",
+  "LastChanged_Achievements": "2023-12-30T19:12:50.9541578+00:00",
   "LastUpdate_AppInfo": "2023-12-26T20:57:07.3165629+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:58:22.1296886+00:00",
-  "LastUpdate_Achievements": "2023-12-30T18:10:01.9162502+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:00:45.5588778+00:00",
+  "LastUpdate_Achievements": "2023-12-30T19:12:50.9541968+00:00"
 }

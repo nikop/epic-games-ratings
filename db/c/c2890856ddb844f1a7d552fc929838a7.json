@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 541,
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -257,7 +257,7 @@
   ],
   "EOS_Progressed": 1973,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 323,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4968,9 +4968,9 @@
       "ID": "AC36",
       "SetID": "l4abp0",
       "Name": "Blessed Incense",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 493
+      "UsersEstimate": 513
     },
     {
       "ID": "AC37",
@@ -5057,8 +5057,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-30T01:40:37.020659+00:00",
-  "LastChanged_Achievements": "2023-12-30T18:06:10.7407742+00:00",
+  "LastChanged_Achievements": "2023-12-30T19:09:41.8777483+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:24.8809366+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:58:04.6431819+00:00",
-  "LastUpdate_Achievements": "2023-12-30T18:06:10.7408255+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:00:19.5194701+00:00",
+  "LastUpdate_Achievements": "2023-12-30T19:09:41.8777994+00:00"
 }

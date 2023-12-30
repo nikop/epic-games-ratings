@@ -187,9 +187,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8066,
+  "EOS_Progressed": 8067,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 400,
+  "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -8692,6 +8692,11 @@
       "Time": "2023-12-30T18:06:32.4794341+00:00",
       "NumProgressed": 8066,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-30T19:10:11.4324168+00:00",
+      "NumProgressed": 8067,
+      "NumCompleted": 49
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -8704,7 +8709,7 @@
       "Name": "First of Many",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 7098
+      "UsersEstimate": 7099
     },
     {
       "ID": "achievement_01_02",
@@ -8720,7 +8725,7 @@
       "Name": "Brand New Ride",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 5243
+      "UsersEstimate": 5244
     },
     {
       "ID": "achievement_01_04",
@@ -8728,7 +8733,7 @@
       "Name": "Bzzzt",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 5969
+      "UsersEstimate": 5970
     },
     {
       "ID": "achievement_01_05",
@@ -8736,7 +8741,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 3952
+      "UsersEstimate": 3953
     },
     {
       "ID": "achievement_01_06",
@@ -8776,7 +8781,7 @@
       "Name": "Beat the Clock",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 4436
+      "UsersEstimate": 4437
     },
     {
       "ID": "achievement_02_01",
@@ -8832,7 +8837,7 @@
       "Name": "Whale of a Time",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 3952
+      "UsersEstimate": 3953
     },
     {
       "ID": "achievement_02_08",
@@ -8952,7 +8957,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 4275
+      "UsersEstimate": 4276
     },
     {
       "ID": "achievement_04_04",
@@ -8968,7 +8973,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 2742
+      "UsersEstimate": 2743
     },
     {
       "ID": "achievement_04_06",
@@ -8992,7 +8997,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 7017
+      "UsersEstimate": 7018
     },
     {
       "ID": "achievement_04_09",
@@ -9000,14 +9005,14 @@
       "Name": "Nitro on a curve? Better not.",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 2984
+      "UsersEstimate": 2985
     }
   ],
   "AchievementSets": [
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 8066,
+      "Progressed": 8067,
       "Completed": 49
     }
   ],
@@ -9015,8 +9020,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-12-30T14:57:38.976213+00:00",
-  "LastChanged_Achievements": "2023-12-30T18:06:32.4794336+00:00",
+  "LastChanged_Achievements": "2023-12-30T19:10:11.4324162+00:00",
   "LastUpdate_AppInfo": "2023-12-29T01:33:51.636956+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:57:54.7814833+00:00",
-  "LastUpdate_Achievements": "2023-12-30T18:06:32.4794945+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:00:04.6527166+00:00",
+  "LastUpdate_Achievements": "2023-12-30T19:10:11.4324871+00:00"
 }

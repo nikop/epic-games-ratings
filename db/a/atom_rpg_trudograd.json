@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -252,9 +252,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 1349,
+  "EOS_Progressed": 1350,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1967,6 +1967,11 @@
       "Time": "2023-12-30T17:09:28.9980367+00:00",
       "NumProgressed": 1349,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T19:12:05.8032529+00:00",
+      "NumProgressed": 1350,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -2034,7 +2039,7 @@
       "Name": "Death of the Author",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ESCALATION_OF_CONFLICT",
@@ -2074,7 +2079,7 @@
       "Name": "Household",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "HUMAN_ANTIDOTE",
@@ -2106,7 +2111,7 @@
       "Name": "Lot 49",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "LUCKY_GOOSE",
@@ -2210,7 +2215,7 @@
       "Name": "Viva La Revolution",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "WALKING_FORTRESS",
@@ -2233,7 +2238,7 @@
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1349,
+      "Progressed": 1350,
       "Completed": 0
     }
   ],
@@ -2241,8 +2246,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-12-29T02:14:41.7987751+00:00",
-  "LastChanged_Achievements": "2023-12-30T18:09:26.8916335+00:00",
+  "LastChanged_Achievements": "2023-12-30T19:12:05.8032524+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:18.8915743+00:00",
-  "LastUpdate_Ratings": "2023-12-30T18:00:15.0735868+00:00",
-  "LastUpdate_Achievements": "2023-12-30T18:09:26.8916655+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:03:31.8110883+00:00",
+  "LastUpdate_Achievements": "2023-12-30T19:12:05.8032767+00:00"
 }

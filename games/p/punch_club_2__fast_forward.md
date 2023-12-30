@@ -35,7 +35,7 @@
 | Employee of the year | 53.00% | ~265 |
 | Legal courier | 49.00% | ~245 |
 | Extreme neuropower! | 49.00% | ~245 |
-| Escaped from a big trouble | 46.00% | ~230 |
+| Escaped from a big trouble | 47.00% | ~235 |
 | Now you are worthy | 42.00% | ~210 |
 | Fight is life | 41.00% | ~205 |
 | Mysterious voice | 41.00% | ~205 |
@@ -52,9 +52,9 @@
 | The die is cast | 34.00% | ~170 |
 | Gang wrangler | 32.00% | ~160 |
 | Seashell hunter | 32.00% | ~160 |
+| Problems of cyborgs | 31.00% | ~155 |
 | Absolute Champion! | 31.00% | ~155 |
 | Undercover robot | 31.00% | ~155 |
-| Problems of cyborgs | 30.00% | ~150 |
 | The lonesome road | 29.00% | ~145 |
 | Family comes first | 29.00% | ~145 |
 | Not little hacker | 29.00% | ~145 |

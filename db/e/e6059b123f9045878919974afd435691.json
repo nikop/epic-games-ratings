@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1263,
+  "EOS_Progressed": 1264,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3354,6 +3354,11 @@
       "Time": "2023-12-30T18:10:05.9817605+00:00",
       "NumProgressed": 1263,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T19:12:55.9790686+00:00",
+      "NumProgressed": 1264,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3365,7 +3370,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3373,7 +3378,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -3405,7 +3410,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -3645,7 +3650,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -3667,9 +3672,9 @@
       "ID": "KILLR_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Call The Winchester",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 164
     },
     {
       "ID": "KILLR_ACHIEVEMENT_5",
@@ -3892,14 +3897,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1263,
+      "Progressed": 1264,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-30T18:10:05.98176+00:00",
+  "LastChanged_Achievements": "2023-12-30T19:12:55.9790685+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:14.6537743+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:57:59.1579002+00:00",
-  "LastUpdate_Achievements": "2023-12-30T18:10:05.9818517+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:00:10.8246576+00:00",
+  "LastUpdate_Achievements": "2023-12-30T19:12:55.9791321+00:00"
 }

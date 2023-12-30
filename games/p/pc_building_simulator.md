@@ -6,38 +6,38 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,764,208 |
-| Easy to forget | 46.00% | ~1,656,195 |
-| Back in the black | 39.00% | ~1,404,165 |
-| That's what I'm talking about | 29.00% | ~1,044,123 |
-| The Best of Both Worlds | 25.00% | ~900,106 |
-| Get your wings | 20.00% | ~720,085 |
-| Double trouble | 16.00% | ~576,068 |
-| Smashing it | 11.00% | ~396,047 |
-| But can it run Crysis? | 9.00% | ~324,038 |
-| My favourite feature... | 9.00% | ~324,038 |
-| From humble beginnings... | 7.00% | ~252,030 |
-| Customer satisfaction | 7.00% | ~252,030 |
-| Keeping things neat | 4.00% | ~144,017 |
-| Seems you're pretty good at this | 4.00% | ~144,017 |
-| Bending over backwards | 4.00% | ~144,017 |
-| I'm broke, Uncle! | 3.00% | ~108,013 |
-| Triple threat | 3.00% | ~108,013 |
-| You rock at this! | 3.00% | ~108,013 |
-| Perfection | 3.00% | ~108,013 |
-| Your music sucks | 3.00% | ~108,013 |
-| Maybe you should try something else? | 2.00% | ~72,008 |
-| Taking care of business | 2.00% | ~72,008 |
-| Things are under control | 2.00% | ~72,008 |
-| Calling in Sick | 2.00% | ~72,008 |
-| Overvolted | 1.00% | ~36,004 |
-| If you fail the first time... | 1.00% | ~36,004 |
-| Amazonian | 1.00% | ~36,004 |
-| Show off | 1.00% | ~36,004 |
-| The Stuart Morton Award for Purpleness | 1.00% | ~36,004 |
-| Building isn't cheap! | 1.00% | ~36,004 |
-| Majority Shareholder | 1.00% | ~36,004 |
-| Owner | 1.00% | ~36,004 |
+| You need to plug it in... | 49.00% | ~1,764,228 |
+| Easy to forget | 46.00% | ~1,656,214 |
+| Back in the black | 39.00% | ~1,404,181 |
+| That's what I'm talking about | 29.00% | ~1,044,135 |
+| The Best of Both Worlds | 25.00% | ~900,116 |
+| Get your wings | 20.00% | ~720,093 |
+| Double trouble | 16.00% | ~576,074 |
+| Smashing it | 11.00% | ~396,051 |
+| But can it run Crysis? | 9.00% | ~324,042 |
+| My favourite feature... | 9.00% | ~324,042 |
+| From humble beginnings... | 7.00% | ~252,033 |
+| Customer satisfaction | 7.00% | ~252,033 |
+| Keeping things neat | 4.00% | ~144,019 |
+| Seems you're pretty good at this | 4.00% | ~144,019 |
+| Bending over backwards | 4.00% | ~144,019 |
+| I'm broke, Uncle! | 3.00% | ~108,014 |
+| Triple threat | 3.00% | ~108,014 |
+| You rock at this! | 3.00% | ~108,014 |
+| Perfection | 3.00% | ~108,014 |
+| Your music sucks | 3.00% | ~108,014 |
+| Maybe you should try something else? | 2.00% | ~72,009 |
+| Taking care of business | 2.00% | ~72,009 |
+| Things are under control | 2.00% | ~72,009 |
+| Calling in Sick | 2.00% | ~72,009 |
+| Overvolted | 1.00% | ~36,005 |
+| If you fail the first time... | 1.00% | ~36,005 |
+| Amazonian | 1.00% | ~36,005 |
+| Show off | 1.00% | ~36,005 |
+| The Stuart Morton Award for Purpleness | 1.00% | ~36,005 |
+| Building isn't cheap! | 1.00% | ~36,005 |
+| Majority Shareholder | 1.00% | ~36,005 |
+| Owner | 1.00% | ~36,005 |
 | Work ethic 101 | 0.70% | ~25,203 |
 | Building momentum | 0.60% | ~21,603 |
 | Lead by example | 0.60% | ~21,603 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,600 |
 | Treat yourself - GPU | 0.10% | ~3,600 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,600,424 (Ranked 5)  
+Progressed: 3,600,465 (Ranked 5)  
 Completed: 41 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,16 +313,16 @@ Completed: 41 (0.00%) (Ranked 391)
 | 2023-12-27 | 3,598,868 | 41 |
 | 2023-12-28 | 3,599,396 | 41 |
 | 2023-12-29 | 3,599,975 | 41 |
-| 2023-12-30 | 3,600,424 | 41 |
+| 2023-12-30 | 3,600,465 | 41 |
 ## Awards
 Max (Great for Beginners): 1,123  (Ranked 148)  
-Sum: 8,246 (Ranked 110)  
+Sum: 8,247 (Ranked 110)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,123 |
 | This game is Educational | 1,021 |
-| This game is Extremely Fun | 1,018 |
+| This game is Extremely Fun | 1,019 |
 | This game is Relaxing | 1,003 |
 | This game has Quickly Understood Controls | 964 |
 | This game is Highly Recommended | 928 |
@@ -627,3 +627,4 @@ Diff (max vs sum): 38
 | 2023-12-26 | 4.66 | - | 1,123 | 8,242 |
 | 2023-12-27 | 4.66 | - | 1,123 | 8,243 |
 | 2023-12-29 | 4.66 | - | 1,123 | 8,246 |
+| 2023-12-30 | 4.66 | - | 1,123 | 8,247 |

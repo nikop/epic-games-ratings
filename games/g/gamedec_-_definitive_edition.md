@@ -1,25 +1,25 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.28 (Ranked 882)  
+Rating: 4.28 (Ranked 880)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,314 |
-| Powergamer | 27.00% | ~69,189 |
-| Write that down | 25.00% | ~64,064 |
-| Barely scratched the surface | 25.00% | ~64,064 |
-| Guns, lots of guns | 13.00% | ~33,313 |
-| Collector | 12.00% | ~30,750 |
-| Elementary! | 9.00% | ~23,063 |
-| Griever | 8.00% | ~20,500 |
-| Pumpkin Jack | 8.00% | ~20,500 |
-| Wake up! | 8.00% | ~20,500 |
+| I will finish what you started | 29.00% | ~74,316 |
+| Powergamer | 27.00% | ~69,191 |
+| Write that down | 25.00% | ~64,066 |
+| Barely scratched the surface | 25.00% | ~64,066 |
+| Guns, lots of guns | 13.00% | ~33,314 |
+| Collector | 12.00% | ~30,751 |
+| Elementary! | 9.00% | ~23,064 |
+| Griever | 8.00% | ~20,501 |
+| Pumpkin Jack | 8.00% | ~20,501 |
+| Wake up! | 8.00% | ~20,501 |
 | It's honest work | 7.00% | ~17,938 |
-| Me smart | 6.00% | ~15,375 |
-| Trash compactor | 6.00% | ~15,375 |
-| Valedictorian | 6.00% | ~15,375 |
+| Me smart | 6.00% | ~15,376 |
+| Trash compactor | 6.00% | ~15,376 |
+| Valedictorian | 6.00% | ~15,376 |
 | Good listener | 5.00% | ~12,813 |
 | BOY! | 4.00% | ~10,250 |
 | Ka-ching! | 4.00% | ~10,250 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~513 |
 | Memory 5 | 0.10% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 256,254 (Ranked 65)  
+Progressed: 256,262 (Ranked 65)  
 Completed: 8 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 8 (0.00%) (Ranked 391)
 | 2023-12-27 | 255,936 | 8 |
 | 2023-12-28 | 256,053 | 8 |
 | 2023-12-29 | 256,175 | 8 |
-| 2023-12-30 | 256,254 | 8 |
+| 2023-12-30 | 256,262 | 8 |
 ## Awards
 Max (Character Customization): 95  (Ranked 386)  
 Sum: 95 (Ranked 467)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1045,9 +1045,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9683,
+  "EOS_Progressed": 9684,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10295,6 +10295,11 @@
       "Time": "2023-12-30T18:09:09.752088+00:00",
       "NumProgressed": 9683,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-30T19:11:43.0149921+00:00",
+      "NumProgressed": 9684,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10314,7 +10319,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 2033
+      "UsersEstimate": 2034
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -10362,7 +10367,7 @@
       "Name": "Dante\u0027s Inferno",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -10442,7 +10447,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -10482,7 +10487,7 @@
       "Name": "Millenial",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -10498,7 +10503,7 @@
       "Name": "Peak Performance",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4454
+      "UsersEstimate": 4455
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -10538,7 +10543,7 @@
       "Name": "Seeing Red",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ISONZO_ACH_SHAKEN_NOT_STIRRED",
@@ -10554,7 +10559,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -10658,14 +10663,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4938
+      "UsersEstimate": 4939
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9683,
+      "Progressed": 9684,
       "Completed": 10
     }
   ],
@@ -10673,8 +10678,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-30T03:57:33.3665427+00:00",
-  "LastChanged_Achievements": "2023-12-30T18:09:09.7520875+00:00",
+  "LastChanged_Achievements": "2023-12-30T19:11:43.0149919+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.592446+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:58:05.4143531+00:00",
-  "LastUpdate_Achievements": "2023-12-30T18:09:09.752165+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:00:20.6815831+00:00",
+  "LastUpdate_Achievements": "2023-12-30T19:11:43.0150701+00:00"
 }

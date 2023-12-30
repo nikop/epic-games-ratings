@@ -2,7 +2,7 @@
   "ID": "2c3af4f6ffce46e78bac85bcbe7bc11f",
   "Name": "Recollection",
   "ProductSlug": "recollection-71f3a4",
-  "Ranking_EOS_Progress": 468,
+  "Ranking_EOS_Progress": 467,
   "Ranking_EOS_Completed": 65,
   "Ranking_EOS_NewPlayers": 478,
   "Ranking_EOS_NewCompleters": 156,
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 125,
+  "EOS_Progressed": 126,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.4,
+  "EOS_Completed_Percentage": 6.35,
   "EosHistory": [
     {
       "Time": "2023-06-14T15:00:16.7509072+00:00",
@@ -679,6 +679,11 @@
       "Time": "2023-12-29T18:08:23.1164328+00:00",
       "NumProgressed": 125,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-30T19:06:19.1795799+00:00",
+      "NumProgressed": 126,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 26,
@@ -720,9 +725,9 @@
       "ID": "Butterfly",
       "SetID": "6j29jep",
       "Name": "Something gentle...",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "Butterfly_Fragile",
@@ -818,7 +823,7 @@
       "Name": "Something to make you dream... (fragile)",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Mountain",
@@ -840,9 +845,9 @@
       "ID": "Natural_Mode",
       "SetID": "6j29jep",
       "Name": "Something natural...",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "Star",
@@ -880,9 +885,9 @@
       "ID": "Water",
       "SetID": "6j29jep",
       "Name": "Something reflective...",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "Water_Fragile",
@@ -897,14 +902,14 @@
     {
       "ID": "6j29jep",
       "IsBase": true,
-      "Progressed": 125,
+      "Progressed": 126,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-09-01T05:01:10.2908706+00:00",
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-12-30T18:03:43.0076699+00:00",
+  "LastChanged_Achievements": "2023-12-30T19:06:19.1795796+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:20.3895168+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:58:07.5704957+00:00",
-  "LastUpdate_Achievements": "2023-12-30T18:03:43.0076859+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:00:24.1185862+00:00",
+  "LastUpdate_Achievements": "2023-12-30T19:06:19.1795964+00:00"
 }

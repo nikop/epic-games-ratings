@@ -5,9 +5,9 @@
   "Ranking_Rating": 870,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
-  "Ranking_EOS_Progress": 456,
+  "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 136,
+  "EOS_Progressed": 139,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1081,6 +1081,11 @@
       "Time": "2023-12-30T18:04:40.9111102+00:00",
       "NumProgressed": 136,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T19:07:38.1467065+00:00",
+      "NumProgressed": 139,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1101,15 +1106,15 @@
       "Name": "Banker",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "1000ELEXIT",
       "SetID": "a1angca",
       "Name": "Entrepreneur",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "100HEALS",
@@ -1131,9 +1136,9 @@
       "ID": "10MAPPARTS",
       "SetID": "a1angca",
       "Name": "Treasure Hunter",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "20AUDIOLOGS",
@@ -1147,9 +1152,9 @@
       "ID": "20TELEPORTS",
       "SetID": "a1angca",
       "Name": "Beam Me Up",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "20TRADER",
@@ -1221,7 +1226,7 @@
       "Name": "Military Leader",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ALLCOMBAT",
@@ -1237,7 +1242,7 @@
       "Name": "Self-Sufficient",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ALLJETPACK",
@@ -1245,7 +1250,7 @@
       "Name": "Free as a Bird",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ALLPERSONALITY",
@@ -1261,7 +1266,7 @@
       "Name": "Unbreakable",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ALLXP",
@@ -1291,25 +1296,25 @@
       "ID": "CHOSEALB",
       "SetID": "a1angca",
       "Name": "Alb",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "CHOSEBSK",
       "SetID": "a1angca",
       "Name": "Berserker",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 13
     },
     {
       "ID": "CHOSEKLE",
       "SetID": "a1angca",
       "Name": "Cleric",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "CHOSEMOR",
@@ -1333,7 +1338,7 @@
       "Name": "Creator",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "DESTRUCTION",
@@ -1349,7 +1354,7 @@
       "Name": "Perfectionist",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "FINDALLIES",
@@ -1363,7 +1368,7 @@
       "ID": "FINDBILLY",
       "SetID": "a1angca",
       "Name": "Festival-goer",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 24
     },
@@ -1371,15 +1376,15 @@
       "ID": "FINDCITY",
       "SetID": "a1angca",
       "Name": "Civilian",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 33
     },
     {
       "ID": "FINDCRONY",
       "SetID": "a1angca",
       "Name": "Best Buddy",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 38
     },
@@ -1395,9 +1400,9 @@
       "ID": "FINDWARDEK",
       "SetID": "a1angca",
       "Name": "Family Reunion",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 13
     },
     {
       "ID": "FUTUREIRISSA",
@@ -1405,7 +1410,7 @@
       "Name": "Irissa\u0027s Fate",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "HELPCHILDREN",
@@ -1413,7 +1418,7 @@
       "Name": "Detective",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "HELPTHORHILD",
@@ -1437,7 +1442,7 @@
       "Name": "Hunter",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KILL20SKYANDS",
@@ -1492,15 +1497,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 136,
+      "Progressed": 139,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2023-12-30T18:04:40.9111097+00:00",
+  "LastChanged_Achievements": "2023-12-30T19:07:38.1467062+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:36.6401654+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:58:26.836578+00:00",
-  "LastUpdate_Achievements": "2023-12-30T18:04:40.9111421+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:00:53.1914379+00:00",
+  "LastUpdate_Achievements": "2023-12-30T19:07:38.1467454+00:00"
 }

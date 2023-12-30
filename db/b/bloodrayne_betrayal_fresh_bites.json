@@ -2,9 +2,9 @@
   "ID": "bce5e14327134bbd9f987dc12e220e20",
   "Name": "BloodRayne Betrayal Fresh Bites",
   "ProductSlug": "bloodrayne-betrayal-fresh-bites-8f1012",
-  "Ranking_EOS_Progress": 521,
+  "Ranking_EOS_Progress": 519,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 565,
+  "Ranking_EOS_NewPlayers": 527,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-11-04T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65,
+  "EOS_Progressed": 66,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -140,6 +140,11 @@
       "Time": "2023-12-23T06:10:04.8222385+00:00",
       "NumProgressed": 65,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T19:12:44.5255138+00:00",
+      "NumProgressed": 66,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -189,7 +194,7 @@
       "ID": "CrabCakes",
       "SetID": "6jf74lf",
       "Name": "Crab Cakes",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
       "UsersEstimate": 31
     },
@@ -215,7 +220,7 @@
       "Name": "Finish Him",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "FlightOfTheRaven",
@@ -247,7 +252,7 @@
       "Name": "Just a Taste",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "LastBullet",
@@ -277,7 +282,7 @@
       "ID": "PersonallyPunched",
       "SetID": "6jf74lf",
       "Name": "Personally Punched",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 18
     },
@@ -342,7 +347,7 @@
     {
       "ID": "6jf74lf",
       "IsBase": true,
-      "Progressed": 65,
+      "Progressed": 66,
       "Completed": 0
     }
   ],
@@ -350,8 +355,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.7137735+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:16.1017514+00:00",
   "LastChanged": "2023-03-31T05:58:13.7137736+00:00",
-  "LastChanged_Achievements": "2023-12-30T18:09:55.7964174+00:00",
+  "LastChanged_Achievements": "2023-12-30T19:12:44.5255135+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.9263911+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:59:35.8891899+00:00",
-  "LastUpdate_Achievements": "2023-12-30T18:09:55.7964667+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:02:33.9835025+00:00",
+  "LastUpdate_Achievements": "2023-12-30T19:12:44.5255317+00:00"
 }

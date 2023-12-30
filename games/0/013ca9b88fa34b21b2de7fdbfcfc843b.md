@@ -19,9 +19,9 @@ Rating: 4.63 (Ranked 356)
 | Mist Walker | 1.00% | ~88 |
 | Oui, Chef! | 1.00% | ~88 |
 | Exit Through The Gift Shop | 1.00% | ~14 |
+| Search for the Hairy Grell | 0.90% | ~79 |
 | Higher Tax Bracket | 0.90% | ~79 |
 | Botanical Breakthrough | 0.90% | ~79 |
-| Search for the Hairy Grell | 0.80% | ~70 |
 | Beach Comber | 0.70% | ~61 |
 | Azorian Anniversary | 0.70% | ~61 |
 | Flaming Hot Completos | 0.60% | ~53 |

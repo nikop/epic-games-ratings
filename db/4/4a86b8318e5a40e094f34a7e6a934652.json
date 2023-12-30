@@ -1870,9 +1870,9 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 265
+      "UsersEstimate": 269
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -1894,9 +1894,9 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 179
+      "UsersEstimate": 184
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -1981,8 +1981,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-30T18:06:04.4342995+00:00",
+  "LastChanged_Achievements": "2023-12-30T19:09:33.1725585+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.5394751+00:00",
-  "LastUpdate_Ratings": "2023-12-30T18:02:34.6134354+00:00",
-  "LastUpdate_Achievements": "2023-12-30T18:06:04.4343211+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:04:38.6375725+00:00",
+  "LastUpdate_Achievements": "2023-12-30T19:09:33.172584+00:00"
 }

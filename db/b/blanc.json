@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3838,
+  "EOS_Progressed": 3842,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -6296,6 +6296,11 @@
       "Time": "2023-12-30T18:05:50.7890679+00:00",
       "NumProgressed": 3838,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-30T19:09:13.777726+00:00",
+      "NumProgressed": 3842,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -6371,7 +6376,7 @@
       "Name": "Starting as a duo",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -6387,7 +6392,7 @@
       "Name": "The end",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "TRANSMISSION",
@@ -6403,14 +6408,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3838,
+      "Progressed": 3842,
       "Completed": 6
     }
   ],
@@ -6418,8 +6423,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-30T18:05:50.7890675+00:00",
+  "LastChanged_Achievements": "2023-12-30T19:09:13.7777252+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:05.8784684+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:57:41.0568185+00:00",
-  "LastUpdate_Achievements": "2023-12-30T18:05:50.7891037+00:00"
+  "LastUpdate_Ratings": "2023-12-30T18:59:44.8992493+00:00",
+  "LastUpdate_Achievements": "2023-12-30T19:09:13.777762+00:00"
 }

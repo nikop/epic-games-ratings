@@ -12,10 +12,10 @@
 | The Curse of Kih-Oskh | 17.00% | ~19 |
 | It's a Deal! | 13.00% | ~14 |
 | Cat Lover | 12.00% | ~13 |
+| Dynamite, Treason and Coconuts | 11.00% | ~12 |
 | In the Name of the Law | 10.00% | ~11 |
-| Dynamite, Treason and Coconuts | 10.00% | ~11 |
+| Au Revoir, Abudin | 10.00% | ~11 |
 | Save a Friend | 10.00% | ~11 |
-| Au Revoir, Abudin | 9.00% | ~10 |
 | Mysterious Bungalow | 8.00% | ~9 |
 | Mummy Nightmare | 8.00% | ~9 |
 | The Eyes! | 7.00% | ~8 |
@@ -42,7 +42,7 @@
 | Trials of Kih-Oskh | 0.00% | ~0 |
 | Escaping War | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 110 (Ranked 477)  
+Progressed: 110 (Ranked 478)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |

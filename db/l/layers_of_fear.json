@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 234,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1341,9 +1341,9 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 140
     },
     {
       "ID": "playtime",
@@ -1492,8 +1492,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-30T18:08:29.9743121+00:00",
+  "LastChanged_Achievements": "2023-12-30T19:10:47.8358479+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:25.6985759+00:00",
-  "LastUpdate_Ratings": "2023-12-30T18:00:07.6275717+00:00",
-  "LastUpdate_Achievements": "2023-12-30T18:08:29.9743526+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:03:21.438463+00:00",
+  "LastUpdate_Achievements": "2023-12-30T19:10:47.835889+00:00"
 }

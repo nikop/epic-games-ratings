@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finish Him | 89.00% | ~58 |
-| Just a Taste | 74.00% | ~48 |
+| Finish Him | 89.00% | ~59 |
+| Just a Taste | 74.00% | ~49 |
 | Strange Skulls | 58.00% | ~38 |
 | Treasure Hunter | 55.00% | ~36 |
-| Crab Cakes | 48.00% | ~31 |
-| Personally Punched | 28.00% | ~18 |
+| Crab Cakes | 47.00% | ~31 |
+| Personally Punched | 27.00% | ~18 |
 | Flight of the Raven | 23.00% | ~15 |
 | Drop In | 20.00% | ~13 |
 | The Last Bullet | 14.00% | ~9 |
@@ -29,7 +29,7 @@
 | Skulltastic | 2.00% | ~1 |
 | Elite Vamp | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65 (Ranked 521)  
+Progressed: 66 (Ranked 519)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -54,6 +54,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-18 | 63 | 0 |
 | 2023-12-19 | 64 | 0 |
 | 2023-12-23 | 65 | 0 |
+| 2023-12-30 | 66 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

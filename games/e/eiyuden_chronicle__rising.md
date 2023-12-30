@@ -6,59 +6,59 @@ Number of Ratings: 48  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Plenty More to Go | 85.00% | ~663 |
-| All Bark, No Bite | 74.00% | ~577 |
-| Hopeful Hunter | 64.00% | ~499 |
-| Amateur Adventurer | 61.00% | ~476 |
-| The Road to Recovery | 60.00% | ~468 |
-| Partners? | 59.00% | ~460 |
-| Magical Mineral Golem | 52.00% | ~406 |
-| On Outlander Lane | 51.00% | ~398 |
-| A Girl About the Town | 48.00% | ~374 |
-| First Time Fishing | 48.00% | ~374 |
-| First Time Hunting | 46.00% | ~359 |
-| Rune Wall Wreckage | 46.00% | ~359 |
-| ...And Your Tax Money | 44.00% | ~343 |
-| The Lords of the Snowpeak | 38.00% | ~296 |
-| The Go-To Girl | 35.00% | ~273 |
-| The Lava Mantor Wyrm | 34.00% | ~265 |
-| Scavenger's Honor | 34.00% | ~265 |
-| One Mean Merc | 34.00% | ~265 |
-| Natural Born Monster-Killer | 34.00% | ~265 |
-| The Great Forest...On Foot! | 34.00% | ~265 |
-| Adept, for an Acting Mayor | 33.00% | ~257 |
-| Money, Money, Money | 33.00% | ~257 |
-| Rune Wall Master | 32.00% | ~250 |
-| The Quarry...On Foot! | 29.00% | ~226 |
+| Plenty More to Go | 85.00% | ~665 |
+| All Bark, No Bite | 74.00% | ~579 |
+| Hopeful Hunter | 64.00% | ~500 |
+| Amateur Adventurer | 61.00% | ~477 |
+| The Road to Recovery | 60.00% | ~469 |
+| Partners? | 58.00% | ~454 |
+| Magical Mineral Golem | 52.00% | ~407 |
+| On Outlander Lane | 51.00% | ~399 |
+| A Girl About the Town | 48.00% | ~375 |
+| First Time Fishing | 48.00% | ~375 |
+| First Time Hunting | 46.00% | ~360 |
+| Rune Wall Wreckage | 45.00% | ~352 |
+| ...And Your Tax Money | 44.00% | ~344 |
+| The Lords of the Snowpeak | 38.00% | ~297 |
+| The Go-To Girl | 35.00% | ~274 |
+| The Lava Mantor Wyrm | 34.00% | ~266 |
+| Scavenger's Honor | 34.00% | ~266 |
+| One Mean Merc | 34.00% | ~266 |
+| Natural Born Monster-Killer | 34.00% | ~266 |
+| The Great Forest...On Foot! | 34.00% | ~266 |
+| Adept, for an Acting Mayor | 33.00% | ~258 |
+| Money, Money, Money | 33.00% | ~258 |
+| Rune Wall Master | 31.00% | ~242 |
+| The Quarry...On Foot! | 29.00% | ~227 |
 | The Runebarrows...On Foot! | 27.00% | ~211 |
-| The Lava Ruins...On Foot! | 26.00% | ~203 |
-| The Snowpeak...On Foot! | 25.00% | ~195 |
-| Meat Master | 24.00% | ~187 |
-| Fishing Master | 23.00% | ~179 |
+| The Snowpeak...On Foot! | 25.00% | ~196 |
+| The Lava Ruins...On Foot! | 25.00% | ~196 |
+| Meat Master | 24.00% | ~188 |
+| Fishing Master | 23.00% | ~180 |
 | Armor Master | 22.00% | ~172 |
 | The Pride of the Town | 21.00% | ~164 |
-| This Treasure I've Found | 19.00% | ~148 |
-| New Nevaeh's Number One Customer | 19.00% | ~148 |
-| Arms Master | 18.00% | ~140 |
-| Rune Scholar | 16.00% | ~125 |
+| This Treasure I've Found | 19.00% | ~149 |
+| New Nevaeh's Number One Customer | 19.00% | ~149 |
+| Arms Master | 18.00% | ~141 |
+| Rune Scholar | 15.00% | ~117 |
 | No Treasure Left Behind | 12.00% | ~94 |
-| One-Hundred Resident Record | 11.00% | ~86 |
 | Sommelier | 11.00% | ~86 |
 | Champion of the Great Forest | 11.00% | ~86 |
+| One-Hundred Resident Record | 10.00% | ~78 |
 | A Local Hero | 10.00% | ~78 |
 | Gourmand | 9.00% | ~70 |
 | Accessorizer | 9.00% | ~70 |
 | Champion of the Quarry | 9.00% | ~70 |
 | Champion of the Snowpeak | 9.00% | ~70 |
 | Champion of the Lava Ruins | 9.00% | ~70 |
-| No One Better | 8.00% | ~62 |
-| Full Force - CJ | 8.00% | ~62 |
-| Full Force - Garoo | 8.00% | ~62 |
+| No One Better | 8.00% | ~63 |
+| Full Force - CJ | 8.00% | ~63 |
+| Full Force - Garoo | 8.00% | ~63 |
 | Full Force - Isha | 7.00% | ~55 |
 | Rising Champion | 7.00% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 780 (Ranked 306)  
-Completed: 60 (7.69%) (Ranked 53)  
+Progressed: 782 (Ranked 306)  
+Completed: 60 (7.67%) (Ranked 54)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -119,7 +119,7 @@ Completed: 60 (7.69%) (Ranked 53)
 | 2023-12-27 | 773 | 60 |
 | 2023-12-28 | 774 | 60 |
 | 2023-12-29 | 778 | 60 |
-| 2023-12-30 | 780 | 60 |
+| 2023-12-30 | 782 | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

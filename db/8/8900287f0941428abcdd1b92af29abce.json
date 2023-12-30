@@ -4,7 +4,7 @@
   "ProductSlug": "miniland-adventure-ee81ff",
   "Ranking_EOS_Progress": 610,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 526,
+  "Ranking_EOS_NewPlayers": 527,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-12-07T14:00:00+00:00",
@@ -197,17 +197,17 @@
       "ID": "ach-bucket-of-salt-water",
       "SetID": "6aph42m",
       "Name": "Now I can drink that",
-      "Percentage": 18,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach-cactus",
       "SetID": "6aph42m",
       "Name": "Ouch, it\u0027s spiky!",
-      "Percentage": 9,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach-carpenter-goblin",
@@ -461,17 +461,17 @@
       "ID": "ach-ruby",
       "SetID": "6aph42m",
       "Name": "Shiny!",
-      "Percentage": 18,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach-saddle",
       "SetID": "6aph42m",
       "Name": "Alpaca rider",
-      "Percentage": 9,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach-shaman-goblin",
@@ -572,8 +572,8 @@
   ],
   "FirstSeen": "2023-12-09T20:59:53.605626+00:00",
   "FirstSeenAchievements": "2023-09-27T06:05:39.2666292+00:00",
-  "LastChanged_Achievements": "2023-12-30T18:09:32.0213113+00:00",
+  "LastChanged_Achievements": "2023-12-30T19:12:12.9092266+00:00",
   "LastUpdate_AppInfo": "2023-12-27T12:59:42.3590497+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:58:46.5191429+00:00",
-  "LastUpdate_Achievements": "2023-12-30T18:09:32.0213458+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:01:22.8626619+00:00",
+  "LastUpdate_Achievements": "2023-12-30T19:12:12.909269+00:00"
 }

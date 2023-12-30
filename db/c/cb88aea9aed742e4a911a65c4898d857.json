@@ -227,9 +227,9 @@
       "Count": 73
     }
   ],
-  "EOS_Progressed": 8894,
+  "EOS_Progressed": 8909,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2109,
+  "EOS_NewPlayers": 2102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3007,6 +3007,11 @@
       "Time": "2023-12-30T18:09:46.1947983+00:00",
       "NumProgressed": 8894,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T19:12:32.0898259+00:00",
+      "NumProgressed": 8909,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3025,9 +3030,9 @@
       "ID": "03_TheStolenStar",
       "SetID": "37a94m8",
       "Name": "Stolen Star",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 267
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -3137,25 +3142,25 @@
       "ID": "17_TheExemplar",
       "SetID": "37a94m8",
       "Name": "Exemplar",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 71
     },
     {
       "ID": "18_TheRookieSkipper",
       "SetID": "37a94m8",
       "Name": "Rookie Skipper",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 267
     },
     {
       "ID": "19_TheVoidWolf",
       "SetID": "37a94m8",
       "Name": "Void Wolf",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 178
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -3251,7 +3256,7 @@
       "Name": "Don\u0027t Touch This",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "32_AviationSaviour",
@@ -3369,9 +3374,9 @@
       "ID": "46_ASpark",
       "SetID": "37a94m8",
       "Name": "A Spark",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 267
     },
     {
       "ID": "47_AFlame",
@@ -3441,9 +3446,9 @@
       "ID": "55_ReturningTheBoots",
       "SetID": "37a94m8",
       "Name": "Returning the Boots",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 27
     },
     {
       "ID": "56_ThoroughInvestigation",
@@ -3538,7 +3543,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8894,
+      "Progressed": 8909,
       "Completed": 0
     }
   ],
@@ -3546,8 +3551,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-30T16:58:43.1218846+00:00",
-  "LastChanged_Achievements": "2023-12-30T18:09:46.1947978+00:00",
+  "LastChanged_Achievements": "2023-12-30T19:12:32.0898257+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:58:37.1625165+00:00",
-  "LastUpdate_Achievements": "2023-12-30T18:09:46.1948569+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:01:08.9235261+00:00",
+  "LastUpdate_Achievements": "2023-12-30T19:12:32.0899016+00:00"
 }

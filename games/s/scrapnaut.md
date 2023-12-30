@@ -13,13 +13,13 @@ Number of Ratings: 38  (23.09.2022)
 | Cook | 43.00% | ~251 |
 | Teleport | 43.00% | ~251 |
 | Scrap Master | 36.00% | ~210 |
-| Smelter | 34.00% | ~198 |
+| Smelter | 34.00% | ~199 |
 | Digger | 31.00% | ~181 |
 | Electro-Scrap Gatherer | 31.00% | ~181 |
 | Survivor | 29.00% | ~169 |
-| Herbalist | 28.00% | ~163 |
-| Lumberjack | 28.00% | ~163 |
-| Robot Destroyer | 28.00% | ~163 |
+| Herbalist | 28.00% | ~164 |
+| Lumberjack | 28.00% | ~164 |
+| Robot Destroyer | 28.00% | ~164 |
 | Prepper | 25.00% | ~146 |
 | Electro-Scrap Master | 23.00% | ~134 |
 | Robot Hunter | 20.00% | ~117 |
@@ -34,12 +34,12 @@ Number of Ratings: 38  (23.09.2022)
 | Smelting Master | 10.00% | ~58 |
 | Black Gold | 7.00% | ~41 |
 | Survival Master | 5.00% | ~29 |
-| Traveler | 3.00% | ~17 |
-| Forest Killer | 3.00% | ~17 |
+| Traveler | 3.00% | ~18 |
+| Forest Killer | 3.00% | ~18 |
 | Invincible | 0.50% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 583 (Ranked 332)  
-Completed: 4 (0.69%) (Ranked 198)  
+Progressed: 584 (Ranked 332)  
+Completed: 4 (0.68%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -207,7 +207,7 @@ Completed: 4 (0.69%) (Ranked 198)
 | 2023-12-27 | 573 | 4 |
 | 2023-12-28 | 575 | 4 |
 | 2023-12-29 | 581 | 4 |
-| 2023-12-30 | 583 | 4 |
+| 2023-12-30 | 584 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -5,35 +5,35 @@ Rating: 4.20 (Ranked 950)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~2,007 |
-| Battlefields Have Memories | 80.00% | ~1,846 |
-| Enlisted | 73.00% | ~1,684 |
-| Maybe Engage a Little | 67.00% | ~1,546 |
-| No More Names | 50.00% | ~1,154 |
-| Initiate | 35.00% | ~807 |
-| Thrada-Kul | 32.00% | ~738 |
-| Gravity-Challenged Rocks | 25.00% | ~577 |
-| Socialite | 23.00% | ~531 |
-| Soldier | 21.00% | ~484 |
-| All the Major Food Groups | 21.00% | ~484 |
-| Beggars Would Ride | 19.00% | ~438 |
-| Control is an Illusion | 18.00% | ~415 |
-| The Means to Save It | 15.00% | ~346 |
-| Resilience to Sin | 14.00% | ~323 |
-| A Familiar Nest | 13.00% | ~300 |
-| Geas Aristeya | 13.00% | ~300 |
-| Periapt Alizarin | 13.00% | ~300 |
-| A Perfect Cycle | 12.00% | ~277 |
+| Unforeseen | 87.00% | ~2,012 |
+| Battlefields Have Memories | 80.00% | ~1,850 |
+| Enlisted | 73.00% | ~1,688 |
+| Maybe Engage a Little | 67.00% | ~1,550 |
+| No More Names | 50.00% | ~1,156 |
+| Initiate | 35.00% | ~810 |
+| Thrada-Kul | 31.00% | ~717 |
+| Gravity-Challenged Rocks | 25.00% | ~578 |
+| Socialite | 23.00% | ~532 |
+| Soldier | 21.00% | ~486 |
+| All the Major Food Groups | 21.00% | ~486 |
+| Beggars Would Ride | 19.00% | ~439 |
+| Control is an Illusion | 18.00% | ~416 |
+| The Means to Save It | 15.00% | ~347 |
+| Resilience to Sin | 14.00% | ~324 |
+| A Familiar Nest | 13.00% | ~301 |
+| Geas Aristeya | 13.00% | ~301 |
+| Periapt Alizarin | 13.00% | ~301 |
+| A Perfect Cycle | 12.00% | ~278 |
 | Recruit | 11.00% | ~254 |
 | Armsman | 10.00% | ~231 |
 | Lights Army | 8.00% | ~185 |
-| Periapt Cerulean | 7.00% | ~161 |
-| Good Boy | 6.00% | ~138 |
-| Best Dressed | 5.00% | ~115 |
-| Periapt Viridian | 5.00% | ~115 |
-| Shroudfane Explorer | 5.00% | ~115 |
-| Kitted Out | 4.00% | ~92 |
-| Armaments Gules | 4.00% | ~92 |
+| Periapt Cerulean | 7.00% | ~162 |
+| Good Boy | 6.00% | ~139 |
+| Best Dressed | 5.00% | ~116 |
+| Periapt Viridian | 5.00% | ~116 |
+| Shroudfane Explorer | 5.00% | ~116 |
+| Kitted Out | 4.00% | ~93 |
+| Armaments Gules | 4.00% | ~93 |
 | Scholar | 3.00% | ~69 |
 | Armaments Azure | 3.00% | ~69 |
 | Armaments Vert | 3.00% | ~69 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 950)
 | Out of Time | 0.20% | ~5 |
 | Fowl Play | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,307 (Ranked 234)  
+Progressed: 2,313 (Ranked 234)  
 Completed: 2 (0.09%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 2 (0.09%) (Ranked 312)
 | 2023-12-27 | 2,049 | 2 |
 | 2023-12-28 | 2,136 | 2 |
 | 2023-12-29 | 2,236 | 2 |
-| 2023-12-30 | 2,307 | 2 |
+| 2023-12-30 | 2,313 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

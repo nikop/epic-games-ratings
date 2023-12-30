@@ -1,11 +1,11 @@
 # Dungeons 4
 [Store](https://store.epicgames.com/en-US/p/dungeons-4-595454)  
 [View Rawdata](../../db/d/dungeons_4.json)  
-Rating: 4.65 (Ranked 323)  
+Rating: 4.65 (Ranked 324)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 88.00% | ~591 |
+| The Last Stand | 89.00% | ~598 |
 | Thalya – Simply Immortal | 88.00% | ~591 |
 | For the Horde! | 82.00% | ~551 |
 | Hammer Time, Round Two | 80.00% | ~538 |
@@ -22,15 +22,15 @@ Rating: 4.65 (Ranked 323)
 | It's Warm and Cozy at Home | 58.00% | ~390 |
 | Trap Master | 55.00% | ~370 |
 | Minions, Minions! | 55.00% | ~370 |
-| Hard Work | 53.00% | ~356 |
+| Hard Work | 54.00% | ~363 |
 | The Big Eaty | 53.00% | ~356 |
+| “… like son” | 51.00% | ~343 |
 | YOU SHALL NOT PASS! | 50.00% | ~336 |
-| “… like son” | 50.00% | ~336 |
 | The Cathedral of Light | 47.00% | ~316 |
 | Shame! Shame! Shame! | 47.00% | ~316 |
 | Pure Dynamite! | 45.00% | ~302 |
 | Dungeonlord Gorgu | 45.00% | ~302 |
-| Tanos' Crusade Against Thalya | 44.00% | ~296 |
+| Tanos' Crusade Against Thalya | 45.00% | ~302 |
 | Mana Cannon | 41.00% | ~276 |
 | All’s Well That Ends Evil | 40.00% | ~269 |
 | The Duel | 38.00% | ~255 |

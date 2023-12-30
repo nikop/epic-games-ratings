@@ -2,12 +2,12 @@
   "ID": "6cec00f8934146508b884b0f139d55d0",
   "Name": "Superliminal",
   "ProductSlug": "superliminal",
-  "Ranking_Rating": 69,
+  "Ranking_Rating": 70,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 565,
+  "Ranking_EOS_NewPlayers": 566,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2019-11-12T09:00:00+00:00",
@@ -225,6 +225,6 @@
   "FirstSeen": "2022-07-22T20:17:46.1254178+00:00",
   "LastChanged": "2023-10-29T17:59:04.9382268+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.6685346+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:58:16.4818171+00:00",
-  "LastUpdate_Achievements": "2023-12-30T18:05:22.7524329+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:00:37.3302588+00:00",
+  "LastUpdate_Achievements": "2023-12-30T19:08:35.3676649+00:00"
 }

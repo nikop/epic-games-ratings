@@ -1,65 +1,65 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.49 (Ranked 631)  
+Rating: 4.49 (Ranked 630)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 78.00% | ~243 |
-| First of many… | 69.00% | ~215 |
-| Helping Hand | 66.00% | ~205 |
-| Increased Vigor | 59.00% | ~183 |
-| Fight Fire with Fire | 57.00% | ~177 |
-| Increased Capacity | 54.00% | ~168 |
+| Green with Envy | 78.00% | ~244 |
+| First of many… | 69.00% | ~216 |
+| Helping Hand | 65.00% | ~203 |
+| Increased Vigor | 59.00% | ~185 |
+| Fight Fire with Fire | 57.00% | ~178 |
+| Increased Capacity | 53.00% | ~166 |
 | Just the start | 50.00% | ~156 |
-| Perfect Storm | 46.00% | ~143 |
-| All That Glitters | 45.00% | ~140 |
-| Enhance! | 43.00% | ~134 |
-| One Of the Chosen | 41.00% | ~128 |
-| Devil's in the Details | 39.00% | ~121 |
-| Throne Potato | 39.00% | ~121 |
-| Five's a Crowd | 39.00% | ~121 |
-| 25 to Life | 38.00% | ~118 |
-| Soul Harvester | 36.00% | ~112 |
-| Salvation | 36.00% | ~112 |
+| Perfect Storm | 46.00% | ~144 |
+| All That Glitters | 45.00% | ~141 |
+| One Of the Chosen | 42.00% | ~131 |
+| Enhance! | 42.00% | ~131 |
+| Devil's in the Details | 39.00% | ~122 |
+| Throne Potato | 39.00% | ~122 |
+| Five's a Crowd | 39.00% | ~122 |
+| 25 to Life | 38.00% | ~119 |
+| Soul Harvester | 36.00% | ~113 |
+| Salvation | 36.00% | ~113 |
 | Unshakable Fortitude | 34.00% | ~106 |
-| I Wanna Rock | 31.00% | ~96 |
-| Delusions of Grandeur | 31.00% | ~96 |
-| Maximum Vigor | 30.00% | ~93 |
-| Love Tap | 29.00% | ~90 |
-| Freeze Frame | 27.00% | ~84 |
-| Eat Your Heart Out | 27.00% | ~84 |
-| For Whom the Bell Tolls | 27.00% | ~84 |
+| I Wanna Rock | 31.00% | ~97 |
+| Delusions of Grandeur | 31.00% | ~97 |
+| Maximum Vigor | 30.00% | ~94 |
+| Love Tap | 29.00% | ~91 |
+| Freeze Frame | 27.00% | ~85 |
+| Eat Your Heart Out | 27.00% | ~85 |
+| For Whom the Bell Tolls | 27.00% | ~85 |
 | Unyielding Strength | 24.00% | ~75 |
 | Big Spender | 24.00% | ~75 |
 | Can you restore the Balance? | 23.00% | ~72 |
-| Cleanup Crew | 22.00% | ~68 |
-| Crowd Source | 22.00% | ~68 |
-| Maximum Capacity | 20.00% | ~62 |
-| Demon Meddler | 20.00% | ~62 |
-| Seeing Red | 20.00% | ~62 |
+| Cleanup Crew | 22.00% | ~69 |
+| Crowd Source | 22.00% | ~69 |
+| Maximum Capacity | 20.00% | ~63 |
+| Seeing Red | 20.00% | ~63 |
+| Demon Meddler | 19.00% | ~59 |
 | Egomaniac | 18.00% | ~56 |
 | Protector of Humanity | 16.00% | ~50 |
 | Everybody Wants to Rule the World | 16.00% | ~50 |
-| Community Outreach | 13.00% | ~40 |
-| A Parting Gift | 12.00% | ~37 |
-| Path of the Horseman | 12.00% | ~37 |
+| A Parting Gift | 12.00% | ~38 |
+| Path of the Horseman | 12.00% | ~38 |
+| Community Outreach | 12.00% | ~38 |
 | Unbreakable Will | 11.00% | ~34 |
 | Holy Keeper | 9.00% | ~28 |
 | Take it to the Limit | 9.00% | ~28 |
 | Demon Keeper | 8.00% | ~25 |
+| Soul Reaper | 7.00% | ~22 |
 | Humanitarian | 7.00% | ~22 |
-| Soul Reaper | 6.00% | ~19 |
 | My Evil Twin | 6.00% | ~19 |
-| Keeper of the Bonfire | 5.00% | ~16 |
-| Keeper of the Sky | 5.00% | ~16 |
-| Made of Sterner Stuff | 5.00% | ~16 |
-| Purity of Power | 4.00% | ~12 |
-| "Impressive!" | 4.00% | ~12 |
-| Keeper of the Vale | 4.00% | ~12 |
-| Keep it 100! | 4.00% | ~12 |
-| BFA | 4.00% | ~12 |
+| Purity of Power | 4.00% | ~13 |
+| "Impressive!" | 4.00% | ~13 |
+| Keeper of the Bonfire | 4.00% | ~13 |
+| Keeper of the Vale | 4.00% | ~13 |
+| Keeper of the Sky | 4.00% | ~13 |
+| Keep it 100! | 4.00% | ~13 |
+| BFA | 4.00% | ~13 |
+| Made of Sterner Stuff | 4.00% | ~13 |
 | Balance in all things | 3.00% | ~9 |
 | "Incredible!" | 3.00% | ~9 |
 | Keeper of Colossal Automata | 3.00% | ~9 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 0.60% | ~2 |
 | Beast Mode | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 311 (Ranked 381)  
+Progressed: 313 (Ranked 381)  
 Completed: 1 (0.32%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 1 (0.32%) (Ranked 246)
 | 2023-12-27 | 247 | 1 |
 | 2023-12-28 | 265 | 1 |
 | 2023-12-29 | 293 | 1 |
-| 2023-12-30 | 311 | 1 |
+| 2023-12-30 | 313 | 1 |
 ## Awards
 Max (Great Boss Battles): 94  (Ranked 387)  
 Sum: 94 (Ranked 468)  

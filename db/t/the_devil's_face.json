@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 615,
+  "EOS_Progressed": 616,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.14,
   "EosHistory": [
@@ -2699,6 +2699,11 @@
       "Time": "2023-12-30T17:04:59.8777396+00:00",
       "NumProgressed": 615,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-30T19:07:46.5751915+00:00",
+      "NumProgressed": 616,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2718,7 +2723,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2782,7 +2787,7 @@
       "Name": "Unholy lands",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -2821,14 +2826,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 615,
+      "Progressed": 616,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-12-30T18:04:46.9234421+00:00",
-  "LastUpdate_AppInfo": "2023-12-23T18:56:53.260283+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:58:42.6306222+00:00",
-  "LastUpdate_Achievements": "2023-12-30T18:04:46.9234649+00:00"
+  "LastChanged_Achievements": "2023-12-30T19:07:46.5751912+00:00",
+  "LastUpdate_AppInfo": "2023-12-30T18:58:37.2024016+00:00",
+  "LastUpdate_Ratings": "2023-12-30T19:01:17.5442682+00:00",
+  "LastUpdate_Achievements": "2023-12-30T19:07:46.5752102+00:00"
 }

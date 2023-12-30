@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1805,
+  "EOS_Progressed": 1806,
   "EOS_Completed": 76,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.21,
   "EosHistory": [
@@ -4108,6 +4108,11 @@
       "Time": "2023-12-28T23:05:44.2565494+00:00",
       "NumProgressed": 1805,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2023-12-30T19:09:06.1337739+00:00",
+      "NumProgressed": 1806,
+      "NumCompleted": 76
     }
   ],
   "TotalAchievements": 11,
@@ -4135,7 +4140,7 @@
       "Name": "Screwdriver",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -4151,7 +4156,7 @@
       "Name": "Is she really dead?",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "ACH_FineEV9",
@@ -4183,7 +4188,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -4206,15 +4211,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1805,
+      "Progressed": 1806,
       "Completed": 76
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2023-12-30T18:05:45.2123622+00:00",
+  "LastChanged_Achievements": "2023-12-30T19:09:06.1337734+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:21.5191836+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:58:02.1315559+00:00",
-  "LastUpdate_Achievements": "2023-12-30T18:05:45.2123875+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:00:15.3359094+00:00",
+  "LastUpdate_Achievements": "2023-12-30T19:09:06.1338043+00:00"
 }

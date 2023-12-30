@@ -5,22 +5,22 @@ Rating: 4.80 (Ranked 90)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,002 |
-| No more cages! | 91.00% | ~2,876 |
-| Everfrost | 77.00% | ~2,433 |
+| For Demacia | 95.00% | ~3,003 |
+| No more cages! | 91.00% | ~2,877 |
+| Everfrost | 77.00% | ~2,434 |
 | Pentakill | 76.00% | ~2,402 |
 | Dark Forest | 76.00% | ~2,402 |
-| The use of petricite | 73.00% | ~2,307 |
-| You can pet the dog | 60.00% | ~1,896 |
-| Thornbarrow | 42.00% | ~1,327 |
+| The use of petricite | 73.00% | ~2,308 |
+| You can pet the dog | 60.00% | ~1,897 |
+| Thornbarrow | 42.00% | ~1,328 |
 | Big Helmet Bro | 40.00% | ~1,264 |
 | Clarion Cove | 40.00% | ~1,264 |
 | Ternmoat Headquarters | 38.00% | ~1,201 |
-| Elemental master | 37.00% | ~1,169 |
-| Past trauma | 37.00% | ~1,169 |
-| Cypress Glen Headquarters | 34.00% | ~1,074 |
+| Elemental master | 37.00% | ~1,170 |
+| Past trauma | 37.00% | ~1,170 |
+| Cypress Glen Headquarters | 34.00% | ~1,075 |
 | Petricite Burst | 33.00% | ~1,043 |
-| Old friend | 32.00% | ~1,011 |
+| Old friend | 32.00% | ~1,012 |
 | Devineur | 31.00% | ~980 |
 | Hijack | 30.00% | ~948 |
 | Whispers in the Woods I | 27.00% | ~853 |
@@ -43,8 +43,8 @@ Rating: 4.80 (Ranked 90)
 | True power | 16.00% | ~506 |
 | Meltridge | 16.00% | ~506 |
 | Cloven Dell Headquarters | 16.00% | ~506 |
-| Whispers in the Woods IV | 14.00% | ~442 |
-| I smell fear | 14.00% | ~442 |
+| Whispers in the Woods IV | 14.00% | ~443 |
+| I smell fear | 14.00% | ~443 |
 | Embrace the darkness | 13.00% | ~411 |
 | The end of the experiments | 13.00% | ~411 |
 | The Great City of Demacia | 13.00% | ~411 |
@@ -59,7 +59,7 @@ Rating: 4.80 (Ranked 90)
 | Silverwing nest | 2.00% | ~63 |
 | The Unshackled | 1.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,160 (Ranked 221)  
+Progressed: 3,161 (Ranked 221)  
 Completed: 17 (0.54%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 17 (0.54%) (Ranked 211)
 | 2023-12-27 | 3,100 | 17 |
 | 2023-12-28 | 3,125 | 17 |
 | 2023-12-29 | 3,140 | 17 |
-| 2023-12-30 | 3,160 | 17 |
+| 2023-12-30 | 3,161 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

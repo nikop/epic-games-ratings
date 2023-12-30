@@ -3814,9 +3814,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 242044,
+  "EOS_Progressed": 242051,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 509,
+  "EOS_NewPlayers": 512,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -30104,6 +30104,11 @@
       "Time": "2023-12-30T18:10:07.8388172+00:00",
       "NumProgressed": 242044,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-30T19:12:57.981073+00:00",
+      "NumProgressed": 242051,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -30147,7 +30152,7 @@
       "Name": "First Steps",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2420
+      "UsersEstimate": 2421
     },
     {
       "ID": "CURSE1HP",
@@ -30235,7 +30240,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2420
+      "UsersEstimate": 2421
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -30859,7 +30864,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2420
+      "UsersEstimate": 2421
     },
     {
       "ID": "SPECIALROOMS10",
@@ -31218,13 +31223,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242044,
+      "Progressed": 242051,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3524,
+      "Progressed": 3531,
       "Completed": 416
     }
   ],
@@ -31232,8 +31237,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-30T08:01:44.1465561+00:00",
-  "LastChanged_Achievements": "2023-12-30T18:10:07.8388168+00:00",
+  "LastChanged_Achievements": "2023-12-30T19:12:57.9810728+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-30T18:00:31.1692316+00:00",
-  "LastUpdate_Achievements": "2023-12-30T18:10:07.8390835+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:04:35.559889+00:00",
+  "LastUpdate_Achievements": "2023-12-30T19:12:57.9813427+00:00"
 }

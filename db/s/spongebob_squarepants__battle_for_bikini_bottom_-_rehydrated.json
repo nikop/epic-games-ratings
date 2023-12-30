@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -317,9 +317,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 537,
+  "EOS_Progressed": 539,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -1477,6 +1477,11 @@
       "Time": "2023-12-30T18:06:22.1547056+00:00",
       "NumProgressed": 537,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-30T19:09:57.3802562+00:00",
+      "NumProgressed": 539,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1489,7 +1494,7 @@
       "Name": "Robot encyclopedia",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_ARE_YOU_READY_NOW",
@@ -1497,7 +1502,7 @@
       "Name": "Are you ready now?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_CHUM_BUCKET_BRAIN",
@@ -1545,7 +1550,7 @@
       "Name": "Hello, Bikini Bottom",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_FLYING_DUTCHMAN_BOSS",
@@ -1559,9 +1564,9 @@
       "ID": "ACH_JELLYFISHING",
       "SetID": "biiejkc",
       "Name": "Jellyfishing",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -1609,7 +1614,7 @@
       "Name": "Sweet Victory",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -1673,7 +1678,7 @@
       "Name": "Ultra Spatula Seeker",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_STAT_75_SPATULA_SEEKER",
@@ -1737,22 +1742,22 @@
       "Name": "Time For Tutorial",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     }
   ],
   "AchievementSets": [
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 537,
+      "Progressed": 539,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-30T18:06:22.1547052+00:00",
+  "LastChanged_Achievements": "2023-12-30T19:09:57.3802556+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:57:25.4274461+00:00",
-  "LastUpdate_Achievements": "2023-12-30T18:06:22.1547295+00:00"
+  "LastUpdate_Ratings": "2023-12-30T18:59:22.0703232+00:00",
+  "LastUpdate_Achievements": "2023-12-30T19:09:57.3802874+00:00"
 }

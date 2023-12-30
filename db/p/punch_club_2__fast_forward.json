@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 500,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -2071,9 +2071,9 @@
       "ID": "all_promotion_5",
       "SetID": "69co12a",
       "Name": "Problems of cyborgs",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 155
     },
     {
       "ID": "all_promotion_6",
@@ -2503,9 +2503,9 @@
       "ID": "trainer_promotion_1",
       "SetID": "69co12a",
       "Name": "Escaped from a big trouble",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 235
     },
     {
       "ID": "trainer_promotion_2",
@@ -2574,8 +2574,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-30T18:09:35.1413584+00:00",
+  "LastChanged_Achievements": "2023-12-30T19:12:17.0420295+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:13.9390464+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:58:53.8022259+00:00",
-  "LastUpdate_Achievements": "2023-12-30T18:09:35.141425+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:01:33.6315871+00:00",
+  "LastUpdate_Achievements": "2023-12-30T19:12:17.0420833+00:00"
 }

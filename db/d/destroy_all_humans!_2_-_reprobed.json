@@ -5,7 +5,7 @@
   "Ranking_Rating": 543,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 522,
-  "Ranking_EOS_Progress": 405,
+  "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 103,
@@ -282,9 +282,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 255,
+  "EOS_Progressed": 256,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1272,6 +1272,11 @@
       "Time": "2023-12-30T17:09:00.0233965+00:00",
       "NumProgressed": 255,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T19:11:29.8115408+00:00",
+      "NumProgressed": 256,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1354,9 +1359,9 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1396,7 +1401,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1420,7 +1425,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1436,7 +1441,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -1618,9 +1623,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1635,7 +1640,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 255,
+      "Progressed": 256,
       "Completed": 1
     }
   ],
@@ -1643,8 +1648,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-28T10:58:39.1665152+00:00",
-  "LastChanged_Achievements": "2023-12-30T18:09:00.3574143+00:00",
+  "LastChanged_Achievements": "2023-12-30T19:11:29.8115405+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:59:56.5354689+00:00",
-  "LastUpdate_Achievements": "2023-12-30T18:09:00.3574514+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:03:04.9375864+00:00",
+  "LastUpdate_Achievements": "2023-12-30T19:11:29.8115709+00:00"
 }

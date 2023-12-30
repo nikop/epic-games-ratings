@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 323)  
+Rating: 4.65 (Ranked 324)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,10 +9,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 0.90% | ~144 |
 | Settler | 0.90% | ~144 |
 | Play a Single Player Game | 0.90% | ~144 |
+| Architect | 0.70% | ~112 |
 | Intrepid | 0.70% | ~112 |
 | Friendly Family | 0.70% | ~112 |
 | Able | 0.60% | ~96 |
-| Architect | 0.60% | ~96 |
 | Good | 0.60% | ~96 |
 | Learned | 0.60% | ~96 |
 | Mason | 0.60% | ~96 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,030 (Ranked 165)  
+Progressed: 16,031 (Ranked 165)  
 Completed: 5 (0.03%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -619,7 +619,7 @@ Completed: 5 (0.03%) (Ranked 351)
 | 2023-12-27 | 15,978 | 5 |
 | 2023-12-28 | 15,997 | 5 |
 | 2023-12-29 | 16,011 | 5 |
-| 2023-12-30 | 16,030 | 5 |
+| 2023-12-30 | 16,031 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 284)  
 Sum: 1,912 (Ranked 220)  

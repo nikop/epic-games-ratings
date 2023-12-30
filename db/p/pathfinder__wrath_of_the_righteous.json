@@ -4751,9 +4751,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12890,
+  "EOS_Progressed": 12893,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18466,6 +18466,11 @@
       "Time": "2023-12-30T17:10:10.723345+00:00",
       "NumProgressed": 12890,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T19:12:56.1371785+00:00",
+      "NumProgressed": 12893,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18477,7 +18482,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3480
+      "UsersEstimate": 3481
     },
     {
       "ID": "02_BurningCity",
@@ -18485,7 +18490,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2320
+      "UsersEstimate": 2321
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -18509,7 +18514,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -18533,7 +18538,7 @@
       "Name": "Path of the Angel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "09_PathOfDemon",
@@ -18549,7 +18554,7 @@
       "Name": "Path of the Azata",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "11_PathOfAeon",
@@ -18605,7 +18610,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "18_MythicChoices",
@@ -18661,7 +18666,7 @@
       "Name": "The Legacy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "25_MasterfulDispell",
@@ -18685,7 +18690,7 @@
       "Name": "Great Upstart",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "29_StrategicVictory",
@@ -18725,7 +18730,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2062
+      "UsersEstimate": 2063
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -18821,7 +18826,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "46_AllPathsOpen",
@@ -18829,7 +18834,7 @@
       "Name": "All Paths Open",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -18845,7 +18850,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2449
+      "UsersEstimate": 2450
     },
     {
       "ID": "49_Flame",
@@ -18869,7 +18874,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -18901,7 +18906,7 @@
       "Name": "Next-Door Play",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "56_GetToad",
@@ -18909,7 +18914,7 @@
       "Name": "Get the Toad",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "57_PathOfDevil",
@@ -19349,7 +19354,7 @@
       "Name": "Stay Underground",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -19404,21 +19409,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11672,
+      "Progressed": 11675,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12890,
+      "Progressed": 12893,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-30T13:02:00.9873156+00:00",
-  "LastChanged_Achievements": "2023-12-30T18:10:06.3261058+00:00",
+  "LastChanged_Achievements": "2023-12-30T19:12:56.1371783+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:01.2970884+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:59:08.786889+00:00",
-  "LastUpdate_Achievements": "2023-12-30T18:10:06.3262775+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:01:54.1754544+00:00",
+  "LastUpdate_Achievements": "2023-12-30T19:12:56.1373494+00:00"
 }

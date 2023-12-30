@@ -2,12 +2,12 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 323,
+  "Ranking_Rating": 324,
   "Ranking_Popularity": 284,
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2208,7 +2208,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16030,
+  "EOS_Progressed": 16031,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
@@ -18633,6 +18633,11 @@
       "Time": "2023-12-30T18:10:08.7351875+00:00",
       "NumProgressed": 16030,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-30T19:12:59.0316543+00:00",
+      "NumProgressed": 16031,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -18994,9 +18999,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ARCHITECT",
       "SetID": "9201eeb",
       "Name": "Architect",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -21507,21 +21512,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16030,
+      "Progressed": 16031,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16030,
+      "Progressed": 16031,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-29T16:02:55.9624641+00:00",
-  "LastChanged_Achievements": "2023-12-30T18:10:08.7351871+00:00",
+  "LastChanged_Achievements": "2023-12-30T19:12:59.0316542+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:47.5878363+00:00",
-  "LastUpdate_Ratings": "2023-12-30T18:02:54.0694174+00:00",
-  "LastUpdate_Achievements": "2023-12-30T18:10:08.7362046+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:05:08.1843674+00:00",
+  "LastUpdate_Achievements": "2023-12-30T19:12:59.0326867+00:00"
 }

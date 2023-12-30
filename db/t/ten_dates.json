@@ -3,8 +3,8 @@
   "Name": "Ten Dates",
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 357,
-  "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_Completed": 162,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 422,
+  "EOS_Progressed": 423,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.18,
   "EosHistory": [
@@ -1126,6 +1126,11 @@
       "Time": "2023-12-30T16:09:47.433894+00:00",
       "NumProgressed": 422,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-30T19:12:13.0088483+00:00",
+      "NumProgressed": 423,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 19,
@@ -1151,9 +1156,9 @@
       "ID": "misha_date2_all",
       "SetID": "6h5h9ho",
       "Name": "Playing the field",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 17
     },
     {
       "ID": "misha_date3_all",
@@ -1169,7 +1174,7 @@
       "Name": "Let it begin",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "profile_ryan",
@@ -1215,9 +1220,9 @@
       "ID": "success_brandy",
       "SetID": "6h5h9ho",
       "Name": "The boss",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 97
+      "UsersEstimate": 93
     },
     {
       "ID": "success_derek",
@@ -1241,7 +1246,7 @@
       "Name": "The nice guy",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "success_kathleen",
@@ -1288,7 +1293,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 422,
+      "Progressed": 423,
       "Completed": 5
     }
   ],
@@ -1296,8 +1301,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-12-30T18:09:32.1573048+00:00",
+  "LastChanged_Achievements": "2023-12-30T19:12:13.0088481+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:59.9685233+00:00",
-  "LastUpdate_Ratings": "2023-12-30T18:02:45.6501268+00:00",
-  "LastUpdate_Achievements": "2023-12-30T18:09:32.1573214+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:04:55.4420124+00:00",
+  "LastUpdate_Achievements": "2023-12-30T19:12:13.0088753+00:00"
 }

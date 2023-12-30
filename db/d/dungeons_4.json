@@ -2,13 +2,13 @@
   "ID": "63afbcc46a714796af53032c2b3ed4b3",
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
-  "Ranking_Rating": 323,
+  "Ranking_Rating": 324,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -37,7 +37,7 @@
   "Tags": [],
   "EOS_Progressed": 672,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 3.72,
   "EosHistory": [
@@ -2045,9 +2045,9 @@
       "ID": "ach_main01begin_completed",
       "SetID": "4hg22ll",
       "Name": "The Last Stand",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 591
+      "UsersEstimate": 598
     },
     {
       "ID": "ach_main01begin_die",
@@ -2189,9 +2189,9 @@
       "ID": "ach_main07storm_classified",
       "SetID": "4hg22ll",
       "Name": "Hard Work",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 363
     },
     {
       "ID": "ach_main07storm_completed",
@@ -2245,9 +2245,9 @@
       "ID": "ach_main09journey_completed",
       "SetID": "4hg22ll",
       "Name": "\u201C\u2026 like son\u201D",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 336
+      "UsersEstimate": 343
     },
     {
       "ID": "ach_main09journey_killheroes",
@@ -2293,9 +2293,9 @@
       "ID": "ach_main11blessing_completed",
       "SetID": "4hg22ll",
       "Name": "Tanos\u0027 Crusade Against Thalya",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 302
     },
     {
       "ID": "ach_main11blessing_ghostheroes",
@@ -2542,8 +2542,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2023-12-28T14:01:53.0382272+00:00",
-  "LastChanged_Achievements": "2023-12-30T18:08:52.1281276+00:00",
+  "LastChanged_Achievements": "2023-12-30T19:11:18.6152324+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.4415734+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:57:45.3138312+00:00",
-  "LastUpdate_Achievements": "2023-12-30T18:08:52.1281888+00:00"
+  "LastUpdate_Ratings": "2023-12-30T18:59:50.4705354+00:00",
+  "LastUpdate_Achievements": "2023-12-30T19:11:18.6152941+00:00"
 }

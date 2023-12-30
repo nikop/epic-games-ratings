@@ -1,7 +1,7 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.82 (Ranked 69)  
+Rating: 4.82 (Ranked 70)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -20,12 +20,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Scarlet Orchard | 4.00% | ~789 |
 | Frosts | 4.00% | ~789 |
 | Land of Greed | 4.00% | ~789 |
-| Homesick | 3.00% | ~591 |
-| Fertile Meadows | 3.00% | ~591 |
-| Monastery of the Holy Flame | 3.00% | ~591 |
-| Royal Outpost | 3.00% | ~591 |
-| Watchtower | 3.00% | ~591 |
-| Untamed Wilds | 3.00% | ~591 |
+| Homesick | 3.00% | ~592 |
+| Fertile Meadows | 3.00% | ~592 |
+| Monastery of the Holy Flame | 3.00% | ~592 |
+| Royal Outpost | 3.00% | ~592 |
+| Watchtower | 3.00% | ~592 |
+| Untamed Wilds | 3.00% | ~592 |
 | Ruined Armory | 2.00% | ~394 |
 | Bandit Camp | 2.00% | ~394 |
 | Barren Lands | 2.00% | ~394 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,714 (Ranked 151)  
+Progressed: 19,717 (Ranked 151)  
 Completed: 35 (0.18%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 35 (0.18%) (Ranked 279)
 | 2023-12-27 | 19,458 | 38 |
 | 2023-12-28 | 19,536 | 36 |
 | 2023-12-29 | 19,630 | 36 |
-| 2023-12-30 | 19,714 | 35 |
+| 2023-12-30 | 19,717 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 446  (Ranked 229)  
 Sum: 3,306 (Ranked 176)  

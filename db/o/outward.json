@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4354,
+  "EOS_Progressed": 4355,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -7321,6 +7321,11 @@
       "Time": "2023-12-30T16:05:17.8384499+00:00",
       "NumProgressed": 4354,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-30T19:08:03.1336124+00:00",
+      "NumProgressed": 4355,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7372,7 +7377,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1785
+      "UsersEstimate": 1786
     },
     {
       "ID": "CrowdPleaser",
@@ -7404,7 +7409,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "ForAllAurai_8",
@@ -7436,7 +7441,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "HouseofCards_19",
@@ -7516,7 +7521,7 @@
       "Name": "Ready for Summer",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2133
+      "UsersEstimate": 2134
     },
     {
       "ID": "ReadyforWinter_42",
@@ -7524,7 +7529,7 @@
       "Name": "Ready for Winter",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2699
+      "UsersEstimate": 2700
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -7588,7 +7593,7 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -7652,7 +7657,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3178
+      "UsersEstimate": 3179
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7667,15 +7672,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4354,
+      "Progressed": 4355,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-30T18:04:58.8000836+00:00",
+  "LastChanged_Achievements": "2023-12-30T19:08:03.1336121+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.9488093+00:00",
-  "LastUpdate_Ratings": "2023-12-30T18:02:52.1775563+00:00",
-  "LastUpdate_Achievements": "2023-12-30T18:04:58.8001378+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:05:05.4370945+00:00",
+  "LastUpdate_Achievements": "2023-12-30T19:08:03.1336651+00:00"
 }

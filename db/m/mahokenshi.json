@@ -4,7 +4,7 @@
   "ProductSlug": "mahokenshi-2bffba",
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 565,
+  "Ranking_EOS_NewPlayers": 566,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-01-24T15:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:57:26.5886755+00:00",
   "LastChanged": "2023-03-31T05:57:26.5886756+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:46.135889+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:59:17.5662492+00:00",
-  "LastUpdate_Achievements": "2023-12-30T18:06:25.7084577+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:02:06.8303017+00:00",
+  "LastUpdate_Achievements": "2023-12-30T19:10:02.1467283+00:00"
 }
