@@ -1435,9 +1435,9 @@
       "ID": "KR4_ACHIEVEMENT_MELTINGFURNACE",
       "SetID": "caeik3h",
       "Name": "Presto Logs",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 49
     },
     {
       "ID": "KR4_ACHIEVEMENT_MERCENARIES",
@@ -1688,8 +1688,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-30T06:05:54.356057+00:00",
+  "LastChanged_Achievements": "2023-12-30T07:05:48.7500406+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.1058747+00:00",
-  "LastUpdate_Ratings": "2023-12-30T05:57:58.1905704+00:00",
-  "LastUpdate_Achievements": "2023-12-30T06:05:54.3561352+00:00"
+  "LastUpdate_Ratings": "2023-12-30T06:58:02.3090287+00:00",
+  "LastUpdate_Achievements": "2023-12-30T07:05:48.7501095+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1771,9 +1771,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 165406,
+  "EOS_Progressed": 165413,
   "EOS_Completed": 424,
-  "EOS_NewPlayers": 1451,
+  "EOS_NewPlayers": 1454,
   "EOS_NewCompleters": 37,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -21141,6 +21141,11 @@
       "Time": "2023-12-30T06:03:27.526054+00:00",
       "NumProgressed": 165406,
       "NumCompleted": 424
+    },
+    {
+      "Time": "2023-12-30T07:03:22.8088607+00:00",
+      "NumProgressed": 165413,
+      "NumCompleted": 424
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -21479,9 +21484,9 @@
       "ID": "QUEST_YON",
       "SetID": "ccc0dlh",
       "Name": "Proportions",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 165
+      "UsersEstimate": 331
     },
     {
       "ID": "DEFEAT_DREAMBORN",
@@ -21520,21 +21525,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 164989,
+      "Progressed": 164996,
       "Completed": 1249
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 165406,
+      "Progressed": 165413,
       "Completed": 424
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-29T18:01:44.0299722+00:00",
-  "LastChanged_Achievements": "2023-12-30T06:03:27.5260533+00:00",
+  "LastChanged_Achievements": "2023-12-30T07:03:22.8088602+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:22.7260202+00:00",
-  "LastUpdate_Ratings": "2023-12-30T05:57:16.2531258+00:00",
-  "LastUpdate_Achievements": "2023-12-30T06:03:27.5262524+00:00"
+  "LastUpdate_Ratings": "2023-12-30T06:57:19.9280984+00:00",
+  "LastUpdate_Achievements": "2023-12-30T07:03:22.80898+00:00"
 }

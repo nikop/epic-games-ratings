@@ -3,8 +3,8 @@
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
   "Ranking_Rating": 995,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 166,
@@ -49,7 +49,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1474,
+  "EOS_Progressed": 1475,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 0,
@@ -2909,6 +2909,11 @@
       "Time": "2023-12-30T06:09:58.9478971+00:00",
       "NumProgressed": 1474,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-30T07:09:42.9462535+00:00",
+      "NumProgressed": 1475,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3032,7 +3037,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH_16",
@@ -3064,7 +3069,7 @@
       "Name": "Slayer",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_20",
@@ -3112,7 +3117,7 @@
       "Name": "Fashion Victim",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH_26",
@@ -3152,7 +3157,7 @@
       "Name": "Alchemist",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_31",
@@ -3160,7 +3165,7 @@
       "Name": "Stone Collection",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH_33",
@@ -3192,7 +3197,7 @@
       "Name": "A Queen\u0027s Tale",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_38",
@@ -3207,7 +3212,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1474,
+      "Progressed": 1475,
       "Completed": 3
     }
   ],
@@ -3215,8 +3220,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2023-12-29T23:58:00.9350231+00:00",
-  "LastChanged_Achievements": "2023-12-30T06:09:58.9478968+00:00",
+  "LastChanged_Achievements": "2023-12-30T07:09:42.9462531+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-30T05:58:13.0891067+00:00",
-  "LastUpdate_Achievements": "2023-12-30T06:09:58.9479244+00:00"
+  "LastUpdate_Ratings": "2023-12-30T06:58:17.5697878+00:00",
+  "LastUpdate_Achievements": "2023-12-30T07:09:42.9462867+00:00"
 }

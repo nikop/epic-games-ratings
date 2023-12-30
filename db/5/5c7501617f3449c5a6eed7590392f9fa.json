@@ -4,7 +4,7 @@
   "ProductSlug": "botanicula-50043d",
   "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -807,9 +807,9 @@
       "ID": "Ach-02-parazit",
       "SetID": "2pjo9pi",
       "Name": "Parazit",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Ach-02-strasilka",
@@ -831,9 +831,9 @@
       "ID": "Ach-02-zlo",
       "SetID": "2pjo9pi",
       "Name": "Zlo A",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Ach-03-jepice",
@@ -935,17 +935,17 @@
       "ID": "Ach-04-snek",
       "SetID": "2pjo9pi",
       "Name": "Snek",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "Ach-04-tucnak",
       "SetID": "2pjo9pi",
       "Name": "Tucnak",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "Ach-04-zaba",
@@ -1095,17 +1095,17 @@
       "ID": "Ach-level-2",
       "SetID": "2pjo9pi",
       "Name": "Level 2",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Ach-level-3",
       "SetID": "2pjo9pi",
       "Name": "Level 3",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "Ach-level-4",
@@ -1150,8 +1150,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2023-12-30T06:08:58.4341628+00:00",
+  "LastChanged_Achievements": "2023-12-30T07:08:42.3743342+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:05.6352108+00:00",
-  "LastUpdate_Ratings": "2023-12-30T05:58:35.8850466+00:00",
-  "LastUpdate_Achievements": "2023-12-30T06:08:58.4342041+00:00"
+  "LastUpdate_Ratings": "2023-12-30T06:58:41.0744748+00:00",
+  "LastUpdate_Achievements": "2023-12-30T07:08:42.3743665+00:00"
 }

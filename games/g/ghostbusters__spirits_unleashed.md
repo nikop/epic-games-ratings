@@ -8,9 +8,9 @@ Rating: 4.50 (Ranked 610)
 | Stylish | 10.00% | ~3,292 |
 | Advancement | 8.00% | ~2,634 |
 | Meticulously Efficient | 8.00% | ~2,634 |
-| Discovery | 6.00% | ~1,975 |
-| Solo Capture | 6.00% | ~1,975 |
-| Swift Rift Removers | 6.00% | ~1,975 |
+| Discovery | 6.00% | ~1,976 |
+| Solo Capture | 6.00% | ~1,976 |
+| Swift Rift Removers | 6.00% | ~1,976 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,646 |
 | Fully Upgraded | 5.00% | ~1,646 |
 | Teamwork | 5.00% | ~1,646 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 610)
 | Ultimate Defense | 0.20% | ~66 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,924 (Ranked 134)  
+Progressed: 32,925 (Ranked 134)  
 Completed: 71 (0.22%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 71 (0.22%) (Ranked 270)
 | 2023-12-27 | 32,821 | 70 |
 | 2023-12-28 | 32,854 | 70 |
 | 2023-12-29 | 32,915 | 71 |
-| 2023-12-30 | 32,924 | 71 |
+| 2023-12-30 | 32,925 | 71 |
 ## Awards
 Max (Great for Beginners): 326  (Ranked 255)  
 Sum: 2,939 (Ranked 183)  

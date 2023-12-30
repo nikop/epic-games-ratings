@@ -2,7 +2,7 @@
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
-  "Ranking_Rating": 297,
+  "Ranking_Rating": 282,
   "Ranking_Popularity": 206,
   "Ranking_PopularitySum": 147,
   "Ranking_EOS_Progress": 76,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.66,
+  "Rating": 4.67,
   "NumberOfRatings": 495,
   "RatingHistory": [
     {
@@ -2336,6 +2336,12 @@
       "Rating": 4.66,
       "NumberOfAwards": 4932,
       "NumberOfAwardsMax": 589
+    },
+    {
+      "Time": "2023-12-30T06:57:05.3369297+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4932,
+      "NumberOfAwardsMax": 589
     }
   ],
   "ReviewsDisabled": false,
@@ -2410,9 +2416,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 222608,
+  "EOS_Progressed": 222612,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 1632,
+  "EOS_NewPlayers": 1628,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -31590,6 +31596,11 @@
       "Time": "2023-12-30T06:05:29.5378897+00:00",
       "NumProgressed": 222608,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-12-30T07:05:24.2822614+00:00",
+      "NumProgressed": 222612,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 44,
@@ -31625,7 +31636,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 13356
+      "UsersEstimate": 13357
     },
     {
       "ID": "CompleteMastery",
@@ -31657,7 +31668,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13356
+      "UsersEstimate": 13357
     },
     {
       "ID": "GearUp",
@@ -31681,7 +31692,7 @@
       "Name": "Happy little accidents",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 11130
+      "UsersEstimate": 11131
     },
     {
       "ID": "HappyPlanning",
@@ -31777,7 +31788,7 @@
       "Name": "Okkoto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 11130
+      "UsersEstimate": 11131
     },
     {
       "ID": "OldMan",
@@ -31801,7 +31812,7 @@
       "Name": "Prisoners",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 11130
+      "UsersEstimate": 11131
     },
     {
       "ID": "ReleaseTheKraken",
@@ -31865,7 +31876,7 @@
       "Name": "The Cave",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     },
     {
       "ID": "TheEnd",
@@ -31913,7 +31924,7 @@
       "Name": "Too Early",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 11130
+      "UsersEstimate": 11131
     },
     {
       "ID": "Warzone",
@@ -31921,7 +31932,7 @@
       "Name": "Warzone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13356
+      "UsersEstimate": 13357
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -31929,7 +31940,7 @@
       "Name": "When Cut Across the Neck",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     },
     {
       "ID": "WinnerWinner",
@@ -31952,15 +31963,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 222608,
+      "Progressed": 222612,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2023-12-28T18:00:11.2894316+00:00",
-  "LastChanged_Achievements": "2023-12-30T06:05:29.5378892+00:00",
+  "LastChanged": "2023-12-30T06:57:05.3369295+00:00",
+  "LastChanged_Achievements": "2023-12-30T07:05:24.282261+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:16.1006959+00:00",
-  "LastUpdate_Ratings": "2023-12-30T05:03:00.0705353+00:00",
-  "LastUpdate_Achievements": "2023-12-30T06:05:29.5380765+00:00"
+  "LastUpdate_Ratings": "2023-12-30T06:57:05.3369302+00:00",
+  "LastUpdate_Achievements": "2023-12-30T07:05:24.2823923+00:00"
 }

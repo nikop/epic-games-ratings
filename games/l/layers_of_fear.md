@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 84.00% | ~192 |
-| A piece of the story | 60.00% | ~137 |
-| Wanderer | 54.00% | ~124 |
-| It's covered up for a reason | 52.00% | ~119 |
-| Scraps of love | 46.00% | ~105 |
-| The artist’s impression | 45.00% | ~103 |
-| Do what you have to | 43.00% | ~98 |
-| Sign of weakness | 39.00% | ~89 |
+| Something important | 84.00% | ~193 |
+| A piece of the story | 60.00% | ~138 |
+| Wanderer | 53.00% | ~122 |
+| It's covered up for a reason | 52.00% | ~120 |
+| Scraps of love | 46.00% | ~106 |
+| The artist’s impression | 44.00% | ~101 |
+| Do what you have to | 43.00% | ~99 |
+| Sign of weakness | 39.00% | ~90 |
 | Refuse to look | 35.00% | ~80 |
 | Face your fears | 28.00% | ~64 |
 | Finished it | 27.00% | ~62 |
 | Whispers long forgotten | 16.00% | ~37 |
-| A Slice of Life | 12.00% | ~27 |
-| Sound Bite | 12.00% | ~27 |
-| The art of movement | 12.00% | ~27 |
+| A Slice of Life | 12.00% | ~28 |
+| Sound Bite | 12.00% | ~28 |
+| The art of movement | 12.00% | ~28 |
 | Debut | 11.00% | ~25 |
 | Playtime | 11.00% | ~25 |
 | Tough conversation | 11.00% | ~25 |
@@ -32,7 +32,7 @@
 | Casting Finished | 6.00% | ~14 |
 | Heavy Burden | 6.00% | ~14 |
 | Fisherman | 6.00% | ~14 |
-| Instinct of self-preservation | 5.00% | ~11 |
+| Instinct of self-preservation | 5.00% | ~12 |
 | Something to think about | 4.00% | ~9 |
 | I remember It Like Was Yesterday | 4.00% | ~9 |
 | The Perfect Storm | 4.00% | ~9 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229 (Ranked 413)  
+Progressed: 230 (Ranked 413)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,4 +125,4 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-27 | 213 | 0 |
 | 2023-12-28 | 220 | 0 |
 | 2023-12-29 | 227 | 0 |
-| 2023-12-30 | 229 | 0 |
+| 2023-12-30 | 230 | 0 |

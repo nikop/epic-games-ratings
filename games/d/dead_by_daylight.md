@@ -1,41 +1,41 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.51 (Ranked 588)  
+Rating: 4.51 (Ranked 589)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 5.00% | ~56,428 |
-| Skillful | 5.00% | ~56,428 |
-| Zealous | 4.00% | ~45,143 |
-| Not half bad | 4.00% | ~45,143 |
-| Make Some Noise | 4.00% | ~45,143 |
-| No one left behind | 3.00% | ~33,857 |
-| Handyman | 3.00% | ~33,857 |
-| Apt Survivor | 3.00% | ~33,857 |
-| Survival Treasures | 3.00% | ~33,857 |
-| I | 3.00% | ~33,857 |
-| Sorted | 3.00% | ~33,857 |
-| Resurgence | 3.00% | ~33,857 |
-| The Grand Sacrifice | 2.00% | ~22,571 |
-| Agonizing Escape | 2.00% | ~22,571 |
-| Backdoor Escape | 2.00% | ~22,571 |
-| I've got your back | 2.00% | ~22,571 |
-| Medic | 2.00% | ~22,571 |
-| Perfect Escape | 2.00% | ~22,571 |
-| Perfect Killing | 2.00% | ~22,571 |
-| Bloody Millionaire | 2.00% | ~22,571 |
-| Apt Killer | 2.00% | ~22,571 |
-| Risk it all | 2.00% | ~22,571 |
-| II | 2.00% | ~22,571 |
-| III | 2.00% | ~22,571 |
-| Engineer | 2.00% | ~22,571 |
-| Wounded Healer | 2.00% | ~22,571 |
-| Healthy Obsession | 2.00% | ~22,571 |
-| Close Shave | 2.00% | ~22,571 |
-| Preemptive Strike | 2.00% | ~22,571 |
-| Humanitarian | 2.00% | ~22,571 |
+| It wakes | 5.00% | ~56,431 |
+| Skillful | 5.00% | ~56,431 |
+| Zealous | 4.00% | ~45,145 |
+| Not half bad | 4.00% | ~45,145 |
+| Make Some Noise | 4.00% | ~45,145 |
+| No one left behind | 3.00% | ~33,859 |
+| Handyman | 3.00% | ~33,859 |
+| Apt Survivor | 3.00% | ~33,859 |
+| Survival Treasures | 3.00% | ~33,859 |
+| I | 3.00% | ~33,859 |
+| Sorted | 3.00% | ~33,859 |
+| Resurgence | 3.00% | ~33,859 |
+| The Grand Sacrifice | 2.00% | ~22,572 |
+| Agonizing Escape | 2.00% | ~22,572 |
+| Backdoor Escape | 2.00% | ~22,572 |
+| I've got your back | 2.00% | ~22,572 |
+| Medic | 2.00% | ~22,572 |
+| Perfect Escape | 2.00% | ~22,572 |
+| Perfect Killing | 2.00% | ~22,572 |
+| Bloody Millionaire | 2.00% | ~22,572 |
+| Apt Killer | 2.00% | ~22,572 |
+| Risk it all | 2.00% | ~22,572 |
+| II | 2.00% | ~22,572 |
+| III | 2.00% | ~22,572 |
+| Engineer | 2.00% | ~22,572 |
+| Wounded Healer | 2.00% | ~22,572 |
+| Healthy Obsession | 2.00% | ~22,572 |
+| Close Shave | 2.00% | ~22,572 |
+| Preemptive Strike | 2.00% | ~22,572 |
+| Humanitarian | 2.00% | ~22,572 |
 | Blood on your hands | 1.00% | ~11,286 |
 | Escape Artist | 1.00% | ~11,286 |
 | Made it out alive! | 1.00% | ~11,286 |
@@ -63,16 +63,16 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 1.00% | ~11,286 |
 | Second Act | 1.00% | ~11,286 |
 | MU/TH/UR Dearest | 1.00% | ~11,286 |
-| Blood on your face | 0.90% | ~10,157 |
-| Nerves of steel | 0.90% | ~10,157 |
-| Shock Therapy | 0.90% | ~10,157 |
-| Cottage Owner | 0.90% | ~10,157 |
-| Campbell's Chapel Legacy | 0.90% | ~10,157 |
-| Ancestor's Rite | 0.90% | ~10,157 |
-| Outrun Evil | 0.90% | ~10,157 |
-| Grim Pilgrimage | 0.90% | ~10,157 |
-| A Fast Death | 0.90% | ~10,157 |
-| Outta Nowhere | 0.90% | ~10,157 |
+| Blood on your face | 0.90% | ~10,158 |
+| Nerves of steel | 0.90% | ~10,158 |
+| Shock Therapy | 0.90% | ~10,158 |
+| Cottage Owner | 0.90% | ~10,158 |
+| Campbell's Chapel Legacy | 0.90% | ~10,158 |
+| Ancestor's Rite | 0.90% | ~10,158 |
+| Outrun Evil | 0.90% | ~10,158 |
+| Grim Pilgrimage | 0.90% | ~10,158 |
+| A Fast Death | 0.90% | ~10,158 |
+| Outta Nowhere | 0.90% | ~10,158 |
 | A bite for the Entity | 0.80% | ~9,029 |
 | Leapfrog | 0.80% | ~9,029 |
 | Escaping the Nightmare | 0.80% | ~9,029 |
@@ -87,11 +87,11 @@ Number of Ratings: 70,340  (23.09.2022)
 | End of Days | 0.70% | ~7,900 |
 | Insult and Injury | 0.70% | ~7,900 |
 | Rebuilding The Borgo | 0.70% | ~7,900 |
-| Jump Scares | 0.60% | ~6,771 |
-| Game Over | 0.60% | ~6,771 |
-| Party Crasher | 0.60% | ~6,771 |
-| High Speed Pursuit | 0.60% | ~6,771 |
-| Complete the Evolution | 0.60% | ~6,771 |
+| Jump Scares | 0.60% | ~6,772 |
+| Game Over | 0.60% | ~6,772 |
+| Party Crasher | 0.60% | ~6,772 |
+| High Speed Pursuit | 0.60% | ~6,772 |
+| Complete the Evolution | 0.60% | ~6,772 |
 | Blood in your mouth | 0.50% | ~5,643 |
 | Deep Cleansing | 0.50% | ~5,643 |
 | Texas BBQ | 0.50% | ~5,643 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,129 |
 | Adept Good Guy | 0.10% | ~1,129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,128,570 (Ranked 13)  
+Progressed: 1,128,622 (Ranked 13)  
 Completed: 65 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -493,7 +493,7 @@ Completed: 65 (0.01%) (Ranked 368)
 | 2023-12-27 | 1,123,455 | 65 |
 | 2023-12-28 | 1,125,623 | 65 |
 | 2023-12-29 | 1,127,985 | 65 |
-| 2023-12-30 | 1,128,570 | 65 |
+| 2023-12-30 | 1,128,622 | 65 |
 ## Awards
 Max (Diverse Characters): 38,806  (Ranked 15)  
 Sum: 293,262 (Ranked 12)  

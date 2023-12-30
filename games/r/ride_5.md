@@ -13,11 +13,11 @@ Rating: 4.48 (Ranked 648)
 | Rivals to the End | 30.00% | ~931 |
 | Champagne Spray | 28.00% | ~869 |
 | We're Going to Need a Bigger Garage | 26.00% | ~807 |
-| Quick Pit Stop | 21.00% | ~651 |
-| Restored and Ready | 20.00% | ~620 |
-| I Want One Too! | 20.00% | ~620 |
-| Legendary!!! | 19.00% | ~589 |
-| Go-Faster Stripes | 17.00% | ~527 |
+| Quick Pit Stop | 21.00% | ~652 |
+| Restored and Ready | 20.00% | ~621 |
+| I Want One Too! | 20.00% | ~621 |
+| Legendary!!! | 19.00% | ~590 |
+| Go-Faster Stripes | 17.00% | ~528 |
 | I'm Here Too! | 15.00% | ~465 |
 | We've Just Begun | 14.00% | ~434 |
 | Is It the Right Size? | 9.00% | ~279 |
@@ -55,7 +55,7 @@ Rating: 4.48 (Ranked 648)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,102 (Ranked 224)  
+Progressed: 3,103 (Ranked 224)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-27 | 3,044 | 0 |
 | 2023-12-28 | 3,069 | 0 |
 | 2023-12-29 | 3,096 | 0 |
-| 2023-12-30 | 3,102 | 0 |
+| 2023-12-30 | 3,103 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

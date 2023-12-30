@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -999,9 +999,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7483,
+  "EOS_Progressed": 7484,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9499,6 +9499,11 @@
       "Time": "2023-12-30T01:53:48.9976986+00:00",
       "NumProgressed": 7483,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T07:09:38.382488+00:00",
+      "NumProgressed": 7484,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9566,7 +9571,7 @@
       "Name": "Pirate Cleansing",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "Destroy_Any_Faction",
@@ -9614,7 +9619,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5762
+      "UsersEstimate": 5763
     },
     {
       "ID": "First_Race_Met",
@@ -9630,7 +9635,7 @@
       "Name": "Design a Ship",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 2020
+      "UsersEstimate": 2021
     },
     {
       "ID": "First_Stream_Travel",
@@ -9646,7 +9651,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5687
+      "UsersEstimate": 5688
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -9998,7 +10003,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4864
+      "UsersEstimate": 4865
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -10038,7 +10043,7 @@
       "Name": "Win an Immense Game",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "Win_Influence",
@@ -10085,15 +10090,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7483,
+      "Progressed": 7484,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-12-27T21:02:14.3045553+00:00",
-  "LastChanged_Achievements": "2023-12-30T06:09:54.4921219+00:00",
+  "LastChanged_Achievements": "2023-12-30T07:09:38.3824877+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:11.9243121+00:00",
-  "LastUpdate_Ratings": "2023-12-30T05:57:59.9510173+00:00",
-  "LastUpdate_Achievements": "2023-12-30T06:09:54.4922106+00:00"
+  "LastUpdate_Ratings": "2023-12-30T06:58:04.2577973+00:00",
+  "LastUpdate_Achievements": "2023-12-30T07:09:38.3826257+00:00"
 }

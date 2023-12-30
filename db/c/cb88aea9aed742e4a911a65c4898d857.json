@@ -2,10 +2,10 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 297,
+  "Ranking_Rating": 298,
   "Ranking_Popularity": 420,
   "Ranking_PopularitySum": 488,
-  "Ranking_EOS_Progress": 185,
+  "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 151,
@@ -215,9 +215,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 8736,
+  "EOS_Progressed": 8744,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2214,
+  "EOS_NewPlayers": 2206,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2935,6 +2935,11 @@
       "Time": "2023-12-30T06:09:45.6740692+00:00",
       "NumProgressed": 8736,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T07:09:29.6890472+00:00",
+      "NumProgressed": 8744,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -2961,17 +2966,17 @@
       "ID": "04_TheTradeEmpire",
       "SetID": "37a94m8",
       "Name": "Trade Empire",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 61
     },
     {
       "ID": "05_TheComorraghSurvivors",
       "SetID": "37a94m8",
       "Name": "Commorragh Survivors",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 52
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -3081,9 +3086,9 @@
       "ID": "19_TheVoidWolf",
       "SetID": "37a94m8",
       "Name": "Void Wolf",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 87
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -3105,9 +3110,9 @@
       "ID": "22_PerfectTiming",
       "SetID": "37a94m8",
       "Name": "Perfect Timing",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 175
     },
     {
       "ID": "23_DynastyRestored",
@@ -3153,9 +3158,9 @@
       "ID": "28_TheLightOfAstronomicon",
       "SetID": "37a94m8",
       "Name": "Light of the Astronomican",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 175
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -3201,9 +3206,9 @@
       "ID": "34_CuriosityIsNotAVice",
       "SetID": "37a94m8",
       "Name": "Curiosity Is Not a Vice",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 87
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -3329,9 +3334,9 @@
       "ID": "50_Whodunit",
       "SetID": "37a94m8",
       "Name": "Whodunit?",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 52
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -3466,7 +3471,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8736,
+      "Progressed": 8744,
       "Completed": 0
     }
   ],
@@ -3474,8 +3479,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-30T04:58:20.1392626+00:00",
-  "LastChanged_Achievements": "2023-12-30T06:09:45.6740687+00:00",
+  "LastChanged_Achievements": "2023-12-30T07:09:29.6890468+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-30T05:58:15.607687+00:00",
-  "LastUpdate_Achievements": "2023-12-30T06:09:45.6741332+00:00"
+  "LastUpdate_Ratings": "2023-12-30T06:58:20.3983703+00:00",
+  "LastUpdate_Achievements": "2023-12-30T07:09:29.6890985+00:00"
 }

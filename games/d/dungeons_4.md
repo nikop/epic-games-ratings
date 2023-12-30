@@ -5,70 +5,70 @@ Rating: 4.65 (Ranked 323)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 88.00% | ~583 |
-| Thalya – Simply Immortal | 88.00% | ~583 |
+| The Last Stand | 88.00% | ~584 |
+| Thalya – Simply Immortal | 88.00% | ~584 |
 | For the Horde! | 82.00% | ~544 |
-| Hammer Time, Round Two | 81.00% | ~537 |
+| Hammer Time, Round Two | 81.00% | ~538 |
 | The Hellwoods | 77.00% | ~511 |
-| The Plains of Strothalm | 73.00% | ~484 |
-| Experienced Thalya | 72.00% | ~477 |
-| Bad Elves Go Everywhere | 69.00% | ~457 |
-| Thalya's Concentrated Fury | 68.00% | ~451 |
-| Heroes’ Gorge | 64.00% | ~424 |
+| The Plains of Strothalm | 73.00% | ~485 |
+| Experienced Thalya | 72.00% | ~478 |
+| Bad Elves Go Everywhere | 69.00% | ~458 |
+| Thalya's Concentrated Fury | 68.00% | ~452 |
+| Heroes’ Gorge | 64.00% | ~425 |
 | Master of Magic | 63.00% | ~418 |
 | Unicorn steaks – fresh off the hoof! | 63.00% | ~418 |
-| Magic Accidents | 59.00% | ~391 |
-| The Ascent | 59.00% | ~391 |
-| It's Warm and Cozy at Home | 59.00% | ~391 |
-| Minions, Minions! | 56.00% | ~371 |
+| Magic Accidents | 59.00% | ~392 |
+| The Ascent | 59.00% | ~392 |
+| It's Warm and Cozy at Home | 59.00% | ~392 |
+| Minions, Minions! | 56.00% | ~372 |
 | Trap Master | 55.00% | ~365 |
-| Hard Work | 54.00% | ~358 |
-| The Big Eaty | 54.00% | ~358 |
-| “… like son” | 51.00% | ~338 |
+| Hard Work | 54.00% | ~359 |
+| The Big Eaty | 54.00% | ~359 |
+| “… like son” | 51.00% | ~339 |
 | YOU SHALL NOT PASS! | 50.00% | ~332 |
-| Shame! Shame! Shame! | 48.00% | ~318 |
 | The Cathedral of Light | 47.00% | ~312 |
-| Pure Dynamite! | 45.00% | ~298 |
-| Dungeonlord Gorgu | 45.00% | ~298 |
-| Tanos' Crusade Against Thalya | 45.00% | ~298 |
-| Mana Cannon | 42.00% | ~278 |
+| Shame! Shame! Shame! | 47.00% | ~312 |
+| Pure Dynamite! | 45.00% | ~299 |
+| Dungeonlord Gorgu | 45.00% | ~299 |
+| Tanos' Crusade Against Thalya | 45.00% | ~299 |
+| Mana Cannon | 42.00% | ~279 |
 | All’s Well That Ends Evil | 41.00% | ~272 |
 | The Duel | 38.00% | ~252 |
 | Unstoppable Horde | 35.00% | ~232 |
 | If Looks Could Kill | 35.00% | ~232 |
-| Master of the Undead | 34.00% | ~225 |
+| Master of the Undead | 34.00% | ~226 |
 | The Finitude Drill | 32.00% | ~212 |
 | Ghost Pirates? Ghost Heroes! | 30.00% | ~199 |
-| Doom Hill | 29.00% | ~192 |
+| Doom Hill | 29.00% | ~193 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~186 |
 | Forbidden Knowledge | 28.00% | ~186 |
 | Hungry, Hungry Gorgu! | 27.00% | ~179 |
 | Stop Tanos! | 27.00% | ~179 |
 | Brimstone Shaken, Not Stirred | 27.00% | ~179 |
-| Sabotage! | 26.00% | ~172 |
-| Raiders of the Lost Stone | 26.00% | ~172 |
-| The Rune Sockets of Finitude (Part 1) | 26.00% | ~172 |
+| Sabotage! | 26.00% | ~173 |
+| Raiders of the Lost Stone | 26.00% | ~173 |
+| The Rune Sockets of Finitude (Part 1) | 26.00% | ~173 |
 | Bonus Evilness | 25.00% | ~166 |
 | The Rune Sockets of Finitude (Part 2) | 24.00% | ~159 |
 | The Last Stand - This Time For Real! | 22.00% | ~146 |
-| Rubble and Ashes | 21.00% | ~139 |
+| Rubble and Ashes | 20.00% | ~133 |
 | Lavalumps on Ice! | 19.00% | ~126 |
-| My Little Torture Chamber | 18.00% | ~119 |
-| To the Max! | 18.00% | ~119 |
-| To Infinity And Beyond! | 18.00% | ~119 |
+| My Little Torture Chamber | 18.00% | ~120 |
+| To the Max! | 18.00% | ~120 |
+| To Infinity And Beyond! | 18.00% | ~120 |
 | Sacrificial Pit = Garbage Disposal? | 17.00% | ~113 |
 | Evilification | 17.00% | ~113 |
 | Heal Heal Blessing | 16.00% | ~106 |
-| Mirror, Mirror | 15.00% | ~99 |
-| Untouchable | 15.00% | ~99 |
+| Mirror, Mirror | 15.00% | ~100 |
+| Untouchable | 15.00% | ~100 |
 | Laser Eyes Are So Useless | 13.00% | ~86 |
 | Gorgu is in the Best of Health | 12.00% | ~80 |
 | Hands Off My Stones | 12.00% | ~80 |
 | No Mana, No Cry | 10.00% | ~66 |
 | I Don't Need Any Help | 9.00% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 663 (Ranked 318)  
-Completed: 24 (3.62%) (Ranked 100)  
+Progressed: 664 (Ranked 317)  
+Completed: 24 (3.61%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -122,7 +122,7 @@ Completed: 24 (3.62%) (Ranked 100)
 | 2023-12-27 | 650 | 24 |
 | 2023-12-28 | 654 | 24 |
 | 2023-12-29 | 661 | 24 |
-| 2023-12-30 | 663 | 24 |
+| 2023-12-30 | 664 | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

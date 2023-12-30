@@ -645,9 +645,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6506,
+  "EOS_Progressed": 6509,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 483,
+  "EOS_NewPlayers": 484,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9710,6 +9710,11 @@
       "Time": "2023-12-30T06:05:21.0250904+00:00",
       "NumProgressed": 6506,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-30T07:05:15.7811027+00:00",
+      "NumProgressed": 6509,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9761,7 +9766,7 @@
       "Name": "Full Ascension",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "15",
@@ -9865,7 +9870,7 @@
       "Name": "Bone Peddler",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "27",
@@ -9881,7 +9886,7 @@
       "Name": "From Friends to Family",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "29",
@@ -9913,7 +9918,7 @@
       "Name": "Magical Synergy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "32",
@@ -9935,9 +9940,9 @@
       "ID": "34",
       "SetID": "3aa2279",
       "Name": "In a Liege of Your Own",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 325
     },
     {
       "ID": "35",
@@ -10200,13 +10205,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6506,
+      "Progressed": 6509,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6506,
+      "Progressed": 6509,
       "Completed": 7
     }
   ],
@@ -10214,8 +10219,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-30T03:57:43.2948826+00:00",
-  "LastChanged_Achievements": "2023-12-30T06:05:21.0250901+00:00",
+  "LastChanged_Achievements": "2023-12-30T07:05:15.7811024+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-30T05:57:55.8532567+00:00",
-  "LastUpdate_Achievements": "2023-12-30T06:05:21.0251709+00:00"
+  "LastUpdate_Ratings": "2023-12-30T06:57:59.898802+00:00",
+  "LastUpdate_Achievements": "2023-12-30T07:05:15.7811764+00:00"
 }

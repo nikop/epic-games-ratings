@@ -6,15 +6,15 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~610 |
-| Lost and Found | 7.00% | ~388 |
+| Malpractice Assurance | 11.00% | ~611 |
+| Lost and Found | 7.00% | ~389 |
 | Autodidact | 6.00% | ~7,841 |
 | This guy... again? | 6.00% | ~333 |
 | This Belongs in a Museum | 5.00% | ~6,534 |
 | Creep and Sleep | 5.00% | ~6,534 |
 | Overdue Notice | 5.00% | ~6,534 |
-| Ploughshares to Swords | 5.00% | ~277 |
-| Bloody Graduation | 5.00% | ~277 |
+| Ploughshares to Swords | 5.00% | ~278 |
+| Bloody Graduation | 5.00% | ~278 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,227 |
 | Serenity Now! | 4.00% | ~5,227 |
 | It Rings a Bell | 4.00% | ~5,227 |
@@ -28,6 +28,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Friends 'Til the End | 4.00% | ~222 |
 | Dissector | 3.00% | ~3,920 |
 | Banishment | 3.00% | ~3,920 |
+| Now Stay Dead | 3.00% | ~3,920 |
 | It Happens | 3.00% | ~3,920 |
 | Spelunker | 3.00% | ~3,920 |
 | Merry Time | 3.00% | ~3,920 |
@@ -48,7 +49,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Predator | 2.00% | ~2,614 |
 | Deprogramming | 2.00% | ~2,614 |
 | Ichthyophobic | 2.00% | ~2,614 |
-| Now Stay Dead | 2.00% | ~2,614 |
 | Reverse Banditry | 2.00% | ~2,614 |
 | A Clear Conscience | 2.00% | ~2,614 |
 | When You Want Something Done Right | 2.00% | ~2,614 |
@@ -61,8 +61,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Eyes Up | 1.00% | ~1,307 |
 | Handled | 1.00% | ~1,307 |
 | Body of Work | 1.00% | ~1,307 |
-| Slap on the Wrist | 1.00% | ~55 |
-| For Old Time' Sake | 1.00% | ~55 |
+| Slap on the Wrist | 1.00% | ~56 |
+| For Old Time' Sake | 1.00% | ~56 |
 | Shrine of Reflection | 0.90% | ~1,176 |
 | Clearing the Ledger | 0.80% | ~1,045 |
 | Hat Trick | 0.70% | ~915 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,677 (Ranked 88)  
+Progressed: 130,683 (Ranked 88)  
 Completed: 3 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,10 +330,10 @@ Completed: 3 (0.00%) (Ranked 390)
 | 2023-12-27 | 130,259 | 3 |
 | 2023-12-28 | 130,422 | 3 |
 | 2023-12-29 | 130,627 | 3 |
-| 2023-12-30 | 130,677 | 3 |
+| 2023-12-30 | 130,683 | 3 |
 ## Awards
 Max (Character Customization): 7,905  (Ranked 50)  
-Sum: 21,250 (Ranked 58)  
+Sum: 21,252 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -344,7 +344,7 @@ Diff (max vs sum): -8
 | This game has Amazing Characters | 1,504 |
 | This game is Extremely Fun | 1,501 |
 | This game has Unique Visuals | 1,437 |
-| This game has Amazing Storytelling | 1,418 |
+| This game has Amazing Storytelling | 1,420 |
 | This game has Quickly Understood Controls | 1,391 |
 | This game has a Creative Community | 1,068 |
 | This game has Obsessive Gameplay | 585 |
@@ -688,4 +688,4 @@ Diff (max vs sum): -8
 | 2023-12-27 | 4.68 | - | 7,882 | 21,156 |
 | 2023-12-28 | 4.68 | - | 7,888 | 21,194 |
 | 2023-12-29 | 4.68 | - | 7,899 | 21,240 |
-| 2023-12-30 | 4.68 | - | 7,905 | 21,250 |
+| 2023-12-30 | 4.68 | - | 7,905 | 21,252 |

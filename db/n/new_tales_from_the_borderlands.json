@@ -3,11 +3,11 @@
   "Name": "New Tales from the Borderlands",
   "ProductSlug": "new-tales-from-the-borderlands",
   "Ranking_Rating": 1003,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3771,
+  "EOS_Progressed": 3772,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2117,6 +2117,11 @@
       "Time": "2023-12-29T17:03:22.8963782+00:00",
       "NumProgressed": 3771,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T07:03:29.6983007+00:00",
+      "NumProgressed": 3772,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2128,7 +2133,7 @@
       "Name": "You\u0027re Not Naked",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -2224,7 +2229,7 @@
       "Name": "Tale in the Toilet",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -2232,7 +2237,7 @@
       "Name": "You Rich Now!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -2240,7 +2245,7 @@
       "Name": "We\u0027re In",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1245
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -2248,7 +2253,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1923
+      "UsersEstimate": 1924
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -2296,7 +2301,7 @@
       "Name": "Those Were the Days...",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
@@ -2335,7 +2340,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3771,
+      "Progressed": 3772,
       "Completed": 0
     }
   ],
@@ -2343,8 +2348,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-12-30T06:03:34.4076746+00:00",
+  "LastChanged_Achievements": "2023-12-30T07:03:29.6983003+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1319758+00:00",
-  "LastUpdate_Ratings": "2023-12-30T05:59:37.4333688+00:00",
-  "LastUpdate_Achievements": "2023-12-30T06:03:34.4076949+00:00"
+  "LastUpdate_Ratings": "2023-12-30T06:59:43.2460467+00:00",
+  "LastUpdate_Achievements": "2023-12-30T07:03:29.6983192+00:00"
 }

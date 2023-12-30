@@ -3,12 +3,12 @@
   "Name": "The First Tree",
   "ProductSlug": "the-first-tree",
   "Ranking_Rating": 1030,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -277,7 +277,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39732,
+  "EOS_Progressed": 39734,
   "EOS_Completed": 125,
   "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 4,
@@ -22457,6 +22457,11 @@
       "Time": "2023-12-30T06:08:29.6311777+00:00",
       "NumProgressed": 39732,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-12-30T07:08:13.2788504+00:00",
+      "NumProgressed": 39734,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 14,
@@ -22484,7 +22489,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 10330
+      "UsersEstimate": 10331
     },
     {
       "ID": "allItems",
@@ -22556,7 +22561,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 30594
+      "UsersEstimate": 30595
     },
     {
       "ID": "roots",
@@ -22564,7 +22569,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6754
+      "UsersEstimate": 6755
     },
     {
       "ID": "secretItem",
@@ -22579,15 +22584,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 39732,
+      "Progressed": 39734,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-12-25T15:57:40.6217361+00:00",
-  "LastChanged_Achievements": "2023-12-30T06:08:29.6311774+00:00",
+  "LastChanged_Achievements": "2023-12-30T07:08:13.2788501+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:16.6802538+00:00",
-  "LastUpdate_Ratings": "2023-12-30T05:59:54.4673669+00:00",
-  "LastUpdate_Achievements": "2023-12-30T06:08:29.6313001+00:00"
+  "LastUpdate_Ratings": "2023-12-30T07:00:00.0548597+00:00",
+  "LastUpdate_Achievements": "2023-12-30T07:08:13.2789612+00:00"
 }

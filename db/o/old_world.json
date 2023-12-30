@@ -2208,9 +2208,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16017,
+  "EOS_Progressed": 16018,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18583,6 +18583,11 @@
       "Time": "2023-12-30T04:09:39.6755635+00:00",
       "NumProgressed": 16017,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-30T07:09:50.1868491+00:00",
+      "NumProgressed": 16018,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19016,9 +19021,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ENLIGHTENED",
       "SetID": "9201eeb",
       "Name": "Enlightened",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_EXPLORER",
@@ -20536,9 +20541,9 @@
       "ID": "ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS",
       "SetID": "9201eeb",
       "Name": "Industrial Progress",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
@@ -21457,21 +21462,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16017,
+      "Progressed": 16018,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16017,
+      "Progressed": 16018,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-29T16:02:55.9624641+00:00",
-  "LastChanged_Achievements": "2023-12-30T06:10:06.6541203+00:00",
+  "LastChanged_Achievements": "2023-12-30T07:09:50.1868488+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:47.5878363+00:00",
-  "LastUpdate_Ratings": "2023-12-30T06:02:58.1077874+00:00",
-  "LastUpdate_Achievements": "2023-12-30T06:10:06.6551108+00:00"
+  "LastUpdate_Ratings": "2023-12-30T07:02:51.7175777+00:00",
+  "LastUpdate_Achievements": "2023-12-30T07:09:50.1878191+00:00"
 }

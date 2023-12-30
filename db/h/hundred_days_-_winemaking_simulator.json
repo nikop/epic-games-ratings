@@ -6,7 +6,7 @@
   "Ranking_Popularity": 293,
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 155,
-  "Ranking_EOS_Completed": 323,
+  "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
@@ -1105,9 +1105,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 18292,
+  "EOS_Progressed": 18294,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1192,
+  "EOS_NewPlayers": 1183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -15445,6 +15445,11 @@
       "Time": "2023-12-30T06:09:34.462449+00:00",
       "NumProgressed": 18292,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-30T07:09:18.402898+00:00",
+      "NumProgressed": 18294,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -15513,7 +15518,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "a_2",
@@ -15553,7 +15558,7 @@
       "Name": "Quack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "a_25",
@@ -15704,7 +15709,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 18292,
+      "Progressed": 18294,
       "Completed": 13
     }
   ],
@@ -15712,8 +15717,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-12-27T10:58:40.8627421+00:00",
-  "LastChanged_Achievements": "2023-12-30T06:09:34.4624485+00:00",
+  "LastChanged_Achievements": "2023-12-30T07:09:18.4028977+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:09.648683+00:00",
-  "LastUpdate_Ratings": "2023-12-30T05:59:57.193394+00:00",
-  "LastUpdate_Achievements": "2023-12-30T06:09:34.4625215+00:00"
+  "LastUpdate_Ratings": "2023-12-30T07:00:02.824087+00:00",
+  "LastUpdate_Achievements": "2023-12-30T07:09:18.4029762+00:00"
 }

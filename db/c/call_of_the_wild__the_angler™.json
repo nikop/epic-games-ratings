@@ -1015,9 +1015,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7739,
+  "EOS_Progressed": 7741,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 337,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12680,6 +12680,11 @@
       "Time": "2023-12-30T05:04:20.8105365+00:00",
       "NumProgressed": 7739,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T07:04:01.4982252+00:00",
+      "NumProgressed": 7741,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -12699,7 +12704,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -12747,7 +12752,7 @@
       "Name": "Scaling up",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -13010,13 +13015,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7739,
+      "Progressed": 7741,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7111,
+      "Progressed": 7113,
       "Completed": 113
     }
   ],
@@ -13024,8 +13029,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-26T19:00:49.2434236+00:00",
-  "LastChanged_Achievements": "2023-12-30T06:04:05.8172579+00:00",
+  "LastChanged_Achievements": "2023-12-30T07:04:01.4982247+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:25.278975+00:00",
-  "LastUpdate_Ratings": "2023-12-30T05:57:46.3467467+00:00",
-  "LastUpdate_Achievements": "2023-12-30T06:04:05.8173392+00:00"
+  "LastUpdate_Ratings": "2023-12-30T06:57:50.2720036+00:00",
+  "LastUpdate_Achievements": "2023-12-30T07:04:01.4982913+00:00"
 }

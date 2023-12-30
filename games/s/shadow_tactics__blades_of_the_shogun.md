@@ -1,7 +1,7 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.66 (Ranked 297)  
+Rating: 4.67 (Ranked 282)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -19,13 +19,13 @@ Number of Ratings: 495  (23.09.2022)
 | Happy Planning | 7.00% | ~15,583 |
 | Jonin | 7.00% | ~15,583 |
 | Mugen Unchained | 7.00% | ~15,583 |
-| Chunin | 6.00% | ~13,356 |
-| Flying Rocks | 6.00% | ~13,356 |
-| Warzone | 6.00% | ~13,356 |
-| Happy little accidents | 5.00% | ~11,130 |
-| Okkoto | 5.00% | ~11,130 |
-| Prisoners | 5.00% | ~11,130 |
-| Too Early | 5.00% | ~11,130 |
+| Chunin | 6.00% | ~13,357 |
+| Flying Rocks | 6.00% | ~13,357 |
+| Warzone | 6.00% | ~13,357 |
+| Happy little accidents | 5.00% | ~11,131 |
+| Okkoto | 5.00% | ~11,131 |
+| Prisoners | 5.00% | ~11,131 |
+| Too Early | 5.00% | ~11,131 |
 | Gear up | 4.00% | ~8,904 |
 | Noboru | 4.00% | ~8,904 |
 | Still Rollin' | 4.00% | ~8,904 |
@@ -39,8 +39,8 @@ Number of Ratings: 495  (23.09.2022)
 | Winner Winner | 2.00% | ~4,452 |
 | Meticulous | 1.00% | ~2,226 |
 | Undeserved Honor | 1.00% | ~2,226 |
-| The Cave | 0.90% | ~2,003 |
-| When Cut Across the Neck | 0.90% | ~2,003 |
+| The Cave | 0.90% | ~2,004 |
+| When Cut Across the Neck | 0.90% | ~2,004 |
 | High Five the Moon | 0.80% | ~1,781 |
 | Time Paradox | 0.60% | ~1,336 |
 | Merciful | 0.50% | ~1,113 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~223 |
 | Release the Kraken | 0.10% | ~223 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,608 (Ranked 76)  
+Progressed: 222,612 (Ranked 76)  
 Completed: 102 (0.05%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 102 (0.05%) (Ranked 337)
 | 2023-12-27 | 222,109 | 102 |
 | 2023-12-28 | 222,330 | 102 |
 | 2023-12-29 | 222,554 | 102 |
-| 2023-12-30 | 222,608 | 102 |
+| 2023-12-30 | 222,612 | 102 |
 ## Awards
 Max (Great for Beginners): 589  (Ranked 206)  
 Sum: 4,932 (Ranked 147)  
@@ -571,3 +571,4 @@ Diff (max vs sum): 59
 | 2023-12-23 | 4.67 | - | 589 | 4,927 |
 | 2023-12-27 | 4.66 | - | 589 | 4,927 |
 | 2023-12-28 | 4.66 | - | 589 | 4,932 |
+| 2023-12-30 | 4.67 | - | 589 | 4,932 |

@@ -13777,11 +13777,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 62762,
       "NumberOfAwardsMax": 7601
+    },
+    {
+      "Time": "2023-12-30T06:58:51.0789753+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 62823,
+      "NumberOfAwardsMax": 7620
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 62762,
-  "NumberOfAwardsMax": 7601,
+  "NumberOfAwards": 62823,
+  "NumberOfAwardsMax": 7620,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -13794,7 +13800,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 7238
+      "Count": 7254
     },
     {
       "Text": "This game has Diverse Characters",
@@ -13806,13 +13812,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 7136
+      "Count": 7152
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 7601
+      "Count": 7620
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -13836,7 +13842,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 6349
+      "Count": 6359
     },
     {
       "Text": "This game has Amazing Characters",
@@ -13851,9 +13857,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 487539,
+  "EOS_Progressed": 487568,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5838,
+  "EOS_NewPlayers": 5846,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -43091,6 +43097,11 @@
       "Time": "2023-12-30T06:09:03.151198+00:00",
       "NumProgressed": 487539,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T07:08:47.4529389+00:00",
+      "NumProgressed": 487568,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -46005,21 +46016,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 487539,
+      "Progressed": 487568,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 487539,
+      "Progressed": 487568,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-12-30T03:58:35.282201+00:00",
-  "LastChanged_Achievements": "2023-12-30T06:09:03.1511973+00:00",
+  "LastChanged": "2023-12-30T06:58:51.0789751+00:00",
+  "LastChanged_Achievements": "2023-12-30T07:08:47.4529384+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:16.1872373+00:00",
-  "LastUpdate_Ratings": "2023-12-30T05:58:45.6917998+00:00",
-  "LastUpdate_Achievements": "2023-12-30T06:09:03.1522318+00:00"
+  "LastUpdate_Ratings": "2023-12-30T06:58:51.0789758+00:00",
+  "LastUpdate_Achievements": "2023-12-30T07:08:47.4539788+00:00"
 }

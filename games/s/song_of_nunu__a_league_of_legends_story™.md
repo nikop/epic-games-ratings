@@ -17,8 +17,8 @@ Rating: 4.52 (Ranked 570)
 | Moneyball | 60.00% | ~833 |
 | No Bites | 55.00% | ~763 |
 | Iceborn | 55.00% | ~763 |
+| Boom Things | 53.00% | ~736 |
 | Tear of Freedom | 52.00% | ~722 |
-| Boom Things | 52.00% | ~722 |
 | My Darkest Day | 48.00% | ~666 |
 | Rhythm Of Willump | 46.00% | ~638 |
 | The Relentless Storm | 46.00% | ~638 |

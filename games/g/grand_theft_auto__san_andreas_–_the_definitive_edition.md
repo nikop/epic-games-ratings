@@ -1,20 +1,20 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.54 (Ranked 542)  
+Rating: 4.55 (Ranked 522)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~14,175 |
-| Pay 'n' Spray | 50.00% | ~8,750 |
-| All Dressed Up for San Fierro | 25.00% | ~4,375 |
-| The American Dream | 19.00% | ~3,325 |
-| School's Out | 18.00% | ~3,150 |
-| Smooth Moves | 16.00% | ~2,800 |
-| Today Was a Good Day | 15.00% | ~2,625 |
-| What happens in Las Venturas... | 14.00% | ~2,450 |
-| Horror of the Santa Maria | 10.00% | ~1,750 |
-| Liberty City State of Mind | 9.00% | ~1,575 |
+| Getting Started | 81.00% | ~14,180 |
+| Pay 'n' Spray | 50.00% | ~8,753 |
+| All Dressed Up for San Fierro | 25.00% | ~4,376 |
+| The American Dream | 19.00% | ~3,326 |
+| School's Out | 18.00% | ~3,151 |
+| Smooth Moves | 16.00% | ~2,801 |
+| Today Was a Good Day | 15.00% | ~2,626 |
+| What happens in Las Venturas... | 14.00% | ~2,451 |
+| Horror of the Santa Maria | 10.00% | ~1,751 |
+| Liberty City State of Mind | 9.00% | ~1,576 |
 | Original Gangster | 8.00% | ~1,400 |
 | With Extra Dip | 7.00% | ~1,225 |
 | The End of the Line | 7.00% | ~1,225 |
@@ -37,11 +37,11 @@ Rating: 4.54 (Ranked 542)
 | Lucky Spinner | 1.00% | ~175 |
 | Not a Player | 1.00% | ~175 |
 | Chick Magnet | 1.00% | ~175 |
-| Remastered | 0.70% | ~122 |
+| Remastered | 0.70% | ~123 |
 | ...Here we go again | 0.50% | ~88 |
 | I Ain't No Buster | 0.40% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,500 (Ranked 158)  
+Progressed: 17,506 (Ranked 158)  
 Completed: 65 (0.37%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 65 (0.37%) (Ranked 235)
 | 2023-12-27 | 17,152 | 64 |
 | 2023-12-28 | 17,305 | 64 |
 | 2023-12-29 | 17,467 | 65 |
-| 2023-12-30 | 17,500 | 65 |
+| 2023-12-30 | 17,506 | 65 |
 ## Awards
 Max (Great Boss Battles): 545  (Ranked 213)  
 Sum: 805 (Ranked 289)  
@@ -530,3 +530,4 @@ Diff (max vs sum): -76
 | 2023-12-27 | 4.54 | 530 | 807 |
 | 2023-12-28 | 4.54 | 538 | 817 |
 | 2023-12-29 | 4.54 | 545 | 805 |
+| 2023-12-30 | 4.55 | 545 | 805 |

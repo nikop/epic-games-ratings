@@ -10228,10 +10228,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21250,
       "NumberOfAwardsMax": 7905
+    },
+    {
+      "Time": "2023-12-30T06:57:06.8113204+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21252,
+      "NumberOfAwardsMax": 7905
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21250,
+  "NumberOfAwards": 21252,
   "NumberOfAwardsMax": 7905,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10299,7 +10305,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1418
+      "Count": 1420
     },
     {
       "Text": "This game has a Creative Community",
@@ -10308,9 +10314,9 @@
       "Count": 1068
     }
   ],
-  "EOS_Progressed": 130677,
+  "EOS_Progressed": 130683,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1419,
+  "EOS_NewPlayers": 1413,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37468,6 +37474,11 @@
       "Time": "2023-12-30T06:09:29.4674701+00:00",
       "NumProgressed": 130677,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-30T07:09:13.6172919+00:00",
+      "NumProgressed": 130683,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37661,9 +37672,9 @@
       "ID": "combat_kill_gaunts",
       "SetID": "64l4lke",
       "Name": "Now Stay Dead",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2614
+      "UsersEstimate": 3920
     },
     {
       "ID": "combat_kill_gentry",
@@ -38015,7 +38026,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "combat_kill_collector",
@@ -38047,7 +38058,7 @@
       "Name": "Slap on the Wrist",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -38063,7 +38074,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -38071,7 +38082,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "quest_complete_crusader",
@@ -38079,7 +38090,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -38095,7 +38106,7 @@
       "Name": "For Old Time\u0027 Sake",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "run_victory_final_boss_hwy_cru",
@@ -38110,21 +38121,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130677,
+      "Progressed": 130683,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5546,
+      "Progressed": 5552,
       "Completed": 815
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-30T05:57:03.093775+00:00",
-  "LastChanged_Achievements": "2023-12-30T06:09:29.4674698+00:00",
+  "LastChanged": "2023-12-30T06:57:06.8113202+00:00",
+  "LastChanged_Achievements": "2023-12-30T07:09:13.6172915+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-30T05:57:03.0937756+00:00",
-  "LastUpdate_Achievements": "2023-12-30T06:09:29.4676221+00:00"
+  "LastUpdate_Ratings": "2023-12-30T06:57:06.8113209+00:00",
+  "LastUpdate_Achievements": "2023-12-30T07:09:13.6174445+00:00"
 }

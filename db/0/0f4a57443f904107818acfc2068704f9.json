@@ -2,9 +2,9 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 283,
+  "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1131,
+  "EOS_Progressed": 1132,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2772,6 +2772,11 @@
       "Time": "2023-12-30T06:06:15.5470114+00:00",
       "NumProgressed": 1131,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T07:06:10.314406+00:00",
+      "NumProgressed": 1132,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2840,7 +2845,7 @@
       "Name": "Pathfinder",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "CompleteChapter10",
@@ -2864,7 +2869,7 @@
       "Name": "Grumblin\u0027 Bellies",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "CompleteChapter13",
@@ -2872,7 +2877,7 @@
       "Name": "Slaughter and Siege wiv da Squeeze",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "CompleteChapter14",
@@ -2888,7 +2893,7 @@
       "Name": "The Great Scheme",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "CompleteChapter16",
@@ -2896,7 +2901,7 @@
       "Name": "Our Own Miracle",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "CompleteChapter17",
@@ -2936,7 +2941,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "CompleteChapter4",
@@ -2952,7 +2957,7 @@
       "Name": "Breathing Easy",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "CompleteChapter6",
@@ -3032,7 +3037,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "Win100OnlineMatched",
@@ -3079,14 +3084,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1131,
+      "Progressed": 1132,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-30T06:06:15.547011+00:00",
+  "LastChanged_Achievements": "2023-12-30T07:06:10.3144055+00:00",
   "LastUpdate_AppInfo": "2023-12-29T09:57:13.5043463+00:00",
-  "LastUpdate_Ratings": "2023-12-30T05:57:35.0956321+00:00",
-  "LastUpdate_Achievements": "2023-12-30T06:06:15.5470443+00:00"
+  "LastUpdate_Ratings": "2023-12-30T06:57:38.9416664+00:00",
+  "LastUpdate_Achievements": "2023-12-30T07:06:10.3144363+00:00"
 }

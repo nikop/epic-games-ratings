@@ -3,12 +3,12 @@
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
   "Ranking_Rating": 684,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27428,
+  "EOS_Progressed": 27431,
   "EOS_Completed": 504,
-  "EOS_NewPlayers": 587,
+  "EOS_NewPlayers": 590,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -27739,6 +27739,11 @@
       "Time": "2023-12-30T05:05:47.3509439+00:00",
       "NumProgressed": 27428,
       "NumCompleted": 504
+    },
+    {
+      "Time": "2023-12-30T07:05:27.3506792+00:00",
+      "NumProgressed": 27431,
+      "NumCompleted": 504
     }
   ],
   "TotalAchievements": 20,
@@ -27750,7 +27755,7 @@
       "Name": "Cartographer",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 4388
+      "UsersEstimate": 4389
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -27758,7 +27763,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1371
+      "UsersEstimate": 1372
     },
     {
       "ID": "EAST_FINISHED",
@@ -27806,7 +27811,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3291
+      "UsersEstimate": 3292
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -27862,7 +27867,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3291
+      "UsersEstimate": 3292
     },
     {
       "ID": "INTRO_FINISHED",
@@ -27870,7 +27875,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 20845
+      "UsersEstimate": 20848
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -27902,22 +27907,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4937
+      "UsersEstimate": 4938
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 27428,
+      "Progressed": 27431,
       "Completed": 504
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-30T06:05:32.7068712+00:00",
+  "LastChanged_Achievements": "2023-12-30T07:05:27.350679+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:49.8191353+00:00",
-  "LastUpdate_Ratings": "2023-12-30T05:58:32.7016958+00:00",
-  "LastUpdate_Achievements": "2023-12-30T06:05:32.7070313+00:00"
+  "LastUpdate_Ratings": "2023-12-30T06:58:37.8093805+00:00",
+  "LastUpdate_Achievements": "2023-12-30T07:05:27.3508104+00:00"
 }

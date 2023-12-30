@@ -3,11 +3,11 @@
   "Name": "Eiyuden Chronicle: Rising",
   "ProductSlug": "eiyuden-chronicle-rising",
   "Ranking_Rating": 610,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 778,
+  "EOS_Progressed": 779,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.71,
+  "EOS_Completed_Percentage": 7.7,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -726,6 +726,11 @@
       "Time": "2023-12-29T20:08:34.5665959+00:00",
       "NumProgressed": 778,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-30T07:08:31.1843+00:00",
+      "NumProgressed": 779,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -737,7 +742,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -745,7 +750,7 @@
       "Name": "Partners?",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACHIEVEMENT003",
@@ -753,7 +758,7 @@
       "Name": "...And Your Tax Money",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT004",
@@ -817,7 +822,7 @@
       "Name": "A Girl About the Town",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ACHIEVEMENT012",
@@ -825,7 +830,7 @@
       "Name": "The Go-To Girl",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACHIEVEMENT013",
@@ -833,7 +838,7 @@
       "Name": "The Pride of the Town",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ACHIEVEMENT014",
@@ -897,7 +902,7 @@
       "Name": "Full Force - Isha",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACHIEVEMENT022",
@@ -929,7 +934,7 @@
       "Name": "Hopeful Hunter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -993,7 +998,7 @@
       "Name": "Rune Scholar",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT034",
@@ -1009,7 +1014,7 @@
       "Name": "First Time Fishing",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ACHIEVEMENT036",
@@ -1041,7 +1046,7 @@
       "Name": "Meat Master",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ACHIEVEMENT040",
@@ -1073,7 +1078,7 @@
       "Name": "The Snowpeak...On Foot!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ACHIEVEMENT044",
@@ -1081,7 +1086,7 @@
       "Name": "The Lava Ruins...On Foot!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACHIEVEMENT045",
@@ -1119,9 +1124,9 @@
       "ID": "ACHIEVEMENT049",
       "SetID": "dejhjd5",
       "Name": "Champion of the Lava Ruins",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 70
     },
     {
       "ID": "ACHIEVEMENT050",
@@ -1129,22 +1134,22 @@
       "Name": "Rising Champion",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     }
   ],
   "AchievementSets": [
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 778,
+      "Progressed": 779,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-30T06:08:47.3992362+00:00",
+  "LastChanged_Achievements": "2023-12-30T07:08:31.1842994+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:13.3507412+00:00",
-  "LastUpdate_Ratings": "2023-12-30T05:59:12.7424792+00:00",
-  "LastUpdate_Achievements": "2023-12-30T06:08:47.3992698+00:00"
+  "LastUpdate_Ratings": "2023-12-30T06:59:18.5678265+00:00",
+  "LastUpdate_Achievements": "2023-12-30T07:08:31.1843322+00:00"
 }

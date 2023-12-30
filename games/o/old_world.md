@@ -19,6 +19,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 0.60% | ~96 |
 | Hanging Gardens | 0.60% | ~96 |
 | Oracle | 0.60% | ~96 |
+| Enlightened | 0.50% | ~80 |
 | Glorious | 0.50% | ~80 |
 | Just | 0.50% | ~80 |
 | Keystone | 0.50% | ~80 |
@@ -32,7 +33,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 0.40% | ~64 |
 | Ambitious | 0.40% | ~64 |
 | Brilliant | 0.40% | ~64 |
-| Enlightened | 0.40% | ~64 |
 | Fountainhead | 0.40% | ~64 |
 | Magnificent | 0.40% | ~64 |
 | Warrior | 0.40% | ~64 |
@@ -95,6 +95,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 0.20% | ~32 |
 | Persian Paganism | 0.20% | ~32 |
 | Economic Reform | 0.20% | ~32 |
+| Industrial Progress | 0.20% | ~32 |
 | Military Prestige | 0.20% | ~32 |
 | Enlightenment | 0.20% | ~32 |
 | Gnosticism | 0.20% | ~32 |
@@ -220,7 +221,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon in Roma | 0.10% | ~16 |
 | Capturing Cities | 0.10% | ~16 |
 | Ten Crowns | 0.10% | ~16 |
-| Industrial Progress | 0.10% | ~16 |
 | Dualism | 0.10% | ~16 |
 | Legalism | 0.10% | ~16 |
 | Redemption | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,017 (Ranked 165)  
+Progressed: 16,018 (Ranked 165)  
 Completed: 5 (0.03%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -619,7 +619,7 @@ Completed: 5 (0.03%) (Ranked 351)
 | 2023-12-27 | 15,978 | 5 |
 | 2023-12-28 | 15,997 | 5 |
 | 2023-12-29 | 16,011 | 5 |
-| 2023-12-30 | 16,017 | 5 |
+| 2023-12-30 | 16,018 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 284)  
 Sum: 1,912 (Ranked 220)  

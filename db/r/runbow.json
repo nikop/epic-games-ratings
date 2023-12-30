@@ -3,11 +3,11 @@
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
   "Ranking_Rating": 671,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252782,
+  "EOS_Progressed": 252785,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 364,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22682,6 +22682,11 @@
       "Time": "2023-12-30T06:09:49.3744557+00:00",
       "NumProgressed": 252782,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-30T07:09:33.2958759+00:00",
+      "NumProgressed": 252785,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -22717,7 +22722,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 53084
+      "UsersEstimate": 53085
     },
     {
       "ID": "blotbuster",
@@ -22765,7 +22770,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37917
+      "UsersEstimate": 37918
     },
     {
       "ID": "clearCut",
@@ -22797,7 +22802,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50556
+      "UsersEstimate": 50557
     },
     {
       "ID": "didYourTime",
@@ -22845,7 +22850,7 @@
       "Name": "He Who Laughs Last",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7583
+      "UsersEstimate": 7584
     },
     {
       "ID": "hereWeGo",
@@ -22869,7 +22874,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133974
+      "UsersEstimate": 133976
     },
     {
       "ID": "indegestible",
@@ -22893,7 +22898,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65723
+      "UsersEstimate": 65724
     },
     {
       "ID": "justABit",
@@ -22925,7 +22930,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 35389
+      "UsersEstimate": 35390
     },
     {
       "ID": "myFirstRunbow",
@@ -22933,7 +22938,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126391
+      "UsersEstimate": 126392
     },
     {
       "ID": "notScared",
@@ -22981,7 +22986,7 @@
       "Name": "Shoo, Cat!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7583
+      "UsersEstimate": 7584
     },
     {
       "ID": "talentScout",
@@ -22997,7 +23002,7 @@
       "Name": "The Stunner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58140
+      "UsersEstimate": 58141
     },
     {
       "ID": "thunderstruck",
@@ -23053,14 +23058,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40445
+      "UsersEstimate": 40446
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 252782,
+      "Progressed": 252785,
       "Completed": 6
     }
   ],
@@ -23068,8 +23073,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-30T06:09:49.374455+00:00",
+  "LastChanged_Achievements": "2023-12-30T07:09:33.2958752+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:20.5552445+00:00",
-  "LastUpdate_Ratings": "2023-12-30T06:00:08.4040838+00:00",
-  "LastUpdate_Achievements": "2023-12-30T06:09:49.3745717+00:00"
+  "LastUpdate_Ratings": "2023-12-30T07:00:13.9427736+00:00",
+  "LastUpdate_Achievements": "2023-12-30T07:09:33.2959827+00:00"
 }

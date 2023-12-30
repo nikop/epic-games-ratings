@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 305,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1311,9 +1311,9 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 171
     },
     {
       "ID": "AC_BOSS_01",
@@ -1582,8 +1582,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-30T06:06:31.5573756+00:00",
+  "LastChanged_Achievements": "2023-12-30T07:08:06.487255+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:54.1541826+00:00",
-  "LastUpdate_Ratings": "2023-12-30T05:57:39.6197057+00:00",
-  "LastUpdate_Achievements": "2023-12-30T06:06:31.5574054+00:00"
+  "LastUpdate_Ratings": "2023-12-30T06:57:43.5112494+00:00",
+  "LastUpdate_Achievements": "2023-12-30T07:08:06.4872993+00:00"
 }

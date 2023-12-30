@@ -2,9 +2,9 @@
   "ID": "00b9ec358e1f46daa4f8e1194d5081d8",
   "Name": "Alan Wake",
   "ProductSlug": "alan-wake",
-  "Ranking_Rating": 542,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Rating": 543,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 566,
@@ -518,6 +518,6 @@
   "FirstSeen": "2022-07-22T20:27:21.5062168+00:00",
   "LastChanged": "2023-12-29T01:36:05.1074268+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:35.9985993+00:00",
-  "LastUpdate_Ratings": "2023-12-30T05:59:51.52676+00:00",
-  "LastUpdate_Achievements": "2023-12-30T06:06:08.7023914+00:00"
+  "LastUpdate_Ratings": "2023-12-30T06:59:57.0330962+00:00",
+  "LastUpdate_Achievements": "2023-12-30T07:06:03.2709003+00:00"
 }

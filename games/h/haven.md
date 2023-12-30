@@ -6,19 +6,19 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 73.00% | ~1,322 |
-| Lovebirds | 45.00% | ~815 |
-| Life’s short, ride long | 40.00% | ~724 |
-| Hug therapy | 39.00% | ~706 |
-| Over my dead body | 36.00% | ~652 |
+| Balding bloot! | 73.00% | ~1,323 |
+| Lovebirds | 45.00% | ~816 |
+| Life’s short, ride long | 40.00% | ~725 |
+| Hug therapy | 39.00% | ~707 |
+| Over my dead body | 36.00% | ~653 |
 | Shake the rust off their feet | 19.00% | ~344 |
 | My little pony | 18.00% | ~326 |
 | Strike! | 17.00% | ~308 |
-| A love supreme | 17.00% | ~308 |
+| A love supreme | 16.00% | ~290 |
 | In my shoes | 15.00% | ~272 |
-| Like new! | 13.00% | ~235 |
-| Heartstrings | 12.00% | ~217 |
-| Head in the clouds | 12.00% | ~217 |
+| Like new! | 13.00% | ~236 |
+| Heartstrings | 12.00% | ~218 |
+| Head in the clouds | 12.00% | ~218 |
 | Back to rust | 11.00% | ~199 |
 | Flower Powered | 11.00% | ~199 |
 | Don't look back | 11.00% | ~199 |
@@ -28,7 +28,7 @@ Number of Ratings: 38  (23.09.2022)
 | Self-sustainability | 7.00% | ~127 |
 | Spring cleaning | 5.00% | ~91 |
 | An eye for an eye | 5.00% | ~91 |
-| Can't get wetter... | 4.00% | ~72 |
+| Can't get wetter... | 4.00% | ~73 |
 | Second thoughts | 3.00% | ~54 |
 | Mooning the moon | 3.00% | ~54 |
 | Pearls before Birble | 3.00% | ~54 |
@@ -37,7 +37,7 @@ Number of Ratings: 38  (23.09.2022)
 | Thar she blows | 2.00% | ~36 |
 | À la carte | 1.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,811 (Ranked 247)  
+Progressed: 1,813 (Ranked 247)  
 Completed: 10 (0.55%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 10 (0.55%) (Ranked 209)
 | 2023-12-27 | 1,788 | 10 |
 | 2023-12-28 | 1,795 | 10 |
 | 2023-12-29 | 1,807 | 10 |
-| 2023-12-30 | 1,811 | 10 |
+| 2023-12-30 | 1,813 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -3,8 +3,8 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 500,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 137,
@@ -309,7 +309,7 @@
   "Tags": [],
   "EOS_Progressed": 17775,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 631,
+  "EOS_NewPlayers": 630,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15942,8 +15942,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-27T06:00:51.7325186+00:00",
-  "LastChanged_Achievements": "2023-12-30T06:05:35.3936743+00:00",
+  "LastChanged_Achievements": "2023-12-30T07:05:29.9935785+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-30T05:57:29.6358034+00:00",
-  "LastUpdate_Achievements": "2023-12-30T06:05:35.3937673+00:00"
+  "LastUpdate_Ratings": "2023-12-30T06:57:33.4010468+00:00",
+  "LastUpdate_Achievements": "2023-12-30T07:05:29.9936505+00:00"
 }

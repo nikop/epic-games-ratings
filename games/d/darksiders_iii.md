@@ -7,12 +7,12 @@ Number of Ratings: 116  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Green with Envy | 78.00% | ~232 |
-| First of many… | 69.00% | ~205 |
-| Helping Hand | 66.00% | ~196 |
-| Increased Vigor | 60.00% | ~178 |
-| Fight Fire with Fire | 57.00% | ~169 |
-| Increased Capacity | 54.00% | ~160 |
-| Just the start | 51.00% | ~151 |
+| First of many… | 69.00% | ~206 |
+| Helping Hand | 65.00% | ~194 |
+| Increased Vigor | 60.00% | ~179 |
+| Fight Fire with Fire | 57.00% | ~170 |
+| Increased Capacity | 53.00% | ~158 |
+| Just the start | 50.00% | ~149 |
 | Perfect Storm | 46.00% | ~137 |
 | All That Glitters | 45.00% | ~134 |
 | Enhance! | 43.00% | ~128 |
@@ -21,8 +21,8 @@ Number of Ratings: 116  (23.09.2022)
 | Devil's in the Details | 39.00% | ~116 |
 | Five's a Crowd | 38.00% | ~113 |
 | 25 to Life | 38.00% | ~113 |
-| Soul Harvester | 35.00% | ~104 |
-| Salvation | 35.00% | ~104 |
+| Soul Harvester | 36.00% | ~107 |
+| Salvation | 36.00% | ~107 |
 | Unshakable Fortitude | 34.00% | ~101 |
 | Delusions of Grandeur | 31.00% | ~92 |
 | Maximum Vigor | 30.00% | ~89 |
@@ -31,15 +31,15 @@ Number of Ratings: 116  (23.09.2022)
 | Freeze Frame | 27.00% | ~80 |
 | Eat Your Heart Out | 27.00% | ~80 |
 | For Whom the Bell Tolls | 27.00% | ~80 |
-| Unyielding Strength | 24.00% | ~71 |
-| Big Spender | 24.00% | ~71 |
-| Can you restore the Balance? | 23.00% | ~68 |
-| Crowd Source | 22.00% | ~65 |
-| Cleanup Crew | 21.00% | ~62 |
-| Maximum Capacity | 20.00% | ~59 |
-| Demon Meddler | 20.00% | ~59 |
-| Seeing Red | 20.00% | ~59 |
-| Egomaniac | 18.00% | ~53 |
+| Unyielding Strength | 24.00% | ~72 |
+| Can you restore the Balance? | 23.00% | ~69 |
+| Big Spender | 23.00% | ~69 |
+| Crowd Source | 22.00% | ~66 |
+| Cleanup Crew | 21.00% | ~63 |
+| Maximum Capacity | 20.00% | ~60 |
+| Demon Meddler | 20.00% | ~60 |
+| Seeing Red | 19.00% | ~57 |
+| Egomaniac | 18.00% | ~54 |
 | Protector of Humanity | 16.00% | ~48 |
 | Everybody Wants to Rule the World | 16.00% | ~48 |
 | Community Outreach | 13.00% | ~39 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 0.70% | ~2 |
 | Beast Mode | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297 (Ranked 386)  
+Progressed: 298 (Ranked 385)  
 Completed: 1 (0.34%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 1 (0.34%) (Ranked 242)
 | 2023-12-27 | 247 | 1 |
 | 2023-12-28 | 265 | 1 |
 | 2023-12-29 | 293 | 1 |
-| 2023-12-30 | 297 | 1 |
+| 2023-12-30 | 298 | 1 |
 ## Awards
 Max (Great Boss Battles): 94  (Ranked 387)  
 Sum: 94 (Ranked 467)  

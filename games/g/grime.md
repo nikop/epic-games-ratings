@@ -37,6 +37,7 @@ Number of Ratings: 46  (23.09.2022)
 | Unwrap the Gift | 0.20% | ~331 |
 | Passage | 0.20% | ~331 |
 | Dream | 0.20% | ~330 |
+| Proportions | 0.20% | ~331 |
 | Spiral Heart | 0.10% | ~161 |
 | Bloodhunter | 0.10% | ~165 |
 | Skinmaker | 0.10% | ~165 |
@@ -47,13 +48,12 @@ Number of Ratings: 46  (23.09.2022)
 | Generous | 0.10% | ~165 |
 | Kin | 0.10% | ~165 |
 | Listen | 0.10% | ~165 |
-| Proportions | 0.10% | ~165 |
 | The Nightmare | 0.10% | ~165 |
 | Touch of Otherwhere | 0.10% | ~165 |
 | Enrich | 0.10% | ~165 |
 | Intensify | 0.10% | ~165 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 165,406 (Ranked 81)  
+Progressed: 165,413 (Ranked 81)  
 Completed: 424 (0.26%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 424 (0.26%) (Ranked 261)
 | 2023-12-27 | 164,964 | 416 |
 | 2023-12-28 | 165,163 | 418 |
 | 2023-12-29 | 165,352 | 424 |
-| 2023-12-30 | 165,406 | 424 |
+| 2023-12-30 | 165,413 | 424 |
 ## Awards
 Max (Unique Visuals): 60  (Ranked 426)  
 Sum: 431 (Ranked 344)  

@@ -3808,7 +3808,7 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 241998,
+  "EOS_Progressed": 242000,
   "EOS_Completed": 302,
   "EOS_NewPlayers": 504,
   "EOS_NewCompleters": 1,
@@ -30038,6 +30038,11 @@
       "Time": "2023-12-30T06:10:05.4510018+00:00",
       "NumProgressed": 241998,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-30T07:09:49.2776813+00:00",
+      "NumProgressed": 242000,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -30407,9 +30412,9 @@
       "ID": "HIGHSPEED",
       "SetID": "5l8oe0h",
       "Name": "Predator",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 484
+      "UsersEstimate": 242
     },
     {
       "ID": "HITOWLSPOON",
@@ -31152,13 +31157,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241998,
+      "Progressed": 242000,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3478,
+      "Progressed": 3480,
       "Completed": 416
     }
   ],
@@ -31166,8 +31171,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-29T11:59:56.9615531+00:00",
-  "LastChanged_Achievements": "2023-12-30T06:10:05.4510016+00:00",
+  "LastChanged_Achievements": "2023-12-30T07:09:49.2776811+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-30T06:00:03.4621692+00:00",
-  "LastUpdate_Achievements": "2023-12-30T06:10:05.4512992+00:00"
+  "LastUpdate_Ratings": "2023-12-30T07:00:09.1212844+00:00",
+  "LastUpdate_Achievements": "2023-12-30T07:09:49.2779224+00:00"
 }

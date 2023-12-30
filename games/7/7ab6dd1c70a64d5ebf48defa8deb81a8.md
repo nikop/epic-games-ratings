@@ -15,13 +15,13 @@ Rating: 4.12 (Ranked 995)
 | Geared Up | 20.00% | ~295 |
 | Scholar | 20.00% | ~295 |
 | Adventurer | 19.00% | ~280 |
-| Tributes of Caladrias | 18.00% | ~265 |
-| Fashion Victim | 18.00% | ~265 |
-| Stone Collection | 18.00% | ~265 |
+| Tributes of Caladrias | 18.00% | ~266 |
+| Fashion Victim | 18.00% | ~266 |
+| Stone Collection | 18.00% | ~266 |
 | Powerful Allies | 17.00% | ~251 |
 | Big Bazar | 12.00% | ~177 |
 | Essence Blow | 11.00% | ~162 |
-| Alchemist | 10.00% | ~147 |
+| Alchemist | 10.00% | ~148 |
 | The Mentor | 8.00% | ~118 |
 | Calm before the Storm | 7.00% | ~103 |
 | To Battle | 6.00% | ~88 |
@@ -31,8 +31,8 @@ Rating: 4.12 (Ranked 995)
 | Clear Sight | 3.00% | ~44 |
 | Shatterer | 3.00% | ~44 |
 | Fine Feathers Make Fine Birds | 3.00% | ~44 |
-| Slayer | 2.00% | ~29 |
-| A Queen's Tale | 2.00% | ~29 |
+| Slayer | 2.00% | ~30 |
+| A Queen's Tale | 2.00% | ~30 |
 | Shardbearer | 1.00% | ~15 |
 | Flawless Victory | 1.00% | ~15 |
 | All There Is | 1.00% | ~15 |
@@ -42,7 +42,7 @@ Rating: 4.12 (Ranked 995)
 | All That Gold | 0.70% | ~10 |
 | Feeling Fancy | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,474 (Ranked 260)  
+Progressed: 1,475 (Ranked 260)  
 Completed: 3 (0.20%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 3 (0.20%) (Ranked 273)
 | 2023-12-27 | 1,365 | 3 |
 | 2023-12-28 | 1,412 | 3 |
 | 2023-12-29 | 1,459 | 3 |
-| 2023-12-30 | 1,474 | 3 |
+| 2023-12-30 | 1,475 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

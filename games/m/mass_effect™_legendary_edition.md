@@ -4,40 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 91.00% | ~3,049 |
+| Distinguished Service Medal | 91.00% | ~3,050 |
 | Spectre Inductee | 68.00% | ~2,279 |
-| Medal of Exploration I | 57.00% | ~1,910 |
-| Recruit | 53.00% | ~1,776 |
+| Medal of Exploration I | 57.00% | ~1,911 |
+| Recruit | 53.00% | ~1,777 |
 | Search and Rescue | 52.00% | ~1,743 |
 | Quarian Ally | 50.00% | ~1,676 |
-| Medal of Heroism | 44.00% | ~1,474 |
-| Honorarium of Corporate Service | 44.00% | ~1,474 |
+| Medal of Heroism | 44.00% | ~1,475 |
+| Honorarium of Corporate Service | 44.00% | ~1,475 |
 | Turian Ally | 41.00% | ~1,374 |
 | Medal of Exploration II | 39.00% | ~1,307 |
 | Council Legion of Merit | 39.00% | ~1,307 |
-| Medal of Honor | 36.00% | ~1,206 |
-| Meritorious Service Medal | 36.00% | ~1,206 |
-| Soldier Ally | 36.00% | ~1,206 |
+| Medal of Honor | 36.00% | ~1,207 |
+| Meritorious Service Medal | 36.00% | ~1,207 |
+| Soldier Ally | 36.00% | ~1,207 |
 | Soldier | 35.00% | ~1,173 |
 | Charismatic | 35.00% | ~1,173 |
 | Missing in Action | 35.00% | ~1,173 |
-| Asari Ally | 34.00% | ~1,139 |
+| Asari Ally | 34.00% | ~1,140 |
 | Colonial Savior | 33.00% | ~1,106 |
 | Very Elusive | 33.00% | ~1,106 |
-| Medal of Exploration III | 32.00% | ~1,072 |
-| Principled | 32.00% | ~1,072 |
+| Medal of Exploration III | 32.00% | ~1,073 |
+| Principled | 32.00% | ~1,073 |
 | Sentinel Ally | 31.00% | ~1,039 |
 | Krogan Ally | 31.00% | ~1,039 |
 | Scientist | 31.00% | ~1,039 |
-| Paramour I | 30.00% | ~1,005 |
-| Merciless | 30.00% | ~1,005 |
+| Paramour I | 30.00% | ~1,006 |
+| Merciless | 30.00% | ~1,006 |
 | Scholar | 29.00% | ~972 |
-| The Archangel | 28.00% | ~938 |
-| The Professor | 28.00% | ~938 |
-| Head Hunter | 28.00% | ~938 |
+| The Archangel | 28.00% | ~939 |
+| The Professor | 28.00% | ~939 |
+| Head Hunter | 28.00% | ~939 |
 | Operative | 27.00% | ~905 |
-| The Convict | 26.00% | ~871 |
-| Power Full | 26.00% | ~871 |
+| The Convict | 26.00% | ~872 |
+| Power Full | 26.00% | ~872 |
 | Colony Defense | 25.00% | ~838 |
 | The Krogan | 25.00% | ~838 |
 | Veteran | 24.00% | ~804 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~34 |
 | The One and Only | 0.60% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,351 (Ranked 220)  
+Progressed: 3,352 (Ranked 220)  
 Completed: 12 (0.36%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,4 +238,4 @@ Completed: 12 (0.36%) (Ranked 236)
 | 2023-12-27 | 3,209 | 11 |
 | 2023-12-28 | 3,273 | 12 |
 | 2023-12-29 | 3,336 | 12 |
-| 2023-12-30 | 3,351 | 12 |
+| 2023-12-30 | 3,352 | 12 |

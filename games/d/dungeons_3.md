@@ -1,23 +1,23 @@
 # Dungeons 3
 [Store](https://store.epicgames.com/en-US/p/dungeons-3)  
 [View Rawdata](../../db/d/dungeons_3.json)  
-Rating: 4.66 (Ranked 297)  
+Rating: 4.66 (Ranked 298)  
 Number of Ratings: 1,635  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~31,689 |
-| The Evilest Evil | 59.00% | ~26,709 |
+| The Shadow strikes | 70.00% | ~31,690 |
+| The Evilest Evil | 59.00% | ~26,710 |
 | Twistram is devastated | 58.00% | ~26,257 |
-| The Gehenna Stones | 50.00% | ~22,635 |
+| The Gehenna Stones | 50.00% | ~22,636 |
 | No one has to die today! | 47.00% | ~21,277 |
-| Death and destruction! | 46.00% | ~20,824 |
+| Death and destruction! | 46.00% | ~20,825 |
 | The Swamplanders from the swamplands | 44.00% | ~19,919 |
 | Rusty Steel | 41.00% | ~18,561 |
 | The One-Huge-Army-Building Evil | 40.00% | ~18,108 |
 | Braiiiiins! | 38.00% | ~17,203 |
 | The last burger | 37.00% | ~16,750 |
-| Hands off the Dungeonheart! | 36.00% | ~16,297 |
+| Hands off the Dungeonheart! | 36.00% | ~16,298 |
 | A trip on sea, what fun it can be | 34.00% | ~15,392 |
 | Damned good | 33.00% | ~14,939 |
 | Stock Market Crash | 31.00% | ~14,034 |
@@ -34,7 +34,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Prepare the grave | 24.00% | ~10,865 |
 | Angel of Fire | 24.00% | ~10,865 |
 | Where there is Light, there is Shadow | 23.00% | ~10,412 |
-| At the foot of Mount Destiny | 22.00% | ~9,959 |
+| At the foot of Mount Destiny | 22.00% | ~9,960 |
 | The Force disturbed | 21.00% | ~9,507 |
 | The Victorious Evil | 20.00% | ~9,054 |
 | Chorus of damnation | 19.00% | ~8,601 |
@@ -42,9 +42,9 @@ Number of Ratings: 1,635  (23.09.2022)
 | The Stones’ Power | 18.00% | ~8,149 |
 | Flat as a pancake | 17.00% | ~7,696 |
 | Lifeguard | 17.00% | ~7,696 |
-| Can’t stand the sight of Dark Elf blood | 15.00% | ~6,790 |
-| This is fun, I’m going to keep doing this! | 12.00% | ~5,432 |
-| Then let them eat cake! | 12.00% | ~5,432 |
+| Can’t stand the sight of Dark Elf blood | 15.00% | ~6,791 |
+| This is fun, I’m going to keep doing this! | 12.00% | ~5,433 |
+| Then let them eat cake! | 12.00% | ~5,433 |
 | The White Knight | 10.00% | ~4,527 |
 | Please, no interruptions! | 10.00% | ~4,527 |
 | Use the terrain | 9.00% | ~4,074 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~905 |
 | Sacrifices! | 2.00% | ~905 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,270 (Ranked 124)  
+Progressed: 45,271 (Ranked 124)  
 Completed: 362 (0.80%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 362 (0.80%) (Ranked 189)
 | 2023-12-27 | 45,022 | 362 |
 | 2023-12-28 | 45,113 | 362 |
 | 2023-12-29 | 45,239 | 362 |
-| 2023-12-30 | 45,270 | 362 |
+| 2023-12-30 | 45,271 | 362 |
 ## Awards
 Max (Great for Beginners): 394  (Ranked 239)  
 Sum: 2,833 (Ranked 187)  

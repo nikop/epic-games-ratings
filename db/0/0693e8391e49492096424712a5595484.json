@@ -4,8 +4,8 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 661,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 7.72,
   "EosHistory": [
@@ -2753,9 +2753,9 @@
       "ID": "BearPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Sleeping Potion",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 178
+      "UsersEstimate": 185
     },
     {
       "ID": "BearRum",
@@ -2801,9 +2801,9 @@
       "ID": "BroomAmanita",
       "SetID": "db30heh",
       "Name": "Gone Cooking",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 311
+      "UsersEstimate": 317
     },
     {
       "ID": "BroomPistol",
@@ -2833,9 +2833,9 @@
       "ID": "Drunkard",
       "SetID": "db30heh",
       "Name": "Drunkard",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 178
+      "UsersEstimate": 185
     },
     {
       "ID": "DwarDevil",
@@ -2849,9 +2849,9 @@
       "ID": "DwarfBeggarWoman",
       "SetID": "db30heh",
       "Name": "Funny Granny",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 297
+      "UsersEstimate": 304
     },
     {
       "ID": "DwarfHobo",
@@ -3080,8 +3080,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-30T06:04:48.1640338+00:00",
+  "LastChanged_Achievements": "2023-12-30T07:04:43.5832088+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:22.002955+00:00",
-  "LastUpdate_Ratings": "2023-12-30T05:59:32.3707996+00:00",
-  "LastUpdate_Achievements": "2023-12-30T06:04:48.1640798+00:00"
+  "LastUpdate_Ratings": "2023-12-30T06:59:38.2276808+00:00",
+  "LastUpdate_Achievements": "2023-12-30T07:04:43.5832447+00:00"
 }
