@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 584,
+  "EOS_Progressed": 585,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
@@ -2092,6 +2092,11 @@
       "Time": "2023-12-29T13:12:57.8631578+00:00",
       "NumProgressed": 584,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-30T00:09:56.5661975+00:00",
+      "NumProgressed": 585,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -2103,7 +2108,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 48,
       "XP": 60,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "completeact2",
@@ -2222,7 +2227,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 584,
+      "Progressed": 585,
       "Completed": 2
     }
   ],
@@ -2230,8 +2235,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-29T23:09:49.2410469+00:00",
+  "LastChanged_Achievements": "2023-12-30T00:09:56.5661972+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:13.373144+00:00",
-  "LastUpdate_Ratings": "2023-12-29T22:57:11.7927091+00:00",
-  "LastUpdate_Achievements": "2023-12-29T23:09:49.2410658+00:00"
+  "LastUpdate_Ratings": "2023-12-29T23:57:15.3674777+00:00",
+  "LastUpdate_Achievements": "2023-12-30T00:09:56.5662204+00:00"
 }

@@ -1,7 +1,7 @@
 # Wildermyth
 [Store](https://store.epicgames.com/en-US/p/wildermyth-593344)  
 [View Rawdata](../../db/w/wildermyth.json)  
-Rating: 4.78 (Ranked 109)  
+Rating: 4.78 (Ranked 110)  
 Number of Ratings: 45  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -27,9 +27,9 @@ Number of Ratings: 45  (23.09.2022)
 | A Story of Heroes | 1.00% | ~16 |
 | Turncoat | 1.00% | ~16 |
 | Chain Reaction | 0.90% | ~14 |
+| Everfading | 0.90% | ~14 |
 | Legends Never Die | 0.80% | ~13 |
 | In Soil, In Smoke | 0.80% | ~13 |
-| Everfading | 0.80% | ~13 |
 | Plague Doctor | 0.70% | ~11 |
 | Some Say I'm Too Flashy | 0.70% | ~11 |
 | No Time for Clawmonsters | 0.70% | ~11 |

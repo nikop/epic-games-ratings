@@ -4,7 +4,7 @@
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -524,9 +524,9 @@
       "ID": "Achievement17",
       "SetID": "jf6ho5",
       "Name": "Declawing",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 35,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "Achievement18",
@@ -637,8 +637,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-12-29T23:09:51.7651086+00:00",
+  "LastChanged_Achievements": "2023-12-30T00:09:59.1565289+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:10.1109557+00:00",
-  "LastUpdate_Ratings": "2023-12-29T22:58:46.5406754+00:00",
-  "LastUpdate_Achievements": "2023-12-29T23:09:51.7651216+00:00"
+  "LastUpdate_Ratings": "2023-12-29T23:58:47.3583948+00:00",
+  "LastUpdate_Achievements": "2023-12-30T00:09:59.1565644+00:00"
 }

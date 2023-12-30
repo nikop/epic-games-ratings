@@ -4,10 +4,10 @@
   "ProductSlug": "saints-row-the-third-remastered",
   "Ranking_Rating": 744,
   "Ranking_Popularity": 111,
-  "Ranking_PopularitySum": 180,
+  "Ranking_PopularitySum": 181,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewPlayers": 568,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-05-22T08:00:00+00:00",
@@ -2558,6 +2558,6 @@
   "FirstSeen": "2022-07-22T20:28:06.5840635+00:00",
   "LastChanged": "2023-12-29T22:58:38.5394093+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:11.7228942+00:00",
-  "LastUpdate_Ratings": "2023-12-29T22:58:38.5394101+00:00",
-  "LastUpdate_Achievements": "2023-12-29T23:05:42.2065615+00:00"
+  "LastUpdate_Ratings": "2023-12-29T23:58:39.443137+00:00",
+  "LastUpdate_Achievements": "2023-12-30T00:05:45.8295934+00:00"
 }

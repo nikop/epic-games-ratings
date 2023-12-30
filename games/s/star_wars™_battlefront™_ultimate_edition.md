@@ -5,17 +5,17 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | New Recruit | 88.00% | ~2,057 |
-| Off to a good start | 63.00% | ~1,472 |
-| Do... or do not. There is no try | 52.00% | ~1,215 |
+| Off to a good start | 62.00% | ~1,450 |
+| Do... or do not. There is no try | 52.00% | ~1,216 |
 | A good blaster at your side | 26.00% | ~608 |
 | I suggest a new strategy | 18.00% | ~421 |
 | Great shot, kid! | 16.00% | ~374 |
 | Scrap collector | 15.00% | ~351 |
 | All right, I'll give it a try | 15.00% | ~351 |
 | Shoot first | 13.00% | ~304 |
-| The power of the Force | 12.00% | ~280 |
-| Collector | 12.00% | ~280 |
-| Together we can rule the galaxy | 12.00% | ~280 |
+| The power of the Force | 12.00% | ~281 |
+| Collector | 12.00% | ~281 |
+| Together we can rule the galaxy | 12.00% | ~281 |
 | Tell Jabba that I've got his money | 9.00% | ~210 |
 | Best star-pilot in the galaxy | 8.00% | ~187 |
 | Never tell me the odds! | 7.00% | ~164 |
@@ -26,8 +26,8 @@
 | Impressive. Most impressive. | 5.00% | ~117 |
 | Judge me by my size, do you? | 5.00% | ~117 |
 | Support the troops | 5.00% | ~117 |
-| Distinguished | 4.00% | ~93 |
-| A tremor in the Force | 4.00% | ~93 |
+| Distinguished | 4.00% | ~94 |
+| A tremor in the Force | 4.00% | ~94 |
 | On the ball | 3.00% | ~70 |
 | Safety ain't the point of a joyride | 3.00% | ~70 |
 | Not bad for a little furball | 3.00% | ~70 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,337 (Ranked 232)  
+Progressed: 2,338 (Ranked 232)  
 Completed: 1 (0.04%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,6 +173,7 @@ Completed: 1 (0.04%) (Ranked 345)
 | 2023-12-27 | 2,258 | 1 |
 | 2023-12-28 | 2,299 | 1 |
 | 2023-12-29 | 2,337 | 1 |
+| 2023-12-30 | 2,338 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

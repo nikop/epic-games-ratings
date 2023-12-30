@@ -1,7 +1,7 @@
 # Eternights
 [Store](https://store.epicgames.com/en-US/p/eternights-c2fbca)  
 [View Rawdata](../../db/e/eternights.json)  
-Rating: 4.75 (Ranked 149)  
+Rating: 4.75 (Ranked 150)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,7 +15,7 @@ Rating: 4.75 (Ranked 149)
 | Second wall | 33.00% | ~228 |
 | Expert Scavenger | 31.00% | ~214 |
 | Their Rock | 27.00% | ~186 |
-| Yuna's Promise | 26.00% | ~179 |
+| Yuna's Promise | 27.00% | ~186 |
 | Stone Retriever | 26.00% | ~179 |
 | Find myself | 25.00% | ~172 |
 | Min's Promise | 18.00% | ~124 |

@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1422,
+  "EOS_Progressed": 1423,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2960,6 +2960,11 @@
       "Time": "2023-12-29T18:05:47.2331135+00:00",
       "NumProgressed": 1422,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T00:04:41.6342829+00:00",
+      "NumProgressed": 1423,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3036,7 +3041,7 @@
       "Name": "Team Builder",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -3052,7 +3057,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -3068,7 +3073,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -3116,7 +3121,7 @@
       "Name": "Hoarder",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -3180,7 +3185,7 @@
       "Name": "Endlessly Effective",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
@@ -3211,14 +3216,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1422,
+      "Progressed": 1423,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-12-29T23:04:37.8938847+00:00",
+  "LastChanged_Achievements": "2023-12-30T00:04:41.6342823+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:00.1965929+00:00",
-  "LastUpdate_Ratings": "2023-12-29T22:59:59.2484562+00:00",
-  "LastUpdate_Achievements": "2023-12-29T23:04:37.8939147+00:00"
+  "LastUpdate_Ratings": "2023-12-29T23:59:57.4808205+00:00",
+  "LastUpdate_Achievements": "2023-12-30T00:04:41.634315+00:00"
 }

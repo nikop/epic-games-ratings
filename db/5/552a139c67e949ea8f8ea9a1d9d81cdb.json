@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1724,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4558,9 +4558,9 @@
       "ID": "ML_ACHIEVEMENT_38",
       "SetID": "5k00jcd",
       "Name": "Spoiled for choice",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -4643,8 +4643,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-29T23:04:03.7781777+00:00",
+  "LastChanged_Achievements": "2023-12-30T00:04:08.6813319+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2023-12-29T22:57:37.4648811+00:00",
-  "LastUpdate_Achievements": "2023-12-29T23:04:03.7782175+00:00"
+  "LastUpdate_Ratings": "2023-12-29T23:57:39.7037203+00:00",
+  "LastUpdate_Achievements": "2023-12-30T00:04:08.6813719+00:00"
 }

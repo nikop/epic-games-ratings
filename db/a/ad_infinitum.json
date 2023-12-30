@@ -836,9 +836,9 @@
       "ID": "ACH_HOPE",
       "SetID": "88d7anj",
       "Name": "Hope",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_HUNGER",
@@ -908,9 +908,9 @@
       "ID": "ACH_PATHOFCORRUPTION",
       "SetID": "88d7anj",
       "Name": "Path of Corruption",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_PATHOFDESPAIR",
@@ -979,8 +979,8 @@
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2023-12-29T23:08:31.3882677+00:00",
+  "LastChanged_Achievements": "2023-12-30T00:08:39.9659472+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:51.5570753+00:00",
-  "LastUpdate_Ratings": "2023-12-29T22:57:18.777906+00:00",
-  "LastUpdate_Achievements": "2023-12-29T23:08:31.3882876+00:00"
+  "LastUpdate_Ratings": "2023-12-29T23:57:22.2119828+00:00",
+  "LastUpdate_Achievements": "2023-12-30T00:08:39.9659724+00:00"
 }

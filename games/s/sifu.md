@@ -6,20 +6,20 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,928 |
-| Life is your teacher | 4.00% | ~29,928 |
-| The Assault | 3.00% | ~22,446 |
-| Lightning Hands | 3.00% | ~22,446 |
-| The Hateful Pole Fighter | 2.00% | ~14,964 |
-| A Lady's Blood in the Snow | 2.00% | ~14,964 |
-| Stuntmaster | 2.00% | ~14,964 |
-| Street Fighting | 2.00% | ~14,964 |
-| State of constant learning | 2.00% | ~14,964 |
-| Qi Gong: Breath | 2.00% | ~14,964 |
-| Qi Gong: Essence | 2.00% | ~14,964 |
-| Old Child | 2.00% | ~14,964 |
-| Rumble in the Hangar | 2.00% | ~14,964 |
-| Diligence as a goal | 2.00% | ~1,150 |
+| The Old Grandmaster | 4.00% | ~29,929 |
+| Life is your teacher | 4.00% | ~29,929 |
+| The Assault | 3.00% | ~22,447 |
+| Lightning Hands | 3.00% | ~22,447 |
+| The Hateful Pole Fighter | 2.00% | ~14,965 |
+| A Lady's Blood in the Snow | 2.00% | ~14,965 |
+| Stuntmaster | 2.00% | ~14,965 |
+| Street Fighting | 2.00% | ~14,965 |
+| State of constant learning | 2.00% | ~14,965 |
+| Qi Gong: Breath | 2.00% | ~14,965 |
+| Qi Gong: Essence | 2.00% | ~14,965 |
+| Old Child | 2.00% | ~14,965 |
+| Rumble in the Hangar | 2.00% | ~14,965 |
+| Diligence as a goal | 2.00% | ~1,151 |
 | Lady Wing Chun | 1.00% | ~7,482 |
 | Furious Fists | 1.00% | ~7,482 |
 | Kill Nil | 1.00% | ~7,482 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~58 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 748,212 (Ranked 23)  
+Progressed: 748,234 (Ranked 23)  
 Completed: 12,968 (1.73%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,9 +321,10 @@ Completed: 12,968 (1.73%) (Ranked 141)
 | 2023-12-27 | 746,407 | 12,967 |
 | 2023-12-28 | 747,246 | 12,967 |
 | 2023-12-29 | 748,212 | 12,968 |
+| 2023-12-30 | 748,234 | 12,968 |
 ## Awards
 Max (Great Boss Battles): 7,041  (Ranked 55)  
-Sum: 12,473 (Ranked 84)  
+Sum: 12,474 (Ranked 84)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
@@ -332,7 +333,7 @@ Diff (max vs sum): -29
 | This game has Challenging Combat | 634 |
 | This game has Amazing Storytelling | 611 |
 | This game has Amazing Characters | 600 |
-| This game is Highly Recommended | 596 |
+| This game is Highly Recommended | 597 |
 | This game has Quickly Understood Controls | 592 |
 | This game is Extremely Fun | 577 |
 | This game has Unique Visuals | 576 |
@@ -688,3 +689,4 @@ Diff (max vs sum): -29
 | 2023-12-27 | 4.82 | - | 7,028 | 11,888 |
 | 2023-12-28 | 4.82 | - | 7,041 | 12,467 |
 | 2023-12-29 | 4.82 | - | 7,041 | 12,473 |
+| 2023-12-30 | 4.82 | - | 7,041 | 12,474 |

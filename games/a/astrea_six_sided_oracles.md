@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 81.00% | ~218 |
-| Purification Pioneer | 76.00% | ~204 |
-| Mechanical Buddy | 71.00% | ~191 |
-| Dicesmithing Time! | 62.00% | ~167 |
-| Sanctuary Guardian | 54.00% | ~145 |
+| Meissa's Savior | 81.00% | ~219 |
+| Purification Pioneer | 76.00% | ~205 |
+| Mechanical Buddy | 71.00% | ~192 |
+| Dicesmithing Time! | 63.00% | ~170 |
+| Sanctuary Guardian | 53.00% | ~143 |
 | Endless Tricks | 49.00% | ~132 |
 | Wild's Keeper | 46.00% | ~124 |
-| Mind Illuminator | 44.00% | ~118 |
+| Mind Illuminator | 44.00% | ~119 |
 | Stellar Dismantler | 35.00% | ~94 |
-| Noctuan Champion | 35.00% | ~94 |
+| Noctuan Champion | 34.00% | ~92 |
 | Anomaly Destroyer | 30.00% | ~81 |
 | Astral Adventurer | 30.00% | ~81 |
 | Star Killer | 27.00% | ~73 |
 | Eridanian Champion | 24.00% | ~65 |
 | Loyal Partner | 22.00% | ~59 |
-| Lacertian Champion | 21.00% | ~56 |
+| Lacertian Champion | 21.00% | ~57 |
 | Apian Champion | 19.00% | ~51 |
-| Shard Spender | 18.00% | ~48 |
+| Shard Spender | 18.00% | ~49 |
 | Unbeatable | 17.00% | ~46 |
 | Sadistic Plan | 16.00% | ~43 |
 | Behenian Champion | 14.00% | ~38 |
@@ -35,10 +35,10 @@
 | The Goddes Avatar | 8.00% | ~22 |
 | Favored by the Cosmos | 7.00% | ~19 |
 | Anomaly Control | 6.00% | ~16 |
-| Artificer | 5.00% | ~13 |
-| Can't touch this | 5.00% | ~13 |
-| The Dark Moon | 5.00% | ~13 |
-| Apian Hero | 5.00% | ~13 |
+| Artificer | 5.00% | ~14 |
+| Can't touch this | 5.00% | ~14 |
+| The Dark Moon | 5.00% | ~14 |
+| Apian Hero | 5.00% | ~14 |
 | Astrarium of Holding | 4.00% | ~11 |
 | Denying Destiny | 4.00% | ~11 |
 | If I Had Failed... | 4.00% | ~11 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 269 (Ranked 397)  
+Progressed: 270 (Ranked 397)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,3 +168,4 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-27 | 253 | 0 |
 | 2023-12-28 | 262 | 0 |
 | 2023-12-29 | 269 | 0 |
+| 2023-12-30 | 270 | 0 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -397,9 +397,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 1828,
+  "EOS_Progressed": 1829,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -3147,6 +3147,11 @@
       "Time": "2023-12-29T22:04:03.1104167+00:00",
       "NumProgressed": 1828,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-30T00:03:56.5506796+00:00",
+      "NumProgressed": 1829,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 38,
@@ -3158,7 +3163,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1791
+      "UsersEstimate": 1792
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -3172,9 +3177,9 @@
       "ID": "ACHIEVEMENTS_03",
       "SetID": "d4o538a",
       "Name": "Good Samaritan",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 201
+      "UsersEstimate": 183
     },
     {
       "ID": "ACHIEVEMENTS_04",
@@ -3214,7 +3219,7 @@
       "Name": "The First Step",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 1590
+      "UsersEstimate": 1591
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -3222,7 +3227,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -3294,7 +3299,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -3310,7 +3315,7 @@
       "Name": "Decorative Mind",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "ACHIEVEMENTS_21",
@@ -3326,7 +3331,7 @@
       "Name": "The Capitalist",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -3461,7 +3466,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1828,
+      "Progressed": 1829,
       "Completed": 11
     }
   ],
@@ -3469,8 +3474,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-28T09:03:17.5303608+00:00",
-  "LastChanged_Achievements": "2023-12-29T23:03:51.400672+00:00",
+  "LastChanged_Achievements": "2023-12-30T00:03:56.5506793+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:45.5140216+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:02:44.2043451+00:00",
-  "LastUpdate_Achievements": "2023-12-29T23:03:51.4007012+00:00"
+  "LastUpdate_Ratings": "2023-12-30T00:02:49.2440713+00:00",
+  "LastUpdate_Achievements": "2023-12-30T00:03:56.5507105+00:00"
 }

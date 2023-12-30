@@ -4,7 +4,7 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -1899,9 +1899,9 @@
       "ID": "HYPNO_OUTLIER_ID",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Self Aware",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 51
     },
     {
       "ID": "HYPNO_OUTLIER_ONLY_ID",
@@ -2026,8 +2026,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-29T23:09:38.4892665+00:00",
+  "LastChanged_Achievements": "2023-12-30T00:09:45.9155888+00:00",
   "LastUpdate_AppInfo": "2023-12-23T02:14:15.0192188+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:02:34.994361+00:00",
-  "LastUpdate_Achievements": "2023-12-29T23:09:38.4892922+00:00"
+  "LastUpdate_Ratings": "2023-12-30T00:02:40.5536102+00:00",
+  "LastUpdate_Achievements": "2023-12-30T00:09:45.9156097+00:00"
 }

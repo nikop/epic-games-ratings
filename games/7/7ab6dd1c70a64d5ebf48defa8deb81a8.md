@@ -1,25 +1,25 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.08 (Ranked 1,002)  
+Rating: 4.12 (Ranked 995)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 58.00% | ~846 |
-| Trinity | 28.00% | ~409 |
-| A Taste of Wrath | 22.00% | ~321 |
-| The Collector | 22.00% | ~321 |
-| Find Allies | 21.00% | ~306 |
-| I Found It | 21.00% | ~306 |
-| Shatter Them All | 20.00% | ~292 |
-| Geared Up | 20.00% | ~292 |
-| Scholar | 20.00% | ~292 |
-| Adventurer | 19.00% | ~277 |
-| Tributes of Caladrias | 18.00% | ~263 |
-| Fashion Victim | 18.00% | ~263 |
-| Stone Collection | 18.00% | ~263 |
-| Powerful Allies | 17.00% | ~248 |
-| Big Bazar | 11.00% | ~160 |
+| Break Out | 58.00% | ~849 |
+| Trinity | 28.00% | ~410 |
+| A Taste of Wrath | 22.00% | ~322 |
+| The Collector | 22.00% | ~322 |
+| Find Allies | 21.00% | ~307 |
+| I Found It | 21.00% | ~307 |
+| Shatter Them All | 20.00% | ~293 |
+| Geared Up | 20.00% | ~293 |
+| Scholar | 20.00% | ~293 |
+| Adventurer | 19.00% | ~278 |
+| Tributes of Caladrias | 18.00% | ~264 |
+| Fashion Victim | 18.00% | ~264 |
+| Stone Collection | 18.00% | ~264 |
+| Powerful Allies | 17.00% | ~249 |
+| Big Bazar | 11.00% | ~161 |
 | Essence Blow | 10.00% | ~146 |
 | Alchemist | 10.00% | ~146 |
 | The Mentor | 8.00% | ~117 |
@@ -42,8 +42,8 @@ Rating: 4.08 (Ranked 1,002)
 | Summiter | 0.80% | ~12 |
 | Feeling Fancy | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,459 (Ranked 259)  
-Completed: 3 (0.21%) (Ranked 270)  
+Progressed: 1,464 (Ranked 259)  
+Completed: 3 (0.20%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -121,8 +121,10 @@ Completed: 3 (0.21%) (Ranked 270)
 | 2023-12-27 | 1,365 | 3 |
 | 2023-12-28 | 1,412 | 3 |
 | 2023-12-29 | 1,459 | 3 |
+| 2023-12-30 | 1,464 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-12-25 | 4.10 | 0 | 0 |
 | 2023-12-27 | 4.14 | 0 | 0 |
+| 2023-12-29 | 4.12 | 0 | 0 |

@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2337,
+  "EOS_Progressed": 2338,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 323,
   "EOS_NewCompleters": 0,
@@ -6589,6 +6589,11 @@
       "Time": "2023-12-29T23:09:58.3742439+00:00",
       "NumProgressed": 2337,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T00:10:05.7881322+00:00",
+      "NumProgressed": 2338,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6673,7 +6678,7 @@
       "Name": "The power of the Force",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "achievement_19",
@@ -6697,7 +6702,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "achievement_21",
@@ -6713,7 +6718,7 @@
       "Name": "Distinguished",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "achievement_23",
@@ -6737,7 +6742,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "achievement_26",
@@ -6745,7 +6750,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "achievement_27",
@@ -6839,9 +6844,9 @@
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1450
     },
     {
       "ID": "achievement_38",
@@ -6873,7 +6878,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "achievement_41",
@@ -7104,13 +7109,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2337,
+      "Progressed": 2338,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2337,
+      "Progressed": 2338,
       "Completed": 1
     }
   ],
@@ -7118,8 +7123,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-29T23:09:58.3742437+00:00",
+  "LastChanged_Achievements": "2023-12-30T00:10:05.7881319+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.4116758+00:00",
-  "LastUpdate_Ratings": "2023-12-29T22:57:08.7551603+00:00",
-  "LastUpdate_Achievements": "2023-12-29T23:09:58.3743086+00:00"
+  "LastUpdate_Ratings": "2023-12-29T23:57:12.4096347+00:00",
+  "LastUpdate_Achievements": "2023-12-30T00:10:05.7882262+00:00"
 }

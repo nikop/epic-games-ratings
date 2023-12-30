@@ -209,9 +209,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 8656,
+  "EOS_Progressed": 8669,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2224,
+  "EOS_NewPlayers": 2228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2894,6 +2894,11 @@
       "Time": "2023-12-29T23:09:40.9823653+00:00",
       "NumProgressed": 8656,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T00:09:48.3911716+00:00",
+      "NumProgressed": 8669,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -2904,9 +2909,9 @@
       "ID": "02_TheIntrigue",
       "SetID": "37a94m8",
       "Name": "Conspiracy",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 260
     },
     {
       "ID": "03_TheStolenStar",
@@ -3000,9 +3005,9 @@
       "ID": "14_TheBreezeOfPain",
       "SetID": "37a94m8",
       "Name": "Fear Not Obliteration",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 61
     },
     {
       "ID": "15_Pentakill",
@@ -3120,9 +3125,9 @@
       "ID": "29_NoStoneUnturned",
       "SetID": "37a94m8",
       "Name": "No Stone Unturned",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 35
     },
     {
       "ID": "30_The GreatestExploration",
@@ -3312,9 +3317,9 @@
       "ID": "53_GardensOfMadness",
       "SetID": "37a94m8",
       "Name": "Enraged Dragon",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 9
     },
     {
       "ID": "54_ThisIsAJobForLordCaptain",
@@ -3328,9 +3333,9 @@
       "ID": "55_ReturningTheBoots",
       "SetID": "37a94m8",
       "Name": "Returning the Boots",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 9
     },
     {
       "ID": "56_ThoroughInvestigation",
@@ -3344,9 +3349,9 @@
       "ID": "57_TheBurningHeritage",
       "SetID": "37a94m8",
       "Name": "Burning Inheritance",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 9
     },
     {
       "ID": "58_KneeDeepInChaos",
@@ -3425,7 +3430,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8656,
+      "Progressed": 8669,
       "Completed": 0
     }
   ],
@@ -3433,8 +3438,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-29T15:57:59.1942922+00:00",
-  "LastChanged_Achievements": "2023-12-29T23:09:40.9823651+00:00",
+  "LastChanged_Achievements": "2023-12-30T00:09:48.3911712+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-29T22:58:01.2971354+00:00",
-  "LastUpdate_Achievements": "2023-12-29T23:09:40.9824143+00:00"
+  "LastUpdate_Ratings": "2023-12-29T23:58:03.3570934+00:00",
+  "LastUpdate_Achievements": "2023-12-30T00:09:48.3912508+00:00"
 }

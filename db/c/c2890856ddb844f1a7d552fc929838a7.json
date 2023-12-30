@@ -251,7 +251,7 @@
   ],
   "EOS_Progressed": 1925,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4615,17 +4615,17 @@
       "ID": "AC02",
       "SetID": "l4abp0",
       "Name": "Blood and Dust",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1251
     },
     {
       "ID": "AC03",
       "SetID": "l4abp0",
       "Name": "Blood and Gold",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1155
     },
     {
       "ID": "AC04",
@@ -4639,9 +4639,9 @@
       "ID": "AC05",
       "SetID": "l4abp0",
       "Name": "The Sharpest Tool in the Shed",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1059
     },
     {
       "ID": "AC06",
@@ -4663,9 +4663,9 @@
       "ID": "AC08",
       "SetID": "l4abp0",
       "Name": "Forged in Fire",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 886
+      "UsersEstimate": 905
     },
     {
       "ID": "AC09",
@@ -4976,8 +4976,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-28T05:02:31.3995097+00:00",
-  "LastChanged_Achievements": "2023-12-29T23:05:34.687555+00:00",
+  "LastChanged_Achievements": "2023-12-30T00:05:38.4498328+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:24.8809366+00:00",
-  "LastUpdate_Ratings": "2023-12-29T22:57:30.4228522+00:00",
-  "LastUpdate_Achievements": "2023-12-29T23:05:34.6876166+00:00"
+  "LastUpdate_Ratings": "2023-12-29T23:57:32.8203088+00:00",
+  "LastUpdate_Achievements": "2023-12-30T00:05:38.4498814+00:00"
 }

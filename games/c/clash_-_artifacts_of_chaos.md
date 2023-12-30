@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Declawing | 64.00% | ~91 |
+| Declawing | 65.00% | ~92 |
 | Target Practice | 42.00% | ~60 |
 | The Bigger They Are | 32.00% | ~45 |
 | Enemies of Fate | 30.00% | ~43 |

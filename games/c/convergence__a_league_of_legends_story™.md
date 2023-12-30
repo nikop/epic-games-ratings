@@ -10,10 +10,10 @@ Rating: 4.65 (Ranked 322)
 | The Mysterious Stranger | 31.00% | ~355 |
 | Immaculate Aim | 27.00% | ~309 |
 | The Brass Boss | 26.00% | ~298 |
+| The Prince in Heels | 25.00% | ~286 |
 | Make Up For Lost Time | 24.00% | ~275 |
 | Time Flies | 24.00% | ~275 |
 | No, Thanks! | 24.00% | ~275 |
-| The Prince in Heels | 24.00% | ~275 |
 | Honest Mistake | 24.00% | ~275 |
 | Immaculate Aim | 24.00% | ~275 |
 | The Steel Shadow | 23.00% | ~263 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 322)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,145 (Ranked 279)  
+Progressed: 1,145 (Ranked 280)  
 Completed: 6 (0.52%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |

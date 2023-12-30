@@ -4,7 +4,7 @@
   "ProductSlug": "charons-staircase-b2d05f",
   "Ranking_EOS_Progress": 500,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewPlayers": 568,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-10-28T07:00:00+00:00",
@@ -155,9 +155,9 @@
       "ID": "ACH_11",
       "SetID": "1g3d1lg",
       "Name": "Second document retrieved",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_12",
@@ -179,9 +179,9 @@
       "ID": "ACH_14",
       "SetID": "1g3d1lg",
       "Name": "Agatha\u0027s favourite song",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 35,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_15",
@@ -203,9 +203,9 @@
       "ID": "ACH_17",
       "SetID": "1g3d1lg",
       "Name": "Until death do us part",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_18",
@@ -251,9 +251,9 @@
       "ID": "ACH_4",
       "SetID": "1g3d1lg",
       "Name": "A lonely death",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_5",
@@ -308,8 +308,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.6125588+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.3534182+00:00",
   "LastChanged": "2023-03-31T05:58:38.6125589+00:00",
-  "LastChanged_Achievements": "2023-12-29T23:08:41.663865+00:00",
+  "LastChanged_Achievements": "2023-12-30T00:08:50.0617446+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.0118432+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:02:42.6151868+00:00",
-  "LastUpdate_Achievements": "2023-12-29T23:08:41.6638763+00:00"
+  "LastUpdate_Ratings": "2023-12-30T00:02:47.6373481+00:00",
+  "LastUpdate_Achievements": "2023-12-30T00:08:50.0617589+00:00"
 }

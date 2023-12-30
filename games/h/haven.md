@@ -1,17 +1,17 @@
 # Haven
 [Store](https://store.epicgames.com/en-US/p/haven)  
 [View Rawdata](../../db/h/haven.json)  
-Rating: 4.75 (Ranked 149)  
+Rating: 4.75 (Ranked 150)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 73.00% | ~1,319 |
-| Lovebirds | 45.00% | ~813 |
+| Balding bloot! | 73.00% | ~1,320 |
+| Lovebirds | 45.00% | ~814 |
 | Life’s short, ride long | 40.00% | ~723 |
 | Hug therapy | 39.00% | ~705 |
 | Over my dead body | 36.00% | ~651 |
-| Shake the rust off their feet | 19.00% | ~343 |
+| Shake the rust off their feet | 19.00% | ~344 |
 | My little pony | 18.00% | ~325 |
 | Strike! | 17.00% | ~307 |
 | A love supreme | 17.00% | ~307 |
@@ -25,7 +25,7 @@ Number of Ratings: 38  (23.09.2022)
 | Unstoppable | 9.00% | ~163 |
 | Perfect timing | 8.00% | ~145 |
 | Ain't no mountain high enough | 8.00% | ~145 |
-| Self-sustainability | 7.00% | ~126 |
+| Self-sustainability | 7.00% | ~127 |
 | Spring cleaning | 5.00% | ~90 |
 | An eye for an eye | 5.00% | ~90 |
 | Can't get wetter... | 4.00% | ~72 |
@@ -37,7 +37,7 @@ Number of Ratings: 38  (23.09.2022)
 | Thar she blows | 2.00% | ~36 |
 | À la carte | 1.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,807 (Ranked 247)  
+Progressed: 1,808 (Ranked 247)  
 Completed: 10 (0.55%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,6 +234,7 @@ Completed: 10 (0.55%) (Ranked 208)
 | 2023-12-27 | 1,788 | 10 |
 | 2023-12-28 | 1,795 | 10 |
 | 2023-12-29 | 1,807 | 10 |
+| 2023-12-30 | 1,808 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

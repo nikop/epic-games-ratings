@@ -9187,9 +9187,9 @@
       "Count": 3609
     }
   ],
-  "EOS_Progressed": 247120,
+  "EOS_Progressed": 247156,
   "EOS_Completed": 2575,
-  "EOS_NewPlayers": 3663,
+  "EOS_NewPlayers": 3673,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -37857,6 +37857,11 @@
       "Time": "2023-12-29T23:10:02.7904301+00:00",
       "NumProgressed": 247120,
       "NumCompleted": 2575
+    },
+    {
+      "Time": "2023-12-30T00:10:10.1218769+00:00",
+      "NumProgressed": 247156,
+      "NumCompleted": 2575
     }
   ],
   "TotalAchievements": 546,
@@ -37868,7 +37873,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4942
+      "UsersEstimate": 4943
     },
     {
       "ID": "objective_completed_10",
@@ -39540,7 +39545,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2471
+      "UsersEstimate": 2472
     },
     {
       "ID": "objective_completed_34",
@@ -39548,7 +39553,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "objective_completed_35",
@@ -39732,7 +39737,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "objective_completed_40",
@@ -41010,9 +41015,9 @@
       "ID": "objective_completed_7",
       "SetID": "cc37lbc",
       "Name": "The Mad Wizard",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1730
     },
     {
       "ID": "objective_completed_70",
@@ -42172,7 +42177,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1280
+      "UsersEstimate": 1281
     },
     {
       "ID": "objective_completed_1563",
@@ -42235,21 +42240,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 213394,
+      "Progressed": 213430,
       "Completed": 4093
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 247120,
+      "Progressed": 247156,
       "Completed": 2575
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-29T22:59:27.6538149+00:00",
-  "LastChanged_Achievements": "2023-12-29T23:10:02.7904299+00:00",
+  "LastChanged_Achievements": "2023-12-30T00:10:10.1218766+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-29T22:59:27.6538155+00:00",
-  "LastUpdate_Achievements": "2023-12-29T23:10:02.7926962+00:00"
+  "LastUpdate_Ratings": "2023-12-29T23:59:27.3493982+00:00",
+  "LastUpdate_Achievements": "2023-12-30T00:10:10.1242322+00:00"
 }

@@ -6,17 +6,18 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~605 |
+| Malpractice Assurance | 11.00% | ~606 |
 | Lost and Found | 7.00% | ~385 |
 | Autodidact | 6.00% | ~7,838 |
 | This guy... again? | 6.00% | ~330 |
-| This Belongs in a Museum | 5.00% | ~6,531 |
-| Creep and Sleep | 5.00% | ~6,531 |
-| Overdue Notice | 5.00% | ~6,531 |
+| This Belongs in a Museum | 5.00% | ~6,532 |
+| Creep and Sleep | 5.00% | ~6,532 |
+| Overdue Notice | 5.00% | ~6,532 |
 | Ploughshares to Swords | 5.00% | ~275 |
 | Bloody Graduation | 5.00% | ~275 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,225 |
 | Serenity Now! | 4.00% | ~5,225 |
+| It Rings a Bell | 4.00% | ~5,225 |
 | Not Today! | 4.00% | ~5,225 |
 | Meat and Greet | 4.00% | ~5,225 |
 | Catch and Decease | 4.00% | ~5,225 |
@@ -25,7 +26,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 4.00% | ~5,225 |
 | FNG | 4.00% | ~5,225 |
 | Friends 'Til the End | 4.00% | ~220 |
-| It Rings a Bell | 3.00% | ~3,919 |
 | Dissector | 3.00% | ~3,919 |
 | Banishment | 3.00% | ~3,919 |
 | It Happens | 3.00% | ~3,919 |
@@ -67,16 +67,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | Clearing the Ledger | 0.80% | ~1,045 |
 | Hat Trick | 0.70% | ~914 |
 | Triage | 0.70% | ~914 |
-| No Mercy | 0.70% | ~38 |
-| Et Tu, Riposte? | 0.70% | ~38 |
+| No Mercy | 0.70% | ~39 |
+| Et Tu, Riposte? | 0.70% | ~39 |
 | The World As It Was | 0.50% | ~653 |
 | Bacon Bits | 0.50% | ~653 |
 | A Life Well Lived | 0.40% | ~523 |
 | Eidetic | 0.40% | ~523 |
 | On This Long Road, We Found Redemption | 0.40% | ~22 |
 | Tears in the Rain | 0.30% | ~392 |
-| Battle Hardened | 0.30% | ~16 |
-| Maître De La Lame | 0.30% | ~16 |
+| Battle Hardened | 0.30% | ~17 |
+| Maître De La Lame | 0.30% | ~17 |
 | Circle of Life | 0.20% | ~261 |
 | Grand Slam | 0.20% | ~261 |
 | Loop Year | 0.10% | ~131 |
@@ -84,9 +84,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | 20,000 Leagues Above the Sea | 0.10% | ~131 |
 | The Clash | 0.10% | ~131 |
 | Hard Mode | 0.10% | ~131 |
-| These Boots Are Made For Kickin' | 0.10% | ~5 |
+| These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,627 (Ranked 87)  
+Progressed: 130,637 (Ranked 88)  
 Completed: 3 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,6 +330,7 @@ Completed: 3 (0.00%) (Ranked 389)
 | 2023-12-27 | 130,259 | 3 |
 | 2023-12-28 | 130,422 | 3 |
 | 2023-12-29 | 130,627 | 3 |
+| 2023-12-30 | 130,637 | 3 |
 ## Awards
 Max (Character Customization): 7,899  (Ranked 50)  
 Sum: 21,240 (Ranked 58)  

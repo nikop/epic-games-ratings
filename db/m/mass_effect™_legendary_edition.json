@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 3336,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 584,
+  "EOS_NewPlayers": 579,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -6891,9 +6891,9 @@
       "ID": "achievement_21",
       "SetID": "b9pe172",
       "Name": "Medal of Exploration I",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1935
     },
     {
       "ID": "achievement_22",
@@ -7591,8 +7591,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-29T23:09:59.7099439+00:00",
+  "LastChanged_Achievements": "2023-12-30T00:10:06.9116465+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:58.3788938+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:03:08.4733984+00:00",
-  "LastUpdate_Achievements": "2023-12-29T23:09:59.7101054+00:00"
+  "LastUpdate_Ratings": "2023-12-30T00:03:12.9157732+00:00",
+  "LastUpdate_Achievements": "2023-12-30T00:10:06.9118332+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "0bb1bf6df5784815a0c62120f8a82b25",
   "Name": "Eternights",
   "ProductSlug": "eternights-c2fbca",
-  "Ranking_Rating": 149,
+  "Ranking_Rating": 150,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -2587,9 +2587,9 @@
       "ID": "ACHIEVEMENT_14_PromiseYuna",
       "SetID": "9bke6f1",
       "Name": "Yuna\u0027s Promise",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 179
+      "UsersEstimate": 186
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -2764,8 +2764,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-27T15:59:49.1136695+00:00",
-  "LastChanged_Achievements": "2023-12-29T23:08:54.8219525+00:00",
+  "LastChanged_Achievements": "2023-12-30T00:09:03.0658644+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:10.2016354+00:00",
-  "LastUpdate_Ratings": "2023-12-29T22:59:45.5374323+00:00",
-  "LastUpdate_Achievements": "2023-12-29T23:08:54.8219815+00:00"
+  "LastUpdate_Ratings": "2023-12-29T23:59:44.4567083+00:00",
+  "LastUpdate_Achievements": "2023-12-30T00:09:03.0658879+00:00"
 }

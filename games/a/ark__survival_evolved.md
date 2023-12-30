@@ -5,21 +5,21 @@ Rating: 4.58 (Ranked 462)
 Number of Ratings: 35,570  (23.09.2022)  
 ## Awards
 Max (Character Customization): 65,191  (Ranked 11)  
-Sum: 282,363 (Ranked 13)  
+Sum: 282,409 (Ranked 13)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 65,191 |
-| This game has Diverse Characters | 24,352 |
+| This game has Diverse Characters | 24,376 |
 | This game has Challenging Combat | 22,937 |
 | This game is Highly Recommended | 22,718 |
 | This game is Educational | 22,059 |
 | This game is Extremely Fun | 21,790 |
 | This game is Relaxing | 20,995 |
 | This game has Amazing Storytelling | 20,728 |
-| This game has Competitive Players | 20,605 |
+| This game has Competitive Players | 20,613 |
+| This game has Amazing Characters | 20,505 |
 | This game has Quickly Understood Controls | 20,497 |
-| This game has Amazing Characters | 20,491 |
 | This game has Obsessive Gameplay | 13,324 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -364,4 +364,4 @@ Diff (max vs sum): -2
 | 2023-12-26 | 4.58 | - | 65,080 | 282,002 |
 | 2023-12-27 | 4.58 | - | 65,123 | 282,132 |
 | 2023-12-28 | 4.58 | - | 65,155 | 282,269 |
-| 2023-12-29 | 4.58 | - | 65,191 | 282,363 |
+| 2023-12-29 | 4.58 | - | 65,191 | 282,409 |

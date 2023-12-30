@@ -14,7 +14,7 @@
 | The Exterminator | 18.00% | ~9 |
 | The Keeper of Fleed | 16.00% | ~8 |
 | Earth's Savior | 16.00% | ~8 |
-| The Collector | 10.00% | ~5 |
+| The Collector | 12.00% | ~6 |
 | The Vega Turtle | 8.00% | ~4 |
 | Gold Seeker | 6.00% | ~3 |
 | The Planner | 6.00% | ~3 |

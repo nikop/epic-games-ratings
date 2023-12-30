@@ -4,7 +4,7 @@
   "ProductSlug": "recursive-ruin-8fa892",
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewPlayers": 568,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-18T13:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:01.2667039+00:00",
   "LastChanged": "2023-03-31T05:58:01.266704+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:11.522767+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:02:43.7774442+00:00",
-  "LastUpdate_Achievements": "2023-12-29T23:05:15.463768+00:00"
+  "LastUpdate_Ratings": "2023-12-30T00:02:48.8452892+00:00",
+  "LastUpdate_Achievements": "2023-12-30T00:05:19.3574847+00:00"
 }

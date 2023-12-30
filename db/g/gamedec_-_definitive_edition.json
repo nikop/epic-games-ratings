@@ -513,9 +513,9 @@
       "Count": 95
     }
   ],
-  "EOS_Progressed": 256175,
+  "EOS_Progressed": 256177,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 819,
+  "EOS_NewPlayers": 816,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28923,6 +28923,11 @@
       "Time": "2023-12-29T23:04:36.2166959+00:00",
       "NumProgressed": 256175,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-30T00:04:39.8900381+00:00",
+      "NumProgressed": 256177,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -28934,7 +28939,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 69167
+      "UsersEstimate": 69168
     },
     {
       "ID": "ACH_AON",
@@ -29214,7 +29219,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 15370
+      "UsersEstimate": 15371
     },
     {
       "ID": "ACH_MEMORY5",
@@ -29302,7 +29307,7 @@
       "Name": "Trash compactor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15370
+      "UsersEstimate": 15371
     },
     {
       "ID": "ACH_TROLLKING",
@@ -29318,7 +29323,7 @@
       "Name": "Valedictorian",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 15370
+      "UsersEstimate": 15371
     },
     {
       "ID": "ACH_WAKEUP",
@@ -29349,7 +29354,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 256175,
+      "Progressed": 256177,
       "Completed": 8
     }
   ],
@@ -29357,8 +29362,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-12-29T15:03:04.8477148+00:00",
-  "LastChanged_Achievements": "2023-12-29T23:04:36.2166958+00:00",
+  "LastChanged_Achievements": "2023-12-30T00:04:39.8900377+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:20.3145423+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:02:51.8276485+00:00",
-  "LastUpdate_Achievements": "2023-12-29T23:04:36.216824+00:00"
+  "LastUpdate_Ratings": "2023-12-30T00:02:56.8353694+00:00",
+  "LastUpdate_Achievements": "2023-12-30T00:04:39.8901787+00:00"
 }

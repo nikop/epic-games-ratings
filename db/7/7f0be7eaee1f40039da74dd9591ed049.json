@@ -2,9 +2,9 @@
   "ID": "7f0be7eaee1f40039da74dd9591ed049",
   "Name": "Quick Race",
   "ProductSlug": "quick-race-293d39",
-  "Ranking_EOS_Progress": 671,
+  "Ranking_EOS_Progress": 659,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewPlayers": 418,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-29T17:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -47,6 +47,11 @@
       "Time": "2023-12-29T23:05:42.1973509+00:00",
       "NumProgressed": 6,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T00:05:45.6852212+00:00",
+      "NumProgressed": 8,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-23T19:03:08.11154+00:00",
@@ -57,7 +62,7 @@
       "ID": "10_MAPS",
       "SetID": "2g288ag",
       "Name": "Track Explorer",
-      "Percentage": 17,
+      "Percentage": 13,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -65,15 +70,15 @@
       "ID": "10_RACES",
       "SetID": "2g288ag",
       "Name": "Swift Decade Sprinter",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "15_RACES",
       "SetID": "2g288ag",
       "Name": "Turbocharged Odyssey",
-      "Percentage": 17,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -81,15 +86,15 @@
       "ID": "1_RACE",
       "SetID": "2g288ag",
       "Name": "Rookie Racer",
-      "Percentage": 83,
+      "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "20_RACES",
       "SetID": "2g288ag",
       "Name": "Race Maestro",
-      "Percentage": 17,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -97,7 +102,7 @@
       "ID": "25_RACES",
       "SetID": "2g288ag",
       "Name": "Silver Streak Spectacle",
-      "Percentage": 17,
+      "Percentage": 13,
       "XP": 160,
       "UsersEstimate": 1
     },
@@ -105,7 +110,7 @@
       "ID": "2PLAYERS",
       "SetID": "2g288ag",
       "Name": "Dynamic Duo",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 90,
       "UsersEstimate": 2
     },
@@ -113,23 +118,23 @@
       "ID": "2_MAPS",
       "SetID": "2g288ag",
       "Name": "Twice on the Track, Twice to win",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "2_RACES",
       "SetID": "2g288ag",
       "Name": "Double Trouble",
-      "Percentage": 50,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "30_RACES",
       "SetID": "2g288ag",
       "Name": "Apex Adventurer",
-      "Percentage": 17,
+      "Percentage": 13,
       "XP": 180,
       "UsersEstimate": 1
     },
@@ -137,39 +142,39 @@
       "ID": "3_RACES",
       "SetID": "2g288ag",
       "Name": "Triple Threat",
-      "Percentage": 50,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "5_MAPS",
       "SetID": "2g288ag",
       "Name": "Track Tourist",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "5_RACES",
       "SetID": "2g288ag",
       "Name": "Quintessential Quest",
-      "Percentage": 17,
+      "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "NO_CRASH",
       "SetID": "2g288ag",
       "Name": "Zen Racer on Map Number 1",
-      "Percentage": 33,
+      "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "WIN_AGAINST_BOT",
       "SetID": "2g288ag",
       "Name": "Unbeatable Challenge",
-      "Percentage": 17,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 1
     }
@@ -178,13 +183,13 @@
     {
       "ID": "2g288ag",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 8,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-12-23T19:03:08.11154+00:00",
-  "LastChanged_Achievements": "2023-12-29T23:05:42.1973508+00:00",
+  "LastChanged_Achievements": "2023-12-30T00:05:45.6852207+00:00",
   "LastUpdate_AppInfo": "2023-12-23T18:56:53.2603644+00:00",
-  "LastUpdate_Ratings": "2023-12-29T22:59:54.4083748+00:00",
-  "LastUpdate_Achievements": "2023-12-29T23:05:42.1973564+00:00"
+  "LastUpdate_Ratings": "2023-12-29T23:59:52.9320104+00:00",
+  "LastUpdate_Achievements": "2023-12-30T00:05:45.6852289+00:00"
 }

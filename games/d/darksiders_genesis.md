@@ -19,16 +19,16 @@ Number of Ratings: 67  (23.09.2022)
 | Why'd It Have to Be Snakes? | 1.00% | ~3 |
 | Good Deeds | 0.70% | ~2 |
 | Mint II | 0.70% | ~2 |
-| A Bullet for All Seasons | 0.40% | ~1 |
-| Are You Not Entertained? | 0.40% | ~1 |
-| Collector | 0.40% | ~1 |
-| Full of Hell | 0.40% | ~1 |
-| Gatekeeper | 0.40% | ~1 |
-| Infested | 0.40% | ~1 |
-| Mint III | 0.40% | ~1 |
-| The Promised End | 0.40% | ~1 |
-| Walking Armory | 0.40% | ~1 |
-| Wicked Killington | 0.40% | ~1 |
+| A Bullet for All Seasons | 0.30% | ~1 |
+| Are You Not Entertained? | 0.30% | ~1 |
+| Collector | 0.30% | ~1 |
+| Full of Hell | 0.30% | ~1 |
+| Gatekeeper | 0.30% | ~1 |
+| Infested | 0.30% | ~1 |
+| Mint III | 0.30% | ~1 |
+| The Promised End | 0.30% | ~1 |
+| Walking Armory | 0.30% | ~1 |
+| Wicked Killington | 0.30% | ~1 |
 | Belial | 0.00% | ~0 |
 | Blademaster | 0.00% | ~0 |
 | Dagon | 0.00% | ~0 |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Respect For Animals | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 284 (Ranked 393)  
+Progressed: 286 (Ranked 392)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -54,6 +54,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-27 | 256 | 0 |
 | 2023-12-28 | 270 | 0 |
 | 2023-12-29 | 284 | 0 |
+| 2023-12-30 | 286 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 464)  
 Sum: 45 (Ranked 509)  

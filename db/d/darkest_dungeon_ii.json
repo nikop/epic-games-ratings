@@ -5,7 +5,7 @@
   "Ranking_Rating": 261,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 58,
-  "Ranking_EOS_Progress": 87,
+  "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 389,
   "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 152,
@@ -10296,9 +10296,9 @@
       "Count": 1068
     }
   ],
-  "EOS_Progressed": 130627,
+  "EOS_Progressed": 130637,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1431,
+  "EOS_NewPlayers": 1434,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37421,6 +37421,11 @@
       "Time": "2023-12-29T23:09:23.7448857+00:00",
       "NumProgressed": 130627,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-30T00:09:31.6561621+00:00",
+      "NumProgressed": 130637,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37446,9 +37451,9 @@
       "ID": "altar_of_hope_memory_equip_first_time",
       "SetID": "64l4lke",
       "Name": "It Rings a Bell",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3919
+      "UsersEstimate": 5225
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -37560,7 +37565,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6531
+      "UsersEstimate": 6532
     },
     {
       "ID": "combat_kill_cadavers",
@@ -37592,7 +37597,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6531
+      "UsersEstimate": 6532
     },
     {
       "ID": "combat_kill_fanatics",
@@ -37656,7 +37661,7 @@
       "Name": "Overdue Notice",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6531
+      "UsersEstimate": 6532
     },
     {
       "ID": "combat_kill_pillagers",
@@ -37952,7 +37957,7 @@
       "Name": "Battle Hardened",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "altar_of_hope_memory_equip_all_duelist",
@@ -37960,7 +37965,7 @@
       "Name": "Ma\u00EEtre De La Lame",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "combat_kill_chirurgeon",
@@ -37968,7 +37973,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "combat_kill_collector",
@@ -37984,7 +37989,7 @@
       "Name": "These Boots Are Made For Kickin\u0027",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "combat_kill_warlord_crusader",
@@ -37992,7 +37997,7 @@
       "Name": "No Mercy",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "combat_land_riposte_dmg_threshold_duelist",
@@ -38008,7 +38013,7 @@
       "Name": "Et Tu, Riposte?",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -38063,21 +38068,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130627,
+      "Progressed": 130637,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5496,
+      "Progressed": 5506,
       "Completed": 814
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-29T17:00:36.8253934+00:00",
-  "LastChanged_Achievements": "2023-12-29T23:09:23.7448856+00:00",
+  "LastChanged_Achievements": "2023-12-30T00:09:31.6561617+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:00:09.8334983+00:00",
-  "LastUpdate_Achievements": "2023-12-29T23:09:23.7450349+00:00"
+  "LastUpdate_Ratings": "2023-12-30T00:00:07.5576561+00:00",
+  "LastUpdate_Achievements": "2023-12-30T00:09:31.6563389+00:00"
 }

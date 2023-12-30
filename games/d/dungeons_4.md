@@ -5,59 +5,59 @@ Rating: 4.65 (Ranked 322)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 88.00% | ~582 |
-| Thalya – Simply Immortal | 88.00% | ~582 |
-| For the Horde! | 82.00% | ~542 |
-| Hammer Time, Round Two | 80.00% | ~529 |
-| The Hellwoods | 77.00% | ~509 |
-| The Plains of Strothalm | 72.00% | ~476 |
-| Experienced Thalya | 72.00% | ~476 |
-| Bad Elves Go Everywhere | 69.00% | ~456 |
-| Thalya's Concentrated Fury | 68.00% | ~449 |
-| Heroes’ Gorge | 64.00% | ~423 |
-| Master of Magic | 63.00% | ~416 |
-| Unicorn steaks – fresh off the hoof! | 63.00% | ~416 |
-| Magic Accidents | 59.00% | ~390 |
-| The Ascent | 59.00% | ~390 |
-| It's Warm and Cozy at Home | 59.00% | ~390 |
-| Minions, Minions! | 56.00% | ~370 |
+| The Last Stand | 88.00% | ~583 |
+| Thalya – Simply Immortal | 88.00% | ~583 |
+| For the Horde! | 82.00% | ~543 |
+| Hammer Time, Round Two | 80.00% | ~530 |
+| The Hellwoods | 77.00% | ~510 |
+| The Plains of Strothalm | 72.00% | ~477 |
+| Experienced Thalya | 72.00% | ~477 |
+| Bad Elves Go Everywhere | 69.00% | ~457 |
+| Thalya's Concentrated Fury | 68.00% | ~450 |
+| Heroes’ Gorge | 64.00% | ~424 |
+| Master of Magic | 63.00% | ~417 |
+| Unicorn steaks – fresh off the hoof! | 63.00% | ~417 |
+| Magic Accidents | 59.00% | ~391 |
+| The Ascent | 59.00% | ~391 |
+| It's Warm and Cozy at Home | 59.00% | ~391 |
 | Trap Master | 55.00% | ~364 |
+| Minions, Minions! | 55.00% | ~364 |
 | Hard Work | 54.00% | ~357 |
 | The Big Eaty | 54.00% | ~357 |
-| “… like son” | 51.00% | ~337 |
-| YOU SHALL NOT PASS! | 50.00% | ~330 |
+| “… like son” | 51.00% | ~338 |
+| YOU SHALL NOT PASS! | 50.00% | ~331 |
 | The Cathedral of Light | 47.00% | ~311 |
 | Shame! Shame! Shame! | 47.00% | ~311 |
-| Pure Dynamite! | 45.00% | ~297 |
-| Dungeonlord Gorgu | 45.00% | ~297 |
-| Tanos' Crusade Against Thalya | 45.00% | ~297 |
+| Pure Dynamite! | 45.00% | ~298 |
+| Dungeonlord Gorgu | 45.00% | ~298 |
+| Tanos' Crusade Against Thalya | 45.00% | ~298 |
 | Mana Cannon | 42.00% | ~278 |
-| All’s Well That Ends Evil | 40.00% | ~264 |
-| The Duel | 38.00% | ~251 |
-| If Looks Could Kill | 35.00% | ~231 |
+| All’s Well That Ends Evil | 40.00% | ~265 |
+| The Duel | 38.00% | ~252 |
+| If Looks Could Kill | 35.00% | ~232 |
 | Unstoppable Horde | 34.00% | ~225 |
 | Master of the Undead | 34.00% | ~225 |
 | The Finitude Drill | 32.00% | ~212 |
-| Ghost Pirates? Ghost Heroes! | 30.00% | ~198 |
+| Ghost Pirates? Ghost Heroes! | 30.00% | ~199 |
 | Doom Hill | 29.00% | ~192 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~185 |
 | Forbidden Knowledge | 28.00% | ~185 |
-| Hungry, Hungry Gorgu! | 27.00% | ~178 |
-| Brimstone Shaken, Not Stirred | 27.00% | ~178 |
+| Hungry, Hungry Gorgu! | 27.00% | ~179 |
+| Brimstone Shaken, Not Stirred | 27.00% | ~179 |
 | Stop Tanos! | 26.00% | ~172 |
 | Sabotage! | 26.00% | ~172 |
 | Raiders of the Lost Stone | 26.00% | ~172 |
 | The Rune Sockets of Finitude (Part 1) | 26.00% | ~172 |
-| Bonus Evilness | 25.00% | ~165 |
-| The Rune Sockets of Finitude (Part 2) | 25.00% | ~165 |
+| Bonus Evilness | 25.00% | ~166 |
+| The Rune Sockets of Finitude (Part 2) | 24.00% | ~159 |
 | The Last Stand - This Time For Real! | 23.00% | ~152 |
 | Rubble and Ashes | 21.00% | ~139 |
 | Lavalumps on Ice! | 19.00% | ~126 |
 | My Little Torture Chamber | 18.00% | ~119 |
 | To the Max! | 18.00% | ~119 |
 | To Infinity And Beyond! | 18.00% | ~119 |
-| Sacrificial Pit = Garbage Disposal? | 17.00% | ~112 |
-| Evilification | 17.00% | ~112 |
+| Sacrificial Pit = Garbage Disposal? | 17.00% | ~113 |
+| Evilification | 17.00% | ~113 |
 | Heal Heal Blessing | 16.00% | ~106 |
 | Mirror, Mirror | 15.00% | ~99 |
 | Untouchable | 15.00% | ~99 |
@@ -65,9 +65,9 @@ Rating: 4.65 (Ranked 322)
 | Gorgu is in the Best of Health | 12.00% | ~79 |
 | Hands Off My Stones | 12.00% | ~79 |
 | No Mana, No Cry | 10.00% | ~66 |
-| I Don't Need Any Help | 9.00% | ~59 |
+| I Don't Need Any Help | 9.00% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 661 (Ranked 318)  
+Progressed: 662 (Ranked 318)  
 Completed: 24 (3.63%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,6 +122,7 @@ Completed: 24 (3.63%) (Ranked 99)
 | 2023-12-27 | 650 | 24 |
 | 2023-12-28 | 654 | 24 |
 | 2023-12-29 | 661 | 24 |
+| 2023-12-30 | 662 | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

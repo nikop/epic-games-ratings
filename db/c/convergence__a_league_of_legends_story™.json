@@ -5,9 +5,9 @@
   "Ranking_Rating": 322,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 279,
+  "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -53,7 +53,7 @@
   "Tags": [],
   "EOS_Progressed": 1145,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -3570,9 +3570,9 @@
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 275
+      "UsersEstimate": 286
     },
     {
       "ID": "RewindDamage1",
@@ -3723,8 +3723,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-29T23:09:53.1759712+00:00",
+  "LastChanged_Achievements": "2023-12-30T00:10:00.545473+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:00:01.4857679+00:00",
-  "LastUpdate_Achievements": "2023-12-29T23:09:53.1760114+00:00"
+  "LastUpdate_Ratings": "2023-12-29T23:59:59.2469825+00:00",
+  "LastUpdate_Achievements": "2023-12-30T00:10:00.5455569+00:00"
 }

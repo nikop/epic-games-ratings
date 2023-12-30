@@ -1,7 +1,7 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.59 (Ranked 1,078)  
+Rating: 3.60 (Ranked 1,078)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -72,7 +72,7 @@ Rating: 3.59 (Ranked 1,078)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,155 (Ranked 237)  
+Progressed: 2,156 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,6 +203,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-27 | 2,113 | 0 |
 | 2023-12-28 | 2,135 | 0 |
 | 2023-12-29 | 2,155 | 0 |
+| 2023-12-30 | 2,156 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 568)  
 Sum: 20 (Ranked 569)  
@@ -256,3 +257,4 @@ Diff (max vs sum): -1
 | 2023-12-24 | 3.59 | 0 | 0 |
 | 2023-12-25 | 3.58 | 20 | 20 |
 | 2023-12-28 | 3.61 | 20 | 20 |
+| 2023-12-29 | 3.60 | 20 | 20 |

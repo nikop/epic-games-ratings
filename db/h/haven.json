@@ -2,12 +2,12 @@
   "ID": "2d831f372e6343cc85cceda5c9c808cf",
   "Name": "Haven",
   "ProductSlug": "haven",
-  "Ranking_Rating": 149,
+  "Ranking_Rating": 150,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1807,
+  "EOS_Progressed": 1808,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3038,6 +3038,11 @@
       "Time": "2023-12-29T21:05:37.4682494+00:00",
       "NumProgressed": 1807,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-30T00:05:43.2906799+00:00",
+      "NumProgressed": 1808,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3049,7 +3054,7 @@
       "Name": "Lovebirds",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "10",
@@ -3073,7 +3078,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "13",
@@ -3113,7 +3118,7 @@
       "Name": "Balding bloot!",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "18",
@@ -3217,7 +3222,7 @@
       "Name": "Self-sustainability",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "31",
@@ -3288,15 +3293,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1807,
+      "Progressed": 1808,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-29T23:05:39.6150883+00:00",
+  "LastChanged_Achievements": "2023-12-30T00:05:43.2906796+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.0357893+00:00",
-  "LastUpdate_Ratings": "2023-12-29T22:56:55.8733028+00:00",
-  "LastUpdate_Achievements": "2023-12-29T23:05:39.6151199+00:00"
+  "LastUpdate_Ratings": "2023-12-29T23:56:59.7790889+00:00",
+  "LastUpdate_Achievements": "2023-12-30T00:05:43.2907047+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 996,
+  "Ranking_Rating": 995,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 122,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "SA"
     }
   },
-  "Rating": 4.11,
+  "Rating": 4.12,
   "RatingHistory": [
     {
       "Time": "2023-01-28T02:09:06.4755934+00:00",
@@ -533,6 +533,12 @@
       "Rating": 4.11,
       "NumberOfAwards": 35,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-12-30T00:02:46.8050042+00:00",
+      "Rating": 4.12,
+      "NumberOfAwards": 35,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
@@ -547,9 +553,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 45657,
+  "EOS_Progressed": 45661,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 853,
+  "EOS_NewPlayers": 852,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16912,6 +16918,11 @@
       "Time": "2023-12-29T23:03:38.1293646+00:00",
       "NumProgressed": 45657,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-30T00:03:43.0716017+00:00",
+      "NumProgressed": 45661,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -16971,7 +16982,7 @@
       "Name": "Attachments",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5022
+      "UsersEstimate": 5023
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -17275,7 +17286,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2739
+      "UsersEstimate": 2740
     },
     {
       "ID": "STAYING_AIR",
@@ -17346,22 +17357,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 45657,
+      "Progressed": 45661,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 10494,
-      "Completed": 10494
+      "Progressed": 10498,
+      "Completed": 10498
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
-  "LastChanged": "2023-12-29T22:02:54.5699385+00:00",
-  "LastChanged_Achievements": "2023-12-29T23:03:38.1293644+00:00",
+  "LastChanged": "2023-12-30T00:02:46.805004+00:00",
+  "LastChanged_Achievements": "2023-12-30T00:03:43.0716014+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.8849039+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:02:41.7684154+00:00",
-  "LastUpdate_Achievements": "2023-12-29T23:03:38.1295058+00:00"
+  "LastUpdate_Ratings": "2023-12-30T00:02:46.8050046+00:00",
+  "LastUpdate_Achievements": "2023-12-30T00:03:43.0716877+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "6a8afa765c0e4ebe970db11a0a67c883",
   "Name": "King\u0027s Bounty: Crossworlds",
   "ProductSlug": "kings-bounty-crossworlds-da093a",
-  "Ranking_Rating": 149,
+  "Ranking_Rating": 150,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewPlayers": 568,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-06-21T15:00:00+00:00",
@@ -114,6 +114,6 @@
   "FirstSeenRating": "2022-09-05T14:31:59.289908+00:00",
   "LastChanged": "2023-11-07T07:59:26.8181905+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:14.2648565+00:00",
-  "LastUpdate_Ratings": "2023-12-29T22:57:30.18792+00:00",
-  "LastUpdate_Achievements": "2023-12-29T23:09:33.0763701+00:00"
+  "LastUpdate_Ratings": "2023-12-29T23:57:32.5784876+00:00",
+  "LastUpdate_Achievements": "2023-12-30T00:09:40.608073+00:00"
 }

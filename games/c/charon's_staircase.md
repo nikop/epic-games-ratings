@@ -10,18 +10,18 @@
 | There is something strange here... | 51.00% | ~43 |
 | First document retrieved | 48.00% | ~41 |
 | Curious by nature | 45.00% | ~38 |
+| A lonely death | 39.00% | ~33 |
 | An ear for music | 38.00% | ~32 |
-| A lonely death | 38.00% | ~32 |
-| Agatha's favourite song | 34.00% | ~29 |
+| Agatha's favourite song | 35.00% | ~30 |
 | Lights and shadows | 33.00% | ~28 |
 | The threshold of horror | 31.00% | ~26 |
-| Second document retrieved | 28.00% | ~24 |
+| Second document retrieved | 29.00% | ~25 |
 | Third document retrieved | 28.00% | ~24 |
 | Deadly chase | 28.00% | ~24 |
 | Dara's home | 28.00% | ~24 |
 | The lowest floor of the lift | 27.00% | ~23 |
 | Charon's coin | 26.00% | ~22 |
-| Until death do us part | 24.00% | ~20 |
+| Until death do us part | 25.00% | ~21 |
 | The impatient one | 21.00% | ~18 |
 | Spectres from the past | 7.00% | ~6 |
 ## Popularity (Based on EOS Achievements)

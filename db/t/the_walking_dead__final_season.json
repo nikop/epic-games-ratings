@@ -2,12 +2,12 @@
   "ID": "ocelot",
   "Name": "The Walking Dead: Final Season",
   "ProductSlug": "walking-dead-final-season",
-  "Ranking_Rating": 116,
+  "Ranking_Rating": 110,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 389,
-  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewPlayers": 568,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2018-08-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.77,
+  "Rating": 4.78,
   "NumberOfRatings": 57,
   "RatingHistory": [
     {
@@ -236,6 +236,12 @@
       "Rating": 4.77,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-30T00:00:06.4936093+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -253,8 +259,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:34.1366366+00:00",
-  "LastChanged": "2023-11-16T20:59:48.681359+00:00",
+  "LastChanged": "2023-12-30T00:00:06.4936091+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4075361+00:00",
-  "LastUpdate_Ratings": "2023-12-29T23:00:08.7119577+00:00",
-  "LastUpdate_Achievements": "2023-12-29T23:04:10.8400705+00:00"
+  "LastUpdate_Ratings": "2023-12-30T00:00:06.4936098+00:00",
+  "LastUpdate_Achievements": "2023-12-30T00:04:15.4639822+00:00"
 }

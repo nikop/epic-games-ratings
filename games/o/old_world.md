@@ -11,6 +11,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 0.80% | ~128 |
 | Friendly Family | 0.70% | ~112 |
 | Architect | 0.60% | ~96 |
+| Good | 0.60% | ~96 |
 | Intrepid | 0.60% | ~96 |
 | Mason | 0.60% | ~96 |
 | Strong | 0.60% | ~96 |
@@ -18,7 +19,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 0.60% | ~96 |
 | Able | 0.50% | ~80 |
 | Glorious | 0.50% | ~80 |
-| Good | 0.50% | ~80 |
 | Just | 0.50% | ~80 |
 | Keystone | 0.50% | ~80 |
 | Learned | 0.50% | ~80 |
@@ -36,6 +36,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 0.40% | ~64 |
 | Developing Cities | 0.40% | ~64 |
 | Strong Cities | 0.40% | ~64 |
+| Furious Family | 0.40% | ~64 |
 | Apadana | 0.40% | ~64 |
 | Ishtar Gate | 0.40% | ~64 |
 | Lighthouse | 0.40% | ~64 |
@@ -52,7 +53,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Wise | 0.30% | ~48 |
 | Legendary Cities | 0.30% | ~48 |
 | Able Difficulty | 0.30% | ~48 |
-| Furious Family | 0.30% | ~48 |
+| Just Difficulty | 0.30% | ~48 |
 | Acropolis | 0.30% | ~48 |
 | Colossus | 0.30% | ~48 |
 | Great Ziggurat | 0.30% | ~48 |
@@ -72,9 +73,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.20% | ~32 |
 | Valiant | 0.20% | ~32 |
 | Good Difficulty | 0.20% | ~32 |
-| Just Difficulty | 0.20% | ~32 |
 | Artisans | 0.20% | ~32 |
 | Champions | 0.20% | ~32 |
+| Landowners | 0.20% | ~32 |
 | Patrons | 0.20% | ~32 |
 | Riders | 0.20% | ~32 |
 | Sages | 0.20% | ~32 |
@@ -154,7 +155,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Event Level High | 0.10% | ~16 |
 | Clerics | 0.10% | ~16 |
 | Hunters | 0.10% | ~16 |
-| Landowners | 0.10% | ~16 |
 | Statesmen | 0.10% | ~16 |
 | Battle of the Fertile Crescent | 0.10% | ~16 |
 | The Eternal Treaty | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,011 (Ranked 165)  
+Progressed: 16,013 (Ranked 165)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -619,6 +619,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-27 | 15,978 | 5 |
 | 2023-12-28 | 15,997 | 5 |
 | 2023-12-29 | 16,011 | 5 |
+| 2023-12-30 | 16,013 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 284)  
 Sum: 1,912 (Ranked 220)  

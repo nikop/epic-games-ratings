@@ -158,7 +158,7 @@
   "Tags": [],
   "EOS_Progressed": 581,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -2099,9 +2099,9 @@
       "ID": "ACH_CUT_100_TREES",
       "SetID": "7c4cldc",
       "Name": "Forest Killer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_CUT_20_TREES",
@@ -2252,8 +2252,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2023-12-29T23:09:09.3924308+00:00",
+  "LastChanged_Achievements": "2023-12-30T00:09:17.334819+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:34.110653+00:00",
-  "LastUpdate_Ratings": "2023-12-29T22:59:15.0631481+00:00",
-  "LastUpdate_Achievements": "2023-12-29T23:09:09.3924577+00:00"
+  "LastUpdate_Ratings": "2023-12-29T23:59:15.4755918+00:00",
+  "LastUpdate_Achievements": "2023-12-30T00:09:17.3348444+00:00"
 }

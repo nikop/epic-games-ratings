@@ -6,19 +6,19 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 45.00% | ~382 |
+| Adept | 45.00% | ~383 |
 | Double Kill | 39.00% | ~332 |
-| Critical Hit | 21.00% | ~178 |
-| Veteran | 21.00% | ~178 |
+| Critical Hit | 21.00% | ~179 |
+| Veteran | 21.00% | ~179 |
 | Dressed For Success | 14.00% | ~119 |
-| Veni, Vidi, Vici | 9.00% | ~76 |
+| Veni, Vidi, Vici | 9.00% | ~77 |
 | Multi Kill | 8.00% | ~68 |
+| Sorcerous Spree | 8.00% | ~68 |
 | Humiliation | 8.00% | ~68 |
-| Sorcerous Spree | 7.00% | ~60 |
 | Master | 7.00% | ~60 |
 | Whoops! | 6.00% | ~51 |
 | Landlord Extraordinaire | 6.00% | ~51 |
-| Don't Touch My Stuff | 5.00% | ~42 |
+| Don't Touch My Stuff | 5.00% | ~43 |
 | The Song of Stoutheart | 4.00% | ~34 |
 | Trojan Horse | 4.00% | ~34 |
 | Expert Essence Employment | 3.00% | ~26 |
@@ -29,9 +29,9 @@ Number of Ratings: 292  (23.09.2022)
 | From the Ashes | 2.00% | ~17 |
 | Ultra Kill | 2.00% | ~17 |
 | Pyrrhic Victory | 2.00% | ~17 |
-| Versatile Wielder | 1.00% | ~8 |
-| Such A Fungi | 1.00% | ~8 |
-| Grand Master | 1.00% | ~8 |
+| Versatile Wielder | 1.00% | ~9 |
+| Such A Fungi | 1.00% | ~9 |
+| Grand Master | 1.00% | ~9 |
 | Together For Her | 0.80% | ~7 |
 | In The Thick of It | 0.70% | ~6 |
 | Unlimited Power! | 0.60% | ~5 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 850 (Ranked 296)  
+Progressed: 851 (Ranked 296)  
 Completed: 0 (0.00%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,6 +111,7 @@ Completed: 0 (0.00%) (Ranked 389)
 | 2023-12-27 | 796 | 0 |
 | 2023-12-28 | 815 | 0 |
 | 2023-12-29 | 850 | 0 |
+| 2023-12-30 | 851 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 29  (Ranked 519)  
 Sum: 251 (Ranked 397)  

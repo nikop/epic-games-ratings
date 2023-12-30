@@ -2,7 +2,7 @@
   "ID": "b595ab13a93a4be8b6857cc14d2d6e8b",
   "Name": "Good Company",
   "ProductSlug": "good-company",
-  "Ranking_Rating": 698,
+  "Ranking_Rating": 685,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 199,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.44,
+  "Rating": 4.45,
   "NumberOfRatings": 75,
   "RatingHistory": [
     {
@@ -182,6 +182,12 @@
       "Rating": 4.44,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-29T23:58:32.3539859+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -190,7 +196,7 @@
   "Tags": [],
   "EOS_Progressed": 5754,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5677,9 +5683,9 @@
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
-  "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-12-29T23:05:27.1575478+00:00",
+  "LastChanged": "2023-12-29T23:58:32.3539857+00:00",
+  "LastChanged_Achievements": "2023-12-30T00:05:30.8641351+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:01.9204048+00:00",
-  "LastUpdate_Ratings": "2023-12-29T22:58:30.5536389+00:00",
-  "LastUpdate_Achievements": "2023-12-29T23:05:27.1576236+00:00"
+  "LastUpdate_Ratings": "2023-12-29T23:58:32.3539862+00:00",
+  "LastUpdate_Achievements": "2023-12-30T00:05:30.8642104+00:00"
 }

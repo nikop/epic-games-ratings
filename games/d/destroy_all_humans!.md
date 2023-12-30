@@ -21,7 +21,7 @@ Number of Ratings: 85  (23.09.2022)
 | Freshly Squeezed | 35.00% | ~78 |
 | Forbidden Donut | 34.00% | ~76 |
 | Bodied Sattva | 34.00% | ~76 |
-| Upgreatest | 32.00% | ~72 |
+| Upgreatest | 33.00% | ~74 |
 | Furon Fashion | 27.00% | ~60 |
 | Deincarnated | 26.00% | ~58 |
 | Rock of the Bay | 25.00% | ~56 |
@@ -32,9 +32,9 @@ Number of Ratings: 85  (23.09.2022)
 | If You Know What I Mean | 16.00% | ~36 |
 | Die Nasty | 15.00% | ~34 |
 | Mash Machine | 14.00% | ~31 |
+| Albion Bridge Is for Falling Down | 13.00% | ~29 |
 | Hidden Human Hive Harvest | 13.00% | ~29 |
 | Dusted | 13.00% | ~29 |
-| Albion Bridge Is for Falling Down | 12.00% | ~27 |
 | PK Slam Dunk | 10.00% | ~22 |
 | Scuttled | 9.00% | ~20 |
 | Higher Than the Futen Zoku | 8.00% | ~18 |

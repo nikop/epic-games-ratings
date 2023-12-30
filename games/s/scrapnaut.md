@@ -35,7 +35,7 @@ Number of Ratings: 38  (23.09.2022)
 | Black Gold | 7.00% | ~41 |
 | Survival Master | 5.00% | ~29 |
 | Traveler | 3.00% | ~17 |
-| Forest Killer | 2.00% | ~12 |
+| Forest Killer | 3.00% | ~17 |
 | Invincible | 0.50% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 581 (Ranked 332)  

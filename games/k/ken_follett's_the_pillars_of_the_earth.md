@@ -20,7 +20,7 @@ Number of Ratings: 368  (23.09.2022)
 | Negotiation skills | 18.00% | ~3,148 |
 | Workers' union | 18.00% | ~3,148 |
 | End of Book Two | 18.00% | ~3,148 |
-| Everything's in order | 16.00% | ~2,798 |
+| Everything's in order | 16.00% | ~2,799 |
 | Twist of Fate | 14.00% | ~2,449 |
 | Jack was here! | 14.00% | ~2,449 |
 | Exterminator | 13.00% | ~2,274 |
@@ -38,9 +38,9 @@ Number of Ratings: 368  (23.09.2022)
 | A cry for help | 7.00% | ~1,224 |
 | Silentium est aureum | 7.00% | ~1,224 |
 | Rebel without a cause | 6.00% | ~1,049 |
-| Staring contest champion | 5.00% | ~874 |
-| Lone wolf | 5.00% | ~874 |
-| Vox Populi | 5.00% | ~874 |
+| Staring contest champion | 5.00% | ~875 |
+| Lone wolf | 5.00% | ~875 |
+| Vox Populi | 5.00% | ~875 |
 | Revenge | 4.00% | ~700 |
 | Countess Aliena | 4.00% | ~700 |
 | Care, like a brother cares | 3.00% | ~525 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~525 |
 | Boy of mystery | 2.00% | ~350 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,490 (Ranked 158)  
+Progressed: 17,491 (Ranked 158)  
 Completed: 122 (0.70%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,6 +302,7 @@ Completed: 122 (0.70%) (Ranked 195)
 | 2023-12-27 | 17,444 | 122 |
 | 2023-12-28 | 17,468 | 122 |
 | 2023-12-29 | 17,490 | 122 |
+| 2023-12-30 | 17,491 | 122 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 324)  
 Sum: 200 (Ranked 414)  
