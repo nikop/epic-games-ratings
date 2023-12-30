@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2354,
+  "EOS_Progressed": 2358,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6639,6 +6639,11 @@
       "Time": "2023-12-30T10:11:06.3028697+00:00",
       "NumProgressed": 2354,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T11:10:07.5162705+00:00",
+      "NumProgressed": 2358,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6651,7 +6656,7 @@
       "Name": "A New Hope",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_10",
@@ -6723,7 +6728,7 @@
       "Name": "The power of the Force",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "achievement_19",
@@ -6747,7 +6752,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "achievement_21",
@@ -6795,7 +6800,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "achievement_27",
@@ -6843,7 +6848,7 @@
       "Name": "Scrap collector",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "achievement_32",
@@ -6851,7 +6856,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "achievement_33",
@@ -6867,7 +6872,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "achievement_35",
@@ -6875,7 +6880,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2051
     },
     {
       "ID": "achievement_36",
@@ -6891,7 +6896,7 @@
       "Name": "Off to a good start",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1459
+      "UsersEstimate": 1462
     },
     {
       "ID": "achievement_38",
@@ -6923,7 +6928,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1226
     },
     {
       "ID": "achievement_41",
@@ -6955,7 +6960,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "achievement_45",
@@ -7003,7 +7008,7 @@
       "Name": "Shoot first",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "achievement_50",
@@ -7154,13 +7159,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2354,
+      "Progressed": 2358,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2354,
+      "Progressed": 2358,
       "Completed": 1
     }
   ],
@@ -7168,8 +7173,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-30T10:11:06.3028692+00:00",
+  "LastChanged_Achievements": "2023-12-30T11:10:07.5162704+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.4116758+00:00",
-  "LastUpdate_Ratings": "2023-12-30T09:57:56.8570087+00:00",
-  "LastUpdate_Achievements": "2023-12-30T10:11:06.3029493+00:00"
+  "LastUpdate_Ratings": "2023-12-30T10:57:44.7311598+00:00",
+  "LastUpdate_Achievements": "2023-12-30T11:10:07.5163339+00:00"
 }

@@ -31,6 +31,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | I Am Overburdened | 0.70% | ~1,694 |
 | The Bestiary | 0.70% | ~1,694 |
 | What's Yours Is Mine | 0.70% | ~1,694 |
+| Shootout | 0.70% | ~1,694 |
 | C-C-Combo | 0.70% | ~1,694 |
 | Toxic | 0.70% | ~1,694 |
 | Sneaky | 0.70% | ~1,694 |
@@ -38,7 +39,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Who To Trust? | 0.60% | ~1,452 |
 | Walk It Off | 0.60% | ~1,452 |
 | Destroy Your Fears | 0.60% | ~1,452 |
-| Shootout | 0.60% | ~1,452 |
 | Stone Touch | 0.60% | ~1,452 |
 | Shadow Walker | 0.60% | ~1,452 |
 | Flesh Wound | 0.60% | ~1,452 |
@@ -47,6 +47,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | What Doesn't Kill You | 0.60% | ~21 |
 | Consecutive Curses | 0.50% | ~1,210 |
 | To The Death! | 0.50% | ~1,210 |
+| Well Prepared | 0.50% | ~1,210 |
 | Just Chilling | 0.50% | ~1,210 |
 | Save Our Souls | 0.50% | ~1,210 |
 | Stop Hitting Yourself | 0.50% | ~1,210 |
@@ -57,7 +58,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shadow Spreads | 0.40% | ~968 |
 | Max Damage! | 0.40% | ~968 |
 | A Rough Road | 0.40% | ~968 |
-| Well Prepared | 0.40% | ~968 |
 | Don't Ignore Me! | 0.40% | ~968 |
 | All Consuming | 0.40% | ~968 |
 | Illuminate, Eliminate | 0.40% | ~968 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~3 |
 | Dominant Twin | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,014 (Ranked 70)  
+Progressed: 242,016 (Ranked 70)  
 Completed: 302 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -399,7 +399,7 @@ Completed: 302 (0.12%) (Ranked 301)
 | 2023-12-27 | 241,847 | 302 |
 | 2023-12-28 | 241,919 | 302 |
 | 2023-12-29 | 241,985 | 302 |
-| 2023-12-30 | 242,014 | 302 |
+| 2023-12-30 | 242,016 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 134)  
 Sum: 11,770 (Ranked 88)  

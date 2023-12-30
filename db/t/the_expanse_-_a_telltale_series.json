@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17779,
+  "EOS_Progressed": 17783,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 627,
+  "EOS_NewPlayers": 621,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15652,6 +15652,11 @@
       "Time": "2023-12-30T10:07:25.3236288+00:00",
       "NumProgressed": 17779,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-30T11:05:55.9961478+00:00",
+      "NumProgressed": 17783,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15808,7 +15813,7 @@
       "Name": "Call it Even",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "27",
@@ -15840,7 +15845,7 @@
       "Name": "Captain Drummer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2133
+      "UsersEstimate": 2134
     },
     {
       "ID": "30",
@@ -15872,7 +15877,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2133
+      "UsersEstimate": 2134
     },
     {
       "ID": "7",
@@ -15904,7 +15909,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "32",
@@ -15943,22 +15948,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17779,
+      "Progressed": 17783,
       "Completed": 57
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3733,
-      "Completed": 1117
+      "Progressed": 3737,
+      "Completed": 1118
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-27T06:00:51.7325186+00:00",
-  "LastChanged_Achievements": "2023-12-30T10:07:25.3236283+00:00",
+  "LastChanged_Achievements": "2023-12-30T11:05:55.9961475+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-30T09:58:03.7939357+00:00",
-  "LastUpdate_Achievements": "2023-12-30T10:07:25.3237353+00:00"
+  "LastUpdate_Ratings": "2023-12-30T10:57:49.9736057+00:00",
+  "LastUpdate_Achievements": "2023-12-30T11:05:55.9962403+00:00"
 }

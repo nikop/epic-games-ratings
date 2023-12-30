@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 81.00% | ~220 |
-| Purification Pioneer | 77.00% | ~209 |
-| Mechanical Buddy | 71.00% | ~193 |
-| Dicesmithing Time! | 63.00% | ~171 |
-| Sanctuary Guardian | 53.00% | ~144 |
-| Endless Tricks | 49.00% | ~133 |
-| Wild's Keeper | 46.00% | ~125 |
+| Meissa's Savior | 81.00% | ~221 |
+| Purification Pioneer | 77.00% | ~210 |
+| Mechanical Buddy | 71.00% | ~194 |
+| Dicesmithing Time! | 63.00% | ~172 |
+| Sanctuary Guardian | 53.00% | ~145 |
+| Endless Tricks | 49.00% | ~134 |
+| Wild's Keeper | 46.00% | ~126 |
 | Mind Illuminator | 44.00% | ~120 |
-| Stellar Dismantler | 35.00% | ~95 |
-| Noctuan Champion | 35.00% | ~95 |
-| Astral Adventurer | 31.00% | ~84 |
+| Stellar Dismantler | 36.00% | ~98 |
+| Noctuan Champion | 34.00% | ~93 |
 | Anomaly Destroyer | 30.00% | ~82 |
-| Star Killer | 27.00% | ~73 |
-| Eridanian Champion | 24.00% | ~65 |
+| Astral Adventurer | 30.00% | ~82 |
+| Star Killer | 27.00% | ~74 |
+| Eridanian Champion | 24.00% | ~66 |
 | Loyal Partner | 22.00% | ~60 |
 | Lacertian Champion | 21.00% | ~57 |
 | Apian Champion | 19.00% | ~52 |
 | Shard Spender | 18.00% | ~49 |
-| Unbeatable | 17.00% | ~46 |
+| Unbeatable | 16.00% | ~44 |
 | Sadistic Plan | 15.00% | ~41 |
 | Behenian Champion | 14.00% | ~38 |
 | Astral Seeker | 10.00% | ~27 |
 | Aquarian Champion | 10.00% | ~27 |
-| Heavy Purger | 9.00% | ~24 |
-| Stellar Haste | 9.00% | ~24 |
+| Heavy Purger | 9.00% | ~25 |
+| Stellar Haste | 9.00% | ~25 |
+| Wave Bender | 9.00% | ~25 |
 | Heart Gate | 8.00% | ~22 |
 | The Corruption Goddess | 8.00% | ~22 |
 | The Goddes Avatar | 8.00% | ~22 |
-| Wave Bender | 8.00% | ~22 |
 | Favored by the Cosmos | 7.00% | ~19 |
-| Anomaly Control | 6.00% | ~16 |
+| Anomaly Control | 5.00% | ~14 |
 | Artificer | 5.00% | ~14 |
 | Can't touch this | 5.00% | ~14 |
 | The Dark Moon | 5.00% | ~14 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 272 (Ranked 397)  
+Progressed: 273 (Ranked 397)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,4 +168,4 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 253 | 0 |
 | 2023-12-28 | 262 | 0 |
 | 2023-12-29 | 269 | 0 |
-| 2023-12-30 | 272 | 0 |
+| 2023-12-30 | 273 | 0 |

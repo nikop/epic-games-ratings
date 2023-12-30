@@ -32,7 +32,7 @@ Number of Ratings: 28  (23.09.2022)
 | Woodcutter | 10.00% | ~60 |
 | Engineer | 10.00% | ~60 |
 | Tycoon | 9.00% | ~54 |
-| Germany | 6.00% | ~36 |
+| Germany | 7.00% | ~42 |
 | Supercrash! | 5.00% | ~30 |
 | Chuck Norris | 5.00% | ~30 |
 | Сhancellor | 4.00% | ~24 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8607,9 +8607,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 748739,
+  "EOS_Progressed": 748797,
   "EOS_Completed": 12968,
-  "EOS_NewPlayers": 7739,
+  "EOS_NewPlayers": 7718,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.73,
   "EosHistory": [
@@ -31567,6 +31567,11 @@
       "Time": "2023-12-30T10:09:42.1169839+00:00",
       "NumProgressed": 748739,
       "NumCompleted": 12968
+    },
+    {
+      "Time": "2023-12-30T11:09:01.3312029+00:00",
+      "NumProgressed": 748797,
+      "NumCompleted": 12968
     }
   ],
   "TotalAchievements": 60,
@@ -31578,7 +31583,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37437
+      "UsersEstimate": 37440
     },
     {
       "ID": "02_Vengeance_H1",
@@ -31586,7 +31591,7 @@
       "Name": "The Assault",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22462
+      "UsersEstimate": 22464
     },
     {
       "ID": "03_Vengeance_H2",
@@ -31594,7 +31599,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14975
+      "UsersEstimate": 14976
     },
     {
       "ID": "04_Vengeance_H3",
@@ -31602,7 +31607,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14975
+      "UsersEstimate": 14976
     },
     {
       "ID": "05_Vengeance_H4",
@@ -31610,7 +31615,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7487
+      "UsersEstimate": 7488
     },
     {
       "ID": "06_Vengeance_H5",
@@ -31618,7 +31623,7 @@
       "Name": "Furious Fists",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 7487
+      "UsersEstimate": 7488
     },
     {
       "ID": "07_Wude_H1",
@@ -31682,7 +31687,7 @@
       "Name": "Kill Nil",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 7487
+      "UsersEstimate": 7488
     },
     {
       "ID": "15_Detective_H1",
@@ -31698,7 +31703,7 @@
       "Name": "Drunken Fighter",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "17_Detective_H3",
@@ -31706,7 +31711,7 @@
       "Name": "Martial Artist",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "18_Detective_H4",
@@ -31722,7 +31727,7 @@
       "Name": "Healing Memory",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "20_Traversal_Trophy",
@@ -31730,7 +31735,7 @@
       "Name": "Stuntmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14975
+      "UsersEstimate": 14976
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -31746,7 +31751,7 @@
       "Name": "Street Fighting",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14975
+      "UsersEstimate": 14976
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -31754,7 +31759,7 @@
       "Name": "Life is your teacher",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29950
+      "UsersEstimate": 29952
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -31762,7 +31767,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14975
+      "UsersEstimate": 14976
     },
     {
       "ID": "25_ShrineMind",
@@ -31770,7 +31775,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7487
+      "UsersEstimate": 7488
     },
     {
       "ID": "26_ShrineSpirit",
@@ -31778,7 +31783,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14975
+      "UsersEstimate": 14976
     },
     {
       "ID": "27_ShrineBody",
@@ -31786,7 +31791,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14975
+      "UsersEstimate": 14976
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -31802,7 +31807,7 @@
       "Name": "Master of the Phoenix Eye Fist",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "30_ComboMid",
@@ -31810,7 +31815,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7487
+      "UsersEstimate": 7488
     },
     {
       "ID": "31_ComboHigh",
@@ -31818,7 +31823,7 @@
       "Name": "Ferocity, speed, strength, accuracy",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "32_ReachMaxAge",
@@ -31826,7 +31831,7 @@
       "Name": "Old Child",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14975
+      "UsersEstimate": 14976
     },
     {
       "ID": "33_BladeOneShot",
@@ -31842,7 +31847,7 @@
       "Name": "Lightning Hands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22462
+      "UsersEstimate": 22464
     },
     {
       "ID": "35_WideStrike",
@@ -31858,7 +31863,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7487
+      "UsersEstimate": 7488
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -31866,7 +31871,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14975
+      "UsersEstimate": 14976
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -31882,7 +31887,7 @@
       "Name": "Be like water my friend",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "40_CustomTrophy_H4",
@@ -31890,7 +31895,7 @@
       "Name": "Take damage to save time",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7487
+      "UsersEstimate": 7488
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -31914,7 +31919,7 @@
       "Name": "Project Arena",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -31922,7 +31927,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -31938,7 +31943,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -32042,7 +32047,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -32057,21 +32062,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 58040,
-      "Completed": 10792
+      "Progressed": 58098,
+      "Completed": 10793
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 748739,
+      "Progressed": 748797,
       "Completed": 12968
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-30T04:02:48.191211+00:00",
-  "LastChanged_Achievements": "2023-12-30T10:09:42.1169835+00:00",
+  "LastChanged_Achievements": "2023-12-30T11:09:01.3312025+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:49.3189229+00:00",
-  "LastUpdate_Ratings": "2023-12-30T10:03:32.8023103+00:00",
-  "LastUpdate_Achievements": "2023-12-30T10:09:42.1171611+00:00"
+  "LastUpdate_Ratings": "2023-12-30T11:02:56.2799325+00:00",
+  "LastUpdate_Achievements": "2023-12-30T11:09:01.3313539+00:00"
 }

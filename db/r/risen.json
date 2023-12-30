@@ -1022,9 +1022,9 @@
       "ID": "id_52",
       "SetID": "bk9jib6",
       "Name": "Idiot",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "id_53",
@@ -1159,8 +1159,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-28T07:02:46.0007261+00:00",
-  "LastChanged_Achievements": "2023-12-30T10:10:57.2506909+00:00",
+  "LastChanged_Achievements": "2023-12-30T11:10:00.1717957+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:07.54931+00:00",
-  "LastUpdate_Ratings": "2023-12-30T10:03:17.7708539+00:00",
-  "LastUpdate_Achievements": "2023-12-30T10:10:57.2507289+00:00"
+  "LastUpdate_Ratings": "2023-12-30T11:02:45.1053399+00:00",
+  "LastUpdate_Achievements": "2023-12-30T11:10:00.1718386+00:00"
 }

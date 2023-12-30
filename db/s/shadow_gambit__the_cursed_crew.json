@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 125,
   "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -179,11 +179,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1347,
+  "EOS_Progressed": 1349,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.6,
+  "EOS_Completed_Percentage": 2.59,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -4654,6 +4654,11 @@
       "Time": "2023-12-30T10:05:57.6041949+00:00",
       "NumProgressed": 1347,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-30T11:04:48.3753285+00:00",
+      "NumProgressed": 1349,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4664,9 +4669,9 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 364
+      "UsersEstimate": 351
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -4674,7 +4679,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "_03_FinishAct1",
@@ -4682,7 +4687,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4690,7 +4695,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "_05_FinishAct2",
@@ -4698,7 +4703,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -4706,7 +4711,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "_07_FinishAct3",
@@ -4722,7 +4727,7 @@
       "Name": "Swabbie",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "_09_Completion_20",
@@ -4730,7 +4735,7 @@
       "Name": "Powder Monkey",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "_10_Completion_30",
@@ -4738,7 +4743,7 @@
       "Name": "Buccaneer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "_11_Completion_40",
@@ -4786,7 +4791,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -4794,7 +4799,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -4818,7 +4823,7 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -4873,7 +4878,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1347,
+      "Progressed": 1349,
       "Completed": 35
     }
   ],
@@ -4881,8 +4886,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2023-12-30T10:05:57.6041941+00:00",
+  "LastChanged_Achievements": "2023-12-30T11:04:48.3753279+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-30T10:00:28.2841433+00:00",
-  "LastUpdate_Achievements": "2023-12-30T10:05:57.6042311+00:00"
+  "LastUpdate_Ratings": "2023-12-30T10:59:37.1143995+00:00",
+  "LastUpdate_Achievements": "2023-12-30T11:04:48.3753728+00:00"
 }

@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You've met with a terrible fate haven't you? | 64.00% | ~7 |
-| Nothing in life is to be feared | 18.00% | ~2 |
-| Late night investigation | 9.00% | ~1 |
-| It's a trap! | 9.00% | ~1 |
-| Like a ninja! | 9.00% | ~1 |
-| Lights out | 9.00% | ~1 |
-| The end... or is it? | 9.00% | ~1 |
-| Happy ever after | 9.00% | ~1 |
+| You've met with a terrible fate haven't you? | 58.00% | ~7 |
+| Nothing in life is to be feared | 17.00% | ~2 |
+| Late night investigation | 8.00% | ~1 |
+| It's a trap! | 8.00% | ~1 |
+| Like a ninja! | 8.00% | ~1 |
+| Lights out | 8.00% | ~1 |
+| The end... or is it? | 8.00% | ~1 |
+| Happy ever after | 8.00% | ~1 |
 | Knock knock | 0.00% | ~0 |
 | Payback | 0.00% | ~0 |
 | Wrong turn | 0.00% | ~0 |
 | Never fade away | 0.00% | ~0 |
 | Thank you for playing! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11 (Ranked 647)  
+Progressed: 12 (Ranked 640)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -33,3 +33,4 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-05-31 | 9 | 0 |
 | 2023-06-30 | 10 | 0 |
 | 2023-11-13 | 11 | 0 |
+| 2023-12-30 | 12 | 0 |

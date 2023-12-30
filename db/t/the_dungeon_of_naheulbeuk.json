@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1629,9 +1629,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 245512,
+  "EOS_Progressed": 245521,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1368,
+  "EOS_NewPlayers": 1370,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24254,6 +24254,11 @@
       "Time": "2023-12-30T10:11:00.628879+00:00",
       "NumProgressed": 245512,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-30T11:10:02.8387135+00:00",
+      "NumProgressed": 245521,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -24265,7 +24270,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7365
+      "UsersEstimate": 7366
     },
     {
       "ID": "100Fail",
@@ -24297,7 +24302,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7365
+      "UsersEstimate": 7366
     },
     {
       "ID": "BookCollection",
@@ -24329,7 +24334,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7365
+      "UsersEstimate": 7366
     },
     {
       "ID": "Chapter4",
@@ -24337,7 +24342,7 @@
       "Name": "The demons\u0027 feast",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7365
+      "UsersEstimate": 7366
     },
     {
       "ID": "Chapter5",
@@ -24345,7 +24350,7 @@
       "Name": "The Great Library",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7365
+      "UsersEstimate": 7366
     },
     {
       "ID": "Chapter6",
@@ -24353,7 +24358,7 @@
       "Name": "Torture and Sensibility",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7365
+      "UsersEstimate": 7366
     },
     {
       "ID": "Chapter7",
@@ -24417,7 +24422,7 @@
       "Name": "The Woman in the High Castle",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7365
+      "UsersEstimate": 7366
     },
     {
       "ID": "DLC1ChooseNecro",
@@ -24665,7 +24670,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22096
+      "UsersEstimate": 22097
     },
     {
       "ID": "DwarfElf15Support",
@@ -24713,7 +24718,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 88384
+      "UsersEstimate": 88388
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -24761,7 +24766,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24551
+      "UsersEstimate": 24552
     },
     {
       "ID": "FollowBraztok",
@@ -24921,7 +24926,7 @@
       "Name": "Team Building Exercise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7365
+      "UsersEstimate": 7366
     },
     {
       "ID": "SystematicallyStupid",
@@ -24945,7 +24950,7 @@
       "Name": "Oh, when I\u0027ll be level 10...",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7365
+      "UsersEstimate": 7366
     },
     {
       "ID": "WizardEpic",
@@ -24961,28 +24966,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9820
+      "UsersEstimate": 9821
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 245512,
+      "Progressed": 245521,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 245512,
+      "Progressed": 245521,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-30T03:57:47.5271751+00:00",
-  "LastChanged_Achievements": "2023-12-30T10:11:00.6288787+00:00",
+  "LastChanged_Achievements": "2023-12-30T11:10:02.8387133+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:14.8119134+00:00",
-  "LastUpdate_Ratings": "2023-12-30T09:58:50.5065364+00:00",
-  "LastUpdate_Achievements": "2023-12-30T10:11:00.6290784+00:00"
+  "LastUpdate_Ratings": "2023-12-30T10:58:25.2040181+00:00",
+  "LastUpdate_Achievements": "2023-12-30T11:10:02.8388555+00:00"
 }

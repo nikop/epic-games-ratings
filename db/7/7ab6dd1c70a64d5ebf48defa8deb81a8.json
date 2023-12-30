@@ -49,7 +49,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1481,
+  "EOS_Progressed": 1483,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 0,
@@ -2929,6 +2929,11 @@
       "Time": "2023-12-30T10:11:00.9260731+00:00",
       "NumProgressed": 1481,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-30T11:10:03.0829053+00:00",
+      "NumProgressed": 1483,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2940,15 +2945,15 @@
       "Name": "Break Out",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_03",
@@ -3004,7 +3009,7 @@
       "Name": "The Mentor",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_10",
@@ -3036,7 +3041,7 @@
       "Name": "Adventurer",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ACH_14",
@@ -3076,7 +3081,7 @@
       "Name": "Shatter Them All",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACH_19",
@@ -3116,7 +3121,7 @@
       "Name": "Geared Up",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACH_24",
@@ -3138,9 +3143,9 @@
       "ID": "ACH_26",
       "SetID": "efe2lj",
       "Name": "Scholar",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 296
+      "UsersEstimate": 282
     },
     {
       "ID": "ACH_27",
@@ -3227,7 +3232,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1481,
+      "Progressed": 1483,
       "Completed": 3
     }
   ],
@@ -3235,8 +3240,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2023-12-29T23:58:00.9350231+00:00",
-  "LastChanged_Achievements": "2023-12-30T10:11:00.9260728+00:00",
+  "LastChanged_Achievements": "2023-12-30T11:10:03.082905+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-30T09:59:11.9251933+00:00",
-  "LastUpdate_Achievements": "2023-12-30T10:11:00.9261099+00:00"
+  "LastUpdate_Ratings": "2023-12-30T10:58:40.722124+00:00",
+  "LastUpdate_Achievements": "2023-12-30T11:10:03.0829651+00:00"
 }

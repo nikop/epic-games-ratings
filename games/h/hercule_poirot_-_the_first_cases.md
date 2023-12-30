@@ -6,42 +6,42 @@ Rating: 4.35 (Ranked 813)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It Wasn’t a Burglary | 88.00% | ~422 |
-| Luc Piette | 74.00% | ~354 |
-| Angeline Van den Bosch | 72.00% | ~345 |
+| Luc Piette | 74.00% | ~355 |
+| Angeline Van den Bosch | 73.00% | ~350 |
 | Elizabeth Padget | 69.00% | ~331 |
 | Little Grey Cells | 68.00% | ~326 |
-| The Bracelet | 65.00% | ~311 |
+| The Bracelet | 65.00% | ~312 |
 | The Blackmail | 54.00% | ~259 |
+| Florette Duval | 54.00% | ~259 |
 | Major Felix Hagen | 54.00% | ~259 |
-| Florette Duval | 53.00% | ~254 |
-| Order and Method | 52.00% | ~249 |
-| Fine-toothed Comb | 52.00% | ~249 |
+| Fine-toothed Comb | 53.00% | ~254 |
+| Order and Method | 52.00% | ~250 |
 | The Altercation | 49.00% | ~235 |
 | Truth from Within | 48.00% | ~230 |
-| The Major | 46.00% | ~220 |
+| The Major | 46.00% | ~221 |
 | Curious and Beautiful | 44.00% | ~211 |
 | Comtesse Margaux de Vos | 44.00% | ~211 |
 | Jacqueline “Jackie” Conrad | 43.00% | ~206 |
 | The Interrogations | 43.00% | ~206 |
-| Well-acquainted | 41.00% | ~196 |
-| Zakariya Demir | 41.00% | ~196 |
+| Well-acquainted | 41.00% | ~197 |
+| Zakariya Demir | 41.00% | ~197 |
 | Well-read | 39.00% | ~187 |
-| Cassandra Van den Bosch | 37.00% | ~177 |
-| The Secret | 37.00% | ~177 |
+| Cassandra Van den Bosch | 37.00% | ~178 |
+| The Secret | 37.00% | ~178 |
 | Gedeon Demir | 35.00% | ~168 |
 | Rehana Piette | 34.00% | ~163 |
 | Instinct is Marvellous | 33.00% | ~158 |
 | Ernesto da Silva | 33.00% | ~158 |
-| Inge Frank | 31.00% | ~148 |
-| The Search | 31.00% | ~148 |
+| Inge Frank | 31.00% | ~149 |
+| The Search | 31.00% | ~149 |
 | Hugo Beckers | 30.00% | ~144 |
 | The Family | 28.00% | ~134 |
-| Well-travelled | 27.00% | ~129 |
-| Thinking of Everything | 27.00% | ~129 |
+| Well-travelled | 27.00% | ~130 |
+| Thinking of Everything | 27.00% | ~130 |
 | Archibald Sterling | 26.00% | ~125 |
 | Viscount Edwin Van den Bosch | 26.00% | ~125 |
 | Exquisite Artwork | 25.00% | ~120 |
-| Well-prepared | 22.00% | ~105 |
+| Well-prepared | 21.00% | ~101 |
 | The Truth | 21.00% | ~101 |
 | I Like an Audience | 19.00% | ~91 |
 | The Denouement | 18.00% | ~86 |
@@ -52,7 +52,7 @@ Rating: 4.35 (Ranked 813)
 | Room with a View | 7.00% | ~34 |
 | Work-life Balance | 3.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479 (Ranked 345)  
+Progressed: 480 (Ranked 345)  
 Completed: 6 (1.25%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 6 (1.25%) (Ranked 157)
 | 2023-12-26 | 474 | 6 |
 | 2023-12-27 | 475 | 6 |
 | 2023-12-29 | 478 | 6 |
-| 2023-12-30 | 479 | 6 |
+| 2023-12-30 | 480 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

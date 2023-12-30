@@ -5,47 +5,47 @@ Rating: 4.54 (Ranked 543)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 7.00% | ~54,319 |
-| Break A Leg | 6.00% | ~46,559 |
-| Hotel California | 6.00% | ~46,559 |
-| Coup de Grâce | 5.00% | ~38,799 |
-| Hazardous Materials | 5.00% | ~38,799 |
-| Personal Assistant Personally Assisted | 5.00% | ~38,799 |
-| Dr. Reed, I Presume? | 4.00% | ~31,039 |
-| Git Gutte! | 4.00% | ~31,039 |
-| Bookworm | 4.00% | ~31,039 |
-| Friends Like These | 4.00% | ~31,039 |
-| Apex Predator | 4.00% | ~31,039 |
-| Stacking the Deck | 4.00% | ~31,039 |
-| Whatever It Takes | 4.00% | ~4,061 |
-| Anger Management | 3.00% | ~23,279 |
-| Perks of the Job | 3.00% | ~23,279 |
-| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~23,279 |
-| But Doctor, I am Butcho | 3.00% | ~23,279 |
-| Slayer Squad | 3.00% | ~23,279 |
-| Can't Handle the Truth | 3.00% | ~23,279 |
-| Like Riding a Bike | 3.00% | ~23,279 |
-| Zombologist | 3.00% | ~23,279 |
-| A Patton Emerges | 3.00% | ~23,279 |
-| This is My Weapon | 3.00% | ~23,279 |
-| One of Us | 3.00% | ~3,046 |
-| Pork Chopped | 3.00% | ~3,046 |
-| Making Your Mark | 2.00% | ~15,520 |
-| Ooh, Shiny! | 2.00% | ~15,520 |
-| Humanity Distilled | 2.00% | ~15,520 |
-| I Am the Resurrection | 2.00% | ~15,520 |
-| Down with the Sickness | 2.00% | ~15,520 |
-| Max Headroom | 2.00% | ~15,520 |
-| Our True Nature | 2.00% | ~15,520 |
-| Smorgasbord | 1.00% | ~7,760 |
-| Not Even My Final Form | 1.00% | ~7,760 |
-| Internet Famous | 1.00% | ~7,760 |
-| Jumbo Keyring | 1.00% | ~7,760 |
-| Go, Bobcats! | 1.00% | ~7,760 |
-| Rising Star | 1.00% | ~7,760 |
-| Make it So | 0.90% | ~6,984 |
-| On Safari | 0.90% | ~6,984 |
-| Variety is the Spice of Death | 0.90% | ~6,984 |
+| Welcome To Hell-A | 7.00% | ~54,324 |
+| Break A Leg | 6.00% | ~46,564 |
+| Hotel California | 6.00% | ~46,564 |
+| Coup de Grâce | 5.00% | ~38,803 |
+| Hazardous Materials | 5.00% | ~38,803 |
+| Personal Assistant Personally Assisted | 5.00% | ~38,803 |
+| Dr. Reed, I Presume? | 4.00% | ~31,042 |
+| Git Gutte! | 4.00% | ~31,042 |
+| Bookworm | 4.00% | ~31,042 |
+| Friends Like These | 4.00% | ~31,042 |
+| Apex Predator | 4.00% | ~31,042 |
+| Stacking the Deck | 4.00% | ~31,042 |
+| Whatever It Takes | 4.00% | ~4,064 |
+| Anger Management | 3.00% | ~23,282 |
+| Perks of the Job | 3.00% | ~23,282 |
+| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~23,282 |
+| But Doctor, I am Butcho | 3.00% | ~23,282 |
+| Slayer Squad | 3.00% | ~23,282 |
+| Can't Handle the Truth | 3.00% | ~23,282 |
+| Like Riding a Bike | 3.00% | ~23,282 |
+| Zombologist | 3.00% | ~23,282 |
+| A Patton Emerges | 3.00% | ~23,282 |
+| This is My Weapon | 3.00% | ~23,282 |
+| One of Us | 3.00% | ~3,048 |
+| Pork Chopped | 3.00% | ~3,048 |
+| Making Your Mark | 2.00% | ~15,521 |
+| Ooh, Shiny! | 2.00% | ~15,521 |
+| Humanity Distilled | 2.00% | ~15,521 |
+| I Am the Resurrection | 2.00% | ~15,521 |
+| Down with the Sickness | 2.00% | ~15,521 |
+| Max Headroom | 2.00% | ~15,521 |
+| Our True Nature | 2.00% | ~15,521 |
+| Smorgasbord | 1.00% | ~7,761 |
+| Not Even My Final Form | 1.00% | ~7,761 |
+| Internet Famous | 1.00% | ~7,761 |
+| Jumbo Keyring | 1.00% | ~7,761 |
+| Go, Bobcats! | 1.00% | ~7,761 |
+| Rising Star | 1.00% | ~7,761 |
+| Make it So | 0.90% | ~6,985 |
+| On Safari | 0.90% | ~6,985 |
+| Variety is the Spice of Death | 0.90% | ~6,985 |
 | LA Influential | 0.70% | ~5,432 |
 | Gore Horse | 0.70% | ~5,432 |
 | Sole Survivor | 0.60% | ~4,656 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 543)
 | Bucket List | 0.10% | ~776 |
 | Wilhelm | 0.10% | ~102 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 775,981 (Ranked 20)  
+Progressed: 776,060 (Ranked 20)  
 Completed: 2,516 (0.32%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 2,516 (0.32%) (Ranked 248)
 | 2023-12-27 | 771,068 | 2,509 |
 | 2023-12-28 | 772,923 | 2,512 |
 | 2023-12-29 | 775,077 | 2,514 |
-| 2023-12-30 | 775,981 | 2,516 |
+| 2023-12-30 | 776,060 | 2,516 |
 ## Awards
 Max (Great Boss Battles): 9,182  (Ranked 41)  
 Sum: 13,994 (Ranked 77)  

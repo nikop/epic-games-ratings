@@ -5,27 +5,27 @@ Rating: 4.56 (Ranked 500)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 67.00% | ~782 |
-| The Teleprobe | 53.00% | ~619 |
-| The City | 48.00% | ~560 |
-| The field base | 43.00% | ~502 |
-| The Alliance | 38.00% | ~443 |
-| Survivors | 37.00% | ~432 |
+| The Camp | 67.00% | ~783 |
+| The Teleprobe | 53.00% | ~620 |
+| The City | 48.00% | ~561 |
+| The field base | 43.00% | ~503 |
+| The Alliance | 38.00% | ~444 |
+| Survivors | 37.00% | ~433 |
 | The Condor | 34.00% | ~397 |
 | The End | 34.00% | ~397 |
-| The Necroevolution | 28.00% | ~327 |
-| Krauta is alive | 27.00% | ~315 |
+| Krauta is alive | 27.00% | ~316 |
+| The Necroevolution | 27.00% | ~316 |
 | Peacemaker | 21.00% | ~245 |
 | Volcanologist | 21.00% | ~245 |
-| On her own | 20.00% | ~233 |
+| On her own | 20.00% | ~234 |
 | Fierce fight | 19.00% | ~222 |
 | Evacuation | 18.00% | ~210 |
-| Beyond divisions | 17.00% | ~198 |
+| Beyond divisions | 17.00% | ~199 |
 | Flying Objects Operator | 16.00% | ~187 |
 | I remember everything! | 13.00% | ~152 |
 | Another giant | 12.00% | ~140 |
 | I leave no man behind | 9.00% | ~105 |
-| Violent solution | 8.00% | ~93 |
+| Violent solution | 8.00% | ~94 |
 | Innate curiosity | 7.00% | ~82 |
 | Strong objection | 6.00% | ~70 |
 | Ubiquitous holes | 5.00% | ~58 |
@@ -33,9 +33,9 @@ Rating: 4.56 (Ranked 500)
 | Got lost again | 5.00% | ~58 |
 | I leave no man behind (no exceptions) | 2.00% | ~23 |
 | Convoy list | 0.90% | ~11 |
-| No more mistakes | 0.50% | ~6 |
+| No more mistakes | 0.60% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,167 (Ranked 278)  
+Progressed: 1,169 (Ranked 278)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 1,083 | 0 |
 | 2023-12-28 | 1,116 | 0 |
 | 2023-12-29 | 1,151 | 0 |
-| 2023-12-30 | 1,167 | 0 |
+| 2023-12-30 | 1,169 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1179,
+  "EOS_Progressed": 1180,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
@@ -3314,6 +3314,11 @@
       "Time": "2023-12-29T15:10:24.6182551+00:00",
       "NumProgressed": 1179,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-30T11:09:48.8819883+00:00",
+      "NumProgressed": 1180,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -3334,7 +3339,7 @@
       "Name": "Boston Hay Day",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "BoxingClever",
@@ -3382,7 +3387,7 @@
       "Name": "Drinking on the Job",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "DustDancing",
@@ -3406,7 +3411,7 @@
       "Name": "Lights Out",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "MiCasaSuCasa",
@@ -3414,7 +3419,7 @@
       "Name": "Mi Casa Su Casa",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "OnceMoreIntoTheBreach",
@@ -3438,7 +3443,7 @@
       "Name": "Relic",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "SkeletonCrew",
@@ -3462,7 +3467,7 @@
       "Name": "The Safety of Disbelief",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "TragedyDocumented",
@@ -3485,14 +3490,14 @@
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 1179,
+      "Progressed": 1180,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-12-30T10:10:43.5082581+00:00",
+  "LastChanged_Achievements": "2023-12-30T11:09:48.881988+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:55.6682443+00:00",
-  "LastUpdate_Ratings": "2023-12-30T09:57:58.0078227+00:00",
-  "LastUpdate_Achievements": "2023-12-30T10:10:43.5082966+00:00"
+  "LastUpdate_Ratings": "2023-12-30T10:57:45.5902508+00:00",
+  "LastUpdate_Achievements": "2023-12-30T11:09:48.8820214+00:00"
 }

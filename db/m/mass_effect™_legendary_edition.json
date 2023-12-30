@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3358,
+  "EOS_Progressed": 3359,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 567,
+  "EOS_NewPlayers": 561,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -6588,6 +6588,11 @@
       "Time": "2023-12-30T10:11:07.5816978+00:00",
       "NumProgressed": 3358,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-30T11:10:08.6603812+00:00",
+      "NumProgressed": 3359,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -6640,7 +6645,7 @@
       "Name": "Untouchable",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "achievement_104",
@@ -6656,7 +6661,7 @@
       "Name": "Sky High",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "achievement_106",
@@ -6688,7 +6693,7 @@
       "Name": "Hijacker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "achievement_11",
@@ -6704,7 +6709,7 @@
       "Name": "Giant Killer",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "achievement_111",
@@ -6792,7 +6797,7 @@
       "Name": "Paramour I",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1007
+      "UsersEstimate": 1008
     },
     {
       "ID": "achievement_121",
@@ -6808,7 +6813,7 @@
       "Name": "Paramour III",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "achievement_123",
@@ -6832,7 +6837,7 @@
       "Name": "Soldier",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "achievement_126",
@@ -6880,7 +6885,7 @@
       "Name": "First Aid Specialist",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "achievement_17",
@@ -6902,9 +6907,9 @@
       "ID": "achievement_19",
       "SetID": "b9pe172",
       "Name": "Archivist",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 739
+      "UsersEstimate": 705
     },
     {
       "ID": "achievement_2",
@@ -6928,7 +6933,7 @@
       "Name": "Medal of Exploration I",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1914
+      "UsersEstimate": 1915
     },
     {
       "ID": "achievement_22",
@@ -6984,7 +6989,7 @@
       "Name": "Quarian Ally",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "achievement_29",
@@ -7000,7 +7005,7 @@
       "Name": "Distinguished Service Medal",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 3056
+      "UsersEstimate": 3057
     },
     {
       "ID": "achievement_30",
@@ -7016,7 +7021,7 @@
       "Name": "Spectre Inductee",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 2283
+      "UsersEstimate": 2284
     },
     {
       "ID": "achievement_32",
@@ -7024,7 +7029,7 @@
       "Name": "Charismatic",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "achievement_33",
@@ -7032,7 +7037,7 @@
       "Name": "Search and Rescue",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "achievement_34",
@@ -7048,7 +7053,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 18,
       "XP": 125,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "achievement_36",
@@ -7056,7 +7061,7 @@
       "Name": "Missing in Action",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "achievement_37",
@@ -7096,7 +7101,7 @@
       "Name": "Suicide Mission",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "achievement_41",
@@ -7104,7 +7109,7 @@
       "Name": "Against All Odds",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "achievement_42",
@@ -7128,7 +7133,7 @@
       "Name": "The Archangel",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "achievement_45",
@@ -7168,7 +7173,7 @@
       "Name": "The Professor",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "achievement_5",
@@ -7288,7 +7293,7 @@
       "Name": "Head Hunter",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "achievement_63",
@@ -7304,7 +7309,7 @@
       "Name": "Merciless",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1007
+      "UsersEstimate": 1008
     },
     {
       "ID": "achievement_65",
@@ -7432,7 +7437,7 @@
       "Name": "Driven",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "achievement_8",
@@ -7558,9 +7563,9 @@
       "ID": "achievement_93",
       "SetID": "d252ncf",
       "Name": "Liberator",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 537
+      "UsersEstimate": 571
     },
     {
       "ID": "achievement_94",
@@ -7615,19 +7620,19 @@
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 3358,
+      "Progressed": 3359,
       "Completed": 12
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 3358,
+      "Progressed": 3359,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-30T10:11:07.5816969+00:00",
+  "LastChanged_Achievements": "2023-12-30T11:10:08.660381+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:58.3788938+00:00",
-  "LastUpdate_Ratings": "2023-12-30T10:03:51.8700202+00:00",
-  "LastUpdate_Achievements": "2023-12-30T10:11:07.5819039+00:00"
+  "LastUpdate_Ratings": "2023-12-30T11:03:10.3353909+00:00",
+  "LastUpdate_Achievements": "2023-12-30T11:10:08.6605678+00:00"
 }

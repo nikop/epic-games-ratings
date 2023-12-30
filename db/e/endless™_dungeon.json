@@ -4,7 +4,7 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1425,
+  "EOS_Progressed": 1426,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
@@ -2975,6 +2975,11 @@
       "Time": "2023-12-30T08:05:58.3642196+00:00",
       "NumProgressed": 1425,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T11:05:02.6976515+00:00",
+      "NumProgressed": 1426,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3003,7 +3008,7 @@
       "Name": "Turret Syndrome",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_BIOGRAPHER",
@@ -3019,7 +3024,7 @@
       "Name": "Blobmeister",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -3067,7 +3072,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -3083,7 +3088,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -3131,7 +3136,7 @@
       "Name": "Hoarder",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -3226,14 +3231,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1425,
+      "Progressed": 1426,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-12-30T10:06:16.4483223+00:00",
+  "LastChanged_Achievements": "2023-12-30T11:05:02.6976513+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:00.1965929+00:00",
-  "LastUpdate_Ratings": "2023-12-30T10:02:08.4590198+00:00",
-  "LastUpdate_Achievements": "2023-12-30T10:06:16.4483508+00:00"
+  "LastUpdate_Ratings": "2023-12-30T11:00:54.0640311+00:00",
+  "LastUpdate_Achievements": "2023-12-30T11:05:02.697683+00:00"
 }

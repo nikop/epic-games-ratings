@@ -2,7 +2,7 @@
   "ID": "552a139c67e949ea8f8ea9a1d9d81cdb",
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
-  "Ranking_EOS_Progress": 251,
+  "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 152,
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1729,
+  "EOS_Progressed": 1731,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4277,6 +4277,11 @@
       "Time": "2023-12-30T10:05:29.0746365+00:00",
       "NumProgressed": 1729,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T11:04:25.8529581+00:00",
+      "NumProgressed": 1731,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4433,7 +4438,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -4529,7 +4534,7 @@
       "Name": "Shopping time!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -4545,7 +4550,7 @@
       "Name": "Spin the wheel",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -4656,20 +4661,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1729,
+      "Progressed": 1731,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1397,
+      "Progressed": 1399,
       "Completed": 1006
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-30T10:05:29.074636+00:00",
+  "LastChanged_Achievements": "2023-12-30T11:04:25.8529578+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2023-12-30T09:58:39.0860236+00:00",
-  "LastUpdate_Achievements": "2023-12-30T10:05:29.0746822+00:00"
+  "LastUpdate_Ratings": "2023-12-30T10:58:16.7337719+00:00",
+  "LastUpdate_Achievements": "2023-12-30T11:04:25.8530735+00:00"
 }

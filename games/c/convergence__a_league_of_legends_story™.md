@@ -5,15 +5,15 @@ Rating: 4.65 (Ranked 323)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 42.00% | ~485 |
+| Time Heals All Wounds | 42.00% | ~486 |
 | Rail Rat | 32.00% | ~370 |
 | The Mysterious Stranger | 31.00% | ~358 |
-| Immaculate Aim | 26.00% | ~300 |
-| The Brass Boss | 26.00% | ~300 |
-| The Prince in Heels | 25.00% | ~289 |
+| Immaculate Aim | 26.00% | ~301 |
+| The Brass Boss | 26.00% | ~301 |
 | Make Up For Lost Time | 24.00% | ~277 |
 | Time Flies | 24.00% | ~277 |
 | No, Thanks! | 24.00% | ~277 |
+| The Prince in Heels | 24.00% | ~277 |
 | Honest Mistake | 24.00% | ~277 |
 | Immaculate Aim | 24.00% | ~277 |
 | The Harder They Fall | 23.00% | ~266 |
@@ -25,11 +25,11 @@ Rating: 4.65 (Ranked 323)
 | Like Clockwork | 21.00% | ~243 |
 | The Betrayer | 21.00% | ~243 |
 | Golem Chaser | 21.00% | ~243 |
-| The Loose Cannon | 19.00% | ~219 |
-| Check Your Pulse | 19.00% | ~219 |
+| The Loose Cannon | 19.00% | ~220 |
+| Check Your Pulse | 19.00% | ~220 |
 | The Man Who Shattered Time | 18.00% | ~208 |
 | The Family Fortune | 18.00% | ~208 |
-| Street Style | 17.00% | ~196 |
+| Street Style | 17.00% | ~197 |
 | Whiz Kid | 15.00% | ~173 |
 | Good Neighbor | 14.00% | ~162 |
 | Treasure Trove | 13.00% | ~150 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 323)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,155 (Ranked 280)  
+Progressed: 1,156 (Ranked 280)  
 Completed: 6 (0.52%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 6 (0.52%) (Ranked 214)
 | 2023-12-27 | 1,130 | 6 |
 | 2023-12-28 | 1,136 | 6 |
 | 2023-12-29 | 1,145 | 6 |
-| 2023-12-30 | 1,155 | 6 |
+| 2023-12-30 | 1,156 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

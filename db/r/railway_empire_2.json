@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2574,
+  "EOS_Progressed": 2575,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7411,6 +7411,11 @@
       "Time": "2023-12-30T09:04:42.083886+00:00",
       "NumProgressed": 2574,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T11:04:35.7178469+00:00",
+      "NumProgressed": 2575,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -7422,7 +7427,7 @@
       "Name": "Apprentice",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "A01",
@@ -7430,7 +7435,7 @@
       "Name": "Stoker",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "A02",
@@ -7454,7 +7459,7 @@
       "Name": "Go West",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "A05",
@@ -7502,7 +7507,7 @@
       "Name": "From X to Y",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1906
     },
     {
       "ID": "A11",
@@ -7518,7 +7523,7 @@
       "Name": "Departure",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1906
     },
     {
       "ID": "A13",
@@ -7534,7 +7539,7 @@
       "Name": "A new Journey",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1930
+      "UsersEstimate": 1931
     },
     {
       "ID": "A15",
@@ -7542,7 +7547,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "A16",
@@ -7566,7 +7571,7 @@
       "Name": "General Manager",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "A19",
@@ -7582,7 +7587,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1982
+      "UsersEstimate": 1983
     },
     {
       "ID": "A21",
@@ -7630,7 +7635,7 @@
       "Name": "Max Power",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "A27",
@@ -7646,7 +7651,7 @@
       "Name": "We brake for nobody",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1776
+      "UsersEstimate": 1777
     },
     {
       "ID": "A29",
@@ -7686,7 +7691,7 @@
       "Name": "Locusts",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "A34",
@@ -7718,7 +7723,7 @@
       "Name": "All around the World",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "A38",
@@ -7742,7 +7747,7 @@
       "Name": "Mind the Gap",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     },
     {
       "ID": "A41",
@@ -7798,7 +7803,7 @@
       "Name": "Travel Company",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     },
     {
       "ID": "A48",
@@ -7830,7 +7835,7 @@
       "Name": "Call of Duty",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "A52",
@@ -7838,7 +7843,7 @@
       "Name": "Socializer",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "A53",
@@ -7846,7 +7851,7 @@
       "Name": "Networker",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "A54",
@@ -7861,7 +7866,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2574,
+      "Progressed": 2575,
       "Completed": 0
     }
   ],
@@ -7869,8 +7874,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-27T17:00:03.776976+00:00",
-  "LastChanged_Achievements": "2023-12-30T10:05:41.6161573+00:00",
+  "LastChanged_Achievements": "2023-12-30T11:04:35.7178467+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:12.6153541+00:00",
-  "LastUpdate_Ratings": "2023-12-30T09:57:45.411941+00:00",
-  "LastUpdate_Achievements": "2023-12-30T10:05:41.6162225+00:00"
+  "LastUpdate_Ratings": "2023-12-30T10:57:36.3687791+00:00",
+  "LastUpdate_Achievements": "2023-12-30T11:04:35.7179235+00:00"
 }

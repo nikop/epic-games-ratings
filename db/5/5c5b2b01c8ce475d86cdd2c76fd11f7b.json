@@ -2,9 +2,9 @@
   "ID": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
   "Name": "Deus Ex - Mankind Divided",
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
-  "Ranking_EOS_Progress": 529,
+  "Ranking_EOS_Progress": 524,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 60,
+  "EOS_Progressed": 61,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -319,6 +319,11 @@
       "Time": "2023-12-30T10:04:18.6266965+00:00",
       "NumProgressed": 60,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T11:03:31.0977795+00:00",
+      "NumProgressed": 61,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.7079864+00:00",
@@ -353,7 +358,7 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "7on801h",
       "Name": "Between Technology and the Divine",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -569,7 +574,7 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "7on801h",
       "Name": "A Heated Combination",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -601,7 +606,7 @@
       "ID": "NEW_ACHIEVEMENT_2_11",
       "SetID": "7on801h",
       "Name": "Neon Nights",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -617,7 +622,7 @@
       "ID": "NEW_ACHIEVEMENT_2_13",
       "SetID": "7on801h",
       "Name": "Adept of the Metaverse",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -793,7 +798,7 @@
       "ID": "NEW_ACHIEVEMENT_2_5",
       "SetID": "7on801h",
       "Name": "The Golden Ticket",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -978,20 +983,20 @@
     {
       "ID": "7on801h",
       "IsBase": true,
-      "Progressed": 60,
+      "Progressed": 61,
       "Completed": 0
     },
     {
       "ID": "o6aioj",
       "IsBase": false,
-      "Progressed": 60,
+      "Progressed": 61,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-30T10:04:18.6266959+00:00",
+  "LastChanged_Achievements": "2023-12-30T11:03:31.097779+00:00",
   "LastUpdate_AppInfo": "2023-12-27T16:57:17.6990227+00:00",
-  "LastUpdate_Ratings": "2023-12-30T09:59:27.89585+00:00",
-  "LastUpdate_Achievements": "2023-12-30T10:04:18.6267601+00:00"
+  "LastUpdate_Ratings": "2023-12-30T10:58:52.7722292+00:00",
+  "LastUpdate_Achievements": "2023-12-30T11:03:31.0978438+00:00"
 }

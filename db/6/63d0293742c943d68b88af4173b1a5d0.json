@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 565,
+  "EOS_Progressed": 566,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1849,6 +1849,11 @@
       "Time": "2023-12-30T10:08:18.3394651+00:00",
       "NumProgressed": 565,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T11:06:37.2674063+00:00",
+      "NumProgressed": 566,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1877,7 +1882,7 @@
       "Name": "What\u0027s Cooking?",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "6",
@@ -1915,9 +1920,9 @@
       "ID": "REMAKE_001",
       "SetID": "5pi96jj",
       "Name": "Turn a Rat into a Snack",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 175
     },
     {
       "ID": "REMAKE_002",
@@ -1925,7 +1930,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "REMAKE_004",
@@ -1933,7 +1938,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "Remake_005",
@@ -1949,7 +1954,7 @@
       "Name": "Attempted Vehicular Infanticide",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Remake_007",
@@ -2077,21 +2082,21 @@
       "Name": "Escape Lookout Cove",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     }
   ],
   "AchievementSets": [
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 565,
+      "Progressed": 566,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-30T10:08:18.3394648+00:00",
+  "LastChanged_Achievements": "2023-12-30T11:06:37.2674059+00:00",
   "LastUpdate_AppInfo": "2023-12-26T02:16:12.1403657+00:00",
-  "LastUpdate_Ratings": "2023-12-30T10:01:29.5692734+00:00",
-  "LastUpdate_Achievements": "2023-12-30T10:08:18.3394879+00:00"
+  "LastUpdate_Ratings": "2023-12-30T11:00:24.3823753+00:00",
+  "LastUpdate_Achievements": "2023-12-30T11:06:37.2674519+00:00"
 }

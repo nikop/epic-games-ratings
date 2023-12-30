@@ -215,9 +215,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 8778,
+  "EOS_Progressed": 8793,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2201,
+  "EOS_NewPlayers": 2189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2955,6 +2955,11 @@
       "Time": "2023-12-30T10:10:42.7355761+00:00",
       "NumProgressed": 8778,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T11:09:48.249077+00:00",
+      "NumProgressed": 8793,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -2967,7 +2972,7 @@
       "Name": "Conspiracy",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "03_TheStolenStar",
@@ -3213,9 +3218,9 @@
       "ID": "33_TzeentchCleaning",
       "SetID": "37a94m8",
       "Name": "Cleening Out the Tzeentch",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 176
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -3293,9 +3298,9 @@
       "ID": "43_ThereIsNoPlaceLikeHome",
       "SetID": "37a94m8",
       "Name": "No Place Like Home",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 79
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -3349,9 +3354,9 @@
       "ID": "50_Whodunit",
       "SetID": "37a94m8",
       "Name": "Whodunit?",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 62
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -3486,7 +3491,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8778,
+      "Progressed": 8793,
       "Completed": 0
     }
   ],
@@ -3494,8 +3499,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-30T04:58:20.1392626+00:00",
-  "LastChanged_Achievements": "2023-12-30T10:10:42.7355756+00:00",
+  "LastChanged_Achievements": "2023-12-30T11:09:48.2490763+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-30T09:59:15.7762588+00:00",
-  "LastUpdate_Achievements": "2023-12-30T10:10:42.7356503+00:00"
+  "LastUpdate_Ratings": "2023-12-30T10:58:43.4648738+00:00",
+  "LastUpdate_Achievements": "2023-12-30T11:09:48.2491486+00:00"
 }

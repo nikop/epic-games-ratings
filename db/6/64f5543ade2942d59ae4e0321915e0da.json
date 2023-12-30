@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 305,
+  "EOS_Progressed": 306,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
@@ -1229,6 +1229,11 @@
       "Time": "2023-12-30T06:06:31.5573759+00:00",
       "NumProgressed": 305,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T11:08:15.6046436+00:00",
+      "NumProgressed": 306,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1249,7 +1254,7 @@
       "Name": "Empire",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "AC_ALL_MONEYSACKS",
@@ -1321,7 +1326,7 @@
       "Name": "Misery",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "AC_BOSS_02",
@@ -1343,9 +1348,9 @@
       "ID": "AC_BOSS_04",
       "SetID": "16i2akc",
       "Name": "Heresy",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "AC_COMBO_1",
@@ -1417,7 +1422,7 @@
       "Name": "Psycopath",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -1433,7 +1438,7 @@
       "Name": "Excursion",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -1441,15 +1446,15 @@
       "Name": "Journey",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "AC_DISTANCE_3",
       "SetID": "16i2akc",
       "Name": "Voyage",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 45,
-      "UsersEstimate": 88
+      "UsersEstimate": 86
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -1457,15 +1462,15 @@
       "Name": "Player",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "AC_FLASHBACK_01",
       "SetID": "16i2akc",
       "Name": "Creation",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 55
     },
     {
       "ID": "AC_FLASHBACK_02",
@@ -1545,7 +1550,7 @@
       "Name": "Loss",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -1553,7 +1558,7 @@
       "Name": "Shot",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "AC_SNIPER_MAX",
@@ -1576,14 +1581,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 305,
+      "Progressed": 306,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-30T10:08:43.0425705+00:00",
+  "LastChanged_Achievements": "2023-12-30T11:08:15.6046434+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:54.1541826+00:00",
-  "LastUpdate_Ratings": "2023-12-30T09:58:19.8252091+00:00",
-  "LastUpdate_Achievements": "2023-12-30T10:08:43.0426092+00:00"
+  "LastUpdate_Ratings": "2023-12-30T10:58:01.8067919+00:00",
+  "LastUpdate_Achievements": "2023-12-30T11:08:15.6047072+00:00"
 }

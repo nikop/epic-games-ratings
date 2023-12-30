@@ -6,8 +6,8 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 45.00% | ~386 |
-| Double Kill | 39.00% | ~334 |
+| Adept | 45.00% | ~387 |
+| Double Kill | 39.00% | ~335 |
 | Critical Hit | 21.00% | ~180 |
 | Veteran | 21.00% | ~180 |
 | Dressed For Success | 14.00% | ~120 |
@@ -16,8 +16,8 @@ Number of Ratings: 292  (23.09.2022)
 | Multi Kill | 8.00% | ~69 |
 | Sorcerous Spree | 8.00% | ~69 |
 | Master | 7.00% | ~60 |
-| Whoops! | 6.00% | ~51 |
-| Landlord Extraordinaire | 6.00% | ~51 |
+| Whoops! | 6.00% | ~52 |
+| Landlord Extraordinaire | 6.00% | ~52 |
 | Don't Touch My Stuff | 5.00% | ~43 |
 | The Song of Stoutheart | 4.00% | ~34 |
 | Trojan Horse | 4.00% | ~34 |
@@ -38,12 +38,12 @@ Number of Ratings: 292  (23.09.2022)
 | Get Over Here! | 0.60% | ~5 |
 | Death To Diplomacy | 0.50% | ~4 |
 | Killing Spree | 0.50% | ~4 |
-| Fully Charged | 0.40% | ~3 |
-| Coming Through! | 0.40% | ~3 |
-| Barbecue | 0.40% | ~3 |
-| Oops! | 0.40% | ~3 |
-| The Marsh Expands | 0.40% | ~3 |
-| Cleave | 0.40% | ~3 |
+| Fully Charged | 0.30% | ~3 |
+| Coming Through! | 0.30% | ~3 |
+| Barbecue | 0.30% | ~3 |
+| Oops! | 0.30% | ~3 |
+| The Marsh Expands | 0.30% | ~3 |
+| Cleave | 0.30% | ~3 |
 | Attack Bonanza | 0.20% | ~2 |
 | Bringer of Ruin | 0.10% | ~1 |
 | Hello There | 0.10% | ~1 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 857 (Ranked 295)  
+Progressed: 859 (Ranked 295)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 796 | 0 |
 | 2023-12-28 | 815 | 0 |
 | 2023-12-29 | 850 | 0 |
-| 2023-12-30 | 857 | 0 |
+| 2023-12-30 | 859 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 29  (Ranked 519)  
 Sum: 251 (Ranked 397)  

@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mathematic | 87.00% | ~185 |
-| Digging a Hole | 76.00% | ~162 |
-| It's Yours, My Friend | 73.00% | ~155 |
+| Digging a Hole | 77.00% | ~164 |
+| It's Yours, My Friend | 74.00% | ~158 |
 | Conducted Trade | 66.00% | ~141 |
 | Going Places | 64.00% | ~136 |
 | Aristocratic | 62.00% | ~132 |

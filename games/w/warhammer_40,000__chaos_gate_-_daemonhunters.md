@@ -11,11 +11,11 @@ Number of Ratings: 371  (23.09.2022)
 | Not So Fast... | 12.00% | ~438 |
 | Watch Where You Step... | 12.00% | ~438 |
 | An Ill Omen | 12.00% | ~438 |
-| Purging Spree | 9.00% | ~328 |
+| Purging Spree | 9.00% | ~329 |
 | Blood for the Blood God! | 8.00% | ~292 |
 | Bloodless | 7.00% | ~256 |
-| Surgical Excision | 5.00% | ~182 |
-| Friendly Fire | 5.00% | ~182 |
+| Surgical Excision | 5.00% | ~183 |
+| Friendly Fire | 5.00% | ~183 |
 | Honoured Battle-Brother | 4.00% | ~146 |
 | The Emperor Protects | 4.00% | ~146 |
 | A Foul Creche | 4.00% | ~146 |
@@ -29,21 +29,21 @@ Number of Ratings: 371  (23.09.2022)
 | A Gift Spurned | 2.00% | ~73 |
 | Execution Force | 2.00% | ~73 |
 | Hive Exterminator | 2.00% | ~73 |
-| Fleetmaster | 1.00% | ~36 |
-| Exterminator | 1.00% | ~36 |
-| Mind Like a Fortress | 1.00% | ~36 |
-| Only in Death | 1.00% | ~36 |
-| Preservationist | 1.00% | ~36 |
-| Junk Banishment | 1.00% | ~36 |
-| Long Distance Call | 1.00% | ~36 |
-| Tactical Flexibility | 1.00% | ~36 |
-| Tactical Sabotage | 1.00% | ~36 |
+| Fleetmaster | 1.00% | ~37 |
+| Exterminator | 1.00% | ~37 |
+| Mind Like a Fortress | 1.00% | ~37 |
+| Only in Death | 1.00% | ~37 |
+| Preservationist | 1.00% | ~37 |
+| Junk Banishment | 1.00% | ~37 |
+| Long Distance Call | 1.00% | ~37 |
+| Tactical Flexibility | 1.00% | ~37 |
+| Tactical Sabotage | 1.00% | ~37 |
 | Patron of Deimos | 0.90% | ~33 |
 | For the Machine God | 0.90% | ~33 |
 | Death Comes For All | 0.90% | ~33 |
 | Engine Kill | 0.80% | ~29 |
+| Harvest No More | 0.80% | ~29 |
 | Hands-On Research | 0.70% | ~26 |
-| Harvest No More | 0.70% | ~26 |
 | Strike Force | 0.60% | ~22 |
 | True Mastery | 0.60% | ~22 |
 | Exercise in Restraint | 0.50% | ~18 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,650 (Ranked 216)  
+Progressed: 3,651 (Ranked 216)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 3,615 | 0 |
 | 2023-12-28 | 3,628 | 0 |
 | 2023-12-29 | 3,644 | 0 |
-| 2023-12-30 | 3,650 | 0 |
+| 2023-12-30 | 3,651 | 0 |
 ## Awards
 Max (Character Customization): 232  (Ranked 282)  
 Sum: 493 (Ranked 335)  

@@ -15,13 +15,13 @@ Rating: 3.60 (Ranked 1,078)
 | Peek-a-boo | 9.00% | ~195 |
 | Fly Fisher | 8.00% | ~173 |
 | Sucks To Be You | 8.00% | ~173 |
-| Welcome to the Neighborhood | 7.00% | ~151 |
-| Throw The First Stone | 7.00% | ~151 |
+| Welcome to the Neighborhood | 7.00% | ~152 |
+| Throw The First Stone | 7.00% | ~152 |
 | Enter of Your Own Free Will | 6.00% | ~130 |
 | Heart Attack | 6.00% | ~130 |
-| Skin of Their Teeth | 6.00% | ~130 |
 | Bad Wiring | 5.00% | ~108 |
 | Grounded | 5.00% | ~108 |
+| Skin of Their Teeth | 5.00% | ~108 |
 | Neighborhood Revitalization | 4.00% | ~87 |
 | Radio Silence | 4.00% | ~87 |
 | Helping Hand | 3.00% | ~65 |
@@ -72,7 +72,7 @@ Rating: 3.60 (Ranked 1,078)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,163 (Ranked 237)  
+Progressed: 2,165 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 2,113 | 0 |
 | 2023-12-28 | 2,135 | 0 |
 | 2023-12-29 | 2,155 | 0 |
-| 2023-12-30 | 2,163 | 0 |
+| 2023-12-30 | 2,165 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 569)  
 Sum: 20 (Ranked 570)  

@@ -4,7 +4,7 @@
   "ProductSlug": "horse-club-adventures-19e7a0",
   "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 465,
+  "Ranking_EOS_NewPlayers": 464,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
@@ -549,9 +549,9 @@
       "ID": "ACH_23_MILL",
       "SetID": "9dl0ei6",
       "Name": "The mill rattles by the rushing stream",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_24_STONECIRCLE",
@@ -596,8 +596,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-12-30T10:10:55.7741886+00:00",
+  "LastChanged_Achievements": "2023-12-30T11:09:58.8527292+00:00",
   "LastUpdate_AppInfo": "2023-12-25T02:56:58.2928239+00:00",
-  "LastUpdate_Ratings": "2023-12-30T10:02:05.1488883+00:00",
-  "LastUpdate_Achievements": "2023-12-30T10:10:55.7742081+00:00"
+  "LastUpdate_Ratings": "2023-12-30T11:00:51.1831461+00:00",
+  "LastUpdate_Achievements": "2023-12-30T11:09:58.8527431+00:00"
 }

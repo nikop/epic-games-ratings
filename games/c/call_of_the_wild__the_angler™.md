@@ -7,20 +7,20 @@ Number of Ratings: 281  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fish Just Got Reel | 15.00% | ~1,162 |
-| More Fish in the Sea | 13.00% | ~1,007 |
+| More Fish in the Sea | 13.00% | ~1,008 |
 | Hey Good Hookin | 12.00% | ~930 |
 | Can you smell what the Rod is Hooking | 11.00% | ~852 |
 | Scaling up | 11.00% | ~852 |
 | I'm on a Boat! | 10.00% | ~775 |
 | Ready to Rod and Roll | 8.00% | ~620 |
 | Things that go Splash in the Night | 6.00% | ~465 |
-| Fish Out of Water | 5.00% | ~387 |
+| Fish Out of Water | 5.00% | ~388 |
 | Goldfish? | 4.00% | ~310 |
 | Going for Gold | 4.00% | ~310 |
 | License to Gill | 3.00% | ~232 |
 | School's Out for Summer | 3.00% | ~232 |
 | I'm Hooked! | 2.00% | ~155 |
-| Diamond in the Rough | 1.00% | ~77 |
+| Diamond in the Rough | 1.00% | ~78 |
 | I'm the Captain Now | 0.90% | ~70 |
 | Marathon | 0.90% | ~70 |
 | Hook, Line and Sinker | 0.70% | ~54 |
@@ -31,11 +31,11 @@ Number of Ratings: 281  (23.09.2022)
 | Aguas Claras Conquistador | 0.40% | ~28 |
 | All Good Kings Must Come to an End | 0.30% | ~21 |
 | Three Square Meals | 0.30% | ~21 |
-| The Beetles | 0.20% | ~15 |
-| Lake Me up Before You Go Go | 0.20% | ~15 |
-| Taylor Made | 0.20% | ~15 |
-| Big Fish Small Pond | 0.20% | ~15 |
-| Golden Ridge Ranger | 0.20% | ~15 |
+| The Beetles | 0.20% | ~16 |
+| Lake Me up Before You Go Go | 0.20% | ~16 |
+| Taylor Made | 0.20% | ~16 |
+| Big Fish Small Pond | 0.20% | ~16 |
+| Golden Ridge Ranger | 0.20% | ~16 |
 | Rod and Troll | 0.20% | ~14 |
 | Head for Heights | 0.10% | ~8 |
 | Lost and Flounder | 0.10% | ~8 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,749 (Ranked 188)  
+Progressed: 7,750 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 7,651 | 0 |
 | 2023-12-28 | 7,687 | 0 |
 | 2023-12-29 | 7,723 | 0 |
-| 2023-12-30 | 7,749 | 0 |
+| 2023-12-30 | 7,750 | 0 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 474)  
 Sum: 212 (Ranked 408)  

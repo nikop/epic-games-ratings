@@ -37,7 +37,7 @@
   "Tags": [],
   "EOS_Progressed": 700,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -2766,9 +2766,9 @@
       "ID": "ACHIEVEMENT_7_SecondWall",
       "SetID": "9bke6f1",
       "Name": "Second wall",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 231
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -2799,8 +2799,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-27T15:59:49.1136695+00:00",
-  "LastChanged_Achievements": "2023-12-30T10:09:38.4714259+00:00",
+  "LastChanged_Achievements": "2023-12-30T11:08:58.4119052+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:10.2016354+00:00",
-  "LastUpdate_Ratings": "2023-12-30T10:01:50.7009052+00:00",
-  "LastUpdate_Achievements": "2023-12-30T10:09:38.4714573+00:00"
+  "LastUpdate_Ratings": "2023-12-30T11:00:40.1913301+00:00",
+  "LastUpdate_Achievements": "2023-12-30T11:08:58.4119343+00:00"
 }
