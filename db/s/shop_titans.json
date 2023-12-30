@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -7849,9 +7849,9 @@
       "Count": 3807
     }
   ],
-  "EOS_Progressed": 148432,
+  "EOS_Progressed": 148439,
   "EOS_Completed": 340,
-  "EOS_NewPlayers": 1318,
+  "EOS_NewPlayers": 1319,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -34564,6 +34564,11 @@
       "Time": "2023-12-30T12:04:36.4516826+00:00",
       "NumProgressed": 148432,
       "NumCompleted": 340
+    },
+    {
+      "Time": "2023-12-30T13:07:34.8904353+00:00",
+      "NumProgressed": 148439,
+      "NumCompleted": 340
     }
   ],
   "TotalAchievements": 112,
@@ -34575,7 +34580,7 @@
       "Name": "The Daily Grind",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5937
+      "UsersEstimate": 5938
     },
     {
       "ID": "advlevel02",
@@ -34711,7 +34716,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5937
+      "UsersEstimate": 5938
     },
     {
       "ID": "boss02",
@@ -34727,7 +34732,7 @@
       "Name": "Bane of Legends",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "champions01",
@@ -34743,7 +34748,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14843
+      "UsersEstimate": 14844
     },
     {
       "ID": "chest02",
@@ -34807,7 +34812,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13359
+      "UsersEstimate": 13360
     },
     {
       "ID": "commonres02",
@@ -34815,7 +34820,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5937
+      "UsersEstimate": 5938
     },
     {
       "ID": "commonres03",
@@ -34839,7 +34844,7 @@
       "Name": "Disintermediation",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10390
+      "UsersEstimate": 10391
     },
     {
       "ID": "craft02",
@@ -34847,7 +34852,7 @@
       "Name": "Flooding the Market",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5937
+      "UsersEstimate": 5938
     },
     {
       "ID": "craft03",
@@ -34879,7 +34884,7 @@
       "Name": "Where it Hurts",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5937
+      "UsersEstimate": 5938
     },
     {
       "ID": "damage02",
@@ -35127,7 +35132,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5937
+      "UsersEstimate": 5938
     },
     {
       "ID": "jackslot02",
@@ -35199,7 +35204,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5937
+      "UsersEstimate": 5938
     },
     {
       "ID": "loot02",
@@ -35223,7 +35228,7 @@
       "Name": "Anything not Nailed Down",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "master01",
@@ -35231,7 +35236,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5937
+      "UsersEstimate": 5938
     },
     {
       "ID": "master02",
@@ -35335,7 +35340,7 @@
       "Name": "Marvels from the World Over",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "rudo_a",
@@ -35351,7 +35356,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10390
+      "UsersEstimate": 10391
     },
     {
       "ID": "sell02",
@@ -35391,7 +35396,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13359
+      "UsersEstimate": 13360
     },
     {
       "ID": "twinenchant01",
@@ -35470,15 +35475,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 148432,
+      "Progressed": 148439,
       "Completed": 340
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-29T23:03:05.1750024+00:00",
-  "LastChanged_Achievements": "2023-12-30T12:04:36.4516823+00:00",
+  "LastChanged_Achievements": "2023-12-30T13:07:34.890435+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:55.73992+00:00",
-  "LastUpdate_Ratings": "2023-12-30T12:03:12.9487499+00:00",
-  "LastUpdate_Achievements": "2023-12-30T12:04:36.4518744+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:06:01.0738423+00:00",
+  "LastUpdate_Achievements": "2023-12-30T13:07:34.8906506+00:00"
 }

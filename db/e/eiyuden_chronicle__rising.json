@@ -2,13 +2,13 @@
   "ID": "a4824407d9ec4f6a8c13919e732f9400",
   "Name": "Eiyuden Chronicle: Rising",
   "ProductSlug": "eiyuden-chronicle-rising",
-  "Ranking_Rating": 610,
+  "Ranking_Rating": 611,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 339,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
     "PcReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -1057,9 +1057,9 @@
       "ID": "ACHIEVEMENT040",
       "SetID": "dejhjd5",
       "Name": "Rune Wall Master",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 242
+      "UsersEstimate": 250
     },
     {
       "ID": "ACHIEVEMENT041",
@@ -1153,8 +1153,8 @@
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-30T12:08:58.1725339+00:00",
+  "LastChanged_Achievements": "2023-12-30T13:11:40.1980476+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:13.3507412+00:00",
-  "LastUpdate_Ratings": "2023-12-30T11:59:27.9577234+00:00",
-  "LastUpdate_Achievements": "2023-12-30T12:08:58.1725699+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:02:29.1637856+00:00",
+  "LastUpdate_Achievements": "2023-12-30T13:11:40.1980925+00:00"
 }

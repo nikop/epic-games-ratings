@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -69,9 +69,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1389,
+  "EOS_Progressed": 1390,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -3554,6 +3554,11 @@
       "Time": "2023-12-30T08:10:47.0789833+00:00",
       "NumProgressed": 1389,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-12-30T13:12:55.1439037+00:00",
+      "NumProgressed": 1390,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-10-23T06:09:19.5228409+00:00",
@@ -3566,7 +3571,7 @@
       "Name": "Blue Dreams",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "EV_ACH02",
@@ -3582,7 +3587,7 @@
       "Name": "He\u0027s Famous!",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "EV_ACH04",
@@ -3590,7 +3595,7 @@
       "Name": "No Bites",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "EV_ACH05",
@@ -3598,7 +3603,7 @@
       "Name": "Tear of Freedom",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "EV_ACH06",
@@ -3606,7 +3611,7 @@
       "Name": "A Tragic Reminder",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "EV_ACH07",
@@ -3614,7 +3619,7 @@
       "Name": "3000 Year Blackout",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "EV_ACH08",
@@ -3622,7 +3627,7 @@
       "Name": "So Close",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "EV_ACH09",
@@ -3630,7 +3635,7 @@
       "Name": "You Get Used To It",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "EV_ACH10",
@@ -3670,7 +3675,7 @@
       "Name": "Boom Things",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "EV_ACH15",
@@ -3686,7 +3691,7 @@
       "Name": "Krugmazing",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "EV_ACH17",
@@ -3694,7 +3699,7 @@
       "Name": "Iceborn",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "EV_ACH18",
@@ -3710,7 +3715,7 @@
       "Name": "On The Rocks",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "EV_ACH20",
@@ -3766,7 +3771,7 @@
       "Name": "Moneyball",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "EV_ACH27",
@@ -3774,7 +3779,7 @@
       "Name": "I Broke It",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "EV_ACH28",
@@ -3782,7 +3787,7 @@
       "Name": "The Pied Piper Of Freljord",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "EV_ACH29",
@@ -3790,7 +3795,7 @@
       "Name": "Cutie Poro",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "EV_ACH30",
@@ -3806,7 +3811,7 @@
       "Name": "Feels Familiar",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "EV_ACH32",
@@ -3838,7 +3843,7 @@
       "Name": "The Fire Below the Mountain",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "EV_ACH36",
@@ -3854,7 +3859,7 @@
       "Name": "The Finisher",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "EV_ACH38",
@@ -3917,7 +3922,7 @@
     {
       "ID": "6jeac23",
       "IsBase": true,
-      "Progressed": 1389,
+      "Progressed": 1390,
       "Completed": 9
     }
   ],
@@ -3925,8 +3930,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-25T19:59:38.6529887+00:00",
-  "LastChanged_Achievements": "2023-12-30T12:10:14.8128192+00:00",
+  "LastChanged_Achievements": "2023-12-30T13:12:55.1439034+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:41.3966374+00:00",
-  "LastUpdate_Ratings": "2023-12-30T11:58:30.1051467+00:00",
-  "LastUpdate_Achievements": "2023-12-30T12:10:14.8128854+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:01:33.904548+00:00",
+  "LastUpdate_Achievements": "2023-12-30T13:12:55.1439879+00:00"
 }

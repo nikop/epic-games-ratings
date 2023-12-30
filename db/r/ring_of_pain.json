@@ -3814,9 +3814,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 242019,
+  "EOS_Progressed": 242021,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 503,
+  "EOS_NewPlayers": 501,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -30074,6 +30074,11 @@
       "Time": "2023-12-30T12:10:18.5257713+00:00",
       "NumProgressed": 242019,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-30T13:12:58.7999227+00:00",
+      "NumProgressed": 242021,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -31061,7 +31066,7 @@
       "Name": "Scrounger Appreciation",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "FINISHGAMELOWCHANCESTATS",
@@ -31077,7 +31082,7 @@
       "Name": "Explosives Expert",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "FINISHGAMENOSTATS",
@@ -31085,7 +31090,7 @@
       "Name": "All Natural",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "FINISHRUNALLCLERIC",
@@ -31101,7 +31106,7 @@
       "Name": "Soul Kin",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "FINISHRUNALLONLYEQUIPMULTICLASS",
@@ -31109,7 +31114,7 @@
       "Name": "Multiclass",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "FINISHRUNALLROGUE",
@@ -31117,7 +31122,7 @@
       "Name": "Stalker",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "FINISHRUNALLWARRIOR",
@@ -31125,7 +31130,7 @@
       "Name": "Brute",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "KILLALLCREATURESINONETURN",
@@ -31141,7 +31146,7 @@
       "Name": "Not Touching You",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "KILLBOSSWITHNOITEMS",
@@ -31149,7 +31154,7 @@
       "Name": "Raw Power",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "KILLCREATUREWITHSAMESTATS",
@@ -31157,7 +31162,7 @@
       "Name": "Dominant Twin",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SPEND200SOULSONREROLLANDDISCARD",
@@ -31188,13 +31193,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242019,
+      "Progressed": 242021,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3499,
+      "Progressed": 3501,
       "Completed": 416
     }
   ],
@@ -31202,8 +31207,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-30T08:01:44.1465561+00:00",
-  "LastChanged_Achievements": "2023-12-30T12:10:18.5257711+00:00",
+  "LastChanged_Achievements": "2023-12-30T13:12:58.7999225+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-30T12:00:20.2525905+00:00",
-  "LastUpdate_Achievements": "2023-12-30T12:10:18.5260364+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:03:20.2900956+00:00",
+  "LastUpdate_Achievements": "2023-12-30T13:12:58.8001799+00:00"
 }

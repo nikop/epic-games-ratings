@@ -3,12 +3,12 @@
   "Name": "Jurassic World Evolution 2",
   "ProductSlug": "jurassic-world-evolution-2",
   "Ranking_Rating": 161,
-  "Ranking_Popularity": 179,
+  "Ranking_Popularity": 178,
   "Ranking_PopularitySum": 130,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 561,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-11-09T14:00:00+00:00",
     "PcReleaseDate": "2021-11-09T14:00:00+00:00",
@@ -7091,11 +7091,17 @@
       "Rating": 4.74,
       "NumberOfAwards": 6674,
       "NumberOfAwardsMax": 783
+    },
+    {
+      "Time": "2023-12-30T13:05:57.928044+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 6679,
+      "NumberOfAwardsMax": 787
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6674,
-  "NumberOfAwardsMax": 783,
+  "NumberOfAwards": 6679,
+  "NumberOfAwardsMax": 787,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -7132,13 +7138,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 783
+      "Count": 787
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 667
+      "Count": 668
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -7176,8 +7182,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:10.4170435+00:00",
-  "LastChanged": "2023-12-30T12:03:10.1125416+00:00",
+  "LastChanged": "2023-12-30T13:05:57.9280439+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:54.2792963+00:00",
-  "LastUpdate_Ratings": "2023-12-30T12:03:10.1125421+00:00",
-  "LastUpdate_Achievements": "2023-12-30T12:05:10.4124373+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:05:57.9280444+00:00",
+  "LastUpdate_Achievements": "2023-12-30T13:08:07.9593488+00:00"
 }

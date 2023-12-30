@@ -1,7 +1,7 @@
 # Eiyuden Chronicle: Rising
 [Store](https://store.epicgames.com/en-US/p/eiyuden-chronicle-rising)  
 [View Rawdata](../../db/e/eiyuden_chronicle__rising.json)  
-Rating: 4.50 (Ranked 610)  
+Rating: 4.50 (Ranked 611)  
 Number of Ratings: 48  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -28,7 +28,7 @@ Number of Ratings: 48  (23.09.2022)
 | One Mean Merc | 33.00% | ~257 |
 | Adept, for an Acting Mayor | 33.00% | ~257 |
 | Money, Money, Money | 33.00% | ~257 |
-| Rune Wall Master | 31.00% | ~242 |
+| Rune Wall Master | 32.00% | ~250 |
 | The Quarry...On Foot! | 29.00% | ~226 |
 | The Runebarrows...On Foot! | 27.00% | ~211 |
 | The Lava Ruins...On Foot! | 26.00% | ~203 |

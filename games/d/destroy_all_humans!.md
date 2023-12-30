@@ -9,7 +9,7 @@ Number of Ratings: 85  (23.09.2022)
 | Shop Til They Drop | 68.00% | ~159 |
 | Kaijuiced | 67.00% | ~157 |
 | Lie Back and Think of Albion | 60.00% | ~140 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 58.00% | ~136 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 59.00% | ~138 |
 | I Look Up As I Walk to Takoshima | 56.00% | ~131 |
 | Yettisoned | 55.00% | ~129 |
 | Perfect Probulator | 53.00% | ~124 |
@@ -18,14 +18,14 @@ Number of Ratings: 85  (23.09.2022)
 | Earthly Pleasures | 47.00% | ~110 |
 | Fly Me to the Moon Base | 44.00% | ~103 |
 | Ducks in a Row, Fish in a Barrel | 43.00% | ~101 |
-| Freshly Squeezed | 36.00% | ~84 |
+| Freshly Squeezed | 37.00% | ~87 |
 | Forbidden Donut | 35.00% | ~82 |
 | Bodied Sattva | 34.00% | ~80 |
 | Upgreatest | 33.00% | ~77 |
 | Furon Fashion | 28.00% | ~66 |
 | Deincarnated | 26.00% | ~61 |
 | Rock of the Bay | 24.00% | ~56 |
-| Trans-Siberian Express | 23.00% | ~54 |
+| Trans-Siberian Express | 24.00% | ~56 |
 | Re-Return of the Clone of the Invasion II-2 | 19.00% | ~44 |
 | Ouch of Body Experience | 17.00% | ~40 |
 | If You Know What I Mean | 17.00% | ~40 |

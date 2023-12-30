@@ -2,10 +2,10 @@
   "ID": "ace01fe38cfb4479b1009cf49478ff18",
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
-  "Ranking_EOS_Progress": 326,
-  "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Progress": 325,
+  "Ranking_EOS_Completed": 283,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 620,
+  "EOS_Progressed": 621,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2079,6 +2079,11 @@
       "Time": "2023-12-30T09:08:36.022925+00:00",
       "NumProgressed": 620,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T13:11:19.0036008+00:00",
+      "NumProgressed": 621,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -2186,14 +2191,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 620,
+      "Progressed": 621,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-30T12:08:36.1445781+00:00",
+  "LastChanged_Achievements": "2023-12-30T13:11:19.0036005+00:00",
   "LastUpdate_AppInfo": "2023-12-29T15:57:01.9014557+00:00",
-  "LastUpdate_Ratings": "2023-12-30T11:58:26.7213938+00:00",
-  "LastUpdate_Achievements": "2023-12-30T12:08:36.1446095+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:01:30.538728+00:00",
+  "LastUpdate_Achievements": "2023-12-30T13:11:19.0036238+00:00"
 }

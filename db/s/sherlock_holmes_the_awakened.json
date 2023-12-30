@@ -2,13 +2,13 @@
   "ID": "f9bc208b965c4fb7afd0c842d764fc37",
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
-  "Ranking_Rating": 610,
+  "Ranking_Rating": 611,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 117,
   "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -163,9 +163,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1347,
+  "EOS_Progressed": 1348,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.82,
   "EosHistory": [
@@ -4718,6 +4718,11 @@
       "Time": "2023-12-29T23:03:26.4000304+00:00",
       "NumProgressed": 1347,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-30T13:06:47.9369061+00:00",
+      "NumProgressed": 1348,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 28,
@@ -4729,7 +4734,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "MQ01_2",
@@ -4743,9 +4748,9 @@
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 727
+      "UsersEstimate": 741
     },
     {
       "ID": "MQ02_2",
@@ -4761,7 +4766,7 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "MQ02_4",
@@ -4769,7 +4774,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "MQ03_1",
@@ -4793,7 +4798,7 @@
       "Name": "History Check",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "MQ03_4",
@@ -4801,7 +4806,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "MQ03_5",
@@ -4833,15 +4838,15 @@
       "Name": "The New World",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "MQ05_1",
       "SetID": "bbing49",
       "Name": "Open Sesame",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 593
+      "UsersEstimate": 580
     },
     {
       "ID": "MQ05_2",
@@ -4857,7 +4862,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "MQ05_4",
@@ -4865,7 +4870,7 @@
       "Name": "Knives Out",
       "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "MQ06_1",
@@ -4881,7 +4886,7 @@
       "Name": "Bookworm",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "MQ06_3",
@@ -4897,7 +4902,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "MQ07_1",
@@ -4905,7 +4910,7 @@
       "Name": "Read It And Weep",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "MQ07_2",
@@ -4937,7 +4942,7 @@
       "Name": "Fhtagn!",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "PLTN",
@@ -4952,7 +4957,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1347,
+      "Progressed": 1348,
       "Completed": 38
     }
   ],
@@ -4960,8 +4965,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-27T11:03:12.3161328+00:00",
-  "LastChanged_Achievements": "2023-12-30T12:03:48.9839476+00:00",
+  "LastChanged_Achievements": "2023-12-30T13:06:47.9369059+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:08.3764282+00:00",
-  "LastUpdate_Ratings": "2023-12-30T12:03:10.2837141+00:00",
-  "LastUpdate_Achievements": "2023-12-30T12:03:48.9839814+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:05:58.1623008+00:00",
+  "LastUpdate_Achievements": "2023-12-30T13:06:47.9369481+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -1257,9 +1257,9 @@
       "ID": "TROP023",
       "SetID": "9n0dl35",
       "Name": "Detox diet",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 236
+      "UsersEstimate": 242
     },
     {
       "ID": "TROP024",
@@ -1306,8 +1306,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-12-30T12:10:11.3962055+00:00",
+  "LastChanged_Achievements": "2023-12-30T13:12:51.6963224+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:49.5649592+00:00",
-  "LastUpdate_Ratings": "2023-12-30T11:58:46.0452327+00:00",
-  "LastUpdate_Achievements": "2023-12-30T12:10:11.3962445+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:01:49.1274258+00:00",
+  "LastUpdate_Achievements": "2023-12-30T13:12:51.6963835+00:00"
 }

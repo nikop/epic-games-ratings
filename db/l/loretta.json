@@ -4,8 +4,8 @@
   "ProductSlug": "loretta-0099a6",
   "Ranking_EOS_Progress": 640,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-02-16T08:00:00+00:00",
     "PcReleaseDate": "2023-02-16T08:00:00+00:00",
@@ -197,9 +197,9 @@
       "ID": "ach_lora_letter_cutter_egs",
       "SetID": "134m0cb",
       "Name": "Dead End",
-      "Percentage": 42,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_lora_look_your_own_past_egs",
@@ -245,17 +245,17 @@
       "ID": "ach_lora_red_dead_egs",
       "SetID": "134m0cb",
       "Name": "Red is Dead",
-      "Percentage": 25,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_lora_take_cure_egs",
       "SetID": "134m0cb",
       "Name": "A Cure for Wellness",
-      "Percentage": 42,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
@@ -270,8 +270,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.6808915+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.2290524+00:00",
   "LastChanged": "2023-03-31T05:58:45.6808915+00:00",
-  "LastChanged_Achievements": "2023-12-30T12:08:55.7921185+00:00",
+  "LastChanged_Achievements": "2023-12-30T13:11:37.9040967+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:11.855626+00:00",
-  "LastUpdate_Ratings": "2023-12-30T11:59:16.3886294+00:00",
-  "LastUpdate_Achievements": "2023-12-30T12:08:55.7921498+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:02:17.8868068+00:00",
+  "LastUpdate_Achievements": "2023-12-30T13:11:37.9041129+00:00"
 }

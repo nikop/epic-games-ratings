@@ -4,8 +4,8 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -2354,9 +2354,9 @@
       "ID": "ACHV_TERMINATED3",
       "SetID": "cceobco",
       "Name": "Terminated III",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 145
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHV_TRICKSHOT",
@@ -2417,8 +2417,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-12-30T12:09:42.7601986+00:00",
+  "LastChanged_Achievements": "2023-12-30T13:12:23.9935185+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:31.8912561+00:00",
-  "LastUpdate_Ratings": "2023-12-30T11:58:04.5087024+00:00",
-  "LastUpdate_Achievements": "2023-12-30T12:09:42.7602243+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:01:09.0929149+00:00",
+  "LastUpdate_Achievements": "2023-12-30T13:12:23.9935636+00:00"
 }

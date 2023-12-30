@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | The only good Rat is a dead Rat | 83.00% | ~10 |
 | Act of Violence | 83.00% | ~10 |
+| Dead End | 50.00% | ~6 |
 | Ace in the Hole | 50.00% | ~6 |
-| Dead End | 42.00% | ~5 |
-| A Cure for Wellness | 42.00% | ~5 |
+| A Cure for Wellness | 50.00% | ~6 |
 | The New Beginning | 33.00% | ~4 |
-| Red is Dead | 25.00% | ~3 |
+| Red is Dead | 33.00% | ~4 |
 | Out of the Past | 17.00% | ~2 |
 | Woman on the Run | 8.00% | ~1 |
 | Lightning Strikes Twice | 8.00% | ~1 |

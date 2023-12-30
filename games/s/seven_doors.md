@@ -9,8 +9,8 @@
 | Diogenes Syndrome | 48.00% | ~13 |
 | No Fear of the Dark | 44.00% | ~12 |
 | They’re Watching | 41.00% | ~11 |
+| Art Connoisseur | 41.00% | ~11 |
 | Egyptologist | 41.00% | ~11 |
-| Art Connoisseur | 37.00% | ~10 |
 | The Last Skull | 37.00% | ~10 |
 | A Cautious Man Is Worth Two of His Kind | 30.00% | ~8 |
 | Survivor | 30.00% | ~8 |

@@ -4,8 +4,8 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 356,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -814,9 +814,9 @@
       "ID": "patient_listener",
       "SetID": "2db2j74",
       "Name": "Patient Listener",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 140
     },
     {
       "ID": "play_it_again_sam",
@@ -911,8 +911,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-12-30T12:03:41.3954515+00:00",
+  "LastChanged_Achievements": "2023-12-30T13:06:40.5136342+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:53.236705+00:00",
-  "LastUpdate_Ratings": "2023-12-30T12:03:07.9269641+00:00",
-  "LastUpdate_Achievements": "2023-12-30T12:03:41.3954654+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:05:55.9634682+00:00",
+  "LastUpdate_Achievements": "2023-12-30T13:06:40.5136479+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 745,
+  "EOS_Progressed": 746,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.82,
   "EosHistory": [
@@ -1485,6 +1485,11 @@
       "Time": "2023-12-30T11:09:32.0620939+00:00",
       "NumProgressed": 745,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-30T13:12:24.7634419+00:00",
+      "NumProgressed": 746,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 20,
@@ -1496,7 +1501,7 @@
       "Name": "Beat It",
       "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "blast_from_the_past",
@@ -1504,7 +1509,7 @@
       "Name": "Blast From The Past",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "deadly_secret",
@@ -1512,7 +1517,7 @@
       "Name": "Deadly Secret",
       "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ending_1",
@@ -1536,7 +1541,7 @@
       "Name": "Get Out Of This Alive",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ending_4",
@@ -1560,7 +1565,7 @@
       "Name": "Stalemate",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ending_7",
@@ -1584,7 +1589,7 @@
       "Name": "Falling For You",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "free_champagne",
@@ -1600,7 +1605,7 @@
       "Name": "Kamikaze",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "kindar_surprise",
@@ -1648,14 +1653,14 @@
       "Name": "Tough Decision",
       "Percentage": 92,
       "XP": 50,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 745,
+      "Progressed": 746,
       "Completed": 21
     }
   ],
@@ -1663,8 +1668,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-12-30T12:09:43.5269052+00:00",
+  "LastChanged_Achievements": "2023-12-30T13:12:24.7634416+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.7149105+00:00",
-  "LastUpdate_Ratings": "2023-12-30T11:57:54.658683+00:00",
-  "LastUpdate_Achievements": "2023-12-30T12:09:43.526924+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:00:59.2625297+00:00",
+  "LastUpdate_Achievements": "2023-12-30T13:12:24.7634702+00:00"
 }

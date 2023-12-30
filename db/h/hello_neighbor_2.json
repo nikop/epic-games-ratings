@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -497,7 +497,7 @@
   "Tags": [],
   "EOS_Progressed": 3724,
   "EOS_Completed": 141,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.79,
   "EosHistory": [
@@ -6468,9 +6468,9 @@
       "ID": "ACH_IMPRISONMENT",
       "SetID": "4kfb9pd",
       "Name": "Imprisonment",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 819
+      "UsersEstimate": 857
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -6525,8 +6525,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-12-29T23:00:02.814442+00:00",
-  "LastChanged_Achievements": "2023-12-30T12:08:28.8072469+00:00",
+  "LastChanged_Achievements": "2023-12-30T13:09:32.4266213+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:21.8712839+00:00",
-  "LastUpdate_Ratings": "2023-12-30T12:02:37.2722351+00:00",
-  "LastUpdate_Achievements": "2023-12-30T12:08:28.8072843+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:03:26.0267275+00:00",
+  "LastUpdate_Achievements": "2023-12-30T13:09:32.4266654+00:00"
 }

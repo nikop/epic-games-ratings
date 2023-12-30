@@ -3,9 +3,9 @@
   "Name": "Samorost 3",
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 432,
-  "Ranking_EOS_Completed": 72,
+  "Ranking_EOS_Completed": 73,
   "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 172,
+  "EOS_Progressed": 173,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.81,
+  "EOS_Completed_Percentage": 5.78,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -874,6 +874,11 @@
       "Time": "2023-12-30T06:06:18.3003151+00:00",
       "NumProgressed": 172,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-30T13:06:24.5679772+00:00",
+      "NumProgressed": 173,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -894,7 +899,7 @@
       "Name": "Cicadas",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Destilat",
@@ -940,9 +945,9 @@
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 86
     },
     {
       "ID": "Kour",
@@ -950,7 +955,7 @@
       "Name": "Spiral Smoke",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "KrabiPyramida",
@@ -1022,7 +1027,7 @@
       "Name": "Hermit Crabs",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Prstenec",
@@ -1054,7 +1059,7 @@
       "Name": "Sleeping Parrot",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "Sputnik2",
@@ -1062,7 +1067,7 @@
       "Name": "Sputnik",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Stonozka",
@@ -1100,9 +1105,9 @@
       "ID": "Xicht",
       "SetID": "ag48e8e",
       "Name": "Rockheads",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "Zelvak",
@@ -1116,23 +1121,23 @@
       "ID": "ZpivajiciHouba",
       "SetID": "ag48e8e",
       "Name": "Dancing Fungus",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 50
     }
   ],
   "AchievementSets": [
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 172,
+      "Progressed": 173,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-12-30T12:03:25.4006911+00:00",
+  "LastChanged_Achievements": "2023-12-30T13:06:24.5679767+00:00",
   "LastUpdate_AppInfo": "2023-12-30T07:56:58.817379+00:00",
-  "LastUpdate_Ratings": "2023-12-30T12:02:56.4304502+00:00",
-  "LastUpdate_Achievements": "2023-12-30T12:03:25.400715+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:05:44.3625649+00:00",
+  "LastUpdate_Achievements": "2023-12-30T13:06:24.5680029+00:00"
 }

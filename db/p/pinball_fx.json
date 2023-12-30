@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2105,18 +2105,24 @@
       "Rating": 4.07,
       "NumberOfAwards": 1631,
       "NumberOfAwardsMax": 211
+    },
+    {
+      "Time": "2023-12-30T13:06:07.0473578+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 1632,
+      "NumberOfAwardsMax": 212
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1631,
-  "NumberOfAwardsMax": 211,
+  "NumberOfAwards": 1632,
+  "NumberOfAwardsMax": 212,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 211
+      "Count": 212
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2191,9 +2197,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 288867,
+  "EOS_Progressed": 288883,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3121,
+  "EOS_NewPlayers": 3120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31296,6 +31302,11 @@
       "Time": "2023-12-30T12:03:57.9118507+00:00",
       "NumProgressed": 288867,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T13:06:56.7307044+00:00",
+      "NumProgressed": 288883,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 39,
@@ -31531,7 +31542,7 @@
       "Name": "Ball Launched",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5777
+      "UsersEstimate": 5778
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -31618,21 +31629,21 @@
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 288867,
+      "Progressed": 288883,
       "Completed": 0
     },
     {
       "ID": "5ld4kno",
       "IsBase": false,
-      "Progressed": 7026,
+      "Progressed": 7042,
       "Completed": 595
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
-  "LastChanged": "2023-12-29T04:03:13.9877258+00:00",
-  "LastChanged_Achievements": "2023-12-30T12:03:57.9118501+00:00",
+  "LastChanged": "2023-12-30T13:06:07.0473576+00:00",
+  "LastChanged_Achievements": "2023-12-30T13:06:56.730704+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:22:00.8774128+00:00",
-  "LastUpdate_Ratings": "2023-12-30T12:03:19.5209592+00:00",
-  "LastUpdate_Achievements": "2023-12-30T12:03:57.9119766+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:06:07.047358+00:00",
+  "LastUpdate_Achievements": "2023-12-30T13:06:56.7308757+00:00"
 }

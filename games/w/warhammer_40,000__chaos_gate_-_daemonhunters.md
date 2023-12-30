@@ -51,12 +51,12 @@ Number of Ratings: 371  (23.09.2022)
 | Suffer Not the Mutant | 0.40% | ~15 |
 | Blood and Iron | 0.30% | ~11 |
 | Clean Slate | 0.30% | ~11 |
+| Unstable Immaterium | 0.30% | ~11 |
 | Warp Flickers | 0.30% | ~11 |
 | Abomination | 0.30% | ~11 |
 | Killing Rampage | 0.30% | ~11 |
 | Deadshot | 0.30% | ~11 |
 | The Flesh is Weak | 0.20% | ~7 |
-| Unstable Immaterium | 0.20% | ~7 |
 | Opportunist | 0.20% | ~7 |
 | Phalanx | 0.20% | ~7 |
 | Strategic Command | 0.20% | ~7 |

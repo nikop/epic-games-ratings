@@ -6,9 +6,9 @@
   "Ranking_Popularity": 391,
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 276,
-  "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Completed": 280,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -259,9 +259,9 @@
       "Count": 89
     }
   ],
-  "EOS_Progressed": 1188,
+  "EOS_Progressed": 1189,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3269,6 +3269,11 @@
       "Time": "2023-12-30T09:05:48.4452404+00:00",
       "NumProgressed": 1188,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-30T13:08:37.1837831+00:00",
+      "NumProgressed": 1189,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3321,7 +3326,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "BreakTheLoop",
@@ -3337,7 +3342,7 @@
       "Name": "Bridge Builder",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ChasingTheLight",
@@ -3385,7 +3390,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "EcstaticTruth",
@@ -3681,7 +3686,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "TheWordEndures",
@@ -3697,7 +3702,7 @@
       "Name": "Touch Grass",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "TrevorsBiographer",
@@ -3737,7 +3742,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "YourBiggestFan",
@@ -3745,14 +3750,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1188,
+      "Progressed": 1189,
       "Completed": 2
     }
   ],
@@ -3760,8 +3765,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-29T23:57:10.9507958+00:00",
-  "LastChanged_Achievements": "2023-12-30T12:05:40.554316+00:00",
+  "LastChanged_Achievements": "2023-12-30T13:08:37.1837828+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2023-12-30T11:57:32.7185333+00:00",
-  "LastUpdate_Achievements": "2023-12-30T12:05:40.5543663+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:00:37.9002069+00:00",
+  "LastUpdate_Achievements": "2023-12-30T13:08:37.1838393+00:00"
 }

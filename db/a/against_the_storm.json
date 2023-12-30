@@ -6,9 +6,9 @@
   "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 3791,
+  "Ranking_EOS_Completed": 280,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 3792,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3677,11 +3677,11 @@
       "Count": 337
     }
   ],
-  "EOS_Progressed": 19674,
-  "EOS_Completed": 35,
-  "EOS_NewPlayers": 693,
-  "EOS_NewCompleters": -4,
-  "EOS_Completed_Percentage": 0.18,
+  "EOS_Progressed": 19683,
+  "EOS_Completed": 34,
+  "EOS_NewPlayers": 680,
+  "EOS_NewCompleters": -5,
+  "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:44.0193336+00:00",
@@ -17722,6 +17722,11 @@
       "Time": "2023-12-30T11:06:32.0963527+00:00",
       "NumProgressed": 19674,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-30T13:06:09.622675+00:00",
+      "NumProgressed": 19683,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17822,7 +17827,7 @@
       "Name": "First Real Expedition",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "WinHard",
@@ -17846,7 +17851,7 @@
       "Name": "Ruined Armory",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "WinNearBandit",
@@ -17854,7 +17859,7 @@
       "Name": "Bandit Camp",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "WinNearBarren",
@@ -17862,7 +17867,7 @@
       "Name": "Barren Lands",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "WinNearBattleground",
@@ -17870,7 +17875,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "WinNearCrystals",
@@ -17926,7 +17931,7 @@
       "Name": "Levitating Monument",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "WinNearMines",
@@ -17934,15 +17939,15 @@
       "Name": "Flooded Mines",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "WinNearMonastery",
       "SetID": "cfbk359",
       "Name": "Monastery of the Holy Flame",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 590
     },
     {
       "ID": "WinNearOutpost",
@@ -17958,7 +17963,7 @@
       "Name": "Lost Colonies",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "WinNearStatue",
@@ -17966,7 +17971,7 @@
       "Name": "Statue of the Forefathers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "WinNearTemple",
@@ -17982,7 +17987,7 @@
       "Name": "Corrosive Torrent",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "WinNearWatchtower",
@@ -18006,7 +18011,7 @@
       "Name": "Cursed Lands",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "WinOnMarshlands",
@@ -18046,7 +18051,7 @@
       "Name": "A Real Challenge",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "WinWIthCaches",
@@ -18070,7 +18075,7 @@
       "Name": "Taking Action",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "WinWithResolve",
@@ -18102,7 +18107,7 @@
       "Name": "Trade Baron",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "WinWithoutDeath",
@@ -18110,7 +18115,7 @@
       "Name": "No Deaths",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "WinWithoutOrders",
@@ -18134,7 +18139,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "WinNearFrosts",
@@ -18158,7 +18163,7 @@
       "Name": "Overgrown Library",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "WinNearPetrified",
@@ -18166,7 +18171,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "WinNearPresence",
@@ -18205,15 +18210,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19674,
-      "Completed": 35
+      "Progressed": 19683,
+      "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-29T20:02:24.9867935+00:00",
-  "LastChanged_Achievements": "2023-12-30T11:06:32.0963522+00:00",
+  "LastChanged_Achievements": "2023-12-30T13:06:09.6226741+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-30T12:02:40.6531329+00:00",
-  "LastUpdate_Achievements": "2023-12-30T11:06:32.0964403+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:03:29.335752+00:00",
+  "LastUpdate_Achievements": "2023-12-30T13:06:09.6234729+00:00"
 }

@@ -6,14 +6,14 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~615 |
-| Lost and Found | 7.00% | ~391 |
-| Autodidact | 6.00% | ~7,843 |
+| Malpractice Assurance | 11.00% | ~616 |
+| Lost and Found | 7.00% | ~392 |
+| Autodidact | 6.00% | ~7,844 |
 | This guy... again? | 6.00% | ~336 |
-| This Belongs in a Museum | 5.00% | ~6,536 |
-| Creep and Sleep | 5.00% | ~6,536 |
-| Overdue Notice | 5.00% | ~6,536 |
-| Escape from the Black Hole | 5.00% | ~6,536 |
+| This Belongs in a Museum | 5.00% | ~6,537 |
+| Creep and Sleep | 5.00% | ~6,537 |
+| Overdue Notice | 5.00% | ~6,537 |
+| Escape from the Black Hole | 5.00% | ~6,537 |
 | Ploughshares to Swords | 5.00% | ~280 |
 | Bloody Graduation | 5.00% | ~280 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,229 |
@@ -22,6 +22,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Not Today! | 4.00% | ~5,229 |
 | Meat and Greet | 4.00% | ~5,229 |
 | Catch and Decease | 4.00% | ~5,229 |
+| It Happens | 4.00% | ~5,229 |
 | Rush Hour | 4.00% | ~5,229 |
 | To Grandmother's House | 4.00% | ~5,229 |
 | FNG | 4.00% | ~5,229 |
@@ -30,7 +31,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Dissector | 3.00% | ~3,922 |
 | Banishment | 3.00% | ~3,922 |
 | Now Stay Dead | 3.00% | ~3,922 |
-| It Happens | 3.00% | ~3,922 |
 | Spelunker | 3.00% | ~3,922 |
 | Merry Time | 3.00% | ~3,922 |
 | Harvest Festival | 3.00% | ~3,922 |
@@ -39,23 +39,23 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 3.00% | ~3,922 |
 | Nope | 3.00% | ~3,922 |
 | Unshackled | 3.00% | ~3,922 |
-| Resurrection | 2.00% | ~2,614 |
-| Unleash Hell | 2.00% | ~2,614 |
-| Funny Guy | 2.00% | ~2,614 |
-| Long Live the King | 2.00% | ~2,614 |
-| Wyrdly Reconstructed | 2.00% | ~2,614 |
-| Boxcar Kid | 2.00% | ~2,614 |
-| Hope Rekindled | 2.00% | ~2,614 |
-| Predator | 2.00% | ~2,614 |
-| Deprogramming | 2.00% | ~2,614 |
-| Ichthyophobic | 2.00% | ~2,614 |
-| Reverse Banditry | 2.00% | ~2,614 |
-| A Clear Conscience | 2.00% | ~2,614 |
-| When You Want Something Done Right | 2.00% | ~2,614 |
-| Worldly Traveller | 2.00% | ~2,614 |
-| Utopia | 2.00% | ~2,614 |
-| Hot Air | 2.00% | ~2,614 |
-| Road Trip | 2.00% | ~2,614 |
+| Resurrection | 2.00% | ~2,615 |
+| Unleash Hell | 2.00% | ~2,615 |
+| Funny Guy | 2.00% | ~2,615 |
+| Long Live the King | 2.00% | ~2,615 |
+| Wyrdly Reconstructed | 2.00% | ~2,615 |
+| Boxcar Kid | 2.00% | ~2,615 |
+| Hope Rekindled | 2.00% | ~2,615 |
+| Predator | 2.00% | ~2,615 |
+| Deprogramming | 2.00% | ~2,615 |
+| Ichthyophobic | 2.00% | ~2,615 |
+| Reverse Banditry | 2.00% | ~2,615 |
+| A Clear Conscience | 2.00% | ~2,615 |
+| When You Want Something Done Right | 2.00% | ~2,615 |
+| Worldly Traveller | 2.00% | ~2,615 |
+| Utopia | 2.00% | ~2,615 |
+| Hot Air | 2.00% | ~2,615 |
+| Road Trip | 2.00% | ~2,615 |
 | This Looks Familiar | 1.00% | ~1,307 |
 | No More Mouths to Feed | 1.00% | ~1,307 |
 | Eyes Up | 1.00% | ~1,307 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,723 (Ranked 88)  
+Progressed: 130,734 (Ranked 88)  
 Completed: 3 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 3 (0.00%) (Ranked 391)
 | 2023-12-27 | 130,259 | 3 |
 | 2023-12-28 | 130,422 | 3 |
 | 2023-12-29 | 130,627 | 3 |
-| 2023-12-30 | 130,723 | 3 |
+| 2023-12-30 | 130,734 | 3 |
 ## Awards
 Max (Character Customization): 7,905  (Ranked 50)  
 Sum: 21,257 (Ranked 58)  

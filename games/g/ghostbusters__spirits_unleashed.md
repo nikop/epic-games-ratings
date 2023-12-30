@@ -1,11 +1,11 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 610)  
+Rating: 4.50 (Ranked 611)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 10.00% | ~3,293 |
+| Stylish | 10.00% | ~3,294 |
 | Advancement | 8.00% | ~2,635 |
 | Meticulously Efficient | 8.00% | ~2,635 |
 | Discovery | 6.00% | ~1,976 |
@@ -15,12 +15,12 @@ Rating: 4.50 (Ranked 610)
 | Fully Upgraded | 5.00% | ~1,647 |
 | Teamwork | 5.00% | ~1,647 |
 | Vaporous Expansion | 5.00% | ~1,647 |
-| Clutch Capture | 4.00% | ~1,317 |
-| Cultured | 4.00% | ~1,317 |
-| Daily Dose | 4.00% | ~1,317 |
-| Ghostbuster In Training | 4.00% | ~1,317 |
-| There you are! | 4.00% | ~1,317 |
-| Whoopsie | 4.00% | ~1,317 |
+| Clutch Capture | 4.00% | ~1,318 |
+| Cultured | 4.00% | ~1,318 |
+| Daily Dose | 4.00% | ~1,318 |
+| Ghostbuster In Training | 4.00% | ~1,318 |
+| There you are! | 4.00% | ~1,318 |
+| Whoopsie | 4.00% | ~1,318 |
 | Animated | 3.00% | ~988 |
 | Back Off | 3.00% | ~988 |
 | We have the best insurance | 3.00% | ~988 |
@@ -46,7 +46,7 @@ Rating: 4.50 (Ranked 610)
 | Rivalry | 1.00% | ~329 |
 | Surprise! | 1.00% | ~329 |
 | Terrifying | 1.00% | ~329 |
-| Therapeutic | 0.80% | ~263 |
+| Therapeutic | 0.80% | ~264 |
 | Rift Seeker | 0.60% | ~198 |
 | Master Collector | 0.50% | ~165 |
 | Ghost Expert | 0.30% | ~99 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 610)
 | Ultimate Defense | 0.20% | ~66 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,934 (Ranked 134)  
+Progressed: 32,938 (Ranked 134)  
 Completed: 71 (0.22%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 71 (0.22%) (Ranked 270)
 | 2023-12-27 | 32,821 | 70 |
 | 2023-12-28 | 32,854 | 70 |
 | 2023-12-29 | 32,915 | 71 |
-| 2023-12-30 | 32,934 | 71 |
+| 2023-12-30 | 32,938 | 71 |
 ## Awards
 Max (Great for Beginners): 326  (Ranked 255)  
 Sum: 2,939 (Ranked 183)  

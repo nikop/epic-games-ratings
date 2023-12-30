@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 90.00% | ~87 |
+| Home Sweet Home | 90.00% | ~88 |
 | Enough rooms to swing a cat | 82.00% | ~80 |
 | First to the post | 81.00% | ~79 |
-| A kind of Magic | 75.00% | ~73 |
-| Connected | 68.00% | ~66 |
-| Expansion | 63.00% | ~61 |
-| Mine! | 60.00% | ~58 |
-| Harvest Time | 57.00% | ~55 |
-| Artificer's Apprentice | 52.00% | ~50 |
+| A kind of Magic | 74.00% | ~73 |
+| Connected | 67.00% | ~66 |
+| Expansion | 62.00% | ~61 |
+| Mine! | 59.00% | ~58 |
+| Harvest Time | 56.00% | ~55 |
+| Artificer's Apprentice | 51.00% | ~50 |
 | Fly the friendly Sky | 47.00% | ~46 |
 | Get out of here! | 41.00% | ~40 |
 | Alchemist's Apprentice | 39.00% | ~38 |
@@ -20,12 +20,12 @@
 | Necromancer's Apprentice | 38.00% | ~37 |
 | The Circle | 37.00% | ~36 |
 | Redecorating | 36.00% | ~35 |
-| Bad JuJu | 25.00% | ~24 |
-| Slave to the rhythm | 22.00% | ~21 |
-| Castle Meldec | 22.00% | ~21 |
-| Friend of Sevenkeeps | 22.00% | ~21 |
-| Sevenkeeps Seat of Kings | 19.00% | ~18 |
-| Friend of Alluvyan | 18.00% | ~17 |
+| Bad JuJu | 24.00% | ~24 |
+| Slave to the rhythm | 21.00% | ~21 |
+| Castle Meldec | 21.00% | ~21 |
+| Friend of Sevenkeeps | 21.00% | ~21 |
+| Sevenkeeps Seat of Kings | 18.00% | ~18 |
+| Friend of Alluvyan | 17.00% | ~17 |
 | Friend of Connach | 15.00% | ~15 |
 | Friend of Gillyshire | 14.00% | ~14 |
 | Break Free | 14.00% | ~14 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97 (Ranked 492)  
+Progressed: 98 (Ranked 492)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 89 | 0 |
 | 2023-12-28 | 92 | 0 |
 | 2023-12-29 | 96 | 0 |
-| 2023-12-30 | 97 | 0 |
+| 2023-12-30 | 98 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

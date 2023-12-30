@@ -2,10 +2,10 @@
   "ID": "506c2b96b8e3483d9fa335d37ebe9d6b",
   "Name": "Tintin Reporter - Cigars of the Pharaoh",
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
-  "Ranking_EOS_Progress": 478,
+  "Ranking_EOS_Progress": 477,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
     "PcReleaseDate": "2023-11-07T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 109,
+  "EOS_Progressed": 110,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -514,6 +514,11 @@
       "Time": "2023-12-30T09:04:26.2762822+00:00",
       "NumProgressed": 109,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T13:07:18.1959373+00:00",
+      "NumProgressed": 110,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-13T17:07:46.1878997+00:00",
@@ -524,9 +529,9 @@
       "ID": "Achievement1",
       "SetID": "9fa3l5n",
       "Name": "My Papyrus!",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Achievement10",
@@ -606,15 +611,15 @@
       "Name": "Tintin, Reporter",
       "Percentage": 5,
       "XP": 85,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Achievement2",
       "SetID": "9fa3l5n",
       "Name": "A Loyal Friend",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 42
     },
     {
       "ID": "Achievement20",
@@ -628,9 +633,9 @@
       "ID": "Achievement21",
       "SetID": "9fa3l5n",
       "Name": "Eyes Shut",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "Achievement22",
@@ -700,9 +705,9 @@
       "ID": "Achievement3",
       "SetID": "9fa3l5n",
       "Name": "Abandon Ship!",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 30
     },
     {
       "ID": "Achievement30",
@@ -788,9 +793,9 @@
       "ID": "Achievement6",
       "SetID": "9fa3l5n",
       "Name": "The Curse of Kih-Oskh",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 18
     },
     {
       "ID": "Achievement7",
@@ -821,14 +826,14 @@
     {
       "ID": "9fa3l5n",
       "IsBase": true,
-      "Progressed": 109,
+      "Progressed": 110,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-12-30T12:04:19.4690791+00:00",
+  "LastChanged_Achievements": "2023-12-30T13:07:18.1959368+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:52.0474774+00:00",
-  "LastUpdate_Ratings": "2023-12-30T11:58:48.8396223+00:00",
-  "LastUpdate_Achievements": "2023-12-30T12:04:19.4691029+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:01:51.8528885+00:00",
+  "LastUpdate_Achievements": "2023-12-30T13:07:18.1959635+00:00"
 }

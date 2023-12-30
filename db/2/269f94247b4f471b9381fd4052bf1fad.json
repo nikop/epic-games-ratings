@@ -4,8 +4,8 @@
   "ProductSlug": "born-of-bread-008e66",
   "Ranking_EOS_Progress": 549,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 382,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
     "PcReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -352,9 +352,9 @@
       "ID": "ACH_FRIENEMY",
       "SetID": "6lg1p1e",
       "Name": "Frienemy",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_GOTTA-PET-THEM-ALL",
@@ -559,8 +559,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2023-12-30T12:09:03.1435476+00:00",
+  "LastChanged_Achievements": "2023-12-30T13:11:45.2453842+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:55.0544104+00:00",
-  "LastUpdate_Ratings": "2023-12-30T11:57:14.9999292+00:00",
-  "LastUpdate_Achievements": "2023-12-30T12:09:03.1435699+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:00:19.6662269+00:00",
+  "LastUpdate_Achievements": "2023-12-30T13:11:45.2454131+00:00"
 }

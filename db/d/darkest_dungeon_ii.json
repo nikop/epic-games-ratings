@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10326,9 +10326,9 @@
       "Count": 1068
     }
   ],
-  "EOS_Progressed": 130723,
+  "EOS_Progressed": 130734,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1405,
+  "EOS_NewPlayers": 1409,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37516,6 +37516,11 @@
       "Time": "2023-12-30T12:09:42.2853656+00:00",
       "NumProgressed": 130723,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-30T13:12:23.4752581+00:00",
+      "NumProgressed": 130734,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37559,7 +37564,7 @@
       "Name": "Resurrection",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -37567,7 +37572,7 @@
       "Name": "Unleash Hell",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -37575,7 +37580,7 @@
       "Name": "Funny Guy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -37583,7 +37588,7 @@
       "Name": "Long Live the King",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -37591,7 +37596,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -37599,7 +37604,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -37631,7 +37636,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -37647,7 +37652,7 @@
       "Name": "Predator",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -37655,7 +37660,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6536
+      "UsersEstimate": 6537
     },
     {
       "ID": "combat_kill_cadavers",
@@ -37687,7 +37692,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6536
+      "UsersEstimate": 6537
     },
     {
       "ID": "combat_kill_fanatics",
@@ -37695,7 +37700,7 @@
       "Name": "Deprogramming",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "combat_kill_fisherfolk",
@@ -37703,7 +37708,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "combat_kill_gaunts",
@@ -37751,7 +37756,7 @@
       "Name": "Overdue Notice",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6536
+      "UsersEstimate": 6537
     },
     {
       "ID": "combat_kill_pillagers",
@@ -37759,7 +37764,7 @@
       "Name": "Reverse Banditry",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "combat_kill_shambler",
@@ -37767,7 +37772,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6536
+      "UsersEstimate": 6537
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -37797,9 +37802,9 @@
       "ID": "combat_party_wipe_any_run_boss",
       "SetID": "64l4lke",
       "Name": "It Happens",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3922
+      "UsersEstimate": 5229
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -37879,7 +37884,7 @@
       "Name": "Autodidact",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7843
+      "UsersEstimate": 7844
     },
     {
       "ID": "hero_story_complete_all",
@@ -37895,7 +37900,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -37927,7 +37932,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -37943,7 +37948,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -37959,7 +37964,7 @@
       "Name": "Utopia",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -37991,7 +37996,7 @@
       "Name": "Hot Air",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "run_victory_act03",
@@ -38039,7 +38044,7 @@
       "Name": "Road Trip",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "altar_of_hope_memory_equip_all_crusader",
@@ -38063,7 +38068,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "combat_kill_collector",
@@ -38127,7 +38132,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -38158,21 +38163,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130723,
+      "Progressed": 130734,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5592,
+      "Progressed": 5603,
       "Completed": 815
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-30T11:57:11.0964981+00:00",
-  "LastChanged_Achievements": "2023-12-30T12:09:42.2853653+00:00",
+  "LastChanged_Achievements": "2023-12-30T13:12:23.4752578+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-30T11:57:11.0964987+00:00",
-  "LastUpdate_Achievements": "2023-12-30T12:09:42.2856655+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:00:16.0102351+00:00",
+  "LastUpdate_Achievements": "2023-12-30T13:12:23.4754505+00:00"
 }

@@ -5,28 +5,28 @@ Rating: 4.52 (Ranked 570)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 74.00% | ~1,028 |
-| I Broke It | 73.00% | ~1,014 |
+| Feels Familiar | 74.00% | ~1,029 |
+| I Broke It | 73.00% | ~1,015 |
 | Better On Ice | 67.00% | ~931 |
 | Notai Notes | 66.00% | ~917 |
-| Blue Dreams | 65.00% | ~903 |
-| He's Famous! | 65.00% | ~903 |
-| Cutie Poro | 65.00% | ~903 |
-| Krugmazing | 64.00% | ~889 |
-| The Fire Below the Mountain | 61.00% | ~847 |
-| Moneyball | 60.00% | ~833 |
-| No Bites | 55.00% | ~764 |
-| Iceborn | 55.00% | ~764 |
-| Tear of Freedom | 52.00% | ~722 |
-| Boom Things | 52.00% | ~722 |
+| Blue Dreams | 65.00% | ~904 |
+| He's Famous! | 65.00% | ~904 |
+| Cutie Poro | 65.00% | ~904 |
+| Krugmazing | 64.00% | ~890 |
+| The Fire Below the Mountain | 61.00% | ~848 |
+| Moneyball | 60.00% | ~834 |
+| No Bites | 55.00% | ~765 |
+| Iceborn | 55.00% | ~765 |
+| Tear of Freedom | 52.00% | ~723 |
+| Boom Things | 52.00% | ~723 |
 | My Darkest Day | 48.00% | ~667 |
 | Rhythm Of Willump | 46.00% | ~639 |
 | The Relentless Storm | 46.00% | ~639 |
-| A Tragic Reminder | 44.00% | ~611 |
-| 3000 Year Blackout | 44.00% | ~611 |
-| The Finisher | 42.00% | ~583 |
-| So Close | 41.00% | ~569 |
-| You Get Used To It | 41.00% | ~569 |
+| A Tragic Reminder | 44.00% | ~612 |
+| 3000 Year Blackout | 44.00% | ~612 |
+| The Finisher | 42.00% | ~584 |
+| So Close | 41.00% | ~570 |
+| You Get Used To It | 41.00% | ~570 |
 | Family | 39.00% | ~542 |
 | Biggest Snowball Ever | 39.00% | ~542 |
 | Boosted! | 39.00% | ~542 |
@@ -35,7 +35,7 @@ Rating: 4.52 (Ranked 570)
 | True Legends | 38.00% | ~528 |
 | Bullseye | 36.00% | ~500 |
 | It Is Not Over | 35.00% | ~486 |
-| On The Rocks | 34.00% | ~472 |
+| On The Rocks | 34.00% | ~473 |
 | Snowy Poro | 31.00% | ~431 |
 | Never Gets Old | 31.00% | ~431 |
 | Vertical Power | 27.00% | ~375 |
@@ -44,13 +44,13 @@ Rating: 4.52 (Ranked 570)
 | Snowball Fightn't | 9.00% | ~125 |
 | It Was Him | 7.00% | ~97 |
 | Handy Yeti | 6.00% | ~83 |
-| The Pied Piper Of Freljord | 5.00% | ~69 |
+| The Pied Piper Of Freljord | 5.00% | ~70 |
 | Braum's Poro Ranch | 3.00% | ~42 |
 | Rock Star | 2.00% | ~28 |
 | We Are Speed | 2.00% | ~28 |
 | Sneaky Notai | 1.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,389 (Ranked 264)  
+Progressed: 1,390 (Ranked 264)  
 Completed: 9 (0.65%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 9 (0.65%) (Ranked 200)
 | 2023-12-27 | 1,360 | 9 |
 | 2023-12-28 | 1,369 | 9 |
 | 2023-12-29 | 1,384 | 9 |
-| 2023-12-30 | 1,389 | 9 |
+| 2023-12-30 | 1,390 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

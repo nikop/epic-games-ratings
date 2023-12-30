@@ -4,8 +4,8 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 492,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 317,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 97,
+  "EOS_Progressed": 98,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -499,6 +499,11 @@
       "Time": "2023-12-30T06:09:22.139533+00:00",
       "NumProgressed": 97,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T13:12:16.0267111+00:00",
+      "NumProgressed": 98,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T16:04:46.0994968+00:00",
@@ -517,7 +522,7 @@
       "ID": "Build_First_Lodge",
       "SetID": "7b9f97e",
       "Name": "Expansion",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 15,
       "UsersEstimate": 61
     },
@@ -543,13 +548,13 @@
       "Name": "Home Sweet Home",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "Cast_First_Spell",
       "SetID": "7b9f97e",
       "Name": "A kind of Magic",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
       "UsersEstimate": 73
     },
@@ -565,7 +570,7 @@
       "ID": "Craft_First_Glyph",
       "SetID": "7b9f97e",
       "Name": "Artificer\u0027s Apprentice",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
       "UsersEstimate": 50
     },
@@ -661,7 +666,7 @@
       "ID": "Enslave_Unit_Post_Battle",
       "SetID": "7b9f97e",
       "Name": "Slave to the rhythm",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
       "UsersEstimate": 21
     },
@@ -677,7 +682,7 @@
       "ID": "First_Node_Meld",
       "SetID": "7b9f97e",
       "Name": "Connected",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
       "UsersEstimate": 66
     },
@@ -685,7 +690,7 @@
       "ID": "Harvest_First_Plant",
       "SetID": "7b9f97e",
       "Name": "Harvest Time",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 15,
       "UsersEstimate": 55
     },
@@ -733,7 +738,7 @@
       "ID": "Landmark_CastleMeldec",
       "SetID": "7b9f97e",
       "Name": "Castle Meldec",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
       "UsersEstimate": 21
     },
@@ -781,7 +786,7 @@
       "ID": "Landmark_Throne",
       "SetID": "7b9f97e",
       "Name": "Sevenkeeps Seat of Kings",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
       "UsersEstimate": 18
     },
@@ -901,7 +906,7 @@
       "ID": "Max_Reputation_Alluvyan",
       "SetID": "7b9f97e",
       "Name": "Friend of Alluvyan",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 17
     },
@@ -941,7 +946,7 @@
       "ID": "Max_Reputation_Sevenkeeps",
       "SetID": "7b9f97e",
       "Name": "Friend of Sevenkeeps",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
       "UsersEstimate": 21
     },
@@ -997,7 +1002,7 @@
       "ID": "Mine_First_Ore",
       "SetID": "7b9f97e",
       "Name": "Mine!",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 15,
       "UsersEstimate": 58
     },
@@ -1061,7 +1066,7 @@
       "ID": "Zombify_Unit_Post_Battle",
       "SetID": "7b9f97e",
       "Name": "Bad JuJu",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
       "UsersEstimate": 24
     }
@@ -1070,7 +1075,7 @@
     {
       "ID": "7b9f97e",
       "IsBase": true,
-      "Progressed": 97,
+      "Progressed": 98,
       "Completed": 0
     }
   ],
@@ -1078,8 +1083,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-30T12:09:34.5614488+00:00",
+  "LastChanged_Achievements": "2023-12-30T13:12:16.0267108+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:59.8342504+00:00",
-  "LastUpdate_Ratings": "2023-12-30T11:58:07.1571032+00:00",
-  "LastUpdate_Achievements": "2023-12-30T12:09:34.5615222+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:01:11.6734148+00:00",
+  "LastUpdate_Achievements": "2023-12-30T13:12:16.0267652+00:00"
 }

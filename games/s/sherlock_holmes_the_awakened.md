@@ -1,40 +1,40 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.50 (Ranked 610)  
+Rating: 4.50 (Ranked 611)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 62.00% | ~835 |
+| Read Between The Lines | 62.00% | ~836 |
 | To Hell In A Handcart | 61.00% | ~822 |
-| High Profile | 54.00% | ~727 |
-| Whispers In The Dark | 52.00% | ~700 |
+| High Profile | 55.00% | ~741 |
+| Whispers In The Dark | 52.00% | ~701 |
 | Fond Memories | 50.00% | ~674 |
 | A Method To His Madness | 48.00% | ~647 |
-| History Check | 47.00% | ~633 |
-| The New World | 45.00% | ~606 |
-| Open Sesame | 44.00% | ~593 |
-| Gaze Into The Abyss | 43.00% | ~579 |
-| Sticky Fingers | 43.00% | ~579 |
-| Knives Out | 43.00% | ~579 |
+| History Check | 47.00% | ~634 |
+| The New World | 45.00% | ~607 |
+| Gaze Into The Abyss | 43.00% | ~580 |
+| Open Sesame | 43.00% | ~580 |
+| Sticky Fingers | 43.00% | ~580 |
+| Knives Out | 43.00% | ~580 |
 | Lock, Stock, And Barrel | 42.00% | ~566 |
 | Back In The Saddle | 42.00% | ~566 |
 | Land, Ho! | 42.00% | ~566 |
-| No Man Is An Island | 41.00% | ~552 |
+| No Man Is An Island | 41.00% | ~553 |
 | At Wits' End | 40.00% | ~539 |
-| Fhtagn! | 39.00% | ~525 |
+| Fhtagn! | 39.00% | ~526 |
 | Up In Flames | 38.00% | ~512 |
-| Bookworm | 37.00% | ~498 |
+| Bookworm | 37.00% | ~499 |
 | Going Once... | 36.00% | ~485 |
 | Let Me Be Frank | 34.00% | ~458 |
 | No Stone Unturned | 32.00% | ~431 |
 | Brain Food | 31.00% | ~418 |
-| Read It And Weep | 20.00% | ~269 |
-| Curiosity Killed The Cat | 18.00% | ~242 |
+| Read It And Weep | 20.00% | ~270 |
+| Curiosity Killed The Cat | 18.00% | ~243 |
 | Big Breakthrough | 12.00% | ~162 |
 | Reawakened | 3.00% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,347 (Ranked 268)  
+Progressed: 1,348 (Ranked 268)  
 Completed: 38 (2.82%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,6 +244,7 @@ Completed: 38 (2.82%) (Ranked 117)
 | 2023-12-27 | 1,336 | 38 |
 | 2023-12-28 | 1,340 | 38 |
 | 2023-12-29 | 1,347 | 38 |
+| 2023-12-30 | 1,348 | 38 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

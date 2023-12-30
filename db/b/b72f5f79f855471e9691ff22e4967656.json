@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -782,9 +782,9 @@
       "ID": "findSecret10",
       "SetID": "ci65fo0",
       "Name": "A sharp eye",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     },
     {
       "ID": "getPoisoned",
@@ -798,17 +798,17 @@
       "ID": "interactBerry10",
       "SetID": "ci65fo0",
       "Name": "Gourmand",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "interactChest10",
       "SetID": "ci65fo0",
       "Name": "Chests lover",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "killBoxes50",
@@ -878,9 +878,9 @@
       "ID": "killGrave10",
       "SetID": "ci65fo0",
       "Name": "Gravedigger",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "killLeshy30",
@@ -926,9 +926,9 @@
       "ID": "killStone50",
       "SetID": "ci65fo0",
       "Name": "Stone Crusher",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 106
     },
     {
       "ID": "killStone500",
@@ -942,9 +942,9 @@
       "ID": "killTree100",
       "SetID": "ci65fo0",
       "Name": "Tree Hater",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     },
     {
       "ID": "killTree50",
@@ -1006,9 +1006,9 @@
       "ID": "locDungeon2",
       "SetID": "ci65fo0",
       "Name": "Bone cave",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "locGoblins",
@@ -1022,9 +1022,9 @@
       "ID": "locGraveyard",
       "SetID": "ci65fo0",
       "Name": "Graveyard",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "locSmith",
@@ -1086,9 +1086,9 @@
       "ID": "questCemetery",
       "SetID": "ci65fo0",
       "Name": "Cemetery secrets",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "questCemetery2",
@@ -1118,9 +1118,9 @@
       "ID": "questDeadArtifact",
       "SetID": "ci65fo0",
       "Name": "The Mystery of the Dead",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 92
     },
     {
       "ID": "questDefeatMainEnemy",
@@ -1174,9 +1174,9 @@
       "ID": "questKillGoblinMage",
       "SetID": "ci65fo0",
       "Name": "Goblins Conqueror",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "questKillSwampMonster",
@@ -1262,9 +1262,9 @@
       "ID": "questSavePrincess",
       "SetID": "ci65fo0",
       "Name": "The Savior of Princesses",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "questSavePrincessFinal",
@@ -1323,8 +1323,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-12-30T12:09:51.4027003+00:00",
+  "LastChanged_Achievements": "2023-12-30T13:12:32.3777748+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.0184442+00:00",
-  "LastUpdate_Ratings": "2023-12-30T12:00:07.1066439+00:00",
-  "LastUpdate_Achievements": "2023-12-30T12:09:51.402798+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:03:07.412531+00:00",
+  "LastUpdate_Achievements": "2023-12-30T13:12:32.3778453+00:00"
 }

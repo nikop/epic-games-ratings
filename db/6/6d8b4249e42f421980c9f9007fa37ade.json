@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 441,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-06T16:00:00+00:00",
@@ -919,9 +919,9 @@
       "ID": "Epic_Swamp_1",
       "SetID": "ba1m2fc",
       "Name": "Fallen Eden",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Epic_Times_100",
@@ -974,8 +974,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-12-30T12:04:08.7781573+00:00",
+  "LastChanged_Achievements": "2023-12-30T13:07:07.8470177+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:09.8723513+00:00",
-  "LastUpdate_Ratings": "2023-12-30T11:58:00.4786351+00:00",
-  "LastUpdate_Achievements": "2023-12-30T12:04:08.7781846+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:01:04.9712222+00:00",
+  "LastUpdate_Achievements": "2023-12-30T13:07:07.8470456+00:00"
 }

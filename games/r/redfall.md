@@ -6,7 +6,7 @@ Rating: 3.60 (Ranked 1,078)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 17.00% | ~368 |
-| Catch and Release | 12.00% | ~260 |
+| Catch and Release | 13.00% | ~282 |
 | Home Is Where the Heart Is | 11.00% | ~238 |
 | ICU | 11.00% | ~238 |
 | Wounded Whispers | 11.00% | ~238 |
@@ -41,7 +41,7 @@ Rating: 3.60 (Ranked 1,078)
 | Nice Try | 1.00% | ~22 |
 | Blacklight Down | 1.00% | ~22 |
 | Curious Finch | 1.00% | ~22 |
-| Right This Way | 0.90% | ~19 |
+| Right This Way | 0.90% | ~20 |
 | Bloody Initiate | 0.70% | ~15 |
 | Dexterity Save | 0.70% | ~15 |
 | What Lies Below | 0.60% | ~13 |
@@ -51,9 +51,9 @@ Rating: 3.60 (Ranked 1,078)
 | Good Samaritan | 0.50% | ~11 |
 | Friendgineering | 0.40% | ~9 |
 | Sisterhood | 0.40% | ~9 |
-| Scream Team | 0.30% | ~6 |
-| So Anyway I Started Blasting | 0.30% | ~6 |
-| Under a Bushel | 0.30% | ~6 |
+| Scream Team | 0.30% | ~7 |
+| So Anyway I Started Blasting | 0.30% | ~7 |
+| Under a Bushel | 0.30% | ~7 |
 | Monster Hunters Club | 0.20% | ~4 |
 | Enemy of My Enemy | 0.20% | ~4 |
 | Bob’s Final Hour | 0.20% | ~4 |
@@ -72,7 +72,7 @@ Rating: 3.60 (Ranked 1,078)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,166 (Ranked 237)  
+Progressed: 2,167 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 2,113 | 0 |
 | 2023-12-28 | 2,135 | 0 |
 | 2023-12-29 | 2,155 | 0 |
-| 2023-12-30 | 2,166 | 0 |
+| 2023-12-30 | 2,167 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 569)  
 Sum: 20 (Ranked 570)  

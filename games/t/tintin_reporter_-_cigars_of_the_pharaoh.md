@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 74.00% | ~81 |
-| A Loyal Friend | 39.00% | ~43 |
-| Abandon Ship! | 28.00% | ~31 |
+| My Papyrus! | 75.00% | ~82 |
+| A Loyal Friend | 38.00% | ~42 |
+| Abandon Ship! | 27.00% | ~30 |
 | The Tomb of Kih-Oskh | 21.00% | ~23 |
 | The Weighing of the Soul | 19.00% | ~21 |
-| The Curse of Kih-Oskh | 17.00% | ~19 |
+| The Curse of Kih-Oskh | 16.00% | ~18 |
 | It's a Deal! | 12.00% | ~13 |
 | Cat Lover | 11.00% | ~12 |
 | In the Name of the Law | 9.00% | ~10 |
@@ -24,9 +24,9 @@
 | Just a Palm Tree | 6.00% | ~7 |
 | Under the Hood | 6.00% | ~7 |
 | Long Live Gaipajama! | 6.00% | ~7 |
-| Eyes Shut | 6.00% | ~7 |
 | Barking Dog | 6.00% | ~7 |
-| Tintin, Reporter | 5.00% | ~5 |
+| Tintin, Reporter | 5.00% | ~6 |
+| Eyes Shut | 5.00% | ~6 |
 | Mountain Runner | 4.00% | ~4 |
 | The Corporal's Golden Boy | 3.00% | ~3 |
 | A Yummy Detour | 3.00% | ~3 |
@@ -42,7 +42,7 @@
 | Trials of Kih-Oskh | 0.00% | ~0 |
 | Escaping War | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109 (Ranked 478)  
+Progressed: 110 (Ranked 477)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,4 +84,4 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 105 | 0 |
 | 2023-12-28 | 107 | 0 |
 | 2023-12-29 | 108 | 0 |
-| 2023-12-30 | 109 | 0 |
+| 2023-12-30 | 110 | 0 |

@@ -4,8 +4,8 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 339,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -5017,9 +5017,9 @@
       "ID": "nimble_thief_2",
       "SetID": "53c1p3k",
       "Name": "Nimble Thief 2",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "nimble_thief_3",
@@ -5208,8 +5208,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-12-30T12:10:15.3925935+00:00",
+  "LastChanged_Achievements": "2023-12-30T13:12:55.610585+00:00",
   "LastUpdate_AppInfo": "2023-12-26T18:57:06.3782572+00:00",
-  "LastUpdate_Ratings": "2023-12-30T11:59:01.954362+00:00",
-  "LastUpdate_Achievements": "2023-12-30T12:10:15.3926607+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:02:04.45734+00:00",
+  "LastUpdate_Achievements": "2023-12-30T13:12:55.6106668+00:00"
 }

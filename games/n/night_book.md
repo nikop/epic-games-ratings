@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Will This Help? | 75.00% | ~219 |
+| Will This Help? | 76.00% | ~222 |
 | Career Woman | 67.00% | ~196 |
 | No One Is Safe | 66.00% | ~193 |
 | He's Off His Meds | 55.00% | ~161 |

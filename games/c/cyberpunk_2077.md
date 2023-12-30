@@ -6,63 +6,63 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~119,072 |
-| Gun Fu | 8.00% | ~79,381 |
-| The Fool | 8.00% | ~79,381 |
-| Right Back At Ya | 7.00% | ~69,458 |
-| The Lovers | 6.00% | ~59,536 |
-| Full Body Conversion | 5.00% | ~49,613 |
-| Stanislavski's Method | 5.00% | ~49,613 |
-| The Wheel of Fortune | 5.00% | ~49,613 |
-| True Soldier | 5.00% | ~49,613 |
-| All the President's Men | 5.00% | ~6,044 |
-| Arachnophobia | 5.00% | ~6,044 |
-| Christmas Tree Attack | 4.00% | ~39,691 |
-| The Hermit | 4.00% | ~39,691 |
-| The High Priestess | 4.00% | ~39,691 |
-| Legend of The Afterlife | 4.00% | ~39,691 |
-| Bushido and Chill | 3.00% | ~29,768 |
-| Master Crafter | 3.00% | ~29,768 |
-| The Quick and the Dead | 3.00% | ~29,768 |
-| Life of the Road | 3.00% | ~29,768 |
-| The World | 3.00% | ~29,768 |
-| True Warrior | 3.00% | ~29,768 |
-| Relic Ruler | 3.00% | ~3,627 |
-| To Protect and Serve | 2.00% | ~19,845 |
-| I Am The Law | 2.00% | ~19,845 |
-| Two Heads, One Bullet | 2.00% | ~19,845 |
-| Judy vs Night City | 2.00% | ~19,845 |
-| Spin Doctor | 2.00% | ~2,418 |
-| To Bad Decisions! | 1.00% | ~9,923 |
-| The Wandering Fool | 1.00% | ~9,923 |
-| Ten out of Ten | 1.00% | ~9,923 |
-| The Sun | 1.00% | ~9,923 |
-| King of Wands | 1.00% | ~1,209 |
-| Dirty Deeds | 1.00% | ~1,209 |
-| Easy Come, Easy Go | 1.00% | ~1,209 |
-| Breathtaking | 0.90% | ~8,930 |
-| The Star | 0.90% | ~8,930 |
-| Autojock | 0.70% | ~6,946 |
-| The APB is Not Enough | 0.70% | ~846 |
-| Judgement Day | 0.70% | ~846 |
-| King of Swords | 0.70% | ~846 |
-| The Tower | 0.70% | ~846 |
-| Must Be Rats | 0.60% | ~5,954 |
-| Temperance | 0.60% | ~5,954 |
-| King of Pentacles | 0.60% | ~725 |
-| King of Cups | 0.40% | ~484 |
-| City Lights | 0.30% | ~2,977 |
-| Little Tokyo | 0.30% | ~2,977 |
-| The Wasteland | 0.30% | ~2,977 |
-| The Devil | 0.30% | ~2,977 |
-| Greetings from Pacifica! | 0.30% | ~2,977 |
-| The Jungle | 0.30% | ~2,977 |
-| It's Elementary | 0.30% | ~2,977 |
+| V for Vendetta | 12.00% | ~119,116 |
+| Gun Fu | 8.00% | ~79,411 |
+| The Fool | 8.00% | ~79,411 |
+| Right Back At Ya | 7.00% | ~69,485 |
+| The Lovers | 6.00% | ~59,558 |
+| Full Body Conversion | 5.00% | ~49,632 |
+| Stanislavski's Method | 5.00% | ~49,632 |
+| The Wheel of Fortune | 5.00% | ~49,632 |
+| True Soldier | 5.00% | ~49,632 |
+| All the President's Men | 5.00% | ~6,063 |
+| Arachnophobia | 5.00% | ~6,063 |
+| Christmas Tree Attack | 4.00% | ~39,705 |
+| The Hermit | 4.00% | ~39,705 |
+| The High Priestess | 4.00% | ~39,705 |
+| Legend of The Afterlife | 4.00% | ~39,705 |
+| Bushido and Chill | 3.00% | ~29,779 |
+| Master Crafter | 3.00% | ~29,779 |
+| The Quick and the Dead | 3.00% | ~29,779 |
+| Life of the Road | 3.00% | ~29,779 |
+| The World | 3.00% | ~29,779 |
+| True Warrior | 3.00% | ~29,779 |
+| Relic Ruler | 3.00% | ~3,638 |
+| To Protect and Serve | 2.00% | ~19,853 |
+| I Am The Law | 2.00% | ~19,853 |
+| Two Heads, One Bullet | 2.00% | ~19,853 |
+| Judy vs Night City | 2.00% | ~19,853 |
+| Spin Doctor | 2.00% | ~2,425 |
+| To Bad Decisions! | 1.00% | ~9,926 |
+| The Wandering Fool | 1.00% | ~9,926 |
+| Ten out of Ten | 1.00% | ~9,926 |
+| The Sun | 1.00% | ~9,926 |
+| King of Wands | 1.00% | ~1,213 |
+| Dirty Deeds | 1.00% | ~1,213 |
+| Easy Come, Easy Go | 1.00% | ~1,213 |
+| Breathtaking | 0.90% | ~8,934 |
+| The Star | 0.90% | ~8,934 |
+| Autojock | 0.70% | ~6,948 |
+| The APB is Not Enough | 0.70% | ~849 |
+| Judgement Day | 0.70% | ~849 |
+| King of Swords | 0.70% | ~849 |
+| The Tower | 0.70% | ~849 |
+| Must Be Rats | 0.60% | ~5,956 |
+| Temperance | 0.60% | ~5,956 |
+| King of Pentacles | 0.60% | ~728 |
+| King of Cups | 0.40% | ~485 |
+| City Lights | 0.30% | ~2,978 |
+| Little Tokyo | 0.30% | ~2,978 |
+| The Wasteland | 0.30% | ~2,978 |
+| The Devil | 0.30% | ~2,978 |
+| Greetings from Pacifica! | 0.30% | ~2,978 |
+| The Jungle | 0.30% | ~2,978 |
+| It's Elementary | 0.30% | ~2,978 |
 | Gunslinger | 0.20% | ~1,985 |
 | Mean Streets | 0.20% | ~1,985 |
 | Daemon In The Shell | 0.20% | ~1,985 |
-| Frequent Flyer | 0.10% | ~992 |
-| Rough Landing | 0.10% | ~992 |
+| Frequent Flyer | 0.10% | ~993 |
+| Rough Landing | 0.10% | ~993 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 992,263 (Ranked 16)  
+Progressed: 992,636 (Ranked 16)  
 Completed: 2,998 (0.30%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,10 +328,10 @@ Completed: 2,998 (0.30%) (Ranked 253)
 | 2023-12-27 | 982,189 | 2,986 |
 | 2023-12-28 | 982,742 | 2,988 |
 | 2023-12-29 | 988,435 | 2,992 |
-| 2023-12-30 | 992,263 | 2,998 |
+| 2023-12-30 | 992,636 | 2,998 |
 ## Awards
 Max (Character Customization): 128,724  (Ranked 8)  
-Sum: 451,778 (Ranked 9)  
+Sum: 451,973 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -340,7 +340,7 @@ Diff (max vs sum): -1
 | This game is Great for Beginners | 28,491 |
 | This game has Diverse Characters | 27,939 |
 | This game is Highly Recommended | 26,558 |
-| This game has Amazing Storytelling | 26,109 |
+| This game has Amazing Storytelling | 26,304 |
 | This game is Extremely Fun | 25,834 |
 | This game has Amazing Characters | 25,685 |
 | This game is Relaxing | 24,860 |
@@ -694,4 +694,4 @@ Diff (max vs sum): -1
 | 2023-12-27 | 4.66 | - | 128,093 | 447,581 |
 | 2023-12-28 | 4.66 | - | 128,415 | 449,303 |
 | 2023-12-29 | 4.66 | - | 128,724 | 451,053 |
-| 2023-12-30 | 4.66 | - | 128,724 | 451,778 |
+| 2023-12-30 | 4.66 | - | 128,724 | 451,973 |

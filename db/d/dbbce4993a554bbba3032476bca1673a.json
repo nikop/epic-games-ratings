@@ -4,8 +4,8 @@
   "ProductSlug": "outbreak-devious-beginnings-5c0af8",
   "Ranking_EOS_Progress": 640,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-25T14:00:00+00:00",
     "PcReleaseDate": "2023-10-25T14:00:00+00:00",
@@ -112,9 +112,9 @@
       "ID": "ITS_A_BEAUTY_ACH",
       "SetID": "8i8pmkm",
       "Name": "It\u0027s a Beauty!",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 125,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "I_NEED_A_BREAK_ACH",
@@ -152,9 +152,9 @@
       "ID": "THERES_TOO_MANY_ACH",
       "SetID": "8i8pmkm",
       "Name": "There\u0027s Too Many!",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "THEYRE_ENDLESS_ACH",
@@ -168,9 +168,9 @@
       "ID": "THE_BEGINNING_OF_THE_END_ACH",
       "SetID": "8i8pmkm",
       "Name": "The Beginning of the End",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "TOUR_THE_HOSPITAL_ACH",
@@ -207,8 +207,8 @@
   ],
   "FirstSeen": "2023-10-26T23:59:41.2750505+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:21.2446636+00:00",
-  "LastChanged_Achievements": "2023-12-30T12:04:13.1552726+00:00",
+  "LastChanged_Achievements": "2023-12-30T13:07:12.1935913+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:20.77388+00:00",
-  "LastUpdate_Ratings": "2023-12-30T11:57:35.0098908+00:00",
-  "LastUpdate_Achievements": "2023-12-30T12:04:13.1552785+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:00:40.1027798+00:00",
+  "LastUpdate_Achievements": "2023-12-30T13:07:12.1936011+00:00"
 }

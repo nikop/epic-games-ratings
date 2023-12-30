@@ -2,13 +2,13 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 610,
+  "Ranking_Rating": 611,
   "Ranking_Popularity": 255,
   "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3885,9 +3885,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32934,
+  "EOS_Progressed": 32938,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 365,
+  "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -23960,6 +23960,11 @@
       "Time": "2023-12-30T12:08:54.9720915+00:00",
       "NumProgressed": 32934,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-12-30T13:11:37.1177958+00:00",
+      "NumProgressed": 32938,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -24011,7 +24016,7 @@
       "Name": "Clutch Capture",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "Collect_Spores",
@@ -24035,7 +24040,7 @@
       "Name": "Cultured",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "Daily_Dose",
@@ -24043,7 +24048,7 @@
       "Name": "Daily Dose",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "Diabolical",
@@ -24115,7 +24120,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "Ghost_Expert",
@@ -24275,7 +24280,7 @@
       "Name": "Stylish",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3293
+      "UsersEstimate": 3294
     },
     {
       "ID": "Summoner",
@@ -24323,7 +24328,7 @@
       "Name": "Therapeutic",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "There_You_Are",
@@ -24331,7 +24336,7 @@
       "Name": "There you are!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "Tobins_Prodigy",
@@ -24371,14 +24376,14 @@
       "Name": "Whoopsie",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32934,
+      "Progressed": 32938,
       "Completed": 71
     }
   ],
@@ -24386,8 +24391,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-30T01:39:52.0408687+00:00",
-  "LastChanged_Achievements": "2023-12-30T12:08:54.9720911+00:00",
+  "LastChanged_Achievements": "2023-12-30T13:11:37.1177954+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.5748987+00:00",
-  "LastUpdate_Ratings": "2023-12-30T11:57:25.9130623+00:00",
-  "LastUpdate_Achievements": "2023-12-30T12:08:54.9722262+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:00:30.7604446+00:00",
+  "LastUpdate_Achievements": "2023-12-30T13:11:37.1179184+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -651,9 +651,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6530,
+  "EOS_Progressed": 6532,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 490,
+  "EOS_NewPlayers": 489,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9746,6 +9746,11 @@
       "Time": "2023-12-30T12:05:34.5316089+00:00",
       "NumProgressed": 6530,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-30T13:08:31.18017+00:00",
+      "NumProgressed": 6532,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9773,7 +9778,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "12",
@@ -9869,7 +9874,7 @@
       "Name": "Realm Estate",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "23",
@@ -9891,9 +9896,9 @@
       "ID": "25",
       "SetID": "3aa2279",
       "Name": "Walls Cannot Stop Us",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 588
+      "UsersEstimate": 653
     },
     {
       "ID": "26",
@@ -9917,7 +9922,7 @@
       "Name": "From Friends to Family",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "29",
@@ -9925,7 +9930,7 @@
       "Name": "Stronger Together",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "3",
@@ -9965,7 +9970,7 @@
       "Name": "Seat of Power",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "34",
@@ -9973,7 +9978,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "35",
@@ -10221,7 +10226,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "60",
@@ -10236,13 +10241,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6530,
+      "Progressed": 6532,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6530,
+      "Progressed": 6532,
       "Completed": 7
     }
   ],
@@ -10250,8 +10255,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-30T08:58:11.4280246+00:00",
-  "LastChanged_Achievements": "2023-12-30T12:05:34.5316088+00:00",
+  "LastChanged_Achievements": "2023-12-30T13:08:31.1801695+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-30T11:58:07.0382979+00:00",
-  "LastUpdate_Achievements": "2023-12-30T12:05:34.5316816+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:01:11.5547923+00:00",
+  "LastUpdate_Achievements": "2023-12-30T13:08:31.180265+00:00"
 }

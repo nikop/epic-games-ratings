@@ -6,18 +6,18 @@ Rating: 4.63 (Ranked 356)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 12.00% | ~784 |
-| Realm Estate | 11.00% | ~718 |
+| Realm Estate | 11.00% | ~719 |
 | A Wonderful Discovery | 10.00% | ~653 |
-| Walls Cannot Stop Us | 9.00% | ~588 |
-| From Friends to Family | 8.00% | ~522 |
+| Walls Cannot Stop Us | 10.00% | ~653 |
+| From Friends to Family | 8.00% | ~523 |
 | Bone Peddler | 7.00% | ~457 |
 | Full Ascension | 6.00% | ~392 |
 | Magical Synergy | 6.00% | ~392 |
-| There Can Only Be One! | 5.00% | ~326 |
-| Stronger Together | 5.00% | ~326 |
-| Seat of Power | 5.00% | ~326 |
-| In a Liege of Your Own | 5.00% | ~326 |
-| But this one is mine | 5.00% | ~326 |
+| There Can Only Be One! | 5.00% | ~327 |
+| Stronger Together | 5.00% | ~327 |
+| Seat of Power | 5.00% | ~327 |
+| In a Liege of Your Own | 5.00% | ~327 |
+| But this one is mine | 5.00% | ~327 |
 | Valley of Wonders | 4.00% | ~261 |
 | Intimidation Tactics | 4.00% | ~261 |
 | Return of the Wizard King | 3.00% | ~196 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 356)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,530 (Ranked 195)  
+Progressed: 6,532 (Ranked 195)  
 Completed: 7 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 7 (0.11%) (Ranked 304)
 | 2023-12-27 | 6,359 | 7 |
 | 2023-12-28 | 6,414 | 7 |
 | 2023-12-29 | 6,495 | 7 |
-| 2023-12-30 | 6,530 | 7 |
+| 2023-12-30 | 6,532 | 7 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 478)  
 Sum: 163 (Ranked 436)  

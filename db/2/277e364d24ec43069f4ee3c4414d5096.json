@@ -365,7 +365,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 118399,
+  "EOS_Progressed": 118403,
   "EOS_Completed": 54,
   "EOS_NewPlayers": 873,
   "EOS_NewCompleters": 1,
@@ -23110,6 +23110,11 @@
       "Time": "2023-12-30T12:10:09.5417227+00:00",
       "NumProgressed": 118399,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-12-30T13:12:49.9063631+00:00",
+      "NumProgressed": 118403,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 49,
@@ -23129,7 +23134,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 91167
+      "UsersEstimate": 91170
     },
     {
       "ID": "EAwards_10",
@@ -23145,7 +23150,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 31968
+      "UsersEstimate": 31969
     },
     {
       "ID": "EAwards_12",
@@ -23193,7 +23198,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 43808
+      "UsersEstimate": 43809
     },
     {
       "ID": "EAwards_18",
@@ -23217,7 +23222,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 58016
+      "UsersEstimate": 58017
     },
     {
       "ID": "EAwards_20",
@@ -23265,7 +23270,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 22496
+      "UsersEstimate": 22497
     },
     {
       "ID": "EAwards_26",
@@ -23305,7 +23310,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 23680
+      "UsersEstimate": 23681
     },
     {
       "ID": "EAwards_30",
@@ -23512,7 +23517,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 118399,
+      "Progressed": 118403,
       "Completed": 54
     }
   ],
@@ -23520,8 +23525,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-12-21T05:59:27.8580735+00:00",
-  "LastChanged_Achievements": "2023-12-30T12:10:09.5417222+00:00",
+  "LastChanged_Achievements": "2023-12-30T13:12:49.9063629+00:00",
   "LastUpdate_AppInfo": "2023-12-29T08:57:21.6773482+00:00",
-  "LastUpdate_Ratings": "2023-12-30T12:02:39.139679+00:00",
-  "LastUpdate_Achievements": "2023-12-30T12:10:09.5419313+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:03:27.9111907+00:00",
+  "LastUpdate_Achievements": "2023-12-30T13:12:49.906502+00:00"
 }

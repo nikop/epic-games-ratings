@@ -4,8 +4,8 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 387,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:00+00:00",
@@ -758,9 +758,9 @@
       "ID": "will_this_help",
       "SetID": "a3kkelb",
       "Name": "Will This Help?",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 222
     }
   ],
   "AchievementSets": [
@@ -775,8 +775,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-12-30T12:04:33.7246795+00:00",
+  "LastChanged_Achievements": "2023-12-30T13:07:32.2163757+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:02.9655176+00:00",
-  "LastUpdate_Ratings": "2023-12-30T11:57:12.6190974+00:00",
-  "LastUpdate_Achievements": "2023-12-30T12:04:33.7246915+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:00:17.5637365+00:00",
+  "LastUpdate_Achievements": "2023-12-30T13:07:32.2163863+00:00"
 }

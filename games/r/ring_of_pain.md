@@ -14,7 +14,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Quick Escape | 0.90% | ~2,178 |
 | Explorer | 0.90% | ~2,178 |
 | An Offering | 0.90% | ~2,178 |
-| Not Touching You | 0.90% | ~31 |
+| Not Touching You | 0.90% | ~32 |
 | Nothing To Lose | 0.80% | ~1,936 |
 | Heavy Hitter | 0.80% | ~1,936 |
 | That Was Quick | 0.80% | ~1,936 |
@@ -77,7 +77,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Snake Sneak | 0.30% | ~726 |
 | Obsessed | 0.30% | ~726 |
 | Precious | 0.30% | ~726 |
-| Raw Power | 0.30% | ~10 |
+| Raw Power | 0.30% | ~11 |
 | Achievement Hunter | 0.20% | ~484 |
 | A Long Climb | 0.20% | ~484 |
 | Dead Revels | 0.20% | ~484 |
@@ -136,16 +136,16 @@ Number of Ratings: 15,086  (23.09.2022)
 | Martial Master | 0.10% | ~242 |
 | Nudie Run | 0.10% | ~242 |
 | You Call That A Knife? | 0.10% | ~242 |
-| Scrounger Appreciation | 0.10% | ~3 |
-| Explosives Expert | 0.10% | ~3 |
-| All Natural | 0.10% | ~3 |
-| Soul Kin | 0.10% | ~3 |
-| Multiclass | 0.10% | ~3 |
-| Stalker | 0.10% | ~3 |
-| Brute | 0.10% | ~3 |
-| Dominant Twin | 0.10% | ~3 |
+| Scrounger Appreciation | 0.10% | ~4 |
+| Explosives Expert | 0.10% | ~4 |
+| All Natural | 0.10% | ~4 |
+| Soul Kin | 0.10% | ~4 |
+| Multiclass | 0.10% | ~4 |
+| Stalker | 0.10% | ~4 |
+| Brute | 0.10% | ~4 |
+| Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,019 (Ranked 70)  
+Progressed: 242,021 (Ranked 70)  
 Completed: 302 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -399,7 +399,7 @@ Completed: 302 (0.12%) (Ranked 301)
 | 2023-12-27 | 241,847 | 302 |
 | 2023-12-28 | 241,919 | 302 |
 | 2023-12-29 | 241,985 | 302 |
-| 2023-12-30 | 242,019 | 302 |
+| 2023-12-30 | 242,021 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 134)  
 Sum: 11,770 (Ranked 88)  

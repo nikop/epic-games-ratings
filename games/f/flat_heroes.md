@@ -11,14 +11,14 @@
 | The King of Flat | 45.00% | ~298 |
 | Hit That Ball | 35.00% | ~232 |
 | Air Slash | 32.00% | ~212 |
-| Eat That Apple | 24.00% | ~159 |
+| Eat That Apple | 25.00% | ~166 |
 | Tornado Chaser | 15.00% | ~99 |
 | Bomberman | 11.00% | ~73 |
 | Bubble Party | 9.00% | ~60 |
 | The Colossus | 8.00% | ~53 |
 | Floor is Lava | 6.00% | ~40 |
 | Pim Pam Pum | 6.00% | ~40 |
-| Dash Crash - Hero Edition | 4.00% | ~26 |
+| Dash Crash - Hero Edition | 5.00% | ~33 |
 | Ambush | 4.00% | ~26 |
 | Black Belt | 3.00% | ~20 |
 | Snake Eyes - Hero Edition | 2.00% | ~13 |

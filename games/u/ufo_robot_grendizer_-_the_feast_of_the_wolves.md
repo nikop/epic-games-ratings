@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Remains of Fleed | 54.00% | ~28 |
+| Life of Pi | 54.00% | ~28 |
 | The Legend | 54.00% | ~28 |
-| The Remains of Fleed | 52.00% | ~27 |
-| Life of Pi | 52.00% | ~27 |
 | Escape from Fleed | 38.00% | ~20 |
 | First Contact | 37.00% | ~19 |
 | Strength in Defeat | 35.00% | ~18 |
