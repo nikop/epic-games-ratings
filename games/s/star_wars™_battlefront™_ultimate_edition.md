@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~2,054 |
-| Off to a good start | 62.00% | ~1,464 |
-| Do... or do not. There is no try | 52.00% | ~1,228 |
+| New Recruit | 87.00% | ~2,056 |
+| Off to a good start | 62.00% | ~1,465 |
+| Do... or do not. There is no try | 52.00% | ~1,229 |
 | A good blaster at your side | 26.00% | ~614 |
 | I suggest a new strategy | 18.00% | ~425 |
 | Great shot, kid! | 16.00% | ~378 |
 | Scrap collector | 15.00% | ~354 |
 | All right, I'll give it a try | 15.00% | ~354 |
 | Shoot first | 13.00% | ~307 |
-| The power of the Force | 12.00% | ~283 |
-| Collector | 12.00% | ~283 |
-| Together we can rule the galaxy | 12.00% | ~283 |
-| Tell Jabba that I've got his money | 9.00% | ~212 |
+| The power of the Force | 12.00% | ~284 |
+| Collector | 12.00% | ~284 |
+| Together we can rule the galaxy | 12.00% | ~284 |
+| Tell Jabba that I've got his money | 9.00% | ~213 |
 | Best star-pilot in the galaxy | 8.00% | ~189 |
 | Never tell me the odds! | 7.00% | ~165 |
 | Survivor | 7.00% | ~165 |
@@ -26,8 +26,8 @@
 | Impressive. Most impressive. | 5.00% | ~118 |
 | Judge me by my size, do you? | 5.00% | ~118 |
 | Support the troops | 5.00% | ~118 |
-| Distinguished | 4.00% | ~94 |
-| A tremor in the Force | 4.00% | ~94 |
+| Distinguished | 4.00% | ~95 |
+| A tremor in the Force | 4.00% | ~95 |
 | On the ball | 3.00% | ~71 |
 | Safety ain't the point of a joyride | 3.00% | ~71 |
 | Not bad for a little furball | 3.00% | ~71 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,361 (Ranked 232)  
+Progressed: 2,363 (Ranked 232)  
 Completed: 1 (0.04%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 1 (0.04%) (Ranked 346)
 | 2023-12-27 | 2,258 | 1 |
 | 2023-12-28 | 2,299 | 1 |
 | 2023-12-29 | 2,337 | 1 |
-| 2023-12-30 | 2,361 | 1 |
+| 2023-12-30 | 2,363 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

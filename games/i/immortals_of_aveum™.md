@@ -5,35 +5,35 @@ Rating: 4.20 (Ranked 949)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~1,988 |
-| Battlefields Have Memories | 80.00% | ~1,828 |
-| Enlisted | 73.00% | ~1,668 |
-| Maybe Engage a Little | 67.00% | ~1,531 |
-| No More Names | 50.00% | ~1,142 |
-| Initiate | 35.00% | ~800 |
-| Thrada-Kul | 31.00% | ~708 |
-| Gravity-Challenged Rocks | 25.00% | ~571 |
+| Unforeseen | 87.00% | ~1,991 |
+| Battlefields Have Memories | 80.00% | ~1,831 |
+| Enlisted | 72.00% | ~1,648 |
+| Maybe Engage a Little | 67.00% | ~1,534 |
+| No More Names | 50.00% | ~1,144 |
+| Initiate | 35.00% | ~801 |
+| Thrada-Kul | 31.00% | ~710 |
+| Gravity-Challenged Rocks | 25.00% | ~572 |
 | Socialite | 23.00% | ~526 |
-| Soldier | 21.00% | ~480 |
-| All the Major Food Groups | 21.00% | ~480 |
-| Beggars Would Ride | 19.00% | ~434 |
-| Control is an Illusion | 18.00% | ~411 |
+| Soldier | 21.00% | ~481 |
+| All the Major Food Groups | 21.00% | ~481 |
+| Beggars Would Ride | 19.00% | ~435 |
+| Control is an Illusion | 18.00% | ~412 |
 | The Means to Save It | 15.00% | ~343 |
 | Resilience to Sin | 14.00% | ~320 |
-| A Familiar Nest | 13.00% | ~297 |
-| Geas Aristeya | 13.00% | ~297 |
-| Periapt Alizarin | 13.00% | ~297 |
-| A Perfect Cycle | 12.00% | ~274 |
-| Recruit | 11.00% | ~251 |
-| Armsman | 10.00% | ~228 |
+| A Familiar Nest | 13.00% | ~298 |
+| Geas Aristeya | 13.00% | ~298 |
+| Periapt Alizarin | 13.00% | ~298 |
+| A Perfect Cycle | 12.00% | ~275 |
+| Recruit | 11.00% | ~252 |
+| Armsman | 10.00% | ~229 |
 | Lights Army | 8.00% | ~183 |
 | Periapt Cerulean | 7.00% | ~160 |
 | Good Boy | 6.00% | ~137 |
 | Best Dressed | 5.00% | ~114 |
 | Periapt Viridian | 5.00% | ~114 |
 | Shroudfane Explorer | 5.00% | ~114 |
-| Kitted Out | 4.00% | ~91 |
-| Armaments Gules | 4.00% | ~91 |
+| Kitted Out | 4.00% | ~92 |
+| Armaments Gules | 4.00% | ~92 |
 | Scholar | 3.00% | ~69 |
 | Armaments Azure | 3.00% | ~69 |
 | Armaments Vert | 3.00% | ~69 |
@@ -45,15 +45,15 @@ Rating: 4.20 (Ranked 949)
 | Shroudfane Surveyor | 0.70% | ~16 |
 | Master of Malachite | 0.50% | ~11 |
 | Backtracker | 0.50% | ~11 |
-| Petite Bourgeoisie | 0.40% | ~9 |
 | Family Business | 0.30% | ~7 |
 | Diplomat | 0.30% | ~7 |
+| Petite Bourgeoisie | 0.30% | ~7 |
 | Witch-Taker | 0.30% | ~7 |
 | Treasure Hunter | 0.30% | ~7 |
 | Out of Time | 0.20% | ~5 |
 | Fowl Play | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,285 (Ranked 235)  
+Progressed: 2,289 (Ranked 235)  
 Completed: 2 (0.09%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 2 (0.09%) (Ranked 312)
 | 2023-12-27 | 2,049 | 2 |
 | 2023-12-28 | 2,136 | 2 |
 | 2023-12-29 | 2,236 | 2 |
-| 2023-12-30 | 2,285 | 2 |
+| 2023-12-30 | 2,289 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2208,9 +2208,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16024,
+  "EOS_Progressed": 16025,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18613,6 +18613,11 @@
       "Time": "2023-12-30T14:09:50.1917478+00:00",
       "NumProgressed": 16024,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-30T15:09:44.5967379+00:00",
+      "NumProgressed": 16025,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -18686,9 +18691,9 @@
       "ID": "ACHIEVEMENT_ASSASSINATED_HEIR",
       "SetID": "9201eeb",
       "Name": "Future Regicide",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_ATHENS_ACROPOLIS",
@@ -21487,21 +21492,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16024,
+      "Progressed": 16025,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16024,
+      "Progressed": 16025,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-29T16:02:55.9624641+00:00",
-  "LastChanged_Achievements": "2023-12-30T14:09:50.1917475+00:00",
+  "LastChanged_Achievements": "2023-12-30T15:09:44.5967377+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:47.5878363+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:02:31.1036027+00:00",
-  "LastUpdate_Achievements": "2023-12-30T14:09:50.1929062+00:00"
+  "LastUpdate_Ratings": "2023-12-30T15:02:37.4845939+00:00",
+  "LastUpdate_Achievements": "2023-12-30T15:09:44.5977626+00:00"
 }

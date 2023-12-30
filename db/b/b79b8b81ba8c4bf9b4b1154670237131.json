@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -167,9 +167,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16110,
+  "EOS_Progressed": 16111,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5337,6 +5337,11 @@
       "Time": "2023-12-30T14:09:07.1228734+00:00",
       "NumProgressed": 16110,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-30T15:09:02.3895539+00:00",
+      "NumProgressed": 16111,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -5381,7 +5386,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12082
+      "UsersEstimate": 12083
     },
     {
       "ID": "ACH_AE_14",
@@ -5429,15 +5434,15 @@
       "Name": "Signature Style",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "ACH_AE_2",
       "SetID": "ck3465",
       "Name": "Back to School",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3705
+      "UsersEstimate": 3867
     },
     {
       "ID": "ACH_AE_20",
@@ -5461,7 +5466,7 @@
       "Name": "The High Road",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 3866
+      "UsersEstimate": 3867
     },
     {
       "ID": "ACH_AE_23",
@@ -5628,7 +5633,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16110,
+      "Progressed": 16111,
       "Completed": 15
     }
   ],
@@ -5636,8 +5641,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-27T16:00:31.0909826+00:00",
-  "LastChanged_Achievements": "2023-12-30T14:09:07.1228731+00:00",
+  "LastChanged_Achievements": "2023-12-30T15:09:02.3895536+00:00",
   "LastUpdate_AppInfo": "2023-12-26T18:57:07.3435183+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:57:00.4463243+00:00",
-  "LastUpdate_Achievements": "2023-12-30T14:09:07.122929+00:00"
+  "LastUpdate_Ratings": "2023-12-30T14:57:01.7021167+00:00",
+  "LastUpdate_Achievements": "2023-12-30T15:09:02.3896059+00:00"
 }

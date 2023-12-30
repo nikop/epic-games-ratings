@@ -1,37 +1,37 @@
 # RIDE 5
 [Store](https://store.epicgames.com/en-US/p/ride-5)  
 [View Rawdata](../../db/r/ride_5.json)  
-Rating: 4.48 (Ranked 648)  
+Rating: 4.48 (Ranked 649)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eat My Dust | 48.00% | ~1,496 |
-| First Love | 45.00% | ~1,402 |
+| First Love | 45.00% | ~1,403 |
 | Clean Race | 43.00% | ~1,340 |
 | Hear That Roar! | 41.00% | ~1,278 |
 | Bitter Rivalry | 30.00% | ~935 |
 | Rivals to the End | 30.00% | ~935 |
-| Champagne Spray | 28.00% | ~872 |
+| Champagne Spray | 28.00% | ~873 |
 | We're Going to Need a Bigger Garage | 26.00% | ~810 |
-| Quick Pit Stop | 21.00% | ~654 |
+| Quick Pit Stop | 21.00% | ~655 |
 | Restored and Ready | 20.00% | ~623 |
 | I Want One Too! | 20.00% | ~623 |
-| Legendary!!! | 19.00% | ~592 |
+| Legendary!!! | 20.00% | ~623 |
 | Go-Faster Stripes | 17.00% | ~530 |
-| I'm Here Too! | 15.00% | ~467 |
+| I'm Here Too! | 15.00% | ~468 |
 | We've Just Begun | 14.00% | ~436 |
-| Is It the Right Size? | 9.00% | ~280 |
+| Is It the Right Size? | 9.00% | ~281 |
 | Stamina Star | 8.00% | ~249 |
 | Evangelist | 6.00% | ~187 |
 | Make It Your Own! | 5.00% | ~156 |
 | Cherry Blossom and Temples | 4.00% | ~125 |
 | The Road to Liberty | 4.00% | ~125 |
-| Spoilt for Choice | 3.00% | ~93 |
-| La Dolce Vita | 3.00% | ~93 |
-| Romantic Races | 3.00% | ~93 |
-| I Make the Rules! | 3.00% | ~93 |
-| Rounding Off | 3.00% | ~93 |
-| My Work Here Is Done | 3.00% | ~93 |
+| Spoilt for Choice | 3.00% | ~94 |
+| La Dolce Vita | 3.00% | ~94 |
+| Romantic Races | 3.00% | ~94 |
+| I Make the Rules! | 3.00% | ~94 |
+| Rounding Off | 3.00% | ~94 |
+| My Work Here Is Done | 3.00% | ~94 |
 | Iconic! | 2.00% | ~62 |
 | I'll Be the Best! | 2.00% | ~62 |
 | Back in Blighty | 2.00% | ~62 |
@@ -55,7 +55,7 @@ Rating: 4.48 (Ranked 648)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,116 (Ranked 224)  
+Progressed: 3,117 (Ranked 224)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 3,044 | 0 |
 | 2023-12-28 | 3,069 | 0 |
 | 2023-12-29 | 3,096 | 0 |
-| 2023-12-30 | 3,116 | 0 |
+| 2023-12-30 | 3,117 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

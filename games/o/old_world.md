@@ -112,6 +112,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse in Alexandria | 0.10% | ~16 |
 | Musaeum in Alexandria | 0.10% | ~16 |
 | Alliance Victory | 0.10% | ~16 |
+| Future Regicide | 0.10% | ~16 |
 | Acropolis in Athenai | 0.10% | ~16 |
 | Ishtar Gate in Babylon | 0.10% | ~16 |
 | Barbarian Horde | 0.10% | ~16 |
@@ -284,7 +285,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Yazilikaya | 0.10% | ~16 |
 | Colosseum in Roma | 0.10% | ~16 |
 | Alexander the who? | 0.00% | ~0 |
-| Future Regicide | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,024 (Ranked 165)  
+Progressed: 16,025 (Ranked 165)  
 Completed: 5 (0.03%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -619,7 +619,7 @@ Completed: 5 (0.03%) (Ranked 351)
 | 2023-12-27 | 15,978 | 5 |
 | 2023-12-28 | 15,997 | 5 |
 | 2023-12-29 | 16,011 | 5 |
-| 2023-12-30 | 16,024 | 5 |
+| 2023-12-30 | 16,025 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 284)  
 Sum: 1,912 (Ranked 220)  

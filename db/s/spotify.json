@@ -4,7 +4,7 @@
   "ProductSlug": "spotify",
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 561,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": null,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:21.5812118+00:00",
   "LastChanged": "2023-03-31T05:58:21.5812119+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.760603+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:00:23.4965841+00:00",
-  "LastUpdate_Achievements": "2023-12-30T14:04:31.928169+00:00"
+  "LastUpdate_Ratings": "2023-12-30T15:00:20.763976+00:00",
+  "LastUpdate_Achievements": "2023-12-30T15:04:38.4891138+00:00"
 }

@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | My Papyrus! | 75.00% | ~82 |
 | A Loyal Friend | 39.00% | ~43 |
-| Abandon Ship! | 27.00% | ~30 |
-| The Tomb of Kih-Oskh | 21.00% | ~23 |
-| The Weighing of the Soul | 19.00% | ~21 |
+| Abandon Ship! | 28.00% | ~31 |
+| The Tomb of Kih-Oskh | 22.00% | ~24 |
+| The Weighing of the Soul | 20.00% | ~22 |
 | The Curse of Kih-Oskh | 16.00% | ~18 |
 | It's a Deal! | 12.00% | ~13 |
 | Cat Lover | 11.00% | ~12 |
@@ -20,8 +20,8 @@
 | Mummy Nightmare | 8.00% | ~9 |
 | The Eyes! | 7.00% | ~8 |
 | Keep the Doctor Away | 7.00% | ~8 |
+| Just a Palm Tree | 7.00% | ~8 |
 | Punctual | 7.00% | ~8 |
-| Just a Palm Tree | 6.00% | ~7 |
 | Under the Hood | 6.00% | ~7 |
 | Long Live Gaipajama! | 6.00% | ~7 |
 | Barking Dog | 6.00% | ~7 |

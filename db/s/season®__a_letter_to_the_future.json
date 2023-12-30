@@ -4,8 +4,8 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1857,
+  "EOS_Progressed": 1858,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 3.77,
   "EosHistory": [
@@ -4124,6 +4124,11 @@
       "Time": "2023-12-30T14:09:29.7767339+00:00",
       "NumProgressed": 1857,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-30T15:09:24.7066547+00:00",
+      "NumProgressed": 1858,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 16,
@@ -4141,9 +4146,9 @@
       "ID": "ACH_DEEPLISTENER",
       "SetID": "7pam6gn",
       "Name": "Deep Listener",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 464
+      "UsersEstimate": 446
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -4183,7 +4188,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -4191,7 +4196,7 @@
       "Name": "Home Leaver",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1467
+      "UsersEstimate": 1468
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -4199,7 +4204,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1467
+      "UsersEstimate": 1468
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -4255,14 +4260,14 @@
       "Name": "Tour de Tieng",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1857,
+      "Progressed": 1858,
       "Completed": 70
     }
   ],
@@ -4270,8 +4275,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-30T14:09:29.7767337+00:00",
+  "LastChanged_Achievements": "2023-12-30T15:09:24.7066545+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:44.3535234+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:58:36.2452732+00:00",
-  "LastUpdate_Achievements": "2023-12-30T14:09:29.7767703+00:00"
+  "LastUpdate_Ratings": "2023-12-30T14:58:34.8832738+00:00",
+  "LastUpdate_Achievements": "2023-12-30T15:09:24.7066874+00:00"
 }

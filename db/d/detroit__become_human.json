@@ -2,12 +2,12 @@
   "ID": "columbine",
   "Name": "Detroit: Become Human",
   "ProductSlug": "detroit-become-human",
-  "Ranking_Rating": 30,
+  "Ranking_Rating": 31,
   "Ranking_Popularity": 133,
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 561,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2019-12-12T13:00:00+00:00",
@@ -1813,6 +1813,6 @@
   "FirstSeen": "2022-07-22T20:18:06.5181893+00:00",
   "LastChanged": "2023-12-29T14:02:38.7597553+00:00",
   "LastUpdate_AppInfo": "2023-12-23T16:57:13.405398+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:57:04.9485691+00:00",
-  "LastUpdate_Achievements": "2023-12-30T14:05:04.6348778+00:00"
+  "LastUpdate_Ratings": "2023-12-30T14:57:06.1616941+00:00",
+  "LastUpdate_Achievements": "2023-12-30T15:05:11.0284438+00:00"
 }

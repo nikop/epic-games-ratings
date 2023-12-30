@@ -2,7 +2,7 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 187,
+  "Ranking_Rating": 202,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 186,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.72,
+  "Rating": 4.71,
   "RatingHistory": [
     {
       "Time": "2023-03-27T01:58:07.9260384+00:00",
@@ -257,13 +257,19 @@
       "Rating": 4.72,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-30T15:00:00.2833767+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8548,
+  "EOS_Progressed": 8549,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 346,
   "EOS_NewCompleters": 0,
@@ -10423,6 +10429,11 @@
       "Time": "2023-12-30T14:08:18.6278368+00:00",
       "NumProgressed": 8548,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-30T15:08:14.0843439+00:00",
+      "NumProgressed": 8549,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -10601,16 +10612,16 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8548,
+      "Progressed": 8549,
       "Completed": 34
     }
   ],
   "FirstSeen": "2023-03-21T09:57:30.0588208+00:00",
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
-  "LastChanged": "2023-12-22T18:01:14.9082256+00:00",
-  "LastChanged_Achievements": "2023-12-30T14:08:18.6278367+00:00",
+  "LastChanged": "2023-12-30T15:00:00.2833765+00:00",
+  "LastChanged_Achievements": "2023-12-30T15:08:14.0843435+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:37.7358257+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:00:02.7284141+00:00",
-  "LastUpdate_Achievements": "2023-12-30T14:08:18.6278841+00:00"
+  "LastUpdate_Ratings": "2023-12-30T15:00:00.283377+00:00",
+  "LastUpdate_Achievements": "2023-12-30T15:08:14.0844225+00:00"
 }

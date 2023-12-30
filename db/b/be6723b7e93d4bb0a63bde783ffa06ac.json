@@ -4,7 +4,7 @@
   "ProductSlug": "strike-force-kitty-4603e5",
   "Ranking_EOS_Progress": 447,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 145,
+  "EOS_Progressed": 146,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -699,6 +699,11 @@
       "Time": "2023-12-30T13:07:27.3411572+00:00",
       "NumProgressed": 145,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T15:04:10.5911893+00:00",
+      "NumProgressed": 146,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-23T15:03:22.1103385+00:00",
@@ -837,9 +842,9 @@
       "ID": "ach24",
       "SetID": "baneh2j",
       "Name": "Researcher",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 35,
-      "UsersEstimate": 70
+      "UsersEstimate": 69
     },
     {
       "ID": "ach25",
@@ -871,7 +876,7 @@
       "Name": "Start",
       "Percentage": 90,
       "XP": 35,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ach29",
@@ -879,7 +884,7 @@
       "Name": "My first team",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ach3",
@@ -909,9 +914,9 @@
       "ID": "ach4",
       "SetID": "baneh2j",
       "Name": "Skillful fighter",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "ach5",
@@ -958,14 +963,14 @@
     {
       "ID": "baneh2j",
       "IsBase": true,
-      "Progressed": 145,
+      "Progressed": 146,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-12-30T14:04:03.9876521+00:00",
+  "LastChanged_Achievements": "2023-12-30T15:04:10.5911891+00:00",
   "LastUpdate_AppInfo": "2023-12-27T09:57:11.1404081+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:58:01.6931996+00:00",
-  "LastUpdate_Achievements": "2023-12-30T14:04:03.9876839+00:00"
+  "LastUpdate_Ratings": "2023-12-30T14:57:59.8079131+00:00",
+  "LastUpdate_Achievements": "2023-12-30T15:04:10.5912096+00:00"
 }

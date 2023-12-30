@@ -401,9 +401,9 @@
       "ID": "ACH_KILLENEMY",
       "SetID": "ch874lb",
       "Name": "The Exterminator",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_LEGENDARYMATERIAL",
@@ -536,8 +536,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2023-12-30T14:04:10.5555887+00:00",
+  "LastChanged_Achievements": "2023-12-30T15:04:16.9193143+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:19.6020378+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:59:56.3643235+00:00",
-  "LastUpdate_Achievements": "2023-12-30T14:04:10.5556072+00:00"
+  "LastUpdate_Ratings": "2023-12-30T14:59:53.786252+00:00",
+  "LastUpdate_Achievements": "2023-12-30T15:04:16.9193323+00:00"
 }

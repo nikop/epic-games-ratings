@@ -7793,10 +7793,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27858,
       "NumberOfAwardsMax": 4925
+    },
+    {
+      "Time": "2023-12-30T15:02:49.8015547+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27861,
+      "NumberOfAwardsMax": 4925
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27858,
+  "NumberOfAwards": 27861,
   "NumberOfAwardsMax": 4925,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7840,7 +7846,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3231
+      "Count": 3234
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7849,9 +7855,9 @@
       "Count": 3807
     }
   ],
-  "EOS_Progressed": 148450,
+  "EOS_Progressed": 148458,
   "EOS_Completed": 340,
-  "EOS_NewPlayers": 1318,
+  "EOS_NewPlayers": 1319,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -34574,6 +34580,11 @@
       "Time": "2023-12-30T14:04:11.9529017+00:00",
       "NumProgressed": 148450,
       "NumCompleted": 340
+    },
+    {
+      "Time": "2023-12-30T15:04:18.531287+00:00",
+      "NumProgressed": 148458,
+      "NumCompleted": 340
     }
   ],
   "TotalAchievements": 112,
@@ -34665,7 +34676,7 @@
       "Name": "One Easy Payment",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7422
+      "UsersEstimate": 7423
     },
     {
       "ID": "bigsale02",
@@ -34689,7 +34700,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7422
+      "UsersEstimate": 7423
     },
     {
       "ID": "blueprint02",
@@ -34753,7 +34764,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14845
+      "UsersEstimate": 14846
     },
     {
       "ID": "chest02",
@@ -34801,7 +34812,7 @@
       "Name": "The Free Encyclopedia",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "collection05",
@@ -34817,7 +34828,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13360
+      "UsersEstimate": 13361
     },
     {
       "ID": "commonres02",
@@ -34937,7 +34948,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7422
+      "UsersEstimate": 7423
     },
     {
       "ID": "energy02",
@@ -34977,7 +34988,7 @@
       "Name": "Thank You Tom Nook",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "fullmoon",
@@ -35057,7 +35068,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11876
+      "UsersEstimate": 11877
     },
     {
       "ID": "gold02",
@@ -35065,7 +35076,7 @@
       "Name": "Pretty Penny",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7422
+      "UsersEstimate": 7423
     },
     {
       "ID": "gold03",
@@ -35145,7 +35156,7 @@
       "Name": "Jackpot!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "jackslot03",
@@ -35313,7 +35324,7 @@
       "Name": "Eternal Crusade",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "quest04",
@@ -35401,7 +35412,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14845
+      "UsersEstimate": 14846
     },
     {
       "ID": "twinenchant01",
@@ -35449,7 +35460,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7422
+      "UsersEstimate": 7423
     },
     {
       "ID": "workers02",
@@ -35480,15 +35491,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 148450,
+      "Progressed": 148458,
       "Completed": 340
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-12-29T23:03:05.1750024+00:00",
-  "LastChanged_Achievements": "2023-12-30T14:04:11.9529014+00:00",
+  "LastChanged": "2023-12-30T15:02:49.8015545+00:00",
+  "LastChanged_Achievements": "2023-12-30T15:04:18.5312869+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:55.73992+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:02:43.5713467+00:00",
-  "LastUpdate_Achievements": "2023-12-30T14:04:11.9530926+00:00"
+  "LastUpdate_Ratings": "2023-12-30T15:02:49.801555+00:00",
+  "LastUpdate_Achievements": "2023-12-30T15:04:18.5314919+00:00"
 }

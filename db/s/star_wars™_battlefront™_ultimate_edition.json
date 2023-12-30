@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2361,
+  "EOS_Progressed": 2363,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 0,
@@ -6654,6 +6654,11 @@
       "Time": "2023-12-30T13:12:56.3664806+00:00",
       "NumProgressed": 2361,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T15:09:41.332513+00:00",
+      "NumProgressed": 2363,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6738,7 +6743,7 @@
       "Name": "The power of the Force",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "achievement_19",
@@ -6762,7 +6767,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "achievement_21",
@@ -6770,7 +6775,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "achievement_22",
@@ -6778,7 +6783,7 @@
       "Name": "Distinguished",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "achievement_23",
@@ -6802,7 +6807,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "achievement_26",
@@ -6810,7 +6815,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "achievement_27",
@@ -6890,7 +6895,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 2054
+      "UsersEstimate": 2056
     },
     {
       "ID": "achievement_36",
@@ -6906,7 +6911,7 @@
       "Name": "Off to a good start",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1465
     },
     {
       "ID": "achievement_38",
@@ -6938,7 +6943,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "achievement_41",
@@ -7169,13 +7174,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2361,
+      "Progressed": 2363,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2361,
+      "Progressed": 2363,
       "Completed": 1
     }
   ],
@@ -7183,8 +7188,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-30T14:09:46.8046583+00:00",
+  "LastChanged_Achievements": "2023-12-30T15:09:41.3325128+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.4116758+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:57:26.6986999+00:00",
-  "LastUpdate_Achievements": "2023-12-30T14:09:46.8047425+00:00"
+  "LastUpdate_Ratings": "2023-12-30T14:57:27.6708412+00:00",
+  "LastUpdate_Achievements": "2023-12-30T15:09:41.3325859+00:00"
 }

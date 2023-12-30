@@ -4,10 +4,10 @@
   "ProductSlug": "barony",
   "Ranking_Rating": 187,
   "Ranking_Popularity": 377,
-  "Ranking_PopularitySum": 307,
+  "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 561,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-07-30T15:00:00+00:00",
@@ -1734,10 +1734,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 712,
       "NumberOfAwardsMax": 99
+    },
+    {
+      "Time": "2023-12-30T14:58:49.6092428+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 713,
+      "NumberOfAwardsMax": 99
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 712,
+  "NumberOfAwards": 713,
   "NumberOfAwardsMax": 99,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1745,7 +1751,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 87
+      "Count": 88
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1807,8 +1813,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:54.5508638+00:00",
-  "LastChanged": "2023-12-29T22:58:28.93099+00:00",
+  "LastChanged": "2023-12-30T14:58:49.6092426+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:02.711888+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:58:50.4497266+00:00",
-  "LastUpdate_Achievements": "2023-12-30T14:04:50.1171916+00:00"
+  "LastUpdate_Ratings": "2023-12-30T14:58:49.6092432+00:00",
+  "LastUpdate_Achievements": "2023-12-30T15:04:56.554421+00:00"
 }

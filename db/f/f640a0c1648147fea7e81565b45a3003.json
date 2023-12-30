@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-40000-space-marine-2",
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 561,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2024-09-09T10:00:00+00:00",
@@ -36,8 +36,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-08T05:02:59.0194168+00:00",
-  "LastChanged_Achievements": "2023-12-30T14:05:16.859659+00:00",
+  "LastChanged_Achievements": "2023-12-30T15:05:23.501704+00:00",
   "LastUpdate_AppInfo": "2023-12-29T06:57:17.3636582+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:00:10.8355945+00:00",
-  "LastUpdate_Achievements": "2023-12-30T14:05:16.8596614+00:00"
+  "LastUpdate_Ratings": "2023-12-30T15:00:08.393873+00:00",
+  "LastUpdate_Achievements": "2023-12-30T15:05:23.5017059+00:00"
 }

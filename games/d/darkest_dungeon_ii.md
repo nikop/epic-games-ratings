@@ -1,19 +1,19 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 260)  
+Rating: 4.68 (Ranked 261)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 11.00% | ~618 |
-| Lost and Found | 7.00% | ~393 |
+| Lost and Found | 7.00% | ~394 |
 | Autodidact | 6.00% | ~7,845 |
 | This guy... again? | 6.00% | ~337 |
-| This Belongs in a Museum | 5.00% | ~6,537 |
-| Creep and Sleep | 5.00% | ~6,537 |
-| Overdue Notice | 5.00% | ~6,537 |
-| Escape from the Black Hole | 5.00% | ~6,537 |
+| This Belongs in a Museum | 5.00% | ~6,538 |
+| Creep and Sleep | 5.00% | ~6,538 |
+| Overdue Notice | 5.00% | ~6,538 |
+| Escape from the Black Hole | 5.00% | ~6,538 |
 | Ploughshares to Swords | 5.00% | ~281 |
 | Bloody Graduation | 5.00% | ~281 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,230 |
@@ -27,18 +27,18 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 4.00% | ~5,230 |
 | FNG | 4.00% | ~5,230 |
 | Friends 'Til the End | 4.00% | ~225 |
-| Unfulfilled Desires | 3.00% | ~3,922 |
-| Dissector | 3.00% | ~3,922 |
-| Banishment | 3.00% | ~3,922 |
-| Now Stay Dead | 3.00% | ~3,922 |
-| Spelunker | 3.00% | ~3,922 |
-| Merry Time | 3.00% | ~3,922 |
-| Harvest Festival | 3.00% | ~3,922 |
-| Ramble On | 3.00% | ~3,922 |
-| Whale | 3.00% | ~3,922 |
-| A Place to Lay Your Head | 3.00% | ~3,922 |
-| Nope | 3.00% | ~3,922 |
-| Unshackled | 3.00% | ~3,922 |
+| Unfulfilled Desires | 3.00% | ~3,923 |
+| Dissector | 3.00% | ~3,923 |
+| Banishment | 3.00% | ~3,923 |
+| Now Stay Dead | 3.00% | ~3,923 |
+| Spelunker | 3.00% | ~3,923 |
+| Merry Time | 3.00% | ~3,923 |
+| Harvest Festival | 3.00% | ~3,923 |
+| Ramble On | 3.00% | ~3,923 |
+| Whale | 3.00% | ~3,923 |
+| A Place to Lay Your Head | 3.00% | ~3,923 |
+| Nope | 3.00% | ~3,923 |
+| Unshackled | 3.00% | ~3,923 |
 | Resurrection | 2.00% | ~2,615 |
 | Unleash Hell | 2.00% | ~2,615 |
 | Funny Guy | 2.00% | ~2,615 |
@@ -56,11 +56,11 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 2.00% | ~2,615 |
 | Hot Air | 2.00% | ~2,615 |
 | Road Trip | 2.00% | ~2,615 |
-| This Looks Familiar | 1.00% | ~1,307 |
-| No More Mouths to Feed | 1.00% | ~1,307 |
-| Eyes Up | 1.00% | ~1,307 |
-| Handled | 1.00% | ~1,307 |
-| Body of Work | 1.00% | ~1,307 |
+| This Looks Familiar | 1.00% | ~1,308 |
+| No More Mouths to Feed | 1.00% | ~1,308 |
+| Eyes Up | 1.00% | ~1,308 |
+| Handled | 1.00% | ~1,308 |
+| Body of Work | 1.00% | ~1,308 |
 | Slap on the Wrist | 1.00% | ~56 |
 | For Old Time' Sake | 1.00% | ~56 |
 | Shrine of Reflection | 0.90% | ~1,177 |
@@ -77,8 +77,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Tears in the Rain | 0.30% | ~392 |
 | Battle Hardened | 0.30% | ~17 |
 | Maître De La Lame | 0.30% | ~17 |
-| Circle of Life | 0.20% | ~261 |
-| Grand Slam | 0.20% | ~261 |
+| Circle of Life | 0.20% | ~262 |
+| Grand Slam | 0.20% | ~262 |
 | Loop Year | 0.10% | ~131 |
 | No Gravestone Left Unturned | 0.10% | ~131 |
 | 20,000 Leagues Above the Sea | 0.10% | ~131 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,746 (Ranked 88)  
+Progressed: 130,753 (Ranked 88)  
 Completed: 3 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,15 +330,15 @@ Completed: 3 (0.00%) (Ranked 391)
 | 2023-12-27 | 130,259 | 3 |
 | 2023-12-28 | 130,422 | 3 |
 | 2023-12-29 | 130,627 | 3 |
-| 2023-12-30 | 130,746 | 3 |
+| 2023-12-30 | 130,753 | 3 |
 ## Awards
 Max (Character Customization): 7,905  (Ranked 50)  
-Sum: 21,257 (Ranked 58)  
+Sum: 21,263 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,905 |
-| This game has Diverse Characters | 1,791 |
+| This game has Diverse Characters | 1,797 |
 | This game has Challenging Combat | 1,657 |
 | This game is Highly Recommended | 1,583 |
 | This game has Amazing Characters | 1,504 |
@@ -688,4 +688,4 @@ Diff (max vs sum): -8
 | 2023-12-27 | 4.68 | - | 7,882 | 21,156 |
 | 2023-12-28 | 4.68 | - | 7,888 | 21,194 |
 | 2023-12-29 | 4.68 | - | 7,899 | 21,240 |
-| 2023-12-30 | 4.68 | - | 7,905 | 21,257 |
+| 2023-12-30 | 4.68 | - | 7,905 | 21,263 |

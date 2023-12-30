@@ -11,7 +11,7 @@
 | First Contact | 37.00% | ~19 |
 | Strength in Defeat | 37.00% | ~19 |
 | Technology first! | 19.00% | ~10 |
-| The Exterminator | 17.00% | ~9 |
+| The Exterminator | 19.00% | ~10 |
 | The Keeper of Fleed | 15.00% | ~8 |
 | Earth's Savior | 15.00% | ~8 |
 | The Collector | 12.00% | ~6 |

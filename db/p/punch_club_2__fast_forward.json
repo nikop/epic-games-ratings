@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -2050,9 +2050,9 @@
       "ID": "airpods",
       "SetID": "69co12a",
       "Name": "Now you are worthy",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 210
     },
     {
       "ID": "all_promotion_4",
@@ -2569,8 +2569,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-30T14:09:18.2640092+00:00",
+  "LastChanged_Achievements": "2023-12-30T15:09:13.0231277+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:13.9390464+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:58:39.1812527+00:00",
-  "LastUpdate_Achievements": "2023-12-30T14:09:18.2640874+00:00"
+  "LastUpdate_Ratings": "2023-12-30T14:58:37.7725824+00:00",
+  "LastUpdate_Achievements": "2023-12-30T15:09:13.0231853+00:00"
 }

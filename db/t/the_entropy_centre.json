@@ -4,7 +4,7 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 561,
+  "Ranking_EOS_NewPlayers": 527,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 279,
+  "EOS_Progressed": 280,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -991,6 +991,11 @@
       "Time": "2023-12-23T14:05:56.4114229+00:00",
       "NumProgressed": 279,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T15:03:34.7807096+00:00",
+      "NumProgressed": 280,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1002,7 +1007,7 @@
       "Name": "Wake Up",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH_ACT10",
@@ -1042,7 +1047,7 @@
       "Name": "Final Charge",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_ACT15",
@@ -1106,7 +1111,7 @@
       "Name": "No Time To Relax",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_ACT8",
@@ -1130,7 +1135,7 @@
       "Name": "Archivist",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_BESTFRIEND",
@@ -1217,7 +1222,7 @@
     {
       "ID": "2310cb1",
       "IsBase": true,
-      "Progressed": 279,
+      "Progressed": 280,
       "Completed": 0
     }
   ],
@@ -1225,8 +1230,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-12-30T14:03:27.3380244+00:00",
+  "LastChanged_Achievements": "2023-12-30T15:03:34.7807094+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:06.859411+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:59:09.7181813+00:00",
-  "LastUpdate_Achievements": "2023-12-30T14:03:27.3380436+00:00"
+  "LastUpdate_Ratings": "2023-12-30T14:59:08.5270737+00:00",
+  "LastUpdate_Achievements": "2023-12-30T15:03:34.7807329+00:00"
 }

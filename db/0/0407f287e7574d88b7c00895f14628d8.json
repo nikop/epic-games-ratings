@@ -2,9 +2,9 @@
   "ID": "0407f287e7574d88b7c00895f14628d8",
   "Name": "Settlement Survival",
   "ProductSlug": "settlement-survival-923f57",
-  "Ranking_EOS_Progress": 437,
+  "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162,
+  "EOS_Progressed": 165,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -644,6 +644,11 @@
       "Time": "2023-12-29T23:03:25.7767385+00:00",
       "NumProgressed": 162,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T15:03:30.2722576+00:00",
+      "NumProgressed": 165,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -686,7 +691,7 @@
       "ID": "dl1",
       "SetID": "b1ggf28",
       "Name": "Clear Road",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
       "UsersEstimate": 86
     },
@@ -694,9 +699,9 @@
       "ID": "dl2",
       "SetID": "b1ggf28",
       "Name": "Road Planning",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "dl3",
@@ -712,7 +717,7 @@
       "Name": "Agriculture Tycoon",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "f2",
@@ -720,7 +725,7 @@
       "Name": "Tasty Food",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "f3",
@@ -734,9 +739,9 @@
       "ID": "fw1",
       "SetID": "b1ggf28",
       "Name": "City Center",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 74
     },
     {
       "ID": "fw2",
@@ -758,7 +763,7 @@
       "ID": "g1",
       "SetID": "b1ggf28",
       "Name": "Skilled Workers",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 20,
       "UsersEstimate": 76
     },
@@ -766,9 +771,9 @@
       "ID": "g2",
       "SetID": "b1ggf28",
       "Name": "Efficient Tools",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "g3",
@@ -808,7 +813,7 @@
       "Name": "Infrastructure",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "jg2",
@@ -816,7 +821,7 @@
       "Name": "Waterpower",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "jg3",
@@ -830,9 +835,9 @@
       "ID": "jk1",
       "SetID": "b1ggf28",
       "Name": "Treatment of plague",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 48
     },
     {
       "ID": "jk2",
@@ -840,7 +845,7 @@
       "Name": "Saving Lives",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "jk3",
@@ -848,7 +853,7 @@
       "Name": "Robust Settlers",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "jz1",
@@ -856,7 +861,7 @@
       "Name": "Builder",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "jz2",
@@ -864,7 +869,7 @@
       "Name": "Architect",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "jz3",
@@ -878,7 +883,7 @@
       "ID": "k1",
       "SetID": "b1ggf28",
       "Name": "Advanced Technology",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 20,
       "UsersEstimate": 58
     },
@@ -904,7 +909,7 @@
       "Name": "Animal Imports",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "m2",
@@ -928,15 +933,15 @@
       "Name": "Prosperity",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "r2",
       "SetID": "b1ggf28",
       "Name": "A Welcoming Settlement",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "r3",
@@ -966,7 +971,7 @@
       "ID": "w1",
       "SetID": "b1ggf28",
       "Name": "Against the Cold",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 20,
       "UsersEstimate": 97
     },
@@ -1008,7 +1013,7 @@
       "Name": "Happiness",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "zf1",
@@ -1063,14 +1068,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 162,
+      "Progressed": 165,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-30T14:03:23.3695878+00:00",
+  "LastChanged_Achievements": "2023-12-30T15:03:30.2722574+00:00",
   "LastUpdate_AppInfo": "2023-12-27T04:56:58.3049887+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:02:28.7875432+00:00",
-  "LastUpdate_Achievements": "2023-12-30T14:03:23.3696237+00:00"
+  "LastUpdate_Ratings": "2023-12-30T15:02:35.2408157+00:00",
+  "LastUpdate_Achievements": "2023-12-30T15:03:30.2722879+00:00"
 }

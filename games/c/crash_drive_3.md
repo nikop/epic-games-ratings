@@ -6,21 +6,21 @@
 | ---- | ---------- | ----- |
 | Brace for impact! | 30.00% | ~128 |
 | A Forest Walk | 29.00% | ~124 |
-| Baby's First Car | 28.00% | ~119 |
+| Baby's First Car | 28.00% | ~120 |
 | Amateur Mechanic | 27.00% | ~115 |
 | Pushover | 27.00% | ~115 |
-| C-C-C-Combo! | 25.00% | ~106 |
-| Multiply that! | 25.00% | ~106 |
-| Fore! | 23.00% | ~98 |
+| C-C-C-Combo! | 25.00% | ~107 |
+| Multiply that! | 25.00% | ~107 |
+| Fore! | 22.00% | ~94 |
 | The Collector | 22.00% | ~94 |
 | Insurance fraud | 22.00% | ~94 |
 | The Wild West | 22.00% | ~94 |
 | Snow Fun! | 22.00% | ~94 |
 | Bag of Tricks | 22.00% | ~94 |
 | You're it | 22.00% | ~94 |
-| To and Fro | 21.00% | ~89 |
-| I see the light! | 21.00% | ~89 |
-| In the Bag! | 21.00% | ~89 |
+| To and Fro | 21.00% | ~90 |
+| I see the light! | 21.00% | ~90 |
+| In the Bag! | 21.00% | ~90 |
 | Car-Tapult | 20.00% | ~85 |
 | First Come, First Serve | 20.00% | ~85 |
 | Goodbye cruel world | 20.00% | ~85 |
@@ -36,12 +36,12 @@
 | Ferry Good! | 16.00% | ~68 |
 | Assert Dominance | 16.00% | ~68 |
 | Speed of light | 16.00% | ~68 |
-| Out of this League | 13.00% | ~55 |
+| Out of this League | 13.00% | ~56 |
 | Special Forces | 12.00% | ~51 |
-| Blasting away! | 12.00% | ~51 |
 | Earth Defense Force | 11.00% | ~47 |
 | Toot Toot! | 11.00% | ~47 |
 | Rocketman | 11.00% | ~47 |
+| Blasting away! | 11.00% | ~47 |
 | High Roller | 10.00% | ~43 |
 | Event Pro | 9.00% | ~38 |
 | Space Crash | 7.00% | ~30 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 0.90% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 426 (Ranked 355)  
+Progressed: 427 (Ranked 355)  
 Completed: 2 (0.47%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,6 +165,7 @@ Completed: 2 (0.47%) (Ranked 222)
 | 2023-12-26 | 424 | 2 |
 | 2023-12-28 | 425 | 2 |
 | 2023-12-29 | 426 | 2 |
+| 2023-12-30 | 427 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

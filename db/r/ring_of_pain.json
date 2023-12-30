@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3814,9 +3814,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 242024,
+  "EOS_Progressed": 242030,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 502,
+  "EOS_NewPlayers": 505,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -30084,6 +30084,11 @@
       "Time": "2023-12-30T14:09:49.1587137+00:00",
       "NumProgressed": 242024,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-30T15:09:43.6896792+00:00",
+      "NumProgressed": 242030,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -30213,9 +30218,9 @@
       "ID": "DEPTH6",
       "SetID": "5l8oe0h",
       "Name": "Getting A Glimpse",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2178
+      "UsersEstimate": 2420
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -30277,9 +30282,9 @@
       "ID": "DIERAINBOWSOCKS",
       "SetID": "5l8oe0h",
       "Name": "Colorful Corpse",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1936
+      "UsersEstimate": 2178
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -31198,13 +31203,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242024,
+      "Progressed": 242030,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3504,
+      "Progressed": 3510,
       "Completed": 416
     }
   ],
@@ -31212,8 +31217,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-30T08:01:44.1465561+00:00",
-  "LastChanged_Achievements": "2023-12-30T14:09:49.1587135+00:00",
+  "LastChanged_Achievements": "2023-12-30T15:09:43.689679+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:00:14.6417207+00:00",
-  "LastUpdate_Achievements": "2023-12-30T14:09:49.1589894+00:00"
+  "LastUpdate_Ratings": "2023-12-30T15:00:12.1783098+00:00",
+  "LastUpdate_Achievements": "2023-12-30T15:09:43.6899477+00:00"
 }

@@ -30,14 +30,14 @@
 | Friend of Gillyshire | 14.00% | ~14 |
 | Break Free | 14.00% | ~14 |
 | Philo's Tale | 12.00% | ~12 |
+| Stormwatch Faste | 12.00% | ~12 |
 | Friend of Silver Drift Hollow | 12.00% | ~12 |
-| Stormwatch Faste | 11.00% | ~11 |
+| Friend of Bastion | 12.00% | ~12 |
 | Friend of Orgash | 11.00% | ~11 |
-| Friend of Bastion | 11.00% | ~11 |
+| Magic Academy | 11.00% | ~11 |
+| Silver Drift Hollow Mine | 10.00% | ~10 |
 | A Master of Magic | 10.00% | ~10 |
-| Magic Academy | 10.00% | ~10 |
 | Defeat Gor | 9.00% | ~9 |
-| Silver Drift Hollow Mine | 9.00% | ~9 |
 | Mage Teacher | 9.00% | ~9 |
 | Friend of Windholme | 9.00% | ~9 |
 | A Joke | 9.00% | ~9 |

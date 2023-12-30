@@ -4,8 +4,8 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
     "PcReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 420,
+  "EOS_Progressed": 421,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.19,
   "EosHistory": [
@@ -1116,6 +1116,11 @@
       "Time": "2023-12-30T14:09:15.3383404+00:00",
       "NumProgressed": 420,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-30T15:09:10.2462603+00:00",
+      "NumProgressed": 421,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 19,
@@ -1159,7 +1164,7 @@
       "Name": "Let it begin",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "profile_ryan",
@@ -1167,7 +1172,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "ryan_date2_all",
@@ -1205,9 +1210,9 @@
       "ID": "success_brandy",
       "SetID": "6h5h9ho",
       "Name": "The boss",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 90,
-      "UsersEstimate": 92
+      "UsersEstimate": 97
     },
     {
       "ID": "success_derek",
@@ -1255,7 +1260,7 @@
       "Name": "The athlete",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "success_ty",
@@ -1278,7 +1283,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 420,
+      "Progressed": 421,
       "Completed": 5
     }
   ],
@@ -1286,8 +1291,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-12-30T14:09:15.3383402+00:00",
+  "LastChanged_Achievements": "2023-12-30T15:09:10.2462601+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:59.9685233+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:00:31.8609012+00:00",
-  "LastUpdate_Achievements": "2023-12-30T14:09:15.3383603+00:00"
+  "LastUpdate_Ratings": "2023-12-30T15:02:29.424176+00:00",
+  "LastUpdate_Achievements": "2023-12-30T15:09:10.246281+00:00"
 }

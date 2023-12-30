@@ -6,62 +6,62 @@ Number of Ratings: 209  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Morning | 99.00% | ~2,373 |
-| Hit Rock Bottom | 97.00% | ~2,325 |
-| High Jump | 97.00% | ~2,325 |
-| Knee bending | 97.00% | ~2,325 |
-| Rocket Launched | 97.00% | ~2,325 |
-| Speed | 97.00% | ~2,325 |
-| Pickaxe | 94.00% | ~2,253 |
-| Revenge | 94.00% | ~2,253 |
-| Cage Town | 94.00% | ~2,253 |
-| Force Beam | 93.00% | ~2,229 |
-| Entered Cage Town | 93.00% | ~2,229 |
-| Stone Pickaxe | 93.00% | ~2,229 |
-| Surprise | 93.00% | ~2,229 |
-| Magnet | 90.00% | ~2,157 |
-| Industrial Area | 89.00% | ~2,133 |
-| Magnet Repel | 88.00% | ~2,109 |
-| You feel middle classy | 87.00% | ~2,085 |
-| Boomeraxe | 87.00% | ~2,085 |
-| Iron Pickaxe | 87.00% | ~2,085 |
-| Banking District | 86.00% | ~2,061 |
-| Mission Unlikely | 86.00% | ~2,061 |
-| Arrested | 85.00% | ~2,037 |
-| Zappy Gun | 85.00% | ~2,037 |
-| Got your own one now | 85.00% | ~2,037 |
-| Don't draw dicks pls | 85.00% | ~2,037 |
-| Ripped | 84.00% | ~2,013 |
-| Beat the big arena | 83.00% | ~1,990 |
-| Force Cube | 82.00% | ~1,966 |
-| Got Battery | 81.00% | ~1,942 |
-| Guard Distracted | 81.00% | ~1,942 |
-| Translocator | 80.00% | ~1,918 |
-| Inner Peace | 78.00% | ~1,870 |
-| Diamond Pickaxe | 77.00% | ~1,846 |
-| Trickle Down Economy | 77.00% | ~1,846 |
-| Killed them all | 76.00% | ~1,822 |
-| Win | 76.00% | ~1,822 |
-| Greenhouse | 72.00% | ~1,726 |
-| Played with fire | 71.00% | ~1,702 |
-| You feel very sorry | 70.00% | ~1,678 |
-| No Match for you | 65.00% | ~1,558 |
-| Bouncy | 62.00% | ~1,486 |
-| Plumbster | 61.00% | ~1,462 |
-| Faster | 60.00% | ~1,438 |
-| Much Magic | 58.00% | ~1,390 |
-| Chest Detector | 56.00% | ~1,342 |
-| Flames | 53.00% | ~1,270 |
-| Momentum | 46.00% | ~1,103 |
-| You're unsure if you broke the game or not | 43.00% | ~1,031 |
-| But wait... ...There's more... | 40.00% | ~959 |
-| So much force | 35.00% | ~839 |
-| You feel fully engaged | 24.00% | ~575 |
-| Too hot | 20.00% | ~479 |
+| Good Morning | 99.00% | ~2,375 |
+| Hit Rock Bottom | 97.00% | ~2,327 |
+| Rocket Launched | 97.00% | ~2,327 |
+| Speed | 97.00% | ~2,327 |
+| High Jump | 96.00% | ~2,303 |
+| Knee bending | 96.00% | ~2,303 |
+| Pickaxe | 94.00% | ~2,255 |
+| Cage Town | 94.00% | ~2,255 |
+| Force Beam | 93.00% | ~2,231 |
+| Entered Cage Town | 93.00% | ~2,231 |
+| Stone Pickaxe | 93.00% | ~2,231 |
+| Revenge | 93.00% | ~2,231 |
+| Surprise | 93.00% | ~2,231 |
+| Magnet | 90.00% | ~2,159 |
+| Industrial Area | 89.00% | ~2,135 |
+| Magnet Repel | 88.00% | ~2,111 |
+| You feel middle classy | 87.00% | ~2,087 |
+| Boomeraxe | 87.00% | ~2,087 |
+| Iron Pickaxe | 87.00% | ~2,087 |
+| Banking District | 86.00% | ~2,063 |
+| Mission Unlikely | 86.00% | ~2,063 |
+| Arrested | 85.00% | ~2,039 |
+| Zappy Gun | 85.00% | ~2,039 |
+| Got your own one now | 85.00% | ~2,039 |
+| Don't draw dicks pls | 85.00% | ~2,039 |
+| Ripped | 84.00% | ~2,015 |
+| Beat the big arena | 83.00% | ~1,991 |
+| Force Cube | 82.00% | ~1,967 |
+| Got Battery | 81.00% | ~1,943 |
+| Guard Distracted | 80.00% | ~1,919 |
+| Translocator | 80.00% | ~1,919 |
+| Inner Peace | 78.00% | ~1,871 |
+| Diamond Pickaxe | 77.00% | ~1,847 |
+| Trickle Down Economy | 77.00% | ~1,847 |
+| Killed them all | 76.00% | ~1,823 |
+| Win | 76.00% | ~1,823 |
+| Greenhouse | 72.00% | ~1,727 |
+| Played with fire | 71.00% | ~1,703 |
+| You feel very sorry | 70.00% | ~1,679 |
+| No Match for you | 65.00% | ~1,559 |
+| Bouncy | 62.00% | ~1,487 |
+| Plumbster | 61.00% | ~1,463 |
+| Faster | 60.00% | ~1,439 |
+| Much Magic | 58.00% | ~1,391 |
+| Chest Detector | 56.00% | ~1,343 |
+| Flames | 53.00% | ~1,271 |
+| Momentum | 46.00% | ~1,104 |
+| You're unsure if you broke the game or not | 43.00% | ~1,032 |
+| But wait... ...There's more... | 40.00% | ~960 |
+| So much force | 35.00% | ~840 |
+| You feel fully engaged | 24.00% | ~576 |
+| Too hot | 20.00% | ~480 |
 | All the chests | 14.00% | ~336 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,397 (Ranked 231)  
-Completed: 291 (12.14%) (Ranked 37)  
+Progressed: 2,399 (Ranked 231)  
+Completed: 291 (12.13%) (Ranked 37)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -282,6 +282,7 @@ Completed: 291 (12.14%) (Ranked 37)
 | 2023-12-27 | 2,393 | 291 |
 | 2023-12-28 | 2,394 | 291 |
 | 2023-12-29 | 2,397 | 291 |
+| 2023-12-30 | 2,399 | 291 |
 ## Awards
 Max (Challenging Puzzles): 109  (Ranked 361)  
 Sum: 109 (Ranked 460)  

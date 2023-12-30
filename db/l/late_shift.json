@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 882,
+  "EOS_Progressed": 883,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.25,
   "EosHistory": [
@@ -2395,6 +2395,11 @@
       "Time": "2023-12-30T14:09:10.2573557+00:00",
       "NumProgressed": 882,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-30T15:09:05.4618594+00:00",
+      "NumProgressed": 883,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 20,
@@ -2406,7 +2411,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "CHOICES_MATTER",
@@ -2438,7 +2443,7 @@
       "Name": "The Ploy",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ENDING_4",
@@ -2454,7 +2459,7 @@
       "Name": "The Delivery",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ENDING_6",
@@ -2470,7 +2475,7 @@
       "Name": "The Frenzy",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -2478,7 +2483,7 @@
       "Name": "Even Tempered",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -2565,7 +2570,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 882,
+      "Progressed": 883,
       "Completed": 11
     }
   ],
@@ -2573,8 +2578,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-30T14:09:10.2573555+00:00",
+  "LastChanged_Achievements": "2023-12-30T15:09:05.4618592+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:26.7088663+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:59:29.6597717+00:00",
-  "LastUpdate_Achievements": "2023-12-30T14:09:10.2573805+00:00"
+  "LastUpdate_Ratings": "2023-12-30T14:59:28.1102396+00:00",
+  "LastUpdate_Achievements": "2023-12-30T15:09:05.461881+00:00"
 }

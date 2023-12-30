@@ -2,9 +2,9 @@
   "ID": "3623ba5530504da8a3f6e8d7f51177df",
   "Name": "Mediterranea Inferno",
   "ProductSlug": "mediterranea-inferno-6a1352",
-  "Ranking_EOS_Progress": 665,
+  "Ranking_EOS_Progress": 660,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 561,
+  "Ranking_EOS_NewPlayers": 527,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-12-18T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -64,6 +64,11 @@
       "Time": "2023-12-22T15:08:47.4493201+00:00",
       "NumProgressed": 7,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T15:08:37.1726994+00:00",
+      "NumProgressed": 8,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-21T12:05:49.4734668+00:00",
@@ -74,7 +79,7 @@
       "ID": "ACH_0",
       "SetID": "526kd3o",
       "Name": "The Tower",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -82,7 +87,7 @@
       "ID": "ACH_1",
       "SetID": "526kd3o",
       "Name": "Pump It Up",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -163,14 +168,14 @@
     {
       "ID": "526kd3o",
       "IsBase": true,
-      "Progressed": 7,
+      "Progressed": 8,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-24T23:57:29.1604344+00:00",
   "FirstSeenAchievements": "2023-11-21T09:07:01.6731758+00:00",
-  "LastChanged_Achievements": "2023-12-30T14:08:41.7095765+00:00",
+  "LastChanged_Achievements": "2023-12-30T15:08:37.1726991+00:00",
   "LastUpdate_AppInfo": "2023-12-28T22:56:57.9872031+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:00:05.7606515+00:00",
-  "LastUpdate_Achievements": "2023-12-30T14:08:41.7095828+00:00"
+  "LastUpdate_Ratings": "2023-12-30T15:00:03.4745006+00:00",
+  "LastUpdate_Achievements": "2023-12-30T15:08:37.172706+00:00"
 }

@@ -5,14 +5,15 @@ Rating: 4.59 (Ranked 444)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once upon a time... | 36.00% | ~84,438 |
-| ... in the magical land of Foenum... | 34.00% | ~79,747 |
-| Be Gentle... | 22.00% | ~51,601 |
+| Once upon a time... | 36.00% | ~84,439 |
+| ... in the magical land of Foenum... | 34.00% | ~79,748 |
+| Be Gentle... | 22.00% | ~51,602 |
 | A Worthy Opponent | 17.00% | ~39,874 |
 | Makin' Bacon | 4.00% | ~9,382 |
-| Tenderhoof | 3.00% | ~7,036 |
+| Tenderhoof | 3.00% | ~7,037 |
 | Champ'een of The Praire | 1.00% | ~2,346 |
 | Come At Me! | 1.00% | ~2,346 |
+| Kickin' 'n Stompin' | 0.20% | ~469 |
 | Sin'er Man | 0.20% | ~469 |
 | Well-Done | 0.10% | ~235 |
 | Valedictorian | 0.10% | ~235 |
@@ -22,7 +23,6 @@ Rating: 4.59 (Ranked 444)
 | School of Hard Knocks | 0.10% | ~235 |
 | Way of the Dragon | 0.10% | ~235 |
 | Iced Out | 0.10% | ~235 |
-| Kickin' 'n Stompin' | 0.10% | ~235 |
 | Dark Magic | 0.10% | ~235 |
 | I Love You This Much | 0.10% | ~235 |
 | Who Let The Dogs Out? | 0.10% | ~235 |
@@ -34,7 +34,7 @@ Rating: 4.59 (Ranked 444)
 | Alpaca Space Program | 0.10% | ~235 |
 | High Priestess | 0.10% | ~235 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,550 (Ranked 73)  
+Progressed: 234,554 (Ranked 73)  
 Completed: 6 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,14 +288,14 @@ Completed: 6 (0.00%) (Ranked 391)
 | 2023-12-27 | 234,364 | 6 |
 | 2023-12-28 | 234,439 | 6 |
 | 2023-12-29 | 234,504 | 6 |
-| 2023-12-30 | 234,550 | 6 |
+| 2023-12-30 | 234,554 | 6 |
 ## Awards
-Max (Great for Beginners): 27  (Ranked 533)  
-Sum: 47 (Ranked 506)  
-Diff (max vs sum): 27  
+Max (Great for Beginners): 28  (Ranked 525)  
+Sum: 48 (Ranked 505)  
+Diff (max vs sum): 20  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 27 |
+| This game is Great for Beginners | 28 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -357,3 +357,4 @@ Diff (max vs sum): 27
 | 2023-12-08 | 4.61 | 27 | 47 |
 | 2023-12-17 | 4.60 | 27 | 47 |
 | 2023-12-22 | 4.59 | 27 | 47 |
+| 2023-12-30 | 4.59 | 28 | 48 |

@@ -2,12 +2,12 @@
   "ID": "9f4875c1b0cf4cf19b28e203fc7aff07",
   "Name": "Days Gone",
   "ProductSlug": "days-gone",
-  "Ranking_Rating": 260,
+  "Ranking_Rating": 261,
   "Ranking_Popularity": 87,
   "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 561,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-05-18T04:00:00+00:00",
@@ -4472,6 +4472,6 @@
   "FirstSeen": "2022-07-22T20:29:37.7111961+00:00",
   "LastChanged": "2023-12-30T01:44:03.7812627+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:02.9970687+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:56:59.0401817+00:00",
-  "LastUpdate_Achievements": "2023-12-30T14:09:04.0147512+00:00"
+  "LastUpdate_Ratings": "2023-12-30T14:57:00.2327187+00:00",
+  "LastUpdate_Achievements": "2023-12-30T15:08:59.2893988+00:00"
 }

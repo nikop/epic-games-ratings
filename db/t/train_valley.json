@@ -1746,9 +1746,9 @@
       "ID": "07_europe",
       "SetID": "chb1m60",
       "Name": "Europe",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 193
+      "UsersEstimate": 199
     },
     {
       "ID": "08_america",
@@ -2018,8 +2018,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-12-18T07:02:31.8741871+00:00",
-  "LastChanged_Achievements": "2023-12-30T14:03:19.833235+00:00",
+  "LastChanged_Achievements": "2023-12-30T15:03:26.9115022+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:20.7345819+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:59:04.5606769+00:00",
-  "LastUpdate_Achievements": "2023-12-30T14:03:19.833267+00:00"
+  "LastUpdate_Ratings": "2023-12-30T14:59:03.3029188+00:00",
+  "LastUpdate_Achievements": "2023-12-30T15:03:26.9115448+00:00"
 }

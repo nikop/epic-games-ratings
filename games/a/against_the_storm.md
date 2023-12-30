@@ -6,17 +6,17 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 7.00% | ~1,378 |
-| Overgrown Library | 7.00% | ~1,378 |
-| First Real Expedition | 6.00% | ~1,181 |
-| Taking Action | 6.00% | ~1,181 |
-| No Deaths | 6.00% | ~1,181 |
-| Petrified Necropolis | 6.00% | ~1,181 |
-| Overcoming Difficulty | 5.00% | ~984 |
-| Coral Forest | 5.00% | ~984 |
-| The Marshlands | 5.00% | ~984 |
-| Ominous Presence | 5.00% | ~984 |
-| Gathering Storm | 5.00% | ~984 |
+| Abandoned Settlement | 7.00% | ~1,379 |
+| Overgrown Library | 7.00% | ~1,379 |
+| First Real Expedition | 6.00% | ~1,182 |
+| Taking Action | 6.00% | ~1,182 |
+| No Deaths | 6.00% | ~1,182 |
+| Petrified Necropolis | 6.00% | ~1,182 |
+| Overcoming Difficulty | 5.00% | ~985 |
+| Coral Forest | 5.00% | ~985 |
+| The Marshlands | 5.00% | ~985 |
+| Ominous Presence | 5.00% | ~985 |
+| Gathering Storm | 5.00% | ~985 |
 | The Scarlet Orchard | 4.00% | ~788 |
 | Frosts | 4.00% | ~788 |
 | Land of Greed | 4.00% | ~788 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,689 (Ranked 151)  
+Progressed: 19,694 (Ranked 151)  
 Completed: 34 (0.17%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 34 (0.17%) (Ranked 280)
 | 2023-12-27 | 19,458 | 38 |
 | 2023-12-28 | 19,536 | 36 |
 | 2023-12-29 | 19,630 | 36 |
-| 2023-12-30 | 19,689 | 35 |
+| 2023-12-30 | 19,694 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 446  (Ranked 229)  
 Sum: 3,306 (Ranked 176)  

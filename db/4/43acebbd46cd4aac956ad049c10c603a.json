@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -259,9 +259,9 @@
       "Count": 89
     }
   ],
-  "EOS_Progressed": 1189,
+  "EOS_Progressed": 1190,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3274,6 +3274,11 @@
       "Time": "2023-12-30T13:08:37.1837831+00:00",
       "NumProgressed": 1189,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-30T15:05:21.7804073+00:00",
+      "NumProgressed": 1190,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3286,7 +3291,7 @@
       "Name": "Ab Aeterno",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "AbInitio",
@@ -3350,7 +3355,7 @@
       "Name": "Chasing the Light",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "Chicken",
@@ -3382,7 +3387,7 @@
       "Name": "Discovery",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "EasternWetlands",
@@ -3454,7 +3459,7 @@
       "Name": "Into the Machine",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "JustOneLap",
@@ -3510,7 +3515,7 @@
       "Name": "Museum Visitor",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "NewBeginning",
@@ -3572,9 +3577,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 333
     },
     {
       "ID": "RenaissanceRobot",
@@ -3678,7 +3683,7 @@
       "Name": "The Spark",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "TheThiefOfFire",
@@ -3694,7 +3699,7 @@
       "Name": "The Word Endures",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "TouchGrass",
@@ -3757,7 +3762,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1189,
+      "Progressed": 1190,
       "Completed": 2
     }
   ],
@@ -3765,8 +3770,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-29T23:57:10.9507958+00:00",
-  "LastChanged_Achievements": "2023-12-30T14:05:15.048774+00:00",
+  "LastChanged_Achievements": "2023-12-30T15:05:21.7804072+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:57:25.0720426+00:00",
-  "LastUpdate_Achievements": "2023-12-30T14:05:15.0488437+00:00"
+  "LastUpdate_Ratings": "2023-12-30T14:57:25.9217192+00:00",
+  "LastUpdate_Achievements": "2023-12-30T15:05:21.7804584+00:00"
 }

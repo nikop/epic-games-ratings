@@ -3,12 +3,12 @@
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
   "Ranking_Rating": 801,
-  "Ranking_Popularity": 533,
+  "Ranking_Popularity": 534,
   "Ranking_PopularitySum": 454,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 78442,
+  "EOS_Progressed": 78445,
   "EOS_Completed": 419,
-  "EOS_NewPlayers": 835,
+  "EOS_NewPlayers": 833,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -28404,6 +28404,11 @@
       "Time": "2023-12-30T14:09:15.144251+00:00",
       "NumProgressed": 78442,
       "NumCompleted": 419
+    },
+    {
+      "Time": "2023-12-30T15:09:10.0014793+00:00",
+      "NumProgressed": 78445,
+      "NumCompleted": 419
     }
   ],
   "TotalAchievements": 24,
@@ -28423,7 +28428,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17257
+      "UsersEstimate": 17258
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -28431,7 +28436,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 54125
+      "UsersEstimate": 54127
     },
     {
       "ID": "BEST_FRIENDS",
@@ -28439,7 +28444,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17257
+      "UsersEstimate": 17258
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -28447,7 +28452,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 20395
+      "UsersEstimate": 20396
     },
     {
       "ID": "ERADICATE",
@@ -28463,7 +28468,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21964
+      "UsersEstimate": 21965
     },
     {
       "ID": "FOXIN_AROUND",
@@ -28471,7 +28476,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 22748
+      "UsersEstimate": 22749
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -28495,7 +28500,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 41574
+      "UsersEstimate": 41576
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -28511,7 +28516,7 @@
       "Name": "MATCH MAKER",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 6275
+      "UsersEstimate": 6276
     },
     {
       "ID": "NONE_FORGOTTEN",
@@ -28527,7 +28532,7 @@
       "Name": "NORTHERN LIGHTS",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 6275
+      "UsersEstimate": 6276
     },
     {
       "ID": "OLD_COMPANION",
@@ -28551,7 +28556,7 @@
       "Name": "SPIRITED AWAY",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 6275
+      "UsersEstimate": 6276
     },
     {
       "ID": "SPIRIT_BARK",
@@ -28575,7 +28580,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 13335
+      "UsersEstimate": 13336
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -28606,7 +28611,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 78442,
+      "Progressed": 78445,
       "Completed": 419
     }
   ],
@@ -28614,8 +28619,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2023-12-30T14:09:15.1442508+00:00",
+  "LastChanged_Achievements": "2023-12-30T15:09:10.0014791+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:46.017366+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:59:00.8821471+00:00",
-  "LastUpdate_Achievements": "2023-12-30T14:09:15.1443652+00:00"
+  "LastUpdate_Ratings": "2023-12-30T14:58:59.6307668+00:00",
+  "LastUpdate_Achievements": "2023-12-30T15:09:10.0015973+00:00"
 }

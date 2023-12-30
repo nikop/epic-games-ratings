@@ -4,7 +4,7 @@
   "ProductSlug": "airport-ceo-442ecc",
   "Ranking_EOS_Progress": 524,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 441,
+  "Ranking_EOS_NewPlayers": 440,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
@@ -533,9 +533,9 @@
       "ID": "SmallAirfield",
       "SetID": "d11cl5p",
       "Name": "Small airfield",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "TakeMeToYourHeaven",
@@ -549,9 +549,9 @@
       "ID": "TakingOff",
       "SetID": "d11cl5p",
       "Name": "Taking off",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "TheAirportCEO",
@@ -628,8 +628,8 @@
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-12-30T14:05:01.6301896+00:00",
+  "LastChanged_Achievements": "2023-12-30T15:05:08.1062477+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:53.8733503+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:59:53.7179017+00:00",
-  "LastUpdate_Achievements": "2023-12-30T14:05:01.6302221+00:00"
+  "LastUpdate_Ratings": "2023-12-30T14:59:51.3905399+00:00",
+  "LastUpdate_Achievements": "2023-12-30T15:05:08.1062696+00:00"
 }

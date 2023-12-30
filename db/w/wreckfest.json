@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 558,
+  "EOS_Progressed": 560,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 293,
+  "EOS_NewPlayers": 292,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1536,6 +1536,11 @@
       "Time": "2023-12-30T14:08:27.4119487+00:00",
       "NumProgressed": 558,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T15:08:23.0419828+00:00",
+      "NumProgressed": 560,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1556,7 +1561,7 @@
       "Name": "Highballer",
       "Percentage": 41,
       "XP": 90,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "CareerChamp1",
@@ -1564,7 +1569,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "CareerChamp2",
@@ -1604,7 +1609,7 @@
       "Name": "Storm Warning",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 368
+      "UsersEstimate": 370
     },
     {
       "ID": "CollectVehiclesA",
@@ -1660,7 +1665,7 @@
       "Name": "Dirty Roller",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "PlayerRankB",
@@ -1692,7 +1697,7 @@
       "Name": "Hating Them Tin Cans",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "WreckOpponentsBus",
@@ -1707,7 +1712,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 558,
+      "Progressed": 560,
       "Completed": 0
     }
   ],
@@ -1715,8 +1720,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-28T22:58:24.1175943+00:00",
-  "LastChanged_Achievements": "2023-12-30T14:08:27.4119485+00:00",
+  "LastChanged_Achievements": "2023-12-30T15:08:23.0419826+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:58:26.048602+00:00",
-  "LastUpdate_Achievements": "2023-12-30T14:08:27.4119645+00:00"
+  "LastUpdate_Ratings": "2023-12-30T14:58:24.0119094+00:00",
+  "LastUpdate_Achievements": "2023-12-30T15:08:23.04202+00:00"
 }

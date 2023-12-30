@@ -6,38 +6,38 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 73.00% | ~1,325 |
-| Lovebirds | 44.00% | ~799 |
-| Life’s short, ride long | 40.00% | ~726 |
-| Hug therapy | 39.00% | ~708 |
-| Over my dead body | 36.00% | ~653 |
-| Shake the rust off their feet | 19.00% | ~345 |
-| My little pony | 18.00% | ~327 |
+| Balding bloot! | 73.00% | ~1,328 |
+| Lovebirds | 44.00% | ~800 |
+| Life’s short, ride long | 40.00% | ~728 |
+| Hug therapy | 39.00% | ~709 |
+| Over my dead body | 36.00% | ~655 |
+| Shake the rust off their feet | 19.00% | ~346 |
 | Strike! | 17.00% | ~309 |
-| A love supreme | 16.00% | ~290 |
-| In my shoes | 15.00% | ~272 |
+| My little pony | 17.00% | ~309 |
+| A love supreme | 16.00% | ~291 |
+| In my shoes | 15.00% | ~273 |
 | Like new! | 13.00% | ~236 |
 | Heartstrings | 12.00% | ~218 |
 | Head in the clouds | 12.00% | ~218 |
 | Back to rust | 11.00% | ~200 |
 | Flower Powered | 11.00% | ~200 |
 | Don't look back | 11.00% | ~200 |
-| Unstoppable | 9.00% | ~163 |
-| Perfect timing | 8.00% | ~145 |
-| Ain't no mountain high enough | 8.00% | ~145 |
+| Unstoppable | 9.00% | ~164 |
+| Perfect timing | 8.00% | ~146 |
+| Ain't no mountain high enough | 8.00% | ~146 |
 | Self-sustainability | 7.00% | ~127 |
 | Spring cleaning | 5.00% | ~91 |
 | An eye for an eye | 5.00% | ~91 |
 | Can't get wetter... | 4.00% | ~73 |
-| Second thoughts | 3.00% | ~54 |
-| Mooning the moon | 3.00% | ~54 |
-| Pearls before Birble | 3.00% | ~54 |
-| Strip-a-bobble | 3.00% | ~54 |
-| Last minute | 3.00% | ~54 |
+| Second thoughts | 3.00% | ~55 |
+| Mooning the moon | 3.00% | ~55 |
+| Pearls before Birble | 3.00% | ~55 |
+| Strip-a-bobble | 3.00% | ~55 |
+| Last minute | 3.00% | ~55 |
 | Thar she blows | 2.00% | ~36 |
 | À la carte | 1.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,815 (Ranked 247)  
+Progressed: 1,819 (Ranked 247)  
 Completed: 10 (0.55%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 10 (0.55%) (Ranked 209)
 | 2023-12-27 | 1,788 | 10 |
 | 2023-12-28 | 1,795 | 10 |
 | 2023-12-29 | 1,807 | 10 |
-| 2023-12-30 | 1,815 | 10 |
+| 2023-12-30 | 1,819 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -6,19 +6,19 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 10.00% | ~14,845 |
-| Titan's First Steps | 10.00% | ~14,845 |
-| Basic in Bulk | 9.00% | ~13,360 |
-| Tinkle of Coins | 8.00% | ~11,876 |
+| Sponsored by Argon | 10.00% | ~14,846 |
+| Titan's First Steps | 10.00% | ~14,846 |
+| Basic in Bulk | 9.00% | ~13,361 |
+| Tinkle of Coins | 8.00% | ~11,877 |
 | Disintermediation | 7.00% | ~10,392 |
 | Capitalism Ho! | 7.00% | ~10,392 |
 | It's Free Real Estate | 6.00% | ~8,907 |
 | Budding Merchant | 6.00% | ~8,907 |
-| One Easy Payment | 5.00% | ~7,422 |
-| Some Assembly Required | 5.00% | ~7,422 |
-| Another Satisfied Customer | 5.00% | ~7,422 |
-| Pretty Penny | 5.00% | ~7,422 |
-| Own the Means of Production | 5.00% | ~7,422 |
+| One Easy Payment | 5.00% | ~7,423 |
+| Some Assembly Required | 5.00% | ~7,423 |
+| Another Satisfied Customer | 5.00% | ~7,423 |
+| Pretty Penny | 5.00% | ~7,423 |
+| Own the Means of Production | 5.00% | ~7,423 |
 | The Daily Grind | 4.00% | ~5,938 |
 | Bounty Hunters | 4.00% | ~5,938 |
 | Demand for Supplies | 4.00% | ~5,938 |
@@ -101,10 +101,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 2.00% | ~2,969 |
 | Economy of Scarce | 2.00% | ~2,969 |
 | King's Blade | 2.00% | ~2,969 |
-| The Free Encyclopedia | 1.00% | ~1,484 |
-| Thank You Tom Nook | 1.00% | ~1,484 |
-| Jackpot! | 1.00% | ~1,484 |
-| Eternal Crusade | 1.00% | ~1,484 |
+| The Free Encyclopedia | 1.00% | ~1,485 |
+| Thank You Tom Nook | 1.00% | ~1,485 |
+| Jackpot! | 1.00% | ~1,485 |
+| Eternal Crusade | 1.00% | ~1,485 |
 | The Greatest Grind | 0.90% | ~1,336 |
 | All or Nothing! | 0.90% | ~1,336 |
 | Bane of Legends | 0.80% | ~1,188 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~594 |
 | Capitalist Camaraderie | 0.20% | ~297 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,450 (Ranked 84)  
+Progressed: 148,458 (Ranked 84)  
 Completed: 340 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -373,10 +373,10 @@ Completed: 340 (0.23%) (Ranked 267)
 | 2023-12-27 | 148,016 | 336 |
 | 2023-12-28 | 148,196 | 337 |
 | 2023-12-29 | 148,353 | 338 |
-| 2023-12-30 | 148,450 | 340 |
+| 2023-12-30 | 148,458 | 340 |
 ## Awards
 Max (Great for Beginners): 4,925  (Ranked 77)  
-Sum: 27,858 (Ranked 51)  
+Sum: 27,861 (Ranked 51)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
@@ -386,7 +386,7 @@ Diff (max vs sum): 26
 | This game has Diverse Characters | 4,005 |
 | This game is Highly Recommended | 3,807 |
 | This game has Easy Combat | 3,760 |
-| This game has Playful Visuals | 3,231 |
+| This game has Playful Visuals | 3,234 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -724,3 +724,4 @@ Diff (max vs sum): 26
 | 2023-12-27 | 3.99 | - | 4,922 | 27,834 |
 | 2023-12-28 | 3.99 | - | 4,925 | 27,847 |
 | 2023-12-29 | 3.99 | - | 4,925 | 27,858 |
+| 2023-12-30 | 3.99 | - | 4,925 | 27,861 |
