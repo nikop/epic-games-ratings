@@ -20,9 +20,9 @@ Number of Ratings: 124  (23.09.2022)
 | Pass A38 | 11.00% | ~15 |
 | Berserker | 10.00% | ~13 |
 | Family Reunion | 9.00% | ~12 |
+| Eternal Oblivion | 8.00% | ~11 |
 | Globetrotter | 7.00% | ~9 |
 | Alb | 7.00% | ~9 |
-| Eternal Oblivion | 7.00% | ~9 |
 | Storyteller | 6.00% | ~8 |
 | Hotshot | 5.00% | ~7 |
 | Banker | 4.00% | ~5 |

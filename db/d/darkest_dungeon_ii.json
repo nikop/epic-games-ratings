@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10320,9 +10320,9 @@
       "Count": 1068
     }
   ],
-  "EOS_Progressed": 130698,
+  "EOS_Progressed": 130705,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1414,
+  "EOS_NewPlayers": 1408,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37495,6 +37495,11 @@
       "Time": "2023-12-30T09:09:41.7787382+00:00",
       "NumProgressed": 130698,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-30T10:10:20.0974396+00:00",
+      "NumProgressed": 130705,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37594,7 +37599,7 @@
       "Name": "The World As It Was",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "altar_of_hope_upgrade_total_half",
@@ -37762,7 +37767,7 @@
       "Name": "Bacon Bits",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "combat_party_wipe_all_run_bosses",
@@ -38042,7 +38047,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "combat_kill_collector",
@@ -38090,7 +38095,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -38098,7 +38103,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "quest_complete_crusader",
@@ -38137,21 +38142,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130698,
+      "Progressed": 130705,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5567,
+      "Progressed": 5574,
       "Completed": 815
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-30T08:57:16.5532467+00:00",
-  "LastChanged_Achievements": "2023-12-30T09:09:41.7787378+00:00",
+  "LastChanged_Achievements": "2023-12-30T10:10:20.097439+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-30T08:57:16.5532472+00:00",
-  "LastUpdate_Achievements": "2023-12-30T09:09:41.7789003+00:00"
+  "LastUpdate_Ratings": "2023-12-30T09:57:22.49516+00:00",
+  "LastUpdate_Achievements": "2023-12-30T10:10:20.0976379+00:00"
 }

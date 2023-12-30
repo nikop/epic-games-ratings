@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 456,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -1465,9 +1465,9 @@
       "ID": "KILLKAHN",
       "SetID": "a1angca",
       "Name": "Eternal Oblivion",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "LOVECAJA",
@@ -1489,8 +1489,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2023-12-30T09:04:39.4163218+00:00",
+  "LastChanged_Achievements": "2023-12-30T10:05:37.6716515+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:36.6401654+00:00",
-  "LastUpdate_Ratings": "2023-12-30T08:58:21.7023515+00:00",
-  "LastUpdate_Achievements": "2023-12-30T09:04:39.4163567+00:00"
+  "LastUpdate_Ratings": "2023-12-30T09:59:00.1958141+00:00",
+  "LastUpdate_Achievements": "2023-12-30T10:05:37.6716851+00:00"
 }

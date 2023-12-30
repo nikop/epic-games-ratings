@@ -41,10 +41,10 @@ Number of Ratings: 292  (23.09.2022)
 | Fully Charged | 0.40% | ~3 |
 | Coming Through! | 0.40% | ~3 |
 | Barbecue | 0.40% | ~3 |
+| Oops! | 0.40% | ~3 |
 | The Marsh Expands | 0.40% | ~3 |
 | Cleave | 0.40% | ~3 |
 | Attack Bonanza | 0.20% | ~2 |
-| Oops! | 0.20% | ~2 |
 | Bringer of Ruin | 0.10% | ~1 |
 | Hello There | 0.10% | ~1 |
 | An Empress's Hope | 0.10% | ~1 |

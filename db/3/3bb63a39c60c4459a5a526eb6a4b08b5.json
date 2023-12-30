@@ -4,8 +4,8 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1053,
+  "EOS_Progressed": 1054,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4074,6 +4074,11 @@
       "Time": "2023-12-30T09:10:11.8964976+00:00",
       "NumProgressed": 1053,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T10:11:02.0656525+00:00",
+      "NumProgressed": 1054,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -4083,9 +4088,9 @@
       "ID": "ABigLuck",
       "SetID": "1e89b4i",
       "Name": "Great Luck",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 74
     },
     {
       "ID": "ActivePause",
@@ -4101,7 +4106,7 @@
       "Name": "Basic Controls",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "BigPlane",
@@ -4115,9 +4120,9 @@
       "ID": "BudgetFlight",
       "SetID": "1e89b4i",
       "Name": "Budget Flight",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 379
+      "UsersEstimate": 369
     },
     {
       "ID": "Calculated",
@@ -4221,7 +4226,7 @@
       "Name": "Large Airport",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "LargeTerritories",
@@ -4269,7 +4274,7 @@
       "Name": "Maximum Upgrade",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "Millionaire",
@@ -4355,9 +4360,9 @@
       "ID": "ResourceEconomy",
       "SetID": "1e89b4i",
       "Name": "Resource Economy",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 379
+      "UsersEstimate": 369
     },
     {
       "ID": "Restructuring",
@@ -4413,21 +4418,21 @@
       "Name": "Transport Hub",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1053,
+      "Progressed": 1054,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-12-30T09:10:11.8964973+00:00",
+  "LastChanged_Achievements": "2023-12-30T10:11:02.0656519+00:00",
   "LastUpdate_AppInfo": "2023-12-26T20:57:07.3165629+00:00",
-  "LastUpdate_Ratings": "2023-12-30T08:58:17.2241874+00:00",
-  "LastUpdate_Achievements": "2023-12-30T09:10:11.8965444+00:00"
+  "LastUpdate_Ratings": "2023-12-30T09:58:53.5945712+00:00",
+  "LastUpdate_Achievements": "2023-12-30T10:11:02.0656996+00:00"
 }

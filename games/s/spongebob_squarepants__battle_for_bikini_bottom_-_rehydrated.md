@@ -12,8 +12,8 @@ Number of Ratings: 76  (23.09.2022)
 | Jellyfishing | 10.00% | ~52 |
 | Sweet Victory | 9.00% | ~47 |
 | Time For Tutorial | 9.00% | ~47 |
-| Sock Getter | 8.00% | ~41 |
-| Star Smasher | 8.00% | ~41 |
+| Sock Getter | 8.00% | ~42 |
+| Star Smasher | 8.00% | ~42 |
 | Uptown and Downtown | 7.00% | ~36 |
 | Super Spatula Seeker | 7.00% | ~36 |
 | Squirrel Smasher | 7.00% | ~36 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Opera | 1.00% | ~5 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 518 (Ranked 339)  
+Progressed: 520 (Ranked 338)  
 Completed: 4 (0.77%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,10 +56,10 @@ Completed: 4 (0.77%) (Ranked 191)
 | 2023-12-27 | 435 | 3 |
 | 2023-12-28 | 466 | 3 |
 | 2023-12-29 | 502 | 4 |
-| 2023-12-30 | 518 | 4 |
+| 2023-12-30 | 520 | 4 |
 ## Awards
-Max (Great Boss Battles): 35  (Ranked 495)  
-Sum: 35 (Ranked 523)  
+Max (Great Boss Battles): 35  (Ranked 496)  
+Sum: 35 (Ranked 524)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |

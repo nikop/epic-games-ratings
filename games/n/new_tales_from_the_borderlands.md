@@ -23,7 +23,7 @@ Rating: 4.08 (Ranked 1,003)
 | ...To Heroes | 18.00% | ~679 |
 | Mas, Por Favor | 18.00% | ~679 |
 | And Still Champion... | 15.00% | ~566 |
-| Super Trusting Friend! | 9.00% | ~340 |
+| Super Trusting Friend! | 10.00% | ~377 |
 | Bring back the butt! | 4.00% | ~151 |
 | Hey, thanks! | 4.00% | ~151 |
 | Murderous Mascot Mayhem | 3.00% | ~113 |

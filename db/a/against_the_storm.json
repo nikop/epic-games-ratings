@@ -3677,9 +3677,9 @@
       "Count": 337
     }
   ],
-  "EOS_Progressed": 19669,
+  "EOS_Progressed": 19670,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 691,
+  "EOS_NewPlayers": 689,
   "EOS_NewCompleters": -4,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -17712,6 +17712,11 @@
       "Time": "2023-12-30T09:06:30.0015179+00:00",
       "NumProgressed": 19669,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-30T10:08:12.1533951+00:00",
+      "NumProgressed": 19670,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17820,7 +17825,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "WinImpossible",
@@ -17988,7 +17993,7 @@
       "Name": "Coral Forest",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "WinOnCursed",
@@ -18004,7 +18009,7 @@
       "Name": "The Marshlands",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "WinOnMoorlands",
@@ -18164,7 +18169,7 @@
       "Name": "Ominous Presence",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "WinNearStorms",
@@ -18172,7 +18177,7 @@
       "Name": "Gathering Storm",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -18195,15 +18200,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19669,
+      "Progressed": 19670,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-29T20:02:24.9867935+00:00",
-  "LastChanged_Achievements": "2023-12-30T09:06:30.0015176+00:00",
+  "LastChanged_Achievements": "2023-12-30T10:08:12.1533947+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-30T09:02:47.9757493+00:00",
-  "LastUpdate_Achievements": "2023-12-30T09:06:30.0016272+00:00"
+  "LastUpdate_Ratings": "2023-12-30T10:02:17.5951619+00:00",
+  "LastUpdate_Achievements": "2023-12-30T10:08:12.1535071+00:00"
 }

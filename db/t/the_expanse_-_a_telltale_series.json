@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17778,
+  "EOS_Progressed": 17779,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 629,
+  "EOS_NewPlayers": 627,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15647,6 +15647,11 @@
       "Time": "2023-12-30T09:05:56.9804387+00:00",
       "NumProgressed": 17778,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-30T10:07:25.3236288+00:00",
+      "NumProgressed": 17779,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15691,7 +15696,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2844
+      "UsersEstimate": 2845
     },
     {
       "ID": "14",
@@ -15779,7 +15784,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1245
     },
     {
       "ID": "24",
@@ -15938,13 +15943,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17778,
+      "Progressed": 17779,
       "Completed": 57
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3732,
+      "Progressed": 3733,
       "Completed": 1117
     }
   ],
@@ -15952,8 +15957,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-27T06:00:51.7325186+00:00",
-  "LastChanged_Achievements": "2023-12-30T09:05:56.9804384+00:00",
+  "LastChanged_Achievements": "2023-12-30T10:07:25.3236283+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-30T08:57:44.0261501+00:00",
-  "LastUpdate_Achievements": "2023-12-30T09:05:56.9805231+00:00"
+  "LastUpdate_Ratings": "2023-12-30T09:58:03.7939357+00:00",
+  "LastUpdate_Achievements": "2023-12-30T10:07:25.3237353+00:00"
 }

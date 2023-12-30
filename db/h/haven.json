@@ -2,13 +2,13 @@
   "ID": "2d831f372e6343cc85cceda5c9c808cf",
   "Name": "Haven",
   "ProductSlug": "haven",
-  "Ranking_Rating": 150,
+  "Ranking_Rating": 149,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -185,7 +185,7 @@
   "Tags": [],
   "EOS_Progressed": 1814,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3315,8 +3315,8 @@
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-30T09:06:10.7513053+00:00",
+  "LastChanged_Achievements": "2023-12-30T10:07:45.0245558+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.0357893+00:00",
-  "LastUpdate_Ratings": "2023-12-30T08:57:26.2920245+00:00",
-  "LastUpdate_Achievements": "2023-12-30T09:06:10.7513313+00:00"
+  "LastUpdate_Ratings": "2023-12-30T09:57:36.8323819+00:00",
+  "LastUpdate_Achievements": "2023-12-30T10:07:45.0245899+00:00"
 }

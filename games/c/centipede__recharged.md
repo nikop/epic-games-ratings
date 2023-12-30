@@ -13,7 +13,7 @@ Number of Ratings: 76  (23.09.2022)
 | Burning For You | 26.00% | ~6,330 |
 | Beat 'em Up | 24.00% | ~5,843 |
 | Still Burnin' | 17.00% | ~4,139 |
-| I Am The Storm | 16.00% | ~3,895 |
+| I Am The Storm | 16.00% | ~3,896 |
 | Deadline | 13.00% | ~3,165 |
 | Eyes On Fire | 11.00% | ~2,678 |
 | Don't Fear The Reaper | 10.00% | ~2,435 |
@@ -23,7 +23,7 @@ Number of Ratings: 76  (23.09.2022)
 | Shadow Warrior | 2.00% | ~487 |
 | Mirrors | 0.80% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,346 (Ranked 146)  
+Progressed: 24,347 (Ranked 146)  
 Completed: 118 (0.48%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 118 (0.48%) (Ranked 219)
 | 2023-12-27 | 24,194 | 118 |
 | 2023-12-28 | 24,252 | 118 |
 | 2023-12-29 | 24,313 | 118 |
-| 2023-12-30 | 24,346 | 118 |
+| 2023-12-30 | 24,347 | 118 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

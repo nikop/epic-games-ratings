@@ -2928,9 +2928,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 542602,
+  "EOS_Progressed": 542611,
   "EOS_Completed": 1661,
-  "EOS_NewPlayers": 920,
+  "EOS_NewPlayers": 922,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -31058,6 +31058,11 @@
       "Time": "2023-12-30T09:08:29.2739938+00:00",
       "NumProgressed": 542602,
       "NumCompleted": 1661
+    },
+    {
+      "Time": "2023-12-30T10:08:38.3917189+00:00",
+      "NumProgressed": 542611,
+      "NumCompleted": 1661
     }
   ],
   "TotalAchievements": 37,
@@ -31069,7 +31074,7 @@
       "Name": "Branded",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 70538
+      "UsersEstimate": 70539
     },
     {
       "ID": "COASTROCK",
@@ -31085,7 +31090,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 168207
+      "UsersEstimate": 168209
     },
     {
       "ID": "DEVOTED",
@@ -31125,7 +31130,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 450360
+      "UsersEstimate": 450367
     },
     {
       "ID": "HONED",
@@ -31165,7 +31170,7 @@
       "Name": "Storied",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 32556
+      "UsersEstimate": 32557
     },
     {
       "ID": "THE_ALKYMANCERY",
@@ -31173,7 +31178,7 @@
       "Name": "The Alkymancery",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 27130
+      "UsersEstimate": 27131
     },
     {
       "ID": "THE_BANQUET",
@@ -31181,7 +31186,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 217041
+      "UsersEstimate": 217044
     },
     {
       "ID": "THE_CASTLE",
@@ -31189,7 +31194,7 @@
       "Name": "The Castle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 59686
+      "UsersEstimate": 59687
     },
     {
       "ID": "THE_CAVE",
@@ -31197,7 +31202,7 @@
       "Name": "The Cave",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 43408
+      "UsersEstimate": 43409
     },
     {
       "ID": "THE_CONSTRUCT",
@@ -31205,7 +31210,7 @@
       "Name": "The Construct",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 32556
+      "UsersEstimate": 32557
     },
     {
       "ID": "THE_CRYPT",
@@ -31221,7 +31226,7 @@
       "Name": "The Dome",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 48834
+      "UsersEstimate": 48835
     },
     {
       "ID": "THE_FOREST",
@@ -31229,7 +31234,7 @@
       "Name": "The Forest",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 81390
+      "UsersEstimate": 81392
     },
     {
       "ID": "THE_IMPOSTER",
@@ -31237,7 +31242,7 @@
       "Name": "The Imposter",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 75964
+      "UsersEstimate": 75966
     },
     {
       "ID": "THE_IRON_ONES",
@@ -31245,7 +31250,7 @@
       "Name": "The Iron Ones",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 103094
+      "UsersEstimate": 103096
     },
     {
       "ID": "THE_KEEP",
@@ -31253,7 +31258,7 @@
       "Name": "The Keep",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 75964
+      "UsersEstimate": 75966
     },
     {
       "ID": "THE_LAKE",
@@ -31261,7 +31266,7 @@
       "Name": "The Lake",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 32556
+      "UsersEstimate": 32557
     },
     {
       "ID": "THE_MIRE",
@@ -31269,7 +31274,7 @@
       "Name": "The Mire",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 37982
+      "UsersEstimate": 37983
     },
     {
       "ID": "THE_PALACE",
@@ -31285,7 +31290,7 @@
       "Name": "The Pitchwoods",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 27130
+      "UsersEstimate": 27131
     },
     {
       "ID": "THE_RED_HALL",
@@ -31293,7 +31298,7 @@
       "Name": "The Red Hall",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 48834
+      "UsersEstimate": 48835
     },
     {
       "ID": "THE_RUINS",
@@ -31301,7 +31306,7 @@
       "Name": "The Ruins",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 32556
+      "UsersEstimate": 32557
     },
     {
       "ID": "THE_SACRIFICE",
@@ -31309,7 +31314,7 @@
       "Name": "The Sacrifice",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 48834
+      "UsersEstimate": 48835
     },
     {
       "ID": "THE_STONE_ROOTS",
@@ -31317,7 +31322,7 @@
       "Name": "The Stone Roots",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 37982
+      "UsersEstimate": 37983
     },
     {
       "ID": "THE_THREE",
@@ -31325,7 +31330,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 347265
+      "UsersEstimate": 347271
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -31341,7 +31346,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 92242
+      "UsersEstimate": 92244
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -31349,7 +31354,7 @@
       "Name": "The Ziggurat",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 43408
+      "UsersEstimate": 43409
     },
     {
       "ID": "WISE_WORDS",
@@ -31364,15 +31369,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 542602,
+      "Progressed": 542611,
       "Completed": 1661
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-12-30T08:02:58.7838495+00:00",
-  "LastChanged_Achievements": "2023-12-30T09:08:29.2739935+00:00",
+  "LastChanged_Achievements": "2023-12-30T10:08:38.3917185+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:32.7182261+00:00",
-  "LastUpdate_Ratings": "2023-12-30T09:02:59.6885088+00:00",
-  "LastUpdate_Achievements": "2023-12-30T09:08:29.2741644+00:00"
+  "LastUpdate_Ratings": "2023-12-30T10:03:14.9008849+00:00",
+  "LastUpdate_Achievements": "2023-12-30T10:08:38.3918824+00:00"
 }

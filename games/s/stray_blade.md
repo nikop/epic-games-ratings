@@ -14,21 +14,21 @@
 | Defeat Tezuth | 3.00% | ~4 |
 | Freezing Cold | 3.00% | ~4 |
 | Locked and Loaded | 3.00% | ~4 |
+| Searing Heat | 2.00% | ~3 |
+| Witch | 2.00% | ~3 |
 | The A-Team | 2.00% | ~3 |
-| Searing Heat | 1.00% | ~1 |
-| Witch | 1.00% | ~1 |
+| Expert | 2.00% | ~3 |
 | Can't touch this | 1.00% | ~1 |
 | A Deceiving Gift | 1.00% | ~1 |
-| Expert | 1.00% | ~1 |
 | The Golden Flash | 1.00% | ~1 |
 | The Power of the Mountains | 1.00% | ~1 |
+| Changing the World | 1.00% | ~1 |
 | Sponsor | 0.70% | ~1 |
 | Defeat Uskol | 0.70% | ~1 |
 | Nothing but the Truth | 0.70% | ~1 |
 | Trailblazer | 0.70% | ~1 |
 | Finally! | 0.70% | ~1 |
 | Unveiling the Truth | 0.70% | ~1 |
-| Changing the World | 0.70% | ~1 |
 | Small Setback | 0.70% | ~1 |
 | Mirror, Mirror on the Wall | 0.00% | ~0 |
 | Style over Stats | 0.00% | ~0 |
@@ -57,7 +57,7 @@
 | Whispers of the Sand | 0.00% | ~0 |
 | Lost and Found | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147 (Ranked 446)  
+Progressed: 148 (Ranked 446)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,6 +157,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-26 | 145 | 0 |
 | 2023-12-27 | 146 | 0 |
 | 2023-12-29 | 147 | 0 |
+| 2023-12-30 | 148 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -43,10 +43,10 @@
 | Yngrid's Tale | 8.00% | ~8 |
 | A Joke | 8.00% | ~8 |
 | Defeat Hokan | 7.00% | ~7 |
+| Defeat Uram | 7.00% | ~7 |
 | Elynn's Tale | 7.00% | ~7 |
 | The Forge of Regan Gor | 7.00% | ~7 |
 | Defeat Undergast | 6.00% | ~6 |
-| Defeat Uram | 6.00% | ~6 |
 | Lore's Tale | 6.00% | ~6 |
 | Tuscari Sea Portal | 6.00% | ~6 |
 | Master Artificer | 6.00% | ~6 |

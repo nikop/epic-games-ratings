@@ -12,11 +12,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 6.00% | ~1,180 |
 | No Deaths | 6.00% | ~1,180 |
 | Petrified Necropolis | 6.00% | ~1,180 |
-| Overcoming Difficulty | 5.00% | ~983 |
-| Coral Forest | 5.00% | ~983 |
-| The Marshlands | 5.00% | ~983 |
-| Ominous Presence | 5.00% | ~983 |
-| Gathering Storm | 5.00% | ~983 |
+| Overcoming Difficulty | 5.00% | ~984 |
+| Coral Forest | 5.00% | ~984 |
+| The Marshlands | 5.00% | ~984 |
+| Ominous Presence | 5.00% | ~984 |
+| Gathering Storm | 5.00% | ~984 |
 | The Scarlet Orchard | 4.00% | ~787 |
 | Frosts | 4.00% | ~787 |
 | Land of Greed | 4.00% | ~787 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,669 (Ranked 151)  
+Progressed: 19,670 (Ranked 151)  
 Completed: 35 (0.18%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 35 (0.18%) (Ranked 278)
 | 2023-12-27 | 19,458 | 38 |
 | 2023-12-28 | 19,536 | 36 |
 | 2023-12-29 | 19,630 | 36 |
-| 2023-12-30 | 19,669 | 35 |
+| 2023-12-30 | 19,670 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 446  (Ranked 229)  
 Sum: 3,306 (Ranked 176)  

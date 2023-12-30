@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1015,9 +1015,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7745,
+  "EOS_Progressed": 7749,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 337,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12695,6 +12695,11 @@
       "Time": "2023-12-30T09:04:23.8939536+00:00",
       "NumProgressed": 7745,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T10:05:15.8625874+00:00",
+      "NumProgressed": 7749,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -12722,7 +12727,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -12746,7 +12751,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -13025,13 +13030,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7745,
+      "Progressed": 7749,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7117,
+      "Progressed": 7121,
       "Completed": 113
     }
   ],
@@ -13039,8 +13044,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-26T19:00:49.2434236+00:00",
-  "LastChanged_Achievements": "2023-12-30T09:04:23.8939534+00:00",
+  "LastChanged_Achievements": "2023-12-30T10:05:15.8625866+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:25.278975+00:00",
-  "LastUpdate_Ratings": "2023-12-30T08:58:01.6904111+00:00",
-  "LastUpdate_Achievements": "2023-12-30T09:04:23.8940149+00:00"
+  "LastUpdate_Ratings": "2023-12-30T09:58:30.2938045+00:00",
+  "LastUpdate_Achievements": "2023-12-30T10:05:15.8626632+00:00"
 }

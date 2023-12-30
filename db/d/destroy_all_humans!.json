@@ -1143,9 +1143,9 @@
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
       "SetID": "cefn62b",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -1407,8 +1407,8 @@
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2023-12-30T09:06:06.314986+00:00",
+  "LastChanged_Achievements": "2023-12-30T10:07:38.6552474+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:18.8290018+00:00",
-  "LastUpdate_Ratings": "2023-12-30T08:59:39.6864971+00:00",
-  "LastUpdate_Achievements": "2023-12-30T09:06:06.3150146+00:00"
+  "LastUpdate_Ratings": "2023-12-30T10:00:57.2630605+00:00",
+  "LastUpdate_Achievements": "2023-12-30T10:07:38.6552733+00:00"
 }

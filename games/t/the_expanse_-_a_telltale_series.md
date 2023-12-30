@@ -5,7 +5,7 @@ Rating: 4.56 (Ranked 500)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 16.00% | ~2,844 |
+| Oyedang, Kopengs | 16.00% | ~2,845 |
 | Captain Drummer | 12.00% | ~2,133 |
 | Celebrations are in Order | 12.00% | ~2,133 |
 | The Pit and the Pirates | 11.00% | ~1,956 |
@@ -19,7 +19,7 @@ Rating: 4.56 (Ranked 500)
 | Call it Even | 8.00% | ~1,422 |
 | Safe Cracker | 8.00% | ~299 |
 | Madame Undersecretary | 8.00% | ~299 |
-| Heal Thy Medic | 7.00% | ~1,244 |
+| Heal Thy Medic | 7.00% | ~1,245 |
 | Keep Arjun in Check | 7.00% | ~261 |
 | Data Archivist | 6.00% | ~1,067 |
 | Drug Gifter | 6.00% | ~1,067 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 500)
 | Scavenger Star | 0.30% | ~53 |
 | Data Collector | 0.20% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,778 (Ranked 157)  
+Progressed: 17,779 (Ranked 157)  
 Completed: 57 (0.32%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 57 (0.32%) (Ranked 248)
 | 2023-12-27 | 17,604 | 54 |
 | 2023-12-28 | 17,675 | 56 |
 | 2023-12-29 | 17,756 | 57 |
-| 2023-12-30 | 17,778 | 57 |
+| 2023-12-30 | 17,779 | 57 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

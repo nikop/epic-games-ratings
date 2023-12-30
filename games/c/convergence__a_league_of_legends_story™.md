@@ -6,25 +6,25 @@ Rating: 4.65 (Ranked 323)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 42.00% | ~485 |
-| Rail Rat | 32.00% | ~369 |
+| Rail Rat | 32.00% | ~370 |
 | The Mysterious Stranger | 31.00% | ~358 |
-| Immaculate Aim | 27.00% | ~312 |
+| Immaculate Aim | 26.00% | ~300 |
 | The Brass Boss | 26.00% | ~300 |
-| The Prince in Heels | 25.00% | ~288 |
+| The Prince in Heels | 25.00% | ~289 |
 | Make Up For Lost Time | 24.00% | ~277 |
 | Time Flies | 24.00% | ~277 |
 | No, Thanks! | 24.00% | ~277 |
 | Honest Mistake | 24.00% | ~277 |
 | Immaculate Aim | 24.00% | ~277 |
-| The Harder They Fall | 23.00% | ~265 |
-| Breaking Down Barriers | 23.00% | ~265 |
-| Fast Learner | 23.00% | ~265 |
+| The Harder They Fall | 23.00% | ~266 |
+| Breaking Down Barriers | 23.00% | ~266 |
+| Fast Learner | 23.00% | ~266 |
 | The Steel Shadow | 22.00% | ~254 |
 | The Wicked Twins | 22.00% | ~254 |
-| Right On Time | 21.00% | ~242 |
-| Like Clockwork | 21.00% | ~242 |
-| The Betrayer | 21.00% | ~242 |
-| Golem Chaser | 21.00% | ~242 |
+| Right On Time | 21.00% | ~243 |
+| Like Clockwork | 21.00% | ~243 |
+| The Betrayer | 21.00% | ~243 |
+| Golem Chaser | 21.00% | ~243 |
 | The Loose Cannon | 19.00% | ~219 |
 | Check Your Pulse | 19.00% | ~219 |
 | The Man Who Shattered Time | 18.00% | ~208 |
@@ -36,11 +36,11 @@ Rating: 4.65 (Ranked 323)
 | Family Memories | 13.00% | ~150 |
 | Cartographer | 13.00% | ~150 |
 | Ask Questions Later | 13.00% | ~150 |
-| Chaincrawler Explorer | 12.00% | ~138 |
-| Syron for Hope | 12.00% | ~138 |
+| Chaincrawler Explorer | 12.00% | ~139 |
+| Syron for Hope | 12.00% | ~139 |
 | Sump Explorer | 11.00% | ~127 |
-| Factorywood Explorer | 10.00% | ~115 |
-| Theater Explorer | 10.00% | ~115 |
+| Factorywood Explorer | 10.00% | ~116 |
+| Theater Explorer | 10.00% | ~116 |
 | Cultivair Explorer | 9.00% | ~104 |
 | Fairgrounds Explorer | 9.00% | ~104 |
 | Corin Goes Home | 8.00% | ~92 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 323)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,154 (Ranked 280)  
+Progressed: 1,155 (Ranked 280)  
 Completed: 6 (0.52%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 6 (0.52%) (Ranked 214)
 | 2023-12-27 | 1,130 | 6 |
 | 2023-12-28 | 1,136 | 6 |
 | 2023-12-29 | 1,145 | 6 |
-| 2023-12-30 | 1,154 | 6 |
+| 2023-12-30 | 1,155 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

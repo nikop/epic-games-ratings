@@ -6,36 +6,36 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 5.00% | ~56,438 |
-| Skillful | 5.00% | ~56,438 |
-| Zealous | 4.00% | ~45,150 |
-| Not half bad | 4.00% | ~45,150 |
-| Make Some Noise | 4.00% | ~45,150 |
-| No one left behind | 3.00% | ~33,862 |
-| Handyman | 3.00% | ~33,862 |
-| Apt Survivor | 3.00% | ~33,862 |
-| Survival Treasures | 3.00% | ~33,862 |
-| I | 3.00% | ~33,862 |
-| Sorted | 3.00% | ~33,862 |
-| Resurgence | 3.00% | ~33,862 |
-| The Grand Sacrifice | 2.00% | ~22,575 |
-| Agonizing Escape | 2.00% | ~22,575 |
-| Backdoor Escape | 2.00% | ~22,575 |
-| I've got your back | 2.00% | ~22,575 |
-| Medic | 2.00% | ~22,575 |
-| Perfect Escape | 2.00% | ~22,575 |
-| Perfect Killing | 2.00% | ~22,575 |
-| Bloody Millionaire | 2.00% | ~22,575 |
-| Apt Killer | 2.00% | ~22,575 |
-| Risk it all | 2.00% | ~22,575 |
-| II | 2.00% | ~22,575 |
-| III | 2.00% | ~22,575 |
-| Engineer | 2.00% | ~22,575 |
-| Wounded Healer | 2.00% | ~22,575 |
-| Healthy Obsession | 2.00% | ~22,575 |
-| Close Shave | 2.00% | ~22,575 |
-| Preemptive Strike | 2.00% | ~22,575 |
-| Humanitarian | 2.00% | ~22,575 |
+| It wakes | 5.00% | ~56,441 |
+| Skillful | 5.00% | ~56,441 |
+| Zealous | 4.00% | ~45,153 |
+| Not half bad | 4.00% | ~45,153 |
+| Make Some Noise | 4.00% | ~45,153 |
+| No one left behind | 3.00% | ~33,865 |
+| Handyman | 3.00% | ~33,865 |
+| Apt Survivor | 3.00% | ~33,865 |
+| Survival Treasures | 3.00% | ~33,865 |
+| I | 3.00% | ~33,865 |
+| Sorted | 3.00% | ~33,865 |
+| Resurgence | 3.00% | ~33,865 |
+| The Grand Sacrifice | 2.00% | ~22,576 |
+| Agonizing Escape | 2.00% | ~22,576 |
+| Backdoor Escape | 2.00% | ~22,576 |
+| I've got your back | 2.00% | ~22,576 |
+| Medic | 2.00% | ~22,576 |
+| Perfect Escape | 2.00% | ~22,576 |
+| Perfect Killing | 2.00% | ~22,576 |
+| Bloody Millionaire | 2.00% | ~22,576 |
+| Apt Killer | 2.00% | ~22,576 |
+| Risk it all | 2.00% | ~22,576 |
+| II | 2.00% | ~22,576 |
+| III | 2.00% | ~22,576 |
+| Engineer | 2.00% | ~22,576 |
+| Wounded Healer | 2.00% | ~22,576 |
+| Healthy Obsession | 2.00% | ~22,576 |
+| Close Shave | 2.00% | ~22,576 |
+| Preemptive Strike | 2.00% | ~22,576 |
+| Humanitarian | 2.00% | ~22,576 |
 | Blood on your hands | 1.00% | ~11,288 |
 | Escape Artist | 1.00% | ~11,288 |
 | Made it out alive! | 1.00% | ~11,288 |
@@ -73,26 +73,26 @@ Number of Ratings: 70,340  (23.09.2022)
 | Grim Pilgrimage | 0.90% | ~10,159 |
 | A Fast Death | 0.90% | ~10,159 |
 | Outta Nowhere | 0.90% | ~10,159 |
-| A bite for the Entity | 0.80% | ~9,030 |
-| Leapfrog | 0.80% | ~9,030 |
-| Escaping the Nightmare | 0.80% | ~9,030 |
-| Outrun the Overlap | 0.80% | ~9,030 |
-| Extraterrestrial | 0.80% | ~9,030 |
-| Hemophobia | 0.70% | ~7,901 |
-| Serial Killer | 0.70% | ~7,901 |
-| Devoted Gatekeeping | 0.70% | ~7,901 |
-| Shrine Apparatus | 0.70% | ~7,901 |
-| Broken Bodies | 0.70% | ~7,901 |
-| Selfless Survival | 0.70% | ~7,901 |
-| End of Days | 0.70% | ~7,901 |
-| Insult and Injury | 0.70% | ~7,901 |
-| Rebuilding The Borgo | 0.70% | ~7,901 |
-| Jump Scares | 0.60% | ~6,772 |
-| Game Over | 0.60% | ~6,772 |
-| Party Crasher | 0.60% | ~6,772 |
-| I See You | 0.60% | ~6,772 |
-| High Speed Pursuit | 0.60% | ~6,772 |
-| Complete the Evolution | 0.60% | ~6,772 |
+| A bite for the Entity | 0.80% | ~9,031 |
+| Leapfrog | 0.80% | ~9,031 |
+| Escaping the Nightmare | 0.80% | ~9,031 |
+| Outrun the Overlap | 0.80% | ~9,031 |
+| Extraterrestrial | 0.80% | ~9,031 |
+| Hemophobia | 0.70% | ~7,902 |
+| Serial Killer | 0.70% | ~7,902 |
+| Devoted Gatekeeping | 0.70% | ~7,902 |
+| Shrine Apparatus | 0.70% | ~7,902 |
+| Broken Bodies | 0.70% | ~7,902 |
+| Selfless Survival | 0.70% | ~7,902 |
+| End of Days | 0.70% | ~7,902 |
+| Insult and Injury | 0.70% | ~7,902 |
+| Rebuilding The Borgo | 0.70% | ~7,902 |
+| Jump Scares | 0.60% | ~6,773 |
+| Game Over | 0.60% | ~6,773 |
+| Party Crasher | 0.60% | ~6,773 |
+| I See You | 0.60% | ~6,773 |
+| High Speed Pursuit | 0.60% | ~6,773 |
+| Complete the Evolution | 0.60% | ~6,773 |
 | Blood in your mouth | 0.50% | ~5,644 |
 | Deep Cleansing | 0.50% | ~5,644 |
 | Texas BBQ | 0.50% | ~5,644 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,129 |
 | Adept Good Guy | 0.10% | ~1,129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,128,750 (Ranked 13)  
+Progressed: 1,128,817 (Ranked 13)  
 Completed: 65 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -493,7 +493,7 @@ Completed: 65 (0.01%) (Ranked 368)
 | 2023-12-27 | 1,123,455 | 65 |
 | 2023-12-28 | 1,125,623 | 65 |
 | 2023-12-29 | 1,127,985 | 65 |
-| 2023-12-30 | 1,128,750 | 65 |
+| 2023-12-30 | 1,128,817 | 65 |
 ## Awards
 Max (Diverse Characters): 38,806  (Ranked 15)  
 Sum: 293,262 (Ranked 12)  

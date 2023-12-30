@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1851,
+  "EOS_Progressed": 1853,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 3.78,
   "EosHistory": [
@@ -4104,6 +4104,11 @@
       "Time": "2023-12-30T07:09:30.4201675+00:00",
       "NumProgressed": 1851,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-30T10:10:43.8239181+00:00",
+      "NumProgressed": 1853,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 16,
@@ -4171,7 +4176,7 @@
       "Name": "Home Leaver",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1464
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -4179,7 +4184,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1464
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -4195,7 +4200,7 @@
       "Name": "Music for Cows",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ACH_OUTSIDEWORLDSEER",
@@ -4203,7 +4208,7 @@
       "Name": "Outside World Seer",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -4219,7 +4224,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "ACH_THEEND",
@@ -4242,7 +4247,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1851,
+      "Progressed": 1853,
       "Completed": 70
     }
   ],
@@ -4250,8 +4255,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-30T09:09:58.5863439+00:00",
+  "LastChanged_Achievements": "2023-12-30T10:10:43.8239175+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:44.3535234+00:00",
-  "LastUpdate_Ratings": "2023-12-30T08:58:45.3051783+00:00",
-  "LastUpdate_Achievements": "2023-12-30T09:09:58.5863706+00:00"
+  "LastUpdate_Ratings": "2023-12-30T09:59:36.1633095+00:00",
+  "LastUpdate_Achievements": "2023-12-30T10:10:43.8239541+00:00"
 }

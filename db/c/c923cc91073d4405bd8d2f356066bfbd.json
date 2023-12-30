@@ -2,10 +2,10 @@
   "ID": "c923cc91073d4405bd8d2f356066bfbd",
   "Name": "Burst Hero",
   "ProductSlug": "bursthero-dd5a56",
-  "Ranking_EOS_Progress": 664,
+  "Ranking_EOS_Progress": 660,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 428,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 414,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-29T00:00:00+00:00",
     "PcReleaseDate": "2023-05-14T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -59,6 +59,11 @@
       "Time": "2023-12-29T23:06:04.1075759+00:00",
       "NumProgressed": 7,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T10:08:18.3275754+00:00",
+      "NumProgressed": 8,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-17T12:04:51.9829669+00:00",
@@ -69,7 +74,7 @@
       "ID": "ACED",
       "SetID": "1fek4an",
       "Name": "ACED!",
-      "Percentage": 43,
+      "Percentage": 38,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -77,7 +82,7 @@
       "ID": "CHALLENGER",
       "SetID": "1fek4an",
       "Name": "New Challenger",
-      "Percentage": 71,
+      "Percentage": 63,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -85,7 +90,7 @@
       "ID": "CHALLENGER_CHAOS",
       "SetID": "1fek4an",
       "Name": "Chaos Challenger",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -93,7 +98,7 @@
       "ID": "COMBO_BULLETSIZE",
       "SetID": "1fek4an",
       "Name": "Hands Up",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -101,7 +106,7 @@
       "ID": "COMBO_CRIT",
       "SetID": "1fek4an",
       "Name": "Lock the Head",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -117,7 +122,7 @@
       "ID": "COMBO_DRONE",
       "SetID": "1fek4an",
       "Name": "Skynet",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -125,7 +130,7 @@
       "ID": "COMBO_HP",
       "SetID": "1fek4an",
       "Name": "Steel Egg",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -165,7 +170,7 @@
       "ID": "FROG_KILLER",
       "SetID": "1fek4an",
       "Name": "Frog Killer",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -261,7 +266,7 @@
       "ID": "HEROSTAR_M",
       "SetID": "1fek4an",
       "Name": "Graduate(Merc)",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -341,7 +346,7 @@
       "ID": "LEVEL_COMPLETE_0_0",
       "SetID": "1fek4an",
       "Name": "Grass",
-      "Percentage": 71,
+      "Percentage": 63,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -373,7 +378,7 @@
       "ID": "LEVEL_COMPLETE_0_4",
       "SetID": "1fek4an",
       "Name": "Grass(L4)",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -389,7 +394,7 @@
       "ID": "LEVEL_COMPLETE_1_0",
       "SetID": "1fek4an",
       "Name": "Boneyard",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -437,7 +442,7 @@
       "ID": "LEVEL_COMPLETE_2_0",
       "SetID": "1fek4an",
       "Name": "Castle",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -549,7 +554,7 @@
       "ID": "MISS",
       "SetID": "1fek4an",
       "Name": "MISS!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -581,7 +586,7 @@
       "ID": "SHOP_LEVEL_UP_COMBO_2",
       "SetID": "1fek4an",
       "Name": "Level Skip",
-      "Percentage": 43,
+      "Percentage": 38,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -589,7 +594,7 @@
       "ID": "SHOP_LEVEL_UP_COMBO_MAX",
       "SetID": "1fek4an",
       "Name": "One Step",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -605,7 +610,7 @@
       "ID": "TEAMWORK",
       "SetID": "1fek4an",
       "Name": "Teamwork",
-      "Percentage": 71,
+      "Percentage": 63,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -622,14 +627,14 @@
     {
       "ID": "1fek4an",
       "IsBase": true,
-      "Progressed": 7,
+      "Progressed": 8,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2023-12-30T09:06:34.2887305+00:00",
+  "LastChanged_Achievements": "2023-12-30T10:08:18.3275748+00:00",
   "LastUpdate_AppInfo": "2023-12-27T12:59:42.9426347+00:00",
-  "LastUpdate_Ratings": "2023-12-30T08:57:40.2652213+00:00",
-  "LastUpdate_Achievements": "2023-12-30T09:06:34.2887821+00:00"
+  "LastUpdate_Ratings": "2023-12-30T09:57:58.1859515+00:00",
+  "LastUpdate_Achievements": "2023-12-30T10:08:18.3276285+00:00"
 }

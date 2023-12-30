@@ -39,7 +39,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Terminus of Fate | 33.00% | ~26,941 |
 | Path of the Ninja | 33.00% | ~26,941 |
 | His Name Is Garland | 33.00% | ~26,941 |
-| Path of the Assassin | 31.00% | ~25,308 |
+| Path of the Assassin | 32.00% | ~26,125 |
 | Seeker of Ultimate Power | 23.00% | ~18,777 |
 | Artifact Collector | 22.00% | ~17,961 |
 | Polymath | 22.00% | ~17,961 |
@@ -54,7 +54,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | A Tale of Origins and Endings | 2.00% | ~1,633 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 81,640 (Ranked 105)  
-Completed: 2,214 (2.71%) (Ranked 118)  
+Completed: 2,214 (2.71%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "botanicula-50043d",
   "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 165,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.21,
   "EosHistory": [
@@ -724,9 +724,9 @@
       "ID": "Ach-01-balonek",
       "SetID": "2pjo9pi",
       "Name": "Balonek",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "Ach-01-brambora",
@@ -756,9 +756,9 @@
       "ID": "Ach-01-soukac",
       "SetID": "2pjo9pi",
       "Name": "Soukac",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "Ach-01-ulita",
@@ -788,49 +788,49 @@
       "ID": "Ach-02-hopik",
       "SetID": "2pjo9pi",
       "Name": "Hopik",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "Ach-02-nosal",
       "SetID": "2pjo9pi",
       "Name": "Nosal",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 89
     },
     {
       "ID": "Ach-02-orchestrion",
       "SetID": "2pjo9pi",
       "Name": "Orchestrion",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "Ach-02-parazit",
       "SetID": "2pjo9pi",
       "Name": "Parazit",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Ach-02-strasilka",
       "SetID": "2pjo9pi",
       "Name": "Strasilka",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "Ach-02-tykvovec",
       "SetID": "2pjo9pi",
       "Name": "Tykvovec",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Ach-02-zlo",
@@ -1155,8 +1155,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2023-12-30T09:09:09.496492+00:00",
+  "LastChanged_Achievements": "2023-12-30T10:09:34.8674609+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:05.6352108+00:00",
-  "LastUpdate_Ratings": "2023-12-30T08:58:53.0273266+00:00",
-  "LastUpdate_Achievements": "2023-12-30T09:09:09.4965311+00:00"
+  "LastUpdate_Ratings": "2023-12-30T09:59:47.6163983+00:00",
+  "LastUpdate_Achievements": "2023-12-30T10:09:34.8675176+00:00"
 }

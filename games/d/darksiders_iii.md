@@ -1,25 +1,25 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.49 (Ranked 630)  
+Rating: 4.49 (Ranked 631)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 78.00% | ~233 |
-| First of many… | 69.00% | ~206 |
-| Helping Hand | 66.00% | ~197 |
-| Increased Vigor | 60.00% | ~179 |
-| Fight Fire with Fire | 57.00% | ~170 |
-| Increased Capacity | 54.00% | ~161 |
-| Just the start | 51.00% | ~152 |
+| Green with Envy | 78.00% | ~234 |
+| First of many… | 70.00% | ~210 |
+| Helping Hand | 66.00% | ~198 |
+| Increased Vigor | 60.00% | ~180 |
+| Fight Fire with Fire | 57.00% | ~171 |
+| Increased Capacity | 53.00% | ~159 |
+| Just the start | 50.00% | ~150 |
 | Perfect Storm | 46.00% | ~138 |
 | All That Glitters | 45.00% | ~135 |
 | Enhance! | 43.00% | ~129 |
 | One Of the Chosen | 41.00% | ~123 |
+| Throne Potato | 40.00% | ~120 |
 | Devil's in the Details | 39.00% | ~117 |
-| Throne Potato | 39.00% | ~117 |
-| Five's a Crowd | 38.00% | ~114 |
+| Five's a Crowd | 39.00% | ~117 |
 | 25 to Life | 38.00% | ~114 |
 | Soul Harvester | 36.00% | ~108 |
 | Salvation | 36.00% | ~108 |
@@ -28,7 +28,7 @@ Number of Ratings: 116  (23.09.2022)
 | Delusions of Grandeur | 31.00% | ~93 |
 | Maximum Vigor | 30.00% | ~90 |
 | Love Tap | 30.00% | ~90 |
-| Freeze Frame | 27.00% | ~81 |
+| Freeze Frame | 28.00% | ~84 |
 | Eat Your Heart Out | 27.00% | ~81 |
 | For Whom the Bell Tolls | 27.00% | ~81 |
 | Unyielding Strength | 24.00% | ~72 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 0.70% | ~2 |
 | Beast Mode | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 299 (Ranked 385)  
+Progressed: 300 (Ranked 385)  
 Completed: 1 (0.33%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 1 (0.33%) (Ranked 245)
 | 2023-12-27 | 247 | 1 |
 | 2023-12-28 | 265 | 1 |
 | 2023-12-29 | 293 | 1 |
-| 2023-12-30 | 299 | 1 |
+| 2023-12-30 | 300 | 1 |
 ## Awards
 Max (Great Boss Battles): 94  (Ranked 387)  
 Sum: 94 (Ranked 467)  

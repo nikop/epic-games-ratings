@@ -1,22 +1,22 @@
 # Eternights
 [Store](https://store.epicgames.com/en-US/p/eternights-c2fbca)  
 [View Rawdata](../../db/e/eternights.json)  
-Rating: 4.75 (Ranked 150)  
+Rating: 4.75 (Ranked 149)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New arm | 77.00% | ~537 |
-| Shelter Escape | 75.00% | ~524 |
-| The First Bond | 65.00% | ~454 |
-| Novice Scavenger | 58.00% | ~405 |
-| Master Craftsman | 47.00% | ~328 |
-| First wall | 46.00% | ~321 |
-| Piggyback Expert | 44.00% | ~307 |
-| Second wall | 33.00% | ~230 |
-| Expert Scavenger | 31.00% | ~216 |
-| Their Rock | 27.00% | ~188 |
-| Yuna's Promise | 26.00% | ~181 |
-| Stone Retriever | 26.00% | ~181 |
+| New arm | 77.00% | ~539 |
+| Shelter Escape | 75.00% | ~525 |
+| The First Bond | 65.00% | ~455 |
+| Novice Scavenger | 58.00% | ~406 |
+| Master Craftsman | 46.00% | ~322 |
+| First wall | 46.00% | ~322 |
+| Piggyback Expert | 44.00% | ~308 |
+| Second wall | 32.00% | ~224 |
+| Expert Scavenger | 31.00% | ~217 |
+| Their Rock | 27.00% | ~189 |
+| Yuna's Promise | 26.00% | ~182 |
+| Stone Retriever | 26.00% | ~182 |
 | Find myself | 24.00% | ~168 |
 | Min's Promise | 18.00% | ~126 |
 | Truebro | 18.00% | ~126 |
@@ -31,7 +31,7 @@ Rating: 4.75 (Ranked 150)
 | Dreamboat | 1.00% | ~7 |
 | Bond Lord | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 698 (Ranked 311)  
+Progressed: 700 (Ranked 311)  
 Completed: 2 (0.29%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 2 (0.29%) (Ranked 256)
 | 2023-12-27 | 665 | 2 |
 | 2023-12-28 | 674 | 2 |
 | 2023-12-29 | 690 | 2 |
-| 2023-12-30 | 698 | 2 |
+| 2023-12-30 | 700 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

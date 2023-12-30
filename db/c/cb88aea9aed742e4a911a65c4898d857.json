@@ -5,10 +5,10 @@
   "Ranking_Rating": 298,
   "Ranking_Popularity": 420,
   "Ranking_PopularitySum": 488,
-  "Ranking_EOS_Progress": 184,
+  "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -215,9 +215,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 8762,
+  "EOS_Progressed": 8778,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2203,
+  "EOS_NewPlayers": 2201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2950,6 +2950,11 @@
       "Time": "2023-12-30T09:09:57.8507593+00:00",
       "NumProgressed": 8762,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T10:10:42.7355761+00:00",
+      "NumProgressed": 8778,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -2970,15 +2975,15 @@
       "Name": "Stolen Star",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "04_TheTradeEmpire",
       "SetID": "37a94m8",
       "Name": "Trade Empire",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 70
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -3056,9 +3061,9 @@
       "ID": "14_TheBreezeOfPain",
       "SetID": "37a94m8",
       "Name": "Fear Not Obliteration",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 79
     },
     {
       "ID": "15_Pentakill",
@@ -3074,7 +3079,7 @@
       "Name": "The Rise",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "17_TheExemplar",
@@ -3090,7 +3095,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "19_TheVoidWolf",
@@ -3122,23 +3127,23 @@
       "Name": "Perfect Timing",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "23_DynastyRestored",
       "SetID": "37a94m8",
       "Name": "The Dynasty Restored",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 79
     },
     {
       "ID": "24_TheHighrise",
       "SetID": "37a94m8",
       "Name": "Highrise",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 44
     },
     {
       "ID": "25_DynastyProspers",
@@ -3170,7 +3175,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -3314,7 +3319,7 @@
       "Name": "A Spark",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "47_AFlame",
@@ -3464,9 +3469,9 @@
       "ID": "65_TheImperialRoute",
       "SetID": "37a94m8",
       "Name": "Imperial Route",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "66_TheDeepestConviction",
@@ -3481,7 +3486,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8762,
+      "Progressed": 8778,
       "Completed": 0
     }
   ],
@@ -3489,8 +3494,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-30T04:58:20.1392626+00:00",
-  "LastChanged_Achievements": "2023-12-30T09:09:57.8507591+00:00",
+  "LastChanged_Achievements": "2023-12-30T10:10:42.7355756+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-30T08:58:31.6487439+00:00",
-  "LastUpdate_Achievements": "2023-12-30T09:09:57.8508278+00:00"
+  "LastUpdate_Ratings": "2023-12-30T09:59:15.7762588+00:00",
+  "LastUpdate_Achievements": "2023-12-30T10:10:42.7356503+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "picklock-33eab8",
   "Ranking_EOS_Progress": 523,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 382,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2020-05-07T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 63,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -408,17 +408,17 @@
       "ID": "ach_picklock17",
       "SetID": "753ghg2",
       "Name": "Transport company",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_picklock18",
       "SetID": "753ghg2",
       "Name": "Clothing store",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_picklock19",
@@ -543,8 +543,8 @@
   ],
   "FirstSeen": "2023-11-03T03:57:37.1640095+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2023-12-30T09:10:04.1668676+00:00",
+  "LastChanged_Achievements": "2023-12-30T10:10:51.5750759+00:00",
   "LastUpdate_AppInfo": "2023-12-27T09:57:10.9685369+00:00",
-  "LastUpdate_Ratings": "2023-12-30T08:58:01.1102824+00:00",
-  "LastUpdate_Achievements": "2023-12-30T09:10:04.1668886+00:00"
+  "LastUpdate_Ratings": "2023-12-30T09:58:29.3422933+00:00",
+  "LastUpdate_Achievements": "2023-12-30T10:10:51.5750897+00:00"
 }

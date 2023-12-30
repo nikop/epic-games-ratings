@@ -3,9 +3,9 @@
   "Name": "Nocturnal",
   "ProductSlug": "nocturnal-ef3fa0",
   "Ranking_EOS_Progress": 535,
-  "Ranking_EOS_Completed": 139,
+  "Ranking_EOS_Completed": 100,
   "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-06-07T15:00:00+00:00",
     "PcReleaseDate": "2023-06-07T15:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 55,
-  "EOS_Completed": 1,
+  "EOS_Completed": 2,
   "EOS_NewPlayers": 8,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.82,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 3.64,
   "EosHistory": [
     {
       "Time": "2023-06-12T20:01:31.4959965+00:00",
@@ -309,6 +309,11 @@
       "Time": "2023-12-30T08:10:35.8788668+00:00",
       "NumProgressed": 55,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T10:10:53.4700444+00:00",
+      "NumProgressed": 55,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 11,
@@ -326,9 +331,9 @@
       "ID": "Nocturnal_Achivement_11_FireShrine",
       "SetID": "329ifed",
       "Name": "No Stone Unturned",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 150,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Nocturnal_Achivement_1_Flame",
@@ -390,9 +395,9 @@
       "ID": "Nocturnal_Achivement_8_End",
       "SetID": "329ifed",
       "Name": "A Grim Farewell",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 200,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Nocturnal_Achivement_9_Torches",
@@ -408,13 +413,13 @@
       "ID": "329ifed",
       "IsBase": true,
       "Progressed": 55,
-      "Completed": 1
+      "Completed": 2
     }
   ],
   "FirstSeen": "2023-07-26T23:57:21.2236192+00:00",
   "FirstSeenAchievements": "2023-06-12T15:00:06.5838251+00:00",
-  "LastChanged_Achievements": "2023-12-30T09:10:05.6086901+00:00",
+  "LastChanged_Achievements": "2023-12-30T10:10:53.4700442+00:00",
   "LastUpdate_AppInfo": "2023-12-26T05:57:26.1982716+00:00",
-  "LastUpdate_Ratings": "2023-12-30T08:57:36.9791761+00:00",
-  "LastUpdate_Achievements": "2023-12-30T09:10:05.6086998+00:00"
+  "LastUpdate_Ratings": "2023-12-30T09:57:53.2427242+00:00",
+  "LastUpdate_Achievements": "2023-12-30T10:10:53.4700696+00:00"
 }

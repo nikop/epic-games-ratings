@@ -3,7 +3,7 @@
   "Name": "Prison Architect",
   "ProductSlug": "prison-architect",
   "Ranking_Rating": 397,
-  "Ranking_Popularity": 199,
+  "Ranking_Popularity": 200,
   "Ranking_PopularitySum": 150,
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 368,
@@ -7887,9 +7887,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 209651,
+  "EOS_Progressed": 209673,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 3086,
+  "EOS_NewPlayers": 3094,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -37017,6 +37017,11 @@
       "Time": "2023-12-30T09:09:47.972951+00:00",
       "NumProgressed": 209651,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-30T10:10:28.8115638+00:00",
+      "NumProgressed": 209673,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 16,
@@ -37060,7 +37065,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 33544
+      "UsersEstimate": 33548
     },
     {
       "ID": "Achievement_13",
@@ -37108,7 +37113,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 52413
+      "UsersEstimate": 52418
     },
     {
       "ID": "Achievement_5",
@@ -37140,7 +37145,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 18869
+      "UsersEstimate": 18871
     },
     {
       "ID": "Achievement_9",
@@ -37148,22 +37153,22 @@
       "Name": "Spare The Rod",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8386
+      "UsersEstimate": 8387
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 209651,
+      "Progressed": 209673,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-12-30T02:20:02.1858719+00:00",
-  "LastChanged_Achievements": "2023-12-30T09:09:47.9729507+00:00",
+  "LastChanged_Achievements": "2023-12-30T10:10:28.8115633+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:08.9608628+00:00",
-  "LastUpdate_Ratings": "2023-12-30T09:02:52.1509832+00:00",
-  "LastUpdate_Achievements": "2023-12-30T09:09:47.9731165+00:00"
+  "LastUpdate_Ratings": "2023-12-30T10:03:03.6525518+00:00",
+  "LastUpdate_Achievements": "2023-12-30T10:10:28.8117906+00:00"
 }

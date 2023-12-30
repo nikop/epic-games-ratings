@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~612 |
+| Malpractice Assurance | 11.00% | ~613 |
 | Lost and Found | 7.00% | ~390 |
 | Autodidact | 6.00% | ~7,842 |
 | This guy... again? | 6.00% | ~334 |
@@ -14,8 +14,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Creep and Sleep | 5.00% | ~6,535 |
 | Overdue Notice | 5.00% | ~6,535 |
 | Escape from the Black Hole | 5.00% | ~6,535 |
-| Ploughshares to Swords | 5.00% | ~278 |
-| Bloody Graduation | 5.00% | ~278 |
+| Ploughshares to Swords | 5.00% | ~279 |
+| Bloody Graduation | 5.00% | ~279 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,228 |
 | Serenity Now! | 4.00% | ~5,228 |
 | It Rings a Bell | 4.00% | ~5,228 |
@@ -69,8 +69,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Triage | 0.70% | ~915 |
 | No Mercy | 0.70% | ~39 |
 | Et Tu, Riposte? | 0.70% | ~39 |
-| The World As It Was | 0.50% | ~653 |
-| Bacon Bits | 0.50% | ~653 |
+| The World As It Was | 0.50% | ~654 |
+| Bacon Bits | 0.50% | ~654 |
 | A Life Well Lived | 0.40% | ~523 |
 | Eidetic | 0.40% | ~523 |
 | On This Long Road, We Found Redemption | 0.40% | ~22 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,698 (Ranked 88)  
+Progressed: 130,705 (Ranked 88)  
 Completed: 3 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 3 (0.00%) (Ranked 391)
 | 2023-12-27 | 130,259 | 3 |
 | 2023-12-28 | 130,422 | 3 |
 | 2023-12-29 | 130,627 | 3 |
-| 2023-12-30 | 130,698 | 3 |
+| 2023-12-30 | 130,705 | 3 |
 ## Awards
 Max (Character Customization): 7,905  (Ranked 50)  
 Sum: 21,256 (Ranked 58)  

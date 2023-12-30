@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -33,7 +33,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3105,
+  "EOS_Progressed": 3106,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
@@ -7618,6 +7618,11 @@
       "Time": "2023-12-30T09:08:28.9258999+00:00",
       "NumProgressed": 3105,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T10:08:37.9304455+00:00",
+      "NumProgressed": 3106,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -7630,7 +7635,7 @@
       "Name": "First Love",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -7694,7 +7699,7 @@
       "Name": "Is It the Right Size?",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -7702,7 +7707,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -7838,7 +7843,7 @@
       "Name": "Clean Race",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1336
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -7926,7 +7931,7 @@
       "Name": "Eat My Dust",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -7934,7 +7939,7 @@
       "Name": "Champagne Spray",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -8021,7 +8026,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3105,
+      "Progressed": 3106,
       "Completed": 0
     }
   ],
@@ -8029,8 +8034,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2023-12-26T23:58:21.0860972+00:00",
-  "LastChanged_Achievements": "2023-12-30T09:08:28.9258997+00:00",
+  "LastChanged_Achievements": "2023-12-30T10:08:37.930445+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:36.0007242+00:00",
-  "LastUpdate_Ratings": "2023-12-30T09:00:08.6145939+00:00",
-  "LastUpdate_Achievements": "2023-12-30T09:08:28.9259703+00:00"
+  "LastUpdate_Ratings": "2023-12-30T10:01:40.3745055+00:00",
+  "LastUpdate_Achievements": "2023-12-30T10:08:37.9305279+00:00"
 }

@@ -5,33 +5,33 @@ Rating: 4.65 (Ranked 323)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 88.00% | ~585 |
-| Thalya – Simply Immortal | 88.00% | ~585 |
-| For the Horde! | 82.00% | ~545 |
-| Hammer Time, Round Two | 81.00% | ~539 |
-| The Hellwoods | 77.00% | ~512 |
-| The Plains of Strothalm | 72.00% | ~479 |
-| Experienced Thalya | 72.00% | ~479 |
-| Bad Elves Go Everywhere | 69.00% | ~459 |
-| Thalya's Concentrated Fury | 68.00% | ~452 |
+| The Last Stand | 88.00% | ~586 |
+| Thalya – Simply Immortal | 88.00% | ~586 |
+| For the Horde! | 82.00% | ~546 |
+| Hammer Time, Round Two | 80.00% | ~533 |
+| The Hellwoods | 77.00% | ~513 |
+| The Plains of Strothalm | 72.00% | ~480 |
+| Experienced Thalya | 72.00% | ~480 |
+| Bad Elves Go Everywhere | 69.00% | ~460 |
+| Thalya's Concentrated Fury | 68.00% | ~453 |
 | Heroes’ Gorge | 64.00% | ~426 |
-| Master of Magic | 63.00% | ~419 |
-| Unicorn steaks – fresh off the hoof! | 63.00% | ~419 |
-| Magic Accidents | 59.00% | ~392 |
+| Master of Magic | 63.00% | ~420 |
+| Unicorn steaks – fresh off the hoof! | 63.00% | ~420 |
+| Magic Accidents | 59.00% | ~393 |
 | The Ascent | 58.00% | ~386 |
 | It's Warm and Cozy at Home | 58.00% | ~386 |
-| Minions, Minions! | 56.00% | ~372 |
+| Minions, Minions! | 56.00% | ~373 |
 | Trap Master | 55.00% | ~366 |
-| Hard Work | 54.00% | ~359 |
-| The Big Eaty | 54.00% | ~359 |
-| “… like son” | 51.00% | ~339 |
-| YOU SHALL NOT PASS! | 50.00% | ~332 |
+| Hard Work | 54.00% | ~360 |
+| The Big Eaty | 54.00% | ~360 |
+| “… like son” | 51.00% | ~340 |
+| YOU SHALL NOT PASS! | 50.00% | ~333 |
 | The Cathedral of Light | 47.00% | ~313 |
 | Shame! Shame! Shame! | 47.00% | ~313 |
-| Pure Dynamite! | 45.00% | ~299 |
-| Dungeonlord Gorgu | 45.00% | ~299 |
-| Tanos' Crusade Against Thalya | 45.00% | ~299 |
-| Mana Cannon | 42.00% | ~279 |
+| Pure Dynamite! | 45.00% | ~300 |
+| Dungeonlord Gorgu | 45.00% | ~300 |
+| Tanos' Crusade Against Thalya | 45.00% | ~300 |
+| Mana Cannon | 42.00% | ~280 |
 | All’s Well That Ends Evil | 41.00% | ~273 |
 | The Duel | 38.00% | ~253 |
 | Unstoppable Horde | 35.00% | ~233 |
@@ -58,17 +58,17 @@ Rating: 4.65 (Ranked 323)
 | To Infinity And Beyond! | 18.00% | ~120 |
 | Sacrificial Pit = Garbage Disposal? | 17.00% | ~113 |
 | Evilification | 17.00% | ~113 |
-| Heal Heal Blessing | 16.00% | ~106 |
+| Heal Heal Blessing | 16.00% | ~107 |
 | Mirror, Mirror | 15.00% | ~100 |
 | Untouchable | 15.00% | ~100 |
-| Laser Eyes Are So Useless | 13.00% | ~86 |
+| Laser Eyes Are So Useless | 13.00% | ~87 |
 | Gorgu is in the Best of Health | 12.00% | ~80 |
 | Hands Off My Stones | 12.00% | ~80 |
-| No Mana, No Cry | 10.00% | ~66 |
+| No Mana, No Cry | 10.00% | ~67 |
 | I Don't Need Any Help | 9.00% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 665 (Ranked 317)  
-Completed: 24 (3.61%) (Ranked 100)  
+Progressed: 666 (Ranked 317)  
+Completed: 24 (3.60%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -122,7 +122,7 @@ Completed: 24 (3.61%) (Ranked 100)
 | 2023-12-27 | 650 | 24 |
 | 2023-12-28 | 654 | 24 |
 | 2023-12-29 | 661 | 24 |
-| 2023-12-30 | 665 | 24 |
+| 2023-12-30 | 666 | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

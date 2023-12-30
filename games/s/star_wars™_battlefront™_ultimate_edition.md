@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~2,045 |
-| Off to a good start | 62.00% | ~1,458 |
-| Do... or do not. There is no try | 52.00% | ~1,223 |
-| A good blaster at your side | 26.00% | ~611 |
-| I suggest a new strategy | 18.00% | ~423 |
-| Great shot, kid! | 16.00% | ~376 |
+| New Recruit | 87.00% | ~2,048 |
+| Off to a good start | 62.00% | ~1,459 |
+| Do... or do not. There is no try | 52.00% | ~1,224 |
+| A good blaster at your side | 26.00% | ~612 |
+| I suggest a new strategy | 18.00% | ~424 |
+| Great shot, kid! | 16.00% | ~377 |
 | Scrap collector | 15.00% | ~353 |
 | All right, I'll give it a try | 15.00% | ~353 |
-| The power of the Force | 13.00% | ~306 |
 | Shoot first | 13.00% | ~306 |
+| The power of the Force | 12.00% | ~282 |
 | Collector | 12.00% | ~282 |
 | Together we can rule the galaxy | 12.00% | ~282 |
 | Tell Jabba that I've got his money | 9.00% | ~212 |
@@ -50,7 +50,7 @@
 | Alternative solution | 1.00% | ~24 |
 | Onwards! | 1.00% | ~24 |
 | The circle is now complete | 1.00% | ~24 |
-| You have your moments | 0.90% | ~21 |
+| You have your moments | 0.80% | ~19 |
 | When surrounded by war... | 0.80% | ~19 |
 | A New Hope | 0.70% | ~16 |
 | Walker defender | 0.60% | ~14 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,351 (Ranked 232)  
+Progressed: 2,354 (Ranked 232)  
 Completed: 1 (0.04%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 1 (0.04%) (Ranked 346)
 | 2023-12-27 | 2,258 | 1 |
 | 2023-12-28 | 2,299 | 1 |
 | 2023-12-29 | 2,337 | 1 |
-| 2023-12-30 | 2,351 | 1 |
+| 2023-12-30 | 2,354 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

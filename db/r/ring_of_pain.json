@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3814,9 +3814,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 242013,
+  "EOS_Progressed": 242014,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 512,
+  "EOS_NewPlayers": 509,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -30059,6 +30059,11 @@
       "Time": "2023-12-30T09:10:17.8150603+00:00",
       "NumProgressed": 242013,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-30T10:11:09.4006063+00:00",
+      "NumProgressed": 242014,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -30428,9 +30433,9 @@
       "ID": "HIGHSPEED",
       "SetID": "5l8oe0h",
       "Name": "Predator",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 484
     },
     {
       "ID": "HITOWLSPOON",
@@ -31173,13 +31178,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242013,
+      "Progressed": 242014,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3493,
+      "Progressed": 3494,
       "Completed": 416
     }
   ],
@@ -31187,8 +31192,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-30T08:01:44.1465561+00:00",
-  "LastChanged_Achievements": "2023-12-30T09:10:17.8150599+00:00",
+  "LastChanged_Achievements": "2023-12-30T10:11:09.4006055+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-30T09:02:37.1979945+00:00",
-  "LastUpdate_Achievements": "2023-12-30T09:10:17.8153274+00:00"
+  "LastUpdate_Ratings": "2023-12-30T10:02:01.5255323+00:00",
+  "LastUpdate_Achievements": "2023-12-30T10:11:09.4008664+00:00"
 }
