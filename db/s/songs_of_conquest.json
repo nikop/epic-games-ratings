@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 862,
+  "EOS_Progressed": 863,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3135,6 +3135,11 @@
       "Time": "2023-12-30T14:08:41.0994875+00:00",
       "NumProgressed": 862,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T16:09:11.6386123+00:00",
+      "NumProgressed": 863,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3155,7 +3160,7 @@
       "Name": "The Song of Stoutheart",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -3291,7 +3296,7 @@
       "Name": "Double Kill",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3459,7 +3464,7 @@
       "Name": "Trojan Horse",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "UltraKill",
@@ -3578,15 +3583,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 862,
+      "Progressed": 863,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2023-12-30T15:08:36.6105499+00:00",
+  "LastChanged_Achievements": "2023-12-30T16:09:11.6386118+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.1217697+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:59:12.7045518+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:08:36.6106142+00:00"
+  "LastUpdate_Ratings": "2023-12-30T15:59:35.4664741+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:09:11.6386653+00:00"
 }

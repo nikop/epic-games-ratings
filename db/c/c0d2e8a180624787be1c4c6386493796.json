@@ -1320,9 +1320,9 @@
       "ID": "KR4_ACHIEVEMENT_HYPNOTOAD",
       "SetID": "caeik3h",
       "Name": "Glory To The Hypnotoad",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "KR4_ACHIEVEMENT_ICESCULPTOR",
@@ -1376,9 +1376,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_DWARF_ENGINEERS",
       "SetID": "caeik3h",
       "Name": "Can\u0027t Touch This",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 193
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_EASY",
@@ -1693,8 +1693,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-30T15:05:49.9860571+00:00",
+  "LastChanged_Achievements": "2023-12-30T16:06:42.6298877+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.1058747+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:58:02.0370377+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:05:49.9861193+00:00"
+  "LastUpdate_Ratings": "2023-12-30T15:58:26.90375+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:06:42.6299531+00:00"
 }

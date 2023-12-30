@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 560,
+  "EOS_Progressed": 561,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 292,
+  "EOS_NewPlayers": 291,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1541,6 +1541,11 @@
       "Time": "2023-12-30T15:08:23.0419828+00:00",
       "NumProgressed": 560,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T16:08:57.3742524+00:00",
+      "NumProgressed": 561,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1553,7 +1558,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "CareerAllChallenges",
@@ -1577,7 +1582,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "CareerChamp3",
@@ -1712,7 +1717,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 560,
+      "Progressed": 561,
       "Completed": 0
     }
   ],
@@ -1720,8 +1725,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-28T22:58:24.1175943+00:00",
-  "LastChanged_Achievements": "2023-12-30T15:08:23.0419826+00:00",
+  "LastChanged_Achievements": "2023-12-30T16:08:57.374252+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:58:24.0119094+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:08:23.04202+00:00"
+  "LastUpdate_Ratings": "2023-12-30T15:58:48.0335739+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:08:57.3742753+00:00"
 }

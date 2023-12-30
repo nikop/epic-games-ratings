@@ -2,12 +2,12 @@
   "ID": "64543c9227724068970bd85bc4e73e9e",
   "Name": "Farlight 84",
   "ProductSlug": "farlight-84-8e689a",
-  "Ranking_Rating": 905,
+  "Ranking_Rating": 899,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 563,
+  "Ranking_EOS_NewPlayers": 564,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-26T06:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.25,
+  "Rating": 4.26,
   "RatingHistory": [
     {
       "Time": "2023-11-02T19:03:18.4376934+00:00",
@@ -557,10 +557,16 @@
       "Rating": 4.25,
       "NumberOfAwards": 92,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2023-12-30T16:00:13.6570958+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 93,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 92,
+  "NumberOfAwards": 93,
   "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -580,7 +586,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game has Competitive Players",
@@ -601,8 +607,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-31T02:58:28.8259872+00:00",
   "FirstSeenRating": "2023-11-02T19:03:18.4376932+00:00",
-  "LastChanged": "2023-12-29T22:59:30.351171+00:00",
+  "LastChanged": "2023-12-30T16:00:13.6570956+00:00",
   "LastUpdate_AppInfo": "2023-12-26T18:57:06.791987+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:59:49.7810173+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:05:26.6014944+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:00:13.657096+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:06:18.3318097+00:00"
 }

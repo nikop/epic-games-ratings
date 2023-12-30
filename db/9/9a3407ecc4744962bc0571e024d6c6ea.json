@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1183,
+  "EOS_Progressed": 1184,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 1,
@@ -3334,6 +3334,11 @@
       "Time": "2023-12-30T14:09:29.6019097+00:00",
       "NumProgressed": 1183,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-30T16:10:02.6758755+00:00",
+      "NumProgressed": 1184,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -3362,7 +3367,7 @@
       "Name": "Boxing Clever",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "Cartographer",
@@ -3394,15 +3399,15 @@
       "Name": "Darkest Before the Dawn",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "DrinkingOnTheJob",
       "SetID": "3ai6ml8",
       "Name": "Drinking on the Job",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 532
+      "UsersEstimate": 545
     },
     {
       "ID": "DustDancing",
@@ -3418,7 +3423,7 @@
       "Name": "Everything is Dust",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "LightsOut",
@@ -3426,7 +3431,7 @@
       "Name": "Lights Out",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "MiCasaSuCasa",
@@ -3450,7 +3455,7 @@
       "Name": "Outpatient",
       "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "Relic",
@@ -3480,9 +3485,9 @@
       "ID": "TheSafetyOfDisbelief",
       "SetID": "3ai6ml8",
       "Name": "The Safety of Disbelief",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 662
+      "UsersEstimate": 651
     },
     {
       "ID": "TragedyDocumented",
@@ -3498,21 +3503,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 1183,
+      "Progressed": 1184,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-12-30T15:09:24.5486962+00:00",
+  "LastChanged_Achievements": "2023-12-30T16:10:02.6758752+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:55.6682443+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:57:28.6514169+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:09:24.5487207+00:00"
+  "LastUpdate_Ratings": "2023-12-30T15:57:52.492838+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:10:02.6759283+00:00"
 }

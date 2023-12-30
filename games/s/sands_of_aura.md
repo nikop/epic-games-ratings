@@ -14,8 +14,8 @@
 | Spirit Within | 10.00% | ~13 |
 | Bladesmith | 9.00% | ~11 |
 | The Guardian of Fire | 9.00% | ~11 |
+| Twin Thorns | 8.00% | ~10 |
 | Explorer | 7.00% | ~9 |
-| Twin Thorns | 7.00% | ~9 |
 | Sommelier | 6.00% | ~8 |
 | The River Styx | 6.00% | ~8 |
 | Sovereignty of Irons | 6.00% | ~8 |

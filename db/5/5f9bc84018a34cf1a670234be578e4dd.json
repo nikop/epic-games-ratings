@@ -2,7 +2,7 @@
   "ID": "5f9bc84018a34cf1a670234be578e4dd",
   "Name": "Access Denied Escape",
   "ProductSlug": "access-denied-escape-1d486e",
-  "Ranking_EOS_Progress": 364,
+  "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 20,
   "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 56,
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 378,
+  "EOS_Progressed": 379,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 24.07,
+  "EOS_Completed_Percentage": 24.01,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -2014,6 +2014,11 @@
       "Time": "2023-12-30T14:04:19.1485692+00:00",
       "NumProgressed": 378,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-12-30T16:05:11.2884556+00:00",
+      "NumProgressed": 379,
+      "NumCompleted": 91
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -2034,7 +2039,7 @@
       "Name": "Batteries",
       "Percentage": 58,
       "XP": 70,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "Compiling",
@@ -2042,7 +2047,7 @@
       "Name": "Job completed!",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "FallDeath",
@@ -2058,7 +2063,7 @@
       "Name": "Test Task",
       "Percentage": 97,
       "XP": 30,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "Floppy",
@@ -2074,7 +2079,7 @@
       "Name": "Beginner Electrician",
       "Percentage": 83,
       "XP": 70,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "GameComplete",
@@ -2098,7 +2103,7 @@
       "Name": "Something is wrong here",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "Hologram",
@@ -2137,14 +2142,14 @@
     {
       "ID": "7jbi7el",
       "IsBase": true,
-      "Progressed": 378,
+      "Progressed": 379,
       "Completed": 91
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-12-30T15:04:25.7023328+00:00",
+  "LastChanged_Achievements": "2023-12-30T16:05:11.2884552+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:21.0304+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:59:05.0837381+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:04:25.7023462+00:00"
+  "LastUpdate_Ratings": "2023-12-30T15:59:27.7719026+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:05:11.2884741+00:00"
 }

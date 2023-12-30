@@ -6,10 +6,10 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~618 |
+| Malpractice Assurance | 11.00% | ~619 |
 | Lost and Found | 7.00% | ~394 |
-| Autodidact | 6.00% | ~7,845 |
-| This guy... again? | 6.00% | ~337 |
+| Autodidact | 6.00% | ~7,846 |
+| This guy... again? | 6.00% | ~338 |
 | This Belongs in a Museum | 5.00% | ~6,538 |
 | Creep and Sleep | 5.00% | ~6,538 |
 | Overdue Notice | 5.00% | ~6,538 |
@@ -55,10 +55,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Worldly Traveller | 2.00% | ~2,615 |
 | Utopia | 2.00% | ~2,615 |
 | Hot Air | 2.00% | ~2,615 |
+| Eyes Up | 2.00% | ~2,615 |
 | Road Trip | 2.00% | ~2,615 |
 | This Looks Familiar | 1.00% | ~1,308 |
 | No More Mouths to Feed | 1.00% | ~1,308 |
-| Eyes Up | 1.00% | ~1,308 |
 | Handled | 1.00% | ~1,308 |
 | Body of Work | 1.00% | ~1,308 |
 | Slap on the Wrist | 1.00% | ~56 |
@@ -73,7 +73,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Bacon Bits | 0.50% | ~654 |
 | A Life Well Lived | 0.40% | ~523 |
 | Eidetic | 0.40% | ~523 |
-| On This Long Road, We Found Redemption | 0.40% | ~22 |
+| On This Long Road, We Found Redemption | 0.40% | ~23 |
 | Tears in the Rain | 0.30% | ~392 |
 | Battle Hardened | 0.30% | ~17 |
 | Maître De La Lame | 0.30% | ~17 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,753 (Ranked 88)  
+Progressed: 130,759 (Ranked 88)  
 Completed: 3 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 3 (0.00%) (Ranked 391)
 | 2023-12-27 | 130,259 | 3 |
 | 2023-12-28 | 130,422 | 3 |
 | 2023-12-29 | 130,627 | 3 |
-| 2023-12-30 | 130,753 | 3 |
+| 2023-12-30 | 130,759 | 3 |
 ## Awards
 Max (Character Customization): 7,905  (Ranked 50)  
 Sum: 21,263 (Ranked 58)  

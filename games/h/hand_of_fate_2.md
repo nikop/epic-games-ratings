@@ -1,33 +1,33 @@
 # Hand of Fate 2
 [Store](https://store.epicgames.com/en-US/p/hand-of-fate-2)  
 [View Rawdata](../../db/h/hand_of_fate_2.json)  
-Rating: 4.55 (Ranked 522)  
+Rating: 4.55 (Ranked 523)  
 Number of Ratings: 780  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~479,902 |
-| Apprentice | 58.00% | ~386,587 |
-| Close Shave | 25.00% | ~166,632 |
-| Mercenary | 23.00% | ~153,302 |
-| Ninja | 23.00% | ~153,302 |
-| Northern Scourge | 17.00% | ~113,310 |
-| Thief Bane | 14.00% | ~93,314 |
+| The Fool | 72.00% | ~479,904 |
+| Apprentice | 58.00% | ~386,589 |
+| Close Shave | 25.00% | ~166,633 |
+| Mercenary | 23.00% | ~153,303 |
+| Ninja | 23.00% | ~153,303 |
+| Northern Scourge | 17.00% | ~113,311 |
+| Thief Bane | 14.00% | ~93,315 |
 | Master of Arms | 12.00% | ~79,984 |
 | Gambler | 10.00% | ~66,653 |
 | Dice Master | 10.00% | ~66,653 |
 | Swordsman | 9.00% | ~59,988 |
-| Knight | 8.00% | ~53,322 |
-| Cure for Corruption | 8.00% | ~53,322 |
-| Focused | 8.00% | ~53,322 |
-| Flurry of Fury | 8.00% | ~53,322 |
+| Knight | 8.00% | ~53,323 |
+| Cure for Corruption | 8.00% | ~53,323 |
+| Focused | 8.00% | ~53,323 |
+| Flurry of Fury | 8.00% | ~53,323 |
 | Long Shot | 7.00% | ~46,657 |
 | Devil Dice | 7.00% | ~46,657 |
 | Broken Heart | 7.00% | ~46,657 |
 | Adventurer | 6.00% | ~39,992 |
 | Empire's Bane | 6.00% | ~39,992 |
-| Jack of all Trades | 5.00% | ~33,326 |
-| Smithy | 5.00% | ~33,326 |
+| Jack of all Trades | 5.00% | ~33,327 |
+| Smithy | 5.00% | ~33,327 |
 | Leap of Faith | 3.00% | ~19,996 |
 | Combat Ready | 3.00% | ~19,996 |
 | Stuffed Potato | 3.00% | ~19,996 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~667 |
 | Blood Pact | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,530 (Ranked 29)  
+Progressed: 666,533 (Ranked 29)  
 Completed: 174 (0.03%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 174 (0.03%) (Ranked 351)
 | 2023-12-27 | 666,394 | 174 |
 | 2023-12-28 | 666,440 | 174 |
 | 2023-12-29 | 666,498 | 174 |
-| 2023-12-30 | 666,530 | 174 |
+| 2023-12-30 | 666,533 | 174 |
 ## Awards
 Max (Amazing Storytelling): 36  (Ranked 490)  
 Sum: 193 (Ranked 417)  

@@ -2,9 +2,9 @@
   "ID": "9df61912ce644d8096412ba0f516759a",
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fears-85a02b",
-  "Ranking_EOS_Progress": 412,
+  "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 231,
+  "EOS_Progressed": 232,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1049,6 +1049,11 @@
       "Time": "2023-12-30T08:08:40.2737136+00:00",
       "NumProgressed": 231,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T16:08:43.3662506+00:00",
+      "NumProgressed": 232,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1059,9 +1064,9 @@
       "ID": "a_new_way",
       "SetID": "f2im8d",
       "Name": "A new way",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "another_perspective",
@@ -1141,7 +1146,7 @@
       "Name": "It\u0027s covered up for a reason",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "decrypt_one_myth",
@@ -1173,7 +1178,7 @@
       "Name": "Do what you have to",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "earn_all_trophies",
@@ -1195,9 +1200,9 @@
       "ID": "find_most_of_family_mementos",
       "SetID": "f2im8d",
       "Name": "Immortalized in my heart",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "find_most_of_rat_sketches",
@@ -1213,7 +1218,7 @@
       "Name": "Scraps of love",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "find_one_photo",
@@ -1229,15 +1234,15 @@
       "Name": "Debut",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "find_one_rat_sketch",
       "SetID": "f2im8d",
       "Name": "The artist\u2019s impression",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 102
     },
     {
       "ID": "finished_it",
@@ -1245,7 +1250,7 @@
       "Name": "Finished it",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "first_step",
@@ -1341,7 +1346,7 @@
       "Name": "Playtime",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "preferred_parent",
@@ -1397,7 +1402,7 @@
       "Name": "Something important",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "spy_one_item",
@@ -1437,7 +1442,7 @@
       "Name": "Tough conversation",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "true_reflection",
@@ -1476,14 +1481,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 231,
+      "Progressed": 232,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-30T15:06:29.5913204+00:00",
+  "LastChanged_Achievements": "2023-12-30T16:08:43.3662502+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:25.6985759+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:59:48.2329552+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:06:29.591362+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:00:12.0700896+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:08:43.3663071+00:00"
 }

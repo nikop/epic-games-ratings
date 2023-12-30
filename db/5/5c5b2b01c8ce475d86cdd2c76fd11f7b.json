@@ -2,9 +2,9 @@
   "ID": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
   "Name": "Deus Ex - Mankind Divided",
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
-  "Ranking_EOS_Progress": 526,
+  "Ranking_EOS_Progress": 525,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 61,
+  "EOS_Progressed": 62,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -324,6 +324,11 @@
       "Time": "2023-12-30T11:03:31.0977795+00:00",
       "NumProgressed": 61,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T16:03:59.4389275+00:00",
+      "NumProgressed": 62,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.7079864+00:00",
@@ -350,7 +355,7 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "7on801h",
       "Name": "Singh No Swan Song",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 18
     },
@@ -390,7 +395,7 @@
       "ID": "NEW_ACHIEVEMENT_1_16",
       "SetID": "7on801h",
       "Name": "Core Driller",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -406,7 +411,7 @@
       "ID": "NEW_ACHIEVEMENT_1_18",
       "SetID": "7on801h",
       "Name": "So Many Cucumbers",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -446,7 +451,7 @@
       "ID": "NEW_ACHIEVEMENT_1_22",
       "SetID": "7on801h",
       "Name": "Humanity \u002B",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
       "UsersEstimate": 12
     },
@@ -526,7 +531,7 @@
       "ID": "NEW_ACHIEVEMENT_1_31",
       "SetID": "7on801h",
       "Name": "Ground Mail Was a Better Option",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -558,7 +563,7 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "7on801h",
       "Name": "He\u0027s [Not] Dead, Jim",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -590,7 +595,7 @@
       "ID": "NEW_ACHIEVEMENT_2_1",
       "SetID": "7on801h",
       "Name": "I Can Only Fight Enemies I Can See",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -598,7 +603,7 @@
       "ID": "NEW_ACHIEVEMENT_2_10",
       "SetID": "7on801h",
       "Name": "Handle with Care",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -790,7 +795,7 @@
       "ID": "NEW_ACHIEVEMENT_2_4",
       "SetID": "7on801h",
       "Name": "The Harvester",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -822,7 +827,7 @@
       "ID": "NEW_ACHIEVEMENT_2_8",
       "SetID": "7on801h",
       "Name": "Cult of Personality",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -983,20 +988,20 @@
     {
       "ID": "7on801h",
       "IsBase": true,
-      "Progressed": 61,
+      "Progressed": 62,
       "Completed": 0
     },
     {
       "ID": "o6aioj",
       "IsBase": false,
-      "Progressed": 61,
+      "Progressed": 62,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-30T15:03:18.3374672+00:00",
+  "LastChanged_Achievements": "2023-12-30T16:03:59.4389271+00:00",
   "LastUpdate_AppInfo": "2023-12-27T16:57:17.6990227+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:58:29.2224957+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:03:18.337535+00:00"
+  "LastUpdate_Ratings": "2023-12-30T15:58:52.7376662+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:03:59.4390049+00:00"
 }

@@ -6,28 +6,28 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Shall Not Pass | 51.00% | ~4,935 |
-| Tutti Eroi! | 50.00% | ~4,838 |
-| Peak Performance | 46.00% | ~4,451 |
-| Avanti Savoia! | 44.00% | ~4,258 |
-| Mamma Mia! | 35.00% | ~3,387 |
+| You Shall Not Pass | 51.00% | ~4,936 |
+| Tutti Eroi! | 50.00% | ~4,840 |
+| Peak Performance | 46.00% | ~4,452 |
+| Avanti Savoia! | 44.00% | ~4,259 |
+| Mamma Mia! | 35.00% | ~3,388 |
 | Conrad von Hotzensocks | 32.00% | ~3,097 |
 | Gabriele D'Annunzio | 32.00% | ~3,097 |
 | Silver Lining | 27.00% | ~2,613 |
-| Aurelio Baruzzi | 21.00% | ~2,032 |
-| Decimation | 20.00% | ~1,935 |
+| Aurelio Baruzzi | 21.00% | ~2,033 |
+| Decimation | 20.00% | ~1,936 |
 | Donatello | 19.00% | ~1,839 |
 | Insubordination | 19.00% | ~1,839 |
 | The Italian Job | 19.00% | ~1,839 |
 | Veni Vidi Vici | 19.00% | ~1,839 |
 | Ragazzi del '99 | 17.00% | ~1,645 |
-| Luigi Cadorna | 16.00% | ~1,548 |
+| Luigi Cadorna | 16.00% | ~1,549 |
 | The Lion of the Isonzo | 14.00% | ~1,355 |
 | Uomo Universale | 13.00% | ~1,258 |
 | Die Bosniaken Kommen! | 12.00% | ~1,161 |
 | Dirty Dozen | 12.00% | ~1,161 |
 | Shaken, Not Stirred | 12.00% | ~1,161 |
-| Machiavelli | 11.00% | ~1,064 |
+| Machiavelli | 11.00% | ~1,065 |
 | The Devil's Paintbrush | 10.00% | ~968 |
 | Thus With A Kiss | 10.00% | ~968 |
 | Dante's Inferno | 9.00% | ~871 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~39 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,677 (Ranked 180)  
+Progressed: 9,679 (Ranked 180)  
 Completed: 10 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 10 (0.10%) (Ranked 305)
 | 2023-12-27 | 9,644 | 10 |
 | 2023-12-28 | 9,657 | 10 |
 | 2023-12-29 | 9,668 | 10 |
-| 2023-12-30 | 9,677 | 10 |
+| 2023-12-30 | 9,679 | 10 |
 ## Awards
 Max (Diverse Characters): 41  (Ranked 474)  
 Sum: 335 (Ranked 368)  

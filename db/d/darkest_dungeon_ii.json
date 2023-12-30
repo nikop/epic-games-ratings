@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10332,9 +10332,9 @@
       "Count": 1068
     }
   ],
-  "EOS_Progressed": 130753,
+  "EOS_Progressed": 130759,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1403,
+  "EOS_NewPlayers": 1389,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37537,6 +37537,11 @@
       "Time": "2023-12-30T15:09:07.8403077+00:00",
       "NumProgressed": 130753,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-30T16:09:44.5641969+00:00",
+      "NumProgressed": 130759,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37900,7 +37905,7 @@
       "Name": "Autodidact",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7845
+      "UsersEstimate": 7846
     },
     {
       "ID": "hero_story_complete_all",
@@ -38018,9 +38023,9 @@
       "ID": "run_victory_act03",
       "SetID": "64l4lke",
       "Name": "Eyes Up",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1308
+      "UsersEstimate": 2615
     },
     {
       "ID": "run_victory_act04",
@@ -38084,7 +38089,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "combat_kill_collector",
@@ -38092,7 +38097,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -38172,28 +38177,28 @@
       "Name": "On This Long Road, We Found Redemption",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     }
   ],
   "AchievementSets": [
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130753,
+      "Progressed": 130759,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5622,
+      "Progressed": 5628,
       "Completed": 816
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-30T14:57:04.7965989+00:00",
-  "LastChanged_Achievements": "2023-12-30T15:09:07.8403075+00:00",
+  "LastChanged_Achievements": "2023-12-30T16:09:44.5641966+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:57:04.7965997+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:09:07.8404858+00:00"
+  "LastUpdate_Ratings": "2023-12-30T15:57:28.6433821+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:09:44.5643796+00:00"
 }

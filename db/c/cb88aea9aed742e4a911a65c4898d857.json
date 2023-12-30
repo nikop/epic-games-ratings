@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -221,9 +221,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 8853,
+  "EOS_Progressed": 8868,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2147,
+  "EOS_NewPlayers": 2135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2986,6 +2986,11 @@
       "Time": "2023-12-30T15:09:23.8235697+00:00",
       "NumProgressed": 8853,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T16:10:02.0262693+00:00",
+      "NumProgressed": 8868,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -2998,7 +3003,7 @@
       "Name": "Conspiracy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "03_TheStolenStar",
@@ -3116,9 +3121,9 @@
       "ID": "17_TheExemplar",
       "SetID": "37a94m8",
       "Name": "Exemplar",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 62
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -3212,9 +3217,9 @@
       "ID": "29_NoStoneUnturned",
       "SetID": "37a94m8",
       "Name": "No Stone Unturned",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 53
     },
     {
       "ID": "30_The GreatestExploration",
@@ -3228,9 +3233,9 @@
       "ID": "31_DontTouchThis",
       "SetID": "37a94m8",
       "Name": "Don\u0027t Touch This",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 44
     },
     {
       "ID": "32_AviationSaviour",
@@ -3252,9 +3257,9 @@
       "ID": "34_CuriosityIsNotAVice",
       "SetID": "37a94m8",
       "Name": "Curiosity Is Not a Vice",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 177
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -3268,9 +3273,9 @@
       "ID": "36_TheAdventurousArchaelogist",
       "SetID": "37a94m8",
       "Name": "Adventurous Archaeologist",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 18
     },
     {
       "ID": "37_TheSirenicalDiplomat",
@@ -3517,7 +3522,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8853,
+      "Progressed": 8868,
       "Completed": 0
     }
   ],
@@ -3525,8 +3530,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-30T11:58:27.5895866+00:00",
-  "LastChanged_Achievements": "2023-12-30T15:09:23.8235696+00:00",
+  "LastChanged_Achievements": "2023-12-30T16:10:02.026269+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:58:20.8202758+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:09:23.8236262+00:00"
+  "LastUpdate_Ratings": "2023-12-30T15:58:44.8603382+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:10:02.0263291+00:00"
 }

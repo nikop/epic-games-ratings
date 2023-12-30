@@ -1,24 +1,24 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.55 (Ranked 522)  
+Rating: 4.55 (Ranked 523)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~14,218 |
-| Pay 'n' Spray | 50.00% | ~8,776 |
-| All Dressed Up for San Fierro | 25.00% | ~4,388 |
-| The American Dream | 18.00% | ~3,160 |
-| School's Out | 18.00% | ~3,160 |
-| Smooth Moves | 16.00% | ~2,808 |
-| Today Was a Good Day | 15.00% | ~2,633 |
-| What happens in Las Venturas... | 14.00% | ~2,457 |
-| Horror of the Santa Maria | 10.00% | ~1,755 |
-| Liberty City State of Mind | 9.00% | ~1,580 |
-| Original Gangster | 8.00% | ~1,404 |
+| Getting Started | 81.00% | ~14,225 |
+| Pay 'n' Spray | 50.00% | ~8,781 |
+| All Dressed Up for San Fierro | 25.00% | ~4,390 |
+| The American Dream | 18.00% | ~3,161 |
+| School's Out | 18.00% | ~3,161 |
+| Smooth Moves | 16.00% | ~2,810 |
+| Today Was a Good Day | 15.00% | ~2,634 |
+| What happens in Las Venturas... | 14.00% | ~2,459 |
+| Horror of the Santa Maria | 10.00% | ~1,756 |
+| Liberty City State of Mind | 9.00% | ~1,581 |
+| Original Gangster | 8.00% | ~1,405 |
 | With Extra Dip | 7.00% | ~1,229 |
 | The End of the Line | 7.00% | ~1,229 |
-| Saviour | 6.00% | ~1,053 |
+| Saviour | 6.00% | ~1,054 |
 | Rescue a Kitten Too? | 5.00% | ~878 |
 | They Can’t Stop All of Us | 4.00% | ~702 |
 | What are the Odds | 4.00% | ~702 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 522)
 | ...Here we go again | 0.50% | ~88 |
 | I Ain't No Buster | 0.40% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,553 (Ranked 158)  
+Progressed: 17,562 (Ranked 158)  
 Completed: 65 (0.37%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,14 +295,14 @@ Completed: 65 (0.37%) (Ranked 235)
 | 2023-12-27 | 17,152 | 64 |
 | 2023-12-28 | 17,305 | 64 |
 | 2023-12-29 | 17,467 | 65 |
-| 2023-12-30 | 17,553 | 65 |
+| 2023-12-30 | 17,562 | 65 |
 ## Awards
-Max (Great Boss Battles): 545  (Ranked 213)  
-Sum: 807 (Ranked 288)  
-Diff (max vs sum): -75  
+Max (Great Boss Battles): 557  (Ranked 213)  
+Sum: 819 (Ranked 287)  
+Diff (max vs sum): -74  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 545 |
+| This game has Great Boss Battles | 557 |
 | This game is Relaxing | 49 |
 | This game has Amazing Characters | 46 |
 | This game is Highly Recommended | 40 |
@@ -530,4 +530,4 @@ Diff (max vs sum): -75
 | 2023-12-27 | 4.54 | 530 | 807 |
 | 2023-12-28 | 4.54 | 538 | 817 |
 | 2023-12-29 | 4.54 | 545 | 805 |
-| 2023-12-30 | 4.55 | 545 | 807 |
+| 2023-12-30 | 4.55 | 557 | 819 |

@@ -6,9 +6,9 @@ Rating: 4.65 (Ranked 323)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 42.00% | ~486 |
-| Rail Rat | 32.00% | ~370 |
+| Rail Rat | 32.00% | ~371 |
 | The Mysterious Stranger | 31.00% | ~359 |
-| Immaculate Aim | 27.00% | ~312 |
+| Immaculate Aim | 27.00% | ~313 |
 | The Brass Boss | 26.00% | ~301 |
 | Make Up For Lost Time | 24.00% | ~278 |
 | Time Flies | 24.00% | ~278 |
@@ -24,7 +24,7 @@ Rating: 4.65 (Ranked 323)
 | Right On Time | 21.00% | ~243 |
 | Like Clockwork | 21.00% | ~243 |
 | Golem Chaser | 21.00% | ~243 |
-| The Betrayer | 20.00% | ~231 |
+| The Betrayer | 20.00% | ~232 |
 | The Loose Cannon | 19.00% | ~220 |
 | Check Your Pulse | 19.00% | ~220 |
 | The Man Who Shattered Time | 18.00% | ~208 |
@@ -32,10 +32,10 @@ Rating: 4.65 (Ranked 323)
 | Street Style | 17.00% | ~197 |
 | Whiz Kid | 15.00% | ~174 |
 | Good Neighbor | 14.00% | ~162 |
-| Treasure Trove | 13.00% | ~150 |
-| Family Memories | 13.00% | ~150 |
-| Cartographer | 13.00% | ~150 |
-| Ask Questions Later | 13.00% | ~150 |
+| Treasure Trove | 13.00% | ~151 |
+| Family Memories | 13.00% | ~151 |
+| Cartographer | 13.00% | ~151 |
+| Ask Questions Later | 13.00% | ~151 |
 | Chaincrawler Explorer | 12.00% | ~139 |
 | Syron for Hope | 12.00% | ~139 |
 | Sump Explorer | 11.00% | ~127 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 323)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,157 (Ranked 280)  
+Progressed: 1,158 (Ranked 280)  
 Completed: 6 (0.52%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 6 (0.52%) (Ranked 214)
 | 2023-12-27 | 1,130 | 6 |
 | 2023-12-28 | 1,136 | 6 |
 | 2023-12-29 | 1,145 | 6 |
-| 2023-12-30 | 1,157 | 6 |
+| 2023-12-30 | 1,158 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

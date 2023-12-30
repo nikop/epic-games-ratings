@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 736,
+  "EOS_Progressed": 737,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2610,6 +2610,11 @@
       "Time": "2023-12-30T14:09:46.282701+00:00",
       "NumProgressed": 736,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T16:10:19.6666757+00:00",
+      "NumProgressed": 737,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2725,7 +2730,7 @@
       "Name": "Explorer",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH_COLL_20",
@@ -2763,9 +2768,9 @@
       "ID": "ACH_COLL_CH03",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter III",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_COLL_CH04",
@@ -2845,7 +2850,7 @@
       "Name": "Cowardice",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -2861,7 +2866,7 @@
       "Name": "The Motivation",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH_FIN_CH04",
@@ -2981,7 +2986,7 @@
       "Name": "Without a Second Thought",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_KILL_BRAWL",
@@ -2989,7 +2994,7 @@
       "Name": "Here Comes the Boom",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -3005,7 +3010,7 @@
       "Name": "NO LIFE IS WORTH SAVING...",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -3029,7 +3034,7 @@
       "Name": "Eat Lead!",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -3092,15 +3097,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 736,
+      "Progressed": 737,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2023-12-30T15:09:40.7847969+00:00",
+  "LastChanged_Achievements": "2023-12-30T16:10:19.6666754+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:19.2652244+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:58:30.6159241+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:09:40.7848639+00:00"
+  "LastUpdate_Ratings": "2023-12-30T15:58:53.9624365+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:10:19.6667229+00:00"
 }

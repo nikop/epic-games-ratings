@@ -2,12 +2,12 @@
   "ID": "78de1f402ddf486ebcbf9ba3009d6198",
   "Name": "Huntdown",
   "ProductSlug": "huntdown",
-  "Ranking_Rating": 89,
+  "Ranking_Rating": 84,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 563,
+  "Ranking_EOS_NewPlayers": 564,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-05-12T17:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.8,
+  "Rating": 4.81,
   "RatingHistory": [
     {
       "Time": "2022-11-04T14:31:43.7194039+00:00",
@@ -69,6 +69,12 @@
       "Rating": 4.8,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-30T16:00:12.4247997+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -87,8 +93,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:30.407463+00:00",
   "FirstSeenRating": "2022-11-04T14:31:43.7194036+00:00",
-  "LastChanged": "2023-10-06T06:59:53.8003985+00:00",
+  "LastChanged": "2023-12-30T16:00:12.4247996+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:25.6652578+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:59:48.5202973+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:04:24.0380133+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:00:12.4248+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:05:09.5115275+00:00"
 }

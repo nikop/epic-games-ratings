@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1663,
+  "EOS_Progressed": 1665,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4193,6 +4193,11 @@
       "Time": "2023-12-30T12:10:14.5697176+00:00",
       "NumProgressed": 1663,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T16:10:18.6364947+00:00",
+      "NumProgressed": 1665,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -4220,7 +4225,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "ATTENBOROUGH",
@@ -4284,7 +4289,7 @@
       "Name": "Croaked",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "CRUELTY",
@@ -4308,7 +4313,7 @@
       "Name": "Ganglord",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "DEAD_DICK",
@@ -4316,7 +4321,7 @@
       "Name": "Limp Richard",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -4332,7 +4337,7 @@
       "Name": "Dressed To Kill",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "DR_JONES",
@@ -4348,7 +4353,7 @@
       "Name": "Editor Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "ENDGAME",
@@ -4364,7 +4369,7 @@
       "Name": "Exorcist",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "EXPERIENCED",
@@ -4380,7 +4385,7 @@
       "Name": "Firestarter",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "FIRST_BLOOD",
@@ -4388,7 +4393,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1530
+      "UsersEstimate": 1532
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -4412,7 +4417,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "GIANT_KILLER",
@@ -4420,7 +4425,7 @@
       "Name": "Giant Killer",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "GOAL",
@@ -4436,7 +4441,7 @@
       "Name": "Gun for Hire",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1149
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -4444,7 +4449,7 @@
       "Name": "Hold The Line",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "IM_THE_LAW",
@@ -4452,7 +4457,7 @@
       "Name": "I am the law!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "INFILTRATOR",
@@ -4460,7 +4465,7 @@
       "Name": "Infiltrator",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "LUMBERJACK",
@@ -4468,7 +4473,7 @@
       "Name": "Lumberjack",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -4508,7 +4513,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     },
     {
       "ID": "RECYCLER",
@@ -4516,7 +4521,7 @@
       "Name": "Recycler",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "RUTHLESS",
@@ -4540,7 +4545,7 @@
       "Name": "Sensei",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "SHADOW_BOXING",
@@ -4564,7 +4569,7 @@
       "Name": "Silent but Violent",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "TECHNOPHOBE",
@@ -4572,7 +4577,7 @@
       "Name": "Technophobe",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -4580,7 +4585,7 @@
       "Name": "There Can Be Only One!",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -4588,7 +4593,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "THE_WATCHERS",
@@ -4611,7 +4616,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1663,
+      "Progressed": 1665,
       "Completed": 0
     }
   ],
@@ -4619,8 +4624,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-12-18T20:02:59.2153729+00:00",
-  "LastChanged_Achievements": "2023-12-30T15:09:39.7776275+00:00",
+  "LastChanged_Achievements": "2023-12-30T16:10:18.6364944+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:51.9665809+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:02:43.6387422+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:09:39.777679+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:03:20.1381055+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:10:18.6365461+00:00"
 }

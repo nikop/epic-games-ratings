@@ -3,10 +3,10 @@
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 1047,
-  "Ranking_Popularity": 207,
+  "Ranking_Popularity": 208,
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 98,
-  "Ranking_EOS_Completed": 328,
+  "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
@@ -5263,10 +5263,16 @@
       "Rating": 3.95,
       "NumberOfAwards": 2764,
       "NumberOfAwardsMax": 585
+    },
+    {
+      "Time": "2023-12-30T15:59:09.7129227+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 2765,
+      "NumberOfAwardsMax": 585
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2764,
+  "NumberOfAwards": 2765,
   "NumberOfAwardsMax": 585,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5310,7 +5316,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 561
+      "Count": 562
     },
     {
       "Text": "This game has a Silly Community",
@@ -5325,9 +5331,9 @@
       "Count": 531
     }
   ],
-  "EOS_Progressed": 92744,
+  "EOS_Progressed": 92750,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 350,
+  "EOS_NewPlayers": 354,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -29745,6 +29751,11 @@
       "Time": "2023-12-30T15:06:13.1691615+00:00",
       "NumProgressed": 92744,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-30T16:08:25.7904827+00:00",
+      "NumProgressed": 92750,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -29770,9 +29781,9 @@
       "ID": "ACH_0012",
       "SetID": "3kam13l",
       "Name": "Roid Ranger",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 927
+      "UsersEstimate": 1855
     },
     {
       "ID": "ACH_0013",
@@ -29780,7 +29791,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "ACH_0014",
@@ -29788,7 +29799,7 @@
       "Name": "Track Star",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "ACH_0015",
@@ -29860,7 +29871,7 @@
       "Name": "Privateer",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_0100",
@@ -29876,7 +29887,7 @@
       "Name": "Talent Scout",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_0102",
@@ -30004,7 +30015,7 @@
       "Name": "True Player",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "ACH_0450",
@@ -30036,7 +30047,7 @@
       "Name": "Impossible Dreamer",
       "Percentage": 0.2,
       "XP": 55,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_0600",
@@ -30044,7 +30055,7 @@
       "Name": "Rockay Rex",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "ACH_1010",
@@ -30083,22 +30094,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92744,
+      "Progressed": 92750,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21091,
+      "Progressed": 21097,
       "Completed": 15593
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-12-30T10:59:11.5370743+00:00",
-  "LastChanged_Achievements": "2023-12-30T15:06:13.1691613+00:00",
+  "LastChanged": "2023-12-30T15:59:09.7129225+00:00",
+  "LastChanged_Achievements": "2023-12-30T16:08:25.7904824+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:55.2021168+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:58:46.951262+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:06:13.1692736+00:00"
+  "LastUpdate_Ratings": "2023-12-30T15:59:09.7129231+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:08:25.7906101+00:00"
 }

@@ -9,8 +9,8 @@
 | Abandon Ship! | 28.00% | ~31 |
 | The Tomb of Kih-Oskh | 22.00% | ~24 |
 | The Weighing of the Soul | 20.00% | ~22 |
-| The Curse of Kih-Oskh | 16.00% | ~18 |
-| It's a Deal! | 12.00% | ~13 |
+| The Curse of Kih-Oskh | 17.00% | ~19 |
+| It's a Deal! | 13.00% | ~14 |
 | Cat Lover | 11.00% | ~12 |
 | In the Name of the Law | 9.00% | ~10 |
 | Au Revoir, Abudin | 9.00% | ~10 |
@@ -21,8 +21,8 @@
 | The Eyes! | 7.00% | ~8 |
 | Keep the Doctor Away | 7.00% | ~8 |
 | Just a Palm Tree | 7.00% | ~8 |
+| Under the Hood | 7.00% | ~8 |
 | Punctual | 7.00% | ~8 |
-| Under the Hood | 6.00% | ~7 |
 | Long Live Gaipajama! | 6.00% | ~7 |
 | Barking Dog | 6.00% | ~7 |
 | Tintin, Reporter | 5.00% | ~6 |

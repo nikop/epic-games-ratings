@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -179,11 +179,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1353,
+  "EOS_Progressed": 1355,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.59,
+  "EOS_Completed_Percentage": 2.58,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -4674,6 +4674,11 @@
       "Time": "2023-12-30T15:04:28.733081+00:00",
       "NumProgressed": 1353,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-30T16:05:14.5381003+00:00",
+      "NumProgressed": 1355,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4686,7 +4691,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -4694,7 +4699,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "_03_FinishAct1",
@@ -4702,7 +4707,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4710,7 +4715,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "_05_FinishAct2",
@@ -4732,9 +4737,9 @@
       "ID": "_07_FinishAct3",
       "SetID": "8a1io5d",
       "Name": "All Good Things",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 244
+      "UsersEstimate": 230
     },
     {
       "ID": "_08_Completion_10",
@@ -4766,7 +4771,7 @@
       "Name": "Seadog",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "_12_Completion_50",
@@ -4846,7 +4851,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -4870,7 +4875,7 @@
       "Name": "Jaded Judge",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -4893,7 +4898,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1353,
+      "Progressed": 1355,
       "Completed": 35
     }
   ],
@@ -4901,8 +4906,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2023-12-30T15:04:28.7330807+00:00",
+  "LastChanged_Achievements": "2023-12-30T16:05:14.5380999+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:59:09.6721291+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:04:28.7331158+00:00"
+  "LastUpdate_Ratings": "2023-12-30T15:59:32.3714223+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:05:14.5381371+00:00"
 }

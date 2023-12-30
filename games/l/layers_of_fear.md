@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 84.00% | ~194 |
+| Something important | 84.00% | ~195 |
 | A piece of the story | 60.00% | ~139 |
 | Wanderer | 54.00% | ~125 |
-| It's covered up for a reason | 52.00% | ~120 |
-| Scraps of love | 46.00% | ~106 |
-| The artist’s impression | 45.00% | ~104 |
-| Do what you have to | 43.00% | ~99 |
+| It's covered up for a reason | 52.00% | ~121 |
+| Scraps of love | 46.00% | ~107 |
+| The artist’s impression | 44.00% | ~102 |
+| Do what you have to | 43.00% | ~100 |
 | Sign of weakness | 39.00% | ~90 |
 | Refuse to look | 35.00% | ~81 |
 | Face your fears | 29.00% | ~67 |
-| Finished it | 27.00% | ~62 |
+| Finished it | 27.00% | ~63 |
 | Whispers long forgotten | 16.00% | ~37 |
 | A Slice of Life | 12.00% | ~28 |
 | Sound Bite | 12.00% | ~28 |
 | The art of movement | 12.00% | ~28 |
-| Debut | 11.00% | ~25 |
-| Playtime | 11.00% | ~25 |
-| Tough conversation | 11.00% | ~25 |
-| A new way | 10.00% | ~23 |
+| Debut | 11.00% | ~26 |
+| Playtime | 11.00% | ~26 |
+| Tough conversation | 11.00% | ~26 |
 | Another perspective | 10.00% | ~23 |
 | First steps | 10.00% | ~23 |
 | Lights! Camera! Action! | 10.00% | ~23 |
 | The tragedy unfolds | 10.00% | ~23 |
+| A new way | 9.00% | ~21 |
 | Breaking free | 9.00% | ~21 |
 | True Reflection | 7.00% | ~16 |
 | Casting Finished | 6.00% | ~14 |
@@ -35,10 +35,10 @@
 | Instinct of self-preservation | 5.00% | ~12 |
 | Something to think about | 4.00% | ~9 |
 | I remember It Like Was Yesterday | 4.00% | ~9 |
+| Immortalized in my heart | 4.00% | ~9 |
 | The Perfect Storm | 4.00% | ~9 |
 | We Are Not Alone | 3.00% | ~7 |
 | Dark correspondence | 3.00% | ~7 |
-| Immortalized in my heart | 3.00% | ~7 |
 | Se7en Seas | 3.00% | ~7 |
 | Body of Work | 2.00% | ~5 |
 | It was worth a try | 2.00% | ~5 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231 (Ranked 412)  
+Progressed: 232 (Ranked 411)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,4 +125,4 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 213 | 0 |
 | 2023-12-28 | 220 | 0 |
 | 2023-12-29 | 227 | 0 |
-| 2023-12-30 | 231 | 0 |
+| 2023-12-30 | 232 | 0 |

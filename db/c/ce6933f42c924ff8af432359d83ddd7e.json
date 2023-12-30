@@ -2,9 +2,9 @@
   "ID": "ce6933f42c924ff8af432359d83ddd7e",
   "Name": "Mystery in the Office",
   "ProductSlug": "mystery-in-the-office-f629ad",
-  "Ranking_EOS_Progress": 272,
+  "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
@@ -3025,9 +3025,9 @@
       "ID": "ACH_SANDWICHES",
       "SetID": "6f5dahd",
       "Name": "Food lover",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 55,
-      "UsersEstimate": 783
+      "UsersEstimate": 796
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -3056,8 +3056,8 @@
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-12-30T15:09:18.4822357+00:00",
+  "LastChanged_Achievements": "2023-12-30T16:09:56.5407232+00:00",
   "LastUpdate_AppInfo": "2023-12-29T19:57:02.4539688+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:58:06.0046611+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:09:18.4822609+00:00"
+  "LastUpdate_Ratings": "2023-12-30T15:58:30.7550624+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:09:56.5407423+00:00"
 }

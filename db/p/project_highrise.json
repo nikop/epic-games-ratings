@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 463,
+  "EOS_Progressed": 464,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1475,6 +1475,11 @@
       "Time": "2023-12-30T12:04:01.6331747+00:00",
       "NumProgressed": 463,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T16:04:26.4890446+00:00",
+      "NumProgressed": 464,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1502,7 +1507,7 @@
       "Name": "Lux Living",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ach_apartments_2",
@@ -1622,7 +1627,7 @@
       "Name": "Need a Consult",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ach_consultant_1",
@@ -1630,7 +1635,7 @@
       "Name": "Upgrade Unlock",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ach_consultants_a",
@@ -1886,7 +1891,7 @@
       "Name": "It\u0027s Technical",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ach_office_2",
@@ -1926,7 +1931,7 @@
       "Name": "Your Prestige is Rising",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ach_prestige_2",
@@ -1950,15 +1955,15 @@
       "Name": "In the Black",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ach_profit_1",
       "SetID": "b8gh1fi",
       "Name": "Swimming in Surplus",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 42
     },
     {
       "ID": "ach_profit_2",
@@ -2038,7 +2043,7 @@
       "Name": "Emporium Empire",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ach_retail_3",
@@ -2110,7 +2115,7 @@
       "Name": "Smooth Service",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ach_trash_1",
@@ -2126,7 +2131,7 @@
       "Name": "We Don\u0027t Need No Education",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ach_util_cable",
@@ -2158,7 +2163,7 @@
       "Name": "Get Electrified",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ach_util_water",
@@ -2189,7 +2194,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 463,
+      "Progressed": 464,
       "Completed": 0
     }
   ],
@@ -2197,8 +2202,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-30T15:03:43.8661712+00:00",
+  "LastChanged_Achievements": "2023-12-30T16:04:26.4890443+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.0953028+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:00:09.5381015+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:03:43.8662669+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:02:44.5612788+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:04:26.4891196+00:00"
 }

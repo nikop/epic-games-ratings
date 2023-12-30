@@ -2,7 +2,7 @@
   "ID": "fee7e9420cd849c3a8e7d09b2622f9b3",
   "Name": "Risen",
   "ProductSlug": "risen-e8e55e",
-  "Ranking_Rating": 522,
+  "Ranking_Rating": 523,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 454,
@@ -1027,9 +1027,9 @@
       "ID": "id_52",
       "SetID": "bk9jib6",
       "Name": "Idiot",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "id_53",
@@ -1164,8 +1164,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-28T07:02:46.0007261+00:00",
-  "LastChanged_Achievements": "2023-12-30T15:09:34.6449695+00:00",
+  "LastChanged_Achievements": "2023-12-30T16:10:13.3412866+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:07.54931+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:56:53.859345+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:09:34.6450132+00:00"
+  "LastUpdate_Ratings": "2023-12-30T15:57:17.5278905+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:10:13.3413439+00:00"
 }

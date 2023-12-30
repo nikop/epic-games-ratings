@@ -1045,7 +1045,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9677,
+  "EOS_Progressed": 9679,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
@@ -10285,6 +10285,11 @@
       "Time": "2023-12-30T15:08:49.1758127+00:00",
       "NumProgressed": 9677,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-30T16:09:24.784555+00:00",
+      "NumProgressed": 9679,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10304,7 +10309,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 2032
+      "UsersEstimate": 2033
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -10312,7 +10317,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4258
+      "UsersEstimate": 4259
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -10360,7 +10365,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1935
+      "UsersEstimate": 1936
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -10440,7 +10445,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1548
+      "UsersEstimate": 1549
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -10448,7 +10453,7 @@
       "Name": "Machiavelli",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -10464,7 +10469,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3387
+      "UsersEstimate": 3388
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -10488,7 +10493,7 @@
       "Name": "Peak Performance",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4451
+      "UsersEstimate": 4452
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -10624,7 +10629,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4838
+      "UsersEstimate": 4840
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -10648,14 +10653,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4935
+      "UsersEstimate": 4936
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9677,
+      "Progressed": 9679,
       "Completed": 10
     }
   ],
@@ -10663,8 +10668,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-30T03:57:33.3665427+00:00",
-  "LastChanged_Achievements": "2023-12-30T15:08:49.1758125+00:00",
+  "LastChanged_Achievements": "2023-12-30T16:09:24.7845546+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.592446+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:57:49.3407278+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:08:49.1758784+00:00"
+  "LastUpdate_Ratings": "2023-12-30T15:58:13.8413896+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:09:24.7846465+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9137,10 +9137,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33183,
       "NumberOfAwardsMax": 5715
+    },
+    {
+      "Time": "2023-12-30T16:00:10.7112474+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33188,
+      "NumberOfAwardsMax": 5715
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33183,
+  "NumberOfAwards": 33188,
   "NumberOfAwardsMax": 5715,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9172,7 +9178,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4281
+      "Count": 4286
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9187,10 +9193,10 @@
       "Count": 3609
     }
   ],
-  "EOS_Progressed": 247613,
-  "EOS_Completed": 2576,
-  "EOS_NewPlayers": 3890,
-  "EOS_NewCompleters": 19,
+  "EOS_Progressed": 247647,
+  "EOS_Completed": 2577,
+  "EOS_NewPlayers": 3900,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -37937,6 +37943,11 @@
       "Time": "2023-12-30T15:09:45.3734866+00:00",
       "NumProgressed": 247613,
       "NumCompleted": 2576
+    },
+    {
+      "Time": "2023-12-30T16:10:24.0651022+00:00",
+      "NumProgressed": 247647,
+      "NumCompleted": 2577
     }
   ],
   "TotalAchievements": 546,
@@ -37948,7 +37959,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4952
+      "UsersEstimate": 4953
     },
     {
       "ID": "objective_completed_10",
@@ -39628,7 +39639,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "objective_completed_35",
@@ -39812,7 +39823,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "objective_completed_40",
@@ -41092,7 +41103,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1733
+      "UsersEstimate": 1734
     },
     {
       "ID": "objective_completed_70",
@@ -42252,7 +42263,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1284
     },
     {
       "ID": "objective_completed_1563",
@@ -42315,21 +42326,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 213887,
-      "Completed": 4101
+      "Progressed": 213921,
+      "Completed": 4102
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 247613,
-      "Completed": 2576
+      "Progressed": 247647,
+      "Completed": 2577
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-29T22:59:27.6538149+00:00",
-  "LastChanged_Achievements": "2023-12-30T15:09:45.3734863+00:00",
+  "LastChanged": "2023-12-30T16:00:10.7112472+00:00",
+  "LastChanged_Achievements": "2023-12-30T16:10:24.0651019+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:59:47.1486845+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:09:45.3760101+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:00:10.7112479+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:10:24.0675507+00:00"
 }

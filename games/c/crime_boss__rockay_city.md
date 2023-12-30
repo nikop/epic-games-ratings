@@ -11,16 +11,16 @@ Rating: 3.95 (Ranked 1,047)
 | Too Old for This | 3.00% | ~2,782 |
 | Fancy Pants | 3.00% | ~2,782 |
 | Underworld Initiate | 2.00% | ~1,855 |
+| Roid Ranger | 2.00% | ~1,855 |
 | Case Closed | 2.00% | ~1,855 |
 | King of the Hill | 2.00% | ~1,855 |
 | Off the Rocks | 2.00% | ~1,855 |
 | Raider’s Ruin | 2.00% | ~1,855 |
 | Dragonslayer | 2.00% | ~1,855 |
-| Roid Ranger | 1.00% | ~927 |
-| Hidden Sonata | 1.00% | ~927 |
-| Track Star | 1.00% | ~927 |
-| True Player | 1.00% | ~927 |
-| Rockay Rex | 1.00% | ~927 |
+| Hidden Sonata | 1.00% | ~928 |
+| Track Star | 1.00% | ~928 |
+| True Player | 1.00% | ~928 |
+| Rockay Rex | 1.00% | ~928 |
 | Headhunter | 0.90% | ~835 |
 | I Like Trains | 0.70% | ~649 |
 | Freebooter | 0.70% | ~649 |
@@ -39,16 +39,16 @@ Rating: 3.95 (Ranked 1,047)
 | Red Star | 0.30% | ~278 |
 | Classy Joint | 0.30% | ~278 |
 | All for One | 0.30% | ~63 |
-| Privateer | 0.20% | ~185 |
-| Talent Scout | 0.20% | ~185 |
-| Impossible Dreamer | 0.20% | ~185 |
+| Privateer | 0.20% | ~186 |
+| Talent Scout | 0.20% | ~186 |
+| Impossible Dreamer | 0.20% | ~186 |
 | One for All | 0.20% | ~42 |
 | Now You See Me | 0.20% | ~42 |
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,744 (Ranked 98)  
-Completed: 58 (0.06%) (Ranked 328)  
+Progressed: 92,750 (Ranked 98)  
+Completed: 58 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -301,15 +301,15 @@ Completed: 58 (0.06%) (Ranked 328)
 | 2023-12-27 | 92,615 | 58 |
 | 2023-12-28 | 92,654 | 58 |
 | 2023-12-29 | 92,698 | 58 |
-| 2023-12-30 | 92,744 | 58 |
+| 2023-12-30 | 92,750 | 58 |
 ## Awards
-Max (Diverse Characters): 585  (Ranked 207)  
-Sum: 2,764 (Ranked 190)  
-Diff (max vs sum): 17  
+Max (Diverse Characters): 585  (Ranked 208)  
+Sum: 2,765 (Ranked 190)  
+Diff (max vs sum): 18  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 585 |
-| This game is Highly Recommended | 561 |
+| This game is Highly Recommended | 562 |
 | This game has Quickly Understood Controls | 544 |
 | This game has Amazing Characters | 543 |
 | This game is Extremely Fun | 531 |
@@ -591,4 +591,4 @@ Diff (max vs sum): 17
 | 2023-12-27 | 3.95 | 581 | 2,740 |
 | 2023-12-28 | 3.95 | 583 | 2,752 |
 | 2023-12-29 | 3.95 | 585 | 2,761 |
-| 2023-12-30 | 3.95 | 585 | 2,764 |
+| 2023-12-30 | 3.95 | 585 | 2,765 |

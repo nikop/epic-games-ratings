@@ -4,7 +4,7 @@
   "ProductSlug": "sands-of-aura",
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 388,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -1080,9 +1080,9 @@
       "ID": "WILGRAM_TWINS_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Twin Thorns",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "WILGRAM_TWINS_MASTER",
@@ -1113,8 +1113,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-12-30T15:05:56.8109131+00:00",
+  "LastChanged_Achievements": "2023-12-30T16:08:09.0751781+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.2387789+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:02:34.0235617+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:05:56.8109658+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:03:09.9928524+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:08:09.0752345+00:00"
 }

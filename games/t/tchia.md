@@ -6,7 +6,7 @@ Rating: 4.71 (Ranked 202)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In a Pinch | 0.70% | ~60 |
-| Energy Saver | 0.50% | ~43 |
+| Energy Saver | 0.60% | ~51 |
 | Soul-Canon | 0.30% | ~26 |
 | The Journey Onwards | 0.30% | ~26 |
 | Body and Soul | 0.20% | ~17 |
@@ -27,7 +27,7 @@ Rating: 4.71 (Ranked 202)
 | Live Wire | 0.00% | ~0 |
 | Thing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,549 (Ranked 186)  
+Progressed: 8,550 (Ranked 186)  
 Completed: 34 (0.40%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 34 (0.40%) (Ranked 229)
 | 2023-12-27 | 8,408 | 34 |
 | 2023-12-28 | 8,451 | 34 |
 | 2023-12-29 | 8,521 | 34 |
-| 2023-12-30 | 8,549 | 34 |
+| 2023-12-30 | 8,550 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

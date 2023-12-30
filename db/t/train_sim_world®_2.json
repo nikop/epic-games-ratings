@@ -2,12 +2,12 @@
   "ID": "d8d8b399f3d14ac2b9b75870329a68dd",
   "Name": "Train Sim World\u00AE 2",
   "ProductSlug": "train-sim-world-2",
-  "Ranking_Rating": 761,
+  "Ranking_Rating": 771,
   "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 154,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 563,
+  "Ranking_EOS_NewPlayers": 564,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-07-29T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.4,
+  "Rating": 4.39,
   "NumberOfRatings": 2541,
   "RatingHistory": [
     {
@@ -3475,10 +3475,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 4397,
       "NumberOfAwardsMax": 592
+    },
+    {
+      "Time": "2023-12-30T15:58:16.2686139+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 4399,
+      "NumberOfAwardsMax": 592
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4397,
+  "NumberOfAwards": 4399,
   "NumberOfAwardsMax": 592,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3492,7 +3498,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 466
+      "Count": 468
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3560,8 +3566,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:00.3136154+00:00",
-  "LastChanged": "2023-12-30T01:40:42.1022108+00:00",
+  "LastChanged": "2023-12-30T15:58:16.2686137+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:04.6321089+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:57:51.6328004+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:08:28.2725293+00:00"
+  "LastUpdate_Ratings": "2023-12-30T15:58:16.2686143+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:09:02.8641474+00:00"
 }

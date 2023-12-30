@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -513,9 +513,9 @@
       "Count": 95
     }
   ],
-  "EOS_Progressed": 256238,
+  "EOS_Progressed": 256244,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 804,
+  "EOS_NewPlayers": 805,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29003,6 +29003,11 @@
       "Time": "2023-12-30T15:04:40.2640075+00:00",
       "NumProgressed": 256238,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-30T16:05:28.5479243+00:00",
+      "NumProgressed": 256244,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -29014,7 +29019,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 69184
+      "UsersEstimate": 69186
     },
     {
       "ID": "ACH_AON",
@@ -29078,7 +29083,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 33311
+      "UsersEstimate": 33312
     },
     {
       "ID": "ACH_HATTRICK",
@@ -29094,7 +29099,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 23061
+      "UsersEstimate": 23062
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -29158,7 +29163,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 74309
+      "UsersEstimate": 74311
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -29230,7 +29235,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64060
+      "UsersEstimate": 64061
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -29294,7 +29299,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 15374
+      "UsersEstimate": 15375
     },
     {
       "ID": "ACH_MEMORY5",
@@ -29318,7 +29323,7 @@
       "Name": "Griever",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20499
+      "UsersEstimate": 20500
     },
     {
       "ID": "ACH_PUMPKINJACK",
@@ -29326,7 +29331,7 @@
       "Name": "Pumpkin Jack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20499
+      "UsersEstimate": 20500
     },
     {
       "ID": "ACH_SCRATCH",
@@ -29334,7 +29339,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64060
+      "UsersEstimate": 64061
     },
     {
       "ID": "ACH_SOREAD",
@@ -29382,7 +29387,7 @@
       "Name": "Trash compactor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15374
+      "UsersEstimate": 15375
     },
     {
       "ID": "ACH_TROLLKING",
@@ -29398,7 +29403,7 @@
       "Name": "Valedictorian",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 15374
+      "UsersEstimate": 15375
     },
     {
       "ID": "ACH_WAKEUP",
@@ -29406,7 +29411,7 @@
       "Name": "Wake up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 20499
+      "UsersEstimate": 20500
     },
     {
       "ID": "ACH_WELLDESERVED",
@@ -29429,7 +29434,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 256238,
+      "Progressed": 256244,
       "Completed": 8
     }
   ],
@@ -29437,8 +29442,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-12-29T15:03:04.8477148+00:00",
-  "LastChanged_Achievements": "2023-12-30T15:04:40.2640072+00:00",
+  "LastChanged_Achievements": "2023-12-30T16:05:28.5479239+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:20.3145423+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:02:36.737115+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:04:40.2641803+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:03:12.9137635+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:05:28.548067+00:00"
 }

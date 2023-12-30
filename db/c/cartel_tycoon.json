@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 891,
+  "EOS_Progressed": 892,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -3141,6 +3141,11 @@
       "Time": "2023-12-30T13:08:17.5892819+00:00",
       "NumProgressed": 891,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-30T16:05:51.6684712+00:00",
+      "NumProgressed": 892,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3174,9 +3179,9 @@
       "ID": "dont-miss-calls",
       "SetID": "bed33dd",
       "Name": "Didn\u0027t Miss A Single One",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 392
+      "UsersEstimate": 384
     },
     {
       "ID": "female-conqueror",
@@ -3192,7 +3197,7 @@
       "Name": "That was base",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "hire-lieutenant",
@@ -3200,7 +3205,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "kill-lieutenants",
@@ -3224,7 +3229,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "product-profit",
@@ -3248,7 +3253,7 @@
       "Name": "I\u0027m Going To Call You Kitty",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "rob-village",
@@ -3264,7 +3269,7 @@
       "Name": "Spread",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "send-smuggling",
@@ -3272,7 +3277,7 @@
       "Name": "Camellos",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "unlock-residences",
@@ -3288,7 +3293,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "use-submarine",
@@ -3303,15 +3308,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 891,
+      "Progressed": 892,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2023-12-30T15:05:01.8175512+00:00",
+  "LastChanged_Achievements": "2023-12-30T16:05:51.6684708+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:28.0909212+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:02:27.6998016+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:05:01.8175755+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:03:02.5251338+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:05:51.6684969+00:00"
 }

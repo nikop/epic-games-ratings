@@ -11,7 +11,7 @@
 | Connected | 67.00% | ~66 |
 | Expansion | 62.00% | ~61 |
 | Mine! | 59.00% | ~58 |
-| Harvest Time | 56.00% | ~55 |
+| Harvest Time | 57.00% | ~56 |
 | Artificer's Apprentice | 51.00% | ~50 |
 | Fly the friendly Sky | 47.00% | ~46 |
 | Get out of here! | 41.00% | ~40 |
@@ -27,8 +27,8 @@
 | Sevenkeeps Seat of Kings | 18.00% | ~18 |
 | Friend of Alluvyan | 17.00% | ~17 |
 | Friend of Connach | 15.00% | ~15 |
+| Break Free | 15.00% | ~15 |
 | Friend of Gillyshire | 14.00% | ~14 |
-| Break Free | 14.00% | ~14 |
 | Philo's Tale | 12.00% | ~12 |
 | Stormwatch Faste | 12.00% | ~12 |
 | Friend of Silver Drift Hollow | 12.00% | ~12 |

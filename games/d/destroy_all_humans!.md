@@ -6,48 +6,48 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 69.00% | ~162 |
-| Kaijuiced | 67.00% | ~157 |
-| Lie Back and Think of Albion | 60.00% | ~141 |
+| Shop Til They Drop | 69.00% | ~163 |
+| Kaijuiced | 67.00% | ~158 |
+| Lie Back and Think of Albion | 61.00% | ~144 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 59.00% | ~139 |
+| Yettisoned | 56.00% | ~132 |
 | I Look Up As I Walk to Takoshima | 56.00% | ~132 |
-| Yettisoned | 55.00% | ~129 |
 | Perfect Probulator | 54.00% | ~127 |
+| Lobster Blisque | 50.00% | ~118 |
 | Pimp My Raid | 50.00% | ~118 |
-| Lobster Blisque | 49.00% | ~115 |
-| Earthly Pleasures | 46.00% | ~108 |
+| Earthly Pleasures | 46.00% | ~109 |
 | Fly Me to the Moon Base | 45.00% | ~106 |
 | Ducks in a Row, Fish in a Barrel | 43.00% | ~101 |
 | Freshly Squeezed | 37.00% | ~87 |
-| Forbidden Donut | 35.00% | ~82 |
+| Forbidden Donut | 36.00% | ~85 |
 | Bodied Sattva | 34.00% | ~80 |
 | Upgreatest | 33.00% | ~78 |
 | Furon Fashion | 28.00% | ~66 |
-| Deincarnated | 26.00% | ~61 |
-| Rock of the Bay | 24.00% | ~56 |
-| Trans-Siberian Express | 23.00% | ~54 |
+| Deincarnated | 27.00% | ~64 |
+| Rock of the Bay | 24.00% | ~57 |
+| Trans-Siberian Express | 24.00% | ~57 |
 | Re-Return of the Clone of the Invasion II-2 | 19.00% | ~45 |
 | Ouch of Body Experience | 17.00% | ~40 |
 | If You Know What I Mean | 17.00% | ~40 |
 | Arkvoodle Doodle | 16.00% | ~38 |
-| Die Nasty | 14.00% | ~33 |
+| Die Nasty | 15.00% | ~35 |
 | Hidden Human Hive Harvest | 14.00% | ~33 |
 | Mash Machine | 14.00% | ~33 |
-| Dusted | 13.00% | ~31 |
-| Albion Bridge Is for Falling Down | 12.00% | ~28 |
+| Dusted | 14.00% | ~33 |
+| Albion Bridge Is for Falling Down | 13.00% | ~31 |
 | PK Slam Dunk | 10.00% | ~24 |
 | Scuttled | 9.00% | ~21 |
 | Higher Than the Futen Zoku | 9.00% | ~21 |
-| Arty Facts | 6.00% | ~14 |
+| Arty Facts | 7.00% | ~17 |
 | Cult Following | 5.00% | ~12 |
 | Path of the Furon | 5.00% | ~12 |
 | To Russia With Love | 4.00% | ~9 |
 | Transmitting From Sol-3 | 2.00% | ~5 |
+| Steezy Down the Spine | 2.00% | ~5 |
 | Toilet Break | 2.00% | ~5 |
-| Steezy Down the Spine | 1.00% | ~2 |
 | Against All Odds | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235 (Ranked 407)  
+Progressed: 236 (Ranked 407)  
 Completed: 2 (0.85%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 2 (0.85%) (Ranked 185)
 | 2023-12-27 | 188 | 2 |
 | 2023-12-28 | 206 | 2 |
 | 2023-12-29 | 224 | 2 |
-| 2023-12-30 | 235 | 2 |
+| 2023-12-30 | 236 | 2 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 502)  
 Sum: 34 (Ranked 527)  

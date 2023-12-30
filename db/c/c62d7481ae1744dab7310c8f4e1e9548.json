@@ -2,9 +2,9 @@
   "ID": "c62d7481ae1744dab7310c8f4e1e9548",
   "Name": "Samorost 3",
   "ProductSlug": "samorost-3-0c4489",
-  "Ranking_EOS_Progress": 432,
-  "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_Progress": 431,
+  "Ranking_EOS_Completed": 72,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 173,
+  "EOS_Progressed": 174,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.78,
+  "EOS_Completed_Percentage": 5.75,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -879,6 +879,11 @@
       "Time": "2023-12-30T13:06:24.5679772+00:00",
       "NumProgressed": 173,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-30T16:03:47.3669159+00:00",
+      "NumProgressed": 174,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -923,15 +928,15 @@
       "Name": "Four Flutes",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Houby",
       "SetID": "ag48e8e",
       "Name": "Mushrooms",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     },
     {
       "ID": "Jing",
@@ -939,7 +944,7 @@
       "Name": "Jing Jang",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Kamzik",
@@ -947,7 +952,7 @@
       "Name": "Chamois",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Kour",
@@ -971,7 +976,7 @@
       "Name": "Knife",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "Kvitky",
@@ -979,7 +984,7 @@
       "Name": "Blossoms",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "MluviciPapouch",
@@ -987,23 +992,23 @@
       "Name": "Mimicking Parrot",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Myska",
       "SetID": "ag48e8e",
       "Name": "Singing Mouse",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "Netopyrci",
       "SetID": "ag48e8e",
       "Name": "Cave Bats",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "Netopyrek",
@@ -1017,9 +1022,9 @@
       "ID": "Pejsek",
       "SetID": "ag48e8e",
       "Name": "Dog",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "Poustevnik",
@@ -1035,7 +1040,7 @@
       "Name": "Cosmic Ring",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Rybka",
@@ -1043,7 +1048,7 @@
       "Name": "Goldfish",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Sova",
@@ -1051,15 +1056,15 @@
       "Name": "Owl",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "SpiciPapouch",
       "SetID": "ag48e8e",
       "Name": "Sleeping Parrot",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 52
     },
     {
       "ID": "Sputnik2",
@@ -1075,7 +1080,7 @@
       "Name": "Centipede",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Strom",
@@ -1107,7 +1112,7 @@
       "Name": "Rockheads",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Zelvak",
@@ -1121,23 +1126,23 @@
       "ID": "ZpivajiciHouba",
       "SetID": "ag48e8e",
       "Name": "Dancing Fungus",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     }
   ],
   "AchievementSets": [
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 173,
+      "Progressed": 174,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-12-30T15:03:07.1875101+00:00",
+  "LastChanged_Achievements": "2023-12-30T16:03:47.3669156+00:00",
   "LastUpdate_AppInfo": "2023-12-30T07:56:58.817379+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:02:33.9046858+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:03:07.1875411+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:03:09.7431778+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:03:47.3669361+00:00"
 }

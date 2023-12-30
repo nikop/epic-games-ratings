@@ -7,7 +7,7 @@ Number of Ratings: 292  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept | 45.00% | ~388 |
-| Double Kill | 39.00% | ~336 |
+| Double Kill | 39.00% | ~337 |
 | Critical Hit | 21.00% | ~181 |
 | Veteran | 21.00% | ~181 |
 | Dressed For Success | 14.00% | ~121 |
@@ -19,8 +19,8 @@ Number of Ratings: 292  (23.09.2022)
 | Whoops! | 6.00% | ~52 |
 | Landlord Extraordinaire | 6.00% | ~52 |
 | Don't Touch My Stuff | 5.00% | ~43 |
-| The Song of Stoutheart | 4.00% | ~34 |
-| Trojan Horse | 4.00% | ~34 |
+| The Song of Stoutheart | 4.00% | ~35 |
+| Trojan Horse | 4.00% | ~35 |
 | Expert Essence Employment | 3.00% | ~26 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~26 |
 | This Spot's Taken | 2.00% | ~17 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 862 (Ranked 295)  
+Progressed: 863 (Ranked 295)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 796 | 0 |
 | 2023-12-28 | 815 | 0 |
 | 2023-12-29 | 850 | 0 |
-| 2023-12-30 | 862 | 0 |
+| 2023-12-30 | 863 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 29  (Ranked 519)  
 Sum: 251 (Ranked 397)  

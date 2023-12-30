@@ -4,7 +4,7 @@
   "ProductSlug": "bunny-park-835c4c",
   "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 527,
+  "Ranking_EOS_NewPlayers": 526,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-09-30T00:00:00+00:00",
@@ -372,8 +372,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5432443+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.424044+00:00",
   "LastChanged": "2023-03-31T05:58:48.5432443+00:00",
-  "LastChanged_Achievements": "2023-12-30T15:09:25.78118+00:00",
+  "LastChanged_Achievements": "2023-12-30T16:10:04.0781227+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:50.7200436+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:58:37.0154459+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:09:25.7811984+00:00"
+  "LastUpdate_Ratings": "2023-12-30T15:59:00.1812392+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:10:04.0781414+00:00"
 }

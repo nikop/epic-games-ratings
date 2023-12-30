@@ -690,9 +690,9 @@
       "ID": "Harvest_First_Plant",
       "SetID": "7b9f97e",
       "Name": "Harvest Time",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "HeroStory_Elynn",
@@ -1034,9 +1034,9 @@
       "ID": "Release_Mind_Controlled_Unit",
       "SetID": "7b9f97e",
       "Name": "Break Free",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Remove_Raider_From_Tower",
@@ -1083,8 +1083,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-30T15:09:00.2484185+00:00",
+  "LastChanged_Achievements": "2023-12-30T16:09:36.6922953+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:59.8342504+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:57:59.8915271+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:09:00.2484889+00:00"
+  "LastUpdate_Ratings": "2023-12-30T15:58:24.1411509+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:09:36.6923501+00:00"
 }

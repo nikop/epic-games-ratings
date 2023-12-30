@@ -4,7 +4,7 @@
   "ProductSlug": "lords-of-the-fallen",
   "Ranking_Rating": 932,
   "Ranking_Popularity": 245,
-  "Ranking_PopularitySum": 283,
+  "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 358,
   "Ranking_EOS_NewPlayers": 70,
@@ -1279,10 +1279,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 863,
       "NumberOfAwardsMax": 366
+    },
+    {
+      "Time": "2023-12-30T15:59:56.4489968+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 878,
+      "NumberOfAwardsMax": 366
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 863,
+  "NumberOfAwards": 878,
   "NumberOfAwardsMax": 366,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1296,7 +1302,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 231
+      "Count": 246
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1359,9 +1365,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 9438,
+  "EOS_Progressed": 9458,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2356,
+  "EOS_NewPlayers": 2355,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7064,6 +7070,11 @@
       "Time": "2023-12-30T15:08:43.2111763+00:00",
       "NumProgressed": 9438,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-30T16:09:18.6801387+00:00",
+      "NumProgressed": 9458,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -7579,16 +7590,16 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 9438,
+      "Progressed": 9458,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-10-13T16:58:40.9012964+00:00",
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
-  "LastChanged": "2023-12-30T01:43:09.7566449+00:00",
-  "LastChanged_Achievements": "2023-12-30T15:08:43.2111761+00:00",
+  "LastChanged": "2023-12-30T15:59:56.4489966+00:00",
+  "LastChanged_Achievements": "2023-12-30T16:09:18.6801382+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:20.6080478+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:59:33.4381901+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:08:43.2112691+00:00"
+  "LastUpdate_Ratings": "2023-12-30T15:59:56.4489971+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:09:18.6802292+00:00"
 }

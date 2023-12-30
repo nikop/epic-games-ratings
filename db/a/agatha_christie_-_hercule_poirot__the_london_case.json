@@ -2,7 +2,7 @@
   "ID": "4c82d55f22d3437c96cf3e0fcb53b73f",
   "Name": "Agatha Christie - Hercule Poirot: The London Case",
   "ProductSlug": "agatha-christie-hercule-poirot-london-cases-c81a32",
-  "Ranking_EOS_Progress": 506,
+  "Ranking_EOS_Progress": 507,
   "Ranking_EOS_Completed": 93,
   "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 106,
@@ -439,9 +439,9 @@
       "ID": "ACH_01",
       "SetID": "7b646ck",
       "Name": "The Ship",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_010",
@@ -503,9 +503,9 @@
       "ID": "ACH_017",
       "SetID": "7b646ck",
       "Name": "Little ideas",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_018",
@@ -719,9 +719,9 @@
       "ID": "ACH_041",
       "SetID": "7b646ck",
       "Name": "Marc Allard",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_042",
@@ -814,8 +814,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-12-30T15:09:12.3009934+00:00",
+  "LastChanged_Achievements": "2023-12-30T16:09:49.5635197+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:26.0256312+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:59:49.9579129+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:09:12.3010371+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:00:13.8103093+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:09:49.5635582+00:00"
 }

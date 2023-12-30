@@ -3,8 +3,8 @@
   "Name": "The Complex",
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 307,
-  "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_Completed": 118,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 746,
+  "EOS_Progressed": 747,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.82,
+  "EOS_Completed_Percentage": 2.81,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -1490,6 +1490,11 @@
       "Time": "2023-12-30T13:12:24.7634419+00:00",
       "NumProgressed": 746,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-30T16:09:46.188818+00:00",
+      "NumProgressed": 747,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 20,
@@ -1573,7 +1578,7 @@
       "Name": "Trust Me For Once",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ending_8",
@@ -1597,7 +1602,7 @@
       "Name": "Free Champagne",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "kamikaze",
@@ -1605,7 +1610,7 @@
       "Name": "Kamikaze",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "kindar_surprise",
@@ -1637,7 +1642,7 @@
       "Name": "Storage Hunter",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "the_rebel_and_the_doctor",
@@ -1645,7 +1650,7 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "tough_decision",
@@ -1653,14 +1658,14 @@
       "Name": "Tough Decision",
       "Percentage": 92,
       "XP": 50,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 746,
+      "Progressed": 747,
       "Completed": 21
     }
   ],
@@ -1668,8 +1673,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-12-30T15:09:09.1643931+00:00",
+  "LastChanged_Achievements": "2023-12-30T16:09:46.1888176+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.7149105+00:00",
-  "LastUpdate_Ratings": "2023-12-30T14:57:47.2383551+00:00",
-  "LastUpdate_Achievements": "2023-12-30T15:09:09.164428+00:00"
+  "LastUpdate_Ratings": "2023-12-30T15:58:11.4125824+00:00",
+  "LastUpdate_Achievements": "2023-12-30T16:09:46.1888337+00:00"
 }

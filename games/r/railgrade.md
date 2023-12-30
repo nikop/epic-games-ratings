@@ -1,19 +1,19 @@
 # RAILGRADE
 [Store](https://store.epicgames.com/en-US/p/railgrade)  
 [View Rawdata](../../db/r/railgrade.json)  
-Rating: 4.55 (Ranked 522)  
+Rating: 4.55 (Ranked 523)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 106.00% | ~19,080 |
-| Before the Downfall | 101.00% | ~18,180 |
-| Money like Water | 99.00% | ~17,820 |
-| Minimalist | 98.00% | ~17,640 |
-| Builder | 90.00% | ~16,200 |
-| Eraser | 76.00% | ~13,680 |
-| Pocket of Trains | 71.00% | ~12,780 |
-| Inspector | 64.00% | ~11,520 |
-| Going the Distance | 59.00% | ~10,620 |
+| Trevithick's Legacy | 106.00% | ~19,079 |
+| Before the Downfall | 101.00% | ~18,179 |
+| Money like Water | 99.00% | ~17,819 |
+| Minimalist | 98.00% | ~17,639 |
+| Builder | 90.00% | ~16,199 |
+| Eraser | 76.00% | ~13,679 |
+| Pocket of Trains | 71.00% | ~12,779 |
+| Inspector | 64.00% | ~11,519 |
+| Going the Distance | 59.00% | ~10,619 |
 | Oil Baron | 46.00% | ~8,280 |
 | Loads-a-Money | 46.00% | ~8,280 |
 | Helper of the People | 43.00% | ~7,740 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 522)
 | Overdeer | 0.60% | ~108 |
 | Cloud Services | 0.30% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,000 (Ranked 156)  
+Progressed: 17,999 (Ranked 156)  
 Completed: 26 (0.14%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
