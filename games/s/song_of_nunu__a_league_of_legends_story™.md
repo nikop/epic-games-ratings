@@ -7,14 +7,14 @@ Rating: 4.52 (Ranked 570)
 | ---- | ---------- | ----- |
 | Feels Familiar | 74.00% | ~1,032 |
 | I Broke It | 73.00% | ~1,018 |
-| Better On Ice | 67.00% | ~934 |
+| Better On Ice | 68.00% | ~948 |
 | Notai Notes | 66.00% | ~920 |
 | Blue Dreams | 65.00% | ~906 |
 | He's Famous! | 65.00% | ~906 |
 | Cutie Poro | 65.00% | ~906 |
 | Krugmazing | 64.00% | ~892 |
+| The Fire Below the Mountain | 61.00% | ~850 |
 | Moneyball | 60.00% | ~836 |
-| The Fire Below the Mountain | 60.00% | ~836 |
 | No Bites | 55.00% | ~767 |
 | Iceborn | 55.00% | ~767 |
 | Tear of Freedom | 52.00% | ~725 |

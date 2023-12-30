@@ -2,9 +2,9 @@
   "ID": "ad3283cc38a64db89c010975976948de",
   "Name": "Buddy and Friends in Halloween",
   "ProductSlug": "buddy-and-friends-in-halloween-192190",
-  "Ranking_EOS_Progress": 525,
+  "Ranking_EOS_Progress": 524,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 62,
+  "EOS_Progressed": 63,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.84,
+  "EOS_Completed_Percentage": 4.76,
   "EosHistory": [
     {
       "Time": "2023-09-27T22:06:15.8881954+00:00",
@@ -339,6 +339,11 @@
       "Time": "2023-12-30T12:05:47.657403+00:00",
       "NumProgressed": 62,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-30T18:05:59.138236+00:00",
+      "NumProgressed": 63,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-27T20:05:04.1724035+00:00",
@@ -359,21 +364,21 @@
       "Name": "Mirror - 60 pieces",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "LEVEL_060_002",
       "SetID": "5g7b0mb",
       "Name": "Doors - 60 pieces",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "LEVEL_060_003",
       "SetID": "5g7b0mb",
       "Name": "Sidewalk - 60 pieces",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
       "UsersEstimate": 36
     },
@@ -413,7 +418,7 @@
       "ID": "LEVEL_135_002",
       "SetID": "5g7b0mb",
       "Name": "Doors - 135 pieces",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -598,14 +603,14 @@
     {
       "ID": "5g7b0mb",
       "IsBase": true,
-      "Progressed": 62,
+      "Progressed": 63,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-25T11:59:09.0555301+00:00",
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:06:18.8291937+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:05:59.1382356+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.5932305+00:00",
-  "LastUpdate_Ratings": "2023-12-30T16:58:08.4282713+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:06:18.829211+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:58:06.5436813+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:05:59.1382557+00:00"
 }

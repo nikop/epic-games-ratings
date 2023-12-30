@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 501,
+  "EOS_Progressed": 502,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1402,6 +1402,11 @@
       "Time": "2023-12-30T16:03:50.1407647+00:00",
       "NumProgressed": 501,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-30T18:03:32.1532676+00:00",
+      "NumProgressed": 502,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1470,7 +1475,7 @@
       "Name": "Combo Convert",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -1478,7 +1483,7 @@
       "Name": "Perfect Run",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -1494,7 +1499,7 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
@@ -1502,7 +1507,7 @@
       "Name": "Hermit Koco Encounter",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -1518,7 +1523,7 @@
       "Name": "Unknown Threat",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1526,15 +1531,15 @@
       "Name": "Speed Demon",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "FIRST_S_RANK",
       "SetID": "apihg0e",
       "Name": "Superior Ranking",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 195
+      "UsersEstimate": 191
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1726,21 +1731,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 501,
+      "Progressed": 502,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:03:38.9645542+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:03:32.1532672+00:00",
   "LastUpdate_AppInfo": "2023-12-26T20:57:07.4525805+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:03:07.6041629+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:03:38.9645808+00:00"
+  "LastUpdate_Ratings": "2023-12-30T18:03:02.3086944+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:03:32.1533008+00:00"
 }

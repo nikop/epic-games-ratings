@@ -4,7 +4,7 @@
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
   "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
@@ -560,9 +560,9 @@
       "ID": "14",
       "SetID": "41h3j82",
       "Name": "Seoul Hidden Style",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "15",
@@ -600,9 +600,9 @@
       "ID": "19",
       "SetID": "41h3j82",
       "Name": "Best Gala Ever",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 70,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "2",
@@ -624,9 +624,9 @@
       "ID": "4",
       "SetID": "41h3j82",
       "Name": "Welcome to the The Stylin\u0027 Soiree",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 70,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "5",
@@ -640,9 +640,9 @@
       "ID": "6",
       "SetID": "41h3j82",
       "Name": "Scooter Race",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "7",
@@ -681,8 +681,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:05:17.6693798+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:05:03.194411+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:15.2924165+00:00",
-  "LastUpdate_Ratings": "2023-12-30T16:59:30.5042284+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:05:17.6693923+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:59:19.9915647+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:05:03.1944232+00:00"
 }

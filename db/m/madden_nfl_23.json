@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -997,9 +997,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4244,
+  "EOS_Progressed": 4247,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8027,6 +8027,11 @@
       "Time": "2023-12-30T16:05:12.6769753+00:00",
       "NumProgressed": 4244,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T18:04:53.6451315+00:00",
+      "NumProgressed": 4247,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -8039,7 +8044,7 @@
       "Name": "Primetime",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "achievement_10",
@@ -8047,7 +8052,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2336
     },
     {
       "ID": "achievement_11",
@@ -8055,7 +8060,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "achievement_12",
@@ -8063,7 +8068,7 @@
       "Name": "Stud Finder",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "achievement_13",
@@ -8071,7 +8076,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2249
+      "UsersEstimate": 2251
     },
     {
       "ID": "achievement_14",
@@ -8079,7 +8084,7 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "achievement_15",
@@ -8087,7 +8092,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2292
+      "UsersEstimate": 2293
     },
     {
       "ID": "achievement_16",
@@ -8095,7 +8100,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "achievement_17",
@@ -8167,15 +8172,15 @@
       "Name": "Already in Progress",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "achievement_6",
       "SetID": "c8fif6p",
       "Name": "Change of Scenery",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 679
+      "UsersEstimate": 722
     },
     {
       "ID": "achievement_7",
@@ -8183,7 +8188,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "achievement_8",
@@ -8191,7 +8196,7 @@
       "Name": "Pro Bowler",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "achievement_9",
@@ -8206,7 +8211,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4244,
+      "Progressed": 4247,
       "Completed": 0
     }
   ],
@@ -8214,8 +8219,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-28T15:58:42.1942443+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:05:07.5223035+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:04:53.6451311+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:10.6313253+00:00",
-  "LastUpdate_Ratings": "2023-12-30T16:59:38.3483765+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:05:07.5223456+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:59:26.7939338+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:04:53.6451751+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -167,7 +167,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16115,
+  "EOS_Progressed": 16116,
   "EOS_Completed": 15,
   "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 1,
@@ -5352,6 +5352,11 @@
       "Time": "2023-12-30T17:09:25.8087058+00:00",
       "NumProgressed": 16115,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-30T18:09:23.9832915+00:00",
+      "NumProgressed": 16116,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -5396,7 +5401,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12086
+      "UsersEstimate": 12087
     },
     {
       "ID": "ACH_AE_14",
@@ -5412,7 +5417,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3545
+      "UsersEstimate": 3546
     },
     {
       "ID": "ACH_AE_16",
@@ -5540,7 +5545,7 @@
       "Name": "Pajama Boy",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 2578
+      "UsersEstimate": 2579
     },
     {
       "ID": "ACH_AE_30",
@@ -5643,7 +5648,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16115,
+      "Progressed": 16116,
       "Completed": 15
     }
   ],
@@ -5651,8 +5656,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-27T16:00:31.0909826+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:09:25.8087053+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:09:23.9832911+00:00",
   "LastUpdate_AppInfo": "2023-12-26T18:57:07.3435183+00:00",
-  "LastUpdate_Ratings": "2023-12-30T16:57:10.7321728+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:09:25.8087563+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:57:14.9281241+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:09:23.9833368+00:00"
 }

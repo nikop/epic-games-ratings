@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -2253,9 +2253,9 @@
       "Count": 225
     }
   ],
-  "EOS_Progressed": 21834,
+  "EOS_Progressed": 21835,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12393,6 +12393,11 @@
       "Time": "2023-12-30T17:08:11.8497946+00:00",
       "NumProgressed": 21834,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-30T18:08:16.3544164+00:00",
+      "NumProgressed": 21835,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -12404,7 +12409,7 @@
       "Name": "Family man",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2838
+      "UsersEstimate": 2839
     },
     {
       "ID": "CarMechanic",
@@ -12452,7 +12457,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20742
+      "UsersEstimate": 20743
     },
     {
       "ID": "GameOver",
@@ -12484,7 +12489,7 @@
       "Name": "Mystery",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2184
     },
     {
       "ID": "JuniorEstateAgent",
@@ -12492,7 +12497,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2838
+      "UsersEstimate": 2839
     },
     {
       "ID": "KnockKnock",
@@ -12556,7 +12561,7 @@
       "Name": "Pro-creative",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4148
+      "UsersEstimate": 4149
     },
     {
       "ID": "Strongman",
@@ -12572,7 +12577,7 @@
       "Name": "Artistic soul",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2184
     },
     {
       "ID": "YouDoItWrong",
@@ -12587,15 +12592,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21834,
+      "Progressed": 21835,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-12-30T17:00:40.7437289+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:08:11.8497941+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:08:16.354416+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:15.1839615+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:00:40.7437295+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:08:11.8498744+00:00"
+  "LastUpdate_Ratings": "2023-12-30T18:00:22.4973521+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:08:16.3545297+00:00"
 }

@@ -17,10 +17,10 @@ Number of Ratings: 90  (23.09.2022)
 | Lie Back and Think of Albion | 25.00% | ~64 |
 | Upgreatest | 23.00% | ~59 |
 | Pimp My Raid | 23.00% | ~59 |
-| I Look Up As I Walk to Takoshima | 18.00% | ~46 |
+| I Look Up As I Walk to Takoshima | 19.00% | ~48 |
 | Freshly Squeezed | 18.00% | ~46 |
+| Perfect Probulator | 16.00% | ~41 |
 | Die Nasty | 16.00% | ~41 |
-| Perfect Probulator | 15.00% | ~38 |
 | Transmitting From Sol-3 | 14.00% | ~36 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 11.00% | ~28 |
 | Fly Me to the Moon Base | 8.00% | ~20 |
@@ -32,7 +32,7 @@ Number of Ratings: 90  (23.09.2022)
 | Lobster Blisque | 4.00% | ~10 |
 | Yettisoned | 4.00% | ~10 |
 | Arkvoodle Doodle | 4.00% | ~10 |
-| Deincarnated | 2.00% | ~5 |
+| Deincarnated | 3.00% | ~8 |
 | Arty Facts | 1.00% | ~3 |
 | Against All Odds | 1.00% | ~3 |
 | The Optional Mandate | 1.00% | ~3 |

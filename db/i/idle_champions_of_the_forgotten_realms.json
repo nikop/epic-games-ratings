@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 1016,
+  "Ranking_Rating": 1015,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 68,
@@ -9193,9 +9193,9 @@
       "Count": 3609
     }
   ],
-  "EOS_Progressed": 247692,
+  "EOS_Progressed": 247736,
   "EOS_Completed": 2577,
-  "EOS_NewPlayers": 3912,
+  "EOS_NewPlayers": 3934,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -37953,6 +37953,11 @@
       "Time": "2023-12-30T17:10:14.7769294+00:00",
       "NumProgressed": 247692,
       "NumCompleted": 2577
+    },
+    {
+      "Time": "2023-12-30T18:10:09.5980935+00:00",
+      "NumProgressed": 247736,
+      "NumCompleted": 2577
     }
   ],
   "TotalAchievements": 546,
@@ -37964,7 +37969,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4954
+      "UsersEstimate": 4955
     },
     {
       "ID": "objective_completed_10",
@@ -38938,9 +38943,9 @@
       "ID": "objective_completed_13",
       "SetID": "cc37lbc",
       "Name": "A Persistent Buzzing",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 495
+      "UsersEstimate": 743
     },
     {
       "ID": "objective_completed_130",
@@ -39644,7 +39649,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "objective_completed_35",
@@ -42331,21 +42336,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 213966,
+      "Progressed": 214010,
       "Completed": 4102
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 247692,
+      "Progressed": 247736,
       "Completed": 2577
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-30T16:00:10.7112472+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:10:14.776929+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:10:09.598093+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:00:23.4891299+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:10:14.7792684+00:00"
+  "LastUpdate_Ratings": "2023-12-30T18:00:06.6227579+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:10:09.6007042+00:00"
 }

@@ -651,9 +651,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6543,
+  "EOS_Progressed": 6546,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 487,
+  "EOS_NewPlayers": 488,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9766,6 +9766,11 @@
       "Time": "2023-12-30T16:06:07.011335+00:00",
       "NumProgressed": 6543,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-30T18:05:45.906912+00:00",
+      "NumProgressed": 6546,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9897,7 +9902,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "24",
@@ -9905,7 +9910,7 @@
       "Name": "Secret Technique",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "25",
@@ -9913,7 +9918,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "26",
@@ -10256,13 +10261,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6543,
+      "Progressed": 6546,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6543,
+      "Progressed": 6546,
       "Completed": 7
     }
   ],
@@ -10270,8 +10275,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-30T08:58:11.4280246+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:06:04.4849238+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:05:45.9069114+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-30T16:58:18.926413+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:06:04.4850101+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:58:16.0294635+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:05:45.907009+00:00"
 }

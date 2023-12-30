@@ -4,7 +4,7 @@
   "ProductSlug": "born-of-bread-008e66",
   "Ranking_EOS_Progress": 549,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 388,
+  "Ranking_EOS_NewPlayers": 389,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -384,9 +384,9 @@
       "ID": "ACH_HOUSE-ARREST",
       "SetID": "6lg1p1e",
       "Name": "House Arrest",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_INSANE-COLLECTOR",
@@ -496,9 +496,9 @@
       "ID": "ACH_RACER-CHAMPION",
       "SetID": "6lg1p1e",
       "Name": "Break a Sweat",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_RATATOUIED",
@@ -559,8 +559,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:08:47.76336+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:08:49.1213903+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:55.0544104+00:00",
-  "LastUpdate_Ratings": "2023-12-30T16:57:18.9653655+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:08:47.7633882+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:57:21.8934379+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:08:49.1214222+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -848,7 +848,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5931,
+  "EOS_Progressed": 5933,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
@@ -12138,6 +12138,11 @@
       "Time": "2023-12-30T17:05:10.363016+00:00",
       "NumProgressed": 5931,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-30T18:04:56.1822713+00:00",
+      "NumProgressed": 5933,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12150,7 +12155,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -12174,7 +12179,7 @@
       "Name": "Death Becomes You",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -12182,7 +12187,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1423
+      "UsersEstimate": 1424
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -12190,7 +12195,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -12198,7 +12203,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -12238,7 +12243,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -12246,7 +12251,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -12262,7 +12267,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -12270,7 +12275,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -12333,15 +12338,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5931,
+      "Progressed": 5933,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:05:10.3630156+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:04:56.1822709+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:25.4849752+00:00",
-  "LastUpdate_Ratings": "2023-12-30T16:57:05.8417283+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:05:10.3630776+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:57:10.8186902+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:04:56.1823324+00:00"
 }

@@ -2,11 +2,11 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 1025,
+  "Ranking_Rating": 1026,
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 209,
-  "Ranking_EOS_Completed": 336,
+  "Ranking_EOS_Completed": 335,
   "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
@@ -691,9 +691,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3976,
+  "EOS_Progressed": 3977,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11276,6 +11276,11 @@
       "Time": "2023-12-30T17:05:45.3868378+00:00",
       "NumProgressed": 3976,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-30T18:05:28.1409113+00:00",
+      "NumProgressed": 3977,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -11391,7 +11396,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "dragonmaster",
@@ -11519,7 +11524,7 @@
       "Name": "Guild Power",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "herewegoagain",
@@ -11623,7 +11628,7 @@
       "Name": "Miner Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "missionsdedication",
@@ -11847,7 +11852,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3698
+      "UsersEstimate": 3699
     },
     {
       "ID": "warmachinesarmy",
@@ -11879,14 +11884,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3101
+      "UsersEstimate": 3102
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3976,
+      "Progressed": 3977,
       "Completed": 2
     }
   ],
@@ -11894,8 +11899,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-29T02:13:48.1079305+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:05:45.3868374+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:05:28.1409109+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:54.8970424+00:00",
-  "LastUpdate_Ratings": "2023-12-30T16:59:27.9331143+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:05:45.3869391+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:59:17.5197147+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:05:28.1410197+00:00"
 }

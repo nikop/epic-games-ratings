@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,7 +304,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1912,
+  "EOS_Progressed": 1913,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
@@ -4679,6 +4679,11 @@
       "Time": "2023-12-30T08:10:06.4925014+00:00",
       "NumProgressed": 1912,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-30T18:09:32.3616893+00:00",
+      "NumProgressed": 1913,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4690,7 +4695,7 @@
       "Name": "Agent 47",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "Auditor",
@@ -4738,7 +4743,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "Defense_Common",
@@ -4770,7 +4775,7 @@
       "Name": "E1M1",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "Everyone_is_here",
@@ -4794,7 +4799,7 @@
       "Name": "Game Over",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "Grenadier",
@@ -4802,7 +4807,7 @@
       "Name": "Grenadier",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "Hard_Serpent",
@@ -4874,7 +4879,7 @@
       "Name": "Bomberman",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "MoskitoBite",
@@ -4882,7 +4887,7 @@
       "Name": "Mosquito bite",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "Scout",
@@ -4898,7 +4903,7 @@
       "Name": "Strategist",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "War_never_changes",
@@ -4906,7 +4911,7 @@
       "Name": "War Never Changes",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "We_were_not_here",
@@ -4929,15 +4934,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1912,
+      "Progressed": 1913,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:09:34.9565708+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:09:32.3616888+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:45.0819227+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:02:56.6161859+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:09:34.9566131+00:00"
+  "LastUpdate_Ratings": "2023-12-30T18:02:52.5331545+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:09:32.3617304+00:00"
 }

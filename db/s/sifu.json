@@ -8613,9 +8613,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 749195,
+  "EOS_Progressed": 749239,
   "EOS_Completed": 12968,
-  "EOS_NewPlayers": 7525,
+  "EOS_NewPlayers": 7526,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.73,
   "EosHistory": [
@@ -31608,6 +31608,11 @@
       "Time": "2023-12-30T17:09:01.0150814+00:00",
       "NumProgressed": 749195,
       "NumCompleted": 12968
+    },
+    {
+      "Time": "2023-12-30T18:09:01.3536566+00:00",
+      "NumProgressed": 749239,
+      "NumCompleted": 12968
     }
   ],
   "TotalAchievements": 60,
@@ -31619,7 +31624,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37460
+      "UsersEstimate": 37462
     },
     {
       "ID": "02_Vengeance_H1",
@@ -31627,7 +31632,7 @@
       "Name": "The Assault",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22476
+      "UsersEstimate": 22477
     },
     {
       "ID": "03_Vengeance_H2",
@@ -31635,7 +31640,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14984
+      "UsersEstimate": 14985
     },
     {
       "ID": "04_Vengeance_H3",
@@ -31643,7 +31648,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14984
+      "UsersEstimate": 14985
     },
     {
       "ID": "05_Vengeance_H4",
@@ -31771,7 +31776,7 @@
       "Name": "Stuntmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14984
+      "UsersEstimate": 14985
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -31787,7 +31792,7 @@
       "Name": "Street Fighting",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14984
+      "UsersEstimate": 14985
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -31795,7 +31800,7 @@
       "Name": "Life is your teacher",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29968
+      "UsersEstimate": 29970
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -31803,7 +31808,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14984
+      "UsersEstimate": 14985
     },
     {
       "ID": "25_ShrineMind",
@@ -31819,7 +31824,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14984
+      "UsersEstimate": 14985
     },
     {
       "ID": "27_ShrineBody",
@@ -31827,7 +31832,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14984
+      "UsersEstimate": 14985
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -31867,7 +31872,7 @@
       "Name": "Old Child",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14984
+      "UsersEstimate": 14985
     },
     {
       "ID": "33_BladeOneShot",
@@ -31883,7 +31888,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 29968
+      "UsersEstimate": 29970
     },
     {
       "ID": "35_WideStrike",
@@ -31907,7 +31912,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14984
+      "UsersEstimate": 14985
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -31963,7 +31968,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -31971,7 +31976,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -31987,7 +31992,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -31995,7 +32000,7 @@
       "Name": "Secure, Protect, Leave",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "49_Arena_GoldSurvival",
@@ -32027,7 +32032,7 @@
       "Name": "Hidden Dragon",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "53_Arena_HighStamps",
@@ -32051,7 +32056,7 @@
       "Name": "Here Cometh the Iceman",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "56_Arena_LakeKill",
@@ -32059,7 +32064,7 @@
       "Name": "Fighter in the Pond",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "57_Arena_Car",
@@ -32067,7 +32072,7 @@
       "Name": "Bonus Stage",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "58_Arena_Music",
@@ -32083,7 +32088,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -32091,28 +32096,28 @@
       "Name": "A Bit Of Everything, Simultaneously",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 58496,
+      "Progressed": 58540,
       "Completed": 10793
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 749195,
+      "Progressed": 749239,
       "Completed": 12968
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-30T14:02:33.9943548+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:09:01.015081+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:09:01.353656+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:49.3189229+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:03:02.0226565+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:09:01.0152173+00:00"
+  "LastUpdate_Ratings": "2023-12-30T18:02:56.9660966+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:09:01.3538115+00:00"
 }

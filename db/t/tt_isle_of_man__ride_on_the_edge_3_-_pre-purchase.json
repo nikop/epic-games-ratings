@@ -4,7 +4,7 @@
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 235,
+  "EOS_Progressed": 236,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -1130,6 +1130,11 @@
       "Time": "2023-12-30T05:06:01.7166062+00:00",
       "NumProgressed": 235,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-30T18:06:14.067285+00:00",
+      "NumProgressed": 236,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1147,7 +1152,7 @@
       "ID": "ACHIEVEMENT_02",
       "SetID": "gagif7",
       "Name": "Golden Ratio",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1251,7 +1256,7 @@
       "ID": "ACHIEVEMENT_15",
       "SetID": "gagif7",
       "Name": "Checklist",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -1267,7 +1272,7 @@
       "ID": "ACHIEVEMENT_17",
       "SetID": "gagif7",
       "Name": "Time Is of the Essence",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -1277,7 +1282,7 @@
       "Name": "Highly Qualified",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -1347,7 +1352,7 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "gagif7",
       "Name": "Superbike Superfan",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -1355,7 +1360,7 @@
       "ID": "ACHIEVEMENT_28",
       "SetID": "gagif7",
       "Name": "Playing Favourites",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -1381,7 +1386,7 @@
       "Name": "No Room for Improvement",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -1395,9 +1400,9 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "gagif7",
       "Name": "Start Your Engines",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -1452,14 +1457,14 @@
     {
       "ID": "gagif7",
       "IsBase": true,
-      "Progressed": 235,
+      "Progressed": 236,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:06:35.240026+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:06:14.0672846+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:06.5316374+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:00:48.107779+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:06:35.2400579+00:00"
+  "LastUpdate_Ratings": "2023-12-30T18:00:28.9962303+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:06:14.0673091+00:00"
 }

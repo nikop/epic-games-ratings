@@ -1814,9 +1814,9 @@
       "ID": "ACQUAINTANCE_EARL",
       "SetID": "aniflfk",
       "Name": "Holy Macaroni!",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 380
+      "UsersEstimate": 384
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -1958,9 +1958,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 307
+      "UsersEstimate": 312
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -1981,8 +1981,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:06:24.4775513+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:06:04.4342995+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.5394751+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:02:35.7986242+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:06:24.4775696+00:00"
+  "LastUpdate_Ratings": "2023-12-30T18:02:34.6134354+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:06:04.4343211+00:00"
 }

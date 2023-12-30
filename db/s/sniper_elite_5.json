@@ -649,9 +649,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4157,
+  "EOS_Progressed": 4158,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9164,6 +9164,11 @@
       "Time": "2023-12-30T14:09:00.304883+00:00",
       "NumProgressed": 4157,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-30T18:09:16.7527673+00:00",
+      "NumProgressed": 4158,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9327,7 +9332,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -9487,7 +9492,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1414
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -9511,7 +9516,7 @@
       "Name": "Change the Channel",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1331
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -9567,7 +9572,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -9583,7 +9588,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -9647,7 +9652,7 @@
       "Name": "Operation Foxley",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -9742,13 +9747,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4108,
+      "Progressed": 4109,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4157,
+      "Progressed": 4158,
       "Completed": 11
     }
   ],
@@ -9756,8 +9761,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-20T09:59:10.4485665+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:09:17.8297921+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:09:16.7527668+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:02.7105407+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:02:41.95962+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:09:17.8298905+00:00"
+  "LastUpdate_Ratings": "2023-12-30T18:02:39.721701+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:09:16.752856+00:00"
 }

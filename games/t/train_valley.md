@@ -7,21 +7,21 @@ Number of Ratings: 28  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting started | 77.00% | ~467 |
-| Close call! | 71.00% | ~430 |
-| Builder | 52.00% | ~315 |
+| Close call! | 71.00% | ~431 |
+| Builder | 52.00% | ~316 |
 | Living it large! | 45.00% | ~273 |
-| Pangs of conscience | 44.00% | ~267 |
 | Collector | 43.00% | ~261 |
+| Pangs of conscience | 43.00% | ~261 |
 | Need to think | 42.00% | ~255 |
-| Completely nuts! | 41.00% | ~248 |
-| Europe | 33.00% | ~200 |
-| Just in time! | 33.00% | ~200 |
+| Completely nuts! | 41.00% | ~249 |
+| Europe | 32.00% | ~194 |
+| Just in time! | 32.00% | ~194 |
 | Madness! | 31.00% | ~188 |
 | It's no coincidence. | 28.00% | ~170 |
 | Philatelist | 26.00% | ~158 |
 | Let's roll! | 26.00% | ~158 |
-| Ouroboros | 24.00% | ~145 |
-| Non Stop! | 24.00% | ~145 |
+| Ouroboros | 24.00% | ~146 |
+| Non Stop! | 24.00% | ~146 |
 | Foreman | 21.00% | ~127 |
 | Russia | 20.00% | ~121 |
 | America | 18.00% | ~109 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Mega-railroad | 0.50% | ~3 |
 | Vandal | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 606 (Ranked 329)  
+Progressed: 607 (Ranked 329)  
 Completed: 2 (0.33%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 2 (0.33%) (Ranked 245)
 | 2023-12-27 | 593 | 2 |
 | 2023-12-28 | 596 | 2 |
 | 2023-12-29 | 601 | 2 |
-| 2023-12-30 | 606 | 2 |
+| 2023-12-30 | 607 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

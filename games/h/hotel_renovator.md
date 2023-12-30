@@ -1,29 +1,29 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.35 (Ranked 814)  
+Rating: 4.35 (Ranked 815)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~1,027 |
+| Good start | 76.00% | ~1,028 |
 | And so it begins | 72.00% | ~973 |
-| No pressure | 69.00% | ~932 |
+| No pressure | 69.00% | ~933 |
 | Memento | 60.00% | ~811 |
-| Let there be light | 57.00% | ~770 |
-| I think you dropped this | 52.00% | ~703 |
-| Soulmate? | 51.00% | ~689 |
+| Let there be light | 57.00% | ~771 |
+| I think you dropped this | 53.00% | ~717 |
+| Soulmate? | 51.00% | ~690 |
 | Excellent service | 47.00% | ~635 |
-| Roll with it | 44.00% | ~594 |
-| Humble beginnings | 42.00% | ~567 |
+| Roll with it | 44.00% | ~595 |
+| Humble beginnings | 42.00% | ~568 |
 | Love is in the air | 41.00% | ~554 |
-| Fine, I'll do it myself | 40.00% | ~540 |
-| Moving up | 40.00% | ~540 |
-| No need to call anyone | 38.00% | ~513 |
+| Fine, I'll do it myself | 40.00% | ~541 |
+| Moving up | 40.00% | ~541 |
+| No need to call anyone | 38.00% | ~514 |
 | Big fortune | 31.00% | ~419 |
 | Still more work ahead | 29.00% | ~392 |
 | Aesop's fable | 27.00% | ~365 |
-| Kaboom | 26.00% | ~351 |
-| Hotel sleuthing | 26.00% | ~351 |
+| Kaboom | 26.00% | ~352 |
+| Hotel sleuthing | 26.00% | ~352 |
 | Nearly there | 24.00% | ~324 |
 | Broken heart | 22.00% | ~297 |
 | Island boy | 21.00% | ~284 |
@@ -33,7 +33,7 @@ Rating: 4.35 (Ranked 814)
 | King of hospitality | 11.00% | ~149 |
 | Top spot in town | 2.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,351 (Ranked 267)  
+Progressed: 1,352 (Ranked 267)  
 Completed: 18 (1.33%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 18 (1.33%) (Ranked 153)
 | 2023-12-27 | 1,330 | 18 |
 | 2023-12-28 | 1,336 | 18 |
 | 2023-12-29 | 1,348 | 18 |
-| 2023-12-30 | 1,351 | 18 |
+| 2023-12-30 | 1,352 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 311,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1459,9 +1459,9 @@
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 140
+      "UsersEstimate": 143
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -1602,8 +1602,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:03:26.9714677+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:03:20.7427529+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:54.1541826+00:00",
-  "LastUpdate_Ratings": "2023-12-30T16:57:59.2239097+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:03:26.9715026+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:57:58.6359692+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:03:20.7428246+00:00"
 }

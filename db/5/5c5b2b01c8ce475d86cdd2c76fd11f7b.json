@@ -2,9 +2,9 @@
   "ID": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
   "Name": "Deus Ex - Mankind Divided",
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
-  "Ranking_EOS_Progress": 525,
+  "Ranking_EOS_Progress": 526,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -371,9 +371,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "7on801h",
       "Name": "Honor Holds Us All Together",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -451,9 +451,9 @@
       "ID": "NEW_ACHIEVEMENT_1_22",
       "SetID": "7on801h",
       "Name": "Humanity \u002B",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_23",
@@ -1000,8 +1000,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:03:48.65367+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:03:41.4606915+00:00",
   "LastUpdate_AppInfo": "2023-12-27T16:57:17.6990227+00:00",
-  "LastUpdate_Ratings": "2023-12-30T16:58:52.2352822+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:03:48.653737+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:58:45.201335+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:03:41.4607767+00:00"
 }

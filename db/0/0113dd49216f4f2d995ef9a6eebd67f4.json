@@ -2,7 +2,7 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 423,
+  "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 156,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 203,
+  "EOS_Progressed": 204,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -914,6 +914,11 @@
       "Time": "2023-12-30T15:08:33.8117956+00:00",
       "NumProgressed": 203,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T18:08:53.8003315+00:00",
+      "NumProgressed": 204,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -942,7 +947,7 @@
       "Name": "Against All Odds",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "SG_ALLTHEHELPYOUNEED",
@@ -998,7 +1003,7 @@
       "Name": "End Of The Road",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1030,7 +1035,7 @@
       "Name": "Heartbreaker",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "SG_LIKEHEROESBEFOREYOU",
@@ -1078,7 +1083,7 @@
       "Name": "Not A Lost Girl",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -1094,7 +1099,7 @@
       "Name": "Queen Without A Throne",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "SG_SAYINGGOODBYE",
@@ -1174,7 +1179,7 @@
       "Name": "The Muse\u2019s Encore",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "SG_THEQUEENOFTHEDEAD",
@@ -1221,14 +1226,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 203,
+      "Progressed": 204,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:08:52.7428809+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:08:53.8003311+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.3127204+00:00",
-  "LastUpdate_Ratings": "2023-12-30T16:58:23.178055+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:08:52.7429131+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:58:19.7589214+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:08:53.8003577+00:00"
 }

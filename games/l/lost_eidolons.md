@@ -1,23 +1,23 @@
 # Lost Eidolons
 [Store](https://store.epicgames.com/en-US/p/lost-eidolons)  
 [View Rawdata](../../db/l/lost_eidolons.json)  
-Rating: 4.34 (Ranked 829)  
+Rating: 4.34 (Ranked 828)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First Step | 71.00% | ~803 |
-| First Blood | 68.00% | ~769 |
-| Ready to Learn | 65.00% | ~735 |
-| Monster Hunter | 55.00% | ~622 |
-| Earning Trust | 52.00% | ~588 |
-| Monster Slayer | 31.00% | ~351 |
-| Awakening | 24.00% | ~271 |
-| Huntmaster | 23.00% | ~260 |
+| The First Step | 71.00% | ~804 |
+| First Blood | 68.00% | ~770 |
+| Ready to Learn | 65.00% | ~736 |
+| Monster Hunter | 55.00% | ~623 |
+| Earning Trust | 52.00% | ~589 |
+| Monster Slayer | 30.00% | ~340 |
+| Awakening | 24.00% | ~272 |
+| Huntmaster | 23.00% | ~261 |
 | Complete the sidequest 'Malice and Greed' | 19.00% | ~215 |
 | House Vulisica's Heirloom | 15.00% | ~170 |
-| Digging Deep | 14.00% | ~158 |
+| Digging Deep | 14.00% | ~159 |
 | Broken Oath | 9.00% | ~102 |
-| Way of the King | 8.00% | ~90 |
+| Way of the King | 8.00% | ~91 |
 | Til We Meet Again | 5.00% | ~57 |
 | Way of the Warlord | 4.00% | ~45 |
 | Arrow in the Wind | 3.00% | ~34 |
@@ -29,7 +29,7 @@ Rating: 4.34 (Ranked 829)
 | First Bloom | 1.00% | ~11 |
 | Lean on Me | 0.60% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,131 (Ranked 283)  
+Progressed: 1,133 (Ranked 283)  
 Completed: 1 (0.09%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 1 (0.09%) (Ranked 312)
 | 2023-12-27 | 1,137 | 1 |
 | 2023-12-28 | 1,138 | 1 |
 | 2023-12-29 | 1,136 | 1 |
-| 2023-12-30 | 1,132 | 1 |
+| 2023-12-30 | 1,133 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

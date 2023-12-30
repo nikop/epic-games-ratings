@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -71,7 +71,7 @@
   "Tags": [],
   "EOS_Progressed": 1394,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -3696,9 +3696,9 @@
       "ID": "EV_ACH15",
       "SetID": "6jeac23",
       "Name": "Better On Ice",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 934
+      "UsersEstimate": 948
     },
     {
       "ID": "EV_ACH16",
@@ -3856,9 +3856,9 @@
       "ID": "EV_ACH35",
       "SetID": "6jeac23",
       "Name": "The Fire Below the Mountain",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 836
+      "UsersEstimate": 850
     },
     {
       "ID": "EV_ACH36",
@@ -3945,8 +3945,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-25T19:59:38.6529887+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:10:08.3908124+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:10:04.0849715+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:41.3966374+00:00",
-  "LastUpdate_Ratings": "2023-12-30T16:58:45.8305138+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:10:08.3908595+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:58:39.483999+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:10:04.0850115+00:00"
 }

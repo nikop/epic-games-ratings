@@ -3,11 +3,11 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 25,
-  "Ranking_Popularity": 391,
+  "Ranking_Popularity": 392,
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 276,
-  "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_Completed": 281,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -259,7 +259,7 @@
       "Count": 89
     }
   ],
-  "EOS_Progressed": 1193,
+  "EOS_Progressed": 1194,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
@@ -3289,6 +3289,11 @@
       "Time": "2023-12-30T17:06:11.050033+00:00",
       "NumProgressed": 1193,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-30T18:05:52.1055539+00:00",
+      "NumProgressed": 1194,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3397,7 +3402,7 @@
       "Name": "Discovery",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "EasternWetlands",
@@ -3469,7 +3474,7 @@
       "Name": "Into the Machine",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "JustOneLap",
@@ -3499,9 +3504,9 @@
       "ID": "MistressOfRiddles",
       "SetID": "1n308hc",
       "Name": "Mistress of Riddles",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 215
+      "UsersEstimate": 227
     },
     {
       "ID": "Mnemosyne",
@@ -3525,7 +3530,7 @@
       "Name": "Museum Visitor",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "NewBeginning",
@@ -3563,9 +3568,9 @@
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 191
+      "UsersEstimate": 179
     },
     {
       "ID": "PrometheusUnbound",
@@ -3772,7 +3777,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1193,
+      "Progressed": 1194,
       "Completed": 2
     }
   ],
@@ -3780,8 +3785,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-29T23:57:10.9507958+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:06:11.0500326+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:05:52.1055536+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2023-12-30T16:57:39.6445035+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:06:11.0500878+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:57:41.055148+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:05:52.1056014+00:00"
 }

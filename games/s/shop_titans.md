@@ -1,15 +1,15 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 1,036)  
+Rating: 3.99 (Ranked 1,035)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 10.00% | ~14,848 |
-| Titan's First Steps | 10.00% | ~14,848 |
-| Basic in Bulk | 9.00% | ~13,363 |
-| Tinkle of Coins | 8.00% | ~11,878 |
+| Sponsored by Argon | 10.00% | ~14,849 |
+| Titan's First Steps | 10.00% | ~14,849 |
+| Basic in Bulk | 9.00% | ~13,364 |
+| Tinkle of Coins | 8.00% | ~11,879 |
 | Disintermediation | 7.00% | ~10,394 |
 | Capitalism Ho! | 7.00% | ~10,394 |
 | It's Free Real Estate | 6.00% | ~8,909 |
@@ -19,34 +19,34 @@ Number of Ratings: 12,664  (23.09.2022)
 | Another Satisfied Customer | 5.00% | ~7,424 |
 | Pretty Penny | 5.00% | ~7,424 |
 | Own the Means of Production | 5.00% | ~7,424 |
-| The Daily Grind | 4.00% | ~5,939 |
-| Bounty Hunters | 4.00% | ~5,939 |
-| Demand for Supplies | 4.00% | ~5,939 |
-| Flooding the Market | 4.00% | ~5,939 |
-| Where it Hurts | 4.00% | ~5,939 |
-| One-Armed Bandit | 4.00% | ~5,939 |
-| Dungeon Imports | 4.00% | ~5,939 |
-| Through Repetition, Perfection | 4.00% | ~5,939 |
-| On the Path to Greatness | 3.00% | ~4,454 |
-| Ascended | 3.00% | ~4,454 |
-| Tax not Included | 3.00% | ~4,454 |
-| Research & Development | 3.00% | ~4,454 |
-| Vanity, Verily | 3.00% | ~4,454 |
-| Fated Encounters | 3.00% | ~4,454 |
-| Blank Page Syndrome | 3.00% | ~4,454 |
-| Power of Love | 3.00% | ~4,454 |
-| Efficient Floor Space | 3.00% | ~4,454 |
-| Flawless Fusion | 3.00% | ~4,454 |
-| Gem Expert | 3.00% | ~4,454 |
-| Gild-Gotten Goods | 3.00% | ~4,454 |
-| Royal Ransom | 3.00% | ~4,454 |
-| Helping Hand | 3.00% | ~4,454 |
-| Accomplished Merchant | 3.00% | ~4,454 |
-| Natural 20 | 3.00% | ~4,454 |
-| Did we pack lunch? | 3.00% | ~4,454 |
-| Magical Harmony | 3.00% | ~4,454 |
-| Arcane Industries | 3.00% | ~4,454 |
-| Complete Monopoly | 3.00% | ~4,454 |
+| The Daily Grind | 4.00% | ~5,940 |
+| Bounty Hunters | 4.00% | ~5,940 |
+| Demand for Supplies | 4.00% | ~5,940 |
+| Flooding the Market | 4.00% | ~5,940 |
+| Where it Hurts | 4.00% | ~5,940 |
+| One-Armed Bandit | 4.00% | ~5,940 |
+| Dungeon Imports | 4.00% | ~5,940 |
+| Through Repetition, Perfection | 4.00% | ~5,940 |
+| On the Path to Greatness | 3.00% | ~4,455 |
+| Ascended | 3.00% | ~4,455 |
+| Tax not Included | 3.00% | ~4,455 |
+| Research & Development | 3.00% | ~4,455 |
+| Vanity, Verily | 3.00% | ~4,455 |
+| Fated Encounters | 3.00% | ~4,455 |
+| Blank Page Syndrome | 3.00% | ~4,455 |
+| Power of Love | 3.00% | ~4,455 |
+| Efficient Floor Space | 3.00% | ~4,455 |
+| Flawless Fusion | 3.00% | ~4,455 |
+| Gem Expert | 3.00% | ~4,455 |
+| Gild-Gotten Goods | 3.00% | ~4,455 |
+| Royal Ransom | 3.00% | ~4,455 |
+| Helping Hand | 3.00% | ~4,455 |
+| Accomplished Merchant | 3.00% | ~4,455 |
+| Natural 20 | 3.00% | ~4,455 |
+| Did we pack lunch? | 3.00% | ~4,455 |
+| Magical Harmony | 3.00% | ~4,455 |
+| Arcane Industries | 3.00% | ~4,455 |
+| Complete Monopoly | 3.00% | ~4,455 |
 | A Notch Above the Rest | 2.00% | ~2,970 |
 | Cream of the Crop | 2.00% | ~2,970 |
 | Top of the World | 2.00% | ~2,970 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~594 |
 | Capitalist Camaraderie | 0.20% | ~297 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,481 (Ranked 84)  
+Progressed: 148,489 (Ranked 84)  
 Completed: 340 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -373,7 +373,7 @@ Completed: 340 (0.23%) (Ranked 267)
 | 2023-12-27 | 148,016 | 336 |
 | 2023-12-28 | 148,196 | 337 |
 | 2023-12-29 | 148,353 | 338 |
-| 2023-12-30 | 148,481 | 340 |
+| 2023-12-30 | 148,489 | 340 |
 ## Awards
 Max (Great for Beginners): 4,931  (Ranked 77)  
 Sum: 27,867 (Ranked 51)  

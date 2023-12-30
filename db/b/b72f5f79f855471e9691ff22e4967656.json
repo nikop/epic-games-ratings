@@ -4,7 +4,7 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 375,
+  "Ranking_EOS_NewPlayers": 373,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
@@ -846,9 +846,9 @@
       "ID": "killGoldSkeleton1",
       "SetID": "ci65fo0",
       "Name": "The First Golden Skeleton",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 84
     },
     {
       "ID": "killGoldSkeleton10",
@@ -934,9 +934,9 @@
       "ID": "killStone500",
       "SetID": "ci65fo0",
       "Name": "Epic Stone Crusher",
-      "Percentage": 56,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 92
     },
     {
       "ID": "killTree100",
@@ -998,9 +998,9 @@
       "ID": "locDungeon1",
       "SetID": "ci65fo0",
       "Name": "The first dungeon",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "locDungeon2",
@@ -1022,17 +1022,17 @@
       "ID": "locGraveyard",
       "SetID": "ci65fo0",
       "Name": "Graveyard",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "locSmith",
       "SetID": "ci65fo0",
       "Name": "The second friend",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "locWorker",
@@ -1158,9 +1158,9 @@
       "ID": "questGenerous",
       "SetID": "ci65fo0",
       "Name": "Generous",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 88
     },
     {
       "ID": "questHallucinationsKing",
@@ -1323,8 +1323,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:09:42.1236601+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:09:38.9993581+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.0184442+00:00",
-  "LastUpdate_Ratings": "2023-12-30T16:56:56.9121266+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:09:42.1237452+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:57:02.554694+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:09:38.9994194+00:00"
 }

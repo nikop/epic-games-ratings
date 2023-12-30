@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 1184,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -3485,9 +3485,9 @@
       "ID": "TheSafetyOfDisbelief",
       "SetID": "3ai6ml8",
       "Name": "The Safety of Disbelief",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 651
+      "UsersEstimate": 663
     },
     {
       "ID": "TragedyDocumented",
@@ -3516,8 +3516,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:09:51.092531+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:09:46.8472163+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:55.6682443+00:00",
-  "LastUpdate_Ratings": "2023-12-30T16:57:42.7269916+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:09:51.0925751+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:57:44.0424696+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:09:46.8472375+00:00"
 }

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 567,
+  "EOS_Progressed": 568,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1864,6 +1864,11 @@
       "Time": "2023-12-30T09:09:55.6185724+00:00",
       "NumProgressed": 567,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T18:09:43.9752704+00:00",
+      "NumProgressed": 568,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1940,7 +1945,7 @@
       "Name": "FixyText: Pump It Up",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
@@ -1964,7 +1969,7 @@
       "Name": "FixyText: Co-author",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "TIME_JINX",
@@ -1972,7 +1977,7 @@
       "Name": "Timejinx: Timejinx",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "TIME_ORWELL",
@@ -1996,7 +2001,7 @@
       "Name": "Timejinx: The Perfect Guest",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -2035,14 +2040,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 567,
+      "Progressed": 568,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:09:47.7466197+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:09:43.97527+00:00",
   "LastUpdate_AppInfo": "2023-12-30T02:16:13.4108208+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:02:43.5271932+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:09:47.746646+00:00"
+  "LastUpdate_Ratings": "2023-12-30T18:02:40.8987426+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:09:43.9752951+00:00"
 }

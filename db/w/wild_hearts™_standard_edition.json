@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1019,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -3538,9 +3538,9 @@
       "ID": "achievement_28",
       "SetID": "2cpn27e",
       "Name": "Flawless Crystal",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 367
+      "UsersEstimate": 377
     },
     {
       "ID": "achievement_29",
@@ -3554,9 +3554,9 @@
       "ID": "achievement_3",
       "SetID": "2cpn27e",
       "Name": "Bonds of Enmity",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 367
+      "UsersEstimate": 377
     },
     {
       "ID": "achievement_30",
@@ -3698,9 +3698,9 @@
       "ID": "achievement_46",
       "SetID": "2cpn27e",
       "Name": "Charmed by the Hunt",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 489
     },
     {
       "ID": "achievement_47",
@@ -3768,8 +3768,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:09:18.6866632+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:09:17.6283089+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:00.2404368+00:00",
-  "LastUpdate_Ratings": "2023-12-30T16:58:34.8511065+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:09:18.6867223+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:58:29.8229849+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:09:17.6283522+00:00"
 }

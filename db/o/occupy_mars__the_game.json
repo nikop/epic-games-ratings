@@ -2,12 +2,12 @@
   "ID": "5424c96246c54737aad95daa7fe724f8",
   "Name": "Occupy Mars: The Game",
   "ProductSlug": "occupy-mars",
-  "Ranking_Rating": 1027,
+  "Ranking_Rating": 1028,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -337,7 +337,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1828,
+  "EOS_Progressed": 1829,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
@@ -4802,6 +4802,11 @@
       "Time": "2023-12-30T02:28:42.1018501+00:00",
       "NumProgressed": 1828,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T18:09:19.7900981+00:00",
+      "NumProgressed": 1829,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4893,7 +4898,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -4965,7 +4970,7 @@
       "Name": "Detective",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -4989,7 +4994,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -5005,7 +5010,7 @@
       "Name": "Gardener",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -5037,7 +5042,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -5061,7 +5066,7 @@
       "Name": "Miner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -5069,7 +5074,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -5196,7 +5201,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1828,
+      "Progressed": 1829,
       "Completed": 0
     }
   ],
@@ -5204,8 +5209,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-25T15:00:25.6690232+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:09:21.1016715+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:09:19.7900977+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:04.6449043+00:00",
-  "LastUpdate_Ratings": "2023-12-30T16:59:30.224215+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:09:21.1017531+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:59:19.7498181+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:09:19.790145+00:00"
 }

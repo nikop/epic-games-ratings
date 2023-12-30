@@ -4,7 +4,7 @@
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 480,
+  "Ranking_EOS_NewPlayers": 478,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
@@ -881,9 +881,9 @@
       "ID": "Hit_the_UFO_in_Space_Invaders_in_006",
       "SetID": "6od1ndi",
       "Name": "1978",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 35,
-      "UsersEstimate": 108
+      "UsersEstimate": 111
     },
     {
       "ID": "Level_completed_001_002",
@@ -921,9 +921,9 @@
       "ID": "Level_completed_005_003",
       "SetID": "6od1ndi",
       "Name": "Onk Boga V",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 35,
-      "UsersEstimate": 117
+      "UsersEstimate": 120
     },
     {
       "ID": "Level_completed_006_004",
@@ -1010,8 +1010,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:09:35.4488479+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:09:32.8068558+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:50.2553329+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:03:02.5903216+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:09:35.4488705+00:00"
+  "LastUpdate_Ratings": "2023-12-30T18:02:57.4808399+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:09:32.8068752+00:00"
 }

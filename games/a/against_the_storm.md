@@ -6,20 +6,20 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 7.00% | ~1,379 |
-| Overgrown Library | 7.00% | ~1,379 |
-| First Real Expedition | 6.00% | ~1,182 |
-| Taking Action | 6.00% | ~1,182 |
-| No Deaths | 6.00% | ~1,182 |
-| Petrified Necropolis | 6.00% | ~1,182 |
-| Overcoming Difficulty | 5.00% | ~985 |
-| Coral Forest | 5.00% | ~985 |
-| The Marshlands | 5.00% | ~985 |
-| Ominous Presence | 5.00% | ~985 |
-| Gathering Storm | 5.00% | ~985 |
-| The Scarlet Orchard | 4.00% | ~788 |
-| Frosts | 4.00% | ~788 |
-| Land of Greed | 4.00% | ~788 |
+| Abandoned Settlement | 7.00% | ~1,380 |
+| Overgrown Library | 7.00% | ~1,380 |
+| First Real Expedition | 6.00% | ~1,183 |
+| Taking Action | 6.00% | ~1,183 |
+| No Deaths | 6.00% | ~1,183 |
+| Petrified Necropolis | 6.00% | ~1,183 |
+| Overcoming Difficulty | 5.00% | ~986 |
+| Coral Forest | 5.00% | ~986 |
+| The Marshlands | 5.00% | ~986 |
+| Ominous Presence | 5.00% | ~986 |
+| Gathering Storm | 5.00% | ~986 |
+| The Scarlet Orchard | 4.00% | ~789 |
+| Frosts | 4.00% | ~789 |
+| Land of Greed | 4.00% | ~789 |
 | Homesick | 3.00% | ~591 |
 | Fertile Meadows | 3.00% | ~591 |
 | Monastery of the Holy Flame | 3.00% | ~591 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,705 (Ranked 151)  
-Completed: 34 (0.17%) (Ranked 280)  
+Progressed: 19,714 (Ranked 151)  
+Completed: 35 (0.18%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -320,7 +320,7 @@ Completed: 34 (0.17%) (Ranked 280)
 | 2023-12-27 | 19,458 | 38 |
 | 2023-12-28 | 19,536 | 36 |
 | 2023-12-29 | 19,630 | 36 |
-| 2023-12-30 | 19,705 | 35 |
+| 2023-12-30 | 19,714 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 446  (Ranked 229)  
 Sum: 3,306 (Ranked 176)  

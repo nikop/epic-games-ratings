@@ -13012,10 +13012,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 110402,
       "NumberOfAwardsMax": 49903
+    },
+    {
+      "Time": "2023-12-30T18:00:13.0453125+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 110474,
+      "NumberOfAwardsMax": 49903
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 110402,
+  "NumberOfAwards": 110474,
   "NumberOfAwardsMax": 49903,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -13071,7 +13077,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 8181
+      "Count": 8253
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -13080,10 +13086,10 @@
       "Count": 3329
     }
   ],
-  "EOS_Progressed": 1291810,
-  "EOS_Completed": 30431,
-  "EOS_NewPlayers": 70543,
-  "EOS_NewCompleters": 1622,
+  "EOS_Progressed": 1292213,
+  "EOS_Completed": 30446,
+  "EOS_NewPlayers": 70159,
+  "EOS_NewCompleters": 1627,
   "EOS_Completed_Percentage": 2.36,
   "EosHistory": [
     {
@@ -42315,6 +42321,11 @@
       "Time": "2023-12-30T17:06:18.9539247+00:00",
       "NumProgressed": 1291810,
       "NumCompleted": 30431
+    },
+    {
+      "Time": "2023-12-30T18:05:59.129447+00:00",
+      "NumProgressed": 1292213,
+      "NumCompleted": 30446
     }
   ],
   "TotalAchievements": 23,
@@ -42326,7 +42337,7 @@
       "Name": "Long and Winding Road",
       "Percentage": 94,
       "XP": 40,
-      "UsersEstimate": 1214301
+      "UsersEstimate": 1214680
     },
     {
       "ID": "ACH_10",
@@ -42334,7 +42345,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 12,
       "XP": 80,
-      "UsersEstimate": 155017
+      "UsersEstimate": 155066
     },
     {
       "ID": "ACH_11",
@@ -42342,7 +42353,7 @@
       "Name": "Belly Of The Beast",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 90427
+      "UsersEstimate": 90455
     },
     {
       "ID": "ACH_12",
@@ -42350,7 +42361,7 @@
       "Name": "The Prestige",
       "Percentage": 5,
       "XP": 120,
-      "UsersEstimate": 64590
+      "UsersEstimate": 64611
     },
     {
       "ID": "ACH_13",
@@ -42358,7 +42369,7 @@
       "Name": "Lest Ye Be Judged",
       "Percentage": 21,
       "XP": 80,
-      "UsersEstimate": 271280
+      "UsersEstimate": 271365
     },
     {
       "ID": "ACH_14",
@@ -42366,7 +42377,7 @@
       "Name": "Legends Grow",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 129181
+      "UsersEstimate": 129221
     },
     {
       "ID": "ACH_15",
@@ -42374,7 +42385,7 @@
       "Name": "Exotique",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 116263
+      "UsersEstimate": 116299
     },
     {
       "ID": "ACH_16",
@@ -42382,7 +42393,7 @@
       "Name": "Seal the Deal",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 64590
+      "UsersEstimate": 64611
     },
     {
       "ID": "ACH_17",
@@ -42390,7 +42401,7 @@
       "Name": "Fashion Statement",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 77509
+      "UsersEstimate": 77533
     },
     {
       "ID": "ACH_18",
@@ -42398,7 +42409,7 @@
       "Name": "Heart of the Awoken",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 180853
+      "UsersEstimate": 180910
     },
     {
       "ID": "ACH_19",
@@ -42406,7 +42417,7 @@
       "Name": "An Exotic Journey",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 116263
+      "UsersEstimate": 116299
     },
     {
       "ID": "ACH_2",
@@ -42414,7 +42425,7 @@
       "Name": "Zavala\u0027s Lieutenant",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 193772
+      "UsersEstimate": 193832
     },
     {
       "ID": "ACH_20",
@@ -42422,7 +42433,7 @@
       "Name": "High-Stakes Play",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 155017
+      "UsersEstimate": 155066
     },
     {
       "ID": "ACH_21",
@@ -42430,7 +42441,7 @@
       "Name": "Darkness Falls",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 116263
+      "UsersEstimate": 116299
     },
     {
       "ID": "ACH_22",
@@ -42438,7 +42449,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 129181
+      "UsersEstimate": 129221
     },
     {
       "ID": "ACH_23",
@@ -42446,7 +42457,7 @@
       "Name": "Wishing for the Best",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 64590
+      "UsersEstimate": 64611
     },
     {
       "ID": "ACH_3",
@@ -42454,7 +42465,7 @@
       "Name": "Cayde\u0027s Pathfinder",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 271280
+      "UsersEstimate": 271365
     },
     {
       "ID": "ACH_4",
@@ -42462,7 +42473,7 @@
       "Name": "Ikora\u0027s Prot\u00E9g\u00E9",
       "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 245444
+      "UsersEstimate": 245520
     },
     {
       "ID": "ACH_5",
@@ -42470,7 +42481,7 @@
       "Name": "Show Me What You Got",
       "Percentage": 13,
       "XP": 80,
-      "UsersEstimate": 167935
+      "UsersEstimate": 167988
     },
     {
       "ID": "ACH_6",
@@ -42478,7 +42489,7 @@
       "Name": "In A Flash",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 374625
+      "UsersEstimate": 374742
     },
     {
       "ID": "ACH_7",
@@ -42486,7 +42497,7 @@
       "Name": "The People\u0027s Hero",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 710496
+      "UsersEstimate": 710717
     },
     {
       "ID": "ACH_8",
@@ -42494,7 +42505,7 @@
       "Name": "Heart of Darkness",
       "Percentage": 21,
       "XP": 80,
-      "UsersEstimate": 271280
+      "UsersEstimate": 271365
     },
     {
       "ID": "ACH_9",
@@ -42502,29 +42513,29 @@
       "Name": "The Life Exotic",
       "Percentage": 16,
       "XP": 120,
-      "UsersEstimate": 206690
+      "UsersEstimate": 206754
     }
   ],
   "AchievementSets": [
     {
       "ID": "41p75ck",
       "IsBase": true,
-      "Progressed": 1291810,
-      "Completed": 30431
+      "Progressed": 1292213,
+      "Completed": 30446
     },
     {
       "ID": "cpegfdi",
       "IsBase": false,
-      "Progressed": 1291810,
-      "Completed": 61951
+      "Progressed": 1292213,
+      "Completed": 61972
     }
   ],
   "FirstSeen": "2022-08-23T20:00:58.6908762+00:00",
   "FirstSeenRating": "2022-08-24T03:30:20.9735605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:52.6483728+00:00",
-  "LastChanged": "2023-12-30T17:00:30.2924567+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:06:18.9539243+00:00",
+  "LastChanged": "2023-12-30T18:00:13.0453124+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:05:59.1294465+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:38.6636187+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:00:30.2924572+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:06:18.9540992+00:00"
+  "LastUpdate_Ratings": "2023-12-30T18:00:13.0453129+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:05:59.129563+00:00"
 }

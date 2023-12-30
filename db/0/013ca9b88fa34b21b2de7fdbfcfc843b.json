@@ -235,7 +235,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8775,
+  "EOS_Progressed": 8776,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
@@ -9395,6 +9395,11 @@
       "Time": "2023-12-30T16:10:17.9297524+00:00",
       "NumProgressed": 8775,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T18:10:03.14234+00:00",
+      "NumProgressed": 8776,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -9429,9 +9434,9 @@
       "ID": "CHAPTER_4_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Open the Gate!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 176
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -9750,13 +9755,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8775,
+      "Progressed": 8776,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1392,
+      "Progressed": 1393,
       "Completed": 1050
     }
   ],
@@ -9764,8 +9769,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:10:07.4053071+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:10:03.1423396+00:00",
   "LastUpdate_AppInfo": "2023-12-29T11:57:18.9799571+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:03:14.976376+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:10:07.4053907+00:00"
+  "LastUpdate_Ratings": "2023-12-30T18:03:08.7921315+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:10:03.1424074+00:00"
 }

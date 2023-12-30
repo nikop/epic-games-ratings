@@ -842,9 +842,9 @@
       "ID": "ach24",
       "SetID": "baneh2j",
       "Name": "Researcher",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 35,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ach25",
@@ -969,8 +969,8 @@
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:04:48.7126289+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:04:37.0360841+00:00",
   "LastUpdate_AppInfo": "2023-12-27T09:57:11.1404081+00:00",
-  "LastUpdate_Ratings": "2023-12-30T16:58:19.3437868+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:04:48.7126471+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:58:16.4021936+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:04:37.0361053+00:00"
 }

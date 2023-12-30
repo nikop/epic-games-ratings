@@ -6,31 +6,31 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,534 |
-| One HIT wonder | 34.00% | ~527 |
-| Wanderer | 33.00% | ~511 |
-| One shot, one kill | 27.00% | ~418 |
+| Atom Agent | 99.00% | ~1,536 |
+| One HIT wonder | 34.00% | ~528 |
+| Wanderer | 33.00% | ~512 |
+| One shot, one kill | 27.00% | ~419 |
 | Traveler | 24.00% | ~372 |
-| Grave Robber | 17.00% | ~263 |
-| Head Burst | 17.00% | ~263 |
+| Grave Robber | 17.00% | ~264 |
+| Head Burst | 17.00% | ~264 |
 | Explorer | 16.00% | ~248 |
-| Double agent | 15.00% | ~232 |
-| Paranoia | 15.00% | ~232 |
-| Kraina Grzybow | 9.00% | ~139 |
-| Love Guru | 9.00% | ~139 |
-| Savant | 9.00% | ~139 |
+| Double agent | 15.00% | ~233 |
+| Paranoia | 15.00% | ~233 |
+| Kraina Grzybow | 9.00% | ~140 |
+| Love Guru | 9.00% | ~140 |
+| Savant | 9.00% | ~140 |
 | Bustin' nuts | 8.00% | ~124 |
 | Not-so-private Eye | 8.00% | ~124 |
 | Superhuman | 8.00% | ~124 |
 | The Vitinsky Rifle | 6.00% | ~93 |
-| Protection racket | 5.00% | ~77 |
-| Secret room | 5.00% | ~77 |
+| Protection racket | 5.00% | ~78 |
+| Secret room | 5.00% | ~78 |
 | Sacrifice | 4.00% | ~62 |
-| Indy | 3.00% | ~46 |
-| Wishmaster | 3.00% | ~46 |
+| Indy | 3.00% | ~47 |
+| Wishmaster | 3.00% | ~47 |
 | Career criminal | 2.00% | ~31 |
-| Neanderthal | 1.00% | ~15 |
-| Cosmic Horror | 1.00% | ~15 |
+| Neanderthal | 1.00% | ~16 |
+| Cosmic Horror | 1.00% | ~16 |
 | It was worth a shot | 0.80% | ~12 |
 | Ghostbuster | 0.60% | ~9 |
 | Comrade Yogi | 0.50% | ~8 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.10% | ~2 |
 | Pacifist | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,549 (Ranked 259)  
+Progressed: 1,552 (Ranked 259)  
 Completed: 1 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 1 (0.06%) (Ranked 327)
 | 2023-12-27 | 1,519 | 1 |
 | 2023-12-28 | 1,530 | 1 |
 | 2023-12-29 | 1,541 | 1 |
-| 2023-12-30 | 1,549 | 1 |
+| 2023-12-30 | 1,552 | 1 |
 ## Awards
 Max (Character Customization): 52  (Ranked 440)  
 Sum: 52 (Ranked 496)  

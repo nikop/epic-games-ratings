@@ -119,7 +119,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1470,
+  "EOS_Progressed": 1471,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
@@ -4019,6 +4019,11 @@
       "Time": "2023-12-30T16:04:45.6228324+00:00",
       "NumProgressed": 1470,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T18:04:27.9151546+00:00",
+      "NumProgressed": 1471,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T11:03:09.3611982+00:00",
@@ -4029,9 +4034,9 @@
       "ID": "ACH_CAR_WASH_01",
       "SetID": "5fn8ia4",
       "Name": "Restored the Car Wash",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 735
+      "UsersEstimate": 721
     },
     {
       "ID": "ACH_CAR_WASH_02",
@@ -4039,7 +4044,7 @@
       "Name": "Car Wash Lvl. 2",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ACH_CAR_WASH_03",
@@ -4055,7 +4060,7 @@
       "Name": "Car Wash Lvl. 4",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_CAR_WASH_05",
@@ -4071,7 +4076,7 @@
       "Name": "Feed the Beast",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "ACH_FISH",
@@ -4095,7 +4100,7 @@
       "Name": "Squeaky Clean",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "ACH_WASHCAR_03",
@@ -4119,7 +4124,7 @@
       "Name": "It\u0027s just getting started",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "GSS_ACH_03_TIP_01",
@@ -4127,7 +4132,7 @@
       "Name": "The first tip",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "GSS_ACH_04_TIP_02",
@@ -4135,7 +4140,7 @@
       "Name": "Gaining skill",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "GSS_ACH_05_TIP_03",
@@ -4143,7 +4148,7 @@
       "Name": "Tip of the Iceberg",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "GSS_ACH_06_FUEL_01",
@@ -4151,7 +4156,7 @@
       "Name": "Fueled it good!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "GSS_ACH_07_FUEL_02",
@@ -4159,7 +4164,7 @@
       "Name": "Fueled it better!",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "GSS_ACH_08_FUEL_03",
@@ -4175,7 +4180,7 @@
       "Name": "Score!",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 1426
+      "UsersEstimate": 1427
     },
     {
       "ID": "GSS_ACH_10_THROW_02",
@@ -4207,7 +4212,7 @@
       "Name": "So it begins",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1367
+      "UsersEstimate": 1368
     },
     {
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
@@ -4215,7 +4220,7 @@
       "Name": "Growing importance",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
@@ -4223,7 +4228,7 @@
       "Name": "Skills to Pay the Bills",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "GSS_ACH_16_ORDER_FUEL",
@@ -4231,7 +4236,7 @@
       "Name": "Fuel Ordered",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1383
     },
     {
       "ID": "GSS_ACH_17_ORDER_TRASH_COLLECTION",
@@ -4239,7 +4244,7 @@
       "Name": "Trash Collection",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "GSS_ACH_18_ALIENS",
@@ -4247,7 +4252,7 @@
       "Name": "ALIENS!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "GSS_ACH_19_RUDY",
@@ -4255,7 +4260,7 @@
       "Name": "Rudy!",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "GSS_ACH_20_DECORATION_01",
@@ -4295,7 +4300,7 @@
       "Name": "Pranks? Nope!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "GSS_ACH_26_EXCAVATOR_RESET",
@@ -4303,7 +4308,7 @@
       "Name": "It\u0027s a kind of magic",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "GSS_ACH_27_PAINT_01",
@@ -4311,7 +4316,7 @@
       "Name": "Fresh Coat of Paint",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "GSS_ACH_28_PAINT_02",
@@ -4319,7 +4324,7 @@
       "Name": "On the Roll",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "GSS_ACH_29_PAINT_03",
@@ -4335,7 +4340,7 @@
       "Name": "Cleaning Up",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "GSS_ACH_31_TRASH_02",
@@ -4343,7 +4348,7 @@
       "Name": "Trash B Gone",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "GSS_ACH_32_TRASH_03",
@@ -4351,7 +4356,7 @@
       "Name": "It has to be clean!",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "GSS_ACH_33_FLY",
@@ -4375,7 +4380,7 @@
       "Name": "Broomed",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "GSS_ACH_36_BROOM_02",
@@ -4383,7 +4388,7 @@
       "Name": "Further Cleaning!",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "GSS_ACH_37_BROOM_03",
@@ -4391,7 +4396,7 @@
       "Name": "Dirt Stains? Not here!",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "GSS_ACH_38_GARAGE_01",
@@ -4399,7 +4404,7 @@
       "Name": "IR Mechanic!",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "GSS_ACH_39_GARAGE_02",
@@ -4407,7 +4412,7 @@
       "Name": "Machine Head",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "GSS_ACH_40_GARAGE_03",
@@ -4423,7 +4428,7 @@
       "Name": "Party Bus",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "GSS_ACH_42_CARAVAN_01",
@@ -4439,7 +4444,7 @@
       "Name": "Raising the Stakes",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "GSS_ACH_44_CARAVAN_03",
@@ -4455,7 +4460,7 @@
       "Name": "Products Please!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
@@ -4463,7 +4468,7 @@
       "Name": "Need the Car Parts!",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
@@ -4471,7 +4476,7 @@
       "Name": "Station Lvl. 2",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
@@ -4479,7 +4484,7 @@
       "Name": "Station Lvl. 3",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "GSS_ACH_49_UPGRADE_STATION_03",
@@ -4487,7 +4492,7 @@
       "Name": "Station Lvl. 4",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "GSS_ACH_50_UPGRADE_STATION_04",
@@ -4511,7 +4516,7 @@
       "Name": "Workshop Lvl. 2",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "GSS_ACH_53_UPGRADE_WORKSHOP_03",
@@ -4543,15 +4548,15 @@
       "Name": "Warehouse Obtained!",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "GSS_ACH_57_UPGRADE_WAREHOUSE_02",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 2",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 941
+      "UsersEstimate": 956
     },
     {
       "ID": "GSS_ACH_58_UPGRADE_WAREHOUSE_03",
@@ -4575,7 +4580,7 @@
       "Name": "Warehouse Lvl. 5",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "GSS_ACH_61_POPULARITY_01",
@@ -4583,7 +4588,7 @@
       "Name": "On the Map",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "GSS_ACH_62_POPULARITY_02",
@@ -4591,7 +4596,7 @@
       "Name": "Heard in Whispers",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     },
     {
       "ID": "GSS_ACH_63_POPULARITY_03",
@@ -4599,7 +4604,7 @@
       "Name": "In the Desert There Is a ...",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "GSS_ACH_64_POPULARITY_04",
@@ -4607,7 +4612,7 @@
       "Name": "Local Celebrity",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "GSS_ACH_65_POPULARITY_05",
@@ -4631,7 +4636,7 @@
       "Name": "Popular Place",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "GSS_ACH_68_POPULARITY_08",
@@ -4687,7 +4692,7 @@
       "Name": "Sandstorm!",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "GSS_ACH_75_RACE_02_COMPLETE",
@@ -4719,7 +4724,7 @@
       "Name": "Expert in the Field",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "GSS_ACH_79_JACK_OF_ALL_TRADES",
@@ -4743,7 +4748,7 @@
       "Name": "Decorating Better",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "GSS_ACH_89_DECORATION_03",
@@ -4758,7 +4763,7 @@
     {
       "ID": "5fn8ia4",
       "IsBase": true,
-      "Progressed": 1470,
+      "Progressed": 1471,
       "Completed": 1
     }
   ],
@@ -4766,8 +4771,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-30T13:03:18.5832647+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:04:38.7692288+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:04:27.9151543+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:05.7719462+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:00:48.6607859+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:04:38.7693113+00:00"
+  "LastUpdate_Ratings": "2023-12-30T18:00:29.5168539+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:04:27.9152342+00:00"
 }

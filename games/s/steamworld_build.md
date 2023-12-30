@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mathematic | 88.00% | ~190 |
-| Digging a Hole | 77.00% | ~166 |
-| It's Yours, My Friend | 75.00% | ~162 |
+| Mathematic | 87.00% | ~189 |
+| Digging a Hole | 76.00% | ~165 |
+| It's Yours, My Friend | 74.00% | ~161 |
 | Conducted Trade | 66.00% | ~143 |
-| Going Places | 64.00% | ~138 |
-| Aristocratic | 62.00% | ~134 |
-| Tutti Frutti | 56.00% | ~121 |
+| Going Places | 65.00% | ~141 |
+| Aristocratic | 62.00% | ~135 |
+| Tutti Frutti | 56.00% | ~122 |
 | Gotta Go Fast | 44.00% | ~95 |
 | Slotting Machine | 44.00% | ~95 |
-| Systematic | 43.00% | ~93 |
-| Mine Sweeper | 40.00% | ~86 |
+| Systematic | 42.00% | ~91 |
+| Mine Sweeper | 40.00% | ~87 |
 | Roll Out | 36.00% | ~78 |
 | Dopa-Miner | 30.00% | ~65 |
 | Up, Up And Away! | 30.00% | ~65 |
@@ -27,13 +27,13 @@
 | Stack Overflow | 5.00% | ~11 |
 | Click 'Em All | 4.00% | ~9 |
 | Real Purdy | 4.00% | ~9 |
-| Accustomed Customer | 3.00% | ~6 |
+| Accustomed Customer | 3.00% | ~7 |
 | Interstellar Performance | 2.00% | ~4 |
 | I'm A Lumberbot | 0.50% | ~1 |
 | Yup. | 0.50% | ~1 |
 | Nothing But Road | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216 (Ranked 418)  
+Progressed: 217 (Ranked 418)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,4 +65,4 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 198 | 0 |
 | 2023-12-28 | 200 | 0 |
 | 2023-12-29 | 211 | 0 |
-| 2023-12-30 | 216 | 0 |
+| 2023-12-30 | 217 | 0 |

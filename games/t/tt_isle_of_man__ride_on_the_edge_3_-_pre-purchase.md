@@ -10,10 +10,10 @@
 | You Get An Upgrade, You Get An Upgrade! | 18.00% | ~42 |
 | Onwards and Upwards | 13.00% | ~31 |
 | Serial Winner | 9.00% | ~21 |
-| Start Your Engines | 9.00% | ~21 |
+| Start Your Engines | 8.00% | ~19 |
 | Lone Wolf | 8.00% | ~19 |
-| Highly Qualified | 7.00% | ~16 |
-| No Room for Improvement | 7.00% | ~16 |
+| Highly Qualified | 7.00% | ~17 |
+| No Room for Improvement | 7.00% | ~17 |
 | Playing God | 6.00% | ~14 |
 | Nerd | 5.00% | ~12 |
 | Tailor-Made | 5.00% | ~12 |
@@ -38,13 +38,13 @@
 | The Immortal One | 1.00% | ~2 |
 | Shopping List | 1.00% | ~2 |
 | Supersport Superfan | 1.00% | ~2 |
-| Golden Ratio | 0.90% | ~2 |
-| Checklist | 0.90% | ~2 |
-| Time Is of the Essence | 0.90% | ~2 |
-| Superbike Superfan | 0.90% | ~2 |
-| Playing Favourites | 0.90% | ~2 |
+| Golden Ratio | 0.80% | ~2 |
+| Checklist | 0.80% | ~2 |
+| Time Is of the Essence | 0.80% | ~2 |
+| Superbike Superfan | 0.80% | ~2 |
+| Playing Favourites | 0.80% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235 (Ranked 408)  
+Progressed: 236 (Ranked 408)  
 Completed: 2 (0.85%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,4 +154,4 @@ Completed: 2 (0.85%) (Ranked 185)
 | 2023-12-27 | 229 | 2 |
 | 2023-12-28 | 230 | 2 |
 | 2023-12-29 | 233 | 2 |
-| 2023-12-30 | 235 | 2 |
+| 2023-12-30 | 236 | 2 |

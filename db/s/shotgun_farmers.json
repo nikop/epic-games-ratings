@@ -2,9 +2,9 @@
   "ID": "5eb9d01d608e46a7ac42a673a27f7888",
   "Name": "Shotgun Farmers",
   "ProductSlug": "shotgun-farmers-d9f3f0",
-  "Ranking_EOS_Progress": 368,
+  "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 362,
+  "EOS_Progressed": 363,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1596,6 +1596,11 @@
       "Time": "2023-12-30T17:06:35.5253146+00:00",
       "NumProgressed": 362,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T18:06:14.3073795+00:00",
+      "NumProgressed": 363,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 74,
@@ -1655,7 +1660,7 @@
       "Name": "First Blood",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ach_first_harvest",
@@ -1663,7 +1668,7 @@
       "Name": "Seeds of War",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ach_first_rocket_jump",
@@ -1671,7 +1676,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ach_heal_x_points_with_health_pack",
@@ -1879,7 +1884,7 @@
       "Name": "Pork Chop Express",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ach_sextaKill",
@@ -1895,7 +1900,7 @@
       "Name": "No Asperascope",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ach_steal_x_gnomes",
@@ -1917,9 +1922,9 @@
       "ID": "ach_tripleKill",
       "SetID": "cmg602e",
       "Name": "Triple Kill",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 221
     },
     {
       "ID": "ach_win_with_no_deaths",
@@ -1951,7 +1956,7 @@
       "Name": "Cornivore",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ach_all_koth_points",
@@ -1959,7 +1964,7 @@
       "Name": "King of the Crow",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_bow_heals",
@@ -1989,9 +1994,9 @@
       "ID": "ach_kill_pistol_with_pistol",
       "SetID": "bf10c8p",
       "Name": "Quick-Draw Pod",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 66
     },
     {
       "ID": "ach_kill_self_with_pumpkin",
@@ -2061,9 +2066,9 @@
       "ID": "ach_waves_1",
       "SetID": "bf10c8p",
       "Name": "Survivor",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 175
     },
     {
       "ID": "ach_waves_10",
@@ -2079,7 +2084,7 @@
       "Name": "Amateur Survivor",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ach_waves_30",
@@ -2087,7 +2092,7 @@
       "Name": "Professional Survivor",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ach_waves_40",
@@ -2111,7 +2116,7 @@
       "Name": "Aspairagus",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ach_x_peastol_healing_done",
@@ -2127,7 +2132,7 @@
       "Name": "No Diggity",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ach_x_victims_using_bow",
@@ -2167,7 +2172,7 @@
       "Name": "Summers Here",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_x_victims_using_pistol",
@@ -2198,13 +2203,13 @@
     {
       "ID": "cmg602e",
       "IsBase": true,
-      "Progressed": 362,
+      "Progressed": 363,
       "Completed": 0
     },
     {
       "ID": "bf10c8p",
       "IsBase": false,
-      "Progressed": 312,
+      "Progressed": 313,
       "Completed": 2
     }
   ],
@@ -2212,8 +2217,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:06:35.5253142+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:06:14.3073791+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.7304355+00:00",
-  "LastUpdate_Ratings": "2023-12-30T16:57:26.0646377+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:06:35.5253848+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:57:28.4914467+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:06:14.3074352+00:00"
 }

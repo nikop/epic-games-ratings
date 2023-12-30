@@ -3,8 +3,8 @@
   "Name": "Late Shift",
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 294,
-  "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_Completed": 158,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 883,
+  "EOS_Progressed": 884,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 1.25,
+  "EOS_Completed_Percentage": 1.24,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:43.1533073+00:00",
@@ -2400,6 +2400,11 @@
       "Time": "2023-12-30T15:09:05.4618594+00:00",
       "NumProgressed": 883,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-30T18:09:27.03546+00:00",
+      "NumProgressed": 884,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 20,
@@ -2411,7 +2416,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "CHOICES_MATTER",
@@ -2427,7 +2432,7 @@
       "Name": "The Coward",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ENDING_2",
@@ -2499,7 +2504,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "GOOD_KARMA",
@@ -2515,7 +2520,7 @@
       "Name": "Interrogation",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "OFFICE_CLERK",
@@ -2523,7 +2528,7 @@
       "Name": "Office Clerk",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -2531,7 +2536,7 @@
       "Name": "Proficient Storyteller",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "PROTECTOR",
@@ -2539,7 +2544,7 @@
       "Name": "Protector",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "SABOTAGE",
@@ -2570,7 +2575,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 883,
+      "Progressed": 884,
       "Completed": 11
     }
   ],
@@ -2578,8 +2583,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-30T17:09:29.1099922+00:00",
+  "LastChanged_Achievements": "2023-12-30T18:09:27.0354596+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:26.7088663+00:00",
-  "LastUpdate_Ratings": "2023-12-30T17:00:00.8262686+00:00",
-  "LastUpdate_Achievements": "2023-12-30T17:09:29.1100218+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:59:46.6400179+00:00",
+  "LastUpdate_Achievements": "2023-12-30T18:09:27.0354818+00:00"
 }

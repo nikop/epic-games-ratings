@@ -35,21 +35,21 @@ Number of Ratings: 34  (23.09.2022)
 | Food Massacre | 17.00% | ~125 |
 | Without a Second Thought | 15.00% | ~111 |
 | Collectibles of Chapter III | 14.00% | ~103 |
-| Collectibles of Chapter IV | 13.00% | ~96 |
+| Collectibles of Chapter IV | 14.00% | ~103 |
 | Tiptoe Around | 11.00% | ~81 |
 | Collectibles of Chapter V | 10.00% | ~74 |
 | Such is War! | 8.00% | ~59 |
 | Collectibles of Chapter XII | 7.00% | ~52 |
+| Collectibles of Chapter VII | 6.00% | ~44 |
 | Piece of Cake | 6.00% | ~44 |
 | It Will Rain | 6.00% | ~44 |
 | Not Spill a Drop | 6.00% | ~44 |
-| Collectibles of Chapter VII | 5.00% | ~37 |
+| Collectibles of Chapter XI | 5.00% | ~37 |
 | The Good Samaritan | 5.00% | ~37 |
 | Collectibles of Chapter VIII | 4.00% | ~30 |
-| Collectibles of Chapter XI | 4.00% | ~30 |
+| Collectibles of Chapter IX | 3.00% | ~22 |
 | Collectibles of Chapter X | 3.00% | ~22 |
 | Collectibles of Chapter VI | 2.00% | ~15 |
-| Collectibles of Chapter IX | 2.00% | ~15 |
 | Daddy Would Be Proud | 2.00% | ~15 |
 | Hold a Door | 1.00% | ~7 |
 | Warm Up | 0.40% | ~3 |
