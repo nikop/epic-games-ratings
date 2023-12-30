@@ -6,18 +6,18 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 86.00% | ~8,757 |
-| Photogenic | 83.00% | ~8,452 |
+| Let's Get This Party Started | 86.00% | ~8,758 |
+| Photogenic | 83.00% | ~8,453 |
 | Plug It In | 79.00% | ~8,045 |
 | Surge Gauntlet Jockey | 79.00% | ~8,045 |
-| Adventure Time | 75.00% | ~7,637 |
+| Adventure Time | 75.00% | ~7,638 |
 | Playing With Power | 72.00% | ~7,332 |
 | Coup d'Etat | 55.00% | ~5,601 |
 | You're Fired | 54.00% | ~5,499 |
-| Get Furious | 53.00% | ~5,397 |
-| Hacks In Stacks | 53.00% | ~5,397 |
-| Gunplay And Cosplay | 51.00% | ~5,193 |
-| Meching Enemies | 46.00% | ~4,684 |
+| Get Furious | 53.00% | ~5,398 |
+| Hacks In Stacks | 53.00% | ~5,398 |
+| Gunplay And Cosplay | 51.00% | ~5,194 |
+| Meching Enemies | 46.00% | ~4,685 |
 | Ticket Toddler | 42.00% | ~4,277 |
 | Booty Bashing | 36.00% | ~3,666 |
 | Field Medic | 36.00% | ~3,666 |
@@ -34,9 +34,9 @@ Number of Ratings: 801  (23.09.2022)
 | To Be Continued | 13.00% | ~1,324 |
 | Light My Fire | 11.00% | ~1,120 |
 | Seasoned Adventurer | 11.00% | ~1,120 |
-| Get In The Ring! | 9.00% | ~916 |
-| 1.21 Gigawatts | 9.00% | ~916 |
-| This Is My Boomstick! | 9.00% | ~916 |
+| Get In The Ring! | 9.00% | ~917 |
+| 1.21 Gigawatts | 9.00% | ~917 |
+| This Is My Boomstick! | 9.00% | ~917 |
 | Rescue Ranger | 8.00% | ~815 |
 | Surge Gauntlet Scholar | 6.00% | ~611 |
 | Ticket Titan | 6.00% | ~611 |
@@ -45,9 +45,9 @@ Number of Ratings: 801  (23.09.2022)
 | Start Your Collection | 4.00% | ~407 |
 | Stop Hitting Yourself | 4.00% | ~407 |
 | Team Player | 4.00% | ~407 |
-| Event Horizon | 3.00% | ~305 |
-| Ground Control | 3.00% | ~305 |
-| Treasure Hunting | 3.00% | ~305 |
+| Event Horizon | 3.00% | ~306 |
+| Ground Control | 3.00% | ~306 |
+| Treasure Hunting | 3.00% | ~306 |
 | Nexuwizard | 2.00% | ~204 |
 | Everybody Freeze | 1.00% | ~102 |
 | The Collector | 0.90% | ~92 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~41 |
 | Pyrotechnical | 0.20% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,183 (Ranked 178)  
+Progressed: 10,184 (Ranked 178)  
 Completed: 2 (0.02%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 2 (0.02%) (Ranked 358)
 | 2023-12-27 | 10,144 | 2 |
 | 2023-12-28 | 10,157 | 2 |
 | 2023-12-29 | 10,173 | 2 |
-| 2023-12-30 | 10,183 | 2 |
+| 2023-12-30 | 10,184 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 419)  
 Sum: 465 (Ranked 339)  

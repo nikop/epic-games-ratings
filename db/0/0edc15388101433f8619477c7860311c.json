@@ -3,8 +3,8 @@
   "Name": "The Bridge Curse Road to Salvation",
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
   "Ranking_EOS_Progress": 496,
-  "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_Completed": 391,
+  "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 89,
+  "EOS_Progressed": 90,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -449,6 +449,11 @@
       "Time": "2023-12-29T19:08:22.5574189+00:00",
       "NumProgressed": 89,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T08:04:04.3496138+00:00",
+      "NumProgressed": 90,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-29T03:07:11.2910815+00:00",
@@ -469,13 +474,13 @@
       "Name": "Dating Attraction",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "FirstTry",
       "SetID": "7m88n8p",
       "Name": "Getting It on the First Try",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 25,
       "UsersEstimate": 46
     },
@@ -483,7 +488,7 @@
       "ID": "HauntingSpecter",
       "SetID": "7m88n8p",
       "Name": "Haunting Specter",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 25,
       "UsersEstimate": 29
     },
@@ -499,7 +504,7 @@
       "ID": "HideAndSeek",
       "SetID": "7m88n8p",
       "Name": "Hide-and-Seek Expert",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 65,
       "UsersEstimate": 29
     },
@@ -547,7 +552,7 @@
       "ID": "MoneyCamouflage",
       "SetID": "7m88n8p",
       "Name": "Money Camouflage",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 25,
       "UsersEstimate": 38
     },
@@ -571,7 +576,7 @@
       "ID": "Professions",
       "SetID": "7m88n8p",
       "Name": "Different People Specialize in Different Professions",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 25,
       "UsersEstimate": 30
     },
@@ -579,7 +584,7 @@
       "ID": "ProtectedPower",
       "SetID": "7m88n8p",
       "Name": "Protected by Divine Power",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 25,
       "UsersEstimate": 81
     },
@@ -595,7 +600,7 @@
       "ID": "SeeNoEvil",
       "SetID": "7m88n8p",
       "Name": "See No Evil",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 25,
       "UsersEstimate": 30
     },
@@ -603,7 +608,7 @@
       "ID": "SeeingThrough",
       "SetID": "7m88n8p",
       "Name": "Seeing through Vanity",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 65,
       "UsersEstimate": 30
     },
@@ -611,7 +616,7 @@
       "ID": "TimeManagement",
       "SetID": "7m88n8p",
       "Name": "Master of Time Management",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 25,
       "UsersEstimate": 31
     },
@@ -627,7 +632,7 @@
       "ID": "WhoseChild",
       "SetID": "7m88n8p",
       "Name": "Whose Child?",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 25,
       "UsersEstimate": 40
     }
@@ -636,14 +641,14 @@
     {
       "ID": "7m88n8p",
       "IsBase": true,
-      "Progressed": 89,
+      "Progressed": 90,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-12-30T07:03:24.1779589+00:00",
+  "LastChanged_Achievements": "2023-12-30T08:04:04.3496134+00:00",
   "LastUpdate_AppInfo": "2023-12-25T13:57:09.7353071+00:00",
-  "LastUpdate_Ratings": "2023-12-30T06:59:37.1771802+00:00",
-  "LastUpdate_Achievements": "2023-12-30T07:03:24.1779728+00:00"
+  "LastUpdate_Ratings": "2023-12-30T08:00:54.1718309+00:00",
+  "LastUpdate_Achievements": "2023-12-30T08:04:04.3496327+00:00"
 }

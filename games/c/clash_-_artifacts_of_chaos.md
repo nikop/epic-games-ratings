@@ -12,10 +12,10 @@
 | Your Training Continues | 28.00% | ~40 |
 | Armored | 26.00% | ~37 |
 | Amokuali Tower | 24.00% | ~34 |
-| Freedom | 22.00% | ~31 |
+| Freedom | 23.00% | ~33 |
 | Winner | 21.00% | ~30 |
 | The Pride of Moozhaw | 20.00% | ~29 |
-| Omnia Vincit Amor | 19.00% | ~27 |
+| Omnia Vincit Amor | 20.00% | ~29 |
 | Stilt House | 13.00% | ~19 |
 | Corwid Hill | 12.00% | ~17 |
 | Armor Collector | 11.00% | ~16 |

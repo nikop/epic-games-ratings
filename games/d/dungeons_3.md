@@ -8,37 +8,37 @@ Number of Ratings: 1,635  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Shadow strikes | 70.00% | ~31,690 |
 | The Evilest Evil | 59.00% | ~26,710 |
-| Twistram is devastated | 58.00% | ~26,257 |
+| Twistram is devastated | 58.00% | ~26,258 |
 | The Gehenna Stones | 50.00% | ~22,636 |
-| No one has to die today! | 47.00% | ~21,277 |
+| No one has to die today! | 47.00% | ~21,278 |
 | Death and destruction! | 46.00% | ~20,825 |
-| The Swamplanders from the swamplands | 44.00% | ~19,919 |
-| Rusty Steel | 41.00% | ~18,561 |
-| The One-Huge-Army-Building Evil | 40.00% | ~18,108 |
+| The Swamplanders from the swamplands | 44.00% | ~19,920 |
+| Rusty Steel | 41.00% | ~18,562 |
+| The One-Huge-Army-Building Evil | 40.00% | ~18,109 |
 | Braiiiiins! | 38.00% | ~17,203 |
-| The last burger | 37.00% | ~16,750 |
+| The last burger | 37.00% | ~16,751 |
 | Hands off the Dungeonheart! | 36.00% | ~16,298 |
 | A trip on sea, what fun it can be | 34.00% | ~15,392 |
-| Damned good | 33.00% | ~14,939 |
+| Damned good | 33.00% | ~14,940 |
 | Stock Market Crash | 31.00% | ~14,034 |
 | Factory farming | 31.00% | ~14,034 |
-| Shadow hunter | 30.00% | ~13,581 |
-| Not-So-Overproud | 30.00% | ~13,581 |
+| Shadow hunter | 30.00% | ~13,582 |
+| Not-So-Overproud | 30.00% | ~13,582 |
 | For a handfull of Catapults | 28.00% | ~12,676 |
 | Thirst quencher | 27.00% | ~12,223 |
 | Ogre Solo! | 27.00% | ~12,223 |
-| Destroy the thing | 26.00% | ~11,770 |
-| Tide Master | 26.00% | ~11,770 |
+| Destroy the thing | 26.00% | ~11,771 |
+| Tide Master | 26.00% | ~11,771 |
 | Difficult family relationships | 25.00% | ~11,318 |
 | MASS-O-BOT | 24.00% | ~10,865 |
 | Prepare the grave | 24.00% | ~10,865 |
 | Angel of Fire | 24.00% | ~10,865 |
-| Where there is Light, there is Shadow | 23.00% | ~10,412 |
+| Where there is Light, there is Shadow | 23.00% | ~10,413 |
 | At the foot of Mount Destiny | 22.00% | ~9,960 |
 | The Force disturbed | 21.00% | ~9,507 |
 | The Victorious Evil | 20.00% | ~9,054 |
-| Chorus of damnation | 19.00% | ~8,601 |
-| We don’t have time! | 19.00% | ~8,601 |
+| Chorus of damnation | 19.00% | ~8,602 |
+| We don’t have time! | 19.00% | ~8,602 |
 | The Stones’ Power | 18.00% | ~8,149 |
 | Flat as a pancake | 17.00% | ~7,696 |
 | Lifeguard | 17.00% | ~7,696 |
@@ -67,8 +67,8 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~905 |
 | Sacrifices! | 2.00% | ~905 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,271 (Ranked 124)  
-Completed: 362 (0.80%) (Ranked 189)  
+Progressed: 45,272 (Ranked 124)  
+Completed: 362 (0.80%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -321,7 +321,7 @@ Completed: 362 (0.80%) (Ranked 189)
 | 2023-12-27 | 45,022 | 362 |
 | 2023-12-28 | 45,113 | 362 |
 | 2023-12-29 | 45,239 | 362 |
-| 2023-12-30 | 45,271 | 362 |
+| 2023-12-30 | 45,272 | 362 |
 ## Awards
 Max (Great for Beginners): 394  (Ranked 239)  
 Sum: 2,833 (Ranked 187)  

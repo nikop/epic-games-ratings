@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Chapter I | 51.00% | ~92 |
-| Fire in the... nevermind | 50.00% | ~90 |
+| Fire in the... nevermind | 51.00% | ~92 |
 | Haute cuisine | 45.00% | ~81 |
 | Demolition expert | 38.00% | ~68 |
 | I didn't do it! | 38.00% | ~68 |
-| Open up wide | 36.00% | ~65 |
+| Open up wide | 37.00% | ~67 |
 | Keep away from children | 36.00% | ~65 |
 | Wooooooow! | 34.00% | ~61 |
 | Artistic fool | 32.00% | ~58 |
@@ -52,7 +52,7 @@
 | Do not feed the fish! | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 180 (Ranked 427)  
-Completed: 0 (0.00%) (Ranked 390)  
+Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

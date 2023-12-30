@@ -6,7 +6,7 @@
   "Ranking_Popularity": 533,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 73,
-  "Ranking_EOS_Completed": 390,
+  "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
@@ -331,9 +331,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 234534,
+  "EOS_Progressed": 234536,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 486,
+  "EOS_NewPlayers": 485,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26136,6 +26136,11 @@
       "Time": "2023-12-30T07:09:02.7898477+00:00",
       "NumProgressed": 234534,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-30T08:09:46.9978738+00:00",
+      "NumProgressed": 234536,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 28,
@@ -26211,7 +26216,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 84432
+      "UsersEstimate": 84433
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -26307,7 +26312,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 51597
+      "UsersEstimate": 51598
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -26370,7 +26375,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 234534,
+      "Progressed": 234536,
       "Completed": 6
     }
   ],
@@ -26378,8 +26383,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-12-22T09:02:10.2313691+00:00",
-  "LastChanged_Achievements": "2023-12-30T07:09:02.7898475+00:00",
+  "LastChanged_Achievements": "2023-12-30T08:09:46.9978735+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:10.6096514+00:00",
-  "LastUpdate_Ratings": "2023-12-30T06:57:14.5702907+00:00",
-  "LastUpdate_Achievements": "2023-12-30T07:09:02.789956+00:00"
+  "LastUpdate_Ratings": "2023-12-30T07:57:16.8527472+00:00",
+  "LastUpdate_Achievements": "2023-12-30T08:09:46.9980099+00:00"
 }

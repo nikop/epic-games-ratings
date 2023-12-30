@@ -6,8 +6,8 @@ Number of Ratings: 67  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mint I | 6.00% | ~17 |
-| Soul Cache | 6.00% | ~17 |
+| Mint I | 5.00% | ~15 |
+| Soul Cache | 5.00% | ~15 |
 | Mammon | 2.00% | ~6 |
 | Astarte | 1.00% | ~3 |
 | Close the Rift | 1.00% | ~3 |
@@ -37,8 +37,8 @@ Number of Ratings: 67  (23.09.2022)
 | Respect For Animals | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290 (Ranked 391)  
-Completed: 0 (0.00%) (Ranked 390)  
+Progressed: 291 (Ranked 391)  
+Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -54,7 +54,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-27 | 256 | 0 |
 | 2023-12-28 | 270 | 0 |
 | 2023-12-29 | 284 | 0 |
-| 2023-12-30 | 290 | 0 |
+| 2023-12-30 | 291 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 465)  
 Sum: 45 (Ranked 509)  

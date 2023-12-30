@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 84.00% | ~193 |
-| A piece of the story | 60.00% | ~138 |
-| Wanderer | 53.00% | ~122 |
+| Something important | 84.00% | ~194 |
+| A piece of the story | 60.00% | ~139 |
+| Wanderer | 54.00% | ~125 |
 | It's covered up for a reason | 52.00% | ~120 |
 | Scraps of love | 46.00% | ~106 |
-| The artist’s impression | 44.00% | ~101 |
+| The artist’s impression | 45.00% | ~104 |
 | Do what you have to | 43.00% | ~99 |
 | Sign of weakness | 39.00% | ~90 |
-| Refuse to look | 35.00% | ~80 |
-| Face your fears | 28.00% | ~64 |
-| Finished it | 27.00% | ~62 |
+| Refuse to look | 35.00% | ~81 |
+| Face your fears | 29.00% | ~67 |
+| Finished it | 26.00% | ~60 |
 | Whispers long forgotten | 16.00% | ~37 |
 | A Slice of Life | 12.00% | ~28 |
 | Sound Bite | 12.00% | ~28 |
@@ -57,8 +57,8 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230 (Ranked 413)  
-Completed: 0 (0.00%) (Ranked 390)  
+Progressed: 231 (Ranked 411)  
+Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -125,4 +125,4 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-27 | 213 | 0 |
 | 2023-12-28 | 220 | 0 |
 | 2023-12-29 | 227 | 0 |
-| 2023-12-30 | 230 | 0 |
+| 2023-12-30 | 231 | 0 |

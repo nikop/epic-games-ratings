@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -848,9 +848,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5926,
+  "EOS_Progressed": 5927,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -12118,6 +12118,11 @@
       "Time": "2023-12-30T06:04:35.5251979+00:00",
       "NumProgressed": 5926,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-30T08:05:40.9377983+00:00",
+      "NumProgressed": 5927,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12186,7 +12191,7 @@
       "Name": "First Strike",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1245
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -12226,7 +12231,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1007
+      "UsersEstimate": 1008
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -12313,15 +12318,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5926,
+      "Progressed": 5927,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2023-12-30T07:04:30.9984876+00:00",
+  "LastChanged_Achievements": "2023-12-30T08:05:40.9377978+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:25.4849752+00:00",
-  "LastUpdate_Ratings": "2023-12-30T07:00:22.335634+00:00",
-  "LastUpdate_Achievements": "2023-12-30T07:04:30.9985515+00:00"
+  "LastUpdate_Ratings": "2023-12-30T08:02:44.2428644+00:00",
+  "LastUpdate_Achievements": "2023-12-30T08:05:40.9378748+00:00"
 }

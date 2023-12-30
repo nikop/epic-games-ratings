@@ -5,36 +5,36 @@ Rating: 4.88 (Ranked 18)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 51.00% | ~6,879 |
-| Start with a bang! | 50.00% | ~6,744 |
-| You can pet the cat! | 46.00% | ~6,205 |
-| Who put gears in there? | 37.00% | ~4,991 |
-| Cream of the Crop | 32.00% | ~4,316 |
-| Thanks for the free chip, Peppermint! | 31.00% | ~4,182 |
-| You got this, Peppermint? | 27.00% | ~3,642 |
-| Perfect Parry | 25.00% | ~3,372 |
-| Alright, that felt AWESOME! | 24.00% | ~3,237 |
-| I play my own way! | 21.00% | ~2,833 |
-| This will cost you big time | 19.00% | ~2,563 |
-| Uh, they were broken when I got here | 19.00% | ~2,563 |
-| Z-shielding's got nothing on us! | 17.00% | ~2,293 |
-| Kissing the sky! | 17.00% | ~2,293 |
-| Does that say weakpoint? | 15.00% | ~2,023 |
-| Whoa! There's ANOTHER health bar!? | 14.00% | ~1,888 |
-| The Negotiator | 13.00% | ~1,754 |
-| You must like calling me in, Chai | 12.00% | ~1,619 |
-| Out in a puff of smoke | 11.00% | ~1,484 |
-| I look cool. But I can look COOLER. | 11.00% | ~1,484 |
-| Headliner | 10.00% | ~1,349 |
-| Time to pay up! | 10.00% | ~1,349 |
-| Perfecter Parry-er! | 10.00% | ~1,349 |
-| Who's the boss now? | 9.00% | ~1,214 |
-| I have to read these things? | 9.00% | ~1,214 |
-| There's such a thing as TOO helpful | 7.00% | ~944 |
-| NOW we got a kickass hideout! | 7.00% | ~841 |
-| Well that was a rush! | 6.00% | ~809 |
-| That's a lot of junk metal… | 6.00% | ~809 |
-| Beat-hit mania | 5.00% | ~674 |
+| Feeling the beat! | 51.00% | ~6,888 |
+| Start with a bang! | 50.00% | ~6,753 |
+| You can pet the cat! | 46.00% | ~6,213 |
+| Who put gears in there? | 37.00% | ~4,997 |
+| Cream of the Crop | 32.00% | ~4,322 |
+| Thanks for the free chip, Peppermint! | 31.00% | ~4,187 |
+| You got this, Peppermint? | 27.00% | ~3,647 |
+| Perfect Parry | 25.00% | ~3,376 |
+| Alright, that felt AWESOME! | 24.00% | ~3,241 |
+| I play my own way! | 21.00% | ~2,836 |
+| This will cost you big time | 19.00% | ~2,566 |
+| Uh, they were broken when I got here | 19.00% | ~2,566 |
+| Z-shielding's got nothing on us! | 17.00% | ~2,296 |
+| Kissing the sky! | 17.00% | ~2,296 |
+| Does that say weakpoint? | 15.00% | ~2,026 |
+| Whoa! There's ANOTHER health bar!? | 14.00% | ~1,891 |
+| The Negotiator | 13.00% | ~1,756 |
+| You must like calling me in, Chai | 12.00% | ~1,621 |
+| Headliner | 11.00% | ~1,486 |
+| Out in a puff of smoke | 11.00% | ~1,486 |
+| I look cool. But I can look COOLER. | 11.00% | ~1,486 |
+| Time to pay up! | 10.00% | ~1,351 |
+| Perfecter Parry-er! | 10.00% | ~1,351 |
+| Who's the boss now? | 9.00% | ~1,216 |
+| I have to read these things? | 9.00% | ~1,216 |
+| There's such a thing as TOO helpful | 7.00% | ~945 |
+| NOW we got a kickass hideout! | 7.00% | ~842 |
+| Well that was a rush! | 6.00% | ~810 |
+| That's a lot of junk metal… | 6.00% | ~810 |
+| Beat-hit mania | 5.00% | ~675 |
 | I told you I'd be fine, Peppermint! | 4.00% | ~540 |
 | Chip-tuned | 3.00% | ~405 |
 | Wanna hear my playlist? | 3.00% | ~405 |
@@ -48,36 +48,36 @@ Rating: 4.88 (Ranked 18)
 | This is a breeze! | 1.00% | ~135 |
 | I'm not done with you yet | 1.00% | ~135 |
 | Call me Turbo Chai | 1.00% | ~120 |
-| Easy Listening | 0.90% | ~121 |
+| Easy Listening | 0.90% | ~122 |
 | OK, well THEY came after ME! | 0.60% | ~81 |
 | New bad guys? No problem! | 0.60% | ~72 |
-| Problem solved... wait, what? | 0.30% | ~40 |
-| Fully Powered Up! | 0.30% | ~40 |
-| Now this is how you fight like a team! | 0.30% | ~40 |
-| I am a good person who likes to help | 0.30% | ~40 |
+| Problem solved... wait, what? | 0.30% | ~41 |
+| Fully Powered Up! | 0.30% | ~41 |
+| Now this is how you fight like a team! | 0.30% | ~41 |
+| I am a good person who likes to help | 0.30% | ~41 |
 | Choose your own adventure | 0.30% | ~36 |
 | And the crowd goes wild! | 0.20% | ~27 |
 | I can't see this ever being a problem again | 0.20% | ~27 |
 | With our powers combined…and to the rhythm… | 0.20% | ~27 |
 | It'll do, CNMN | 0.20% | ~24 |
-| Didn't skip a beat! | 0.10% | ~13 |
-| I think that's enough health for now | 0.10% | ~13 |
-| I have to read ALL of these things? | 0.10% | ~13 |
-| My Ultimate Setlist | 0.10% | ~13 |
-| What a journey it was... | 0.10% | ~13 |
-| This was... not what I expected. | 0.10% | ~13 |
-| Have we met before? | 0.10% | ~13 |
-| I'm untouchable! | 0.10% | ~13 |
-| I'm trying to FOCUS HERE! | 0.10% | ~13 |
-| I saw all those hits coming a measure away! | 0.10% | ~13 |
-| OK, I THINK I know what I'm doing now | 0.10% | ~13 |
+| Didn't skip a beat! | 0.10% | ~14 |
+| I think that's enough health for now | 0.10% | ~14 |
+| I have to read ALL of these things? | 0.10% | ~14 |
+| My Ultimate Setlist | 0.10% | ~14 |
+| What a journey it was... | 0.10% | ~14 |
+| This was... not what I expected. | 0.10% | ~14 |
+| Have we met before? | 0.10% | ~14 |
+| I'm untouchable! | 0.10% | ~14 |
+| I'm trying to FOCUS HERE! | 0.10% | ~14 |
+| I saw all those hits coming a measure away! | 0.10% | ~14 |
+| OK, I THINK I know what I'm doing now | 0.10% | ~14 |
 | Please don't make this awkward | 0.10% | ~12 |
 | That was just EVIL | 0.10% | ~12 |
 | It was all for this | 0.10% | ~12 |
 | Voices from within | 0.10% | ~12 |
 | Low budget finish | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,489 (Ranked 171)  
+Progressed: 13,506 (Ranked 171)  
 Completed: 8 (0.06%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,14 +321,14 @@ Completed: 8 (0.06%) (Ranked 328)
 | 2023-12-27 | 12,766 | 8 |
 | 2023-12-28 | 13,062 | 8 |
 | 2023-12-29 | 13,371 | 8 |
-| 2023-12-30 | 13,489 | 8 |
+| 2023-12-30 | 13,506 | 8 |
 ## Awards
-Max (Great Boss Battles): 20  (Ranked 568)  
-Sum: 20 (Ranked 569)  
-Diff (max vs sum): -1  
+Max (Great Boss Battles): 22  (Ranked 558)  
+Sum: 22 (Ranked 561)  
+Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 20 |
+| This game has Great Boss Battles | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -362,3 +362,4 @@ Diff (max vs sum): -1
 | 2023-12-25 | 4.90 | 0 | 0 |
 | 2023-12-27 | 4.88 | 0 | 0 |
 | 2023-12-28 | 4.88 | 20 | 20 |
+| 2023-12-30 | 4.88 | 22 | 22 |

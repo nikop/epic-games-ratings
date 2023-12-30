@@ -3,8 +3,8 @@
   "Name": "Silence",
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 427,
-  "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_Completed": 391,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -617,9 +617,9 @@
       "ID": "1004_achv_wormtooth",
       "SetID": "dhn82m5",
       "Name": "Open up wide",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "1006_achv_chapter1",
@@ -641,9 +641,9 @@
       "ID": "1006_achv_dropball",
       "SetID": "dhn82m5",
       "Name": "Fire in the... nevermind",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 92
     },
     {
       "ID": "1006_achv_fixbomb",
@@ -866,8 +866,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-12-30T07:03:22.0467655+00:00",
+  "LastChanged_Achievements": "2023-12-30T08:04:01.4177307+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.815769+00:00",
-  "LastUpdate_Ratings": "2023-12-30T06:59:16.0995062+00:00",
-  "LastUpdate_Achievements": "2023-12-30T07:03:22.0468019+00:00"
+  "LastUpdate_Ratings": "2023-12-30T08:00:21.2918965+00:00",
+  "LastUpdate_Achievements": "2023-12-30T08:04:01.4177593+00:00"
 }

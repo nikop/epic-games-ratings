@@ -25,7 +25,7 @@
 | Exclusive Photoshoot | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 129 (Ranked 462)  
-Completed: 0 (0.00%) (Ranked 390)  
+Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

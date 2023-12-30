@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -115,7 +115,7 @@
   "Tags": [],
   "EOS_Progressed": 1461,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4414,9 +4414,9 @@
       "ID": "GSS_ACH_44_CARAVAN_03",
       "SetID": "5fn8ia4",
       "Name": "Business is Thriving",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 292
     },
     {
       "ID": "GSS_ACH_45_ORDER_PRODUCTS",
@@ -4735,8 +4735,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-29T13:03:03.3962443+00:00",
-  "LastChanged_Achievements": "2023-12-30T07:04:04.472396+00:00",
+  "LastChanged_Achievements": "2023-12-30T08:05:02.3233051+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:05.7719462+00:00",
-  "LastUpdate_Ratings": "2023-12-30T07:00:07.4983259+00:00",
-  "LastUpdate_Achievements": "2023-12-30T07:04:04.4724806+00:00"
+  "LastUpdate_Ratings": "2023-12-30T08:01:41.4845306+00:00",
+  "LastUpdate_Achievements": "2023-12-30T08:05:02.3234045+00:00"
 }

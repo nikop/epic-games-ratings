@@ -6,8 +6,8 @@
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 456,
-  "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_Completed": 391,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 133,
+  "EOS_Progressed": 134,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1066,6 +1066,11 @@
       "Time": "2023-12-30T07:04:16.6366754+00:00",
       "NumProgressed": 133,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T08:05:19.923441+00:00",
+      "NumProgressed": 134,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1132,9 +1137,9 @@
       "ID": "20TELEPORTS",
       "SetID": "a1angca",
       "Name": "Beam Me Up",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "20TRADER",
@@ -1148,7 +1153,7 @@
       "ID": "20WEAPONSCRAFTED",
       "SetID": "a1angca",
       "Name": "Weaponsmith",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1164,9 +1169,9 @@
       "ID": "30FUEL",
       "SetID": "a1angca",
       "Name": "Long-Haul Flyer",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "30POTIONS",
@@ -1204,9 +1209,9 @@
       "ID": "5CREWMEMBER",
       "SetID": "a1angca",
       "Name": "Military Leader",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "ALLCOMBAT",
@@ -1228,9 +1233,9 @@
       "ID": "ALLJETPACK",
       "SetID": "a1angca",
       "Name": "Free as a Bird",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "ALLPERSONALITY",
@@ -1260,7 +1265,7 @@
       "ID": "BRINGTOYS",
       "SetID": "a1angca",
       "Name": "Toy Time",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -1268,7 +1273,7 @@
       "ID": "CHOSEABT",
       "SetID": "a1angca",
       "Name": "Defector",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -1300,15 +1305,15 @@
       "ID": "CHOSEMOR",
       "SetID": "a1angca",
       "Name": "Morkon",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "CHOSEOUT",
       "SetID": "a1angca",
       "Name": "Outlaw",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -1324,7 +1329,7 @@
       "ID": "DESTRUCTION",
       "SetID": "a1angca",
       "Name": "Destroyer",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -1332,17 +1337,17 @@
       "ID": "ENDGAME",
       "SetID": "a1angca",
       "Name": "Perfectionist",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "FINDALLIES",
       "SetID": "a1angca",
       "Name": "Commander",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "FINDBILLY",
@@ -1358,7 +1363,7 @@
       "Name": "Civilian",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "FINDCRONY",
@@ -1366,13 +1371,13 @@
       "Name": "Best Buddy",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "FINDMAP",
       "SetID": "a1angca",
       "Name": "Legendary",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -1460,9 +1465,9 @@
       "ID": "KILLKAHN",
       "SetID": "a1angca",
       "Name": "Eternal Oblivion",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "LOVECAJA",
@@ -1477,15 +1482,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 133,
+      "Progressed": 134,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2023-12-30T07:04:16.636675+00:00",
+  "LastChanged_Achievements": "2023-12-30T08:05:19.9234405+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:36.6401654+00:00",
-  "LastUpdate_Ratings": "2023-12-30T06:58:10.048108+00:00",
-  "LastUpdate_Achievements": "2023-12-30T07:04:16.6367061+00:00"
+  "LastUpdate_Ratings": "2023-12-30T07:58:42.2774477+00:00",
+  "LastUpdate_Achievements": "2023-12-30T08:05:19.9234795+00:00"
 }

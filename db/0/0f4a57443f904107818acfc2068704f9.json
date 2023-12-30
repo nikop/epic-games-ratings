@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1132,
+  "EOS_Progressed": 1133,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
@@ -2777,6 +2777,11 @@
       "Time": "2023-12-30T07:06:10.314406+00:00",
       "NumProgressed": 1132,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T08:08:04.832999+00:00",
+      "NumProgressed": 1133,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2845,7 +2850,7 @@
       "Name": "Pathfinder",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "CompleteChapter10",
@@ -2931,9 +2936,9 @@
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 679
+      "UsersEstimate": 668
     },
     {
       "ID": "CompleteChapter3",
@@ -2965,7 +2970,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "CompleteChapter7",
@@ -2979,9 +2984,9 @@
       "ID": "CompleteChapter8",
       "SetID": "52ail55",
       "Name": "Troggoff Troubles",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 181
     },
     {
       "ID": "CompleteChapter9",
@@ -2989,7 +2994,7 @@
       "Name": "Ingredients List",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -3084,14 +3089,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1132,
+      "Progressed": 1133,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-30T07:06:10.3144055+00:00",
+  "LastChanged_Achievements": "2023-12-30T08:08:04.8329986+00:00",
   "LastUpdate_AppInfo": "2023-12-29T09:57:13.5043463+00:00",
-  "LastUpdate_Ratings": "2023-12-30T06:57:38.9416664+00:00",
-  "LastUpdate_Achievements": "2023-12-30T07:06:10.3144363+00:00"
+  "LastUpdate_Ratings": "2023-12-30T07:57:55.1550718+00:00",
+  "LastUpdate_Achievements": "2023-12-30T08:08:04.8330554+00:00"
 }

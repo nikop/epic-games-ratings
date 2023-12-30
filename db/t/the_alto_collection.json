@@ -940,9 +940,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 52570,
+  "EOS_Progressed": 52577,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1170,
+  "EOS_NewPlayers": 1176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29795,6 +29795,11 @@
       "Time": "2023-12-30T07:04:37.237488+00:00",
       "NumProgressed": 52570,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-30T08:05:49.6752233+00:00",
+      "NumProgressed": 52577,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -29838,7 +29843,7 @@
       "Name": "Explorer",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "goals10",
@@ -29846,7 +29851,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 14194
+      "UsersEstimate": 14196
     },
     {
       "ID": "goals180",
@@ -29862,7 +29867,7 @@
       "Name": "Amateur",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5257
+      "UsersEstimate": 5258
     },
     {
       "ID": "goals75",
@@ -29870,7 +29875,7 @@
       "Name": "Pro",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "hoistthemainsail",
@@ -29886,7 +29891,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3154
+      "UsersEstimate": 3155
     },
     {
       "ID": "journeyer",
@@ -29894,7 +29899,7 @@
       "Name": "Journeyer",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "lifeaquatic",
@@ -29918,7 +29923,7 @@
       "Name": "My Little Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2628
+      "UsersEstimate": 2629
     },
     {
       "ID": "nomad",
@@ -29926,7 +29931,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 8937
+      "UsersEstimate": 8938
     },
     {
       "ID": "novice",
@@ -29934,7 +29939,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 7886
+      "UsersEstimate": 7887
     },
     {
       "ID": "playerFelipe",
@@ -29950,7 +29955,7 @@
       "Name": "Unlock Izel",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "playerMaya",
@@ -29998,7 +30003,7 @@
       "Name": "One With The Board",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2628
+      "UsersEstimate": 2629
     },
     {
       "ID": "proximityFly1000",
@@ -30014,7 +30019,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13142
+      "UsersEstimate": 13144
     },
     {
       "ID": "sandboarder",
@@ -30046,7 +30051,7 @@
       "Name": "Here Comes Felipe",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "unlockfinal",
@@ -30070,7 +30075,7 @@
       "Name": "Welcome Maya",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7360
+      "UsersEstimate": 7361
     },
     {
       "ID": "unlockpaz",
@@ -30117,15 +30122,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 52570,
+      "Progressed": 52577,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-12-28T19:03:02.718582+00:00",
-  "LastChanged_Achievements": "2023-12-30T07:04:37.2374874+00:00",
+  "LastChanged_Achievements": "2023-12-30T08:05:49.675222+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:50.851246+00:00",
-  "LastUpdate_Ratings": "2023-12-30T06:57:38.376492+00:00",
-  "LastUpdate_Achievements": "2023-12-30T07:04:37.2376381+00:00"
+  "LastUpdate_Ratings": "2023-12-30T07:57:54.2827062+00:00",
+  "LastUpdate_Achievements": "2023-12-30T08:05:49.6754237+00:00"
 }

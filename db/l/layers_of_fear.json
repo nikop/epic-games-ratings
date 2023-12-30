@@ -2,9 +2,9 @@
   "ID": "9df61912ce644d8096412ba0f516759a",
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fears-85a02b",
-  "Ranking_EOS_Progress": 413,
-  "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_Progress": 411,
+  "Ranking_EOS_Completed": 391,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 230,
+  "EOS_Progressed": 231,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1044,6 +1044,11 @@
       "Time": "2023-12-30T07:08:16.1229773+00:00",
       "NumProgressed": 230,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T08:08:40.2737136+00:00",
+      "NumProgressed": 231,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1160,7 +1165,7 @@
       "Name": "Refuse to look",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "do_what_you_have_to",
@@ -1182,9 +1187,9 @@
       "ID": "face_your_fears",
       "SetID": "f2im8d",
       "Name": "Face your fears",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 64
+      "UsersEstimate": 67
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -1230,17 +1235,17 @@
       "ID": "find_one_rat_sketch",
       "SetID": "f2im8d",
       "Name": "The artist\u2019s impression",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 104
     },
     {
       "ID": "finished_it",
       "SetID": "f2im8d",
       "Name": "Finished it",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 60
     },
     {
       "ID": "first_step",
@@ -1328,7 +1333,7 @@
       "Name": "A piece of the story",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "playtime",
@@ -1392,7 +1397,7 @@
       "Name": "Something important",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "spy_one_item",
@@ -1454,9 +1459,9 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 125
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1471,14 +1476,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 230,
+      "Progressed": 231,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-30T07:08:16.1229769+00:00",
+  "LastChanged_Achievements": "2023-12-30T08:08:40.2737132+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:25.6985759+00:00",
-  "LastUpdate_Ratings": "2023-12-30T06:59:44.7928932+00:00",
-  "LastUpdate_Achievements": "2023-12-30T07:08:16.1230198+00:00"
+  "LastUpdate_Ratings": "2023-12-30T08:01:05.9536371+00:00",
+  "LastUpdate_Achievements": "2023-12-30T08:08:40.2737491+00:00"
 }

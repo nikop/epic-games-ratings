@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17775,
+  "EOS_Progressed": 17777,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 630,
+  "EOS_NewPlayers": 629,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15637,6 +15637,11 @@
       "Time": "2023-12-30T06:05:35.3936746+00:00",
       "NumProgressed": 17775,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-30T08:07:07.0548598+00:00",
+      "NumProgressed": 17777,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15673,7 +15678,7 @@
       "Name": "Data Archivist",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "13",
@@ -15705,7 +15710,7 @@
       "Name": "Drug Gifter",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "17",
@@ -15745,7 +15750,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "21",
@@ -15785,7 +15790,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "26",
@@ -15913,7 +15918,7 @@
       "Name": "Master Negotiator",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "35",
@@ -15928,13 +15933,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17775,
+      "Progressed": 17777,
       "Completed": 57
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3729,
+      "Progressed": 3731,
       "Completed": 1117
     }
   ],
@@ -15942,8 +15947,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-27T06:00:51.7325186+00:00",
-  "LastChanged_Achievements": "2023-12-30T07:05:29.9935785+00:00",
+  "LastChanged_Achievements": "2023-12-30T08:07:07.0548594+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-30T06:57:33.4010468+00:00",
-  "LastUpdate_Achievements": "2023-12-30T07:05:29.9936505+00:00"
+  "LastUpdate_Ratings": "2023-12-30T07:57:46.746689+00:00",
+  "LastUpdate_Achievements": "2023-12-30T08:07:07.0549598+00:00"
 }

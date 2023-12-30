@@ -3,8 +3,8 @@
   "Name": "Mars 2030",
   "ProductSlug": "mars-2030",
   "Ranking_EOS_Progress": 819,
-  "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_Completed": 391,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.1444113+00:00",
-  "LastUpdate_Ratings": "2023-12-30T07:00:14.3243924+00:00",
-  "LastUpdate_Achievements": "2023-12-30T07:08:52.4923059+00:00"
+  "LastUpdate_Ratings": "2023-12-30T08:01:52.3460028+00:00",
+  "LastUpdate_Achievements": "2023-12-30T08:09:32.0079662+00:00"
 }

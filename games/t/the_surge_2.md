@@ -5,17 +5,17 @@ Rating: 4.27 (Ranked 891)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,904 |
+| Rigged And Ready | 79.00% | ~1,905 |
 | Don't I Know You...? | 76.00% | ~1,832 |
-| Jailbreak | 65.00% | ~1,566 |
-| HEADSHOT! | 38.00% | ~916 |
+| Jailbreak | 65.00% | ~1,567 |
 | Suited and Booted | 38.00% | ~916 |
+| HEADSHOT! | 37.00% | ~892 |
 | Sleeping With The Fishes | 35.00% | ~844 |
 | Overheated | 30.00% | ~723 |
 | High Performance | 30.00% | ~723 |
 | Powered Up | 28.00% | ~675 |
-| Studied The Blade | 25.00% | ~602 |
-| Home Invasion | 23.00% | ~554 |
+| Studied The Blade | 25.00% | ~603 |
+| Home Invasion | 23.00% | ~555 |
 | Luminary | 22.00% | ~530 |
 | It's a Trap | 22.00% | ~530 |
 | True Survivor | 21.00% | ~506 |
@@ -35,9 +35,9 @@ Rating: 4.27 (Ranked 891)
 | Corrupted Beauty | 12.00% | ~289 |
 | Marked For Success | 12.00% | ~289 |
 | Sorry, Didn't See You There | 12.00% | ~289 |
-| Stimulating The Local Economy | 10.00% | ~241 |
 | Triplets | 10.00% | ~241 |
 | Denying Prophecy | 9.00% | ~217 |
+| Stimulating The Local Economy | 9.00% | ~217 |
 | A Little Banged Up | 8.00% | ~193 |
 | Following In Their Footsteps | 8.00% | ~193 |
 | Defense in Depth | 8.00% | ~193 |
@@ -46,10 +46,10 @@ Rating: 4.27 (Ranked 891)
 | Remote Surgery | 6.00% | ~145 |
 | Turbo Booster | 6.00% | ~145 |
 | Squid Pro Quo | 6.00% | ~145 |
-| Hello Darkness My Old Friend | 5.00% | ~120 |
-| Counter-Sniper | 5.00% | ~120 |
-| Shrimp Cocktail | 5.00% | ~120 |
-| Juiced Up | 5.00% | ~120 |
+| Hello Darkness My Old Friend | 5.00% | ~121 |
+| Counter-Sniper | 5.00% | ~121 |
+| Shrimp Cocktail | 5.00% | ~121 |
+| Juiced Up | 5.00% | ~121 |
 | Geronimo! | 4.00% | ~96 |
 | Plank of Wood | 4.00% | ~96 |
 | Gotta Craft 'em All | 3.00% | ~72 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 891)
 | Three Birds With One Stone | 1.00% | ~24 |
 | The Easy Way Out | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,410 (Ranked 230)  
+Progressed: 2,411 (Ranked 230)  
 Completed: 13 (0.54%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 13 (0.54%) (Ranked 211)
 | 2023-12-27 | 2,388 | 13 |
 | 2023-12-28 | 2,397 | 13 |
 | 2023-12-29 | 2,408 | 13 |
-| 2023-12-30 | 2,410 | 13 |
+| 2023-12-30 | 2,411 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

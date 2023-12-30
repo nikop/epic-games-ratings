@@ -3,8 +3,8 @@
   "Name": "Forest Fire",
   "ProductSlug": "forest-fire-b4bb7e",
   "Ranking_EOS_Progress": 489,
-  "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_Completed": 391,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -563,9 +563,9 @@
       "ID": "A17",
       "SetID": "7f5j12l",
       "Name": "Shipping Company Destroyed",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "A18",
@@ -778,8 +778,8 @@
   ],
   "FirstSeen": "2023-09-06T21:57:38.1814992+00:00",
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2023-12-30T07:05:41.0859676+00:00",
+  "LastChanged_Achievements": "2023-12-30T08:07:22.9768389+00:00",
   "LastUpdate_AppInfo": "2023-12-26T12:59:42.3968819+00:00",
-  "LastUpdate_Ratings": "2023-12-30T06:58:24.0016366+00:00",
-  "LastUpdate_Achievements": "2023-12-30T07:05:41.0859901+00:00"
+  "LastUpdate_Ratings": "2023-12-30T07:59:02.1736092+00:00",
+  "LastUpdate_Achievements": "2023-12-30T08:07:22.9768609+00:00"
 }

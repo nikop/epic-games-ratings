@@ -6,7 +6,7 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 541,
   "Ranking_EOS_Progress": 242,
-  "Ranking_EOS_Completed": 390,
+  "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
@@ -255,9 +255,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1934,
+  "EOS_Progressed": 1935,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 315,
+  "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4620,6 +4620,11 @@
       "Time": "2023-12-30T07:05:38.6982781+00:00",
       "NumProgressed": 1934,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T08:07:19.7284685+00:00",
+      "NumProgressed": 1935,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -4640,7 +4645,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 1721
+      "UsersEstimate": 1722
     },
     {
       "ID": "AC02",
@@ -4656,7 +4661,7 @@
       "Name": "Blood and Gold",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "AC04",
@@ -4664,7 +4669,7 @@
       "Name": "Blood and Iron",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1142
     },
     {
       "ID": "AC05",
@@ -4680,7 +4685,7 @@
       "Name": "The Last Ascension",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "AC07",
@@ -4688,7 +4693,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "AC08",
@@ -4720,7 +4725,7 @@
       "Name": "A Heart of Gold",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "AC12",
@@ -4752,7 +4757,7 @@
       "Name": "Full Devotion",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "AC16",
@@ -4846,9 +4851,9 @@
       "ID": "AC27",
       "SetID": "l4abp0",
       "Name": "Twisted is the Path of the Miracle",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 310
     },
     {
       "ID": "AC28",
@@ -4880,7 +4885,7 @@
       "Name": "The Merciless One",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "AC32",
@@ -4934,9 +4939,9 @@
       "ID": "AC38",
       "SetID": "l4abp0",
       "Name": "Edge of Orison",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 619
+      "UsersEstimate": 639
     },
     {
       "ID": "AC39",
@@ -4952,7 +4957,7 @@
       "Name": "Welcome Back!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1489
+      "UsersEstimate": 1490
     },
     {
       "ID": "AC41",
@@ -4960,7 +4965,7 @@
       "Name": "Happy New Year!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "AC42",
@@ -4968,7 +4973,7 @@
       "Name": "Two Old Ones Eating Soup",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "AC43",
@@ -4999,7 +5004,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 1934,
+      "Progressed": 1935,
       "Completed": 0
     }
   ],
@@ -5007,8 +5012,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-30T01:40:37.020659+00:00",
-  "LastChanged_Achievements": "2023-12-30T07:05:38.6982777+00:00",
+  "LastChanged_Achievements": "2023-12-30T08:07:19.7284681+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:24.8809366+00:00",
-  "LastUpdate_Ratings": "2023-12-30T06:57:49.0733163+00:00",
-  "LastUpdate_Achievements": "2023-12-30T07:05:38.6983291+00:00"
+  "LastUpdate_Ratings": "2023-12-30T07:58:10.6281219+00:00",
+  "LastUpdate_Achievements": "2023-12-30T08:07:19.7285188+00:00"
 }

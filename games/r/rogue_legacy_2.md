@@ -6,9 +6,9 @@ Number of Ratings: 1,331  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spells and Swords | 6.00% | ~1,629 |
-| Captain and Crew | 4.00% | ~1,086 |
-| No Harm in Looking | 4.00% | ~1,086 |
+| Spells and Swords | 6.00% | ~1,630 |
+| Captain and Crew | 4.00% | ~1,087 |
+| No Harm in Looking | 4.00% | ~1,087 |
 | Harvest and Home | 3.00% | ~815 |
 | Hands and Hammers | 2.00% | ~543 |
 | Progenitor and Protégé | 2.00% | ~543 |
@@ -16,7 +16,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Suns and Soldiers | 2.00% | ~543 |
 | King and Kin | 1.00% | ~272 |
 | Prequel to the Sequel | 1.00% | ~272 |
-| For Glory | 0.90% | ~244 |
+| For Glory | 0.90% | ~245 |
 | Truly Blessed | 0.70% | ~190 |
 | Pillow Investments | 0.70% | ~190 |
 | Looks Familiar | 0.70% | ~190 |
@@ -25,12 +25,12 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Survival | 0.40% | ~109 |
 | K.O. | 0.40% | ~109 |
 | Jack of all Trades | 0.40% | ~109 |
-| For Wrath | 0.30% | ~81 |
-| For Love | 0.30% | ~81 |
-| For Pride | 0.30% | ~81 |
-| Just the Beginning | 0.30% | ~81 |
-| Wasted Betrayal | 0.30% | ~81 |
-| Color Coordination | 0.30% | ~81 |
+| For Wrath | 0.30% | ~82 |
+| For Love | 0.30% | ~82 |
+| For Pride | 0.30% | ~82 |
+| Just the Beginning | 0.30% | ~82 |
+| Wasted Betrayal | 0.30% | ~82 |
+| Color Coordination | 0.30% | ~82 |
 | Black-shoppe | 0.20% | ~54 |
 | For Greed | 0.20% | ~54 |
 | For Penance | 0.20% | ~54 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,158 (Ranked 143)  
+Progressed: 27,168 (Ranked 143)  
 Completed: 35 (0.13%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 35 (0.13%) (Ranked 296)
 | 2023-12-27 | 26,940 | 35 |
 | 2023-12-28 | 27,036 | 35 |
 | 2023-12-29 | 27,132 | 35 |
-| 2023-12-30 | 27,158 | 35 |
+| 2023-12-30 | 27,168 | 35 |
 ## Awards
 Max (Extremely Fun): 226  (Ranked 287)  
 Sum: 1,711 (Ranked 226)  

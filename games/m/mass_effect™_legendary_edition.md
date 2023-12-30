@@ -79,10 +79,10 @@
 | Eye of the Hurricane | 17.00% | ~570 |
 | A House Divided | 17.00% | ~570 |
 | World Shaker | 17.00% | ~570 |
+| Liberator | 17.00% | ~570 |
 | Pathfinder | 16.00% | ~536 |
 | Tunnel Rat | 16.00% | ~536 |
 | Arbiter | 16.00% | ~536 |
-| Liberator | 16.00% | ~536 |
 | Savior | 15.00% | ~503 |
 | Weapon Specialist | 15.00% | ~503 |
 | Lost and Found | 15.00% | ~503 |

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 420,
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 184,
-  "Ranking_EOS_Completed": 390,
+  "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
@@ -215,9 +215,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 8744,
+  "EOS_Progressed": 8753,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2206,
+  "EOS_NewPlayers": 2208,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2940,6 +2940,11 @@
       "Time": "2023-12-30T07:09:29.6890472+00:00",
       "NumProgressed": 8744,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T08:10:25.2049896+00:00",
+      "NumProgressed": 8753,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -2952,7 +2957,7 @@
       "Name": "Conspiracy",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "03_TheStolenStar",
@@ -2976,7 +2981,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -3038,9 +3043,9 @@
       "ID": "13_TheDoomTrader",
       "SetID": "37a94m8",
       "Name": "Doom Trader",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 26
     },
     {
       "ID": "14_TheBreezeOfPain",
@@ -3056,7 +3061,7 @@
       "Name": "Pentakill",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "16_TheRise",
@@ -3088,15 +3093,15 @@
       "Name": "Void Wolf",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "20_PurgeTheUnclean",
       "SetID": "37a94m8",
       "Name": "Purge the Unclean",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 26
     },
     {
       "ID": "21_PreciseDefense",
@@ -3152,7 +3157,7 @@
       "Name": "Uncover the Ice",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "28_TheLightOfAstronomicon",
@@ -3192,7 +3197,7 @@
       "Name": "Aviation Saviour",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "33_TzeentchCleaning",
@@ -3200,7 +3205,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -3208,7 +3213,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -3264,7 +3269,7 @@
       "Name": "Jungle Heat",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "42_TheIronJudgement",
@@ -3272,15 +3277,15 @@
       "Name": "Iron Judgement",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
       "SetID": "37a94m8",
       "Name": "No Place Like Home",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 70
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -3336,7 +3341,7 @@
       "Name": "Whodunit?",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -3360,7 +3365,7 @@
       "Name": "Enraged Dragon",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "54_ThisIsAJobForLordCaptain",
@@ -3368,7 +3373,7 @@
       "Name": "This Is a Job for the Lord Captain!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "55_ReturningTheBoots",
@@ -3376,7 +3381,7 @@
       "Name": "Returning the Boots",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "56_ThoroughInvestigation",
@@ -3392,7 +3397,7 @@
       "Name": "Burning Inheritance",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "58_KneeDeepInChaos",
@@ -3471,7 +3476,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8744,
+      "Progressed": 8753,
       "Completed": 0
     }
   ],
@@ -3479,8 +3484,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-30T04:58:20.1392626+00:00",
-  "LastChanged_Achievements": "2023-12-30T07:09:29.6890468+00:00",
+  "LastChanged_Achievements": "2023-12-30T08:10:25.2049892+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-30T06:58:20.3983703+00:00",
-  "LastUpdate_Achievements": "2023-12-30T07:09:29.6890985+00:00"
+  "LastUpdate_Ratings": "2023-12-30T07:58:57.0649321+00:00",
+  "LastUpdate_Achievements": "2023-12-30T08:10:25.2050526+00:00"
 }

@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1475,
+  "EOS_Progressed": 1477,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -2914,6 +2914,11 @@
       "Time": "2023-12-30T07:09:42.9462535+00:00",
       "NumProgressed": 1475,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-30T08:10:43.3068352+00:00",
+      "NumProgressed": 1477,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -2925,7 +2930,7 @@
       "Name": "Break Out",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 855
+      "UsersEstimate": 857
     },
     {
       "ID": "ACH_02",
@@ -2957,7 +2962,7 @@
       "Name": "To Battle",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_06",
@@ -2965,7 +2970,7 @@
       "Name": "Godslayer",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_07",
@@ -2981,7 +2986,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACH_09",
@@ -2997,7 +3002,7 @@
       "Name": "Trinity",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "ACH_11",
@@ -3021,7 +3026,7 @@
       "Name": "Adventurer",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACH_14",
@@ -3029,7 +3034,7 @@
       "Name": "Airborne",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_15",
@@ -3091,9 +3096,9 @@
       "ID": "ACH_22",
       "SetID": "efe2lj",
       "Name": "Fine Feathers Make Fine Birds",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 44
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_23",
@@ -3173,7 +3178,7 @@
       "Name": "Miner",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_34",
@@ -3181,7 +3186,7 @@
       "Name": "The Collector",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACH_35",
@@ -3212,7 +3217,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1475,
+      "Progressed": 1477,
       "Completed": 3
     }
   ],
@@ -3220,8 +3225,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2023-12-29T23:58:00.9350231+00:00",
-  "LastChanged_Achievements": "2023-12-30T07:09:42.9462531+00:00",
+  "LastChanged_Achievements": "2023-12-30T08:10:43.3068345+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-30T06:58:17.5697878+00:00",
-  "LastUpdate_Achievements": "2023-12-30T07:09:42.9462867+00:00"
+  "LastUpdate_Ratings": "2023-12-30T07:58:53.3667045+00:00",
+  "LastUpdate_Achievements": "2023-12-30T08:10:43.3068745+00:00"
 }

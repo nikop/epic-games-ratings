@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewPlayers": 481,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-06-23T03:00:00+00:00",
@@ -63,11 +63,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 248,
+  "EOS_Progressed": 249,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.81,
+  "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:18.7038891+00:00",
@@ -173,6 +173,11 @@
       "Time": "2023-12-27T04:10:45.133827+00:00",
       "NumProgressed": 248,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-30T08:10:43.6339187+00:00",
+      "NumProgressed": 249,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 49,
@@ -192,7 +197,7 @@
       "Name": "Welcome to Redo",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_03",
@@ -200,7 +205,7 @@
       "Name": "Daily Life Begins Anew",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_04",
@@ -208,7 +213,7 @@
       "Name": "Go-Home Club Activities START!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_05",
@@ -262,9 +267,9 @@
       "ID": "ACH_11",
       "SetID": "2eg5kgc",
       "Name": "Hopes Rewarded",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_12",
@@ -448,15 +453,15 @@
       "Name": "Test Your Luck",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_35",
       "SetID": "2eg5kgc",
       "Name": "Nice Doing Business",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_36",
@@ -470,9 +475,9 @@
       "ID": "ACH_37",
       "SetID": "2eg5kgc",
       "Name": "Investment Ban-\u03C7-ing",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_38",
@@ -512,7 +517,7 @@
       "Name": "Coup de Grace",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_43",
@@ -520,15 +525,15 @@
       "Name": "Our World Now",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_44",
       "SetID": "2eg5kgc",
       "Name": "Counter Champion",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_45",
@@ -550,9 +555,9 @@
       "ID": "ACH_47",
       "SetID": "2eg5kgc",
       "Name": "Trigger Finger",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_48",
@@ -575,15 +580,15 @@
     {
       "ID": "2eg5kgc",
       "IsBase": true,
-      "Progressed": 248,
+      "Progressed": 249,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:19:58.3140985+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.7038898+00:00",
   "LastChanged": "2023-03-31T05:57:16.8033506+00:00",
-  "LastChanged_Achievements": "2023-12-30T07:09:43.1617068+00:00",
+  "LastChanged_Achievements": "2023-12-30T08:10:43.6339183+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:00.5168179+00:00",
-  "LastUpdate_Ratings": "2023-12-30T06:58:14.1180596+00:00",
-  "LastUpdate_Achievements": "2023-12-30T07:09:43.1617333+00:00"
+  "LastUpdate_Ratings": "2023-12-30T07:58:48.254335+00:00",
+  "LastUpdate_Achievements": "2023-12-30T08:10:43.6339517+00:00"
 }

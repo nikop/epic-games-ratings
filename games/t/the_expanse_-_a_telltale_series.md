@@ -21,13 +21,13 @@ Rating: 4.56 (Ranked 500)
 | Madame Undersecretary | 8.00% | ~298 |
 | Heal Thy Medic | 7.00% | ~1,244 |
 | Keep Arjun in Check | 7.00% | ~261 |
-| Data Archivist | 6.00% | ~1,066 |
-| Drug Gifter | 6.00% | ~1,066 |
-| Thorston Mayer | 6.00% | ~1,066 |
-| Khan's Revenge | 6.00% | ~1,066 |
+| Data Archivist | 6.00% | ~1,067 |
+| Drug Gifter | 6.00% | ~1,067 |
+| Thorston Mayer | 6.00% | ~1,067 |
+| Khan's Revenge | 6.00% | ~1,067 |
 | Doctor Approved | 5.00% | ~889 |
 | Bottoms up! | 5.00% | ~889 |
-| Master Negotiator | 5.00% | ~186 |
+| Master Negotiator | 5.00% | ~187 |
 | Data Logger | 4.00% | ~711 |
 | Miraculous Maya | 4.00% | ~711 |
 | Data Master | 3.00% | ~533 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 500)
 | Scavenger Star | 0.30% | ~53 |
 | Data Collector | 0.20% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,775 (Ranked 157)  
+Progressed: 17,777 (Ranked 157)  
 Completed: 57 (0.32%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 57 (0.32%) (Ranked 248)
 | 2023-12-27 | 17,604 | 54 |
 | 2023-12-28 | 17,675 | 56 |
 | 2023-12-29 | 17,756 | 57 |
-| 2023-12-30 | 17,775 | 57 |
+| 2023-12-30 | 17,777 | 57 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

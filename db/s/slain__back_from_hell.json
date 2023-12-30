@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 447,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -250,9 +250,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 43098,
+  "EOS_Progressed": 43100,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 546,
+  "EOS_NewPlayers": 545,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -27795,6 +27795,11 @@
       "Time": "2023-12-30T07:05:27.0049041+00:00",
       "NumProgressed": 43098,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-30T08:07:02.5281126+00:00",
+      "NumProgressed": 43100,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -27886,7 +27891,7 @@
       "Name": "Four Legged Friend",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_13_DEFEATED_WEREBEAST",
@@ -27902,7 +27907,7 @@
       "Name": "Oh God, Mother! Blood! Blood!",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
@@ -27934,7 +27939,7 @@
       "Name": "Smack My Imp Up",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_19_DEFEATED_HOGRE",
@@ -28037,7 +28042,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 43098,
+      "Progressed": 43100,
       "Completed": 30
     }
   ],
@@ -28045,8 +28050,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-18T19:58:40.3413682+00:00",
-  "LastChanged_Achievements": "2023-12-30T07:05:27.0049035+00:00",
+  "LastChanged_Achievements": "2023-12-30T08:07:02.5281122+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:31.7001832+00:00",
-  "LastUpdate_Ratings": "2023-12-30T06:57:47.5889263+00:00",
-  "LastUpdate_Achievements": "2023-12-30T07:05:27.0050257+00:00"
+  "LastUpdate_Ratings": "2023-12-30T07:58:08.3184526+00:00",
+  "LastUpdate_Achievements": "2023-12-30T08:07:02.5282408+00:00"
 }

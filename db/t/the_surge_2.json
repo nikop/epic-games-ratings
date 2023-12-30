@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2410,
+  "EOS_Progressed": 2411,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -4039,6 +4039,11 @@
       "Time": "2023-12-30T05:06:31.9762104+00:00",
       "NumProgressed": 2410,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-30T08:08:07.9955021+00:00",
+      "NumProgressed": 2411,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4058,7 +4063,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1566
+      "UsersEstimate": 1567
     },
     {
       "ID": "ACHV_03",
@@ -4082,7 +4087,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "ACHV_06",
@@ -4090,7 +4095,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ACHV_07",
@@ -4162,7 +4167,7 @@
       "Name": "Hello Darkness My Old Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHV_16",
@@ -4208,9 +4213,9 @@
       "ID": "ACHV_21",
       "SetID": "8p5mlmc",
       "Name": "Stimulating The Local Economy",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 217
     },
     {
       "ID": "ACHV_22",
@@ -4224,9 +4229,9 @@
       "ID": "ACHV_23",
       "SetID": "8p5mlmc",
       "Name": "HEADSHOT!",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 916
+      "UsersEstimate": 892
     },
     {
       "ID": "ACHV_24",
@@ -4250,7 +4255,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1905
     },
     {
       "ID": "ACHV_27",
@@ -4394,7 +4399,7 @@
       "Name": "Counter-Sniper",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHV_45",
@@ -4442,7 +4447,7 @@
       "Name": "Shrimp Cocktail",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHV_51",
@@ -4458,7 +4463,7 @@
       "Name": "Juiced Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHV_53",
@@ -4505,7 +4510,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2410,
+      "Progressed": 2411,
       "Completed": 13
     }
   ],
@@ -4513,8 +4518,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-29T03:00:05.8444174+00:00",
-  "LastChanged_Achievements": "2023-12-30T07:06:12.8593803+00:00",
+  "LastChanged_Achievements": "2023-12-30T08:08:07.9955018+00:00",
   "LastUpdate_AppInfo": "2023-12-23T16:57:13.3130714+00:00",
-  "LastUpdate_Ratings": "2023-12-30T06:57:13.8488989+00:00",
-  "LastUpdate_Achievements": "2023-12-30T07:06:12.8594288+00:00"
+  "LastUpdate_Ratings": "2023-12-30T07:57:15.7091415+00:00",
+  "LastUpdate_Achievements": "2023-12-30T08:08:07.9955618+00:00"
 }

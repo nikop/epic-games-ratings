@@ -3,8 +3,8 @@
   "Name": "Thank Goodness You\u0027re Here!",
   "ProductSlug": "thank-goodness-youre-here-aac813",
   "Ranking_EOS_Progress": 819,
-  "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_Completed": 391,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-27T07:56:54.3755923+00:00",
-  "LastUpdate_Ratings": "2023-12-30T07:03:11.1355153+00:00",
-  "LastUpdate_Achievements": "2023-12-30T07:08:42.6320248+00:00"
+  "LastUpdate_Ratings": "2023-12-30T08:03:42.660748+00:00",
+  "LastUpdate_Achievements": "2023-12-30T08:09:18.0311597+00:00"
 }

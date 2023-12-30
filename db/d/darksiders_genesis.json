@@ -6,8 +6,8 @@
   "Ranking_Popularity": 465,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 391,
-  "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_Completed": 391,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
@@ -445,9 +445,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 290,
+  "EOS_Progressed": 291,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1230,6 +1230,11 @@
       "Time": "2023-12-30T04:09:15.2463651+00:00",
       "NumProgressed": 290,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T08:10:20.8364543+00:00",
+      "NumProgressed": 291,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -1376,9 +1381,9 @@
       "ID": "MintI",
       "SetID": "329ak73",
       "Name": "Mint I",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "MintII",
@@ -1424,9 +1429,9 @@
       "ID": "SoulCache",
       "SetID": "329ak73",
       "Name": "Soul Cache",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "TheDeadCourt",
@@ -1481,15 +1486,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 290,
+      "Progressed": 291,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2023-12-30T07:09:26.5930798+00:00",
+  "LastChanged_Achievements": "2023-12-30T08:10:20.8364541+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:29.0736038+00:00",
-  "LastUpdate_Ratings": "2023-12-30T06:57:08.5241851+00:00",
-  "LastUpdate_Achievements": "2023-12-30T07:09:26.5931005+00:00"
+  "LastUpdate_Ratings": "2023-12-30T07:57:07.5769084+00:00",
+  "LastUpdate_Achievements": "2023-12-30T08:10:20.8364777+00:00"
 }

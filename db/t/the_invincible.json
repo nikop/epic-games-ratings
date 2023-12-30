@@ -5,8 +5,8 @@
   "Ranking_Rating": 500,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
-  "Ranking_EOS_Progress": 277,
-  "Ranking_EOS_Completed": 390,
+  "Ranking_EOS_Progress": 278,
+  "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
@@ -49,7 +49,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1165,
+  "EOS_Progressed": 1166,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 0,
@@ -3039,6 +3039,11 @@
       "Time": "2023-12-30T07:09:11.7655568+00:00",
       "NumProgressed": 1165,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T08:09:59.7724802+00:00",
+      "NumProgressed": 1166,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -3051,7 +3056,7 @@
       "Name": "The Teleprobe",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "AchvAllMemories",
@@ -3059,7 +3064,7 @@
       "Name": "I remember everything!",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "AchvAssertive",
@@ -3075,7 +3080,7 @@
       "Name": "Fierce fight",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "AchvBombStop",
@@ -3235,15 +3240,15 @@
       "Name": "The City",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "AchvReachCondor",
       "SetID": "1hj060c",
       "Name": "The Condor",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 396
     },
     {
       "ID": "AchvSurvivors",
@@ -3259,7 +3264,7 @@
       "Name": "Flying Objects Operator",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "AchvTheEnd",
@@ -3282,7 +3287,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1165,
+      "Progressed": 1166,
       "Completed": 0
     }
   ],
@@ -3290,8 +3295,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2023-12-29T16:59:59.7446678+00:00",
-  "LastChanged_Achievements": "2023-12-30T07:09:11.7655566+00:00",
+  "LastChanged_Achievements": "2023-12-30T08:09:59.77248+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:33.4496725+00:00",
-  "LastUpdate_Ratings": "2023-12-30T06:59:56.5457528+00:00",
-  "LastUpdate_Achievements": "2023-12-30T07:09:11.7655843+00:00"
+  "LastUpdate_Ratings": "2023-12-30T08:01:24.3657104+00:00",
+  "LastUpdate_Achievements": "2023-12-30T08:09:59.7725065+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "JARS",
   "ProductSlug": "jars-e39063",
   "Ranking_EOS_Progress": 475,
-  "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_Completed": 85,
+  "Ranking_EOS_NewPlayers": 481,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 111,
+  "EOS_Progressed": 112,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.5,
+  "EOS_Completed_Percentage": 4.46,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:38.9338531+00:00",
@@ -419,6 +419,11 @@
       "Time": "2023-12-27T20:05:34.3695574+00:00",
       "NumProgressed": 111,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-30T08:08:25.2065627+00:00",
+      "NumProgressed": 112,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 20,
@@ -430,13 +435,13 @@
       "Name": "Sticky fingers",
       "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_100_MINIONS_PLACED",
       "SetID": "3jfhgga",
       "Name": "I have an army!",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 25,
       "UsersEstimate": 65
     },
@@ -452,7 +457,7 @@
       "ID": "ACH_CHAPTER_0_DONE",
       "SetID": "3jfhgga",
       "Name": "The child of the night",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 50,
       "UsersEstimate": 81
     },
@@ -500,7 +505,7 @@
       "ID": "ACH_ENCYCLOPEDIA_ENTRY",
       "SetID": "3jfhgga",
       "Name": "Missing data",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 25,
       "UsersEstimate": 91
     },
@@ -510,7 +515,7 @@
       "Name": "It fits. IT FITS!",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_FIND_SECRET",
@@ -532,9 +537,9 @@
       "ID": "ACH_GETALL_COLLECTIBLES",
       "SetID": "3jfhgga",
       "Name": "Missing pages",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_HERO_MASTER_1",
@@ -548,9 +553,9 @@
       "ID": "ACH_HERO_MASTER_4",
       "SetID": "3jfhgga",
       "Name": "Master of puppets",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_SHOP_ALL_MINIONS",
@@ -574,13 +579,13 @@
       "Name": "Uncle will be happy",
       "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_STAGE_LOST_FIRST_TIME",
       "SetID": "3jfhgga",
       "Name": "Broken jar",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 25,
       "UsersEstimate": 84
     }
@@ -589,7 +594,7 @@
     {
       "ID": "3jfhgga",
       "IsBase": true,
-      "Progressed": 111,
+      "Progressed": 112,
       "Completed": 5
     }
   ],
@@ -597,8 +602,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-12-30T07:08:05.885413+00:00",
+  "LastChanged_Achievements": "2023-12-30T08:08:25.2065624+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:53.9476773+00:00",
-  "LastUpdate_Ratings": "2023-12-30T06:58:27.2102052+00:00",
-  "LastUpdate_Achievements": "2023-12-30T07:08:05.8854487+00:00"
+  "LastUpdate_Ratings": "2023-12-30T07:59:07.2355596+00:00",
+  "LastUpdate_Achievements": "2023-12-30T08:08:25.2065807+00:00"
 }

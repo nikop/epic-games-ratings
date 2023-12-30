@@ -3677,9 +3677,9 @@
       "Count": 337
     }
   ],
-  "EOS_Progressed": 19660,
+  "EOS_Progressed": 19665,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 692,
+  "EOS_NewPlayers": 691,
   "EOS_NewCompleters": -4,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -17702,6 +17702,11 @@
       "Time": "2023-12-30T07:06:02.1502376+00:00",
       "NumProgressed": 19660,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-30T08:07:53.5278258+00:00",
+      "NumProgressed": 19665,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18002,7 +18007,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "WinPrestige10",
@@ -18114,7 +18119,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "WinNearFrosts",
@@ -18122,7 +18127,7 @@
       "Name": "Frosts",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "WinNearGreed",
@@ -18130,7 +18135,7 @@
       "Name": "Land of Greed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "WinNearLibrary",
@@ -18138,7 +18143,7 @@
       "Name": "Overgrown Library",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "WinNearPetrified",
@@ -18185,15 +18190,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19660,
+      "Progressed": 19665,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-29T20:02:24.9867935+00:00",
-  "LastChanged_Achievements": "2023-12-30T07:06:02.150237+00:00",
+  "LastChanged_Achievements": "2023-12-30T08:07:53.5278252+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-30T07:00:20.1164368+00:00",
-  "LastUpdate_Achievements": "2023-12-30T07:06:02.1503272+00:00"
+  "LastUpdate_Ratings": "2023-12-30T08:02:40.9070511+00:00",
+  "LastUpdate_Achievements": "2023-12-30T08:07:53.5279381+00:00"
 }
