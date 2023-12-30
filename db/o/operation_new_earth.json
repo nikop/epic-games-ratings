@@ -5,10 +5,10 @@
   "Ranking_Rating": 1082,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 239,
+  "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2124,
+  "EOS_Progressed": 2125,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8150,6 +8150,11 @@
       "Time": "2023-12-30T04:04:28.9402991+00:00",
       "NumProgressed": 2124,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T06:04:43.2744759+00:00",
+      "NumProgressed": 2125,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8161,7 +8166,7 @@
       "Name": "Know The Enemy",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -8233,7 +8238,7 @@
       "Name": "Silver Achiever",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "objective_headquarters_10",
@@ -8249,7 +8254,7 @@
       "Name": "Moving On Up",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "objective_headquarters_20",
@@ -8329,7 +8334,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -8337,7 +8342,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -8464,7 +8469,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2124,
+      "Progressed": 2125,
       "Completed": 1
     }
   ],
@@ -8472,8 +8477,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2023-12-30T05:04:58.0896353+00:00",
+  "LastChanged_Achievements": "2023-12-30T06:04:43.2744756+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:02.8789919+00:00",
-  "LastUpdate_Ratings": "2023-12-30T05:00:18.3328353+00:00",
-  "LastUpdate_Achievements": "2023-12-30T05:04:58.0896875+00:00"
+  "LastUpdate_Ratings": "2023-12-30T06:00:13.5687682+00:00",
+  "LastUpdate_Achievements": "2023-12-30T06:04:43.2745381+00:00"
 }

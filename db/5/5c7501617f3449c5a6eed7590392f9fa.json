@@ -735,17 +735,17 @@
       "ID": "Ach-01-bzukavec",
       "SetID": "2pjo9pi",
       "Name": "Bzukavec",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "Ach-01-jepice",
       "SetID": "2pjo9pi",
       "Name": "Jepice",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "Ach-01-soukac",
@@ -1150,8 +1150,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2023-12-30T05:09:04.7834092+00:00",
+  "LastChanged_Achievements": "2023-12-30T06:08:58.4341628+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:05.6352108+00:00",
-  "LastUpdate_Ratings": "2023-12-30T04:58:40.5682638+00:00",
-  "LastUpdate_Achievements": "2023-12-30T05:09:04.7834516+00:00"
+  "LastUpdate_Ratings": "2023-12-30T05:58:35.8850466+00:00",
+  "LastUpdate_Achievements": "2023-12-30T06:08:58.4342041+00:00"
 }

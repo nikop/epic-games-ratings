@@ -16,9 +16,9 @@
 | Face your fears | 28.00% | ~64 |
 | Finished it | 27.00% | ~62 |
 | Whispers long forgotten | 16.00% | ~37 |
+| A Slice of Life | 12.00% | ~27 |
 | Sound Bite | 12.00% | ~27 |
 | The art of movement | 12.00% | ~27 |
-| A Slice of Life | 11.00% | ~25 |
 | Debut | 11.00% | ~25 |
 | Playtime | 11.00% | ~25 |
 | Tough conversation | 11.00% | ~25 |
@@ -35,10 +35,10 @@
 | Instinct of self-preservation | 5.00% | ~11 |
 | Something to think about | 4.00% | ~9 |
 | I remember It Like Was Yesterday | 4.00% | ~9 |
+| The Perfect Storm | 4.00% | ~9 |
 | We Are Not Alone | 3.00% | ~7 |
 | Dark correspondence | 3.00% | ~7 |
 | Immortalized in my heart | 3.00% | ~7 |
-| The Perfect Storm | 3.00% | ~7 |
 | Se7en Seas | 3.00% | ~7 |
 | Body of Work | 2.00% | ~5 |
 | It was worth a try | 2.00% | ~5 |

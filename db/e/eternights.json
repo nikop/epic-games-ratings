@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -35,7 +35,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 695,
+  "EOS_Progressed": 696,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
@@ -2560,6 +2560,11 @@
       "Time": "2023-12-30T05:09:07.4973263+00:00",
       "NumProgressed": 695,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-30T06:09:01.0331509+00:00",
+      "NumProgressed": 696,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -2572,7 +2577,7 @@
       "Name": "New arm",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -2596,7 +2601,7 @@
       "Name": "Expert Scavenger",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACHIEVEMENT_14_PromiseYuna",
@@ -2652,7 +2657,7 @@
       "Name": "Shelter Escape",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -2716,7 +2721,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -2748,7 +2753,7 @@
       "Name": "Second wall",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -2771,7 +2776,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 695,
+      "Progressed": 696,
       "Completed": 2
     }
   ],
@@ -2779,8 +2784,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-27T15:59:49.1136695+00:00",
-  "LastChanged_Achievements": "2023-12-30T05:09:07.4973258+00:00",
+  "LastChanged_Achievements": "2023-12-30T06:09:01.0331504+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:10.2016354+00:00",
-  "LastUpdate_Ratings": "2023-12-30T04:59:59.484174+00:00",
-  "LastUpdate_Achievements": "2023-12-30T05:09:07.4973548+00:00"
+  "LastUpdate_Ratings": "2023-12-30T05:59:55.0436221+00:00",
+  "LastUpdate_Achievements": "2023-12-30T06:09:01.0331777+00:00"
 }

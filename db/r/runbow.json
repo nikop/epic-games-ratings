@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252781,
+  "EOS_Progressed": 252782,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 363,
+  "EOS_NewPlayers": 364,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22677,6 +22677,11 @@
       "Time": "2023-12-30T05:09:55.7646255+00:00",
       "NumProgressed": 252781,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-30T06:09:49.3744557+00:00",
+      "NumProgressed": 252782,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -22904,7 +22909,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20222
+      "UsersEstimate": 20223
     },
     {
       "ID": "lockupLockdown",
@@ -22928,7 +22933,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126390
+      "UsersEstimate": 126391
     },
     {
       "ID": "notScared",
@@ -23055,7 +23060,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 252781,
+      "Progressed": 252782,
       "Completed": 6
     }
   ],
@@ -23063,8 +23068,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-12-30T05:09:55.764625+00:00",
+  "LastChanged_Achievements": "2023-12-30T06:09:49.374455+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:20.5552445+00:00",
-  "LastUpdate_Ratings": "2023-12-30T05:00:13.0800575+00:00",
-  "LastUpdate_Achievements": "2023-12-30T05:09:55.7647923+00:00"
+  "LastUpdate_Ratings": "2023-12-30T06:00:08.4040838+00:00",
+  "LastUpdate_Achievements": "2023-12-30T06:09:49.3745717+00:00"
 }

@@ -27,8 +27,8 @@
 | Fair Means or Foul | 25.00% | ~252 |
 | Kemono at Heart | 25.00% | ~252 |
 | Single Minded | 23.00% | ~231 |
+| Karakuri Trail | 22.00% | ~221 |
 | Snare Specialist | 22.00% | ~221 |
-| Karakuri Trail | 21.00% | ~211 |
 | Artful Assister | 21.00% | ~211 |
 | Team Hunter | 19.00% | ~191 |
 | Karakuri Isle | 18.00% | ~181 |

@@ -5,10 +5,10 @@
   "Ranking_Rating": 648,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 223,
+  "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -33,9 +33,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3101,
+  "EOS_Progressed": 3102,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7598,6 +7598,11 @@
       "Time": "2023-12-30T04:06:15.9536236+00:00",
       "NumProgressed": 3101,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T06:06:27.9762827+00:00",
+      "NumProgressed": 3102,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -7610,7 +7615,7 @@
       "Name": "First Love",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -7618,7 +7623,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -7682,7 +7687,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -7818,7 +7823,7 @@
       "Name": "Clean Race",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -7898,7 +7903,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -7906,7 +7911,7 @@
       "Name": "Eat My Dust",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1488
+      "UsersEstimate": 1489
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -7914,7 +7919,7 @@
       "Name": "Champagne Spray",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -7962,7 +7967,7 @@
       "Name": "Rivals to the End",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -8001,7 +8006,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3101,
+      "Progressed": 3102,
       "Completed": 0
     }
   ],
@@ -8009,8 +8014,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2023-12-26T23:58:21.0860972+00:00",
-  "LastChanged_Achievements": "2023-12-30T05:06:42.2145641+00:00",
+  "LastChanged_Achievements": "2023-12-30T06:06:27.9762824+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:36.0007242+00:00",
-  "LastUpdate_Ratings": "2023-12-30T04:59:52.7887789+00:00",
-  "LastUpdate_Achievements": "2023-12-30T05:06:42.2146255+00:00"
+  "LastUpdate_Ratings": "2023-12-30T05:59:48.6380186+00:00",
+  "LastUpdate_Achievements": "2023-12-30T06:06:27.9763471+00:00"
 }

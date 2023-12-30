@@ -1,14 +1,14 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.63 (Ranked 355)  
+Rating: 4.63 (Ranked 356)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 12.00% | ~780 |
-| Realm Estate | 10.00% | ~650 |
-| A Wonderful Discovery | 10.00% | ~650 |
-| Walls Cannot Stop Us | 9.00% | ~585 |
+| Secret Technique | 12.00% | ~781 |
+| Realm Estate | 10.00% | ~651 |
+| A Wonderful Discovery | 10.00% | ~651 |
+| Walls Cannot Stop Us | 9.00% | ~586 |
 | From Friends to Family | 8.00% | ~520 |
 | Bone Peddler | 7.00% | ~455 |
 | Full Ascension | 6.00% | ~390 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 355)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,504 (Ranked 195)  
+Progressed: 6,506 (Ranked 195)  
 Completed: 7 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 7 (0.11%) (Ranked 304)
 | 2023-12-27 | 6,359 | 7 |
 | 2023-12-28 | 6,414 | 7 |
 | 2023-12-29 | 6,495 | 7 |
-| 2023-12-30 | 6,504 | 7 |
+| 2023-12-30 | 6,506 | 7 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 478)  
 Sum: 162 (Ranked 436)  

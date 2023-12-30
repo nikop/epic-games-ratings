@@ -2,13 +2,13 @@
   "ID": "013ca9b88fa34b21b2de7fdbfcfc843b",
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
-  "Ranking_Rating": 355,
+  "Ranking_Rating": 356,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8763,
+  "EOS_Progressed": 8764,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9360,6 +9360,11 @@
       "Time": "2023-12-30T05:10:07.4639986+00:00",
       "NumProgressed": 8763,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T06:10:00.7494417+00:00",
+      "NumProgressed": 8764,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -9715,13 +9720,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8763,
+      "Progressed": 8764,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1380,
+      "Progressed": 1381,
       "Completed": 1050
     }
   ],
@@ -9729,8 +9734,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-30T05:10:07.4639981+00:00",
+  "LastChanged_Achievements": "2023-12-30T06:10:00.7494415+00:00",
   "LastUpdate_AppInfo": "2023-12-29T11:57:18.9799571+00:00",
-  "LastUpdate_Ratings": "2023-12-30T05:03:28.873953+00:00",
-  "LastUpdate_Achievements": "2023-12-30T05:10:07.4640844+00:00"
+  "LastUpdate_Ratings": "2023-12-30T06:03:11.8372144+00:00",
+  "LastUpdate_Achievements": "2023-12-30T06:10:00.7495004+00:00"
 }

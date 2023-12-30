@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -331,7 +331,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 545,
+  "EOS_Progressed": 546,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 0,
@@ -1491,6 +1491,11 @@
       "Time": "2023-12-30T05:08:52.5148082+00:00",
       "NumProgressed": 545,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T06:08:46.2073697+00:00",
+      "NumProgressed": 546,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1535,7 +1540,7 @@
       "Name": "Challengers Champion",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "CareerChamp4",
@@ -1559,7 +1564,7 @@
       "Name": "Storm Warning",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "CollectVehiclesA",
@@ -1662,7 +1667,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 545,
+      "Progressed": 546,
       "Completed": 0
     }
   ],
@@ -1670,8 +1675,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-28T22:58:24.1175943+00:00",
-  "LastChanged_Achievements": "2023-12-30T05:08:52.5148073+00:00",
+  "LastChanged_Achievements": "2023-12-30T06:08:46.2073694+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-30T04:58:23.1666361+00:00",
-  "LastUpdate_Achievements": "2023-12-30T05:08:52.5148307+00:00"
+  "LastUpdate_Ratings": "2023-12-30T05:58:18.5662741+00:00",
+  "LastUpdate_Achievements": "2023-12-30T06:08:46.2073872+00:00"
 }

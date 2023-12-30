@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 90.00% | ~86 |
-| Enough rooms to swing a cat | 82.00% | ~79 |
-| First to the post | 81.00% | ~78 |
-| A kind of Magic | 75.00% | ~72 |
-| Connected | 68.00% | ~65 |
-| Expansion | 63.00% | ~60 |
-| Mine! | 59.00% | ~57 |
+| Home Sweet Home | 90.00% | ~87 |
+| Enough rooms to swing a cat | 82.00% | ~80 |
+| First to the post | 81.00% | ~79 |
+| A kind of Magic | 75.00% | ~73 |
+| Connected | 68.00% | ~66 |
+| Expansion | 63.00% | ~61 |
+| Mine! | 60.00% | ~58 |
 | Harvest Time | 57.00% | ~55 |
-| Artificer's Apprentice | 51.00% | ~49 |
-| Fly the friendly Sky | 47.00% | ~45 |
-| Get out of here! | 42.00% | ~40 |
-| Alchemist's Apprentice | 40.00% | ~38 |
-| Necromancer's Apprentice | 39.00% | ~37 |
-| The Circle | 38.00% | ~36 |
-| Friend of Lyraine | 38.00% | ~36 |
+| Artificer's Apprentice | 52.00% | ~50 |
+| Fly the friendly Sky | 46.00% | ~45 |
+| Get out of here! | 41.00% | ~40 |
+| Alchemist's Apprentice | 39.00% | ~38 |
+| Necromancer's Apprentice | 38.00% | ~37 |
+| The Circle | 37.00% | ~36 |
+| Friend of Lyraine | 37.00% | ~36 |
 | Redecorating | 36.00% | ~35 |
 | Bad JuJu | 24.00% | ~23 |
 | Slave to the rhythm | 22.00% | ~21 |
@@ -26,11 +26,11 @@
 | Friend of Sevenkeeps | 22.00% | ~21 |
 | Sevenkeeps Seat of Kings | 19.00% | ~18 |
 | Friend of Alluvyan | 18.00% | ~17 |
-| Friend of Connach | 16.00% | ~15 |
-| Friend of Gillyshire | 15.00% | ~14 |
-| Break Free | 15.00% | ~14 |
-| Philo's Tale | 13.00% | ~12 |
-| Friend of Silver Drift Hollow | 13.00% | ~12 |
+| Friend of Connach | 15.00% | ~15 |
+| Friend of Gillyshire | 14.00% | ~14 |
+| Break Free | 14.00% | ~14 |
+| Philo's Tale | 12.00% | ~12 |
+| Friend of Silver Drift Hollow | 12.00% | ~12 |
 | Stormwatch Faste | 11.00% | ~11 |
 | Friend of Orgash | 11.00% | ~11 |
 | Friend of Bastion | 11.00% | ~11 |
@@ -55,11 +55,11 @@
 | Defeat Ianna | 5.00% | ~5 |
 | Defeat Isgrimm | 5.00% | ~5 |
 | Defeat Raith | 5.00% | ~5 |
+| Defeat Yria | 5.00% | ~5 |
 | Crypt of the Revenant | 5.00% | ~5 |
 | Heroes | 5.00% | ~5 |
 | Friend of Uram Gor | 5.00% | ~5 |
 | Get to the Airship! | 4.00% | ~4 |
-| Defeat Yria | 4.00% | ~4 |
 | Lytra's Tale | 4.00% | ~4 |
 | Fireforge | 4.00% | ~4 |
 | Master Alchemist | 4.00% | ~4 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96 (Ranked 492)  
+Progressed: 97 (Ranked 492)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,6 +122,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-27 | 89 | 0 |
 | 2023-12-28 | 92 | 0 |
 | 2023-12-29 | 96 | 0 |
+| 2023-12-30 | 97 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

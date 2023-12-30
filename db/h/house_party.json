@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -377,7 +377,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6974,
+  "EOS_Progressed": 6975,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
@@ -7917,6 +7917,11 @@
       "Time": "2023-12-30T05:08:52.3173082+00:00",
       "NumProgressed": 6974,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-30T06:08:46.0316539+00:00",
+      "NumProgressed": 6975,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -8064,7 +8069,7 @@
       "Name": "Drunk and Disorderly: Stephanie",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "DoNotBurn",
@@ -8479,21 +8484,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 4013,
+      "Progressed": 4014,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6974,
+      "Progressed": 6975,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-12-30T05:08:52.3173077+00:00",
+  "LastChanged_Achievements": "2023-12-30T06:08:46.0316536+00:00",
   "LastUpdate_AppInfo": "2023-12-23T17:57:06.2348386+00:00",
-  "LastUpdate_Ratings": "2023-12-30T04:59:48.3272675+00:00",
-  "LastUpdate_Achievements": "2023-12-30T05:08:52.3173914+00:00"
+  "LastUpdate_Ratings": "2023-12-30T05:59:43.8767808+00:00",
+  "LastUpdate_Achievements": "2023-12-30T06:08:46.0317484+00:00"
 }

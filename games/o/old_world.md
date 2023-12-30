@@ -101,6 +101,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 0.20% | ~32 |
 | Cimmerian Archer | 0.20% | ~32 |
 | Legionary | 0.20% | ~32 |
+| Double Victory | 0.20% | ~32 |
 | Points Victory | 0.20% | ~32 |
 | Win a Single Player Game | 0.20% | ~32 |
 | The Clergy | 0.20% | ~32 |
@@ -236,7 +237,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | All Nations | 0.10% | ~16 |
 | Ambition Victory | 0.10% | ~16 |
 | Conquest Victory | 0.10% | ~16 |
-| Double Victory | 0.10% | ~16 |
 | No Characters | 0.10% | ~16 |
 | No Undo | 0.10% | ~16 |
 | One City Challenge | 0.10% | ~16 |

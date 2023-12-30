@@ -1,7 +1,7 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 355)  
+Rating: 4.63 (Ranked 356)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -23,7 +23,7 @@ Number of Ratings: 85  (23.09.2022)
 | Bodied Sattva | 35.00% | ~81 |
 | Upgreatest | 33.00% | ~76 |
 | Furon Fashion | 28.00% | ~65 |
-| Deincarnated | 26.00% | ~60 |
+| Deincarnated | 27.00% | ~62 |
 | Rock of the Bay | 24.00% | ~55 |
 | Trans-Siberian Express | 23.00% | ~53 |
 | Re-Return of the Clone of the Invasion II-2 | 19.00% | ~44 |

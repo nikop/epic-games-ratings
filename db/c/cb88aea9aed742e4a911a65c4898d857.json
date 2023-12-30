@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -215,9 +215,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 8728,
+  "EOS_Progressed": 8736,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2219,
+  "EOS_NewPlayers": 2214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2930,6 +2930,11 @@
       "Time": "2023-12-30T05:09:52.189155+00:00",
       "NumProgressed": 8728,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T06:09:45.6740692+00:00",
+      "NumProgressed": 8736,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3204,9 +3209,9 @@
       "ID": "35_DontStopTheExploration",
       "SetID": "37a94m8",
       "Name": "Don\u0027t Stop the Exploration",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "36_TheAdventurousArchaelogist",
@@ -3364,9 +3369,9 @@
       "ID": "55_ReturningTheBoots",
       "SetID": "37a94m8",
       "Name": "Returning the Boots",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 17
     },
     {
       "ID": "56_ThoroughInvestigation",
@@ -3380,9 +3385,9 @@
       "ID": "57_TheBurningHeritage",
       "SetID": "37a94m8",
       "Name": "Burning Inheritance",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 17
     },
     {
       "ID": "58_KneeDeepInChaos",
@@ -3461,7 +3466,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8728,
+      "Progressed": 8736,
       "Completed": 0
     }
   ],
@@ -3469,8 +3474,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-30T04:58:20.1392626+00:00",
-  "LastChanged_Achievements": "2023-12-30T05:09:52.1891546+00:00",
+  "LastChanged_Achievements": "2023-12-30T06:09:45.6740687+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-30T04:58:20.139267+00:00",
-  "LastUpdate_Achievements": "2023-12-30T05:09:52.1892159+00:00"
+  "LastUpdate_Ratings": "2023-12-30T05:58:15.607687+00:00",
+  "LastUpdate_Achievements": "2023-12-30T06:09:45.6741332+00:00"
 }

@@ -12,7 +12,7 @@ Rating: 4.56 (Ranked 500)
 | Martian Music | 11.00% | ~1,955 |
 | Bosmang | 11.00% | ~1,955 |
 | Impossible Objects | 11.00% | ~1,955 |
-| Drone Dodger | 10.00% | ~1,777 |
+| Drone Dodger | 10.00% | ~1,778 |
 | Stogie for Fogey | 9.00% | ~1,600 |
 | Spore Taste | 9.00% | ~1,600 |
 | Zen Master | 9.00% | ~336 |
@@ -31,17 +31,17 @@ Rating: 4.56 (Ranked 500)
 | Data Logger | 4.00% | ~711 |
 | Miraculous Maya | 4.00% | ~711 |
 | Data Master | 3.00% | ~533 |
-| Brother's Reaper | 2.00% | ~355 |
-| No Belter Left Behind | 2.00% | ~355 |
-| Debris Spree | 2.00% | ~355 |
-| Data Recoverer | 2.00% | ~355 |
+| Brother's Reaper | 2.00% | ~356 |
+| No Belter Left Behind | 2.00% | ~356 |
+| Debris Spree | 2.00% | ~356 |
+| Data Recoverer | 2.00% | ~356 |
 | Urshanabi Hoarder | 1.00% | ~178 |
 | Data Miner | 0.60% | ~107 |
 | Grave Robber | 0.60% | ~107 |
 | Scavenger Star | 0.30% | ~53 |
 | Data Collector | 0.20% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,774 (Ranked 157)  
+Progressed: 17,775 (Ranked 157)  
 Completed: 57 (0.32%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 57 (0.32%) (Ranked 248)
 | 2023-12-27 | 17,604 | 54 |
 | 2023-12-28 | 17,675 | 56 |
 | 2023-12-29 | 17,756 | 57 |
-| 2023-12-30 | 17,774 | 57 |
+| 2023-12-30 | 17,775 | 57 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,15 +1,15 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 261)  
+Rating: 4.68 (Ranked 260)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~609 |
+| Malpractice Assurance | 11.00% | ~610 |
 | Lost and Found | 7.00% | ~388 |
-| Autodidact | 6.00% | ~7,840 |
-| This guy... again? | 6.00% | ~332 |
+| Autodidact | 6.00% | ~7,841 |
+| This guy... again? | 6.00% | ~333 |
 | This Belongs in a Museum | 5.00% | ~6,534 |
 | Creep and Sleep | 5.00% | ~6,534 |
 | Overdue Notice | 5.00% | ~6,534 |
@@ -37,25 +37,25 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 3.00% | ~3,920 |
 | Nope | 3.00% | ~3,920 |
 | Unshackled | 3.00% | ~3,920 |
-| Resurrection | 2.00% | ~2,613 |
-| Unleash Hell | 2.00% | ~2,613 |
-| Funny Guy | 2.00% | ~2,613 |
-| Long Live the King | 2.00% | ~2,613 |
-| Wyrdly Reconstructed | 2.00% | ~2,613 |
-| Boxcar Kid | 2.00% | ~2,613 |
-| Unfulfilled Desires | 2.00% | ~2,613 |
-| Hope Rekindled | 2.00% | ~2,613 |
-| Predator | 2.00% | ~2,613 |
-| Deprogramming | 2.00% | ~2,613 |
-| Ichthyophobic | 2.00% | ~2,613 |
-| Now Stay Dead | 2.00% | ~2,613 |
-| Reverse Banditry | 2.00% | ~2,613 |
-| A Clear Conscience | 2.00% | ~2,613 |
-| When You Want Something Done Right | 2.00% | ~2,613 |
-| Worldly Traveller | 2.00% | ~2,613 |
-| Utopia | 2.00% | ~2,613 |
-| Hot Air | 2.00% | ~2,613 |
-| Road Trip | 2.00% | ~2,613 |
+| Resurrection | 2.00% | ~2,614 |
+| Unleash Hell | 2.00% | ~2,614 |
+| Funny Guy | 2.00% | ~2,614 |
+| Long Live the King | 2.00% | ~2,614 |
+| Wyrdly Reconstructed | 2.00% | ~2,614 |
+| Boxcar Kid | 2.00% | ~2,614 |
+| Unfulfilled Desires | 2.00% | ~2,614 |
+| Hope Rekindled | 2.00% | ~2,614 |
+| Predator | 2.00% | ~2,614 |
+| Deprogramming | 2.00% | ~2,614 |
+| Ichthyophobic | 2.00% | ~2,614 |
+| Now Stay Dead | 2.00% | ~2,614 |
+| Reverse Banditry | 2.00% | ~2,614 |
+| A Clear Conscience | 2.00% | ~2,614 |
+| When You Want Something Done Right | 2.00% | ~2,614 |
+| Worldly Traveller | 2.00% | ~2,614 |
+| Utopia | 2.00% | ~2,614 |
+| Hot Air | 2.00% | ~2,614 |
+| Road Trip | 2.00% | ~2,614 |
 | This Looks Familiar | 1.00% | ~1,307 |
 | No More Mouths to Feed | 1.00% | ~1,307 |
 | Eyes Up | 1.00% | ~1,307 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,671 (Ranked 88)  
+Progressed: 130,677 (Ranked 88)  
 Completed: 3 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,14 +330,14 @@ Completed: 3 (0.00%) (Ranked 390)
 | 2023-12-27 | 130,259 | 3 |
 | 2023-12-28 | 130,422 | 3 |
 | 2023-12-29 | 130,627 | 3 |
-| 2023-12-30 | 130,671 | 3 |
+| 2023-12-30 | 130,677 | 3 |
 ## Awards
-Max (Character Customization): 7,899  (Ranked 50)  
-Sum: 21,244 (Ranked 58)  
+Max (Character Customization): 7,905  (Ranked 50)  
+Sum: 21,250 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,899 |
+| This game has Inclusive Character Customization | 7,905 |
 | This game has Diverse Characters | 1,791 |
 | This game has Challenging Combat | 1,653 |
 | This game is Highly Recommended | 1,582 |
@@ -688,4 +688,4 @@ Diff (max vs sum): -8
 | 2023-12-27 | 4.68 | - | 7,882 | 21,156 |
 | 2023-12-28 | 4.68 | - | 7,888 | 21,194 |
 | 2023-12-29 | 4.68 | - | 7,899 | 21,240 |
-| 2023-12-30 | 4.68 | - | 7,899 | 21,244 |
+| 2023-12-30 | 4.68 | - | 7,905 | 21,250 |
