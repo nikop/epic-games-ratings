@@ -17,9 +17,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Marshlands | 5.00% | ~987 |
 | Ominous Presence | 5.00% | ~987 |
 | Gathering Storm | 5.00% | ~987 |
-| The Scarlet Orchard | 4.00% | ~789 |
-| Frosts | 4.00% | ~789 |
-| Land of Greed | 4.00% | ~789 |
+| The Scarlet Orchard | 4.00% | ~790 |
+| Frosts | 4.00% | ~790 |
+| Land of Greed | 4.00% | ~790 |
 | Homesick | 3.00% | ~592 |
 | Fertile Meadows | 3.00% | ~592 |
 | Monastery of the Holy Flame | 3.00% | ~592 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,737 (Ranked 151)  
+Progressed: 19,741 (Ranked 151)  
 Completed: 35 (0.18%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 35 (0.18%) (Ranked 279)
 | 2023-12-27 | 19,458 | 38 |
 | 2023-12-28 | 19,536 | 36 |
 | 2023-12-29 | 19,630 | 36 |
-| 2023-12-30 | 19,737 | 35 |
+| 2023-12-30 | 19,741 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 447  (Ranked 229)  
 Sum: 3,309 (Ranked 176)  

@@ -293,9 +293,9 @@
       "ID": "ACH_50_WINS",
       "SetID": "1lnhagg",
       "Name": "Winning is Quite Alright",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_AMERICAN_CAREER",
@@ -532,8 +532,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2023-12-30T22:08:47.8035891+00:00",
+  "LastChanged_Achievements": "2023-12-30T23:09:31.634628+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:12.5001029+00:00",
-  "LastUpdate_Ratings": "2023-12-30T22:00:21.3682622+00:00",
-  "LastUpdate_Achievements": "2023-12-30T22:08:47.8036087+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:01:12.3372631+00:00",
+  "LastUpdate_Achievements": "2023-12-30T23:09:31.6346483+00:00"
 }

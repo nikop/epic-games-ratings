@@ -4,8 +4,8 @@
   "ProductSlug": "boxville-2b75d3",
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 10,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 531,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2022-09-30T08:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 227,
-  "EOS_Completed": 87,
+  "EOS_Completed": 88,
   "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 38.33,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 38.77,
   "EosHistory": [
     {
       "Time": "2023-05-08T15:02:14.2317541+00:00",
@@ -1339,6 +1339,11 @@
       "Time": "2023-12-29T01:41:45.7161071+00:00",
       "NumProgressed": 227,
       "NumCompleted": 87
+    },
+    {
+      "Time": "2023-12-30T23:08:02.3959876+00:00",
+      "NumProgressed": 227,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 18,
@@ -1356,9 +1361,9 @@
       "ID": "Dreamkeeper",
       "SetID": "b7i210",
       "Name": "Dreamkeeper",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 127
     },
     {
       "ID": "Dust_fighter",
@@ -1428,9 +1433,9 @@
       "ID": "Liberator",
       "SetID": "b7i210",
       "Name": "Liberator",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 114
     },
     {
       "ID": "Peacemaker",
@@ -1444,17 +1449,17 @@
       "ID": "Repair",
       "SetID": "b7i210",
       "Name": "Repair",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 109
     },
     {
       "ID": "Rusty",
       "SetID": "b7i210",
       "Name": "Rusty",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 109
     },
     {
       "ID": "Samaritan",
@@ -1484,9 +1489,9 @@
       "ID": "Troubleshooter",
       "SetID": "b7i210",
       "Name": "Troubleshooter",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 127
     }
   ],
   "AchievementSets": [
@@ -1494,13 +1499,13 @@
       "ID": "b7i210",
       "IsBase": true,
       "Progressed": 227,
-      "Completed": 87
+      "Completed": 88
     }
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-12-30T22:06:51.6001937+00:00",
+  "LastChanged_Achievements": "2023-12-30T23:08:02.3959871+00:00",
   "LastUpdate_AppInfo": "2023-12-26T08:57:12.6749173+00:00",
-  "LastUpdate_Ratings": "2023-12-30T21:57:41.1251863+00:00",
-  "LastUpdate_Achievements": "2023-12-30T22:06:51.6002079+00:00"
+  "LastUpdate_Ratings": "2023-12-30T22:58:28.3299449+00:00",
+  "LastUpdate_Achievements": "2023-12-30T23:08:02.3960044+00:00"
 }

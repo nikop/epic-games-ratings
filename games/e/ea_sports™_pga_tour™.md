@@ -8,9 +8,9 @@
 | From Way Downtown | 57.00% | ~454 |
 | Makin' the Cut | 57.00% | ~454 |
 | Clean Sheet | 53.00% | ~422 |
-| Winner's Circle | 48.00% | ~382 |
-| Holey Moley | 46.00% | ~366 |
-| Bomb's Away | 41.00% | ~326 |
+| Winner's Circle | 48.00% | ~383 |
+| Holey Moley | 46.00% | ~367 |
+| Bomb's Away | 41.00% | ~327 |
 | Perfect Round | 37.00% | ~295 |
 | Competitor's Spirit | 34.00% | ~271 |
 | The Strongest Field in Golf | 26.00% | ~207 |
@@ -19,12 +19,12 @@
 | A Tradition Unlike Any Other | 20.00% | ~159 |
 | A Passion for Excellence | 20.00% | ~159 |
 | Golf's Original Championship | 19.00% | ~151 |
-| The Ultimate Prize | 14.00% | ~111 |
+| The Ultimate Prize | 14.00% | ~112 |
 | Golfer Versus Golfer | 12.00% | ~96 |
 | Victory Lap | 7.00% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 796 (Ranked 304)  
-Completed: 10 (1.26%) (Ranked 156)  
+Progressed: 797 (Ranked 303)  
+Completed: 10 (1.25%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -128,4 +128,4 @@ Completed: 10 (1.26%) (Ranked 156)
 | 2023-12-27 | 746 | 10 |
 | 2023-12-28 | 764 | 10 |
 | 2023-12-29 | 781 | 10 |
-| 2023-12-30 | 796 | 10 |
+| 2023-12-30 | 797 | 10 |

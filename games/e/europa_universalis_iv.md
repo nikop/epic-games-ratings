@@ -13,15 +13,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Brothers in Arms | 0.30% | ~1,465 |
 | That's a Grand Navy | 0.30% | ~1,465 |
 | Seriously?! | 0.30% | ~1,465 |
-| Cold War | 0.20% | ~976 |
-| Defender of the Faith | 0.20% | ~976 |
-| For the Glory | 0.20% | ~976 |
-| It's all about luck | 0.20% | ~976 |
-| It's all about the money | 0.20% | ~976 |
-| Respected | 0.20% | ~976 |
-| The Princess is in this Castle | 0.20% | ~976 |
-| True Catholic | 0.20% | ~976 |
-| Truly Divine Ruler | 0.20% | ~976 |
+| Cold War | 0.20% | ~977 |
+| Defender of the Faith | 0.20% | ~977 |
+| For the Glory | 0.20% | ~977 |
+| It's all about luck | 0.20% | ~977 |
+| It's all about the money | 0.20% | ~977 |
+| Respected | 0.20% | ~977 |
+| The Princess is in this Castle | 0.20% | ~977 |
+| True Catholic | 0.20% | ~977 |
+| Truly Divine Ruler | 0.20% | ~977 |
 | The 52 Garhs | 0.10% | ~488 |
 | I don't like sand | 0.10% | ~488 |
 | A Blessed Nation | 0.10% | ~488 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 488,224 (Ranked 40)  
+Progressed: 488,255 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -624,10 +624,10 @@ Completed: 1 (0.00%) (Ranked 391)
 | 2023-12-27 | 485,786 | 1 |
 | 2023-12-28 | 486,523 | 1 |
 | 2023-12-29 | 487,372 | 1 |
-| 2023-12-30 | 488,224 | 1 |
+| 2023-12-30 | 488,255 | 1 |
 ## Awards
 Max (Educational): 7,620  (Ranked 54)  
-Sum: 62,880 (Ranked 24)  
+Sum: 62,893 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -639,7 +639,7 @@ Diff (max vs sum): 30
 | This game is Relaxing | 6,991 |
 | This game has Competitive Players | 6,830 |
 | This game has Amazing Storytelling | 6,359 |
-| This game has Amazing Characters | 5,879 |
+| This game has Amazing Characters | 5,892 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -991,4 +991,4 @@ Diff (max vs sum): 30
 | 2023-12-27 | 4.69 | - | 7,588 | 62,528 |
 | 2023-12-28 | 4.69 | - | 7,601 | 62,637 |
 | 2023-12-29 | 4.69 | - | 7,601 | 62,744 |
-| 2023-12-30 | 4.69 | - | 7,620 | 62,880 |
+| 2023-12-30 | 4.69 | - | 7,620 | 62,893 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -999,9 +999,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7488,
+  "EOS_Progressed": 7489,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9524,6 +9524,11 @@
       "Time": "2023-12-30T21:11:37.7601236+00:00",
       "NumProgressed": 7488,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T23:11:36.9056125+00:00",
+      "NumProgressed": 7489,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9599,7 +9604,7 @@
       "Name": "Xenocide",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2321
+      "UsersEstimate": 2322
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -9615,7 +9620,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2321
+      "UsersEstimate": 2322
     },
     {
       "ID": "First_Major_Ally",
@@ -9639,7 +9644,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5766
+      "UsersEstimate": 5767
     },
     {
       "ID": "First_Race_Met",
@@ -9647,7 +9652,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5391
+      "UsersEstimate": 5392
     },
     {
       "ID": "First_Ship_Designed",
@@ -9671,7 +9676,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5691
+      "UsersEstimate": 5692
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -10023,7 +10028,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4867
+      "UsersEstimate": 4868
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -10087,7 +10092,7 @@
       "Name": "Prestige Victory!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "Win_Quickly",
@@ -10110,15 +10115,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7488,
+      "Progressed": 7489,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-12-27T21:02:14.3045553+00:00",
-  "LastChanged_Achievements": "2023-12-30T22:10:48.4558365+00:00",
-  "LastUpdate_AppInfo": "2023-12-23T21:57:11.9243121+00:00",
-  "LastUpdate_Ratings": "2023-12-30T21:59:02.1275502+00:00",
-  "LastUpdate_Achievements": "2023-12-30T22:10:48.4559406+00:00"
+  "LastChanged_Achievements": "2023-12-30T23:11:36.9056121+00:00",
+  "LastUpdate_AppInfo": "2023-12-30T22:57:30.2533612+00:00",
+  "LastUpdate_Ratings": "2023-12-30T22:59:50.9276735+00:00",
+  "LastUpdate_Achievements": "2023-12-30T23:11:36.9056993+00:00"
 }

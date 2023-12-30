@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~627 |
+| Malpractice Assurance | 11.00% | ~628 |
 | Lost and Found | 7.00% | ~399 |
 | Autodidact | 6.00% | ~7,850 |
 | This guy... again? | 6.00% | ~342 |
@@ -16,17 +16,17 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 5.00% | ~6,542 |
 | Ploughshares to Swords | 5.00% | ~285 |
 | Bloody Graduation | 5.00% | ~285 |
-| Don't Make Me Turn This Coach Around | 4.00% | ~5,233 |
-| Serenity Now! | 4.00% | ~5,233 |
-| It Rings a Bell | 4.00% | ~5,233 |
-| Not Today! | 4.00% | ~5,233 |
-| Meat and Greet | 4.00% | ~5,233 |
-| Catch and Decease | 4.00% | ~5,233 |
-| It Happens | 4.00% | ~5,233 |
-| Rush Hour | 4.00% | ~5,233 |
-| To Grandmother's House | 4.00% | ~5,233 |
-| A Place to Lay Your Head | 4.00% | ~5,233 |
-| FNG | 4.00% | ~5,233 |
+| Don't Make Me Turn This Coach Around | 4.00% | ~5,234 |
+| Serenity Now! | 4.00% | ~5,234 |
+| It Rings a Bell | 4.00% | ~5,234 |
+| Not Today! | 4.00% | ~5,234 |
+| Meat and Greet | 4.00% | ~5,234 |
+| Catch and Decease | 4.00% | ~5,234 |
+| It Happens | 4.00% | ~5,234 |
+| Rush Hour | 4.00% | ~5,234 |
+| To Grandmother's House | 4.00% | ~5,234 |
+| A Place to Lay Your Head | 4.00% | ~5,234 |
+| FNG | 4.00% | ~5,234 |
 | Friends 'Til the End | 4.00% | ~228 |
 | Unleash Hell | 3.00% | ~3,925 |
 | Unfulfilled Desires | 3.00% | ~3,925 |
@@ -63,18 +63,18 @@ Number of Ratings: 7,767  (23.09.2022)
 | Body of Work | 1.00% | ~1,308 |
 | Slap on the Wrist | 1.00% | ~57 |
 | For Old Time' Sake | 1.00% | ~57 |
-| Shrine of Reflection | 0.90% | ~1,177 |
+| Shrine of Reflection | 0.90% | ~1,178 |
 | Clearing the Ledger | 0.80% | ~1,047 |
+| Et Tu, Riposte? | 0.80% | ~46 |
 | Hat Trick | 0.70% | ~916 |
 | Triage | 0.70% | ~916 |
 | No Mercy | 0.70% | ~40 |
-| Et Tu, Riposte? | 0.70% | ~40 |
 | A Life Well Lived | 0.50% | ~654 |
 | The World As It Was | 0.50% | ~654 |
 | Bacon Bits | 0.50% | ~654 |
 | Eidetic | 0.40% | ~523 |
 | On This Long Road, We Found Redemption | 0.40% | ~23 |
-| Tears in the Rain | 0.30% | ~392 |
+| Tears in the Rain | 0.30% | ~393 |
 | Battle Hardened | 0.30% | ~17 |
 | Maître De La Lame | 0.30% | ~17 |
 | Circle of Life | 0.20% | ~262 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,830 (Ranked 89)  
+Progressed: 130,838 (Ranked 89)  
 Completed: 3 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 3 (0.00%) (Ranked 391)
 | 2023-12-27 | 130,259 | 3 |
 | 2023-12-28 | 130,422 | 3 |
 | 2023-12-29 | 130,627 | 3 |
-| 2023-12-30 | 130,830 | 3 |
+| 2023-12-30 | 130,838 | 3 |
 ## Awards
 Max (Character Customization): 7,905  (Ranked 50)  
 Sum: 21,274 (Ranked 58)  

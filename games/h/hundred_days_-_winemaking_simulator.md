@@ -1,17 +1,17 @@
 # Hundred Days - Winemaking Simulator
 [Store](https://store.epicgames.com/en-US/p/hundred-days-winemaking-simulator)  
 [View Rawdata](../../db/h/hundred_days_-_winemaking_simulator.json)  
-Rating: 4.35 (Ranked 816)  
+Rating: 4.35 (Ranked 817)  
 Number of Ratings: 7,669  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 43.00% | ~7,922 |
-| It's a good start | 10.00% | ~1,842 |
+| Bye Bye | 43.00% | ~7,924 |
+| It's a good start | 10.00% | ~1,843 |
 | Bonjour! | 8.00% | ~1,474 |
 | Quack | 8.00% | ~1,474 |
-| The Assistant | 6.00% | ~1,105 |
-| The Blue Marl | 6.00% | ~1,105 |
+| The Assistant | 6.00% | ~1,106 |
+| The Blue Marl | 6.00% | ~1,106 |
 | Ostinata | 5.00% | ~921 |
 | Better than nothing? | 5.00% | ~921 |
 | A long journey | 4.00% | ~737 |
@@ -19,14 +19,14 @@ Number of Ratings: 7,669  (23.09.2022)
 | Keep the doctor away | 3.00% | ~553 |
 | Surprise of Langhe | 3.00% | ~553 |
 | Famous | 3.00% | ~553 |
-| What is that? A castle? | 2.00% | ~368 |
-| A lot of space | 2.00% | ~368 |
-| A big garage | 2.00% | ~368 |
-| Millionaire | 2.00% | ~368 |
-| Exotic | 2.00% | ~368 |
-| Pastry Chef | 2.00% | ~368 |
-| Welcome to the club | 2.00% | ~368 |
-| Very Important Winemaker | 2.00% | ~368 |
+| What is that? A castle? | 2.00% | ~369 |
+| A lot of space | 2.00% | ~369 |
+| A big garage | 2.00% | ~369 |
+| Millionaire | 2.00% | ~369 |
+| Exotic | 2.00% | ~369 |
+| Pastry Chef | 2.00% | ~369 |
+| Welcome to the club | 2.00% | ~369 |
+| Very Important Winemaker | 2.00% | ~369 |
 | King of Langhe | 1.00% | ~184 |
 | Gem of Monferrato | 1.00% | ~184 |
 | Treasure of Roero | 0.70% | ~129 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Master Winemaker | 0.10% | ~18 |
 | Unsuitable Terroir | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,423 (Ranked 155)  
+Progressed: 18,429 (Ranked 155)  
 Completed: 13 (0.07%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 13 (0.07%) (Ranked 322)
 | 2023-12-27 | 17,935 | 13 |
 | 2023-12-28 | 18,098 | 13 |
 | 2023-12-29 | 18,260 | 13 |
-| 2023-12-30 | 18,423 | 13 |
+| 2023-12-30 | 18,429 | 13 |
 ## Awards
 Max (Relaxing): 208  (Ranked 293)  
 Sum: 1,736 (Ranked 224)  

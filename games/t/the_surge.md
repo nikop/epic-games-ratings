@@ -6,18 +6,18 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,836 |
-| I'll Be Back | 84.00% | ~4,322 |
+| On My Own Two Feet | 94.00% | ~4,837 |
+| I'll Be Back | 84.00% | ~4,323 |
 | Sorry, I Dropped This | 77.00% | ~3,962 |
-| First Day on the Job | 76.00% | ~3,910 |
-| Butcher's Bill | 54.00% | ~2,778 |
+| First Day on the Job | 76.00% | ~3,911 |
+| Butcher's Bill | 54.00% | ~2,779 |
 | P.A.X | 37.00% | ~1,904 |
-| Hey Listen | 36.00% | ~1,852 |
+| Hey Listen | 36.00% | ~1,853 |
 | OPERATOR | 35.00% | ~1,801 |
 | It's Blue Light | 33.00% | ~1,698 |
 | Most Wanted | 26.00% | ~1,338 |
-| Infidel | 23.00% | ~1,183 |
-| GOLIATH | 21.00% | ~1,080 |
+| Infidel | 23.00% | ~1,184 |
+| GOLIATH | 21.00% | ~1,081 |
 | Firebug | 20.00% | ~1,029 |
 | Nothing to Lose | 18.00% | ~926 |
 | I Choose You | 17.00% | ~875 |
@@ -25,12 +25,12 @@ Number of Ratings: 62  (23.09.2022)
 | Gear Up | 15.00% | ~772 |
 | SENTINEL | 15.00% | ~772 |
 | Core Power | 13.00% | ~669 |
-| The Black Cerberus | 12.00% | ~617 |
-| Watchman | 12.00% | ~617 |
+| The Black Cerberus | 12.00% | ~618 |
+| Watchman | 12.00% | ~618 |
 | CREO Killed the Video Star | 11.00% | ~566 |
 | Who's in Charge Here? | 11.00% | ~566 |
 | Shall Not Pass | 11.00% | ~566 |
-| Right Tool for the Job | 10.00% | ~514 |
+| Right Tool for the Job | 10.00% | ~515 |
 | Melting Down | 9.00% | ~463 |
 | Raging Drones | 9.00% | ~463 |
 | Overconfident | 9.00% | ~463 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~31 |
 | The Surge | 0.40% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,145 (Ranked 202)  
+Progressed: 5,146 (Ranked 202)  
 Completed: 18 (0.35%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 18 (0.35%) (Ranked 236)
 | 2023-12-27 | 5,097 | 18 |
 | 2023-12-28 | 5,108 | 18 |
 | 2023-12-29 | 5,128 | 18 |
-| 2023-12-30 | 5,145 | 18 |
+| 2023-12-30 | 5,146 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 513)  
 Sum: 30 (Ranked 533)  

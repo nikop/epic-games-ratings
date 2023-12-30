@@ -5,29 +5,29 @@ Rating: 4.81 (Ranked 84)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,006 |
-| No more cages! | 91.00% | ~2,879 |
-| Everfrost | 77.00% | ~2,436 |
+| For Demacia | 95.00% | ~3,007 |
+| No more cages! | 91.00% | ~2,880 |
+| Everfrost | 77.00% | ~2,437 |
 | Pentakill | 76.00% | ~2,405 |
 | Dark Forest | 76.00% | ~2,405 |
 | The use of petricite | 73.00% | ~2,310 |
-| You can pet the dog | 60.00% | ~1,898 |
+| You can pet the dog | 60.00% | ~1,899 |
 | Thornbarrow | 42.00% | ~1,329 |
 | Big Helmet Bro | 40.00% | ~1,266 |
 | Clarion Cove | 40.00% | ~1,266 |
-| Ternmoat Headquarters | 38.00% | ~1,202 |
+| Ternmoat Headquarters | 38.00% | ~1,203 |
 | Elemental master | 37.00% | ~1,171 |
 | Past trauma | 37.00% | ~1,171 |
 | Cypress Glen Headquarters | 34.00% | ~1,076 |
 | Petricite Burst | 33.00% | ~1,044 |
-| Old friend | 32.00% | ~1,012 |
+| Old friend | 32.00% | ~1,013 |
 | Devineur | 31.00% | ~981 |
-| Hijack | 30.00% | ~949 |
-| Whispers in the Woods I | 27.00% | ~854 |
-| I chose my shackles | 27.00% | ~854 |
-| Ancient power | 27.00% | ~854 |
+| Hijack | 30.00% | ~950 |
+| Whispers in the Woods I | 27.00% | ~855 |
+| I chose my shackles | 27.00% | ~855 |
+| Ancient power | 27.00% | ~855 |
 | Sacred Woods | 25.00% | ~791 |
-| Little light | 23.00% | ~728 |
+| Little light | 24.00% | ~760 |
 | Glyndemere | 23.00% | ~728 |
 | Capelworth | 23.00% | ~728 |
 | Full equipped | 23.00% | ~728 |
@@ -59,7 +59,7 @@ Rating: 4.81 (Ranked 84)
 | Silverwing nest | 2.00% | ~63 |
 | The Unshackled | 1.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,164 (Ranked 222)  
+Progressed: 3,165 (Ranked 222)  
 Completed: 17 (0.54%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 17 (0.54%) (Ranked 211)
 | 2023-12-27 | 3,100 | 17 |
 | 2023-12-28 | 3,125 | 17 |
 | 2023-12-29 | 3,140 | 17 |
-| 2023-12-30 | 3,164 | 17 |
+| 2023-12-30 | 3,165 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,12 +2,12 @@
   "ID": "fa702d34a37248ba98fb17f680c085e3",
   "Name": "Fallout 3: Game of the Year Edition",
   "ProductSlug": "fallout-3-game-of-the-year-edition",
-  "Ranking_Rating": 426,
+  "Ranking_Rating": 425,
   "Ranking_Popularity": 28,
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-10-20T17:50:00+00:00",
@@ -6641,10 +6641,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 29575,
       "NumberOfAwardsMax": 14368
+    },
+    {
+      "Time": "2023-12-30T23:00:21.9655829+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 29583,
+      "NumberOfAwardsMax": 14368
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29575,
+  "NumberOfAwards": 29583,
   "NumberOfAwardsMax": 14368,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6688,7 +6694,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1558
+      "Count": 1560
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6718,7 +6724,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1690
+      "Count": 1696
     }
   ],
   "EOS_Progressed": 0,
@@ -6733,8 +6739,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2023-12-30T21:59:32.1930515+00:00",
+  "LastChanged": "2023-12-30T23:00:21.9655827+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.7121186+00:00",
-  "LastUpdate_Ratings": "2023-12-30T21:59:32.1930519+00:00",
-  "LastUpdate_Achievements": "2023-12-30T22:04:06.0860031+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:00:21.9655831+00:00",
+  "LastUpdate_Achievements": "2023-12-30T23:05:12.0087555+00:00"
 }

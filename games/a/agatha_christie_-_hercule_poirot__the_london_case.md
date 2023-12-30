@@ -8,13 +8,13 @@
 | Little ideas | 71.00% | ~58 |
 | The Ship | 67.00% | ~55 |
 | Seeking the truth | 55.00% | ~45 |
-| An old friend | 51.00% | ~42 |
-| The Gala | 50.00% | ~41 |
-| A curious gathering | 48.00% | ~39 |
-| Little grey cells | 45.00% | ~37 |
-| Impossible is possible | 45.00% | ~37 |
-| The Missing Magdalene | 45.00% | ~37 |
-| Arthur Hastings | 45.00% | ~37 |
+| An old friend | 52.00% | ~43 |
+| The Gala | 51.00% | ~42 |
+| A curious gathering | 49.00% | ~40 |
+| Little grey cells | 46.00% | ~38 |
+| Impossible is possible | 46.00% | ~38 |
+| The Missing Magdalene | 46.00% | ~38 |
+| Arthur Hastings | 46.00% | ~38 |
 | Everything matters | 41.00% | ~34 |
 | An expert mediator | 40.00% | ~33 |
 | DI Hardwicke | 40.00% | ~33 |
@@ -44,11 +44,11 @@
 | Mortimer Ailsworth | 15.00% | ~12 |
 | Florence Farquhar | 13.00% | ~11 |
 | The Investigation Starts Anew | 13.00% | ~11 |
+| A treasured heirloom | 12.00% | ~10 |
+| The Penitent Magdalene | 12.00% | ~10 |
+| A true performance | 12.00% | ~10 |
 | The Denouement | 11.00% | ~9 |
-| A treasured heirloom | 11.00% | ~9 |
 | A perilous journey | 11.00% | ~9 |
-| The Penitent Magdalene | 11.00% | ~9 |
-| A true performance | 11.00% | ~9 |
 | Perkins | 7.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 82 (Ranked 502)  

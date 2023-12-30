@@ -1,54 +1,54 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.49 (Ranked 631)  
+Rating: 4.49 (Ranked 632)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 79.00% | ~251 |
-| First of many… | 69.00% | ~219 |
-| Helping Hand | 65.00% | ~207 |
-| Increased Vigor | 60.00% | ~191 |
-| Fight Fire with Fire | 57.00% | ~181 |
-| Increased Capacity | 53.00% | ~169 |
-| Just the start | 50.00% | ~159 |
-| Perfect Storm | 47.00% | ~149 |
-| All That Glitters | 46.00% | ~146 |
-| Enhance! | 43.00% | ~137 |
-| One Of the Chosen | 41.00% | ~130 |
-| Throne Potato | 40.00% | ~127 |
-| Devil's in the Details | 39.00% | ~124 |
-| Five's a Crowd | 39.00% | ~124 |
-| 25 to Life | 38.00% | ~121 |
-| Soul Harvester | 36.00% | ~114 |
-| Salvation | 36.00% | ~114 |
-| Unshakable Fortitude | 34.00% | ~108 |
-| Maximum Vigor | 31.00% | ~99 |
-| I Wanna Rock | 31.00% | ~99 |
+| Green with Envy | 78.00% | ~250 |
+| First of many… | 69.00% | ~221 |
+| Helping Hand | 65.00% | ~208 |
+| Increased Vigor | 60.00% | ~192 |
+| Fight Fire with Fire | 57.00% | ~182 |
+| Increased Capacity | 53.00% | ~170 |
+| Just the start | 50.00% | ~160 |
+| Perfect Storm | 46.00% | ~147 |
+| All That Glitters | 46.00% | ~147 |
+| Enhance! | 43.00% | ~138 |
+| One Of the Chosen | 41.00% | ~131 |
+| Throne Potato | 40.00% | ~128 |
+| Devil's in the Details | 39.00% | ~125 |
+| Five's a Crowd | 39.00% | ~125 |
+| 25 to Life | 38.00% | ~122 |
+| Soul Harvester | 36.00% | ~115 |
+| Salvation | 36.00% | ~115 |
+| Unshakable Fortitude | 33.00% | ~106 |
 | Delusions of Grandeur | 31.00% | ~99 |
-| Love Tap | 29.00% | ~92 |
+| Maximum Vigor | 30.00% | ~96 |
+| I Wanna Rock | 30.00% | ~96 |
+| Love Tap | 29.00% | ~93 |
 | Freeze Frame | 27.00% | ~86 |
 | Eat Your Heart Out | 27.00% | ~86 |
 | For Whom the Bell Tolls | 27.00% | ~86 |
 | Big Spender | 25.00% | ~80 |
-| Unyielding Strength | 24.00% | ~76 |
-| Can you restore the Balance? | 23.00% | ~73 |
+| Unyielding Strength | 23.00% | ~74 |
+| Can you restore the Balance? | 23.00% | ~74 |
 | Cleanup Crew | 22.00% | ~70 |
 | Crowd Source | 22.00% | ~70 |
 | Maximum Capacity | 20.00% | ~64 |
-| Demon Meddler | 19.00% | ~60 |
-| Seeing Red | 19.00% | ~60 |
-| Egomaniac | 18.00% | ~57 |
+| Demon Meddler | 19.00% | ~61 |
+| Seeing Red | 19.00% | ~61 |
+| Egomaniac | 18.00% | ~58 |
 | Protector of Humanity | 16.00% | ~51 |
 | Everybody Wants to Rule the World | 16.00% | ~51 |
-| Community Outreach | 13.00% | ~41 |
+| Community Outreach | 13.00% | ~42 |
 | A Parting Gift | 12.00% | ~38 |
 | Unbreakable Will | 11.00% | ~35 |
 | Path of the Horseman | 11.00% | ~35 |
 | Holy Keeper | 9.00% | ~29 |
 | Take it to the Limit | 9.00% | ~29 |
-| Demon Keeper | 8.00% | ~25 |
+| Demon Keeper | 8.00% | ~26 |
 | Soul Reaper | 7.00% | ~22 |
 | My Evil Twin | 7.00% | ~22 |
 | Humanitarian | 7.00% | ~22 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 0.60% | ~2 |
 | Beast Mode | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 318 (Ranked 379)  
+Progressed: 320 (Ranked 379)  
 Completed: 1 (0.31%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 1 (0.31%) (Ranked 250)
 | 2023-12-27 | 247 | 1 |
 | 2023-12-28 | 265 | 1 |
 | 2023-12-29 | 293 | 1 |
-| 2023-12-30 | 318 | 1 |
+| 2023-12-30 | 320 | 1 |
 ## Awards
 Max (Great Boss Battles): 94  (Ranked 386)  
 Sum: 94 (Ranked 467)  

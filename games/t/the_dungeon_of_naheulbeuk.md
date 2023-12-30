@@ -1,20 +1,20 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.59 (Ranked 444)  
+Rating: 4.59 (Ranked 443)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~88,425 |
-| Alt+F4 | 10.00% | ~24,562 |
-| Where's that freaking Dwarf? | 9.00% | ~22,106 |
+| Sowwy! | 36.00% | ~88,427 |
+| Alt+F4 | 10.00% | ~24,563 |
+| Where's that freaking Dwarf? | 9.00% | ~22,107 |
 | Déjà vu | 7.00% | ~17,194 |
-| Sock! SOCK! | 6.00% | ~14,737 |
-| A beer, two curses, three companions | 5.00% | ~12,281 |
-| GG EZ | 5.00% | ~12,281 |
-| DM intervention | 5.00% | ~12,281 |
-| Speedrun | 5.00% | ~12,281 |
+| Sock! SOCK! | 6.00% | ~14,738 |
+| A beer, two curses, three companions | 5.00% | ~12,282 |
+| GG EZ | 5.00% | ~12,282 |
+| DM intervention | 5.00% | ~12,282 |
+| Speedrun | 5.00% | ~12,282 |
 | Fireproof Wizardess | 4.00% | ~9,825 |
 | Livin' in a dwarven paradise | 3.00% | ~7,369 |
 | Way of the Wimp | 3.00% | ~7,369 |
@@ -25,20 +25,20 @@ Number of Ratings: 118  (23.09.2022)
 | The Woman in the High Castle | 3.00% | ~7,369 |
 | Team Building Exercise | 3.00% | ~7,369 |
 | Oh, when I'll be level 10... | 3.00% | ~7,369 |
-| Shiny and Crôm | 2.00% | ~4,912 |
-| Urik's Depths | 2.00% | ~4,912 |
-| The Dungeon Master | 2.00% | ~4,912 |
-| The Statuette of Gladeulfeurah | 2.00% | ~4,912 |
-| Res Judicata | 2.00% | ~4,912 |
-| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,912 |
-| A tale of adventurers not quite like the others... | 2.00% | ~4,912 |
-| Dwarf Fortress | 2.00% | ~4,912 |
-| Look but don't touch | 2.00% | ~4,912 |
-| The beards of change | 2.00% | ~4,912 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 2.00% | ~4,912 |
-| The Ranger of Chaos | 2.00% | ~4,912 |
-| I am the night | 2.00% | ~4,912 |
-| Thieves' Guild Accreditation | 2.00% | ~4,912 |
+| Shiny and Crôm | 2.00% | ~4,913 |
+| Urik's Depths | 2.00% | ~4,913 |
+| The Dungeon Master | 2.00% | ~4,913 |
+| The Statuette of Gladeulfeurah | 2.00% | ~4,913 |
+| Res Judicata | 2.00% | ~4,913 |
+| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,913 |
+| A tale of adventurers not quite like the others... | 2.00% | ~4,913 |
+| Dwarf Fortress | 2.00% | ~4,913 |
+| Look but don't touch | 2.00% | ~4,913 |
+| The beards of change | 2.00% | ~4,913 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 2.00% | ~4,913 |
+| The Ranger of Chaos | 2.00% | ~4,913 |
+| I am the night | 2.00% | ~4,913 |
+| Thieves' Guild Accreditation | 2.00% | ~4,913 |
 | %#*!$*! | 1.00% | ~2,456 |
 | Dead for good | 1.00% | ~2,456 |
 | Gargantua | 1.00% | ~2,456 |
@@ -52,9 +52,9 @@ Number of Ratings: 118  (23.09.2022)
 | Scholar of the Lands of Fangh | 0.60% | ~1,474 |
 | Law and Order | 0.60% | ~1,474 |
 | It's been a hard day's night | 0.50% | ~1,228 |
-| Friendly fire | 0.40% | ~982 |
-| I'd rather... Just... Sing! | 0.40% | ~982 |
-| Inception | 0.40% | ~982 |
+| Friendly fire | 0.40% | ~983 |
+| I'd rather... Just... Sing! | 0.40% | ~983 |
+| Inception | 0.40% | ~983 |
 | The number of the counting shalt be 7 | 0.30% | ~737 |
 | Cursed die | 0.20% | ~491 |
 | The Blood Countess | 0.20% | ~491 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~246 |
 | Dwarf Candy | 0.10% | ~246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,624 (Ranked 69)  
+Progressed: 245,630 (Ranked 69)  
 Completed: 8 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,14 +308,14 @@ Completed: 8 (0.00%) (Ranked 391)
 | 2023-12-27 | 245,077 | 8 |
 | 2023-12-28 | 245,240 | 8 |
 | 2023-12-29 | 245,438 | 8 |
-| 2023-12-30 | 245,624 | 8 |
+| 2023-12-30 | 245,630 | 8 |
 ## Awards
-Max (Character Customization): 261  (Ranked 277)  
-Sum: 547 (Ranked 328)  
+Max (Character Customization): 262  (Ranked 277)  
+Sum: 548 (Ranked 328)  
 Diff (max vs sum): -51  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 261 |
+| This game has Inclusive Character Customization | 262 |
 | This game is Relaxing | 39 |
 | This game is Great for Beginners | 37 |
 | This game is Highly Recommended | 35 |
@@ -533,4 +533,4 @@ Diff (max vs sum): -51
 | 2023-12-27 | 4.59 | - | 258 | 540 |
 | 2023-12-28 | 4.59 | - | 260 | 542 |
 | 2023-12-29 | 4.59 | - | 261 | 545 |
-| 2023-12-30 | 4.59 | - | 261 | 547 |
+| 2023-12-30 | 4.59 | - | 262 | 548 |

@@ -10344,9 +10344,9 @@
       "Count": 1071
     }
   ],
-  "EOS_Progressed": 130830,
+  "EOS_Progressed": 130838,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1387,
+  "EOS_NewPlayers": 1390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37584,6 +37584,11 @@
       "Time": "2023-12-30T22:10:15.7366458+00:00",
       "NumProgressed": 130830,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-30T23:11:03.221848+00:00",
+      "NumProgressed": 130838,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37595,7 +37600,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5233
+      "UsersEstimate": 5234
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -37603,7 +37608,7 @@
       "Name": "Serenity Now!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5233
+      "UsersEstimate": 5234
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -37611,7 +37616,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5233
+      "UsersEstimate": 5234
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -37747,7 +37752,7 @@
       "Name": "Not Today!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5233
+      "UsersEstimate": 5234
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -37795,7 +37800,7 @@
       "Name": "Meat and Greet",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5233
+      "UsersEstimate": 5234
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -37811,7 +37816,7 @@
       "Name": "Catch and Decease",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5233
+      "UsersEstimate": 5234
     },
     {
       "ID": "combat_kill_librarian",
@@ -37867,7 +37872,7 @@
       "Name": "It Happens",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5233
+      "UsersEstimate": 5234
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -37891,7 +37896,7 @@
       "Name": "Rush Hour",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5233
+      "UsersEstimate": 5234
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -37915,7 +37920,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5233
+      "UsersEstimate": 5234
     },
     {
       "ID": "driving_distance_easy",
@@ -37939,7 +37944,7 @@
       "Name": "Tears in the Rain",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "hero_skill_mastery_five",
@@ -37955,7 +37960,7 @@
       "Name": "Shrine of Reflection",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 1177
+      "UsersEstimate": 1178
     },
     {
       "ID": "hero_story_complete_any",
@@ -37987,7 +37992,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5233
+      "UsersEstimate": 5234
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -38003,7 +38008,7 @@
       "Name": "FNG",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5233
+      "UsersEstimate": 5234
     },
     {
       "ID": "inn_visit_all_variants",
@@ -38131,7 +38136,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "combat_kill_collector",
@@ -38169,9 +38174,9 @@
       "ID": "combat_land_riposte_maa_hwy_dul",
       "SetID": "d3bcpc8",
       "Name": "Et Tu, Riposte?",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 46
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -38226,21 +38231,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130830,
+      "Progressed": 130838,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5699,
+      "Progressed": 5707,
       "Completed": 817
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-30T18:59:12.1742166+00:00",
-  "LastChanged_Achievements": "2023-12-30T22:10:15.7366454+00:00",
+  "LastChanged_Achievements": "2023-12-30T23:11:03.2218474+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-30T21:57:36.0137218+00:00",
-  "LastUpdate_Achievements": "2023-12-30T22:10:15.7368468+00:00"
+  "LastUpdate_Ratings": "2023-12-30T22:58:22.4774885+00:00",
+  "LastUpdate_Achievements": "2023-12-30T23:11:03.2220236+00:00"
 }

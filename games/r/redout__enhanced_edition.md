@@ -1,25 +1,25 @@
 # Redout: Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/redout-enhanced-edition)  
 [View Rawdata](../../db/r/redout__enhanced_edition.json)  
-Rating: 4.49 (Ranked 631)  
+Rating: 4.49 (Ranked 632)  
 Number of Ratings: 274  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~97,705 |
-| NATURAL BORN WINNER | 33.00% | ~78,641 |
-| CALLING HOUSTON | 28.00% | ~66,725 |
-| SNEAKY SNEAKY | 22.00% | ~52,427 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~52,427 |
-| GT9STRADALE | 20.00% | ~47,661 |
+| VANGUARD | 41.00% | ~97,708 |
+| NATURAL BORN WINNER | 33.00% | ~78,643 |
+| CALLING HOUSTON | 28.00% | ~66,727 |
+| SNEAKY SNEAKY | 22.00% | ~52,428 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~52,428 |
+| GT9STRADALE | 20.00% | ~47,662 |
 | CHALLENGER | 11.00% | ~26,214 |
-| ON A ROLL | 9.00% | ~21,447 |
-| CENTAUR | 8.00% | ~19,064 |
-| FASTER THAN EVER | 8.00% | ~19,064 |
-| CHALLENGE THE WORLD | 7.00% | ~16,681 |
-| PHOTOFINISH | 7.00% | ~16,681 |
-| QAREEN | 5.00% | ~11,915 |
-| TAKATORA | 5.00% | ~11,915 |
+| ON A ROLL | 9.00% | ~21,448 |
+| CENTAUR | 8.00% | ~19,065 |
+| FASTER THAN EVER | 8.00% | ~19,065 |
+| CHALLENGE THE WORLD | 7.00% | ~16,682 |
+| PHOTOFINISH | 7.00% | ~16,682 |
+| QAREEN | 5.00% | ~11,916 |
+| TAKATORA | 5.00% | ~11,916 |
 | SHOWOFF | 4.00% | ~9,532 |
 | GILA | 3.00% | ~7,149 |
 | PRO | 2.00% | ~4,766 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~477 |
 | ENLIGHTENED | 0.10% | ~238 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,305 (Ranked 72)  
+Progressed: 238,311 (Ranked 72)  
 Completed: 49 (0.02%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 49 (0.02%) (Ranked 359)
 | 2023-12-27 | 238,073 | 49 |
 | 2023-12-28 | 238,135 | 49 |
 | 2023-12-29 | 238,227 | 49 |
-| 2023-12-30 | 238,305 | 49 |
+| 2023-12-30 | 238,311 | 49 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

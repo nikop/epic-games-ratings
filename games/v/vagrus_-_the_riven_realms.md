@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 57.00% | ~146 |
+| A Second Chance | 57.00% | ~147 |
 | Press-ganged | 42.00% | ~108 |
 | The Package | 28.00% | ~72 |
-| Randomized | 18.00% | ~46 |
 | Conquered | 18.00% | ~46 |
+| Randomized | 17.00% | ~44 |
 | Scribe | 11.00% | ~28 |
 | Breached | 11.00% | ~28 |
 | Tactician | 10.00% | ~26 |
@@ -26,16 +26,16 @@
 | Pilgrimage's End | 5.00% | ~13 |
 | Merchant | 5.00% | ~13 |
 | Trouble at Fort Larius | 5.00% | ~13 |
-| Quartermaster | 4.00% | ~10 |
-| Potential Unlocked | 4.00% | ~10 |
-| Despised | 4.00% | ~10 |
 | Been There | 4.00% | ~10 |
 | Spiritual Journey | 4.00% | ~10 |
-| Unseen Patterns | 4.00% | ~10 |
+| Quartermaster | 3.00% | ~8 |
+| Potential Unlocked | 3.00% | ~8 |
 | Xevarian Gambit | 3.00% | ~8 |
 | The Voice of Hereafter | 3.00% | ~8 |
+| Despised | 3.00% | ~8 |
 | A Terrible Will | 3.00% | ~8 |
 | Inquisitions of Discord | 3.00% | ~8 |
+| Unseen Patterns | 3.00% | ~8 |
 | Bounty Hunter | 2.00% | ~5 |
 | Supercargo | 2.00% | ~5 |
 | Watcher | 2.00% | ~5 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257 (Ranked 405)  
+Progressed: 258 (Ranked 403)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 250 | 0 |
 | 2023-12-28 | 253 | 0 |
 | 2023-12-29 | 254 | 0 |
-| 2023-12-30 | 257 | 0 |
+| 2023-12-30 | 258 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

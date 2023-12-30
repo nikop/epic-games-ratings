@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17507,
+  "EOS_Progressed": 17509,
   "EOS_Completed": 122,
   "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 3,
@@ -17365,6 +17365,11 @@
       "Time": "2023-12-30T22:05:17.4821047+00:00",
       "NumProgressed": 17507,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-12-30T23:06:26.362679+00:00",
+      "NumProgressed": 17509,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 41,
@@ -17384,7 +17389,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "tpote_achievement_11",
@@ -17416,7 +17421,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5602
+      "UsersEstimate": 5603
     },
     {
       "ID": "tpote_achievement_15",
@@ -17456,7 +17461,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3151
+      "UsersEstimate": 3152
     },
     {
       "ID": "tpote_achievement_2",
@@ -17464,7 +17469,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5777
+      "UsersEstimate": 5778
     },
     {
       "ID": "tpote_achievement_20",
@@ -17480,7 +17485,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5077
+      "UsersEstimate": 5078
     },
     {
       "ID": "tpote_achievement_22",
@@ -17488,7 +17493,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3501
+      "UsersEstimate": 3502
     },
     {
       "ID": "tpote_achievement_23",
@@ -17528,7 +17533,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3151
+      "UsersEstimate": 3152
     },
     {
       "ID": "tpote_achievement_28",
@@ -17552,7 +17557,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5427
+      "UsersEstimate": 5428
     },
     {
       "ID": "tpote_achievement_30",
@@ -17568,7 +17573,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 3151
+      "UsersEstimate": 3152
     },
     {
       "ID": "tpote_achievement_32",
@@ -17592,7 +17597,7 @@
       "Name": "A cry for help",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "tpote_achievement_35",
@@ -17640,7 +17645,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 7003
+      "UsersEstimate": 7004
     },
     {
       "ID": "tpote_achievement_40",
@@ -17680,7 +17685,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "tpote_achievement_8",
@@ -17688,7 +17693,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3676
+      "UsersEstimate": 3677
     },
     {
       "ID": "tpote_achievement_9",
@@ -17696,22 +17701,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5952
+      "UsersEstimate": 5953
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17507,
+      "Progressed": 17509,
       "Completed": 122
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-30T22:05:17.4821045+00:00",
+  "LastChanged_Achievements": "2023-12-30T23:06:26.3626787+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.265609+00:00",
-  "LastUpdate_Ratings": "2023-12-30T22:02:44.0314136+00:00",
-  "LastUpdate_Achievements": "2023-12-30T22:05:17.4821887+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:03:46.5938468+00:00",
+  "LastUpdate_Achievements": "2023-12-30T23:06:26.3627723+00:00"
 }

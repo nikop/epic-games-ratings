@@ -1,19 +1,19 @@
 # Arcade Paradise
 [Store](https://store.epicgames.com/en-US/p/arcade-paradise)  
 [View Rawdata](../../db/a/arcade_paradise.json)  
-Rating: 4.59 (Ranked 444)  
+Rating: 4.59 (Ranked 443)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 96.00% | ~704 |
-| Fetch Quest Complete | 90.00% | ~660 |
-| I can't wait! | 82.00% | ~601 |
-| Swish | 56.00% | ~410 |
+| Pushing a pull door | 96.00% | ~705 |
+| Fetch Quest Complete | 90.00% | ~661 |
+| I can't wait! | 82.00% | ~602 |
+| Swish | 56.00% | ~411 |
 | Clean up on Aisle 9 | 39.00% | ~286 |
 | Machine Maxed | 29.00% | ~213 |
 | Existential dread | 26.00% | ~191 |
-| Bug Fixer | 25.00% | ~183 |
-| Gerald of Riviera | 25.00% | ~183 |
+| Bug Fixer | 25.00% | ~184 |
+| Gerald of Riviera | 25.00% | ~184 |
 | Goal | 22.00% | ~161 |
 | I ran the numbers | 15.00% | ~110 |
 | Taking the plunge | 13.00% | ~95 |
@@ -25,8 +25,8 @@ Rating: 4.59 (Ranked 444)
 | Jimmy Goldman Would be Proud | 6.00% | ~44 |
 | You Spin Me Round | 6.00% | ~44 |
 | Bombscare | 5.00% | ~37 |
-| Your Bloody Valentine | 5.00% | ~37 |
 | Crowning achievement | 4.00% | ~29 |
+| Your Bloody Valentine | 4.00% | ~29 |
 | GoldGuy Jr | 4.00% | ~29 |
 | Nose to the Grindstone | 4.00% | ~29 |
 | Waking nightmare | 4.00% | ~29 |
@@ -60,7 +60,7 @@ Rating: 4.59 (Ranked 444)
 | Another all nighter? | 0.10% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733 (Ranked 310)  
+Progressed: 734 (Ranked 310)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-25 | 730 | 0 |
 | 2023-12-27 | 731 | 0 |
 | 2023-12-29 | 732 | 0 |
-| 2023-12-30 | 733 | 0 |
+| 2023-12-30 | 734 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

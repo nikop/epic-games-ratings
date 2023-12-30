@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -35,7 +35,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 706,
+  "EOS_Progressed": 707,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
@@ -2600,6 +2600,11 @@
       "Time": "2023-12-30T17:08:58.2076663+00:00",
       "NumProgressed": 706,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-30T23:10:20.7198861+00:00",
+      "NumProgressed": 707,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -2642,9 +2647,9 @@
       "ID": "ACHIEVEMENT_14_PromiseYuna",
       "SetID": "9bke6f1",
       "Name": "Yuna\u0027s Promise",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 184
+      "UsersEstimate": 191
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -2676,7 +2681,7 @@
       "Name": "Find myself",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_19_Romantic",
@@ -2748,7 +2753,7 @@
       "Name": "The First Bond",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -2756,7 +2761,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -2811,7 +2816,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 706,
+      "Progressed": 707,
       "Completed": 2
     }
   ],
@@ -2819,8 +2824,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-27T15:59:49.1136695+00:00",
-  "LastChanged_Achievements": "2023-12-30T22:09:35.6854601+00:00",
+  "LastChanged_Achievements": "2023-12-30T23:10:20.7198856+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:10.2016354+00:00",
-  "LastUpdate_Ratings": "2023-12-30T21:03:16.2922485+00:00",
-  "LastUpdate_Achievements": "2023-12-30T22:09:35.6854894+00:00"
+  "LastUpdate_Ratings": "2023-12-30T22:57:50.8716799+00:00",
+  "LastUpdate_Achievements": "2023-12-30T23:10:20.7199287+00:00"
 }

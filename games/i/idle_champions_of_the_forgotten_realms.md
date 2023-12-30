@@ -12,7 +12,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 0.70% | ~1,735 |
 | Welcome to Sigil | 0.70% | ~1,499 |
 | Fast Food | 0.60% | ~1,285 |
-| The Ring of Regeneration | 0.50% | ~1,239 |
+| The Ring of Regeneration | 0.50% | ~1,240 |
 | Were-verpowered | 0.40% | ~992 |
 | Are Ya Chicken? | 0.40% | ~992 |
 | The Overgrown Grove | 0.40% | ~857 |
@@ -25,11 +25,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.30% | ~744 |
 | Friendly Imps | 0.30% | ~744 |
 | Pure Energy | 0.30% | ~744 |
-| Arcane Suppression | 0.30% | ~642 |
-| Welcome to the Vrocks | 0.30% | ~642 |
-| Misaligned in Sigil | 0.30% | ~642 |
-| Chaos Theory | 0.30% | ~642 |
-| Mind Spike | 0.30% | ~642 |
+| Arcane Suppression | 0.30% | ~643 |
+| Welcome to the Vrocks | 0.30% | ~643 |
+| Misaligned in Sigil | 0.30% | ~643 |
+| Chaos Theory | 0.30% | ~643 |
+| Mind Spike | 0.30% | ~643 |
 | Maddening | 0.20% | ~496 |
 | Beast Mode | 0.20% | ~496 |
 | Terror in the Dark | 0.20% | ~496 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~214 |
 | The Brains of an Illithid's Desire | 0.10% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,886 (Ranked 68)  
+Progressed: 247,917 (Ranked 68)  
 Completed: 2,578 (1.04%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -807,14 +807,14 @@ Completed: 2,578 (1.04%) (Ranked 170)
 | 2023-12-27 | 245,531 | 2,567 |
 | 2023-12-28 | 246,305 | 2,573 |
 | 2023-12-29 | 247,120 | 2,575 |
-| 2023-12-30 | 247,886 | 2,578 |
+| 2023-12-30 | 247,917 | 2,578 |
 ## Awards
-Max (Great for Beginners): 5,715  (Ranked 71)  
-Sum: 33,193 (Ranked 41)  
+Max (Great for Beginners): 5,720  (Ranked 71)  
+Sum: 33,198 (Ranked 41)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 5,715 |
+| This game is Great for Beginners | 5,720 |
 | This game has Diverse Characters | 5,660 |
 | This game has Quickly Understood Controls | 4,872 |
 | This game is Relaxing | 4,751 |
@@ -1162,4 +1162,4 @@ Diff (max vs sum): 30
 | 2023-12-27 | 4.06 | - | 5,701 | 33,129 |
 | 2023-12-28 | 4.06 | - | 5,708 | 33,156 |
 | 2023-12-29 | 4.06 | - | 5,715 | 33,183 |
-| 2023-12-30 | 4.06 | - | 5,715 | 33,193 |
+| 2023-12-30 | 4.06 | - | 5,720 | 33,198 |

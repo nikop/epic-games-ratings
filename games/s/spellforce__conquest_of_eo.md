@@ -37,10 +37,10 @@
 | Friend of Bastion | 12.00% | ~12 |
 | Magic Academy | 11.00% | ~11 |
 | A Master of Magic | 10.00% | ~10 |
+| A Joke | 10.00% | ~10 |
 | Defeat Gor | 9.00% | ~9 |
 | Mage Teacher | 9.00% | ~9 |
 | Friend of Windholme | 9.00% | ~9 |
-| A Joke | 9.00% | ~9 |
 | Yngrid's Tale | 8.00% | ~8 |
 | Defeat Hokan | 7.00% | ~7 |
 | Defeat Uram | 7.00% | ~7 |
@@ -56,19 +56,19 @@
 | Defeat Isgrimm | 5.00% | ~5 |
 | Defeat Raith | 5.00% | ~5 |
 | Defeat Yria | 5.00% | ~5 |
+| Lytra's Tale | 5.00% | ~5 |
 | Crypt of the Revenant | 5.00% | ~5 |
 | Heroes | 5.00% | ~5 |
 | Friend of Uram Gor | 5.00% | ~5 |
 | Get to the Airship! | 4.00% | ~4 |
-| Lytra's Tale | 4.00% | ~4 |
 | Fireforge | 4.00% | ~4 |
 | Master Alchemist | 4.00% | ~4 |
 | Master Necromancer | 4.00% | ~4 |
 | Friend of Grey Dusk Vale | 4.00% | ~4 |
 | Defeat Rohen | 3.00% | ~3 |
+| Misty Coast Dragonbones | 3.00% | ~3 |
 | Breaking the circle | 3.00% | ~3 |
 | My Friends! | 3.00% | ~3 |
-| Misty Coast Dragonbones | 2.00% | ~2 |
 | Hard Life | 2.00% | ~2 |
 | Impossible Mission | 1.00% | ~1 |
 | Potion Master | 0.00% | ~0 |

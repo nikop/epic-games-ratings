@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2021,10 +2021,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 820,
       "NumberOfAwardsMax": 557
+    },
+    {
+      "Time": "2023-12-30T23:01:31.9542718+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 822,
+      "NumberOfAwardsMax": 557
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 820,
+  "NumberOfAwards": 822,
   "NumberOfAwardsMax": 557,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2086,13 +2092,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 29
+      "Count": 31
     }
   ],
-  "EOS_Progressed": 17618,
-  "EOS_Completed": 65,
-  "EOS_NewPlayers": 1199,
-  "EOS_NewCompleters": 3,
+  "EOS_Progressed": 17622,
+  "EOS_Completed": 66,
+  "EOS_NewPlayers": 1193,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
     {
@@ -18319,6 +18325,11 @@
       "Time": "2023-12-30T22:10:44.9087542+00:00",
       "NumProgressed": 17618,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-12-30T23:11:33.249792+00:00",
+      "NumProgressed": 17622,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 35,
@@ -18330,7 +18341,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 14271
+      "UsersEstimate": 14274
     },
     {
       "ID": "ACH02",
@@ -18338,7 +18349,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "ACH03",
@@ -18346,7 +18357,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "ACH04",
@@ -18378,7 +18389,7 @@
       "Name": "The American Dream",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 3171
+      "UsersEstimate": 3172
     },
     {
       "ID": "ACH08",
@@ -18386,7 +18397,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 8809
+      "UsersEstimate": 8811
     },
     {
       "ID": "ACH09",
@@ -18426,7 +18437,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3171
+      "UsersEstimate": 3172
     },
     {
       "ID": "ACH14",
@@ -18450,7 +18461,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2819
+      "UsersEstimate": 2820
     },
     {
       "ID": "ACH17",
@@ -18506,7 +18517,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4404
+      "UsersEstimate": 4406
     },
     {
       "ID": "ACH24",
@@ -18546,7 +18557,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "ACH29",
@@ -18609,16 +18620,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 17618,
-      "Completed": 65
+      "Progressed": 17622,
+      "Completed": 66
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-12-30T17:59:29.9555098+00:00",
-  "LastChanged_Achievements": "2023-12-30T22:10:44.908754+00:00",
+  "LastChanged": "2023-12-30T23:01:31.9542716+00:00",
+  "LastChanged_Achievements": "2023-12-30T23:11:33.2497917+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:16.9169269+00:00",
-  "LastUpdate_Ratings": "2023-12-30T22:00:40.3830518+00:00",
-  "LastUpdate_Achievements": "2023-12-30T22:10:44.9088513+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:01:31.9542722+00:00",
+  "LastUpdate_Achievements": "2023-12-30T23:11:33.2498934+00:00"
 }

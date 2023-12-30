@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,467 |
+| The Old Grandmaster | 5.00% | ~37,468 |
 | Life is your teacher | 4.00% | ~29,974 |
 | Lightning Hands | 4.00% | ~29,974 |
 | The Assault | 3.00% | ~22,480 |
@@ -20,18 +20,18 @@ Number of Ratings: 9,492  (23.09.2022)
 | Old Child | 2.00% | ~14,987 |
 | Rumble in the Hangar | 2.00% | ~14,987 |
 | Diligence as a goal | 2.00% | ~1,173 |
-| Lady Wing Chun | 1.00% | ~7,493 |
-| Furious Fists | 1.00% | ~7,493 |
-| Kill Nil | 1.00% | ~7,493 |
-| Qi Gong: Mind | 1.00% | ~7,493 |
-| I know Kung-Fu | 1.00% | ~7,493 |
-| Kung-Fu Tussle | 1.00% | ~7,493 |
-| Path of the Prospect | 1.00% | ~7,493 |
-| Take damage to save time | 1.00% | ~7,493 |
-| Project Arena | 1.00% | ~586 |
+| Lady Wing Chun | 1.00% | ~7,494 |
+| Furious Fists | 1.00% | ~7,494 |
+| Kill Nil | 1.00% | ~7,494 |
+| Qi Gong: Mind | 1.00% | ~7,494 |
+| I know Kung-Fu | 1.00% | ~7,494 |
+| Kung-Fu Tussle | 1.00% | ~7,494 |
+| Path of the Prospect | 1.00% | ~7,494 |
+| Take damage to save time | 1.00% | ~7,494 |
+| Project Arena | 1.00% | ~587 |
 | Scareless | 0.90% | ~6,744 |
 | Dance of the Praying Mantis | 0.90% | ~6,744 |
-| Fight the way you practice | 0.70% | ~410 |
+| Fight the way you practice | 0.70% | ~411 |
 | Muk Yan Master | 0.60% | ~4,496 |
 | Martial Hub | 0.60% | ~352 |
 | Tiger on Fire | 0.50% | ~3,747 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~59 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 749,338 (Ranked 23)  
+Progressed: 749,350 (Ranked 23)  
 Completed: 12,969 (1.73%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,15 +321,15 @@ Completed: 12,969 (1.73%) (Ranked 142)
 | 2023-12-27 | 746,407 | 12,967 |
 | 2023-12-28 | 747,246 | 12,967 |
 | 2023-12-29 | 748,212 | 12,968 |
-| 2023-12-30 | 749,338 | 12,969 |
+| 2023-12-30 | 749,350 | 12,969 |
 ## Awards
 Max (Great Boss Battles): 7,052  (Ranked 55)  
-Sum: 12,490 (Ranked 84)  
+Sum: 12,492 (Ranked 84)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,052 |
-| This game has Diverse Characters | 688 |
+| This game has Diverse Characters | 690 |
 | This game has Challenging Combat | 634 |
 | This game has Amazing Storytelling | 612 |
 | This game has Amazing Characters | 602 |
@@ -689,4 +689,4 @@ Diff (max vs sum): -29
 | 2023-12-27 | 4.82 | - | 7,028 | 11,888 |
 | 2023-12-28 | 4.82 | - | 7,041 | 12,467 |
 | 2023-12-29 | 4.82 | - | 7,041 | 12,473 |
-| 2023-12-30 | 4.82 | - | 7,052 | 12,490 |
+| 2023-12-30 | 4.82 | - | 7,052 | 12,492 |

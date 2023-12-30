@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9149,18 +9149,24 @@
       "Rating": 4.06,
       "NumberOfAwards": 33193,
       "NumberOfAwardsMax": 5715
+    },
+    {
+      "Time": "2023-12-30T23:02:23.792795+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33198,
+      "NumberOfAwardsMax": 5720
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33193,
-  "NumberOfAwardsMax": 5715,
+  "NumberOfAwards": 33198,
+  "NumberOfAwardsMax": 5720,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5715
+      "Count": 5720
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9199,9 +9205,9 @@
       "Count": 3614
     }
   ],
-  "EOS_Progressed": 247886,
+  "EOS_Progressed": 247917,
   "EOS_Completed": 2578,
-  "EOS_NewPlayers": 4009,
+  "EOS_NewPlayers": 4017,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -37984,6 +37990,11 @@
       "Time": "2023-12-30T22:11:03.5745079+00:00",
       "NumProgressed": 247886,
       "NumCompleted": 2578
+    },
+    {
+      "Time": "2023-12-30T23:11:52.2248331+00:00",
+      "NumProgressed": 247917,
+      "NumCompleted": 2578
     }
   ],
   "TotalAchievements": 546,
@@ -39675,7 +39686,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1239
+      "UsersEstimate": 1240
     },
     {
       "ID": "objective_completed_35",
@@ -42267,7 +42278,7 @@
       "Name": "Arcane Suppression",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "objective_completed_1352",
@@ -42275,7 +42286,7 @@
       "Name": "Welcome to the Vrocks",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "objective_completed_1557",
@@ -42291,7 +42302,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "objective_completed_1562",
@@ -42307,7 +42318,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "objective_completed_598",
@@ -42355,28 +42366,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 214160,
+      "Progressed": 214191,
       "Completed": 4102
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 247886,
+      "Progressed": 247917,
       "Completed": 2578
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-30T21:02:12.1889786+00:00",
-  "LastChanged_Achievements": "2023-12-30T22:11:03.5745076+00:00",
+  "LastChanged": "2023-12-30T23:02:23.7927948+00:00",
+  "LastChanged_Achievements": "2023-12-30T23:11:52.2248325+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-30T22:01:30.8677115+00:00",
-  "LastUpdate_Achievements": "2023-12-30T22:11:03.5770758+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:02:23.7927954+00:00",
+  "LastUpdate_Achievements": "2023-12-30T23:11:52.227265+00:00"
 }

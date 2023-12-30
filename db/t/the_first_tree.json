@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39777,
+  "EOS_Progressed": 39779,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 387,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -22532,6 +22532,11 @@
       "Time": "2023-12-30T22:08:53.3332272+00:00",
       "NumProgressed": 39777,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-12-30T23:09:37.3951068+00:00",
+      "NumProgressed": 39779,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 14,
@@ -22559,7 +22564,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 10342
+      "UsersEstimate": 10343
     },
     {
       "ID": "allItems",
@@ -22623,7 +22628,7 @@
       "Name": "Hare Today",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 9546
+      "UsersEstimate": 9547
     },
     {
       "ID": "firstItem",
@@ -22631,7 +22636,7 @@
       "Name": "Two Worlds",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 30231
+      "UsersEstimate": 30232
     },
     {
       "ID": "roots",
@@ -22654,15 +22659,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 39777,
+      "Progressed": 39779,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-12-25T15:57:40.6217361+00:00",
-  "LastChanged_Achievements": "2023-12-30T22:08:53.3332268+00:00",
+  "LastChanged_Achievements": "2023-12-30T23:09:37.395106+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:16.6802538+00:00",
-  "LastUpdate_Ratings": "2023-12-30T22:01:52.3091727+00:00",
-  "LastUpdate_Achievements": "2023-12-30T22:08:53.3333455+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:03:35.5678446+00:00",
+  "LastUpdate_Achievements": "2023-12-30T23:09:37.3952651+00:00"
 }

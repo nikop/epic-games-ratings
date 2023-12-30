@@ -5,28 +5,28 @@ Rating: 4.46 (Ranked 673)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~133,996 |
-| My First Runbow | 50.00% | ~126,411 |
-| It's The Fall | 26.00% | ~65,734 |
-| The Stunner | 23.00% | ~58,149 |
+| In The Zone | 53.00% | ~133,998 |
+| My First Runbow | 50.00% | ~126,413 |
+| It's The Fall | 26.00% | ~65,735 |
+| The Stunner | 23.00% | ~58,150 |
 | Be Aggressive | 21.00% | ~53,093 |
-| Curator | 20.00% | ~50,564 |
-| Crowning Around | 18.00% | ~45,508 |
+| Curator | 20.00% | ~50,565 |
+| Crowning Around | 18.00% | ~45,509 |
 | Can You Dig It? | 17.00% | ~42,980 |
 | You Juan-A-Go? | 16.00% | ~40,452 |
-| Chan-tastic | 15.00% | ~37,923 |
-| Muddy Waters | 14.00% | ~35,395 |
+| Chan-tastic | 15.00% | ~37,924 |
+| Muddy Waters | 14.00% | ~35,396 |
 | Toasty! | 13.00% | ~32,867 |
 | Lazy Laser | 8.00% | ~20,226 |
 | Just A Phaze | 7.00% | ~17,698 |
 | Into The Drift | 7.00% | ~17,698 |
 | Ready? Fight! | 7.00% | ~17,698 |
-| Butt Butt | 6.00% | ~15,169 |
+| Butt Butt | 6.00% | ~15,170 |
 | He Who Laughs Last | 3.00% | ~7,585 |
 | Shoo, Cat! | 3.00% | ~7,585 |
-| And You're Okay | 2.00% | ~5,056 |
-| Blotbuster | 2.00% | ~5,056 |
-| Thunderstruck | 2.00% | ~5,056 |
+| And You're Okay | 2.00% | ~5,057 |
+| Blotbuster | 2.00% | ~5,057 |
+| Thunderstruck | 2.00% | ~5,057 |
 | Just A Bit | 1.00% | ~2,528 |
 | Tubular, Dude | 1.00% | ~2,528 |
 | What A Trip | 1.00% | ~2,528 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 673)
 | Talent Scout | 0.10% | ~253 |
 | True Completionist | 0.10% | ~253 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,822 (Ranked 66)  
+Progressed: 252,826 (Ranked 66)  
 Completed: 6 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 6 (0.00%) (Ranked 391)
 | 2023-12-27 | 252,663 | 6 |
 | 2023-12-28 | 252,710 | 6 |
 | 2023-12-29 | 252,764 | 6 |
-| 2023-12-30 | 252,822 | 6 |
+| 2023-12-30 | 252,826 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

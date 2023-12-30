@@ -24,8 +24,8 @@ Rating: 4.63 (Ranked 356)
 | Botanical Breakthrough | 0.90% | ~79 |
 | Beach Comber | 0.80% | ~70 |
 | Azorian Anniversary | 0.70% | ~61 |
+| Skilled | 0.70% | ~61 |
 | Flaming Hot Completos | 0.60% | ~53 |
-| Skilled | 0.60% | ~53 |
 | Fae Farmer | 0.50% | ~44 |
 | Rumble in the Jumble | 0.50% | ~44 |
 | Fanatical Farmer | 0.50% | ~44 |

@@ -997,9 +997,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4249,
+  "EOS_Progressed": 4250,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8042,6 +8042,11 @@
       "Time": "2023-12-30T20:04:51.0662298+00:00",
       "NumProgressed": 4249,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T23:06:59.3481484+00:00",
+      "NumProgressed": 4250,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -8062,7 +8067,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 2337
+      "UsersEstimate": 2338
     },
     {
       "ID": "achievement_11",
@@ -8070,7 +8075,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "achievement_12",
@@ -8094,7 +8099,7 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1657
+      "UsersEstimate": 1658
     },
     {
       "ID": "achievement_15",
@@ -8102,7 +8107,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2294
+      "UsersEstimate": 2295
     },
     {
       "ID": "achievement_16",
@@ -8198,7 +8203,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "achievement_8",
@@ -8221,7 +8226,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4249,
+      "Progressed": 4250,
       "Completed": 0
     }
   ],
@@ -8229,8 +8234,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-28T15:58:42.1942443+00:00",
-  "LastChanged_Achievements": "2023-12-30T22:05:50.0865162+00:00",
+  "LastChanged_Achievements": "2023-12-30T23:06:59.348148+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:10.6313253+00:00",
-  "LastUpdate_Ratings": "2023-12-30T22:00:35.666748+00:00",
-  "LastUpdate_Achievements": "2023-12-30T22:05:50.0865593+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:01:27.2788123+00:00",
+  "LastUpdate_Achievements": "2023-12-30T23:06:59.3481972+00:00"
 }

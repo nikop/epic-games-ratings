@@ -6,15 +6,15 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~52,492 |
-| Get Busy Living | 16.00% | ~33,595 |
-| Samuel Norton | 9.00% | ~18,897 |
-| Spare The Rod | 4.00% | ~8,399 |
-| Don't Put Me In The Dark | 3.00% | ~6,299 |
-| Wait and Hope | 3.00% | ~6,299 |
-| I May Have Found A Way Out Of Here | 3.00% | ~6,299 |
-| Throw The Book At Them | 2.00% | ~4,199 |
-| Iron Bars | 2.00% | ~4,199 |
+| Stone Walls | 25.00% | ~52,498 |
+| Get Busy Living | 16.00% | ~33,599 |
+| Samuel Norton | 9.00% | ~18,899 |
+| Spare The Rod | 4.00% | ~8,400 |
+| Don't Put Me In The Dark | 3.00% | ~6,300 |
+| Wait and Hope | 3.00% | ~6,300 |
+| I May Have Found A Way Out Of Here | 3.00% | ~6,300 |
+| Throw The Book At Them | 2.00% | ~4,200 |
+| Iron Bars | 2.00% | ~4,200 |
 | D.B. Cooper | 1.00% | ~2,100 |
 | Reformation | 0.60% | ~1,260 |
 | Crowd Control | 0.50% | ~1,050 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~210 |
 | ... It's What You Can Prove | 0.10% | ~210 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,969 (Ranked 77)  
+Progressed: 209,993 (Ranked 77)  
 Completed: 12 (0.01%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,10 +277,10 @@ Completed: 12 (0.01%) (Ranked 369)
 | 2023-12-27 | 208,684 | 12 |
 | 2023-12-28 | 209,100 | 12 |
 | 2023-12-29 | 209,513 | 12 |
-| 2023-12-30 | 209,969 | 12 |
+| 2023-12-30 | 209,993 | 12 |
 ## Awards
 Max (Great for Beginners): 622  (Ranked 199)  
-Sum: 4,753 (Ranked 150)  
+Sum: 4,754 (Ranked 150)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -290,7 +290,7 @@ Diff (max vs sum): 49
 | This game has Quickly Understood Controls | 558 |
 | This game is Relaxing | 554 |
 | This game has Diverse Characters | 520 |
-| This game has Amazing Storytelling | 506 |
+| This game has Amazing Storytelling | 507 |
 | This game has Amazing Characters | 462 |
 | This game is Educational | 459 |
 | This game has a Creative Community | 363 |
@@ -639,4 +639,4 @@ Diff (max vs sum): 49
 | 2023-12-27 | 4.61 | - | 618 | 4,725 |
 | 2023-12-28 | 4.61 | - | 619 | 4,738 |
 | 2023-12-29 | 4.61 | - | 619 | 4,745 |
-| 2023-12-30 | 4.61 | - | 622 | 4,753 |
+| 2023-12-30 | 4.61 | - | 622 | 4,754 |

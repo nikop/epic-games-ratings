@@ -11,7 +11,7 @@
 | No Asperascope | 58.00% | ~211 |
 | Survivor | 56.00% | ~175 |
 | Cornivore | 54.00% | ~196 |
-| I Believe I Can Fly | 49.00% | ~178 |
+| I Believe I Can Fly | 50.00% | ~182 |
 | No Diggity | 44.00% | ~138 |
 | Early Survivor | 40.00% | ~125 |
 | Bouncemato | 31.00% | ~97 |
@@ -19,9 +19,9 @@
 | Amateur Survivor | 29.00% | ~91 |
 | 15K | 27.00% | ~98 |
 | Drinking Problem | 23.00% | ~83 |
+| Quick-Draw Pod | 22.00% | ~69 |
 | Grave Digger | 22.00% | ~69 |
 | Pork Chop Express | 21.00% | ~76 |
-| Quick-Draw Pod | 21.00% | ~66 |
 | Professional Survivor | 20.00% | ~63 |
 | Carrocketeer | 18.00% | ~65 |
 | Skin Of Your Teeth | 17.00% | ~62 |
@@ -36,8 +36,8 @@
 | Quadsparagus | 10.00% | ~31 |
 | Bring Home The Bacon | 9.00% | ~33 |
 | Expert Survivor | 9.00% | ~28 |
+| Chick Magnet | 6.00% | ~22 |
 | Early Bird | 6.00% | ~22 |
-| Chick Magnet | 5.00% | ~18 |
 | I Have The High Ground | 5.00% | ~18 |
 | Pyromaniac | 5.00% | ~16 |
 | Honk Honk | 3.00% | ~11 |

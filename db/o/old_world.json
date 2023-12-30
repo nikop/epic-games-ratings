@@ -18993,9 +18993,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
       "SetID": "9201eeb",
       "Name": "Ambitious",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ANCIENT",
@@ -21535,8 +21535,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-29T16:02:55.9624641+00:00",
-  "LastChanged_Achievements": "2023-12-30T22:11:02.5016422+00:00",
+  "LastChanged_Achievements": "2023-12-30T23:11:51.5449981+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:47.5878363+00:00",
-  "LastUpdate_Ratings": "2023-12-30T22:03:10.1244917+00:00",
-  "LastUpdate_Achievements": "2023-12-30T22:11:02.5026659+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:04:14.2632542+00:00",
+  "LastUpdate_Achievements": "2023-12-30T23:11:51.5460214+00:00"
 }

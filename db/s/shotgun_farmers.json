@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1618,9 +1618,9 @@
       "ID": "ach_all_points_in_chicken_run",
       "SetID": "cmg602e",
       "Name": "Chick Magnet",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 22
     },
     {
       "ID": "ach_crushed_by_supply_drop",
@@ -1674,9 +1674,9 @@
       "ID": "ach_first_rocket_jump",
       "SetID": "cmg602e",
       "Name": "I Believe I Can Fly",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 182
     },
     {
       "ID": "ach_heal_x_points_with_health_pack",
@@ -1994,9 +1994,9 @@
       "ID": "ach_kill_pistol_with_pistol",
       "SetID": "bf10c8p",
       "Name": "Quick-Draw Pod",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 69
     },
     {
       "ID": "ach_kill_self_with_pumpkin",
@@ -2217,8 +2217,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-12-30T22:07:33.9767443+00:00",
-  "LastUpdate_AppInfo": "2023-12-23T22:57:11.7304355+00:00",
-  "LastUpdate_Ratings": "2023-12-30T21:57:50.0514988+00:00",
-  "LastUpdate_Achievements": "2023-12-30T22:07:33.9768171+00:00"
+  "LastChanged_Achievements": "2023-12-30T23:08:47.5086834+00:00",
+  "LastUpdate_AppInfo": "2023-12-30T22:57:22.0984581+00:00",
+  "LastUpdate_Ratings": "2023-12-30T22:58:37.2070396+00:00",
+  "LastUpdate_Achievements": "2023-12-30T23:08:47.5087625+00:00"
 }

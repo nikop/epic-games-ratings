@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1366,
+  "EOS_Progressed": 1367,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.56,
   "EosHistory": [
@@ -4704,6 +4704,11 @@
       "Time": "2023-12-30T21:06:51.326643+00:00",
       "NumProgressed": 1366,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-30T23:07:02.0799811+00:00",
+      "NumProgressed": 1367,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4714,9 +4719,9 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 369
+      "UsersEstimate": 355
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -4724,7 +4729,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "_03_FinishAct1",
@@ -4732,7 +4737,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4772,7 +4777,7 @@
       "Name": "Swabbie",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "_09_Completion_20",
@@ -4844,7 +4849,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -4923,7 +4928,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1366,
+      "Progressed": 1367,
       "Completed": 35
     }
   ],
@@ -4931,8 +4936,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2023-12-30T22:05:52.6855269+00:00",
+  "LastChanged_Achievements": "2023-12-30T23:07:02.0799805+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-30T22:00:36.9674916+00:00",
-  "LastUpdate_Achievements": "2023-12-30T22:05:52.6855637+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:01:28.3989277+00:00",
+  "LastUpdate_Achievements": "2023-12-30T23:07:02.0800215+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3814,9 +3814,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 242060,
+  "EOS_Progressed": 242061,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 515,
+  "EOS_NewPlayers": 514,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -30124,6 +30124,11 @@
       "Time": "2023-12-30T22:11:01.4167721+00:00",
       "NumProgressed": 242060,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-30T23:11:50.3857508+00:00",
+      "NumProgressed": 242061,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -30733,9 +30738,9 @@
       "ID": "MULTIKILL30",
       "SetID": "5l8oe0h",
       "Name": "C-C-Combo",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1936
     },
     {
       "ID": "NOEPIC",
@@ -31238,13 +31243,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242060,
+      "Progressed": 242061,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3540,
+      "Progressed": 3541,
       "Completed": 416
     }
   ],
@@ -31252,8 +31257,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-30T08:01:44.1465561+00:00",
-  "LastChanged_Achievements": "2023-12-30T22:11:01.4167719+00:00",
+  "LastChanged_Achievements": "2023-12-30T23:11:50.3857505+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-30T22:02:40.7953955+00:00",
-  "LastUpdate_Achievements": "2023-12-30T22:11:01.4170447+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:03:43.2203708+00:00",
+  "LastUpdate_Achievements": "2023-12-30T23:11:50.3860241+00:00"
 }

@@ -20,8 +20,8 @@ Rating: 4.65 (Ranked 324)
 | Magic Accidents | 59.00% | ~397 |
 | The Ascent | 58.00% | ~390 |
 | It's Warm and Cozy at Home | 58.00% | ~390 |
+| Minions, Minions! | 56.00% | ~377 |
 | Trap Master | 55.00% | ~370 |
-| Minions, Minions! | 55.00% | ~370 |
 | The Big Eaty | 54.00% | ~363 |
 | Hard Work | 53.00% | ~357 |
 | “… like son” | 51.00% | ~343 |
@@ -58,8 +58,8 @@ Rating: 4.65 (Ranked 324)
 | To Infinity And Beyond! | 18.00% | ~121 |
 | Sacrificial Pit = Garbage Disposal? | 17.00% | ~114 |
 | Evilification | 17.00% | ~114 |
+| Mirror, Mirror | 16.00% | ~108 |
 | Heal Heal Blessing | 16.00% | ~108 |
-| Mirror, Mirror | 15.00% | ~101 |
 | Untouchable | 15.00% | ~101 |
 | Laser Eyes Are So Useless | 13.00% | ~87 |
 | Gorgu is in the Best of Health | 12.00% | ~81 |

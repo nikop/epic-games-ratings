@@ -22,7 +22,7 @@ Rating: 4.48 (Ranked 650)
 | We've Just Begun | 14.00% | ~438 |
 | Is It the Right Size? | 9.00% | ~282 |
 | Stamina Star | 8.00% | ~251 |
-| Evangelist | 6.00% | ~188 |
+| Evangelist | 7.00% | ~219 |
 | Make It Your Own! | 5.00% | ~157 |
 | Cherry Blossom and Temples | 4.00% | ~125 |
 | The Road to Liberty | 4.00% | ~125 |

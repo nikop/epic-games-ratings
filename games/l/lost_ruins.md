@@ -21,8 +21,8 @@
 | Lumberjack | 11.00% | ~70 |
 | Troubleshooter | 10.00% | ~64 |
 | Money Swag | 8.00% | ~51 |
-| Oops | 7.00% | ~44 |
-| Shield Crusher | 7.00% | ~44 |
+| Oops | 7.00% | ~45 |
+| Shield Crusher | 7.00% | ~45 |
 | Treasure Hunter | 6.00% | ~38 |
 | Explorer | 5.00% | ~32 |
 | Trio | 5.00% | ~32 |
@@ -45,7 +45,7 @@
 | Cryomancer | 0.30% | ~2 |
 | Hardboiled | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 635 (Ranked 323)  
+Progressed: 636 (Ranked 323)  
 Completed: 1 (0.16%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 1 (0.16%) (Ranked 283)
 | 2023-12-27 | 622 | 1 |
 | 2023-12-28 | 627 | 1 |
 | 2023-12-29 | 630 | 1 |
-| 2023-12-30 | 635 | 1 |
+| 2023-12-30 | 636 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

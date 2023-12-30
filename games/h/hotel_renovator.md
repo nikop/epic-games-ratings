@@ -1,7 +1,7 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.35 (Ranked 816)  
+Rating: 4.35 (Ranked 817)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -21,8 +21,8 @@ Rating: 4.35 (Ranked 816)
 | No need to call anyone | 38.00% | ~515 |
 | Big fortune | 31.00% | ~420 |
 | Still more work ahead | 29.00% | ~393 |
+| Aesop's fable | 27.00% | ~366 |
 | Kaboom | 26.00% | ~353 |
-| Aesop's fable | 26.00% | ~353 |
 | Hotel sleuthing | 26.00% | ~353 |
 | Nearly there | 24.00% | ~325 |
 | Broken heart | 22.00% | ~298 |

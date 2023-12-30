@@ -8,16 +8,16 @@
 | MLG 360 no scope kill! | 94.00% | ~133 |
 | Are you ready to rumble? | 94.00% | ~133 |
 | That's what cheese said! | 89.00% | ~126 |
-| AHHHHHH.....I'M ON FIRE!!! | 86.00% | ~122 |
-| I like you...but I have to kill you... | 86.00% | ~122 |
+| AHHHHHH.....I'M ON FIRE!!! | 87.00% | ~124 |
+| I like you...but I have to kill you... | 87.00% | ~124 |
 | Not so hip anymore! | 85.00% | ~121 |
+| Blurry depth perception | 82.00% | ~116 |
 | Nerd | 81.00% | ~115 |
-| Blurry depth perception | 81.00% | ~115 |
-| Up and down | 79.00% | ~112 |
-| Rolling, Rolling, Rolling | 75.00% | ~106 |
-| Fire-fighter! | 66.00% | ~94 |
-| Oh, you're up to no gouda! | 64.00% | ~91 |
-| Make Love not War-Craft a Mistlefoe | 62.00% | ~88 |
+| Up and down | 80.00% | ~114 |
+| Rolling, Rolling, Rolling | 76.00% | ~108 |
+| Fire-fighter! | 67.00% | ~95 |
+| Oh, you're up to no gouda! | 65.00% | ~92 |
+| Make Love not War-Craft a Mistlefoe | 63.00% | ~89 |
 | Meat grinder | 61.00% | ~87 |
 | You're not going to blow me up! | 56.00% | ~80 |
 | Mushroom soup of the day | 53.00% | ~75 |
@@ -34,7 +34,7 @@
 | You can't stop me, bro! | 35.00% | ~50 |
 | Pasta Bolognese | 35.00% | ~50 |
 | You are no match for me, Billy! | 34.00% | ~48 |
-| Karaoke king | 33.00% | ~47 |
+| Karaoke king | 34.00% | ~48 |
 | Meatballs, coming up! | 32.00% | ~45 |
 | Catch the bus with me! | 32.00% | ~45 |
 | I'm going to get a concussion | 30.00% | ~43 |

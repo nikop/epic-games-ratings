@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 3793,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3689,9 +3689,9 @@
       "Count": 337
     }
   ],
-  "EOS_Progressed": 19737,
+  "EOS_Progressed": 19741,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 688,
+  "EOS_NewPlayers": 690,
   "EOS_NewCompleters": -3,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -17784,6 +17784,11 @@
       "Time": "2023-12-30T22:03:55.3598044+00:00",
       "NumProgressed": 19737,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-30T23:05:01.4980589+00:00",
+      "NumProgressed": 19741,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18084,7 +18089,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "WinPrestige10",
@@ -18204,7 +18209,7 @@
       "Name": "Frosts",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "WinNearGreed",
@@ -18212,7 +18217,7 @@
       "Name": "Land of Greed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "WinNearLibrary",
@@ -18267,15 +18272,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19737,
+      "Progressed": 19741,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-30T22:02:49.2349557+00:00",
-  "LastChanged_Achievements": "2023-12-30T22:03:55.3598041+00:00",
+  "LastChanged_Achievements": "2023-12-30T23:05:01.4980581+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-30T22:02:49.2349562+00:00",
-  "LastUpdate_Achievements": "2023-12-30T22:03:55.3599077+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:03:51.9770349+00:00",
+  "LastUpdate_Achievements": "2023-12-30T23:05:01.4981665+00:00"
 }

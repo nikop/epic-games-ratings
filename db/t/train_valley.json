@@ -144,7 +144,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 608,
+  "EOS_Progressed": 609,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
@@ -1704,6 +1704,11 @@
       "Time": "2023-12-30T20:03:49.7079109+00:00",
       "NumProgressed": 608,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-30T23:05:35.3092653+00:00",
+      "NumProgressed": 609,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1715,7 +1720,7 @@
       "Name": "Getting started",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "02_collector",
@@ -1723,7 +1728,7 @@
       "Name": "Collector",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "03_philatelist",
@@ -1747,7 +1752,7 @@
       "Name": "Pangs of conscience",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "06_living",
@@ -1771,7 +1776,7 @@
       "Name": "America",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "09_russia",
@@ -1811,7 +1816,7 @@
       "Name": "It\u0027s no coincidence.",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "14_woodcutter",
@@ -1843,7 +1848,7 @@
       "Name": "Builder",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "18_foreman",
@@ -1875,7 +1880,7 @@
       "Name": "Missed it!",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "22_ouroboros",
@@ -1939,7 +1944,7 @@
       "Name": "Madness!",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "30_completelynuts",
@@ -1947,7 +1952,7 @@
       "Name": "Completely nuts!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "31_chancellor",
@@ -1979,7 +1984,7 @@
       "Name": "Need to think",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "35_achtung",
@@ -2026,15 +2031,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 608,
+      "Progressed": 609,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-12-18T07:02:31.8741871+00:00",
-  "LastChanged_Achievements": "2023-12-30T22:04:28.3907594+00:00",
-  "LastUpdate_AppInfo": "2023-12-23T21:57:20.7345819+00:00",
-  "LastUpdate_Ratings": "2023-12-30T22:00:27.4497765+00:00",
-  "LastUpdate_Achievements": "2023-12-30T22:04:28.3907919+00:00"
+  "LastChanged_Achievements": "2023-12-30T23:05:35.3092648+00:00",
+  "LastUpdate_AppInfo": "2023-12-30T22:57:40.4916275+00:00",
+  "LastUpdate_Ratings": "2023-12-30T23:01:18.7724542+00:00",
+  "LastUpdate_Achievements": "2023-12-30T23:05:35.3092973+00:00"
 }

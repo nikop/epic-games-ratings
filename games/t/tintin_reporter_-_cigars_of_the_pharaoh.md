@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 74.00% | ~82 |
+| My Papyrus! | 75.00% | ~83 |
 | A Loyal Friend | 39.00% | ~43 |
 | Abandon Ship! | 28.00% | ~31 |
 | The Tomb of Kih-Oskh | 22.00% | ~24 |
@@ -12,10 +12,10 @@
 | The Curse of Kih-Oskh | 17.00% | ~19 |
 | It's a Deal! | 13.00% | ~14 |
 | Cat Lover | 12.00% | ~13 |
+| In the Name of the Law | 11.00% | ~12 |
+| Au Revoir, Abudin | 11.00% | ~12 |
 | Dynamite, Treason and Coconuts | 11.00% | ~12 |
 | Save a Friend | 11.00% | ~12 |
-| In the Name of the Law | 10.00% | ~11 |
-| Au Revoir, Abudin | 10.00% | ~11 |
 | Mysterious Bungalow | 8.00% | ~9 |
 | Mummy Nightmare | 8.00% | ~9 |
 | The Eyes! | 7.00% | ~8 |

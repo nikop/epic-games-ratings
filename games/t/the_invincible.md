@@ -7,7 +7,7 @@ Rating: 4.58 (Ranked 463)
 | ---- | ---------- | ----- |
 | The Camp | 67.00% | ~799 |
 | The Teleprobe | 54.00% | ~644 |
-| The City | 48.00% | ~573 |
+| The City | 49.00% | ~585 |
 | The field base | 44.00% | ~525 |
 | The Alliance | 38.00% | ~453 |
 | Survivors | 37.00% | ~441 |
@@ -15,7 +15,7 @@ Rating: 4.58 (Ranked 463)
 | The End | 34.00% | ~406 |
 | Krauta is alive | 27.00% | ~322 |
 | The Necroevolution | 27.00% | ~322 |
-| Peacemaker | 21.00% | ~251 |
+| Peacemaker | 22.00% | ~262 |
 | Volcanologist | 21.00% | ~251 |
 | On her own | 20.00% | ~239 |
 | Fierce fight | 19.00% | ~227 |

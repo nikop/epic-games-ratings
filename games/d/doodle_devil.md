@@ -6,12 +6,12 @@
 | ---- | ---------- | ----- |
 | Paradise lost | 97.00% | ~86 |
 | Dark Kingdom Come | 76.00% | ~68 |
-| Master of Sins | 63.00% | ~56 |
+| Master of Sins | 64.00% | ~57 |
 | Lucky Strike | 61.00% | ~54 |
-| Cardinal Sins | 49.00% | ~44 |
-| Warm and Fuzzy | 49.00% | ~44 |
+| Cardinal Sins | 51.00% | ~45 |
+| Warm and Fuzzy | 51.00% | ~45 |
 | Master of Warfare | 37.00% | ~33 |
-| Vicious Delicious | 27.00% | ~24 |
+| Vicious Delicious | 28.00% | ~25 |
 | Hellfire | 25.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 89 (Ranked 497)  

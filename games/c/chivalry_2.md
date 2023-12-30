@@ -1,11 +1,11 @@
 # Chivalry 2
 [Store](https://store.epicgames.com/en-US/p/chivalry-2)  
 [View Rawdata](../../db/c/chivalry_2.json)  
-Rating: 4.60 (Ranked 426)  
+Rating: 4.60 (Ranked 425)  
 Number of Ratings: 18,078  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 5,142  (Ranked 74)  
-Sum: 31,463 (Ranked 44)  
+Sum: 31,467 (Ranked 44)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -13,7 +13,7 @@ Diff (max vs sum): 30
 | This game is Extremely Fun | 4,754 |
 | This game has Competitive Players | 4,702 |
 | This game is Highly Recommended | 4,667 |
-| This game has Quickly Understood Controls | 4,315 |
+| This game has Quickly Understood Controls | 4,319 |
 | This game has Amazing Characters | 4,148 |
 | This game has Amazing Storytelling | 3,735 |
 | This game has Obsessive Gameplay | 2,760 |
@@ -364,4 +364,4 @@ Diff (max vs sum): 30
 | 2023-12-27 | 4.60 | - | 5,128 | 31,388 |
 | 2023-12-28 | 4.60 | - | 5,135 | 31,409 |
 | 2023-12-29 | 4.60 | - | 5,142 | 31,435 |
-| 2023-12-30 | 4.60 | - | 5,142 | 31,463 |
+| 2023-12-30 | 4.60 | - | 5,142 | 31,467 |

@@ -2,7 +2,7 @@
   "ID": "9de65f6db18c4757a84e639d9a3e5a97",
   "Name": "Vagrus - The Riven Realms",
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
-  "Ranking_EOS_Progress": 405,
+  "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 155,
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 257,
+  "EOS_Progressed": 258,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
@@ -1036,6 +1036,11 @@
       "Time": "2023-12-30T20:06:14.4437191+00:00",
       "NumProgressed": 257,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T23:08:55.2011534+00:00",
+      "NumProgressed": 258,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -1045,9 +1050,9 @@
       "ID": "Vanilla_100OnACCRoll",
       "SetID": "27kik8p",
       "Name": "Randomized",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "Vanilla_Abolitionists",
@@ -1125,9 +1130,9 @@
       "ID": "Vanilla_CargoEfficiencyTier1",
       "SetID": "27kik8p",
       "Name": "Quartermaster",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "Vanilla_CargoEfficiencyTier2",
@@ -1213,9 +1218,9 @@
       "ID": "Vanilla_CompanionMaxedOut",
       "SetID": "27kik8p",
       "Name": "Potential Unlocked",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "Vanilla_CompanionSkillsMaxedOut",
@@ -1389,9 +1394,9 @@
       "ID": "Vanilla_FirstFactionTier5Neg",
       "SetID": "27kik8p",
       "Name": "Despised",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "Vanilla_FirstWin",
@@ -1663,7 +1668,7 @@
       "Name": "A Second Chance",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1797,9 +1802,9 @@
       "ID": "Vanilla_UnseenPatterns",
       "SetID": "27kik8p",
       "Name": "Unseen Patterns",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "Vanilla_VagrusMaxedOut",
@@ -1838,7 +1843,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 257,
+      "Progressed": 258,
       "Completed": 0
     }
   ],
@@ -1846,8 +1851,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-12-30T22:07:41.3897922+00:00",
+  "LastChanged_Achievements": "2023-12-30T23:08:55.2011531+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:00.8212295+00:00",
-  "LastUpdate_Ratings": "2023-12-30T21:57:10.4485383+00:00",
-  "LastUpdate_Achievements": "2023-12-30T22:07:41.3898882+00:00"
+  "LastUpdate_Ratings": "2023-12-30T22:57:56.0800645+00:00",
+  "LastUpdate_Achievements": "2023-12-30T23:08:55.2012595+00:00"
 }
