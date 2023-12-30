@@ -1,25 +1,25 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 398)  
+Rating: 4.61 (Ranked 397)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~25,728 |
-| Exploitative | 4.00% | ~20,582 |
-| Point Shooting | 4.00% | ~20,582 |
-| Wet Feet | 4.00% | ~20,582 |
-| High Speed Low Drag | 3.00% | ~15,436 |
-| Lucky | 3.00% | ~15,436 |
-| Stylin' | 3.00% | ~15,436 |
-| Turf War | 3.00% | ~15,436 |
-| Banged | 2.00% | ~10,291 |
-| Checkpoint Victory | 2.00% | ~10,291 |
-| First Blood | 2.00% | ~10,291 |
-| Flaccid Paralysis | 2.00% | ~10,291 |
-| Push Victory | 2.00% | ~10,291 |
-| Self-destructive | 2.00% | ~10,291 |
+| Wallbanger | 5.00% | ~25,729 |
+| Exploitative | 4.00% | ~20,583 |
+| Point Shooting | 4.00% | ~20,583 |
+| Wet Feet | 4.00% | ~20,583 |
+| High Speed Low Drag | 3.00% | ~15,437 |
+| Lucky | 3.00% | ~15,437 |
+| Stylin' | 3.00% | ~15,437 |
+| Turf War | 3.00% | ~15,437 |
+| Banged | 2.00% | ~10,292 |
+| Checkpoint Victory | 2.00% | ~10,292 |
+| First Blood | 2.00% | ~10,292 |
+| Flaccid Paralysis | 2.00% | ~10,292 |
+| Push Victory | 2.00% | ~10,292 |
+| Self-destructive | 2.00% | ~10,292 |
 | Blindfire | 1.00% | ~5,146 |
 | Ruthless | 1.00% | ~5,146 |
 | Semper Paratus | 1.00% | ~5,146 |
@@ -27,8 +27,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | Efficient | 0.90% | ~4,631 |
 | Mount & Gun | 0.90% | ~4,631 |
 | Personal | 0.90% | ~4,631 |
-| Grounded | 0.80% | ~4,116 |
-| Play to Win | 0.80% | ~4,116 |
+| Grounded | 0.80% | ~4,117 |
+| Play to Win | 0.80% | ~4,117 |
 | Special Delivery | 0.70% | ~3,602 |
 | Firefight Victory | 0.60% | ~3,087 |
 | #1 | 0.60% | ~3,087 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~515 |
 | Road Hazard | 0.10% | ~515 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 514,550 (Ranked 37)  
+Progressed: 514,576 (Ranked 37)  
 Completed: 2 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 2 (0.00%) (Ranked 390)
 | 2023-12-27 | 512,843 | 2 |
 | 2023-12-28 | 513,607 | 2 |
 | 2023-12-29 | 514,451 | 2 |
-| 2023-12-30 | 514,550 | 2 |
+| 2023-12-30 | 514,576 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 413  (Ranked 237)  
 Sum: 3,299 (Ranked 177)  

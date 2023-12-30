@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17283,
+  "EOS_Progressed": 17286,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1586,
+  "EOS_NewPlayers": 1587,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10644,6 +10644,11 @@
       "Time": "2023-12-30T01:51:32.1925168+00:00",
       "NumProgressed": 17283,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T02:26:11.7804263+00:00",
+      "NumProgressed": 17286,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -10776,7 +10781,7 @@
       "Name": "Poolrooms",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "ACH_WINLEVEL4",
@@ -10816,7 +10821,7 @@
       "Name": "Motion",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "ACH_WINLEVEL9999999",
@@ -10840,21 +10845,21 @@
       "Name": "Lights Out",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     }
   ],
   "AchievementSets": [
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 17283,
+      "Progressed": 17286,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-12-30T01:51:32.1925166+00:00",
+  "LastChanged_Achievements": "2023-12-30T02:26:11.780426+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:06.2356641+00:00",
-  "LastUpdate_Ratings": "2023-12-30T01:45:47.5900891+00:00",
-  "LastUpdate_Achievements": "2023-12-30T01:51:32.1926054+00:00"
+  "LastUpdate_Ratings": "2023-12-30T02:22:04.2126705+00:00",
+  "LastUpdate_Achievements": "2023-12-30T02:26:11.7804839+00:00"
 }

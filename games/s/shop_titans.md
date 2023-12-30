@@ -1,24 +1,24 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 1,035)  
+Rating: 3.99 (Ranked 1,036)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 10.00% | ~14,837 |
-| Basic in Bulk | 9.00% | ~13,353 |
-| Titan's First Steps | 9.00% | ~13,353 |
+| Basic in Bulk | 9.00% | ~13,354 |
+| Titan's First Steps | 9.00% | ~13,354 |
 | Tinkle of Coins | 8.00% | ~11,870 |
 | Disintermediation | 7.00% | ~10,386 |
 | Capitalism Ho! | 7.00% | ~10,386 |
 | It's Free Real Estate | 6.00% | ~8,902 |
 | Budding Merchant | 6.00% | ~8,902 |
-| One Easy Payment | 5.00% | ~7,418 |
-| Some Assembly Required | 5.00% | ~7,418 |
-| Another Satisfied Customer | 5.00% | ~7,418 |
-| Pretty Penny | 5.00% | ~7,418 |
-| Own the Means of Production | 5.00% | ~7,418 |
+| One Easy Payment | 5.00% | ~7,419 |
+| Some Assembly Required | 5.00% | ~7,419 |
+| Another Satisfied Customer | 5.00% | ~7,419 |
+| Pretty Penny | 5.00% | ~7,419 |
+| Own the Means of Production | 5.00% | ~7,419 |
 | The Daily Grind | 4.00% | ~5,935 |
 | Bounty Hunters | 4.00% | ~5,935 |
 | Demand for Supplies | 4.00% | ~5,935 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~593 |
 | Capitalist Camaraderie | 0.20% | ~297 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,370 (Ranked 83)  
+Progressed: 148,373 (Ranked 83)  
 Completed: 338 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -373,7 +373,7 @@ Completed: 338 (0.23%) (Ranked 267)
 | 2023-12-27 | 148,016 | 336 |
 | 2023-12-28 | 148,196 | 337 |
 | 2023-12-29 | 148,353 | 338 |
-| 2023-12-30 | 148,370 | 338 |
+| 2023-12-30 | 148,373 | 338 |
 ## Awards
 Max (Great for Beginners): 4,925  (Ranked 76)  
 Sum: 27,858 (Ranked 51)  

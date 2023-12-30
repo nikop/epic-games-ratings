@@ -1105,9 +1105,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 547140,
+  "EOS_Progressed": 547141,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2090,
+  "EOS_NewPlayers": 2089,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30015,6 +30015,11 @@
       "Time": "2023-12-30T01:52:46.2750713+00:00",
       "NumProgressed": 547140,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-30T02:28:29.9928466+00:00",
+      "NumProgressed": 547141,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -30130,7 +30135,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 87542
+      "UsersEstimate": 87543
     },
     {
       "ID": "DogEatDog",
@@ -30274,7 +30279,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 415826
+      "UsersEstimate": 415827
     },
     {
       "ID": "ProPlayer",
@@ -30385,7 +30390,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 547140,
+      "Progressed": 547141,
       "Completed": 2
     }
   ],
@@ -30393,8 +30398,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-12-29T20:57:31.3768364+00:00",
-  "LastChanged_Achievements": "2023-12-30T01:52:46.2750711+00:00",
+  "LastChanged_Achievements": "2023-12-30T02:28:29.9928462+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:15.3077367+00:00",
-  "LastUpdate_Ratings": "2023-12-30T01:40:42.482289+00:00",
-  "LastUpdate_Achievements": "2023-12-30T01:52:46.2752422+00:00"
+  "LastUpdate_Ratings": "2023-12-30T02:17:01.3986384+00:00",
+  "LastUpdate_Achievements": "2023-12-30T02:28:29.9930142+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 3791,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3677,9 +3677,9 @@
       "Count": 337
     }
   ],
-  "EOS_Progressed": 19635,
+  "EOS_Progressed": 19639,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 683,
+  "EOS_NewPlayers": 687,
   "EOS_NewCompleters": -4,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -17672,6 +17672,11 @@
       "Time": "2023-12-30T01:50:25.9702757+00:00",
       "NumProgressed": 19635,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-30T02:25:42.4617732+00:00",
+      "NumProgressed": 19639,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17946,9 +17951,9 @@
       "ID": "WinOnCoral",
       "SetID": "cfbk359",
       "Name": "Coral Forest",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 785
+      "UsersEstimate": 982
     },
     {
       "ID": "WinOnCursed",
@@ -17972,7 +17977,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "WinPrestige10",
@@ -18084,7 +18089,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "WinNearFrosts",
@@ -18092,7 +18097,7 @@
       "Name": "Frosts",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "WinNearGreed",
@@ -18100,7 +18105,7 @@
       "Name": "Land of Greed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "WinNearLibrary",
@@ -18108,7 +18113,7 @@
       "Name": "Overgrown Library",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "WinNearPetrified",
@@ -18155,15 +18160,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19635,
+      "Progressed": 19639,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-29T20:02:24.9867935+00:00",
-  "LastChanged_Achievements": "2023-12-30T01:50:25.9702755+00:00",
+  "LastChanged_Achievements": "2023-12-30T02:25:42.4617724+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-30T01:44:25.555573+00:00",
-  "LastUpdate_Achievements": "2023-12-30T01:50:25.9703872+00:00"
+  "LastUpdate_Ratings": "2023-12-30T02:19:51.16704+00:00",
+  "LastUpdate_Achievements": "2023-12-30T02:25:42.4618709+00:00"
 }

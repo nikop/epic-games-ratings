@@ -9,6 +9,7 @@
 | [Tier 1] Worth the trouble | 7.00% | ~2 |
 | [Tier 1] Mix and match | 7.00% | ~2 |
 | [Tier 4] The oncoming storm | 3.00% | ~1 |
+| [Tier 2] Bullseye | 3.00% | ~1 |
 | [Tier 2] Team effort | 3.00% | ~1 |
 | [Tier 2] 12 orbits | 0.00% | ~0 |
 | [Tier 4] Against all odds | 0.00% | ~0 |
@@ -21,7 +22,6 @@
 | [Tier 4] Instinct | 0.00% | ~0 |
 | [Tier 4] The walls are lava | 0.00% | ~0 |
 | [Tier 3] Immortal | 0.00% | ~0 |
-| [Tier 2] Bullseye | 0.00% | ~0 |
 | [Tier 5] One with the orbit | 0.00% | ~0 |
 | [Tier 1] Ain't nobody got time for that | 0.00% | ~0 |
 | [Tier 3] Mach 10 | 0.00% | ~0 |

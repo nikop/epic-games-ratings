@@ -6,9 +6,9 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,474 |
+| Devoured by Darkness | 27.00% | ~3,475 |
 | A Spark | 19.00% | ~2,445 |
-| Burning City | 18.00% | ~2,316 |
+| Burning City | 18.00% | ~2,317 |
 | Defender's Heart | 16.00% | ~2,059 |
 | Mythic Choices | 15.00% | ~1,930 |
 | Banner over the Citadel | 14.00% | ~1,802 |
@@ -19,12 +19,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Demonic and Divine | 7.00% | ~901 |
 | Great Upstart | 6.00% | ~772 |
 | All Paths Open | 6.00% | ~772 |
-| Path of the Azata | 5.00% | ~643 |
-| Transformation | 5.00% | ~643 |
-| The Legacy | 5.00% | ~643 |
-| Voice from Your Dreams | 5.00% | ~643 |
-| Next-Door Play | 5.00% | ~643 |
-| Get the Toad | 5.00% | ~643 |
+| Path of the Azata | 5.00% | ~644 |
+| Transformation | 5.00% | ~644 |
+| The Legacy | 5.00% | ~644 |
+| Voice from Your Dreams | 5.00% | ~644 |
+| Next-Door Play | 5.00% | ~644 |
+| Get the Toad | 5.00% | ~644 |
 | Heart of the Fallen Land | 4.00% | ~515 |
 | Divide and Rule | 4.00% | ~515 |
 | Mythic Reinforcements | 4.00% | ~515 |
@@ -50,8 +50,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Strategic Victory | 1.00% | ~129 |
 | Abyssal Conspiracy | 1.00% | ~129 |
 | Truly Profane Gift | 1.00% | ~129 |
-| This Wall Won't Fall | 1.00% | ~116 |
-| Not the Last Sarkorian | 1.00% | ~116 |
+| This Wall Won't Fall | 1.00% | ~117 |
+| Not the Last Sarkorian | 1.00% | ~117 |
 | End of Eternal Guard | 0.90% | ~116 |
 | Masterful Charge | 0.70% | ~90 |
 | Playful Mood | 0.70% | ~90 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,868 (Ranked 174)  
+Progressed: 12,870 (Ranked 174)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -377,10 +377,10 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-27 | 12,819 | 0 |
 | 2023-12-28 | 12,845 | 0 |
 | 2023-12-29 | 12,867 | 0 |
-| 2023-12-30 | 12,868 | 0 |
+| 2023-12-30 | 12,870 | 0 |
 ## Awards
 Max (Character Customization): 1,774  (Ranked 126)  
-Sum: 7,176 (Ranked 125)  
+Sum: 7,177 (Ranked 125)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
@@ -392,7 +392,7 @@ Diff (max vs sum): 1
 | This game has Amazing Storytelling | 631 |
 | This game has Challenging Combat | 598 |
 | This game has Quickly Understood Controls | 585 |
-| This game is Relaxing | 565 |
+| This game is Relaxing | 566 |
 | This game has a Creative Community | 404 |
 | This game has Obsessive Gameplay | 364 |
 ## Ratings History
@@ -703,3 +703,4 @@ Diff (max vs sum): 1
 | 2023-12-27 | 4.76 | - | 1,774 | 7,171 |
 | 2023-12-28 | 4.76 | - | 1,774 | 7,172 |
 | 2023-12-29 | 4.76 | - | 1,774 | 7,176 |
+| 2023-12-30 | 4.76 | - | 1,774 | 7,177 |

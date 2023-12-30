@@ -3370,9 +3370,9 @@
       "ID": "Discovery",
       "SetID": "1n308hc",
       "Name": "Discovery",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 285
     },
     {
       "ID": "EasternWetlands",
@@ -3498,9 +3498,9 @@
       "ID": "MuseumVisitor",
       "SetID": "1n308hc",
       "Name": "Museum Visitor",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 273
     },
     {
       "ID": "NewBeginning",
@@ -3666,9 +3666,9 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 297
     },
     {
       "ID": "TheThiefOfFire",
@@ -3738,9 +3738,9 @@
       "ID": "YourBiggestFan",
       "SetID": "1n308hc",
       "Name": "Your Biggest Fan",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 154
     }
   ],
   "AchievementSets": [
@@ -3755,8 +3755,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-29T23:57:10.9507958+00:00",
-  "LastChanged_Achievements": "2023-12-30T01:49:28.2762924+00:00",
+  "LastChanged_Achievements": "2023-12-30T02:24:57.4437698+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2023-12-30T01:40:02.3376944+00:00",
-  "LastUpdate_Achievements": "2023-12-30T01:49:28.276351+00:00"
+  "LastUpdate_Ratings": "2023-12-30T02:16:31.7939559+00:00",
+  "LastUpdate_Achievements": "2023-12-30T02:24:57.4438176+00:00"
 }

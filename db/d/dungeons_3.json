@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -3523,7 +3523,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 45257,
+  "EOS_Progressed": 45258,
   "EOS_Completed": 362,
   "EOS_NewPlayers": 897,
   "EOS_NewCompleters": 3,
@@ -31778,6 +31778,11 @@
       "Time": "2023-12-30T01:49:51.7415321+00:00",
       "NumProgressed": 45257,
       "NumCompleted": 362
+    },
+    {
+      "Time": "2023-12-30T02:25:15.2615135+00:00",
+      "NumProgressed": 45258,
+      "NumCompleted": 362
     }
   ],
   "TotalAchievements": 60,
@@ -31805,7 +31810,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 26249
+      "UsersEstimate": 26250
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -31877,7 +31882,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 15387
+      "UsersEstimate": 15388
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -31901,7 +31906,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 22628
+      "UsersEstimate": 22629
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -31997,7 +32002,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 19913
+      "UsersEstimate": 19914
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -32021,7 +32026,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 18555
+      "UsersEstimate": 18556
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -32029,7 +32034,7 @@
       "Name": "Thirst quencher",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 12219
+      "UsersEstimate": 12220
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -32045,7 +32050,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 12219
+      "UsersEstimate": 12220
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -32173,7 +32178,7 @@
       "Name": "Death and destruction!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 20818
+      "UsersEstimate": 20819
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -32189,7 +32194,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 31680
+      "UsersEstimate": 31681
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -32213,7 +32218,7 @@
       "Name": "The Victorious Evil",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 9051
+      "UsersEstimate": 9052
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_1",
@@ -32268,15 +32273,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 45257,
+      "Progressed": 45258,
       "Completed": 362
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-12-28T17:00:05.7537629+00:00",
-  "LastChanged_Achievements": "2023-12-30T01:49:51.7415319+00:00",
+  "LastChanged_Achievements": "2023-12-30T02:25:15.2615132+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:14.9783418+00:00",
-  "LastUpdate_Ratings": "2023-12-30T01:43:42.8657022+00:00",
-  "LastUpdate_Achievements": "2023-12-30T01:49:51.7416658+00:00"
+  "LastUpdate_Ratings": "2023-12-30T02:19:18.6694357+00:00",
+  "LastUpdate_Achievements": "2023-12-30T02:25:15.2617139+00:00"
 }

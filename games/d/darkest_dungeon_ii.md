@@ -6,13 +6,13 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~607 |
-| Lost and Found | 7.00% | ~386 |
+| Malpractice Assurance | 11.00% | ~608 |
+| Lost and Found | 7.00% | ~387 |
 | Autodidact | 6.00% | ~7,839 |
-| This guy... again? | 6.00% | ~331 |
-| This Belongs in a Museum | 5.00% | ~6,532 |
-| Creep and Sleep | 5.00% | ~6,532 |
-| Overdue Notice | 5.00% | ~6,532 |
+| This guy... again? | 6.00% | ~332 |
+| This Belongs in a Museum | 5.00% | ~6,533 |
+| Creep and Sleep | 5.00% | ~6,533 |
+| Overdue Notice | 5.00% | ~6,533 |
 | Ploughshares to Swords | 5.00% | ~276 |
 | Bloody Graduation | 5.00% | ~276 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,226 |
@@ -55,12 +55,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 2.00% | ~2,613 |
 | Hot Air | 2.00% | ~2,613 |
 | Road Trip | 2.00% | ~2,613 |
-| This Looks Familiar | 1.00% | ~1,306 |
-| Ichthyophobic | 1.00% | ~1,306 |
-| No More Mouths to Feed | 1.00% | ~1,306 |
-| Eyes Up | 1.00% | ~1,306 |
-| Handled | 1.00% | ~1,306 |
-| Body of Work | 1.00% | ~1,306 |
+| This Looks Familiar | 1.00% | ~1,307 |
+| Ichthyophobic | 1.00% | ~1,307 |
+| No More Mouths to Feed | 1.00% | ~1,307 |
+| Eyes Up | 1.00% | ~1,307 |
+| Handled | 1.00% | ~1,307 |
+| Body of Work | 1.00% | ~1,307 |
 | Slap on the Wrist | 1.00% | ~55 |
 | For Old Time' Sake | 1.00% | ~55 |
 | Shrine of Reflection | 0.90% | ~1,176 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,650 (Ranked 88)  
+Progressed: 130,656 (Ranked 88)  
 Completed: 3 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,10 +330,10 @@ Completed: 3 (0.00%) (Ranked 390)
 | 2023-12-27 | 130,259 | 3 |
 | 2023-12-28 | 130,422 | 3 |
 | 2023-12-29 | 130,627 | 3 |
-| 2023-12-30 | 130,650 | 3 |
+| 2023-12-30 | 130,656 | 3 |
 ## Awards
 Max (Character Customization): 7,899  (Ranked 50)  
-Sum: 21,240 (Ranked 58)  
+Sum: 21,244 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -342,7 +342,7 @@ Diff (max vs sum): -8
 | This game has Challenging Combat | 1,653 |
 | This game is Highly Recommended | 1,582 |
 | This game has Amazing Characters | 1,504 |
-| This game is Extremely Fun | 1,497 |
+| This game is Extremely Fun | 1,501 |
 | This game has Unique Visuals | 1,437 |
 | This game has Amazing Storytelling | 1,418 |
 | This game has Quickly Understood Controls | 1,391 |
@@ -688,3 +688,4 @@ Diff (max vs sum): -8
 | 2023-12-27 | 4.68 | - | 7,882 | 21,156 |
 | 2023-12-28 | 4.68 | - | 7,888 | 21,194 |
 | 2023-12-29 | 4.68 | - | 7,899 | 21,240 |
+| 2023-12-30 | 4.68 | - | 7,899 | 21,244 |

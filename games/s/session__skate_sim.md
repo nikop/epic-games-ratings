@@ -6,18 +6,18 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 62.00% | ~2,139 |
+| You're free now! | 62.00% | ~2,140 |
 | Keeping it classy | 27.00% | ~932 |
 | Welcome to the family | 22.00% | ~759 |
 | The finer things in life | 19.00% | ~656 |
 | Backpacker | 14.00% | ~483 |
-| Go with the Flow | 13.00% | ~448 |
+| Go with the Flow | 13.00% | ~449 |
 | Plastic Surgeon | 10.00% | ~345 |
 | The flip trick crown jewel | 10.00% | ~345 |
 | The hard way | 10.00% | ~345 |
-| Good vibes | 9.00% | ~310 |
-| Keep the dream alive | 9.00% | ~310 |
-| Upfront shredder | 9.00% | ~310 |
+| Good vibes | 9.00% | ~311 |
+| Keep the dream alive | 9.00% | ~311 |
+| Upfront shredder | 9.00% | ~311 |
 | Bottom ply killer | 7.00% | ~242 |
 | Fashionista | 7.00% | ~242 |
 | Finally he zips it | 7.00% | ~242 |
@@ -30,15 +30,15 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 6.00% | ~207 |
 | Squad goals | 6.00% | ~207 |
 | Sup widdit big dog! | 6.00% | ~207 |
-| Commence the Hijinx! | 5.00% | ~172 |
-| DIY Boss | 5.00% | ~172 |
-| Globetrotter | 5.00% | ~172 |
-| Lines for days | 5.00% | ~172 |
-| Manny Destroys All | 5.00% | ~172 |
-| Renaissance man | 5.00% | ~172 |
-| Tank commander | 5.00% | ~172 |
-| Trick shot marksman | 5.00% | ~172 |
-| We get it, you're good | 5.00% | ~172 |
+| Commence the Hijinx! | 5.00% | ~173 |
+| DIY Boss | 5.00% | ~173 |
+| Globetrotter | 5.00% | ~173 |
+| Lines for days | 5.00% | ~173 |
+| Manny Destroys All | 5.00% | ~173 |
+| Renaissance man | 5.00% | ~173 |
+| Tank commander | 5.00% | ~173 |
+| Trick shot marksman | 5.00% | ~173 |
+| We get it, you're good | 5.00% | ~173 |
 | Cops called! | 4.00% | ~138 |
 | G.O.A.T. status | 4.00% | ~138 |
 | Hoarder | 4.00% | ~138 |
@@ -47,15 +47,15 @@ Number of Ratings: 111  (23.09.2022)
 | Many plys later... | 3.00% | ~104 |
 | Cross lock country | 2.00% | ~69 |
 | That was wheelie fun | 2.00% | ~69 |
-| Dipped! | 1.00% | ~34 |
-| Skatepark hero | 1.00% | ~34 |
+| Dipped! | 1.00% | ~35 |
+| Skatepark hero | 1.00% | ~35 |
 | Bing Bong! | 0.10% | ~3 |
 | Golden! | 0.10% | ~3 |
 | Loves You Back | 0.10% | ~3 |
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,450 (Ranked 219)  
+Progressed: 3,451 (Ranked 219)  
 Completed: 2 (0.06%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 2 (0.06%) (Ranked 328)
 | 2023-12-27 | 3,417 | 2 |
 | 2023-12-28 | 3,434 | 2 |
 | 2023-12-29 | 3,448 | 2 |
-| 2023-12-30 | 3,450 | 2 |
+| 2023-12-30 | 3,451 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 62  (Ranked 424)  
 Sum: 577 (Ranked 324)  

@@ -29,6 +29,7 @@ Rating: 3.60 (Ranked 1,078)
 | Block Party | 2.00% | ~43 |
 | Sic Transit Umbra | 2.00% | ~43 |
 | Bell-ringer | 2.00% | ~43 |
+| Silence Is Golden | 2.00% | ~43 |
 | Good Morning | 2.00% | ~43 |
 | You Clean It Up | 2.00% | ~43 |
 | From the Shadows | 2.00% | ~43 |
@@ -36,7 +37,6 @@ Rating: 3.60 (Ranked 1,078)
 | Harvest’s End | 2.00% | ~43 |
 | Revelations | 1.00% | ~22 |
 | Contingency Plans | 1.00% | ~22 |
-| Silence Is Golden | 1.00% | ~22 |
 | Check, Please! | 1.00% | ~22 |
 | Nice Try | 1.00% | ~22 |
 | Blacklight Down | 1.00% | ~22 |

@@ -2065,9 +2065,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 17479,
+  "EOS_Progressed": 17480,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1247,
+  "EOS_NewPlayers": 1245,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -18190,6 +18190,11 @@
       "Time": "2023-12-30T01:53:45.224779+00:00",
       "NumProgressed": 17479,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-12-30T02:29:16.6271422+00:00",
+      "NumProgressed": 17480,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 35,
@@ -18201,7 +18206,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 14158
+      "UsersEstimate": 14159
     },
     {
       "ID": "ACH02",
@@ -18247,9 +18252,9 @@
       "ID": "ACH07",
       "SetID": "4ck5mbe",
       "Name": "The American Dream",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3146
+      "UsersEstimate": 3321
     },
     {
       "ID": "ACH08",
@@ -18480,7 +18485,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 17479,
+      "Progressed": 17480,
       "Completed": 65
     }
   ],
@@ -18488,8 +18493,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-29T18:58:48.4691901+00:00",
-  "LastChanged_Achievements": "2023-12-30T01:53:45.2247787+00:00",
+  "LastChanged_Achievements": "2023-12-30T02:29:16.6271419+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:16.9169269+00:00",
-  "LastUpdate_Ratings": "2023-12-30T01:42:38.0631799+00:00",
-  "LastUpdate_Achievements": "2023-12-30T01:53:45.2248885+00:00"
+  "LastUpdate_Ratings": "2023-12-30T02:18:29.3478729+00:00",
+  "LastUpdate_Achievements": "2023-12-30T02:29:16.6272489+00:00"
 }

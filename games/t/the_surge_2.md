@@ -5,15 +5,15 @@ Rating: 4.27 (Ranked 891)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,902 |
-| Don't I Know You...? | 76.00% | ~1,830 |
-| Jailbreak | 65.00% | ~1,565 |
+| Rigged And Ready | 79.00% | ~1,903 |
+| Don't I Know You...? | 76.00% | ~1,831 |
+| Jailbreak | 65.00% | ~1,566 |
 | Suited and Booted | 38.00% | ~915 |
 | HEADSHOT! | 37.00% | ~891 |
 | Sleeping With The Fishes | 35.00% | ~843 |
-| Overheated | 30.00% | ~722 |
-| High Performance | 30.00% | ~722 |
-| Powered Up | 28.00% | ~674 |
+| Overheated | 30.00% | ~723 |
+| High Performance | 30.00% | ~723 |
+| Powered Up | 28.00% | ~675 |
 | Studied The Blade | 24.00% | ~578 |
 | Home Invasion | 23.00% | ~554 |
 | Luminary | 22.00% | ~530 |
@@ -23,9 +23,9 @@ Rating: 4.27 (Ranked 891)
 | Shocking | 20.00% | ~482 |
 | Court Martial | 19.00% | ~458 |
 | Unforeseeable Consequences | 19.00% | ~458 |
-| Dead Again | 18.00% | ~433 |
-| Clean Cut | 18.00% | ~433 |
-| Full Arsenal | 17.00% | ~409 |
+| Dead Again | 18.00% | ~434 |
+| Clean Cut | 18.00% | ~434 |
+| Full Arsenal | 17.00% | ~410 |
 | Can't Trust Banks | 15.00% | ~361 |
 | Mommy Dearest | 13.00% | ~313 |
 | Bad Dog | 13.00% | ~313 |
@@ -42,9 +42,9 @@ Rating: 4.27 (Ranked 891)
 | Following In Their Footsteps | 8.00% | ~193 |
 | Defense in Depth | 8.00% | ~193 |
 | Reverse Engineering | 7.00% | ~169 |
-| Remote Surgery | 6.00% | ~144 |
-| Turbo Booster | 6.00% | ~144 |
-| Squid Pro Quo | 6.00% | ~144 |
+| Remote Surgery | 6.00% | ~145 |
+| Turbo Booster | 6.00% | ~145 |
+| Squid Pro Quo | 6.00% | ~145 |
 | Reborn | 5.00% | ~120 |
 | Hello Darkness My Old Friend | 5.00% | ~120 |
 | Counter-Sniper | 5.00% | ~120 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 891)
 | Three Birds With One Stone | 1.00% | ~24 |
 | The Easy Way Out | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,408 (Ranked 230)  
+Progressed: 2,409 (Ranked 230)  
 Completed: 13 (0.54%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,6 +254,7 @@ Completed: 13 (0.54%) (Ranked 211)
 | 2023-12-27 | 2,388 | 13 |
 | 2023-12-28 | 2,397 | 13 |
 | 2023-12-29 | 2,408 | 13 |
+| 2023-12-30 | 2,409 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

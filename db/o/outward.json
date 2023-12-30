@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4335,
+  "EOS_Progressed": 4336,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -7271,6 +7271,11 @@
       "Time": "2023-12-29T23:04:27.7432185+00:00",
       "NumProgressed": 4335,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-30T02:24:01.0580602+00:00",
+      "NumProgressed": 4336,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7322,7 +7327,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1777
+      "UsersEstimate": 1778
     },
     {
       "ID": "CrowdPleaser",
@@ -7346,7 +7351,7 @@
       "Name": "Eureka",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -7354,7 +7359,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "ForAllAurai_8",
@@ -7370,7 +7375,7 @@
       "Name": "Gift from the Ancestors",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "HoldmyMeadandWatchThis_43",
@@ -7386,7 +7391,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "HouseofCards_19",
@@ -7394,7 +7399,7 @@
       "Name": "House of Cards",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "LegacyOfaMasterHunter_55",
@@ -7410,7 +7415,7 @@
       "Name": "Let \u2018em eat magma!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "LightofLevant_18",
@@ -7426,7 +7431,7 @@
       "Name": "Magic is a science",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "MasterofAurai_20",
@@ -7466,7 +7471,7 @@
       "Name": "Ready for Summer",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2124
+      "UsersEstimate": 2125
     },
     {
       "ID": "ReadyforWinter_42",
@@ -7490,7 +7495,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1041
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -7506,7 +7511,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1517
+      "UsersEstimate": 1518
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -7617,15 +7622,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4335,
+      "Progressed": 4336,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-30T01:48:17.5806126+00:00",
+  "LastChanged_Achievements": "2023-12-30T02:24:01.0580597+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.9488093+00:00",
-  "LastUpdate_Ratings": "2023-12-30T01:45:57.805658+00:00",
-  "LastUpdate_Achievements": "2023-12-30T01:48:17.5806711+00:00"
+  "LastUpdate_Ratings": "2023-12-30T02:22:12.1958131+00:00",
+  "LastUpdate_Achievements": "2023-12-30T02:24:01.0581201+00:00"
 }

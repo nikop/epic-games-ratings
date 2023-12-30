@@ -14,7 +14,7 @@
 | Sign of weakness | 39.00% | ~89 |
 | Refuse to look | 35.00% | ~80 |
 | Face your fears | 28.00% | ~64 |
-| Finished it | 26.00% | ~60 |
+| Finished it | 27.00% | ~62 |
 | Whispers long forgotten | 16.00% | ~37 |
 | Sound Bite | 12.00% | ~27 |
 | The art of movement | 12.00% | ~27 |

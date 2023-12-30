@@ -2,7 +2,7 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 424,
+  "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 153,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 198,
+  "EOS_Progressed": 199,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -889,6 +889,11 @@
       "Time": "2023-12-29T23:08:50.2392494+00:00",
       "NumProgressed": 198,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T02:28:15.3982874+00:00",
+      "NumProgressed": 199,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -971,9 +976,9 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 137
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1053,7 +1058,7 @@
       "Name": "Not A Lost Girl",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -1196,14 +1201,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 198,
+      "Progressed": 199,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-30T01:52:27.6471484+00:00",
+  "LastChanged_Achievements": "2023-12-30T02:28:15.398287+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.3127204+00:00",
-  "LastUpdate_Ratings": "2023-12-30T01:40:58.9317252+00:00",
-  "LastUpdate_Achievements": "2023-12-30T01:52:27.6471755+00:00"
+  "LastUpdate_Ratings": "2023-12-30T02:17:14.0959202+00:00",
+  "LastUpdate_Achievements": "2023-12-30T02:28:15.3983129+00:00"
 }

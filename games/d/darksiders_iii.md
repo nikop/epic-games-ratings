@@ -46,8 +46,8 @@ Number of Ratings: 116  (23.09.2022)
 | A Parting Gift | 12.00% | ~35 |
 | Path of the Horseman | 12.00% | ~35 |
 | Unbreakable Will | 11.00% | ~32 |
+| Holy Keeper | 9.00% | ~27 |
 | Take it to the Limit | 9.00% | ~27 |
-| Holy Keeper | 8.00% | ~24 |
 | Demon Keeper | 8.00% | ~24 |
 | My Evil Twin | 7.00% | ~21 |
 | Humanitarian | 7.00% | ~21 |

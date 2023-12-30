@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 562,
+  "EOS_Progressed": 563,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
@@ -1849,6 +1849,11 @@
       "Time": "2023-12-29T22:09:50.3724147+00:00",
       "NumProgressed": 562,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T02:29:07.683862+00:00",
+      "NumProgressed": 563,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1917,7 +1922,7 @@
       "Name": "Hypnotorious: Masterminds",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "RISKYTEXT_BOOST_VOTE",
@@ -1957,7 +1962,7 @@
       "Name": "Timejinx: Timejinx",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "TIME_ORWELL",
@@ -2020,14 +2025,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 562,
+      "Progressed": 563,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-30T01:53:34.0016324+00:00",
-  "LastUpdate_AppInfo": "2023-12-23T02:14:15.0192188+00:00",
-  "LastUpdate_Ratings": "2023-12-30T01:45:34.3181626+00:00",
-  "LastUpdate_Achievements": "2023-12-30T01:53:34.0016475+00:00"
+  "LastChanged_Achievements": "2023-12-30T02:29:07.6838615+00:00",
+  "LastUpdate_AppInfo": "2023-12-30T02:16:13.4108208+00:00",
+  "LastUpdate_Ratings": "2023-12-30T02:21:54.5329103+00:00",
+  "LastUpdate_Achievements": "2023-12-30T02:29:07.6838911+00:00"
 }

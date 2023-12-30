@@ -2,7 +2,7 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 462,
+  "Ranking_Rating": 463,
   "Ranking_Popularity": 282,
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 216,
@@ -807,9 +807,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3646,
+  "EOS_Progressed": 3647,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5087,6 +5087,11 @@
       "Time": "2023-12-30T01:46:53.9565977+00:00",
       "NumProgressed": 3646,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T02:22:55.4628634+00:00",
+      "NumProgressed": 3647,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5290,7 +5295,7 @@
       "Name": "Executioner",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "Kills_Exterminator",
@@ -5641,21 +5646,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3646,
+      "Progressed": 3647,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3646,
+      "Progressed": 3647,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-29T09:03:12.9031427+00:00",
-  "LastChanged_Achievements": "2023-12-30T01:46:53.9565975+00:00",
+  "LastChanged_Achievements": "2023-12-30T02:22:55.4628631+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:54.0012795+00:00",
-  "LastUpdate_Ratings": "2023-12-30T01:46:14.0427529+00:00",
-  "LastUpdate_Achievements": "2023-12-30T01:46:53.956658+00:00"
+  "LastUpdate_Ratings": "2023-12-30T02:22:24.7977948+00:00",
+  "LastUpdate_Achievements": "2023-12-30T02:22:55.4629312+00:00"
 }

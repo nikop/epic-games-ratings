@@ -209,9 +209,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 8696,
+  "EOS_Progressed": 8702,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2235,
+  "EOS_NewPlayers": 2227,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2904,6 +2904,11 @@
       "Time": "2023-12-30T01:53:37.4125709+00:00",
       "NumProgressed": 8696,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T02:29:10.2613598+00:00",
+      "NumProgressed": 8702,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -2940,7 +2945,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -3036,7 +3041,7 @@
       "Name": "Exemplar",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -3082,9 +3087,9 @@
       "ID": "23_DynastyRestored",
       "SetID": "37a94m8",
       "Name": "The Dynasty Restored",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 70
     },
     {
       "ID": "24_TheHighrise",
@@ -3435,7 +3440,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8696,
+      "Progressed": 8702,
       "Completed": 0
     }
   ],
@@ -3443,8 +3448,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-29T15:57:59.1942922+00:00",
-  "LastChanged_Achievements": "2023-12-30T01:53:37.4125706+00:00",
+  "LastChanged_Achievements": "2023-12-30T02:29:10.2613595+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-30T01:41:23.9761793+00:00",
-  "LastUpdate_Achievements": "2023-12-30T01:53:37.4126489+00:00"
+  "LastUpdate_Ratings": "2023-12-30T02:17:33.1804377+00:00",
+  "LastUpdate_Achievements": "2023-12-30T02:29:10.2614139+00:00"
 }

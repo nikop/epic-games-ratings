@@ -5,8 +5,8 @@ Rating: 4.12 (Ranked 995)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 58.00% | ~850 |
-| Trinity | 28.00% | ~410 |
+| Break Out | 58.00% | ~851 |
+| Trinity | 28.00% | ~411 |
 | A Taste of Wrath | 22.00% | ~323 |
 | The Collector | 22.00% | ~323 |
 | Find Allies | 21.00% | ~308 |
@@ -19,8 +19,8 @@ Rating: 4.12 (Ranked 995)
 | Fashion Victim | 18.00% | ~264 |
 | Stone Collection | 18.00% | ~264 |
 | Powerful Allies | 17.00% | ~249 |
+| Big Bazar | 12.00% | ~176 |
 | Essence Blow | 11.00% | ~161 |
-| Big Bazar | 11.00% | ~161 |
 | Alchemist | 10.00% | ~147 |
 | The Mentor | 8.00% | ~117 |
 | Calm before the Storm | 7.00% | ~103 |
@@ -42,7 +42,7 @@ Rating: 4.12 (Ranked 995)
 | Summiter | 0.80% | ~12 |
 | Feeling Fancy | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,466 (Ranked 259)  
+Progressed: 1,467 (Ranked 259)  
 Completed: 3 (0.20%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 3 (0.20%) (Ranked 273)
 | 2023-12-27 | 1,365 | 3 |
 | 2023-12-28 | 1,412 | 3 |
 | 2023-12-29 | 1,459 | 3 |
-| 2023-12-30 | 1,466 | 3 |
+| 2023-12-30 | 1,467 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

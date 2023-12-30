@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17766,
+  "EOS_Progressed": 17769,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 639,
+  "EOS_NewPlayers": 642,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15617,6 +15617,11 @@
       "Time": "2023-12-30T01:49:40.3983807+00:00",
       "NumProgressed": 17766,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-30T02:25:06.2875609+00:00",
+      "NumProgressed": 17769,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15645,7 +15650,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1955
     },
     {
       "ID": "12",
@@ -15709,7 +15714,7 @@
       "Name": "Martian Music",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1955
     },
     {
       "ID": "2",
@@ -15773,7 +15778,7 @@
       "Name": "Call it Even",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1422
     },
     {
       "ID": "27",
@@ -15781,7 +15786,7 @@
       "Name": "Bosmang",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1955
     },
     {
       "ID": "28",
@@ -15837,7 +15842,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1955
     },
     {
       "ID": "7",
@@ -15861,7 +15866,7 @@
       "Name": "Impossible Objects",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1955
     },
     {
       "ID": "31",
@@ -15869,7 +15874,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "32",
@@ -15908,13 +15913,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17766,
+      "Progressed": 17769,
       "Completed": 57
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3720,
+      "Progressed": 3723,
       "Completed": 1114
     }
   ],
@@ -15922,8 +15927,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-27T06:00:51.7325186+00:00",
-  "LastChanged_Achievements": "2023-12-30T01:49:40.3983805+00:00",
+  "LastChanged_Achievements": "2023-12-30T02:25:06.2875606+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-30T01:40:11.8947791+00:00",
-  "LastUpdate_Achievements": "2023-12-30T01:49:40.3984495+00:00"
+  "LastUpdate_Ratings": "2023-12-30T02:16:39.1040167+00:00",
+  "LastUpdate_Achievements": "2023-12-30T02:25:06.2876604+00:00"
 }

@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 540,
+  "EOS_Progressed": 542,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 295,
+  "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1476,6 +1476,11 @@
       "Time": "2023-12-30T00:08:48.0128482+00:00",
       "NumProgressed": 540,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T02:28:03.6976147+00:00",
+      "NumProgressed": 542,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1486,9 +1491,9 @@
       "ID": "AirborneTime",
       "SetID": "5hd282c",
       "Name": "Look Mom, I Can Fly",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 130
+      "UsersEstimate": 136
     },
     {
       "ID": "CareerAllChallenges",
@@ -1496,7 +1501,7 @@
       "Name": "Highballer",
       "Percentage": 40,
       "XP": 90,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "CareerChamp1",
@@ -1504,7 +1509,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "CareerChamp2",
@@ -1544,15 +1549,15 @@
       "Name": "Storm Warning",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "CollectVehiclesA",
       "SetID": "5hd282c",
       "Name": "Wheeler Dealer",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 130
+      "UsersEstimate": 136
     },
     {
       "ID": "CollectVehiclesB",
@@ -1600,7 +1605,7 @@
       "Name": "Dirty Roller",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "PlayerRankB",
@@ -1632,7 +1637,7 @@
       "Name": "Hating Them Tin Cans",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "WreckOpponentsBus",
@@ -1647,7 +1652,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 540,
+      "Progressed": 542,
       "Completed": 0
     }
   ],
@@ -1655,8 +1660,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-28T22:58:24.1175943+00:00",
-  "LastChanged_Achievements": "2023-12-30T01:52:12.9244862+00:00",
+  "LastChanged_Achievements": "2023-12-30T02:28:03.6976144+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-30T01:41:28.6531415+00:00",
-  "LastUpdate_Achievements": "2023-12-30T01:52:12.9245128+00:00"
+  "LastUpdate_Ratings": "2023-12-30T02:17:36.7859166+00:00",
+  "LastUpdate_Achievements": "2023-12-30T02:28:03.6976508+00:00"
 }

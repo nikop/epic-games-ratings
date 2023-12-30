@@ -10,13 +10,13 @@ Rating: 4.65 (Ranked 322)
 | For the Horde! | 82.00% | ~544 |
 | Hammer Time, Round Two | 81.00% | ~537 |
 | The Hellwoods | 77.00% | ~511 |
-| The Plains of Strothalm | 72.00% | ~477 |
+| The Plains of Strothalm | 73.00% | ~484 |
 | Experienced Thalya | 72.00% | ~477 |
 | Bad Elves Go Everywhere | 69.00% | ~457 |
 | Thalya's Concentrated Fury | 68.00% | ~451 |
 | Heroes’ Gorge | 64.00% | ~424 |
 | Master of Magic | 63.00% | ~418 |
-| Unicorn steaks – fresh off the hoof! | 62.00% | ~411 |
+| Unicorn steaks – fresh off the hoof! | 63.00% | ~418 |
 | Magic Accidents | 59.00% | ~391 |
 | The Ascent | 59.00% | ~391 |
 | It's Warm and Cozy at Home | 59.00% | ~391 |

@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1844,
+  "EOS_Progressed": 1845,
   "EOS_Completed": 70,
   "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 3.8,
+  "EOS_Completed_Percentage": 3.79,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -4089,6 +4089,11 @@
       "Time": "2023-12-30T01:53:38.3102226+00:00",
       "NumProgressed": 1844,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-30T02:29:11.092332+00:00",
+      "NumProgressed": 1845,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 16,
@@ -4124,7 +4129,7 @@
       "Name": "Emotional Baggage Handler",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
@@ -4154,9 +4159,9 @@
       "ID": "ACH_HOMELEAVER",
       "SetID": "7pam6gn",
       "Name": "Home Leaver",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1476
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -4164,7 +4169,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -4227,7 +4232,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1844,
+      "Progressed": 1845,
       "Completed": 70
     }
   ],
@@ -4235,8 +4240,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-30T01:53:38.3102224+00:00",
+  "LastChanged_Achievements": "2023-12-30T02:29:11.0923314+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:44.3535234+00:00",
-  "LastUpdate_Ratings": "2023-12-30T01:41:43.5722779+00:00",
-  "LastUpdate_Achievements": "2023-12-30T01:53:38.3102599+00:00"
+  "LastUpdate_Ratings": "2023-12-30T02:17:48.5574755+00:00",
+  "LastUpdate_Achievements": "2023-12-30T02:29:11.0923641+00:00"
 }

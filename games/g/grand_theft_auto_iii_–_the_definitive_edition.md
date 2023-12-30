@@ -5,26 +5,26 @@ Rating: 4.19 (Ranked 956)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~9,149 |
-| Disposing of the Evidence | 38.00% | ~4,189 |
-| Without a Scratch | 34.00% | ~3,748 |
-| Wreckless Driving | 28.00% | ~3,086 |
-| A Marked Man | 25.00% | ~2,756 |
-| Street Sweeper | 19.00% | ~2,094 |
-| Liberty City Minute | 17.00% | ~1,874 |
-| Offshore Delivery | 14.00% | ~1,543 |
+| First Day on the Job | 83.00% | ~9,152 |
+| Disposing of the Evidence | 38.00% | ~4,190 |
+| Without a Scratch | 34.00% | ~3,749 |
+| Wreckless Driving | 28.00% | ~3,088 |
+| A Marked Man | 25.00% | ~2,757 |
+| Street Sweeper | 19.00% | ~2,095 |
+| Liberty City Minute | 17.00% | ~1,875 |
+| Offshore Delivery | 14.00% | ~1,544 |
 | Dirty Money | 12.00% | ~1,323 |
-| By a Mile | 10.00% | ~1,102 |
-| Not So Fast | 10.00% | ~1,102 |
-| Right-hand Man | 10.00% | ~1,102 |
+| By a Mile | 10.00% | ~1,103 |
+| Not So Fast | 10.00% | ~1,103 |
+| Right-hand Man | 10.00% | ~1,103 |
 | A Gift from the King | 7.00% | ~772 |
 | Full Artillery | 4.00% | ~441 |
 | Mob Boss | 3.00% | ~331 |
-| Escape Artist | 2.00% | ~220 |
-| Where To? | 2.00% | ~220 |
-| Splish Splash | 2.00% | ~220 |
-| Playing Doctor | 2.00% | ~220 |
-| Liberty City Secrets | 2.00% | ~220 |
+| Escape Artist | 2.00% | ~221 |
+| Where To? | 2.00% | ~221 |
+| Splish Splash | 2.00% | ~221 |
+| Playing Doctor | 2.00% | ~221 |
+| Liberty City Secrets | 2.00% | ~221 |
 | Planned Ahead | 1.00% | ~110 |
 | Got This Figured Out | 1.00% | ~110 |
 | Wheels Up | 1.00% | ~110 |
@@ -35,8 +35,8 @@ Rating: 4.19 (Ranked 956)
 | Is That All You've Got? | 0.90% | ~99 |
 | King of Liberty City | 0.60% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,023 (Ranked 177)  
-Completed: 70 (0.64%) (Ranked 202)  
+Progressed: 11,027 (Ranked 177)  
+Completed: 70 (0.63%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -289,7 +289,7 @@ Completed: 70 (0.64%) (Ranked 202)
 | 2023-12-27 | 10,826 | 69 |
 | 2023-12-28 | 10,918 | 69 |
 | 2023-12-29 | 11,014 | 70 |
-| 2023-12-30 | 11,023 | 70 |
+| 2023-12-30 | 11,027 | 70 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

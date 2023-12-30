@@ -2,7 +2,7 @@
   "ID": "2cdc5a2758a6445d8d4f399ecb469aaf",
   "Name": "Cursed to Golf",
   "ProductSlug": "cursed-to-golf-a6bc22",
-  "Ranking_Rating": 1059,
+  "Ranking_Rating": 1027,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 819,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.85,
+  "Rating": 4.02,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:33.8447806+00:00",
@@ -32,6 +32,12 @@
     {
       "Time": "2023-12-29T02:15:16.8546561+00:00",
       "Rating": 3.85,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-30T02:19:54.6163959+00:00",
+      "Rating": 4.02,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -52,8 +58,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-19T04:02:24.7174429+00:00",
   "FirstSeenRating": "2023-03-31T05:58:33.8447802+00:00",
-  "LastChanged": "2023-12-29T02:15:16.8546559+00:00",
+  "LastChanged": "2023-12-30T02:19:54.6163957+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.5869634+00:00",
-  "LastUpdate_Ratings": "2023-12-30T01:44:30.0658675+00:00",
-  "LastUpdate_Achievements": "2023-12-30T01:48:00.9500884+00:00"
+  "LastUpdate_Ratings": "2023-12-30T02:19:54.6163961+00:00",
+  "LastUpdate_Achievements": "2023-12-30T02:23:48.0386421+00:00"
 }

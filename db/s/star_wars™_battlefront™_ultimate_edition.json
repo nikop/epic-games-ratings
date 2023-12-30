@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2339,
+  "EOS_Progressed": 2342,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 323,
+  "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6599,6 +6599,11 @@
       "Time": "2023-12-30T01:54:00.2480361+00:00",
       "NumProgressed": 2339,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T02:29:29.1249503+00:00",
+      "NumProgressed": 2342,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6643,7 +6648,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "achievement_14",
@@ -6835,7 +6840,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 2058
+      "UsersEstimate": 2061
     },
     {
       "ID": "achievement_36",
@@ -6851,7 +6856,7 @@
       "Name": "Off to a good start",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1474
+      "UsersEstimate": 1475
     },
     {
       "ID": "achievement_38",
@@ -6875,7 +6880,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "achievement_40",
@@ -6883,7 +6888,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1218
     },
     {
       "ID": "achievement_41",
@@ -6915,7 +6920,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "achievement_45",
@@ -7051,7 +7056,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "achievement_60",
@@ -7114,13 +7119,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2339,
+      "Progressed": 2342,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2339,
+      "Progressed": 2342,
       "Completed": 1
     }
   ],
@@ -7128,8 +7133,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-30T01:54:00.2480347+00:00",
+  "LastChanged_Achievements": "2023-12-30T02:29:29.1249496+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.4116758+00:00",
-  "LastUpdate_Ratings": "2023-12-30T01:40:04.5814922+00:00",
-  "LastUpdate_Achievements": "2023-12-30T01:54:00.2481292+00:00"
+  "LastUpdate_Ratings": "2023-12-30T02:16:33.6293931+00:00",
+  "LastUpdate_Achievements": "2023-12-30T02:29:29.1250293+00:00"
 }

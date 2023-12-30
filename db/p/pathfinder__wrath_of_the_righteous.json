@@ -4665,10 +4665,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7176,
       "NumberOfAwardsMax": 1774
+    },
+    {
+      "Time": "2023-12-30T02:18:06.9721179+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7177,
+      "NumberOfAwardsMax": 1774
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7176,
+  "NumberOfAwards": 7177,
   "NumberOfAwardsMax": 1774,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4718,7 +4724,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 565
+      "Count": 566
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4739,9 +4745,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12868,
+  "EOS_Progressed": 12870,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18379,6 +18385,11 @@
       "Time": "2023-12-30T00:10:06.6906228+00:00",
       "NumProgressed": 12868,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T02:29:30.0876805+00:00",
+      "NumProgressed": 12870,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18390,7 +18401,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3474
+      "UsersEstimate": 3475
     },
     {
       "ID": "02_BurningCity",
@@ -18398,7 +18409,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2316
+      "UsersEstimate": 2317
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -18462,7 +18473,7 @@
       "Name": "Path of the Azata",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "11_PathOfAeon",
@@ -18518,7 +18529,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "18_MythicChoices",
@@ -18574,7 +18585,7 @@
       "Name": "The Legacy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "25_MasterfulDispell",
@@ -18734,7 +18745,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "46_AllPathsOpen",
@@ -18814,7 +18825,7 @@
       "Name": "Next-Door Play",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "56_GetToad",
@@ -18822,7 +18833,7 @@
       "Name": "Get the Toad",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "57_PathOfDevil",
@@ -19286,7 +19297,7 @@
       "Name": "This Wall Won\u0027t Fall",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "DLC4_27_Not the Last Sarkorian",
@@ -19294,7 +19305,7 @@
       "Name": "Not the Last Sarkorian",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "DLC4_29_The Lady of the Forest",
@@ -19317,21 +19328,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11650,
+      "Progressed": 11652,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12868,
+      "Progressed": 12870,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-12-29T18:58:28.1852155+00:00",
-  "LastChanged_Achievements": "2023-12-30T01:54:01.326154+00:00",
+  "LastChanged": "2023-12-30T02:18:06.9721177+00:00",
+  "LastChanged_Achievements": "2023-12-30T02:29:30.08768+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:01.2970884+00:00",
-  "LastUpdate_Ratings": "2023-12-30T01:42:07.8884071+00:00",
-  "LastUpdate_Achievements": "2023-12-30T01:54:01.3263276+00:00"
+  "LastUpdate_Ratings": "2023-12-30T02:18:06.9721183+00:00",
+  "LastUpdate_Achievements": "2023-12-30T02:29:30.0878557+00:00"
 }

@@ -17,10 +17,10 @@ Rating: 4.03 (Ranked 1,025)
 | Exotic Merchant | 16.00% | ~632 |
 | Dragon Clicker | 15.00% | ~593 |
 | Miner Clicker | 15.00% | ~593 |
+| Hero inspection | 14.00% | ~553 |
 | Inspection | 14.00% | ~553 |
 | Dragon Master | 13.00% | ~514 |
 | Enlightenment | 13.00% | ~514 |
-| Hero inspection | 13.00% | ~514 |
 | Lieutenant | 12.00% | ~474 |
 | Milestone collector | 11.00% | ~435 |
 | Mysterious Rock | 11.00% | ~435 |
