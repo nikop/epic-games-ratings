@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 447,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -250,9 +250,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 43112,
+  "EOS_Progressed": 43113,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 542,
+  "EOS_NewPlayers": 533,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -27825,6 +27825,11 @@
       "Time": "2023-12-30T13:08:42.7955615+00:00",
       "NumProgressed": 43112,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-30T14:05:20.7923912+00:00",
+      "NumProgressed": 43113,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -27980,7 +27985,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1725
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -28067,7 +28072,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 43112,
+      "Progressed": 43113,
       "Completed": 30
     }
   ],
@@ -28075,8 +28080,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-18T19:58:40.3413682+00:00",
-  "LastChanged_Achievements": "2023-12-30T13:08:42.7955612+00:00",
+  "LastChanged_Achievements": "2023-12-30T14:05:20.7923911+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:31.7001832+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:00:59.1108913+00:00",
-  "LastUpdate_Achievements": "2023-12-30T13:08:42.7956832+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:57:47.7557903+00:00",
+  "LastUpdate_Achievements": "2023-12-30T14:05:20.7925057+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
@@ -317,9 +317,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 527,
+  "EOS_Progressed": 528,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -1452,6 +1452,11 @@
       "Time": "2023-12-30T13:09:06.8988068+00:00",
       "NumProgressed": 527,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-30T14:05:45.1188797+00:00",
+      "NumProgressed": 528,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1584,7 +1589,7 @@
       "Name": "Sweet Victory",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -1638,9 +1643,9 @@
       "ID": "ACH_STAT_25_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Super Spatula Seeker",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -1694,17 +1699,17 @@
       "ID": "ACH_STAT_STAR_SMASHER",
       "SetID": "biiejkc",
       "Name": "Star Smasher",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_SURFS_UP",
       "SetID": "biiejkc",
       "Name": "Surf\u0027s Up!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
@@ -1712,22 +1717,22 @@
       "Name": "Time For Tutorial",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 527,
+      "Progressed": 528,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-30T13:09:06.8988063+00:00",
+  "LastChanged_Achievements": "2023-12-30T14:05:45.1188794+00:00",
   "LastUpdate_AppInfo": "2023-12-23T14:56:55.4449164+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:00:22.8420007+00:00",
-  "LastUpdate_Achievements": "2023-12-30T13:09:06.8988317+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:57:10.3277094+00:00",
+  "LastUpdate_Achievements": "2023-12-30T14:05:45.1189048+00:00"
 }

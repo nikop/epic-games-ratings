@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -49,7 +49,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1173,
+  "EOS_Progressed": 1174,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 0,
@@ -3064,6 +3064,11 @@
       "Time": "2023-12-30T13:12:21.479147+00:00",
       "NumProgressed": 1173,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T14:09:10.7095264+00:00",
+      "NumProgressed": 1174,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -3084,7 +3089,7 @@
       "Name": "I remember everything!",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "AchvAssertive",
@@ -3108,7 +3113,7 @@
       "Name": "Peacemaker",
       "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "AchvBombing",
@@ -3180,7 +3185,7 @@
       "Name": "Volcanologist",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "AchvLeaveNoManBehind",
@@ -3244,7 +3249,7 @@
       "Name": "The field base",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "AchvReachCamp",
@@ -3252,7 +3257,7 @@
       "Name": "The Camp",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "AchvReachCity",
@@ -3260,7 +3265,7 @@
       "Name": "The City",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "AchvReachCondor",
@@ -3300,14 +3305,14 @@
       "Name": "Beyond divisions",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1173,
+      "Progressed": 1174,
       "Completed": 0
     }
   ],
@@ -3315,8 +3320,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2023-12-29T16:59:59.7446678+00:00",
-  "LastChanged_Achievements": "2023-12-30T13:12:21.4791467+00:00",
+  "LastChanged_Achievements": "2023-12-30T14:09:10.7095262+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:33.4496725+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:03:08.7084742+00:00",
-  "LastUpdate_Achievements": "2023-12-30T13:12:21.4791827+00:00"
+  "LastUpdate_Ratings": "2023-12-30T14:00:02.976906+00:00",
+  "LastUpdate_Achievements": "2023-12-30T14:09:10.7095649+00:00"
 }

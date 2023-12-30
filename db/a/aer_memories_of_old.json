@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27442,
+  "EOS_Progressed": 27450,
   "EOS_Completed": 504,
-  "EOS_NewPlayers": 583,
+  "EOS_NewPlayers": 587,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -27764,6 +27764,11 @@
       "Time": "2023-12-30T13:08:42.9446333+00:00",
       "NumProgressed": 27442,
       "NumCompleted": 504
+    },
+    {
+      "Time": "2023-12-30T14:05:20.8927744+00:00",
+      "NumProgressed": 27450,
+      "NumCompleted": 504
     }
   ],
   "TotalAchievements": 20,
@@ -27773,9 +27778,9 @@
       "ID": "COMPLETED_MAP",
       "SetID": "b6m2mm5",
       "Name": "Cartographer",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 4665
+      "UsersEstimate": 4392
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -27791,7 +27796,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3842
+      "UsersEstimate": 3843
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -27807,7 +27812,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 3019
+      "UsersEstimate": 3020
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -27815,7 +27820,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2744
+      "UsersEstimate": 2745
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -27823,7 +27828,7 @@
       "Name": "An uninvited guest",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1921
+      "UsersEstimate": 1922
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -27831,7 +27836,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3293
+      "UsersEstimate": 3294
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -27839,7 +27844,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3842
+      "UsersEstimate": 3843
     },
     {
       "ID": "FOUND_ERIN",
@@ -27871,7 +27876,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3567
+      "UsersEstimate": 3568
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -27887,7 +27892,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3293
+      "UsersEstimate": 3294
     },
     {
       "ID": "INTRO_FINISHED",
@@ -27895,7 +27900,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 20856
+      "UsersEstimate": 20862
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -27903,7 +27908,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7409
+      "UsersEstimate": 7412
     },
     {
       "ID": "NORTH_FINISHED",
@@ -27911,7 +27916,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3567
+      "UsersEstimate": 3568
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -27927,22 +27932,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4940
+      "UsersEstimate": 4941
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 27442,
+      "Progressed": 27450,
       "Completed": 504
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-30T13:08:42.9446331+00:00",
+  "LastChanged_Achievements": "2023-12-30T14:05:20.8927742+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:49.8191353+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:01:49.3758812+00:00",
-  "LastUpdate_Achievements": "2023-12-30T13:08:42.9447844+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:58:40.8492123+00:00",
+  "LastUpdate_Achievements": "2023-12-30T14:05:20.8929207+00:00"
 }

@@ -5,19 +5,19 @@ Rating: 4.48 (Ranked 648)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 48.00% | ~1,495 |
-| First Love | 45.00% | ~1,401 |
-| Clean Race | 43.00% | ~1,339 |
-| Hear That Roar! | 41.00% | ~1,277 |
-| Bitter Rivalry | 30.00% | ~934 |
-| Rivals to the End | 30.00% | ~934 |
+| Eat My Dust | 48.00% | ~1,496 |
+| First Love | 45.00% | ~1,402 |
+| Clean Race | 43.00% | ~1,340 |
+| Hear That Roar! | 41.00% | ~1,278 |
+| Bitter Rivalry | 30.00% | ~935 |
+| Rivals to the End | 30.00% | ~935 |
 | Champagne Spray | 28.00% | ~872 |
 | We're Going to Need a Bigger Garage | 26.00% | ~810 |
 | Quick Pit Stop | 21.00% | ~654 |
+| Restored and Ready | 20.00% | ~623 |
 | I Want One Too! | 20.00% | ~623 |
-| Restored and Ready | 19.00% | ~592 |
 | Legendary!!! | 19.00% | ~592 |
-| Go-Faster Stripes | 17.00% | ~529 |
+| Go-Faster Stripes | 17.00% | ~530 |
 | I'm Here Too! | 15.00% | ~467 |
 | We've Just Begun | 14.00% | ~436 |
 | Is It the Right Size? | 9.00% | ~280 |
@@ -39,8 +39,8 @@ Rating: 4.48 (Ranked 648)
 | Overtaking the Master | 2.00% | ~62 |
 | Next Level | 1.00% | ~31 |
 | I Don't Stop | 1.00% | ~31 |
+| Exhausted but Happy | 0.70% | ~22 |
 | In Search of Perfection | 0.70% | ~22 |
-| Exhausted but Happy | 0.60% | ~19 |
 | Globe-trotter | 0.40% | ~12 |
 | Maximum Endurance | 0.20% | ~6 |
 | Breathtaking Views | 0.20% | ~6 |
@@ -55,7 +55,7 @@ Rating: 4.48 (Ranked 648)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,114 (Ranked 224)  
+Progressed: 3,116 (Ranked 224)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 3,044 | 0 |
 | 2023-12-28 | 3,069 | 0 |
 | 2023-12-29 | 3,096 | 0 |
-| 2023-12-30 | 3,114 | 0 |
+| 2023-12-30 | 3,116 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

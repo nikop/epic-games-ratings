@@ -9,7 +9,7 @@
 | The Legend | 54.00% | ~28 |
 | Escape from Fleed | 38.00% | ~20 |
 | First Contact | 37.00% | ~19 |
-| Strength in Defeat | 35.00% | ~18 |
+| Strength in Defeat | 37.00% | ~19 |
 | Technology first! | 19.00% | ~10 |
 | The Exterminator | 17.00% | ~9 |
 | The Keeper of Fleed | 15.00% | ~8 |

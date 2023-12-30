@@ -5,26 +5,26 @@ Rating: 4.55 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 106.00% | ~19,082 |
-| Before the Downfall | 101.00% | ~18,182 |
-| Money like Water | 99.00% | ~17,822 |
-| Minimalist | 98.00% | ~17,642 |
-| Builder | 90.00% | ~16,202 |
-| Eraser | 76.00% | ~13,682 |
-| Pocket of Trains | 71.00% | ~12,781 |
-| Inspector | 64.00% | ~11,521 |
-| Going the Distance | 59.00% | ~10,621 |
-| Oil Baron | 46.00% | ~8,281 |
-| Loads-a-Money | 46.00% | ~8,281 |
-| Helper of the People | 43.00% | ~7,741 |
-| Simplification | 37.00% | ~6,661 |
-| Box of Trains | 36.00% | ~6,481 |
-| Let There be Light | 35.00% | ~6,301 |
-| Hot Water | 33.00% | ~5,941 |
-| Indecisive | 32.00% | ~5,761 |
-| The scenic route | 30.00% | ~5,401 |
-| Industrialist | 27.00% | ~4,861 |
-| Perfectionist | 26.00% | ~4,681 |
+| Trevithick's Legacy | 106.00% | ~19,080 |
+| Before the Downfall | 101.00% | ~18,180 |
+| Money like Water | 99.00% | ~17,820 |
+| Minimalist | 98.00% | ~17,640 |
+| Builder | 90.00% | ~16,200 |
+| Eraser | 76.00% | ~13,680 |
+| Pocket of Trains | 71.00% | ~12,780 |
+| Inspector | 64.00% | ~11,520 |
+| Going the Distance | 59.00% | ~10,620 |
+| Oil Baron | 46.00% | ~8,280 |
+| Loads-a-Money | 46.00% | ~8,280 |
+| Helper of the People | 43.00% | ~7,740 |
+| Simplification | 37.00% | ~6,660 |
+| Box of Trains | 36.00% | ~6,480 |
+| Let There be Light | 35.00% | ~6,300 |
+| Hot Water | 33.00% | ~5,940 |
+| Indecisive | 32.00% | ~5,760 |
+| The scenic route | 30.00% | ~5,400 |
+| Industrialist | 27.00% | ~4,860 |
+| Perfectionist | 26.00% | ~4,680 |
 | 8K is Enough for Everyone | 25.00% | ~4,500 |
 | Trains over Pipes | 25.00% | ~4,500 |
 | Man of Steel | 18.00% | ~3,240 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 522)
 | Overdeer | 0.60% | ~108 |
 | Cloud Services | 0.30% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,002 (Ranked 156)  
+Progressed: 18,000 (Ranked 156)  
 Completed: 26 (0.14%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |

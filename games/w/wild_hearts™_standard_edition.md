@@ -19,7 +19,7 @@
 | Expert Conjuror | 38.00% | ~385 |
 | Flawless Crystal | 36.00% | ~365 |
 | Bonds of Enmity | 36.00% | ~365 |
-| Distance Devourer | 33.00% | ~335 |
+| Distance Devourer | 34.00% | ~345 |
 | Counter Specialist | 32.00% | ~324 |
 | Master of the Skies | 30.00% | ~304 |
 | Axer of Auspice | 27.00% | ~274 |
@@ -40,7 +40,7 @@
 | Quintessence of Form | 15.00% | ~152 |
 | Threaded Harmony | 14.00% | ~142 |
 | Karakuri Minato | 14.00% | ~142 |
-| Canyon of Karakuri | 12.00% | ~122 |
+| Canyon of Karakuri | 13.00% | ~132 |
 | Jack of All Trades | 12.00% | ~122 |
 | Karakuri Fortress | 11.00% | ~112 |
 | Haven Hunter | 10.00% | ~101 |

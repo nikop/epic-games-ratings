@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 527,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-04T18:00:00+00:00",
     "PcReleaseDate": "2020-03-21T05:00:00+00:00",
@@ -1337,9 +1337,9 @@
       "ID": "ach_12",
       "SetID": "392n4e7",
       "Name": "Junior Lieutenant Baran",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 63
     },
     {
       "ID": "ach_13",
@@ -1433,9 +1433,9 @@
       "ID": "ach_3",
       "SetID": "392n4e7",
       "Name": "Ram Sergeant",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 205
+      "UsersEstimate": 208
     },
     {
       "ID": "ach_4",
@@ -1496,8 +1496,8 @@
   ],
   "FirstSeen": "2023-06-10T14:58:14.6297429+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-12-30T13:08:36.6950357+00:00",
+  "LastChanged_Achievements": "2023-12-30T14:05:14.6235563+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:36.8823734+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:02:30.8472567+00:00",
-  "LastUpdate_Achievements": "2023-12-30T13:08:36.6950609+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:59:23.9410647+00:00",
+  "LastUpdate_Achievements": "2023-12-30T14:05:14.623579+00:00"
 }

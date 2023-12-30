@@ -3,12 +3,12 @@
   "Name": "Spelldrifter",
   "ProductSlug": "spelldrifter",
   "Ranking_Rating": 1070,
-  "Ranking_Popularity": 543,
-  "Ranking_PopularitySum": 551,
+  "Ranking_Popularity": 539,
+  "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 561,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-04-19T17:00:00+00:00",
     "PcReleaseDate": "2019-10-15T16:00:00+00:00",
@@ -319,18 +319,24 @@
       "Rating": 3.8,
       "NumberOfAwards": 25,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2023-12-30T14:02:24.8040686+00:00",
+      "Rating": 3.8,
+      "NumberOfAwards": 26,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 25,
-  "NumberOfAwardsMax": 25,
+  "NumberOfAwards": 26,
+  "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 25
+      "Count": 26
     }
   ],
   "EOS_Progressed": 0,
@@ -345,8 +351,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:12.9716912+00:00",
   "FirstSeenRating": "2023-03-31T05:58:19.3460946+00:00",
-  "LastChanged": "2023-12-26T12:02:54.2880745+00:00",
+  "LastChanged": "2023-12-30T14:02:24.8040684+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:42.3901623+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:05:41.6695501+00:00",
-  "LastUpdate_Achievements": "2023-12-30T13:08:42.0725608+00:00"
+  "LastUpdate_Ratings": "2023-12-30T14:02:24.8040689+00:00",
+  "LastUpdate_Achievements": "2023-12-30T14:05:20.0091923+00:00"
 }

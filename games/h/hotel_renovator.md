@@ -10,7 +10,7 @@ Rating: 4.35 (Ranked 813)
 | No pressure | 69.00% | ~931 |
 | Memento | 60.00% | ~810 |
 | Let there be light | 57.00% | ~769 |
-| I think you dropped this | 52.00% | ~702 |
+| I think you dropped this | 53.00% | ~716 |
 | Soulmate? | 51.00% | ~688 |
 | Excellent service | 47.00% | ~634 |
 | Roll with it | 44.00% | ~594 |
@@ -33,7 +33,7 @@ Rating: 4.35 (Ranked 813)
 | King of hospitality | 11.00% | ~148 |
 | Top spot in town | 2.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,350 (Ranked 266)  
+Progressed: 1,350 (Ranked 267)  
 Completed: 18 (1.33%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |

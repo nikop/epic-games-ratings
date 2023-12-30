@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -156,9 +156,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 581,
+  "EOS_Progressed": 582,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -1986,6 +1986,11 @@
       "Time": "2023-12-29T23:09:09.3924311+00:00",
       "NumProgressed": 581,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-30T14:08:57.8793603+00:00",
+      "NumProgressed": 582,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -2029,7 +2034,7 @@
       "Name": "Scrap Master",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_COLLECT_10_HERBS",
@@ -2147,9 +2152,9 @@
       "ID": "ACH_KILL_20",
       "SetID": "7c4cldc",
       "Name": "Scrapper",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 256
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH_KILL_50",
@@ -2165,7 +2170,7 @@
       "Name": "Prepper",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_MAKE_FUEL",
@@ -2213,7 +2218,7 @@
       "Name": "Survivor",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_SURVIVE_20_DAYS",
@@ -2221,7 +2226,7 @@
       "Name": "Advanced Survivalist",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -2244,7 +2249,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 581,
+      "Progressed": 582,
       "Completed": 4
     }
   ],
@@ -2252,8 +2257,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2023-12-30T13:12:09.1607417+00:00",
+  "LastChanged_Achievements": "2023-12-30T14:08:57.8793601+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:34.110653+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:02:43.4505094+00:00",
-  "LastUpdate_Achievements": "2023-12-30T13:12:09.1607671+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:59:36.9208616+00:00",
+  "LastUpdate_Achievements": "2023-12-30T14:08:57.8793911+00:00"
 }

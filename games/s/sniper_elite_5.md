@@ -5,17 +5,17 @@ Rating: 4.45 (Ranked 684)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,953 |
+| Meeting Resistance | 47.00% | ~1,954 |
 | Confirming Suspicions | 42.00% | ~1,746 |
 | The Kraken Wakes | 37.00% | ~1,538 |
 | It's Starting to Crack | 34.00% | ~1,413 |
 | Change the Channel | 32.00% | ~1,330 |
-| Lord of War | 31.00% | ~1,288 |
-| Taking it back | 29.00% | ~1,205 |
+| Lord of War | 31.00% | ~1,289 |
+| Taking it back | 30.00% | ~1,247 |
 | Resourceful | 28.00% | ~1,164 |
 | Target America | 27.00% | ~1,122 |
 | The Kraken Sleeps | 25.00% | ~1,039 |
-| As Quiet as a Mouse | 24.00% | ~997 |
+| As Quiet as a Mouse | 24.00% | ~998 |
 | Liberté | 23.00% | ~956 |
 | Organ Grinder | 23.00% | ~956 |
 | Sharpshooter | 23.00% | ~956 |
@@ -26,9 +26,9 @@ Rating: 4.45 (Ranked 684)
 | Der Geist | 17.00% | ~707 |
 | Close Quarters | 16.00% | ~665 |
 | Snake in the Grass | 16.00% | ~665 |
-| Skirmisher | 15.00% | ~623 |
-| Die Nussknacker Sweet! | 15.00% | ~623 |
-| Brains of the Operation | 15.00% | ~623 |
+| Skirmisher | 15.00% | ~624 |
+| Die Nussknacker Sweet! | 15.00% | ~624 |
+| Brains of the Operation | 15.00% | ~624 |
 | No Stone Unturned | 14.00% | ~582 |
 | Opposing Force | 14.00% | ~582 |
 | Enemy at the Gates | 14.00% | ~582 |
@@ -37,7 +37,7 @@ Rating: 4.45 (Ranked 684)
 | Precision Is Key | 10.00% | ~416 |
 | My Little Friend | 10.00% | ~416 |
 | Rigged to Blow | 9.00% | ~374 |
-| Herr Today, Gone Tomorrow | 7.00% | ~287 |
+| Herr Today, Gone Tomorrow | 7.00% | ~288 |
 | The Long Game | 6.00% | ~249 |
 | Operation Foxley | 6.00% | ~246 |
 | Strategist | 5.00% | ~208 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 684)
 | Stroll in the Woods | 0.60% | ~25 |
 | Going Overboard | 0.60% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,156 (Ranked 208)  
+Progressed: 4,157 (Ranked 208)  
 Completed: 11 (0.26%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 11 (0.26%) (Ranked 261)
 | 2023-12-27 | 4,137 | 11 |
 | 2023-12-28 | 4,143 | 11 |
 | 2023-12-29 | 4,153 | 11 |
-| 2023-12-30 | 4,156 | 11 |
+| 2023-12-30 | 4,157 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 525)  
 Sum: 28 (Ranked 541)  

@@ -3677,9 +3677,9 @@
       "Count": 337
     }
   ],
-  "EOS_Progressed": 19683,
+  "EOS_Progressed": 19689,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 680,
+  "EOS_NewPlayers": 683,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -17727,6 +17727,11 @@
       "Time": "2023-12-30T13:06:09.622675+00:00",
       "NumProgressed": 19683,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-30T14:02:53.9196612+00:00",
+      "NumProgressed": 19689,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17819,7 +17824,7 @@
       "Name": "Homesick",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "WinFirstGame",
@@ -17881,9 +17886,9 @@
       "ID": "WinNearCrystals",
       "SetID": "cfbk359",
       "Name": "Sparkdew Crystals",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 394
     },
     {
       "ID": "WinNearDangerous",
@@ -17891,7 +17896,7 @@
       "Name": "Dangerous Lands",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "WinNearFertile",
@@ -17899,7 +17904,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "WinNearFishmen",
@@ -17915,7 +17920,7 @@
       "Name": "Forbidden Lands",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "WinNearHaunted",
@@ -17947,7 +17952,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "WinNearOutpost",
@@ -17955,7 +17960,7 @@
       "Name": "Royal Outpost",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "WinNearRuins",
@@ -17995,7 +18000,7 @@
       "Name": "Watchtower",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "WinOnCoral",
@@ -18027,7 +18032,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "WinPrestige10",
@@ -18147,7 +18152,7 @@
       "Name": "Frosts",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "WinNearGreed",
@@ -18155,7 +18160,7 @@
       "Name": "Land of Greed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "WinNearLibrary",
@@ -18195,7 +18200,7 @@
       "Name": "Untamed Wilds",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "WinWithFoxes",
@@ -18210,15 +18215,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19683,
+      "Progressed": 19689,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-29T20:02:24.9867935+00:00",
-  "LastChanged_Achievements": "2023-12-30T13:06:09.6226741+00:00",
+  "LastChanged_Achievements": "2023-12-30T14:02:53.919661+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:03:29.335752+00:00",
-  "LastUpdate_Achievements": "2023-12-30T13:06:09.6234729+00:00"
+  "LastUpdate_Ratings": "2023-12-30T14:00:23.6725601+00:00",
+  "LastUpdate_Achievements": "2023-12-30T14:02:53.9197705+00:00"
 }

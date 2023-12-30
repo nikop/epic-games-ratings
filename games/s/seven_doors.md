@@ -8,12 +8,12 @@
 | Kill the Dead Man | 48.00% | ~13 |
 | Diogenes Syndrome | 48.00% | ~13 |
 | No Fear of the Dark | 44.00% | ~12 |
+| Egyptologist | 44.00% | ~12 |
 | They’re Watching | 41.00% | ~11 |
 | Art Connoisseur | 41.00% | ~11 |
-| Egyptologist | 41.00% | ~11 |
 | The Last Skull | 37.00% | ~10 |
+| Survivor | 33.00% | ~9 |
 | A Cautious Man Is Worth Two of His Kind | 30.00% | ~8 |
-| Survivor | 30.00% | ~8 |
 | Master of Riddles | 30.00% | ~8 |
 | The Witch’s Haunt | 26.00% | ~7 |
 | A Cabin Boy with Potential | 26.00% | ~7 |

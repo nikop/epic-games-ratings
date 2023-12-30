@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | What took you so long? | 91.00% | ~41 |
 | Welcome to the Rumbly Lands! | 89.00% | ~40 |
-| Time to Bash Some Heads! | 80.00% | ~36 |
-| Shiny! | 71.00% | ~32 |
+| Time to Bash Some Heads! | 82.00% | ~37 |
+| Shiny! | 73.00% | ~33 |
 | Deep in the Mounds | 67.00% | ~30 |
 | Smeltastic! | 40.00% | ~18 |
 | Locked Away | 36.00% | ~16 |

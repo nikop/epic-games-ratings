@@ -5,38 +5,38 @@ Rating: 4.52 (Ranked 570)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 94.00% | ~5,620 |
-| I will survive! | 93.00% | ~5,560 |
-| All thumbs | 92.00% | ~5,501 |
-| Home, sweet home | 91.00% | ~5,441 |
-| Survivalist | 90.00% | ~5,381 |
-| One way ticket | 85.00% | ~5,082 |
-| Last man standing | 81.00% | ~4,843 |
-| Family guy | 77.00% | ~4,604 |
-| Out of the Bag | 76.00% | ~4,544 |
-| The Dark Side | 71.00% | ~4,245 |
-| Souper! | 66.00% | ~3,946 |
-| Duck and cover! | 66.00% | ~3,946 |
-| 2-1-6 | 60.00% | ~3,587 |
-| Pacifist | 60.00% | ~3,587 |
-| A gift | 55.00% | ~3,288 |
-| Girl Power | 49.00% | ~2,930 |
+| Prepper | 94.00% | ~5,622 |
+| I will survive! | 93.00% | ~5,562 |
+| All thumbs | 92.00% | ~5,503 |
+| Home, sweet home | 91.00% | ~5,443 |
+| Survivalist | 90.00% | ~5,383 |
+| One way ticket | 85.00% | ~5,084 |
+| Last man standing | 81.00% | ~4,845 |
+| Family guy | 77.00% | ~4,605 |
+| Out of the Bag | 76.00% | ~4,546 |
+| The Dark Side | 71.00% | ~4,247 |
+| Souper! | 66.00% | ~3,947 |
+| Duck and cover! | 66.00% | ~3,947 |
+| Pacifist | 60.00% | ~3,589 |
+| 2-1-6 | 59.00% | ~3,529 |
+| A gift | 55.00% | ~3,290 |
+| Girl Power | 49.00% | ~2,931 |
 | What goes around... | 45.00% | ~2,691 |
-| Be Prepared | 39.00% | ~2,332 |
-| Unbreakable | 37.00% | ~2,212 |
-| Gotta get 'em all | 34.00% | ~2,033 |
-| This is the end | 34.00% | ~2,033 |
-| Atomic drill | 32.00% | ~1,913 |
+| Be Prepared | 39.00% | ~2,333 |
+| Unbreakable | 37.00% | ~2,213 |
+| Gotta get 'em all | 34.00% | ~2,034 |
+| This is the end | 34.00% | ~2,034 |
+| Atomic drill | 32.00% | ~1,914 |
 | Disco Roach | 29.00% | ~1,734 |
-| Dawkins Residence | 22.00% | ~1,315 |
+| Dawkins Residence | 22.00% | ~1,316 |
 | Rescue time! | 19.00% | ~1,136 |
-| New order | 18.00% | ~1,076 |
-| New species | 17.00% | ~1,016 |
+| New order | 18.00% | ~1,077 |
+| New species | 17.00% | ~1,017 |
 | A New Hope | 16.00% | ~957 |
 | Enigma | 16.00% | ~957 |
-| Challenger | 13.00% | ~777 |
-| Men in Black | 13.00% | ~777 |
-| No stone unturned | 12.00% | ~717 |
+| Challenger | 13.00% | ~778 |
+| Men in Black | 13.00% | ~778 |
+| No stone unturned | 12.00% | ~718 |
 | Unplugged | 9.00% | ~538 |
 | Mad Hatter | 8.00% | ~478 |
 | Holidays! | 7.00% | ~419 |
@@ -66,7 +66,7 @@ Rating: 4.52 (Ranked 570)
 | Tora! Tora! Tora! | 0.20% | ~12 |
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,979 (Ranked 197)  
+Progressed: 5,981 (Ranked 197)  
 Completed: 1 (0.02%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 1 (0.02%) (Ranked 358)
 | 2023-12-27 | 5,951 | 1 |
 | 2023-12-28 | 5,965 | 1 |
 | 2023-12-29 | 5,972 | 1 |
-| 2023-12-30 | 5,979 | 1 |
+| 2023-12-30 | 5,981 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

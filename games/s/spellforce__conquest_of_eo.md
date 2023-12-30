@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Home Sweet Home | 90.00% | ~88 |
-| Enough rooms to swing a cat | 82.00% | ~80 |
-| First to the post | 81.00% | ~79 |
-| A kind of Magic | 74.00% | ~73 |
+| Enough rooms to swing a cat | 83.00% | ~81 |
+| First to the post | 82.00% | ~80 |
+| A kind of Magic | 76.00% | ~74 |
 | Connected | 67.00% | ~66 |
 | Expansion | 62.00% | ~61 |
 | Mine! | 59.00% | ~58 |
@@ -15,7 +15,7 @@
 | Artificer's Apprentice | 51.00% | ~50 |
 | Fly the friendly Sky | 47.00% | ~46 |
 | Get out of here! | 41.00% | ~40 |
-| Alchemist's Apprentice | 39.00% | ~38 |
+| Alchemist's Apprentice | 40.00% | ~39 |
 | Friend of Lyraine | 39.00% | ~38 |
 | Necromancer's Apprentice | 38.00% | ~37 |
 | The Circle | 37.00% | ~36 |
@@ -40,8 +40,8 @@
 | Silver Drift Hollow Mine | 9.00% | ~9 |
 | Mage Teacher | 9.00% | ~9 |
 | Friend of Windholme | 9.00% | ~9 |
+| A Joke | 9.00% | ~9 |
 | Yngrid's Tale | 8.00% | ~8 |
-| A Joke | 8.00% | ~8 |
 | Defeat Hokan | 7.00% | ~7 |
 | Defeat Uram | 7.00% | ~7 |
 | Elynn's Tale | 7.00% | ~7 |

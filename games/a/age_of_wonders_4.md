@@ -7,8 +7,8 @@ Rating: 4.63 (Ranked 356)
 | ---- | ---------- | ----- |
 | Secret Technique | 12.00% | ~784 |
 | Realm Estate | 11.00% | ~719 |
-| A Wonderful Discovery | 10.00% | ~653 |
-| Walls Cannot Stop Us | 10.00% | ~653 |
+| A Wonderful Discovery | 10.00% | ~654 |
+| Walls Cannot Stop Us | 10.00% | ~654 |
 | From Friends to Family | 8.00% | ~523 |
 | Bone Peddler | 7.00% | ~457 |
 | Full Ascension | 6.00% | ~392 |
@@ -53,7 +53,7 @@ Rating: 4.63 (Ranked 356)
 | Pruning for Progress | 0.90% | ~59 |
 | Grexolis | 0.80% | ~52 |
 | One for All, All for One | 0.80% | ~52 |
-| Duality | 0.80% | ~52 |
+| Duality | 0.70% | ~46 |
 | Betrayal Most Foul | 0.60% | ~39 |
 | Snap Out of It! | 0.40% | ~26 |
 | The Magic That Empowers Me! | 0.40% | ~26 |
@@ -66,8 +66,8 @@ Rating: 4.63 (Ranked 356)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,532 (Ranked 195)  
-Completed: 7 (0.11%) (Ranked 304)  
+Progressed: 6,535 (Ranked 195)  
+Completed: 7 (0.11%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -288,11 +288,11 @@ Completed: 7 (0.11%) (Ranked 304)
 | 2023-12-27 | 6,359 | 7 |
 | 2023-12-28 | 6,414 | 7 |
 | 2023-12-29 | 6,495 | 7 |
-| 2023-12-30 | 6,532 | 7 |
+| 2023-12-30 | 6,535 | 7 |
 ## Awards
-Max (Great for Beginners): 39  (Ranked 478)  
+Max (Great for Beginners): 39  (Ranked 479)  
 Sum: 163 (Ranked 436)  
-Diff (max vs sum): 42  
+Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 39 |

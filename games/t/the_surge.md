@@ -6,31 +6,31 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,826 |
-| I'll Be Back | 84.00% | ~4,313 |
-| Sorry, I Dropped This | 77.00% | ~3,953 |
-| First Day on the Job | 76.00% | ~3,902 |
-| Butcher's Bill | 54.00% | ~2,772 |
+| On My Own Two Feet | 94.00% | ~4,828 |
+| I'll Be Back | 84.00% | ~4,314 |
+| Sorry, I Dropped This | 77.00% | ~3,955 |
+| First Day on the Job | 76.00% | ~3,903 |
+| Butcher's Bill | 54.00% | ~2,773 |
 | P.A.X | 37.00% | ~1,900 |
-| Hey Listen | 36.00% | ~1,848 |
-| OPERATOR | 35.00% | ~1,797 |
-| It's Blue Light | 33.00% | ~1,694 |
+| Hey Listen | 36.00% | ~1,849 |
+| OPERATOR | 35.00% | ~1,798 |
+| It's Blue Light | 33.00% | ~1,695 |
 | Most Wanted | 26.00% | ~1,335 |
 | Infidel | 23.00% | ~1,181 |
-| GOLIATH | 21.00% | ~1,078 |
+| GOLIATH | 21.00% | ~1,079 |
 | Firebug | 20.00% | ~1,027 |
 | Nothing to Lose | 18.00% | ~924 |
 | I Choose You | 17.00% | ~873 |
 | Big Sister | 15.00% | ~770 |
 | Gear Up | 15.00% | ~770 |
 | SENTINEL | 15.00% | ~770 |
-| Core Power | 13.00% | ~667 |
+| Core Power | 13.00% | ~668 |
 | The Black Cerberus | 12.00% | ~616 |
 | Watchman | 12.00% | ~616 |
 | CREO Killed the Video Star | 11.00% | ~565 |
 | Who's in Charge Here? | 11.00% | ~565 |
 | Shall Not Pass | 11.00% | ~565 |
-| Right Tool for the Job | 10.00% | ~513 |
+| Right Tool for the Job | 10.00% | ~514 |
 | Melting Down | 9.00% | ~462 |
 | Raging Drones | 9.00% | ~462 |
 | Overconfident | 9.00% | ~462 |
@@ -38,10 +38,10 @@ Number of Ratings: 62  (23.09.2022)
 | Squad Chief Helvig | 8.00% | ~411 |
 | No More Marching | 8.00% | ~411 |
 | Is This Real Life? | 8.00% | ~411 |
-| Duty-Bound | 7.00% | ~359 |
-| Follow the White Rabbit | 7.00% | ~359 |
-| Liberation | 7.00% | ~359 |
-| Risk Assessment | 7.00% | ~359 |
+| Duty-Bound | 7.00% | ~360 |
+| Follow the White Rabbit | 7.00% | ~360 |
+| Liberation | 7.00% | ~360 |
+| Risk Assessment | 7.00% | ~360 |
 | Sunglasses at Night | 6.00% | ~308 |
 | Carbon Cat | 6.00% | ~308 |
 | It Lives! It Sniffs! It Conquers! | 5.00% | ~257 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~31 |
 | The Surge | 0.40% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,134 (Ranked 202)  
+Progressed: 5,136 (Ranked 202)  
 Completed: 18 (0.35%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 18 (0.35%) (Ranked 237)
 | 2023-12-27 | 5,097 | 18 |
 | 2023-12-28 | 5,108 | 18 |
 | 2023-12-29 | 5,128 | 18 |
-| 2023-12-30 | 5,134 | 18 |
+| 2023-12-30 | 5,136 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 514)  
 Sum: 30 (Ranked 534)  

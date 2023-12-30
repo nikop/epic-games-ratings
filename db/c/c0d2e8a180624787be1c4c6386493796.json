@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 232,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -1211,9 +1211,9 @@
       "ID": "KR4_ACHIEVEMENT_FEELS_GOOD_TO_BE_BACK",
       "SetID": "caeik3h",
       "Name": "Feels Good To Be Back",
-      "Percentage": 98,
+      "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 230
     },
     {
       "ID": "KR4_ACHIEVEMENT_FIND_THE_CAPT",
@@ -1227,9 +1227,9 @@
       "ID": "KR4_ACHIEVEMENT_FROGGER",
       "SetID": "caeik3h",
       "Name": "Crossy Froggy",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "KR4_ACHIEVEMENT_GLYPTODON",
@@ -1555,9 +1555,9 @@
       "ID": "KR4_ACHIEVEMENT_SHAOLIN_MASTER",
       "SetID": "caeik3h",
       "Name": "Follow the Master",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "KR4_ACHIEVEMENT_SKIYETI",
@@ -1688,8 +1688,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-30T13:09:05.0756977+00:00",
+  "LastChanged_Achievements": "2023-12-30T14:05:43.3257193+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.1058747+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:01:13.8350254+00:00",
-  "LastUpdate_Achievements": "2023-12-30T13:09:05.0757925+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:58:03.9657708+00:00",
+  "LastUpdate_Achievements": "2023-12-30T14:05:43.3257833+00:00"
 }

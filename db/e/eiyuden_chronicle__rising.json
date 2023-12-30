@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 53,
   "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
     "PcReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -865,9 +865,9 @@
       "ID": "ACHIEVEMENT016",
       "SetID": "dejhjd5",
       "Name": "One Mean Merc",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 257
+      "UsersEstimate": 265
     },
     {
       "ID": "ACHIEVEMENT017",
@@ -1153,8 +1153,8 @@
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-30T13:11:40.1980476+00:00",
+  "LastChanged_Achievements": "2023-12-30T14:08:28.6544125+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:13.3507412+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:02:29.1637856+00:00",
-  "LastUpdate_Achievements": "2023-12-30T13:11:40.1980925+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:59:22.0680851+00:00",
+  "LastUpdate_Achievements": "2023-12-30T14:08:28.6544518+00:00"
 }

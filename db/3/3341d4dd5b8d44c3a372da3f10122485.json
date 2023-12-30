@@ -1445,17 +1445,17 @@
       "ID": "Nora",
       "SetID": "823jm6g",
       "Name": "Burrow",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 75,
-      "UsersEstimate": 120
+      "UsersEstimate": 122
     },
     {
       "ID": "Planina",
       "SetID": "823jm6g",
       "Name": "Plain",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 80,
-      "UsersEstimate": 120
+      "UsersEstimate": 122
     },
     {
       "ID": "Poklop",
@@ -1500,8 +1500,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-12-30T13:07:09.0201694+00:00",
+  "LastChanged_Achievements": "2023-12-30T14:03:45.0351325+00:00",
   "LastUpdate_AppInfo": "2023-12-30T07:56:58.6269869+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:03:28.4706654+00:00",
-  "LastUpdate_Achievements": "2023-12-30T13:07:09.0201859+00:00"
+  "LastUpdate_Ratings": "2023-12-30T14:00:22.7532818+00:00",
+  "LastUpdate_Achievements": "2023-12-30T14:03:45.0351488+00:00"
 }

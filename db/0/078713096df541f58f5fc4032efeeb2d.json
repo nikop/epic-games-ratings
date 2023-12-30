@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 517,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 366,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -373,9 +373,9 @@
       "ID": "creepytale3_ach_12",
       "SetID": "7idcjbn",
       "Name": "Exchange of pleasantries",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "creepytale3_ach_14",
@@ -557,9 +557,9 @@
       "ID": "creepytale3_ach_39",
       "SetID": "7idcjbn",
       "Name": "Picklock style",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "creepytale3_ach_4",
@@ -605,9 +605,9 @@
       "ID": "creepytale3_ach_9",
       "SetID": "7idcjbn",
       "Name": "Curiosity",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -620,8 +620,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-12-30T13:08:47.1212911+00:00",
+  "LastChanged_Achievements": "2023-12-30T14:05:25.1648425+00:00",
   "LastUpdate_AppInfo": "2023-12-27T07:56:53.6623876+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:00:44.0002237+00:00",
-  "LastUpdate_Achievements": "2023-12-30T13:08:47.1213136+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:57:31.2110141+00:00",
+  "LastUpdate_Achievements": "2023-12-30T14:05:25.1648674+00:00"
 }

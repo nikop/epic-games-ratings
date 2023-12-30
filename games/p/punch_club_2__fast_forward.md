@@ -26,7 +26,7 @@
 | Law student | 57.00% | ~284 |
 | Workout professional | 55.00% | ~274 |
 | Little hacker | 55.00% | ~274 |
-| Handyman | 54.00% | ~269 |
+| Handyman | 55.00% | ~274 |
 | Champion – starter pack | 54.00% | ~269 |
 | It's good to be alive | 54.00% | ~269 |
 | Fight for life | 53.00% | ~264 |
@@ -71,7 +71,7 @@
 | Silver’s past | 25.00% | ~125 |
 | The only right decision | 25.00% | ~125 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 499 (Ranked 342)  
+Progressed: 499 (Ranked 343)  
 Completed: 9 (1.80%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |

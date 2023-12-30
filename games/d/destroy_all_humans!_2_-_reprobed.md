@@ -6,15 +6,15 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 80.00% | ~200 |
-| Mash Machine | 73.00% | ~182 |
+| Rock of the Bay | 80.00% | ~201 |
+| Mash Machine | 73.00% | ~183 |
 | Ducks in a Row, Fish in a Barrel | 51.00% | ~128 |
 | Furon Fashion | 47.00% | ~118 |
 | Shop Til They Drop | 38.00% | ~95 |
 | Bodied Sattva | 34.00% | ~85 |
-| Earthly Pleasures | 33.00% | ~82 |
-| Cult Following | 32.00% | ~80 |
-| Lie Back and Think of Albion | 26.00% | ~65 |
+| Earthly Pleasures | 33.00% | ~83 |
+| Cult Following | 31.00% | ~78 |
+| Lie Back and Think of Albion | 25.00% | ~63 |
 | Upgreatest | 24.00% | ~60 |
 | Pimp My Raid | 24.00% | ~60 |
 | I Look Up As I Walk to Takoshima | 18.00% | ~45 |
@@ -33,9 +33,9 @@ Number of Ratings: 90  (23.09.2022)
 | Yettisoned | 4.00% | ~10 |
 | Arkvoodle Doodle | 4.00% | ~10 |
 | Deincarnated | 2.00% | ~5 |
-| Arty Facts | 1.00% | ~2 |
-| Against All Odds | 1.00% | ~2 |
-| The Optional Mandate | 1.00% | ~2 |
+| Arty Facts | 1.00% | ~3 |
+| Against All Odds | 1.00% | ~3 |
+| The Optional Mandate | 1.00% | ~3 |
 | PK Slam Dunk | 0.80% | ~2 |
 | Gotta Catch All the Pop Art | 0.80% | ~2 |
 | This Is Earth Radio | 0.80% | ~2 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.40% | ~1 |
 | Trans-Siberian Express | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250 (Ranked 405)  
+Progressed: 251 (Ranked 405)  
 Completed: 1 (0.40%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 1 (0.40%) (Ranked 229)
 | 2023-12-27 | 222 | 1 |
 | 2023-12-28 | 230 | 1 |
 | 2023-12-29 | 246 | 1 |
-| 2023-12-30 | 250 | 1 |
+| 2023-12-30 | 251 | 1 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 490)  
 Sum: 36 (Ranked 522)  

@@ -4,11 +4,11 @@
   "ProductSlug": "ghost-recon-wildlands",
   "Ranking_Rating": 397,
   "Ranking_Popularity": 254,
-  "Ranking_PopularitySum": 207,
+  "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 561,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2018-04-10T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -5157,10 +5157,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 2284,
       "NumberOfAwardsMax": 327
+    },
+    {
+      "Time": "2023-12-30T13:57:09.3228472+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2288,
+      "NumberOfAwardsMax": 327
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2284,
+  "NumberOfAwards": 2288,
   "NumberOfAwardsMax": 327,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5198,7 +5204,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 309
+      "Count": 313
     },
     {
       "Text": "This game is Relaxing",
@@ -5236,8 +5242,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:43.6796979+00:00",
-  "LastChanged": "2023-12-30T04:57:12.5046699+00:00",
+  "LastChanged": "2023-12-30T13:57:09.3228471+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:28.0936573+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:00:21.8351954+00:00",
-  "LastUpdate_Achievements": "2023-12-30T13:06:50.0795015+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:57:09.3228477+00:00",
+  "LastUpdate_Achievements": "2023-12-30T14:03:25.8672172+00:00"
 }

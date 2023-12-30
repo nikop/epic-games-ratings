@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -3387,9 +3387,9 @@
       "ID": "achievement_12",
       "SetID": "2cpn27e",
       "Name": "Canyon of Karakuri",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_13",
@@ -3419,9 +3419,9 @@
       "ID": "achievement_16",
       "SetID": "2cpn27e",
       "Name": "Distance Devourer",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 345
     },
     {
       "ID": "achievement_17",
@@ -3753,8 +3753,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-30T13:12:12.2588138+00:00",
+  "LastChanged_Achievements": "2023-12-30T14:09:01.1015069+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:00.2404368+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:01:24.3753038+00:00",
-  "LastUpdate_Achievements": "2023-12-30T13:12:12.2588585+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:58:15.4625261+00:00",
+  "LastUpdate_Achievements": "2023-12-30T14:09:01.1015483+00:00"
 }

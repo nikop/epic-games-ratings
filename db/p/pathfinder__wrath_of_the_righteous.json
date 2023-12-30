@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4751,9 +4751,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12883,
+  "EOS_Progressed": 12884,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 242,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18446,6 +18446,11 @@
       "Time": "2023-12-30T12:10:17.0776128+00:00",
       "NumProgressed": 12883,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T14:09:47.6805665+00:00",
+      "NumProgressed": 12884,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18457,7 +18462,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3478
+      "UsersEstimate": 3479
     },
     {
       "ID": "02_BurningCity",
@@ -18481,7 +18486,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -18545,7 +18550,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "13_PathOfLich",
@@ -18553,7 +18558,7 @@
       "Name": "Path of the Lich",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "14_PathOfSwarm",
@@ -18593,7 +18598,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1932
+      "UsersEstimate": 1933
     },
     {
       "ID": "19_EqualToAroden",
@@ -18681,7 +18686,7 @@
       "Name": "Heroic Victory",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "31_DivideAndRule",
@@ -18729,7 +18734,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -19384,21 +19389,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11665,
+      "Progressed": 11666,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12883,
+      "Progressed": 12884,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-30T13:02:00.9873156+00:00",
-  "LastChanged_Achievements": "2023-12-30T13:12:57.2810015+00:00",
+  "LastChanged_Achievements": "2023-12-30T14:09:47.6805663+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:01.2970884+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:02:00.9873162+00:00",
-  "LastUpdate_Achievements": "2023-12-30T13:12:57.2812075+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:58:52.9906058+00:00",
+  "LastUpdate_Achievements": "2023-12-30T14:09:47.6807269+00:00"
 }

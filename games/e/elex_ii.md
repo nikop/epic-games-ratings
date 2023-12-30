@@ -6,7 +6,7 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 35.00% | ~47 |
+| Entrepreneur | 36.00% | ~48 |
 | Best Buddy | 28.00% | ~38 |
 | Civilian | 25.00% | ~34 |
 | Role Model | 24.00% | ~32 |
@@ -34,9 +34,9 @@ Number of Ratings: 124  (23.09.2022)
 | Alchemist | 3.00% | ~4 |
 | Idealist | 3.00% | ~4 |
 | Cleric | 3.00% | ~4 |
+| Hunter | 3.00% | ~4 |
 | Lover | 3.00% | ~4 |
 | Treasure Hunter | 2.00% | ~3 |
-| Hunter | 2.00% | ~3 |
 | Beam Me Up | 1.00% | ~1 |
 | Morkon | 1.00% | ~1 |
 | Weaponsmith | 0.70% | ~1 |

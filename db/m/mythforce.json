@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -848,9 +848,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5929,
+  "EOS_Progressed": 5930,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -12128,6 +12128,11 @@
       "Time": "2023-12-30T09:04:54.6116912+00:00",
       "NumProgressed": 5929,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-30T14:04:22.8247214+00:00",
+      "NumProgressed": 5930,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12300,7 +12305,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -12323,15 +12328,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5929,
+      "Progressed": 5930,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2023-12-30T13:07:45.5863585+00:00",
+  "LastChanged_Achievements": "2023-12-30T14:04:22.8247211+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:25.4849752+00:00",
-  "LastUpdate_Ratings": "2023-12-30T13:00:08.9123214+00:00",
-  "LastUpdate_Achievements": "2023-12-30T13:07:45.586411+00:00"
+  "LastUpdate_Ratings": "2023-12-30T13:56:56.5077363+00:00",
+  "LastUpdate_Achievements": "2023-12-30T14:04:22.8247839+00:00"
 }

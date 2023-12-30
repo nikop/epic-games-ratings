@@ -46,7 +46,7 @@
 | Survival Horror | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 362 (Ranked 367)  
-Completed: 1 (0.28%) (Ranked 257)  
+Completed: 1 (0.28%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

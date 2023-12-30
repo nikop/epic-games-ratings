@@ -13,11 +13,11 @@
 | Desert Power | 10.00% | ~26 |
 | Indebted | 10.00% | ~26 |
 | Health Care | 9.00% | ~23 |
+| Desert Rat | 8.00% | ~20 |
 | Perfect Soldier | 7.00% | ~18 |
+| Good payer | 7.00% | ~18 |
 | Ammo Tycoon | 7.00% | ~18 |
-| Desert Rat | 7.00% | ~18 |
 | Healing | 6.00% | ~15 |
-| Good payer | 6.00% | ~15 |
 | Pathfinder | 6.00% | ~15 |
 | Food Tycoon | 6.00% | ~15 |
 | Fuel Tycoon | 6.00% | ~15 |

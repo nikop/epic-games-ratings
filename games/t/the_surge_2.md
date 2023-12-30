@@ -5,16 +5,16 @@ Rating: 4.27 (Ranked 892)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,907 |
+| Rigged And Ready | 79.00% | ~1,908 |
 | Don't I Know You...? | 76.00% | ~1,835 |
-| Jailbreak | 65.00% | ~1,569 |
-| Suited and Booted | 38.00% | ~917 |
-| HEADSHOT! | 37.00% | ~893 |
+| Jailbreak | 65.00% | ~1,570 |
+| HEADSHOT! | 38.00% | ~918 |
+| Suited and Booted | 38.00% | ~918 |
 | Sleeping With The Fishes | 35.00% | ~845 |
 | Overheated | 30.00% | ~724 |
 | High Performance | 30.00% | ~724 |
 | Powered Up | 28.00% | ~676 |
-| Studied The Blade | 24.00% | ~579 |
+| Studied The Blade | 24.00% | ~580 |
 | Home Invasion | 23.00% | ~555 |
 | Luminary | 22.00% | ~531 |
 | It's a Trap | 22.00% | ~531 |
@@ -25,7 +25,7 @@ Rating: 4.27 (Ranked 892)
 | Unforeseeable Consequences | 19.00% | ~459 |
 | Dead Again | 18.00% | ~435 |
 | Clean Cut | 18.00% | ~435 |
-| Full Arsenal | 17.00% | ~410 |
+| Full Arsenal | 17.00% | ~411 |
 | Can't Trust Banks | 15.00% | ~362 |
 | Mommy Dearest | 13.00% | ~314 |
 | Bad Dog | 13.00% | ~314 |
@@ -35,7 +35,7 @@ Rating: 4.27 (Ranked 892)
 | Corrupted Beauty | 12.00% | ~290 |
 | Marked For Success | 12.00% | ~290 |
 | Sorry, Didn't See You There | 12.00% | ~290 |
-| Triplets | 10.00% | ~241 |
+| Triplets | 10.00% | ~242 |
 | Denying Prophecy | 9.00% | ~217 |
 | Stimulating The Local Economy | 9.00% | ~217 |
 | A Little Banged Up | 8.00% | ~193 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 892)
 | Three Birds With One Stone | 1.00% | ~24 |
 | The Easy Way Out | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,414 (Ranked 230)  
+Progressed: 2,415 (Ranked 230)  
 Completed: 13 (0.54%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 13 (0.54%) (Ranked 211)
 | 2023-12-27 | 2,388 | 13 |
 | 2023-12-28 | 2,397 | 13 |
 | 2023-12-29 | 2,408 | 13 |
-| 2023-12-30 | 2,414 | 13 |
+| 2023-12-30 | 2,415 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

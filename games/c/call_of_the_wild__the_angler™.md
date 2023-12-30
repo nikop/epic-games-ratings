@@ -7,8 +7,8 @@ Number of Ratings: 281  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fish Just Got Reel | 15.00% | ~1,163 |
+| Hey Good Hookin | 13.00% | ~1,008 |
 | More Fish in the Sea | 13.00% | ~1,008 |
-| Hey Good Hookin | 12.00% | ~930 |
 | Can you smell what the Rod is Hooking | 11.00% | ~853 |
 | Scaling up | 11.00% | ~853 |
 | I'm on a Boat! | 10.00% | ~775 |
@@ -27,8 +27,8 @@ Number of Ratings: 281  (23.09.2022)
 | More than a Tourist | 0.60% | ~47 |
 | No Fin left to give | 0.50% | ~39 |
 | Gonna Need a Bigger Boat | 0.50% | ~39 |
-| Live by the Rod, Diez by the Rod! | 0.40% | ~28 |
-| Aguas Claras Conquistador | 0.40% | ~28 |
+| Live by the Rod, Diez by the Rod! | 0.40% | ~29 |
+| Aguas Claras Conquistador | 0.40% | ~29 |
 | All Good Kings Must Come to an End | 0.30% | ~21 |
 | Three Square Meals | 0.30% | ~21 |
 | The Beetles | 0.20% | ~16 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,753 (Ranked 188)  
+Progressed: 7,754 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 7,651 | 0 |
 | 2023-12-28 | 7,687 | 0 |
 | 2023-12-29 | 7,723 | 0 |
-| 2023-12-30 | 7,753 | 0 |
+| 2023-12-30 | 7,754 | 0 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 474)  
 Sum: 212 (Ranked 408)  
