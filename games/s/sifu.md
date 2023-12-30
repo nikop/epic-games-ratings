@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 4.00% | ~29,932 |
-| Life is your teacher | 4.00% | ~29,932 |
-| The Assault | 3.00% | ~22,449 |
-| Lightning Hands | 3.00% | ~22,449 |
+| The Old Grandmaster | 4.00% | ~29,933 |
+| Life is your teacher | 4.00% | ~29,933 |
+| The Assault | 3.00% | ~22,450 |
+| Lightning Hands | 3.00% | ~22,450 |
 | The Hateful Pole Fighter | 2.00% | ~14,966 |
 | A Lady's Blood in the Snow | 2.00% | ~14,966 |
 | Stuntmaster | 2.00% | ~14,966 |
@@ -30,13 +30,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Project Arena | 1.00% | ~576 |
 | Scareless | 0.90% | ~6,735 |
 | Kung-Fu Tussle | 0.90% | ~6,735 |
-| Dance of the Praying Mantis | 0.80% | ~5,986 |
+| Dance of the Praying Mantis | 0.80% | ~5,987 |
 | Fight the way you practice | 0.70% | ~403 |
 | Martial Hub | 0.60% | ~346 |
-| Muk Yan Master | 0.50% | ~3,741 |
-| Tiger on Fire | 0.50% | ~3,741 |
-| Source of Flying Daggers | 0.50% | ~3,741 |
-| Detective Story | 0.50% | ~3,741 |
+| Muk Yan Master | 0.50% | ~3,742 |
+| Tiger on Fire | 0.50% | ~3,742 |
+| Source of Flying Daggers | 0.50% | ~3,742 |
+| Detective Story | 0.50% | ~3,742 |
 | Bloody Sport | 0.50% | ~288 |
 | Iron Money | 0.40% | ~2,993 |
 | Legendary Talismans of Wuxing | 0.40% | ~2,993 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~58 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 748,293 (Ranked 23)  
+Progressed: 748,321 (Ranked 23)  
 Completed: 12,968 (1.73%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 12,968 (1.73%) (Ranked 142)
 | 2023-12-27 | 746,407 | 12,967 |
 | 2023-12-28 | 747,246 | 12,967 |
 | 2023-12-29 | 748,212 | 12,968 |
-| 2023-12-30 | 748,293 | 12,968 |
+| 2023-12-30 | 748,321 | 12,968 |
 ## Awards
 Max (Great Boss Battles): 7,052  (Ranked 55)  
 Sum: 12,487 (Ranked 84)  

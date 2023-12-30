@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 118346,
+  "EOS_Progressed": 118352,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 864,
+  "EOS_NewPlayers": 867,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -23060,6 +23060,11 @@
       "Time": "2023-12-30T02:29:22.0303697+00:00",
       "NumProgressed": 118346,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-12-30T03:10:54.014757+00:00",
+      "NumProgressed": 118352,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 49,
@@ -23079,7 +23084,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 91126
+      "UsersEstimate": 91131
     },
     {
       "ID": "EAwards_10",
@@ -23095,7 +23100,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 31953
+      "UsersEstimate": 31955
     },
     {
       "ID": "EAwards_12",
@@ -23103,7 +23108,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17752
+      "UsersEstimate": 17753
     },
     {
       "ID": "EAwards_13",
@@ -23119,7 +23124,7 @@
       "Name": "6-Piece Combo",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "EAwards_15",
@@ -23127,7 +23132,7 @@
       "Name": "He Looks Portable",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 13018
+      "UsersEstimate": 13019
     },
     {
       "ID": "EAwards_16",
@@ -23135,7 +23140,7 @@
       "Name": "PERFECT",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 8284
+      "UsersEstimate": 8285
     },
     {
       "ID": "EAwards_17",
@@ -23143,7 +23148,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 43788
+      "UsersEstimate": 43790
     },
     {
       "ID": "EAwards_18",
@@ -23151,7 +23156,7 @@
       "Name": "You Survived",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10651
+      "UsersEstimate": 10652
     },
     {
       "ID": "EAwards_19",
@@ -23167,7 +23172,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 57990
+      "UsersEstimate": 57992
     },
     {
       "ID": "EAwards_20",
@@ -23175,7 +23180,7 @@
       "Name": "King of the Hill",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 13018
+      "UsersEstimate": 13019
     },
     {
       "ID": "EAwards_21",
@@ -23183,7 +23188,7 @@
       "Name": "Special Delivery!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 8284
+      "UsersEstimate": 8285
     },
     {
       "ID": "EAwards_22",
@@ -23207,7 +23212,7 @@
       "Name": "Temple Raider",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 8284
+      "UsersEstimate": 8285
     },
     {
       "ID": "EAwards_25",
@@ -23215,7 +23220,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 22486
+      "UsersEstimate": 22487
     },
     {
       "ID": "EAwards_26",
@@ -23223,7 +23228,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 13018
+      "UsersEstimate": 13019
     },
     {
       "ID": "EAwards_27",
@@ -23247,7 +23252,7 @@
       "Name": "Talk to the Hend",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3550
+      "UsersEstimate": 3551
     },
     {
       "ID": "EAwards_3",
@@ -23255,7 +23260,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 23669
+      "UsersEstimate": 23670
     },
     {
       "ID": "EAwards_30",
@@ -23271,7 +23276,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 13018
+      "UsersEstimate": 13019
     },
     {
       "ID": "EAwards_32",
@@ -23279,7 +23284,7 @@
       "Name": "El T\u00E9cnico T\u00E1ctico",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 8284
+      "UsersEstimate": 8285
     },
     {
       "ID": "EAwards_33",
@@ -23303,7 +23308,7 @@
       "Name": "Nacho Libre",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 10651
+      "UsersEstimate": 10652
     },
     {
       "ID": "EAwards_36",
@@ -23343,7 +23348,7 @@
       "Name": "Severed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 15385
+      "UsersEstimate": 15386
     },
     {
       "ID": "EAwards_40",
@@ -23431,7 +23436,7 @@
       "Name": "Severed 2",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10651
+      "UsersEstimate": 10652
     },
     {
       "ID": "EAwards_7",
@@ -23455,14 +23460,14 @@
       "Name": "Grapple Expert",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 13018
+      "UsersEstimate": 13019
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 118346,
+      "Progressed": 118352,
       "Completed": 54
     }
   ],
@@ -23470,8 +23475,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-12-21T05:59:27.8580735+00:00",
-  "LastChanged_Achievements": "2023-12-30T02:29:22.0303695+00:00",
+  "LastChanged_Achievements": "2023-12-30T03:10:54.0147568+00:00",
   "LastUpdate_AppInfo": "2023-12-29T08:57:21.6773482+00:00",
-  "LastUpdate_Ratings": "2023-12-30T02:19:49.480523+00:00",
-  "LastUpdate_Achievements": "2023-12-30T02:29:22.0304869+00:00"
+  "LastUpdate_Ratings": "2023-12-30T03:01:44.102124+00:00",
+  "LastUpdate_Achievements": "2023-12-30T03:10:54.0149317+00:00"
 }

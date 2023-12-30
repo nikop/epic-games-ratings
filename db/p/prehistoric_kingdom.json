@@ -2,13 +2,13 @@
   "ID": "a334241ad093462d94f2ff8c84dc392a",
   "Name": "Prehistoric Kingdom",
   "ProductSlug": "prehistoric-kingdom",
-  "Ranking_Rating": 569,
+  "Ranking_Rating": 557,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-04-27T17:00:00+00:00",
     "PcReleaseDate": "2022-04-27T17:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.52,
+  "Rating": 4.53,
   "NumberOfRatings": 40,
   "RatingHistory": [
     {
@@ -220,6 +220,12 @@
     {
       "Time": "2023-12-17T05:01:49.5575887+00:00",
       "Rating": 4.52,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-30T03:00:37.7582588+00:00",
+      "Rating": 4.53,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -424,9 +430,9 @@
   ],
   "FirstSeen": "2022-07-22T20:30:08.8557624+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:29.9430282+00:00",
-  "LastChanged": "2023-12-17T05:01:49.5575885+00:00",
-  "LastChanged_Achievements": "2023-12-30T02:27:37.1823785+00:00",
+  "LastChanged": "2023-12-30T03:00:37.7582587+00:00",
+  "LastChanged_Achievements": "2023-12-30T03:08:38.7350631+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:04.0275559+00:00",
-  "LastUpdate_Ratings": "2023-12-30T02:18:59.7978738+00:00",
-  "LastUpdate_Achievements": "2023-12-30T02:27:37.1823955+00:00"
+  "LastUpdate_Ratings": "2023-12-30T03:00:37.7582591+00:00",
+  "LastUpdate_Achievements": "2023-12-30T03:08:38.7350735+00:00"
 }

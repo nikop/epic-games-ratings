@@ -18,8 +18,8 @@
 | Sensitive soul | 34.00% | ~41 |
 | The beast within | 33.00% | ~40 |
 | It's getting dark | 33.00% | ~40 |
+| Rooftop | 30.00% | ~36 |
 | Hard Rock | 30.00% | ~36 |
-| Rooftop | 29.00% | ~35 |
 | Homeless | 28.00% | ~34 |
 | Big badaboom! | 27.00% | ~33 |
 | Payback | 25.00% | ~30 |

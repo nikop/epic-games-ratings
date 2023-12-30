@@ -4,8 +4,8 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 262,
+  "EOS_Progressed": 263,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -680,6 +680,11 @@
       "Time": "2023-12-29T19:05:51.6918675+00:00",
       "NumProgressed": 262,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T03:07:09.1673348+00:00",
+      "NumProgressed": 263,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -753,9 +758,9 @@
       "ID": "easy_listening",
       "SetID": "3j2phem",
       "Name": "Easy Listening",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "ending_on_a_high_note",
@@ -859,7 +864,7 @@
       "Name": "Perfect Harmony!",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "phonic_boom",
@@ -930,7 +935,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 262,
+      "Progressed": 263,
       "Completed": 0
     }
   ],
@@ -938,8 +943,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-12-30T02:25:20.9800825+00:00",
+  "LastChanged_Achievements": "2023-12-30T03:07:09.1673345+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:19:56.58025+00:00",
-  "LastUpdate_Ratings": "2023-12-30T02:19:29.9167349+00:00",
-  "LastUpdate_Achievements": "2023-12-30T02:25:20.9801025+00:00"
+  "LastUpdate_Ratings": "2023-12-30T03:01:17.9515239+00:00",
+  "LastUpdate_Achievements": "2023-12-30T03:07:09.1673544+00:00"
 }

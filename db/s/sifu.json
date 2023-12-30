@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8601,9 +8601,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 748293,
+  "EOS_Progressed": 748321,
   "EOS_Completed": 12968,
-  "EOS_NewPlayers": 7878,
+  "EOS_NewPlayers": 7871,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.73,
   "EosHistory": [
@@ -31521,6 +31521,11 @@
       "Time": "2023-12-30T02:28:23.1017512+00:00",
       "NumProgressed": 748293,
       "NumCompleted": 12968
+    },
+    {
+      "Time": "2023-12-30T03:09:37.8767982+00:00",
+      "NumProgressed": 748321,
+      "NumCompleted": 12968
     }
   ],
   "TotalAchievements": 60,
@@ -31532,7 +31537,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29932
+      "UsersEstimate": 29933
     },
     {
       "ID": "02_Vengeance_H1",
@@ -31540,7 +31545,7 @@
       "Name": "The Assault",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22449
+      "UsersEstimate": 22450
     },
     {
       "ID": "03_Vengeance_H2",
@@ -31580,7 +31585,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3741
+      "UsersEstimate": 3742
     },
     {
       "ID": "08_Wude_H2",
@@ -31588,7 +31593,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3741
+      "UsersEstimate": 3742
     },
     {
       "ID": "09_Wude_H3",
@@ -31596,7 +31601,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3741
+      "UsersEstimate": 3742
     },
     {
       "ID": "10_Wude_H4",
@@ -31644,7 +31649,7 @@
       "Name": "Detective Story",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3741
+      "UsersEstimate": 3742
     },
     {
       "ID": "16_Detective_H2",
@@ -31692,7 +31697,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5986
+      "UsersEstimate": 5987
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -31708,7 +31713,7 @@
       "Name": "Life is your teacher",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29932
+      "UsersEstimate": 29933
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -31796,7 +31801,7 @@
       "Name": "Lightning Hands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22449
+      "UsersEstimate": 22450
     },
     {
       "ID": "35_WideStrike",
@@ -32011,21 +32016,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 57594,
+      "Progressed": 57622,
       "Completed": 10792
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 748293,
+      "Progressed": 748321,
       "Completed": 12968
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-30T01:46:04.5197438+00:00",
-  "LastChanged_Achievements": "2023-12-30T02:28:23.1017508+00:00",
+  "LastChanged_Achievements": "2023-12-30T03:09:37.8767979+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:49.3189229+00:00",
-  "LastUpdate_Ratings": "2023-12-30T02:22:17.5118915+00:00",
-  "LastUpdate_Achievements": "2023-12-30T02:28:23.1018842+00:00"
+  "LastUpdate_Ratings": "2023-12-30T03:03:12.260036+00:00",
+  "LastUpdate_Achievements": "2023-12-30T03:09:37.8769288+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -639,9 +639,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6500,
+  "EOS_Progressed": 6502,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 491,
+  "EOS_NewPlayers": 489,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9689,6 +9689,11 @@
       "Time": "2023-12-30T01:49:18.6928732+00:00",
       "NumProgressed": 6500,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-30T03:06:29.2662455+00:00",
+      "NumProgressed": 6502,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9924,7 +9929,7 @@
       "Name": "I Want to Break Free",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "36",
@@ -9988,7 +9993,7 @@
       "Name": "Master of Evilness",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "43",
@@ -9996,7 +10001,7 @@
       "Name": "The Grey Wizard",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "44",
@@ -10028,7 +10033,7 @@
       "Name": "Returning Circle",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "8",
@@ -10044,7 +10049,7 @@
       "Name": "I\u0027ll Fight You All",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "45",
@@ -10092,7 +10097,7 @@
       "Name": "Draconic Connoisseur",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "51",
@@ -10179,13 +10184,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6500,
+      "Progressed": 6502,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6500,
+      "Progressed": 6502,
       "Completed": 7
     }
   ],
@@ -10193,8 +10198,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-29T16:57:41.4982798+00:00",
-  "LastChanged_Achievements": "2023-12-30T02:24:50.1436984+00:00",
+  "LastChanged_Achievements": "2023-12-30T03:06:29.2662452+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-30T02:17:10.061465+00:00",
-  "LastUpdate_Achievements": "2023-12-30T02:24:50.1438066+00:00"
+  "LastUpdate_Ratings": "2023-12-30T02:58:09.2037767+00:00",
+  "LastUpdate_Achievements": "2023-12-30T03:06:29.2663691+00:00"
 }

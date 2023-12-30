@@ -1,7 +1,7 @@
 # Song of Nunu: A League of Legends Story
 [Store](https://store.epicgames.com/en-US/p/song-of-nunu-a-league-of-legends-story)  
 [View Rawdata](../../db/s/song_of_nunu__a_league_of_legends_story™.json)  
-Rating: 4.52 (Ranked 569)  
+Rating: 4.52 (Ranked 570)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,12 +13,12 @@ Rating: 4.52 (Ranked 569)
 | He's Famous! | 65.00% | ~902 |
 | Cutie Poro | 65.00% | ~902 |
 | Krugmazing | 64.00% | ~888 |
+| The Fire Below the Mountain | 61.00% | ~846 |
 | Moneyball | 60.00% | ~832 |
-| The Fire Below the Mountain | 60.00% | ~832 |
 | No Bites | 55.00% | ~763 |
 | Iceborn | 55.00% | ~763 |
+| Tear of Freedom | 52.00% | ~721 |
 | Boom Things | 52.00% | ~721 |
-| Tear of Freedom | 51.00% | ~707 |
 | My Darkest Day | 48.00% | ~666 |
 | Rhythm Of Willump | 46.00% | ~638 |
 | The Relentless Storm | 46.00% | ~638 |

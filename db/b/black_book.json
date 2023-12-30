@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
     "PcReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -681,9 +681,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 63511,
+  "EOS_Progressed": 63515,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 1777,
+  "EOS_NewPlayers": 1772,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15046,6 +15046,11 @@
       "Time": "2023-12-30T02:27:45.1373278+00:00",
       "NumProgressed": 63511,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-12-30T03:08:49.216698+00:00",
+      "NumProgressed": 63515,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -15130,7 +15135,7 @@
       "Name": "Cow Level",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 6986
+      "UsersEstimate": 6987
     },
     {
       "ID": "DEAD_MAN",
@@ -15170,7 +15175,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 13972
+      "UsersEstimate": 13973
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -15178,7 +15183,7 @@
       "Name": "Scientist",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 6986
+      "UsersEstimate": 6987
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -15210,7 +15215,7 @@
       "Name": "Righteous",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2540
+      "UsersEstimate": 2541
     },
     {
       "ID": "GREAT_SORCERER",
@@ -15242,7 +15247,7 @@
       "Name": "Herbalist",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6351
+      "UsersEstimate": 6352
     },
     {
       "ID": "HERBS_3",
@@ -15258,7 +15263,7 @@
       "Name": "Initiation",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 18418
+      "UsersEstimate": 18419
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -15290,7 +15295,7 @@
       "Name": "Musician",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2540
+      "UsersEstimate": 2541
     },
     {
       "ID": "NEW_SPIRITS",
@@ -15306,7 +15311,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7621
+      "UsersEstimate": 7622
     },
     {
       "ID": "NORMAL_END",
@@ -15314,7 +15319,7 @@
       "Name": "Koldun",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2540
+      "UsersEstimate": 2541
     },
     {
       "ID": "OLD_SPIRITS",
@@ -15410,7 +15415,7 @@
       "Name": "Water",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6351
+      "UsersEstimate": 6352
     },
     {
       "ID": "WOLF",
@@ -15457,15 +15462,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 63511,
+      "Progressed": 63515,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-26T15:58:19.0277627+00:00",
-  "LastChanged_Achievements": "2023-12-30T02:27:45.1373275+00:00",
+  "LastChanged_Achievements": "2023-12-30T03:08:49.2166976+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:39.3063117+00:00",
-  "LastUpdate_Ratings": "2023-12-30T02:19:15.5863843+00:00",
-  "LastUpdate_Achievements": "2023-12-30T02:27:45.1374203+00:00"
+  "LastUpdate_Ratings": "2023-12-30T03:00:58.3374241+00:00",
+  "LastUpdate_Achievements": "2023-12-30T03:08:49.2167775+00:00"
 }

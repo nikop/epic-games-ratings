@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7849,9 +7849,9 @@
       "Count": 3807
     }
   ],
-  "EOS_Progressed": 148373,
+  "EOS_Progressed": 148375,
   "EOS_Completed": 338,
-  "EOS_NewPlayers": 1326,
+  "EOS_NewPlayers": 1324,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -34514,6 +34514,11 @@
       "Time": "2023-12-30T02:23:45.7290469+00:00",
       "NumProgressed": 148373,
       "NumCompleted": 338
+    },
+    {
+      "Time": "2023-12-30T03:05:08.6120225+00:00",
+      "NumProgressed": 148375,
+      "NumCompleted": 338
     }
   ],
   "TotalAchievements": 112,
@@ -34541,7 +34546,7 @@
       "Name": "A Notch Above the Rest",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "advlevel04",
@@ -34549,7 +34554,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "advlevel05",
@@ -34557,7 +34562,7 @@
       "Name": "Top of the World",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "argon_a",
@@ -34565,7 +34570,7 @@
       "Name": "Proud Paladin",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "ascend01",
@@ -34581,7 +34586,7 @@
       "Name": "Above the Norm",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "ascend03",
@@ -34589,7 +34594,7 @@
       "Name": "Constellated",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "ashley_a",
@@ -34597,7 +34602,7 @@
       "Name": "A Ronin Reborn",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "bigsale01",
@@ -34621,7 +34626,7 @@
       "Name": "The King\u0027s Caprice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "blueprint01",
@@ -34645,7 +34650,7 @@
       "Name": "Thirst for Knowledge",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "bookentry",
@@ -34669,7 +34674,7 @@
       "Name": "Big Game Hunting",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "boss03",
@@ -34693,7 +34698,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14837
+      "UsersEstimate": 14838
     },
     {
       "ID": "chest02",
@@ -34701,7 +34706,7 @@
       "Name": "For the Hoard!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "chest03",
@@ -34709,7 +34714,7 @@
       "Name": "Booty by the Boatload",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "collection01",
@@ -34725,7 +34730,7 @@
       "Name": "Scrapbooker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "collection03",
@@ -34733,7 +34738,7 @@
       "Name": "Archivist",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "collection04",
@@ -34773,7 +34778,7 @@
       "Name": "Locally Sourced",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "commonres04",
@@ -34781,7 +34786,7 @@
       "Name": "Fillin\u0027 the Bin",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "craft01",
@@ -34805,7 +34810,7 @@
       "Name": "Flying off the Shelves",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "craft04",
@@ -34813,7 +34818,7 @@
       "Name": "Industrial Evolution",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "craft05",
@@ -34837,7 +34842,7 @@
       "Name": "This Power Level...!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "damage03",
@@ -34845,7 +34850,7 @@
       "Name": "Omae wa Mou Shindeiru",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "donovan_a",
@@ -34853,7 +34858,7 @@
       "Name": "Master of Transmutation",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "enchant01",
@@ -34861,7 +34866,7 @@
       "Name": "Hidden Potential",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "enchant02",
@@ -34893,7 +34898,7 @@
       "Name": "Supercharged",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "expansion01",
@@ -34909,7 +34914,7 @@
       "Name": "Expansion in Session",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "expansion03",
@@ -34925,7 +34930,7 @@
       "Name": "Ritualist",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "furniture01",
@@ -34941,7 +34946,7 @@
       "Name": "Cranked up to 11",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "furniture03",
@@ -34949,7 +34954,7 @@
       "Name": "Fit for a King",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "fuseepic",
@@ -34957,7 +34962,7 @@
       "Name": "By Your Powers Combined...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "fuseflawless",
@@ -34973,7 +34978,7 @@
       "Name": "A Legend is Born",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "fuseuncommon",
@@ -34981,7 +34986,7 @@
       "Name": "Trash to Treasure",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "gemsspent",
@@ -35029,7 +35034,7 @@
       "Name": "Mammonite",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "gold06",
@@ -35037,7 +35042,7 @@
       "Name": "Wealth Beyond Measure",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "help01",
@@ -35053,7 +35058,7 @@
       "Name": "Fat Cat Tag Team",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "help03",
@@ -35069,7 +35074,7 @@
       "Name": "Necromancer Queen",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "jackslot01",
@@ -35101,7 +35106,7 @@
       "Name": "Item of Renown",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "level01",
@@ -35125,7 +35130,7 @@
       "Name": "Master Merchant",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "level04",
@@ -35141,7 +35146,7 @@
       "Name": "Miracle Alchemist",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "loot01",
@@ -35157,7 +35162,7 @@
       "Name": "Laden with Loot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "loot03",
@@ -35165,7 +35170,7 @@
       "Name": "Bountiful Harvest",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "loot04",
@@ -35197,7 +35202,7 @@
       "Name": "Seasoned Journeyman",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "master04",
@@ -35205,7 +35210,7 @@
       "Name": "Precision Engineering",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "master05",
@@ -35229,7 +35234,7 @@
       "Name": "Scourge of the Seas",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "quest01",
@@ -35245,7 +35250,7 @@
       "Name": "Attrition Mission",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "quest03",
@@ -35261,7 +35266,7 @@
       "Name": "To Hell and Back",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "rareres01",
@@ -35269,7 +35274,7 @@
       "Name": "Glittering Collection",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "rareres02",
@@ -35277,7 +35282,7 @@
       "Name": "Treasure Trove",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "rareres03",
@@ -35293,7 +35298,7 @@
       "Name": "Moment of Respite",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "sell01",
@@ -35309,7 +35314,7 @@
       "Name": "Black Friday Special",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "sell03",
@@ -35317,7 +35322,7 @@
       "Name": "Cash Only Please",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "sia_a",
@@ -35325,7 +35330,7 @@
       "Name": "King\u0027s Shadow",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "transmuter",
@@ -35333,7 +35338,7 @@
       "Name": "Master Recycler",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "tutorial",
@@ -35357,7 +35362,7 @@
       "Name": "All Accounted For",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "uncommonres01",
@@ -35365,7 +35370,7 @@
       "Name": "Special Ingredient",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "uncommonres02",
@@ -35373,7 +35378,7 @@
       "Name": "Exotic Commodities",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "uncommonres03",
@@ -35381,7 +35386,7 @@
       "Name": "Economy of Scarce",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "workers01",
@@ -35413,22 +35418,22 @@
       "Name": "King\u0027s Blade",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     }
   ],
   "AchievementSets": [
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 148373,
+      "Progressed": 148375,
       "Completed": 338
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-29T23:03:05.1750024+00:00",
-  "LastChanged_Achievements": "2023-12-30T02:23:45.7290466+00:00",
+  "LastChanged_Achievements": "2023-12-30T03:05:08.6120223+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:55.73992+00:00",
-  "LastUpdate_Ratings": "2023-12-30T02:22:28.2638067+00:00",
-  "LastUpdate_Achievements": "2023-12-30T02:23:45.7292499+00:00"
+  "LastUpdate_Ratings": "2023-12-30T03:03:26.4037594+00:00",
+  "LastUpdate_Achievements": "2023-12-30T03:05:08.6122406+00:00"
 }

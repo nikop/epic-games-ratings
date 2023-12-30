@@ -10,16 +10,16 @@ Number of Ratings: 85  (23.09.2022)
 | Kaijuiced | 67.00% | ~152 |
 | Lie Back and Think of Albion | 60.00% | ~136 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 59.00% | ~134 |
+| I Look Up As I Walk to Takoshima | 56.00% | ~127 |
 | Yettisoned | 55.00% | ~125 |
-| I Look Up As I Walk to Takoshima | 55.00% | ~125 |
 | Perfect Probulator | 54.00% | ~123 |
 | Pimp My Raid | 50.00% | ~114 |
 | Lobster Blisque | 49.00% | ~111 |
 | Earthly Pleasures | 47.00% | ~107 |
 | Fly Me to the Moon Base | 45.00% | ~102 |
 | Ducks in a Row, Fish in a Barrel | 44.00% | ~100 |
+| Freshly Squeezed | 36.00% | ~82 |
 | Forbidden Donut | 35.00% | ~79 |
-| Freshly Squeezed | 35.00% | ~79 |
 | Bodied Sattva | 34.00% | ~77 |
 | Upgreatest | 33.00% | ~75 |
 | Furon Fashion | 28.00% | ~64 |
@@ -27,9 +27,9 @@ Number of Ratings: 85  (23.09.2022)
 | Rock of the Bay | 25.00% | ~57 |
 | Trans-Siberian Express | 23.00% | ~52 |
 | Re-Return of the Clone of the Invasion II-2 | 19.00% | ~43 |
+| Ouch of Body Experience | 17.00% | ~39 |
 | If You Know What I Mean | 17.00% | ~39 |
 | Arkvoodle Doodle | 16.00% | ~36 |
-| Ouch of Body Experience | 16.00% | ~36 |
 | Die Nasty | 15.00% | ~34 |
 | Hidden Human Hive Harvest | 14.00% | ~32 |
 | Mash Machine | 14.00% | ~32 |

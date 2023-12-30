@@ -5,10 +5,10 @@ Rating: 4.58 (Ranked 463)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 31.00% | ~1,184 |
+| Wakey Wakey | 32.00% | ~1,222 |
 | Sputnik 2049 | 28.00% | ~1,069 |
+| Infinite Growth... | 27.00% | ~1,031 |
 | Without Breaking Some Eggs... | 26.00% | ~993 |
-| Infinite Growth... | 26.00% | ~993 |
 | Space Society | 18.00% | ~687 |
 | A Thousand Strong | 18.00% | ~687 |
 | Ready for a New World | 18.00% | ~687 |

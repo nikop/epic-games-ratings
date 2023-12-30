@@ -59,14 +59,14 @@ Rating: 4.63 (Ranked 354)
 | The Magic That Empowers Me! | 0.40% | ~26 |
 | Jack of All Tomes | 0.30% | ~20 |
 | A Very Special Ring | 0.30% | ~20 |
-| I Want to Break Free | 0.10% | ~6 |
-| Master of Evilness | 0.10% | ~6 |
-| The Grey Wizard | 0.10% | ~6 |
-| Returning Circle | 0.10% | ~6 |
-| I'll Fight You All | 0.10% | ~6 |
-| Draconic Connoisseur | 0.10% | ~6 |
+| I Want to Break Free | 0.10% | ~7 |
+| Master of Evilness | 0.10% | ~7 |
+| The Grey Wizard | 0.10% | ~7 |
+| Returning Circle | 0.10% | ~7 |
+| I'll Fight You All | 0.10% | ~7 |
+| Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,500 (Ranked 195)  
+Progressed: 6,502 (Ranked 195)  
 Completed: 7 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 7 (0.11%) (Ranked 304)
 | 2023-12-27 | 6,359 | 7 |
 | 2023-12-28 | 6,414 | 7 |
 | 2023-12-29 | 6,495 | 7 |
-| 2023-12-30 | 6,500 | 7 |
+| 2023-12-30 | 6,502 | 7 |
 ## Awards
 Max (Diverse Characters): 38  (Ranked 481)  
 Sum: 161 (Ranked 436)  

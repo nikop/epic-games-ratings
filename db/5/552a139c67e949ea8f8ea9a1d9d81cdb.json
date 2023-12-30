@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1725,
+  "EOS_Progressed": 1726,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
@@ -4257,6 +4257,11 @@
       "Time": "2023-12-30T02:23:35.5789319+00:00",
       "NumProgressed": 1725,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T03:04:55.1475774+00:00",
+      "NumProgressed": 1726,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4325,7 +4330,7 @@
       "Name": "Versatile riding",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -4445,7 +4450,7 @@
       "Name": "The Scorpion",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -4636,20 +4641,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1725,
+      "Progressed": 1726,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1393,
+      "Progressed": 1394,
       "Completed": 1006
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-30T02:23:35.5789316+00:00",
+  "LastChanged_Achievements": "2023-12-30T03:04:55.1475772+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2023-12-30T02:17:05.8102026+00:00",
-  "LastUpdate_Achievements": "2023-12-30T02:23:35.5789777+00:00"
+  "LastUpdate_Ratings": "2023-12-30T02:58:03.6729505+00:00",
+  "LastUpdate_Achievements": "2023-12-30T03:04:55.1476229+00:00"
 }

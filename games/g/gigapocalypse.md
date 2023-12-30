@@ -50,8 +50,8 @@
 | Godlike Skin | 7.00% | ~14 |
 | Feast Time | 7.00% | ~14 |
 | Unlucky Luke | 6.00% | ~12 |
+| Cheesy Chess | 6.00% | ~12 |
 | A Phony Clown | 5.00% | ~10 |
-| Cheesy Chess | 5.00% | ~10 |
 | Octopy Mayhem | 5.00% | ~10 |
 | Duck Knight | 4.00% | ~8 |
 | Got'em Totem | 4.00% | ~8 |

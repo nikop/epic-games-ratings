@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2342,
+  "EOS_Progressed": 2343,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6604,6 +6604,11 @@
       "Time": "2023-12-30T02:29:29.1249503+00:00",
       "NumProgressed": 2342,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T03:11:02.3364479+00:00",
+      "NumProgressed": 2343,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6840,7 +6845,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 2061
+      "UsersEstimate": 2062
     },
     {
       "ID": "achievement_36",
@@ -6856,15 +6861,15 @@
       "Name": "Off to a good start",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1475
+      "UsersEstimate": 1476
     },
     {
       "ID": "achievement_38",
       "SetID": "271ol84",
       "Name": "Survivor",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 187
     },
     {
       "ID": "achievement_39",
@@ -6968,7 +6973,7 @@
       "Name": "Shoot first",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "achievement_50",
@@ -7119,13 +7124,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2342,
+      "Progressed": 2343,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2342,
+      "Progressed": 2343,
       "Completed": 1
     }
   ],
@@ -7133,8 +7138,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-30T02:29:29.1249496+00:00",
+  "LastChanged_Achievements": "2023-12-30T03:11:02.3364474+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.4116758+00:00",
-  "LastUpdate_Ratings": "2023-12-30T02:16:33.6293931+00:00",
-  "LastUpdate_Achievements": "2023-12-30T02:29:29.1250293+00:00"
+  "LastUpdate_Ratings": "2023-12-30T02:57:20.3898251+00:00",
+  "LastUpdate_Achievements": "2023-12-30T03:11:02.336542+00:00"
 }

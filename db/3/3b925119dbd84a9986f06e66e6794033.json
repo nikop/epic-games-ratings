@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 563,
+  "EOS_Progressed": 566,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1854,6 +1854,11 @@
       "Time": "2023-12-30T02:29:07.683862+00:00",
       "NumProgressed": 563,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T03:10:35.8474473+00:00",
+      "NumProgressed": 566,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1898,7 +1903,7 @@
       "Name": "Hypnotorious: Brainiacs",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "HYPNO_OUTLIER_ID",
@@ -1938,7 +1943,7 @@
       "Name": "FixyText: Bestseller",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -1954,7 +1959,7 @@
       "Name": "FixyText: Co-author",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "TIME_JINX",
@@ -1978,7 +1983,7 @@
       "Name": "Timejinx: The Perfect Date",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -1986,7 +1991,7 @@
       "Name": "Timejinx: The Perfect Guest",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -2025,14 +2030,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 563,
+      "Progressed": 566,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-30T02:29:07.6838615+00:00",
+  "LastChanged_Achievements": "2023-12-30T03:10:35.8474468+00:00",
   "LastUpdate_AppInfo": "2023-12-30T02:16:13.4108208+00:00",
-  "LastUpdate_Ratings": "2023-12-30T02:21:54.5329103+00:00",
-  "LastUpdate_Achievements": "2023-12-30T02:29:07.6838911+00:00"
+  "LastUpdate_Ratings": "2023-12-30T03:02:42.3872134+00:00",
+  "LastUpdate_Achievements": "2023-12-30T03:10:35.8474754+00:00"
 }

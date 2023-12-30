@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -284,7 +284,7 @@
   ],
   "EOS_Progressed": 248,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1252,9 +1252,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1580,9 +1580,9 @@
       "ID": "ACH_UNLOCK_BURROW_BEAST",
       "SetID": "4n84pon",
       "Name": "Arkvoodle Doodle",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_UPGRADE_CRYPTO",
@@ -1613,8 +1613,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-28T10:58:39.1665152+00:00",
-  "LastChanged_Achievements": "2023-12-30T02:28:22.4569604+00:00",
+  "LastChanged_Achievements": "2023-12-30T03:09:37.030588+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.3331257+00:00",
-  "LastUpdate_Ratings": "2023-12-30T02:18:57.7125061+00:00",
-  "LastUpdate_Achievements": "2023-12-30T02:28:22.4569934+00:00"
+  "LastUpdate_Ratings": "2023-12-30T03:00:34.6905106+00:00",
+  "LastUpdate_Achievements": "2023-12-30T03:09:37.0306141+00:00"
 }

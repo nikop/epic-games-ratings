@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 575,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 496,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-08T03:00:00+00:00",
     "PcReleaseDate": "2023-11-04T03:00:00+00:00",
@@ -378,9 +378,9 @@
       "ID": "DestroyNestsWithMashuras",
       "SetID": "59jf8f5",
       "Name": "A Private Issue?",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "DestroyTwoNestsAtOnceWithKamakinoko",
@@ -705,8 +705,8 @@
   ],
   "FirstSeen": "2023-11-24T21:58:03.1577897+00:00",
   "FirstSeenAchievements": "2023-11-07T04:02:54.7866362+00:00",
-  "LastChanged_Achievements": "2023-12-30T02:26:09.8182533+00:00",
+  "LastChanged_Achievements": "2023-12-30T03:08:30.7564774+00:00",
   "LastUpdate_AppInfo": "2023-12-26T06:57:11.627534+00:00",
-  "LastUpdate_Ratings": "2023-12-30T02:16:36.5600405+00:00",
-  "LastUpdate_Achievements": "2023-12-30T02:26:09.818299+00:00"
+  "LastUpdate_Ratings": "2023-12-30T02:57:24.4041185+00:00",
+  "LastUpdate_Achievements": "2023-12-30T03:08:30.7565343+00:00"
 }

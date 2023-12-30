@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -209,9 +209,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 8702,
+  "EOS_Progressed": 8709,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2227,
+  "EOS_NewPlayers": 2222,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2909,6 +2909,11 @@
       "Time": "2023-12-30T02:29:10.2613598+00:00",
       "NumProgressed": 8702,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T03:10:39.109247+00:00",
+      "NumProgressed": 8709,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3031,9 +3036,9 @@
       "ID": "16_TheRise",
       "SetID": "37a94m8",
       "Name": "The Rise",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "17_TheExemplar",
@@ -3303,9 +3308,9 @@
       "ID": "50_Whodunit",
       "SetID": "37a94m8",
       "Name": "Whodunit?",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 44
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -3440,7 +3445,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8702,
+      "Progressed": 8709,
       "Completed": 0
     }
   ],
@@ -3448,8 +3453,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-29T15:57:59.1942922+00:00",
-  "LastChanged_Achievements": "2023-12-30T02:29:10.2613595+00:00",
+  "LastChanged_Achievements": "2023-12-30T03:10:39.1092465+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-30T02:17:33.1804377+00:00",
-  "LastUpdate_Achievements": "2023-12-30T02:29:10.2614139+00:00"
+  "LastUpdate_Ratings": "2023-12-30T02:58:40.2470555+00:00",
+  "LastUpdate_Achievements": "2023-12-30T03:10:39.1093145+00:00"
 }

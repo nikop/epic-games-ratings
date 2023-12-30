@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3808,7 +3808,7 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 241993,
+  "EOS_Progressed": 241994,
   "EOS_Completed": 302,
   "EOS_NewPlayers": 508,
   "EOS_NewCompleters": 1,
@@ -30023,6 +30023,11 @@
       "Time": "2023-12-30T02:29:31.6424529+00:00",
       "NumProgressed": 241993,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-30T03:11:05.1255035+00:00",
+      "NumProgressed": 241994,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -30304,9 +30309,9 @@
       "ID": "FULLINVENTORY",
       "SetID": "5l8oe0h",
       "Name": "I Am Overburdened",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1694
     },
     {
       "ID": "FULLYPRESTIGESPOON",
@@ -31137,13 +31142,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 241993,
+      "Progressed": 241994,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3473,
+      "Progressed": 3474,
       "Completed": 416
     }
   ],
@@ -31151,8 +31156,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-29T11:59:56.9615531+00:00",
-  "LastChanged_Achievements": "2023-12-30T02:29:31.6424524+00:00",
+  "LastChanged_Achievements": "2023-12-30T03:11:05.1255031+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-30T02:19:38.855959+00:00",
-  "LastUpdate_Achievements": "2023-12-30T02:29:31.6427499+00:00"
+  "LastUpdate_Ratings": "2023-12-30T03:01:29.6188173+00:00",
+  "LastUpdate_Achievements": "2023-12-30T03:11:05.1257662+00:00"
 }

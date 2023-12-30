@@ -12,7 +12,7 @@
 | Holey Moley | 46.00% | ~361 |
 | Bomb's Away | 41.00% | ~321 |
 | Perfect Round | 37.00% | ~290 |
-| Competitor's Spirit | 34.00% | ~267 |
+| Competitor's Spirit | 35.00% | ~274 |
 | The Strongest Field in Golf | 26.00% | ~204 |
 | Ace in the Hole | 25.00% | ~196 |
 | From Many, One | 23.00% | ~180 |

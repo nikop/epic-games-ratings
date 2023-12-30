@@ -7,7 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~4,945 |
-| The Cursed Farmer | 1.00% | ~2,472 |
+| The Cursed Farmer | 1.00% | ~2,473 |
 | Beast Intentions | 0.70% | ~1,731 |
 | The Mad Wizard | 0.70% | ~1,731 |
 | Welcome to Sigil | 0.70% | ~1,495 |
@@ -29,17 +29,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | Misaligned in Sigil | 0.30% | ~641 |
 | Chaos Theory | 0.30% | ~641 |
 | Mind Spike | 0.30% | ~641 |
-| Maddening | 0.20% | ~494 |
-| A Persistent Buzzing | 0.20% | ~494 |
-| Beast Mode | 0.20% | ~494 |
-| Terror in the Dark | 0.20% | ~494 |
-| A Mysterious Summons | 0.20% | ~494 |
-| Unearthed Evil | 0.20% | ~494 |
-| The Crumbling Temple | 0.20% | ~494 |
-| Useless Allies | 0.20% | ~494 |
-| Exploring Port Nyanzaru | 0.20% | ~494 |
-| The Contagious Curse | 0.20% | ~494 |
-| Escort to Waterdeep | 0.20% | ~494 |
+| Maddening | 0.20% | ~495 |
+| A Persistent Buzzing | 0.20% | ~495 |
+| Beast Mode | 0.20% | ~495 |
+| Terror in the Dark | 0.20% | ~495 |
+| A Mysterious Summons | 0.20% | ~495 |
+| Unearthed Evil | 0.20% | ~495 |
+| The Crumbling Temple | 0.20% | ~495 |
+| Useless Allies | 0.20% | ~495 |
+| Exploring Port Nyanzaru | 0.20% | ~495 |
+| The Contagious Curse | 0.20% | ~495 |
+| Escort to Waterdeep | 0.20% | ~495 |
 | Pros and CONs | 0.10% | ~247 |
 | Upholding the Law | 0.10% | ~247 |
 | Starving in the Jungle | 0.10% | ~247 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~214 |
 | The Brains of an Illithid's Desire | 0.10% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,241 (Ranked 68)  
+Progressed: 247,262 (Ranked 68)  
 Completed: 2,575 (1.04%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -807,7 +807,7 @@ Completed: 2,575 (1.04%) (Ranked 169)
 | 2023-12-27 | 245,531 | 2,567 |
 | 2023-12-28 | 246,305 | 2,573 |
 | 2023-12-29 | 247,120 | 2,575 |
-| 2023-12-30 | 247,241 | 2,575 |
+| 2023-12-30 | 247,262 | 2,575 |
 ## Awards
 Max (Great for Beginners): 5,715  (Ranked 71)  
 Sum: 33,183 (Ranked 41)  

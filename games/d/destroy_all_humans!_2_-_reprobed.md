@@ -7,7 +7,7 @@ Number of Ratings: 90  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rock of the Bay | 80.00% | ~198 |
-| Mash Machine | 72.00% | ~179 |
+| Mash Machine | 73.00% | ~181 |
 | Ducks in a Row, Fish in a Barrel | 51.00% | ~126 |
 | Furon Fashion | 46.00% | ~114 |
 | Shop Til They Drop | 38.00% | ~94 |
@@ -31,7 +31,7 @@ Number of Ratings: 90  (23.09.2022)
 | Ultimate Smoothie | 4.00% | ~10 |
 | Lobster Blisque | 4.00% | ~10 |
 | Yettisoned | 4.00% | ~10 |
-| Arkvoodle Doodle | 3.00% | ~7 |
+| Arkvoodle Doodle | 4.00% | ~10 |
 | Deincarnated | 2.00% | ~5 |
 | Arty Facts | 1.00% | ~2 |
 | Against All Odds | 1.00% | ~2 |

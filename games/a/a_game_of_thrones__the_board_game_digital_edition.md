@@ -6,14 +6,14 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~12,742 |
-| Battering Crew | 19.00% | ~6,052 |
+| Conqueror | 40.00% | ~12,743 |
+| Battering Crew | 19.00% | ~6,053 |
 | The Kingsroad | 18.00% | ~5,734 |
-| Well Stocked | 13.00% | ~4,141 |
-| Royal Fleet | 13.00% | ~4,141 |
+| Well Stocked | 13.00% | ~4,142 |
+| Royal Fleet | 13.00% | ~4,142 |
 | The Kraken’s Grasp | 9.00% | ~2,867 |
-| Daggers in the Dark | 8.00% | ~2,548 |
-| Alliance | 8.00% | ~2,548 |
+| Daggers in the Dark | 8.00% | ~2,549 |
+| Alliance | 8.00% | ~2,549 |
 | Winter is Coming | 7.00% | ~2,230 |
 | Oathkeeper | 7.00% | ~2,230 |
 | Influential | 7.00% | ~2,230 |
@@ -29,7 +29,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | King in the North | 2.00% | ~637 |
 | War of the Five Kings | 1.00% | ~319 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,854 (Ranked 135)  
+Progressed: 31,858 (Ranked 135)  
 Completed: 85 (0.27%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,10 +283,10 @@ Completed: 85 (0.27%) (Ranked 259)
 | 2023-12-27 | 31,616 | 85 |
 | 2023-12-28 | 31,717 | 85 |
 | 2023-12-29 | 31,842 | 85 |
-| 2023-12-30 | 31,854 | 85 |
+| 2023-12-30 | 31,858 | 85 |
 ## Awards
 Max (Quickly Understood Controls): 127  (Ranked 344)  
-Sum: 806 (Ranked 288)  
+Sum: 807 (Ranked 288)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -294,7 +294,7 @@ Diff (max vs sum): 56
 | This game is Extremely Fun | 112 |
 | This game is Highly Recommended | 112 |
 | This game has Competitive Players | 101 |
-| This game is Relaxing | 98 |
+| This game is Relaxing | 99 |
 | This game has Amazing Storytelling | 93 |
 | This game has Amazing Characters | 88 |
 | This game has a Competitive Community | 75 |
@@ -401,3 +401,4 @@ Diff (max vs sum): 56
 | 2023-12-25 | 4.20 | - | 127 | 805 |
 | 2023-12-26 | 4.21 | - | 127 | 805 |
 | 2023-12-29 | 4.21 | - | 127 | 806 |
+| 2023-12-30 | 4.21 | - | 127 | 807 |
