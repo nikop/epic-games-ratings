@@ -3,8 +3,8 @@
   "Name": "Love Is All Around",
   "ProductSlug": "love-is-all-around-3a8046",
   "Ranking_Rating": 132,
-  "Ranking_Popularity": 502,
-  "Ranking_PopularitySum": 527,
+  "Ranking_Popularity": 501,
+  "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 144,
   "Ranking_EOS_NewPlayers": 94,
@@ -265,9 +265,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 16771,
+  "EOS_Progressed": 16772,
   "EOS_Completed": 279,
-  "EOS_NewPlayers": 1447,
+  "EOS_NewPlayers": 1441,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 1.66,
   "EosHistory": [
@@ -8245,6 +8245,11 @@
       "Time": "2023-12-30T19:12:03.2972047+00:00",
       "NumProgressed": 16771,
       "NumCompleted": 279
+    },
+    {
+      "Time": "2023-12-30T20:09:34.207027+00:00",
+      "NumProgressed": 16772,
+      "NumCompleted": 279
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -8257,7 +8262,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 14758
+      "UsersEstimate": 14759
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -8337,7 +8342,7 @@
       "Name": "Days Of Innocence",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 4360
+      "UsersEstimate": 4361
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -8353,7 +8358,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 10901
+      "UsersEstimate": 10902
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -8361,7 +8366,7 @@
       "Name": "Happy Family",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 5031
+      "UsersEstimate": 5032
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_21",
@@ -8393,7 +8398,7 @@
       "Name": "Love Actually",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 6876
+      "UsersEstimate": 6877
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -8441,7 +8446,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 9727
+      "UsersEstimate": 9728
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -8505,7 +8510,7 @@
       "Name": "FIRST LOVE",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 5031
+      "UsersEstimate": 5032
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_0",
@@ -8513,7 +8518,7 @@
       "Name": "Are You Alright?",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 7882
+      "UsersEstimate": 7883
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -8521,7 +8526,7 @@
       "Name": "Go Clean up In Your Own Way",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5534
+      "UsersEstimate": 5535
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_2",
@@ -8537,7 +8542,7 @@
       "Name": "David",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 4360
+      "UsersEstimate": 4361
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_4",
@@ -8561,7 +8566,7 @@
       "Name": "Worthless Speech",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5031
+      "UsersEstimate": 5032
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_7",
@@ -8592,7 +8597,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 16771,
+      "Progressed": 16772,
       "Completed": 279
     }
   ],
@@ -8600,8 +8605,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-12-30T17:59:32.2491145+00:00",
-  "LastChanged_Achievements": "2023-12-30T19:12:03.2972044+00:00",
+  "LastChanged_Achievements": "2023-12-30T20:09:34.2070267+00:00",
   "LastUpdate_AppInfo": "2023-12-30T03:56:51.5051317+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:02:29.1135227+00:00",
-  "LastUpdate_Achievements": "2023-12-30T19:12:03.2972755+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:59:28.6611007+00:00",
+  "LastUpdate_Achievements": "2023-12-30T20:09:34.207126+00:00"
 }

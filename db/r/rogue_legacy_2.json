@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1536,9 +1536,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27249,
+  "EOS_Progressed": 27252,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 786,
+  "EOS_NewPlayers": 787,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -12416,6 +12416,11 @@
       "Time": "2023-12-30T19:12:35.6454236+00:00",
       "NumProgressed": 27249,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-30T20:09:57.2723188+00:00",
+      "NumProgressed": 27252,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -12443,7 +12448,7 @@
       "Name": "Black-shoppe",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "AllFriends",
@@ -12483,7 +12488,7 @@
       "Name": "For Justice",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "BossBridgeDefeated",
@@ -12531,7 +12536,7 @@
       "Name": "For Greed",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "BossFinalDefeated",
@@ -12539,7 +12544,7 @@
       "Name": "King and Kin",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -12555,7 +12560,7 @@
       "Name": "Harvest and Home",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -12563,7 +12568,7 @@
       "Name": "For Penance",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "BossGardenDefeated",
@@ -12651,7 +12656,7 @@
       "Name": "Good Practice",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Icarus",
@@ -12659,7 +12664,7 @@
       "Name": "Maybe Wax Doesn\u0027t Melt",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "NightmareKhidr",
@@ -12667,7 +12672,7 @@
       "Name": "A Glimpse of the Future",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "PetDragon",
@@ -12675,7 +12680,7 @@
       "Name": "Good Boy!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "PrequelReveal",
@@ -12683,7 +12688,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "RogueMode",
@@ -12738,21 +12743,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27249,
+      "Progressed": 27252,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6179,
+      "Progressed": 6182,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-28T14:58:47.4806597+00:00",
-  "LastChanged_Achievements": "2023-12-30T19:12:35.6454234+00:00",
+  "LastChanged_Achievements": "2023-12-30T20:09:57.2723185+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:21.6659711+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:02:57.8546805+00:00",
-  "LastUpdate_Achievements": "2023-12-30T19:12:35.6454998+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:59:47.2663767+00:00",
+  "LastUpdate_Achievements": "2023-12-30T20:09:57.2723738+00:00"
 }

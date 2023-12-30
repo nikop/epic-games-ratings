@@ -1,53 +1,53 @@
 # Transport Fever 2
 [Store](https://store.epicgames.com/en-US/p/transport-fever-2)  
 [View Rawdata](../../db/t/transport_fever_2.json)  
-Rating: 4.69 (Ranked 231)  
+Rating: 4.68 (Ranked 260)  
 Number of Ratings: 180  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 74.00% | ~1,660 |
-| First cargo item on board | 68.00% | ~1,525 |
-| First cargo item waiting | 68.00% | ~1,525 |
-| First bus stop | 67.00% | ~1,503 |
-| First passenger on board | 64.00% | ~1,436 |
-| First passenger waiting | 64.00% | ~1,436 |
-| First bus arrived | 62.00% | ~1,391 |
-| First train station | 60.00% | ~1,346 |
-| First steam train arrived | 57.00% | ~1,279 |
-| Cadet | 53.00% | ~1,189 |
-| First industry upgraded | 53.00% | ~1,189 |
-| Transport millionaire | 51.00% | ~1,144 |
-| Transport master | 49.00% | ~1,099 |
-| Cargo hub | 49.00% | ~1,099 |
-| Sculpturer | 47.00% | ~1,054 |
-| Settled down | 45.00% | ~1,009 |
-| First electric train arrived | 43.00% | ~964 |
-| First ship arrived | 43.00% | ~964 |
-| Now what? | 43.00% | ~964 |
+| First line | 74.00% | ~1,661 |
+| First cargo item on board | 68.00% | ~1,527 |
+| First cargo item waiting | 68.00% | ~1,527 |
+| First bus stop | 67.00% | ~1,504 |
+| First passenger on board | 64.00% | ~1,437 |
+| First passenger waiting | 64.00% | ~1,437 |
+| First bus arrived | 62.00% | ~1,392 |
+| First train station | 60.00% | ~1,347 |
+| First steam train arrived | 57.00% | ~1,280 |
+| Cadet | 53.00% | ~1,190 |
+| First industry upgraded | 53.00% | ~1,190 |
+| Transport millionaire | 51.00% | ~1,145 |
+| Transport master | 49.00% | ~1,100 |
+| Cargo hub | 49.00% | ~1,100 |
+| Sculpturer | 47.00% | ~1,055 |
+| Settled down | 45.00% | ~1,010 |
+| First electric train arrived | 43.00% | ~965 |
+| First ship arrived | 43.00% | ~965 |
+| Now what? | 43.00% | ~965 |
 | Exemplary student | 41.00% | ~920 |
-| High speed | 39.00% | ~875 |
-| Transport shark | 38.00% | ~852 |
-| First aircraft arrived | 38.00% | ~852 |
-| Mass production | 33.00% | ~740 |
-| Aircraft entrepreneur | 31.00% | ~695 |
-| Crowd in a train | 29.00% | ~650 |
-| The future is now, old man | 29.00% | ~650 |
+| High speed | 39.00% | ~876 |
+| Transport shark | 38.00% | ~853 |
+| First aircraft arrived | 38.00% | ~853 |
+| Mass production | 33.00% | ~741 |
+| Aircraft entrepreneur | 31.00% | ~696 |
+| Crowd in a train | 29.00% | ~651 |
+| The future is now, old man | 29.00% | ~651 |
 | Not in my backyard | 27.00% | ~606 |
 | The king of the sea | 27.00% | ~606 |
-| City | 26.00% | ~583 |
-| Transport tycoon | 22.00% | ~493 |
+| City | 26.00% | ~584 |
+| Transport tycoon | 22.00% | ~494 |
 | Old timer | 21.00% | ~471 |
 | The ugly smell of success | 21.00% | ~471 |
 | Climate change | 20.00% | ~449 |
-| Heavily loaded | 19.00% | ~426 |
-| Bob Ross | 15.00% | ~336 |
+| Heavily loaded | 19.00% | ~427 |
+| Bob Ross | 15.00% | ~337 |
 | Campaign expert | 10.00% | ~224 |
 | Truck Fever | 10.00% | ~224 |
 | No free seats | 9.00% | ~202 |
 | Penny pincher | 9.00% | ~202 |
-| Back to the future | 8.00% | ~179 |
-| Transport belt | 8.00% | ~179 |
+| Back to the future | 8.00% | ~180 |
+| Transport belt | 8.00% | ~180 |
 | Campaign shark | 5.00% | ~112 |
 | E.P.E.C. | 5.00% | ~112 |
 | Transport shark (Hard mode) | 4.00% | ~90 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~4 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,243 (Ranked 236)  
+Progressed: 2,245 (Ranked 236)  
 Completed: 1 (0.04%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,11 +307,11 @@ Completed: 1 (0.04%) (Ranked 345)
 | 2023-12-27 | 2,193 | 1 |
 | 2023-12-28 | 2,210 | 1 |
 | 2023-12-29 | 2,224 | 1 |
-| 2023-12-30 | 2,243 | 1 |
+| 2023-12-30 | 2,245 | 1 |
 ## Awards
-Max (Great for Beginners): 49  (Ranked 454)  
+Max (Great for Beginners): 49  (Ranked 453)  
 Sum: 330 (Ranked 371)  
-Diff (max vs sum): 83  
+Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 49 |
@@ -445,3 +445,4 @@ Diff (max vs sum): 83
 | 2023-12-24 | 4.68 | - | 48 | 328 |
 | 2023-12-25 | 4.68 | - | 49 | 329 |
 | 2023-12-29 | 4.69 | - | 49 | 330 |
+| 2023-12-30 | 4.68 | - | 49 | 330 |

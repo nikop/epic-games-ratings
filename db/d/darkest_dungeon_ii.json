@@ -2,13 +2,13 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 261,
+  "Ranking_Rating": 260,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 58,
-  "Ranking_EOS_Progress": 88,
+  "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10344,9 +10344,9 @@
       "Count": 1071
     }
   ],
-  "EOS_Progressed": 130795,
+  "EOS_Progressed": 130804,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1391,
+  "EOS_NewPlayers": 1387,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37569,6 +37569,11 @@
       "Time": "2023-12-30T19:12:09.7557244+00:00",
       "NumProgressed": 130795,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-30T20:09:38.8072243+00:00",
+      "NumProgressed": 130804,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38116,7 +38121,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "combat_kill_collector",
@@ -38164,7 +38169,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -38172,7 +38177,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "quest_complete_crusader",
@@ -38180,7 +38185,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -38211,21 +38216,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130795,
+      "Progressed": 130804,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5664,
+      "Progressed": 5673,
       "Completed": 817
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-30T18:59:12.1742166+00:00",
-  "LastChanged_Achievements": "2023-12-30T19:12:09.7557242+00:00",
+  "LastChanged_Achievements": "2023-12-30T20:09:38.807224+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
-  "LastUpdate_Ratings": "2023-12-30T18:59:12.174217+00:00",
-  "LastUpdate_Achievements": "2023-12-30T19:12:09.7559033+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:57:18.5506886+00:00",
+  "LastUpdate_Achievements": "2023-12-30T20:09:38.807371+00:00"
 }

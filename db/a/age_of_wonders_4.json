@@ -3,12 +3,12 @@
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 356,
-  "Ranking_Popularity": 479,
+  "Ranking_Popularity": 478,
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -651,9 +651,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6551,
+  "EOS_Progressed": 6555,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 487,
+  "EOS_NewPlayers": 488,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9776,6 +9776,11 @@
       "Time": "2023-12-30T19:09:07.0816599+00:00",
       "NumProgressed": 6551,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-30T20:05:41.4863754+00:00",
+      "NumProgressed": 6555,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9907,7 +9912,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "24",
@@ -9915,7 +9920,7 @@
       "Name": "Secret Technique",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "25",
@@ -9923,7 +9928,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "26",
@@ -10057,9 +10062,9 @@
       "ID": "40",
       "SetID": "3aa2279",
       "Name": "Intimidation Tactics",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 328
     },
     {
       "ID": "41",
@@ -10153,9 +10158,9 @@
       "ID": "47",
       "SetID": "7132754",
       "Name": "Duality",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 52
     },
     {
       "ID": "48",
@@ -10266,13 +10271,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6551,
+      "Progressed": 6555,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6551,
+      "Progressed": 6555,
       "Completed": 7
     }
   ],
@@ -10280,8 +10285,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-30T08:58:11.4280246+00:00",
-  "LastChanged_Achievements": "2023-12-30T19:09:07.0816594+00:00",
+  "LastChanged_Achievements": "2023-12-30T20:05:41.4863752+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:00:36.7295569+00:00",
-  "LastUpdate_Achievements": "2023-12-30T19:09:07.0817431+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:58:14.4595827+00:00",
+  "LastUpdate_Achievements": "2023-12-30T20:05:41.4864635+00:00"
 }

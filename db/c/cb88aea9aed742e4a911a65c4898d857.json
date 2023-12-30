@@ -3,12 +3,12 @@
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_Rating": 282,
-  "Ranking_Popularity": 410,
-  "Ranking_PopularitySum": 481,
+  "Ranking_Popularity": 409,
+  "Ranking_PopularitySum": 480,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -227,9 +227,9 @@
       "Count": 73
     }
   ],
-  "EOS_Progressed": 8909,
+  "EOS_Progressed": 8919,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2102,
+  "EOS_NewPlayers": 2097,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3012,6 +3012,11 @@
       "Time": "2023-12-30T19:12:32.0898259+00:00",
       "NumProgressed": 8909,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T20:09:54.6500259+00:00",
+      "NumProgressed": 8919,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3024,7 +3029,7 @@
       "Name": "Conspiracy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "03_TheStolenStar",
@@ -3032,7 +3037,7 @@
       "Name": "Stolen Star",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -3152,7 +3157,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "19_TheVoidWolf",
@@ -3166,9 +3171,9 @@
       "ID": "20_PurgeTheUnclean",
       "SetID": "37a94m8",
       "Name": "Purge the Unclean",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 36
     },
     {
       "ID": "21_PreciseDefense",
@@ -3240,7 +3245,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "30_The GreatestExploration",
@@ -3376,7 +3381,7 @@
       "Name": "A Spark",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "47_AFlame",
@@ -3543,7 +3548,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8909,
+      "Progressed": 8919,
       "Completed": 0
     }
   ],
@@ -3551,8 +3556,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-30T16:58:43.1218846+00:00",
-  "LastChanged_Achievements": "2023-12-30T19:12:32.0898257+00:00",
+  "LastChanged_Achievements": "2023-12-30T20:09:54.6500257+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:01:08.9235261+00:00",
-  "LastUpdate_Achievements": "2023-12-30T19:12:32.0899016+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:58:34.6810193+00:00",
+  "LastUpdate_Achievements": "2023-12-30T20:09:54.6500739+00:00"
 }

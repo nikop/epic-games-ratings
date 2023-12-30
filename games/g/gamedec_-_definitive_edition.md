@@ -6,24 +6,24 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,316 |
-| Powergamer | 27.00% | ~69,191 |
-| Write that down | 25.00% | ~64,066 |
-| Barely scratched the surface | 25.00% | ~64,066 |
-| Guns, lots of guns | 13.00% | ~33,314 |
-| Collector | 12.00% | ~30,751 |
+| I will finish what you started | 29.00% | ~74,317 |
+| Powergamer | 27.00% | ~69,192 |
+| Write that down | 25.00% | ~64,067 |
+| Barely scratched the surface | 25.00% | ~64,067 |
+| Guns, lots of guns | 13.00% | ~33,315 |
+| Collector | 12.00% | ~30,752 |
 | Elementary! | 9.00% | ~23,064 |
 | Griever | 8.00% | ~20,501 |
 | Pumpkin Jack | 8.00% | ~20,501 |
 | Wake up! | 8.00% | ~20,501 |
-| It's honest work | 7.00% | ~17,938 |
+| It's honest work | 7.00% | ~17,939 |
 | Me smart | 6.00% | ~15,376 |
 | Trash compactor | 6.00% | ~15,376 |
 | Valedictorian | 6.00% | ~15,376 |
 | Good listener | 5.00% | ~12,813 |
-| BOY! | 4.00% | ~10,250 |
-| Ka-ching! | 4.00% | ~10,250 |
-| So you like to read? | 4.00% | ~10,250 |
+| BOY! | 4.00% | ~10,251 |
+| Ka-ching! | 4.00% | ~10,251 |
+| So you like to read? | 4.00% | ~10,251 |
 | Hoarder | 3.00% | ~7,688 |
 | I like to sniff around | 3.00% | ~7,688 |
 | Mind reader | 3.00% | ~7,688 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~513 |
 | Memory 5 | 0.10% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 256,262 (Ranked 65)  
+Progressed: 256,267 (Ranked 65)  
 Completed: 8 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,10 +313,10 @@ Completed: 8 (0.00%) (Ranked 391)
 | 2023-12-27 | 255,936 | 8 |
 | 2023-12-28 | 256,053 | 8 |
 | 2023-12-29 | 256,175 | 8 |
-| 2023-12-30 | 256,262 | 8 |
+| 2023-12-30 | 256,267 | 8 |
 ## Awards
-Max (Character Customization): 95  (Ranked 386)  
-Sum: 95 (Ranked 467)  
+Max (Character Customization): 95  (Ranked 385)  
+Sum: 95 (Ranked 466)  
 Diff (max vs sum): -81  
 | Award | Count |
 | ----- | ----- |

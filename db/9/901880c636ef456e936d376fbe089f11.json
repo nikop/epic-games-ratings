@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -760,9 +760,9 @@
       "ID": "ACH_BREW_LATTEART_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "It\u0027s a masterpiece!",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_CAT_SHELTER",
@@ -1104,9 +1104,9 @@
       "ID": "ACH_WRONG_BREW_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Is this it?",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     }
   ],
   "AchievementSets": [
@@ -1119,8 +1119,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-12-30T19:09:47.4782154+00:00",
+  "LastChanged_Achievements": "2023-12-30T20:06:09.1400771+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:53.6877972+00:00",
-  "LastUpdate_Ratings": "2023-12-30T18:59:19.7725766+00:00",
-  "LastUpdate_Achievements": "2023-12-30T19:09:47.478258+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:57:23.9016576+00:00",
+  "LastUpdate_Achievements": "2023-12-30T20:06:09.1401287+00:00"
 }

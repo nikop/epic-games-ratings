@@ -1,29 +1,29 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.55 (Ranked 523)  
+Rating: 4.55 (Ranked 522)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 73.00% | ~3,179 |
-| Ready for Winter | 62.00% | ~2,700 |
-| Ready for Summer | 49.00% | ~2,134 |
+| Venture Outward | 73.00% | ~3,181 |
+| Ready for Winter | 62.00% | ~2,701 |
+| Ready for Summer | 49.00% | ~2,135 |
 | Cordon Bleu | 41.00% | ~1,786 |
-| Tapped! | 35.00% | ~1,524 |
-| Eureka | 30.00% | ~1,306 |
-| Scourge Slayer | 24.00% | ~1,045 |
-| Science, Troglodyte! | 22.00% | ~958 |
+| Tapped! | 35.00% | ~1,525 |
+| Eureka | 30.00% | ~1,307 |
+| Scourge Slayer | 24.00% | ~1,046 |
+| Science, Troglodyte! | 22.00% | ~959 |
 | Exceptional Skill | 21.00% | ~915 |
 | Home Sweet Home | 21.00% | ~915 |
 | Encyclopedic! | 18.00% | ~784 |
 | The Power of Family | 16.00% | ~697 |
-| A Fortress Toppled! | 15.00% | ~653 |
-| Apex Predator | 15.00% | ~653 |
+| A Fortress Toppled! | 15.00% | ~654 |
+| Apex Predator | 15.00% | ~654 |
 | The Power of Faith | 12.00% | ~523 |
 | Strange amalgams | 11.00% | ~479 |
 | The Power of Freedom | 9.00% | ~392 |
-| Ace Detective | 8.00% | ~348 |
+| Ace Detective | 8.00% | ~349 |
 | Gift from the Ancestors | 7.00% | ~305 |
 | House of Cards | 7.00% | ~305 |
 | Let ‘em eat magma! | 7.00% | ~305 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~13 |
 | The Absolute Pinnacle. | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,355 (Ranked 206)  
+Progressed: 4,357 (Ranked 206)  
 Completed: 5 (0.11%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,11 +289,11 @@ Completed: 5 (0.11%) (Ranked 303)
 | 2023-12-27 | 4,292 | 5 |
 | 2023-12-28 | 4,317 | 5 |
 | 2023-12-29 | 4,335 | 5 |
-| 2023-12-30 | 4,355 | 5 |
+| 2023-12-30 | 4,357 | 5 |
 ## Awards
-Max (Highly Recommended): 35  (Ranked 496)  
+Max (Highly Recommended): 35  (Ranked 495)  
 Sum: 246 (Ranked 399)  
-Diff (max vs sum): 97  
+Diff (max vs sum): 96  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 35 |

@@ -5,29 +5,29 @@ Rating: 4.12 (Ranked 995)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 58.00% | ~874 |
-| Trinity | 28.00% | ~422 |
-| Find Allies | 22.00% | ~332 |
-| A Taste of Wrath | 22.00% | ~332 |
-| The Collector | 22.00% | ~332 |
-| Geared Up | 21.00% | ~316 |
-| I Found It | 21.00% | ~316 |
-| Adventurer | 20.00% | ~301 |
-| Shatter Them All | 20.00% | ~301 |
-| Scholar | 20.00% | ~301 |
-| Fashion Victim | 19.00% | ~286 |
-| Tributes of Caladrias | 18.00% | ~271 |
-| Stone Collection | 18.00% | ~271 |
-| Powerful Allies | 17.00% | ~256 |
+| Break Out | 58.00% | ~877 |
+| Trinity | 28.00% | ~423 |
+| Find Allies | 22.00% | ~333 |
+| A Taste of Wrath | 22.00% | ~333 |
+| The Collector | 22.00% | ~333 |
+| Shatter Them All | 21.00% | ~318 |
+| Geared Up | 21.00% | ~318 |
+| I Found It | 21.00% | ~318 |
+| Adventurer | 20.00% | ~302 |
+| Scholar | 20.00% | ~302 |
+| Fashion Victim | 19.00% | ~287 |
+| Tributes of Caladrias | 18.00% | ~272 |
+| Stone Collection | 18.00% | ~272 |
+| Powerful Allies | 17.00% | ~257 |
 | Big Bazar | 12.00% | ~181 |
 | Essence Blow | 11.00% | ~166 |
 | Alchemist | 11.00% | ~166 |
 | The Mentor | 9.00% | ~136 |
-| Calm before the Storm | 7.00% | ~105 |
-| To Battle | 6.00% | ~90 |
-| Godslayer | 6.00% | ~90 |
-| Airborne | 6.00% | ~90 |
-| Miner | 6.00% | ~90 |
+| Calm before the Storm | 7.00% | ~106 |
+| To Battle | 6.00% | ~91 |
+| Godslayer | 6.00% | ~91 |
+| Airborne | 6.00% | ~91 |
+| Miner | 6.00% | ~91 |
 | Clear Sight | 4.00% | ~60 |
 | Fine Feathers Make Fine Birds | 4.00% | ~60 |
 | Shatterer | 3.00% | ~45 |
@@ -42,7 +42,7 @@ Rating: 4.12 (Ranked 995)
 | All That Gold | 0.70% | ~11 |
 | Feeling Fancy | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,507 (Ranked 260)  
+Progressed: 1,512 (Ranked 260)  
 Completed: 3 (0.20%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 3 (0.20%) (Ranked 273)
 | 2023-12-27 | 1,365 | 3 |
 | 2023-12-28 | 1,412 | 3 |
 | 2023-12-29 | 1,459 | 3 |
-| 2023-12-30 | 1,507 | 3 |
+| 2023-12-30 | 1,512 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

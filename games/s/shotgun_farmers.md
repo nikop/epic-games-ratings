@@ -23,8 +23,8 @@
 | Quick-Draw Pod | 21.00% | ~66 |
 | Pork Chop Express | 20.00% | ~73 |
 | Professional Survivor | 20.00% | ~63 |
+| Carrocketeer | 18.00% | ~65 |
 | Skin Of Your Teeth | 17.00% | ~62 |
-| Carrocketeer | 17.00% | ~62 |
 | Getting Started | 16.00% | ~58 |
 | This Is My Boomstick | 16.00% | ~50 |
 | Eggtraordinary | 15.00% | ~54 |
@@ -40,10 +40,10 @@
 | Chick Magnet | 5.00% | ~18 |
 | I Have The High Ground | 5.00% | ~18 |
 | Pyromaniac | 5.00% | ~16 |
+| Honk Honk | 3.00% | ~11 |
 | Master Survivor | 3.00% | ~9 |
 | Heart Breaker | 3.00% | ~9 |
 | 15 Days | 2.00% | ~7 |
-| Honk Honk | 2.00% | ~7 |
 | Easy Peasy | 2.00% | ~6 |
 | Pro Shotgunner | 1.00% | ~4 |
 | Tomassacred | 1.00% | ~3 |

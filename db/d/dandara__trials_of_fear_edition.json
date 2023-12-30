@@ -3,12 +3,12 @@
   "Name": "Dandara: Trials of Fear Edition",
   "ProductSlug": "dandara",
   "Ranking_Rating": 501,
-  "Ranking_Popularity": 440,
-  "Ranking_PopularitySum": 496,
+  "Ranking_Popularity": 439,
+  "Ranking_PopularitySum": 495,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 566,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-01-28T16:00:00+00:00",
     "PcReleaseDate": "2021-01-28T16:00:00+00:00",
@@ -411,6 +411,6 @@
   "FirstSeen": "2022-07-22T20:18:00.133463+00:00",
   "LastChanged": "2023-10-26T19:58:58.101539+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:08.8528753+00:00",
-  "LastUpdate_Ratings": "2023-12-30T18:58:51.6294544+00:00",
-  "LastUpdate_Achievements": "2023-12-30T19:11:53.2344341+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:57:04.6825326+00:00",
+  "LastUpdate_Achievements": "2023-12-30T20:09:27.0843803+00:00"
 }

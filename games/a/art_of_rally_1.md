@@ -6,51 +6,51 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 79.00% | ~286,213 |
-| good drivers have dead flies on the side windows | 32.00% | ~115,934 |
-| brail | 26.00% | ~94,197 |
-| keep it tidy | 25.00% | ~90,574 |
-| car wash | 23.00% | ~83,328 |
-| the artist | 23.00% | ~83,328 |
-| podium | 20.00% | ~72,459 |
-| medium attack | 17.00% | ~61,590 |
-| bicycle race | 6.00% | ~21,738 |
-| grocery-getter | 5.00% | ~18,115 |
-| autopilot | 4.00% | ~14,492 |
-| where is the stage? | 3.00% | ~10,869 |
-| night ride | 3.00% | ~10,869 |
-| snorkel | 3.00% | ~10,869 |
-| food tour: pasta | 3.00% | ~10,869 |
-| perkele | 2.00% | ~7,246 |
-| rwd only | 2.00% | ~7,246 |
-| if in doubt, flat out! | 2.00% | ~7,246 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~7,246 |
-| to finish first, first you must finish | 1.00% | ~3,623 |
-| espresso | 1.00% | ~3,623 |
-| turbo | 1.00% | ~3,623 |
-| in like a lamb, out like a lion | 1.00% | ~3,623 |
-| mittens | 1.00% | ~3,623 |
-| food tour: pretzel | 1.00% | ~3,623 |
-| monster | 0.70% | ~2,536 |
-| eurobeat | 0.60% | ~2,174 |
-| viking | 0.50% | ~1,811 |
-| group b | 0.50% | ~1,811 |
-| oktoberfest | 0.40% | ~1,449 |
-| parallel universe | 0.40% | ~1,449 |
-| maximum attack | 0.40% | ~1,449 |
-| samir | 0.40% | ~1,449 |
-| master of rally | 0.30% | ~1,087 |
-| antilag | 0.30% | ~1,087 |
-| real roads, real fast | 0.30% | ~1,087 |
+| light attack | 79.00% | ~286,499 |
+| good drivers have dead flies on the side windows | 32.00% | ~116,050 |
+| brail | 26.00% | ~94,291 |
+| keep it tidy | 25.00% | ~90,664 |
+| car wash | 23.00% | ~83,411 |
+| the artist | 23.00% | ~83,411 |
+| podium | 20.00% | ~72,531 |
+| medium attack | 17.00% | ~61,652 |
+| bicycle race | 6.00% | ~21,759 |
+| grocery-getter | 5.00% | ~18,133 |
+| autopilot | 4.00% | ~14,506 |
+| where is the stage? | 3.00% | ~10,880 |
+| night ride | 3.00% | ~10,880 |
+| snorkel | 3.00% | ~10,880 |
+| food tour: pasta | 3.00% | ~10,880 |
+| perkele | 2.00% | ~7,253 |
+| rwd only | 2.00% | ~7,253 |
+| if in doubt, flat out! | 2.00% | ~7,253 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~7,253 |
+| to finish first, first you must finish | 1.00% | ~3,627 |
+| espresso | 1.00% | ~3,627 |
+| turbo | 1.00% | ~3,627 |
+| in like a lamb, out like a lion | 1.00% | ~3,627 |
+| mittens | 1.00% | ~3,627 |
+| food tour: pretzel | 1.00% | ~3,627 |
+| monster | 0.70% | ~2,539 |
+| eurobeat | 0.60% | ~2,176 |
+| viking | 0.50% | ~1,813 |
+| group b | 0.50% | ~1,813 |
+| oktoberfest | 0.40% | ~1,451 |
+| parallel universe | 0.40% | ~1,451 |
+| maximum attack | 0.40% | ~1,451 |
+| samir | 0.40% | ~1,451 |
+| master of rally | 0.30% | ~1,088 |
+| antilag | 0.30% | ~1,088 |
+| real roads, real fast | 0.30% | ~1,088 |
 | parking lot | 0.20% | ~725 |
 | comfy seats | 0.20% | ~725 |
-| if everything seems under control, you're not going fast enough | 0.10% | ~362 |
-| absolute drift | 0.10% | ~362 |
-| barely keeping it together | 0.10% | ~362 |
-| you're here for a good time, not a long time | 0.10% | ~362 |
-| simulator | 0.10% | ~362 |
+| if everything seems under control, you're not going fast enough | 0.10% | ~363 |
+| absolute drift | 0.10% | ~363 |
+| barely keeping it together | 0.10% | ~363 |
+| you're here for a good time, not a long time | 0.10% | ~363 |
+| simulator | 0.10% | ~363 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 362,295 (Ranked 51)  
+Progressed: 362,657 (Ranked 51)  
 Completed: 11 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,10 +234,10 @@ Completed: 11 (0.00%) (Ranked 391)
 | 2023-12-27 | 336,606 | 11 |
 | 2023-12-28 | 345,968 | 11 |
 | 2023-12-29 | 354,902 | 11 |
-| 2023-12-30 | 362,295 | 11 |
+| 2023-12-30 | 362,657 | 11 |
 ## Awards
-Max (Quickly Understood Controls): 28  (Ranked 525)  
-Sum: 98 (Ranked 464)  
+Max (Quickly Understood Controls): 28  (Ranked 524)  
+Sum: 98 (Ranked 463)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |

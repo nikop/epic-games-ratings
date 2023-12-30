@@ -1,21 +1,21 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.55 (Ranked 523)  
+Rating: 4.55 (Ranked 522)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~14,250 |
-| Pay 'n' Spray | 50.00% | ~8,796 |
-| All Dressed Up for San Fierro | 25.00% | ~4,398 |
-| The American Dream | 18.00% | ~3,167 |
-| School's Out | 18.00% | ~3,167 |
-| Smooth Moves | 16.00% | ~2,815 |
-| Today Was a Good Day | 15.00% | ~2,639 |
-| What happens in Las Venturas... | 14.00% | ~2,463 |
-| Horror of the Santa Maria | 10.00% | ~1,759 |
-| Liberty City State of Mind | 9.00% | ~1,583 |
-| Original Gangster | 8.00% | ~1,407 |
+| Getting Started | 81.00% | ~14,257 |
+| Pay 'n' Spray | 50.00% | ~8,800 |
+| All Dressed Up for San Fierro | 25.00% | ~4,400 |
+| The American Dream | 18.00% | ~3,168 |
+| School's Out | 18.00% | ~3,168 |
+| Smooth Moves | 16.00% | ~2,816 |
+| What happens in Las Venturas... | 14.00% | ~2,464 |
+| Today Was a Good Day | 14.00% | ~2,464 |
+| Horror of the Santa Maria | 10.00% | ~1,760 |
+| Liberty City State of Mind | 9.00% | ~1,584 |
+| Original Gangster | 8.00% | ~1,408 |
 | With Extra Dip | 7.00% | ~1,232 |
 | The End of the Line | 7.00% | ~1,232 |
 | Saviour | 6.00% | ~1,056 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 523)
 | ...Here we go again | 0.50% | ~88 |
 | I Ain't No Buster | 0.40% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,593 (Ranked 158)  
+Progressed: 17,601 (Ranked 158)  
 Completed: 65 (0.37%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 65 (0.37%) (Ranked 235)
 | 2023-12-27 | 17,152 | 64 |
 | 2023-12-28 | 17,305 | 64 |
 | 2023-12-29 | 17,467 | 65 |
-| 2023-12-30 | 17,593 | 65 |
+| 2023-12-30 | 17,601 | 65 |
 ## Awards
 Max (Great Boss Battles): 557  (Ranked 213)  
 Sum: 820 (Ranked 287)  

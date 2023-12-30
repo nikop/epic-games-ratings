@@ -4,8 +4,8 @@
   "ProductSlug": "railbreak-f87a0c",
   "Ranking_EOS_Progress": 613,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-23T00:00:00+00:00",
     "PcReleaseDate": "2023-12-23T00:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 21,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -244,9 +244,9 @@
       "ID": "STATION_OF_THE_DEAD_ACH",
       "SetID": "af7amn3",
       "Name": "Station of the Dead",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TAKE_IN_THE_TOWN_ACH",
@@ -268,9 +268,9 @@
       "ID": "THE_CHEF_ACH",
       "SetID": "af7amn3",
       "Name": "The Chef",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "THE_JOURNALIST_ACH",
@@ -338,8 +338,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-05T21:07:03.3998078+00:00",
-  "LastChanged_Achievements": "2023-12-30T19:11:01.0445718+00:00",
+  "LastChanged_Achievements": "2023-12-30T20:08:50.3496684+00:00",
   "LastUpdate_AppInfo": "2023-12-29T23:56:57.4341217+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:04:46.0434997+00:00",
-  "LastUpdate_Achievements": "2023-12-30T19:11:01.0445919+00:00"
+  "LastUpdate_Ratings": "2023-12-30T20:02:40.79885+00:00",
+  "LastUpdate_Achievements": "2023-12-30T20:08:50.3496797+00:00"
 }

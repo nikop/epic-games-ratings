@@ -1,7 +1,7 @@
 # BLACKTAIL
 [Store](https://store.epicgames.com/en-US/p/blacktail)  
 [View Rawdata](../../db/b/blacktail.json)  
-Rating: 4.68 (Ranked 261)  
+Rating: 4.68 (Ranked 260)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,8 +12,8 @@ Rating: 4.68 (Ranked 261)
 | Forbidden techniques | 12.00% | ~101 |
 | Devoted | 9.00% | ~76 |
 | Slavic squatter | 8.00% | ~67 |
+| Gold rush | 7.00% | ~59 |
 | Spirit animal | 7.00% | ~59 |
-| Gold rush | 6.00% | ~51 |
 | Liar Liar | 6.00% | ~51 |
 | Fishing fanatic | 5.00% | ~42 |
 | The word around is... | 5.00% | ~42 |

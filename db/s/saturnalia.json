@@ -3,12 +3,12 @@
   "Name": "Saturnalia",
   "ProductSlug": "saturnalia",
   "Ranking_Rating": 899,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69945,
+  "EOS_Progressed": 69950,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19043,6 +19043,11 @@
       "Time": "2023-12-30T19:07:12.7322774+00:00",
       "NumProgressed": 69945,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-30T20:04:20.4478283+00:00",
+      "NumProgressed": 69950,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -19078,7 +19083,7 @@
       "Name": "Anger",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "ACH_COBRACOLA",
@@ -19126,7 +19131,7 @@
       "Name": "Fear Of The Dark",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "ACH_MOUTHTRUTH",
@@ -19166,7 +19171,7 @@
       "Name": "Detective of the occult",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "ACH_RESCUECHARACTER",
@@ -19182,7 +19187,7 @@
       "Name": "Depression",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "ACH_STAMINA",
@@ -19213,7 +19218,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 69945,
+      "Progressed": 69950,
       "Completed": 18
     }
   ],
@@ -19221,8 +19226,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2023-12-30T19:07:12.7322769+00:00",
+  "LastChanged_Achievements": "2023-12-30T20:04:20.4478281+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:07.2653355+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:02:30.2862275+00:00",
-  "LastUpdate_Achievements": "2023-12-30T19:07:12.7323717+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:59:29.629443+00:00",
+  "LastUpdate_Achievements": "2023-12-30T20:04:20.447926+00:00"
 }

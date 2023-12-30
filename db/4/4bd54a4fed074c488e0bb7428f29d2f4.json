@@ -4,8 +4,8 @@
   "ProductSlug": "1428-shadows-over-silesia-266e5f",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 460,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 459,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2022-10-04T11:00:00+00:00",
@@ -326,9 +326,9 @@
       "ID": "SOS_BURN_HENNERSDORF",
       "SetID": "6ci4lm2",
       "Name": "Red rooster",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "SOS_DEAD_END",
@@ -406,9 +406,9 @@
       "ID": "SOS_FIRST_BLOOD",
       "SetID": "6ci4lm2",
       "Name": "First blood",
-      "Percentage": 65,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "SOS_FISH",
@@ -757,8 +757,8 @@
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-12-30T19:09:09.6141858+00:00",
+  "LastChanged_Achievements": "2023-12-30T20:05:43.2055889+00:00",
   "LastUpdate_AppInfo": "2023-12-25T18:57:02.8169973+00:00",
-  "LastUpdate_Ratings": "2023-12-30T18:58:46.6560173+00:00",
-  "LastUpdate_Achievements": "2023-12-30T19:09:09.6142428+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:57:01.2535918+00:00",
+  "LastUpdate_Achievements": "2023-12-30T20:05:43.2056616+00:00"
 }

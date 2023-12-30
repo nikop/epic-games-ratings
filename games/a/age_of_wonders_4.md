@@ -5,10 +5,10 @@ Rating: 4.63 (Ranked 356)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 12.00% | ~786 |
+| Secret Technique | 12.00% | ~787 |
 | Realm Estate | 11.00% | ~721 |
-| A Wonderful Discovery | 10.00% | ~655 |
-| Walls Cannot Stop Us | 10.00% | ~655 |
+| A Wonderful Discovery | 10.00% | ~656 |
+| Walls Cannot Stop Us | 10.00% | ~656 |
 | From Friends to Family | 9.00% | ~590 |
 | Bone Peddler | 7.00% | ~459 |
 | There Can Only Be One! | 6.00% | ~393 |
@@ -17,9 +17,9 @@ Rating: 4.63 (Ranked 356)
 | Stronger Together | 5.00% | ~328 |
 | Seat of Power | 5.00% | ~328 |
 | In a Liege of Your Own | 5.00% | ~328 |
+| Intimidation Tactics | 5.00% | ~328 |
 | But this one is mine | 5.00% | ~328 |
 | Valley of Wonders | 4.00% | ~262 |
-| Intimidation Tactics | 4.00% | ~262 |
 | Return of the Wizard King | 3.00% | ~197 |
 | Enchanted Archipelago | 3.00% | ~197 |
 | Digging for Treasure | 3.00% | ~197 |
@@ -53,7 +53,7 @@ Rating: 4.63 (Ranked 356)
 | Pruning for Progress | 0.90% | ~59 |
 | Grexolis | 0.80% | ~52 |
 | One for All, All for One | 0.80% | ~52 |
-| Duality | 0.70% | ~46 |
+| Duality | 0.80% | ~52 |
 | Betrayal Most Foul | 0.60% | ~39 |
 | Snap Out of It! | 0.40% | ~26 |
 | The Magic That Empowers Me! | 0.40% | ~26 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 356)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,551 (Ranked 195)  
+Progressed: 6,555 (Ranked 195)  
 Completed: 7 (0.11%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,11 +288,11 @@ Completed: 7 (0.11%) (Ranked 303)
 | 2023-12-27 | 6,359 | 7 |
 | 2023-12-28 | 6,414 | 7 |
 | 2023-12-29 | 6,495 | 7 |
-| 2023-12-30 | 6,551 | 7 |
+| 2023-12-30 | 6,555 | 7 |
 ## Awards
-Max (Great for Beginners): 39  (Ranked 479)  
+Max (Great for Beginners): 39  (Ranked 478)  
 Sum: 163 (Ranked 436)  
-Diff (max vs sum): 43  
+Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 39 |

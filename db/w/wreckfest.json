@@ -3,12 +3,12 @@
   "Name": "Wreckfest",
   "ProductSlug": "wreckfest",
   "Ranking_Rating": 870,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 567,
+  "EOS_Progressed": 568,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 288,
+  "EOS_NewPlayers": 281,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1561,6 +1561,11 @@
       "Time": "2023-12-30T19:11:05.4916921+00:00",
       "NumProgressed": 567,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T20:08:53.3629694+00:00",
+      "NumProgressed": 568,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1571,17 +1576,17 @@
       "ID": "AirborneTime",
       "SetID": "5hd282c",
       "Name": "Look Mom, I Can Fly",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 142
+      "UsersEstimate": 136
     },
     {
       "ID": "CareerAllChallenges",
       "SetID": "5hd282c",
       "Name": "Highballer",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 90,
-      "UsersEstimate": 232
+      "UsersEstimate": 239
     },
     {
       "ID": "CareerChamp1",
@@ -1629,7 +1634,7 @@
       "Name": "Storm Warning",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "CollectVehiclesA",
@@ -1643,9 +1648,9 @@
       "ID": "CollectVehiclesB",
       "SetID": "5hd282c",
       "Name": "Junk Collector",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 91
+      "UsersEstimate": 85
     },
     {
       "ID": "CreditsEarnedA",
@@ -1685,7 +1690,7 @@
       "Name": "Dirty Roller",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "PlayerRankB",
@@ -1732,7 +1737,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 567,
+      "Progressed": 568,
       "Completed": 0
     }
   ],
@@ -1740,8 +1745,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-28T22:58:24.1175943+00:00",
-  "LastChanged_Achievements": "2023-12-30T19:11:05.4916916+00:00",
+  "LastChanged_Achievements": "2023-12-30T20:08:53.3629691+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:01:13.8170735+00:00",
-  "LastUpdate_Achievements": "2023-12-30T19:11:05.4917564+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:58:37.8454698+00:00",
+  "LastUpdate_Achievements": "2023-12-30T20:08:53.3629852+00:00"
 }

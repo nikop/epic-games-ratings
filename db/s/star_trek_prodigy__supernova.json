@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 619,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 566,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-01-18T19:00:00+00:00",
     "PcReleaseDate": "2022-10-13T23:00:00+00:00",
@@ -150,9 +150,9 @@
       "ID": "BuyAllWeapons",
       "SetID": "7270ipa",
       "Name": "One Man Army",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BuyWeapon",
@@ -254,9 +254,9 @@
       "ID": "Finish_P2L2",
       "SetID": "7270ipa",
       "Name": "Naroan History",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Finish_P2L3",
@@ -447,8 +447,8 @@
   "FirstSeenRating": "2023-03-31T05:57:13.3030994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.1498676+00:00",
   "LastChanged": "2023-03-31T05:57:13.3030995+00:00",
-  "LastChanged_Achievements": "2023-12-30T19:12:45.3405149+00:00",
+  "LastChanged_Achievements": "2023-12-30T20:10:04.43944+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:06.2144377+00:00",
-  "LastUpdate_Ratings": "2023-12-30T18:59:31.6127496+00:00",
-  "LastUpdate_Achievements": "2023-12-30T19:12:45.340538+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:57:31.6315195+00:00",
+  "LastUpdate_Achievements": "2023-12-30T20:10:04.439459+00:00"
 }

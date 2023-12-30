@@ -2,10 +2,10 @@
   "ID": "7509a5c8feb744ae866d9e3326d52d3b",
   "Name": "The Shapeshifting Detective",
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
-  "Ranking_EOS_Progress": 388,
+  "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 299,
+  "EOS_Progressed": 300,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -730,6 +730,11 @@
       "Time": "2023-12-30T17:03:53.7621289+00:00",
       "NumProgressed": 299,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-30T20:03:46.0053381+00:00",
+      "NumProgressed": 300,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 21,
@@ -829,15 +834,15 @@
       "Name": "Play It Again Sam",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "play_me_by_the_hour",
       "SetID": "2db2j74",
       "Name": "Play Me By The Hour",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 207
     },
     {
       "ID": "poetent",
@@ -869,7 +874,7 @@
       "Name": "Strong Silent Type",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "the_big_sleep",
@@ -908,7 +913,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 299,
+      "Progressed": 300,
       "Completed": 3
     }
   ],
@@ -916,8 +921,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-12-30T19:06:23.7207153+00:00",
+  "LastChanged_Achievements": "2023-12-30T20:03:46.0053378+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:53.236705+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:05:19.8071943+00:00",
-  "LastUpdate_Achievements": "2023-12-30T19:06:23.7207327+00:00"
+  "LastUpdate_Ratings": "2023-12-30T20:03:02.7556258+00:00",
+  "LastUpdate_Achievements": "2023-12-30T20:03:46.0053513+00:00"
 }

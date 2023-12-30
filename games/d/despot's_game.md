@@ -10,7 +10,7 @@ Rating: 4.50 (Ranked 611)
 | Party | 51.00% | ~242 |
 | Impossible Cube | 46.00% | ~218 |
 | Knowledge is Power | 45.00% | ~214 |
-| Through the Darkness | 44.00% | ~209 |
+| Through the Darkness | 45.00% | ~214 |
 | No Mercy | 43.00% | ~204 |
 | The Return of a Rat | 41.00% | ~195 |
 | Fat of the Earth | 36.00% | ~171 |
@@ -27,8 +27,8 @@ Rating: 4.50 (Ranked 611)
 | Great Flight | 19.00% | ~90 |
 | Holy Vengeance | 17.00% | ~81 |
 | Honorary Cultist | 13.00% | ~62 |
-| Brain and Brawn | 11.00% | ~52 |
-| Strength and Sorcery | 10.00% | ~48 |
+| Brain and Brawn | 12.00% | ~57 |
+| Strength and Sorcery | 11.00% | ~52 |
 | Omae Wa Mou Shindeiru | 8.00% | ~38 |
 | Experimentalist | 7.00% | ~33 |
 | Soldier | 7.00% | ~33 |

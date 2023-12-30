@@ -3,9 +3,9 @@
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 300,
-  "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_Completed": 159,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 824,
+  "EOS_Progressed": 827,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.21,
   "EosHistory": [
@@ -2830,6 +2830,11 @@
       "Time": "2023-12-30T19:11:07.7925556+00:00",
       "NumProgressed": 824,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-30T20:08:55.1281373+00:00",
+      "NumProgressed": 827,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2850,7 +2855,7 @@
       "Name": "Establish Communications",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 445
+      "UsersEstimate": 447
     },
     {
       "ID": "ACH_eou2",
@@ -2858,7 +2863,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH_eou3",
@@ -2874,15 +2879,15 @@
       "Name": "Navigate the Mines",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_eou5",
       "SetID": "51of0eo",
       "Name": "Shut Down Processing Plant",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 173
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_eou6",
@@ -2898,7 +2903,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_eou8",
@@ -2914,7 +2919,7 @@
       "Name": "Disc Collector",
       "Percentage": 6,
       "XP": 120,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_n64",
@@ -2930,7 +2935,7 @@
       "Name": "Anti-Gravity",
       "Percentage": 6,
       "XP": 120,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_xatrix",
@@ -2945,14 +2950,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 824,
+      "Progressed": 827,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-30T19:11:07.7925552+00:00",
+  "LastChanged_Achievements": "2023-12-30T20:08:55.128137+00:00",
   "LastUpdate_AppInfo": "2023-12-29T06:57:16.3144275+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:00:27.3891689+00:00",
-  "LastUpdate_Achievements": "2023-12-30T19:11:07.7925881+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:58:08.3191945+00:00",
+  "LastUpdate_Achievements": "2023-12-30T20:08:55.1281595+00:00"
 }

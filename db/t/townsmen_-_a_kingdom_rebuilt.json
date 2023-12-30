@@ -3,12 +3,12 @@
   "Name": "Townsmen - A Kingdom Rebuilt",
   "ProductSlug": "townsmen-a-kingdom-rebuilt-07c09d",
   "Ranking_Rating": 891,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -2213,9 +2213,9 @@
       "ID": "ACHIEVEMENT_REPAIR2",
       "SetID": "9eacipp",
       "Name": "Full-time job II",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 309
     },
     {
       "ID": "ACHIEVEMENT_REPAIR3",
@@ -2693,8 +2693,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-12-26T18:02:48.4372833+00:00",
-  "LastChanged_Achievements": "2023-12-30T19:12:58.381066+00:00",
+  "LastChanged_Achievements": "2023-12-30T20:10:15.122233+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:59.3199868+00:00",
-  "LastUpdate_Ratings": "2023-12-30T18:59:57.9361591+00:00",
-  "LastUpdate_Achievements": "2023-12-30T19:12:58.3811686+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:57:49.3783592+00:00",
+  "LastUpdate_Achievements": "2023-12-30T20:10:15.1223189+00:00"
 }

@@ -6,18 +6,18 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 62.00% | ~2,145 |
-| Keeping it classy | 27.00% | ~934 |
+| You're free now! | 62.00% | ~2,147 |
+| Keeping it classy | 27.00% | ~935 |
 | Welcome to the family | 21.00% | ~727 |
-| The finer things in life | 19.00% | ~657 |
-| Backpacker | 14.00% | ~484 |
+| The finer things in life | 19.00% | ~658 |
+| Backpacker | 14.00% | ~485 |
 | Go with the Flow | 13.00% | ~450 |
 | Plastic Surgeon | 10.00% | ~346 |
 | The flip trick crown jewel | 10.00% | ~346 |
 | The hard way | 10.00% | ~346 |
-| Good vibes | 9.00% | ~311 |
-| Keep the dream alive | 9.00% | ~311 |
-| Upfront shredder | 9.00% | ~311 |
+| Good vibes | 9.00% | ~312 |
+| Keep the dream alive | 9.00% | ~312 |
+| Upfront shredder | 9.00% | ~312 |
 | Bottom ply killer | 7.00% | ~242 |
 | Fashionista | 7.00% | ~242 |
 | Finally he zips it | 7.00% | ~242 |
@@ -39,10 +39,10 @@ Number of Ratings: 111  (23.09.2022)
 | Tank commander | 5.00% | ~173 |
 | Trick shot marksman | 5.00% | ~173 |
 | We get it, you're good | 5.00% | ~173 |
-| Cops called! | 4.00% | ~138 |
-| G.O.A.T. status | 4.00% | ~138 |
-| Hoarder | 4.00% | ~138 |
-| Prince of Philly | 4.00% | ~138 |
+| Cops called! | 4.00% | ~139 |
+| G.O.A.T. status | 4.00% | ~139 |
+| Hoarder | 4.00% | ~139 |
+| Prince of Philly | 4.00% | ~139 |
 | Many plys later... | 3.00% | ~104 |
 | Pew-Pew | 3.00% | ~104 |
 | Cross lock country | 2.00% | ~69 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,460 (Ranked 219)  
+Progressed: 3,463 (Ranked 219)  
 Completed: 2 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,11 +284,11 @@ Completed: 2 (0.06%) (Ranked 327)
 | 2023-12-27 | 3,417 | 2 |
 | 2023-12-28 | 3,434 | 2 |
 | 2023-12-29 | 3,448 | 2 |
-| 2023-12-30 | 3,460 | 2 |
+| 2023-12-30 | 3,463 | 2 |
 ## Awards
-Max (Great for Quick Sessions): 62  (Ranked 424)  
+Max (Great for Quick Sessions): 62  (Ranked 423)  
 Sum: 577 (Ranked 324)  
-Diff (max vs sum): 100  
+Diff (max vs sum): 99  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 62 |

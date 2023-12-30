@@ -35,13 +35,13 @@ Number of Ratings: 45  (23.09.2022)
 | No Time for Clawmonsters | 0.70% | ~11 |
 | Storied Past | 0.60% | ~9 |
 | All My Birds, Safely Home | 0.60% | ~9 |
+| Into Mulch | 0.60% | ~9 |
 | Astrology | 0.60% | ~9 |
 | Worldwalker | 0.50% | ~8 |
 | Empty the Caves | 0.50% | ~8 |
 | Bonebreakers | 0.50% | ~8 |
 | Wingknight's Prowess | 0.50% | ~8 |
 | Grillmaster | 0.50% | ~8 |
-| Into Mulch | 0.50% | ~8 |
 | Tempest | 0.50% | ~8 |
 | We Emerge Changed | 0.40% | ~6 |
 | No More Nightmares | 0.40% | ~6 |
@@ -263,8 +263,8 @@ Completed: 7 (0.45%) (Ranked 224)
 | 2023-12-29 | 1,567 | 7 |
 | 2023-12-30 | 1,572 | 7 |
 ## Awards
-Max (Character Customization): 29  (Ranked 519)  
-Sum: 29 (Ranked 538)  
+Max (Character Customization): 29  (Ranked 518)  
+Sum: 29 (Ranked 537)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |

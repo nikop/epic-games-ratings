@@ -17,8 +17,8 @@ Number of Ratings: 67  (23.09.2022)
 | Master of War | 1.00% | ~3 |
 | The Dead Court | 1.00% | ~3 |
 | Why'd It Have to Be Snakes? | 1.00% | ~3 |
-| Good Deeds | 0.70% | ~2 |
-| Mint II | 0.70% | ~2 |
+| Good Deeds | 0.60% | ~2 |
+| Mint II | 0.60% | ~2 |
 | A Bullet for All Seasons | 0.30% | ~1 |
 | Are You Not Entertained? | 0.30% | ~1 |
 | Collector | 0.30% | ~1 |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Respect For Animals | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 306 (Ranked 385)  
+Progressed: 308 (Ranked 383)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -54,10 +54,10 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 256 | 0 |
 | 2023-12-28 | 270 | 0 |
 | 2023-12-29 | 284 | 0 |
-| 2023-12-30 | 306 | 0 |
+| 2023-12-30 | 308 | 0 |
 ## Awards
-Max (Great Boss Battles): 45  (Ranked 466)  
-Sum: 45 (Ranked 510)  
+Max (Great Boss Battles): 45  (Ranked 465)  
+Sum: 45 (Ranked 509)  
 Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |

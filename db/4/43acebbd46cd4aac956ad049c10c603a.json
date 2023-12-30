@@ -3,12 +3,12 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 25,
-  "Ranking_Popularity": 392,
-  "Ranking_PopularitySum": 470,
+  "Ranking_Popularity": 391,
+  "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -259,9 +259,9 @@
       "Count": 89
     }
   ],
-  "EOS_Progressed": 1197,
+  "EOS_Progressed": 1198,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3299,6 +3299,11 @@
       "Time": "2023-12-30T19:09:15.6972905+00:00",
       "NumProgressed": 1197,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-30T20:05:47.2130313+00:00",
+      "NumProgressed": 1198,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3317,9 +3322,9 @@
       "ID": "AbInitio",
       "SetID": "1n308hc",
       "Name": "Ab Initio",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 323
+      "UsersEstimate": 335
     },
     {
       "ID": "AnthropicHills",
@@ -3407,7 +3412,7 @@
       "Name": "Discovery",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "EasternWetlands",
@@ -3437,9 +3442,9 @@
       "ID": "FloodedValley",
       "SetID": "1n308hc",
       "Name": "Flooded Valley",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 132
     },
     {
       "ID": "GnothiSeauton",
@@ -3479,7 +3484,7 @@
       "Name": "Into the Machine",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "JustOneLap",
@@ -3511,7 +3516,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "Mnemosyne",
@@ -3535,7 +3540,7 @@
       "Name": "Museum Visitor",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "NewBeginning",
@@ -3623,7 +3628,7 @@
       "Name": "Signatory",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "SingleRod",
@@ -3655,7 +3660,7 @@
       "Name": "Team Spirit",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "TextAdventurer",
@@ -3671,7 +3676,7 @@
       "Name": "The All-Gifted",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "TheEdgeOfForever",
@@ -3703,7 +3708,7 @@
       "Name": "The Spark",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "TheThiefOfFire",
@@ -3711,7 +3716,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "TheWordEndures",
@@ -3727,7 +3732,7 @@
       "Name": "Touch Grass",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "TrevorsBiographer",
@@ -3751,7 +3756,7 @@
       "Name": "Wanderers",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "WesternDelta",
@@ -3782,7 +3787,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1197,
+      "Progressed": 1198,
       "Completed": 2
     }
   ],
@@ -3790,8 +3795,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-29T23:57:10.9507958+00:00",
-  "LastChanged_Achievements": "2023-12-30T19:09:15.6972902+00:00",
+  "LastChanged_Achievements": "2023-12-30T20:05:47.2130311+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2023-12-30T18:59:44.72922+00:00",
-  "LastUpdate_Achievements": "2023-12-30T19:09:15.6973594+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:57:40.3203247+00:00",
+  "LastUpdate_Achievements": "2023-12-30T20:05:47.2130979+00:00"
 }

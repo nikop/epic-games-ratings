@@ -9,11 +9,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 0.90% | ~144 |
 | Settler | 0.90% | ~144 |
 | Play a Single Player Game | 0.90% | ~144 |
+| Friendly Family | 0.80% | ~128 |
 | Architect | 0.70% | ~112 |
 | Intrepid | 0.70% | ~112 |
-| Friendly Family | 0.70% | ~112 |
 | Able | 0.60% | ~96 |
 | Good | 0.60% | ~96 |
+| Just | 0.60% | ~96 |
+| Keystone | 0.60% | ~96 |
 | Learned | 0.60% | ~96 |
 | Mason | 0.60% | ~96 |
 | Noble | 0.60% | ~96 |
@@ -22,13 +24,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 0.60% | ~96 |
 | Trade Caravan | 0.60% | ~96 |
 | Enlightened | 0.50% | ~80 |
+| Fountainhead | 0.50% | ~80 |
 | Glorious | 0.50% | ~80 |
-| Just | 0.50% | ~80 |
-| Keystone | 0.50% | ~80 |
+| Magnificent | 0.50% | ~80 |
 | Pioneer | 0.50% | ~80 |
 | Warrior | 0.50% | ~80 |
 | Developing Cities | 0.50% | ~80 |
 | Strong Cities | 0.50% | ~80 |
+| Ishtar Gate | 0.50% | ~80 |
 | Pyramids | 0.50% | ~80 |
 | Learn to Play 1 | 0.50% | ~80 |
 | Judaism | 0.50% | ~80 |
@@ -37,22 +40,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 0.40% | ~64 |
 | Ambitious | 0.40% | ~64 |
 | Brilliant | 0.40% | ~64 |
-| Fountainhead | 0.40% | ~64 |
-| Magnificent | 0.40% | ~64 |
+| Great | 0.40% | ~64 |
 | Wise | 0.40% | ~64 |
 | Able Difficulty | 0.40% | ~64 |
 | Furious Family | 0.40% | ~64 |
 | Apadana | 0.40% | ~64 |
 | Great Ziggurat | 0.40% | ~64 |
-| Ishtar Gate | 0.40% | ~64 |
 | Lighthouse | 0.40% | ~64 |
 | Christianity | 0.40% | ~64 |
 | Babylonian Paganism | 0.40% | ~64 |
+| Carthaginian Paganism | 0.40% | ~64 |
 | Roman Paganism | 0.40% | ~64 |
 | Zoroastrianism | 0.40% | ~64 |
 | Beloved | 0.30% | ~48 |
 | Drillmaster | 0.30% | ~48 |
-| Great | 0.30% | ~48 |
 | Intercessor | 0.30% | ~48 |
 | Valiant | 0.30% | ~48 |
 | Legendary Cities | 0.30% | ~48 |
@@ -65,7 +66,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 0.30% | ~48 |
 | Learn to Play 2 | 0.30% | ~48 |
 | Manichaeism | 0.30% | ~48 |
-| Carthaginian Paganism | 0.30% | ~48 |
 | Egyptian Paganism | 0.30% | ~48 |
 | Building Wonders | 0.30% | ~48 |
 | Win a Single Player Game | 0.30% | ~48 |
@@ -73,6 +73,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 0.20% | ~32 |
 | Capable | 0.20% | ~32 |
 | Conqueror | 0.20% | ~32 |
+| Lion | 0.20% | ~32 |
 | Mighty | 0.20% | ~32 |
 | Ready | 0.20% | ~32 |
 | Subjugator | 0.20% | ~32 |
@@ -103,6 +104,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gnosticism | 0.20% | ~32 |
 | Legalism | 0.20% | ~32 |
 | Mythology | 0.20% | ~32 |
+| Revelation | 0.20% | ~32 |
 | Cimmerian Archer | 0.20% | ~32 |
 | Legionary | 0.20% | ~32 |
 | Double Victory | 0.20% | ~32 |
@@ -149,7 +151,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.10% | ~16 |
 | Holy | 0.10% | ~16 |
 | Invincible | 0.10% | ~16 |
-| Lion | 0.10% | ~16 |
 | Old | 0.10% | ~16 |
 | Peacemaker | 0.10% | ~16 |
 | White Death | 0.10% | ~16 |
@@ -225,7 +226,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ten Crowns | 0.10% | ~16 |
 | Dualism | 0.10% | ~16 |
 | Redemption | 0.10% | ~16 |
-| Revelation | 0.10% | ~16 |
 | Veneration | 0.10% | ~16 |
 | Word of God | 0.10% | ~16 |
 | Cataphract Archer | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,031 (Ranked 165)  
+Progressed: 16,034 (Ranked 165)  
 Completed: 5 (0.03%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -619,7 +619,7 @@ Completed: 5 (0.03%) (Ranked 351)
 | 2023-12-27 | 15,978 | 5 |
 | 2023-12-28 | 15,997 | 5 |
 | 2023-12-29 | 16,011 | 5 |
-| 2023-12-30 | 16,031 | 5 |
+| 2023-12-30 | 16,034 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 284)  
 Sum: 1,912 (Ranked 220)  

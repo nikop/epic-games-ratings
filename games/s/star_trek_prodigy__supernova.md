@@ -11,19 +11,19 @@
 | The Clock is Ticking | 28.00% | ~5 |
 | A Helping Hand | 28.00% | ~5 |
 | I've Got You | 17.00% | ~3 |
+| One Man Army | 11.00% | ~2 |
 | Up your Arsenal | 11.00% | ~2 |
 | Punny Lover | 11.00% | ~2 |
 | Back online | 11.00% | ~2 |
 | Rok and Roll | 11.00% | ~2 |
 | First Contact? | 11.00% | ~2 |
+| Naroan History | 11.00% | ~2 |
 | Not Too Long | 11.00% | ~2 |
 | Welcome back | 11.00% | ~2 |
 | Getting Better | 11.00% | ~2 |
 | Priceless Collection | 6.00% | ~1 |
-| One Man Army | 6.00% | ~1 |
 | Quest for Loot | 6.00% | ~1 |
 | Proto Menagerie | 6.00% | ~1 |
-| Naroan History | 6.00% | ~1 |
 | Playing with Time | 6.00% | ~1 |
 | Escape from Mirios | 6.00% | ~1 |
 | Coming in from the Cold | 6.00% | ~1 |

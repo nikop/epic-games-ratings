@@ -1,7 +1,7 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.55 (Ranked 523)  
+Rating: 4.55 (Ranked 522)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -32,8 +32,8 @@ Rating: 4.55 (Ranked 523)
 | Ghost hunter | 15.00% | ~21 |
 | Master detective | 15.00% | ~21 |
 | Pandora's box | 14.00% | ~20 |
+| Workaholic | 13.00% | ~18 |
 | Peacekeeper | 13.00% | ~18 |
-| Workaholic | 12.00% | ~17 |
 | Defender | 11.00% | ~15 |
 | Showdown | 10.00% | ~14 |
 | Safecracker | 10.00% | ~14 |

@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 88.00% | ~440 |
-| Your first fight | 85.00% | ~425 |
-| Good Person Chip | 83.00% | ~415 |
-| First winning | 82.00% | ~410 |
-| Your first job | 81.00% | ~405 |
-| Depressed visitor | 76.00% | ~380 |
-| Fitness professional | 74.00% | ~370 |
-| Old movies enjoyer | 74.00% | ~370 |
-| Neurotrainer – power gainer! | 74.00% | ~370 |
-| Employee of the week | 73.00% | ~365 |
-| Your own amateur gym | 68.00% | ~340 |
-| Run K, run! | 67.00% | ~335 |
-| First defeat | 66.00% | ~330 |
-| Hello, world! | 66.00% | ~330 |
-| No bullying more | 65.00% | ~325 |
-| Fighting is cool | 64.00% | ~320 |
-| Pal of your father? | 62.00% | ~310 |
-| Spirit of the past | 60.00% | ~300 |
-| Employee of the month | 59.00% | ~295 |
-| Law student | 57.00% | ~285 |
-| Workout professional | 55.00% | ~275 |
-| Little hacker | 55.00% | ~275 |
-| Handyman | 55.00% | ~275 |
-| Champion – starter pack | 54.00% | ~270 |
-| It's good to be alive | 54.00% | ~270 |
-| Fight for life | 53.00% | ~265 |
-| Own four walls | 53.00% | ~265 |
-| Intriguing candies | 53.00% | ~265 |
-| Employee of the year | 53.00% | ~265 |
+| Such a strange dream… | 88.00% | ~441 |
+| Your first fight | 85.00% | ~426 |
+| Good Person Chip | 83.00% | ~416 |
+| First winning | 81.00% | ~406 |
+| Your first job | 80.00% | ~401 |
+| Depressed visitor | 75.00% | ~376 |
+| Old movies enjoyer | 74.00% | ~371 |
+| Neurotrainer – power gainer! | 74.00% | ~371 |
+| Fitness professional | 73.00% | ~366 |
+| Employee of the week | 73.00% | ~366 |
+| Your own amateur gym | 68.00% | ~341 |
+| First defeat | 66.00% | ~331 |
+| Run K, run! | 66.00% | ~331 |
+| Hello, world! | 66.00% | ~331 |
+| No bullying more | 64.00% | ~321 |
+| Fighting is cool | 63.00% | ~316 |
+| Pal of your father? | 62.00% | ~311 |
+| Spirit of the past | 60.00% | ~301 |
+| Employee of the month | 59.00% | ~296 |
+| Law student | 57.00% | ~286 |
+| Workout professional | 55.00% | ~276 |
+| Handyman | 55.00% | ~276 |
+| Little hacker | 54.00% | ~271 |
+| Champion – starter pack | 54.00% | ~271 |
+| It's good to be alive | 54.00% | ~271 |
+| Fight for life | 53.00% | ~266 |
+| Own four walls | 53.00% | ~266 |
+| Intriguing candies | 53.00% | ~266 |
+| Employee of the year | 53.00% | ~266 |
 | Legal courier | 49.00% | ~245 |
 | Extreme neuropower! | 49.00% | ~245 |
 | Escaped from a big trouble | 47.00% | ~235 |
@@ -71,7 +71,7 @@
 | Silver’s past | 25.00% | ~125 |
 | The only right decision | 25.00% | ~125 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 500 (Ranked 343)  
+Progressed: 501 (Ranked 343)  
 Completed: 9 (1.80%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,4 +180,4 @@ Completed: 9 (1.80%) (Ranked 141)
 | 2023-12-27 | 486 | 9 |
 | 2023-12-28 | 492 | 9 |
 | 2023-12-29 | 497 | 9 |
-| 2023-12-30 | 500 | 9 |
+| 2023-12-30 | 501 | 9 |

@@ -6,23 +6,23 @@ Rating: 4.48 (Ranked 649)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eat My Dust | 48.00% | ~1,500 |
-| First Love | 45.00% | ~1,406 |
-| Clean Race | 44.00% | ~1,375 |
-| Hear That Roar! | 41.00% | ~1,281 |
-| Bitter Rivalry | 30.00% | ~937 |
-| Rivals to the End | 30.00% | ~937 |
+| First Love | 45.00% | ~1,407 |
+| Clean Race | 43.00% | ~1,344 |
+| Hear That Roar! | 41.00% | ~1,282 |
+| Bitter Rivalry | 30.00% | ~938 |
+| Rivals to the End | 30.00% | ~938 |
 | Champagne Spray | 28.00% | ~875 |
-| We're Going to Need a Bigger Garage | 26.00% | ~812 |
+| We're Going to Need a Bigger Garage | 26.00% | ~813 |
 | Quick Pit Stop | 21.00% | ~656 |
 | Restored and Ready | 20.00% | ~625 |
 | I Want One Too! | 20.00% | ~625 |
 | Legendary!!! | 19.00% | ~594 |
 | Go-Faster Stripes | 17.00% | ~531 |
 | I'm Here Too! | 15.00% | ~469 |
-| We've Just Begun | 14.00% | ~437 |
+| We've Just Begun | 14.00% | ~438 |
 | Is It the Right Size? | 9.00% | ~281 |
 | Stamina Star | 8.00% | ~250 |
-| Evangelist | 6.00% | ~187 |
+| Evangelist | 6.00% | ~188 |
 | Make It Your Own! | 5.00% | ~156 |
 | Cherry Blossom and Temples | 4.00% | ~125 |
 | The Road to Liberty | 4.00% | ~125 |
@@ -32,16 +32,16 @@ Rating: 4.48 (Ranked 649)
 | I Make the Rules! | 3.00% | ~94 |
 | Rounding Off | 3.00% | ~94 |
 | My Work Here Is Done | 3.00% | ~94 |
-| Iconic! | 2.00% | ~62 |
-| I'll Be the Best! | 2.00% | ~62 |
-| Back in Blighty | 2.00% | ~62 |
-| Still Here | 2.00% | ~62 |
-| Overtaking the Master | 2.00% | ~62 |
+| Iconic! | 2.00% | ~63 |
+| I'll Be the Best! | 2.00% | ~63 |
+| Back in Blighty | 2.00% | ~63 |
+| Still Here | 2.00% | ~63 |
+| Overtaking the Master | 2.00% | ~63 |
 | Next Level | 1.00% | ~31 |
 | I Don't Stop | 1.00% | ~31 |
 | Exhausted but Happy | 0.70% | ~22 |
 | In Search of Perfection | 0.70% | ~22 |
-| Globe-trotter | 0.40% | ~12 |
+| Globe-trotter | 0.40% | ~13 |
 | Maximum Endurance | 0.20% | ~6 |
 | Breathtaking Views | 0.20% | ~6 |
 | Beyond the Limiter | 0.20% | ~6 |
@@ -55,7 +55,7 @@ Rating: 4.48 (Ranked 649)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,124 (Ranked 224)  
+Progressed: 3,126 (Ranked 224)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 3,044 | 0 |
 | 2023-12-28 | 3,069 | 0 |
 | 2023-12-29 | 3,096 | 0 |
-| 2023-12-30 | 3,124 | 0 |
+| 2023-12-30 | 3,126 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

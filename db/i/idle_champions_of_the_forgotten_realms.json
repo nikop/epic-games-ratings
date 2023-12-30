@@ -9193,9 +9193,9 @@
       "Count": 3609
     }
   ],
-  "EOS_Progressed": 247775,
+  "EOS_Progressed": 247816,
   "EOS_Completed": 2578,
-  "EOS_NewPlayers": 3950,
+  "EOS_NewPlayers": 3974,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -37963,6 +37963,11 @@
       "Time": "2023-12-30T19:12:59.8250779+00:00",
       "NumProgressed": 247775,
       "NumCompleted": 2578
+    },
+    {
+      "Time": "2023-12-30T20:10:16.6685983+00:00",
+      "NumProgressed": 247816,
+      "NumCompleted": 2578
     }
   ],
   "TotalAchievements": 546,
@@ -38342,7 +38347,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1982
+      "UsersEstimate": 1983
     },
     {
       "ID": "objective_completed_110",
@@ -38836,9 +38841,9 @@
       "ID": "objective_completed_12",
       "SetID": "cc37lbc",
       "Name": "Were-verpowered",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 743
+      "UsersEstimate": 991
     },
     {
       "ID": "objective_completed_1203",
@@ -41118,7 +41123,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1734
+      "UsersEstimate": 1735
     },
     {
       "ID": "objective_completed_70",
@@ -42262,7 +42267,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1499
     },
     {
       "ID": "objective_completed_1558",
@@ -42278,7 +42283,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "objective_completed_1563",
@@ -42341,21 +42346,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 214049,
+      "Progressed": 214090,
       "Completed": 4102
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 247775,
+      "Progressed": 247816,
       "Completed": 2578
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-30T16:00:10.7112472+00:00",
-  "LastChanged_Achievements": "2023-12-30T19:12:59.8250777+00:00",
+  "LastChanged_Achievements": "2023-12-30T20:10:16.6685982+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:03:19.9178143+00:00",
-  "LastUpdate_Achievements": "2023-12-30T19:12:59.8274888+00:00"
+  "LastUpdate_Ratings": "2023-12-30T20:00:01.3476101+00:00",
+  "LastUpdate_Achievements": "2023-12-30T20:10:16.6708684+00:00"
 }

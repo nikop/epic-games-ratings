@@ -5,19 +5,19 @@ Rating: 4.53 (Ranked 558)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 17.00% | ~19,018 |
-| I've Had Enough! | 13.00% | ~14,543 |
-| Fists, Fury & a lot of Rage | 9.00% | ~10,068 |
-| Seasoned Fighter | 8.00% | ~8,950 |
-| All For One and One For All | 7.00% | ~7,831 |
-| Home Sweet Home? | 5.00% | ~5,594 |
-| A New Age | 4.00% | ~4,475 |
-| Oh Baby, A Triple | 3.00% | ~3,356 |
-| Battle Hardened | 2.00% | ~2,237 |
-| Master of Disguise | 2.00% | ~2,237 |
-| It's Mayhem! | 2.00% | ~2,237 |
-| Right back at'cha | 2.00% | ~2,237 |
-| Symbiotic | 2.00% | ~2,237 |
+| All Grown Up! | 17.00% | ~19,024 |
+| I've Had Enough! | 13.00% | ~14,548 |
+| Fists, Fury & a lot of Rage | 9.00% | ~10,072 |
+| Seasoned Fighter | 8.00% | ~8,953 |
+| All For One and One For All | 7.00% | ~7,833 |
+| Home Sweet Home? | 5.00% | ~5,595 |
+| A New Age | 4.00% | ~4,476 |
+| Oh Baby, A Triple | 3.00% | ~3,357 |
+| Battle Hardened | 2.00% | ~2,238 |
+| Master of Disguise | 2.00% | ~2,238 |
+| It's Mayhem! | 2.00% | ~2,238 |
+| Right back at'cha | 2.00% | ~2,238 |
+| Symbiotic | 2.00% | ~2,238 |
 | Cautious Veteran | 1.00% | ~1,119 |
 | Double Punch! | 1.00% | ~1,119 |
 | Martyrdom | 1.00% | ~1,119 |
@@ -26,9 +26,9 @@ Rating: 4.53 (Ranked 558)
 | Ninja Reflex | 0.80% | ~895 |
 | Zero-sum Game | 0.80% | ~895 |
 | Taste Your Own Medicine | 0.60% | ~671 |
-| This is GigaBash! | 0.50% | ~559 |
-| Just Getting Warmed Up | 0.40% | ~447 |
-| Sidetracked... | 0.40% | ~447 |
+| This is GigaBash! | 0.50% | ~560 |
+| Just Getting Warmed Up | 0.40% | ~448 |
+| Sidetracked... | 0.40% | ~448 |
 | Eye of the Titan | 0.30% | ~336 |
 | Top of the Food Chain | 0.30% | ~336 |
 | Let Them Fight | 0.20% | ~224 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 558)
 | What's Mine is Yours | 0.10% | ~112 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 111,872 (Ranked 92)  
+Progressed: 111,907 (Ranked 92)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,10 +66,10 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 108,438 | 0 |
 | 2023-12-28 | 109,557 | 0 |
 | 2023-12-29 | 110,708 | 0 |
-| 2023-12-30 | 111,872 | 0 |
+| 2023-12-30 | 111,907 | 0 |
 ## Awards
-Max (Great Boss Battles): 45  (Ranked 466)  
-Sum: 45 (Ranked 510)  
+Max (Great Boss Battles): 45  (Ranked 465)  
+Sum: 45 (Ranked 509)  
 Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |

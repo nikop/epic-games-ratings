@@ -4,8 +4,8 @@
   "ProductSlug": "bloodrayne-betrayal-fresh-bites-8f1012",
   "Ranking_EOS_Progress": 519,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 527,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 528,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-11-04T17:00:00+00:00",
     "PcReleaseDate": "2021-09-09T13:00:00+00:00",
@@ -194,9 +194,9 @@
       "ID": "CrabCakes",
       "SetID": "6jf74lf",
       "Name": "Crab Cakes",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "DropIn",
@@ -314,9 +314,9 @@
       "ID": "StrangeSkulls",
       "SetID": "6jf74lf",
       "Name": "Strange Skulls",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ToSunrise",
@@ -330,9 +330,9 @@
       "ID": "TreasureHunter",
       "SetID": "6jf74lf",
       "Name": "Treasure Hunter",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "WalkingOnAir",
@@ -355,8 +355,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.7137735+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:16.1017514+00:00",
   "LastChanged": "2023-03-31T05:58:13.7137736+00:00",
-  "LastChanged_Achievements": "2023-12-30T19:12:44.5255135+00:00",
+  "LastChanged_Achievements": "2023-12-30T20:10:03.6178021+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.9263911+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:02:33.9835025+00:00",
-  "LastUpdate_Achievements": "2023-12-30T19:12:44.5255317+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:59:32.0326201+00:00",
+  "LastUpdate_Achievements": "2023-12-30T20:10:03.6178121+00:00"
 }

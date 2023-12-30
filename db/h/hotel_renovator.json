@@ -3,12 +3,12 @@
   "Name": "Hotel Renovator",
   "ProductSlug": "hotel-renovator",
   "Ranking_Rating": 815,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -263,7 +263,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1354,
+  "EOS_Progressed": 1355,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
@@ -3223,6 +3223,11 @@
       "Time": "2023-12-30T19:10:57.1501367+00:00",
       "NumProgressed": 1354,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-30T20:08:47.7158674+00:00",
+      "NumProgressed": 1355,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -3282,7 +3287,7 @@
       "Name": "Love is in the air",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "ACH_ENGAGEMENT_RING",
@@ -3312,9 +3317,9 @@
       "ID": "ACH_GOLDEN_EGGS_ALL",
       "SetID": "7k95e4n",
       "Name": "Aesop\u0027s fable",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 366
+      "UsersEstimate": 352
     },
     {
       "ID": "ACH_GRANDPA_BOY_SUIT",
@@ -3322,7 +3327,7 @@
       "Name": "Memento",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -3330,7 +3335,7 @@
       "Name": "No pressure",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -3338,7 +3343,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -3362,7 +3367,7 @@
       "Name": "Island boy",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
@@ -3386,7 +3391,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "ACH_STAR_2",
@@ -3400,9 +3405,9 @@
       "ID": "ACH_STAR_3",
       "SetID": "7k95e4n",
       "Name": "Still more work ahead",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 393
+      "UsersEstimate": 379
     },
     {
       "ID": "ACH_STAR_4",
@@ -3434,7 +3439,7 @@
       "Name": "Excellent service",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -3449,7 +3454,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1354,
+      "Progressed": 1355,
       "Completed": 18
     }
   ],
@@ -3457,8 +3462,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-29T01:34:53.0019618+00:00",
-  "LastChanged_Achievements": "2023-12-30T19:10:57.1501362+00:00",
+  "LastChanged_Achievements": "2023-12-30T20:08:47.7158672+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:02.4456941+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:01:50.9938593+00:00",
-  "LastUpdate_Achievements": "2023-12-30T19:10:57.1501721+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:59:02.8530758+00:00",
+  "LastUpdate_Achievements": "2023-12-30T20:08:47.7158954+00:00"
 }

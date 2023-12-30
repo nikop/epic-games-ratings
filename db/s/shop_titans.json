@@ -7867,9 +7867,9 @@
       "Count": 3808
     }
   ],
-  "EOS_Progressed": 148495,
+  "EOS_Progressed": 148502,
   "EOS_Completed": 340,
-  "EOS_NewPlayers": 1297,
+  "EOS_NewPlayers": 1292,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -34617,6 +34617,11 @@
       "Time": "2023-12-30T19:07:44.27925+00:00",
       "NumProgressed": 148495,
       "NumCompleted": 340
+    },
+    {
+      "Time": "2023-12-30T20:04:42.8429768+00:00",
+      "NumProgressed": 148502,
+      "NumCompleted": 340
     }
   ],
   "TotalAchievements": 112,
@@ -34924,7 +34929,7 @@
       "Name": "Oligarch Monarch",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "damage01",
@@ -34972,7 +34977,7 @@
       "Name": "Unleashed Potential",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "energy01",
@@ -35236,7 +35241,7 @@
       "Name": "Merchant Extraordinaire",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "lilu_a",
@@ -35316,7 +35321,7 @@
       "Name": "The Greatest Grind",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1337
     },
     {
       "ID": "masterpiece",
@@ -35324,7 +35329,7 @@
       "Name": "All or Nothing!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1337
     },
     {
       "ID": "polonia_a",
@@ -35523,15 +35528,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 148495,
+      "Progressed": 148502,
       "Completed": 340
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-30T19:05:27.304857+00:00",
-  "LastChanged_Achievements": "2023-12-30T19:07:44.2792496+00:00",
+  "LastChanged_Achievements": "2023-12-30T20:04:42.8429765+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:55.73992+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:05:27.3048576+00:00",
-  "LastUpdate_Achievements": "2023-12-30T19:07:44.27948+00:00"
+  "LastUpdate_Ratings": "2023-12-30T20:03:07.5717692+00:00",
+  "LastUpdate_Achievements": "2023-12-30T20:04:42.8431886+00:00"
 }

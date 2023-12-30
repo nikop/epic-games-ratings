@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 75.00% | ~59 |
-| Little ideas | 71.00% | ~56 |
-| The Ship | 67.00% | ~53 |
-| Seeking the truth | 56.00% | ~44 |
+| Marc Allard | 74.00% | ~59 |
+| Little ideas | 70.00% | ~56 |
+| The Ship | 66.00% | ~53 |
+| Seeking the truth | 55.00% | ~44 |
 | An old friend | 53.00% | ~42 |
-| The Gala | 52.00% | ~41 |
+| The Gala | 51.00% | ~41 |
 | A curious gathering | 49.00% | ~39 |
-| Little grey cells | 47.00% | ~37 |
-| Impossible is possible | 47.00% | ~37 |
-| The Missing Magdalene | 47.00% | ~37 |
-| Arthur Hastings | 47.00% | ~37 |
+| Little grey cells | 46.00% | ~37 |
+| Impossible is possible | 46.00% | ~37 |
+| The Missing Magdalene | 46.00% | ~37 |
+| Arthur Hastings | 46.00% | ~37 |
 | Everything matters | 43.00% | ~34 |
-| An expert mediator | 42.00% | ~33 |
-| DI Hardwicke | 42.00% | ~33 |
-| Order and method | 37.00% | ~29 |
-| Betty Allen | 37.00% | ~29 |
+| An expert mediator | 41.00% | ~33 |
+| DI Hardwicke | 41.00% | ~33 |
+| Order and method | 36.00% | ~29 |
+| Betty Allen | 36.00% | ~29 |
 | The Investigation Begins | 34.00% | ~27 |
 | Ms. Camilla B. Culsham | 30.00% | ~24 |
 | Irene Court-Smyth | 30.00% | ~24 |
 | An odd series of events | 29.00% | ~23 |
 | The Apartment | 29.00% | ~23 |
-| Nathaniel Dryden | 27.00% | ~21 |
+| Nathaniel Dryden | 26.00% | ~21 |
 | A rude awakening | 25.00% | ~20 |
 | Bartholomew | 25.00% | ~20 |
 | Well-acquainted | 24.00% | ~19 |
 | Anastasia Babanin | 24.00% | ~19 |
 | The Scheme | 24.00% | ~19 |
 | Zakariya Demir | 23.00% | ~18 |
-| Truth from within | 22.00% | ~17 |
+| Truth from within | 21.00% | ~17 |
 | A curious phrase | 20.00% | ~16 |
 | Evelyn Lakshmi Warbeck | 18.00% | ~14 |
 | Johan Kristiansen | 18.00% | ~14 |
@@ -51,8 +51,8 @@
 | A true performance | 11.00% | ~9 |
 | Perkins | 8.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79 (Ranked 506)  
-Completed: 3 (3.80%) (Ranked 95)  
+Progressed: 80 (Ranked 503)  
+Completed: 3 (3.75%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -105,4 +105,4 @@ Completed: 3 (3.80%) (Ranked 95)
 | 2023-12-27 | 74 | 2 |
 | 2023-12-28 | 75 | 3 |
 | 2023-12-29 | 77 | 3 |
-| 2023-12-30 | 79 | 3 |
+| 2023-12-30 | 80 | 3 |

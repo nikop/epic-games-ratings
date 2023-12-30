@@ -17,16 +17,16 @@
 | Power of Inquisition | 17.00% | ~9 |
 | Surpass the teacher | 17.00% | ~9 |
 | Vene, vidi, vici | 17.00% | ~9 |
-| Help of the Gell | 15.00% | ~8 |
+| Help of the Gell | 17.00% | ~9 |
 | She-Wolf | 15.00% | ~8 |
 | Berkanan Borgia | 13.00% | ~7 |
 | Rage | 13.00% | ~7 |
 | Trial by cold | 13.00% | ~7 |
 | The champion of the arena | 11.00% | ~6 |
+| For the greater good | 9.00% | ~5 |
 | Overplay the rogue | 9.00% | ~5 |
 | Stronger than Gellian steel | 9.00% | ~5 |
 | Protect the Healer! | 9.00% | ~5 |
-| For the greater good | 7.00% | ~4 |
 | Collector | 7.00% | ~4 |
 | Punish the Punisher | 7.00% | ~4 |
 | The End | 7.00% | ~4 |

@@ -287,8 +287,8 @@ Completed: 18 (0.35%) (Ranked 236)
 | 2023-12-29 | 5,128 | 18 |
 | 2023-12-30 | 5,141 | 18 |
 ## Awards
-Max (Great Boss Battles): 30  (Ranked 514)  
-Sum: 30 (Ranked 534)  
+Max (Great Boss Battles): 30  (Ranked 513)  
+Sum: 30 (Ranked 533)  
 Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1181,9 +1181,9 @@
       "ID": "do_what_you_have_to",
       "SetID": "f2im8d",
       "Name": "Do what you have to",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 101
     },
     {
       "ID": "earn_all_trophies",
@@ -1397,9 +1397,9 @@
       "ID": "sign_of_weakness",
       "SetID": "f2im8d",
       "Name": "Sign of weakness",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 91
     },
     {
       "ID": "something_important",
@@ -1492,8 +1492,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-30T19:10:47.8358479+00:00",
+  "LastChanged_Achievements": "2023-12-30T20:08:41.3850803+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:25.6985759+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:03:21.438463+00:00",
-  "LastUpdate_Achievements": "2023-12-30T19:10:47.835889+00:00"
+  "LastUpdate_Ratings": "2023-12-30T20:00:02.24753+00:00",
+  "LastUpdate_Achievements": "2023-12-30T20:08:41.3851107+00:00"
 }

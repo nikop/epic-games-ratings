@@ -3,12 +3,12 @@
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 659,
-  "Ranking_Popularity": 490,
+  "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -848,9 +848,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5937,
+  "EOS_Progressed": 5938,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -12148,6 +12148,11 @@
       "Time": "2023-12-30T19:07:59.5766141+00:00",
       "NumProgressed": 5937,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-30T20:04:54.2605634+00:00",
+      "NumProgressed": 5938,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12176,7 +12181,7 @@
       "Name": "Deadication",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -12304,7 +12309,7 @@
       "Name": "Season Finale",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "MF_Ach_SpendingSpree",
@@ -12343,15 +12348,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5937,
+      "Progressed": 5938,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2023-12-30T19:07:59.5766137+00:00",
+  "LastChanged_Achievements": "2023-12-30T20:04:54.2605631+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:25.4849752+00:00",
-  "LastUpdate_Ratings": "2023-12-30T18:59:01.1252965+00:00",
-  "LastUpdate_Achievements": "2023-12-30T19:07:59.5766648+00:00"
+  "LastUpdate_Ratings": "2023-12-30T19:57:11.188369+00:00",
+  "LastUpdate_Achievements": "2023-12-30T20:04:54.2606199+00:00"
 }

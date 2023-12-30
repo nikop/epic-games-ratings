@@ -1,21 +1,21 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 261)  
+Rating: 4.68 (Ranked 260)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~623 |
-| Lost and Found | 7.00% | ~396 |
+| Malpractice Assurance | 11.00% | ~624 |
+| Lost and Found | 7.00% | ~397 |
 | Autodidact | 6.00% | ~7,848 |
 | This guy... again? | 6.00% | ~340 |
 | This Belongs in a Museum | 5.00% | ~6,540 |
 | Creep and Sleep | 5.00% | ~6,540 |
 | Overdue Notice | 5.00% | ~6,540 |
 | Escape from the Black Hole | 5.00% | ~6,540 |
-| Ploughshares to Swords | 5.00% | ~283 |
-| Bloody Graduation | 5.00% | ~283 |
+| Ploughshares to Swords | 5.00% | ~284 |
+| Bloody Graduation | 5.00% | ~284 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,232 |
 | Serenity Now! | 4.00% | ~5,232 |
 | It Rings a Bell | 4.00% | ~5,232 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,795 (Ranked 88)  
+Progressed: 130,804 (Ranked 89)  
 Completed: 3 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 3 (0.00%) (Ranked 391)
 | 2023-12-27 | 130,259 | 3 |
 | 2023-12-28 | 130,422 | 3 |
 | 2023-12-29 | 130,627 | 3 |
-| 2023-12-30 | 130,795 | 3 |
+| 2023-12-30 | 130,804 | 3 |
 ## Awards
 Max (Character Customization): 7,905  (Ranked 50)  
 Sum: 21,274 (Ranked 58)  

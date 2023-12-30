@@ -3,12 +3,12 @@
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_Rating": 324,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1160,
+  "EOS_Progressed": 1161,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -3336,6 +3336,11 @@
       "Time": "2023-12-30T18:10:00.522978+00:00",
       "NumProgressed": 1160,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-30T20:10:07.5831598+00:00",
+      "NumProgressed": 1161,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3369,9 +3374,9 @@
       "ID": "ChestCompletion1",
       "SetID": "a9e499d",
       "Name": "Treasure Trove",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 151
+      "UsersEstimate": 139
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -3409,9 +3414,9 @@
       "ID": "CosmeticCompletion1",
       "SetID": "a9e499d",
       "Name": "Sartorialist",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 93
+      "UsersEstimate": 81
     },
     {
       "ID": "CosmeticProgress1",
@@ -3507,7 +3512,7 @@
       "Name": "Rail Rat",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "HexlockGift",
@@ -3531,7 +3536,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "LacunaCompleted",
@@ -3539,7 +3544,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "MapCompletion1",
@@ -3587,7 +3592,7 @@
       "Name": "Time Flies",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ParryBoss",
@@ -3595,7 +3600,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ParryRepeated1",
@@ -3603,7 +3608,7 @@
       "Name": "No, Thanks!",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "PhaseDiveCounter",
@@ -3635,7 +3640,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "RewindParry",
@@ -3643,7 +3648,7 @@
       "Name": "Honest Mistake",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ScrambotCompletion1",
@@ -3707,7 +3712,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "TheaterChests1",
@@ -3731,7 +3736,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "WatcherFought",
@@ -3747,7 +3752,7 @@
       "Name": "Good Neighbor",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "Zarkon1Defeated",
@@ -3770,7 +3775,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1160,
+      "Progressed": 1161,
       "Completed": 6
     }
   ],
@@ -3778,8 +3783,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-30T19:12:49.413535+00:00",
+  "LastChanged_Achievements": "2023-12-30T20:10:07.5831596+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:04:38.1447198+00:00",
-  "LastUpdate_Achievements": "2023-12-30T19:12:49.413579+00:00"
+  "LastUpdate_Ratings": "2023-12-30T20:02:36.0074489+00:00",
+  "LastUpdate_Achievements": "2023-12-30T20:10:07.5831998+00:00"
 }

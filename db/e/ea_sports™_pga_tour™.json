@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,7 +20,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 791,
+  "EOS_Progressed": 792,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
@@ -2845,6 +2845,11 @@
       "Time": "2023-12-30T19:12:22.7765577+00:00",
       "NumProgressed": 791,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-30T20:09:47.8108901+00:00",
+      "NumProgressed": 792,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -2873,7 +2878,7 @@
       "Name": "Bomb\u0027s Away",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "achievement_12",
@@ -2913,7 +2918,7 @@
       "Name": "Star Power",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "achievement_17",
@@ -2921,7 +2926,7 @@
       "Name": "Clean Sheet",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "achievement_18",
@@ -3000,13 +3005,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 791,
+      "Progressed": 792,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-30T19:12:22.7765574+00:00",
+  "LastChanged_Achievements": "2023-12-30T20:09:47.8108898+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:10.1040458+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:03:48.1036863+00:00",
-  "LastUpdate_Achievements": "2023-12-30T19:12:22.7765857+00:00"
+  "LastUpdate_Ratings": "2023-12-30T20:00:20.771371+00:00",
+  "LastUpdate_Achievements": "2023-12-30T20:09:47.8109208+00:00"
 }

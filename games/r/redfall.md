@@ -26,27 +26,27 @@ Rating: 3.62 (Ranked 1,078)
 | Radio Silence | 4.00% | ~87 |
 | Helping Hand | 3.00% | ~65 |
 | I Spit On Your Grave | 3.00% | ~65 |
-| Block Party | 2.00% | ~43 |
-| Sic Transit Umbra | 2.00% | ~43 |
-| Bell-ringer | 2.00% | ~43 |
-| Silence Is Golden | 2.00% | ~43 |
-| Good Morning | 2.00% | ~43 |
-| You Clean It Up | 2.00% | ~43 |
-| From the Shadows | 2.00% | ~43 |
-| Starve the Beast | 2.00% | ~43 |
-| Harvest’s End | 2.00% | ~43 |
+| Block Party | 2.00% | ~44 |
+| Sic Transit Umbra | 2.00% | ~44 |
+| Bell-ringer | 2.00% | ~44 |
+| Silence Is Golden | 2.00% | ~44 |
+| Good Morning | 2.00% | ~44 |
+| You Clean It Up | 2.00% | ~44 |
+| From the Shadows | 2.00% | ~44 |
+| Starve the Beast | 2.00% | ~44 |
+| Harvest’s End | 2.00% | ~44 |
 | Revelations | 1.00% | ~22 |
 | Contingency Plans | 1.00% | ~22 |
 | Check, Please! | 1.00% | ~22 |
+| Right This Way | 1.00% | ~22 |
 | Nice Try | 1.00% | ~22 |
 | Blacklight Down | 1.00% | ~22 |
 | Curious Finch | 1.00% | ~22 |
-| Right This Way | 0.90% | ~20 |
+| Empty Nest Syndrome | 0.70% | ~15 |
 | Bloody Initiate | 0.70% | ~15 |
 | Dexterity Save | 0.70% | ~15 |
 | Neighborhood Watch | 0.60% | ~13 |
 | What Lies Below | 0.60% | ~13 |
-| Empty Nest Syndrome | 0.60% | ~13 |
 | Blood Brother | 0.50% | ~11 |
 | Sisterhood | 0.50% | ~11 |
 | Good Samaritan | 0.50% | ~11 |
@@ -72,7 +72,7 @@ Rating: 3.62 (Ranked 1,078)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,174 (Ranked 237)  
+Progressed: 2,175 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,10 +203,10 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 2,113 | 0 |
 | 2023-12-28 | 2,135 | 0 |
 | 2023-12-29 | 2,155 | 0 |
-| 2023-12-30 | 2,174 | 0 |
+| 2023-12-30 | 2,175 | 0 |
 ## Awards
-Max (Great Boss Battles): 20  (Ranked 569)  
-Sum: 20 (Ranked 570)  
+Max (Great Boss Battles): 20  (Ranked 568)  
+Sum: 20 (Ranked 569)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |

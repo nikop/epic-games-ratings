@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -1073,9 +1073,9 @@
       "ID": "Systematic",
       "SetID": "4bd750m",
       "Name": "Systematic",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "TuttiFrutti",
@@ -1120,8 +1120,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-30T19:08:39.2226588+00:00",
+  "LastChanged_Achievements": "2023-12-30T20:05:21.9242029+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3930423+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:05:27.5901536+00:00",
-  "LastUpdate_Achievements": "2023-12-30T19:08:39.2226842+00:00"
+  "LastUpdate_Ratings": "2023-12-30T20:03:07.7246668+00:00",
+  "LastUpdate_Achievements": "2023-12-30T20:05:21.9242261+00:00"
 }

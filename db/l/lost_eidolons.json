@@ -3,12 +3,12 @@
   "Name": "Lost Eidolons",
   "ProductSlug": "lost-eidolons",
   "Ranking_Rating": 828,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 3792,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1131,
+  "EOS_Progressed": 1133,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -10,
+  "EOS_NewPlayers": -8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2181,6 +2181,11 @@
       "Time": "2023-12-30T19:08:05.3185324+00:00",
       "NumProgressed": 1131,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T20:04:58.4159013+00:00",
+      "NumProgressed": 1133,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -2192,7 +2197,7 @@
       "Name": "Way of the King",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "02",
@@ -2224,7 +2229,7 @@
       "Name": "The First Step",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "06",
@@ -2232,7 +2237,7 @@
       "Name": "First Blood",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "07",
@@ -2240,15 +2245,15 @@
       "Name": "Monster Hunter",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "08",
       "SetID": "73ikgfc",
       "Name": "Monster Slayer",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 351
+      "UsersEstimate": 340
     },
     {
       "ID": "09",
@@ -2256,7 +2261,7 @@
       "Name": "Awakening",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "10",
@@ -2264,7 +2269,7 @@
       "Name": "Huntmaster",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "11",
@@ -2320,7 +2325,7 @@
       "Name": "Ready to Learn",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "18",
@@ -2328,7 +2333,7 @@
       "Name": "Earning Trust",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "19",
@@ -2344,7 +2349,7 @@
       "Name": "Digging Deep",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "21",
@@ -2375,7 +2380,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1131,
+      "Progressed": 1133,
       "Completed": 1
     }
   ],
@@ -2383,8 +2388,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-12-04T18:59:06.5793648+00:00",
-  "LastChanged_Achievements": "2023-12-30T19:08:05.3185317+00:00",
+  "LastChanged_Achievements": "2023-12-30T20:04:58.415901+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.4141578+00:00",
-  "LastUpdate_Ratings": "2023-12-30T19:04:41.3694995+00:00",
-  "LastUpdate_Achievements": "2023-12-30T19:08:05.3185538+00:00"
+  "LastUpdate_Ratings": "2023-12-30T20:02:37.8207419+00:00",
+  "LastUpdate_Achievements": "2023-12-30T20:04:58.4159239+00:00"
 }

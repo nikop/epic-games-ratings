@@ -15,10 +15,10 @@ Rating: 4.56 (Ranked 501)
 | The Bright Fir | 1.00% | ~9 |
 | Collect Iron Ore | 0.90% | ~21 |
 | Defeat 25 Grubs | 0.90% | ~21 |
+| Kitchen Ready To Cook | 0.90% | ~21 |
 | Rescue Redgi's Brothers | 0.90% | ~21 |
 | Collect Gold | 0.80% | ~18 |
 | Defeat 25 Mozis | 0.80% | ~18 |
-| Kitchen Ready To Cook | 0.80% | ~18 |
 | Smithy Ready to Craft | 0.80% | ~18 |
 | Defeat Croakhis Khan | 0.80% | ~7 |
 | I Remember My First Beer | 0.80% | ~7 |

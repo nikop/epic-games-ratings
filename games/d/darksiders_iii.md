@@ -9,14 +9,14 @@ Number of Ratings: 116  (23.09.2022)
 | Green with Envy | 78.00% | ~244 |
 | First of many… | 69.00% | ~216 |
 | Helping Hand | 65.00% | ~203 |
-| Increased Vigor | 59.00% | ~185 |
+| Increased Vigor | 60.00% | ~188 |
 | Fight Fire with Fire | 57.00% | ~178 |
 | Increased Capacity | 53.00% | ~166 |
 | Just the start | 50.00% | ~156 |
 | Perfect Storm | 46.00% | ~144 |
-| All That Glitters | 45.00% | ~141 |
+| All That Glitters | 46.00% | ~144 |
+| Enhance! | 43.00% | ~135 |
 | One Of the Chosen | 42.00% | ~131 |
-| Enhance! | 42.00% | ~131 |
 | Devil's in the Details | 39.00% | ~122 |
 | Throne Potato | 39.00% | ~122 |
 | Five's a Crowd | 39.00% | ~122 |
@@ -31,8 +31,8 @@ Number of Ratings: 116  (23.09.2022)
 | Freeze Frame | 27.00% | ~85 |
 | Eat Your Heart Out | 27.00% | ~85 |
 | For Whom the Bell Tolls | 27.00% | ~85 |
+| Big Spender | 25.00% | ~78 |
 | Unyielding Strength | 24.00% | ~75 |
-| Big Spender | 24.00% | ~75 |
 | Can you restore the Balance? | 23.00% | ~72 |
 | Cleanup Crew | 22.00% | ~69 |
 | Crowd Source | 22.00% | ~69 |
@@ -88,8 +88,8 @@ Completed: 1 (0.32%) (Ranked 246)
 | 2023-12-29 | 293 | 1 |
 | 2023-12-30 | 313 | 1 |
 ## Awards
-Max (Great Boss Battles): 94  (Ranked 387)  
-Sum: 94 (Ranked 468)  
+Max (Great Boss Battles): 94  (Ranked 386)  
+Sum: 94 (Ranked 467)  
 Diff (max vs sum): -81  
 | Award | Count |
 | ----- | ----- |
