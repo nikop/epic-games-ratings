@@ -1,56 +1,56 @@
 # Art of Rally
 [Store](https://store.epicgames.com/en-US/p/art-of-rally)  
 [View Rawdata](../../db/a/art_of_rally_1.json)  
-Rating: 4.66 (Ranked 298)  
+Rating: 4.66 (Ranked 299)  
 Number of Ratings: 56  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 79.00% | ~283,300 |
-| good drivers have dead flies on the side windows | 32.00% | ~114,754 |
-| brail | 26.00% | ~93,238 |
-| keep it tidy | 25.00% | ~89,652 |
-| car wash | 23.00% | ~82,480 |
-| the artist | 23.00% | ~82,480 |
-| podium | 20.00% | ~71,721 |
-| medium attack | 17.00% | ~60,963 |
-| bicycle race | 6.00% | ~21,516 |
-| grocery-getter | 5.00% | ~17,930 |
-| autopilot | 4.00% | ~14,344 |
-| where is the stage? | 3.00% | ~10,758 |
-| night ride | 3.00% | ~10,758 |
-| snorkel | 3.00% | ~10,758 |
-| food tour: pasta | 3.00% | ~10,758 |
-| perkele | 2.00% | ~7,172 |
-| rwd only | 2.00% | ~7,172 |
-| if in doubt, flat out! | 2.00% | ~7,172 |
-| to finish first, first you must finish | 1.00% | ~3,586 |
-| espresso | 1.00% | ~3,586 |
-| turbo | 1.00% | ~3,586 |
-| in like a lamb, out like a lion | 1.00% | ~3,586 |
-| you can't treat a car like a human being. a car requires love | 1.00% | ~3,586 |
-| mittens | 1.00% | ~3,586 |
-| food tour: pretzel | 1.00% | ~3,586 |
-| monster | 0.70% | ~2,510 |
-| eurobeat | 0.60% | ~2,152 |
-| viking | 0.50% | ~1,793 |
-| group b | 0.50% | ~1,793 |
-| oktoberfest | 0.40% | ~1,434 |
-| parallel universe | 0.40% | ~1,434 |
-| maximum attack | 0.40% | ~1,434 |
-| samir | 0.40% | ~1,434 |
-| master of rally | 0.30% | ~1,076 |
-| antilag | 0.30% | ~1,076 |
-| real roads, real fast | 0.30% | ~1,076 |
-| parking lot | 0.20% | ~717 |
-| comfy seats | 0.20% | ~717 |
+| light attack | 79.00% | ~283,631 |
+| good drivers have dead flies on the side windows | 32.00% | ~114,888 |
+| brail | 26.00% | ~93,347 |
+| keep it tidy | 25.00% | ~89,756 |
+| car wash | 23.00% | ~82,576 |
+| the artist | 23.00% | ~82,576 |
+| podium | 20.00% | ~71,805 |
+| medium attack | 17.00% | ~61,034 |
+| bicycle race | 6.00% | ~21,542 |
+| grocery-getter | 5.00% | ~17,951 |
+| autopilot | 4.00% | ~14,361 |
+| where is the stage? | 3.00% | ~10,771 |
+| night ride | 3.00% | ~10,771 |
+| snorkel | 3.00% | ~10,771 |
+| food tour: pasta | 3.00% | ~10,771 |
+| perkele | 2.00% | ~7,181 |
+| rwd only | 2.00% | ~7,181 |
+| if in doubt, flat out! | 2.00% | ~7,181 |
+| to finish first, first you must finish | 1.00% | ~3,590 |
+| espresso | 1.00% | ~3,590 |
+| turbo | 1.00% | ~3,590 |
+| in like a lamb, out like a lion | 1.00% | ~3,590 |
+| you can't treat a car like a human being. a car requires love | 1.00% | ~3,590 |
+| mittens | 1.00% | ~3,590 |
+| food tour: pretzel | 1.00% | ~3,590 |
+| monster | 0.70% | ~2,513 |
+| eurobeat | 0.60% | ~2,154 |
+| viking | 0.50% | ~1,795 |
+| group b | 0.50% | ~1,795 |
+| oktoberfest | 0.40% | ~1,436 |
+| parallel universe | 0.40% | ~1,436 |
+| maximum attack | 0.40% | ~1,436 |
+| samir | 0.40% | ~1,436 |
+| master of rally | 0.30% | ~1,077 |
+| antilag | 0.30% | ~1,077 |
+| real roads, real fast | 0.30% | ~1,077 |
+| parking lot | 0.20% | ~718 |
+| comfy seats | 0.20% | ~718 |
 | if everything seems under control, you're not going fast enough | 0.10% | ~359 |
 | absolute drift | 0.10% | ~359 |
 | barely keeping it together | 0.10% | ~359 |
 | you're here for a good time, not a long time | 0.10% | ~359 |
 | simulator | 0.10% | ~359 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 358,607 (Ranked 52)  
+Progressed: 359,026 (Ranked 52)  
 Completed: 11 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,16 +234,17 @@ Completed: 11 (0.00%) (Ranked 391)
 | 2023-12-27 | 336,606 | 11 |
 | 2023-12-28 | 345,968 | 11 |
 | 2023-12-29 | 354,902 | 11 |
-| 2023-12-30 | 358,607 | 11 |
+| 2023-12-30 | 359,026 | 11 |
 ## Awards
 Max (Quickly Understood Controls): 28  (Ranked 525)  
-Sum: 78 (Ranked 476)  
-Diff (max vs sum): 49  
+Sum: 98 (Ranked 464)  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 28 |
 | This game is Great for Beginners | 28 |
 | This game is Relaxing | 22 |
+| This game is Highly Recommended | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -291,3 +292,4 @@ Diff (max vs sum): 49
 | 2023-12-27 | 4.68 | - | 22 | 22 |
 | 2023-12-28 | 4.67 | - | 22 | 22 |
 | 2023-12-29 | 4.66 | - | 28 | 78 |
+| 2023-12-30 | 4.66 | - | 28 | 98 |

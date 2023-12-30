@@ -2,13 +2,13 @@
   "ID": "f1bbea1c0d694e95a8ba0f649a396352",
   "Name": "Black Skylands",
   "ProductSlug": "black-skylands",
-  "Ranking_Rating": 426,
+  "Ranking_Rating": 427,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 562,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 561,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-07-09T16:00:00+00:00",
     "PcReleaseDate": "2021-07-09T16:00:00+00:00",
@@ -53,6 +53,6 @@
   "FirstSeenRating": "2023-03-31T05:57:15.3608075+00:00",
   "LastChanged": "2023-12-29T03:59:17.4232866+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:23.4731982+00:00",
-  "LastUpdate_Ratings": "2023-12-30T11:00:20.4576307+00:00",
-  "LastUpdate_Achievements": "2023-12-30T11:03:53.7151084+00:00"
+  "LastUpdate_Ratings": "2023-12-30T11:59:54.8286837+00:00",
+  "LastUpdate_Achievements": "2023-12-30T12:03:56.9411313+00:00"
 }

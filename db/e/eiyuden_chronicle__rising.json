@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
     "PcReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 779,
+  "EOS_Progressed": 780,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.7,
+  "EOS_Completed_Percentage": 7.69,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -731,6 +731,11 @@
       "Time": "2023-12-30T07:08:31.1843+00:00",
       "NumProgressed": 779,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-30T12:08:58.1725342+00:00",
+      "NumProgressed": 780,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -742,7 +747,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -766,7 +771,7 @@
       "Name": "All Bark, No Bite",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "ACHIEVEMENT005",
@@ -774,7 +779,7 @@
       "Name": "Magical Mineral Golem",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "ACHIEVEMENT006",
@@ -796,9 +801,9 @@
       "ID": "ACHIEVEMENT008",
       "SetID": "dejhjd5",
       "Name": "This Treasure I\u0027ve Found",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 148
     },
     {
       "ID": "ACHIEVEMENT009",
@@ -806,7 +811,7 @@
       "Name": "The Road to Recovery",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "ACHIEVEMENT010",
@@ -860,9 +865,9 @@
       "ID": "ACHIEVEMENT016",
       "SetID": "dejhjd5",
       "Name": "One Mean Merc",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 265
+      "UsersEstimate": 257
     },
     {
       "ID": "ACHIEVEMENT017",
@@ -918,7 +923,7 @@
       "Name": "Armor Master",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACHIEVEMENT024",
@@ -926,7 +931,7 @@
       "Name": "Amateur Adventurer",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "ACHIEVEMENT025",
@@ -942,7 +947,7 @@
       "Name": "No Treasure Left Behind",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACHIEVEMENT027",
@@ -958,7 +963,7 @@
       "Name": "On Outlander Lane",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ACHIEVEMENT029",
@@ -1022,7 +1027,7 @@
       "Name": "First Time Hunting",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACHIEVEMENT037",
@@ -1030,7 +1035,7 @@
       "Name": "Rune Wall Wreckage",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACHIEVEMENT038",
@@ -1044,9 +1049,9 @@
       "ID": "ACHIEVEMENT039",
       "SetID": "dejhjd5",
       "Name": "Meat Master",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 187
     },
     {
       "ID": "ACHIEVEMENT040",
@@ -1054,7 +1059,7 @@
       "Name": "Rune Wall Master",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACHIEVEMENT041",
@@ -1094,7 +1099,7 @@
       "Name": "The Runebarrows...On Foot!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACHIEVEMENT046",
@@ -1141,15 +1146,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 779,
+      "Progressed": 780,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-30T11:08:43.0193847+00:00",
+  "LastChanged_Achievements": "2023-12-30T12:08:58.1725339+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:13.3507412+00:00",
-  "LastUpdate_Ratings": "2023-12-30T10:59:49.8576233+00:00",
-  "LastUpdate_Achievements": "2023-12-30T11:08:43.0194203+00:00"
+  "LastUpdate_Ratings": "2023-12-30T11:59:27.9577234+00:00",
+  "LastUpdate_Achievements": "2023-12-30T12:08:58.1725699+00:00"
 }

@@ -5,26 +5,26 @@ Rating: 4.27 (Ranked 892)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,905 |
-| Don't I Know You...? | 76.00% | ~1,833 |
-| Jailbreak | 65.00% | ~1,568 |
+| Rigged And Ready | 79.00% | ~1,907 |
+| Don't I Know You...? | 76.00% | ~1,835 |
+| Jailbreak | 65.00% | ~1,569 |
 | Suited and Booted | 38.00% | ~917 |
-| HEADSHOT! | 37.00% | ~892 |
-| Sleeping With The Fishes | 35.00% | ~844 |
+| HEADSHOT! | 37.00% | ~893 |
+| Sleeping With The Fishes | 35.00% | ~845 |
 | Overheated | 30.00% | ~724 |
 | High Performance | 30.00% | ~724 |
-| Powered Up | 28.00% | ~675 |
-| Studied The Blade | 25.00% | ~603 |
+| Powered Up | 28.00% | ~676 |
+| Studied The Blade | 24.00% | ~579 |
 | Home Invasion | 23.00% | ~555 |
 | Luminary | 22.00% | ~531 |
 | It's a Trap | 22.00% | ~531 |
 | True Survivor | 21.00% | ~507 |
-| Offensive Defense | 20.00% | ~482 |
-| Shocking | 20.00% | ~482 |
-| Court Martial | 19.00% | ~458 |
-| Unforeseeable Consequences | 19.00% | ~458 |
-| Dead Again | 18.00% | ~434 |
-| Clean Cut | 18.00% | ~434 |
+| Offensive Defense | 20.00% | ~483 |
+| Shocking | 20.00% | ~483 |
+| Court Martial | 19.00% | ~459 |
+| Unforeseeable Consequences | 19.00% | ~459 |
+| Dead Again | 18.00% | ~435 |
+| Clean Cut | 18.00% | ~435 |
 | Full Arsenal | 17.00% | ~410 |
 | Can't Trust Banks | 15.00% | ~362 |
 | Mommy Dearest | 13.00% | ~314 |
@@ -32,9 +32,9 @@ Rating: 4.27 (Ranked 892)
 | Where It All Began | 13.00% | ~314 |
 | Risk Tolerant | 13.00% | ~314 |
 | What A Catchy Song | 13.00% | ~314 |
-| Corrupted Beauty | 12.00% | ~289 |
-| Marked For Success | 12.00% | ~289 |
-| Sorry, Didn't See You There | 12.00% | ~289 |
+| Corrupted Beauty | 12.00% | ~290 |
+| Marked For Success | 12.00% | ~290 |
+| Sorry, Didn't See You There | 12.00% | ~290 |
 | Triplets | 10.00% | ~241 |
 | Denying Prophecy | 9.00% | ~217 |
 | Stimulating The Local Economy | 9.00% | ~217 |
@@ -50,8 +50,8 @@ Rating: 4.27 (Ranked 892)
 | Counter-Sniper | 5.00% | ~121 |
 | Shrimp Cocktail | 5.00% | ~121 |
 | Juiced Up | 5.00% | ~121 |
-| Geronimo! | 4.00% | ~96 |
-| Plank of Wood | 4.00% | ~96 |
+| Geronimo! | 4.00% | ~97 |
+| Plank of Wood | 4.00% | ~97 |
 | Gotta Craft 'em All | 3.00% | ~72 |
 | Homewrecker | 3.00% | ~72 |
 | Own Medicine | 2.00% | ~48 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 892)
 | Three Birds With One Stone | 1.00% | ~24 |
 | The Easy Way Out | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,412 (Ranked 230)  
+Progressed: 2,414 (Ranked 230)  
 Completed: 13 (0.54%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 13 (0.54%) (Ranked 211)
 | 2023-12-27 | 2,388 | 13 |
 | 2023-12-28 | 2,397 | 13 |
 | 2023-12-29 | 2,408 | 13 |
-| 2023-12-30 | 2,412 | 13 |
+| 2023-12-30 | 2,414 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

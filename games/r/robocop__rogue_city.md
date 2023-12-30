@@ -1,7 +1,7 @@
 # RoboCop: Rogue City
 [Store](https://store.epicgames.com/en-US/p/robocop-rogue-city)  
 [View Rawdata](../../db/r/robocop__rogue_city.json)  
-Rating: 4.33 (Ranked 841)  
+Rating: 4.34 (Ranked 827)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -33,7 +33,7 @@ Rating: 4.33 (Ranked 841)
 | "This Guy Is Really Good" | 0.00% | ~0 |
 | Practice Makes Perfect | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,201 (Ranked 274)  
+Progressed: 1,211 (Ranked 274)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -54,14 +54,14 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-11-15 | 705 | 0 |
 | 2023-12-28 | 707 | 0 |
 | 2023-12-29 | 1,039 | 0 |
-| 2023-12-30 | 1,201 | 0 |
+| 2023-12-30 | 1,211 | 0 |
 ## Awards
-Max (Great Boss Battles): 102  (Ranked 371)  
-Sum: 102 (Ranked 462)  
-Diff (max vs sum): -91  
+Max (Great Boss Battles): 108  (Ranked 363)  
+Sum: 108 (Ranked 461)  
+Diff (max vs sum): -98  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 102 |
+| This game has Great Boss Battles | 108 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -109,3 +109,4 @@ Diff (max vs sum): -91
 | 2023-12-26 | 4.33 | 96 | 96 |
 | 2023-12-27 | 4.33 | 98 | 98 |
 | 2023-12-29 | 4.34 | 102 | 102 |
+| 2023-12-30 | 4.34 | 108 | 108 |

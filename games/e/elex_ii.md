@@ -30,10 +30,10 @@ Number of Ratings: 124  (23.09.2022)
 | Free as a Bird | 4.00% | ~5 |
 | Unbreakable | 4.00% | ~5 |
 | Perfectionist | 4.00% | ~5 |
+| Detective | 4.00% | ~5 |
 | Alchemist | 3.00% | ~4 |
 | Idealist | 3.00% | ~4 |
 | Cleric | 3.00% | ~4 |
-| Detective | 3.00% | ~4 |
 | Lover | 3.00% | ~4 |
 | Treasure Hunter | 2.00% | ~3 |
 | Hunter | 2.00% | ~3 |

@@ -38,14 +38,14 @@
 | Escaped from a big trouble | 46.00% | ~230 |
 | Now you are worthy | 41.00% | ~205 |
 | Fight is life | 41.00% | ~205 |
+| Mysterious voice | 41.00% | ~205 |
 | Guiding on the right path | 41.00% | ~205 |
-| Mysterious voice | 40.00% | ~200 |
 | No blades in the gym | 39.00% | ~195 |
 | Champion – no way back | 37.00% | ~185 |
 | Responsible approach | 37.00% | ~185 |
+| GYM professional | 36.00% | ~180 |
 | Underground dwellers | 36.00% | ~180 |
 | Deal with life | 35.00% | ~175 |
-| GYM professional | 35.00% | ~175 |
 | Mom got better | 34.00% | ~170 |
 | Poisoned fighter | 34.00% | ~170 |
 | Get out of my apartment! | 34.00% | ~170 |

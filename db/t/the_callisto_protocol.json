@@ -3,12 +3,12 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 949,
-  "Ranking_Popularity": 366,
+  "Ranking_Popularity": 367,
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1919,9 +1919,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 20019,
+  "EOS_Progressed": 20023,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1261,
+  "EOS_NewPlayers": 1256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -11804,6 +11804,11 @@
       "Time": "2023-12-30T11:09:27.2409574+00:00",
       "NumProgressed": 20019,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-30T12:09:38.8785708+00:00",
+      "NumProgressed": 20023,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -11831,7 +11836,7 @@
       "Name": "Giving Back",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1402
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -11839,7 +11844,7 @@
       "Name": "You Need a Gun",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1402
     },
     {
       "ID": "DISARM_ENEMY",
@@ -11847,7 +11852,7 @@
       "Name": "Flesh Wound",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4004
+      "UsersEstimate": 4005
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -11919,7 +11924,7 @@
       "Name": "Get a Grip",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3403
+      "UsersEstimate": 3404
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -11959,7 +11964,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 2402
+      "UsersEstimate": 2403
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -11991,7 +11996,7 @@
       "Name": "Paper Jams",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3603
+      "UsersEstimate": 3604
     },
     {
       "ID": "SHARE_PHOTO",
@@ -12007,7 +12012,7 @@
       "Name": "The Outer Way",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 4004
+      "UsersEstimate": 4005
     },
     {
       "ID": "STORY_ESCAPE",
@@ -12015,7 +12020,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2402
+      "UsersEstimate": 2403
     },
     {
       "ID": "STORY_HABITAT",
@@ -12069,9 +12074,9 @@
       "ID": "STORY_TUNNELS",
       "SetID": "4hj6d86",
       "Name": "Power Up",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1802
     },
     {
       "ID": "DISMEMBER_100",
@@ -12190,13 +12195,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 20019,
+      "Progressed": 20023,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 7945,
+      "Progressed": 7949,
       "Completed": 29
     }
   ],
@@ -12204,8 +12209,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-30T05:03:27.0737838+00:00",
-  "LastChanged_Achievements": "2023-12-30T11:09:27.2409571+00:00",
+  "LastChanged_Achievements": "2023-12-30T12:09:38.8785707+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3019969+00:00",
-  "LastUpdate_Ratings": "2023-12-30T11:03:06.8635882+00:00",
-  "LastUpdate_Achievements": "2023-12-30T11:09:27.2410601+00:00"
+  "LastUpdate_Ratings": "2023-12-30T12:03:12.8628399+00:00",
+  "LastUpdate_Achievements": "2023-12-30T12:09:38.878652+00:00"
 }

@@ -5,10 +5,10 @@ Rating: 4.63 (Ranked 356)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 12.00% | ~783 |
-| Realm Estate | 10.00% | ~652 |
-| A Wonderful Discovery | 10.00% | ~652 |
-| Walls Cannot Stop Us | 10.00% | ~652 |
+| Secret Technique | 12.00% | ~784 |
+| Realm Estate | 11.00% | ~718 |
+| A Wonderful Discovery | 10.00% | ~653 |
+| Walls Cannot Stop Us | 9.00% | ~588 |
 | From Friends to Family | 8.00% | ~522 |
 | Bone Peddler | 7.00% | ~457 |
 | Full Ascension | 6.00% | ~392 |
@@ -27,16 +27,16 @@ Rating: 4.63 (Ranked 356)
 | Fiery Friend | 3.00% | ~196 |
 | Impenetrable Fortress | 3.00% | ~196 |
 | Freed Lands of Manuhari | 3.00% | ~196 |
-| Arch Mage | 2.00% | ~130 |
-| Crimson Caldera | 2.00% | ~130 |
-| Preparation Is Everything | 2.00% | ~130 |
-| Against the Odds | 2.00% | ~130 |
-| Here be Dragons | 2.00% | ~130 |
-| Tipping the Scales | 2.00% | ~130 |
-| Mighty Hoard | 2.00% | ~130 |
-| Sehiran Oasis | 2.00% | ~130 |
-| Chaos Surge | 2.00% | ~130 |
-| Spoils of War | 2.00% | ~130 |
+| Arch Mage | 2.00% | ~131 |
+| Crimson Caldera | 2.00% | ~131 |
+| Preparation Is Everything | 2.00% | ~131 |
+| Against the Odds | 2.00% | ~131 |
+| Here be Dragons | 2.00% | ~131 |
+| Tipping the Scales | 2.00% | ~131 |
+| Mighty Hoard | 2.00% | ~131 |
+| Sehiran Oasis | 2.00% | ~131 |
+| Chaos Surge | 2.00% | ~131 |
+| Spoils of War | 2.00% | ~131 |
 | I've Got Everything I Need Right Here | 1.00% | ~65 |
 | God Emperor | 1.00% | ~65 |
 | Lord of Chaos | 1.00% | ~65 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 356)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,525 (Ranked 195)  
+Progressed: 6,530 (Ranked 195)  
 Completed: 7 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 7 (0.11%) (Ranked 304)
 | 2023-12-27 | 6,359 | 7 |
 | 2023-12-28 | 6,414 | 7 |
 | 2023-12-29 | 6,495 | 7 |
-| 2023-12-30 | 6,525 | 7 |
+| 2023-12-30 | 6,530 | 7 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 478)  
 Sum: 163 (Ranked 436)  

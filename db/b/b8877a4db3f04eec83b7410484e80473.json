@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 612,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-23T00:00:00+00:00",
     "PcReleaseDate": "2023-12-23T00:00:00+00:00",
@@ -172,9 +172,9 @@
       "ID": "CYPRESS_RIDGE_PARK_ACH",
       "SetID": "af7amn3",
       "Name": "Cypress Ridge Park",
-      "Percentage": 24,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "DINNER_WITH_FRIENDS_ACH",
@@ -220,9 +220,9 @@
       "ID": "MIRANDAS_GARAGE_ACH",
       "SetID": "af7amn3",
       "Name": "Miranda\u0027s Garage",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "PARK_PICNIC_ACH",
@@ -276,9 +276,9 @@
       "ID": "THE_JOURNALIST_ACH",
       "SetID": "af7amn3",
       "Name": "The Journalist",
-      "Percentage": 19,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "THE_LAST_SHOT_BAR_ACH",
@@ -300,9 +300,9 @@
       "ID": "THE_MECHANIC_ACH",
       "SetID": "af7amn3",
       "Name": "The Mechanic",
-      "Percentage": 19,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "THE_SINGER_ACH",
@@ -338,8 +338,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-05T21:07:03.3998078+00:00",
-  "LastChanged_Achievements": "2023-12-30T11:08:38.4427947+00:00",
+  "LastChanged_Achievements": "2023-12-30T12:08:53.82564+00:00",
   "LastUpdate_AppInfo": "2023-12-29T23:56:57.4341217+00:00",
-  "LastUpdate_Ratings": "2023-12-30T11:01:01.0758384+00:00",
-  "LastUpdate_Achievements": "2023-12-30T11:08:38.44281+00:00"
+  "LastUpdate_Ratings": "2023-12-30T12:02:40.9295425+00:00",
+  "LastUpdate_Achievements": "2023-12-30T12:08:53.8256519+00:00"
 }

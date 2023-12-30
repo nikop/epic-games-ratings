@@ -68,7 +68,7 @@ Rating: 4.65 (Ranked 323)
 | I Don't Need Any Help | 9.00% | ~60 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 666 (Ranked 317)  
-Completed: 24 (3.60%) (Ranked 101)  
+Completed: 24 (3.60%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

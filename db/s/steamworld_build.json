@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 213,
+  "EOS_Progressed": 214,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -854,6 +854,11 @@
       "Time": "2023-12-30T09:05:22.1183882+00:00",
       "NumProgressed": 213,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T12:05:14.966122+00:00",
+      "NumProgressed": 214,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T14:06:40.4198033+00:00",
@@ -872,9 +877,9 @@
       "ID": "Aristocratic",
       "SetID": "4bd750m",
       "Name": "Aristocratic",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 131
     },
     {
       "ID": "Botropolis",
@@ -882,7 +887,7 @@
       "Name": "Botropolis",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ClickEmAll",
@@ -904,9 +909,9 @@
       "ID": "DiggingAHole",
       "SetID": "4bd750m",
       "Name": "Digging a Hole",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 163
     },
     {
       "ID": "DopaMiner",
@@ -922,15 +927,15 @@
       "Name": "Going Places",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "GottaGoFast",
       "SetID": "4bd750m",
       "Name": "Gotta Go Fast",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 90,
-      "UsersEstimate": 94
+      "UsersEstimate": 92
     },
     {
       "ID": "ImALumberbot",
@@ -952,9 +957,9 @@
       "ID": "ItsYoursMyFriend",
       "SetID": "4bd750m",
       "Name": "It\u0027s Yours, My Friend",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 156
     },
     {
       "ID": "ManicMechanic",
@@ -962,7 +967,7 @@
       "Name": "Manic Mechanic",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Mathematic",
@@ -970,7 +975,7 @@
       "Name": "Mathematic",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "MineSweeper",
@@ -978,7 +983,7 @@
       "Name": "Mine Sweeper",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "NothingButRoad",
@@ -1000,9 +1005,9 @@
       "ID": "RollOut",
       "SetID": "4bd750m",
       "Name": "Roll Out",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 77
     },
     {
       "ID": "RoomToSpare",
@@ -1016,9 +1021,9 @@
       "ID": "SlottingMachine",
       "SetID": "4bd750m",
       "Name": "Slotting Machine",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 92
     },
     {
       "ID": "StackOverflow",
@@ -1034,7 +1039,7 @@
       "Name": "Steam Powered",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "SteamingRich",
@@ -1042,7 +1047,7 @@
       "Name": "Steaming Rich",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Systematic",
@@ -1058,7 +1063,7 @@
       "Name": "Tutti Frutti",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "UpUpAndAway",
@@ -1089,14 +1094,14 @@
     {
       "ID": "4bd750m",
       "IsBase": true,
-      "Progressed": 213,
+      "Progressed": 214,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-30T11:05:18.731467+00:00",
+  "LastChanged_Achievements": "2023-12-30T12:05:14.9661218+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3930423+00:00",
-  "LastUpdate_Ratings": "2023-12-30T11:03:07.1112468+00:00",
-  "LastUpdate_Achievements": "2023-12-30T11:05:18.7314895+00:00"
+  "LastUpdate_Ratings": "2023-12-30T12:03:13.0675438+00:00",
+  "LastUpdate_Achievements": "2023-12-30T12:05:14.9661399+00:00"
 }

@@ -13,14 +13,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | Brothers in Arms | 0.30% | ~1,463 |
 | That's a Grand Navy | 0.30% | ~1,463 |
 | Seriously?! | 0.30% | ~1,463 |
-| Cold War | 0.20% | ~975 |
-| Defender of the Faith | 0.20% | ~975 |
-| For the Glory | 0.20% | ~975 |
-| It's all about the money | 0.20% | ~975 |
-| Respected | 0.20% | ~975 |
-| The Princess is in this Castle | 0.20% | ~975 |
-| True Catholic | 0.20% | ~975 |
-| Truly Divine Ruler | 0.20% | ~975 |
+| Cold War | 0.20% | ~976 |
+| Defender of the Faith | 0.20% | ~976 |
+| For the Glory | 0.20% | ~976 |
+| It's all about the money | 0.20% | ~976 |
+| Respected | 0.20% | ~976 |
+| The Princess is in this Castle | 0.20% | ~976 |
+| True Catholic | 0.20% | ~976 |
+| Truly Divine Ruler | 0.20% | ~976 |
 | The 52 Garhs | 0.10% | ~488 |
 | I don't like sand | 0.10% | ~488 |
 | A Blessed Nation | 0.10% | ~488 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 487,714 (Ranked 40)  
+Progressed: 487,750 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -624,7 +624,7 @@ Completed: 1 (0.00%) (Ranked 391)
 | 2023-12-27 | 485,786 | 1 |
 | 2023-12-28 | 486,523 | 1 |
 | 2023-12-29 | 487,372 | 1 |
-| 2023-12-30 | 487,714 | 1 |
+| 2023-12-30 | 487,750 | 1 |
 ## Awards
 Max (Educational): 7,620  (Ranked 54)  
 Sum: 62,864 (Ranked 24)  

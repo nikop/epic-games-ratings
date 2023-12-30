@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 700,
+  "EOS_Progressed": 701,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -2580,6 +2580,11 @@
       "Time": "2023-12-30T10:09:38.4714264+00:00",
       "NumProgressed": 700,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-30T12:09:12.205475+00:00",
+      "NumProgressed": 701,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -2592,7 +2597,7 @@
       "Name": "New arm",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -2672,7 +2677,7 @@
       "Name": "Shelter Escape",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -2728,7 +2733,7 @@
       "Name": "The First Bond",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -2736,7 +2741,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -2791,7 +2796,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 700,
+      "Progressed": 701,
       "Completed": 2
     }
   ],
@@ -2799,8 +2804,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-27T15:59:49.1136695+00:00",
-  "LastChanged_Achievements": "2023-12-30T11:08:58.4119052+00:00",
+  "LastChanged_Achievements": "2023-12-30T12:09:12.2054747+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:10.2016354+00:00",
-  "LastUpdate_Ratings": "2023-12-30T11:00:40.1913301+00:00",
-  "LastUpdate_Achievements": "2023-12-30T11:08:58.4119343+00:00"
+  "LastUpdate_Ratings": "2023-12-30T12:00:12.8857536+00:00",
+  "LastUpdate_Achievements": "2023-12-30T12:09:12.2055186+00:00"
 }

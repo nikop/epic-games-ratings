@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -115,7 +115,7 @@
   "Tags": [],
   "EOS_Progressed": 1464,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4208,9 +4208,9 @@
       "ID": "GSS_ACH_16_ORDER_FUEL",
       "SetID": "5fn8ia4",
       "Name": "Fuel Ordered",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1376
     },
     {
       "ID": "GSS_ACH_17_ORDER_TRASH_COLLECTION",
@@ -4232,9 +4232,9 @@
       "ID": "GSS_ACH_19_RUDY",
       "SetID": "5fn8ia4",
       "Name": "Rudy!",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1405
     },
     {
       "ID": "GSS_ACH_20_DECORATION_01",
@@ -4400,9 +4400,9 @@
       "ID": "GSS_ACH_41_PARTY_BUS",
       "SetID": "5fn8ia4",
       "Name": "Party Bus",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 981
     },
     {
       "ID": "GSS_ACH_42_CARAVAN_01",
@@ -4424,9 +4424,9 @@
       "ID": "GSS_ACH_44_CARAVAN_03",
       "SetID": "5fn8ia4",
       "Name": "Business is Thriving",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 293
     },
     {
       "ID": "GSS_ACH_45_ORDER_PRODUCTS",
@@ -4745,8 +4745,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-29T13:03:03.3962443+00:00",
-  "LastChanged_Achievements": "2023-12-30T11:04:18.9967596+00:00",
+  "LastChanged_Achievements": "2023-12-30T12:04:20.1593795+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:05.7719462+00:00",
-  "LastUpdate_Ratings": "2023-12-30T11:00:46.5975238+00:00",
-  "LastUpdate_Achievements": "2023-12-30T11:04:18.9968408+00:00"
+  "LastUpdate_Ratings": "2023-12-30T12:00:18.6098303+00:00",
+  "LastUpdate_Achievements": "2023-12-30T12:04:20.1594599+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "a4b249bd941143158a5f428d2b98d2e9",
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
-  "Ranking_EOS_Progress": 449,
-  "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 398,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Progress": 447,
+  "Ranking_EOS_Completed": 198,
+  "Ranking_EOS_NewPlayers": 387,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 143,
+  "EOS_Progressed": 144,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.7,
+  "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -456,6 +456,11 @@
       "Time": "2023-12-30T05:10:02.7348222+00:00",
       "NumProgressed": 143,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T12:10:09.0963629+00:00",
+      "NumProgressed": 144,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -515,7 +520,7 @@
       "Name": "Target Practice",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Achievement16",
@@ -523,7 +528,7 @@
       "Name": "The Bigger They Are",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Achievement17",
@@ -537,9 +542,9 @@
       "ID": "Achievement18",
       "SetID": "jf6ho5",
       "Name": "Over the Moon",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 41
+      "UsersEstimate": 40
     },
     {
       "ID": "Achievement19",
@@ -563,7 +568,7 @@
       "Name": "Amokuali Tower",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Achievement21",
@@ -577,17 +582,17 @@
       "ID": "Achievement3",
       "SetID": "jf6ho5",
       "Name": "Enemies of Fate",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "Achievement4",
       "SetID": "jf6ho5",
       "Name": "Omnia Vincit Amor",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "Achievement5",
@@ -603,7 +608,7 @@
       "Name": "Total Eclipse",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Achievement7",
@@ -634,7 +639,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 143,
+      "Progressed": 144,
       "Completed": 1
     }
   ],
@@ -642,8 +647,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-12-30T11:09:59.8977752+00:00",
+  "LastChanged_Achievements": "2023-12-30T12:10:09.0963627+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:10.1109557+00:00",
-  "LastUpdate_Ratings": "2023-12-30T10:59:32.949969+00:00",
-  "LastUpdate_Achievements": "2023-12-30T11:09:59.8977859+00:00"
+  "LastUpdate_Ratings": "2023-12-30T11:59:13.0197917+00:00",
+  "LastUpdate_Achievements": "2023-12-30T12:10:09.0963809+00:00"
 }

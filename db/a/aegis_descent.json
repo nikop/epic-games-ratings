@@ -4,8 +4,8 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 415,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
     "PcReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 441,
+  "EOS_Progressed": 442,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -495,6 +495,11 @@
       "Time": "2023-12-29T14:08:52.4295896+00:00",
       "NumProgressed": 441,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T12:08:45.6656391+00:00",
+      "NumProgressed": 442,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -576,9 +581,9 @@
       "ID": "Award_DocKing",
       "SetID": "9ojec6n",
       "Name": "DocKing",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 199
     },
     {
       "ID": "Award_EarlyBird",
@@ -618,7 +623,7 @@
       "Name": "Gunner",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "Award_HalfwayThere",
@@ -674,7 +679,7 @@
       "Name": "Killer Elite",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Award_LineOfDuty",
@@ -728,9 +733,9 @@
       "ID": "Award_Perky",
       "SetID": "9ojec6n",
       "Name": "Perky",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 62
     },
     {
       "ID": "Award_PowerUp",
@@ -752,9 +757,9 @@
       "ID": "Award_Scavenger",
       "SetID": "9ojec6n",
       "Name": "Scavenger",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 327
     },
     {
       "ID": "Award_ShellShock",
@@ -857,7 +862,7 @@
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 441,
+      "Progressed": 442,
       "Completed": 1
     }
   ],
@@ -865,8 +870,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-12-30T11:08:29.3131315+00:00",
+  "LastChanged_Achievements": "2023-12-30T12:08:45.6656388+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:55.752897+00:00",
-  "LastUpdate_Ratings": "2023-12-30T10:59:11.9258164+00:00",
-  "LastUpdate_Achievements": "2023-12-30T11:08:29.3131646+00:00"
+  "LastUpdate_Ratings": "2023-12-30T11:58:53.6075437+00:00",
+  "LastUpdate_Achievements": "2023-12-30T12:08:45.6656804+00:00"
 }

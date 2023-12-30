@@ -2,13 +2,13 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 298,
+  "Ranking_Rating": 282,
   "Ranking_Popularity": 420,
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.66,
+  "Rating": 4.67,
   "RatingHistory": [
     {
       "Time": "2023-12-11T06:59:42.897175+00:00",
@@ -201,6 +201,12 @@
       "Rating": 4.66,
       "NumberOfAwards": 64,
       "NumberOfAwardsMax": 64
+    },
+    {
+      "Time": "2023-12-30T11:58:27.5895867+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 64,
+      "NumberOfAwardsMax": 64
     }
   ],
   "ReviewsDisabled": false,
@@ -215,9 +221,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 8793,
+  "EOS_Progressed": 8806,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2189,
+  "EOS_NewPlayers": 2179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2960,6 +2966,11 @@
       "Time": "2023-12-30T11:09:48.249077+00:00",
       "NumProgressed": 8793,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T12:09:58.1732455+00:00",
+      "NumProgressed": 8806,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -2970,9 +2981,9 @@
       "ID": "02_TheIntrigue",
       "SetID": "37a94m8",
       "Name": "Conspiracy",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 264
+      "UsersEstimate": 352
     },
     {
       "ID": "03_TheStolenStar",
@@ -3090,9 +3101,9 @@
       "ID": "17_TheExemplar",
       "SetID": "37a94m8",
       "Name": "Exemplar",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 53
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -3282,9 +3293,9 @@
       "ID": "41_TheJungleHeat",
       "SetID": "37a94m8",
       "Name": "Jungle Heat",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 176
     },
     {
       "ID": "42_TheIronJudgement",
@@ -3386,9 +3397,9 @@
       "ID": "54_ThisIsAJobForLordCaptain",
       "SetID": "37a94m8",
       "Name": "This Is a Job for the Lord Captain!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 26
     },
     {
       "ID": "55_ReturningTheBoots",
@@ -3491,16 +3502,16 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8793,
+      "Progressed": 8806,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2023-12-30T04:58:20.1392626+00:00",
-  "LastChanged_Achievements": "2023-12-30T11:09:48.2490763+00:00",
+  "LastChanged": "2023-12-30T11:58:27.5895866+00:00",
+  "LastChanged_Achievements": "2023-12-30T12:09:58.1732453+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-30T10:58:43.4648738+00:00",
-  "LastUpdate_Achievements": "2023-12-30T11:09:48.2491486+00:00"
+  "LastUpdate_Ratings": "2023-12-30T11:58:27.5895869+00:00",
+  "LastUpdate_Achievements": "2023-12-30T12:09:58.1733045+00:00"
 }

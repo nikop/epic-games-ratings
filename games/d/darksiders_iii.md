@@ -6,16 +6,16 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~235 |
-| First of many… | 69.00% | ~210 |
-| Helping Hand | 65.00% | ~198 |
-| Increased Vigor | 60.00% | ~183 |
+| Green with Envy | 78.00% | ~239 |
+| First of many… | 69.00% | ~211 |
+| Helping Hand | 66.00% | ~202 |
+| Increased Vigor | 59.00% | ~181 |
 | Fight Fire with Fire | 57.00% | ~174 |
 | Increased Capacity | 53.00% | ~162 |
-| Just the start | 50.00% | ~152 |
-| Perfect Storm | 46.00% | ~140 |
-| All That Glitters | 45.00% | ~137 |
-| Enhance! | 42.00% | ~128 |
+| Just the start | 50.00% | ~153 |
+| Perfect Storm | 46.00% | ~141 |
+| All That Glitters | 45.00% | ~138 |
+| Enhance! | 42.00% | ~129 |
 | One Of the Chosen | 41.00% | ~125 |
 | Devil's in the Details | 39.00% | ~119 |
 | Throne Potato | 39.00% | ~119 |
@@ -24,13 +24,13 @@ Number of Ratings: 116  (23.09.2022)
 | Soul Harvester | 36.00% | ~110 |
 | Salvation | 36.00% | ~110 |
 | Unshakable Fortitude | 34.00% | ~104 |
+| I Wanna Rock | 31.00% | ~95 |
 | Delusions of Grandeur | 31.00% | ~95 |
 | Maximum Vigor | 30.00% | ~92 |
-| I Wanna Rock | 30.00% | ~92 |
-| Love Tap | 30.00% | ~92 |
-| Freeze Frame | 28.00% | ~85 |
-| Eat Your Heart Out | 27.00% | ~82 |
-| For Whom the Bell Tolls | 27.00% | ~82 |
+| Love Tap | 29.00% | ~89 |
+| Freeze Frame | 27.00% | ~83 |
+| Eat Your Heart Out | 27.00% | ~83 |
+| For Whom the Bell Tolls | 27.00% | ~83 |
 | Unyielding Strength | 24.00% | ~73 |
 | Big Spender | 24.00% | ~73 |
 | Can you restore the Balance? | 23.00% | ~70 |
@@ -46,9 +46,9 @@ Number of Ratings: 116  (23.09.2022)
 | A Parting Gift | 12.00% | ~37 |
 | Unbreakable Will | 11.00% | ~34 |
 | Path of the Horseman | 11.00% | ~34 |
-| Take it to the Limit | 10.00% | ~30 |
-| Holy Keeper | 9.00% | ~27 |
-| Demon Keeper | 9.00% | ~27 |
+| Holy Keeper | 9.00% | ~28 |
+| Take it to the Limit | 9.00% | ~28 |
+| Demon Keeper | 8.00% | ~24 |
 | Humanitarian | 8.00% | ~24 |
 | Soul Reaper | 7.00% | ~21 |
 | My Evil Twin | 7.00% | ~21 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 0.70% | ~2 |
 | Beast Mode | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 305 (Ranked 384)  
+Progressed: 306 (Ranked 384)  
 Completed: 1 (0.33%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,11 +86,11 @@ Completed: 1 (0.33%) (Ranked 245)
 | 2023-12-27 | 247 | 1 |
 | 2023-12-28 | 265 | 1 |
 | 2023-12-29 | 293 | 1 |
-| 2023-12-30 | 305 | 1 |
+| 2023-12-30 | 306 | 1 |
 ## Awards
 Max (Great Boss Battles): 94  (Ranked 387)  
-Sum: 94 (Ranked 467)  
-Diff (max vs sum): -80  
+Sum: 94 (Ranked 468)  
+Diff (max vs sum): -81  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 94 |

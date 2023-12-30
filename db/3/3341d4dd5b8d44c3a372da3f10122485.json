@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -1413,9 +1413,9 @@
       "ID": "Kompotarna",
       "SetID": "823jm6g",
       "Name": "Pantry",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 80,
-      "UsersEstimate": 153
+      "UsersEstimate": 155
     },
     {
       "ID": "Konec",
@@ -1469,17 +1469,17 @@
       "ID": "Snekoun",
       "SetID": "823jm6g",
       "Name": "Snailman",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 80,
-      "UsersEstimate": 168
+      "UsersEstimate": 170
     },
     {
       "ID": "Sopouch",
       "SetID": "823jm6g",
       "Name": "Pit",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 75,
-      "UsersEstimate": 155
+      "UsersEstimate": 157
     },
     {
       "ID": "Tuleni",
@@ -1500,8 +1500,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-12-30T11:04:07.8731157+00:00",
+  "LastChanged_Achievements": "2023-12-30T12:04:09.9432731+00:00",
   "LastUpdate_AppInfo": "2023-12-30T07:56:58.6269869+00:00",
-  "LastUpdate_Ratings": "2023-12-30T11:00:59.7982137+00:00",
-  "LastUpdate_Achievements": "2023-12-30T11:04:07.8731325+00:00"
+  "LastUpdate_Ratings": "2023-12-30T12:02:39.6631204+00:00",
+  "LastUpdate_Achievements": "2023-12-30T12:04:09.943287+00:00"
 }

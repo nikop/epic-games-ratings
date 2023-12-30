@@ -6,18 +6,18 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 19.00% | ~128,394 |
-| Incurious | 18.00% | ~121,637 |
-| Stroller | 16.00% | ~108,121 |
-| Climate Change | 16.00% | ~108,121 |
-| Toy Train | 14.00% | ~94,606 |
-| Advanced Hiker | 13.00% | ~87,849 |
-| Hiker | 12.00% | ~81,091 |
+| Advanced Stroller | 19.00% | ~128,396 |
+| Incurious | 18.00% | ~121,638 |
+| Stroller | 16.00% | ~108,123 |
+| Climate Change | 16.00% | ~108,123 |
+| Toy Train | 14.00% | ~94,607 |
+| Advanced Hiker | 13.00% | ~87,850 |
+| Hiker | 12.00% | ~81,092 |
 | Mojave Courier | 6.00% | ~40,546 |
 | Saved by Nausicaä | 6.00% | ~40,546 |
-| Advanced Voyager | 4.00% | ~27,030 |
-| Expert Stroller | 4.00% | ~27,030 |
-| Orient Express | 4.00% | ~27,030 |
+| Advanced Voyager | 4.00% | ~27,031 |
+| Expert Stroller | 4.00% | ~27,031 |
+| Orient Express | 4.00% | ~27,031 |
 | Voyager | 3.00% | ~20,273 |
 | Marathon | 3.00% | ~20,273 |
 | Destructionist | 3.00% | ~20,273 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~676 |
 | 20 Miles under the Sea | 0.10% | ~676 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 675,759 (Ranked 28)  
+Progressed: 675,767 (Ranked 28)  
 Completed: 12 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,10 +313,10 @@ Completed: 12 (0.00%) (Ranked 391)
 | 2023-12-27 | 674,865 | 12 |
 | 2023-12-28 | 675,198 | 12 |
 | 2023-12-29 | 675,587 | 12 |
-| 2023-12-30 | 675,759 | 12 |
+| 2023-12-30 | 675,767 | 12 |
 ## Awards
 Max (Great for Beginners): 207  (Ranked 295)  
-Sum: 1,622 (Ranked 232)  
+Sum: 1,623 (Ranked 232)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
@@ -325,7 +325,7 @@ Diff (max vs sum): 63
 | This game has Quickly Understood Controls | 194 |
 | This game is Extremely Fun | 188 |
 | This game is Relaxing | 181 |
-| This game has Amazing Characters | 171 |
+| This game has Amazing Characters | 172 |
 | This game has Playful Visuals | 166 |
 | This game is Highly Recommended | 162 |
 | This game has Amazing Storytelling | 150 |
@@ -493,3 +493,4 @@ Diff (max vs sum): 63
 | 2023-12-27 | 4.64 | - | 207 | 1,619 |
 | 2023-12-28 | 4.64 | - | 207 | 1,620 |
 | 2023-12-29 | 4.64 | - | 207 | 1,622 |
+| 2023-12-30 | 4.64 | - | 207 | 1,623 |

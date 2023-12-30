@@ -6,39 +6,39 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~614 |
+| Malpractice Assurance | 11.00% | ~615 |
 | Lost and Found | 7.00% | ~391 |
 | Autodidact | 6.00% | ~7,843 |
-| This guy... again? | 6.00% | ~335 |
+| This guy... again? | 6.00% | ~336 |
 | This Belongs in a Museum | 5.00% | ~6,536 |
 | Creep and Sleep | 5.00% | ~6,536 |
 | Overdue Notice | 5.00% | ~6,536 |
 | Escape from the Black Hole | 5.00% | ~6,536 |
-| Ploughshares to Swords | 5.00% | ~279 |
-| Bloody Graduation | 5.00% | ~279 |
-| Don't Make Me Turn This Coach Around | 4.00% | ~5,228 |
-| Serenity Now! | 4.00% | ~5,228 |
-| It Rings a Bell | 4.00% | ~5,228 |
-| Not Today! | 4.00% | ~5,228 |
-| Meat and Greet | 4.00% | ~5,228 |
-| Catch and Decease | 4.00% | ~5,228 |
-| Rush Hour | 4.00% | ~5,228 |
-| To Grandmother's House | 4.00% | ~5,228 |
-| FNG | 4.00% | ~5,228 |
-| Friends 'Til the End | 4.00% | ~223 |
-| Unfulfilled Desires | 3.00% | ~3,921 |
-| Dissector | 3.00% | ~3,921 |
-| Banishment | 3.00% | ~3,921 |
-| Now Stay Dead | 3.00% | ~3,921 |
-| It Happens | 3.00% | ~3,921 |
-| Spelunker | 3.00% | ~3,921 |
-| Merry Time | 3.00% | ~3,921 |
-| Harvest Festival | 3.00% | ~3,921 |
-| Ramble On | 3.00% | ~3,921 |
-| Whale | 3.00% | ~3,921 |
-| A Place to Lay Your Head | 3.00% | ~3,921 |
-| Nope | 3.00% | ~3,921 |
-| Unshackled | 3.00% | ~3,921 |
+| Ploughshares to Swords | 5.00% | ~280 |
+| Bloody Graduation | 5.00% | ~280 |
+| Don't Make Me Turn This Coach Around | 4.00% | ~5,229 |
+| Serenity Now! | 4.00% | ~5,229 |
+| It Rings a Bell | 4.00% | ~5,229 |
+| Not Today! | 4.00% | ~5,229 |
+| Meat and Greet | 4.00% | ~5,229 |
+| Catch and Decease | 4.00% | ~5,229 |
+| Rush Hour | 4.00% | ~5,229 |
+| To Grandmother's House | 4.00% | ~5,229 |
+| FNG | 4.00% | ~5,229 |
+| Friends 'Til the End | 4.00% | ~224 |
+| Unfulfilled Desires | 3.00% | ~3,922 |
+| Dissector | 3.00% | ~3,922 |
+| Banishment | 3.00% | ~3,922 |
+| Now Stay Dead | 3.00% | ~3,922 |
+| It Happens | 3.00% | ~3,922 |
+| Spelunker | 3.00% | ~3,922 |
+| Merry Time | 3.00% | ~3,922 |
+| Harvest Festival | 3.00% | ~3,922 |
+| Ramble On | 3.00% | ~3,922 |
+| Whale | 3.00% | ~3,922 |
+| A Place to Lay Your Head | 3.00% | ~3,922 |
+| Nope | 3.00% | ~3,922 |
+| Unshackled | 3.00% | ~3,922 |
 | Resurrection | 2.00% | ~2,614 |
 | Unleash Hell | 2.00% | ~2,614 |
 | Funny Guy | 2.00% | ~2,614 |
@@ -63,7 +63,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Body of Work | 1.00% | ~1,307 |
 | Slap on the Wrist | 1.00% | ~56 |
 | For Old Time' Sake | 1.00% | ~56 |
-| Shrine of Reflection | 0.90% | ~1,176 |
+| Shrine of Reflection | 0.90% | ~1,177 |
 | Clearing the Ledger | 0.80% | ~1,046 |
 | Hat Trick | 0.70% | ~915 |
 | Triage | 0.70% | ~915 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,712 (Ranked 88)  
+Progressed: 130,723 (Ranked 88)  
 Completed: 3 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,17 +330,17 @@ Completed: 3 (0.00%) (Ranked 391)
 | 2023-12-27 | 130,259 | 3 |
 | 2023-12-28 | 130,422 | 3 |
 | 2023-12-29 | 130,627 | 3 |
-| 2023-12-30 | 130,712 | 3 |
+| 2023-12-30 | 130,723 | 3 |
 ## Awards
 Max (Character Customization): 7,905  (Ranked 50)  
-Sum: 21,256 (Ranked 58)  
+Sum: 21,257 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,905 |
 | This game has Diverse Characters | 1,791 |
 | This game has Challenging Combat | 1,657 |
-| This game is Highly Recommended | 1,582 |
+| This game is Highly Recommended | 1,583 |
 | This game has Amazing Characters | 1,504 |
 | This game is Extremely Fun | 1,501 |
 | This game has Unique Visuals | 1,437 |
@@ -688,4 +688,4 @@ Diff (max vs sum): -8
 | 2023-12-27 | 4.68 | - | 7,882 | 21,156 |
 | 2023-12-28 | 4.68 | - | 7,888 | 21,194 |
 | 2023-12-29 | 4.68 | - | 7,899 | 21,240 |
-| 2023-12-30 | 4.68 | - | 7,905 | 21,256 |
+| 2023-12-30 | 4.68 | - | 7,905 | 21,257 |

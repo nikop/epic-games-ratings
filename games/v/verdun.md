@@ -1,33 +1,33 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.53 (Ranked 557)  
+Rating: 4.53 (Ranked 558)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~53,015 |
-| Worth it | 63.00% | ~42,820 |
-| Eagle Eye | 55.00% | ~37,382 |
-| Corpseman I | 39.00% | ~26,508 |
-| Blast fishing | 37.00% | ~25,148 |
-| Not alone | 32.00% | ~21,750 |
-| Headhunter I | 26.00% | ~17,672 |
-| Manual Labour I | 25.00% | ~16,992 |
-| Developers, Developers, Developers | 24.00% | ~16,312 |
-| Basic Training | 23.00% | ~15,633 |
-| Furchtlos und Treu | 13.00% | ~8,836 |
-| Gott Mit Uns | 12.00% | ~8,156 |
-| This We'll Defend! | 9.00% | ~6,117 |
-| Providentiea Memor | 9.00% | ~6,117 |
-| For King and Country | 9.00% | ~6,117 |
-| Battle hardened | 8.00% | ~5,437 |
-| Anker wirf! | 8.00% | ~5,437 |
+| Setting an example | 78.00% | ~53,021 |
+| Worth it | 63.00% | ~42,825 |
+| Eagle Eye | 55.00% | ~37,387 |
+| Corpseman I | 39.00% | ~26,511 |
+| Blast fishing | 37.00% | ~25,151 |
+| Not alone | 32.00% | ~21,752 |
+| Headhunter I | 26.00% | ~17,674 |
+| Manual Labour I | 25.00% | ~16,994 |
+| Developers, Developers, Developers | 24.00% | ~16,314 |
+| Basic Training | 23.00% | ~15,634 |
+| Furchtlos und Treu | 13.00% | ~8,837 |
+| Gott Mit Uns | 12.00% | ~8,157 |
+| This We'll Defend! | 9.00% | ~6,118 |
+| Providentiea Memor | 9.00% | ~6,118 |
+| For King and Country | 9.00% | ~6,118 |
+| Battle hardened | 8.00% | ~5,438 |
+| Anker wirf! | 8.00% | ~5,438 |
 | Semper Fidelis! | 7.00% | ~4,758 |
 | Honneur et Patrie | 7.00% | ~4,758 |
-| In Treue Fest | 5.00% | ~3,398 |
-| Voor De Koning | 5.00% | ~3,398 |
-| Extreme Headhunter | 5.00% | ~3,398 |
+| In Treue Fest | 5.00% | ~3,399 |
+| Voor De Koning | 5.00% | ~3,399 |
+| Extreme Headhunter | 5.00% | ~3,399 |
 | Advance Australia | 4.00% | ~2,719 |
 | We Stand on Guard | 4.00% | ~2,719 |
 | Sidi Brahim | 4.00% | ~2,719 |
@@ -41,8 +41,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | In My Defens God Me Defend | 3.00% | ~2,039 |
 | Silver x100 | 3.00% | ~2,039 |
 | Impavidum Ferient Bella! | 3.00% | ~2,039 |
-| Bronze x100 | 2.00% | ~1,359 |
-| Shoot, Cover, Reload, Repeat | 2.00% | ~1,359 |
+| Bronze x100 | 2.00% | ~1,360 |
+| Shoot, Cover, Reload, Repeat | 2.00% | ~1,360 |
 | Gold x100 | 1.00% | ~680 |
 | Hunting the Hun | 1.00% | ~680 |
 | #1 | 1.00% | ~680 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~68 |
 | Blood Brother | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,968 (Ranked 114)  
+Progressed: 67,976 (Ranked 114)  
 Completed: 4 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,11 +320,11 @@ Completed: 4 (0.01%) (Ranked 368)
 | 2023-12-27 | 67,706 | 4 |
 | 2023-12-28 | 67,802 | 4 |
 | 2023-12-29 | 67,910 | 4 |
-| 2023-12-30 | 67,968 | 4 |
+| 2023-12-30 | 67,976 | 4 |
 ## Awards
-Max (Highly Recommended): 105  (Ranked 367)  
+Max (Highly Recommended): 105  (Ranked 368)  
 Sum: 829 (Ranked 284)  
-Diff (max vs sum): 83  
+Diff (max vs sum): 84  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |

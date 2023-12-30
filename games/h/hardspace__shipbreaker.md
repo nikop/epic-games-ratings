@@ -11,7 +11,7 @@ Number of Ratings: 36  (23.09.2022)
 | Let’s patch things up | 65.00% | ~668 |
 | I can fix it! | 62.00% | ~637 |
 | Post No Bills | 54.00% | ~555 |
-| Truly Shocking! | 47.00% | ~483 |
+| Truly Shocking! | 48.00% | ~493 |
 | Critical Thinker | 36.00% | ~370 |
 | Act I Complete | 29.00% | ~298 |
 | Always Finding Your Mark | 29.00% | ~298 |
@@ -20,8 +20,8 @@ Number of Ratings: 36  (23.09.2022)
 | No Niños | 26.00% | ~267 |
 | I ain’t afraid of no Ghost | 24.00% | ~247 |
 | Act II Complete | 21.00% | ~216 |
+| A successful procedure! | 19.00% | ~195 |
 | Bing Bang BOOM | 19.00% | ~195 |
-| A successful procedure! | 18.00% | ~185 |
 | Breaking the Ice | 18.00% | ~185 |
 | Solidarity Forever | 12.00% | ~123 |
 | A Tucked Tale | 10.00% | ~103 |

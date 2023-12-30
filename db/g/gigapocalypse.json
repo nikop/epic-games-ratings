@@ -4,8 +4,8 @@
   "ProductSlug": "gigapocalypse-fdc53b",
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 464,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 465,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-03-22T16:00:00+00:00",
     "PcReleaseDate": "2021-11-20T17:00:00+00:00",
@@ -846,9 +846,9 @@
       "ID": "secret52",
       "SetID": "39f6ck8",
       "Name": "Hearty Meteor",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "secret53",
@@ -903,8 +903,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-12-30T11:06:08.1477385+00:00",
+  "LastChanged_Achievements": "2023-12-30T12:06:00.6518778+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:22:01.310535+00:00",
-  "LastUpdate_Ratings": "2023-12-30T11:03:13.662262+00:00",
-  "LastUpdate_Achievements": "2023-12-30T11:06:08.1477724+00:00"
+  "LastUpdate_Ratings": "2023-12-30T12:03:19.4015571+00:00",
+  "LastUpdate_Achievements": "2023-12-30T12:06:00.6519177+00:00"
 }

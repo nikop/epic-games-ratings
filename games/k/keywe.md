@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Hired | 97.00% | ~108 |
+| You're Hired | 98.00% | ~109 |
 | Learn the Ropes | 74.00% | ~82 |
 | Practice Makes Postmasters | 42.00% | ~47 |
 | Working for the Kiweekend | 41.00% | ~46 |

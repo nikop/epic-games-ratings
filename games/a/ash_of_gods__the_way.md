@@ -11,8 +11,8 @@
 | First blood | 30.00% | ~16 |
 | Royal blessing | 24.00% | ~13 |
 | All for one! | 22.00% | ~12 |
+| A hidden snake | 22.00% | ~12 |
 | Blood and sand | 22.00% | ~12 |
-| A hidden snake | 20.00% | ~11 |
 | Crimson rivers | 17.00% | ~9 |
 | Power of Inquisition | 17.00% | ~9 |
 | Surpass the teacher | 17.00% | ~9 |
@@ -23,11 +23,11 @@
 | Rage | 13.00% | ~7 |
 | Trial by cold | 13.00% | ~7 |
 | The champion of the arena | 11.00% | ~6 |
+| Overplay the rogue | 9.00% | ~5 |
 | Stronger than Gellian steel | 9.00% | ~5 |
 | Protect the Healer! | 9.00% | ~5 |
 | For the greater good | 7.00% | ~4 |
 | Collector | 7.00% | ~4 |
-| Overplay the rogue | 7.00% | ~4 |
 | Punish the Punisher | 7.00% | ~4 |
 | The End | 7.00% | ~4 |
 | Supplier | 6.00% | ~3 |
