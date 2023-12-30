@@ -1,17 +1,17 @@
 # New Tales from the Borderlands
 [Store](https://store.epicgames.com/en-US/p/new-tales-from-the-borderlands)  
 [View Rawdata](../../db/n/new_tales_from_the_borderlands.json)  
-Rating: 4.08 (Ranked 1,003)  
+Rating: 4.08 (Ranked 1,004)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Who Needs Keys? | 51.00% | ~1,925 |
 | Totally Intentional | 46.00% | ~1,736 |
 | Each Sold Separately | 38.00% | ~1,434 |
-| We're In | 33.00% | ~1,245 |
+| We're In | 33.00% | ~1,246 |
 | You're Not Naked | 30.00% | ~1,132 |
 | Tale in the Toilet | 30.00% | ~1,132 |
-| From Zeroes... | 29.00% | ~1,094 |
+| From Zeroes... | 29.00% | ~1,095 |
 | Don't Get Cocky | 27.00% | ~1,019 |
 | Shard Snatchers | 25.00% | ~944 |
 | You Rich Now! | 23.00% | ~868 |
@@ -20,10 +20,10 @@ Rating: 4.08 (Ranked 1,003)
 | The Shardmenstration | 20.00% | ~755 |
 | You Got the Goods, Kid | 20.00% | ~755 |
 | Those Were the Days... | 19.00% | ~717 |
-| ...To Heroes | 18.00% | ~679 |
-| Mas, Por Favor | 18.00% | ~679 |
+| ...To Heroes | 18.00% | ~680 |
+| Mas, Por Favor | 18.00% | ~680 |
 | And Still Champion... | 15.00% | ~566 |
-| Super Trusting Friend! | 10.00% | ~377 |
+| Super Trusting Friend! | 10.00% | ~378 |
 | Bring back the butt! | 4.00% | ~151 |
 | Hey, thanks! | 4.00% | ~151 |
 | Murderous Mascot Mayhem | 3.00% | ~113 |
@@ -32,7 +32,7 @@ Rating: 4.08 (Ranked 1,003)
 | Not Dolls. Action Figures! | 0.20% | ~8 |
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,774 (Ranked 214)  
+Progressed: 3,775 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 3,764 | 0 |
 | 2023-12-28 | 3,768 | 0 |
 | 2023-12-29 | 3,771 | 0 |
-| 2023-12-30 | 3,774 | 0 |
+| 2023-12-30 | 3,775 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

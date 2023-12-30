@@ -22,7 +22,7 @@
 | Botropolis | 25.00% | ~55 |
 | Steam Powered | 19.00% | ~42 |
 | Manic Mechanic | 18.00% | ~39 |
-| Steaming Rich | 17.00% | ~37 |
+| Steaming Rich | 18.00% | ~39 |
 | Room To Spare | 14.00% | ~31 |
 | Stack Overflow | 5.00% | ~11 |
 | Click 'Em All | 4.00% | ~9 |

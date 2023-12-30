@@ -1,26 +1,26 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 611)  
+Rating: 4.50 (Ranked 612)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 10.00% | ~3,296 |
-| Advancement | 8.00% | ~2,636 |
-| Meticulously Efficient | 8.00% | ~2,636 |
-| Discovery | 6.00% | ~1,977 |
-| Solo Capture | 6.00% | ~1,977 |
-| Swift Rift Removers | 6.00% | ~1,977 |
+| Advancement | 8.00% | ~2,637 |
+| Meticulously Efficient | 8.00% | ~2,637 |
+| Discovery | 6.00% | ~1,978 |
+| Solo Capture | 6.00% | ~1,978 |
+| Swift Rift Removers | 6.00% | ~1,978 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,648 |
 | Fully Upgraded | 5.00% | ~1,648 |
 | Teamwork | 5.00% | ~1,648 |
 | Vaporous Expansion | 5.00% | ~1,648 |
-| Clutch Capture | 4.00% | ~1,318 |
-| Cultured | 4.00% | ~1,318 |
-| Daily Dose | 4.00% | ~1,318 |
-| Ghostbuster In Training | 4.00% | ~1,318 |
-| There you are! | 4.00% | ~1,318 |
-| Whoopsie | 4.00% | ~1,318 |
+| Clutch Capture | 4.00% | ~1,319 |
+| Cultured | 4.00% | ~1,319 |
+| Daily Dose | 4.00% | ~1,319 |
+| Ghostbuster In Training | 4.00% | ~1,319 |
+| There you are! | 4.00% | ~1,319 |
+| Whoopsie | 4.00% | ~1,319 |
 | Animated | 3.00% | ~989 |
 | Back Off | 3.00% | ~989 |
 | We have the best insurance | 3.00% | ~989 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 611)
 | Ultimate Defense | 0.20% | ~66 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,956 (Ranked 134)  
+Progressed: 32,963 (Ranked 134)  
 Completed: 71 (0.22%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 71 (0.22%) (Ranked 270)
 | 2023-12-27 | 32,821 | 70 |
 | 2023-12-28 | 32,854 | 70 |
 | 2023-12-29 | 32,915 | 71 |
-| 2023-12-30 | 32,956 | 71 |
+| 2023-12-30 | 32,963 | 71 |
 ## Awards
 Max (Great for Beginners): 326  (Ranked 255)  
 Sum: 2,939 (Ranked 184)  

@@ -1,7 +1,7 @@
 # Circus Electrique
 [Store](https://store.epicgames.com/en-US/p/circus-electrique)  
 [View Rawdata](../../db/c/circus_electrique.json)  
-Rating: 4.16 (Ranked 972)  
+Rating: 4.16 (Ranked 973)  
 Number of Ratings: 22  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,10 +14,10 @@ Number of Ratings: 22  (23.09.2022)
 | More Brain Than Brawn | 31.00% | ~154 |
 | Perfect Illusion | 25.00% | ~124 |
 | Hundred Percent First | 25.00% | ~124 |
-| Dirty Dozen | 21.00% | ~104 |
-| Fan Service | 19.00% | ~94 |
-| Lion Tamer | 18.00% | ~89 |
-| Amazing! | 17.00% | ~84 |
+| Dirty Dozen | 21.00% | ~105 |
+| Fan Service | 19.00% | ~95 |
+| Lion Tamer | 18.00% | ~90 |
+| Amazing! | 17.00% | ~85 |
 | King of District 1 | 16.00% | ~80 |
 | Lucky Day | 15.00% | ~75 |
 | Bar Brawler | 15.00% | ~75 |
@@ -57,7 +57,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.40% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 497 (Ranked 344)  
+Progressed: 498 (Ranked 344)  
 Completed: 1 (0.20%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,6 +126,7 @@ Completed: 1 (0.20%) (Ranked 273)
 | 2023-12-25 | 495 | 1 |
 | 2023-12-26 | 496 | 1 |
 | 2023-12-28 | 497 | 1 |
+| 2023-12-30 | 498 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

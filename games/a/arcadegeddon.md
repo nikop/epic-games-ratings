@@ -1,7 +1,7 @@
 # Arcadegeddon
 [Store](https://store.epicgames.com/en-US/p/arcadegeddon)  
 [View Rawdata](../../db/a/arcadegeddon.json)  
-Rating: 4.49 (Ranked 630)  
+Rating: 4.49 (Ranked 631)  
 Number of Ratings: 801  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -58,7 +58,7 @@ Number of Ratings: 801  (23.09.2022)
 | Pyrotechnical | 0.20% | ~20 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10,196 (Ranked 178)  
-Completed: 2 (0.02%) (Ranked 358)  
+Completed: 2 (0.02%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -314,8 +314,8 @@ Completed: 2 (0.02%) (Ranked 358)
 | 2023-12-30 | 10,196 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 419)  
-Sum: 465 (Ranked 339)  
-Diff (max vs sum): 80  
+Sum: 465 (Ranked 340)  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 65 |

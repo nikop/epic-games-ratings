@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,7 +51,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1163,
+  "EOS_Progressed": 1164,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
@@ -3346,6 +3346,11 @@
       "Time": "2023-12-30T21:11:42.7893273+00:00",
       "NumProgressed": 1163,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-30T22:10:52.9690344+00:00",
+      "NumProgressed": 1164,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3493,7 +3498,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "GadgetCompletion1",
@@ -3509,7 +3514,7 @@
       "Name": "Whiz Kid",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "GrindingTime1",
@@ -3621,7 +3626,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -3635,17 +3640,17 @@
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 279
     },
     {
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 488
+      "UsersEstimate": 501
     },
     {
       "ID": "RewindParry",
@@ -3685,7 +3690,7 @@
       "Name": "Fast Learner",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "SpeedRun",
@@ -3765,7 +3770,7 @@
       "Name": "The Brass Boss",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3773,14 +3778,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1163,
+      "Progressed": 1164,
       "Completed": 6
     }
   ],
@@ -3788,8 +3793,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:11:42.7893269+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:10:52.9690341+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-30T21:03:26.2407467+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:11:42.7893972+00:00"
+  "LastUpdate_Ratings": "2023-12-30T22:02:42.9510271+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:10:52.9691049+00:00"
 }

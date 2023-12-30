@@ -6,7 +6,7 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 240,
-  "Ranking_EOS_Completed": 70,
+  "Ranking_EOS_Completed": 69,
   "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
@@ -91,10 +91,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2063,
+  "EOS_Progressed": 2064,
   "EOS_Completed": 124,
   "EOS_NewPlayers": 395,
-  "EOS_NewCompleters": 35,
+  "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 6.01,
   "EosHistory": [
     {
@@ -5816,6 +5816,11 @@
       "Time": "2023-12-30T21:08:18.0467514+00:00",
       "NumProgressed": 2063,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-12-30T22:07:12.9421312+00:00",
+      "NumProgressed": 2064,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 25,
@@ -5827,7 +5832,7 @@
       "Name": "I did it",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "END_GOOD",
@@ -5851,7 +5856,7 @@
       "Name": "Cable guy",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "META_FIRST_LINK",
@@ -5867,7 +5872,7 @@
       "Name": "Half the way",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "META_RESULT_1-2",
@@ -5923,7 +5928,7 @@
       "Name": "Alchemists Express",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -5931,15 +5936,15 @@
       "Name": "Rascal",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 557
+      "UsersEstimate": 578
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -5947,7 +5952,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -5979,7 +5984,7 @@
       "Name": "Scholar",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "PROGRESS_N1",
@@ -5995,7 +6000,7 @@
       "Name": "The great escape",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "PROGRESS_N3",
@@ -6003,7 +6008,7 @@
       "Name": "A new dawn",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "PROGRESS_N4",
@@ -6026,7 +6031,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2063,
+      "Progressed": 2064,
       "Completed": 124
     }
   ],
@@ -6034,8 +6039,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-30T06:59:31.3780132+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:08:18.046751+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:07:12.9421308+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-30T21:01:51.7353241+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:08:18.0468172+00:00"
+  "LastUpdate_Ratings": "2023-12-30T22:01:12.1970249+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:07:12.9421617+00:00"
 }

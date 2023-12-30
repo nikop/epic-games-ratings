@@ -1,15 +1,15 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.27 (Ranked 891)  
+Rating: 4.27 (Ranked 892)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,909 |
-| Don't I Know You...? | 76.00% | ~1,837 |
-| Jailbreak | 65.00% | ~1,571 |
-| HEADSHOT! | 38.00% | ~918 |
-| Suited and Booted | 38.00% | ~918 |
+| Rigged And Ready | 79.00% | ~1,910 |
+| Don't I Know You...? | 76.00% | ~1,838 |
+| Jailbreak | 65.00% | ~1,572 |
+| HEADSHOT! | 38.00% | ~919 |
+| Suited and Booted | 38.00% | ~919 |
 | Sleeping With The Fishes | 35.00% | ~846 |
 | Overheated | 30.00% | ~725 |
 | High Performance | 30.00% | ~725 |
@@ -19,8 +19,8 @@ Rating: 4.27 (Ranked 891)
 | Luminary | 22.00% | ~532 |
 | It's a Trap | 22.00% | ~532 |
 | True Survivor | 21.00% | ~508 |
-| Offensive Defense | 20.00% | ~483 |
-| Shocking | 20.00% | ~483 |
+| Offensive Defense | 20.00% | ~484 |
+| Shocking | 20.00% | ~484 |
 | Court Martial | 19.00% | ~459 |
 | Unforeseeable Consequences | 19.00% | ~459 |
 | Dead Again | 18.00% | ~435 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 891)
 | Three Birds With One Stone | 1.00% | ~24 |
 | The Easy Way Out | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,417 (Ranked 230)  
+Progressed: 2,418 (Ranked 230)  
 Completed: 13 (0.54%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 13 (0.54%) (Ranked 211)
 | 2023-12-27 | 2,388 | 13 |
 | 2023-12-28 | 2,397 | 13 |
 | 2023-12-29 | 2,408 | 13 |
-| 2023-12-30 | 2,417 | 13 |
+| 2023-12-30 | 2,418 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

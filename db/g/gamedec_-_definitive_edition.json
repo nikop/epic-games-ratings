@@ -2,9 +2,9 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 880,
-  "Ranking_Popularity": 385,
-  "Ranking_PopularitySum": 466,
+  "Ranking_Rating": 881,
+  "Ranking_Popularity": 383,
+  "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 127,
@@ -499,23 +499,29 @@
       "Rating": 4.28,
       "NumberOfAwards": 95,
       "NumberOfAwardsMax": 95
+    },
+    {
+      "Time": "2023-12-30T22:03:09.2237598+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 96,
+      "NumberOfAwardsMax": 96
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 95,
-  "NumberOfAwardsMax": 95,
+  "NumberOfAwards": 96,
+  "NumberOfAwardsMax": 96,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 95
+      "Count": 96
     }
   ],
-  "EOS_Progressed": 256270,
+  "EOS_Progressed": 256276,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 798,
+  "EOS_NewPlayers": 794,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29033,6 +29039,11 @@
       "Time": "2023-12-30T21:07:08.7535113+00:00",
       "NumProgressed": 256270,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-30T22:06:08.6725414+00:00",
+      "NumProgressed": 256276,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -29044,7 +29055,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 69193
+      "UsersEstimate": 69195
     },
     {
       "ID": "ACH_AON",
@@ -29076,7 +29087,7 @@
       "Name": "Catnip",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 5125
+      "UsersEstimate": 5126
     },
     {
       "ID": "ACH_COLLECTOR",
@@ -29084,7 +29095,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 30752
+      "UsersEstimate": 30753
     },
     {
       "ID": "ACH_ENJOY",
@@ -29100,7 +29111,7 @@
       "Name": "Gentleman\u0027s classic",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5125
+      "UsersEstimate": 5126
     },
     {
       "ID": "ACH_GUNSGUNS",
@@ -29108,7 +29119,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 33315
+      "UsersEstimate": 33316
     },
     {
       "ID": "ACH_HATTRICK",
@@ -29124,7 +29135,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 23064
+      "UsersEstimate": 23065
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -29180,7 +29191,7 @@
       "Name": "Is that a rift?",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5125
+      "UsersEstimate": 5126
     },
     {
       "ID": "ACH_ISTARTED",
@@ -29188,7 +29199,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 74318
+      "UsersEstimate": 74320
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -29196,7 +29207,7 @@
       "Name": "It\u0027s alive!",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 5125
+      "UsersEstimate": 5126
     },
     {
       "ID": "ACH_ITSALWAYSBLUE",
@@ -29244,7 +29255,7 @@
       "Name": "Enjoy the beach",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5125
+      "UsersEstimate": 5126
     },
     {
       "ID": "ACH_LETSCHAINS",
@@ -29260,7 +29271,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64068
+      "UsersEstimate": 64069
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -29292,7 +29303,7 @@
       "Name": "Rinse and repeat",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5125
+      "UsersEstimate": 5126
     },
     {
       "ID": "ACH_LETSSCOFIELD",
@@ -29300,7 +29311,7 @@
       "Name": "Mama, I\u0027m a criminal",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5125
+      "UsersEstimate": 5126
     },
     {
       "ID": "ACH_LETSSMILE",
@@ -29324,7 +29335,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 15376
+      "UsersEstimate": 15377
     },
     {
       "ID": "ACH_MEMORY5",
@@ -29364,7 +29375,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64068
+      "UsersEstimate": 64069
     },
     {
       "ID": "ACH_SOREAD",
@@ -29412,7 +29423,7 @@
       "Name": "Trash compactor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15376
+      "UsersEstimate": 15377
     },
     {
       "ID": "ACH_TROLLKING",
@@ -29420,7 +29431,7 @@
       "Name": "Never gonna give you up",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5125
+      "UsersEstimate": 5126
     },
     {
       "ID": "ACH_VALEDICTORIAN",
@@ -29428,7 +29439,7 @@
       "Name": "Valedictorian",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 15376
+      "UsersEstimate": 15377
     },
     {
       "ID": "ACH_WAKEUP",
@@ -29459,16 +29470,16 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 256270,
+      "Progressed": 256276,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:19:30.52798+00:00",
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
-  "LastChanged": "2023-12-29T15:03:04.8477148+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:07:08.7535109+00:00",
+  "LastChanged": "2023-12-30T22:03:09.2237596+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:06:08.6725408+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:20.3145423+00:00",
-  "LastUpdate_Ratings": "2023-12-30T21:03:55.2800131+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:07:08.7536551+00:00"
+  "LastUpdate_Ratings": "2023-12-30T22:03:09.2237602+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:06:08.6726709+00:00"
 }

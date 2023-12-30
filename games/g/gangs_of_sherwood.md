@@ -8,7 +8,7 @@
 | Air Fighter | 75.00% | ~81 |
 | Oo-De-Lally | 71.00% | ~77 |
 | Treasure Hunter | 66.00% | ~71 |
-| The Altruist | 64.00% | ~69 |
+| The Altruist | 65.00% | ~70 |
 | Watch your Step! | 54.00% | ~58 |
 | Tap Dancing | 50.00% | ~54 |
 | MAX LEVEL | 49.00% | ~53 |
@@ -25,9 +25,9 @@
 | Merry Go Round | 21.00% | ~23 |
 | Savior | 17.00% | ~18 |
 | Hidden Experiment | 16.00% | ~17 |
+| Ascending Will | 15.00% | ~16 |
 | Ultra Combo | 15.00% | ~16 |
 | Take Action! | 15.00% | ~16 |
-| Ascending Will | 14.00% | ~15 |
 | Into the Lion's Den | 11.00% | ~12 |
 | Sky High Fighter | 10.00% | ~11 |
 | Haute Couture | 9.00% | ~10 |

@@ -2,12 +2,12 @@
   "ID": "f03887880e3f49c9b478cae9beac3812",
   "Name": "Zombie Rollerz: Pinball Heroes",
   "ProductSlug": "zombie-rollerz-7aa027",
-  "Ranking_Rating": 870,
+  "Ranking_Rating": 871,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 460,
+  "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 212,
+  "EOS_Progressed": 213,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -860,6 +860,11 @@
       "Time": "2023-12-30T20:05:29.141592+00:00",
       "NumProgressed": 212,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T22:06:40.5634173+00:00",
+      "NumProgressed": 213,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 73,
@@ -871,7 +876,7 @@
       "Name": "Untouchable",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "CLG_CHAPTER_NODROPBALL",
@@ -885,17 +890,17 @@
       "ID": "CLG_LEVEL_BALLISTASHOT",
       "SetID": "89cjc9l",
       "Name": "Right in the kisser!",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 119
     },
     {
       "ID": "CLG_LEVEL_BULLSEYE",
       "SetID": "89cjc9l",
       "Name": "Bullseye!",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 179
     },
     {
       "ID": "CLG_LEVEL_COMBO",
@@ -911,7 +916,7 @@
       "Name": "Kill-streak",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "CLG_RUN_LEVELUP_1",
@@ -919,7 +924,7 @@
       "Name": "Level Up!",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "CLG_RUN_LEVELUP_2",
@@ -927,7 +932,7 @@
       "Name": "Level Up!!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "CLG_SKILL_LEVEL5_1",
@@ -935,7 +940,7 @@
       "Name": "Topped up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "CLG_SKILL_LEVEL5_2",
@@ -957,17 +962,17 @@
       "ID": "CLG_UNLOCK_10003",
       "SetID": "89cjc9l",
       "Name": "The Idol",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 51
     },
     {
       "ID": "CLG_UNLOCK_10004",
       "SetID": "89cjc9l",
       "Name": "The Blacksmith",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "CLG_UNLOCK_10005",
@@ -1069,9 +1074,9 @@
       "ID": "PRG_BOSS_GIANT",
       "SetID": "89cjc9l",
       "Name": "The Giant",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "PRG_BOSS_MAGE",
@@ -1079,7 +1084,7 @@
       "Name": "The Shaman",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "PRG_BOSS_MAGICIAN",
@@ -1111,7 +1116,7 @@
       "Name": "The Shield",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "PRG_BOSS_SLIME",
@@ -1127,7 +1132,7 @@
       "Name": "The Thrower",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "PRG_BOSS_TUNNELER",
@@ -1141,9 +1146,9 @@
       "ID": "PRG_CHAPTER_1",
       "SetID": "89cjc9l",
       "Name": "Villfir Forest",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 151
     },
     {
       "ID": "PRG_CHAPTER_2",
@@ -1151,15 +1156,15 @@
       "Name": "Duscot Steamcity",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "PRG_CHAPTER_3",
       "SetID": "89cjc9l",
       "Name": "Inferno Ruins",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 49
     },
     {
       "ID": "PRG_HARD_10001",
@@ -1357,9 +1362,9 @@
       "ID": "PRG_NORMAL_10001",
       "SetID": "89cjc9l",
       "Name": "Ember",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "PRG_NORMAL_10002",
@@ -1454,7 +1459,7 @@
     {
       "ID": "89cjc9l",
       "IsBase": true,
-      "Progressed": 212,
+      "Progressed": 213,
       "Completed": 1
     }
   ],
@@ -1462,8 +1467,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-12-07T15:59:55.7707113+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:07:43.588417+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:06:40.5634171+00:00",
   "LastUpdate_AppInfo": "2023-12-30T17:56:58.343065+00:00",
-  "LastUpdate_Ratings": "2023-12-30T20:57:44.2275907+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:07:43.5884698+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:57:17.1018118+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:06:40.5634686+00:00"
 }

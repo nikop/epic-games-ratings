@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1827,
+  "EOS_Progressed": 1828,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3083,6 +3083,11 @@
       "Time": "2023-12-30T21:08:42.2378936+00:00",
       "NumProgressed": 1827,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-30T22:07:35.5403439+00:00",
+      "NumProgressed": 1828,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3126,7 +3131,7 @@
       "Name": "Unstoppable",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "14",
@@ -3158,7 +3163,7 @@
       "Name": "Balding bloot!",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "18",
@@ -3318,7 +3323,7 @@
       "Name": "Over my dead body",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "9",
@@ -3333,15 +3338,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1827,
+      "Progressed": 1828,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:08:42.2378932+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:07:35.5403436+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.0357893+00:00",
-  "LastUpdate_Ratings": "2023-12-30T20:58:19.3934545+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:08:42.237934+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:57:50.1492067+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:07:35.5403874+00:00"
 }

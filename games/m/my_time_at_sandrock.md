@@ -6,60 +6,60 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 214.00% | ~1,571 |
-| Iron Chef | 151.00% | ~1,108 |
-| Super Spelunker | 146.00% | ~1,072 |
-| The Little Wood that Could | 120.00% | ~881 |
-| Greeno-B-Gone | 116.00% | ~851 |
-| On that Grindset | 103.00% | ~756 |
-| Officially Official | 103.00% | ~756 |
-| Your Especially Earned Trajectory | 98.00% | ~719 |
-| Better Late than Never | 88.00% | ~646 |
+| Adept Assembler | 214.00% | ~1,573 |
+| Iron Chef | 150.00% | ~1,102 |
+| Super Spelunker | 145.00% | ~1,066 |
+| The Little Wood that Could | 120.00% | ~882 |
+| Greeno-B-Gone | 116.00% | ~853 |
+| Officially Official | 103.00% | ~757 |
+| On that Grindset | 102.00% | ~750 |
+| Your Especially Earned Trajectory | 98.00% | ~720 |
+| Better Late than Never | 88.00% | ~647 |
 | One of the Cool Kids | 87.00% | ~639 |
-| Diamonds are Forever | 85.00% | ~624 |
+| Diamonds are Forever | 85.00% | ~625 |
 | Pack Mule | 84.00% | ~617 |
-| Got Served | 83.00% | ~609 |
+| Got Served | 83.00% | ~610 |
 | No Mountain Wide Enough | 81.00% | ~595 |
-| Financially Secure | 79.00% | ~580 |
-| Mole Masher | 79.00% | ~580 |
+| Financially Secure | 79.00% | ~581 |
+| Mole Masher | 79.00% | ~581 |
 | Knowledge is Power | 78.00% | ~573 |
 | I Do! | 78.00% | ~573 |
 | Yakmel Whisperer | 78.00% | ~573 |
-| Big Game Hunter | 76.00% | ~558 |
-| Can We Keep It? | 75.00% | ~550 |
-| Unboxing | 75.00% | ~550 |
-| Chatterbox | 72.00% | ~528 |
-| Panda-kin | 71.00% | ~521 |
-| First Love | 71.00% | ~521 |
+| Big Game Hunter | 76.00% | ~559 |
+| Unboxing | 75.00% | ~551 |
+| Can We Keep It? | 74.00% | ~544 |
+| Chatterbox | 72.00% | ~529 |
+| Panda-kin | 71.00% | ~522 |
+| First Love | 71.00% | ~522 |
 | What Plants Crave | 70.00% | ~514 |
-| Elementary, My Dear | 68.00% | ~499 |
-| Builder of the Month | 66.00% | ~484 |
-| Waste Not Want Not | 64.00% | ~470 |
-| Lifeline Pipeline | 63.00% | ~462 |
-| Commissions, commissions...! | 60.00% | ~440 |
-| Bridging the Gap | 60.00% | ~440 |
-| Martle's Dream | 59.00% | ~433 |
+| Elementary, My Dear | 68.00% | ~500 |
+| Builder of the Month | 66.00% | ~485 |
+| Lifeline Pipeline | 63.00% | ~463 |
+| Waste Not Want Not | 63.00% | ~463 |
+| Commissions, commissions...! | 60.00% | ~441 |
+| Bridging the Gap | 60.00% | ~441 |
+| Martle's Dream | 59.00% | ~434 |
 | Happier-est Place on Earth | 58.00% | ~426 |
-| Anti-Santa | 57.00% | ~418 |
-| Got the Flow Back | 56.00% | ~411 |
-| Finishing Touches | 55.00% | ~404 |
+| Anti-Santa | 57.00% | ~419 |
+| Got the Flow Back | 56.00% | ~412 |
 | You Don't Win Friends With Salad | 55.00% | ~404 |
-| Call Me Fishmael | 53.00% | ~389 |
+| Finishing Touches | 54.00% | ~397 |
+| Call Me Fishmael | 53.00% | ~390 |
 | Time Flies | 52.00% | ~382 |
 | Sepia Toned Memories | 52.00% | ~382 |
-| Who Ya Gonna Call...? | 50.00% | ~367 |
+| Who Ya Gonna Call...? | 50.00% | ~368 |
 | Kind of a Big Deal | 47.00% | ~345 |
-| Jewel of the Eufaula | 45.00% | ~330 |
+| Jewel of the Eufaula | 45.00% | ~331 |
 | Just What I Always Wanted! | 44.00% | ~323 |
-| My Time Mansion | 42.00% | ~308 |
+| My Time Mansion | 42.00% | ~309 |
 | He Can Spin A Yarn... | 40.00% | ~294 |
-| Santa In Training | 39.00% | ~286 |
-| Sandrunning Speedster | 39.00% | ~286 |
+| Santa In Training | 39.00% | ~287 |
+| Sandrunning Speedster | 39.00% | ~287 |
 | It Belongs in a Museum! | 35.00% | ~257 |
 | Pro Gamer | 34.00% | ~250 |
-| Do Your Part | 33.00% | ~242 |
+| Do Your Part | 33.00% | ~243 |
 | Newton | 32.00% | ~235 |
-| Cardistry | 27.00% | ~198 |
+| Cardistry | 26.00% | ~191 |
 | Winner and Still Champeen | 25.00% | ~184 |
 | Strong Arms | 18.00% | ~132 |
 | It's High Noon... | 17.00% | ~125 |
@@ -67,7 +67,7 @@ Number of Ratings: 892  (23.09.2022)
 | Jack of All Trades | 8.00% | ~59 |
 | Sandrock's Hottest Club | 5.00% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 734 (Ranked 309)  
+Progressed: 735 (Ranked 309)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |

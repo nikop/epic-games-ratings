@@ -1,7 +1,7 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.50 (Ranked 611)  
+Rating: 4.50 (Ranked 612)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,31 +10,31 @@ Rating: 4.50 (Ranked 611)
 | High Profile | 54.00% | ~732 |
 | Whispers In The Dark | 52.00% | ~705 |
 | Fond Memories | 50.00% | ~678 |
-| A Method To His Madness | 48.00% | ~650 |
+| A Method To His Madness | 48.00% | ~651 |
 | History Check | 47.00% | ~637 |
 | The New World | 45.00% | ~610 |
 | Gaze Into The Abyss | 43.00% | ~583 |
 | Open Sesame | 43.00% | ~583 |
 | Sticky Fingers | 43.00% | ~583 |
 | Knives Out | 43.00% | ~583 |
-| Lock, Stock, And Barrel | 42.00% | ~569 |
-| Back In The Saddle | 42.00% | ~569 |
-| Land, Ho! | 42.00% | ~569 |
+| Lock, Stock, And Barrel | 42.00% | ~570 |
+| Back In The Saddle | 42.00% | ~570 |
+| Land, Ho! | 42.00% | ~570 |
 | No Man Is An Island | 41.00% | ~556 |
 | At Wits' End | 40.00% | ~542 |
 | Up In Flames | 38.00% | ~515 |
 | Fhtagn! | 38.00% | ~515 |
-| Bookworm | 37.00% | ~501 |
+| Bookworm | 37.00% | ~502 |
 | Going Once... | 36.00% | ~488 |
 | Let Me Be Frank | 34.00% | ~461 |
 | No Stone Unturned | 32.00% | ~434 |
 | Brain Food | 31.00% | ~420 |
-| Read It And Weep | 19.00% | ~257 |
+| Read It And Weep | 19.00% | ~258 |
 | Curiosity Killed The Cat | 18.00% | ~244 |
 | Big Breakthrough | 12.00% | ~163 |
 | Reawakened | 3.00% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,355 (Ranked 268)  
+Progressed: 1,356 (Ranked 268)  
 Completed: 38 (2.80%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 38 (2.80%) (Ranked 117)
 | 2023-12-27 | 1,336 | 38 |
 | 2023-12-28 | 1,340 | 38 |
 | 2023-12-29 | 1,347 | 38 |
-| 2023-12-30 | 1,355 | 38 |
+| 2023-12-30 | 1,356 | 38 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

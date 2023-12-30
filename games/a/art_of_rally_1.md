@@ -6,51 +6,51 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 79.00% | ~286,774 |
-| good drivers have dead flies on the side windows | 32.00% | ~116,162 |
-| brail | 26.00% | ~94,381 |
-| keep it tidy | 25.00% | ~90,751 |
-| car wash | 23.00% | ~83,491 |
-| the artist | 23.00% | ~83,491 |
-| podium | 20.00% | ~72,601 |
-| medium attack | 17.00% | ~61,711 |
-| bicycle race | 6.00% | ~21,780 |
-| grocery-getter | 5.00% | ~18,150 |
-| autopilot | 4.00% | ~14,520 |
-| where is the stage? | 3.00% | ~10,890 |
-| night ride | 3.00% | ~10,890 |
-| snorkel | 3.00% | ~10,890 |
-| food tour: pasta | 3.00% | ~10,890 |
-| perkele | 2.00% | ~7,260 |
-| rwd only | 2.00% | ~7,260 |
-| if in doubt, flat out! | 2.00% | ~7,260 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~7,260 |
-| to finish first, first you must finish | 1.00% | ~3,630 |
-| espresso | 1.00% | ~3,630 |
-| turbo | 1.00% | ~3,630 |
-| in like a lamb, out like a lion | 1.00% | ~3,630 |
-| mittens | 1.00% | ~3,630 |
-| food tour: pretzel | 1.00% | ~3,630 |
-| monster | 0.70% | ~2,541 |
-| eurobeat | 0.60% | ~2,178 |
-| viking | 0.50% | ~1,815 |
-| group b | 0.50% | ~1,815 |
-| oktoberfest | 0.40% | ~1,452 |
-| parallel universe | 0.40% | ~1,452 |
-| maximum attack | 0.40% | ~1,452 |
-| samir | 0.40% | ~1,452 |
-| master of rally | 0.30% | ~1,089 |
-| antilag | 0.30% | ~1,089 |
-| real roads, real fast | 0.30% | ~1,089 |
-| parking lot | 0.20% | ~726 |
-| comfy seats | 0.20% | ~726 |
+| light attack | 79.00% | ~287,023 |
+| good drivers have dead flies on the side windows | 32.00% | ~116,262 |
+| brail | 26.00% | ~94,463 |
+| keep it tidy | 25.00% | ~90,830 |
+| car wash | 23.00% | ~83,564 |
+| the artist | 23.00% | ~83,564 |
+| podium | 20.00% | ~72,664 |
+| medium attack | 17.00% | ~61,764 |
+| bicycle race | 6.00% | ~21,799 |
+| grocery-getter | 5.00% | ~18,166 |
+| autopilot | 4.00% | ~14,533 |
+| where is the stage? | 3.00% | ~10,900 |
+| night ride | 3.00% | ~10,900 |
+| snorkel | 3.00% | ~10,900 |
+| food tour: pasta | 3.00% | ~10,900 |
+| perkele | 2.00% | ~7,266 |
+| rwd only | 2.00% | ~7,266 |
+| if in doubt, flat out! | 2.00% | ~7,266 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~7,266 |
+| to finish first, first you must finish | 1.00% | ~3,633 |
+| espresso | 1.00% | ~3,633 |
+| turbo | 1.00% | ~3,633 |
+| in like a lamb, out like a lion | 1.00% | ~3,633 |
+| mittens | 1.00% | ~3,633 |
+| food tour: pretzel | 1.00% | ~3,633 |
+| monster | 0.70% | ~2,543 |
+| eurobeat | 0.60% | ~2,180 |
+| viking | 0.50% | ~1,817 |
+| group b | 0.50% | ~1,817 |
+| oktoberfest | 0.40% | ~1,453 |
+| parallel universe | 0.40% | ~1,453 |
+| maximum attack | 0.40% | ~1,453 |
+| samir | 0.40% | ~1,453 |
+| master of rally | 0.30% | ~1,090 |
+| antilag | 0.30% | ~1,090 |
+| real roads, real fast | 0.30% | ~1,090 |
+| parking lot | 0.20% | ~727 |
+| comfy seats | 0.20% | ~727 |
 | if everything seems under control, you're not going fast enough | 0.10% | ~363 |
 | absolute drift | 0.10% | ~363 |
 | barely keeping it together | 0.10% | ~363 |
 | you're here for a good time, not a long time | 0.10% | ~363 |
 | simulator | 0.10% | ~363 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363,005 (Ranked 51)  
+Progressed: 363,320 (Ranked 51)  
 Completed: 11 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,14 +234,14 @@ Completed: 11 (0.00%) (Ranked 391)
 | 2023-12-27 | 336,606 | 11 |
 | 2023-12-28 | 345,968 | 11 |
 | 2023-12-29 | 354,902 | 11 |
-| 2023-12-30 | 363,005 | 11 |
+| 2023-12-30 | 363,320 | 11 |
 ## Awards
-Max (Quickly Understood Controls): 28  (Ranked 524)  
-Sum: 98 (Ranked 463)  
-Diff (max vs sum): 61  
+Max (Quickly Understood Controls): 30  (Ranked 513)  
+Sum: 100 (Ranked 462)  
+Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 28 |
+| This game has Quickly Understood Controls | 30 |
 | This game is Great for Beginners | 28 |
 | This game is Relaxing | 22 |
 | This game is Highly Recommended | 20 |
@@ -292,4 +292,4 @@ Diff (max vs sum): 61
 | 2023-12-27 | 4.68 | - | 22 | 22 |
 | 2023-12-28 | 4.67 | - | 22 | 22 |
 | 2023-12-29 | 4.66 | - | 28 | 78 |
-| 2023-12-30 | 4.66 | - | 28 | 98 |
+| 2023-12-30 | 4.66 | - | 30 | 100 |

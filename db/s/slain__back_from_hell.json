@@ -2,7 +2,7 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 880,
+  "Ranking_Rating": 881,
   "Ranking_Popularity": 343,
   "Ranking_PopularitySum": 447,
   "Ranking_EOS_Progress": 129,
@@ -250,9 +250,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 43137,
+  "EOS_Progressed": 43139,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 527,
+  "EOS_NewPlayers": 525,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -27865,6 +27865,11 @@
       "Time": "2023-12-30T21:08:17.5883649+00:00",
       "NumProgressed": 43137,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-30T22:07:12.4845685+00:00",
+      "NumProgressed": 43139,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -28020,7 +28025,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1726
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -28107,7 +28112,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 43137,
+      "Progressed": 43139,
       "Completed": 30
     }
   ],
@@ -28115,8 +28120,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-18T19:58:40.3413682+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:08:17.5883643+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:07:12.4845681+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:31.7001832+00:00",
-  "LastUpdate_Ratings": "2023-12-30T20:59:10.6894814+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:08:17.588533+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:58:37.983475+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:07:12.4847065+00:00"
 }

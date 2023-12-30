@@ -14,19 +14,19 @@
 | Sign of weakness | 39.00% | ~92 |
 | Refuse to look | 35.00% | ~82 |
 | Face your fears | 29.00% | ~68 |
-| Finished it | 26.00% | ~61 |
+| Finished it | 27.00% | ~63 |
 | Whispers long forgotten | 16.00% | ~38 |
-| A Slice of Life | 11.00% | ~26 |
+| A Slice of Life | 12.00% | ~28 |
+| The art of movement | 12.00% | ~28 |
 | Debut | 11.00% | ~26 |
 | First steps | 11.00% | ~26 |
 | Sound Bite | 11.00% | ~26 |
+| Lights! Camera! Action! | 11.00% | ~26 |
 | Playtime | 11.00% | ~26 |
-| The art of movement | 11.00% | ~26 |
 | The tragedy unfolds | 11.00% | ~26 |
 | Tough conversation | 11.00% | ~26 |
 | A new way | 10.00% | ~24 |
 | Another perspective | 10.00% | ~24 |
-| Lights! Camera! Action! | 10.00% | ~24 |
 | Breaking free | 9.00% | ~21 |
 | True Reflection | 7.00% | ~16 |
 | Casting Finished | 6.00% | ~14 |

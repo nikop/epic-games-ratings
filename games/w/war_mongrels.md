@@ -1,21 +1,21 @@
 # War Mongrels
 [Store](https://store.epicgames.com/en-US/p/war-mongrels)  
 [View Rawdata](../../db/w/war_mongrels.json)  
-Rating: 4.37 (Ranked 795)  
+Rating: 4.37 (Ranked 796)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 68.00% | ~503 |
 | Cowardice | 61.00% | ~451 |
-| NO LIFE IS WORTH SAVING... | 45.00% | ~333 |
-| The Breaking Point | 44.00% | ~325 |
+| The Breaking Point | 44.00% | ~326 |
+| NO LIFE IS WORTH SAVING... | 44.00% | ~326 |
 | Eat Lead! | 43.00% | ~318 |
 | Here Comes the Boom | 40.00% | ~296 |
-| Prospector | 39.00% | ~288 |
+| Prospector | 39.00% | ~289 |
 | Sniper Wolf | 38.00% | ~281 |
-| The Motivation | 37.00% | ~273 |
 | Treasure Hunter | 36.00% | ~266 |
+| The Motivation | 36.00% | ~266 |
 | Heroism | 35.00% | ~259 |
 | Collectibles of Chapter I | 33.00% | ~244 |
 | Missing in Action | 33.00% | ~244 |
@@ -25,17 +25,17 @@ Number of Ratings: 34  (23.09.2022)
 | The Horror | 28.00% | ~207 |
 | The Difference | 25.00% | ~185 |
 | It's Just an Accident | 25.00% | ~185 |
-| Vengeance | 24.00% | ~177 |
+| Vengeance | 24.00% | ~178 |
 | Collectibles of Chapter II | 22.00% | ~163 |
 | Broken Hopes | 22.00% | ~163 |
 | Bullseye! | 21.00% | ~155 |
-| Sorrow | 19.00% | ~140 |
+| Sorrow | 19.00% | ~141 |
 | Atonement | 17.00% | ~126 |
 | Helping Hand | 17.00% | ~126 |
 | Food Massacre | 17.00% | ~126 |
 | Without a Second Thought | 15.00% | ~111 |
-| Collectibles of Chapter III | 14.00% | ~103 |
-| Collectibles of Chapter IV | 14.00% | ~103 |
+| Collectibles of Chapter III | 14.00% | ~104 |
+| Collectibles of Chapter IV | 14.00% | ~104 |
 | Tiptoe Around | 11.00% | ~81 |
 | Collectibles of Chapter V | 10.00% | ~74 |
 | Such is War! | 8.00% | ~59 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.10% | ~1 |
 | Challenges of Chapter XII | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 739 (Ranked 308)  
+Progressed: 740 (Ranked 308)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 725 | 0 |
 | 2023-12-28 | 730 | 0 |
 | 2023-12-29 | 733 | 0 |
-| 2023-12-30 | 739 | 0 |
+| 2023-12-30 | 740 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

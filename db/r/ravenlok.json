@@ -2,9 +2,9 @@
   "ID": "8c32c11719374c049cac0b07d2a338a0",
   "Name": "Ravenlok",
   "ProductSlug": "ravenlok-bcabbc",
-  "Ranking_EOS_Progress": 279,
+  "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 440,
+  "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -3514,9 +3514,9 @@
       "ID": "37",
       "SetID": "d0g98p",
       "Name": "Stronger!",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 454
+      "UsersEstimate": 465
     },
     {
       "ID": "38",
@@ -3683,8 +3683,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:07:38.3521393+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:06:36.069213+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:14.0059251+00:00",
-  "LastUpdate_Ratings": "2023-12-30T21:00:21.2071174+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:07:38.3521885+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:59:46.1425399+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:06:36.0692551+00:00"
 }

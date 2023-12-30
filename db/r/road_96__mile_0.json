@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 591,
+  "EOS_Progressed": 592,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
@@ -2127,6 +2127,11 @@
       "Time": "2023-12-30T21:11:36.3994469+00:00",
       "NumProgressed": 591,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-30T22:10:47.1681509+00:00",
+      "NumProgressed": 592,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -2146,7 +2151,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 40,
       "XP": 80,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "completeact3",
@@ -2154,7 +2159,7 @@
       "Name": "On the Road",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "findalltapes",
@@ -2234,7 +2239,7 @@
       "Name": "The Eye of the Storm",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "scoreminrankrv1",
@@ -2242,7 +2247,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "scoreminrankrv2",
@@ -2257,7 +2262,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 591,
+      "Progressed": 592,
       "Completed": 2
     }
   ],
@@ -2265,8 +2270,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:11:36.3994466+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:10:47.1681505+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:13.373144+00:00",
-  "LastUpdate_Ratings": "2023-12-30T20:58:44.9935931+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:11:36.3994875+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:58:13.4769547+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:10:47.1681758+00:00"
 }

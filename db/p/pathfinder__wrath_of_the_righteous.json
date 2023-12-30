@@ -4677,10 +4677,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7178,
       "NumberOfAwardsMax": 1774
+    },
+    {
+      "Time": "2023-12-30T22:00:10.0735721+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7179,
+      "NumberOfAwardsMax": 1774
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7178,
+  "NumberOfAwards": 7179,
   "NumberOfAwardsMax": 1774,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4718,7 +4724,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 655
+      "Count": 656
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4751,9 +4757,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12897,
+  "EOS_Progressed": 12898,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18481,6 +18487,11 @@
       "Time": "2023-12-30T21:11:49.9854185+00:00",
       "NumProgressed": 12897,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T22:10:59.8264773+00:00",
+      "NumProgressed": 12898,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18500,7 +18511,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2321
+      "UsersEstimate": 2322
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -18860,7 +18871,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2450
+      "UsersEstimate": 2451
     },
     {
       "ID": "49_Flame",
@@ -19419,21 +19430,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11679,
+      "Progressed": 11680,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12897,
+      "Progressed": 12898,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-12-30T13:02:00.9873156+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:11:49.9854182+00:00",
+  "LastChanged": "2023-12-30T22:00:10.073572+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:10:59.8264769+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:01.2970884+00:00",
-  "LastUpdate_Ratings": "2023-12-30T21:00:45.9965878+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:11:49.9855889+00:00"
+  "LastUpdate_Ratings": "2023-12-30T22:00:10.0735724+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:10:59.8266734+00:00"
 }

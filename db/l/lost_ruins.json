@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 634,
+  "EOS_Progressed": 635,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1674,6 +1674,11 @@
       "Time": "2023-12-30T17:10:06.0686246+00:00",
       "NumProgressed": 634,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T22:10:54.5088232+00:00",
+      "NumProgressed": 635,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1701,7 +1706,7 @@
       "Name": "Artifact Collector",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "Assassin",
@@ -1717,15 +1722,15 @@
       "Name": "Boss Killer",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "BugHunter",
       "SetID": "82505mn",
       "Name": "Bug Hunter",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 146
     },
     {
       "ID": "Cryomancer",
@@ -1747,17 +1752,17 @@
       "ID": "GhostBuster",
       "SetID": "82505mn",
       "Name": "Ghost Buster",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 89
     },
     {
       "ID": "Gladiator",
       "SetID": "82505mn",
       "Name": "Gladiator",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 70
     },
     {
       "ID": "GoblinTales",
@@ -1805,7 +1810,7 @@
       "Name": "Inquisitor",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "Librarian",
@@ -1819,9 +1824,9 @@
       "ID": "Lumberjack",
       "SetID": "82505mn",
       "Name": "Lumberjack",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 70
     },
     {
       "ID": "Marksman",
@@ -1883,9 +1888,9 @@
       "ID": "Reincarnation",
       "SetID": "82505mn",
       "Name": "Reincarnation",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 89
     },
     {
       "ID": "Roughneck",
@@ -1981,7 +1986,7 @@
       "Name": "Troubleshooter",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "WeaponMaster",
@@ -2004,7 +2009,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 634,
+      "Progressed": 635,
       "Completed": 1
     }
   ],
@@ -2012,8 +2017,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:11:44.3379432+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:10:54.508823+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:40.3461076+00:00",
-  "LastUpdate_Ratings": "2023-12-30T21:01:32.8811841+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:11:44.3379774+00:00"
+  "LastUpdate_Ratings": "2023-12-30T22:00:54.7617749+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:10:54.5088524+00:00"
 }

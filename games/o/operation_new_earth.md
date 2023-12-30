@@ -1,7 +1,7 @@
 # Operation New Earth
 [Store](https://store.epicgames.com/en-US/p/operation-new-earth-1d27c4)  
 [View Rawdata](../../db/o/operation_new_earth.json)  
-Rating: 3.28 (Ranked 1,082)  
+Rating: 3.28 (Ranked 1,083)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,9 +11,9 @@ Rating: 3.28 (Ranked 1,082)
 | Corporal | 15.00% | ~320 |
 | Covert Operative | 12.00% | ~256 |
 | Sergeant | 11.00% | ~235 |
-| Lieutenant | 10.00% | ~213 |
-| Getting Deployment | 10.00% | ~213 |
-| On Target | 10.00% | ~213 |
+| Lieutenant | 10.00% | ~214 |
+| Getting Deployment | 10.00% | ~214 |
+| On Target | 10.00% | ~214 |
 | Keeping Busy | 9.00% | ~192 |
 | Stocking Up | 9.00% | ~192 |
 | Infantry Reporting | 9.00% | ~192 |
@@ -44,7 +44,7 @@ Rating: 3.28 (Ranked 1,082)
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,134 (Ranked 238)  
+Progressed: 2,135 (Ranked 238)  
 Completed: 1 (0.05%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 1 (0.05%) (Ranked 335)
 | 2023-12-27 | 2,101 | 1 |
 | 2023-12-28 | 2,109 | 1 |
 | 2023-12-29 | 2,122 | 1 |
-| 2023-12-30 | 2,134 | 1 |
+| 2023-12-30 | 2,135 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

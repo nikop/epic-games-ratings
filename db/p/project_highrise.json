@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 465,
+  "EOS_Progressed": 467,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1485,6 +1485,11 @@
       "Time": "2023-12-30T18:04:08.5671139+00:00",
       "NumProgressed": 465,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T22:04:51.2561791+00:00",
+      "NumProgressed": 467,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1518,9 +1523,9 @@
       "ID": "ach_apartments_2",
       "SetID": "b8gh1fi",
       "Name": "Penthouse in the Sky",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 19
     },
     {
       "ID": "ach_area",
@@ -1544,7 +1549,7 @@
       "Name": "Artfully Done",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ach_art_large",
@@ -1584,7 +1589,7 @@
       "Name": "Campaign Launch",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ach_campaigns_1",
@@ -1622,9 +1627,9 @@
       "ID": "ach_cash",
       "SetID": "b8gh1fi",
       "Name": "Baron of Business",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 19
     },
     {
       "ID": "ach_consultant",
@@ -1632,7 +1637,7 @@
       "Name": "Need a Consult",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ach_consultant_1",
@@ -1640,7 +1645,7 @@
       "Name": "Upgrade Unlock",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ach_consultants_a",
@@ -1710,9 +1715,9 @@
       "ID": "ach_drones",
       "SetID": "b8gh1fi",
       "Name": "Plebs Are Needed",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_ep1_casino",
@@ -1800,7 +1805,7 @@
       "Name": "Starting Skyward",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 234
     },
     {
       "ID": "ach_floors_1",
@@ -1888,7 +1893,7 @@
       "Name": "28 Days Later",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ach_office_1",
@@ -1896,7 +1901,7 @@
       "Name": "It\u0027s Technical",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ach_office_2",
@@ -1920,7 +1925,7 @@
       "Name": "People Mover",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ach_pop_2",
@@ -1934,9 +1939,9 @@
       "ID": "ach_prestige_1",
       "SetID": "b8gh1fi",
       "Name": "Your Prestige is Rising",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 103
     },
     {
       "ID": "ach_prestige_2",
@@ -1944,7 +1949,7 @@
       "Name": "Established Fame",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ach_prestige_3",
@@ -1960,7 +1965,7 @@
       "Name": "In the Black",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 262
     },
     {
       "ID": "ach_profit_1",
@@ -2030,9 +2035,9 @@
       "ID": "ach_restaurants_5",
       "SetID": "b8gh1fi",
       "Name": "Starred Dining",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 61
     },
     {
       "ID": "ach_retail_1",
@@ -2040,7 +2045,7 @@
       "Name": "Retail Revenue",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ach_retail_2",
@@ -2102,9 +2107,9 @@
       "ID": "ach_scenarios_2",
       "SetID": "b8gh1fi",
       "Name": "Scenario Success",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_scenarios_3",
@@ -2190,16 +2195,16 @@
       "ID": "ach_visitors_1",
       "SetID": "b8gh1fi",
       "Name": "Destination Destiny",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 140
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 465,
+      "Progressed": 467,
       "Completed": 0
     }
   ],
@@ -2207,8 +2212,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:05:46.2480706+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:04:51.2561787+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.0953028+00:00",
-  "LastUpdate_Ratings": "2023-12-30T20:57:32.9006875+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:05:46.248163+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:57:06.5158135+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:04:51.2562518+00:00"
 }

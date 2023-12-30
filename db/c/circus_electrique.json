@@ -2,12 +2,12 @@
   "ID": "396a808f269241aba0fe2ad322ebd6d5",
   "Name": "Circus Electrique",
   "ProductSlug": "circus-electrique",
-  "Ranking_Rating": 972,
+  "Ranking_Rating": 973,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 477,
+  "Ranking_EOS_NewPlayers": 461,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 497,
+  "EOS_Progressed": 498,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -612,6 +612,11 @@
       "Time": "2023-12-28T06:05:17.7231997+00:00",
       "NumProgressed": 497,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T22:08:37.184637+00:00",
+      "NumProgressed": 498,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -639,7 +644,7 @@
       "Name": "Lion Tamer",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -711,7 +716,7 @@
       "Name": "Fan Service",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -751,7 +756,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -959,7 +964,7 @@
       "Name": "Amazing!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -1022,7 +1027,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 497,
+      "Progressed": 498,
       "Completed": 1
     }
   ],
@@ -1030,8 +1035,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:09:16.5270139+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:08:37.1846365+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:04.8817708+00:00",
-  "LastUpdate_Ratings": "2023-12-30T20:59:39.1796638+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:09:16.5270814+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:59:04.9457072+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:08:37.1846719+00:00"
 }

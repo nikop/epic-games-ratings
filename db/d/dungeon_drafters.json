@@ -2,7 +2,7 @@
   "ID": "4570fd48bd25472b87e028bbab19c6e8",
   "Name": "Dungeon Drafters",
   "ProductSlug": "dungeon-drafters-82c40a",
-  "Ranking_EOS_Progress": 464,
+  "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 155,
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 128,
+  "EOS_Progressed": 129,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
@@ -626,6 +626,11 @@
       "Time": "2023-12-30T20:05:37.5104946+00:00",
       "NumProgressed": 128,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T22:06:51.9069029+00:00",
+      "NumProgressed": 129,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -651,9 +656,9 @@
       "ID": "InnkeeperQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Treasure Hunting",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 48
     },
     {
       "ID": "InnkeeperQuestlineLast",
@@ -669,7 +674,7 @@
       "Name": "Dungeon Mastery",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "LW_complete",
@@ -723,9 +728,9 @@
       "ID": "MasterRaiderQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Friend!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 37
     },
     {
       "ID": "MasterRaiderQuestlineLast",
@@ -749,7 +754,7 @@
       "Name": "Setting Off",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "MasterTravelerQuestlineLast",
@@ -843,9 +848,9 @@
       "ID": "bought_rune_clear",
       "SetID": "3b8n56h",
       "Name": "Clear as Water",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 34
     },
     {
       "ID": "cards_discovered_complete",
@@ -956,7 +961,7 @@
     {
       "ID": "3b8n56h",
       "IsBase": true,
-      "Progressed": 128,
+      "Progressed": 129,
       "Completed": 0
     }
   ],
@@ -964,8 +969,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:07:55.7248303+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:06:51.9069025+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:40.4890913+00:00",
-  "LastUpdate_Ratings": "2023-12-30T21:02:27.6810004+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:07:55.7248583+00:00"
+  "LastUpdate_Ratings": "2023-12-30T22:01:45.6371027+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:06:51.9069289+00:00"
 }

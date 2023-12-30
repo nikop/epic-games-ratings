@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 1015,
+  "Ranking_Rating": 1016,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 68,
@@ -9199,9 +9199,9 @@
       "Count": 3614
     }
   ],
-  "EOS_Progressed": 247850,
+  "EOS_Progressed": 247886,
   "EOS_Completed": 2578,
-  "EOS_NewPlayers": 3991,
+  "EOS_NewPlayers": 4009,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -37979,6 +37979,11 @@
       "Time": "2023-12-30T21:11:54.0008197+00:00",
       "NumProgressed": 247850,
       "NumCompleted": 2578
+    },
+    {
+      "Time": "2023-12-30T22:11:03.5745079+00:00",
+      "NumProgressed": 247886,
+      "NumCompleted": 2578
     }
   ],
   "TotalAchievements": 546,
@@ -37990,7 +37995,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4957
+      "UsersEstimate": 4958
     },
     {
       "ID": "objective_completed_10",
@@ -38854,7 +38859,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "objective_completed_1203",
@@ -39662,7 +39667,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2478
+      "UsersEstimate": 2479
     },
     {
       "ID": "objective_completed_34",
@@ -39854,7 +39859,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "objective_completed_40",
@@ -42310,7 +42315,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "objective_completed_673",
@@ -42318,7 +42323,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "objective_completed_678",
@@ -42326,7 +42331,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "objective_completed_683",
@@ -42334,7 +42339,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "objective_completed_860",
@@ -42342,7 +42347,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "objective_completed_865",
@@ -42357,21 +42362,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 214124,
+      "Progressed": 214160,
       "Completed": 4102
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 247850,
+      "Progressed": 247886,
       "Completed": 2578
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-30T21:02:12.1889786+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:11:54.0008191+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:11:03.5745076+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-30T21:02:12.1889791+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:11:54.0033052+00:00"
+  "LastUpdate_Ratings": "2023-12-30T22:01:30.8677115+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:11:03.5770758+00:00"
 }

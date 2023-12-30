@@ -23,7 +23,7 @@
 | Fool's Gold | 4.00% | ~4 |
 | Escape Artist | 3.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100 (Ranked 487)  
+Progressed: 100 (Ranked 488)  
 Completed: 3 (3.00%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |

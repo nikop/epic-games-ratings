@@ -80,6 +80,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.20% | ~32 |
 | Victorious | 0.20% | ~32 |
 | Good Difficulty | 0.20% | ~32 |
+| Strong Difficulty | 0.20% | ~32 |
 | Artisans | 0.20% | ~32 |
 | Champions | 0.20% | ~32 |
 | Landowners | 0.20% | ~32 |
@@ -158,7 +159,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Difficulty | 0.10% | ~16 |
 | Magnificent Difficulty | 0.10% | ~16 |
 | Noble Difficulty | 0.10% | ~16 |
-| Strong Difficulty | 0.10% | ~16 |
 | Elephant in Elephantine | 0.10% | ~16 |
 | Et tu Brutus? | 0.10% | ~16 |
 | Event Level High | 0.10% | ~16 |
@@ -366,7 +366,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 16,036 (Ranked 165)  
-Completed: 5 (0.03%) (Ranked 351)  
+Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "outbreak-the-nightmare-chronicles-reinvestigated-b631d4",
   "Ranking_EOS_Progress": 602,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 528,
+  "Ranking_EOS_NewPlayers": 530,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-13T14:00:00+00:00",
@@ -86,9 +86,9 @@
       "ID": "CLEVER_GIRL_ACH",
       "SetID": "2gpm4c0",
       "Name": "Clever Girl",
-      "Percentage": 33,
+      "Percentage": 38,
       "XP": 70,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "DESTROYING_THE_HORDE_ACH",
@@ -110,9 +110,9 @@
       "ID": "HOLD_THE_LINE_ACH",
       "SetID": "2gpm4c0",
       "Name": "Hold the Line!",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KEEP_FIRING_ACH",
@@ -164,8 +164,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-18T22:15:21.113084+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:08:00.8852741+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:06:56.7534494+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:13.3959131+00:00",
-  "LastUpdate_Ratings": "2023-12-30T21:00:05.7504802+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:08:00.8852825+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:59:31.3185368+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:06:56.7534572+00:00"
 }

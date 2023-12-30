@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Inquisitor | 36.00% | ~228 |
+| Inquisitor | 36.00% | ~229 |
 | Goblin Tales | 29.00% | ~184 |
-| Bug Hunter | 24.00% | ~152 |
-| Boss Killer | 22.00% | ~139 |
+| Bug Hunter | 23.00% | ~146 |
+| Boss Killer | 22.00% | ~140 |
 | The Fallen | 20.00% | ~127 |
-| Artifact Collector | 19.00% | ~120 |
+| Artifact Collector | 19.00% | ~121 |
 | Trap Master | 18.00% | ~114 |
-| Ghost Buster | 15.00% | ~95 |
-| Reincarnation | 15.00% | ~95 |
+| Ghost Buster | 14.00% | ~89 |
 | Iconoclasm | 14.00% | ~89 |
-| Gladiator | 12.00% | ~76 |
+| Reincarnation | 14.00% | ~89 |
 | Librarian | 12.00% | ~76 |
-| Lumberjack | 12.00% | ~76 |
 | Orcs Must Die! | 12.00% | ~76 |
 | The End | 12.00% | ~76 |
-| Troubleshooter | 10.00% | ~63 |
+| Gladiator | 11.00% | ~70 |
+| Lumberjack | 11.00% | ~70 |
+| Troubleshooter | 10.00% | ~64 |
 | Money Swag | 8.00% | ~51 |
 | Oops | 7.00% | ~44 |
 | Shield Crusher | 7.00% | ~44 |
@@ -45,7 +45,7 @@
 | Cryomancer | 0.30% | ~2 |
 | Hardboiled | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 634 (Ranked 323)  
+Progressed: 635 (Ranked 323)  
 Completed: 1 (0.16%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 1 (0.16%) (Ranked 283)
 | 2023-12-27 | 622 | 1 |
 | 2023-12-28 | 627 | 1 |
 | 2023-12-29 | 630 | 1 |
-| 2023-12-30 | 634 | 1 |
+| 2023-12-30 | 635 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

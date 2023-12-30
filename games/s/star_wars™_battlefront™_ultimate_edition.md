@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~2,073 |
-| Off to a good start | 62.00% | ~1,477 |
-| Do... or do not. There is no try | 52.00% | ~1,239 |
+| New Recruit | 87.00% | ~2,075 |
+| Off to a good start | 62.00% | ~1,479 |
+| Do... or do not. There is no try | 52.00% | ~1,240 |
 | A good blaster at your side | 26.00% | ~620 |
 | I suggest a new strategy | 18.00% | ~429 |
-| Great shot, kid! | 16.00% | ~381 |
-| Scrap collector | 15.00% | ~357 |
-| All right, I'll give it a try | 15.00% | ~357 |
+| Great shot, kid! | 16.00% | ~382 |
+| Scrap collector | 15.00% | ~358 |
+| All right, I'll give it a try | 15.00% | ~358 |
 | Shoot first | 13.00% | ~310 |
 | The power of the Force | 12.00% | ~286 |
 | Collector | 12.00% | ~286 |
@@ -28,11 +28,11 @@
 | Distinguished | 4.00% | ~95 |
 | A tremor in the Force | 4.00% | ~95 |
 | Support the troops | 4.00% | ~95 |
-| On the ball | 3.00% | ~71 |
-| Safety ain't the point of a joyride | 3.00% | ~71 |
-| Not bad for a little furball | 3.00% | ~71 |
-| Patience you must have | 3.00% | ~71 |
-| Don't underestimate the Force | 3.00% | ~71 |
+| On the ball | 3.00% | ~72 |
+| Safety ain't the point of a joyride | 3.00% | ~72 |
+| Not bad for a little furball | 3.00% | ~72 |
+| Patience you must have | 3.00% | ~72 |
+| Don't underestimate the Force | 3.00% | ~72 |
 | The Force is strong with this one | 2.00% | ~48 |
 | I've been waiting for you | 2.00% | ~48 |
 | When 900 years old you reach... | 2.00% | ~48 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,383 (Ranked 232)  
+Progressed: 2,385 (Ranked 232)  
 Completed: 1 (0.04%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 1 (0.04%) (Ranked 345)
 | 2023-12-27 | 2,258 | 1 |
 | 2023-12-28 | 2,299 | 1 |
 | 2023-12-29 | 2,337 | 1 |
-| 2023-12-30 | 2,383 | 1 |
+| 2023-12-30 | 2,385 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

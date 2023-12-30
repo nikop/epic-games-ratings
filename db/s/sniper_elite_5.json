@@ -2,8 +2,8 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 685,
-  "Ranking_Popularity": 524,
+  "Ranking_Rating": 686,
+  "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 261,
@@ -649,9 +649,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4159,
+  "EOS_Progressed": 4160,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9174,6 +9174,11 @@
       "Time": "2023-12-30T19:11:52.2284937+00:00",
       "NumProgressed": 4159,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-30T22:09:59.2610935+00:00",
+      "NumProgressed": 4160,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9393,7 +9398,7 @@
       "Name": "Lord of War",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -9441,7 +9446,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -9449,7 +9454,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -9752,13 +9757,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4110,
+      "Progressed": 4111,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4159,
+      "Progressed": 4160,
       "Completed": 11
     }
   ],
@@ -9766,8 +9771,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-20T09:59:10.4485665+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:10:44.4729871+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:09:59.2610931+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:41.6601563+00:00",
-  "LastUpdate_Ratings": "2023-12-30T21:03:35.1266008+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:10:44.4730853+00:00"
+  "LastUpdate_Ratings": "2023-12-30T22:02:50.5291705+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:09:59.2611911+00:00"
 }

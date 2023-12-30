@@ -6,7 +6,7 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 314,
-  "Ranking_EOS_Completed": 100,
+  "Ranking_EOS_Completed": 99,
   "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
@@ -2098,9 +2098,9 @@
       "ID": "ach_main03demon_completed",
       "SetID": "4hg22ll",
       "Name": "The Hellwoods",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 518
     },
     {
       "ID": "ach_main03demon_doors",
@@ -2226,9 +2226,9 @@
       "ID": "ach_main08sacrifice_completed",
       "SetID": "4hg22ll",
       "Name": "The Big Eaty",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 363
     },
     {
       "ID": "ach_main08sacrifice_gorguattack",
@@ -2394,9 +2394,9 @@
       "ID": "ach_main15drill_completed",
       "SetID": "4hg22ll",
       "Name": "The Finitude Drill",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 222
     },
     {
       "ID": "ach_main15drill_sabotage",
@@ -2547,8 +2547,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2023-12-28T14:01:53.0382272+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:10:10.1104261+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:09:27.5386661+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2023-12-30T20:58:43.8655433+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:10:10.1104752+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:58:12.5103006+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:09:27.538742+00:00"
 }

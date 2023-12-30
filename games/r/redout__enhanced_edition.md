@@ -1,18 +1,18 @@
 # Redout: Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/redout-enhanced-edition)  
 [View Rawdata](../../db/r/redout__enhanced_edition.json)  
-Rating: 4.49 (Ranked 630)  
+Rating: 4.49 (Ranked 631)  
 Number of Ratings: 274  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~97,703 |
-| NATURAL BORN WINNER | 33.00% | ~78,639 |
-| CALLING HOUSTON | 28.00% | ~66,724 |
-| SNEAKY SNEAKY | 22.00% | ~52,426 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~52,426 |
-| GT9STRADALE | 20.00% | ~47,660 |
-| CHALLENGER | 11.00% | ~26,213 |
+| VANGUARD | 41.00% | ~97,705 |
+| NATURAL BORN WINNER | 33.00% | ~78,641 |
+| CALLING HOUSTON | 28.00% | ~66,725 |
+| SNEAKY SNEAKY | 22.00% | ~52,427 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~52,427 |
+| GT9STRADALE | 20.00% | ~47,661 |
+| CHALLENGER | 11.00% | ~26,214 |
 | ON A ROLL | 9.00% | ~21,447 |
 | CENTAUR | 8.00% | ~19,064 |
 | FASTER THAN EVER | 8.00% | ~19,064 |
@@ -28,9 +28,9 @@ Number of Ratings: 274  (23.09.2022)
 | HARDCORE | 1.00% | ~2,383 |
 | ACE | 0.80% | ~1,906 |
 | TACTICIAN | 0.60% | ~1,430 |
-| GTX COMPETIZIONE | 0.50% | ~1,191 |
-| HIDDEN POWER | 0.50% | ~1,191 |
-| TUNING MANIAC | 0.50% | ~1,191 |
+| GTX COMPETIZIONE | 0.50% | ~1,192 |
+| HIDDEN POWER | 0.50% | ~1,192 |
+| TUNING MANIAC | 0.50% | ~1,192 |
 | DRAGOON | 0.40% | ~953 |
 | FLAWLESS | 0.40% | ~953 |
 | MARID | 0.30% | ~715 |
@@ -41,8 +41,8 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~477 |
 | ENLIGHTENED | 0.10% | ~238 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,299 (Ranked 72)  
-Completed: 49 (0.02%) (Ranked 358)  
+Progressed: 238,305 (Ranked 72)  
+Completed: 49 (0.02%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -295,7 +295,7 @@ Completed: 49 (0.02%) (Ranked 358)
 | 2023-12-27 | 238,073 | 49 |
 | 2023-12-28 | 238,135 | 49 |
 | 2023-12-29 | 238,227 | 49 |
-| 2023-12-30 | 238,299 | 49 |
+| 2023-12-30 | 238,305 | 49 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

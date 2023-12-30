@@ -2,7 +2,7 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 880,
+  "Ranking_Rating": 881,
   "Ranking_Popularity": 429,
   "Ranking_PopularitySum": 393,
   "Ranking_EOS_Progress": 52,
@@ -1018,9 +1018,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 359477,
+  "EOS_Progressed": 359481,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1383,
+  "EOS_NewPlayers": 1373,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30048,6 +30048,11 @@
       "Time": "2023-12-30T21:08:32.5268256+00:00",
       "NumProgressed": 359477,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-30T22:07:26.4694172+00:00",
+      "NumProgressed": 359481,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -30075,7 +30080,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43137
+      "UsersEstimate": 43138
     },
     {
       "ID": "ach004",
@@ -30115,7 +30120,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43137
+      "UsersEstimate": 43138
     },
     {
       "ID": "ach009",
@@ -30187,7 +30192,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 46732
+      "UsersEstimate": 46733
     },
     {
       "ID": "ach018",
@@ -30267,7 +30272,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 165359
+      "UsersEstimate": 165361
     },
     {
       "ID": "ach028",
@@ -30283,7 +30288,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39542
+      "UsersEstimate": 39543
     },
     {
       "ID": "ach030",
@@ -30395,7 +30400,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 25163
+      "UsersEstimate": 25164
     },
     {
       "ID": "ach044",
@@ -30411,7 +30416,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 46732
+      "UsersEstimate": 46733
     },
     {
       "ID": "ach046",
@@ -30419,7 +30424,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 25163
+      "UsersEstimate": 25164
     },
     {
       "ID": "ach047",
@@ -30459,7 +30464,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39542
+      "UsersEstimate": 39543
     },
     {
       "ID": "ach052",
@@ -30587,7 +30592,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 57516
+      "UsersEstimate": 57517
     },
     {
       "ID": "ach069",
@@ -30667,7 +30672,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 25163
+      "UsersEstimate": 25164
     },
     {
       "ID": "ach079",
@@ -30698,7 +30703,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 359477,
+      "Progressed": 359481,
       "Completed": 7
     }
   ],
@@ -30706,8 +30711,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-12-30T19:00:43.4260573+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:08:32.5268252+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:07:26.4694168+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:34.5692536+00:00",
-  "LastUpdate_Ratings": "2023-12-30T20:59:36.8567412+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:08:32.5270232+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:59:02.712662+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:07:26.4695954+00:00"
 }

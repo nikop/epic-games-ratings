@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44667,
+  "EOS_Progressed": 44668,
   "EOS_Completed": 247,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -19977,6 +19977,11 @@
       "Time": "2023-12-30T20:03:36.0070003+00:00",
       "NumProgressed": 44667,
       "NumCompleted": 247
+    },
+    {
+      "Time": "2023-12-30T22:04:10.0060757+00:00",
+      "NumProgressed": 44668,
+      "NumCompleted": 247
     }
   ],
   "TotalAchievements": 44,
@@ -19988,7 +19993,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25460
+      "UsersEstimate": 25461
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -20012,7 +20017,7 @@
       "Name": "Burning",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7593
+      "UsersEstimate": 7594
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -20020,7 +20025,7 @@
       "Name": "Family",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6253
+      "UsersEstimate": 6254
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -20060,7 +20065,7 @@
       "Name": "War Engines",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 6253
+      "UsersEstimate": 6254
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -20164,7 +20169,7 @@
       "Name": "Soul Reaver",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 10273
+      "UsersEstimate": 10274
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -20196,7 +20201,7 @@
       "Name": "Wall Lizard",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 8933
+      "UsersEstimate": 8934
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -20220,7 +20225,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 14293
+      "UsersEstimate": 14294
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -20228,7 +20233,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 28140
+      "UsersEstimate": 28141
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -20252,7 +20257,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26800
+      "UsersEstimate": 26801
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -20260,7 +20265,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29927
+      "UsersEstimate": 29928
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -20276,7 +20281,7 @@
       "Name": "Signature Move",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6253
+      "UsersEstimate": 6254
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -20292,7 +20297,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 20100
+      "UsersEstimate": 20101
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -20324,7 +20329,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41540
+      "UsersEstimate": 41541
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -20339,7 +20344,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44667,
+      "Progressed": 44668,
       "Completed": 247
     }
   ],
@@ -20347,8 +20352,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:05:01.4357912+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:04:10.0060751+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:53.9920689+00:00",
-  "LastUpdate_Ratings": "2023-12-30T21:04:10.4870947+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:05:01.4359196+00:00"
+  "LastUpdate_Ratings": "2023-12-30T22:03:22.6578828+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:04:10.0062031+00:00"
 }

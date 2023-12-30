@@ -2,12 +2,12 @@
   "ID": "7b57136ac766477eb1e687dcd0310da5",
   "Name": "War Mongrels",
   "ProductSlug": "war-mongrels",
-  "Ranking_Rating": 795,
+  "Ranking_Rating": 796,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 739,
+  "EOS_Progressed": 740,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2625,6 +2625,11 @@
       "Time": "2023-12-30T21:11:48.3225789+00:00",
       "NumProgressed": 739,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T22:10:58.1852047+00:00",
+      "NumProgressed": 740,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2748,7 +2753,7 @@
       "Name": "Prospector",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -2780,7 +2785,7 @@
       "Name": "Collectibles of Chapter III",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_COLL_CH04",
@@ -2788,7 +2793,7 @@
       "Name": "Collectibles of Chapter IV",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_COLL_CH05",
@@ -2868,15 +2873,15 @@
       "Name": "The Breaking Point",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_FIN_CH03",
       "SetID": "1j25agn",
       "Name": "The Motivation",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH_FIN_CH04",
@@ -2924,7 +2929,7 @@
       "Name": "Vengeance",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_FIN_CH10",
@@ -2940,7 +2945,7 @@
       "Name": "Sorrow",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_FIN_CH12",
@@ -3018,9 +3023,9 @@
       "ID": "ACH_KILL_ENEMY",
       "SetID": "1j25agn",
       "Name": "NO LIFE IS WORTH SAVING...",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 333
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -3107,15 +3112,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 739,
+      "Progressed": 740,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:11:48.3225785+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:10:58.1852044+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:19.2652244+00:00",
-  "LastUpdate_Ratings": "2023-12-30T21:00:14.89751+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:11:48.3226338+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:59:39.8404192+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:10:58.185271+00:00"
 }

@@ -1,28 +1,28 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.28 (Ranked 880)  
+Rating: 4.28 (Ranked 881)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~165,359 |
-| Copacetic Coordination | 16.00% | ~57,516 |
+| Corner Clout | 46.00% | ~165,361 |
+| Copacetic Coordination | 16.00% | ~57,517 |
 | Fronting the Money | 15.00% | ~53,922 |
 | The Dawn of Automation | 14.00% | ~50,327 |
 | Extraordinary Logistics | 14.00% | ~50,327 |
-| Dirty Money | 13.00% | ~46,732 |
-| Family First | 13.00% | ~46,732 |
-| Cleaning House | 12.00% | ~43,137 |
-| Room in the Back | 12.00% | ~43,137 |
-| Beating the Heat | 11.00% | ~39,542 |
-| Booze Baron | 11.00% | ~39,542 |
+| Dirty Money | 13.00% | ~46,733 |
+| Family First | 13.00% | ~46,733 |
+| Cleaning House | 12.00% | ~43,138 |
+| Room in the Back | 12.00% | ~43,138 |
+| Beating the Heat | 11.00% | ~39,543 |
+| Booze Baron | 11.00% | ~39,543 |
 | Friends on the Force | 10.00% | ~35,948 |
 | Neighborhood Watch | 10.00% | ~35,948 |
 | Core Corps | 8.00% | ~28,758 |
 | Sizeable Stash | 8.00% | ~28,758 |
-| Street Fighter | 7.00% | ~25,163 |
-| Friendly Gestures | 7.00% | ~25,163 |
-| People Person | 7.00% | ~25,163 |
+| Street Fighter | 7.00% | ~25,164 |
+| Friendly Gestures | 7.00% | ~25,164 |
+| People Person | 7.00% | ~25,164 |
 | Liquor Lord | 6.00% | ~21,569 |
 | Safety in Numbers | 6.00% | ~21,569 |
 | Moving Experiences | 6.00% | ~21,569 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 880)
 | High Pillow | 0.10% | ~359 |
 | Station Master | 0.10% | ~359 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 359,477 (Ranked 52)  
+Progressed: 359,481 (Ranked 52)  
 Completed: 7 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 7 (0.00%) (Ranked 391)
 | 2023-12-27 | 358,887 | 7 |
 | 2023-12-28 | 359,078 | 7 |
 | 2023-12-29 | 359,297 | 7 |
-| 2023-12-30 | 359,477 | 7 |
+| 2023-12-30 | 359,481 | 7 |
 ## Awards
 Max (Great for Beginners): 57  (Ranked 429)  
 Sum: 265 (Ranked 393)  

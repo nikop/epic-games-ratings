@@ -2,7 +2,7 @@
   "ID": "d3f97f301cb746d5b6e15424edb28afc",
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
-  "Ranking_Rating": 588,
+  "Ranking_Rating": 589,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 262,
@@ -121,7 +121,7 @@
   "Tags": [],
   "EOS_Progressed": 1478,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4057,9 +4057,9 @@
       "ID": "ACH_CAR_WASH_02",
       "SetID": "5fn8ia4",
       "Name": "Car Wash Lvl. 2",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 503
+      "UsersEstimate": 517
     },
     {
       "ID": "ACH_CAR_WASH_03",
@@ -4313,9 +4313,9 @@
       "ID": "GSS_ACH_25_DENNIS",
       "SetID": "5fn8ia4",
       "Name": "Pranks? Nope!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1360
     },
     {
       "ID": "GSS_ACH_26_EXCAVATOR_RESET",
@@ -4473,9 +4473,9 @@
       "ID": "GSS_ACH_45_ORDER_PRODUCTS",
       "SetID": "5fn8ia4",
       "Name": "Products Please!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1227
     },
     {
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
@@ -4529,9 +4529,9 @@
       "ID": "GSS_ACH_52_UPGRADE_WORKSHOP_02",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 2",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 872
+      "UsersEstimate": 887
     },
     {
       "ID": "GSS_ACH_53_UPGRADE_WORKSHOP_03",
@@ -4585,9 +4585,9 @@
       "ID": "GSS_ACH_59_UPGRADE_WAREHOUSE_04",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 4",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 384
+      "UsersEstimate": 399
     },
     {
       "ID": "GSS_ACH_60_UPGRADE_WAREHOUSE_05",
@@ -4705,9 +4705,9 @@
       "ID": "GSS_ACH_74_SANDSTORM",
       "SetID": "5fn8ia4",
       "Name": "Sandstorm!",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 754
+      "UsersEstimate": 769
     },
     {
       "ID": "GSS_ACH_75_RACE_02_COMPLETE",
@@ -4769,9 +4769,9 @@
       "ID": "GSS_ACH_89_DECORATION_03",
       "SetID": "5fn8ia4",
       "Name": "Decorating A Lot",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 192
+      "UsersEstimate": 207
     }
   ],
   "AchievementSets": [
@@ -4786,8 +4786,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-30T13:03:18.5832647+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:06:12.8585222+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:05:16.0681588+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:05.7719462+00:00",
-  "LastUpdate_Ratings": "2023-12-30T20:57:34.0586969+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:06:12.8586032+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:57:07.64583+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:05:16.0682625+00:00"
 }

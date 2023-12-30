@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1531,9 +1531,9 @@
       "ID": "MeissasSavior",
       "SetID": "1jeo1g7",
       "Name": "Meissa\u0027s Savior",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 227
     },
     {
       "ID": "MindIlluminator",
@@ -1635,9 +1635,9 @@
       "ID": "SanctuaryGuardian",
       "SetID": "1jeo1g7",
       "Name": "Sanctuary Guardian",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 150
     },
     {
       "ID": "Sentinelphobic",
@@ -1970,8 +1970,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:09:43.528753+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:09:02.6681859+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:02.5351328+00:00",
-  "LastUpdate_Ratings": "2023-12-30T21:00:15.066558+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:09:43.5288382+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:59:39.863493+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:09:02.6682903+00:00"
 }

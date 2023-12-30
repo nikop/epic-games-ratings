@@ -5,21 +5,21 @@ Rating: 4.63 (Ranked 356)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 12.00% | ~787 |
-| Realm Estate | 11.00% | ~721 |
+| Secret Technique | 12.00% | ~788 |
+| Realm Estate | 11.00% | ~722 |
 | A Wonderful Discovery | 10.00% | ~656 |
 | Walls Cannot Stop Us | 10.00% | ~656 |
-| From Friends to Family | 9.00% | ~590 |
+| From Friends to Family | 9.00% | ~591 |
 | Bone Peddler | 7.00% | ~459 |
 | There Can Only Be One! | 6.00% | ~394 |
 | Full Ascension | 6.00% | ~394 |
 | Magical Synergy | 6.00% | ~394 |
+| Seat of Power | 6.00% | ~394 |
 | Stronger Together | 5.00% | ~328 |
-| Seat of Power | 5.00% | ~328 |
 | In a Liege of Your Own | 5.00% | ~328 |
 | Intimidation Tactics | 5.00% | ~328 |
 | But this one is mine | 5.00% | ~328 |
-| Valley of Wonders | 4.00% | ~262 |
+| Valley of Wonders | 4.00% | ~263 |
 | Return of the Wizard King | 3.00% | ~197 |
 | Enchanted Archipelago | 3.00% | ~197 |
 | Digging for Treasure | 3.00% | ~197 |
@@ -29,6 +29,7 @@ Rating: 4.63 (Ranked 356)
 | Impenetrable Fortress | 3.00% | ~197 |
 | Freed Lands of Manuhari | 3.00% | ~197 |
 | Arch Mage | 2.00% | ~131 |
+| The Creator | 2.00% | ~131 |
 | Crimson Caldera | 2.00% | ~131 |
 | Preparation Is Everything | 2.00% | ~131 |
 | Here be Dragons | 2.00% | ~131 |
@@ -41,7 +42,6 @@ Rating: 4.63 (Ranked 356)
 | I've Got Everything I Need Right Here | 1.00% | ~66 |
 | God Emperor | 1.00% | ~66 |
 | Lord of Chaos | 1.00% | ~66 |
-| The Creator | 1.00% | ~66 |
 | The Goddess of Nature | 1.00% | ~66 |
 | Eternal Lord | 1.00% | ~66 |
 | The Eternal Court | 1.00% | ~66 |
@@ -51,10 +51,10 @@ Rating: 4.63 (Ranked 356)
 | Dawn of the Dread | 1.00% | ~66 |
 | Manufactured War | 0.90% | ~59 |
 | Pruning for Progress | 0.90% | ~59 |
-| Grexolis | 0.80% | ~52 |
-| One for All, All for One | 0.80% | ~52 |
-| Duality | 0.80% | ~52 |
-| Betrayal Most Foul | 0.60% | ~39 |
+| Grexolis | 0.80% | ~53 |
+| One for All, All for One | 0.80% | ~53 |
+| Duality | 0.80% | ~53 |
+| Betrayal Most Foul | 0.70% | ~46 |
 | Snap Out of It! | 0.40% | ~26 |
 | The Magic That Empowers Me! | 0.40% | ~26 |
 | Jack of All Tomes | 0.30% | ~20 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 356)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,559 (Ranked 195)  
+Progressed: 6,564 (Ranked 195)  
 Completed: 7 (0.11%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 7 (0.11%) (Ranked 303)
 | 2023-12-27 | 6,359 | 7 |
 | 2023-12-28 | 6,414 | 7 |
 | 2023-12-29 | 6,495 | 7 |
-| 2023-12-30 | 6,559 | 7 |
+| 2023-12-30 | 6,564 | 7 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 478)  
 Sum: 163 (Ranked 436)  

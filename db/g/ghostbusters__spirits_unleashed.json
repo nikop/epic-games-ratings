@@ -2,12 +2,12 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 611,
+  "Ranking_Rating": 612,
   "Ranking_Popularity": 255,
   "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3885,9 +3885,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32956,
+  "EOS_Progressed": 32963,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 353,
+  "EOS_NewPlayers": 359,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -24000,6 +24000,11 @@
       "Time": "2023-12-30T21:09:54.2457307+00:00",
       "NumProgressed": 32956,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-12-30T22:09:12.9424396+00:00",
+      "NumProgressed": 32963,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -24011,7 +24016,7 @@
       "Name": "Advancement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2636
+      "UsersEstimate": 2637
     },
     {
       "ID": "Animated",
@@ -24051,7 +24056,7 @@
       "Name": "Clutch Capture",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     },
     {
       "ID": "Collect_Spores",
@@ -24075,7 +24080,7 @@
       "Name": "Cultured",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     },
     {
       "ID": "Daily_Dose",
@@ -24083,7 +24088,7 @@
       "Name": "Daily Dose",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     },
     {
       "ID": "Diabolical",
@@ -24099,7 +24104,7 @@
       "Name": "Discovery",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1977
+      "UsersEstimate": 1978
     },
     {
       "ID": "Dont_Need_These",
@@ -24123,7 +24128,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2636
+      "UsersEstimate": 2637
     },
     {
       "ID": "Escape_Artist",
@@ -24155,7 +24160,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     },
     {
       "ID": "Ghost_Expert",
@@ -24299,7 +24304,7 @@
       "Name": "Solo Capture",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1977
+      "UsersEstimate": 1978
     },
     {
       "ID": "Stunner",
@@ -24339,7 +24344,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 1977
+      "UsersEstimate": 1978
     },
     {
       "ID": "Teamwork",
@@ -24371,7 +24376,7 @@
       "Name": "There you are!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     },
     {
       "ID": "Tobins_Prodigy",
@@ -24411,14 +24416,14 @@
       "Name": "Whoopsie",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32956,
+      "Progressed": 32963,
       "Completed": 71
     }
   ],
@@ -24426,8 +24431,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-30T01:39:52.0408687+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:09:54.2457301+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:09:12.9424392+00:00",
   "LastUpdate_AppInfo": "2023-12-23T22:57:11.5748987+00:00",
-  "LastUpdate_Ratings": "2023-12-30T20:58:26.8407073+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:09:54.2458605+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:57:56.7614839+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:09:12.9425884+00:00"
 }

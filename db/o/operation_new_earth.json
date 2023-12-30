@@ -2,7 +2,7 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_Rating": 1082,
+  "Ranking_Rating": 1083,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 238,
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2134,
+  "EOS_Progressed": 2135,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8195,6 +8195,11 @@
       "Time": "2023-12-30T21:07:04.2483183+00:00",
       "NumProgressed": 2134,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T22:06:04.5233148+00:00",
+      "NumProgressed": 2135,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8334,7 +8339,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -8398,7 +8403,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -8430,7 +8435,7 @@
       "Name": "On Target",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -8509,7 +8514,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2134,
+      "Progressed": 2135,
       "Completed": 1
     }
   ],
@@ -8517,8 +8522,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:07:04.2483179+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:06:04.523314+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:02.8789919+00:00",
-  "LastUpdate_Ratings": "2023-12-30T21:03:33.2038063+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:07:04.2483755+00:00"
+  "LastUpdate_Ratings": "2023-12-30T22:02:48.7157063+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:06:04.5233771+00:00"
 }

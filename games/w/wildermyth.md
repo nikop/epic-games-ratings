@@ -6,8 +6,8 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Me and My Familiar | 7.00% | ~110 |
 | The Cost of Heroism | 7.00% | ~110 |
-| Me and My Familiar | 6.00% | ~94 |
 | This Too Shall Pass | 6.00% | ~94 |
 | Gotta Ca... Must Collect All of Them | 5.00% | ~79 |
 | Passing Shadow | 5.00% | ~79 |
@@ -263,9 +263,9 @@ Completed: 7 (0.45%) (Ranked 224)
 | 2023-12-29 | 1,567 | 7 |
 | 2023-12-30 | 1,572 | 7 |
 ## Awards
-Max (Character Customization): 29  (Ranked 518)  
+Max (Character Customization): 29  (Ranked 519)  
 Sum: 29 (Ranked 537)  
-Diff (max vs sum): -19  
+Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 29 |

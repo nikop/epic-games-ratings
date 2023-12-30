@@ -2,9 +2,9 @@
   "ID": "d3b4722b35674be186318c5f5e14b13e",
   "Name": "Arms Race 2",
   "ProductSlug": "arms-race-2-219fd5",
-  "Ranking_EOS_Progress": 661,
+  "Ranking_EOS_Progress": 658,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 528,
+  "Ranking_EOS_NewPlayers": 494,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8,
+  "EOS_Progressed": 9,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -68,6 +68,11 @@
     {
       "Time": "2023-12-29T13:08:07.5886517+00:00",
       "NumProgressed": 8,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T22:06:26.1794332+00:00",
+      "NumProgressed": 9,
       "NumCompleted": 0
     }
   ],
@@ -111,7 +116,7 @@
       "ID": "Coup a country diplomatically",
       "SetID": "1g0ce2c",
       "Name": "Coup a country diplomatically",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -135,7 +140,7 @@
       "ID": "Industrialisation",
       "SetID": "1g0ce2c",
       "Name": "Industrialisation",
-      "Percentage": 25,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -143,7 +148,7 @@
       "ID": "Korean reunification",
       "SetID": "1g0ce2c",
       "Name": "Korean reunification",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -199,7 +204,7 @@
       "ID": "United Nations",
       "SetID": "1g0ce2c",
       "Name": "United Nations",
-      "Percentage": 25,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -216,14 +221,14 @@
     {
       "ID": "1g0ce2c",
       "IsBase": true,
-      "Progressed": 8,
+      "Progressed": 9,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-23T13:59:26.4382087+00:00",
   "FirstSeenAchievements": "2023-10-11T21:08:28.3507055+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:07:27.9468744+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:06:26.1794328+00:00",
   "LastUpdate_AppInfo": "2023-12-26T22:57:07.644988+00:00",
-  "LastUpdate_Ratings": "2023-12-30T21:00:16.7984915+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:07:27.9468915+00:00"
+  "LastUpdate_Ratings": "2023-12-30T21:59:41.6638131+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:06:26.1794416+00:00"
 }

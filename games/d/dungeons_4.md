@@ -9,7 +9,7 @@ Rating: 4.65 (Ranked 324)
 | Thalya – Simply Immortal | 88.00% | ~592 |
 | For the Horde! | 82.00% | ~552 |
 | Hammer Time, Round Two | 81.00% | ~545 |
-| The Hellwoods | 76.00% | ~511 |
+| The Hellwoods | 77.00% | ~518 |
 | The Plains of Strothalm | 72.00% | ~485 |
 | Experienced Thalya | 72.00% | ~485 |
 | Bad Elves Go Everywhere | 69.00% | ~464 |
@@ -22,8 +22,8 @@ Rating: 4.65 (Ranked 324)
 | It's Warm and Cozy at Home | 58.00% | ~390 |
 | Trap Master | 55.00% | ~370 |
 | Minions, Minions! | 55.00% | ~370 |
+| The Big Eaty | 54.00% | ~363 |
 | Hard Work | 53.00% | ~357 |
-| The Big Eaty | 53.00% | ~357 |
 | “… like son” | 51.00% | ~343 |
 | YOU SHALL NOT PASS! | 50.00% | ~336 |
 | The Cathedral of Light | 47.00% | ~316 |
@@ -37,7 +37,7 @@ Rating: 4.65 (Ranked 324)
 | If Looks Could Kill | 35.00% | ~236 |
 | Unstoppable Horde | 34.00% | ~229 |
 | Master of the Undead | 34.00% | ~229 |
-| The Finitude Drill | 32.00% | ~215 |
+| The Finitude Drill | 33.00% | ~222 |
 | Ghost Pirates? Ghost Heroes! | 30.00% | ~202 |
 | Doom Hill | 29.00% | ~195 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~188 |
@@ -68,7 +68,7 @@ Rating: 4.65 (Ranked 324)
 | I Don't Need Any Help | 9.00% | ~61 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 673 (Ranked 314)  
-Completed: 25 (3.71%) (Ranked 100)  
+Completed: 25 (3.71%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

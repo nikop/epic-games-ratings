@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.45 (Ranked 685)  
+Rating: 4.45 (Ranked 686)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,7 +10,7 @@ Rating: 4.45 (Ranked 685)
 | The Kraken Wakes | 37.00% | ~1,539 |
 | It's Starting to Crack | 34.00% | ~1,414 |
 | Change the Channel | 32.00% | ~1,331 |
-| Lord of War | 31.00% | ~1,289 |
+| Lord of War | 31.00% | ~1,290 |
 | Taking it back | 30.00% | ~1,248 |
 | Resourceful | 28.00% | ~1,165 |
 | Target America | 27.00% | ~1,123 |
@@ -24,8 +24,8 @@ Rating: 4.45 (Ranked 685)
 | Climbing the Ladder | 17.00% | ~707 |
 | Just a Flesh Wound | 17.00% | ~707 |
 | Der Geist | 17.00% | ~707 |
-| Close Quarters | 16.00% | ~665 |
-| Snake in the Grass | 16.00% | ~665 |
+| Close Quarters | 16.00% | ~666 |
+| Snake in the Grass | 16.00% | ~666 |
 | Skirmisher | 15.00% | ~624 |
 | Die Nussknacker Sweet! | 15.00% | ~624 |
 | Brains of the Operation | 15.00% | ~624 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 685)
 | Stroll in the Woods | 0.60% | ~25 |
 | Going Overboard | 0.60% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,159 (Ranked 208)  
+Progressed: 4,160 (Ranked 208)  
 Completed: 11 (0.26%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,11 +329,11 @@ Completed: 11 (0.26%) (Ranked 261)
 | 2023-12-27 | 4,137 | 11 |
 | 2023-12-28 | 4,143 | 11 |
 | 2023-12-29 | 4,153 | 11 |
-| 2023-12-30 | 4,159 | 11 |
+| 2023-12-30 | 4,160 | 11 |
 ## Awards
-Max (Great for Beginners): 28  (Ranked 524)  
+Max (Great for Beginners): 28  (Ranked 525)  
 Sum: 28 (Ranked 540)  
-Diff (max vs sum): -16  
+Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 28 |

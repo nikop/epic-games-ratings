@@ -6,18 +6,18 @@ Rating: 4.55 (Ranked 522)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 16.00% | ~2,853 |
-| Captain Drummer | 12.00% | ~2,139 |
-| Celebrations are in Order | 12.00% | ~2,139 |
-| The Pit and the Pirates | 11.00% | ~1,961 |
-| Martian Music | 11.00% | ~1,961 |
-| Bosmang | 11.00% | ~1,961 |
-| Impossible Objects | 11.00% | ~1,961 |
+| Captain Drummer | 12.00% | ~2,140 |
+| Celebrations are in Order | 12.00% | ~2,140 |
+| The Pit and the Pirates | 11.00% | ~1,962 |
+| Martian Music | 11.00% | ~1,962 |
+| Bosmang | 11.00% | ~1,962 |
+| Impossible Objects | 11.00% | ~1,962 |
 | Spore Taste | 10.00% | ~1,783 |
 | Drone Dodger | 10.00% | ~1,783 |
 | Stogie for Fogey | 9.00% | ~1,605 |
-| Safe Cracker | 9.00% | ~340 |
-| Zen Master | 9.00% | ~340 |
-| Call it Even | 8.00% | ~1,426 |
+| Safe Cracker | 9.00% | ~341 |
+| Zen Master | 9.00% | ~341 |
+| Call it Even | 8.00% | ~1,427 |
 | Madame Undersecretary | 8.00% | ~303 |
 | Heal Thy Medic | 7.00% | ~1,248 |
 | Keep Arjun in Check | 7.00% | ~265 |
@@ -25,8 +25,8 @@ Rating: 4.55 (Ranked 522)
 | Drug Gifter | 6.00% | ~1,070 |
 | Thorston Mayer | 6.00% | ~1,070 |
 | Khan's Revenge | 6.00% | ~1,070 |
-| Doctor Approved | 5.00% | ~891 |
-| Bottoms up! | 5.00% | ~891 |
+| Doctor Approved | 5.00% | ~892 |
+| Bottoms up! | 5.00% | ~892 |
 | Master Negotiator | 5.00% | ~189 |
 | Data Logger | 4.00% | ~713 |
 | Miraculous Maya | 4.00% | ~713 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 522)
 | Scavenger Star | 0.30% | ~53 |
 | Data Collector | 0.20% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,829 (Ranked 157)  
+Progressed: 17,833 (Ranked 157)  
 Completed: 57 (0.32%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 57 (0.32%) (Ranked 246)
 | 2023-12-27 | 17,604 | 54 |
 | 2023-12-28 | 17,675 | 56 |
 | 2023-12-29 | 17,756 | 57 |
-| 2023-12-30 | 17,829 | 57 |
+| 2023-12-30 | 17,833 | 57 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,39 +1,39 @@
 # Zombie Rollerz: Pinball Heroes
 [Store](https://store.epicgames.com/en-US/p/zombie-rollerz-7aa027)  
 [View Rawdata](../../db/z/zombie_rollerz__pinball_heroes.json)  
-Rating: 4.29 (Ranked 870)  
+Rating: 4.29 (Ranked 871)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 87.00% | ~184 |
-| Bullseye! | 83.00% | ~176 |
+| Level Up! | 87.00% | ~185 |
+| Bullseye! | 84.00% | ~179 |
 | Graduation! | 80.00% | ~170 |
-| Villfir Forest | 72.00% | ~153 |
-| Right in the kisser! | 57.00% | ~121 |
-| The Thrower | 45.00% | ~95 |
-| Duscot Steamcity | 45.00% | ~95 |
-| The Shaman | 43.00% | ~91 |
+| Villfir Forest | 71.00% | ~151 |
+| Right in the kisser! | 56.00% | ~119 |
+| The Thrower | 45.00% | ~96 |
+| Duscot Steamcity | 45.00% | ~96 |
+| The Shaman | 43.00% | ~92 |
 | The Penguin | 42.00% | ~89 |
 | The Magician | 38.00% | ~81 |
 | The Tunneler | 38.00% | ~81 |
-| Level Up!! | 35.00% | ~74 |
-| The Shield | 35.00% | ~74 |
-| Kill-streak | 28.00% | ~59 |
-| Topped up | 28.00% | ~59 |
+| Level Up!! | 35.00% | ~75 |
+| The Shield | 35.00% | ~75 |
+| Kill-streak | 28.00% | ~60 |
+| Topped up | 28.00% | ~60 |
 | The Bird | 26.00% | ~55 |
-| The Idol | 25.00% | ~53 |
 | The Ninja | 25.00% | ~53 |
-| Inferno Ruins | 24.00% | ~51 |
+| The Idol | 24.00% | ~51 |
+| Inferno Ruins | 23.00% | ~49 |
 | 1 is all I need | 21.00% | ~45 |
 | I'm Rich | 21.00% | ~45 |
 | The Slime | 21.00% | ~45 |
-| Untouchable | 20.00% | ~42 |
-| The Giant | 17.00% | ~36 |
-| The Blacksmith | 16.00% | ~34 |
+| Untouchable | 20.00% | ~43 |
 | The Flower | 16.00% | ~34 |
+| The Giant | 16.00% | ~34 |
 | The Ooze | 16.00% | ~34 |
 | Out of the Frying Pan... | 16.00% | ~34 |
-| Ember | 16.00% | ~34 |
+| The Blacksmith | 15.00% | ~32 |
+| Ember | 15.00% | ~32 |
 | Turquoise | 15.00% | ~32 |
 | The Assistant | 13.00% | ~28 |
 | The Steampunk | 13.00% | ~28 |
@@ -79,7 +79,7 @@ Rating: 4.29 (Ranked 870)
 | Divinity | 0.50% | ~1 |
 | Zombie Exterminator | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212 (Ranked 419)  
+Progressed: 213 (Ranked 419)  
 Completed: 1 (0.47%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 1 (0.47%) (Ranked 221)
 | 2023-12-22 | 207 | 1 |
 | 2023-12-24 | 208 | 1 |
 | 2023-12-27 | 209 | 1 |
-| 2023-12-30 | 212 | 1 |
+| 2023-12-30 | 213 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

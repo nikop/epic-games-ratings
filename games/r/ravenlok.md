@@ -25,11 +25,11 @@
 | Teacups for Toppy | 41.00% | ~477 |
 | Nightmare Fuel | 40.00% | ~465 |
 | Take Heart | 40.00% | ~465 |
+| Stronger! | 40.00% | ~465 |
 | Well Rested | 40.00% | ~465 |
 | Ancient Wisdom | 39.00% | ~454 |
 | Frog Facts! | 39.00% | ~454 |
 | All That Glistens | 39.00% | ~454 |
-| Stronger! | 39.00% | ~454 |
 | Spellbound | 37.00% | ~430 |
 | All Skilled Up! | 37.00% | ~430 |
 | It's Pointy! | 37.00% | ~430 |
@@ -55,7 +55,7 @@
 | Dance Master | 10.00% | ~116 |
 | Bombs Away! | 9.00% | ~105 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,163 (Ranked 279)  
+Progressed: 1,163 (Ranked 280)  
 Completed: 90 (7.74%) (Ranked 52)  
 ## EOS Players History
 | Date | Progressed | Completed |

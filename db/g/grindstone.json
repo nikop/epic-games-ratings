@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 391,
+  "Ranking_EOS_NewPlayers": 382,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -219,9 +219,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5219,
+  "EOS_Progressed": 5220,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -1079,6 +1079,11 @@
       "Time": "2023-12-30T17:05:06.9450911+00:00",
       "NumProgressed": 5219,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-30T22:05:49.3552733+00:00",
+      "NumProgressed": 5220,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -1122,7 +1127,7 @@
       "Name": "Trying To Get Into That 1%, Huh?",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "ACHIEVE_50_ECTOPLASM",
@@ -1130,7 +1135,7 @@
       "Name": "Ghost Facers!",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "ACHIEVE_50_GOLD",
@@ -1146,7 +1151,7 @@
       "Name": "Jerk-Slayer",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2244
+      "UsersEstimate": 2245
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -1218,7 +1223,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5115
+      "UsersEstimate": 5116
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1226,7 +1231,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3288
+      "UsersEstimate": 3289
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -1242,7 +1247,7 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "ACHIEVE_FELLOWSHIP",
@@ -1298,7 +1303,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4071
+      "UsersEstimate": 4072
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1314,7 +1319,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2818
+      "UsersEstimate": 2819
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -1322,7 +1327,7 @@
       "Name": "Ultimate Jerk",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_5",
@@ -1362,7 +1367,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3079
+      "UsersEstimate": 3080
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -1378,7 +1383,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5115
+      "UsersEstimate": 5116
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1434,7 +1439,7 @@
       "Name": "Death Defied",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 2818
+      "UsersEstimate": 2819
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -1466,7 +1471,7 @@
       "Name": "Pardon my Slob",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1722
+      "UsersEstimate": 1723
     },
     {
       "ID": "ACHIEVE_WOKE_UP_INN",
@@ -1474,22 +1479,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3705
+      "UsersEstimate": 3706
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5219,
+      "Progressed": 5220,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-12-26T18:58:09.3460811+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:06:47.9112705+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:05:49.3552729+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:32.6670985+00:00",
-  "LastUpdate_Ratings": "2023-12-30T21:01:40.9015111+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:06:47.9113068+00:00"
+  "LastUpdate_Ratings": "2023-12-30T22:01:01.8420936+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:05:49.3553121+00:00"
 }

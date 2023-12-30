@@ -2,7 +2,7 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 995,
+  "Ranking_Rating": 996,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 122,
@@ -553,7 +553,7 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 45778,
+  "EOS_Progressed": 45784,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 837,
   "EOS_NewCompleters": 0,
@@ -17028,6 +17028,11 @@
       "Time": "2023-12-30T21:05:44.8210978+00:00",
       "NumProgressed": 45778,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-30T22:04:49.9252163+00:00",
+      "NumProgressed": 45784,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -17055,7 +17060,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1373
+      "UsersEstimate": 1374
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -17087,7 +17092,7 @@
       "Name": "Attachments",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5493
+      "UsersEstimate": 5494
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -17191,7 +17196,7 @@
       "Name": "Tinkerer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3662
+      "UsersEstimate": 3663
     },
     {
       "ID": "CUFF_ATTACK",
@@ -17215,7 +17220,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1373
+      "UsersEstimate": 1374
     },
     {
       "ID": "JUSTCOUNTER",
@@ -17231,7 +17236,7 @@
       "Name": "Leapfrogger",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -17279,7 +17284,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -17327,7 +17332,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -17343,7 +17348,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1373
+      "UsersEstimate": 1374
     },
     {
       "ID": "PARKOUR_TIME",
@@ -17351,7 +17356,7 @@
       "Name": "Hell of a Run",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -17389,9 +17394,9 @@
       "ID": "SPRING_FIRST",
       "SetID": "6d0g7k8",
       "Name": "Call of the Fount: Baptized",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2747
+      "UsersEstimate": 3205
     },
     {
       "ID": "STAYING_AIR",
@@ -17462,22 +17467,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 45778,
+      "Progressed": 45784,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 10615,
-      "Completed": 10615
+      "Progressed": 10621,
+      "Completed": 10621
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-30T00:02:46.805004+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:05:44.8210974+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:04:49.9252158+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:10.8849039+00:00",
-  "LastUpdate_Ratings": "2023-12-30T21:03:41.881147+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:05:44.8211947+00:00"
+  "LastUpdate_Ratings": "2023-12-30T22:02:56.613775+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:04:49.9253866+00:00"
 }

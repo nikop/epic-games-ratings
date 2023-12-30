@@ -8,7 +8,7 @@
 | Animal Lover | 32.00% | ~85 |
 | Don't Breathe | 30.00% | ~80 |
 | Smooth Operator | 16.00% | ~42 |
-| Easy Listening | 14.00% | ~37 |
+| Easy Listening | 15.00% | ~40 |
 | Rapturous Applause! | 14.00% | ~37 |
 | Perfect Harmony! | 12.00% | ~32 |
 | Wales Interactive | 10.00% | ~26 |

@@ -1,14 +1,14 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.03 (Ranked 1,026)  
+Rating: 4.03 (Ranked 1,027)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,702 |
-| World Map | 78.00% | ~3,105 |
-| Temple of Eternals | 56.00% | ~2,229 |
-| Prestigious | 52.00% | ~2,070 |
+| Victor | 93.00% | ~3,703 |
+| World Map | 78.00% | ~3,106 |
+| Temple of Eternals | 56.00% | ~2,230 |
+| Prestigious | 52.00% | ~2,071 |
 | Fellowship Power | 42.00% | ~1,672 |
 | Full Party | 27.00% | ~1,075 |
 | Guild Power | 23.00% | ~916 |
@@ -31,13 +31,13 @@ Rating: 4.03 (Ranked 1,026)
 | Doing My Part | 9.00% | ~358 |
 | Hunter | 9.00% | ~358 |
 | The power of Awakening | 9.00% | ~358 |
-| Challenger | 8.00% | ~318 |
-| Daily Quest Completionist | 8.00% | ~318 |
-| Frostfire Liberator | 8.00% | ~318 |
-| Mastery | 8.00% | ~318 |
-| Moving Up The Ladder | 8.00% | ~318 |
-| Relic Of The Past | 8.00% | ~318 |
-| Scroll Master | 8.00% | ~318 |
+| Challenger | 8.00% | ~319 |
+| Daily Quest Completionist | 8.00% | ~319 |
+| Frostfire Liberator | 8.00% | ~319 |
+| Mastery | 8.00% | ~319 |
+| Moving Up The Ladder | 8.00% | ~319 |
+| Relic Of The Past | 8.00% | ~319 |
+| Scroll Master | 8.00% | ~319 |
 | Four Leaf Clover | 7.00% | ~279 |
 | Here We Go Again | 7.00% | ~279 |
 | Master Enchanter | 7.00% | ~279 |
@@ -81,7 +81,7 @@ Rating: 4.03 (Ranked 1,026)
 | Jewel Enchanting | 0.20% | ~8 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,981 (Ranked 209)  
+Progressed: 3,982 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 2 (0.05%) (Ranked 335)
 | 2023-12-27 | 3,886 | 2 |
 | 2023-12-28 | 3,911 | 2 |
 | 2023-12-29 | 3,948 | 2 |
-| 2023-12-30 | 3,981 | 2 |
+| 2023-12-30 | 3,982 | 2 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 478)  
 Sum: 129 (Ranked 445)  

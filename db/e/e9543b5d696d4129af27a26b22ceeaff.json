@@ -317,9 +317,9 @@
       "ID": "ACH_COACH_OF_THE_SEASON",
       "SetID": "1lnhagg",
       "Name": "Standing at the Top",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_EMPTY_ARENA",
@@ -333,9 +333,9 @@
       "ID": "ACH_FIRST_CHAMPIONSHIP",
       "SetID": "1lnhagg",
       "Name": "First is Always Special",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_FIRST_STAR_MANAGER",
@@ -532,8 +532,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:09:27.7879767+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:08:47.8035891+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:12.5001029+00:00",
-  "LastUpdate_Ratings": "2023-12-30T21:00:57.0634935+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:09:27.7879987+00:00"
+  "LastUpdate_Ratings": "2023-12-30T22:00:21.3682622+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:08:47.8036087+00:00"
 }

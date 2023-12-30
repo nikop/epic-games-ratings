@@ -3,11 +3,11 @@
   "Name": "Wildermyth",
   "ProductSlug": "wildermyth-593344",
   "Ranking_Rating": 110,
-  "Ranking_Popularity": 518,
+  "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -2346,9 +2346,9 @@
       "ID": "achievement_1petReceived",
       "SetID": "95dc8p",
       "Name": "Me and My Familiar",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 110
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -2786,8 +2786,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:11:47.43748+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:10:57.4976993+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:20.6061916+00:00",
-  "LastUpdate_Ratings": "2023-12-30T21:01:38.2380888+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:11:47.4375538+00:00"
+  "LastUpdate_Ratings": "2023-12-30T22:00:59.4833633+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:10:57.4977733+00:00"
 }

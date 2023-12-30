@@ -3,7 +3,7 @@
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 231,
-  "Ranking_Popularity": 518,
+  "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 391,
@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 868,
+  "EOS_Progressed": 870,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3155,6 +3155,11 @@
       "Time": "2023-12-30T21:10:16.6650638+00:00",
       "NumProgressed": 868,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T22:09:33.3624877+00:00",
+      "NumProgressed": 870,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3271,7 +3276,7 @@
       "Name": "Critical Hit",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "Deepstrike",
@@ -3375,7 +3380,7 @@
       "Name": "Multi Kill",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "MultiplayerWins",
@@ -3431,7 +3436,7 @@
       "Name": "Don\u0027t Touch My Stuff",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -3447,7 +3452,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -3495,7 +3500,7 @@
       "Name": "Adept",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "WielderLevel2",
@@ -3503,7 +3508,7 @@
       "Name": "Veteran",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "WielderLevel3",
@@ -3598,15 +3603,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 868,
+      "Progressed": 870,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:10:16.6650625+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:09:33.3624873+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:12.1217697+00:00",
-  "LastUpdate_Ratings": "2023-12-30T21:01:18.0456465+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:10:16.6651455+00:00"
+  "LastUpdate_Ratings": "2023-12-30T22:00:41.3171018+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:09:33.3625352+00:00"
 }

@@ -14,8 +14,8 @@
 | Bladesmith | 9.00% | ~11 |
 | The Guardian of Fire | 9.00% | ~11 |
 | Leisis Bless You | 9.00% | ~11 |
+| Explorer | 8.00% | ~10 |
 | Twin Thorns | 8.00% | ~10 |
-| Explorer | 7.00% | ~9 |
 | Sommelier | 6.00% | ~8 |
 | The River Styx | 6.00% | ~8 |
 | Sovereignty of Irons | 6.00% | ~8 |

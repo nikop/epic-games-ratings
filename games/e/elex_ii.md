@@ -1,23 +1,23 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.29 (Ranked 870)  
+Rating: 4.29 (Ranked 871)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 36.00% | ~50 |
+| Entrepreneur | 35.00% | ~49 |
 | Best Buddy | 27.00% | ~38 |
 | Civilian | 25.00% | ~35 |
 | Role Model | 24.00% | ~34 |
-| Peddler | 21.00% | ~29 |
+| Peddler | 21.00% | ~30 |
 | Military Leader | 18.00% | ~25 |
+| Creator | 18.00% | ~25 |
 | Festival-goer | 18.00% | ~25 |
-| Creator | 17.00% | ~24 |
-| Commander | 16.00% | ~22 |
-| Long-Haul Flyer | 14.00% | ~20 |
-| Irissa's Fate | 11.00% | ~15 |
-| Pass A38 | 11.00% | ~15 |
+| Commander | 16.00% | ~23 |
+| Long-Haul Flyer | 13.00% | ~18 |
+| Irissa's Fate | 12.00% | ~17 |
+| Pass A38 | 11.00% | ~16 |
 | Berserker | 9.00% | ~13 |
 | Family Reunion | 9.00% | ~13 |
 | Globetrotter | 8.00% | ~11 |
@@ -25,12 +25,12 @@ Number of Ratings: 124  (23.09.2022)
 | Storyteller | 6.00% | ~8 |
 | Alb | 6.00% | ~8 |
 | Hotshot | 5.00% | ~7 |
+| Perfectionist | 5.00% | ~7 |
 | Banker | 4.00% | ~6 |
 | Self-Sufficient | 4.00% | ~6 |
 | Free as a Bird | 4.00% | ~6 |
 | Unbreakable | 4.00% | ~6 |
 | Cleric | 4.00% | ~6 |
-| Perfectionist | 4.00% | ~6 |
 | Detective | 4.00% | ~6 |
 | Hunter | 4.00% | ~6 |
 | Treasure Hunter | 3.00% | ~4 |
@@ -38,8 +38,8 @@ Number of Ratings: 124  (23.09.2022)
 | Alchemist | 3.00% | ~4 |
 | Idealist | 3.00% | ~4 |
 | Lover | 3.00% | ~4 |
+| Weaponsmith | 1.00% | ~1 |
 | Morkon | 1.00% | ~1 |
-| Weaponsmith | 0.70% | ~1 |
 | Toy Time | 0.70% | ~1 |
 | Defector | 0.70% | ~1 |
 | Outlaw | 0.70% | ~1 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140 (Ranked 454)  
+Progressed: 141 (Ranked 452)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 117 | 0 |
 | 2023-12-28 | 122 | 0 |
 | 2023-12-29 | 131 | 0 |
-| 2023-12-30 | 140 | 0 |
+| 2023-12-30 | 141 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

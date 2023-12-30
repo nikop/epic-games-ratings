@@ -2,7 +2,7 @@
   "ID": "62d9ad4c9d7c413684da18ab4ee111fe",
   "Name": "One Military Camp",
   "ProductSlug": "one-military-camp-8db1f6",
-  "Ranking_EOS_Progress": 404,
+  "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 155,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 257,
+  "EOS_Progressed": 258,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
@@ -1139,6 +1139,11 @@
       "Time": "2023-12-30T17:04:31.0066963+00:00",
       "NumProgressed": 257,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T22:05:06.8144978+00:00",
+      "NumProgressed": 258,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-17T17:03:41.4004468+00:00",
@@ -1359,7 +1364,7 @@
       "Name": "Capitalism",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_ID_33",
@@ -1429,9 +1434,9 @@
       "ID": "ACHIEVEMENT_ID_40",
       "SetID": "c504de6",
       "Name": "Great Producer",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_ID_41",
@@ -1502,14 +1507,14 @@
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 257,
+      "Progressed": 258,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-12-30T21:06:02.9355474+00:00",
+  "LastChanged_Achievements": "2023-12-30T22:05:06.8144975+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.8669849+00:00",
-  "LastUpdate_Ratings": "2023-12-30T21:01:14.5428037+00:00",
-  "LastUpdate_Achievements": "2023-12-30T21:06:02.9355774+00:00"
+  "LastUpdate_Ratings": "2023-12-30T22:00:38.1228769+00:00",
+  "LastUpdate_Achievements": "2023-12-30T22:05:06.8145333+00:00"
 }
