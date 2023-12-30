@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Act of Kindness | 88.00% | ~95 |
-| Air Fighter | 74.00% | ~80 |
-| Oo-De-Lally | 70.00% | ~76 |
+| Air Fighter | 75.00% | ~81 |
+| Oo-De-Lally | 71.00% | ~77 |
 | Treasure Hunter | 65.00% | ~70 |
 | The Altruist | 64.00% | ~69 |
 | Watch your Step! | 52.00% | ~56 |

@@ -1,18 +1,18 @@
 # Hand of Fate 2
 [Store](https://store.epicgames.com/en-US/p/hand-of-fate-2)  
 [View Rawdata](../../db/h/hand_of_fate_2.json)  
-Rating: 4.55 (Ranked 523)  
+Rating: 4.55 (Ranked 522)  
 Number of Ratings: 780  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~479,886 |
-| Apprentice | 58.00% | ~386,575 |
-| Close Shave | 25.00% | ~166,627 |
-| Mercenary | 23.00% | ~153,297 |
-| Ninja | 23.00% | ~153,297 |
-| Northern Scourge | 17.00% | ~113,306 |
-| Thief Bane | 14.00% | ~93,311 |
+| The Fool | 72.00% | ~479,889 |
+| Apprentice | 58.00% | ~386,577 |
+| Close Shave | 25.00% | ~166,628 |
+| Mercenary | 23.00% | ~153,298 |
+| Ninja | 23.00% | ~153,298 |
+| Northern Scourge | 17.00% | ~113,307 |
+| Thief Bane | 14.00% | ~93,312 |
 | Master of Arms | 12.00% | ~79,981 |
 | Gambler | 10.00% | ~66,651 |
 | Dice Master | 10.00% | ~66,651 |
@@ -24,10 +24,10 @@ Number of Ratings: 780  (23.09.2022)
 | Long Shot | 7.00% | ~46,656 |
 | Devil Dice | 7.00% | ~46,656 |
 | Broken Heart | 7.00% | ~46,656 |
-| Adventurer | 6.00% | ~39,990 |
-| Empire's Bane | 6.00% | ~39,990 |
-| Jack of all Trades | 5.00% | ~33,325 |
-| Smithy | 5.00% | ~33,325 |
+| Adventurer | 6.00% | ~39,991 |
+| Empire's Bane | 6.00% | ~39,991 |
+| Jack of all Trades | 5.00% | ~33,326 |
+| Smithy | 5.00% | ~33,326 |
 | Leap of Faith | 3.00% | ~19,995 |
 | Combat Ready | 3.00% | ~19,995 |
 | Stuffed Potato | 3.00% | ~19,995 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~667 |
 | Blood Pact | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,508 (Ranked 29)  
+Progressed: 666,512 (Ranked 29)  
 Completed: 174 (0.03%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 174 (0.03%) (Ranked 351)
 | 2023-12-27 | 666,394 | 174 |
 | 2023-12-28 | 666,440 | 174 |
 | 2023-12-29 | 666,498 | 174 |
-| 2023-12-30 | 666,508 | 174 |
+| 2023-12-30 | 666,512 | 174 |
 ## Awards
 Max (Amazing Storytelling): 36  (Ranked 489)  
 Sum: 193 (Ranked 417)  

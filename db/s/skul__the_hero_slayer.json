@@ -1239,10 +1239,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 975,
       "NumberOfAwardsMax": 146
+    },
+    {
+      "Time": "2023-12-30T04:58:16.2710774+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 976,
+      "NumberOfAwardsMax": 146
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 975,
+  "NumberOfAwards": 976,
   "NumberOfAwardsMax": 146,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1274,7 +1280,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 108
+      "Count": 109
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1313,9 +1319,9 @@
       "Count": 146
     }
   ],
-  "EOS_Progressed": 13045,
+  "EOS_Progressed": 13047,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1129,
+  "EOS_NewPlayers": 1122,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -8043,6 +8049,11 @@
       "Time": "2023-12-30T04:08:37.6970538+00:00",
       "NumProgressed": 13045,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-30T05:09:12.519755+00:00",
+      "NumProgressed": 13047,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 24,
@@ -8078,7 +8089,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 7827
+      "UsersEstimate": 7828
     },
     {
       "ID": "DemonCastleRestoration",
@@ -8086,7 +8097,7 @@
       "Name": "Castle Restoration Plans",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 1565
+      "UsersEstimate": 1566
     },
     {
       "ID": "DwarfChandelier",
@@ -8094,7 +8105,7 @@
       "Name": "The Dwarven Chandelier",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "FakeGoddessGone",
@@ -8102,7 +8113,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 4957
+      "UsersEstimate": 4958
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -8118,7 +8129,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 3261
+      "UsersEstimate": 3262
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -8150,7 +8161,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 3783
+      "UsersEstimate": 3784
     },
     {
       "ID": "LeoniasFall_2",
@@ -8182,7 +8193,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 7957
+      "UsersEstimate": 7959
     },
     {
       "ID": "SavedElderEnt_2",
@@ -8206,7 +8217,7 @@
       "Name": "Inventory Management",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 4044
+      "UsersEstimate": 4045
     },
     {
       "ID": "TheLegendBegins",
@@ -8214,7 +8225,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 12132
+      "UsersEstimate": 12134
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -8222,7 +8233,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 6131
+      "UsersEstimate": 6132
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -8238,22 +8249,22 @@
       "Name": "What should I buy?",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10566
+      "UsersEstimate": 10568
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 13045,
+      "Progressed": 13047,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2023-12-29T13:57:51.1173754+00:00",
-  "LastChanged_Achievements": "2023-12-30T04:08:37.6970534+00:00",
+  "LastChanged": "2023-12-30T04:58:16.2710772+00:00",
+  "LastChanged_Achievements": "2023-12-30T05:09:12.5197545+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:50.2570234+00:00",
-  "LastUpdate_Ratings": "2023-12-30T03:58:00.1874786+00:00",
-  "LastUpdate_Achievements": "2023-12-30T04:08:37.6971139+00:00"
+  "LastUpdate_Ratings": "2023-12-30T04:58:16.2710777+00:00",
+  "LastUpdate_Achievements": "2023-12-30T05:09:12.5198119+00:00"
 }

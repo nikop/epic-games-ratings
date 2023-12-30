@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1275,
+  "EOS_Progressed": 1276,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2634,6 +2634,11 @@
       "Time": "2023-12-30T01:46:34.108419+00:00",
       "NumProgressed": 1275,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T05:03:40.2299071+00:00",
+      "NumProgressed": 1276,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2877,7 +2882,7 @@
       "Name": "Listening to the crowd",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "TRIPLE_FAIR",
@@ -3004,7 +3009,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1275,
+      "Progressed": 1276,
       "Completed": 0
     }
   ],
@@ -3012,8 +3017,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-12-18T15:02:48.0768878+00:00",
-  "LastChanged_Achievements": "2023-12-30T04:03:09.9205679+00:00",
+  "LastChanged_Achievements": "2023-12-30T05:03:40.2299064+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:24.1709228+00:00",
-  "LastUpdate_Ratings": "2023-12-30T04:02:48.3187942+00:00",
-  "LastUpdate_Achievements": "2023-12-30T04:03:09.9206086+00:00"
+  "LastUpdate_Ratings": "2023-12-30T05:03:17.7143259+00:00",
+  "LastUpdate_Achievements": "2023-12-30T05:03:40.2299468+00:00"
 }

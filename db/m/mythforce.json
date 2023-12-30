@@ -848,9 +848,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5922,
+  "EOS_Progressed": 5924,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -12108,6 +12108,11 @@
       "Time": "2023-12-30T04:04:21.1131087+00:00",
       "NumProgressed": 5922,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-30T05:04:50.3778381+00:00",
+      "NumProgressed": 5924,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12120,7 +12125,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -12152,7 +12157,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1422
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -12232,7 +12237,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -12256,7 +12261,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -12272,7 +12277,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -12280,7 +12285,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -12288,7 +12293,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -12303,15 +12308,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5922,
+      "Progressed": 5924,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2023-12-30T04:04:21.1131084+00:00",
+  "LastChanged_Achievements": "2023-12-30T05:04:50.3778377+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:25.4849752+00:00",
-  "LastUpdate_Ratings": "2023-12-30T04:00:10.0501456+00:00",
-  "LastUpdate_Achievements": "2023-12-30T04:04:21.1131676+00:00"
+  "LastUpdate_Ratings": "2023-12-30T05:00:21.278706+00:00",
+  "LastUpdate_Achievements": "2023-12-30T05:04:50.3778946+00:00"
 }

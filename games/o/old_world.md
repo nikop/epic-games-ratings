@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 322)  
+Rating: 4.65 (Ranked 323)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -73,6 +73,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.20% | ~32 |
 | Subjugator | 0.20% | ~32 |
 | Valiant | 0.20% | ~32 |
+| Victorious | 0.20% | ~32 |
 | Good Difficulty | 0.20% | ~32 |
 | Artisans | 0.20% | ~32 |
 | Champions | 0.20% | ~32 |
@@ -146,7 +147,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.10% | ~16 |
 | Old | 0.10% | ~16 |
 | Peacemaker | 0.10% | ~16 |
-| Victorious | 0.10% | ~16 |
 | White Death | 0.10% | ~16 |
 | Glorious Difficulty | 0.10% | ~16 |
 | Great Difficulty | 0.10% | ~16 |

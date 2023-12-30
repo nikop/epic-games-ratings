@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 323,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -4310,9 +4310,9 @@
       "ID": "GSS_ACH_31_TRASH_02",
       "SetID": "5fn8ia4",
       "Name": "Trash B Gone",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1227
     },
     {
       "ID": "GSS_ACH_32_TRASH_03",
@@ -4558,9 +4558,9 @@
       "ID": "GSS_ACH_62_POPULARITY_02",
       "SetID": "5fn8ia4",
       "Name": "Heard in Whispers",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1169
     },
     {
       "ID": "GSS_ACH_63_POPULARITY_03",
@@ -4735,8 +4735,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-29T13:03:03.3962443+00:00",
-  "LastChanged_Achievements": "2023-12-30T04:03:54.1162688+00:00",
+  "LastChanged_Achievements": "2023-12-30T05:04:23.9076638+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:05.7719462+00:00",
-  "LastUpdate_Ratings": "2023-12-30T03:59:54.9190767+00:00",
-  "LastUpdate_Achievements": "2023-12-30T04:03:54.116354+00:00"
+  "LastUpdate_Ratings": "2023-12-30T05:00:06.2320503+00:00",
+  "LastUpdate_Achievements": "2023-12-30T05:04:23.907752+00:00"
 }

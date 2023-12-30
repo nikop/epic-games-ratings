@@ -518,9 +518,9 @@
       "ID": "ACH_AIR_COMBO",
       "SetID": "5akmpni",
       "Name": "Air Fighter",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_ALL_CHALENGES",
@@ -598,9 +598,9 @@
       "ID": "ACH_COMPLETE_TUTO",
       "SetID": "5akmpni",
       "Name": "Oo-De-Lally",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_COOP_MISSIONS",
@@ -901,8 +901,8 @@
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-12-30T04:06:16.2020661+00:00",
+  "LastChanged_Achievements": "2023-12-30T05:06:42.4509085+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:27.5850344+00:00",
-  "LastUpdate_Ratings": "2023-12-30T03:59:18.3942621+00:00",
-  "LastUpdate_Achievements": "2023-12-30T04:06:16.2021089+00:00"
+  "LastUpdate_Ratings": "2023-12-30T04:59:31.5656612+00:00",
+  "LastUpdate_Achievements": "2023-12-30T05:06:42.4509743+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "CHUCHEL",
   "ProductSlug": "chuchel-203808",
   "Ranking_EOS_Progress": 371,
-  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 345,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -1217,8 +1217,8 @@
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-12-30T04:05:31.3757961+00:00",
+  "LastChanged_Achievements": "2023-12-30T05:05:58.7737628+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:07.636228+00:00",
   "LastUpdate_Ratings": "2023-12-30T04:00:12.5285067+00:00",
-  "LastUpdate_Achievements": "2023-12-30T04:05:31.3758064+00:00"
+  "LastUpdate_Achievements": "2023-12-30T05:05:58.7737744+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 288,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1380,9 +1380,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 31860,
+  "EOS_Progressed": 31862,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 756,
+  "EOS_NewPlayers": 755,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -28615,6 +28615,11 @@
       "Time": "2023-12-30T04:09:14.9210209+00:00",
       "NumProgressed": 31860,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2023-12-30T05:09:48.8514563+00:00",
+      "NumProgressed": 31862,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 22,
@@ -28722,7 +28727,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2867
+      "UsersEstimate": 2868
     },
     {
       "ID": "1028",
@@ -28746,7 +28751,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6053
+      "UsersEstimate": 6054
     },
     {
       "ID": "1031",
@@ -28762,7 +28767,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12744
+      "UsersEstimate": 12745
     },
     {
       "ID": "1033",
@@ -28801,15 +28806,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 31860,
+      "Progressed": 31862,
       "Completed": 85
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-30T03:00:21.8203894+00:00",
-  "LastChanged_Achievements": "2023-12-30T04:09:14.9210205+00:00",
+  "LastChanged_Achievements": "2023-12-30T05:09:48.8514557+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:33.0963309+00:00",
-  "LastUpdate_Ratings": "2023-12-30T03:59:11.3292052+00:00",
-  "LastUpdate_Achievements": "2023-12-30T04:09:14.9211995+00:00"
+  "LastUpdate_Ratings": "2023-12-30T04:59:24.9520439+00:00",
+  "LastUpdate_Achievements": "2023-12-30T05:09:48.8516148+00:00"
 }

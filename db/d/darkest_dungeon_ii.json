@@ -10302,9 +10302,9 @@
       "Count": 1068
     }
   ],
-  "EOS_Progressed": 130663,
+  "EOS_Progressed": 130671,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1425,
+  "EOS_NewPlayers": 1422,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37452,6 +37452,11 @@
       "Time": "2023-12-30T04:09:01.9942762+00:00",
       "NumProgressed": 130663,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-30T05:09:35.8751212+00:00",
+      "NumProgressed": 130671,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37591,7 +37596,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6533
+      "UsersEstimate": 6534
     },
     {
       "ID": "combat_kill_cadavers",
@@ -37623,7 +37628,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6533
+      "UsersEstimate": 6534
     },
     {
       "ID": "combat_kill_fanatics",
@@ -37687,7 +37692,7 @@
       "Name": "Overdue Notice",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6533
+      "UsersEstimate": 6534
     },
     {
       "ID": "combat_kill_pillagers",
@@ -38063,7 +38068,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -38071,7 +38076,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -38094,21 +38099,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130663,
+      "Progressed": 130671,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5532,
+      "Progressed": 5540,
       "Completed": 815
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-30T02:19:55.4739253+00:00",
-  "LastChanged_Achievements": "2023-12-30T04:09:01.9942758+00:00",
+  "LastChanged_Achievements": "2023-12-30T05:09:35.8751207+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.4613414+00:00",
   "LastUpdate_Ratings": "2023-12-30T04:00:11.7862592+00:00",
-  "LastUpdate_Achievements": "2023-12-30T04:09:01.9944282+00:00"
+  "LastUpdate_Achievements": "2023-12-30T05:09:35.8752843+00:00"
 }

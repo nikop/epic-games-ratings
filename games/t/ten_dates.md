@@ -17,9 +17,9 @@
 | The lad | 9.00% | ~38 |
 | The techie | 7.00% | ~29 |
 | More than browsing | 6.00% | ~25 |
+| Playing the field | 5.00% | ~21 |
 | The bad boy | 5.00% | ~21 |
 | Picky! | 4.00% | ~17 |
-| Playing the field | 4.00% | ~17 |
 | Go well, lad | 4.00% | ~17 |
 | Keep the spark alive | 3.00% | ~13 |
 | Muggy Misha | 3.00% | ~13 |

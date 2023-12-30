@@ -4,7 +4,7 @@
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 234,
+  "EOS_Progressed": 235,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -1125,6 +1125,11 @@
       "Time": "2023-12-30T02:25:19.6748071+00:00",
       "NumProgressed": 234,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-30T05:06:01.7166062+00:00",
+      "NumProgressed": 235,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1152,7 +1157,7 @@
       "Name": "To Each Their Own",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -1368,7 +1373,7 @@
       "Name": "Onwards and Upwards",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -1400,7 +1405,7 @@
       "Name": "You\u0027re Going Down!",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -1447,14 +1452,14 @@
     {
       "ID": "gagif7",
       "IsBase": true,
-      "Progressed": 234,
+      "Progressed": 235,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-12-30T04:05:34.4885403+00:00",
+  "LastChanged_Achievements": "2023-12-30T05:06:01.7166058+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:06.5316374+00:00",
-  "LastUpdate_Ratings": "2023-12-30T03:59:54.45002+00:00",
-  "LastUpdate_Achievements": "2023-12-30T04:05:34.4885632+00:00"
+  "LastUpdate_Ratings": "2023-12-30T05:00:05.8053835+00:00",
+  "LastUpdate_Achievements": "2023-12-30T05:06:01.7166318+00:00"
 }

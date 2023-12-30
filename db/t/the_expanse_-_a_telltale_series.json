@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17772,
+  "EOS_Progressed": 17774,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 637,
+  "EOS_NewPlayers": 633,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15627,6 +15627,11 @@
       "Time": "2023-12-30T04:05:22.1797345+00:00",
       "NumProgressed": 17772,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-30T05:05:49.7863359+00:00",
+      "NumProgressed": 17774,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15687,7 +15692,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1599
+      "UsersEstimate": 1600
     },
     {
       "ID": "16",
@@ -15703,7 +15708,7 @@
       "Name": "Spore Taste",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1599
+      "UsersEstimate": 1600
     },
     {
       "ID": "18",
@@ -15895,7 +15900,7 @@
       "Name": "Zen Master",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "34",
@@ -15918,22 +15923,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17772,
+      "Progressed": 17774,
       "Completed": 57
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3726,
-      "Completed": 1114
+      "Progressed": 3728,
+      "Completed": 1116
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-27T06:00:51.7325186+00:00",
-  "LastChanged_Achievements": "2023-12-30T04:05:22.1797341+00:00",
+  "LastChanged_Achievements": "2023-12-30T05:05:49.7863353+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-30T03:57:16.0826202+00:00",
-  "LastUpdate_Achievements": "2023-12-30T04:05:22.1798409+00:00"
+  "LastUpdate_Ratings": "2023-12-30T04:57:33.7561346+00:00",
+  "LastUpdate_Achievements": "2023-12-30T05:05:49.7864253+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
   "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 89,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -547,9 +547,9 @@
       "ID": "MoneyCamouflage",
       "SetID": "7m88n8p",
       "Name": "Money Camouflage",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "MortuaryMarkup",
@@ -642,8 +642,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-12-30T04:03:13.6625395+00:00",
+  "LastChanged_Achievements": "2023-12-30T05:03:43.9120489+00:00",
   "LastUpdate_AppInfo": "2023-12-25T13:57:09.7353071+00:00",
-  "LastUpdate_Ratings": "2023-12-30T03:59:22.7461637+00:00",
-  "LastUpdate_Achievements": "2023-12-30T04:03:13.6625864+00:00"
+  "LastUpdate_Ratings": "2023-12-30T04:59:35.7342269+00:00",
+  "LastUpdate_Achievements": "2023-12-30T05:03:43.9120622+00:00"
 }

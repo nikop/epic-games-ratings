@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2409,
+  "EOS_Progressed": 2410,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -4034,6 +4034,11 @@
       "Time": "2023-12-30T02:25:54.2392166+00:00",
       "NumProgressed": 2409,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-30T05:06:31.9762104+00:00",
+      "NumProgressed": 2410,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4147,9 +4152,9 @@
       "ID": "ACHV_14",
       "SetID": "8p5mlmc",
       "Name": "Reborn",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 145
     },
     {
       "ID": "ACHV_15",
@@ -4221,7 +4226,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "ACHV_24",
@@ -4245,7 +4250,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1903
+      "UsersEstimate": 1904
     },
     {
       "ID": "ACHV_27",
@@ -4317,7 +4322,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "ACHV_36",
@@ -4325,7 +4330,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ACHV_37",
@@ -4349,7 +4354,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1831
+      "UsersEstimate": 1832
     },
     {
       "ID": "ACHV_40",
@@ -4365,7 +4370,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "ACHV_42",
@@ -4500,7 +4505,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2409,
+      "Progressed": 2410,
       "Completed": 13
     }
   ],
@@ -4508,8 +4513,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-29T03:00:05.8444174+00:00",
-  "LastChanged_Achievements": "2023-12-30T04:06:05.368805+00:00",
+  "LastChanged_Achievements": "2023-12-30T05:06:31.9762099+00:00",
   "LastUpdate_AppInfo": "2023-12-23T16:57:13.3130714+00:00",
-  "LastUpdate_Ratings": "2023-12-30T03:56:56.003874+00:00",
-  "LastUpdate_Achievements": "2023-12-30T04:06:05.3688673+00:00"
+  "LastUpdate_Ratings": "2023-12-30T04:57:14.1166963+00:00",
+  "LastUpdate_Achievements": "2023-12-30T05:06:31.9762719+00:00"
 }

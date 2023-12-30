@@ -5,59 +5,59 @@ Rating: 4.54 (Ranked 542)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 7.00% | ~54,287 |
-| Break A Leg | 6.00% | ~46,531 |
-| Hotel California | 6.00% | ~46,531 |
-| Coup de Grâce | 5.00% | ~38,776 |
-| Hazardous Materials | 5.00% | ~38,776 |
-| Personal Assistant Personally Assisted | 5.00% | ~38,776 |
-| Dr. Reed, I Presume? | 4.00% | ~31,021 |
-| Git Gutte! | 4.00% | ~31,021 |
-| Bookworm | 4.00% | ~31,021 |
-| Friends Like These | 4.00% | ~31,021 |
-| Apex Predator | 4.00% | ~31,021 |
-| Whatever It Takes | 4.00% | ~4,043 |
-| Anger Management | 3.00% | ~23,266 |
-| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~23,266 |
-| But Doctor, I am Butcho | 3.00% | ~23,266 |
-| Slayer Squad | 3.00% | ~23,266 |
-| Can't Handle the Truth | 3.00% | ~23,266 |
-| Like Riding a Bike | 3.00% | ~23,266 |
-| Zombologist | 3.00% | ~23,266 |
-| A Patton Emerges | 3.00% | ~23,266 |
-| Stacking the Deck | 3.00% | ~23,266 |
-| This is My Weapon | 3.00% | ~23,266 |
-| One of Us | 3.00% | ~3,032 |
-| Pork Chopped | 3.00% | ~3,032 |
-| Making Your Mark | 2.00% | ~15,510 |
-| Perks of the Job | 2.00% | ~15,510 |
-| Ooh, Shiny! | 2.00% | ~15,510 |
-| Humanity Distilled | 2.00% | ~15,510 |
-| I Am the Resurrection | 2.00% | ~15,510 |
-| Down with the Sickness | 2.00% | ~15,510 |
-| Max Headroom | 2.00% | ~15,510 |
-| Our True Nature | 2.00% | ~15,510 |
-| Smorgasbord | 1.00% | ~7,755 |
-| Not Even My Final Form | 1.00% | ~7,755 |
-| Internet Famous | 1.00% | ~7,755 |
-| Jumbo Keyring | 1.00% | ~7,755 |
-| Go, Bobcats! | 1.00% | ~7,755 |
-| Rising Star | 1.00% | ~7,755 |
+| Welcome To Hell-A | 7.00% | ~54,292 |
+| Break A Leg | 6.00% | ~46,536 |
+| Hotel California | 6.00% | ~46,536 |
+| Coup de Grâce | 5.00% | ~38,780 |
+| Hazardous Materials | 5.00% | ~38,780 |
+| Personal Assistant Personally Assisted | 5.00% | ~38,780 |
+| Dr. Reed, I Presume? | 4.00% | ~31,024 |
+| Git Gutte! | 4.00% | ~31,024 |
+| Bookworm | 4.00% | ~31,024 |
+| Friends Like These | 4.00% | ~31,024 |
+| Apex Predator | 4.00% | ~31,024 |
+| Whatever It Takes | 4.00% | ~4,046 |
+| Anger Management | 3.00% | ~23,268 |
+| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~23,268 |
+| But Doctor, I am Butcho | 3.00% | ~23,268 |
+| Slayer Squad | 3.00% | ~23,268 |
+| Can't Handle the Truth | 3.00% | ~23,268 |
+| Like Riding a Bike | 3.00% | ~23,268 |
+| Zombologist | 3.00% | ~23,268 |
+| A Patton Emerges | 3.00% | ~23,268 |
+| Stacking the Deck | 3.00% | ~23,268 |
+| This is My Weapon | 3.00% | ~23,268 |
+| One of Us | 3.00% | ~3,034 |
+| Pork Chopped | 3.00% | ~3,034 |
+| Making Your Mark | 2.00% | ~15,512 |
+| Perks of the Job | 2.00% | ~15,512 |
+| Ooh, Shiny! | 2.00% | ~15,512 |
+| Humanity Distilled | 2.00% | ~15,512 |
+| I Am the Resurrection | 2.00% | ~15,512 |
+| Down with the Sickness | 2.00% | ~15,512 |
+| Max Headroom | 2.00% | ~15,512 |
+| Our True Nature | 2.00% | ~15,512 |
+| Smorgasbord | 1.00% | ~7,756 |
+| Not Even My Final Form | 1.00% | ~7,756 |
+| Internet Famous | 1.00% | ~7,756 |
+| Jumbo Keyring | 1.00% | ~7,756 |
+| Go, Bobcats! | 1.00% | ~7,756 |
+| Rising Star | 1.00% | ~7,756 |
 | Make it So | 0.90% | ~6,980 |
 | On Safari | 0.90% | ~6,980 |
 | Variety is the Spice of Death | 0.90% | ~6,980 |
 | LA Influential | 0.70% | ~5,429 |
 | Gore Horse | 0.70% | ~5,429 |
-| Sole Survivor | 0.60% | ~4,653 |
-| Sharpest Tool in the Box | 0.60% | ~4,653 |
-| Top That, Tisha! | 0.50% | ~505 |
+| Sole Survivor | 0.60% | ~4,654 |
+| Sharpest Tool in the Box | 0.60% | ~4,654 |
+| Top That, Tisha! | 0.50% | ~506 |
 | Survival Skills | 0.40% | ~3,102 |
 | Donk! | 0.20% | ~1,551 |
 | Lawn and Order | 0.20% | ~202 |
 | Bucket List | 0.10% | ~776 |
 | Wilhelm | 0.10% | ~101 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 775,524 (Ranked 20)  
+Progressed: 775,606 (Ranked 20)  
 Completed: 2,515 (0.32%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 2,515 (0.32%) (Ranked 248)
 | 2023-12-27 | 771,068 | 2,509 |
 | 2023-12-28 | 772,923 | 2,512 |
 | 2023-12-29 | 775,077 | 2,514 |
-| 2023-12-30 | 775,524 | 2,515 |
+| 2023-12-30 | 775,606 | 2,515 |
 ## Awards
 Max (Great Boss Battles): 9,182  (Ranked 41)  
 Sum: 13,980 (Ranked 77)  

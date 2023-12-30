@@ -2,12 +2,12 @@
   "ID": "starfish",
   "Name": "Outer Wilds",
   "ProductSlug": "outerwilds",
-  "Ranking_Rating": 6,
+  "Ranking_Rating": 7,
   "Ranking_Popularity": 568,
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2019-05-28T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.91,
+  "Rating": 4.9,
   "NumberOfRatings": 726,
   "RatingHistory": [
     {
@@ -518,6 +518,12 @@
       "Rating": 4.91,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2023-12-30T04:58:21.7376762+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
@@ -543,8 +549,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:49.0094837+00:00",
-  "LastChanged": "2023-12-21T05:57:19.5160271+00:00",
+  "LastChanged": "2023-12-30T04:58:21.737676+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:41.0471983+00:00",
-  "LastUpdate_Ratings": "2023-12-30T03:58:05.7476291+00:00",
-  "LastUpdate_Achievements": "2023-12-30T04:04:26.5560641+00:00"
+  "LastUpdate_Ratings": "2023-12-30T04:58:21.7376765+00:00",
+  "LastUpdate_Achievements": "2023-12-30T05:04:55.6419609+00:00"
 }

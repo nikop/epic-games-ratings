@@ -5,26 +5,26 @@ Rating: 4.53 (Ranked 557)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 16.00% | ~17,749 |
-| I've Had Enough! | 13.00% | ~14,421 |
-| Fists, Fury & a lot of Rage | 9.00% | ~9,984 |
-| Seasoned Fighter | 8.00% | ~8,874 |
-| All For One and One For All | 7.00% | ~7,765 |
-| Home Sweet Home? | 5.00% | ~5,546 |
-| A New Age | 4.00% | ~4,437 |
-| Oh Baby, A Triple | 3.00% | ~3,328 |
-| Battle Hardened | 2.00% | ~2,219 |
-| Master of Disguise | 2.00% | ~2,219 |
-| It's Mayhem! | 2.00% | ~2,219 |
-| Right back at'cha | 2.00% | ~2,219 |
-| Symbiotic | 2.00% | ~2,219 |
-| Cautious Veteran | 1.00% | ~1,109 |
-| Double Punch! | 1.00% | ~1,109 |
-| Martyrdom | 1.00% | ~1,109 |
-| Spectacular Finisher | 1.00% | ~1,109 |
-| Katamari | 0.80% | ~887 |
-| Ninja Reflex | 0.80% | ~887 |
-| Zero-sum Game | 0.80% | ~887 |
+| All Grown Up! | 16.00% | ~17,759 |
+| I've Had Enough! | 13.00% | ~14,429 |
+| Fists, Fury & a lot of Rage | 9.00% | ~9,990 |
+| Seasoned Fighter | 8.00% | ~8,880 |
+| All For One and One For All | 7.00% | ~7,770 |
+| Home Sweet Home? | 5.00% | ~5,550 |
+| A New Age | 4.00% | ~4,440 |
+| Oh Baby, A Triple | 3.00% | ~3,330 |
+| Battle Hardened | 2.00% | ~2,220 |
+| Master of Disguise | 2.00% | ~2,220 |
+| It's Mayhem! | 2.00% | ~2,220 |
+| Right back at'cha | 2.00% | ~2,220 |
+| Symbiotic | 2.00% | ~2,220 |
+| Cautious Veteran | 1.00% | ~1,110 |
+| Double Punch! | 1.00% | ~1,110 |
+| Martyrdom | 1.00% | ~1,110 |
+| Spectacular Finisher | 1.00% | ~1,110 |
+| Katamari | 0.80% | ~888 |
+| Ninja Reflex | 0.80% | ~888 |
+| Zero-sum Game | 0.80% | ~888 |
 | Taste Your Own Medicine | 0.60% | ~666 |
 | This is GigaBash! | 0.50% | ~555 |
 | Just Getting Warmed Up | 0.40% | ~444 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 557)
 | What's Mine is Yours | 0.10% | ~111 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 110,930 (Ranked 91)  
+Progressed: 110,995 (Ranked 91)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,11 +66,11 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-27 | 108,438 | 0 |
 | 2023-12-28 | 109,557 | 0 |
 | 2023-12-29 | 110,708 | 0 |
-| 2023-12-30 | 110,930 | 0 |
+| 2023-12-30 | 110,995 | 0 |
 ## Awards
 Max (Great Boss Battles): 42  (Ranked 472)  
-Sum: 42 (Ranked 513)  
-Diff (max vs sum): -41  
+Sum: 42 (Ranked 514)  
+Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 42 |

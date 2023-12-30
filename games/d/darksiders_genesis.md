@@ -6,8 +6,8 @@ Number of Ratings: 67  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mint I | 5.00% | ~14 |
-| Soul Cache | 5.00% | ~14 |
+| Mint I | 6.00% | ~17 |
+| Soul Cache | 6.00% | ~17 |
 | Mammon | 2.00% | ~6 |
 | Astarte | 1.00% | ~3 |
 | Close the Rift | 1.00% | ~3 |

@@ -2,7 +2,7 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 283,
+  "Ranking_Rating": 297,
   "Ranking_Popularity": 420,
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 185,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.66,
   "RatingHistory": [
     {
       "Time": "2023-12-11T06:59:42.897175+00:00",
@@ -195,6 +195,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 64,
       "NumberOfAwardsMax": 64
+    },
+    {
+      "Time": "2023-12-30T04:58:20.1392666+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 64,
+      "NumberOfAwardsMax": 64
     }
   ],
   "ReviewsDisabled": false,
@@ -209,7 +215,7 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 8718,
+  "EOS_Progressed": 8728,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 2219,
   "EOS_NewCompleters": 0,
@@ -2919,6 +2925,11 @@
       "Time": "2023-12-30T04:09:18.4349805+00:00",
       "NumProgressed": 8718,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T05:09:52.189155+00:00",
+      "NumProgressed": 8728,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -2939,7 +2950,7 @@
       "Name": "Stolen Star",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -3043,7 +3054,7 @@
       "Name": "The Rise",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "17_TheExemplar",
@@ -3059,7 +3070,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "19_TheVoidWolf",
@@ -3067,7 +3078,7 @@
       "Name": "Void Wolf",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -3187,7 +3198,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -3283,7 +3294,7 @@
       "Name": "A Spark",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "47_AFlame",
@@ -3450,16 +3461,16 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8718,
+      "Progressed": 8728,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2023-12-29T15:57:59.1942922+00:00",
-  "LastChanged_Achievements": "2023-12-30T04:09:18.4349802+00:00",
+  "LastChanged": "2023-12-30T04:58:20.1392626+00:00",
+  "LastChanged_Achievements": "2023-12-30T05:09:52.1891546+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-30T03:58:04.0655695+00:00",
-  "LastUpdate_Achievements": "2023-12-30T04:09:18.4350297+00:00"
+  "LastUpdate_Ratings": "2023-12-30T04:58:20.139267+00:00",
+  "LastUpdate_Achievements": "2023-12-30T05:09:52.1892159+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "oxide-room-104-4c1249",
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewPlayers": 371,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 286,
+  "EOS_Progressed": 287,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -1324,6 +1324,11 @@
       "Time": "2023-12-29T20:04:12.408953+00:00",
       "NumProgressed": 286,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T05:04:35.4351835+00:00",
+      "NumProgressed": 287,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -1367,7 +1372,7 @@
       "Name": "What\u0027s going on here?",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ACH_COMMONAREA",
@@ -1391,7 +1396,7 @@
       "Name": "I\u0027m close now",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_ENTRANCEEVIL",
@@ -1399,15 +1404,15 @@
       "Name": "Failed attempt",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_ESCAPEDOC",
       "SetID": "511e31d",
       "Name": "The real escape",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_EVADOCUMENTS",
@@ -1447,7 +1452,7 @@
       "Name": "Let\u0027s play a game\u2026",
       "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_KITCHEN",
@@ -1471,7 +1476,7 @@
       "Name": "Soundtrack",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_NOBULLETS",
@@ -1487,7 +1492,7 @@
       "Name": "Good choice",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_OUTOFMOTEL",
@@ -1503,7 +1508,7 @@
       "Name": "Nimble fingers",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_RESTAURANT",
@@ -1511,7 +1516,7 @@
       "Name": "Take the long way round",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_REVENGE",
@@ -1527,7 +1532,7 @@
       "Name": "Room 104",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_ROOM203",
@@ -1559,7 +1564,7 @@
       "Name": "Face to face",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_THIRDFLOOR",
@@ -1567,7 +1572,7 @@
       "Name": "The third floor",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_WAREHOUSE",
@@ -1575,21 +1580,21 @@
       "Name": "Now or never",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     }
   ],
   "AchievementSets": [
     {
       "ID": "511e31d",
       "IsBase": true,
-      "Progressed": 286,
+      "Progressed": 287,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-12-30T04:04:06.0374242+00:00",
+  "LastChanged_Achievements": "2023-12-30T05:04:35.435183+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:57:01.1804937+00:00",
-  "LastUpdate_Ratings": "2023-12-30T03:58:15.6686708+00:00",
-  "LastUpdate_Achievements": "2023-12-30T04:04:06.0374494+00:00"
+  "LastUpdate_Ratings": "2023-12-30T04:58:31.4167638+00:00",
+  "LastUpdate_Achievements": "2023-12-30T05:04:35.4352078+00:00"
 }

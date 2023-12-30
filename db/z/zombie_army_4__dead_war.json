@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 197,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -2616,9 +2616,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44265,
+  "EOS_Progressed": 44266,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10436,6 +10436,11 @@
       "Time": "2023-12-30T03:04:22.1299387+00:00",
       "NumProgressed": 44265,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-12-30T05:04:06.9418899+00:00",
+      "NumProgressed": 44266,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -10447,7 +10452,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27444
+      "UsersEstimate": 27445
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -10479,7 +10484,7 @@
       "Name": "Well equipped",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 5754
+      "UsersEstimate": 5755
     },
     {
       "ID": "SE_COMPLETE_BLOOD_COUNT",
@@ -10517,9 +10522,9 @@
       "ID": "SE_COMPLETE_CROATIA",
       "SetID": "49kdhbg",
       "Name": "Look mummy! A shark!",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 18591
+      "UsersEstimate": 18149
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -10551,7 +10556,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 17263
+      "UsersEstimate": 17264
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -10639,7 +10644,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27887
+      "UsersEstimate": 27888
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -10687,7 +10692,7 @@
       "Name": "Everyone\u0027s a mad scientist, life is the lab",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 8410
+      "UsersEstimate": 8411
     },
     {
       "ID": "SE_COMPLETE_VENICE",
@@ -10703,7 +10708,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15935
+      "UsersEstimate": 15936
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -10743,7 +10748,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18591
+      "UsersEstimate": 18592
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -10751,7 +10756,7 @@
       "Name": "Gold",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 22575
+      "UsersEstimate": 22576
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -10775,7 +10780,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30543
+      "UsersEstimate": 30544
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -10807,7 +10812,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 25231
+      "UsersEstimate": 25232
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -10823,7 +10828,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15935
+      "UsersEstimate": 15936
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -10839,7 +10844,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19919
+      "UsersEstimate": 19920
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -10847,7 +10852,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29215
+      "UsersEstimate": 29216
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -10903,7 +10908,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29215
+      "UsersEstimate": 29216
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -10967,22 +10972,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15935
+      "UsersEstimate": 15936
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44265,
+      "Progressed": 44266,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-12-29T05:57:06.3700729+00:00",
-  "LastChanged_Achievements": "2023-12-30T04:03:37.1813114+00:00",
+  "LastChanged_Achievements": "2023-12-30T05:04:06.9418893+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:25.7383264+00:00",
-  "LastUpdate_Ratings": "2023-12-30T03:57:39.8942609+00:00",
-  "LastUpdate_Achievements": "2023-12-30T04:03:37.1813836+00:00"
+  "LastUpdate_Ratings": "2023-12-30T04:57:56.5152223+00:00",
+  "LastUpdate_Achievements": "2023-12-30T05:04:06.9419691+00:00"
 }

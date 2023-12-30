@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 562,
+  "EOS_Progressed": 563,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
@@ -1834,6 +1834,11 @@
       "Time": "2023-12-30T02:25:47.8962783+00:00",
       "NumProgressed": 562,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T05:06:26.2377079+00:00",
+      "NumProgressed": 563,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1902,7 +1907,7 @@
       "Name": "Turn a Rat into a Snack",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "REMAKE_002",
@@ -1910,7 +1915,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "REMAKE_004",
@@ -1918,7 +1923,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "Remake_005",
@@ -1940,9 +1945,9 @@
       "ID": "Remake_007",
       "SetID": "5pi96jj",
       "Name": "Deez Buffs Make Me Go Nuts",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 146
     },
     {
       "ID": "Remake_008",
@@ -1974,7 +1979,7 @@
       "Name": "Imma Powder Out",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Remake_12",
@@ -2006,7 +2011,7 @@
       "Name": "Ready for the Big Leagues",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Remake_16",
@@ -2038,7 +2043,7 @@
       "Name": "Pan Head",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Remake_20",
@@ -2069,14 +2074,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 562,
+      "Progressed": 563,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-30T04:05:59.5874744+00:00",
+  "LastChanged_Achievements": "2023-12-30T05:06:26.2377073+00:00",
   "LastUpdate_AppInfo": "2023-12-26T02:16:12.1403657+00:00",
-  "LastUpdate_Ratings": "2023-12-30T03:59:33.7072177+00:00",
-  "LastUpdate_Achievements": "2023-12-30T04:05:59.5874986+00:00"
+  "LastUpdate_Ratings": "2023-12-30T04:59:45.6681806+00:00",
+  "LastUpdate_Achievements": "2023-12-30T05:06:26.2377425+00:00"
 }

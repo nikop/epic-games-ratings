@@ -5,23 +5,23 @@ Rating: 4.52 (Ranked 570)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~6,709 |
-| Greasy Palms | 42.00% | ~6,125 |
-| South American Connection | 26.00% | ~3,792 |
-| Life of the Party | 20.00% | ~2,917 |
+| Legal Counsel | 46.00% | ~6,711 |
+| Greasy Palms | 42.00% | ~6,128 |
+| South American Connection | 26.00% | ~3,793 |
+| Life of the Party | 20.00% | ~2,918 |
 | Big Heat from Little Havana | 15.00% | ~2,188 |
 | Chauffeur | 15.00% | ~2,188 |
 | Tommy Two-Wheels | 15.00% | ~2,188 |
-| Salutations My Little Friend | 11.00% | ~1,604 |
-| Iron-y | 10.00% | ~1,458 |
+| Salutations My Little Friend | 11.00% | ~1,605 |
+| Iron-y | 10.00% | ~1,459 |
 | Gun for Hire | 9.00% | ~1,313 |
 | Mischief Managed | 8.00% | ~1,167 |
 | Vice City Mogul | 6.00% | ~875 |
 | Catch Me if You Can | 6.00% | ~875 |
 | Bloodstained Hands | 6.00% | ~875 |
-| Not my First Time | 5.00% | ~729 |
-| Grand Theft Auto | 5.00% | ~729 |
-| Pie Guy | 4.00% | ~583 |
+| Not my First Time | 5.00% | ~730 |
+| Grand Theft Auto | 5.00% | ~730 |
+| Pie Guy | 4.00% | ~584 |
 | Point A to Point B | 3.00% | ~438 |
 | High Quality H2O | 3.00% | ~438 |
 | Bull in a China Shop | 3.00% | ~438 |
@@ -40,8 +40,8 @@ Rating: 4.52 (Ranked 570)
 | Done it All | 0.90% | ~131 |
 | Kingpin | 0.60% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,584 (Ranked 169)  
-Completed: 83 (0.57%) (Ranked 207)  
+Progressed: 14,590 (Ranked 169)  
+Completed: 83 (0.57%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -294,7 +294,7 @@ Completed: 83 (0.57%) (Ranked 207)
 | 2023-12-27 | 14,318 | 79 |
 | 2023-12-28 | 14,428 | 82 |
 | 2023-12-29 | 14,564 | 83 |
-| 2023-12-30 | 14,584 | 83 |
+| 2023-12-30 | 14,590 | 83 |
 ## Awards
 Max (Great Boss Battles): 164  (Ranked 320)  
 Sum: 164 (Ranked 434)  

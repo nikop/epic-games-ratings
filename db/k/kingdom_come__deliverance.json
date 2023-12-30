@@ -9723,7 +9723,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 815018,
+  "EOS_Progressed": 815021,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 1204,
   "EOS_NewCompleters": 1,
@@ -38403,6 +38403,11 @@
       "Time": "2023-12-30T04:09:28.4012027+00:00",
       "NumProgressed": 815018,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-30T05:10:02.0066746+00:00",
+      "NumProgressed": 815021,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 82,
@@ -38494,7 +38499,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 260806
+      "UsersEstimate": 260807
     },
     {
       "ID": "Bookworm",
@@ -38510,7 +38515,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 97802
+      "UsersEstimate": 97803
     },
     {
       "ID": "Casanova",
@@ -38614,7 +38619,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 187454
+      "UsersEstimate": 187455
     },
     {
       "ID": "Fighter",
@@ -38734,7 +38739,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 105952
+      "UsersEstimate": 105953
     },
     {
       "ID": "Judas",
@@ -38990,7 +38995,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 97802
+      "UsersEstimate": 97803
     },
     {
       "ID": "TisButAScratch",
@@ -39069,15 +39074,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 815018,
+      "Progressed": 815021,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-12-29T19:00:09.7289491+00:00",
-  "LastChanged_Achievements": "2023-12-30T04:09:28.4012024+00:00",
+  "LastChanged_Achievements": "2023-12-30T05:10:02.0066743+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.7254709+00:00",
   "LastUpdate_Ratings": "2023-12-30T04:00:11.5476855+00:00",
-  "LastUpdate_Achievements": "2023-12-30T04:09:28.4013769+00:00"
+  "LastUpdate_Achievements": "2023-12-30T05:10:02.0068603+00:00"
 }

@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 81.00% | ~219 |
-| Purification Pioneer | 77.00% | ~208 |
+| Meissa's Savior | 81.00% | ~220 |
+| Purification Pioneer | 77.00% | ~209 |
 | Mechanical Buddy | 71.00% | ~192 |
-| Dicesmithing Time! | 63.00% | ~170 |
-| Sanctuary Guardian | 53.00% | ~143 |
-| Endless Tricks | 49.00% | ~132 |
-| Wild's Keeper | 46.00% | ~124 |
+| Dicesmithing Time! | 63.00% | ~171 |
+| Sanctuary Guardian | 53.00% | ~144 |
+| Endless Tricks | 49.00% | ~133 |
+| Wild's Keeper | 46.00% | ~125 |
 | Mind Illuminator | 44.00% | ~119 |
-| Stellar Dismantler | 35.00% | ~94 |
+| Stellar Dismantler | 35.00% | ~95 |
 | Noctuan Champion | 34.00% | ~92 |
 | Anomaly Destroyer | 30.00% | ~81 |
 | Astral Adventurer | 30.00% | ~81 |
 | Star Killer | 27.00% | ~73 |
 | Eridanian Champion | 24.00% | ~65 |
-| Loyal Partner | 22.00% | ~59 |
+| Loyal Partner | 22.00% | ~60 |
 | Lacertian Champion | 21.00% | ~57 |
 | Apian Champion | 19.00% | ~51 |
 | Shard Spender | 18.00% | ~49 |
 | Unbeatable | 17.00% | ~46 |
-| Sadistic Plan | 16.00% | ~43 |
+| Sadistic Plan | 15.00% | ~41 |
 | Behenian Champion | 14.00% | ~38 |
 | Astral Seeker | 10.00% | ~27 |
 | Aquarian Champion | 10.00% | ~27 |
-| Heavy Purger | 9.00% | ~24 |
 | Stellar Haste | 9.00% | ~24 |
-| Wave Bender | 9.00% | ~24 |
 | Heart Gate | 8.00% | ~22 |
+| Heavy Purger | 8.00% | ~22 |
 | The Corruption Goddess | 8.00% | ~22 |
 | The Goddes Avatar | 8.00% | ~22 |
+| Wave Bender | 8.00% | ~22 |
 | Favored by the Cosmos | 7.00% | ~19 |
 | Anomaly Control | 6.00% | ~16 |
 | Artificer | 5.00% | ~14 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 270 (Ranked 397)  
+Progressed: 271 (Ranked 397)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,4 +168,4 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-27 | 253 | 0 |
 | 2023-12-28 | 262 | 0 |
 | 2023-12-29 | 269 | 0 |
-| 2023-12-30 | 270 | 0 |
+| 2023-12-30 | 271 | 0 |

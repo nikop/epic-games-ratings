@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1725,
+  "EOS_Progressed": 1726,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 272,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -3220,6 +3220,11 @@
       "Time": "2023-12-30T02:29:15.4699668+00:00",
       "NumProgressed": 1725,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-30T05:09:56.8418667+00:00",
+      "NumProgressed": 1726,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 15,
@@ -3231,7 +3236,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 1690
+      "UsersEstimate": 1691
     },
     {
       "ID": "booty_call",
@@ -3247,7 +3252,7 @@
       "Name": "Crash and Burn",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "digital_casanova",
@@ -3255,7 +3260,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "hold_my_beer",
@@ -3311,7 +3316,7 @@
       "Name": "Only Thyme Will Tell",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "planting_the_seed",
@@ -3343,14 +3348,14 @@
       "Name": "We Go Again",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 1725,
+      "Progressed": 1726,
       "Completed": 11
     }
   ],
@@ -3358,8 +3363,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-12-30T04:09:23.3034521+00:00",
+  "LastChanged_Achievements": "2023-12-30T05:09:56.8418665+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:00.2204919+00:00",
-  "LastUpdate_Ratings": "2023-12-30T03:58:00.3066363+00:00",
-  "LastUpdate_Achievements": "2023-12-30T04:09:23.3034748+00:00"
+  "LastUpdate_Ratings": "2023-12-30T04:58:16.4093886+00:00",
+  "LastUpdate_Achievements": "2023-12-30T05:09:56.8418849+00:00"
 }

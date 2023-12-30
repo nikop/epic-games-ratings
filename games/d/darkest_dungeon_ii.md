@@ -7,12 +7,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 11.00% | ~609 |
-| Lost and Found | 7.00% | ~387 |
+| Lost and Found | 7.00% | ~388 |
 | Autodidact | 6.00% | ~7,840 |
 | This guy... again? | 6.00% | ~332 |
-| This Belongs in a Museum | 5.00% | ~6,533 |
-| Creep and Sleep | 5.00% | ~6,533 |
-| Overdue Notice | 5.00% | ~6,533 |
+| This Belongs in a Museum | 5.00% | ~6,534 |
+| Creep and Sleep | 5.00% | ~6,534 |
+| Overdue Notice | 5.00% | ~6,534 |
 | Ploughshares to Swords | 5.00% | ~277 |
 | Bloody Graduation | 5.00% | ~277 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,227 |
@@ -25,7 +25,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Rush Hour | 4.00% | ~5,227 |
 | To Grandmother's House | 4.00% | ~5,227 |
 | FNG | 4.00% | ~5,227 |
-| Friends 'Til the End | 4.00% | ~221 |
+| Friends 'Til the End | 4.00% | ~222 |
 | Dissector | 3.00% | ~3,920 |
 | Banishment | 3.00% | ~3,920 |
 | It Happens | 3.00% | ~3,920 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,663 (Ranked 88)  
+Progressed: 130,671 (Ranked 88)  
 Completed: 3 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 3 (0.00%) (Ranked 390)
 | 2023-12-27 | 130,259 | 3 |
 | 2023-12-28 | 130,422 | 3 |
 | 2023-12-29 | 130,627 | 3 |
-| 2023-12-30 | 130,663 | 3 |
+| 2023-12-30 | 130,671 | 3 |
 ## Awards
 Max (Character Customization): 7,899  (Ranked 50)  
 Sum: 21,244 (Ranked 58)  

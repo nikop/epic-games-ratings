@@ -635,9 +635,9 @@
       "ID": "NEW_ACHIEVEMENT_2_4",
       "SetID": "631i43e",
       "Name": "Full House",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_5",
@@ -698,8 +698,8 @@
   ],
   "FirstSeen": "2023-10-08T01:44:07.0326373+00:00",
   "FirstSeenAchievements": "2023-08-30T10:02:22.7238107+00:00",
-  "LastChanged_Achievements": "2023-12-30T04:08:32.8484346+00:00",
+  "LastChanged_Achievements": "2023-12-30T05:09:07.7226608+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:07.926146+00:00",
-  "LastUpdate_Ratings": "2023-12-30T03:57:05.9504273+00:00",
-  "LastUpdate_Achievements": "2023-12-30T04:08:32.8484752+00:00"
+  "LastUpdate_Ratings": "2023-12-30T04:57:23.8045302+00:00",
+  "LastUpdate_Achievements": "2023-12-30T05:09:07.722711+00:00"
 }

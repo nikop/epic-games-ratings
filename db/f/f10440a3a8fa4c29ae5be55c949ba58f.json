@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4724,
+  "EOS_Progressed": 4741,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 4030,
+  "EOS_NewPlayers": 4027,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1069,6 +1069,11 @@
       "Time": "2023-12-30T04:08:48.8943388+00:00",
       "NumProgressed": 4724,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-30T05:09:23.0539681+00:00",
+      "NumProgressed": 4741,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -1081,7 +1086,7 @@
       "Name": "Final Destination",
       "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 2362
+      "UsersEstimate": 2370
     },
     {
       "ID": "Document1",
@@ -1089,7 +1094,7 @@
       "Name": "The Seeker in the Shadows",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 425
+      "UsersEstimate": 427
     },
     {
       "ID": "Document2",
@@ -1097,7 +1102,7 @@
       "Name": "Document Discoverer",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "Document3",
@@ -1105,7 +1110,7 @@
       "Name": "Secrets Revealer",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "Document4",
@@ -1113,7 +1118,7 @@
       "Name": "Truth Seeker",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "Document5",
@@ -1129,7 +1134,7 @@
       "Name": "Perseverant",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "Untraceable2",
@@ -1137,21 +1142,21 @@
       "Name": "Untraceable",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     }
   ],
   "AchievementSets": [
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 4724,
+      "Progressed": 4741,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2023-12-30T04:08:48.8943385+00:00",
+  "LastChanged_Achievements": "2023-12-30T05:09:23.0539676+00:00",
   "LastUpdate_AppInfo": "2023-12-24T20:56:57.0672179+00:00",
-  "LastUpdate_Ratings": "2023-12-30T03:58:04.5962001+00:00",
-  "LastUpdate_Achievements": "2023-12-30T04:08:48.8943496+00:00"
+  "LastUpdate_Ratings": "2023-12-30T04:58:20.5272913+00:00",
+  "LastUpdate_Achievements": "2023-12-30T05:09:23.0540128+00:00"
 }
