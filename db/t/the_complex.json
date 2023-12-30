@@ -3,8 +3,8 @@
   "Name": "The Complex",
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 307,
-  "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_Completed": 117,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 747,
+  "EOS_Progressed": 748,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.81,
   "EosHistory": [
@@ -1495,6 +1495,11 @@
       "Time": "2023-12-30T16:09:46.188818+00:00",
       "NumProgressed": 747,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-30T17:09:33.5151166+00:00",
+      "NumProgressed": 748,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 20,
@@ -1506,15 +1511,15 @@
       "Name": "Beat It",
       "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "blast_from_the_past",
       "SetID": "d4f4pll",
       "Name": "Blast From The Past",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 627
+      "UsersEstimate": 621
     },
     {
       "ID": "deadly_secret",
@@ -1544,9 +1549,9 @@
       "ID": "ending_3",
       "SetID": "d4f4pll",
       "Name": "Get Out Of This Alive",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 75
+      "UsersEstimate": 67
     },
     {
       "ID": "ending_4",
@@ -1562,7 +1567,7 @@
       "Name": "Lab Rat",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ending_6",
@@ -1576,9 +1581,9 @@
       "ID": "ending_7",
       "SetID": "d4f4pll",
       "Name": "Trust Me For Once",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 202
+      "UsersEstimate": 194
     },
     {
       "ID": "ending_8",
@@ -1594,7 +1599,7 @@
       "Name": "Falling For You",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "free_champagne",
@@ -1658,14 +1663,14 @@
       "Name": "Tough Decision",
       "Percentage": 92,
       "XP": 50,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 747,
+      "Progressed": 748,
       "Completed": 21
     }
   ],
@@ -1673,8 +1678,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:09:46.1888176+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:09:33.5151162+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.7149105+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:58:11.4125824+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:09:46.1888337+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:58:04.6438301+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:09:33.51514+00:00"
 }

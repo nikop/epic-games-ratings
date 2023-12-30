@@ -2,13 +2,13 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 500,
+  "Ranking_Rating": 501,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17800,
+  "EOS_Progressed": 17808,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 612,
+  "EOS_NewPlayers": 616,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15682,6 +15682,11 @@
       "Time": "2023-12-30T16:06:22.3924349+00:00",
       "NumProgressed": 17800,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-30T17:06:21.1341816+00:00",
+      "NumProgressed": 17808,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15710,7 +15715,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1958
+      "UsersEstimate": 1959
     },
     {
       "ID": "12",
@@ -15726,7 +15731,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2848
+      "UsersEstimate": 2849
     },
     {
       "ID": "14",
@@ -15742,7 +15747,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1603
     },
     {
       "ID": "16",
@@ -15758,7 +15763,7 @@
       "Name": "Spore Taste",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "18",
@@ -15774,7 +15779,7 @@
       "Name": "Martian Music",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1958
+      "UsersEstimate": 1959
     },
     {
       "ID": "2",
@@ -15798,7 +15803,7 @@
       "Name": "Drone Dodger",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "22",
@@ -15814,7 +15819,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1247
     },
     {
       "ID": "24",
@@ -15838,7 +15843,7 @@
       "Name": "Call it Even",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1425
     },
     {
       "ID": "27",
@@ -15846,7 +15851,7 @@
       "Name": "Bosmang",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 1958
+      "UsersEstimate": 1959
     },
     {
       "ID": "28",
@@ -15870,7 +15875,7 @@
       "Name": "Captain Drummer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2136
+      "UsersEstimate": 2137
     },
     {
       "ID": "30",
@@ -15902,7 +15907,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2136
+      "UsersEstimate": 2137
     },
     {
       "ID": "7",
@@ -15926,7 +15931,7 @@
       "Name": "Impossible Objects",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1958
+      "UsersEstimate": 1959
     },
     {
       "ID": "31",
@@ -15942,7 +15947,7 @@
       "Name": "Safe Cracker",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "33",
@@ -15950,7 +15955,7 @@
       "Name": "Zen Master",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "34",
@@ -15966,20 +15971,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17800,
+      "Progressed": 17808,
       "Completed": 57
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3754,
+      "Progressed": 3762,
       "Completed": 1121
     }
   ],
@@ -15987,8 +15992,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-27T06:00:51.7325186+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:06:22.3924346+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:06:21.1341811+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:57:56.054574+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:06:22.3925293+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:57:47.053312+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:06:21.1342966+00:00"
 }

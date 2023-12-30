@@ -653,7 +653,7 @@
   ],
   "EOS_Progressed": 6543,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 491,
+  "EOS_NewPlayers": 487,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9935,9 +9935,9 @@
       "ID": "28",
       "SetID": "3aa2279",
       "Name": "From Friends to Family",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 523
+      "UsersEstimate": 589
     },
     {
       "ID": "29",
@@ -10015,9 +10015,9 @@
       "ID": "37",
       "SetID": "3aa2279",
       "Name": "Against the Odds",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 196
     },
     {
       "ID": "38",
@@ -10151,9 +10151,9 @@
       "ID": "48",
       "SetID": "7132754",
       "Name": "Blood of the Dragon",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 131
     },
     {
       "ID": "49",
@@ -10270,8 +10270,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-30T08:58:11.4280246+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:06:07.0113347+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:06:04.4849238+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:58:24.0210466+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:06:07.0114286+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:58:18.926413+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:06:04.4850101+00:00"
 }

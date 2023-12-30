@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 892,
+  "EOS_Progressed": 893,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -3146,6 +3146,11 @@
       "Time": "2023-12-30T16:05:51.6684712+00:00",
       "NumProgressed": 892,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-30T17:05:48.4450152+00:00",
+      "NumProgressed": 893,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3157,7 +3162,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "cool-shirts",
@@ -3205,7 +3210,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "kill-lieutenants",
@@ -3221,7 +3226,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "play-at-night",
@@ -3237,7 +3242,7 @@
       "Name": "Follow the Money",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "rage-quit",
@@ -3245,7 +3250,7 @@
       "Name": "Bad Trip",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "rename-lieutenant",
@@ -3308,15 +3313,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 892,
+      "Progressed": 893,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:05:51.6684708+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:05:48.4450149+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:28.0909212+00:00",
-  "LastUpdate_Ratings": "2023-12-30T16:03:02.5251338+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:05:51.6684969+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:02:46.8556168+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:05:48.4450426+00:00"
 }

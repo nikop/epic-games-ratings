@@ -2,9 +2,9 @@
   "ID": "eca39884bdf14f65af242a8e3ff5b2d9",
   "Name": "Avatar: Frontiers of Pandora",
   "ProductSlug": "avatar-frontiers-of-pandora",
-  "Ranking_Rating": 611,
-  "Ranking_Popularity": 398,
-  "Ranking_PopularitySum": 317,
+  "Ranking_Rating": 589,
+  "Ranking_Popularity": 395,
+  "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 564,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN, RU, BY"
     }
   },
-  "Rating": 4.5,
+  "Rating": 4.51,
   "RatingHistory": [
     {
       "Time": "2023-12-07T19:59:23.1655441+00:00",
@@ -759,11 +759,17 @@
       "Rating": 4.5,
       "NumberOfAwards": 626,
       "NumberOfAwardsMax": 82
+    },
+    {
+      "Time": "2023-12-30T16:59:40.4782057+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 639,
+      "NumberOfAwardsMax": 87
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 626,
-  "NumberOfAwardsMax": 82,
+  "NumberOfAwards": 639,
+  "NumberOfAwardsMax": 87,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -776,7 +782,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 82
+      "Count": 87
     },
     {
       "Text": "This game has Amazing Characters",
@@ -824,7 +830,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 70
+      "Count": 78
     },
     {
       "Text": "This game has a Creative Community",
@@ -845,8 +851,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-07T07:59:53.6089805+00:00",
   "FirstSeenRating": "2023-12-07T19:59:23.1655437+00:00",
-  "LastChanged": "2023-12-30T08:00:09.7613352+00:00",
+  "LastChanged": "2023-12-30T16:59:40.4782055+00:00",
   "LastUpdate_AppInfo": "2023-12-25T06:57:12.3126511+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:59:33.2471497+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:04:07.3366372+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:59:40.4782059+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:03:56.9016032+00:00"
 }

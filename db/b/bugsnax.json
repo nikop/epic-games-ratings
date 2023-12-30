@@ -2,13 +2,13 @@
   "ID": "c42b08b655c04a64a0535331629d4b6d",
   "Name": "Bugsnax",
   "ProductSlug": "bugsnax",
-  "Ranking_Rating": 31,
+  "Ranking_Rating": 32,
   "Ranking_Popularity": 469,
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 77,
   "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
     "PcReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -8598,9 +8598,9 @@
       "ID": "ACH_CATCH_ALL",
       "SetID": "2m0copd",
       "Name": "Got to Catch Them All",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 9272
+      "UsersEstimate": 9562
     },
     {
       "ID": "ACH_CATCH_HALF",
@@ -8798,8 +8798,8 @@
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-12-30T02:57:14.5801633+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:09:55.8539945+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:09:43.387243+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:04.8569905+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:57:47.270164+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:09:55.8540866+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:57:36.9456255+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:09:43.3873249+00:00"
 }

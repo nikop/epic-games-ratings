@@ -14,7 +14,7 @@ Rating: 4.27 (Ranked 892)
 | Overheated | 30.00% | ~724 |
 | High Performance | 30.00% | ~724 |
 | Powered Up | 28.00% | ~676 |
-| Studied The Blade | 24.00% | ~580 |
+| Studied The Blade | 25.00% | ~604 |
 | Home Invasion | 23.00% | ~555 |
 | Luminary | 22.00% | ~531 |
 | It's a Trap | 22.00% | ~531 |

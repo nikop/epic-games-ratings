@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 3792,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3677,9 +3677,9 @@
       "Count": 337
     }
   ],
-  "EOS_Progressed": 19698,
+  "EOS_Progressed": 19705,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 684,
+  "EOS_NewPlayers": 688,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -17742,6 +17742,11 @@
       "Time": "2023-12-30T16:03:42.3810282+00:00",
       "NumProgressed": 19698,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-30T17:03:30.6436693+00:00",
+      "NumProgressed": 19705,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17760,9 +17765,9 @@
       "ID": "AllFood",
       "SetID": "cfbk359",
       "Name": "Feeding The People",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 118
     },
     {
       "ID": "AllNeeds",
@@ -18114,7 +18119,7 @@
       "Name": "Like a Machine",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "WinWithTradeRoutes",
@@ -18218,22 +18223,22 @@
       "Name": "Fox Utopia",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     }
   ],
   "AchievementSets": [
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19698,
+      "Progressed": 19705,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-29T20:02:24.9867935+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:03:42.3810278+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:03:30.6436689+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-30T16:02:57.5084368+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:03:42.3811516+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:02:40.8520635+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:03:30.6437917+00:00"
 }

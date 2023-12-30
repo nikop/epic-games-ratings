@@ -5,7 +5,7 @@
   "Ranking_Rating": 1047,
   "Ranking_Popularity": 208,
   "Ranking_PopularitySum": 190,
-  "Ranking_EOS_Progress": 98,
+  "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 156,
@@ -5331,9 +5331,9 @@
       "Count": 531
     }
   ],
-  "EOS_Progressed": 92750,
+  "EOS_Progressed": 92754,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 354,
+  "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -29756,6 +29756,11 @@
       "Time": "2023-12-30T16:08:25.7904827+00:00",
       "NumProgressed": 92750,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-30T17:08:07.7902418+00:00",
+      "NumProgressed": 92754,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -29767,7 +29772,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2782
+      "UsersEstimate": 2783
     },
     {
       "ID": "ACH_0011",
@@ -29807,7 +29812,7 @@
       "Name": "Legend Looter",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ACH_0016",
@@ -29855,7 +29860,7 @@
       "Name": "Foo Finder",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ACH_0060",
@@ -29903,7 +29908,7 @@
       "Name": "Moneybags",
       "Percentage": 0.6,
       "XP": 55,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ACH_0200",
@@ -29935,7 +29940,7 @@
       "Name": "Too Old for This",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2782
+      "UsersEstimate": 2783
     },
     {
       "ID": "ACH_0300",
@@ -29999,7 +30004,7 @@
       "Name": "Fancy Pants",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2782
+      "UsersEstimate": 2783
     },
     {
       "ID": "ACH_0431",
@@ -30063,7 +30068,7 @@
       "Name": "All that Glitters",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_1020",
@@ -30094,13 +30099,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92750,
+      "Progressed": 92754,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21097,
+      "Progressed": 21101,
       "Completed": 15593
     }
   ],
@@ -30108,8 +30113,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-30T15:59:09.7129225+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:08:25.7904824+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:08:07.7902415+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:55.2021168+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:59:09.7129231+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:08:25.7906101+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:59:12.1009149+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:08:07.7903965+00:00"
 }

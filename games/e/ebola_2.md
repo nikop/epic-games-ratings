@@ -8,7 +8,7 @@
 | Recluse ✔ | 35.00% | ~110 |
 | Scent of Meat ✔ | 22.00% | ~69 |
 | Witch ✔ | 22.00% | ~69 |
-| Survival ✔ | 4.00% | ~13 |
+| Survival ✔ | 3.00% | ~9 |
 | Guardian angel ✔ | 2.00% | ~6 |
 | Master of Unlocking ✔ | 2.00% | ~6 |
 | Voodoo ✔ | 1.00% | ~3 |
@@ -23,7 +23,7 @@
 | Hardcore ✔ | 0.00% | ~0 |
 | King of survival ✔ | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 314 (Ranked 379)  
+Progressed: 315 (Ranked 379)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,3 +123,4 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-26 | 312 | 0 |
 | 2023-12-27 | 313 | 0 |
 | 2023-12-29 | 314 | 0 |
+| 2023-12-30 | 315 | 0 |

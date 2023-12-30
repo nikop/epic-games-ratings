@@ -2208,7 +2208,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16026,
+  "EOS_Progressed": 16027,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
@@ -18623,6 +18623,11 @@
       "Time": "2023-12-30T16:10:23.5634989+00:00",
       "NumProgressed": 16026,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-30T17:10:13.1654716+00:00",
+      "NumProgressed": 16027,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19368,9 +19373,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_ABLE",
       "SetID": "7l38kb8",
       "Name": "Able Difficulty",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GLORIOUS",
@@ -19520,9 +19525,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_SAGES",
       "SetID": "7l38kb8",
       "Name": "Sages",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_STATESMEN",
@@ -20664,9 +20669,9 @@
       "ID": "ACHIEVEMENT_TRADE_CARAVAN",
       "SetID": "9201eeb",
       "Name": "Trade Caravan",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER",
@@ -21497,21 +21502,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16026,
+      "Progressed": 16027,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16026,
+      "Progressed": 16027,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-29T16:02:55.9624641+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:10:23.5634987+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:10:13.1654713+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:47.5878363+00:00",
-  "LastUpdate_Ratings": "2023-12-30T16:03:13.7283188+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:10:23.5645679+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:02:58.3208674+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:10:13.1665063+00:00"
 }

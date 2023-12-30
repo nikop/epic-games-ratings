@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -685,9 +685,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473055,
+  "EOS_Progressed": 473056,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26945,6 +26945,11 @@
       "Time": "2023-12-30T16:10:19.8721354+00:00",
       "NumProgressed": 473055,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-30T17:10:09.3474602+00:00",
+      "NumProgressed": 473056,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -27044,7 +27049,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312216
+      "UsersEstimate": 312217
     },
     {
       "ID": "achievement_story_landa",
@@ -27364,7 +27369,7 @@
       "Name": "Excelsior Mastery",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 4257
+      "UsersEstimate": 4258
     },
     {
       "ID": "achievement_win_all_chapers_with_starter_hard",
@@ -27380,7 +27385,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 208144
+      "UsersEstimate": 208145
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -27388,7 +27393,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141916
+      "UsersEstimate": 141917
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -27412,7 +27417,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184491
+      "UsersEstimate": 184492
     },
     {
       "ID": "achievement_win_run_hard",
@@ -27587,21 +27592,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 16989,
+      "Progressed": 16990,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473055,
+      "Progressed": 473056,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-29T21:58:28.6192346+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:10:19.8721349+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:10:09.3474599+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:48.398594+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:58:55.1819086+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:10:19.8723394+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:58:55.1351503+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:10:09.3476345+00:00"
 }

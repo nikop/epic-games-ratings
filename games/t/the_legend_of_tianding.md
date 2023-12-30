@@ -16,7 +16,7 @@
 | The End of an Outlaw | 36.00% | ~20 |
 | Demon Slayer | 33.00% | ~18 |
 | Steal Her Away | 33.00% | ~18 |
-| Sewer Rat | 31.00% | ~17 |
+| Sewer Rat | 33.00% | ~18 |
 | Fight Fire With Fire | 31.00% | ~17 |
 | Urban Explorer | 29.00% | ~16 |
 | Not Today | 27.00% | ~15 |

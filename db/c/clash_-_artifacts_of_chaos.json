@@ -4,7 +4,7 @@
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 448,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -526,9 +526,9 @@
       "ID": "Achievement16",
       "SetID": "jf6ho5",
       "Name": "The Bigger They Are",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Achievement17",
@@ -647,8 +647,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:10:12.9351888+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:10:01.8316438+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:10.1109557+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:59:28.7732168+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:10:12.9352012+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:59:35.2585935+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:10:01.8316608+00:00"
 }

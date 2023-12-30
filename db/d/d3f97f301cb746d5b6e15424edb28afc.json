@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -121,7 +121,7 @@
   "Tags": [],
   "EOS_Progressed": 1470,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4037,9 +4037,9 @@
       "ID": "ACH_CAR_WASH_02",
       "SetID": "5fn8ia4",
       "Name": "Car Wash Lvl. 2",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 500
+      "UsersEstimate": 514
     },
     {
       "ID": "ACH_CAR_WASH_03",
@@ -4117,9 +4117,9 @@
       "ID": "GSS_ACH_02_SHOP_02",
       "SetID": "5fn8ia4",
       "Name": "It\u0027s just getting started",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1073
     },
     {
       "ID": "GSS_ACH_03_TIP_01",
@@ -4229,9 +4229,9 @@
       "ID": "GSS_ACH_16_ORDER_FUEL",
       "SetID": "5fn8ia4",
       "Name": "Fuel Ordered",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1367
+      "UsersEstimate": 1382
     },
     {
       "ID": "GSS_ACH_17_ORDER_TRASH_COLLECTION",
@@ -4293,9 +4293,9 @@
       "ID": "GSS_ACH_25_DENNIS",
       "SetID": "5fn8ia4",
       "Name": "Pranks? Nope!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1352
     },
     {
       "ID": "GSS_ACH_26_EXCAVATOR_RESET",
@@ -4405,9 +4405,9 @@
       "ID": "GSS_ACH_39_GARAGE_02",
       "SetID": "5fn8ia4",
       "Name": "Machine Head",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1029
     },
     {
       "ID": "GSS_ACH_40_GARAGE_03",
@@ -4453,9 +4453,9 @@
       "ID": "GSS_ACH_45_ORDER_PRODUCTS",
       "SetID": "5fn8ia4",
       "Name": "Products Please!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1220
     },
     {
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
@@ -4541,9 +4541,9 @@
       "ID": "GSS_ACH_56_UPGRADE_WAREHOUSE_01",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Obtained!",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1235
     },
     {
       "ID": "GSS_ACH_57_UPGRADE_WAREHOUSE_02",
@@ -4677,9 +4677,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1294
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -4766,8 +4766,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-30T13:03:18.5832647+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:04:45.6228321+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:04:38.7692288+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:05.7719462+00:00",
-  "LastUpdate_Ratings": "2023-12-30T16:02:45.3713038+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:04:45.6229182+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:00:48.6607859+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:04:38.7693113+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19205,
+  "EOS_Progressed": 19207,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14240,6 +14240,11 @@
       "Time": "2023-12-30T16:04:08.4402254+00:00",
       "NumProgressed": 19205,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-30T17:03:58.1018096+00:00",
+      "NumProgressed": 19207,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14315,7 +14320,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4417
+      "UsersEstimate": 4418
     },
     {
       "ID": "0010",
@@ -14347,7 +14352,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1920
+      "UsersEstimate": 1921
     },
     {
       "ID": "0014",
@@ -14387,7 +14392,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1728
+      "UsersEstimate": 1729
     },
     {
       "ID": "0019",
@@ -14403,7 +14408,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1920
+      "UsersEstimate": 1921
     },
     {
       "ID": "0021",
@@ -14435,7 +14440,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4225
+      "UsersEstimate": 4226
     },
     {
       "ID": "0025",
@@ -14467,7 +14472,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4417
+      "UsersEstimate": 4418
     },
     {
       "ID": "0029",
@@ -14538,7 +14543,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19205,
+      "Progressed": 19207,
       "Completed": 4
     }
   ],
@@ -14546,8 +14551,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:04:08.4402249+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:03:58.1018093+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:06.2352565+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:59:19.1576236+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:04:08.4403099+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:59:23.5092444+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:03:58.1019155+00:00"
 }

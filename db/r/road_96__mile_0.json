@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 590,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -2139,9 +2139,9 @@
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 80,
-      "UsersEstimate": 230
+      "UsersEstimate": 236
     },
     {
       "ID": "completeact3",
@@ -2260,8 +2260,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:10:10.5378949+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:09:59.2868489+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:13.373144+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:57:54.3138461+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:10:10.5379218+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:57:44.914422+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:09:59.2868745+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "ef02301060454cfd8345fae625743294",
   "Name": "Sands of Aura",
   "ProductSlug": "sands-of-aura",
-  "Ranking_EOS_Progress": 466,
+  "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 388,
+  "Ranking_EOS_NewPlayers": 380,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 126,
+  "EOS_Progressed": 127,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -630,6 +630,11 @@
       "Time": "2023-12-29T14:05:57.8516941+00:00",
       "NumProgressed": 126,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T17:06:49.58913+00:00",
+      "NumProgressed": 127,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-14T11:03:32.7947841+00:00",
@@ -640,9 +645,9 @@
       "ID": "ALAIRA_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Rain Must Fall",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "ALAIRA_MASTER",
@@ -656,9 +661,9 @@
       "ID": "ALCHEMECT_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Overboard",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "ALCHEMECT_MASTER",
@@ -794,7 +799,7 @@
       "Name": "A Small Thirsty Thing",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "CRAGBOSS_MASTER",
@@ -842,7 +847,7 @@
       "Name": "Dousing a Venerable Flame",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "DEFEAT_ISHULAR_GIANT",
@@ -1016,9 +1021,9 @@
       "ID": "RETURN_SCRIPTURE",
       "SetID": "cm0d613",
       "Name": "Leisis Bless You",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "SMITH_UPGRADE_1",
@@ -1026,7 +1031,7 @@
       "Name": "Advanced Armaments",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "SMITH_UPGRADE_2",
@@ -1040,9 +1045,9 @@
       "ID": "START_GAME",
       "SetID": "cm0d613",
       "Name": "Setting Sail",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 116
     },
     {
       "ID": "UBAANI_DEFEAT",
@@ -1105,7 +1110,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 126,
+      "Progressed": 127,
       "Completed": 0
     }
   ],
@@ -1113,8 +1118,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:08:09.0751781+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:06:49.5891297+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:44.2387789+00:00",
-  "LastUpdate_Ratings": "2023-12-30T16:03:09.9928524+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:08:09.0752345+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:02:54.2006798+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:06:49.5891872+00:00"
 }

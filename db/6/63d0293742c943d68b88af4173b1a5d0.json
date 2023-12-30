@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 568,
+  "EOS_Progressed": 569,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1859,6 +1859,11 @@
       "Time": "2023-12-30T15:06:06.7024696+00:00",
       "NumProgressed": 568,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T17:08:00.1110725+00:00",
+      "NumProgressed": 569,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1885,9 +1890,9 @@
       "ID": "5",
       "SetID": "5pi96jj",
       "Name": "What\u0027s Cooking?",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 51
     },
     {
       "ID": "6",
@@ -1911,7 +1916,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "9",
@@ -1935,7 +1940,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "REMAKE_004",
@@ -1967,7 +1972,7 @@
       "Name": "Deez Buffs Make Me Go Nuts",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "Remake_008",
@@ -2094,14 +2099,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 568,
+      "Progressed": 569,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:08:18.7395963+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:08:00.1110721+00:00",
   "LastUpdate_AppInfo": "2023-12-26T02:16:12.1403657+00:00",
-  "LastUpdate_Ratings": "2023-12-30T16:00:14.5554121+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:08:18.7396405+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:00:27.6978411+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:08:00.111122+00:00"
 }

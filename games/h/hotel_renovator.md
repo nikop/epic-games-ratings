@@ -1,39 +1,39 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.35 (Ranked 813)  
+Rating: 4.35 (Ranked 814)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~1,026 |
-| And so it begins | 72.00% | ~972 |
-| No pressure | 69.00% | ~931 |
-| Memento | 60.00% | ~810 |
-| Let there be light | 57.00% | ~769 |
-| I think you dropped this | 53.00% | ~716 |
-| Soulmate? | 51.00% | ~688 |
-| Excellent service | 47.00% | ~634 |
+| Good start | 76.00% | ~1,027 |
+| And so it begins | 72.00% | ~973 |
+| No pressure | 69.00% | ~932 |
+| Memento | 60.00% | ~811 |
+| Let there be light | 57.00% | ~770 |
+| I think you dropped this | 52.00% | ~703 |
+| Soulmate? | 51.00% | ~689 |
+| Excellent service | 47.00% | ~635 |
 | Roll with it | 44.00% | ~594 |
 | Humble beginnings | 42.00% | ~567 |
 | Love is in the air | 41.00% | ~554 |
 | Fine, I'll do it myself | 40.00% | ~540 |
 | Moving up | 40.00% | ~540 |
 | No need to call anyone | 38.00% | ~513 |
-| Big fortune | 31.00% | ~418 |
+| Big fortune | 31.00% | ~419 |
 | Still more work ahead | 29.00% | ~392 |
-| Aesop's fable | 27.00% | ~364 |
+| Aesop's fable | 27.00% | ~365 |
 | Kaboom | 26.00% | ~351 |
 | Hotel sleuthing | 26.00% | ~351 |
 | Nearly there | 24.00% | ~324 |
 | Broken heart | 22.00% | ~297 |
 | Island boy | 21.00% | ~284 |
-| You're a star | 19.00% | ~256 |
+| You're a star | 19.00% | ~257 |
 | Unstoppable | 18.00% | ~243 |
 | Reunited | 18.00% | ~243 |
-| King of hospitality | 11.00% | ~148 |
+| King of hospitality | 11.00% | ~149 |
 | Top spot in town | 2.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,350 (Ranked 267)  
+Progressed: 1,351 (Ranked 267)  
 Completed: 18 (1.33%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 18 (1.33%) (Ranked 153)
 | 2023-12-27 | 1,330 | 18 |
 | 2023-12-28 | 1,336 | 18 |
 | 2023-12-29 | 1,348 | 18 |
-| 2023-12-30 | 1,350 | 18 |
+| 2023-12-30 | 1,351 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

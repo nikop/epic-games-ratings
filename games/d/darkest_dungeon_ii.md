@@ -6,27 +6,27 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 11.00% | ~619 |
-| Lost and Found | 7.00% | ~394 |
+| Malpractice Assurance | 11.00% | ~621 |
+| Lost and Found | 7.00% | ~395 |
 | Autodidact | 6.00% | ~7,846 |
-| This guy... again? | 6.00% | ~338 |
-| This Belongs in a Museum | 5.00% | ~6,538 |
-| Creep and Sleep | 5.00% | ~6,538 |
-| Overdue Notice | 5.00% | ~6,538 |
-| Escape from the Black Hole | 5.00% | ~6,538 |
-| Ploughshares to Swords | 5.00% | ~281 |
-| Bloody Graduation | 5.00% | ~281 |
-| Don't Make Me Turn This Coach Around | 4.00% | ~5,230 |
-| Serenity Now! | 4.00% | ~5,230 |
-| It Rings a Bell | 4.00% | ~5,230 |
-| Not Today! | 4.00% | ~5,230 |
-| Meat and Greet | 4.00% | ~5,230 |
-| Catch and Decease | 4.00% | ~5,230 |
-| It Happens | 4.00% | ~5,230 |
-| Rush Hour | 4.00% | ~5,230 |
-| To Grandmother's House | 4.00% | ~5,230 |
-| FNG | 4.00% | ~5,230 |
-| Friends 'Til the End | 4.00% | ~225 |
+| This guy... again? | 6.00% | ~339 |
+| This Belongs in a Museum | 5.00% | ~6,539 |
+| Creep and Sleep | 5.00% | ~6,539 |
+| Overdue Notice | 5.00% | ~6,539 |
+| Escape from the Black Hole | 5.00% | ~6,539 |
+| Ploughshares to Swords | 5.00% | ~282 |
+| Bloody Graduation | 5.00% | ~282 |
+| Don't Make Me Turn This Coach Around | 4.00% | ~5,231 |
+| Serenity Now! | 4.00% | ~5,231 |
+| It Rings a Bell | 4.00% | ~5,231 |
+| Not Today! | 4.00% | ~5,231 |
+| Meat and Greet | 4.00% | ~5,231 |
+| Catch and Decease | 4.00% | ~5,231 |
+| It Happens | 4.00% | ~5,231 |
+| Rush Hour | 4.00% | ~5,231 |
+| To Grandmother's House | 4.00% | ~5,231 |
+| FNG | 4.00% | ~5,231 |
+| Friends 'Til the End | 4.00% | ~226 |
 | Unfulfilled Desires | 3.00% | ~3,923 |
 | Dissector | 3.00% | ~3,923 |
 | Banishment | 3.00% | ~3,923 |
@@ -69,9 +69,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Triage | 0.70% | ~915 |
 | No Mercy | 0.70% | ~39 |
 | Et Tu, Riposte? | 0.70% | ~39 |
+| A Life Well Lived | 0.50% | ~654 |
 | The World As It Was | 0.50% | ~654 |
 | Bacon Bits | 0.50% | ~654 |
-| A Life Well Lived | 0.40% | ~523 |
 | Eidetic | 0.40% | ~523 |
 | On This Long Road, We Found Redemption | 0.40% | ~23 |
 | Tears in the Rain | 0.30% | ~392 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,759 (Ranked 88)  
+Progressed: 130,773 (Ranked 88)  
 Completed: 3 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 3 (0.00%) (Ranked 391)
 | 2023-12-27 | 130,259 | 3 |
 | 2023-12-28 | 130,422 | 3 |
 | 2023-12-29 | 130,627 | 3 |
-| 2023-12-30 | 130,759 | 3 |
+| 2023-12-30 | 130,773 | 3 |
 ## Awards
 Max (Character Customization): 7,905  (Ranked 50)  
 Sum: 21,263 (Ranked 58)  

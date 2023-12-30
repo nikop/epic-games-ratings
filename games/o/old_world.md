@@ -19,6 +19,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 0.60% | ~96 |
 | Hanging Gardens | 0.60% | ~96 |
 | Oracle | 0.60% | ~96 |
+| Trade Caravan | 0.60% | ~96 |
 | Enlightened | 0.50% | ~80 |
 | Glorious | 0.50% | ~80 |
 | Just | 0.50% | ~80 |
@@ -32,13 +33,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Judaism | 0.50% | ~80 |
 | Greek Paganism | 0.50% | ~80 |
 | Naming Landmarks | 0.50% | ~80 |
-| Trade Caravan | 0.50% | ~80 |
 | Regicide | 0.40% | ~64 |
 | Ambitious | 0.40% | ~64 |
 | Brilliant | 0.40% | ~64 |
 | Fountainhead | 0.40% | ~64 |
 | Magnificent | 0.40% | ~64 |
 | Wise | 0.40% | ~64 |
+| Able Difficulty | 0.40% | ~64 |
 | Furious Family | 0.40% | ~64 |
 | Apadana | 0.40% | ~64 |
 | Great Ziggurat | 0.40% | ~64 |
@@ -54,8 +55,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great | 0.30% | ~48 |
 | Intercessor | 0.30% | ~48 |
 | Legendary Cities | 0.30% | ~48 |
-| Able Difficulty | 0.30% | ~48 |
 | Just Difficulty | 0.30% | ~48 |
+| Sages | 0.30% | ~48 |
 | Acropolis | 0.30% | ~48 |
 | Colossus | 0.30% | ~48 |
 | Mausoleum | 0.30% | ~48 |
@@ -81,7 +82,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.20% | ~32 |
 | Patrons | 0.20% | ~32 |
 | Riders | 0.20% | ~32 |
-| Sages | 0.20% | ~32 |
 | Statesmen | 0.20% | ~32 |
 | Traders | 0.20% | ~32 |
 | Hittite Iron | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,026 (Ranked 165)  
+Progressed: 16,027 (Ranked 165)  
 Completed: 5 (0.03%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -619,7 +619,7 @@ Completed: 5 (0.03%) (Ranked 351)
 | 2023-12-27 | 15,978 | 5 |
 | 2023-12-28 | 15,997 | 5 |
 | 2023-12-29 | 16,011 | 5 |
-| 2023-12-30 | 16,026 | 5 |
+| 2023-12-30 | 16,027 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 284)  
 Sum: 1,912 (Ranked 220)  

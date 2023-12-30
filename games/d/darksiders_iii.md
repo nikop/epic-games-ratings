@@ -6,8 +6,8 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~239 |
-| First of many… | 68.00% | ~211 |
+| Green with Envy | 78.00% | ~243 |
+| First of many… | 69.00% | ~215 |
 | Helping Hand | 65.00% | ~202 |
 | Increased Vigor | 59.00% | ~183 |
 | Fight Fire with Fire | 57.00% | ~177 |
@@ -19,10 +19,10 @@ Number of Ratings: 116  (23.09.2022)
 | One Of the Chosen | 41.00% | ~128 |
 | Devil's in the Details | 39.00% | ~121 |
 | Throne Potato | 39.00% | ~121 |
-| Five's a Crowd | 38.00% | ~118 |
+| Five's a Crowd | 39.00% | ~121 |
 | 25 to Life | 38.00% | ~118 |
 | Soul Harvester | 36.00% | ~112 |
-| Salvation | 35.00% | ~109 |
+| Salvation | 36.00% | ~112 |
 | Unshakable Fortitude | 34.00% | ~106 |
 | I Wanna Rock | 31.00% | ~96 |
 | Delusions of Grandeur | 31.00% | ~96 |
@@ -31,11 +31,11 @@ Number of Ratings: 116  (23.09.2022)
 | Freeze Frame | 27.00% | ~84 |
 | Eat Your Heart Out | 27.00% | ~84 |
 | For Whom the Bell Tolls | 27.00% | ~84 |
-| Unyielding Strength | 23.00% | ~72 |
+| Unyielding Strength | 24.00% | ~75 |
+| Big Spender | 24.00% | ~75 |
 | Can you restore the Balance? | 23.00% | ~72 |
-| Big Spender | 23.00% | ~72 |
+| Cleanup Crew | 22.00% | ~68 |
 | Crowd Source | 22.00% | ~68 |
-| Cleanup Crew | 21.00% | ~65 |
 | Maximum Capacity | 20.00% | ~62 |
 | Demon Meddler | 20.00% | ~62 |
 | Seeing Red | 20.00% | ~62 |
@@ -44,8 +44,8 @@ Number of Ratings: 116  (23.09.2022)
 | Everybody Wants to Rule the World | 16.00% | ~50 |
 | Community Outreach | 13.00% | ~40 |
 | A Parting Gift | 12.00% | ~37 |
+| Path of the Horseman | 12.00% | ~37 |
 | Unbreakable Will | 11.00% | ~34 |
-| Path of the Horseman | 11.00% | ~34 |
 | Holy Keeper | 9.00% | ~28 |
 | Take it to the Limit | 9.00% | ~28 |
 | Demon Keeper | 8.00% | ~25 |

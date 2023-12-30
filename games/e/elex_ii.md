@@ -6,20 +6,20 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 36.00% | ~48 |
-| Best Buddy | 28.00% | ~38 |
-| Role Model | 25.00% | ~34 |
+| Entrepreneur | 36.00% | ~49 |
+| Best Buddy | 27.00% | ~36 |
 | Civilian | 25.00% | ~34 |
+| Role Model | 24.00% | ~32 |
 | Peddler | 21.00% | ~28 |
-| Military Leader | 19.00% | ~25 |
+| Military Leader | 19.00% | ~26 |
 | Festival-goer | 18.00% | ~24 |
 | Creator | 17.00% | ~23 |
-| Commander | 16.00% | ~21 |
-| Long-Haul Flyer | 13.00% | ~17 |
+| Commander | 16.00% | ~22 |
+| Long-Haul Flyer | 13.00% | ~18 |
 | Irissa's Fate | 12.00% | ~16 |
 | Pass A38 | 11.00% | ~15 |
-| Berserker | 10.00% | ~13 |
-| Family Reunion | 9.00% | ~12 |
+| Berserker | 10.00% | ~14 |
+| Family Reunion | 10.00% | ~14 |
 | Eternal Oblivion | 8.00% | ~11 |
 | Globetrotter | 7.00% | ~9 |
 | Alb | 7.00% | ~9 |
@@ -31,13 +31,13 @@ Number of Ratings: 124  (23.09.2022)
 | Unbreakable | 4.00% | ~5 |
 | Perfectionist | 4.00% | ~5 |
 | Detective | 4.00% | ~5 |
+| Hunter | 4.00% | ~5 |
 | Alchemist | 3.00% | ~4 |
 | Idealist | 3.00% | ~4 |
 | Cleric | 3.00% | ~4 |
-| Hunter | 3.00% | ~4 |
 | Lover | 3.00% | ~4 |
 | Treasure Hunter | 2.00% | ~3 |
-| Beam Me Up | 1.00% | ~1 |
+| Beam Me Up | 2.00% | ~3 |
 | Morkon | 1.00% | ~1 |
 | Weaponsmith | 0.70% | ~1 |
 | Toy Time | 0.70% | ~1 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134 (Ranked 456)  
+Progressed: 135 (Ranked 456)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 117 | 0 |
 | 2023-12-28 | 122 | 0 |
 | 2023-12-29 | 131 | 0 |
-| 2023-12-30 | 134 | 0 |
+| 2023-12-30 | 135 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

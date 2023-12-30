@@ -2,9 +2,9 @@
   "ID": "9b89b68d8751414db0991007bdc4766c",
   "Name": "JARS",
   "ProductSlug": "jars-e39063",
-  "Ranking_EOS_Progress": 476,
+  "Ranking_EOS_Progress": 475,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 480,
+  "Ranking_EOS_NewPlayers": 460,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112,
+  "EOS_Progressed": 113,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.46,
+  "EOS_Completed_Percentage": 4.42,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:38.9338531+00:00",
@@ -424,6 +424,11 @@
       "Time": "2023-12-30T08:08:25.2065627+00:00",
       "NumProgressed": 112,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-30T17:03:25.9196938+00:00",
+      "NumProgressed": 113,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 20,
@@ -443,7 +448,7 @@
       "Name": "I have an army!",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_ALL_ENCYCLOPEDIA_ENTRIES",
@@ -465,7 +470,7 @@
       "ID": "ACH_CHAPTER_1_DONE",
       "SetID": "3jfhgga",
       "Name": "Vampires",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 50,
       "UsersEstimate": 31
     },
@@ -507,15 +512,15 @@
       "Name": "Missing data",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_EQUIP_PERK",
       "SetID": "3jfhgga",
       "Name": "It fits. IT FITS!",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 80
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_FIND_SECRET",
@@ -539,7 +544,7 @@
       "Name": "Missing pages",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_HERO_MASTER_1",
@@ -555,7 +560,7 @@
       "Name": "Master of puppets",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_SHOP_ALL_MINIONS",
@@ -577,9 +582,9 @@
       "ID": "ACH_SHOP_FIRST_PURCHASE",
       "SetID": "3jfhgga",
       "Name": "Uncle will be happy",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 71
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_STAGE_LOST_FIRST_TIME",
@@ -587,14 +592,14 @@
       "Name": "Broken jar",
       "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jfhgga",
       "IsBase": true,
-      "Progressed": 112,
+      "Progressed": 113,
       "Completed": 5
     }
   ],
@@ -602,8 +607,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:03:38.1578463+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:03:25.9196935+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:53.9476773+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:58:51.6621201+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:03:38.1578619+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:58:50.9036437+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:03:25.9197097+00:00"
 }

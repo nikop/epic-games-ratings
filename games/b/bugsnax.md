@@ -1,7 +1,7 @@
 # Bugsnax
 [Store](https://store.epicgames.com/en-US/p/bugsnax)  
 [View Rawdata](../../db/b/bugsnax.json)  
-Rating: 4.86 (Ranked 31)  
+Rating: 4.86 (Ranked 32)  
 Number of Ratings: 425  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -27,7 +27,7 @@ Number of Ratings: 425  (23.09.2022)
 | Combo Meal | 38.00% | ~11,011 |
 | Midnight Snak | 36.00% | ~10,431 |
 | Candid Cryptid | 35.00% | ~10,142 |
-| Got to Catch Them All | 32.00% | ~9,272 |
+| Got to Catch Them All | 33.00% | ~9,562 |
 | Deep Impact | 23.00% | ~6,664 |
 | Grab Bag | 23.00% | ~6,664 |
 | Feeding Frenzy | 19.00% | ~5,505 |

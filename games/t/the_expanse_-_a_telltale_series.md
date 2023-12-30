@@ -1,25 +1,25 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.56 (Ranked 500)  
+Rating: 4.56 (Ranked 501)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 16.00% | ~2,848 |
-| Captain Drummer | 12.00% | ~2,136 |
-| Celebrations are in Order | 12.00% | ~2,136 |
-| The Pit and the Pirates | 11.00% | ~1,958 |
-| Martian Music | 11.00% | ~1,958 |
-| Bosmang | 11.00% | ~1,958 |
-| Impossible Objects | 11.00% | ~1,958 |
-| Spore Taste | 10.00% | ~1,780 |
-| Drone Dodger | 10.00% | ~1,780 |
-| Stogie for Fogey | 9.00% | ~1,602 |
-| Zen Master | 9.00% | ~338 |
-| Call it Even | 8.00% | ~1,424 |
-| Safe Cracker | 8.00% | ~300 |
-| Madame Undersecretary | 8.00% | ~300 |
-| Heal Thy Medic | 7.00% | ~1,246 |
+| Oyedang, Kopengs | 16.00% | ~2,849 |
+| Captain Drummer | 12.00% | ~2,137 |
+| Celebrations are in Order | 12.00% | ~2,137 |
+| The Pit and the Pirates | 11.00% | ~1,959 |
+| Martian Music | 11.00% | ~1,959 |
+| Bosmang | 11.00% | ~1,959 |
+| Impossible Objects | 11.00% | ~1,959 |
+| Spore Taste | 10.00% | ~1,781 |
+| Drone Dodger | 10.00% | ~1,781 |
+| Stogie for Fogey | 9.00% | ~1,603 |
+| Zen Master | 9.00% | ~339 |
+| Call it Even | 8.00% | ~1,425 |
+| Safe Cracker | 8.00% | ~301 |
+| Madame Undersecretary | 8.00% | ~301 |
+| Heal Thy Medic | 7.00% | ~1,247 |
 | Keep Arjun in Check | 7.00% | ~263 |
 | Data Archivist | 6.00% | ~1,068 |
 | Drug Gifter | 6.00% | ~1,068 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 500)
 | Scavenger Star | 0.30% | ~53 |
 | Data Collector | 0.20% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,800 (Ranked 157)  
+Progressed: 17,808 (Ranked 157)  
 Completed: 57 (0.32%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 57 (0.32%) (Ranked 246)
 | 2023-12-27 | 17,604 | 54 |
 | 2023-12-28 | 17,675 | 56 |
 | 2023-12-29 | 17,756 | 57 |
-| 2023-12-30 | 17,800 | 57 |
+| 2023-12-30 | 17,808 | 57 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

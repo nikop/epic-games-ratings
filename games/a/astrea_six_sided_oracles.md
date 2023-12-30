@@ -8,7 +8,7 @@
 | Purification Pioneer | 77.00% | ~212 |
 | Mechanical Buddy | 71.00% | ~195 |
 | Dicesmithing Time! | 63.00% | ~173 |
-| Sanctuary Guardian | 53.00% | ~146 |
+| Sanctuary Guardian | 54.00% | ~148 |
 | Endless Tricks | 49.00% | ~135 |
 | Wild's Keeper | 46.00% | ~126 |
 | Mind Illuminator | 44.00% | ~121 |
@@ -23,7 +23,7 @@
 | Apian Champion | 19.00% | ~52 |
 | Shard Spender | 18.00% | ~50 |
 | Unbeatable | 17.00% | ~47 |
-| Sadistic Plan | 15.00% | ~41 |
+| Sadistic Plan | 16.00% | ~44 |
 | Behenian Champion | 14.00% | ~39 |
 | Aquarian Champion | 10.00% | ~28 |
 | Astral Seeker | 9.00% | ~25 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 374,
+  "Ranking_EOS_NewPlayers": 368,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 2052,
+  "EOS_Progressed": 2053,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -3001,6 +3001,11 @@
       "Time": "2023-12-29T04:04:17.1191068+00:00",
       "NumProgressed": 2052,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-30T17:05:28.4665606+00:00",
+      "NumProgressed": 2053,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3092,7 +3097,7 @@
       "Name": "Full House",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -3308,7 +3313,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -3388,7 +3393,7 @@
       "Name": "Unforgiven",
       "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 1826
+      "UsersEstimate": 1827
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -3396,7 +3401,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1150
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -3435,15 +3440,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 2052,
+      "Progressed": 2053,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-11-26T10:59:42.9428977+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:05:33.5600531+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:05:28.4665603+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:27.4938558+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:57:28.8797372+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:05:33.5600935+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:57:15.2855734+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:05:28.4666002+00:00"
 }

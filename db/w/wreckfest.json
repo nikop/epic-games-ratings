@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 561,
+  "EOS_Progressed": 562,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 291,
+  "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1546,6 +1546,11 @@
       "Time": "2023-12-30T16:08:57.3742524+00:00",
       "NumProgressed": 561,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T17:08:40.3294644+00:00",
+      "NumProgressed": 562,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1614,7 +1619,7 @@
       "Name": "Storm Warning",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "CollectVehiclesA",
@@ -1670,7 +1675,7 @@
       "Name": "Dirty Roller",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "PlayerRankB",
@@ -1717,7 +1722,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 561,
+      "Progressed": 562,
       "Completed": 0
     }
   ],
@@ -1725,8 +1730,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-28T22:58:24.1175943+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:08:57.374252+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:08:40.329464+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:58:48.0335739+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:08:57.3742753+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:58:46.699335+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:08:40.3294779+00:00"
 }

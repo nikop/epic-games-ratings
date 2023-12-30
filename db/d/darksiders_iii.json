@@ -1254,9 +1254,9 @@
       "ID": "Collect_AdamantineMedium_30",
       "SetID": "7a5k76n",
       "Name": "Unyielding Strength",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 75
     },
     {
       "ID": "Collect_AdamantinePure_3",
@@ -1382,9 +1382,9 @@
       "ID": "Collect_PickUp_500",
       "SetID": "7a5k76n",
       "Name": "Cleanup Crew",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 68
     },
     {
       "ID": "Collect_Soulmulet",
@@ -1398,9 +1398,9 @@
       "ID": "Collect_Weapon_Crossblade",
       "SetID": "7a5k76n",
       "Name": "Salvation",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 112
     },
     {
       "ID": "Craft_Enhancement_Balanced_1",
@@ -1502,9 +1502,9 @@
       "ID": "Game_CompleteNormal",
       "SetID": "7a5k76n",
       "Name": "Path of the Horseman",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "Keeper_Kill_Final",
@@ -1598,9 +1598,9 @@
       "ID": "Kill_Sin_Envy",
       "SetID": "7a5k76n",
       "Name": "Green with Envy",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 243
     },
     {
       "ID": "Kill_Sin_Gluttony",
@@ -1686,9 +1686,9 @@
       "ID": "Save_Humans_5",
       "SetID": "7a5k76n",
       "Name": "Five\u0027s a Crowd",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 121
     },
     {
       "ID": "Save_Usiel_No_Kill",
@@ -1702,9 +1702,9 @@
       "ID": "Spend_AttributePoint_1",
       "SetID": "7a5k76n",
       "Name": "First of many\u2026",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 215
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -1718,9 +1718,9 @@
       "ID": "Spend_AttributePoint_50",
       "SetID": "7a5k76n",
       "Name": "Big Spender",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 75
     },
     {
       "ID": "Unlocked_49_Achievements",
@@ -1766,8 +1766,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-29T15:59:12.0320887+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:04:49.834532+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:04:43.4996351+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:27.1633457+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:59:58.2636413+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:04:49.834577+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:00:08.9518662+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:04:43.4996866+00:00"
 }

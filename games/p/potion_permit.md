@@ -12,8 +12,8 @@ Rating: 3.85 (Ranked 1,060)
 | Great Doctor | 50.00% | ~917 |
 | Dog Whisperer | 48.00% | ~880 |
 | Friendly | 46.00% | ~844 |
+| The Capitalist | 44.00% | ~807 |
 | K.O.! | 43.00% | ~789 |
-| The Capitalist | 43.00% | ~789 |
 | Intermediate Chemist | 39.00% | ~715 |
 | Decorative Mind | 33.00% | ~605 |
 | Lumber Specialist | 31.00% | ~569 |
@@ -225,8 +225,8 @@ Completed: 11 (0.60%) (Ranked 205)
 | 2023-12-29 | 1,828 | 11 |
 | 2023-12-30 | 1,834 | 11 |
 ## Awards
-Max (Character Customization): 70  (Ranked 415)  
-Sum: 70 (Ranked 486)  
+Max (Character Customization): 70  (Ranked 416)  
+Sum: 70 (Ranked 487)  
 Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 257,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1628,9 +1628,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 136335,
+  "EOS_Progressed": 136345,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 1394,
+  "EOS_NewPlayers": 1390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -26698,6 +26698,11 @@
       "Time": "2023-12-30T16:08:19.3925996+00:00",
       "NumProgressed": 136335,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-12-30T17:08:00.7284516+00:00",
+      "NumProgressed": 136345,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -26741,7 +26746,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 24540
+      "UsersEstimate": 24542
     },
     {
       "ID": "ACH_COP_BAD",
@@ -26757,7 +26762,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 12270
+      "UsersEstimate": 12271
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -26765,7 +26770,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 32720
+      "UsersEstimate": 32723
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -26773,7 +26778,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10907
+      "UsersEstimate": 10908
     },
     {
       "ID": "ACH_COP_DORK",
@@ -26789,7 +26794,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 38174
+      "UsersEstimate": 38177
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -26805,7 +26810,7 @@
       "Name": "The Lawbringer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5453
+      "UsersEstimate": 5454
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -26813,7 +26818,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21814
+      "UsersEstimate": 21815
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -26821,7 +26826,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 27267
+      "UsersEstimate": 27269
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -26837,7 +26842,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 17724
+      "UsersEstimate": 17725
     },
     {
       "ID": "ACH_COP_STAR",
@@ -26845,7 +26850,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 20450
+      "UsersEstimate": 20452
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -26853,7 +26858,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14997
+      "UsersEstimate": 14998
     },
     {
       "ID": "ACH_CUNO",
@@ -26869,7 +26874,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 12270
+      "UsersEstimate": 12271
     },
     {
       "ID": "ACH_GLUTEN",
@@ -26901,7 +26906,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 8180
+      "UsersEstimate": 8181
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -26925,7 +26930,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 19087
+      "UsersEstimate": 19088
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -26989,7 +26994,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 19087
+      "UsersEstimate": 19088
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -27005,7 +27010,7 @@
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5453
+      "UsersEstimate": 5454
     },
     {
       "ID": "ACH_REAL_MUSOR",
@@ -27028,15 +27033,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 136335,
+      "Progressed": 136345,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-12-30T14:57:10.4585731+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:08:19.3925992+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:08:00.7284512+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:28.7060503+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:57:34.3689277+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:08:19.3927373+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:57:21.5665013+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:08:00.7285999+00:00"
 }

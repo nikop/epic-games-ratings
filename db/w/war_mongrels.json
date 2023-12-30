@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 737,
+  "EOS_Progressed": 738,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2615,6 +2615,11 @@
       "Time": "2023-12-30T16:10:19.6666757+00:00",
       "NumProgressed": 737,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T17:10:09.1687405+00:00",
+      "NumProgressed": 738,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2730,7 +2735,7 @@
       "Name": "Explorer",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "ACH_COLL_20",
@@ -2738,7 +2743,7 @@
       "Name": "Prospector",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -2746,7 +2751,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH_COLL_CH01",
@@ -2754,7 +2759,7 @@
       "Name": "Collectibles of Chapter I",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_COLL_CH02",
@@ -2810,7 +2815,7 @@
       "Name": "Collectibles of Chapter VIII",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_COLL_CH09",
@@ -2834,7 +2839,7 @@
       "Name": "Collectibles of Chapter XI",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_COLL_CH12",
@@ -2856,9 +2861,9 @@
       "ID": "ACH_FIN_CH02",
       "SetID": "1j25agn",
       "Name": "The Breaking Point",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 317
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -2882,7 +2887,7 @@
       "Name": "Consequences",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_FIN_CH06",
@@ -2898,7 +2903,7 @@
       "Name": "The Horror",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_FIN_CH08",
@@ -2970,7 +2975,7 @@
       "Name": "Missing in Action",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -3058,7 +3063,7 @@
       "Name": "King of Knives",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_NEST1",
@@ -3097,15 +3102,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 737,
+      "Progressed": 738,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:10:19.6666754+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:10:09.16874+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:19.2652244+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:58:53.9624365+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:10:19.6667229+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:58:53.7201647+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:10:09.1687985+00:00"
 }

@@ -14,10 +14,10 @@ Rating: 4.39 (Ranked 771)
 | Cleaning Company | 6.00% | ~15,599 |
 | Well-oiled machine | 5.00% | ~12,999 |
 | Saver I | 5.00% | ~12,999 |
-| The Ascent | 4.00% | ~10,399 |
-| Pacifist | 4.00% | ~10,399 |
-| Vandalism | 4.00% | ~10,399 |
-| Capitalist I | 4.00% | ~10,399 |
+| The Ascent | 4.00% | ~10,400 |
+| Pacifist | 4.00% | ~10,400 |
+| Vandalism | 4.00% | ~10,400 |
+| Capitalist I | 4.00% | ~10,400 |
 | Fixer II | 3.00% | ~7,800 |
 | It took a while | 3.00% | ~7,800 |
 | Adrenaline | 3.00% | ~7,800 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 771)
 | Capitalist III | 0.10% | ~260 |
 | Hell Is You | 0.10% | ~260 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 259,986 (Ranked 64)  
+Progressed: 259,988 (Ranked 64)  
 Completed: 3 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 3 (0.00%) (Ranked 391)
 | 2023-12-27 | 259,849 | 3 |
 | 2023-12-28 | 259,901 | 3 |
 | 2023-12-29 | 259,952 | 3 |
-| 2023-12-30 | 259,986 | 3 |
+| 2023-12-30 | 259,988 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 54  (Ranked 436)  
 Sum: 369 (Ranked 360)  

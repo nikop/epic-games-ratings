@@ -4,7 +4,7 @@
   "ProductSlug": "n-verlore-verstand-1d7f5b",
   "Ranking_EOS_Progress": 519,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 495,
+  "Ranking_EOS_NewPlayers": 525,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-13T22:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 66,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -519,9 +519,9 @@
       "ID": "3",
       "SetID": "6m1k8ai",
       "Name": "Brace the cold",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "30",
@@ -607,9 +607,9 @@
       "ID": "4",
       "SetID": "6m1k8ai",
       "Name": "A Long Walk",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "40",
@@ -687,9 +687,9 @@
       "ID": "5",
       "SetID": "6m1k8ai",
       "Name": "Dont mind the heat",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "6",
@@ -734,8 +734,8 @@
   ],
   "FirstSeen": "2023-08-02T12:00:06.1215649+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:09:02.5405873+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:08:46.2887456+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:52.5495475+00:00",
-  "LastUpdate_Ratings": "2023-12-30T16:03:21.2637891+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:09:02.5406214+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:03:06.7595251+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:08:46.2888157+00:00"
 }

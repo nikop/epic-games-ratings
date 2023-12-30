@@ -9,7 +9,7 @@ Rating: 4.63 (Ranked 356)
 | Realm Estate | 11.00% | ~720 |
 | A Wonderful Discovery | 10.00% | ~654 |
 | Walls Cannot Stop Us | 10.00% | ~654 |
-| From Friends to Family | 8.00% | ~523 |
+| From Friends to Family | 9.00% | ~589 |
 | Bone Peddler | 7.00% | ~458 |
 | Full Ascension | 6.00% | ~393 |
 | Magical Synergy | 6.00% | ~393 |
@@ -25,14 +25,15 @@ Rating: 4.63 (Ranked 356)
 | Digging for Treasure | 3.00% | ~196 |
 | My Final Form | 3.00% | ~196 |
 | Fiery Friend | 3.00% | ~196 |
+| Against the Odds | 3.00% | ~196 |
 | Impenetrable Fortress | 3.00% | ~196 |
 | Freed Lands of Manuhari | 3.00% | ~196 |
 | Arch Mage | 2.00% | ~131 |
 | Crimson Caldera | 2.00% | ~131 |
 | Preparation Is Everything | 2.00% | ~131 |
-| Against the Odds | 2.00% | ~131 |
 | Here be Dragons | 2.00% | ~131 |
 | Tipping the Scales | 2.00% | ~131 |
+| Blood of the Dragon | 2.00% | ~131 |
 | Mighty Hoard | 2.00% | ~131 |
 | Sehiran Oasis | 2.00% | ~131 |
 | Chaos Surge | 2.00% | ~131 |
@@ -44,7 +45,6 @@ Rating: 4.63 (Ranked 356)
 | The Goddess of Nature | 1.00% | ~65 |
 | Eternal Lord | 1.00% | ~65 |
 | The Eternal Court | 1.00% | ~65 |
-| Blood of the Dragon | 1.00% | ~65 |
 | Prometheus Avenged | 1.00% | ~65 |
 | Seal the Deal | 1.00% | ~65 |
 | A Conqueror's Cohort | 1.00% | ~65 |

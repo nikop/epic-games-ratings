@@ -4,7 +4,7 @@
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
   "Ranking_EOS_Progress": 477,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 110,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -593,9 +593,9 @@
       "ID": "Achievement17",
       "SetID": "9fa3l5n",
       "Name": "Long Live Gaipajama!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 85,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Achievement18",
@@ -713,9 +713,9 @@
       "ID": "Achievement30",
       "SetID": "9fa3l5n",
       "Name": "Mountain Runner",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "Achievement31",
@@ -745,9 +745,9 @@
       "ID": "Achievement34",
       "SetID": "9fa3l5n",
       "Name": "Cat Lover",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Achievement35",
@@ -809,17 +809,17 @@
       "ID": "Achievement8",
       "SetID": "9fa3l5n",
       "Name": "Dynamite, Treason and Coconuts",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Achievement9",
       "SetID": "9fa3l5n",
       "Name": "Save a Friend",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
@@ -832,8 +832,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:04:44.8704949+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:04:37.9794308+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:52.0474774+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:59:05.4540399+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:04:44.8705215+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:59:07.0585743+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:04:37.9794534+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 456,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 134,
+  "EOS_Progressed": 135,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1071,6 +1071,11 @@
       "Time": "2023-12-30T08:05:19.923441+00:00",
       "NumProgressed": 134,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T17:04:53.1137136+00:00",
+      "NumProgressed": 135,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1099,7 +1104,7 @@
       "Name": "Entrepreneur",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "100HEALS",
@@ -1137,9 +1142,9 @@
       "ID": "20TELEPORTS",
       "SetID": "a1angca",
       "Name": "Beam Me Up",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "20TRADER",
@@ -1171,7 +1176,7 @@
       "Name": "Long-Haul Flyer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "30POTIONS",
@@ -1211,7 +1216,7 @@
       "Name": "Military Leader",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ALLCOMBAT",
@@ -1257,9 +1262,9 @@
       "ID": "ALLXP",
       "SetID": "a1angca",
       "Name": "Role Model",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "BRINGTOYS",
@@ -1291,7 +1296,7 @@
       "Name": "Berserker",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "CHOSEKLE",
@@ -1347,7 +1352,7 @@
       "Name": "Commander",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "FINDBILLY",
@@ -1369,9 +1374,9 @@
       "ID": "FINDCRONY",
       "SetID": "a1angca",
       "Name": "Best Buddy",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "FINDMAP",
@@ -1385,9 +1390,9 @@
       "ID": "FINDWARDEK",
       "SetID": "a1angca",
       "Name": "Family Reunion",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "FUTUREIRISSA",
@@ -1425,9 +1430,9 @@
       "ID": "KILL20MONSTER",
       "SetID": "a1angca",
       "Name": "Hunter",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "KILL20SKYANDS",
@@ -1482,15 +1487,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 134,
+      "Progressed": 135,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:04:59.0352249+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:04:53.1137132+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:36.6401654+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:58:34.7767928+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:04:59.0352628+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:58:31.1434573+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:04:53.1137529+00:00"
 }

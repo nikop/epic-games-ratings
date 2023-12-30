@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 64,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-12-07T14:52:25.231+00:00",
     "PcReleaseDate": "2023-12-07T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 525,
+  "EOS_Progressed": 527,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 6.48,
+  "EOS_Completed_Percentage": 6.45,
   "EosHistory": [
     {
       "Time": "2023-12-07T15:03:10.6458391+00:00",
@@ -1619,6 +1619,11 @@
       "Time": "2023-12-30T16:05:51.2075968+00:00",
       "NumProgressed": 525,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-30T17:05:47.9573192+00:00",
+      "NumProgressed": 527,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-12-07T15:03:10.6469952+00:00",
@@ -1647,15 +1652,15 @@
       "Name": "1000 Score",
       "Percentage": 37,
       "XP": 200,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "100_XP",
       "SetID": "8d0im30",
       "Name": "500 Score",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 268
+      "UsersEstimate": 264
     },
     {
       "ID": "10_XP",
@@ -1663,21 +1668,21 @@
       "Name": "200 Score",
       "Percentage": 65,
       "XP": 200,
-      "UsersEstimate": 341
+      "UsersEstimate": 343
     }
   ],
   "AchievementSets": [
     {
       "ID": "8d0im30",
       "IsBase": true,
-      "Progressed": 525,
+      "Progressed": 527,
       "Completed": 34
     }
   ],
   "FirstSeen": "2023-12-08T10:57:34.1568649+00:00",
   "FirstSeenAchievements": "2023-12-07T15:03:10.6469952+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:05:51.2075964+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:05:47.9573186+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:17.8041321+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:58:44.0038322+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:05:51.2076108+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:58:42.1194739+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:05:47.9573409+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 328,
-  "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_Completed": 165,
+  "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 614,
+  "EOS_Progressed": 615,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.14,
   "EosHistory": [
@@ -2694,6 +2694,11 @@
       "Time": "2023-12-30T08:05:28.3437802+00:00",
       "NumProgressed": 614,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-30T17:04:59.8777396+00:00",
+      "NumProgressed": 615,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2705,7 +2710,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2753,7 +2758,7 @@
       "Name": "The path to enlightenment",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -2793,7 +2798,7 @@
       "Name": "The court",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -2816,14 +2821,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 614,
+      "Progressed": 615,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:05:05.5774102+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:04:59.8777389+00:00",
   "LastUpdate_AppInfo": "2023-12-23T18:56:53.260283+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:58:50.355678+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:05:05.5774289+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:58:49.4168434+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:04:59.8777588+00:00"
 }

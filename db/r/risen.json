@@ -5,9 +5,9 @@
   "Ranking_Rating": 523,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
-  "Ranking_EOS_Progress": 454,
+  "Ranking_EOS_Progress": 453,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 138,
+  "EOS_Progressed": 139,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -745,6 +745,11 @@
       "Time": "2023-12-30T14:09:39.9463809+00:00",
       "NumProgressed": 138,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T17:10:02.3554571+00:00",
+      "NumProgressed": 139,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T08:07:32.4989951+00:00",
@@ -765,7 +770,7 @@
       "Name": "Wise man",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "id_12",
@@ -797,7 +802,7 @@
       "Name": "Little hero",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "id_17",
@@ -805,7 +810,7 @@
       "Name": "Freedom fighter",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "id_18",
@@ -827,9 +832,9 @@
       "ID": "id_2",
       "SetID": "bk9jib6",
       "Name": "Field hand",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "id_20",
@@ -877,7 +882,7 @@
       "Name": "Philanthropist",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "id_30",
@@ -901,7 +906,7 @@
       "Name": "Ferocious wild boars",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "id_34",
@@ -949,15 +954,15 @@
       "Name": "Hard worker",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "id_44",
       "SetID": "bk9jib6",
       "Name": "Expert",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "id_45",
@@ -1021,15 +1026,15 @@
       "Name": "The fourth triplet",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "id_52",
       "SetID": "bk9jib6",
       "Name": "Idiot",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 33
     },
     {
       "ID": "id_53",
@@ -1093,7 +1098,7 @@
       "Name": "Fence",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "id_60",
@@ -1101,7 +1106,7 @@
       "Name": "Adventurer",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "id_61",
@@ -1109,15 +1114,15 @@
       "Name": "Map reader",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "id_62",
       "SetID": "bk9jib6",
       "Name": "Archer",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 58
     },
     {
       "ID": "id_63",
@@ -1133,7 +1138,7 @@
       "Name": "Ladies\u0027 man",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "id_8",
@@ -1156,7 +1161,7 @@
     {
       "ID": "bk9jib6",
       "IsBase": true,
-      "Progressed": 138,
+      "Progressed": 139,
       "Completed": 0
     }
   ],
@@ -1164,8 +1169,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-28T07:02:46.0007261+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:10:13.3412866+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:10:02.3554568+00:00",
   "LastUpdate_AppInfo": "2023-12-23T20:57:07.54931+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:57:17.5278905+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:10:13.3413439+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:57:01.7537064+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:10:02.3555086+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "buddy-and-friends-in-halloween-192190",
   "Ranking_EOS_Progress": 525,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
@@ -405,9 +405,9 @@
       "ID": "LEVEL_135_001",
       "SetID": "5g7b0mb",
       "Name": "Mirror - 135 pieces",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "LEVEL_135_002",
@@ -604,8 +604,8 @@
   ],
   "FirstSeen": "2023-10-25T11:59:09.0555301+00:00",
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:06:20.2875896+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:06:18.8291937+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.5932305+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:58:15.0263211+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:06:20.2876154+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:58:08.4282713+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:06:18.829211+00:00"
 }

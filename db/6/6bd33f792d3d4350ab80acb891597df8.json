@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 477,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -597,9 +597,9 @@
       "ID": "CgkIxYDzrbcPEAIQBA",
       "SetID": "4egpam7",
       "Name": "Devil\u0027s Bargain",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBQ",
@@ -749,9 +749,9 @@
       "ID": "CgkIxYDzrbcPEAIQFw",
       "SetID": "4egpam7",
       "Name": "I Could Do This Blindfolded",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "CgkIxYDzrbcPEAIQGA",
@@ -820,8 +820,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:05:59.5967855+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:05:56.2399409+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:26.2622847+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:57:17.5742054+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:05:59.5968199+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:57:01.8207897+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:05:56.239961+00:00"
 }

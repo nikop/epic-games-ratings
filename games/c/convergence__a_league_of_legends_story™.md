@@ -5,7 +5,7 @@ Rating: 4.65 (Ranked 323)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 42.00% | ~486 |
+| Time Heals All Wounds | 42.00% | ~487 |
 | Rail Rat | 32.00% | ~371 |
 | The Mysterious Stranger | 31.00% | ~359 |
 | Immaculate Aim | 27.00% | ~313 |
@@ -17,8 +17,8 @@ Rating: 4.65 (Ranked 323)
 | The Prince in Heels | 24.00% | ~278 |
 | Honest Mistake | 24.00% | ~278 |
 | Immaculate Aim | 24.00% | ~278 |
-| Breaking Down Barriers | 23.00% | ~266 |
-| Fast Learner | 23.00% | ~266 |
+| Breaking Down Barriers | 23.00% | ~267 |
+| Fast Learner | 23.00% | ~267 |
 | The Steel Shadow | 22.00% | ~255 |
 | The Wicked Twins | 22.00% | ~255 |
 | Right On Time | 21.00% | ~243 |
@@ -27,8 +27,8 @@ Rating: 4.65 (Ranked 323)
 | The Betrayer | 20.00% | ~232 |
 | The Loose Cannon | 19.00% | ~220 |
 | Check Your Pulse | 19.00% | ~220 |
-| The Man Who Shattered Time | 18.00% | ~208 |
-| The Family Fortune | 18.00% | ~208 |
+| The Man Who Shattered Time | 18.00% | ~209 |
+| The Family Fortune | 18.00% | ~209 |
 | Street Style | 17.00% | ~197 |
 | Whiz Kid | 15.00% | ~174 |
 | Good Neighbor | 14.00% | ~162 |
@@ -47,8 +47,8 @@ Rating: 4.65 (Ranked 323)
 | Sartorialist | 8.00% | ~93 |
 | Entresol Explorer | 8.00% | ~93 |
 | Golem Hunter | 7.00% | ~81 |
-| Clovemary for Remembering | 6.00% | ~69 |
-| Hexlock for Protection | 6.00% | ~69 |
+| Clovemary for Remembering | 6.00% | ~70 |
+| Hexlock for Protection | 6.00% | ~70 |
 | Rungs Was Right | 5.00% | ~58 |
 | Wunderkind | 2.00% | ~23 |
 | Fitting In | 2.00% | ~23 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 323)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,158 (Ranked 280)  
+Progressed: 1,159 (Ranked 280)  
 Completed: 6 (0.52%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 6 (0.52%) (Ranked 214)
 | 2023-12-27 | 1,130 | 6 |
 | 2023-12-28 | 1,136 | 6 |
 | 2023-12-29 | 1,145 | 6 |
-| 2023-12-30 | 1,158 | 6 |
+| 2023-12-30 | 1,159 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

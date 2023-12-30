@@ -6,13 +6,13 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 89.00% | ~1,826 |
-| Self-Improvement | 71.00% | ~1,457 |
+| Unforgiven | 89.00% | ~1,827 |
+| Self-Improvement | 71.00% | ~1,458 |
 | Perky | 65.00% | ~1,334 |
 | Let’s Ride | 59.00% | ~1,211 |
-| Welcome to the Weird West | 56.00% | ~1,149 |
+| Welcome to the Weird West | 56.00% | ~1,150 |
 | Dead or Alive | 55.00% | ~1,129 |
-| Full House | 37.00% | ~759 |
+| Full House | 37.00% | ~760 |
 | Off the Trail | 34.00% | ~698 |
 | Justice Served | 29.00% | ~595 |
 | Chain Reaction | 27.00% | ~554 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.50% | ~10 |
 | Winter Has Come | 0.40% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,052 (Ranked 241)  
+Progressed: 2,053 (Ranked 241)  
 Completed: 7 (0.34%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,6 +250,7 @@ Completed: 7 (0.34%) (Ranked 242)
 | 2023-12-27 | 2,047 | 7 |
 | 2023-12-28 | 2,050 | 7 |
 | 2023-12-29 | 2,052 | 7 |
+| 2023-12-30 | 2,053 | 7 |
 ## Awards
 Max (Impact the Story): 29  (Ranked 519)  
 Sum: 29 (Ranked 538)  

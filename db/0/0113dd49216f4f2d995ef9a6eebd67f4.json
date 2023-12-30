@@ -2,7 +2,7 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 422,
+  "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 156,
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 203,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1028,9 +1028,9 @@
       "ID": "SG_HEARTBREAKER",
       "SetID": "bj5g0n4",
       "Name": "Heartbreaker",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "SG_LIKEHEROESBEFOREYOU",
@@ -1076,9 +1076,9 @@
       "ID": "SG_NOTALOSTGIRL",
       "SetID": "bj5g0n4",
       "Name": "Not A Lost Girl",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 83
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -1227,8 +1227,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:09:08.6968177+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:08:52.7428809+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.3127204+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:58:28.1316409+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:09:08.6968549+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:58:23.178055+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:08:52.7429131+00:00"
 }

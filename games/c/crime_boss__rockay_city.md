@@ -7,9 +7,9 @@ Rating: 3.95 (Ranked 1,047)
 | ---- | ---------- | ----- |
 | First One’s Free | 4.00% | ~3,710 |
 | Downed but Not Outed | 4.00% | ~3,710 |
-| Neophyte Ninja | 3.00% | ~2,782 |
-| Too Old for This | 3.00% | ~2,782 |
-| Fancy Pants | 3.00% | ~2,782 |
+| Neophyte Ninja | 3.00% | ~2,783 |
+| Too Old for This | 3.00% | ~2,783 |
+| Fancy Pants | 3.00% | ~2,783 |
 | Underworld Initiate | 2.00% | ~1,855 |
 | Roid Ranger | 2.00% | ~1,855 |
 | Case Closed | 2.00% | ~1,855 |
@@ -24,14 +24,14 @@ Rating: 3.95 (Ranked 1,047)
 | Headhunter | 0.90% | ~835 |
 | I Like Trains | 0.70% | ~649 |
 | Freebooter | 0.70% | ~649 |
-| Legend Looter | 0.60% | ~556 |
-| Foo Finder | 0.60% | ~556 |
-| Moneybags | 0.60% | ~556 |
+| Legend Looter | 0.60% | ~557 |
+| Foo Finder | 0.60% | ~557 |
+| Moneybags | 0.60% | ~557 |
 | Imports and Exports | 0.50% | ~464 |
 | Savvy Seeker | 0.50% | ~464 |
 | Olympus Ascended | 0.50% | ~464 |
 | Ding Dong | 0.50% | ~464 |
-| All that Glitters | 0.50% | ~105 |
+| All that Glitters | 0.50% | ~106 |
 | Cracked the Jack | 0.40% | ~371 |
 | Rockay Raider | 0.30% | ~278 |
 | Rockay Knight | 0.30% | ~278 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,047)
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,750 (Ranked 98)  
+Progressed: 92,754 (Ranked 99)  
 Completed: 58 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 58 (0.06%) (Ranked 327)
 | 2023-12-27 | 92,615 | 58 |
 | 2023-12-28 | 92,654 | 58 |
 | 2023-12-29 | 92,698 | 58 |
-| 2023-12-30 | 92,750 | 58 |
+| 2023-12-30 | 92,754 | 58 |
 ## Awards
 Max (Diverse Characters): 585  (Ranked 208)  
 Sum: 2,765 (Ranked 190)  

@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting Sail | 90.00% | ~113 |
-| A Small Thirsty Thing | 13.00% | ~16 |
-| Dousing a Venerable Flame | 13.00% | ~16 |
-| Advanced Armaments | 13.00% | ~16 |
-| Rain Must Fall | 10.00% | ~13 |
-| Overboard | 10.00% | ~13 |
-| Leisis Bless You | 10.00% | ~13 |
+| Setting Sail | 91.00% | ~116 |
+| A Small Thirsty Thing | 13.00% | ~17 |
+| Dousing a Venerable Flame | 13.00% | ~17 |
+| Advanced Armaments | 13.00% | ~17 |
 | Spirit Within | 10.00% | ~13 |
+| Rain Must Fall | 9.00% | ~11 |
+| Overboard | 9.00% | ~11 |
 | Bladesmith | 9.00% | ~11 |
 | The Guardian of Fire | 9.00% | ~11 |
+| Leisis Bless You | 9.00% | ~11 |
 | Twin Thorns | 8.00% | ~10 |
 | Explorer | 7.00% | ~9 |
 | Sommelier | 6.00% | ~8 |
@@ -63,7 +63,7 @@
 | Holding Out | 0.00% | ~0 |
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126 (Ranked 466)  
+Progressed: 127 (Ranked 465)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,6 +121,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-25 | 122 | 0 |
 | 2023-12-27 | 123 | 0 |
 | 2023-12-29 | 126 | 0 |
+| 2023-12-30 | 127 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

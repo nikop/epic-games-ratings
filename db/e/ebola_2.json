@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-2-b61221",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 425,
+  "Ranking_EOS_NewPlayers": 419,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 314,
+  "EOS_Progressed": 315,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1269,6 +1269,11 @@
       "Time": "2023-12-29T14:10:09.0528354+00:00",
       "NumProgressed": 314,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T17:09:54.3422632+00:00",
+      "NumProgressed": 315,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -1318,9 +1323,9 @@
       "ID": "achExplosion",
       "SetID": "1al1mjg",
       "Name": "Survival \u2714",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 9
     },
     {
       "ID": "achEye",
@@ -1423,14 +1428,14 @@
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 314,
+      "Progressed": 315,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:10:05.7641299+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:09:54.3422627+00:00",
   "LastUpdate_AppInfo": "2023-12-23T19:56:58.6112906+00:00",
-  "LastUpdate_Ratings": "2023-12-30T16:03:01.7636769+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:10:05.7641456+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:02:46.1364759+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:09:54.3422783+00:00"
 }

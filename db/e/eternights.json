@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 704,
+  "EOS_Progressed": 706,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -2595,6 +2595,11 @@
       "Time": "2023-12-30T16:09:13.5636568+00:00",
       "NumProgressed": 704,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-30T17:08:58.2076663+00:00",
+      "NumProgressed": 706,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -2607,7 +2612,7 @@
       "Name": "New arm",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 544
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -2623,7 +2628,7 @@
       "Name": "Their Rock",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
@@ -2631,7 +2636,7 @@
       "Name": "Expert Scavenger",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACHIEVEMENT_14_PromiseYuna",
@@ -2639,7 +2644,7 @@
       "Name": "Yuna\u0027s Promise",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -2687,7 +2692,7 @@
       "Name": "Shelter Escape",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 528
+      "UsersEstimate": 530
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -2725,9 +2730,9 @@
       "ID": "ACHIEVEMENT_24_TentacleMan",
       "SetID": "9bke6f1",
       "Name": "TentacleMAN",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_25_LoveAssistant",
@@ -2743,7 +2748,7 @@
       "Name": "The First Bond",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -2751,7 +2756,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -2759,7 +2764,7 @@
       "Name": "Master Craftsman",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACHIEVEMENT_5_FirstWall",
@@ -2767,7 +2772,7 @@
       "Name": "First wall",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -2775,7 +2780,7 @@
       "Name": "Piggyback Expert",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
@@ -2783,7 +2788,7 @@
       "Name": "Second wall",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -2791,7 +2796,7 @@
       "Name": "Stone Retriever",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACHIEVEMENT_9_Flawless",
@@ -2806,7 +2811,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 704,
+      "Progressed": 706,
       "Completed": 2
     }
   ],
@@ -2814,8 +2819,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-27T15:59:49.1136695+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:09:13.5636565+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:08:58.2076659+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:10.2016354+00:00",
-  "LastUpdate_Ratings": "2023-12-30T16:02:39.2991632+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:09:13.563687+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:00:42.0580718+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:08:58.2077037+00:00"
 }

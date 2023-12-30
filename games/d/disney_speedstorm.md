@@ -5,33 +5,33 @@ Rating: 4.41 (Ranked 744)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~48,799 |
-| IT MAKES BOOM! | 8.00% | ~30,030 |
-| EXTRA BOOST | 6.00% | ~22,523 |
-| PROTECTED | 5.00% | ~18,769 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,015 |
-| PRO | 4.00% | ~15,015 |
-| AGGRESSIVE RACER | 3.00% | ~11,261 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~7,508 |
-| TRAINING HARD | 2.00% | ~7,508 |
-| A TIGER'S FEAR | 2.00% | ~7,508 |
-| RELEASE THE KRAKEN | 1.00% | ~3,754 |
-| BE OUR GUEST | 1.00% | ~3,754 |
-| DEFEAT OUR CHAMPION | 1.00% | ~3,754 |
-| ACE SPEEDSTER | 1.00% | ~3,754 |
-| ACE DEFENDER | 1.00% | ~3,754 |
-| FRIENDLY | 1.00% | ~3,754 |
-| MASTER | 1.00% | ~3,754 |
-| LEGENDARY HERO | 1.00% | ~3,754 |
-| ACE BRAWLER | 0.90% | ~3,378 |
-| THE EYE OF THE HUNTER | 0.90% | ~3,378 |
-| EXPERIENCED CREW | 0.80% | ~3,003 |
-| PERFECTLY POISED | 0.60% | ~2,252 |
-| FRAMED! | 0.60% | ~2,252 |
-| ACE TRICKSTER | 0.60% | ~2,252 |
+| ROOKIE | 13.00% | ~48,813 |
+| IT MAKES BOOM! | 8.00% | ~30,039 |
+| EXTRA BOOST | 6.00% | ~22,529 |
+| PROTECTED | 5.00% | ~18,774 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,019 |
+| PRO | 4.00% | ~15,019 |
+| AGGRESSIVE RACER | 3.00% | ~11,265 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~7,510 |
+| TRAINING HARD | 2.00% | ~7,510 |
+| A TIGER'S FEAR | 2.00% | ~7,510 |
+| RELEASE THE KRAKEN | 1.00% | ~3,755 |
+| BE OUR GUEST | 1.00% | ~3,755 |
+| DEFEAT OUR CHAMPION | 1.00% | ~3,755 |
+| ACE SPEEDSTER | 1.00% | ~3,755 |
+| ACE DEFENDER | 1.00% | ~3,755 |
+| FRIENDLY | 1.00% | ~3,755 |
+| MASTER | 1.00% | ~3,755 |
+| LEGENDARY HERO | 1.00% | ~3,755 |
+| ACE BRAWLER | 0.90% | ~3,379 |
+| THE EYE OF THE HUNTER | 0.90% | ~3,379 |
+| EXPERIENCED CREW | 0.80% | ~3,004 |
+| PERFECTLY POISED | 0.60% | ~2,253 |
+| FRAMED! | 0.60% | ~2,253 |
+| ACE TRICKSTER | 0.60% | ~2,253 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 375,377 (Ranked 49)  
-Completed: 1,316 (0.35%) (Ranked 236)  
+Progressed: 375,487 (Ranked 49)  
+Completed: 1,318 (0.35%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -280,7 +280,7 @@ Completed: 1,316 (0.35%) (Ranked 236)
 | 2023-12-27 | 370,197 | 1,258 |
 | 2023-12-28 | 372,212 | 1,280 |
 | 2023-12-29 | 374,175 | 1,307 |
-| 2023-12-30 | 375,377 | 1,316 |
+| 2023-12-30 | 375,487 | 1,318 |
 ## Awards
 Max (Great for Beginners): 161  (Ranked 321)  
 Sum: 1,063 (Ranked 261)  

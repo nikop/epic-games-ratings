@@ -6,12 +6,12 @@ Number of Ratings: 1,023  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 95.00% | ~20,740 |
-| Strongman | 31.00% | ~6,768 |
-| Just Enough | 20.00% | ~4,366 |
-| Alpha Male | 20.00% | ~4,366 |
+| First money | 95.00% | ~20,742 |
+| Strongman | 31.00% | ~6,769 |
+| Just Enough | 20.00% | ~4,367 |
+| Alpha Male | 20.00% | ~4,367 |
 | Pro-creative | 19.00% | ~4,148 |
-| Worth Every Penny | 14.00% | ~3,056 |
+| Worth Every Penny | 14.00% | ~3,057 |
 | Family man | 13.00% | ~2,838 |
 | Junior Estate Agent | 13.00% | ~2,838 |
 | Mystery | 10.00% | ~2,183 |
@@ -22,15 +22,15 @@ Number of Ratings: 1,023  (23.09.2022)
 | I'm Belieber | 3.00% | ~655 |
 | Knock, knock | 1.00% | ~218 |
 | You do it wrong | 1.00% | ~218 |
-| Wall Street Shark | 0.90% | ~196 |
-| Negotiator | 0.90% | ~196 |
+| Wall Street Shark | 0.90% | ~197 |
+| Negotiator | 0.90% | ~197 |
 | Car Mechanic | 0.80% | ~175 |
 | Game Over | 0.80% | ~175 |
 | Nerd | 0.60% | ~131 |
 | Do it ASAP | 0.60% | ~131 |
 | Senior Estate Agent | 0.60% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,832 (Ranked 148)  
+Progressed: 21,834 (Ranked 148)  
 Completed: 21 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,21 +283,21 @@ Completed: 21 (0.10%) (Ranked 305)
 | 2023-12-27 | 21,789 | 21 |
 | 2023-12-28 | 21,806 | 21 |
 | 2023-12-29 | 21,824 | 21 |
-| 2023-12-30 | 21,832 | 21 |
+| 2023-12-30 | 21,834 | 21 |
 ## Awards
 Max (Great for Beginners): 329  (Ranked 252)  
-Sum: 2,287 (Ranked 207)  
-Diff (max vs sum): 45  
+Sum: 2,290 (Ranked 206)  
+Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 329 |
 | This game is Educational | 243 |
-| This game is Relaxing | 235 |
+| This game is Relaxing | 236 |
 | This game is Extremely Fun | 232 |
 | This game has a Creative Community | 225 |
-| This game is Highly Recommended | 222 |
+| This game is Highly Recommended | 223 |
 | This game has Quickly Understood Controls | 222 |
-| This game has Amazing Storytelling | 219 |
+| This game has Amazing Storytelling | 220 |
 | This game has Amazing Characters | 194 |
 | This game has Obsessive Gameplay | 173 |
 | This game has Easy Combat | 166 |
@@ -500,3 +500,4 @@ Diff (max vs sum): 45
 | 2023-12-26 | 4.69 | - | 328 | 2,283 |
 | 2023-12-27 | 4.69 | - | 328 | 2,286 |
 | 2023-12-28 | 4.69 | - | 329 | 2,287 |
+| 2023-12-30 | 4.69 | - | 329 | 2,290 |

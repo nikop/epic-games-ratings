@@ -6,7 +6,7 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 3.00% | ~4,965 |
+| Imprint | 3.00% | ~4,966 |
 | The Hunt | 2.00% | ~3,310 |
 | Taste | 2.00% | ~3,310 |
 | Ravenous | 2.00% | ~3,310 |
@@ -14,12 +14,12 @@ Number of Ratings: 46  (23.09.2022)
 | Devourer | 0.80% | ~1,324 |
 | Harmless | 0.70% | ~1,159 |
 | Silenced Whispers | 0.70% | ~1,159 |
+| Feast | 0.60% | ~993 |
 | Yank | 0.60% | ~993 |
 | Sharpened Vessel | 0.60% | ~993 |
-| Scion | 0.50% | ~825 |
+| Scion | 0.50% | ~826 |
 | Jawcrab | 0.50% | ~828 |
 | Jawstag | 0.50% | ~828 |
-| Feast | 0.50% | ~828 |
 | Watcher | 0.50% | ~828 |
 | Shapely | 0.40% | ~662 |
 | Glare | 0.40% | ~660 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~165 |
 | Intensify | 0.10% | ~165 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 165,509 (Ranked 81)  
+Progressed: 165,524 (Ranked 81)  
 Completed: 426 (0.26%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,14 +284,14 @@ Completed: 426 (0.26%) (Ranked 261)
 | 2023-12-27 | 164,964 | 416 |
 | 2023-12-28 | 165,163 | 418 |
 | 2023-12-29 | 165,352 | 424 |
-| 2023-12-30 | 165,509 | 426 |
+| 2023-12-30 | 165,524 | 426 |
 ## Awards
-Max (Unique Visuals): 60  (Ranked 426)  
-Sum: 432 (Ranked 344)  
-Diff (max vs sum): 82  
+Max (Unique Visuals): 61  (Ranked 425)  
+Sum: 433 (Ranked 344)  
+Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
-| This game has Unique Visuals | 60 |
+| This game has Unique Visuals | 61 |
 | This game is Highly Recommended | 59 |
 | This game has Quickly Understood Controls | 58 |
 | This game has Amazing Storytelling | 58 |
@@ -472,4 +472,4 @@ Diff (max vs sum): 82
 | 2023-12-26 | 4.59 | - | 59 | 426 |
 | 2023-12-28 | 4.59 | - | 60 | 429 |
 | 2023-12-29 | 4.59 | - | 60 | 431 |
-| 2023-12-30 | 4.59 | - | 60 | 432 |
+| 2023-12-30 | 4.59 | - | 61 | 433 |

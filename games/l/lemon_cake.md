@@ -23,7 +23,7 @@
 | Bakery Empire | 5.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 185 (Ranked 425)  
-Completed: 2 (1.08%) (Ranked 168)  
+Completed: 2 (1.08%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

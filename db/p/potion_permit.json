@@ -3,12 +3,12 @@
   "Name": "Potion Permit",
   "ProductSlug": "potion-permit",
   "Ranking_Rating": 1060,
-  "Ranking_Popularity": 415,
-  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 416,
+  "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -399,7 +399,7 @@
   ],
   "EOS_Progressed": 1834,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -3354,9 +3354,9 @@
       "ID": "ACHIEVEMENTS_22",
       "SetID": "d4o538a",
       "Name": "The Capitalist",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 789
+      "UsersEstimate": 807
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -3499,8 +3499,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-28T09:03:17.5303608+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:04:39.802616+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:04:32.1102602+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:45.5140216+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:57:16.2648828+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:04:39.8026556+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:57:00.2561137+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:04:32.110312+00:00"
 }

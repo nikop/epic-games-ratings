@@ -3,9 +3,9 @@
   "Name": "Botanicula",
   "ProductSlug": "botanicula-50043d",
   "Ranking_EOS_Progress": 434,
-  "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_Completed": 161,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2012-04-19T11:00:00+00:00",
@@ -990,9 +990,9 @@
       "ID": "Ach-05-burak",
       "SetID": "2pjo9pi",
       "Name": "Burak",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "Ach-05-chameleon",
@@ -1046,9 +1046,9 @@
       "ID": "Ach-05-krotitel",
       "SetID": "2pjo9pi",
       "Name": "Krotitel",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "Ach-05-loutky",
@@ -1078,9 +1078,9 @@
       "ID": "Ach-05-zavod",
       "SetID": "2pjo9pi",
       "Name": "Zavod",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "Ach-05-zelva",
@@ -1165,8 +1165,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:09:10.8830383+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:08:55.2118256+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:05.6352108+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:59:05.9176053+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:09:10.8830768+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:59:07.5569883+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:08:55.2118683+00:00"
 }

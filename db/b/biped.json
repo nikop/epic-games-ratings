@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9229,
+  "EOS_Progressed": 9233,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 599,
+  "EOS_NewPlayers": 600,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15459,6 +15459,11 @@
       "Time": "2023-12-30T16:04:30.7738133+00:00",
       "NumProgressed": 9229,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T17:04:22.6105428+00:00",
+      "NumProgressed": 9233,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -15470,7 +15475,7 @@
       "Name": "First Step",
       "Percentage": 34,
       "XP": 45,
-      "UsersEstimate": 3138
+      "UsersEstimate": 3139
     },
     {
       "ID": "10",
@@ -15486,7 +15491,7 @@
       "Name": "Telepathic",
       "Percentage": 8,
       "XP": 70,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "12",
@@ -15526,7 +15531,7 @@
       "Name": "Dense Forest",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2492
+      "UsersEstimate": 2493
     },
     {
       "ID": "3",
@@ -15534,7 +15539,7 @@
       "Name": "Cactus Vally",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1846
+      "UsersEstimate": 1847
     },
     {
       "ID": "4",
@@ -15542,7 +15547,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "5",
@@ -15566,7 +15571,7 @@
       "Name": "Blue Rapids",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "8",
@@ -15582,14 +15587,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 9229,
+      "Progressed": 9233,
       "Completed": 0
     }
   ],
@@ -15597,8 +15602,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:04:30.773813+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:04:22.6105425+00:00",
   "LastUpdate_AppInfo": "2023-12-23T21:57:07.1374216+00:00",
   "LastUpdate_Ratings": "2023-12-30T16:02:49.5578745+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:04:30.7739065+00:00"
+  "LastUpdate_Achievements": "2023-12-30T17:04:22.6106167+00:00"
 }

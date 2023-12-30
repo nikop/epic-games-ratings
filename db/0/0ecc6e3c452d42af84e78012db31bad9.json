@@ -6,9 +6,9 @@
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 204,
-  "Ranking_EOS_Completed": 181,
+  "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4756,
+  "EOS_Progressed": 4757,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -12415,6 +12415,11 @@
       "Time": "2023-12-30T14:03:07.1710841+00:00",
       "NumProgressed": 4756,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-12-30T17:03:44.5108658+00:00",
+      "NumProgressed": 4757,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 16,
@@ -12426,7 +12431,7 @@
       "Name": "Colored 10 easy pictures.",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "ach_10_hard_pictures",
@@ -12458,7 +12463,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 3662
+      "UsersEstimate": 3663
     },
     {
       "ID": "ach_architecture_completed",
@@ -12474,7 +12479,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1569
+      "UsersEstimate": 1570
     },
     {
       "ID": "ach_bomb",
@@ -12490,7 +12495,7 @@
       "Name": "Color flood",
       "Percentage": 31,
       "XP": 65,
-      "UsersEstimate": 1474
+      "UsersEstimate": 1475
     },
     {
       "ID": "ach_first_picture",
@@ -12498,7 +12503,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 3852
+      "UsersEstimate": 3853
     },
     {
       "ID": "ach_food_completed",
@@ -12514,7 +12519,7 @@
       "Name": "Food - unlocked",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1712
+      "UsersEstimate": 1713
     },
     {
       "ID": "ach_game_opened",
@@ -12553,7 +12558,7 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4756,
+      "Progressed": 4757,
       "Completed": 42
     }
   ],
@@ -12561,8 +12566,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:03:55.2772201+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:03:44.5108655+00:00",
   "LastUpdate_AppInfo": "2023-12-29T23:56:56.9957208+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:58:08.7341942+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:03:55.2772817+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:58:01.9702017+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:03:44.5109445+00:00"
 }

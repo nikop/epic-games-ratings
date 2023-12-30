@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -323,9 +323,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3827,
+  "EOS_Progressed": 3829,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7483,6 +7483,11 @@
       "Time": "2023-12-30T16:05:32.1711965+00:00",
       "NumProgressed": 3827,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T17:05:26.832726+00:00",
+      "NumProgressed": 3829,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7494,7 +7499,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "ACH_BASE_10",
@@ -7502,7 +7507,7 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH_BASE_11",
@@ -7558,7 +7563,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "ACH_BASE_19",
@@ -7670,7 +7675,7 @@
       "Name": "Power Outage",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH_BASE_32",
@@ -7790,7 +7795,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "ACH_BASE_49",
@@ -7868,9 +7873,9 @@
       "ID": "ACH_BASE_59",
       "SetID": "92iocjf",
       "Name": "The Ship of Theseus",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 574
+      "UsersEstimate": 536
     },
     {
       "ID": "ACH_BASE_6",
@@ -7949,13 +7954,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2011,
+      "Progressed": 2013,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3827,
+      "Progressed": 3829,
       "Completed": 0
     }
   ],
@@ -7963,8 +7968,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:05:32.1711959+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:05:26.8327256+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:27.94929+00:00",
-  "LastUpdate_Ratings": "2023-12-30T16:03:02.1371513+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:05:32.171263+00:00"
+  "LastUpdate_Ratings": "2023-12-30T17:02:46.4132522+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:05:26.832796+00:00"
 }

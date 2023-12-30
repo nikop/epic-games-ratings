@@ -2,9 +2,9 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 382,
+  "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 310,
+  "EOS_Progressed": 311,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
@@ -1244,6 +1244,11 @@
       "Time": "2023-12-30T15:02:59.5313401+00:00",
       "NumProgressed": 310,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-30T17:03:26.971468+00:00",
+      "NumProgressed": 311,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1328,7 +1333,7 @@
       "Name": "Hunger",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "AC_BOSS_01",
@@ -1366,9 +1371,9 @@
       "ID": "AC_COMBO_1",
       "SetID": "16i2akc",
       "Name": "Pack",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 75
     },
     {
       "ID": "AC_COMBO_2",
@@ -1424,15 +1429,15 @@
       "Name": "Killer",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
       "SetID": "16i2akc",
       "Name": "Psycopath",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 84
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -1448,7 +1453,7 @@
       "Name": "Excursion",
       "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -1496,7 +1501,7 @@
       "Name": "Schooling",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "AC_FULL_MAP",
@@ -1536,7 +1541,7 @@
       "Name": "Cook",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "AC_RECIPES_DONE_2",
@@ -1560,7 +1565,7 @@
       "Name": "Loss",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -1591,14 +1596,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 310,
+      "Progressed": 311,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:03:38.9610128+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:03:26.9714677+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:54.1541826+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:58:06.5964719+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:03:38.9610423+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:57:59.2239097+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:03:26.9715026+00:00"
 }

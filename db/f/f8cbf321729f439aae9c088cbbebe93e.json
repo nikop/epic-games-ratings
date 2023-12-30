@@ -2,9 +2,9 @@
   "ID": "f8cbf321729f439aae9c088cbbebe93e",
   "Name": "Survivor - Castaway Island",
   "ProductSlug": "survivor-castaway-island-16f672",
-  "Ranking_EOS_Progress": 571,
+  "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 417,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-03T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36,
+  "EOS_Progressed": 37,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -209,6 +209,11 @@
       "Time": "2023-12-30T05:09:05.4658642+00:00",
       "NumProgressed": 36,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-30T17:08:55.4109072+00:00",
+      "NumProgressed": 37,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-27T10:09:15.6934484+00:00",
@@ -227,7 +232,7 @@
       "ID": "_01",
       "SetID": "670ak8f",
       "Name": "Let there be light",
-      "Percentage": 72,
+      "Percentage": 70,
       "XP": 50,
       "UsersEstimate": 26
     },
@@ -235,7 +240,7 @@
       "ID": "_02",
       "SetID": "670ak8f",
       "Name": "Only one family",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -243,7 +248,7 @@
       "ID": "_03",
       "SetID": "670ak8f",
       "Name": "Strategist",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 50,
       "UsersEstimate": 16
     },
@@ -259,7 +264,7 @@
       "ID": "_05",
       "SetID": "670ak8f",
       "Name": "Lazy bones",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 50,
       "UsersEstimate": 10
     },
@@ -267,7 +272,7 @@
       "ID": "_06",
       "SetID": "670ak8f",
       "Name": "Gossiper",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 50,
       "UsersEstimate": 25
     },
@@ -275,7 +280,7 @@
       "ID": "_07",
       "SetID": "670ak8f",
       "Name": "Mastermind",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 150,
       "UsersEstimate": 2
     },
@@ -308,14 +313,14 @@
     {
       "ID": "670ak8f",
       "IsBase": true,
-      "Progressed": 36,
+      "Progressed": 37,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-05T01:45:17.1796579+00:00",
   "FirstSeenAchievements": "2023-09-18T15:06:02.8477562+00:00",
-  "LastChanged_Achievements": "2023-12-30T16:09:11.0555084+00:00",
+  "LastChanged_Achievements": "2023-12-30T17:08:55.4109065+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:20.7764809+00:00",
-  "LastUpdate_Ratings": "2023-12-30T15:59:17.0695366+00:00",
-  "LastUpdate_Achievements": "2023-12-30T16:09:11.0555173+00:00"
+  "LastUpdate_Ratings": "2023-12-30T16:59:20.5038572+00:00",
+  "LastUpdate_Achievements": "2023-12-30T17:08:55.4109212+00:00"
 }

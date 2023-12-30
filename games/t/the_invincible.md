@@ -1,29 +1,29 @@
 # The Invincible
 [Store](https://store.epicgames.com/en-US/p/the-invincible)  
 [View Rawdata](../../db/t/the_invincible.json)  
-Rating: 4.56 (Ranked 500)  
+Rating: 4.58 (Ranked 463)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 67.00% | ~790 |
-| The Teleprobe | 53.00% | ~625 |
-| The City | 48.00% | ~566 |
-| The field base | 43.00% | ~507 |
-| The Alliance | 38.00% | ~448 |
-| Survivors | 37.00% | ~436 |
-| The Condor | 34.00% | ~401 |
-| The End | 34.00% | ~401 |
-| Krauta is alive | 27.00% | ~318 |
-| The Necroevolution | 27.00% | ~318 |
+| The Camp | 67.00% | ~791 |
+| The Teleprobe | 53.00% | ~626 |
+| The City | 48.00% | ~567 |
+| The field base | 43.00% | ~508 |
+| The Alliance | 38.00% | ~449 |
+| Survivors | 37.00% | ~437 |
+| The Condor | 35.00% | ~413 |
+| The End | 34.00% | ~402 |
+| Krauta is alive | 27.00% | ~319 |
+| The Necroevolution | 27.00% | ~319 |
 | Peacemaker | 21.00% | ~248 |
 | Volcanologist | 21.00% | ~248 |
 | On her own | 20.00% | ~236 |
 | Fierce fight | 19.00% | ~224 |
-| Evacuation | 18.00% | ~212 |
-| Beyond divisions | 17.00% | ~200 |
+| Evacuation | 18.00% | ~213 |
+| Beyond divisions | 17.00% | ~201 |
 | Flying Objects Operator | 16.00% | ~189 |
-| I remember everything! | 13.00% | ~153 |
-| Another giant | 12.00% | ~141 |
+| I remember everything! | 13.00% | ~154 |
+| Another giant | 12.00% | ~142 |
 | I leave no man behind | 9.00% | ~106 |
 | Violent solution | 8.00% | ~94 |
 | Innate curiosity | 7.00% | ~83 |
@@ -35,7 +35,7 @@ Rating: 4.56 (Ranked 500)
 | Convoy list | 0.90% | ~11 |
 | No more mistakes | 0.60% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,179 (Ranked 278)  
+Progressed: 1,181 (Ranked 278)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 1,083 | 0 |
 | 2023-12-28 | 1,116 | 0 |
 | 2023-12-29 | 1,151 | 0 |
-| 2023-12-30 | 1,179 | 0 |
+| 2023-12-30 | 1,181 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -98,3 +98,4 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-24 | 4.52 | 0 | 0 |
 | 2023-12-26 | 4.54 | 0 | 0 |
 | 2023-12-29 | 4.56 | 0 | 0 |
+| 2023-12-30 | 4.58 | 0 | 0 |
