@@ -497,7 +497,7 @@
   "Tags": [],
   "EOS_Progressed": 3773,
   "EOS_Completed": 141,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.74,
   "EosHistory": [
@@ -6502,9 +6502,9 @@
       "ID": "ACH_CASE_CLOSED",
       "SetID": "4kfb9pd",
       "Name": "Case Closed",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1358
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -6615,8 +6615,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-12-29T23:00:02.814442+00:00",
-  "LastChanged_Achievements": "2023-12-31T21:08:34.1712582+00:00",
+  "LastChanged_Achievements": "2023-12-31T22:08:23.7451625+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:02.885587+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:02:48.0957404+00:00",
-  "LastUpdate_Achievements": "2023-12-31T21:08:34.1712967+00:00"
+  "LastUpdate_Ratings": "2023-12-31T22:02:37.6639714+00:00",
+  "LastUpdate_Achievements": "2023-12-31T22:08:23.7452094+00:00"
 }

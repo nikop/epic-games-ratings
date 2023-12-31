@@ -2,7 +2,7 @@
   "ID": "jackal",
   "Name": "Dauntless",
   "ProductSlug": "dauntless",
-  "Ranking_Rating": 559,
+  "Ranking_Rating": 560,
   "Ranking_Popularity": 19,
   "Ranking_PopularitySum": 23,
   "Ranking_EOS_Progress": 819,
@@ -12699,18 +12699,24 @@
       "Rating": 4.53,
       "NumberOfAwards": 65270,
       "NumberOfAwardsMax": 25321
+    },
+    {
+      "Time": "2023-12-31T21:57:51.2794216+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 65299,
+      "NumberOfAwardsMax": 25350
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 65270,
-  "NumberOfAwardsMax": 25321,
+  "NumberOfAwards": 65299,
+  "NumberOfAwardsMax": 25350,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 25321
+      "Count": 25350
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -12784,8 +12790,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2023-12-31T19:58:25.7416971+00:00",
+  "LastChanged": "2023-12-31T21:57:51.2794214+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:48.4486131+00:00",
-  "LastUpdate_Ratings": "2023-12-31T20:58:15.1168574+00:00",
-  "LastUpdate_Achievements": "2023-12-31T21:04:30.2710491+00:00"
+  "LastUpdate_Ratings": "2023-12-31T21:57:51.2794221+00:00",
+  "LastUpdate_Achievements": "2023-12-31T22:03:44.7599492+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 521,
+  "Ranking_Rating": 522,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 417,
   "Ranking_EOS_Progress": 29,
@@ -943,9 +943,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 666600,
+  "EOS_Progressed": 666601,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 365,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -25218,6 +25218,11 @@
       "Time": "2023-12-31T21:09:38.7711173+00:00",
       "NumProgressed": 666600,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2023-12-31T22:09:09.4854959+00:00",
+      "NumProgressed": 666601,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -25229,7 +25234,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 479952
+      "UsersEstimate": 479953
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -25237,7 +25242,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 386628
+      "UsersEstimate": 386629
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -25612,15 +25617,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 666600,
+      "Progressed": 666601,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-24T17:58:48.2867936+00:00",
-  "LastChanged_Achievements": "2023-12-31T21:09:38.7711167+00:00",
+  "LastChanged_Achievements": "2023-12-31T22:09:09.4854956+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:45.4290677+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:02:36.8757999+00:00",
-  "LastUpdate_Achievements": "2023-12-31T21:09:38.771265+00:00"
+  "LastUpdate_Ratings": "2023-12-31T22:00:20.8092003+00:00",
+  "LastUpdate_Achievements": "2023-12-31T22:09:09.4856451+00:00"
 }

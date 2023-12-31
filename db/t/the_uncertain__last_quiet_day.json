@@ -5,7 +5,7 @@
   "Ranking_Rating": 1077,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
-  "Ranking_EOS_Progress": 326,
+  "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 109,
   "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 155,
@@ -1274,9 +1274,9 @@
       "ID": "SYSADMIN",
       "SetID": "2iigf77",
       "Name": "Sysadmin",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 131
+      "UsersEstimate": 137
     },
     {
       "ID": "THAT_IS_MUCH_BETTER",
@@ -1298,9 +1298,9 @@
       "ID": "UNCERTAIN",
       "SetID": "2iigf77",
       "Name": "Uncertain",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 112
     },
     {
       "ID": "WALKING_ROBOT",
@@ -1323,8 +1323,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2023-12-31T21:10:35.4495881+00:00",
+  "LastChanged_Achievements": "2023-12-31T22:09:49.4696508+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:48.4333912+00:00",
-  "LastUpdate_Ratings": "2023-12-31T20:58:20.0898196+00:00",
-  "LastUpdate_Achievements": "2023-12-31T21:10:35.4496219+00:00"
+  "LastUpdate_Ratings": "2023-12-31T21:57:54.3851608+00:00",
+  "LastUpdate_Achievements": "2023-12-31T22:09:49.4696806+00:00"
 }

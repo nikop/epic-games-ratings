@@ -33,7 +33,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3166,
+  "EOS_Progressed": 3167,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
@@ -7763,6 +7763,11 @@
       "Time": "2023-12-31T21:04:27.1193723+00:00",
       "NumProgressed": 3166,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T22:03:42.4947369+00:00",
+      "NumProgressed": 3167,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8079,7 +8084,7 @@
       "Name": "Champagne Spray",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -8166,7 +8171,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3166,
+      "Progressed": 3167,
       "Completed": 0
     }
   ],
@@ -8174,8 +8179,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2023-12-26T23:58:21.0860972+00:00",
-  "LastChanged_Achievements": "2023-12-31T21:04:27.1193721+00:00",
+  "LastChanged_Achievements": "2023-12-31T22:03:42.4947367+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:59.7599271+00:00",
   "LastUpdate_Ratings": "2023-12-31T21:02:40.1146696+00:00",
-  "LastUpdate_Achievements": "2023-12-31T21:04:27.1194304+00:00"
+  "LastUpdate_Achievements": "2023-12-31T22:03:42.494805+00:00"
 }

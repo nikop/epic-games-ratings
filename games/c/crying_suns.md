@@ -1,20 +1,20 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.50 (Ranked 612)  
+Rating: 4.51 (Ranked 590)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~312,271 |
+| The Shutdown | 66.00% | ~312,272 |
 | Jeef Skeejj | 44.00% | ~208,181 |
 | Careful planning | 39.00% | ~184,524 |
 | Second Coming | 34.00% | ~160,867 |
-| Jeef Skagg | 30.00% | ~141,941 |
-| Mother | 25.00% | ~118,284 |
+| Jeef Skagg | 30.00% | ~141,942 |
+| Mother | 25.00% | ~118,285 |
 | In space, no one can hear you scream | 24.00% | ~113,553 |
-| Chapter I: Echoes | 22.00% | ~104,090 |
-| Excelsior Rule | 22.00% | ~104,090 |
+| Chapter I: Echoes | 22.00% | ~104,091 |
+| Excelsior Rule | 22.00% | ~104,091 |
 | Things persisted in not being what they seemed | 20.00% | ~94,628 |
 | Knightmare Frames | 15.00% | ~70,971 |
 | May His passing cleanse the world | 15.00% | ~70,971 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~17 |
 | Kronos Rule | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,138 (Ranked 43)  
+Progressed: 473,139 (Ranked 43)  
 Completed: 21 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,11 +341,11 @@ Completed: 21 (0.00%) (Ranked 391)
 | 2023-12-28 | 472,964 | 20 |
 | 2023-12-29 | 473,017 | 20 |
 | 2023-12-30 | 473,076 | 21 |
-| 2023-12-31 | 473,138 | 21 |
+| 2023-12-31 | 473,139 | 21 |
 ## Awards
 Max (Character Customization): 228  (Ranked 284)  
-Sum: 252 (Ranked 396)  
-Diff (max vs sum): -112  
+Sum: 252 (Ranked 397)  
+Diff (max vs sum): -113  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 228 |
@@ -445,3 +445,4 @@ Diff (max vs sum): -112
 | 2023-12-16 | 4.50 | - | 226 | 250 |
 | 2023-12-27 | 4.50 | - | 227 | 251 |
 | 2023-12-29 | 4.50 | - | 228 | 252 |
+| 2023-12-31 | 4.51 | - | 228 | 252 |

@@ -5337,9 +5337,9 @@
       "Count": 531
     }
   ],
-  "EOS_Progressed": 92811,
+  "EOS_Progressed": 92813,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 341,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -29882,6 +29882,11 @@
       "Time": "2023-12-31T21:04:16.5092938+00:00",
       "NumProgressed": 92811,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-31T22:03:35.3065004+00:00",
+      "NumProgressed": 92813,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -29989,7 +29994,7 @@
       "Name": "Freebooter",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "ACH_0061",
@@ -30037,7 +30042,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3712
+      "UsersEstimate": 3713
     },
     {
       "ID": "ACH_0210",
@@ -30045,7 +30050,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3712
+      "UsersEstimate": 3713
     },
     {
       "ID": "ACH_0211",
@@ -30220,13 +30225,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92811,
+      "Progressed": 92813,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21158,
+      "Progressed": 21160,
       "Completed": 15593
     }
   ],
@@ -30234,8 +30239,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-31T17:59:48.3980735+00:00",
-  "LastChanged_Achievements": "2023-12-31T21:04:16.5092935+00:00",
+  "LastChanged_Achievements": "2023-12-31T22:03:35.3065+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:43.6008036+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:00:45.4001846+00:00",
-  "LastUpdate_Achievements": "2023-12-31T21:04:16.509422+00:00"
+  "LastUpdate_Ratings": "2023-12-31T21:59:28.9158787+00:00",
+  "LastUpdate_Achievements": "2023-12-31T22:03:35.3066202+00:00"
 }

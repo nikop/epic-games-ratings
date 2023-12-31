@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -655,7 +655,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4169,
+  "EOS_Progressed": 4170,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
@@ -9215,6 +9215,11 @@
       "Time": "2023-12-31T16:09:28.8074272+00:00",
       "NumProgressed": 4169,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-31T22:09:14.7906224+00:00",
+      "NumProgressed": 4170,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9306,7 +9311,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1959
+      "UsersEstimate": 1960
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -9354,7 +9359,7 @@
       "Name": "Skirmisher",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -9434,7 +9439,7 @@
       "Name": "Lord of War",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1293
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -9442,7 +9447,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -9450,7 +9455,7 @@
       "Name": "Resourceful",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -9538,7 +9543,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -9602,7 +9607,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -9793,13 +9798,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4120,
+      "Progressed": 4121,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4169,
+      "Progressed": 4170,
       "Completed": 11
     }
   ],
@@ -9807,8 +9812,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-31T17:57:21.8483577+00:00",
-  "LastChanged_Achievements": "2023-12-31T21:09:46.6163961+00:00",
+  "LastChanged_Achievements": "2023-12-31T22:09:14.790622+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:41.6601563+00:00",
-  "LastUpdate_Ratings": "2023-12-31T20:57:35.0928284+00:00",
-  "LastUpdate_Achievements": "2023-12-31T21:09:46.6164881+00:00"
+  "LastUpdate_Ratings": "2023-12-31T21:57:25.6674435+00:00",
+  "LastUpdate_Achievements": "2023-12-31T22:09:14.7907189+00:00"
 }

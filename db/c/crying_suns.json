@@ -2,12 +2,12 @@
   "ID": "0a4fc789eb0143c29296de79df5387ab",
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
-  "Ranking_Rating": 612,
+  "Ranking_Rating": 590,
   "Ranking_Popularity": 284,
-  "Ranking_PopularitySum": 396,
+  "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.5,
+  "Rating": 4.51,
   "NumberOfRatings": 1003,
   "RatingHistory": [
     {
@@ -665,6 +665,12 @@
       "Rating": 4.5,
       "NumberOfAwards": 252,
       "NumberOfAwardsMax": 228
+    },
+    {
+      "Time": "2023-12-31T21:59:14.9955382+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 252,
+      "NumberOfAwardsMax": 228
     }
   ],
   "ReviewsDisabled": false,
@@ -685,9 +691,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473138,
+  "EOS_Progressed": 473139,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 371,
+  "EOS_NewPlayers": 369,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27080,6 +27086,11 @@
       "Time": "2023-12-31T21:10:45.9227331+00:00",
       "NumProgressed": 473138,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-31T22:09:57.7507503+00:00",
+      "NumProgressed": 473139,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -27115,7 +27126,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 104090
+      "UsersEstimate": 104091
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -27179,7 +27190,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312271
+      "UsersEstimate": 312272
     },
     {
       "ID": "achievement_story_landa",
@@ -27211,7 +27222,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118284
+      "UsersEstimate": 118285
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -27523,7 +27534,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141941
+      "UsersEstimate": 141942
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -27603,7 +27614,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 104090
+      "UsersEstimate": 104091
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -27722,21 +27733,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17072,
+      "Progressed": 17073,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473138,
+      "Progressed": 473139,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
-  "LastChanged": "2023-12-29T21:58:28.6192346+00:00",
-  "LastChanged_Achievements": "2023-12-31T21:10:45.9227327+00:00",
+  "LastChanged": "2023-12-31T21:59:14.9955381+00:00",
+  "LastChanged_Achievements": "2023-12-31T22:09:57.7507499+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:35.1454991+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:00:23.6032195+00:00",
-  "LastUpdate_Achievements": "2023-12-31T21:10:45.92291+00:00"
+  "LastUpdate_Ratings": "2023-12-31T21:59:14.9955385+00:00",
+  "LastUpdate_Achievements": "2023-12-31T22:09:57.7510034+00:00"
 }

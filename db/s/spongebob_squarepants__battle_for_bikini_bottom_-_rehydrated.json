@@ -2,12 +2,12 @@
   "ID": "b3d490d845c040ee82fd02f400ab0efc",
   "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
   "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
-  "Ranking_Rating": 324,
+  "Ranking_Rating": 325,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 524,
-  "Ranking_EOS_Progress": 336,
+  "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
@@ -323,7 +323,7 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 588,
+  "EOS_Progressed": 590,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 4,
@@ -1598,6 +1598,11 @@
       "Time": "2023-12-31T21:08:10.8118952+00:00",
       "NumProgressed": 588,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-31T22:06:17.8758881+00:00",
+      "NumProgressed": 590,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1610,7 +1615,7 @@
       "Name": "Robot encyclopedia",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_ARE_YOU_READY_NOW",
@@ -1618,7 +1623,7 @@
       "Name": "Are you ready now?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_CHUM_BUCKET_BRAIN",
@@ -1666,7 +1671,7 @@
       "Name": "Hello, Bikini Bottom",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_FLYING_DUTCHMAN_BOSS",
@@ -1706,7 +1711,7 @@
       "Name": "Keep it Rolling",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_PRAWN_BOSS",
@@ -1784,9 +1789,9 @@
       "ID": "ACH_STAT_25_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Super Spatula Seeker",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -1794,7 +1799,7 @@
       "Name": "Ultra Spatula Seeker",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_STAT_75_SPATULA_SEEKER",
@@ -1865,15 +1870,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 588,
+      "Progressed": 590,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-31T19:58:31.7111869+00:00",
-  "LastChanged_Achievements": "2023-12-31T21:08:10.8118947+00:00",
+  "LastChanged_Achievements": "2023-12-31T22:06:17.8758876+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2023-12-31T20:58:21.6098112+00:00",
-  "LastUpdate_Achievements": "2023-12-31T21:08:10.8119206+00:00"
+  "LastUpdate_Ratings": "2023-12-31T21:57:55.3880068+00:00",
+  "LastUpdate_Achievements": "2023-12-31T22:06:17.8759133+00:00"
 }

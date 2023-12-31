@@ -13,21 +13,21 @@
 | Breached | 11.00% | ~29 |
 | Conciliator | 9.00% | ~24 |
 | Tactician | 9.00% | ~24 |
-| Acquaintance | 8.00% | ~21 |
 | Fight Another Day | 8.00% | ~21 |
 | Taskmaster | 8.00% | ~21 |
+| Acquaintance | 7.00% | ~19 |
 | Tail-wind | 7.00% | ~19 |
 | Scholar | 6.00% | ~16 |
 | The More the Merrier | 6.00% | ~16 |
 | Deputized | 6.00% | ~16 |
 | Harbinger | 6.00% | ~16 |
-| Strategist | 5.00% | ~13 |
 | Courier | 5.00% | ~13 |
 | Pilgrimage's End | 5.00% | ~13 |
 | Merchant | 5.00% | ~13 |
-| Trouble at Fort Larius | 5.00% | ~13 |
+| Strategist | 4.00% | ~11 |
 | Been There | 4.00% | ~11 |
 | Spiritual Journey | 4.00% | ~11 |
+| Trouble at Fort Larius | 4.00% | ~11 |
 | Quartermaster | 3.00% | ~8 |
 | Potential Unlocked | 3.00% | ~8 |
 | Xevarian Gambit | 3.00% | ~8 |
@@ -38,39 +38,39 @@
 | Unseen Patterns | 3.00% | ~8 |
 | Bounty Hunter | 2.00% | ~5 |
 | Supercargo | 2.00% | ~5 |
-| Watcher | 2.00% | ~5 |
-| Talent Nurtured | 2.00% | ~5 |
 | Huntress Unbound | 2.00% | ~5 |
 | Business As Usual | 2.00% | ~5 |
-| Legacy of a Mercenary | 2.00% | ~5 |
 | Delayed | 2.00% | ~5 |
 | A Real Battle | 2.00% | ~5 |
-| The Darkness Within | 2.00% | ~5 |
 | Life... Finds a Way | 2.00% | ~5 |
 | Merchant Lord | 2.00% | ~5 |
-| Glorious leader | 2.00% | ~5 |
 | Insectoid Propagator | 2.00% | ~5 |
 | Making Contact | 1.00% | ~3 |
+| Watcher | 1.00% | ~3 |
 | Executor | 1.00% | ~3 |
 | Loremaster | 1.00% | ~3 |
 | Adept | 1.00% | ~3 |
+| Talent Nurtured | 1.00% | ~3 |
 | Ever After | 1.00% | ~3 |
+| Legacy of a Mercenary | 1.00% | ~3 |
 | Trailblazer | 1.00% | ~3 |
 | Moving At Odd Angles | 1.00% | ~3 |
+| The Darkness Within | 1.00% | ~3 |
 | Wyrmslayer | 1.00% | ~3 |
+| Glorious leader | 1.00% | ~3 |
 | Voracity Confronted | 1.00% | ~3 |
-| Embellished | 0.80% | ~2 |
-| Manticore | 0.80% | ~2 |
-| Huntsmaster | 0.80% | ~2 |
-| Loader | 0.80% | ~2 |
-| Mercenary | 0.80% | ~2 |
-| Escort | 0.80% | ~2 |
-| Despoiler | 0.80% | ~2 |
-| Ruiner | 0.80% | ~2 |
-| Arcanite | 0.80% | ~2 |
-| What Lies Below | 0.80% | ~2 |
-| The Last Voyage | 0.80% | ~2 |
-| Theory to Practice | 0.80% | ~2 |
+| Embellished | 0.70% | ~2 |
+| Manticore | 0.70% | ~2 |
+| Huntsmaster | 0.70% | ~2 |
+| Loader | 0.70% | ~2 |
+| Mercenary | 0.70% | ~2 |
+| Escort | 0.70% | ~2 |
+| Despoiler | 0.70% | ~2 |
+| Ruiner | 0.70% | ~2 |
+| Arcanite | 0.70% | ~2 |
+| What Lies Below | 0.70% | ~2 |
+| The Last Voyage | 0.70% | ~2 |
+| Theory to Practice | 0.70% | ~2 |
 | And the Sky Full of Stars | 0.40% | ~1 |
 | Carpenter | 0.40% | ~1 |
 | General | 0.40% | ~1 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266 (Ranked 400)  
+Progressed: 267 (Ranked 400)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 253 | 0 |
 | 2023-12-29 | 254 | 0 |
 | 2023-12-30 | 258 | 0 |
-| 2023-12-31 | 266 | 0 |
+| 2023-12-31 | 267 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

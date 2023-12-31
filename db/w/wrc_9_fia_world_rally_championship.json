@@ -4,7 +4,7 @@
   "ProductSlug": "wrc-9",
   "Ranking_Rating": 590,
   "Ranking_Popularity": 510,
-  "Ranking_PopularitySum": 401,
+  "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 566,
@@ -735,6 +735,6 @@
   "FirstSeen": "2022-07-22T20:19:01.098445+00:00",
   "LastChanged": "2023-12-31T11:59:48.3353696+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:46.335165+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:00:53.2854954+00:00",
-  "LastUpdate_Achievements": "2023-12-31T21:05:56.7077331+00:00"
+  "LastUpdate_Ratings": "2023-12-31T21:59:33.9183533+00:00",
+  "LastUpdate_Achievements": "2023-12-31T22:04:44.4305201+00:00"
 }

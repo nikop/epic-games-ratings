@@ -33,10 +33,10 @@
 | Tasty Profits | 17.00% | ~80 |
 | Established Fame | 15.00% | ~71 |
 | Under One Roof | 14.00% | ~66 |
+| Starred Dining | 14.00% | ~66 |
 | Cashflow Chief | 14.00% | ~66 |
-| Starred Dining | 13.00% | ~61 |
+| Boutique Benefits | 12.00% | ~57 |
 | Smooth Operator | 11.00% | ~52 |
-| Boutique Benefits | 11.00% | ~52 |
 | Terrifically Trashed | 11.00% | ~52 |
 | Thrilled Tenants | 11.00% | ~52 |
 | 28 Days Later | 10.00% | ~47 |

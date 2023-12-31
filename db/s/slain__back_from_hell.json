@@ -2,11 +2,11 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 882,
+  "Ranking_Rating": 883,
   "Ranking_Popularity": 342,
   "Ranking_PopularitySum": 447,
   "Ranking_EOS_Progress": 130,
-  "Ranking_EOS_Completed": 322,
+  "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
@@ -250,9 +250,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 43223,
+  "EOS_Progressed": 43226,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 529,
+  "EOS_NewPlayers": 526,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -27970,6 +27970,11 @@
       "Time": "2023-12-31T21:07:53.1747093+00:00",
       "NumProgressed": 43223,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-31T22:06:05.8174156+00:00",
+      "NumProgressed": 43226,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -27979,9 +27984,9 @@
       "ID": "ACH_01_DIED_MANY_TIMES",
       "SetID": "443p4o4",
       "Name": "A Good Day To Die",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6916
+      "UsersEstimate": 6484
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -28021,7 +28026,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -28093,7 +28098,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -28133,7 +28138,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2593
+      "UsersEstimate": 2594
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -28141,7 +28146,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2593
+      "UsersEstimate": 2594
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -28212,7 +28217,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 43223,
+      "Progressed": 43226,
       "Completed": 30
     }
   ],
@@ -28220,8 +28225,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-18T19:58:40.3413682+00:00",
-  "LastChanged_Achievements": "2023-12-31T21:07:53.1747087+00:00",
+  "LastChanged_Achievements": "2023-12-31T22:06:05.8174152+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:52.0120838+00:00",
-  "LastUpdate_Ratings": "2023-12-31T20:59:15.4386501+00:00",
-  "LastUpdate_Achievements": "2023-12-31T21:07:53.1748437+00:00"
+  "LastUpdate_Ratings": "2023-12-31T21:58:31.1507283+00:00",
+  "LastUpdate_Achievements": "2023-12-31T22:06:05.8175286+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1669,
+  "EOS_Progressed": 1670,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4224,6 +4224,11 @@
       "Time": "2023-12-31T09:09:51.2486244+00:00",
       "NumProgressed": 1669,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T22:09:56.9640741+00:00",
+      "NumProgressed": 1670,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -4251,7 +4256,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "ATTENBOROUGH",
@@ -4347,7 +4352,7 @@
       "Name": "Limp Richard",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -4379,7 +4384,7 @@
       "Name": "Editor Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "ENDGAME",
@@ -4387,7 +4392,7 @@
       "Name": "Endgame",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "EXORCIST",
@@ -4395,7 +4400,7 @@
       "Name": "Exorcist",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "EXPERIENCED",
@@ -4419,7 +4424,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -4443,7 +4448,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "GIANT_KILLER",
@@ -4483,7 +4488,7 @@
       "Name": "I am the law!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "INFILTRATOR",
@@ -4539,7 +4544,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "RECYCLER",
@@ -4563,7 +4568,7 @@
       "Name": "Savior",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "SENSEI",
@@ -4571,7 +4576,7 @@
       "Name": "Sensei",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "SHADOW_BOXING",
@@ -4603,7 +4608,7 @@
       "Name": "Technophobe",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -4642,7 +4647,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1669,
+      "Progressed": 1670,
       "Completed": 0
     }
   ],
@@ -4650,8 +4655,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-12-31T20:03:38.402068+00:00",
-  "LastChanged_Achievements": "2023-12-31T21:10:44.961407+00:00",
+  "LastChanged_Achievements": "2023-12-31T22:09:56.9640738+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:28.618292+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:03:18.253359+00:00",
-  "LastUpdate_Achievements": "2023-12-31T21:10:44.9614666+00:00"
+  "LastUpdate_Ratings": "2023-12-31T22:02:56.8305204+00:00",
+  "LastUpdate_Achievements": "2023-12-31T22:09:56.964121+00:00"
 }

@@ -3627,10 +3627,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3310,
       "NumberOfAwardsMax": 447
+    },
+    {
+      "Time": "2023-12-31T21:57:23.6838748+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3311,
+      "NumberOfAwardsMax": 447
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3310,
+  "NumberOfAwards": 3311,
   "NumberOfAwardsMax": 447,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3644,7 +3650,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 442
+      "Count": 443
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3695,9 +3701,9 @@
       "Count": 338
     }
   ],
-  "EOS_Progressed": 19829,
+  "EOS_Progressed": 19830,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 697,
+  "EOS_NewPlayers": 693,
   "EOS_NewCompleters": -4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -17905,6 +17911,11 @@
       "Time": "2023-12-31T21:04:31.0014519+00:00",
       "NumProgressed": 19829,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-31T22:03:45.2767389+00:00",
+      "NumProgressed": 19830,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18013,7 +18024,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "WinImpossible",
@@ -18181,7 +18192,7 @@
       "Name": "Coral Forest",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "WinOnCursed",
@@ -18197,7 +18208,7 @@
       "Name": "The Marshlands",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "WinOnMoorlands",
@@ -18205,7 +18216,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "WinPrestige10",
@@ -18357,7 +18368,7 @@
       "Name": "Ominous Presence",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "WinNearStorms",
@@ -18365,7 +18376,7 @@
       "Name": "Gathering Storm",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -18388,15 +18399,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19829,
+      "Progressed": 19830,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-12-31T17:57:18.8110179+00:00",
-  "LastChanged_Achievements": "2023-12-31T21:04:31.001451+00:00",
+  "LastChanged": "2023-12-31T21:57:23.6838746+00:00",
+  "LastChanged_Achievements": "2023-12-31T22:03:45.2767385+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2023-12-31T20:57:31.9378287+00:00",
-  "LastUpdate_Achievements": "2023-12-31T21:04:31.001547+00:00"
+  "LastUpdate_Ratings": "2023-12-31T21:57:23.6838753+00:00",
+  "LastUpdate_Achievements": "2023-12-31T22:03:45.2768628+00:00"
 }

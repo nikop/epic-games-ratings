@@ -30,8 +30,8 @@
 | Master Artificer | 17.00% | ~115 |
 | Kind Adventurer | 15.00% | ~102 |
 | Mermaid Killer | 15.00% | ~102 |
+| Cave Master | 15.00% | ~102 |
 | Face Slapper | 15.00% | ~102 |
-| Cave Master | 14.00% | ~95 |
 | Berserker Slayer | 11.00% | ~75 |
 | Boss challenge | 10.00% | ~68 |
 | Giantess Slayer | 10.00% | ~68 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 2.00% | ~14 |
 | Warden Challenge | 2.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 678 (Ranked 315)  
+Progressed: 678 (Ranked 316)  
 Completed: 2 (0.29%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |

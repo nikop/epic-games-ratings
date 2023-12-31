@@ -1,11 +1,11 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.55 (Ranked 521)  
+Rating: 4.55 (Ranked 522)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 90.00% | ~133 |
+| Beginner | 91.00% | ~135 |
 | Map reader | 66.00% | ~98 |
 | Adventurer | 64.00% | ~95 |
 | Philanthropist | 61.00% | ~90 |

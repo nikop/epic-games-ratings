@@ -4,10 +4,10 @@
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 233,
   "Ranking_Popularity": 520,
-  "Ranking_PopularitySum": 398,
+  "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,7 +450,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 893,
+  "EOS_Progressed": 894,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
@@ -3225,6 +3225,11 @@
       "Time": "2023-12-31T20:09:54.6507085+00:00",
       "NumProgressed": 893,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T22:08:55.5829388+00:00",
+      "NumProgressed": 894,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3381,7 +3386,7 @@
       "Name": "Double Kill",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3445,7 +3450,7 @@
       "Name": "Multi Kill",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "MultiplayerWins",
@@ -3517,7 +3522,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -3597,7 +3602,7 @@
       "Name": "Humiliation",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -3668,15 +3673,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 893,
+      "Progressed": 894,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2023-12-31T21:09:19.9745547+00:00",
+  "LastChanged_Achievements": "2023-12-31T22:08:55.5829386+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:01:24.7947269+00:00",
-  "LastUpdate_Achievements": "2023-12-31T21:09:19.9746062+00:00"
+  "LastUpdate_Ratings": "2023-12-31T21:59:54.5935383+00:00",
+  "LastUpdate_Achievements": "2023-12-31T22:08:55.5829871+00:00"
 }

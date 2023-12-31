@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Breaking Free | 38.00% | ~16 |
+| Overcoming Weakness | 26.00% | ~11 |
 | Boulder Breaker | 26.00% | ~11 |
-| Overcoming Weakness | 24.00% | ~10 |
 | Fence-Sitter | 12.00% | ~5 |
 | Green Thumb | 10.00% | ~4 |
 | Setting Off | 10.00% | ~4 |

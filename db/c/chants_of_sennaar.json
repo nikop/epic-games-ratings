@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 69,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -97,11 +97,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2113,
+  "EOS_Progressed": 2114,
   "EOS_Completed": 129,
   "EOS_NewPlayers": 385,
-  "EOS_NewCompleters": 32,
-  "EOS_Completed_Percentage": 6.11,
+  "EOS_NewCompleters": 30,
+  "EOS_Completed_Percentage": 6.1,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -5927,6 +5927,11 @@
       "Time": "2023-12-31T21:07:55.0091123+00:00",
       "NumProgressed": 2113,
       "NumCompleted": 129
+    },
+    {
+      "Time": "2023-12-31T22:06:07.079747+00:00",
+      "NumProgressed": 2114,
+      "NumCompleted": 129
     }
   ],
   "TotalAchievements": 25,
@@ -6002,7 +6007,7 @@
       "Name": "Feels like springtime",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "META_RESULT_2-3",
@@ -6034,7 +6039,7 @@
       "Name": "Alchemists Express",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -6058,7 +6063,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -6082,7 +6087,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -6114,7 +6119,7 @@
       "Name": "A new dawn",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "PROGRESS_N4",
@@ -6137,7 +6142,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2113,
+      "Progressed": 2114,
       "Completed": 129
     }
   ],
@@ -6145,8 +6150,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-31T07:01:38.7723363+00:00",
-  "LastChanged_Achievements": "2023-12-31T21:07:55.0091118+00:00",
+  "LastChanged_Achievements": "2023-12-31T22:06:07.0797467+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:02:27.1981323+00:00",
-  "LastUpdate_Achievements": "2023-12-31T21:07:55.0091488+00:00"
+  "LastUpdate_Ratings": "2023-12-31T22:00:14.5325648+00:00",
+  "LastUpdate_Achievements": "2023-12-31T22:06:07.0797903+00:00"
 }

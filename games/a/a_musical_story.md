@@ -22,10 +22,10 @@
 | A Bigger Band | 35.00% | ~40 |
 | Fuel | 31.00% | ~35 |
 | Alone Together | 31.00% | ~35 |
-| Threatening Nature | 28.00% | ~32 |
-| Flat Tire | 27.00% | ~31 |
+| Threatening Nature | 29.00% | ~33 |
+| Flat Tire | 28.00% | ~32 |
 | TV Dreams | 26.00% | ~29 |
-| The Clash | 23.00% | ~26 |
+| The Clash | 24.00% | ~27 |
 | Dreamers | 20.00% | ~23 |
 | The Fix | 19.00% | ~21 |
 | Time | 18.00% | ~20 |

@@ -2,13 +2,13 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 502,
+  "Ranking_Rating": 503,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -319,10 +319,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17917,
-  "EOS_Completed": 57,
-  "EOS_NewPlayers": 595,
-  "EOS_NewCompleters": 5,
+  "EOS_Progressed": 17921,
+  "EOS_Completed": 58,
+  "EOS_NewPlayers": 594,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -15834,6 +15834,11 @@
       "Time": "2023-12-31T21:03:49.2365871+00:00",
       "NumProgressed": 17917,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-31T22:03:16.5092398+00:00",
+      "NumProgressed": 17921,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15990,7 +15995,7 @@
       "Name": "Call it Even",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "27",
@@ -16022,7 +16027,7 @@
       "Name": "Captain Drummer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2329
+      "UsersEstimate": 2330
     },
     {
       "ID": "30",
@@ -16054,7 +16059,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2150
+      "UsersEstimate": 2151
     },
     {
       "ID": "7",
@@ -16094,7 +16099,7 @@
       "Name": "Safe Cracker",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "33",
@@ -16102,7 +16107,7 @@
       "Name": "Zen Master",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "34",
@@ -16125,22 +16130,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17917,
-      "Completed": 57
+      "Progressed": 17921,
+      "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3871,
-      "Completed": 1134
+      "Progressed": 3875,
+      "Completed": 1135
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T01:47:56.7328013+00:00",
-  "LastChanged_Achievements": "2023-12-31T21:03:49.2365864+00:00",
+  "LastChanged_Achievements": "2023-12-31T22:03:16.5092394+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2023-12-31T20:58:53.8002398+00:00",
-  "LastUpdate_Achievements": "2023-12-31T21:03:49.2366756+00:00"
+  "LastUpdate_Ratings": "2023-12-31T21:58:16.6863521+00:00",
+  "LastUpdate_Achievements": "2023-12-31T22:03:16.5093296+00:00"
 }

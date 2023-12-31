@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5764,
+  "EOS_Progressed": 5765,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5104,6 +5104,11 @@
       "Time": "2023-12-31T20:04:17.0802328+00:00",
       "NumProgressed": 5764,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T22:03:24.1703542+00:00",
+      "NumProgressed": 5765,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -5203,7 +5208,7 @@
       "Name": "Level: Extra Life",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ach_campaign_progress3",
@@ -5227,7 +5232,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2825
     },
     {
       "ID": "ach_campaign_progress6",
@@ -5363,7 +5368,7 @@
       "Name": "Rising Markets: Avoiding the Reds",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ach_campaign_special5",
@@ -5539,7 +5544,7 @@
       "Name": "Data Churn Type I",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ach_frp_researchdata2",
@@ -5722,15 +5727,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5764,
+      "Progressed": 5765,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-12-29T23:58:32.3539857+00:00",
-  "LastChanged_Achievements": "2023-12-31T21:04:00.0409938+00:00",
+  "LastChanged_Achievements": "2023-12-31T22:03:24.1703538+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.6175263+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:00:51.572269+00:00",
-  "LastUpdate_Achievements": "2023-12-31T21:04:00.0411117+00:00"
+  "LastUpdate_Ratings": "2023-12-31T21:59:32.7821524+00:00",
+  "LastUpdate_Achievements": "2023-12-31T22:03:24.1704232+00:00"
 }

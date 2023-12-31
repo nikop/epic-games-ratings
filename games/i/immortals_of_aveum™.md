@@ -5,10 +5,10 @@ Rating: 4.20 (Ranked 952)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,108 |
-| Battlefields Have Memories | 80.00% | ~1,917 |
-| Enlisted | 73.00% | ~1,749 |
-| Maybe Engage a Little | 68.00% | ~1,629 |
+| Unforeseen | 88.00% | ~2,109 |
+| Battlefields Have Memories | 80.00% | ~1,918 |
+| Enlisted | 74.00% | ~1,774 |
+| Maybe Engage a Little | 68.00% | ~1,630 |
 | No More Names | 50.00% | ~1,198 |
 | Initiate | 36.00% | ~863 |
 | Thrada-Kul | 32.00% | ~767 |
@@ -18,11 +18,11 @@ Rating: 4.20 (Ranked 952)
 | All the Major Food Groups | 21.00% | ~503 |
 | Beggars Would Ride | 19.00% | ~455 |
 | Control is an Illusion | 18.00% | ~431 |
-| The Means to Save It | 15.00% | ~359 |
-| Resilience to Sin | 14.00% | ~335 |
-| A Familiar Nest | 14.00% | ~335 |
-| Geas Aristeya | 13.00% | ~311 |
-| Periapt Alizarin | 13.00% | ~311 |
+| The Means to Save It | 16.00% | ~384 |
+| Resilience to Sin | 14.00% | ~336 |
+| A Familiar Nest | 14.00% | ~336 |
+| Geas Aristeya | 13.00% | ~312 |
+| Periapt Alizarin | 13.00% | ~312 |
 | A Perfect Cycle | 12.00% | ~288 |
 | Recruit | 11.00% | ~264 |
 | Armsman | 10.00% | ~240 |
@@ -53,8 +53,8 @@ Rating: 4.20 (Ranked 952)
 | Out of Time | 0.20% | ~5 |
 | Fowl Play | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,396 (Ranked 233)  
-Completed: 2 (0.08%) (Ranked 319)  
+Progressed: 2,397 (Ranked 233)  
+Completed: 2 (0.08%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -147,7 +147,7 @@ Completed: 2 (0.08%) (Ranked 319)
 | 2023-12-28 | 2,136 | 2 |
 | 2023-12-29 | 2,236 | 2 |
 | 2023-12-30 | 2,327 | 2 |
-| 2023-12-31 | 2,396 | 2 |
+| 2023-12-31 | 2,397 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

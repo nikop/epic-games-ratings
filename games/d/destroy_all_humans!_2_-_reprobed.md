@@ -1,46 +1,46 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.53 (Ranked 559)  
+Rating: 4.53 (Ranked 560)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 80.00% | ~213 |
-| Mash Machine | 74.00% | ~197 |
-| Ducks in a Row, Fish in a Barrel | 52.00% | ~138 |
+| Rock of the Bay | 81.00% | ~216 |
+| Mash Machine | 74.00% | ~198 |
+| Ducks in a Row, Fish in a Barrel | 51.00% | ~136 |
 | Furon Fashion | 48.00% | ~128 |
-| Shop Til They Drop | 40.00% | ~106 |
+| Shop Til They Drop | 40.00% | ~107 |
 | Bodied Sattva | 36.00% | ~96 |
 | Earthly Pleasures | 35.00% | ~93 |
 | Cult Following | 33.00% | ~88 |
 | Lie Back and Think of Albion | 27.00% | ~72 |
-| Upgreatest | 25.00% | ~66 |
+| Upgreatest | 25.00% | ~67 |
 | Pimp My Raid | 24.00% | ~64 |
 | Freshly Squeezed | 20.00% | ~53 |
 | I Look Up As I Walk to Takoshima | 19.00% | ~51 |
 | Perfect Probulator | 17.00% | ~45 |
-| Die Nasty | 17.00% | ~45 |
+| Die Nasty | 16.00% | ~43 |
 | Transmitting From Sol-3 | 14.00% | ~37 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 12.00% | ~32 |
 | Fly Me to the Moon Base | 9.00% | ~24 |
 | Kaijuiced | 9.00% | ~24 |
-| Dusted | 8.00% | ~21 |
 | Scuttled | 7.00% | ~19 |
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~19 |
-| Lobster Blisque | 5.00% | ~13 |
+| Dusted | 7.00% | ~19 |
 | Ultimate Smoothie | 4.00% | ~11 |
+| Lobster Blisque | 4.00% | ~11 |
 | Yettisoned | 4.00% | ~11 |
 | Arkvoodle Doodle | 4.00% | ~11 |
 | Deincarnated | 3.00% | ~8 |
-| Against All Odds | 2.00% | ~5 |
-| The Optional Mandate | 2.00% | ~5 |
 | Arty Facts | 1.00% | ~3 |
-| PK Slam Dunk | 0.80% | ~2 |
-| Gotta Catch All the Pop Art | 0.80% | ~2 |
-| This Is Earth Radio | 0.80% | ~2 |
-| Forbidden Donut | 0.80% | ~2 |
-| Hidden Human Hive Harvest | 0.80% | ~2 |
+| Against All Odds | 1.00% | ~3 |
+| The Optional Mandate | 1.00% | ~3 |
+| PK Slam Dunk | 0.70% | ~2 |
+| Gotta Catch All the Pop Art | 0.70% | ~2 |
+| This Is Earth Radio | 0.70% | ~2 |
+| Forbidden Donut | 0.70% | ~2 |
+| Hidden Human Hive Harvest | 0.70% | ~2 |
 | Toilet Break | 0.40% | ~1 |
 | Albion Bridge Is for Falling Down | 0.40% | ~1 |
 | Ouch of Body Experience | 0.40% | ~1 |
@@ -51,8 +51,8 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.40% | ~1 |
 | Trans-Siberian Express | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266 (Ranked 400)  
-Completed: 1 (0.38%) (Ranked 233)  
+Progressed: 267 (Ranked 400)  
+Completed: 1 (0.37%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,7 +86,7 @@ Completed: 1 (0.38%) (Ranked 233)
 | 2023-12-28 | 230 | 1 |
 | 2023-12-29 | 246 | 1 |
 | 2023-12-30 | 259 | 1 |
-| 2023-12-31 | 266 | 1 |
+| 2023-12-31 | 267 | 1 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 490)  
 Sum: 36 (Ranked 521)  

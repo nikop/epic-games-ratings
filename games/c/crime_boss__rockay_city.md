@@ -5,8 +5,8 @@ Rating: 3.95 (Ranked 1,049)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First One’s Free | 4.00% | ~3,712 |
-| Downed but Not Outed | 4.00% | ~3,712 |
+| First One’s Free | 4.00% | ~3,713 |
+| Downed but Not Outed | 4.00% | ~3,713 |
 | Neophyte Ninja | 3.00% | ~2,784 |
 | Too Old for This | 3.00% | ~2,784 |
 | Fancy Pants | 3.00% | ~2,784 |
@@ -22,7 +22,7 @@ Rating: 3.95 (Ranked 1,049)
 | True Player | 1.00% | ~928 |
 | Rockay Rex | 1.00% | ~928 |
 | Headhunter | 0.90% | ~835 |
-| Freebooter | 0.80% | ~742 |
+| Freebooter | 0.80% | ~743 |
 | I Like Trains | 0.70% | ~650 |
 | Legend Looter | 0.60% | ~557 |
 | Foo Finder | 0.60% | ~557 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,049)
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,811 (Ranked 100)  
+Progressed: 92,813 (Ranked 100)  
 Completed: 58 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 58 (0.06%) (Ranked 327)
 | 2023-12-28 | 92,654 | 58 |
 | 2023-12-29 | 92,698 | 58 |
 | 2023-12-30 | 92,767 | 58 |
-| 2023-12-31 | 92,811 | 58 |
+| 2023-12-31 | 92,813 | 58 |
 ## Awards
 Max (Diverse Characters): 585  (Ranked 208)  
 Sum: 2,767 (Ranked 190)  

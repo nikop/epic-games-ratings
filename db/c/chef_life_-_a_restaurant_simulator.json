@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 918,
+  "EOS_Progressed": 919,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3967,6 +3967,11 @@
       "Time": "2023-12-31T18:09:25.8362793+00:00",
       "NumProgressed": 918,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T22:09:29.4413775+00:00",
+      "NumProgressed": 919,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4152,9 +4157,9 @@
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 578
+      "UsersEstimate": 570
     },
     {
       "ID": "Packing20",
@@ -4162,7 +4167,7 @@
       "Name": "Next Level Cuisine",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "PerfectGrade25",
@@ -4178,7 +4183,7 @@
       "Name": "Home Cook",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "RecipeDifferent30",
@@ -4297,7 +4302,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 918,
+      "Progressed": 919,
       "Completed": 0
     }
   ],
@@ -4305,8 +4310,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-12-31T21:10:07.3489056+00:00",
+  "LastChanged_Achievements": "2023-12-31T22:09:29.4413772+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.9361067+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:02:29.3376658+00:00",
-  "LastUpdate_Achievements": "2023-12-31T21:10:07.3489455+00:00"
+  "LastUpdate_Ratings": "2023-12-31T22:00:15.8703165+00:00",
+  "LastUpdate_Achievements": "2023-12-31T22:09:29.4414196+00:00"
 }

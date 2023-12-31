@@ -4,7 +4,7 @@
   "ProductSlug": "bursthero-dd5a56",
   "Ranking_EOS_Progress": 604,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-29T00:00:00+00:00",
@@ -492,9 +492,9 @@
       "ID": "LEVEL_COMPLETE_2_0",
       "SetID": "1fek4an",
       "Name": "Castle",
-      "Percentage": 8,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LEVEL_COMPLETE_2_12",
@@ -683,8 +683,8 @@
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2023-12-31T21:08:23.0170935+00:00",
+  "LastChanged_Achievements": "2023-12-31T22:08:15.9098471+00:00",
   "LastUpdate_AppInfo": "2023-12-27T12:59:42.9426347+00:00",
-  "LastUpdate_Ratings": "2023-12-31T20:58:47.7847824+00:00",
-  "LastUpdate_Achievements": "2023-12-31T21:08:23.0171505+00:00"
+  "LastUpdate_Ratings": "2023-12-31T21:58:12.7961175+00:00",
+  "LastUpdate_Achievements": "2023-12-31T22:08:15.9099008+00:00"
 }

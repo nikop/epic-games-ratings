@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 266,
+  "EOS_Progressed": 267,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1066,6 +1066,11 @@
       "Time": "2023-12-31T20:08:46.7680361+00:00",
       "NumProgressed": 266,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T22:06:17.063801+00:00",
+      "NumProgressed": 267,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -1179,9 +1184,9 @@
       "ID": "Vanilla_ChurchOfAhskul",
       "SetID": "27kik8p",
       "Name": "Watcher",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "Vanilla_ChurchOfSergorod",
@@ -1227,9 +1232,9 @@
       "ID": "Vanilla_CombatStrenghtTier2",
       "SetID": "27kik8p",
       "Name": "Strategist",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "Vanilla_CombatStrenghtTier3",
@@ -1259,9 +1264,9 @@
       "ID": "Vanilla_CompanionsProwessTier1",
       "SetID": "27kik8p",
       "Name": "Talent Nurtured",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "Vanilla_CompanionsProwessTier2",
@@ -1283,7 +1288,7 @@
       "ID": "Vanilla_CompleteAllSideQuests",
       "SetID": "27kik8p",
       "Name": "Embellished",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1411,9 +1416,9 @@
       "ID": "Vanilla_FirstFactionTier3",
       "SetID": "27kik8p",
       "Name": "Acquaintance",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "Vanilla_FirstFactionTier5Neg",
@@ -1491,9 +1496,9 @@
       "ID": "Vanilla_Harvek",
       "SetID": "27kik8p",
       "Name": "Legacy of a Mercenary",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "Vanilla_HouseDarius",
@@ -1515,7 +1520,7 @@
       "ID": "Vanilla_HouseVenari",
       "SetID": "27kik8p",
       "Name": "Manticore",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -1523,7 +1528,7 @@
       "ID": "Vanilla_Hunter",
       "SetID": "27kik8p",
       "Name": "Huntsmaster",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1547,7 +1552,7 @@
       "ID": "Vanilla_Loaders",
       "SetID": "27kik8p",
       "Name": "Loader",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -1555,7 +1560,7 @@
       "ID": "Vanilla_MercenaryTasksTier1",
       "SetID": "27kik8p",
       "Name": "Mercenary",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1611,7 +1616,7 @@
       "ID": "Vanilla_PassengerDelivers",
       "SetID": "27kik8p",
       "Name": "Escort",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1635,7 +1640,7 @@
       "ID": "Vanilla_Ratharnak",
       "SetID": "27kik8p",
       "Name": "Despoiler",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -1651,9 +1656,9 @@
       "ID": "Vanilla_Renkailon",
       "SetID": "27kik8p",
       "Name": "The Darkness Within",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "Vanilla_Renown",
@@ -1667,7 +1672,7 @@
       "ID": "Vanilla_Ruiner",
       "SetID": "27kik8p",
       "Name": "Ruiner",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1683,7 +1688,7 @@
       "ID": "Vanilla_Scythichnis",
       "SetID": "27kik8p",
       "Name": "Arcanite",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -1699,7 +1704,7 @@
       "ID": "Vanilla_SecretsBelow",
       "SetID": "27kik8p",
       "Name": "What Lies Below",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -1715,7 +1720,7 @@
       "ID": "Vanilla_Skornar",
       "SetID": "27kik8p",
       "Name": "The Last Voyage",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -1747,7 +1752,7 @@
       "ID": "Vanilla_TheGoldenTheory",
       "SetID": "27kik8p",
       "Name": "Theory to Practice",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -1819,9 +1824,9 @@
       "ID": "Vanilla_TroubleAtFortLarius",
       "SetID": "27kik8p",
       "Name": "Trouble at Fort Larius",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "Vanilla_UnseenPatterns",
@@ -1835,9 +1840,9 @@
       "ID": "Vanilla_VagrusMaxedOut",
       "SetID": "27kik8p",
       "Name": "Glorious leader",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "Vanilla_Vorax",
@@ -1868,7 +1873,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 266,
+      "Progressed": 267,
       "Completed": 0
     }
   ],
@@ -1876,8 +1881,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-12-31T21:08:09.5386988+00:00",
+  "LastChanged_Achievements": "2023-12-31T22:06:17.0638004+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.3005977+00:00",
-  "LastUpdate_Ratings": "2023-12-31T20:57:43.6452876+00:00",
-  "LastUpdate_Achievements": "2023-12-31T21:08:09.5387899+00:00"
+  "LastUpdate_Ratings": "2023-12-31T21:57:31.2517773+00:00",
+  "LastUpdate_Achievements": "2023-12-31T22:06:17.0638987+00:00"
 }

@@ -1,37 +1,37 @@
 # Cities: Skylines
 [Store](https://store.epicgames.com/en-US/p/cities-skylines)  
 [View Rawdata](../../db/c/cities__skylines.json)  
-Rating: 4.66 (Ranked 299)  
+Rating: 4.66 (Ranked 300)  
 Number of Ratings: 25,248  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~884,550 |
-| Green Energy | 60.00% | ~747,507 |
-| Foggy Weather | 58.00% | ~722,590 |
-| Singing In The- | 58.00% | ~722,590 |
-| Unpopular Mayor | 40.00% | ~498,338 |
-| Power at Your Fingertips | 33.00% | ~411,129 |
-| City Planner | 22.00% | ~274,086 |
-| Rolling in Dough | 20.00% | ~249,169 |
-| Does My Bum Look Big In This? | 17.00% | ~211,794 |
-| Climbing the Social Ladder | 16.00% | ~199,335 |
-| Safe City | 13.00% | ~161,960 |
-| Quay-King | 11.00% | ~137,043 |
-| With Canals You Can! | 10.00% | ~124,584 |
-| Lawmaker | 9.00% | ~112,126 |
-| Nomen Est Omen | 7.00% | ~87,209 |
-| Well Informed | 6.00% | ~74,751 |
-| Fire Watch | 5.00% | ~62,292 |
-| Greenest City | 4.00% | ~49,834 |
-| Heavenly City | 3.00% | ~37,375 |
-| Reporting! | 3.00% | ~37,375 |
-| SIMulated City | 3.00% | ~37,375 |
-| The Safest Town | 3.00% | ~37,375 |
-| Professional Dumper | 2.00% | ~24,917 |
-| City in Motion | 1.00% | ~12,458 |
-| Earthloving City | 1.00% | ~12,458 |
-| Metropolis | 1.00% | ~12,458 |
+| Pioneer | 71.00% | ~884,588 |
+| Green Energy | 60.00% | ~747,539 |
+| Foggy Weather | 58.00% | ~722,621 |
+| Singing In The- | 58.00% | ~722,621 |
+| Unpopular Mayor | 40.00% | ~498,359 |
+| Power at Your Fingertips | 33.00% | ~411,146 |
+| City Planner | 22.00% | ~274,098 |
+| Rolling in Dough | 20.00% | ~249,180 |
+| Does My Bum Look Big In This? | 17.00% | ~211,803 |
+| Climbing the Social Ladder | 16.00% | ~199,344 |
+| Safe City | 13.00% | ~161,967 |
+| Quay-King | 11.00% | ~137,049 |
+| With Canals You Can! | 10.00% | ~124,590 |
+| Lawmaker | 9.00% | ~112,131 |
+| Nomen Est Omen | 7.00% | ~87,213 |
+| Well Informed | 6.00% | ~74,754 |
+| Fire Watch | 5.00% | ~62,295 |
+| Greenest City | 4.00% | ~49,836 |
+| Heavenly City | 3.00% | ~37,377 |
+| Reporting! | 3.00% | ~37,377 |
+| SIMulated City | 3.00% | ~37,377 |
+| The Safest Town | 3.00% | ~37,377 |
+| Professional Dumper | 2.00% | ~24,918 |
+| City in Motion | 1.00% | ~12,459 |
+| Earthloving City | 1.00% | ~12,459 |
+| Metropolis | 1.00% | ~12,459 |
 | Higher Education | 0.80% | ~9,967 |
 | Beam Me Up | 0.70% | ~8,721 |
 | Terraformer | 0.60% | ~7,475 |
@@ -41,15 +41,15 @@ Number of Ratings: 25,248  (23.09.2022)
 | Shake It Up! | 0.50% | ~6,229 |
 | The Waters of Our Lives | 0.50% | ~6,229 |
 | Twist and shout | 0.50% | ~6,229 |
-| Airfield Expertise | 0.40% | ~4,983 |
-| Drop the Base | 0.40% | ~4,983 |
-| Get Your Snowshoes Ready! | 0.40% | ~4,983 |
-| Happy Town | 0.40% | ~4,983 |
-| I Want It All | 0.40% | ~4,983 |
-| Just Tolling | 0.40% | ~4,983 |
-| Postman | 0.40% | ~4,983 |
-| Speed up! | 0.40% | ~4,983 |
-| Thunder and Lightning | 0.40% | ~4,983 |
+| Airfield Expertise | 0.40% | ~4,984 |
+| Drop the Base | 0.40% | ~4,984 |
+| Get Your Snowshoes Ready! | 0.40% | ~4,984 |
+| Happy Town | 0.40% | ~4,984 |
+| I Want It All | 0.40% | ~4,984 |
+| Just Tolling | 0.40% | ~4,984 |
+| Postman | 0.40% | ~4,984 |
+| Speed up! | 0.40% | ~4,984 |
+| Thunder and Lightning | 0.40% | ~4,984 |
 | A Huge Hadron | 0.30% | ~3,738 |
 | Airlifter | 0.30% | ~3,738 |
 | Airport Architect | 0.30% | ~3,738 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,246 |
 | Z00 | 0.10% | ~1,246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,245,845 (Ranked 12)  
+Progressed: 1,245,898 (Ranked 12)  
 Completed: 11 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -381,7 +381,7 @@ Completed: 11 (0.00%) (Ranked 391)
 | 2023-12-28 | 1,241,271 | 11 |
 | 2023-12-29 | 1,242,752 | 11 |
 | 2023-12-30 | 1,244,385 | 11 |
-| 2023-12-31 | 1,245,845 | 11 |
+| 2023-12-31 | 1,245,898 | 11 |
 ## Awards
 Max (Great for Beginners): 6,590  (Ranked 60)  
 Sum: 48,615 (Ranked 32)  

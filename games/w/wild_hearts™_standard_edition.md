@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 100.00% | ~1,041 |
-| Hidden History | 71.00% | ~739 |
-| Commencing of Quests | 61.00% | ~635 |
-| Budding Conjuror | 59.00% | ~614 |
+| Land of the Rising Sun | 100.00% | ~1,042 |
+| Hidden History | 71.00% | ~740 |
+| Commencing of Quests | 61.00% | ~636 |
+| Budding Conjuror | 59.00% | ~615 |
 | Man-Machine Master | 48.00% | ~500 |
 | Charmed by the Hunt | 48.00% | ~500 |
-| Mountain Splitter | 47.00% | ~489 |
-| Subsistence Skills | 47.00% | ~489 |
-| Fusion Conjuror | 45.00% | ~468 |
-| Memory Rouser | 45.00% | ~468 |
+| Mountain Splitter | 47.00% | ~490 |
+| Subsistence Skills | 47.00% | ~490 |
+| Fusion Conjuror | 45.00% | ~469 |
+| Memory Rouser | 45.00% | ~469 |
 | Kemono Hunter | 41.00% | ~427 |
 | Expert Conjuror | 38.00% | ~396 |
-| Flawless Crystal | 37.00% | ~385 |
-| Helpful Heart | 37.00% | ~385 |
+| Flawless Crystal | 37.00% | ~386 |
+| Helpful Heart | 37.00% | ~386 |
 | Bonds of Enmity | 36.00% | ~375 |
 | Distance Devourer | 34.00% | ~354 |
 | Counter Specialist | 33.00% | ~344 |
@@ -31,8 +31,8 @@
 | Snare Specialist | 22.00% | ~229 |
 | Artful Assister | 21.00% | ~219 |
 | Team Hunter | 19.00% | ~198 |
-| Karakuri Isle | 18.00% | ~187 |
-| Reincarnation Cycle Stopper | 18.00% | ~187 |
+| Karakuri Isle | 18.00% | ~188 |
+| Reincarnation Cycle Stopper | 18.00% | ~188 |
 | Human Believer | 16.00% | ~167 |
 | Left Arm Leverager | 15.00% | ~156 |
 | Style Seeker | 15.00% | ~156 |
@@ -48,12 +48,12 @@
 | Tender Touch | 9.00% | ~94 |
 | Superlative View | 8.00% | ~83 |
 | Relentless Kemono Hunter | 7.00% | ~73 |
-| Vanquisher of the Volatile | 6.00% | ~62 |
+| Vanquisher of the Volatile | 6.00% | ~63 |
 | Big Spender | 5.00% | ~52 |
 | Bewitched by Bathing | 4.00% | ~42 |
 | Tsukumo Whisperer | 2.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,041 (Ranked 287)  
+Progressed: 1,042 (Ranked 287)  
 Completed: 8 (0.77%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,4 +160,4 @@ Completed: 8 (0.77%) (Ranked 191)
 | 2023-12-28 | 970 | 8 |
 | 2023-12-29 | 995 | 8 |
 | 2023-12-30 | 1,022 | 8 |
-| 2023-12-31 | 1,041 | 8 |
+| 2023-12-31 | 1,042 | 8 |

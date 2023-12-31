@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -2805,9 +2805,9 @@
       "ID": "BearPistol",
       "SetID": "db30heh",
       "Name": "Ouch!",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 360
+      "UsersEstimate": 367
     },
     {
       "ID": "BearPoppiesBroth",
@@ -2853,9 +2853,9 @@
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 483
+      "UsersEstimate": 490
     },
     {
       "ID": "BroomAmanita",
@@ -2933,9 +2933,9 @@
       "ID": "HastrmanAcorn",
       "SetID": "db30heh",
       "Name": "Do Not Disturb",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 340
+      "UsersEstimate": 347
     },
     {
       "ID": "HastrmanAmanita",
@@ -2997,9 +2997,9 @@
       "ID": "PriestPistol",
       "SetID": "db30heh",
       "Name": "Unexpected Hit",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 129
+      "UsersEstimate": 136
     },
     {
       "ID": "PriestPoppiesBroth",
@@ -3109,9 +3109,9 @@
       "ID": "SwordDiamond",
       "SetID": "db30heh",
       "Name": "Precious Barter",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 340
+      "UsersEstimate": 347
     },
     {
       "ID": "SwordMoneyBag",
@@ -3140,8 +3140,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-12-31T21:06:52.7172264+00:00",
+  "LastChanged_Achievements": "2023-12-31T22:05:24.0913872+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:22.002955+00:00",
-  "LastUpdate_Ratings": "2023-12-31T20:57:02.8839603+00:00",
-  "LastUpdate_Achievements": "2023-12-31T21:06:52.717267+00:00"
+  "LastUpdate_Ratings": "2023-12-31T21:57:03.4590264+00:00",
+  "LastUpdate_Achievements": "2023-12-31T22:05:24.0914282+00:00"
 }

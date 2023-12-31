@@ -1,16 +1,16 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 612)  
+Rating: 4.50 (Ranked 613)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 10.00% | ~3,302 |
+| Stylish | 10.00% | ~3,303 |
 | Advancement | 8.00% | ~2,642 |
 | Meticulously Efficient | 8.00% | ~2,642 |
-| Discovery | 6.00% | ~1,981 |
-| Solo Capture | 6.00% | ~1,981 |
-| Swift Rift Removers | 6.00% | ~1,981 |
+| Discovery | 6.00% | ~1,982 |
+| Solo Capture | 6.00% | ~1,982 |
+| Swift Rift Removers | 6.00% | ~1,982 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,651 |
 | Fully Upgraded | 5.00% | ~1,651 |
 | Teamwork | 5.00% | ~1,651 |
@@ -32,14 +32,14 @@ Rating: 4.50 (Ranked 612)
 | Seasoned | 3.00% | ~991 |
 | Side Hustle | 3.00% | ~991 |
 | Summoner | 3.00% | ~991 |
-| Collector | 2.00% | ~660 |
-| Escape Artist | 2.00% | ~660 |
-| Reckless | 2.00% | ~660 |
-| Rift Destroyer | 2.00% | ~660 |
-| Skilled | 2.00% | ~660 |
-| Stunner | 2.00% | ~660 |
-| Tobin's Prodigy | 2.00% | ~660 |
-| Welcome to the Crew | 2.00% | ~660 |
+| Collector | 2.00% | ~661 |
+| Escape Artist | 2.00% | ~661 |
+| Reckless | 2.00% | ~661 |
+| Rift Destroyer | 2.00% | ~661 |
+| Skilled | 2.00% | ~661 |
+| Stunner | 2.00% | ~661 |
+| Tobin's Prodigy | 2.00% | ~661 |
+| Welcome to the Crew | 2.00% | ~661 |
 | Diabolical | 1.00% | ~330 |
 | Fragile Panes | 1.00% | ~330 |
 | Liability | 1.00% | ~330 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 612)
 | Ultimate Defense | 0.20% | ~66 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,024 (Ranked 135)  
+Progressed: 33,028 (Ranked 135)  
 Completed: 71 (0.21%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 71 (0.21%) (Ranked 269)
 | 2023-12-28 | 32,854 | 70 |
 | 2023-12-29 | 32,915 | 71 |
 | 2023-12-30 | 32,969 | 71 |
-| 2023-12-31 | 33,024 | 71 |
+| 2023-12-31 | 33,028 | 71 |
 ## Awards
 Max (Great for Beginners): 326  (Ranked 254)  
 Sum: 2,943 (Ranked 185)  

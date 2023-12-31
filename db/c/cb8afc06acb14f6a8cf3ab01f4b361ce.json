@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -455,9 +455,9 @@
       "Count": 75
     }
   ],
-  "EOS_Progressed": 338837,
+  "EOS_Progressed": 338852,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 4309,
+  "EOS_NewPlayers": 4301,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11690,6 +11690,11 @@
       "Time": "2023-12-31T21:08:57.2761738+00:00",
       "NumProgressed": 338837,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-31T22:08:39.7089831+00:00",
+      "NumProgressed": 338852,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -11702,7 +11707,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13553
+      "UsersEstimate": 13554
     },
     {
       "ID": "S02_BRDA",
@@ -11710,7 +11715,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10165
+      "UsersEstimate": 10166
     },
     {
       "ID": "S03_OTWA",
@@ -11718,7 +11723,7 @@
       "Name": "Rumors are true",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3388
+      "UsersEstimate": 3389
     },
     {
       "ID": "S04_BRDC",
@@ -11838,7 +11843,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13553
+      "UsersEstimate": 13554
     },
     {
       "ID": "S19_CHALLENGES",
@@ -11926,7 +11931,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3388
+      "UsersEstimate": 3389
     },
     {
       "ID": "S30_DIAMOND",
@@ -12021,7 +12026,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 338837,
+      "Progressed": 338852,
       "Completed": 7
     }
   ],
@@ -12029,8 +12034,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-29T17:59:10.0786957+00:00",
-  "LastChanged_Achievements": "2023-12-31T21:08:57.2761732+00:00",
+  "LastChanged_Achievements": "2023-12-31T22:08:39.7089826+00:00",
   "LastUpdate_AppInfo": "2023-12-28T22:56:57.7073923+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:00:38.6810552+00:00",
-  "LastUpdate_Achievements": "2023-12-31T21:08:57.2762531+00:00"
+  "LastUpdate_Ratings": "2023-12-31T21:59:24.6658607+00:00",
+  "LastUpdate_Achievements": "2023-12-31T22:08:39.7090463+00:00"
 }

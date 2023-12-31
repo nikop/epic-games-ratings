@@ -267,7 +267,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 2018,
+  "EOS_Progressed": 2019,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
@@ -4772,6 +4772,11 @@
       "Time": "2023-12-31T21:08:03.3690838+00:00",
       "NumProgressed": 2018,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T22:06:12.8613546+00:00",
+      "NumProgressed": 2019,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -4792,7 +4797,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 1796
+      "UsersEstimate": 1797
     },
     {
       "ID": "AC02",
@@ -4816,7 +4821,7 @@
       "Name": "Blood and Iron",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     },
     {
       "ID": "AC05",
@@ -4832,7 +4837,7 @@
       "Name": "The Last Ascension",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "AC07",
@@ -4848,7 +4853,7 @@
       "Name": "Forged in Fire",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "AC09",
@@ -4928,7 +4933,7 @@
       "Name": "Acquired Taste",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "AC19",
@@ -4936,7 +4941,7 @@
       "Name": "Soledad",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "AC20",
@@ -4952,7 +4957,7 @@
       "Name": "No Cherub Left Behind",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "AC22",
@@ -5008,7 +5013,7 @@
       "Name": "The Punished One",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "AC29",
@@ -5048,7 +5053,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "AC34",
@@ -5096,7 +5101,7 @@
       "Name": "Warrior of the Silent Sorrow",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "AC40",
@@ -5104,7 +5109,7 @@
       "Name": "Welcome Back!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1554
+      "UsersEstimate": 1555
     },
     {
       "ID": "AC41",
@@ -5128,7 +5133,7 @@
       "Name": "The Finest Craftmanship",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "AC44",
@@ -5151,7 +5156,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2018,
+      "Progressed": 2019,
       "Completed": 0
     }
   ],
@@ -5159,8 +5164,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-31T20:59:17.7127137+00:00",
-  "LastChanged_Achievements": "2023-12-31T21:08:03.3690832+00:00",
+  "LastChanged_Achievements": "2023-12-31T22:06:12.8613541+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:24.8809366+00:00",
-  "LastUpdate_Ratings": "2023-12-31T20:59:17.7127141+00:00",
-  "LastUpdate_Achievements": "2023-12-31T21:08:03.3691342+00:00"
+  "LastUpdate_Ratings": "2023-12-31T21:58:32.560572+00:00",
+  "LastUpdate_Achievements": "2023-12-31T22:06:12.8614007+00:00"
 }

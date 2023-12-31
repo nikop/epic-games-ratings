@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 324)  
+Rating: 4.65 (Ranked 325)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -18,6 +18,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 0.70% | ~112 |
 | Hanging Gardens | 0.70% | ~112 |
 | Oracle | 0.70% | ~112 |
+| Trade Caravan | 0.70% | ~112 |
 | Able | 0.60% | ~96 |
 | Glorious | 0.60% | ~96 |
 | Just | 0.60% | ~96 |
@@ -27,7 +28,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Judaism | 0.60% | ~96 |
 | Greek Paganism | 0.60% | ~96 |
 | Naming Landmarks | 0.60% | ~96 |
-| Trade Caravan | 0.60% | ~96 |
 | Ambitious | 0.50% | ~80 |
 | Brilliant | 0.50% | ~80 |
 | Enlightened | 0.50% | ~80 |
@@ -53,6 +53,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 0.40% | ~64 |
 | Roman Paganism | 0.40% | ~64 |
 | Zoroastrianism | 0.40% | ~64 |
+| Hanging Gardens in Babylon | 0.30% | ~48 |
 | Beloved | 0.30% | ~48 |
 | Drillmaster | 0.30% | ~48 |
 | Intercessor | 0.30% | ~48 |
@@ -75,7 +76,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 0.30% | ~48 |
 | Win a Single Player Game | 0.30% | ~48 |
 | Bad Heir Day | 0.20% | ~32 |
-| Hanging Gardens in Babylon | 0.20% | ~32 |
 | Capable | 0.20% | ~32 |
 | Conqueror | 0.20% | ~32 |
 | Invincible | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,051 (Ranked 165)  
+Progressed: 16,052 (Ranked 165)  
 Completed: 5 (0.03%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -620,7 +620,7 @@ Completed: 5 (0.03%) (Ranked 351)
 | 2023-12-28 | 15,997 | 5 |
 | 2023-12-29 | 16,011 | 5 |
 | 2023-12-30 | 16,036 | 5 |
-| 2023-12-31 | 16,051 | 5 |
+| 2023-12-31 | 16,052 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,912 (Ranked 220)  

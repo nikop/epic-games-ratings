@@ -6,15 +6,15 @@
 | ---- | ---------- | ----- |
 | Chapter I | 51.00% | ~92 |
 | Fire in the... nevermind | 51.00% | ~92 |
-| Haute cuisine | 45.00% | ~81 |
+| Haute cuisine | 46.00% | ~83 |
 | Demolition expert | 39.00% | ~71 |
 | I didn't do it! | 39.00% | ~71 |
 | Open up wide | 37.00% | ~67 |
-| Keep away from children | 36.00% | ~65 |
-| Wooooooow! | 34.00% | ~62 |
+| Keep away from children | 37.00% | ~67 |
+| Wooooooow! | 35.00% | ~63 |
 | Shadow on the wall | 32.00% | ~58 |
 | Artistic fool | 31.00% | ~56 |
-| Let the boot talk | 30.00% | ~54 |
+| Let the boot talk | 31.00% | ~56 |
 | Chapter II | 25.00% | ~45 |
 | Handyman | 23.00% | ~42 |
 | Bubblekillerfamily | 23.00% | ~42 |
@@ -31,9 +31,9 @@
 | To err is human... | 12.00% | ~22 |
 | Master of Thermodynamics | 12.00% | ~22 |
 | Unfullfilled dreams | 12.00% | ~22 |
+| Useless but beautiful | 9.00% | ~16 |
 | Nothing can stop me | 9.00% | ~16 |
 | Mumbo Jumbo | 9.00% | ~16 |
-| Useless but beautiful | 8.00% | ~14 |
 | Lollipop | 7.00% | ~13 |
 | Where there is life, there is hope | 7.00% | ~13 |
 | It's nothing personal | 7.00% | ~13 |

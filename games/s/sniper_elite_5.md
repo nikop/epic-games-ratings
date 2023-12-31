@@ -5,14 +5,14 @@ Rating: 4.46 (Ranked 673)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,959 |
+| Meeting Resistance | 47.00% | ~1,960 |
 | Confirming Suspicions | 42.00% | ~1,751 |
 | The Kraken Wakes | 37.00% | ~1,543 |
-| It's Starting to Crack | 34.00% | ~1,417 |
+| It's Starting to Crack | 34.00% | ~1,418 |
 | Change the Channel | 32.00% | ~1,334 |
-| Lord of War | 31.00% | ~1,292 |
+| Lord of War | 31.00% | ~1,293 |
 | Taking it back | 30.00% | ~1,251 |
-| Resourceful | 28.00% | ~1,167 |
+| Resourceful | 28.00% | ~1,168 |
 | Target America | 27.00% | ~1,126 |
 | The Kraken Sleeps | 25.00% | ~1,042 |
 | As Quiet as a Mouse | 24.00% | ~1,001 |
@@ -26,9 +26,9 @@ Rating: 4.46 (Ranked 673)
 | Der Geist | 17.00% | ~709 |
 | Close Quarters | 16.00% | ~667 |
 | Snake in the Grass | 16.00% | ~667 |
-| Skirmisher | 15.00% | ~625 |
-| Die Nussknacker Sweet! | 15.00% | ~625 |
-| Brains of the Operation | 15.00% | ~625 |
+| Skirmisher | 15.00% | ~626 |
+| Die Nussknacker Sweet! | 15.00% | ~626 |
+| Brains of the Operation | 15.00% | ~626 |
 | No Stone Unturned | 14.00% | ~584 |
 | Opposing Force | 14.00% | ~584 |
 | Enemy at the Gates | 14.00% | ~584 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 673)
 | Stroll in the Woods | 0.60% | ~25 |
 | Going Overboard | 0.60% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,169 (Ranked 208)  
+Progressed: 4,170 (Ranked 208)  
 Completed: 11 (0.26%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 11 (0.26%) (Ranked 261)
 | 2023-12-28 | 4,143 | 11 |
 | 2023-12-29 | 4,153 | 11 |
 | 2023-12-30 | 4,160 | 11 |
-| 2023-12-31 | 4,169 | 11 |
+| 2023-12-31 | 4,170 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 527)  
 Sum: 28 (Ranked 542)  

@@ -12,12 +12,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Petrified Necropolis | 7.00% | ~1,388 |
 | First Real Expedition | 6.00% | ~1,190 |
 | No Deaths | 6.00% | ~1,190 |
-| Overcoming Difficulty | 5.00% | ~991 |
-| Coral Forest | 5.00% | ~991 |
-| The Marshlands | 5.00% | ~991 |
-| The Scarlet Orchard | 5.00% | ~991 |
-| Ominous Presence | 5.00% | ~991 |
-| Gathering Storm | 5.00% | ~991 |
+| Overcoming Difficulty | 5.00% | ~992 |
+| Coral Forest | 5.00% | ~992 |
+| The Marshlands | 5.00% | ~992 |
+| The Scarlet Orchard | 5.00% | ~992 |
+| Ominous Presence | 5.00% | ~992 |
+| Gathering Storm | 5.00% | ~992 |
 | Frosts | 4.00% | ~793 |
 | Land of Greed | 4.00% | ~793 |
 | Homesick | 3.00% | ~595 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,829 (Ranked 152)  
+Progressed: 19,830 (Ranked 152)  
 Completed: 34 (0.17%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,15 +321,15 @@ Completed: 34 (0.17%) (Ranked 279)
 | 2023-12-28 | 19,536 | 36 |
 | 2023-12-29 | 19,630 | 36 |
 | 2023-12-30 | 19,741 | 35 |
-| 2023-12-31 | 19,829 | 34 |
+| 2023-12-31 | 19,830 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 447  (Ranked 229)  
-Sum: 3,310 (Ranked 178)  
+Sum: 3,311 (Ranked 178)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 447 |
-| This game is Relaxing | 442 |
+| This game is Relaxing | 443 |
 | This game is Great for Beginners | 435 |
 | This game is Extremely Fun | 416 |
 | This game is Highly Recommended | 398 |
@@ -611,4 +611,4 @@ Diff (max vs sum): 51
 | 2023-12-28 | 4.82 | - | 446 | 3,302 |
 | 2023-12-29 | 4.82 | - | 446 | 3,306 |
 | 2023-12-30 | 4.82 | - | 447 | 3,309 |
-| 2023-12-31 | 4.82 | - | 447 | 3,310 |
+| 2023-12-31 | 4.82 | - | 447 | 3,311 |

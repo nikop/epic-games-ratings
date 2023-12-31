@@ -1,20 +1,20 @@
 # Love Is All Around
 [Store](https://store.epicgames.com/en-US/p/love-is-all-around-3a8046)  
 [View Rawdata](../../db/b/b7cca975adbf41e4a41f3ece9e61e08a.json)  
-Rating: 4.77 (Ranked 118)  
+Rating: 4.77 (Ranked 117)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~14,948 |
+| Last Night...Did We... | 88.00% | ~14,949 |
 | I Challenge You To Save More Money! | 81.00% | ~13,759 |
-| I Love How Tough You Are | 65.00% | ~11,041 |
+| I Love How Tough You Are | 65.00% | ~11,042 |
 | Wanna Come To My Place For Dinner? | 58.00% | ~9,852 |
 | What I Want Is You | 53.00% | ~9,003 |
-| To Be Or Not To Be | 50.00% | ~8,493 |
-| Are You Alright? | 47.00% | ~7,983 |
-| Love Actually | 41.00% | ~6,964 |
+| To Be Or Not To Be | 50.00% | ~8,494 |
+| Are You Alright? | 47.00% | ~7,984 |
+| Love Actually | 41.00% | ~6,965 |
 | Drama King | 36.00% | ~6,115 |
-| Go Clean up In Your Own Way | 33.00% | ~5,605 |
+| Go Clean up In Your Own Way | 33.00% | ~5,606 |
 | You're Really Something Else | 32.00% | ~5,436 |
 | Drama CP: Reel to Real | 31.00% | ~5,266 |
 | Happy Family | 30.00% | ~5,096 |
@@ -23,9 +23,9 @@ Rating: 4.77 (Ranked 118)
 | Absolutely Elegant | 28.00% | ~4,756 |
 | ONE PUNCH | 28.00% | ~4,756 |
 | Still Single | 27.00% | ~4,586 |
-| Days Of Innocence | 26.00% | ~4,416 |
-| David | 26.00% | ~4,416 |
-| Go Get Some Fries On The Pier | 25.00% | ~4,246 |
+| Days Of Innocence | 26.00% | ~4,417 |
+| David | 26.00% | ~4,417 |
+| Go Get Some Fries On The Pier | 25.00% | ~4,247 |
 | All I Have Is Money | 21.00% | ~3,567 |
 | Lover In Dark Alley | 21.00% | ~3,567 |
 | A Slap In The Face! | 21.00% | ~3,567 |
@@ -48,7 +48,7 @@ Rating: 4.77 (Ranked 118)
 | Tall; Grande; Venti | 2.00% | ~340 |
 | Limerence | 2.00% | ~340 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,986 (Ranked 162)  
+Progressed: 16,987 (Ranked 162)  
 Completed: 281 (1.65%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 281 (1.65%) (Ranked 145)
 | 2023-12-28 | 16,416 | 271 |
 | 2023-12-29 | 16,590 | 274 |
 | 2023-12-30 | 16,779 | 279 |
-| 2023-12-31 | 16,986 | 281 |
+| 2023-12-31 | 16,987 | 281 |
 ## Awards
 Max (Impact the Story): 34  (Ranked 502)  
 Sum: 34 (Ranked 527)  
