@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24140,
+  "EOS_Progressed": 24142,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 560,
+  "EOS_NewPlayers": 556,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -21948,6 +21948,11 @@
       "Time": "2023-12-31T04:07:01.7372799+00:00",
       "NumProgressed": 24140,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-31T05:05:22.4829618+00:00",
+      "NumProgressed": 24142,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 14,
@@ -21959,7 +21964,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 18588
+      "UsersEstimate": 18589
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -21983,7 +21988,7 @@
       "Name": "Danger Ahead",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 6035
+      "UsersEstimate": 6036
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -21991,7 +21996,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 4345
+      "UsersEstimate": 4346
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -22015,7 +22020,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 12311
+      "UsersEstimate": 12312
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -22023,7 +22028,7 @@
       "Name": "In For The Kill",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -22039,7 +22044,7 @@
       "Name": "Look at Me Now",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 6276
+      "UsersEstimate": 6277
     },
     {
       "ID": "ACH_THE_FALL",
@@ -22047,7 +22052,7 @@
       "Name": "The Fall",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 3862
+      "UsersEstimate": 3863
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -22070,15 +22075,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 24140,
+      "Progressed": 24142,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2023-12-31T04:07:01.7372794+00:00",
+  "LastChanged_Achievements": "2023-12-31T05:05:22.4829606+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:21.7307915+00:00",
-  "LastUpdate_Ratings": "2023-12-31T04:03:16.380744+00:00",
-  "LastUpdate_Achievements": "2023-12-31T04:07:01.7373877+00:00"
+  "LastUpdate_Ratings": "2023-12-31T05:02:41.3510149+00:00",
+  "LastUpdate_Achievements": "2023-12-31T05:05:22.483067+00:00"
 }

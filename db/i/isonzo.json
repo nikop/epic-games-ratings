@@ -1045,9 +1045,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9691,
+  "EOS_Progressed": 9692,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10315,6 +10315,11 @@
       "Time": "2023-12-30T23:10:35.9059865+00:00",
       "NumProgressed": 9691,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-31T05:08:52.9546592+00:00",
+      "NumProgressed": 9692,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10326,7 +10331,7 @@
       "Name": "12th Bottle of the Isonzo",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "ISONZO_ACH_AURELIO_BARUZZI",
@@ -10534,7 +10539,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -10606,7 +10611,7 @@
       "Name": "The Enlightment",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "ISONZO_ACH_THE_ITALIAN_JOB",
@@ -10678,14 +10683,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4942
+      "UsersEstimate": 4943
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9691,
+      "Progressed": 9692,
       "Completed": 10
     }
   ],
@@ -10693,8 +10698,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-30T03:57:33.3665427+00:00",
-  "LastChanged_Achievements": "2023-12-31T04:09:49.3881886+00:00",
+  "LastChanged_Achievements": "2023-12-31T05:08:52.9546588+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:27.5115536+00:00",
-  "LastUpdate_Ratings": "2023-12-31T03:58:46.627482+00:00",
-  "LastUpdate_Achievements": "2023-12-31T04:09:49.3882672+00:00"
+  "LastUpdate_Ratings": "2023-12-31T04:58:15.2221483+00:00",
+  "LastUpdate_Achievements": "2023-12-31T05:08:52.9547202+00:00"
 }

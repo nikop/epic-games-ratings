@@ -6,20 +6,20 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,474 |
-| Life is your teacher | 4.00% | ~29,980 |
-| Lightning Hands | 4.00% | ~29,980 |
-| The Assault | 3.00% | ~22,485 |
-| The Hateful Pole Fighter | 2.00% | ~14,990 |
-| A Lady's Blood in the Snow | 2.00% | ~14,990 |
-| Stuntmaster | 2.00% | ~14,990 |
-| Street Fighting | 2.00% | ~14,990 |
-| State of constant learning | 2.00% | ~14,990 |
-| Qi Gong: Breath | 2.00% | ~14,990 |
-| Qi Gong: Essence | 2.00% | ~14,990 |
-| Old Child | 2.00% | ~14,990 |
-| Rumble in the Hangar | 2.00% | ~14,990 |
-| Diligence as a goal | 2.00% | ~1,176 |
+| The Old Grandmaster | 5.00% | ~37,477 |
+| Life is your teacher | 4.00% | ~29,981 |
+| Lightning Hands | 4.00% | ~29,981 |
+| The Assault | 3.00% | ~22,486 |
+| The Hateful Pole Fighter | 2.00% | ~14,991 |
+| A Lady's Blood in the Snow | 2.00% | ~14,991 |
+| Stuntmaster | 2.00% | ~14,991 |
+| Street Fighting | 2.00% | ~14,991 |
+| State of constant learning | 2.00% | ~14,991 |
+| Qi Gong: Breath | 2.00% | ~14,991 |
+| Qi Gong: Essence | 2.00% | ~14,991 |
+| Old Child | 2.00% | ~14,991 |
+| Rumble in the Hangar | 2.00% | ~14,991 |
+| Diligence as a goal | 2.00% | ~1,177 |
 | Lady Wing Chun | 1.00% | ~7,495 |
 | Furious Fists | 1.00% | ~7,495 |
 | Kill Nil | 1.00% | ~7,495 |
@@ -29,25 +29,25 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 1.00% | ~7,495 |
 | Take damage to save time | 1.00% | ~7,495 |
 | Project Arena | 1.00% | ~588 |
-| Scareless | 0.90% | ~6,745 |
-| Dance of the Praying Mantis | 0.90% | ~6,745 |
+| Scareless | 0.90% | ~6,746 |
+| Dance of the Praying Mantis | 0.90% | ~6,746 |
 | Fight the way you practice | 0.70% | ~412 |
 | Muk Yan Master | 0.60% | ~4,497 |
 | Martial Hub | 0.60% | ~353 |
-| Tiger on Fire | 0.50% | ~3,747 |
-| Source of Flying Daggers | 0.50% | ~3,747 |
-| Iron Money | 0.50% | ~3,747 |
-| Detective Story | 0.50% | ~3,747 |
-| Sword Stained With Blood | 0.50% | ~3,747 |
+| Tiger on Fire | 0.50% | ~3,748 |
+| Source of Flying Daggers | 0.50% | ~3,748 |
+| Iron Money | 0.50% | ~3,748 |
+| Detective Story | 0.50% | ~3,748 |
+| Sword Stained With Blood | 0.50% | ~3,748 |
 | Bloody Sport | 0.50% | ~294 |
 | Legendary Talismans of Wuxing | 0.40% | ~2,998 |
 | Prodigal Child | 0.40% | ~2,998 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~2,998 |
 | The best strikes are the ones we avoid | 0.40% | ~235 |
-| Knowledge Greed | 0.30% | ~2,248 |
-| The Pit Protector | 0.30% | ~2,248 |
-| Come Snap With Me | 0.30% | ~2,248 |
-| Deadly Venom | 0.30% | ~176 |
+| Knowledge Greed | 0.30% | ~2,249 |
+| The Pit Protector | 0.30% | ~2,249 |
+| Come Snap With Me | 0.30% | ~2,249 |
+| Deadly Venom | 0.30% | ~177 |
 | Drunken Fighter | 0.20% | ~1,499 |
 | Martial Artist | 0.20% | ~1,499 |
 | Healing Memory | 0.20% | ~1,499 |
@@ -59,7 +59,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Skill and an even stronger will | 0.20% | ~118 |
 | Master of the Flying Assassins | 0.20% | ~118 |
 | Beatmaker | 0.20% | ~118 |
-| Warriors from the Mountain | 0.10% | ~749 |
+| Warriors from the Mountain | 0.10% | ~750 |
 | Secure, Protect, Leave | 0.10% | ~59 |
 | Hidden Dragon | 0.10% | ~59 |
 | Here Cometh the Iceman | 0.10% | ~59 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~59 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 749,488 (Ranked 23)  
+Progressed: 749,534 (Ranked 23)  
 Completed: 12,970 (1.73%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,11 +322,11 @@ Completed: 12,970 (1.73%) (Ranked 142)
 | 2023-12-28 | 747,246 | 12,967 |
 | 2023-12-29 | 748,212 | 12,968 |
 | 2023-12-30 | 749,350 | 12,969 |
-| 2023-12-31 | 749,488 | 12,970 |
+| 2023-12-31 | 749,534 | 12,970 |
 ## Awards
 Max (Great Boss Battles): 7,061  (Ranked 55)  
-Sum: 12,502 (Ranked 84)  
-Diff (max vs sum): -29  
+Sum: 11,944 (Ranked 87)  
+Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,061 |

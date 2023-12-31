@@ -11,7 +11,7 @@ Number of Ratings: 32  (23.09.2022)
 | Our World Now | 81.00% | ~202 |
 | Never Saw It Coming | 66.00% | ~164 |
 | Coup de Grace | 57.00% | ~142 |
-| Go-Home Club Activities START! | 48.00% | ~120 |
+| Go-Home Club Activities START! | 49.00% | ~122 |
 | Philanthropist | 39.00% | ~97 |
 | Test Your Luck | 34.00% | ~85 |
 | Behind the Curtain | 33.00% | ~82 |

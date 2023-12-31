@@ -5,20 +5,20 @@ Rating: 4.52 (Ranked 570)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 74.00% | ~1,035 |
-| I Broke It | 73.00% | ~1,021 |
-| Better On Ice | 67.00% | ~937 |
-| Notai Notes | 66.00% | ~923 |
-| Blue Dreams | 65.00% | ~909 |
-| He's Famous! | 65.00% | ~909 |
-| Cutie Poro | 65.00% | ~909 |
-| Krugmazing | 64.00% | ~895 |
-| The Fire Below the Mountain | 61.00% | ~853 |
-| Moneyball | 60.00% | ~839 |
-| No Bites | 55.00% | ~769 |
-| Iceborn | 55.00% | ~769 |
-| Boom Things | 52.00% | ~727 |
-| Tear of Freedom | 51.00% | ~713 |
+| Feels Familiar | 74.00% | ~1,037 |
+| I Broke It | 73.00% | ~1,023 |
+| Better On Ice | 67.00% | ~939 |
+| Notai Notes | 66.00% | ~925 |
+| Blue Dreams | 65.00% | ~911 |
+| He's Famous! | 65.00% | ~911 |
+| Cutie Poro | 65.00% | ~911 |
+| Krugmazing | 64.00% | ~897 |
+| Moneyball | 60.00% | ~841 |
+| The Fire Below the Mountain | 60.00% | ~841 |
+| No Bites | 55.00% | ~771 |
+| Iceborn | 55.00% | ~771 |
+| Boom Things | 52.00% | ~729 |
+| Tear of Freedom | 51.00% | ~715 |
 | My Darkest Day | 48.00% | ~672 |
 | Rhythm Of Willump | 46.00% | ~644 |
 | The Relentless Storm | 46.00% | ~644 |
@@ -44,13 +44,13 @@ Rating: 4.52 (Ranked 570)
 | Snowball Fightn't | 9.00% | ~126 |
 | It Was Him | 7.00% | ~98 |
 | Handy Yeti | 6.00% | ~84 |
-| The Pied Piper Of Freljord | 5.00% | ~70 |
+| The Pied Piper Of Freljord | 4.00% | ~56 |
 | Braum's Poro Ranch | 3.00% | ~42 |
 | Rock Star | 2.00% | ~28 |
 | We Are Speed | 2.00% | ~28 |
 | Sneaky Notai | 1.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,399 (Ranked 265)  
+Progressed: 1,401 (Ranked 265)  
 Completed: 9 (0.64%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 9 (0.64%) (Ranked 201)
 | 2023-12-28 | 1,369 | 9 |
 | 2023-12-29 | 1,384 | 9 |
 | 2023-12-30 | 1,398 | 9 |
-| 2023-12-31 | 1,399 | 9 |
+| 2023-12-31 | 1,401 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

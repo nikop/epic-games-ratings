@@ -5,7 +5,7 @@
   "Ranking_Rating": 996,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 523,
-  "Ranking_EOS_Progress": 123,
+  "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 103,
@@ -553,9 +553,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 45815,
+  "EOS_Progressed": 45821,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 837,
+  "EOS_NewPlayers": 836,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17063,6 +17063,11 @@
       "Time": "2023-12-31T04:05:15.6559629+00:00",
       "NumProgressed": 45815,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-31T05:04:05.0380292+00:00",
+      "NumProgressed": 45821,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -17090,7 +17095,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -17122,7 +17127,7 @@
       "Name": "Attachments",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5498
+      "UsersEstimate": 5499
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -17226,7 +17231,7 @@
       "Name": "Tinkerer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3665
+      "UsersEstimate": 3666
     },
     {
       "ID": "CUFF_ATTACK",
@@ -17250,7 +17255,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "JUSTCOUNTER",
@@ -17378,7 +17383,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "PARKOUR_TIME",
@@ -17464,9 +17469,9 @@
       "ID": "SUBCON_TRADE",
       "SetID": "6d0g7k8",
       "Name": "A Roaring Trade",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 137
     },
     {
       "ID": "SUBQUEST_CINTA",
@@ -17497,22 +17502,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 45815,
+      "Progressed": 45821,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 10652,
-      "Completed": 10652
+      "Progressed": 10658,
+      "Completed": 10658
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-30T00:02:46.805004+00:00",
-  "LastChanged_Achievements": "2023-12-31T04:05:15.6559625+00:00",
+  "LastChanged_Achievements": "2023-12-31T05:04:05.0380287+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:48.1998363+00:00",
-  "LastUpdate_Ratings": "2023-12-31T04:03:09.4413597+00:00",
-  "LastUpdate_Achievements": "2023-12-31T04:05:15.6560494+00:00"
+  "LastUpdate_Ratings": "2023-12-31T05:02:36.9807521+00:00",
+  "LastUpdate_Achievements": "2023-12-31T05:04:05.0381327+00:00"
 }

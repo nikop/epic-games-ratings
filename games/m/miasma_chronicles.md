@@ -5,7 +5,7 @@ Rating: 4.37 (Ranked 796)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~1,518 |
+| First Blood | 92.00% | ~1,535 |
 | Ranidaphobia | 77.00% | ~1,284 |
 | Aspiring Editor | 74.00% | ~1,234 |
 | Gun for Hire | 69.00% | ~1,151 |

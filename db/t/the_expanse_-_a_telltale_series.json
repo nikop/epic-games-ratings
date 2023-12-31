@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17861,
+  "EOS_Progressed": 17862,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 614,
+  "EOS_NewPlayers": 609,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15754,6 +15754,11 @@
       "Time": "2023-12-31T04:07:47.1420733+00:00",
       "NumProgressed": 17861,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-31T05:05:55.4724078+00:00",
+      "NumProgressed": 17862,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15814,7 +15819,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1607
+      "UsersEstimate": 1608
     },
     {
       "ID": "16",
@@ -16045,13 +16050,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17861,
+      "Progressed": 17862,
       "Completed": 57
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3815,
+      "Progressed": 3816,
       "Completed": 1127
     }
   ],
@@ -16059,8 +16064,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T01:47:56.7328013+00:00",
-  "LastChanged_Achievements": "2023-12-31T04:07:47.142073+00:00",
+  "LastChanged_Achievements": "2023-12-31T05:05:55.4724075+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2023-12-31T03:58:20.9283629+00:00",
-  "LastUpdate_Achievements": "2023-12-31T04:07:47.1421535+00:00"
+  "LastUpdate_Ratings": "2023-12-31T04:57:58.3286444+00:00",
+  "LastUpdate_Achievements": "2023-12-31T05:05:55.4724981+00:00"
 }

@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1757,
+  "EOS_Progressed": 1759,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4342,6 +4342,11 @@
       "Time": "2023-12-31T01:54:38.0191931+00:00",
       "NumProgressed": 1757,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T05:04:32.0907369+00:00",
+      "NumProgressed": 1759,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4498,7 +4503,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -4672,9 +4677,9 @@
       "ID": "ML_ACHIEVEMENT_41",
       "SetID": "5k00jcd",
       "Name": "You\u0027re good at this!",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "ML_ACHIEVEMENT_42",
@@ -4690,7 +4695,7 @@
       "Name": "Mission complete",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ML_ACHIEVEMENT_44",
@@ -4714,27 +4719,27 @@
       "Name": "The Ultimate Race",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1757,
+      "Progressed": 1759,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1425,
+      "Progressed": 1427,
       "Completed": 1006
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-31T04:05:51.9403018+00:00",
+  "LastChanged_Achievements": "2023-12-31T05:04:32.0907366+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2023-12-31T03:58:56.4122438+00:00",
-  "LastUpdate_Achievements": "2023-12-31T04:05:51.9403505+00:00"
+  "LastUpdate_Ratings": "2023-12-31T04:58:21.6341794+00:00",
+  "LastUpdate_Achievements": "2023-12-31T05:04:32.0907987+00:00"
 }

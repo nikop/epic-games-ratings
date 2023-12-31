@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 93.00% | ~223 |
-| To Each Their Own | 41.00% | ~98 |
-| Like Phileas Fogg | 18.00% | ~43 |
-| You Get An Upgrade, You Get An Upgrade! | 18.00% | ~43 |
+| You're Going Down! | 93.00% | ~224 |
+| To Each Their Own | 41.00% | ~99 |
+| You Get An Upgrade, You Get An Upgrade! | 19.00% | ~46 |
+| Like Phileas Fogg | 17.00% | ~41 |
 | Onwards and Upwards | 13.00% | ~31 |
 | Serial Winner | 9.00% | ~22 |
 | Start Your Engines | 8.00% | ~19 |
@@ -20,20 +20,20 @@
 | First and Foremost | 4.00% | ~10 |
 | Upgradeaholic | 4.00% | ~10 |
 | Gotta Go Fast! | 3.00% | ~7 |
-| Say My Name | 3.00% | ~7 |
 | Made Mother Proud | 3.00% | ~7 |
 | Winner Winner Chicken Dinner | 3.00% | ~7 |
-| Tailor-Made for Two | 3.00% | ~7 |
 | Tempus Fugit | 3.00% | ~7 |
 | Déjà-Vu | 2.00% | ~5 |
 | POI Hunter | 2.00% | ~5 |
 | Seven-League Boots | 2.00% | ~5 |
+| Say My Name | 2.00% | ~5 |
 | Geek | 2.00% | ~5 |
 | Last One Standing | 2.00% | ~5 |
 | Time Lord | 2.00% | ~5 |
 | First Things First | 2.00% | ~5 |
 | Made Father Proud | 2.00% | ~5 |
 | Win-Win! | 2.00% | ~5 |
+| Tailor-Made for Two | 2.00% | ~5 |
 | The Joy of Discovery | 1.00% | ~2 |
 | The Immortal One | 1.00% | ~2 |
 | Shopping List | 1.00% | ~2 |
@@ -44,7 +44,7 @@
 | Superbike Superfan | 0.80% | ~2 |
 | Playing Favourites | 0.80% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240 (Ranked 408)  
+Progressed: 241 (Ranked 408)  
 Completed: 2 (0.83%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,4 +155,4 @@ Completed: 2 (0.83%) (Ranked 188)
 | 2023-12-28 | 230 | 2 |
 | 2023-12-29 | 233 | 2 |
 | 2023-12-30 | 239 | 2 |
-| 2023-12-31 | 240 | 2 |
+| 2023-12-31 | 241 | 2 |

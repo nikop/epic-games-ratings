@@ -8412,9 +8412,9 @@
       "ID": "C_STAMINA",
       "SetID": "80dcan0",
       "Name": "On that Grindset",
-      "Percentage": 102,
+      "Percentage": 103,
       "XP": 10,
-      "UsersEstimate": 754
+      "UsersEstimate": 761
     },
     {
       "ID": "C_STAYUP",
@@ -8548,9 +8548,9 @@
       "ID": "P_BRIDGE",
       "SetID": "80dcan0",
       "Name": "Bridging the Gap",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 451
     },
     {
       "ID": "P_CRANELIFT",
@@ -8564,9 +8564,9 @@
       "ID": "P_ENVIRONMENT",
       "SetID": "80dcan0",
       "Name": "Martle\u0027s Dream",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 436
+      "UsersEstimate": 443
     },
     {
       "ID": "P_FOREST",
@@ -8636,9 +8636,9 @@
       "ID": "P_SCHOOL",
       "SetID": "80dcan0",
       "Name": "Elementary, My Dear",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 495
+      "UsersEstimate": 503
     },
     {
       "ID": "P_THEMEPARK",
@@ -8684,17 +8684,17 @@
       "ID": "S_CARD",
       "SetID": "80dcan0",
       "Name": "Cardistry",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 200
     },
     {
       "ID": "S_CHAT",
       "SetID": "80dcan0",
       "Name": "Chatterbox",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 539
     },
     {
       "ID": "S_DANCE",
@@ -8852,9 +8852,9 @@
       "ID": "X_GET_FECE",
       "SetID": "80dcan0",
       "Name": "Waste Not Want Not",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 473
     },
     {
       "ID": "X_KICK",
@@ -8884,8 +8884,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-12-30T11:57:28.2581841+00:00",
-  "LastChanged_Achievements": "2023-12-31T04:08:59.7920556+00:00",
+  "LastChanged_Achievements": "2023-12-31T05:08:17.7547376+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:56.3187403+00:00",
-  "LastUpdate_Ratings": "2023-12-31T03:58:04.5647239+00:00",
-  "LastUpdate_Achievements": "2023-12-31T04:08:59.7921237+00:00"
+  "LastUpdate_Ratings": "2023-12-31T04:57:46.4461772+00:00",
+  "LastUpdate_Achievements": "2023-12-31T05:08:17.7548193+00:00"
 }

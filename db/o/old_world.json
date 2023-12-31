@@ -20429,9 +20429,9 @@
       "ID": "ACHIEVEMENT_PLAY_SINGLEPLAYER",
       "SetID": "9201eeb",
       "Name": "Play a Single Player Game",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 160
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -21555,8 +21555,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-29T16:02:55.9624641+00:00",
-  "LastChanged_Achievements": "2023-12-31T04:11:03.950048+00:00",
+  "LastChanged_Achievements": "2023-12-31T05:09:49.2839113+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2023-12-31T04:03:24.0134892+00:00",
-  "LastUpdate_Achievements": "2023-12-31T04:11:03.9510884+00:00"
+  "LastUpdate_Ratings": "2023-12-31T05:02:46.7294406+00:00",
+  "LastUpdate_Achievements": "2023-12-31T05:09:49.2849369+00:00"
 }

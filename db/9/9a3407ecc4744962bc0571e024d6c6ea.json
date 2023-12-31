@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 1191,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -3430,9 +3430,9 @@
       "ID": "DrinkingOnTheJob",
       "SetID": "3ai6ml8",
       "Name": "Drinking on the Job",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 536
+      "UsersEstimate": 548
     },
     {
       "ID": "DustDancing",
@@ -3541,8 +3541,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-12-31T04:10:37.9750149+00:00",
+  "LastChanged_Achievements": "2023-12-31T05:09:29.2057519+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:55.6682443+00:00",
-  "LastUpdate_Ratings": "2023-12-31T03:58:15.1889597+00:00",
-  "LastUpdate_Achievements": "2023-12-31T04:10:37.9750398+00:00"
+  "LastUpdate_Ratings": "2023-12-31T04:57:54.3521694+00:00",
+  "LastUpdate_Achievements": "2023-12-31T05:09:29.2057867+00:00"
 }

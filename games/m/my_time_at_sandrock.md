@@ -12,7 +12,7 @@ Number of Ratings: 892  (23.09.2022)
 | The Little Wood that Could | 119.00% | ~879 |
 | Greeno-B-Gone | 116.00% | ~857 |
 | Officially Official | 104.00% | ~769 |
-| On that Grindset | 102.00% | ~754 |
+| On that Grindset | 103.00% | ~761 |
 | Your Especially Earned Trajectory | 98.00% | ~724 |
 | Better Late than Never | 88.00% | ~650 |
 | One of the Cool Kids | 88.00% | ~650 |
@@ -28,17 +28,17 @@ Number of Ratings: 892  (23.09.2022)
 | Big Game Hunter | 76.00% | ~562 |
 | Unboxing | 75.00% | ~554 |
 | Can We Keep It? | 74.00% | ~547 |
-| Chatterbox | 72.00% | ~532 |
+| Chatterbox | 73.00% | ~539 |
 | Panda-kin | 71.00% | ~525 |
 | What Plants Crave | 71.00% | ~525 |
 | First Love | 71.00% | ~525 |
-| Elementary, My Dear | 67.00% | ~495 |
+| Elementary, My Dear | 68.00% | ~503 |
 | Builder of the Month | 66.00% | ~488 |
+| Waste Not Want Not | 64.00% | ~473 |
 | Lifeline Pipeline | 63.00% | ~466 |
-| Waste Not Want Not | 63.00% | ~466 |
+| Bridging the Gap | 61.00% | ~451 |
 | Commissions, commissions...! | 60.00% | ~443 |
-| Bridging the Gap | 60.00% | ~443 |
-| Martle's Dream | 59.00% | ~436 |
+| Martle's Dream | 60.00% | ~443 |
 | Happier-est Place on Earth | 58.00% | ~429 |
 | Anti-Santa | 58.00% | ~429 |
 | Got the Flow Back | 57.00% | ~421 |
@@ -59,7 +59,7 @@ Number of Ratings: 892  (23.09.2022)
 | Pro Gamer | 34.00% | ~251 |
 | Do Your Part | 33.00% | ~244 |
 | Newton | 32.00% | ~236 |
-| Cardistry | 26.00% | ~192 |
+| Cardistry | 27.00% | ~200 |
 | Winner and Still Champeen | 25.00% | ~185 |
 | Strong Arms | 18.00% | ~133 |
 | It's High Noon... | 17.00% | ~126 |

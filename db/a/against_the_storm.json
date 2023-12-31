@@ -3689,9 +3689,9 @@
       "Count": 337
     }
   ],
-  "EOS_Progressed": 19758,
+  "EOS_Progressed": 19759,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 696,
+  "EOS_NewPlayers": 690,
   "EOS_NewCompleters": -4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -17814,6 +17814,11 @@
       "Time": "2023-12-31T04:04:19.1560015+00:00",
       "NumProgressed": 19758,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-31T05:03:25.2106268+00:00",
+      "NumProgressed": 19759,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17914,7 +17919,7 @@
       "Name": "First Real Expedition",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "WinHard",
@@ -18112,9 +18117,9 @@
       "ID": "WinOnMoorlands",
       "SetID": "cfbk359",
       "Name": "The Scarlet Orchard",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 790
+      "UsersEstimate": 988
     },
     {
       "ID": "WinPrestige10",
@@ -18162,7 +18167,7 @@
       "Name": "Taking Action",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "WinWithResolve",
@@ -18202,7 +18207,7 @@
       "Name": "No Deaths",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "WinWithoutOrders",
@@ -18258,7 +18263,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "WinNearPresence",
@@ -18297,15 +18302,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19758,
+      "Progressed": 19759,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-30T22:02:49.2349557+00:00",
-  "LastChanged_Achievements": "2023-12-31T04:04:19.1560007+00:00",
+  "LastChanged_Achievements": "2023-12-31T05:03:25.2106265+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2023-12-31T03:56:58.8502279+00:00",
-  "LastUpdate_Achievements": "2023-12-31T04:04:19.1560887+00:00"
+  "LastUpdate_Ratings": "2023-12-31T04:57:03.1341814+00:00",
+  "LastUpdate_Achievements": "2023-12-31T05:03:25.2107446+00:00"
 }

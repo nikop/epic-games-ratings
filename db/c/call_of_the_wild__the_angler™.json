@@ -1015,7 +1015,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7781,
+  "EOS_Progressed": 7782,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 0,
@@ -12770,6 +12770,11 @@
       "Time": "2023-12-31T04:05:38.1779991+00:00",
       "NumProgressed": 7781,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T05:04:22.0984689+00:00",
+      "NumProgressed": 7782,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -12779,9 +12784,9 @@
       "ID": "ACHIEVEMENT_001",
       "SetID": "1a05lfd",
       "Name": "Fish Just Got Reel",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1245
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -12805,7 +12810,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -13100,13 +13105,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7781,
+      "Progressed": 7782,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7153,
+      "Progressed": 7154,
       "Completed": 113
     }
   ],
@@ -13114,8 +13119,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-26T19:00:49.2434236+00:00",
-  "LastChanged_Achievements": "2023-12-31T04:05:38.1779986+00:00",
+  "LastChanged_Achievements": "2023-12-31T05:04:22.0984684+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.4029638+00:00",
-  "LastUpdate_Ratings": "2023-12-31T03:58:47.1767675+00:00",
-  "LastUpdate_Achievements": "2023-12-31T04:05:38.1780718+00:00"
+  "LastUpdate_Ratings": "2023-12-31T04:58:15.5978317+00:00",
+  "LastUpdate_Achievements": "2023-12-31T05:04:22.0985601+00:00"
 }

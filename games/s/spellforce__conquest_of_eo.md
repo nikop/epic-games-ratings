@@ -6,15 +6,15 @@
 | ---- | ---------- | ----- |
 | Home Sweet Home | 89.00% | ~90 |
 | Enough rooms to swing a cat | 82.00% | ~83 |
-| First to the post | 80.00% | ~81 |
-| A kind of Magic | 74.00% | ~75 |
-| Connected | 67.00% | ~68 |
-| Expansion | 61.00% | ~62 |
+| First to the post | 81.00% | ~82 |
+| A kind of Magic | 75.00% | ~76 |
+| Connected | 68.00% | ~69 |
+| Expansion | 62.00% | ~63 |
 | Mine! | 58.00% | ~59 |
-| Harvest Time | 56.00% | ~57 |
+| Harvest Time | 57.00% | ~58 |
 | Artificer's Apprentice | 50.00% | ~50 |
 | Fly the friendly Sky | 47.00% | ~47 |
-| Get out of here! | 42.00% | ~42 |
+| Get out of here! | 43.00% | ~43 |
 | Alchemist's Apprentice | 40.00% | ~40 |
 | Necromancer's Apprentice | 38.00% | ~38 |
 | Friend of Lyraine | 38.00% | ~38 |
@@ -36,24 +36,24 @@
 | Friend of Orgash | 12.00% | ~12 |
 | Friend of Bastion | 12.00% | ~12 |
 | A Master of Magic | 11.00% | ~11 |
+| Friend of Windholme | 11.00% | ~11 |
 | Magic Academy | 11.00% | ~11 |
-| Friend of Windholme | 10.00% | ~10 |
 | A Joke | 10.00% | ~10 |
 | Defeat Gor | 9.00% | ~9 |
+| Yngrid's Tale | 9.00% | ~9 |
 | Mage Teacher | 9.00% | ~9 |
-| Yngrid's Tale | 8.00% | ~8 |
 | Defeat Hokan | 7.00% | ~7 |
 | Defeat Uram | 7.00% | ~7 |
 | Elynn's Tale | 7.00% | ~7 |
+| Lore's Tale | 7.00% | ~7 |
 | The Forge of Regan Gor | 7.00% | ~7 |
 | Master Artificer | 7.00% | ~7 |
 | A Monopoly of Might | 7.00% | ~7 |
+| Defeat Ianna | 6.00% | ~6 |
 | Defeat Undergast | 6.00% | ~6 |
-| Lore's Tale | 6.00% | ~6 |
 | Tuscari Sea Portal | 6.00% | ~6 |
 | Heroes | 6.00% | ~6 |
 | Balanced | 6.00% | ~6 |
-| Defeat Ianna | 5.00% | ~5 |
 | Defeat Isgrimm | 5.00% | ~5 |
 | Defeat Raith | 5.00% | ~5 |
 | Defeat Yria | 5.00% | ~5 |

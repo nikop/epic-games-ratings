@@ -6,41 +6,41 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~690 |
+| Malpractice Assurance | 12.00% | ~691 |
 | Lost and Found | 7.00% | ~403 |
 | Autodidact | 6.00% | ~7,853 |
-| This guy... again? | 6.00% | ~345 |
+| This guy... again? | 6.00% | ~346 |
 | This Belongs in a Museum | 5.00% | ~6,544 |
 | Creep and Sleep | 5.00% | ~6,544 |
 | Overdue Notice | 5.00% | ~6,544 |
 | Escape from the Black Hole | 5.00% | ~6,544 |
 | Ploughshares to Swords | 5.00% | ~288 |
 | Bloody Graduation | 5.00% | ~288 |
-| Don't Make Me Turn This Coach Around | 4.00% | ~5,235 |
-| Serenity Now! | 4.00% | ~5,235 |
-| It Rings a Bell | 4.00% | ~5,235 |
-| Not Today! | 4.00% | ~5,235 |
-| Meat and Greet | 4.00% | ~5,235 |
-| Catch and Decease | 4.00% | ~5,235 |
-| It Happens | 4.00% | ~5,235 |
-| Rush Hour | 4.00% | ~5,235 |
-| To Grandmother's House | 4.00% | ~5,235 |
-| A Place to Lay Your Head | 4.00% | ~5,235 |
-| FNG | 4.00% | ~5,235 |
+| Don't Make Me Turn This Coach Around | 4.00% | ~5,236 |
+| Serenity Now! | 4.00% | ~5,236 |
+| It Rings a Bell | 4.00% | ~5,236 |
+| Not Today! | 4.00% | ~5,236 |
+| Meat and Greet | 4.00% | ~5,236 |
+| Catch and Decease | 4.00% | ~5,236 |
+| It Happens | 4.00% | ~5,236 |
+| Rush Hour | 4.00% | ~5,236 |
+| To Grandmother's House | 4.00% | ~5,236 |
+| A Place to Lay Your Head | 4.00% | ~5,236 |
+| FNG | 4.00% | ~5,236 |
 | Friends 'Til the End | 4.00% | ~230 |
-| Unleash Hell | 3.00% | ~3,926 |
-| Long Live the King | 3.00% | ~3,926 |
-| Unfulfilled Desires | 3.00% | ~3,926 |
-| Dissector | 3.00% | ~3,926 |
-| Banishment | 3.00% | ~3,926 |
-| Now Stay Dead | 3.00% | ~3,926 |
-| Spelunker | 3.00% | ~3,926 |
-| Merry Time | 3.00% | ~3,926 |
-| Harvest Festival | 3.00% | ~3,926 |
-| Ramble On | 3.00% | ~3,926 |
-| Whale | 3.00% | ~3,926 |
-| Nope | 3.00% | ~3,926 |
-| Unshackled | 3.00% | ~3,926 |
+| Unleash Hell | 3.00% | ~3,927 |
+| Long Live the King | 3.00% | ~3,927 |
+| Unfulfilled Desires | 3.00% | ~3,927 |
+| Dissector | 3.00% | ~3,927 |
+| Banishment | 3.00% | ~3,927 |
+| Now Stay Dead | 3.00% | ~3,927 |
+| Spelunker | 3.00% | ~3,927 |
+| Merry Time | 3.00% | ~3,927 |
+| Harvest Festival | 3.00% | ~3,927 |
+| Ramble On | 3.00% | ~3,927 |
+| Whale | 3.00% | ~3,927 |
+| Nope | 3.00% | ~3,927 |
+| Unshackled | 3.00% | ~3,927 |
 | Resurrection | 2.00% | ~2,618 |
 | Funny Guy | 2.00% | ~2,618 |
 | Wyrdly Reconstructed | 2.00% | ~2,618 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,882 (Ranked 89)  
+Progressed: 130,890 (Ranked 89)  
 Completed: 3 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 3 (0.00%) (Ranked 391)
 | 2023-12-28 | 130,422 | 3 |
 | 2023-12-29 | 130,627 | 3 |
 | 2023-12-30 | 130,838 | 3 |
-| 2023-12-31 | 130,882 | 3 |
+| 2023-12-31 | 130,890 | 3 |
 ## Awards
 Max (Character Customization): 7,905  (Ranked 50)  
 Sum: 21,274 (Ranked 58)  

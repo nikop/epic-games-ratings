@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,7 +450,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 875,
+  "EOS_Progressed": 876,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
@@ -3175,6 +3175,11 @@
       "Time": "2023-12-31T04:09:31.4478465+00:00",
       "NumProgressed": 875,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T05:08:40.3600592+00:00",
+      "NumProgressed": 876,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3331,7 +3336,7 @@
       "Name": "Double Kill",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3427,7 +3432,7 @@
       "Name": "Whoops!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "RanaCampaign",
@@ -3491,7 +3496,7 @@
       "Name": "Landlord Extraordinaire",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "TrojanHorse",
@@ -3618,15 +3623,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 875,
+      "Progressed": 876,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2023-12-31T04:09:31.4478462+00:00",
+  "LastChanged_Achievements": "2023-12-31T05:08:40.360059+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2023-12-31T04:00:49.9431166+00:00",
-  "LastUpdate_Achievements": "2023-12-31T04:09:31.4478948+00:00"
+  "LastUpdate_Ratings": "2023-12-31T04:59:37.1793634+00:00",
+  "LastUpdate_Achievements": "2023-12-31T05:08:40.3601086+00:00"
 }

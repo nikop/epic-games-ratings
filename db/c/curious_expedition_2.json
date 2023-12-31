@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -739,9 +739,9 @@
       "ID": "ach-environmentKill",
       "SetID": "17ih7ma",
       "Name": "Fire and Flood",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 161
     },
     {
       "ID": "ach-find-treasure",
@@ -915,9 +915,9 @@
       "ID": "ach-portal-return",
       "SetID": "17ih7ma",
       "Name": "From Whence we Came",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 169
     },
     {
       "ID": "ach-promotion",
@@ -1028,8 +1028,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-31T04:11:00.0776365+00:00",
+  "LastChanged_Achievements": "2023-12-31T05:09:46.1571583+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:12.3485961+00:00",
-  "LastUpdate_Ratings": "2023-12-31T03:58:26.2838062+00:00",
-  "LastUpdate_Achievements": "2023-12-31T04:11:00.0776846+00:00"
+  "LastUpdate_Ratings": "2023-12-31T04:58:02.0837308+00:00",
+  "LastUpdate_Achievements": "2023-12-31T05:09:46.1572165+00:00"
 }

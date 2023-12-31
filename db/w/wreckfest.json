@@ -5,7 +5,7 @@
   "Ranking_Rating": 872,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
-  "Ranking_EOS_Progress": 333,
+  "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 155,
@@ -331,7 +331,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 586,
+  "EOS_Progressed": 587,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 283,
   "EOS_NewCompleters": 0,
@@ -1601,6 +1601,11 @@
       "Time": "2023-12-31T04:09:11.7870381+00:00",
       "NumProgressed": 586,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T05:08:26.3040522+00:00",
+      "NumProgressed": 587,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1629,7 +1634,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "CareerChamp2",
@@ -1637,7 +1642,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "CareerChamp3",
@@ -1677,7 +1682,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "CollectVehiclesB",
@@ -1725,7 +1730,7 @@
       "Name": "Dirty Roller",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "PlayerRankB",
@@ -1772,7 +1777,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 586,
+      "Progressed": 587,
       "Completed": 0
     }
   ],
@@ -1780,8 +1785,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-28T22:58:24.1175943+00:00",
-  "LastChanged_Achievements": "2023-12-31T04:09:11.7870378+00:00",
+  "LastChanged_Achievements": "2023-12-31T05:08:26.3040517+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.5719432+00:00",
-  "LastUpdate_Ratings": "2023-12-31T03:59:38.2648706+00:00",
-  "LastUpdate_Achievements": "2023-12-31T04:09:11.7870544+00:00"
+  "LastUpdate_Ratings": "2023-12-31T04:58:49.5484623+00:00",
+  "LastUpdate_Achievements": "2023-12-31T05:08:26.3040684+00:00"
 }

@@ -40,7 +40,7 @@
 | Quintessence of Form | 15.00% | ~154 |
 | Threaded Harmony | 15.00% | ~154 |
 | Karakuri Minato | 14.00% | ~144 |
-| Canyon of Karakuri | 12.00% | ~123 |
+| Canyon of Karakuri | 13.00% | ~133 |
 | Jack of All Trades | 12.00% | ~123 |
 | Karakuri Fortress | 11.00% | ~113 |
 | Haven Hunter | 10.00% | ~103 |

@@ -5,27 +5,27 @@ Rating: 4.73 (Ranked 176)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 91.00% | ~14,209 |
-| Newcomers | 77.00% | ~12,023 |
-| A Burden of Blood | 72.00% | ~11,242 |
-| Protector's Duty | 68.00% | ~10,618 |
-| In our Wake | 66.00% | ~10,305 |
-| Alchemist | 66.00% | ~10,305 |
-| Leaving all Behind | 63.00% | ~9,837 |
-| Felons | 60.00% | ~9,368 |
-| A Sea of Promises | 59.00% | ~9,212 |
-| Tales and Revelations | 55.00% | ~8,588 |
-| Bloodline | 51.00% | ~7,963 |
-| The Cradle of Centuries | 47.00% | ~7,339 |
-| The Life We Deserve | 44.00% | ~6,870 |
-| Night guard | 42.00% | ~6,558 |
-| Nothing Left | 38.00% | ~5,933 |
-| Healing our Wounds | 36.00% | ~5,621 |
-| Dying Sun | 32.00% | ~4,996 |
+| Under a New Sun | 91.00% | ~14,211 |
+| Newcomers | 77.00% | ~12,024 |
+| A Burden of Blood | 72.00% | ~11,244 |
+| Protector's Duty | 68.00% | ~10,619 |
+| In our Wake | 66.00% | ~10,307 |
+| Alchemist | 66.00% | ~10,307 |
+| Leaving all Behind | 63.00% | ~9,838 |
+| Felons | 60.00% | ~9,370 |
+| A Sea of Promises | 59.00% | ~9,213 |
+| Tales and Revelations | 55.00% | ~8,589 |
+| Bloodline | 51.00% | ~7,964 |
+| The Cradle of Centuries | 47.00% | ~7,340 |
+| The Life We Deserve | 44.00% | ~6,871 |
+| Night guard | 42.00% | ~6,559 |
+| Nothing Left | 38.00% | ~5,934 |
+| Healing our Wounds | 36.00% | ~5,622 |
+| Dying Sun | 32.00% | ~4,997 |
 | Improved crossbow | 26.00% | ~4,060 |
-| King Hugo | 24.00% | ~3,747 |
-| Perfect shot | 23.00% | ~3,591 |
-| Mercy | 23.00% | ~3,591 |
+| King Hugo | 24.00% | ~3,748 |
+| Perfect shot | 23.00% | ~3,592 |
+| Mercy | 23.00% | ~3,592 |
 | Effective instruments | 21.00% | ~3,279 |
 | Perfect throw | 21.00% | ~3,279 |
 | Knights! | 20.00% | ~3,123 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 176)
 | Explorer | 1.00% | ~156 |
 | Malignant | 1.00% | ~156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,614 (Ranked 166)  
+Progressed: 15,616 (Ranked 166)  
 Completed: 62 (0.40%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,11 +295,11 @@ Completed: 62 (0.40%) (Ranked 230)
 | 2023-12-28 | 15,401 | 61 |
 | 2023-12-29 | 15,489 | 61 |
 | 2023-12-30 | 15,595 | 62 |
-| 2023-12-31 | 15,614 | 62 |
+| 2023-12-31 | 15,616 | 62 |
 ## Awards
-Max (Great Boss Battles): 442  (Ranked 231)  
+Max (Great Boss Battles): 442  (Ranked 232)  
 Sum: 699 (Ranked 309)  
-Diff (max vs sum): -78  
+Diff (max vs sum): -77  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 442 |

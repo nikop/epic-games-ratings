@@ -5,9 +5,9 @@ Rating: 4.12 (Ranked 996)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 12.00% | ~5,498 |
+| Attachments | 12.00% | ~5,499 |
 | Unlocked Potential | 11.00% | ~5,040 |
-| Tinkerer | 8.00% | ~3,665 |
+| Tinkerer | 8.00% | ~3,666 |
 | Leapfrogger | 7.00% | ~3,207 |
 | Knock 'Em Dead | 7.00% | ~3,207 |
 | Pilgrimage: Initiate | 7.00% | ~3,207 |
@@ -19,9 +19,9 @@ Rating: 4.12 (Ranked 996)
 | Help Me Out Here | 5.00% | ~2,291 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,833 |
 | The Interloper | 4.00% | ~1,833 |
-| Outdoorsperson | 3.00% | ~1,374 |
-| Hop, Step, Jump | 3.00% | ~1,374 |
-| Endless Runner | 3.00% | ~1,374 |
+| Outdoorsperson | 3.00% | ~1,375 |
+| Hop, Step, Jump | 3.00% | ~1,375 |
+| Endless Runner | 3.00% | ~1,375 |
 | What Must Be Done | 2.00% | ~916 |
 | Might and Main | 2.00% | ~916 |
 | Damned If You Do... | 2.00% | ~916 |
@@ -42,12 +42,12 @@ Rating: 4.12 (Ranked 996)
 | Archivist | 0.30% | ~137 |
 | Craftsperson | 0.30% | ~137 |
 | Tit for Tat | 0.30% | ~137 |
+| A Roaring Trade | 0.30% | ~137 |
 | Promises | 0.30% | ~137 |
 | Paragon | 0.20% | ~92 |
 | Pilgrimage: Adept | 0.20% | ~92 |
 | Call of the Fount: Beatified | 0.20% | ~92 |
 | I Can Fly! | 0.20% | ~92 |
-| A Roaring Trade | 0.20% | ~92 |
 | Rebirth | 0.20% | ~92 |
 | Abominizer | 0.10% | ~46 |
 | Through the Eyes of Another: Visionary | 0.10% | ~46 |
@@ -59,7 +59,7 @@ Rating: 4.12 (Ranked 996)
 | Remembrance | 0.10% | ~46 |
 | Cat Person | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,815 (Ranked 123)  
+Progressed: 45,821 (Ranked 122)  
 Completed: 4 (0.01%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 4 (0.01%) (Ranked 369)
 | 2023-12-28 | 45,528 | 3 |
 | 2023-12-29 | 45,657 | 3 |
 | 2023-12-30 | 45,788 | 3 |
-| 2023-12-31 | 45,815 | 4 |
+| 2023-12-31 | 45,821 | 4 |
 ## Awards
 Max (Character Customization): 35  (Ranked 495)  
 Sum: 35 (Ranked 523)  
