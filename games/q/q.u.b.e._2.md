@@ -6,22 +6,22 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~34,407 |
-| Quick Understanding of Block Extrusion | 68.00% | ~31,196 |
-| Nature or Nurture | 52.00% | ~23,856 |
-| Power Glove | 50.00% | ~22,938 |
-| Forgotten Memories | 43.00% | ~19,727 |
-| Cogs in the Machine | 36.00% | ~16,515 |
-| Mission Success | 23.00% | ~10,551 |
-| There's No Place Like Home | 23.00% | ~10,551 |
-| Green Cube Killer | 20.00% | ~9,175 |
-| Infinity Loop | 17.00% | ~7,799 |
-| Path to Salvation | 17.00% | ~7,799 |
-| Descendants | 15.00% | ~6,881 |
-| The Flawed Teacher | 12.00% | ~5,505 |
+| Lost in Space | 75.00% | ~34,413 |
+| Quick Understanding of Block Extrusion | 68.00% | ~31,201 |
+| Nature or Nurture | 52.00% | ~23,860 |
+| Power Glove | 50.00% | ~22,942 |
+| Forgotten Memories | 43.00% | ~19,730 |
+| Cogs in the Machine | 36.00% | ~16,518 |
+| Mission Success | 23.00% | ~10,553 |
+| There's No Place Like Home | 23.00% | ~10,553 |
+| Green Cube Killer | 20.00% | ~9,177 |
+| Infinity Loop | 17.00% | ~7,800 |
+| Path to Salvation | 17.00% | ~7,800 |
+| Descendants | 15.00% | ~6,883 |
+| The Flawed Teacher | 12.00% | ~5,506 |
 | To Infinity and Beyond | 6.00% | ~2,753 |
 | The Truthful Enemy | 5.00% | ~2,294 |
-| Laser Sharp | 3.00% | ~1,376 |
+| Laser Sharp | 3.00% | ~1,377 |
 | Bronze collector | 2.00% | ~918 |
 | Home Stretch | 2.00% | ~918 |
 | Gold collector | 2.00% | ~918 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 1.00% | ~459 |
 | Expert Collector | 1.00% | ~459 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,876 (Ranked 122)  
+Progressed: 45,884 (Ranked 122)  
 Completed: 230 (0.50%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 230 (0.50%) (Ranked 218)
 | 2023-12-28 | 45,496 | 227 |
 | 2023-12-29 | 45,639 | 230 |
 | 2023-12-30 | 45,789 | 230 |
-| 2023-12-31 | 45,876 | 230 |
+| 2023-12-31 | 45,884 | 230 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

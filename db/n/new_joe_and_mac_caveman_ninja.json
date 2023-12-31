@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 125,
   "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 275,
+  "EOS_Progressed": 276,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.55,
+  "EOS_Completed_Percentage": 2.54,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -646,6 +646,11 @@
       "Time": "2023-12-31T06:08:33.0570891+00:00",
       "NumProgressed": 275,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-31T14:03:11.0847876+00:00",
+      "NumProgressed": 276,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 15,
@@ -687,17 +692,17 @@
       "ID": "05",
       "SetID": "6glb5g1",
       "Name": "A turbulent river.",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 52
+      "UsersEstimate": 50
     },
     {
       "ID": "06",
       "SetID": "6glb5g1",
       "Name": "Dino Ride.",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "07",
@@ -761,7 +766,7 @@
       "Name": "Lightning swamp.",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "15",
@@ -776,7 +781,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 275,
+      "Progressed": 276,
       "Completed": 7
     }
   ],
@@ -784,8 +789,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-12-31T13:05:32.7485858+00:00",
+  "LastChanged_Achievements": "2023-12-31T14:03:11.0847874+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:56:57.5978328+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:01:52.0895508+00:00",
-  "LastUpdate_Achievements": "2023-12-31T13:05:32.7486134+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:59:43.1664722+00:00",
+  "LastUpdate_Achievements": "2023-12-31T14:03:11.0848093+00:00"
 }

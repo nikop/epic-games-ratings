@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -299,11 +299,11 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 255,
+  "EOS_Progressed": 256,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 1.57,
+  "EOS_Completed_Percentage": 1.56,
   "EosHistory": [
     {
       "Time": "2023-12-18T10:04:38.3586261+00:00",
@@ -1139,6 +1139,11 @@
       "Time": "2023-12-31T13:08:32.9176146+00:00",
       "NumProgressed": 255,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-31T14:06:11.0198458+00:00",
+      "NumProgressed": 256,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -1149,9 +1154,9 @@
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOLLISION",
       "SetID": "cefn62b",
       "Name": "Fly Me to the Moon Base",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOW",
@@ -1215,7 +1220,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -1239,7 +1244,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_CHALLENGE_ABDUCTIONTHREESTAR",
@@ -1279,7 +1284,7 @@
       "Name": "If You Know What I Mean",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_CHALLENGE_THREESTARSEVERYWHERE",
@@ -1303,7 +1308,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
@@ -1311,7 +1316,7 @@
       "Name": "Kaijuiced",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -1319,7 +1324,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -1349,9 +1354,9 @@
       "ID": "ACH_ENEMY_KILLSWITHEXPLOSIVE",
       "SetID": "cefn62b",
       "Name": "Lobster Blisque",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_ENEMY_SILHOUETTE",
@@ -1367,7 +1372,7 @@
       "Name": "Re-Return of the Clone of the Invasion II-2",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_INVADE_CAPITOL",
@@ -1399,7 +1404,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -1470,15 +1475,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 255,
+      "Progressed": 256,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2023-12-31T13:08:32.9176144+00:00",
+  "LastChanged_Achievements": "2023-12-31T14:06:11.0198455+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.6677344+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:02:16.3545522+00:00",
-  "LastUpdate_Achievements": "2023-12-31T13:08:32.9176353+00:00"
+  "LastUpdate_Ratings": "2023-12-31T14:00:05.4043012+00:00",
+  "LastUpdate_Achievements": "2023-12-31T14:06:11.0198785+00:00"
 }

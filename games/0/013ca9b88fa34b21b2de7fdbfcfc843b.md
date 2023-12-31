@@ -23,9 +23,9 @@ Rating: 4.63 (Ranked 357)
 | Higher Tax Bracket | 0.90% | ~79 |
 | Botanical Breakthrough | 0.90% | ~79 |
 | Beach Comber | 0.80% | ~70 |
-| Flaming Hot Completos | 0.70% | ~61 |
-| Azorian Anniversary | 0.70% | ~61 |
-| Skilled | 0.70% | ~61 |
+| Flaming Hot Completos | 0.70% | ~62 |
+| Azorian Anniversary | 0.70% | ~62 |
+| Skilled | 0.70% | ~62 |
 | Fae Farmer | 0.60% | ~53 |
 | Rumble in the Jumble | 0.50% | ~44 |
 | Fanatical Farmer | 0.50% | ~44 |
@@ -49,8 +49,8 @@ Rating: 4.63 (Ranked 357)
 | Splish-Splash | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,785 (Ranked 184)  
-Completed: 1 (0.01%) (Ranked 369)  
+Progressed: 8,786 (Ranked 184)  
+Completed: 1 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -177,7 +177,7 @@ Completed: 1 (0.01%) (Ranked 369)
 | 2023-12-28 | 8,728 | 1 |
 | 2023-12-29 | 8,759 | 1 |
 | 2023-12-30 | 8,778 | 1 |
-| 2023-12-31 | 8,785 | 1 |
+| 2023-12-31 | 8,786 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

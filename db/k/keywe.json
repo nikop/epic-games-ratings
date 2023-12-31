@@ -4,7 +4,7 @@
   "ProductSlug": "keywe-c3a70e",
   "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-28T09:00:00+00:00",
@@ -607,9 +607,9 @@
       "ID": "completeOnboarding",
       "SetID": "cfe0fhi",
       "Name": "You\u0027re Hired",
-      "Percentage": 97,
+      "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 116
     },
     {
       "ID": "completeSummer",
@@ -710,8 +710,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2023-12-31T13:08:00.962599+00:00",
+  "LastChanged_Achievements": "2023-12-31T14:05:39.6879675+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:20.8360507+00:00",
-  "LastUpdate_Ratings": "2023-12-31T12:59:53.439854+00:00",
-  "LastUpdate_Achievements": "2023-12-31T13:08:00.962613+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:57:41.6896705+00:00",
+  "LastUpdate_Achievements": "2023-12-31T14:05:39.6879862+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 3461,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 543,
+  "EOS_NewPlayers": 535,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -7107,9 +7107,9 @@
       "ID": "achievement_28",
       "SetID": "b9pe172",
       "Name": "Quarian Ally",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1730
     },
     {
       "ID": "achievement_29",
@@ -7751,8 +7751,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-31T13:12:08.9548943+00:00",
+  "LastChanged_Achievements": "2023-12-31T14:09:33.8708743+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:34.6542278+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:05:25.868067+00:00",
-  "LastUpdate_Achievements": "2023-12-31T13:12:08.955214+00:00"
+  "LastUpdate_Ratings": "2023-12-31T14:03:03.0183838+00:00",
+  "LastUpdate_Achievements": "2023-12-31T14:09:33.8710674+00:00"
 }

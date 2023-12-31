@@ -1,7 +1,7 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.65 (Ranked 326)  
+Rating: 4.65 (Ranked 325)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -17,9 +17,9 @@ Rating: 4.65 (Ranked 326)
 | No, Thanks! | 24.00% | ~281 |
 | Honest Mistake | 24.00% | ~281 |
 | Immaculate Aim | 24.00% | ~281 |
+| The Steel Shadow | 23.00% | ~269 |
 | Breaking Down Barriers | 23.00% | ~269 |
 | Fast Learner | 23.00% | ~269 |
-| The Steel Shadow | 22.00% | ~258 |
 | The Wicked Twins | 22.00% | ~258 |
 | Right On Time | 21.00% | ~246 |
 | Like Clockwork | 21.00% | ~246 |
@@ -27,10 +27,10 @@ Rating: 4.65 (Ranked 326)
 | The Betrayer | 20.00% | ~234 |
 | The Loose Cannon | 19.00% | ~222 |
 | Check Your Pulse | 19.00% | ~222 |
+| Street Style | 18.00% | ~211 |
 | The Man Who Shattered Time | 18.00% | ~211 |
 | The Family Fortune | 18.00% | ~211 |
-| Street Style | 17.00% | ~199 |
-| Whiz Kid | 14.00% | ~164 |
+| Whiz Kid | 15.00% | ~176 |
 | Good Neighbor | 14.00% | ~164 |
 | Family Memories | 13.00% | ~152 |
 | Cartographer | 13.00% | ~152 |

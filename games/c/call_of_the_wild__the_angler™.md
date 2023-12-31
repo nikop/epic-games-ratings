@@ -15,7 +15,7 @@ Number of Ratings: 281  (23.09.2022)
 | Ready to Rod and Roll | 9.00% | ~701 |
 | Fish Out of Water | 6.00% | ~468 |
 | Things that go Splash in the Night | 6.00% | ~468 |
-| Goldfish? | 4.00% | ~312 |
+| Goldfish? | 5.00% | ~390 |
 | Going for Gold | 4.00% | ~312 |
 | License to Gill | 3.00% | ~234 |
 | School's Out for Summer | 3.00% | ~234 |
@@ -29,9 +29,9 @@ Number of Ratings: 281  (23.09.2022)
 | Gonna Need a Bigger Boat | 0.50% | ~39 |
 | Live by the Rod, Diez by the Rod! | 0.40% | ~29 |
 | Aguas Claras Conquistador | 0.40% | ~29 |
+| The Beetles | 0.30% | ~23 |
 | All Good Kings Must Come to an End | 0.30% | ~21 |
 | Three Square Meals | 0.30% | ~21 |
-| The Beetles | 0.20% | ~16 |
 | Lake Me up Before You Go Go | 0.20% | ~16 |
 | Taylor Made | 0.20% | ~16 |
 | Big Fish Small Pond | 0.20% | ~16 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,792 (Ranked 188)  
+Progressed: 7,794 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 7,687 | 0 |
 | 2023-12-29 | 7,723 | 0 |
 | 2023-12-30 | 7,770 | 0 |
-| 2023-12-31 | 7,792 | 0 |
+| 2023-12-31 | 7,794 | 0 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 473)  
 Sum: 212 (Ranked 408)  

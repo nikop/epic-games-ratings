@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,450 |
-| The Cursed Farmer | 1.00% | ~2,483 |
+| A Brief Tour of the Realms | 3.00% | ~7,451 |
+| The Cursed Farmer | 1.00% | ~2,484 |
 | Beast Intentions | 0.80% | ~1,987 |
 | The Mad Wizard | 0.80% | ~1,987 |
 | Welcome to Sigil | 0.70% | ~1,502 |
@@ -16,10 +16,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Overgrown Grove | 0.50% | ~1,073 |
 | Were-verpowered | 0.40% | ~993 |
 | Are Ya Chicken? | 0.40% | ~993 |
-| When Tentacles Attack | 0.40% | ~858 |
-| Flames of Avernus | 0.40% | ~858 |
-| Mental Gymnastics | 0.40% | ~858 |
-| Don't Lose Your Head | 0.40% | ~858 |
+| When Tentacles Attack | 0.40% | ~859 |
+| Flames of Avernus | 0.40% | ~859 |
+| Mental Gymnastics | 0.40% | ~859 |
+| Don't Lose Your Head | 0.40% | ~859 |
 | A Persistent Buzzing | 0.30% | ~745 |
 | Seeking Allies | 0.30% | ~745 |
 | Mad Cow Disease | 0.30% | ~745 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~215 |
 | The Brains of an Illithid's Desire | 0.10% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,330 (Ranked 69)  
+Progressed: 248,365 (Ranked 69)  
 Completed: 2,580 (1.04%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -808,16 +808,16 @@ Completed: 2,580 (1.04%) (Ranked 170)
 | 2023-12-28 | 246,305 | 2,573 |
 | 2023-12-29 | 247,120 | 2,575 |
 | 2023-12-30 | 247,917 | 2,578 |
-| 2023-12-31 | 248,330 | 2,580 |
+| 2023-12-31 | 248,365 | 2,580 |
 ## Awards
 Max (Great for Beginners): 5,720  (Ranked 71)  
-Sum: 33,206 (Ranked 41)  
+Sum: 33,211 (Ranked 41)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,720 |
 | This game has Diverse Characters | 5,665 |
-| This game has Quickly Understood Controls | 4,872 |
+| This game has Quickly Understood Controls | 4,877 |
 | This game is Relaxing | 4,751 |
 | This game has Amazing Characters | 4,298 |
 | This game is Highly Recommended | 4,286 |
@@ -1164,4 +1164,4 @@ Diff (max vs sum): 30
 | 2023-12-28 | 4.06 | - | 5,708 | 33,156 |
 | 2023-12-29 | 4.06 | - | 5,715 | 33,183 |
 | 2023-12-30 | 4.06 | - | 5,720 | 33,198 |
-| 2023-12-31 | 4.06 | - | 5,720 | 33,206 |
+| 2023-12-31 | 4.06 | - | 5,720 | 33,211 |

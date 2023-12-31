@@ -5,22 +5,22 @@ Rating: 4.51 (Ranked 590)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~177,692 |
-| FIRST BLOOD | 40.00% | ~157,948 |
-| KEVIN! | 30.00% | ~118,461 |
-| JACK OF ALL TRADES | 23.00% | ~90,820 |
-| CRIMINAL | 20.00% | ~78,974 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~43,436 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~35,538 |
-| HONORS STUDENT | 8.00% | ~31,590 |
-| BUTCHER | 6.00% | ~23,692 |
-| INDIVIDUAL APPROACH | 5.00% | ~19,744 |
-| RAMBO | 5.00% | ~19,744 |
-| HELL'S KITCHEN | 4.00% | ~15,795 |
-| CELEBRITY | 3.00% | ~11,846 |
-| MARTYR | 3.00% | ~11,846 |
-| GRATITUDE | 2.00% | ~7,897 |
-| PATTY-KILLER | 2.00% | ~7,897 |
+| MASTER CHEF | 45.00% | ~177,706 |
+| FIRST BLOOD | 40.00% | ~157,961 |
+| KEVIN! | 30.00% | ~118,471 |
+| JACK OF ALL TRADES | 23.00% | ~90,828 |
+| CRIMINAL | 20.00% | ~78,981 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~43,439 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~35,541 |
+| HONORS STUDENT | 8.00% | ~31,592 |
+| BUTCHER | 6.00% | ~23,694 |
+| INDIVIDUAL APPROACH | 5.00% | ~19,745 |
+| RAMBO | 5.00% | ~19,745 |
+| HELL'S KITCHEN | 4.00% | ~15,796 |
+| CELEBRITY | 3.00% | ~11,847 |
+| MARTYR | 3.00% | ~11,847 |
+| GRATITUDE | 2.00% | ~7,898 |
+| PATTY-KILLER | 2.00% | ~7,898 |
 | EXPERIMENTALIST | 1.00% | ~3,949 |
 | GOURMET | 1.00% | ~3,949 |
 | LAW-ABIDING CITIZEN | 1.00% | ~3,949 |
@@ -34,8 +34,8 @@ Rating: 4.51 (Ranked 590)
 | MISTER ALL THUMBS | 0.10% | ~395 |
 | TRAVELER | 0.10% | ~395 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 394,870 (Ranked 47)  
-Completed: 56 (0.01%) (Ranked 369)  
+Progressed: 394,903 (Ranked 47)  
+Completed: 56 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -216,7 +216,7 @@ Completed: 56 (0.01%) (Ranked 369)
 | 2023-12-28 | 393,174 | 55 |
 | 2023-12-29 | 393,815 | 56 |
 | 2023-12-30 | 394,520 | 56 |
-| 2023-12-31 | 394,870 | 56 |
+| 2023-12-31 | 394,903 | 56 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

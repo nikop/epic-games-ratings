@@ -14,8 +14,8 @@
 | Dispel Rumors | 37.00% | ~22 |
 | Final Showdown | 35.00% | ~21 |
 | The End of an Outlaw | 35.00% | ~21 |
+| Demon Slayer | 32.00% | ~19 |
 | Steal Her Away | 32.00% | ~19 |
-| Demon Slayer | 30.00% | ~18 |
 | Sewer Rat | 30.00% | ~18 |
 | Fight Fire With Fire | 30.00% | ~18 |
 | Urban Explorer | 27.00% | ~16 |

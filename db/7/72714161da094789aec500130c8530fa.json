@@ -608,9 +608,9 @@
       "ID": "_cannon_sentinel",
       "SetID": "2d5739o",
       "Name": "Cannon sentinel",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "_destroyer",
@@ -632,9 +632,9 @@
       "ID": "_elite_battlecruiser",
       "SetID": "2d5739o",
       "Name": "Elite battlecruiser",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "_elite_destroyer",
@@ -648,9 +648,9 @@
       "ID": "_forcefield",
       "SetID": "2d5739o",
       "Name": "Forcefield",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "_grenade",
@@ -664,9 +664,9 @@
       "ID": "_heavy_laser",
       "SetID": "2d5739o",
       "Name": "Heavy laser",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "_heavy_shotgun",
@@ -704,9 +704,9 @@
       "ID": "_laser_mine",
       "SetID": "2d5739o",
       "Name": "Laser mine",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "_lightsaber_mine",
@@ -895,8 +895,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-12-31T13:10:51.8911179+00:00",
+  "LastChanged_Achievements": "2023-12-31T14:08:18.4527685+00:00",
   "LastUpdate_AppInfo": "2023-12-28T02:56:54.2498472+00:00",
-  "LastUpdate_Ratings": "2023-12-31T12:59:27.7110505+00:00",
-  "LastUpdate_Achievements": "2023-12-31T13:10:51.8911759+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:57:15.4761526+00:00",
+  "LastUpdate_Achievements": "2023-12-31T14:08:18.4527954+00:00"
 }

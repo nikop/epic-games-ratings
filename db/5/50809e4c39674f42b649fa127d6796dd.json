@@ -4,8 +4,8 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 371,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 372,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -1749,8 +1749,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-31T13:06:04.6497207+00:00",
+  "LastChanged_Achievements": "2023-12-31T14:03:42.6539706+00:00",
   "LastUpdate_AppInfo": "2023-12-26T20:57:07.4525805+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:05:17.7483029+00:00",
-  "LastUpdate_Achievements": "2023-12-31T13:06:04.6497536+00:00"
+  "LastUpdate_Ratings": "2023-12-31T14:02:54.8621685+00:00",
+  "LastUpdate_Achievements": "2023-12-31T14:03:42.6539948+00:00"
 }

@@ -233,9 +233,9 @@
       "Count": 73
     }
   ],
-  "EOS_Progressed": 9093,
+  "EOS_Progressed": 9106,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2023,
+  "EOS_NewPlayers": 2015,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3108,6 +3108,11 @@
       "Time": "2023-12-31T13:11:49.6704357+00:00",
       "NumProgressed": 9093,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T14:09:16.096559+00:00",
+      "NumProgressed": 9106,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3264,7 +3269,7 @@
       "Name": "Purge the Unclean",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "21_PreciseDefense",
@@ -3366,9 +3371,9 @@
       "ID": "33_TzeentchCleaning",
       "SetID": "37a94m8",
       "Name": "Cleening Out the Tzeentch",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 273
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -3536,7 +3541,7 @@
       "Name": "This Is a Job for the Lord Captain!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "55_ReturningTheBoots",
@@ -3639,7 +3644,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9093,
+      "Progressed": 9106,
       "Completed": 0
     }
   ],
@@ -3647,8 +3652,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-31T10:59:48.6402882+00:00",
-  "LastChanged_Achievements": "2023-12-31T13:11:49.6704355+00:00",
+  "LastChanged_Achievements": "2023-12-31T14:09:16.0965587+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:01:06.1376954+00:00",
-  "LastUpdate_Achievements": "2023-12-31T13:11:49.670508+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:58:55.609672+00:00",
+  "LastUpdate_Achievements": "2023-12-31T14:09:16.0966352+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1399,9 +1399,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 260023,
+  "EOS_Progressed": 260029,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25809,6 +25809,11 @@
       "Time": "2023-12-31T13:06:49.8640682+00:00",
       "NumProgressed": 260023,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-31T14:04:28.7009209+00:00",
+      "NumProgressed": 260029,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -25860,7 +25865,7 @@
       "Name": "By a hair",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5200
+      "UsersEstimate": 5201
     },
     {
       "ID": "BackHomeFirstTime",
@@ -25868,7 +25873,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80607
+      "UsersEstimate": 80609
     },
     {
       "ID": "BackHomeNTimes",
@@ -25924,7 +25929,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26002
+      "UsersEstimate": 26003
     },
     {
       "ID": "CreditLevel2",
@@ -26020,7 +26025,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15601
+      "UsersEstimate": 15602
     },
     {
       "ID": "GrowPlants2",
@@ -26076,7 +26081,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15601
+      "UsersEstimate": 15602
     },
     {
       "ID": "KillOtherWithKatana",
@@ -26084,7 +26089,7 @@
       "Name": "Samurai",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5200
+      "UsersEstimate": 5201
     },
     {
       "ID": "KillOtherWithLowHealth",
@@ -26100,7 +26105,7 @@
       "Name": "I Left You a Present",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5200
+      "UsersEstimate": 5201
     },
     {
       "ID": "KillOthers1",
@@ -26108,7 +26113,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59805
+      "UsersEstimate": 59807
     },
     {
       "ID": "KillOthers2",
@@ -26132,7 +26137,7 @@
       "Name": "Truffle Dog",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5200
+      "UsersEstimate": 5201
     },
     {
       "ID": "KillVengefulThingWithMeleeAndSurvive",
@@ -26140,7 +26145,7 @@
       "Name": "Don\u0027t try this at home",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5200
+      "UsersEstimate": 5201
     },
     {
       "ID": "MaxImagoLevel",
@@ -26212,7 +26217,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26002
+      "UsersEstimate": 26003
     },
     {
       "ID": "ReachNDays2",
@@ -26220,7 +26225,7 @@
       "Name": "A month in Century City",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5200
+      "UsersEstimate": 5201
     },
     {
       "ID": "ReachNDays3",
@@ -26267,7 +26272,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260023,
+      "Progressed": 260029,
       "Completed": 3
     }
   ],
@@ -26275,8 +26280,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-31T03:57:13.7520833+00:00",
-  "LastChanged_Achievements": "2023-12-31T13:06:49.864068+00:00",
+  "LastChanged_Achievements": "2023-12-31T14:04:28.7009206+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.7689812+00:00",
-  "LastUpdate_Ratings": "2023-12-31T12:59:31.4603929+00:00",
-  "LastUpdate_Achievements": "2023-12-31T13:06:49.8642454+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:57:19.1197959+00:00",
+  "LastUpdate_Achievements": "2023-12-31T14:04:28.7010582+00:00"
 }

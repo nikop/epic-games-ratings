@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 433,
+  "EOS_Progressed": 435,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.15,
   "EosHistory": [
@@ -1171,6 +1171,11 @@
       "Time": "2023-12-31T11:10:24.4143712+00:00",
       "NumProgressed": 433,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-31T14:09:02.2518959+00:00",
+      "NumProgressed": 435,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 19,
@@ -1190,7 +1195,7 @@
       "Name": "Picky, Picky!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "misha_date2_all",
@@ -1212,9 +1217,9 @@
       "ID": "profile_misha",
       "SetID": "6h5h9ho",
       "Name": "Let it begin",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 200
     },
     {
       "ID": "profile_ryan",
@@ -1222,7 +1227,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 387
     },
     {
       "ID": "ryan_date2_all",
@@ -1244,9 +1249,9 @@
       "ID": "success_azalea",
       "SetID": "6h5h9ho",
       "Name": "The activist",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 91
+      "UsersEstimate": 87
     },
     {
       "ID": "success_bash",
@@ -1262,7 +1267,7 @@
       "Name": "The boss",
       "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "success_derek",
@@ -1294,7 +1299,7 @@
       "Name": "The intellectual",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "success_lucas",
@@ -1333,7 +1338,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 433,
+      "Progressed": 435,
       "Completed": 5
     }
   ],
@@ -1341,8 +1346,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-12-31T13:11:35.6308546+00:00",
+  "LastChanged_Achievements": "2023-12-31T14:09:02.2518957+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:31.6181665+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:05:00.8028761+00:00",
-  "LastUpdate_Achievements": "2023-12-31T13:11:35.6308708+00:00"
+  "LastUpdate_Ratings": "2023-12-31T14:02:38.5499046+00:00",
+  "LastUpdate_Achievements": "2023-12-31T14:09:02.2519111+00:00"
 }

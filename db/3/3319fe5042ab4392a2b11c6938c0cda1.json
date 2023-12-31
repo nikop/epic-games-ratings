@@ -640,9 +640,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "ae95dh3",
       "Name": "Quickly Pick a Lucky Lock",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -847,8 +847,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2023-12-31T13:05:54.0474425+00:00",
+  "LastChanged_Achievements": "2023-12-31T14:03:32.2265427+00:00",
   "LastUpdate_AppInfo": "2023-12-27T16:57:17.5447439+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:01:07.4512463+00:00",
-  "LastUpdate_Achievements": "2023-12-31T13:05:54.0474695+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:58:56.8924935+00:00",
+  "LastUpdate_Achievements": "2023-12-31T14:03:32.2265613+00:00"
 }

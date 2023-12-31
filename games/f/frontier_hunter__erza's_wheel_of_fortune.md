@@ -17,9 +17,9 @@
 | Beginner Artificer | 38.00% | ~257 |
 | Seal Breaker | 32.00% | ~216 |
 | Handyman | 28.00% | ~189 |
-| Giant Lizard Killer | 26.00% | ~176 |
+| Giant Lizard Killer | 27.00% | ~183 |
 | Guardian | 26.00% | ~176 |
-| Nosebleeder | 25.00% | ~169 |
+| Nosebleeder | 26.00% | ~176 |
 | Trader | 22.00% | ~149 |
 | Weapon Boost | 21.00% | ~142 |
 | Flying Kobold Killer | 19.00% | ~128 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 2.00% | ~14 |
 | Warden Challenge | 2.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 676 (Ranked 314)  
+Progressed: 676 (Ranked 315)  
 Completed: 2 (0.30%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |

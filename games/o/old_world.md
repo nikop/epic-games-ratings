@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 326)  
+Rating: 4.65 (Ranked 325)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -102,6 +102,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 0.20% | ~32 |
 | Industrial Progress | 0.20% | ~32 |
 | Military Prestige | 0.20% | ~32 |
+| Dualism | 0.20% | ~32 |
 | Enlightenment | 0.20% | ~32 |
 | Gnosticism | 0.20% | ~32 |
 | Legalism | 0.20% | ~32 |
@@ -226,7 +227,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon in Roma | 0.10% | ~16 |
 | Capturing Cities | 0.10% | ~16 |
 | Ten Crowns | 0.10% | ~16 |
-| Dualism | 0.10% | ~16 |
 | Redemption | 0.10% | ~16 |
 | Veneration | 0.10% | ~16 |
 | Word of God | 0.10% | ~16 |

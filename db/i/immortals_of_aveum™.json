@@ -355,9 +355,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2376,
+  "EOS_Progressed": 2380,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 632,
+  "EOS_NewPlayers": 631,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3855,6 +3855,11 @@
       "Time": "2023-12-31T13:11:48.9774088+00:00",
       "NumProgressed": 2376,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-31T14:09:15.371812+00:00",
+      "NumProgressed": 2380,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -3867,7 +3872,7 @@
       "Name": "Unforeseen",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 2067
+      "UsersEstimate": 2071
     },
     {
       "ID": "achievement_10",
@@ -3883,7 +3888,7 @@
       "Name": "The Means to Save It",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "achievement_12",
@@ -3915,7 +3920,7 @@
       "Name": "A Perfect Cycle",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "achievement_16",
@@ -3923,7 +3928,7 @@
       "Name": "Recruit",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "achievement_17",
@@ -3947,7 +3952,7 @@
       "Name": "Socialite",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "achievement_2",
@@ -3955,7 +3960,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1901
+      "UsersEstimate": 1904
     },
     {
       "ID": "achievement_20",
@@ -4011,7 +4016,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1618
     },
     {
       "ID": "achievement_36",
@@ -4043,7 +4048,7 @@
       "Name": "No More Names",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1190
     },
     {
       "ID": "achievement_41",
@@ -4075,7 +4080,7 @@
       "Name": "Periapt Cerulean",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "achievement_45",
@@ -4099,7 +4104,7 @@
       "Name": "Enlisted",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1734
+      "UsersEstimate": 1737
     },
     {
       "ID": "achievement_49",
@@ -4107,7 +4112,7 @@
       "Name": "Soldier",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "achievement_5",
@@ -4115,7 +4120,7 @@
       "Name": "Initiate",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 855
+      "UsersEstimate": 857
     },
     {
       "ID": "achievement_50",
@@ -4163,7 +4168,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 760
+      "UsersEstimate": 762
     },
     {
       "ID": "achievement_60",
@@ -4219,7 +4224,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "achievement_8",
@@ -4227,7 +4232,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "achievement_9",
@@ -4235,14 +4240,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 2376,
+      "Progressed": 2380,
       "Completed": 2
     }
   ],
@@ -4250,8 +4255,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-29T22:59:43.1126735+00:00",
-  "LastChanged_Achievements": "2023-12-31T13:11:48.9774086+00:00",
+  "LastChanged_Achievements": "2023-12-31T14:09:15.3718117+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.4007279+00:00",
-  "LastUpdate_Ratings": "2023-12-31T12:59:26.7441279+00:00",
-  "LastUpdate_Achievements": "2023-12-31T13:11:48.9774643+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:57:14.4949795+00:00",
+  "LastUpdate_Achievements": "2023-12-31T14:09:15.3718674+00:00"
 }

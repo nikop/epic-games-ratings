@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Going Batty | 25.00% | ~3 |
+| Going Batty | 33.00% | ~4 |
 | Amateur Electrician | 8.00% | ~1 |
 | Armed and Dangerous | 8.00% | ~1 |
 | Go for the Heart | 8.00% | ~1 |

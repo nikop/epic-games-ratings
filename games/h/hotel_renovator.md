@@ -5,10 +5,10 @@ Rating: 4.35 (Ranked 817)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 75.00% | ~1,022 |
+| Good start | 76.00% | ~1,035 |
 | And so it begins | 72.00% | ~981 |
 | No pressure | 69.00% | ~940 |
-| Memento | 59.00% | ~804 |
+| Memento | 60.00% | ~817 |
 | Let there be light | 57.00% | ~776 |
 | I think you dropped this | 52.00% | ~708 |
 | Soulmate? | 51.00% | ~695 |
@@ -30,7 +30,7 @@ Rating: 4.35 (Ranked 817)
 | You're a star | 19.00% | ~259 |
 | Unstoppable | 18.00% | ~245 |
 | Reunited | 18.00% | ~245 |
-| King of hospitality | 10.00% | ~136 |
+| King of hospitality | 11.00% | ~150 |
 | Top spot in town | 2.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,362 (Ranked 269)  

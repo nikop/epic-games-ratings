@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 471,
+  "EOS_Progressed": 472,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1505,6 +1505,11 @@
       "Time": "2023-12-31T10:04:34.6444631+00:00",
       "NumProgressed": 471,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T14:04:17.4280113+00:00",
+      "NumProgressed": 472,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1604,7 +1609,7 @@
       "Name": "Campaign Launch",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ach_campaigns_1",
@@ -1722,9 +1727,9 @@
       "ID": "ach_deco",
       "SetID": "b8gh1fi",
       "Name": "Proper Walls",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 137
     },
     {
       "ID": "ach_drones",
@@ -1850,9 +1855,9 @@
       "ID": "ach_grime",
       "SetID": "b8gh1fi",
       "Name": "Grime is Not Good",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 203
     },
     {
       "ID": "ach_grime_1",
@@ -1860,7 +1865,7 @@
       "Name": "Delegate Maintenance",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ach_grime_2",
@@ -1940,7 +1945,7 @@
       "Name": "People Mover",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ach_pop_2",
@@ -1954,9 +1959,9 @@
       "ID": "ach_prestige_1",
       "SetID": "b8gh1fi",
       "Name": "Your Prestige is Rising",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 104
     },
     {
       "ID": "ach_prestige_2",
@@ -2036,7 +2041,7 @@
       "Name": "Dinner Dash",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ach_restaurants_4",
@@ -2140,7 +2145,7 @@
       "Name": "Smooth Service",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ach_trash_1",
@@ -2219,7 +2224,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 471,
+      "Progressed": 472,
       "Completed": 0
     }
   ],
@@ -2227,8 +2232,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-31T13:06:39.227968+00:00",
+  "LastChanged_Achievements": "2023-12-31T14:04:17.4280111+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.6325323+00:00",
-  "LastUpdate_Ratings": "2023-12-31T12:59:26.9953623+00:00",
-  "LastUpdate_Achievements": "2023-12-31T13:06:39.2280428+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:57:14.7385114+00:00",
+  "LastUpdate_Achievements": "2023-12-31T14:04:17.428084+00:00"
 }

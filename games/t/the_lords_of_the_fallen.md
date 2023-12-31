@@ -5,7 +5,7 @@ Rating: 4.22 (Ranked 933)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Comrades | 0.20% | ~19 |
+| Comrades | 0.20% | ~20 |
 | Wayfarer | 0.10% | ~10 |
 | A Veil Lifted | 0.10% | ~10 |
 | Lost and Found | 0.10% | ~10 |
@@ -69,7 +69,7 @@ Rating: 4.22 (Ranked 933)
 | A Rest Among the Dead | 0.10% | ~10 |
 | A Trace of Venom | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,746 (Ranked 180)  
+Progressed: 9,756 (Ranked 180)  
 Completed: 2 (0.02%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,11 +143,11 @@ Completed: 2 (0.02%) (Ranked 358)
 | 2023-12-28 | 8,957 | 2 |
 | 2023-12-29 | 9,283 | 2 |
 | 2023-12-30 | 9,604 | 2 |
-| 2023-12-31 | 9,746 | 2 |
+| 2023-12-31 | 9,756 | 2 |
 ## Awards
 Max (Character Customization): 376  (Ranked 243)  
-Sum: 898 (Ranked 280)  
-Diff (max vs sum): -37  
+Sum: 862 (Ranked 284)  
+Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 376 |

@@ -2,7 +2,7 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 326,
+  "Ranking_Rating": 325,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 279,
@@ -53,7 +53,7 @@
   "Tags": [],
   "EOS_Progressed": 1171,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -3393,9 +3393,9 @@
       "ID": "CamilleDefeated",
       "SetID": "a9e499d",
       "Name": "The Steel Shadow",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 269
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -3457,9 +3457,9 @@
       "ID": "CosmeticProgress1",
       "SetID": "a9e499d",
       "Name": "Street Style",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 211
     },
     {
       "ID": "CultivairChests1",
@@ -3537,9 +3537,9 @@
       "ID": "GadgetProgress1",
       "SetID": "a9e499d",
       "Name": "Whiz Kid",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 176
     },
     {
       "ID": "GrindingTime1",
@@ -3818,8 +3818,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-31T13:12:03.1956611+00:00",
+  "LastChanged_Achievements": "2023-12-31T14:09:28.6416241+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:04:54.3593249+00:00",
-  "LastUpdate_Achievements": "2023-12-31T13:12:03.1957097+00:00"
+  "LastUpdate_Ratings": "2023-12-31T14:02:32.4128937+00:00",
+  "LastUpdate_Achievements": "2023-12-31T14:09:28.6416886+00:00"
 }

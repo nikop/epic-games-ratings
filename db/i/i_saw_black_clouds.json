@@ -4,7 +4,7 @@
   "ProductSlug": "i-saw-black-clouds-67008d",
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 371,
+  "Ranking_EOS_NewPlayers": 369,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 392,
+  "EOS_Progressed": 393,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.53,
   "EosHistory": [
@@ -816,6 +816,11 @@
       "Time": "2023-12-31T13:08:33.3544676+00:00",
       "NumProgressed": 392,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-31T14:06:11.3688692+00:00",
+      "NumProgressed": 393,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 15,
@@ -859,7 +864,7 @@
       "Name": "End",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "escape",
@@ -867,7 +872,7 @@
       "Name": "Escape",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "help",
@@ -899,7 +904,7 @@
       "Name": "Nonconsensual",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "origin",
@@ -907,7 +912,7 @@
       "Name": "Origin",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "realist",
@@ -939,14 +944,14 @@
       "Name": "Wrong",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     }
   ],
   "AchievementSets": [
     {
       "ID": "8b5dfcp",
       "IsBase": true,
-      "Progressed": 392,
+      "Progressed": 393,
       "Completed": 6
     }
   ],
@@ -954,8 +959,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.6585069+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.1686763+00:00",
   "LastChanged": "2023-03-31T05:57:25.658507+00:00",
-  "LastChanged_Achievements": "2023-12-31T13:08:33.3544674+00:00",
+  "LastChanged_Achievements": "2023-12-31T14:06:11.3688689+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:15.5326194+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:00:48.2155724+00:00",
-  "LastUpdate_Achievements": "2023-12-31T13:08:33.3544795+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:58:38.3585849+00:00",
+  "LastUpdate_Achievements": "2023-12-31T14:06:11.368882+00:00"
 }

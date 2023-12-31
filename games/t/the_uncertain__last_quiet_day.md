@@ -6,8 +6,8 @@ Rating: 3.75 (Ranked 1,075)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I can do a thing or two | 60.00% | ~373 |
-| Buckle up | 58.00% | ~360 |
-| Quick charge | 58.00% | ~360 |
+| Buckle up | 58.00% | ~361 |
+| Quick charge | 58.00% | ~361 |
 | Hands up! | 52.00% | ~323 |
 | Now you know | 52.00% | ~323 |
 | Short circuit | 52.00% | ~323 |
@@ -15,7 +15,7 @@ Rating: 3.75 (Ranked 1,075)
 | Everybody lies | 36.00% | ~224 |
 | Trick or Treat? | 23.00% | ~143 |
 | There is another way | 22.00% | ~137 |
-| Sysadmin | 21.00% | ~130 |
+| Sysadmin | 21.00% | ~131 |
 | Every little helps | 20.00% | ~124 |
 | Annoying | 19.00% | ~118 |
 | Hacker | 19.00% | ~118 |
@@ -23,23 +23,23 @@ Rating: 3.75 (Ranked 1,075)
 | The Walking Robot Among Us | 19.00% | ~118 |
 | Uncertain | 18.00% | ~112 |
 | Goody | 17.00% | ~106 |
-| Ace | 16.00% | ~99 |
-| Concrete painting | 16.00% | ~99 |
-| Found it! | 16.00% | ~99 |
-| Not what it seems | 16.00% | ~99 |
-| Please oh pleeease! | 16.00% | ~99 |
+| Ace | 16.00% | ~100 |
+| Concrete painting | 16.00% | ~100 |
+| Found it! | 16.00% | ~100 |
+| Not what it seems | 16.00% | ~100 |
+| Please oh pleeease! | 16.00% | ~100 |
 | Hipster | 15.00% | ~93 |
 | That's much better! | 15.00% | ~93 |
 | Not as clumsy or random | 13.00% | ~81 |
 | Blade Runner | 10.00% | ~62 |
 | Perfect hearing | 9.00% | ~56 |
-| Meticulous | 7.00% | ~43 |
+| Meticulous | 7.00% | ~44 |
 | Lucky dog | 5.00% | ~31 |
 | Accurate | 5.00% | ~31 |
 | Silent | 4.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 621 (Ranked 326)  
-Completed: 19 (3.06%) (Ranked 110)  
+Progressed: 622 (Ranked 326)  
+Completed: 19 (3.05%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -179,6 +179,7 @@ Completed: 19 (3.06%) (Ranked 110)
 | 2023-12-28 | 616 | 19 |
 | 2023-12-29 | 620 | 19 |
 | 2023-12-30 | 621 | 19 |
+| 2023-12-31 | 622 | 19 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

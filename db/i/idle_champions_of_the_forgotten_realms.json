@@ -9167,10 +9167,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33206,
       "NumberOfAwardsMax": 5720
+    },
+    {
+      "Time": "2023-12-31T13:57:02.8585061+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33211,
+      "NumberOfAwardsMax": 5720
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33206,
+  "NumberOfAwards": 33211,
   "NumberOfAwardsMax": 5720,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9190,7 +9196,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4872
+      "Count": 4877
     },
     {
       "Text": "This game is Relaxing",
@@ -9217,9 +9223,9 @@
       "Count": 3614
     }
   ],
-  "EOS_Progressed": 248330,
+  "EOS_Progressed": 248365,
   "EOS_Completed": 2580,
-  "EOS_NewPlayers": 4231,
+  "EOS_NewPlayers": 4238,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -38077,6 +38083,11 @@
       "Time": "2023-12-31T13:12:12.0954515+00:00",
       "NumProgressed": 248330,
       "NumCompleted": 2580
+    },
+    {
+      "Time": "2023-12-31T14:09:36.4058891+00:00",
+      "NumProgressed": 248365,
+      "NumCompleted": 2580
     }
   ],
   "TotalAchievements": 546,
@@ -38088,7 +38099,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7450
+      "UsersEstimate": 7451
     },
     {
       "ID": "objective_completed_10",
@@ -39760,7 +39771,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2483
+      "UsersEstimate": 2484
     },
     {
       "ID": "objective_completed_34",
@@ -42416,7 +42427,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "objective_completed_678",
@@ -42424,7 +42435,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "objective_completed_683",
@@ -42432,7 +42443,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "objective_completed_860",
@@ -42440,7 +42451,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "objective_completed_865",
@@ -42455,21 +42466,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 214604,
+      "Progressed": 214639,
       "Completed": 4110
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 248330,
+      "Progressed": 248365,
       "Completed": 2580
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-31T04:01:41.7646782+00:00",
-  "LastChanged_Achievements": "2023-12-31T13:12:12.0954513+00:00",
+  "LastChanged": "2023-12-31T13:57:02.8585059+00:00",
+  "LastChanged_Achievements": "2023-12-31T14:09:36.4058889+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2023-12-31T12:59:15.1302054+00:00",
-  "LastUpdate_Achievements": "2023-12-31T13:12:12.0979509+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:57:02.8585064+00:00",
+  "LastUpdate_Achievements": "2023-12-31T14:09:36.4082584+00:00"
 }

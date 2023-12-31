@@ -4,7 +4,7 @@
   "ProductSlug": "rogue-legacy-2",
   "Ranking_Rating": 41,
   "Ranking_Popularity": 287,
-  "Ranking_PopularitySum": 236,
+  "Ranking_PopularitySum": 237,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 131,
@@ -1548,9 +1548,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27324,
+  "EOS_Progressed": 27330,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 748,
+  "EOS_NewPlayers": 742,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -12518,6 +12518,11 @@
       "Time": "2023-12-31T13:11:52.8203444+00:00",
       "NumProgressed": 27324,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-31T14:09:18.6767539+00:00",
+      "NumProgressed": 27330,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -12609,7 +12614,7 @@
       "Name": "Spells and Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -12625,7 +12630,7 @@
       "Name": "Hands and Hammers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -12673,7 +12678,7 @@
       "Name": "Progenitor and Prot\u00E9g\u00E9",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -12689,7 +12694,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -12705,7 +12710,7 @@
       "Name": "Suns and Soldiers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "BoxerBoss",
@@ -12840,21 +12845,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27324,
+      "Progressed": 27330,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6254,
+      "Progressed": 6260,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-31T13:02:19.9867054+00:00",
-  "LastChanged_Achievements": "2023-12-31T13:11:52.8203442+00:00",
+  "LastChanged_Achievements": "2023-12-31T14:09:18.6767536+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.0569835+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:02:19.9867061+00:00",
-  "LastUpdate_Achievements": "2023-12-31T13:11:52.8204069+00:00"
+  "LastUpdate_Ratings": "2023-12-31T14:00:08.9513776+00:00",
+  "LastUpdate_Achievements": "2023-12-31T14:09:18.6768148+00:00"
 }

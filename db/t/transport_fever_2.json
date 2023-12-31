@@ -875,7 +875,7 @@
   ],
   "EOS_Progressed": 2258,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6460,9 +6460,9 @@
       "ID": "achFirstPassengerTransported",
       "SetID": "dgl390n",
       "Name": "First passenger on board",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1423
+      "UsersEstimate": 1445
     },
     {
       "ID": "achFirstPassengerWaiting",
@@ -6612,17 +6612,17 @@
       "ID": "achPresentReached",
       "SetID": "dgl390n",
       "Name": "The future is now, old man",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 632
+      "UsersEstimate": 655
     },
     {
       "ID": "achShipEarnings",
       "SetID": "dgl390n",
       "Name": "The king of the sea",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 587
+      "UsersEstimate": 610
     },
     {
       "ID": "achSmellOfSuccess",
@@ -6708,8 +6708,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-12-30T20:02:45.0815761+00:00",
-  "LastChanged_Achievements": "2023-12-31T13:10:53.2690433+00:00",
+  "LastChanged_Achievements": "2023-12-31T14:08:19.8533646+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:27.72637+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:04:58.9287637+00:00",
-  "LastUpdate_Achievements": "2023-12-31T13:10:53.2691161+00:00"
+  "LastUpdate_Ratings": "2023-12-31T14:02:36.789792+00:00",
+  "LastUpdate_Achievements": "2023-12-31T14:08:19.8534474+00:00"
 }

@@ -6,8 +6,8 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 45.00% | ~398 |
-| Double Kill | 39.00% | ~345 |
+| Adept | 45.00% | ~399 |
+| Double Kill | 39.00% | ~346 |
 | Veteran | 21.00% | ~186 |
 | Critical Hit | 20.00% | ~177 |
 | Dressed For Success | 14.00% | ~124 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 885 (Ranked 295)  
+Progressed: 887 (Ranked 295)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 815 | 0 |
 | 2023-12-29 | 850 | 0 |
 | 2023-12-30 | 871 | 0 |
-| 2023-12-31 | 885 | 0 |
+| 2023-12-31 | 887 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 29  (Ranked 520)  
 Sum: 251 (Ranked 398)  

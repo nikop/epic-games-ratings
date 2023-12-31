@@ -9,7 +9,7 @@
 | Ouch, that hurt! | 33.00% | ~19 |
 | Fight like an idiot | 30.00% | ~17 |
 | Slam-KABAM | 26.00% | ~15 |
-| Heavy Thoughts | 18.00% | ~10 |
+| Heavy Thoughts | 19.00% | ~11 |
 | A heavy thinker | 18.00% | ~10 |
 | Repair the Mind Validation Machine | 18.00% | ~10 |
 | Flee like an idiot | 18.00% | ~10 |

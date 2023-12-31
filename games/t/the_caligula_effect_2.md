@@ -17,8 +17,8 @@ Number of Ratings: 32  (23.09.2022)
 | Behind the Curtain | 33.00% | ~82 |
 | Master of Surprise | 29.00% | ~72 |
 | Be Who You Wanna Be | 27.00% | ~67 |
+| Investment Ban-χ-ing | 25.00% | ~62 |
 | Friendly Neighborhood | 24.00% | ~60 |
-| Investment Ban-χ-ing | 24.00% | ~60 |
 | Counter Champion | 24.00% | ~60 |
 | Combo Commando | 24.00% | ~60 |
 | One-Track Mind | 23.00% | ~57 |
@@ -34,9 +34,9 @@ Number of Ratings: 32  (23.09.2022)
 | Trigger Finger | 18.00% | ~45 |
 | Guarding Guru | 17.00% | ~42 |
 | Hopes Rewarded | 16.00% | ~40 |
+| Eat Your Heart Out | 11.00% | ~27 |
 | Hustled and Bustled | 11.00% | ~27 |
 | To Each Their Own | 10.00% | ~25 |
-| Eat Your Heart Out | 10.00% | ~25 |
 | Extra! Extra! Journalism Club Showdown | 9.00% | ~22 |
 | Redo Redone | 8.00% | ~20 |
 | Prince of Lettuce | 8.00% | ~20 |

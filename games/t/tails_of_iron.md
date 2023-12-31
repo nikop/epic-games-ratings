@@ -13,13 +13,13 @@ Rating: 4.56 (Ranked 502)
 | Two Handed Weapon | 1.00% | ~23 |
 | Defeat 25 Grubs | 1.00% | ~23 |
 | Defeat 25 Frogs | 1.00% | ~23 |
+| Kitchen Ready To Cook | 1.00% | ~23 |
 | Rescue Redgi's Brothers | 1.00% | ~23 |
 | Shield Maiden Yellow Tongue | 1.00% | ~9 |
 | The Bright Fir | 1.00% | ~9 |
 | Collect Gold | 0.90% | ~21 |
 | End of the Mozis | 0.90% | ~21 |
 | Defeat 25 Mozis | 0.90% | ~21 |
-| Kitchen Ready To Cook | 0.90% | ~21 |
 | Smithy Ready to Craft | 0.90% | ~21 |
 | Throne Room Fit For A King | 0.90% | ~21 |
 | Defeat Croakhis Khan | 0.90% | ~8 |
@@ -29,20 +29,20 @@ Rating: 4.56 (Ranked 502)
 | Return Power To The Depths | 0.80% | ~18 |
 | Defeat Ratnor Rodentson | 0.70% | ~16 |
 | Fix the Travellers Wagon | 0.70% | ~16 |
+| Complete the Chefs Book | 0.60% | ~14 |
 | Defeat Avor Warden of the Northern Wastes | 0.60% | ~14 |
 | Discover the mystery of the Kings Chambers | 0.60% | ~14 |
 | Defeat the Grub Buster | 0.60% | ~6 |
+| Defeat the Stalker Queen | 0.60% | ~6 |
 | Return the Statues | 0.50% | ~11 |
-| Complete the Chefs Book | 0.50% | ~11 |
 | Defeat Rattus Augustail | 0.50% | ~11 |
-| Defeat the Stalker Queen | 0.50% | ~5 |
 | Complete Arena Faction | 0.40% | ~9 |
 | Complete Ranger Faction | 0.40% | ~9 |
 | Complete Redgi's Armory | 0.30% | ~7 |
 | King of Kings | 0.30% | ~7 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,296 (Ranked 235)  
+Progressed: 2,297 (Ranked 235)  
 Completed: 12 (0.52%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 12 (0.52%) (Ranked 215)
 | 2023-12-28 | 2,291 | 12 |
 | 2023-12-29 | 2,292 | 12 |
 | 2023-12-30 | 2,295 | 12 |
-| 2023-12-31 | 2,296 | 12 |
+| 2023-12-31 | 2,297 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

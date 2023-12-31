@@ -313,7 +313,7 @@
   "Tags": [],
   "EOS_Progressed": 2588,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7899,9 +7899,9 @@
       "ID": "A53",
       "SetID": "9b7p7eo",
       "Name": "Networker",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 440
+      "UsersEstimate": 466
     },
     {
       "ID": "A54",
@@ -7924,8 +7924,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-27T17:00:03.776976+00:00",
-  "LastChanged_Achievements": "2023-12-31T13:07:12.5784067+00:00",
+  "LastChanged_Achievements": "2023-12-31T14:04:51.7906428+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:54.9390802+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:00:04.4562843+00:00",
-  "LastUpdate_Achievements": "2023-12-31T13:07:12.5784633+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:57:52.4082027+00:00",
+  "LastUpdate_Achievements": "2023-12-31T14:04:51.790701+00:00"
 }

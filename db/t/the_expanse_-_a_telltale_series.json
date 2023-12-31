@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17882,
+  "EOS_Progressed": 17886,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 606,
+  "EOS_NewPlayers": 605,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15799,6 +15799,11 @@
       "Time": "2023-12-31T13:08:27.0047511+00:00",
       "NumProgressed": 17882,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-31T14:06:05.0902901+00:00",
+      "NumProgressed": 17886,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15843,7 +15848,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2861
+      "UsersEstimate": 2862
     },
     {
       "ID": "14",
@@ -15859,7 +15864,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "16",
@@ -15875,7 +15880,7 @@
       "Name": "Spore Taste",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "18",
@@ -15915,7 +15920,7 @@
       "Name": "Drone Dodger",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "22",
@@ -16011,7 +16016,7 @@
       "Name": "Data Master",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "6",
@@ -16059,7 +16064,7 @@
       "Name": "Safe Cracker",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "33",
@@ -16067,7 +16072,7 @@
       "Name": "Zen Master",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "34",
@@ -16090,13 +16095,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17882,
+      "Progressed": 17886,
       "Completed": 57
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3836,
+      "Progressed": 3840,
       "Completed": 1131
     }
   ],
@@ -16104,8 +16109,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T01:47:56.7328013+00:00",
-  "LastChanged_Achievements": "2023-12-31T13:08:27.0047509+00:00",
+  "LastChanged_Achievements": "2023-12-31T14:06:05.0902899+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:00:16.9543223+00:00",
-  "LastUpdate_Achievements": "2023-12-31T13:08:27.0048451+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:58:06.3646328+00:00",
+  "LastUpdate_Achievements": "2023-12-31T14:06:05.0903663+00:00"
 }

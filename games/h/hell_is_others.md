@@ -5,13 +5,13 @@ Rating: 4.40 (Ranked 765)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~80,607 |
-| Predator I | 23.00% | ~59,805 |
-| Fixer I | 10.00% | ~26,002 |
-| A week in Century City | 10.00% | ~26,002 |
+| Survivor | 31.00% | ~80,609 |
+| Predator I | 23.00% | ~59,807 |
+| Fixer I | 10.00% | ~26,003 |
+| A week in Century City | 10.00% | ~26,003 |
 | The Wait | 7.00% | ~18,202 |
-| Green thumb I | 6.00% | ~15,601 |
-| Cleaning Company | 6.00% | ~15,601 |
+| Green thumb I | 6.00% | ~15,602 |
+| Cleaning Company | 6.00% | ~15,602 |
 | Well-oiled machine | 5.00% | ~13,001 |
 | Saver I | 5.00% | ~13,001 |
 | The Ascent | 4.00% | ~10,401 |
@@ -22,12 +22,12 @@ Rating: 4.40 (Ranked 765)
 | It took a while | 3.00% | ~7,801 |
 | Adrenaline | 3.00% | ~7,801 |
 | Predator II | 3.00% | ~7,801 |
-| By a hair | 2.00% | ~5,200 |
-| Samurai | 2.00% | ~5,200 |
-| I Left You a Present | 2.00% | ~5,200 |
-| Truffle Dog | 2.00% | ~5,200 |
-| Don't try this at home | 2.00% | ~5,200 |
-| A month in Century City | 2.00% | ~5,200 |
+| By a hair | 2.00% | ~5,201 |
+| Samurai | 2.00% | ~5,201 |
+| I Left You a Present | 2.00% | ~5,201 |
+| Truffle Dog | 2.00% | ~5,201 |
+| Don't try this at home | 2.00% | ~5,201 |
+| A month in Century City | 2.00% | ~5,201 |
 | The Strengthening | 1.00% | ~2,600 |
 | Saver II | 1.00% | ~2,600 |
 | It's the last one, I swear | 1.00% | ~2,600 |
@@ -62,7 +62,7 @@ Rating: 4.40 (Ranked 765)
 | Capitalist III | 0.10% | ~260 |
 | Hell Is You | 0.10% | ~260 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 260,023 (Ranked 65)  
+Progressed: 260,029 (Ranked 65)  
 Completed: 3 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 3 (0.00%) (Ranked 391)
 | 2023-12-28 | 259,901 | 3 |
 | 2023-12-29 | 259,952 | 3 |
 | 2023-12-30 | 259,996 | 3 |
-| 2023-12-31 | 260,023 | 3 |
+| 2023-12-31 | 260,029 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 54  (Ranked 437)  
 Sum: 369 (Ranked 360)  

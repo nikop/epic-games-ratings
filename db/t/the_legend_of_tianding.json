@@ -4,7 +4,7 @@
   "ProductSlug": "the-legend-of-tianding",
   "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewPlayers": 385,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -475,9 +475,9 @@
       "ID": "MightySword",
       "SetID": "123m9l1",
       "Name": "Demon Slayer",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "MilitaryFactoryExplorer",
@@ -572,8 +572,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-12-31T13:07:12.304727+00:00",
+  "LastChanged_Achievements": "2023-12-31T14:04:51.4248605+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:12.5249807+00:00",
-  "LastUpdate_Ratings": "2023-12-31T12:59:12.8791356+00:00",
-  "LastUpdate_Achievements": "2023-12-31T13:07:12.3047414+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:57:00.3349654+00:00",
+  "LastUpdate_Achievements": "2023-12-31T14:04:51.4248746+00:00"
 }

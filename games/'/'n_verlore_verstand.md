@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start of a Journey | 89.00% | ~59 |
-| A thing of beauty | 83.00% | ~55 |
-| Escape the Maze | 58.00% | ~38 |
-| Brace the cold | 44.00% | ~29 |
-| A Long Walk | 42.00% | ~28 |
+| Start of a Journey | 90.00% | ~60 |
+| A thing of beauty | 84.00% | ~56 |
+| Escape the Maze | 58.00% | ~39 |
+| Brace the cold | 45.00% | ~30 |
+| A Long Walk | 43.00% | ~29 |
 | Dont mind the heat | 18.00% | ~12 |
-| City of Puzzles | 11.00% | ~7 |
-| This field of danger | 11.00% | ~7 |
-| Labyrinths of the Mind | 11.00% | ~7 |
-| A Terrifying Blizzard | 8.00% | ~5 |
+| City of Puzzles | 10.00% | ~7 |
+| This field of danger | 10.00% | ~7 |
+| Labyrinths of the Mind | 10.00% | ~7 |
+| A Terrifying Blizzard | 7.00% | ~5 |
 | A Dangerous Road | 6.00% | ~4 |
-| Scorched Ruins | 5.00% | ~3 |
-| City of Illusion | 5.00% | ~3 |
-| Kill the Flames | 5.00% | ~3 |
-| Find the Light | 5.00% | ~3 |
-| Fight and Overcome | 5.00% | ~3 |
-| A Walk to the End | 5.00% | ~3 |
-| The Final Test | 5.00% | ~3 |
-| A Journey's End | 5.00% | ~3 |
-| A Stone Left Unturned | 2.00% | ~1 |
-| Celibacy/Delicacy | 2.00% | ~1 |
+| Scorched Ruins | 4.00% | ~3 |
+| City of Illusion | 4.00% | ~3 |
+| Kill the Flames | 4.00% | ~3 |
+| Find the Light | 4.00% | ~3 |
+| Fight and Overcome | 4.00% | ~3 |
+| A Walk to the End | 4.00% | ~3 |
+| The Final Test | 4.00% | ~3 |
+| A Journey's End | 4.00% | ~3 |
+| A Stone Left Unturned | 1.00% | ~1 |
+| Celibacy/Delicacy | 1.00% | ~1 |
 | No End is Eternal | 0.00% | ~0 |
 | Tranquility/Resilience | 0.00% | ~0 |
 | Recovery/Imagination | 0.00% | ~0 |
@@ -53,7 +53,7 @@
 | A Quick Secret | 0.00% | ~0 |
 | A Complete Journey | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 521)  
+Progressed: 67 (Ranked 520)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,3 +106,4 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-20 | 63 | 0 |
 | 2023-12-23 | 65 | 0 |
 | 2023-12-29 | 66 | 0 |
+| 2023-12-31 | 67 | 0 |

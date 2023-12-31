@@ -6,8 +6,8 @@
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 184,
-  "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_Completed": 368,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8785,
+  "EOS_Progressed": 8786,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9440,6 +9440,11 @@
       "Time": "2023-12-31T13:12:05.3257418+00:00",
       "NumProgressed": 8785,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T14:09:30.5608024+00:00",
+      "NumProgressed": 8786,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -9500,7 +9505,7 @@
       "Name": "Flaming Hot Completos",
       "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "CHAPTER_8_COMPLETE",
@@ -9684,7 +9689,7 @@
       "Name": "Azorian Anniversary",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "UPGRADE_ALLSKILLSMAX",
@@ -9724,7 +9729,7 @@
       "Name": "Skilled",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "DLC1_ACHIEVEMENT_01",
@@ -9795,13 +9800,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8785,
+      "Progressed": 8786,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1402,
+      "Progressed": 1403,
       "Completed": 1050
     }
   ],
@@ -9809,8 +9814,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-31T13:12:05.3257417+00:00",
+  "LastChanged_Achievements": "2023-12-31T14:09:30.5608023+00:00",
   "LastUpdate_AppInfo": "2023-12-29T11:57:18.9799571+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:05:24.1891163+00:00",
-  "LastUpdate_Achievements": "2023-12-31T13:12:05.3257995+00:00"
+  "LastUpdate_Ratings": "2023-12-31T14:03:01.2621498+00:00",
+  "LastUpdate_Achievements": "2023-12-31T14:09:30.5608781+00:00"
 }

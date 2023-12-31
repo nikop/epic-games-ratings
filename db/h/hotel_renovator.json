@@ -265,7 +265,7 @@
   "Tags": [],
   "EOS_Progressed": 1362,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
@@ -3275,9 +3275,9 @@
       "ID": "ACH_BOOK_ALL",
       "SetID": "7k95e4n",
       "Name": "King of hospitality",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 136
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_CHICKEN_ENCOUNTERED",
@@ -3355,9 +3355,9 @@
       "ID": "ACH_GRANDPA_BOY_SUIT",
       "SetID": "7k95e4n",
       "Name": "Memento",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 804
+      "UsersEstimate": 817
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -3419,9 +3419,9 @@
       "ID": "ACH_STAR_1",
       "SetID": "7k95e4n",
       "Name": "Good start",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1035
     },
     {
       "ID": "ACH_STAR_2",
@@ -3492,8 +3492,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-29T01:34:53.0019618+00:00",
-  "LastChanged_Achievements": "2023-12-31T13:10:42.1615576+00:00",
+  "LastChanged_Achievements": "2023-12-31T14:08:09.0463008+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:25.8678636+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:01:34.692225+00:00",
-  "LastUpdate_Achievements": "2023-12-31T13:10:42.1615838+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:59:24.9098591+00:00",
+  "LastUpdate_Achievements": "2023-12-31T14:08:09.0463352+00:00"
 }

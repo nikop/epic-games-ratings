@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39819,
+  "EOS_Progressed": 39821,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 404,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -22607,6 +22607,11 @@
       "Time": "2023-12-31T13:10:34.574682+00:00",
       "NumProgressed": 39819,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-12-31T14:08:01.2669854+00:00",
+      "NumProgressed": 39821,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 14,
@@ -22706,7 +22711,7 @@
       "Name": "Two Worlds",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 30262
+      "UsersEstimate": 30264
     },
     {
       "ID": "roots",
@@ -22714,7 +22719,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6769
+      "UsersEstimate": 6770
     },
     {
       "ID": "secretItem",
@@ -22729,15 +22734,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 39819,
+      "Progressed": 39821,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-12-25T15:57:40.6217361+00:00",
-  "LastChanged_Achievements": "2023-12-31T13:10:34.5746817+00:00",
+  "LastChanged_Achievements": "2023-12-31T14:08:01.2669851+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:00.6185917+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:02:40.4370679+00:00",
-  "LastUpdate_Achievements": "2023-12-31T13:10:34.5747998+00:00"
+  "LastUpdate_Ratings": "2023-12-31T14:02:29.481845+00:00",
+  "LastUpdate_Achievements": "2023-12-31T14:08:01.2670993+00:00"
 }

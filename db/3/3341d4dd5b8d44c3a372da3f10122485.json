@@ -4,8 +4,8 @@
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 209,
+  "EOS_Progressed": 210,
   "EOS_Completed": 87,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 41.63,
+  "EOS_Completed_Percentage": 41.43,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -1389,6 +1389,11 @@
       "Time": "2023-12-31T00:04:08.6743672+00:00",
       "NumProgressed": 209,
       "NumCompleted": 87
+    },
+    {
+      "Time": "2023-12-31T14:04:25.347073+00:00",
+      "NumProgressed": 210,
+      "NumCompleted": 87
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -1409,7 +1414,7 @@
       "Name": "Intro",
       "Percentage": 96,
       "XP": 75,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "Kanalizace",
@@ -1417,23 +1422,23 @@
       "Name": "Sewers",
       "Percentage": 75,
       "XP": 75,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Kompotarna",
       "SetID": "823jm6g",
       "Name": "Pantry",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 80,
-      "UsersEstimate": 159
+      "UsersEstimate": 158
     },
     {
       "ID": "Konec",
       "SetID": "823jm6g",
       "Name": "Happy End",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 75,
-      "UsersEstimate": 92
+      "UsersEstimate": 90
     },
     {
       "ID": "Les",
@@ -1441,15 +1446,15 @@
       "Name": "Woods",
       "Percentage": 59,
       "XP": 80,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "Majak",
       "SetID": "823jm6g",
       "Name": "Lighthouse",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 75,
-      "UsersEstimate": 92
+      "UsersEstimate": 90
     },
     {
       "ID": "Nora",
@@ -1457,7 +1462,7 @@
       "Name": "Burrow",
       "Percentage": 59,
       "XP": 75,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "Planina",
@@ -1465,7 +1470,7 @@
       "Name": "Plain",
       "Percentage": 59,
       "XP": 80,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "Poklop",
@@ -1473,7 +1478,7 @@
       "Name": "Hatch",
       "Percentage": 83,
       "XP": 75,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "Snekoun",
@@ -1481,7 +1486,7 @@
       "Name": "Snailman",
       "Percentage": 83,
       "XP": 80,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "Sopouch",
@@ -1489,7 +1494,7 @@
       "Name": "Pit",
       "Percentage": 77,
       "XP": 75,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "Tuleni",
@@ -1497,21 +1502,21 @@
       "Name": "Seal Peaks",
       "Percentage": 50,
       "XP": 75,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     }
   ],
   "AchievementSets": [
     {
       "ID": "823jm6g",
       "IsBase": true,
-      "Progressed": 209,
+      "Progressed": 210,
       "Completed": 87
     }
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-12-31T13:06:46.5949345+00:00",
+  "LastChanged_Achievements": "2023-12-31T14:04:25.3470727+00:00",
   "LastUpdate_AppInfo": "2023-12-30T07:56:58.6269869+00:00",
-  "LastUpdate_Ratings": "2023-12-31T12:59:20.557607+00:00",
-  "LastUpdate_Achievements": "2023-12-31T13:06:46.5949486+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:57:08.094598+00:00",
+  "LastUpdate_Achievements": "2023-12-31T14:04:25.3470863+00:00"
 }

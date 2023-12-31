@@ -10,8 +10,8 @@ Number of Ratings: 180  (23.09.2022)
 | First cargo item on board | 68.00% | ~1,535 |
 | First cargo item waiting | 68.00% | ~1,535 |
 | First bus stop | 67.00% | ~1,513 |
+| First passenger on board | 64.00% | ~1,445 |
 | First passenger waiting | 64.00% | ~1,445 |
-| First passenger on board | 63.00% | ~1,423 |
 | First bus arrived | 62.00% | ~1,400 |
 | First train station | 60.00% | ~1,355 |
 | First steam train arrived | 57.00% | ~1,287 |
@@ -31,11 +31,11 @@ Number of Ratings: 180  (23.09.2022)
 | First aircraft arrived | 38.00% | ~858 |
 | Mass production | 33.00% | ~745 |
 | Aircraft entrepreneur | 31.00% | ~700 |
+| The future is now, old man | 29.00% | ~655 |
 | Crowd in a train | 28.00% | ~632 |
 | Not in my backyard | 28.00% | ~632 |
-| The future is now, old man | 28.00% | ~632 |
+| The king of the sea | 27.00% | ~610 |
 | City | 26.00% | ~587 |
-| The king of the sea | 26.00% | ~587 |
 | Transport tycoon | 22.00% | ~497 |
 | Old timer | 21.00% | ~474 |
 | The ugly smell of success | 21.00% | ~474 |
