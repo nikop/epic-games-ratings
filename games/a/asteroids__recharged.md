@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Hero | 52.00% | ~1,160 |
-| Now I'm Here | 48.00% | ~1,071 |
-| The Hitman | 28.00% | ~625 |
-| Keep Yourself Alive | 27.00% | ~602 |
-| All Dead, All Dead | 18.00% | ~402 |
-| Misfire | 17.00% | ~379 |
-| The Invisible Man | 16.00% | ~357 |
-| The Miracle | 10.00% | ~223 |
-| We Will Rock You | 9.00% | ~201 |
-| Rock It | 4.00% | ~89 |
+| The Hero | 52.00% | ~1,171 |
+| Now I'm Here | 48.00% | ~1,080 |
+| The Hitman | 28.00% | ~630 |
+| Keep Yourself Alive | 27.00% | ~608 |
+| All Dead, All Dead | 18.00% | ~405 |
+| Misfire | 17.00% | ~383 |
+| The Invisible Man | 16.00% | ~360 |
+| The Miracle | 10.00% | ~225 |
+| We Will Rock You | 9.00% | ~203 |
+| Rock It | 4.00% | ~90 |
 | Friends Will Be Friends | 2.00% | ~45 |
 | Put Out the Fire | 2.00% | ~45 |
-| Machines | 0.60% | ~13 |
+| Machines | 0.60% | ~14 |
 | Cool Cat | 0.40% | ~9 |
 | Killer Queen | 0.40% | ~9 |
 | Good Company | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,231 (Ranked 237)  
+Progressed: 2,251 (Ranked 237)  
 Completed: 1 (0.04%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 1 (0.04%) (Ranked 345)
 | 2023-12-28 | 261 | 1 |
 | 2023-12-29 | 1,132 | 1 |
 | 2023-12-30 | 1,811 | 1 |
-| 2023-12-31 | 2,231 | 1 |
+| 2023-12-31 | 2,251 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

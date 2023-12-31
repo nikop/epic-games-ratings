@@ -2,13 +2,13 @@
   "ID": "f01b3e0178d448f0b93911e292d8e614",
   "Name": "RollerCoaster Tycoon 3 Complete Edition",
   "ProductSlug": "rollercoaster-tycoon-3-complete-edition",
-  "Ranking_Rating": 326,
-  "Ranking_Popularity": 433,
-  "Ranking_PopularitySum": 341,
+  "Ranking_Rating": 325,
+  "Ranking_Popularity": 432,
+  "Ranking_PopularitySum": 340,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 563,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-09-24T15:00:00+00:00",
     "PcReleaseDate": "2020-09-24T15:00:00+00:00",
@@ -1178,10 +1178,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 457,
       "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2023-12-31T18:57:35.1755593+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 458,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 457,
+  "NumberOfAwards": 458,
   "NumberOfAwardsMax": 56,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1225,7 +1231,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1269,8 +1275,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:06.1047421+00:00",
-  "LastChanged": "2023-12-29T21:02:30.532525+00:00",
+  "LastChanged": "2023-12-31T18:57:35.1755591+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:42.8136561+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:57:35.037925+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:06:17.5098687+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:57:35.1755596+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:06:15.8056624+00:00"
 }

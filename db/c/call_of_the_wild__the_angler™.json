@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1015,9 +1015,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7808,
+  "EOS_Progressed": 7811,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12835,6 +12835,11 @@
       "Time": "2023-12-31T18:05:00.653554+00:00",
       "NumProgressed": 7808,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T19:04:59.3302497+00:00",
+      "NumProgressed": 7811,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -12846,7 +12851,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -12878,7 +12883,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -12910,7 +12915,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -12950,7 +12955,7 @@
       "Name": "Goldfish?",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -13165,13 +13170,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7808,
+      "Progressed": 7811,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7180,
+      "Progressed": 7183,
       "Completed": 113
     }
   ],
@@ -13179,8 +13184,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-26T19:00:49.2434236+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:05:00.6535537+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:04:59.3302493+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.4029638+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:58:43.9306883+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:05:00.6536303+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:58:41.608386+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:04:59.3303438+00:00"
 }

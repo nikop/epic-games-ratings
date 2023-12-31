@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1172,
+  "EOS_Progressed": 1173,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2907,6 +2907,11 @@
       "Time": "2023-12-31T18:08:03.7637218+00:00",
       "NumProgressed": 1172,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T19:08:08.7271693+00:00",
+      "NumProgressed": 1173,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2975,7 +2980,7 @@
       "Name": "Pathfinder",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "CompleteChapter10",
@@ -3015,7 +3020,7 @@
       "Name": "For Harkanibus!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "CompleteChapter15",
@@ -3063,7 +3068,7 @@
       "Name": "Met the Enemy",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "CompleteChapter3",
@@ -3079,7 +3084,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "CompleteChapter5",
@@ -3087,7 +3092,7 @@
       "Name": "Breathing Easy",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "CompleteChapter6",
@@ -3095,7 +3100,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "CompleteChapter7",
@@ -3214,14 +3219,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1172,
+      "Progressed": 1173,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:08:03.7637213+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:08:08.727165+00:00",
   "LastUpdate_AppInfo": "2023-12-29T09:57:13.5043463+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:58:30.1353709+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:08:03.7637548+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:58:27.7948682+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:08:08.7272052+00:00"
 }

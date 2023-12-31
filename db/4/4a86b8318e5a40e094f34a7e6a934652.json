@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 436,
+  "EOS_Progressed": 437,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -1849,6 +1849,11 @@
       "Time": "2023-12-31T18:03:29.3563148+00:00",
       "NumProgressed": 436,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-31T19:03:28.1621448+00:00",
+      "NumProgressed": 437,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -1861,7 +1866,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -1893,7 +1898,7 @@
       "Name": "Empty Shelves",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "CATCH_30_FISH",
@@ -1901,7 +1906,7 @@
       "Name": "Fisherman",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -1917,7 +1922,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -1925,7 +1930,7 @@
       "Name": "Farmer",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "HOUSEWARMING",
@@ -1941,7 +1946,7 @@
       "Name": "Leech Lunch",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -1957,7 +1962,7 @@
       "Name": "Tough Guy",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "PREPARE_10_COFFEE",
@@ -1981,7 +1986,7 @@
       "Name": "Bridge Builder",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -1997,15 +2002,15 @@
       "Name": "Crypto Bro",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 318
+      "UsersEstimate": 323
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -2020,14 +2025,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 436,
+      "Progressed": 437,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:03:29.3563144+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:03:28.1621444+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.5394751+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:02:39.8456782+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:03:29.3563344+00:00"
+  "LastUpdate_Ratings": "2023-12-31T19:02:36.690127+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:03:28.1622053+00:00"
 }

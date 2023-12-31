@@ -6,24 +6,24 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Shall Not Pass | 51.00% | ~4,948 |
-| Tutti Eroi! | 50.00% | ~4,851 |
-| Peak Performance | 45.00% | ~4,366 |
-| Avanti Savoia! | 44.00% | ~4,269 |
+| You Shall Not Pass | 51.00% | ~4,949 |
+| Tutti Eroi! | 50.00% | ~4,852 |
+| Peak Performance | 45.00% | ~4,367 |
+| Avanti Savoia! | 44.00% | ~4,270 |
 | Mamma Mia! | 35.00% | ~3,396 |
 | Conrad von Hotzensocks | 32.00% | ~3,105 |
 | Gabriele D'Annunzio | 32.00% | ~3,105 |
 | Silver Lining | 27.00% | ~2,620 |
-| Aurelio Baruzzi | 21.00% | ~2,037 |
-| Decimation | 20.00% | ~1,940 |
-| Donatello | 19.00% | ~1,843 |
-| Insubordination | 19.00% | ~1,843 |
-| The Italian Job | 19.00% | ~1,843 |
-| Veni Vidi Vici | 19.00% | ~1,843 |
-| Ragazzi del '99 | 17.00% | ~1,649 |
-| Luigi Cadorna | 16.00% | ~1,552 |
-| The Lion of the Isonzo | 14.00% | ~1,358 |
-| Uomo Universale | 13.00% | ~1,261 |
+| Aurelio Baruzzi | 21.00% | ~2,038 |
+| Decimation | 20.00% | ~1,941 |
+| Donatello | 19.00% | ~1,844 |
+| Insubordination | 19.00% | ~1,844 |
+| The Italian Job | 19.00% | ~1,844 |
+| Veni Vidi Vici | 19.00% | ~1,844 |
+| Ragazzi del '99 | 17.00% | ~1,650 |
+| Luigi Cadorna | 16.00% | ~1,553 |
+| The Lion of the Isonzo | 14.00% | ~1,359 |
+| Uomo Universale | 13.00% | ~1,262 |
 | Die Bosniaken Kommen! | 12.00% | ~1,164 |
 | Dirty Dozen | 12.00% | ~1,164 |
 | Shaken, Not Stirred | 12.00% | ~1,164 |
@@ -52,8 +52,8 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~39 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,702 (Ranked 181)  
-Completed: 10 (0.10%) (Ranked 306)  
+Progressed: 9,704 (Ranked 181)  
+Completed: 10 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -301,11 +301,11 @@ Completed: 10 (0.10%) (Ranked 306)
 | 2023-12-28 | 9,657 | 10 |
 | 2023-12-29 | 9,668 | 10 |
 | 2023-12-30 | 9,691 | 10 |
-| 2023-12-31 | 9,702 | 10 |
+| 2023-12-31 | 9,704 | 10 |
 ## Awards
 Max (Diverse Characters): 41  (Ranked 473)  
-Sum: 335 (Ranked 369)  
-Diff (max vs sum): 104  
+Sum: 335 (Ranked 368)  
+Diff (max vs sum): 105  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 41 |

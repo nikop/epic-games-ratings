@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17898,
+  "EOS_Progressed": 17901,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 596,
+  "EOS_NewPlayers": 593,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15819,6 +15819,11 @@
       "Time": "2023-12-31T18:03:23.4240015+00:00",
       "NumProgressed": 17898,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-31T19:03:22.0021808+00:00",
+      "NumProgressed": 17901,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15933,9 +15938,9 @@
       "ID": "21",
       "SetID": "458bbdk",
       "Name": "Drone Dodger",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1790
+      "UsersEstimate": 1969
     },
     {
       "ID": "22",
@@ -16110,13 +16115,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17898,
+      "Progressed": 17901,
       "Completed": 57
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3852,
+      "Progressed": 3855,
       "Completed": 1132
     }
   ],
@@ -16124,8 +16129,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T01:47:56.7328013+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:03:23.4240012+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:03:22.0021803+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:58:23.4052001+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:03:23.4240922+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:58:21.3426554+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:03:22.0023215+00:00"
 }

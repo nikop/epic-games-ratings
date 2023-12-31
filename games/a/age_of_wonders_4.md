@@ -7,7 +7,7 @@ Rating: 4.63 (Ranked 357)
 | ---- | ---------- | ----- |
 | Secret Technique | 13.00% | ~860 |
 | Realm Estate | 11.00% | ~727 |
-| A Wonderful Discovery | 10.00% | ~661 |
+| A Wonderful Discovery | 11.00% | ~727 |
 | Walls Cannot Stop Us | 10.00% | ~661 |
 | From Friends to Family | 9.00% | ~595 |
 | Bone Peddler | 8.00% | ~529 |
@@ -66,8 +66,8 @@ Rating: 4.63 (Ranked 357)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,612 (Ranked 195)  
-Completed: 7 (0.11%) (Ranked 303)  
+Progressed: 6,613 (Ranked 195)  
+Completed: 7 (0.11%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -289,11 +289,11 @@ Completed: 7 (0.11%) (Ranked 303)
 | 2023-12-28 | 6,414 | 7 |
 | 2023-12-29 | 6,495 | 7 |
 | 2023-12-30 | 6,566 | 7 |
-| 2023-12-31 | 6,612 | 7 |
+| 2023-12-31 | 6,613 | 7 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 478)  
-Sum: 164 (Ranked 436)  
-Diff (max vs sum): 42  
+Sum: 184 (Ranked 423)  
+Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 39 |
@@ -302,6 +302,7 @@ Diff (max vs sum): 42
 | This game is Highly Recommended | 22 |
 | This game has Amazing Storytelling | 20 |
 | This game has Challenging Combat | 20 |
+| This game has Quickly Understood Controls | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -384,4 +385,4 @@ Diff (max vs sum): 42
 | 2023-12-27 | 4.63 | 38 | 140 |
 | 2023-12-29 | 4.63 | 38 | 161 |
 | 2023-12-30 | 4.63 | 39 | 163 |
-| 2023-12-31 | 4.63 | 39 | 164 |
+| 2023-12-31 | 4.63 | 39 | 184 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2169,9 +2169,9 @@
       "ID": "ach_main04undead_sacrifice",
       "SetID": "4hg22ll",
       "Name": "Sacrificial Pit = Garbage Disposal?",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 122
     },
     {
       "ID": "ach_main05evil_completed",
@@ -2578,8 +2578,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2023-12-31T11:58:23.3486081+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:08:42.0801639+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:08:46.5713459+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:58:20.1663126+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:08:42.0802233+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:58:18.0136763+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:08:46.5714111+00:00"
 }

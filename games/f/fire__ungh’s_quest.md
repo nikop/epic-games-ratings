@@ -33,7 +33,7 @@
 | Blunga 30 | 6.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 293 (Ranked 392)  
-Completed: 17 (5.80%) (Ranked 71)  
+Completed: 17 (5.80%) (Ranked 70)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

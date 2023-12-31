@@ -3,12 +3,12 @@
   "Name": "ATOM RPG",
   "ProductSlug": "atom-rpg-3adb54",
   "Ranking_Rating": 650,
-  "Ranking_Popularity": 440,
+  "Ranking_Popularity": 439,
   "Ranking_PopularitySum": 495,
-  "Ranking_EOS_Progress": 260,
+  "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -409,9 +409,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1563,
+  "EOS_Progressed": 1564,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3989,6 +3989,11 @@
       "Time": "2023-12-31T17:09:45.7842132+00:00",
       "NumProgressed": 1563,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T19:09:58.2760697+00:00",
+      "NumProgressed": 1564,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4048,7 +4053,7 @@
       "Name": "Double agent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -4056,7 +4061,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "EXPERT_1",
@@ -4152,7 +4157,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4176,7 +4181,7 @@
       "Name": "Paranoia",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "PRIVATE_EYE",
@@ -4256,7 +4261,7 @@
       "Name": "Traveler",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "VVE",
@@ -4287,15 +4292,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1563,
+      "Progressed": 1564,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-12-27T01:41:52.1948259+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:09:49.0829878+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:09:58.2760691+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.8702318+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:00:13.8318167+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:09:49.0830495+00:00"
+  "LastUpdate_Ratings": "2023-12-31T19:00:12.0699538+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:09:58.276114+00:00"
 }

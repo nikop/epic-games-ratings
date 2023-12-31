@@ -5,7 +5,7 @@ Rating: 4.61 (Ranked 397)
 Number of Ratings: 4,280  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 1,353  (Ranked 138)  
-Sum: 8,206 (Ranked 112)  
+Sum: 8,208 (Ranked 112)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): 26
 | This game has Challenging Combat | 996 |
 | This game is Relaxing | 990 |
 | This game has Obsessive Gameplay | 619 |
-| This game has a Creative Community | 595 |
+| This game has a Creative Community | 597 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -341,4 +341,4 @@ Diff (max vs sum): 26
 | 2023-12-28 | 4.61 | - | 1,348 | 8,190 |
 | 2023-12-29 | 4.61 | - | 1,350 | 8,197 |
 | 2023-12-30 | 4.61 | - | 1,352 | 8,203 |
-| 2023-12-31 | 4.61 | - | 1,353 | 8,206 |
+| 2023-12-31 | 4.61 | - | 1,353 | 8,208 |

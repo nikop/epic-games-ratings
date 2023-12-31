@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -3413,9 +3413,9 @@
       "ID": "ACH_POWER_OUTRAGE_FIXED",
       "SetID": "7k95e4n",
       "Name": "Let there be light",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 764
+      "UsersEstimate": 778
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -3502,8 +3502,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-29T01:34:53.0019618+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:08:24.0386334+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:08:28.5234048+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:25.8678636+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:59:51.5374073+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:08:24.0386678+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:59:49.0130131+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:08:28.5234409+00:00"
 }

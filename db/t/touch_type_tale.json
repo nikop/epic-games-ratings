@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3948,
+  "EOS_Progressed": 3950,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -5287,6 +5287,11 @@
       "Time": "2023-12-31T18:07:57.1920866+00:00",
       "NumProgressed": 3948,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-31T19:08:02.432411+00:00",
+      "NumProgressed": 3950,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5298,7 +5303,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "bonus2",
@@ -5330,7 +5335,7 @@
       "Name": "Untouchable",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "bonus6",
@@ -5346,7 +5351,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3435
+      "UsersEstimate": 3436
     },
     {
       "ID": "campaign10",
@@ -5426,7 +5431,7 @@
       "Name": "An Ally in Need",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "campaign2",
@@ -5434,7 +5439,7 @@
       "Name": "Flanked!",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 2961
+      "UsersEstimate": 2962
     },
     {
       "ID": "campaign20",
@@ -5442,7 +5447,7 @@
       "Name": "For the Queen",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "campaign3",
@@ -5450,15 +5455,15 @@
       "Name": "Economics 101",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 2329
+      "UsersEstimate": 2330
     },
     {
       "ID": "campaign4",
       "SetID": "2h56gn1",
       "Name": "Get Rich Quick",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1620
     },
     {
       "ID": "campaign5",
@@ -5474,7 +5479,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "campaign7",
@@ -5482,7 +5487,7 @@
       "Name": "Maestro",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "campaign8",
@@ -5506,7 +5511,7 @@
       "Name": "Do the Splits",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "scenario2",
@@ -5522,7 +5527,7 @@
       "Name": "Not a Drop Wasted",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "scenario4",
@@ -5561,7 +5566,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3948,
+      "Progressed": 3950,
       "Completed": 11
     }
   ],
@@ -5569,8 +5574,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:07:57.1920863+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:08:02.4324106+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.1228513+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:00:11.6036434+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:07:57.1921296+00:00"
+  "LastUpdate_Ratings": "2023-12-31T19:00:09.9345229+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:08:02.432463+00:00"
 }

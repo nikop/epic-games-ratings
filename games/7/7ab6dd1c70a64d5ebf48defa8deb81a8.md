@@ -5,26 +5,26 @@ Rating: 4.12 (Ranked 999)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 58.00% | ~907 |
-| Trinity | 29.00% | ~453 |
-| Find Allies | 22.00% | ~344 |
-| A Taste of Wrath | 22.00% | ~344 |
-| I Found It | 22.00% | ~344 |
-| The Collector | 22.00% | ~344 |
-| Shatter Them All | 21.00% | ~328 |
-| Geared Up | 21.00% | ~328 |
+| Break Out | 58.00% | ~908 |
+| Trinity | 29.00% | ~454 |
+| Find Allies | 22.00% | ~345 |
+| A Taste of Wrath | 22.00% | ~345 |
+| I Found It | 22.00% | ~345 |
+| The Collector | 22.00% | ~345 |
+| Shatter Them All | 21.00% | ~329 |
+| Geared Up | 21.00% | ~329 |
 | Adventurer | 20.00% | ~313 |
 | Scholar | 20.00% | ~313 |
-| Fashion Victim | 19.00% | ~297 |
-| Stone Collection | 19.00% | ~297 |
-| Powerful Allies | 18.00% | ~281 |
-| Tributes of Caladrias | 18.00% | ~281 |
+| Fashion Victim | 19.00% | ~298 |
+| Stone Collection | 19.00% | ~298 |
+| Powerful Allies | 18.00% | ~282 |
+| Tributes of Caladrias | 18.00% | ~282 |
 | Big Bazar | 12.00% | ~188 |
 | Essence Blow | 11.00% | ~172 |
 | Alchemist | 11.00% | ~172 |
-| The Mentor | 10.00% | ~156 |
-| Calm before the Storm | 7.00% | ~109 |
-| Airborne | 7.00% | ~109 |
+| The Mentor | 10.00% | ~157 |
+| Calm before the Storm | 7.00% | ~110 |
+| Airborne | 7.00% | ~110 |
 | To Battle | 6.00% | ~94 |
 | Godslayer | 6.00% | ~94 |
 | Miner | 6.00% | ~94 |
@@ -42,7 +42,7 @@ Rating: 4.12 (Ranked 999)
 | All That Gold | 0.70% | ~11 |
 | Feeling Fancy | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,563 (Ranked 260)  
+Progressed: 1,566 (Ranked 260)  
 Completed: 3 (0.19%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 3 (0.19%) (Ranked 274)
 | 2023-12-28 | 1,412 | 3 |
 | 2023-12-29 | 1,459 | 3 |
 | 2023-12-30 | 1,519 | 3 |
-| 2023-12-31 | 1,563 | 3 |
+| 2023-12-31 | 1,566 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

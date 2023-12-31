@@ -42,10 +42,10 @@ Rating: 4.27 (Ranked 893)
 | Following In Their Footsteps | 8.00% | ~194 |
 | Defense in Depth | 8.00% | ~194 |
 | Reverse Engineering | 7.00% | ~170 |
+| Reborn | 6.00% | ~145 |
 | Remote Surgery | 6.00% | ~145 |
 | Turbo Booster | 6.00% | ~145 |
 | Squid Pro Quo | 6.00% | ~145 |
-| Reborn | 5.00% | ~121 |
 | Hello Darkness My Old Friend | 5.00% | ~121 |
 | Counter-Sniper | 5.00% | ~121 |
 | Shrimp Cocktail | 5.00% | ~121 |

@@ -6,23 +6,23 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 19.00% | ~128,530 |
-| Incurious | 18.00% | ~121,765 |
-| Climate Change | 17.00% | ~115,000 |
-| Stroller | 16.00% | ~108,236 |
-| Toy Train | 14.00% | ~94,706 |
-| Advanced Hiker | 13.00% | ~87,941 |
-| Hiker | 12.00% | ~81,177 |
-| Mojave Courier | 6.00% | ~40,588 |
-| Saved by Nausicaä | 6.00% | ~40,588 |
-| Advanced Voyager | 4.00% | ~27,059 |
-| Expert Stroller | 4.00% | ~27,059 |
-| Orient Express | 4.00% | ~27,059 |
-| Voyager | 3.00% | ~20,294 |
-| Marathon | 3.00% | ~20,294 |
-| Destructionist | 3.00% | ~20,294 |
-| Expert Hiker | 2.00% | ~13,529 |
-| Lost | 2.00% | ~13,529 |
+| Advanced Stroller | 19.00% | ~128,535 |
+| Incurious | 18.00% | ~121,770 |
+| Climate Change | 17.00% | ~115,005 |
+| Stroller | 16.00% | ~108,240 |
+| Advanced Hiker | 14.00% | ~94,710 |
+| Toy Train | 14.00% | ~94,710 |
+| Hiker | 12.00% | ~81,180 |
+| Mojave Courier | 6.00% | ~40,590 |
+| Saved by Nausicaä | 6.00% | ~40,590 |
+| Advanced Voyager | 4.00% | ~27,060 |
+| Expert Stroller | 4.00% | ~27,060 |
+| Orient Express | 4.00% | ~27,060 |
+| Voyager | 3.00% | ~20,295 |
+| Marathon | 3.00% | ~20,295 |
+| Destructionist | 3.00% | ~20,295 |
+| Expert Hiker | 2.00% | ~13,530 |
+| Lost | 2.00% | ~13,530 |
 | Rocketman | 0.80% | ~5,412 |
 | Expert Voyager | 0.70% | ~4,735 |
 | Nanuk | 0.70% | ~4,735 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~676 |
 | 20 Miles under the Sea | 0.10% | ~676 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 676,473 (Ranked 28)  
+Progressed: 676,498 (Ranked 28)  
 Completed: 12 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,11 +314,11 @@ Completed: 12 (0.00%) (Ranked 391)
 | 2023-12-28 | 675,198 | 12 |
 | 2023-12-29 | 675,587 | 12 |
 | 2023-12-30 | 676,071 | 12 |
-| 2023-12-31 | 676,473 | 12 |
+| 2023-12-31 | 676,498 | 12 |
 ## Awards
-Max (Great for Beginners): 207  (Ranked 295)  
+Max (Great for Beginners): 207  (Ranked 294)  
 Sum: 1,623 (Ranked 231)  
-Diff (max vs sum): 64  
+Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 207 |

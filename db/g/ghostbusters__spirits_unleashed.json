@@ -3,7 +3,7 @@
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
   "Ranking_Rating": 611,
-  "Ranking_Popularity": 255,
+  "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 269,
@@ -3903,9 +3903,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33017,
+  "EOS_Progressed": 33019,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 372,
+  "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -24123,6 +24123,11 @@
       "Time": "2023-12-31T18:08:29.0983856+00:00",
       "NumProgressed": 33017,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-12-31T19:08:33.654252+00:00",
+      "NumProgressed": 33019,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -24134,7 +24139,7 @@
       "Name": "Advancement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2641
+      "UsersEstimate": 2642
     },
     {
       "ID": "Animated",
@@ -24246,7 +24251,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2641
+      "UsersEstimate": 2642
     },
     {
       "ID": "Escape_Artist",
@@ -24541,7 +24546,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33017,
+      "Progressed": 33019,
       "Completed": 71
     }
   ],
@@ -24549,8 +24554,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-31T08:57:45.2513751+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:08:29.098385+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:08:33.6542516+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:23.250158+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:58:07.0506976+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:08:29.0984941+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:58:05.8349173+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:08:33.6544113+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
   "Ranking_Rating": 589,
-  "Ranking_Popularity": 324,
+  "Ranking_Popularity": 323,
   "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17525,
+  "EOS_Progressed": 17526,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -17410,6 +17410,11 @@
       "Time": "2023-12-31T17:04:56.8108753+00:00",
       "NumProgressed": 17525,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-12-31T19:05:03.6084065+00:00",
+      "NumProgressed": 17526,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 41,
@@ -17421,7 +17426,7 @@
       "Name": "Good midwife",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1753
     },
     {
       "ID": "tpote_achievement_10",
@@ -17493,7 +17498,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1753
     },
     {
       "ID": "tpote_achievement_19",
@@ -17501,7 +17506,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3154
+      "UsersEstimate": 3155
     },
     {
       "ID": "tpote_achievement_2",
@@ -17509,7 +17514,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5783
+      "UsersEstimate": 5784
     },
     {
       "ID": "tpote_achievement_20",
@@ -17517,7 +17522,7 @@
       "Name": "Boy of mystery",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "tpote_achievement_21",
@@ -17525,7 +17530,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5082
+      "UsersEstimate": 5083
     },
     {
       "ID": "tpote_achievement_22",
@@ -17549,7 +17554,7 @@
       "Name": "First profit",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1753
     },
     {
       "ID": "tpote_achievement_25",
@@ -17573,7 +17578,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3154
+      "UsersEstimate": 3155
     },
     {
       "ID": "tpote_achievement_28",
@@ -17605,7 +17610,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1753
     },
     {
       "ID": "tpote_achievement_31",
@@ -17613,7 +17618,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 3154
+      "UsersEstimate": 3155
     },
     {
       "ID": "tpote_achievement_32",
@@ -17741,22 +17746,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5958
+      "UsersEstimate": 5959
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17525,
+      "Progressed": 17526,
       "Completed": 123
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:05:05.2149307+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:05:03.6084062+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:24.3361109+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:02:40.366091+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:05:05.2150311+00:00"
+  "LastUpdate_Ratings": "2023-12-31T19:02:37.3327244+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:05:03.6084866+00:00"
 }

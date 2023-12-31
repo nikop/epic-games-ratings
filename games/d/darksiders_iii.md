@@ -6,57 +6,57 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 78.00% | ~261 |
-| First of many… | 69.00% | ~231 |
-| Helping Hand | 65.00% | ~218 |
-| Increased Vigor | 60.00% | ~201 |
-| Fight Fire with Fire | 58.00% | ~194 |
-| Increased Capacity | 54.00% | ~181 |
-| Just the start | 50.00% | ~168 |
-| Perfect Storm | 47.00% | ~157 |
-| All That Glitters | 46.00% | ~154 |
-| Enhance! | 43.00% | ~144 |
-| One Of the Chosen | 41.00% | ~137 |
-| Throne Potato | 39.00% | ~131 |
-| Devil's in the Details | 38.00% | ~127 |
-| Five's a Crowd | 38.00% | ~127 |
-| 25 to Life | 37.00% | ~124 |
-| Soul Harvester | 36.00% | ~121 |
-| Salvation | 36.00% | ~121 |
-| Unshakable Fortitude | 33.00% | ~111 |
-| Maximum Vigor | 31.00% | ~104 |
-| I Wanna Rock | 31.00% | ~104 |
-| Delusions of Grandeur | 31.00% | ~104 |
-| Love Tap | 29.00% | ~97 |
-| Freeze Frame | 27.00% | ~90 |
-| Eat Your Heart Out | 27.00% | ~90 |
-| For Whom the Bell Tolls | 27.00% | ~90 |
-| Unyielding Strength | 24.00% | ~80 |
-| Big Spender | 24.00% | ~80 |
-| Can you restore the Balance? | 23.00% | ~77 |
-| Cleanup Crew | 22.00% | ~74 |
-| Crowd Source | 22.00% | ~74 |
-| Maximum Capacity | 20.00% | ~67 |
-| Demon Meddler | 20.00% | ~67 |
-| Seeing Red | 20.00% | ~67 |
-| Egomaniac | 18.00% | ~60 |
-| Protector of Humanity | 15.00% | ~50 |
-| Everybody Wants to Rule the World | 15.00% | ~50 |
+| Green with Envy | 78.00% | ~264 |
+| First of many… | 69.00% | ~234 |
+| Helping Hand | 65.00% | ~220 |
+| Increased Vigor | 59.00% | ~200 |
+| Fight Fire with Fire | 57.00% | ~193 |
+| Increased Capacity | 53.00% | ~180 |
+| Just the start | 50.00% | ~170 |
+| Perfect Storm | 46.00% | ~156 |
+| All That Glitters | 46.00% | ~156 |
+| Enhance! | 42.00% | ~142 |
+| One Of the Chosen | 41.00% | ~139 |
+| Throne Potato | 39.00% | ~132 |
+| Devil's in the Details | 37.00% | ~125 |
+| Five's a Crowd | 37.00% | ~125 |
+| 25 to Life | 37.00% | ~125 |
+| Salvation | 36.00% | ~122 |
+| Soul Harvester | 35.00% | ~119 |
+| Unshakable Fortitude | 33.00% | ~112 |
+| Delusions of Grandeur | 31.00% | ~105 |
+| Maximum Vigor | 30.00% | ~102 |
+| I Wanna Rock | 30.00% | ~102 |
+| Love Tap | 29.00% | ~98 |
+| Freeze Frame | 27.00% | ~92 |
+| For Whom the Bell Tolls | 27.00% | ~92 |
+| Eat Your Heart Out | 26.00% | ~88 |
+| Big Spender | 24.00% | ~81 |
+| Unyielding Strength | 23.00% | ~78 |
+| Can you restore the Balance? | 23.00% | ~78 |
+| Cleanup Crew | 22.00% | ~75 |
+| Crowd Source | 22.00% | ~75 |
+| Maximum Capacity | 20.00% | ~68 |
+| Demon Meddler | 20.00% | ~68 |
+| Seeing Red | 20.00% | ~68 |
+| Egomaniac | 17.00% | ~58 |
+| Protector of Humanity | 15.00% | ~51 |
+| Everybody Wants to Rule the World | 15.00% | ~51 |
 | A Parting Gift | 13.00% | ~44 |
 | Community Outreach | 13.00% | ~44 |
 | Unbreakable Will | 11.00% | ~37 |
 | Path of the Horseman | 11.00% | ~37 |
 | Take it to the Limit | 10.00% | ~34 |
-| Holy Keeper | 9.00% | ~30 |
+| Holy Keeper | 9.00% | ~31 |
 | Demon Keeper | 8.00% | ~27 |
-| Soul Reaper | 7.00% | ~23 |
-| Humanitarian | 7.00% | ~23 |
+| Soul Reaper | 7.00% | ~24 |
+| Humanitarian | 7.00% | ~24 |
 | My Evil Twin | 6.00% | ~20 |
-| "Impressive!" | 4.00% | ~13 |
-| Keeper of the Bonfire | 4.00% | ~13 |
-| Keeper of the Vale | 4.00% | ~13 |
-| Keeper of the Sky | 4.00% | ~13 |
-| Made of Sterner Stuff | 4.00% | ~13 |
+| "Impressive!" | 4.00% | ~14 |
+| Keeper of the Bonfire | 4.00% | ~14 |
+| Keeper of the Vale | 4.00% | ~14 |
+| Keeper of the Sky | 4.00% | ~14 |
+| Made of Sterner Stuff | 4.00% | ~14 |
 | Purity of Power | 3.00% | ~10 |
 | Balance in all things | 3.00% | ~10 |
 | "Incredible!" | 3.00% | ~10 |
@@ -71,8 +71,8 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 0.60% | ~2 |
 | Beast Mode | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 335 (Ranked 377)  
-Completed: 1 (0.30%) (Ranked 251)  
+Progressed: 339 (Ranked 374)  
+Completed: 1 (0.29%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -87,7 +87,7 @@ Completed: 1 (0.30%) (Ranked 251)
 | 2023-12-28 | 265 | 1 |
 | 2023-12-29 | 293 | 1 |
 | 2023-12-30 | 320 | 1 |
-| 2023-12-31 | 335 | 1 |
+| 2023-12-31 | 339 | 1 |
 ## Awards
 Max (Great Boss Battles): 94  (Ranked 386)  
 Sum: 94 (Ranked 467)  

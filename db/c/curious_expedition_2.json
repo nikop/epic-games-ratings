@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 379,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -735,9 +735,9 @@
       "ID": "ach-discover-locations",
       "SetID": "17ih7ma",
       "Name": "Cartographer",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 228
     },
     {
       "ID": "ach-discover-locations-high",
@@ -759,9 +759,9 @@
       "ID": "ach-environmentKill",
       "SetID": "17ih7ma",
       "Name": "Fire and Flood",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 163
     },
     {
       "ID": "ach-find-treasure",
@@ -783,9 +783,9 @@
       "ID": "ach-firstExpedition",
       "SetID": "17ih7ma",
       "Name": "The Adventure Begins",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 255
     },
     {
       "ID": "ach-hardExpeditions",
@@ -951,17 +951,17 @@
       "ID": "ach-raiseDino",
       "SetID": "17ih7ma",
       "Name": "Good Mama",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 132
     },
     {
       "ID": "ach-redElk",
       "SetID": "17ih7ma",
       "Name": "A Gentle Beast",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 66
     },
     {
       "ID": "ach-rideDinosaur",
@@ -1048,8 +1048,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:09:58.9917286+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:10:08.1649736+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:12.3485961+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:58:27.9502378+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:09:58.9917873+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:58:25.4381568+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:10:08.1650235+00:00"
 }

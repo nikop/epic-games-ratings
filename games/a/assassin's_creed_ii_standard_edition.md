@@ -4,8 +4,8 @@
 Rating: 4.76 (Ranked 133)  
 Number of Ratings: 315  (23.09.2022)  
 ## Awards
-Max (Amazing Storytelling): 49  (Ranked 454)  
-Sum: 366 (Ranked 361)  
+Max (Amazing Storytelling): 49  (Ranked 453)  
+Sum: 366 (Ranked 360)  
 Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |

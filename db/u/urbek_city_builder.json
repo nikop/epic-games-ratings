@@ -4,8 +4,8 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 342,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 475,
+  "EOS_Progressed": 477,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1695,6 +1695,11 @@
       "Time": "2023-12-31T13:12:06.5978323+00:00",
       "NumProgressed": 475,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T19:10:07.0959581+00:00",
+      "NumProgressed": 477,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1850,7 +1855,7 @@
       "Name": "I like books",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "CULTURE_2",
@@ -1978,7 +1983,7 @@
       "Name": "I like my life",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "FELIZ_2",
@@ -2322,7 +2327,7 @@
       "Name": "Soviet town",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "WELFARE_2",
@@ -2337,7 +2342,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 475,
+      "Progressed": 477,
       "Completed": 0
     }
   ],
@@ -2345,8 +2350,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:09:57.8413315+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:10:07.0959578+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:29.1030987+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:02:47.0349995+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:09:57.8414128+00:00"
+  "LastUpdate_Ratings": "2023-12-31T19:02:44.2944838+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:10:07.0960385+00:00"
 }

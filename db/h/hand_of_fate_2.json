@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -943,9 +943,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 666591,
+  "EOS_Progressed": 666593,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 361,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -25203,6 +25203,11 @@
       "Time": "2023-12-31T18:09:02.6116852+00:00",
       "NumProgressed": 666591,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2023-12-31T19:09:11.9361673+00:00",
+      "NumProgressed": 666593,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -25214,7 +25219,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 479946
+      "UsersEstimate": 479947
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -25222,7 +25227,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 386623
+      "UsersEstimate": 386624
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -25238,7 +25243,7 @@
       "Name": "Adventurer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39995
+      "UsersEstimate": 39996
     },
     {
       "ID": "Achievement_05_Protector_of_the_Realm",
@@ -25286,7 +25291,7 @@
       "Name": "Long Shot",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46661
+      "UsersEstimate": 46662
     },
     {
       "ID": "Achievement_11_Grifter",
@@ -25366,7 +25371,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 113320
+      "UsersEstimate": 113321
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -25374,7 +25379,7 @@
       "Name": "Empire\u0027s Bane",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39995
+      "UsersEstimate": 39996
     },
     {
       "ID": "Achievement_22_Cure_for_Corruption",
@@ -25446,7 +25451,7 @@
       "Name": "Devil Dice",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46661
+      "UsersEstimate": 46662
     },
     {
       "ID": "Achievement_31_Master_of_Arms",
@@ -25526,7 +25531,7 @@
       "Name": "Broken Heart",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46661
+      "UsersEstimate": 46662
     },
     {
       "ID": "Achievement_41_Draknars_Bane",
@@ -25597,15 +25602,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 666591,
+      "Progressed": 666593,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-24T17:58:48.2867936+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:09:02.6116848+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:09:11.936167+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:45.4290677+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:00:50.685411+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:09:02.611832+00:00"
+  "LastUpdate_Ratings": "2023-12-31T19:02:29.3425257+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:09:11.9363106+00:00"
 }

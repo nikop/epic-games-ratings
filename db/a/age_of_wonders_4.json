@@ -4,11 +4,11 @@
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 357,
   "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 436,
+  "Ranking_PopularitySum": 423,
   "Ranking_EOS_Progress": 195,
-  "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Completed": 302,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -613,10 +613,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 164,
       "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-12-31T18:58:53.0277503+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 184,
+      "NumberOfAwardsMax": 39
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 164,
+  "NumberOfAwards": 184,
   "NumberOfAwardsMax": 39,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -655,11 +661,17 @@
       "Prefix": "This game has",
       "Type": "Challenging Combat",
       "Count": 20
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 20
     }
   ],
-  "EOS_Progressed": 6612,
+  "EOS_Progressed": 6613,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 477,
+  "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9892,6 +9904,11 @@
       "Time": "2023-12-31T18:06:29.7012219+00:00",
       "NumProgressed": 6612,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-31T19:06:28.0125283+00:00",
+      "NumProgressed": 6613,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10021,9 +10038,9 @@
       "ID": "23",
       "SetID": "3aa2279",
       "Name": "A Wonderful Discovery",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 661
+      "UsersEstimate": 727
     },
     {
       "ID": "24",
@@ -10382,22 +10399,22 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6612,
+      "Progressed": 6613,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6612,
+      "Progressed": 6613,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2023-12-31T09:58:31.9024094+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:06:29.7012215+00:00",
+  "LastChanged": "2023-12-31T18:58:53.0277501+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:06:28.0125279+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:58:55.5404915+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:06:29.7013024+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:58:53.0277505+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:06:28.012605+00:00"
 }

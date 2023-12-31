@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 1279,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3475,9 +3475,9 @@
       "ID": "BARK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Capraphobia",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 703
+      "UsersEstimate": 716
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -3675,9 +3675,9 @@
       "ID": "KALL_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Pest Control or Taxonomist?",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 256
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -3691,9 +3691,9 @@
       "ID": "KILLR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Who You Gonna Call?",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 486
+      "UsersEstimate": 499
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -3707,9 +3707,9 @@
       "ID": "KILLR_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Call The Winchester",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 166
     },
     {
       "ID": "KILLR_ACHIEVEMENT_5",
@@ -3851,9 +3851,9 @@
       "ID": "RAPTOR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Clairvoyant Who Doesn\u0027t See",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 640
+      "UsersEstimate": 652
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -3938,8 +3938,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:09:59.5235612+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:10:08.7821029+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:14.6537743+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:58:36.8824185+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:09:59.5236409+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:58:34.3633757+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:10:08.7821716+00:00"
 }

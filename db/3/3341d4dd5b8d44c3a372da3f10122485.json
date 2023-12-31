@@ -4,8 +4,8 @@
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 210,
-  "EOS_Completed": 88,
+  "EOS_Completed": 89,
   "EOS_NewPlayers": 19,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 41.9,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 42.38,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -1399,6 +1399,11 @@
       "Time": "2023-12-31T16:04:41.0143215+00:00",
       "NumProgressed": 210,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2023-12-31T19:04:50.8009749+00:00",
+      "NumProgressed": 210,
+      "NumCompleted": 89
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -1409,9 +1414,9 @@
       "ID": "Budoar",
       "SetID": "823jm6g",
       "Name": "Budoir",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 80,
-      "UsersEstimate": 134
+      "UsersEstimate": 136
     },
     {
       "ID": "Intro",
@@ -1449,9 +1454,9 @@
       "ID": "Les",
       "SetID": "823jm6g",
       "Name": "Woods",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 80,
-      "UsersEstimate": 124
+      "UsersEstimate": 126
     },
     {
       "ID": "Majak",
@@ -1505,9 +1510,9 @@
       "ID": "Tuleni",
       "SetID": "823jm6g",
       "Name": "Seal Peaks",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 75,
-      "UsersEstimate": 105
+      "UsersEstimate": 107
     }
   ],
   "AchievementSets": [
@@ -1515,13 +1520,13 @@
       "ID": "823jm6g",
       "IsBase": true,
       "Progressed": 210,
-      "Completed": 88
+      "Completed": 89
     }
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:04:52.1520711+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:04:50.8009744+00:00",
   "LastUpdate_AppInfo": "2023-12-30T07:56:58.6269869+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:57:17.3621263+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:04:52.1520864+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:57:18.2526223+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:04:50.8009911+00:00"
 }

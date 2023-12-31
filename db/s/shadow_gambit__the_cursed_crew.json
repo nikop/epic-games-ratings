@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1378,
+  "EOS_Progressed": 1379,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.54,
   "EosHistory": [
@@ -4749,6 +4749,11 @@
       "Time": "2023-12-31T17:05:23.0273244+00:00",
       "NumProgressed": 1378,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-31T19:05:33.7960412+00:00",
+      "NumProgressed": 1379,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4761,7 +4766,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -4769,7 +4774,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "_03_FinishAct1",
@@ -4777,7 +4782,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4793,7 +4798,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -4801,7 +4806,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "_07_FinishAct3",
@@ -4825,7 +4830,7 @@
       "Name": "Powder Monkey",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "_10_Completion_30",
@@ -4887,9 +4892,9 @@
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 510
+      "UsersEstimate": 496
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -4897,7 +4902,7 @@
       "Name": "Fully Decked",
       "Percentage": 7,
       "XP": 125,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -4905,7 +4910,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -4968,7 +4973,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1378,
+      "Progressed": 1379,
       "Completed": 35
     }
   ],
@@ -4976,8 +4981,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:05:34.1551734+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:05:33.7960408+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:00:14.2676519+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:05:34.1552018+00:00"
+  "LastUpdate_Ratings": "2023-12-31T19:00:12.4942742+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:05:33.7960763+00:00"
 }

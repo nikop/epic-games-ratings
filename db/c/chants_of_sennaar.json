@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -97,11 +97,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2107,
+  "EOS_Progressed": 2110,
   "EOS_Completed": 129,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 386,
   "EOS_NewCompleters": 32,
-  "EOS_Completed_Percentage": 6.12,
+  "EOS_Completed_Percentage": 6.11,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -5912,6 +5912,11 @@
       "Time": "2023-12-31T18:06:42.7276316+00:00",
       "NumProgressed": 2107,
       "NumCompleted": 129
+    },
+    {
+      "Time": "2023-12-31T19:06:41.1080678+00:00",
+      "NumProgressed": 2110,
+      "NumCompleted": 129
     }
   ],
   "TotalAchievements": 25,
@@ -5955,7 +5960,7 @@
       "Name": "A good beginning",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "META_HALF_LINK",
@@ -5971,7 +5976,7 @@
       "Name": "Open door",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "META_RESULT_1-3",
@@ -5979,7 +5984,7 @@
       "Name": "Free at last",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "META_RESULT_1-4",
@@ -5987,7 +5992,7 @@
       "Name": "Feels like springtime",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "META_RESULT_2-3",
@@ -6019,7 +6024,7 @@
       "Name": "Alchemists Express",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -6035,7 +6040,7 @@
       "Name": "True G3M4R",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -6043,7 +6048,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -6067,7 +6072,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1182
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -6075,15 +6080,15 @@
       "Name": "Scholar",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1076
     },
     {
       "ID": "PROGRESS_N2",
@@ -6091,7 +6096,7 @@
       "Name": "The great escape",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "PROGRESS_N3",
@@ -6099,7 +6104,7 @@
       "Name": "A new dawn",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "PROGRESS_N4",
@@ -6107,7 +6112,7 @@
       "Name": "The darkness",
       "Percentage": 28,
       "XP": 60,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "PROGRESS_N5",
@@ -6115,14 +6120,14 @@
       "Name": "One last step",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2107,
+      "Progressed": 2110,
       "Completed": 129
     }
   ],
@@ -6130,8 +6135,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-31T07:01:38.7723363+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:06:42.7276312+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:06:41.1080672+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:00:42.0688458+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:06:42.7276755+00:00"
+  "LastUpdate_Ratings": "2023-12-31T19:00:40.9391803+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:06:41.1081189+00:00"
 }

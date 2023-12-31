@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewPlayers": 51,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9229,9 +9229,9 @@
       "Count": 3614
     }
   ],
-  "EOS_Progressed": 248520,
+  "EOS_Progressed": 248558,
   "EOS_Completed": 2580,
-  "EOS_NewPlayers": 4317,
+  "EOS_NewPlayers": 4341,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -38114,6 +38114,11 @@
       "Time": "2023-12-31T18:10:03.2492393+00:00",
       "NumProgressed": 248520,
       "NumCompleted": 2580
+    },
+    {
+      "Time": "2023-12-31T19:10:12.7785793+00:00",
+      "NumProgressed": 248558,
+      "NumCompleted": 2580
     }
   ],
   "TotalAchievements": 546,
@@ -38125,7 +38130,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7456
+      "UsersEstimate": 7457
     },
     {
       "ID": "objective_completed_10",
@@ -39797,7 +39802,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2485
+      "UsersEstimate": 2486
     },
     {
       "ID": "objective_completed_34",
@@ -42492,21 +42497,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 214794,
+      "Progressed": 214832,
       "Completed": 4111
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 248520,
+      "Progressed": 248558,
       "Completed": 2580
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-31T15:56:59.5549652+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:10:03.2492387+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:10:12.7785788+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:57:11.1446188+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:10:03.2516716+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:57:12.2885314+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:10:12.7809906+00:00"
 }

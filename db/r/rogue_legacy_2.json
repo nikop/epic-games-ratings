@@ -3,12 +3,12 @@
   "Name": "Rogue Legacy 2",
   "ProductSlug": "rogue-legacy-2",
   "Ranking_Rating": 42,
-  "Ranking_Popularity": 287,
+  "Ranking_Popularity": 286,
   "Ranking_PopularitySum": 237,
   "Ranking_EOS_Progress": 144,
-  "Ranking_EOS_Completed": 296,
+  "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1548,7 +1548,7 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27348,
+  "EOS_Progressed": 27351,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 736,
   "EOS_NewCompleters": 0,
@@ -12543,6 +12543,11 @@
       "Time": "2023-12-31T18:09:43.2375358+00:00",
       "NumProgressed": 27348,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-31T19:09:52.5015132+00:00",
+      "NumProgressed": 27351,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -12666,7 +12671,7 @@
       "Name": "King and Kin",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -12682,7 +12687,7 @@
       "Name": "Harvest and Home",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -12810,7 +12815,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "RogueMode",
@@ -12865,21 +12870,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27348,
+      "Progressed": 27351,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6278,
+      "Progressed": 6281,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-31T13:02:19.9867054+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:09:43.2375356+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:09:52.5015128+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.0569835+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:00:40.5120703+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:09:43.2376182+00:00"
+  "LastUpdate_Ratings": "2023-12-31T19:00:39.5173395+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:09:52.5015881+00:00"
 }

@@ -5,20 +5,20 @@ Rating: 4.55 (Ranked 521)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~14,380 |
-| Pay 'n' Spray | 50.00% | ~8,876 |
-| All Dressed Up for San Fierro | 25.00% | ~4,438 |
-| The American Dream | 19.00% | ~3,373 |
-| School's Out | 18.00% | ~3,196 |
-| Smooth Moves | 17.00% | ~3,018 |
-| Today Was a Good Day | 15.00% | ~2,663 |
-| What happens in Las Venturas... | 14.00% | ~2,485 |
-| Horror of the Santa Maria | 10.00% | ~1,775 |
+| Getting Started | 81.00% | ~14,385 |
+| Pay 'n' Spray | 50.00% | ~8,880 |
+| All Dressed Up for San Fierro | 25.00% | ~4,440 |
+| The American Dream | 19.00% | ~3,374 |
+| School's Out | 18.00% | ~3,197 |
+| Smooth Moves | 17.00% | ~3,019 |
+| Today Was a Good Day | 15.00% | ~2,664 |
+| What happens in Las Venturas... | 14.00% | ~2,486 |
+| Horror of the Santa Maria | 10.00% | ~1,776 |
 | Liberty City State of Mind | 9.00% | ~1,598 |
-| Original Gangster | 8.00% | ~1,420 |
+| Original Gangster | 8.00% | ~1,421 |
 | With Extra Dip | 7.00% | ~1,243 |
 | The End of the Line | 7.00% | ~1,243 |
-| Saviour | 6.00% | ~1,065 |
+| Saviour | 6.00% | ~1,066 |
 | Rescue a Kitten Too? | 5.00% | ~888 |
 | They Can’t Stop All of Us | 4.00% | ~710 |
 | What are the Odds | 4.00% | ~710 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 521)
 | ...Here we go again | 0.50% | ~89 |
 | I Ain't No Buster | 0.40% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,753 (Ranked 158)  
+Progressed: 17,759 (Ranked 158)  
 Completed: 67 (0.38%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,11 +296,11 @@ Completed: 67 (0.38%) (Ranked 233)
 | 2023-12-28 | 17,305 | 64 |
 | 2023-12-29 | 17,467 | 65 |
 | 2023-12-30 | 17,622 | 66 |
-| 2023-12-31 | 17,753 | 67 |
+| 2023-12-31 | 17,759 | 67 |
 ## Awards
-Max (Great Boss Battles): 557  (Ranked 213)  
-Sum: 871 (Ranked 284)  
-Diff (max vs sum): -71  
+Max (Relaxing): 49  (Ranked 453)  
+Sum: 314 (Ranked 374)  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 557 |

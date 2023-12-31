@@ -3,12 +3,12 @@
   "Name": "Star Stable Online",
   "ProductSlug": "star-stable",
   "Ranking_Rating": 715,
-  "Ranking_Popularity": 299,
+  "Ranking_Popularity": 298,
   "Ranking_PopularitySum": 239,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 563,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-06-22T16:00:00+00:00",
     "PcReleaseDate": "2022-06-22T16:00:00+00:00",
@@ -3017,11 +3017,17 @@
       "Rating": 4.43,
       "NumberOfAwards": 1532,
       "NumberOfAwardsMax": 199
+    },
+    {
+      "Time": "2023-12-31T19:00:41.0942538+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 1534,
+      "NumberOfAwardsMax": 200
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1532,
-  "NumberOfAwardsMax": 199,
+  "NumberOfAwards": 1534,
+  "NumberOfAwardsMax": 200,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3052,7 +3058,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 199
+      "Count": 200
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3088,7 +3094,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 161
+      "Count": 162
     },
     {
       "Text": "This game is Educational",
@@ -3108,8 +3114,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
-  "LastChanged": "2023-12-31T07:01:38.7115755+00:00",
+  "LastChanged": "2023-12-31T19:00:41.0942536+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.1164703+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:00:42.090097+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:08:01.7684257+00:00"
+  "LastUpdate_Ratings": "2023-12-31T19:00:41.0942542+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:08:06.749771+00:00"
 }

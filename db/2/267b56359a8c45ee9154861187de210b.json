@@ -4,8 +4,8 @@
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 342,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
     "PcReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -612,9 +612,9 @@
       "ID": "airtime_mid",
       "SetID": "3448go",
       "Name": "Red-eye Flight",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "airtime_short",
@@ -1036,9 +1036,9 @@
       "ID": "hunt_low",
       "SetID": "3448go",
       "Name": "Gemstone Gatherer",
-      "Percentage": 0,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "hunt_mid",
@@ -1219,8 +1219,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:06:19.4158405+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:06:17.9218546+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:18.5941148+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:57:48.4523062+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:06:19.4159238+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:57:48.4630284+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:06:17.9219217+00:00"
 }

@@ -6,9 +6,9 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taking Action | 7.00% | ~1,387 |
-| Abandoned Settlement | 7.00% | ~1,387 |
-| Overgrown Library | 7.00% | ~1,387 |
+| Taking Action | 7.00% | ~1,388 |
+| Abandoned Settlement | 7.00% | ~1,388 |
+| Overgrown Library | 7.00% | ~1,388 |
 | First Real Expedition | 6.00% | ~1,189 |
 | No Deaths | 6.00% | ~1,189 |
 | Petrified Necropolis | 6.00% | ~1,189 |
@@ -41,13 +41,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 2.00% | ~396 |
 | Trade Baron | 2.00% | ~396 |
 | Serving Ale | 1.00% | ~198 |
+| Refinery | 1.00% | ~198 |
 | Against All Odds | 1.00% | ~198 |
 | Fishmen Ritual Site | 1.00% | ~198 |
 | Victory Through Prosperity | 1.00% | ~198 |
 | Defying the Crown | 1.00% | ~198 |
 | Into the Forest | 1.00% | ~198 |
 | Efficient Explorer | 0.90% | ~178 |
-| Refinery | 0.90% | ~178 |
 | Dangerous Lands | 0.90% | ~178 |
 | Forsaken Gods Temple | 0.90% | ~178 |
 | Forbidden Lands | 0.80% | ~159 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,820 (Ranked 151)  
+Progressed: 19,822 (Ranked 151)  
 Completed: 34 (0.17%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,11 +321,11 @@ Completed: 34 (0.17%) (Ranked 279)
 | 2023-12-28 | 19,536 | 36 |
 | 2023-12-29 | 19,630 | 36 |
 | 2023-12-30 | 19,741 | 35 |
-| 2023-12-31 | 19,820 | 34 |
+| 2023-12-31 | 19,822 | 34 |
 ## Awards
-Max (Quickly Understood Controls): 447  (Ranked 230)  
+Max (Quickly Understood Controls): 447  (Ranked 229)  
 Sum: 3,310 (Ranked 177)  
-Diff (max vs sum): 53  
+Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 447 |

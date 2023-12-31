@@ -6,17 +6,17 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 65.00% | ~252 |
-| Cartographer | 58.00% | ~224 |
+| The Adventure Begins | 66.00% | ~255 |
+| Cartographer | 59.00% | ~228 |
 | A Strange Artefact | 54.00% | ~209 |
 | Insomnia | 50.00% | ~194 |
 | Lost & Found & Lost Again | 44.00% | ~170 |
 | From Whence we Came | 44.00% | ~170 |
-| Fire and Flood | 41.00% | ~159 |
+| Fire and Flood | 42.00% | ~163 |
 | Spooky! | 38.00% | ~147 |
 | Shennong Herbalist | 36.00% | ~139 |
 | Treasure Hunt | 36.00% | ~139 |
-| Good Mama | 33.00% | ~128 |
+| Good Mama | 34.00% | ~132 |
 | O Captain My Captain | 32.00% | ~124 |
 | Plunderer | 30.00% | ~116 |
 | Taxonomist | 28.00% | ~108 |
@@ -27,9 +27,9 @@ Number of Ratings: 20  (23.09.2022)
 | Veteran Explorer | 22.00% | ~85 |
 | Red Flag Pirate | 20.00% | ~77 |
 | Iron Man | 17.00% | ~66 |
+| A Gentle Beast | 17.00% | ~66 |
 | Practical Palaeontology | 17.00% | ~66 |
 | Shortening of the Way | 16.00% | ~62 |
-| A Gentle Beast | 16.00% | ~62 |
 | Adventurer | 15.00% | ~58 |
 | For the Club! | 15.00% | ~58 |
 | Dapper | 15.00% | ~58 |

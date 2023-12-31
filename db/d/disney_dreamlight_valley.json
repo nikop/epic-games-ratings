@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -5673,10 +5673,10 @@
       "Count": 549
     }
   ],
-  "EOS_Progressed": 13534,
-  "EOS_Completed": 335,
+  "EOS_Progressed": 13535,
+  "EOS_Completed": 336,
   "EOS_NewPlayers": 456,
-  "EOS_NewCompleters": 10,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
     {
@@ -23778,6 +23778,11 @@
       "Time": "2023-12-31T18:08:52.4272484+00:00",
       "NumProgressed": 13534,
       "NumCompleted": 335
+    },
+    {
+      "Time": "2023-12-31T19:09:01.9188519+00:00",
+      "NumProgressed": 13535,
+      "NumCompleted": 336
     }
   ],
   "TotalAchievements": 15,
@@ -23805,7 +23810,7 @@
       "Name": "Bestest Friend",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 6090
+      "UsersEstimate": 6091
     },
     {
       "ID": "Chef_Cook",
@@ -23813,7 +23818,7 @@
       "Name": "Chef Cook",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 2571
+      "UsersEstimate": 2572
     },
     {
       "ID": "Chit_Chatter",
@@ -23829,7 +23834,7 @@
       "Name": "Constructor",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 6767
+      "UsersEstimate": 6768
     },
     {
       "ID": "Duty_Bound",
@@ -23885,7 +23890,7 @@
       "Name": "Renovator",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 6767
+      "UsersEstimate": 6768
     },
     {
       "ID": "Thorn_Cleaner",
@@ -23901,23 +23906,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 8120
+      "UsersEstimate": 8121
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 13534,
-      "Completed": 335
+      "Progressed": 13535,
+      "Completed": 336
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-12-31T13:58:09.6224899+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:08:52.4272478+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:09:01.9188512+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:02.6007727+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:58:27.4016695+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:08:52.4273434+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:58:24.930419+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:09:01.9189464+00:00"
 }

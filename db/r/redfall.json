@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -347,7 +347,7 @@
   ],
   "EOS_Progressed": 2185,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3918,9 +3918,9 @@
       "ID": "Achievement_025",
       "SetID": "6b34g18",
       "Name": "Grounded",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 131
     },
     {
       "ID": "Achievement_026",
@@ -4271,8 +4271,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-31T15:59:03.0757989+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:05:22.3805492+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:05:21.9038801+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.8280502+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:59:36.4857616+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:05:22.3806142+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:59:34.1708896+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:05:21.9039437+00:00"
 }

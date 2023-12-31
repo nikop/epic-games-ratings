@@ -13,8 +13,8 @@ Rating: 4.29 (Ranked 873)
 | Look Mom, I Can Fly | 24.00% | ~148 |
 | National Amateurs Champion | 18.00% | ~111 |
 | Junk Collector | 16.00% | ~99 |
+| Hating Them Tin Cans | 16.00% | ~99 |
 | Trashing Around | 15.00% | ~92 |
-| Hating Them Tin Cans | 15.00% | ~92 |
 | Challengers Champion | 12.00% | ~74 |
 | Pro Internationals Champion | 8.00% | ~49 |
 | Cash For Crashes | 7.00% | ~43 |

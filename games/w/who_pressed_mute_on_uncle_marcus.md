@@ -8,7 +8,7 @@
 | And away we go! | 88.00% | ~249 |
 | Job one. DONE! | 61.00% | ~173 |
 | You are Carol Vorderman | 57.00% | ~161 |
-| Toby foolery | 50.00% | ~142 |
+| Toby foolery | 51.00% | ~144 |
 | Instinct | 39.00% | ~110 |
 | Don't fear the baldness | 38.00% | ~108 |
 | Blow | 35.00% | ~99 |

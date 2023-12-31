@@ -3,7 +3,7 @@
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 69,
-  "Ranking_Popularity": 230,
+  "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 279,
@@ -3695,9 +3695,9 @@
       "Count": 338
     }
   ],
-  "EOS_Progressed": 19820,
+  "EOS_Progressed": 19822,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 695,
+  "EOS_NewPlayers": 696,
   "EOS_NewCompleters": -4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -17890,6 +17890,11 @@
       "Time": "2023-12-31T18:03:57.0977178+00:00",
       "NumProgressed": 19820,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-31T19:03:56.1560517+00:00",
+      "NumProgressed": 19822,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17972,9 +17977,9 @@
       "ID": "MetalChain",
       "SetID": "cfbk359",
       "Name": "Refinery",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 198
     },
     {
       "ID": "Win5Years",
@@ -18238,7 +18243,7 @@
       "Name": "Taking Action",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1387
+      "UsersEstimate": 1388
     },
     {
       "ID": "WinWithResolve",
@@ -18302,7 +18307,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1387
+      "UsersEstimate": 1388
     },
     {
       "ID": "WinNearFrosts",
@@ -18326,7 +18331,7 @@
       "Name": "Overgrown Library",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1387
+      "UsersEstimate": 1388
     },
     {
       "ID": "WinNearPetrified",
@@ -18373,15 +18378,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19820,
+      "Progressed": 19822,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-31T17:57:18.8110179+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:03:57.0977174+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:03:56.1560514+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:57:18.8110184+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:03:57.097803+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:57:19.7048452+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:03:56.1561696+00:00"
 }

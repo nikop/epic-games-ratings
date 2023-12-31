@@ -3,12 +3,12 @@
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
   "Ranking_Rating": 464,
-  "Ranking_Popularity": 283,
-  "Ranking_PopularitySum": 336,
+  "Ranking_Popularity": 282,
+  "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -807,9 +807,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3680,
+  "EOS_Progressed": 3681,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5202,6 +5202,11 @@
       "Time": "2023-12-31T18:04:30.6256311+00:00",
       "NumProgressed": 3680,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T19:04:29.696381+00:00",
+      "NumProgressed": 3681,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5229,7 +5234,7 @@
       "Name": "Look Over There!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "BloodAndIron",
@@ -5437,7 +5442,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "Kills_Streak",
@@ -5747,30 +5752,30 @@
       "ID": "TentarusHive_Destroyed",
       "SetID": "2im8phi",
       "Name": "Hive Exterminator",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 74
     }
   ],
   "AchievementSets": [
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3680,
+      "Progressed": 3681,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3680,
+      "Progressed": 3681,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-29T09:03:12.9031427+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:04:30.6256306+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:04:29.6963807+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.5390055+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:03:07.2671339+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:04:30.6257063+00:00"
+  "LastUpdate_Ratings": "2023-12-31T19:03:04.8153594+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:04:29.696449+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 326,
+  "Ranking_Rating": 325,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1172,
+  "EOS_Progressed": 1173,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -3381,6 +3381,11 @@
       "Time": "2023-12-31T17:09:50.5700132+00:00",
       "NumProgressed": 1172,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-31T19:10:03.4871697+00:00",
+      "NumProgressed": 1173,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3472,7 +3477,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "EntresolChests1",
@@ -3504,7 +3509,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -3512,7 +3517,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3542,9 +3547,9 @@
       "ID": "GadgetProgress1",
       "SetID": "a9e499d",
       "Name": "Whiz Kid",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 164
     },
     {
       "ID": "GrindingTime1",
@@ -3584,7 +3589,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "MapCompletion1",
@@ -3632,7 +3637,7 @@
       "Name": "Time Flies",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ParryBoss",
@@ -3640,7 +3645,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ParryRepeated1",
@@ -3648,7 +3653,7 @@
       "Name": "No, Thanks!",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "PhaseDiveCounter",
@@ -3688,7 +3693,7 @@
       "Name": "Honest Mistake",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ScrambotCompletion1",
@@ -3720,7 +3725,7 @@
       "Name": "Fast Learner",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "SpeedRun",
@@ -3768,7 +3773,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "WarwickDefeated",
@@ -3776,7 +3781,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "WatcherFought",
@@ -3815,7 +3820,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1172,
+      "Progressed": 1173,
       "Completed": 6
     }
   ],
@@ -3823,8 +3828,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:09:54.3678892+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:10:03.4871695+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:02:39.6024377+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:09:54.3679625+00:00"
+  "LastUpdate_Ratings": "2023-12-31T19:02:36.5177986+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:10:03.4872272+00:00"
 }

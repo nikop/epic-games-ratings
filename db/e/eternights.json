@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -2741,9 +2741,9 @@
       "ID": "ACHIEVEMENT_1_ShelterEscape",
       "SetID": "9bke6f1",
       "Name": "Shelter Escape",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 537
+      "UsersEstimate": 544
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -2870,8 +2870,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-31T15:57:10.2736309+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:08:47.7711276+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:08:52.4873986+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.2091482+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:57:24.7429759+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:08:47.7711549+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:57:24.6805675+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:08:52.487429+00:00"
 }

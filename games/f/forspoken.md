@@ -5,9 +5,9 @@ Rating: 4.13 (Ranked 996)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 12.00% | ~5,506 |
-| Unlocked Potential | 11.00% | ~5,047 |
-| Tinkerer | 8.00% | ~3,670 |
+| Attachments | 12.00% | ~5,507 |
+| Unlocked Potential | 11.00% | ~5,048 |
+| Tinkerer | 8.00% | ~3,671 |
 | Leapfrogger | 7.00% | ~3,212 |
 | Knock 'Em Dead | 7.00% | ~3,212 |
 | Pilgrimage: Initiate | 7.00% | ~3,212 |
@@ -17,11 +17,11 @@ Rating: 4.13 (Ranked 996)
 | No Mercy | 5.00% | ~2,294 |
 | Explorer: Seeker | 5.00% | ~2,294 |
 | Help Me Out Here | 5.00% | ~2,294 |
-| Through the Eyes of Another: Empath | 4.00% | ~1,835 |
-| The Interloper | 4.00% | ~1,835 |
-| Outdoorsperson | 3.00% | ~1,376 |
-| Hop, Step, Jump | 3.00% | ~1,376 |
-| Endless Runner | 3.00% | ~1,376 |
+| Through the Eyes of Another: Empath | 4.00% | ~1,836 |
+| The Interloper | 4.00% | ~1,836 |
+| Outdoorsperson | 3.00% | ~1,377 |
+| Hop, Step, Jump | 3.00% | ~1,377 |
+| Endless Runner | 3.00% | ~1,377 |
 | What Must Be Done | 2.00% | ~918 |
 | Might and Main | 2.00% | ~918 |
 | Damned If You Do... | 2.00% | ~918 |
@@ -59,7 +59,7 @@ Rating: 4.13 (Ranked 996)
 | Remembrance | 0.10% | ~46 |
 | Cat Person | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,880 (Ranked 124)  
+Progressed: 45,888 (Ranked 124)  
 Completed: 4 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 4 (0.01%) (Ranked 368)
 | 2023-12-28 | 45,528 | 3 |
 | 2023-12-29 | 45,657 | 3 |
 | 2023-12-30 | 45,788 | 3 |
-| 2023-12-31 | 45,880 | 4 |
+| 2023-12-31 | 45,888 | 4 |
 ## Awards
 Max (Character Customization): 35  (Ranked 496)  
 Sum: 35 (Ranked 524)  

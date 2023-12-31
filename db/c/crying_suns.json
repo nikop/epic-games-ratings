@@ -3,12 +3,12 @@
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
   "Ranking_Rating": 611,
-  "Ranking_Popularity": 285,
+  "Ranking_Popularity": 284,
   "Ranking_PopularitySum": 396,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -685,7 +685,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473123,
+  "EOS_Progressed": 473126,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 1,
@@ -27065,6 +27065,11 @@
       "Time": "2023-12-31T18:09:58.156198+00:00",
       "NumProgressed": 473123,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-31T19:10:07.3756802+00:00",
+      "NumProgressed": 473126,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -27076,7 +27081,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70968
+      "UsersEstimate": 70969
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -27084,7 +27089,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70968
+      "UsersEstimate": 70969
     },
     {
       "ID": "achievement_first_death",
@@ -27100,7 +27105,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 104087
+      "UsersEstimate": 104088
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -27108,7 +27113,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70968
+      "UsersEstimate": 70969
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -27116,7 +27121,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47312
+      "UsersEstimate": 47313
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -27132,7 +27137,7 @@
       "Name": "Chapter V: Memories of None",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 28387
+      "UsersEstimate": 28388
     },
     {
       "ID": "achievement_story_ending_earth",
@@ -27164,7 +27169,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312261
+      "UsersEstimate": 312263
     },
     {
       "ID": "achievement_story_landa",
@@ -27196,7 +27201,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118281
+      "UsersEstimate": 118282
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -27204,7 +27209,7 @@
       "Name": "Meet your maker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28387
+      "UsersEstimate": 28388
     },
     {
       "ID": "achievement_story_meet_okonkwo",
@@ -27244,7 +27249,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70968
+      "UsersEstimate": 70969
     },
     {
       "ID": "achievement_story_neon_child",
@@ -27260,7 +27265,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160862
+      "UsersEstimate": 160863
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -27284,7 +27289,7 @@
       "Name": "The Impersonator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28387
+      "UsersEstimate": 28388
     },
     {
       "ID": "achievement_unlock_officer_as_2",
@@ -27292,7 +27297,7 @@
       "Name": "The Kid",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28387
+      "UsersEstimate": 28388
     },
     {
       "ID": "achievement_unlock_officer_church_1",
@@ -27300,7 +27305,7 @@
       "Name": "The Evangelist",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28387
+      "UsersEstimate": 28388
     },
     {
       "ID": "achievement_unlock_officer_church_2",
@@ -27308,7 +27313,7 @@
       "Name": "The Inquisitor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28387
+      "UsersEstimate": 28388
     },
     {
       "ID": "achievement_unlock_officer_empire_1",
@@ -27324,7 +27329,7 @@
       "Name": "The Ace Pilot",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28387
+      "UsersEstimate": 28388
     },
     {
       "ID": "achievement_unlock_officer_kb_1",
@@ -27332,7 +27337,7 @@
       "Name": "The Tech Med",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28387
+      "UsersEstimate": 28388
     },
     {
       "ID": "achievement_unlock_officer_kb_2",
@@ -27340,7 +27345,7 @@
       "Name": "The Mech Soldier",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28387
+      "UsersEstimate": 28388
     },
     {
       "ID": "achievement_unlock_officer_kickstarter_1",
@@ -27348,7 +27353,7 @@
       "Name": "The lucky charm",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28387
+      "UsersEstimate": 28388
     },
     {
       "ID": "achievement_unlock_officer_pirate_1",
@@ -27356,7 +27361,7 @@
       "Name": "The Anonymous",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28387
+      "UsersEstimate": 28388
     },
     {
       "ID": "achievement_unlock_officer_pirate_2",
@@ -27364,7 +27369,7 @@
       "Name": "The Smuggler",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28387
+      "UsersEstimate": 28388
     },
     {
       "ID": "achievement_unlock_officer_scrapper_1",
@@ -27372,7 +27377,7 @@
       "Name": "The Crazy Repairman",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28387
+      "UsersEstimate": 28388
     },
     {
       "ID": "achievement_unlock_officer_scrapper_2",
@@ -27380,7 +27385,7 @@
       "Name": "The Weasel",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28387
+      "UsersEstimate": 28388
     },
     {
       "ID": "achievement_win_all_chapers_with_all_bs_easy_normal",
@@ -27500,7 +27505,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 208174
+      "UsersEstimate": 208175
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -27508,7 +27513,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141937
+      "UsersEstimate": 141938
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -27516,7 +27521,7 @@
       "Name": "Survivor",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 9462
+      "UsersEstimate": 9463
     },
     {
       "ID": "achievement_win_expedition_with_monster_noloss",
@@ -27532,7 +27537,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184518
+      "UsersEstimate": 184519
     },
     {
       "ID": "achievement_win_run_hard",
@@ -27588,7 +27593,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 104087
+      "UsersEstimate": 104088
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -27707,21 +27712,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17057,
+      "Progressed": 17060,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473123,
+      "Progressed": 473126,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-29T21:58:28.6192346+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:09:58.1561976+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:10:07.37568+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:35.1454991+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:59:31.4512286+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:09:58.1563699+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:59:29.260347+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:10:07.3758436+00:00"
 }

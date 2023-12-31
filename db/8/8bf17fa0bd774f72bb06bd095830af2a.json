@@ -4,8 +4,8 @@
   "ProductSlug": "the-dragoness-command-of-the-flame-b3b544",
   "Ranking_EOS_Progress": 562,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 477,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 501,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-09T23:00:00+00:00",
     "PcReleaseDate": "2022-09-01T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 41,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -239,9 +239,9 @@
       "ID": "SteamAchievement_CompleteAllMapChallengeAtOnce",
       "SetID": "b8gj0ip",
       "Name": "One Fell Swoop",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "SteamAchievement_KillDesertMonsters",
@@ -319,9 +319,9 @@
       "ID": "SteamAchievment_BuildAllBuildings",
       "SetID": "b8gj0ip",
       "Name": "Construction Master",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SteamAchievment_BuildOneBuilding",
@@ -471,9 +471,9 @@
       "ID": "SteamAchievment_CompleteQuest13",
       "SetID": "b8gj0ip",
       "Name": "On the trail",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SteamAchievment_CompleteQuest14",
@@ -527,9 +527,9 @@
       "ID": "SteamAchievment_MergeAnyArtifactOnMaxLevel",
       "SetID": "b8gj0ip",
       "Name": "Merging Specialist",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -542,8 +542,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:06:16.0042628+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:06:14.354028+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:22.1421686+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:56:55.6844416+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:06:16.0042897+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:56:57.2706825+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:06:14.3540517+00:00"
 }

@@ -6,48 +6,48 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~399,318 |
-| Happy Returns | 78.00% | ~384,528 |
-| Hey! That's mine! | 78.00% | ~384,528 |
-| Field Promotion | 74.00% | ~364,809 |
-| Leadhead | 71.00% | ~350,019 |
-| Eradicator | 67.00% | ~330,300 |
-| Surplus | 66.00% | ~325,370 |
-| I Spy | 64.00% | ~315,510 |
-| Burn Baby Burn | 59.00% | ~290,861 |
-| Yellow Beats Green | 56.00% | ~276,072 |
-| Salvage Rights | 53.00% | ~261,282 |
-| What IS that? | 51.00% | ~251,422 |
-| Close Call | 50.00% | ~246,492 |
-| Pew Pew | 50.00% | ~246,492 |
-| Penny Pincher | 49.00% | ~241,563 |
-| Arsenal | 46.00% | ~226,773 |
-| Boot Camp | 45.00% | ~221,843 |
-| Flawless Victory | 42.00% | ~207,054 |
-| Confident | 41.00% | ~202,124 |
-| Exterminator | 36.00% | ~177,475 |
-| Sharpshooter | 34.00% | ~167,615 |
-| Not So Fast | 33.00% | ~162,685 |
-| Great Ball of Fire | 32.00% | ~157,755 |
-| No Sale | 31.00% | ~152,825 |
-| Kaboom! | 30.00% | ~147,896 |
-| Liquidator | 29.00% | ~142,966 |
-| High Voltage | 24.00% | ~118,316 |
-| Filthy Rich | 20.00% | ~98,597 |
-| Pyrrhic Victory | 18.00% | ~88,737 |
-| The Not-So-Friendly Skies | 18.00% | ~88,737 |
-| Power Builder | 17.00% | ~83,807 |
-| Death From Above | 16.00% | ~78,878 |
-| Retry | 16.00% | ~78,878 |
-| Head Trauma | 12.00% | ~59,158 |
-| Full Defense | 10.00% | ~49,298 |
+| First Blood | 81.00% | ~399,324 |
+| Happy Returns | 78.00% | ~384,535 |
+| Hey! That's mine! | 78.00% | ~384,535 |
+| Field Promotion | 74.00% | ~364,815 |
+| Leadhead | 71.00% | ~350,025 |
+| Eradicator | 67.00% | ~330,305 |
+| Surplus | 66.00% | ~325,375 |
+| I Spy | 64.00% | ~315,516 |
+| Burn Baby Burn | 59.00% | ~290,866 |
+| Yellow Beats Green | 56.00% | ~276,076 |
+| Salvage Rights | 53.00% | ~261,286 |
+| What IS that? | 51.00% | ~251,426 |
+| Close Call | 50.00% | ~246,496 |
+| Pew Pew | 50.00% | ~246,496 |
+| Penny Pincher | 49.00% | ~241,567 |
+| Arsenal | 46.00% | ~226,777 |
+| Boot Camp | 45.00% | ~221,847 |
+| Flawless Victory | 42.00% | ~207,057 |
+| Confident | 41.00% | ~202,127 |
+| Exterminator | 36.00% | ~177,477 |
+| Sharpshooter | 34.00% | ~167,618 |
+| Not So Fast | 33.00% | ~162,688 |
+| Great Ball of Fire | 32.00% | ~157,758 |
+| No Sale | 31.00% | ~152,828 |
+| Kaboom! | 30.00% | ~147,898 |
+| Liquidator | 29.00% | ~142,968 |
+| High Voltage | 24.00% | ~118,318 |
+| Filthy Rich | 20.00% | ~98,599 |
+| Pyrrhic Victory | 18.00% | ~88,739 |
+| The Not-So-Friendly Skies | 18.00% | ~88,739 |
+| Power Builder | 17.00% | ~83,809 |
+| Death From Above | 16.00% | ~78,879 |
+| Retry | 16.00% | ~78,879 |
+| Head Trauma | 12.00% | ~59,159 |
+| Full Defense | 10.00% | ~49,299 |
 | Overseer | 9.00% | ~44,369 |
 | Annihilator | 8.00% | ~39,439 |
 | If At First You Don't Succeed, Retry Again | 8.00% | ~39,439 |
-| Indecisive | 6.00% | ~29,579 |
-| Base Defender | 5.00% | ~24,649 |
-| Relay Race | 5.00% | ~24,649 |
-| Tower Expert | 4.00% | ~19,719 |
+| Indecisive | 6.00% | ~29,580 |
+| Base Defender | 5.00% | ~24,650 |
+| Relay Race | 5.00% | ~24,650 |
+| Tower Expert | 4.00% | ~19,720 |
 | Diversity | 3.00% | ~14,790 |
 | Full Potential | 3.00% | ~14,790 |
 | Minimalist | 2.00% | ~9,860 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~493 |
 | You Monster | 0.10% | ~493 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 492,985 (Ranked 39)  
+Progressed: 492,993 (Ranked 39)  
 Completed: 5 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,11 +349,11 @@ Completed: 5 (0.00%) (Ranked 391)
 | 2023-12-28 | 492,731 | 5 |
 | 2023-12-29 | 492,815 | 5 |
 | 2023-12-30 | 492,909 | 5 |
-| 2023-12-31 | 492,985 | 5 |
+| 2023-12-31 | 492,993 | 5 |
 ## Awards
-Max (Great for Beginners): 263  (Ranked 276)  
+Max (Great for Beginners): 263  (Ranked 275)  
 Sum: 1,738 (Ranked 223)  
-Diff (max vs sum): 53  
+Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 263 |

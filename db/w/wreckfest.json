@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -1820,9 +1820,9 @@
       "ID": "WreckOpponentsA",
       "SetID": "5hd282c",
       "Name": "Hating Them Tin Cans",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 99
     },
     {
       "ID": "WreckOpponentsBus",
@@ -1845,8 +1845,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-28T22:58:24.1175943+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:08:30.1355485+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:08:34.6361815+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.5719432+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:59:23.2757112+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:08:30.1355671+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:59:20.927374+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:08:34.6361971+00:00"
 }

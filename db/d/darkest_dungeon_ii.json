@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10362,9 +10362,9 @@
       "Count": 1071
     }
   ],
-  "EOS_Progressed": 130997,
+  "EOS_Progressed": 131003,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1375,
+  "EOS_NewPlayers": 1370,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37702,6 +37702,11 @@
       "Time": "2023-12-31T18:09:23.2000112+00:00",
       "NumProgressed": 130997,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-31T19:09:32.1196172+00:00",
+      "NumProgressed": 131003,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38249,7 +38254,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "combat_kill_collector",
@@ -38297,7 +38302,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -38305,7 +38310,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "quest_complete_crusader",
@@ -38344,21 +38349,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130997,
+      "Progressed": 131003,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5866,
+      "Progressed": 5872,
       "Completed": 820
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-31T17:57:49.354731+00:00",
-  "LastChanged_Achievements": "2023-12-31T18:09:23.2000109+00:00",
+  "LastChanged_Achievements": "2023-12-31T19:09:32.1196167+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:57:49.3547318+00:00",
-  "LastUpdate_Achievements": "2023-12-31T18:09:23.2001728+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:57:49.4951438+00:00",
+  "LastUpdate_Achievements": "2023-12-31T19:09:32.119809+00:00"
 }

@@ -19,9 +19,9 @@ Rating: 3.61 (Ranked 1,080)
 | Welcome to the Neighborhood | 7.00% | ~153 |
 | Throw The First Stone | 7.00% | ~153 |
 | Heart Attack | 7.00% | ~153 |
+| Grounded | 6.00% | ~131 |
 | Skin of Their Teeth | 6.00% | ~131 |
 | Bad Wiring | 5.00% | ~109 |
-| Grounded | 5.00% | ~109 |
 | Neighborhood Revitalization | 4.00% | ~87 |
 | Radio Silence | 4.00% | ~87 |
 | Helping Hand | 3.00% | ~66 |

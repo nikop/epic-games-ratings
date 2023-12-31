@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 87.00% | ~3,435 |
-| Flanked! | 75.00% | ~2,961 |
-| Economics 101 | 59.00% | ~2,329 |
-| Get Rich Quick | 42.00% | ~1,658 |
-| Do the Splits | 37.00% | ~1,461 |
-| Maestro | 25.00% | ~987 |
+| You and what Army? | 87.00% | ~3,436 |
+| Flanked! | 75.00% | ~2,962 |
+| Economics 101 | 59.00% | ~2,330 |
+| Get Rich Quick | 41.00% | ~1,620 |
+| Do the Splits | 37.00% | ~1,462 |
+| Maestro | 25.00% | ~988 |
 | Full Employment | 18.00% | ~711 |
 | Clay Fighter | 16.00% | ~632 |
-| All Ovens Blazing | 13.00% | ~513 |
-| Nowhere left to Hide | 13.00% | ~513 |
+| All Ovens Blazing | 13.00% | ~514 |
+| Nowhere left to Hide | 13.00% | ~514 |
 | Boulder Clash | 12.00% | ~474 |
 | Held Back by the Roots | 11.00% | ~434 |
 | Well Supplied | 10.00% | ~395 |
@@ -24,9 +24,9 @@
 | Master of the Brawl | 7.00% | ~276 |
 | Your Biggest Fans | 6.00% | ~237 |
 | A Secret Recipe | 6.00% | ~237 |
-| An Ally in Need | 5.00% | ~197 |
-| For the Queen | 5.00% | ~197 |
-| Not a Drop Wasted | 5.00% | ~197 |
+| An Ally in Need | 5.00% | ~198 |
+| For the Queen | 5.00% | ~198 |
+| Not a Drop Wasted | 5.00% | ~198 |
 | Reinforcements | 4.00% | ~158 |
 | Sweet Revenge | 4.00% | ~158 |
 | We Have the Technology | 4.00% | ~158 |
@@ -35,10 +35,10 @@
 | Almost Like Winning | 3.00% | ~118 |
 | The Handyman Can! | 3.00% | ~118 |
 | A Brief Moment of Respite | 3.00% | ~118 |
-| Untouchable | 1.00% | ~39 |
+| Untouchable | 1.00% | ~40 |
 | All Geared Up | 0.90% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,948 (Ranked 210)  
+Progressed: 3,950 (Ranked 210)  
 Completed: 11 (0.28%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 11 (0.28%) (Ranked 255)
 | 2023-12-28 | 3,927 | 11 |
 | 2023-12-29 | 3,933 | 11 |
 | 2023-12-30 | 3,944 | 11 |
-| 2023-12-31 | 3,948 | 11 |
+| 2023-12-31 | 3,950 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@ Number of Ratings: 371  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Executioner | 17.00% | ~626 |
-| Look Over There! | 13.00% | ~478 |
-| Watch Where You Step... | 13.00% | ~478 |
+| Look Over There! | 13.00% | ~479 |
+| Watch Where You Step... | 13.00% | ~479 |
 | Not So Fast... | 12.00% | ~442 |
 | An Ill Omen | 12.00% | ~442 |
 | Purging Spree | 9.00% | ~331 |
@@ -23,12 +23,12 @@ Number of Ratings: 371  (23.09.2022)
 | Hold Your Ground | 3.00% | ~110 |
 | Nemesis Master | 3.00% | ~110 |
 | Just a Scratch | 3.00% | ~110 |
-| Hive Exterminator | 3.00% | ~110 |
 | Daemonkeeper | 2.00% | ~74 |
 | Corruption Cleanser | 2.00% | ~74 |
 | Efficient Killer | 2.00% | ~74 |
 | A Gift Spurned | 2.00% | ~74 |
 | Execution Force | 2.00% | ~74 |
+| Hive Exterminator | 2.00% | ~74 |
 | Fleetmaster | 1.00% | ~37 |
 | Exterminator | 1.00% | ~37 |
 | Mind Like a Fortress | 1.00% | ~37 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,680 (Ranked 216)  
+Progressed: 3,681 (Ranked 216)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,10 +299,10 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 3,628 | 0 |
 | 2023-12-29 | 3,644 | 0 |
 | 2023-12-30 | 3,663 | 0 |
-| 2023-12-31 | 3,680 | 0 |
+| 2023-12-31 | 3,681 | 0 |
 ## Awards
-Max (Character Customization): 232  (Ranked 283)  
-Sum: 493 (Ranked 336)  
+Max (Character Customization): 232  (Ranked 282)  
+Sum: 493 (Ranked 335)  
 Diff (max vs sum): -53  
 | Award | Count |
 | ----- | ----- |
