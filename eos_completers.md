@@ -43,25 +43,25 @@
 | 41 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
 | 42 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 43 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.37% |
-| 44 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.18% |
+| 44 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.17% |
 | 45 | [Smelter](games/s/smelter.md) | 8.89% |
-| 46 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.70% |
-| 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.63% |
-| 48 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 8.57% |
+| 46 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.63% |
+| 47 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 8.51% |
+| 47 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.51% |
 | 49 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 8.33% |
 | 50 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.95% |
-| 51 | [Ravenlok](games/r/ravenlok.md) | 7.74% |
-| 52 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.73% |
+| 51 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.73% |
+| 51 | [Ravenlok](games/r/ravenlok.md) | 7.73% |
 | 53 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 54 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.66% |
 | 55 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.50% |
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 57 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 7.41% |
 | 58 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.25% |
-| 59 | [Sonic Origins](games/s/sonic_origins.md) | 7.03% |
-| 60 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.02% |
-| 61 | [Scorn](games/s/scorn.md) | 6.96% |
-| 62 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.64% |
+| 59 | [Sonic Origins](games/s/sonic_origins.md) | 7.17% |
+| 60 | [Scorn](games/s/scorn.md) | 6.96% |
+| 61 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.78% |
+| 62 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.62% |
 | 63 | [Anna's Quest](games/a/anna's_quest.md) | 6.59% |
 | 64 | [Time Loader](games/t/time_loader.md) | 6.57% |
 | 65 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.35% |
@@ -85,15 +85,15 @@
 | 83 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.46% |
 | 84 | [JARS](games/j/jars.md) | 4.42% |
 | 85 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 4.41% |
-| 86 | [The Bunker](games/t/the_bunker.md) | 4.27% |
+| 86 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.27% |
 | 87 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.26% |
-| 88 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.21% |
-| 89 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.19% |
+| 88 | [The Bunker](games/t/the_bunker.md) | 4.24% |
+| 89 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.21% |
 | 90 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 4.17% |
 | 91 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 4.00% |
 | 92 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 3.85% |
 | 93 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.82% |
-| 94 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.77% |
+| 94 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.76% |
 | 95 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
 | 96 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
 | 96 | [Doodle God](games/d/doodle_god.md) | 3.70% |
@@ -186,8 +186,8 @@
 | 183 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.88% |
 | 185 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 0.86% |
 | 186 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.85% |
-| 187 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 0.84% |
-| 188 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.83% |
+| 187 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 0.83% |
+| 187 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.83% |
 | 189 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
 | 189 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.80% |
 | 191 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.78% |
@@ -283,15 +283,15 @@
 | 280 | [Scathe](games/s/scathe.md) | 0.17% |
 | 280 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.17% |
 | 283 | [Blanc](games/b/blanc.md) | 0.16% |
+| 283 | [Dead Space](games/d/dead_space.md) | 0.16% |
 | 283 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.16% |
 | 283 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 283 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 283 | [Lost Ruins](games/l/lost_ruins.md) | 0.16% |
 | 283 | [Tangles](games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 0.16% |
 | 283 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.16% |
-| 290 | [Dead Space](games/d/dead_space.md) | 0.15% |
-| 290 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
-| 290 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.15% |
+| 291 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
+| 291 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.15% |
 | 293 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.14% |
 | 293 | [RAILGRADE](games/r/railgrade.md) | 0.14% |
 | 293 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.14% |
