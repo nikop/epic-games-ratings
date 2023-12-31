@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1041,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -3773,9 +3773,9 @@
       "ID": "achievement_46",
       "SetID": "2cpn27e",
       "Name": "Charmed by the Hunt",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 489
+      "UsersEstimate": 500
     },
     {
       "ID": "achievement_47",
@@ -3843,8 +3843,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-31T20:10:21.3553598+00:00",
+  "LastChanged_Achievements": "2023-12-31T21:09:47.6705334+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:22.7723621+00:00",
-  "LastUpdate_Ratings": "2023-12-31T20:00:04.948484+00:00",
-  "LastUpdate_Achievements": "2023-12-31T20:10:21.3554184+00:00"
+  "LastUpdate_Ratings": "2023-12-31T20:59:56.0835603+00:00",
+  "LastUpdate_Achievements": "2023-12-31T21:09:47.6705839+00:00"
 }

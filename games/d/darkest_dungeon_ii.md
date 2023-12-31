@@ -1,7 +1,7 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 260)  
+Rating: 4.68 (Ranked 261)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -16,33 +16,33 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 5.00% | ~6,551 |
 | Ploughshares to Swords | 5.00% | ~294 |
 | Bloody Graduation | 5.00% | ~294 |
-| Don't Make Me Turn This Coach Around | 4.00% | ~5,240 |
-| Serenity Now! | 4.00% | ~5,240 |
-| It Rings a Bell | 4.00% | ~5,240 |
-| Not Today! | 4.00% | ~5,240 |
-| Meat and Greet | 4.00% | ~5,240 |
-| Catch and Decease | 4.00% | ~5,240 |
-| It Happens | 4.00% | ~5,240 |
-| Rush Hour | 4.00% | ~5,240 |
-| To Grandmother's House | 4.00% | ~5,240 |
-| A Place to Lay Your Head | 4.00% | ~5,240 |
-| FNG | 4.00% | ~5,240 |
+| Don't Make Me Turn This Coach Around | 4.00% | ~5,241 |
+| Serenity Now! | 4.00% | ~5,241 |
+| It Rings a Bell | 4.00% | ~5,241 |
+| Not Today! | 4.00% | ~5,241 |
+| Meat and Greet | 4.00% | ~5,241 |
+| Catch and Decease | 4.00% | ~5,241 |
+| It Happens | 4.00% | ~5,241 |
+| Rush Hour | 4.00% | ~5,241 |
+| To Grandmother's House | 4.00% | ~5,241 |
+| A Place to Lay Your Head | 4.00% | ~5,241 |
+| FNG | 4.00% | ~5,241 |
 | Friends 'Til the End | 4.00% | ~235 |
-| Resurrection | 3.00% | ~3,930 |
-| Unleash Hell | 3.00% | ~3,930 |
-| Funny Guy | 3.00% | ~3,930 |
-| Long Live the King | 3.00% | ~3,930 |
-| Unfulfilled Desires | 3.00% | ~3,930 |
-| Dissector | 3.00% | ~3,930 |
-| Banishment | 3.00% | ~3,930 |
-| Now Stay Dead | 3.00% | ~3,930 |
-| Spelunker | 3.00% | ~3,930 |
-| Merry Time | 3.00% | ~3,930 |
-| Harvest Festival | 3.00% | ~3,930 |
-| Ramble On | 3.00% | ~3,930 |
-| Whale | 3.00% | ~3,930 |
-| Nope | 3.00% | ~3,930 |
-| Unshackled | 3.00% | ~3,930 |
+| Resurrection | 3.00% | ~3,931 |
+| Unleash Hell | 3.00% | ~3,931 |
+| Funny Guy | 3.00% | ~3,931 |
+| Long Live the King | 3.00% | ~3,931 |
+| Unfulfilled Desires | 3.00% | ~3,931 |
+| Dissector | 3.00% | ~3,931 |
+| Banishment | 3.00% | ~3,931 |
+| Now Stay Dead | 3.00% | ~3,931 |
+| Spelunker | 3.00% | ~3,931 |
+| Merry Time | 3.00% | ~3,931 |
+| Harvest Festival | 3.00% | ~3,931 |
+| Ramble On | 3.00% | ~3,931 |
+| Whale | 3.00% | ~3,931 |
+| Nope | 3.00% | ~3,931 |
+| Unshackled | 3.00% | ~3,931 |
 | Wyrdly Reconstructed | 2.00% | ~2,620 |
 | Boxcar Kid | 2.00% | ~2,620 |
 | This Looks Familiar | 2.00% | ~2,620 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,012 (Ranked 89)  
+Progressed: 131,018 (Ranked 89)  
 Completed: 3 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 3 (0.00%) (Ranked 391)
 | 2023-12-28 | 130,422 | 3 |
 | 2023-12-29 | 130,627 | 3 |
 | 2023-12-30 | 130,838 | 3 |
-| 2023-12-31 | 131,012 | 3 |
+| 2023-12-31 | 131,018 | 3 |
 ## Awards
 Max (Character Customization): 7,910  (Ranked 50)  
 Sum: 21,292 (Ranked 58)  

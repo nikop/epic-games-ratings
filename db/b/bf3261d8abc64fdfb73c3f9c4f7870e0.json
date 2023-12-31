@@ -4,8 +4,8 @@
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
   "Ranking_EOS_Progress": 500,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
     "PcReleaseDate": "2018-03-22T23:00:00+00:00",
@@ -480,9 +480,9 @@
       "ID": "achievement_berserk",
       "SetID": "bngbnfb",
       "Name": "Berserker",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_blance_is_my_choise",
@@ -544,9 +544,9 @@
       "ID": "achievement_fidelity_to_the_word",
       "SetID": "bngbnfb",
       "Name": "Oath-keeper",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_flit_alive",
@@ -831,8 +831,8 @@
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2023-12-31T20:10:11.2312104+00:00",
+  "LastChanged_Achievements": "2023-12-31T21:09:36.8327975+00:00",
   "LastUpdate_AppInfo": "2023-12-27T14:57:14.899745+00:00",
-  "LastUpdate_Ratings": "2023-12-31T20:02:48.4586685+00:00",
-  "LastUpdate_Achievements": "2023-12-31T20:10:11.2312486+00:00"
+  "LastUpdate_Ratings": "2023-12-31T21:02:24.7832203+00:00",
+  "LastUpdate_Achievements": "2023-12-31T21:09:36.8328349+00:00"
 }

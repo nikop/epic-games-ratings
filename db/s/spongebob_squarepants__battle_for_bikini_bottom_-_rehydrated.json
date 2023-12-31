@@ -323,9 +323,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 586,
+  "EOS_Progressed": 588,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -1593,6 +1593,11 @@
       "Time": "2023-12-31T20:08:48.0840642+00:00",
       "NumProgressed": 586,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-31T21:08:10.8118952+00:00",
+      "NumProgressed": 588,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1603,9 +1608,9 @@
       "ID": "ACH_ALL_ROBOTS",
       "SetID": "biiejkc",
       "Name": "Robot encyclopedia",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_ARE_YOU_READY_NOW",
@@ -1677,7 +1682,7 @@
       "Name": "Jellyfishing",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -1860,15 +1865,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 586,
+      "Progressed": 588,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-31T19:58:31.7111869+00:00",
-  "LastChanged_Achievements": "2023-12-31T20:08:48.0840639+00:00",
+  "LastChanged_Achievements": "2023-12-31T21:08:10.8118947+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2023-12-31T19:58:31.7111874+00:00",
-  "LastUpdate_Achievements": "2023-12-31T20:08:48.0840987+00:00"
+  "LastUpdate_Ratings": "2023-12-31T20:58:21.6098112+00:00",
+  "LastUpdate_Achievements": "2023-12-31T21:08:10.8119206+00:00"
 }

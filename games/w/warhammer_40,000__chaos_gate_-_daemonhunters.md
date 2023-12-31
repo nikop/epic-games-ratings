@@ -11,7 +11,7 @@ Number of Ratings: 371  (23.09.2022)
 | Watch Where You Step... | 13.00% | ~479 |
 | Not So Fast... | 12.00% | ~442 |
 | An Ill Omen | 12.00% | ~442 |
-| Purging Spree | 9.00% | ~331 |
+| Purging Spree | 9.00% | ~332 |
 | Blood for the Blood God! | 8.00% | ~295 |
 | Bloodless | 7.00% | ~258 |
 | Surgical Excision | 5.00% | ~184 |
@@ -21,8 +21,8 @@ Number of Ratings: 371  (23.09.2022)
 | Nemesis Master | 4.00% | ~147 |
 | Gunmaster | 4.00% | ~147 |
 | A Foul Creche | 4.00% | ~147 |
-| Hold Your Ground | 3.00% | ~110 |
-| Just a Scratch | 3.00% | ~110 |
+| Hold Your Ground | 3.00% | ~111 |
+| Just a Scratch | 3.00% | ~111 |
 | Daemonkeeper | 2.00% | ~74 |
 | Corruption Cleanser | 2.00% | ~74 |
 | Efficient Killer | 2.00% | ~74 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,682 (Ranked 216)  
+Progressed: 3,684 (Ranked 216)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 3,628 | 0 |
 | 2023-12-29 | 3,644 | 0 |
 | 2023-12-30 | 3,663 | 0 |
-| 2023-12-31 | 3,682 | 0 |
+| 2023-12-31 | 3,684 | 0 |
 ## Awards
 Max (Character Customization): 232  (Ranked 282)  
 Sum: 493 (Ranked 335)  

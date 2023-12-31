@@ -2,13 +2,13 @@
   "ID": "4b35838425c74992ad42e1276b2161ca",
   "Name": "Immortals Fenyx Rising Standard Edition",
   "ProductSlug": "immortals-fenyx-rising",
-  "Ranking_Rating": 426,
+  "Ranking_Rating": 444,
   "Ranking_Popularity": 174,
   "Ranking_PopularitySum": 248,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-12-03T16:00:00+00:00",
     "PcReleaseDate": "2020-12-03T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "NumberOfRatings": 791,
   "RatingHistory": [
     {
@@ -2506,18 +2506,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 1306,
       "NumberOfAwardsMax": 845
+    },
+    {
+      "Time": "2023-12-31T20:59:19.5929582+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1308,
+      "NumberOfAwardsMax": 847
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1306,
-  "NumberOfAwardsMax": 845,
+  "NumberOfAwards": 1308,
+  "NumberOfAwardsMax": 847,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 845
+      "Count": 847
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2585,8 +2591,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:58.8142388+00:00",
-  "LastChanged": "2023-12-31T09:58:21.6452391+00:00",
+  "LastChanged": "2023-12-31T20:59:19.592958+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.6728184+00:00",
-  "LastUpdate_Ratings": "2023-12-31T19:59:29.1785195+00:00",
-  "LastUpdate_Achievements": "2023-12-31T20:09:00.7833982+00:00"
+  "LastUpdate_Ratings": "2023-12-31T20:59:19.5929586+00:00",
+  "LastUpdate_Achievements": "2023-12-31T21:08:24.2101562+00:00"
 }

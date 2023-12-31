@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~34,380 |
-| Safety in the Storm | 23.00% | ~8,324 |
-| A Better Idea | 23.00% | ~8,324 |
-| Begin the Ceremony | 19.00% | ~6,876 |
-| Mission Accomplished | 18.00% | ~6,514 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~5,428 |
-| A Starfighter of Your Own | 13.00% | ~4,705 |
-| Asset Secured | 12.00% | ~4,343 |
-| Unkillable | 7.00% | ~2,533 |
-| Together, Vanguard | 7.00% | ~2,533 |
-| The Galaxy's Finest (Pilot) | 6.00% | ~2,171 |
-| Sound Strategy | 6.00% | ~2,171 |
+| Fracture at Fostar Haven | 95.00% | ~34,396 |
+| Safety in the Storm | 23.00% | ~8,327 |
+| A Better Idea | 23.00% | ~8,327 |
+| Begin the Ceremony | 19.00% | ~6,879 |
+| Mission Accomplished | 18.00% | ~6,517 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~5,431 |
+| A Starfighter of Your Own | 13.00% | ~4,707 |
+| Asset Secured | 12.00% | ~4,345 |
+| Unkillable | 7.00% | ~2,534 |
+| Together, Vanguard | 7.00% | ~2,534 |
+| The Galaxy's Finest (Pilot) | 6.00% | ~2,172 |
+| Sound Strategy | 6.00% | ~2,172 |
 | Stomped | 5.00% | ~1,810 |
 | Fearless | 4.00% | ~1,448 |
 | Back From the Brink | 4.00% | ~1,448 |
@@ -37,11 +37,11 @@
 | Unstoppable Ace | 0.50% | ~181 |
 | Seasoned Star Pilot | 0.40% | ~145 |
 | The Galaxy's Finest (Veteran) | 0.40% | ~145 |
+| Got 'Em | 0.40% | ~145 |
 | Special Modifications | 0.40% | ~145 |
 | Heavy Hitter | 0.30% | ~109 |
 | The Trap is Set | 0.30% | ~109 |
 | Across the Stars | 0.30% | ~109 |
-| Got 'Em | 0.30% | ~109 |
 | Victory for the New Republic | 0.20% | ~72 |
 | Victory for the Empire | 0.20% | ~72 |
 | Stay on Target | 0.20% | ~72 |
@@ -52,7 +52,7 @@
 | The Galaxy's Finest (Ace) | 0.10% | ~36 |
 | Ultimate Weapon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,190 (Ranked 133)  
+Progressed: 36,206 (Ranked 133)  
 Completed: 3 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 3 (0.01%) (Ranked 368)
 | 2023-12-28 | 34,900 | 3 |
 | 2023-12-29 | 35,308 | 3 |
 | 2023-12-30 | 35,791 | 3 |
-| 2023-12-31 | 36,190 | 3 |
+| 2023-12-31 | 36,206 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

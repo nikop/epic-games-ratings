@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -39,11 +39,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 623,
+  "EOS_Progressed": 624,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.05,
+  "EOS_Completed_Percentage": 3.04,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:50.241177+00:00",
@@ -1044,6 +1044,11 @@
       "Time": "2023-12-31T15:10:43.6857419+00:00",
       "NumProgressed": 623,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-12-31T21:10:35.4495887+00:00",
+      "NumProgressed": 624,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 32,
@@ -1063,7 +1068,7 @@
       "Name": "Annoying",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "BLADE_RUNNER",
@@ -1079,7 +1084,7 @@
       "Name": "Buckle up",
       "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -1103,7 +1108,7 @@
       "Name": "Everybody lies",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
@@ -1135,7 +1140,7 @@
       "Name": "Hacker",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "HANDS_UP",
@@ -1151,7 +1156,7 @@
       "Name": "Trick or Treat?",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "HE_IS_JUST_A_CHILD",
@@ -1159,7 +1164,7 @@
       "Name": "He is just a child",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "HIPSTER",
@@ -1167,7 +1172,7 @@
       "Name": "Hipster",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "I_CAN_DO_A_THING_OR_TWO",
@@ -1205,9 +1210,9 @@
       "ID": "NOT_WHAT_IT_SEEMS",
       "SetID": "2iigf77",
       "Name": "Not what it seems",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 106
     },
     {
       "ID": "NOW_YOU_KNOW",
@@ -1247,7 +1252,7 @@
       "Name": "Quick charge",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "SHORT_CIRCUIT",
@@ -1279,7 +1284,7 @@
       "Name": "That\u0027s much better!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "THERE_IS_ANOTHER_WAY",
@@ -1303,14 +1308,14 @@
       "Name": "The Walking Robot Among Us",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     }
   ],
   "AchievementSets": [
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 623,
+      "Progressed": 624,
       "Completed": 19
     }
   ],
@@ -1318,8 +1323,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2023-12-31T20:11:07.9222065+00:00",
+  "LastChanged_Achievements": "2023-12-31T21:10:35.4495881+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:48.4333912+00:00",
-  "LastUpdate_Ratings": "2023-12-31T19:58:30.2531828+00:00",
-  "LastUpdate_Achievements": "2023-12-31T20:11:07.9222295+00:00"
+  "LastUpdate_Ratings": "2023-12-31T20:58:20.0898196+00:00",
+  "LastUpdate_Achievements": "2023-12-31T21:10:35.4496219+00:00"
 }

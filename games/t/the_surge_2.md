@@ -5,11 +5,11 @@ Rating: 4.27 (Ranked 894)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,916 |
-| Don't I Know You...? | 76.00% | ~1,843 |
-| Jailbreak | 65.00% | ~1,576 |
+| Rigged And Ready | 79.00% | ~1,917 |
+| Don't I Know You...? | 75.00% | ~1,820 |
+| Jailbreak | 65.00% | ~1,577 |
 | Suited and Booted | 38.00% | ~922 |
-| HEADSHOT! | 37.00% | ~897 |
+| HEADSHOT! | 37.00% | ~898 |
 | Sleeping With The Fishes | 35.00% | ~849 |
 | Overheated | 30.00% | ~728 |
 | High Performance | 30.00% | ~728 |
@@ -23,8 +23,8 @@ Rating: 4.27 (Ranked 894)
 | Shocking | 20.00% | ~485 |
 | Court Martial | 19.00% | ~461 |
 | Unforeseeable Consequences | 19.00% | ~461 |
-| Dead Again | 18.00% | ~436 |
-| Clean Cut | 18.00% | ~436 |
+| Dead Again | 18.00% | ~437 |
+| Clean Cut | 18.00% | ~437 |
 | Full Arsenal | 17.00% | ~412 |
 | Can't Trust Banks | 15.00% | ~364 |
 | Mommy Dearest | 13.00% | ~315 |
@@ -35,8 +35,8 @@ Rating: 4.27 (Ranked 894)
 | Corrupted Beauty | 12.00% | ~291 |
 | Marked For Success | 12.00% | ~291 |
 | Sorry, Didn't See You There | 12.00% | ~291 |
-| Stimulating The Local Economy | 10.00% | ~242 |
-| Triplets | 10.00% | ~242 |
+| Stimulating The Local Economy | 10.00% | ~243 |
+| Triplets | 10.00% | ~243 |
 | Denying Prophecy | 9.00% | ~218 |
 | A Little Banged Up | 8.00% | ~194 |
 | Following In Their Footsteps | 8.00% | ~194 |
@@ -54,16 +54,16 @@ Rating: 4.27 (Ranked 894)
 | Plank of Wood | 4.00% | ~97 |
 | Gotta Craft 'em All | 3.00% | ~73 |
 | Homewrecker | 3.00% | ~73 |
-| Own Medicine | 2.00% | ~48 |
-| It Lives! It Sniffs! It Conquers! | 2.00% | ~48 |
-| Box Office Smash | 2.00% | ~48 |
-| Going Postal | 2.00% | ~48 |
-| Loot, Pillage & Craft | 2.00% | ~48 |
+| Own Medicine | 2.00% | ~49 |
+| It Lives! It Sniffs! It Conquers! | 2.00% | ~49 |
+| Box Office Smash | 2.00% | ~49 |
+| Going Postal | 2.00% | ~49 |
+| Loot, Pillage & Craft | 2.00% | ~49 |
 | Swiss Army Drone | 1.00% | ~24 |
 | Three Birds With One Stone | 1.00% | ~24 |
 | The Easy Way Out | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,425 (Ranked 230)  
+Progressed: 2,426 (Ranked 230)  
 Completed: 13 (0.54%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 13 (0.54%) (Ranked 212)
 | 2023-12-28 | 2,397 | 13 |
 | 2023-12-29 | 2,408 | 13 |
 | 2023-12-30 | 2,418 | 13 |
-| 2023-12-31 | 2,425 | 13 |
+| 2023-12-31 | 2,426 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

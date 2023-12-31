@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1045,9 +1045,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9704,
+  "EOS_Progressed": 9705,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10365,6 +10365,11 @@
       "Time": "2023-12-31T19:09:10.4419702+00:00",
       "NumProgressed": 9704,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-31T21:09:36.5545123+00:00",
+      "NumProgressed": 9705,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10424,7 +10429,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 3105
+      "UsersEstimate": 3106
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -10448,7 +10453,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -10456,7 +10461,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -10488,7 +10493,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 3105
+      "UsersEstimate": 3106
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -10528,7 +10533,7 @@
       "Name": "Machiavelli",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -10544,7 +10549,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3396
+      "UsersEstimate": 3397
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -10616,7 +10621,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -10728,14 +10733,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4949
+      "UsersEstimate": 4950
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9704,
+      "Progressed": 9705,
       "Completed": 10
     }
   ],
@@ -10743,8 +10748,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-30T03:57:33.3665427+00:00",
-  "LastChanged_Achievements": "2023-12-31T20:10:10.943051+00:00",
+  "LastChanged_Achievements": "2023-12-31T21:09:36.5545116+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:27.5115536+00:00",
-  "LastUpdate_Ratings": "2023-12-31T19:59:28.612652+00:00",
-  "LastUpdate_Achievements": "2023-12-31T20:10:10.9431381+00:00"
+  "LastUpdate_Ratings": "2023-12-31T20:59:19.0066411+00:00",
+  "LastUpdate_Achievements": "2023-12-31T21:09:36.5545769+00:00"
 }

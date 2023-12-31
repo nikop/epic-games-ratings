@@ -113,13 +113,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Unleashed Potential | 0.70% | ~1,041 |
 | Ultimate Collector | 0.60% | ~892 |
 | JACKPOT!!! | 0.60% | ~892 |
-| Oligarch Monarch | 0.50% | ~743 |
-| Merchant Extraordinaire | 0.50% | ~743 |
+| Oligarch Monarch | 0.50% | ~744 |
+| Merchant Extraordinaire | 0.50% | ~744 |
 | To Hell and Back | 0.40% | ~595 |
 | Cash Only Please | 0.40% | ~595 |
 | Capitalist Camaraderie | 0.20% | ~297 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,699 (Ranked 85)  
+Progressed: 148,705 (Ranked 85)  
 Completed: 340 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -374,11 +374,11 @@ Completed: 340 (0.23%) (Ranked 267)
 | 2023-12-28 | 148,196 | 337 |
 | 2023-12-29 | 148,353 | 338 |
 | 2023-12-30 | 148,534 | 340 |
-| 2023-12-31 | 148,699 | 340 |
+| 2023-12-31 | 148,705 | 340 |
 ## Awards
-Max (Great for Beginners): 4,934  (Ranked 77)  
+Max (Great for Beginners): 4,934  (Ranked 78)  
 Sum: 27,878 (Ranked 51)  
-Diff (max vs sum): 26  
+Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,934 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 311,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1174,
+  "EOS_Progressed": 1176,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2917,6 +2917,11 @@
       "Time": "2023-12-31T20:09:04.2580883+00:00",
       "NumProgressed": 1174,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T21:08:27.7999875+00:00",
+      "NumProgressed": 1176,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2945,7 +2950,7 @@
       "Name": "Chosen Victor",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "CompleteCampaignChampion",
@@ -2961,7 +2966,7 @@
       "Name": "Liberator",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "CompleteCampaignVeteran",
@@ -2985,7 +2990,7 @@
       "Name": "Pathfinder",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "CompleteChapter10",
@@ -3073,7 +3078,7 @@
       "Name": "Met the Enemy",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "CompleteChapter3",
@@ -3089,7 +3094,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "CompleteChapter5",
@@ -3113,7 +3118,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "CompleteChapter8",
@@ -3129,7 +3134,7 @@
       "Name": "Ingredients List",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -3177,7 +3182,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "Win100OnlineMatched",
@@ -3201,7 +3206,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Win50ConquestBattles",
@@ -3224,14 +3229,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1174,
+      "Progressed": 1176,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-31T20:09:04.258088+00:00",
+  "LastChanged_Achievements": "2023-12-31T21:08:27.7999871+00:00",
   "LastUpdate_AppInfo": "2023-12-29T09:57:13.5043463+00:00",
-  "LastUpdate_Ratings": "2023-12-31T19:59:11.3091834+00:00",
-  "LastUpdate_Achievements": "2023-12-31T20:09:04.2581253+00:00"
+  "LastUpdate_Ratings": "2023-12-31T20:59:01.529479+00:00",
+  "LastUpdate_Achievements": "2023-12-31T21:08:27.80003+00:00"
 }

@@ -10,11 +10,11 @@ Rating: 4.65 (Ranked 324)
 | The Mysterious Stranger | 31.00% | ~364 |
 | Immaculate Aim | 27.00% | ~317 |
 | The Brass Boss | 26.00% | ~305 |
+| No, Thanks! | 25.00% | ~294 |
 | The Prince in Heels | 25.00% | ~294 |
 | Make Up For Lost Time | 24.00% | ~282 |
 | Time Flies | 24.00% | ~282 |
 | The Harder They Fall | 24.00% | ~282 |
-| No, Thanks! | 24.00% | ~282 |
 | Honest Mistake | 24.00% | ~282 |
 | Fast Learner | 24.00% | ~282 |
 | Immaculate Aim | 24.00% | ~282 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 324)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,174 (Ranked 279)  
+Progressed: 1,174 (Ranked 280)  
 Completed: 6 (0.51%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |

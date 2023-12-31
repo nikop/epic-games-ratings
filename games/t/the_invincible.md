@@ -11,12 +11,12 @@ Rating: 4.58 (Ranked 464)
 | The field base | 43.00% | ~530 |
 | The Alliance | 38.00% | ~469 |
 | Survivors | 37.00% | ~456 |
-| The Condor | 34.00% | ~419 |
+| The Condor | 35.00% | ~432 |
 | The End | 34.00% | ~419 |
 | Krauta is alive | 27.00% | ~333 |
 | The Necroevolution | 27.00% | ~333 |
+| Peacemaker | 22.00% | ~271 |
 | On her own | 21.00% | ~259 |
-| Peacemaker | 21.00% | ~259 |
 | Volcanologist | 21.00% | ~259 |
 | Fierce fight | 19.00% | ~234 |
 | Evacuation | 18.00% | ~222 |

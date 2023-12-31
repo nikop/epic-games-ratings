@@ -4,8 +4,8 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3950,
+  "EOS_Progressed": 3952,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -5292,6 +5292,11 @@
       "Time": "2023-12-31T19:08:02.432411+00:00",
       "NumProgressed": 3950,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-31T21:08:19.9508652+00:00",
+      "NumProgressed": 3952,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5311,7 +5316,7 @@
       "Name": "Sniped",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "bonus3",
@@ -5327,7 +5332,7 @@
       "Name": "Work It",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "bonus5",
@@ -5351,7 +5356,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3436
+      "UsersEstimate": 3438
     },
     {
       "ID": "campaign10",
@@ -5359,7 +5364,7 @@
       "Name": "Leave Them no Cake",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "campaign11",
@@ -5375,7 +5380,7 @@
       "Name": "Would be a Shame if Someone Would Waste Those Units",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "campaign13",
@@ -5383,7 +5388,7 @@
       "Name": "Damage Control",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "campaign14",
@@ -5399,7 +5404,7 @@
       "Name": "Almost Like Winning",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "campaign16",
@@ -5407,7 +5412,7 @@
       "Name": "Master of the Brawl",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "campaign17",
@@ -5415,7 +5420,7 @@
       "Name": "The Handyman Can!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "campaign18",
@@ -5439,7 +5444,7 @@
       "Name": "Flanked!",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 2962
+      "UsersEstimate": 2964
     },
     {
       "ID": "campaign20",
@@ -5455,7 +5460,7 @@
       "Name": "Economics 101",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 2330
+      "UsersEstimate": 2332
     },
     {
       "ID": "campaign4",
@@ -5495,7 +5500,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "campaign9",
@@ -5559,14 +5564,14 @@
       "Name": "A Brief Moment of Respite",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     }
   ],
   "AchievementSets": [
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3950,
+      "Progressed": 3952,
       "Completed": 11
     }
   ],
@@ -5574,8 +5579,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-12-31T20:08:56.5780384+00:00",
+  "LastChanged_Achievements": "2023-12-31T21:08:19.9508648+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.1228513+00:00",
-  "LastUpdate_Ratings": "2023-12-31T20:01:21.5740037+00:00",
-  "LastUpdate_Achievements": "2023-12-31T20:08:56.5780894+00:00"
+  "LastUpdate_Ratings": "2023-12-31T21:01:16.3202332+00:00",
+  "LastUpdate_Achievements": "2023-12-31T21:08:19.9509045+00:00"
 }

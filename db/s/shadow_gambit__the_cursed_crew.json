@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1381,
+  "EOS_Progressed": 1383,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.53,
   "EosHistory": [
@@ -4759,6 +4759,11 @@
       "Time": "2023-12-31T20:06:42.4278773+00:00",
       "NumProgressed": 1381,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-31T21:06:31.9432318+00:00",
+      "NumProgressed": 1383,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4771,7 +4776,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -4779,7 +4784,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "_03_FinishAct1",
@@ -4787,7 +4792,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4803,7 +4808,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -4811,7 +4816,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "_07_FinishAct3",
@@ -4827,7 +4832,7 @@
       "Name": "Swabbie",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "_09_Completion_20",
@@ -4835,7 +4840,7 @@
       "Name": "Powder Monkey",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "_10_Completion_30",
@@ -4843,7 +4848,7 @@
       "Name": "Buccaneer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "_11_Completion_40",
@@ -4851,7 +4856,7 @@
       "Name": "Seadog",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "_12_Completion_50",
@@ -4891,7 +4896,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -4899,7 +4904,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -4913,9 +4918,9 @@
       "ID": "_19_CrewTale_BSP",
       "SetID": "8a1io5d",
       "Name": "Persistent Parasite",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 221
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -4923,7 +4928,7 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -4953,9 +4958,9 @@
       "ID": "_24_CrewTale_SNP",
       "SetID": "8a1io5d",
       "Name": "Jaded Judge",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 152
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -4978,7 +4983,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1381,
+      "Progressed": 1383,
       "Completed": 35
     }
   ],
@@ -4986,8 +4991,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2023-12-31T20:06:42.427877+00:00",
+  "LastChanged_Achievements": "2023-12-31T21:06:31.9432311+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2023-12-31T20:01:24.8606325+00:00",
-  "LastUpdate_Achievements": "2023-12-31T20:06:42.4279057+00:00"
+  "LastUpdate_Ratings": "2023-12-31T21:01:19.6915078+00:00",
+  "LastUpdate_Achievements": "2023-12-31T21:06:31.9432741+00:00"
 }

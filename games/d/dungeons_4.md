@@ -18,8 +18,8 @@ Rating: 4.67 (Ranked 283)
 | Unicorn steaks – fresh off the hoof! | 63.00% | ~427 |
 | Master of Magic | 62.00% | ~420 |
 | Magic Accidents | 59.00% | ~400 |
-| The Ascent | 58.00% | ~393 |
-| It's Warm and Cozy at Home | 58.00% | ~393 |
+| The Ascent | 59.00% | ~400 |
+| It's Warm and Cozy at Home | 59.00% | ~400 |
 | Trap Master | 55.00% | ~373 |
 | Minions, Minions! | 55.00% | ~373 |
 | Hard Work | 54.00% | ~366 |
@@ -68,7 +68,7 @@ Rating: 4.67 (Ranked 283)
 | I Don't Need Any Help | 10.00% | ~68 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 678 (Ranked 315)  
-Completed: 26 (3.83%) (Ranked 92)  
+Completed: 26 (3.83%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

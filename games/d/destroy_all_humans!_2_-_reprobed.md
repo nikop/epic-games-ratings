@@ -11,7 +11,7 @@ Number of Ratings: 90  (23.09.2022)
 | Ducks in a Row, Fish in a Barrel | 52.00% | ~138 |
 | Furon Fashion | 48.00% | ~128 |
 | Shop Til They Drop | 40.00% | ~106 |
-| Bodied Sattva | 35.00% | ~93 |
+| Bodied Sattva | 36.00% | ~96 |
 | Earthly Pleasures | 35.00% | ~93 |
 | Cult Following | 33.00% | ~88 |
 | Lie Back and Think of Albion | 27.00% | ~72 |
@@ -27,7 +27,7 @@ Number of Ratings: 90  (23.09.2022)
 | Kaijuiced | 9.00% | ~24 |
 | Dusted | 8.00% | ~21 |
 | Scuttled | 7.00% | ~19 |
-| Re-Return of the Clone of the Invasion II-2 | 6.00% | ~16 |
+| Re-Return of the Clone of the Invasion II-2 | 7.00% | ~19 |
 | Lobster Blisque | 5.00% | ~13 |
 | Ultimate Smoothie | 4.00% | ~11 |
 | Yettisoned | 4.00% | ~11 |

@@ -16,7 +16,7 @@
 | Up and down | 79.00% | ~115 |
 | Rolling, Rolling, Rolling | 76.00% | ~110 |
 | Fire-fighter! | 67.00% | ~97 |
-| Oh, you're up to no gouda! | 65.00% | ~94 |
+| Oh, you're up to no gouda! | 66.00% | ~96 |
 | Make Love not War-Craft a Mistlefoe | 63.00% | ~91 |
 | Meat grinder | 61.00% | ~88 |
 | You're not going to blow me up! | 57.00% | ~83 |
@@ -39,8 +39,8 @@
 | Catch the bus with me! | 32.00% | ~46 |
 | I'm going to get a concussion | 31.00% | ~45 |
 | Another one bites the iron | 30.00% | ~44 |
+| Kleptomaniac | 27.00% | ~39 |
 | Ripe Meat Off The Bone! | 26.00% | ~38 |
-| Kleptomaniac | 26.00% | ~38 |
 | A Megapint...? | 25.00% | ~36 |
 | Hovering around | 25.00% | ~36 |
 | You're not so Big anymore, Boi! | 24.00% | ~35 |

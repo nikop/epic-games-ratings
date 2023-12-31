@@ -6,39 +6,39 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My New Home | 60.00% | ~353 |
+| My New Home | 60.00% | ~354 |
 | Mushroom Picker | 55.00% | ~324 |
-| Scrap Gatherer | 54.00% | ~318 |
-| Scrapper | 44.00% | ~259 |
-| Cook | 43.00% | ~253 |
-| Teleport | 43.00% | ~253 |
+| Scrap Gatherer | 54.00% | ~319 |
+| Scrapper | 44.00% | ~260 |
+| Cook | 43.00% | ~254 |
+| Teleport | 43.00% | ~254 |
 | Scrap Master | 36.00% | ~212 |
-| Smelter | 34.00% | ~200 |
+| Smelter | 34.00% | ~201 |
 | Digger | 31.00% | ~183 |
 | Electro-Scrap Gatherer | 31.00% | ~183 |
 | Survivor | 29.00% | ~171 |
 | Herbalist | 28.00% | ~165 |
 | Lumberjack | 28.00% | ~165 |
 | Robot Destroyer | 28.00% | ~165 |
-| Prepper | 25.00% | ~147 |
-| Electro-Scrap Master | 23.00% | ~135 |
+| Prepper | 25.00% | ~148 |
+| Electro-Scrap Master | 23.00% | ~136 |
 | Robot Hunter | 20.00% | ~118 |
-| Advanced Survivalist | 19.00% | ~112 |
+| Advanced Survivalist | 18.00% | ~106 |
 | Master Of Technology | 16.00% | ~94 |
 | Treasure Hunter | 16.00% | ~94 |
-| Mythical Smelter | 14.00% | ~82 |
+| Mythical Smelter | 14.00% | ~83 |
 | Blacksmith | 12.00% | ~71 |
 | Master Of Management | 10.00% | ~59 |
 | Forest Lord | 10.00% | ~59 |
-| Fuel | 10.00% | ~59 |
 | Smelting Master | 10.00% | ~59 |
+| Fuel | 9.00% | ~53 |
 | Black Gold | 7.00% | ~41 |
-| Survival Master | 5.00% | ~29 |
+| Survival Master | 5.00% | ~30 |
 | Traveler | 3.00% | ~18 |
 | Forest Killer | 3.00% | ~18 |
 | Invincible | 0.50% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 589 (Ranked 335)  
+Progressed: 590 (Ranked 335)  
 Completed: 4 (0.68%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 4 (0.68%) (Ranked 199)
 | 2023-12-28 | 575 | 4 |
 | 2023-12-29 | 581 | 4 |
 | 2023-12-30 | 586 | 4 |
-| 2023-12-31 | 589 | 4 |
+| 2023-12-31 | 590 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

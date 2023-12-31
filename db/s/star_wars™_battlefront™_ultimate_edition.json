@@ -4,8 +4,8 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2422,
+  "EOS_Progressed": 2423,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 308,
+  "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6794,6 +6794,11 @@
       "Time": "2023-12-31T20:11:19.021611+00:00",
       "NumProgressed": 2422,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T21:10:46.9138649+00:00",
+      "NumProgressed": 2423,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7030,7 +7035,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 2107
+      "UsersEstimate": 2108
     },
     {
       "ID": "achievement_36",
@@ -7078,7 +7083,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1260
     },
     {
       "ID": "achievement_41",
@@ -7309,13 +7314,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2422,
+      "Progressed": 2423,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2422,
+      "Progressed": 2423,
       "Completed": 1
     }
   ],
@@ -7323,8 +7328,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-31T20:11:19.0216107+00:00",
+  "LastChanged_Achievements": "2023-12-31T21:10:46.9138646+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.759459+00:00",
-  "LastUpdate_Ratings": "2023-12-31T19:58:56.6703409+00:00",
-  "LastUpdate_Achievements": "2023-12-31T20:11:19.0217223+00:00"
+  "LastUpdate_Ratings": "2023-12-31T20:58:46.3359974+00:00",
+  "LastUpdate_Achievements": "2023-12-31T21:10:46.9139388+00:00"
 }

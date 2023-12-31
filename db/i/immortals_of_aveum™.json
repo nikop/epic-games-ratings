@@ -6,9 +6,9 @@
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 233,
-  "Ranking_EOS_Completed": 320,
+  "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -355,9 +355,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2395,
+  "EOS_Progressed": 2396,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 621,
+  "EOS_NewPlayers": 618,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3890,6 +3890,11 @@
       "Time": "2023-12-31T20:10:56.6777681+00:00",
       "NumProgressed": 2395,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-31T21:10:23.9021336+00:00",
+      "NumProgressed": 2396,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -3900,9 +3905,9 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2084
+      "UsersEstimate": 2108
     },
     {
       "ID": "achievement_10",
@@ -3950,7 +3955,7 @@
       "Name": "A Perfect Cycle",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "achievement_16",
@@ -3958,7 +3963,7 @@
       "Name": "Recruit",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "achievement_17",
@@ -3990,7 +3995,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     },
     {
       "ID": "achievement_20",
@@ -4124,9 +4129,9 @@
       "ID": "achievement_46",
       "SetID": "18al4io",
       "Name": "Periapt Viridian",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 120
+      "UsersEstimate": 144
     },
     {
       "ID": "achievement_48",
@@ -4134,7 +4139,7 @@
       "Name": "Enlisted",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1748
+      "UsersEstimate": 1749
     },
     {
       "ID": "achievement_49",
@@ -4150,7 +4155,7 @@
       "Name": "Initiate",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "achievement_50",
@@ -4198,7 +4203,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "achievement_60",
@@ -4277,7 +4282,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 2395,
+      "Progressed": 2396,
       "Completed": 2
     }
   ],
@@ -4285,8 +4290,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-29T22:59:43.1126735+00:00",
-  "LastChanged_Achievements": "2023-12-31T20:10:56.6777677+00:00",
+  "LastChanged_Achievements": "2023-12-31T21:10:23.9021332+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.4007279+00:00",
-  "LastUpdate_Ratings": "2023-12-31T19:57:51.5228331+00:00",
-  "LastUpdate_Achievements": "2023-12-31T20:10:56.6778164+00:00"
+  "LastUpdate_Ratings": "2023-12-31T20:57:39.0957047+00:00",
+  "LastUpdate_Achievements": "2023-12-31T21:10:23.9021913+00:00"
 }

@@ -7,23 +7,23 @@ Rating: 3.61 (Ranked 1,081)
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 17.00% | ~372 |
 | Catch and Release | 13.00% | ~284 |
-| Home Is Where the Heart Is | 12.00% | ~262 |
-| ICU | 11.00% | ~240 |
-| Wounded Whispers | 11.00% | ~240 |
+| Home Is Where the Heart Is | 12.00% | ~263 |
+| ICU | 11.00% | ~241 |
+| Wounded Whispers | 11.00% | ~241 |
 | Blood Will Have Blood | 10.00% | ~219 |
 | Ne Plus Ultra | 9.00% | ~197 |
 | Fly Fisher | 9.00% | ~197 |
 | Peek-a-boo | 9.00% | ~197 |
-| Throw The First Stone | 8.00% | ~175 |
 | Sucks To Be You | 8.00% | ~175 |
 | Enter of Your Own Free Will | 7.00% | ~153 |
 | Welcome to the Neighborhood | 7.00% | ~153 |
+| Throw The First Stone | 7.00% | ~153 |
 | Heart Attack | 7.00% | ~153 |
 | Grounded | 6.00% | ~131 |
 | Skin of Their Teeth | 6.00% | ~131 |
 | Bad Wiring | 5.00% | ~109 |
-| Neighborhood Revitalization | 4.00% | ~87 |
-| Radio Silence | 4.00% | ~87 |
+| Neighborhood Revitalization | 4.00% | ~88 |
+| Radio Silence | 4.00% | ~88 |
 | Helping Hand | 3.00% | ~66 |
 | I Spit On Your Grave | 3.00% | ~66 |
 | Contingency Plans | 2.00% | ~44 |
@@ -42,7 +42,7 @@ Rating: 3.61 (Ranked 1,081)
 | Nice Try | 1.00% | ~22 |
 | Blacklight Down | 1.00% | ~22 |
 | Curious Finch | 1.00% | ~22 |
-| Empty Nest Syndrome | 0.70% | ~15 |
+| Empty Nest Syndrome | 0.80% | ~18 |
 | Bloody Initiate | 0.70% | ~15 |
 | Dexterity Save | 0.70% | ~15 |
 | Neighborhood Watch | 0.60% | ~13 |
@@ -72,7 +72,7 @@ Rating: 3.61 (Ranked 1,081)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,186 (Ranked 238)  
+Progressed: 2,188 (Ranked 238)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 2,135 | 0 |
 | 2023-12-29 | 2,155 | 0 |
 | 2023-12-30 | 2,176 | 0 |
-| 2023-12-31 | 2,186 | 0 |
+| 2023-12-31 | 2,188 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 571)  
 Sum: 20 (Ranked 572)  

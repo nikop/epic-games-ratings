@@ -5,41 +5,41 @@ Rating: 4.40 (Ranked 766)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~80,615 |
-| Predator I | 23.00% | ~59,811 |
+| Survivor | 31.00% | ~80,616 |
+| Predator I | 23.00% | ~59,812 |
 | Fixer I | 10.00% | ~26,005 |
 | A week in Century City | 10.00% | ~26,005 |
-| The Wait | 7.00% | ~18,203 |
+| The Wait | 7.00% | ~18,204 |
 | Green thumb I | 6.00% | ~15,603 |
 | Cleaning Company | 6.00% | ~15,603 |
-| Well-oiled machine | 5.00% | ~13,002 |
-| Saver I | 5.00% | ~13,002 |
+| Well-oiled machine | 5.00% | ~13,003 |
+| Saver I | 5.00% | ~13,003 |
 | The Ascent | 4.00% | ~10,402 |
 | Pacifist | 4.00% | ~10,402 |
 | Vandalism | 4.00% | ~10,402 |
 | Capitalist I | 4.00% | ~10,402 |
-| Fixer II | 3.00% | ~7,801 |
-| It took a while | 3.00% | ~7,801 |
-| Adrenaline | 3.00% | ~7,801 |
-| Predator II | 3.00% | ~7,801 |
+| Fixer II | 3.00% | ~7,802 |
+| It took a while | 3.00% | ~7,802 |
+| Adrenaline | 3.00% | ~7,802 |
+| Predator II | 3.00% | ~7,802 |
 | By a hair | 2.00% | ~5,201 |
 | Samurai | 2.00% | ~5,201 |
 | I Left You a Present | 2.00% | ~5,201 |
 | Truffle Dog | 2.00% | ~5,201 |
 | Don't try this at home | 2.00% | ~5,201 |
 | A month in Century City | 2.00% | ~5,201 |
-| The Strengthening | 1.00% | ~2,600 |
-| Saver II | 1.00% | ~2,600 |
-| It's the last one, I swear | 1.00% | ~2,600 |
-| Botanist | 1.00% | ~2,600 |
-| Green thumb II | 1.00% | ~2,600 |
-| Bricklayer | 1.00% | ~2,600 |
-| Run the Economy | 1.00% | ~2,600 |
+| The Strengthening | 1.00% | ~2,601 |
+| Saver II | 1.00% | ~2,601 |
+| It's the last one, I swear | 1.00% | ~2,601 |
+| Botanist | 1.00% | ~2,601 |
+| Green thumb II | 1.00% | ~2,601 |
+| Bricklayer | 1.00% | ~2,601 |
+| Run the Economy | 1.00% | ~2,601 |
 | Committed Relationship | 0.80% | ~2,080 |
 | Number 1 | 0.80% | ~2,080 |
+| The Gamble | 0.60% | ~1,560 |
 | A major purchase | 0.60% | ~1,560 |
 | Interior designer | 0.60% | ~1,560 |
-| The Gamble | 0.50% | ~1,300 |
 | The Descent | 0.50% | ~1,300 |
 | Expert Hunter | 0.40% | ~1,040 |
 | Fungi hunter | 0.40% | ~1,040 |
@@ -62,7 +62,7 @@ Rating: 4.40 (Ranked 766)
 | Capitalist III | 0.10% | ~260 |
 | Hell Is You | 0.10% | ~260 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 260,047 (Ranked 65)  
+Progressed: 260,051 (Ranked 65)  
 Completed: 3 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 3 (0.00%) (Ranked 391)
 | 2023-12-28 | 259,901 | 3 |
 | 2023-12-29 | 259,952 | 3 |
 | 2023-12-30 | 259,996 | 3 |
-| 2023-12-31 | 260,047 | 3 |
+| 2023-12-31 | 260,051 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 54  (Ranked 436)  
 Sum: 369 (Ranked 359)  

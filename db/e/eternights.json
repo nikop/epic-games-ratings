@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -2677,9 +2677,9 @@
       "ID": "ACHIEVEMENT_12_TheirRock",
       "SetID": "9bke6f1",
       "Name": "Their Rock",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 193
+      "UsersEstimate": 200
     },
     {
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
@@ -2870,8 +2870,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-31T15:57:10.2736309+00:00",
-  "LastChanged_Achievements": "2023-12-31T20:09:55.9146408+00:00",
+  "LastChanged_Achievements": "2023-12-31T21:09:21.3017547+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.2091482+00:00",
-  "LastUpdate_Ratings": "2023-12-31T19:57:50.7242379+00:00",
-  "LastUpdate_Achievements": "2023-12-31T20:09:55.9146694+00:00"
+  "LastUpdate_Ratings": "2023-12-31T20:57:38.3410836+00:00",
+  "LastUpdate_Achievements": "2023-12-31T21:09:21.3017965+00:00"
 }

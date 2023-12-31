@@ -1,7 +1,7 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.59 (Ranked 445)  
+Rating: 4.59 (Ranked 444)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,8 +13,8 @@ Number of Ratings: 46  (23.09.2022)
 | Weeper | 1.00% | ~1,658 |
 | Devourer | 0.90% | ~1,492 |
 | Silenced Whispers | 0.80% | ~1,326 |
-| Harmless | 0.70% | ~1,160 |
-| Sharpened Vessel | 0.70% | ~1,160 |
+| Harmless | 0.70% | ~1,161 |
+| Sharpened Vessel | 0.70% | ~1,161 |
 | Feast | 0.60% | ~995 |
 | Yank | 0.60% | ~995 |
 | Scion | 0.50% | ~827 |
@@ -22,7 +22,7 @@ Number of Ratings: 46  (23.09.2022)
 | Jawstag | 0.50% | ~829 |
 | Watcher | 0.50% | ~829 |
 | Shapely | 0.40% | ~663 |
-| Glare | 0.40% | ~661 |
+| Glare | 0.40% | ~662 |
 | Predator | 0.40% | ~663 |
 | Assimilation | 0.30% | ~497 |
 | Hunt Down | 0.30% | ~497 |
@@ -53,8 +53,8 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~165 |
 | Intensify | 0.10% | ~165 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 165,785 (Ranked 83)  
-Completed: 429 (0.26%) (Ranked 261)  
+Progressed: 165,796 (Ranked 83)  
+Completed: 430 (0.26%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -285,7 +285,7 @@ Completed: 429 (0.26%) (Ranked 261)
 | 2023-12-28 | 165,163 | 418 |
 | 2023-12-29 | 165,352 | 424 |
 | 2023-12-30 | 165,580 | 427 |
-| 2023-12-31 | 165,785 | 429 |
+| 2023-12-31 | 165,796 | 430 |
 ## Awards
 Max (Unique Visuals): 61  (Ranked 423)  
 Sum: 434 (Ranked 343)  

@@ -5,13 +5,13 @@ Rating: 4.20 (Ranked 952)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~2,084 |
-| Battlefields Have Memories | 80.00% | ~1,916 |
-| Enlisted | 73.00% | ~1,748 |
+| Unforeseen | 88.00% | ~2,108 |
+| Battlefields Have Memories | 80.00% | ~1,917 |
+| Enlisted | 73.00% | ~1,749 |
 | Maybe Engage a Little | 68.00% | ~1,629 |
 | No More Names | 50.00% | ~1,198 |
-| Initiate | 36.00% | ~862 |
-| Thrada-Kul | 32.00% | ~766 |
+| Initiate | 36.00% | ~863 |
+| Thrada-Kul | 32.00% | ~767 |
 | Gravity-Challenged Rocks | 26.00% | ~623 |
 | Socialite | 23.00% | ~551 |
 | Soldier | 22.00% | ~527 |
@@ -23,14 +23,14 @@ Rating: 4.20 (Ranked 952)
 | A Familiar Nest | 14.00% | ~335 |
 | Geas Aristeya | 13.00% | ~311 |
 | Periapt Alizarin | 13.00% | ~311 |
-| A Perfect Cycle | 12.00% | ~287 |
-| Recruit | 11.00% | ~263 |
+| A Perfect Cycle | 12.00% | ~288 |
+| Recruit | 11.00% | ~264 |
 | Armsman | 10.00% | ~240 |
 | Lights Army | 8.00% | ~192 |
 | Periapt Cerulean | 7.00% | ~168 |
+| Periapt Viridian | 6.00% | ~144 |
 | Good Boy | 6.00% | ~144 |
 | Best Dressed | 5.00% | ~120 |
-| Periapt Viridian | 5.00% | ~120 |
 | Shroudfane Explorer | 5.00% | ~120 |
 | Kitted Out | 4.00% | ~96 |
 | Armaments Gules | 4.00% | ~96 |
@@ -53,8 +53,8 @@ Rating: 4.20 (Ranked 952)
 | Out of Time | 0.20% | ~5 |
 | Fowl Play | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,395 (Ranked 233)  
-Completed: 2 (0.08%) (Ranked 320)  
+Progressed: 2,396 (Ranked 233)  
+Completed: 2 (0.08%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -147,7 +147,7 @@ Completed: 2 (0.08%) (Ranked 320)
 | 2023-12-28 | 2,136 | 2 |
 | 2023-12-29 | 2,236 | 2 |
 | 2023-12-30 | 2,327 | 2 |
-| 2023-12-31 | 2,395 | 2 |
+| 2023-12-31 | 2,396 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3695,7 +3695,7 @@
       "Count": 338
     }
   ],
-  "EOS_Progressed": 19826,
+  "EOS_Progressed": 19829,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 697,
   "EOS_NewCompleters": -4,
@@ -17900,6 +17900,11 @@
       "Time": "2023-12-31T20:04:46.9835948+00:00",
       "NumProgressed": 19826,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-31T21:04:31.0014519+00:00",
+      "NumProgressed": 19829,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18342,9 +18347,9 @@
       "ID": "WinNearPetrified",
       "SetID": "cfbk359",
       "Name": "Petrified Necropolis",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1388
     },
     {
       "ID": "WinNearPresence",
@@ -18383,15 +18388,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19826,
+      "Progressed": 19829,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-31T17:57:18.8110179+00:00",
-  "LastChanged_Achievements": "2023-12-31T20:04:46.9835945+00:00",
+  "LastChanged_Achievements": "2023-12-31T21:04:31.001451+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2023-12-31T19:57:44.4433737+00:00",
-  "LastUpdate_Achievements": "2023-12-31T20:04:46.9836893+00:00"
+  "LastUpdate_Ratings": "2023-12-31T20:57:31.9378287+00:00",
+  "LastUpdate_Achievements": "2023-12-31T21:04:31.001547+00:00"
 }

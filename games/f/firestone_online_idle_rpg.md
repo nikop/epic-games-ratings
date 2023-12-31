@@ -5,32 +5,32 @@ Rating: 4.03 (Ranked 1,029)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,743 |
-| World Map | 78.00% | ~3,140 |
-| Temple of Eternals | 56.00% | ~2,254 |
-| Prestigious | 52.00% | ~2,093 |
-| Fellowship Power | 42.00% | ~1,690 |
-| Full Party | 27.00% | ~1,087 |
+| Victor | 93.00% | ~3,746 |
+| World Map | 78.00% | ~3,142 |
+| Temple of Eternals | 56.00% | ~2,256 |
+| Prestigious | 52.00% | ~2,095 |
+| Fellowship Power | 42.00% | ~1,692 |
+| Full Party | 27.00% | ~1,088 |
 | Guild Power | 23.00% | ~926 |
-| Prestigious x10 | 20.00% | ~805 |
-| The game is on | 18.00% | ~724 |
+| Prestigious x10 | 20.00% | ~806 |
+| The game is on | 18.00% | ~725 |
 | Exotic Merchant | 16.00% | ~644 |
 | Dragon Clicker | 15.00% | ~604 |
 | Miner Clicker | 15.00% | ~604 |
 | Enlightenment | 14.00% | ~564 |
 | Inspection | 14.00% | ~564 |
-| Dragon Master | 13.00% | ~523 |
-| Hero inspection | 13.00% | ~523 |
+| Dragon Master | 13.00% | ~524 |
+| Hero inspection | 13.00% | ~524 |
 | Lieutenant | 12.00% | ~483 |
 | Milestone collector | 11.00% | ~443 |
 | Mysterious Rock | 11.00% | ~443 |
 | Natural Talent | 11.00% | ~443 |
 | Superior | 11.00% | ~443 |
 | The Unstoppable | 11.00% | ~443 |
-| Scientist | 10.00% | ~402 |
-| Doing My Part | 9.00% | ~362 |
-| Hunter | 9.00% | ~362 |
-| The power of Awakening | 9.00% | ~362 |
+| Scientist | 10.00% | ~403 |
+| Doing My Part | 9.00% | ~363 |
+| Hunter | 9.00% | ~363 |
+| The power of Awakening | 9.00% | ~363 |
 | Challenger | 8.00% | ~322 |
 | Daily Quest Completionist | 8.00% | ~322 |
 | Frostfire Liberator | 8.00% | ~322 |
@@ -62,12 +62,12 @@ Rating: 4.03 (Ranked 1,029)
 | Arena Challenger | 3.00% | ~121 |
 | Ebony Jungle Liberator | 3.00% | ~121 |
 | Mythic Power | 3.00% | ~121 |
-| Cauldron Liberator | 2.00% | ~80 |
-| Enchanting skill x5 | 2.00% | ~80 |
-| Gear Enchanting | 2.00% | ~80 |
-| Guardian Master | 2.00% | ~80 |
-| Pokerface | 2.00% | ~80 |
-| What lies behind the bush | 2.00% | ~80 |
+| Cauldron Liberator | 2.00% | ~81 |
+| Enchanting skill x5 | 2.00% | ~81 |
+| Gear Enchanting | 2.00% | ~81 |
+| Guardian Master | 2.00% | ~81 |
+| Pokerface | 2.00% | ~81 |
+| What lies behind the bush | 2.00% | ~81 |
 | Conqueror | 1.00% | ~40 |
 | Titan Power | 1.00% | ~40 |
 | Transmute | 1.00% | ~40 |
@@ -81,7 +81,7 @@ Rating: 4.03 (Ranked 1,029)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,025 (Ranked 209)  
+Progressed: 4,028 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 2 (0.05%) (Ranked 334)
 | 2023-12-28 | 3,911 | 2 |
 | 2023-12-29 | 3,948 | 2 |
 | 2023-12-30 | 3,984 | 2 |
-| 2023-12-31 | 4,025 | 2 |
+| 2023-12-31 | 4,028 | 2 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 478)  
 Sum: 129 (Ranked 445)  

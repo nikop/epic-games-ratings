@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -827,9 +827,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 240684,
+  "EOS_Progressed": 240688,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1319,
+  "EOS_NewPlayers": 1311,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19537,6 +19537,11 @@
       "Time": "2023-12-31T20:11:08.2827853+00:00",
       "NumProgressed": 240684,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T21:10:35.8449172+00:00",
+      "NumProgressed": 240688,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -19581,7 +19586,7 @@
       "Name": "Bridge of Sighs Completed",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 1925
+      "UsersEstimate": 1926
     },
     {
       "ID": "HW1_MISSION15_COMPLETE",
@@ -19629,7 +19634,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9627
+      "UsersEstimate": 9628
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -19805,7 +19810,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 60171
+      "UsersEstimate": 60172
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -19820,7 +19825,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 240684,
+      "Progressed": 240688,
       "Completed": 0
     }
   ],
@@ -19828,8 +19833,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-31T17:57:33.2875325+00:00",
-  "LastChanged_Achievements": "2023-12-31T20:11:08.2827849+00:00",
+  "LastChanged_Achievements": "2023-12-31T21:10:35.8449165+00:00",
   "LastUpdate_AppInfo": "2023-12-29T06:57:17.105104+00:00",
-  "LastUpdate_Ratings": "2023-12-31T19:58:01.4337899+00:00",
-  "LastUpdate_Achievements": "2023-12-31T20:11:08.2828837+00:00"
+  "LastUpdate_Ratings": "2023-12-31T20:57:49.6446004+00:00",
+  "LastUpdate_Achievements": "2023-12-31T21:10:35.8450331+00:00"
 }

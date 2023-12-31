@@ -4,42 +4,42 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A path of no return | 98.00% | ~122 |
-| A bottomless pit | 82.00% | ~102 |
-| Pigeon | 79.00% | ~99 |
+| A path of no return | 98.00% | ~123 |
+| A bottomless pit | 82.00% | ~103 |
+| Pigeon | 79.00% | ~100 |
 | Baited | 67.00% | ~84 |
-| "Swoosh" | 58.00% | ~72 |
-| The light at the end of the tunnel | 58.00% | ~72 |
-| Masochistic | 52.00% | ~65 |
-| Soft skin | 49.00% | ~61 |
-| Splash! | 49.00% | ~61 |
-| Squid game | 41.00% | ~51 |
-| Rock Solid | 34.00% | ~42 |
-| Sensitive soul | 34.00% | ~42 |
-| The beast within | 33.00% | ~41 |
-| It's getting dark | 33.00% | ~41 |
-| Rooftop | 30.00% | ~38 |
-| Hard Rock | 29.00% | ~36 |
+| "Swoosh" | 58.00% | ~73 |
+| The light at the end of the tunnel | 57.00% | ~72 |
+| Masochistic | 52.00% | ~66 |
+| Soft skin | 48.00% | ~60 |
+| Splash! | 48.00% | ~60 |
+| Squid game | 40.00% | ~50 |
+| Sensitive soul | 34.00% | ~43 |
+| Rock Solid | 33.00% | ~42 |
+| The beast within | 33.00% | ~42 |
+| It's getting dark | 33.00% | ~42 |
+| Rooftop | 29.00% | ~37 |
+| Hard Rock | 29.00% | ~37 |
 | Homeless | 28.00% | ~35 |
 | Big badaboom! | 27.00% | ~34 |
-| Payback | 25.00% | ~31 |
+| Payback | 25.00% | ~32 |
 | Nokron tower | 24.00% | ~30 |
 | Bookworm | 24.00% | ~30 |
 | Full power | 22.00% | ~28 |
 | "Ah sh*t... Here we go again!" | 22.00% | ~28 |
-| Compulsive hoarder | 22.00% | ~28 |
 | Magnitude 5 | 22.00% | ~28 |
+| Compulsive hoarder | 21.00% | ~26 |
 | GG EZ | 15.00% | ~19 |
 | Comeback | 15.00% | ~19 |
-| MayDay! MayDay! | 10.00% | ~12 |
+| MayDay! MayDay! | 10.00% | ~13 |
 | Gooooooaaaaal!!! | 7.00% | ~9 |
-| Sadistic | 2.00% | ~2 |
+| Sadistic | 2.00% | ~3 |
 | Abyssal God | 0.00% | ~0 |
 | What do you want? | 0.00% | ~0 |
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125 (Ranked 469)  
+Progressed: 126 (Ranked 468)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,4 +109,4 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 117 | 0 |
 | 2023-12-28 | 121 | 0 |
 | 2023-12-30 | 123 | 0 |
-| 2023-12-31 | 125 | 0 |
+| 2023-12-31 | 126 | 0 |

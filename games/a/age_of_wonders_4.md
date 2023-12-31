@@ -8,8 +8,8 @@ Rating: 4.63 (Ranked 357)
 | Secret Technique | 13.00% | ~860 |
 | Realm Estate | 11.00% | ~728 |
 | A Wonderful Discovery | 11.00% | ~728 |
-| Walls Cannot Stop Us | 10.00% | ~661 |
-| From Friends to Family | 9.00% | ~595 |
+| Walls Cannot Stop Us | 10.00% | ~662 |
+| From Friends to Family | 9.00% | ~596 |
 | Bone Peddler | 8.00% | ~529 |
 | Magical Synergy | 7.00% | ~463 |
 | There Can Only Be One! | 6.00% | ~397 |
@@ -20,14 +20,14 @@ Rating: 4.63 (Ranked 357)
 | In a Liege of Your Own | 5.00% | ~331 |
 | Intimidation Tactics | 5.00% | ~331 |
 | But this one is mine | 5.00% | ~331 |
-| Return of the Wizard King | 3.00% | ~198 |
-| Enchanted Archipelago | 3.00% | ~198 |
-| Digging for Treasure | 3.00% | ~198 |
-| My Final Form | 3.00% | ~198 |
-| Fiery Friend | 3.00% | ~198 |
-| Against the Odds | 3.00% | ~198 |
-| Impenetrable Fortress | 3.00% | ~198 |
-| Freed Lands of Manuhari | 3.00% | ~198 |
+| Return of the Wizard King | 3.00% | ~199 |
+| Enchanted Archipelago | 3.00% | ~199 |
+| Digging for Treasure | 3.00% | ~199 |
+| My Final Form | 3.00% | ~199 |
+| Fiery Friend | 3.00% | ~199 |
+| Against the Odds | 3.00% | ~199 |
+| Impenetrable Fortress | 3.00% | ~199 |
+| Freed Lands of Manuhari | 3.00% | ~199 |
 | Arch Mage | 2.00% | ~132 |
 | The Creator | 2.00% | ~132 |
 | Crimson Caldera | 2.00% | ~132 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 357)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,614 (Ranked 195)  
+Progressed: 6,617 (Ranked 195)  
 Completed: 7 (0.11%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 7 (0.11%) (Ranked 302)
 | 2023-12-28 | 6,414 | 7 |
 | 2023-12-29 | 6,495 | 7 |
 | 2023-12-30 | 6,566 | 7 |
-| 2023-12-31 | 6,614 | 7 |
+| 2023-12-31 | 6,617 | 7 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 478)  
 Sum: 184 (Ranked 423)  

@@ -8,8 +8,8 @@ Number of Ratings: 292  (23.09.2022)
 | ---- | ---------- | ----- |
 | Adept | 45.00% | ~402 |
 | Double Kill | 39.00% | ~348 |
-| Critical Hit | 20.00% | ~179 |
-| Veteran | 20.00% | ~179 |
+| Critical Hit | 21.00% | ~188 |
+| Veteran | 21.00% | ~188 |
 | Dressed For Success | 14.00% | ~125 |
 | Veni, Vidi, Vici | 9.00% | ~80 |
 | Multi Kill | 8.00% | ~71 |
@@ -30,9 +30,9 @@ Number of Ratings: 292  (23.09.2022)
 | Ultra Kill | 2.00% | ~18 |
 | Pyrrhic Victory | 2.00% | ~18 |
 | Versatile Wielder | 1.00% | ~9 |
+| Together For Her | 1.00% | ~9 |
 | Such A Fungi | 1.00% | ~9 |
 | Grand Master | 1.00% | ~9 |
-| Together For Her | 0.90% | ~8 |
 | In The Thick of It | 0.70% | ~6 |
 | Unlimited Power! | 0.60% | ~5 |
 | Get Over Here! | 0.60% | ~5 |

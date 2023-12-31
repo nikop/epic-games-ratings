@@ -9229,9 +9229,9 @@
       "Count": 3614
     }
   ],
-  "EOS_Progressed": 248577,
+  "EOS_Progressed": 248606,
   "EOS_Completed": 2580,
-  "EOS_NewPlayers": 4341,
+  "EOS_NewPlayers": 4359,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -38124,6 +38124,11 @@
       "Time": "2023-12-31T20:11:23.5012454+00:00",
       "NumProgressed": 248577,
       "NumCompleted": 2580
+    },
+    {
+      "Time": "2023-12-31T21:10:51.8648067+00:00",
+      "NumProgressed": 248606,
+      "NumCompleted": 2580
     }
   ],
   "TotalAchievements": 546,
@@ -38135,7 +38140,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7457
+      "UsersEstimate": 7458
     },
     {
       "ID": "objective_completed_10",
@@ -42463,7 +42468,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "objective_completed_678",
@@ -42471,7 +42476,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "objective_completed_683",
@@ -42479,7 +42484,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "objective_completed_860",
@@ -42487,7 +42492,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "objective_completed_865",
@@ -42502,21 +42507,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 214851,
+      "Progressed": 214880,
       "Completed": 4111
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 248577,
+      "Progressed": 248606,
       "Completed": 2580
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-31T15:56:59.5549652+00:00",
-  "LastChanged_Achievements": "2023-12-31T20:11:23.5012451+00:00",
+  "LastChanged_Achievements": "2023-12-31T21:10:51.8648061+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2023-12-31T19:57:35.1821908+00:00",
-  "LastUpdate_Achievements": "2023-12-31T20:11:23.5037659+00:00"
+  "LastUpdate_Ratings": "2023-12-31T20:57:22.2737265+00:00",
+  "LastUpdate_Achievements": "2023-12-31T21:10:51.8672589+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -97,9 +97,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2112,
+  "EOS_Progressed": 2113,
   "EOS_Completed": 129,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 6.11,
   "EosHistory": [
@@ -5922,6 +5922,11 @@
       "Time": "2023-12-31T20:08:02.3777821+00:00",
       "NumProgressed": 2112,
       "NumCompleted": 129
+    },
+    {
+      "Time": "2023-12-31T21:07:55.0091123+00:00",
+      "NumProgressed": 2113,
+      "NumCompleted": 129
     }
   ],
   "TotalAchievements": 25,
@@ -5965,7 +5970,7 @@
       "Name": "A good beginning",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "META_HALF_LINK",
@@ -5981,7 +5986,7 @@
       "Name": "Open door",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "META_RESULT_1-3",
@@ -6013,7 +6018,7 @@
       "Name": "For its own good",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "META_RESULT_3-4",
@@ -6045,7 +6050,7 @@
       "Name": "True G3M4R",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -6093,7 +6098,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "PROGRESS_N2",
@@ -6101,7 +6106,7 @@
       "Name": "The great escape",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "PROGRESS_N3",
@@ -6117,7 +6122,7 @@
       "Name": "The darkness",
       "Percentage": 28,
       "XP": 60,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "PROGRESS_N5",
@@ -6132,7 +6137,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2112,
+      "Progressed": 2113,
       "Completed": 129
     }
   ],
@@ -6140,8 +6145,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-31T07:01:38.7723363+00:00",
-  "LastChanged_Achievements": "2023-12-31T20:08:02.3777816+00:00",
+  "LastChanged_Achievements": "2023-12-31T21:07:55.0091118+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2023-12-31T20:02:50.7661862+00:00",
-  "LastUpdate_Achievements": "2023-12-31T20:08:02.37783+00:00"
+  "LastUpdate_Ratings": "2023-12-31T21:02:27.1981323+00:00",
+  "LastUpdate_Achievements": "2023-12-31T21:07:55.0091488+00:00"
 }

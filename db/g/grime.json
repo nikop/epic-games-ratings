@@ -2,13 +2,13 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 445,
+  "Ranking_Rating": 444,
   "Ranking_Popularity": 423,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1789,10 +1789,10 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 165785,
-  "EOS_Completed": 429,
-  "EOS_NewPlayers": 1505,
-  "EOS_NewCompleters": 30,
+  "EOS_Progressed": 165796,
+  "EOS_Completed": 430,
+  "EOS_NewPlayers": 1508,
+  "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
     {
@@ -21349,6 +21349,11 @@
       "Time": "2023-12-31T20:05:09.2999662+00:00",
       "NumProgressed": 165785,
       "NumCompleted": 429
+    },
+    {
+      "Time": "2023-12-31T21:04:53.5139283+00:00",
+      "NumProgressed": 165796,
+      "NumCompleted": 430
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -21473,7 +21478,7 @@
       "Name": "Glare",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -21497,7 +21502,7 @@
       "Name": "Harmless",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -21625,7 +21630,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -21728,21 +21733,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 165368,
+      "Progressed": 165379,
       "Completed": 1249
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 165785,
-      "Completed": 429
+      "Progressed": 165796,
+      "Completed": 430
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-31T13:00:03.1579363+00:00",
-  "LastChanged_Achievements": "2023-12-31T20:05:09.2999658+00:00",
+  "LastChanged_Achievements": "2023-12-31T21:04:53.5139278+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:50.3299145+00:00",
-  "LastUpdate_Ratings": "2023-12-31T19:58:43.0571865+00:00",
-  "LastUpdate_Achievements": "2023-12-31T20:05:09.3000851+00:00"
+  "LastUpdate_Ratings": "2023-12-31T20:58:33.223466+00:00",
+  "LastUpdate_Achievements": "2023-12-31T21:04:53.5140307+00:00"
 }
