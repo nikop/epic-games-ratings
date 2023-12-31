@@ -9759,9 +9759,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 815186,
+  "EOS_Progressed": 815187,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 1202,
+  "EOS_NewPlayers": 1203,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -38544,6 +38544,11 @@
       "Time": "2023-12-31T01:59:53.01452+00:00",
       "NumProgressed": 815186,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-12-31T02:35:22.1233266+00:00",
+      "NumProgressed": 815187,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 82,
@@ -38667,7 +38672,7 @@
       "Name": "Cavalier",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 211948
+      "UsersEstimate": 211949
     },
     {
       "ID": "Chivalrous",
@@ -39091,7 +39096,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89670
+      "UsersEstimate": 89671
     },
     {
       "ID": "Sniper",
@@ -39163,7 +39168,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89670
+      "UsersEstimate": 89671
     },
     {
       "ID": "TrialAndError",
@@ -39210,15 +39215,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 815186,
+      "Progressed": 815187,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-12-30T21:57:35.6660326+00:00",
-  "LastChanged_Achievements": "2023-12-31T01:59:53.0145193+00:00",
+  "LastChanged_Achievements": "2023-12-31T02:35:22.1233264+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:46.9804753+00:00",
-  "LastUpdate_Ratings": "2023-12-31T01:47:28.7163494+00:00",
-  "LastUpdate_Achievements": "2023-12-31T01:59:53.014695+00:00"
+  "LastUpdate_Ratings": "2023-12-31T02:22:08.280987+00:00",
+  "LastUpdate_Achievements": "2023-12-31T02:35:22.12351+00:00"
 }

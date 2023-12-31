@@ -26,7 +26,7 @@ Rating: 4.53 (Ranked 558)
 | The More The Merrier | 28.00% | ~1,542 |
 | Omelette Du Fromage | 27.00% | ~1,487 |
 | The Darwin Era Was Here | 25.00% | ~1,377 |
-| Deep Into Insanity | 23.00% | ~1,267 |
+| Deep Into Insanity | 24.00% | ~1,322 |
 | The Passenger | 23.00% | ~1,267 |
 | Come on, You Wanna Live Forever? | 22.00% | ~1,212 |
 | The Spire | 21.00% | ~1,156 |

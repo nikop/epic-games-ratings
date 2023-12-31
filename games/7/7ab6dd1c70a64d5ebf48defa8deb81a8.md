@@ -5,21 +5,21 @@ Rating: 4.12 (Ranked 996)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 59.00% | ~902 |
-| Trinity | 29.00% | ~443 |
-| Find Allies | 22.00% | ~336 |
-| A Taste of Wrath | 22.00% | ~336 |
-| The Collector | 22.00% | ~336 |
-| Shatter Them All | 21.00% | ~321 |
-| Geared Up | 21.00% | ~321 |
-| I Found It | 21.00% | ~321 |
+| Break Out | 58.00% | ~888 |
+| Trinity | 28.00% | ~429 |
+| Find Allies | 22.00% | ~337 |
+| A Taste of Wrath | 22.00% | ~337 |
+| The Collector | 22.00% | ~337 |
+| Shatter Them All | 21.00% | ~322 |
+| Geared Up | 21.00% | ~322 |
+| I Found It | 21.00% | ~322 |
 | Scholar | 20.00% | ~306 |
 | Adventurer | 19.00% | ~291 |
 | Fashion Victim | 19.00% | ~291 |
-| Tributes of Caladrias | 18.00% | ~275 |
-| Stone Collection | 18.00% | ~275 |
+| Tributes of Caladrias | 18.00% | ~276 |
+| Stone Collection | 18.00% | ~276 |
 | Powerful Allies | 17.00% | ~260 |
-| Big Bazar | 12.00% | ~183 |
+| Big Bazar | 12.00% | ~184 |
 | Essence Blow | 11.00% | ~168 |
 | Alchemist | 11.00% | ~168 |
 | The Mentor | 9.00% | ~138 |
@@ -38,11 +38,11 @@ Rating: 4.12 (Ranked 996)
 | Shardbearer | 1.00% | ~15 |
 | False God | 1.00% | ~15 |
 | Forgemaster | 0.90% | ~14 |
-| Summiter | 0.90% | ~14 |
+| Summiter | 0.80% | ~12 |
 | All That Gold | 0.70% | ~11 |
 | Feeling Fancy | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,529 (Ranked 260)  
+Progressed: 1,531 (Ranked 260)  
 Completed: 3 (0.20%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 3 (0.20%) (Ranked 273)
 | 2023-12-28 | 1,412 | 3 |
 | 2023-12-29 | 1,459 | 3 |
 | 2023-12-30 | 1,519 | 3 |
-| 2023-12-31 | 1,529 | 3 |
+| 2023-12-31 | 1,531 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

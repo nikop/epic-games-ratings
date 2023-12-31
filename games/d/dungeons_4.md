@@ -34,8 +34,8 @@ Rating: 4.65 (Ranked 324)
 | Mana Cannon | 41.00% | ~276 |
 | All’s Well That Ends Evil | 40.00% | ~270 |
 | The Duel | 38.00% | ~256 |
+| Unstoppable Horde | 35.00% | ~236 |
 | If Looks Could Kill | 35.00% | ~236 |
-| Unstoppable Horde | 34.00% | ~229 |
 | Master of the Undead | 34.00% | ~229 |
 | The Finitude Drill | 32.00% | ~216 |
 | Ghost Pirates? Ghost Heroes! | 30.00% | ~202 |

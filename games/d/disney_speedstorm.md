@@ -1,17 +1,17 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.41 (Ranked 744)  
+Rating: 4.42 (Ranked 734)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~48,942 |
-| IT MAKES BOOM! | 8.00% | ~30,118 |
-| EXTRA BOOST | 6.00% | ~22,588 |
-| PROTECTED | 5.00% | ~18,824 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,059 |
-| PRO | 4.00% | ~15,059 |
-| AGGRESSIVE RACER | 3.00% | ~11,294 |
+| ROOKIE | 13.00% | ~48,948 |
+| IT MAKES BOOM! | 8.00% | ~30,122 |
+| EXTRA BOOST | 6.00% | ~22,591 |
+| PROTECTED | 5.00% | ~18,826 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,061 |
+| PRO | 4.00% | ~15,061 |
+| AGGRESSIVE RACER | 3.00% | ~11,296 |
 | IT'S A LONG WAY TO THE TOP | 2.00% | ~7,530 |
 | TRAINING HARD | 2.00% | ~7,530 |
 | A TIGER'S FEAR | 2.00% | ~7,530 |
@@ -23,14 +23,14 @@ Rating: 4.41 (Ranked 744)
 | FRIENDLY | 1.00% | ~3,765 |
 | MASTER | 1.00% | ~3,765 |
 | LEGENDARY HERO | 1.00% | ~3,765 |
-| ACE BRAWLER | 0.90% | ~3,388 |
-| THE EYE OF THE HUNTER | 0.90% | ~3,388 |
+| ACE BRAWLER | 0.90% | ~3,389 |
+| THE EYE OF THE HUNTER | 0.90% | ~3,389 |
 | EXPERIENCED CREW | 0.80% | ~3,012 |
 | PERFECTLY POISED | 0.60% | ~2,259 |
 | FRAMED! | 0.60% | ~2,259 |
 | ACE TRICKSTER | 0.60% | ~2,259 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 376,475 (Ranked 49)  
+Progressed: 376,524 (Ranked 49)  
 Completed: 1,332 (0.35%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,10 +281,10 @@ Completed: 1,332 (0.35%) (Ranked 236)
 | 2023-12-28 | 372,212 | 1,280 |
 | 2023-12-29 | 374,175 | 1,307 |
 | 2023-12-30 | 376,176 | 1,325 |
-| 2023-12-31 | 376,475 | 1,332 |
+| 2023-12-31 | 376,524 | 1,332 |
 ## Awards
 Max (Great for Beginners): 161  (Ranked 321)  
-Sum: 1,068 (Ranked 262)  
+Sum: 1,071 (Ranked 262)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -295,7 +295,7 @@ Diff (max vs sum): 59
 | This game has Playful Visuals | 84 |
 | This game has Amazing Characters | 79 |
 | This game is Highly Recommended | 75 |
-| This game is Extremely Fun | 69 |
+| This game is Extremely Fun | 72 |
 | This game has Competitive Players | 67 |
 | This game has Quickly Understood Controls | 63 |
 | This game is Relaxing | 58 |
@@ -394,3 +394,4 @@ Diff (max vs sum): 59
 | 2023-12-28 | 4.41 | 159 | 1,048 |
 | 2023-12-29 | 4.41 | 161 | 1,060 |
 | 2023-12-30 | 4.41 | 161 | 1,068 |
+| 2023-12-31 | 4.42 | 161 | 1,071 |

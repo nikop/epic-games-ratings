@@ -6,27 +6,27 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 7.00% | ~1,382 |
-| Overgrown Library | 7.00% | ~1,382 |
+| Abandoned Settlement | 7.00% | ~1,383 |
+| Overgrown Library | 7.00% | ~1,383 |
 | First Real Expedition | 6.00% | ~1,185 |
 | Taking Action | 6.00% | ~1,185 |
 | No Deaths | 6.00% | ~1,185 |
 | Petrified Necropolis | 6.00% | ~1,185 |
-| Overcoming Difficulty | 5.00% | ~987 |
-| Coral Forest | 5.00% | ~987 |
-| The Marshlands | 5.00% | ~987 |
-| Ominous Presence | 5.00% | ~987 |
-| Gathering Storm | 5.00% | ~987 |
+| Overcoming Difficulty | 5.00% | ~988 |
+| Coral Forest | 5.00% | ~988 |
+| The Marshlands | 5.00% | ~988 |
+| Ominous Presence | 5.00% | ~988 |
+| Gathering Storm | 5.00% | ~988 |
 | The Scarlet Orchard | 4.00% | ~790 |
 | Frosts | 4.00% | ~790 |
 | Land of Greed | 4.00% | ~790 |
-| Homesick | 3.00% | ~592 |
-| Fertile Meadows | 3.00% | ~592 |
-| Monastery of the Holy Flame | 3.00% | ~592 |
-| Royal Outpost | 3.00% | ~592 |
-| Watchtower | 3.00% | ~592 |
-| A Real Challenge | 3.00% | ~592 |
-| Untamed Wilds | 3.00% | ~592 |
+| Homesick | 3.00% | ~593 |
+| Fertile Meadows | 3.00% | ~593 |
+| Monastery of the Holy Flame | 3.00% | ~593 |
+| Royal Outpost | 3.00% | ~593 |
+| Watchtower | 3.00% | ~593 |
+| A Real Challenge | 3.00% | ~593 |
+| Untamed Wilds | 3.00% | ~593 |
 | Ruined Armory | 2.00% | ~395 |
 | Bandit Camp | 2.00% | ~395 |
 | Barren Lands | 2.00% | ~395 |
@@ -39,25 +39,25 @@ Number of Ratings: 1,845  (23.09.2022)
 | Corrosive Torrent | 2.00% | ~395 |
 | Cursed Lands | 2.00% | ~395 |
 | Trade Baron | 2.00% | ~395 |
-| Serving Ale | 1.00% | ~197 |
-| Against All Odds | 1.00% | ~197 |
-| Fishmen Ritual Site | 1.00% | ~197 |
-| Haunted Forest | 1.00% | ~197 |
-| Victory Through Prosperity | 1.00% | ~197 |
-| Defying the Crown | 1.00% | ~197 |
-| Into the Forest | 1.00% | ~197 |
+| Serving Ale | 1.00% | ~198 |
+| Against All Odds | 1.00% | ~198 |
+| Fishmen Ritual Site | 1.00% | ~198 |
+| Haunted Forest | 1.00% | ~198 |
+| Victory Through Prosperity | 1.00% | ~198 |
+| Defying the Crown | 1.00% | ~198 |
+| Into the Forest | 1.00% | ~198 |
 | Efficient Explorer | 0.90% | ~178 |
 | Refinery | 0.90% | ~178 |
 | Forsaken Gods Temple | 0.90% | ~178 |
 | Dangerous Lands | 0.80% | ~158 |
 | Forbidden Lands | 0.80% | ~158 |
-| Feeding The People | 0.60% | ~118 |
+| Feeding The People | 0.60% | ~119 |
 | Like a Machine | 0.50% | ~99 |
 | Fox Utopia | 0.50% | ~99 |
 | Blood Flower Farmer | 0.40% | ~79 |
 | Prestigious Expedition | 0.30% | ~59 |
-| Human Utopia | 0.20% | ~39 |
-| Lizard Utopia | 0.20% | ~39 |
+| Human Utopia | 0.20% | ~40 |
+| Lizard Utopia | 0.20% | ~40 |
 | Paradise | 0.10% | ~20 |
 | Higher Needs | 0.10% | ~20 |
 | Beaver Utopia | 0.10% | ~20 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,748 (Ranked 151)  
+Progressed: 19,752 (Ranked 151)  
 Completed: 34 (0.17%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 34 (0.17%) (Ranked 280)
 | 2023-12-28 | 19,536 | 36 |
 | 2023-12-29 | 19,630 | 36 |
 | 2023-12-30 | 19,741 | 35 |
-| 2023-12-31 | 19,748 | 34 |
+| 2023-12-31 | 19,752 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 447  (Ranked 230)  
 Sum: 3,309 (Ranked 177)  

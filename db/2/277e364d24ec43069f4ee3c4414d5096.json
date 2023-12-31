@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 118490,
+  "EOS_Progressed": 118494,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 882,
+  "EOS_NewPlayers": 885,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -23175,6 +23175,11 @@
       "Time": "2023-12-31T01:59:53.6922741+00:00",
       "NumProgressed": 118490,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-12-31T02:35:23.2206754+00:00",
+      "NumProgressed": 118494,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 49,
@@ -23194,7 +23199,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 91237
+      "UsersEstimate": 91240
     },
     {
       "ID": "EAwards_10",
@@ -23210,7 +23215,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 31992
+      "UsersEstimate": 31993
     },
     {
       "ID": "EAwards_12",
@@ -23250,7 +23255,7 @@
       "Name": "PERFECT",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 8294
+      "UsersEstimate": 8295
     },
     {
       "ID": "EAwards_17",
@@ -23258,7 +23263,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 43841
+      "UsersEstimate": 43843
     },
     {
       "ID": "EAwards_18",
@@ -23274,7 +23279,7 @@
       "Name": "One Born Every Minute",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7109
+      "UsersEstimate": 7110
     },
     {
       "ID": "EAwards_2",
@@ -23282,7 +23287,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 58060
+      "UsersEstimate": 58062
     },
     {
       "ID": "EAwards_20",
@@ -23298,7 +23303,7 @@
       "Name": "Special Delivery!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 8294
+      "UsersEstimate": 8295
     },
     {
       "ID": "EAwards_22",
@@ -23306,7 +23311,7 @@
       "Name": "Combo Machine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7109
+      "UsersEstimate": 7110
     },
     {
       "ID": "EAwards_23",
@@ -23314,7 +23319,7 @@
       "Name": "These are not fertilized",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 9479
+      "UsersEstimate": 9480
     },
     {
       "ID": "EAwards_24",
@@ -23322,7 +23327,7 @@
       "Name": "Temple Raider",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 8294
+      "UsersEstimate": 8295
     },
     {
       "ID": "EAwards_25",
@@ -23330,7 +23335,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 22513
+      "UsersEstimate": 22514
     },
     {
       "ID": "EAwards_26",
@@ -23370,7 +23375,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 23698
+      "UsersEstimate": 23699
     },
     {
       "ID": "EAwards_30",
@@ -23394,7 +23399,7 @@
       "Name": "El T\u00E9cnico T\u00E1ctico",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 8294
+      "UsersEstimate": 8295
     },
     {
       "ID": "EAwards_33",
@@ -23577,7 +23582,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 118490,
+      "Progressed": 118494,
       "Completed": 54
     }
   ],
@@ -23585,8 +23590,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-12-21T05:59:27.8580735+00:00",
-  "LastChanged_Achievements": "2023-12-31T01:59:53.6922738+00:00",
+  "LastChanged_Achievements": "2023-12-31T02:35:23.2206748+00:00",
   "LastUpdate_AppInfo": "2023-12-29T08:57:21.6773482+00:00",
-  "LastUpdate_Ratings": "2023-12-31T01:52:43.9663631+00:00",
-  "LastUpdate_Achievements": "2023-12-31T01:59:53.6923901+00:00"
+  "LastUpdate_Ratings": "2023-12-31T02:27:26.0069783+00:00",
+  "LastUpdate_Achievements": "2023-12-31T02:35:23.2208238+00:00"
 }

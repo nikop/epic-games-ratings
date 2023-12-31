@@ -10344,9 +10344,9 @@
       "Count": 1071
     }
   ],
-  "EOS_Progressed": 130866,
+  "EOS_Progressed": 130872,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1391,
+  "EOS_NewPlayers": 1389,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37599,6 +37599,11 @@
       "Time": "2023-12-31T01:59:27.4373413+00:00",
       "NumProgressed": 130866,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-31T02:34:46.2472657+00:00",
+      "NumProgressed": 130872,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37738,7 +37743,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6543
+      "UsersEstimate": 6544
     },
     {
       "ID": "combat_kill_cadavers",
@@ -37770,7 +37775,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6543
+      "UsersEstimate": 6544
     },
     {
       "ID": "combat_kill_fanatics",
@@ -37834,7 +37839,7 @@
       "Name": "Overdue Notice",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6543
+      "UsersEstimate": 6544
     },
     {
       "ID": "combat_kill_pillagers",
@@ -37850,7 +37855,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6543
+      "UsersEstimate": 6544
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -38146,7 +38151,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "combat_kill_collector",
@@ -38210,7 +38215,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -38218,7 +38223,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -38241,21 +38246,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130866,
+      "Progressed": 130872,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5735,
+      "Progressed": 5741,
       "Completed": 817
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-30T18:59:12.1742166+00:00",
-  "LastChanged_Achievements": "2023-12-31T01:59:27.4373409+00:00",
+  "LastChanged_Achievements": "2023-12-31T02:34:46.2472655+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2023-12-31T01:47:28.983808+00:00",
-  "LastUpdate_Achievements": "2023-12-31T01:59:27.4375225+00:00"
+  "LastUpdate_Ratings": "2023-12-31T02:22:08.6681945+00:00",
+  "LastUpdate_Achievements": "2023-12-31T02:34:46.2474447+00:00"
 }

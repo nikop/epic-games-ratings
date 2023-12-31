@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Welcome to Maupiroa | 46.00% | ~13 |
 | Recycling newbie | 39.00% | ~11 |
-| New recruit | 21.00% | ~6 |
+| New recruit | 25.00% | ~7 |
 | Interesting | 21.00% | ~6 |
 | Amateur photographer | 14.00% | ~4 |
 | Rescuer | 11.00% | ~3 |
@@ -15,6 +15,7 @@
 | Power of the ray | 11.00% | ~3 |
 | Pro Photographer | 7.00% | ~2 |
 | Recycling expert | 7.00% | ~2 |
+| Let's get started | 7.00% | ~2 |
 | Island gardian angel | 7.00% | ~2 |
 | Heroic member | 7.00% | ~2 |
 | Picture of the bay | 7.00% | ~2 |
@@ -25,7 +26,6 @@
 | Creek cleanup | 4.00% | ~1 |
 | Atoll cleanup | 4.00% | ~1 |
 | Reef cleanup | 4.00% | ~1 |
-| Let's get started | 4.00% | ~1 |
 | Legend of the association | 4.00% | ~1 |
 | Picture of the creek | 4.00% | ~1 |
 | Picture of the island | 4.00% | ~1 |

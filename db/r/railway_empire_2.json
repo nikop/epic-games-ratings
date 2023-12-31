@@ -313,7 +313,7 @@
   "Tags": [],
   "EOS_Progressed": 2584,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7615,9 +7615,9 @@
       "ID": "A20",
       "SetID": "9b7p7eo",
       "Name": "Country Bumpkin",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1990
     },
     {
       "ID": "A21",
@@ -7679,9 +7679,9 @@
       "ID": "A28",
       "SetID": "9b7p7eo",
       "Name": "We brake for nobody",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1783
     },
     {
       "ID": "A29",
@@ -7904,8 +7904,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-27T17:00:03.776976+00:00",
-  "LastChanged_Achievements": "2023-12-31T01:54:46.5830617+00:00",
-  "LastUpdate_AppInfo": "2023-12-24T02:20:12.6153541+00:00",
-  "LastUpdate_Ratings": "2023-12-31T01:47:44.4549799+00:00",
-  "LastUpdate_Achievements": "2023-12-31T01:54:46.5831214+00:00"
+  "LastChanged_Achievements": "2023-12-31T02:30:28.4994435+00:00",
+  "LastUpdate_AppInfo": "2023-12-31T02:20:54.9390802+00:00",
+  "LastUpdate_Ratings": "2023-12-31T02:22:32.0803411+00:00",
+  "LastUpdate_Achievements": "2023-12-31T02:30:28.4995245+00:00"
 }

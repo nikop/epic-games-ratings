@@ -9,15 +9,15 @@ Rating: 4.21 (Ranked 940)
 | Disposing of the Evidence | 38.00% | ~4,237 |
 | Without a Scratch | 34.00% | ~3,791 |
 | Wreckless Driving | 28.00% | ~3,122 |
-| A Marked Man | 25.00% | ~2,787 |
+| A Marked Man | 25.00% | ~2,788 |
 | Street Sweeper | 19.00% | ~2,118 |
-| Liberty City Minute | 17.00% | ~1,895 |
+| Liberty City Minute | 17.00% | ~1,896 |
 | Offshore Delivery | 14.00% | ~1,561 |
 | Dirty Money | 12.00% | ~1,338 |
 | By a Mile | 10.00% | ~1,115 |
 | Not So Fast | 10.00% | ~1,115 |
 | Right-hand Man | 10.00% | ~1,115 |
-| A Gift from the King | 7.00% | ~780 |
+| A Gift from the King | 7.00% | ~781 |
 | Full Artillery | 4.00% | ~446 |
 | Mob Boss | 3.00% | ~334 |
 | Escape Artist | 2.00% | ~223 |
@@ -25,17 +25,17 @@ Rating: 4.21 (Ranked 940)
 | Splish Splash | 2.00% | ~223 |
 | Playing Doctor | 2.00% | ~223 |
 | Liberty City Secrets | 2.00% | ~223 |
-| Planned Ahead | 1.00% | ~111 |
-| Got This Figured Out | 1.00% | ~111 |
-| Wheels Up | 1.00% | ~111 |
-| Come Out to Play-y-y-y | 1.00% | ~111 |
-| Man Toyz | 1.00% | ~111 |
-| Going Rogue | 1.00% | ~111 |
-| Furious First Responder | 1.00% | ~111 |
+| Planned Ahead | 1.00% | ~112 |
+| Got This Figured Out | 1.00% | ~112 |
+| Wheels Up | 1.00% | ~112 |
+| Come Out to Play-y-y-y | 1.00% | ~112 |
+| Man Toyz | 1.00% | ~112 |
+| Going Rogue | 1.00% | ~112 |
+| Furious First Responder | 1.00% | ~112 |
 | Is That All You've Got? | 0.90% | ~100 |
 | King of Liberty City | 0.60% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,149 (Ranked 177)  
+Progressed: 11,150 (Ranked 177)  
 Completed: 70 (0.63%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 70 (0.63%) (Ranked 202)
 | 2023-12-28 | 10,918 | 69 |
 | 2023-12-29 | 11,014 | 70 |
 | 2023-12-30 | 11,134 | 70 |
-| 2023-12-31 | 11,149 | 70 |
+| 2023-12-31 | 11,150 | 70 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

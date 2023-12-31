@@ -1,22 +1,22 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.20 (Ranked 949)  
+Rating: 4.21 (Ranked 940)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 20.00% | ~4,033 |
 | The Outer Way | 20.00% | ~4,033 |
-| Desperate Times | 19.00% | ~3,831 |
-| Paper Jams | 18.00% | ~3,629 |
+| Desperate Times | 19.00% | ~3,832 |
+| Paper Jams | 18.00% | ~3,630 |
 | Get a Grip | 17.00% | ~3,428 |
-| Chew 'Em Up | 16.00% | ~3,226 |
+| Chew 'Em Up | 16.00% | ~3,227 |
 | Float Like A Butterfly | 14.00% | ~2,823 |
 | Reforged | 14.00% | ~2,823 |
-| If the SHU Fits... | 13.00% | ~2,621 |
+| If the SHU Fits... | 13.00% | ~2,622 |
 | Workplace Hazard | 12.00% | ~2,420 |
 | Without A Paddle | 11.00% | ~2,218 |
-| In the Pipe, Five by Five | 10.00% | ~2,016 |
+| In the Pipe, Five by Five | 10.00% | ~2,017 |
 | Two Heads Are Better Than One | 9.00% | ~1,815 |
 | Crash Site | 9.00% | ~1,815 |
 | Power Up | 9.00% | ~1,815 |
@@ -24,10 +24,10 @@ Rating: 4.20 (Ranked 949)
 | Terminated | 8.00% | ~1,613 |
 | What Lies Beneath | 8.00% | ~1,613 |
 | Full Circle | 8.00% | ~1,613 |
-| You Need a Gun | 7.00% | ~1,411 |
+| You Need a Gun | 7.00% | ~1,412 |
 | I Do Belong Here | 6.00% | ~1,210 |
-| Keep Fighting | 6.00% | ~485 |
-| It's Time | 5.00% | ~404 |
+| Keep Fighting | 6.00% | ~486 |
+| It's Time | 5.00% | ~405 |
 | In Striking Distance | 4.00% | ~807 |
 | The Commonality | 4.00% | ~807 |
 | One Last Job | 3.00% | ~243 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 949)
 | Big Game Hunter | 0.10% | ~8 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,163 (Ranked 150)  
+Progressed: 20,166 (Ranked 150)  
 Completed: 82 (0.41%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 82 (0.41%) (Ranked 229)
 | 2023-12-28 | 19,780 | 82 |
 | 2023-12-29 | 19,946 | 82 |
 | 2023-12-30 | 20,137 | 82 |
-| 2023-12-31 | 20,163 | 82 |
+| 2023-12-31 | 20,166 | 82 |
 ## Awards
 Max (Amazing Characters): 107  (Ranked 365)  
 Sum: 536 (Ranked 331)  
@@ -504,3 +504,4 @@ Diff (max vs sum): 34
 | 2023-12-28 | 4.21 | 104 | 525 |
 | 2023-12-29 | 4.20 | 106 | 532 |
 | 2023-12-30 | 4.21 | 107 | 536 |
+| 2023-12-31 | 4.21 | 107 | 536 |

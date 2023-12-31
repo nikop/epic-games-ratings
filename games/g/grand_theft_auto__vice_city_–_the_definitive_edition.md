@@ -5,15 +5,15 @@ Rating: 4.52 (Ranked 570)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~6,777 |
-| Greasy Palms | 42.00% | ~6,188 |
-| South American Connection | 26.00% | ~3,831 |
-| Life of the Party | 20.00% | ~2,947 |
-| Big Heat from Little Havana | 15.00% | ~2,210 |
-| Chauffeur | 15.00% | ~2,210 |
-| Tommy Two-Wheels | 15.00% | ~2,210 |
+| Legal Counsel | 46.00% | ~6,779 |
+| Greasy Palms | 42.00% | ~6,190 |
+| South American Connection | 26.00% | ~3,832 |
+| Life of the Party | 20.00% | ~2,948 |
+| Big Heat from Little Havana | 15.00% | ~2,211 |
+| Chauffeur | 15.00% | ~2,211 |
+| Tommy Two-Wheels | 15.00% | ~2,211 |
 | Salutations My Little Friend | 11.00% | ~1,621 |
-| Iron-y | 10.00% | ~1,473 |
+| Iron-y | 10.00% | ~1,474 |
 | Gun for Hire | 9.00% | ~1,326 |
 | Mischief Managed | 8.00% | ~1,179 |
 | Vice City Mogul | 6.00% | ~884 |
@@ -21,7 +21,7 @@ Rating: 4.52 (Ranked 570)
 | Bloodstained Hands | 6.00% | ~884 |
 | Not my First Time | 5.00% | ~737 |
 | Grand Theft Auto | 5.00% | ~737 |
-| Pie Guy | 4.00% | ~589 |
+| Pie Guy | 4.00% | ~590 |
 | Point A to Point B | 3.00% | ~442 |
 | High Quality H2O | 3.00% | ~442 |
 | Bull in a China Shop | 3.00% | ~442 |
@@ -40,7 +40,7 @@ Rating: 4.52 (Ranked 570)
 | Done it All | 0.90% | ~133 |
 | Kingpin | 0.60% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,733 (Ranked 169)  
+Progressed: 14,738 (Ranked 169)  
 Completed: 83 (0.56%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,14 +295,14 @@ Completed: 83 (0.56%) (Ranked 209)
 | 2023-12-28 | 14,428 | 82 |
 | 2023-12-29 | 14,564 | 83 |
 | 2023-12-30 | 14,716 | 83 |
-| 2023-12-31 | 14,733 | 83 |
+| 2023-12-31 | 14,738 | 83 |
 ## Awards
-Max (Great Boss Battles): 164  (Ranked 320)  
-Sum: 164 (Ranked 434)  
-Diff (max vs sum): -114  
+Max (Great Boss Battles): 168  (Ranked 318)  
+Sum: 168 (Ranked 430)  
+Diff (max vs sum): -112  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 164 |
+| This game has Great Boss Battles | 168 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -465,3 +465,4 @@ Diff (max vs sum): -114
 | 2023-12-27 | 4.53 | 154 | 154 |
 | 2023-12-28 | 4.52 | 159 | 159 |
 | 2023-12-29 | 4.52 | 164 | 164 |
+| 2023-12-31 | 4.52 | 168 | 168 |

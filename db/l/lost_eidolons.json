@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1132,
+  "EOS_Progressed": 1131,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -7,
+  "EOS_NewPlayers": -8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2206,6 +2206,11 @@
       "Time": "2023-12-31T01:55:02.3320853+00:00",
       "NumProgressed": 1132,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T02:30:50.6968156+00:00",
+      "NumProgressed": 1131,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -2217,7 +2222,7 @@
       "Name": "Way of the King",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 90
     },
     {
       "ID": "02",
@@ -2249,7 +2254,7 @@
       "Name": "The First Step",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 804
+      "UsersEstimate": 803
     },
     {
       "ID": "06",
@@ -2257,7 +2262,7 @@
       "Name": "First Blood",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 770
+      "UsersEstimate": 769
     },
     {
       "ID": "07",
@@ -2265,15 +2270,15 @@
       "Name": "Monster Hunter",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 623
+      "UsersEstimate": 622
     },
     {
       "ID": "08",
       "SetID": "73ikgfc",
       "Name": "Monster Slayer",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 340
+      "UsersEstimate": 351
     },
     {
       "ID": "09",
@@ -2281,7 +2286,7 @@
       "Name": "Awakening",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 271
     },
     {
       "ID": "10",
@@ -2345,15 +2350,15 @@
       "Name": "Ready to Learn",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 736
+      "UsersEstimate": 735
     },
     {
       "ID": "18",
       "SetID": "73ikgfc",
       "Name": "Earning Trust",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 589
+      "UsersEstimate": 599
     },
     {
       "ID": "19",
@@ -2400,7 +2405,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1132,
+      "Progressed": 1131,
       "Completed": 1
     }
   ],
@@ -2408,8 +2413,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-12-04T18:59:06.5793648+00:00",
-  "LastChanged_Achievements": "2023-12-31T01:55:02.3320845+00:00",
+  "LastChanged_Achievements": "2023-12-31T02:30:50.6968154+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:47.6931487+00:00",
-  "LastUpdate_Ratings": "2023-12-31T01:52:42.7331446+00:00",
-  "LastUpdate_Achievements": "2023-12-31T01:55:02.3321088+00:00"
+  "LastUpdate_Ratings": "2023-12-31T02:27:24.2958596+00:00",
+  "LastUpdate_Achievements": "2023-12-31T02:30:50.6968452+00:00"
 }

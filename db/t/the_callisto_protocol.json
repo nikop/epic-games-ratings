@@ -2,7 +2,7 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 949,
+  "Ranking_Rating": 940,
   "Ranking_Popularity": 365,
   "Ranking_PopularitySum": 331,
   "Ranking_EOS_Progress": 150,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.2,
+  "Rating": 4.21,
   "RatingHistory": [
     {
       "Time": "2022-12-03T10:57:24.5094082+00:00",
@@ -1881,6 +1881,12 @@
       "Rating": 4.2,
       "NumberOfAwards": 536,
       "NumberOfAwardsMax": 107
+    },
+    {
+      "Time": "2023-12-31T02:28:07.1618359+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 536,
+      "NumberOfAwardsMax": 107
     }
   ],
   "ReviewsDisabled": false,
@@ -1931,9 +1937,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 20163,
+  "EOS_Progressed": 20166,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1253,
+  "EOS_NewPlayers": 1251,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -11886,6 +11892,11 @@
       "Time": "2023-12-31T01:59:23.9522026+00:00",
       "NumProgressed": 20163,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-31T02:34:41.2282232+00:00",
+      "NumProgressed": 20166,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -11921,7 +11932,7 @@
       "Name": "You Need a Gun",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "DISARM_ENEMY",
@@ -12025,7 +12036,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 3226
+      "UsersEstimate": 3227
     },
     {
       "ID": "KILL_ROBOT",
@@ -12073,7 +12084,7 @@
       "Name": "Paper Jams",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3629
+      "UsersEstimate": 3630
     },
     {
       "ID": "SHARE_PHOTO",
@@ -12097,7 +12108,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2622
     },
     {
       "ID": "STORY_HABITAT",
@@ -12113,7 +12124,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "STORY_MINETOWN",
@@ -12129,7 +12140,7 @@
       "Name": "Desperate Times",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3831
+      "UsersEstimate": 3832
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -12249,7 +12260,7 @@
       "Name": "Keep Fighting",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -12257,7 +12268,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -12272,22 +12283,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 20163,
+      "Progressed": 20166,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 8089,
+      "Progressed": 8092,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-12-30T21:04:15.9857695+00:00",
-  "LastChanged_Achievements": "2023-12-31T01:59:23.9522021+00:00",
+  "LastChanged": "2023-12-31T02:28:07.1618357+00:00",
+  "LastChanged_Achievements": "2023-12-31T02:34:41.2282228+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3019969+00:00",
-  "LastUpdate_Ratings": "2023-12-31T01:53:10.4452079+00:00",
-  "LastUpdate_Achievements": "2023-12-31T01:59:23.9522871+00:00"
+  "LastUpdate_Ratings": "2023-12-31T02:28:07.1618363+00:00",
+  "LastUpdate_Achievements": "2023-12-31T02:34:41.2283075+00:00"
 }

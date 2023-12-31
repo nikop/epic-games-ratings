@@ -51,6 +51,7 @@
 | Purification Avatar | 3.00% | ~8 |
 | The Abyssal Terror | 3.00% | ~8 |
 | The Ardent Prince | 3.00% | ~8 |
+| The Raging Skies | 3.00% | ~8 |
 | Behenian Mastery | 3.00% | ~8 |
 | Eridanian Hero | 3.00% | ~8 |
 | Noctuan Mastery | 3.00% | ~8 |
@@ -59,7 +60,6 @@
 | Pocket Astrarium | 2.00% | ~6 |
 | Reflexive Mind | 2.00% | ~6 |
 | Sentinelphobic | 2.00% | ~6 |
-| The Raging Skies | 2.00% | ~6 |
 | Aquarian Hero | 2.00% | ~6 |
 | Aquarian Mastery | 2.00% | ~6 |
 | Lacertian Mastery | 2.00% | ~6 |

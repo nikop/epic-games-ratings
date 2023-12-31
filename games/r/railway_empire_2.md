@@ -5,13 +5,13 @@ Rating: 4.42 (Ranked 734)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 76.00% | ~1,964 |
+| Country Bumpkin | 77.00% | ~1,990 |
 | A new Journey | 75.00% | ~1,938 |
 | From X to Y | 74.00% | ~1,912 |
 | Departure | 74.00% | ~1,912 |
 | Way of Iron | 71.00% | ~1,835 |
 | Mystery Tour | 70.00% | ~1,809 |
-| We brake for nobody | 68.00% | ~1,757 |
+| We brake for nobody | 69.00% | ~1,783 |
 | Brainstorm | 67.00% | ~1,731 |
 | Mind the Gap | 66.00% | ~1,705 |
 | Travel Company | 66.00% | ~1,705 |

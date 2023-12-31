@@ -1455,9 +1455,9 @@
       "ID": "NinjaSlayer",
       "SetID": "d9ekhim",
       "Name": "Air Slash",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 218
     },
     {
       "ID": "OhNo",
@@ -1664,8 +1664,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-12-31T01:59:49.93182+00:00",
+  "LastChanged_Achievements": "2023-12-31T02:35:18.2118251+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:30.8786427+00:00",
-  "LastUpdate_Ratings": "2023-12-31T01:48:37.8177424+00:00",
-  "LastUpdate_Achievements": "2023-12-31T01:59:49.9318512+00:00"
+  "LastUpdate_Ratings": "2023-12-31T02:23:53.2474063+00:00",
+  "LastUpdate_Achievements": "2023-12-31T02:35:18.2118644+00:00"
 }

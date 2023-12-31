@@ -9,7 +9,7 @@ Number of Ratings: 116  (23.09.2022)
 | Green with Envy | 79.00% | ~255 |
 | First of many… | 70.00% | ~226 |
 | Helping Hand | 66.00% | ~213 |
-| Increased Vigor | 60.00% | ~194 |
+| Increased Vigor | 61.00% | ~197 |
 | Fight Fire with Fire | 58.00% | ~187 |
 | Increased Capacity | 54.00% | ~174 |
 | Just the start | 50.00% | ~162 |
@@ -33,7 +33,7 @@ Number of Ratings: 116  (23.09.2022)
 | For Whom the Bell Tolls | 27.00% | ~87 |
 | Big Spender | 25.00% | ~81 |
 | Unyielding Strength | 23.00% | ~74 |
-| Can you restore the Balance? | 22.00% | ~71 |
+| Can you restore the Balance? | 23.00% | ~74 |
 | Crowd Source | 22.00% | ~71 |
 | Cleanup Crew | 21.00% | ~68 |
 | Maximum Capacity | 20.00% | ~65 |

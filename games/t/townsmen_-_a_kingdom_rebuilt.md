@@ -6,7 +6,7 @@ Number of Ratings: 37  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eureka! | 14.00% | ~617 |
+| Eureka! | 14.00% | ~618 |
 | Tax-man I | 13.00% | ~573 |
 | A new beginning | 13.00% | ~573 |
 | Friends from the past | 11.00% | ~485 |
@@ -28,11 +28,11 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man III | 6.00% | ~265 |
 | Tools of the trade I | 6.00% | ~265 |
 | Knee deep in snow | 6.00% | ~265 |
-| Bread for the people II | 5.00% | ~220 |
-| I like to build stuff... III | 5.00% | ~220 |
-| Builder II | 5.00% | ~220 |
-| An honorable Governor II | 5.00% | ~220 |
-| Conflicting parties | 5.00% | ~220 |
+| Bread for the people II | 5.00% | ~221 |
+| I like to build stuff... III | 5.00% | ~221 |
+| Builder II | 5.00% | ~221 |
+| An honorable Governor II | 5.00% | ~221 |
+| Conflicting parties | 5.00% | ~221 |
 | Another one bites the dust | 4.00% | ~176 |
 | I like to build stuff... IV | 4.00% | ~176 |
 | Experienced decorator | 4.00% | ~176 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,410 (Ranked 205)  
+Progressed: 4,411 (Ranked 205)  
 Completed: 4 (0.09%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,6 +258,7 @@ Completed: 4 (0.09%) (Ranked 312)
 | 2023-12-28 | 4,408 | 4 |
 | 2023-12-29 | 4,409 | 4 |
 | 2023-12-30 | 4,410 | 4 |
+| 2023-12-31 | 4,411 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

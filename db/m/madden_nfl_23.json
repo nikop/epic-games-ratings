@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -8070,9 +8070,9 @@
       "ID": "achievement_10",
       "SetID": "c8fif6p",
       "Name": "Bragging Rights",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 2339
+      "UsersEstimate": 2381
     },
     {
       "ID": "achievement_11",
@@ -8239,8 +8239,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-28T15:58:42.1942443+00:00",
-  "LastChanged_Achievements": "2023-12-31T01:54:56.0202636+00:00",
+  "LastChanged_Achievements": "2023-12-31T02:30:41.5716094+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:10.6313253+00:00",
-  "LastUpdate_Ratings": "2023-12-31T01:49:31.9029584+00:00",
-  "LastUpdate_Achievements": "2023-12-31T01:54:56.0203102+00:00"
+  "LastUpdate_Ratings": "2023-12-31T02:25:14.6511402+00:00",
+  "LastUpdate_Achievements": "2023-12-31T02:30:41.5716421+00:00"
 }

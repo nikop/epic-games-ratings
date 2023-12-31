@@ -5,7 +5,7 @@ Rating: 4.30 (Ranked 866)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bragging Rights | 55.00% | ~2,339 |
+| Bragging Rights | 56.00% | ~2,381 |
 | MVP | 54.00% | ~2,296 |
 | Big Spender | 53.00% | ~2,254 |
 | Stud Finder | 40.00% | ~1,701 |

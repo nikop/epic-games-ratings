@@ -262,9 +262,9 @@
       "ID": "ID_11",
       "SetID": "2bmd16d",
       "Name": "Let\u0027s get started",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ID_12",
@@ -286,9 +286,9 @@
       "ID": "ID_14",
       "SetID": "2bmd16d",
       "Name": "New recruit",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ID_15",
@@ -437,8 +437,8 @@
   ],
   "FirstSeen": "2023-10-01T15:03:13.0719146+00:00",
   "FirstSeenAchievements": "2023-09-07T16:08:09.7966951+00:00",
-  "LastChanged_Achievements": "2023-12-31T01:59:32.1173868+00:00",
+  "LastChanged_Achievements": "2023-12-31T02:34:53.1410971+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.1776729+00:00",
-  "LastUpdate_Ratings": "2023-12-31T01:52:44.6334819+00:00",
-  "LastUpdate_Achievements": "2023-12-31T01:59:32.1174113+00:00"
+  "LastUpdate_Ratings": "2023-12-31T02:27:26.9902895+00:00",
+  "LastUpdate_Achievements": "2023-12-31T02:34:53.1411405+00:00"
 }

@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17854,
+  "EOS_Progressed": 17857,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 620,
+  "EOS_NewPlayers": 619,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15739,6 +15739,11 @@
       "Time": "2023-12-31T01:55:59.2165801+00:00",
       "NumProgressed": 17854,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-31T02:32:12.6876328+00:00",
+      "NumProgressed": 17857,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15815,7 +15820,7 @@
       "Name": "Spore Taste",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1785
+      "UsersEstimate": 1786
     },
     {
       "ID": "18",
@@ -15855,7 +15860,7 @@
       "Name": "Drone Dodger",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1785
+      "UsersEstimate": 1786
     },
     {
       "ID": "22",
@@ -15895,7 +15900,7 @@
       "Name": "Call it Even",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "27",
@@ -15927,7 +15932,7 @@
       "Name": "Captain Drummer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2142
+      "UsersEstimate": 2143
     },
     {
       "ID": "30",
@@ -15959,7 +15964,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2142
+      "UsersEstimate": 2143
     },
     {
       "ID": "7",
@@ -16015,7 +16020,7 @@
       "Name": "Master Negotiator",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "35",
@@ -16030,13 +16035,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17854,
+      "Progressed": 17857,
       "Completed": 57
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3808,
+      "Progressed": 3811,
       "Completed": 1126
     }
   ],
@@ -16044,8 +16049,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T01:47:56.7328013+00:00",
-  "LastChanged_Achievements": "2023-12-31T01:55:59.2165797+00:00",
-  "LastUpdate_AppInfo": "2023-12-24T02:20:20.4668354+00:00",
-  "LastUpdate_Ratings": "2023-12-31T01:47:56.7328019+00:00",
-  "LastUpdate_Achievements": "2023-12-31T01:55:59.2166559+00:00"
+  "LastChanged_Achievements": "2023-12-31T02:32:12.6876324+00:00",
+  "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
+  "LastUpdate_Ratings": "2023-12-31T02:22:50.8714082+00:00",
+  "LastUpdate_Achievements": "2023-12-31T02:32:12.6877387+00:00"
 }

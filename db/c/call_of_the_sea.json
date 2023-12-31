@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 137038,
+  "EOS_Progressed": 137039,
   "EOS_Completed": 1219,
-  "EOS_NewPlayers": 1357,
+  "EOS_NewPlayers": 1355,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -29413,6 +29413,11 @@
       "Time": "2023-12-31T01:55:43.7203188+00:00",
       "NumProgressed": 137038,
       "NumCompleted": 1219
+    },
+    {
+      "Time": "2023-12-31T02:31:50.0698102+00:00",
+      "NumProgressed": 137039,
+      "NumCompleted": 1219
     }
   ],
   "TotalAchievements": 34,
@@ -29432,7 +29437,7 @@
       "Name": "The only thing I have now",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 23296
+      "UsersEstimate": 23297
     },
     {
       "ID": "ACH_GAME_JOURNAL1",
@@ -29448,7 +29453,7 @@
       "Name": "Halfway there",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 41111
+      "UsersEstimate": 41112
     },
     {
       "ID": "ACH_GAME_JOURNAL3",
@@ -29464,7 +29469,7 @@
       "Name": "I\u0027ll make a note of that...",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 12333
+      "UsersEstimate": 12334
     },
     {
       "ID": "ACH_GAME_REPLAY",
@@ -29480,7 +29485,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 109630
+      "UsersEstimate": 109631
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -29496,7 +29501,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 76741
+      "UsersEstimate": 76742
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -29512,7 +29517,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 54815
+      "UsersEstimate": 54816
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -29520,7 +29525,7 @@
       "Name": "Weekend at Walakea\u0027s",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 37000
+      "UsersEstimate": 37001
     },
     {
       "ID": "ACH_L02_LOGO",
@@ -29536,7 +29541,7 @@
       "Name": "The Vanishing of the Lady Shannon",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 41111
+      "UsersEstimate": 41112
     },
     {
       "ID": "ACH_L03_BLACKBEACH_OBJ",
@@ -29592,7 +29597,7 @@
       "Name": "Quite a Show",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 37000
+      "UsersEstimate": 37001
     },
     {
       "ID": "ACH_L04B_DESERT_END",
@@ -29695,7 +29700,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 137038,
+      "Progressed": 137039,
       "Completed": 1219
     }
   ],
@@ -29703,8 +29708,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-24T21:59:26.7035134+00:00",
-  "LastChanged_Achievements": "2023-12-31T01:55:43.7203185+00:00",
+  "LastChanged_Achievements": "2023-12-31T02:31:50.0698099+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:19.3562765+00:00",
-  "LastUpdate_Ratings": "2023-12-31T01:50:00.5155586+00:00",
-  "LastUpdate_Achievements": "2023-12-31T01:55:43.7204558+00:00"
+  "LastUpdate_Ratings": "2023-12-31T02:25:57.483979+00:00",
+  "LastUpdate_Achievements": "2023-12-31T02:31:50.0699623+00:00"
 }

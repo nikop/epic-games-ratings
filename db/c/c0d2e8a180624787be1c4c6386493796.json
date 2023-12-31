@@ -1229,9 +1229,9 @@
       "ID": "KR4_ACHIEVEMENT_FIND_THE_CAPT",
       "SetID": "caeik3h",
       "Name": "Find Cap",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "KR4_ACHIEVEMENT_FROGGER",
@@ -1525,9 +1525,9 @@
       "ID": "KR4_ACHIEVEMENT_POLYX",
       "SetID": "caeik3h",
       "Name": "Much To Learn",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 94
     },
     {
       "ID": "KR4_ACHIEVEMENT_PUMPKIN",
@@ -1698,8 +1698,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-31T01:56:19.0627078+00:00",
+  "LastChanged_Achievements": "2023-12-31T02:32:40.770268+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.1058747+00:00",
-  "LastUpdate_Ratings": "2023-12-31T01:48:26.9300265+00:00",
-  "LastUpdate_Achievements": "2023-12-31T01:56:19.0627945+00:00"
+  "LastUpdate_Ratings": "2023-12-31T02:23:36.2424663+00:00",
+  "LastUpdate_Achievements": "2023-12-31T02:32:40.7703358+00:00"
 }

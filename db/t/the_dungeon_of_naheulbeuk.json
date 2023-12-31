@@ -1635,9 +1635,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 245650,
+  "EOS_Progressed": 245653,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1335,
+  "EOS_NewPlayers": 1338,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24335,6 +24335,11 @@
       "Time": "2023-12-31T01:59:55.9593429+00:00",
       "NumProgressed": 245650,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-31T02:35:25.9777285+00:00",
+      "NumProgressed": 245653,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -24402,7 +24407,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12282
+      "UsersEstimate": 12283
     },
     {
       "ID": "Chapter3",
@@ -24746,7 +24751,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22108
+      "UsersEstimate": 22109
     },
     {
       "ID": "DwarfElf15Support",
@@ -24770,7 +24775,7 @@
       "Name": "%#*!$*!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2456
+      "UsersEstimate": 2457
     },
     {
       "ID": "DwarfLevel2",
@@ -24794,7 +24799,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 88434
+      "UsersEstimate": 88435
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -24810,7 +24815,7 @@
       "Name": "GG EZ",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12282
+      "UsersEstimate": 12283
     },
     {
       "ID": "EndCombatOneHp",
@@ -24818,7 +24823,7 @@
       "Name": "DM intervention",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12282
+      "UsersEstimate": 12283
     },
     {
       "ID": "EndGameCursed",
@@ -24874,7 +24879,7 @@
       "Name": "Dead for good",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2456
+      "UsersEstimate": 2457
     },
     {
       "ID": "KillGolbargh",
@@ -24898,7 +24903,7 @@
       "Name": "Gargantua",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2456
+      "UsersEstimate": 2457
     },
     {
       "ID": "Orktobearfest",
@@ -24930,7 +24935,7 @@
       "Name": "In Navalu\u0027s footsteps",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2456
+      "UsersEstimate": 2457
     },
     {
       "ID": "QuestEmile",
@@ -24962,7 +24967,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2456
+      "UsersEstimate": 2457
     },
     {
       "ID": "RangerEpic",
@@ -24994,7 +24999,7 @@
       "Name": "Speedrun",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12282
+      "UsersEstimate": 12283
     },
     {
       "ID": "SupportCount4",
@@ -25034,7 +25039,7 @@
       "Name": "Material Girl",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2456
+      "UsersEstimate": 2457
     },
     {
       "ID": "WizardResistBurn",
@@ -25049,21 +25054,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 245650,
+      "Progressed": 245653,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 245650,
+      "Progressed": 245653,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-12-30T22:59:50.555913+00:00",
-  "LastChanged_Achievements": "2023-12-31T01:59:55.9593424+00:00",
+  "LastChanged_Achievements": "2023-12-31T02:35:25.9777282+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:29.7482382+00:00",
-  "LastUpdate_Ratings": "2023-12-31T01:48:28.4561955+00:00",
-  "LastUpdate_Achievements": "2023-12-31T01:59:55.9595074+00:00"
+  "LastUpdate_Ratings": "2023-12-31T02:23:38.5462619+00:00",
+  "LastUpdate_Achievements": "2023-12-31T02:35:25.9778984+00:00"
 }

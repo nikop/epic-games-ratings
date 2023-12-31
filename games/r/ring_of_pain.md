@@ -10,6 +10,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Getting A Glimpse | 1.00% | ~2,421 |
 | Uncharted Territory | 1.00% | ~2,421 |
 | Matching | 1.00% | ~35 |
+| That Was Quick | 0.90% | ~2,179 |
 | Colorful Corpse | 0.90% | ~2,179 |
 | Defeat The Dark | 0.90% | ~2,179 |
 | A Quick Escape | 0.90% | ~2,179 |
@@ -18,7 +19,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Not Touching You | 0.90% | ~32 |
 | Nothing To Lose | 0.80% | ~1,937 |
 | Heavy Hitter | 0.80% | ~1,937 |
-| That Was Quick | 0.80% | ~1,937 |
 | Goodbye, Frog Friend | 0.80% | ~1,937 |
 | Heartless | 0.80% | ~1,937 |
 | Spine Breaker | 0.80% | ~1,937 |
@@ -35,6 +35,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shootout | 0.70% | ~1,694 |
 | Toxic | 0.70% | ~1,694 |
 | Sneaky | 0.70% | ~1,694 |
+| Consecutive Curses | 0.60% | ~1,452 |
 | Dig Your Own Grave | 0.60% | ~1,452 |
 | Who To Trust? | 0.60% | ~1,452 |
 | Walk It Off | 0.60% | ~1,452 |
@@ -45,7 +46,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shapeshifting | 0.60% | ~1,452 |
 | Expensive Look | 0.60% | ~21 |
 | What Doesn't Kill You | 0.60% | ~21 |
-| Consecutive Curses | 0.50% | ~1,210 |
 | To The Death! | 0.50% | ~1,210 |
 | Well Prepared | 0.50% | ~1,210 |
 | Just Chilling | 0.50% | ~1,210 |
@@ -53,6 +53,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | All Consuming | 0.50% | ~1,210 |
 | Stop Hitting Yourself | 0.50% | ~1,210 |
 | Doing Time | 0.50% | ~1,210 |
+| Spreading Plague | 0.50% | ~1,210 |
 | Acid Bath | 0.50% | ~1,210 |
 | New Perspectives | 0.50% | ~1,210 |
 | Thank You, Friend | 0.40% | ~968 |
@@ -62,7 +63,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Don't Ignore Me! | 0.40% | ~968 |
 | Illuminate, Eliminate | 0.40% | ~968 |
 | Chain Reaction | 0.40% | ~968 |
-| Spreading Plague | 0.40% | ~968 |
 | Antivenom | 0.40% | ~968 |
 | The Long Run | 0.40% | ~968 |
 | Who Needs Luck? | 0.40% | ~14 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,067 (Ranked 70)  
+Progressed: 242,068 (Ranked 70)  
 Completed: 302 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -400,7 +400,7 @@ Completed: 302 (0.12%) (Ranked 301)
 | 2023-12-28 | 241,919 | 302 |
 | 2023-12-29 | 241,985 | 302 |
 | 2023-12-30 | 242,061 | 302 |
-| 2023-12-31 | 242,067 | 302 |
+| 2023-12-31 | 242,068 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 134)  
 Sum: 11,770 (Ranked 88)  

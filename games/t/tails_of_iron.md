@@ -21,8 +21,8 @@ Rating: 4.56 (Ranked 502)
 | Defeat 25 Mozis | 0.90% | ~21 |
 | Kitchen Ready To Cook | 0.90% | ~21 |
 | Smithy Ready to Craft | 0.90% | ~21 |
+| Throne Room Fit For A King | 0.90% | ~21 |
 | Complete Elder Faction | 0.80% | ~18 |
-| Throne Room Fit For A King | 0.80% | ~18 |
 | Defeat Croakhis Khan | 0.80% | ~7 |
 | I Remember My First Beer | 0.80% | ~7 |
 | Defeat Ratnor Rodentson | 0.70% | ~16 |

@@ -685,7 +685,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473080,
+  "EOS_Progressed": 473081,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 1,
@@ -26990,6 +26990,11 @@
       "Time": "2023-12-31T01:59:59.5957778+00:00",
       "NumProgressed": 473080,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-31T02:35:30.6114437+00:00",
+      "NumProgressed": 473081,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -27185,7 +27190,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160847
+      "UsersEstimate": 160848
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -27425,7 +27430,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 208155
+      "UsersEstimate": 208156
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -27457,7 +27462,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184501
+      "UsersEstimate": 184502
     },
     {
       "ID": "achievement_win_run_hard",
@@ -27632,21 +27637,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17014,
+      "Progressed": 17015,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473080,
+      "Progressed": 473081,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-29T21:58:28.6192346+00:00",
-  "LastChanged_Achievements": "2023-12-31T01:59:59.5957775+00:00",
+  "LastChanged_Achievements": "2023-12-31T02:35:30.6114435+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:48.398594+00:00",
-  "LastUpdate_Ratings": "2023-12-31T01:48:55.1160246+00:00",
-  "LastUpdate_Achievements": "2023-12-31T01:59:59.5959491+00:00"
+  "LastUpdate_Ratings": "2023-12-31T02:24:19.7132416+00:00",
+  "LastUpdate_Achievements": "2023-12-31T02:35:30.6116723+00:00"
 }

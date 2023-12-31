@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -2205,9 +2205,9 @@
       "ID": "scoreminrankrf2",
       "SetID": "40n95i5",
       "Name": "Partners in Crime",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 41
+      "UsersEstimate": 47
     },
     {
       "ID": "scoreminrankrh1",
@@ -2270,8 +2270,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-31T01:59:50.7874149+00:00",
-  "LastUpdate_AppInfo": "2023-12-24T02:20:13.373144+00:00",
-  "LastUpdate_Ratings": "2023-12-31T01:47:54.638714+00:00",
-  "LastUpdate_Achievements": "2023-12-31T01:59:50.7874315+00:00"
+  "LastChanged_Achievements": "2023-12-31T02:35:19.1838276+00:00",
+  "LastUpdate_AppInfo": "2023-12-31T02:21:00.0371084+00:00",
+  "LastUpdate_Ratings": "2023-12-31T02:22:47.7539063+00:00",
+  "LastUpdate_Achievements": "2023-12-31T02:35:19.1838463+00:00"
 }

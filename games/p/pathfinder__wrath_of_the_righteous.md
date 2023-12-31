@@ -6,7 +6,7 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,483 |
+| Devoured by Darkness | 27.00% | ~3,484 |
 | A Spark | 19.00% | ~2,451 |
 | Burning City | 18.00% | ~2,322 |
 | Defender's Heart | 16.00% | ~2,064 |
@@ -34,10 +34,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Lich | 3.00% | ~387 |
 | Heroic Victory | 3.00% | ~387 |
 | Core of the Riddle | 3.00% | ~387 |
-| Hanged Man's Notes | 3.00% | ~350 |
-| Sarkoris Will Be Green | 3.00% | ~350 |
-| The Lady of the Forest | 3.00% | ~350 |
-| Beware Still Water | 3.00% | ~350 |
+| Hanged Man's Notes | 3.00% | ~351 |
+| Sarkoris Will Be Green | 3.00% | ~351 |
+| The Lady of the Forest | 3.00% | ~351 |
+| Beware Still Water | 3.00% | ~351 |
 | Path of the Demon | 2.00% | ~258 |
 | Path of the Aeon | 2.00% | ~258 |
 | Capitulation Is Now Moot | 2.00% | ~258 |
@@ -56,7 +56,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Masterful Charge | 0.70% | ~90 |
 | Playful Mood | 0.70% | ~90 |
 | Dreadful Dragon | 0.70% | ~90 |
-| Prelate's Nemesis | 0.50% | ~64 |
+| Prelate's Nemesis | 0.50% | ~65 |
 | Ashes to Ashes | 0.40% | ~52 |
 | Masterful Dispel | 0.30% | ~39 |
 | Just Pathetic | 0.30% | ~39 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,900 (Ranked 174)  
+Progressed: 12,902 (Ranked 174)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -378,7 +378,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 12,845 | 0 |
 | 2023-12-29 | 12,867 | 0 |
 | 2023-12-30 | 12,899 | 0 |
-| 2023-12-31 | 12,900 | 0 |
+| 2023-12-31 | 12,902 | 0 |
 ## Awards
 Max (Character Customization): 1,774  (Ranked 126)  
 Sum: 7,179 (Ranked 125)  

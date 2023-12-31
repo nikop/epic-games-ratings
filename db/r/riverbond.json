@@ -503,9 +503,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 534421,
+  "EOS_Progressed": 534423,
   "EOS_Completed": 512,
-  "EOS_NewPlayers": 630,
+  "EOS_NewPlayers": 631,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -27543,6 +27543,11 @@
       "Time": "2023-12-31T01:54:39.5707832+00:00",
       "NumProgressed": 534421,
       "NumCompleted": 512
+    },
+    {
+      "Time": "2023-12-31T02:30:18.6177057+00:00",
+      "NumProgressed": 534423,
+      "NumCompleted": 512
     }
   ],
   "TotalAchievements": 57,
@@ -27562,7 +27567,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 240489
+      "UsersEstimate": 240490
     },
     {
       "ID": "11",
@@ -27570,7 +27575,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 374095
+      "UsersEstimate": 374096
     },
     {
       "ID": "12",
@@ -27594,7 +27599,7 @@
       "Name": "Going on an Adventure",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58786
+      "UsersEstimate": 58787
     },
     {
       "ID": "15",
@@ -27634,7 +27639,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 331341
+      "UsersEstimate": 331342
     },
     {
       "ID": "2",
@@ -27650,7 +27655,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 128261
+      "UsersEstimate": 128262
     },
     {
       "ID": "21",
@@ -27658,7 +27663,7 @@
       "Name": "Make Peace, Not War",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 58786
+      "UsersEstimate": 58787
     },
     {
       "ID": "22",
@@ -27674,7 +27679,7 @@
       "Name": "Partner in Crime",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 37409
+      "UsersEstimate": 37410
     },
     {
       "ID": "24",
@@ -27754,7 +27759,7 @@
       "Name": "Hard to Hear",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 37409
+      "UsersEstimate": 37410
     },
     {
       "ID": "33",
@@ -27778,7 +27783,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 267210
+      "UsersEstimate": 267212
     },
     {
       "ID": "36",
@@ -27786,7 +27791,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 85507
+      "UsersEstimate": 85508
     },
     {
       "ID": "37",
@@ -27810,7 +27815,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 181703
+      "UsersEstimate": 181704
     },
     {
       "ID": "4",
@@ -27882,7 +27887,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 331341
+      "UsersEstimate": 331342
     },
     {
       "ID": "48",
@@ -27890,7 +27895,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 106884
+      "UsersEstimate": 106885
     },
     {
       "ID": "49",
@@ -27898,7 +27903,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 181703
+      "UsersEstimate": 181704
     },
     {
       "ID": "5",
@@ -27930,7 +27935,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 245834
+      "UsersEstimate": 245835
     },
     {
       "ID": "53",
@@ -28009,15 +28014,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 534421,
+      "Progressed": 534423,
       "Completed": 512
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-12-14T14:59:39.4842186+00:00",
-  "LastChanged_Achievements": "2023-12-31T01:54:39.5707827+00:00",
+  "LastChanged_Achievements": "2023-12-31T02:30:18.6177055+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:29.7872424+00:00",
-  "LastUpdate_Ratings": "2023-12-31T01:50:14.890121+00:00",
-  "LastUpdate_Achievements": "2023-12-31T01:54:39.5709208+00:00"
+  "LastUpdate_Ratings": "2023-12-31T02:26:18.751747+00:00",
+  "LastUpdate_Achievements": "2023-12-31T02:30:18.6178527+00:00"
 }

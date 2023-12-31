@@ -1,35 +1,35 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.20 (Ranked 949)  
+Rating: 4.20 (Ranked 950)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~2,036 |
-| Battlefields Have Memories | 80.00% | ~1,872 |
-| Enlisted | 73.00% | ~1,708 |
-| Maybe Engage a Little | 67.00% | ~1,568 |
-| No More Names | 50.00% | ~1,170 |
-| Initiate | 36.00% | ~842 |
+| Unforeseen | 87.00% | ~2,038 |
+| Battlefields Have Memories | 80.00% | ~1,874 |
+| Enlisted | 73.00% | ~1,710 |
+| Maybe Engage a Little | 67.00% | ~1,569 |
+| No More Names | 50.00% | ~1,171 |
+| Initiate | 36.00% | ~843 |
 | Thrada-Kul | 32.00% | ~749 |
-| Gravity-Challenged Rocks | 26.00% | ~608 |
-| Socialite | 23.00% | ~538 |
-| Soldier | 21.00% | ~491 |
-| All the Major Food Groups | 21.00% | ~491 |
+| Gravity-Challenged Rocks | 26.00% | ~609 |
+| Socialite | 23.00% | ~539 |
+| Soldier | 21.00% | ~492 |
+| All the Major Food Groups | 21.00% | ~492 |
 | Beggars Would Ride | 19.00% | ~445 |
-| Control is an Illusion | 18.00% | ~421 |
+| Control is an Illusion | 18.00% | ~422 |
 | The Means to Save It | 15.00% | ~351 |
 | Resilience to Sin | 14.00% | ~328 |
 | A Familiar Nest | 13.00% | ~304 |
 | Geas Aristeya | 13.00% | ~304 |
 | Periapt Alizarin | 13.00% | ~304 |
 | A Perfect Cycle | 12.00% | ~281 |
-| Recruit | 11.00% | ~257 |
+| Recruit | 11.00% | ~258 |
 | Armsman | 10.00% | ~234 |
 | Lights Army | 8.00% | ~187 |
 | Periapt Cerulean | 7.00% | ~164 |
-| Periapt Viridian | 6.00% | ~140 |
-| Good Boy | 6.00% | ~140 |
+| Periapt Viridian | 6.00% | ~141 |
+| Good Boy | 6.00% | ~141 |
 | Best Dressed | 5.00% | ~117 |
 | Shroudfane Explorer | 5.00% | ~117 |
 | Kitted Out | 4.00% | ~94 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 949)
 | Out of Time | 0.20% | ~5 |
 | Fowl Play | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,340 (Ranked 233)  
+Progressed: 2,342 (Ranked 233)  
 Completed: 2 (0.09%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 2 (0.09%) (Ranked 312)
 | 2023-12-28 | 2,136 | 2 |
 | 2023-12-29 | 2,236 | 2 |
 | 2023-12-30 | 2,327 | 2 |
-| 2023-12-31 | 2,340 | 2 |
+| 2023-12-31 | 2,342 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
