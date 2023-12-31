@@ -10,11 +10,11 @@ Rating: 4.75 (Ranked 149)
 | The First Bond | 65.00% | ~460 |
 | Novice Scavenger | 58.00% | ~410 |
 | Master Craftsman | 46.00% | ~325 |
-| First wall | 45.00% | ~318 |
+| First wall | 46.00% | ~325 |
 | Piggyback Expert | 44.00% | ~311 |
 | Second wall | 33.00% | ~233 |
 | Expert Scavenger | 31.00% | ~219 |
-| Their Rock | 27.00% | ~191 |
+| Their Rock | 28.00% | ~198 |
 | Yuna's Promise | 27.00% | ~191 |
 | Stone Retriever | 26.00% | ~184 |
 | Find myself | 24.00% | ~170 |

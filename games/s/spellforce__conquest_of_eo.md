@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 90.00% | ~88 |
-| Enough rooms to swing a cat | 83.00% | ~81 |
-| First to the post | 82.00% | ~80 |
-| A kind of Magic | 76.00% | ~74 |
+| Home Sweet Home | 89.00% | ~88 |
+| Enough rooms to swing a cat | 82.00% | ~81 |
+| First to the post | 81.00% | ~80 |
+| A kind of Magic | 75.00% | ~74 |
 | Connected | 68.00% | ~67 |
 | Expansion | 63.00% | ~62 |
 | Mine! | 59.00% | ~58 |
 | Harvest Time | 57.00% | ~56 |
 | Artificer's Apprentice | 51.00% | ~50 |
-| Fly the friendly Sky | 47.00% | ~46 |
-| Get out of here! | 41.00% | ~40 |
-| Alchemist's Apprentice | 40.00% | ~39 |
-| Necromancer's Apprentice | 39.00% | ~38 |
-| Friend of Lyraine | 39.00% | ~38 |
-| The Circle | 37.00% | ~36 |
-| Redecorating | 36.00% | ~35 |
-| Bad JuJu | 24.00% | ~24 |
+| Fly the friendly Sky | 46.00% | ~46 |
+| Get out of here! | 41.00% | ~41 |
+| Alchemist's Apprentice | 39.00% | ~39 |
+| Necromancer's Apprentice | 38.00% | ~38 |
+| Friend of Lyraine | 38.00% | ~38 |
+| The Circle | 36.00% | ~36 |
+| Redecorating | 35.00% | ~35 |
+| Bad JuJu | 25.00% | ~25 |
 | Friend of Sevenkeeps | 23.00% | ~23 |
 | Castle Meldec | 22.00% | ~22 |
 | Slave to the rhythm | 21.00% | ~21 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98 (Ranked 492)  
+Progressed: 99 (Ranked 489)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,6 +123,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 92 | 0 |
 | 2023-12-29 | 96 | 0 |
 | 2023-12-30 | 98 | 0 |
+| 2023-12-31 | 99 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

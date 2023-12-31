@@ -4,8 +4,8 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -1069,9 +1069,9 @@
       "ID": "questBadNews",
       "SetID": "ci65fo0",
       "Name": "Bad news",
-      "Percentage": 67,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 112
     },
     {
       "ID": "questBountyHunter",
@@ -1093,9 +1093,9 @@
       "ID": "questBuilder",
       "SetID": "ci65fo0",
       "Name": "Builder",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "questCemetery",
@@ -1338,8 +1338,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-12-31T00:09:14.8994121+00:00",
+  "LastChanged_Achievements": "2023-12-31T01:59:36.1771865+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.0184442+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:57:10.2299954+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:09:14.899478+00:00"
+  "LastUpdate_Ratings": "2023-12-31T01:47:14.3141353+00:00",
+  "LastUpdate_Achievements": "2023-12-31T01:59:36.1772506+00:00"
 }

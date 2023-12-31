@@ -2,13 +2,13 @@
   "ID": "3928fd8975b2437d894bbc5cd21de9a0",
   "Name": "Saints Row\u00AE: The Third\u2122  Remastered",
   "ProductSlug": "saints-row-the-third-remastered",
-  "Ranking_Rating": 745,
+  "Ranking_Rating": 744,
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 181,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-05-22T08:00:00+00:00",
     "PcReleaseDate": "2020-05-22T08:00:00+00:00",
@@ -2465,10 +2465,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 3140,
       "NumberOfAwardsMax": 2244
+    },
+    {
+      "Time": "2023-12-31T01:49:21.303304+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 3141,
+      "NumberOfAwardsMax": 2244
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3140,
+  "NumberOfAwards": 3141,
   "NumberOfAwardsMax": 2244,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2500,7 +2506,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 107
+      "Count": 108
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2556,8 +2562,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:06.5840635+00:00",
-  "LastChanged": "2023-12-29T22:58:38.5394093+00:00",
-  "LastUpdate_AppInfo": "2023-12-23T23:57:11.7228942+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:59:18.3280904+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:06:02.0579318+00:00"
+  "LastChanged": "2023-12-31T01:49:21.3033038+00:00",
+  "LastUpdate_AppInfo": "2023-12-31T01:46:53.1947337+00:00",
+  "LastUpdate_Ratings": "2023-12-31T01:49:21.3033043+00:00",
+  "LastUpdate_Achievements": "2023-12-31T01:56:14.3482354+00:00"
 }

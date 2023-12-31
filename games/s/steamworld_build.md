@@ -7,14 +7,14 @@
 | Mathematic | 87.00% | ~191 |
 | Digging a Hole | 76.00% | ~167 |
 | It's Yours, My Friend | 74.00% | ~163 |
-| Conducted Trade | 65.00% | ~143 |
-| Going Places | 64.00% | ~141 |
+| Conducted Trade | 66.00% | ~145 |
+| Going Places | 65.00% | ~143 |
 | Aristocratic | 61.00% | ~134 |
 | Tutti Frutti | 56.00% | ~123 |
 | Slotting Machine | 45.00% | ~99 |
 | Gotta Go Fast | 44.00% | ~97 |
 | Systematic | 43.00% | ~95 |
-| Mine Sweeper | 39.00% | ~86 |
+| Mine Sweeper | 40.00% | ~88 |
 | Roll Out | 36.00% | ~79 |
 | Dopa-Miner | 30.00% | ~66 |
 | Up, Up And Away! | 30.00% | ~66 |
@@ -26,8 +26,8 @@
 | Room To Spare | 14.00% | ~31 |
 | Click 'Em All | 5.00% | ~11 |
 | Stack Overflow | 5.00% | ~11 |
+| Accustomed Customer | 4.00% | ~9 |
 | Real Purdy | 4.00% | ~9 |
-| Accustomed Customer | 3.00% | ~7 |
 | Interstellar Performance | 2.00% | ~4 |
 | I'm A Lumberbot | 0.50% | ~1 |
 | Yup. | 0.50% | ~1 |

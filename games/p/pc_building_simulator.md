@@ -1,44 +1,44 @@
 # PC Building Simulator
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator)  
 [View Rawdata](../../db/p/pc_building_simulator.json)  
-Rating: 4.66 (Ranked 298)  
+Rating: 4.66 (Ranked 299)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,764,312 |
-| Easy to forget | 46.00% | ~1,656,293 |
-| Back in the black | 39.00% | ~1,404,248 |
-| That's what I'm talking about | 29.00% | ~1,044,184 |
-| The Best of Both Worlds | 25.00% | ~900,159 |
-| Get your wings | 20.00% | ~720,127 |
-| Double trouble | 16.00% | ~576,102 |
-| Smashing it | 11.00% | ~396,070 |
-| But can it run Crysis? | 9.00% | ~324,057 |
-| My favourite feature... | 9.00% | ~324,057 |
-| From humble beginnings... | 7.00% | ~252,045 |
-| Customer satisfaction | 7.00% | ~252,045 |
-| Keeping things neat | 4.00% | ~144,025 |
-| Seems you're pretty good at this | 4.00% | ~144,025 |
-| Bending over backwards | 4.00% | ~144,025 |
-| I'm broke, Uncle! | 3.00% | ~108,019 |
-| Triple threat | 3.00% | ~108,019 |
-| You rock at this! | 3.00% | ~108,019 |
-| Perfection | 3.00% | ~108,019 |
-| Your music sucks | 3.00% | ~108,019 |
-| Maybe you should try something else? | 2.00% | ~72,013 |
-| Taking care of business | 2.00% | ~72,013 |
-| Things are under control | 2.00% | ~72,013 |
-| Calling in Sick | 2.00% | ~72,013 |
-| Overvolted | 1.00% | ~36,006 |
-| If you fail the first time... | 1.00% | ~36,006 |
-| Amazonian | 1.00% | ~36,006 |
-| Show off | 1.00% | ~36,006 |
-| The Stuart Morton Award for Purpleness | 1.00% | ~36,006 |
-| Building isn't cheap! | 1.00% | ~36,006 |
-| Majority Shareholder | 1.00% | ~36,006 |
-| Owner | 1.00% | ~36,006 |
-| Work ethic 101 | 0.70% | ~25,204 |
+| You need to plug it in... | 49.00% | ~1,764,334 |
+| Easy to forget | 46.00% | ~1,656,313 |
+| Back in the black | 39.00% | ~1,404,266 |
+| That's what I'm talking about | 29.00% | ~1,044,197 |
+| The Best of Both Worlds | 25.00% | ~900,170 |
+| Get your wings | 20.00% | ~720,136 |
+| Double trouble | 16.00% | ~576,109 |
+| Smashing it | 11.00% | ~396,075 |
+| But can it run Crysis? | 9.00% | ~324,061 |
+| My favourite feature... | 9.00% | ~324,061 |
+| From humble beginnings... | 7.00% | ~252,048 |
+| Customer satisfaction | 7.00% | ~252,048 |
+| Keeping things neat | 4.00% | ~144,027 |
+| Seems you're pretty good at this | 4.00% | ~144,027 |
+| Bending over backwards | 4.00% | ~144,027 |
+| I'm broke, Uncle! | 3.00% | ~108,020 |
+| Triple threat | 3.00% | ~108,020 |
+| You rock at this! | 3.00% | ~108,020 |
+| Perfection | 3.00% | ~108,020 |
+| Your music sucks | 3.00% | ~108,020 |
+| Maybe you should try something else? | 2.00% | ~72,014 |
+| Taking care of business | 2.00% | ~72,014 |
+| Things are under control | 2.00% | ~72,014 |
+| Calling in Sick | 2.00% | ~72,014 |
+| Overvolted | 1.00% | ~36,007 |
+| If you fail the first time... | 1.00% | ~36,007 |
+| Amazonian | 1.00% | ~36,007 |
+| Show off | 1.00% | ~36,007 |
+| The Stuart Morton Award for Purpleness | 1.00% | ~36,007 |
+| Building isn't cheap! | 1.00% | ~36,007 |
+| Majority Shareholder | 1.00% | ~36,007 |
+| Owner | 1.00% | ~36,007 |
+| Work ethic 101 | 0.70% | ~25,205 |
 | Building momentum | 0.60% | ~21,604 |
 | Lead by example | 0.60% | ~21,604 |
 | Treat yourself - RAM | 0.50% | ~18,003 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,601 |
 | Treat yourself - GPU | 0.10% | ~3,601 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,600,636 (Ranked 5)  
+Progressed: 3,600,681 (Ranked 5)  
 Completed: 41 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,11 +314,11 @@ Completed: 41 (0.00%) (Ranked 391)
 | 2023-12-28 | 3,599,396 | 41 |
 | 2023-12-29 | 3,599,975 | 41 |
 | 2023-12-30 | 3,600,609 | 41 |
-| 2023-12-31 | 3,600,636 | 41 |
+| 2023-12-31 | 3,600,681 | 41 |
 ## Awards
-Max (Great for Beginners): 1,123  (Ranked 148)  
+Max (Great for Beginners): 1,123  (Ranked 149)  
 Sum: 8,247 (Ranked 110)  
-Diff (max vs sum): 38  
+Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,123 |

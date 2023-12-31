@@ -2,10 +2,10 @@
   "ID": "bf3261d8abc64fdfb73c3f9c4f7870e0",
   "Name": "Ash of Gods: Redemption",
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
-  "Ranking_EOS_Progress": 504,
+  "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
     "PcReleaseDate": "2018-03-22T23:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80,
+  "EOS_Progressed": 81,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
@@ -394,6 +394,11 @@
       "Time": "2023-12-30T16:09:25.0889842+00:00",
       "NumProgressed": 80,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T01:59:08.6931406+00:00",
+      "NumProgressed": 81,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-11T10:03:42.0552866+00:00",
@@ -404,7 +409,7 @@
       "ID": "achievement_altruism",
       "SetID": "bngbnfb",
       "Name": "Altruist",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -508,7 +513,7 @@
       "ID": "achievement_feng_is_my_choise",
       "SetID": "bngbnfb",
       "Name": "My name is Pheng",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -612,7 +617,7 @@
       "ID": "achievement_last_word",
       "SetID": "bngbnfb",
       "Name": "The last word",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
       "UsersEstimate": 30
     },
@@ -668,7 +673,7 @@
       "ID": "achievement_not_energetic",
       "SetID": "bngbnfb",
       "Name": "Not energetic",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
       "UsersEstimate": 42
     },
@@ -676,7 +681,7 @@
       "ID": "achievement_not_risky",
       "SetID": "bngbnfb",
       "Name": "Not a daredevil",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
       "UsersEstimate": 42
     },
@@ -732,7 +737,7 @@
       "ID": "achievement_thorn_alive",
       "SetID": "bngbnfb",
       "Name": "Thorn\u0027s alive!",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -740,7 +745,7 @@
       "ID": "achievement_thorn_is_my_choise",
       "SetID": "bngbnfb",
       "Name": "My name is Thorn",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -805,14 +810,14 @@
     {
       "ID": "bngbnfb",
       "IsBase": true,
-      "Progressed": 80,
+      "Progressed": 81,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2023-12-31T00:08:47.399329+00:00",
+  "LastChanged_Achievements": "2023-12-31T01:59:08.6931402+00:00",
   "LastUpdate_AppInfo": "2023-12-27T14:57:14.899745+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:59:52.1671332+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:08:47.399367+00:00"
+  "LastUpdate_Ratings": "2023-12-31T01:49:55.622943+00:00",
+  "LastUpdate_Achievements": "2023-12-31T01:59:08.6931772+00:00"
 }

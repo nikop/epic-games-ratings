@@ -11,20 +11,20 @@ Rating: 4.56 (Ranked 502)
 | Collect Monster Parts | 1.00% | ~23 |
 | Ranged Weapon | 1.00% | ~23 |
 | Two Handed Weapon | 1.00% | ~23 |
+| Defeat 25 Grubs | 1.00% | ~23 |
 | Defeat 25 Frogs | 1.00% | ~23 |
+| Rescue Redgi's Brothers | 1.00% | ~23 |
 | Shield Maiden Yellow Tongue | 1.00% | ~9 |
 | The Bright Fir | 1.00% | ~9 |
 | Collect Gold | 0.90% | ~21 |
-| Defeat 25 Grubs | 0.90% | ~21 |
+| End of the Mozis | 0.90% | ~21 |
 | Defeat 25 Mozis | 0.90% | ~21 |
 | Kitchen Ready To Cook | 0.90% | ~21 |
 | Smithy Ready to Craft | 0.90% | ~21 |
-| Rescue Redgi's Brothers | 0.90% | ~21 |
-| End of the Mozis | 0.80% | ~18 |
+| Complete Elder Faction | 0.80% | ~18 |
 | Throne Room Fit For A King | 0.80% | ~18 |
 | Defeat Croakhis Khan | 0.80% | ~7 |
 | I Remember My First Beer | 0.80% | ~7 |
-| Complete Elder Faction | 0.70% | ~16 |
 | Defeat Ratnor Rodentson | 0.70% | ~16 |
 | Fix the Travellers Wagon | 0.70% | ~16 |
 | Meet the Creatures from the Deep | 0.70% | ~16 |

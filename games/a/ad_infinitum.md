@@ -11,7 +11,7 @@
 | Awaken | 41.00% | ~63 |
 | Path of Corruption | 35.00% | ~54 |
 | Hope | 30.00% | ~46 |
-| Rage | 29.00% | ~44 |
+| Rage | 30.00% | ~46 |
 | Path of Pain | 22.00% | ~34 |
 | Mayhem | 18.00% | ~28 |
 | Reflections | 17.00% | ~26 |
@@ -26,8 +26,8 @@
 | An act of courage | 7.00% | ~11 |
 | An act of mercy | 5.00% | ~8 |
 | All knowing | 5.00% | ~8 |
+| Corruption | 5.00% | ~8 |
 | An act of compassion | 4.00% | ~6 |
-| Corruption | 4.00% | ~6 |
 | Ad Infinitum | 1.00% | ~2 |
 | Despair | 0.70% | ~1 |
 | Pain | 0.70% | ~1 |

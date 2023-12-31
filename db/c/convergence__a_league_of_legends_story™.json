@@ -6,9 +6,9 @@
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 279,
-  "Ranking_EOS_Completed": 215,
+  "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,11 +51,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1165,
+  "EOS_Progressed": 1166,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.52,
+  "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
     {
       "Time": "2023-05-23T23:05:09.8369672+00:00",
@@ -3356,6 +3356,11 @@
       "Time": "2023-12-30T23:11:41.4564859+00:00",
       "NumProgressed": 1165,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-31T01:59:55.3451744+00:00",
+      "NumProgressed": 1166,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3375,7 +3380,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -3463,7 +3468,7 @@
       "Name": "Family Memories",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "FactorywoodChests1",
@@ -3471,7 +3476,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "FairgroundsChests1",
@@ -3493,9 +3498,9 @@
       "ID": "FutureEkko2Defeated",
       "SetID": "a9e499d",
       "Name": "The Betrayer",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 233
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -3517,9 +3522,9 @@
       "ID": "GadgetProgress1",
       "SetID": "a9e499d",
       "Name": "Whiz Kid",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 163
     },
     {
       "ID": "GrindingTime1",
@@ -3551,7 +3556,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "LacunaCompleted",
@@ -3567,7 +3572,7 @@
       "Name": "Cartographer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "NoCritterSump",
@@ -3639,7 +3644,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "PidgeDefeated",
@@ -3647,7 +3652,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "RewindDamage1",
@@ -3677,9 +3682,9 @@
       "ID": "ScrambotProgress1",
       "SetID": "a9e499d",
       "Name": "Golem Chaser",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 233
     },
     {
       "ID": "SkillCompletion1",
@@ -3727,7 +3732,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "TheaterChests1",
@@ -3735,7 +3740,7 @@
       "Name": "Theater Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -3759,7 +3764,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "WatcherSpared",
@@ -3790,7 +3795,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1165,
+      "Progressed": 1166,
       "Completed": 6
     }
   ],
@@ -3798,8 +3803,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-31T00:09:33.8132927+00:00",
+  "LastChanged_Achievements": "2023-12-31T01:59:55.345174+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:01.5531927+00:00",
-  "LastUpdate_Ratings": "2023-12-31T00:00:27.5142574+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:09:33.8133515+00:00"
+  "LastUpdate_Ratings": "2023-12-31T01:52:40.9497663+00:00",
+  "LastUpdate_Achievements": "2023-12-31T01:59:55.3452203+00:00"
 }

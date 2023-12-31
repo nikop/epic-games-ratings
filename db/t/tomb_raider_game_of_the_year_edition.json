@@ -2,13 +2,13 @@
   "ID": "caca23a0954f4c1aba1fdd7e277b81e2",
   "Name": "Tomb Raider GAME OF THE YEAR EDITION",
   "ProductSlug": "tomb-raider",
-  "Ranking_Rating": 298,
+  "Ranking_Rating": 299,
   "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 126,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-12-30T16:00:00+00:00",
     "PcReleaseDate": "2013-03-05T16:00:00+00:00",
@@ -3190,18 +3190,24 @@
       "Rating": 4.66,
       "NumberOfAwards": 7128,
       "NumberOfAwardsMax": 6043
+    },
+    {
+      "Time": "2023-12-31T01:50:08.5575979+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 7135,
+      "NumberOfAwardsMax": 6050
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7128,
-  "NumberOfAwardsMax": 6043,
+  "NumberOfAwards": 7135,
+  "NumberOfAwardsMax": 6050,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6043
+      "Count": 6050
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3275,8 +3281,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:04.7609195+00:00",
-  "LastChanged": "2023-12-29T15:59:21.9286825+00:00",
+  "LastChanged": "2023-12-31T01:50:08.5575977+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:29.6767327+00:00",
-  "LastUpdate_Ratings": "2023-12-31T00:00:04.6575837+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:04:14.1319091+00:00"
+  "LastUpdate_Ratings": "2023-12-31T01:50:08.5575986+00:00",
+  "LastUpdate_Achievements": "2023-12-31T01:54:26.2934821+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "godzillawars-2c30e4",
   "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 476,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 477,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-08T03:00:00+00:00",
     "PcReleaseDate": "2023-11-04T03:00:00+00:00",
@@ -343,9 +343,9 @@
       "ID": "ClearStageFirst",
       "SetID": "59jf8f5",
       "Name": "The First Mushroom Hunt",
-      "Percentage": 83,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ClearStory",
@@ -710,8 +710,8 @@
   ],
   "FirstSeen": "2023-11-24T21:58:03.1577897+00:00",
   "FirstSeenAchievements": "2023-11-07T04:02:54.7866362+00:00",
-  "LastChanged_Achievements": "2023-12-31T00:03:19.3056011+00:00",
+  "LastChanged_Achievements": "2023-12-31T01:53:31.5206297+00:00",
   "LastUpdate_AppInfo": "2023-12-26T06:57:11.627534+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:57:51.0651519+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:03:19.3056931+00:00"
+  "LastUpdate_Ratings": "2023-12-31T01:47:54.1423607+00:00",
+  "LastUpdate_Achievements": "2023-12-31T01:53:31.5206701+00:00"
 }

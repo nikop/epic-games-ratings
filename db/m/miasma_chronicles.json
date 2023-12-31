@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1666,
+  "EOS_Progressed": 1667,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4203,6 +4203,11 @@
       "Time": "2023-12-30T20:10:10.7976792+00:00",
       "NumProgressed": 1666,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T01:59:58.5682174+00:00",
+      "NumProgressed": 1667,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -4230,7 +4235,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "ATTENBOROUGH",
@@ -4294,7 +4299,7 @@
       "Name": "Croaked",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "CRUELTY",
@@ -4366,7 +4371,7 @@
       "Name": "Endgame",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "EXORCIST",
@@ -4398,7 +4403,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -4430,7 +4435,7 @@
       "Name": "Giant Killer",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "GOAL",
@@ -4478,7 +4483,7 @@
       "Name": "Lumberjack",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -4518,7 +4523,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1284
     },
     {
       "ID": "RECYCLER",
@@ -4526,7 +4531,7 @@
       "Name": "Recycler",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "RUTHLESS",
@@ -4542,7 +4547,7 @@
       "Name": "Savior",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "SENSEI",
@@ -4621,7 +4626,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1666,
+      "Progressed": 1667,
       "Completed": 0
     }
   ],
@@ -4629,8 +4634,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-12-18T20:02:59.2153729+00:00",
-  "LastChanged_Achievements": "2023-12-31T00:09:37.1158623+00:00",
+  "LastChanged_Achievements": "2023-12-31T01:59:58.5682169+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:51.9665809+00:00",
-  "LastUpdate_Ratings": "2023-12-31T00:02:53.09777+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:09:37.1159328+00:00"
+  "LastUpdate_Ratings": "2023-12-31T01:53:04.2090473+00:00",
+  "LastUpdate_Achievements": "2023-12-31T01:59:58.5682752+00:00"
 }

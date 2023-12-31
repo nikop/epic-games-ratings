@@ -1,36 +1,36 @@
 # Q.U.B.E. 10th Anniversary
 [Store](https://store.epicgames.com/en-US/p/qube-10th-anniversary-59e999)  
 [View Rawdata](../../db/q/q.u.b.e._10th_anniversary.json)  
-Rating: 4.41 (Ranked 745)  
+Rating: 4.41 (Ranked 744)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 30.00% | ~8,302 |
-| Sector 2 | 27.00% | ~7,472 |
-| Crush That Cube! | 23.00% | ~6,365 |
-| Sector 3 | 23.00% | ~6,365 |
-| Sector 4 | 19.00% | ~5,258 |
-| Crush That Ball! | 18.00% | ~4,981 |
-| Sector 5 | 12.00% | ~3,321 |
-| Sector 6 | 10.00% | ~2,767 |
-| Feeling the Blues | 8.00% | ~2,214 |
-| Squished | 7.00% | ~1,937 |
-| Finale | 7.00% | ~1,937 |
-| Sector 7 | 7.00% | ~1,937 |
-| Did That Work? -- No! | 7.00% | ~1,937 |
+| Sector 1 | 30.00% | ~8,305 |
+| Sector 2 | 27.00% | ~7,474 |
+| Crush That Cube! | 23.00% | ~6,367 |
+| Sector 3 | 23.00% | ~6,367 |
+| Sector 4 | 19.00% | ~5,260 |
+| Crush That Ball! | 18.00% | ~4,983 |
+| Sector 5 | 12.00% | ~3,322 |
+| Sector 6 | 10.00% | ~2,768 |
+| Feeling the Blues | 8.00% | ~2,215 |
+| Squished | 7.00% | ~1,938 |
+| Finale | 7.00% | ~1,938 |
+| Sector 7 | 7.00% | ~1,938 |
+| Did That Work? -- No! | 7.00% | ~1,938 |
 | Master Room | 4.00% | ~1,107 |
-| Bronze Trophy | 2.00% | ~553 |
-| Master Of The Collectables | 2.00% | ~553 |
-| Gold Trophy | 2.00% | ~553 |
-| Hopefully that's all of them! | 2.00% | ~553 |
-| Phew! | 2.00% | ~553 |
-| The Puzzle Master | 2.00% | ~553 |
-| Silver Trophy | 2.00% | ~553 |
-| Completed It. | 2.00% | ~553 |
-| Maxed Out | 2.00% | ~553 |
+| Bronze Trophy | 2.00% | ~554 |
+| Master Of The Collectables | 2.00% | ~554 |
+| Gold Trophy | 2.00% | ~554 |
+| Hopefully that's all of them! | 2.00% | ~554 |
+| Phew! | 2.00% | ~554 |
+| The Puzzle Master | 2.00% | ~554 |
+| Silver Trophy | 2.00% | ~554 |
+| Completed It. | 2.00% | ~554 |
+| Maxed Out | 2.00% | ~554 |
 | The Collector | 1.00% | ~277 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,674 (Ranked 141)  
+Progressed: 27,682 (Ranked 141)  
 Completed: 181 (0.65%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 181 (0.65%) (Ranked 200)
 | 2023-12-28 | 27,307 | 177 |
 | 2023-12-29 | 27,480 | 178 |
 | 2023-12-30 | 27,668 | 181 |
-| 2023-12-31 | 27,674 | 181 |
+| 2023-12-31 | 27,682 | 181 |
 ## Awards
 Max (Challenging Puzzles): 23  (Ranked 552)  
 Sum: 23 (Ranked 557)  

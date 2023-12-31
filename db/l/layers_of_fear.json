@@ -4,8 +4,8 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 235,
+  "EOS_Progressed": 236,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
@@ -1064,6 +1064,11 @@
       "Time": "2023-12-30T21:09:39.2878333+00:00",
       "NumProgressed": 235,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T01:58:31.3085396+00:00",
+      "NumProgressed": 236,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1156,7 +1161,7 @@
       "Name": "It\u0027s covered up for a reason",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "decrypt_one_myth",
@@ -1178,17 +1183,17 @@
       "ID": "do_not_look",
       "SetID": "f2im8d",
       "Name": "Refuse to look",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 82
+      "UsersEstimate": 85
     },
     {
       "ID": "do_what_you_have_to",
       "SetID": "f2im8d",
       "Name": "Do what you have to",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 101
+      "UsersEstimate": 99
     },
     {
       "ID": "earn_all_trophies",
@@ -1228,7 +1233,7 @@
       "Name": "Scraps of love",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "find_one_photo",
@@ -1252,7 +1257,7 @@
       "Name": "The artist\u2019s impression",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "finished_it",
@@ -1260,7 +1265,7 @@
       "Name": "Finished it",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "first_step",
@@ -1348,7 +1353,7 @@
       "Name": "A piece of the story",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "playtime",
@@ -1370,7 +1375,7 @@
       "ID": "rocket_science",
       "SetID": "f2im8d",
       "Name": "Rocket Science",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1412,7 +1417,7 @@
       "Name": "Something important",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "spy_one_item",
@@ -1460,7 +1465,7 @@
       "Name": "True Reflection",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "view_most_of_photos",
@@ -1491,14 +1496,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 235,
+      "Progressed": 236,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-12-31T00:06:39.4903059+00:00",
+  "LastChanged_Achievements": "2023-12-31T01:58:31.3085391+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:25.6985759+00:00",
-  "LastUpdate_Ratings": "2023-12-31T00:00:07.8628236+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:06:39.490358+00:00"
+  "LastUpdate_Ratings": "2023-12-31T01:50:11.7301916+00:00",
+  "LastUpdate_Achievements": "2023-12-31T01:58:31.3085842+00:00"
 }

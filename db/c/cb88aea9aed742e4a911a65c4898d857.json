@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 480,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -227,9 +227,9 @@
       "Count": 73
     }
   ],
-  "EOS_Progressed": 8987,
+  "EOS_Progressed": 8998,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2091,
+  "EOS_NewPlayers": 2074,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3037,6 +3037,11 @@
       "Time": "2023-12-31T00:09:21.3011657+00:00",
       "NumProgressed": 8987,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T01:59:42.9650028+00:00",
+      "NumProgressed": 8998,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3049,7 +3054,7 @@
       "Name": "Conspiracy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "03_TheStolenStar",
@@ -3071,9 +3076,9 @@
       "ID": "05_TheComorraghSurvivors",
       "SetID": "37a94m8",
       "Name": "Commorragh Survivors",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 90
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -3207,9 +3212,9 @@
       "ID": "22_PerfectTiming",
       "SetID": "37a94m8",
       "Name": "Perfect Timing",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 270
     },
     {
       "ID": "23_DynastyRestored",
@@ -3247,9 +3252,9 @@
       "ID": "27_UncoverTheIce",
       "SetID": "37a94m8",
       "Name": "Uncover the Ice",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 36
     },
     {
       "ID": "28_TheLightOfAstronomicon",
@@ -3367,9 +3372,9 @@
       "ID": "42_TheIronJudgement",
       "SetID": "37a94m8",
       "Name": "Iron Judgement",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 180
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -3568,7 +3573,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 8987,
+      "Progressed": 8998,
       "Completed": 0
     }
   ],
@@ -3576,8 +3581,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-30T16:58:43.1218846+00:00",
-  "LastChanged_Achievements": "2023-12-31T00:09:21.3011652+00:00",
+  "LastChanged_Achievements": "2023-12-31T01:59:42.9650022+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:58:41.006548+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:09:21.3012688+00:00"
+  "LastUpdate_Ratings": "2023-12-31T01:48:44.5076071+00:00",
+  "LastUpdate_Achievements": "2023-12-31T01:59:42.9650629+00:00"
 }

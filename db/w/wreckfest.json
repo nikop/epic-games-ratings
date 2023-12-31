@@ -5,10 +5,10 @@
   "Ranking_Rating": 872,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
-  "Ranking_EOS_Progress": 334,
+  "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 580,
+  "EOS_Progressed": 584,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 282,
+  "EOS_NewPlayers": 284,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1586,6 +1586,11 @@
       "Time": "2023-12-31T00:08:21.1536993+00:00",
       "NumProgressed": 580,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T01:58:41.7077531+00:00",
+      "NumProgressed": 584,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1598,7 +1603,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "CareerAllChallenges",
@@ -1606,7 +1611,7 @@
       "Name": "Highballer",
       "Percentage": 43,
       "XP": 90,
-      "UsersEstimate": 249
+      "UsersEstimate": 251
     },
     {
       "ID": "CareerChamp1",
@@ -1614,7 +1619,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 193
     },
     {
       "ID": "CareerChamp2",
@@ -1622,7 +1627,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "CareerChamp3",
@@ -1638,7 +1643,7 @@
       "Name": "Pro Internationals Champion",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "CareerComplete",
@@ -1646,7 +1651,7 @@
       "Name": "World Masters Champion",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CareerFirstWin",
@@ -1654,7 +1659,7 @@
       "Name": "Storm Warning",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 383
+      "UsersEstimate": 385
     },
     {
       "ID": "CollectVehiclesA",
@@ -1662,15 +1667,15 @@
       "Name": "Wheeler Dealer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "CollectVehiclesB",
       "SetID": "5hd282c",
       "Name": "Junk Collector",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 93
     },
     {
       "ID": "CreditsEarnedA",
@@ -1710,7 +1715,7 @@
       "Name": "Dirty Roller",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 197
+      "UsersEstimate": 199
     },
     {
       "ID": "PlayerRankB",
@@ -1718,7 +1723,7 @@
       "Name": "Trashing Around",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "PlayerRankC",
@@ -1757,7 +1762,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 580,
+      "Progressed": 584,
       "Completed": 0
     }
   ],
@@ -1765,8 +1770,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-28T22:58:24.1175943+00:00",
-  "LastChanged_Achievements": "2023-12-31T00:08:21.1536991+00:00",
+  "LastChanged_Achievements": "2023-12-31T01:58:41.7077527+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:42.5307169+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:58:44.1816226+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:08:21.1537188+00:00"
+  "LastUpdate_Ratings": "2023-12-31T01:48:47.839117+00:00",
+  "LastUpdate_Achievements": "2023-12-31T01:58:41.7077674+00:00"
 }

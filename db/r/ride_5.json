@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -33,9 +33,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3133,
+  "EOS_Progressed": 3134,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7678,6 +7678,11 @@
       "Time": "2023-12-31T00:03:18.3134455+00:00",
       "NumProgressed": 3133,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T01:53:30.3884428+00:00",
+      "NumProgressed": 3134,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -7994,7 +7999,7 @@
       "Name": "Champagne Spray",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -8040,9 +8045,9 @@
       "ID": "ML_ACHIEVEMENT_45",
       "SetID": "c7hf6a4",
       "Name": "Rivals to the End",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 940
+      "UsersEstimate": 972
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -8081,7 +8086,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3133,
+      "Progressed": 3134,
       "Completed": 0
     }
   ],
@@ -8089,8 +8094,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2023-12-26T23:58:21.0860972+00:00",
-  "LastChanged_Achievements": "2023-12-31T00:03:18.3134449+00:00",
-  "LastUpdate_AppInfo": "2023-12-24T01:46:36.0007242+00:00",
-  "LastUpdate_Ratings": "2023-12-31T00:00:17.3982333+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:03:18.3135227+00:00"
+  "LastChanged_Achievements": "2023-12-31T01:53:30.3884422+00:00",
+  "LastUpdate_AppInfo": "2023-12-31T01:46:59.7599271+00:00",
+  "LastUpdate_Ratings": "2023-12-31T01:50:21.2260901+00:00",
+  "LastUpdate_Achievements": "2023-12-31T01:53:30.3885042+00:00"
 }

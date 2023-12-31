@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2022-09-22T12:00:00+00:00",
@@ -1333,9 +1333,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 3467,
+  "EOS_Progressed": 3468,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7233,6 +7233,11 @@
       "Time": "2023-12-31T00:03:54.7970403+00:00",
       "NumProgressed": 3467,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-31T01:54:07.3686255+00:00",
+      "NumProgressed": 3468,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -7244,7 +7249,7 @@
       "Name": "Backpacker",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ACH_BING-BONG",
@@ -7627,15 +7632,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3467,
+      "Progressed": 3468,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-12-30T23:02:26.643085+00:00",
-  "LastChanged_Achievements": "2023-12-31T00:03:54.79704+00:00",
-  "LastUpdate_AppInfo": "2023-12-23T23:57:13.070131+00:00",
-  "LastUpdate_Ratings": "2023-12-31T00:00:08.5572131+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:03:54.7971008+00:00"
+  "LastChanged_Achievements": "2023-12-31T01:54:07.3686249+00:00",
+  "LastUpdate_AppInfo": "2023-12-31T01:46:58.5643959+00:00",
+  "LastUpdate_Ratings": "2023-12-31T01:50:12.4015048+00:00",
+  "LastUpdate_Achievements": "2023-12-31T01:54:07.3686844+00:00"
 }

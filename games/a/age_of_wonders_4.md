@@ -7,14 +7,14 @@ Rating: 4.63 (Ranked 356)
 | ---- | ---------- | ----- |
 | Secret Technique | 12.00% | ~789 |
 | Realm Estate | 11.00% | ~723 |
-| A Wonderful Discovery | 10.00% | ~657 |
-| Walls Cannot Stop Us | 10.00% | ~657 |
-| From Friends to Family | 9.00% | ~591 |
+| A Wonderful Discovery | 10.00% | ~658 |
+| Walls Cannot Stop Us | 10.00% | ~658 |
+| From Friends to Family | 9.00% | ~592 |
 | Bone Peddler | 8.00% | ~526 |
 | Magical Synergy | 7.00% | ~460 |
-| There Can Only Be One! | 6.00% | ~394 |
-| Full Ascension | 6.00% | ~394 |
-| Seat of Power | 6.00% | ~394 |
+| There Can Only Be One! | 6.00% | ~395 |
+| Full Ascension | 6.00% | ~395 |
+| Seat of Power | 6.00% | ~395 |
 | Stronger Together | 5.00% | ~329 |
 | In a Liege of Your Own | 5.00% | ~329 |
 | Intimidation Tactics | 5.00% | ~329 |
@@ -28,17 +28,17 @@ Rating: 4.63 (Ranked 356)
 | Against the Odds | 3.00% | ~197 |
 | Impenetrable Fortress | 3.00% | ~197 |
 | Freed Lands of Manuhari | 3.00% | ~197 |
-| Arch Mage | 2.00% | ~131 |
-| The Creator | 2.00% | ~131 |
-| Crimson Caldera | 2.00% | ~131 |
-| Preparation Is Everything | 2.00% | ~131 |
-| Here be Dragons | 2.00% | ~131 |
-| Tipping the Scales | 2.00% | ~131 |
-| Blood of the Dragon | 2.00% | ~131 |
-| Mighty Hoard | 2.00% | ~131 |
-| Sehiran Oasis | 2.00% | ~131 |
-| Chaos Surge | 2.00% | ~131 |
-| Spoils of War | 2.00% | ~131 |
+| Arch Mage | 2.00% | ~132 |
+| The Creator | 2.00% | ~132 |
+| Crimson Caldera | 2.00% | ~132 |
+| Preparation Is Everything | 2.00% | ~132 |
+| Here be Dragons | 2.00% | ~132 |
+| Tipping the Scales | 2.00% | ~132 |
+| Blood of the Dragon | 2.00% | ~132 |
+| Mighty Hoard | 2.00% | ~132 |
+| Sehiran Oasis | 2.00% | ~132 |
+| Chaos Surge | 2.00% | ~132 |
+| Spoils of War | 2.00% | ~132 |
 | I've Got Everything I Need Right Here | 1.00% | ~66 |
 | God Emperor | 1.00% | ~66 |
 | Lord of Chaos | 1.00% | ~66 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 356)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,571 (Ranked 195)  
+Progressed: 6,576 (Ranked 195)  
 Completed: 7 (0.11%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 7 (0.11%) (Ranked 303)
 | 2023-12-28 | 6,414 | 7 |
 | 2023-12-29 | 6,495 | 7 |
 | 2023-12-30 | 6,566 | 7 |
-| 2023-12-31 | 6,571 | 7 |
+| 2023-12-31 | 6,576 | 7 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 478)  
 Sum: 163 (Ranked 436)  

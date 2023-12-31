@@ -3,12 +3,12 @@
   "Name": "Bloons TD 6",
   "ProductSlug": "bloons-td-6-bf95a0",
   "Ranking_Rating": 117,
-  "Ranking_Popularity": 43,
+  "Ranking_Popularity": 42,
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-07-19T12:00:00+00:00",
     "PcReleaseDate": "2022-07-19T12:00:00+00:00",
@@ -12697,11 +12697,17 @@
       "Rating": 4.77,
       "NumberOfAwards": 48834,
       "NumberOfAwardsMax": 9126
+    },
+    {
+      "Time": "2023-12-31T01:50:06.2594616+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 48904,
+      "NumberOfAwardsMax": 9171
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 48834,
-  "NumberOfAwardsMax": 9126,
+  "NumberOfAwards": 48904,
+  "NumberOfAwardsMax": 9171,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -12732,7 +12738,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4666
+      "Count": 4691
     },
     {
       "Text": "This game has Playful Visuals",
@@ -12744,7 +12750,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 9126
+      "Count": 9171
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -12795,8 +12801,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-23T14:00:48.5667099+00:00",
   "FirstSeenRating": "2022-08-21T19:00:52.0889932+00:00",
-  "LastChanged": "2023-12-30T23:02:16.9645671+00:00",
+  "LastChanged": "2023-12-31T01:50:06.2594603+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:22.0881221+00:00",
-  "LastUpdate_Ratings": "2023-12-31T00:00:02.3623611+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:04:13.374174+00:00"
+  "LastUpdate_Ratings": "2023-12-31T01:50:06.259462+00:00",
+  "LastUpdate_Achievements": "2023-12-31T01:54:25.479405+00:00"
 }

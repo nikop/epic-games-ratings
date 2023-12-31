@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -651,9 +651,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6571,
+  "EOS_Progressed": 6576,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 493,
+  "EOS_NewPlayers": 491,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9801,6 +9801,11 @@
       "Time": "2023-12-31T00:05:32.9197661+00:00",
       "NumProgressed": 6571,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-31T01:55:44.743783+00:00",
+      "NumProgressed": 6576,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9828,7 +9833,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "12",
@@ -9852,7 +9857,7 @@
       "Name": "Full Ascension",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "15",
@@ -9884,7 +9889,7 @@
       "Name": "Arch Mage",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "19",
@@ -9892,7 +9897,7 @@
       "Name": "The Creator",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "2",
@@ -9932,7 +9937,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "24",
@@ -9948,7 +9953,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "26",
@@ -9972,7 +9977,7 @@
       "Name": "From Friends to Family",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "29",
@@ -9988,7 +9993,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "30",
@@ -9996,7 +10001,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "31",
@@ -10020,7 +10025,7 @@
       "Name": "Seat of Power",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "34",
@@ -10164,7 +10169,7 @@
       "Name": "Here be Dragons",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "46",
@@ -10172,7 +10177,7 @@
       "Name": "Tipping the Scales",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "47",
@@ -10188,7 +10193,7 @@
       "Name": "Blood of the Dragon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "49",
@@ -10196,7 +10201,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "50",
@@ -10220,7 +10225,7 @@
       "Name": "Sehiran Oasis",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "53",
@@ -10236,7 +10241,7 @@
       "Name": "Chaos Surge",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "55",
@@ -10260,7 +10265,7 @@
       "Name": "Spoils of War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "58",
@@ -10291,13 +10296,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6571,
+      "Progressed": 6576,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6571,
+      "Progressed": 6576,
       "Completed": 7
     }
   ],
@@ -10305,8 +10310,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-30T08:58:11.4280246+00:00",
-  "LastChanged_Achievements": "2023-12-31T00:05:32.9197657+00:00",
+  "LastChanged_Achievements": "2023-12-31T01:55:44.7437826+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:31.5726274+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:58:20.8658223+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:05:32.9198682+00:00"
+  "LastUpdate_Ratings": "2023-12-31T01:48:24.6149157+00:00",
+  "LastUpdate_Achievements": "2023-12-31T01:55:44.7438658+00:00"
 }

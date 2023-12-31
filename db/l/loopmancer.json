@@ -4,8 +4,8 @@
   "ProductSlug": "loopmancer",
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 529,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-07-27T03:58:00+00:00",
     "PcReleaseDate": "2022-07-13T16:00:00+00:00",
@@ -517,9 +517,9 @@
       "ID": "ACH_AVOID_SNIPER",
       "SetID": "6d82akp",
       "Name": "Black Cat\u0027s Warning",
-      "Percentage": 110,
+      "Percentage": 111,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_DEFEAT_OGATA",
@@ -966,8 +966,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.2220083+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.6600084+00:00",
   "LastChanged": "2023-03-31T05:58:38.2220085+00:00",
-  "LastChanged_Achievements": "2023-12-31T00:09:00.2006754+00:00",
-  "LastUpdate_AppInfo": "2023-12-24T01:46:21.1240722+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:57:08.2444346+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:09:00.2007147+00:00"
+  "LastChanged_Achievements": "2023-12-31T01:59:21.7105946+00:00",
+  "LastUpdate_AppInfo": "2023-12-31T01:46:43.3886724+00:00",
+  "LastUpdate_Ratings": "2023-12-31T01:47:12.1585163+00:00",
+  "LastUpdate_Achievements": "2023-12-31T01:59:21.710641+00:00"
 }

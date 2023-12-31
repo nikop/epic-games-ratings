@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -452,7 +452,7 @@
   ],
   "EOS_Progressed": 873,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3188,9 +3188,9 @@
       "ID": "ArleonCampaign",
       "SetID": "71c0n9i",
       "Name": "The Song of Stoutheart",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 44
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -3372,17 +3372,17 @@
       "ID": "LothCampaign",
       "SetID": "71c0n9i",
       "Name": "Together For Her",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "LothCampaignFinaleOnHard",
       "SetID": "71c0n9i",
       "Name": "An Empress\u0027s Hope",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MultiKill",
@@ -3620,8 +3620,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2023-12-31T00:08:34.9039672+00:00",
-  "LastUpdate_AppInfo": "2023-12-23T23:57:12.1217697+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:59:32.0886247+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:08:34.9040157+00:00"
+  "LastChanged_Achievements": "2023-12-31T01:58:55.3441463+00:00",
+  "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
+  "LastUpdate_Ratings": "2023-12-31T01:49:35.9526128+00:00",
+  "LastUpdate_Achievements": "2023-12-31T01:58:55.3442035+00:00"
 }

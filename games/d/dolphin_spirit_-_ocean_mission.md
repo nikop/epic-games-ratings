@@ -7,7 +7,7 @@
 | Welcome to Maupiroa | 46.00% | ~13 |
 | Recycling newbie | 39.00% | ~11 |
 | New recruit | 21.00% | ~6 |
-| Interesting | 18.00% | ~5 |
+| Interesting | 21.00% | ~6 |
 | Amateur photographer | 14.00% | ~4 |
 | Rescuer | 11.00% | ~3 |
 | Power of the turtle | 11.00% | ~3 |

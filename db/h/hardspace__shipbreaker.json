@@ -5,10 +5,10 @@
   "Ranking_Rating": 282,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
-  "Ranking_EOS_Progress": 287,
+  "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -303,9 +303,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1031,
+  "EOS_Progressed": 1032,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2298,6 +2298,11 @@
       "Time": "2023-12-30T21:10:51.7645856+00:00",
       "NumProgressed": 1031,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T01:59:20.0994185+00:00",
+      "NumProgressed": 1032,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -2405,7 +2410,7 @@
       "Name": "Critical Thinker",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -2445,7 +2450,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -2453,7 +2458,7 @@
       "Name": "I ain\u2019t afraid of no Ghost",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH_I_CAN_FIX_IT",
@@ -2461,7 +2466,7 @@
       "Name": "I can fix it!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -2469,7 +2474,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -2524,7 +2529,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 1031,
+      "Progressed": 1032,
       "Completed": 0
     }
   ],
@@ -2532,8 +2537,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-11-20T03:58:42.1118377+00:00",
-  "LastChanged_Achievements": "2023-12-31T00:08:58.6688104+00:00",
+  "LastChanged_Achievements": "2023-12-31T01:59:20.099418+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:17.6550121+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:58:03.1416198+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:08:58.6688332+00:00"
+  "LastUpdate_Ratings": "2023-12-31T01:48:06.6616967+00:00",
+  "LastUpdate_Achievements": "2023-12-31T01:59:20.0994479+00:00"
 }

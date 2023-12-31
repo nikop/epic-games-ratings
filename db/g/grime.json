@@ -1783,9 +1783,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 165585,
+  "EOS_Progressed": 165596,
   "EOS_Completed": 428,
-  "EOS_NewPlayers": 1469,
+  "EOS_NewPlayers": 1466,
   "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -21243,6 +21243,11 @@
       "Time": "2023-12-31T00:03:36.5287931+00:00",
       "NumProgressed": 165585,
       "NumCompleted": 428
+    },
+    {
+      "Time": "2023-12-31T01:53:48.9336364+00:00",
+      "NumProgressed": 165596,
+      "NumCompleted": 428
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -21461,9 +21466,9 @@
       "ID": "MISC_ACTIVATEALLBEACONS",
       "SetID": "ccc0dlh",
       "Name": "All-Seeing",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 331
+      "UsersEstimate": 497
     },
     {
       "ID": "MISC_ACTIVATESURROGATE",
@@ -21622,21 +21627,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 165168,
+      "Progressed": 165179,
       "Completed": 1249
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 165585,
+      "Progressed": 165596,
       "Completed": 428
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-30T16:57:31.1639102+00:00",
-  "LastChanged_Achievements": "2023-12-31T00:03:36.5287925+00:00",
-  "LastUpdate_AppInfo": "2023-12-24T01:46:22.7260202+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:57:39.1362305+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:03:36.5289152+00:00"
+  "LastChanged_Achievements": "2023-12-31T01:53:48.9336361+00:00",
+  "LastUpdate_AppInfo": "2023-12-31T01:46:50.3299145+00:00",
+  "LastUpdate_Ratings": "2023-12-31T01:47:42.8776791+00:00",
+  "LastUpdate_Achievements": "2023-12-31T01:53:48.9337519+00:00"
 }

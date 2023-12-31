@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2208,9 +2208,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16038,
+  "EOS_Progressed": 16040,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18653,6 +18653,11 @@
       "Time": "2023-12-31T00:09:41.760562+00:00",
       "NumProgressed": 16038,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-31T02:00:03.372441+00:00",
+      "NumProgressed": 16040,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19286,9 +19291,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SETTLER",
       "SetID": "9201eeb",
       "Name": "Settler",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 160
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -20390,9 +20395,9 @@
       "ID": "ACHIEVEMENT_PLAY_MPTEAMS",
       "SetID": "9201eeb",
       "Name": "Play a MP Teams Game",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_PLAY_NETWORK",
@@ -21527,21 +21532,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16038,
+      "Progressed": 16040,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16038,
+      "Progressed": 16040,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-29T16:02:55.9624641+00:00",
-  "LastChanged_Achievements": "2023-12-31T00:09:41.7605616+00:00",
+  "LastChanged_Achievements": "2023-12-31T02:00:03.3724401+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:47.5878363+00:00",
-  "LastUpdate_Ratings": "2023-12-31T00:02:46.5608226+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:09:41.7616047+00:00"
+  "LastUpdate_Ratings": "2023-12-31T01:52:58.3443631+00:00",
+  "LastUpdate_Achievements": "2023-12-31T02:00:03.3734689+00:00"
 }

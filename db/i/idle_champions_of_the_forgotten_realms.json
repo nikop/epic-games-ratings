@@ -9155,10 +9155,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33198,
       "NumberOfAwardsMax": 5720
+    },
+    {
+      "Time": "2023-12-31T01:50:10.7390409+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33201,
+      "NumberOfAwardsMax": 5720
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33198,
+  "NumberOfAwards": 33201,
   "NumberOfAwardsMax": 5720,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9196,7 +9202,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4295
+      "Count": 4298
     },
     {
       "Text": "This game has Playful Visuals",
@@ -9205,9 +9211,9 @@
       "Count": 3614
     }
   ],
-  "EOS_Progressed": 247942,
+  "EOS_Progressed": 248007,
   "EOS_Completed": 2578,
-  "EOS_NewPlayers": 4018,
+  "EOS_NewPlayers": 4054,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -38000,6 +38006,11 @@
       "Time": "2023-12-31T00:09:42.7882634+00:00",
       "NumProgressed": 247942,
       "NumCompleted": 2578
+    },
+    {
+      "Time": "2023-12-31T02:00:03.7814086+00:00",
+      "NumProgressed": 248007,
+      "NumCompleted": 2578
     }
   ],
   "TotalAchievements": 546,
@@ -38011,7 +38022,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4959
+      "UsersEstimate": 4960
     },
     {
       "ID": "objective_completed_10",
@@ -39683,7 +39694,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2479
+      "UsersEstimate": 2480
     },
     {
       "ID": "objective_completed_34",
@@ -42315,7 +42326,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "objective_completed_1563",
@@ -42378,21 +42389,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 214216,
+      "Progressed": 214281,
       "Completed": 4103
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 247942,
+      "Progressed": 248007,
       "Completed": 2578
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-30T23:02:23.7927948+00:00",
-  "LastChanged_Achievements": "2023-12-31T00:09:42.7882629+00:00",
+  "LastChanged": "2023-12-31T01:50:10.7390408+00:00",
+  "LastChanged_Achievements": "2023-12-31T02:00:03.7814082+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-31T00:00:06.7752718+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:09:42.7906888+00:00"
+  "LastUpdate_Ratings": "2023-12-31T01:50:10.7390414+00:00",
+  "LastUpdate_Achievements": "2023-12-31T02:00:03.7838686+00:00"
 }

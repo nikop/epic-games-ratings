@@ -4,11 +4,11 @@
   "ProductSlug": "rage-2",
   "Ranking_Rating": 892,
   "Ranking_Popularity": 101,
-  "Ranking_PopularitySum": 164,
+  "Ranking_PopularitySum": 163,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": "2021-02-18T16:00:00+00:00",
@@ -3361,10 +3361,16 @@
       "Rating": 4.27,
       "NumberOfAwards": 3789,
       "NumberOfAwardsMax": 2849
+    },
+    {
+      "Time": "2023-12-31T01:48:48.3352711+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 3792,
+      "NumberOfAwardsMax": 2849
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3789,
+  "NumberOfAwards": 3792,
   "NumberOfAwardsMax": 2849,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3384,13 +3390,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 141
+      "Count": 142
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 130
+      "Count": 132
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3448,9 +3454,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:59.0256751+00:00",
   "FirstSeenAchievements": "2023-05-23T21:03:37.9504818+00:00",
-  "LastChanged": "2023-12-30T21:59:32.0175612+00:00",
-  "LastChanged_Achievements": "2023-12-31T00:08:31.7220749+00:00",
+  "LastChanged": "2023-12-31T01:48:48.3352709+00:00",
+  "LastChanged_Achievements": "2023-12-31T01:58:51.9952283+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:33.2431319+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:58:44.7183711+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:08:31.7220885+00:00"
+  "LastUpdate_Ratings": "2023-12-31T01:48:48.3352716+00:00",
+  "LastUpdate_Achievements": "2023-12-31T01:58:51.9952314+00:00"
 }

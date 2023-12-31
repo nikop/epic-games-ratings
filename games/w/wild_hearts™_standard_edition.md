@@ -20,7 +20,7 @@
 | Flawless Crystal | 37.00% | ~379 |
 | Bonds of Enmity | 37.00% | ~379 |
 | Distance Devourer | 34.00% | ~348 |
-| Counter Specialist | 32.00% | ~328 |
+| Counter Specialist | 33.00% | ~338 |
 | Master of the Skies | 31.00% | ~317 |
 | Axer of Auspice | 27.00% | ~276 |
 | Mighty Marmelizer | 25.00% | ~256 |
@@ -31,8 +31,8 @@
 | Snare Specialist | 22.00% | ~225 |
 | Artful Assister | 21.00% | ~215 |
 | Team Hunter | 19.00% | ~195 |
+| Karakuri Isle | 18.00% | ~184 |
 | Reincarnation Cycle Stopper | 18.00% | ~184 |
-| Karakuri Isle | 17.00% | ~174 |
 | Human Believer | 16.00% | ~164 |
 | Left Arm Leverager | 15.00% | ~154 |
 | Style Seeker | 15.00% | ~154 |
@@ -48,7 +48,7 @@
 | Tender Touch | 9.00% | ~92 |
 | Superlative View | 8.00% | ~82 |
 | Relentless Kemono Hunter | 7.00% | ~72 |
-| Vanquisher of the Volatile | 6.00% | ~61 |
+| Vanquisher of the Volatile | 7.00% | ~72 |
 | Big Spender | 5.00% | ~51 |
 | Bewitched by Bathing | 4.00% | ~41 |
 | Tsukumo Whisperer | 3.00% | ~31 |

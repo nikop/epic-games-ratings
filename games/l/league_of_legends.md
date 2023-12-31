@@ -1,7 +1,7 @@
 # League of Legends
 [Store](https://store.epicgames.com/en-US/p/league-of-legends)  
 [View Rawdata](../../db/l/league_of_legends.json)  
-Rating: 4.21 (Ranked 939)  
+Rating: 4.20 (Ranked 949)  
 Number of Ratings: 10,796  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 4,962  (Ranked 76)  
@@ -379,3 +379,4 @@ Diff (max vs sum): 19
 | 2023-12-28 | 4.21 | - | 4,935 | 23,018 |
 | 2023-12-29 | 4.21 | - | 4,948 | 23,070 |
 | 2023-12-30 | 4.21 | - | 4,962 | 23,119 |
+| 2023-12-31 | 4.20 | - | 4,962 | 23,119 |

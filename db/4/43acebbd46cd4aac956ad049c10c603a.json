@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -259,7 +259,7 @@
       "Count": 89
     }
   ],
-  "EOS_Progressed": 1202,
+  "EOS_Progressed": 1203,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
@@ -3314,6 +3314,11 @@
       "Time": "2023-12-30T22:07:05.1503272+00:00",
       "NumProgressed": 1202,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-31T01:55:50.7833298+00:00",
+      "NumProgressed": 1203,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3422,7 +3427,7 @@
       "Name": "Discovery",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "EasternWetlands",
@@ -3494,7 +3499,7 @@
       "Name": "Into the Machine",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "JustOneLap",
@@ -3526,7 +3531,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "Mnemosyne",
@@ -3550,7 +3555,7 @@
       "Name": "Museum Visitor",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "NewBeginning",
@@ -3588,9 +3593,9 @@
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 192
     },
     {
       "ID": "PrometheusUnbound",
@@ -3638,7 +3643,7 @@
       "Name": "Signatory",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "SingleRod",
@@ -3668,9 +3673,9 @@
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 253
     },
     {
       "ID": "TextAdventurer",
@@ -3686,7 +3691,7 @@
       "Name": "The All-Gifted",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "TheEdgeOfForever",
@@ -3718,7 +3723,7 @@
       "Name": "The Spark",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "TheThiefOfFire",
@@ -3726,15 +3731,15 @@
       "Name": "The Thief of Fire",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 385
+      "UsersEstimate": 397
     },
     {
       "ID": "TouchGrass",
@@ -3742,7 +3747,7 @@
       "Name": "Touch Grass",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "TrevorsBiographer",
@@ -3766,7 +3771,7 @@
       "Name": "Wanderers",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "WesternDelta",
@@ -3797,7 +3802,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1202,
+      "Progressed": 1203,
       "Completed": 2
     }
   ],
@@ -3805,8 +3810,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-29T23:57:10.9507958+00:00",
-  "LastChanged_Achievements": "2023-12-31T00:05:38.6528121+00:00",
+  "LastChanged_Achievements": "2023-12-31T01:55:50.7833292+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:57:46.5230605+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:05:38.6528641+00:00"
+  "LastUpdate_Ratings": "2023-12-31T01:47:50.313656+00:00",
+  "LastUpdate_Achievements": "2023-12-31T01:55:50.7833843+00:00"
 }

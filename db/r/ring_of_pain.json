@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3814,9 +3814,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 242064,
+  "EOS_Progressed": 242067,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 513,
+  "EOS_NewPlayers": 509,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -30134,6 +30134,11 @@
       "Time": "2023-12-31T00:09:41.0092491+00:00",
       "NumProgressed": 242064,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-31T02:00:02.5053524+00:00",
+      "NumProgressed": 242067,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -30615,9 +30620,9 @@
       "ID": "KILLCOMPULSION",
       "SetID": "5l8oe0h",
       "Name": "All Consuming",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 968
+      "UsersEstimate": 1210
     },
     {
       "ID": "KILLEDSELFWITHITEMS",
@@ -31087,9 +31092,9 @@
       "ID": "WINWITHFIRSTITEM",
       "SetID": "5l8oe0h",
       "Name": "Sentimental Value",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 484
+      "UsersEstimate": 726
     },
     {
       "ID": "WINWITHNOARMOR",
@@ -31248,13 +31253,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242064,
+      "Progressed": 242067,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3544,
+      "Progressed": 3547,
       "Completed": 416
     }
   ],
@@ -31262,8 +31267,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-30T08:01:44.1465561+00:00",
-  "LastChanged_Achievements": "2023-12-31T00:09:41.0092486+00:00",
-  "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-31T00:00:26.0394476+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:09:41.0095196+00:00"
+  "LastChanged_Achievements": "2023-12-31T02:00:02.505352+00:00",
+  "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
+  "LastUpdate_Ratings": "2023-12-31T01:52:39.149897+00:00",
+  "LastUpdate_Achievements": "2023-12-31T02:00:02.5056588+00:00"
 }

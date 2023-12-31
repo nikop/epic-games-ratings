@@ -1,30 +1,30 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.55 (Ranked 522)  
+Rating: 4.55 (Ranked 523)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 91.00% | ~128 |
-| Map reader | 66.00% | ~93 |
-| Adventurer | 65.00% | ~92 |
-| Philanthropist | 61.00% | ~86 |
-| Archer | 43.00% | ~61 |
+| Beginner | 91.00% | ~129 |
+| Map reader | 65.00% | ~92 |
+| Adventurer | 64.00% | ~91 |
+| Philanthropist | 61.00% | ~87 |
+| Archer | 42.00% | ~60 |
 | The brave little tailor | 41.00% | ~58 |
-| Field hand | 40.00% | ~56 |
+| Field hand | 40.00% | ~57 |
 | Well-to-do | 34.00% | ~48 |
 | Samaritan | 33.00% | ~47 |
-| The merciful one | 30.00% | ~42 |
-| Ladies' man | 30.00% | ~42 |
-| Ferocious wild boars | 26.00% | ~37 |
+| The merciful one | 30.00% | ~43 |
+| Ladies' man | 30.00% | ~43 |
+| Ferocious wild boars | 25.00% | ~36 |
 | Idiot | 24.00% | ~34 |
 | Beast slayer | 21.00% | ~30 |
 | Death of a legend | 19.00% | ~27 |
-| Family man | 18.00% | ~25 |
-| Archaeologist | 18.00% | ~25 |
-| Ogre friend | 18.00% | ~25 |
-| Fence | 18.00% | ~25 |
-| Sidelined | 18.00% | ~25 |
+| Family man | 18.00% | ~26 |
+| Archaeologist | 18.00% | ~26 |
+| Ogre friend | 18.00% | ~26 |
+| Fence | 18.00% | ~26 |
+| Sidelined | 18.00% | ~26 |
 | Wise man | 17.00% | ~24 |
 | Little hero | 16.00% | ~23 |
 | Hard worker | 16.00% | ~23 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 522)
 | King of the handymen | 8.00% | ~11 |
 | Terror of the hens | 7.00% | ~10 |
 | Expert | 7.00% | ~10 |
-| Moneybags | 6.00% | ~8 |
+| Moneybags | 6.00% | ~9 |
 | The traveler | 5.00% | ~7 |
 | Rune master | 4.00% | ~6 |
 | King Midas | 4.00% | ~6 |
@@ -56,7 +56,7 @@ Rating: 4.55 (Ranked 522)
 | Master of the classes | 0.70% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141 (Ranked 452)  
+Progressed: 142 (Ranked 450)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,6 +119,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 133 | 0 |
 | 2023-12-29 | 137 | 0 |
 | 2023-12-30 | 141 | 0 |
+| 2023-12-31 | 142 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

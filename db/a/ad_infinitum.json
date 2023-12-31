@@ -4,8 +4,8 @@
   "ProductSlug": "ad-infinitum",
   "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 153,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -832,9 +832,9 @@
       "ID": "ACH_CORRUPTION",
       "SetID": "88d7anj",
       "Name": "Corruption",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_DESPAIR",
@@ -960,9 +960,9 @@
       "ID": "ACH_RAGE",
       "SetID": "88d7anj",
       "Name": "Rage",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_REFLECTIONS",
@@ -999,8 +999,8 @@
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:09:48.2511139+00:00",
+  "LastChanged_Achievements": "2023-12-31T01:53:20.0424525+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:51.5570753+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:57:58.5345832+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:09:48.2511382+00:00"
+  "LastUpdate_Ratings": "2023-12-31T01:48:02.2677034+00:00",
+  "LastUpdate_Achievements": "2023-12-31T01:53:20.0425336+00:00"
 }

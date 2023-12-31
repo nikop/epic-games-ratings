@@ -18,8 +18,8 @@ Number of Ratings: 292  (23.09.2022)
 | Master | 7.00% | ~61 |
 | Whoops! | 6.00% | ~52 |
 | Landlord Extraordinaire | 6.00% | ~52 |
+| The Song of Stoutheart | 5.00% | ~44 |
 | Don't Touch My Stuff | 5.00% | ~44 |
-| The Song of Stoutheart | 4.00% | ~35 |
 | Trojan Horse | 4.00% | ~35 |
 | Expert Essence Employment | 3.00% | ~26 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~26 |
@@ -32,7 +32,7 @@ Number of Ratings: 292  (23.09.2022)
 | Versatile Wielder | 1.00% | ~9 |
 | Such A Fungi | 1.00% | ~9 |
 | Grand Master | 1.00% | ~9 |
-| Together For Her | 0.80% | ~7 |
+| Together For Her | 0.90% | ~8 |
 | In The Thick of It | 0.70% | ~6 |
 | Unlimited Power! | 0.60% | ~5 |
 | Get Over Here! | 0.60% | ~5 |
@@ -45,9 +45,9 @@ Number of Ratings: 292  (23.09.2022)
 | The Marsh Expands | 0.30% | ~3 |
 | Cleave | 0.30% | ~3 |
 | Attack Bonanza | 0.20% | ~2 |
+| An Empress's Hope | 0.20% | ~2 |
 | Bringer of Ruin | 0.10% | ~1 |
 | Hello There | 0.10% | ~1 |
-| An Empress's Hope | 0.10% | ~1 |
 | The Price of Freedom | 0.00% | ~0 |
 | A Free Man | 0.00% | ~0 |
 | Die by the Bow | 0.00% | ~0 |

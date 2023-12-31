@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 104,
   "Ranking_EOS_NewPlayers": 418,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -1037,9 +1037,9 @@
       "ID": "8",
       "SetID": "acl54ke",
       "Name": "Solved ninth case",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "9",
@@ -1116,8 +1116,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-12-31T00:04:00.0729694+00:00",
-  "LastUpdate_AppInfo": "2023-12-24T01:46:20.8811487+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:57:07.520054+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:04:00.0729844+00:00"
+  "LastChanged_Achievements": "2023-12-31T01:54:12.4677931+00:00",
+  "LastUpdate_AppInfo": "2023-12-31T01:46:43.1063084+00:00",
+  "LastUpdate_Ratings": "2023-12-31T01:47:11.5568172+00:00",
+  "LastUpdate_Achievements": "2023-12-31T01:54:12.4678066+00:00"
 }

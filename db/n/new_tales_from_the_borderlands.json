@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 298,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,7 +177,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3775,
+  "EOS_Progressed": 3776,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
@@ -2137,6 +2137,11 @@
       "Time": "2023-12-30T22:04:27.8432735+00:00",
       "NumProgressed": 3775,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T01:53:56.0584815+00:00",
+      "NumProgressed": 3776,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2148,7 +2153,7 @@
       "Name": "You\u0027re Not Naked",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -2180,7 +2185,7 @@
       "Name": "Totally Intentional",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1736
+      "UsersEstimate": 1737
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -2188,7 +2193,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -2244,7 +2249,7 @@
       "Name": "Tale in the Toilet",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -2268,7 +2273,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1925
+      "UsersEstimate": 1926
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -2332,7 +2337,7 @@
       "Name": "Don\u0027t Get Cocky",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
@@ -2355,7 +2360,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3775,
+      "Progressed": 3776,
       "Completed": 0
     }
   ],
@@ -2363,8 +2368,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-12-31T00:03:43.7827771+00:00",
+  "LastChanged_Achievements": "2023-12-31T01:53:56.058481+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1319758+00:00",
-  "LastUpdate_Ratings": "2023-12-31T00:00:06.0289898+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:03:43.7828036+00:00"
+  "LastUpdate_Ratings": "2023-12-31T01:50:10.0007208+00:00",
+  "LastUpdate_Achievements": "2023-12-31T01:53:56.0585011+00:00"
 }

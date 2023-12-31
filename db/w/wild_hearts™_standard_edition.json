@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1024,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -3409,9 +3409,9 @@
       "ID": "achievement_11",
       "SetID": "2cpn27e",
       "Name": "Karakuri Isle",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 184
     },
     {
       "ID": "achievement_12",
@@ -3473,9 +3473,9 @@
       "ID": "achievement_19",
       "SetID": "2cpn27e",
       "Name": "Counter Specialist",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 338
     },
     {
       "ID": "achievement_2",
@@ -3537,9 +3537,9 @@
       "ID": "achievement_26",
       "SetID": "2cpn27e",
       "Name": "Vanquisher of the Volatile",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 61
+      "UsersEstimate": 72
     },
     {
       "ID": "achievement_27",
@@ -3783,8 +3783,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-31T00:08:54.3469252+00:00",
+  "LastChanged_Achievements": "2023-12-31T01:59:15.872739+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:22.7723621+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:58:33.8518888+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:08:54.3469899+00:00"
+  "LastUpdate_Ratings": "2023-12-31T01:48:37.4384903+00:00",
+  "LastUpdate_Achievements": "2023-12-31T01:59:15.8727826+00:00"
 }

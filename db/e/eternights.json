@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -37,7 +37,7 @@
   "Tags": [],
   "EOS_Progressed": 707,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -2631,9 +2631,9 @@
       "ID": "ACHIEVEMENT_12_TheirRock",
       "SetID": "9bke6f1",
       "Name": "Their Rock",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 191
+      "UsersEstimate": 198
     },
     {
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
@@ -2775,9 +2775,9 @@
       "ID": "ACHIEVEMENT_5_FirstWall",
       "SetID": "9bke6f1",
       "Name": "First wall",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 318
+      "UsersEstimate": 325
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -2824,8 +2824,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-27T15:59:49.1136695+00:00",
-  "LastChanged_Achievements": "2023-12-31T00:08:36.5018549+00:00",
-  "LastUpdate_AppInfo": "2023-12-23T23:57:10.2016354+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:57:03.7039688+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:08:36.5018789+00:00"
+  "LastChanged_Achievements": "2023-12-31T01:58:56.8816166+00:00",
+  "LastUpdate_AppInfo": "2023-12-31T01:46:42.2091482+00:00",
+  "LastUpdate_Ratings": "2023-12-31T01:47:07.6887103+00:00",
+  "LastUpdate_Achievements": "2023-12-31T01:58:56.8816509+00:00"
 }

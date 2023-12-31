@@ -2,10 +2,10 @@
   "ID": "be7cf2a479094ae88f605dd9f77430cf",
   "Name": "Asterix and Obelix Heroes",
   "ProductSlug": "asterix-and-obelix-heroes",
-  "Ranking_EOS_Progress": 577,
+  "Ranking_EOS_Progress": 576,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 426,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 418,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
     "PcReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33,
+  "EOS_Progressed": 34,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -190,6 +190,11 @@
       "Time": "2023-12-30T22:07:23.9682944+00:00",
       "NumProgressed": 33,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T01:56:04.2377429+00:00",
+      "NumProgressed": 34,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-04T17:05:21.0235727+00:00",
@@ -200,17 +205,17 @@
       "ID": "1",
       "SetID": "5jnn47e",
       "Name": "First Steps of a long journey",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "10",
       "SetID": "5jnn47e",
       "Name": "Play with fire",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "11",
@@ -360,17 +365,17 @@
       "ID": "8",
       "SetID": "5jnn47e",
       "Name": "Victory is ours",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "9",
       "SetID": "5jnn47e",
       "Name": "Nothing is holding you back",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "26",
@@ -417,14 +422,14 @@
     {
       "ID": "5jnn47e",
       "IsBase": true,
-      "Progressed": 33,
+      "Progressed": 34,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-22T17:57:35.5239648+00:00",
   "FirstSeenAchievements": "2023-10-05T17:02:30.1575422+00:00",
-  "LastChanged_Achievements": "2023-12-31T00:05:52.2464015+00:00",
+  "LastChanged_Achievements": "2023-12-31T01:56:04.2377425+00:00",
   "LastUpdate_AppInfo": "2023-12-28T22:56:57.8429982+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:59:39.7091559+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:05:52.2464188+00:00"
+  "LastUpdate_Ratings": "2023-12-31T01:49:43.1166512+00:00",
+  "LastUpdate_Achievements": "2023-12-31T01:56:04.2377577+00:00"
 }

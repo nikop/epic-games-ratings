@@ -6,8 +6,8 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Settler | 1.00% | ~160 |
 | Explorer | 0.90% | ~144 |
-| Settler | 0.90% | ~144 |
 | Play a Single Player Game | 0.90% | ~144 |
 | Friendly Family | 0.80% | ~128 |
 | Architect | 0.70% | ~112 |
@@ -215,6 +215,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Free-For-All Game (>2 Players) | 0.10% | ~16 |
 | Play a Hotseat Game | 0.10% | ~16 |
 | Play a LAN Game | 0.10% | ~16 |
+| Play a MP Teams Game | 0.10% | ~16 |
 | Play a Network Game | 0.10% | ~16 |
 | Play a Play-By-Cloud Game | 0.10% | ~16 |
 | Punic Wars | 0.10% | ~16 |
@@ -322,7 +323,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Knowledge of the Ancients | 0.00% | ~0 |
 | Learn By Playing 3 - Good | 0.00% | ~0 |
 | Learn By Playing 4 - Strong | 0.00% | ~0 |
-| Play a MP Teams Game | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a 1-v-1 Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,038 (Ranked 165)  
+Progressed: 16,040 (Ranked 165)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -620,7 +620,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-28 | 15,997 | 5 |
 | 2023-12-29 | 16,011 | 5 |
 | 2023-12-30 | 16,036 | 5 |
-| 2023-12-31 | 16,038 | 5 |
+| 2023-12-31 | 16,040 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 284)  
 Sum: 1,912 (Ranked 220)  

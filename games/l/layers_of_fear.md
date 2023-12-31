@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 84.00% | ~197 |
-| A piece of the story | 60.00% | ~141 |
+| Something important | 84.00% | ~198 |
+| A piece of the story | 60.00% | ~142 |
 | Wanderer | 54.00% | ~127 |
-| It's covered up for a reason | 52.00% | ~122 |
-| Scraps of love | 46.00% | ~108 |
-| The artist’s impression | 44.00% | ~103 |
-| Do what you have to | 43.00% | ~101 |
+| It's covered up for a reason | 52.00% | ~123 |
+| Scraps of love | 46.00% | ~109 |
+| The artist’s impression | 44.00% | ~104 |
+| Do what you have to | 42.00% | ~99 |
 | Sign of weakness | 39.00% | ~92 |
-| Refuse to look | 35.00% | ~82 |
+| Refuse to look | 36.00% | ~85 |
 | Face your fears | 29.00% | ~68 |
-| Finished it | 27.00% | ~63 |
+| Finished it | 27.00% | ~64 |
 | Whispers long forgotten | 16.00% | ~38 |
 | The art of movement | 13.00% | ~31 |
 | A Slice of Life | 12.00% | ~28 |
@@ -28,7 +28,7 @@
 | Tough conversation | 11.00% | ~26 |
 | A new way | 10.00% | ~24 |
 | Breaking free | 9.00% | ~21 |
-| True Reflection | 7.00% | ~16 |
+| True Reflection | 7.00% | ~17 |
 | Casting Finished | 6.00% | ~14 |
 | Heavy Burden | 6.00% | ~14 |
 | Fisherman | 6.00% | ~14 |
@@ -48,7 +48,7 @@
 | The Big Picture | 1.00% | ~2 |
 | In One Take | 1.00% | ~2 |
 | Sword of the Serpent | 1.00% | ~2 |
-| Rocket Science | 0.90% | ~2 |
+| Rocket Science | 0.80% | ~2 |
 | You Can’t Handle the Truth | 0.40% | ~1 |
 | The Tree and the Apple | 0.40% | ~1 |
 | The whole story | 0.00% | ~0 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235 (Ranked 409)  
+Progressed: 236 (Ranked 409)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,3 +126,4 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 220 | 0 |
 | 2023-12-29 | 227 | 0 |
 | 2023-12-30 | 235 | 0 |
+| 2023-12-31 | 236 | 0 |

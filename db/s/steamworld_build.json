@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -894,9 +894,9 @@
       "ID": "AccustomedCustomer",
       "SetID": "4bd750m",
       "Name": "Accustomed Customer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "Aristocratic",
@@ -926,9 +926,9 @@
       "ID": "ConductedTrade",
       "SetID": "4bd750m",
       "Name": "Conducted Trade",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 145
     },
     {
       "ID": "DiggingAHole",
@@ -950,9 +950,9 @@
       "ID": "GoingPlaces",
       "SetID": "4bd750m",
       "Name": "Going Places",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 143
     },
     {
       "ID": "GottaGoFast",
@@ -1006,9 +1006,9 @@
       "ID": "MineSweeper",
       "SetID": "4bd750m",
       "Name": "Mine Sweeper",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "NothingButRoad",
@@ -1125,8 +1125,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-31T00:05:13.7831029+00:00",
+  "LastChanged_Achievements": "2023-12-31T01:55:25.7158594+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3930423+00:00",
-  "LastUpdate_Ratings": "2023-12-31T00:03:00.1983716+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:05:13.7831191+00:00"
+  "LastUpdate_Ratings": "2023-12-31T01:53:11.3913806+00:00",
+  "LastUpdate_Achievements": "2023-12-31T01:55:25.7158767+00:00"
 }

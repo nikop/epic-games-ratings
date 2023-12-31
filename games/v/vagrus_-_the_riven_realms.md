@@ -20,8 +20,8 @@
 | The More the Merrier | 7.00% | ~18 |
 | Harbinger | 7.00% | ~18 |
 | Tail-wind | 7.00% | ~18 |
+| Deputized | 6.00% | ~16 |
 | Strategist | 5.00% | ~13 |
-| Deputized | 5.00% | ~13 |
 | Courier | 5.00% | ~13 |
 | Pilgrimage's End | 5.00% | ~13 |
 | Merchant | 5.00% | ~13 |

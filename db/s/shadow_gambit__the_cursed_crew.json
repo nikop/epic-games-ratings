@@ -5,10 +5,10 @@
   "Ranking_Rating": 101,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
-  "Ranking_EOS_Progress": 267,
+  "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1367,
+  "EOS_Progressed": 1368,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 1,
@@ -4709,6 +4709,11 @@
       "Time": "2023-12-30T23:07:02.0799811+00:00",
       "NumProgressed": 1367,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-31T01:54:57.910587+00:00",
+      "NumProgressed": 1368,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4721,7 +4726,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -4761,7 +4766,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "_07_FinishAct3",
@@ -4769,7 +4774,7 @@
       "Name": "All Good Things",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "_08_Completion_10",
@@ -4785,7 +4790,7 @@
       "Name": "Powder Monkey",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "_10_Completion_30",
@@ -4793,7 +4798,7 @@
       "Name": "Buccaneer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "_11_Completion_40",
@@ -4801,7 +4806,7 @@
       "Name": "Seadog",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "_12_Completion_50",
@@ -4847,9 +4852,9 @@
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 506
+      "UsersEstimate": 492
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -4865,7 +4870,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -4873,7 +4878,7 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -4928,7 +4933,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1367,
+      "Progressed": 1368,
       "Completed": 35
     }
   ],
@@ -4936,8 +4941,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2023-12-31T00:04:46.0867347+00:00",
+  "LastChanged_Achievements": "2023-12-31T01:54:57.9105864+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:59:29.1011219+00:00",
-  "LastUpdate_Achievements": "2023-12-31T00:04:46.0867676+00:00"
+  "LastUpdate_Ratings": "2023-12-31T01:49:32.629325+00:00",
+  "LastUpdate_Achievements": "2023-12-31T01:54:57.9106219+00:00"
 }

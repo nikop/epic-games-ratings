@@ -1,23 +1,23 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.21 (Ranked 939)  
+Rating: 4.21 (Ranked 940)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 4.00% | ~13,530 |
-| The touch of Chaos | 4.00% | ~13,530 |
-| A powerful aura was here | 3.00% | ~10,147 |
-| Let's raise the stakes!! | 2.00% | ~6,765 |
-| Rumors are true | 1.00% | ~3,382 |
-| Your wounds… They are healing so fast! | 1.00% | ~3,382 |
-| Pride is a sin, young Knight | 0.90% | ~3,044 |
+| May the Torchbearer light our way | 4.00% | ~13,531 |
+| The touch of Chaos | 4.00% | ~13,531 |
+| A powerful aura was here | 3.00% | ~10,149 |
+| Let's raise the stakes!! | 2.00% | ~6,766 |
+| Rumors are true | 1.00% | ~3,383 |
+| Your wounds… They are healing so fast! | 1.00% | ~3,383 |
+| Pride is a sin, young Knight | 0.90% | ~3,045 |
 | We'll be careful | 0.80% | ~2,706 |
 | Back to your senses | 0.70% | ~2,368 |
 | Bring it on! | 0.70% | ~2,368 |
-| They tricked me | 0.60% | ~2,029 |
-| We need to talk | 0.60% | ~2,029 |
-| They won't last long | 0.60% | ~2,029 |
+| They tricked me | 0.60% | ~2,030 |
+| We need to talk | 0.60% | ~2,030 |
+| They won't last long | 0.60% | ~2,030 |
 | I feel drawn to it | 0.50% | ~1,691 |
 | Here to stay | 0.50% | ~1,691 |
 | Counting on you | 0.50% | ~1,691 |
@@ -26,7 +26,7 @@ Rating: 4.21 (Ranked 939)
 | I took a risk | 0.40% | ~1,353 |
 | Their fate is sealed | 0.30% | ~1,015 |
 | Not even from this world | 0.30% | ~1,015 |
-| Chaos be damned! | 0.20% | ~676 |
+| Chaos be damned! | 0.20% | ~677 |
 | No damsels in distress | 0.10% | ~338 |
 | The immortal is bound to reborn | 0.10% | ~338 |
 | A legend among Chimeras | 0.10% | ~338 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 939)
 | Something... unnatural | 0.10% | ~338 |
 | We strike as one | 0.10% | ~338 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 338,246 (Ranked 56)  
+Progressed: 338,286 (Ranked 56)  
 Completed: 7 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 7 (0.00%) (Ranked 391)
 | 2023-12-28 | 337,012 | 7 |
 | 2023-12-29 | 337,532 | 7 |
 | 2023-12-30 | 338,211 | 7 |
-| 2023-12-31 | 338,246 | 7 |
+| 2023-12-31 | 338,286 | 7 |
 ## Awards
 Max (Great Boss Battles): 75  (Ranked 404)  
 Sum: 75 (Ranked 477)  
