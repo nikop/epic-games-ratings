@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 480,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 77,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -233,9 +233,9 @@
       "Count": 73
     }
   ],
-  "EOS_Progressed": 9106,
+  "EOS_Progressed": 9116,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2015,
+  "EOS_NewPlayers": 2005,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3113,6 +3113,11 @@
       "Time": "2023-12-31T14:09:16.096559+00:00",
       "NumProgressed": 9106,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T15:10:32.8875247+00:00",
+      "NumProgressed": 9116,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3125,7 +3130,7 @@
       "Name": "Conspiracy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "03_TheStolenStar",
@@ -3339,9 +3344,9 @@
       "ID": "29_NoStoneUnturned",
       "SetID": "37a94m8",
       "Name": "No Stone Unturned",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 73
     },
     {
       "ID": "30_The GreatestExploration",
@@ -3477,7 +3482,7 @@
       "Name": "A Spark",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "47_AFlame",
@@ -3644,7 +3649,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9106,
+      "Progressed": 9116,
       "Completed": 0
     }
   ],
@@ -3652,8 +3657,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-31T10:59:48.6402882+00:00",
-  "LastChanged_Achievements": "2023-12-31T14:09:16.0965587+00:00",
+  "LastChanged_Achievements": "2023-12-31T15:10:32.8875243+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:58:55.609672+00:00",
-  "LastUpdate_Achievements": "2023-12-31T14:09:16.0966352+00:00"
+  "LastUpdate_Ratings": "2023-12-31T14:59:51.1670563+00:00",
+  "LastUpdate_Achievements": "2023-12-31T15:10:32.8876004+00:00"
 }

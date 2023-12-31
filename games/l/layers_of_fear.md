@@ -8,7 +8,7 @@
 | A piece of the story | 60.00% | ~144 |
 | Wanderer | 54.00% | ~130 |
 | It's covered up for a reason | 53.00% | ~127 |
-| Scraps of love | 46.00% | ~110 |
+| Scraps of love | 47.00% | ~113 |
 | The artist’s impression | 45.00% | ~108 |
 | Do what you have to | 42.00% | ~101 |
 | Sign of weakness | 38.00% | ~91 |
@@ -39,9 +39,9 @@
 | The Perfect Storm | 4.00% | ~10 |
 | We Are Not Alone | 3.00% | ~7 |
 | Dark correspondence | 3.00% | ~7 |
+| It was worth a try | 3.00% | ~7 |
 | Se7en Seas | 3.00% | ~7 |
 | Body of Work | 2.00% | ~5 |
-| It was worth a try | 2.00% | ~5 |
 | Full Scoop | 2.00% | ~5 |
 | Preferred Parent | 2.00% | ~5 |
 | A Mosaic of Misery | 2.00% | ~5 |

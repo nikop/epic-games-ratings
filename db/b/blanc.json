@@ -4,8 +4,8 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3857,
+  "EOS_Progressed": 3859,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -6341,6 +6341,11 @@
       "Time": "2023-12-31T14:05:54.7235182+00:00",
       "NumProgressed": 3857,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-31T15:07:46.1381185+00:00",
+      "NumProgressed": 3859,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -6424,7 +6429,7 @@
       "Name": "Stronger together",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "THE_END",
@@ -6432,7 +6437,7 @@
       "Name": "The end",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "TRANSMISSION",
@@ -6455,7 +6460,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3857,
+      "Progressed": 3859,
       "Completed": 6
     }
   ],
@@ -6463,8 +6468,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-31T14:05:54.7235179+00:00",
+  "LastChanged_Achievements": "2023-12-31T15:07:46.1381182+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:59.0797821+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:57:58.6480495+00:00",
-  "LastUpdate_Achievements": "2023-12-31T14:05:54.7235866+00:00"
+  "LastUpdate_Ratings": "2023-12-31T14:58:30.6156844+00:00",
+  "LastUpdate_Achievements": "2023-12-31T15:07:46.1381596+00:00"
 }

@@ -7,20 +7,20 @@ Rating: 4.56 (Ranked 502)
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 2.00% | ~46 |
 | Become King | 1.00% | ~23 |
+| Collect Gold | 1.00% | ~23 |
 | Collect Iron Ore | 1.00% | ~23 |
 | Collect Monster Parts | 1.00% | ~23 |
 | Ranged Weapon | 1.00% | ~23 |
 | Two Handed Weapon | 1.00% | ~23 |
 | Defeat 25 Grubs | 1.00% | ~23 |
 | Defeat 25 Frogs | 1.00% | ~23 |
+| Defeat 25 Mozis | 1.00% | ~23 |
 | Kitchen Ready To Cook | 1.00% | ~23 |
+| Smithy Ready to Craft | 1.00% | ~23 |
 | Rescue Redgi's Brothers | 1.00% | ~23 |
 | Shield Maiden Yellow Tongue | 1.00% | ~9 |
 | The Bright Fir | 1.00% | ~9 |
-| Collect Gold | 0.90% | ~21 |
 | End of the Mozis | 0.90% | ~21 |
-| Defeat 25 Mozis | 0.90% | ~21 |
-| Smithy Ready to Craft | 0.90% | ~21 |
 | Throne Room Fit For A King | 0.90% | ~21 |
 | Defeat Croakhis Khan | 0.90% | ~8 |
 | I Remember My First Beer | 0.90% | ~8 |
@@ -35,9 +35,9 @@ Rating: 4.56 (Ranked 502)
 | Defeat the Grub Buster | 0.60% | ~6 |
 | Defeat the Stalker Queen | 0.60% | ~6 |
 | Return the Statues | 0.50% | ~11 |
+| Complete Arena Faction | 0.50% | ~11 |
+| Complete Ranger Faction | 0.50% | ~11 |
 | Defeat Rattus Augustail | 0.50% | ~11 |
-| Complete Arena Faction | 0.40% | ~9 |
-| Complete Ranger Faction | 0.40% | ~9 |
 | Complete Redgi's Armory | 0.30% | ~7 |
 | King of Kings | 0.30% | ~7 |
 | A new Warchief rises | 0.00% | ~0 |

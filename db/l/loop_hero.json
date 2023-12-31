@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 155,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 563,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-03-04T18:00:00+00:00",
     "PcReleaseDate": "2021-03-04T18:00:00+00:00",
@@ -5488,10 +5488,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 4277,
       "NumberOfAwardsMax": 494
+    },
+    {
+      "Time": "2023-12-31T14:57:03.0121428+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4279,
+      "NumberOfAwardsMax": 494
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4277,
+  "NumberOfAwards": 4279,
   "NumberOfAwardsMax": 494,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -5529,7 +5535,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 401
+      "Count": 403
     },
     {
       "Text": "This game has Unique Visuals",
@@ -5567,8 +5573,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
-  "LastChanged": "2023-12-31T01:50:12.4892679+00:00",
+  "LastChanged": "2023-12-31T14:57:03.0121426+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:16.1702971+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:56:57.9319846+00:00",
-  "LastUpdate_Achievements": "2023-12-31T14:03:40.6425174+00:00"
+  "LastUpdate_Ratings": "2023-12-31T14:57:03.0121432+00:00",
+  "LastUpdate_Achievements": "2023-12-31T15:04:41.0280719+00:00"
 }

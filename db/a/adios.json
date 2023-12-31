@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -135,10 +135,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 82219,
+  "EOS_Progressed": 82228,
   "EOS_Completed": 905,
-  "EOS_NewPlayers": 739,
-  "EOS_NewCompleters": 12,
+  "EOS_NewPlayers": 737,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
     {
@@ -28585,6 +28585,11 @@
       "Time": "2023-12-31T14:07:48.0053869+00:00",
       "NumProgressed": 82219,
       "NumCompleted": 905
+    },
+    {
+      "Time": "2023-12-31T15:08:31.982911+00:00",
+      "NumProgressed": 82228,
+      "NumCompleted": 905
     }
   ],
   "TotalAchievements": 25,
@@ -28612,7 +28617,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15622
+      "UsersEstimate": 15623
     },
     {
       "ID": "Audiophile",
@@ -28620,7 +28625,7 @@
       "Name": "Audiophile",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "Be Seeing You",
@@ -28628,7 +28633,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 18088
+      "UsersEstimate": 18090
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -28636,7 +28641,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14799
+      "UsersEstimate": 14801
     },
     {
       "ID": "Butcher",
@@ -28652,7 +28657,7 @@
       "Name": "Cut Call",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4933
+      "UsersEstimate": 4934
     },
     {
       "ID": "Fair\u0027sFair",
@@ -28668,7 +28673,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16444
+      "UsersEstimate": 16446
     },
     {
       "ID": "Hearty",
@@ -28684,7 +28689,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7400
+      "UsersEstimate": 7401
     },
     {
       "ID": "Magnetic Miracles",
@@ -28700,7 +28705,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17266
+      "UsersEstimate": 17268
     },
     {
       "ID": "Meaty",
@@ -28716,7 +28721,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15622
+      "UsersEstimate": 15623
     },
     {
       "ID": "Nice Try",
@@ -28724,7 +28729,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 13155
+      "UsersEstimate": 13156
     },
     {
       "ID": "Nothing Left to Say",
@@ -28732,7 +28737,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 5755
+      "UsersEstimate": 5756
     },
     {
       "ID": "Piano Man",
@@ -28740,7 +28745,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 9044
+      "UsersEstimate": 9045
     },
     {
       "ID": "Right On Target",
@@ -28748,7 +28753,7 @@
       "Name": "Right On Target",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11511
+      "UsersEstimate": 11512
     },
     {
       "ID": "Sniper",
@@ -28756,7 +28761,7 @@
       "Name": "Sniper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 5755
+      "UsersEstimate": 5756
     },
     {
       "ID": "Spicy",
@@ -28780,7 +28785,7 @@
       "Name": "Tape Head",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "Vinyl Vibes",
@@ -28795,7 +28800,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 82219,
+      "Progressed": 82228,
       "Completed": 905
     }
   ],
@@ -28803,8 +28808,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-12-24T03:59:19.0038141+00:00",
-  "LastChanged_Achievements": "2023-12-31T14:07:48.0053866+00:00",
+  "LastChanged_Achievements": "2023-12-31T15:08:31.9829108+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:29.0198367+00:00",
-  "LastUpdate_Ratings": "2023-12-31T14:02:38.6744369+00:00",
-  "LastUpdate_Achievements": "2023-12-31T14:07:48.0055354+00:00"
+  "LastUpdate_Ratings": "2023-12-31T15:03:09.5785824+00:00",
+  "LastUpdate_Achievements": "2023-12-31T15:08:31.9830238+00:00"
 }

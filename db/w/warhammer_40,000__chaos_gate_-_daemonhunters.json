@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -807,9 +807,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3673,
+  "EOS_Progressed": 3675,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5187,6 +5187,11 @@
       "Time": "2023-12-31T14:04:05.2510713+00:00",
       "NumProgressed": 3673,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T15:05:15.1312163+00:00",
+      "NumProgressed": 3675,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5350,7 +5355,7 @@
       "Name": "Daemonkeeper",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "KadexDefeated_Nexus",
@@ -5382,7 +5387,7 @@
       "Name": "Corruption Cleanser",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Kills_Executioner",
@@ -5422,7 +5427,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "Kills_Streak",
@@ -5526,7 +5531,7 @@
       "Name": "Efficient Killer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "MissionVictory_NoDamage",
@@ -5622,7 +5627,7 @@
       "Name": "A Gift Spurned",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -5670,7 +5675,7 @@
       "Name": "Execution Force",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ExperiencedCallidus",
@@ -5741,21 +5746,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3673,
+      "Progressed": 3675,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3673,
+      "Progressed": 3675,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-29T09:03:12.9031427+00:00",
-  "LastChanged_Achievements": "2023-12-31T14:04:05.251071+00:00",
+  "LastChanged_Achievements": "2023-12-31T15:05:15.131216+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.5390055+00:00",
-  "LastUpdate_Ratings": "2023-12-31T14:02:56.3839299+00:00",
-  "LastUpdate_Achievements": "2023-12-31T14:04:05.2511313+00:00"
+  "LastUpdate_Ratings": "2023-12-31T15:03:36.2206322+00:00",
+  "LastUpdate_Achievements": "2023-12-31T15:05:15.1312765+00:00"
 }

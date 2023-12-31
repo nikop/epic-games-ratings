@@ -6,14 +6,14 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 35.00% | ~51 |
-| Best Buddy | 27.00% | ~40 |
-| Role Model | 24.00% | ~35 |
-| Civilian | 24.00% | ~35 |
-| Peddler | 20.00% | ~29 |
+| Entrepreneur | 34.00% | ~51 |
+| Best Buddy | 26.00% | ~39 |
+| Role Model | 24.00% | ~36 |
+| Civilian | 24.00% | ~36 |
+| Peddler | 19.00% | ~28 |
+| Military Leader | 19.00% | ~28 |
 | Creator | 19.00% | ~28 |
-| Military Leader | 18.00% | ~26 |
-| Festival-goer | 18.00% | ~26 |
+| Festival-goer | 18.00% | ~27 |
 | Commander | 15.00% | ~22 |
 | Long-Haul Flyer | 13.00% | ~19 |
 | Pass A38 | 13.00% | ~19 |
@@ -40,11 +40,11 @@ Number of Ratings: 124  (23.09.2022)
 | Lover | 3.00% | ~4 |
 | Weaponsmith | 1.00% | ~1 |
 | Morkon | 1.00% | ~1 |
+| Legendary | 1.00% | ~1 |
 | Toy Time | 0.70% | ~1 |
 | Defector | 0.70% | ~1 |
 | Outlaw | 0.70% | ~1 |
 | Destroyer | 0.70% | ~1 |
-| Legendary | 0.70% | ~1 |
 | Pack Rat | 0.00% | ~0 |
 | Drinker | 0.00% | ~0 |
 | Key Master | 0.00% | ~0 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147 (Ranked 448)  
+Progressed: 149 (Ranked 446)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 122 | 0 |
 | 2023-12-29 | 131 | 0 |
 | 2023-12-30 | 141 | 0 |
-| 2023-12-31 | 147 | 0 |
+| 2023-12-31 | 149 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

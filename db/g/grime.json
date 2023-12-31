@@ -1789,9 +1789,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 165710,
+  "EOS_Progressed": 165727,
   "EOS_Completed": 429,
-  "EOS_NewPlayers": 1499,
+  "EOS_NewPlayers": 1504,
   "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -21319,6 +21319,11 @@
       "Time": "2023-12-31T14:03:51.5654184+00:00",
       "NumProgressed": 165710,
       "NumCompleted": 429
+    },
+    {
+      "Time": "2023-12-31T15:04:56.0572673+00:00",
+      "NumProgressed": 165727,
+      "NumCompleted": 429
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -21379,7 +21384,7 @@
       "Name": "The Hunt",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3314
+      "UsersEstimate": 3315
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -21395,7 +21400,7 @@
       "Name": "Taste",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4971
+      "UsersEstimate": 4972
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -21435,7 +21440,7 @@
       "Name": "Scion",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -21529,9 +21534,9 @@
       "ID": "MISC_ABSORBMANY",
       "SetID": "ccc0dlh",
       "Name": "Devourer",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1492
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -21547,7 +21552,7 @@
       "Name": "Imprint",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4971
+      "UsersEstimate": 4972
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -21593,9 +21598,9 @@
       "ID": "MISC_REACHHIGHLEVEL",
       "SetID": "ccc0dlh",
       "Name": "Sharpened Vessel",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 994
+      "UsersEstimate": 1160
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -21603,7 +21608,7 @@
       "Name": "Ravenous",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3314
+      "UsersEstimate": 3315
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -21698,21 +21703,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 165293,
+      "Progressed": 165310,
       "Completed": 1249
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 165710,
+      "Progressed": 165727,
       "Completed": 429
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-31T13:00:03.1579363+00:00",
-  "LastChanged_Achievements": "2023-12-31T14:03:51.5654181+00:00",
+  "LastChanged_Achievements": "2023-12-31T15:04:56.0572669+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:50.3299145+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:57:51.1431445+00:00",
-  "LastUpdate_Achievements": "2023-12-31T14:03:51.5655497+00:00"
+  "LastUpdate_Ratings": "2023-12-31T14:58:18.8168475+00:00",
+  "LastUpdate_Achievements": "2023-12-31T15:04:56.0573928+00:00"
 }

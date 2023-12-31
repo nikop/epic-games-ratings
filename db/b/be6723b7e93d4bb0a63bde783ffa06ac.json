@@ -4,8 +4,8 @@
   "ProductSlug": "strike-force-kitty-4603e5",
   "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2018-02-20T17:00:00+00:00",
@@ -950,9 +950,9 @@
       "ID": "ach6",
       "SetID": "baneh2j",
       "Name": "On the style",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 35,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "ach7",
@@ -989,8 +989,8 @@
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-12-31T14:04:44.8762267+00:00",
+  "LastChanged_Achievements": "2023-12-31T15:06:08.2924788+00:00",
   "LastUpdate_AppInfo": "2023-12-27T09:57:11.1404081+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:58:35.2388048+00:00",
-  "LastUpdate_Achievements": "2023-12-31T14:04:44.8762472+00:00"
+  "LastUpdate_Ratings": "2023-12-31T14:59:21.1434178+00:00",
+  "LastUpdate_Achievements": "2023-12-31T15:06:08.2924951+00:00"
 }

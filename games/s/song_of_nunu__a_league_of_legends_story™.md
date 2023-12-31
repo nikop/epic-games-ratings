@@ -1,39 +1,39 @@
 # Song of Nunu: A League of Legends Story
 [Store](https://store.epicgames.com/en-US/p/song-of-nunu-a-league-of-legends-story)  
 [View Rawdata](../../db/s/song_of_nunu__a_league_of_legends_story™.json)  
-Rating: 4.52 (Ranked 572)  
+Rating: 4.52 (Ranked 573)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 74.00% | ~1,040 |
-| I Broke It | 73.00% | ~1,026 |
-| Better On Ice | 67.00% | ~942 |
-| Notai Notes | 66.00% | ~928 |
-| Blue Dreams | 65.00% | ~914 |
-| He's Famous! | 65.00% | ~914 |
-| Cutie Poro | 65.00% | ~914 |
+| Feels Familiar | 74.00% | ~1,041 |
+| I Broke It | 73.00% | ~1,027 |
+| Better On Ice | 67.00% | ~943 |
+| Notai Notes | 66.00% | ~929 |
+| Blue Dreams | 65.00% | ~915 |
+| He's Famous! | 65.00% | ~915 |
+| Cutie Poro | 65.00% | ~915 |
 | Krugmazing | 64.00% | ~900 |
 | Moneyball | 60.00% | ~844 |
 | The Fire Below the Mountain | 60.00% | ~844 |
-| No Bites | 55.00% | ~773 |
-| Iceborn | 55.00% | ~773 |
-| Boom Things | 52.00% | ~731 |
-| Tear of Freedom | 51.00% | ~717 |
+| No Bites | 55.00% | ~774 |
+| Iceborn | 55.00% | ~774 |
+| Boom Things | 52.00% | ~732 |
+| Tear of Freedom | 51.00% | ~718 |
 | My Darkest Day | 48.00% | ~675 |
 | Rhythm Of Willump | 46.00% | ~647 |
 | The Relentless Storm | 46.00% | ~647 |
 | A Tragic Reminder | 44.00% | ~619 |
 | 3000 Year Blackout | 43.00% | ~605 |
 | The Finisher | 42.00% | ~591 |
-| So Close | 41.00% | ~576 |
-| You Get Used To It | 41.00% | ~576 |
-| Family | 39.00% | ~548 |
-| Boosted! | 39.00% | ~548 |
-| Biggest Snowball Ever | 38.00% | ~534 |
-| Freeze The Ice Witch | 38.00% | ~534 |
-| True Legends | 38.00% | ~534 |
-| Deadliest and Biggest Snowball Ever! | 38.00% | ~534 |
-| Bullseye | 36.00% | ~506 |
+| So Close | 41.00% | ~577 |
+| You Get Used To It | 41.00% | ~577 |
+| Family | 39.00% | ~549 |
+| Boosted! | 39.00% | ~549 |
+| Biggest Snowball Ever | 38.00% | ~535 |
+| Freeze The Ice Witch | 38.00% | ~535 |
+| True Legends | 38.00% | ~535 |
+| Deadliest and Biggest Snowball Ever! | 38.00% | ~535 |
+| Bullseye | 36.00% | ~507 |
 | It Is Not Over | 35.00% | ~492 |
 | On The Rocks | 33.00% | ~464 |
 | Snowy Poro | 31.00% | ~436 |
@@ -50,7 +50,7 @@ Rating: 4.52 (Ranked 572)
 | We Are Speed | 2.00% | ~28 |
 | Sneaky Notai | 1.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,406 (Ranked 265)  
+Progressed: 1,407 (Ranked 265)  
 Completed: 9 (0.64%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 9 (0.64%) (Ranked 201)
 | 2023-12-28 | 1,369 | 9 |
 | 2023-12-29 | 1,384 | 9 |
 | 2023-12-30 | 1,398 | 9 |
-| 2023-12-31 | 1,406 | 9 |
+| 2023-12-31 | 1,407 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

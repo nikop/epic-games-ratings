@@ -6,20 +6,20 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 73.00% | ~3,193 |
+| Venture Outward | 73.00% | ~3,194 |
 | Ready for Winter | 62.00% | ~2,712 |
-| Ready for Summer | 49.00% | ~2,143 |
-| Cordon Bleu | 41.00% | ~1,793 |
+| Ready for Summer | 49.00% | ~2,144 |
+| Cordon Bleu | 41.00% | ~1,794 |
 | Tapped! | 35.00% | ~1,531 |
 | Eureka | 30.00% | ~1,312 |
 | Scourge Slayer | 24.00% | ~1,050 |
 | Science, Troglodyte! | 22.00% | ~962 |
 | Exceptional Skill | 21.00% | ~919 |
 | Home Sweet Home | 21.00% | ~919 |
-| Encyclopedic! | 18.00% | ~787 |
-| The Power of Family | 16.00% | ~700 |
+| Encyclopedic! | 18.00% | ~788 |
 | A Fortress Toppled! | 15.00% | ~656 |
-| Apex Predator | 14.00% | ~612 |
+| The Power of Family | 15.00% | ~656 |
+| Apex Predator | 14.00% | ~613 |
 | The Power of Faith | 12.00% | ~525 |
 | Strange amalgams | 11.00% | ~481 |
 | The Power of Freedom | 9.00% | ~394 |
@@ -37,19 +37,19 @@ Number of Ratings: 266  (23.09.2022)
 | Memory of a legend | 4.00% | ~175 |
 | Light of Levant | 3.00% | ~131 |
 | This was a mistake... | 3.00% | ~131 |
-| Crowd Pleaser. | 2.00% | ~87 |
-| Perfect Defense | 2.00% | ~87 |
-| Power! To! The People! | 2.00% | ~87 |
-| Your actions define you | 2.00% | ~87 |
+| Crowd Pleaser. | 2.00% | ~88 |
+| Perfect Defense | 2.00% | ~88 |
+| Power! To! The People! | 2.00% | ~88 |
+| Your actions define you | 2.00% | ~88 |
 | The blood is life | 1.00% | ~44 |
 | Vanquisher of nightmares | 1.00% | ~44 |
 | They'll Tell Stories About This | 0.90% | ~39 |
 | Through fire and flame. | 0.70% | ~31 |
-| Legacy of a master hunter | 0.40% | ~17 |
+| Legacy of a master hunter | 0.40% | ~18 |
 | Master of Aurai | 0.30% | ~13 |
 | The Absolute Pinnacle. | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,374 (Ranked 206)  
+Progressed: 4,375 (Ranked 206)  
 Completed: 5 (0.11%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 5 (0.11%) (Ranked 303)
 | 2023-12-28 | 4,317 | 5 |
 | 2023-12-29 | 4,335 | 5 |
 | 2023-12-30 | 4,362 | 5 |
-| 2023-12-31 | 4,374 | 5 |
+| 2023-12-31 | 4,375 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 496)  
 Sum: 246 (Ranked 399)  

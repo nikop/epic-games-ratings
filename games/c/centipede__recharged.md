@@ -1,29 +1,29 @@
 # Centipede: Recharged
 [Store](https://store.epicgames.com/en-US/p/centipede-recharged)  
 [View Rawdata](../../db/c/centipede__recharged.json)  
-Rating: 4.31 (Ranked 857)  
+Rating: 4.31 (Ranked 856)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shooting Shark | 47.00% | ~11,486 |
-| Make Rock Not War | 39.00% | ~9,531 |
-| Sole Survivor | 35.00% | ~8,554 |
-| Fireworks | 30.00% | ~7,332 |
-| Burning For You | 26.00% | ~6,354 |
-| Beat 'em Up | 24.00% | ~5,865 |
+| Shooting Shark | 47.00% | ~11,488 |
+| Make Rock Not War | 39.00% | ~9,532 |
+| Sole Survivor | 35.00% | ~8,555 |
+| Fireworks | 30.00% | ~7,333 |
+| Burning For You | 26.00% | ~6,355 |
+| Beat 'em Up | 24.00% | ~5,866 |
 | Still Burnin' | 17.00% | ~4,155 |
-| I Am The Storm | 16.00% | ~3,910 |
+| I Am The Storm | 16.00% | ~3,911 |
 | Deadline | 13.00% | ~3,177 |
-| Eyes On Fire | 11.00% | ~2,688 |
+| Eyes On Fire | 11.00% | ~2,689 |
 | Don't Fear The Reaper | 10.00% | ~2,444 |
-| Harvester Of Eyes | 6.00% | ~1,466 |
-| The Reaper | 6.00% | ~1,466 |
+| Harvester Of Eyes | 6.00% | ~1,467 |
+| The Reaper | 6.00% | ~1,467 |
 | Feel The Thunder | 5.00% | ~1,222 |
 | Shadow Warrior | 2.00% | ~489 |
 | Mirrors | 0.80% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,439 (Ranked 146)  
+Progressed: 24,442 (Ranked 146)  
 Completed: 118 (0.48%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 118 (0.48%) (Ranked 221)
 | 2023-12-28 | 24,252 | 118 |
 | 2023-12-29 | 24,313 | 118 |
 | 2023-12-30 | 24,396 | 118 |
-| 2023-12-31 | 24,439 | 118 |
+| 2023-12-31 | 24,442 | 118 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

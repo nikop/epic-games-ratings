@@ -7,14 +7,14 @@
 | Home Sweet Home | 88.00% | ~92 |
 | Enough rooms to swing a cat | 82.00% | ~85 |
 | First to the post | 81.00% | ~84 |
-| A kind of Magic | 74.00% | ~77 |
-| Connected | 66.00% | ~69 |
-| Expansion | 61.00% | ~63 |
-| Mine! | 58.00% | ~60 |
+| A kind of Magic | 75.00% | ~78 |
+| Connected | 68.00% | ~71 |
+| Expansion | 63.00% | ~66 |
+| Mine! | 59.00% | ~61 |
 | Harvest Time | 57.00% | ~59 |
-| Artificer's Apprentice | 50.00% | ~52 |
+| Artificer's Apprentice | 51.00% | ~53 |
 | Fly the friendly Sky | 46.00% | ~48 |
-| Get out of here! | 41.00% | ~43 |
+| Get out of here! | 43.00% | ~45 |
 | Alchemist's Apprentice | 38.00% | ~40 |
 | Necromancer's Apprentice | 37.00% | ~38 |
 | Friend of Lyraine | 37.00% | ~38 |
@@ -28,11 +28,11 @@
 | Friend of Alluvyan | 16.00% | ~17 |
 | Friend of Connach | 14.00% | ~15 |
 | Break Free | 14.00% | ~15 |
+| Stormwatch Faste | 13.00% | ~14 |
 | Friend of Gillyshire | 13.00% | ~14 |
 | Friend of Silver Drift Hollow | 13.00% | ~14 |
 | Philo's Tale | 12.00% | ~12 |
 | Silver Drift Hollow Mine | 12.00% | ~12 |
-| Stormwatch Faste | 12.00% | ~12 |
 | Friend of Orgash | 12.00% | ~12 |
 | Friend of Bastion | 12.00% | ~12 |
 | A Master of Magic | 11.00% | ~11 |

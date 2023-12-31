@@ -6,9 +6,9 @@
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 337,
-  "Ranking_EOS_Completed": 182,
+  "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -317,11 +317,11 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 571,
+  "EOS_Progressed": 576,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 251,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 0.88,
+  "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -1557,6 +1557,11 @@
       "Time": "2023-12-31T14:06:17.4518769+00:00",
       "NumProgressed": 571,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-31T15:08:18.3968608+00:00",
+      "NumProgressed": 576,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1601,7 +1606,7 @@
       "Name": "Life\u0027s as extreme as you wanna make it!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_DOWN_TOWN",
@@ -1671,9 +1676,9 @@
       "ID": "ACH_PRAWN_BOSS",
       "SetID": "biiejkc",
       "Name": "Shrimp Catcher",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
@@ -1681,7 +1686,7 @@
       "Name": "Toxic Terror",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
@@ -1689,7 +1694,7 @@
       "Name": "Sweet Victory",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -1713,7 +1718,7 @@
       "Name": "Sleepy Time",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_SOCK_CONCERT",
@@ -1721,7 +1726,7 @@
       "Name": "Sock Concert",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_SOCK_OPERA",
@@ -1745,7 +1750,7 @@
       "Name": "Super Spatula Seeker",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -1761,7 +1766,7 @@
       "Name": "Mega Spatula Seeker",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_STAT_COLLECT_SOCKS",
@@ -1769,7 +1774,7 @@
       "Name": "Sock Getter",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -1777,7 +1782,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -1785,7 +1790,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -1817,22 +1822,22 @@
       "Name": "Time For Tutorial",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     }
   ],
   "AchievementSets": [
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 571,
+      "Progressed": 576,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-31T14:06:17.4518766+00:00",
+  "LastChanged_Achievements": "2023-12-31T15:08:18.3968603+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:57:43.6687766+00:00",
-  "LastUpdate_Achievements": "2023-12-31T14:06:17.4519274+00:00"
+  "LastUpdate_Ratings": "2023-12-31T14:58:08.0081504+00:00",
+  "LastUpdate_Achievements": "2023-12-31T15:08:18.396915+00:00"
 }

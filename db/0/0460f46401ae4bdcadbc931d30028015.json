@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -1329,7 +1329,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 7550,
+  "EOS_Progressed": 7551,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1754,
   "EOS_NewCompleters": 0,
@@ -9454,6 +9454,11 @@
       "Time": "2023-12-31T14:04:54.7848572+00:00",
       "NumProgressed": 7550,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T15:06:22.2769177+00:00",
+      "NumProgressed": 7551,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -9466,7 +9471,7 @@
       "Name": "Primetime",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "achievement_10",
@@ -9586,7 +9591,7 @@
       "Name": "Lockdown Corner",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "achievement_5",
@@ -9610,7 +9615,7 @@
       "Name": "Head-to-Head",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "achievement_8",
@@ -9633,7 +9638,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 7550,
+      "Progressed": 7551,
       "Completed": 0
     }
   ],
@@ -9641,8 +9646,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-12-31T06:59:18.6048367+00:00",
-  "LastChanged_Achievements": "2023-12-31T14:04:54.7848569+00:00",
+  "LastChanged_Achievements": "2023-12-31T15:06:22.2769173+00:00",
   "LastUpdate_AppInfo": "2023-12-28T08:57:17.7769653+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:58:34.5754628+00:00",
-  "LastUpdate_Achievements": "2023-12-31T14:04:54.7849067+00:00"
+  "LastUpdate_Ratings": "2023-12-31T14:59:20.161286+00:00",
+  "LastUpdate_Achievements": "2023-12-31T15:06:22.276975+00:00"
 }

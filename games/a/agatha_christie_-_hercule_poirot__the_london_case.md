@@ -21,16 +21,16 @@
 | Order and method | 37.00% | ~30 |
 | Betty Allen | 37.00% | ~30 |
 | The Investigation Begins | 34.00% | ~28 |
-| Ms. Camilla B. Culsham | 30.00% | ~25 |
-| Irene Court-Smyth | 30.00% | ~25 |
-| An odd series of events | 29.00% | ~24 |
-| The Apartment | 29.00% | ~24 |
-| Nathaniel Dryden | 27.00% | ~22 |
-| A rude awakening | 26.00% | ~21 |
-| Bartholomew | 26.00% | ~21 |
+| Ms. Camilla B. Culsham | 32.00% | ~26 |
+| Irene Court-Smyth | 32.00% | ~26 |
+| An odd series of events | 30.00% | ~25 |
+| The Apartment | 30.00% | ~25 |
+| Nathaniel Dryden | 28.00% | ~23 |
+| A rude awakening | 27.00% | ~22 |
+| Bartholomew | 27.00% | ~22 |
+| The Scheme | 26.00% | ~21 |
 | Well-acquainted | 24.00% | ~20 |
 | Anastasia Babanin | 24.00% | ~20 |
-| The Scheme | 24.00% | ~20 |
 | Zakariya Demir | 23.00% | ~19 |
 | Truth from within | 22.00% | ~18 |
 | A curious phrase | 20.00% | ~16 |

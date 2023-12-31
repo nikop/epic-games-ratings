@@ -1,28 +1,28 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.20 (Ranked 950)  
+Rating: 4.20 (Ranked 949)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforeseen | 87.00% | ~2,071 |
-| Battlefields Have Memories | 80.00% | ~1,904 |
-| Enlisted | 73.00% | ~1,737 |
-| Maybe Engage a Little | 68.00% | ~1,618 |
+| Battlefields Have Memories | 80.00% | ~1,905 |
+| Enlisted | 73.00% | ~1,738 |
+| Maybe Engage a Little | 68.00% | ~1,619 |
 | No More Names | 50.00% | ~1,190 |
 | Initiate | 36.00% | ~857 |
 | Thrada-Kul | 32.00% | ~762 |
 | Gravity-Challenged Rocks | 26.00% | ~619 |
-| Socialite | 23.00% | ~547 |
-| Soldier | 21.00% | ~500 |
+| Socialite | 23.00% | ~548 |
+| Soldier | 22.00% | ~524 |
 | All the Major Food Groups | 21.00% | ~500 |
 | Beggars Would Ride | 19.00% | ~452 |
-| Control is an Illusion | 18.00% | ~428 |
+| Control is an Illusion | 18.00% | ~429 |
 | The Means to Save It | 15.00% | ~357 |
 | Resilience to Sin | 14.00% | ~333 |
-| A Familiar Nest | 13.00% | ~309 |
-| Geas Aristeya | 13.00% | ~309 |
-| Periapt Alizarin | 13.00% | ~309 |
+| A Familiar Nest | 13.00% | ~310 |
+| Geas Aristeya | 13.00% | ~310 |
+| Periapt Alizarin | 13.00% | ~310 |
 | A Perfect Cycle | 12.00% | ~286 |
 | Recruit | 11.00% | ~262 |
 | Armsman | 10.00% | ~238 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 950)
 | Out of Time | 0.20% | ~5 |
 | Fowl Play | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,380 (Ranked 233)  
+Progressed: 2,381 (Ranked 233)  
 Completed: 2 (0.08%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 2 (0.08%) (Ranked 320)
 | 2023-12-28 | 2,136 | 2 |
 | 2023-12-29 | 2,236 | 2 |
 | 2023-12-30 | 2,327 | 2 |
-| 2023-12-31 | 2,380 | 2 |
+| 2023-12-31 | 2,381 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

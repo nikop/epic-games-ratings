@@ -6,32 +6,32 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~12,361 |
-| What should I buy? | 81.00% | ~10,766 |
-| Rescued Elder Ent | 61.00% | ~8,108 |
-| Focus! | 60.00% | ~7,975 |
-| The End of the Gold Mane Knights | 47.00% | ~6,247 |
-| False Goddess, Disappear | 38.00% | ~5,051 |
-| Rules of Etiquette | 37.00% | ~4,918 |
-| Inventory Management | 31.00% | ~4,120 |
-| Quick Movements | 30.00% | ~3,987 |
-| The Fall of the Leonia Order | 29.00% | ~3,854 |
-| Go Home... | 27.00% | ~3,589 |
-| The Final Battle of the First Hero | 26.00% | ~3,456 |
-| The Hero Killer | 24.00% | ~3,190 |
-| Brain at Full Throttle | 20.00% | ~2,658 |
-| Rookies Welcome | 18.00% | ~2,392 |
-| Deadly Power | 15.00% | ~1,994 |
-| Castle Restoration Plans | 12.00% | ~1,595 |
-| The Dwarven Chandelier | 10.00% | ~1,329 |
-| Master of Speed | 9.00% | ~1,196 |
-| The Levitator | 7.00% | ~930 |
+| The Legend Begins | 93.00% | ~12,367 |
+| What should I buy? | 81.00% | ~10,771 |
+| Rescued Elder Ent | 61.00% | ~8,112 |
+| Focus! | 60.00% | ~7,979 |
+| The End of the Gold Mane Knights | 47.00% | ~6,250 |
+| False Goddess, Disappear | 38.00% | ~5,053 |
+| Rules of Etiquette | 37.00% | ~4,920 |
+| Inventory Management | 31.00% | ~4,122 |
+| Quick Movements | 30.00% | ~3,989 |
+| The Fall of the Leonia Order | 29.00% | ~3,856 |
+| Go Home... | 27.00% | ~3,590 |
+| The Final Battle of the First Hero | 26.00% | ~3,457 |
+| The Hero Killer | 24.00% | ~3,192 |
+| Brain at Full Throttle | 20.00% | ~2,660 |
+| Rookies Welcome | 18.00% | ~2,394 |
+| Deadly Power | 15.00% | ~1,995 |
+| Castle Restoration Plans | 12.00% | ~1,596 |
+| The Dwarven Chandelier | 10.00% | ~1,330 |
+| Master of Speed | 9.00% | ~1,197 |
+| The Levitator | 7.00% | ~931 |
 | The God of Battle | 4.00% | ~532 |
 | Too Much of a Talker | 1.00% | ~133 |
 | The Skeleton King | 1.00% | ~133 |
 | Cold-Blooded | 0.60% | ~80 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,291 (Ranked 173)  
+Progressed: 13,298 (Ranked 173)  
 Completed: 19 (0.14%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 19 (0.14%) (Ranked 293)
 | 2023-12-28 | 12,887 | 18 |
 | 2023-12-29 | 13,030 | 19 |
 | 2023-12-30 | 13,181 | 19 |
-| 2023-12-31 | 13,291 | 19 |
+| 2023-12-31 | 13,298 | 19 |
 ## Awards
 Max (Great for Beginners): 147  (Ranked 328)  
 Sum: 979 (Ranked 270)  

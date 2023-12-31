@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5331,9 +5331,9 @@
       "Count": 531
     }
   ],
-  "EOS_Progressed": 92796,
+  "EOS_Progressed": 92797,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 341,
+  "EOS_NewPlayers": 340,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -29846,6 +29846,11 @@
       "Time": "2023-12-31T14:03:26.0728066+00:00",
       "NumProgressed": 92796,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-31T15:04:20.1728676+00:00",
+      "NumProgressed": 92797,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -29911,9 +29916,9 @@
       "ID": "ACH_0021",
       "SetID": "3kam13l",
       "Name": "Rockay Raider",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 55,
-      "UsersEstimate": 278
+      "UsersEstimate": 371
     },
     {
       "ID": "ACH_0022",
@@ -30184,13 +30189,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92796,
+      "Progressed": 92797,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21143,
+      "Progressed": 21144,
       "Completed": 15593
     }
   ],
@@ -30198,8 +30203,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-30T15:59:09.7129225+00:00",
-  "LastChanged_Achievements": "2023-12-31T14:03:26.0728064+00:00",
+  "LastChanged_Achievements": "2023-12-31T15:04:20.1728673+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:43.6008036+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:59:22.0783301+00:00",
-  "LastUpdate_Achievements": "2023-12-31T14:03:26.0729145+00:00"
+  "LastUpdate_Ratings": "2023-12-31T15:00:29.577398+00:00",
+  "LastUpdate_Achievements": "2023-12-31T15:04:20.1729794+00:00"
 }

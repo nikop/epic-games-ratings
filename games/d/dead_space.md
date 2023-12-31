@@ -1,59 +1,59 @@
 # Dead Space
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
-Rating: 4.69 (Ranked 232)  
+Rating: 4.70 (Ranked 217)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 96.00% | ~12,136 |
-| Welcome Aboard | 81.00% | ~10,240 |
-| Lab Rat | 64.00% | ~8,091 |
-| All Systems Go | 52.00% | ~6,574 |
-| Brute Force | 50.00% | ~6,321 |
-| Raise the Stakes | 47.00% | ~5,942 |
-| Cannon Fodder | 46.00% | ~5,815 |
-| Autofire | 43.00% | ~5,436 |
-| True Believer | 42.00% | ~5,310 |
-| Story Teller | 41.00% | ~5,183 |
-| Surgeon | 38.00% | ~4,804 |
-| Freeze | 37.00% | ~4,678 |
-| Exterminator | 37.00% | ~4,678 |
-| Greenhouse Effect | 37.00% | ~4,678 |
-| Live with the Hot Ones | 32.00% | ~4,045 |
-| S.O.S. | 32.00% | ~4,045 |
-| Full Arsenal | 31.00% | ~3,919 |
-| Get Off My Ship! | 30.00% | ~3,793 |
-| Strange Transmissions | 30.00% | ~3,793 |
-| Wreckage | 28.00% | ~3,540 |
-| Keeper of the Faith | 26.00% | ~3,287 |
-| Betrayed | 25.00% | ~3,160 |
-| Exodus | 24.00% | ~3,034 |
-| A Cut Above | 24.00% | ~3,034 |
-| Legend Teller | 24.00% | ~3,034 |
-| Mindless Prey | 24.00% | ~3,034 |
-| There's Always Peng! | 23.00% | ~2,908 |
-| Front Toward Enemy | 22.00% | ~2,781 |
-| Whole Again | 18.00% | ~2,276 |
-| Set A Benchmark | 18.00% | ~2,276 |
-| Final Regeneration | 16.00% | ~2,023 |
-| Full Contact | 16.00% | ~2,023 |
-| Full Clearance | 15.00% | ~1,896 |
-| Z-Baller | 14.00% | ~1,770 |
-| Pusher | 13.00% | ~1,643 |
-| Pack Rat | 13.00% | ~1,643 |
-| Eviscerator | 10.00% | ~1,264 |
-| Backbreaker | 9.00% | ~1,138 |
-| Marked | 9.00% | ~1,138 |
-| Wishbone | 6.00% | ~759 |
-| Built To Order | 3.00% | ~379 |
+| Marksman | 96.00% | ~12,167 |
+| Welcome Aboard | 81.00% | ~10,266 |
+| Lab Rat | 64.00% | ~8,111 |
+| All Systems Go | 52.00% | ~6,590 |
+| Brute Force | 50.00% | ~6,337 |
+| Raise the Stakes | 47.00% | ~5,957 |
+| Cannon Fodder | 46.00% | ~5,830 |
+| Autofire | 43.00% | ~5,450 |
+| True Believer | 42.00% | ~5,323 |
+| Story Teller | 41.00% | ~5,196 |
+| Surgeon | 38.00% | ~4,816 |
+| Freeze | 38.00% | ~4,816 |
+| Exterminator | 37.00% | ~4,689 |
+| Greenhouse Effect | 37.00% | ~4,689 |
+| Live with the Hot Ones | 32.00% | ~4,056 |
+| S.O.S. | 32.00% | ~4,056 |
+| Full Arsenal | 31.00% | ~3,929 |
+| Get Off My Ship! | 30.00% | ~3,802 |
+| Strange Transmissions | 30.00% | ~3,802 |
+| Wreckage | 28.00% | ~3,549 |
+| Keeper of the Faith | 26.00% | ~3,295 |
+| Betrayed | 25.00% | ~3,168 |
+| Exodus | 24.00% | ~3,042 |
+| A Cut Above | 24.00% | ~3,042 |
+| Legend Teller | 24.00% | ~3,042 |
+| Mindless Prey | 24.00% | ~3,042 |
+| There's Always Peng! | 23.00% | ~2,915 |
+| Front Toward Enemy | 22.00% | ~2,788 |
+| Set A Benchmark | 19.00% | ~2,408 |
+| Whole Again | 18.00% | ~2,281 |
+| Final Regeneration | 16.00% | ~2,028 |
+| Full Contact | 16.00% | ~2,028 |
+| Full Clearance | 15.00% | ~1,901 |
+| Z-Baller | 14.00% | ~1,774 |
+| Pusher | 13.00% | ~1,648 |
+| Pack Rat | 13.00% | ~1,648 |
+| Eviscerator | 10.00% | ~1,267 |
+| Backbreaker | 9.00% | ~1,141 |
+| Marked | 9.00% | ~1,141 |
+| Wishbone | 6.00% | ~760 |
+| Built To Order | 3.00% | ~380 |
 | Trusted Contractor | 2.00% | ~253 |
 | Merchant | 2.00% | ~253 |
-| Maxed Out | 1.00% | ~126 |
-| Reunion | 1.00% | ~126 |
+| Maxed Out | 1.00% | ~127 |
+| Reunion | 1.00% | ~127 |
 | Untouchable | 0.80% | ~101 |
 | One Gun | 0.80% | ~101 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,642 (Ranked 175)  
+Progressed: 12,674 (Ranked 175)  
 Completed: 21 (0.17%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,14 +161,14 @@ Completed: 21 (0.17%) (Ranked 280)
 | 2023-12-28 | 11,366 | 18 |
 | 2023-12-29 | 11,767 | 19 |
 | 2023-12-30 | 12,304 | 19 |
-| 2023-12-31 | 12,642 | 21 |
+| 2023-12-31 | 12,674 | 21 |
 ## Awards
-Max (Great Boss Battles): 180  (Ranked 310)  
-Sum: 180 (Ranked 424)  
-Diff (max vs sum): -114  
+Max (Great Boss Battles): 184  (Ranked 307)  
+Sum: 184 (Ranked 423)  
+Diff (max vs sum): -116  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 180 |
+| This game has Great Boss Battles | 184 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -302,3 +302,4 @@ Diff (max vs sum): -114
 | 2023-12-28 | 4.68 | 171 | 171 |
 | 2023-12-29 | 4.68 | 175 | 175 |
 | 2023-12-30 | 4.69 | 180 | 180 |
+| 2023-12-31 | 4.70 | 184 | 184 |

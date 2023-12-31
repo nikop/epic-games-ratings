@@ -3832,9 +3832,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 242100,
+  "EOS_Progressed": 242101,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 510,
+  "EOS_NewPlayers": 506,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -30212,6 +30212,11 @@
       "Time": "2023-12-31T14:09:35.0594142+00:00",
       "NumProgressed": 242100,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-31T15:10:57.8267928+00:00",
+      "NumProgressed": 242101,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -30383,7 +30388,7 @@
       "Name": "To The Death!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "DIEHARD",
@@ -30431,7 +30436,7 @@
       "Name": "Well Prepared",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "ENDINGCHOICE",
@@ -30479,7 +30484,7 @@
       "Name": "Just Chilling",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "FREEZE20TIMES",
@@ -30599,7 +30604,7 @@
       "Name": "Save Our Souls",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "HUGESOULSPILL",
@@ -30679,7 +30684,7 @@
       "Name": "Don\u0027t Ignore Me!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "KILLBOSSHARD",
@@ -30695,7 +30700,7 @@
       "Name": "All Consuming",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "KILLEDSELFWITHITEMS",
@@ -30735,7 +30740,7 @@
       "Name": "Stop Hitting Yourself",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "KILLSAMSPAREOTHERS",
@@ -30887,7 +30892,7 @@
       "Name": "Doing Time",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "POISON300",
@@ -30895,7 +30900,7 @@
       "Name": "Spreading Plague",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "POISON30TIMES",
@@ -30911,7 +30916,7 @@
       "Name": "Acid Bath",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "POISONSELF20",
@@ -30951,7 +30956,7 @@
       "Name": "New Perspectives",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "SNAKESTEALTH",
@@ -31029,9 +31034,9 @@
       "ID": "TRANSFORMFIREBEAD",
       "SetID": "5l8oe0h",
       "Name": "Defuser",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 484
+      "UsersEstimate": 726
     },
     {
       "ID": "USESHRINE",
@@ -31326,13 +31331,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242100,
+      "Progressed": 242101,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3580,
+      "Progressed": 3581,
       "Completed": 416
     }
   ],
@@ -31340,8 +31345,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-31T11:02:50.1043055+00:00",
-  "LastChanged_Achievements": "2023-12-31T14:09:35.059414+00:00",
+  "LastChanged_Achievements": "2023-12-31T15:10:57.8267925+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:56:55.6506993+00:00",
-  "LastUpdate_Achievements": "2023-12-31T14:09:35.0597095+00:00"
+  "LastUpdate_Ratings": "2023-12-31T14:56:59.5388997+00:00",
+  "LastUpdate_Achievements": "2023-12-31T15:10:57.8270653+00:00"
 }

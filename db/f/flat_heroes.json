@@ -4,8 +4,8 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 663,
+  "EOS_Progressed": 664,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1299,6 +1299,11 @@
       "Time": "2023-12-31T10:10:15.2608139+00:00",
       "NumProgressed": 663,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T15:10:42.3755805+00:00",
+      "NumProgressed": 664,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -1590,7 +1595,7 @@
       "Name": "Dash Crash",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "World2Boss",
@@ -1598,7 +1603,7 @@
       "Name": "Snake Eyes",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "World3Boss",
@@ -1606,7 +1611,7 @@
       "Name": "The King of Flat",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "World4Boss",
@@ -1630,7 +1635,7 @@
       "Name": "Tornado Chaser",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "World7Boss",
@@ -1661,7 +1666,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 663,
+      "Progressed": 664,
       "Completed": 0
     }
   ],
@@ -1669,8 +1674,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-12-31T14:09:23.0733762+00:00",
+  "LastChanged_Achievements": "2023-12-31T15:10:42.3755802+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:30.8786427+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:58:48.7251324+00:00",
-  "LastUpdate_Achievements": "2023-12-31T14:09:23.0734232+00:00"
+  "LastUpdate_Ratings": "2023-12-31T14:59:40.9320677+00:00",
+  "LastUpdate_Achievements": "2023-12-31T15:10:42.3756193+00:00"
 }

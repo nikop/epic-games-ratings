@@ -5,34 +5,34 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Such a strange dream… | 88.00% | ~444 |
-| Your first fight | 85.00% | ~428 |
-| Good Person Chip | 83.00% | ~418 |
-| First winning | 81.00% | ~408 |
-| Your first job | 80.00% | ~403 |
-| Depressed visitor | 75.00% | ~378 |
-| Old movies enjoyer | 74.00% | ~373 |
-| Neurotrainer – power gainer! | 74.00% | ~373 |
-| Fitness professional | 73.00% | ~368 |
-| Employee of the week | 72.00% | ~363 |
+| Your first fight | 85.00% | ~429 |
+| Good Person Chip | 83.00% | ~419 |
+| First winning | 81.00% | ~409 |
+| Your first job | 80.00% | ~404 |
+| Depressed visitor | 75.00% | ~379 |
+| Old movies enjoyer | 74.00% | ~374 |
+| Neurotrainer – power gainer! | 74.00% | ~374 |
+| Fitness professional | 73.00% | ~369 |
+| Employee of the week | 72.00% | ~364 |
 | Your own amateur gym | 68.00% | ~343 |
+| Run K, run! | 67.00% | ~338 |
 | First defeat | 66.00% | ~333 |
-| Run K, run! | 66.00% | ~333 |
 | Hello, world! | 65.00% | ~328 |
 | No bullying more | 64.00% | ~323 |
 | Fighting is cool | 63.00% | ~318 |
-| Pal of your father? | 62.00% | ~312 |
-| Spirit of the past | 60.00% | ~302 |
-| Employee of the month | 59.00% | ~297 |
-| Law student | 57.00% | ~287 |
-| Handyman | 55.00% | ~277 |
-| Workout professional | 54.00% | ~272 |
-| Little hacker | 54.00% | ~272 |
-| Champion – starter pack | 54.00% | ~272 |
-| It's good to be alive | 54.00% | ~272 |
-| Fight for life | 53.00% | ~267 |
-| Own four walls | 53.00% | ~267 |
-| Intriguing candies | 53.00% | ~267 |
-| Employee of the year | 53.00% | ~267 |
+| Pal of your father? | 62.00% | ~313 |
+| Spirit of the past | 60.00% | ~303 |
+| Employee of the month | 59.00% | ~298 |
+| Law student | 57.00% | ~288 |
+| Handyman | 55.00% | ~278 |
+| Workout professional | 54.00% | ~273 |
+| Little hacker | 54.00% | ~273 |
+| Champion – starter pack | 54.00% | ~273 |
+| It's good to be alive | 54.00% | ~273 |
+| Fight for life | 53.00% | ~268 |
+| Own four walls | 53.00% | ~268 |
+| Intriguing candies | 53.00% | ~268 |
+| Employee of the year | 53.00% | ~268 |
 | Legal courier | 49.00% | ~247 |
 | Extreme neuropower! | 49.00% | ~247 |
 | Escaped from a big trouble | 47.00% | ~237 |
@@ -41,20 +41,20 @@
 | Mysterious voice | 41.00% | ~207 |
 | Guiding on the right path | 41.00% | ~207 |
 | No blades in the gym | 39.00% | ~197 |
-| Champion – no way back | 37.00% | ~186 |
-| Responsible approach | 37.00% | ~186 |
-| GYM professional | 36.00% | ~181 |
-| Underground dwellers | 36.00% | ~181 |
-| Deal with life | 35.00% | ~176 |
-| Mom got better | 34.00% | ~171 |
-| Poisoned fighter | 34.00% | ~171 |
-| Get out of my apartment! | 34.00% | ~171 |
-| The die is cast | 34.00% | ~171 |
-| Gang wrangler | 32.00% | ~161 |
-| Seashell hunter | 32.00% | ~161 |
-| Absolute Champion! | 31.00% | ~156 |
-| Undercover robot | 31.00% | ~156 |
-| Problems of cyborgs | 30.00% | ~151 |
+| Champion – no way back | 37.00% | ~187 |
+| Responsible approach | 37.00% | ~187 |
+| Underground dwellers | 36.00% | ~182 |
+| Deal with life | 35.00% | ~177 |
+| GYM professional | 35.00% | ~177 |
+| Mom got better | 34.00% | ~172 |
+| Poisoned fighter | 34.00% | ~172 |
+| The die is cast | 34.00% | ~172 |
+| Get out of my apartment! | 33.00% | ~167 |
+| Seashell hunter | 32.00% | ~162 |
+| Gang wrangler | 31.00% | ~157 |
+| Undercover robot | 31.00% | ~157 |
+| Problems of cyborgs | 30.00% | ~152 |
+| Absolute Champion! | 30.00% | ~152 |
 | The lonesome road | 29.00% | ~146 |
 | Family comes first | 29.00% | ~146 |
 | Not little hacker | 29.00% | ~146 |
@@ -68,11 +68,11 @@
 | Anyone can resist | 28.00% | ~141 |
 | The heart of the Resistance | 28.00% | ~141 |
 | Better cooking at home | 26.00% | ~131 |
+| The only right decision | 26.00% | ~131 |
 | Silver’s past | 25.00% | ~126 |
-| The only right decision | 25.00% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 504 (Ranked 342)  
-Completed: 9 (1.79%) (Ranked 141)  
+Progressed: 505 (Ranked 342)  
+Completed: 9 (1.78%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -181,4 +181,4 @@ Completed: 9 (1.79%) (Ranked 141)
 | 2023-12-28 | 492 | 9 |
 | 2023-12-29 | 497 | 9 |
 | 2023-12-30 | 502 | 9 |
-| 2023-12-31 | 504 | 9 |
+| 2023-12-31 | 505 | 9 |

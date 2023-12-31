@@ -18,6 +18,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 0.70% | ~112 |
 | Oracle | 0.70% | ~112 |
 | Able | 0.60% | ~96 |
+| Glorious | 0.60% | ~96 |
 | Just | 0.60% | ~96 |
 | Keystone | 0.60% | ~96 |
 | Learned | 0.60% | ~96 |
@@ -30,7 +31,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 0.50% | ~80 |
 | Enlightened | 0.50% | ~80 |
 | Fountainhead | 0.50% | ~80 |
-| Glorious | 0.50% | ~80 |
 | Magnificent | 0.50% | ~80 |
 | Warrior | 0.50% | ~80 |
 | Developing Cities | 0.50% | ~80 |
@@ -78,6 +78,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 0.20% | ~32 |
 | Capable | 0.20% | ~32 |
 | Conqueror | 0.20% | ~32 |
+| Invincible | 0.20% | ~32 |
 | Lion | 0.20% | ~32 |
 | Mighty | 0.20% | ~32 |
 | Ready | 0.20% | ~32 |
@@ -107,6 +108,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gnosticism | 0.20% | ~32 |
 | Legalism | 0.20% | ~32 |
 | Mythology | 0.20% | ~32 |
+| Redemption | 0.20% | ~32 |
 | Revelation | 0.20% | ~32 |
 | Cimmerian Archer | 0.20% | ~32 |
 | Legionary | 0.20% | ~32 |
@@ -153,7 +155,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Destroyer | 0.10% | ~16 |
 | Devout | 0.10% | ~16 |
 | Holy | 0.10% | ~16 |
-| Invincible | 0.10% | ~16 |
 | Old | 0.10% | ~16 |
 | Peacemaker | 0.10% | ~16 |
 | White Death | 0.10% | ~16 |
@@ -227,7 +228,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon in Roma | 0.10% | ~16 |
 | Capturing Cities | 0.10% | ~16 |
 | Ten Crowns | 0.10% | ~16 |
-| Redemption | 0.10% | ~16 |
 | Veneration | 0.10% | ~16 |
 | Word of God | 0.10% | ~16 |
 | Cataphract Archer | 0.10% | ~16 |

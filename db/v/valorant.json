@@ -2,13 +2,13 @@
   "ID": "cbd5b3d310a54b12bf3fe8c41994174f",
   "Name": "VALORANT",
   "ProductSlug": "valorant",
-  "Ranking_Rating": 572,
+  "Ranking_Rating": 573,
   "Ranking_Popularity": 10,
   "Ranking_PopularitySum": 6,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 563,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
     "PcReleaseDate": "2020-06-02T18:52:01+00:00",
@@ -13607,10 +13607,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 644389,
       "NumberOfAwardsMax": 90209
+    },
+    {
+      "Time": "2023-12-31T15:00:12.1051745+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 644535,
+      "NumberOfAwardsMax": 90209
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 644389,
+  "NumberOfAwards": 644535,
   "NumberOfAwardsMax": 90209,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -13630,7 +13636,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 68695
+      "Count": 68841
     },
     {
       "Text": "This game is Extremely Fun",
@@ -13686,8 +13692,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2023-12-31T11:59:30.864447+00:00",
+  "LastChanged": "2023-12-31T15:00:12.1051743+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.3446205+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:59:10.4283845+00:00",
-  "LastUpdate_Achievements": "2023-12-31T14:08:23.5331529+00:00"
+  "LastUpdate_Ratings": "2023-12-31T15:00:12.1051749+00:00",
+  "LastUpdate_Achievements": "2023-12-31T15:09:20.3868505+00:00"
 }

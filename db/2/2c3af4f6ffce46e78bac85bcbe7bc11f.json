@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 65,
   "Ranking_EOS_NewPlayers": 475,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
     "PcReleaseDate": "2023-04-17T15:00:00+00:00",
@@ -829,9 +829,9 @@
       "ID": "Mountain",
       "SetID": "6j29jep",
       "Name": "Something monumental...",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Mountain_Fragile",
@@ -869,9 +869,9 @@
       "ID": "Tree",
       "SetID": "6j29jep",
       "Name": "Something firmly rooted...",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Tree_Fragile",
@@ -908,8 +908,8 @@
   ],
   "FirstSeen": "2023-09-01T05:01:10.2908706+00:00",
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-12-31T14:03:52.6887863+00:00",
+  "LastChanged_Achievements": "2023-12-31T15:04:57.6000242+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:20.3895168+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:58:26.7416882+00:00",
-  "LastUpdate_Achievements": "2023-12-31T14:03:52.6888073+00:00"
+  "LastUpdate_Ratings": "2023-12-31T14:59:08.5964804+00:00",
+  "LastUpdate_Achievements": "2023-12-31T15:04:57.6000404+00:00"
 }

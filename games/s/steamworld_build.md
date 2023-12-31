@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mathematic | 87.00% | ~192 |
-| Digging a Hole | 77.00% | ~170 |
+| Mathematic | 87.00% | ~193 |
+| Digging a Hole | 77.00% | ~171 |
 | It's Yours, My Friend | 74.00% | ~164 |
-| Conducted Trade | 66.00% | ~146 |
-| Going Places | 65.00% | ~144 |
-| Aristocratic | 62.00% | ~137 |
-| Tutti Frutti | 57.00% | ~126 |
-| Slotting Machine | 45.00% | ~99 |
-| Gotta Go Fast | 44.00% | ~97 |
+| Conducted Trade | 67.00% | ~149 |
+| Going Places | 64.00% | ~142 |
+| Aristocratic | 62.00% | ~138 |
+| Tutti Frutti | 57.00% | ~127 |
+| Slotting Machine | 45.00% | ~100 |
+| Gotta Go Fast | 44.00% | ~98 |
 | Systematic | 43.00% | ~95 |
-| Mine Sweeper | 39.00% | ~86 |
+| Mine Sweeper | 39.00% | ~87 |
 | Roll Out | 36.00% | ~80 |
-| Dopa-Miner | 29.00% | ~64 |
+| Dopa-Miner | 30.00% | ~67 |
 | Up, Up And Away! | 29.00% | ~64 |
 | Whoa! | 29.00% | ~64 |
 | Botropolis | 24.00% | ~53 |
@@ -33,7 +33,7 @@
 | Yup. | 0.50% | ~1 |
 | Nothing But Road | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221 (Ranked 418)  
+Progressed: 222 (Ranked 418)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,4 +66,4 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 200 | 0 |
 | 2023-12-29 | 211 | 0 |
 | 2023-12-30 | 220 | 0 |
-| 2023-12-31 | 221 | 0 |
+| 2023-12-31 | 222 | 0 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -458,7 +458,7 @@
   ],
   "EOS_Progressed": 329,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1642,9 +1642,9 @@
       "ID": "Kill_Sin_Avarice",
       "SetID": "7a5k76n",
       "Name": "All That Glitters",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 155
     },
     {
       "ID": "Kill_Sin_BigBad",
@@ -1826,8 +1826,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-29T15:59:12.0320887+00:00",
-  "LastChanged_Achievements": "2023-12-31T14:04:41.0545024+00:00",
+  "LastChanged_Achievements": "2023-12-31T15:06:03.1616165+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2023-12-31T14:00:11.21226+00:00",
-  "LastUpdate_Achievements": "2023-12-31T14:04:41.054595+00:00"
+  "LastUpdate_Ratings": "2023-12-31T15:01:42.5516265+00:00",
+  "LastUpdate_Achievements": "2023-12-31T15:06:03.1616595+00:00"
 }

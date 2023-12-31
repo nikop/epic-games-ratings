@@ -5,13 +5,13 @@ Rating: 4.03 (Ranked 1,027)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,725 |
-| World Map | 78.00% | ~3,124 |
-| Temple of Eternals | 56.00% | ~2,243 |
-| Prestigious | 52.00% | ~2,083 |
-| Fellowship Power | 42.00% | ~1,682 |
-| Full Party | 27.00% | ~1,081 |
-| Guild Power | 23.00% | ~921 |
+| Victor | 93.00% | ~3,727 |
+| World Map | 78.00% | ~3,125 |
+| Temple of Eternals | 56.00% | ~2,244 |
+| Prestigious | 52.00% | ~2,084 |
+| Fellowship Power | 42.00% | ~1,683 |
+| Full Party | 27.00% | ~1,082 |
+| Guild Power | 23.00% | ~922 |
 | Prestigious x10 | 20.00% | ~801 |
 | The game is on | 18.00% | ~721 |
 | Exotic Merchant | 16.00% | ~641 |
@@ -27,27 +27,27 @@ Rating: 4.03 (Ranked 1,027)
 | Natural Talent | 11.00% | ~441 |
 | Superior | 11.00% | ~441 |
 | The Unstoppable | 11.00% | ~441 |
-| Scientist | 10.00% | ~400 |
-| Doing My Part | 9.00% | ~360 |
-| Hunter | 9.00% | ~360 |
-| The power of Awakening | 9.00% | ~360 |
-| Challenger | 8.00% | ~320 |
-| Daily Quest Completionist | 8.00% | ~320 |
-| Frostfire Liberator | 8.00% | ~320 |
-| Mastery | 8.00% | ~320 |
-| Moving Up The Ladder | 8.00% | ~320 |
-| Relic Of The Past | 8.00% | ~320 |
-| Scroll Master | 8.00% | ~320 |
+| Scientist | 10.00% | ~401 |
+| Doing My Part | 9.00% | ~361 |
+| Hunter | 9.00% | ~361 |
+| The power of Awakening | 9.00% | ~361 |
+| Challenger | 8.00% | ~321 |
+| Daily Quest Completionist | 8.00% | ~321 |
+| Frostfire Liberator | 8.00% | ~321 |
+| Mastery | 8.00% | ~321 |
+| Moving Up The Ladder | 8.00% | ~321 |
+| Relic Of The Past | 8.00% | ~321 |
+| Scroll Master | 8.00% | ~321 |
 | Four Leaf Clover | 7.00% | ~280 |
 | Here We Go Again | 7.00% | ~280 |
 | Master Enchanter | 7.00% | ~280 |
 | The father of Dragons | 7.00% | ~280 |
 | Trader | 7.00% | ~280 |
+| Dragon Slayer | 6.00% | ~240 |
 | The Expeditioner | 6.00% | ~240 |
 | Weekly Quest Completionist | 6.00% | ~240 |
 | Blueprint Upgrades | 5.00% | ~200 |
 | Crystal Mining | 5.00% | ~200 |
-| Dragon Slayer | 5.00% | ~200 |
 | Enchanting skill | 5.00% | ~200 |
 | Engineer Mastery | 5.00% | ~200 |
 | How Do You Turn This On? | 5.00% | ~200 |
@@ -81,7 +81,7 @@ Rating: 4.03 (Ranked 1,027)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,005 (Ranked 209)  
+Progressed: 4,007 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 2 (0.05%) (Ranked 334)
 | 2023-12-28 | 3,911 | 2 |
 | 2023-12-29 | 3,948 | 2 |
 | 2023-12-30 | 3,984 | 2 |
-| 2023-12-31 | 4,005 | 2 |
+| 2023-12-31 | 4,007 | 2 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 478)  
 Sum: 129 (Ranked 445)  

@@ -14,7 +14,7 @@ Number of Ratings: 116  (23.09.2022)
 | Increased Capacity | 54.00% | ~178 |
 | Just the start | 50.00% | ~164 |
 | Perfect Storm | 47.00% | ~155 |
-| All That Glitters | 46.00% | ~151 |
+| All That Glitters | 47.00% | ~155 |
 | Enhance! | 43.00% | ~141 |
 | One Of the Chosen | 42.00% | ~138 |
 | Throne Potato | 40.00% | ~132 |

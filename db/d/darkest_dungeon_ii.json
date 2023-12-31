@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10356,9 +10356,9 @@
       "Count": 1071
     }
   ],
-  "EOS_Progressed": 130959,
+  "EOS_Progressed": 130968,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1380,
+  "EOS_NewPlayers": 1377,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37676,6 +37676,11 @@
       "Time": "2023-12-31T14:09:00.7336296+00:00",
       "NumProgressed": 130959,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-31T15:10:11.6191593+00:00",
+      "NumProgressed": 130968,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37687,7 +37692,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5238
+      "UsersEstimate": 5239
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -37695,7 +37700,7 @@
       "Name": "Serenity Now!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5238
+      "UsersEstimate": 5239
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -37703,7 +37708,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5238
+      "UsersEstimate": 5239
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -37839,7 +37844,7 @@
       "Name": "Not Today!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5238
+      "UsersEstimate": 5239
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -37887,7 +37892,7 @@
       "Name": "Meat and Greet",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5238
+      "UsersEstimate": 5239
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -37903,7 +37908,7 @@
       "Name": "Catch and Decease",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5238
+      "UsersEstimate": 5239
     },
     {
       "ID": "combat_kill_librarian",
@@ -37959,7 +37964,7 @@
       "Name": "It Happens",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5238
+      "UsersEstimate": 5239
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -37983,7 +37988,7 @@
       "Name": "Rush Hour",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5238
+      "UsersEstimate": 5239
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -38007,7 +38012,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5238
+      "UsersEstimate": 5239
     },
     {
       "ID": "driving_distance_easy",
@@ -38079,7 +38084,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5238
+      "UsersEstimate": 5239
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -38095,7 +38100,7 @@
       "Name": "FNG",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5238
+      "UsersEstimate": 5239
     },
     {
       "ID": "inn_visit_all_variants",
@@ -38207,7 +38212,7 @@
       "Name": "Battle Hardened",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "altar_of_hope_memory_equip_all_duelist",
@@ -38215,7 +38220,7 @@
       "Name": "Ma\u00EEtre De La Lame",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "combat_kill_chirurgeon",
@@ -38223,7 +38228,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "combat_kill_collector",
@@ -38271,7 +38276,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -38279,7 +38284,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "quest_complete_crusader",
@@ -38287,7 +38292,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -38318,21 +38323,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130959,
+      "Progressed": 130968,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5828,
+      "Progressed": 5837,
       "Completed": 820
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-31T13:57:37.0666659+00:00",
-  "LastChanged_Achievements": "2023-12-31T14:09:00.7336293+00:00",
+  "LastChanged_Achievements": "2023-12-31T15:10:11.6191591+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:57:37.0666665+00:00",
-  "LastUpdate_Achievements": "2023-12-31T14:09:00.7338362+00:00"
+  "LastUpdate_Ratings": "2023-12-31T14:57:58.2947003+00:00",
+  "LastUpdate_Achievements": "2023-12-31T15:10:11.6193342+00:00"
 }

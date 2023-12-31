@@ -1,41 +1,41 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.81 (Ranked 84)  
+Rating: 4.81 (Ranked 85)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,015 |
-| No more cages! | 90.00% | ~2,857 |
-| Everfrost | 77.00% | ~2,444 |
-| Pentakill | 76.00% | ~2,412 |
-| Dark Forest | 76.00% | ~2,412 |
-| The use of petricite | 73.00% | ~2,317 |
-| You can pet the dog | 60.00% | ~1,904 |
-| Thornbarrow | 42.00% | ~1,333 |
-| Big Helmet Bro | 40.00% | ~1,270 |
-| Clarion Cove | 40.00% | ~1,270 |
-| Ternmoat Headquarters | 38.00% | ~1,206 |
-| Elemental master | 37.00% | ~1,174 |
-| Past trauma | 37.00% | ~1,174 |
-| Cypress Glen Headquarters | 34.00% | ~1,079 |
-| Petricite Burst | 33.00% | ~1,047 |
-| Old friend | 32.00% | ~1,016 |
-| Devineur | 32.00% | ~1,016 |
-| Hijack | 30.00% | ~952 |
-| Whispers in the Woods I | 28.00% | ~889 |
-| I chose my shackles | 27.00% | ~857 |
-| Ancient power | 27.00% | ~857 |
-| Sacred Woods | 26.00% | ~825 |
-| Little light | 24.00% | ~762 |
-| Glyndemere | 23.00% | ~730 |
-| Capelworth | 23.00% | ~730 |
-| Full equipped | 23.00% | ~730 |
-| Iffighain Headquarters | 22.00% | ~698 |
-| Whispers in the Woods II | 18.00% | ~571 |
-| No more holding back | 18.00% | ~571 |
-| Terbisia | 18.00% | ~571 |
-| Quickmoore Headquarters | 18.00% | ~571 |
+| For Demacia | 95.00% | ~3,019 |
+| No more cages! | 90.00% | ~2,860 |
+| Everfrost | 77.00% | ~2,447 |
+| Pentakill | 76.00% | ~2,415 |
+| Dark Forest | 76.00% | ~2,415 |
+| The use of petricite | 73.00% | ~2,320 |
+| You can pet the dog | 60.00% | ~1,907 |
+| Thornbarrow | 42.00% | ~1,335 |
+| Big Helmet Bro | 40.00% | ~1,271 |
+| Clarion Cove | 40.00% | ~1,271 |
+| Ternmoat Headquarters | 38.00% | ~1,208 |
+| Elemental master | 37.00% | ~1,176 |
+| Past trauma | 37.00% | ~1,176 |
+| Cypress Glen Headquarters | 34.00% | ~1,081 |
+| Petricite Burst | 33.00% | ~1,049 |
+| Old friend | 32.00% | ~1,017 |
+| Devineur | 31.00% | ~985 |
+| Hijack | 30.00% | ~953 |
+| Whispers in the Woods I | 28.00% | ~890 |
+| I chose my shackles | 27.00% | ~858 |
+| Ancient power | 27.00% | ~858 |
+| Sacred Woods | 25.00% | ~794 |
+| Little light | 24.00% | ~763 |
+| Glyndemere | 23.00% | ~731 |
+| Capelworth | 23.00% | ~731 |
+| Full equipped | 23.00% | ~731 |
+| Iffighain Headquarters | 22.00% | ~699 |
+| Quickmoore Headquarters | 19.00% | ~604 |
+| Whispers in the Woods II | 18.00% | ~572 |
+| No more holding back | 18.00% | ~572 |
+| Terbisia | 18.00% | ~572 |
 | Whispers in the Woods III | 17.00% | ~540 |
 | Friendly fire | 17.00% | ~540 |
 | The Central Headquarters | 17.00% | ~540 |
@@ -43,23 +43,23 @@ Rating: 4.81 (Ranked 84)
 | True power | 16.00% | ~508 |
 | Meltridge | 16.00% | ~508 |
 | Cloven Dell Headquarters | 16.00% | ~508 |
-| Whispers in the Woods IV | 14.00% | ~444 |
-| I smell fear | 14.00% | ~444 |
-| The Great City of Demacia | 14.00% | ~444 |
+| Whispers in the Woods IV | 14.00% | ~445 |
+| I smell fear | 14.00% | ~445 |
+| The Great City of Demacia | 14.00% | ~445 |
 | Embrace the darkness | 13.00% | ~413 |
 | The end of the experiments | 13.00% | ~413 |
 | Truth is a dark mirror | 13.00% | ~413 |
 | Call it 'redistribution of magic | 13.00% | ~413 |
 | Do you trust me? | 12.00% | ~381 |
 | Back to sleep, then... | 12.00% | ~381 |
-| Chains master | 11.00% | ~349 |
-| The great mage rebellion starts now | 11.00% | ~349 |
-| You can pet the... horse | 11.00% | ~349 |
-| Spellcrafting | 10.00% | ~317 |
-| Silverwing nest | 2.00% | ~63 |
+| Chains master | 11.00% | ~350 |
+| The great mage rebellion starts now | 11.00% | ~350 |
+| You can pet the... horse | 11.00% | ~350 |
+| Spellcrafting | 10.00% | ~318 |
+| Silverwing nest | 2.00% | ~64 |
 | The Unshackled | 1.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,174 (Ranked 222)  
+Progressed: 3,178 (Ranked 222)  
 Completed: 18 (0.57%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 18 (0.57%) (Ranked 207)
 | 2023-12-28 | 3,125 | 17 |
 | 2023-12-29 | 3,140 | 17 |
 | 2023-12-30 | 3,165 | 17 |
-| 2023-12-31 | 3,174 | 18 |
+| 2023-12-31 | 3,178 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

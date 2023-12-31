@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1399,9 +1399,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 260029,
+  "EOS_Progressed": 260030,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25814,6 +25814,11 @@
       "Time": "2023-12-31T14:04:28.7009209+00:00",
       "NumProgressed": 260029,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-31T15:05:46.4360175+00:00",
+      "NumProgressed": 260030,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -25881,7 +25886,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13001
+      "UsersEstimate": 13002
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -25953,7 +25958,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13001
+      "UsersEstimate": 13002
     },
     {
       "ID": "CreedsInBank2",
@@ -26272,7 +26277,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260029,
+      "Progressed": 260030,
       "Completed": 3
     }
   ],
@@ -26280,8 +26285,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-31T03:57:13.7520833+00:00",
-  "LastChanged_Achievements": "2023-12-31T14:04:28.7009206+00:00",
+  "LastChanged_Achievements": "2023-12-31T15:05:46.4360173+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.7689812+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:57:19.1197959+00:00",
-  "LastUpdate_Achievements": "2023-12-31T14:04:28.7010582+00:00"
+  "LastUpdate_Ratings": "2023-12-31T14:57:34.3467006+00:00",
+  "LastUpdate_Achievements": "2023-12-31T15:05:46.4361441+00:00"
 }

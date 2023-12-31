@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -259,9 +259,9 @@
       "Count": 89
     }
   ],
-  "EOS_Progressed": 1209,
+  "EOS_Progressed": 1210,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3344,6 +3344,11 @@
       "Time": "2023-12-31T12:06:33.1077245+00:00",
       "NumProgressed": 1209,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-31T15:07:48.5796968+00:00",
+      "NumProgressed": 1210,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3394,9 +3399,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 363
+      "UsersEstimate": 375
     },
     {
       "ID": "BreakTheLoop",
@@ -3450,9 +3455,9 @@
       "ID": "Discovery",
       "SetID": "1n308hc",
       "Name": "Discovery",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 290
     },
     {
       "ID": "EasternWetlands",
@@ -3538,9 +3543,9 @@
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 326
+      "UsersEstimate": 339
     },
     {
       "ID": "LostMarshes",
@@ -3562,9 +3567,9 @@
       "ID": "Mnemosyne",
       "SetID": "1n308hc",
       "Name": "Mnemosyne",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 36
+      "UsersEstimate": 48
     },
     {
       "ID": "MuseumExplorer",
@@ -3572,15 +3577,15 @@
       "Name": "Museum Explorer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "MuseumVisitor",
       "SetID": "1n308hc",
       "Name": "Museum Visitor",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 290
     },
     {
       "ID": "NewBeginning",
@@ -3620,7 +3625,7 @@
       "Name": "Persistent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "PrometheusUnbound",
@@ -3636,7 +3641,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "RemnantsOfThePast",
@@ -3810,9 +3815,9 @@
       "ID": "WoodedPlateau",
       "SetID": "1n308hc",
       "Name": "Wooded Plateau",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 169
     },
     {
       "ID": "YourBiggestFan",
@@ -3827,7 +3832,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1209,
+      "Progressed": 1210,
       "Completed": 2
     }
   ],
@@ -3835,8 +3840,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-29T23:57:10.9507958+00:00",
-  "LastChanged_Achievements": "2023-12-31T14:05:56.5291703+00:00",
+  "LastChanged_Achievements": "2023-12-31T15:07:48.5796967+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:57:58.8413779+00:00",
-  "LastUpdate_Achievements": "2023-12-31T14:05:56.5292229+00:00"
+  "LastUpdate_Ratings": "2023-12-31T14:58:30.9033316+00:00",
+  "LastUpdate_Achievements": "2023-12-31T15:07:48.57975+00:00"
 }

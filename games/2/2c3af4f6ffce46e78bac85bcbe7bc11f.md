@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Something to make you dream... | 16.00% | ~20 |
+| Something firmly rooted... | 16.00% | ~20 |
 | Something ever-changing... | 15.00% | ~19 |
 | Something fully in bloom... | 15.00% | ~19 |
 | Something foundational... | 15.00% | ~19 |
+| Something monumental... | 15.00% | ~19 |
 | Something to long for... | 15.00% | ~19 |
-| Something firmly rooted... | 15.00% | ~19 |
 | Something free... | 14.00% | ~18 |
-| Something monumental... | 14.00% | ~18 |
 | Something gentle... | 13.00% | ~16 |
 | Somewhere to belong... | 13.00% | ~16 |
 | Something natural... | 13.00% | ~16 |

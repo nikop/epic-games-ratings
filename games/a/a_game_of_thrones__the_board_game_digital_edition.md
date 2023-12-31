@@ -1,35 +1,35 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.21 (Ranked 940)  
+Rating: 4.21 (Ranked 939)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~12,803 |
-| Battering Crew | 19.00% | ~6,081 |
-| The Kingsroad | 18.00% | ~5,761 |
-| Well Stocked | 13.00% | ~4,161 |
-| Royal Fleet | 13.00% | ~4,161 |
-| The Kraken’s Grasp | 9.00% | ~2,881 |
+| Conqueror | 40.00% | ~12,807 |
+| Battering Crew | 19.00% | ~6,083 |
+| The Kingsroad | 18.00% | ~5,763 |
+| Well Stocked | 13.00% | ~4,162 |
+| Royal Fleet | 13.00% | ~4,162 |
+| The Kraken’s Grasp | 9.00% | ~2,882 |
 | Daggers in the Dark | 8.00% | ~2,561 |
 | Alliance | 8.00% | ~2,561 |
-| Winter is Coming | 7.00% | ~2,240 |
-| Oathkeeper | 7.00% | ~2,240 |
-| Influential | 7.00% | ~2,240 |
-| A Long Journey | 7.00% | ~2,240 |
-| Ours is the Fury | 6.00% | ~1,920 |
-| We Do Not Sow | 6.00% | ~1,920 |
-| Defender of the Wall | 6.00% | ~1,920 |
-| Unbowed, Unbent, Unbroken | 5.00% | ~1,600 |
-| Growing Strong | 5.00% | ~1,600 |
-| Hear me Roar! | 5.00% | ~1,600 |
-| What is Dead may Never Die | 3.00% | ~960 |
-| The Swift | 3.00% | ~960 |
+| Winter is Coming | 7.00% | ~2,241 |
+| Oathkeeper | 7.00% | ~2,241 |
+| Influential | 7.00% | ~2,241 |
+| A Long Journey | 7.00% | ~2,241 |
+| Ours is the Fury | 6.00% | ~1,921 |
+| We Do Not Sow | 6.00% | ~1,921 |
+| Defender of the Wall | 6.00% | ~1,921 |
+| Unbowed, Unbent, Unbroken | 5.00% | ~1,601 |
+| Growing Strong | 5.00% | ~1,601 |
+| Hear me Roar! | 5.00% | ~1,601 |
+| What is Dead may Never Die | 3.00% | ~961 |
+| The Swift | 3.00% | ~961 |
 | King in the North | 2.00% | ~640 |
 | War of the Five Kings | 1.00% | ~320 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,007 (Ranked 135)  
+Progressed: 32,017 (Ranked 135)  
 Completed: 86 (0.27%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 86 (0.27%) (Ranked 258)
 | 2023-12-28 | 31,717 | 85 |
 | 2023-12-29 | 31,842 | 85 |
 | 2023-12-30 | 31,953 | 86 |
-| 2023-12-31 | 32,007 | 86 |
+| 2023-12-31 | 32,017 | 86 |
 ## Awards
 Max (Quickly Understood Controls): 127  (Ranked 344)  
 Sum: 807 (Ranked 289)  

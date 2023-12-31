@@ -2,10 +2,10 @@
   "ID": "b022b60ee02545788d645fe353f5ddd6",
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
-  "Ranking_EOS_Progress": 328,
-  "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Progress": 327,
+  "Ranking_EOS_Completed": 165,
+  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 619,
+  "EOS_Progressed": 620,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -2719,6 +2719,11 @@
       "Time": "2023-12-31T03:06:32.5427231+00:00",
       "NumProgressed": 619,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-31T15:06:21.7970306+00:00",
+      "NumProgressed": 620,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2738,7 +2743,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2786,7 +2791,7 @@
       "Name": "Our efforts are finally yielding progress",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -2810,7 +2815,7 @@
       "Name": "Unveiling the Magnitude of Sin",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -2841,14 +2846,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 619,
+      "Progressed": 620,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-12-31T14:04:54.4899016+00:00",
+  "LastChanged_Achievements": "2023-12-31T15:06:21.7970302+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:37.2024016+00:00",
-  "LastUpdate_Ratings": "2023-12-31T13:59:01.5389336+00:00",
-  "LastUpdate_Achievements": "2023-12-31T14:04:54.4899174+00:00"
+  "LastUpdate_Ratings": "2023-12-31T15:00:00.1640226+00:00",
+  "LastUpdate_Achievements": "2023-12-31T15:06:21.7970807+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 372,
+  "Ranking_EOS_NewPlayers": 368,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 502,
+  "EOS_Progressed": 503,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -1412,6 +1412,11 @@
       "Time": "2023-12-31T00:03:27.4935951+00:00",
       "NumProgressed": 502,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-31T15:04:43.8615108+00:00",
+      "NumProgressed": 503,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1496,7 +1501,7 @@
       "Name": "Big Encounter",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -1520,7 +1525,7 @@
       "Name": "Celestial Rain",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -1552,7 +1557,7 @@
       "Name": "Ticket to Tranquility",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "GET_FISH_ALL",
@@ -1568,7 +1573,7 @@
       "Name": "Koco Leader",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "MAIN_CLEAR_ISLAND1",
@@ -1576,7 +1581,7 @@
       "Name": "The Beginning",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -1616,7 +1621,7 @@
       "Name": "The Journey Begins",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1743,14 +1748,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 502,
+      "Progressed": 503,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-12-31T14:03:42.6539706+00:00",
+  "LastChanged_Achievements": "2023-12-31T15:04:43.8615106+00:00",
   "LastUpdate_AppInfo": "2023-12-26T20:57:07.4525805+00:00",
-  "LastUpdate_Ratings": "2023-12-31T14:02:54.8621685+00:00",
-  "LastUpdate_Achievements": "2023-12-31T14:03:42.6539948+00:00"
+  "LastUpdate_Ratings": "2023-12-31T15:03:33.919356+00:00",
+  "LastUpdate_Achievements": "2023-12-31T15:04:43.8615361+00:00"
 }
