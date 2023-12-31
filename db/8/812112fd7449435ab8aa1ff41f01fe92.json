@@ -4,7 +4,7 @@
   "ProductSlug": "jump-challenge-228ff0",
   "Ranking_EOS_Progress": 576,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-23T18:00:00+00:00",
@@ -345,8 +345,8 @@
   ],
   "FirstSeen": "2023-11-29T17:58:28.6807523+00:00",
   "FirstSeenAchievements": "2023-11-13T15:03:01.800397+00:00",
-  "LastChanged_Achievements": "2023-12-31T06:04:35.1034829+00:00",
+  "LastChanged_Achievements": "2023-12-31T07:04:33.5282133+00:00",
   "LastUpdate_AppInfo": "2023-12-25T18:57:03.1042601+00:00",
-  "LastUpdate_Ratings": "2023-12-31T06:00:52.3552404+00:00",
-  "LastUpdate_Achievements": "2023-12-31T06:04:35.1034957+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:01:05.0972427+00:00",
+  "LastUpdate_Achievements": "2023-12-31T07:04:33.5282245+00:00"
 }

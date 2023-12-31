@@ -6,11 +6,11 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~88,443 |
-| Alt+F4 | 10.00% | ~24,567 |
+| Sowwy! | 36.00% | ~88,445 |
+| Alt+F4 | 10.00% | ~24,568 |
 | Where's that freaking Dwarf? | 9.00% | ~22,111 |
-| Déjà vu | 7.00% | ~17,197 |
-| Sock! SOCK! | 6.00% | ~14,740 |
+| Déjà vu | 7.00% | ~17,198 |
+| Sock! SOCK! | 6.00% | ~14,741 |
 | A beer, two curses, three companions | 5.00% | ~12,284 |
 | GG EZ | 5.00% | ~12,284 |
 | DM intervention | 5.00% | ~12,284 |
@@ -25,20 +25,20 @@ Number of Ratings: 118  (23.09.2022)
 | The Woman in the High Castle | 3.00% | ~7,370 |
 | Team Building Exercise | 3.00% | ~7,370 |
 | Oh, when I'll be level 10... | 3.00% | ~7,370 |
-| Shiny and Crôm | 2.00% | ~4,913 |
-| Urik's Depths | 2.00% | ~4,913 |
-| The Dungeon Master | 2.00% | ~4,913 |
-| The Statuette of Gladeulfeurah | 2.00% | ~4,913 |
-| Res Judicata | 2.00% | ~4,913 |
-| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,913 |
-| A tale of adventurers not quite like the others... | 2.00% | ~4,913 |
-| Dwarf Fortress | 2.00% | ~4,913 |
-| Look but don't touch | 2.00% | ~4,913 |
-| The beards of change | 2.00% | ~4,913 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 2.00% | ~4,913 |
-| The Ranger of Chaos | 2.00% | ~4,913 |
-| I am the night | 2.00% | ~4,913 |
-| Thieves' Guild Accreditation | 2.00% | ~4,913 |
+| Shiny and Crôm | 2.00% | ~4,914 |
+| Urik's Depths | 2.00% | ~4,914 |
+| The Dungeon Master | 2.00% | ~4,914 |
+| The Statuette of Gladeulfeurah | 2.00% | ~4,914 |
+| Res Judicata | 2.00% | ~4,914 |
+| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,914 |
+| A tale of adventurers not quite like the others... | 2.00% | ~4,914 |
+| Dwarf Fortress | 2.00% | ~4,914 |
+| Look but don't touch | 2.00% | ~4,914 |
+| The beards of change | 2.00% | ~4,914 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 2.00% | ~4,914 |
+| The Ranger of Chaos | 2.00% | ~4,914 |
+| I am the night | 2.00% | ~4,914 |
+| Thieves' Guild Accreditation | 2.00% | ~4,914 |
 | %#*!$*! | 1.00% | ~2,457 |
 | Dead for good | 1.00% | ~2,457 |
 | Gargantua | 1.00% | ~2,457 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~246 |
 | Dwarf Candy | 0.10% | ~246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,674 (Ranked 70)  
+Progressed: 245,680 (Ranked 70)  
 Completed: 8 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 8 (0.00%) (Ranked 391)
 | 2023-12-28 | 245,240 | 8 |
 | 2023-12-29 | 245,438 | 8 |
 | 2023-12-30 | 245,630 | 8 |
-| 2023-12-31 | 245,674 | 8 |
+| 2023-12-31 | 245,680 | 8 |
 ## Awards
 Max (Character Customization): 262  (Ranked 277)  
 Sum: 548 (Ranked 329)  

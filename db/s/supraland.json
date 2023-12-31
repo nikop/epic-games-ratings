@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2021-07-02T15:00:00+00:00",
     "PcReleaseDate": "2018-03-09T19:16:06+00:00",
@@ -3349,9 +3349,9 @@
       "Count": 197
     }
   ],
-  "EOS_Progressed": 738249,
+  "EOS_Progressed": 738250,
   "EOS_Completed": 775,
-  "EOS_NewPlayers": 1033,
+  "EOS_NewPlayers": 1025,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -32114,6 +32114,11 @@
       "Time": "2023-12-31T06:11:20.1575259+00:00",
       "NumProgressed": 738249,
       "NumCompleted": 775
+    },
+    {
+      "Time": "2023-12-31T07:10:53.8656583+00:00",
+      "NumProgressed": 738250,
+      "NumCompleted": 775
     }
   ],
   "TotalAchievements": 98,
@@ -32149,7 +32154,7 @@
       "Name": "All Shells",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 110737
+      "UsersEstimate": 110738
     },
     {
       "ID": "Armor",
@@ -32205,7 +32210,7 @@
       "Name": "Blue King\u0027s lair",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 81207
+      "UsersEstimate": 81208
     },
     {
       "ID": "Buckle",
@@ -32253,7 +32258,7 @@
       "Name": "Payback",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 81207
+      "UsersEstimate": 81208
     },
     {
       "ID": "CoinsBack",
@@ -32261,7 +32266,7 @@
       "Name": "Got the coins back",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 81207
+      "UsersEstimate": 81208
     },
     {
       "ID": "Crash2",
@@ -32301,7 +32306,7 @@
       "Name": "DLC: Crashed",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4429
+      "UsersEstimate": 4430
     },
     {
       "ID": "CrossedWall",
@@ -32333,7 +32338,7 @@
       "Name": "Double Health",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 140267
+      "UsersEstimate": 140268
     },
     {
       "ID": "Doublejump",
@@ -32357,7 +32362,7 @@
       "Name": "Through the fire pipe",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 287917
+      "UsersEstimate": 287918
     },
     {
       "ID": "FliesBeam",
@@ -32429,7 +32434,7 @@
       "Name": "DLC: Gotta Jump High",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4429
+      "UsersEstimate": 4430
     },
     {
       "ID": "GottaRunFast",
@@ -32437,7 +32442,7 @@
       "Name": "DLC: Gotta Run Fast",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4429
+      "UsersEstimate": 4430
     },
     {
       "ID": "GreenKeycard",
@@ -32461,7 +32466,7 @@
       "Name": "Got the gun back",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 81207
+      "UsersEstimate": 81208
     },
     {
       "ID": "Happiness",
@@ -32469,7 +32474,7 @@
       "Name": "Happiness",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 22147
+      "UsersEstimate": 22148
     },
     {
       "ID": "HealthDrink",
@@ -32485,7 +32490,7 @@
       "Name": "Healthbar",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 406037
+      "UsersEstimate": 406038
     },
     {
       "ID": "Healthregen",
@@ -32493,7 +32498,7 @@
       "Name": "Regeneration",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 346977
+      "UsersEstimate": 346978
     },
     {
       "ID": "HelpedAStar",
@@ -32517,7 +32522,7 @@
       "Name": "Holy Sword",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 169797
+      "UsersEstimate": 169798
     },
     {
       "ID": "Horticultural",
@@ -32541,7 +32546,7 @@
       "Name": "Infiltrated",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 81207
+      "UsersEstimate": 81208
     },
     {
       "ID": "InvisibleWall",
@@ -32637,7 +32642,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 730867
+      "UsersEstimate": 730868
     },
     {
       "ID": "PanicLights",
@@ -32709,7 +32714,7 @@
       "Name": "That\u0027s how electronics work obviously",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 199327
+      "UsersEstimate": 199328
     },
     {
       "ID": "RedstonePickaxe",
@@ -32725,7 +32730,7 @@
       "Name": "Robbed",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 81207
+      "UsersEstimate": 81208
     },
     {
       "ID": "Shady",
@@ -32757,7 +32762,7 @@
       "Name": "Fast",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 487244
+      "UsersEstimate": 487245
     },
     {
       "ID": "Strong",
@@ -32789,7 +32794,7 @@
       "Name": "Telefrag",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 169797
+      "UsersEstimate": 169798
     },
     {
       "ID": "The_Blues",
@@ -32837,7 +32842,7 @@
       "Name": "Triple Jump",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 317447
+      "UsersEstimate": 317448
     },
     {
       "ID": "True_Holy_Spirit",
@@ -32908,15 +32913,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 738249,
+      "Progressed": 738250,
       "Completed": 775
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2023-12-31T03:58:46.6919488+00:00",
-  "LastChanged_Achievements": "2023-12-31T06:11:20.1575255+00:00",
+  "LastChanged_Achievements": "2023-12-31T07:10:53.865658+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:21.7826738+00:00",
-  "LastUpdate_Ratings": "2023-12-31T05:58:49.3564917+00:00",
-  "LastUpdate_Achievements": "2023-12-31T06:11:20.1577539+00:00"
+  "LastUpdate_Ratings": "2023-12-31T06:59:02.9848546+00:00",
+  "LastUpdate_Achievements": "2023-12-31T07:10:53.8658837+00:00"
 }

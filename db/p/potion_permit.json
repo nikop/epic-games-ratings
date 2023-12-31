@@ -3265,9 +3265,9 @@
       "ID": "ACHIEVEMENTS_09",
       "SetID": "d4o538a",
       "Name": "Rookie Chemist",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1122
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -3514,8 +3514,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-28T09:03:17.5303608+00:00",
-  "LastChanged_Achievements": "2023-12-31T06:05:38.1895267+00:00",
+  "LastChanged_Achievements": "2023-12-31T07:05:35.8115059+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:18.8535407+00:00",
-  "LastUpdate_Ratings": "2023-12-31T05:57:21.9828448+00:00",
-  "LastUpdate_Achievements": "2023-12-31T06:05:38.1895683+00:00"
+  "LastUpdate_Ratings": "2023-12-31T06:57:38.7932991+00:00",
+  "LastUpdate_Achievements": "2023-12-31T07:05:35.8115446+00:00"
 }

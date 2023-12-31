@@ -3689,7 +3689,7 @@
       "Count": 337
     }
   ],
-  "EOS_Progressed": 19762,
+  "EOS_Progressed": 19765,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 689,
   "EOS_NewCompleters": -4,
@@ -17824,6 +17824,11 @@
       "Time": "2023-12-31T06:04:23.0815546+00:00",
       "NumProgressed": 19762,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-31T07:04:21.8937175+00:00",
+      "NumProgressed": 19765,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18236,7 +18241,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1384
     },
     {
       "ID": "WinNearFrosts",
@@ -18244,7 +18249,7 @@
       "Name": "Frosts",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "WinNearGreed",
@@ -18252,7 +18257,7 @@
       "Name": "Land of Greed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "WinNearLibrary",
@@ -18260,7 +18265,7 @@
       "Name": "Overgrown Library",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1384
     },
     {
       "ID": "WinNearPetrified",
@@ -18307,15 +18312,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19762,
+      "Progressed": 19765,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-30T22:02:49.2349557+00:00",
-  "LastChanged_Achievements": "2023-12-31T06:04:23.0815541+00:00",
+  "LastChanged_Achievements": "2023-12-31T07:04:21.8937171+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2023-12-31T05:57:01.3606995+00:00",
-  "LastUpdate_Achievements": "2023-12-31T06:04:23.0817011+00:00"
+  "LastUpdate_Ratings": "2023-12-31T06:57:17.0974211+00:00",
+  "LastUpdate_Achievements": "2023-12-31T07:04:21.8938041+00:00"
 }

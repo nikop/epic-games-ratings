@@ -2,9 +2,9 @@
   "ID": "2015d187216e4b33b88edee66282e4a1",
   "Name": "The Legend of Tianding",
   "ProductSlug": "the-legend-of-tianding",
-  "Ranking_EOS_Progress": 534,
-  "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 425,
+  "Ranking_EOS_Progress": 532,
+  "Ranking_EOS_Completed": 60,
+  "Ranking_EOS_NewPlayers": 413,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56,
+  "EOS_Progressed": 57,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.14,
+  "EOS_Completed_Percentage": 7.02,
   "EosHistory": [
     {
       "Time": "2023-09-28T09:07:03.7102413+00:00",
@@ -330,6 +330,11 @@
       "Time": "2023-12-30T19:07:42.5728887+00:00",
       "NumProgressed": 56,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-31T07:06:04.7456635+00:00",
+      "NumProgressed": 57,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T03:06:31.4397832+00:00",
@@ -356,7 +361,7 @@
       "ID": "BeatBossNaka",
       "SetID": "123m9l1",
       "Name": "Killing Machine",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 100,
       "UsersEstimate": 28
     },
@@ -364,7 +369,7 @@
       "ID": "BeatBossShimada",
       "SetID": "123m9l1",
       "Name": "Final Showdown",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 100,
       "UsersEstimate": 20
     },
@@ -372,15 +377,15 @@
       "ID": "BeatBossTing",
       "SetID": "123m9l1",
       "Name": "Divine Retribution",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "BeatBossWang",
       "SetID": "123m9l1",
       "Name": "Eat the Rich",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 100,
       "UsersEstimate": 34
     },
@@ -396,9 +401,9 @@
       "ID": "ClarifyRumors",
       "SetID": "123m9l1",
       "Name": "Dispel Rumors",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Collector",
@@ -428,7 +433,7 @@
       "ID": "FinishTheGame",
       "SetID": "123m9l1",
       "Name": "The End of an Outlaw",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 20,
       "UsersEstimate": 20
     },
@@ -438,7 +443,7 @@
       "Name": "Hero Arrives",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "HardcorePlayer",
@@ -468,7 +473,7 @@
       "ID": "MilitaryFactoryExplorer",
       "SetID": "123m9l1",
       "Name": "Urban Explorer",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
       "UsersEstimate": 16
     },
@@ -484,17 +489,17 @@
       "ID": "RescueAKuai",
       "SetID": "123m9l1",
       "Name": "Steal Her Away",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "SaveMatsumoto",
       "SetID": "123m9l1",
       "Name": "Captain Mustache",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "SewerExplorer",
@@ -508,7 +513,7 @@
       "ID": "Survivor",
       "SetID": "123m9l1",
       "Name": "Not Today",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
       "UsersEstimate": 15
     },
@@ -524,9 +529,9 @@
       "ID": "ThreatenLiHong",
       "SetID": "123m9l1",
       "Name": "Coward",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "TombExplorer",
@@ -540,16 +545,16 @@
       "ID": "TrickLiHong",
       "SetID": "123m9l1",
       "Name": "Fight Fire With Fire",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
     {
       "ID": "123m9l1",
       "IsBase": true,
-      "Progressed": 56,
+      "Progressed": 57,
       "Completed": 4
     }
   ],
@@ -557,8 +562,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-12-31T06:06:07.4980834+00:00",
+  "LastChanged_Achievements": "2023-12-31T07:06:04.7456631+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:12.5249807+00:00",
-  "LastUpdate_Ratings": "2023-12-31T06:01:36.8766324+00:00",
-  "LastUpdate_Achievements": "2023-12-31T06:06:07.4980975+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:01:48.3529382+00:00",
+  "LastUpdate_Achievements": "2023-12-31T07:06:04.7456801+00:00"
 }

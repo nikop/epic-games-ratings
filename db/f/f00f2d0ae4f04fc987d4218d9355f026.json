@@ -4,7 +4,7 @@
   "ProductSlug": "bio-inc-redemption-280fe5",
   "Ranking_EOS_Progress": 555,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 416,
+  "Ranking_EOS_NewPlayers": 413,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-12T05:00:00+00:00",
@@ -278,9 +278,9 @@
       "ID": "BusyLabs",
       "SetID": "aaidab7",
       "Name": "Busy Labs",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CirculatoryCollapse",
@@ -318,9 +318,9 @@
       "ID": "DiagnosticPro",
       "SetID": "aaidab7",
       "Name": "Diagnostic Professional",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "DigestiveCollapse",
@@ -486,9 +486,9 @@
       "ID": "Stabilized",
       "SetID": "aaidab7",
       "Name": "Stabilized",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Thrifty",
@@ -517,8 +517,8 @@
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2023-12-31T06:09:09.1525409+00:00",
+  "LastChanged_Achievements": "2023-12-31T07:08:43.5737195+00:00",
   "LastUpdate_AppInfo": "2023-12-26T05:57:27.400312+00:00",
-  "LastUpdate_Ratings": "2023-12-31T05:59:04.0478309+00:00",
-  "LastUpdate_Achievements": "2023-12-31T06:09:09.1525766+00:00"
+  "LastUpdate_Ratings": "2023-12-31T06:59:17.2357618+00:00",
+  "LastUpdate_Achievements": "2023-12-31T07:08:43.5737486+00:00"
 }

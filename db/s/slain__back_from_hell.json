@@ -250,9 +250,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 43164,
+  "EOS_Progressed": 43169,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 518,
+  "EOS_NewPlayers": 517,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -27905,6 +27905,11 @@
       "Time": "2023-12-31T05:05:51.7293731+00:00",
       "NumProgressed": 43164,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-31T07:07:41.5260881+00:00",
+      "NumProgressed": 43169,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -27916,7 +27921,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 6906
+      "UsersEstimate": 6907
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -27924,7 +27929,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9064
+      "UsersEstimate": 9065
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -27948,7 +27953,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -27964,7 +27969,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -28108,7 +28113,7 @@
       "Name": "Vroll With It",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_27_VROLL_QUICK_KILL",
@@ -28116,7 +28121,7 @@
       "Name": "Swift of Foot, Keen of Blade",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_28_FINISHED_GAME_NO_MANA_USE",
@@ -28147,7 +28152,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 43164,
+      "Progressed": 43169,
       "Completed": 30
     }
   ],
@@ -28155,8 +28160,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-18T19:58:40.3413682+00:00",
-  "LastChanged_Achievements": "2023-12-31T06:07:45.4399692+00:00",
+  "LastChanged_Achievements": "2023-12-31T07:07:41.5260877+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:52.0120838+00:00",
-  "LastUpdate_Ratings": "2023-12-31T05:58:45.961478+00:00",
-  "LastUpdate_Achievements": "2023-12-31T06:07:45.4401064+00:00"
+  "LastUpdate_Ratings": "2023-12-31T06:58:59.5923079+00:00",
+  "LastUpdate_Achievements": "2023-12-31T07:07:41.5262419+00:00"
 }

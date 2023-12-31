@@ -1,7 +1,7 @@
 # Chants of Sennaar
 [Store](https://store.epicgames.com/en-US/p/chants-of-sennaar)  
 [View Rawdata](../../db/c/chants_of_sennaar.json)  
-Rating: 4.90 (Ranked 7)  
+Rating: 4.88 (Ranked 17)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -208,3 +208,4 @@ Completed: 127 (6.10%) (Ranked 69)
 | 2023-12-28 | 4.88 | 0 | 0 |
 | 2023-12-29 | 4.89 | 0 | 0 |
 | 2023-12-30 | 4.90 | 0 | 0 |
+| 2023-12-31 | 4.88 | 0 | 0 |

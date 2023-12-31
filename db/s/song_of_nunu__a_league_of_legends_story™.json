@@ -2,7 +2,7 @@
   "ID": "c7ab6cc723fe4bc6b24237d61b58687b",
   "Name": "Song of Nunu: A League of Legends Story",
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
-  "Ranking_Rating": 570,
+  "Ranking_Rating": 571,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 265,
@@ -3737,9 +3737,9 @@
       "ID": "EV_ACH17",
       "SetID": "6jeac23",
       "Name": "Iceborn",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 757
+      "UsersEstimate": 771
     },
     {
       "ID": "EV_ACH18",
@@ -3970,8 +3970,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-25T19:59:38.6529887+00:00",
-  "LastChanged_Achievements": "2023-12-31T06:11:19.2101073+00:00",
+  "LastChanged_Achievements": "2023-12-31T07:10:52.8943572+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.1823177+00:00",
-  "LastUpdate_Ratings": "2023-12-31T05:59:39.6806704+00:00",
-  "LastUpdate_Achievements": "2023-12-31T06:11:19.2101832+00:00"
+  "LastUpdate_Ratings": "2023-12-31T06:59:53.7184956+00:00",
+  "LastUpdate_Achievements": "2023-12-31T07:10:52.8944266+00:00"
 }

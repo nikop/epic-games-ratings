@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1865,
+  "EOS_Progressed": 1866,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 3.75,
   "EosHistory": [
@@ -4154,6 +4154,11 @@
       "Time": "2023-12-31T06:10:59.1276742+00:00",
       "NumProgressed": 1865,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-12-31T07:10:33.1757469+00:00",
+      "NumProgressed": 1866,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 16,
@@ -4221,15 +4226,15 @@
       "Name": "Home Leaver",
       "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
       "SetID": "7pam6gn",
       "Name": "Journal Beautifier",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1474
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -4269,7 +4274,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "ACH_THEEND",
@@ -4285,14 +4290,14 @@
       "Name": "Tour de Tieng",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1865,
+      "Progressed": 1866,
       "Completed": 70
     }
   ],
@@ -4300,8 +4305,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-31T06:10:59.1276739+00:00",
+  "LastChanged_Achievements": "2023-12-31T07:10:33.1757465+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.182252+00:00",
-  "LastUpdate_Ratings": "2023-12-31T05:59:57.2224465+00:00",
-  "LastUpdate_Achievements": "2023-12-31T06:10:59.1277477+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:00:10.4615757+00:00",
+  "LastUpdate_Achievements": "2023-12-31T07:10:33.1758057+00:00"
 }

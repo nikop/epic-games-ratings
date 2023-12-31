@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 46.00% | ~32 |
-| You have three wishes left | 41.00% | ~29 |
+| Master trainee | 46.00% | ~33 |
+| You have three wishes left | 42.00% | ~30 |
 | The battle of Great Britain | 31.00% | ~22 |
 | Jung's dream | 30.00% | ~21 |
-| Pulp! Where Monsters Dwell | 26.00% | ~18 |
+| Pulp! Where Monsters Dwell | 25.00% | ~18 |
 | A continent with chemistry | 21.00% | ~15 |
 | The happy farmer girl | 20.00% | ~14 |
 | Giant | 17.00% | ~12 |
 | Pulp! Terror Tales in the Night | 17.00% | ~12 |
 | Pulp! Out of this World | 17.00% | ~12 |
-| A rival with no options | 16.00% | ~11 |
-| Diagnosis: fear | 16.00% | ~11 |
-| Ambition is... blind | 16.00% | ~11 |
-| You have two wishes left | 16.00% | ~11 |
+| A rival with no options | 15.00% | ~11 |
+| Diagnosis: fear | 15.00% | ~11 |
+| Ambition is... blind | 15.00% | ~11 |
+| You have two wishes left | 15.00% | ~11 |
 | The artist | 14.00% | ~10 |
 | Pulp! Adventures into the Unknown | 14.00% | ~10 |
 | You had one wish left | 13.00% | ~9 |
@@ -32,10 +32,10 @@
 | Fanatacism is... poisonous | 10.00% | ~7 |
 | The bully | 10.00% | ~7 |
 | Pulp! The Beyond | 10.00% | ~7 |
-| Blessed antennas | 9.00% | ~6 |
-| The beast in the Oval Office | 9.00% | ~6 |
-| The adventurer | 9.00% | ~6 |
-| ECO mode | 9.00% | ~6 |
+| Blessed antennas | 8.00% | ~6 |
+| The beast in the Oval Office | 8.00% | ~6 |
+| The adventurer | 8.00% | ~6 |
+| ECO mode | 8.00% | ~6 |
 | The scholar | 7.00% | ~5 |
 | Pulp! True Adventures | 7.00% | ~5 |
 | America had no Faith | 7.00% | ~5 |
@@ -52,7 +52,7 @@
 | Pulp! Skeleton Hand | 1.00% | ~1 |
 | Pulp! The Vault of Horror | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70 (Ranked 515)  
+Progressed: 71 (Ranked 515)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,4 +93,4 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-23 | 67 | 0 |
 | 2023-12-28 | 68 | 0 |
 | 2023-12-30 | 69 | 0 |
-| 2023-12-31 | 70 | 0 |
+| 2023-12-31 | 71 | 0 |

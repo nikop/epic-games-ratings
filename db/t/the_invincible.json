@@ -5,7 +5,7 @@
   "Ranking_Rating": 464,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
-  "Ranking_EOS_Progress": 275,
+  "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 153,
@@ -3233,9 +3233,9 @@
       "ID": "AchvInvShip",
       "SetID": "1hj060c",
       "Name": "Another giant",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 157
     },
     {
       "ID": "AchvKrautaAlive",
@@ -3386,8 +3386,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2023-12-30T17:00:36.8691778+00:00",
-  "LastChanged_Achievements": "2023-12-31T06:10:33.2327245+00:00",
+  "LastChanged_Achievements": "2023-12-31T07:10:07.2696518+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:20.4992862+00:00",
-  "LastUpdate_Ratings": "2023-12-31T06:02:52.7810113+00:00",
-  "LastUpdate_Achievements": "2023-12-31T06:10:33.2327531+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:02:13.2625512+00:00",
+  "LastUpdate_Achievements": "2023-12-31T07:10:07.2696904+00:00"
 }

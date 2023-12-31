@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44682,
+  "EOS_Progressed": 44683,
   "EOS_Completed": 247,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -20007,6 +20007,11 @@
       "Time": "2023-12-31T06:04:37.9577077+00:00",
       "NumProgressed": 44682,
       "NumCompleted": 247
+    },
+    {
+      "Time": "2023-12-31T07:04:36.4318156+00:00",
+      "NumProgressed": 44683,
+      "NumCompleted": 247
     }
   ],
   "TotalAchievements": 44,
@@ -20026,7 +20031,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13851
+      "UsersEstimate": 13852
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -20050,7 +20055,7 @@
       "Name": "Family",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6255
+      "UsersEstimate": 6256
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -20090,7 +20095,7 @@
       "Name": "War Engines",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 6255
+      "UsersEstimate": 6256
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -20210,7 +20215,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16532
+      "UsersEstimate": 16533
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -20226,7 +20231,7 @@
       "Name": "Wall Lizard",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 8936
+      "UsersEstimate": 8937
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -20242,7 +20247,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 24575
+      "UsersEstimate": 24576
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -20250,7 +20255,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 14298
+      "UsersEstimate": 14299
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -20282,7 +20287,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26809
+      "UsersEstimate": 26810
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -20290,7 +20295,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29937
+      "UsersEstimate": 29938
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -20306,7 +20311,7 @@
       "Name": "Signature Move",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6255
+      "UsersEstimate": 6256
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -20354,7 +20359,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41554
+      "UsersEstimate": 41555
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -20369,7 +20374,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44682,
+      "Progressed": 44683,
       "Completed": 247
     }
   ],
@@ -20377,8 +20382,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2023-12-31T06:04:37.9577073+00:00",
+  "LastChanged_Achievements": "2023-12-31T07:04:36.4318152+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.3527303+00:00",
-  "LastUpdate_Ratings": "2023-12-31T06:03:39.7756019+00:00",
-  "LastUpdate_Achievements": "2023-12-31T06:04:37.9578282+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:03:38.7488338+00:00",
+  "LastUpdate_Achievements": "2023-12-31T07:04:36.4319787+00:00"
 }

@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2420,
+  "EOS_Progressed": 2421,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -4084,6 +4084,11 @@
       "Time": "2023-12-31T06:04:26.837463+00:00",
       "NumProgressed": 2420,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-31T07:04:25.5046471+00:00",
+      "NumProgressed": 2421,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4103,7 +4108,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1573
+      "UsersEstimate": 1574
     },
     {
       "ID": "ACHV_03",
@@ -4167,7 +4172,7 @@
       "Name": "Corrupted Beauty",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACHV_11",
@@ -4247,7 +4252,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACHV_21",
@@ -4271,7 +4276,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "ACHV_24",
@@ -4287,7 +4292,7 @@
       "Name": "Full Arsenal",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACHV_26",
@@ -4295,7 +4300,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1912
+      "UsersEstimate": 1913
     },
     {
       "ID": "ACHV_27",
@@ -4383,7 +4388,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "ACHV_38",
@@ -4399,7 +4404,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "ACHV_40",
@@ -4423,7 +4428,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACHV_43",
@@ -4447,7 +4452,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "ACHV_46",
@@ -4550,7 +4555,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2420,
+      "Progressed": 2421,
       "Completed": 13
     }
   ],
@@ -4558,8 +4563,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-29T03:00:05.8444174+00:00",
-  "LastChanged_Achievements": "2023-12-31T06:04:26.8374626+00:00",
+  "LastChanged_Achievements": "2023-12-31T07:04:25.5046468+00:00",
   "LastUpdate_AppInfo": "2023-12-30T17:56:59.176771+00:00",
-  "LastUpdate_Ratings": "2023-12-31T05:57:52.0276122+00:00",
-  "LastUpdate_Achievements": "2023-12-31T06:04:26.8375229+00:00"
+  "LastUpdate_Ratings": "2023-12-31T06:58:07.900412+00:00",
+  "LastUpdate_Achievements": "2023-12-31T07:04:25.5046977+00:00"
 }

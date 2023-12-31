@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
     "PcReleaseDate": "2021-10-14T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6535,
+  "EOS_Progressed": 6536,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 553,
+  "EOS_NewPlayers": 554,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -6724,6 +6724,11 @@
       "Time": "2023-12-31T06:07:29.2080468+00:00",
       "NumProgressed": 6535,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-12-31T07:07:25.3503818+00:00",
+      "NumProgressed": 6536,
+      "NumCompleted": 61
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -6752,7 +6757,7 @@
       "Name": "Collect the mask",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 2091
+      "UsersEstimate": 2092
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_OPENGATE",
@@ -6760,7 +6765,7 @@
       "Name": "Unlock the gate",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 2091
+      "UsersEstimate": 2092
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_PC",
@@ -6784,7 +6789,7 @@
       "Name": "Turn on the TV",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 3725
+      "UsersEstimate": 3726
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -6863,14 +6868,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 6535,
+      "Progressed": 6536,
       "Completed": 61
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-12-31T06:07:29.2080462+00:00",
+  "LastChanged_Achievements": "2023-12-31T07:07:25.3503813+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:11.3556672+00:00",
-  "LastUpdate_Ratings": "2023-12-31T05:57:21.2795341+00:00",
-  "LastUpdate_Achievements": "2023-12-31T06:07:29.208088+00:00"
+  "LastUpdate_Ratings": "2023-12-31T06:57:38.008722+00:00",
+  "LastUpdate_Achievements": "2023-12-31T07:07:25.3504248+00:00"
 }

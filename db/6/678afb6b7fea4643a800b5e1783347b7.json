@@ -4,7 +4,7 @@
   "ProductSlug": "saloon-simulator-90cc2c",
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-26T21:56:52.5624509+00:00",
-  "LastUpdate_Ratings": "2023-12-31T06:01:03.7608347+00:00",
-  "LastUpdate_Achievements": "2023-12-31T06:05:55.6617002+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:01:16.1581492+00:00",
+  "LastUpdate_Achievements": "2023-12-31T07:05:52.9831043+00:00"
 }

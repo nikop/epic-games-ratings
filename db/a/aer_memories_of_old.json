@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27521,
+  "EOS_Progressed": 27523,
   "EOS_Completed": 506,
-  "EOS_NewPlayers": 605,
+  "EOS_NewPlayers": 604,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -27844,6 +27844,11 @@
       "Time": "2023-12-31T06:07:45.7019721+00:00",
       "NumProgressed": 27521,
       "NumCompleted": 506
+    },
+    {
+      "Time": "2023-12-31T07:07:41.7800542+00:00",
+      "NumProgressed": 27523,
+      "NumCompleted": 506
     }
   ],
   "TotalAchievements": 20,
@@ -27887,7 +27892,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 3027
+      "UsersEstimate": 3028
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -27903,7 +27908,7 @@
       "Name": "An uninvited guest",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1926
+      "UsersEstimate": 1927
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -27975,7 +27980,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 20916
+      "UsersEstimate": 20917
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -28014,15 +28019,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 27521,
+      "Progressed": 27523,
       "Completed": 506
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-31T06:07:45.7019717+00:00",
+  "LastChanged_Achievements": "2023-12-31T07:07:41.7800539+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.3353951+00:00",
-  "LastUpdate_Ratings": "2023-12-31T06:00:04.0230221+00:00",
-  "LastUpdate_Achievements": "2023-12-31T06:07:45.7021267+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:00:17.0319452+00:00",
+  "LastUpdate_Achievements": "2023-12-31T07:07:41.7801691+00:00"
 }

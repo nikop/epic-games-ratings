@@ -2065,9 +2065,9 @@
       "ID": "airpods",
       "SetID": "69co12a",
       "Name": "Now you are worthy",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 211
     },
     {
       "ID": "all_promotion_4",
@@ -2113,9 +2113,9 @@
       "ID": "any_stat_30",
       "SetID": "69co12a",
       "Name": "GYM professional",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 181
     },
     {
       "ID": "any_stat_5",
@@ -2169,9 +2169,9 @@
       "ID": "fight_win_10",
       "SetID": "69co12a",
       "Name": "Fighting is cool",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 321
     },
     {
       "ID": "fight_win_25",
@@ -2513,9 +2513,9 @@
       "ID": "trainer_promotion_1",
       "SetID": "69co12a",
       "Name": "Escaped from a big trouble",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 236
     },
     {
       "ID": "trainer_promotion_2",
@@ -2584,8 +2584,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-12-31T06:10:44.1055932+00:00",
+  "LastChanged_Achievements": "2023-12-31T07:10:18.4312143+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:36.4340723+00:00",
-  "LastUpdate_Ratings": "2023-12-31T06:00:01.2265532+00:00",
-  "LastUpdate_Achievements": "2023-12-31T06:10:44.1056889+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:00:14.5267396+00:00",
+  "LastUpdate_Achievements": "2023-12-31T07:10:18.4312727+00:00"
 }

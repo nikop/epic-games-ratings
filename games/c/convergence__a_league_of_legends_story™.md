@@ -23,8 +23,8 @@ Rating: 4.65 (Ranked 324)
 | The Wicked Twins | 22.00% | ~257 |
 | Right On Time | 21.00% | ~245 |
 | Like Clockwork | 21.00% | ~245 |
+| Golem Chaser | 21.00% | ~245 |
 | The Betrayer | 20.00% | ~233 |
-| Golem Chaser | 20.00% | ~233 |
 | The Loose Cannon | 19.00% | ~222 |
 | Check Your Pulse | 19.00% | ~222 |
 | The Man Who Shattered Time | 18.00% | ~210 |

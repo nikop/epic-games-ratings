@@ -5,39 +5,39 @@ Rating: 4.54 (Ranked 543)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 8.00% | ~62,245 |
-| Hotel California | 7.00% | ~54,464 |
-| Break A Leg | 6.00% | ~46,683 |
-| Git Gutte! | 5.00% | ~38,903 |
-| Coup de Grâce | 5.00% | ~38,903 |
-| Hazardous Materials | 5.00% | ~38,903 |
-| Personal Assistant Personally Assisted | 5.00% | ~38,903 |
-| Dr. Reed, I Presume? | 4.00% | ~31,122 |
-| Bookworm | 4.00% | ~31,122 |
-| Friends Like These | 4.00% | ~31,122 |
-| Apex Predator | 4.00% | ~31,122 |
-| Stacking the Deck | 4.00% | ~31,122 |
-| This is My Weapon | 4.00% | ~31,122 |
-| Whatever It Takes | 4.00% | ~4,144 |
-| Anger Management | 3.00% | ~23,342 |
-| Perks of the Job | 3.00% | ~23,342 |
-| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~23,342 |
-| But Doctor, I am Butcho | 3.00% | ~23,342 |
-| Slayer Squad | 3.00% | ~23,342 |
-| Can't Handle the Truth | 3.00% | ~23,342 |
-| Like Riding a Bike | 3.00% | ~23,342 |
-| Zombologist | 3.00% | ~23,342 |
-| A Patton Emerges | 3.00% | ~23,342 |
-| Our True Nature | 3.00% | ~23,342 |
-| One of Us | 3.00% | ~3,108 |
-| Pork Chopped | 3.00% | ~3,108 |
-| Making Your Mark | 2.00% | ~15,561 |
-| Jumbo Keyring | 2.00% | ~15,561 |
-| Ooh, Shiny! | 2.00% | ~15,561 |
-| Humanity Distilled | 2.00% | ~15,561 |
-| I Am the Resurrection | 2.00% | ~15,561 |
-| Down with the Sickness | 2.00% | ~15,561 |
-| Max Headroom | 2.00% | ~15,561 |
+| Welcome To Hell-A | 8.00% | ~62,251 |
+| Hotel California | 7.00% | ~54,470 |
+| Break A Leg | 6.00% | ~46,688 |
+| Git Gutte! | 5.00% | ~38,907 |
+| Coup de Grâce | 5.00% | ~38,907 |
+| Hazardous Materials | 5.00% | ~38,907 |
+| Personal Assistant Personally Assisted | 5.00% | ~38,907 |
+| Dr. Reed, I Presume? | 4.00% | ~31,125 |
+| Bookworm | 4.00% | ~31,125 |
+| Friends Like These | 4.00% | ~31,125 |
+| Apex Predator | 4.00% | ~31,125 |
+| Stacking the Deck | 4.00% | ~31,125 |
+| This is My Weapon | 4.00% | ~31,125 |
+| Whatever It Takes | 4.00% | ~4,147 |
+| Anger Management | 3.00% | ~23,344 |
+| Perks of the Job | 3.00% | ~23,344 |
+| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~23,344 |
+| But Doctor, I am Butcho | 3.00% | ~23,344 |
+| Slayer Squad | 3.00% | ~23,344 |
+| Can't Handle the Truth | 3.00% | ~23,344 |
+| Like Riding a Bike | 3.00% | ~23,344 |
+| Zombologist | 3.00% | ~23,344 |
+| A Patton Emerges | 3.00% | ~23,344 |
+| Our True Nature | 3.00% | ~23,344 |
+| One of Us | 3.00% | ~3,110 |
+| Pork Chopped | 3.00% | ~3,110 |
+| Making Your Mark | 2.00% | ~15,563 |
+| Jumbo Keyring | 2.00% | ~15,563 |
+| Ooh, Shiny! | 2.00% | ~15,563 |
+| Humanity Distilled | 2.00% | ~15,563 |
+| I Am the Resurrection | 2.00% | ~15,563 |
+| Down with the Sickness | 2.00% | ~15,563 |
+| Max Headroom | 2.00% | ~15,563 |
 | Smorgasbord | 1.00% | ~7,781 |
 | Not Even My Final Form | 1.00% | ~7,781 |
 | Internet Famous | 1.00% | ~7,781 |
@@ -46,18 +46,18 @@ Rating: 4.54 (Ranked 543)
 | Rising Star | 1.00% | ~7,781 |
 | Make it So | 0.90% | ~7,003 |
 | On Safari | 0.90% | ~7,003 |
-| LA Influential | 0.70% | ~5,446 |
-| Gore Horse | 0.70% | ~5,446 |
-| Sole Survivor | 0.60% | ~4,668 |
-| Sharpest Tool in the Box | 0.60% | ~4,668 |
+| LA Influential | 0.70% | ~5,447 |
+| Gore Horse | 0.70% | ~5,447 |
+| Sole Survivor | 0.60% | ~4,669 |
+| Sharpest Tool in the Box | 0.60% | ~4,669 |
 | Top That, Tisha! | 0.50% | ~518 |
-| Survival Skills | 0.40% | ~3,112 |
+| Survival Skills | 0.40% | ~3,113 |
 | Donk! | 0.20% | ~1,556 |
 | Lawn and Order | 0.20% | ~207 |
 | Bucket List | 0.10% | ~778 |
 | Wilhelm | 0.10% | ~104 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 778,057 (Ranked 20)  
+Progressed: 778,136 (Ranked 20)  
 Completed: 2,521 (0.32%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 2,521 (0.32%) (Ranked 246)
 | 2023-12-28 | 772,923 | 2,512 |
 | 2023-12-29 | 775,077 | 2,514 |
 | 2023-12-30 | 777,461 | 2,520 |
-| 2023-12-31 | 778,057 | 2,521 |
+| 2023-12-31 | 778,136 | 2,521 |
 ## Awards
 Max (Great Boss Battles): 9,271  (Ranked 41)  
 Sum: 14,116 (Ranked 77)  

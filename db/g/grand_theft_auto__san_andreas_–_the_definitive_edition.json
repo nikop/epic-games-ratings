@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2101,7 +2101,7 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 17667,
+  "EOS_Progressed": 17674,
   "EOS_Completed": 66,
   "EOS_NewPlayers": 1176,
   "EOS_NewCompleters": 4,
@@ -18371,6 +18371,11 @@
       "Time": "2023-12-31T06:11:06.5154037+00:00",
       "NumProgressed": 17667,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-12-31T07:10:40.4925279+00:00",
+      "NumProgressed": 17674,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 35,
@@ -18382,7 +18387,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 14310
+      "UsersEstimate": 14316
     },
     {
       "ID": "ACH02",
@@ -18430,7 +18435,7 @@
       "Name": "The American Dream",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 3180
+      "UsersEstimate": 3181
     },
     {
       "ID": "ACH08",
@@ -18438,7 +18443,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 8834
+      "UsersEstimate": 8837
     },
     {
       "ID": "ACH09",
@@ -18462,7 +18467,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1590
+      "UsersEstimate": 1591
     },
     {
       "ID": "ACH12",
@@ -18478,7 +18483,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3180
+      "UsersEstimate": 3181
     },
     {
       "ID": "ACH14",
@@ -18502,7 +18507,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3003
+      "UsersEstimate": 3005
     },
     {
       "ID": "ACH17",
@@ -18526,7 +18531,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "ACH20",
@@ -18550,7 +18555,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2473
+      "UsersEstimate": 2474
     },
     {
       "ID": "ACH23",
@@ -18558,7 +18563,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4417
+      "UsersEstimate": 4418
     },
     {
       "ID": "ACH24",
@@ -18598,7 +18603,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1414
     },
     {
       "ID": "ACH29",
@@ -18606,7 +18611,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2650
+      "UsersEstimate": 2651
     },
     {
       "ID": "ACH30",
@@ -18661,7 +18666,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 17667,
+      "Progressed": 17674,
       "Completed": 66
     }
   ],
@@ -18669,8 +18674,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-30T23:59:31.4455488+00:00",
-  "LastChanged_Achievements": "2023-12-31T06:11:06.5154034+00:00",
+  "LastChanged_Achievements": "2023-12-31T07:10:40.4925275+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.8114387+00:00",
-  "LastUpdate_Ratings": "2023-12-31T06:00:52.9377564+00:00",
-  "LastUpdate_Achievements": "2023-12-31T06:11:06.515521+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:01:05.6832501+00:00",
+  "LastUpdate_Achievements": "2023-12-31T07:10:40.4926444+00:00"
 }

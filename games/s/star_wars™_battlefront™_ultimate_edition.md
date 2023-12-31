@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~2,088 |
-| Off to a good start | 62.00% | ~1,488 |
-| Do... or do not. There is no try | 52.00% | ~1,248 |
+| New Recruit | 87.00% | ~2,089 |
+| Off to a good start | 62.00% | ~1,489 |
+| Do... or do not. There is no try | 52.00% | ~1,249 |
 | A good blaster at your side | 26.00% | ~624 |
 | I suggest a new strategy | 18.00% | ~432 |
 | Great shot, kid! | 16.00% | ~384 |
@@ -39,7 +39,6 @@
 | Determined | 2.00% | ~48 |
 | Your journey has only started | 2.00% | ~48 |
 | Precision shot | 2.00% | ~48 |
-| City in the Clouds | 2.00% | ~48 |
 | That's no moon | 2.00% | ~48 |
 | What will you become? | 2.00% | ~48 |
 | Disturbed tranquility | 2.00% | ~48 |
@@ -47,28 +46,29 @@
 | Playing the objective | 1.00% | ~24 |
 | Ackbar's Elite | 1.00% | ~24 |
 | This is a new day, a new beginning | 1.00% | ~24 |
+| City in the Clouds | 1.00% | ~24 |
 | Alternative solution | 1.00% | ~24 |
 | Onwards! | 1.00% | ~24 |
 | The circle is now complete | 1.00% | ~24 |
 | You have your moments | 0.80% | ~19 |
-| When surrounded by war... | 0.80% | ~19 |
 | A New Hope | 0.70% | ~17 |
 | Walker defender | 0.70% | ~17 |
+| When surrounded by war... | 0.70% | ~17 |
 | No such thing as luck | 0.60% | ~14 |
 | Stop that Droid | 0.60% | ~14 |
 | Do we take prisoners? | 0.50% | ~12 |
 | I’ll take that bet | 0.50% | ~12 |
 | Stay on target | 0.40% | ~10 |
-| in a galaxy far, far away.... | 0.30% | ~7 |
 | Greed can be a very powerful ally | 0.30% | ~7 |
 | That got him! | 0.20% | ~5 |
+| in a galaxy far, far away.... | 0.20% | ~5 |
 | Don't get cocky | 0.20% | ~5 |
 | Master | 0.20% | ~5 |
 | Stay in attack formation | 0.20% | ~5 |
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,400 (Ranked 231)  
+Progressed: 2,401 (Ranked 231)  
 Completed: 1 (0.04%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 1 (0.04%) (Ranked 345)
 | 2023-12-28 | 2,299 | 1 |
 | 2023-12-29 | 2,337 | 1 |
 | 2023-12-30 | 2,388 | 1 |
-| 2023-12-31 | 2,400 | 1 |
+| 2023-12-31 | 2,401 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

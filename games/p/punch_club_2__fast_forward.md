@@ -18,8 +18,8 @@
 | Run K, run! | 67.00% | ~336 |
 | First defeat | 66.00% | ~331 |
 | Hello, world! | 66.00% | ~331 |
+| Fighting is cool | 64.00% | ~321 |
 | No bullying more | 64.00% | ~321 |
-| Fighting is cool | 63.00% | ~316 |
 | Pal of your father? | 62.00% | ~311 |
 | Spirit of the past | 60.00% | ~301 |
 | Employee of the month | 59.00% | ~296 |
@@ -35,17 +35,17 @@
 | Employee of the year | 53.00% | ~266 |
 | Legal courier | 49.00% | ~246 |
 | Extreme neuropower! | 49.00% | ~246 |
-| Escaped from a big trouble | 46.00% | ~231 |
-| Now you are worthy | 41.00% | ~206 |
+| Escaped from a big trouble | 47.00% | ~236 |
+| Now you are worthy | 42.00% | ~211 |
 | Fight is life | 41.00% | ~206 |
 | Mysterious voice | 41.00% | ~206 |
 | Guiding on the right path | 41.00% | ~206 |
 | No blades in the gym | 39.00% | ~196 |
 | Champion – no way back | 37.00% | ~186 |
 | Responsible approach | 37.00% | ~186 |
+| GYM professional | 36.00% | ~181 |
 | Underground dwellers | 36.00% | ~181 |
 | Deal with life | 35.00% | ~176 |
-| GYM professional | 35.00% | ~176 |
 | Mom got better | 34.00% | ~171 |
 | Poisoned fighter | 34.00% | ~171 |
 | Get out of my apartment! | 34.00% | ~171 |

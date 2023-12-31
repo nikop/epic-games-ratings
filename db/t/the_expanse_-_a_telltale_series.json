@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17865,
+  "EOS_Progressed": 17866,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 609,
+  "EOS_NewPlayers": 608,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15764,6 +15764,11 @@
       "Time": "2023-12-31T06:07:50.8769341+00:00",
       "NumProgressed": 17865,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-31T07:07:46.8432818+00:00",
+      "NumProgressed": 17866,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15808,7 +15813,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2858
+      "UsersEstimate": 2859
     },
     {
       "ID": "14",
@@ -15840,7 +15845,7 @@
       "Name": "Spore Taste",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "18",
@@ -15880,7 +15885,7 @@
       "Name": "Drone Dodger",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "22",
@@ -15990,9 +15995,9 @@
       "ID": "7",
       "SetID": "458bbdk",
       "Name": "Grave Robber",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 107
+      "UsersEstimate": 125
     },
     {
       "ID": "8",
@@ -16055,22 +16060,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17865,
+      "Progressed": 17866,
       "Completed": 57
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3819,
-      "Completed": 1127
+      "Progressed": 3820,
+      "Completed": 1128
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T01:47:56.7328013+00:00",
-  "LastChanged_Achievements": "2023-12-31T06:07:50.8769337+00:00",
+  "LastChanged_Achievements": "2023-12-31T07:07:46.8432815+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2023-12-31T05:58:23.1894867+00:00",
-  "LastUpdate_Achievements": "2023-12-31T06:07:50.8770503+00:00"
+  "LastUpdate_Ratings": "2023-12-31T06:58:37.5229704+00:00",
+  "LastUpdate_Achievements": "2023-12-31T07:07:46.8433668+00:00"
 }

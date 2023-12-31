@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 395,
+  "EOS_Progressed": 396,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -819,6 +819,11 @@
       "Time": "2023-12-31T06:06:05.1426025+00:00",
       "NumProgressed": 395,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-31T07:06:02.4816278+00:00",
+      "NumProgressed": 396,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -910,7 +915,7 @@
       "Name": "Pacifist",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "NO_PURCHASES",
@@ -950,14 +955,14 @@
       "Name": "Magic Ball",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     }
   ],
   "AchievementSets": [
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 395,
+      "Progressed": 396,
       "Completed": 4
     }
   ],
@@ -965,8 +970,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-12-31T06:06:05.1426021+00:00",
+  "LastChanged_Achievements": "2023-12-31T07:06:02.4816275+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:25.7594248+00:00",
-  "LastUpdate_Ratings": "2023-12-31T05:59:22.743387+00:00",
-  "LastUpdate_Achievements": "2023-12-31T06:06:05.1426148+00:00"
+  "LastUpdate_Ratings": "2023-12-31T06:59:35.9316993+00:00",
+  "LastUpdate_Achievements": "2023-12-31T07:06:02.4816387+00:00"
 }

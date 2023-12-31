@@ -3,8 +3,8 @@
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 355,
-  "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_Completed": 197,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 431,
+  "EOS_Progressed": 432,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.7,
+  "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
     {
       "Time": "2023-08-29T09:05:59.1773399+00:00",
@@ -1824,6 +1824,11 @@
       "Time": "2023-12-31T01:56:01.9004514+00:00",
       "NumProgressed": 431,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-31T07:07:50.3321253+00:00",
+      "NumProgressed": 432,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -1836,7 +1841,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -1916,7 +1921,7 @@
       "Name": "Leech Lunch",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -1956,7 +1961,7 @@
       "Name": "Bridge Builder",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -1995,14 +2000,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 431,
+      "Progressed": 432,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-31T06:07:54.3569388+00:00",
+  "LastChanged_Achievements": "2023-12-31T07:07:50.3321249+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.5394751+00:00",
-  "LastUpdate_Ratings": "2023-12-31T06:03:04.0285854+00:00",
-  "LastUpdate_Achievements": "2023-12-31T06:07:54.3569571+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:03:04.3967213+00:00",
+  "LastUpdate_Achievements": "2023-12-31T07:07:50.332147+00:00"
 }

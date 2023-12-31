@@ -23,7 +23,7 @@ Rating: 4.58 (Ranked 464)
 | Beyond divisions | 17.00% | ~205 |
 | Flying Objects Operator | 16.00% | ~193 |
 | I remember everything! | 13.00% | ~157 |
-| Another giant | 12.00% | ~144 |
+| Another giant | 13.00% | ~157 |
 | I leave no man behind | 9.00% | ~108 |
 | Violent solution | 8.00% | ~96 |
 | Innate curiosity | 7.00% | ~84 |
@@ -35,7 +35,7 @@ Rating: 4.58 (Ranked 464)
 | Convoy list | 0.90% | ~11 |
 | No more mistakes | 0.60% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,204 (Ranked 275)  
+Progressed: 1,204 (Ranked 276)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |

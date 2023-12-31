@@ -227,9 +227,9 @@
       "Count": 73
     }
   ],
-  "EOS_Progressed": 9030,
+  "EOS_Progressed": 9036,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2059,
+  "EOS_NewPlayers": 2054,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3067,6 +3067,11 @@
       "Time": "2023-12-31T06:10:58.0926837+00:00",
       "NumProgressed": 9030,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T07:10:32.2376154+00:00",
+      "NumProgressed": 9036,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3501,9 +3506,9 @@
       "ID": "55_ReturningTheBoots",
       "SetID": "37a94m8",
       "Name": "Returning the Boots",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 36
     },
     {
       "ID": "56_ThoroughInvestigation",
@@ -3598,7 +3603,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9030,
+      "Progressed": 9036,
       "Completed": 0
     }
   ],
@@ -3606,8 +3611,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-30T16:58:43.1218846+00:00",
-  "LastChanged_Achievements": "2023-12-31T06:10:58.0926832+00:00",
+  "LastChanged_Achievements": "2023-12-31T07:10:32.2376149+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-31T05:59:36.2249612+00:00",
-  "LastUpdate_Achievements": "2023-12-31T06:10:58.0927732+00:00"
+  "LastUpdate_Ratings": "2023-12-31T06:59:50.0110695+00:00",
+  "LastUpdate_Achievements": "2023-12-31T07:10:32.2376791+00:00"
 }

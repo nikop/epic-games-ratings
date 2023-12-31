@@ -24,9 +24,9 @@ Number of Ratings: 124  (23.09.2022)
 | Eternal Oblivion | 8.00% | ~12 |
 | Storyteller | 6.00% | ~9 |
 | Alb | 6.00% | ~9 |
+| Banker | 5.00% | ~7 |
 | Hotshot | 5.00% | ~7 |
 | Perfectionist | 5.00% | ~7 |
-| Banker | 4.00% | ~6 |
 | Free as a Bird | 4.00% | ~6 |
 | Detective | 4.00% | ~6 |
 | Treasure Hunter | 3.00% | ~4 |

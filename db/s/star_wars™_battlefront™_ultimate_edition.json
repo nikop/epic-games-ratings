@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2400,
+  "EOS_Progressed": 2401,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6734,6 +6734,11 @@
       "Time": "2023-12-31T06:11:20.8601179+00:00",
       "NumProgressed": 2400,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T07:10:54.5409437+00:00",
+      "NumProgressed": 2401,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6832,9 +6837,9 @@
       "ID": "achievement_2",
       "SetID": "271ol84",
       "Name": "in a galaxy far, far away....",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_20",
@@ -6970,7 +6975,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 2088
+      "UsersEstimate": 2089
     },
     {
       "ID": "achievement_36",
@@ -6986,7 +6991,7 @@
       "Name": "Off to a good start",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1488
+      "UsersEstimate": 1489
     },
     {
       "ID": "achievement_38",
@@ -7018,7 +7023,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "achievement_41",
@@ -7104,9 +7109,9 @@
       "ID": "achievement_50",
       "SetID": "cemm4l8",
       "Name": "City in the Clouds",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_51",
@@ -7120,9 +7125,9 @@
       "ID": "achievement_52",
       "SetID": "cemm4l8",
       "Name": "When surrounded by war...",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 60,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_53",
@@ -7249,13 +7254,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2400,
+      "Progressed": 2401,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2400,
+      "Progressed": 2401,
       "Completed": 1
     }
   ],
@@ -7263,8 +7268,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-31T06:11:20.8601177+00:00",
+  "LastChanged_Achievements": "2023-12-31T07:10:54.5409432+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.759459+00:00",
-  "LastUpdate_Ratings": "2023-12-31T05:58:15.7668375+00:00",
-  "LastUpdate_Achievements": "2023-12-31T06:11:20.860205+00:00"
+  "LastUpdate_Ratings": "2023-12-31T06:58:30.3334645+00:00",
+  "LastUpdate_Achievements": "2023-12-31T07:10:54.5410214+00:00"
 }

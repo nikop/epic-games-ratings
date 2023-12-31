@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~692 |
+| Malpractice Assurance | 12.00% | ~693 |
 | Lost and Found | 7.00% | ~404 |
 | Autodidact | 6.00% | ~7,854 |
 | This guy... again? | 6.00% | ~346 |
@@ -14,8 +14,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Creep and Sleep | 5.00% | ~6,545 |
 | Overdue Notice | 5.00% | ~6,545 |
 | Escape from the Black Hole | 5.00% | ~6,545 |
-| Ploughshares to Swords | 5.00% | ~288 |
-| Bloody Graduation | 5.00% | ~288 |
+| Ploughshares to Swords | 5.00% | ~289 |
+| Bloody Graduation | 5.00% | ~289 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,236 |
 | Serenity Now! | 4.00% | ~5,236 |
 | It Rings a Bell | 4.00% | ~5,236 |
@@ -29,6 +29,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 4.00% | ~5,236 |
 | Friends 'Til the End | 4.00% | ~231 |
 | Unleash Hell | 3.00% | ~3,927 |
+| Funny Guy | 3.00% | ~3,927 |
 | Long Live the King | 3.00% | ~3,927 |
 | Unfulfilled Desires | 3.00% | ~3,927 |
 | Dissector | 3.00% | ~3,927 |
@@ -42,7 +43,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Nope | 3.00% | ~3,927 |
 | Unshackled | 3.00% | ~3,927 |
 | Resurrection | 2.00% | ~2,618 |
-| Funny Guy | 2.00% | ~2,618 |
 | Wyrdly Reconstructed | 2.00% | ~2,618 |
 | Boxcar Kid | 2.00% | ~2,618 |
 | This Looks Familiar | 2.00% | ~2,618 |
@@ -69,9 +69,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hat Trick | 0.70% | ~916 |
 | Triage | 0.70% | ~916 |
 | No Mercy | 0.70% | ~40 |
-| A Life Well Lived | 0.50% | ~654 |
-| The World As It Was | 0.50% | ~654 |
-| Bacon Bits | 0.50% | ~654 |
+| A Life Well Lived | 0.50% | ~655 |
+| The World As It Was | 0.50% | ~655 |
+| Bacon Bits | 0.50% | ~655 |
 | Eidetic | 0.40% | ~524 |
 | On This Long Road, We Found Redemption | 0.40% | ~23 |
 | Tears in the Rain | 0.30% | ~393 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,898 (Ranked 89)  
+Progressed: 130,905 (Ranked 89)  
 Completed: 3 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,14 +331,14 @@ Completed: 3 (0.00%) (Ranked 391)
 | 2023-12-28 | 130,422 | 3 |
 | 2023-12-29 | 130,627 | 3 |
 | 2023-12-30 | 130,838 | 3 |
-| 2023-12-31 | 130,898 | 3 |
+| 2023-12-31 | 130,905 | 3 |
 ## Awards
-Max (Character Customization): 7,905  (Ranked 50)  
-Sum: 21,274 (Ranked 58)  
+Max (Character Customization): 7,910  (Ranked 50)  
+Sum: 21,279 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,905 |
+| This game has Inclusive Character Customization | 7,910 |
 | This game has Diverse Characters | 1,797 |
 | This game has Challenging Combat | 1,657 |
 | This game is Highly Recommended | 1,583 |
@@ -690,3 +690,4 @@ Diff (max vs sum): -8
 | 2023-12-28 | 4.68 | - | 7,888 | 21,194 |
 | 2023-12-29 | 4.68 | - | 7,899 | 21,240 |
 | 2023-12-30 | 4.68 | - | 7,905 | 21,274 |
+| 2023-12-31 | 4.68 | - | 7,910 | 21,279 |

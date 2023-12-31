@@ -5,25 +5,25 @@ Rating: 4.81 (Ranked 84)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,008 |
-| No more cages! | 91.00% | ~2,881 |
-| Everfrost | 77.00% | ~2,438 |
-| Pentakill | 76.00% | ~2,406 |
-| Dark Forest | 76.00% | ~2,406 |
-| The use of petricite | 73.00% | ~2,311 |
+| For Demacia | 95.00% | ~3,009 |
+| No more cages! | 91.00% | ~2,882 |
+| Everfrost | 77.00% | ~2,439 |
+| Pentakill | 76.00% | ~2,407 |
+| Dark Forest | 76.00% | ~2,407 |
+| The use of petricite | 73.00% | ~2,312 |
 | You can pet the dog | 60.00% | ~1,900 |
 | Thornbarrow | 42.00% | ~1,330 |
-| Big Helmet Bro | 40.00% | ~1,266 |
-| Clarion Cove | 40.00% | ~1,266 |
+| Big Helmet Bro | 40.00% | ~1,267 |
+| Clarion Cove | 40.00% | ~1,267 |
 | Ternmoat Headquarters | 38.00% | ~1,203 |
-| Elemental master | 37.00% | ~1,171 |
-| Past trauma | 37.00% | ~1,171 |
-| Cypress Glen Headquarters | 34.00% | ~1,076 |
+| Elemental master | 37.00% | ~1,172 |
+| Past trauma | 37.00% | ~1,172 |
+| Cypress Glen Headquarters | 34.00% | ~1,077 |
 | Petricite Burst | 33.00% | ~1,045 |
 | Old friend | 32.00% | ~1,013 |
 | Devineur | 32.00% | ~1,013 |
 | Hijack | 30.00% | ~950 |
-| Whispers in the Woods I | 28.00% | ~886 |
+| Whispers in the Woods I | 28.00% | ~887 |
 | I chose my shackles | 27.00% | ~855 |
 | Ancient power | 27.00% | ~855 |
 | Sacred Woods | 26.00% | ~823 |
@@ -59,7 +59,7 @@ Rating: 4.81 (Ranked 84)
 | Silverwing nest | 2.00% | ~63 |
 | The Unshackled | 1.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,166 (Ranked 222)  
+Progressed: 3,167 (Ranked 222)  
 Completed: 18 (0.57%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 18 (0.57%) (Ranked 207)
 | 2023-12-28 | 3,125 | 17 |
 | 2023-12-29 | 3,140 | 17 |
 | 2023-12-30 | 3,165 | 17 |
-| 2023-12-31 | 3,166 | 18 |
+| 2023-12-31 | 3,167 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,7 +6,7 @@ Rating: 4.48 (Ranked 650)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eat My Dust | 48.00% | ~1,509 |
-| First Love | 45.00% | ~1,414 |
+| First Love | 45.00% | ~1,415 |
 | Clean Race | 44.00% | ~1,383 |
 | Hear That Roar! | 41.00% | ~1,289 |
 | Bitter Rivalry | 30.00% | ~943 |
@@ -18,10 +18,10 @@ Rating: 4.48 (Ranked 650)
 | I Want One Too! | 20.00% | ~629 |
 | Legendary!!! | 19.00% | ~597 |
 | Go-Faster Stripes | 17.00% | ~534 |
-| I'm Here Too! | 15.00% | ~471 |
+| I'm Here Too! | 15.00% | ~472 |
 | We've Just Begun | 14.00% | ~440 |
 | Is It the Right Size? | 9.00% | ~283 |
-| Stamina Star | 8.00% | ~251 |
+| Stamina Star | 8.00% | ~252 |
 | Evangelist | 7.00% | ~220 |
 | Make It Your Own! | 5.00% | ~157 |
 | Cherry Blossom and Temples | 4.00% | ~126 |
@@ -55,7 +55,7 @@ Rating: 4.48 (Ranked 650)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,143 (Ranked 223)  
+Progressed: 3,144 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 3,069 | 0 |
 | 2023-12-29 | 3,096 | 0 |
 | 2023-12-30 | 3,132 | 0 |
-| 2023-12-31 | 3,143 | 0 |
+| 2023-12-31 | 3,144 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

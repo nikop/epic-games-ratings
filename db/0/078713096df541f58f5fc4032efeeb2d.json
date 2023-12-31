@@ -2,9 +2,9 @@
   "ID": "078713096df541f58f5fc4032efeeb2d",
   "Name": "Creepy Tale 3 - Ingrid Penance",
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
-  "Ranking_EOS_Progress": 515,
+  "Ranking_EOS_Progress": 516,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -375,9 +375,9 @@
       "ID": "creepytale3_ach_11",
       "SetID": "7idcjbn",
       "Name": "Dexterity",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "creepytale3_ach_12",
@@ -399,9 +399,9 @@
       "ID": "creepytale3_ach_15",
       "SetID": "7idcjbn",
       "Name": "Bathing time!",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "creepytale3_ach_17",
@@ -583,9 +583,9 @@
       "ID": "creepytale3_ach_5",
       "SetID": "7idcjbn",
       "Name": "Bloodthirsty",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "creepytale3_ach_6",
@@ -630,8 +630,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-12-31T06:07:51.7110147+00:00",
+  "LastChanged_Achievements": "2023-12-31T07:07:47.642938+00:00",
   "LastUpdate_AppInfo": "2023-12-27T07:56:53.6623876+00:00",
-  "LastUpdate_Ratings": "2023-12-31T05:58:22.4132996+00:00",
-  "LastUpdate_Achievements": "2023-12-31T06:07:51.7110397+00:00"
+  "LastUpdate_Ratings": "2023-12-31T06:58:36.7128036+00:00",
+  "LastUpdate_Achievements": "2023-12-31T07:07:47.6429812+00:00"
 }

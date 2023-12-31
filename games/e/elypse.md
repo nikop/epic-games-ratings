@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A path of no return | 98.00% | ~121 |
-| A bottomless pit | 82.00% | ~101 |
-| Pigeon | 79.00% | ~97 |
-| Baited | 67.00% | ~82 |
+| A path of no return | 98.00% | ~122 |
+| A bottomless pit | 82.00% | ~102 |
+| Pigeon | 79.00% | ~98 |
+| Baited | 67.00% | ~83 |
 | "Swoosh" | 59.00% | ~73 |
-| The light at the end of the tunnel | 59.00% | ~73 |
-| Masochistic | 53.00% | ~65 |
-| Soft skin | 50.00% | ~62 |
-| Splash! | 50.00% | ~62 |
-| Squid game | 41.00% | ~50 |
+| The light at the end of the tunnel | 58.00% | ~72 |
+| Masochistic | 52.00% | ~64 |
+| Soft skin | 49.00% | ~61 |
+| Splash! | 49.00% | ~61 |
+| Squid game | 41.00% | ~51 |
 | Sensitive soul | 35.00% | ~43 |
 | Rock Solid | 34.00% | ~42 |
-| The beast within | 33.00% | ~41 |
-| It's getting dark | 33.00% | ~41 |
+| The beast within | 32.00% | ~40 |
+| It's getting dark | 32.00% | ~40 |
 | Rooftop | 29.00% | ~36 |
 | Hard Rock | 29.00% | ~36 |
-| Homeless | 28.00% | ~34 |
+| Homeless | 27.00% | ~33 |
 | Big badaboom! | 27.00% | ~33 |
-| Nokron tower | 24.00% | ~30 |
-| Bookworm | 24.00% | ~30 |
 | Payback | 24.00% | ~30 |
-| Full power | 23.00% | ~28 |
-| "Ah sh*t... Here we go again!" | 23.00% | ~28 |
-| Magnitude 5 | 23.00% | ~28 |
+| Full power | 23.00% | ~29 |
+| "Ah sh*t... Here we go again!" | 23.00% | ~29 |
+| Nokron tower | 23.00% | ~29 |
+| Magnitude 5 | 23.00% | ~29 |
+| Bookworm | 23.00% | ~29 |
 | Compulsive hoarder | 22.00% | ~27 |
-| GG EZ | 15.00% | ~18 |
-| Comeback | 15.00% | ~18 |
-| MayDay! MayDay! | 11.00% | ~14 |
+| GG EZ | 15.00% | ~19 |
+| Comeback | 15.00% | ~19 |
+| MayDay! MayDay! | 10.00% | ~12 |
 | Gooooooaaaaal!!! | 7.00% | ~9 |
 | Sadistic | 2.00% | ~2 |
 | Abyssal God | 0.00% | ~0 |
@@ -39,7 +39,7 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 123 (Ranked 469)  
+Progressed: 124 (Ranked 469)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,3 +109,4 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 117 | 0 |
 | 2023-12-28 | 121 | 0 |
 | 2023-12-30 | 123 | 0 |
+| 2023-12-31 | 124 | 0 |

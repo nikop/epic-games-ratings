@@ -4,7 +4,7 @@
   "ProductSlug": "forklift-extreme-deluxe-edition-50689a",
   "Ranking_EOS_Progress": 753,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-03-16T13:00:00+00:00",
@@ -163,8 +163,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.0232769+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.9927145+00:00",
   "LastChanged": "2023-03-31T05:58:12.023277+00:00",
-  "LastChanged_Achievements": "2023-12-31T06:04:55.3595518+00:00",
+  "LastChanged_Achievements": "2023-12-31T07:04:53.561394+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:33.9743574+00:00",
-  "LastUpdate_Ratings": "2023-12-31T05:59:45.8944013+00:00",
-  "LastUpdate_Achievements": "2023-12-31T06:04:55.35956+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:00:00.0681305+00:00",
+  "LastUpdate_Achievements": "2023-12-31T07:04:53.5614007+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -503,9 +503,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 534438,
+  "EOS_Progressed": 534439,
   "EOS_Completed": 512,
-  "EOS_NewPlayers": 632,
+  "EOS_NewPlayers": 629,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -27568,6 +27568,11 @@
       "Time": "2023-12-31T06:05:57.3404358+00:00",
       "NumProgressed": 534438,
       "NumCompleted": 512
+    },
+    {
+      "Time": "2023-12-31T07:05:54.7060005+00:00",
+      "NumProgressed": 534439,
+      "NumCompleted": 512
     }
   ],
   "TotalAchievements": 57,
@@ -27587,7 +27592,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 240497
+      "UsersEstimate": 240498
     },
     {
       "ID": "11",
@@ -27603,7 +27608,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 117576
+      "UsersEstimate": 117577
     },
     {
       "ID": "13",
@@ -27635,7 +27640,7 @@
       "Name": "Road Less Travelled",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 48099
+      "UsersEstimate": 48100
     },
     {
       "ID": "17",
@@ -27691,7 +27696,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 48099
+      "UsersEstimate": 48100
     },
     {
       "ID": "23",
@@ -27803,7 +27808,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 267219
+      "UsersEstimate": 267220
     },
     {
       "ID": "36",
@@ -27875,7 +27880,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 90854
+      "UsersEstimate": 90855
     },
     {
       "ID": "44",
@@ -27955,7 +27960,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 245841
+      "UsersEstimate": 245842
     },
     {
       "ID": "53",
@@ -28034,15 +28039,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 534438,
+      "Progressed": 534439,
       "Completed": 512
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-12-14T14:59:39.4842186+00:00",
-  "LastChanged_Achievements": "2023-12-31T06:05:57.3404354+00:00",
+  "LastChanged_Achievements": "2023-12-31T07:05:54.7060001+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:29.7872424+00:00",
-  "LastUpdate_Ratings": "2023-12-31T06:02:42.7680029+00:00",
-  "LastUpdate_Achievements": "2023-12-31T06:05:57.340645+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:02:03.6869307+00:00",
+  "LastUpdate_Achievements": "2023-12-31T07:05:54.7061633+00:00"
 }

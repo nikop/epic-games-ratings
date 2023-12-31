@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": null,
@@ -9044,9 +9044,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 478607,
+  "EOS_Progressed": 478609,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34729,6 +34729,11 @@
       "Time": "2023-12-31T06:09:09.8456054+00:00",
       "NumProgressed": 478607,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-12-31T07:08:44.1649483+00:00",
+      "NumProgressed": 478609,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -34820,7 +34825,7 @@
       "Name": "Top Form",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 81363
+      "UsersEstimate": 81364
     },
     {
       "ID": "achievement_3_players_in_team_of_the_year",
@@ -34836,7 +34841,7 @@
       "Name": "Parked The Bus",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 138796
+      "UsersEstimate": 138797
     },
     {
       "ID": "achievement_5_manager_of_the_year_awards",
@@ -34844,7 +34849,7 @@
       "Name": "Legend",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28716
+      "UsersEstimate": 28717
     },
     {
       "ID": "achievement_5_players_in_team_of_the_week",
@@ -34852,7 +34857,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 143582
+      "UsersEstimate": 143583
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -34932,7 +34937,7 @@
       "Name": "Win the Club World Cup",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28716
+      "UsersEstimate": 28717
     },
     {
       "ID": "achievement_do_the_double",
@@ -34940,7 +34945,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 90935
+      "UsersEstimate": 90936
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -34948,7 +34953,7 @@
       "Name": "Parked The Tank",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28716
+      "UsersEstimate": 28717
     },
     {
       "ID": "achievement_european_player_of_the_year_award",
@@ -34972,7 +34977,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 201015
+      "UsersEstimate": 201016
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -34996,7 +35001,7 @@
       "Name": "World Renowned",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 28716
+      "UsersEstimate": 28717
     },
     {
       "ID": "achievement_get_offered_an_international_manager_job",
@@ -35028,7 +35033,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 134010
+      "UsersEstimate": 134011
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -35036,7 +35041,7 @@
       "Name": "Irresistible Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 95721
+      "UsersEstimate": 95722
     },
     {
       "ID": "achievement_golden_boot_award",
@@ -35052,7 +35057,7 @@
       "Name": "Shrewd Spender",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 138796
+      "UsersEstimate": 138797
     },
     {
       "ID": "achievement_hattrick",
@@ -35060,7 +35065,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 196229
+      "UsersEstimate": 196230
     },
     {
       "ID": "achievement_head_to_head",
@@ -35068,7 +35073,7 @@
       "Name": "Head-to-Head",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 28716
+      "UsersEstimate": 28717
     },
     {
       "ID": "achievement_headhunted",
@@ -35084,7 +35089,7 @@
       "Name": "He\u0027s a Natural",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 148368
+      "UsersEstimate": 148369
     },
     {
       "ID": "achievement_impervious",
@@ -35164,7 +35169,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 167512
+      "UsersEstimate": 167513
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -35172,7 +35177,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 153154
+      "UsersEstimate": 153155
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -35180,7 +35185,7 @@
       "Name": "Excellent Match Cohesion",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 95721
+      "UsersEstimate": 95722
     },
     {
       "ID": "achievement_pick_feeder",
@@ -35212,7 +35217,7 @@
       "Name": "Star Man",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 138796
+      "UsersEstimate": 138797
     },
     {
       "ID": "achievement_player_in_world_cup_best_xi",
@@ -35244,7 +35249,7 @@
       "Name": "Record Signing",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 153154
+      "UsersEstimate": 153155
     },
     {
       "ID": "achievement_rushed_signing",
@@ -35276,7 +35281,7 @@
       "Name": "Cash To Burn",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 81363
+      "UsersEstimate": 81364
     },
     {
       "ID": "achievement_sell_player",
@@ -35284,7 +35289,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 229731
+      "UsersEstimate": 229732
     },
     {
       "ID": "achievement_signed_a_player",
@@ -35436,7 +35441,7 @@
       "Name": "Millionaire\u0027s Club",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 148368
+      "UsersEstimate": 148369
     },
     {
       "ID": "fantasy_draft_100_club",
@@ -35523,15 +35528,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 478607,
+      "Progressed": 478609,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-12-31T03:59:30.3139401+00:00",
-  "LastChanged_Achievements": "2023-12-31T06:09:09.8456051+00:00",
+  "LastChanged_Achievements": "2023-12-31T07:08:44.1649479+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:28.9554136+00:00",
-  "LastUpdate_Ratings": "2023-12-31T05:59:33.3394408+00:00",
-  "LastUpdate_Achievements": "2023-12-31T06:09:09.8457961+00:00"
+  "LastUpdate_Ratings": "2023-12-31T06:59:46.707992+00:00",
+  "LastUpdate_Achievements": "2023-12-31T07:08:44.1651669+00:00"
 }

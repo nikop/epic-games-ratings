@@ -2,12 +2,12 @@
   "ID": "b30b6d1b4dfd4dcc93b5490be5e094e5",
   "Name": "Red Dead Redemption 2",
   "ProductSlug": "red-dead-redemption-2",
-  "Ranking_Rating": 18,
+  "Ranking_Rating": 17,
   "Ranking_Popularity": 5,
   "Ranking_PopularitySum": 7,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2019-11-05T13:00:00+00:00",
@@ -19256,6 +19256,6 @@
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
   "LastChanged": "2023-12-31T05:58:50.6801047+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.6393961+00:00",
-  "LastUpdate_Ratings": "2023-12-31T05:58:50.6801053+00:00",
-  "LastUpdate_Achievements": "2023-12-31T06:05:51.9235166+00:00"
+  "LastUpdate_Ratings": "2023-12-31T06:59:04.0713113+00:00",
+  "LastUpdate_Achievements": "2023-12-31T07:05:49.1471848+00:00"
 }
