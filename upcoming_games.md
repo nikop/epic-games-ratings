@@ -1,56 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [1000xRESIST](games/1/1000xresist.md) | 2023-12-31 | - |  | - | - |
-| [Abtos Covert](games/f/f824b337a16d464eab50d0564bc3389a.md) | 2023-12-31 | - |  | - | - |
-| [Active and Operational](games/a/active_and_operational.md) | 2023-12-31 | - |  | - | - |
-| [Alaskan Road Truckers](games/a/alaskan_truck_simulator.md) | 2023-12-31 | - |  | - | - |
-| [Anito Legends](games/5/5a70a74abf1044db84a816cb0a401566.md) | 2023-12-31 | - |  | - | - |
-| [Beach Invasion 1945 - Pacific](games/1/10290198c6dc48d5aa24d45bca39215a.md) | 2023-12-31 | - |  | - | - |
-| [Bogdan's Cross](games/b/bogdan's_cross.md) | 2023-12-31 | - |  | - | - |
-| [Capes](games/c/capes.md) | 2023-12-31 | - |  | - | - |
-| [Clicker Guardians](games/c/clicker_guardians.md) | 2023-12-31 | - |  | - | - |
-| [Cosmik Battle](games/3/3f5bd4a3bb62462c8b6846a68ad6a4d9.md) | 2023-12-31 | - |  | - | - |
-| [Cthulhu: Books of Ancients](games/c/cthulhu__books_of_ancients.md) | 2023-12-31 | - |  | - | - |
-| [Cyber：Mind Dive](games/8/89a398941c5c447fbf32413109f3d2e1.md) | 2023-12-31 | - |  | - | - |
-| [Dealer's Life 2](games/f/f8764fc7177a4015ad68bcbf0f66297f.md) | 2023-12-31 | - |  | - | - |
-| [Dreamsettler](games/d/dreamsettler.md) | 2023-12-31 | - |  | - | - |
-| [Dungeon Of Dragon Knight](games/d/dungeon_of_dragon_knight.md) | 2023-12-31 | - |  | - | - |
-| [ElectriX](games/e/electrix.md) | 2023-12-31 | - |  | - | - |
-| [Esophaguys](games/b/b98c4f25fa904256935d834da1462c2e.md) | 2023-12-31 | - |  | - | - |
-| [Falling Frontier](games/f/falling_frontier.md) | 2023-12-31 | - |  | - | - |
-| [Farm and Fix Simulator](games/f/farm_and_fix_simulator.md) | 2023-12-31 | - |  | - | - |
-| [Fireball Wizard](games/a/a39d4b1311c741a191345f39bf1446eb.md) | 2023-12-31 | - |  | - | - |
-| [Flipper Mechanic Simulator](games/f/flipper_mechanic_simulator.md) | 2023-12-31 | - |  | - | - |
-| [Golfing in Aether](games/4/40f6e4beb45a4bbfb77fdb6774331e83.md) | 2023-12-31 | 14 (1,000 XP) | 4 | - | - |
-| [Hero Flood Rescue](games/h/hero_flood_rescue.md) | 2023-12-31 | - |  | - | - |
-| [Hyper Drill](games/1/1e40029294a44b7591ee6a14d9bed25a.md) | 2023-12-31 | - |  | - | - |
-| [Jawbreaker](games/j/jawbreaker.md) | 2023-12-31 | - |  | - | - |
-| [KibaGames](games/d/d9dec92aafc5427699be1f9a259dba83.md) | 2023-12-31 | - |  | - | - |
-| [KURT ´99 - THE FOOTBALL MANAGER](games/9/981beb9f5f3046f39a6d9d89400fce24.md) | 2023-12-31 | - |  | - | - |
-| [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 2023-12-31 | - |  | - | - |
-| [Love Money Rock-n-Roll](games/a/a0a1f3864fe74447bcd8511abe8a2745.md) | 2023-12-31 | 18 (1,000 XP) | 0 | - | - |
-| [Mara's Quest](games/m/mara's_quest.md) | 2023-12-31 | - |  | - | - |
-| [Monster Coming](games/3/36b8a835391149e7b9a755fb3eb21f61.md) | 2023-12-31 | - |  | - | - |
-| [Moon Village Simulator](games/m/moon_village_simulator.md) | 2023-12-31 | - |  | - | - |
-| [Mushrooms: Forest Walker](games/m/mushrooms__forest_walker.md) | 2023-12-31 | - |  | - | - |
-| [Ova Magica](games/o/ova_magica.md) | 2023-12-31 | - |  | - | - |
-| [Parkour Legends](games/p/parkour_legends.md) | 2023-12-31 | - |  | - | - |
-| [PUGS Agents](games/p/pugs_agents.md) | 2023-12-31 | - |  | - | - |
-| [Quest Master](games/9/9e2b675e684a484997fa4794a6ede505.md) | 2023-12-31 | - |  | - | - |
-| [RAWMEN: Food Fighter Arena 🍜](games/r/rawmen__food_fighter_arena_🍜.md) | 2023-12-31 | - |  | - | 0 |
-| [Realms of Alterra: Prologue](games/d/d779b7aef075456b9b056a8eb4172819.md) | 2023-12-31 | - |  | - | - |
-| [Ring of Life: Survive in Proxima](games/r/ring_of_life__survive_in_proxima.md) | 2023-12-31 | - |  | - | - |
-| [Runeroots TD](games/2/2f169ae019ee48318209c0aebef2b378.md) | 2023-12-31 | - |  | - | - |
-| [Saloon Simulator](games/6/678afb6b7fea4643a800b5e1783347b7.md) | 2023-12-31 | - |  | - | - |
-| [Super BUFF HD](games/7/74b34f2f86db48579e9f785686886111.md) | 2023-12-31 | - |  | - | - |
-| [Supergalactix](games/s/supergalactix.md) | 2023-12-31 | - |  | - | - |
-| [Tenement](games/7/78d14ec62d2a41d095ac4facc9278617.md) | 2023-12-31 | 60 (1,000 XP) | 1 | - | - |
-| [Tents and Trees](games/c/c3ee706f06354a7ca940a71fc28aa887.md) | 2023-12-31 | - |  | - | - |
-| [The Artifact Hunter](games/t/the_artifact_hunter.md) | 2023-12-31 | - |  | - | - |
-| [The World of Nifty Craft](games/9/9fdb4607f27248eaa4a0e72b346ec8e7.md) | 2023-12-31 | - |  | - | - |
-| [Valfaris Mecha Therion](games/v/valfaris_mecha_therion.md) | 2023-12-31 | - |  | - | - |
-| [Warpaws](games/w/warpaws.md) | 2023-12-31 | - |  | - | - |
-| [WORLD OF ART - learn with JIGSAW PUZZLES](games/3/36bcb7861f4e48adbdb7adbe04b683e0.md) | 2023-12-31 | 100 (1,000 XP) | 0 | - | - |
 | [ZiDouQianWen](games/7/7c7aa850307342108a352d7d56864bf7.md) | 2023-12-31 | - |  | - | - |
 | [Xijiang Shipyard](games/6/6fea3a78e2014e14ab7f71ffdeb363e5.md) | 2024-01-01 | - |  | - | - |
 | [Galaxy Trek](games/4/4919b570ebfa4685848e6d7ff19dcc61.md) | 2024-01-01 | - |  | - | - |
