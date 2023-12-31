@@ -2208,7 +2208,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16044,
+  "EOS_Progressed": 16045,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
@@ -18668,6 +18668,11 @@
       "Time": "2023-12-31T04:11:03.9500482+00:00",
       "NumProgressed": 16044,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-31T11:11:08.7160767+00:00",
+      "NumProgressed": 16045,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20485,9 +20490,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
       "SetID": "7l38kb8",
       "Name": "Babylonian Paganism",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
@@ -20757,9 +20762,9 @@
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
       "SetID": "9201eeb",
       "Name": "Phalangite",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_UNIT_SIEGE_TOWER",
@@ -21542,21 +21547,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16044,
+      "Progressed": 16045,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16044,
+      "Progressed": 16045,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-29T16:02:55.9624641+00:00",
-  "LastChanged_Achievements": "2023-12-31T10:10:28.4524449+00:00",
+  "LastChanged_Achievements": "2023-12-31T11:11:08.7160765+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2023-12-31T10:03:09.4461294+00:00",
-  "LastUpdate_Achievements": "2023-12-31T10:10:28.4534868+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:03:12.9865413+00:00",
+  "LastUpdate_Achievements": "2023-12-31T11:11:08.7171133+00:00"
 }

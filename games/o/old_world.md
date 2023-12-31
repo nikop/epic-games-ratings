@@ -38,6 +38,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 0.50% | ~80 |
 | Pyramids | 0.50% | ~80 |
 | Learn to Play 1 | 0.50% | ~80 |
+| Babylonian Paganism | 0.50% | ~80 |
 | Naming Landmarks | 0.50% | ~80 |
 | Regicide | 0.40% | ~64 |
 | Brilliant | 0.40% | ~64 |
@@ -48,7 +49,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 0.40% | ~64 |
 | Great Ziggurat | 0.40% | ~64 |
 | Christianity | 0.40% | ~64 |
-| Babylonian Paganism | 0.40% | ~64 |
 | Carthaginian Paganism | 0.40% | ~64 |
 | Roman Paganism | 0.40% | ~64 |
 | Zoroastrianism | 0.40% | ~64 |
@@ -109,6 +109,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 0.20% | ~32 |
 | Cimmerian Archer | 0.20% | ~32 |
 | Legionary | 0.20% | ~32 |
+| Phalangite | 0.20% | ~32 |
 | Double Victory | 0.20% | ~32 |
 | The Clergy | 0.20% | ~32 |
 | Centenarian | 0.10% | ~16 |
@@ -232,7 +233,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cataphract Archer | 0.10% | ~16 |
 | Three Man Chariot | 0.10% | ~16 |
 | Kushite Cavalry | 0.10% | ~16 |
-| Phalangite | 0.10% | ~16 |
 | Siege Tower | 0.10% | ~16 |
 | Turreted Elephant | 0.10% | ~16 |
 | Great Ziggurat in Ur | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,044 (Ranked 165)  
+Progressed: 16,045 (Ranked 165)  
 Completed: 5 (0.03%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -620,7 +620,7 @@ Completed: 5 (0.03%) (Ranked 351)
 | 2023-12-28 | 15,997 | 5 |
 | 2023-12-29 | 16,011 | 5 |
 | 2023-12-30 | 16,036 | 5 |
-| 2023-12-31 | 16,044 | 5 |
+| 2023-12-31 | 16,045 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 284)  
 Sum: 1,912 (Ranked 220)  

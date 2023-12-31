@@ -396,7 +396,7 @@
   ],
   "EOS_Progressed": 5159,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -4477,9 +4477,9 @@
       "ID": "ID_ACHIEV_09",
       "SetID": "98bke8c",
       "Name": "Sorry, I Dropped This",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3921
+      "UsersEstimate": 3972
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -4861,9 +4861,9 @@
       "ID": "ID_ACHIEV_58",
       "SetID": "98bke8c",
       "Name": "Is This Real Life?",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 413
+      "UsersEstimate": 464
     },
     {
       "ID": "ID_ACHIEV_59",
@@ -4957,8 +4957,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-24T15:57:46.3755439+00:00",
-  "LastChanged_Achievements": "2023-12-31T10:08:24.5368022+00:00",
+  "LastChanged_Achievements": "2023-12-31T11:08:23.7244276+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5404504+00:00",
-  "LastUpdate_Ratings": "2023-12-31T09:57:26.0040667+00:00",
-  "LastUpdate_Achievements": "2023-12-31T10:08:24.5368816+00:00"
+  "LastUpdate_Ratings": "2023-12-31T10:57:49.6794704+00:00",
+  "LastUpdate_Achievements": "2023-12-31T11:08:23.7245466+00:00"
 }

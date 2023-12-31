@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 472,
+  "EOS_Progressed": 473,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1685,6 +1685,11 @@
       "Time": "2023-12-31T07:10:53.1916014+00:00",
       "NumProgressed": 472,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T11:11:03.9943012+00:00",
+      "NumProgressed": 473,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1912,7 +1917,7 @@
       "Name": "The spiritual world...",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "FAITH_2",
@@ -2022,9 +2027,9 @@
       "ID": "GREEN_AREAS_1",
       "SetID": "44dlcg0",
       "Name": "I like parks",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 76
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -2054,9 +2059,9 @@
       "ID": "MILLS",
       "SetID": "44dlcg0",
       "Name": "Clean energy",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 24
     },
     {
       "ID": "MURICA_1",
@@ -2302,9 +2307,9 @@
       "ID": "VILLAS",
       "SetID": "44dlcg0",
       "Name": "Bucolic city",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 24
     },
     {
       "ID": "WELFARE_1",
@@ -2327,7 +2332,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 472,
+      "Progressed": 473,
       "Completed": 0
     }
   ],
@@ -2335,8 +2340,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-12-31T10:10:24.2434539+00:00",
+  "LastChanged_Achievements": "2023-12-31T11:11:03.994301+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:29.1030987+00:00",
-  "LastUpdate_Ratings": "2023-12-31T10:03:01.3364917+00:00",
-  "LastUpdate_Achievements": "2023-12-31T10:10:24.243527+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:03:01.2223917+00:00",
+  "LastUpdate_Achievements": "2023-12-31T11:11:03.9943736+00:00"
 }

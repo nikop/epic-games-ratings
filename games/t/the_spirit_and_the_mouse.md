@@ -15,15 +15,15 @@
 | That's one way to travel | 42.00% | ~34 |
 | The Old Man and the Café | 40.00% | ~32 |
 | South Town Energy | 33.00% | ~27 |
-| North Town Energy | 30.00% | ~24 |
+| North Town Energy | 31.00% | ~25 |
 | Photogenic | 30.00% | ~24 |
 | The Girl and the Homework | 28.00% | ~23 |
 | OK, I heard you!! | 28.00% | ~23 |
 | Unlimited Power!! | 26.00% | ~21 |
 | Lightbulb Detective | 26.00% | ~21 |
-| Cartographer | 21.00% | ~17 |
+| Cartographer | 22.00% | ~18 |
+| The Quiche and the Hair Dryer | 21.00% | ~17 |
 | South Square Lightbulbs | 20.00% | ~16 |
-| The Quiche and the Hair Dryer | 20.00% | ~16 |
 | The Ghost and the Lamps | 19.00% | ~15 |
 | West Residence Energy | 17.00% | ~14 |
 | The Woman and the Pizzeria | 17.00% | ~14 |

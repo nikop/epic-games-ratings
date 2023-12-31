@@ -6,23 +6,23 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~25,792 |
-| Exploitative | 4.00% | ~20,634 |
-| Point Shooting | 4.00% | ~20,634 |
-| Wet Feet | 4.00% | ~20,634 |
-| High Speed Low Drag | 3.00% | ~15,475 |
-| Lucky | 3.00% | ~15,475 |
-| Stylin' | 3.00% | ~15,475 |
-| Turf War | 3.00% | ~15,475 |
+| Wallbanger | 5.00% | ~25,793 |
+| Exploitative | 4.00% | ~20,635 |
+| Point Shooting | 4.00% | ~20,635 |
+| Wet Feet | 4.00% | ~20,635 |
+| High Speed Low Drag | 3.00% | ~15,476 |
+| Lucky | 3.00% | ~15,476 |
+| Stylin' | 3.00% | ~15,476 |
+| Turf War | 3.00% | ~15,476 |
 | Banged | 2.00% | ~10,317 |
 | Checkpoint Victory | 2.00% | ~10,317 |
 | First Blood | 2.00% | ~10,317 |
 | Flaccid Paralysis | 2.00% | ~10,317 |
 | Push Victory | 2.00% | ~10,317 |
 | Self-destructive | 2.00% | ~10,317 |
-| Blindfire | 1.00% | ~5,158 |
-| Ruthless | 1.00% | ~5,158 |
-| Semper Paratus | 1.00% | ~5,158 |
+| Blindfire | 1.00% | ~5,159 |
+| Ruthless | 1.00% | ~5,159 |
+| Semper Paratus | 1.00% | ~5,159 |
 | Carrying | 0.90% | ~4,643 |
 | Efficient | 0.90% | ~4,643 |
 | Mount & Gun | 0.90% | ~4,643 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~516 |
 | Road Hazard | 0.10% | ~516 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 515,845 (Ranked 37)  
+Progressed: 515,867 (Ranked 37)  
 Completed: 2 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,10 +297,10 @@ Completed: 2 (0.00%) (Ranked 391)
 | 2023-12-28 | 513,607 | 2 |
 | 2023-12-29 | 514,451 | 2 |
 | 2023-12-30 | 515,422 | 2 |
-| 2023-12-31 | 515,845 | 2 |
+| 2023-12-31 | 515,867 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 415  (Ranked 237)  
-Sum: 3,305 (Ranked 178)  
+Sum: 3,307 (Ranked 178)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -310,7 +310,7 @@ Diff (max vs sum): 59
 | This game has Competitive Players | 380 |
 | This game is Highly Recommended | 366 |
 | This game has Realistic Visuals | 357 |
-| This game has Amazing Characters | 348 |
+| This game has Amazing Characters | 350 |
 | This game has Amazing Storytelling | 337 |
 | This game has a Competitive Community | 311 |
 | This game has Obsessive Gameplay | 156 |
@@ -642,4 +642,4 @@ Diff (max vs sum): 59
 | 2023-12-28 | 4.61 | - | 413 | 3,294 |
 | 2023-12-29 | 4.61 | - | 413 | 3,299 |
 | 2023-12-30 | 4.61 | - | 415 | 3,303 |
-| 2023-12-31 | 4.61 | - | 415 | 3,305 |
+| 2023-12-31 | 4.61 | - | 415 | 3,307 |

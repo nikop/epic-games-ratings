@@ -10,11 +10,11 @@ Rating: 4.63 (Ranked 357)
 | A Wonderful Discovery | 10.00% | ~659 |
 | Walls Cannot Stop Us | 10.00% | ~659 |
 | From Friends to Family | 9.00% | ~593 |
-| Bone Peddler | 8.00% | ~527 |
-| Magical Synergy | 7.00% | ~461 |
-| There Can Only Be One! | 6.00% | ~395 |
-| Full Ascension | 6.00% | ~395 |
-| Seat of Power | 6.00% | ~395 |
+| Bone Peddler | 8.00% | ~528 |
+| Magical Synergy | 7.00% | ~462 |
+| There Can Only Be One! | 6.00% | ~396 |
+| Full Ascension | 6.00% | ~396 |
+| Seat of Power | 6.00% | ~396 |
 | Valley of Wonders | 5.00% | ~330 |
 | Stronger Together | 5.00% | ~330 |
 | In a Liege of Your Own | 5.00% | ~330 |
@@ -44,12 +44,12 @@ Rating: 4.63 (Ranked 357)
 | Lord of Chaos | 1.00% | ~66 |
 | The Goddess of Nature | 1.00% | ~66 |
 | Eternal Lord | 1.00% | ~66 |
+| Manufactured War | 1.00% | ~66 |
 | The Eternal Court | 1.00% | ~66 |
 | Prometheus Avenged | 1.00% | ~66 |
 | Seal the Deal | 1.00% | ~66 |
 | A Conqueror's Cohort | 1.00% | ~66 |
 | Dawn of the Dread | 1.00% | ~66 |
-| Manufactured War | 0.90% | ~59 |
 | Pruning for Progress | 0.90% | ~59 |
 | Grexolis | 0.80% | ~53 |
 | One for All, All for One | 0.80% | ~53 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 357)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,591 (Ranked 195)  
+Progressed: 6,594 (Ranked 195)  
 Completed: 7 (0.11%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 7 (0.11%) (Ranked 303)
 | 2023-12-28 | 6,414 | 7 |
 | 2023-12-29 | 6,495 | 7 |
 | 2023-12-30 | 6,566 | 7 |
-| 2023-12-31 | 6,591 | 7 |
+| 2023-12-31 | 6,594 | 7 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 478)  
 Sum: 164 (Ranked 435)  

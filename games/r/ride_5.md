@@ -16,7 +16,7 @@ Rating: 4.48 (Ranked 650)
 | Quick Pit Stop | 21.00% | ~661 |
 | Restored and Ready | 20.00% | ~629 |
 | I Want One Too! | 20.00% | ~629 |
-| Legendary!!! | 19.00% | ~598 |
+| Legendary!!! | 20.00% | ~629 |
 | Go-Faster Stripes | 17.00% | ~535 |
 | I'm Here Too! | 15.00% | ~472 |
 | We've Just Begun | 14.00% | ~440 |

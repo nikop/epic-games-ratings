@@ -5,16 +5,16 @@ Rating: 4.55 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~14,335 |
-| Pay 'n' Spray | 50.00% | ~8,848 |
-| All Dressed Up for San Fierro | 25.00% | ~4,424 |
-| The American Dream | 18.00% | ~3,185 |
-| School's Out | 18.00% | ~3,185 |
-| Smooth Moves | 17.00% | ~3,008 |
-| What happens in Las Venturas... | 14.00% | ~2,478 |
-| Today Was a Good Day | 14.00% | ~2,478 |
-| Horror of the Santa Maria | 10.00% | ~1,770 |
-| Liberty City State of Mind | 9.00% | ~1,593 |
+| Getting Started | 81.00% | ~14,342 |
+| Pay 'n' Spray | 50.00% | ~8,853 |
+| All Dressed Up for San Fierro | 25.00% | ~4,426 |
+| The American Dream | 18.00% | ~3,187 |
+| School's Out | 18.00% | ~3,187 |
+| Smooth Moves | 17.00% | ~3,010 |
+| What happens in Las Venturas... | 14.00% | ~2,479 |
+| Today Was a Good Day | 14.00% | ~2,479 |
+| Horror of the Santa Maria | 10.00% | ~1,771 |
+| Liberty City State of Mind | 9.00% | ~1,594 |
 | Original Gangster | 8.00% | ~1,416 |
 | With Extra Dip | 7.00% | ~1,239 |
 | The End of the Line | 7.00% | ~1,239 |
@@ -38,10 +38,10 @@ Rating: 4.55 (Ranked 522)
 | Not a Player | 1.00% | ~177 |
 | Chick Magnet | 1.00% | ~177 |
 | Remastered | 0.70% | ~124 |
-| ...Here we go again | 0.50% | ~88 |
+| ...Here we go again | 0.50% | ~89 |
 | I Ain't No Buster | 0.40% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,697 (Ranked 158)  
+Progressed: 17,706 (Ranked 158)  
 Completed: 66 (0.37%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,10 +296,10 @@ Completed: 66 (0.37%) (Ranked 235)
 | 2023-12-28 | 17,305 | 64 |
 | 2023-12-29 | 17,467 | 65 |
 | 2023-12-30 | 17,622 | 66 |
-| 2023-12-31 | 17,697 | 66 |
+| 2023-12-31 | 17,706 | 66 |
 ## Awards
 Max (Great Boss Battles): 557  (Ranked 213)  
-Sum: 867 (Ranked 284)  
+Sum: 870 (Ranked 284)  
 Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
@@ -307,8 +307,8 @@ Diff (max vs sum): -71
 | This game is Relaxing | 49 |
 | This game has Amazing Characters | 46 |
 | This game is Great for Beginners | 44 |
+| This game has Amazing Storytelling | 41 |
 | This game is Highly Recommended | 40 |
-| This game has Amazing Storytelling | 38 |
 | This game is Extremely Fun | 31 |
 | This game has Quickly Understood Controls | 31 |
 | This game has Diverse Characters | 31 |
@@ -532,4 +532,4 @@ Diff (max vs sum): -71
 | 2023-12-28 | 4.54 | 538 | 817 |
 | 2023-12-29 | 4.54 | 545 | 805 |
 | 2023-12-30 | 4.55 | 557 | 866 |
-| 2023-12-31 | 4.55 | 557 | 867 |
+| 2023-12-31 | 4.55 | 557 | 870 |

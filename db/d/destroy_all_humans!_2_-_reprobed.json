@@ -2,7 +2,7 @@
   "ID": "4d62b26703d24f6d919750b3d88b6d52",
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
-  "Ranking_Rating": 542,
+  "Ranking_Rating": 557,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 521,
   "Ranking_EOS_Progress": 399,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.54,
+  "Rating": 4.53,
   "NumberOfRatings": 90,
   "RatingHistory": [
     {
@@ -268,6 +268,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 36,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-12-31T11:01:39.7283209+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 36,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
@@ -284,7 +290,7 @@
   ],
   "EOS_Progressed": 265,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1650,9 +1656,9 @@
       "ID": "ACH_UNLOCK_BURROW_BEAST",
       "SetID": "4n84pon",
       "Name": "Arkvoodle Doodle",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_UPGRADE_CRYPTO",
@@ -1682,9 +1688,9 @@
   "FirstSeen": "2022-08-30T21:00:25.2604466+00:00",
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
-  "LastChanged": "2023-12-28T10:58:39.1665152+00:00",
-  "LastChanged_Achievements": "2023-12-31T10:09:24.0815914+00:00",
+  "LastChanged": "2023-12-31T11:01:39.7283208+00:00",
+  "LastChanged_Achievements": "2023-12-31T11:09:44.2324477+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2023-12-31T10:00:11.0735892+00:00",
-  "LastUpdate_Achievements": "2023-12-31T10:09:24.0816252+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:01:39.7283212+00:00",
+  "LastUpdate_Achievements": "2023-12-31T11:09:44.2324884+00:00"
 }

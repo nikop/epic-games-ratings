@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -1002,9 +1002,9 @@
       "ID": "w3",
       "SetID": "b1ggf28",
       "Name": "Luxury Clothes",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "x1",
@@ -1089,8 +1089,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-31T10:04:20.5084964+00:00",
+  "LastChanged_Achievements": "2023-12-31T11:04:55.1253342+00:00",
   "LastUpdate_AppInfo": "2023-12-27T04:56:58.3049887+00:00",
-  "LastUpdate_Ratings": "2023-12-31T10:03:07.1058828+00:00",
-  "LastUpdate_Achievements": "2023-12-31T10:04:20.5085343+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:03:09.2754336+00:00",
+  "LastUpdate_Achievements": "2023-12-31T11:04:55.1253709+00:00"
 }

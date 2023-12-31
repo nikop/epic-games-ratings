@@ -8,7 +8,7 @@ Number of Ratings: 62  (23.09.2022)
 | ---- | ---------- | ----- |
 | On My Own Two Feet | 94.00% | ~4,849 |
 | I'll Be Back | 84.00% | ~4,334 |
-| Sorry, I Dropped This | 76.00% | ~3,921 |
+| Sorry, I Dropped This | 77.00% | ~3,972 |
 | First Day on the Job | 76.00% | ~3,921 |
 | Butcher's Bill | 54.00% | ~2,786 |
 | P.A.X | 37.00% | ~1,909 |
@@ -34,10 +34,10 @@ Number of Ratings: 62  (23.09.2022)
 | Melting Down | 9.00% | ~464 |
 | Raging Drones | 9.00% | ~464 |
 | Overconfident | 9.00% | ~464 |
+| Is This Real Life? | 9.00% | ~464 |
 | Pusher Man | 8.00% | ~413 |
 | Squad Chief Helvig | 8.00% | ~413 |
 | No More Marching | 8.00% | ~413 |
-| Is This Real Life? | 8.00% | ~413 |
 | Duty-Bound | 7.00% | ~361 |
 | Follow the White Rabbit | 7.00% | ~361 |
 | Liberation | 7.00% | ~361 |

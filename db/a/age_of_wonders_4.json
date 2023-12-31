@@ -657,9 +657,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6591,
+  "EOS_Progressed": 6594,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 488,
+  "EOS_NewPlayers": 489,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9852,6 +9852,11 @@
       "Time": "2023-12-31T09:05:27.6750229+00:00",
       "NumProgressed": 6591,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-31T11:07:19.0013822+00:00",
+      "NumProgressed": 6594,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9879,7 +9884,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "12",
@@ -9903,7 +9908,7 @@
       "Name": "Full Ascension",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "15",
@@ -10007,7 +10012,7 @@
       "Name": "Bone Peddler",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "27",
@@ -10055,7 +10060,7 @@
       "Name": "Magical Synergy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "32",
@@ -10071,7 +10076,7 @@
       "Name": "Seat of Power",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "34",
@@ -10109,9 +10114,9 @@
       "ID": "38",
       "SetID": "3aa2279",
       "Name": "Manufactured War",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 66
     },
     {
       "ID": "39",
@@ -10342,13 +10347,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6591,
+      "Progressed": 6594,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6591,
+      "Progressed": 6594,
       "Completed": 7
     }
   ],
@@ -10356,8 +10361,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-31T09:58:31.9024094+00:00",
-  "LastChanged_Achievements": "2023-12-31T10:06:07.7150063+00:00",
+  "LastChanged_Achievements": "2023-12-31T11:07:19.0013818+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2023-12-31T09:58:31.9024101+00:00",
-  "LastUpdate_Achievements": "2023-12-31T10:06:07.7151076+00:00"
+  "LastUpdate_Ratings": "2023-12-31T10:59:19.513852+00:00",
+  "LastUpdate_Achievements": "2023-12-31T11:07:19.0014565+00:00"
 }

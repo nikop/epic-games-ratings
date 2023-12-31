@@ -2,11 +2,11 @@
   "ID": "b3d490d845c040ee82fd02f400ab0efc",
   "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
   "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
-  "Ranking_Rating": 299,
+  "Ranking_Rating": 298,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 337,
-  "Ranking_EOS_Completed": 181,
+  "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
@@ -317,11 +317,11 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 563,
+  "EOS_Progressed": 565,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 0.89,
+  "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -1537,6 +1537,11 @@
       "Time": "2023-12-31T10:08:27.6638567+00:00",
       "NumProgressed": 563,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-31T11:08:28.0497597+00:00",
+      "NumProgressed": 565,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1589,7 +1594,7 @@
       "Name": "Uptown and Downtown",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -1629,7 +1634,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -1651,9 +1656,9 @@
       "ID": "ACH_PRAWN_BOSS",
       "SetID": "biiejkc",
       "Name": "Shrimp Catcher",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
@@ -1685,7 +1690,7 @@
       "Name": "Hit Rock Bottom",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -1804,15 +1809,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 563,
+      "Progressed": 565,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-31T10:08:27.6638563+00:00",
+  "LastChanged_Achievements": "2023-12-31T11:08:28.0497593+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2023-12-31T09:57:41.1249771+00:00",
-  "LastUpdate_Achievements": "2023-12-31T10:08:27.6638862+00:00"
+  "LastUpdate_Ratings": "2023-12-31T10:58:10.374087+00:00",
+  "LastUpdate_Achievements": "2023-12-31T11:08:28.0497857+00:00"
 }

@@ -10350,9 +10350,9 @@
       "Count": 1071
     }
   ],
-  "EOS_Progressed": 130920,
+  "EOS_Progressed": 130923,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1386,
+  "EOS_NewPlayers": 1381,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37650,6 +37650,11 @@
       "Time": "2023-12-31T10:09:52.3774866+00:00",
       "NumProgressed": 130920,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-31T11:10:22.2395661+00:00",
+      "NumProgressed": 130923,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38205,7 +38210,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -38245,7 +38250,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -38253,7 +38258,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "quest_complete_crusader",
@@ -38292,21 +38297,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130920,
+      "Progressed": 130923,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5789,
+      "Progressed": 5792,
       "Completed": 820
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-31T06:57:56.9870785+00:00",
-  "LastChanged_Achievements": "2023-12-31T10:09:52.3774861+00:00",
+  "LastChanged_Achievements": "2023-12-31T11:10:22.2395657+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2023-12-31T09:57:33.9093486+00:00",
-  "LastUpdate_Achievements": "2023-12-31T10:09:52.3776681+00:00"
+  "LastUpdate_Ratings": "2023-12-31T10:58:00.6011316+00:00",
+  "LastUpdate_Achievements": "2023-12-31T11:10:22.2397306+00:00"
 }

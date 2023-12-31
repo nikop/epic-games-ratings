@@ -1,15 +1,15 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 131)  
+Rating: 4.76 (Ranked 132)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,485 |
+| Devoured by Darkness | 27.00% | ~3,486 |
 | A Spark | 19.00% | ~2,453 |
 | Burning City | 18.00% | ~2,324 |
-| Defender's Heart | 16.00% | ~2,065 |
+| Defender's Heart | 16.00% | ~2,066 |
 | Mythic Choices | 15.00% | ~1,936 |
 | Banner over the Citadel | 14.00% | ~1,807 |
 | Queen's Gratitude | 12.00% | ~1,549 |
@@ -19,12 +19,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Demonic and Divine | 7.00% | ~904 |
 | Great Upstart | 6.00% | ~775 |
 | All Paths Open | 6.00% | ~775 |
-| Path of the Azata | 5.00% | ~645 |
-| Transformation | 5.00% | ~645 |
-| The Legacy | 5.00% | ~645 |
-| Voice from Your Dreams | 5.00% | ~645 |
-| Next-Door Play | 5.00% | ~645 |
-| Get the Toad | 5.00% | ~645 |
+| Path of the Azata | 5.00% | ~646 |
+| Transformation | 5.00% | ~646 |
+| The Legacy | 5.00% | ~646 |
+| Voice from Your Dreams | 5.00% | ~646 |
+| Next-Door Play | 5.00% | ~646 |
+| Get the Toad | 5.00% | ~646 |
 | Heart of the Fallen Land | 4.00% | ~516 |
 | Divide and Rule | 4.00% | ~516 |
 | Mythic Reinforcements | 4.00% | ~516 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,909 (Ranked 174)  
+Progressed: 12,910 (Ranked 174)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -378,7 +378,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 12,845 | 0 |
 | 2023-12-29 | 12,867 | 0 |
 | 2023-12-30 | 12,899 | 0 |
-| 2023-12-31 | 12,909 | 0 |
+| 2023-12-31 | 12,910 | 0 |
 ## Awards
 Max (Character Customization): 1,774  (Ranked 126)  
 Sum: 7,179 (Ranked 125)  

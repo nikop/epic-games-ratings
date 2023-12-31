@@ -2,8 +2,8 @@
   "ID": "b5ab16ebd552476688116e187acd2151",
   "Name": "Ten Dates",
   "ProductSlug": "ten-dates-9a188a",
-  "Ranking_EOS_Progress": 356,
-  "Ranking_EOS_Completed": 163,
+  "Ranking_EOS_Progress": 355,
+  "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 432,
+  "EOS_Progressed": 433,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.16,
+  "EOS_Completed_Percentage": 1.15,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:50.5545173+00:00",
@@ -1166,6 +1166,11 @@
       "Time": "2023-12-31T10:09:53.9502479+00:00",
       "NumProgressed": 432,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-31T11:10:24.4143712+00:00",
+      "NumProgressed": 433,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 19,
@@ -1207,9 +1212,9 @@
       "ID": "profile_misha",
       "SetID": "6h5h9ho",
       "Name": "Let it begin",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 199
     },
     {
       "ID": "profile_ryan",
@@ -1217,7 +1222,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ryan_date2_all",
@@ -1328,7 +1333,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 432,
+      "Progressed": 433,
       "Completed": 5
     }
   ],
@@ -1336,8 +1341,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-12-31T10:09:53.9502473+00:00",
+  "LastChanged_Achievements": "2023-12-31T11:10:24.4143708+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:31.6181665+00:00",
-  "LastUpdate_Ratings": "2023-12-31T10:03:01.1066513+00:00",
-  "LastUpdate_Achievements": "2023-12-31T10:09:53.9502669+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:03:00.9318197+00:00",
+  "LastUpdate_Achievements": "2023-12-31T11:10:24.4143947+00:00"
 }

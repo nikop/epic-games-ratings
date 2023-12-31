@@ -456,9 +456,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 326,
+  "EOS_Progressed": 327,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1281,6 +1281,11 @@
       "Time": "2023-12-31T09:04:20.1845807+00:00",
       "NumProgressed": 326,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T11:05:44.7286077+00:00",
+      "NumProgressed": 327,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -1349,7 +1354,7 @@
       "Name": "Increased Capacity",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
@@ -1363,9 +1368,9 @@
       "ID": "Collect_HealthStone_HealUpgrade_1",
       "SetID": "7a5k76n",
       "Name": "Increased Vigor",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 199
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_4",
@@ -1381,7 +1386,7 @@
       "Name": "Fight Fire with Fire",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "Collect_Hollow_Force",
@@ -1411,9 +1416,9 @@
       "ID": "Collect_Lurchers_100000",
       "SetID": "7a5k76n",
       "Name": "Soul Harvester",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 114
     },
     {
       "ID": "Collect_Lurchers_1000000",
@@ -1445,7 +1450,7 @@
       "Name": "Salvation",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "Craft_Enhancement_Balanced_1",
@@ -1469,7 +1474,7 @@
       "Name": "Enhance!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "Crucible_Kill_WickedK",
@@ -1669,15 +1674,15 @@
       "Name": "Egomaniac",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Kill_Sin_Sloth",
       "SetID": "7a5k76n",
       "Name": "Throne Potato",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 128
     },
     {
       "ID": "Kill_Sin_Wrath",
@@ -1701,7 +1706,7 @@
       "Name": "Helping Hand",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "Save_Humans_10",
@@ -1709,7 +1714,7 @@
       "Name": "Crowd Source",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Save_Humans_15",
@@ -1717,7 +1722,7 @@
       "Name": "Community Outreach",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Save_Humans_20",
@@ -1747,9 +1752,9 @@
       "ID": "Spend_AttributePoint_1",
       "SetID": "7a5k76n",
       "Name": "First of many\u2026",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 226
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -1763,9 +1768,9 @@
       "ID": "Spend_AttributePoint_50",
       "SetID": "7a5k76n",
       "Name": "Big Spender",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 78
     },
     {
       "ID": "Unlocked_49_Achievements",
@@ -1789,7 +1794,7 @@
       "Name": "Just the start",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "Upgrade_Weapon_Max",
@@ -1804,15 +1809,15 @@
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 326,
+      "Progressed": 327,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-29T15:59:12.0320887+00:00",
-  "LastChanged_Achievements": "2023-12-31T10:04:57.99249+00:00",
+  "LastChanged_Achievements": "2023-12-31T11:05:44.7286073+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2023-12-31T10:00:08.7056332+00:00",
-  "LastUpdate_Achievements": "2023-12-31T10:04:57.9925337+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:01:36.3220642+00:00",
+  "LastUpdate_Achievements": "2023-12-31T11:05:44.7286517+00:00"
 }

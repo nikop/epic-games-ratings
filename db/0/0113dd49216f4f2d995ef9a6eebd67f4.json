@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -1021,9 +1021,9 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 148
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1069,9 +1069,9 @@
       "ID": "SG_LOSTINASONG",
       "SetID": "bj5g0n4",
       "Name": "Lost In A Song",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "SG_MAESTRO",
@@ -1252,8 +1252,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-31T10:09:17.1635736+00:00",
+  "LastChanged_Achievements": "2023-12-31T11:09:34.74135+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.3127204+00:00",
-  "LastUpdate_Ratings": "2023-12-31T09:58:35.4591374+00:00",
-  "LastUpdate_Achievements": "2023-12-31T10:09:17.1636263+00:00"
+  "LastUpdate_Ratings": "2023-12-31T10:59:24.6647212+00:00",
+  "LastUpdate_Achievements": "2023-12-31T11:09:34.7413894+00:00"
 }

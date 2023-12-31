@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58549,
+  "EOS_Progressed": 58552,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15091,6 +15091,11 @@
       "Time": "2023-12-31T08:04:52.9335335+00:00",
       "NumProgressed": 58549,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-31T11:06:03.8033101+00:00",
+      "NumProgressed": 58552,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -15150,7 +15155,7 @@
       "Name": "Elf Chaser",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "Explorer",
@@ -15198,7 +15203,7 @@
       "Name": "Fool Me Twice",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "FoundAllBackers",
@@ -15262,7 +15267,7 @@
       "Name": "Hi Fiver",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1756
+      "UsersEstimate": 1757
     },
     {
       "ID": "IsThisPossible",
@@ -15334,7 +15339,7 @@
       "Name": "Old School Jammin\u0027",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "PacifistVictory",
@@ -15414,7 +15419,7 @@
       "Name": "Sunflower Master",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2927
+      "UsersEstimate": 2928
     },
     {
       "ID": "Teamwork",
@@ -15438,7 +15443,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4098
+      "UsersEstimate": 4099
     },
     {
       "ID": "TimelySplash",
@@ -15446,7 +15451,7 @@
       "Name": "A Timely Splash",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1756
+      "UsersEstimate": 1757
     },
     {
       "ID": "TotalBummer",
@@ -15470,7 +15475,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "WhyDoIKeepDoingThat",
@@ -15493,7 +15498,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58549,
+      "Progressed": 58552,
       "Completed": 6
     }
   ],
@@ -15501,8 +15506,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-12-31T10:05:11.9745742+00:00",
+  "LastChanged_Achievements": "2023-12-31T11:06:03.8033097+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:00.2032486+00:00",
-  "LastUpdate_Ratings": "2023-12-31T09:58:01.8635689+00:00",
-  "LastUpdate_Achievements": "2023-12-31T10:05:11.9747027+00:00"
+  "LastUpdate_Ratings": "2023-12-31T10:58:37.7968795+00:00",
+  "LastUpdate_Achievements": "2023-12-31T11:06:03.8034096+00:00"
 }

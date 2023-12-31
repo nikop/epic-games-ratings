@@ -6,16 +6,16 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,447 |
-| The Cursed Farmer | 1.00% | ~2,482 |
+| A Brief Tour of the Realms | 3.00% | ~7,448 |
+| The Cursed Farmer | 1.00% | ~2,483 |
 | Beast Intentions | 0.80% | ~1,986 |
 | The Mad Wizard | 0.70% | ~1,738 |
 | Welcome to Sigil | 0.70% | ~1,502 |
 | Fast Food | 0.60% | ~1,287 |
 | The Ring of Regeneration | 0.50% | ~1,241 |
+| The Overgrown Grove | 0.50% | ~1,073 |
 | Were-verpowered | 0.40% | ~993 |
 | Are Ya Chicken? | 0.40% | ~993 |
-| The Overgrown Grove | 0.40% | ~858 |
 | When Tentacles Attack | 0.40% | ~858 |
 | Flames of Avernus | 0.40% | ~858 |
 | Mental Gymnastics | 0.40% | ~858 |
@@ -30,17 +30,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | Misaligned in Sigil | 0.30% | ~644 |
 | Chaos Theory | 0.30% | ~644 |
 | Mind Spike | 0.30% | ~644 |
-| Maddening | 0.20% | ~496 |
-| Beast Mode | 0.20% | ~496 |
-| Terror in the Dark | 0.20% | ~496 |
-| A Mysterious Summons | 0.20% | ~496 |
-| Unearthed Evil | 0.20% | ~496 |
-| The Crumbling Temple | 0.20% | ~496 |
-| Useless Allies | 0.20% | ~496 |
-| Exploring Port Nyanzaru | 0.20% | ~496 |
-| The Contagious Curse | 0.20% | ~496 |
-| Escort to Waterdeep | 0.20% | ~496 |
-| Waterdeep Detours | 0.20% | ~496 |
+| Maddening | 0.20% | ~497 |
+| Beast Mode | 0.20% | ~497 |
+| Terror in the Dark | 0.20% | ~497 |
+| Low Initiative | 0.20% | ~497 |
+| A Mysterious Summons | 0.20% | ~497 |
+| Unearthed Evil | 0.20% | ~497 |
+| The Crumbling Temple | 0.20% | ~497 |
+| Useless Allies | 0.20% | ~497 |
+| Exploring Port Nyanzaru | 0.20% | ~497 |
+| The Contagious Curse | 0.20% | ~497 |
+| Escort to Waterdeep | 0.20% | ~497 |
+| Waterdeep Detours | 0.20% | ~497 |
 | Pros and CONs | 0.10% | ~248 |
 | Upholding the Law | 0.10% | ~248 |
 | Starving in the Jungle | 0.10% | ~248 |
@@ -182,7 +183,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Home Field Advantage | 0.10% | ~248 |
 | Double Vision | 0.10% | ~248 |
 | Underground Railroad | 0.10% | ~248 |
-| Low Initiative | 0.10% | ~248 |
 | Street War | 0.10% | ~248 |
 | Force Grey Unleashed | 0.10% | ~248 |
 | Vajra's Guards | 0.10% | ~248 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~215 |
 | The Brains of an Illithid's Desire | 0.10% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,234 (Ranked 69)  
+Progressed: 248,267 (Ranked 69)  
 Completed: 2,579 (1.04%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -808,7 +808,7 @@ Completed: 2,579 (1.04%) (Ranked 170)
 | 2023-12-28 | 246,305 | 2,573 |
 | 2023-12-29 | 247,120 | 2,575 |
 | 2023-12-30 | 247,917 | 2,578 |
-| 2023-12-31 | 248,234 | 2,579 |
+| 2023-12-31 | 248,267 | 2,579 |
 ## Awards
 Max (Great for Beginners): 5,720  (Ranked 71)  
 Sum: 33,206 (Ranked 41)  

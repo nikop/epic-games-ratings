@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2403,
+  "EOS_Progressed": 2404,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6749,6 +6749,11 @@
       "Time": "2023-12-31T09:09:52.7410937+00:00",
       "NumProgressed": 2403,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T11:11:05.0784248+00:00",
+      "NumProgressed": 2404,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6953,7 +6958,7 @@
       "Name": "Scrap collector",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "achievement_32",
@@ -6961,7 +6966,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "achievement_33",
@@ -7113,7 +7118,7 @@
       "Name": "Shoot first",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "achievement_50",
@@ -7201,7 +7206,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "achievement_60",
@@ -7264,13 +7269,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2403,
+      "Progressed": 2404,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2403,
+      "Progressed": 2404,
       "Completed": 1
     }
   ],
@@ -7278,8 +7283,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-31T10:10:25.1768344+00:00",
+  "LastChanged_Achievements": "2023-12-31T11:11:05.0784246+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.759459+00:00",
-  "LastUpdate_Ratings": "2023-12-31T09:57:58.720516+00:00",
-  "LastUpdate_Achievements": "2023-12-31T10:10:25.1769104+00:00"
+  "LastUpdate_Ratings": "2023-12-31T10:58:33.5530352+00:00",
+  "LastUpdate_Achievements": "2023-12-31T11:11:05.0785011+00:00"
 }

@@ -21,7 +21,7 @@ Rating: 4.29 (Ranked 872)
 | Ascended | 4.00% | ~51 |
 | Incredible Strength | 4.00% | ~51 |
 | Prophecy Fulfilled | 4.00% | ~51 |
-| The Greedy Ones | 3.00% | ~38 |
+| The Greedy Ones | 3.00% | ~39 |
 | The First King | 2.00% | ~26 |
 | The great fire | 2.00% | ~26 |
 | The Unruly Ones | 2.00% | ~26 |
@@ -51,7 +51,7 @@ Rating: 4.29 (Ranked 872)
 | Purist | 0.00% | ~0 |
 | King of the Dice | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,283 (Ranked 272)  
+Progressed: 1,284 (Ranked 272)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 1,270 | 0 |
 | 2023-12-29 | 1,274 | 0 |
 | 2023-12-30 | 1,282 | 0 |
-| 2023-12-31 | 1,283 | 0 |
+| 2023-12-31 | 1,284 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

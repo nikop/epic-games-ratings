@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tastes just like chicken! | 94.00% | ~133 |
-| MLG 360 no scope kill! | 94.00% | ~133 |
-| Are you ready to rumble? | 94.00% | ~133 |
-| That's what cheese said! | 89.00% | ~126 |
-| AHHHHHH.....I'M ON FIRE!!! | 87.00% | ~124 |
+| Tastes just like chicken! | 94.00% | ~134 |
+| MLG 360 no scope kill! | 94.00% | ~134 |
+| Are you ready to rumble? | 94.00% | ~134 |
+| That's what cheese said! | 90.00% | ~129 |
 | I like you...but I have to kill you... | 87.00% | ~124 |
-| Not so hip anymore! | 85.00% | ~121 |
-| Blurry depth perception | 82.00% | ~116 |
-| Nerd | 81.00% | ~115 |
+| AHHHHHH.....I'M ON FIRE!!! | 86.00% | ~123 |
+| Not so hip anymore! | 85.00% | ~122 |
+| Blurry depth perception | 82.00% | ~117 |
+| Nerd | 81.00% | ~116 |
 | Up and down | 80.00% | ~114 |
-| Rolling, Rolling, Rolling | 76.00% | ~108 |
-| Fire-fighter! | 67.00% | ~95 |
-| Oh, you're up to no gouda! | 65.00% | ~92 |
-| Make Love not War-Craft a Mistlefoe | 63.00% | ~89 |
+| Rolling, Rolling, Rolling | 76.00% | ~109 |
+| Fire-fighter! | 66.00% | ~94 |
+| Oh, you're up to no gouda! | 64.00% | ~92 |
+| Make Love not War-Craft a Mistlefoe | 62.00% | ~89 |
 | Meat grinder | 61.00% | ~87 |
 | You're not going to blow me up! | 56.00% | ~80 |
-| Mushroom soup of the day | 54.00% | ~77 |
-| Cockadoodledoo! | 51.00% | ~72 |
+| Mushroom soup of the day | 53.00% | ~76 |
+| Cockadoodledoo! | 51.00% | ~73 |
 | Honk honk! | 49.00% | ~70 |
 | Butcher | 49.00% | ~70 |
-| Thats disgusting! | 49.00% | ~70 |
 | Spare Ribs | 49.00% | ~70 |
-| My pants squeak when I walk | 44.00% | ~62 |
+| Thats disgusting! | 48.00% | ~69 |
+| My pants squeak when I walk | 44.00% | ~63 |
 | Self assessed tax return | 43.00% | ~61 |
 | Surprise!! | 43.00% | ~61 |
 | Haemochromatosis | 40.00% | ~57 |
 | Make America Grate Again | 37.00% | ~53 |
 | Pasta Bolognese | 36.00% | ~51 |
-| You are no match for me, Billy! | 35.00% | ~50 |
 | You can't stop me, bro! | 35.00% | ~50 |
-| Karaoke king | 34.00% | ~48 |
-| Meatballs, coming up! | 32.00% | ~45 |
-| Catch the bus with me! | 32.00% | ~45 |
+| You are no match for me, Billy! | 34.00% | ~49 |
+| Karaoke king | 34.00% | ~49 |
+| Catch the bus with me! | 32.00% | ~46 |
+| Meatballs, coming up! | 31.00% | ~44 |
 | I'm going to get a concussion | 30.00% | ~43 |
 | Another one bites the iron | 29.00% | ~41 |
 | Ripe Meat Off The Bone! | 26.00% | ~37 |
@@ -46,17 +46,17 @@
 | You're not so Big anymore, Boi! | 24.00% | ~34 |
 | Your daily dose of Vitamin C. | 24.00% | ~34 |
 | I cant stand still! | 22.00% | ~31 |
-| Slimy... yet satisfying | 20.00% | ~28 |
-| Master Butcher | 18.00% | ~26 |
-| Just wing it! | 18.00% | ~26 |
+| Slimy... yet satisfying | 20.00% | ~29 |
+| Master Butcher | 17.00% | ~24 |
+| Just wing it! | 17.00% | ~24 |
 | Deal with it | 17.00% | ~24 |
 | Yeehaw!!! | 15.00% | ~21 |
-| You're looking mozzare-hella good! | 13.00% | ~18 |
-| Ancient Ruins of Dirty Feet | 13.00% | ~18 |
-| Timber! | 11.00% | ~16 |
-| Free Of Chains | 11.00% | ~16 |
+| You're looking mozzare-hella good! | 13.00% | ~19 |
+| Ancient Ruins of Dirty Feet | 13.00% | ~19 |
 | Spoiler alert! | 10.00% | ~14 |
+| Timber! | 10.00% | ~14 |
 | Grumpy Immortal | 10.00% | ~14 |
+| Free Of Chains | 10.00% | ~14 |
 | I drink, but I'm not a drunk! | 9.00% | ~13 |
 | Ancient Ruins of Moist Overhangs | 8.00% | ~11 |
 | I want to throw up! | 8.00% | ~11 |
@@ -65,17 +65,17 @@
 | Ancient Ruins of Leaky Roof | 6.00% | ~9 |
 | Ancient Ruins of Misplaced Belongings | 5.00% | ~7 |
 | Ancient Ruins of Stubbed Toes | 5.00% | ~7 |
-| Fifty Shades of Gruyere | 4.00% | ~6 |
-| Ancient Ruins of Empty Echoes | 4.00% | ~6 |
-| Ancient Ruins of Vitamin D Addition | 4.00% | ~6 |
-| Ancient Ruins of Imperfectly Designed Walls | 4.00% | ~6 |
 | Ancient Ruins of Poor Intrusion Prevention | 4.00% | ~6 |
-| Ancient Ruins of Stuffed Pantrys | 4.00% | ~6 |
-| Okay... Maybe I'm a bit drunk... | 4.00% | ~6 |
-| Out of bounds | 4.00% | ~6 |
+| Fifty Shades of Gruyere | 3.00% | ~4 |
+| Ancient Ruins of Empty Echoes | 3.00% | ~4 |
+| Ancient Ruins of Vitamin D Addition | 3.00% | ~4 |
+| Ancient Ruins of Imperfectly Designed Walls | 3.00% | ~4 |
 | Ancient Ruins of Inadequate Opportunities | 3.00% | ~4 |
+| Ancient Ruins of Stuffed Pantrys | 3.00% | ~4 |
 | Ancient Ruins of Chilly Winds | 3.00% | ~4 |
+| Okay... Maybe I'm a bit drunk... | 3.00% | ~4 |
 | European karaoke king | 3.00% | ~4 |
+| Out of bounds | 3.00% | ~4 |
 | Ancient Ruins of Moldy Ceiling | 2.00% | ~3 |
 | Ancient Ruins of Peekaboo | 2.00% | ~3 |
 | Consider it dealt with | 1.00% | ~1 |
@@ -87,7 +87,7 @@
 | Catch me if you can | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142 (Ranked 453)  
+Progressed: 143 (Ranked 451)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,3 +152,4 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 138 | 0 |
 | 2023-12-29 | 140 | 0 |
 | 2023-12-30 | 142 | 0 |
+| 2023-12-31 | 143 | 0 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -169,9 +169,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3170,
+  "EOS_Progressed": 3171,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -5584,6 +5584,11 @@
       "Time": "2023-12-31T10:04:39.7436912+00:00",
       "NumProgressed": 3170,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-31T11:05:21.0357732+00:00",
+      "NumProgressed": 3171,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 53,
@@ -5675,7 +5680,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2441
+      "UsersEstimate": 2442
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -5731,7 +5736,7 @@
       "Name": "Old friend",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -5747,7 +5752,7 @@
       "Name": "Do you trust me?",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "STB_FIND_ALL_SILVERWINGS",
@@ -5771,7 +5776,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2409
+      "UsersEstimate": 2410
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -5779,7 +5784,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 2853
+      "UsersEstimate": 2854
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -5811,7 +5816,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2409
+      "UsersEstimate": 2410
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -5819,7 +5824,7 @@
       "Name": "Thornbarrow",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -5835,7 +5840,7 @@
       "Name": "Devineur",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -5843,7 +5848,7 @@
       "Name": "Sacred Woods",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -5899,7 +5904,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "STB_PET_HORSE",
@@ -5923,7 +5928,7 @@
       "Name": "Back to sleep, then...",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_I",
@@ -5947,7 +5952,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -5971,7 +5976,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2314
+      "UsersEstimate": 2315
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -6018,7 +6023,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3170,
+      "Progressed": 3171,
       "Completed": 18
     }
   ],
@@ -6026,8 +6031,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-30T20:57:35.994685+00:00",
-  "LastChanged_Achievements": "2023-12-31T10:04:39.7436908+00:00",
+  "LastChanged_Achievements": "2023-12-31T11:05:21.035773+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:16.0545663+00:00",
-  "LastUpdate_Ratings": "2023-12-31T09:57:15.0043725+00:00",
-  "LastUpdate_Achievements": "2023-12-31T10:04:39.7437464+00:00"
+  "LastUpdate_Ratings": "2023-12-31T10:57:33.3997465+00:00",
+  "LastUpdate_Achievements": "2023-12-31T11:05:21.035822+00:00"
 }

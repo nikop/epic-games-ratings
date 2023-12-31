@@ -2,7 +2,7 @@
   "ID": "0aaf0617ee0d47df87c0dc93509159dd",
   "Name": "Carcassonne",
   "ProductSlug": "carcassonne",
-  "Ranking_Rating": 299,
+  "Ranking_Rating": 298,
   "Ranking_Popularity": 395,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 819,
@@ -933,6 +933,6 @@
   "FirstSeen": "2022-07-22T20:18:17.016066+00:00",
   "LastChanged": "2023-12-29T13:02:45.8073992+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:58.990263+00:00",
-  "LastUpdate_Ratings": "2023-12-31T10:02:45.0504217+00:00",
-  "LastUpdate_Achievements": "2023-12-31T10:08:51.8241452+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:02:38.0696465+00:00",
+  "LastUpdate_Achievements": "2023-12-31T11:09:00.3809987+00:00"
 }

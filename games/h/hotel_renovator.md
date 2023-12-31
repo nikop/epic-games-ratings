@@ -26,7 +26,7 @@ Rating: 4.35 (Ranked 817)
 | Hotel sleuthing | 26.00% | ~354 |
 | Nearly there | 24.00% | ~326 |
 | Broken heart | 22.00% | ~299 |
-| Island boy | 20.00% | ~272 |
+| Island boy | 21.00% | ~286 |
 | You're a star | 19.00% | ~258 |
 | Unstoppable | 18.00% | ~245 |
 | Reunited | 18.00% | ~245 |

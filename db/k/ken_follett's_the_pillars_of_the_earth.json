@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17517,
+  "EOS_Progressed": 17518,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -17390,6 +17390,11 @@
       "Time": "2023-12-31T10:04:54.3487795+00:00",
       "NumProgressed": 17517,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-12-31T11:05:39.6762399+00:00",
+      "NumProgressed": 17518,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 41,
@@ -17441,7 +17446,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5605
+      "UsersEstimate": 5606
     },
     {
       "ID": "tpote_achievement_15",
@@ -17457,7 +17462,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2452
+      "UsersEstimate": 2453
     },
     {
       "ID": "tpote_achievement_17",
@@ -17513,7 +17518,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3503
+      "UsersEstimate": 3504
     },
     {
       "ID": "tpote_achievement_23",
@@ -17577,7 +17582,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5430
+      "UsersEstimate": 5431
     },
     {
       "ID": "tpote_achievement_30",
@@ -17601,7 +17606,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2452
+      "UsersEstimate": 2453
     },
     {
       "ID": "tpote_achievement_33",
@@ -17728,15 +17733,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17517,
+      "Progressed": 17518,
       "Completed": 122
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2023-12-31T10:04:54.3487793+00:00",
+  "LastChanged_Achievements": "2023-12-31T11:05:39.6762396+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:24.3361109+00:00",
-  "LastUpdate_Ratings": "2023-12-31T10:02:55.2238445+00:00",
-  "LastUpdate_Achievements": "2023-12-31T10:04:54.3488684+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:02:52.6407922+00:00",
+  "LastUpdate_Achievements": "2023-12-31T11:05:39.6763225+00:00"
 }

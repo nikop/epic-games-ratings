@@ -5,25 +5,25 @@ Rating: 4.55 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 106.00% | ~19,068 |
-| Before the Downfall | 101.00% | ~18,169 |
-| Money like Water | 99.00% | ~17,809 |
-| Minimalist | 98.00% | ~17,629 |
-| Builder | 90.00% | ~16,190 |
-| Eraser | 76.00% | ~13,672 |
-| Pocket of Trains | 71.00% | ~12,772 |
-| Inspector | 64.00% | ~11,513 |
-| Going the Distance | 59.00% | ~10,614 |
-| Oil Baron | 46.00% | ~8,275 |
-| Loads-a-Money | 46.00% | ~8,275 |
-| Helper of the People | 43.00% | ~7,735 |
-| Simplification | 37.00% | ~6,656 |
-| Box of Trains | 36.00% | ~6,476 |
-| Let There be Light | 35.00% | ~6,296 |
+| Trevithick's Legacy | 106.00% | ~19,066 |
+| Before the Downfall | 101.00% | ~18,167 |
+| Money like Water | 99.00% | ~17,807 |
+| Minimalist | 98.00% | ~17,627 |
+| Builder | 90.00% | ~16,188 |
+| Eraser | 76.00% | ~13,670 |
+| Pocket of Trains | 71.00% | ~12,771 |
+| Inspector | 64.00% | ~11,512 |
+| Going the Distance | 59.00% | ~10,612 |
+| Oil Baron | 46.00% | ~8,274 |
+| Loads-a-Money | 46.00% | ~8,274 |
+| Helper of the People | 43.00% | ~7,734 |
+| Simplification | 37.00% | ~6,655 |
+| Box of Trains | 36.00% | ~6,475 |
+| Let There be Light | 35.00% | ~6,295 |
 | Hot Water | 33.00% | ~5,936 |
 | Indecisive | 32.00% | ~5,756 |
-| The scenic route | 30.00% | ~5,397 |
-| Industrialist | 27.00% | ~4,857 |
+| The scenic route | 30.00% | ~5,396 |
+| Industrialist | 27.00% | ~4,856 |
 | Perfectionist | 26.00% | ~4,677 |
 | 8K is Enough for Everyone | 25.00% | ~4,497 |
 | Trains over Pipes | 25.00% | ~4,497 |
@@ -33,7 +33,7 @@ Rating: 4.55 (Ranked 522)
 | Multiverse | 8.00% | ~1,439 |
 | The poor groundwater levels | 8.00% | ~1,439 |
 | Metropolis | 8.00% | ~1,439 |
-| High Flier | 4.00% | ~720 |
+| High Flier | 4.00% | ~719 |
 | To infinity, and beyond! | 3.00% | ~540 |
 | Space industrialization | 2.00% | ~360 |
 | Deertastic | 1.00% | ~180 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 522)
 | Overdeer | 0.60% | ~108 |
 | Cloud Services | 0.30% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,989 (Ranked 156)  
+Progressed: 17,987 (Ranked 156)  
 Completed: 26 (0.14%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |

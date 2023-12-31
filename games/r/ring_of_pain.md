@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,085 (Ranked 71)  
+Progressed: 242,089 (Ranked 71)  
 Completed: 302 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -400,16 +400,16 @@ Completed: 302 (0.12%) (Ranked 301)
 | 2023-12-28 | 241,919 | 302 |
 | 2023-12-29 | 241,985 | 302 |
 | 2023-12-30 | 242,061 | 302 |
-| 2023-12-31 | 242,085 | 302 |
+| 2023-12-31 | 242,089 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 134)  
-Sum: 11,773 (Ranked 88)  
+Sum: 11,774 (Ranked 88)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,534 |
 | This game has Quickly Understood Controls | 1,513 |
-| This game has Challenging Combat | 1,446 |
+| This game has Challenging Combat | 1,447 |
 | This game is Relaxing | 1,446 |
 | This game is Extremely Fun | 1,424 |
 | This game is Highly Recommended | 1,395 |
@@ -667,4 +667,4 @@ Diff (max vs sum): 46
 | 2023-12-28 | 4.58 | - | 1,512 | 11,768 |
 | 2023-12-29 | 4.58 | - | 1,513 | 11,769 |
 | 2023-12-30 | 4.58 | - | 1,513 | 11,770 |
-| 2023-12-31 | 4.58 | - | 1,513 | 11,773 |
+| 2023-12-31 | 4.58 | - | 1,513 | 11,774 |

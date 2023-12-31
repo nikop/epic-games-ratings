@@ -2,7 +2,7 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 282,
+  "Ranking_Rating": 260,
   "Ranking_Popularity": 409,
   "Ranking_PopularitySum": 480,
   "Ranking_EOS_Progress": 183,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.68,
   "RatingHistory": [
     {
       "Time": "2023-12-11T06:59:42.897175+00:00",
@@ -213,6 +213,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 73,
       "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2023-12-31T10:59:48.6402884+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 73,
+      "NumberOfAwardsMax": 73
     }
   ],
   "ReviewsDisabled": false,
@@ -227,7 +233,7 @@
       "Count": 73
     }
   ],
-  "EOS_Progressed": 9056,
+  "EOS_Progressed": 9065,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 2033,
   "EOS_NewCompleters": 0,
@@ -3087,6 +3093,11 @@
       "Time": "2023-12-31T10:10:07.9808806+00:00",
       "NumProgressed": 9056,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T11:10:43.1387054+00:00",
+      "NumProgressed": 9065,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3113,9 +3124,9 @@
       "ID": "04_TheTradeEmpire",
       "SetID": "37a94m8",
       "Name": "Trade Empire",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 181
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -3275,7 +3286,7 @@
       "Name": "Highrise",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "25_DynastyProspers",
@@ -3513,9 +3524,9 @@
       "ID": "54_ThisIsAJobForLordCaptain",
       "SetID": "37a94m8",
       "Name": "This Is a Job for the Lord Captain!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 45
     },
     {
       "ID": "55_ReturningTheBoots",
@@ -3618,16 +3629,16 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9056,
+      "Progressed": 9065,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2023-12-30T16:58:43.1218846+00:00",
-  "LastChanged_Achievements": "2023-12-31T10:10:07.98088+00:00",
+  "LastChanged": "2023-12-31T10:59:48.6402882+00:00",
+  "LastChanged_Achievements": "2023-12-31T11:10:43.1387049+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-31T09:58:53.0031431+00:00",
-  "LastUpdate_Achievements": "2023-12-31T10:10:07.9809377+00:00"
+  "LastUpdate_Ratings": "2023-12-31T10:59:48.640289+00:00",
+  "LastUpdate_Achievements": "2023-12-31T11:10:43.1387846+00:00"
 }

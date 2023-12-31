@@ -16,8 +16,8 @@
 | Leisis Bless You | 9.00% | ~11 |
 | Explorer | 8.00% | ~10 |
 | Twin Thorns | 8.00% | ~10 |
+| The River Styx | 7.00% | ~9 |
 | Sommelier | 6.00% | ~8 |
-| The River Styx | 6.00% | ~8 |
 | Sovereignty of Irons | 6.00% | ~8 |
 | A Sandwyrm's Hoard | 6.00% | ~8 |
 | Let Me Solo Them | 5.00% | ~6 |

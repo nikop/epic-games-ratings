@@ -9044,9 +9044,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 478613,
+  "EOS_Progressed": 478614,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34744,6 +34744,11 @@
       "Time": "2023-12-31T10:08:50.0454183+00:00",
       "NumProgressed": 478613,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-12-31T11:08:58.1413004+00:00",
+      "NumProgressed": 478614,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -34811,7 +34816,7 @@
       "Name": "On A Roll",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 124439
+      "UsersEstimate": 124440
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -34939,7 +34944,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 239306
+      "UsersEstimate": 239307
     },
     {
       "ID": "achievement_club_world_cup",
@@ -34955,7 +34960,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 90936
+      "UsersEstimate": 90937
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -34987,7 +34992,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 201017
+      "UsersEstimate": 201018
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -35075,7 +35080,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 196231
+      "UsersEstimate": 196232
     },
     {
       "ID": "achievement_head_to_head",
@@ -35147,7 +35152,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 124439
+      "UsersEstimate": 124440
     },
     {
       "ID": "achievement_mr_delegator",
@@ -35299,7 +35304,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 229734
+      "UsersEstimate": 229735
     },
     {
       "ID": "achievement_signed_a_player",
@@ -35307,7 +35312,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 239306
+      "UsersEstimate": 239307
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -35331,7 +35336,7 @@
       "Name": "Invincible!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 52647
+      "UsersEstimate": 52648
     },
     {
       "ID": "achievement_watch_popup_match_viewer",
@@ -35339,7 +35344,7 @@
       "Name": "Armchair Expert",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 119653
+      "UsersEstimate": 119654
     },
     {
       "ID": "achievement_win_3_consecutive_league_titles",
@@ -35387,7 +35392,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 239306
+      "UsersEstimate": 239307
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -35538,15 +35543,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 478613,
+      "Progressed": 478614,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-12-31T03:59:30.3139401+00:00",
-  "LastChanged_Achievements": "2023-12-31T10:08:50.0454178+00:00",
+  "LastChanged_Achievements": "2023-12-31T11:08:58.1413001+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:28.9554136+00:00",
-  "LastUpdate_Ratings": "2023-12-31T09:58:50.9378149+00:00",
-  "LastUpdate_Achievements": "2023-12-31T10:08:50.0456063+00:00"
+  "LastUpdate_Ratings": "2023-12-31T10:59:45.706705+00:00",
+  "LastUpdate_Achievements": "2023-12-31T11:08:58.1414782+00:00"
 }

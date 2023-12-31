@@ -3,11 +3,11 @@
   "Name": "Redfall",
   "ProductSlug": "redfall",
   "Ranking_Rating": 1079,
-  "Ranking_Popularity": 569,
-  "Ranking_PopularitySum": 570,
+  "Ranking_Popularity": 570,
+  "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2181,
+  "EOS_Progressed": 2183,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3704,6 +3704,11 @@
       "Time": "2023-12-31T05:04:40.6801507+00:00",
       "NumProgressed": 2181,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T11:05:59.3516968+00:00",
+      "NumProgressed": 2183,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3793,9 +3798,9 @@
       "ID": "Achievement_012",
       "SetID": "6b34g18",
       "Name": "Neighborhood Watch",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "Achievement_013",
@@ -3947,7 +3952,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "Achievement_032",
@@ -4001,9 +4006,9 @@
       "ID": "Achievement_038",
       "SetID": "6b34g18",
       "Name": "What Lies Below",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "Achievement_039",
@@ -4242,7 +4247,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2181,
+      "Progressed": 2183,
       "Completed": 0
     }
   ],
@@ -4250,8 +4255,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-30T15:58:59.437701+00:00",
-  "LastChanged_Achievements": "2023-12-31T10:05:08.6901689+00:00",
+  "LastChanged_Achievements": "2023-12-31T11:05:59.3516965+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.8280502+00:00",
-  "LastUpdate_Ratings": "2023-12-31T09:59:08.4929426+00:00",
-  "LastUpdate_Achievements": "2023-12-31T10:05:08.6902291+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:00:10.259757+00:00",
+  "LastUpdate_Achievements": "2023-12-31T11:05:59.3517534+00:00"
 }

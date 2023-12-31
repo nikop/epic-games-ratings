@@ -265,7 +265,7 @@
   "Tags": [],
   "EOS_Progressed": 1360,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
@@ -3385,9 +3385,9 @@
       "ID": "ACH_POSTCARD",
       "SetID": "7k95e4n",
       "Name": "Island boy",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 286
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
@@ -3482,8 +3482,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-29T01:34:53.0019618+00:00",
-  "LastChanged_Achievements": "2023-12-31T10:09:00.8533953+00:00",
+  "LastChanged_Achievements": "2023-12-31T11:09:12.748415+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:25.8678636+00:00",
-  "LastUpdate_Ratings": "2023-12-31T09:59:21.8269762+00:00",
-  "LastUpdate_Achievements": "2023-12-31T10:09:00.8534254+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:00:30.3868873+00:00",
+  "LastUpdate_Achievements": "2023-12-31T11:09:12.7484523+00:00"
 }

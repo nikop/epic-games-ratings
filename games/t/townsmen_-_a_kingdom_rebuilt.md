@@ -32,16 +32,17 @@ Number of Ratings: 37  (23.09.2022)
 | I like to build stuff... III | 5.00% | ~221 |
 | Builder II | 5.00% | ~221 |
 | An honorable Governor II | 5.00% | ~221 |
+| Tax-man IV | 5.00% | ~221 |
 | Conflicting parties | 5.00% | ~221 |
 | Another one bites the dust | 4.00% | ~176 |
 | I like to build stuff... IV | 4.00% | ~176 |
 | Experienced decorator | 4.00% | ~176 |
 | My precious... I | 4.00% | ~176 |
 | Full-time job III | 4.00% | ~176 |
-| Tax-man IV | 4.00% | ~176 |
 | A time consuming game III | 4.00% | ~176 |
 | Tools of the trade II | 4.00% | ~176 |
 | Bread for the people III | 3.00% | ~132 |
+| Five brews are a schnitzel | 3.00% | ~132 |
 | I like to build stuff... V | 3.00% | ~132 |
 | The King's new clothes II | 3.00% | ~132 |
 | Saint Florian | 3.00% | ~132 |
@@ -51,7 +52,6 @@ Number of Ratings: 37  (23.09.2022)
 | A time consuming game IV | 3.00% | ~132 |
 | Out of the frying pan | 3.00% | ~132 |
 | The Art of War | 2.00% | ~88 |
-| Five brews are a schnitzel | 2.00% | ~88 |
 | The King's new clothes III | 2.00% | ~88 |
 | Survivalist | 2.00% | ~88 |
 | My precious... III | 2.00% | ~88 |

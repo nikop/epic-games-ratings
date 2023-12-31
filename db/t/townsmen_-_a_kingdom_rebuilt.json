@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewPlayers": 379,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -1938,9 +1938,9 @@
       "ID": "ACHIEVEMENT_BREWS",
       "SetID": "9eacipp",
       "Name": "Five brews are a schnitzel",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS1",
@@ -2554,9 +2554,9 @@
       "ID": "ACHIEVEMENT_TAXES4",
       "SetID": "9eacipp",
       "Name": "Tax-man IV",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 176
+      "UsersEstimate": 221
     },
     {
       "ID": "ACHIEVEMENT_TAXES5",
@@ -2698,8 +2698,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-12-26T18:02:48.4372833+00:00",
-  "LastChanged_Achievements": "2023-12-31T10:10:27.7093527+00:00",
+  "LastChanged_Achievements": "2023-12-31T11:11:08.0596837+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:20.4533426+00:00",
-  "LastUpdate_Ratings": "2023-12-31T09:58:05.7744521+00:00",
-  "LastUpdate_Achievements": "2023-12-31T10:10:27.7094645+00:00"
+  "LastUpdate_Ratings": "2023-12-31T10:58:43.6566511+00:00",
+  "LastUpdate_Achievements": "2023-12-31T11:11:08.0597846+00:00"
 }

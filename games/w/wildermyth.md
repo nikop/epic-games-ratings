@@ -41,12 +41,12 @@ Number of Ratings: 45  (23.09.2022)
 | Empty the Caves | 0.50% | ~8 |
 | Bonebreakers | 0.50% | ~8 |
 | Wingknight's Prowess | 0.50% | ~8 |
+| Bears are Scary | 0.50% | ~8 |
 | Grillmaster | 0.50% | ~8 |
 | Tempest | 0.50% | ~8 |
 | We Emerge Changed | 0.40% | ~6 |
 | No More Nightmares | 0.40% | ~6 |
 | A Hunger, Sated | 0.40% | ~6 |
-| Bears are Scary | 0.40% | ~6 |
 | Fight Like a Bird | 0.40% | ~6 |
 | Lochias's Hunger | 0.40% | ~6 |
 | The Power of Friendship | 0.30% | ~5 |

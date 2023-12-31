@@ -2226,9 +2226,9 @@
       "ID": "WALKING_FORTRESS",
       "SetID": "62d2oh4",
       "Name": "Walking Fortress",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 68
     },
     {
       "ID": "WELCOME_TO_TRUDOGRAD",
@@ -2251,8 +2251,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-12-29T02:14:41.7987751+00:00",
-  "LastChanged_Achievements": "2023-12-31T10:09:49.1016028+00:00",
+  "LastChanged_Achievements": "2023-12-31T11:10:17.8510738+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:00.3334195+00:00",
-  "LastUpdate_Ratings": "2023-12-31T09:57:05.732491+00:00",
-  "LastUpdate_Achievements": "2023-12-31T10:09:49.1016307+00:00"
+  "LastUpdate_Ratings": "2023-12-31T10:57:20.2465216+00:00",
+  "LastUpdate_Achievements": "2023-12-31T11:10:17.8511157+00:00"
 }

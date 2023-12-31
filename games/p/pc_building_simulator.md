@@ -1,43 +1,43 @@
 # PC Building Simulator
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator)  
 [View Rawdata](../../db/p/pc_building_simulator.json)  
-Rating: 4.66 (Ranked 299)  
+Rating: 4.66 (Ranked 298)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,764,413 |
-| Easy to forget | 46.00% | ~1,656,387 |
-| Back in the black | 39.00% | ~1,404,328 |
-| That's what I'm talking about | 29.00% | ~1,044,244 |
-| The Best of Both Worlds | 25.00% | ~900,210 |
-| Get your wings | 20.00% | ~720,168 |
-| Double trouble | 16.00% | ~576,135 |
-| Smashing it | 11.00% | ~396,093 |
-| But can it run Crysis? | 9.00% | ~324,076 |
-| My favourite feature... | 9.00% | ~324,076 |
-| From humble beginnings... | 7.00% | ~252,059 |
-| Customer satisfaction | 7.00% | ~252,059 |
-| Keeping things neat | 4.00% | ~144,034 |
-| Seems you're pretty good at this | 4.00% | ~144,034 |
-| Bending over backwards | 4.00% | ~144,034 |
-| I'm broke, Uncle! | 3.00% | ~108,025 |
-| Triple threat | 3.00% | ~108,025 |
-| You rock at this! | 3.00% | ~108,025 |
-| Perfection | 3.00% | ~108,025 |
-| Your music sucks | 3.00% | ~108,025 |
+| You need to plug it in... | 49.00% | ~1,764,426 |
+| Easy to forget | 46.00% | ~1,656,400 |
+| Back in the black | 39.00% | ~1,404,339 |
+| That's what I'm talking about | 29.00% | ~1,044,252 |
+| The Best of Both Worlds | 25.00% | ~900,217 |
+| Get your wings | 20.00% | ~720,174 |
+| Double trouble | 16.00% | ~576,139 |
+| Smashing it | 11.00% | ~396,096 |
+| But can it run Crysis? | 9.00% | ~324,078 |
+| My favourite feature... | 9.00% | ~324,078 |
+| From humble beginnings... | 7.00% | ~252,061 |
+| Customer satisfaction | 7.00% | ~252,061 |
+| Keeping things neat | 4.00% | ~144,035 |
+| Seems you're pretty good at this | 4.00% | ~144,035 |
+| Bending over backwards | 4.00% | ~144,035 |
+| I'm broke, Uncle! | 3.00% | ~108,026 |
+| Triple threat | 3.00% | ~108,026 |
+| You rock at this! | 3.00% | ~108,026 |
+| Perfection | 3.00% | ~108,026 |
+| Your music sucks | 3.00% | ~108,026 |
 | Maybe you should try something else? | 2.00% | ~72,017 |
 | Taking care of business | 2.00% | ~72,017 |
 | Things are under control | 2.00% | ~72,017 |
 | Calling in Sick | 2.00% | ~72,017 |
-| Overvolted | 1.00% | ~36,008 |
-| If you fail the first time... | 1.00% | ~36,008 |
-| Amazonian | 1.00% | ~36,008 |
-| Show off | 1.00% | ~36,008 |
-| The Stuart Morton Award for Purpleness | 1.00% | ~36,008 |
-| Building isn't cheap! | 1.00% | ~36,008 |
-| Majority Shareholder | 1.00% | ~36,008 |
-| Owner | 1.00% | ~36,008 |
+| Overvolted | 1.00% | ~36,009 |
+| If you fail the first time... | 1.00% | ~36,009 |
+| Amazonian | 1.00% | ~36,009 |
+| Show off | 1.00% | ~36,009 |
+| The Stuart Morton Award for Purpleness | 1.00% | ~36,009 |
+| Building isn't cheap! | 1.00% | ~36,009 |
+| Majority Shareholder | 1.00% | ~36,009 |
+| Owner | 1.00% | ~36,009 |
 | Work ethic 101 | 0.70% | ~25,206 |
 | Building momentum | 0.60% | ~21,605 |
 | Lead by example | 0.60% | ~21,605 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,601 |
 | Treat yourself - GPU | 0.10% | ~3,601 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,600,842 (Ranked 5)  
+Progressed: 3,600,869 (Ranked 5)  
 Completed: 41 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,14 +314,14 @@ Completed: 41 (0.00%) (Ranked 391)
 | 2023-12-28 | 3,599,396 | 41 |
 | 2023-12-29 | 3,599,975 | 41 |
 | 2023-12-30 | 3,600,609 | 41 |
-| 2023-12-31 | 3,600,842 | 41 |
+| 2023-12-31 | 3,600,869 | 41 |
 ## Awards
-Max (Great for Beginners): 1,123  (Ranked 149)  
-Sum: 8,248 (Ranked 110)  
+Max (Great for Beginners): 1,125  (Ranked 149)  
+Sum: 8,250 (Ranked 110)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 1,123 |
+| This game is Great for Beginners | 1,125 |
 | This game is Educational | 1,021 |
 | This game is Extremely Fun | 1,019 |
 | This game is Relaxing | 1,003 |
@@ -629,4 +629,4 @@ Diff (max vs sum): 39
 | 2023-12-27 | 4.66 | - | 1,123 | 8,243 |
 | 2023-12-29 | 4.66 | - | 1,123 | 8,246 |
 | 2023-12-30 | 4.66 | - | 1,123 | 8,247 |
-| 2023-12-31 | 4.66 | - | 1,123 | 8,248 |
+| 2023-12-31 | 4.66 | - | 1,125 | 8,250 |

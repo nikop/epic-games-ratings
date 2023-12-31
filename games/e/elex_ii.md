@@ -27,9 +27,9 @@ Number of Ratings: 124  (23.09.2022)
 | Banker | 5.00% | ~7 |
 | Hotshot | 5.00% | ~7 |
 | Perfectionist | 5.00% | ~7 |
+| Hunter | 5.00% | ~7 |
 | Free as a Bird | 4.00% | ~6 |
 | Detective | 4.00% | ~6 |
-| Hunter | 4.00% | ~6 |
 | Treasure Hunter | 3.00% | ~4 |
 | Beam Me Up | 3.00% | ~4 |
 | Alchemist | 3.00% | ~4 |

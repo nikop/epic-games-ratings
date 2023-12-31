@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2586,
+  "EOS_Progressed": 2587,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7456,6 +7456,11 @@
       "Time": "2023-12-31T07:06:04.4010398+00:00",
       "NumProgressed": 2586,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T11:05:58.8559347+00:00",
+      "NumProgressed": 2587,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -7467,7 +7472,7 @@
       "Name": "Apprentice",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "A01",
@@ -7475,7 +7480,7 @@
       "Name": "Stoker",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "A02",
@@ -7507,7 +7512,7 @@
       "Name": "A new Hope",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "A06",
@@ -7587,7 +7592,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "A16",
@@ -7603,7 +7608,7 @@
       "Name": "Facility Manager",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     },
     {
       "ID": "A18",
@@ -7619,7 +7624,7 @@
       "Name": "Tycoon",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "A20",
@@ -7627,7 +7632,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1966
     },
     {
       "ID": "A21",
@@ -7691,7 +7696,7 @@
       "Name": "We brake for nobody",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1784
+      "UsersEstimate": 1785
     },
     {
       "ID": "A29",
@@ -7715,7 +7720,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "A32",
@@ -7755,7 +7760,7 @@
       "Name": "Way of Iron",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1836
+      "UsersEstimate": 1837
     },
     {
       "ID": "A37",
@@ -7763,7 +7768,7 @@
       "Name": "All around the World",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "A38",
@@ -7771,7 +7776,7 @@
       "Name": "Poor Devil",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     },
     {
       "ID": "A39",
@@ -7835,7 +7840,7 @@
       "Name": "Mystery Tour",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1810
+      "UsersEstimate": 1811
     },
     {
       "ID": "A47",
@@ -7906,7 +7911,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2586,
+      "Progressed": 2587,
       "Completed": 0
     }
   ],
@@ -7914,8 +7919,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-27T17:00:03.776976+00:00",
-  "LastChanged_Achievements": "2023-12-31T10:05:08.3924106+00:00",
+  "LastChanged_Achievements": "2023-12-31T11:05:58.8559344+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:54.9390802+00:00",
-  "LastUpdate_Ratings": "2023-12-31T09:57:50.0912071+00:00",
-  "LastUpdate_Achievements": "2023-12-31T10:05:08.3924904+00:00"
+  "LastUpdate_Ratings": "2023-12-31T10:58:22.6743631+00:00",
+  "LastUpdate_Achievements": "2023-12-31T11:05:58.8559933+00:00"
 }

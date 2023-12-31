@@ -685,9 +685,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473098,
+  "EOS_Progressed": 473101,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 366,
+  "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27030,6 +27030,11 @@
       "Time": "2023-12-31T10:10:24.616261+00:00",
       "NumProgressed": 473098,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-31T11:11:04.4362493+00:00",
+      "NumProgressed": 473101,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -27129,7 +27134,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312245
+      "UsersEstimate": 312247
     },
     {
       "ID": "achievement_story_landa",
@@ -27161,7 +27166,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118274
+      "UsersEstimate": 118275
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -27225,7 +27230,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160853
+      "UsersEstimate": 160854
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -27465,7 +27470,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 208163
+      "UsersEstimate": 208164
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -27473,7 +27478,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141929
+      "UsersEstimate": 141930
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -27497,7 +27502,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184508
+      "UsersEstimate": 184509
     },
     {
       "ID": "achievement_win_run_hard",
@@ -27505,7 +27510,7 @@
       "Name": "The greatest admiral of all time",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2365
+      "UsersEstimate": 2366
     },
     {
       "ID": "achievement_win_run_with_as",
@@ -27672,21 +27677,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17032,
+      "Progressed": 17035,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473098,
+      "Progressed": 473101,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-12-29T21:58:28.6192346+00:00",
-  "LastChanged_Achievements": "2023-12-31T10:10:24.6162604+00:00",
+  "LastChanged_Achievements": "2023-12-31T11:11:04.436249+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:35.1454991+00:00",
-  "LastUpdate_Ratings": "2023-12-31T09:59:03.8561423+00:00",
-  "LastUpdate_Achievements": "2023-12-31T10:10:24.6164558+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:00:04.1458119+00:00",
+  "LastUpdate_Achievements": "2023-12-31T11:11:04.4364973+00:00"
 }

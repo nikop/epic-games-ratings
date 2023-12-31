@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -261,7 +261,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1155,
+  "EOS_Progressed": 1156,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
@@ -3261,6 +3261,11 @@
       "Time": "2023-12-31T05:05:25.1539463+00:00",
       "NumProgressed": 1155,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T11:06:58.2129575+00:00",
+      "NumProgressed": 1156,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -3272,7 +3277,7 @@
       "Name": "Cabin boy",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "ACH001",
@@ -3326,9 +3331,9 @@
       "ID": "ACH007",
       "SetID": "69nfp41",
       "Name": "My little farm",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 739
+      "UsersEstimate": 728
     },
     {
       "ID": "ACH008",
@@ -3368,7 +3373,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "ACH013",
@@ -3504,7 +3509,7 @@
       "Name": "Licence to Kill",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "ACH030",
@@ -3560,7 +3565,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "ACH037",
@@ -3656,7 +3661,7 @@
       "Name": "Megalomania",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "ACH049",
@@ -3671,15 +3676,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1155,
+      "Progressed": 1156,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2023-12-31T10:05:52.2869005+00:00",
+  "LastChanged_Achievements": "2023-12-31T11:06:58.2129571+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:13.936517+00:00",
-  "LastUpdate_Ratings": "2023-12-31T10:02:37.5386966+00:00",
-  "LastUpdate_Achievements": "2023-12-31T10:05:52.286953+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:01:46.9513222+00:00",
+  "LastUpdate_Achievements": "2023-12-31T11:06:58.2129966+00:00"
 }

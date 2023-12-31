@@ -1,51 +1,51 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.67 (Ranked 282)  
+Rating: 4.66 (Ranked 298)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~12,799 |
-| On the Top Step | 82.00% | ~11,533 |
-| Setting up for Success | 69.00% | ~9,705 |
-| Team Orders | 68.00% | ~9,564 |
-| Engineer | 45.00% | ~6,329 |
-| Familiar Faces | 42.00% | ~5,907 |
-| Going the Extra Mile | 36.00% | ~5,063 |
-| Sharing the Love | 33.00% | ~4,641 |
-| Hitting a Season | 26.00% | ~3,657 |
-| Making History | 25.00% | ~3,516 |
-| A Dozen Pieces | 24.00% | ~3,376 |
-| Network Success | 23.00% | ~3,235 |
-| Challenge Yourself | 23.00% | ~3,235 |
-| Writing a new Chapter | 19.00% | ~2,672 |
-| Spring Cleaning | 18.00% | ~2,532 |
-| Reduce | 15.00% | ~2,110 |
-| Ups and Downs | 15.00% | ~2,110 |
-| Crucial Combo | 13.00% | ~1,828 |
-| Reuse | 12.00% | ~1,688 |
-| Proving Them Wrong | 12.00% | ~1,688 |
-| Gathering Dust | 11.00% | ~1,547 |
-| One for the Book | 11.00% | ~1,547 |
-| Oil and Water | 10.00% | ~1,406 |
-| Friendly Competition | 10.00% | ~1,406 |
-| Switcheroo | 10.00% | ~1,406 |
-| Eagle Eye | 9.00% | ~1,266 |
-| All in a Weekend's Work | 9.00% | ~1,266 |
-| Lightning Round the World | 9.00% | ~1,266 |
-| Hitting a Bullseye | 9.00% | ~1,266 |
-| Spinning Around | 9.00% | ~1,266 |
-| Recycle | 7.00% | ~985 |
-| Undisputed Winner | 6.00% | ~844 |
-| Tinkerer | 6.00% | ~844 |
+| Getting on the Step | 91.00% | ~12,815 |
+| On the Top Step | 82.00% | ~11,547 |
+| Setting up for Success | 69.00% | ~9,717 |
+| Team Orders | 68.00% | ~9,576 |
+| Engineer | 45.00% | ~6,337 |
+| Familiar Faces | 42.00% | ~5,914 |
+| Going the Extra Mile | 36.00% | ~5,070 |
+| Sharing the Love | 33.00% | ~4,647 |
+| Hitting a Season | 26.00% | ~3,661 |
+| Making History | 25.00% | ~3,520 |
+| A Dozen Pieces | 24.00% | ~3,380 |
+| Network Success | 23.00% | ~3,239 |
+| Challenge Yourself | 23.00% | ~3,239 |
+| Writing a new Chapter | 19.00% | ~2,676 |
+| Spring Cleaning | 18.00% | ~2,535 |
+| Reduce | 15.00% | ~2,112 |
+| Ups and Downs | 15.00% | ~2,112 |
+| Crucial Combo | 13.00% | ~1,831 |
+| Reuse | 12.00% | ~1,690 |
+| Proving Them Wrong | 12.00% | ~1,690 |
+| Gathering Dust | 11.00% | ~1,549 |
+| One for the Book | 11.00% | ~1,549 |
+| Oil and Water | 10.00% | ~1,408 |
+| Friendly Competition | 10.00% | ~1,408 |
+| Switcheroo | 10.00% | ~1,408 |
+| Eagle Eye | 9.00% | ~1,267 |
+| All in a Weekend's Work | 9.00% | ~1,267 |
+| Lightning Round the World | 9.00% | ~1,267 |
+| Hitting a Bullseye | 9.00% | ~1,267 |
+| Spinning Around | 9.00% | ~1,267 |
+| Recycle | 7.00% | ~986 |
+| Undisputed Winner | 6.00% | ~845 |
+| Tinkerer | 6.00% | ~845 |
 | For all Those Back at the Factory | 4.00% | ~563 |
 | Living up to Expectations | 4.00% | ~563 |
 | Smooth Operator | 4.00% | ~563 |
 | Peak Performance | 4.00% | ~563 |
 | Loyal Bond | 3.00% | ~422 |
-| Seasoned Rookie | 2.00% | ~281 |
-| Hitting a Century | 2.00% | ~281 |
-| Wait, I know you? | 2.00% | ~281 |
+| Seasoned Rookie | 2.00% | ~282 |
+| Hitting a Century | 2.00% | ~282 |
+| Wait, I know you? | 2.00% | ~282 |
 | Filling in the Gaps | 1.00% | ~141 |
 | Media Darling | 1.00% | ~141 |
 | Saturday Night Drama | 0.90% | ~127 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 282)
 | Shot in the Dark | 0.10% | ~14 |
 | Elite Racer | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,065 (Ranked 170)  
+Progressed: 14,082 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,10 +164,10 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 13,238 | 0 |
 | 2023-12-29 | 13,578 | 0 |
 | 2023-12-30 | 13,937 | 0 |
-| 2023-12-31 | 14,065 | 0 |
+| 2023-12-31 | 14,082 | 0 |
 ## Awards
 Max (Diverse Characters): 50  (Ranked 448)  
-Sum: 333 (Ranked 369)  
+Sum: 334 (Ranked 369)  
 Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
@@ -178,7 +178,7 @@ Diff (max vs sum): 79
 | This game has Quickly Understood Controls | 33 |
 | This game is Extremely Fun | 32 |
 | This game has Amazing Characters | 31 |
-| This game has Challenging Combat | 29 |
+| This game has Challenging Combat | 30 |
 | This game has Amazing Storytelling | 28 |
 | This game is Educational | 26 |
 | This game has Competitive Players | 25 |
@@ -296,4 +296,4 @@ Diff (max vs sum): 79
 | 2023-12-28 | 4.67 | 48 | 321 |
 | 2023-12-29 | 4.66 | 48 | 325 |
 | 2023-12-30 | 4.66 | 50 | 331 |
-| 2023-12-31 | 4.67 | 50 | 333 |
+| 2023-12-31 | 4.67 | 50 | 334 |
