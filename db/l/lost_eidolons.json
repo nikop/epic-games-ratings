@@ -2,13 +2,13 @@
   "ID": "de3677b7bac547128656ac18c5b2f298",
   "Name": "Lost Eidolons",
   "ProductSlug": "lost-eidolons",
-  "Ranking_Rating": 829,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Rating": 828,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 3792,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1132,
+  "EOS_Progressed": 1133,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -7,
+  "EOS_NewPlayers": -6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2196,6 +2196,11 @@
       "Time": "2023-12-30T23:07:08.4219919+00:00",
       "NumProgressed": 1132,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T00:04:50.642276+00:00",
+      "NumProgressed": 1133,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -2279,7 +2284,7 @@
       "Name": "Huntmaster",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "11",
@@ -2359,7 +2364,7 @@
       "Name": "Digging Deep",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "21",
@@ -2390,7 +2395,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1132,
+      "Progressed": 1133,
       "Completed": 1
     }
   ],
@@ -2398,8 +2403,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-12-04T18:59:06.5793648+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:07:08.4219913+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:04:50.6422756+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:47.6931487+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:03:48.1050517+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:07:08.4220107+00:00"
+  "LastUpdate_Ratings": "2023-12-31T00:00:29.4980221+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:04:50.6422964+00:00"
 }

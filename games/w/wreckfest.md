@@ -1,12 +1,12 @@
 # Wreckfest
 [Store](https://store.epicgames.com/en-US/p/wreckfest)  
 [View Rawdata](../../db/w/wreckfest.json)  
-Rating: 4.29 (Ranked 871)  
+Rating: 4.29 (Ranked 872)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Storm Warning | 66.00% | ~382 |
-| Highballer | 42.00% | ~243 |
+| Storm Warning | 66.00% | ~383 |
+| Highballer | 43.00% | ~249 |
 | Dirty Roller | 34.00% | ~197 |
 | Regional Juniors Champion | 33.00% | ~191 |
 | Wheeler Dealer | 25.00% | ~145 |
@@ -15,7 +15,7 @@ Rating: 4.29 (Ranked 871)
 | Hating Them Tin Cans | 16.00% | ~93 |
 | Junk Collector | 15.00% | ~87 |
 | Trashing Around | 15.00% | ~87 |
-| Challengers Champion | 12.00% | ~69 |
+| Challengers Champion | 12.00% | ~70 |
 | Pro Internationals Champion | 8.00% | ~46 |
 | Cash For Crashes | 7.00% | ~41 |
 | Showing Some Dedication | 4.00% | ~23 |
@@ -26,7 +26,7 @@ Rating: 4.29 (Ranked 871)
 | Human Lover | 0.70% | ~4 |
 | Rocketeer | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 579 (Ranked 334)  
+Progressed: 580 (Ranked 334)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -44,6 +44,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 500 | 0 |
 | 2023-12-29 | 537 | 0 |
 | 2023-12-30 | 579 | 0 |
+| 2023-12-31 | 580 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

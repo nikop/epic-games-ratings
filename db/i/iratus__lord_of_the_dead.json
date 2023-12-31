@@ -6,9 +6,9 @@
   "Ranking_Popularity": 113,
   "Ranking_PopularitySum": 157,
   "Ranking_EOS_Progress": 121,
-  "Ranking_EOS_Completed": 335,
+  "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -2461,7 +2461,7 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 48277,
+  "EOS_Progressed": 48278,
   "EOS_Completed": 26,
   "EOS_NewPlayers": 633,
   "EOS_NewCompleters": 0,
@@ -30146,6 +30146,11 @@
       "Time": "2023-12-30T23:08:54.8501017+00:00",
       "NumProgressed": 48277,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-12-31T00:06:04.7620195+00:00",
+      "NumProgressed": 48278,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 75,
@@ -30157,7 +30162,7 @@
       "Name": "That Was Easy!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9655
+      "UsersEstimate": 9656
     },
     {
       "ID": "achievements_10",
@@ -30181,7 +30186,7 @@
       "Name": "Blood Elemental",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 11586
+      "UsersEstimate": 11587
     },
     {
       "ID": "achievements_13",
@@ -30205,7 +30210,7 @@
       "Name": "Keeper of Keys",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 22690
+      "UsersEstimate": 22691
     },
     {
       "ID": "achievements_17",
@@ -30261,7 +30266,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 28966
+      "UsersEstimate": 28967
     },
     {
       "ID": "achievements_24",
@@ -30269,7 +30274,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 26552
+      "UsersEstimate": 26553
     },
     {
       "ID": "achievements_25",
@@ -30341,7 +30346,7 @@
       "Name": "Cannon Fodder - I",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 16414
+      "UsersEstimate": 16415
     },
     {
       "ID": "achievements_33",
@@ -30349,7 +30354,7 @@
       "Name": "Cannon Fodder - II",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 14000
+      "UsersEstimate": 14001
     },
     {
       "ID": "achievements_34",
@@ -30405,7 +30410,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 31380
+      "UsersEstimate": 31381
     },
     {
       "ID": "achievements_40",
@@ -30413,7 +30418,7 @@
       "Name": "Silent Waters",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9655
+      "UsersEstimate": 9656
     },
     {
       "ID": "achievements_41",
@@ -30461,7 +30466,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 41035
+      "UsersEstimate": 41036
     },
     {
       "ID": "achievements_47",
@@ -30493,7 +30498,7 @@
       "Name": "Necromancer\u0027s Apprentice",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 24138
+      "UsersEstimate": 24139
     },
     {
       "ID": "achievements_50",
@@ -30517,7 +30522,7 @@
       "Name": "Transmutation",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 20276
+      "UsersEstimate": 20277
     },
     {
       "ID": "achievements_53",
@@ -30533,7 +30538,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 20759
+      "UsersEstimate": 20760
     },
     {
       "ID": "achievements_55",
@@ -30581,7 +30586,7 @@
       "Name": "Soul of Lies",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 16414
+      "UsersEstimate": 16415
     },
     {
       "ID": "achievements_61",
@@ -30589,7 +30594,7 @@
       "Name": "Head of Order",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9655
+      "UsersEstimate": 9656
     },
     {
       "ID": "achievements_62",
@@ -30605,7 +30610,7 @@
       "Name": "Revealed Secrets - II",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 12069
+      "UsersEstimate": 12070
     },
     {
       "ID": "achievements_64",
@@ -30661,7 +30666,7 @@
       "Name": "Blind Rage",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 18345
+      "UsersEstimate": 18346
     },
     {
       "ID": "achievements_70",
@@ -30669,7 +30674,7 @@
       "Name": "Graveyard Call - III",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "achievements_71",
@@ -30733,7 +30738,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 35242
+      "UsersEstimate": 35243
     },
     {
       "ID": "achievements_8",
@@ -30741,7 +30746,7 @@
       "Name": "Shadow Between Worlds",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 14000
+      "UsersEstimate": 14001
     },
     {
       "ID": "achievements_9",
@@ -30756,15 +30761,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 48277,
+      "Progressed": 48278,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-12-30T15:58:37.8196842+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:08:54.8501008+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:06:04.762019+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:36.2122178+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:00:05.2724343+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:08:54.8502919+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:58:33.9393476+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:06:04.7622801+00:00"
 }

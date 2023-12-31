@@ -1,12 +1,12 @@
 # Disney Dreamlight Valley
 [Store](https://store.epicgames.com/en-US/p/disney-dreamlight-valley)  
 [View Rawdata](../../db/d/disney_dreamlight_valley.json)  
-Rating: 4.76 (Ranked 132)  
+Rating: 4.76 (Ranked 131)  
 Number of Ratings: 1,396  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 67.00% | ~9,044 |
+| Goofy's Investor | 68.00% | ~9,179 |
 | Photographer | 67.00% | ~9,044 |
 | Valley's Helper | 60.00% | ~8,099 |
 | Constructor | 50.00% | ~6,750 |

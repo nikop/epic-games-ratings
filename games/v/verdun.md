@@ -6,23 +6,23 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~53,073 |
-| Worth it | 63.00% | ~42,866 |
-| Eagle Eye | 55.00% | ~37,423 |
-| Corpseman I | 39.00% | ~26,536 |
-| Blast fishing | 37.00% | ~25,176 |
-| Not alone | 32.00% | ~21,773 |
-| Headhunter I | 26.00% | ~17,691 |
-| Manual Labour I | 25.00% | ~17,010 |
-| Developers, Developers, Developers | 24.00% | ~16,330 |
+| Setting an example | 78.00% | ~53,075 |
+| Worth it | 63.00% | ~42,868 |
+| Eagle Eye | 55.00% | ~37,425 |
+| Corpseman I | 39.00% | ~26,538 |
+| Blast fishing | 37.00% | ~25,177 |
+| Not alone | 32.00% | ~21,774 |
+| Headhunter I | 26.00% | ~17,692 |
+| Manual Labour I | 25.00% | ~17,011 |
+| Developers, Developers, Developers | 24.00% | ~16,331 |
 | Basic Training | 23.00% | ~15,650 |
-| Furchtlos und Treu | 13.00% | ~8,845 |
+| Furchtlos und Treu | 13.00% | ~8,846 |
 | Gott Mit Uns | 12.00% | ~8,165 |
 | This We'll Defend! | 9.00% | ~6,124 |
 | Providentiea Memor | 9.00% | ~6,124 |
 | For King and Country | 9.00% | ~6,124 |
-| Battle hardened | 8.00% | ~5,443 |
-| Anker wirf! | 8.00% | ~5,443 |
+| Battle hardened | 8.00% | ~5,444 |
+| Anker wirf! | 8.00% | ~5,444 |
 | Semper Fidelis! | 7.00% | ~4,763 |
 | Honneur et Patrie | 7.00% | ~4,763 |
 | In Treue Fest | 5.00% | ~3,402 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~68 |
 | Blood Brother | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,042 (Ranked 113)  
+Progressed: 68,045 (Ranked 113)  
 Completed: 4 (0.01%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,10 +321,11 @@ Completed: 4 (0.01%) (Ranked 369)
 | 2023-12-28 | 67,802 | 4 |
 | 2023-12-29 | 67,910 | 4 |
 | 2023-12-30 | 68,042 | 4 |
+| 2023-12-31 | 68,045 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 368)  
-Sum: 829 (Ranked 284)  
-Diff (max vs sum): 84  
+Sum: 829 (Ranked 285)  
+Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |

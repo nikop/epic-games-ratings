@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17488,
+  "EOS_Progressed": 17502,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1625,
+  "EOS_NewPlayers": 1629,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10749,6 +10749,11 @@
       "Time": "2023-12-30T23:04:55.5908876+00:00",
       "NumProgressed": 17488,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T00:03:16.2444527+00:00",
+      "NumProgressed": 17502,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -10777,7 +10782,7 @@
       "Name": "INSANE",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_LEVEL188",
@@ -10801,7 +10806,7 @@
       "Name": "MEG",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_RUNFORYOURLIFE",
@@ -10817,7 +10822,7 @@
       "Name": "Secret",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_SUBLEVEL02",
@@ -10825,7 +10830,7 @@
       "Name": "RED",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_SUBLEVEL03",
@@ -10833,7 +10838,7 @@
       "Name": "ICY",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_THEEND",
@@ -10841,7 +10846,7 @@
       "Name": "End?",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_WINELECTRICALSTATION",
@@ -10849,7 +10854,7 @@
       "Name": "Electric",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -10857,7 +10862,7 @@
       "Name": "Level 0",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4372
+      "UsersEstimate": 4376
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -10865,7 +10870,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2099
+      "UsersEstimate": 2100
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -10873,7 +10878,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1924
+      "UsersEstimate": 1925
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -10952,14 +10957,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 17488,
+      "Progressed": 17502,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:04:55.5908871+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:03:16.2444522+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:06.2356641+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:04:03.4141577+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:04:55.5909658+00:00"
+  "LastUpdate_Ratings": "2023-12-31T00:02:39.0999773+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:03:16.2445394+00:00"
 }

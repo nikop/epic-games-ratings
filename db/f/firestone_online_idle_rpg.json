@@ -6,9 +6,9 @@
   "Ranking_Popularity": 478,
   "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 209,
-  "Ranking_EOS_Completed": 335,
+  "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -693,7 +693,7 @@
   ],
   "EOS_Progressed": 3984,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 251,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11558,9 +11558,9 @@
       "ID": "heroinspection",
       "SetID": "3nl4bcg",
       "Name": "Hero inspection",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 518
+      "UsersEstimate": 558
     },
     {
       "ID": "howdoyouturnthison",
@@ -11919,8 +11919,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-29T02:13:48.1079305+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:07:44.7488669+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:05:16.4313685+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:54.8970424+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:01:14.0043241+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:07:44.7489846+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:59:19.9373949+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:05:16.4314598+00:00"
 }

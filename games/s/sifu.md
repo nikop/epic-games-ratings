@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,468 |
-| Life is your teacher | 4.00% | ~29,974 |
-| Lightning Hands | 4.00% | ~29,974 |
-| The Assault | 3.00% | ~22,480 |
+| The Old Grandmaster | 5.00% | ~37,469 |
+| Life is your teacher | 4.00% | ~29,975 |
+| Lightning Hands | 4.00% | ~29,975 |
+| The Assault | 3.00% | ~22,481 |
 | The Hateful Pole Fighter | 2.00% | ~14,987 |
 | A Lady's Blood in the Snow | 2.00% | ~14,987 |
 | Stuntmaster | 2.00% | ~14,987 |
@@ -67,8 +67,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~59 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 749,350 (Ranked 23)  
-Completed: 12,969 (1.73%) (Ranked 142)  
+Progressed: 749,372 (Ranked 23)  
+Completed: 12,970 (1.73%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -322,6 +322,7 @@ Completed: 12,969 (1.73%) (Ranked 142)
 | 2023-12-28 | 747,246 | 12,967 |
 | 2023-12-29 | 748,212 | 12,968 |
 | 2023-12-30 | 749,350 | 12,969 |
+| 2023-12-31 | 749,372 | 12,970 |
 ## Awards
 Max (Great Boss Battles): 7,052  (Ranked 55)  
 Sum: 12,492 (Ranked 84)  

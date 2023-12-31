@@ -4,7 +4,7 @@
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 522,
   "Ranking_Popularity": 213,
-  "Ranking_PopularitySum": 287,
+  "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 109,
@@ -2027,10 +2027,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 822,
       "NumberOfAwardsMax": 557
+    },
+    {
+      "Time": "2023-12-30T23:59:31.445549+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 866,
+      "NumberOfAwardsMax": 557
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 822,
+  "NumberOfAwards": 866,
   "NumberOfAwardsMax": 557,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2086,7 +2092,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 40
+      "Count": 44
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2095,9 +2101,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 17622,
+  "EOS_Progressed": 17627,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 1193,
+  "EOS_NewPlayers": 1191,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -18330,6 +18336,11 @@
       "Time": "2023-12-30T23:11:33.249792+00:00",
       "NumProgressed": 17622,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-12-31T00:09:27.4295673+00:00",
+      "NumProgressed": 17627,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 35,
@@ -18341,7 +18352,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 14274
+      "UsersEstimate": 14278
     },
     {
       "ID": "ACH02",
@@ -18373,7 +18384,7 @@
       "Name": "A Legitimate Business",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ACH06",
@@ -18381,15 +18392,15 @@
       "Name": "I\u2019ll Have Two Number 9s",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ACH07",
       "SetID": "4ck5mbe",
       "Name": "The American Dream",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3172
+      "UsersEstimate": 3349
     },
     {
       "ID": "ACH08",
@@ -18397,7 +18408,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 8811
+      "UsersEstimate": 8814
     },
     {
       "ID": "ACH09",
@@ -18413,7 +18424,7 @@
       "Name": "Who Needs Directions?",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ACH11",
@@ -18429,7 +18440,7 @@
       "Name": "Swiss Army Strife",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ACH13",
@@ -18437,7 +18448,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3172
+      "UsersEstimate": 3173
     },
     {
       "ID": "ACH14",
@@ -18445,7 +18456,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1763
     },
     {
       "ID": "ACH15",
@@ -18477,7 +18488,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "ACH19",
@@ -18493,7 +18504,7 @@
       "Name": "Yes I Speak English",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ACH21",
@@ -18509,7 +18520,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2467
+      "UsersEstimate": 2468
     },
     {
       "ID": "ACH23",
@@ -18517,7 +18528,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4406
+      "UsersEstimate": 4407
     },
     {
       "ID": "ACH24",
@@ -18541,7 +18552,7 @@
       "Name": "Double or Nothin\u0027",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ACH27",
@@ -18549,7 +18560,7 @@
       "Name": "Assassin",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ACH28",
@@ -18563,9 +18574,9 @@
       "ID": "ACH29",
       "SetID": "4ck5mbe",
       "Name": "Today Was a Good Day",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2467
+      "UsersEstimate": 2644
     },
     {
       "ID": "ACH30",
@@ -18573,7 +18584,7 @@
       "Name": "Public Enemy No. 1",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ACH31",
@@ -18589,7 +18600,7 @@
       "Name": "Ain\u2019t Nothing But a G Thing",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ACH33",
@@ -18613,23 +18624,23 @@
       "Name": "I Ain\u0027t No Buster",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 17622,
+      "Progressed": 17627,
       "Completed": 66
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-12-30T23:01:31.9542716+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:11:33.2497917+00:00",
+  "LastChanged": "2023-12-30T23:59:31.4455488+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:09:27.4295668+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:16.9169269+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:01:31.9542722+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:11:33.2498934+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:59:31.4455493+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:09:27.429681+00:00"
 }

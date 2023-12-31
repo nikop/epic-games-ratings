@@ -6,29 +6,29 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~25,771 |
-| Exploitative | 4.00% | ~20,617 |
-| Point Shooting | 4.00% | ~20,617 |
-| Wet Feet | 4.00% | ~20,617 |
-| High Speed Low Drag | 3.00% | ~15,463 |
-| Lucky | 3.00% | ~15,463 |
-| Stylin' | 3.00% | ~15,463 |
-| Turf War | 3.00% | ~15,463 |
-| Banged | 2.00% | ~10,308 |
-| Checkpoint Victory | 2.00% | ~10,308 |
-| First Blood | 2.00% | ~10,308 |
-| Flaccid Paralysis | 2.00% | ~10,308 |
-| Push Victory | 2.00% | ~10,308 |
-| Self-destructive | 2.00% | ~10,308 |
-| Blindfire | 1.00% | ~5,154 |
-| Ruthless | 1.00% | ~5,154 |
-| Semper Paratus | 1.00% | ~5,154 |
+| Wallbanger | 5.00% | ~25,773 |
+| Exploitative | 4.00% | ~20,619 |
+| Point Shooting | 4.00% | ~20,619 |
+| Wet Feet | 4.00% | ~20,619 |
+| High Speed Low Drag | 3.00% | ~15,464 |
+| Lucky | 3.00% | ~15,464 |
+| Stylin' | 3.00% | ~15,464 |
+| Turf War | 3.00% | ~15,464 |
+| Banged | 2.00% | ~10,309 |
+| Checkpoint Victory | 2.00% | ~10,309 |
+| First Blood | 2.00% | ~10,309 |
+| Flaccid Paralysis | 2.00% | ~10,309 |
+| Push Victory | 2.00% | ~10,309 |
+| Self-destructive | 2.00% | ~10,309 |
+| Blindfire | 1.00% | ~5,155 |
+| Ruthless | 1.00% | ~5,155 |
+| Semper Paratus | 1.00% | ~5,155 |
 | Carrying | 0.90% | ~4,639 |
 | Efficient | 0.90% | ~4,639 |
 | Mount & Gun | 0.90% | ~4,639 |
 | Personal | 0.90% | ~4,639 |
-| Grounded | 0.80% | ~4,123 |
-| Play to Win | 0.80% | ~4,123 |
+| Grounded | 0.80% | ~4,124 |
+| Play to Win | 0.80% | ~4,124 |
 | Special Delivery | 0.70% | ~3,608 |
 | Firefight Victory | 0.60% | ~3,093 |
 | #1 | 0.60% | ~3,093 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~515 |
 | Road Hazard | 0.10% | ~515 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 515,422 (Ranked 37)  
+Progressed: 515,464 (Ranked 37)  
 Completed: 2 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,10 +297,11 @@ Completed: 2 (0.00%) (Ranked 391)
 | 2023-12-28 | 513,607 | 2 |
 | 2023-12-29 | 514,451 | 2 |
 | 2023-12-30 | 515,422 | 2 |
+| 2023-12-31 | 515,464 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 415  (Ranked 237)  
-Sum: 3,303 (Ranked 177)  
-Diff (max vs sum): 60  
+Sum: 3,303 (Ranked 178)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 415 |

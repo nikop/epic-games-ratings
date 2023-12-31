@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 109.00% | ~113 |
-| Break no Sweat | 105.00% | ~109 |
-| Every little bit counts | 98.00% | ~102 |
+| Black Cat's Warning | 110.00% | ~113 |
+| Break no Sweat | 106.00% | ~109 |
+| Every little bit counts | 99.00% | ~102 |
 | Growth | 85.00% | ~88 |
-| Targeting the Enemy | 66.00% | ~69 |
-| Unavoidable | 65.00% | ~68 |
+| Targeting the Enemy | 67.00% | ~69 |
+| Unavoidable | 66.00% | ~68 |
 | Revenge | 62.00% | ~64 |
-| Reunion | 40.00% | ~42 |
+| Reunion | 41.00% | ~42 |
 | Fluke | 35.00% | ~36 |
 | Elimination | 33.00% | ~34 |
 | Victor's Prejudice | 32.00% | ~33 |
@@ -29,7 +29,7 @@
 | Brain in a Vat | 18.00% | ~19 |
 | Final Battle | 17.00% | ~18 |
 | Outsider's Profit | 17.00% | ~18 |
-| Reappearance | 15.00% | ~16 |
+| Reappearance | 16.00% | ~16 |
 | King of the Streets | 10.00% | ~10 |
 | Survival Expert | 10.00% | ~10 |
 | Calamity | 9.00% | ~9 |
@@ -42,10 +42,10 @@
 | Limbo | 4.00% | ~4 |
 | Ninja Killer | 4.00% | ~4 |
 | Greetings | 4.00% | ~4 |
+| Giving Up | 3.00% | ~3 |
 | Time's Up | 3.00% | ~3 |
 | Prowess | 3.00% | ~3 |
 | Interception | 2.00% | ~2 |
-| Giving Up | 2.00% | ~2 |
 | Escape Master | 2.00% | ~2 |
 | Clairvoyance | 2.00% | ~2 |
 | Encore | 2.00% | ~2 |
@@ -62,7 +62,7 @@
 | Extreme Challenge | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 104 (Ranked 481)  
+Progressed: 103 (Ranked 485)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,6 +121,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-24 | 102 | 0 |
 | 2023-12-25 | 103 | 0 |
 | 2023-12-30 | 104 | 0 |
+| 2023-12-31 | 103 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

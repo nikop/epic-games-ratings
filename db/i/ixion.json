@@ -2,13 +2,13 @@
   "ID": "1efd3d783b814b8b8548fb60c5983825",
   "Name": "IXION",
   "ProductSlug": "ixion-88cda4",
-  "Ranking_Rating": 463,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Rating": 464,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -323,9 +323,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3837,
+  "EOS_Progressed": 3839,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7513,6 +7513,11 @@
       "Time": "2023-12-30T23:07:23.419987+00:00",
       "NumProgressed": 3837,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T00:05:01.1985119+00:00",
+      "NumProgressed": 3839,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7532,7 +7537,7 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACH_BASE_11",
@@ -7588,7 +7593,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "ACH_BASE_19",
@@ -7602,9 +7607,9 @@
       "ID": "ACH_BASE_2",
       "SetID": "92iocjf",
       "Name": "Guy de Borderlands",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 537
+      "UsersEstimate": 499
     },
     {
       "ID": "ACH_BASE_21",
@@ -7620,7 +7625,7 @@
       "Name": "Sustainable Energy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_BASE_23",
@@ -7636,7 +7641,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "ACH_BASE_25",
@@ -7660,7 +7665,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "ACH_BASE_28",
@@ -7692,7 +7697,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "ACH_BASE_31",
@@ -7700,7 +7705,7 @@
       "Name": "Power Outage",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACH_BASE_32",
@@ -7732,7 +7737,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "ACH_BASE_36",
@@ -7884,7 +7889,7 @@
       "Name": "Pedal to the Metal",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_BASE_58",
@@ -7979,13 +7984,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2021,
+      "Progressed": 2023,
       "Completed": 10
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3837,
+      "Progressed": 3839,
       "Completed": 0
     }
   ],
@@ -7993,8 +7998,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:07:23.4199867+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:05:01.198511+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:27.94929+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:03:58.7255583+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:07:23.4200525+00:00"
+  "LastUpdate_Ratings": "2023-12-31T00:02:36.2269419+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:05:01.1985829+00:00"
 }

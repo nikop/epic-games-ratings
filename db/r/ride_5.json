@@ -3,12 +3,12 @@
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
   "Ranking_Rating": 650,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -33,9 +33,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3132,
+  "EOS_Progressed": 3133,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 218,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7673,6 +7673,11 @@
       "Time": "2023-12-30T22:03:52.5307425+00:00",
       "NumProgressed": 3132,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T00:03:18.3134455+00:00",
+      "NumProgressed": 3133,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -7685,7 +7690,7 @@
       "Name": "First Love",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -7693,7 +7698,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -7701,7 +7706,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -7717,7 +7722,7 @@
       "Name": "Restored and Ready",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -7741,7 +7746,7 @@
       "Name": "I Want One Too!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -7757,7 +7762,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -7893,7 +7898,7 @@
       "Name": "Clean Race",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1378
+      "UsersEstimate": 1379
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -7941,7 +7946,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -7981,7 +7986,7 @@
       "Name": "Eat My Dust",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -8076,7 +8081,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3132,
+      "Progressed": 3133,
       "Completed": 0
     }
   ],
@@ -8084,8 +8089,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2023-12-26T23:58:21.0860972+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:04:58.5088588+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:03:18.3134449+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:36.0007242+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:02:39.6840794+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:04:58.5089389+00:00"
+  "LastUpdate_Ratings": "2023-12-31T00:00:17.3982333+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:03:18.3135227+00:00"
 }

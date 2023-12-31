@@ -1,7 +1,7 @@
 # Lost Eidolons
 [Store](https://store.epicgames.com/en-US/p/lost-eidolons)  
 [View Rawdata](../../db/l/lost_eidolons.json)  
-Rating: 4.34 (Ranked 829)  
+Rating: 4.34 (Ranked 828)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,10 +12,10 @@ Rating: 4.34 (Ranked 829)
 | Earning Trust | 52.00% | ~589 |
 | Monster Slayer | 30.00% | ~340 |
 | Awakening | 24.00% | ~272 |
-| Huntmaster | 23.00% | ~260 |
+| Huntmaster | 23.00% | ~261 |
 | Complete the sidequest 'Malice and Greed' | 19.00% | ~215 |
 | House Vulisica's Heirloom | 15.00% | ~170 |
-| Digging Deep | 14.00% | ~158 |
+| Digging Deep | 14.00% | ~159 |
 | Broken Oath | 9.00% | ~102 |
 | Way of the King | 8.00% | ~91 |
 | Til We Meet Again | 5.00% | ~57 |
@@ -29,7 +29,7 @@ Rating: 4.34 (Ranked 829)
 | First Bloom | 1.00% | ~11 |
 | Lean on Me | 0.60% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,132 (Ranked 283)  
+Progressed: 1,133 (Ranked 283)  
 Completed: 1 (0.09%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,6 +162,7 @@ Completed: 1 (0.09%) (Ranked 312)
 | 2023-12-28 | 1,138 | 1 |
 | 2023-12-29 | 1,136 | 1 |
 | 2023-12-30 | 1,133 | 1 |
+| 2023-12-31 | 1,133 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

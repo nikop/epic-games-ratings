@@ -3,12 +3,12 @@
   "Name": "Out of the Park Baseball 22",
   "ProductSlug": "out-of-the-park-baseball-22",
   "Ranking_Rating": 771,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -80,6 +80,6 @@
   "FirstSeen": "2022-07-22T20:23:16.2999392+00:00",
   "LastChanged": "2023-10-18T22:11:47.2114288+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:37.8995048+00:00",
-  "LastUpdate_Ratings": "2023-12-30T22:58:01.664597+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:09:56.3532023+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:57:10.8235598+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:08:18.8055114+00:00"
 }

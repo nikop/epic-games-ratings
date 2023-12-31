@@ -3,10 +3,10 @@
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 70,
-  "Ranking_Popularity": 229,
-  "Ranking_PopularitySum": 176,
+  "Ranking_Popularity": 230,
+  "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 279,
+  "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 3793,
   "Store": {
@@ -3689,11 +3689,11 @@
       "Count": 337
     }
   ],
-  "EOS_Progressed": 19741,
-  "EOS_Completed": 35,
-  "EOS_NewPlayers": 690,
-  "EOS_NewCompleters": -3,
-  "EOS_Completed_Percentage": 0.18,
+  "EOS_Progressed": 19745,
+  "EOS_Completed": 34,
+  "EOS_NewPlayers": 691,
+  "EOS_NewCompleters": -4,
+  "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:44.0193336+00:00",
@@ -17789,6 +17789,11 @@
       "Time": "2023-12-30T23:05:01.4980589+00:00",
       "NumProgressed": 19741,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-31T00:03:20.3861009+00:00",
+      "NumProgressed": 19745,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17889,7 +17894,7 @@
       "Name": "First Real Expedition",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "WinHard",
@@ -18137,7 +18142,7 @@
       "Name": "Taking Action",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "WinWithResolve",
@@ -18177,7 +18182,7 @@
       "Name": "No Deaths",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "WinWithoutOrders",
@@ -18233,7 +18238,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "WinNearPresence",
@@ -18272,15 +18277,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19741,
-      "Completed": 35
+      "Progressed": 19745,
+      "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-30T22:02:49.2349557+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:05:01.4980581+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:03:20.3861003+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:23.9464356+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:03:51.9770349+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:05:01.4981665+00:00"
+  "LastUpdate_Ratings": "2023-12-31T00:00:32.0586585+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:03:20.3862197+00:00"
 }

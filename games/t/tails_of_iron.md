@@ -7,6 +7,7 @@ Rating: 4.56 (Ranked 502)
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 2.00% | ~46 |
 | Become King | 1.00% | ~23 |
+| Collect Iron Ore | 1.00% | ~23 |
 | Collect Monster Parts | 1.00% | ~23 |
 | Ranged Weapon | 1.00% | ~23 |
 | Two Handed Weapon | 1.00% | ~23 |
@@ -14,7 +15,6 @@ Rating: 4.56 (Ranked 502)
 | Shield Maiden Yellow Tongue | 1.00% | ~9 |
 | The Bright Fir | 1.00% | ~9 |
 | Collect Gold | 0.90% | ~21 |
-| Collect Iron Ore | 0.90% | ~21 |
 | Defeat 25 Grubs | 0.90% | ~21 |
 | Defeat 25 Mozis | 0.90% | ~21 |
 | Kitchen Ready To Cook | 0.90% | ~21 |
@@ -26,10 +26,10 @@ Rating: 4.56 (Ranked 502)
 | I Remember My First Beer | 0.80% | ~7 |
 | Complete Elder Faction | 0.70% | ~16 |
 | Defeat Ratnor Rodentson | 0.70% | ~16 |
+| Fix the Travellers Wagon | 0.70% | ~16 |
 | Meet the Creatures from the Deep | 0.70% | ~16 |
 | Return Power To The Depths | 0.70% | ~16 |
 | Defeat Avor Warden of the Northern Wastes | 0.60% | ~14 |
-| Fix the Travellers Wagon | 0.60% | ~14 |
 | Defeat the Grub Buster | 0.60% | ~6 |
 | Return the Statues | 0.50% | ~11 |
 | Complete the Chefs Book | 0.50% | ~11 |
@@ -43,7 +43,7 @@ Rating: 4.56 (Ranked 502)
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,295 (Ranked 235)  
-Completed: 12 (0.52%) (Ranked 214)  
+Completed: 12 (0.52%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

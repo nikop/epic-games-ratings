@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2208,9 +2208,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16036,
+  "EOS_Progressed": 16038,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18648,6 +18648,11 @@
       "Time": "2023-12-30T21:11:52.7443488+00:00",
       "NumProgressed": 16036,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-31T00:09:41.760562+00:00",
+      "NumProgressed": 16038,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19289,9 +19294,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -19497,9 +19502,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_CHAMPIONS",
       "SetID": "7l38kb8",
       "Name": "Champions",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CLERICS",
@@ -20025,9 +20030,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
       "SetID": "9201eeb",
       "Name": "Hanging Gardens",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
@@ -20441,9 +20446,9 @@
       "ID": "ACHIEVEMENT_RELIGION_JUDAISM",
       "SetID": "7l38kb8",
       "Name": "Judaism",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
@@ -21522,21 +21527,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16036,
+      "Progressed": 16038,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16036,
+      "Progressed": 16038,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-29T16:02:55.9624641+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:11:51.5449981+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:09:41.7605616+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:47.5878363+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:04:14.2632542+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:11:51.5460214+00:00"
+  "LastUpdate_Ratings": "2023-12-31T00:02:46.5608226+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:09:41.7616047+00:00"
 }

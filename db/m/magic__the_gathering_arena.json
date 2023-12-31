@@ -4,11 +4,11 @@
   "ProductSlug": "mtg-arena",
   "Ranking_Rating": 686,
   "Ranking_Popularity": 33,
-  "Ranking_PopularitySum": 18,
+  "Ranking_PopularitySum": 19,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-01-16T08:00:00+00:00",
     "PcReleaseDate": null,
@@ -15869,6 +15869,6 @@
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
   "LastChanged": "2023-12-30T23:01:18.2809569+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:14.9245568+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:01:18.2809575+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:04:53.6807554+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:59:22.5044836+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:03:14.7450778+00:00"
 }

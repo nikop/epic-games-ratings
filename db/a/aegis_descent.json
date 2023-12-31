@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 418,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
     "PcReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -581,9 +581,9 @@
       "ID": "Award_DocKing",
       "SetID": "9ojec6n",
       "Name": "DocKing",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 203
     },
     {
       "ID": "Award_EarlyBird",
@@ -870,8 +870,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:09:46.4037673+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:06:42.1195512+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:55.752897+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:00:54.7404954+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:09:46.4037953+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:59:06.9669719+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:06:42.1195832+00:00"
 }

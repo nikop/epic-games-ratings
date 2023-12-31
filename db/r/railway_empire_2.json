@@ -3,12 +3,12 @@
   "Name": "Railway Empire 2",
   "ProductSlug": "railway-empire-2-46840c",
   "Ranking_Rating": 734,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -7610,9 +7610,9 @@
       "ID": "A20",
       "SetID": "9b7p7eo",
       "Name": "Country Bumpkin",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1962
+      "UsersEstimate": 1988
     },
     {
       "ID": "A21",
@@ -7899,8 +7899,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-27T17:00:03.776976+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:06:45.7650653+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:04:34.4033086+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:12.6153541+00:00",
-  "LastUpdate_Ratings": "2023-12-30T22:58:45.651305+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:06:45.765144+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:57:40.6187374+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:04:34.40338+00:00"
 }

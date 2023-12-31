@@ -2,13 +2,13 @@
   "ID": "35eda4ff87f94a7491dc28175b8f3b4f",
   "Name": "Eternal Threads",
   "ProductSlug": "eternal-threads-197169",
-  "Ranking_Rating": 843,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Rating": 842,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 154,
-  "Ranking_EOS_Completed": 226,
+  "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -269,10 +269,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18958,
-  "EOS_Completed": 81,
-  "EOS_NewPlayers": 1930,
-  "EOS_NewCompleters": 6,
+  "EOS_Progressed": 18966,
+  "EOS_Completed": 82,
+  "EOS_NewPlayers": 1926,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
     {
@@ -6304,6 +6304,11 @@
       "Time": "2023-12-30T23:09:03.2853035+00:00",
       "NumProgressed": 18958,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-12-31T00:06:11.0106185+00:00",
+      "NumProgressed": 18966,
+      "NumCompleted": 82
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -6324,7 +6329,7 @@
       "Name": "Beam Me Up Scotty",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
@@ -6364,7 +6369,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2275
+      "UsersEstimate": 2276
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -6372,7 +6377,7 @@
       "Name": "Secrets Out",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "UNLOCK_ALL_4_DOORS_1_3",
@@ -6395,16 +6400,16 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 18958,
-      "Completed": 81
+      "Progressed": 18966,
+      "Completed": 82
     }
   ],
   "FirstSeen": "2023-10-19T17:59:40.5875906+00:00",
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-12-23T04:57:40.1622924+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:09:03.2853031+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:06:11.0106182+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:09.201879+00:00",
-  "LastUpdate_Ratings": "2023-12-30T22:58:29.7059905+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:09:03.2853375+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:57:29.1266034+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:06:11.0106624+00:00"
 }

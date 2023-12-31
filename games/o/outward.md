@@ -6,10 +6,10 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 73.00% | ~3,184 |
-| Ready for Winter | 62.00% | ~2,704 |
-| Ready for Summer | 49.00% | ~2,137 |
-| Cordon Bleu | 41.00% | ~1,788 |
+| Venture Outward | 73.00% | ~3,185 |
+| Ready for Winter | 62.00% | ~2,705 |
+| Ready for Summer | 49.00% | ~2,138 |
+| Cordon Bleu | 41.00% | ~1,789 |
 | Tapped! | 35.00% | ~1,527 |
 | Eureka | 30.00% | ~1,309 |
 | Scourge Slayer | 24.00% | ~1,047 |
@@ -20,7 +20,7 @@ Number of Ratings: 266  (23.09.2022)
 | The Power of Family | 16.00% | ~698 |
 | A Fortress Toppled! | 15.00% | ~654 |
 | Apex Predator | 15.00% | ~654 |
-| The Power of Faith | 12.00% | ~523 |
+| The Power of Faith | 12.00% | ~524 |
 | Strange amalgams | 11.00% | ~480 |
 | The Power of Freedom | 9.00% | ~393 |
 | Ace Detective | 8.00% | ~349 |
@@ -32,9 +32,9 @@ Number of Ratings: 266  (23.09.2022)
 | The power of ambition | 6.00% | ~262 |
 | The stuff of legends. | 6.00% | ~262 |
 | Blood and justice | 5.00% | ~218 |
-| Ancestor's Pride | 4.00% | ~174 |
-| For All Aurai | 4.00% | ~174 |
-| Memory of a legend | 4.00% | ~174 |
+| Ancestor's Pride | 4.00% | ~175 |
+| For All Aurai | 4.00% | ~175 |
+| Memory of a legend | 4.00% | ~175 |
 | Light of Levant | 3.00% | ~131 |
 | This was a mistake... | 3.00% | ~131 |
 | Crowd Pleaser. | 2.00% | ~87 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~13 |
 | The Absolute Pinnacle. | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,362 (Ranked 206)  
+Progressed: 4,363 (Ranked 206)  
 Completed: 5 (0.11%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,6 +290,7 @@ Completed: 5 (0.11%) (Ranked 303)
 | 2023-12-28 | 4,317 | 5 |
 | 2023-12-29 | 4,335 | 5 |
 | 2023-12-30 | 4,362 | 5 |
+| 2023-12-31 | 4,363 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 495)  
 Sum: 246 (Ranked 399)  

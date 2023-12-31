@@ -2,13 +2,13 @@
   "ID": "5f2fcf280d11455f8eab5c1e2a4d0392",
   "Name": "House Party",
   "ProductSlug": "house-party-ae8b27",
-  "Ranking_Rating": 850,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Rating": 849,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -383,9 +383,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6989,
+  "EOS_Progressed": 6991,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7973,6 +7973,11 @@
       "Time": "2023-12-30T22:09:14.6172195+00:00",
       "NumProgressed": 6989,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-31T00:08:20.7882554+00:00",
+      "NumProgressed": 6991,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -8352,7 +8357,7 @@
       "Name": "Smooth Operator: Madison",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "SmellBlood",
@@ -8535,21 +8540,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 4028,
+      "Progressed": 4030,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6989,
+      "Progressed": 6991,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-12-30T21:02:21.4914587+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:09:59.0893682+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:08:20.7882551+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:40.2112681+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:02:32.8625109+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:09:59.0894545+00:00"
+  "LastUpdate_Ratings": "2023-12-31T00:00:12.9181021+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:08:20.7883647+00:00"
 }

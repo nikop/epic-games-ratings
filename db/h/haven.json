@@ -3,12 +3,12 @@
   "Name": "Haven",
   "ProductSlug": "haven",
   "Ranking_Rating": 149,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
-  "Ranking_EOS_Progress": 246,
-  "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
+  "Ranking_EOS_Progress": 247,
+  "Ranking_EOS_Completed": 210,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -183,7 +183,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1829,
+  "EOS_Progressed": 1831,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
@@ -3093,6 +3093,11 @@
       "Time": "2023-12-30T23:08:48.992912+00:00",
       "NumProgressed": 1829,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-31T00:06:00.580304+00:00",
+      "NumProgressed": 1831,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3104,7 +3109,7 @@
       "Name": "Lovebirds",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "10",
@@ -3168,7 +3173,7 @@
       "Name": "Balding bloot!",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "18",
@@ -3232,7 +3237,7 @@
       "Name": "In my shoes",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "25",
@@ -3240,7 +3245,7 @@
       "Name": "Heartstrings",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "27",
@@ -3264,7 +3269,7 @@
       "Name": "Hug therapy",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "30",
@@ -3288,7 +3293,7 @@
       "Name": "Spring cleaning",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "4",
@@ -3296,7 +3301,7 @@
       "Name": "Head in the clouds",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "5",
@@ -3304,7 +3309,7 @@
       "Name": "An eye for an eye",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "6",
@@ -3328,7 +3333,7 @@
       "Name": "Over my dead body",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "9",
@@ -3343,15 +3348,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1829,
+      "Progressed": 1831,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:08:48.9929115+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:06:00.5803035+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:26.0357893+00:00",
-  "LastUpdate_Ratings": "2023-12-30T22:58:37.2252479+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:08:48.9929467+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:57:34.1450149+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:06:00.5803452+00:00"
 }

@@ -1,31 +1,31 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 463)  
+Rating: 4.59 (Ranked 443)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~15,565 |
-| Sweet Sorrow | 18.00% | ~7,782 |
-| Rules the Waves | 17.00% | ~7,350 |
-| Thou, All-Shaking Thunder | 15.00% | ~6,485 |
+| Sink Beneath the Waves | 36.00% | ~15,566 |
+| Sweet Sorrow | 18.00% | ~7,783 |
+| Rules the Waves | 17.00% | ~7,351 |
+| Thou, All-Shaking Thunder | 15.00% | ~6,486 |
 | Rival | 14.00% | ~6,053 |
-| Correspondent | 12.00% | ~5,188 |
-| Lose Your Mind | 12.00% | ~5,188 |
-| Sound Mind? | 12.00% | ~5,188 |
+| Correspondent | 12.00% | ~5,189 |
+| Lose Your Mind | 12.00% | ~5,189 |
+| Sound Mind? | 12.00% | ~5,189 |
 | Salt's Curse | 11.00% | ~4,756 |
 | HE SUN THE SUN THE SUN T | 11.00% | ~4,756 |
 | The Fall of the House | 11.00% | ~4,756 |
 | Shipmate | 11.00% | ~4,756 |
 | One Year at Zee | 8.00% | ~3,459 |
-| Pupil | 7.00% | ~3,026 |
-| Salvager | 7.00% | ~3,026 |
-| Open Your Ears | 7.00% | ~3,026 |
-| The Ascent of Man | 7.00% | ~3,026 |
+| Pupil | 7.00% | ~3,027 |
+| Salvager | 7.00% | ~3,027 |
+| Open Your Ears | 7.00% | ~3,027 |
+| The Ascent of Man | 7.00% | ~3,027 |
 | Zee Fever | 5.00% | ~2,162 |
-| Old Unhappy Far-Off Things | 4.00% | ~1,729 |
-| Sink Beneath the Waves. Again. | 4.00% | ~1,729 |
+| Old Unhappy Far-Off Things | 4.00% | ~1,730 |
+| Sink Beneath the Waves. Again. | 4.00% | ~1,730 |
 | Storm's Curse | 3.00% | ~1,297 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~1,297 |
 | Come Closer | 3.00% | ~1,297 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~43 |
 | Ten Years at Zee | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,235 (Ranked 128)  
+Progressed: 43,239 (Ranked 128)  
 Completed: 4 (0.01%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,6 +316,7 @@ Completed: 4 (0.01%) (Ranked 369)
 | 2023-12-28 | 43,111 | 4 |
 | 2023-12-29 | 43,162 | 4 |
 | 2023-12-30 | 43,235 | 4 |
+| 2023-12-31 | 43,239 | 4 |
 ## Awards
 Max (Character Customization): 221  (Ranked 289)  
 Sum: 315 (Ranked 374)  
@@ -437,3 +438,4 @@ Diff (max vs sum): -85
 | 2023-12-19 | 4.59 | - | 220 | 314 |
 | 2023-12-23 | 4.59 | - | 221 | 315 |
 | 2023-12-24 | 4.58 | - | 221 | 315 |
+| 2023-12-30 | 4.59 | - | 221 | 315 |

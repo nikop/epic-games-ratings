@@ -12,6 +12,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 0.80% | ~128 |
 | Architect | 0.70% | ~112 |
 | Intrepid | 0.70% | ~112 |
+| Strong | 0.70% | ~112 |
+| Hanging Gardens | 0.70% | ~112 |
 | Able | 0.60% | ~96 |
 | Good | 0.60% | ~96 |
 | Just | 0.60% | ~96 |
@@ -19,9 +21,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learned | 0.60% | ~96 |
 | Mason | 0.60% | ~96 |
 | Noble | 0.60% | ~96 |
-| Strong | 0.60% | ~96 |
-| Hanging Gardens | 0.60% | ~96 |
 | Oracle | 0.60% | ~96 |
+| Judaism | 0.60% | ~96 |
 | Trade Caravan | 0.60% | ~96 |
 | Ambitious | 0.50% | ~80 |
 | Enlightened | 0.50% | ~80 |
@@ -35,7 +36,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate | 0.50% | ~80 |
 | Pyramids | 0.50% | ~80 |
 | Learn to Play 1 | 0.50% | ~80 |
-| Judaism | 0.50% | ~80 |
 | Greek Paganism | 0.50% | ~80 |
 | Naming Landmarks | 0.50% | ~80 |
 | Regicide | 0.40% | ~64 |
@@ -58,6 +58,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 0.30% | ~48 |
 | Legendary Cities | 0.30% | ~48 |
 | Just Difficulty | 0.30% | ~48 |
+| Champions | 0.30% | ~48 |
 | Sages | 0.30% | ~48 |
 | Acropolis | 0.30% | ~48 |
 | Colossus | 0.30% | ~48 |
@@ -82,7 +83,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good Difficulty | 0.20% | ~32 |
 | Strong Difficulty | 0.20% | ~32 |
 | Artisans | 0.20% | ~32 |
-| Champions | 0.20% | ~32 |
 | Landowners | 0.20% | ~32 |
 | Patrons | 0.20% | ~32 |
 | Riders | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,036 (Ranked 165)  
+Progressed: 16,038 (Ranked 165)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -620,6 +620,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-28 | 15,997 | 5 |
 | 2023-12-29 | 16,011 | 5 |
 | 2023-12-30 | 16,036 | 5 |
+| 2023-12-31 | 16,038 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 284)  
 Sum: 1,912 (Ranked 220)  

@@ -1,7 +1,7 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.43 (Ranked 714)  
+Rating: 4.43 (Ranked 715)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -34,10 +34,10 @@ Number of Ratings: 62  (23.09.2022)
 | Melting Down | 9.00% | ~463 |
 | Raging Drones | 9.00% | ~463 |
 | Overconfident | 9.00% | ~463 |
+| Is This Real Life? | 9.00% | ~463 |
 | Pusher Man | 8.00% | ~412 |
 | Squad Chief Helvig | 8.00% | ~412 |
 | No More Marching | 8.00% | ~412 |
-| Is This Real Life? | 8.00% | ~412 |
 | Duty-Bound | 7.00% | ~360 |
 | Follow the White Rabbit | 7.00% | ~360 |
 | Liberation | 7.00% | ~360 |

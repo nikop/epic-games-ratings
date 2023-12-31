@@ -3,12 +3,12 @@
   "Name": "Oxygen Not Included",
   "ProductSlug": "oxygen-not-included",
   "Ranking_Rating": 57,
-  "Ranking_Popularity": 269,
+  "Ranking_Popularity": 268,
   "Ranking_PopularitySum": 203,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2019-11-25T15:00:00+00:00",
     "PcReleaseDate": "2019-11-25T15:00:00+00:00",
@@ -2658,11 +2658,17 @@
       "Rating": 4.83,
       "NumberOfAwards": 2408,
       "NumberOfAwardsMax": 278
+    },
+    {
+      "Time": "2023-12-30T23:59:55.4274832+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 2410,
+      "NumberOfAwardsMax": 279
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2408,
-  "NumberOfAwardsMax": 278,
+  "NumberOfAwards": 2410,
+  "NumberOfAwardsMax": 279,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
@@ -2675,7 +2681,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 278
+      "Count": 279
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2723,7 +2729,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 213
+      "Count": 214
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2743,8 +2749,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
-  "LastChanged": "2023-12-30T17:00:09.3154866+00:00",
+  "LastChanged": "2023-12-30T23:59:55.427483+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:33.2231085+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:02:06.3669117+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:06:31.7774478+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:59:55.4274835+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:04:24.1270782+00:00"
 }

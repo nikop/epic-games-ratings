@@ -4,8 +4,8 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 363,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -920,9 +920,9 @@
       "ID": "the_long_night",
       "SetID": "3j2phem",
       "Name": "The Long Night",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "the_longest_night",
@@ -953,8 +953,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:08:47.7135459+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:05:59.8197959+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:19:56.58025+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:03:37.7816661+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:08:47.7135727+00:00"
+  "LastUpdate_Ratings": "2023-12-31T00:00:22.5519072+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:05:59.8198201+00:00"
 }

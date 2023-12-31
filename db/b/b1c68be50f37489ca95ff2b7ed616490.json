@@ -2,10 +2,10 @@
   "ID": "b1c68be50f37489ca95ff2b7ed616490",
   "Name": "Agatha Christie - Murder on the Orient Express",
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
-  "Ranking_EOS_Progress": 414,
+  "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
     "PcReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 231,
+  "EOS_Progressed": 232,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1014,6 +1014,11 @@
       "Time": "2023-12-30T21:08:05.8448638+00:00",
       "NumProgressed": 231,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T00:05:35.7099399+00:00",
+      "NumProgressed": 232,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -1034,7 +1039,7 @@
       "Name": "Masquerade",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "11",
@@ -1138,7 +1143,7 @@
       "Name": "I know kung fu",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "23",
@@ -1210,7 +1215,7 @@
       "Name": "A true detective",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "7",
@@ -1226,7 +1231,7 @@
       "Name": "You\u0027re probably wondering how I got here...",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "9",
@@ -1241,14 +1246,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 231,
+      "Progressed": 232,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:08:12.583106+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:05:35.7099393+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:21.3580987+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:04:23.8042717+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:08:12.5831221+00:00"
+  "LastUpdate_Ratings": "2023-12-31T00:02:53.3510959+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:05:35.709961+00:00"
 }

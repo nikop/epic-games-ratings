@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9205,10 +9205,10 @@
       "Count": 3614
     }
   ],
-  "EOS_Progressed": 247917,
+  "EOS_Progressed": 247942,
   "EOS_Completed": 2578,
-  "EOS_NewPlayers": 4017,
-  "EOS_NewCompleters": 21,
+  "EOS_NewPlayers": 4018,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -37995,6 +37995,11 @@
       "Time": "2023-12-30T23:11:52.2248331+00:00",
       "NumProgressed": 247917,
       "NumCompleted": 2578
+    },
+    {
+      "Time": "2023-12-31T00:09:42.7882634+00:00",
+      "NumProgressed": 247942,
+      "NumCompleted": 2578
     }
   ],
   "TotalAchievements": 546,
@@ -38006,7 +38011,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4958
+      "UsersEstimate": 4959
     },
     {
       "ID": "objective_completed_10",
@@ -38374,7 +38379,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "objective_completed_110",
@@ -41150,7 +41155,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1736
     },
     {
       "ID": "objective_completed_70",
@@ -42294,7 +42299,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1499
+      "UsersEstimate": 1500
     },
     {
       "ID": "objective_completed_1558",
@@ -42373,21 +42378,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 214191,
-      "Completed": 4102
+      "Progressed": 214216,
+      "Completed": 4103
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 247917,
+      "Progressed": 247942,
       "Completed": 2578
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-30T23:02:23.7927948+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:11:52.2248325+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:09:42.7882629+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:02:23.7927954+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:11:52.227265+00:00"
+  "LastUpdate_Ratings": "2023-12-31T00:00:06.7752718+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:09:42.7906888+00:00"
 }

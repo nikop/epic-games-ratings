@@ -19,8 +19,8 @@ Rating: 4.75 (Ranked 149)
 | Stone Retriever | 26.00% | ~184 |
 | Find myself | 24.00% | ~170 |
 | Min's Promise | 18.00% | ~127 |
+| Sia's Promise | 18.00% | ~127 |
 | Truebro | 18.00% | ~127 |
-| Sia's Promise | 17.00% | ~120 |
 | Romantic | 13.00% | ~92 |
 | TentacleMAN | 9.00% | ~64 |
 | Yohan's Promise | 5.00% | ~35 |

@@ -2,13 +2,13 @@
   "ID": "5f4daf40211246acaddd707f7b4e8f56",
   "Name": "Madden NFL 23",
   "ProductSlug": "madden-nfl-23",
-  "Ranking_Rating": 865,
+  "Ranking_Rating": 866,
   "Ranking_Popularity": 461,
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -999,7 +999,7 @@
   ],
   "EOS_Progressed": 4250,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8234,8 +8234,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-12-28T15:58:42.1942443+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:06:59.348148+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:04:44.135518+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:10.6313253+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:01:27.2788123+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:06:59.3481972+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:59:28.3883689+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:04:44.1355674+00:00"
 }

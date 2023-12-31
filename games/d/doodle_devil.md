@@ -10,7 +10,7 @@
 | Lucky Strike | 61.00% | ~54 |
 | Cardinal Sins | 51.00% | ~45 |
 | Warm and Fuzzy | 51.00% | ~45 |
-| Master of Warfare | 37.00% | ~33 |
+| Master of Warfare | 38.00% | ~34 |
 | Vicious Delicious | 28.00% | ~25 |
 | Hellfire | 25.00% | ~22 |
 ## Popularity (Based on EOS Achievements)

@@ -3,12 +3,12 @@
   "Name": "Eternights",
   "ProductSlug": "eternights-c2fbca",
   "Ranking_Rating": 149,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -2671,9 +2671,9 @@
       "ID": "ACHIEVEMENT_17_PromiseSia",
       "SetID": "9bke6f1",
       "Name": "Sia\u0027s Promise",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 127
     },
     {
       "ID": "ACHIEVEMENT_18_FindMyself",
@@ -2824,8 +2824,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-27T15:59:49.1136695+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:10:20.7198856+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:08:36.5018549+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:10.2016354+00:00",
-  "LastUpdate_Ratings": "2023-12-30T22:57:50.8716799+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:10:20.7199287+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:57:03.7039688+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:08:36.5018789+00:00"
 }

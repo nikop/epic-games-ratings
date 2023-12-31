@@ -5,11 +5,11 @@ Rating: 4.65 (Ranked 324)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Satisfied Gus-tomer | 5.00% | ~1,247 |
-| Sweezy Like Sunday Morning | 5.00% | ~1,247 |
-| First Bounty Down | 5.00% | ~1,247 |
-| G3 Graduation | 5.00% | ~1,247 |
-| Cold-Blooded Driller | 5.00% | ~1,247 |
+| Satisfied Gus-tomer | 5.00% | ~1,248 |
+| Sweezy Like Sunday Morning | 5.00% | ~1,248 |
+| First Bounty Down | 5.00% | ~1,248 |
+| G3 Graduation | 5.00% | ~1,248 |
+| Cold-Blooded Driller | 5.00% | ~1,248 |
 | Are You Packin'? | 4.00% | ~998 |
 | Bring A Knife to a Gun Fight | 4.00% | ~998 |
 | We're All Very Impressed, Trust Me | 4.00% | ~998 |
@@ -27,7 +27,7 @@ Rating: 4.65 (Ranked 324)
 | Eye Scream, You Scream | 2.00% | ~499 |
 | Series Wrap on Suit-O | 2.00% | ~499 |
 | Bathe With A Giant Nude Alien | 2.00% | ~45 |
-| Gunning For Your Job | 1.00% | ~249 |
+| Gunning For Your Job | 1.00% | ~250 |
 | We Came, We Chainsaw, We Conquered | 1.00% | ~22 |
 | We Paid For The Rights To Put A Whole Movie In Here | 0.90% | ~225 |
 | Mux Ado About Shipping | 0.90% | ~20 |
@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 324)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,947 (Ranked 145)  
+Progressed: 24,950 (Ranked 145)  
 Completed: 14 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,6 +304,7 @@ Completed: 14 (0.06%) (Ranked 327)
 | 2023-12-28 | 24,929 | 14 |
 | 2023-12-29 | 24,937 | 14 |
 | 2023-12-30 | 24,947 | 14 |
+| 2023-12-31 | 24,950 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

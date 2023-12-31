@@ -16,8 +16,8 @@
 | Fly the friendly Sky | 47.00% | ~46 |
 | Get out of here! | 41.00% | ~40 |
 | Alchemist's Apprentice | 40.00% | ~39 |
+| Necromancer's Apprentice | 39.00% | ~38 |
 | Friend of Lyraine | 39.00% | ~38 |
-| Necromancer's Apprentice | 38.00% | ~37 |
 | The Circle | 37.00% | ~36 |
 | Redecorating | 36.00% | ~35 |
 | Bad JuJu | 24.00% | ~24 |
@@ -35,8 +35,8 @@
 | Stormwatch Faste | 12.00% | ~12 |
 | Friend of Orgash | 12.00% | ~12 |
 | Friend of Bastion | 12.00% | ~12 |
+| A Master of Magic | 11.00% | ~11 |
 | Magic Academy | 11.00% | ~11 |
-| A Master of Magic | 10.00% | ~10 |
 | A Joke | 10.00% | ~10 |
 | Defeat Gor | 9.00% | ~9 |
 | Mage Teacher | 9.00% | ~9 |
@@ -46,11 +46,12 @@
 | Defeat Uram | 7.00% | ~7 |
 | Elynn's Tale | 7.00% | ~7 |
 | The Forge of Regan Gor | 7.00% | ~7 |
+| Master Artificer | 7.00% | ~7 |
+| A Monopoly of Might | 7.00% | ~7 |
 | Defeat Undergast | 6.00% | ~6 |
 | Lore's Tale | 6.00% | ~6 |
 | Tuscari Sea Portal | 6.00% | ~6 |
-| Master Artificer | 6.00% | ~6 |
-| A Monopoly of Might | 6.00% | ~6 |
+| Heroes | 6.00% | ~6 |
 | Balanced | 6.00% | ~6 |
 | Defeat Ianna | 5.00% | ~5 |
 | Defeat Isgrimm | 5.00% | ~5 |
@@ -58,7 +59,6 @@
 | Defeat Yria | 5.00% | ~5 |
 | Lytra's Tale | 5.00% | ~5 |
 | Crypt of the Revenant | 5.00% | ~5 |
-| Heroes | 5.00% | ~5 |
 | Friend of Uram Gor | 5.00% | ~5 |
 | Get to the Airship! | 4.00% | ~4 |
 | Fireforge | 4.00% | ~4 |

@@ -54,8 +54,8 @@ Rating: 3.62 (Ranked 1,079)
 | Scream Team | 0.30% | ~7 |
 | So Anyway I Started Blasting | 0.30% | ~7 |
 | Under a Bushel | 0.30% | ~7 |
+| Enemy of My Enemy | 0.30% | ~7 |
 | Monster Hunters Club | 0.20% | ~4 |
-| Enemy of My Enemy | 0.20% | ~4 |
 | Bob’s Final Hour | 0.20% | ~4 |
 | Faith Healer | 0.10% | ~2 |
 | A Cry in the Dark | 0.10% | ~2 |
@@ -72,7 +72,7 @@ Rating: 3.62 (Ranked 1,079)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,176 (Ranked 237)  
+Progressed: 2,177 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,9 +204,10 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 2,135 | 0 |
 | 2023-12-29 | 2,155 | 0 |
 | 2023-12-30 | 2,176 | 0 |
+| 2023-12-31 | 2,177 | 0 |
 ## Awards
-Max (Great Boss Battles): 20  (Ranked 568)  
-Sum: 20 (Ranked 569)  
+Max (Great Boss Battles): 20  (Ranked 569)  
+Sum: 20 (Ranked 570)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |

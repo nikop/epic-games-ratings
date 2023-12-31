@@ -6,27 +6,27 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~19,352 |
-| Sword Runner | 61.00% | ~15,532 |
-| Running out of breath | 53.00% | ~13,495 |
-| Wallrunner | 53.00% | ~13,495 |
-| Homerunner | 44.00% | ~11,204 |
-| Out of order | 44.00% | ~11,204 |
-| I call it luck | 43.00% | ~10,949 |
-| Where are my Keys? | 40.00% | ~10,185 |
+| Longrunner | 76.00% | ~19,353 |
+| Sword Runner | 61.00% | ~15,534 |
+| Running out of breath | 53.00% | ~13,496 |
+| Wallrunner | 53.00% | ~13,496 |
+| Homerunner | 44.00% | ~11,205 |
+| Out of order | 44.00% | ~11,205 |
+| I call it luck | 43.00% | ~10,950 |
+| Where are my Keys? | 40.00% | ~10,186 |
 | Back to hell | 36.00% | ~9,167 |
-| Perfection | 32.00% | ~8,148 |
-| Sword to a gunfight | 29.00% | ~7,384 |
-| Upgrades not mandatory | 29.00% | ~7,384 |
-| Why not both | 29.00% | ~7,384 |
-| Artificial selection | 27.00% | ~6,875 |
-| Control freak | 27.00% | ~6,875 |
-| Running Wild | 26.00% | ~6,620 |
+| Perfection | 32.00% | ~8,149 |
+| Sword to a gunfight | 29.00% | ~7,385 |
+| Upgrades not mandatory | 29.00% | ~7,385 |
+| Why not both | 29.00% | ~7,385 |
+| Artificial selection | 27.00% | ~6,876 |
+| Control freak | 27.00% | ~6,876 |
+| Running Wild | 26.00% | ~6,621 |
 | Finish line | 25.00% | ~6,366 |
 | Unstoppable force | 22.00% | ~5,602 |
-| Wave of mutilation | 21.00% | ~5,347 |
+| Wave of mutilation | 21.00% | ~5,348 |
 | Can't Run Can't Hide | 16.00% | ~4,074 |
-| R is for Running | 15.00% | ~3,819 |
+| R is for Running | 15.00% | ~3,820 |
 | Dead in the air | 14.00% | ~3,565 |
 | Improvise, adapt, overrun | 12.00% | ~3,056 |
 | Pre-empative strike | 12.00% | ~3,056 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | GR Project Complete | 0.40% | ~102 |
 | Up Close And Personal | 0.40% | ~102 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,463 (Ranked 144)  
+Progressed: 25,465 (Ranked 144)  
 Completed: 98 (0.38%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,10 +307,11 @@ Completed: 98 (0.38%) (Ranked 234)
 | 2023-12-28 | 25,305 | 98 |
 | 2023-12-29 | 25,370 | 98 |
 | 2023-12-30 | 25,463 | 98 |
+| 2023-12-31 | 25,465 | 98 |
 ## Awards
-Max (Great Boss Battles): 531  (Ranked 215)  
+Max (Great Boss Battles): 531  (Ranked 216)  
 Sum: 717 (Ranked 305)  
-Diff (max vs sum): -90  
+Diff (max vs sum): -89  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 531 |

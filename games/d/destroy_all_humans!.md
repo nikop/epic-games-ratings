@@ -10,8 +10,8 @@ Number of Ratings: 85  (23.09.2022)
 | Kaijuiced | 68.00% | ~170 |
 | Lie Back and Think of Albion | 61.00% | ~152 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 60.00% | ~150 |
+| I Look Up As I Walk to Takoshima | 57.00% | ~142 |
 | Yettisoned | 56.00% | ~140 |
-| I Look Up As I Walk to Takoshima | 56.00% | ~140 |
 | Perfect Probulator | 54.00% | ~135 |
 | Pimp My Raid | 51.00% | ~128 |
 | Lobster Blisque | 49.00% | ~122 |
@@ -23,7 +23,7 @@ Number of Ratings: 85  (23.09.2022)
 | Bodied Sattva | 35.00% | ~88 |
 | Upgreatest | 33.00% | ~82 |
 | Furon Fashion | 28.00% | ~70 |
-| Deincarnated | 26.00% | ~65 |
+| Deincarnated | 27.00% | ~68 |
 | Rock of the Bay | 23.00% | ~58 |
 | Trans-Siberian Express | 23.00% | ~58 |
 | Re-Return of the Clone of the Invasion II-2 | 19.00% | ~48 |

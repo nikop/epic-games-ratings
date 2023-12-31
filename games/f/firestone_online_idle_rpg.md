@@ -18,9 +18,9 @@ Rating: 4.03 (Ranked 1,027)
 | Dragon Clicker | 15.00% | ~598 |
 | Miner Clicker | 15.00% | ~598 |
 | Enlightenment | 14.00% | ~558 |
+| Hero inspection | 14.00% | ~558 |
 | Inspection | 14.00% | ~558 |
 | Dragon Master | 13.00% | ~518 |
-| Hero inspection | 13.00% | ~518 |
 | Lieutenant | 12.00% | ~478 |
 | Milestone collector | 11.00% | ~438 |
 | Mysterious Rock | 11.00% | ~438 |
@@ -82,7 +82,7 @@ Rating: 4.03 (Ranked 1,027)
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,984 (Ranked 209)  
-Completed: 2 (0.05%) (Ranked 335)  
+Completed: 2 (0.05%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

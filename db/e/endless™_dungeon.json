@@ -4,8 +4,8 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1431,
+  "EOS_Progressed": 1432,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2995,6 +2995,11 @@
       "Time": "2023-12-30T20:05:07.0955907+00:00",
       "NumProgressed": 1431,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T00:04:59.2430476+00:00",
+      "NumProgressed": 1432,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3087,7 +3092,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -3095,7 +3100,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -3151,7 +3156,7 @@
       "Name": "Hoarder",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -3215,7 +3220,7 @@
       "Name": "Endlessly Effective",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
@@ -3246,14 +3251,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1431,
+      "Progressed": 1432,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:07:20.9561065+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:04:59.2430472+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:00.1965929+00:00",
-  "LastUpdate_Ratings": "2023-12-30T22:57:59.6268354+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:07:20.956138+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:57:09.4225459+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:04:59.2430823+00:00"
 }

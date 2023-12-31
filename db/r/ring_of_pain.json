@@ -2,13 +2,13 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 463,
+  "Ranking_Rating": 464,
   "Ranking_Popularity": 134,
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3814,9 +3814,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 242061,
+  "EOS_Progressed": 242064,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 514,
+  "EOS_NewPlayers": 513,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -30129,6 +30129,11 @@
       "Time": "2023-12-30T23:11:50.3857508+00:00",
       "NumProgressed": 242061,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-31T00:09:41.0092491+00:00",
+      "NumProgressed": 242064,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -30180,7 +30185,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1936
+      "UsersEstimate": 1937
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -30220,7 +30225,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1936
+      "UsersEstimate": 1937
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -30316,7 +30321,7 @@
       "Name": "That Was Quick",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1936
+      "UsersEstimate": 1937
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -30628,7 +30633,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1936
+      "UsersEstimate": 1937
     },
     {
       "ID": "KILLNICEDOG",
@@ -30636,7 +30641,7 @@
       "Name": "Heartless",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1936
+      "UsersEstimate": 1937
     },
     {
       "ID": "KILLPARANOIA",
@@ -30668,7 +30673,7 @@
       "Name": "Spine Breaker",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1936
+      "UsersEstimate": 1937
     },
     {
       "ID": "KILLSPITTER",
@@ -30724,7 +30729,7 @@
       "Name": "A Donation",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1936
+      "UsersEstimate": 1937
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -30740,7 +30745,7 @@
       "Name": "C-C-Combo",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1936
+      "UsersEstimate": 1937
     },
     {
       "ID": "NOEPIC",
@@ -30772,7 +30777,7 @@
       "Name": "Deflection",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1936
+      "UsersEstimate": 1937
     },
     {
       "ID": "PASSIVEDEPTH6",
@@ -31243,13 +31248,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242061,
+      "Progressed": 242064,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3541,
+      "Progressed": 3544,
       "Completed": 416
     }
   ],
@@ -31257,8 +31262,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-30T08:01:44.1465561+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:11:50.3857505+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:09:41.0092486+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:19.1463673+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:03:43.2203708+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:11:50.3860241+00:00"
+  "LastUpdate_Ratings": "2023-12-31T00:00:26.0394476+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:09:41.0095196+00:00"
 }

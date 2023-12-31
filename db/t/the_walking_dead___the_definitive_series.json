@@ -4,11 +4,11 @@
   "ProductSlug": "walking-dead-definitive-series",
   "Ranking_Rating": 25,
   "Ranking_Popularity": 211,
-  "Ranking_PopularitySum": 278,
+  "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2019-09-10T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1588,10 +1588,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 912,
       "NumberOfAwardsMax": 580
+    },
+    {
+      "Time": "2023-12-30T23:58:48.5062294+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 914,
+      "NumberOfAwardsMax": 580
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 912,
+  "NumberOfAwards": 914,
   "NumberOfAwardsMax": 580,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -1617,7 +1623,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 35
+      "Count": 37
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1679,8 +1685,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2023-12-30T19:01:20.0176359+00:00",
+  "LastChanged": "2023-12-30T23:58:48.5062293+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:20:52.819332+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:00:26.7956106+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:04:51.3421607+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:58:48.5062297+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:03:13.1195804+00:00"
 }

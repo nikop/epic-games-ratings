@@ -11,11 +11,11 @@
 | Going Places | 64.00% | ~141 |
 | Aristocratic | 61.00% | ~134 |
 | Tutti Frutti | 56.00% | ~123 |
+| Slotting Machine | 45.00% | ~99 |
 | Gotta Go Fast | 44.00% | ~97 |
-| Slotting Machine | 44.00% | ~97 |
 | Systematic | 43.00% | ~95 |
 | Mine Sweeper | 39.00% | ~86 |
-| Roll Out | 35.00% | ~77 |
+| Roll Out | 36.00% | ~79 |
 | Dopa-Miner | 30.00% | ~66 |
 | Up, Up And Away! | 30.00% | ~66 |
 | Whoa! | 29.00% | ~64 |
@@ -24,8 +24,8 @@
 | Manic Mechanic | 18.00% | ~40 |
 | Steaming Rich | 18.00% | ~40 |
 | Room To Spare | 14.00% | ~31 |
+| Click 'Em All | 5.00% | ~11 |
 | Stack Overflow | 5.00% | ~11 |
-| Click 'Em All | 4.00% | ~9 |
 | Real Purdy | 4.00% | ~9 |
 | Accustomed Customer | 3.00% | ~7 |
 | Interstellar Performance | 2.00% | ~4 |

@@ -4,8 +4,8 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 912,
+  "EOS_Progressed": 913,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3937,6 +3937,11 @@
       "Time": "2023-12-30T21:11:06.302927+00:00",
       "NumProgressed": 912,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T00:09:09.0671595+00:00",
+      "NumProgressed": 913,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3964,7 +3969,7 @@
       "Name": "Culinary Arts",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "5OvenDishesMenu",
@@ -4084,7 +4089,7 @@
       "Name": "Sous-Chef",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Level20",
@@ -4116,7 +4121,7 @@
       "Name": "Rolling in Dough",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "OpenRestaurant",
@@ -4204,7 +4209,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "TrattoriaSet",
@@ -4260,14 +4265,14 @@
       "Name": "Well-Stocked Kitchen",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     }
   ],
   "AchievementSets": [
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 912,
+      "Progressed": 913,
       "Completed": 0
     }
   ],
@@ -4275,8 +4280,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:11:07.1190696+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:09:09.0671592+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:29.3889235+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:02:07.4817853+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:11:07.1191183+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:59:56.2234118+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:09:09.067204+00:00"
 }

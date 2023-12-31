@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 84.00% | ~73,076 |
-| Struck A Pose | 82.00% | ~71,336 |
-| Look At Him Go | 68.00% | ~59,157 |
-| On Rails Experience | 43.00% | ~37,408 |
-| A Daring Devil | 43.00% | ~37,408 |
-| Break the Bank | 33.00% | ~28,708 |
-| It Took Two | 29.00% | ~25,229 |
-| Bug Sized Relaxation | 13.00% | ~11,309 |
-| Plastic Prison Breakers | 13.00% | ~11,309 |
-| Terror Of The Seven Seas | 10.00% | ~8,700 |
-| Realize Your Art | 8.00% | ~6,960 |
-| Force Triangulated | 8.00% | ~6,960 |
-| Meditation Maestro | 7.00% | ~6,090 |
-| Snackosaurus | 6.00% | ~5,220 |
-| Platforming Prodigy | 6.00% | ~5,220 |
-| Lost And Found | 6.00% | ~5,220 |
-| Something Fishy | 6.00% | ~5,220 |
-| Mood Swing | 4.00% | ~3,480 |
-| Faraway Frequencies | 3.00% | ~2,610 |
+| Fried Friendship | 84.00% | ~73,096 |
+| Struck A Pose | 82.00% | ~71,356 |
+| Look At Him Go | 68.00% | ~59,173 |
+| On Rails Experience | 43.00% | ~37,418 |
+| A Daring Devil | 43.00% | ~37,418 |
+| Break the Bank | 33.00% | ~28,716 |
+| It Took Two | 29.00% | ~25,236 |
+| Bug Sized Relaxation | 13.00% | ~11,312 |
+| Plastic Prison Breakers | 13.00% | ~11,312 |
+| Terror Of The Seven Seas | 10.00% | ~8,702 |
+| Realize Your Art | 8.00% | ~6,962 |
+| Force Triangulated | 8.00% | ~6,962 |
+| Meditation Maestro | 7.00% | ~6,091 |
+| Snackosaurus | 6.00% | ~5,221 |
+| Platforming Prodigy | 6.00% | ~5,221 |
+| Lost And Found | 6.00% | ~5,221 |
+| Something Fishy | 6.00% | ~5,221 |
+| Mood Swing | 4.00% | ~3,481 |
+| Faraway Frequencies | 3.00% | ~2,611 |
 | Minigame Megalomania | 2.00% | ~1,740 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,995 (Ranked 102)  
+Progressed: 87,019 (Ranked 102)  
 Completed: 184 (0.21%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,3 +132,4 @@ Completed: 184 (0.21%) (Ranked 271)
 | 2023-12-28 | 81,014 | 175 |
 | 2023-12-29 | 83,637 | 178 |
 | 2023-12-30 | 86,995 | 184 |
+| 2023-12-31 | 87,019 | 184 |

@@ -3,12 +3,12 @@
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
   "Ranking_Rating": 84,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 222,
-  "Ranking_EOS_Completed": 211,
+  "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -169,7 +169,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3165,
+  "EOS_Progressed": 3166,
   "EOS_Completed": 17,
   "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 1,
@@ -5564,6 +5564,11 @@
       "Time": "2023-12-30T23:06:06.9151404+00:00",
       "NumProgressed": 3165,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-12-31T00:04:06.3437507+00:00",
+      "NumProgressed": 3166,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 53,
@@ -5575,7 +5580,7 @@
       "Name": "Embrace the darkness",
       "Percentage": 13,
       "XP": 120,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "STB_COLISSEUM_FIRST",
@@ -5639,7 +5644,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3007
+      "UsersEstimate": 3008
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -5647,7 +5652,7 @@
       "Name": "My heart and sword always for Demacia",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
@@ -5655,7 +5660,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2437
+      "UsersEstimate": 2438
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -5701,9 +5706,9 @@
       "ID": "STB_DEFEAT_NIGHTMARE_II",
       "SetID": "3pe2bac",
       "Name": "Little light",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 760
+      "UsersEstimate": 728
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -5719,7 +5724,7 @@
       "Name": "True power",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_III",
@@ -5743,7 +5748,7 @@
       "Name": "Chains master",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
@@ -5751,7 +5756,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2405
+      "UsersEstimate": 2406
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -5759,7 +5764,7 @@
       "Name": "No more cages!",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 2880
+      "UsersEstimate": 2881
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -5767,7 +5772,7 @@
       "Name": "Meltridge",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "STB_MISSION11_COMPLETED",
@@ -5775,7 +5780,7 @@
       "Name": "The end of the experiments",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "STB_MISSION12_COMPLETED",
@@ -5791,7 +5796,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2405
+      "UsersEstimate": 2406
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -5799,7 +5804,7 @@
       "Name": "Thornbarrow",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -5823,7 +5828,7 @@
       "Name": "Sacred Woods",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -5871,7 +5876,7 @@
       "Name": "Truth is a dark mirror",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "STB_PET_DOG",
@@ -5879,7 +5884,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1899
+      "UsersEstimate": 1900
     },
     {
       "ID": "STB_PET_HORSE",
@@ -5887,7 +5892,7 @@
       "Name": "You can pet the... horse",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "STB_PLATINUM",
@@ -5927,7 +5932,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -5943,7 +5948,7 @@
       "Name": "Cloven Dell Headquarters",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -5951,7 +5956,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2310
+      "UsersEstimate": 2311
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -5959,7 +5964,7 @@
       "Name": "Spellcrafting",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "STB_UNLOCK_ALL_SLOTS_IMPROVEMENTS",
@@ -5975,7 +5980,7 @@
       "Name": "Call it \u0027redistribution of magic",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "STB_UNLOCK_ULTIMATE",
@@ -5991,14 +5996,14 @@
       "Name": "Petricite Burst",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3165,
+      "Progressed": 3166,
       "Completed": 17
     }
   ],
@@ -6006,8 +6011,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-30T20:57:35.994685+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:06:06.9151399+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:04:06.3437502+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:16.0545663+00:00",
-  "LastUpdate_Ratings": "2023-12-30T22:57:55.1107328+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:06:06.9151943+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:57:06.7638045+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:04:06.3438166+00:00"
 }

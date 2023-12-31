@@ -2,10 +2,10 @@
   "ID": "b5ab16ebd552476688116e187acd2151",
   "Name": "Ten Dates",
   "ProductSlug": "ten-dates-9a188a",
-  "Ranking_EOS_Progress": 357,
+  "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
     "PcReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 426,
+  "EOS_Progressed": 428,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
@@ -1141,6 +1141,11 @@
       "Time": "2023-12-30T22:10:18.3747765+00:00",
       "NumProgressed": 426,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-31T00:09:08.1717847+00:00",
+      "NumProgressed": 428,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 19,
@@ -1184,15 +1189,15 @@
       "Name": "Let it begin",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "profile_ryan",
       "SetID": "6h5h9ho",
       "Name": "That wasn\u0027t so bad",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 381
     },
     {
       "ID": "ryan_date2_all",
@@ -1216,7 +1221,7 @@
       "Name": "The activist",
       "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "success_bash",
@@ -1224,7 +1229,7 @@
       "Name": "The lad",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "success_brandy",
@@ -1240,7 +1245,7 @@
       "Name": "The debonair",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "success_hazel",
@@ -1264,7 +1269,7 @@
       "Name": "The intellectual",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "success_lucas",
@@ -1278,9 +1283,9 @@
       "ID": "success_toni",
       "SetID": "6h5h9ho",
       "Name": "The athlete",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 115
+      "UsersEstimate": 111
     },
     {
       "ID": "success_ty",
@@ -1303,7 +1308,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 426,
+      "Progressed": 428,
       "Completed": 5
     }
   ],
@@ -1311,8 +1316,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:11:05.8783466+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:09:08.1717842+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:31.6181665+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:04:02.1159495+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:11:05.8783683+00:00"
+  "LastUpdate_Ratings": "2023-12-31T00:02:38.2638998+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:09:08.1718071+00:00"
 }

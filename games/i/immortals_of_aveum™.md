@@ -5,18 +5,18 @@ Rating: 4.20 (Ranked 950)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~2,024 |
-| Battlefields Have Memories | 80.00% | ~1,862 |
-| Enlisted | 73.00% | ~1,699 |
-| Maybe Engage a Little | 68.00% | ~1,582 |
+| Unforeseen | 87.00% | ~2,026 |
+| Battlefields Have Memories | 80.00% | ~1,863 |
+| Enlisted | 73.00% | ~1,700 |
+| Maybe Engage a Little | 68.00% | ~1,584 |
 | No More Names | 50.00% | ~1,164 |
-| Initiate | 35.00% | ~814 |
+| Initiate | 35.00% | ~815 |
 | Thrada-Kul | 32.00% | ~745 |
 | Gravity-Challenged Rocks | 25.00% | ~582 |
-| Socialite | 23.00% | ~535 |
+| Socialite | 23.00% | ~536 |
 | Soldier | 21.00% | ~489 |
 | All the Major Food Groups | 21.00% | ~489 |
-| Beggars Would Ride | 19.00% | ~442 |
+| Beggars Would Ride | 19.00% | ~443 |
 | Control is an Illusion | 18.00% | ~419 |
 | The Means to Save It | 15.00% | ~349 |
 | Resilience to Sin | 14.00% | ~326 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 950)
 | Out of Time | 0.20% | ~5 |
 | Fowl Play | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,327 (Ranked 233)  
+Progressed: 2,329 (Ranked 233)  
 Completed: 2 (0.09%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,6 +147,7 @@ Completed: 2 (0.09%) (Ranked 312)
 | 2023-12-28 | 2,136 | 2 |
 | 2023-12-29 | 2,236 | 2 |
 | 2023-12-30 | 2,327 | 2 |
+| 2023-12-31 | 2,329 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

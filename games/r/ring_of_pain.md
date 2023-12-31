@@ -1,7 +1,7 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 463)  
+Rating: 4.58 (Ranked 464)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -16,15 +16,15 @@ Number of Ratings: 15,086  (23.09.2022)
 | Explorer | 0.90% | ~2,179 |
 | An Offering | 0.90% | ~2,179 |
 | Not Touching You | 0.90% | ~32 |
-| Nothing To Lose | 0.80% | ~1,936 |
-| Heavy Hitter | 0.80% | ~1,936 |
-| That Was Quick | 0.80% | ~1,936 |
-| Goodbye, Frog Friend | 0.80% | ~1,936 |
-| Heartless | 0.80% | ~1,936 |
-| Spine Breaker | 0.80% | ~1,936 |
-| A Donation | 0.80% | ~1,936 |
-| C-C-Combo | 0.80% | ~1,936 |
-| Deflection | 0.80% | ~1,936 |
+| Nothing To Lose | 0.80% | ~1,937 |
+| Heavy Hitter | 0.80% | ~1,937 |
+| That Was Quick | 0.80% | ~1,937 |
+| Goodbye, Frog Friend | 0.80% | ~1,937 |
+| Heartless | 0.80% | ~1,937 |
+| Spine Breaker | 0.80% | ~1,937 |
+| A Donation | 0.80% | ~1,937 |
+| C-C-Combo | 0.80% | ~1,937 |
+| Deflection | 0.80% | ~1,937 |
 | Ambitious Intent | 0.70% | ~1,694 |
 | Delving Deeper | 0.70% | ~1,694 |
 | R.I.P | 0.70% | ~1,694 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,061 (Ranked 70)  
+Progressed: 242,064 (Ranked 70)  
 Completed: 302 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -400,6 +400,7 @@ Completed: 302 (0.12%) (Ranked 301)
 | 2023-12-28 | 241,919 | 302 |
 | 2023-12-29 | 241,985 | 302 |
 | 2023-12-30 | 242,061 | 302 |
+| 2023-12-31 | 242,064 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 134)  
 Sum: 11,770 (Ranked 88)  

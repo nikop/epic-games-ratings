@@ -12,8 +12,8 @@ Rating: 3.85 (Ranked 1,061)
 | Great Doctor | 50.00% | ~920 |
 | Dog Whisperer | 48.00% | ~883 |
 | Friendly | 46.00% | ~846 |
+| The Capitalist | 44.00% | ~809 |
 | K.O.! | 43.00% | ~791 |
-| The Capitalist | 43.00% | ~791 |
 | Intermediate Chemist | 39.00% | ~717 |
 | Decorative Mind | 33.00% | ~607 |
 | Lumber Specialist | 31.00% | ~570 |
@@ -44,7 +44,7 @@ Rating: 3.85 (Ranked 1,061)
 | Moonbury Navigator | 1.00% | ~18 |
 | Being a donut... | 0.70% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,839 (Ranked 245)  
+Progressed: 1,839 (Ranked 246)  
 Completed: 11 (0.60%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |

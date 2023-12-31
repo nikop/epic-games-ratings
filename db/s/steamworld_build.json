@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -918,9 +918,9 @@
       "ID": "ClickEmAll",
       "SetID": "4bd750m",
       "Name": "Click \u0027Em All",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "ConductedTrade",
@@ -1030,9 +1030,9 @@
       "ID": "RollOut",
       "SetID": "4bd750m",
       "Name": "Roll Out",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "RoomToSpare",
@@ -1046,9 +1046,9 @@
       "ID": "SlottingMachine",
       "SetID": "4bd750m",
       "Name": "Slotting Machine",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "StackOverflow",
@@ -1125,8 +1125,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:07:41.254388+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:05:13.7831029+00:00",
   "LastUpdate_AppInfo": "2023-12-24T02:21:56.3930423+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:04:32.9759956+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:07:41.2544087+00:00"
+  "LastUpdate_Ratings": "2023-12-31T00:03:00.1983716+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:05:13.7831191+00:00"
 }

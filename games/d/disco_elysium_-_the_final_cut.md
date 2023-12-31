@@ -6,9 +6,9 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~38,193 |
-| Biggest Communism Builder | 24.00% | ~32,737 |
-| The World's Most Laughable Centrist | 20.00% | ~27,281 |
+| Goodest Of The Good Cops | 28.00% | ~38,194 |
+| Biggest Communism Builder | 24.00% | ~32,738 |
+| The World's Most Laughable Centrist | 20.00% | ~27,282 |
 | Il Coppo Del'Arte! | 18.00% | ~24,553 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,825 |
 | Hyperstellar Law Official | 15.00% | ~20,461 |
@@ -16,9 +16,9 @@ Number of Ratings: 1,611  (23.09.2022)
 | Gurdi-Ball Is Lit | 14.00% | ~19,097 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~17,733 |
 | Truly Rabid *Traditionalist* | 11.00% | ~15,005 |
-| Unbelievably Boring **** | 9.00% | ~12,276 |
-| The Figurines Won't Win Her Back | 9.00% | ~12,276 |
-| Enemy Of The Physical Realm | 8.00% | ~10,912 |
+| Unbelievably Boring **** | 9.00% | ~12,277 |
+| The Figurines Won't Win Her Back | 9.00% | ~12,277 |
+| Enemy Of The Physical Realm | 8.00% | ~10,913 |
 | Hardie's Heroes | 6.00% | ~8,184 |
 | The Lawbringer | 4.00% | ~5,456 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,456 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~136 |
 | What body? | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,405 (Ranked 88)  
+Progressed: 136,408 (Ranked 88)  
 Completed: 28 (0.02%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,6 +302,7 @@ Completed: 28 (0.02%) (Ranked 359)
 | 2023-12-28 | 135,988 | 28 |
 | 2023-12-29 | 136,177 | 28 |
 | 2023-12-30 | 136,405 | 28 |
+| 2023-12-31 | 136,408 | 28 |
 ## Awards
 Max (Character Customization): 756  (Ranked 187)  
 Sum: 1,152 (Ranked 257)  

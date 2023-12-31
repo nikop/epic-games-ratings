@@ -4,8 +4,8 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 830,
+  "EOS_Progressed": 831,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.2,
   "EosHistory": [
@@ -2850,6 +2850,11 @@
       "Time": "2023-12-30T23:10:01.8121379+00:00",
       "NumProgressed": 830,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-31T00:08:22.6656069+00:00",
+      "NumProgressed": 831,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2870,7 +2875,7 @@
       "Name": "Establish Communications",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "ACH_eou2",
@@ -2894,7 +2899,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_eou5",
@@ -2910,7 +2915,7 @@
       "Name": "Destroy Strogg Main Reactor",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_eou7",
@@ -2918,7 +2923,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_eou8",
@@ -2940,9 +2945,9 @@
       "ID": "ACH_n64",
       "SetID": "51of0eo",
       "Name": "Shut Down the Core",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 120,
-      "UsersEstimate": 58
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_rogue",
@@ -2965,14 +2970,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 830,
+      "Progressed": 831,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:10:01.8121371+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:08:22.6656066+00:00",
   "LastUpdate_AppInfo": "2023-12-29T06:57:16.3144275+00:00",
-  "LastUpdate_Ratings": "2023-12-30T22:59:35.9264065+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:10:01.8121638+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:58:15.2356439+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:08:22.6656271+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "e5fe6253deb3455c9ce9ecf0d2b68a6d",
   "Name": "Bus World",
   "ProductSlug": "bus-world-5de29e",
-  "Ranking_EOS_Progress": 350,
+  "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T03:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 461,
+  "EOS_Progressed": 462,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
@@ -1779,6 +1779,11 @@
       "Time": "2023-12-30T22:05:17.6010909+00:00",
       "NumProgressed": 461,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T00:04:20.3739464+00:00",
+      "NumProgressed": 462,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -1805,9 +1810,9 @@
       "ID": "Dissatisfaction",
       "SetID": "cjfnji1",
       "Name": "Critical dissatisfaction",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 28
     },
     {
       "ID": "Full",
@@ -1815,7 +1820,7 @@
       "Name": "Full load",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "Island",
@@ -1831,7 +1836,7 @@
       "Name": "In the last second",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "Master",
@@ -1869,7 +1874,7 @@
       "ID": "Speed",
       "SetID": "cjfnji1",
       "Name": "Speed",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -1879,7 +1884,7 @@
       "Name": "Tangentially",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "USSR",
@@ -1902,14 +1907,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 461,
+      "Progressed": 462,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:06:26.370986+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:04:20.373946+00:00",
   "LastUpdate_AppInfo": "2023-12-26T03:57:05.7358666+00:00",
-  "LastUpdate_Ratings": "2023-12-30T22:58:33.1109051+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:06:26.3710037+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:57:31.3924599+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:04:20.3739681+00:00"
 }

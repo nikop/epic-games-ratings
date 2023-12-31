@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
     "PcReleaseDate": "2019-12-05T15:00:00+00:00",
@@ -445,9 +445,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 308,
+  "EOS_Progressed": 311,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1275,6 +1275,11 @@
       "Time": "2023-12-30T20:09:51.4236574+00:00",
       "NumProgressed": 308,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T00:09:18.4649371+00:00",
+      "NumProgressed": 311,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -1421,9 +1426,9 @@
       "ID": "MintI",
       "SetID": "329ak73",
       "Name": "Mint I",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "MintII",
@@ -1471,7 +1476,7 @@
       "Name": "Soul Cache",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "TheDeadCourt",
@@ -1526,15 +1531,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 308,
+      "Progressed": 311,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:11:20.5338305+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:09:18.4649368+00:00",
   "LastUpdate_AppInfo": "2023-12-24T01:46:29.0736038+00:00",
-  "LastUpdate_Ratings": "2023-12-30T22:58:25.3451999+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:11:20.5338529+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:57:26.7685538+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:09:18.4649614+00:00"
 }

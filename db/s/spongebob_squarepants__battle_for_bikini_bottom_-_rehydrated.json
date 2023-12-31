@@ -6,8 +6,8 @@
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 337,
-  "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_Completed": 181,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
@@ -317,11 +317,11 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 551,
+  "EOS_Progressed": 553,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 0.91,
+  "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -1502,6 +1502,11 @@
       "Time": "2023-12-30T23:08:57.5312795+00:00",
       "NumProgressed": 551,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-31T00:06:06.8380545+00:00",
+      "NumProgressed": 553,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1584,9 +1589,9 @@
       "ID": "ACH_JELLYFISHING",
       "SetID": "biiejkc",
       "Name": "Jellyfishing",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -1712,9 +1717,9 @@
       "ID": "ACH_STAT_COLLECT_SOCKS",
       "SetID": "biiejkc",
       "Name": "Sock Getter",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -1769,15 +1774,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 551,
+      "Progressed": 553,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:08:57.531279+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:06:06.8380541+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2023-12-30T22:58:32.9067421+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:08:57.5313037+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:57:31.2102558+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:06:06.8380861+00:00"
 }

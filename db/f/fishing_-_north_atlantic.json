@@ -3,12 +3,12 @@
   "Name": "Fishing - North Atlantic",
   "ProductSlug": "fishing-north-atlantic-9fbc5c",
   "Ranking_Rating": 783,
-  "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 574,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-03-10T00:00:00+00:00",
     "PcReleaseDate": "2022-03-10T00:00:00+00:00",
@@ -204,8 +204,8 @@
   "FirstSeen": "2022-07-22T20:24:51.8726986+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.3737934+00:00",
   "LastChanged": "2023-12-29T11:03:10.7355026+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:07:33.578154+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:05:08.118408+00:00",
   "LastUpdate_AppInfo": "2023-12-23T23:57:16.3465866+00:00",
-  "LastUpdate_Ratings": "2023-12-30T23:04:35.8306316+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:07:33.5781582+00:00"
+  "LastUpdate_Ratings": "2023-12-31T00:03:02.2201622+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:05:08.1184096+00:00"
 }

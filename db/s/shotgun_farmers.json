@@ -4,8 +4,8 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -2066,9 +2066,9 @@
       "ID": "ach_waves_1",
       "SetID": "bf10c8p",
       "Name": "Survivor",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 178
     },
     {
       "ID": "ach_waves_10",
@@ -2114,9 +2114,9 @@
       "ID": "ach_x_farmers_same_sniper",
       "SetID": "bf10c8p",
       "Name": "Aspairagus",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 191
     },
     {
       "ID": "ach_x_peastol_healing_done",
@@ -2217,8 +2217,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-12-30T23:08:47.5086834+00:00",
+  "LastChanged_Achievements": "2023-12-31T00:05:59.5964473+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:22.0984581+00:00",
-  "LastUpdate_Ratings": "2023-12-30T22:58:37.2070396+00:00",
-  "LastUpdate_Achievements": "2023-12-30T23:08:47.5087625+00:00"
+  "LastUpdate_Ratings": "2023-12-30T23:57:34.0772845+00:00",
+  "LastUpdate_Achievements": "2023-12-31T00:05:59.5965105+00:00"
 }

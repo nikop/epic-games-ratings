@@ -5,16 +5,16 @@ Rating: 4.15 (Ranked 982)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 42.00% | ~33,581 |
-| As Far Away As Possible | 20.00% | ~15,991 |
-| More Power to You | 16.00% | ~12,793 |
-| A Most Unstable Organism | 14.00% | ~11,194 |
-| No Time to Follow Protocol | 9.00% | ~7,196 |
-| Float Like a Butterfly... | 8.00% | ~6,396 |
-| Nano Connoisseur | 7.00% | ~5,597 |
-| In Two Places At Once | 6.00% | ~4,797 |
-| Pulling Your Weight | 3.00% | ~2,399 |
-| Reaping Rivals | 3.00% | ~2,399 |
+| Your Lucky Day | 42.00% | ~33,597 |
+| As Far Away As Possible | 20.00% | ~15,998 |
+| More Power to You | 16.00% | ~12,799 |
+| A Most Unstable Organism | 14.00% | ~11,199 |
+| No Time to Follow Protocol | 9.00% | ~7,199 |
+| Float Like a Butterfly... | 8.00% | ~6,399 |
+| Nano Connoisseur | 7.00% | ~5,599 |
+| In Two Places At Once | 6.00% | ~4,800 |
+| Pulling Your Weight | 3.00% | ~2,400 |
+| Reaping Rivals | 3.00% | ~2,400 |
 | fifteenth Time's the Charm | 1.00% | ~800 |
 | Gone Rogue | 0.80% | ~640 |
 | Memory Keeper | 0.40% | ~320 |
@@ -22,7 +22,7 @@ Rating: 4.15 (Ranked 982)
 | Runs for Your Money | 0.30% | ~240 |
 | Past Master | 0.30% | ~240 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,955 (Ranked 108)  
+Progressed: 79,992 (Ranked 108)  
 Completed: 61 (0.08%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,10 +148,11 @@ Completed: 61 (0.08%) (Ranked 321)
 | 2023-12-28 | 78,280 | 61 |
 | 2023-12-29 | 79,083 | 61 |
 | 2023-12-30 | 79,955 | 61 |
+| 2023-12-31 | 79,992 | 61 |
 ## Awards
 Max (Great for Beginners): 123  (Ranked 349)  
-Sum: 485 (Ranked 336)  
-Diff (max vs sum): 13  
+Sum: 486 (Ranked 337)  
+Diff (max vs sum): 12  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 123 |
@@ -160,7 +161,7 @@ Diff (max vs sum): 13
 | This game is Extremely Fun | 59 |
 | This game has Amazing Characters | 59 |
 | This game has a Competitive Community | 54 |
-| This game has Amazing Storytelling | 50 |
+| This game has Amazing Storytelling | 51 |
 | This game has Quickly Understood Controls | 47 |
 | This game is Relaxing | 40 |
 | This game has Unique Visuals | 20 |
@@ -271,3 +272,4 @@ Diff (max vs sum): 13
 | 2023-12-28 | 4.16 | 121 | 478 |
 | 2023-12-29 | 4.16 | 123 | 480 |
 | 2023-12-30 | 4.15 | 123 | 485 |
+| 2023-12-31 | 4.15 | 123 | 486 |
