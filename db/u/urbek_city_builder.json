@@ -4,8 +4,8 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 356,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 473,
+  "EOS_Progressed": 475,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1690,6 +1690,11 @@
       "Time": "2023-12-31T11:11:03.9943012+00:00",
       "NumProgressed": 473,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T13:12:06.5978323+00:00",
+      "NumProgressed": 475,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1789,7 +1794,7 @@
       "Name": "Food producer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "COMIDA_2",
@@ -1853,7 +1858,7 @@
       "Name": "I love books!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "CULTURE_3",
@@ -2133,7 +2138,7 @@
       "Name": "Small town",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "POPULATION_2",
@@ -2332,7 +2337,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 473,
+      "Progressed": 475,
       "Completed": 0
     }
   ],
@@ -2340,8 +2345,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-12-31T12:10:24.1258415+00:00",
+  "LastChanged_Achievements": "2023-12-31T13:12:06.5978321+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:29.1030987+00:00",
-  "LastUpdate_Ratings": "2023-12-31T12:03:15.6643601+00:00",
-  "LastUpdate_Achievements": "2023-12-31T12:10:24.1259133+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:05:00.9980861+00:00",
+  "LastUpdate_Achievements": "2023-12-31T13:12:06.5979261+00:00"
 }

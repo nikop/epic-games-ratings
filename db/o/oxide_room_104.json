@@ -4,8 +4,8 @@
   "ProductSlug": "oxide-room-104-4c1249",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 356,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 294,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -1435,9 +1435,9 @@
       "ID": "ACH_ESCAPEDOC",
       "SetID": "511e31d",
       "Name": "The real escape",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_EVADOCUMENTS",
@@ -1618,8 +1618,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-12-31T12:05:23.6273847+00:00",
+  "LastChanged_Achievements": "2023-12-31T13:07:09.2804007+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:24.2015651+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:59:28.7191692+00:00",
-  "LastUpdate_Achievements": "2023-12-31T12:05:23.6274081+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:01:17.9674515+00:00",
+  "LastUpdate_Achievements": "2023-12-31T13:07:09.280425+00:00"
 }

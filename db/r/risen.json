@@ -5,10 +5,10 @@
   "Ranking_Rating": 522,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
-  "Ranking_EOS_Progress": 452,
+  "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
     "PcReleaseDate": "2009-10-30T16:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 143,
+  "EOS_Progressed": 144,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -770,6 +770,11 @@
       "Time": "2023-12-31T02:35:22.9673402+00:00",
       "NumProgressed": 143,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T13:12:01.0349612+00:00",
+      "NumProgressed": 144,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T08:07:32.4989951+00:00",
@@ -780,9 +785,9 @@
       "ID": "id_10",
       "SetID": "bk9jib6",
       "Name": "The merciful one",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "id_11",
@@ -854,7 +859,7 @@
       "Name": "Field hand",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "id_20",
@@ -870,7 +875,7 @@
       "Name": "Ghost hunter",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "id_23",
@@ -894,7 +899,7 @@
       "Name": "Titan Lord",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "id_3",
@@ -902,7 +907,7 @@
       "Name": "Philanthropist",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "id_30",
@@ -910,7 +915,7 @@
       "Name": "Beginner",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "id_32",
@@ -942,7 +947,7 @@
       "Name": "Beast slayer",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "id_37",
@@ -958,7 +963,7 @@
       "Name": "Samaritan",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "id_42",
@@ -1054,7 +1059,7 @@
       "Name": "Idiot",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "id_53",
@@ -1092,9 +1097,9 @@
       "ID": "id_57",
       "SetID": "bk9jib6",
       "Name": "Well-to-do",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 48
     },
     {
       "ID": "id_58",
@@ -1124,9 +1129,9 @@
       "ID": "id_60",
       "SetID": "bk9jib6",
       "Name": "Adventurer",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "id_61",
@@ -1134,7 +1139,7 @@
       "Name": "Map reader",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "id_62",
@@ -1142,7 +1147,7 @@
       "Name": "Archer",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "id_63",
@@ -1150,7 +1155,7 @@
       "Name": "King of the handymen",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "id_7",
@@ -1174,14 +1179,14 @@
       "Name": "Master detective",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
     {
       "ID": "bk9jib6",
       "IsBase": true,
-      "Progressed": 143,
+      "Progressed": 144,
       "Completed": 0
     }
   ],
@@ -1189,8 +1194,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-28T07:02:46.0007261+00:00",
-  "LastChanged_Achievements": "2023-12-31T12:10:18.4509141+00:00",
+  "LastChanged_Achievements": "2023-12-31T13:12:01.034961+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:11.6693375+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:57:44.0566613+00:00",
-  "LastUpdate_Achievements": "2023-12-31T12:10:18.4509513+00:00"
+  "LastUpdate_Ratings": "2023-12-31T12:59:36.9167954+00:00",
+  "LastUpdate_Achievements": "2023-12-31T13:12:01.0350048+00:00"
 }

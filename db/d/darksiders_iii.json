@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -456,7 +456,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 328,
+  "EOS_Progressed": 329,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
@@ -1291,6 +1291,11 @@
       "Time": "2023-12-31T12:05:16.3920525+00:00",
       "NumProgressed": 328,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T13:07:01.8367377+00:00",
+      "NumProgressed": 329,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -1311,7 +1316,7 @@
       "Name": "Unyielding Strength",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Collect_AdamantinePure_3",
@@ -1349,9 +1354,9 @@
       "ID": "Collect_Artifact_EpicShard",
       "SetID": "7a5k76n",
       "Name": "One Of the Chosen",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 138
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
@@ -1359,7 +1364,7 @@
       "Name": "Increased Capacity",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
@@ -1381,9 +1386,9 @@
       "ID": "Collect_HealthStone_HealUpgrade_4",
       "SetID": "7a5k76n",
       "Name": "Maximum Vigor",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 102
     },
     {
       "ID": "Collect_Hollow_Flame",
@@ -1391,15 +1396,15 @@
       "Name": "Fight Fire with Fire",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Collect_Hollow_Force",
       "SetID": "7a5k76n",
       "Name": "I Wanna Rock",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 102
     },
     {
       "ID": "Collect_Hollow_Stasis",
@@ -1421,9 +1426,9 @@
       "ID": "Collect_Lurchers_100000",
       "SetID": "7a5k76n",
       "Name": "Soul Harvester",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 118
     },
     {
       "ID": "Collect_Lurchers_1000000",
@@ -1463,7 +1468,7 @@
       "Name": "Can you restore the Balance?",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Craft_Enhancement_Balanced_5",
@@ -1655,7 +1660,7 @@
       "Name": "Green with Envy",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "Kill_Sin_Gluttony",
@@ -1663,7 +1668,7 @@
       "Name": "Eat Your Heart Out",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Kill_Sin_Lust",
@@ -1685,9 +1690,9 @@
       "ID": "Kill_Sin_Sloth",
       "SetID": "7a5k76n",
       "Name": "Throne Potato",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 132
     },
     {
       "ID": "Kill_Sin_Wrath",
@@ -1711,15 +1716,15 @@
       "Name": "Helping Hand",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "Save_Humans_10",
       "SetID": "7a5k76n",
       "Name": "Crowd Source",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 72
     },
     {
       "ID": "Save_Humans_15",
@@ -1773,9 +1778,9 @@
       "ID": "Spend_AttributePoint_50",
       "SetID": "7a5k76n",
       "Name": "Big Spender",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     },
     {
       "ID": "Unlocked_49_Achievements",
@@ -1814,15 +1819,15 @@
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 328,
+      "Progressed": 329,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-29T15:59:12.0320887+00:00",
-  "LastChanged_Achievements": "2023-12-31T12:05:16.3920513+00:00",
+  "LastChanged_Achievements": "2023-12-31T13:07:01.8367374+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2023-12-31T12:00:33.3416384+00:00",
-  "LastUpdate_Achievements": "2023-12-31T12:05:16.3921056+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:02:22.3033259+00:00",
+  "LastUpdate_Achievements": "2023-12-31T13:07:01.836779+00:00"
 }

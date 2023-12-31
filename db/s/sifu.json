@@ -8557,10 +8557,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 11945,
       "NumberOfAwardsMax": 7061
+    },
+    {
+      "Time": "2023-12-31T13:05:12.4698708+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11948,
+      "NumberOfAwardsMax": 7061
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11945,
+  "NumberOfAwards": 11948,
   "NumberOfAwardsMax": 7061,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8592,7 +8598,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 602
+      "Count": 605
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8637,9 +8643,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 749931,
+  "EOS_Progressed": 749989,
   "EOS_Completed": 12970,
-  "EOS_NewPlayers": 7297,
+  "EOS_NewPlayers": 7243,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.73,
   "EosHistory": [
@@ -31727,6 +31733,11 @@
       "Time": "2023-12-31T12:09:23.6845574+00:00",
       "NumProgressed": 749931,
       "NumCompleted": 12970
+    },
+    {
+      "Time": "2023-12-31T13:11:06.4297133+00:00",
+      "NumProgressed": 749989,
+      "NumCompleted": 12970
     }
   ],
   "TotalAchievements": 60,
@@ -31738,7 +31749,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37497
+      "UsersEstimate": 37499
     },
     {
       "ID": "02_Vengeance_H1",
@@ -31746,7 +31757,7 @@
       "Name": "The Assault",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22498
+      "UsersEstimate": 22500
     },
     {
       "ID": "03_Vengeance_H2",
@@ -31754,7 +31765,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14999
+      "UsersEstimate": 15000
     },
     {
       "ID": "04_Vengeance_H3",
@@ -31762,7 +31773,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14999
+      "UsersEstimate": 15000
     },
     {
       "ID": "05_Vengeance_H4",
@@ -31770,7 +31781,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7499
+      "UsersEstimate": 7500
     },
     {
       "ID": "06_Vengeance_H5",
@@ -31778,7 +31789,7 @@
       "Name": "Furious Fists",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 7499
+      "UsersEstimate": 7500
     },
     {
       "ID": "07_Wude_H1",
@@ -31826,7 +31837,7 @@
       "Name": "Scareless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7499
+      "UsersEstimate": 7500
     },
     {
       "ID": "13_LowAge",
@@ -31842,7 +31853,7 @@
       "Name": "Kill Nil",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 7499
+      "UsersEstimate": 7500
     },
     {
       "ID": "15_Detective_H1",
@@ -31890,7 +31901,7 @@
       "Name": "Stuntmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14999
+      "UsersEstimate": 15000
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -31898,7 +31909,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6749
+      "UsersEstimate": 6750
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -31906,7 +31917,7 @@
       "Name": "Street Fighting",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14999
+      "UsersEstimate": 15000
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -31914,7 +31925,7 @@
       "Name": "Life is your teacher",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29997
+      "UsersEstimate": 30000
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -31922,7 +31933,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14999
+      "UsersEstimate": 15000
     },
     {
       "ID": "25_ShrineMind",
@@ -31930,7 +31941,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7499
+      "UsersEstimate": 7500
     },
     {
       "ID": "26_ShrineSpirit",
@@ -31938,7 +31949,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14999
+      "UsersEstimate": 15000
     },
     {
       "ID": "27_ShrineBody",
@@ -31946,7 +31957,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14999
+      "UsersEstimate": 15000
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -31970,7 +31981,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7499
+      "UsersEstimate": 7500
     },
     {
       "ID": "31_ComboHigh",
@@ -31986,7 +31997,7 @@
       "Name": "Old Child",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14999
+      "UsersEstimate": 15000
     },
     {
       "ID": "33_BladeOneShot",
@@ -32002,7 +32013,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 29997
+      "UsersEstimate": 30000
     },
     {
       "ID": "35_WideStrike",
@@ -32010,7 +32021,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7499
+      "UsersEstimate": 7500
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -32018,7 +32029,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7499
+      "UsersEstimate": 7500
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -32026,7 +32037,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14999
+      "UsersEstimate": 15000
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -32050,7 +32061,7 @@
       "Name": "Take damage to save time",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7499
+      "UsersEstimate": 7500
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -32074,7 +32085,7 @@
       "Name": "Project Arena",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -32082,7 +32093,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -32098,7 +32109,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -32130,7 +32141,7 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "51_Arena_TigerAll",
@@ -32138,7 +32149,7 @@
       "Name": "Crouching Tiger",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "52_Arena_DragonAll",
@@ -32154,7 +32165,7 @@
       "Name": "Skill and an even stronger will",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "54_Arena_HeliportAllOut",
@@ -32162,7 +32173,7 @@
       "Name": "Master of the Flying Assassins",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "55_Arena_SnowballKill",
@@ -32194,7 +32205,7 @@
       "Name": "Beatmaker",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "59_Arena_CustomMode",
@@ -32217,21 +32228,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 59232,
+      "Progressed": 59290,
       "Completed": 10793
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 749931,
+      "Progressed": 749989,
       "Completed": 12970
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-12-31T10:03:12.196402+00:00",
-  "LastChanged_Achievements": "2023-12-31T12:09:23.6845571+00:00",
+  "LastChanged": "2023-12-31T13:05:12.4698707+00:00",
+  "LastChanged_Achievements": "2023-12-31T13:11:06.4297131+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:26.4563062+00:00",
-  "LastUpdate_Ratings": "2023-12-31T12:03:26.6906765+00:00",
-  "LastUpdate_Achievements": "2023-12-31T12:09:23.6847053+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:05:12.4698711+00:00",
+  "LastUpdate_Achievements": "2023-12-31T13:11:06.429851+00:00"
 }

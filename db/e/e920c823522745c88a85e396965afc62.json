@@ -4,8 +4,8 @@
   "ProductSlug": "indoorlands-3b2356",
   "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 377,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-17T23:00:00+00:00",
     "PcReleaseDate": "2022-10-13T23:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 14,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -125,25 +125,25 @@
       "ID": "beautiful",
       "SetID": "d4692al",
       "Name": "It\u0027s beautiful",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "beginner",
       "SetID": "d4692al",
       "Name": "Beginner Guide",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "contractor",
       "SetID": "d4692al",
       "Name": "New Contractor",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "crazyCoaster",
@@ -213,9 +213,9 @@
       "ID": "expansion",
       "SetID": "d4692al",
       "Name": "Expansion",
-      "Percentage": 29,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "halls",
@@ -229,9 +229,9 @@
       "ID": "happyVisitors",
       "SetID": "d4692al",
       "Name": "Happy visitors",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "indoorlands",
@@ -245,9 +245,9 @@
       "ID": "keepComing",
       "SetID": "d4692al",
       "Name": "They keep coming",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "mass",
@@ -269,9 +269,9 @@
       "ID": "researcher",
       "SetID": "d4692al",
       "Name": "Researcher",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "sandland",
@@ -325,9 +325,9 @@
       "ID": "vip",
       "SetID": "d4692al",
       "Name": "VIP",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "visitorLife",
@@ -364,8 +364,8 @@
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2023-12-31T12:04:31.0980696+00:00",
+  "LastChanged_Achievements": "2023-12-31T13:06:16.8000593+00:00",
   "LastUpdate_AppInfo": "2023-12-28T08:57:17.3349077+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:58:53.8131453+00:00",
-  "LastUpdate_Achievements": "2023-12-31T12:04:31.0980885+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:00:43.8278614+00:00",
+  "LastUpdate_Achievements": "2023-12-31T13:06:16.8000733+00:00"
 }

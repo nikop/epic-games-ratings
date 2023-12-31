@@ -1,17 +1,17 @@
 # Solitairica
 [Store](https://store.epicgames.com/en-US/p/solitairica)  
 [View Rawdata](../../db/s/solitairica.json)  
-Rating: 4.50 (Ranked 612)  
+Rating: 4.50 (Ranked 611)  
 Number of Ratings: 474  (23.09.2022)  
 ## Awards
 Max (Quickly Understood Controls): 89  (Ranked 391)  
-Sum: 605 (Ranked 321)  
-Diff (max vs sum): 70  
+Sum: 606 (Ranked 320)  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 89 |
 | This game is Highly Recommended | 84 |
-| This game is Great for Beginners | 82 |
+| This game is Great for Beginners | 83 |
 | This game is Extremely Fun | 82 |
 | This game is Relaxing | 79 |
 | This game has Amazing Storytelling | 70 |
@@ -157,3 +157,4 @@ Diff (max vs sum): 70
 | 2023-12-04 | 4.49 | - | 89 | 603 |
 | 2023-12-06 | 4.50 | - | 89 | 604 |
 | 2023-12-24 | 4.50 | - | 89 | 605 |
+| 2023-12-31 | 4.50 | - | 89 | 606 |

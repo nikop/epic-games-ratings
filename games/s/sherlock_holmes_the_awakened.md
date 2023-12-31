@@ -1,16 +1,16 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.50 (Ranked 612)  
+Rating: 4.50 (Ranked 611)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 63.00% | ~858 |
+| Read Between The Lines | 63.00% | ~859 |
 | To Hell In A Handcart | 61.00% | ~831 |
-| High Profile | 54.00% | ~735 |
+| High Profile | 54.00% | ~736 |
 | Whispers In The Dark | 51.00% | ~695 |
-| Fond Memories | 50.00% | ~681 |
-| A Method To His Madness | 48.00% | ~654 |
+| Fond Memories | 50.00% | ~682 |
+| A Method To His Madness | 47.00% | ~641 |
 | History Check | 46.00% | ~627 |
 | The New World | 45.00% | ~613 |
 | Gaze Into The Abyss | 43.00% | ~586 |
@@ -20,21 +20,21 @@ Rating: 4.50 (Ranked 612)
 | Lock, Stock, And Barrel | 42.00% | ~572 |
 | Back In The Saddle | 42.00% | ~572 |
 | Land, Ho! | 42.00% | ~572 |
-| No Man Is An Island | 41.00% | ~558 |
+| No Man Is An Island | 41.00% | ~559 |
 | At Wits' End | 40.00% | ~545 |
 | Up In Flames | 38.00% | ~518 |
 | Fhtagn! | 38.00% | ~518 |
 | Bookworm | 37.00% | ~504 |
-| Going Once... | 36.00% | ~490 |
+| Going Once... | 36.00% | ~491 |
 | Let Me Be Frank | 34.00% | ~463 |
 | No Stone Unturned | 32.00% | ~436 |
-| Brain Food | 31.00% | ~422 |
+| Brain Food | 31.00% | ~423 |
 | Read It And Weep | 19.00% | ~259 |
 | Curiosity Killed The Cat | 18.00% | ~245 |
-| Big Breakthrough | 12.00% | ~163 |
+| Big Breakthrough | 12.00% | ~164 |
 | Reawakened | 3.00% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,362 (Ranked 268)  
+Progressed: 1,363 (Ranked 268)  
 Completed: 38 (2.79%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 38 (2.79%) (Ranked 117)
 | 2023-12-28 | 1,340 | 38 |
 | 2023-12-29 | 1,347 | 38 |
 | 2023-12-30 | 1,356 | 38 |
-| 2023-12-31 | 1,362 | 38 |
+| 2023-12-31 | 1,363 | 38 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

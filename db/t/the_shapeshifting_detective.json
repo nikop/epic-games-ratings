@@ -4,8 +4,8 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 303,
+  "EOS_Progressed": 304,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -750,6 +750,11 @@
       "Time": "2023-12-31T09:03:38.239299+00:00",
       "NumProgressed": 303,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-31T13:06:17.7395238+00:00",
+      "NumProgressed": 304,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 21,
@@ -815,9 +820,9 @@
       "ID": "highlander",
       "SetID": "2db2j74",
       "Name": "Highlander",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 52
+      "UsersEstimate": 49
     },
     {
       "ID": "look_mum_im_a_detective",
@@ -841,7 +846,7 @@
       "Name": "Patient Listener",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "play_it_again_sam",
@@ -849,7 +854,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "play_me_by_the_hour",
@@ -857,7 +862,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "poetent",
@@ -889,7 +894,7 @@
       "Name": "Strong Silent Type",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "the_big_sleep",
@@ -905,7 +910,7 @@
       "Name": "Video Saved The Radio Star",
       "Percentage": 38,
       "XP": 35,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "voyeur",
@@ -921,14 +926,14 @@
       "Name": "You Had One Job",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     }
   ],
   "AchievementSets": [
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 303,
+      "Progressed": 304,
       "Completed": 3
     }
   ],
@@ -936,8 +941,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-12-31T12:04:31.9729228+00:00",
+  "LastChanged_Achievements": "2023-12-31T13:06:17.7395236+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:29.4282289+00:00",
-  "LastUpdate_Ratings": "2023-12-31T12:03:32.4568669+00:00",
-  "LastUpdate_Achievements": "2023-12-31T12:04:31.9729356+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:05:17.3464532+00:00",
+  "LastUpdate_Achievements": "2023-12-31T13:06:17.7395383+00:00"
 }

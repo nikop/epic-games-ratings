@@ -4,11 +4,11 @@
   "ProductSlug": "house-flipper",
   "Ranking_Rating": 232,
   "Ranking_Popularity": 252,
-  "Ranking_PopularitySum": 206,
+  "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -2253,9 +2253,9 @@
       "Count": 225
     }
   ],
-  "EOS_Progressed": 21854,
+  "EOS_Progressed": 21855,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12438,6 +12438,11 @@
       "Time": "2023-12-31T12:03:54.4291346+00:00",
       "NumProgressed": 21854,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-31T13:05:40.6798783+00:00",
+      "NumProgressed": 21855,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -12497,7 +12502,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20761
+      "UsersEstimate": 20762
     },
     {
       "ID": "GameOver",
@@ -12529,7 +12534,7 @@
       "Name": "Mystery",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "JuniorEstateAgent",
@@ -12617,7 +12622,7 @@
       "Name": "Artistic soul",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "YouDoItWrong",
@@ -12632,15 +12637,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21854,
+      "Progressed": 21855,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-12-30T17:00:40.7437289+00:00",
-  "LastChanged_Achievements": "2023-12-31T12:03:54.4291342+00:00",
+  "LastChanged_Achievements": "2023-12-31T13:05:40.6798782+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:00.4984496+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:57:30.7189034+00:00",
-  "LastUpdate_Achievements": "2023-12-31T12:03:54.4292158+00:00"
+  "LastUpdate_Ratings": "2023-12-31T12:59:23.3352339+00:00",
+  "LastUpdate_Achievements": "2023-12-31T13:05:40.6799262+00:00"
 }

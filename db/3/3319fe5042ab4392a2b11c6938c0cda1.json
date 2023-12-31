@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 294,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2014-02-25T05:00:00+00:00",
@@ -632,9 +632,9 @@
       "ID": "NEW_ACHIEVEMENT_1_19",
       "SetID": "ae95dh3",
       "Name": "Hidden Agenda",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -792,9 +792,9 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "ae95dh3",
       "Name": "One Step Ahead",
-      "Percentage": 0.8,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_0",
@@ -824,17 +824,17 @@
       "ID": "NEW_ACHIEVEMENT_2_3",
       "SetID": "ae95dh3",
       "Name": "The Dawn\u0027s Light",
-      "Percentage": 0.8,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_4",
       "SetID": "ae95dh3",
       "Name": "Predatory Drive",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -847,8 +847,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2023-12-31T12:04:07.80924+00:00",
+  "LastChanged_Achievements": "2023-12-31T13:05:54.0474425+00:00",
   "LastUpdate_AppInfo": "2023-12-27T16:57:17.5447439+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:59:17.5229752+00:00",
-  "LastUpdate_Achievements": "2023-12-31T12:04:07.8092739+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:01:07.4512463+00:00",
+  "LastUpdate_Achievements": "2023-12-31T13:05:54.0474695+00:00"
 }

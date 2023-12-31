@@ -3,9 +3,9 @@
   "Name": "Blanc",
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 212,
-  "Ranking_EOS_Completed": 283,
+  "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3853,
+  "EOS_Progressed": 3854,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
@@ -6331,6 +6331,11 @@
       "Time": "2023-12-31T12:06:31.3131726+00:00",
       "NumProgressed": 3853,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-31T13:08:16.5076195+00:00",
+      "NumProgressed": 3854,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -6406,7 +6411,7 @@
       "Name": "Starting as a duo",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -6438,14 +6443,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3853,
+      "Progressed": 3854,
       "Completed": 6
     }
   ],
@@ -6453,8 +6458,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-31T12:06:31.3131723+00:00",
+  "LastChanged_Achievements": "2023-12-31T13:08:16.5076193+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:59.0797821+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:58:18.9974845+00:00",
-  "LastUpdate_Achievements": "2023-12-31T12:06:31.3132108+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:00:10.4329565+00:00",
+  "LastUpdate_Achievements": "2023-12-31T13:08:16.5076562+00:00"
 }

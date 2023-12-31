@@ -4,8 +4,8 @@
   "ProductSlug": "agatha-christie-hercule-poirot-london-cases-c81a32",
   "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
     "PcReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -494,17 +494,17 @@
       "ID": "ACH_014",
       "SetID": "7b646ck",
       "Name": "Little grey cells",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_015",
       "SetID": "7b646ck",
       "Name": "Everything matters",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_016",
@@ -526,9 +526,9 @@
       "ID": "ACH_018",
       "SetID": "7b646ck",
       "Name": "Order and method",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_019",
@@ -566,9 +566,9 @@
       "ID": "ACH_022",
       "SetID": "7b646ck",
       "Name": "An expert mediator",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_023",
@@ -614,9 +614,9 @@
       "ID": "ACH_028",
       "SetID": "7b646ck",
       "Name": "Impossible is possible",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_029",
@@ -630,9 +630,9 @@
       "ID": "ACH_03",
       "SetID": "7b646ck",
       "Name": "The Missing Magdalene",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_030",
@@ -654,9 +654,9 @@
       "ID": "ACH_032",
       "SetID": "7b646ck",
       "Name": "Betty Allen",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_033",
@@ -670,9 +670,9 @@
       "ID": "ACH_034",
       "SetID": "7b646ck",
       "Name": "DI Hardwicke",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_035",
@@ -694,9 +694,9 @@
       "ID": "ACH_037",
       "SetID": "7b646ck",
       "Name": "Arthur Hastings",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_038",
@@ -829,8 +829,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-12-31T12:09:55.663311+00:00",
+  "LastChanged_Achievements": "2023-12-31T13:11:37.8476741+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:16.5856967+00:00",
-  "LastUpdate_Ratings": "2023-12-31T12:02:54.4419565+00:00",
-  "LastUpdate_Achievements": "2023-12-31T12:09:55.6633603+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:02:31.2445218+00:00",
+  "LastUpdate_Achievements": "2023-12-31T13:11:37.8477122+00:00"
 }

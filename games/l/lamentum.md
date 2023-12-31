@@ -8,7 +8,7 @@ Rating: 4.28 (Ranked 881)
 | The creature | 80.00% | ~272 |
 | Grau Hill | 76.00% | ~258 |
 | A forgotten language | 69.00% | ~235 |
-| Lord Wesley | 34.00% | ~116 |
+| Lord Wesley | 35.00% | ~119 |
 | My dear Magda | 27.00% | ~92 |
 | One step down | 26.00% | ~88 |
 | Lord Clayton | 22.00% | ~75 |

@@ -6,13 +6,13 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,486 |
-| A Spark | 19.00% | ~2,453 |
-| Burning City | 18.00% | ~2,324 |
+| Devoured by Darkness | 27.00% | ~3,487 |
+| A Spark | 19.00% | ~2,454 |
+| Burning City | 18.00% | ~2,325 |
 | Defender's Heart | 16.00% | ~2,066 |
 | Mythic Choices | 15.00% | ~1,937 |
 | Banner over the Citadel | 14.00% | ~1,808 |
-| Queen's Gratitude | 12.00% | ~1,549 |
+| Queen's Gratitude | 12.00% | ~1,550 |
 | Fifth Crusade | 9.00% | ~1,162 |
 | Embrace of the Abyss | 7.00% | ~904 |
 | Path of the Angel | 7.00% | ~904 |
@@ -25,11 +25,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Voice from Your Dreams | 5.00% | ~646 |
 | Next-Door Play | 5.00% | ~646 |
 | Get the Toad | 5.00% | ~646 |
-| Heart of the Fallen Land | 4.00% | ~516 |
-| Divide and Rule | 4.00% | ~516 |
-| Mythic Reinforcements | 4.00% | ~516 |
-| A Flame | 4.00% | ~516 |
-| Hey, I Know You! | 4.00% | ~516 |
+| Heart of the Fallen Land | 4.00% | ~517 |
+| Divide and Rule | 4.00% | ~517 |
+| Mythic Reinforcements | 4.00% | ~517 |
+| A Flame | 4.00% | ~517 |
+| Hey, I Know You! | 4.00% | ~517 |
 | Path of the Trickster | 3.00% | ~387 |
 | Path of the Lich | 3.00% | ~387 |
 | Heroic Victory | 3.00% | ~387 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,911 (Ranked 174)  
+Progressed: 12,914 (Ranked 174)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -378,7 +378,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 12,845 | 0 |
 | 2023-12-29 | 12,867 | 0 |
 | 2023-12-30 | 12,899 | 0 |
-| 2023-12-31 | 12,911 | 0 |
+| 2023-12-31 | 12,914 | 0 |
 ## Awards
 Max (Character Customization): 1,774  (Ranked 126)  
 Sum: 7,180 (Ranked 125)  

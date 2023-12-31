@@ -5,9 +5,9 @@ Rating: 4.63 (Ranked 357)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 3.00% | ~263 |
-| A Thorny Situation | 3.00% | ~263 |
-| ... And Spit Back Out | 3.00% | ~263 |
+| Azoria Beckons | 3.00% | ~264 |
+| A Thorny Situation | 3.00% | ~264 |
+| ... And Spit Back Out | 3.00% | ~264 |
 | Calm Sailing | 2.00% | ~176 |
 | Open the Gate! | 2.00% | ~176 |
 | Miner 49er | 2.00% | ~176 |
@@ -49,7 +49,7 @@ Rating: 4.63 (Ranked 357)
 | Splish-Splash | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,783 (Ranked 184)  
+Progressed: 8,785 (Ranked 184)  
 Completed: 1 (0.01%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 1 (0.01%) (Ranked 369)
 | 2023-12-28 | 8,728 | 1 |
 | 2023-12-29 | 8,759 | 1 |
 | 2023-12-30 | 8,778 | 1 |
-| 2023-12-31 | 8,783 | 1 |
+| 2023-12-31 | 8,785 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

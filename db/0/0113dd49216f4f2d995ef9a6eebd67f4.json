@@ -2,10 +2,10 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 422,
+  "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 208,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -965,9 +965,9 @@
       "ID": "SG_AGAINSTALLODDS",
       "SetID": "bj5g0n4",
       "Name": "Against All Odds",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "SG_ALLTHEHELPYOUNEED",
@@ -997,9 +997,9 @@
       "ID": "SG_BRAVEONTIME",
       "SetID": "bj5g0n4",
       "Name": "Brave On Time",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "SG_CHARISMATIC",
@@ -1037,9 +1037,9 @@
       "ID": "SG_FIERY",
       "SetID": "bj5g0n4",
       "Name": "Fiery",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "SG_GODOFTHESUN",
@@ -1149,9 +1149,9 @@
       "ID": "SG_TALKTOTHEHAND",
       "SetID": "bj5g0n4",
       "Name": "Talk To The Hand",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "SG_THEANSWERISYOU",
@@ -1252,8 +1252,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-31T12:09:15.7212949+00:00",
+  "LastChanged_Achievements": "2023-12-31T13:10:58.5086912+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.3127204+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:58:58.4393243+00:00",
-  "LastUpdate_Achievements": "2023-12-31T12:09:15.7213201+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:00:48.6151947+00:00",
+  "LastUpdate_Achievements": "2023-12-31T13:10:58.508739+00:00"
 }

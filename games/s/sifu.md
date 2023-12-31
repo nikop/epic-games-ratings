@@ -6,34 +6,34 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,497 |
-| Life is your teacher | 4.00% | ~29,997 |
-| Lightning Hands | 4.00% | ~29,997 |
-| The Assault | 3.00% | ~22,498 |
-| The Hateful Pole Fighter | 2.00% | ~14,999 |
-| A Lady's Blood in the Snow | 2.00% | ~14,999 |
-| Stuntmaster | 2.00% | ~14,999 |
-| Street Fighting | 2.00% | ~14,999 |
-| State of constant learning | 2.00% | ~14,999 |
-| Qi Gong: Breath | 2.00% | ~14,999 |
-| Qi Gong: Essence | 2.00% | ~14,999 |
-| Old Child | 2.00% | ~14,999 |
-| Rumble in the Hangar | 2.00% | ~14,999 |
-| Diligence as a goal | 2.00% | ~1,185 |
-| Lady Wing Chun | 1.00% | ~7,499 |
-| Furious Fists | 1.00% | ~7,499 |
-| Scareless | 1.00% | ~7,499 |
-| Kill Nil | 1.00% | ~7,499 |
-| Qi Gong: Mind | 1.00% | ~7,499 |
-| I know Kung-Fu | 1.00% | ~7,499 |
-| Kung-Fu Tussle | 1.00% | ~7,499 |
-| Path of the Prospect | 1.00% | ~7,499 |
-| Take damage to save time | 1.00% | ~7,499 |
-| Project Arena | 1.00% | ~592 |
-| Dance of the Praying Mantis | 0.90% | ~6,749 |
+| The Old Grandmaster | 5.00% | ~37,499 |
+| Life is your teacher | 4.00% | ~30,000 |
+| Lightning Hands | 4.00% | ~30,000 |
+| The Assault | 3.00% | ~22,500 |
+| The Hateful Pole Fighter | 2.00% | ~15,000 |
+| A Lady's Blood in the Snow | 2.00% | ~15,000 |
+| Stuntmaster | 2.00% | ~15,000 |
+| Street Fighting | 2.00% | ~15,000 |
+| State of constant learning | 2.00% | ~15,000 |
+| Qi Gong: Breath | 2.00% | ~15,000 |
+| Qi Gong: Essence | 2.00% | ~15,000 |
+| Old Child | 2.00% | ~15,000 |
+| Rumble in the Hangar | 2.00% | ~15,000 |
+| Diligence as a goal | 2.00% | ~1,186 |
+| Lady Wing Chun | 1.00% | ~7,500 |
+| Furious Fists | 1.00% | ~7,500 |
+| Scareless | 1.00% | ~7,500 |
+| Kill Nil | 1.00% | ~7,500 |
+| Qi Gong: Mind | 1.00% | ~7,500 |
+| I know Kung-Fu | 1.00% | ~7,500 |
+| Kung-Fu Tussle | 1.00% | ~7,500 |
+| Path of the Prospect | 1.00% | ~7,500 |
+| Take damage to save time | 1.00% | ~7,500 |
+| Project Arena | 1.00% | ~593 |
+| Dance of the Praying Mantis | 0.90% | ~6,750 |
 | Fight the way you practice | 0.70% | ~415 |
 | Muk Yan Master | 0.60% | ~4,500 |
-| Martial Hub | 0.60% | ~355 |
+| Martial Hub | 0.60% | ~356 |
 | Tiger on Fire | 0.50% | ~3,750 |
 | Source of Flying Daggers | 0.50% | ~3,750 |
 | Iron Money | 0.50% | ~3,750 |
@@ -54,11 +54,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Master of the Phoenix Eye Fist | 0.20% | ~1,500 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,500 |
 | Be like water my friend | 0.20% | ~1,500 |
-| A Touch of Acumen | 0.20% | ~118 |
-| Crouching Tiger | 0.20% | ~118 |
-| Skill and an even stronger will | 0.20% | ~118 |
-| Master of the Flying Assassins | 0.20% | ~118 |
-| Beatmaker | 0.20% | ~118 |
+| A Touch of Acumen | 0.20% | ~119 |
+| Crouching Tiger | 0.20% | ~119 |
+| Skill and an even stronger will | 0.20% | ~119 |
+| Master of the Flying Assassins | 0.20% | ~119 |
+| Beatmaker | 0.20% | ~119 |
 | Warriors from the Mountain | 0.10% | ~750 |
 | Secure, Protect, Leave | 0.10% | ~59 |
 | Hidden Dragon | 0.10% | ~59 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~59 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 749,931 (Ranked 23)  
+Progressed: 749,989 (Ranked 23)  
 Completed: 12,970 (1.73%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,10 +322,10 @@ Completed: 12,970 (1.73%) (Ranked 142)
 | 2023-12-28 | 747,246 | 12,967 |
 | 2023-12-29 | 748,212 | 12,968 |
 | 2023-12-30 | 749,350 | 12,969 |
-| 2023-12-31 | 749,931 | 12,970 |
+| 2023-12-31 | 749,989 | 12,970 |
 ## Awards
 Max (Great Boss Battles): 7,061  (Ranked 55)  
-Sum: 11,945 (Ranked 87)  
+Sum: 11,948 (Ranked 87)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
@@ -333,7 +333,7 @@ Diff (max vs sum): -32
 | This game has Diverse Characters | 690 |
 | This game has Challenging Combat | 634 |
 | This game has Amazing Storytelling | 612 |
-| This game has Amazing Characters | 602 |
+| This game has Amazing Characters | 605 |
 | This game is Highly Recommended | 597 |
 | This game has Quickly Understood Controls | 593 |
 | This game is Extremely Fun | 579 |

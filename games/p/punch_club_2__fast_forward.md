@@ -13,11 +13,11 @@
 | Old movies enjoyer | 74.00% | ~372 |
 | Neurotrainer – power gainer! | 74.00% | ~372 |
 | Fitness professional | 73.00% | ~367 |
-| Employee of the week | 72.00% | ~362 |
+| Employee of the week | 73.00% | ~367 |
 | Your own amateur gym | 68.00% | ~342 |
 | Run K, run! | 67.00% | ~337 |
 | First defeat | 66.00% | ~332 |
-| Hello, world! | 65.00% | ~327 |
+| Hello, world! | 66.00% | ~332 |
 | No bullying more | 64.00% | ~322 |
 | Fighting is cool | 63.00% | ~317 |
 | Pal of your father? | 62.00% | ~312 |
@@ -55,13 +55,13 @@
 | Absolute Champion! | 31.00% | ~156 |
 | Undercover robot | 31.00% | ~156 |
 | Problems of cyborgs | 30.00% | ~151 |
+| The lonesome road | 29.00% | ~146 |
+| Family comes first | 29.00% | ~146 |
 | Not little hacker | 29.00% | ~146 |
 | Your own way | 29.00% | ~146 |
 | Trap disarmed | 28.00% | ~141 |
 | Another world | 28.00% | ~141 |
-| The lonesome road | 28.00% | ~141 |
 | Keep nature safe | 28.00% | ~141 |
-| Family comes first | 28.00% | ~141 |
 | Key memories | 28.00% | ~141 |
 | The last bell ring | 28.00% | ~141 |
 | Careerist | 28.00% | ~141 |

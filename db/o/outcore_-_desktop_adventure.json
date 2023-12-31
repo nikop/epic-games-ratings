@@ -4,8 +4,8 @@
   "ProductSlug": "outcore-desktop-adventure-eb3aff",
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 530,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 531,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-07T07:00:00+00:00",
     "PcReleaseDate": "2022-09-25T21:00:00+00:00",
@@ -276,9 +276,9 @@
       "ID": "CompletedChapter1",
       "SetID": "7ejh407",
       "Name": "Defeated Captain Tutorial",
-      "Percentage": 70,
+      "Percentage": 72,
       "XP": 200,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "CompletedChapter2",
@@ -412,17 +412,17 @@
       "ID": "LearnedToJump",
       "SetID": "7ejh407",
       "Name": "Learned how to jump!",
-      "Percentage": 78,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "LearnedToWalk",
       "SetID": "7ejh407",
       "Name": "Learned how to walk!",
-      "Percentage": 78,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "LoveMaster",
@@ -483,8 +483,8 @@
   ],
   "FirstSeen": "2023-05-08T18:00:59.2575901+00:00",
   "FirstSeenAchievements": "2023-05-02T18:05:17.3554395+00:00",
-  "LastChanged_Achievements": "2023-12-31T12:09:27.2071656+00:00",
+  "LastChanged_Achievements": "2023-12-31T13:11:09.8722398+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:24.6950696+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:59:03.5197514+00:00",
-  "LastUpdate_Achievements": "2023-12-31T12:09:27.2072109+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:00:53.0679693+00:00",
+  "LastUpdate_Achievements": "2023-12-31T13:11:09.8722573+00:00"
 }

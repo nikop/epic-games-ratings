@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17877,
+  "EOS_Progressed": 17882,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 605,
+  "EOS_NewPlayers": 606,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15794,6 +15794,11 @@
       "Time": "2023-12-31T12:06:41.7674774+00:00",
       "NumProgressed": 17877,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-31T13:08:27.0047511+00:00",
+      "NumProgressed": 17882,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15822,7 +15827,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1966
+      "UsersEstimate": 1967
     },
     {
       "ID": "12",
@@ -15838,7 +15843,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2860
+      "UsersEstimate": 2861
     },
     {
       "ID": "14",
@@ -15886,7 +15891,7 @@
       "Name": "Martian Music",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1966
+      "UsersEstimate": 1967
     },
     {
       "ID": "2",
@@ -15926,7 +15931,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "24",
@@ -15950,7 +15955,7 @@
       "Name": "Call it Even",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "27",
@@ -15958,7 +15963,7 @@
       "Name": "Bosmang",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 1966
+      "UsersEstimate": 1967
     },
     {
       "ID": "28",
@@ -15980,9 +15985,9 @@
       "ID": "3",
       "SetID": "458bbdk",
       "Name": "Captain Drummer",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2145
+      "UsersEstimate": 2325
     },
     {
       "ID": "30",
@@ -16014,7 +16019,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2145
+      "UsersEstimate": 2146
     },
     {
       "ID": "7",
@@ -16038,7 +16043,7 @@
       "Name": "Impossible Objects",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1966
+      "UsersEstimate": 1967
     },
     {
       "ID": "31",
@@ -16046,7 +16051,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "32",
@@ -16078,29 +16083,29 @@
       "Name": "Madame Undersecretary",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17877,
+      "Progressed": 17882,
       "Completed": 57
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3831,
-      "Completed": 1129
+      "Progressed": 3836,
+      "Completed": 1131
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T01:47:56.7328013+00:00",
-  "LastChanged_Achievements": "2023-12-31T12:06:41.7674771+00:00",
+  "LastChanged_Achievements": "2023-12-31T13:08:27.0047509+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:58:26.0972051+00:00",
-  "LastUpdate_Achievements": "2023-12-31T12:06:41.7675552+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:00:16.9543223+00:00",
+  "LastUpdate_Achievements": "2023-12-31T13:08:27.0048451+00:00"
 }

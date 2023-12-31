@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 477,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2022-12-23T00:00:00+00:00",
@@ -687,9 +687,9 @@
       "ID": "CgkIxYDzrbcPEAIQDg",
       "SetID": "4egpam7",
       "Name": "Fireman",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDw",
@@ -830,8 +830,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-12-31T12:06:19.44673+00:00",
+  "LastChanged_Achievements": "2023-12-31T13:08:04.6314808+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:26.2622847+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:57:44.2989389+00:00",
-  "LastUpdate_Achievements": "2023-12-31T12:06:19.4467515+00:00"
+  "LastUpdate_Ratings": "2023-12-31T12:59:37.1076484+00:00",
+  "LastUpdate_Achievements": "2023-12-31T13:08:04.631508+00:00"
 }

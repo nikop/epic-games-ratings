@@ -11,15 +11,15 @@
 | An old friend | 52.00% | ~43 |
 | The Gala | 51.00% | ~42 |
 | A curious gathering | 49.00% | ~40 |
-| Little grey cells | 46.00% | ~38 |
-| Impossible is possible | 46.00% | ~38 |
-| The Missing Magdalene | 46.00% | ~38 |
-| Arthur Hastings | 46.00% | ~38 |
-| Everything matters | 41.00% | ~34 |
-| DI Hardwicke | 41.00% | ~34 |
-| An expert mediator | 40.00% | ~33 |
-| Order and method | 35.00% | ~29 |
-| Betty Allen | 35.00% | ~29 |
+| Little grey cells | 48.00% | ~39 |
+| Impossible is possible | 48.00% | ~39 |
+| The Missing Magdalene | 48.00% | ~39 |
+| Arthur Hastings | 48.00% | ~39 |
+| Everything matters | 43.00% | ~35 |
+| DI Hardwicke | 43.00% | ~35 |
+| An expert mediator | 41.00% | ~34 |
+| Order and method | 37.00% | ~30 |
+| Betty Allen | 37.00% | ~30 |
 | The Investigation Begins | 33.00% | ~27 |
 | Ms. Camilla B. Culsham | 30.00% | ~25 |
 | Irene Court-Smyth | 30.00% | ~25 |

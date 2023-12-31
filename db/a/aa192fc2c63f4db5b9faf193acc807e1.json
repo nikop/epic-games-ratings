@@ -2,10 +2,10 @@
   "ID": "aa192fc2c63f4db5b9faf193acc807e1",
   "Name": "Creepy Tale",
   "ProductSlug": "creepy-tale-058ebd",
-  "Ranking_EOS_Progress": 422,
+  "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 77,
-  "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2021-02-21T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 208,
+  "EOS_Progressed": 209,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.81,
+  "EOS_Completed_Percentage": 4.78,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -944,6 +944,11 @@
       "Time": "2023-12-31T11:10:51.0756306+00:00",
       "NumProgressed": 208,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-31T13:11:55.93361+00:00",
+      "NumProgressed": 209,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -964,7 +969,7 @@
       "Name": "Intuition",
       "Percentage": 17,
       "XP": 75,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "creepytaleach11",
@@ -980,7 +985,7 @@
       "Name": "Sweet feeling",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "creepytaleach13",
@@ -1004,7 +1009,7 @@
       "Name": "Happy end",
       "Percentage": 43,
       "XP": 75,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "creepytaleach4",
@@ -1020,7 +1025,7 @@
       "Name": "Incorrigible researcher",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "creepytaleach6",
@@ -1059,14 +1064,14 @@
     {
       "ID": "bnif31p",
       "IsBase": true,
-      "Progressed": 208,
+      "Progressed": 209,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-12-31T12:10:13.4952512+00:00",
+  "LastChanged_Achievements": "2023-12-31T13:11:55.9336098+00:00",
   "LastUpdate_AppInfo": "2023-12-27T07:56:54.2023855+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:58:42.7820562+00:00",
-  "LastUpdate_Achievements": "2023-12-31T12:10:13.4952637+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:00:33.0421623+00:00",
+  "LastUpdate_Achievements": "2023-12-31T13:11:55.9336252+00:00"
 }

@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Learned how to jump! | 78.00% | ~39 |
-| Learned how to walk! | 78.00% | ~39 |
-| Defeated Captain Tutorial | 70.00% | ~35 |
+| Learned how to jump! | 80.00% | ~40 |
+| Learned how to walk! | 80.00% | ~40 |
+| Defeated Captain Tutorial | 72.00% | ~36 |
 | Immersion Breaking | 56.00% | ~28 |
 | Ḧ̴́͊̈́́̃̈́͊̂̏̅̈́̆͊͛͋̃̍̊̓͛̔̆͘͠͝Ë̵̢̢̧̛̛͇̪̟͓̝̼͕̞͔̻͎̠͔̤̥̺̹̱̼̪̺̪̺̰̱́̊͋̈́̔̍͑̄̅́̔͛̓̽̊̒̓́͛̀̀͗̈́́̃̈́̈́̄̔̓͐͆̀̈́̄́̚͘̕͘͘̕͝ͅL̸̀͠Ṕ̵̛̎̄̽̈́́͊̅͛̄ ̶̃M̶̨̧̼̪̞͈̯̬͖͖͎̞͎̻̥̍̌͊̀̓̄̋͋̂͌̏̈́̾͆̌̈́̆̈́̐̿̓͐͝͝͠͠E̵͒̓͊͋̄͘ | 36.00% | ~18 |
 | Defeated Booty The Bootleg | 34.00% | ~17 |

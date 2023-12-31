@@ -9,19 +9,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 1.00% | ~160 |
 | Play a Single Player Game | 1.00% | ~160 |
 | Explorer | 0.90% | ~144 |
+| Intrepid | 0.80% | ~128 |
 | Friendly Family | 0.80% | ~128 |
 | Architect | 0.70% | ~112 |
 | Good | 0.70% | ~112 |
-| Intrepid | 0.70% | ~112 |
 | Mason | 0.70% | ~112 |
 | Strong | 0.70% | ~112 |
 | Hanging Gardens | 0.70% | ~112 |
+| Oracle | 0.70% | ~112 |
 | Able | 0.60% | ~96 |
 | Just | 0.60% | ~96 |
 | Keystone | 0.60% | ~96 |
 | Learned | 0.60% | ~96 |
 | Noble | 0.60% | ~96 |
-| Oracle | 0.60% | ~96 |
+| Pioneer | 0.60% | ~96 |
 | Judaism | 0.60% | ~96 |
 | Greek Paganism | 0.60% | ~96 |
 | Trade Caravan | 0.60% | ~96 |
@@ -31,7 +32,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 0.50% | ~80 |
 | Glorious | 0.50% | ~80 |
 | Magnificent | 0.50% | ~80 |
-| Pioneer | 0.50% | ~80 |
 | Warrior | 0.50% | ~80 |
 | Developing Cities | 0.50% | ~80 |
 | Strong Cities | 0.50% | ~80 |
@@ -44,6 +44,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 0.40% | ~64 |
 | Great | 0.40% | ~64 |
 | Wise | 0.40% | ~64 |
+| Legendary Cities | 0.40% | ~64 |
 | Able Difficulty | 0.40% | ~64 |
 | Furious Family | 0.40% | ~64 |
 | Apadana | 0.40% | ~64 |
@@ -56,7 +57,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 0.30% | ~48 |
 | Intercessor | 0.30% | ~48 |
 | Valiant | 0.30% | ~48 |
-| Legendary Cities | 0.30% | ~48 |
 | Just Difficulty | 0.30% | ~48 |
 | Artisans | 0.30% | ~48 |
 | Champions | 0.30% | ~48 |

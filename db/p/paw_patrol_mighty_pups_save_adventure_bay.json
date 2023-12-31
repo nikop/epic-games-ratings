@@ -4,8 +4,8 @@
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 533,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 415,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 416,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
     "PcReleaseDate": "2020-11-06T07:30:00+00:00",
@@ -328,9 +328,9 @@
       "ID": "1",
       "SetID": "38ide56",
       "Name": "Grand Re-Opening",
-      "Percentage": 70,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "10",
@@ -360,17 +360,17 @@
       "ID": "13",
       "SetID": "38ide56",
       "Name": "Everything Under Control",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "14",
       "SetID": "38ide56",
       "Name": "Pup Pup Boogie",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "15",
@@ -496,9 +496,9 @@
       "ID": "29",
       "SetID": "38ide56",
       "Name": "Paw patrol member",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 200,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "3",
@@ -528,9 +528,9 @@
       "ID": "6",
       "SetID": "38ide56",
       "Name": "Robot Out of Control",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "7",
@@ -544,9 +544,9 @@
       "ID": "8",
       "SetID": "38ide56",
       "Name": "Mountain and Ice",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "9",
@@ -569,8 +569,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:08:25.1585039+00:00",
+  "LastChanged_Achievements": "2023-12-31T13:05:32.0619639+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:17.3516667+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:59:08.6636391+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:08:25.1585285+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:00:58.6215812+00:00",
+  "LastUpdate_Achievements": "2023-12-31T13:05:32.0619918+00:00"
 }

@@ -9217,9 +9217,9 @@
       "Count": 3614
     }
   ],
-  "EOS_Progressed": 248301,
+  "EOS_Progressed": 248330,
   "EOS_Completed": 2580,
-  "EOS_NewPlayers": 4218,
+  "EOS_NewPlayers": 4231,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -38072,6 +38072,11 @@
       "Time": "2023-12-31T12:10:29.5787343+00:00",
       "NumProgressed": 248301,
       "NumCompleted": 2580
+    },
+    {
+      "Time": "2023-12-31T13:12:12.0954515+00:00",
+      "NumProgressed": 248330,
+      "NumCompleted": 2580
     }
   ],
   "TotalAchievements": 546,
@@ -38083,7 +38088,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7449
+      "UsersEstimate": 7450
     },
     {
       "ID": "objective_completed_10",
@@ -38451,7 +38456,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "objective_completed_110",
@@ -41225,9 +41230,9 @@
       "ID": "objective_completed_7",
       "SetID": "cc37lbc",
       "Name": "The Mad Wizard",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1738
+      "UsersEstimate": 1987
     },
     {
       "ID": "objective_completed_70",
@@ -42387,7 +42392,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1288
     },
     {
       "ID": "objective_completed_1563",
@@ -42450,21 +42455,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 214575,
+      "Progressed": 214604,
       "Completed": 4110
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 248301,
+      "Progressed": 248330,
       "Completed": 2580
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-31T04:01:41.7646782+00:00",
-  "LastChanged_Achievements": "2023-12-31T12:10:29.5787339+00:00",
+  "LastChanged_Achievements": "2023-12-31T13:12:12.0954513+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:57:21.4465529+00:00",
-  "LastUpdate_Achievements": "2023-12-31T12:10:29.5813356+00:00"
+  "LastUpdate_Ratings": "2023-12-31T12:59:15.1302054+00:00",
+  "LastUpdate_Achievements": "2023-12-31T13:12:12.0979509+00:00"
 }

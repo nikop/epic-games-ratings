@@ -3,12 +3,12 @@
   "Name": "The Settlers\u00AE: New Allies",
   "ProductSlug": "the-settlers",
   "Ranking_Rating": 1066,
-  "Ranking_Popularity": 379,
+  "Ranking_Popularity": 377,
   "Ranking_PopularitySum": 384,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 563,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-02-17T09:00:00+00:00",
     "PcReleaseDate": "2023-02-17T09:00:00+00:00",
@@ -1399,11 +1399,17 @@
       "Rating": 3.82,
       "NumberOfAwards": 289,
       "NumberOfAwardsMax": 98
+    },
+    {
+      "Time": "2023-12-31T13:05:09.0828212+00:00",
+      "Rating": 3.82,
+      "NumberOfAwards": 290,
+      "NumberOfAwardsMax": 99
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 289,
-  "NumberOfAwardsMax": 98,
+  "NumberOfAwards": 290,
+  "NumberOfAwardsMax": 99,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -1422,7 +1428,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 98
+      "Count": 99
     }
   ],
   "EOS_Progressed": 0,
@@ -1437,8 +1443,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-17T13:12:44.8398615+00:00",
   "FirstSeenRating": "2023-02-19T13:09:54.8324207+00:00",
-  "LastChanged": "2023-12-30T20:02:54.9852611+00:00",
+  "LastChanged": "2023-12-31T13:05:09.0828211+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:01.1362147+00:00",
-  "LastUpdate_Ratings": "2023-12-31T12:03:23.7610169+00:00",
-  "LastUpdate_Achievements": "2023-12-31T12:06:19.2474997+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:05:09.0828215+00:00",
+  "LastUpdate_Achievements": "2023-12-31T13:08:04.3550361+00:00"
 }

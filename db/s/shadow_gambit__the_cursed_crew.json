@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1376,
+  "EOS_Progressed": 1377,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.54,
   "EosHistory": [
@@ -4739,6 +4739,11 @@
       "Time": "2023-12-31T12:05:38.4942413+00:00",
       "NumProgressed": 1376,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-31T13:07:23.7870362+00:00",
+      "NumProgressed": 1377,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4767,7 +4772,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4879,7 +4884,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -4958,7 +4963,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1376,
+      "Progressed": 1377,
       "Completed": 35
     }
   ],
@@ -4966,8 +4971,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2023-12-31T12:05:38.4942409+00:00",
+  "LastChanged_Achievements": "2023-12-31T13:07:23.787036+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2023-12-31T12:00:06.6420816+00:00",
-  "LastUpdate_Achievements": "2023-12-31T12:05:38.4942761+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:01:54.9979078+00:00",
+  "LastUpdate_Achievements": "2023-12-31T13:07:23.7870711+00:00"
 }

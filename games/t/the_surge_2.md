@@ -5,22 +5,22 @@ Rating: 4.27 (Ranked 892)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,913 |
-| Don't I Know You...? | 76.00% | ~1,840 |
-| Jailbreak | 65.00% | ~1,574 |
-| Suited and Booted | 38.00% | ~920 |
-| HEADSHOT! | 37.00% | ~896 |
-| Sleeping With The Fishes | 35.00% | ~847 |
-| Overheated | 30.00% | ~726 |
-| High Performance | 30.00% | ~726 |
+| Rigged And Ready | 79.00% | ~1,914 |
+| Don't I Know You...? | 75.00% | ~1,817 |
+| Jailbreak | 65.00% | ~1,575 |
+| Suited and Booted | 38.00% | ~921 |
+| HEADSHOT! | 37.00% | ~897 |
+| Sleeping With The Fishes | 35.00% | ~848 |
+| Overheated | 30.00% | ~727 |
+| High Performance | 30.00% | ~727 |
 | Powered Up | 28.00% | ~678 |
-| Studied The Blade | 25.00% | ~605 |
+| Studied The Blade | 25.00% | ~606 |
 | Home Invasion | 23.00% | ~557 |
 | Luminary | 22.00% | ~533 |
 | It's a Trap | 22.00% | ~533 |
-| True Survivor | 21.00% | ~508 |
-| Offensive Defense | 20.00% | ~484 |
-| Shocking | 20.00% | ~484 |
+| True Survivor | 21.00% | ~509 |
+| Offensive Defense | 20.00% | ~485 |
+| Shocking | 20.00% | ~485 |
 | Court Martial | 19.00% | ~460 |
 | Unforeseeable Consequences | 19.00% | ~460 |
 | Dead Again | 18.00% | ~436 |
@@ -35,13 +35,13 @@ Rating: 4.27 (Ranked 892)
 | Corrupted Beauty | 12.00% | ~291 |
 | Marked For Success | 12.00% | ~291 |
 | Sorry, Didn't See You There | 12.00% | ~291 |
-| Stimulating The Local Economy | 10.00% | ~242 |
 | Triplets | 10.00% | ~242 |
 | Denying Prophecy | 9.00% | ~218 |
+| Stimulating The Local Economy | 9.00% | ~218 |
 | A Little Banged Up | 8.00% | ~194 |
 | Following In Their Footsteps | 8.00% | ~194 |
 | Defense in Depth | 8.00% | ~194 |
-| Reverse Engineering | 7.00% | ~169 |
+| Reverse Engineering | 7.00% | ~170 |
 | Remote Surgery | 6.00% | ~145 |
 | Turbo Booster | 6.00% | ~145 |
 | Squid Pro Quo | 6.00% | ~145 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 892)
 | Three Birds With One Stone | 1.00% | ~24 |
 | The Easy Way Out | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,421 (Ranked 230)  
+Progressed: 2,423 (Ranked 230)  
 Completed: 13 (0.54%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 13 (0.54%) (Ranked 212)
 | 2023-12-28 | 2,397 | 13 |
 | 2023-12-29 | 2,408 | 13 |
 | 2023-12-30 | 2,418 | 13 |
-| 2023-12-31 | 2,421 | 13 |
+| 2023-12-31 | 2,423 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

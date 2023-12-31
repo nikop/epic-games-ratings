@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -323,9 +323,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3849,
+  "EOS_Progressed": 3852,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7543,6 +7543,11 @@
       "Time": "2023-12-31T12:05:53.9033167+00:00",
       "NumProgressed": 3849,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T13:07:39.374337+00:00",
+      "NumProgressed": 3852,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7554,7 +7559,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     },
     {
       "ID": "ACH_BASE_10",
@@ -7562,7 +7567,7 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "ACH_BASE_11",
@@ -7578,7 +7583,7 @@
       "Name": "Better Him Than Me",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_BASE_14",
@@ -7586,7 +7591,7 @@
       "Name": "Oats",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_BASE_15",
@@ -7610,7 +7615,7 @@
       "Name": "What They Hide From Us",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_BASE_18",
@@ -7618,7 +7623,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "ACH_BASE_19",
@@ -7626,7 +7631,7 @@
       "Name": "...  in a finite world",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_BASE_2",
@@ -7634,7 +7639,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH_BASE_21",
@@ -7642,7 +7647,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     },
     {
       "ID": "ACH_BASE_22",
@@ -7666,7 +7671,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "ACH_BASE_25",
@@ -7674,7 +7679,7 @@
       "Name": "Remember the Dead",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_BASE_26",
@@ -7682,7 +7687,7 @@
       "Name": "Sightseeing",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH_BASE_27",
@@ -7698,7 +7703,7 @@
       "Name": "In Dolos We Trust",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_BASE_29",
@@ -7730,7 +7735,7 @@
       "Name": "Power Outage",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "ACH_BASE_32",
@@ -7738,7 +7743,7 @@
       "Name": "Praise the Hull!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_BASE_33",
@@ -7778,7 +7783,7 @@
       "Name": "Necessary Enhancement",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH_BASE_38",
@@ -7794,7 +7799,7 @@
       "Name": "Gregor Spinoza",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_BASE_40",
@@ -7842,7 +7847,7 @@
       "Name": "Delivery!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_BASE_48",
@@ -7890,7 +7895,7 @@
       "Name": "BRAWL!",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_BASE_53",
@@ -7922,7 +7927,7 @@
       "Name": "Drill-dozer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_BASE_59",
@@ -7930,7 +7935,7 @@
       "Name": "The Ship of Theseus",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "ACH_BASE_6",
@@ -7938,7 +7943,7 @@
       "Name": "Hope Seeker",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH_BASE_60",
@@ -7954,7 +7959,7 @@
       "Name": "Scientifically Accurate",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_BASE_62",
@@ -7970,7 +7975,7 @@
       "Name": "Help of the Forgotten Member",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_BASE_64",
@@ -7986,7 +7991,7 @@
       "Name": "From the Past",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH_BASE_8",
@@ -7994,7 +7999,7 @@
       "Name": "What the Ruins Teach Us",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_BASE_9",
@@ -8002,20 +8007,20 @@
       "Name": "Pulsar Disciple",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2033,
+      "Progressed": 2036,
       "Completed": 10
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3849,
+      "Progressed": 3852,
       "Completed": 0
     }
   ],
@@ -8023,8 +8028,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2023-12-31T12:05:53.9033163+00:00",
+  "LastChanged_Achievements": "2023-12-31T13:07:39.3743368+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:27.7465752+00:00",
-  "LastUpdate_Ratings": "2023-12-31T12:03:13.4987262+00:00",
-  "LastUpdate_Achievements": "2023-12-31T12:05:53.903381+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:04:58.7445834+00:00",
+  "LastUpdate_Achievements": "2023-12-31T13:07:39.3744264+00:00"
 }

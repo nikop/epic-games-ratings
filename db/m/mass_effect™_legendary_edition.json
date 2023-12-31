@@ -4,8 +4,8 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 3461,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 548,
+  "EOS_NewPlayers": 543,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -6723,9 +6723,9 @@
       "ID": "achievement_1",
       "SetID": "b9pe172",
       "Name": "Medal of Honor",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 125,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1246
     },
     {
       "ID": "achievement_10",
@@ -6915,9 +6915,9 @@
       "ID": "achievement_120",
       "SetID": "d252ncf",
       "Name": "Paramour I",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1038
     },
     {
       "ID": "achievement_121",
@@ -7163,9 +7163,9 @@
       "ID": "achievement_34",
       "SetID": "b9pe172",
       "Name": "Colonial Savior",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 75,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1142
     },
     {
       "ID": "achievement_35",
@@ -7411,9 +7411,9 @@
       "ID": "achievement_62",
       "SetID": "d252ncf",
       "Name": "Head Hunter",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 969
+      "UsersEstimate": 1004
     },
     {
       "ID": "achievement_63",
@@ -7751,8 +7751,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-12-31T12:10:26.5453429+00:00",
+  "LastChanged_Achievements": "2023-12-31T13:12:08.9548943+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:34.6542278+00:00",
-  "LastUpdate_Ratings": "2023-12-31T12:03:40.7881705+00:00",
-  "LastUpdate_Achievements": "2023-12-31T12:10:26.5455281+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:05:25.868067+00:00",
+  "LastUpdate_Achievements": "2023-12-31T13:12:08.955214+00:00"
 }

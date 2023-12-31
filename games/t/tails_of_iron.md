@@ -22,19 +22,19 @@ Rating: 4.56 (Ranked 502)
 | Kitchen Ready To Cook | 0.90% | ~21 |
 | Smithy Ready to Craft | 0.90% | ~21 |
 | Throne Room Fit For A King | 0.90% | ~21 |
+| Defeat Croakhis Khan | 0.90% | ~8 |
+| I Remember My First Beer | 0.90% | ~8 |
 | Complete Elder Faction | 0.80% | ~18 |
 | Meet the Creatures from the Deep | 0.80% | ~18 |
 | Return Power To The Depths | 0.80% | ~18 |
-| Defeat Croakhis Khan | 0.80% | ~7 |
-| I Remember My First Beer | 0.80% | ~7 |
 | Defeat Ratnor Rodentson | 0.70% | ~16 |
 | Fix the Travellers Wagon | 0.70% | ~16 |
 | Defeat Avor Warden of the Northern Wastes | 0.60% | ~14 |
+| Discover the mystery of the Kings Chambers | 0.60% | ~14 |
 | Defeat the Grub Buster | 0.60% | ~6 |
 | Return the Statues | 0.50% | ~11 |
 | Complete the Chefs Book | 0.50% | ~11 |
 | Defeat Rattus Augustail | 0.50% | ~11 |
-| Discover the mystery of the Kings Chambers | 0.50% | ~11 |
 | Defeat the Stalker Queen | 0.50% | ~5 |
 | Complete Arena Faction | 0.40% | ~9 |
 | Complete Ranger Faction | 0.40% | ~9 |

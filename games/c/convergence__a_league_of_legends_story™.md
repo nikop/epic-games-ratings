@@ -5,12 +5,12 @@ Rating: 4.65 (Ranked 326)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 43.00% | ~503 |
-| Rail Rat | 32.00% | ~374 |
+| Time Heals All Wounds | 43.00% | ~504 |
+| Rail Rat | 32.00% | ~375 |
 | The Mysterious Stranger | 31.00% | ~363 |
 | Immaculate Aim | 27.00% | ~316 |
 | The Brass Boss | 26.00% | ~304 |
-| The Prince in Heels | 25.00% | ~292 |
+| The Prince in Heels | 25.00% | ~293 |
 | Make Up For Lost Time | 24.00% | ~281 |
 | Time Flies | 24.00% | ~281 |
 | The Harder They Fall | 24.00% | ~281 |
@@ -19,8 +19,8 @@ Rating: 4.65 (Ranked 326)
 | Immaculate Aim | 24.00% | ~281 |
 | Breaking Down Barriers | 23.00% | ~269 |
 | Fast Learner | 23.00% | ~269 |
-| The Steel Shadow | 22.00% | ~257 |
-| The Wicked Twins | 22.00% | ~257 |
+| The Steel Shadow | 22.00% | ~258 |
+| The Wicked Twins | 22.00% | ~258 |
 | Right On Time | 21.00% | ~246 |
 | Like Clockwork | 21.00% | ~246 |
 | Golem Chaser | 21.00% | ~246 |
@@ -35,9 +35,9 @@ Rating: 4.65 (Ranked 326)
 | Family Memories | 13.00% | ~152 |
 | Cartographer | 13.00% | ~152 |
 | Ask Questions Later | 13.00% | ~152 |
-| Chaincrawler Explorer | 12.00% | ~140 |
-| Treasure Trove | 12.00% | ~140 |
-| Syron for Hope | 12.00% | ~140 |
+| Chaincrawler Explorer | 12.00% | ~141 |
+| Treasure Trove | 12.00% | ~141 |
+| Syron for Hope | 12.00% | ~141 |
 | Sump Explorer | 11.00% | ~129 |
 | Factorywood Explorer | 10.00% | ~117 |
 | Theater Explorer | 10.00% | ~117 |
@@ -49,7 +49,7 @@ Rating: 4.65 (Ranked 326)
 | Clovemary for Remembering | 6.00% | ~70 |
 | Hexlock for Protection | 6.00% | ~70 |
 | Golem Hunter | 6.00% | ~70 |
-| Rungs Was Right | 5.00% | ~58 |
+| Rungs Was Right | 5.00% | ~59 |
 | Wunderkind | 2.00% | ~23 |
 | Fitting In | 2.00% | ~23 |
 | Thinking Two Steps Ahead | 1.00% | ~12 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 326)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,170 (Ranked 279)  
+Progressed: 1,171 (Ranked 279)  
 Completed: 6 (0.51%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 6 (0.51%) (Ranked 217)
 | 2023-12-28 | 1,136 | 6 |
 | 2023-12-29 | 1,145 | 6 |
 | 2023-12-30 | 1,165 | 6 |
-| 2023-12-31 | 1,170 | 6 |
+| 2023-12-31 | 1,171 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -691,9 +691,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3999,
+  "EOS_Progressed": 4001,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11346,6 +11346,11 @@
       "Time": "2023-12-31T12:06:09.8446558+00:00",
       "NumProgressed": 3999,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-31T13:07:55.3009754+00:00",
+      "NumProgressed": 4001,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -11395,9 +11400,9 @@
       "ID": "beastwarmachines",
       "SetID": "3nl4bcg",
       "Name": "Beast War Machines",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 28
     },
     {
       "ID": "blueprintupgrades",
@@ -11475,9 +11480,9 @@
       "ID": "dragonslayer",
       "SetID": "3nl4bcg",
       "Name": "Dragon Slayer",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 200
     },
     {
       "ID": "ebonyjungleliberator",
@@ -11515,9 +11520,9 @@
       "ID": "enhancedwarmachines",
       "SetID": "3nl4bcg",
       "Name": "Enhanced War Machines",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 36
     },
     {
       "ID": "enlightenment",
@@ -11635,9 +11640,9 @@
       "ID": "jewelenchanting",
       "SetID": "3nl4bcg",
       "Name": "Jewel Enchanting",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "legendary",
@@ -11749,7 +11754,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2079
+      "UsersEstimate": 2081
     },
     {
       "ID": "prestigiousx10",
@@ -11813,7 +11818,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2239
+      "UsersEstimate": 2241
     },
     {
       "ID": "thealchemist",
@@ -11917,7 +11922,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3719
+      "UsersEstimate": 3721
     },
     {
       "ID": "warmachinesarmy",
@@ -11949,14 +11954,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3119
+      "UsersEstimate": 3121
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3999,
+      "Progressed": 4001,
       "Completed": 2
     }
   ],
@@ -11964,8 +11969,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-29T02:13:48.1079305+00:00",
-  "LastChanged_Achievements": "2023-12-31T12:06:09.8446555+00:00",
+  "LastChanged_Achievements": "2023-12-31T13:07:55.3009752+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:50.7213096+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:59:56.7401417+00:00",
-  "LastUpdate_Achievements": "2023-12-31T12:06:09.844746+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:01:45.1965551+00:00",
+  "LastUpdate_Achievements": "2023-12-31T13:07:55.3010623+00:00"
 }

@@ -15,26 +15,26 @@
 | Turian Ally | 41.00% | ~1,419 |
 | Medal of Exploration II | 39.00% | ~1,350 |
 | Council Legion of Merit | 39.00% | ~1,350 |
+| Medal of Honor | 36.00% | ~1,246 |
 | Soldier Ally | 36.00% | ~1,246 |
-| Medal of Honor | 35.00% | ~1,211 |
 | Soldier | 35.00% | ~1,211 |
 | Meritorious Service Medal | 35.00% | ~1,211 |
 | Charismatic | 35.00% | ~1,211 |
 | Missing in Action | 35.00% | ~1,211 |
 | Asari Ally | 34.00% | ~1,177 |
+| Colonial Savior | 33.00% | ~1,142 |
 | Very Elusive | 33.00% | ~1,142 |
 | Principled | 32.00% | ~1,108 |
-| Colonial Savior | 32.00% | ~1,108 |
 | Medal of Exploration III | 31.00% | ~1,073 |
 | Krogan Ally | 31.00% | ~1,073 |
 | Scientist | 31.00% | ~1,073 |
+| Paramour I | 30.00% | ~1,038 |
 | Sentinel Ally | 30.00% | ~1,038 |
 | Merciless | 30.00% | ~1,038 |
-| Paramour I | 29.00% | ~1,004 |
+| Head Hunter | 29.00% | ~1,004 |
 | Scholar | 29.00% | ~1,004 |
 | The Archangel | 28.00% | ~969 |
 | The Professor | 28.00% | ~969 |
-| Head Hunter | 28.00% | ~969 |
 | Operative | 27.00% | ~934 |
 | The Convict | 26.00% | ~900 |
 | Power Full | 26.00% | ~900 |

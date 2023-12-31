@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 356,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1830,
+  "EOS_Progressed": 1831,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4812,6 +4812,11 @@
       "Time": "2023-12-31T06:10:22.915547+00:00",
       "NumProgressed": 1830,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T13:11:23.8125352+00:00",
+      "NumProgressed": 1831,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4895,7 +4900,7 @@
       "Name": "The Collector",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -5079,7 +5084,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -5095,7 +5100,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -5206,7 +5211,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1830,
+      "Progressed": 1831,
       "Completed": 0
     }
   ],
@@ -5214,8 +5219,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-25T15:00:25.6690232+00:00",
-  "LastChanged_Achievements": "2023-12-31T12:09:41.2441434+00:00",
+  "LastChanged_Achievements": "2023-12-31T13:11:23.8125349+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:37.9319914+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:59:58.9095959+00:00",
-  "LastUpdate_Achievements": "2023-12-31T12:09:41.244191+00:00"
+  "LastUpdate_Ratings": "2023-12-31T13:01:47.2863316+00:00",
+  "LastUpdate_Achievements": "2023-12-31T13:11:23.8125793+00:00"
 }

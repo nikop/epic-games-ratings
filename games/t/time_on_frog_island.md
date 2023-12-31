@@ -9,9 +9,9 @@
 | What?! | 43.00% | ~16 |
 | Frogs Legs | 22.00% | ~8 |
 | Mad Scientist | 19.00% | ~7 |
+| Hoist the Sails | 19.00% | ~7 |
+| Secure the Sheets | 19.00% | ~7 |
 | Socialite | 16.00% | ~6 |
-| Hoist the Sails | 16.00% | ~6 |
-| Secure the Sheets | 16.00% | ~6 |
 | Couch-surfing | 14.00% | ~5 |
 | Hands on the Helm | 14.00% | ~5 |
 | Who Even Needs Keys | 11.00% | ~4 |

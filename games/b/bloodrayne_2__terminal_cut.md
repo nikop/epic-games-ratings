@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Going Batty | 27.00% | ~3 |
-| Amateur Electrician | 9.00% | ~1 |
-| Armed and Dangerous | 9.00% | ~1 |
-| Go for the Heart | 9.00% | ~1 |
-| Patricide | 9.00% | ~1 |
-| Tightrope | 9.00% | ~1 |
-| Zen Garden | 9.00% | ~1 |
+| Going Batty | 25.00% | ~3 |
+| Amateur Electrician | 8.00% | ~1 |
+| Armed and Dangerous | 8.00% | ~1 |
+| Go for the Heart | 8.00% | ~1 |
+| Patricide | 8.00% | ~1 |
+| Tightrope | 8.00% | ~1 |
+| Zen Garden | 8.00% | ~1 |
 | CARNAGE | 0.00% | ~0 |
 | Combat Specialist | 0.00% | ~0 |
 | Deathtraps | 0.00% | ~0 |
@@ -19,7 +19,7 @@
 | Nowhere you can hide | 0.00% | ~0 |
 | Pound of Flesh | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11 (Ranked 652)  
+Progressed: 12 (Ranked 642)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -28,6 +28,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-10-31 | 9 | 0 |
 | 2023-11-09 | 10 | 0 |
 | 2023-12-20 | 11 | 0 |
+| 2023-12-31 | 12 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

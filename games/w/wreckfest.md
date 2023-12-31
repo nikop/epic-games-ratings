@@ -5,7 +5,7 @@ Rating: 4.29 (Ranked 872)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Storm Warning | 66.00% | ~395 |
+| Storm Warning | 66.00% | ~397 |
 | Highballer | 44.00% | ~264 |
 | Dirty Roller | 34.00% | ~204 |
 | Regional Juniors Champion | 32.00% | ~192 |
@@ -18,15 +18,15 @@ Rating: 4.29 (Ranked 872)
 | Challengers Champion | 12.00% | ~72 |
 | Pro Internationals Champion | 8.00% | ~48 |
 | Cash For Crashes | 7.00% | ~42 |
-| Showing Some Dedication | 4.00% | ~24 |
 | Maniac Driver | 4.00% | ~24 |
 | World Masters Champion | 3.00% | ~18 |
+| Showing Some Dedication | 3.00% | ~18 |
 | Garden Variety | 2.00% | ~12 |
 | Glutton For Punishment | 0.80% | ~5 |
 | Human Lover | 0.70% | ~4 |
 | Rocketeer | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 599 (Ranked 330)  
+Progressed: 601 (Ranked 330)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -44,7 +44,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 500 | 0 |
 | 2023-12-29 | 537 | 0 |
 | 2023-12-30 | 579 | 0 |
-| 2023-12-31 | 599 | 0 |
+| 2023-12-31 | 601 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
