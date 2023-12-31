@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -259,9 +259,9 @@
       "Count": 89
     }
   ],
-  "EOS_Progressed": 1205,
+  "EOS_Progressed": 1206,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3329,6 +3329,11 @@
       "Time": "2023-12-31T07:07:34.5728637+00:00",
       "NumProgressed": 1205,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-31T09:05:33.3863553+00:00",
+      "NumProgressed": 1206,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3349,7 +3354,7 @@
       "Name": "Ab Initio",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "AnthropicHills",
@@ -3357,7 +3362,7 @@
       "Name": "Anthropic Hills",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "Archaeologist",
@@ -3421,7 +3426,7 @@
       "Name": "Circular Oasis",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "DesolateIsland",
@@ -3461,7 +3466,7 @@
       "Name": "Excellent",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "FloodedValley",
@@ -3525,7 +3530,7 @@
       "Name": "Lord of the Files",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "LostMarshes",
@@ -3589,7 +3594,7 @@
       "Name": "Not What It Seems",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "Overload",
@@ -3597,7 +3602,7 @@
       "Name": "Overload",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "Persistent",
@@ -3629,7 +3634,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "RenaissanceRobot",
@@ -3645,7 +3650,7 @@
       "Name": "Scientia Vincere Tenebras",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "Signatory",
@@ -3677,7 +3682,7 @@
       "Name": "Southern Coast",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "TeamSpirit",
@@ -3733,7 +3738,7 @@
       "Name": "The Spark",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "TheThiefOfFire",
@@ -3765,7 +3770,7 @@
       "Name": "Trevor\u0027s Biographer",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "VerdantCanyon",
@@ -3773,7 +3778,7 @@
       "Name": "Verdant Canyon",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "Wanderers",
@@ -3789,7 +3794,7 @@
       "Name": "Western Delta",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "WoodedPlateau",
@@ -3812,7 +3817,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1205,
+      "Progressed": 1206,
       "Completed": 2
     }
   ],
@@ -3820,8 +3825,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-29T23:57:10.9507958+00:00",
-  "LastChanged_Achievements": "2023-12-31T08:05:53.7798583+00:00",
+  "LastChanged_Achievements": "2023-12-31T09:05:33.386355+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:57:41.2474225+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:05:53.7799115+00:00"
+  "LastUpdate_Ratings": "2023-12-31T08:57:52.8089591+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:05:33.3864114+00:00"
 }

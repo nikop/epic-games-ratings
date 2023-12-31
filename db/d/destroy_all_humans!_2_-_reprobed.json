@@ -1317,9 +1317,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1429,9 +1429,9 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1485,9 +1485,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1678,8 +1678,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-28T10:58:39.1665152+00:00",
-  "LastChanged_Achievements": "2023-12-31T08:09:07.8648764+00:00",
+  "LastChanged_Achievements": "2023-12-31T09:08:53.4400448+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:59:54.2184422+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:09:07.8649019+00:00"
+  "LastUpdate_Ratings": "2023-12-31T09:00:01.0467617+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:08:53.4400965+00:00"
 }

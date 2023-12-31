@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -323,9 +323,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3842,
+  "EOS_Progressed": 3844,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7528,6 +7528,11 @@
       "Time": "2023-12-31T02:31:06.0120514+00:00",
       "NumProgressed": 3842,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T09:04:56.6723407+00:00",
+      "NumProgressed": 3844,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7603,7 +7608,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "ACH_BASE_19",
@@ -7627,7 +7632,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "ACH_BASE_22",
@@ -7867,7 +7872,7 @@
       "Name": "Convenient Transport",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ACH_BASE_52",
@@ -7891,7 +7896,7 @@
       "Name": "Please Make it Stop!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ACH_BASE_57",
@@ -7915,7 +7920,7 @@
       "Name": "The Ship of Theseus",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "ACH_BASE_6",
@@ -7923,7 +7928,7 @@
       "Name": "Hope Seeker",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "ACH_BASE_60",
@@ -7994,13 +7999,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2026,
+      "Progressed": 2028,
       "Completed": 10
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3842,
+      "Progressed": 3844,
       "Completed": 0
     }
   ],
@@ -8008,8 +8013,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2023-12-31T08:05:15.9510964+00:00",
+  "LastChanged_Achievements": "2023-12-31T09:04:56.6723402+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:27.7465752+00:00",
-  "LastUpdate_Ratings": "2023-12-31T08:02:45.0798156+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:05:15.9512041+00:00"
+  "LastUpdate_Ratings": "2023-12-31T09:02:29.122864+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:04:56.6724332+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -815,9 +815,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 240581,
+  "EOS_Progressed": 240583,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1331,
+  "EOS_NewPlayers": 1327,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19465,6 +19465,11 @@
       "Time": "2023-12-31T08:09:59.3281927+00:00",
       "NumProgressed": 240581,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T09:09:44.3221238+00:00",
+      "NumProgressed": 240583,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -19661,7 +19666,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33681
+      "UsersEstimate": 33682
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -19733,7 +19738,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 60145
+      "UsersEstimate": 60146
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -19748,7 +19753,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 240581,
+      "Progressed": 240583,
       "Completed": 0
     }
   ],
@@ -19756,8 +19761,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-28T23:00:12.8923406+00:00",
-  "LastChanged_Achievements": "2023-12-31T08:09:59.3281924+00:00",
+  "LastChanged_Achievements": "2023-12-31T09:09:44.3221237+00:00",
   "LastUpdate_AppInfo": "2023-12-29T06:57:17.105104+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:57:05.7429229+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:09:59.3282988+00:00"
+  "LastUpdate_Ratings": "2023-12-31T08:57:17.4568839+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:09:44.3222605+00:00"
 }

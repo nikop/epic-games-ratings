@@ -3817,10 +3817,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2942,
       "NumberOfAwardsMax": 326
+    },
+    {
+      "Time": "2023-12-31T08:57:45.2513753+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2943,
+      "NumberOfAwardsMax": 326
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2942,
+  "NumberOfAwards": 2943,
   "NumberOfAwardsMax": 326,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3864,7 +3870,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 311
+      "Count": 312
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3897,9 +3903,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32991,
+  "EOS_Progressed": 32994,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 365,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -24067,6 +24073,11 @@
       "Time": "2023-12-31T08:08:49.0958688+00:00",
       "NumProgressed": 32991,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-12-31T09:08:35.1477633+00:00",
+      "NumProgressed": 32994,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -24078,7 +24089,7 @@
       "Name": "Advancement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2639
+      "UsersEstimate": 2640
     },
     {
       "ID": "Animated",
@@ -24166,7 +24177,7 @@
       "Name": "Discovery",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1979
+      "UsersEstimate": 1980
     },
     {
       "ID": "Dont_Need_These",
@@ -24190,7 +24201,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2639
+      "UsersEstimate": 2640
     },
     {
       "ID": "Escape_Artist",
@@ -24366,7 +24377,7 @@
       "Name": "Solo Capture",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1979
+      "UsersEstimate": 1980
     },
     {
       "ID": "Stunner",
@@ -24406,7 +24417,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 1979
+      "UsersEstimate": 1980
     },
     {
       "ID": "Teamwork",
@@ -24485,16 +24496,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32991,
+      "Progressed": 32994,
       "Completed": 71
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-12-31T06:58:17.8154959+00:00",
-  "LastChanged_Achievements": "2023-12-31T08:08:49.0958687+00:00",
+  "LastChanged": "2023-12-31T08:57:45.2513751+00:00",
+  "LastChanged_Achievements": "2023-12-31T09:08:35.1477628+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:23.250158+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:57:34.0909806+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:08:49.0959675+00:00"
+  "LastUpdate_Ratings": "2023-12-31T08:57:45.2513757+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:08:35.1479531+00:00"
 }

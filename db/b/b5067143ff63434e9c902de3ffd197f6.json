@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17564,
+  "EOS_Progressed": 17569,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1650,
+  "EOS_NewPlayers": 1653,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10794,6 +10794,11 @@
       "Time": "2023-12-31T08:03:30.63942+00:00",
       "NumProgressed": 17564,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T09:03:14.3443169+00:00",
+      "NumProgressed": 17569,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -10902,7 +10907,7 @@
       "Name": "Level 0",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4391
+      "UsersEstimate": 4392
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -10918,7 +10923,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1932
+      "UsersEstimate": 1933
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -10997,14 +11002,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 17564,
+      "Progressed": 17569,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-12-31T08:03:30.6394198+00:00",
+  "LastChanged_Achievements": "2023-12-31T09:03:14.3443167+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:06.2356641+00:00",
-  "LastUpdate_Ratings": "2023-12-31T08:02:47.9444708+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:03:30.6395059+00:00"
+  "LastUpdate_Ratings": "2023-12-31T09:02:31.8428042+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:03:14.3444188+00:00"
 }

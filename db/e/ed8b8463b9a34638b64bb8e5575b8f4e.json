@@ -4,8 +4,8 @@
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 386,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 388,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
     "PcReleaseDate": "2023-09-12T09:00:00+00:00",
@@ -547,9 +547,9 @@
       "ID": "christ_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Christ the Saviour",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "cold_feet",
@@ -715,9 +715,9 @@
       "ID": "the_price_is_right",
       "SetID": "7i36ba9",
       "Name": "The Price is Right",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "the_swell_celebration",
@@ -754,8 +754,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-12-31T08:09:56.2517467+00:00",
+  "LastChanged_Achievements": "2023-12-31T09:09:41.2309425+00:00",
   "LastUpdate_AppInfo": "2023-12-30T07:56:58.7509332+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:56:57.2511418+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:09:56.2517611+00:00"
+  "LastUpdate_Ratings": "2023-12-31T08:57:09.1895022+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:09:41.2309685+00:00"
 }

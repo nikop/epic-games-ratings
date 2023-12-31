@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 77.00% | ~109 |
+| Iceberg Theory | 77.00% | ~110 |
 | Gear Up | 66.00% | ~94 |
 | A Grand Show | 66.00% | ~94 |
-| Freshen Up | 55.00% | ~78 |
-| GG EZ | 53.00% | ~75 |
+| Freshen Up | 55.00% | ~79 |
+| GG EZ | 52.00% | ~74 |
 | Hydrophobia | 37.00% | ~53 |
-| Ka-Ching! | 30.00% | ~43 |
+| Ka-Ching! | 29.00% | ~41 |
 | Stop Right There | 28.00% | ~40 |
 | Get to the Point | 25.00% | ~36 |
 | Phew! | 15.00% | ~21 |
 | Mr. Want It All | 14.00% | ~20 |
 | Toe to Toe | 14.00% | ~20 |
-| The Hidden Secret | 13.00% | ~18 |
+| The Hidden Secret | 13.00% | ~19 |
 | The Abyss Conqueror | 10.00% | ~14 |
 | Space Warrior: Prologue | 10.00% | ~14 |
 | Grand Escape | 9.00% | ~13 |
@@ -34,13 +34,13 @@
 | The Sunken City Conqueror | 4.00% | ~6 |
 | The Zero Dimensional Capital Conqueror | 4.00% | ~6 |
 | Death Bringer Conqueror | 4.00% | ~6 |
-| The Looping Space Conqueror | 4.00% | ~6 |
-| Space Ranger: Prologue | 4.00% | ~6 |
-| The Truth? | 4.00% | ~6 |
-| Rapidfire | 4.00% | ~6 |
-| Air Interception | 4.00% | ~6 |
+| The Looping Space Conqueror | 3.00% | ~4 |
 | Break Through the Forbidden | 3.00% | ~4 |
+| Space Ranger: Prologue | 3.00% | ~4 |
 | Breaking the Limit | 3.00% | ~4 |
+| The Truth? | 3.00% | ~4 |
+| Rapidfire | 3.00% | ~4 |
+| Air Interception | 3.00% | ~4 |
 | Bye Bye Gravity | 3.00% | ~4 |
 | Pumped Up | 2.00% | ~3 |
 | Proliferation | 2.00% | ~3 |
@@ -55,7 +55,7 @@
 | Bullets Fear Me | 0.70% | ~1 |
 | Super Alloy Ranger! | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142 (Ranked 452)  
+Progressed: 143 (Ranked 451)  
 Completed: 1 (0.70%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,6 +134,7 @@ Completed: 1 (0.70%) (Ranked 195)
 | 2023-12-25 | 139 | 1 |
 | 2023-12-26 | 141 | 1 |
 | 2023-12-29 | 142 | 1 |
+| 2023-12-31 | 143 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

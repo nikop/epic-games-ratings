@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 538,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
     "PcReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -416,9 +416,9 @@
       "ID": "ACH_KILLENEMY",
       "SetID": "ch874lb",
       "Name": "The Exterminator",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_LEGENDARYMATERIAL",
@@ -551,8 +551,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2023-12-31T08:04:49.0996944+00:00",
+  "LastChanged_Achievements": "2023-12-31T09:04:30.3476538+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:00.0286827+00:00",
-  "LastUpdate_Ratings": "2023-12-31T08:02:29.7364302+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:04:49.0997073+00:00"
+  "LastUpdate_Ratings": "2023-12-31T09:00:14.8201129+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:04:30.3476738+00:00"
 }

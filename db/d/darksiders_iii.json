@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -456,9 +456,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 325,
+  "EOS_Progressed": 326,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1276,6 +1276,11 @@
       "Time": "2023-12-31T06:05:52.226399+00:00",
       "NumProgressed": 325,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T09:04:20.1845807+00:00",
+      "NumProgressed": 326,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -1336,7 +1341,7 @@
       "Name": "One Of the Chosen",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
@@ -1360,7 +1365,7 @@
       "Name": "Increased Vigor",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_4",
@@ -1376,7 +1381,7 @@
       "Name": "Fight Fire with Fire",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "Collect_Hollow_Force",
@@ -1446,9 +1451,9 @@
       "ID": "Craft_Enhancement_Balanced_1",
       "SetID": "7a5k76n",
       "Name": "Can you restore the Balance?",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 75
     },
     {
       "ID": "Craft_Enhancement_Balanced_5",
@@ -1488,7 +1493,7 @@
       "Name": "\u0022Apocalyptic!\u0022",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Crucible_Wave_25",
@@ -1512,7 +1517,7 @@
       "Name": "\u0022Amazing!\u0022",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Game_Complete",
@@ -1536,7 +1541,7 @@
       "Name": "Proceed on your way to Armageddon",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Game_CompleteNormal",
@@ -1590,9 +1595,9 @@
       "ID": "Kill_Demon_Abraxis",
       "SetID": "7a5k76n",
       "Name": "Demon Meddler",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 65
     },
     {
       "ID": "Kill_Demon_Kraken",
@@ -1600,7 +1605,7 @@
       "Name": "Love Tap",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "Kill_Enemies_666",
@@ -1638,9 +1643,9 @@
       "ID": "Kill_Sin_Envy",
       "SetID": "7a5k76n",
       "Name": "Green with Envy",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 258
     },
     {
       "ID": "Kill_Sin_Gluttony",
@@ -1648,7 +1653,7 @@
       "Name": "Eat Your Heart Out",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Kill_Sin_Lust",
@@ -1696,15 +1701,15 @@
       "Name": "Helping Hand",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "Save_Humans_10",
       "SetID": "7a5k76n",
       "Name": "Crowd Source",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 68
     },
     {
       "ID": "Save_Humans_15",
@@ -1744,7 +1749,7 @@
       "Name": "First of many\u2026",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -1760,7 +1765,7 @@
       "Name": "Big Spender",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Unlocked_49_Achievements",
@@ -1784,30 +1789,30 @@
       "Name": "Just the start",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "Upgrade_Weapon_Max",
       "SetID": "7a5k76n",
       "Name": "Take it to the Limit",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 325,
+      "Progressed": 326,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-29T15:59:12.0320887+00:00",
-  "LastChanged_Achievements": "2023-12-31T08:04:38.9385128+00:00",
+  "LastChanged_Achievements": "2023-12-31T09:04:20.1845804+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:59:51.9299423+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:04:38.9385504+00:00"
+  "LastUpdate_Ratings": "2023-12-31T08:59:58.481279+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:04:20.1846678+00:00"
 }

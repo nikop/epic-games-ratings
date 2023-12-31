@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 336,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -807,9 +807,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3669,
+  "EOS_Progressed": 3670,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5167,6 +5167,11 @@
       "Time": "2023-12-31T08:04:04.0660564+00:00",
       "NumProgressed": 3669,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T09:03:47.1350343+00:00",
+      "NumProgressed": 3670,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5274,7 +5279,7 @@
       "Name": "Surgical Excision",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -5386,7 +5391,7 @@
       "Name": "Friendly Fire",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "Kills_Interactable",
@@ -5721,21 +5726,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3669,
+      "Progressed": 3670,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3669,
+      "Progressed": 3670,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-29T09:03:12.9031427+00:00",
-  "LastChanged_Achievements": "2023-12-31T08:04:04.0660562+00:00",
+  "LastChanged_Achievements": "2023-12-31T09:03:47.1350341+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.5390055+00:00",
-  "LastUpdate_Ratings": "2023-12-31T08:03:05.4229831+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:04:04.0661163+00:00"
+  "LastUpdate_Ratings": "2023-12-31T09:02:48.3787944+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:03:47.1351339+00:00"
 }

@@ -16,8 +16,8 @@
 | The Missing Magdalene | 46.00% | ~38 |
 | Arthur Hastings | 46.00% | ~38 |
 | Everything matters | 41.00% | ~34 |
+| DI Hardwicke | 41.00% | ~34 |
 | An expert mediator | 40.00% | ~33 |
-| DI Hardwicke | 40.00% | ~33 |
 | Order and method | 35.00% | ~29 |
 | Betty Allen | 35.00% | ~29 |
 | The Investigation Begins | 33.00% | ~27 |
@@ -51,7 +51,7 @@
 | A perilous journey | 11.00% | ~9 |
 | Perkins | 7.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82 (Ranked 502)  
+Progressed: 82 (Ranked 503)  
 Completed: 3 (3.66%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |

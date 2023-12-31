@@ -4,8 +4,8 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 279,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 758,
+  "EOS_Progressed": 759,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.77,
   "EosHistory": [
@@ -1530,6 +1530,11 @@
       "Time": "2023-12-31T02:34:47.8915306+00:00",
       "NumProgressed": 758,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-31T09:09:21.8752196+00:00",
+      "NumProgressed": 759,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 20,
@@ -1549,7 +1554,7 @@
       "Name": "Blast From The Past",
       "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "deadly_secret",
@@ -1629,7 +1634,7 @@
       "Name": "Falling For You",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "free_champagne",
@@ -1685,7 +1690,7 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "tough_decision",
@@ -1693,14 +1698,14 @@
       "Name": "Tough Decision",
       "Percentage": 92,
       "XP": 50,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 758,
+      "Progressed": 759,
       "Completed": 21
     }
   ],
@@ -1708,8 +1713,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-12-31T08:09:36.6372241+00:00",
+  "LastChanged_Achievements": "2023-12-31T09:09:21.8752194+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:19.0245137+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:58:03.6100438+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:09:36.637247+00:00"
+  "LastUpdate_Ratings": "2023-12-31T08:58:13.2467502+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:09:21.8752386+00:00"
 }

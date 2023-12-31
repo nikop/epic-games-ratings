@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2402,
+  "EOS_Progressed": 2403,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6744,6 +6744,11 @@
       "Time": "2023-12-31T08:10:08.0060457+00:00",
       "NumProgressed": 2402,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T09:09:52.7410937+00:00",
+      "NumProgressed": 2403,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6980,7 +6985,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 2090
+      "UsersEstimate": 2091
     },
     {
       "ID": "achievement_36",
@@ -6996,7 +7001,7 @@
       "Name": "Off to a good start",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1489
+      "UsersEstimate": 1490
     },
     {
       "ID": "achievement_38",
@@ -7020,7 +7025,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "achievement_40",
@@ -7028,7 +7033,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "achievement_41",
@@ -7259,13 +7264,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2402,
+      "Progressed": 2403,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2402,
+      "Progressed": 2403,
       "Completed": 1
     }
   ],
@@ -7273,8 +7278,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-12-31T08:10:08.0060455+00:00",
+  "LastChanged_Achievements": "2023-12-31T09:09:52.7410935+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.759459+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:57:42.755375+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:10:08.0061112+00:00"
+  "LastUpdate_Ratings": "2023-12-31T08:57:54.3301489+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:09:52.7412298+00:00"
 }

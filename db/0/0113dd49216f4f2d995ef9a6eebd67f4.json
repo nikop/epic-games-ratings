@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 282,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 207,
+  "EOS_Progressed": 208,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
@@ -934,6 +934,11 @@
       "Time": "2023-12-31T01:58:52.2078021+00:00",
       "NumProgressed": 207,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T09:08:46.6430241+00:00",
+      "NumProgressed": 208,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -960,9 +965,9 @@
       "ID": "SG_AGAINSTALLODDS",
       "SetID": "bj5g0n4",
       "Name": "Against All Odds",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "SG_ALLTHEHELPYOUNEED",
@@ -1016,9 +1021,9 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 146
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1042,7 +1047,7 @@
       "Name": "God Of The Sun",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "SG_HEARTBREAKER",
@@ -1241,14 +1246,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 207,
+      "Progressed": 208,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-31T08:09:01.075687+00:00",
+  "LastChanged_Achievements": "2023-12-31T09:08:46.6430238+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.3127204+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:58:19.5536469+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:09:01.0757132+00:00"
+  "LastUpdate_Ratings": "2023-12-31T08:58:29.1783321+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:08:46.6430594+00:00"
 }

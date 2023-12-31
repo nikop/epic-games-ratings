@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hero Arrives | 89.00% | ~51 |
-| Eat the Rich | 60.00% | ~34 |
-| Killing Machine | 49.00% | ~28 |
-| Death Battle | 46.00% | ~26 |
-| Phantom Kunoichi | 46.00% | ~26 |
-| Divine Retribution | 44.00% | ~25 |
-| Captain Mustache | 42.00% | ~24 |
-| Dispel Rumors | 39.00% | ~22 |
-| Final Showdown | 35.00% | ~20 |
-| The End of an Outlaw | 35.00% | ~20 |
-| Steal Her Away | 33.00% | ~19 |
-| Demon Slayer | 32.00% | ~18 |
-| Sewer Rat | 32.00% | ~18 |
-| Fight Fire With Fire | 32.00% | ~18 |
-| Urban Explorer | 28.00% | ~16 |
-| Not Today | 26.00% | ~15 |
-| Coward | 26.00% | ~15 |
-| Big Eater | 25.00% | ~14 |
-| Tour Guide | 25.00% | ~14 |
-| Tomb Raider | 25.00% | ~14 |
-| The Real O.G. | 23.00% | ~13 |
-| The Hero of the People | 16.00% | ~9 |
+| Hero Arrives | 88.00% | ~52 |
+| Eat the Rich | 59.00% | ~35 |
+| Killing Machine | 47.00% | ~28 |
+| Death Battle | 44.00% | ~26 |
+| Phantom Kunoichi | 44.00% | ~26 |
+| Divine Retribution | 42.00% | ~25 |
+| Captain Mustache | 41.00% | ~24 |
+| Dispel Rumors | 37.00% | ~22 |
+| Final Showdown | 36.00% | ~21 |
+| The End of an Outlaw | 36.00% | ~21 |
+| Steal Her Away | 32.00% | ~19 |
+| Demon Slayer | 31.00% | ~18 |
+| Sewer Rat | 31.00% | ~18 |
+| Fight Fire With Fire | 31.00% | ~18 |
+| Urban Explorer | 27.00% | ~16 |
+| Not Today | 27.00% | ~16 |
+| Coward | 25.00% | ~15 |
+| Big Eater | 24.00% | ~14 |
+| Tour Guide | 24.00% | ~14 |
+| Tomb Raider | 24.00% | ~14 |
+| The Real O.G. | 22.00% | ~13 |
+| The Hero of the People | 15.00% | ~9 |
 | Talk to the Fist | 14.00% | ~8 |
-| Collector | 11.00% | ~6 |
-| Taoist | 9.00% | ~5 |
+| Collector | 10.00% | ~6 |
+| Taoist | 8.00% | ~5 |
 | The Legend | 7.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57 (Ranked 532)  
-Completed: 4 (7.02%) (Ranked 60)  
+Progressed: 59 (Ranked 531)  
+Completed: 4 (6.78%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -76,7 +76,7 @@ Completed: 4 (7.02%) (Ranked 60)
 | 2023-12-28 | 52 | 4 |
 | 2023-12-29 | 53 | 4 |
 | 2023-12-30 | 56 | 4 |
-| 2023-12-31 | 57 | 4 |
+| 2023-12-31 | 59 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

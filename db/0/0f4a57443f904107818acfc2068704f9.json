@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1156,
+  "EOS_Progressed": 1157,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2862,6 +2862,11 @@
       "Time": "2023-12-31T07:08:33.148924+00:00",
       "NumProgressed": 1156,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T09:07:42.0364979+00:00",
+      "NumProgressed": 1157,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2978,7 +2983,7 @@
       "Name": "The Great Scheme",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "CompleteChapter16",
@@ -2986,7 +2991,7 @@
       "Name": "Our Own Miracle",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "CompleteChapter17",
@@ -3026,7 +3031,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "CompleteChapter4",
@@ -3034,7 +3039,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "CompleteChapter5",
@@ -3169,14 +3174,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1156,
+      "Progressed": 1157,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-12-31T08:08:25.0933383+00:00",
+  "LastChanged_Achievements": "2023-12-31T09:07:42.0364978+00:00",
   "LastUpdate_AppInfo": "2023-12-29T09:57:13.5043463+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:57:53.6953709+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:08:25.0933738+00:00"
+  "LastUpdate_Ratings": "2023-12-31T08:58:04.2138294+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:07:42.0365411+00:00"
 }

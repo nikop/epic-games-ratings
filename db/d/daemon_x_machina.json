@@ -4,11 +4,11 @@
   "ProductSlug": "daemon-x-machina",
   "Ranking_Rating": 764,
   "Ranking_Popularity": 154,
-  "Ranking_PopularitySum": 237,
+  "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 564,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 563,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-01-27T16:00:00+00:00",
     "PcReleaseDate": "2022-01-27T16:00:00+00:00",
@@ -1965,6 +1965,6 @@
   "FirstSeen": "2022-07-22T20:20:03.7612115+00:00",
   "LastChanged": "2023-12-29T14:58:37.703654+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.0415622+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:58:49.7743852+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:04:32.0327937+00:00"
+  "LastUpdate_Ratings": "2023-12-31T08:58:59.7423711+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:04:13.4386366+00:00"
 }

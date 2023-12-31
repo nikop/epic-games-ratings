@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 592,
+  "EOS_Progressed": 593,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
@@ -2132,6 +2132,11 @@
       "Time": "2023-12-30T22:10:47.1681509+00:00",
       "NumProgressed": 592,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-31T09:09:43.5088799+00:00",
+      "NumProgressed": 593,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -2143,7 +2148,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 48,
       "XP": 60,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "completeact2",
@@ -2199,7 +2204,7 @@
       "Name": "86\u0027s Nightmare",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "scoreminrankrf2",
@@ -2255,14 +2260,14 @@
       "Name": "Friendzone",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     }
   ],
   "AchievementSets": [
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 592,
+      "Progressed": 593,
       "Completed": 2
     }
   ],
@@ -2270,8 +2275,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-12-31T08:09:58.4894468+00:00",
+  "LastChanged_Achievements": "2023-12-31T09:09:43.5088796+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:00.0371084+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:57:45.7194448+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:09:58.489461+00:00"
+  "LastUpdate_Ratings": "2023-12-31T08:57:57.0359208+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:09:43.5089001+00:00"
 }

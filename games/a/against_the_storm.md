@@ -48,8 +48,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Into the Forest | 1.00% | ~198 |
 | Efficient Explorer | 0.90% | ~178 |
 | Refinery | 0.90% | ~178 |
+| Dangerous Lands | 0.90% | ~178 |
 | Forsaken Gods Temple | 0.90% | ~178 |
-| Dangerous Lands | 0.80% | ~158 |
 | Forbidden Lands | 0.80% | ~158 |
 | Feeding The People | 0.60% | ~119 |
 | Like a Machine | 0.50% | ~99 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,771 (Ranked 151)  
+Progressed: 19,774 (Ranked 151)  
 Completed: 34 (0.17%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 34 (0.17%) (Ranked 280)
 | 2023-12-28 | 19,536 | 36 |
 | 2023-12-29 | 19,630 | 36 |
 | 2023-12-30 | 19,741 | 35 |
-| 2023-12-31 | 19,771 | 34 |
+| 2023-12-31 | 19,774 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 447  (Ranked 230)  
 Sum: 3,309 (Ranked 177)  

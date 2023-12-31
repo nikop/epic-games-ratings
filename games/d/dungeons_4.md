@@ -9,7 +9,7 @@ Rating: 4.65 (Ranked 324)
 | Thalya – Simply Immortal | 88.00% | ~594 |
 | For the Horde! | 82.00% | ~554 |
 | Hammer Time, Round Two | 81.00% | ~547 |
-| The Hellwoods | 76.00% | ~513 |
+| The Hellwoods | 77.00% | ~520 |
 | The Plains of Strothalm | 72.00% | ~486 |
 | Experienced Thalya | 72.00% | ~486 |
 | Bad Elves Go Everywhere | 69.00% | ~466 |
@@ -23,7 +23,7 @@ Rating: 4.65 (Ranked 324)
 | Minions, Minions! | 56.00% | ~378 |
 | Trap Master | 55.00% | ~371 |
 | Hard Work | 54.00% | ~364 |
-| The Big Eaty | 53.00% | ~358 |
+| The Big Eaty | 54.00% | ~364 |
 | YOU SHALL NOT PASS! | 51.00% | ~344 |
 | “… like son” | 51.00% | ~344 |
 | The Cathedral of Light | 47.00% | ~317 |
@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 324)
 | Raiders of the Lost Stone | 26.00% | ~176 |
 | Bonus Evilness | 25.00% | ~169 |
 | The Rune Sockets of Finitude (Part 2) | 24.00% | ~162 |
-| The Last Stand - This Time For Real! | 22.00% | ~148 |
+| The Last Stand - This Time For Real! | 23.00% | ~155 |
 | Rubble and Ashes | 21.00% | ~142 |
 | Lavalumps on Ice! | 19.00% | ~128 |
 | To Infinity And Beyond! | 19.00% | ~128 |

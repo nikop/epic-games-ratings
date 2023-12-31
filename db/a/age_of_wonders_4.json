@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -651,9 +651,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6589,
+  "EOS_Progressed": 6591,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 492,
+  "EOS_NewPlayers": 490,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9841,6 +9841,11 @@
       "Time": "2023-12-31T08:05:47.9909943+00:00",
       "NumProgressed": 6589,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-31T09:05:27.6750229+00:00",
+      "NumProgressed": 6591,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9852,7 +9857,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "10",
@@ -10020,7 +10025,7 @@
       "Name": "Stronger Together",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "3",
@@ -10068,7 +10073,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "35",
@@ -10124,7 +10129,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "41",
@@ -10316,7 +10321,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "60",
@@ -10331,13 +10336,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6589,
+      "Progressed": 6591,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6589,
+      "Progressed": 6591,
       "Completed": 7
     }
   ],
@@ -10345,8 +10350,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-30T08:58:11.4280246+00:00",
-  "LastChanged_Achievements": "2023-12-31T08:05:47.9909941+00:00",
+  "LastChanged_Achievements": "2023-12-31T09:05:27.6750226+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:58:15.91429+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:05:47.9910838+00:00"
+  "LastUpdate_Ratings": "2023-12-31T08:58:25.308848+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:05:27.6751295+00:00"
 }

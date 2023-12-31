@@ -2,10 +2,10 @@
   "ID": "6bd7d2e32a724e119b9e4a2254aeec33",
   "Name": "Super Alloy Ranger",
   "ProductSlug": "super-alloy-ranger-4252cc",
-  "Ranking_EOS_Progress": 452,
+  "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 458,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
     "PcReleaseDate": "2022-09-15T07:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 142,
+  "EOS_Progressed": 143,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -696,6 +696,11 @@
       "Time": "2023-12-29T15:06:50.9369476+00:00",
       "NumProgressed": 142,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T09:07:19.6080897+00:00",
+      "NumProgressed": 143,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -793,9 +798,9 @@
       "ID": "Achi_12",
       "SetID": "51a97k7",
       "Name": "The Looping Space Conqueror",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "Achi_13",
@@ -825,9 +830,9 @@
       "ID": "Achi_16",
       "SetID": "51a97k7",
       "Name": "Space Ranger: Prologue",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "Achi_17",
@@ -859,7 +864,7 @@
       "Name": "Freshen Up",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Achi_21",
@@ -875,7 +880,7 @@
       "Name": "Iceberg Theory",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Achi_23",
@@ -883,15 +888,15 @@
       "Name": "The Hidden Secret",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Achi_24",
       "SetID": "51a97k7",
       "Name": "The Truth?",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "Achi_25",
@@ -913,25 +918,25 @@
       "ID": "Achi_27",
       "SetID": "51a97k7",
       "Name": "GG EZ",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 74
     },
     {
       "ID": "Achi_28",
       "SetID": "51a97k7",
       "Name": "Ka-Ching!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "Achi_29",
       "SetID": "51a97k7",
       "Name": "Rapidfire",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "Achi_30",
@@ -985,9 +990,9 @@
       "ID": "Achi_36",
       "SetID": "51a97k7",
       "Name": "Air Interception",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "Achi_37",
@@ -1106,7 +1111,7 @@
     {
       "ID": "51a97k7",
       "IsBase": true,
-      "Progressed": 142,
+      "Progressed": 143,
       "Completed": 1
     }
   ],
@@ -1114,8 +1119,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-12-31T08:06:11.1715501+00:00",
+  "LastChanged_Achievements": "2023-12-31T09:07:19.6080895+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:37.9586675+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:58:54.2878109+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:06:11.1715916+00:00"
+  "LastUpdate_Ratings": "2023-12-31T08:59:03.7991822+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:07:19.6081363+00:00"
 }

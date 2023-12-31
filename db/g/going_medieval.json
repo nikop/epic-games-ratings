@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 263,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1655,9 +1655,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 7635,
+  "EOS_Progressed": 7636,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -15810,6 +15810,11 @@
       "Time": "2023-12-31T06:05:13.8241652+00:00",
       "NumProgressed": 7635,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-31T09:03:53.7519185+00:00",
+      "NumProgressed": 7636,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -15829,7 +15834,7 @@
       "Name": "Beam Me Up",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 3970
+      "UsersEstimate": 3971
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -15853,7 +15858,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 5115
+      "UsersEstimate": 5116
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -15957,7 +15962,7 @@
       "Name": "Fit For A King",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2061
+      "UsersEstimate": 2062
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -15965,7 +15970,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3359
+      "UsersEstimate": 3360
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -15981,7 +15986,7 @@
       "Name": "The First Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 5344
+      "UsersEstimate": 5345
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -16045,7 +16050,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 2290
+      "UsersEstimate": 2291
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -16053,7 +16058,7 @@
       "Name": "Onward",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 4428
+      "UsersEstimate": 4429
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -16068,15 +16073,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7635,
+      "Progressed": 7636,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-12-30T00:02:42.2423565+00:00",
-  "LastChanged_Achievements": "2023-12-31T08:04:10.9653806+00:00",
+  "LastChanged_Achievements": "2023-12-31T09:03:53.7519182+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:26.1002888+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:56:51.0156435+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:04:10.9654583+00:00"
+  "LastUpdate_Ratings": "2023-12-31T08:57:03.5138205+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:03:53.7520532+00:00"
 }

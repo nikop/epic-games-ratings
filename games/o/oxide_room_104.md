@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What's going on here? | 87.00% | ~254 |
-| Brute force | 82.00% | ~239 |
-| Nimble fingers | 77.00% | ~225 |
-| Room 104 | 77.00% | ~225 |
-| Face to face | 76.00% | ~222 |
-| Let's play a game… | 73.00% | ~213 |
-| Now or never | 73.00% | ~213 |
-| Soundtrack | 62.00% | ~181 |
-| First aid | 58.00% | ~169 |
-| Antidote | 51.00% | ~149 |
-| Pick the right door | 24.00% | ~70 |
+| What's going on here? | 87.00% | ~256 |
+| Brute force | 82.00% | ~241 |
+| Nimble fingers | 77.00% | ~226 |
+| Room 104 | 77.00% | ~226 |
+| Face to face | 76.00% | ~223 |
+| Now or never | 73.00% | ~215 |
+| Let's play a game… | 72.00% | ~212 |
+| Soundtrack | 61.00% | ~179 |
+| First aid | 57.00% | ~168 |
+| Antidote | 51.00% | ~150 |
+| Pick the right door | 24.00% | ~71 |
 | The third floor | 18.00% | ~53 |
 | One-way | 16.00% | ~47 |
 | On the right path | 15.00% | ~44 |
@@ -26,7 +26,7 @@
 | Good choice | 11.00% | ~32 |
 | Take the long way round | 11.00% | ~32 |
 | Nightmare in the kitchen | 10.00% | ~29 |
-| Born again | 7.00% | ~20 |
+| Born again | 7.00% | ~21 |
 | 373 | 6.00% | ~18 |
 | The experiment | 5.00% | ~15 |
 | Matthew's revenge | 5.00% | ~15 |
@@ -36,7 +36,7 @@
 | Matthew's mistakes | 0.30% | ~1 |
 | Sly as a fox | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 292 (Ranked 392)  
+Progressed: 294 (Ranked 390)  
 Completed: 1 (0.34%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,3 +150,4 @@ Completed: 1 (0.34%) (Ranked 241)
 | 2023-12-28 | 285 | 1 |
 | 2023-12-29 | 286 | 1 |
 | 2023-12-30 | 292 | 1 |
+| 2023-12-31 | 294 | 1 |

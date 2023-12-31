@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 118523,
+  "EOS_Progressed": 118524,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 891,
+  "EOS_NewPlayers": 883,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -23210,6 +23210,11 @@
       "Time": "2023-12-31T08:10:01.8451815+00:00",
       "NumProgressed": 118523,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-12-31T09:09:46.6292782+00:00",
+      "NumProgressed": 118524,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 49,
@@ -23253,7 +23258,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17778
+      "UsersEstimate": 17779
     },
     {
       "ID": "EAwards_13",
@@ -23317,7 +23322,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 58076
+      "UsersEstimate": 58077
     },
     {
       "ID": "EAwards_20",
@@ -23365,7 +23370,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 22519
+      "UsersEstimate": 22520
     },
     {
       "ID": "EAwards_26",
@@ -23612,7 +23617,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 118523,
+      "Progressed": 118524,
       "Completed": 54
     }
   ],
@@ -23620,8 +23625,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-12-21T05:59:27.8580735+00:00",
-  "LastChanged_Achievements": "2023-12-31T08:10:01.8451813+00:00",
+  "LastChanged_Achievements": "2023-12-31T09:09:46.629278+00:00",
   "LastUpdate_AppInfo": "2023-12-29T08:57:21.6773482+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:56:52.0556515+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:10:01.845287+00:00"
+  "LastUpdate_Ratings": "2023-12-31T08:57:04.6170974+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:09:46.6294632+00:00"
 }

@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Introduction completed | 82.00% | ~27 |
-| Chapter 1 | 48.00% | ~16 |
-| Chapter 2 | 45.00% | ~15 |
-| Chapter 3 | 42.00% | ~14 |
-| It's In My Nature | 42.00% | ~14 |
-| Chapter 4 | 39.00% | ~13 |
-| Your Days Are Numbered | 39.00% | ~13 |
-| All Materials | 39.00% | ~13 |
-| Chapter 5 | 33.00% | ~11 |
+| Introduction completed | 79.00% | ~27 |
+| Chapter 1 | 47.00% | ~16 |
+| Chapter 2 | 44.00% | ~15 |
+| Chapter 3 | 41.00% | ~14 |
+| It's In My Nature | 41.00% | ~14 |
+| Chapter 4 | 38.00% | ~13 |
+| Your Days Are Numbered | 38.00% | ~13 |
+| All Materials | 38.00% | ~13 |
+| Chapter 5 | 32.00% | ~11 |
 | Chapter 6 | 24.00% | ~8 |
 | Ads Fan | 15.00% | ~5 |
 | Best Student | 15.00% | ~5 |
@@ -34,7 +34,7 @@
 | The World Is My Doormat | 0.00% | ~0 |
 | Worst. Investigator. Ever. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33 (Ranked 578)  
+Progressed: 34 (Ranked 576)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,6 +64,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-22 | 31 | 0 |
 | 2023-12-24 | 32 | 0 |
 | 2023-12-27 | 33 | 0 |
+| 2023-12-31 | 34 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

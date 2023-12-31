@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 432,
+  "EOS_Progressed": 433,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
@@ -1829,6 +1829,11 @@
       "Time": "2023-12-31T07:07:50.3321253+00:00",
       "NumProgressed": 432,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-31T09:07:13.8016687+00:00",
+      "NumProgressed": 433,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -1841,7 +1846,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -1857,7 +1862,7 @@
       "Name": "Retro Diva",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "BRING_PROSPERO",
@@ -1865,7 +1870,7 @@
       "Name": "Amusement Park",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -1881,7 +1886,7 @@
       "Name": "Fisherman",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -1897,7 +1902,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -1905,7 +1910,7 @@
       "Name": "Farmer",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "HOUSEWARMING",
@@ -1937,7 +1942,7 @@
       "Name": "Tough Guy",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "PREPARE_10_COFFEE",
@@ -1975,9 +1980,9 @@
       "ID": "SPEND_2000_COINS",
       "SetID": "aniflfk",
       "Name": "Crypto Bro",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 143
     },
     {
       "ID": "TAKE_LEECH",
@@ -1985,7 +1990,7 @@
       "Name": "Uppies!",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -1993,21 +1998,21 @@
       "Name": "Strong Signal",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 432,
+      "Progressed": 433,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-31T08:06:04.8581886+00:00",
+  "LastChanged_Achievements": "2023-12-31T09:07:13.8016682+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.5394751+00:00",
-  "LastUpdate_Ratings": "2023-12-31T08:02:40.8337745+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:06:04.8582073+00:00"
+  "LastUpdate_Ratings": "2023-12-31T09:02:25.269498+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:07:13.8017057+00:00"
 }

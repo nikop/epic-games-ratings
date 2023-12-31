@@ -2,10 +2,10 @@
   "ID": "5e09944aaced4155ac9463196b5deada",
   "Name": "Astalon -Tears of the Earth-",
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
-  "Ranking_EOS_Progress": 503,
+  "Ranking_EOS_Progress": 504,
   "Ranking_EOS_Completed": 96,
   "Ranking_EOS_NewPlayers": 429,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
     "PcReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -447,8 +447,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-12-31T08:06:10.1546208+00:00",
+  "LastChanged_Achievements": "2023-12-31T09:07:18.7166537+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:11.1356612+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:58:08.8952004+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:06:10.1546359+00:00"
+  "LastUpdate_Ratings": "2023-12-31T08:58:18.4008848+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:07:18.7166768+00:00"
 }

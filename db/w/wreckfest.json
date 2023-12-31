@@ -5,10 +5,10 @@
   "Ranking_Rating": 872,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
-  "Ranking_EOS_Progress": 332,
+  "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -331,7 +331,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 591,
+  "EOS_Progressed": 593,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 0,
@@ -1621,6 +1621,11 @@
       "Time": "2023-12-31T08:08:50.255136+00:00",
       "NumProgressed": 591,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T09:08:36.1963627+00:00",
+      "NumProgressed": 593,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1641,7 +1646,7 @@
       "Name": "Highballer",
       "Percentage": 43,
       "XP": 90,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "CareerChamp1",
@@ -1649,7 +1654,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "CareerChamp2",
@@ -1657,7 +1662,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "CareerChamp3",
@@ -1689,7 +1694,7 @@
       "Name": "Storm Warning",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "CollectVehiclesA",
@@ -1713,7 +1718,7 @@
       "Name": "Cash For Crashes",
       "Percentage": 7,
       "XP": 120,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "GetWreckedA",
@@ -1745,7 +1750,7 @@
       "Name": "Dirty Roller",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "PlayerRankB",
@@ -1792,7 +1797,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 591,
+      "Progressed": 593,
       "Completed": 0
     }
   ],
@@ -1800,8 +1805,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-28T22:58:24.1175943+00:00",
-  "LastChanged_Achievements": "2023-12-31T08:08:50.2551358+00:00",
+  "LastChanged_Achievements": "2023-12-31T09:08:36.1963623+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.5719432+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:58:39.606817+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:08:50.2551493+00:00"
+  "LastUpdate_Ratings": "2023-12-31T08:58:49.9045422+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:08:36.1964015+00:00"
 }

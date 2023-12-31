@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-08-07T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1054,
+  "EOS_Progressed": 1055,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 656,
+  "EOS_NewPlayers": 655,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1349,6 +1349,11 @@
       "Time": "2023-12-31T08:09:10.7120672+00:00",
       "NumProgressed": 1054,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T09:08:56.1506641+00:00",
+      "NumProgressed": 1055,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T16:02:20.9417999+00:00",
@@ -1441,7 +1446,7 @@
       "Name": "One formula race",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "FINISHED_RACE_MOTORBIKE_1",
@@ -1457,7 +1462,7 @@
       "Name": "First lap",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "PODIUM_1",
@@ -1489,7 +1494,7 @@
       "Name": "On the starting grid",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "RESEARCHED_2",
@@ -1561,7 +1566,7 @@
       "Name": "Race winner",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "WIN_10",
@@ -1585,7 +1590,7 @@
       "Name": "Multiple race winner",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "WIN_HORICE",
@@ -1640,14 +1645,14 @@
     {
       "ID": "4nk2039",
       "IsBase": true,
-      "Progressed": 1054,
+      "Progressed": 1055,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-20T20:59:52.9883268+00:00",
   "FirstSeenAchievements": "2023-09-03T16:02:20.9417998+00:00",
-  "LastChanged_Achievements": "2023-12-31T08:09:10.7120671+00:00",
+  "LastChanged_Achievements": "2023-12-31T09:08:56.1506638+00:00",
   "LastUpdate_AppInfo": "2023-12-24T23:57:03.0458166+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:57:39.7229496+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:09:10.7120864+00:00"
+  "LastUpdate_Ratings": "2023-12-31T08:57:51.1312217+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:08:56.1507239+00:00"
 }

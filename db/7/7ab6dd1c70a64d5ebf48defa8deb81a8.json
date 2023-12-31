@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1543,
+  "EOS_Progressed": 1546,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 403,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -3039,6 +3039,11 @@
       "Time": "2023-12-31T08:10:03.391963+00:00",
       "NumProgressed": 1543,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-31T09:09:48.235885+00:00",
+      "NumProgressed": 1546,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3048,9 +3053,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 895
+      "UsersEstimate": 912
     },
     {
       "ID": "ACH_02",
@@ -3058,7 +3063,7 @@
       "Name": "Find Allies",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACH_03",
@@ -3066,7 +3071,7 @@
       "Name": "Powerful Allies",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH_04",
@@ -3106,7 +3111,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACH_09",
@@ -3122,7 +3127,7 @@
       "Name": "Trinity",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ACH_11",
@@ -3146,7 +3151,7 @@
       "Name": "Adventurer",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ACH_14",
@@ -3186,7 +3191,7 @@
       "Name": "Shatter Them All",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACH_19",
@@ -3210,7 +3215,7 @@
       "Name": "Big Bazar",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_22",
@@ -3224,9 +3229,9 @@
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 309
+      "UsersEstimate": 325
     },
     {
       "ID": "ACH_24",
@@ -3242,7 +3247,7 @@
       "Name": "Fashion Victim",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ACH_26",
@@ -3266,7 +3271,7 @@
       "Name": "I Found It",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACH_29",
@@ -3306,7 +3311,7 @@
       "Name": "The Collector",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACH_35",
@@ -3337,7 +3342,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1543,
+      "Progressed": 1546,
       "Completed": 3
     }
   ],
@@ -3345,8 +3350,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2023-12-29T23:58:00.9350231+00:00",
-  "LastChanged_Achievements": "2023-12-31T08:10:03.3919628+00:00",
+  "LastChanged_Achievements": "2023-12-31T09:09:48.2358847+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:58:33.8338765+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:10:03.391998+00:00"
+  "LastUpdate_Ratings": "2023-12-31T08:58:44.0076623+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:09:48.2359545+00:00"
 }

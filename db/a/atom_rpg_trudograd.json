@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
     "PcReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -252,7 +252,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 1350,
+  "EOS_Progressed": 1351,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
@@ -1972,6 +1972,11 @@
       "Time": "2023-12-30T19:12:05.8032529+00:00",
       "NumProgressed": 1350,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T09:09:17.8969267+00:00",
+      "NumProgressed": 1351,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -2063,7 +2068,7 @@
       "Name": "Freelance Police",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "HOLY_MOUNTAIN",
@@ -2135,7 +2140,7 @@
       "Name": "Mysterious Knife",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "OLD_FRIEND",
@@ -2151,7 +2156,7 @@
       "Name": "The Great and Powerful",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "POWER_SIMPLICITY",
@@ -2231,14 +2236,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1350,
+      "Progressed": 1351,
       "Completed": 0
     }
   ],
@@ -2246,8 +2251,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-12-29T02:14:41.7987751+00:00",
-  "LastChanged_Achievements": "2023-12-31T08:09:32.7507205+00:00",
+  "LastChanged_Achievements": "2023-12-31T09:09:17.8969266+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:00.3334195+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:56:51.663704+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:09:32.7507467+00:00"
+  "LastUpdate_Ratings": "2023-12-31T08:57:04.1426289+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:09:17.8969629+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1533,9 +1533,9 @@
       "ID": "MechanicalBuddy",
       "SetID": "1jeo1g7",
       "Name": "Mechanical Buddy",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 201
     },
     {
       "ID": "MeissasSavior",
@@ -1645,9 +1645,9 @@
       "ID": "SanctuaryGuardian",
       "SetID": "1jeo1g7",
       "Name": "Sanctuary Guardian",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 153
     },
     {
       "ID": "Sentinelphobic",
@@ -1980,8 +1980,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-31T08:08:42.8464318+00:00",
+  "LastChanged_Achievements": "2023-12-31T09:08:29.1684778+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:34.5642416+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:58:45.7030479+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:08:42.8465089+00:00"
+  "LastUpdate_Ratings": "2023-12-31T08:58:55.8958612+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:08:29.1686097+00:00"
 }

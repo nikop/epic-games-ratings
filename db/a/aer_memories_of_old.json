@@ -419,7 +419,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27524,
+  "EOS_Progressed": 27525,
   "EOS_Completed": 506,
   "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 7,
@@ -27854,6 +27854,11 @@
       "Time": "2023-12-31T08:05:58.7844641+00:00",
       "NumProgressed": 27524,
       "NumCompleted": 506
+    },
+    {
+      "Time": "2023-12-31T09:05:38.4498431+00:00",
+      "NumProgressed": 27525,
+      "NumCompleted": 506
     }
   ],
   "TotalAchievements": 20,
@@ -27881,7 +27886,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3853
+      "UsersEstimate": 3854
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -27929,7 +27934,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3853
+      "UsersEstimate": 3854
     },
     {
       "ID": "FOUND_ERIN",
@@ -27945,7 +27950,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1651
+      "UsersEstimate": 1652
     },
     {
       "ID": "FOUND_MAMBA",
@@ -27953,7 +27958,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1651
+      "UsersEstimate": 1652
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -27969,7 +27974,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1651
+      "UsersEstimate": 1652
     },
     {
       "ID": "GAME_FINISHED",
@@ -27985,7 +27990,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 20918
+      "UsersEstimate": 20919
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -27993,7 +27998,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7431
+      "UsersEstimate": 7432
     },
     {
       "ID": "NORTH_FINISHED",
@@ -28009,7 +28014,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1651
+      "UsersEstimate": 1652
     },
     {
       "ID": "WEST_FINISHED",
@@ -28024,15 +28029,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 27524,
+      "Progressed": 27525,
       "Completed": 506
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-31T08:05:58.7844638+00:00",
+  "LastChanged_Achievements": "2023-12-31T09:05:38.4498428+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.3353951+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:58:55.0545434+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:05:58.7846206+00:00"
+  "LastUpdate_Ratings": "2023-12-31T08:59:04.6162387+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:05:38.4500626+00:00"
 }

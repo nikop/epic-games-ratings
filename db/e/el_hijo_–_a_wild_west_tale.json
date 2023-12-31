@@ -4,8 +4,8 @@
   "ProductSlug": "el-hijo-6b63c5",
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 564,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 563,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-03-11T14:00:00+00:00",
     "PcReleaseDate": "2020-12-03T00:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:06.8078366+00:00",
   "LastChanged": "2023-03-31T05:57:06.8078367+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.4281184+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:57:11.4031699+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:09:26.64118+00:00"
+  "LastUpdate_Ratings": "2023-12-31T08:57:23.0479889+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:09:11.642844+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -109,9 +109,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 810,
+  "EOS_Progressed": 811,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3554,6 +3554,11 @@
       "Time": "2023-12-31T00:03:21.7071745+00:00",
       "NumProgressed": 810,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T09:03:20.0499397+00:00",
+      "NumProgressed": 811,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -3613,7 +3618,7 @@
       "Name": "The Chemists\u0027 War",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "REACH_DECEMBER_1919",
@@ -3629,7 +3634,7 @@
       "Name": "Earth Shattering",
       "Percentage": 45,
       "XP": 90,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -3645,7 +3650,7 @@
       "Name": "Das Ist Endg\u00FCltig!",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -3660,7 +3665,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 810,
+      "Progressed": 811,
       "Completed": 0
     }
   ],
@@ -3668,8 +3673,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-12-28T09:57:10.0858275+00:00",
-  "LastChanged_Achievements": "2023-12-31T08:03:36.0957761+00:00",
+  "LastChanged_Achievements": "2023-12-31T09:03:20.0499394+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:29.6055115+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:58:35.9235813+00:00",
-  "LastUpdate_Achievements": "2023-12-31T08:03:36.0957986+00:00"
+  "LastUpdate_Ratings": "2023-12-31T08:58:46.0921359+00:00",
+  "LastUpdate_Achievements": "2023-12-31T09:03:20.0499761+00:00"
 }

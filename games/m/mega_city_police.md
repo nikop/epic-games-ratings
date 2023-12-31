@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Mega City | 23.00% | ~9 |
+| Welcome to Mega City | 26.00% | ~10 |
 | Licence To Kill | 18.00% | ~7 |
 | Vintage Collector | 10.00% | ~4 |
+| Law and Order | 10.00% | ~4 |
 | Overkill | 8.00% | ~3 |
 | The Hunt | 8.00% | ~3 |
-| Law and Order | 8.00% | ~3 |
 | Hammer Time | 8.00% | ~3 |
 | Gibbing Love | 5.00% | ~2 |
 | Feel the Spark | 5.00% | ~2 |

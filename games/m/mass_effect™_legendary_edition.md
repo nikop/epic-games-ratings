@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 91.00% | ~3,135 |
-| Spectre Inductee | 67.00% | ~2,308 |
+| Distinguished Service Medal | 91.00% | ~3,136 |
+| Spectre Inductee | 67.00% | ~2,309 |
 | Medal of Exploration I | 57.00% | ~1,964 |
-| Recruit | 52.00% | ~1,791 |
+| Recruit | 52.00% | ~1,792 |
 | Search and Rescue | 51.00% | ~1,757 |
-| Quarian Ally | 49.00% | ~1,688 |
+| Quarian Ally | 50.00% | ~1,723 |
 | Medal of Heroism | 44.00% | ~1,516 |
 | Honorarium of Corporate Service | 44.00% | ~1,516 |
-| Turian Ally | 41.00% | ~1,412 |
+| Turian Ally | 41.00% | ~1,413 |
 | Medal of Exploration II | 39.00% | ~1,344 |
 | Council Legion of Merit | 39.00% | ~1,344 |
-| Soldier Ally | 36.00% | ~1,240 |
+| Soldier Ally | 36.00% | ~1,241 |
 | Medal of Honor | 35.00% | ~1,206 |
 | Soldier | 35.00% | ~1,206 |
 | Meritorious Service Medal | 35.00% | ~1,206 |
 | Charismatic | 35.00% | ~1,206 |
 | Missing in Action | 35.00% | ~1,206 |
-| Asari Ally | 33.00% | ~1,137 |
+| Asari Ally | 34.00% | ~1,172 |
 | Colonial Savior | 33.00% | ~1,137 |
 | Very Elusive | 33.00% | ~1,137 |
-| Principled | 32.00% | ~1,102 |
+| Principled | 32.00% | ~1,103 |
 | Medal of Exploration III | 31.00% | ~1,068 |
 | Sentinel Ally | 31.00% | ~1,068 |
 | Krogan Ally | 31.00% | ~1,068 |
@@ -38,25 +38,25 @@
 | Operative | 27.00% | ~930 |
 | The Convict | 26.00% | ~896 |
 | Power Full | 26.00% | ~896 |
-| Colony Defense | 25.00% | ~861 |
-| The Krogan | 25.00% | ~861 |
+| Colony Defense | 25.00% | ~862 |
+| The Krogan | 25.00% | ~862 |
 | Veteran | 24.00% | ~827 |
 | Broke, Blind, and Bedlam | 24.00% | ~827 |
-| Driven | 23.00% | ~792 |
+| Driven | 23.00% | ~793 |
 | Ghost Ship | 22.00% | ~758 |
 | The Assassin | 22.00% | ~758 |
 | The Justicar | 22.00% | ~758 |
 | The Quarian | 22.00% | ~758 |
-| A Personal Touch | 21.00% | ~723 |
-| Archivist | 21.00% | ~723 |
-| Catharsis | 21.00% | ~723 |
-| Ghost of the Father | 21.00% | ~723 |
-| The Cure | 21.00% | ~723 |
-| The Prodigal | 21.00% | ~723 |
-| Galactic Explorer | 21.00% | ~723 |
-| Revenge! | 21.00% | ~723 |
-| Bringer of War | 21.00% | ~723 |
-| Shopaholic | 21.00% | ~723 |
+| Galactic Explorer | 22.00% | ~758 |
+| A Personal Touch | 21.00% | ~724 |
+| Archivist | 21.00% | ~724 |
+| Catharsis | 21.00% | ~724 |
+| Ghost of the Father | 21.00% | ~724 |
+| The Cure | 21.00% | ~724 |
+| The Prodigal | 21.00% | ~724 |
+| Revenge! | 21.00% | ~724 |
+| Bringer of War | 21.00% | ~724 |
+| Shopaholic | 21.00% | ~724 |
 | Completionist | 20.00% | ~689 |
 | Battlemaster | 20.00% | ~689 |
 | Fade Away | 20.00% | ~689 |
@@ -97,26 +97,26 @@
 | Saboteur | 13.00% | ~448 |
 | Last Witness | 13.00% | ~448 |
 | Well Connected | 13.00% | ~448 |
-| Pyromaniac | 12.00% | ~413 |
-| Executioner | 12.00% | ~413 |
-| Patriot | 12.00% | ~413 |
+| Pyromaniac | 12.00% | ~414 |
+| Executioner | 12.00% | ~414 |
+| Patriot | 12.00% | ~414 |
 | Electronics Specialist | 11.00% | ~379 |
 | Sabotage Specialist | 11.00% | ~379 |
 | Throw Mastery | 11.00% | ~379 |
 | Legend | 11.00% | ~379 |
 | Master and Commander | 11.00% | ~379 |
-| Long Service Medal | 10.00% | ~344 |
+| Long Service Medal | 10.00% | ~345 |
 | Mail Slot | 9.00% | ~310 |
 | Combined Arms | 8.00% | ~276 |
 | Warp Mastery | 8.00% | ~276 |
 | Barrier Mastery | 7.00% | ~241 |
 | Always Prepared | 7.00% | ~241 |
+| Paramour III | 7.00% | ~241 |
 | Bruiser | 7.00% | ~241 |
 | Lift Mastery | 7.00% | ~241 |
 | Overload Specialist | 7.00% | ~241 |
 | Sky High | 6.00% | ~207 |
 | Hijacker | 6.00% | ~207 |
-| Paramour III | 6.00% | ~207 |
 | Insanity I | 4.00% | ~138 |
 | Damping Specialist | 4.00% | ~138 |
 | Singularity Mastery | 4.00% | ~138 |
@@ -132,7 +132,7 @@
 | Insanity III | 0.90% | ~31 |
 | The One and Only | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,445 (Ranked 220)  
+Progressed: 3,446 (Ranked 220)  
 Completed: 12 (0.35%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,4 +239,4 @@ Completed: 12 (0.35%) (Ranked 236)
 | 2023-12-28 | 3,273 | 12 |
 | 2023-12-29 | 3,336 | 12 |
 | 2023-12-30 | 3,419 | 12 |
-| 2023-12-31 | 3,445 | 12 |
+| 2023-12-31 | 3,446 | 12 |

@@ -11,12 +11,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 0.90% | ~144 |
 | Friendly Family | 0.80% | ~128 |
 | Architect | 0.70% | ~112 |
+| Good | 0.70% | ~112 |
 | Intrepid | 0.70% | ~112 |
 | Mason | 0.70% | ~112 |
 | Strong | 0.70% | ~112 |
 | Hanging Gardens | 0.70% | ~112 |
 | Able | 0.60% | ~96 |
-| Good | 0.60% | ~96 |
 | Just | 0.60% | ~96 |
 | Keystone | 0.60% | ~96 |
 | Learned | 0.60% | ~96 |
