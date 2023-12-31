@@ -15,11 +15,11 @@
 | The Keeper of Fleed | 14.00% | ~8 |
 | Earth's Savior | 14.00% | ~8 |
 | The Collector | 11.00% | ~6 |
+| The Broken Guard | 7.00% | ~4 |
 | The Vega Turtle | 7.00% | ~4 |
 | Gold Seeker | 5.00% | ~3 |
 | The Planner | 5.00% | ~3 |
 | Iron Fist | 5.00% | ~3 |
-| The Broken Guard | 5.00% | ~3 |
 | The Space Hydra | 5.00% | ~3 |
 | A Land of Peace | 4.00% | ~2 |
 | A Good Paint Job | 4.00% | ~2 |

@@ -233,9 +233,9 @@
       "Count": 73
     }
   ],
-  "EOS_Progressed": 9065,
+  "EOS_Progressed": 9079,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2033,
+  "EOS_NewPlayers": 2032,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3098,6 +3098,11 @@
       "Time": "2023-12-31T11:10:43.1387054+00:00",
       "NumProgressed": 9065,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T12:10:07.7255215+00:00",
+      "NumProgressed": 9079,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3108,9 +3113,9 @@
       "ID": "02_TheIntrigue",
       "SetID": "37a94m8",
       "Name": "Conspiracy",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 453
+      "UsersEstimate": 545
     },
     {
       "ID": "03_TheStolenStar",
@@ -3126,7 +3131,7 @@
       "Name": "Trade Empire",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -3206,7 +3211,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "15_Pentakill",
@@ -3214,7 +3219,7 @@
       "Name": "Pentakill",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "16_TheRise",
@@ -3246,7 +3251,7 @@
       "Name": "Void Wolf",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -3278,7 +3283,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "24_TheHighrise",
@@ -3326,7 +3331,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "30_The GreatestExploration",
@@ -3358,7 +3363,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -3366,7 +3371,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -3420,9 +3425,9 @@
       "ID": "41_TheJungleHeat",
       "SetID": "37a94m8",
       "Name": "Jungle Heat",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 272
     },
     {
       "ID": "42_TheIronJudgement",
@@ -3430,7 +3435,7 @@
       "Name": "Iron Judgement",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -3438,7 +3443,7 @@
       "Name": "No Place Like Home",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -3468,9 +3473,9 @@
       "ID": "47_AFlame",
       "SetID": "37a94m8",
       "Name": "A Flame",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 18
     },
     {
       "ID": "48_TheUnexpectedCompany",
@@ -3516,9 +3521,9 @@
       "ID": "53_GardensOfMadness",
       "SetID": "37a94m8",
       "Name": "Enraged Dragon",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 36
     },
     {
       "ID": "54_ThisIsAJobForLordCaptain",
@@ -3629,7 +3634,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9065,
+      "Progressed": 9079,
       "Completed": 0
     }
   ],
@@ -3637,8 +3642,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-31T10:59:48.6402882+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:10:43.1387049+00:00",
+  "LastChanged_Achievements": "2023-12-31T12:10:07.725521+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-31T10:59:48.640289+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:10:43.1387846+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:59:16.2448656+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:10:07.7256197+00:00"
 }

@@ -5,28 +5,28 @@ Rating: 4.03 (Ranked 1,027)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,715 |
-| World Map | 78.00% | ~3,116 |
-| Temple of Eternals | 56.00% | ~2,237 |
-| Prestigious | 52.00% | ~2,077 |
-| Fellowship Power | 42.00% | ~1,678 |
-| Full Party | 27.00% | ~1,079 |
-| Guild Power | 23.00% | ~919 |
-| Prestigious x10 | 20.00% | ~799 |
-| The game is on | 18.00% | ~719 |
-| Exotic Merchant | 16.00% | ~639 |
-| Dragon Clicker | 15.00% | ~599 |
-| Miner Clicker | 15.00% | ~599 |
-| Inspection | 14.00% | ~559 |
-| Dragon Master | 13.00% | ~519 |
-| Enlightenment | 13.00% | ~519 |
-| Hero inspection | 13.00% | ~519 |
-| Lieutenant | 12.00% | ~479 |
-| Milestone collector | 11.00% | ~439 |
-| Mysterious Rock | 11.00% | ~439 |
-| Natural Talent | 11.00% | ~439 |
-| Superior | 11.00% | ~439 |
-| The Unstoppable | 11.00% | ~439 |
+| Victor | 93.00% | ~3,719 |
+| World Map | 78.00% | ~3,119 |
+| Temple of Eternals | 56.00% | ~2,239 |
+| Prestigious | 52.00% | ~2,079 |
+| Fellowship Power | 42.00% | ~1,680 |
+| Full Party | 27.00% | ~1,080 |
+| Guild Power | 23.00% | ~920 |
+| Prestigious x10 | 20.00% | ~800 |
+| The game is on | 18.00% | ~720 |
+| Exotic Merchant | 16.00% | ~640 |
+| Dragon Clicker | 15.00% | ~600 |
+| Miner Clicker | 15.00% | ~600 |
+| Inspection | 14.00% | ~560 |
+| Dragon Master | 13.00% | ~520 |
+| Enlightenment | 13.00% | ~520 |
+| Hero inspection | 13.00% | ~520 |
+| Lieutenant | 12.00% | ~480 |
+| Milestone collector | 11.00% | ~440 |
+| Mysterious Rock | 11.00% | ~440 |
+| Natural Talent | 11.00% | ~440 |
+| Superior | 11.00% | ~440 |
+| The Unstoppable | 11.00% | ~440 |
 | Scientist | 10.00% | ~400 |
 | Doing My Part | 9.00% | ~360 |
 | Hunter | 9.00% | ~360 |
@@ -81,7 +81,7 @@ Rating: 4.03 (Ranked 1,027)
 | Jewel Enchanting | 0.20% | ~8 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,995 (Ranked 209)  
+Progressed: 3,999 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 2 (0.05%) (Ranked 334)
 | 2023-12-28 | 3,911 | 2 |
 | 2023-12-29 | 3,948 | 2 |
 | 2023-12-30 | 3,984 | 2 |
-| 2023-12-31 | 3,995 | 2 |
+| 2023-12-31 | 3,999 | 2 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 478)  
 Sum: 129 (Ranked 445)  

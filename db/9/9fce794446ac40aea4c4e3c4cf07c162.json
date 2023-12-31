@@ -169,17 +169,17 @@
       "ID": "BOSS_02",
       "SetID": "35d3i7a",
       "Name": "Can\u2019t be real.",
-      "Percentage": 36,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "BOSS_03",
       "SetID": "35d3i7a",
       "Name": "Painful image.",
-      "Percentage": 24,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "BOSS_04",
@@ -321,17 +321,17 @@
       "ID": "MEM_II",
       "SetID": "35d3i7a",
       "Name": "Not my son!",
-      "Percentage": 52,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "MEM_III",
       "SetID": "35d3i7a",
       "Name": "Sweet nightmares, little caterpillar.",
-      "Percentage": 44,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "MEM_IV",
@@ -441,9 +441,9 @@
       "ID": "MEM_XVI",
       "SetID": "35d3i7a",
       "Name": "Now you are ready.",
-      "Percentage": 28,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "MEM_XVII",
@@ -545,17 +545,17 @@
       "ID": "PROJ_I",
       "SetID": "35d3i7a",
       "Name": "Beauty.",
-      "Percentage": 48,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "PROJ_II",
       "SetID": "35d3i7a",
       "Name": "Putrefaction.",
-      "Percentage": 24,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "PROJ_III",
@@ -592,8 +592,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:10:59.0141952+00:00",
+  "LastChanged_Achievements": "2023-12-31T12:10:19.7224069+00:00",
   "LastUpdate_AppInfo": "2023-12-27T14:57:15.6707756+00:00",
-  "LastUpdate_Ratings": "2023-12-31T10:59:05.4314728+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:10:59.0142386+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:58:44.1080157+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:10:19.7224393+00:00"
 }

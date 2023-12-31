@@ -4,7 +4,7 @@
   "ProductSlug": "keywe-c3a70e",
   "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-04-28T09:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 117,
+  "EOS_Progressed": 118,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -520,6 +520,11 @@
       "Time": "2023-12-31T06:07:15.08413+00:00",
       "NumProgressed": 117,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T12:06:15.6593592+00:00",
+      "NumProgressed": 118,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:04:51.255408+00:00",
@@ -530,7 +535,7 @@
       "ID": "allChallengesCleared",
       "SetID": "cfj6lld",
       "Name": "Against All Odds",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -594,9 +599,9 @@
       "ID": "completeGame",
       "SetID": "cfe0fhi",
       "Name": "Kiwinter Kiwonderland",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "completeOnboarding",
@@ -604,7 +609,7 @@
       "Name": "You\u0027re Hired",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "completeSummer",
@@ -612,15 +617,15 @@
       "Name": "Fun in the Bungalow Basin Sun",
       "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "completeTheFirstWeek",
       "SetID": "cfe0fhi",
       "Name": "Learn the Ropes",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 86
     },
     {
       "ID": "findFirstCollectible",
@@ -642,7 +647,7 @@
       "ID": "goldOnAllLevels",
       "SetID": "cfe0fhi",
       "Name": "Postmasters General",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 150,
       "UsersEstimate": 1
     },
@@ -674,7 +679,7 @@
       "ID": "goldOnWinter",
       "SetID": "cfe0fhi",
       "Name": "Winter Postmasters",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -691,13 +696,13 @@
     {
       "ID": "cfe0fhi",
       "IsBase": true,
-      "Progressed": 117,
+      "Progressed": 118,
       "Completed": 0
     },
     {
       "ID": "cfj6lld",
       "IsBase": false,
-      "Progressed": 117,
+      "Progressed": 118,
       "Completed": 0
     }
   ],
@@ -705,8 +710,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:07:04.0218542+00:00",
+  "LastChanged_Achievements": "2023-12-31T12:06:15.6593587+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:20.8360507+00:00",
-  "LastUpdate_Ratings": "2023-12-31T10:58:07.4291626+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:07:04.0218696+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:58:00.4252546+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:06:15.659375+00:00"
 }

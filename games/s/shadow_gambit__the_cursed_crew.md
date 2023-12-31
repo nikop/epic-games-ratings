@@ -5,24 +5,24 @@ Rating: 4.79 (Ranked 101)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 68.00% | ~934 |
-| The Adventure Begins | 49.00% | ~673 |
-| Swabbie | 37.00% | ~508 |
+| A New Journey | 68.00% | ~936 |
+| The Adventure Begins | 49.00% | ~674 |
+| Swabbie | 37.00% | ~509 |
 | With Great Power… | 36.00% | ~495 |
-| This Belongs in a Museum | 33.00% | ~453 |
-| The Gambit Has Begun | 30.00% | ~412 |
-| Somewhere Deep in the Lost Caribbean | 26.00% | ~357 |
-| Mirror Mirror on the Wall | 26.00% | ~357 |
-| Powder Monkey | 26.00% | ~357 |
+| This Belongs in a Museum | 33.00% | ~454 |
+| The Gambit Has Begun | 30.00% | ~413 |
+| Somewhere Deep in the Lost Caribbean | 26.00% | ~358 |
+| Mirror Mirror on the Wall | 26.00% | ~358 |
+| Powder Monkey | 26.00% | ~358 |
 | Pirates Assemble! | 24.00% | ~330 |
 | Buccaneer | 20.00% | ~275 |
 | Fishy Fish | 20.00% | ~275 |
 | All Good Things | 17.00% | ~234 |
-| Persistent Parasite | 17.00% | ~234 |
-| Seadog | 14.00% | ~192 |
+| Persistent Parasite | 16.00% | ~220 |
+| Seadog | 14.00% | ~193 |
 | Jaded Judge | 11.00% | ~151 |
 | Rustic Recipe | 11.00% | ~151 |
-| Tobacco Travesty | 10.00% | ~137 |
+| Tobacco Travesty | 10.00% | ~138 |
 | Privateer | 9.00% | ~124 |
 | Accursed Artifacts | 9.00% | ~124 |
 | Lyrical Longing | 9.00% | ~124 |
@@ -32,8 +32,8 @@ Rating: 4.79 (Ranked 101)
 | Marauder | 3.00% | ~41 |
 | Welcome Back Jester | 3.00% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,374 (Ranked 266)  
-Completed: 35 (2.55%) (Ranked 125)  
+Progressed: 1,376 (Ranked 266)  
+Completed: 35 (2.54%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -175,7 +175,7 @@ Completed: 35 (2.55%) (Ranked 125)
 | 2023-12-28 | 1,332 | 35 |
 | 2023-12-29 | 1,343 | 35 |
 | 2023-12-30 | 1,367 | 35 |
-| 2023-12-31 | 1,374 | 35 |
+| 2023-12-31 | 1,376 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 364,
+  "EOS_Progressed": 365,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -1611,6 +1611,11 @@
       "Time": "2023-12-31T10:08:48.6237971+00:00",
       "NumProgressed": 364,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T12:08:46.6368778+00:00",
+      "NumProgressed": 365,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1718,7 +1723,7 @@
       "Name": "Forced to Kill",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1806,7 +1811,7 @@
       "Name": "Researcher",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ETUA_RestInPeace",
@@ -1838,7 +1843,7 @@
       "Name": "I Am The Gate Keeper!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ETUA_SurvivalHero",
@@ -1924,9 +1929,9 @@
       "ID": "ETUA_WhatAMansion",
       "SetID": "65jc0ap",
       "Name": "What A Mansion",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 29
     },
     {
       "ID": "ETUA_WhatHaveIDone",
@@ -1941,7 +1946,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 364,
+      "Progressed": 365,
       "Completed": 1
     }
   ],
@@ -1949,8 +1954,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:08:56.1666883+00:00",
+  "LastChanged_Achievements": "2023-12-31T12:08:46.6368776+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:30.0285391+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:02:37.3519356+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:08:56.1667176+00:00"
+  "LastUpdate_Ratings": "2023-12-31T12:02:58.2370749+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:08:46.6369359+00:00"
 }

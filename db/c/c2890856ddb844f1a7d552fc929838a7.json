@@ -2,12 +2,12 @@
   "ID": "c2890856ddb844f1a7d552fc929838a7",
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
-  "Ranking_Rating": 58,
-  "Ranking_Popularity": 525,
-  "Ranking_PopularitySum": 540,
+  "Ranking_Rating": 57,
+  "Ranking_Popularity": 526,
+  "Ranking_PopularitySum": 541,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -255,9 +255,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1999,
+  "EOS_Progressed": 2001,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 316,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4710,6 +4710,11 @@
       "Time": "2023-12-31T09:07:20.051807+00:00",
       "NumProgressed": 1999,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T12:06:47.5282478+00:00",
+      "NumProgressed": 2001,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -4730,7 +4735,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1781
     },
     {
       "ID": "AC02",
@@ -4738,7 +4743,7 @@
       "Name": "Blood and Dust",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1281
     },
     {
       "ID": "AC03",
@@ -4746,7 +4751,7 @@
       "Name": "Blood and Gold",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1181
     },
     {
       "ID": "AC04",
@@ -4754,7 +4759,7 @@
       "Name": "Blood and Iron",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1181
     },
     {
       "ID": "AC05",
@@ -4762,7 +4767,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1081
     },
     {
       "ID": "AC06",
@@ -4808,9 +4813,9 @@
       "ID": "AC11",
       "SetID": "l4abp0",
       "Name": "A Heart of Gold",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 660
+      "UsersEstimate": 640
     },
     {
       "ID": "AC12",
@@ -4840,9 +4845,9 @@
       "ID": "AC15",
       "SetID": "l4abp0",
       "Name": "Full Devotion",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 320
     },
     {
       "ID": "AC16",
@@ -5042,7 +5047,7 @@
       "Name": "Welcome Back!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1539
+      "UsersEstimate": 1541
     },
     {
       "ID": "AC41",
@@ -5089,7 +5094,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 1999,
+      "Progressed": 2001,
       "Completed": 0
     }
   ],
@@ -5097,8 +5102,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-30T01:40:37.020659+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:07:46.4543428+00:00",
+  "LastChanged_Achievements": "2023-12-31T12:06:47.5282474+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:24.8809366+00:00",
-  "LastUpdate_Ratings": "2023-12-31T10:59:03.9141935+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:07:46.4543982+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:58:43.0119286+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:06:47.5282983+00:00"
 }

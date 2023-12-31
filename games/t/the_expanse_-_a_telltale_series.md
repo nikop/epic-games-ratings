@@ -12,8 +12,8 @@ Rating: 4.56 (Ranked 502)
 | Martian Music | 11.00% | ~1,966 |
 | Bosmang | 11.00% | ~1,966 |
 | Impossible Objects | 11.00% | ~1,966 |
-| Spore Taste | 10.00% | ~1,787 |
-| Drone Dodger | 10.00% | ~1,787 |
+| Spore Taste | 10.00% | ~1,788 |
+| Drone Dodger | 10.00% | ~1,788 |
 | Stogie for Fogey | 9.00% | ~1,609 |
 | Safe Cracker | 9.00% | ~345 |
 | Zen Master | 9.00% | ~345 |
@@ -21,27 +21,27 @@ Rating: 4.56 (Ranked 502)
 | Madame Undersecretary | 8.00% | ~306 |
 | Heal Thy Medic | 7.00% | ~1,251 |
 | Keep Arjun in Check | 7.00% | ~268 |
-| Data Archivist | 6.00% | ~1,072 |
-| Drug Gifter | 6.00% | ~1,072 |
-| Thorston Mayer | 6.00% | ~1,072 |
-| Khan's Revenge | 6.00% | ~1,072 |
+| Data Archivist | 6.00% | ~1,073 |
+| Drug Gifter | 6.00% | ~1,073 |
+| Thorston Mayer | 6.00% | ~1,073 |
+| Khan's Revenge | 6.00% | ~1,073 |
 | Doctor Approved | 5.00% | ~894 |
 | Bottoms up! | 5.00% | ~894 |
-| Master Negotiator | 5.00% | ~191 |
+| Master Negotiator | 5.00% | ~192 |
 | Data Logger | 4.00% | ~715 |
 | Miraculous Maya | 4.00% | ~715 |
 | Data Master | 3.00% | ~536 |
-| Brother's Reaper | 2.00% | ~357 |
-| No Belter Left Behind | 2.00% | ~357 |
-| Debris Spree | 2.00% | ~357 |
-| Data Recoverer | 2.00% | ~357 |
+| Brother's Reaper | 2.00% | ~358 |
+| No Belter Left Behind | 2.00% | ~358 |
+| Debris Spree | 2.00% | ~358 |
+| Data Recoverer | 2.00% | ~358 |
 | Urshanabi Hoarder | 1.00% | ~179 |
 | Grave Robber | 0.70% | ~125 |
 | Data Miner | 0.60% | ~107 |
 | Scavenger Star | 0.30% | ~54 |
 | Data Collector | 0.20% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,874 (Ranked 157)  
+Progressed: 17,877 (Ranked 157)  
 Completed: 57 (0.32%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 57 (0.32%) (Ranked 246)
 | 2023-12-28 | 17,675 | 56 |
 | 2023-12-29 | 17,756 | 57 |
 | 2023-12-30 | 17,838 | 57 |
-| 2023-12-31 | 17,874 | 57 |
+| 2023-12-31 | 17,877 | 57 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -32,8 +32,8 @@
 | Mermaid Killer | 15.00% | ~101 |
 | Cave Master | 14.00% | ~95 |
 | Face Slapper | 14.00% | ~95 |
+| Boss challenge | 11.00% | ~74 |
 | Berserker Slayer | 11.00% | ~74 |
-| Boss challenge | 10.00% | ~68 |
 | Giantess Slayer | 10.00% | ~68 |
 | Warden Slayer | 9.00% | ~61 |
 | Master Cook | 8.00% | ~54 |
@@ -51,7 +51,7 @@
 | Warden Challenge | 2.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 676 (Ranked 314)  
-Completed: 2 (0.30%) (Ranked 253)  
+Completed: 2 (0.30%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

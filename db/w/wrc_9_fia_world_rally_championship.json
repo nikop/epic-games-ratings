@@ -2,7 +2,7 @@
   "ID": "9cf250606722448887fa1447b1d9da06",
   "Name": "WRC 9 FIA World Rally Championship",
   "ProductSlug": "wrc-9",
-  "Ranking_Rating": 589,
+  "Ranking_Rating": 590,
   "Ranking_Popularity": 510,
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 819,
@@ -642,10 +642,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 242,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2023-12-31T11:59:48.3353698+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 243,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 242,
+  "NumberOfAwards": 243,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -707,7 +713,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game is Extremely Fun",
@@ -727,8 +733,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:01.098445+00:00",
-  "LastChanged": "2023-12-24T18:59:54.1063533+00:00",
+  "LastChanged": "2023-12-31T11:59:48.3353696+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:46.335165+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:00:33.898123+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:05:41.1948634+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:59:48.33537+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:05:13.7904423+00:00"
 }

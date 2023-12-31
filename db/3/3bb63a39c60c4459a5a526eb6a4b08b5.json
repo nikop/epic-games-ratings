@@ -2,9 +2,9 @@
   "ID": "3bb63a39c60c4459a5a526eb6a4b08b5",
   "Name": "Fly Corp",
   "ProductSlug": "fly-corp-398021",
-  "Ranking_EOS_Progress": 285,
+  "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1060,
+  "EOS_Progressed": 1061,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4109,6 +4109,11 @@
       "Time": "2023-12-31T10:10:21.8533232+00:00",
       "NumProgressed": 1060,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T12:10:21.8520052+00:00",
+      "NumProgressed": 1061,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -4134,9 +4139,9 @@
       "ID": "BasicControls",
       "SetID": "1e89b4i",
       "Name": "Basic Controls",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 562
+      "UsersEstimate": 573
     },
     {
       "ID": "BigPlane",
@@ -4256,7 +4261,7 @@
       "Name": "Large Airport",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "LargeTerritories",
@@ -4288,7 +4293,7 @@
       "Name": "Long Distances",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ManagementMaster",
@@ -4455,14 +4460,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1060,
+      "Progressed": 1061,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:11:01.1854266+00:00",
+  "LastChanged_Achievements": "2023-12-31T12:10:21.8520049+00:00",
   "LastUpdate_AppInfo": "2023-12-26T20:57:07.3165629+00:00",
-  "LastUpdate_Ratings": "2023-12-31T10:59:27.5882424+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:11:01.1854764+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:59:01.1813651+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:10:21.8520591+00:00"
 }

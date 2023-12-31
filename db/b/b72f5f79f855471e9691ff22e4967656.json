@@ -762,9 +762,9 @@
       "ID": "digTreasure10",
       "SetID": "ci65fo0",
       "Name": "Treasure hunter",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 75
     },
     {
       "ID": "drown",
@@ -874,9 +874,9 @@
       "ID": "killGoldSkeleton10",
       "SetID": "ci65fo0",
       "Name": "Skeletons Fighter",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "killGolem1",
@@ -1343,8 +1343,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:10:34.2830412+00:00",
+  "LastChanged_Achievements": "2023-12-31T12:10:01.0043333+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.0184442+00:00",
-  "LastUpdate_Ratings": "2023-12-31T10:57:38.7262266+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:10:34.283111+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:57:40.0499427+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:10:01.0043971+00:00"
 }

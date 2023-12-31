@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 100.00% | ~1,033 |
-| Hidden History | 70.00% | ~723 |
-| Commencing of Quests | 61.00% | ~630 |
-| Budding Conjuror | 59.00% | ~609 |
+| Land of the Rising Sun | 100.00% | ~1,034 |
+| Hidden History | 71.00% | ~734 |
+| Commencing of Quests | 61.00% | ~631 |
+| Budding Conjuror | 59.00% | ~610 |
 | Man-Machine Master | 48.00% | ~496 |
-| Charmed by the Hunt | 48.00% | ~496 |
 | Mountain Splitter | 47.00% | ~486 |
 | Subsistence Skills | 47.00% | ~486 |
+| Charmed by the Hunt | 47.00% | ~486 |
 | Fusion Conjuror | 45.00% | ~465 |
 | Memory Rouser | 45.00% | ~465 |
 | Kemono Hunter | 41.00% | ~424 |
 | Helpful Heart | 38.00% | ~393 |
 | Expert Conjuror | 38.00% | ~393 |
-| Flawless Crystal | 37.00% | ~382 |
-| Bonds of Enmity | 37.00% | ~382 |
-| Distance Devourer | 34.00% | ~351 |
+| Flawless Crystal | 37.00% | ~383 |
+| Bonds of Enmity | 37.00% | ~383 |
+| Distance Devourer | 34.00% | ~352 |
 | Counter Specialist | 33.00% | ~341 |
-| Master of the Skies | 31.00% | ~320 |
+| Master of the Skies | 31.00% | ~321 |
 | Axer of Auspice | 27.00% | ~279 |
 | Mighty Marmelizer | 26.00% | ~269 |
 | Kemono at Heart | 26.00% | ~269 |
@@ -40,7 +40,7 @@
 | Quintessence of Form | 15.00% | ~155 |
 | Threaded Harmony | 15.00% | ~155 |
 | Karakuri Minato | 14.00% | ~145 |
-| Canyon of Karakuri | 12.00% | ~124 |
+| Canyon of Karakuri | 13.00% | ~134 |
 | Jack of All Trades | 12.00% | ~124 |
 | Karakuri Fortress | 11.00% | ~114 |
 | Haven Hunter | 10.00% | ~103 |
@@ -53,7 +53,7 @@
 | Bewitched by Bathing | 4.00% | ~41 |
 | Tsukumo Whisperer | 3.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,033 (Ranked 288)  
+Progressed: 1,034 (Ranked 288)  
 Completed: 8 (0.77%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,4 +160,4 @@ Completed: 8 (0.77%) (Ranked 191)
 | 2023-12-28 | 970 | 8 |
 | 2023-12-29 | 995 | 8 |
 | 2023-12-30 | 1,022 | 8 |
-| 2023-12-31 | 1,033 | 8 |
+| 2023-12-31 | 1,034 | 8 |

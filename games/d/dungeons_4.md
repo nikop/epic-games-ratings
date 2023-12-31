@@ -1,7 +1,7 @@
 # Dungeons 4
 [Store](https://store.epicgames.com/en-US/p/dungeons-4-595454)  
 [View Rawdata](../../db/d/dungeons_4.json)  
-Rating: 4.65 (Ranked 324)  
+Rating: 4.67 (Ranked 283)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,7 +9,7 @@ Rating: 4.65 (Ranked 324)
 | Thalya – Simply Immortal | 88.00% | ~595 |
 | For the Horde! | 82.00% | ~554 |
 | Hammer Time, Round Two | 81.00% | ~548 |
-| The Hellwoods | 76.00% | ~514 |
+| The Hellwoods | 77.00% | ~521 |
 | The Plains of Strothalm | 72.00% | ~487 |
 | Experienced Thalya | 72.00% | ~487 |
 | Bad Elves Go Everywhere | 69.00% | ~466 |
@@ -128,3 +128,4 @@ Completed: 25 (3.70%) (Ranked 96)
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-12-28 | 4.65 | 0 | 0 |
+| 2023-12-31 | 4.67 | 0 | 0 |

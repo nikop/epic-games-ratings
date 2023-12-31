@@ -3,11 +3,11 @@
   "Name": "Hotel Renovator",
   "ProductSlug": "hotel-renovator",
   "Ranking_Rating": 817,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
-  "Ranking_EOS_Progress": 268,
+  "Ranking_Popularity": 576,
+  "Ranking_PopularitySum": 576,
+  "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1360,
+  "EOS_Progressed": 1361,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
@@ -3248,6 +3248,11 @@
       "Time": "2023-12-31T06:09:25.7096496+00:00",
       "NumProgressed": 1360,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-31T12:08:59.0772816+00:00",
+      "NumProgressed": 1361,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -3259,7 +3264,7 @@
       "Name": "Humble beginnings",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -3283,7 +3288,7 @@
       "Name": "Roll with it",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -3347,7 +3352,7 @@
       "Name": "Memento",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -3355,7 +3360,7 @@
       "Name": "No pressure",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -3363,7 +3368,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -3385,9 +3390,9 @@
       "ID": "ACH_POSTCARD",
       "SetID": "7k95e4n",
       "Name": "Island boy",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 286
+      "UsersEstimate": 272
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
@@ -3395,23 +3400,23 @@
       "Name": "Let there be light",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "ACH_SKILLS_ALL",
       "SetID": "7k95e4n",
       "Name": "Unstoppable",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 245
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_STAR_1",
       "SetID": "7k95e4n",
       "Name": "Good start",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1021
     },
     {
       "ID": "ACH_STAR_2",
@@ -3427,7 +3432,7 @@
       "Name": "Still more work ahead",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ACH_STAR_4",
@@ -3435,7 +3440,7 @@
       "Name": "Nearly there",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACH_STAR_5",
@@ -3443,15 +3448,15 @@
       "Name": "You\u0027re a star",
       "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACH_STORY_MODE_FINISHED",
       "SetID": "7k95e4n",
       "Name": "Reunited",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 245
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_TIP_EARNED",
@@ -3459,7 +3464,7 @@
       "Name": "Excellent service",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -3467,14 +3472,14 @@
       "Name": "I think you dropped this",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1360,
+      "Progressed": 1361,
       "Completed": 18
     }
   ],
@@ -3482,8 +3487,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-29T01:34:53.0019618+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:09:12.748415+00:00",
+  "LastChanged_Achievements": "2023-12-31T12:08:59.0772814+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:25.8678636+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:00:30.3868873+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:09:12.7484523+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:59:45.9071113+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:08:59.0773142+00:00"
 }

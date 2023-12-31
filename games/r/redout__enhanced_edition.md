@@ -6,26 +6,26 @@ Number of Ratings: 274  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~97,722 |
-| NATURAL BORN WINNER | 33.00% | ~78,655 |
-| CALLING HOUSTON | 28.00% | ~66,737 |
-| SNEAKY SNEAKY | 22.00% | ~52,436 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~52,436 |
-| GT9STRADALE | 20.00% | ~47,669 |
-| CHALLENGER | 11.00% | ~26,218 |
-| ON A ROLL | 9.00% | ~21,451 |
+| VANGUARD | 41.00% | ~97,725 |
+| NATURAL BORN WINNER | 33.00% | ~78,656 |
+| CALLING HOUSTON | 28.00% | ~66,739 |
+| SNEAKY SNEAKY | 22.00% | ~52,438 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~52,438 |
+| GT9STRADALE | 20.00% | ~47,671 |
+| CHALLENGER | 11.00% | ~26,219 |
+| ON A ROLL | 9.00% | ~21,452 |
 | CENTAUR | 8.00% | ~19,068 |
 | FASTER THAN EVER | 8.00% | ~19,068 |
-| CHALLENGE THE WORLD | 7.00% | ~16,684 |
-| PHOTOFINISH | 7.00% | ~16,684 |
-| QAREEN | 5.00% | ~11,917 |
-| TAKATORA | 5.00% | ~11,917 |
+| CHALLENGE THE WORLD | 7.00% | ~16,685 |
+| PHOTOFINISH | 7.00% | ~16,685 |
+| QAREEN | 5.00% | ~11,918 |
+| TAKATORA | 5.00% | ~11,918 |
 | SHOWOFF | 4.00% | ~9,534 |
-| GILA | 3.00% | ~7,150 |
+| GILA | 3.00% | ~7,151 |
 | PRO | 2.00% | ~4,767 |
 | RESPWND | 2.00% | ~4,767 |
 | SHINY SHINY GOLD | 2.00% | ~4,767 |
-| HARDCORE | 1.00% | ~2,383 |
+| HARDCORE | 1.00% | ~2,384 |
 | ACE | 0.80% | ~1,907 |
 | TACTICIAN | 0.60% | ~1,430 |
 | GTX COMPETIZIONE | 0.50% | ~1,192 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~477 |
 | ENLIGHTENED | 0.10% | ~238 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,347 (Ranked 73)  
+Progressed: 238,353 (Ranked 73)  
 Completed: 49 (0.02%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 49 (0.02%) (Ranked 358)
 | 2023-12-28 | 238,135 | 49 |
 | 2023-12-29 | 238,227 | 49 |
 | 2023-12-30 | 238,311 | 49 |
-| 2023-12-31 | 238,347 | 49 |
+| 2023-12-31 | 238,353 | 49 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

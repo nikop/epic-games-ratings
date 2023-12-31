@@ -1852,9 +1852,9 @@
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
       "SetID": "aniflfk",
       "Name": "Design Engineer",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 121
+      "UsersEstimate": 126
     },
     {
       "ID": "BRING_MARY",
@@ -1980,9 +1980,9 @@
       "ID": "SPEND_2000_COINS",
       "SetID": "aniflfk",
       "Name": "Crypto Bro",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 147
     },
     {
       "ID": "TAKE_LEECH",
@@ -2011,8 +2011,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:03:44.7914549+00:00",
+  "LastChanged_Achievements": "2023-12-31T12:03:47.125054+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.5394751+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:02:51.9365403+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:03:44.7921274+00:00"
+  "LastUpdate_Ratings": "2023-12-31T12:03:09.2616756+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:03:47.1251397+00:00"
 }

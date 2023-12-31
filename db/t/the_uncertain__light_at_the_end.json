@@ -3,11 +3,11 @@
   "Name": "The Uncertain: Light at the End",
   "ProductSlug": "the-uncertain-light-at-the-end",
   "Ranking_Rating": 1066,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 576,
+  "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 629,
+  "EOS_Progressed": 630,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.95,
   "EosHistory": [
@@ -1208,6 +1208,11 @@
       "Time": "2023-12-31T00:05:14.8867439+00:00",
       "NumProgressed": 629,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-31T12:06:08.1360758+00:00",
+      "NumProgressed": 630,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1227,7 +1232,7 @@
       "Name": "Identity Theft",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Butterfly",
@@ -1323,7 +1328,7 @@
       "Name": "F is for Feline",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Investigative",
@@ -1339,7 +1344,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "Leisurely_Strol",
@@ -1347,7 +1352,7 @@
       "Name": "A Trip to Remember",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "MISSING_DATA",
@@ -1355,7 +1360,7 @@
       "Name": "Does Not Compute",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Misanthrope",
@@ -1379,7 +1384,7 @@
       "Name": "Den Mother",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Ninja",
@@ -1450,7 +1455,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 629,
+      "Progressed": 630,
       "Completed": 6
     }
   ],
@@ -1458,8 +1463,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:06:54.0010989+00:00",
+  "LastChanged_Achievements": "2023-12-31T12:06:08.1360754+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:43.1004855+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:03:40.4085156+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:06:54.0011154+00:00"
+  "LastUpdate_Ratings": "2023-12-31T12:03:43.5568552+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:06:08.1360988+00:00"
 }

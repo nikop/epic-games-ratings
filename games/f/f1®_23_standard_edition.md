@@ -1,61 +1,61 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.66 (Ranked 298)  
+Rating: 4.66 (Ranked 299)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~12,815 |
-| On the Top Step | 82.00% | ~11,547 |
-| Setting up for Success | 69.00% | ~9,717 |
-| Team Orders | 68.00% | ~9,576 |
-| Engineer | 45.00% | ~6,337 |
-| Familiar Faces | 42.00% | ~5,914 |
-| Going the Extra Mile | 36.00% | ~5,070 |
-| Sharing the Love | 33.00% | ~4,647 |
-| Hitting a Season | 26.00% | ~3,661 |
-| Making History | 25.00% | ~3,520 |
-| A Dozen Pieces | 24.00% | ~3,380 |
-| Network Success | 23.00% | ~3,239 |
-| Challenge Yourself | 23.00% | ~3,239 |
-| Writing a new Chapter | 19.00% | ~2,676 |
-| Spring Cleaning | 18.00% | ~2,535 |
-| Reduce | 15.00% | ~2,112 |
-| Ups and Downs | 15.00% | ~2,112 |
-| Crucial Combo | 13.00% | ~1,831 |
-| Reuse | 12.00% | ~1,690 |
-| Proving Them Wrong | 12.00% | ~1,690 |
-| Gathering Dust | 11.00% | ~1,549 |
-| One for the Book | 11.00% | ~1,549 |
-| Oil and Water | 10.00% | ~1,408 |
-| Friendly Competition | 10.00% | ~1,408 |
-| Switcheroo | 10.00% | ~1,408 |
-| Eagle Eye | 9.00% | ~1,267 |
-| All in a Weekend's Work | 9.00% | ~1,267 |
-| Lightning Round the World | 9.00% | ~1,267 |
-| Hitting a Bullseye | 9.00% | ~1,267 |
-| Spinning Around | 9.00% | ~1,267 |
-| Recycle | 7.00% | ~986 |
-| Undisputed Winner | 6.00% | ~845 |
-| Tinkerer | 6.00% | ~845 |
-| For all Those Back at the Factory | 4.00% | ~563 |
-| Living up to Expectations | 4.00% | ~563 |
-| Smooth Operator | 4.00% | ~563 |
-| Peak Performance | 4.00% | ~563 |
-| Loyal Bond | 3.00% | ~422 |
+| Getting on the Step | 91.00% | ~12,833 |
+| On the Top Step | 82.00% | ~11,564 |
+| Setting up for Success | 69.00% | ~9,730 |
+| Team Orders | 68.00% | ~9,589 |
+| Engineer | 45.00% | ~6,346 |
+| Familiar Faces | 42.00% | ~5,923 |
+| Going the Extra Mile | 36.00% | ~5,077 |
+| Sharing the Love | 33.00% | ~4,654 |
+| Hitting a Season | 26.00% | ~3,667 |
+| Making History | 25.00% | ~3,526 |
+| A Dozen Pieces | 24.00% | ~3,384 |
+| Network Success | 23.00% | ~3,243 |
+| Challenge Yourself | 23.00% | ~3,243 |
+| Writing a new Chapter | 19.00% | ~2,679 |
+| Spring Cleaning | 18.00% | ~2,538 |
+| Reduce | 15.00% | ~2,115 |
+| Ups and Downs | 15.00% | ~2,115 |
+| Crucial Combo | 13.00% | ~1,833 |
+| Reuse | 12.00% | ~1,692 |
+| Proving Them Wrong | 12.00% | ~1,692 |
+| Gathering Dust | 11.00% | ~1,551 |
+| One for the Book | 11.00% | ~1,551 |
+| Oil and Water | 10.00% | ~1,410 |
+| Friendly Competition | 10.00% | ~1,410 |
+| Switcheroo | 10.00% | ~1,410 |
+| Eagle Eye | 9.00% | ~1,269 |
+| All in a Weekend's Work | 9.00% | ~1,269 |
+| Lightning Round the World | 9.00% | ~1,269 |
+| Hitting a Bullseye | 9.00% | ~1,269 |
+| Spinning Around | 9.00% | ~1,269 |
+| Recycle | 7.00% | ~987 |
+| Undisputed Winner | 6.00% | ~846 |
+| Tinkerer | 6.00% | ~846 |
+| For all Those Back at the Factory | 4.00% | ~564 |
+| Living up to Expectations | 4.00% | ~564 |
+| Smooth Operator | 4.00% | ~564 |
+| Peak Performance | 4.00% | ~564 |
+| Loyal Bond | 3.00% | ~423 |
 | Seasoned Rookie | 2.00% | ~282 |
 | Hitting a Century | 2.00% | ~282 |
 | Wait, I know you? | 2.00% | ~282 |
 | Filling in the Gaps | 1.00% | ~141 |
 | Media Darling | 1.00% | ~141 |
 | Saturday Night Drama | 0.90% | ~127 |
-| Under the Microscope | 0.60% | ~84 |
+| Under the Microscope | 0.60% | ~85 |
 | Ultimate Collector | 0.30% | ~42 |
 | Golden Touch | 0.20% | ~28 |
 | Shot in the Dark | 0.10% | ~14 |
 | Elite Racer | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,082 (Ranked 170)  
+Progressed: 14,102 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 13,238 | 0 |
 | 2023-12-29 | 13,578 | 0 |
 | 2023-12-30 | 13,937 | 0 |
-| 2023-12-31 | 14,082 | 0 |
+| 2023-12-31 | 14,102 | 0 |
 ## Awards
 Max (Diverse Characters): 50  (Ranked 448)  
 Sum: 334 (Ranked 369)  

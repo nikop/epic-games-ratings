@@ -3,8 +3,8 @@
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
   "Ranking_Rating": 997,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 576,
+  "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 164,
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1549,
+  "EOS_Progressed": 1550,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -3054,6 +3054,11 @@
       "Time": "2023-12-31T11:10:59.575479+00:00",
       "NumProgressed": 1549,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-31T12:10:20.1724899+00:00",
+      "NumProgressed": 1550,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3063,9 +3068,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 898
+      "UsersEstimate": 914
     },
     {
       "ID": "ACH_02",
@@ -3081,7 +3086,7 @@
       "Name": "Powerful Allies",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_04",
@@ -3089,7 +3094,7 @@
       "Name": "Calm before the Storm",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_05",
@@ -3129,7 +3134,7 @@
       "Name": "The Mentor",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_10",
@@ -3153,7 +3158,7 @@
       "Name": "Shardbearer",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_13",
@@ -3169,7 +3174,7 @@
       "Name": "Airborne",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_15",
@@ -3201,7 +3206,7 @@
       "Name": "Shatter Them All",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_19",
@@ -3241,7 +3246,7 @@
       "Name": "Geared Up",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_24",
@@ -3273,7 +3278,7 @@
       "Name": "False God",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_28",
@@ -3281,7 +3286,7 @@
       "Name": "I Found It",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_29",
@@ -3352,7 +3357,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1549,
+      "Progressed": 1550,
       "Completed": 3
     }
   ],
@@ -3360,8 +3365,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2023-12-29T23:58:00.9350231+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:10:59.5754785+00:00",
+  "LastChanged_Achievements": "2023-12-31T12:10:20.1724896+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-31T10:59:44.969091+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:10:59.5755217+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:59:13.523758+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:10:20.1725378+00:00"
 }

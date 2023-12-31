@@ -4,7 +4,7 @@
   "ProductSlug": "sir-whoopass-757c5c",
   "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 414,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 143,
+  "EOS_Progressed": 144,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -649,6 +649,11 @@
       "Time": "2023-12-31T11:11:06.045968+00:00",
       "NumProgressed": 143,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T12:10:25.8682081+00:00",
+      "NumProgressed": 144,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 82,
@@ -668,7 +673,7 @@
       "Name": "You\u0027re not so Big anymore, Boi!",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "BILLY_BOB_1",
@@ -684,7 +689,7 @@
       "Name": "Meatballs, coming up!",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "CHEESE_1",
@@ -692,15 +697,15 @@
       "Name": "That\u0027s what cheese said!",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "CHEESE_2",
       "SetID": "9gfkh7c",
       "Name": "Oh, you\u0027re up to no gouda!",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "CHEESE_3",
@@ -732,7 +737,7 @@
       "Name": "Honk honk!",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "COMPLETE_DUNGEONRUINSSMALL_01",
@@ -740,7 +745,7 @@
       "Name": "Ancient Ruins of Moist Overhangs",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "COMPLETE_DUNGEONRUINSSMALL_02",
@@ -852,7 +857,7 @@
       "Name": "Yeehaw!!!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "DIE_1",
@@ -874,9 +879,9 @@
       "ID": "DODGE_2",
       "SetID": "9gfkh7c",
       "Name": "I\u0027m going to get a concussion",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "DODGE_3",
@@ -884,7 +889,7 @@
       "Name": "I want to throw up!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "DRUNK_1",
@@ -916,7 +921,7 @@
       "Name": "Butcher",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ENEMIES_2",
@@ -946,17 +951,17 @@
       "ID": "FIRE_1",
       "SetID": "9gfkh7c",
       "Name": "AHHHHHH.....I\u0027M ON FIRE!!!",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 125
     },
     {
       "ID": "FIRE_2",
       "SetID": "9gfkh7c",
       "Name": "Fire-fighter!",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "FLAPPY_KNIGHT_1",
@@ -996,7 +1001,7 @@
       "Name": "Tastes just like chicken!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "GNOME_2",
@@ -1004,7 +1009,7 @@
       "Name": "Your daily dose of Vitamin C.",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "GNOME_3",
@@ -1028,7 +1033,7 @@
       "Name": "You\u0027re not going to blow me up!",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "HIDDEN_1",
@@ -1052,7 +1057,7 @@
       "Name": "Self assessed tax return",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ITEM_1",
@@ -1068,23 +1073,23 @@
       "Name": "Scrambled Eggs",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ITEM_3",
       "SetID": "9gfkh7c",
       "Name": "Surprise!!",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 60
     },
     {
       "ID": "JOLLY_1",
       "SetID": "9gfkh7c",
       "Name": "Karaoke king",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "JOLLY_2",
@@ -1100,7 +1105,7 @@
       "Name": "Up and down",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "JUMP_2",
@@ -1116,7 +1121,7 @@
       "Name": "I cant stand still!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "KNIGHT_1",
@@ -1162,9 +1167,9 @@
       "ID": "METAL_BARS",
       "SetID": "9gfkh7c",
       "Name": "Another one bites the iron",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 40
     },
     {
       "ID": "METAL_BARS_SWA",
@@ -1172,7 +1177,7 @@
       "Name": "Haemochromatosis",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "MOUNT_1",
@@ -1204,7 +1209,7 @@
       "Name": "MLG 360 no scope kill!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ORC_WARMAIDEN_1",
@@ -1212,7 +1217,7 @@
       "Name": "I like you...but I have to kill you...",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "OTHER_1",
@@ -1220,7 +1225,7 @@
       "Name": "Nerd",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "OTHER_2",
@@ -1234,17 +1239,17 @@
       "ID": "OTHER_3",
       "SetID": "9gfkh7c",
       "Name": "Make Love not War-Craft a Mistlefoe",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 91
     },
     {
       "ID": "OUTHOUSE_1",
       "SetID": "9gfkh7c",
       "Name": "Thats disgusting!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "OUT_OF_BOUNDS",
@@ -1260,7 +1265,7 @@
       "Name": "Meat grinder",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "SKELETON_1",
@@ -1268,7 +1273,7 @@
       "Name": "Spare Ribs",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "SVEN_OLOF_1",
@@ -1276,7 +1281,7 @@
       "Name": "Blurry depth perception",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "WEAPON_1",
@@ -1292,15 +1297,15 @@
       "Name": "Are you ready to rumble?",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "WHOOPASS_1",
       "SetID": "9gfkh7c",
       "Name": "Pasta Bolognese",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 50
     },
     {
       "ID": "WORM_1",
@@ -1315,14 +1320,14 @@
     {
       "ID": "9gfkh7c",
       "IsBase": true,
-      "Progressed": 143,
+      "Progressed": 144,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:11:06.0459676+00:00",
+  "LastChanged_Achievements": "2023-12-31T12:10:25.8682078+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:32.4318618+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:03:27.1362381+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:11:06.0460436+00:00"
+  "LastUpdate_Ratings": "2023-12-31T12:03:34.8853203+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:10:25.868302+00:00"
 }

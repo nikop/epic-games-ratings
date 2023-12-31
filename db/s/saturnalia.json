@@ -3,11 +3,11 @@
   "Name": "Saturnalia",
   "ProductSlug": "saturnalia",
   "Ranking_Rating": 900,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 576,
+  "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69972,
+  "EOS_Progressed": 69975,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19113,6 +19113,11 @@
       "Time": "2023-12-31T11:05:30.6820008+00:00",
       "NumProgressed": 69972,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-31T12:05:05.6747596+00:00",
+      "NumProgressed": 69975,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -19124,7 +19129,7 @@
       "Name": "Denial",
       "Percentage": 2,
       "XP": 105,
-      "UsersEstimate": 1399
+      "UsersEstimate": 1400
     },
     {
       "ID": "ACH_BONFIRES",
@@ -19212,7 +19217,7 @@
       "Name": "Acceptance",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1399
+      "UsersEstimate": 1400
     },
     {
       "ID": "ACH_PHONECAPTURE",
@@ -19268,7 +19273,7 @@
       "Name": "Bargaining",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1399
+      "UsersEstimate": 1400
     },
     {
       "ID": "ACH_TOOLS",
@@ -19283,7 +19288,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 69972,
+      "Progressed": 69975,
       "Completed": 18
     }
   ],
@@ -19291,8 +19296,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:05:30.6820004+00:00",
+  "LastChanged_Achievements": "2023-12-31T12:05:05.6747589+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:27.5821372+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:01:06.912765+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:05:30.6821109+00:00"
+  "LastUpdate_Ratings": "2023-12-31T12:00:12.2693026+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:05:05.6748761+00:00"
 }

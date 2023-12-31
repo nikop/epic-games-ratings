@@ -3,12 +3,12 @@
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
   "Ranking_Rating": 84,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 576,
+  "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -5766,9 +5766,9 @@
       "ID": "STB_HOOK_CHALLENGE",
       "SetID": "3pe2bac",
       "Name": "Chains master",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 317
+      "UsersEstimate": 349
     },
     {
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
@@ -5846,9 +5846,9 @@
       "ID": "STB_MISSION4_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Sacred Woods",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 793
+      "UsersEstimate": 824
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -6031,8 +6031,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-30T20:57:35.994685+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:05:21.035773+00:00",
+  "LastChanged_Achievements": "2023-12-31T12:04:58.6753766+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:16.0545663+00:00",
-  "LastUpdate_Ratings": "2023-12-31T10:57:33.3997465+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:05:21.035822+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:57:36.3077272+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:04:58.6754328+00:00"
 }

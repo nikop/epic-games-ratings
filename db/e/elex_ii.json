@@ -3,9 +3,9 @@
   "Name": "ELEX II",
   "ProductSlug": "elex-ii",
   "Ranking_Rating": 872,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
-  "Ranking_EOS_Progress": 449,
+  "Ranking_Popularity": 576,
+  "Ranking_PopularitySum": 576,
+  "Ranking_EOS_Progress": 448,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 154,
@@ -571,7 +571,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 145,
+  "EOS_Progressed": 146,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
@@ -1111,6 +1111,11 @@
       "Time": "2023-12-31T06:06:03.3576657+00:00",
       "NumProgressed": 145,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T12:05:24.249413+00:00",
+      "NumProgressed": 146,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1139,7 +1144,7 @@
       "Name": "Entrepreneur",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "100HEALS",
@@ -1249,9 +1254,9 @@
       "ID": "5CREWMEMBER",
       "SetID": "a1angca",
       "Name": "Military Leader",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ALLCOMBAT",
@@ -1393,9 +1398,9 @@
       "ID": "FINDBILLY",
       "SetID": "a1angca",
       "Name": "Festival-goer",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "FINDCITY",
@@ -1435,7 +1440,7 @@
       "Name": "Irissa\u0027s Fate",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "HELPCHILDREN",
@@ -1451,7 +1456,7 @@
       "Name": "Pass A38",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "KILL200MONSTER",
@@ -1522,15 +1527,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 145,
+      "Progressed": 146,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:05:55.3141635+00:00",
+  "LastChanged_Achievements": "2023-12-31T12:05:24.2494127+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:16.9599546+00:00",
-  "LastUpdate_Ratings": "2023-12-31T10:59:34.2528302+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:05:55.3141951+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:59:05.9219295+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:05:24.2494448+00:00"
 }

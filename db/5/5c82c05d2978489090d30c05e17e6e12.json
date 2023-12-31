@@ -3,8 +3,8 @@
   "Name": "EARTHLOCK",
   "ProductSlug": "earthlock-e7d979",
   "Ranking_Rating": 991,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 576,
+  "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 74,
@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 71928,
+  "EOS_Progressed": 71934,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 2122,
+  "EOS_NewPlayers": 2116,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5573,6 +5573,11 @@
       "Time": "2023-12-31T11:06:20.3373089+00:00",
       "NumProgressed": 71928,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2023-12-31T12:05:43.0514237+00:00",
+      "NumProgressed": 71934,
+      "NumCompleted": 104
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -5585,7 +5590,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 26613
+      "UsersEstimate": 26616
     },
     {
       "ID": "Achievement_10",
@@ -5657,7 +5662,7 @@
       "Name": "Champions of Umbra",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "Achievement_19",
@@ -5673,7 +5678,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 19421
+      "UsersEstimate": 19422
     },
     {
       "ID": "Achievement_20",
@@ -5705,7 +5710,7 @@
       "Name": "Festival Masters",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "Achievement_24",
@@ -5737,7 +5742,7 @@
       "Name": "Critter King",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "Achievement_28",
@@ -5761,7 +5766,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8631
+      "UsersEstimate": 8632
     },
     {
       "ID": "Achievement_30",
@@ -5856,7 +5861,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 71928,
+      "Progressed": 71934,
       "Completed": 104
     }
   ],
@@ -5864,8 +5869,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-30T13:05:52.7495304+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:06:20.3373085+00:00",
+  "LastChanged_Achievements": "2023-12-31T12:05:43.0514234+00:00",
   "LastUpdate_AppInfo": "2023-12-28T16:57:09.138646+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:03:18.9739168+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:06:20.3373458+00:00"
+  "LastUpdate_Ratings": "2023-12-31T12:03:29.1943136+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:05:43.0514721+00:00"
 }

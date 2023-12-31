@@ -3,8 +3,8 @@
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
   "Ranking_Rating": 803,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 576,
+  "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 268,
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 897,
+  "EOS_Progressed": 898,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -3166,6 +3166,11 @@
       "Time": "2023-12-31T09:05:14.0621248+00:00",
       "NumProgressed": 897,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-31T12:06:12.3772805+00:00",
+      "NumProgressed": 898,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3193,15 +3198,15 @@
       "Name": "Architect of Fortunes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "dont-miss-calls",
       "SetID": "bed33dd",
       "Name": "Didn\u0027t Miss A Single One",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 386
+      "UsersEstimate": 395
     },
     {
       "ID": "female-conqueror",
@@ -3225,7 +3230,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "kill-lieutenants",
@@ -3241,7 +3246,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "play-at-night",
@@ -3281,7 +3286,7 @@
       "Name": "Bite the Blow",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "sell-variety",
@@ -3297,15 +3302,15 @@
       "Name": "Camellos",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "unlock-residences",
       "SetID": "bed33dd",
       "Name": "Pampered Life",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 206
+      "UsersEstimate": 198
     },
     {
       "ID": "upgrade-building",
@@ -3328,15 +3333,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 897,
+      "Progressed": 898,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:06:59.688629+00:00",
+  "LastChanged_Achievements": "2023-12-31T12:06:12.3772802+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:28.1140989+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:02:58.5462563+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:06:59.6886514+00:00"
+  "LastUpdate_Ratings": "2023-12-31T12:03:13.8758811+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:06:12.3773026+00:00"
 }

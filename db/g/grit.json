@@ -3,8 +3,8 @@
   "Name": "GRIT",
   "ProductSlug": "grit-482454",
   "Ranking_Rating": 464,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 576,
+  "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 563,
@@ -73,6 +73,6 @@
   "FirstSeenRating": "2023-06-04T02:33:20.0480501+00:00",
   "LastChanged": "2023-08-11T20:59:51.6308048+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:00.2691565+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:01:10.0405139+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:06:38.2298302+00:00"
+  "LastUpdate_Ratings": "2023-12-31T12:00:14.4253273+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:05:56.2584181+00:00"
 }

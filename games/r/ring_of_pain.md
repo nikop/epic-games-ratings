@@ -50,6 +50,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Well Prepared | 0.50% | ~1,210 |
 | Just Chilling | 0.50% | ~1,210 |
 | Save Our Souls | 0.50% | ~1,210 |
+| Don't Ignore Me! | 0.50% | ~1,210 |
 | All Consuming | 0.50% | ~1,210 |
 | Stop Hitting Yourself | 0.50% | ~1,210 |
 | Doing Time | 0.50% | ~1,210 |
@@ -61,7 +62,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Max Damage! | 0.40% | ~968 |
 | A Rough Road | 0.40% | ~968 |
 | Berzerker | 0.40% | ~968 |
-| Don't Ignore Me! | 0.40% | ~968 |
 | Illuminate, Eliminate | 0.40% | ~968 |
 | Chain Reaction | 0.40% | ~968 |
 | Antivenom | 0.40% | ~968 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,089 (Ranked 71)  
+Progressed: 242,092 (Ranked 71)  
 Completed: 302 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -400,7 +400,7 @@ Completed: 302 (0.12%) (Ranked 301)
 | 2023-12-28 | 241,919 | 302 |
 | 2023-12-29 | 241,985 | 302 |
 | 2023-12-30 | 242,061 | 302 |
-| 2023-12-31 | 242,089 | 302 |
+| 2023-12-31 | 242,092 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 134)  
 Sum: 11,774 (Ranked 88)  

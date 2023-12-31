@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -3366,9 +3366,9 @@
       "ID": "ACHIEVEMENTS_21",
       "SetID": "d4o538a",
       "Name": "Fishing Guru",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 368
+      "UsersEstimate": 387
     },
     {
       "ID": "ACHIEVEMENTS_22",
@@ -3519,8 +3519,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-28T09:03:17.5303608+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:05:30.7044573+00:00",
+  "LastChanged_Achievements": "2023-12-31T12:05:05.842018+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:18.8535407+00:00",
-  "LastUpdate_Ratings": "2023-12-31T10:57:42.5712067+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:05:30.7044958+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:57:42.7582677+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:05:05.8420525+00:00"
 }

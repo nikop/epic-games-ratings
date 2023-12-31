@@ -4,7 +4,7 @@
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
   "Ranking_EOS_Progress": 504,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewPlayers": 431,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -390,9 +390,9 @@
       "ID": "Find_Secret_Ending1",
       "SetID": "4f0g260",
       "Name": "Fly, you fool!",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Get_100_Item_Completion",
@@ -447,8 +447,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:07:44.5526562+00:00",
+  "LastChanged_Achievements": "2023-12-31T12:06:46.0961667+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:11.1356612+00:00",
-  "LastUpdate_Ratings": "2023-12-31T10:59:09.6469942+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:07:44.5526743+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:58:47.6969986+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:06:46.0961849+00:00"
 }

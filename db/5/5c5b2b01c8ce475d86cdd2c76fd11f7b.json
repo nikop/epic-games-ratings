@@ -4,7 +4,7 @@
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
   "Ranking_EOS_Progress": 525,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewPlayers": 369,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -384,9 +384,9 @@
       "ID": "NEW_ACHIEVEMENT_1_14",
       "SetID": "7on801h",
       "Name": "God Killer",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -472,9 +472,9 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "7on801h",
       "Name": "The Jack of All Augments",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -640,9 +640,9 @@
       "ID": "NEW_ACHIEVEMENT_2_14",
       "SetID": "7on801h",
       "Name": "Fresh Out of the Package",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_15",
@@ -1005,8 +1005,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:04:39.3528586+00:00",
+  "LastChanged_Achievements": "2023-12-31T12:04:27.6414613+00:00",
   "LastUpdate_AppInfo": "2023-12-27T16:57:17.6990227+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:00:00.6787722+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:04:39.3529255+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:59:24.7480862+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:04:27.641563+00:00"
 }

@@ -24,7 +24,7 @@ Number of Ratings: 98  (23.09.2022)
 | Lock, Stock | 8.00% | ~153 |
 | Payback Time | 7.00% | ~134 |
 | No Witness | 5.00% | ~96 |
-| Strategist | 4.00% | ~77 |
+| Strategist | 5.00% | ~96 |
 | Do a Barrel Roll! | 2.00% | ~38 |
 | Unbreakable Wall | 2.00% | ~38 |
 | Experienced Strategist | 1.00% | ~19 |
@@ -38,7 +38,7 @@ Number of Ratings: 98  (23.09.2022)
 | Scout | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,918 (Ranked 244)  
-Completed: 2 (0.10%) (Ranked 305)  
+Completed: 2 (0.10%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

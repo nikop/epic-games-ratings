@@ -2,7 +2,7 @@
   "ID": "petunia",
   "Name": "Metro 2033 Redux",
   "ProductSlug": "metro-2033-redux",
-  "Ranking_Rating": 231,
+  "Ranking_Rating": 232,
   "Ranking_Popularity": 145,
   "Ranking_PopularitySum": 244,
   "Ranking_EOS_Progress": 819,
@@ -1352,6 +1352,6 @@
   "FirstSeen": "2022-07-22T20:19:16.3934902+00:00",
   "LastChanged": "2023-12-30T14:02:29.1843857+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:42.3383531+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:03:09.6289588+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:04:48.6946478+00:00"
+  "LastUpdate_Ratings": "2023-12-31T12:03:21.8112045+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:04:34.5060336+00:00"
 }

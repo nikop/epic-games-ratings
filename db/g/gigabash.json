@@ -279,9 +279,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 112718,
+  "EOS_Progressed": 112774,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9369,
+  "EOS_NewPlayers": 9345,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2839,6 +2839,11 @@
       "Time": "2023-12-31T11:04:52.6825226+00:00",
       "NumProgressed": 112718,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T12:04:37.5774905+00:00",
+      "NumProgressed": 112774,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -2851,7 +2856,7 @@
       "Name": "Oh Baby, A Triple",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3382
+      "UsersEstimate": 3383
     },
     {
       "ID": "ACH_5_STAGES_OF_GRIEF",
@@ -2875,7 +2880,7 @@
       "Name": "Battle Hardened",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2254
+      "UsersEstimate": 2255
     },
     {
       "ID": "ACH_CAUTIOUS_VETERAN",
@@ -2883,7 +2888,7 @@
       "Name": "Cautious Veteran",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "ACH_COLLECTOR",
@@ -2899,7 +2904,7 @@
       "Name": "Double Punch!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "ACH_EYE_OF_THE_TITAN",
@@ -2915,7 +2920,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 10145
+      "UsersEstimate": 10150
     },
     {
       "ID": "ACH_GROWNUP",
@@ -2923,7 +2928,7 @@
       "Name": "All Grown Up!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 19162
+      "UsersEstimate": 19172
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -2939,7 +2944,7 @@
       "Name": "Katamari",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "ACH_KONGKRETE",
@@ -2947,7 +2952,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 14653
+      "UsersEstimate": 14661
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -2955,7 +2960,7 @@
       "Name": "Let Them Fight",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH_MARTYRDOM",
@@ -2963,7 +2968,7 @@
       "Name": "Martyrdom",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "ACH_MASTER_OF_DISGUISE",
@@ -2971,7 +2976,7 @@
       "Name": "Master of Disguise",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2254
+      "UsersEstimate": 2255
     },
     {
       "ID": "ACH_MAYHEM",
@@ -2979,7 +2984,7 @@
       "Name": "It\u0027s Mayhem!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2254
+      "UsersEstimate": 2255
     },
     {
       "ID": "ACH_NINJA_REFLEX",
@@ -3003,7 +3008,7 @@
       "Name": "All For One and One For All",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 7890
+      "UsersEstimate": 7894
     },
     {
       "ID": "ACH_RIGHT_BACK_AT_CHA",
@@ -3011,7 +3016,7 @@
       "Name": "Right back at\u0027cha",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2254
+      "UsersEstimate": 2255
     },
     {
       "ID": "ACH_SEASONED_FIGHTER",
@@ -3019,7 +3024,7 @@
       "Name": "Seasoned Fighter",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 9017
+      "UsersEstimate": 9022
     },
     {
       "ID": "ACH_SIGNATURE_LOOK",
@@ -3043,7 +3048,7 @@
       "Name": "Apex Mode",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH_STORY_APOCALYPSE",
@@ -3059,7 +3064,7 @@
       "Name": "Symbiotic",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2254
+      "UsersEstimate": 2255
     },
     {
       "ID": "ACH_TASTE_YOUR_OWN_MEDICINE",
@@ -3067,7 +3072,7 @@
       "Name": "Taste Your Own Medicine",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "ACH_THUNDATROSS_STORY",
@@ -3075,7 +3080,7 @@
       "Name": "A New Age",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4509
+      "UsersEstimate": 4511
     },
     {
       "ID": "ACH_TOP_OF_THE_FOOD_CHAIN",
@@ -3091,7 +3096,7 @@
       "Name": "Spectacular Finisher",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "ACH_WATCHFUL_SENTINEL",
@@ -3115,7 +3120,7 @@
       "Name": "Home Sweet Home?",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 5636
+      "UsersEstimate": 5639
     },
     {
       "ID": "ACH_ZERO_SUM_GAME",
@@ -3130,7 +3135,7 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 112718,
+      "Progressed": 112774,
       "Completed": 0
     }
   ],
@@ -3138,8 +3143,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2023-12-30T19:05:04.3034724+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:04:52.6825221+00:00",
+  "LastChanged_Achievements": "2023-12-31T12:04:37.5774903+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.1582373+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:03:08.7391253+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:04:52.6825559+00:00"
+  "LastUpdate_Ratings": "2023-12-31T12:03:21.1909887+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:04:37.5775166+00:00"
 }

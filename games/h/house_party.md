@@ -56,6 +56,7 @@ Number of Ratings: 177  (23.09.2022)
 | Ronin | 0.20% | ~14 |
 | A Striking Resemblance | 0.20% | ~14 |
 | Howz It Goin Dood | 0.20% | ~14 |
+| La Coochadora | 0.20% | ~14 |
 | Snapped | 0.20% | ~14 |
 | Against All Odds | 0.10% | ~7 |
 | Casabrova | 0.10% | ~7 |
@@ -73,7 +74,6 @@ Number of Ratings: 177  (23.09.2022)
 | That's a Nice Bush! | 0.10% | ~4 |
 | The Crush(es) | 0.10% | ~7 |
 | The Most Wonderful Time of the Year | 0.10% | ~4 |
-| La Coochadora | 0.10% | ~7 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,000 (Ranked 193)  

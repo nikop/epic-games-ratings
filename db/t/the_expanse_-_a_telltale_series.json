@@ -3,8 +3,8 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 502,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 576,
+  "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 143,
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17874,
+  "EOS_Progressed": 17877,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 602,
+  "EOS_NewPlayers": 605,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15789,6 +15789,11 @@
       "Time": "2023-12-31T11:07:38.9137153+00:00",
       "NumProgressed": 17874,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-31T12:06:41.7674774+00:00",
+      "NumProgressed": 17877,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15825,7 +15830,7 @@
       "Name": "Data Archivist",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "13",
@@ -15857,7 +15862,7 @@
       "Name": "Drug Gifter",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "17",
@@ -15865,7 +15870,7 @@
       "Name": "Spore Taste",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "18",
@@ -15897,7 +15902,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "21",
@@ -15905,7 +15910,7 @@
       "Name": "Drone Dodger",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "22",
@@ -15913,7 +15918,7 @@
       "Name": "Brother\u0027s Reaper",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "23",
@@ -15937,7 +15942,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "26",
@@ -15985,7 +15990,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "4",
@@ -15993,7 +15998,7 @@
       "Name": "Debris Spree",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "5",
@@ -16025,7 +16030,7 @@
       "Name": "Data Recoverer",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "9",
@@ -16065,7 +16070,7 @@
       "Name": "Master Negotiator",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "35",
@@ -16080,13 +16085,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17874,
+      "Progressed": 17877,
       "Completed": 57
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3828,
+      "Progressed": 3831,
       "Completed": 1129
     }
   ],
@@ -16094,8 +16099,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T01:47:56.7328013+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:07:38.913715+00:00",
+  "LastChanged_Achievements": "2023-12-31T12:06:41.7674771+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2023-12-31T10:58:40.4999441+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:07:38.9137953+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:58:26.0972051+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:06:41.7675552+00:00"
 }

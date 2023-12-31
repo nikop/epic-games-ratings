@@ -2,13 +2,13 @@
   "ID": "2bda08f9230144a19e98373cc4a6ac2d",
   "Name": "MORDHAU",
   "ProductSlug": "mordhau",
-  "Ranking_Rating": 784,
+  "Ranking_Rating": 783,
   "Ranking_Popularity": 148,
   "Ranking_PopularitySum": 135,
   "Ranking_EOS_Progress": 7,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-04-13T15:00:00+00:00",
     "PcReleaseDate": "2019-04-29T00:00:00+00:00",
@@ -36734,6 +36734,6 @@
   "LastChanged": "2023-12-31T11:02:34.7678492+00:00",
   "LastChanged_Achievements": "2023-12-31T11:08:24.1796338+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:17.3889166+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:02:34.7678498+00:00",
+  "LastUpdate_Ratings": "2023-12-31T12:02:55.979747+00:00",
   "LastUpdate_Achievements": "2023-12-31T11:08:24.1797577+00:00"
 }

@@ -20,13 +20,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Gathering Storm | 5.00% | ~989 |
 | Frosts | 4.00% | ~791 |
 | Land of Greed | 4.00% | ~791 |
-| Homesick | 3.00% | ~593 |
-| Fertile Meadows | 3.00% | ~593 |
-| Monastery of the Holy Flame | 3.00% | ~593 |
-| Royal Outpost | 3.00% | ~593 |
-| Watchtower | 3.00% | ~593 |
-| A Real Challenge | 3.00% | ~593 |
-| Untamed Wilds | 3.00% | ~593 |
+| Homesick | 3.00% | ~594 |
+| Fertile Meadows | 3.00% | ~594 |
+| Monastery of the Holy Flame | 3.00% | ~594 |
+| Royal Outpost | 3.00% | ~594 |
+| Watchtower | 3.00% | ~594 |
+| A Real Challenge | 3.00% | ~594 |
+| Untamed Wilds | 3.00% | ~594 |
 | Ruined Armory | 2.00% | ~396 |
 | Bandit Camp | 2.00% | ~396 |
 | Barren Lands | 2.00% | ~396 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,780 (Ranked 151)  
+Progressed: 19,786 (Ranked 151)  
 Completed: 34 (0.17%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 34 (0.17%) (Ranked 280)
 | 2023-12-28 | 19,536 | 36 |
 | 2023-12-29 | 19,630 | 36 |
 | 2023-12-30 | 19,741 | 35 |
-| 2023-12-31 | 19,780 | 34 |
+| 2023-12-31 | 19,786 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 447  (Ranked 230)  
 Sum: 3,309 (Ranked 177)  

@@ -3,11 +3,11 @@
   "Name": "Wreckfest",
   "ProductSlug": "wreckfest",
   "Ranking_Rating": 872,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Popularity": 576,
+  "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 595,
+  "EOS_Progressed": 599,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 286,
+  "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1631,6 +1631,11 @@
       "Time": "2023-12-31T11:09:20.3766342+00:00",
       "NumProgressed": 595,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T12:09:04.742178+00:00",
+      "NumProgressed": 599,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1643,15 +1648,15 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "CareerAllChallenges",
       "SetID": "5hd282c",
       "Name": "Highballer",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 90,
-      "UsersEstimate": 256
+      "UsersEstimate": 264
     },
     {
       "ID": "CareerChamp1",
@@ -1659,7 +1664,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 192
     },
     {
       "ID": "CareerChamp2",
@@ -1667,7 +1672,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "CareerChamp3",
@@ -1675,7 +1680,7 @@
       "Name": "Challengers Champion",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "CareerChamp4",
@@ -1699,7 +1704,7 @@
       "Name": "Storm Warning",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 393
+      "UsersEstimate": 395
     },
     {
       "ID": "CollectVehiclesA",
@@ -1707,7 +1712,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "CollectVehiclesB",
@@ -1715,7 +1720,7 @@
       "Name": "Junk Collector",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "CreditsEarnedA",
@@ -1755,7 +1760,7 @@
       "Name": "Dirty Roller",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 202
+      "UsersEstimate": 204
     },
     {
       "ID": "PlayerRankB",
@@ -1763,7 +1768,7 @@
       "Name": "Trashing Around",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "PlayerRankC",
@@ -1787,7 +1792,7 @@
       "Name": "Hating Them Tin Cans",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "WreckOpponentsBus",
@@ -1802,7 +1807,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 595,
+      "Progressed": 599,
       "Completed": 0
     }
   ],
@@ -1810,8 +1815,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-28T22:58:24.1175943+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:09:20.3766339+00:00",
+  "LastChanged_Achievements": "2023-12-31T12:09:04.7421776+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.5719432+00:00",
-  "LastUpdate_Ratings": "2023-12-31T10:59:53.5622776+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:09:20.3766513+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:59:19.9600771+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:09:04.7422048+00:00"
 }

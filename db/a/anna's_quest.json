@@ -2,9 +2,9 @@
   "ID": "77b68249bf3a4088bbbb54dd35341718",
   "Name": "Anna\u0027s Quest",
   "ProductSlug": "annas-quest-fbefa2",
-  "Ranking_EOS_Progress": 496,
-  "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 494,
+  "Ranking_EOS_Progress": 495,
+  "Ranking_EOS_Completed": 64,
+  "Ranking_EOS_NewPlayers": 474,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 91,
+  "EOS_Progressed": 92,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.59,
+  "EOS_Completed_Percentage": 6.52,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:32.5540849+00:00",
@@ -396,6 +396,11 @@
       "Time": "2023-12-26T16:05:21.2578546+00:00",
       "NumProgressed": 91,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-31T12:04:25.3207373+00:00",
+      "NumProgressed": 92,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 39,
@@ -405,7 +410,7 @@
       "ID": "aq_achievement_1",
       "SetID": "7jh86ne",
       "Name": "Escape artist",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 15,
       "UsersEstimate": 70
     },
@@ -413,7 +418,7 @@
       "ID": "aq_achievement_10",
       "SetID": "7jh86ne",
       "Name": "Mystery solved",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 28
     },
@@ -421,7 +426,7 @@
       "ID": "aq_achievement_11",
       "SetID": "7jh86ne",
       "Name": "Close the deal",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 35,
       "UsersEstimate": 17
     },
@@ -429,7 +434,7 @@
       "ID": "aq_achievement_12",
       "SetID": "7jh86ne",
       "Name": "Game Over!",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
       "UsersEstimate": 26
     },
@@ -437,7 +442,7 @@
       "ID": "aq_achievement_13",
       "SetID": "7jh86ne",
       "Name": "Honey, honey, honey\u2026",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 28
     },
@@ -453,7 +458,7 @@
       "ID": "aq_achievement_15",
       "SetID": "7jh86ne",
       "Name": "A very special drink",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 27
     },
@@ -469,7 +474,7 @@
       "ID": "aq_achievement_17",
       "SetID": "7jh86ne",
       "Name": "GG",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
       "UsersEstimate": 26
     },
@@ -597,7 +602,7 @@
       "ID": "aq_achievement_31",
       "SetID": "7jh86ne",
       "Name": "Bahahahaha...",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
       "UsersEstimate": 16
     },
@@ -693,7 +698,7 @@
       "ID": "aq_achievement_7",
       "SetID": "7jh86ne",
       "Name": "NOW GO AWAY!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 27
     },
@@ -701,7 +706,7 @@
       "ID": "aq_achievement_8",
       "SetID": "7jh86ne",
       "Name": "Sorry Grandpa",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 35,
       "UsersEstimate": 28
     },
@@ -709,7 +714,7 @@
       "ID": "aq_achievement_9",
       "SetID": "7jh86ne",
       "Name": "Roostwig has entered the building",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 28
     }
@@ -718,7 +723,7 @@
     {
       "ID": "7jh86ne",
       "IsBase": true,
-      "Progressed": 91,
+      "Progressed": 92,
       "Completed": 6
     }
   ],
@@ -726,8 +731,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:04:36.3381978+00:00",
+  "LastChanged_Achievements": "2023-12-31T12:04:25.3207369+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:29.152003+00:00",
-  "LastUpdate_Ratings": "2023-12-31T10:59:46.0590998+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:04:36.3382287+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:59:14.3047024+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:04:25.3207612+00:00"
 }

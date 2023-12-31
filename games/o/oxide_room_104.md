@@ -18,7 +18,7 @@
 | The third floor | 18.00% | ~53 |
 | One-way | 16.00% | ~47 |
 | On the right path | 15.00% | ~44 |
-| It can't be true | 14.00% | ~41 |
+| It can't be true | 15.00% | ~44 |
 | He who seeks, finds! | 12.00% | ~35 |
 | I'm close now | 11.00% | ~32 |
 | Failed attempt | 11.00% | ~32 |

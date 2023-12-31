@@ -4,7 +4,7 @@
   "ProductSlug": "jennifer-wilde-unlikely-revolutionaries-7eda5e",
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 525,
+  "Ranking_EOS_NewPlayers": 495,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-09T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66,
+  "EOS_Progressed": 67,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.55,
+  "EOS_Completed_Percentage": 4.48,
   "EosHistory": [
     {
       "Time": "2023-05-23T11:00:16.5750246+00:00",
@@ -349,6 +349,11 @@
       "Time": "2023-12-28T20:04:19.963935+00:00",
       "NumProgressed": 66,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-31T12:05:34.0816602+00:00",
+      "NumProgressed": 67,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 10,
@@ -398,7 +403,7 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "1ejicho",
       "Name": "Exorcist",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 100,
       "UsersEstimate": 11
     },
@@ -406,7 +411,7 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "1ejicho",
       "Name": "Electrician",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 100,
       "UsersEstimate": 11
     },
@@ -414,7 +419,7 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "1ejicho",
       "Name": "Card Sharp",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 100,
       "UsersEstimate": 9
     },
@@ -422,7 +427,7 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "1ejicho",
       "Name": "Joyrider",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
       "UsersEstimate": 5
     },
@@ -430,7 +435,7 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "1ejicho",
       "Name": "Top Detective",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
       "UsersEstimate": 3
     }
@@ -439,14 +444,14 @@
     {
       "ID": "1ejicho",
       "IsBase": true,
-      "Progressed": 66,
+      "Progressed": 67,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-06-11T16:59:26.254378+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:12.1227021+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:06:08.2677962+00:00",
+  "LastChanged_Achievements": "2023-12-31T12:05:34.0816599+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1235429+00:00",
-  "LastUpdate_Ratings": "2023-12-31T10:58:00.7786984+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:06:08.2678062+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:57:55.7067167+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:05:34.0816692+00:00"
 }

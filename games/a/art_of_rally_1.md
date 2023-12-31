@@ -1,56 +1,56 @@
 # Art of Rally
 [Store](https://store.epicgames.com/en-US/p/art-of-rally)  
 [View Rawdata](../../db/a/art_of_rally_1.json)  
-Rating: 4.66 (Ranked 298)  
+Rating: 4.66 (Ranked 299)  
 Number of Ratings: 56  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 79.00% | ~289,732 |
-| good drivers have dead flies on the side windows | 32.00% | ~117,360 |
-| brail | 26.00% | ~95,355 |
-| keep it tidy | 25.00% | ~91,687 |
-| car wash | 23.00% | ~84,352 |
-| the artist | 23.00% | ~84,352 |
-| podium | 20.00% | ~73,350 |
-| medium attack | 17.00% | ~62,347 |
-| bicycle race | 6.00% | ~22,005 |
-| grocery-getter | 5.00% | ~18,337 |
-| autopilot | 4.00% | ~14,670 |
-| where is the stage? | 3.00% | ~11,002 |
-| night ride | 3.00% | ~11,002 |
-| snorkel | 3.00% | ~11,002 |
-| food tour: pasta | 3.00% | ~11,002 |
-| perkele | 2.00% | ~7,335 |
-| rwd only | 2.00% | ~7,335 |
-| if in doubt, flat out! | 2.00% | ~7,335 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~7,335 |
-| to finish first, first you must finish | 1.00% | ~3,667 |
-| espresso | 1.00% | ~3,667 |
-| turbo | 1.00% | ~3,667 |
-| in like a lamb, out like a lion | 1.00% | ~3,667 |
-| mittens | 1.00% | ~3,667 |
-| food tour: pretzel | 1.00% | ~3,667 |
-| monster | 0.70% | ~2,567 |
-| eurobeat | 0.60% | ~2,200 |
-| viking | 0.50% | ~1,834 |
-| group b | 0.50% | ~1,834 |
-| oktoberfest | 0.40% | ~1,467 |
-| parallel universe | 0.40% | ~1,467 |
-| maximum attack | 0.40% | ~1,467 |
-| samir | 0.40% | ~1,467 |
-| master of rally | 0.30% | ~1,100 |
-| antilag | 0.30% | ~1,100 |
-| real roads, real fast | 0.30% | ~1,100 |
-| parking lot | 0.20% | ~733 |
-| comfy seats | 0.20% | ~733 |
+| light attack | 79.00% | ~289,985 |
+| good drivers have dead flies on the side windows | 32.00% | ~117,462 |
+| brail | 26.00% | ~95,438 |
+| keep it tidy | 25.00% | ~91,768 |
+| car wash | 23.00% | ~84,426 |
+| the artist | 23.00% | ~84,426 |
+| podium | 20.00% | ~73,414 |
+| medium attack | 17.00% | ~62,402 |
+| bicycle race | 6.00% | ~22,024 |
+| grocery-getter | 5.00% | ~18,354 |
+| autopilot | 4.00% | ~14,683 |
+| where is the stage? | 3.00% | ~11,012 |
+| night ride | 3.00% | ~11,012 |
+| snorkel | 3.00% | ~11,012 |
+| food tour: pasta | 3.00% | ~11,012 |
+| perkele | 2.00% | ~7,341 |
+| rwd only | 2.00% | ~7,341 |
+| if in doubt, flat out! | 2.00% | ~7,341 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~7,341 |
+| to finish first, first you must finish | 1.00% | ~3,671 |
+| espresso | 1.00% | ~3,671 |
+| turbo | 1.00% | ~3,671 |
+| in like a lamb, out like a lion | 1.00% | ~3,671 |
+| mittens | 1.00% | ~3,671 |
+| food tour: pretzel | 1.00% | ~3,671 |
+| monster | 0.70% | ~2,569 |
+| eurobeat | 0.60% | ~2,202 |
+| viking | 0.50% | ~1,835 |
+| group b | 0.50% | ~1,835 |
+| oktoberfest | 0.40% | ~1,468 |
+| parallel universe | 0.40% | ~1,468 |
+| maximum attack | 0.40% | ~1,468 |
+| samir | 0.40% | ~1,468 |
+| master of rally | 0.30% | ~1,101 |
+| antilag | 0.30% | ~1,101 |
+| real roads, real fast | 0.30% | ~1,101 |
+| parking lot | 0.20% | ~734 |
+| comfy seats | 0.20% | ~734 |
 | if everything seems under control, you're not going fast enough | 0.10% | ~367 |
 | absolute drift | 0.10% | ~367 |
 | barely keeping it together | 0.10% | ~367 |
 | you're here for a good time, not a long time | 0.10% | ~367 |
 | simulator | 0.10% | ~367 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 366,749 (Ranked 51)  
+Progressed: 367,070 (Ranked 51)  
 Completed: 11 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,11 +235,11 @@ Completed: 11 (0.00%) (Ranked 391)
 | 2023-12-28 | 345,968 | 11 |
 | 2023-12-29 | 354,902 | 11 |
 | 2023-12-30 | 363,610 | 11 |
-| 2023-12-31 | 366,749 | 11 |
+| 2023-12-31 | 367,070 | 11 |
 ## Awards
-Max (Quickly Understood Controls): 30  (Ranked 514)  
+Max (Quickly Understood Controls): 30  (Ranked 515)  
 Sum: 100 (Ranked 462)  
-Diff (max vs sum): 52  
+Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 30 |

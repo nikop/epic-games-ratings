@@ -2,9 +2,9 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 324,
-  "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 575,
+  "Ranking_Rating": 326,
+  "Ranking_Popularity": 576,
+  "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 241,
@@ -53,7 +53,7 @@
   "Tags": [],
   "EOS_Progressed": 1170,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -3813,8 +3813,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:10:59.9548573+00:00",
+  "LastChanged_Achievements": "2023-12-31T12:10:20.6995645+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:02:51.5645508+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:10:59.9549341+00:00"
+  "LastUpdate_Ratings": "2023-12-31T12:03:09.0916567+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:10:20.6996129+00:00"
 }

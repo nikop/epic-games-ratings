@@ -18,7 +18,7 @@
 | Surprise! | 46.00% | ~535 |
 | An Actor! | 46.00% | ~535 |
 | Curtain Call | 45.00% | ~524 |
-| Piece of Cake | 42.00% | ~489 |
+| Piece of Cake | 43.00% | ~501 |
 | Gooey Delight! | 42.00% | ~489 |
 | Glimmer of Hope | 42.00% | ~489 |
 | The Guardian | 41.00% | ~477 |

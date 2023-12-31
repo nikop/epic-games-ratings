@@ -8,12 +8,12 @@ Number of Ratings: 85  (23.09.2022)
 | ---- | ---------- | ----- |
 | Shop Til They Drop | 70.00% | ~178 |
 | Kaijuiced | 68.00% | ~173 |
-| Lie Back and Think of Albion | 61.00% | ~156 |
+| Lie Back and Think of Albion | 62.00% | ~158 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 59.00% | ~150 |
 | I Look Up As I Walk to Takoshima | 57.00% | ~145 |
 | Yettisoned | 55.00% | ~140 |
 | Perfect Probulator | 54.00% | ~138 |
-| Pimp My Raid | 51.00% | ~130 |
+| Pimp My Raid | 52.00% | ~133 |
 | Lobster Blisque | 49.00% | ~125 |
 | Earthly Pleasures | 46.00% | ~117 |
 | Fly Me to the Moon Base | 45.00% | ~115 |
@@ -22,7 +22,7 @@ Number of Ratings: 85  (23.09.2022)
 | Forbidden Donut | 35.00% | ~89 |
 | Bodied Sattva | 34.00% | ~87 |
 | Upgreatest | 33.00% | ~84 |
-| Furon Fashion | 28.00% | ~71 |
+| Furon Fashion | 29.00% | ~74 |
 | Deincarnated | 27.00% | ~69 |
 | Rock of the Bay | 24.00% | ~61 |
 | Trans-Siberian Express | 23.00% | ~59 |
@@ -67,8 +67,8 @@ Completed: 3 (1.18%) (Ranked 161)
 | 2023-12-30 | 250 | 3 |
 | 2023-12-31 | 255 | 3 |
 ## Awards
-Max (Great Boss Battles): 34  (Ranked 501)  
-Sum: 34 (Ranked 526)  
+Max (Great Boss Battles): 34  (Ranked 502)  
+Sum: 34 (Ranked 527)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |

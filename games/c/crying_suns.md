@@ -57,7 +57,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | A Frozen Lady | 1.00% | ~4,731 |
 | Void Rule | 1.00% | ~4,731 |
 | Excelsior Mastery | 0.90% | ~4,258 |
-| Hand of the Emperor | 0.60% | ~102 |
+| Hand of the Emperor | 0.70% | ~119 |
 | The greatest admiral of all time | 0.50% | ~2,366 |
 | Soldiers of Fortune | 0.40% | ~68 |
 | The Extractor | 0.20% | ~34 |

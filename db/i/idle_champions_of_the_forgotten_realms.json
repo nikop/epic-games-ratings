@@ -9217,10 +9217,10 @@
       "Count": 3614
     }
   ],
-  "EOS_Progressed": 248267,
-  "EOS_Completed": 2579,
-  "EOS_NewPlayers": 4202,
-  "EOS_NewCompleters": 21,
+  "EOS_Progressed": 248301,
+  "EOS_Completed": 2580,
+  "EOS_NewPlayers": 4218,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -38067,6 +38067,11 @@
       "Time": "2023-12-31T11:11:10.0144121+00:00",
       "NumProgressed": 248267,
       "NumCompleted": 2579
+    },
+    {
+      "Time": "2023-12-31T12:10:29.5787343+00:00",
+      "NumProgressed": 248301,
+      "NumCompleted": 2580
     }
   ],
   "TotalAchievements": 546,
@@ -38078,7 +38083,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7448
+      "UsersEstimate": 7449
     },
     {
       "ID": "objective_completed_10",
@@ -39758,7 +39763,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "objective_completed_35",
@@ -42445,21 +42450,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 214541,
-      "Completed": 4109
+      "Progressed": 214575,
+      "Completed": 4110
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 248267,
-      "Completed": 2579
+      "Progressed": 248301,
+      "Completed": 2580
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-31T04:01:41.7646782+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:11:10.0144118+00:00",
+  "LastChanged_Achievements": "2023-12-31T12:10:29.5787339+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2023-12-31T10:57:14.023796+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:11:10.0168542+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:57:21.4465529+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:10:29.5813356+00:00"
 }

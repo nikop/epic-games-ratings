@@ -2,7 +2,7 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 324,
+  "Ranking_Rating": 326,
   "Ranking_Popularity": 284,
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 165,
@@ -19066,9 +19066,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_BRILLIANT",
       "SetID": "9201eeb",
       "Name": "Brilliant",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CAPABLE",
@@ -21560,8 +21560,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-29T16:02:55.9624641+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:11:08.7160765+00:00",
+  "LastChanged_Achievements": "2023-12-31T12:10:28.4932365+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2023-12-31T11:03:12.9865413+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:11:08.7171133+00:00"
+  "LastUpdate_Ratings": "2023-12-31T12:03:24.0901656+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:10:28.4943048+00:00"
 }

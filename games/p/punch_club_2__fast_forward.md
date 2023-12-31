@@ -4,40 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 88.00% | ~442 |
-| Your first fight | 85.00% | ~427 |
+| Such a strange dream… | 88.00% | ~443 |
+| Your first fight | 85.00% | ~428 |
 | Good Person Chip | 83.00% | ~417 |
 | First winning | 81.00% | ~407 |
 | Your first job | 80.00% | ~402 |
-| Depressed visitor | 75.00% | ~376 |
-| Old movies enjoyer | 74.00% | ~371 |
-| Neurotrainer – power gainer! | 74.00% | ~371 |
-| Fitness professional | 73.00% | ~366 |
-| Employee of the week | 73.00% | ~366 |
-| Your own amateur gym | 68.00% | ~341 |
-| Run K, run! | 67.00% | ~336 |
-| First defeat | 66.00% | ~331 |
-| Hello, world! | 66.00% | ~331 |
-| Fighting is cool | 64.00% | ~321 |
-| No bullying more | 64.00% | ~321 |
-| Pal of your father? | 62.00% | ~311 |
-| Spirit of the past | 60.00% | ~301 |
-| Employee of the month | 59.00% | ~296 |
-| Law student | 57.00% | ~286 |
-| Workout professional | 55.00% | ~276 |
-| Handyman | 55.00% | ~276 |
-| Little hacker | 54.00% | ~271 |
-| Champion – starter pack | 54.00% | ~271 |
-| It's good to be alive | 54.00% | ~271 |
-| Fight for life | 53.00% | ~266 |
-| Own four walls | 53.00% | ~266 |
-| Intriguing candies | 53.00% | ~266 |
-| Employee of the year | 53.00% | ~266 |
+| Depressed visitor | 75.00% | ~377 |
+| Old movies enjoyer | 74.00% | ~372 |
+| Neurotrainer – power gainer! | 74.00% | ~372 |
+| Fitness professional | 73.00% | ~367 |
+| Employee of the week | 72.00% | ~362 |
+| Your own amateur gym | 68.00% | ~342 |
+| Run K, run! | 67.00% | ~337 |
+| First defeat | 66.00% | ~332 |
+| Hello, world! | 65.00% | ~327 |
+| No bullying more | 64.00% | ~322 |
+| Fighting is cool | 63.00% | ~317 |
+| Pal of your father? | 62.00% | ~312 |
+| Spirit of the past | 60.00% | ~302 |
+| Employee of the month | 59.00% | ~297 |
+| Law student | 57.00% | ~287 |
+| Handyman | 55.00% | ~277 |
+| Workout professional | 54.00% | ~272 |
+| Little hacker | 54.00% | ~272 |
+| Champion – starter pack | 54.00% | ~272 |
+| It's good to be alive | 54.00% | ~272 |
+| Fight for life | 53.00% | ~267 |
+| Own four walls | 53.00% | ~267 |
+| Intriguing candies | 53.00% | ~267 |
+| Employee of the year | 53.00% | ~267 |
 | Legal courier | 49.00% | ~246 |
 | Extreme neuropower! | 49.00% | ~246 |
 | Escaped from a big trouble | 47.00% | ~236 |
 | Now you are worthy | 42.00% | ~211 |
-| Fight is life | 41.00% | ~206 |
+| Fight is life | 42.00% | ~211 |
 | Mysterious voice | 41.00% | ~206 |
 | Guiding on the right path | 41.00% | ~206 |
 | No blades in the gym | 39.00% | ~196 |
@@ -52,9 +52,9 @@
 | The die is cast | 34.00% | ~171 |
 | Gang wrangler | 32.00% | ~161 |
 | Seashell hunter | 32.00% | ~161 |
+| Absolute Champion! | 31.00% | ~156 |
 | Undercover robot | 31.00% | ~156 |
 | Problems of cyborgs | 30.00% | ~151 |
-| Absolute Champion! | 30.00% | ~151 |
 | Not little hacker | 29.00% | ~146 |
 | Your own way | 29.00% | ~146 |
 | Trap disarmed | 28.00% | ~141 |
@@ -71,7 +71,7 @@
 | Silver’s past | 25.00% | ~126 |
 | The only right decision | 25.00% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 502 (Ranked 342)  
+Progressed: 503 (Ranked 342)  
 Completed: 9 (1.79%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,3 +181,4 @@ Completed: 9 (1.79%) (Ranked 141)
 | 2023-12-28 | 492 | 9 |
 | 2023-12-29 | 497 | 9 |
 | 2023-12-30 | 502 | 9 |
+| 2023-12-31 | 503 | 9 |

@@ -26,7 +26,7 @@ Rating: 4.81 (Ranked 84)
 | Whispers in the Woods I | 27.00% | ~856 |
 | I chose my shackles | 27.00% | ~856 |
 | Ancient power | 27.00% | ~856 |
-| Sacred Woods | 25.00% | ~793 |
+| Sacred Woods | 26.00% | ~824 |
 | Little light | 24.00% | ~761 |
 | Glyndemere | 23.00% | ~729 |
 | Capelworth | 23.00% | ~729 |
@@ -52,9 +52,9 @@ Rating: 4.81 (Ranked 84)
 | Call it 'redistribution of magic | 13.00% | ~412 |
 | Do you trust me? | 12.00% | ~381 |
 | Back to sleep, then... | 12.00% | ~381 |
+| Chains master | 11.00% | ~349 |
 | The great mage rebellion starts now | 11.00% | ~349 |
 | You can pet the... horse | 11.00% | ~349 |
-| Chains master | 10.00% | ~317 |
 | Spellcrafting | 10.00% | ~317 |
 | Silverwing nest | 2.00% | ~63 |
 | The Unshackled | 1.00% | ~32 |

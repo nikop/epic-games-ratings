@@ -5,24 +5,24 @@ Rating: 4.28 (Ranked 881)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~165,406 |
-| Copacetic Coordination | 16.00% | ~57,532 |
-| Fronting the Money | 15.00% | ~53,937 |
-| The Dawn of Automation | 14.00% | ~50,341 |
-| Extraordinary Logistics | 14.00% | ~50,341 |
-| Dirty Money | 13.00% | ~46,745 |
-| Family First | 13.00% | ~46,745 |
-| Cleaning House | 12.00% | ~43,149 |
-| Room in the Back | 12.00% | ~43,149 |
+| Corner Clout | 46.00% | ~165,409 |
+| Copacetic Coordination | 16.00% | ~57,534 |
+| Fronting the Money | 15.00% | ~53,938 |
+| The Dawn of Automation | 14.00% | ~50,342 |
+| Extraordinary Logistics | 14.00% | ~50,342 |
+| Dirty Money | 13.00% | ~46,746 |
+| Family First | 13.00% | ~46,746 |
+| Cleaning House | 12.00% | ~43,150 |
+| Room in the Back | 12.00% | ~43,150 |
 | Beating the Heat | 11.00% | ~39,554 |
 | Booze Baron | 11.00% | ~39,554 |
 | Friends on the Force | 10.00% | ~35,958 |
 | Neighborhood Watch | 10.00% | ~35,958 |
-| Core Corps | 8.00% | ~28,766 |
-| Sizeable Stash | 8.00% | ~28,766 |
-| Street Fighter | 7.00% | ~25,170 |
-| Friendly Gestures | 7.00% | ~25,170 |
-| People Person | 7.00% | ~25,170 |
+| Core Corps | 8.00% | ~28,767 |
+| Sizeable Stash | 8.00% | ~28,767 |
+| Street Fighter | 7.00% | ~25,171 |
+| Friendly Gestures | 7.00% | ~25,171 |
+| People Person | 7.00% | ~25,171 |
 | Liquor Lord | 6.00% | ~21,575 |
 | Safety in Numbers | 6.00% | ~21,575 |
 | Moving Experiences | 6.00% | ~21,575 |
@@ -42,12 +42,12 @@ Rating: 4.28 (Ranked 881)
 | Friends from Back Home | 4.00% | ~14,383 |
 | Bees Knees Bootlegger | 4.00% | ~14,383 |
 | Half Century Mark | 4.00% | ~14,383 |
-| Corner Opportunities | 3.00% | ~10,787 |
-| 2122 North Clark Street | 3.00% | ~10,787 |
-| Copious Cabbage | 3.00% | ~10,787 |
-| Sockdolager | 3.00% | ~10,787 |
-| Still Stalwart | 3.00% | ~10,787 |
-| Tighten the Screws | 3.00% | ~10,787 |
+| Corner Opportunities | 3.00% | ~10,788 |
+| 2122 North Clark Street | 3.00% | ~10,788 |
+| Copious Cabbage | 3.00% | ~10,788 |
+| Sockdolager | 3.00% | ~10,788 |
+| Still Stalwart | 3.00% | ~10,788 |
+| Tighten the Screws | 3.00% | ~10,788 |
 | One of Us | 2.00% | ~7,192 |
 | Baker’s Dozen | 2.00% | ~7,192 |
 | Dropping the Dime | 2.00% | ~7,192 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 881)
 | High Pillow | 0.10% | ~360 |
 | Station Master | 0.10% | ~360 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 359,578 (Ranked 52)  
+Progressed: 359,585 (Ranked 52)  
 Completed: 7 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,10 +341,10 @@ Completed: 7 (0.00%) (Ranked 391)
 | 2023-12-28 | 359,078 | 7 |
 | 2023-12-29 | 359,297 | 7 |
 | 2023-12-30 | 359,491 | 7 |
-| 2023-12-31 | 359,578 | 7 |
+| 2023-12-31 | 359,585 | 7 |
 ## Awards
 Max (Great for Beginners): 57  (Ranked 430)  
-Sum: 265 (Ranked 393)  
+Sum: 266 (Ranked 393)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
@@ -352,7 +352,7 @@ Diff (max vs sum): 37
 | This game is Highly Recommended | 39 |
 | This game is Relaxing | 34 |
 | This game is Extremely Fun | 33 |
-| This game has Diverse Characters | 31 |
+| This game has Diverse Characters | 32 |
 | This game has Quickly Understood Controls | 28 |
 | This game has Easy Combat | 25 |
 | This game has Amazing Storytelling | 22 |
@@ -489,3 +489,4 @@ Diff (max vs sum): 37
 | 2023-12-28 | 4.29 | 57 | 264 |
 | 2023-12-29 | 4.29 | 57 | 265 |
 | 2023-12-30 | 4.28 | 57 | 265 |
+| 2023-12-31 | 4.28 | 57 | 266 |

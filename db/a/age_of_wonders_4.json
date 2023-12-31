@@ -4,7 +4,7 @@
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 357,
   "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 435,
+  "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 157,
@@ -657,9 +657,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6594,
+  "EOS_Progressed": 6596,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 489,
+  "EOS_NewPlayers": 483,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9857,6 +9857,11 @@
       "Time": "2023-12-31T11:07:19.0013822+00:00",
       "NumProgressed": 6594,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-31T12:06:27.202873+00:00",
+      "NumProgressed": 6596,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9980,7 +9985,7 @@
       "Name": "Realm Estate",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "23",
@@ -9988,7 +9993,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "24",
@@ -10004,7 +10009,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "26",
@@ -10028,7 +10033,7 @@
       "Name": "From Friends to Family",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "29",
@@ -10347,13 +10352,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6594,
+      "Progressed": 6596,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6594,
+      "Progressed": 6596,
       "Completed": 7
     }
   ],
@@ -10361,8 +10366,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-31T09:58:31.9024094+00:00",
-  "LastChanged_Achievements": "2023-12-31T11:07:19.0013818+00:00",
+  "LastChanged_Achievements": "2023-12-31T12:06:27.2028727+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2023-12-31T10:59:19.513852+00:00",
-  "LastUpdate_Achievements": "2023-12-31T11:07:19.0014565+00:00"
+  "LastUpdate_Ratings": "2023-12-31T11:58:54.8021624+00:00",
+  "LastUpdate_Achievements": "2023-12-31T12:06:27.2029491+00:00"
 }
