@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 69,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -91,11 +91,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2082,
-  "EOS_Completed": 125,
-  "EOS_NewPlayers": 396,
-  "EOS_NewCompleters": 34,
-  "EOS_Completed_Percentage": 6,
+  "EOS_Progressed": 2083,
+  "EOS_Completed": 127,
+  "EOS_NewPlayers": 394,
+  "EOS_NewCompleters": 36,
+  "EOS_Completed_Percentage": 6.1,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -5851,6 +5851,11 @@
       "Time": "2023-12-31T05:05:52.2921012+00:00",
       "NumProgressed": 2082,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-12-31T06:07:46.1665113+00:00",
+      "NumProgressed": 2083,
+      "NumCompleted": 127
     }
   ],
   "TotalAchievements": 25,
@@ -5910,7 +5915,7 @@
       "Name": "Open door",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "META_RESULT_1-3",
@@ -5950,7 +5955,7 @@
       "Name": "A Link to the Past",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -6006,7 +6011,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -6022,7 +6027,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "PROGRESS_N2",
@@ -6030,7 +6035,7 @@
       "Name": "The great escape",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "PROGRESS_N3",
@@ -6061,16 +6066,16 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2082,
-      "Completed": 125
+      "Progressed": 2083,
+      "Completed": 127
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-30T06:59:31.3780132+00:00",
-  "LastChanged_Achievements": "2023-12-31T05:05:52.2921007+00:00",
+  "LastChanged_Achievements": "2023-12-31T06:07:46.1665105+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2023-12-31T04:59:59.1879623+00:00",
-  "LastUpdate_Achievements": "2023-12-31T05:05:52.2921519+00:00"
+  "LastUpdate_Ratings": "2023-12-31T06:01:27.0321506+00:00",
+  "LastUpdate_Achievements": "2023-12-31T06:07:46.1665832+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 589,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
-  "Ranking_EOS_Progress": 261,
+  "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -4648,9 +4648,9 @@
       "ID": "GSS_ACH_65_POPULARITY_05",
       "SetID": "5fn8ia4",
       "Name": "Talk of the Town",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 903
+      "UsersEstimate": 918
     },
     {
       "ID": "GSS_ACH_66_POPULARITY_06",
@@ -4801,8 +4801,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-30T13:03:18.5832647+00:00",
-  "LastChanged_Achievements": "2023-12-31T05:04:25.3947498+00:00",
+  "LastChanged_Achievements": "2023-12-31T06:05:46.3805182+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:05.7719462+00:00",
-  "LastUpdate_Ratings": "2023-12-31T04:57:09.3359801+00:00",
-  "LastUpdate_Achievements": "2023-12-31T05:04:25.3948384+00:00"
+  "LastUpdate_Ratings": "2023-12-31T05:57:10.7944639+00:00",
+  "LastUpdate_Achievements": "2023-12-31T06:05:46.3806021+00:00"
 }

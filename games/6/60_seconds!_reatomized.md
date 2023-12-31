@@ -17,14 +17,14 @@ Rating: 4.52 (Ranked 570)
 | The Dark Side | 71.00% | ~4,256 |
 | Souper! | 66.00% | ~3,957 |
 | Duck and cover! | 66.00% | ~3,957 |
+| 2-1-6 | 60.00% | ~3,597 |
 | Pacifist | 60.00% | ~3,597 |
-| 2-1-6 | 59.00% | ~3,537 |
 | A gift | 55.00% | ~3,297 |
 | Girl Power | 49.00% | ~2,938 |
 | What goes around... | 45.00% | ~2,698 |
 | Be Prepared | 39.00% | ~2,338 |
 | Unbreakable | 37.00% | ~2,218 |
-| Gotta get 'em all | 34.00% | ~2,038 |
+| Gotta get 'em all | 35.00% | ~2,098 |
 | This is the end | 34.00% | ~2,038 |
 | Atomic drill | 32.00% | ~1,918 |
 | Disco Roach | 29.00% | ~1,739 |

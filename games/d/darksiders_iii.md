@@ -6,36 +6,36 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 79.00% | ~256 |
+| Green with Envy | 78.00% | ~254 |
 | First of many… | 70.00% | ~227 |
 | Helping Hand | 66.00% | ~214 |
-| Increased Vigor | 60.00% | ~194 |
+| Increased Vigor | 60.00% | ~195 |
 | Fight Fire with Fire | 58.00% | ~188 |
-| Increased Capacity | 54.00% | ~175 |
+| Increased Capacity | 54.00% | ~176 |
 | Just the start | 50.00% | ~162 |
-| Perfect Storm | 46.00% | ~149 |
-| All That Glitters | 46.00% | ~149 |
-| Enhance! | 43.00% | ~139 |
+| Perfect Storm | 46.00% | ~150 |
+| All That Glitters | 46.00% | ~150 |
+| Enhance! | 43.00% | ~140 |
 | One Of the Chosen | 41.00% | ~133 |
 | Throne Potato | 40.00% | ~130 |
-| Devil's in the Details | 39.00% | ~126 |
-| Five's a Crowd | 38.00% | ~123 |
-| 25 to Life | 38.00% | ~123 |
+| Devil's in the Details | 38.00% | ~124 |
+| Five's a Crowd | 38.00% | ~124 |
+| 25 to Life | 38.00% | ~124 |
+| Soul Harvester | 36.00% | ~117 |
 | Salvation | 36.00% | ~117 |
-| Soul Harvester | 35.00% | ~113 |
-| Unshakable Fortitude | 34.00% | ~110 |
-| Delusions of Grandeur | 31.00% | ~100 |
-| Maximum Vigor | 30.00% | ~97 |
-| I Wanna Rock | 30.00% | ~97 |
+| Unshakable Fortitude | 34.00% | ~111 |
+| Maximum Vigor | 30.00% | ~98 |
+| I Wanna Rock | 30.00% | ~98 |
+| Delusions of Grandeur | 30.00% | ~98 |
 | Love Tap | 29.00% | ~94 |
-| Freeze Frame | 27.00% | ~87 |
-| Eat Your Heart Out | 27.00% | ~87 |
-| For Whom the Bell Tolls | 27.00% | ~87 |
+| Freeze Frame | 27.00% | ~88 |
+| Eat Your Heart Out | 26.00% | ~84 |
+| For Whom the Bell Tolls | 26.00% | ~84 |
 | Big Spender | 25.00% | ~81 |
 | Unyielding Strength | 23.00% | ~75 |
-| Can you restore the Balance? | 23.00% | ~75 |
-| Cleanup Crew | 22.00% | ~71 |
-| Crowd Source | 22.00% | ~71 |
+| Cleanup Crew | 22.00% | ~72 |
+| Can you restore the Balance? | 22.00% | ~72 |
+| Crowd Source | 22.00% | ~72 |
 | Maximum Capacity | 19.00% | ~62 |
 | Demon Meddler | 19.00% | ~62 |
 | Seeing Red | 19.00% | ~62 |
@@ -51,7 +51,7 @@ Number of Ratings: 116  (23.09.2022)
 | Demon Keeper | 8.00% | ~26 |
 | Soul Reaper | 7.00% | ~23 |
 | Humanitarian | 7.00% | ~23 |
-| My Evil Twin | 6.00% | ~19 |
+| My Evil Twin | 6.00% | ~20 |
 | Keeper of the Bonfire | 5.00% | ~16 |
 | Keeper of the Sky | 5.00% | ~16 |
 | "Impressive!" | 4.00% | ~13 |
@@ -71,8 +71,8 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 0.60% | ~2 |
 | Beast Mode | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 324 (Ranked 378)  
-Completed: 1 (0.31%) (Ranked 250)  
+Progressed: 325 (Ranked 378)  
+Completed: 1 (0.31%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -87,7 +87,7 @@ Completed: 1 (0.31%) (Ranked 250)
 | 2023-12-28 | 265 | 1 |
 | 2023-12-29 | 293 | 1 |
 | 2023-12-30 | 320 | 1 |
-| 2023-12-31 | 324 | 1 |
+| 2023-12-31 | 325 | 1 |
 ## Awards
 Max (Great Boss Battles): 94  (Ranked 386)  
 Sum: 94 (Ranked 467)  

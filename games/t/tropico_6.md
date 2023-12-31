@@ -6,21 +6,21 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 74.00% | ~5,019 |
-| Un-Lonely Island | 45.00% | ~3,052 |
+| Just One...More...Term... | 74.00% | ~5,020 |
+| Un-Lonely Island | 45.00% | ~3,053 |
 | The Beginning of a Servantship | 44.00% | ~2,985 |
 | Trade Is My Trait | 36.00% | ~2,442 |
 | Number 18 | 23.00% | ~1,560 |
 | We Don't Have Time For That | 18.00% | ~1,221 |
 | The Governator | 17.00% | ~1,153 |
 | The Legend of Langostino | 16.00% | ~1,085 |
-| Caribbean Comrade | 15.00% | ~1,017 |
-| The Dreamer of Dreams | 15.00% | ~1,017 |
+| Caribbean Comrade | 15.00% | ~1,018 |
+| The Dreamer of Dreams | 15.00% | ~1,018 |
 | Go Sovereigns! | 11.00% | ~746 |
 | For Science! | 11.00% | ~746 |
 | Happy Ending? | 10.00% | ~678 |
-| Of Seals And Men | 9.00% | ~610 |
-| Shackadelic | 9.00% | ~610 |
+| Of Seals And Men | 9.00% | ~611 |
+| Shackadelic | 9.00% | ~611 |
 | Double Trouble | 8.00% | ~543 |
 | Firestarter | 8.00% | ~543 |
 | I Owe You Nothing | 7.00% | ~475 |
@@ -32,10 +32,10 @@ Number of Ratings: 398  (23.09.2022)
 | Computer Says "No" | 5.00% | ~339 |
 | Watch The World Burn | 5.00% | ~339 |
 | Fairy Tale Come True | 5.00% | ~339 |
-| Been there, Done That | 3.00% | ~203 |
-| Apocalypso | 3.00% | ~203 |
-| Narcissist | 3.00% | ~203 |
-| The Time For Wonders | 3.00% | ~203 |
+| Been there, Done That | 3.00% | ~204 |
+| Apocalypso | 3.00% | ~204 |
+| Narcissist | 3.00% | ~204 |
+| The Time For Wonders | 3.00% | ~204 |
 | One Does Not Simply Stage A Coup | 2.00% | ~136 |
 | Promising Endeavors | 2.00% | ~136 |
 | Sublime Subliminal Supreme | 2.00% | ~136 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~54 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,783 (Ranked 194)  
+Progressed: 6,784 (Ranked 194)  
 Completed: 2 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 2 (0.03%) (Ranked 350)
 | 2023-12-28 | 6,725 | 2 |
 | 2023-12-29 | 6,753 | 2 |
 | 2023-12-30 | 6,780 | 2 |
-| 2023-12-31 | 6,783 | 2 |
+| 2023-12-31 | 6,784 | 2 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 368)  
 Sum: 749 (Ranked 298)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -907,9 +907,9 @@
       "ID": "ach-paleMask-party",
       "SetID": "17ih7ma",
       "Name": "Uncertain Loyalties",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 100
     },
     {
       "ID": "ach-portal-return",
@@ -1028,8 +1028,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-31T05:09:46.1571583+00:00",
+  "LastChanged_Achievements": "2023-12-31T06:11:20.8487369+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:12.3485961+00:00",
-  "LastUpdate_Ratings": "2023-12-31T04:58:02.0837308+00:00",
-  "LastUpdate_Achievements": "2023-12-31T05:09:46.1572165+00:00"
+  "LastUpdate_Ratings": "2023-12-31T05:58:28.7509811+00:00",
+  "LastUpdate_Achievements": "2023-12-31T06:11:20.8487845+00:00"
 }

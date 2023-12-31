@@ -13,6 +13,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | That Was Quick | 0.90% | ~2,179 |
 | Colorful Corpse | 0.90% | ~2,179 |
 | Defeat The Dark | 0.90% | ~2,179 |
+| A Donation | 0.90% | ~2,179 |
 | A Quick Escape | 0.90% | ~2,179 |
 | Explorer | 0.90% | ~2,179 |
 | An Offering | 0.90% | ~2,179 |
@@ -22,7 +23,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Goodbye, Frog Friend | 0.80% | ~1,937 |
 | Heartless | 0.80% | ~1,937 |
 | Spine Breaker | 0.80% | ~1,937 |
-| A Donation | 0.80% | ~1,937 |
 | C-C-Combo | 0.80% | ~1,937 |
 | Deflection | 0.80% | ~1,937 |
 | Ambitious Intent | 0.70% | ~1,695 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,072 (Ranked 71)  
+Progressed: 242,075 (Ranked 71)  
 Completed: 302 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -400,10 +400,10 @@ Completed: 302 (0.12%) (Ranked 301)
 | 2023-12-28 | 241,919 | 302 |
 | 2023-12-29 | 241,985 | 302 |
 | 2023-12-30 | 242,061 | 302 |
-| 2023-12-31 | 242,072 | 302 |
+| 2023-12-31 | 242,075 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 134)  
-Sum: 11,770 (Ranked 88)  
+Sum: 11,771 (Ranked 88)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
@@ -414,7 +414,7 @@ Diff (max vs sum): 46
 | This game is Extremely Fun | 1,422 |
 | This game is Highly Recommended | 1,395 |
 | This game has Amazing Storytelling | 1,332 |
-| This game has Amazing Characters | 1,234 |
+| This game has Amazing Characters | 1,235 |
 | This game has Unique Visuals | 1,234 |
 | This game has Obsessive Gameplay | 1,088 |
 | This game has a Creative Community | 748 |
@@ -667,3 +667,4 @@ Diff (max vs sum): 46
 | 2023-12-28 | 4.58 | - | 1,512 | 11,768 |
 | 2023-12-29 | 4.58 | - | 1,513 | 11,769 |
 | 2023-12-30 | 4.58 | - | 1,513 | 11,770 |
+| 2023-12-31 | 4.58 | - | 1,513 | 11,771 |

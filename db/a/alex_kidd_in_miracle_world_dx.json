@@ -4,8 +4,8 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 363,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 394,
+  "EOS_Progressed": 395,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.02,
+  "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.0192053+00:00",
@@ -814,6 +814,11 @@
       "Time": "2023-12-31T04:06:01.9234041+00:00",
       "NumProgressed": 394,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-31T06:06:05.1426025+00:00",
+      "NumProgressed": 395,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -871,9 +876,9 @@
       "ID": "GOOSEKA_DEFEATED",
       "SetID": "7im05fi",
       "Name": "First Commander",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 71
+      "UsersEstimate": 67
     },
     {
       "ID": "GRIZZLY_DEFEATED",
@@ -889,7 +894,7 @@
       "Name": "Janken The Great",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "LEVEL_04",
@@ -921,7 +926,7 @@
       "Name": "Wild Ox",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -952,7 +957,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 394,
+      "Progressed": 395,
       "Completed": 4
     }
   ],
@@ -960,8 +965,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-12-31T05:04:39.1199971+00:00",
+  "LastChanged_Achievements": "2023-12-31T06:06:05.1426021+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:25.7594248+00:00",
-  "LastUpdate_Ratings": "2023-12-31T04:58:36.9771028+00:00",
-  "LastUpdate_Achievements": "2023-12-31T05:04:39.1200094+00:00"
+  "LastUpdate_Ratings": "2023-12-31T05:59:22.743387+00:00",
+  "LastUpdate_Achievements": "2023-12-31T06:06:05.1426148+00:00"
 }

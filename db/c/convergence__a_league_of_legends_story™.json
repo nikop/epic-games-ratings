@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1166,
+  "EOS_Progressed": 1167,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -3361,6 +3361,11 @@
       "Time": "2023-12-31T01:59:55.3451744+00:00",
       "NumProgressed": 1166,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-31T06:11:15.2561854+00:00",
+      "NumProgressed": 1167,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3492,7 +3497,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3604,7 +3609,7 @@
       "Name": "A Lesson in Precision",
       "Percentage": 0.9,
       "XP": 60,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ParallelConvergenceMultiHit1",
@@ -3660,7 +3665,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "RewindParry",
@@ -3795,7 +3800,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1166,
+      "Progressed": 1167,
       "Completed": 6
     }
   ],
@@ -3803,8 +3808,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-31T05:09:41.7172025+00:00",
+  "LastChanged_Achievements": "2023-12-31T06:11:15.256185+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2023-12-31T05:00:30.4744169+00:00",
-  "LastUpdate_Achievements": "2023-12-31T05:09:41.7172492+00:00"
+  "LastUpdate_Ratings": "2023-12-31T06:03:03.6355347+00:00",
+  "LastUpdate_Achievements": "2023-12-31T06:11:15.2562709+00:00"
 }

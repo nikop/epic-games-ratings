@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1937,9 +1937,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 20182,
+  "EOS_Progressed": 20186,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1254,
+  "EOS_NewPlayers": 1252,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -11912,6 +11912,11 @@
       "Time": "2023-12-31T05:09:08.5857172+00:00",
       "NumProgressed": 20182,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-12-31T06:10:31.9206757+00:00",
+      "NumProgressed": 20186,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -11955,7 +11960,7 @@
       "Name": "Flesh Wound",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4036
+      "UsersEstimate": 4037
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -12043,7 +12048,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1816
+      "UsersEstimate": 1817
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -12051,7 +12056,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 3229
+      "UsersEstimate": 3230
     },
     {
       "ID": "KILL_ROBOT",
@@ -12083,15 +12088,15 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2825
+      "UsersEstimate": 2826
     },
     {
       "ID": "PRINT_UPGRADE",
       "SetID": "4hj6d86",
       "Name": "Reforged",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2825
+      "UsersEstimate": 3028
     },
     {
       "ID": "PRINT_WEAPON",
@@ -12115,7 +12120,7 @@
       "Name": "The Outer Way",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 4238
+      "UsersEstimate": 4239
     },
     {
       "ID": "STORY_ESCAPE",
@@ -12139,7 +12144,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2018
+      "UsersEstimate": 2019
     },
     {
       "ID": "STORY_MINETOWN",
@@ -12163,7 +12168,7 @@
       "Name": "Crash Site",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1816
+      "UsersEstimate": 1817
     },
     {
       "ID": "STORY_TOWER",
@@ -12179,7 +12184,7 @@
       "Name": "Power Up",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1816
+      "UsersEstimate": 1817
     },
     {
       "ID": "DISMEMBER_100",
@@ -12275,7 +12280,7 @@
       "Name": "Keep Fighting",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -12283,7 +12288,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -12298,13 +12303,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 20182,
+      "Progressed": 20186,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 8108,
+      "Progressed": 8112,
       "Completed": 29
     }
   ],
@@ -12312,8 +12317,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-12-31T02:28:07.1618357+00:00",
-  "LastChanged_Achievements": "2023-12-31T05:09:08.5857166+00:00",
+  "LastChanged_Achievements": "2023-12-31T06:10:31.9206753+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.412859+00:00",
-  "LastUpdate_Ratings": "2023-12-31T05:02:59.1734638+00:00",
-  "LastUpdate_Achievements": "2023-12-31T05:09:08.5857895+00:00"
+  "LastUpdate_Ratings": "2023-12-31T06:03:44.5684189+00:00",
+  "LastUpdate_Achievements": "2023-12-31T06:10:31.9207705+00:00"
 }

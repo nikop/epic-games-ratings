@@ -21,17 +21,17 @@ Rating: 4.50 (Ranked 612)
 | Ghostbuster In Training | 4.00% | ~1,319 |
 | There you are! | 4.00% | ~1,319 |
 | Whoopsie | 4.00% | ~1,319 |
-| Animated | 3.00% | ~989 |
-| Back Off | 3.00% | ~989 |
-| We have the best insurance | 3.00% | ~989 |
-| Ectoplasmic Entity | 3.00% | ~989 |
-| Icing on the Cake | 3.00% | ~989 |
-| Legions | 3.00% | ~989 |
-| Pesky Jerks | 3.00% | ~989 |
-| Right back at ya | 3.00% | ~989 |
-| Seasoned | 3.00% | ~989 |
-| Side Hustle | 3.00% | ~989 |
-| Summoner | 3.00% | ~989 |
+| Animated | 3.00% | ~990 |
+| Back Off | 3.00% | ~990 |
+| We have the best insurance | 3.00% | ~990 |
+| Ectoplasmic Entity | 3.00% | ~990 |
+| Icing on the Cake | 3.00% | ~990 |
+| Legions | 3.00% | ~990 |
+| Pesky Jerks | 3.00% | ~990 |
+| Right back at ya | 3.00% | ~990 |
+| Seasoned | 3.00% | ~990 |
+| Side Hustle | 3.00% | ~990 |
+| Summoner | 3.00% | ~990 |
 | Collector | 2.00% | ~660 |
 | Escape Artist | 2.00% | ~660 |
 | Reckless | 2.00% | ~660 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 612)
 | Ultimate Defense | 0.20% | ~66 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,982 (Ranked 134)  
+Progressed: 32,985 (Ranked 134)  
 Completed: 71 (0.22%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 71 (0.22%) (Ranked 270)
 | 2023-12-28 | 32,854 | 70 |
 | 2023-12-29 | 32,915 | 71 |
 | 2023-12-30 | 32,969 | 71 |
-| 2023-12-31 | 32,982 | 71 |
+| 2023-12-31 | 32,985 | 71 |
 ## Awards
 Max (Great for Beginners): 326  (Ranked 255)  
 Sum: 2,940 (Ranked 184)  

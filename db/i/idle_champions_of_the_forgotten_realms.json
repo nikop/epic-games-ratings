@@ -9217,9 +9217,9 @@
       "Count": 3614
     }
   ],
-  "EOS_Progressed": 248094,
+  "EOS_Progressed": 248126,
   "EOS_Completed": 2579,
-  "EOS_NewPlayers": 4103,
+  "EOS_NewPlayers": 4121,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -38037,6 +38037,11 @@
       "Time": "2023-12-31T05:09:50.4436915+00:00",
       "NumProgressed": 248094,
       "NumCompleted": 2579
+    },
+    {
+      "Time": "2023-12-31T06:11:25.7931993+00:00",
+      "NumProgressed": 248126,
+      "NumCompleted": 2579
     }
   ],
   "TotalAchievements": 546,
@@ -38048,7 +38053,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4962
+      "UsersEstimate": 4963
     },
     {
       "ID": "objective_completed_10",
@@ -38912,7 +38917,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "objective_completed_1203",
@@ -39728,7 +39733,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1241
     },
     {
       "ID": "objective_completed_35",
@@ -39912,7 +39917,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "objective_completed_40",
@@ -42368,7 +42373,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "objective_completed_673",
@@ -42376,7 +42381,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "objective_completed_678",
@@ -42384,7 +42389,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "objective_completed_683",
@@ -42392,7 +42397,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "objective_completed_860",
@@ -42400,7 +42405,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "objective_completed_865",
@@ -42415,21 +42420,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 214368,
+      "Progressed": 214400,
       "Completed": 4104
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 248094,
+      "Progressed": 248126,
       "Completed": 2579
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-31T04:01:41.7646782+00:00",
-  "LastChanged_Achievements": "2023-12-31T05:09:50.4436912+00:00",
+  "LastChanged_Achievements": "2023-12-31T06:11:25.7931988+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2023-12-31T05:00:12.059605+00:00",
-  "LastUpdate_Achievements": "2023-12-31T05:09:50.4460949+00:00"
+  "LastUpdate_Ratings": "2023-12-31T06:02:36.3492058+00:00",
+  "LastUpdate_Achievements": "2023-12-31T06:11:25.7956325+00:00"
 }

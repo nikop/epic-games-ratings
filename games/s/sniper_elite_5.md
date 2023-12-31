@@ -6,19 +6,19 @@ Rating: 4.45 (Ranked 686)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~1,957 |
-| Confirming Suspicions | 42.00% | ~1,748 |
-| The Kraken Wakes | 37.00% | ~1,540 |
-| It's Starting to Crack | 34.00% | ~1,415 |
+| Confirming Suspicions | 42.00% | ~1,749 |
+| The Kraken Wakes | 37.00% | ~1,541 |
+| It's Starting to Crack | 34.00% | ~1,416 |
 | Change the Channel | 32.00% | ~1,332 |
 | Lord of War | 31.00% | ~1,291 |
-| Taking it back | 29.00% | ~1,207 |
+| Taking it back | 30.00% | ~1,249 |
 | Resourceful | 28.00% | ~1,166 |
 | Target America | 27.00% | ~1,124 |
 | The Kraken Sleeps | 25.00% | ~1,041 |
 | As Quiet as a Mouse | 24.00% | ~999 |
-| Liberté | 23.00% | ~957 |
-| Organ Grinder | 23.00% | ~957 |
-| Sharpshooter | 23.00% | ~957 |
+| Liberté | 23.00% | ~958 |
+| Organ Grinder | 23.00% | ~958 |
+| Sharpshooter | 23.00% | ~958 |
 | Gunslinger | 19.00% | ~791 |
 | Explosive Efficiency | 19.00% | ~791 |
 | Climbing the Ladder | 17.00% | ~708 |
@@ -26,9 +26,9 @@ Rating: 4.45 (Ranked 686)
 | Der Geist | 17.00% | ~708 |
 | Close Quarters | 16.00% | ~666 |
 | Snake in the Grass | 16.00% | ~666 |
-| Skirmisher | 15.00% | ~624 |
-| Die Nussknacker Sweet! | 15.00% | ~624 |
-| Brains of the Operation | 15.00% | ~624 |
+| Skirmisher | 15.00% | ~625 |
+| Die Nussknacker Sweet! | 15.00% | ~625 |
+| Brains of the Operation | 15.00% | ~625 |
 | No Stone Unturned | 14.00% | ~583 |
 | Opposing Force | 14.00% | ~583 |
 | Enemy at the Gates | 14.00% | ~583 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 686)
 | Stroll in the Woods | 0.60% | ~25 |
 | Going Overboard | 0.60% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,163 (Ranked 208)  
+Progressed: 4,164 (Ranked 208)  
 Completed: 11 (0.26%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 11 (0.26%) (Ranked 262)
 | 2023-12-28 | 4,143 | 11 |
 | 2023-12-29 | 4,153 | 11 |
 | 2023-12-30 | 4,160 | 11 |
-| 2023-12-31 | 4,163 | 11 |
+| 2023-12-31 | 4,164 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 525)  
 Sum: 28 (Ranked 540)  

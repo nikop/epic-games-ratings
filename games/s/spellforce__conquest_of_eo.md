@@ -13,7 +13,7 @@
 | Mine! | 58.00% | ~59 |
 | Harvest Time | 57.00% | ~58 |
 | Artificer's Apprentice | 50.00% | ~50 |
-| Fly the friendly Sky | 47.00% | ~47 |
+| Fly the friendly Sky | 48.00% | ~48 |
 | Get out of here! | 43.00% | ~43 |
 | Alchemist's Apprentice | 40.00% | ~40 |
 | Necromancer's Apprentice | 38.00% | ~38 |
@@ -54,17 +54,17 @@
 | Tuscari Sea Portal | 6.00% | ~6 |
 | Heroes | 6.00% | ~6 |
 | Balanced | 6.00% | ~6 |
+| Get to the Airship! | 5.00% | ~5 |
 | Defeat Isgrimm | 5.00% | ~5 |
 | Defeat Raith | 5.00% | ~5 |
 | Defeat Yria | 5.00% | ~5 |
 | Lytra's Tale | 5.00% | ~5 |
 | Crypt of the Revenant | 5.00% | ~5 |
+| Friend of Grey Dusk Vale | 5.00% | ~5 |
 | Friend of Uram Gor | 5.00% | ~5 |
-| Get to the Airship! | 4.00% | ~4 |
 | Fireforge | 4.00% | ~4 |
 | Master Alchemist | 4.00% | ~4 |
 | Master Necromancer | 4.00% | ~4 |
-| Friend of Grey Dusk Vale | 4.00% | ~4 |
 | Defeat Rohen | 3.00% | ~3 |
 | Misty Coast Dragonbones | 3.00% | ~3 |
 | Breaking the circle | 3.00% | ~3 |

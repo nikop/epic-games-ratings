@@ -5,25 +5,25 @@ Rating: 4.43 (Ranked 715)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~60,040 |
+| No aid from the Omnissiah | 26.00% | ~60,041 |
 | This is only the beginning | 20.00% | ~46,185 |
-| Knowledge is power | 13.00% | ~30,020 |
-| Galvanic Rifle | 10.00% | ~23,092 |
-| Radium Ready | 10.00% | ~23,092 |
+| Knowledge is power | 13.00% | ~30,021 |
+| Galvanic Rifle | 10.00% | ~23,093 |
+| Radium Ready | 10.00% | ~23,093 |
 | Power Ranger | 9.00% | ~20,783 |
 | Taser Goad | 9.00% | ~20,783 |
 | Half a cog | 9.00% | ~20,783 |
-| Watch them crumble | 6.00% | ~13,855 |
+| Watch them crumble | 6.00% | ~13,856 |
 | Competent Cohort | 4.00% | ~9,237 |
 | Celestial Cartography Catastrophe | 4.00% | ~9,237 |
 | One with the Machine | 4.00% | ~9,237 |
 | Legio Cybernetica | 3.00% | ~6,928 |
 | Fleshy Disposal | 3.00% | ~6,928 |
-| Battle Servitor | 2.00% | ~4,618 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,618 |
-| Impatient destruction | 2.00% | ~4,618 |
-| Vivisected Vizier | 2.00% | ~4,618 |
-| Architect Abortion | 2.00% | ~4,618 |
+| Battle Servitor | 2.00% | ~4,619 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,619 |
+| Impatient destruction | 2.00% | ~4,619 |
+| Vivisected Vizier | 2.00% | ~4,619 |
+| Architect Abortion | 2.00% | ~4,619 |
 | Cohortus Maximus | 0.80% | ~1,847 |
 | Mother of Xenarites | 0.40% | ~924 |
 | False God | 0.30% | ~693 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 715)
 | Perma-live | 0.10% | ~231 |
 | Purge the Heretek | 0.10% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230,924 (Ranked 75)  
+Progressed: 230,927 (Ranked 75)  
 Completed: 5 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,11 +295,11 @@ Completed: 5 (0.00%) (Ranked 391)
 | 2023-12-28 | 230,726 | 5 |
 | 2023-12-29 | 230,808 | 5 |
 | 2023-12-30 | 230,903 | 5 |
-| 2023-12-31 | 230,924 | 5 |
+| 2023-12-31 | 230,927 | 5 |
 ## Awards
-Max (Highly Recommended): 291  (Ranked 263)  
+Max (Highly Recommended): 291  (Ranked 264)  
 Sum: 2,221 (Ranked 209)  
-Diff (max vs sum): 54  
+Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 291 |

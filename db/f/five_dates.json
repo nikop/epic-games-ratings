@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1785,
+  "EOS_Progressed": 1786,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 273,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -3325,6 +3325,11 @@
       "Time": "2023-12-31T01:59:47.3799288+00:00",
       "NumProgressed": 1785,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-31T06:11:04.2121166+00:00",
+      "NumProgressed": 1786,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 15,
@@ -3336,7 +3341,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 1749
+      "UsersEstimate": 1750
     },
     {
       "ID": "booty_call",
@@ -3360,7 +3365,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 1714
+      "UsersEstimate": 1715
     },
     {
       "ID": "hold_my_beer",
@@ -3455,7 +3460,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 1785,
+      "Progressed": 1786,
       "Completed": 11
     }
   ],
@@ -3463,8 +3468,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-12-31T05:09:33.0619863+00:00",
+  "LastChanged_Achievements": "2023-12-31T06:11:04.2121161+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:27.9788979+00:00",
-  "LastUpdate_Ratings": "2023-12-31T04:58:42.1935594+00:00",
-  "LastUpdate_Achievements": "2023-12-31T05:09:33.0620187+00:00"
+  "LastUpdate_Ratings": "2023-12-31T05:59:30.6916327+00:00",
+  "LastUpdate_Achievements": "2023-12-31T06:11:04.2121495+00:00"
 }

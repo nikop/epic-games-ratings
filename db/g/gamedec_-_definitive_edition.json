@@ -5,10 +5,10 @@
   "Ranking_Rating": 881,
   "Ranking_Popularity": 383,
   "Ranking_PopularitySum": 465,
-  "Ranking_EOS_Progress": 65,
+  "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -519,9 +519,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 256299,
+  "EOS_Progressed": 256300,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 799,
+  "EOS_NewPlayers": 798,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29079,6 +29079,11 @@
       "Time": "2023-12-31T05:05:04.1277167+00:00",
       "NumProgressed": 256299,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-31T06:06:39.5245445+00:00",
+      "NumProgressed": 256300,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -29138,7 +29143,7 @@
       "Name": "Enjoy these little moments",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     },
     {
       "ID": "ACH_GENTLEMAN",
@@ -29498,14 +29503,14 @@
       "Name": "Who wouldn\u0027t love a troll?",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 256299,
+      "Progressed": 256300,
       "Completed": 8
     }
   ],
@@ -29513,8 +29518,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-12-30T22:03:09.2237596+00:00",
-  "LastChanged_Achievements": "2023-12-31T05:05:04.1277162+00:00",
+  "LastChanged_Achievements": "2023-12-31T06:06:39.5245442+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:01.0065032+00:00",
-  "LastUpdate_Ratings": "2023-12-31T05:02:45.8836202+00:00",
-  "LastUpdate_Achievements": "2023-12-31T05:05:04.1278726+00:00"
+  "LastUpdate_Ratings": "2023-12-31T06:03:25.0544583+00:00",
+  "LastUpdate_Achievements": "2023-12-31T06:06:39.5247149+00:00"
 }

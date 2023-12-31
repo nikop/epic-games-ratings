@@ -7,8 +7,8 @@
 | Hero Arrives | 89.00% | ~50 |
 | Eat the Rich | 61.00% | ~34 |
 | Killing Machine | 50.00% | ~28 |
-| Death Battle | 45.00% | ~25 |
-| Phantom Kunoichi | 45.00% | ~25 |
+| Death Battle | 46.00% | ~26 |
+| Phantom Kunoichi | 46.00% | ~26 |
 | Divine Retribution | 43.00% | ~24 |
 | Captain Mustache | 41.00% | ~23 |
 | Dispel Rumors | 38.00% | ~21 |

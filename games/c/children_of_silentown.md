@@ -15,8 +15,8 @@
 | Mysterious footprints | 48.00% | ~112 |
 | Glass shards | 44.00% | ~103 |
 | Complicated padlock | 42.00% | ~98 |
+| Big metal ruler | 39.00% | ~91 |
 | Windmill | 39.00% | ~91 |
-| Big metal ruler | 38.00% | ~89 |
 | Doll | 35.00% | ~82 |
 | Mysterious paintings | 34.00% | ~80 |
 | Cat | 32.00% | ~75 |
@@ -31,7 +31,7 @@
 | Hope | 5.00% | ~12 |
 | Hairball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234 (Ranked 410)  
+Progressed: 234 (Ranked 411)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |

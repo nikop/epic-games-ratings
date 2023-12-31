@@ -5,9 +5,9 @@ Rating: 4.65 (Ranked 324)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 43.00% | ~501 |
+| Time Heals All Wounds | 43.00% | ~502 |
 | Rail Rat | 32.00% | ~373 |
-| The Mysterious Stranger | 31.00% | ~361 |
+| The Mysterious Stranger | 31.00% | ~362 |
 | Immaculate Aim | 27.00% | ~315 |
 | The Brass Boss | 26.00% | ~303 |
 | The Prince in Heels | 25.00% | ~292 |
@@ -54,12 +54,12 @@ Rating: 4.65 (Ranked 324)
 | Fitting In | 2.00% | ~23 |
 | Thinking Two Steps Ahead | 1.00% | ~12 |
 | No Time to Waste | 1.00% | ~12 |
-| A Lesson in Precision | 0.90% | ~10 |
+| A Lesson in Precision | 0.90% | ~11 |
 | Wildlife Protection | 0.70% | ~8 |
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,166 (Ranked 279)  
+Progressed: 1,167 (Ranked 279)  
 Completed: 6 (0.51%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 6 (0.51%) (Ranked 217)
 | 2023-12-28 | 1,136 | 6 |
 | 2023-12-29 | 1,145 | 6 |
 | 2023-12-30 | 1,165 | 6 |
-| 2023-12-31 | 1,166 | 6 |
+| 2023-12-31 | 1,167 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

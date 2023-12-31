@@ -32,7 +32,7 @@ Rating: 4.65 (Ranked 324)
 | Dungeonlord Gorgu | 45.00% | ~304 |
 | Tanos' Crusade Against Thalya | 45.00% | ~304 |
 | Mana Cannon | 41.00% | ~277 |
-| All’s Well That Ends Evil | 40.00% | ~270 |
+| All’s Well That Ends Evil | 41.00% | ~277 |
 | The Duel | 38.00% | ~256 |
 | Unstoppable Horde | 35.00% | ~236 |
 | Master of the Undead | 35.00% | ~236 |
@@ -68,7 +68,7 @@ Rating: 4.65 (Ranked 324)
 | I Don't Need Any Help | 9.00% | ~61 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 675 (Ranked 314)  
-Completed: 25 (3.70%) (Ranked 98)  
+Completed: 25 (3.70%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

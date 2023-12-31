@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
@@ -317,11 +317,11 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 557,
+  "EOS_Progressed": 559,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 0.9,
+  "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -1517,6 +1517,11 @@
       "Time": "2023-12-31T04:08:14.8409398+00:00",
       "NumProgressed": 557,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-31T06:08:38.2849408+00:00",
+      "NumProgressed": 559,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1561,7 +1566,7 @@
       "Name": "Life\u0027s as extreme as you wanna make it!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_DOWN_TOWN",
@@ -1607,9 +1612,9 @@
       "ID": "ACH_JELLYFISH_JAM",
       "SetID": "biiejkc",
       "Name": "Jellyfish Jam",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -1631,9 +1636,9 @@
       "ID": "ACH_PRAWN_BOSS",
       "SetID": "biiejkc",
       "Name": "Shrimp Catcher",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
@@ -1641,15 +1646,15 @@
       "Name": "Toxic Terror",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
       "SetID": "biiejkc",
       "Name": "Sweet Victory",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -1784,15 +1789,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 557,
+      "Progressed": 559,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-31T05:06:15.9149213+00:00",
+  "LastChanged_Achievements": "2023-12-31T06:08:38.2849404+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2023-12-31T04:57:36.0674895+00:00",
-  "LastUpdate_Achievements": "2023-12-31T05:06:15.9149509+00:00"
+  "LastUpdate_Ratings": "2023-12-31T05:57:50.6254171+00:00",
+  "LastUpdate_Achievements": "2023-12-31T06:08:38.2849687+00:00"
 }

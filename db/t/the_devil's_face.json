@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -2736,9 +2736,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "296pn27",
       "Name": "Is it merely a dream?",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 291
+      "UsersEstimate": 297
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2847,8 +2847,8 @@
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-12-31T05:04:43.6357977+00:00",
+  "LastChanged_Achievements": "2023-12-31T06:06:11.464214+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:37.2024016+00:00",
-  "LastUpdate_Ratings": "2023-12-31T04:58:51.8269508+00:00",
-  "LastUpdate_Achievements": "2023-12-31T05:04:43.635817+00:00"
+  "LastUpdate_Ratings": "2023-12-31T05:59:44.5543343+00:00",
+  "LastUpdate_Achievements": "2023-12-31T06:06:11.4642387+00:00"
 }

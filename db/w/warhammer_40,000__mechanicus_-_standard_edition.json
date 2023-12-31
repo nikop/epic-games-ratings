@@ -3,12 +3,12 @@
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
   "Ranking_Rating": 715,
-  "Ranking_Popularity": 263,
+  "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -1050,9 +1050,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 230924,
+  "EOS_Progressed": 230927,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 665,
+  "EOS_NewPlayers": 663,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28985,6 +28985,11 @@
       "Time": "2023-12-31T05:09:36.7557466+00:00",
       "NumProgressed": 230924,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-31T06:11:09.0771083+00:00",
+      "NumProgressed": 230927,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -29004,7 +29009,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 60040
+      "UsersEstimate": 60041
     },
     {
       "ID": "ACH_BASE_11",
@@ -29044,7 +29049,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23092
+      "UsersEstimate": 23093
     },
     {
       "ID": "ACH_BASE_17",
@@ -29060,7 +29065,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23092
+      "UsersEstimate": 23093
     },
     {
       "ID": "ACH_BASE_19",
@@ -29068,7 +29073,7 @@
       "Name": "Battle Servitor",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4618
+      "UsersEstimate": 4619
     },
     {
       "ID": "ACH_BASE_2",
@@ -29076,7 +29081,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13855
+      "UsersEstimate": 13856
     },
     {
       "ID": "ACH_BASE_20",
@@ -29092,7 +29097,7 @@
       "Name": "Ding Dong Szaregon\u0027s Gone",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4618
+      "UsersEstimate": 4619
     },
     {
       "ID": "ACH_BASE_22",
@@ -29100,7 +29105,7 @@
       "Name": "Impatient destruction",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4618
+      "UsersEstimate": 4619
     },
     {
       "ID": "ACH_BASE_23",
@@ -29228,7 +29233,7 @@
       "Name": "Vivisected Vizier",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4618
+      "UsersEstimate": 4619
     },
     {
       "ID": "ACH_BASE_6",
@@ -29236,7 +29241,7 @@
       "Name": "Architect Abortion",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4618
+      "UsersEstimate": 4619
     },
     {
       "ID": "ACH_BASE_7",
@@ -29244,7 +29249,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 30020
+      "UsersEstimate": 30021
     },
     {
       "ID": "ACH_BASE_8",
@@ -29267,7 +29272,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 230924,
+      "Progressed": 230927,
       "Completed": 5
     }
   ],
@@ -29275,8 +29280,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-28T22:58:51.4033804+00:00",
-  "LastChanged_Achievements": "2023-12-31T05:09:36.7557464+00:00",
+  "LastChanged_Achievements": "2023-12-31T06:11:09.0771078+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.3371168+00:00",
-  "LastUpdate_Ratings": "2023-12-31T04:59:14.1578466+00:00",
-  "LastUpdate_Achievements": "2023-12-31T05:09:36.7558813+00:00"
+  "LastUpdate_Ratings": "2023-12-31T06:00:19.1813437+00:00",
+  "LastUpdate_Achievements": "2023-12-31T06:11:09.0773097+00:00"
 }

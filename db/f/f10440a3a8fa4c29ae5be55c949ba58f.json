@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-12-21T00:00:00+00:00",
     "PcReleaseDate": "2023-12-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5121,
+  "EOS_Progressed": 5126,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 3542,
+  "EOS_NewPlayers": 3535,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1194,6 +1194,11 @@
       "Time": "2023-12-31T05:08:57.4736434+00:00",
       "NumProgressed": 5121,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-31T06:10:16.6592981+00:00",
+      "NumProgressed": 5126,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -1206,7 +1211,7 @@
       "Name": "Final Destination",
       "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 2560
+      "UsersEstimate": 2563
     },
     {
       "ID": "Document1",
@@ -1230,7 +1235,7 @@
       "Name": "Secrets Revealer",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "Document4",
@@ -1238,7 +1243,7 @@
       "Name": "Truth Seeker",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "Document5",
@@ -1254,7 +1259,7 @@
       "Name": "Perseverant",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "Untraceable2",
@@ -1262,21 +1267,21 @@
       "Name": "Untraceable",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     }
   ],
   "AchievementSets": [
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 5121,
+      "Progressed": 5126,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2023-12-31T05:08:57.4736431+00:00",
+  "LastChanged_Achievements": "2023-12-31T06:10:16.6592977+00:00",
   "LastUpdate_AppInfo": "2023-12-24T20:56:57.0672179+00:00",
-  "LastUpdate_Ratings": "2023-12-31T04:58:46.5621297+00:00",
-  "LastUpdate_Achievements": "2023-12-31T05:08:57.4736546+00:00"
+  "LastUpdate_Ratings": "2023-12-31T05:59:36.8080711+00:00",
+  "LastUpdate_Achievements": "2023-12-31T06:10:16.6593124+00:00"
 }

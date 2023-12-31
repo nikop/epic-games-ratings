@@ -6,7 +6,7 @@
   "Ranking_Popularity": 261,
   "Ranking_PopularitySum": 216,
   "Ranking_EOS_Progress": 34,
-  "Ranking_EOS_Completed": 250,
+  "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
@@ -2934,9 +2934,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 542729,
+  "EOS_Progressed": 542730,
   "EOS_Completed": 1663,
-  "EOS_NewPlayers": 935,
+  "EOS_NewPlayers": 932,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -31159,6 +31159,11 @@
       "Time": "2023-12-31T05:03:22.4218599+00:00",
       "NumProgressed": 542729,
       "NumCompleted": 1663
+    },
+    {
+      "Time": "2023-12-31T06:04:19.0214755+00:00",
+      "NumProgressed": 542730,
+      "NumCompleted": 1663
     }
   ],
   "TotalAchievements": 37,
@@ -31226,7 +31231,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 450465
+      "UsersEstimate": 450466
     },
     {
       "ID": "HONED",
@@ -31330,7 +31335,7 @@
       "Name": "The Forest",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 81409
+      "UsersEstimate": 81410
     },
     {
       "ID": "THE_IMPOSTER",
@@ -31465,15 +31470,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 542729,
+      "Progressed": 542730,
       "Completed": 1663
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-12-30T19:04:55.9922425+00:00",
-  "LastChanged_Achievements": "2023-12-31T05:03:22.4218596+00:00",
+  "LastChanged_Achievements": "2023-12-31T06:04:19.0214751+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:29.3864589+00:00",
-  "LastUpdate_Ratings": "2023-12-31T05:02:38.6716183+00:00",
-  "LastUpdate_Achievements": "2023-12-31T05:03:22.4220013+00:00"
+  "LastUpdate_Ratings": "2023-12-31T06:03:13.5711599+00:00",
+  "LastUpdate_Achievements": "2023-12-31T06:04:19.0215996+00:00"
 }

@@ -3,12 +3,12 @@
 [View Rawdata](../../db/t/the_last_of_us™_part_i.json)  
 Rating: 4.46 (Ranked 672)  
 ## Awards
-Max (Great Boss Battles): 287  (Ranked 265)  
-Sum: 287 (Ranked 384)  
-Diff (max vs sum): -119  
+Max (Great Boss Battles): 294  (Ranked 263)  
+Sum: 294 (Ranked 379)  
+Diff (max vs sum): -116  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 287 |
+| This game has Great Boss Battles | 294 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -170,3 +170,4 @@ Diff (max vs sum): -119
 | 2023-12-28 | 4.45 | 275 | 275 |
 | 2023-12-29 | 4.46 | 280 | 280 |
 | 2023-12-30 | 4.46 | 287 | 287 |
+| 2023-12-31 | 4.46 | 294 | 294 |

@@ -1,28 +1,28 @@
 # Call of the Sea
 [Store](https://store.epicgames.com/en-US/p/call-of-the-sea)  
 [View Rawdata](../../db/c/call_of_the_sea.json)  
-Rating: 4.40 (Ranked 762)  
+Rating: 4.40 (Ranked 764)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~109,644 |
-| 74 miles East of Otaheité | 56.00% | ~76,751 |
-| Interesting... | 42.00% | ~57,563 |
-| The Everhart Expedition | 40.00% | ~54,822 |
-| Seaside Serenade | 31.00% | ~42,487 |
-| Halfway there | 30.00% | ~41,116 |
-| The Vanishing of the Lady Shannon | 30.00% | ~41,116 |
-| A brigantine, a brig and a barque | 28.00% | ~38,375 |
-| 506 East Hampden Avenue | 28.00% | ~38,375 |
+| A Family Heirloom | 80.00% | ~109,646 |
+| 74 miles East of Otaheité | 56.00% | ~76,752 |
+| Interesting... | 42.00% | ~57,564 |
+| The Everhart Expedition | 40.00% | ~54,823 |
+| Seaside Serenade | 31.00% | ~42,488 |
+| Halfway there | 30.00% | ~41,117 |
+| The Vanishing of the Lady Shannon | 30.00% | ~41,117 |
+| A brigantine, a brig and a barque | 28.00% | ~38,376 |
+| 506 East Hampden Avenue | 28.00% | ~38,376 |
 | Weekend at Walakea's | 27.00% | ~37,005 |
 | Quite a Show | 27.00% | ~37,005 |
 | Dark Water Ride | 25.00% | ~34,264 |
 | Sunken | 25.00% | ~34,264 |
-| Deep Cut | 24.00% | ~32,893 |
+| Deep Cut | 24.00% | ~32,894 |
 | FHALGOF'N' | 23.00% | ~31,523 |
 | Marsh Cannery | 21.00% | ~28,782 |
 | Greetings from Y'ha-nthlei! | 18.00% | ~24,670 |
-| The only thing I have now | 17.00% | ~23,299 |
+| The only thing I have now | 17.00% | ~23,300 |
 | Not Another Boring Slideshow! | 16.00% | ~21,929 |
 | Naacalvision | 16.00% | ~21,929 |
 | The Norahnomicon | 10.00% | ~13,706 |
@@ -40,8 +40,8 @@ Rating: 4.40 (Ranked 762)
 | Gently down the stream... | 1.00% | ~1,371 |
 | Meta-reference | 1.00% | ~1,371 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,055 (Ranked 87)  
-Completed: 1,219 (0.89%) (Ranked 182)  
+Progressed: 137,057 (Ranked 87)  
+Completed: 1,219 (0.89%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -295,7 +295,7 @@ Completed: 1,219 (0.89%) (Ranked 182)
 | 2023-12-28 | 136,623 | 1,217 |
 | 2023-12-29 | 136,799 | 1,219 |
 | 2023-12-30 | 137,020 | 1,219 |
-| 2023-12-31 | 137,055 | 1,219 |
+| 2023-12-31 | 137,057 | 1,219 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -17,10 +17,10 @@ Number of Ratings: 45  (23.09.2022)
 | Completing the Look | 3.00% | ~47 |
 | War Endured | 3.00% | ~47 |
 | Core Failure | 3.00% | ~47 |
-| A Mythic Menagerie | 2.00% | ~31 |
-| Who's Counting? | 2.00% | ~31 |
-| Pyrrhic Victory | 2.00% | ~31 |
-| Echoes Die | 2.00% | ~31 |
+| A Mythic Menagerie | 2.00% | ~32 |
+| Who's Counting? | 2.00% | ~32 |
+| Pyrrhic Victory | 2.00% | ~32 |
+| Echoes Die | 2.00% | ~32 |
 | Let Me Get My Chisel | 1.00% | ~16 |
 | Thematic Divergence | 1.00% | ~16 |
 | Another Tale to Tell | 1.00% | ~16 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Peacemaker | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,574 (Ranked 258)  
+Progressed: 1,575 (Ranked 258)  
 Completed: 7 (0.44%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 7 (0.44%) (Ranked 226)
 | 2023-12-28 | 1,563 | 7 |
 | 2023-12-29 | 1,567 | 7 |
 | 2023-12-30 | 1,572 | 7 |
-| 2023-12-31 | 1,574 | 7 |
+| 2023-12-31 | 1,575 | 7 |
 ## Awards
 Max (Character Customization): 29  (Ranked 519)  
 Sum: 29 (Ranked 537)  

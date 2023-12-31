@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1783,9 +1783,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 165626,
+  "EOS_Progressed": 165637,
   "EOS_Completed": 429,
-  "EOS_NewPlayers": 1469,
+  "EOS_NewPlayers": 1475,
   "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -21268,6 +21268,11 @@
       "Time": "2023-12-31T05:03:41.370477+00:00",
       "NumProgressed": 165626,
       "NumCompleted": 429
+    },
+    {
+      "Time": "2023-12-31T06:04:45.6394313+00:00",
+      "NumProgressed": 165637,
+      "NumCompleted": 429
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -21342,9 +21347,9 @@
       "ID": "ACQUIRE_TRAIT",
       "SetID": "ccc0dlh",
       "Name": "Taste",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3313
+      "UsersEstimate": 4969
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -21647,21 +21652,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 165209,
+      "Progressed": 165220,
       "Completed": 1249
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 165626,
+      "Progressed": 165637,
       "Completed": 429
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-30T16:57:31.1639102+00:00",
-  "LastChanged_Achievements": "2023-12-31T05:03:41.3704768+00:00",
+  "LastChanged_Achievements": "2023-12-31T06:04:45.6394308+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:50.3299145+00:00",
-  "LastUpdate_Ratings": "2023-12-31T04:57:43.6540252+00:00",
-  "LastUpdate_Achievements": "2023-12-31T05:03:41.3705872+00:00"
+  "LastUpdate_Ratings": "2023-12-31T05:58:01.8562668+00:00",
+  "LastUpdate_Achievements": "2023-12-31T06:04:45.6395293+00:00"
 }

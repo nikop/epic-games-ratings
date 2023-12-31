@@ -4,8 +4,8 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 374,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 371,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 274,
+  "EOS_Progressed": 275,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.55,
   "EosHistory": [
@@ -641,6 +641,11 @@
       "Time": "2023-12-29T23:05:42.0780717+00:00",
       "NumProgressed": 274,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-31T06:08:33.0570891+00:00",
+      "NumProgressed": 275,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 15,
@@ -652,7 +657,7 @@
       "Name": "The T-Rex plain.",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "02",
@@ -660,7 +665,7 @@
       "Name": "Crazy Jungle.",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "03",
@@ -740,7 +745,7 @@
       "Name": "Dinosaur graveyard.",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "13",
@@ -771,7 +776,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 274,
+      "Progressed": 275,
       "Completed": 7
     }
   ],
@@ -779,8 +784,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-12-31T05:06:12.2142513+00:00",
+  "LastChanged_Achievements": "2023-12-31T06:08:33.0570888+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:56:57.5978328+00:00",
-  "LastUpdate_Ratings": "2023-12-31T04:59:31.5029073+00:00",
-  "LastUpdate_Achievements": "2023-12-31T05:06:12.2142679+00:00"
+  "LastUpdate_Ratings": "2023-12-31T06:00:45.2172442+00:00",
+  "LastUpdate_Achievements": "2023-12-31T06:08:33.0571028+00:00"
 }

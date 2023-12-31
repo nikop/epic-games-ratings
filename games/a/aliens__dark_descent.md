@@ -5,44 +5,44 @@ Rating: 4.53 (Ranked 558)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~4,245 |
-| Keep 'Em Coming | 66.00% | ~3,639 |
-| Snatched Out | 65.00% | ~3,583 |
-| Cleaning Lethe, One Nest At A Time | 59.00% | ~3,253 |
-| Call Me Snake | 55.00% | ~3,032 |
-| Something Lurks Under The Hills | 53.00% | ~2,922 |
-| This Was No Papercut | 51.00% | ~2,812 |
-| The Shrink Hates Me | 49.00% | ~2,701 |
-| People Person | 48.00% | ~2,646 |
-| Use The Bumper, That's What It's For | 45.00% | ~2,481 |
-| First Steps Into Madness | 45.00% | ~2,481 |
-| Colonial Barrels | 43.00% | ~2,371 |
-| Harper's Hell | 39.00% | ~2,150 |
-| Making a Stand | 37.00% | ~2,040 |
-| Damn Dude, You Gotta Lose Some Weight! | 36.00% | ~1,985 |
-| Where It All Begun | 34.00% | ~1,874 |
-| Recouped Investment | 32.00% | ~1,764 |
-| Living Nightmare | 28.00% | ~1,544 |
-| The More The Merrier | 28.00% | ~1,544 |
-| Omelette Du Fromage | 27.00% | ~1,489 |
-| The Darwin Era Was Here | 25.00% | ~1,378 |
-| Deep Into Insanity | 24.00% | ~1,323 |
-| The Passenger | 23.00% | ~1,268 |
-| Come on, You Wanna Live Forever? | 22.00% | ~1,213 |
-| The Spire | 21.00% | ~1,158 |
-| El Riesgo Siempre Vive | 20.00% | ~1,103 |
-| Stuff Of Nightmares | 19.00% | ~1,047 |
-| Frontliner | 18.00% | ~992 |
-| Excavating The Truth | 18.00% | ~992 |
-| Abysmal Horrors | 18.00% | ~992 |
-| One For Every Occasion | 17.00% | ~937 |
-| The Cable Guy | 17.00% | ~937 |
-| Bandage Lover | 16.00% | ~882 |
-| Regicide | 13.00% | ~717 |
-| Flawless Victory | 11.00% | ~606 |
-| This Went Smoothly | 11.00% | ~606 |
-| Heavy Steps | 11.00% | ~606 |
-| Perfect Enhancements | 8.00% | ~441 |
+| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~4,251 |
+| Keep 'Em Coming | 66.00% | ~3,644 |
+| Snatched Out | 65.00% | ~3,589 |
+| Cleaning Lethe, One Nest At A Time | 59.00% | ~3,257 |
+| Call Me Snake | 55.00% | ~3,037 |
+| Something Lurks Under The Hills | 53.00% | ~2,926 |
+| This Was No Papercut | 51.00% | ~2,816 |
+| The Shrink Hates Me | 49.00% | ~2,705 |
+| People Person | 48.00% | ~2,650 |
+| Use The Bumper, That's What It's For | 45.00% | ~2,484 |
+| First Steps Into Madness | 45.00% | ~2,484 |
+| Colonial Barrels | 43.00% | ~2,374 |
+| Harper's Hell | 39.00% | ~2,153 |
+| Making a Stand | 37.00% | ~2,043 |
+| Damn Dude, You Gotta Lose Some Weight! | 36.00% | ~1,988 |
+| Where It All Begun | 34.00% | ~1,877 |
+| Recouped Investment | 32.00% | ~1,767 |
+| Living Nightmare | 28.00% | ~1,546 |
+| The More The Merrier | 28.00% | ~1,546 |
+| Omelette Du Fromage | 27.00% | ~1,491 |
+| The Darwin Era Was Here | 25.00% | ~1,380 |
+| Deep Into Insanity | 23.00% | ~1,270 |
+| The Passenger | 23.00% | ~1,270 |
+| Come on, You Wanna Live Forever? | 22.00% | ~1,215 |
+| The Spire | 21.00% | ~1,159 |
+| El Riesgo Siempre Vive | 20.00% | ~1,104 |
+| Stuff Of Nightmares | 19.00% | ~1,049 |
+| Frontliner | 18.00% | ~994 |
+| Excavating The Truth | 18.00% | ~994 |
+| Abysmal Horrors | 18.00% | ~994 |
+| One For Every Occasion | 17.00% | ~939 |
+| The Cable Guy | 17.00% | ~939 |
+| Bandage Lover | 16.00% | ~883 |
+| Regicide | 13.00% | ~718 |
+| Flawless Victory | 11.00% | ~607 |
+| This Went Smoothly | 11.00% | ~607 |
+| Heavy Steps | 11.00% | ~607 |
+| Perfect Enhancements | 8.00% | ~442 |
 | Hardened In The Heat Of Battle | 6.00% | ~331 |
 | The True Experience | 5.00% | ~276 |
 | Fair And Square | 2.00% | ~110 |
@@ -51,7 +51,7 @@ Rating: 4.53 (Ranked 558)
 | This Ain't No Picnic | 0.60% | ~33 |
 | Chalk It Up To Experience | 0.60% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,513 (Ranked 200)  
+Progressed: 5,521 (Ranked 200)  
 Completed: 3 (0.05%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 3 (0.05%) (Ranked 334)
 | 2023-12-28 | 5,348 | 3 |
 | 2023-12-29 | 5,429 | 3 |
 | 2023-12-30 | 5,501 | 3 |
-| 2023-12-31 | 5,513 | 3 |
+| 2023-12-31 | 5,521 | 3 |
 ## Awards
 Max (Great Boss Battles): 58  (Ranked 429)  
 Sum: 58 (Ranked 491)  

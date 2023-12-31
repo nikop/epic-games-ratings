@@ -8,20 +8,20 @@
 | Purification Pioneer | 77.00% | ~214 |
 | Mechanical Buddy | 72.00% | ~200 |
 | Dicesmithing Time! | 64.00% | ~178 |
-| Sanctuary Guardian | 54.00% | ~150 |
+| Sanctuary Guardian | 55.00% | ~153 |
 | Endless Tricks | 50.00% | ~139 |
 | Mind Illuminator | 45.00% | ~125 |
 | Wild's Keeper | 45.00% | ~125 |
 | Stellar Dismantler | 36.00% | ~100 |
-| Noctuan Champion | 35.00% | ~97 |
-| Astral Adventurer | 32.00% | ~89 |
-| Anomaly Destroyer | 31.00% | ~86 |
+| Noctuan Champion | 36.00% | ~100 |
+| Astral Adventurer | 33.00% | ~92 |
+| Anomaly Destroyer | 32.00% | ~89 |
 | Star Killer | 28.00% | ~78 |
-| Eridanian Champion | 24.00% | ~67 |
-| Loyal Partner | 22.00% | ~61 |
+| Eridanian Champion | 25.00% | ~70 |
+| Loyal Partner | 23.00% | ~64 |
 | Lacertian Champion | 21.00% | ~58 |
+| Apian Champion | 19.00% | ~53 |
 | Shard Spender | 18.00% | ~50 |
-| Apian Champion | 18.00% | ~50 |
 | Unbeatable | 17.00% | ~47 |
 | Sadistic Plan | 16.00% | ~44 |
 | Behenian Champion | 14.00% | ~39 |

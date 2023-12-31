@@ -6,14 +6,14 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~691 |
-| Lost and Found | 7.00% | ~403 |
-| Autodidact | 6.00% | ~7,853 |
+| Malpractice Assurance | 12.00% | ~692 |
+| Lost and Found | 7.00% | ~404 |
+| Autodidact | 6.00% | ~7,854 |
 | This guy... again? | 6.00% | ~346 |
-| This Belongs in a Museum | 5.00% | ~6,544 |
-| Creep and Sleep | 5.00% | ~6,544 |
-| Overdue Notice | 5.00% | ~6,544 |
-| Escape from the Black Hole | 5.00% | ~6,544 |
+| This Belongs in a Museum | 5.00% | ~6,545 |
+| Creep and Sleep | 5.00% | ~6,545 |
+| Overdue Notice | 5.00% | ~6,545 |
+| Escape from the Black Hole | 5.00% | ~6,545 |
 | Ploughshares to Swords | 5.00% | ~288 |
 | Bloody Graduation | 5.00% | ~288 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,236 |
@@ -27,7 +27,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 4.00% | ~5,236 |
 | A Place to Lay Your Head | 4.00% | ~5,236 |
 | FNG | 4.00% | ~5,236 |
-| Friends 'Til the End | 4.00% | ~230 |
+| Friends 'Til the End | 4.00% | ~231 |
 | Unleash Hell | 3.00% | ~3,927 |
 | Long Live the King | 3.00% | ~3,927 |
 | Unfulfilled Desires | 3.00% | ~3,927 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,890 (Ranked 89)  
+Progressed: 130,898 (Ranked 89)  
 Completed: 3 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 3 (0.00%) (Ranked 391)
 | 2023-12-28 | 130,422 | 3 |
 | 2023-12-29 | 130,627 | 3 |
 | 2023-12-30 | 130,838 | 3 |
-| 2023-12-31 | 130,890 | 3 |
+| 2023-12-31 | 130,898 | 3 |
 ## Awards
 Max (Character Customization): 7,905  (Ranked 50)  
 Sum: 21,274 (Ranked 58)  

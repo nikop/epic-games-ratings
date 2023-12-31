@@ -8,18 +8,18 @@ Number of Ratings: 98  (23.09.2022)
 | ---- | ---------- | ----- |
 | You Shall Not Pass | 51.00% | ~4,943 |
 | Tutti Eroi! | 50.00% | ~4,846 |
-| Peak Performance | 45.00% | ~4,361 |
-| Avanti Savoia! | 44.00% | ~4,264 |
-| Mamma Mia! | 35.00% | ~3,392 |
-| Conrad von Hotzensocks | 32.00% | ~3,101 |
-| Gabriele D'Annunzio | 32.00% | ~3,101 |
+| Peak Performance | 45.00% | ~4,362 |
+| Avanti Savoia! | 44.00% | ~4,265 |
+| Mamma Mia! | 35.00% | ~3,393 |
+| Conrad von Hotzensocks | 32.00% | ~3,102 |
+| Gabriele D'Annunzio | 32.00% | ~3,102 |
 | Silver Lining | 27.00% | ~2,617 |
-| Aurelio Baruzzi | 21.00% | ~2,035 |
-| Decimation | 20.00% | ~1,938 |
-| Donatello | 19.00% | ~1,841 |
-| Insubordination | 19.00% | ~1,841 |
-| The Italian Job | 19.00% | ~1,841 |
-| Veni Vidi Vici | 19.00% | ~1,841 |
+| Aurelio Baruzzi | 21.00% | ~2,036 |
+| Decimation | 20.00% | ~1,939 |
+| Donatello | 19.00% | ~1,842 |
+| Insubordination | 19.00% | ~1,842 |
+| The Italian Job | 19.00% | ~1,842 |
+| Veni Vidi Vici | 19.00% | ~1,842 |
 | Ragazzi del '99 | 17.00% | ~1,648 |
 | Luigi Cadorna | 16.00% | ~1,551 |
 | The Lion of the Isonzo | 14.00% | ~1,357 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~39 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,692 (Ranked 180)  
+Progressed: 9,693 (Ranked 180)  
 Completed: 10 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 10 (0.10%) (Ranked 305)
 | 2023-12-28 | 9,657 | 10 |
 | 2023-12-29 | 9,668 | 10 |
 | 2023-12-30 | 9,691 | 10 |
-| 2023-12-31 | 9,692 | 10 |
+| 2023-12-31 | 9,693 | 10 |
 ## Awards
 Max (Diverse Characters): 41  (Ranked 473)  
 Sum: 335 (Ranked 368)  

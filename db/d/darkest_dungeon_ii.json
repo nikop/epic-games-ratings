@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10344,9 +10344,9 @@
       "Count": 1071
     }
   ],
-  "EOS_Progressed": 130890,
+  "EOS_Progressed": 130898,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1390,
+  "EOS_NewPlayers": 1393,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37619,6 +37619,11 @@
       "Time": "2023-12-31T05:09:12.1397199+00:00",
       "NumProgressed": 130890,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-31T06:10:36.8551174+00:00",
+      "NumProgressed": 130898,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37758,7 +37763,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6544
+      "UsersEstimate": 6545
     },
     {
       "ID": "combat_kill_cadavers",
@@ -37790,7 +37795,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6544
+      "UsersEstimate": 6545
     },
     {
       "ID": "combat_kill_fanatics",
@@ -37854,7 +37859,7 @@
       "Name": "Overdue Notice",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6544
+      "UsersEstimate": 6545
     },
     {
       "ID": "combat_kill_pillagers",
@@ -37870,7 +37875,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6544
+      "UsersEstimate": 6545
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -37982,7 +37987,7 @@
       "Name": "Autodidact",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7853
+      "UsersEstimate": 7854
     },
     {
       "ID": "hero_story_complete_all",
@@ -38166,7 +38171,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "combat_kill_collector",
@@ -38230,7 +38235,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -38238,7 +38243,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -38261,21 +38266,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130890,
+      "Progressed": 130898,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5759,
-      "Completed": 817
+      "Progressed": 5767,
+      "Completed": 818
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-30T18:59:12.1742166+00:00",
-  "LastChanged_Achievements": "2023-12-31T05:09:12.1397196+00:00",
+  "LastChanged_Achievements": "2023-12-31T06:10:36.855117+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2023-12-31T04:57:29.5074705+00:00",
-  "LastUpdate_Achievements": "2023-12-31T05:09:12.1399275+00:00"
+  "LastUpdate_Ratings": "2023-12-31T05:57:40.5277721+00:00",
+  "LastUpdate_Achievements": "2023-12-31T06:10:36.855328+00:00"
 }

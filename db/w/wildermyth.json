@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -166,9 +166,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 1574,
+  "EOS_Progressed": 1575,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -2331,6 +2331,11 @@
       "Time": "2023-12-31T05:09:45.2338953+00:00",
       "NumProgressed": 1574,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-31T06:11:19.5422488+00:00",
+      "NumProgressed": 1575,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 56,
@@ -2374,7 +2379,7 @@
       "Name": "A Mythic Menagerie",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_beatAllStoryCampaigns",
@@ -2486,7 +2491,7 @@
       "Name": "Who\u0027s Counting?",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_kill3EnemiesWithPoisonInOneTurn",
@@ -2558,7 +2563,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "completedStory_cvawn",
@@ -2598,7 +2603,7 @@
       "Name": "Echoes Die",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "completedStory_procedural",
@@ -2789,15 +2794,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1574,
+      "Progressed": 1575,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-12-31T05:09:45.233895+00:00",
+  "LastChanged_Achievements": "2023-12-31T06:11:19.5422484+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:43.1423239+00:00",
-  "LastUpdate_Ratings": "2023-12-31T04:59:50.5019775+00:00",
-  "LastUpdate_Achievements": "2023-12-31T05:09:45.2339549+00:00"
+  "LastUpdate_Ratings": "2023-12-31T06:01:14.0025166+00:00",
+  "LastUpdate_Achievements": "2023-12-31T06:11:19.5422979+00:00"
 }

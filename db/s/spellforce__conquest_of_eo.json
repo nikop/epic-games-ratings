@@ -4,8 +4,8 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -529,9 +529,9 @@
       "ID": "Adventure_Airship",
       "SetID": "7b9f97e",
       "Name": "Get to the Airship!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Build_First_Lodge",
@@ -929,9 +929,9 @@
       "ID": "Max_Reputation_Coldmark",
       "SetID": "7b9f97e",
       "Name": "Friend of Grey Dusk Vale",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Max_Reputation_Gillyshire",
@@ -1073,9 +1073,9 @@
       "ID": "Tower_Fly",
       "SetID": "7b9f97e",
       "Name": "Fly the friendly Sky",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Zombify_Unit_Post_Battle",
@@ -1098,8 +1098,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-31T05:09:04.0314338+00:00",
+  "LastChanged_Achievements": "2023-12-31T06:10:25.8165573+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:20.4706393+00:00",
-  "LastUpdate_Ratings": "2023-12-31T04:58:25.9250646+00:00",
-  "LastUpdate_Achievements": "2023-12-31T05:09:04.0315024+00:00"
+  "LastUpdate_Ratings": "2023-12-31T05:59:06.0066589+00:00",
+  "LastUpdate_Achievements": "2023-12-31T06:10:25.8166245+00:00"
 }

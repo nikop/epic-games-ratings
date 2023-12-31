@@ -2,10 +2,10 @@
   "ID": "901880c636ef456e936d376fbe089f11",
   "Name": "Coffee Talk Episode 2 - Hibiscus and Butterfly",
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
-  "Ranking_EOS_Progress": 459,
+  "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 398,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 133,
+  "EOS_Progressed": 134,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -684,6 +684,11 @@
       "Time": "2023-12-30T21:08:40.957445+00:00",
       "NumProgressed": 133,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T06:08:28.9166334+00:00",
+      "NumProgressed": 134,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -717,9 +722,9 @@
       "ID": "ACH_50_DRINK_CHALLENGEMODE",
       "SetID": "8h8m55b",
       "Name": "Barista Guru",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_A_BUDDING_PARTNERSHIP",
@@ -751,13 +756,13 @@
       "Name": "Blood(ish) Red",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_BREW_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "First Brew",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 5,
       "UsersEstimate": 113
     },
@@ -767,15 +772,15 @@
       "Name": "It\u0027s a masterpiece!",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_CAT_SHELTER",
       "SetID": "8h8m55b",
       "Name": "Cat Shelter",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_CHILDS_PLAY",
@@ -807,15 +812,15 @@
       "Name": "Failed Messenger",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_FELLOW_INFLUENCER",
       "SetID": "8h8m55b",
       "Name": "Fellow Influencer",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_FESTINA_LENTE",
@@ -837,9 +842,9 @@
       "ID": "ACH_FIRSTLOVE",
       "SetID": "8h8m55b",
       "Name": "First Love",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_FIVE_STARS",
@@ -869,17 +874,17 @@
       "ID": "ACH_GUEST_OF_HONOR",
       "SetID": "8h8m55b",
       "Name": "Guest of Honor",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_HARDBOILED_ADVICE",
       "SetID": "8h8m55b",
       "Name": "A Hardboiled Advice",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_HOW_I_MET_YOUR_ANCESTOR",
@@ -901,17 +906,17 @@
       "ID": "ACH_JUST_MARRIED",
       "SetID": "8h8m55b",
       "Name": "Just Married",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_LISTEN_ALL_SONG",
       "SetID": "8h8m55b",
       "Name": "24/7 a beat to relax/study to",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_LOCAL_FAVORITE",
@@ -933,9 +938,9 @@
       "ID": "ACH_NEW_GAME_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Welcome to Coffee Talk",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_NOTHING_TO_SHOW",
@@ -957,9 +962,9 @@
       "ID": "ACH_OVERFLOWING_WARMTH",
       "SetID": "8h8m55b",
       "Name": "\u201COverflowing Warmth: CBAW\u201D",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_REMEMBRANCE",
@@ -1021,23 +1026,23 @@
       "ID": "ACH_TRASH_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Let me start over",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_TRUE_FAN",
       "SetID": "8h8m55b",
       "Name": "True Fan",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_UNLOCK_ALL",
       "SetID": "8h8m55b",
       "Name": "Oh wow, thank you ... I guess",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 190,
       "UsersEstimate": 1
     },
@@ -1061,9 +1066,9 @@
       "ID": "ACH_UNLOCK_GALLERY",
       "SetID": "8h8m55b",
       "Name": "Art Connoisseur",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_UNSOLICITED_BOUNCER",
@@ -1093,9 +1098,9 @@
       "ID": "ACH_WISTFUL_NIGHT",
       "SetID": "8h8m55b",
       "Name": "Wistful Nights",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_WORK_WOES",
@@ -1118,14 +1123,14 @@
     {
       "ID": "8h8m55b",
       "IsBase": true,
-      "Progressed": 133,
+      "Progressed": 134,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-12-31T05:06:09.4212542+00:00",
+  "LastChanged_Achievements": "2023-12-31T06:08:28.9166087+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:53.6877972+00:00",
-  "LastUpdate_Ratings": "2023-12-31T04:57:34.4131465+00:00",
-  "LastUpdate_Achievements": "2023-12-31T05:06:09.421301+00:00"
+  "LastUpdate_Ratings": "2023-12-31T05:57:47.9406956+00:00",
+  "LastUpdate_Achievements": "2023-12-31T06:08:28.9166714+00:00"
 }

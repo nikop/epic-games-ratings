@@ -6,20 +6,20 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,962 |
+| A Brief Tour of the Realms | 2.00% | ~4,963 |
 | The Cursed Farmer | 1.00% | ~2,481 |
 | Beast Intentions | 0.80% | ~1,985 |
 | The Mad Wizard | 0.70% | ~1,737 |
 | Welcome to Sigil | 0.70% | ~1,501 |
 | Fast Food | 0.60% | ~1,286 |
-| The Ring of Regeneration | 0.50% | ~1,240 |
-| Were-verpowered | 0.40% | ~992 |
-| Are Ya Chicken? | 0.40% | ~992 |
-| The Overgrown Grove | 0.40% | ~857 |
-| When Tentacles Attack | 0.40% | ~857 |
-| Flames of Avernus | 0.40% | ~857 |
-| Mental Gymnastics | 0.40% | ~857 |
-| Don't Lose Your Head | 0.40% | ~857 |
+| The Ring of Regeneration | 0.50% | ~1,241 |
+| Were-verpowered | 0.40% | ~993 |
+| Are Ya Chicken? | 0.40% | ~993 |
+| The Overgrown Grove | 0.40% | ~858 |
+| When Tentacles Attack | 0.40% | ~858 |
+| Flames of Avernus | 0.40% | ~858 |
+| Mental Gymnastics | 0.40% | ~858 |
+| Don't Lose Your Head | 0.40% | ~858 |
 | A Persistent Buzzing | 0.30% | ~744 |
 | Seeking Allies | 0.30% | ~744 |
 | Mad Cow Disease | 0.30% | ~744 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~214 |
 | The Brains of an Illithid's Desire | 0.10% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,094 (Ranked 69)  
+Progressed: 248,126 (Ranked 69)  
 Completed: 2,579 (1.04%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -808,7 +808,7 @@ Completed: 2,579 (1.04%) (Ranked 170)
 | 2023-12-28 | 246,305 | 2,573 |
 | 2023-12-29 | 247,120 | 2,575 |
 | 2023-12-30 | 247,917 | 2,578 |
-| 2023-12-31 | 248,094 | 2,579 |
+| 2023-12-31 | 248,126 | 2,579 |
 ## Awards
 Max (Great for Beginners): 5,720  (Ranked 71)  
 Sum: 33,206 (Ranked 41)  
