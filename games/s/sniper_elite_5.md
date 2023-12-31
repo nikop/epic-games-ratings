@@ -6,15 +6,15 @@ Rating: 4.46 (Ranked 673)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~1,960 |
-| Confirming Suspicions | 42.00% | ~1,751 |
+| Confirming Suspicions | 42.00% | ~1,752 |
 | The Kraken Wakes | 37.00% | ~1,543 |
 | It's Starting to Crack | 34.00% | ~1,418 |
-| Change the Channel | 32.00% | ~1,334 |
+| Change the Channel | 32.00% | ~1,335 |
 | Lord of War | 31.00% | ~1,293 |
 | Taking it back | 30.00% | ~1,251 |
 | Resourceful | 28.00% | ~1,168 |
 | Target America | 27.00% | ~1,126 |
-| The Kraken Sleeps | 25.00% | ~1,042 |
+| The Kraken Sleeps | 25.00% | ~1,043 |
 | As Quiet as a Mouse | 24.00% | ~1,001 |
 | Liberté | 23.00% | ~959 |
 | Organ Grinder | 23.00% | ~959 |
@@ -37,14 +37,14 @@ Rating: 4.46 (Ranked 673)
 | Precision Is Key | 10.00% | ~417 |
 | My Little Friend | 10.00% | ~417 |
 | Rigged to Blow | 9.00% | ~375 |
-| Herr Today, Gone Tomorrow | 7.00% | ~288 |
+| Herr Today, Gone Tomorrow | 7.00% | ~289 |
 | The Long Game | 6.00% | ~250 |
 | Operation Foxley | 6.00% | ~247 |
-| Strategist | 5.00% | ~208 |
-| Tinkerer | 5.00% | ~208 |
-| It'll Buff Right Out | 5.00% | ~208 |
-| Road Rage | 5.00% | ~208 |
-| Don't hold your breath | 5.00% | ~208 |
+| Strategist | 5.00% | ~209 |
+| Tinkerer | 5.00% | ~209 |
+| It'll Buff Right Out | 5.00% | ~209 |
+| Road Rage | 5.00% | ~209 |
+| Don't hold your breath | 5.00% | ~209 |
 | Last Resort | 5.00% | ~206 |
 | Siegebreaker | 5.00% | ~206 |
 | Ghost of Falaise | 5.00% | ~206 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 673)
 | Stroll in the Woods | 0.60% | ~25 |
 | Going Overboard | 0.60% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,170 (Ranked 208)  
+Progressed: 4,171 (Ranked 208)  
 Completed: 11 (0.26%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 11 (0.26%) (Ranked 261)
 | 2023-12-28 | 4,143 | 11 |
 | 2023-12-29 | 4,153 | 11 |
 | 2023-12-30 | 4,160 | 11 |
-| 2023-12-31 | 4,170 | 11 |
+| 2023-12-31 | 4,171 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 527)  
 Sum: 28 (Ranked 542)  

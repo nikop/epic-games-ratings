@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 473,
+  "EOS_Progressed": 474,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
@@ -1515,6 +1515,11 @@
       "Time": "2023-12-31T15:05:31.8935574+00:00",
       "NumProgressed": 473,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T23:05:37.0529564+00:00",
+      "NumProgressed": 474,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1652,9 +1657,9 @@
       "ID": "ach_cash",
       "SetID": "b8gh1fi",
       "Name": "Baron of Business",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_consultant",
@@ -1830,15 +1835,15 @@
       "Name": "Starting Skyward",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ach_floors_1",
       "SetID": "b8gh1fi",
       "Name": "Careful Constructor",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_floors_2",
@@ -1862,7 +1867,7 @@
       "Name": "Grime is Not Good",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ach_grime_1",
@@ -1878,7 +1883,7 @@
       "Name": "Rehab Expert",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ach_happy",
@@ -1894,7 +1899,7 @@
       "Name": "Don\u0027t Feel a Loan",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ach_mod_1",
@@ -1972,9 +1977,9 @@
       "ID": "ach_prestige_2",
       "SetID": "b8gh1fi",
       "Name": "Established Fame",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 76
     },
     {
       "ID": "ach_prestige_3",
@@ -2012,9 +2017,9 @@
       "ID": "ach_recycling_1",
       "SetID": "b8gh1fi",
       "Name": "Maximum Reuse",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_renters",
@@ -2038,7 +2043,7 @@
       "Name": "Tasty Profits",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ach_restaurants_3",
@@ -2212,9 +2217,9 @@
       "ID": "ach_veryhappy",
       "SetID": "b8gh1fi",
       "Name": "Thrilled Tenants",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 57
     },
     {
       "ID": "ach_visitors_1",
@@ -2229,7 +2234,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 473,
+      "Progressed": 474,
       "Completed": 0
     }
   ],
@@ -2237,8 +2242,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-12-31T22:04:26.064502+00:00",
+  "LastChanged_Achievements": "2023-12-31T23:05:37.052956+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.6325323+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:57:28.5893865+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:04:26.0645827+00:00"
+  "LastUpdate_Ratings": "2023-12-31T22:57:46.0623378+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:05:37.0530303+00:00"
 }

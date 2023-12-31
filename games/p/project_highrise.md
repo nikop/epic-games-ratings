@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 56.00% | ~265 |
-| Starting Skyward | 50.00% | ~236 |
-| Grime is Not Good | 43.00% | ~203 |
+| Starting Skyward | 50.00% | ~237 |
+| Grime is Not Good | 43.00% | ~204 |
 | Floor Galore | 38.00% | ~180 |
 | Campaign Launch | 37.00% | ~175 |
 | Dinner Dash | 37.00% | ~175 |
@@ -21,7 +21,7 @@
 | Smooth Service | 23.00% | ~109 |
 | Your Prestige is Rising | 22.00% | ~104 |
 | Retail Revenue | 22.00% | ~104 |
-| Don't Feel a Loan | 21.00% | ~99 |
+| Don't Feel a Loan | 21.00% | ~100 |
 | People Mover | 19.00% | ~90 |
 | Lux Living | 18.00% | ~85 |
 | Artfully Done | 18.00% | ~85 |
@@ -29,16 +29,16 @@
 | Leveled Up Shops | 18.00% | ~85 |
 | We Don't Need No Education | 18.00% | ~85 |
 | Get Electrified | 18.00% | ~85 |
-| Rehab Expert | 17.00% | ~80 |
-| Tasty Profits | 17.00% | ~80 |
-| Established Fame | 15.00% | ~71 |
+| Rehab Expert | 17.00% | ~81 |
+| Tasty Profits | 17.00% | ~81 |
+| Established Fame | 16.00% | ~76 |
 | Under One Roof | 14.00% | ~66 |
 | Starred Dining | 14.00% | ~66 |
 | Cashflow Chief | 14.00% | ~66 |
 | Boutique Benefits | 12.00% | ~57 |
+| Thrilled Tenants | 12.00% | ~57 |
 | Smooth Operator | 11.00% | ~52 |
 | Terrifically Trashed | 11.00% | ~52 |
-| Thrilled Tenants | 11.00% | ~52 |
 | 28 Days Later | 10.00% | ~47 |
 | Aestheticly Pleased | 9.00% | ~43 |
 | Swimming in Surplus | 9.00% | ~43 |
@@ -49,19 +49,19 @@
 | Water Features | 7.00% | ~33 |
 | Golden Opportunity | 7.00% | ~33 |
 | Phoning It In | 7.00% | ~33 |
+| Careful Constructor | 6.00% | ~28 |
 | Meet Me at HQ | 6.00% | ~28 |
+| Maximum Reuse | 6.00% | ~28 |
 | Revenue Royalty | 6.00% | ~28 |
 | Pipe Up | 6.00% | ~28 |
+| Baron of Business | 5.00% | ~24 |
 | I'm Busy Ruling | 5.00% | ~24 |
-| Careful Constructor | 5.00% | ~24 |
 | Sky High Stature | 5.00% | ~24 |
 | Profound Proceeds | 5.00% | ~24 |
-| Maximum Reuse | 5.00% | ~24 |
 | Tuned In | 5.00% | ~24 |
 | It's a Gas | 5.00% | ~24 |
 | Meet ADA/360 | 4.00% | ~19 |
 | Penthouse in the Sky | 4.00% | ~19 |
-| Baron of Business | 4.00% | ~19 |
 | Sandbagger | 4.00% | ~19 |
 | Decorator's Touch | 3.00% | ~14 |
 | Office Bigwigs | 3.00% | ~14 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473 (Ranked 348)  
+Progressed: 474 (Ranked 348)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 453 | 0 |
 | 2023-12-29 | 459 | 0 |
 | 2023-12-30 | 468 | 0 |
-| 2023-12-31 | 473 | 0 |
+| 2023-12-31 | 474 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

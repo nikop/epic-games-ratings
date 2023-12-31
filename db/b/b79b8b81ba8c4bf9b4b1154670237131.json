@@ -167,9 +167,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16194,
+  "EOS_Progressed": 16196,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 396,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5492,6 +5492,11 @@
       "Time": "2023-12-31T22:09:20.4730491+00:00",
       "NumProgressed": 16194,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-12-31T23:10:28.2148023+00:00",
+      "NumProgressed": 16196,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -5512,7 +5517,7 @@
       "Name": "Together We Fight",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "ACH_AE_11",
@@ -5536,7 +5541,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12146
+      "UsersEstimate": 12147
     },
     {
       "ID": "ACH_AE_14",
@@ -5600,7 +5605,7 @@
       "Name": "Let It Out",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1619
+      "UsersEstimate": 1620
     },
     {
       "ID": "ACH_AE_21",
@@ -5624,7 +5629,7 @@
       "Name": "Emergency Services",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1781
+      "UsersEstimate": 1782
     },
     {
       "ID": "ACH_AE_24",
@@ -5632,7 +5637,7 @@
       "Name": "Think Fast",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1781
+      "UsersEstimate": 1782
     },
     {
       "ID": "ACH_AE_25",
@@ -5640,7 +5645,7 @@
       "Name": "Family History",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1619
+      "UsersEstimate": 1620
     },
     {
       "ID": "ACH_AE_26",
@@ -5648,7 +5653,7 @@
       "Name": "Live With It",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1781
+      "UsersEstimate": 1782
     },
     {
       "ID": "ACH_AE_27",
@@ -5744,7 +5749,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1943
+      "UsersEstimate": 1944
     },
     {
       "ID": "ACH_AE_6",
@@ -5752,7 +5757,7 @@
       "Name": "Betrayal",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "ACH_AE_7",
@@ -5760,7 +5765,7 @@
       "Name": "Renewal",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1619
+      "UsersEstimate": 1620
     },
     {
       "ID": "ACH_AE_8",
@@ -5768,7 +5773,7 @@
       "Name": "Prisoner Dilemma",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1619
+      "UsersEstimate": 1620
     },
     {
       "ID": "ACH_AE_9",
@@ -5776,14 +5781,14 @@
       "Name": "Paradise Lost",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     }
   ],
   "AchievementSets": [
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16194,
+      "Progressed": 16196,
       "Completed": 15
     }
   ],
@@ -5791,8 +5796,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-27T16:00:31.0909826+00:00",
-  "LastChanged_Achievements": "2023-12-31T22:09:20.4730487+00:00",
+  "LastChanged_Achievements": "2023-12-31T23:10:28.2148019+00:00",
   "LastUpdate_AppInfo": "2023-12-26T18:57:07.3435183+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:57:45.8549672+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:09:20.4730926+00:00"
+  "LastUpdate_Ratings": "2023-12-31T22:58:11.3765311+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:10:28.2148445+00:00"
 }

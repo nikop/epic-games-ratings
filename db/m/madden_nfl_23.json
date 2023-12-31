@@ -4,10 +4,10 @@
   "ProductSlug": "madden-nfl-23",
   "Ranking_Rating": 868,
   "Ranking_Popularity": 460,
-  "Ranking_PopularitySum": 429,
+  "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -959,10 +959,16 @@
       "Rating": 4.3,
       "NumberOfAwards": 172,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2023-12-31T23:01:09.8001482+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 173,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 172,
+  "NumberOfAwards": 173,
   "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -994,7 +1000,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -1003,9 +1009,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4260,
+  "EOS_Progressed": 4261,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8088,6 +8094,11 @@
       "Time": "2023-12-31T18:05:31.949887+00:00",
       "NumProgressed": 4260,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T23:06:31.4480734+00:00",
+      "NumProgressed": 4261,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -8106,9 +8117,9 @@
       "ID": "achievement_10",
       "SetID": "c8fif6p",
       "Name": "Bragging Rights",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 2343
+      "UsersEstimate": 2386
     },
     {
       "ID": "achievement_11",
@@ -8116,7 +8127,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "achievement_12",
@@ -8140,7 +8151,7 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "achievement_15",
@@ -8148,7 +8159,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2300
+      "UsersEstimate": 2301
     },
     {
       "ID": "achievement_16",
@@ -8156,7 +8167,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1363
+      "UsersEstimate": 1364
     },
     {
       "ID": "achievement_17",
@@ -8267,16 +8278,16 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4260,
+      "Progressed": 4261,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-10-21T06:01:19.8599973+00:00",
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
-  "LastChanged": "2023-12-31T21:59:50.6675065+00:00",
-  "LastChanged_Achievements": "2023-12-31T22:05:07.0192198+00:00",
+  "LastChanged": "2023-12-31T23:01:09.800148+00:00",
+  "LastChanged_Achievements": "2023-12-31T23:06:31.448073+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.7364021+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:59:50.667507+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:05:07.0192714+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:01:09.8001485+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:06:31.4481184+00:00"
 }

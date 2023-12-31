@@ -27,7 +27,7 @@ Number of Ratings: 425  (23.09.2022)
 | Combo Meal | 38.00% | ~11,017 |
 | Midnight Snak | 36.00% | ~10,437 |
 | Candid Cryptid | 35.00% | ~10,148 |
-| Got to Catch Them All | 32.00% | ~9,278 |
+| Got to Catch Them All | 33.00% | ~9,568 |
 | Deep Impact | 23.00% | ~6,668 |
 | Grab Bag | 23.00% | ~6,668 |
 | Feeding Frenzy | 19.00% | ~5,509 |

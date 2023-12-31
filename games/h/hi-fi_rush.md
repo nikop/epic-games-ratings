@@ -14,12 +14,12 @@ Rating: 4.86 (Ranked 31)
 | You got this, Peppermint? | 27.00% | ~3,811 |
 | Perfect Parry | 25.00% | ~3,529 |
 | Alright, that felt AWESOME! | 25.00% | ~3,529 |
-| I play my own way! | 22.00% | ~3,105 |
+| I play my own way! | 22.00% | ~3,106 |
 | This will cost you big time | 20.00% | ~2,823 |
 | Uh, they were broken when I got here | 19.00% | ~2,682 |
 | Z-shielding's got nothing on us! | 18.00% | ~2,541 |
 | Kissing the sky! | 17.00% | ~2,400 |
-| Does that say weakpoint? | 16.00% | ~2,258 |
+| Does that say weakpoint? | 16.00% | ~2,259 |
 | Whoa! There's ANOTHER health bar!? | 15.00% | ~2,117 |
 | The Negotiator | 14.00% | ~1,976 |
 | You must like calling me in, Chai | 12.00% | ~1,694 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 31)
 | Voices from within | 0.10% | ~13 |
 | Low budget finish | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,115 (Ranked 171)  
+Progressed: 14,116 (Ranked 171)  
 Completed: 8 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 8 (0.06%) (Ranked 327)
 | 2023-12-28 | 13,062 | 8 |
 | 2023-12-29 | 13,371 | 8 |
 | 2023-12-30 | 13,741 | 8 |
-| 2023-12-31 | 14,115 | 8 |
+| 2023-12-31 | 14,116 | 8 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 539)  
 Sum: 26 (Ranked 549)  

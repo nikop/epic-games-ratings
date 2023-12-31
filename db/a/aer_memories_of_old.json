@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27590,
+  "EOS_Progressed": 27591,
   "EOS_Completed": 506,
-  "EOS_NewPlayers": 598,
+  "EOS_NewPlayers": 597,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.83,
   "EosHistory": [
@@ -27924,6 +27924,11 @@
       "Time": "2023-12-31T22:06:06.1227246+00:00",
       "NumProgressed": 27590,
       "NumCompleted": 506
+    },
+    {
+      "Time": "2023-12-31T23:08:29.885913+00:00",
+      "NumProgressed": 27591,
+      "NumCompleted": 506
     }
   ],
   "TotalAchievements": 20,
@@ -27935,7 +27940,7 @@
       "Name": "Cartographer",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 4414
+      "UsersEstimate": 4415
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -28055,7 +28060,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 20968
+      "UsersEstimate": 20969
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -28063,7 +28068,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7449
+      "UsersEstimate": 7450
     },
     {
       "ID": "NORTH_FINISHED",
@@ -28094,15 +28099,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 27590,
+      "Progressed": 27591,
       "Completed": 506
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-31T22:06:06.1227244+00:00",
+  "LastChanged_Achievements": "2023-12-31T23:08:29.8859125+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.3353951+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:59:22.2914827+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:06:06.1228678+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:00:29.283164+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:08:29.8861638+00:00"
 }

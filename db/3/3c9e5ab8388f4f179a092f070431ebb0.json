@@ -4,7 +4,7 @@
   "ProductSlug": "torch-cave-828b66",
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-20T14:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-29T11:57:17.2434946+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:59:58.2198414+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:03:50.674851+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:01:20.5906392+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:04:44.2401935+00:00"
 }

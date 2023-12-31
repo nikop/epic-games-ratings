@@ -225,9 +225,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 14115,
+  "EOS_Progressed": 14116,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2423,
+  "EOS_NewPlayers": 2419,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10555,6 +10555,11 @@
       "Time": "2023-12-31T22:06:08.4155956+00:00",
       "NumProgressed": 14115,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-31T23:08:33.0304792+00:00",
+      "NumProgressed": 14116,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -10694,7 +10699,7 @@
       "Name": "I play my own way!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 3105
+      "UsersEstimate": 3106
     },
     {
       "ID": "Ach018",
@@ -10982,7 +10987,7 @@
       "Name": "Does that say weakpoint?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2258
+      "UsersEstimate": 2259
     },
     {
       "ID": "Ach054",
@@ -11133,13 +11138,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 14115,
+      "Progressed": 14116,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 12636,
+      "Progressed": 12637,
       "Completed": 1930
     }
   ],
@@ -11147,8 +11152,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-12-31T15:59:04.9817667+00:00",
-  "LastChanged_Achievements": "2023-12-31T22:06:08.4155951+00:00",
+  "LastChanged_Achievements": "2023-12-31T23:08:33.0304782+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:38.1838915+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:59:21.0797925+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:06:08.4156913+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:00:27.316303+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:08:33.0306131+00:00"
 }

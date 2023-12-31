@@ -284,9 +284,9 @@
       "ID": "Boss_Cube",
       "SetID": "cla1dpp",
       "Name": "I hate geometry so much!",
-      "Percentage": 25,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Boss_King",
@@ -427,8 +427,8 @@
   ],
   "FirstSeen": "2023-10-24T18:58:49.6745587+00:00",
   "FirstSeenAchievements": "2023-08-23T14:02:21.3308024+00:00",
-  "LastChanged_Achievements": "2023-12-31T22:09:25.6009697+00:00",
+  "LastChanged_Achievements": "2023-12-31T23:10:35.0320379+00:00",
   "LastUpdate_AppInfo": "2023-12-28T02:56:54.5483043+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:58:37.7130065+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:09:25.600987+00:00"
+  "LastUpdate_Ratings": "2023-12-31T22:59:25.728641+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:10:35.0320576+00:00"
 }

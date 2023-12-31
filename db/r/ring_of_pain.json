@@ -3832,9 +3832,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 242125,
+  "EOS_Progressed": 242129,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 500,
+  "EOS_NewPlayers": 502,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -30247,6 +30247,11 @@
       "Time": "2023-12-31T21:10:49.5630552+00:00",
       "NumProgressed": 242125,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-31T23:11:19.3116007+00:00",
+      "NumProgressed": 242129,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -30258,7 +30263,7 @@
       "Name": "Thank You, Friend",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "ALLACHIEVEMENTS",
@@ -30322,7 +30327,7 @@
       "Name": "Shadow Spreads",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "DARKENDINGMEDIUM",
@@ -30346,7 +30351,7 @@
       "Name": "Max Damage!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "DEPTH12",
@@ -30370,7 +30375,7 @@
       "Name": "A Rough Road",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "DEPTH6",
@@ -30578,7 +30583,7 @@
       "Name": "Berzerker",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "HIGHCLARITY",
@@ -30810,7 +30815,7 @@
       "Name": "Illuminate, Eliminate",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "LIGHTENDINGHARD",
@@ -30850,7 +30855,7 @@
       "Name": "Chain Reaction",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "MULTIKILL30",
@@ -30962,7 +30967,7 @@
       "Name": "Antivenom",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "REROLL30TIMES",
@@ -31082,7 +31087,7 @@
       "Name": "The Long Run",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "WIN0ATTACK",
@@ -31361,13 +31366,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242125,
+      "Progressed": 242129,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3605,
+      "Progressed": 3609,
       "Completed": 416
     }
   ],
@@ -31375,8 +31380,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-31T11:02:50.1043055+00:00",
-  "LastChanged_Achievements": "2023-12-31T22:10:00.5082036+00:00",
+  "LastChanged_Achievements": "2023-12-31T23:11:19.3116004+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:57:09.2099058+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:10:00.5084614+00:00"
+  "LastUpdate_Ratings": "2023-12-31T22:57:20.2069943+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:11:19.3118863+00:00"
 }

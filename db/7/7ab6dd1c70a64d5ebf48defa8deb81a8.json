@@ -51,7 +51,7 @@
   "Tags": [],
   "EOS_Progressed": 1577,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -3374,9 +3374,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 347
+      "UsersEstimate": 363
     },
     {
       "ID": "ACH_35",
@@ -3398,9 +3398,9 @@
       "ID": "ACH_38",
       "SetID": "efe2lj",
       "Name": "Summiter",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
@@ -3415,8 +3415,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2023-12-29T23:58:00.9350231+00:00",
-  "LastChanged_Achievements": "2023-12-31T22:09:53.4236899+00:00",
+  "LastChanged_Achievements": "2023-12-31T23:11:11.1002025+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:59:02.0942049+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:09:53.4237207+00:00"
+  "LastUpdate_Ratings": "2023-12-31T22:59:59.8594754+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:11:11.1002444+00:00"
 }

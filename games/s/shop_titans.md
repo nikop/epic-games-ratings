@@ -10,23 +10,24 @@ Number of Ratings: 12,664  (23.09.2022)
 | Titan's First Steps | 10.00% | ~14,871 |
 | Basic in Bulk | 9.00% | ~13,384 |
 | Tinkle of Coins | 8.00% | ~11,897 |
-| Disintermediation | 7.00% | ~10,409 |
-| Capitalism Ho! | 7.00% | ~10,409 |
-| It's Free Real Estate | 6.00% | ~8,922 |
-| Budding Merchant | 6.00% | ~8,922 |
-| One Easy Payment | 5.00% | ~7,435 |
-| Some Assembly Required | 5.00% | ~7,435 |
-| Another Satisfied Customer | 5.00% | ~7,435 |
-| Pretty Penny | 5.00% | ~7,435 |
-| Own the Means of Production | 5.00% | ~7,435 |
-| The Daily Grind | 4.00% | ~5,948 |
-| Bounty Hunters | 4.00% | ~5,948 |
-| Demand for Supplies | 4.00% | ~5,948 |
-| Flooding the Market | 4.00% | ~5,948 |
-| Where it Hurts | 4.00% | ~5,948 |
-| One-Armed Bandit | 4.00% | ~5,948 |
-| Dungeon Imports | 4.00% | ~5,948 |
-| Through Repetition, Perfection | 4.00% | ~5,948 |
+| Disintermediation | 7.00% | ~10,410 |
+| Capitalism Ho! | 7.00% | ~10,410 |
+| It's Free Real Estate | 6.00% | ~8,923 |
+| Budding Merchant | 6.00% | ~8,923 |
+| One Easy Payment | 5.00% | ~7,436 |
+| Some Assembly Required | 5.00% | ~7,436 |
+| Another Satisfied Customer | 5.00% | ~7,436 |
+| Pretty Penny | 5.00% | ~7,436 |
+| Own the Means of Production | 5.00% | ~7,436 |
+| The Daily Grind | 4.00% | ~5,949 |
+| Bounty Hunters | 4.00% | ~5,949 |
+| Demand for Supplies | 4.00% | ~5,949 |
+| Flooding the Market | 4.00% | ~5,949 |
+| Where it Hurts | 4.00% | ~5,949 |
+| One-Armed Bandit | 4.00% | ~5,949 |
+| Dungeon Imports | 4.00% | ~5,949 |
+| Through Repetition, Perfection | 4.00% | ~5,949 |
+| Arcane Industries | 4.00% | ~5,949 |
 | On the Path to Greatness | 3.00% | ~4,461 |
 | Ascended | 3.00% | ~4,461 |
 | Tax not Included | 3.00% | ~4,461 |
@@ -45,7 +46,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Natural 20 | 3.00% | ~4,461 |
 | Did we pack lunch? | 3.00% | ~4,461 |
 | Magical Harmony | 3.00% | ~4,461 |
-| Arcane Industries | 3.00% | ~4,461 |
 | Complete Monopoly | 3.00% | ~4,461 |
 | A Notch Above the Rest | 2.00% | ~2,974 |
 | Cream of the Crop | 2.00% | ~2,974 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~595 |
 | Capitalist Camaraderie | 0.20% | ~297 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,707 (Ranked 85)  
+Progressed: 148,713 (Ranked 86)  
 Completed: 340 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -374,7 +374,7 @@ Completed: 340 (0.23%) (Ranked 267)
 | 2023-12-28 | 148,196 | 337 |
 | 2023-12-29 | 148,353 | 338 |
 | 2023-12-30 | 148,534 | 340 |
-| 2023-12-31 | 148,707 | 340 |
+| 2023-12-31 | 148,713 | 340 |
 ## Awards
 Max (Great for Beginners): 4,934  (Ranked 78)  
 Sum: 27,878 (Ranked 51)  

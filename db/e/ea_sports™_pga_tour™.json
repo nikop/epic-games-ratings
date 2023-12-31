@@ -3,7 +3,7 @@
   "Name": "EA SPORTS\u2122 PGA TOUR\u2122",
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 303,
-  "Ranking_EOS_Completed": 157,
+  "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
@@ -20,11 +20,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 808,
+  "EOS_Progressed": 810,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.24,
+  "EOS_Completed_Percentage": 1.23,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -2905,6 +2905,11 @@
       "Time": "2023-12-31T22:09:34.799013+00:00",
       "NumProgressed": 808,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-31T23:10:47.0870573+00:00",
+      "NumProgressed": 810,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -2923,9 +2928,9 @@
       "ID": "achievement_10",
       "SetID": "7ldgi7j",
       "Name": "Holey Moley",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 372
+      "UsersEstimate": 364
     },
     {
       "ID": "achievement_11",
@@ -2933,7 +2938,7 @@
       "Name": "Bomb\u0027s Away",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "achievement_12",
@@ -2941,7 +2946,7 @@
       "Name": "From Way Downtown",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "achievement_13",
@@ -2955,9 +2960,9 @@
       "ID": "achievement_14",
       "SetID": "7ldgi7j",
       "Name": "Golfer Versus Golfer",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_15",
@@ -2973,7 +2978,7 @@
       "Name": "Star Power",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "achievement_17",
@@ -2981,7 +2986,7 @@
       "Name": "Clean Sheet",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "achievement_18",
@@ -2989,7 +2994,7 @@
       "Name": "Perfect Round",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "achievement_2",
@@ -3011,9 +3016,9 @@
       "ID": "achievement_4",
       "SetID": "7ldgi7j",
       "Name": "From Many, One",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 186
+      "UsersEstimate": 178
     },
     {
       "ID": "achievement_5",
@@ -3029,7 +3034,7 @@
       "Name": "The Strongest Field in Golf",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "achievement_7",
@@ -3037,7 +3042,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 452
+      "UsersEstimate": 454
     },
     {
       "ID": "achievement_8",
@@ -3045,7 +3050,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 47,
       "XP": 35,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "achievement_9",
@@ -3060,13 +3065,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 808,
+      "Progressed": 810,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-31T22:09:34.7990126+00:00",
+  "LastChanged_Achievements": "2023-12-31T23:10:47.0870567+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:46.6527826+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:57:08.5675201+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:09:34.7990388+00:00"
+  "LastUpdate_Ratings": "2023-12-31T22:57:19.3044073+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:10:47.0870829+00:00"
 }

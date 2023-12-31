@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 170,
+  "EOS_Progressed": 171,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -674,6 +674,11 @@
       "Time": "2023-12-31T22:04:11.7815232+00:00",
       "NumProgressed": 170,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T23:05:17.0463575+00:00",
+      "NumProgressed": 171,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -702,7 +707,7 @@
       "Name": "Mineral-Rich",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "c3",
@@ -718,7 +723,7 @@
       "Name": "Clear Road",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "dl2",
@@ -740,9 +745,9 @@
       "ID": "f1",
       "SetID": "b1ggf28",
       "Name": "Agriculture Tycoon",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 51
     },
     {
       "ID": "f2",
@@ -764,9 +769,9 @@
       "ID": "fw1",
       "SetID": "b1ggf28",
       "Name": "City Center",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 75
     },
     {
       "ID": "fw2",
@@ -790,7 +795,7 @@
       "Name": "Skilled Workers",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "g2",
@@ -862,7 +867,7 @@
       "Name": "Treatment of plague",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "jk2",
@@ -894,7 +899,7 @@
       "Name": "Architect",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "jz3",
@@ -910,7 +915,7 @@
       "Name": "Advanced Technology",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "k2",
@@ -998,7 +1003,7 @@
       "Name": "Against the Cold",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "w2",
@@ -1030,7 +1035,7 @@
       "Name": "Hard-Drinking",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "x3",
@@ -1093,14 +1098,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 170,
+      "Progressed": 171,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2023-12-31T22:04:11.7815228+00:00",
+  "LastChanged_Achievements": "2023-12-31T23:05:17.0463569+00:00",
   "LastUpdate_AppInfo": "2023-12-27T04:56:58.3049887+00:00",
-  "LastUpdate_Ratings": "2023-12-31T22:02:48.878681+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:04:11.7815852+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:03:17.1114763+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:05:17.0463886+00:00"
 }

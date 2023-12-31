@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -4498,9 +4498,9 @@
       "ID": "DefeatGrubBuster",
       "SetID": "cbf1i0c",
       "Name": "Defeat the Grub Buster",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "DefeatStalkerQueen",
@@ -4546,15 +4546,15 @@
       "ID": "cbf1i0c",
       "IsBase": false,
       "Progressed": 938,
-      "Completed": 909
+      "Completed": 910
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-23T19:58:55.6551134+00:00",
-  "LastChanged_Achievements": "2023-12-31T22:04:48.5884659+00:00",
+  "LastChanged_Achievements": "2023-12-31T23:06:07.8175354+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:25.3230554+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:58:21.6978255+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:04:48.5885121+00:00"
+  "LastUpdate_Ratings": "2023-12-31T22:59:03.5344571+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:06:07.8175784+00:00"
 }

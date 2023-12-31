@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 919,
+  "EOS_Progressed": 920,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
@@ -3972,6 +3972,11 @@
       "Time": "2023-12-31T22:09:29.4413775+00:00",
       "NumProgressed": 919,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T23:10:40.0992691+00:00",
+      "NumProgressed": 920,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4239,7 +4244,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "TrattoriaSet",
@@ -4302,7 +4307,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 919,
+      "Progressed": 920,
       "Completed": 0
     }
   ],
@@ -4310,8 +4315,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-12-31T22:09:29.4413772+00:00",
+  "LastChanged_Achievements": "2023-12-31T23:10:40.0992687+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.9361067+00:00",
-  "LastUpdate_Ratings": "2023-12-31T22:00:15.8703165+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:09:29.4414196+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:02:45.73148+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:10:40.0993192+00:00"
 }

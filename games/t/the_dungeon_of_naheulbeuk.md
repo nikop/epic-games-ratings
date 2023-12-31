@@ -6,8 +6,8 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~88,499 |
-| Alt+F4 | 10.00% | ~24,583 |
+| Sowwy! | 36.00% | ~88,501 |
+| Alt+F4 | 10.00% | ~24,584 |
 | Where's that freaking Dwarf? | 9.00% | ~22,125 |
 | Déjà vu | 7.00% | ~17,208 |
 | Sock! SOCK! | 6.00% | ~14,750 |
@@ -45,7 +45,7 @@ Number of Ratings: 118  (23.09.2022)
 | In Navalu's footsteps | 1.00% | ~2,458 |
 | Lust and Debauchery | 1.00% | ~2,458 |
 | Material Girl | 1.00% | ~2,458 |
-| Lëgal Legend | 0.90% | ~2,212 |
+| Lëgal Legend | 0.90% | ~2,213 |
 | We come in peace | 0.80% | ~1,967 |
 | Holistic Adventuring Party | 0.70% | ~1,721 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,721 |
@@ -55,7 +55,7 @@ Number of Ratings: 118  (23.09.2022)
 | Friendly fire | 0.40% | ~983 |
 | I'd rather... Just... Sing! | 0.40% | ~983 |
 | Inception | 0.40% | ~983 |
-| The number of the counting shalt be 7 | 0.30% | ~737 |
+| The number of the counting shalt be 7 | 0.30% | ~738 |
 | Cursed die | 0.20% | ~492 |
 | The Blood Countess | 0.20% | ~492 |
 | He’s alive! Aliiiive! | 0.20% | ~492 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~246 |
 | Dwarf Candy | 0.10% | ~246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,830 (Ranked 70)  
+Progressed: 245,835 (Ranked 70)  
 Completed: 8 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,17 +309,17 @@ Completed: 8 (0.00%) (Ranked 391)
 | 2023-12-28 | 245,240 | 8 |
 | 2023-12-29 | 245,438 | 8 |
 | 2023-12-30 | 245,630 | 8 |
-| 2023-12-31 | 245,830 | 8 |
+| 2023-12-31 | 245,835 | 8 |
 ## Awards
 Max (Character Customization): 262  (Ranked 276)  
-Sum: 548 (Ranked 329)  
-Diff (max vs sum): -53  
+Sum: 549 (Ranked 328)  
+Diff (max vs sum): -52  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 262 |
 | This game is Relaxing | 39 |
 | This game is Great for Beginners | 37 |
-| This game is Highly Recommended | 35 |
+| This game is Highly Recommended | 36 |
 | This game has Quickly Understood Controls | 34 |
 | This game has Amazing Storytelling | 33 |
 | This game has Diverse Characters | 30 |
@@ -535,3 +535,4 @@ Diff (max vs sum): -53
 | 2023-12-28 | 4.59 | - | 260 | 542 |
 | 2023-12-29 | 4.59 | - | 261 | 545 |
 | 2023-12-30 | 4.59 | - | 262 | 548 |
+| 2023-12-31 | 4.59 | - | 262 | 549 |

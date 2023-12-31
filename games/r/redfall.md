@@ -1,16 +1,16 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.61 (Ranked 1,081)  
+Rating: 3.61 (Ranked 1,082)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 17.00% | ~372 |
+| I Like My Stakes Rare! | 18.00% | ~394 |
 | Catch and Release | 13.00% | ~285 |
 | Home Is Where the Heart Is | 12.00% | ~263 |
+| Wounded Whispers | 12.00% | ~263 |
 | ICU | 11.00% | ~241 |
-| Wounded Whispers | 11.00% | ~241 |
-| Blood Will Have Blood | 9.00% | ~197 |
+| Blood Will Have Blood | 10.00% | ~219 |
 | Ne Plus Ultra | 9.00% | ~197 |
 | Fly Fisher | 9.00% | ~197 |
 | Peek-a-boo | 9.00% | ~197 |
@@ -72,7 +72,7 @@ Rating: 3.61 (Ranked 1,081)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,190 (Ranked 238)  
+Progressed: 2,191 (Ranked 238)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 2,135 | 0 |
 | 2023-12-29 | 2,155 | 0 |
 | 2023-12-30 | 2,176 | 0 |
-| 2023-12-31 | 2,190 | 0 |
+| 2023-12-31 | 2,191 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 571)  
 Sum: 20 (Ranked 572)  

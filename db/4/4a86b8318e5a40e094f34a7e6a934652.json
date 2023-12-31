@@ -3,7 +3,7 @@
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 356,
-  "Ranking_EOS_Completed": 196,
+  "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 437,
+  "EOS_Progressed": 438,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.69,
+  "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
     {
       "Time": "2023-08-29T09:05:59.1773399+00:00",
@@ -1854,6 +1854,11 @@
       "Time": "2023-12-31T19:03:28.1621448+00:00",
       "NumProgressed": 437,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-31T23:04:05.6024649+00:00",
+      "NumProgressed": 438,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -1866,7 +1871,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -1874,15 +1879,15 @@
       "Name": "Design Engineer",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 280
+      "UsersEstimate": 276
     },
     {
       "ID": "BRING_PROSPERO",
@@ -1978,7 +1983,7 @@
       "Name": "Weed Warrior",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -2010,7 +2015,7 @@
       "Name": "Uppies!",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -2025,14 +2030,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 437,
+      "Progressed": 438,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-31T22:03:21.5900415+00:00",
+  "LastChanged_Achievements": "2023-12-31T23:04:05.6024646+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.5394751+00:00",
-  "LastUpdate_Ratings": "2023-12-31T22:02:36.5927154+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:03:21.5900583+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:03:00.0676788+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:04:05.6024884+00:00"
 }

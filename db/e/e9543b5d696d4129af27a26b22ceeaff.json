@@ -4,7 +4,7 @@
   "ProductSlug": "international-basketball-manager-23-561576",
   "Ranking_EOS_Progress": 547,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 433,
+  "Ranking_EOS_NewPlayers": 434,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
@@ -306,9 +306,9 @@
       "ID": "ACH_AMERICAN_CAREER",
       "SetID": "1lnhagg",
       "Name": "To the States!",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_ASSISTS_DELIVERY",
@@ -418,9 +418,9 @@
       "ID": "ACH_LOST_BY_40",
       "SetID": "1lnhagg",
       "Name": "If Only I Had Known",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_MANAGERS_FAN",
@@ -442,9 +442,9 @@
       "ID": "ACH_PLAYER_RECRUIT",
       "SetID": "1lnhagg",
       "Name": "Recruited player",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_REBOUNDER",
@@ -537,8 +537,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2023-12-31T22:08:26.4429712+00:00",
+  "LastChanged_Achievements": "2023-12-31T23:09:16.2503602+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:12.5001029+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:59:41.0249889+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:08:26.4429962+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:00:56.3764713+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:09:16.2503849+00:00"
 }

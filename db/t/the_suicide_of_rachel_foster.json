@@ -2,7 +2,7 @@
   "ID": "67eb392889234b4d99a6562c5e60c825",
   "Name": "The Suicide of Rachel Foster",
   "ProductSlug": "the-suicide-of-rachel-foster-1dc01b",
-  "Ranking_Rating": 960,
+  "Ranking_Rating": 959,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 251,
@@ -263,7 +263,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1808,
+  "EOS_Progressed": 1809,
   "EOS_Completed": 76,
   "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 1,
@@ -4123,6 +4123,11 @@
       "Time": "2023-12-31T22:05:54.0068473+00:00",
       "NumProgressed": 1808,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2023-12-31T23:07:33.7980711+00:00",
+      "NumProgressed": 1809,
+      "NumCompleted": 76
     }
   ],
   "TotalAchievements": 11,
@@ -4134,7 +4139,7 @@
       "Name": "Cutepie",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -4142,7 +4147,7 @@
       "Name": "Freeze to death",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "ACH_Cacciavite",
@@ -4174,7 +4179,7 @@
       "Name": "Alone",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "ACH_FineGioco",
@@ -4190,7 +4195,7 @@
       "Name": "Pack Rat",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -4198,7 +4203,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -4206,7 +4211,7 @@
       "Name": "Someone was here",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "ACH_SussurriHotel",
@@ -4214,22 +4219,22 @@
       "Name": "Ghost Hunters",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1808,
+      "Progressed": 1809,
       "Completed": 76
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2023-12-31T22:05:54.0068469+00:00",
+  "LastChanged_Achievements": "2023-12-31T23:07:33.7980706+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:08.0184284+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:58:30.1596551+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:05:54.0068725+00:00"
+  "LastUpdate_Ratings": "2023-12-31T22:59:15.3661391+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:07:33.7981+00:00"
 }

@@ -1193,9 +1193,9 @@
       "ID": "26",
       "SetID": "6bgoh8g",
       "Name": "The only useful pigeon is a stool pigeon",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "27",
@@ -1257,9 +1257,9 @@
       "ID": "9",
       "SetID": "6bgoh8g",
       "Name": "Encore!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
@@ -1272,8 +1272,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-12-31T22:05:58.6167085+00:00",
+  "LastChanged_Achievements": "2023-12-31T23:07:39.984306+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:21.3580987+00:00",
-  "LastUpdate_Ratings": "2023-12-31T22:02:57.242264+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:05:58.6167354+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:03:29.1322749+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:07:39.984355+00:00"
 }

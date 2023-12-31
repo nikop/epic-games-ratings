@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 521,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -288,9 +288,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 267,
+  "EOS_Progressed": 268,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1328,6 +1328,11 @@
       "Time": "2023-12-31T22:08:59.535386+00:00",
       "NumProgressed": 267,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T23:10:00.2745807+00:00",
+      "NumProgressed": 268,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1356,7 +1361,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -1372,7 +1377,7 @@
       "Name": "Furon Fashion",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1410,9 +1415,9 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1420,7 +1425,7 @@
       "Name": "Transmitting From Sol-3",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_COP_THROUGH_DONUT",
@@ -1452,7 +1457,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1466,9 +1471,9 @@
       "ID": "ACH_ENTER_ALBION",
       "SetID": "4n84pon",
       "Name": "Lie Back and Think of Albion",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -1476,7 +1481,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1532,15 +1537,15 @@
       "Name": "Freshly Squeezed",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_KILL_PONSONBY",
       "SetID": "4n84pon",
       "Name": "Die Nasty",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -1588,7 +1593,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -1626,9 +1631,9 @@
       "ID": "ACH_SKATE_AWAY_FROM_SPORE",
       "SetID": "4n84pon",
       "Name": "Dusted",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_SKATE_BAYCITY",
@@ -1691,7 +1696,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 267,
+      "Progressed": 268,
       "Completed": 1
     }
   ],
@@ -1699,8 +1704,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-31T11:01:39.7283208+00:00",
-  "LastChanged_Achievements": "2023-12-31T22:08:59.5353856+00:00",
+  "LastChanged_Achievements": "2023-12-31T23:10:00.2745802+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:57:05.1971867+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:08:59.5354197+00:00"
+  "LastUpdate_Ratings": "2023-12-31T22:57:14.0906015+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:10:00.2746404+00:00"
 }

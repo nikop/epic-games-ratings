@@ -29,10 +29,10 @@ Rating: 4.56 (Ranked 503)
 | Return Power To The Depths | 0.80% | ~18 |
 | Defeat Ratnor Rodentson | 0.70% | ~16 |
 | Fix the Travellers Wagon | 0.70% | ~16 |
+| Defeat the Grub Buster | 0.70% | ~7 |
 | Complete the Chefs Book | 0.60% | ~14 |
 | Defeat Avor Warden of the Northern Wastes | 0.60% | ~14 |
 | Discover the mystery of the Kings Chambers | 0.60% | ~14 |
-| Defeat the Grub Buster | 0.60% | ~6 |
 | Defeat the Stalker Queen | 0.60% | ~6 |
 | Return the Statues | 0.50% | ~11 |
 | Complete Arena Faction | 0.50% | ~11 |

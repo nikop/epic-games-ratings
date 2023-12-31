@@ -6,38 +6,38 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~32,765 |
-| Final touch | 34.00% | ~30,108 |
-| Prop-M Rover | 32.00% | ~28,337 |
-| Changing the Planet | 28.00% | ~24,795 |
-| Sojourner | 26.00% | ~23,024 |
-| New Home | 23.00% | ~20,367 |
-| Beagle 2 | 23.00% | ~20,367 |
-| Winner Winner Terraformer | 21.00% | ~18,596 |
-| Project Manager | 19.00% | ~16,825 |
-| Collector | 19.00% | ~16,825 |
+| It's a steal! | 37.00% | ~32,766 |
+| Final touch | 34.00% | ~30,110 |
+| Prop-M Rover | 32.00% | ~28,339 |
+| Changing the Planet | 28.00% | ~24,796 |
+| Sojourner | 26.00% | ~23,025 |
+| New Home | 23.00% | ~20,368 |
+| Beagle 2 | 23.00% | ~20,368 |
+| Winner Winner Terraformer | 21.00% | ~18,597 |
+| Project Manager | 19.00% | ~16,826 |
+| Collector | 19.00% | ~16,826 |
 | No Longer Red | 18.00% | ~15,940 |
 | Curiosity | 18.00% | ~15,940 |
 | Master | 18.00% | ~15,940 |
-| Self-sufficient | 17.00% | ~15,054 |
-| Money money | 15.00% | ~13,283 |
+| Self-sufficient | 17.00% | ~15,055 |
+| Money money | 15.00% | ~13,284 |
 | First Journey | 14.00% | ~12,398 |
-| Biggest Reward | 13.00% | ~11,512 |
-| Acquired knowledge | 12.00% | ~10,626 |
+| Biggest Reward | 13.00% | ~11,513 |
+| Acquired knowledge | 12.00% | ~10,627 |
 | Landlord | 11.00% | ~9,741 |
 | Most Achievements | 11.00% | ~9,741 |
 | Hellenic Elysium | 11.00% | ~9,741 |
 | Grand champion | 11.00% | ~9,741 |
-| Spirit | 10.00% | ~8,855 |
-| Ultimate success | 10.00% | ~8,855 |
+| Spirit | 10.00% | ~8,856 |
+| Ultimate success | 10.00% | ~8,856 |
 | Variety Expert | 9.00% | ~7,970 |
-| Frequent tester | 8.00% | ~7,084 |
+| Frequent tester | 8.00% | ~7,085 |
 | Determined | 7.00% | ~6,199 |
 | Terraformer | 4.00% | ~3,542 |
 | Team Effort | 3.00% | ~2,657 |
 | Opportunity | 3.00% | ~2,657 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,554 (Ranked 103)  
+Progressed: 88,558 (Ranked 103)  
 Completed: 178 (0.20%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 178 (0.20%) (Ranked 272)
 | 2023-12-28 | 88,049 | 177 |
 | 2023-12-29 | 88,210 | 177 |
 | 2023-12-30 | 88,409 | 177 |
-| 2023-12-31 | 88,554 | 178 |
+| 2023-12-31 | 88,558 | 178 |
 ## Awards
 Max (Relaxing): 535  (Ranked 214)  
 Sum: 3,320 (Ranked 176)  

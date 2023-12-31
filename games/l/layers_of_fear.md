@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 84.00% | ~204 |
+| Something important | 85.00% | ~207 |
 | A piece of the story | 61.00% | ~148 |
 | Wanderer | 54.00% | ~131 |
 | It's covered up for a reason | 53.00% | ~129 |

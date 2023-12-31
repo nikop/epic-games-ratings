@@ -57,15 +57,15 @@ Number of Ratings: 15,086  (23.09.2022)
 | Spreading Plague | 0.50% | ~1,211 |
 | Acid Bath | 0.50% | ~1,211 |
 | New Perspectives | 0.50% | ~1,211 |
-| Thank You, Friend | 0.40% | ~968 |
-| Shadow Spreads | 0.40% | ~968 |
-| Max Damage! | 0.40% | ~968 |
-| A Rough Road | 0.40% | ~968 |
-| Berzerker | 0.40% | ~968 |
-| Illuminate, Eliminate | 0.40% | ~968 |
-| Chain Reaction | 0.40% | ~968 |
-| Antivenom | 0.40% | ~968 |
-| The Long Run | 0.40% | ~968 |
+| Thank You, Friend | 0.40% | ~969 |
+| Shadow Spreads | 0.40% | ~969 |
+| Max Damage! | 0.40% | ~969 |
+| A Rough Road | 0.40% | ~969 |
+| Berzerker | 0.40% | ~969 |
+| Illuminate, Eliminate | 0.40% | ~969 |
+| Chain Reaction | 0.40% | ~969 |
+| Antivenom | 0.40% | ~969 |
+| The Long Run | 0.40% | ~969 |
 | Who Needs Luck? | 0.40% | ~14 |
 | Achievement Hunter | 0.30% | ~726 |
 | Challenge Increases | 0.30% | ~726 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,125 (Ranked 71)  
+Progressed: 242,129 (Ranked 71)  
 Completed: 302 (0.12%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -400,7 +400,7 @@ Completed: 302 (0.12%) (Ranked 299)
 | 2023-12-28 | 241,919 | 302 |
 | 2023-12-29 | 241,985 | 302 |
 | 2023-12-30 | 242,061 | 302 |
-| 2023-12-31 | 242,125 | 302 |
+| 2023-12-31 | 242,129 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 134)  
 Sum: 11,774 (Ranked 88)  

@@ -2,7 +2,7 @@
   "ID": "48e20c81667c4ff49c85dd79ac3a01b0",
   "Name": "Redfall",
   "ProductSlug": "redfall",
-  "Ranking_Rating": 1081,
+  "Ranking_Rating": 1082,
   "Ranking_Popularity": 571,
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 238,
@@ -345,9 +345,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2190,
+  "EOS_Progressed": 2191,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3740,6 +3740,11 @@
       "Time": "2023-12-31T22:04:58.9201378+00:00",
       "NumProgressed": 2190,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T23:06:20.5023522+00:00",
+      "NumProgressed": 2191,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3797,9 +3802,9 @@
       "ID": "Achievement_008",
       "SetID": "6b34g18",
       "Name": "Blood Will Have Blood",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 219
     },
     {
       "ID": "Achievement_009",
@@ -3885,9 +3890,9 @@
       "ID": "Achievement_019",
       "SetID": "6b34g18",
       "Name": "I Like My Stakes Rare!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 394
     },
     {
       "ID": "Achievement_020",
@@ -3997,9 +4002,9 @@
       "ID": "Achievement_033",
       "SetID": "6b34g18",
       "Name": "Wounded Whispers",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 263
     },
     {
       "ID": "Achievement_034",
@@ -4278,7 +4283,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2190,
+      "Progressed": 2191,
       "Completed": 0
     }
   ],
@@ -4286,8 +4291,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-31T15:59:03.0757989+00:00",
-  "LastChanged_Achievements": "2023-12-31T22:04:58.9201373+00:00",
+  "LastChanged_Achievements": "2023-12-31T23:06:20.5023516+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.8280502+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:59:19.0153774+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:04:58.9202117+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:00:24.3104491+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:06:20.5024195+00:00"
 }

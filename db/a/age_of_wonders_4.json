@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 423,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -669,9 +669,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6621,
+  "EOS_Progressed": 6624,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 471,
+  "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9924,6 +9924,11 @@
       "Time": "2023-12-31T22:05:56.0475848+00:00",
       "NumProgressed": 6621,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-31T23:07:36.6997392+00:00",
+      "NumProgressed": 6624,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10047,7 +10052,7 @@
       "Name": "Realm Estate",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "23",
@@ -10055,7 +10060,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "24",
@@ -10127,7 +10132,7 @@
       "Name": "Magical Synergy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "32",
@@ -10414,13 +10419,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6621,
+      "Progressed": 6624,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6621,
+      "Progressed": 6624,
       "Completed": 7
     }
   ],
@@ -10428,8 +10433,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-31T18:58:53.0277501+00:00",
-  "LastChanged_Achievements": "2023-12-31T22:05:56.0475844+00:00",
+  "LastChanged_Achievements": "2023-12-31T23:07:36.6997387+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:58:43.83137+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:05:56.0476586+00:00"
+  "LastUpdate_Ratings": "2023-12-31T22:59:34.6218393+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:07:36.6998397+00:00"
 }

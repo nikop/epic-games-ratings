@@ -369,9 +369,9 @@
       "ID": "11",
       "SetID": "6m1k8ai",
       "Name": "Scorched Ruins",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "12",
@@ -744,8 +744,8 @@
   ],
   "FirstSeen": "2023-08-02T12:00:06.1215649+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2023-12-31T22:08:46.7991668+00:00",
+  "LastChanged_Achievements": "2023-12-31T23:09:43.9177039+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:29.1653427+00:00",
-  "LastUpdate_Ratings": "2023-12-31T22:02:57.9148155+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:08:46.7992027+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:03:30.1771325+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:09:43.9177456+00:00"
 }

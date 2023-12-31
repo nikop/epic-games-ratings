@@ -26,7 +26,7 @@ Rating: 4.67 (Ranked 284)
 | The Big Eaty | 54.00% | ~367 |
 | YOU SHALL NOT PASS! | 51.00% | ~346 |
 | “… like son” | 51.00% | ~346 |
-| The Cathedral of Light | 47.00% | ~319 |
+| The Cathedral of Light | 48.00% | ~326 |
 | Shame! Shame! Shame! | 47.00% | ~319 |
 | Pure Dynamite! | 45.00% | ~306 |
 | Dungeonlord Gorgu | 45.00% | ~306 |
@@ -53,10 +53,10 @@ Rating: 4.67 (Ranked 284)
 | The Last Stand - This Time For Real! | 23.00% | ~156 |
 | Rubble and Ashes | 21.00% | ~143 |
 | Lavalumps on Ice! | 19.00% | ~129 |
+| To Infinity And Beyond! | 19.00% | ~129 |
 | Sacrificial Pit = Garbage Disposal? | 18.00% | ~122 |
 | My Little Torture Chamber | 18.00% | ~122 |
 | To the Max! | 18.00% | ~122 |
-| To Infinity And Beyond! | 18.00% | ~122 |
 | Evilification | 17.00% | ~115 |
 | Mirror, Mirror | 16.00% | ~109 |
 | Heal Heal Blessing | 16.00% | ~109 |

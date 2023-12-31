@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 597,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2022,9 +2022,9 @@
       "ID": "HYPNO_OUTLIER_ONLY_ID",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Galaxy Brain",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 12
     },
     {
       "ID": "HYPNO_UNANIMOUS_OUTLIER",
@@ -2070,9 +2070,9 @@
       "ID": "TIME_JINX",
       "SetID": "9j9h72e",
       "Name": "Timejinx: Timejinx",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 197
+      "UsersEstimate": 203
     },
     {
       "ID": "TIME_ORWELL",
@@ -2141,8 +2141,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-31T22:09:39.4300651+00:00",
+  "LastChanged_Achievements": "2023-12-31T23:10:53.1753022+00:00",
   "LastUpdate_AppInfo": "2023-12-30T02:16:13.4108208+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:57:26.6573769+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:09:39.4301166+00:00"
+  "LastUpdate_Ratings": "2023-12-31T22:57:43.3686604+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:10:53.1753225+00:00"
 }

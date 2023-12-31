@@ -5,43 +5,43 @@ Rating: 4.56 (Ranked 503)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 16.00% | ~2,867 |
+| Oyedang, Kopengs | 16.00% | ~2,868 |
 | Captain Drummer | 13.00% | ~2,330 |
 | Celebrations are in Order | 12.00% | ~2,151 |
-| The Pit and the Pirates | 11.00% | ~1,971 |
-| Martian Music | 11.00% | ~1,971 |
-| Drone Dodger | 11.00% | ~1,971 |
-| Bosmang | 11.00% | ~1,971 |
-| Impossible Objects | 11.00% | ~1,971 |
-| Spore Taste | 10.00% | ~1,792 |
+| The Pit and the Pirates | 11.00% | ~1,972 |
+| Martian Music | 11.00% | ~1,972 |
+| Drone Dodger | 11.00% | ~1,972 |
+| Bosmang | 11.00% | ~1,972 |
+| Impossible Objects | 11.00% | ~1,972 |
+| Spore Taste | 10.00% | ~1,793 |
 | Stogie for Fogey | 9.00% | ~1,613 |
 | Safe Cracker | 9.00% | ~349 |
 | Zen Master | 9.00% | ~349 |
 | Call it Even | 8.00% | ~1,434 |
 | Madame Undersecretary | 8.00% | ~310 |
-| Heal Thy Medic | 7.00% | ~1,254 |
-| Keep Arjun in Check | 7.00% | ~271 |
-| Data Archivist | 6.00% | ~1,075 |
-| Drug Gifter | 6.00% | ~1,075 |
-| Thorston Mayer | 6.00% | ~1,075 |
-| Khan's Revenge | 6.00% | ~1,075 |
+| Heal Thy Medic | 7.00% | ~1,255 |
+| Keep Arjun in Check | 7.00% | ~272 |
+| Data Archivist | 6.00% | ~1,076 |
+| Drug Gifter | 6.00% | ~1,076 |
+| Thorston Mayer | 6.00% | ~1,076 |
+| Khan's Revenge | 6.00% | ~1,076 |
 | Doctor Approved | 5.00% | ~896 |
 | Bottoms up! | 5.00% | ~896 |
 | Master Negotiator | 5.00% | ~194 |
 | Data Logger | 4.00% | ~717 |
 | Miraculous Maya | 4.00% | ~717 |
 | Data Master | 3.00% | ~538 |
-| Brother's Reaper | 2.00% | ~358 |
-| No Belter Left Behind | 2.00% | ~358 |
-| Debris Spree | 2.00% | ~358 |
-| Data Recoverer | 2.00% | ~358 |
+| Brother's Reaper | 2.00% | ~359 |
+| No Belter Left Behind | 2.00% | ~359 |
+| Debris Spree | 2.00% | ~359 |
+| Data Recoverer | 2.00% | ~359 |
 | Urshanabi Hoarder | 1.00% | ~179 |
 | Grave Robber | 0.70% | ~125 |
 | Data Miner | 0.60% | ~108 |
 | Scavenger Star | 0.30% | ~54 |
 | Data Collector | 0.20% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,921 (Ranked 157)  
+Progressed: 17,926 (Ranked 157)  
 Completed: 58 (0.32%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 58 (0.32%) (Ranked 245)
 | 2023-12-28 | 17,675 | 56 |
 | 2023-12-29 | 17,756 | 57 |
 | 2023-12-30 | 17,838 | 57 |
-| 2023-12-31 | 17,921 | 58 |
+| 2023-12-31 | 17,926 | 58 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

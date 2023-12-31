@@ -5,7 +5,7 @@ Rating: 4.59 (Ranked 445)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 30.00% | ~5,765 |
+| On Deceive Inc.'s Secret Service | 30.00% | ~5,766 |
 | Mainframe Hacker | 23.00% | ~4,420 |
 | The Spy who eliminated me | 23.00% | ~4,420 |
 | Tomorrow Never Dyes | 22.00% | ~4,228 |
@@ -42,7 +42,7 @@ Rating: 4.59 (Ranked 445)
 | Extraction Confusion | 0.20% | ~38 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,218 (Ranked 153)  
+Progressed: 19,219 (Ranked 153)  
 Completed: 4 (0.02%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 4 (0.02%) (Ranked 358)
 | 2023-12-28 | 19,189 | 4 |
 | 2023-12-29 | 19,200 | 4 |
 | 2023-12-30 | 19,208 | 4 |
-| 2023-12-31 | 19,218 | 4 |
+| 2023-12-31 | 19,219 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,23 +1,23 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.20 (Ranked 952)  
+Rating: 4.19 (Ranked 959)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,109 |
-| Battlefields Have Memories | 80.00% | ~1,918 |
-| Enlisted | 74.00% | ~1,774 |
-| Maybe Engage a Little | 68.00% | ~1,630 |
-| No More Names | 50.00% | ~1,198 |
-| Initiate | 36.00% | ~863 |
-| Thrada-Kul | 32.00% | ~767 |
-| Gravity-Challenged Rocks | 26.00% | ~623 |
-| Socialite | 23.00% | ~551 |
-| Soldier | 22.00% | ~527 |
-| All the Major Food Groups | 21.00% | ~503 |
-| Beggars Would Ride | 19.00% | ~455 |
-| Control is an Illusion | 18.00% | ~431 |
+| Unforeseen | 88.00% | ~2,112 |
+| Battlefields Have Memories | 80.00% | ~1,920 |
+| Enlisted | 74.00% | ~1,776 |
+| Maybe Engage a Little | 68.00% | ~1,632 |
+| No More Names | 51.00% | ~1,224 |
+| Initiate | 36.00% | ~864 |
+| Thrada-Kul | 32.00% | ~768 |
+| Gravity-Challenged Rocks | 26.00% | ~624 |
+| Socialite | 23.00% | ~552 |
+| Soldier | 22.00% | ~528 |
+| All the Major Food Groups | 21.00% | ~504 |
+| Beggars Would Ride | 20.00% | ~480 |
+| Control is an Illusion | 18.00% | ~432 |
 | The Means to Save It | 16.00% | ~384 |
 | Resilience to Sin | 14.00% | ~336 |
 | A Familiar Nest | 14.00% | ~336 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 952)
 | Out of Time | 0.20% | ~5 |
 | Fowl Play | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,397 (Ranked 233)  
+Progressed: 2,400 (Ranked 233)  
 Completed: 2 (0.08%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 2 (0.08%) (Ranked 317)
 | 2023-12-28 | 2,136 | 2 |
 | 2023-12-29 | 2,236 | 2 |
 | 2023-12-30 | 2,327 | 2 |
-| 2023-12-31 | 2,397 | 2 |
+| 2023-12-31 | 2,400 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -191,3 +191,4 @@ Completed: 2 (0.08%) (Ranked 317)
 | 2023-12-27 | 4.19 | 0 | 0 |
 | 2023-12-28 | 4.22 | 0 | 0 |
 | 2023-12-29 | 4.22 | 0 | 0 |
+| 2023-12-31 | 4.19 | 0 | 0 |

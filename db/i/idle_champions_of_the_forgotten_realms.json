@@ -9229,10 +9229,10 @@
       "Count": 3614
     }
   ],
-  "EOS_Progressed": 248630,
-  "EOS_Completed": 2580,
-  "EOS_NewPlayers": 4367,
-  "EOS_NewCompleters": 22,
+  "EOS_Progressed": 248665,
+  "EOS_Completed": 2581,
+  "EOS_NewPlayers": 4389,
+  "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -38134,6 +38134,11 @@
       "Time": "2023-12-31T22:10:01.7821345+00:00",
       "NumProgressed": 248630,
       "NumCompleted": 2580
+    },
+    {
+      "Time": "2023-12-31T23:11:21.7348157+00:00",
+      "NumProgressed": 248665,
+      "NumCompleted": 2581
     }
   ],
   "TotalAchievements": 546,
@@ -38145,7 +38150,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7459
+      "UsersEstimate": 7460
     },
     {
       "ID": "objective_completed_10",
@@ -39817,7 +39822,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2486
+      "UsersEstimate": 2487
     },
     {
       "ID": "objective_completed_34",
@@ -42433,7 +42438,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1504
+      "UsersEstimate": 1505
     },
     {
       "ID": "objective_completed_1558",
@@ -42449,7 +42454,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "objective_completed_1563",
@@ -42512,21 +42517,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 214904,
+      "Progressed": 214939,
       "Completed": 4111
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 248630,
-      "Completed": 2580
+      "Progressed": 248665,
+      "Completed": 2581
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-31T15:56:59.5549652+00:00",
-  "LastChanged_Achievements": "2023-12-31T22:10:01.7821342+00:00",
+  "LastChanged_Achievements": "2023-12-31T23:11:21.7348154+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:57:16.6563174+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:10:01.7845625+00:00"
+  "LastUpdate_Ratings": "2023-12-31T22:57:29.7580878+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:11:21.7373903+00:00"
 }

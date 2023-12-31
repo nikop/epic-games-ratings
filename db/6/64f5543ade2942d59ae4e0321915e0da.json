@@ -2,7 +2,7 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 155,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 332,
+  "EOS_Progressed": 333,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1314,6 +1314,11 @@
       "Time": "2023-12-31T22:03:41.0255604+00:00",
       "NumProgressed": 332,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T23:04:31.6178664+00:00",
+      "NumProgressed": 333,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1406,7 +1411,7 @@
       "Name": "Misery",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "AC_BOSS_02",
@@ -1414,7 +1419,7 @@
       "Name": "Downfall",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "AC_BOSS_03",
@@ -1494,7 +1499,7 @@
       "Name": "Killer",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1502,7 +1507,7 @@
       "Name": "Psycopath",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -1510,7 +1515,7 @@
       "Name": "Genocide",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "AC_DISTANCE_1",
@@ -1526,7 +1531,7 @@
       "Name": "Journey",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -1550,7 +1555,7 @@
       "Name": "Creation",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "AC_FLASHBACK_02",
@@ -1630,7 +1635,7 @@
       "Name": "Loss",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -1661,14 +1666,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 332,
+      "Progressed": 333,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-31T22:03:41.02556+00:00",
+  "LastChanged_Achievements": "2023-12-31T23:04:31.617866+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:54.1541826+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:58:26.7139131+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:03:41.0255967+00:00"
+  "LastUpdate_Ratings": "2023-12-31T22:59:10.4404574+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:04:31.6178983+00:00"
 }

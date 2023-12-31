@@ -3701,10 +3701,10 @@
       "Count": 338
     }
   ],
-  "EOS_Progressed": 19830,
-  "EOS_Completed": 34,
+  "EOS_Progressed": 19834,
+  "EOS_Completed": 33,
   "EOS_NewPlayers": 693,
-  "EOS_NewCompleters": -4,
+  "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
@@ -17916,6 +17916,11 @@
       "Time": "2023-12-31T22:03:45.2767389+00:00",
       "NumProgressed": 19830,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-31T23:04:37.1645845+00:00",
+      "NumProgressed": 19834,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17992,7 +17997,7 @@
       "Name": "Efficient Explorer",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "MetalChain",
@@ -18080,7 +18085,7 @@
       "Name": "Dangerous Lands",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "WinNearFertile",
@@ -18168,7 +18173,7 @@
       "Name": "Forsaken Gods Temple",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "WinNearTorrent",
@@ -18224,7 +18229,7 @@
       "Name": "Prestigious Expedition",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "WinPrestige20",
@@ -18399,15 +18404,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19830,
-      "Completed": 34
+      "Progressed": 19834,
+      "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-31T21:57:23.6838746+00:00",
-  "LastChanged_Achievements": "2023-12-31T22:03:45.2767385+00:00",
+  "LastChanged_Achievements": "2023-12-31T23:04:37.164584+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:57:23.6838753+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:03:45.2768628+00:00"
+  "LastUpdate_Ratings": "2023-12-31T22:57:38.7940275+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:04:37.1646707+00:00"
 }

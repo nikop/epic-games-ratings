@@ -10282,10 +10282,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21292,
       "NumberOfAwardsMax": 7910
+    },
+    {
+      "Time": "2023-12-31T22:58:15.9926307+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21297,
+      "NumberOfAwardsMax": 7910
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21292,
+  "NumberOfAwards": 21297,
   "NumberOfAwardsMax": 7910,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10317,13 +10323,13 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1657
+      "Count": 1659
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1393
+      "Count": 1396
     },
     {
       "Text": "This game has Amazing Characters",
@@ -10362,9 +10368,9 @@
       "Count": 1071
     }
   ],
-  "EOS_Progressed": 131024,
+  "EOS_Progressed": 131026,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1355,
+  "EOS_NewPlayers": 1351,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37722,6 +37728,11 @@
       "Time": "2023-12-31T22:09:27.0560041+00:00",
       "NumProgressed": 131024,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-31T23:10:37.0765729+00:00",
+      "NumProgressed": 131026,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37797,7 +37808,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -37805,7 +37816,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -37829,7 +37840,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -37837,7 +37848,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -37853,7 +37864,7 @@
       "Name": "Predator",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -37901,7 +37912,7 @@
       "Name": "Deprogramming",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "combat_kill_fisherfolk",
@@ -37909,7 +37920,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "combat_kill_gaunts",
@@ -37925,7 +37936,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -37965,7 +37976,7 @@
       "Name": "Reverse Banditry",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "combat_kill_shambler",
@@ -38085,7 +38096,7 @@
       "Name": "Autodidact",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7861
+      "UsersEstimate": 7862
     },
     {
       "ID": "hero_story_complete_all",
@@ -38101,7 +38112,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -38133,7 +38144,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -38149,7 +38160,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -38165,7 +38176,7 @@
       "Name": "Utopia",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -38197,7 +38208,7 @@
       "Name": "Hot Air",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "run_victory_act03",
@@ -38205,7 +38216,7 @@
       "Name": "Eyes Up",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "run_victory_act04",
@@ -38245,7 +38256,7 @@
       "Name": "Road Trip",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "altar_of_hope_memory_equip_all_crusader",
@@ -38364,21 +38375,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131024,
+      "Progressed": 131026,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5893,
+      "Progressed": 5895,
       "Completed": 820
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-12-31T17:57:49.354731+00:00",
-  "LastChanged_Achievements": "2023-12-31T22:09:27.0560037+00:00",
+  "LastChanged": "2023-12-31T22:58:15.9926305+00:00",
+  "LastChanged_Achievements": "2023-12-31T23:10:37.0765726+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:57:49.0491676+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:09:27.056163+00:00"
+  "LastUpdate_Ratings": "2023-12-31T22:58:15.9926311+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:10:37.076739+00:00"
 }

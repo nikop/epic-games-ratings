@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1158,
+  "EOS_Progressed": 1159,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3276,6 +3276,11 @@
       "Time": "2023-12-31T18:06:12.2840258+00:00",
       "NumProgressed": 1158,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T23:07:16.2848421+00:00",
+      "NumProgressed": 1159,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -3287,7 +3292,7 @@
       "Name": "Cabin boy",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "ACH001",
@@ -3295,7 +3300,7 @@
       "Name": "Seafarer",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "ACH002",
@@ -3343,7 +3348,7 @@
       "Name": "My little farm",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "ACH008",
@@ -3367,7 +3372,7 @@
       "Name": "Conglomerate",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH011",
@@ -3423,7 +3428,7 @@
       "Name": "Pearly gates",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH018",
@@ -3431,7 +3436,7 @@
       "Name": "The Grande Bouffe",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH019",
@@ -3471,7 +3476,7 @@
       "Name": "Gofer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "ACH024",
@@ -3487,7 +3492,7 @@
       "Name": "My precious!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH026",
@@ -3575,7 +3580,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "ACH037",
@@ -3591,7 +3596,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "ACH039",
@@ -3671,7 +3676,7 @@
       "Name": "Megalomania",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACH049",
@@ -3686,15 +3691,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1158,
+      "Progressed": 1159,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2023-12-31T22:05:41.0956725+00:00",
+  "LastChanged_Achievements": "2023-12-31T23:07:16.2848416+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:13.936517+00:00",
-  "LastUpdate_Ratings": "2023-12-31T22:00:17.2501787+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:05:41.0957221+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:02:48.1272477+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:07:16.2849034+00:00"
 }

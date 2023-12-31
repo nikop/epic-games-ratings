@@ -11,6 +11,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 1.00% | ~161 |
 | Intrepid | 0.80% | ~128 |
 | Friendly Family | 0.80% | ~128 |
+| Able | 0.70% | ~112 |
 | Architect | 0.70% | ~112 |
 | Good | 0.70% | ~112 |
 | Mason | 0.70% | ~112 |
@@ -19,7 +20,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 0.70% | ~112 |
 | Oracle | 0.70% | ~112 |
 | Trade Caravan | 0.70% | ~112 |
-| Able | 0.60% | ~96 |
 | Glorious | 0.60% | ~96 |
 | Just | 0.60% | ~96 |
 | Keystone | 0.60% | ~96 |
@@ -48,6 +48,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legendary Cities | 0.40% | ~64 |
 | Able Difficulty | 0.40% | ~64 |
 | Furious Family | 0.40% | ~64 |
+| Acropolis | 0.40% | ~64 |
 | Apadana | 0.40% | ~64 |
 | Great Ziggurat | 0.40% | ~64 |
 | Carthaginian Paganism | 0.40% | ~64 |
@@ -57,13 +58,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.30% | ~48 |
 | Drillmaster | 0.30% | ~48 |
 | Intercessor | 0.30% | ~48 |
+| Mighty | 0.30% | ~48 |
 | Valiant | 0.30% | ~48 |
 | Just Difficulty | 0.30% | ~48 |
 | Artisans | 0.30% | ~48 |
 | Champions | 0.30% | ~48 |
 | Patrons | 0.30% | ~48 |
 | Sages | 0.30% | ~48 |
-| Acropolis | 0.30% | ~48 |
+| Hittite Iron | 0.30% | ~48 |
 | Colossus | 0.30% | ~48 |
 | Mausoleum | 0.30% | ~48 |
 | Musaeum | 0.30% | ~48 |
@@ -80,7 +82,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 0.20% | ~32 |
 | Invincible | 0.20% | ~32 |
 | Lion | 0.20% | ~32 |
-| Mighty | 0.20% | ~32 |
 | Ready | 0.20% | ~32 |
 | Subjugator | 0.20% | ~32 |
 | Victorious | 0.20% | ~32 |
@@ -90,7 +91,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Riders | 0.20% | ~32 |
 | Statesmen | 0.20% | ~32 |
 | Traders | 0.20% | ~32 |
-| Hittite Iron | 0.20% | ~32 |
 | Circus Maximus | 0.20% | ~32 |
 | Hagia Sophia | 0.20% | ~32 |
 | Temple of Solomon | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,052 (Ranked 165)  
+Progressed: 16,053 (Ranked 165)  
 Completed: 5 (0.03%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -620,7 +620,7 @@ Completed: 5 (0.03%) (Ranked 351)
 | 2023-12-28 | 15,997 | 5 |
 | 2023-12-29 | 16,011 | 5 |
 | 2023-12-30 | 16,036 | 5 |
-| 2023-12-31 | 16,052 | 5 |
+| 2023-12-31 | 16,053 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,912 (Ranked 220)  

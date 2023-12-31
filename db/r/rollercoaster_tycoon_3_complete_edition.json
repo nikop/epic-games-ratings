@@ -3,11 +3,11 @@
   "Name": "RollerCoaster Tycoon 3 Complete Edition",
   "ProductSlug": "rollercoaster-tycoon-3-complete-edition",
   "Ranking_Rating": 325,
-  "Ranking_Popularity": 433,
+  "Ranking_Popularity": 430,
   "Ranking_PopularitySum": 340,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-09-24T15:00:00+00:00",
@@ -1184,11 +1184,17 @@
       "Rating": 4.65,
       "NumberOfAwards": 458,
       "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2023-12-31T22:57:58.5911501+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 459,
+      "NumberOfAwardsMax": 57
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 458,
-  "NumberOfAwardsMax": 56,
+  "NumberOfAwards": 459,
+  "NumberOfAwardsMax": 57,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -1219,7 +1225,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 56
+      "Count": 57
     },
     {
       "Text": "This game has Playful Visuals",
@@ -1275,8 +1281,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:06.1047421+00:00",
-  "LastChanged": "2023-12-31T18:57:35.1755591+00:00",
+  "LastChanged": "2023-12-31T22:57:58.5911499+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:42.8136561+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:57:36.6091291+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:05:45.3264465+00:00"
+  "LastUpdate_Ratings": "2023-12-31T22:57:58.5911505+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:07:22.0046617+00:00"
 }

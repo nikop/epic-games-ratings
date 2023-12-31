@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 763,
+  "EOS_Progressed": 764,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
@@ -1545,6 +1545,11 @@
       "Time": "2023-12-31T19:09:32.502794+00:00",
       "NumProgressed": 763,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-12-31T23:10:37.3292417+00:00",
+      "NumProgressed": 764,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 20,
@@ -1556,7 +1561,7 @@
       "Name": "Beat It",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "blast_from_the_past",
@@ -1564,7 +1569,7 @@
       "Name": "Blast From The Past",
       "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "deadly_secret",
@@ -1628,7 +1633,7 @@
       "Name": "Trust Me For Once",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ending_8",
@@ -1644,7 +1649,7 @@
       "Name": "Falling For You",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "free_champagne",
@@ -1652,7 +1657,7 @@
       "Name": "Free Champagne",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "kamikaze",
@@ -1666,9 +1671,9 @@
       "ID": "kindar_surprise",
       "SetID": "d4f4pll",
       "Name": "Kindar Surprise",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 130
+      "UsersEstimate": 122
     },
     {
       "ID": "not_a_people_person",
@@ -1700,7 +1705,7 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "tough_decision",
@@ -1708,14 +1713,14 @@
       "Name": "Tough Decision",
       "Percentage": 92,
       "XP": 50,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 763,
+      "Progressed": 764,
       "Completed": 21
     }
   ],
@@ -1723,8 +1728,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-12-31T22:09:27.3715392+00:00",
+  "LastChanged_Achievements": "2023-12-31T23:10:37.3292414+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:19.0245137+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:58:31.3820629+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:09:27.3715714+00:00"
+  "LastUpdate_Ratings": "2023-12-31T22:59:17.308458+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:10:37.3292626+00:00"
 }

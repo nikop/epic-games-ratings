@@ -8,7 +8,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 12.00% | ~707 |
 | Lost and Found | 7.00% | ~413 |
-| Autodidact | 6.00% | ~7,861 |
+| Autodidact | 6.00% | ~7,862 |
 | This guy... again? | 6.00% | ~354 |
 | Serenity Now! | 5.00% | ~6,551 |
 | This Belongs in a Museum | 5.00% | ~6,551 |
@@ -43,22 +43,22 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 3.00% | ~3,931 |
 | Nope | 3.00% | ~3,931 |
 | Unshackled | 3.00% | ~3,931 |
-| Wyrdly Reconstructed | 2.00% | ~2,620 |
-| Boxcar Kid | 2.00% | ~2,620 |
-| This Looks Familiar | 2.00% | ~2,620 |
-| Hope Rekindled | 2.00% | ~2,620 |
-| Predator | 2.00% | ~2,620 |
-| Deprogramming | 2.00% | ~2,620 |
-| Ichthyophobic | 2.00% | ~2,620 |
-| No More Mouths to Feed | 2.00% | ~2,620 |
-| Reverse Banditry | 2.00% | ~2,620 |
-| A Clear Conscience | 2.00% | ~2,620 |
-| When You Want Something Done Right | 2.00% | ~2,620 |
-| Worldly Traveller | 2.00% | ~2,620 |
-| Utopia | 2.00% | ~2,620 |
-| Hot Air | 2.00% | ~2,620 |
-| Eyes Up | 2.00% | ~2,620 |
-| Road Trip | 2.00% | ~2,620 |
+| Wyrdly Reconstructed | 2.00% | ~2,621 |
+| Boxcar Kid | 2.00% | ~2,621 |
+| This Looks Familiar | 2.00% | ~2,621 |
+| Hope Rekindled | 2.00% | ~2,621 |
+| Predator | 2.00% | ~2,621 |
+| Deprogramming | 2.00% | ~2,621 |
+| Ichthyophobic | 2.00% | ~2,621 |
+| No More Mouths to Feed | 2.00% | ~2,621 |
+| Reverse Banditry | 2.00% | ~2,621 |
+| A Clear Conscience | 2.00% | ~2,621 |
+| When You Want Something Done Right | 2.00% | ~2,621 |
+| Worldly Traveller | 2.00% | ~2,621 |
+| Utopia | 2.00% | ~2,621 |
+| Hot Air | 2.00% | ~2,621 |
+| Eyes Up | 2.00% | ~2,621 |
+| Road Trip | 2.00% | ~2,621 |
 | Shrine of Reflection | 1.00% | ~1,310 |
 | Handled | 1.00% | ~1,310 |
 | Body of Work | 1.00% | ~1,310 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,024 (Ranked 90)  
+Progressed: 131,026 (Ranked 90)  
 Completed: 3 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,22 +331,22 @@ Completed: 3 (0.00%) (Ranked 391)
 | 2023-12-28 | 130,422 | 3 |
 | 2023-12-29 | 130,627 | 3 |
 | 2023-12-30 | 130,838 | 3 |
-| 2023-12-31 | 131,024 | 3 |
+| 2023-12-31 | 131,026 | 3 |
 ## Awards
 Max (Character Customization): 7,910  (Ranked 50)  
-Sum: 21,292 (Ranked 58)  
+Sum: 21,297 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,910 |
 | This game has Diverse Characters | 1,797 |
-| This game has Challenging Combat | 1,657 |
+| This game has Challenging Combat | 1,659 |
 | This game is Highly Recommended | 1,583 |
 | This game has Amazing Characters | 1,507 |
 | This game is Extremely Fun | 1,506 |
 | This game has Unique Visuals | 1,442 |
 | This game has Amazing Storytelling | 1,426 |
-| This game has Quickly Understood Controls | 1,393 |
+| This game has Quickly Understood Controls | 1,396 |
 | This game has a Creative Community | 1,071 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -690,4 +690,4 @@ Diff (max vs sum): -8
 | 2023-12-28 | 4.68 | - | 7,888 | 21,194 |
 | 2023-12-29 | 4.68 | - | 7,899 | 21,240 |
 | 2023-12-30 | 4.68 | - | 7,905 | 21,274 |
-| 2023-12-31 | 4.68 | - | 7,910 | 21,292 |
+| 2023-12-31 | 4.68 | - | 7,910 | 21,297 |

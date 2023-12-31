@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1767,
+  "EOS_Progressed": 1768,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
@@ -4382,6 +4382,11 @@
       "Time": "2023-12-31T21:06:04.4418089+00:00",
       "NumProgressed": 1767,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T23:06:09.0539312+00:00",
+      "NumProgressed": 1768,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4584,9 +4589,9 @@
       "ID": "ML_ACHIEVEMENT_25",
       "SetID": "5k00jcd",
       "Name": "The Yeti",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ML_ACHIEVEMENT_26",
@@ -4761,20 +4766,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1767,
+      "Progressed": 1768,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1435,
+      "Progressed": 1436,
       "Completed": 1006
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-31T22:04:49.5690931+00:00",
+  "LastChanged_Achievements": "2023-12-31T23:06:09.0539308+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2023-12-31T21:58:39.9163798+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:04:49.5691365+00:00"
+  "LastUpdate_Ratings": "2023-12-31T22:59:29.0693699+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:06:09.0539789+00:00"
 }

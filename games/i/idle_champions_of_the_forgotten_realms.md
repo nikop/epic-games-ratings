@@ -6,12 +6,12 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,459 |
-| The Cursed Farmer | 1.00% | ~2,486 |
+| A Brief Tour of the Realms | 3.00% | ~7,460 |
+| The Cursed Farmer | 1.00% | ~2,487 |
 | Beast Intentions | 0.90% | ~2,238 |
 | The Mad Wizard | 0.80% | ~1,989 |
-| Welcome to Sigil | 0.70% | ~1,504 |
-| Fast Food | 0.60% | ~1,289 |
+| Welcome to Sigil | 0.70% | ~1,505 |
+| Fast Food | 0.60% | ~1,290 |
 | The Ring of Regeneration | 0.50% | ~1,243 |
 | The Overgrown Grove | 0.50% | ~1,075 |
 | Were-verpowered | 0.40% | ~995 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~215 |
 | The Brains of an Illithid's Desire | 0.10% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,630 (Ranked 69)  
-Completed: 2,580 (1.04%) (Ranked 170)  
+Progressed: 248,665 (Ranked 69)  
+Completed: 2,581 (1.04%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -808,7 +808,7 @@ Completed: 2,580 (1.04%) (Ranked 170)
 | 2023-12-28 | 246,305 | 2,573 |
 | 2023-12-29 | 247,120 | 2,575 |
 | 2023-12-30 | 247,917 | 2,578 |
-| 2023-12-31 | 248,630 | 2,580 |
+| 2023-12-31 | 248,665 | 2,581 |
 ## Awards
 Max (Great for Beginners): 5,720  (Ranked 71)  
 Sum: 33,212 (Ranked 41)  

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 502,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 402,
-  "Ranking_EOS_Completed": 137,
+  "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
@@ -299,11 +299,11 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 263,
+  "EOS_Progressed": 264,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 1.9,
+  "EOS_Completed_Percentage": 1.89,
   "EosHistory": [
     {
       "Time": "2023-12-18T10:04:38.3586261+00:00",
@@ -1174,6 +1174,11 @@
       "Time": "2023-12-31T22:06:12.906059+00:00",
       "NumProgressed": 263,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-31T23:08:39.0457914+00:00",
+      "NumProgressed": 264,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -1226,7 +1231,7 @@
       "Name": "Yettisoned",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -1240,9 +1245,9 @@
       "ID": "ACH_ABILITY_PKTHROWANDCATCHHUMAN",
       "SetID": "cefn62b",
       "Name": "Forbidden Donut",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
@@ -1250,7 +1255,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -1274,15 +1279,15 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_CHALLENGE_ABDUCTIONTHREESTAR",
       "SetID": "cefn62b",
       "Name": "Ouch of Body Experience",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_CHALLENGE_ANY",
@@ -1290,7 +1295,7 @@
       "Name": "Furon Fashion",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_CHALLENGE_ARMAGEDDONTHREESTAR",
@@ -1344,9 +1349,9 @@
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
       "SetID": "cefn62b",
       "Name": "Kaijuiced",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -1354,7 +1359,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -1418,7 +1423,7 @@
       "Name": "Pimp My Raid",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_INVADE_SANTAMODESTA",
@@ -1434,7 +1439,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -1480,9 +1485,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "cefn62b",
       "Name": "Perfect Probulator",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1505,15 +1510,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 263,
+      "Progressed": 264,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2023-12-31T22:06:12.9060588+00:00",
+  "LastChanged_Achievements": "2023-12-31T23:08:39.045791+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.6677344+00:00",
-  "LastUpdate_Ratings": "2023-12-31T22:00:10.4289278+00:00",
-  "LastUpdate_Achievements": "2023-12-31T22:06:12.9060879+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:02:37.7210102+00:00",
+  "LastUpdate_Achievements": "2023-12-31T23:08:39.0458244+00:00"
 }

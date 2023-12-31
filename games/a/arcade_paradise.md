@@ -5,17 +5,17 @@ Rating: 4.59 (Ranked 445)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 96.00% | ~707 |
-| Fetch Quest Complete | 90.00% | ~662 |
+| Pushing a pull door | 96.00% | ~708 |
+| Fetch Quest Complete | 90.00% | ~663 |
 | I can't wait! | 82.00% | ~604 |
-| Swish | 56.00% | ~412 |
+| Swish | 56.00% | ~413 |
 | Clean up on Aisle 9 | 39.00% | ~287 |
-| Machine Maxed | 29.00% | ~213 |
-| Existential dread | 26.00% | ~191 |
+| Machine Maxed | 29.00% | ~214 |
+| Existential dread | 26.00% | ~192 |
 | Bug Fixer | 25.00% | ~184 |
 | Gerald of Riviera | 25.00% | ~184 |
 | Goal | 21.00% | ~155 |
-| I ran the numbers | 15.00% | ~110 |
+| I ran the numbers | 15.00% | ~111 |
 | Taking the plunge | 13.00% | ~96 |
 | Hidden Packages | 11.00% | ~81 |
 | GOOOAAAL | 9.00% | ~66 |
@@ -38,14 +38,14 @@ Rating: 4.59 (Ranked 445)
 | Modern Gorefare | 2.00% | ~15 |
 | GTA: Crime City | 2.00% | ~15 |
 | Slacker | 2.00% | ~15 |
-| 1337 HAXXOR | 1.00% | ~7 |
 | Fresh Prince of Grindstone | 1.00% | ~7 |
 | Drop the ball | 1.00% | ~7 |
 | Fat Princess | 1.00% | ~7 |
 | Hexadecimal | 1.00% | ~7 |
 | IMANOK CODE | 1.00% | ~7 |
-| Smells like teen spirit | 1.00% | ~7 |
 | Intergalactic, planetary, planetary... | 1.00% | ~7 |
+| 1337 HAXXOR | 0.90% | ~7 |
+| Smells like teen spirit | 0.90% | ~7 |
 | True Capitalist | 0.80% | ~6 |
 | Once upon a slime | 0.80% | ~6 |
 | It's a horror game | 0.80% | ~6 |
@@ -60,7 +60,7 @@ Rating: 4.59 (Ranked 445)
 | Another all nighter? | 0.10% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 736 (Ranked 310)  
+Progressed: 737 (Ranked 309)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 731 | 0 |
 | 2023-12-29 | 732 | 0 |
 | 2023-12-30 | 734 | 0 |
-| 2023-12-31 | 736 | 0 |
+| 2023-12-31 | 737 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

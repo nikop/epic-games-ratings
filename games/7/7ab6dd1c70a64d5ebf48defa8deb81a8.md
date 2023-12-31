@@ -7,10 +7,10 @@ Rating: 4.12 (Ranked 1,000)
 | ---- | ---------- | ----- |
 | Break Out | 58.00% | ~915 |
 | Trinity | 29.00% | ~457 |
+| The Collector | 23.00% | ~363 |
 | Find Allies | 22.00% | ~347 |
 | A Taste of Wrath | 22.00% | ~347 |
 | I Found It | 22.00% | ~347 |
-| The Collector | 22.00% | ~347 |
 | Shatter Them All | 21.00% | ~331 |
 | Geared Up | 21.00% | ~331 |
 | Adventurer | 20.00% | ~315 |
@@ -38,7 +38,7 @@ Rating: 4.12 (Ranked 1,000)
 | Shardbearer | 1.00% | ~16 |
 | False God | 1.00% | ~16 |
 | Forgemaster | 0.90% | ~14 |
-| Summiter | 0.80% | ~13 |
+| Summiter | 0.90% | ~14 |
 | All That Gold | 0.70% | ~11 |
 | Feeling Fancy | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)

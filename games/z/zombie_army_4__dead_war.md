@@ -6,27 +6,27 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 69.00% | ~30,560 |
-| Say goodbye, creep! | 66.00% | ~29,231 |
-| Blood splattered | 66.00% | ~29,231 |
+| Shoot it, man! Shoot it in the head! | 69.00% | ~30,561 |
+| Say goodbye, creep! | 66.00% | ~29,232 |
+| Blood splattered | 66.00% | ~29,232 |
 | Choo choo! | 63.00% | ~27,903 |
 | Groovy | 62.00% | ~27,460 |
-| Cleanup on aisle 4! | 57.00% | ~25,245 |
+| Cleanup on aisle 4! | 57.00% | ~25,246 |
 | Gold | 51.00% | ~22,588 |
-| The boat can leave now...tell the crew | 49.00% | ~21,702 |
-| Give me something to shoot! | 47.00% | ~20,816 |
-| Stand back boy! | 47.00% | ~20,816 |
-| Chain reaction | 45.00% | ~19,930 |
+| The boat can leave now...tell the crew | 49.00% | ~21,703 |
+| Give me something to shoot! | 47.00% | ~20,817 |
+| Stand back boy! | 47.00% | ~20,817 |
+| Chain reaction | 45.00% | ~19,931 |
 | Weird science | 44.00% | ~19,488 |
 | What did you say, Blain? | 42.00% | ~18,602 |
 | Look mummy! A shark! | 41.00% | ~18,159 |
 | In the dark dark woods... | 39.00% | ~17,273 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,830 |
-| Double tap | 37.00% | ~16,387 |
-| Cranial blowout! | 37.00% | ~16,387 |
-| All of this has happened before… | 36.00% | ~15,944 |
-| Zombie killin' machine | 36.00% | ~15,944 |
-| Every bullet counts | 36.00% | ~15,944 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,831 |
+| Double tap | 37.00% | ~16,388 |
+| Cranial blowout! | 37.00% | ~16,388 |
+| All of this has happened before… | 36.00% | ~15,945 |
+| Zombie killin' machine | 36.00% | ~15,945 |
+| Every bullet counts | 36.00% | ~15,945 |
 | All roads lead to Rome | 34.00% | ~15,059 |
 | You've got red on you | 34.00% | ~15,059 |
 | You're all going to die down here | 32.00% | ~14,173 |
@@ -34,7 +34,7 @@ Number of Ratings: 743  (23.09.2022)
 | Kill of the week | 31.00% | ~13,730 |
 | I never liked them anyway | 31.00% | ~13,730 |
 | Is it over? | 28.00% | ~12,401 |
-| Got your back | 27.00% | ~11,958 |
+| Got your back | 27.00% | ~11,959 |
 | Gore soaked | 24.00% | ~10,630 |
 | Shock therapy | 23.00% | ~10,187 |
 | Leave the limbs you've lost | 23.00% | ~10,187 |
@@ -61,8 +61,8 @@ Number of Ratings: 743  (23.09.2022)
 | Staring at Shadows | 6.00% | ~2,657 |
 | I told you we should have gone to the beach | 6.00% | ~2,657 |
 | Hoarder | 6.00% | ~2,657 |
-| Kali Ma | 5.00% | ~2,214 |
-| Have you tried turning it off and on again? | 5.00% | ~2,214 |
+| Kali Ma | 5.00% | ~2,215 |
+| Have you tried turning it off and on again? | 5.00% | ~2,215 |
 | They're coming to get you Barbara | 4.00% | ~1,772 |
 | Total protonic reversal | 4.00% | ~1,772 |
 | A friend in need | 4.00% | ~1,772 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~443 |
 | None more hard | 0.60% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,290 (Ranked 128)  
+Progressed: 44,291 (Ranked 128)  
 Completed: 25 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 25 (0.06%) (Ranked 327)
 | 2023-12-28 | 44,250 | 25 |
 | 2023-12-29 | 44,263 | 25 |
 | 2023-12-30 | 44,274 | 25 |
-| 2023-12-31 | 44,290 | 25 |
+| 2023-12-31 | 44,291 | 25 |
 ## Awards
 Max (Great Boss Battles): 866  (Ranked 172)  
 Sum: 2,613 (Ranked 197)  
