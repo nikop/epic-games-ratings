@@ -233,9 +233,9 @@
       "Count": 73
     }
   ],
-  "EOS_Progressed": 9116,
+  "EOS_Progressed": 9124,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2005,
+  "EOS_NewPlayers": 1998,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3118,6 +3118,11 @@
       "Time": "2023-12-31T15:10:32.8875247+00:00",
       "NumProgressed": 9116,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T16:09:57.9808882+00:00",
+      "NumProgressed": 9124,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3136,9 +3141,9 @@
       "ID": "03_TheStolenStar",
       "SetID": "37a94m8",
       "Name": "Stolen Star",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 365
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -3242,7 +3247,7 @@
       "Name": "The Rise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "17_TheExemplar",
@@ -3256,9 +3261,9 @@
       "ID": "18_TheRookieSkipper",
       "SetID": "37a94m8",
       "Name": "Rookie Skipper",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 365
     },
     {
       "ID": "19_TheVoidWolf",
@@ -3290,7 +3295,7 @@
       "Name": "Perfect Timing",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "23_DynastyRestored",
@@ -3338,7 +3343,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -3368,9 +3373,9 @@
       "ID": "32_AviationSaviour",
       "SetID": "37a94m8",
       "Name": "Aviation Saviour",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 27
     },
     {
       "ID": "33_TzeentchCleaning",
@@ -3378,7 +3383,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -3442,7 +3447,7 @@
       "Name": "Jungle Heat",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "42_TheIronJudgement",
@@ -3649,7 +3654,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9116,
+      "Progressed": 9124,
       "Completed": 0
     }
   ],
@@ -3657,8 +3662,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-31T10:59:48.6402882+00:00",
-  "LastChanged_Achievements": "2023-12-31T15:10:32.8875243+00:00",
+  "LastChanged_Achievements": "2023-12-31T16:09:57.9808878+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-31T14:59:51.1670563+00:00",
-  "LastUpdate_Achievements": "2023-12-31T15:10:32.8876004+00:00"
+  "LastUpdate_Ratings": "2023-12-31T15:58:47.6185447+00:00",
+  "LastUpdate_Achievements": "2023-12-31T16:09:57.9809654+00:00"
 }

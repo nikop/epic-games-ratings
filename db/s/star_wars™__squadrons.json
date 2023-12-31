@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36058,
+  "EOS_Progressed": 36082,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2995,
+  "EOS_NewPlayers": 2997,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12189,6 +12189,11 @@
       "Time": "2023-12-31T15:10:50.1361086+00:00",
       "NumProgressed": 36058,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-31T16:10:11.6167323+00:00",
+      "NumProgressed": 36082,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -12201,7 +12206,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 5409
+      "UsersEstimate": 5412
     },
     {
       "ID": "achievement_10",
@@ -12249,7 +12254,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 6851
+      "UsersEstimate": 6856
     },
     {
       "ID": "achievement_16",
@@ -12289,7 +12294,7 @@
       "Name": "The Galaxy\u0027s Finest (Pilot)",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 2163
+      "UsersEstimate": 2165
     },
     {
       "ID": "achievement_20",
@@ -12297,7 +12302,7 @@
       "Name": "Stun \u0027Em",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "achievement_21",
@@ -12305,7 +12310,7 @@
       "Name": "Sound Strategy",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 2163
+      "UsersEstimate": 2165
     },
     {
       "ID": "achievement_22",
@@ -12313,7 +12318,7 @@
       "Name": "Fearless",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1442
+      "UsersEstimate": 1443
     },
     {
       "ID": "achievement_23",
@@ -12321,7 +12326,7 @@
       "Name": "Back From the Brink",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1442
+      "UsersEstimate": 1443
     },
     {
       "ID": "achievement_24",
@@ -12345,7 +12350,7 @@
       "Name": "Squadron Hunter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "achievement_27",
@@ -12353,7 +12358,7 @@
       "Name": "Unkillable",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2524
+      "UsersEstimate": 2526
     },
     {
       "ID": "achievement_28",
@@ -12401,7 +12406,7 @@
       "Name": "Denied",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "achievement_33",
@@ -12409,7 +12414,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 6490
+      "UsersEstimate": 6495
     },
     {
       "ID": "achievement_34",
@@ -12425,7 +12430,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 34255
+      "UsersEstimate": 34278
     },
     {
       "ID": "achievement_36",
@@ -12433,7 +12438,7 @@
       "Name": "Together, Vanguard",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2524
+      "UsersEstimate": 2526
     },
     {
       "ID": "achievement_37",
@@ -12441,7 +12446,7 @@
       "Name": "Asset Secured",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 4327
+      "UsersEstimate": 4330
     },
     {
       "ID": "achievement_38",
@@ -12457,7 +12462,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 8293
+      "UsersEstimate": 8299
     },
     {
       "ID": "achievement_4",
@@ -12473,7 +12478,7 @@
       "Name": "Flames Over Mon Cala",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1442
+      "UsersEstimate": 1443
     },
     {
       "ID": "achievement_41",
@@ -12489,7 +12494,7 @@
       "Name": "Against the Current",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "achievement_43",
@@ -12505,7 +12510,7 @@
       "Name": "Combat Pilot",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "achievement_45",
@@ -12529,7 +12534,7 @@
       "Name": "Stomped",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1803
+      "UsersEstimate": 1804
     },
     {
       "ID": "achievement_5",
@@ -12537,7 +12542,7 @@
       "Name": "Dressed for the Job You Want",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "achievement_6",
@@ -12545,7 +12550,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4688
+      "UsersEstimate": 4691
     },
     {
       "ID": "achievement_7",
@@ -12561,7 +12566,7 @@
       "Name": "A Better Idea",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 8293
+      "UsersEstimate": 8299
     },
     {
       "ID": "achievement_9",
@@ -12569,14 +12574,14 @@
       "Name": "A Promising Career",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1442
+      "UsersEstimate": 1443
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 36058,
+      "Progressed": 36082,
       "Completed": 3
     }
   ],
@@ -12584,8 +12589,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-12-31T15:10:50.1361082+00:00",
+  "LastChanged_Achievements": "2023-12-31T16:10:11.6167321+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:32.646307+00:00",
-  "LastUpdate_Ratings": "2023-12-31T15:03:43.5038987+00:00",
-  "LastUpdate_Achievements": "2023-12-31T15:10:50.1362117+00:00"
+  "LastUpdate_Ratings": "2023-12-31T16:03:11.9804033+00:00",
+  "LastUpdate_Achievements": "2023-12-31T16:10:11.6168314+00:00"
 }

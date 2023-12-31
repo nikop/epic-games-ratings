@@ -4689,10 +4689,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7180,
       "NumberOfAwardsMax": 1774
+    },
+    {
+      "Time": "2023-12-31T15:59:18.5060199+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7181,
+      "NumberOfAwardsMax": 1774
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7180,
+  "NumberOfAwards": 7181,
   "NumberOfAwardsMax": 1774,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4748,7 +4754,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 586
+      "Count": 587
     },
     {
       "Text": "This game has Challenging Combat",
@@ -4763,9 +4769,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12915,
+  "EOS_Progressed": 12917,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18558,6 +18564,11 @@
       "Time": "2023-12-31T15:10:55.8885635+00:00",
       "NumProgressed": 12915,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T16:10:16.4410481+00:00",
+      "NumProgressed": 12917,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18569,7 +18580,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3487
+      "UsersEstimate": 3488
     },
     {
       "ID": "02_BurningCity",
@@ -18593,7 +18604,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -18657,7 +18668,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "13_PathOfLich",
@@ -18665,7 +18676,7 @@
       "Name": "Path of the Lich",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "14_PathOfSwarm",
@@ -18705,7 +18716,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "19_EqualToAroden",
@@ -18793,7 +18804,7 @@
       "Name": "Heroic Victory",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "31_DivideAndRule",
@@ -18817,7 +18828,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2066
+      "UsersEstimate": 2067
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -18841,7 +18852,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -19496,21 +19507,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11697,
+      "Progressed": 11699,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12915,
+      "Progressed": 12917,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-12-31T11:59:47.8842451+00:00",
-  "LastChanged_Achievements": "2023-12-31T15:10:55.8885632+00:00",
+  "LastChanged": "2023-12-31T15:59:18.5060197+00:00",
+  "LastChanged_Achievements": "2023-12-31T16:10:16.4410478+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:46.0860245+00:00",
-  "LastUpdate_Ratings": "2023-12-31T15:00:36.7690845+00:00",
-  "LastUpdate_Achievements": "2023-12-31T15:10:55.8887481+00:00"
+  "LastUpdate_Ratings": "2023-12-31T15:59:18.5060202+00:00",
+  "LastUpdate_Achievements": "2023-12-31T16:10:16.4412389+00:00"
 }

@@ -6,9 +6,9 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 16.00% | ~588 |
+| Executioner | 17.00% | ~625 |
+| Look Over There! | 13.00% | ~478 |
 | Watch Where You Step... | 13.00% | ~478 |
-| Look Over There! | 12.00% | ~441 |
 | Not So Fast... | 12.00% | ~441 |
 | An Ill Omen | 12.00% | ~441 |
 | Purging Spree | 9.00% | ~331 |
@@ -18,10 +18,10 @@ Number of Ratings: 371  (23.09.2022)
 | Friendly Fire | 5.00% | ~184 |
 | Honoured Battle-Brother | 4.00% | ~147 |
 | The Emperor Protects | 4.00% | ~147 |
+| Gunmaster | 4.00% | ~147 |
 | A Foul Creche | 4.00% | ~147 |
 | Hold Your Ground | 3.00% | ~110 |
 | Nemesis Master | 3.00% | ~110 |
-| Gunmaster | 3.00% | ~110 |
 | Just a Scratch | 3.00% | ~110 |
 | Hive Exterminator | 3.00% | ~110 |
 | Daemonkeeper | 2.00% | ~74 |
@@ -40,8 +40,8 @@ Number of Ratings: 371  (23.09.2022)
 | Tactical Sabotage | 1.00% | ~37 |
 | Patron of Deimos | 0.90% | ~33 |
 | For the Machine God | 0.90% | ~33 |
+| Engine Kill | 0.90% | ~33 |
 | Death Comes For All | 0.90% | ~33 |
-| Engine Kill | 0.80% | ~29 |
 | Harvest No More | 0.80% | ~29 |
 | Hands-On Research | 0.70% | ~26 |
 | True Mastery | 0.70% | ~26 |

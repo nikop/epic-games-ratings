@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3859,
+  "EOS_Progressed": 3861,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -6346,6 +6346,11 @@
       "Time": "2023-12-31T15:07:46.1381185+00:00",
       "NumProgressed": 3859,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-31T16:06:13.6927626+00:00",
+      "NumProgressed": 3861,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -6421,7 +6426,7 @@
       "Name": "Starting as a duo",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -6453,14 +6458,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3859,
+      "Progressed": 3861,
       "Completed": 6
     }
   ],
@@ -6468,8 +6473,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-12-31T15:07:46.1381182+00:00",
+  "LastChanged_Achievements": "2023-12-31T16:06:13.6927622+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:59.0797821+00:00",
-  "LastUpdate_Ratings": "2023-12-31T14:58:30.6156844+00:00",
-  "LastUpdate_Achievements": "2023-12-31T15:07:46.1381596+00:00"
+  "LastUpdate_Ratings": "2023-12-31T15:57:52.632018+00:00",
+  "LastUpdate_Achievements": "2023-12-31T16:06:13.6928268+00:00"
 }

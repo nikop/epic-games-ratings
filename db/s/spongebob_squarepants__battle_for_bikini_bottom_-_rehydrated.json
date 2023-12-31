@@ -5,10 +5,10 @@
   "Ranking_Rating": 299,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 524,
-  "Ranking_EOS_Progress": 337,
+  "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -317,11 +317,11 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 576,
+  "EOS_Progressed": 579,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 0.87,
+  "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -1562,6 +1562,11 @@
       "Time": "2023-12-31T15:08:18.3968608+00:00",
       "NumProgressed": 576,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-31T16:08:16.7555853+00:00",
+      "NumProgressed": 579,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1614,7 +1619,7 @@
       "Name": "Uptown and Downtown",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -1646,7 +1651,7 @@
       "Name": "Jellyfishing",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -1654,7 +1659,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -1692,9 +1697,9 @@
       "ID": "ACH_ROBO_SANDY_BOSS",
       "SetID": "biiejkc",
       "Name": "Sweet Victory",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -1710,7 +1715,7 @@
       "Name": "Hit Rock Bottom",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -1748,9 +1753,9 @@
       "ID": "ACH_STAT_25_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Super Spatula Seeker",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -1772,9 +1777,9 @@
       "ID": "ACH_STAT_COLLECT_SOCKS",
       "SetID": "biiejkc",
       "Name": "Sock Getter",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -1829,15 +1834,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 576,
+      "Progressed": 579,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-31T15:08:18.3968603+00:00",
+  "LastChanged_Achievements": "2023-12-31T16:08:16.755585+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2023-12-31T14:58:08.0081504+00:00",
-  "LastUpdate_Achievements": "2023-12-31T15:08:18.396915+00:00"
+  "LastUpdate_Ratings": "2023-12-31T15:57:38.2751367+00:00",
+  "LastUpdate_Achievements": "2023-12-31T16:08:16.7556159+00:00"
 }

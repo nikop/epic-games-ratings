@@ -821,9 +821,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 240633,
+  "EOS_Progressed": 240641,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1317,
+  "EOS_NewPlayers": 1316,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19506,6 +19506,11 @@
       "Time": "2023-12-31T15:10:43.7415094+00:00",
       "NumProgressed": 240633,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T16:10:06.6925426+00:00",
+      "NumProgressed": 240641,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -19574,7 +19579,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 50533
+      "UsersEstimate": 50535
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -19582,7 +19587,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21657
+      "UsersEstimate": 21658
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -19598,7 +19603,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9625
+      "UsersEstimate": 9626
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -19702,7 +19707,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33689
+      "UsersEstimate": 33690
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -19710,7 +19715,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16844
+      "UsersEstimate": 16845
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -19774,7 +19779,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 60158
+      "UsersEstimate": 60160
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -19789,7 +19794,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 240633,
+      "Progressed": 240641,
       "Completed": 0
     }
   ],
@@ -19797,8 +19802,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-31T13:57:21.4293677+00:00",
-  "LastChanged_Achievements": "2023-12-31T15:10:43.7415091+00:00",
+  "LastChanged_Achievements": "2023-12-31T16:10:06.6925425+00:00",
   "LastUpdate_AppInfo": "2023-12-29T06:57:17.105104+00:00",
-  "LastUpdate_Ratings": "2023-12-31T14:57:37.3428292+00:00",
-  "LastUpdate_Achievements": "2023-12-31T15:10:43.7415955+00:00"
+  "LastUpdate_Ratings": "2023-12-31T15:57:17.2020381+00:00",
+  "LastUpdate_Achievements": "2023-12-31T16:10:06.6926344+00:00"
 }

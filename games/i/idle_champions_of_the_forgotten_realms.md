@@ -1,27 +1,27 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 1,016)  
+Rating: 4.06 (Ranked 1,017)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,452 |
+| A Brief Tour of the Realms | 3.00% | ~7,453 |
 | The Cursed Farmer | 1.00% | ~2,484 |
 | Beast Intentions | 0.80% | ~1,987 |
 | The Mad Wizard | 0.80% | ~1,987 |
 | Welcome to Sigil | 0.70% | ~1,503 |
 | Fast Food | 0.60% | ~1,288 |
 | The Ring of Regeneration | 0.50% | ~1,242 |
-| The Overgrown Grove | 0.50% | ~1,073 |
+| The Overgrown Grove | 0.50% | ~1,074 |
 | Were-verpowered | 0.40% | ~994 |
+| Seeking Allies | 0.40% | ~994 |
 | Are Ya Chicken? | 0.40% | ~994 |
 | When Tentacles Attack | 0.40% | ~859 |
 | Flames of Avernus | 0.40% | ~859 |
 | Mental Gymnastics | 0.40% | ~859 |
 | Don't Lose Your Head | 0.40% | ~859 |
 | A Persistent Buzzing | 0.30% | ~745 |
-| Seeking Allies | 0.30% | ~745 |
 | Mad Cow Disease | 0.30% | ~745 |
 | Friendly Imps | 0.30% | ~745 |
 | Pure Energy | 0.30% | ~745 |
@@ -39,6 +39,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.20% | ~497 |
 | Useless Allies | 0.20% | ~497 |
 | Exploring Port Nyanzaru | 0.20% | ~497 |
+| Running of the Saurs | 0.20% | ~497 |
 | The Contagious Curse | 0.20% | ~497 |
 | Escort to Waterdeep | 0.20% | ~497 |
 | Waterdeep Detours | 0.20% | ~497 |
@@ -335,7 +336,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | On The Job Learning | 0.10% | ~248 |
 | Strike! | 0.10% | ~215 |
 | Take Five | 0.10% | ~215 |
-| Running of the Saurs | 0.10% | ~248 |
 | Lost in the Goblin Halls | 0.10% | ~248 |
 | Batiri in the Goblin Halls | 0.10% | ~248 |
 | Temporal Rift in the Goblin Halls | 0.10% | ~215 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~215 |
 | The Brains of an Illithid's Desire | 0.10% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,397 (Ranked 69)  
+Progressed: 248,429 (Ranked 69)  
 Completed: 2,580 (1.04%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -808,17 +808,17 @@ Completed: 2,580 (1.04%) (Ranked 170)
 | 2023-12-28 | 246,305 | 2,573 |
 | 2023-12-29 | 247,120 | 2,575 |
 | 2023-12-30 | 247,917 | 2,578 |
-| 2023-12-31 | 248,397 | 2,580 |
+| 2023-12-31 | 248,429 | 2,580 |
 ## Awards
 Max (Great for Beginners): 5,720  (Ranked 71)  
-Sum: 33,211 (Ranked 41)  
+Sum: 33,212 (Ranked 41)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,720 |
 | This game has Diverse Characters | 5,665 |
 | This game has Quickly Understood Controls | 4,877 |
-| This game is Relaxing | 4,751 |
+| This game is Relaxing | 4,752 |
 | This game has Amazing Characters | 4,298 |
 | This game is Highly Recommended | 4,286 |
 | This game has Playful Visuals | 3,614 |
@@ -1164,4 +1164,4 @@ Diff (max vs sum): 30
 | 2023-12-28 | 4.06 | - | 5,708 | 33,156 |
 | 2023-12-29 | 4.06 | - | 5,715 | 33,183 |
 | 2023-12-30 | 4.06 | - | 5,720 | 33,198 |
-| 2023-12-31 | 4.06 | - | 5,720 | 33,211 |
+| 2023-12-31 | 4.06 | - | 5,720 | 33,212 |

@@ -3,7 +3,7 @@
   "Name": "Late Shift",
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 294,
-  "Ranking_EOS_Completed": 158,
+  "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 890,
+  "EOS_Progressed": 891,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 1.24,
+  "EOS_Completed_Percentage": 1.23,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:43.1533073+00:00",
@@ -2430,6 +2430,11 @@
       "Time": "2023-12-31T14:08:57.182586+00:00",
       "NumProgressed": 890,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-31T16:09:38.0566992+00:00",
+      "NumProgressed": 891,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 20,
@@ -2465,7 +2470,7 @@
       "Name": "The Lion\u0027s Den",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ENDING_3",
@@ -2529,7 +2534,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "GOOD_KARMA",
@@ -2553,7 +2558,7 @@
       "Name": "Office Clerk",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -2569,7 +2574,7 @@
       "Name": "Protector",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "SABOTAGE",
@@ -2593,14 +2598,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 890,
+      "Progressed": 891,
       "Completed": 11
     }
   ],
@@ -2608,8 +2613,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-12-31T15:10:06.7628346+00:00",
+  "LastChanged_Achievements": "2023-12-31T16:09:38.0566989+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:05.9335088+00:00",
-  "LastUpdate_Ratings": "2023-12-31T15:01:31.0173439+00:00",
-  "LastUpdate_Achievements": "2023-12-31T15:10:06.7628601+00:00"
+  "LastUpdate_Ratings": "2023-12-31T15:59:54.7468267+00:00",
+  "LastUpdate_Achievements": "2023-12-31T16:09:38.0567268+00:00"
 }

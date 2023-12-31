@@ -10,16 +10,16 @@ Rating: 4.65 (Ranked 325)
 | The Mysterious Stranger | 31.00% | ~363 |
 | Immaculate Aim | 27.00% | ~316 |
 | The Brass Boss | 26.00% | ~304 |
+| Time Flies | 25.00% | ~293 |
 | The Prince in Heels | 25.00% | ~293 |
 | Make Up For Lost Time | 24.00% | ~281 |
-| Time Flies | 24.00% | ~281 |
 | The Harder They Fall | 24.00% | ~281 |
 | No, Thanks! | 24.00% | ~281 |
 | Honest Mistake | 24.00% | ~281 |
+| Fast Learner | 24.00% | ~281 |
 | Immaculate Aim | 24.00% | ~281 |
 | The Steel Shadow | 23.00% | ~269 |
 | Breaking Down Barriers | 23.00% | ~269 |
-| Fast Learner | 23.00% | ~269 |
 | The Wicked Twins | 22.00% | ~258 |
 | Right On Time | 21.00% | ~246 |
 | Like Clockwork | 21.00% | ~246 |

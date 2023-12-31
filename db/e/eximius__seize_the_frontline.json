@@ -2,7 +2,7 @@
   "ID": "1c943de0163f4f0982f34dc0fc37dce9",
   "Name": "Eximius: Seize the Frontline",
   "ProductSlug": "eximius-seize-the-frontline",
-  "Ranking_Rating": 958,
+  "Ranking_Rating": 959,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 81,
@@ -339,7 +339,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 202334,
+  "EOS_Progressed": 202336,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 0,
@@ -27219,6 +27219,11 @@
       "Time": "2023-12-31T15:04:09.5977584+00:00",
       "NumProgressed": 202334,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-31T16:03:31.0439857+00:00",
+      "NumProgressed": 202336,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -27238,7 +27243,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 143657
+      "UsersEstimate": 143659
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -27357,7 +27362,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 202334,
+      "Progressed": 202336,
       "Completed": 4
     }
   ],
@@ -27365,8 +27370,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-12-30T17:59:44.6565075+00:00",
-  "LastChanged_Achievements": "2023-12-31T15:04:09.5977581+00:00",
+  "LastChanged_Achievements": "2023-12-31T16:03:31.0439855+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:04.8777057+00:00",
-  "LastUpdate_Ratings": "2023-12-31T15:01:28.250892+00:00",
-  "LastUpdate_Achievements": "2023-12-31T15:04:09.5979104+00:00"
+  "LastUpdate_Ratings": "2023-12-31T15:59:53.0398476+00:00",
+  "LastUpdate_Achievements": "2023-12-31T16:03:31.0441447+00:00"
 }

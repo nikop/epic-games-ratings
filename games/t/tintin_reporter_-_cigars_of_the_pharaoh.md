@@ -16,7 +16,7 @@
 | Au Revoir, Abudin | 11.00% | ~12 |
 | Dynamite, Treason and Coconuts | 11.00% | ~12 |
 | Save a Friend | 11.00% | ~12 |
-| Mysterious Bungalow | 8.00% | ~9 |
+| Mysterious Bungalow | 9.00% | ~10 |
 | Mummy Nightmare | 8.00% | ~9 |
 | The Eyes! | 7.00% | ~8 |
 | Keep the Doctor Away | 7.00% | ~8 |

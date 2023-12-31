@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2915,
+  "EOS_Progressed": 2917,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4434,6 +4434,11 @@
       "Time": "2023-12-31T15:05:36.135181+00:00",
       "NumProgressed": 2915,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T16:04:36.7242699+00:00",
+      "NumProgressed": 2917,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T10:03:34.0451585+00:00",
@@ -4582,7 +4587,7 @@
       "Name": "Heartland",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_HeroesOfIkoneiIsland",
@@ -4733,14 +4738,14 @@
     {
       "ID": "ai9gp4m",
       "IsBase": true,
-      "Progressed": 2915,
+      "Progressed": 2917,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T17:12:11.6441417+00:00",
   "FirstSeenAchievements": "2023-11-07T10:03:34.0451584+00:00",
-  "LastChanged_Achievements": "2023-12-31T15:05:36.1351807+00:00",
+  "LastChanged_Achievements": "2023-12-31T16:04:36.7242697+00:00",
   "LastUpdate_AppInfo": "2023-12-26T12:59:42.5726113+00:00",
-  "LastUpdate_Ratings": "2023-12-31T15:00:29.8483038+00:00",
-  "LastUpdate_Achievements": "2023-12-31T15:05:36.1352227+00:00"
+  "LastUpdate_Ratings": "2023-12-31T15:59:13.6169466+00:00",
+  "LastUpdate_Achievements": "2023-12-31T16:04:36.724312+00:00"
 }

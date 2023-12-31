@@ -1,33 +1,33 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.12 (Ranked 997)  
+Rating: 4.12 (Ranked 998)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 58.00% | ~904 |
+| Break Out | 58.00% | ~905 |
 | Trinity | 29.00% | ~452 |
 | Find Allies | 22.00% | ~343 |
 | A Taste of Wrath | 22.00% | ~343 |
 | I Found It | 22.00% | ~343 |
 | The Collector | 22.00% | ~343 |
-| Shatter Them All | 21.00% | ~327 |
-| Geared Up | 21.00% | ~327 |
+| Shatter Them All | 21.00% | ~328 |
+| Geared Up | 21.00% | ~328 |
 | Adventurer | 20.00% | ~312 |
 | Scholar | 20.00% | ~312 |
 | Fashion Victim | 19.00% | ~296 |
 | Stone Collection | 19.00% | ~296 |
-| Tributes of Caladrias | 18.00% | ~280 |
-| Powerful Allies | 17.00% | ~265 |
+| Powerful Allies | 18.00% | ~281 |
+| Tributes of Caladrias | 18.00% | ~281 |
 | Big Bazar | 12.00% | ~187 |
-| Essence Blow | 11.00% | ~171 |
-| Alchemist | 11.00% | ~171 |
-| The Mentor | 9.00% | ~140 |
+| Essence Blow | 11.00% | ~172 |
+| Alchemist | 11.00% | ~172 |
+| The Mentor | 10.00% | ~156 |
 | Calm before the Storm | 7.00% | ~109 |
 | Airborne | 7.00% | ~109 |
-| To Battle | 6.00% | ~93 |
-| Godslayer | 6.00% | ~93 |
-| Miner | 6.00% | ~93 |
+| To Battle | 6.00% | ~94 |
+| Godslayer | 6.00% | ~94 |
+| Miner | 6.00% | ~94 |
 | Clear Sight | 4.00% | ~62 |
 | Shatterer | 4.00% | ~62 |
 | Fine Feathers Make Fine Birds | 4.00% | ~62 |
@@ -42,7 +42,7 @@ Rating: 4.12 (Ranked 997)
 | All That Gold | 0.70% | ~11 |
 | Feeling Fancy | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,558 (Ranked 261)  
+Progressed: 1,560 (Ranked 261)  
 Completed: 3 (0.19%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 3 (0.19%) (Ranked 275)
 | 2023-12-28 | 1,412 | 3 |
 | 2023-12-29 | 1,459 | 3 |
 | 2023-12-30 | 1,519 | 3 |
-| 2023-12-31 | 1,558 | 3 |
+| 2023-12-31 | 1,560 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

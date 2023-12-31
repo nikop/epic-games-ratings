@@ -8,9 +8,9 @@
 | Licence To Kill | 18.00% | ~7 |
 | Vintage Collector | 10.00% | ~4 |
 | Law and Order | 10.00% | ~4 |
+| Hammer Time | 10.00% | ~4 |
 | Overkill | 8.00% | ~3 |
 | The Hunt | 8.00% | ~3 |
-| Hammer Time | 8.00% | ~3 |
 | Gibbing Love | 5.00% | ~2 |
 | Feel the Spark | 5.00% | ~2 |
 | Escape From M.C. | 5.00% | ~2 |

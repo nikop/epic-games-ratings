@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~2,098 |
-| Off to a good start | 62.00% | ~1,495 |
-| Do... or do not. There is no try | 52.00% | ~1,254 |
-| A good blaster at your side | 26.00% | ~627 |
-| I suggest a new strategy | 18.00% | ~434 |
+| New Recruit | 87.00% | ~2,100 |
+| Off to a good start | 62.00% | ~1,497 |
+| Do... or do not. There is no try | 52.00% | ~1,255 |
+| A good blaster at your side | 26.00% | ~628 |
+| I suggest a new strategy | 18.00% | ~435 |
 | Great shot, kid! | 16.00% | ~386 |
 | Scrap collector | 15.00% | ~362 |
 | All right, I'll give it a try | 15.00% | ~362 |
 | Shoot first | 13.00% | ~314 |
-| The power of the Force | 12.00% | ~289 |
-| Collector | 12.00% | ~289 |
-| Together we can rule the galaxy | 12.00% | ~289 |
+| The power of the Force | 12.00% | ~290 |
+| Collector | 12.00% | ~290 |
+| Together we can rule the galaxy | 12.00% | ~290 |
 | Tell Jabba that I've got his money | 8.00% | ~193 |
 | Best star-pilot in the galaxy | 8.00% | ~193 |
 | Never tell me the odds! | 7.00% | ~169 |
@@ -25,9 +25,9 @@
 | "Gonk? Gonk!" | 5.00% | ~121 |
 | Impressive. Most impressive. | 5.00% | ~121 |
 | Judge me by my size, do you? | 5.00% | ~121 |
-| Distinguished | 4.00% | ~96 |
-| A tremor in the Force | 4.00% | ~96 |
-| Support the troops | 4.00% | ~96 |
+| Distinguished | 4.00% | ~97 |
+| A tremor in the Force | 4.00% | ~97 |
+| Support the troops | 4.00% | ~97 |
 | On the ball | 3.00% | ~72 |
 | Safety ain't the point of a joyride | 3.00% | ~72 |
 | Not bad for a little furball | 3.00% | ~72 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,412 (Ranked 231)  
+Progressed: 2,414 (Ranked 231)  
 Completed: 1 (0.04%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 1 (0.04%) (Ranked 345)
 | 2023-12-28 | 2,299 | 1 |
 | 2023-12-29 | 2,337 | 1 |
 | 2023-12-30 | 2,388 | 1 |
-| 2023-12-31 | 2,412 | 1 |
+| 2023-12-31 | 2,414 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

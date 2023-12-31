@@ -503,9 +503,9 @@
       "ID": "HauntingSpecter",
       "SetID": "7m88n8p",
       "Name": "Haunting Specter",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "HeartHurt",
@@ -519,9 +519,9 @@
       "ID": "HideAndSeek",
       "SetID": "7m88n8p",
       "Name": "Hide-and-Seek Expert",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 65,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "HonoraryAlumni",
@@ -662,8 +662,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-12-31T15:04:58.6911375+00:00",
+  "LastChanged_Achievements": "2023-12-31T16:04:09.0324005+00:00",
   "LastUpdate_AppInfo": "2023-12-25T13:57:09.7353071+00:00",
-  "LastUpdate_Ratings": "2023-12-31T14:57:05.3812385+00:00",
-  "LastUpdate_Achievements": "2023-12-31T15:04:58.6911574+00:00"
+  "LastUpdate_Ratings": "2023-12-31T15:56:56.5346086+00:00",
+  "LastUpdate_Achievements": "2023-12-31T16:04:09.0324138+00:00"
 }

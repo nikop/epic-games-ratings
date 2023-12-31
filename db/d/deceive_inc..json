@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19211,
+  "EOS_Progressed": 19213,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14260,6 +14260,11 @@
       "Time": "2023-12-31T10:04:16.7772437+00:00",
       "NumProgressed": 19211,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-31T16:04:14.957739+00:00",
+      "NumProgressed": 19213,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14271,7 +14276,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5763
+      "UsersEstimate": 5764
     },
     {
       "ID": "0002",
@@ -14343,7 +14348,7 @@
       "Name": "Social of Solace",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "0011",
@@ -14455,7 +14460,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4226
+      "UsersEstimate": 4227
     },
     {
       "ID": "0025",
@@ -14471,7 +14476,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2305
+      "UsersEstimate": 2306
     },
     {
       "ID": "0027",
@@ -14495,7 +14500,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2497
+      "UsersEstimate": 2498
     },
     {
       "ID": "0030",
@@ -14535,7 +14540,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2305
+      "UsersEstimate": 2306
     },
     {
       "ID": "0035",
@@ -14558,7 +14563,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19211,
+      "Progressed": 19213,
       "Completed": 4
     }
   ],
@@ -14566,8 +14571,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2023-12-31T15:05:07.1745492+00:00",
+  "LastChanged_Achievements": "2023-12-31T16:04:14.9577387+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:48.2583913+00:00",
-  "LastUpdate_Ratings": "2023-12-31T15:00:43.8726327+00:00",
-  "LastUpdate_Achievements": "2023-12-31T15:05:07.1746581+00:00"
+  "LastUpdate_Ratings": "2023-12-31T15:59:22.8850176+00:00",
+  "LastUpdate_Achievements": "2023-12-31T16:04:14.9578238+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "1b60f39de33b4902a8d5fa543b1fb628",
   "Name": "Sackboy\u2122: A Big Adventure",
   "ProductSlug": "sackboy-a-big-adventure",
-  "Ranking_Rating": 110,
-  "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 561,
+  "Ranking_Rating": 109,
+  "Ranking_Popularity": 559,
+  "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -358,5 +358,5 @@
   "LastChanged": "2023-12-29T15:00:10.5851831+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:56:59.2985774+00:00",
   "LastUpdate_Ratings": "2023-12-31T15:02:36.4286152+00:00",
-  "LastUpdate_Achievements": "2023-12-31T15:04:42.0392712+00:00"
+  "LastUpdate_Achievements": "2023-12-31T16:03:55.9462127+00:00"
 }

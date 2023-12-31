@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 745,
+  "EOS_Progressed": 746,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2655,6 +2655,11 @@
       "Time": "2023-12-31T15:10:54.3709148+00:00",
       "NumProgressed": 745,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T16:10:15.0093071+00:00",
+      "NumProgressed": 746,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2786,7 +2791,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH_COLL_CH01",
@@ -2826,7 +2831,7 @@
       "Name": "Collectibles of Chapter V",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_COLL_CH06",
@@ -2840,9 +2845,9 @@
       "ID": "ACH_COLL_CH07",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter VII",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_COLL_CH08",
@@ -2890,7 +2895,7 @@
       "Name": "Cowardice",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -2898,7 +2903,7 @@
       "Name": "The Breaking Point",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -2906,7 +2911,7 @@
       "Name": "The Motivation",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH_FIN_CH04",
@@ -3000,9 +3005,9 @@
       "ID": "ACH_HEAL",
       "SetID": "1j25agn",
       "Name": "Helping Hand",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_HIDE_BODIES",
@@ -3010,7 +3015,7 @@
       "Name": "Missing in Action",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -3074,7 +3079,7 @@
       "Name": "Eat Lead!",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -3106,7 +3111,7 @@
       "Name": "Bullseye!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_NEST2",
@@ -3137,15 +3142,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 745,
+      "Progressed": 746,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2023-12-31T15:10:54.3709146+00:00",
+  "LastChanged_Achievements": "2023-12-31T16:10:15.0093069+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:34.6054742+00:00",
-  "LastUpdate_Ratings": "2023-12-31T15:00:05.6039603+00:00",
-  "LastUpdate_Achievements": "2023-12-31T15:10:54.3709612+00:00"
+  "LastUpdate_Ratings": "2023-12-31T15:58:57.6296702+00:00",
+  "LastUpdate_Achievements": "2023-12-31T16:10:15.0093745+00:00"
 }

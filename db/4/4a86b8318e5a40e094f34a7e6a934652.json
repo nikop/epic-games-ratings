@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 434,
+  "EOS_Progressed": 435,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -1839,6 +1839,11 @@
       "Time": "2023-12-31T14:03:11.7200653+00:00",
       "NumProgressed": 434,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-31T16:03:23.9361329+00:00",
+      "NumProgressed": 435,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -1851,7 +1856,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -1865,9 +1870,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 278
+      "UsersEstimate": 274
     },
     {
       "ID": "BRING_PROSPERO",
@@ -1875,7 +1880,7 @@
       "Name": "Amusement Park",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -1889,9 +1894,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 208
+      "UsersEstimate": 213
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -1915,7 +1920,7 @@
       "Name": "Farmer",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "HOUSEWARMING",
@@ -1945,9 +1950,9 @@
       "ID": "NOT_FAINT_HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "Tough Guy",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 74
     },
     {
       "ID": "PREPARE_10_COFFEE",
@@ -1963,7 +1968,7 @@
       "Name": "Weed Warrior",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -1995,7 +2000,7 @@
       "Name": "Uppies!",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -2010,14 +2015,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 434,
+      "Progressed": 435,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-31T15:03:59.971301+00:00",
+  "LastChanged_Achievements": "2023-12-31T16:03:23.9361327+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.5394751+00:00",
-  "LastUpdate_Ratings": "2023-12-31T15:03:00.3283809+00:00",
-  "LastUpdate_Achievements": "2023-12-31T15:03:59.9713214+00:00"
+  "LastUpdate_Ratings": "2023-12-31T16:02:41.1574389+00:00",
+  "LastUpdate_Achievements": "2023-12-31T16:03:23.9361535+00:00"
 }

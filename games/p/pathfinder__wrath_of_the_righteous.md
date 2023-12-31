@@ -6,14 +6,14 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,487 |
+| Devoured by Darkness | 27.00% | ~3,488 |
 | A Spark | 19.00% | ~2,454 |
 | Burning City | 18.00% | ~2,325 |
-| Defender's Heart | 16.00% | ~2,066 |
-| Mythic Choices | 15.00% | ~1,937 |
+| Defender's Heart | 16.00% | ~2,067 |
+| Mythic Choices | 15.00% | ~1,938 |
 | Banner over the Citadel | 14.00% | ~1,808 |
 | Queen's Gratitude | 12.00% | ~1,550 |
-| Fifth Crusade | 9.00% | ~1,162 |
+| Fifth Crusade | 9.00% | ~1,163 |
 | Embrace of the Abyss | 7.00% | ~904 |
 | Path of the Angel | 7.00% | ~904 |
 | Demonic and Divine | 7.00% | ~904 |
@@ -30,10 +30,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Mythic Reinforcements | 4.00% | ~517 |
 | A Flame | 4.00% | ~517 |
 | Hey, I Know You! | 4.00% | ~517 |
-| Path of the Trickster | 3.00% | ~387 |
-| Path of the Lich | 3.00% | ~387 |
-| Heroic Victory | 3.00% | ~387 |
-| Core of the Riddle | 3.00% | ~387 |
+| Path of the Trickster | 3.00% | ~388 |
+| Path of the Lich | 3.00% | ~388 |
+| Heroic Victory | 3.00% | ~388 |
+| Core of the Riddle | 3.00% | ~388 |
 | Hanged Man's Notes | 3.00% | ~351 |
 | Sarkoris Will Be Green | 3.00% | ~351 |
 | The Lady of the Forest | 3.00% | ~351 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,915 (Ranked 174)  
+Progressed: 12,917 (Ranked 174)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -378,10 +378,10 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 12,845 | 0 |
 | 2023-12-29 | 12,867 | 0 |
 | 2023-12-30 | 12,899 | 0 |
-| 2023-12-31 | 12,915 | 0 |
+| 2023-12-31 | 12,917 | 0 |
 ## Awards
 Max (Character Customization): 1,774  (Ranked 126)  
-Sum: 7,180 (Ranked 125)  
+Sum: 7,181 (Ranked 125)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
@@ -392,7 +392,7 @@ Diff (max vs sum): 1
 | This game has Amazing Characters | 650 |
 | This game has Amazing Storytelling | 631 |
 | This game has Challenging Combat | 598 |
-| This game has Quickly Understood Controls | 586 |
+| This game has Quickly Understood Controls | 587 |
 | This game is Relaxing | 566 |
 | This game has a Creative Community | 404 |
 | This game has Obsessive Gameplay | 364 |
@@ -705,4 +705,4 @@ Diff (max vs sum): 1
 | 2023-12-28 | 4.76 | - | 1,774 | 7,172 |
 | 2023-12-29 | 4.76 | - | 1,774 | 7,176 |
 | 2023-12-30 | 4.76 | - | 1,774 | 7,179 |
-| 2023-12-31 | 4.76 | - | 1,774 | 7,180 |
+| 2023-12-31 | 4.76 | - | 1,774 | 7,181 |

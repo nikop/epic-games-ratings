@@ -14,6 +14,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Architect | 0.70% | ~112 |
 | Good | 0.70% | ~112 |
 | Mason | 0.70% | ~112 |
+| Noble | 0.70% | ~112 |
 | Strong | 0.70% | ~112 |
 | Hanging Gardens | 0.70% | ~112 |
 | Oracle | 0.70% | ~112 |
@@ -22,7 +23,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just | 0.60% | ~96 |
 | Keystone | 0.60% | ~96 |
 | Learned | 0.60% | ~96 |
-| Noble | 0.60% | ~96 |
 | Pioneer | 0.60% | ~96 |
 | Judaism | 0.60% | ~96 |
 | Greek Paganism | 0.60% | ~96 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,045 (Ranked 165)  
+Progressed: 16,046 (Ranked 165)  
 Completed: 5 (0.03%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -620,7 +620,7 @@ Completed: 5 (0.03%) (Ranked 351)
 | 2023-12-28 | 15,997 | 5 |
 | 2023-12-29 | 16,011 | 5 |
 | 2023-12-30 | 16,036 | 5 |
-| 2023-12-31 | 16,045 | 5 |
+| 2023-12-31 | 16,046 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 284)  
 Sum: 1,912 (Ranked 220)  

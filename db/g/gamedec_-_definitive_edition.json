@@ -2,7 +2,7 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 880,
+  "Ranking_Rating": 881,
   "Ranking_Popularity": 383,
   "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 66,
@@ -519,9 +519,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 256340,
+  "EOS_Progressed": 256350,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 788,
+  "EOS_NewPlayers": 787,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29129,6 +29129,11 @@
       "Time": "2023-12-31T15:06:50.672897+00:00",
       "NumProgressed": 256340,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-31T16:05:32.6612306+00:00",
+      "NumProgressed": 256350,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -29140,7 +29145,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 69212
+      "UsersEstimate": 69214
     },
     {
       "ID": "ACH_AON",
@@ -29148,7 +29153,7 @@
       "Name": "A muscle to rely on",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2563
+      "UsersEstimate": 2564
     },
     {
       "ID": "ACH_ATRUEBLACKSMITHS",
@@ -29156,7 +29161,7 @@
       "Name": "A true blacksmith",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2563
+      "UsersEstimate": 2564
     },
     {
       "ID": "ACH_BOY",
@@ -29180,7 +29185,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 30761
+      "UsersEstimate": 30762
     },
     {
       "ID": "ACH_ENJOY",
@@ -29204,7 +29209,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 33324
+      "UsersEstimate": 33326
     },
     {
       "ID": "ACH_HATTRICK",
@@ -29220,7 +29225,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 23071
+      "UsersEstimate": 23072
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -29228,7 +29233,7 @@
       "Name": "I am in great pain, please help me",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2563
+      "UsersEstimate": 2564
     },
     {
       "ID": "ACH_HIGHGROUND",
@@ -29244,7 +29249,7 @@
       "Name": "High noon",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 2563
+      "UsersEstimate": 2564
     },
     {
       "ID": "ACH_HMMSHINY",
@@ -29252,7 +29257,7 @@
       "Name": "Random encounter",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2563
+      "UsersEstimate": 2564
     },
     {
       "ID": "ACH_ILIKETOSNIFF",
@@ -29284,7 +29289,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 74339
+      "UsersEstimate": 74342
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -29356,7 +29361,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64085
+      "UsersEstimate": 64088
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -29364,7 +29369,7 @@
       "Name": "SysOp on duty",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2563
+      "UsersEstimate": 2564
     },
     {
       "ID": "ACH_LETSLISTENER",
@@ -29372,7 +29377,7 @@
       "Name": "Good listener",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 12817
+      "UsersEstimate": 12818
     },
     {
       "ID": "ACH_LETSOTHERTHINKING",
@@ -29420,7 +29425,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 15380
+      "UsersEstimate": 15381
     },
     {
       "ID": "ACH_MEMORY5",
@@ -29444,7 +29449,7 @@
       "Name": "Griever",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20507
+      "UsersEstimate": 20508
     },
     {
       "ID": "ACH_PUMPKINJACK",
@@ -29452,7 +29457,7 @@
       "Name": "Pumpkin Jack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20507
+      "UsersEstimate": 20508
     },
     {
       "ID": "ACH_SCRATCH",
@@ -29460,7 +29465,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64085
+      "UsersEstimate": 64088
     },
     {
       "ID": "ACH_SOREAD",
@@ -29476,7 +29481,7 @@
       "Name": "Take the blue pill",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2563
+      "UsersEstimate": 2564
     },
     {
       "ID": "ACH_TAKEREDPILL",
@@ -29492,7 +29497,7 @@
       "Name": "The power of three",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2563
+      "UsersEstimate": 2564
     },
     {
       "ID": "ACH_THISWAY",
@@ -29508,7 +29513,7 @@
       "Name": "Trash compactor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15380
+      "UsersEstimate": 15381
     },
     {
       "ID": "ACH_TROLLKING",
@@ -29524,7 +29529,7 @@
       "Name": "Valedictorian",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 15380
+      "UsersEstimate": 15381
     },
     {
       "ID": "ACH_WAKEUP",
@@ -29532,7 +29537,7 @@
       "Name": "Wake up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 20507
+      "UsersEstimate": 20508
     },
     {
       "ID": "ACH_WELLDESERVED",
@@ -29555,7 +29560,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 256340,
+      "Progressed": 256350,
       "Completed": 8
     }
   ],
@@ -29563,8 +29568,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-12-30T22:03:09.2237596+00:00",
-  "LastChanged_Achievements": "2023-12-31T15:06:50.6728966+00:00",
+  "LastChanged_Achievements": "2023-12-31T16:05:32.6612303+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:01.0065032+00:00",
-  "LastUpdate_Ratings": "2023-12-31T15:03:20.7163041+00:00",
-  "LastUpdate_Achievements": "2023-12-31T15:06:50.6732073+00:00"
+  "LastUpdate_Ratings": "2023-12-31T16:02:56.2359914+00:00",
+  "LastUpdate_Achievements": "2023-12-31T16:05:32.6613625+00:00"
 }

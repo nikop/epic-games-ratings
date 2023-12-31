@@ -403,9 +403,9 @@
       "ID": "17",
       "SetID": "5e3maia",
       "Name": "Abbot",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "18",
@@ -419,9 +419,9 @@
       "ID": "19",
       "SetID": "5e3maia",
       "Name": "Strong Alliance",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "2",
@@ -890,8 +890,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-12-31T15:07:15.98807+00:00",
+  "LastChanged_Achievements": "2023-12-31T16:05:51.2872067+00:00",
   "LastUpdate_AppInfo": "2023-12-30T07:56:55.8803817+00:00",
-  "LastUpdate_Ratings": "2023-12-31T14:57:56.0361503+00:00",
-  "LastUpdate_Achievements": "2023-12-31T15:07:15.988124+00:00"
+  "LastUpdate_Ratings": "2023-12-31T15:57:30.1612934+00:00",
+  "LastUpdate_Achievements": "2023-12-31T16:05:51.2872617+00:00"
 }

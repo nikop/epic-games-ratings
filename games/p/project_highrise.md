@@ -47,10 +47,10 @@
 | Master of Puppets | 8.00% | ~38 |
 | First 100 Days | 7.00% | ~33 |
 | Water Features | 7.00% | ~33 |
+| Golden Opportunity | 7.00% | ~33 |
 | Phoning It In | 7.00% | ~33 |
 | Meet Me at HQ | 6.00% | ~28 |
 | Revenue Royalty | 6.00% | ~28 |
-| Golden Opportunity | 6.00% | ~28 |
 | Pipe Up | 6.00% | ~28 |
 | I'm Busy Ruling | 5.00% | ~24 |
 | Careful Constructor | 5.00% | ~24 |

@@ -11,7 +11,7 @@
 | Connected | 68.00% | ~71 |
 | Expansion | 63.00% | ~66 |
 | Mine! | 59.00% | ~61 |
-| Harvest Time | 57.00% | ~59 |
+| Harvest Time | 58.00% | ~60 |
 | Artificer's Apprentice | 51.00% | ~53 |
 | Fly the friendly Sky | 46.00% | ~48 |
 | Get out of here! | 43.00% | ~45 |
@@ -38,8 +38,8 @@
 | A Master of Magic | 11.00% | ~11 |
 | Friend of Windholme | 11.00% | ~11 |
 | Magic Academy | 11.00% | ~11 |
+| Defeat Gor | 10.00% | ~10 |
 | A Joke | 10.00% | ~10 |
-| Defeat Gor | 9.00% | ~9 |
 | Yngrid's Tale | 9.00% | ~9 |
 | Mage Teacher | 9.00% | ~9 |
 | Defeat Hokan | 7.00% | ~7 |

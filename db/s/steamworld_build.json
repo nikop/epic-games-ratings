@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 222,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1016,9 +1016,9 @@
       "ID": "MineSweeper",
       "SetID": "4bd750m",
       "Name": "Mine Sweeper",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 89
     },
     {
       "ID": "NothingButRoad",
@@ -1088,9 +1088,9 @@
       "ID": "Systematic",
       "SetID": "4bd750m",
       "Name": "Systematic",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 98
     },
     {
       "ID": "TuttiFrutti",
@@ -1104,9 +1104,9 @@
       "ID": "UpUpAndAway",
       "SetID": "4bd750m",
       "Name": "Up, Up And Away!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 67
     },
     {
       "ID": "Whoa",
@@ -1135,8 +1135,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-31T15:07:13.4263299+00:00",
+  "LastChanged_Achievements": "2023-12-31T16:05:49.4438925+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.9245287+00:00",
-  "LastUpdate_Ratings": "2023-12-31T15:03:40.9428537+00:00",
-  "LastUpdate_Achievements": "2023-12-31T15:07:13.4263487+00:00"
+  "LastUpdate_Ratings": "2023-12-31T16:03:10.0933694+00:00",
+  "LastUpdate_Achievements": "2023-12-31T16:05:49.4439179+00:00"
 }

@@ -1,7 +1,7 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.62 (Ranked 1,079)  
+Rating: 3.61 (Ranked 1,080)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,7 +18,7 @@ Rating: 3.62 (Ranked 1,079)
 | Enter of Your Own Free Will | 7.00% | ~153 |
 | Welcome to the Neighborhood | 7.00% | ~153 |
 | Throw The First Stone | 7.00% | ~153 |
-| Heart Attack | 6.00% | ~131 |
+| Heart Attack | 7.00% | ~153 |
 | Skin of Their Teeth | 6.00% | ~131 |
 | Bad Wiring | 5.00% | ~109 |
 | Grounded | 5.00% | ~109 |
@@ -26,6 +26,7 @@ Rating: 3.62 (Ranked 1,079)
 | Radio Silence | 4.00% | ~87 |
 | Helping Hand | 3.00% | ~66 |
 | I Spit On Your Grave | 3.00% | ~66 |
+| Contingency Plans | 2.00% | ~44 |
 | Block Party | 2.00% | ~44 |
 | Sic Transit Umbra | 2.00% | ~44 |
 | Bell-ringer | 2.00% | ~44 |
@@ -36,7 +37,6 @@ Rating: 3.62 (Ranked 1,079)
 | Starve the Beast | 2.00% | ~44 |
 | Harvest’s End | 2.00% | ~44 |
 | Revelations | 1.00% | ~22 |
-| Contingency Plans | 1.00% | ~22 |
 | Check, Please! | 1.00% | ~22 |
 | Right This Way | 1.00% | ~22 |
 | Nice Try | 1.00% | ~22 |
@@ -260,3 +260,4 @@ Diff (max vs sum): -1
 | 2023-12-28 | 3.61 | 20 | 20 |
 | 2023-12-29 | 3.60 | 20 | 20 |
 | 2023-12-30 | 3.62 | 20 | 20 |
+| 2023-12-31 | 3.61 | 20 | 20 |

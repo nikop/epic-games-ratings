@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 639,
+  "EOS_Progressed": 640,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1694,6 +1694,11 @@
       "Time": "2023-12-31T11:11:00.8849048+00:00",
       "NumProgressed": 639,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T16:10:11.5936277+00:00",
+      "NumProgressed": 640,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1721,7 +1726,7 @@
       "Name": "Artifact Collector",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "Assassin",
@@ -1785,7 +1790,7 @@
       "Name": "Goblin Tales",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "Hardboiled",
@@ -1817,7 +1822,7 @@
       "Name": "Iconoclasm",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "Inquisitor",
@@ -2024,7 +2029,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 639,
+      "Progressed": 640,
       "Completed": 1
     }
   ],
@@ -2032,8 +2037,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-31T15:10:50.0681271+00:00",
+  "LastChanged_Achievements": "2023-12-31T16:10:11.5936274+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:03.2604081+00:00",
-  "LastUpdate_Ratings": "2023-12-31T15:01:22.7564396+00:00",
-  "LastUpdate_Achievements": "2023-12-31T15:10:50.0681738+00:00"
+  "LastUpdate_Ratings": "2023-12-31T15:59:48.7466873+00:00",
+  "LastUpdate_Achievements": "2023-12-31T16:10:11.5936593+00:00"
 }

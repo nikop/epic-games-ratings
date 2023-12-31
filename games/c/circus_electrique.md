@@ -1,12 +1,12 @@
 # Circus Electrique
 [Store](https://store.epicgames.com/en-US/p/circus-electrique)  
 [View Rawdata](../../db/c/circus_electrique.json)  
-Rating: 4.16 (Ranked 973)  
+Rating: 4.16 (Ranked 974)  
 Number of Ratings: 22  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self Defense | 48.00% | ~240 |
+| Self Defense | 49.00% | ~245 |
 | Circus Electrique Proudly Presents... | 44.00% | ~220 |
 | Grand Opening | 43.00% | ~215 |
 | Path of Learning | 43.00% | ~215 |
@@ -57,7 +57,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.40% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 499 (Ranked 344)  
+Progressed: 500 (Ranked 344)  
 Completed: 1 (0.20%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,6 +127,7 @@ Completed: 1 (0.20%) (Ranked 273)
 | 2023-12-26 | 496 | 1 |
 | 2023-12-28 | 497 | 1 |
 | 2023-12-30 | 499 | 1 |
+| 2023-12-31 | 500 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

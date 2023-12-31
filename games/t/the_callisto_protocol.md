@@ -1,35 +1,35 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.21 (Ranked 939)  
+Rating: 4.21 (Ranked 940)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 21.00% | ~4,255 |
-| The Outer Way | 21.00% | ~4,255 |
-| Desperate Times | 19.00% | ~3,849 |
-| Get a Grip | 18.00% | ~3,647 |
-| Paper Jams | 18.00% | ~3,647 |
-| Chew 'Em Up | 16.00% | ~3,242 |
-| Reforged | 15.00% | ~3,039 |
-| Float Like A Butterfly | 14.00% | ~2,836 |
-| Workplace Hazard | 13.00% | ~2,634 |
-| If the SHU Fits... | 13.00% | ~2,634 |
-| Without A Paddle | 11.00% | ~2,229 |
-| In the Pipe, Five by Five | 10.00% | ~2,026 |
-| Crash Site | 10.00% | ~2,026 |
-| Two Heads Are Better Than One | 9.00% | ~1,823 |
-| Power Up | 9.00% | ~1,823 |
-| Giving Back | 8.00% | ~1,621 |
-| Terminated | 8.00% | ~1,621 |
-| What Lies Beneath | 8.00% | ~1,621 |
-| Full Circle | 8.00% | ~1,621 |
-| You Need a Gun | 7.00% | ~1,418 |
-| I Do Belong Here | 7.00% | ~1,418 |
-| Keep Fighting | 6.00% | ~491 |
-| It's Time | 5.00% | ~409 |
-| In Striking Distance | 4.00% | ~810 |
-| The Commonality | 4.00% | ~810 |
+| Flesh Wound | 21.00% | ~4,257 |
+| The Outer Way | 21.00% | ~4,257 |
+| Desperate Times | 19.00% | ~3,851 |
+| Get a Grip | 18.00% | ~3,649 |
+| Paper Jams | 18.00% | ~3,649 |
+| Chew 'Em Up | 16.00% | ~3,243 |
+| Reforged | 15.00% | ~3,040 |
+| Float Like A Butterfly | 14.00% | ~2,838 |
+| Workplace Hazard | 13.00% | ~2,635 |
+| If the SHU Fits... | 13.00% | ~2,635 |
+| Without A Paddle | 11.00% | ~2,230 |
+| In the Pipe, Five by Five | 10.00% | ~2,027 |
+| Crash Site | 10.00% | ~2,027 |
+| Two Heads Are Better Than One | 9.00% | ~1,824 |
+| Power Up | 9.00% | ~1,824 |
+| Giving Back | 8.00% | ~1,622 |
+| Terminated | 8.00% | ~1,622 |
+| What Lies Beneath | 8.00% | ~1,622 |
+| Full Circle | 8.00% | ~1,622 |
+| You Need a Gun | 7.00% | ~1,419 |
+| I Do Belong Here | 7.00% | ~1,419 |
+| Keep Fighting | 6.00% | ~492 |
+| It's Time | 5.00% | ~410 |
+| In Striking Distance | 4.00% | ~811 |
+| The Commonality | 4.00% | ~811 |
 | One Last Job | 3.00% | ~246 |
 | Armed to the Teeth | 1.00% | ~82 |
 | Mugshot | 1.00% | ~203 |
@@ -37,8 +37,8 @@ Rating: 4.21 (Ranked 939)
 | This Isn't About Escape | 1.00% | ~82 |
 | Grim Reaper | 0.90% | ~182 |
 | Instigator | 0.90% | ~74 |
-| Parole Denied | 0.80% | ~65 |
-| Information Overload | 0.80% | ~65 |
+| Parole Denied | 0.80% | ~66 |
+| Information Overload | 0.80% | ~66 |
 | Quick Pick | 0.70% | ~57 |
 | Subject Alpha | 0.50% | ~41 |
 | The Protocol is About Life | 0.30% | ~61 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 939)
 | Big Game Hunter | 0.10% | ~8 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,260 (Ranked 150)  
+Progressed: 20,270 (Ranked 150)  
 Completed: 82 (0.40%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 82 (0.40%) (Ranked 229)
 | 2023-12-28 | 19,780 | 82 |
 | 2023-12-29 | 19,946 | 82 |
 | 2023-12-30 | 20,137 | 82 |
-| 2023-12-31 | 20,260 | 82 |
+| 2023-12-31 | 20,270 | 82 |
 ## Awards
 Max (Amazing Characters): 107  (Ranked 365)  
 Sum: 539 (Ranked 331)  

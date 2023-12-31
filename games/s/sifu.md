@@ -1,36 +1,36 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 70)  
+Rating: 4.82 (Ranked 69)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,507 |
-| Life is your teacher | 4.00% | ~30,005 |
-| Lightning Hands | 4.00% | ~30,005 |
-| The Assault | 3.00% | ~22,504 |
-| The Hateful Pole Fighter | 2.00% | ~15,003 |
-| A Lady's Blood in the Snow | 2.00% | ~15,003 |
-| Stuntmaster | 2.00% | ~15,003 |
-| Street Fighting | 2.00% | ~15,003 |
-| State of constant learning | 2.00% | ~15,003 |
-| Qi Gong: Breath | 2.00% | ~15,003 |
-| Qi Gong: Essence | 2.00% | ~15,003 |
-| Old Child | 2.00% | ~15,003 |
-| Rumble in the Hangar | 2.00% | ~15,003 |
-| Diligence as a goal | 2.00% | ~1,189 |
-| Lady Wing Chun | 1.00% | ~7,501 |
-| Furious Fists | 1.00% | ~7,501 |
-| Scareless | 1.00% | ~7,501 |
-| Kill Nil | 1.00% | ~7,501 |
-| Qi Gong: Mind | 1.00% | ~7,501 |
-| I know Kung-Fu | 1.00% | ~7,501 |
-| Kung-Fu Tussle | 1.00% | ~7,501 |
-| Path of the Prospect | 1.00% | ~7,501 |
-| Take damage to save time | 1.00% | ~7,501 |
-| Project Arena | 1.00% | ~594 |
-| Dance of the Praying Mantis | 0.90% | ~6,751 |
+| The Old Grandmaster | 5.00% | ~37,510 |
+| Life is your teacher | 4.00% | ~30,008 |
+| Lightning Hands | 4.00% | ~30,008 |
+| The Assault | 3.00% | ~22,506 |
+| The Hateful Pole Fighter | 2.00% | ~15,004 |
+| A Lady's Blood in the Snow | 2.00% | ~15,004 |
+| Stuntmaster | 2.00% | ~15,004 |
+| Street Fighting | 2.00% | ~15,004 |
+| State of constant learning | 2.00% | ~15,004 |
+| Qi Gong: Breath | 2.00% | ~15,004 |
+| Qi Gong: Essence | 2.00% | ~15,004 |
+| Old Child | 2.00% | ~15,004 |
+| Rumble in the Hangar | 2.00% | ~15,004 |
+| Diligence as a goal | 2.00% | ~1,190 |
+| Lady Wing Chun | 1.00% | ~7,502 |
+| Furious Fists | 1.00% | ~7,502 |
+| Scareless | 1.00% | ~7,502 |
+| Kill Nil | 1.00% | ~7,502 |
+| Qi Gong: Mind | 1.00% | ~7,502 |
+| I know Kung-Fu | 1.00% | ~7,502 |
+| Kung-Fu Tussle | 1.00% | ~7,502 |
+| Path of the Prospect | 1.00% | ~7,502 |
+| Take damage to save time | 1.00% | ~7,502 |
+| Project Arena | 1.00% | ~595 |
+| Dance of the Praying Mantis | 0.90% | ~6,752 |
 | Fight the way you practice | 0.70% | ~416 |
 | Muk Yan Master | 0.60% | ~4,501 |
 | Martial Hub | 0.60% | ~357 |
@@ -44,9 +44,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Prodigal Child | 0.40% | ~3,001 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~3,001 |
 | The best strikes are the ones we avoid | 0.40% | ~238 |
-| Knowledge Greed | 0.30% | ~2,250 |
-| The Pit Protector | 0.30% | ~2,250 |
-| Come Snap With Me | 0.30% | ~2,250 |
+| Knowledge Greed | 0.30% | ~2,251 |
+| The Pit Protector | 0.30% | ~2,251 |
+| Come Snap With Me | 0.30% | ~2,251 |
 | Deadly Venom | 0.30% | ~178 |
 | Drunken Fighter | 0.20% | ~1,500 |
 | Martial Artist | 0.20% | ~1,500 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~59 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 750,135 (Ranked 23)  
+Progressed: 750,196 (Ranked 23)  
 Completed: 12,970 (1.73%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,10 +322,10 @@ Completed: 12,970 (1.73%) (Ranked 142)
 | 2023-12-28 | 747,246 | 12,967 |
 | 2023-12-29 | 748,212 | 12,968 |
 | 2023-12-30 | 749,350 | 12,969 |
-| 2023-12-31 | 750,135 | 12,970 |
+| 2023-12-31 | 750,196 | 12,970 |
 ## Awards
 Max (Great Boss Battles): 7,061  (Ranked 55)  
-Sum: 11,948 (Ranked 87)  
+Sum: 11,950 (Ranked 87)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
@@ -334,7 +334,7 @@ Diff (max vs sum): -32
 | This game has Challenging Combat | 634 |
 | This game has Amazing Storytelling | 612 |
 | This game has Amazing Characters | 605 |
-| This game is Highly Recommended | 597 |
+| This game is Highly Recommended | 599 |
 | This game has Quickly Understood Controls | 593 |
 | This game is Extremely Fun | 579 |
 | This game has Unique Visuals | 577 |

@@ -1,32 +1,32 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.27 (Ranked 892)  
+Rating: 4.27 (Ranked 893)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,914 |
-| Don't I Know You...? | 76.00% | ~1,841 |
-| Jailbreak | 65.00% | ~1,575 |
+| Rigged And Ready | 79.00% | ~1,915 |
+| Don't I Know You...? | 75.00% | ~1,818 |
+| Jailbreak | 65.00% | ~1,576 |
 | Suited and Booted | 38.00% | ~921 |
 | HEADSHOT! | 37.00% | ~897 |
 | Sleeping With The Fishes | 35.00% | ~848 |
 | Overheated | 30.00% | ~727 |
 | High Performance | 30.00% | ~727 |
-| Powered Up | 28.00% | ~678 |
+| Powered Up | 28.00% | ~679 |
 | Studied The Blade | 25.00% | ~606 |
-| Home Invasion | 23.00% | ~557 |
+| Home Invasion | 23.00% | ~558 |
 | Luminary | 22.00% | ~533 |
 | It's a Trap | 22.00% | ~533 |
 | True Survivor | 21.00% | ~509 |
 | Offensive Defense | 20.00% | ~485 |
 | Shocking | 20.00% | ~485 |
-| Court Martial | 19.00% | ~460 |
-| Unforeseeable Consequences | 19.00% | ~460 |
+| Court Martial | 19.00% | ~461 |
+| Unforeseeable Consequences | 19.00% | ~461 |
 | Dead Again | 18.00% | ~436 |
 | Clean Cut | 18.00% | ~436 |
 | Full Arsenal | 17.00% | ~412 |
-| Can't Trust Banks | 15.00% | ~363 |
+| Can't Trust Banks | 15.00% | ~364 |
 | Mommy Dearest | 13.00% | ~315 |
 | Bad Dog | 13.00% | ~315 |
 | Where It All Began | 13.00% | ~315 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 892)
 | Three Birds With One Stone | 1.00% | ~24 |
 | The Easy Way Out | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,423 (Ranked 230)  
+Progressed: 2,424 (Ranked 230)  
 Completed: 13 (0.54%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 13 (0.54%) (Ranked 212)
 | 2023-12-28 | 2,397 | 13 |
 | 2023-12-29 | 2,408 | 13 |
 | 2023-12-30 | 2,418 | 13 |
-| 2023-12-31 | 2,423 | 13 |
+| 2023-12-31 | 2,424 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

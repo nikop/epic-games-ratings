@@ -7,41 +7,41 @@ Number of Ratings: 116  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Green with Envy | 78.00% | ~257 |
-| First of many… | 70.00% | ~230 |
-| Helping Hand | 66.00% | ~217 |
-| Increased Vigor | 60.00% | ~197 |
+| First of many… | 69.00% | ~228 |
+| Helping Hand | 65.00% | ~214 |
+| Increased Vigor | 60.00% | ~198 |
 | Fight Fire with Fire | 58.00% | ~191 |
 | Increased Capacity | 54.00% | ~178 |
-| Just the start | 50.00% | ~164 |
+| Just the start | 50.00% | ~165 |
 | Perfect Storm | 47.00% | ~155 |
-| All That Glitters | 47.00% | ~155 |
-| Enhance! | 43.00% | ~141 |
-| One Of the Chosen | 42.00% | ~138 |
+| All That Glitters | 46.00% | ~152 |
+| Enhance! | 43.00% | ~142 |
+| One Of the Chosen | 42.00% | ~139 |
 | Throne Potato | 40.00% | ~132 |
 | Devil's in the Details | 38.00% | ~125 |
 | Five's a Crowd | 38.00% | ~125 |
 | 25 to Life | 38.00% | ~125 |
-| Soul Harvester | 36.00% | ~118 |
-| Salvation | 36.00% | ~118 |
+| Soul Harvester | 36.00% | ~119 |
+| Salvation | 36.00% | ~119 |
 | Unshakable Fortitude | 34.00% | ~112 |
 | Maximum Vigor | 31.00% | ~102 |
 | I Wanna Rock | 31.00% | ~102 |
 | Delusions of Grandeur | 31.00% | ~102 |
-| Love Tap | 29.00% | ~95 |
+| Love Tap | 29.00% | ~96 |
 | Freeze Frame | 27.00% | ~89 |
 | For Whom the Bell Tolls | 27.00% | ~89 |
 | Eat Your Heart Out | 26.00% | ~86 |
 | Big Spender | 25.00% | ~82 |
 | Unyielding Strength | 23.00% | ~76 |
 | Can you restore the Balance? | 23.00% | ~76 |
-| Cleanup Crew | 22.00% | ~72 |
-| Crowd Source | 22.00% | ~72 |
+| Cleanup Crew | 22.00% | ~73 |
+| Crowd Source | 22.00% | ~73 |
 | Maximum Capacity | 20.00% | ~66 |
 | Demon Meddler | 20.00% | ~66 |
 | Seeing Red | 20.00% | ~66 |
 | Egomaniac | 18.00% | ~59 |
-| Protector of Humanity | 16.00% | ~53 |
-| Everybody Wants to Rule the World | 16.00% | ~53 |
+| Protector of Humanity | 15.00% | ~50 |
+| Everybody Wants to Rule the World | 15.00% | ~50 |
 | A Parting Gift | 13.00% | ~43 |
 | Community Outreach | 13.00% | ~43 |
 | Unbreakable Will | 11.00% | ~36 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 0.60% | ~2 |
 | Beast Mode | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 329 (Ranked 378)  
+Progressed: 330 (Ranked 378)  
 Completed: 1 (0.30%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 1 (0.30%) (Ranked 252)
 | 2023-12-28 | 265 | 1 |
 | 2023-12-29 | 293 | 1 |
 | 2023-12-30 | 320 | 1 |
-| 2023-12-31 | 329 | 1 |
+| 2023-12-31 | 330 | 1 |
 ## Awards
 Max (Great Boss Battles): 94  (Ranked 386)  
 Sum: 94 (Ranked 467)  

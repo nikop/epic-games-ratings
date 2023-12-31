@@ -7,13 +7,13 @@
 | Choking Hazard | 43.00% | ~114 |
 | Animal Lover | 33.00% | ~88 |
 | Don't Breathe | 30.00% | ~80 |
-| Smooth Operator | 16.00% | ~43 |
+| Smooth Operator | 17.00% | ~45 |
 | Easy Listening | 15.00% | ~40 |
 | Rapturous Applause! | 14.00% | ~37 |
 | Perfect Harmony! | 12.00% | ~32 |
 | Wales Interactive | 10.00% | ~27 |
 | Chief Butler | 9.00% | ~24 |
-| Bull in a China Shop | 7.00% | ~19 |
+| Bull in a China Shop | 8.00% | ~21 |
 | Sker Explorer | 5.00% | ~13 |
 | Phonic Boom | 2.00% | ~5 |
 | The Long Night | 2.00% | ~5 |

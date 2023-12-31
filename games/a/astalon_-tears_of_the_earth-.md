@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Horn prize! | 51.00% | ~41 |
+| Orb Gatherer | 37.00% | ~30 |
 | Beast Quest | 37.00% | ~30 |
-| Space worm! | 36.00% | ~29 |
-| Orb Gatherer | 35.00% | ~28 |
-| Monster Hunt | 33.00% | ~27 |
+| Space worm! | 37.00% | ~30 |
+| Monster Hunt | 35.00% | ~28 |
 | Beast Hunter | 31.00% | ~25 |
 | Fly, you fool! | 31.00% | ~25 |
 | Vanquisher! | 30.00% | ~24 |
