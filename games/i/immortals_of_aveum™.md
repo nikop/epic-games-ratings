@@ -5,28 +5,28 @@ Rating: 4.20 (Ranked 950)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~2,058 |
-| Battlefields Have Memories | 80.00% | ~1,892 |
-| Enlisted | 73.00% | ~1,726 |
-| Maybe Engage a Little | 67.00% | ~1,585 |
-| No More Names | 50.00% | ~1,182 |
-| Initiate | 36.00% | ~851 |
-| Thrada-Kul | 32.00% | ~757 |
-| Gravity-Challenged Rocks | 25.00% | ~591 |
-| Socialite | 23.00% | ~544 |
-| Soldier | 21.00% | ~497 |
-| All the Major Food Groups | 21.00% | ~497 |
-| Beggars Would Ride | 19.00% | ~449 |
-| Control is an Illusion | 18.00% | ~426 |
-| The Means to Save It | 15.00% | ~355 |
-| Resilience to Sin | 14.00% | ~331 |
-| A Familiar Nest | 13.00% | ~307 |
-| Geas Aristeya | 13.00% | ~307 |
-| Periapt Alizarin | 13.00% | ~307 |
+| Unforeseen | 87.00% | ~2,062 |
+| Battlefields Have Memories | 80.00% | ~1,896 |
+| Enlisted | 73.00% | ~1,730 |
+| Maybe Engage a Little | 68.00% | ~1,612 |
+| No More Names | 50.00% | ~1,185 |
+| Initiate | 36.00% | ~853 |
+| Thrada-Kul | 32.00% | ~758 |
+| Gravity-Challenged Rocks | 25.00% | ~592 |
+| Socialite | 23.00% | ~545 |
+| Soldier | 21.00% | ~498 |
+| All the Major Food Groups | 21.00% | ~498 |
+| Beggars Would Ride | 19.00% | ~450 |
+| Control is an Illusion | 18.00% | ~427 |
+| The Means to Save It | 15.00% | ~356 |
+| Resilience to Sin | 14.00% | ~332 |
+| A Familiar Nest | 13.00% | ~308 |
+| Periapt Alizarin | 13.00% | ~308 |
+| Geas Aristeya | 12.00% | ~284 |
 | A Perfect Cycle | 12.00% | ~284 |
-| Recruit | 11.00% | ~260 |
-| Armsman | 10.00% | ~236 |
-| Lights Army | 8.00% | ~189 |
+| Recruit | 11.00% | ~261 |
+| Armsman | 10.00% | ~237 |
+| Lights Army | 8.00% | ~190 |
 | Periapt Cerulean | 7.00% | ~166 |
 | Good Boy | 6.00% | ~142 |
 | Best Dressed | 5.00% | ~118 |
@@ -43,8 +43,8 @@ Rating: 4.20 (Ranked 950)
 | Tip of the Spear | 0.90% | ~21 |
 | Shroudfane Surveyor | 0.80% | ~19 |
 | Master of Ultramarine | 0.70% | ~17 |
+| Backtracker | 0.60% | ~14 |
 | Master of Malachite | 0.50% | ~12 |
-| Backtracker | 0.50% | ~12 |
 | Family Business | 0.30% | ~7 |
 | Diplomat | 0.30% | ~7 |
 | Petite Bourgeoisie | 0.30% | ~7 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 950)
 | Out of Time | 0.20% | ~5 |
 | Fowl Play | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,365 (Ranked 233)  
+Progressed: 2,370 (Ranked 233)  
 Completed: 2 (0.08%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 2 (0.08%) (Ranked 320)
 | 2023-12-28 | 2,136 | 2 |
 | 2023-12-29 | 2,236 | 2 |
 | 2023-12-30 | 2,327 | 2 |
-| 2023-12-31 | 2,365 | 2 |
+| 2023-12-31 | 2,370 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -24,9 +24,9 @@ Number of Ratings: 76  (23.09.2022)
 | Toxic Terror | 6.00% | ~34 |
 | Are you ready now? | 5.00% | ~28 |
 | Keep it Rolling | 5.00% | ~28 |
-| Robot encyclopedia | 4.00% | ~22 |
-| Hello, Bikini Bottom | 4.00% | ~22 |
-| Ultra Spatula Seeker | 4.00% | ~22 |
+| Robot encyclopedia | 4.00% | ~23 |
+| Hello, Bikini Bottom | 4.00% | ~23 |
+| Ultra Spatula Seeker | 4.00% | ~23 |
 | The Small Does Not Rule | 3.00% | ~17 |
 | Ship Shape | 3.00% | ~17 |
 | Shanghaied | 3.00% | ~17 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Opera | 1.00% | ~6 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 562 (Ranked 337)  
+Progressed: 563 (Ranked 337)  
 Completed: 5 (0.89%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,7 +57,7 @@ Completed: 5 (0.89%) (Ranked 181)
 | 2023-12-28 | 466 | 3 |
 | 2023-12-29 | 502 | 4 |
 | 2023-12-30 | 551 | 5 |
-| 2023-12-31 | 562 | 5 |
+| 2023-12-31 | 563 | 5 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 495)  
 Sum: 35 (Ranked 523)  

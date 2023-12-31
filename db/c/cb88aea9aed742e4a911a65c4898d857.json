@@ -227,9 +227,9 @@
       "Count": 73
     }
   ],
-  "EOS_Progressed": 9051,
+  "EOS_Progressed": 9056,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2038,
+  "EOS_NewPlayers": 2033,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3082,6 +3082,11 @@
       "Time": "2023-12-31T09:09:35.9093214+00:00",
       "NumProgressed": 9051,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T10:10:07.9808806+00:00",
+      "NumProgressed": 9056,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3180,9 +3185,9 @@
       "ID": "13_TheDoomTrader",
       "SetID": "37a94m8",
       "Name": "Doom Trader",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 54
     },
     {
       "ID": "14_TheBreezeOfPain",
@@ -3212,9 +3217,9 @@
       "ID": "17_TheExemplar",
       "SetID": "37a94m8",
       "Name": "Exemplar",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 91
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -3260,9 +3265,9 @@
       "ID": "23_DynastyRestored",
       "SetID": "37a94m8",
       "Name": "The Dynasty Restored",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 181
     },
     {
       "ID": "24_TheHighrise",
@@ -3372,9 +3377,9 @@
       "ID": "37_TheSirenicalDiplomat",
       "SetID": "37a94m8",
       "Name": "Silver-Tongued Diplomat",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 36
     },
     {
       "ID": "38_ThoseWhoAreAboutToDieSaluteYou",
@@ -3548,9 +3553,9 @@
       "ID": "59_ThePossessedShip",
       "SetID": "37a94m8",
       "Name": "The Possessed Ship",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 27
     },
     {
       "ID": "60_NotSoBottomlessPit",
@@ -3613,7 +3618,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9051,
+      "Progressed": 9056,
       "Completed": 0
     }
   ],
@@ -3621,8 +3626,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-30T16:58:43.1218846+00:00",
-  "LastChanged_Achievements": "2023-12-31T09:09:35.9093212+00:00",
+  "LastChanged_Achievements": "2023-12-31T10:10:07.98088+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-31T08:58:46.4066078+00:00",
-  "LastUpdate_Achievements": "2023-12-31T09:09:35.9093828+00:00"
+  "LastUpdate_Ratings": "2023-12-31T09:58:53.0031431+00:00",
+  "LastUpdate_Achievements": "2023-12-31T10:10:07.9809377+00:00"
 }

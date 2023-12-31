@@ -35,6 +35,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Developing Cities | 0.50% | ~80 |
 | Strong Cities | 0.50% | ~80 |
 | Ishtar Gate | 0.50% | ~80 |
+| Lighthouse | 0.50% | ~80 |
 | Pyramids | 0.50% | ~80 |
 | Learn to Play 1 | 0.50% | ~80 |
 | Naming Landmarks | 0.50% | ~80 |
@@ -46,7 +47,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Furious Family | 0.40% | ~64 |
 | Apadana | 0.40% | ~64 |
 | Great Ziggurat | 0.40% | ~64 |
-| Lighthouse | 0.40% | ~64 |
 | Christianity | 0.40% | ~64 |
 | Babylonian Paganism | 0.40% | ~64 |
 | Carthaginian Paganism | 0.40% | ~64 |
@@ -366,7 +366,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 16,044 (Ranked 165)  
-Completed: 5 (0.03%) (Ranked 350)  
+Completed: 5 (0.03%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

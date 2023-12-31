@@ -11,13 +11,13 @@ Number of Ratings: 398  (23.09.2022)
 | The Beginning of a Servantship | 44.00% | ~2,986 |
 | Trade Is My Trait | 36.00% | ~2,443 |
 | Number 18 | 23.00% | ~1,561 |
-| We Don't Have Time For That | 18.00% | ~1,221 |
+| We Don't Have Time For That | 18.00% | ~1,222 |
 | The Governator | 17.00% | ~1,154 |
 | The Legend of Langostino | 16.00% | ~1,086 |
 | Caribbean Comrade | 15.00% | ~1,018 |
 | The Dreamer of Dreams | 15.00% | ~1,018 |
-| Go Sovereigns! | 11.00% | ~746 |
-| For Science! | 11.00% | ~746 |
+| Go Sovereigns! | 11.00% | ~747 |
+| For Science! | 11.00% | ~747 |
 | Happy Ending? | 10.00% | ~679 |
 | Of Seals And Men | 9.00% | ~611 |
 | Shackadelic | 9.00% | ~611 |
@@ -47,8 +47,8 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~54 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,786 (Ranked 194)  
-Completed: 2 (0.03%) (Ranked 350)  
+Progressed: 6,787 (Ranked 194)  
+Completed: 2 (0.03%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -302,7 +302,7 @@ Completed: 2 (0.03%) (Ranked 350)
 | 2023-12-28 | 6,725 | 2 |
 | 2023-12-29 | 6,753 | 2 |
 | 2023-12-30 | 6,780 | 2 |
-| 2023-12-31 | 6,786 | 2 |
+| 2023-12-31 | 6,787 | 2 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 368)  
 Sum: 749 (Ranked 298)  

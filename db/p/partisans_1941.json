@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1917,
+  "EOS_Progressed": 1918,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -4704,6 +4704,11 @@
       "Time": "2023-12-31T07:10:14.2839608+00:00",
       "NumProgressed": 1917,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-31T10:09:54.4350217+00:00",
+      "NumProgressed": 1918,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4747,7 +4752,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "Commandos",
@@ -4763,7 +4768,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "Defense_Common",
@@ -4827,7 +4832,7 @@
       "Name": "Grenadier",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "Hard_Serpent",
@@ -4907,7 +4912,7 @@
       "Name": "Mosquito bite",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "Scout",
@@ -4931,7 +4936,7 @@
       "Name": "War Never Changes",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "We_were_not_here",
@@ -4954,15 +4959,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1917,
+      "Progressed": 1918,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-12-31T09:09:23.1461227+00:00",
+  "LastChanged_Achievements": "2023-12-31T10:09:54.4350212+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.7315333+00:00",
-  "LastUpdate_Ratings": "2023-12-31T09:02:37.7482999+00:00",
-  "LastUpdate_Achievements": "2023-12-31T09:09:23.1461825+00:00"
+  "LastUpdate_Ratings": "2023-12-31T10:03:07.8205052+00:00",
+  "LastUpdate_Achievements": "2023-12-31T10:09:54.435059+00:00"
 }

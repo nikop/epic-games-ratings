@@ -848,9 +848,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5954,
+  "EOS_Progressed": 5955,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -12193,6 +12193,11 @@
       "Time": "2023-12-31T08:05:00.9234057+00:00",
       "NumProgressed": 5954,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-31T10:05:20.1382241+00:00",
+      "NumProgressed": 5955,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12261,7 +12266,7 @@
       "Name": "First Strike",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -12317,7 +12322,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -12341,7 +12346,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1488
+      "UsersEstimate": 1489
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -12373,7 +12378,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 1488
+      "UsersEstimate": 1489
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -12388,15 +12393,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5954,
+      "Progressed": 5955,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2023-12-31T09:04:41.9354453+00:00",
+  "LastChanged_Achievements": "2023-12-31T10:05:20.1382237+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5580896+00:00",
-  "LastUpdate_Ratings": "2023-12-31T08:57:24.150276+00:00",
-  "LastUpdate_Achievements": "2023-12-31T09:04:41.9355473+00:00"
+  "LastUpdate_Ratings": "2023-12-31T09:57:26.2588393+00:00",
+  "LastUpdate_Achievements": "2023-12-31T10:05:20.1382851+00:00"
 }

@@ -5,9 +5,9 @@
   "Ranking_Rating": 542,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 521,
-  "Ranking_EOS_Progress": 400,
+  "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -282,9 +282,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 264,
+  "EOS_Progressed": 265,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1307,6 +1307,11 @@
       "Time": "2023-12-31T08:09:07.8648767+00:00",
       "NumProgressed": 264,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T10:09:24.0815918+00:00",
+      "NumProgressed": 265,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1319,7 +1324,7 @@
       "Name": "Mash Machine",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1429,9 +1434,9 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1455,7 +1460,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1485,9 +1490,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1567,7 +1572,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -1653,9 +1658,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1670,7 +1675,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 264,
+      "Progressed": 265,
       "Completed": 1
     }
   ],
@@ -1678,8 +1683,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-28T10:58:39.1665152+00:00",
-  "LastChanged_Achievements": "2023-12-31T09:08:53.4400448+00:00",
+  "LastChanged_Achievements": "2023-12-31T10:09:24.0815914+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2023-12-31T09:00:01.0467617+00:00",
-  "LastUpdate_Achievements": "2023-12-31T09:08:53.4400965+00:00"
+  "LastUpdate_Ratings": "2023-12-31T10:00:11.0735892+00:00",
+  "LastUpdate_Achievements": "2023-12-31T10:09:24.0816252+00:00"
 }

@@ -28,7 +28,7 @@ Rating: 4.65 (Ranked 324)
 | Series Wrap on Suit-O | 2.00% | ~499 |
 | Bathe With A Giant Nude Alien | 2.00% | ~45 |
 | Gunning For Your Job | 1.00% | ~250 |
-| We Came, We Chainsaw, We Conquered | 1.00% | ~22 |
+| We Came, We Chainsaw, We Conquered | 1.00% | ~23 |
 | We Paid For The Rights To Put A Whole Movie In Here | 0.90% | ~225 |
 | Mux Ado About Shipping | 0.90% | ~20 |
 | Fall In Love With A Parasite | 0.60% | ~14 |
@@ -40,8 +40,8 @@ Rating: 4.65 (Ranked 324)
 | Epic Legendary Prize | 0.20% | ~50 |
 | Mods Please Ban | 0.20% | ~50 |
 | Luglox Genocide | 0.20% | ~50 |
-| Give Away All Your Money | 0.20% | ~4 |
-| It's Like The Santa Clause | 0.20% | ~4 |
+| Give Away All Your Money | 0.20% | ~5 |
+| It's Like The Santa Clause | 0.20% | ~5 |
 | Playing Card To Get | 0.10% | ~25 |
 | Seeing All The Sights | 0.10% | ~25 |
 | That's B.A.L.L., Folks | 0.10% | ~2 |
@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 324)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,957 (Ranked 145)  
+Progressed: 24,959 (Ranked 145)  
 Completed: 14 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 14 (0.06%) (Ranked 327)
 | 2023-12-28 | 24,929 | 14 |
 | 2023-12-29 | 24,937 | 14 |
 | 2023-12-30 | 24,947 | 14 |
-| 2023-12-31 | 24,957 | 14 |
+| 2023-12-31 | 24,959 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

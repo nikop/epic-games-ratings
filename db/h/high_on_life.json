@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24957,
+  "EOS_Progressed": 24959,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8466,6 +8466,11 @@
       "Time": "2023-12-31T07:08:53.2963618+00:00",
       "NumProgressed": 24957,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-12-31T10:08:55.8432063+00:00",
+      "NumProgressed": 24959,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -8781,7 +8786,7 @@
       "Name": "We Came, We Chainsaw, We Conquered",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_MAKE_A_WISH",
@@ -8789,7 +8794,7 @@
       "Name": "Give Away All Your Money",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_PARASITE_PASSENGER_LOVE",
@@ -8813,7 +8818,7 @@
       "Name": "It\u0027s Like The Santa Clause",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_TOXXO_BATH",
@@ -8828,13 +8833,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24957,
+      "Progressed": 24959,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2250,
+      "Progressed": 2252,
       "Completed": 1376
     }
   ],
@@ -8842,8 +8847,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2023-12-31T09:08:25.8869987+00:00",
+  "LastChanged_Achievements": "2023-12-31T10:08:55.8432058+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:22.3334267+00:00",
-  "LastUpdate_Ratings": "2023-12-31T09:02:35.0097958+00:00",
-  "LastUpdate_Achievements": "2023-12-31T09:08:25.8871044+00:00"
+  "LastUpdate_Ratings": "2023-12-31T10:03:04.9707765+00:00",
+  "LastUpdate_Achievements": "2023-12-31T10:08:55.8432822+00:00"
 }

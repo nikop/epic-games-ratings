@@ -6,24 +6,24 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Shall Not Pass | 51.00% | ~4,945 |
-| Tutti Eroi! | 50.00% | ~4,848 |
-| Peak Performance | 45.00% | ~4,363 |
-| Avanti Savoia! | 44.00% | ~4,266 |
+| You Shall Not Pass | 51.00% | ~4,946 |
+| Tutti Eroi! | 50.00% | ~4,849 |
+| Peak Performance | 45.00% | ~4,364 |
+| Avanti Savoia! | 44.00% | ~4,267 |
 | Mamma Mia! | 35.00% | ~3,394 |
 | Conrad von Hotzensocks | 32.00% | ~3,103 |
 | Gabriele D'Annunzio | 32.00% | ~3,103 |
 | Silver Lining | 27.00% | ~2,618 |
-| Aurelio Baruzzi | 21.00% | ~2,036 |
-| Decimation | 20.00% | ~1,939 |
-| Donatello | 19.00% | ~1,842 |
-| Insubordination | 19.00% | ~1,842 |
-| The Italian Job | 19.00% | ~1,842 |
-| Veni Vidi Vici | 19.00% | ~1,842 |
-| Ragazzi del '99 | 17.00% | ~1,648 |
-| Luigi Cadorna | 16.00% | ~1,551 |
-| The Lion of the Isonzo | 14.00% | ~1,357 |
-| Uomo Universale | 13.00% | ~1,260 |
+| Aurelio Baruzzi | 21.00% | ~2,037 |
+| Decimation | 20.00% | ~1,940 |
+| Donatello | 19.00% | ~1,843 |
+| Insubordination | 19.00% | ~1,843 |
+| The Italian Job | 19.00% | ~1,843 |
+| Veni Vidi Vici | 19.00% | ~1,843 |
+| Ragazzi del '99 | 17.00% | ~1,649 |
+| Luigi Cadorna | 16.00% | ~1,552 |
+| The Lion of the Isonzo | 14.00% | ~1,358 |
+| Uomo Universale | 13.00% | ~1,261 |
 | Die Bosniaken Kommen! | 12.00% | ~1,164 |
 | Dirty Dozen | 12.00% | ~1,164 |
 | Shaken, Not Stirred | 12.00% | ~1,164 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~39 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,696 (Ranked 181)  
+Progressed: 9,698 (Ranked 181)  
 Completed: 10 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 10 (0.10%) (Ranked 305)
 | 2023-12-28 | 9,657 | 10 |
 | 2023-12-29 | 9,668 | 10 |
 | 2023-12-30 | 9,691 | 10 |
-| 2023-12-31 | 9,696 | 10 |
+| 2023-12-31 | 9,698 | 10 |
 ## Awards
 Max (Diverse Characters): 41  (Ranked 473)  
 Sum: 335 (Ranked 368)  

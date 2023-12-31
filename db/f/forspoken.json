@@ -5,7 +5,7 @@
   "Ranking_Rating": 994,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 523,
-  "Ranking_EOS_Progress": 122,
+  "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 105,
@@ -559,9 +559,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 45837,
+  "EOS_Progressed": 45840,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 829,
+  "EOS_NewPlayers": 828,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17094,6 +17094,11 @@
       "Time": "2023-12-31T09:03:57.2192771+00:00",
       "NumProgressed": 45837,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-31T10:04:33.1725004+00:00",
+      "NumProgressed": 45840,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -17137,7 +17142,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1834
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -17153,7 +17158,7 @@
       "Name": "Attachments",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5500
+      "UsersEstimate": 5501
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -17169,7 +17174,7 @@
       "Name": "The Interloper",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1834
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -17528,22 +17533,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 45837,
+      "Progressed": 45840,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 10674,
-      "Completed": 10674
+      "Progressed": 10677,
+      "Completed": 10677
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-31T08:02:45.8562464+00:00",
-  "LastChanged_Achievements": "2023-12-31T09:03:57.2192769+00:00",
+  "LastChanged_Achievements": "2023-12-31T10:04:33.1725+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:48.1998363+00:00",
-  "LastUpdate_Ratings": "2023-12-31T09:02:29.8506232+00:00",
-  "LastUpdate_Achievements": "2023-12-31T09:03:57.219458+00:00"
+  "LastUpdate_Ratings": "2023-12-31T10:02:59.6004827+00:00",
+  "LastUpdate_Achievements": "2023-12-31T10:04:33.1725884+00:00"
 }

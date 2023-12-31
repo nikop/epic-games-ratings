@@ -3689,9 +3689,9 @@
       "Count": 337
     }
   ],
-  "EOS_Progressed": 19774,
+  "EOS_Progressed": 19775,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 693,
+  "EOS_NewPlayers": 690,
   "EOS_NewCompleters": -4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -17839,6 +17839,11 @@
       "Time": "2023-12-31T09:03:18.960202+00:00",
       "NumProgressed": 19774,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-12-31T10:03:53.0380731+00:00",
+      "NumProgressed": 19775,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -17963,7 +17968,7 @@
       "Name": "Ruined Armory",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "WinNearBandit",
@@ -17971,7 +17976,7 @@
       "Name": "Bandit Camp",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "WinNearBarren",
@@ -17979,7 +17984,7 @@
       "Name": "Barren Lands",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "WinNearBattleground",
@@ -17987,7 +17992,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "WinNearCrystals",
@@ -17995,7 +18000,7 @@
       "Name": "Sparkdew Crystals",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "WinNearDangerous",
@@ -18035,7 +18040,7 @@
       "Name": "Haunted Forest",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "WinNearLevitating",
@@ -18043,7 +18048,7 @@
       "Name": "Levitating Monument",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "WinNearMines",
@@ -18051,7 +18056,7 @@
       "Name": "Flooded Mines",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "WinNearMonastery",
@@ -18075,7 +18080,7 @@
       "Name": "Lost Colonies",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "WinNearStatue",
@@ -18083,7 +18088,7 @@
       "Name": "Statue of the Forefathers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "WinNearTemple",
@@ -18099,7 +18104,7 @@
       "Name": "Corrosive Torrent",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "WinNearWatchtower",
@@ -18123,7 +18128,7 @@
       "Name": "Cursed Lands",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "WinOnMarshlands",
@@ -18219,7 +18224,7 @@
       "Name": "Trade Baron",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "WinWithoutDeath",
@@ -18322,15 +18327,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19774,
+      "Progressed": 19775,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-12-30T22:02:49.2349557+00:00",
-  "LastChanged_Achievements": "2023-12-31T09:03:18.9602018+00:00",
+  "LastChanged_Achievements": "2023-12-31T10:03:53.0380728+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2023-12-31T08:57:05.8586273+00:00",
-  "LastUpdate_Achievements": "2023-12-31T09:03:18.9603505+00:00"
+  "LastUpdate_Ratings": "2023-12-31T09:57:07.4774893+00:00",
+  "LastUpdate_Achievements": "2023-12-31T10:03:53.0381641+00:00"
 }

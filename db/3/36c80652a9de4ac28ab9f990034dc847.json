@@ -279,9 +279,9 @@
       "ID": "Boss_Cube",
       "SetID": "cla1dpp",
       "Name": "I hate geometry so much!",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Boss_King",
@@ -295,9 +295,9 @@
       "ID": "Boss_Pyramid",
       "SetID": "cla1dpp",
       "Name": "We\u0027ll build a new one!",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Boss_Sphere",
@@ -311,9 +311,9 @@
       "ID": "Boss_Tower",
       "SetID": "cla1dpp",
       "Name": "My tower is bigger than yours.",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Boss_Tree",
@@ -391,9 +391,9 @@
       "ID": "Up_Barraks",
       "SetID": "cla1dpp",
       "Name": "Where did so many skeletons come from in this grave?",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Up_Farm",
@@ -422,8 +422,8 @@
   ],
   "FirstSeen": "2023-10-24T18:58:49.6745587+00:00",
   "FirstSeenAchievements": "2023-08-23T14:02:21.3308024+00:00",
-  "LastChanged_Achievements": "2023-12-31T09:09:20.1317519+00:00",
+  "LastChanged_Achievements": "2023-12-31T10:09:51.3031414+00:00",
   "LastUpdate_AppInfo": "2023-12-28T02:56:54.5483043+00:00",
-  "LastUpdate_Ratings": "2023-12-31T08:58:19.1345497+00:00",
-  "LastUpdate_Achievements": "2023-12-31T09:09:20.1317809+00:00"
+  "LastUpdate_Ratings": "2023-12-31T09:58:25.7809305+00:00",
+  "LastUpdate_Achievements": "2023-12-31T10:09:51.3031612+00:00"
 }

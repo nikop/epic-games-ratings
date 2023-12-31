@@ -2,12 +2,12 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 443,
+  "Ranking_Rating": 444,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19210,
+  "EOS_Progressed": 19211,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14255,6 +14255,11 @@
       "Time": "2023-12-31T01:53:56.2912237+00:00",
       "NumProgressed": 19210,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-31T10:04:16.7772437+00:00",
+      "NumProgressed": 19211,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14274,7 +14279,7 @@
       "Name": "License to Thrill",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "0003",
@@ -14330,7 +14335,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4418
+      "UsersEstimate": 4419
     },
     {
       "ID": "0010",
@@ -14482,7 +14487,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4418
+      "UsersEstimate": 4419
     },
     {
       "ID": "0029",
@@ -14553,7 +14558,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19210,
+      "Progressed": 19211,
       "Completed": 4
     }
   ],
@@ -14561,8 +14566,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2023-12-31T09:03:41.6876987+00:00",
+  "LastChanged_Achievements": "2023-12-31T10:04:16.7772433+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:48.2583913+00:00",
-  "LastUpdate_Ratings": "2023-12-31T08:59:20.7146621+00:00",
-  "LastUpdate_Achievements": "2023-12-31T09:03:41.687795+00:00"
+  "LastUpdate_Ratings": "2023-12-31T09:59:29.1333872+00:00",
+  "LastUpdate_Achievements": "2023-12-31T10:04:16.7773356+00:00"
 }

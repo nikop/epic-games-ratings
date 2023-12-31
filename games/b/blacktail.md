@@ -5,15 +5,15 @@ Rating: 4.68 (Ranked 260)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tooth fairy | 23.00% | ~195 |
-| Dental maturity | 19.00% | ~161 |
+| Tooth fairy | 23.00% | ~196 |
+| Dental maturity | 19.00% | ~162 |
 | Devil's in the details | 14.00% | ~119 |
 | Uprooting | 13.00% | ~110 |
 | Forbidden techniques | 12.00% | ~102 |
 | Devoted | 9.00% | ~76 |
 | Slavic squatter | 8.00% | ~68 |
-| Spirit animal | 7.00% | ~59 |
-| Gold rush | 6.00% | ~51 |
+| Gold rush | 7.00% | ~60 |
+| Spirit animal | 7.00% | ~60 |
 | Liar Liar | 6.00% | ~51 |
 | Fishing fanatic | 5.00% | ~42 |
 | The word around is... | 5.00% | ~42 |
@@ -24,11 +24,11 @@ Rating: 4.68 (Ranked 260)
 | Sneak peek | 4.00% | ~34 |
 | Favorite | 4.00% | ~34 |
 | Queen | 4.00% | ~34 |
-| Goal! | 3.00% | ~25 |
-| Both sides | 3.00% | ~25 |
-| Specialist | 3.00% | ~25 |
-| Toxic | 3.00% | ~25 |
-| Witch's cookbook | 3.00% | ~25 |
+| Goal! | 3.00% | ~26 |
+| Both sides | 3.00% | ~26 |
+| Specialist | 3.00% | ~26 |
+| Toxic | 3.00% | ~26 |
+| Witch's cookbook | 3.00% | ~26 |
 | Bad apple | 2.00% | ~17 |
 | Gnowlledgeable | 2.00% | ~17 |
 | Always worth a try | 2.00% | ~17 |
@@ -38,7 +38,7 @@ Rating: 4.68 (Ranked 260)
 | Mushrooming enthusiast | 0.60% | ~5 |
 | Apex predator | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 849 (Ranked 298)  
+Progressed: 850 (Ranked 298)  
 Completed: 1 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 1 (0.12%) (Ranked 301)
 | 2023-12-28 | 838 | 1 |
 | 2023-12-29 | 841 | 1 |
 | 2023-12-30 | 845 | 1 |
-| 2023-12-31 | 849 | 1 |
+| 2023-12-31 | 850 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

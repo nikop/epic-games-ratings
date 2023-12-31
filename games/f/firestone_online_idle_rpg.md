@@ -5,22 +5,22 @@ Rating: 4.03 (Ranked 1,027)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,711 |
-| World Map | 78.00% | ~3,112 |
-| Temple of Eternals | 56.00% | ~2,234 |
-| Prestigious | 52.00% | ~2,075 |
-| Fellowship Power | 42.00% | ~1,676 |
-| Full Party | 27.00% | ~1,077 |
+| Victor | 93.00% | ~3,713 |
+| World Map | 78.00% | ~3,114 |
+| Temple of Eternals | 56.00% | ~2,236 |
+| Prestigious | 52.00% | ~2,076 |
+| Fellowship Power | 42.00% | ~1,677 |
+| Full Party | 27.00% | ~1,078 |
 | Guild Power | 23.00% | ~918 |
 | Prestigious x10 | 20.00% | ~798 |
-| The game is on | 18.00% | ~718 |
-| Exotic Merchant | 16.00% | ~638 |
-| Dragon Clicker | 15.00% | ~598 |
-| Miner Clicker | 15.00% | ~598 |
+| The game is on | 18.00% | ~719 |
+| Exotic Merchant | 16.00% | ~639 |
+| Dragon Clicker | 15.00% | ~599 |
+| Miner Clicker | 15.00% | ~599 |
 | Enlightenment | 14.00% | ~559 |
+| Hero inspection | 14.00% | ~559 |
 | Inspection | 14.00% | ~559 |
 | Dragon Master | 13.00% | ~519 |
-| Hero inspection | 13.00% | ~519 |
 | Lieutenant | 12.00% | ~479 |
 | Milestone collector | 11.00% | ~439 |
 | Mysterious Rock | 11.00% | ~439 |
@@ -43,9 +43,9 @@ Rating: 4.03 (Ranked 1,027)
 | Master Enchanter | 7.00% | ~279 |
 | The father of Dragons | 7.00% | ~279 |
 | Trader | 7.00% | ~279 |
-| Dragon Slayer | 6.00% | ~239 |
-| The Expeditioner | 6.00% | ~239 |
-| Weekly Quest Completionist | 6.00% | ~239 |
+| Dragon Slayer | 6.00% | ~240 |
+| The Expeditioner | 6.00% | ~240 |
+| Weekly Quest Completionist | 6.00% | ~240 |
 | Blueprint Upgrades | 5.00% | ~200 |
 | Crystal Mining | 5.00% | ~200 |
 | Enchanting skill | 5.00% | ~200 |
@@ -81,7 +81,7 @@ Rating: 4.03 (Ranked 1,027)
 | Jewel Enchanting | 0.20% | ~8 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,990 (Ranked 209)  
+Progressed: 3,992 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 2 (0.05%) (Ranked 334)
 | 2023-12-28 | 3,911 | 2 |
 | 2023-12-29 | 3,948 | 2 |
 | 2023-12-30 | 3,984 | 2 |
-| 2023-12-31 | 3,990 | 2 |
+| 2023-12-31 | 3,992 | 2 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 478)  
 Sum: 129 (Ranked 445)  

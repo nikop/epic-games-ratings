@@ -458,7 +458,7 @@
   ],
   "EOS_Progressed": 326,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1339,9 +1339,9 @@
       "ID": "Collect_Artifact_EpicShard",
       "SetID": "7a5k76n",
       "Name": "One Of the Chosen",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 137
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
@@ -1355,9 +1355,9 @@
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
       "SetID": "7a5k76n",
       "Name": "Maximum Capacity",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 65
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_1",
@@ -1715,9 +1715,9 @@
       "ID": "Save_Humans_15",
       "SetID": "7a5k76n",
       "Name": "Community Outreach",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 42
     },
     {
       "ID": "Save_Humans_20",
@@ -1811,8 +1811,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-29T15:59:12.0320887+00:00",
-  "LastChanged_Achievements": "2023-12-31T09:04:20.1845804+00:00",
+  "LastChanged_Achievements": "2023-12-31T10:04:57.99249+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2023-12-31T08:59:58.481279+00:00",
-  "LastUpdate_Achievements": "2023-12-31T09:04:20.1846678+00:00"
+  "LastUpdate_Ratings": "2023-12-31T10:00:08.7056332+00:00",
+  "LastUpdate_Achievements": "2023-12-31T10:04:57.9925337+00:00"
 }

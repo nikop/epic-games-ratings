@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17869,
+  "EOS_Progressed": 17871,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 606,
+  "EOS_NewPlayers": 603,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15779,6 +15779,11 @@
       "Time": "2023-12-31T09:05:41.9712337+00:00",
       "NumProgressed": 17869,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-31T10:06:22.0007735+00:00",
+      "NumProgressed": 17871,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15831,7 +15836,7 @@
       "Name": "Doctor Approved",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "15",
@@ -15863,7 +15868,7 @@
       "Name": "Bottoms up!",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "19",
@@ -15967,7 +15972,7 @@
       "Name": "Captain Drummer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2144
+      "UsersEstimate": 2145
     },
     {
       "ID": "30",
@@ -15999,7 +16004,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2144
+      "UsersEstimate": 2145
     },
     {
       "ID": "7",
@@ -16070,13 +16075,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17869,
+      "Progressed": 17871,
       "Completed": 57
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3823,
+      "Progressed": 3825,
       "Completed": 1128
     }
   ],
@@ -16084,8 +16089,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T01:47:56.7328013+00:00",
-  "LastChanged_Achievements": "2023-12-31T09:05:41.9712335+00:00",
+  "LastChanged_Achievements": "2023-12-31T10:06:22.0007732+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2023-12-31T08:57:58.8994404+00:00",
-  "LastUpdate_Achievements": "2023-12-31T09:05:41.9713779+00:00"
+  "LastUpdate_Ratings": "2023-12-31T09:58:03.6746362+00:00",
+  "LastUpdate_Achievements": "2023-12-31T10:06:22.0008633+00:00"
 }

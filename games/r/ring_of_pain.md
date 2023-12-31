@@ -35,15 +35,15 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shootout | 0.70% | ~1,695 |
 | Toxic | 0.70% | ~1,695 |
 | Sneaky | 0.70% | ~1,695 |
-| Consecutive Curses | 0.60% | ~1,452 |
-| Dig Your Own Grave | 0.60% | ~1,452 |
-| Who To Trust? | 0.60% | ~1,452 |
-| Walk It Off | 0.60% | ~1,452 |
-| Destroy Your Fears | 0.60% | ~1,452 |
-| Stone Touch | 0.60% | ~1,452 |
-| Shadow Walker | 0.60% | ~1,452 |
-| Flesh Wound | 0.60% | ~1,452 |
-| Shapeshifting | 0.60% | ~1,452 |
+| Consecutive Curses | 0.60% | ~1,453 |
+| Dig Your Own Grave | 0.60% | ~1,453 |
+| Who To Trust? | 0.60% | ~1,453 |
+| Walk It Off | 0.60% | ~1,453 |
+| Destroy Your Fears | 0.60% | ~1,453 |
+| Stone Touch | 0.60% | ~1,453 |
+| Shadow Walker | 0.60% | ~1,453 |
+| Flesh Wound | 0.60% | ~1,453 |
+| Shapeshifting | 0.60% | ~1,453 |
 | Expensive Look | 0.60% | ~21 |
 | What Doesn't Kill You | 0.60% | ~21 |
 | To The Death! | 0.50% | ~1,210 |
@@ -67,6 +67,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Antivenom | 0.40% | ~968 |
 | The Long Run | 0.40% | ~968 |
 | Who Needs Luck? | 0.40% | ~14 |
+| Achievement Hunter | 0.30% | ~726 |
 | Challenge Increases | 0.30% | ~726 |
 | New Game+ | 0.30% | ~726 |
 | Barbecue | 0.30% | ~726 |
@@ -79,7 +80,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Sentimental Value | 0.30% | ~726 |
 | Precious | 0.30% | ~726 |
 | Raw Power | 0.30% | ~11 |
-| Achievement Hunter | 0.20% | ~484 |
 | A Long Climb | 0.20% | ~484 |
 | Dead Revels | 0.20% | ~484 |
 | Friend of Vermin | 0.20% | ~484 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,079 (Ranked 71)  
+Progressed: 242,085 (Ranked 71)  
 Completed: 302 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -400,10 +400,10 @@ Completed: 302 (0.12%) (Ranked 301)
 | 2023-12-28 | 241,919 | 302 |
 | 2023-12-29 | 241,985 | 302 |
 | 2023-12-30 | 242,061 | 302 |
-| 2023-12-31 | 242,079 | 302 |
+| 2023-12-31 | 242,085 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 134)  
-Sum: 11,771 (Ranked 88)  
+Sum: 11,773 (Ranked 88)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
@@ -411,7 +411,7 @@ Diff (max vs sum): 46
 | This game has Quickly Understood Controls | 1,513 |
 | This game has Challenging Combat | 1,446 |
 | This game is Relaxing | 1,446 |
-| This game is Extremely Fun | 1,422 |
+| This game is Extremely Fun | 1,424 |
 | This game is Highly Recommended | 1,395 |
 | This game has Amazing Storytelling | 1,332 |
 | This game has Amazing Characters | 1,235 |
@@ -667,4 +667,4 @@ Diff (max vs sum): 46
 | 2023-12-28 | 4.58 | - | 1,512 | 11,768 |
 | 2023-12-29 | 4.58 | - | 1,513 | 11,769 |
 | 2023-12-30 | 4.58 | - | 1,513 | 11,770 |
-| 2023-12-31 | 4.58 | - | 1,513 | 11,771 |
+| 2023-12-31 | 4.58 | - | 1,513 | 11,773 |

@@ -16,7 +16,7 @@ Number of Ratings: 116  (23.09.2022)
 | Perfect Storm | 46.00% | ~150 |
 | All That Glitters | 46.00% | ~150 |
 | Enhance! | 43.00% | ~140 |
-| One Of the Chosen | 41.00% | ~134 |
+| One Of the Chosen | 42.00% | ~137 |
 | Throne Potato | 40.00% | ~130 |
 | Devil's in the Details | 38.00% | ~124 |
 | Five's a Crowd | 38.00% | ~124 |
@@ -36,14 +36,14 @@ Number of Ratings: 116  (23.09.2022)
 | Can you restore the Balance? | 23.00% | ~75 |
 | Cleanup Crew | 22.00% | ~72 |
 | Crowd Source | 21.00% | ~68 |
+| Maximum Capacity | 20.00% | ~65 |
 | Demon Meddler | 20.00% | ~65 |
-| Maximum Capacity | 19.00% | ~62 |
 | Seeing Red | 19.00% | ~62 |
 | Egomaniac | 17.00% | ~55 |
 | Protector of Humanity | 15.00% | ~49 |
 | Everybody Wants to Rule the World | 15.00% | ~49 |
+| Community Outreach | 13.00% | ~42 |
 | A Parting Gift | 12.00% | ~39 |
-| Community Outreach | 12.00% | ~39 |
 | Unbreakable Will | 11.00% | ~36 |
 | Path of the Horseman | 11.00% | ~36 |
 | Take it to the Limit | 10.00% | ~33 |

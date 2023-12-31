@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3945,
+  "EOS_Progressed": 3946,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -5272,6 +5272,11 @@
       "Time": "2023-12-31T03:08:13.3531899+00:00",
       "NumProgressed": 3945,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-12-31T10:08:36.3986307+00:00",
+      "NumProgressed": 3946,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5331,7 +5336,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3432
+      "UsersEstimate": 3433
     },
     {
       "ID": "campaign10",
@@ -5371,7 +5376,7 @@
       "Name": "Well Supplied",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "campaign15",
@@ -5419,7 +5424,7 @@
       "Name": "Flanked!",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 2959
+      "UsersEstimate": 2960
     },
     {
       "ID": "campaign20",
@@ -5483,7 +5488,7 @@
       "Name": "Boulder Clash",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "scenario1",
@@ -5546,7 +5551,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3945,
+      "Progressed": 3946,
       "Completed": 11
     }
   ],
@@ -5554,8 +5559,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-12-31T09:07:36.7425909+00:00",
+  "LastChanged_Achievements": "2023-12-31T10:08:36.3986304+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.1228513+00:00",
-  "LastUpdate_Ratings": "2023-12-31T08:59:31.3164283+00:00",
-  "LastUpdate_Achievements": "2023-12-31T09:07:36.7426456+00:00"
+  "LastUpdate_Ratings": "2023-12-31T09:59:39.9755994+00:00",
+  "LastUpdate_Achievements": "2023-12-31T10:08:36.3986777+00:00"
 }

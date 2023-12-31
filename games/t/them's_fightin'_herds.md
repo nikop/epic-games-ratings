@@ -1,11 +1,11 @@
 # Them's Fightin' Herds
 [Store](https://store.epicgames.com/en-US/p/thems-fightin-herds)  
 [View Rawdata](../../db/t/them's_fightin'_herds.json)  
-Rating: 4.59 (Ranked 443)  
+Rating: 4.59 (Ranked 444)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once upon a time... | 36.00% | ~84,462 |
+| Once upon a time... | 36.00% | ~84,463 |
 | ... in the magical land of Foenum... | 34.00% | ~79,770 |
 | Be Gentle... | 22.00% | ~51,616 |
 | A Worthy Opponent | 17.00% | ~39,885 |
@@ -34,7 +34,7 @@ Rating: 4.59 (Ranked 443)
 | Alpaca Space Program | 0.10% | ~235 |
 | High Priestess | 0.10% | ~235 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,618 (Ranked 74)  
+Progressed: 234,619 (Ranked 74)  
 Completed: 6 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 6 (0.00%) (Ranked 391)
 | 2023-12-28 | 234,439 | 6 |
 | 2023-12-29 | 234,504 | 6 |
 | 2023-12-30 | 234,590 | 6 |
-| 2023-12-31 | 234,618 | 6 |
+| 2023-12-31 | 234,619 | 6 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 525)  
 Sum: 48 (Ranked 504)  

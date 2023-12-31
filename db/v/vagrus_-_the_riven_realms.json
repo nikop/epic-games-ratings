@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 261,
+  "EOS_Progressed": 263,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
@@ -1051,6 +1051,11 @@
       "Time": "2023-12-31T07:08:11.5801317+00:00",
       "NumProgressed": 261,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T10:08:26.4914229+00:00",
+      "NumProgressed": 263,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -1062,7 +1067,7 @@
       "Name": "Randomized",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Vanilla_Abolitionists",
@@ -1118,7 +1123,7 @@
       "Name": "Conciliator",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Vanilla_AutoSavesOnly",
@@ -1188,9 +1193,9 @@
       "ID": "Vanilla_CodexTier2",
       "SetID": "27kik8p",
       "Name": "Scholar",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "Vanilla_CodexTier3",
@@ -1260,9 +1265,9 @@
       "ID": "Vanilla_CompanionsTier1",
       "SetID": "27kik8p",
       "Name": "The More the Merrier",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "Vanilla_CompleteAllSideQuests",
@@ -1316,9 +1321,9 @@
       "ID": "Vanilla_DistantFreshNews",
       "SetID": "27kik8p",
       "Name": "Harbinger",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "Vanilla_DistantLocationTimed",
@@ -1446,7 +1451,7 @@
       "Name": "Been There",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Vanilla_Garrik",
@@ -1662,7 +1667,7 @@
       "Name": "Spiritual Journey",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Vanilla_Scythichnis",
@@ -1678,7 +1683,7 @@
       "Name": "A Second Chance",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1742,7 +1747,7 @@
       "Name": "The Package",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Vanilla_ThePilgrimageEnds",
@@ -1853,7 +1858,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 261,
+      "Progressed": 263,
       "Completed": 0
     }
   ],
@@ -1861,8 +1866,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-12-31T09:07:27.2309344+00:00",
+  "LastChanged_Achievements": "2023-12-31T10:08:26.4914224+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.3005977+00:00",
-  "LastUpdate_Ratings": "2023-12-31T08:57:13.6194075+00:00",
-  "LastUpdate_Achievements": "2023-12-31T09:07:27.2310432+00:00"
+  "LastUpdate_Ratings": "2023-12-31T09:57:15.7364138+00:00",
+  "LastUpdate_Achievements": "2023-12-31T10:08:26.4915215+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "lemon-cake-c683d8",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 429,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-09-29T23:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 185,
+  "EOS_Progressed": 186,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -395,6 +395,11 @@
       "Time": "2023-12-29T18:09:18.935144+00:00",
       "NumProgressed": 185,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-31T10:09:09.6337436+00:00",
+      "NumProgressed": 186,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 17,
@@ -406,15 +411,15 @@
       "Name": "Proving Your Skills",
       "Percentage": 92,
       "XP": 25,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "LC-02",
       "SetID": "ap2ljl4",
       "Name": "Bakery Startup",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 80
+      "UsersEstimate": 78
     },
     {
       "ID": "LC-03",
@@ -454,7 +459,7 @@
       "Name": "Expert Baker",
       "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "LC-08",
@@ -470,7 +475,7 @@
       "Name": "Verdant Greenhouse",
       "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "LC-10",
@@ -486,7 +491,7 @@
       "Name": "Bustling Store",
       "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "LC-12",
@@ -510,7 +515,7 @@
       "Name": "Gotta Go Fast",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "LC-15",
@@ -534,14 +539,14 @@
       "Name": "Perfect Server",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     }
   ],
   "AchievementSets": [
     {
       "ID": "ap2ljl4",
       "IsBase": true,
-      "Progressed": 185,
+      "Progressed": 186,
       "Completed": 2
     }
   ],
@@ -549,8 +554,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2023-12-31T09:08:39.2135697+00:00",
+  "LastChanged_Achievements": "2023-12-31T10:09:09.6337431+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:37.941871+00:00",
-  "LastUpdate_Ratings": "2023-12-31T08:57:07.9005344+00:00",
-  "LastUpdate_Achievements": "2023-12-31T09:08:39.2135871+00:00"
+  "LastUpdate_Ratings": "2023-12-31T09:57:09.5757068+00:00",
+  "LastUpdate_Achievements": "2023-12-31T10:09:09.6337592+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -31,7 +31,7 @@
   "Tags": [],
   "EOS_Progressed": 1869,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 3.75,
   "EosHistory": [
@@ -4237,9 +4237,9 @@
       "ID": "ACH_JOURNALBEAUTIFIER",
       "SetID": "7pam6gn",
       "Name": "Journal Beautifier",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 1477
+      "UsersEstimate": 1495
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -4310,8 +4310,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-12-31T09:09:36.5885774+00:00",
+  "LastChanged_Achievements": "2023-12-31T10:10:08.5991374+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.182252+00:00",
-  "LastUpdate_Ratings": "2023-12-31T08:59:00.084547+00:00",
-  "LastUpdate_Achievements": "2023-12-31T09:09:36.5886231+00:00"
+  "LastUpdate_Ratings": "2023-12-31T09:59:06.9875796+00:00",
+  "LastUpdate_Achievements": "2023-12-31T10:10:08.5991674+00:00"
 }

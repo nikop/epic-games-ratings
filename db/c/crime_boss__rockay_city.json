@@ -2,7 +2,7 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 1048,
+  "Ranking_Rating": 1046,
   "Ranking_Popularity": 208,
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 99,
@@ -5331,9 +5331,9 @@
       "Count": 531
     }
   ],
-  "EOS_Progressed": 92787,
+  "EOS_Progressed": 92788,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 352,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -29826,6 +29826,11 @@
       "Time": "2023-12-31T09:03:09.2775152+00:00",
       "NumProgressed": 92787,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-12-31T10:03:43.2687316+00:00",
+      "NumProgressed": 92788,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -29981,7 +29986,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3711
+      "UsersEstimate": 3712
     },
     {
       "ID": "ACH_0210",
@@ -29989,7 +29994,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3711
+      "UsersEstimate": 3712
     },
     {
       "ID": "ACH_0211",
@@ -30164,13 +30169,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92787,
+      "Progressed": 92788,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21134,
+      "Progressed": 21135,
       "Completed": 15593
     }
   ],
@@ -30178,8 +30183,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-30T15:59:09.7129225+00:00",
-  "LastChanged_Achievements": "2023-12-31T09:03:09.277515+00:00",
+  "LastChanged_Achievements": "2023-12-31T10:03:43.2687311+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:43.6008036+00:00",
-  "LastUpdate_Ratings": "2023-12-31T08:59:11.354437+00:00",
-  "LastUpdate_Achievements": "2023-12-31T09:03:09.2777427+00:00"
+  "LastUpdate_Ratings": "2023-12-31T09:59:19.0815872+00:00",
+  "LastUpdate_Achievements": "2023-12-31T10:03:43.2688424+00:00"
 }

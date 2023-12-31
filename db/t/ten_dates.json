@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 431,
+  "EOS_Progressed": 432,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.16,
   "EosHistory": [
@@ -1161,6 +1161,11 @@
       "Time": "2023-12-31T09:09:22.6825161+00:00",
       "NumProgressed": 431,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-31T10:09:53.9502479+00:00",
+      "NumProgressed": 432,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 19,
@@ -1276,7 +1281,7 @@
       "Name": "The nice guy",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "success_kathleen",
@@ -1300,7 +1305,7 @@
       "Name": "The athlete",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "success_ty",
@@ -1323,7 +1328,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 431,
+      "Progressed": 432,
       "Completed": 5
     }
   ],
@@ -1331,8 +1336,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-12-31T09:09:22.6825158+00:00",
+  "LastChanged_Achievements": "2023-12-31T10:09:53.9502473+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:31.6181665+00:00",
-  "LastUpdate_Ratings": "2023-12-31T09:02:31.087824+00:00",
-  "LastUpdate_Achievements": "2023-12-31T09:09:22.6825513+00:00"
+  "LastUpdate_Ratings": "2023-12-31T10:03:01.1066513+00:00",
+  "LastUpdate_Achievements": "2023-12-31T10:09:53.9502669+00:00"
 }

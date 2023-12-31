@@ -27,7 +27,7 @@ Rating: 4.71 (Ranked 202)
 | Live Wire | 0.00% | ~0 |
 | Thing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,573 (Ranked 186)  
+Progressed: 8,574 (Ranked 186)  
 Completed: 34 (0.40%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 34 (0.40%) (Ranked 230)
 | 2023-12-28 | 8,451 | 34 |
 | 2023-12-29 | 8,521 | 34 |
 | 2023-12-30 | 8,561 | 34 |
-| 2023-12-31 | 8,573 | 34 |
+| 2023-12-31 | 8,574 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

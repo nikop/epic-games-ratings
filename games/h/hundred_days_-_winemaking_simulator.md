@@ -6,8 +6,8 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 43.00% | ~7,943 |
-| It's a good start | 10.00% | ~1,847 |
+| Bye Bye | 43.00% | ~7,944 |
+| It's a good start | 10.00% | ~1,848 |
 | Bonjour! | 8.00% | ~1,478 |
 | Quack | 8.00% | ~1,478 |
 | The Assistant | 6.00% | ~1,108 |
@@ -19,14 +19,14 @@ Number of Ratings: 7,669  (23.09.2022)
 | Keep the doctor away | 3.00% | ~554 |
 | Surprise of Langhe | 3.00% | ~554 |
 | Famous | 3.00% | ~554 |
-| What is that? A castle? | 2.00% | ~369 |
-| A lot of space | 2.00% | ~369 |
-| A big garage | 2.00% | ~369 |
-| Millionaire | 2.00% | ~369 |
-| Exotic | 2.00% | ~369 |
-| Pastry Chef | 2.00% | ~369 |
-| Welcome to the club | 2.00% | ~369 |
-| Very Important Winemaker | 2.00% | ~369 |
+| What is that? A castle? | 2.00% | ~370 |
+| A lot of space | 2.00% | ~370 |
+| A big garage | 2.00% | ~370 |
+| Millionaire | 2.00% | ~370 |
+| Exotic | 2.00% | ~370 |
+| Pastry Chef | 2.00% | ~370 |
+| Welcome to the club | 2.00% | ~370 |
+| Very Important Winemaker | 2.00% | ~370 |
 | King of Langhe | 1.00% | ~185 |
 | Gem of Monferrato | 1.00% | ~185 |
 | Treasure of Roero | 0.70% | ~129 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Master Winemaker | 0.10% | ~18 |
 | Unsuitable Terroir | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,472 (Ranked 155)  
+Progressed: 18,475 (Ranked 155)  
 Completed: 13 (0.07%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 13 (0.07%) (Ranked 322)
 | 2023-12-28 | 18,098 | 13 |
 | 2023-12-29 | 18,260 | 13 |
 | 2023-12-30 | 18,429 | 13 |
-| 2023-12-31 | 18,472 | 13 |
+| 2023-12-31 | 18,475 | 13 |
 ## Awards
 Max (Relaxing): 208  (Ranked 293)  
 Sum: 1,736 (Ranked 224)  

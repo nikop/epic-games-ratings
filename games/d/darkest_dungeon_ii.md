@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~694 |
+| Malpractice Assurance | 12.00% | ~695 |
 | Lost and Found | 7.00% | ~405 |
 | Autodidact | 6.00% | ~7,855 |
 | This guy... again? | 6.00% | ~347 |
@@ -27,21 +27,21 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 4.00% | ~5,237 |
 | A Place to Lay Your Head | 4.00% | ~5,237 |
 | FNG | 4.00% | ~5,237 |
-| Friends 'Til the End | 4.00% | ~231 |
-| Unleash Hell | 3.00% | ~3,927 |
-| Funny Guy | 3.00% | ~3,927 |
-| Long Live the King | 3.00% | ~3,927 |
-| Unfulfilled Desires | 3.00% | ~3,927 |
-| Dissector | 3.00% | ~3,927 |
-| Banishment | 3.00% | ~3,927 |
-| Now Stay Dead | 3.00% | ~3,927 |
-| Spelunker | 3.00% | ~3,927 |
-| Merry Time | 3.00% | ~3,927 |
-| Harvest Festival | 3.00% | ~3,927 |
-| Ramble On | 3.00% | ~3,927 |
-| Whale | 3.00% | ~3,927 |
-| Nope | 3.00% | ~3,927 |
-| Unshackled | 3.00% | ~3,927 |
+| Friends 'Til the End | 4.00% | ~232 |
+| Unleash Hell | 3.00% | ~3,928 |
+| Funny Guy | 3.00% | ~3,928 |
+| Long Live the King | 3.00% | ~3,928 |
+| Unfulfilled Desires | 3.00% | ~3,928 |
+| Dissector | 3.00% | ~3,928 |
+| Banishment | 3.00% | ~3,928 |
+| Now Stay Dead | 3.00% | ~3,928 |
+| Spelunker | 3.00% | ~3,928 |
+| Merry Time | 3.00% | ~3,928 |
+| Harvest Festival | 3.00% | ~3,928 |
+| Ramble On | 3.00% | ~3,928 |
+| Whale | 3.00% | ~3,928 |
+| Nope | 3.00% | ~3,928 |
+| Unshackled | 3.00% | ~3,928 |
 | Resurrection | 2.00% | ~2,618 |
 | Wyrdly Reconstructed | 2.00% | ~2,618 |
 | Boxcar Kid | 2.00% | ~2,618 |
@@ -68,7 +68,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Et Tu, Riposte? | 0.80% | ~46 |
 | Hat Trick | 0.70% | ~916 |
 | Triage | 0.70% | ~916 |
-| No Mercy | 0.70% | ~40 |
+| No Mercy | 0.70% | ~41 |
 | A Life Well Lived | 0.50% | ~655 |
 | The World As It Was | 0.50% | ~655 |
 | Bacon Bits | 0.50% | ~655 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,913 (Ranked 89)  
+Progressed: 130,920 (Ranked 89)  
 Completed: 3 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 3 (0.00%) (Ranked 391)
 | 2023-12-28 | 130,422 | 3 |
 | 2023-12-29 | 130,627 | 3 |
 | 2023-12-30 | 130,838 | 3 |
-| 2023-12-31 | 130,913 | 3 |
+| 2023-12-31 | 130,920 | 3 |
 ## Awards
 Max (Character Customization): 7,910  (Ranked 50)  
 Sum: 21,279 (Ranked 58)  

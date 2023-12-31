@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 70.00% | ~254 |
-| Forced to Kill | 67.00% | ~243 |
-| A Night To Remember | 40.00% | ~145 |
+| Alone with Them | 70.00% | ~255 |
+| Forced to Kill | 67.00% | ~244 |
+| A Night To Remember | 40.00% | ~146 |
 | Safe...For now? | 33.00% | ~120 |
 | Open Sesame | 28.00% | ~102 |
 | What have I done!? | 19.00% | ~69 |
-| Them and Us | 18.00% | ~65 |
-| OUTRAGE | 18.00% | ~65 |
-| This Coffin Has Your Name On It! | 15.00% | ~54 |
+| Them and Us | 18.00% | ~66 |
+| OUTRAGE | 18.00% | ~66 |
+| This Coffin Has Your Name On It! | 15.00% | ~55 |
 | Alone In The Dark | 14.00% | ~51 |
 | The Cultists | 14.00% | ~51 |
 | Parasite Exterminated | 13.00% | ~47 |
@@ -35,9 +35,9 @@
 | The 5th Element | 2.00% | ~7 |
 | Retro Player | 1.00% | ~4 |
 | Before The Eclipse | 0.80% | ~3 |
-| Box Of Ploutus | 0.60% | ~2 |
-| No Time To Relax | 0.60% | ~2 |
-| Survival Hero | 0.60% | ~2 |
+| Box Of Ploutus | 0.50% | ~2 |
+| No Time To Relax | 0.50% | ~2 |
+| Survival Hero | 0.50% | ~2 |
 | Chosen One | 0.30% | ~1 |
 | Die Another Day | 0.30% | ~1 |
 | Dressed to Kill | 0.30% | ~1 |
@@ -45,8 +45,8 @@
 | Nightmare Over | 0.30% | ~1 |
 | Survival Horror | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363 (Ranked 368)  
-Completed: 1 (0.28%) (Ranked 256)  
+Progressed: 364 (Ranked 367)  
+Completed: 1 (0.27%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -162,7 +162,7 @@ Completed: 1 (0.28%) (Ranked 256)
 | 2023-12-28 | 356 | 1 |
 | 2023-12-29 | 358 | 1 |
 | 2023-12-30 | 362 | 1 |
-| 2023-12-31 | 363 | 1 |
+| 2023-12-31 | 364 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

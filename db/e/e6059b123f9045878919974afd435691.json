@@ -3396,9 +3396,9 @@
       "ID": "AMMO_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "How Many Do You Need?",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 649
+      "UsersEstimate": 661
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -3668,9 +3668,9 @@
       "ID": "KILLR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Breaking Twigs",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 712
+      "UsersEstimate": 725
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -3923,8 +3923,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-12-31T09:09:53.3730503+00:00",
+  "LastChanged_Achievements": "2023-12-31T10:10:25.8576357+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:14.6537743+00:00",
-  "LastUpdate_Ratings": "2023-12-31T08:58:09.2114654+00:00",
-  "LastUpdate_Achievements": "2023-12-31T09:09:53.3731639+00:00"
+  "LastUpdate_Ratings": "2023-12-31T09:58:15.1702432+00:00",
+  "LastUpdate_Achievements": "2023-12-31T10:10:25.8577473+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "ghostbusters-spirits-unleashed",
   "Ranking_Rating": 612,
   "Ranking_Popularity": 255,
-  "Ranking_PopularitySum": 184,
+  "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3903,9 +3903,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 32994,
+  "EOS_Progressed": 32998,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 366,
+  "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -24078,6 +24078,11 @@
       "Time": "2023-12-31T09:08:35.1477633+00:00",
       "NumProgressed": 32994,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-12-31T10:09:05.3955496+00:00",
+      "NumProgressed": 32998,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -24393,7 +24398,7 @@
       "Name": "Stylish",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3299
+      "UsersEstimate": 3300
     },
     {
       "ID": "Summoner",
@@ -24496,7 +24501,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 32994,
+      "Progressed": 32998,
       "Completed": 71
     }
   ],
@@ -24504,8 +24509,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-31T08:57:45.2513751+00:00",
-  "LastChanged_Achievements": "2023-12-31T09:08:35.1477628+00:00",
+  "LastChanged_Achievements": "2023-12-31T10:09:05.3955493+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:23.250158+00:00",
-  "LastUpdate_Ratings": "2023-12-31T08:57:45.2513757+00:00",
-  "LastUpdate_Achievements": "2023-12-31T09:08:35.1479531+00:00"
+  "LastUpdate_Ratings": "2023-12-31T09:57:49.1575752+00:00",
+  "LastUpdate_Achievements": "2023-12-31T10:09:05.3956588+00:00"
 }

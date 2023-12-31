@@ -3746,10 +3746,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 11771,
       "NumberOfAwardsMax": 1513
+    },
+    {
+      "Time": "2023-12-31T10:02:53.5564948+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11773,
+      "NumberOfAwardsMax": 1513
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11771,
+  "NumberOfAwards": 11773,
   "NumberOfAwardsMax": 1513,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3757,7 +3763,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1422
+      "Count": 1424
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3820,9 +3826,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 242079,
+  "EOS_Progressed": 242085,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 504,
+  "EOS_NewPlayers": 507,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -30175,6 +30181,11 @@
       "Time": "2023-12-31T08:10:10.754803+00:00",
       "NumProgressed": 242079,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-31T10:10:27.9094624+00:00",
+      "NumProgressed": 242085,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -30192,9 +30203,9 @@
       "ID": "ALLACHIEVEMENTS",
       "SetID": "5l8oe0h",
       "Name": "Achievement Hunter",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 484
+      "UsersEstimate": 726
     },
     {
       "ID": "ATTACKOWL",
@@ -30234,7 +30245,7 @@
       "Name": "Consecutive Curses",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "DAILY7",
@@ -30378,7 +30389,7 @@
       "Name": "Dig Your Own Grave",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "DONTATTACKRATSDEPTH10",
@@ -30402,7 +30413,7 @@
       "Name": "Who To Trust?",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "ENDWOUNDED",
@@ -30418,7 +30429,7 @@
       "Name": "Walk It Off",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "FIREBEAD20EXPLOSIONS",
@@ -30594,7 +30605,7 @@
       "Name": "Destroy Your Fears",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "KILL10000",
@@ -30842,7 +30853,7 @@
       "Name": "Stone Touch",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "PLAY10HOURS",
@@ -30962,7 +30973,7 @@
       "Name": "Shadow Walker",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "SURVIVEON1",
@@ -30970,7 +30981,7 @@
       "Name": "Flesh Wound",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "TELEPORTKNOCKBACKEXPLOSIVE50",
@@ -30986,7 +30997,7 @@
       "Name": "Shapeshifting",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "TRANSFORMFIREBEAD",
@@ -31289,22 +31300,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242079,
+      "Progressed": 242085,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3559,
+      "Progressed": 3565,
       "Completed": 416
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2023-12-31T06:03:01.3607519+00:00",
-  "LastChanged_Achievements": "2023-12-31T09:09:55.3937687+00:00",
+  "LastChanged": "2023-12-31T10:02:53.5564946+00:00",
+  "LastChanged_Achievements": "2023-12-31T10:10:27.9094619+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
-  "LastUpdate_Ratings": "2023-12-31T09:02:24.0804881+00:00",
-  "LastUpdate_Achievements": "2023-12-31T09:09:55.3941569+00:00"
+  "LastUpdate_Ratings": "2023-12-31T10:02:53.5564952+00:00",
+  "LastUpdate_Achievements": "2023-12-31T10:10:27.9097323+00:00"
 }

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 247,
-  "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_Completed": 212,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -183,11 +183,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1833,
+  "EOS_Progressed": 1835,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.55,
+  "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:19.3415137+00:00",
@@ -3108,6 +3108,11 @@
       "Time": "2023-12-31T06:08:29.634804+00:00",
       "NumProgressed": 1833,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-31T10:08:21.5506563+00:00",
+      "NumProgressed": 1835,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3167,7 +3172,7 @@
       "Name": "Back to rust",
       "Percentage": 10,
       "XP": 70,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "16",
@@ -3183,7 +3188,7 @@
       "Name": "Balding bloot!",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "18",
@@ -3191,7 +3196,7 @@
       "Name": "Like new!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "19",
@@ -3207,7 +3212,7 @@
       "Name": "Flower Powered",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "20",
@@ -3271,7 +3276,7 @@
       "Name": "A love supreme",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "3",
@@ -3327,7 +3332,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "7",
@@ -3358,15 +3363,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1833,
+      "Progressed": 1835,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-12-31T09:07:22.6592472+00:00",
+  "LastChanged_Achievements": "2023-12-31T10:08:21.5506559+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:49.1667896+00:00",
-  "LastUpdate_Ratings": "2023-12-31T08:57:40.826237+00:00",
-  "LastUpdate_Achievements": "2023-12-31T09:07:22.6592845+00:00"
+  "LastUpdate_Ratings": "2023-12-31T09:57:44.0219485+00:00",
+  "LastUpdate_Achievements": "2023-12-31T10:08:21.5506864+00:00"
 }

@@ -6,35 +6,35 @@ Rating: 4.50 (Ranked 612)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Read Between The Lines | 63.00% | ~856 |
-| To Hell In A Handcart | 61.00% | ~828 |
-| High Profile | 54.00% | ~733 |
-| Whispers In The Dark | 52.00% | ~706 |
-| Fond Memories | 50.00% | ~679 |
+| To Hell In A Handcart | 61.00% | ~829 |
+| High Profile | 54.00% | ~734 |
+| Whispers In The Dark | 52.00% | ~707 |
+| Fond Memories | 50.00% | ~680 |
 | A Method To His Madness | 48.00% | ~652 |
-| History Check | 47.00% | ~638 |
-| The New World | 45.00% | ~611 |
+| History Check | 47.00% | ~639 |
+| The New World | 45.00% | ~612 |
 | Gaze Into The Abyss | 43.00% | ~584 |
 | Open Sesame | 43.00% | ~584 |
 | Sticky Fingers | 43.00% | ~584 |
 | Knives Out | 43.00% | ~584 |
-| Lock, Stock, And Barrel | 42.00% | ~570 |
-| Back In The Saddle | 42.00% | ~570 |
-| Land, Ho! | 42.00% | ~570 |
+| Lock, Stock, And Barrel | 42.00% | ~571 |
+| Back In The Saddle | 42.00% | ~571 |
+| Land, Ho! | 42.00% | ~571 |
 | No Man Is An Island | 41.00% | ~557 |
-| At Wits' End | 40.00% | ~543 |
+| At Wits' End | 40.00% | ~544 |
 | Up In Flames | 38.00% | ~516 |
 | Fhtagn! | 38.00% | ~516 |
-| Bookworm | 37.00% | ~502 |
+| Bookworm | 37.00% | ~503 |
 | Going Once... | 36.00% | ~489 |
 | Let Me Be Frank | 34.00% | ~462 |
 | No Stone Unturned | 32.00% | ~435 |
 | Brain Food | 31.00% | ~421 |
 | Read It And Weep | 19.00% | ~258 |
-| Curiosity Killed The Cat | 18.00% | ~244 |
+| Curiosity Killed The Cat | 18.00% | ~245 |
 | Big Breakthrough | 12.00% | ~163 |
 | Reawakened | 3.00% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,358 (Ranked 269)  
+Progressed: 1,359 (Ranked 269)  
 Completed: 38 (2.80%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 38 (2.80%) (Ranked 117)
 | 2023-12-28 | 1,340 | 38 |
 | 2023-12-29 | 1,347 | 38 |
 | 2023-12-30 | 1,356 | 38 |
-| 2023-12-31 | 1,358 | 38 |
+| 2023-12-31 | 1,359 | 38 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

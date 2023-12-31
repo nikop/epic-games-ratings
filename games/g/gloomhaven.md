@@ -6,25 +6,25 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 39.00% | ~11,721 |
-| Overkill | 33.00% | ~9,918 |
-| Vaccine Incoming | 32.00% | ~9,618 |
-| A normal day in Gloomhaven | 29.00% | ~8,716 |
-| Spread the plague | 27.00% | ~8,115 |
-| Get over here! | 24.00% | ~7,213 |
-| Just when I thought I was out... | 19.00% | ~5,710 |
+| I'm not dead yet | 39.00% | ~11,723 |
+| Overkill | 33.00% | ~9,919 |
+| Vaccine Incoming | 32.00% | ~9,619 |
+| A normal day in Gloomhaven | 29.00% | ~8,717 |
+| Spread the plague | 27.00% | ~8,116 |
+| Get over here! | 24.00% | ~7,214 |
+| Just when I thought I was out... | 19.00% | ~5,711 |
 | Precious! | 16.00% | ~4,809 |
 | Mine... All Mine... | 16.00% | ~4,809 |
-| Grizzled veteran | 15.00% | ~4,508 |
+| Grizzled veteran | 15.00% | ~4,509 |
 | Anatomy Lesson | 14.00% | ~4,208 |
-| Light of my life | 13.00% | ~3,907 |
+| Light of my life | 13.00% | ~3,908 |
 | Who's the Boss? | 12.00% | ~3,607 |
 | You activated my trap card! | 12.00% | ~3,607 |
 | Obstacle race | 12.00% | ~3,607 |
 | Augmented rat | 11.00% | ~3,306 |
 | Doom and gloom | 10.00% | ~3,006 |
-| Dungeon Veteran | 8.00% | ~2,404 |
-| Pain is your friend | 8.00% | ~2,404 |
+| Dungeon Veteran | 8.00% | ~2,405 |
+| Pain is your friend | 8.00% | ~2,405 |
 | Pack leader | 7.00% | ~2,104 |
 | Black death | 7.00% | ~2,104 |
 | Play it again, Sam | 7.00% | ~2,104 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~30 |
 | Murder Death Kill | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,055 (Ranked 138)  
+Progressed: 30,058 (Ranked 138)  
 Completed: 1 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 1 (0.00%) (Ranked 391)
 | 2023-12-28 | 29,416 | 1 |
 | 2023-12-29 | 29,668 | 1 |
 | 2023-12-30 | 29,956 | 1 |
-| 2023-12-31 | 30,055 | 1 |
+| 2023-12-31 | 30,058 | 1 |
 ## Awards
 Max (Character Customization): 3,607  (Ranked 93)  
 Sum: 8,447 (Ranked 105)  

@@ -5,13 +5,13 @@ Rating: 3.80 (Ranked 1,071)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~16,498 |
-| No Half Measures | 87.00% | ~15,108 |
-| Personal Matter | 86.00% | ~14,935 |
+| Eeligally Ambitious | 95.00% | ~16,499 |
+| No Half Measures | 87.00% | ~15,109 |
+| Personal Matter | 86.00% | ~14,936 |
 | But You Have Heard of Me | 72.00% | ~12,504 |
 | Double the Barrels, double the Fun | 54.00% | ~9,378 |
-| Pimp My Glide | 49.00% | ~8,509 |
-| ... And Where Do the Stories Come From? | 40.00% | ~6,946 |
+| Pimp My Glide | 49.00% | ~8,510 |
+| ... And Where Do the Stories Come From? | 40.00% | ~6,947 |
 | House Party! | 35.00% | ~6,078 |
 | Make It Rain | 23.00% | ~3,994 |
 | Curse of the Seven Seas | 22.00% | ~3,821 |
@@ -32,7 +32,7 @@ Rating: 3.80 (Ranked 1,071)
 | Heavy Tunaing | 0.10% | ~17 |
 | Pufferfish | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,366 (Ranked 161)  
+Progressed: 17,367 (Ranked 161)  
 Completed: 1 (0.01%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 1 (0.01%) (Ranked 369)
 | 2023-12-28 | 17,349 | 1 |
 | 2023-12-29 | 17,357 | 1 |
 | 2023-12-30 | 17,365 | 1 |
-| 2023-12-31 | 17,366 | 1 |
+| 2023-12-31 | 17,367 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

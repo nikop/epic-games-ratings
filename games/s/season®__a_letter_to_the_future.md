@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Home Leaver | 80.00% | ~1,495 |
-| Journal Beautifier | 79.00% | ~1,477 |
+| Journal Beautifier | 80.00% | ~1,495 |
 | Outside World Seer | 61.00% | ~1,140 |
 | Stranger Encounterer | 36.00% | ~673 |
 | Grey Hands Praxis 101 | 27.00% | ~505 |

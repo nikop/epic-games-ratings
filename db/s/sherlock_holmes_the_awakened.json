@@ -163,9 +163,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1358,
+  "EOS_Progressed": 1359,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.8,
   "EosHistory": [
@@ -4763,6 +4763,11 @@
       "Time": "2023-12-31T04:04:58.7020322+00:00",
       "NumProgressed": 1358,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-12-31T10:04:20.5559195+00:00",
+      "NumProgressed": 1359,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 28,
@@ -4782,7 +4787,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "MQ02_1",
@@ -4790,7 +4795,7 @@
       "Name": "High Profile",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "MQ02_2",
@@ -4806,7 +4811,7 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "MQ02_4",
@@ -4814,7 +4819,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "MQ03_1",
@@ -4822,7 +4827,7 @@
       "Name": "Fond Memories",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "MQ03_2",
@@ -4830,7 +4835,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "MQ03_3",
@@ -4838,7 +4843,7 @@
       "Name": "History Check",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "MQ03_4",
@@ -4878,7 +4883,7 @@
       "Name": "The New World",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "MQ05_1",
@@ -4894,7 +4899,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "MQ05_3",
@@ -4926,7 +4931,7 @@
       "Name": "Bookworm",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "MQ06_3",
@@ -4934,7 +4939,7 @@
       "Name": "Land, Ho!",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "MQ06_4",
@@ -4958,7 +4963,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "MQ08_1",
@@ -4997,7 +5002,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1358,
+      "Progressed": 1359,
       "Completed": 38
     }
   ],
@@ -5005,8 +5010,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-27T11:03:12.3161328+00:00",
-  "LastChanged_Achievements": "2023-12-31T09:03:45.4512661+00:00",
+  "LastChanged_Achievements": "2023-12-31T10:04:20.5559192+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:32.3322639+00:00",
-  "LastUpdate_Ratings": "2023-12-31T09:02:48.4935499+00:00",
-  "LastUpdate_Achievements": "2023-12-31T09:03:45.4513221+00:00"
+  "LastUpdate_Ratings": "2023-12-31T10:03:19.5528652+00:00",
+  "LastUpdate_Achievements": "2023-12-31T10:04:20.5559486+00:00"
 }

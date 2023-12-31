@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8551,10 +8551,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 11944,
       "NumberOfAwardsMax": 7061
+    },
+    {
+      "Time": "2023-12-31T10:03:12.1964022+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11945,
+      "NumberOfAwardsMax": 7061
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11944,
+  "NumberOfAwards": 11945,
   "NumberOfAwardsMax": 7061,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8616,7 +8622,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 576
+      "Count": 577
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8631,9 +8637,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 749759,
+  "EOS_Progressed": 749820,
   "EOS_Completed": 12970,
-  "EOS_NewPlayers": 7351,
+  "EOS_NewPlayers": 7336,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.73,
   "EosHistory": [
@@ -31706,6 +31712,11 @@
       "Time": "2023-12-31T09:08:54.2270059+00:00",
       "NumProgressed": 749759,
       "NumCompleted": 12970
+    },
+    {
+      "Time": "2023-12-31T10:09:24.9109947+00:00",
+      "NumProgressed": 749820,
+      "NumCompleted": 12970
     }
   ],
   "TotalAchievements": 60,
@@ -31717,7 +31728,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37488
+      "UsersEstimate": 37491
     },
     {
       "ID": "02_Vengeance_H1",
@@ -31725,7 +31736,7 @@
       "Name": "The Assault",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22493
+      "UsersEstimate": 22495
     },
     {
       "ID": "03_Vengeance_H2",
@@ -31733,7 +31744,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14995
+      "UsersEstimate": 14996
     },
     {
       "ID": "04_Vengeance_H3",
@@ -31741,7 +31752,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14995
+      "UsersEstimate": 14996
     },
     {
       "ID": "05_Vengeance_H4",
@@ -31869,7 +31880,7 @@
       "Name": "Stuntmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14995
+      "UsersEstimate": 14996
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -31885,7 +31896,7 @@
       "Name": "Street Fighting",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14995
+      "UsersEstimate": 14996
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -31893,7 +31904,7 @@
       "Name": "Life is your teacher",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29990
+      "UsersEstimate": 29993
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -31901,7 +31912,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14995
+      "UsersEstimate": 14996
     },
     {
       "ID": "25_ShrineMind",
@@ -31917,7 +31928,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14995
+      "UsersEstimate": 14996
     },
     {
       "ID": "27_ShrineBody",
@@ -31925,7 +31936,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14995
+      "UsersEstimate": 14996
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -31965,7 +31976,7 @@
       "Name": "Old Child",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14995
+      "UsersEstimate": 14996
     },
     {
       "ID": "33_BladeOneShot",
@@ -31981,7 +31992,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 29990
+      "UsersEstimate": 29993
     },
     {
       "ID": "35_WideStrike",
@@ -32005,7 +32016,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14995
+      "UsersEstimate": 14996
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -32061,7 +32072,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -32069,7 +32080,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -32077,7 +32088,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -32181,7 +32192,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -32196,21 +32207,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 59060,
+      "Progressed": 59121,
       "Completed": 10793
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 749759,
+      "Progressed": 749820,
       "Completed": 12970
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-12-31T05:02:49.5217024+00:00",
-  "LastChanged_Achievements": "2023-12-31T09:08:54.2270056+00:00",
+  "LastChanged": "2023-12-31T10:03:12.196402+00:00",
+  "LastChanged_Achievements": "2023-12-31T10:09:24.9109938+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:26.4563062+00:00",
-  "LastUpdate_Ratings": "2023-12-31T09:02:41.8308806+00:00",
-  "LastUpdate_Achievements": "2023-12-31T09:08:54.2272415+00:00"
+  "LastUpdate_Ratings": "2023-12-31T10:03:12.1964031+00:00",
+  "LastUpdate_Achievements": "2023-12-31T10:09:24.9111384+00:00"
 }

@@ -9,7 +9,7 @@ Rating: 4.30 (Ranked 866)
 | MVP | 54.00% | ~2,298 |
 | Big Spender | 53.00% | ~2,256 |
 | Stud Finder | 40.00% | ~1,702 |
-| Dealmaker | 38.00% | ~1,617 |
+| Dealmaker | 39.00% | ~1,660 |
 | ROTY | 32.00% | ~1,362 |
 | Roster Reshuffle | 31.00% | ~1,319 |
 | Future of the Franchise | 19.00% | ~809 |

@@ -34,9 +34,9 @@ Rating: 4.53 (Ranked 558)
 | Stuff Of Nightmares | 19.00% | ~1,051 |
 | Frontliner | 18.00% | ~996 |
 | Excavating The Truth | 18.00% | ~996 |
+| Abysmal Horrors | 18.00% | ~996 |
 | One For Every Occasion | 17.00% | ~940 |
 | The Cable Guy | 17.00% | ~940 |
-| Abysmal Horrors | 17.00% | ~940 |
 | Bandage Lover | 16.00% | ~885 |
 | Regicide | 13.00% | ~719 |
 | Flawless Victory | 11.00% | ~609 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -166,9 +166,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 1575,
+  "EOS_Progressed": 1576,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -2336,6 +2336,11 @@
       "Time": "2023-12-31T06:11:19.5422488+00:00",
       "NumProgressed": 1575,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-31T10:10:24.0280077+00:00",
+      "NumProgressed": 1576,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 56,
@@ -2507,7 +2512,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -2521,9 +2526,9 @@
       "ID": "achievement_maimedHero",
       "SetID": "95dc8p",
       "Name": "The Cost of Heroism",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 126
     },
     {
       "ID": "achievement_mythwalker",
@@ -2794,15 +2799,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1575,
+      "Progressed": 1576,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-12-31T09:09:51.6539421+00:00",
+  "LastChanged_Achievements": "2023-12-31T10:10:24.0280072+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:43.1423239+00:00",
-  "LastUpdate_Ratings": "2023-12-31T08:59:49.559319+00:00",
-  "LastUpdate_Achievements": "2023-12-31T09:09:51.6540211+00:00"
+  "LastUpdate_Ratings": "2023-12-31T09:59:58.4673082+00:00",
+  "LastUpdate_Achievements": "2023-12-31T10:10:24.0280641+00:00"
 }

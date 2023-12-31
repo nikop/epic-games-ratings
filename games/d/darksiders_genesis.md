@@ -9,10 +9,10 @@ Number of Ratings: 67  (23.09.2022)
 | Mint I | 5.00% | ~16 |
 | Soul Cache | 5.00% | ~16 |
 | Mammon | 2.00% | ~6 |
+| Master of War | 2.00% | ~6 |
 | Astarte | 1.00% | ~3 |
 | Close the Rift | 1.00% | ~3 |
 | Hell's Forge | 1.00% | ~3 |
-| Master of War | 1.00% | ~3 |
 | The Dead Court | 1.00% | ~3 |
 | Demolition Derby | 0.90% | ~3 |
 | Master of Strife | 0.90% | ~3 |

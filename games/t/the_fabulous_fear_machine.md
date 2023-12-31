@@ -10,11 +10,11 @@
 | Jung's dream | 31.00% | ~22 |
 | Pulp! Where Monsters Dwell | 27.00% | ~19 |
 | A continent with chemistry | 23.00% | ~16 |
-| The happy farmer girl | 20.00% | ~14 |
+| The happy farmer girl | 21.00% | ~15 |
 | Giant | 18.00% | ~13 |
 | Pulp! Terror Tales in the Night | 18.00% | ~13 |
+| Pulp! Out of this World | 18.00% | ~13 |
 | A rival with no options | 17.00% | ~12 |
-| Pulp! Out of this World | 17.00% | ~12 |
 | Diagnosis: fear | 15.00% | ~11 |
 | Ambition is... blind | 15.00% | ~11 |
 | You have two wishes left | 15.00% | ~11 |
@@ -39,8 +39,8 @@
 | The scholar | 7.00% | ~5 |
 | Pulp! True Adventures | 7.00% | ~5 |
 | America had no Faith | 7.00% | ~5 |
+| The barbarian invasions | 6.00% | ~4 |
 | Pulp! Tales from the Crypt | 4.00% | ~3 |
-| The barbarian invasions | 4.00% | ~3 |
 | Vaccine fans | 4.00% | ~3 |
 | A new Hindenburg | 4.00% | ~3 |
 | Pulp! Weird Science | 3.00% | ~2 |

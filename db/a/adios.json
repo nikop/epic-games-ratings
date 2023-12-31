@@ -135,9 +135,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 82199,
+  "EOS_Progressed": 82202,
   "EOS_Completed": 905,
-  "EOS_NewPlayers": 741,
+  "EOS_NewPlayers": 743,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
@@ -28560,6 +28560,11 @@
       "Time": "2023-12-31T09:07:39.1435632+00:00",
       "NumProgressed": 82199,
       "NumCompleted": 905
+    },
+    {
+      "Time": "2023-12-31T10:08:38.9458627+00:00",
+      "NumProgressed": 82202,
+      "NumCompleted": 905
     }
   ],
   "TotalAchievements": 25,
@@ -28770,7 +28775,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 82199,
+      "Progressed": 82202,
       "Completed": 905
     }
   ],
@@ -28778,8 +28783,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-12-24T03:59:19.0038141+00:00",
-  "LastChanged_Achievements": "2023-12-31T09:07:39.143563+00:00",
+  "LastChanged_Achievements": "2023-12-31T10:08:38.9458622+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:29.0198367+00:00",
-  "LastUpdate_Ratings": "2023-12-31T09:02:31.205947+00:00",
-  "LastUpdate_Achievements": "2023-12-31T09:07:39.1437905+00:00"
+  "LastUpdate_Ratings": "2023-12-31T10:03:01.2235924+00:00",
+  "LastUpdate_Achievements": "2023-12-31T10:08:38.9460392+00:00"
 }

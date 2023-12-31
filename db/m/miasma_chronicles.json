@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -4499,9 +4499,9 @@
       "ID": "MIASMA_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Master Editor",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 117
     },
     {
       "ID": "NEWTONIAN_KNOCKOUT",
@@ -4644,8 +4644,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-12-18T20:02:59.2153729+00:00",
-  "LastChanged_Achievements": "2023-12-31T09:09:51.2486241+00:00",
+  "LastChanged_Achievements": "2023-12-31T10:10:23.7257192+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:28.618292+00:00",
-  "LastUpdate_Ratings": "2023-12-31T09:02:45.0776981+00:00",
-  "LastUpdate_Achievements": "2023-12-31T09:09:51.2487115+00:00"
+  "LastUpdate_Ratings": "2023-12-31T10:03:15.8977031+00:00",
+  "LastUpdate_Achievements": "2023-12-31T10:10:23.7257747+00:00"
 }

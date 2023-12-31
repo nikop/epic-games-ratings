@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 56.00% | ~263 |
-| Starting Skyward | 50.00% | ~235 |
+| In the Black | 56.00% | ~264 |
+| Starting Skyward | 50.00% | ~236 |
 | Grime is Not Good | 44.00% | ~207 |
 | Floor Galore | 38.00% | ~179 |
 | Campaign Launch | 37.00% | ~174 |
@@ -14,24 +14,24 @@
 | Upgrade Unlock | 34.00% | ~160 |
 | It's Technical | 34.00% | ~160 |
 | Delegate Maintenance | 30.00% | ~141 |
-| Proper Walls | 29.00% | ~136 |
-| Destination Destiny | 29.00% | ~136 |
+| Proper Walls | 29.00% | ~137 |
+| Destination Destiny | 29.00% | ~137 |
 | Happy Tenants | 24.00% | ~113 |
 | Potent Potables | 24.00% | ~113 |
 | Smooth Service | 23.00% | ~108 |
-| Your Prestige is Rising | 22.00% | ~103 |
-| Retail Revenue | 22.00% | ~103 |
+| Your Prestige is Rising | 22.00% | ~104 |
+| Retail Revenue | 22.00% | ~104 |
 | Don't Feel a Loan | 21.00% | ~99 |
-| Artfully Done | 19.00% | ~89 |
 | People Mover | 19.00% | ~89 |
 | Lux Living | 18.00% | ~85 |
+| Artfully Done | 18.00% | ~85 |
 | Emporium Empire | 18.00% | ~85 |
 | Leveled Up Shops | 18.00% | ~85 |
 | We Don't Need No Education | 18.00% | ~85 |
 | Get Electrified | 18.00% | ~85 |
 | Rehab Expert | 17.00% | ~80 |
 | Tasty Profits | 17.00% | ~80 |
-| Established Fame | 16.00% | ~75 |
+| Established Fame | 15.00% | ~71 |
 | Under One Roof | 14.00% | ~66 |
 | Cashflow Chief | 14.00% | ~66 |
 | Starred Dining | 13.00% | ~61 |
@@ -81,8 +81,8 @@
 | Such Great Heights | 1.00% | ~5 |
 | Lofty Landlord | 1.00% | ~5 |
 | Scenario Success | 1.00% | ~5 |
-| High Hand | 0.90% | ~4 |
-| Double Down | 0.90% | ~4 |
+| High Hand | 0.80% | ~4 |
+| Double Down | 0.80% | ~4 |
 | Artistic Largesse | 0.60% | ~3 |
 | Poker Face | 0.40% | ~2 |
 | Scenario Master | 0.40% | ~2 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 470 (Ranked 348)  
+Progressed: 471 (Ranked 348)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 453 | 0 |
 | 2023-12-29 | 459 | 0 |
 | 2023-12-30 | 468 | 0 |
-| 2023-12-31 | 470 | 0 |
+| 2023-12-31 | 471 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

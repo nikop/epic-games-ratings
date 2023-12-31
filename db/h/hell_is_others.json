@@ -1399,7 +1399,7 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 260015,
+  "EOS_Progressed": 260017,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 0,
@@ -25789,6 +25789,11 @@
       "Time": "2023-12-31T09:04:09.0090502+00:00",
       "NumProgressed": 260015,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-31T10:04:45.7186695+00:00",
+      "NumProgressed": 260017,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -25912,7 +25917,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7800
+      "UsersEstimate": 7801
     },
     {
       "ID": "CreditLevel3",
@@ -26040,7 +26045,7 @@
       "Name": "It took a while",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7800
+      "UsersEstimate": 7801
     },
     {
       "ID": "KillHauntingThingsWithBaseballBat",
@@ -26072,7 +26077,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7800
+      "UsersEstimate": 7801
     },
     {
       "ID": "KillOtherWithMine",
@@ -26088,7 +26093,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59803
+      "UsersEstimate": 59804
     },
     {
       "ID": "KillOthers2",
@@ -26096,7 +26101,7 @@
       "Name": "Predator II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7800
+      "UsersEstimate": 7801
     },
     {
       "ID": "KillOthers3",
@@ -26247,7 +26252,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260015,
+      "Progressed": 260017,
       "Completed": 3
     }
   ],
@@ -26255,8 +26260,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-31T03:57:13.7520833+00:00",
-  "LastChanged_Achievements": "2023-12-31T09:04:09.00905+00:00",
+  "LastChanged_Achievements": "2023-12-31T10:04:45.718669+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.7689812+00:00",
-  "LastUpdate_Ratings": "2023-12-31T08:57:15.3926036+00:00",
-  "LastUpdate_Achievements": "2023-12-31T09:04:09.0092354+00:00"
+  "LastUpdate_Ratings": "2023-12-31T09:57:17.5227371+00:00",
+  "LastUpdate_Achievements": "2023-12-31T10:04:45.7188008+00:00"
 }
