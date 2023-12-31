@@ -6,16 +6,16 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~702 |
-| Lost and Found | 7.00% | ~409 |
+| Malpractice Assurance | 12.00% | ~703 |
+| Lost and Found | 7.00% | ~410 |
 | Autodidact | 6.00% | ~7,859 |
 | This guy... again? | 6.00% | ~351 |
 | This Belongs in a Museum | 5.00% | ~6,549 |
 | Creep and Sleep | 5.00% | ~6,549 |
 | Overdue Notice | 5.00% | ~6,549 |
 | Escape from the Black Hole | 5.00% | ~6,549 |
-| Ploughshares to Swords | 5.00% | ~292 |
-| Bloody Graduation | 5.00% | ~292 |
+| Ploughshares to Swords | 5.00% | ~293 |
+| Bloody Graduation | 5.00% | ~293 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,239 |
 | Serenity Now! | 4.00% | ~5,239 |
 | It Rings a Bell | 4.00% | ~5,239 |
@@ -28,20 +28,20 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 4.00% | ~5,239 |
 | FNG | 4.00% | ~5,239 |
 | Friends 'Til the End | 4.00% | ~234 |
-| Unleash Hell | 3.00% | ~3,929 |
-| Funny Guy | 3.00% | ~3,929 |
-| Long Live the King | 3.00% | ~3,929 |
-| Unfulfilled Desires | 3.00% | ~3,929 |
-| Dissector | 3.00% | ~3,929 |
-| Banishment | 3.00% | ~3,929 |
-| Now Stay Dead | 3.00% | ~3,929 |
-| Spelunker | 3.00% | ~3,929 |
-| Merry Time | 3.00% | ~3,929 |
-| Harvest Festival | 3.00% | ~3,929 |
-| Ramble On | 3.00% | ~3,929 |
-| Whale | 3.00% | ~3,929 |
-| Nope | 3.00% | ~3,929 |
-| Unshackled | 3.00% | ~3,929 |
+| Unleash Hell | 3.00% | ~3,930 |
+| Funny Guy | 3.00% | ~3,930 |
+| Long Live the King | 3.00% | ~3,930 |
+| Unfulfilled Desires | 3.00% | ~3,930 |
+| Dissector | 3.00% | ~3,930 |
+| Banishment | 3.00% | ~3,930 |
+| Now Stay Dead | 3.00% | ~3,930 |
+| Spelunker | 3.00% | ~3,930 |
+| Merry Time | 3.00% | ~3,930 |
+| Harvest Festival | 3.00% | ~3,930 |
+| Ramble On | 3.00% | ~3,930 |
+| Whale | 3.00% | ~3,930 |
+| Nope | 3.00% | ~3,930 |
+| Unshackled | 3.00% | ~3,930 |
 | Resurrection | 2.00% | ~2,620 |
 | Wyrdly Reconstructed | 2.00% | ~2,620 |
 | Boxcar Kid | 2.00% | ~2,620 |
@@ -62,8 +62,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Shrine of Reflection | 1.00% | ~1,310 |
 | Handled | 1.00% | ~1,310 |
 | Body of Work | 1.00% | ~1,310 |
-| Slap on the Wrist | 1.00% | ~58 |
-| For Old Time' Sake | 1.00% | ~58 |
+| Slap on the Wrist | 1.00% | ~59 |
+| For Old Time' Sake | 1.00% | ~59 |
 | Clearing the Ledger | 0.80% | ~1,048 |
 | No Mercy | 0.80% | ~47 |
 | Et Tu, Riposte? | 0.80% | ~47 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,980 (Ranked 89)  
+Progressed: 130,987 (Ranked 89)  
 Completed: 3 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 3 (0.00%) (Ranked 391)
 | 2023-12-28 | 130,422 | 3 |
 | 2023-12-29 | 130,627 | 3 |
 | 2023-12-30 | 130,838 | 3 |
-| 2023-12-31 | 130,980 | 3 |
+| 2023-12-31 | 130,987 | 3 |
 ## Awards
 Max (Character Customization): 7,910  (Ranked 50)  
 Sum: 21,285 (Ranked 58)  

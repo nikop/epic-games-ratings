@@ -2,13 +2,13 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 325,
+  "Ranking_Rating": 326,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,7 +51,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1171,
+  "EOS_Progressed": 1172,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
@@ -3376,6 +3376,11 @@
       "Time": "2023-12-31T13:12:03.1956613+00:00",
       "NumProgressed": 1171,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-31T17:09:50.5700132+00:00",
+      "NumProgressed": 1172,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3395,7 +3400,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -3457,9 +3462,9 @@
       "ID": "CosmeticProgress1",
       "SetID": "a9e499d",
       "Name": "Street Style",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 199
     },
     {
       "ID": "CultivairChests1",
@@ -3513,9 +3518,9 @@
       "ID": "FutureEkko2Defeated",
       "SetID": "a9e499d",
       "Name": "The Betrayer",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 246
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -3571,7 +3576,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "LacunaCompleted",
@@ -3625,9 +3630,9 @@
       "ID": "ParallelConvergenceMultiHit1",
       "SetID": "a9e499d",
       "Name": "Time Flies",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 281
     },
     {
       "ID": "ParryBoss",
@@ -3651,7 +3656,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -3747,7 +3752,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "TheaterChests1",
@@ -3795,7 +3800,7 @@
       "Name": "The Brass Boss",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3810,7 +3815,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1171,
+      "Progressed": 1172,
       "Completed": 6
     }
   ],
@@ -3818,8 +3823,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-31T16:10:11.147873+00:00",
+  "LastChanged_Achievements": "2023-12-31T17:09:50.5700128+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:02:41.0202359+00:00",
-  "LastUpdate_Achievements": "2023-12-31T16:10:11.1479214+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:02:46.7221667+00:00",
+  "LastUpdate_Achievements": "2023-12-31T17:09:50.5700725+00:00"
 }

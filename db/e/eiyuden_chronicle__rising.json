@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
     "PcReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 784,
+  "EOS_Progressed": 785,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.65,
+  "EOS_Completed_Percentage": 7.64,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -751,6 +751,11 @@
       "Time": "2023-12-31T14:08:16.3226985+00:00",
       "NumProgressed": 784,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-31T17:08:36.8401148+00:00",
+      "NumProgressed": 785,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -762,7 +767,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -786,7 +791,7 @@
       "Name": "All Bark, No Bite",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "ACHIEVEMENT005",
@@ -826,7 +831,7 @@
       "Name": "The Road to Recovery",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ACHIEVEMENT010",
@@ -842,7 +847,7 @@
       "Name": "A Girl About the Town",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ACHIEVEMENT012",
@@ -850,7 +855,7 @@
       "Name": "The Go-To Girl",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACHIEVEMENT013",
@@ -938,7 +943,7 @@
       "Name": "Armor Master",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACHIEVEMENT024",
@@ -946,7 +951,7 @@
       "Name": "Amateur Adventurer",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "ACHIEVEMENT025",
@@ -954,7 +959,7 @@
       "Name": "Hopeful Hunter",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -1034,7 +1039,7 @@
       "Name": "First Time Fishing",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "ACHIEVEMENT036",
@@ -1058,7 +1063,7 @@
       "Name": "Fishing Master",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACHIEVEMENT039",
@@ -1090,7 +1095,7 @@
       "Name": "The Quarry...On Foot!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACHIEVEMENT043",
@@ -1152,24 +1157,24 @@
       "ID": "ACHIEVEMENT050",
       "SetID": "dejhjd5",
       "Name": "Rising Champion",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 47
     }
   ],
   "AchievementSets": [
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 784,
+      "Progressed": 785,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-31T16:08:56.4706551+00:00",
+  "LastChanged_Achievements": "2023-12-31T17:08:36.8401143+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:02.3357194+00:00",
-  "LastUpdate_Ratings": "2023-12-31T15:59:47.4748601+00:00",
-  "LastUpdate_Achievements": "2023-12-31T16:08:56.4706976+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:00:07.3096771+00:00",
+  "LastUpdate_Achievements": "2023-12-31T17:08:36.8401535+00:00"
 }

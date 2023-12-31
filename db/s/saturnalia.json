@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69981,
+  "EOS_Progressed": 69984,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19138,6 +19138,11 @@
       "Time": "2023-12-31T16:04:45.9619565+00:00",
       "NumProgressed": 69981,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-31T17:04:49.8471071+00:00",
+      "NumProgressed": 69984,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -19157,7 +19162,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 2099
+      "UsersEstimate": 2100
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -19301,14 +19306,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 2099
+      "UsersEstimate": 2100
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 69981,
+      "Progressed": 69984,
       "Completed": 18
     }
   ],
@@ -19316,8 +19321,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2023-12-31T16:04:45.9619563+00:00",
+  "LastChanged_Achievements": "2023-12-31T17:04:49.8471068+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:27.5821372+00:00",
-  "LastUpdate_Ratings": "2023-12-31T15:59:41.4443827+00:00",
-  "LastUpdate_Achievements": "2023-12-31T16:04:45.9620568+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:00:01.5843025+00:00",
+  "LastUpdate_Achievements": "2023-12-31T17:04:49.8472282+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 266,
+  "EOS_Progressed": 267,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -700,6 +700,11 @@
       "Time": "2023-12-31T12:06:49.5417686+00:00",
       "NumProgressed": 266,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T17:07:53.8016265+00:00",
+      "NumProgressed": 267,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -733,9 +738,9 @@
       "ID": "bull_in_a_china_shop",
       "SetID": "3j2phem",
       "Name": "Bull in a China Shop",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "chief_butler",
@@ -751,7 +756,7 @@
       "Name": "Choking Hazard",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "dodgy_geezer",
@@ -837,7 +842,7 @@
       "ID": "luddite",
       "SetID": "3j2phem",
       "Name": "Luddite",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -845,7 +850,7 @@
       "ID": "maids_of_sker",
       "SetID": "3j2phem",
       "Name": "Maids of Sker",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -885,9 +890,9 @@
       "ID": "phonic_boom",
       "SetID": "3j2phem",
       "Name": "Phonic Boom",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "rapturous_applause",
@@ -917,17 +922,17 @@
       "ID": "smooth_operator",
       "SetID": "3j2phem",
       "Name": "Smooth Operator",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     },
     {
       "ID": "the_long_night",
       "SetID": "3j2phem",
       "Name": "The Long Night",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "the_longest_night",
@@ -950,7 +955,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 266,
+      "Progressed": 267,
       "Completed": 0
     }
   ],
@@ -958,8 +963,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-12-31T16:08:11.7644395+00:00",
+  "LastChanged_Achievements": "2023-12-31T17:07:53.801626+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:21.5182782+00:00",
-  "LastUpdate_Ratings": "2023-12-31T15:57:06.2118746+00:00",
-  "LastUpdate_Achievements": "2023-12-31T16:08:11.7644661+00:00"
+  "LastUpdate_Ratings": "2023-12-31T16:57:22.758877+00:00",
+  "LastUpdate_Achievements": "2023-12-31T17:07:53.8016498+00:00"
 }

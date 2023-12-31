@@ -3,9 +3,9 @@
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 356,
-  "Ranking_EOS_Completed": 197,
+  "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -1950,9 +1950,9 @@
       "ID": "NOT_FAINT_HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "Tough Guy",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 78
     },
     {
       "ID": "PREPARE_10_COFFEE",
@@ -1998,9 +1998,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 318
+      "UsersEstimate": 322
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -2021,8 +2021,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-31T16:03:23.9361327+00:00",
+  "LastChanged_Achievements": "2023-12-31T17:03:31.0282954+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.5394751+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:02:41.1574389+00:00",
-  "LastUpdate_Achievements": "2023-12-31T16:03:23.9361535+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:02:47.0354589+00:00",
+  "LastUpdate_Achievements": "2023-12-31T17:03:31.0283177+00:00"
 }

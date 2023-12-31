@@ -6,8 +6,8 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 17.00% | ~98 |
-| Sponge Smasher | 17.00% | ~98 |
+| Spatula Seeker | 17.00% | ~99 |
+| Sponge Smasher | 17.00% | ~99 |
 | Jellyfish Jam | 15.00% | ~87 |
 | Jellyfishing | 11.00% | ~64 |
 | Time For Tutorial | 10.00% | ~58 |
@@ -32,14 +32,14 @@ Number of Ratings: 76  (23.09.2022)
 | Shanghaied | 3.00% | ~17 |
 | Kelp Forest of Fear | 3.00% | ~17 |
 | SpongeBob vs SpongeBob! | 3.00% | ~17 |
-| Sleepy Time | 2.00% | ~12 |
+| Sleepy Time | 3.00% | ~17 |
 | Sock Concert | 2.00% | ~12 |
 | Mega Spatula Seeker | 2.00% | ~12 |
 | 100% SpongeBob | 1.00% | ~6 |
 | Sock Opera | 1.00% | ~6 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 579 (Ranked 336)  
+Progressed: 580 (Ranked 336)  
 Completed: 5 (0.86%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,7 +57,7 @@ Completed: 5 (0.86%) (Ranked 184)
 | 2023-12-28 | 466 | 3 |
 | 2023-12-29 | 502 | 4 |
 | 2023-12-30 | 551 | 5 |
-| 2023-12-31 | 579 | 5 |
+| 2023-12-31 | 580 | 5 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 496)  
 Sum: 35 (Ranked 524)  

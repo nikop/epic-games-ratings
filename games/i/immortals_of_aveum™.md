@@ -1,31 +1,31 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.20 (Ranked 950)  
+Rating: 4.20 (Ranked 951)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~2,074 |
-| Battlefields Have Memories | 80.00% | ~1,907 |
-| Enlisted | 73.00% | ~1,740 |
-| Maybe Engage a Little | 68.00% | ~1,621 |
-| No More Names | 50.00% | ~1,192 |
-| Initiate | 36.00% | ~858 |
-| Thrada-Kul | 32.00% | ~763 |
-| Gravity-Challenged Rocks | 26.00% | ~620 |
-| Socialite | 23.00% | ~548 |
-| Soldier | 22.00% | ~524 |
+| Unforeseen | 87.00% | ~2,077 |
+| Battlefields Have Memories | 80.00% | ~1,910 |
+| Enlisted | 73.00% | ~1,743 |
+| Maybe Engage a Little | 68.00% | ~1,623 |
+| No More Names | 50.00% | ~1,194 |
+| Initiate | 36.00% | ~859 |
+| Thrada-Kul | 32.00% | ~764 |
+| Gravity-Challenged Rocks | 26.00% | ~621 |
+| Socialite | 23.00% | ~549 |
+| Soldier | 22.00% | ~525 |
 | All the Major Food Groups | 21.00% | ~501 |
-| Beggars Would Ride | 19.00% | ~453 |
-| Control is an Illusion | 18.00% | ~429 |
+| Beggars Would Ride | 19.00% | ~454 |
+| Control is an Illusion | 18.00% | ~430 |
 | The Means to Save It | 15.00% | ~358 |
 | Resilience to Sin | 14.00% | ~334 |
-| A Familiar Nest | 13.00% | ~310 |
+| A Familiar Nest | 14.00% | ~334 |
 | Geas Aristeya | 13.00% | ~310 |
 | Periapt Alizarin | 13.00% | ~310 |
 | A Perfect Cycle | 12.00% | ~286 |
-| Recruit | 11.00% | ~262 |
-| Armsman | 10.00% | ~238 |
+| Recruit | 11.00% | ~263 |
+| Armsman | 10.00% | ~239 |
 | Lights Army | 8.00% | ~191 |
 | Periapt Cerulean | 7.00% | ~167 |
 | Good Boy | 6.00% | ~143 |
@@ -45,15 +45,15 @@ Rating: 4.20 (Ranked 950)
 | Master of Ultramarine | 0.70% | ~17 |
 | Backtracker | 0.60% | ~14 |
 | Master of Malachite | 0.50% | ~12 |
+| Petite Bourgeoisie | 0.40% | ~10 |
+| Witch-Taker | 0.40% | ~10 |
 | Family Business | 0.30% | ~7 |
 | Diplomat | 0.30% | ~7 |
-| Petite Bourgeoisie | 0.30% | ~7 |
-| Witch-Taker | 0.30% | ~7 |
 | Treasure Hunter | 0.30% | ~7 |
 | Out of Time | 0.20% | ~5 |
 | Fowl Play | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,384 (Ranked 233)  
+Progressed: 2,387 (Ranked 233)  
 Completed: 2 (0.08%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 2 (0.08%) (Ranked 320)
 | 2023-12-28 | 2,136 | 2 |
 | 2023-12-29 | 2,236 | 2 |
 | 2023-12-30 | 2,327 | 2 |
-| 2023-12-31 | 2,384 | 2 |
+| 2023-12-31 | 2,387 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

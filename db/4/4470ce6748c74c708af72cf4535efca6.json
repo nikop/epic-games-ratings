@@ -451,17 +451,17 @@
       "ID": "22",
       "SetID": "5e3maia",
       "Name": "Vegetarian",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "23",
       "SetID": "5e3maia",
       "Name": "Fashion Designer",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "24",
@@ -890,8 +890,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-12-31T16:05:51.2872067+00:00",
+  "LastChanged_Achievements": "2023-12-31T17:05:55.0212289+00:00",
   "LastUpdate_AppInfo": "2023-12-30T07:56:55.8803817+00:00",
-  "LastUpdate_Ratings": "2023-12-31T15:57:30.1612934+00:00",
-  "LastUpdate_Achievements": "2023-12-31T16:05:51.2872617+00:00"
+  "LastUpdate_Ratings": "2023-12-31T16:57:47.065824+00:00",
+  "LastUpdate_Achievements": "2023-12-31T17:05:55.0213171+00:00"
 }

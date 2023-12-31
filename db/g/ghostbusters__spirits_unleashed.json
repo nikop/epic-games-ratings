@@ -5,10 +5,10 @@
   "Ranking_Rating": 612,
   "Ranking_Popularity": 255,
   "Ranking_PopularitySum": 185,
-  "Ranking_EOS_Progress": 134,
+  "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3903,9 +3903,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33010,
+  "EOS_Progressed": 33012,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 366,
+  "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -24113,6 +24113,11 @@
       "Time": "2023-12-31T16:08:53.4281481+00:00",
       "NumProgressed": 33010,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-12-31T17:08:34.229043+00:00",
+      "NumProgressed": 33012,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -24172,7 +24177,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "Collector",
@@ -24260,7 +24265,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "GB_In_Training",
@@ -24460,7 +24465,7 @@
       "Name": "Teamwork",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "Terrifying",
@@ -24508,7 +24513,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "Welcome_Crew",
@@ -24531,7 +24536,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33010,
+      "Progressed": 33012,
       "Completed": 71
     }
   ],
@@ -24539,8 +24544,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-31T08:57:45.2513751+00:00",
-  "LastChanged_Achievements": "2023-12-31T16:08:53.4281477+00:00",
+  "LastChanged_Achievements": "2023-12-31T17:08:34.2290424+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:23.250158+00:00",
-  "LastUpdate_Ratings": "2023-12-31T15:57:45.8707195+00:00",
-  "LastUpdate_Achievements": "2023-12-31T16:08:53.4282939+00:00"
+  "LastUpdate_Ratings": "2023-12-31T16:58:05.3644194+00:00",
+  "LastUpdate_Achievements": "2023-12-31T17:08:34.2291673+00:00"
 }

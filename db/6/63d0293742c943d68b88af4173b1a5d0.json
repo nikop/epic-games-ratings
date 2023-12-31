@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -2001,9 +2001,9 @@
       "ID": "REMAKE_004",
       "SetID": "5pi96jj",
       "Name": "I\u0027m Your Daddy",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 356
+      "UsersEstimate": 362
     },
     {
       "ID": "Remake_005",
@@ -2160,8 +2160,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-12-31T16:08:25.9682129+00:00",
+  "LastChanged_Achievements": "2023-12-31T17:08:06.9633507+00:00",
   "LastUpdate_AppInfo": "2023-12-26T02:16:12.1403657+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:02:30.8545305+00:00",
-  "LastUpdate_Achievements": "2023-12-31T16:08:25.9682366+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:02:37.7959948+00:00",
+  "LastUpdate_Achievements": "2023-12-31T17:08:06.9633773+00:00"
 }

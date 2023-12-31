@@ -2,13 +2,13 @@
   "ID": "038295c445bb40d1b06545fd75741af1",
   "Name": "Kerbal Space Program 2",
   "ProductSlug": "kerbal-space-program-2",
-  "Ranking_Rating": 950,
+  "Ranking_Rating": 939,
   "Ranking_Popularity": 481,
-  "Ranking_PopularitySum": 377,
+  "Ranking_PopularitySum": 376,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 563,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-02-24T14:00:00+00:00",
     "PcReleaseDate": "2023-02-24T14:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.2,
+  "Rating": 4.21,
   "RatingHistory": [
     {
       "Time": "2023-02-27T02:15:09.7091153+00:00",
@@ -953,12 +953,18 @@
       "Rating": 4.2,
       "NumberOfAwards": 295,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-12-31T17:03:23.1763635+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 298,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 295,
+  "NumberOfAwards": 298,
   "NumberOfAwardsMax": 38,
-  "MaxAwardTitle": "Educational",
+  "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
       "Text": "This game is Educational",
@@ -994,7 +1000,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 35
+      "Count": 38
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1033,8 +1039,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-24T16:58:34.691796+00:00",
   "FirstSeenRating": "2023-02-27T02:15:09.7091148+00:00",
-  "LastChanged": "2023-12-31T04:03:54.4908665+00:00",
+  "LastChanged": "2023-12-31T17:03:23.1763634+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:02.5659121+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:03:18.2229893+00:00",
-  "LastUpdate_Achievements": "2023-12-31T16:03:27.2537339+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:03:23.1763638+00:00",
+  "LastUpdate_Achievements": "2023-12-31T17:03:34.0975014+00:00"
 }

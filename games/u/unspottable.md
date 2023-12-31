@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Catch me if you can | 64.00% | ~9 |
-| Under the spotlights | 64.00% | ~9 |
-| Out of my area | 57.00% | ~8 |
-| Teacher's pet | 57.00% | ~8 |
-| Robot cleaner | 50.00% | ~7 |
-| Skynet Wins | 43.00% | ~6 |
-| Big Win | 21.00% | ~3 |
-| Mission Impossible | 21.00% | ~3 |
-| Short Circuit | 21.00% | ~3 |
-| Airstrike | 14.00% | ~2 |
-| Big Bang | 14.00% | ~2 |
-| Flat Men | 14.00% | ~2 |
-| Ha-Ha! | 14.00% | ~2 |
-| Night vision | 14.00% | ~2 |
-| Short and Sweet | 14.00% | ~2 |
-| Sneaky Exit | 14.00% | ~2 |
+| Catch me if you can | 60.00% | ~9 |
+| Under the spotlights | 60.00% | ~9 |
+| Out of my area | 53.00% | ~8 |
+| Teacher's pet | 53.00% | ~8 |
+| Robot cleaner | 47.00% | ~7 |
+| Skynet Wins | 40.00% | ~6 |
+| Big Win | 20.00% | ~3 |
+| Mission Impossible | 20.00% | ~3 |
+| Short Circuit | 20.00% | ~3 |
+| Airstrike | 13.00% | ~2 |
+| Big Bang | 13.00% | ~2 |
+| Flat Men | 13.00% | ~2 |
+| Ha-Ha! | 13.00% | ~2 |
+| Night vision | 13.00% | ~2 |
+| Short and Sweet | 13.00% | ~2 |
+| Sneaky Exit | 13.00% | ~2 |
 | Don't give me orders | 7.00% | ~1 |
 | Clutch | 0.00% | ~0 |
 | Collateral damage | 0.00% | ~0 |
@@ -30,7 +30,7 @@
 | No real winner | 0.00% | ~0 |
 | Triple Punch | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14 (Ranked 634)  
+Progressed: 15 (Ranked 633)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -48,6 +48,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-10-15 | 12 | 0 |
 | 2023-10-19 | 13 | 0 |
 | 2023-12-10 | 14 | 0 |
+| 2023-12-31 | 15 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

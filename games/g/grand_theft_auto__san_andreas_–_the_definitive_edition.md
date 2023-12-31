@@ -5,20 +5,20 @@ Rating: 4.55 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~14,368 |
-| Pay 'n' Spray | 50.00% | ~8,869 |
-| All Dressed Up for San Fierro | 25.00% | ~4,434 |
-| The American Dream | 19.00% | ~3,370 |
-| School's Out | 18.00% | ~3,193 |
-| Smooth Moves | 17.00% | ~3,015 |
-| Today Was a Good Day | 15.00% | ~2,661 |
-| What happens in Las Venturas... | 14.00% | ~2,483 |
+| Getting Started | 81.00% | ~14,373 |
+| Pay 'n' Spray | 50.00% | ~8,872 |
+| All Dressed Up for San Fierro | 25.00% | ~4,436 |
+| The American Dream | 19.00% | ~3,371 |
+| School's Out | 18.00% | ~3,194 |
+| Smooth Moves | 17.00% | ~3,016 |
+| Today Was a Good Day | 15.00% | ~2,662 |
+| What happens in Las Venturas... | 14.00% | ~2,484 |
 | Horror of the Santa Maria | 10.00% | ~1,774 |
-| Liberty City State of Mind | 9.00% | ~1,596 |
-| Original Gangster | 8.00% | ~1,419 |
+| Liberty City State of Mind | 9.00% | ~1,597 |
+| Original Gangster | 8.00% | ~1,420 |
 | With Extra Dip | 7.00% | ~1,242 |
 | The End of the Line | 7.00% | ~1,242 |
-| Saviour | 6.00% | ~1,064 |
+| Saviour | 6.00% | ~1,065 |
 | Rescue a Kitten Too? | 5.00% | ~887 |
 | They Can’t Stop All of Us | 4.00% | ~710 |
 | What are the Odds | 4.00% | ~710 |
@@ -41,8 +41,8 @@ Rating: 4.55 (Ranked 522)
 | ...Here we go again | 0.50% | ~89 |
 | I Ain't No Buster | 0.40% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,738 (Ranked 158)  
-Completed: 67 (0.38%) (Ranked 234)  
+Progressed: 17,744 (Ranked 158)  
+Completed: 67 (0.38%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -296,11 +296,11 @@ Completed: 67 (0.38%) (Ranked 234)
 | 2023-12-28 | 17,305 | 64 |
 | 2023-12-29 | 17,467 | 65 |
 | 2023-12-30 | 17,622 | 66 |
-| 2023-12-31 | 17,738 | 67 |
+| 2023-12-31 | 17,744 | 67 |
 ## Awards
 Max (Great Boss Battles): 557  (Ranked 213)  
-Sum: 870 (Ranked 283)  
-Diff (max vs sum): -70  
+Sum: 871 (Ranked 284)  
+Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 557 |
@@ -308,7 +308,7 @@ Diff (max vs sum): -70
 | This game has Amazing Characters | 46 |
 | This game is Great for Beginners | 44 |
 | This game has Amazing Storytelling | 41 |
-| This game is Highly Recommended | 40 |
+| This game is Highly Recommended | 41 |
 | This game is Extremely Fun | 31 |
 | This game has Quickly Understood Controls | 31 |
 | This game has Diverse Characters | 31 |
@@ -532,4 +532,4 @@ Diff (max vs sum): -70
 | 2023-12-28 | 4.54 | 538 | 817 |
 | 2023-12-29 | 4.54 | 545 | 805 |
 | 2023-12-30 | 4.55 | 557 | 866 |
-| 2023-12-31 | 4.55 | 557 | 870 |
+| 2023-12-31 | 4.55 | 557 | 871 |

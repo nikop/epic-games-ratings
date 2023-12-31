@@ -5,30 +5,30 @@ Rating: 4.31 (Ranked 856)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 71.00% | ~159,835 |
-| Doubled Pawn | 57.00% | ~128,318 |
-| Check | 56.00% | ~126,067 |
-| Absolute pin | 47.00% | ~105,806 |
-| Promotion | 31.00% | ~69,787 |
-| Checkmate | 30.00% | ~67,536 |
-| O-O | 24.00% | ~54,029 |
-| Spanish Bishop | 21.00% | ~47,275 |
-| Queen Sacrifice | 20.00% | ~45,024 |
-| Stalemate | 18.00% | ~40,522 |
-| O-O-O | 13.00% | ~29,266 |
-| Octopus | 13.00% | ~29,266 |
-| Stranger Danger | 12.00% | ~27,014 |
-| En Passant | 9.00% | ~20,261 |
-| Double Check | 7.00% | ~15,758 |
-| Family Fork | 6.00% | ~13,507 |
-| Piece Collector | 6.00% | ~13,507 |
-| ELO | 5.00% | ~11,256 |
+| Chop Wood | 71.00% | ~159,845 |
+| Doubled Pawn | 57.00% | ~128,326 |
+| Check | 56.00% | ~126,075 |
+| Absolute pin | 47.00% | ~105,813 |
+| Promotion | 31.00% | ~69,792 |
+| Checkmate | 30.00% | ~67,540 |
+| O-O | 24.00% | ~54,032 |
+| Spanish Bishop | 21.00% | ~47,278 |
+| Queen Sacrifice | 20.00% | ~45,027 |
+| Stalemate | 18.00% | ~40,524 |
+| O-O-O | 13.00% | ~29,267 |
+| Octopus | 13.00% | ~29,267 |
+| Stranger Danger | 12.00% | ~27,016 |
+| En Passant | 9.00% | ~20,262 |
+| Double Check | 7.00% | ~15,759 |
+| Family Fork | 6.00% | ~13,508 |
+| Piece Collector | 6.00% | ~13,508 |
+| ELO | 5.00% | ~11,257 |
 | Friendly Fire | 4.00% | ~9,005 |
 | Underpromote | 4.00% | ~9,005 |
 | ELO ELO | 3.00% | ~6,754 |
 | Learner | 3.00% | ~6,754 |
-| Blind Pigs | 2.00% | ~4,502 |
-| ELO ELO ELO | 2.00% | ~4,502 |
+| Blind Pigs | 2.00% | ~4,503 |
+| ELO ELO ELO | 2.00% | ~4,503 |
 | Bobby Time | 1.00% | ~2,251 |
 | Back-rank Mate | 0.90% | ~2,026 |
 | Chess Champion | 0.30% | ~675 |
@@ -44,7 +44,7 @@ Rating: 4.31 (Ranked 856)
 | Tournament Master | 0.10% | ~225 |
 | Tournament Pro | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,120 (Ranked 76)  
+Progressed: 225,134 (Ranked 76)  
 Completed: 2 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 2 (0.00%) (Ranked 391)
 | 2023-12-28 | 224,560 | 2 |
 | 2023-12-29 | 224,759 | 2 |
 | 2023-12-30 | 224,981 | 2 |
-| 2023-12-31 | 225,120 | 2 |
+| 2023-12-31 | 225,134 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

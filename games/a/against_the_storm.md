@@ -12,14 +12,14 @@ Number of Ratings: 1,845  (23.09.2022)
 | First Real Expedition | 6.00% | ~1,189 |
 | No Deaths | 6.00% | ~1,189 |
 | Petrified Necropolis | 6.00% | ~1,189 |
-| Overcoming Difficulty | 5.00% | ~990 |
-| Coral Forest | 5.00% | ~990 |
-| The Marshlands | 5.00% | ~990 |
-| The Scarlet Orchard | 5.00% | ~990 |
-| Ominous Presence | 5.00% | ~990 |
-| Gathering Storm | 5.00% | ~990 |
-| Frosts | 4.00% | ~792 |
-| Land of Greed | 4.00% | ~792 |
+| Overcoming Difficulty | 5.00% | ~991 |
+| Coral Forest | 5.00% | ~991 |
+| The Marshlands | 5.00% | ~991 |
+| The Scarlet Orchard | 5.00% | ~991 |
+| Ominous Presence | 5.00% | ~991 |
+| Gathering Storm | 5.00% | ~991 |
+| Frosts | 4.00% | ~793 |
+| Land of Greed | 4.00% | ~793 |
 | Homesick | 3.00% | ~594 |
 | Fertile Meadows | 3.00% | ~594 |
 | Monastery of the Holy Flame | 3.00% | ~594 |
@@ -50,7 +50,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Refinery | 0.90% | ~178 |
 | Dangerous Lands | 0.90% | ~178 |
 | Forsaken Gods Temple | 0.90% | ~178 |
-| Forbidden Lands | 0.80% | ~158 |
+| Forbidden Lands | 0.80% | ~159 |
 | Feeding The People | 0.60% | ~119 |
 | Like a Machine | 0.50% | ~99 |
 | Fox Utopia | 0.50% | ~99 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,809 (Ranked 151)  
+Progressed: 19,816 (Ranked 151)  
 Completed: 34 (0.17%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 34 (0.17%) (Ranked 280)
 | 2023-12-28 | 19,536 | 36 |
 | 2023-12-29 | 19,630 | 36 |
 | 2023-12-30 | 19,741 | 35 |
-| 2023-12-31 | 19,809 | 34 |
+| 2023-12-31 | 19,816 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 447  (Ranked 230)  
 Sum: 3,309 (Ranked 177)  

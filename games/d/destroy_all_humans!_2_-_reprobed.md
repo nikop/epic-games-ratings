@@ -28,10 +28,10 @@ Number of Ratings: 90  (23.09.2022)
 | Dusted | 8.00% | ~21 |
 | Scuttled | 7.00% | ~19 |
 | Re-Return of the Clone of the Invasion II-2 | 6.00% | ~16 |
+| Ultimate Smoothie | 4.00% | ~11 |
 | Lobster Blisque | 4.00% | ~11 |
 | Yettisoned | 4.00% | ~11 |
 | Arkvoodle Doodle | 4.00% | ~11 |
-| Ultimate Smoothie | 3.00% | ~8 |
 | Deincarnated | 3.00% | ~8 |
 | Against All Odds | 2.00% | ~5 |
 | The Optional Mandate | 2.00% | ~5 |
@@ -52,7 +52,7 @@ Number of Ratings: 90  (23.09.2022)
 | Trans-Siberian Express | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 265 (Ranked 400)  
-Completed: 1 (0.38%) (Ranked 234)  
+Completed: 1 (0.38%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

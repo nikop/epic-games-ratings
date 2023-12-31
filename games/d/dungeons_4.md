@@ -49,7 +49,7 @@ Rating: 4.67 (Ranked 283)
 | Sabotage! | 26.00% | ~176 |
 | Raiders of the Lost Stone | 26.00% | ~176 |
 | Bonus Evilness | 25.00% | ~170 |
-| The Rune Sockets of Finitude (Part 2) | 24.00% | ~163 |
+| The Rune Sockets of Finitude (Part 2) | 25.00% | ~170 |
 | The Last Stand - This Time For Real! | 23.00% | ~156 |
 | Rubble and Ashes | 21.00% | ~142 |
 | Lavalumps on Ice! | 19.00% | ~129 |

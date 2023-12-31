@@ -1,25 +1,25 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.21 (Ranked 940)  
+Rating: 4.21 (Ranked 939)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 21.00% | ~4,257 |
-| The Outer Way | 21.00% | ~4,257 |
-| Desperate Times | 19.00% | ~3,851 |
-| Get a Grip | 18.00% | ~3,649 |
-| Paper Jams | 18.00% | ~3,649 |
-| Chew 'Em Up | 16.00% | ~3,243 |
-| Reforged | 15.00% | ~3,040 |
-| Float Like A Butterfly | 14.00% | ~2,838 |
-| Workplace Hazard | 13.00% | ~2,635 |
-| If the SHU Fits... | 13.00% | ~2,635 |
+| Flesh Wound | 21.00% | ~4,258 |
+| The Outer Way | 21.00% | ~4,258 |
+| Desperate Times | 19.00% | ~3,852 |
+| Get a Grip | 18.00% | ~3,650 |
+| Paper Jams | 18.00% | ~3,650 |
+| Chew 'Em Up | 16.00% | ~3,244 |
+| Reforged | 15.00% | ~3,041 |
+| Float Like A Butterfly | 14.00% | ~2,839 |
+| Workplace Hazard | 13.00% | ~2,636 |
+| If the SHU Fits... | 13.00% | ~2,636 |
 | Without A Paddle | 11.00% | ~2,230 |
-| In the Pipe, Five by Five | 10.00% | ~2,027 |
-| Crash Site | 10.00% | ~2,027 |
-| Two Heads Are Better Than One | 9.00% | ~1,824 |
-| Power Up | 9.00% | ~1,824 |
+| In the Pipe, Five by Five | 10.00% | ~2,028 |
+| Crash Site | 10.00% | ~2,028 |
+| Two Heads Are Better Than One | 9.00% | ~1,825 |
+| Power Up | 9.00% | ~1,825 |
 | Giving Back | 8.00% | ~1,622 |
 | Terminated | 8.00% | ~1,622 |
 | What Lies Beneath | 8.00% | ~1,622 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 940)
 | Big Game Hunter | 0.10% | ~8 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,270 (Ranked 150)  
+Progressed: 20,276 (Ranked 150)  
 Completed: 82 (0.40%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,10 +300,10 @@ Completed: 82 (0.40%) (Ranked 229)
 | 2023-12-28 | 19,780 | 82 |
 | 2023-12-29 | 19,946 | 82 |
 | 2023-12-30 | 20,137 | 82 |
-| 2023-12-31 | 20,270 | 82 |
+| 2023-12-31 | 20,276 | 82 |
 ## Awards
 Max (Amazing Characters): 107  (Ranked 365)  
-Sum: 539 (Ranked 331)  
+Sum: 541 (Ranked 331)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -311,7 +311,7 @@ Diff (max vs sum): 34
 | This game has Amazing Storytelling | 101 |
 | This game is Highly Recommended | 100 |
 | This game is Extremely Fun | 97 |
-| This game has Quickly Understood Controls | 95 |
+| This game has Quickly Understood Controls | 97 |
 | This game has Challenging Combat | 68 |
 | This game has a Creative Community | 39 |
 ## Ratings History
@@ -504,4 +504,4 @@ Diff (max vs sum): 34
 | 2023-12-28 | 4.21 | 104 | 525 |
 | 2023-12-29 | 4.20 | 106 | 532 |
 | 2023-12-30 | 4.21 | 107 | 536 |
-| 2023-12-31 | 4.21 | 107 | 539 |
+| 2023-12-31 | 4.21 | 107 | 541 |

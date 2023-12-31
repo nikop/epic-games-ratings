@@ -6,9 +6,9 @@
   "Ranking_Popularity": 515,
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 203,
-  "Ranking_EOS_Completed": 237,
+  "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -394,9 +394,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5164,
+  "EOS_Progressed": 5166,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -4419,6 +4419,11 @@
       "Time": "2023-12-31T16:08:14.9613554+00:00",
       "NumProgressed": 5164,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-31T17:07:56.7100157+00:00",
+      "NumProgressed": 5166,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4478,7 +4483,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4338
+      "UsersEstimate": 4339
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -4486,7 +4491,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4854
+      "UsersEstimate": 4856
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4494,7 +4499,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3976
+      "UsersEstimate": 3978
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -4502,7 +4507,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1859
+      "UsersEstimate": 1860
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -4598,7 +4603,7 @@
       "Name": "Right Tool for the Job",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "ID_ACHIEV_23",
@@ -4614,7 +4619,7 @@
       "Name": "Core Power",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "ID_ACHIEV_25",
@@ -4622,7 +4627,7 @@
       "Name": "Duty-Bound",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ID_ACHIEV_26",
@@ -4638,7 +4643,7 @@
       "Name": "Follow the White Rabbit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ID_ACHIEV_28",
@@ -4646,7 +4651,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3925
+      "UsersEstimate": 3926
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -4654,7 +4659,7 @@
       "Name": "Liberation",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ID_ACHIEV_30",
@@ -4678,7 +4683,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2789
+      "UsersEstimate": 2790
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -4710,7 +4715,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1705
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -4766,7 +4771,7 @@
       "Name": "GOLIATH",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -4774,7 +4779,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1807
+      "UsersEstimate": 1808
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -4876,9 +4881,9 @@
       "ID": "ID_ACHIEV_58",
       "SetID": "98bke8c",
       "Name": "Is This Real Life?",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 465
+      "UsersEstimate": 413
     },
     {
       "ID": "ID_ACHIEV_59",
@@ -4958,22 +4963,22 @@
       "Name": "Risk Assessment",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     }
   ],
   "AchievementSets": [
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5164,
+      "Progressed": 5166,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-24T15:57:46.3755439+00:00",
-  "LastChanged_Achievements": "2023-12-31T16:08:14.9613552+00:00",
+  "LastChanged_Achievements": "2023-12-31T17:07:56.7100152+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5404504+00:00",
-  "LastUpdate_Ratings": "2023-12-31T15:57:23.6967239+00:00",
-  "LastUpdate_Achievements": "2023-12-31T16:08:14.9614246+00:00"
+  "LastUpdate_Ratings": "2023-12-31T16:57:40.8585231+00:00",
+  "LastUpdate_Achievements": "2023-12-31T17:07:56.7100965+00:00"
 }

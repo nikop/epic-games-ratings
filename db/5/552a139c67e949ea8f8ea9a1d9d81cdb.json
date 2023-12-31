@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1762,
+  "EOS_Progressed": 1763,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4362,6 +4362,11 @@
       "Time": "2023-12-31T12:05:18.6562139+00:00",
       "NumProgressed": 1762,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T17:05:03.0179619+00:00",
+      "NumProgressed": 1763,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4542,7 +4547,7 @@
       "Name": "The Octopus",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -4628,9 +4633,9 @@
       "ID": "ML_ACHIEVEMENT_33",
       "SetID": "5k00jcd",
       "Name": "Spin the wheel",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 106
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -4638,7 +4643,7 @@
       "Name": "Beyond the limit",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -4741,20 +4746,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1762,
+      "Progressed": 1763,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1430,
+      "Progressed": 1431,
       "Completed": 1006
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-31T16:04:59.8341678+00:00",
+  "LastChanged_Achievements": "2023-12-31T17:05:03.0179615+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2023-12-31T15:58:22.3505045+00:00",
-  "LastUpdate_Achievements": "2023-12-31T16:04:59.8342389+00:00"
+  "LastUpdate_Ratings": "2023-12-31T16:58:43.2803974+00:00",
+  "LastUpdate_Achievements": "2023-12-31T17:05:03.0180271+00:00"
 }

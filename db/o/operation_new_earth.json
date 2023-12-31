@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2138,
+  "EOS_Progressed": 2139,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8215,6 +8215,11 @@
       "Time": "2023-12-31T16:05:29.1035001+00:00",
       "NumProgressed": 2138,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T17:05:31.8071477+00:00",
+      "NumProgressed": 2139,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8306,7 +8311,7 @@
       "Name": "Keeping Busy",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "objective_headquarters_15",
@@ -8402,7 +8407,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -8434,7 +8439,7 @@
       "Name": "Stocking Up",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -8466,7 +8471,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -8482,7 +8487,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -8529,7 +8534,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2138,
+      "Progressed": 2139,
       "Completed": 1
     }
   ],
@@ -8537,8 +8542,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2023-12-31T16:05:29.1034998+00:00",
+  "LastChanged_Achievements": "2023-12-31T17:05:31.8071473+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:25.9392392+00:00",
-  "LastUpdate_Ratings": "2023-12-31T15:57:05.3451301+00:00",
-  "LastUpdate_Achievements": "2023-12-31T16:05:29.1035644+00:00"
+  "LastUpdate_Ratings": "2023-12-31T16:57:21.6618044+00:00",
+  "LastUpdate_Achievements": "2023-12-31T17:05:31.8072028+00:00"
 }

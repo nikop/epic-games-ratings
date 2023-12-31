@@ -3,9 +3,9 @@
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_Completed": 248,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -1357,9 +1357,9 @@
       "ID": "AC_ALL_WEAPON_SLOTS",
       "SetID": "16i2akc",
       "Name": "Armory",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "AC_BLACKJACK_GAMES_1",
@@ -1381,9 +1381,9 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 176
     },
     {
       "ID": "AC_BOSS_01",
@@ -1405,17 +1405,17 @@
       "ID": "AC_BOSS_03",
       "SetID": "16i2akc",
       "Name": "Sacrilege",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 52
     },
     {
       "ID": "AC_BOSS_04",
       "SetID": "16i2akc",
       "Name": "Heresy",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 33
     },
     {
       "ID": "AC_COMBO_1",
@@ -1477,9 +1477,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 170
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1652,8 +1652,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-31T16:03:45.5338734+00:00",
+  "LastChanged_Achievements": "2023-12-31T17:03:51.5626545+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:54.1541826+00:00",
-  "LastUpdate_Ratings": "2023-12-31T15:58:09.3150367+00:00",
-  "LastUpdate_Achievements": "2023-12-31T16:03:45.5338988+00:00"
+  "LastUpdate_Ratings": "2023-12-31T16:58:29.503931+00:00",
+  "LastUpdate_Achievements": "2023-12-31T17:03:51.5627003+00:00"
 }

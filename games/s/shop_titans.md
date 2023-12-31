@@ -6,14 +6,14 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 10.00% | ~14,865 |
-| Titan's First Steps | 10.00% | ~14,865 |
-| Basic in Bulk | 9.00% | ~13,379 |
-| Tinkle of Coins | 8.00% | ~11,892 |
+| Sponsored by Argon | 10.00% | ~14,866 |
+| Titan's First Steps | 10.00% | ~14,866 |
+| Basic in Bulk | 9.00% | ~13,380 |
+| Tinkle of Coins | 8.00% | ~11,893 |
 | Disintermediation | 7.00% | ~10,406 |
 | Capitalism Ho! | 7.00% | ~10,406 |
-| It's Free Real Estate | 6.00% | ~8,919 |
-| Budding Merchant | 6.00% | ~8,919 |
+| It's Free Real Estate | 6.00% | ~8,920 |
+| Budding Merchant | 6.00% | ~8,920 |
 | One Easy Payment | 5.00% | ~7,433 |
 | Some Assembly Required | 5.00% | ~7,433 |
 | Another Satisfied Customer | 5.00% | ~7,433 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~595 |
 | Capitalist Camaraderie | 0.20% | ~297 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,653 (Ranked 85)  
-Completed: 340 (0.23%) (Ranked 267)  
+Progressed: 148,662 (Ranked 85)  
+Completed: 340 (0.23%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -374,14 +374,14 @@ Completed: 340 (0.23%) (Ranked 267)
 | 2023-12-28 | 148,196 | 337 |
 | 2023-12-29 | 148,353 | 338 |
 | 2023-12-30 | 148,534 | 340 |
-| 2023-12-31 | 148,653 | 340 |
+| 2023-12-31 | 148,662 | 340 |
 ## Awards
-Max (Great for Beginners): 4,931  (Ranked 77)  
-Sum: 27,875 (Ranked 51)  
+Max (Great for Beginners): 4,934  (Ranked 77)  
+Sum: 27,878 (Ranked 51)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,931 |
+| This game is Great for Beginners | 4,934 |
 | This game is Relaxing | 4,069 |
 | This game has Quickly Understood Controls | 4,063 |
 | This game has Diverse Characters | 4,008 |
@@ -726,4 +726,4 @@ Diff (max vs sum): 26
 | 2023-12-28 | 3.99 | - | 4,925 | 27,847 |
 | 2023-12-29 | 3.99 | - | 4,925 | 27,858 |
 | 2023-12-30 | 3.99 | - | 4,931 | 27,871 |
-| 2023-12-31 | 3.99 | - | 4,931 | 27,875 |
+| 2023-12-31 | 3.99 | - | 4,934 | 27,878 |

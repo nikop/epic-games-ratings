@@ -5,8 +5,8 @@ Rating: 4.56 (Ranked 502)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 16.00% | ~2,862 |
-| Captain Drummer | 13.00% | ~2,325 |
+| Oyedang, Kopengs | 16.00% | ~2,863 |
+| Captain Drummer | 13.00% | ~2,326 |
 | Celebrations are in Order | 12.00% | ~2,147 |
 | The Pit and the Pirates | 11.00% | ~1,968 |
 | Martian Music | 11.00% | ~1,968 |
@@ -18,15 +18,15 @@ Rating: 4.56 (Ranked 502)
 | Safe Cracker | 9.00% | ~346 |
 | Zen Master | 9.00% | ~346 |
 | Call it Even | 8.00% | ~1,431 |
-| Madame Undersecretary | 8.00% | ~307 |
-| Heal Thy Medic | 7.00% | ~1,252 |
+| Madame Undersecretary | 8.00% | ~308 |
+| Heal Thy Medic | 7.00% | ~1,253 |
 | Keep Arjun in Check | 7.00% | ~269 |
-| Data Archivist | 6.00% | ~1,073 |
-| Drug Gifter | 6.00% | ~1,073 |
-| Thorston Mayer | 6.00% | ~1,073 |
-| Khan's Revenge | 6.00% | ~1,073 |
-| Doctor Approved | 5.00% | ~894 |
-| Bottoms up! | 5.00% | ~894 |
+| Data Archivist | 6.00% | ~1,074 |
+| Drug Gifter | 6.00% | ~1,074 |
+| Thorston Mayer | 6.00% | ~1,074 |
+| Khan's Revenge | 6.00% | ~1,074 |
+| Doctor Approved | 5.00% | ~895 |
+| Bottoms up! | 5.00% | ~895 |
 | Master Negotiator | 5.00% | ~192 |
 | Data Logger | 4.00% | ~716 |
 | Miraculous Maya | 4.00% | ~716 |
@@ -41,8 +41,8 @@ Rating: 4.56 (Ranked 502)
 | Scavenger Star | 0.30% | ~54 |
 | Data Collector | 0.20% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,888 (Ranked 157)  
-Completed: 57 (0.32%) (Ranked 246)  
+Progressed: 17,893 (Ranked 157)  
+Completed: 57 (0.32%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -203,7 +203,7 @@ Completed: 57 (0.32%) (Ranked 246)
 | 2023-12-28 | 17,675 | 56 |
 | 2023-12-29 | 17,756 | 57 |
 | 2023-12-30 | 17,838 | 57 |
-| 2023-12-31 | 17,888 | 57 |
+| 2023-12-31 | 17,893 | 57 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

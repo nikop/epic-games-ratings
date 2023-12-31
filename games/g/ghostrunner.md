@@ -6,54 +6,54 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 75.00% | ~19,205 |
-| Sword Runner | 61.00% | ~15,620 |
-| Running out of breath | 53.00% | ~13,572 |
-| Wallrunner | 53.00% | ~13,572 |
-| Homerunner | 44.00% | ~11,267 |
-| Out of order | 44.00% | ~11,267 |
-| I call it luck | 43.00% | ~11,011 |
-| Where are my Keys? | 40.00% | ~10,243 |
-| Back to hell | 36.00% | ~9,219 |
-| Perfection | 32.00% | ~8,194 |
-| Sword to a gunfight | 29.00% | ~7,426 |
-| Upgrades not mandatory | 29.00% | ~7,426 |
-| Why not both | 29.00% | ~7,426 |
-| Artificial selection | 27.00% | ~6,914 |
-| Control freak | 27.00% | ~6,914 |
-| Running Wild | 26.00% | ~6,658 |
-| Finish line | 25.00% | ~6,402 |
-| Unstoppable force | 22.00% | ~5,634 |
-| Wave of mutilation | 21.00% | ~5,377 |
-| Can't Run Can't Hide | 16.00% | ~4,097 |
-| R is for Running | 15.00% | ~3,841 |
-| Dead in the air | 14.00% | ~3,585 |
-| Improvise, adapt, overrun | 12.00% | ~3,073 |
-| Pre-empative strike | 12.00% | ~3,073 |
-| Strike | 12.00% | ~3,073 |
-| More than human | 11.00% | ~2,817 |
-| Triple A | 9.00% | ~2,305 |
-| Fine addition | 6.00% | ~1,536 |
-| One Of Those Days | 6.00% | ~1,536 |
-| Where He Stood | 5.00% | ~1,280 |
-| Push it to the limit | 4.00% | ~1,024 |
-| Scrapped | 4.00% | ~1,024 |
-| About Adam | 3.00% | ~768 |
-| Just A Man | 3.00% | ~768 |
-| Strafing Run | 3.00% | ~768 |
-| Junkrunner | 2.00% | ~512 |
-| One man's trash | 2.00% | ~512 |
-| Hit me if you can | 1.00% | ~256 |
-| Obedient Machine | 0.90% | ~230 |
-| Everyone Needs A Hobby | 0.70% | ~179 |
-| Legacy Drivers | 0.50% | ~128 |
-| A Grade | 0.40% | ~102 |
-| GR Project Complete | 0.40% | ~102 |
-| Sticks And Stones | 0.40% | ~102 |
-| Up Close And Personal | 0.40% | ~102 |
+| Longrunner | 47.00% | ~20,493 |
+| Sword Runner | 37.00% | ~16,133 |
+| Running out of breath | 32.00% | ~13,953 |
+| Wallrunner | 32.00% | ~13,953 |
+| Homerunner | 27.00% | ~11,773 |
+| Out of order | 27.00% | ~11,773 |
+| I call it luck | 26.00% | ~11,337 |
+| Where are my Keys? | 24.00% | ~10,464 |
+| Back to hell | 22.00% | ~9,592 |
+| Perfection | 19.00% | ~8,284 |
+| Why not both | 18.00% | ~7,848 |
+| Artificial selection | 17.00% | ~7,412 |
+| Sword to a gunfight | 17.00% | ~7,412 |
+| Upgrades not mandatory | 17.00% | ~7,412 |
+| Finish line | 16.00% | ~6,976 |
+| Control freak | 16.00% | ~6,976 |
+| Running Wild | 16.00% | ~6,976 |
+| Unstoppable force | 13.00% | ~5,668 |
+| Wave of mutilation | 13.00% | ~5,668 |
+| Can't Run Can't Hide | 9.00% | ~3,924 |
+| Dead in the air | 9.00% | ~3,924 |
+| R is for Running | 9.00% | ~3,924 |
+| Improvise, adapt, overrun | 7.00% | ~3,052 |
+| More than human | 7.00% | ~3,052 |
+| Pre-empative strike | 7.00% | ~3,052 |
+| Strike | 7.00% | ~3,052 |
+| Triple A | 5.00% | ~2,180 |
+| Fine addition | 4.00% | ~1,744 |
+| One Of Those Days | 4.00% | ~1,744 |
+| Push it to the limit | 3.00% | ~1,308 |
+| Where He Stood | 3.00% | ~1,308 |
+| About Adam | 2.00% | ~872 |
+| Just A Man | 2.00% | ~872 |
+| Scrapped | 2.00% | ~872 |
+| Strafing Run | 2.00% | ~872 |
+| Junkrunner | 1.00% | ~436 |
+| One man's trash | 1.00% | ~436 |
+| Hit me if you can | 0.90% | ~392 |
+| Obedient Machine | 0.60% | ~262 |
+| Everyone Needs A Hobby | 0.40% | ~174 |
+| Legacy Drivers | 0.30% | ~131 |
+| Sticks And Stones | 0.30% | ~131 |
+| A Grade | 0.20% | ~87 |
+| GR Project Complete | 0.20% | ~87 |
+| Up Close And Personal | 0.20% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,607 (Ranked 144)  
-Completed: 99 (0.39%) (Ranked 233)  
+Progressed: 43,602 (Ranked 128)  
+Completed: 99 (0.23%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -307,7 +307,7 @@ Completed: 99 (0.39%) (Ranked 233)
 | 2023-12-28 | 25,305 | 98 |
 | 2023-12-29 | 25,370 | 98 |
 | 2023-12-30 | 25,463 | 98 |
-| 2023-12-31 | 25,607 | 99 |
+| 2023-12-31 | 43,602 | 99 |
 ## Awards
 Max (Great Boss Battles): 533  (Ranked 216)  
 Sum: 719 (Ranked 305)  

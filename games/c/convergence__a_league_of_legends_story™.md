@@ -1,7 +1,7 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.65 (Ranked 325)  
+Rating: 4.65 (Ranked 326)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,27 +9,27 @@ Rating: 4.65 (Ranked 325)
 | Rail Rat | 32.00% | ~375 |
 | The Mysterious Stranger | 31.00% | ~363 |
 | Immaculate Aim | 27.00% | ~316 |
-| The Brass Boss | 26.00% | ~304 |
-| Time Flies | 25.00% | ~293 |
+| The Brass Boss | 26.00% | ~305 |
 | The Prince in Heels | 25.00% | ~293 |
 | Make Up For Lost Time | 24.00% | ~281 |
+| Time Flies | 24.00% | ~281 |
 | The Harder They Fall | 24.00% | ~281 |
 | No, Thanks! | 24.00% | ~281 |
 | Honest Mistake | 24.00% | ~281 |
 | Fast Learner | 24.00% | ~281 |
 | Immaculate Aim | 24.00% | ~281 |
-| The Steel Shadow | 23.00% | ~269 |
-| Breaking Down Barriers | 23.00% | ~269 |
+| The Steel Shadow | 23.00% | ~270 |
+| Breaking Down Barriers | 23.00% | ~270 |
 | The Wicked Twins | 22.00% | ~258 |
 | Right On Time | 21.00% | ~246 |
 | Like Clockwork | 21.00% | ~246 |
+| The Betrayer | 21.00% | ~246 |
 | Golem Chaser | 21.00% | ~246 |
-| The Betrayer | 20.00% | ~234 |
-| The Loose Cannon | 19.00% | ~222 |
-| Check Your Pulse | 19.00% | ~222 |
-| Street Style | 18.00% | ~211 |
+| The Loose Cannon | 19.00% | ~223 |
+| Check Your Pulse | 19.00% | ~223 |
 | The Man Who Shattered Time | 18.00% | ~211 |
 | The Family Fortune | 18.00% | ~211 |
+| Street Style | 17.00% | ~199 |
 | Whiz Kid | 15.00% | ~176 |
 | Good Neighbor | 14.00% | ~164 |
 | Family Memories | 13.00% | ~152 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 325)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,171 (Ranked 279)  
+Progressed: 1,172 (Ranked 279)  
 Completed: 6 (0.51%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 6 (0.51%) (Ranked 217)
 | 2023-12-28 | 1,136 | 6 |
 | 2023-12-29 | 1,145 | 6 |
 | 2023-12-30 | 1,165 | 6 |
-| 2023-12-31 | 1,171 | 6 |
+| 2023-12-31 | 1,172 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

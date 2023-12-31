@@ -45,7 +45,7 @@ Rating: 3.61 (Ranked 1,080)
 | Empty Nest Syndrome | 0.70% | ~15 |
 | Bloody Initiate | 0.70% | ~15 |
 | Dexterity Save | 0.70% | ~15 |
-| Neighborhood Watch | 0.50% | ~11 |
+| Neighborhood Watch | 0.60% | ~13 |
 | Blood Brother | 0.50% | ~11 |
 | Sisterhood | 0.50% | ~11 |
 | What Lies Below | 0.50% | ~11 |
@@ -72,7 +72,7 @@ Rating: 3.61 (Ranked 1,080)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,184 (Ranked 237)  
+Progressed: 2,184 (Ranked 238)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |

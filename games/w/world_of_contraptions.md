@@ -7,7 +7,7 @@
 | Starting to take notes | 70.00% | ~266 |
 | The first of many | 56.00% | ~213 |
 | Graduated in contraptions | 18.00% | ~68 |
-| First medium level | 8.00% | ~30 |
+| First medium level | 9.00% | ~34 |
 | Easy group | 5.00% | ~19 |
 | First hard level | 2.00% | ~8 |
 | Medium group | 1.00% | ~4 |
