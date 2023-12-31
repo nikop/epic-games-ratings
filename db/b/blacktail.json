@@ -6,7 +6,7 @@
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 298,
-  "Ranking_EOS_Completed": 301,
+  "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
@@ -2815,9 +2815,9 @@
       "ID": "Queen",
       "SetID": "2aagp3d",
       "Name": "Queen",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 34
+      "UsersEstimate": 42
     },
     {
       "ID": "Rats",
@@ -2920,8 +2920,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:09:49.1715747+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:09:52.8183263+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:21.1393886+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:58:25.5687023+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:09:49.1716061+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:58:30.914139+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:09:52.8183584+00:00"
 }

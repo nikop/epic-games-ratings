@@ -1,25 +1,25 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.52 (Ranked 573)  
+Rating: 4.52 (Ranked 572)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 94.00% | ~5,640 |
-| I will survive! | 93.00% | ~5,580 |
-| All thumbs | 92.00% | ~5,520 |
-| Home, sweet home | 91.00% | ~5,460 |
-| Survivalist | 90.00% | ~5,400 |
-| One way ticket | 85.00% | ~5,100 |
-| Last man standing | 81.00% | ~4,860 |
-| Family guy | 77.00% | ~4,620 |
-| Out of the Bag | 76.00% | ~4,560 |
-| The Dark Side | 71.00% | ~4,260 |
-| Souper! | 66.00% | ~3,960 |
-| Duck and cover! | 66.00% | ~3,960 |
-| 2-1-6 | 60.00% | ~3,600 |
-| Pacifist | 60.00% | ~3,600 |
-| A gift | 55.00% | ~3,300 |
+| Prepper | 94.00% | ~5,641 |
+| I will survive! | 93.00% | ~5,581 |
+| All thumbs | 92.00% | ~5,521 |
+| Home, sweet home | 91.00% | ~5,461 |
+| Survivalist | 90.00% | ~5,401 |
+| One way ticket | 85.00% | ~5,101 |
+| Last man standing | 81.00% | ~4,861 |
+| Family guy | 77.00% | ~4,621 |
+| Out of the Bag | 76.00% | ~4,561 |
+| The Dark Side | 71.00% | ~4,261 |
+| Souper! | 66.00% | ~3,961 |
+| Duck and cover! | 66.00% | ~3,961 |
+| 2-1-6 | 60.00% | ~3,601 |
+| Pacifist | 60.00% | ~3,601 |
+| A gift | 55.00% | ~3,301 |
 | Girl Power | 49.00% | ~2,940 |
 | What goes around... | 45.00% | ~2,700 |
 | Be Prepared | 39.00% | ~2,340 |
@@ -32,8 +32,8 @@ Rating: 4.52 (Ranked 573)
 | Rescue time! | 19.00% | ~1,140 |
 | New order | 18.00% | ~1,080 |
 | New species | 17.00% | ~1,020 |
-| A New Hope | 16.00% | ~960 |
 | Enigma | 16.00% | ~960 |
+| A New Hope | 15.00% | ~900 |
 | Challenger | 13.00% | ~780 |
 | Men in Black | 13.00% | ~780 |
 | No stone unturned | 12.00% | ~720 |
@@ -58,15 +58,15 @@ Rating: 4.52 (Ranked 573)
 | Konrad style! | 1.00% | ~60 |
 | Cat Lady | 0.90% | ~54 |
 | Bughunter | 0.80% | ~48 |
-| Naysayer | 0.70% | ~42 |
 | Pro gamer | 0.70% | ~42 |
+| Naysayer | 0.60% | ~36 |
 | Manhattan Project | 0.60% | ~36 |
 | Fair Exchange | 0.40% | ~24 |
 | Miracle | 0.30% | ~18 |
 | Tora! Tora! Tora! | 0.20% | ~12 |
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,000 (Ranked 197)  
+Progressed: 6,001 (Ranked 197)  
 Completed: 1 (0.02%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 1 (0.02%) (Ranked 358)
 | 2023-12-28 | 5,965 | 1 |
 | 2023-12-29 | 5,972 | 1 |
 | 2023-12-30 | 5,989 | 1 |
-| 2023-12-31 | 6,000 | 1 |
+| 2023-12-31 | 6,001 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

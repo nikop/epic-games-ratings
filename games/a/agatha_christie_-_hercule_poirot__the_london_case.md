@@ -5,16 +5,16 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Marc Allard | 75.00% | ~62 |
-| Little ideas | 71.00% | ~59 |
-| The Ship | 67.00% | ~56 |
-| Seeking the truth | 54.00% | ~45 |
-| An old friend | 52.00% | ~43 |
-| The Gala | 51.00% | ~42 |
-| A curious gathering | 48.00% | ~40 |
-| Little grey cells | 47.00% | ~39 |
-| Impossible is possible | 47.00% | ~39 |
+| Little ideas | 72.00% | ~60 |
+| The Ship | 69.00% | ~57 |
+| Seeking the truth | 55.00% | ~46 |
+| An old friend | 53.00% | ~44 |
+| The Gala | 52.00% | ~43 |
+| A curious gathering | 49.00% | ~41 |
+| Little grey cells | 48.00% | ~40 |
+| Impossible is possible | 48.00% | ~40 |
+| Arthur Hastings | 48.00% | ~40 |
 | The Missing Magdalene | 47.00% | ~39 |
-| Arthur Hastings | 47.00% | ~39 |
 | Everything matters | 42.00% | ~35 |
 | DI Hardwicke | 42.00% | ~35 |
 | An expert mediator | 41.00% | ~34 |

@@ -5,7 +5,7 @@ Rating: 4.42 (Ranked 734)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 76.00% | ~1,968 |
+| Country Bumpkin | 77.00% | ~1,994 |
 | A new Journey | 75.00% | ~1,942 |
 | From X to Y | 74.00% | ~1,916 |
 | Departure | 74.00% | ~1,916 |
@@ -33,8 +33,8 @@ Rating: 4.42 (Ranked 734)
 | General Manager | 29.00% | ~751 |
 | Socializer | 29.00% | ~751 |
 | Country Life | 28.00% | ~725 |
+| Seven at one stroke | 25.00% | ~647 |
 | Hostile Takeover | 25.00% | ~647 |
-| Seven at one stroke | 24.00% | ~621 |
 | Trailblazer | 22.00% | ~570 |
 | Traffic Junction | 22.00% | ~570 |
 | Breaking Ground | 22.00% | ~570 |
@@ -42,8 +42,8 @@ Rating: 4.42 (Ranked 734)
 | Resistance is futile | 17.00% | ~440 |
 | Networker | 17.00% | ~440 |
 | Bold and beautiful | 16.00% | ~414 |
+| Settler | 16.00% | ~414 |
 | Assimilated | 15.00% | ~388 |
-| Settler | 15.00% | ~388 |
 | Go West | 14.00% | ~362 |
 | Max Power | 14.00% | ~362 |
 | Locusts | 14.00% | ~362 |

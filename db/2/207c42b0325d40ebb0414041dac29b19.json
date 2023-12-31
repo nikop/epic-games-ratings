@@ -2,12 +2,12 @@
   "ID": "207c42b0325d40ebb0414041dac29b19",
   "Name": "Melvor Idle",
   "ProductSlug": "melvor-idle-b6a9b3",
-  "Ranking_Rating": 444,
+  "Ranking_Rating": 426,
   "Ranking_Popularity": 214,
-  "Ranking_PopularitySum": 315,
+  "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-21T16:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.6,
   "RatingHistory": [
     {
       "Time": "2023-12-22T16:57:30.2372034+00:00",
@@ -203,10 +203,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 672,
       "NumberOfAwardsMax": 544
+    },
+    {
+      "Time": "2023-12-31T17:58:38.1711204+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 720,
+      "NumberOfAwardsMax": 544
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 672,
+  "NumberOfAwards": 720,
   "NumberOfAwardsMax": 544,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -251,6 +257,18 @@
       "Prefix": "This game is",
       "Type": "Relaxing",
       "Count": 28
+    },
+    {
+      "Text": "This game has Easy Combat",
+      "Prefix": "This game has",
+      "Type": "Easy Combat",
+      "Count": 24
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 24
     }
   ],
   "EOS_Progressed": 0,
@@ -265,8 +283,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-21T16:57:07.0640742+00:00",
   "FirstSeenRating": "2023-12-22T16:57:30.2372031+00:00",
-  "LastChanged": "2023-12-31T14:58:58.1731709+00:00",
+  "LastChanged": "2023-12-31T17:58:38.1711202+00:00",
   "LastUpdate_AppInfo": "2023-12-28T16:57:08.7268942+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:58:31.6661233+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:04:12.299655+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:58:38.1711207+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:04:15.0556121+00:00"
 }

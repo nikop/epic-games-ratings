@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1763,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4673,9 +4673,9 @@
       "ID": "ML_ACHIEVEMENT_38",
       "SetID": "5k00jcd",
       "Name": "Spoiled for choice",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -4758,8 +4758,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:05:03.0179615+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:05:12.3916638+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:58:43.2803974+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:05:03.0180271+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:58:50.571885+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:05:12.391711+00:00"
 }

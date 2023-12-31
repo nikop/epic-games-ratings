@@ -4,7 +4,7 @@
   "ProductSlug": "truberbrook",
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:37.5017424+00:00",
   "LastChanged": "2023-03-31T05:58:37.5017425+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:40.0855656+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:57:28.9966687+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:05:33.2686957+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:57:27.4028119+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:05:46.3072598+00:00"
 }

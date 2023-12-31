@@ -2,10 +2,10 @@
   "ID": "aa192fc2c63f4db5b9faf193acc807e1",
   "Name": "Creepy Tale",
   "ProductSlug": "creepy-tale-058ebd",
-  "Ranking_EOS_Progress": 421,
+  "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 77,
   "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2021-02-21T17:00:00+00:00",
@@ -1025,17 +1025,17 @@
       "ID": "creepytaleach4",
       "SetID": "bnif31p",
       "Name": "Dominance",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "creepytaleach5",
       "SetID": "bnif31p",
       "Name": "Incorrigible researcher",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "creepytaleach6",
@@ -1080,8 +1080,8 @@
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:09:43.4307244+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:09:46.4644811+00:00",
   "LastUpdate_AppInfo": "2023-12-27T07:56:54.2023855+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:58:35.3638058+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:09:43.4307366+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:58:42.3895111+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:09:46.4644898+00:00"
 }

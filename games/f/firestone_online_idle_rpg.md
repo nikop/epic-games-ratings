@@ -5,15 +5,15 @@ Rating: 4.03 (Ranked 1,028)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,732 |
-| World Map | 78.00% | ~3,130 |
-| Temple of Eternals | 56.00% | ~2,247 |
+| Victor | 93.00% | ~3,733 |
+| World Map | 78.00% | ~3,131 |
+| Temple of Eternals | 56.00% | ~2,248 |
 | Prestigious | 52.00% | ~2,087 |
-| Fellowship Power | 42.00% | ~1,685 |
+| Fellowship Power | 42.00% | ~1,686 |
 | Full Party | 27.00% | ~1,084 |
 | Guild Power | 23.00% | ~923 |
 | Prestigious x10 | 20.00% | ~803 |
-| The game is on | 18.00% | ~722 |
+| The game is on | 18.00% | ~723 |
 | Exotic Merchant | 16.00% | ~642 |
 | Dragon Clicker | 15.00% | ~602 |
 | Miner Clicker | 15.00% | ~602 |
@@ -22,14 +22,14 @@ Rating: 4.03 (Ranked 1,028)
 | Dragon Master | 13.00% | ~522 |
 | Hero inspection | 13.00% | ~522 |
 | Lieutenant | 12.00% | ~482 |
-| Milestone collector | 11.00% | ~441 |
-| Mysterious Rock | 11.00% | ~441 |
-| Natural Talent | 11.00% | ~441 |
-| Superior | 11.00% | ~441 |
-| The Unstoppable | 11.00% | ~441 |
+| Milestone collector | 11.00% | ~442 |
+| Mysterious Rock | 11.00% | ~442 |
+| Natural Talent | 11.00% | ~442 |
+| Superior | 11.00% | ~442 |
+| The Unstoppable | 11.00% | ~442 |
+| Scientist | 10.00% | ~401 |
 | Doing My Part | 9.00% | ~361 |
 | Hunter | 9.00% | ~361 |
-| Scientist | 9.00% | ~361 |
 | The power of Awakening | 9.00% | ~361 |
 | Challenger | 8.00% | ~321 |
 | Daily Quest Completionist | 8.00% | ~321 |
@@ -81,7 +81,7 @@ Rating: 4.03 (Ranked 1,028)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,013 (Ranked 209)  
+Progressed: 4,014 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 2 (0.05%) (Ranked 334)
 | 2023-12-28 | 3,911 | 2 |
 | 2023-12-29 | 3,948 | 2 |
 | 2023-12-30 | 3,984 | 2 |
-| 2023-12-31 | 4,013 | 2 |
+| 2023-12-31 | 4,014 | 2 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 478)  
 Sum: 129 (Ranked 445)  

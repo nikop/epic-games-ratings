@@ -5,9 +5,9 @@
   "Ranking_Rating": 873,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
-  "Ranking_EOS_Progress": 446,
+  "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 150,
+  "EOS_Progressed": 151,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1131,6 +1131,11 @@
       "Time": "2023-12-31T16:05:05.5681075+00:00",
       "NumProgressed": 150,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T18:05:18.7753887+00:00",
+      "NumProgressed": 151,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1183,15 +1188,15 @@
       "Name": "Treasure Hunter",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "20AUDIOLOGS",
       "SetID": "a1angca",
       "Name": "Storyteller",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "20TELEPORTS",
@@ -1199,7 +1204,7 @@
       "Name": "Beam Me Up",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "20TRADER",
@@ -1207,7 +1212,7 @@
       "Name": "Peddler",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "20WEAPONSCRAFTED",
@@ -1239,7 +1244,7 @@
       "Name": "Alchemist",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "30SAVESHACKED",
@@ -1271,7 +1276,7 @@
       "Name": "Military Leader",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ALLCOMBAT",
@@ -1287,7 +1292,7 @@
       "Name": "Self-Sufficient",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ALLJETPACK",
@@ -1303,7 +1308,7 @@
       "Name": "Idealist",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ALLSURVIVAL",
@@ -1311,7 +1316,7 @@
       "Name": "Unbreakable",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ALLXP",
@@ -1359,7 +1364,7 @@
       "Name": "Cleric",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "CHOSEMOR",
@@ -1383,7 +1388,7 @@
       "Name": "Creator",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "DESTRUCTION",
@@ -1407,7 +1412,7 @@
       "Name": "Commander",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "FINDBILLY",
@@ -1429,9 +1434,9 @@
       "ID": "FINDCRONY",
       "SetID": "a1angca",
       "Name": "Best Buddy",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 39
     },
     {
       "ID": "FINDMAP",
@@ -1535,22 +1540,22 @@
       "Name": "Lover",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 150,
+      "Progressed": 151,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:05:08.818615+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:05:18.7753884+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:16.9599546+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:58:57.5092737+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:05:08.8186476+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:59:07.6540301+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:05:18.7754373+00:00"
 }

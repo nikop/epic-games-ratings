@@ -1,11 +1,11 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.12 (Ranked 998)  
+Rating: 4.12 (Ranked 999)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 58.00% | ~906 |
+| Break Out | 58.00% | ~907 |
 | Trinity | 29.00% | ~453 |
 | Find Allies | 22.00% | ~344 |
 | A Taste of Wrath | 22.00% | ~344 |
@@ -13,13 +13,13 @@ Rating: 4.12 (Ranked 998)
 | The Collector | 22.00% | ~344 |
 | Shatter Them All | 21.00% | ~328 |
 | Geared Up | 21.00% | ~328 |
-| Adventurer | 20.00% | ~312 |
-| Scholar | 20.00% | ~312 |
+| Adventurer | 20.00% | ~313 |
+| Scholar | 20.00% | ~313 |
 | Fashion Victim | 19.00% | ~297 |
 | Stone Collection | 19.00% | ~297 |
 | Powerful Allies | 18.00% | ~281 |
 | Tributes of Caladrias | 18.00% | ~281 |
-| Big Bazar | 12.00% | ~187 |
+| Big Bazar | 12.00% | ~188 |
 | Essence Blow | 11.00% | ~172 |
 | Alchemist | 11.00% | ~172 |
 | The Mentor | 10.00% | ~156 |
@@ -28,9 +28,9 @@ Rating: 4.12 (Ranked 998)
 | To Battle | 6.00% | ~94 |
 | Godslayer | 6.00% | ~94 |
 | Miner | 6.00% | ~94 |
-| Clear Sight | 4.00% | ~62 |
-| Shatterer | 4.00% | ~62 |
-| Fine Feathers Make Fine Birds | 4.00% | ~62 |
+| Clear Sight | 4.00% | ~63 |
+| Shatterer | 4.00% | ~63 |
+| Fine Feathers Make Fine Birds | 4.00% | ~63 |
 | Slayer | 2.00% | ~31 |
 | Flawless Victory | 2.00% | ~31 |
 | All There Is | 2.00% | ~31 |
@@ -38,12 +38,12 @@ Rating: 4.12 (Ranked 998)
 | Shardbearer | 1.00% | ~16 |
 | False God | 1.00% | ~16 |
 | Forgemaster | 0.90% | ~14 |
-| Summiter | 0.80% | ~12 |
+| Summiter | 0.80% | ~13 |
 | All That Gold | 0.70% | ~11 |
 | Feeling Fancy | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,562 (Ranked 261)  
-Completed: 3 (0.19%) (Ranked 275)  
+Progressed: 1,563 (Ranked 260)  
+Completed: 3 (0.19%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -122,7 +122,7 @@ Completed: 3 (0.19%) (Ranked 275)
 | 2023-12-28 | 1,412 | 3 |
 | 2023-12-29 | 1,459 | 3 |
 | 2023-12-30 | 1,519 | 3 |
-| 2023-12-31 | 1,562 | 3 |
+| 2023-12-31 | 1,563 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

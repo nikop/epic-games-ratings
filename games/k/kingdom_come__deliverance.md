@@ -6,28 +6,28 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~260,892 |
-| Cavalier | 26.00% | ~211,975 |
-| Fatso | 23.00% | ~187,516 |
-| Awakening | 21.00% | ~171,210 |
-| Ranger | 20.00% | ~163,058 |
-| Scrooge | 20.00% | ~163,058 |
-| Anorectic | 16.00% | ~130,446 |
-| Firestarter | 16.00% | ~130,446 |
-| Bookworm | 15.00% | ~122,293 |
-| Insomniac | 13.00% | ~105,987 |
-| Buddy | 12.00% | ~97,835 |
-| Thief | 12.00% | ~97,835 |
-| Sinner | 11.00% | ~89,682 |
-| Traveller | 11.00% | ~89,682 |
-| Convict | 10.00% | ~81,529 |
-| Haggler | 9.00% | ~73,376 |
-| McLovin | 7.00% | ~57,070 |
-| Runt | 7.00% | ~57,070 |
-| Casanova | 6.00% | ~48,917 |
-| Bad Trip | 5.00% | ~40,764 |
-| Monk | 5.00% | ~40,764 |
-| Serial Killer | 5.00% | ~40,764 |
+| Blacksmith's Son | 32.00% | ~260,895 |
+| Cavalier | 26.00% | ~211,977 |
+| Fatso | 23.00% | ~187,518 |
+| Awakening | 21.00% | ~171,212 |
+| Ranger | 20.00% | ~163,059 |
+| Scrooge | 20.00% | ~163,059 |
+| Anorectic | 16.00% | ~130,447 |
+| Firestarter | 16.00% | ~130,447 |
+| Bookworm | 15.00% | ~122,294 |
+| Insomniac | 13.00% | ~105,988 |
+| Buddy | 12.00% | ~97,836 |
+| Thief | 12.00% | ~97,836 |
+| Sinner | 11.00% | ~89,683 |
+| Traveller | 11.00% | ~89,683 |
+| Convict | 10.00% | ~81,530 |
+| Haggler | 9.00% | ~73,377 |
+| McLovin | 7.00% | ~57,071 |
+| Runt | 7.00% | ~57,071 |
+| Casanova | 6.00% | ~48,918 |
+| Bad Trip | 5.00% | ~40,765 |
+| Monk | 5.00% | ~40,765 |
+| Serial Killer | 5.00% | ~40,765 |
 | Bastard | 4.00% | ~32,612 |
 | Hunter | 4.00% | ~32,612 |
 | Plague Doctor | 4.00% | ~32,612 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~815 |
 | Wingman | 0.10% | ~815 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 815,288 (Ranked 19)  
+Progressed: 815,296 (Ranked 19)  
 Completed: 53 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,14 +344,14 @@ Completed: 53 (0.01%) (Ranked 368)
 | 2023-12-28 | 814,823 | 53 |
 | 2023-12-29 | 814,990 | 53 |
 | 2023-12-30 | 815,171 | 53 |
-| 2023-12-31 | 815,288 | 53 |
+| 2023-12-31 | 815,296 | 53 |
 ## Awards
-Max (Character Customization): 7,728  (Ranked 53)  
-Sum: 28,696 (Ranked 50)  
+Max (Character Customization): 7,732  (Ranked 53)  
+Sum: 28,700 (Ranked 50)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,728 |
+| This game has Inclusive Character Customization | 7,732 |
 | This game has Great Boss Battles | 5,648 |
 | This game has Challenging Combat | 1,797 |
 | This game has Diverse Characters | 1,767 |
@@ -704,3 +704,4 @@ Diff (max vs sum): 3
 | 2023-12-28 | 4.71 | - | 7,720 | 28,658 |
 | 2023-12-29 | 4.71 | - | 7,723 | 28,669 |
 | 2023-12-30 | 4.71 | - | 7,728 | 28,696 |
+| 2023-12-31 | 4.71 | - | 7,732 | 28,700 |

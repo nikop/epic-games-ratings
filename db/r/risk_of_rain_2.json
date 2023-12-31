@@ -2,12 +2,12 @@
   "ID": "0dfcaeede0214b80b597f08fd7d64b1b",
   "Name": "Risk of Rain 2",
   "ProductSlug": "risk-of-rain-2",
-  "Ranking_Rating": 57,
+  "Ranking_Rating": 58,
   "Ranking_Popularity": 266,
   "Ranking_PopularitySum": 193,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-19T15:00:00+00:00",
@@ -3297,10 +3297,16 @@
       "Rating": 4.83,
       "NumberOfAwards": 2679,
       "NumberOfAwardsMax": 285
+    },
+    {
+      "Time": "2023-12-31T18:00:19.8233555+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 2681,
+      "NumberOfAwardsMax": 285
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2679,
+  "NumberOfAwards": 2681,
   "NumberOfAwardsMax": 285,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3326,7 +3332,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 269
+      "Count": 271
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3388,8 +3394,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:31.4387684+00:00",
-  "LastChanged": "2023-12-30T23:01:35.4248126+00:00",
+  "LastChanged": "2023-12-31T18:00:19.8233554+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:58.5305434+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:00:01.0610038+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:04:33.0025546+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:00:19.8233559+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:04:38.4142207+00:00"
 }

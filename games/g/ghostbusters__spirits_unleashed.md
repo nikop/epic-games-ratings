@@ -1,11 +1,11 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 612)  
+Rating: 4.50 (Ranked 611)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 10.00% | ~3,301 |
+| Stylish | 10.00% | ~3,302 |
 | Advancement | 8.00% | ~2,641 |
 | Meticulously Efficient | 8.00% | ~2,641 |
 | Discovery | 6.00% | ~1,981 |
@@ -15,23 +15,23 @@ Rating: 4.50 (Ranked 612)
 | Fully Upgraded | 5.00% | ~1,651 |
 | Teamwork | 5.00% | ~1,651 |
 | Vaporous Expansion | 5.00% | ~1,651 |
-| Clutch Capture | 4.00% | ~1,320 |
-| Cultured | 4.00% | ~1,320 |
-| Daily Dose | 4.00% | ~1,320 |
-| Ghostbuster In Training | 4.00% | ~1,320 |
-| There you are! | 4.00% | ~1,320 |
-| Whoopsie | 4.00% | ~1,320 |
-| Animated | 3.00% | ~990 |
-| Back Off | 3.00% | ~990 |
-| We have the best insurance | 3.00% | ~990 |
-| Ectoplasmic Entity | 3.00% | ~990 |
-| Icing on the Cake | 3.00% | ~990 |
-| Legions | 3.00% | ~990 |
-| Pesky Jerks | 3.00% | ~990 |
-| Right back at ya | 3.00% | ~990 |
-| Seasoned | 3.00% | ~990 |
-| Side Hustle | 3.00% | ~990 |
-| Summoner | 3.00% | ~990 |
+| Clutch Capture | 4.00% | ~1,321 |
+| Cultured | 4.00% | ~1,321 |
+| Daily Dose | 4.00% | ~1,321 |
+| Ghostbuster In Training | 4.00% | ~1,321 |
+| There you are! | 4.00% | ~1,321 |
+| Whoopsie | 4.00% | ~1,321 |
+| Animated | 3.00% | ~991 |
+| Back Off | 3.00% | ~991 |
+| We have the best insurance | 3.00% | ~991 |
+| Ectoplasmic Entity | 3.00% | ~991 |
+| Icing on the Cake | 3.00% | ~991 |
+| Legions | 3.00% | ~991 |
+| Pesky Jerks | 3.00% | ~991 |
+| Right back at ya | 3.00% | ~991 |
+| Seasoned | 3.00% | ~991 |
+| Side Hustle | 3.00% | ~991 |
+| Summoner | 3.00% | ~991 |
 | Collector | 2.00% | ~660 |
 | Escape Artist | 2.00% | ~660 |
 | Reckless | 2.00% | ~660 |
@@ -57,8 +57,8 @@ Rating: 4.50 (Ranked 612)
 | Ultimate Defense | 0.20% | ~66 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,012 (Ranked 135)  
-Completed: 71 (0.22%) (Ranked 270)  
+Progressed: 33,017 (Ranked 135)  
+Completed: 71 (0.22%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -312,7 +312,7 @@ Completed: 71 (0.22%) (Ranked 270)
 | 2023-12-28 | 32,854 | 70 |
 | 2023-12-29 | 32,915 | 71 |
 | 2023-12-30 | 32,969 | 71 |
-| 2023-12-31 | 33,012 | 71 |
+| 2023-12-31 | 33,017 | 71 |
 ## Awards
 Max (Great for Beginners): 326  (Ranked 255)  
 Sum: 2,943 (Ranked 185)  

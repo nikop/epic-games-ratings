@@ -19,11 +19,11 @@ Rating: 4.68 (Ranked 260)
 | The word around is... | 5.00% | ~42 |
 | A friend in need... | 5.00% | ~42 |
 | The cycle acknowledged | 5.00% | ~42 |
+| Queen | 5.00% | ~42 |
 | Baba Yaga | 5.00% | ~42 |
 | Extensive retelling | 4.00% | ~34 |
 | Sneak peek | 4.00% | ~34 |
 | Favorite | 4.00% | ~34 |
-| Queen | 4.00% | ~34 |
 | Goal! | 3.00% | ~26 |
 | Both sides | 3.00% | ~26 |
 | Specialist | 3.00% | ~26 |
@@ -39,7 +39,7 @@ Rating: 4.68 (Ranked 260)
 | Apex predator | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 850 (Ranked 298)  
-Completed: 1 (0.12%) (Ranked 301)  
+Completed: 1 (0.12%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

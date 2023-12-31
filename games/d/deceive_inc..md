@@ -1,7 +1,7 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.59 (Ranked 444)  
+Rating: 4.59 (Ranked 445)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,20 +9,20 @@ Rating: 4.59 (Ranked 444)
 | Mainframe Hacker | 23.00% | ~4,419 |
 | The Spy who eliminated me | 23.00% | ~4,419 |
 | Tomorrow Never Dyes | 22.00% | ~4,227 |
-| From the Vault with Love | 18.00% | ~3,458 |
-| Never Say Loser Again | 18.00% | ~3,458 |
-| Tailor-Made | 18.00% | ~3,458 |
-| For your Eyes only | 18.00% | ~3,458 |
+| From the Vault with Love | 18.00% | ~3,459 |
+| Never Say Loser Again | 18.00% | ~3,459 |
+| Tailor-Made | 18.00% | ~3,459 |
+| For your Eyes only | 18.00% | ~3,459 |
 | Assistant Accountant | 17.00% | ~3,266 |
 | You Only Live Twice | 16.00% | ~3,074 |
 | Fully Decked Out | 16.00% | ~3,074 |
 | A view to Win | 13.00% | ~2,498 |
 | The Living Portrait | 12.00% | ~2,306 |
 | Smells Like Trouble | 12.00% | ~2,306 |
-| My Motto, My Creed | 11.00% | ~2,113 |
-| Private Collection | 11.00% | ~2,113 |
-| Killer Looks | 11.00% | ~2,113 |
-| Hostile Takeover | 11.00% | ~2,113 |
+| My Motto, My Creed | 11.00% | ~2,114 |
+| Private Collection | 11.00% | ~2,114 |
+| Killer Looks | 11.00% | ~2,114 |
+| Hostile Takeover | 11.00% | ~2,114 |
 | Keycards Royale | 10.00% | ~1,921 |
 | Dr. No Kill | 10.00% | ~1,921 |
 | In It to Win It | 9.00% | ~1,729 |
@@ -42,7 +42,7 @@ Rating: 4.59 (Ranked 444)
 | Extraction Confusion | 0.20% | ~38 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,213 (Ranked 153)  
+Progressed: 19,214 (Ranked 153)  
 Completed: 4 (0.02%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 4 (0.02%) (Ranked 358)
 | 2023-12-28 | 19,189 | 4 |
 | 2023-12-29 | 19,200 | 4 |
 | 2023-12-30 | 19,208 | 4 |
-| 2023-12-31 | 19,213 | 4 |
+| 2023-12-31 | 19,214 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,11 +3,11 @@
   "Name": "Scott Pilgrim vs. The World: The Game \u2013 Complete Edition",
   "ProductSlug": "scott-pilgrim-vs-the-world-the-game",
   "Ranking_Rating": 90,
-  "Ranking_Popularity": 448,
+  "Ranking_Popularity": 446,
   "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-01-14T05:00:00+00:00",
@@ -453,18 +453,24 @@
       "Rating": 4.8,
       "NumberOfAwards": 50,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-12-31T17:58:50.7089061+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 51,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50,
-  "NumberOfAwardsMax": 50,
+  "NumberOfAwards": 51,
+  "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 50
+      "Count": 51
     }
   ],
   "EOS_Progressed": 0,
@@ -478,8 +484,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:24.6298445+00:00",
-  "LastChanged": "2023-12-26T13:02:20.3223482+00:00",
+  "LastChanged": "2023-12-31T17:58:50.7089059+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:12.5809581+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:58:43.4103144+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:05:37.0250049+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:58:50.7089064+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:05:49.6550201+00:00"
 }

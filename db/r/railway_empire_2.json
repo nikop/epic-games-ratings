@@ -7584,9 +7584,9 @@
       "ID": "A13",
       "SetID": "9b7p7eo",
       "Name": "Seven at one stroke",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 621
+      "UsersEstimate": 647
     },
     {
       "ID": "A14",
@@ -7640,9 +7640,9 @@
       "ID": "A20",
       "SetID": "9b7p7eo",
       "Name": "Country Bumpkin",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1968
+      "UsersEstimate": 1994
     },
     {
       "ID": "A21",
@@ -7840,9 +7840,9 @@
       "ID": "A45",
       "SetID": "9b7p7eo",
       "Name": "Settler",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 414
     },
     {
       "ID": "A46",
@@ -7929,8 +7929,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-27T17:00:03.776976+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:05:11.6300333+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:05:21.9275967+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:54.9390802+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:58:06.3031322+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:05:11.630098+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:58:08.6378409+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:05:21.927668+00:00"
 }

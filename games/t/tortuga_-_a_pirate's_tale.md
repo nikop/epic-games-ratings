@@ -5,22 +5,22 @@ Rating: 3.80 (Ranked 1,072)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~16,506 |
-| No Half Measures | 87.00% | ~15,116 |
-| Personal Matter | 86.00% | ~14,942 |
-| But You Have Heard of Me | 72.00% | ~12,510 |
-| Double the Barrels, double the Fun | 54.00% | ~9,382 |
-| Pimp My Glide | 49.00% | ~8,514 |
-| ... And Where Do the Stories Come From? | 40.00% | ~6,950 |
-| House Party! | 35.00% | ~6,081 |
-| Make It Rain | 23.00% | ~3,996 |
-| Curse of the Seven Seas | 22.00% | ~3,822 |
+| Eeligally Ambitious | 95.00% | ~16,508 |
+| No Half Measures | 87.00% | ~15,118 |
+| Personal Matter | 86.00% | ~14,944 |
+| But You Have Heard of Me | 72.00% | ~12,511 |
+| Double the Barrels, double the Fun | 54.00% | ~9,384 |
+| Pimp My Glide | 49.00% | ~8,515 |
+| ... And Where Do the Stories Come From? | 40.00% | ~6,951 |
+| House Party! | 35.00% | ~6,082 |
+| Make It Rain | 23.00% | ~3,997 |
+| Curse of the Seven Seas | 22.00% | ~3,823 |
 | Head First | 16.00% | ~2,780 |
 | To the World's End | 12.00% | ~2,085 |
 | Table for Six | 11.00% | ~1,911 |
 | Sharing Is Caring | 10.00% | ~1,738 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,390 |
-| Morally Flexible | 6.00% | ~1,042 |
+| Morally Flexible | 6.00% | ~1,043 |
 | Fishing for Compliments | 5.00% | ~869 |
 | After All, Why Shouldn't I Keep It? | 3.00% | ~521 |
 | A True Dandy | 2.00% | ~348 |
@@ -32,7 +32,7 @@ Rating: 3.80 (Ranked 1,072)
 | Heavy Tunaing | 0.10% | ~17 |
 | Pufferfish | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,375 (Ranked 161)  
+Progressed: 17,377 (Ranked 161)  
 Completed: 1 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 1 (0.01%) (Ranked 368)
 | 2023-12-28 | 17,349 | 1 |
 | 2023-12-29 | 17,357 | 1 |
 | 2023-12-30 | 17,365 | 1 |
-| 2023-12-31 | 17,375 | 1 |
+| 2023-12-31 | 17,377 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

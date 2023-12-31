@@ -2,9 +2,9 @@
   "ID": "4a86b8318e5a40e094f34a7e6a934652",
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
-  "Ranking_EOS_Progress": 356,
+  "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 435,
+  "EOS_Progressed": 436,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
@@ -1844,6 +1844,11 @@
       "Time": "2023-12-31T16:03:23.9361329+00:00",
       "NumProgressed": 435,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-31T18:03:29.3563148+00:00",
+      "NumProgressed": 436,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -1862,9 +1867,9 @@
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
       "SetID": "aniflfk",
       "Name": "Design Engineer",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 122
     },
     {
       "ID": "BRING_MARY",
@@ -1872,7 +1877,7 @@
       "Name": "Retro Diva",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "BRING_PROSPERO",
@@ -1894,9 +1899,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 213
+      "UsersEstimate": 209
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -1912,7 +1917,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -1928,7 +1933,7 @@
       "Name": "A Party to Remember!",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "LUNCH_LEECH",
@@ -1998,9 +2003,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 322
+      "UsersEstimate": 318
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -2008,21 +2013,21 @@
       "Name": "Strong Signal",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 435,
+      "Progressed": 436,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:03:31.0282954+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:03:29.3563144+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.5394751+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:02:47.0354589+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:03:31.0283177+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:02:39.8456782+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:03:29.3563344+00:00"
 }

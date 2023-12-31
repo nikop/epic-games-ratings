@@ -17,20 +17,20 @@
 | Dynamite, Treason and Coconuts | 11.00% | ~12 |
 | Save a Friend | 11.00% | ~12 |
 | Mysterious Bungalow | 9.00% | ~10 |
+| The Eyes! | 8.00% | ~9 |
 | Mummy Nightmare | 8.00% | ~9 |
-| The Eyes! | 7.00% | ~8 |
 | Keep the Doctor Away | 7.00% | ~8 |
 | Just a Palm Tree | 7.00% | ~8 |
 | Under the Hood | 7.00% | ~8 |
 | Long Live Gaipajama! | 7.00% | ~8 |
 | Punctual | 7.00% | ~8 |
+| Eyes Shut | 6.00% | ~7 |
 | Barking Dog | 6.00% | ~7 |
 | Tintin, Reporter | 5.00% | ~6 |
-| Eyes Shut | 5.00% | ~6 |
 | Mountain Runner | 5.00% | ~6 |
+| Subtlety | 4.00% | ~4 |
 | The Corporal's Golden Boy | 3.00% | ~3 |
 | A Yummy Detour | 3.00% | ~3 |
-| Subtlety | 3.00% | ~3 |
 | Threat | 3.00% | ~3 |
 | A Diagnosis | 2.00% | ~2 |
 | Jungle Runner | 2.00% | ~2 |

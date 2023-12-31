@@ -1,29 +1,29 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.55 (Ranked 522)  
+Rating: 4.55 (Ranked 521)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~14,373 |
-| Pay 'n' Spray | 50.00% | ~8,872 |
-| All Dressed Up for San Fierro | 25.00% | ~4,436 |
-| The American Dream | 19.00% | ~3,371 |
-| School's Out | 18.00% | ~3,194 |
-| Smooth Moves | 17.00% | ~3,016 |
-| Today Was a Good Day | 15.00% | ~2,662 |
-| What happens in Las Venturas... | 14.00% | ~2,484 |
-| Horror of the Santa Maria | 10.00% | ~1,774 |
-| Liberty City State of Mind | 9.00% | ~1,597 |
+| Getting Started | 81.00% | ~14,380 |
+| Pay 'n' Spray | 50.00% | ~8,876 |
+| All Dressed Up for San Fierro | 25.00% | ~4,438 |
+| The American Dream | 19.00% | ~3,373 |
+| School's Out | 18.00% | ~3,196 |
+| Smooth Moves | 17.00% | ~3,018 |
+| Today Was a Good Day | 15.00% | ~2,663 |
+| What happens in Las Venturas... | 14.00% | ~2,485 |
+| Horror of the Santa Maria | 10.00% | ~1,775 |
+| Liberty City State of Mind | 9.00% | ~1,598 |
 | Original Gangster | 8.00% | ~1,420 |
-| With Extra Dip | 7.00% | ~1,242 |
-| The End of the Line | 7.00% | ~1,242 |
+| With Extra Dip | 7.00% | ~1,243 |
+| The End of the Line | 7.00% | ~1,243 |
 | Saviour | 6.00% | ~1,065 |
-| Rescue a Kitten Too? | 5.00% | ~887 |
+| Rescue a Kitten Too? | 5.00% | ~888 |
 | They Can’t Stop All of Us | 4.00% | ~710 |
 | What are the Odds | 4.00% | ~710 |
-| Bike or Biker | 3.00% | ~532 |
-| What the City Needs | 3.00% | ~532 |
+| Bike or Biker | 3.00% | ~533 |
+| What the City Needs | 3.00% | ~533 |
 | A Legitimate Business | 2.00% | ~355 |
 | I’ll Have Two Number 9s | 2.00% | ~355 |
 | Who Needs Directions? | 2.00% | ~355 |
@@ -33,15 +33,15 @@ Rating: 4.55 (Ranked 522)
 | Assassin | 2.00% | ~355 |
 | Public Enemy No. 1 | 2.00% | ~355 |
 | Ain’t Nothing But a G Thing | 2.00% | ~355 |
-| Hoopin' it Up | 1.00% | ~177 |
-| Lucky Spinner | 1.00% | ~177 |
-| Not a Player | 1.00% | ~177 |
-| Chick Magnet | 1.00% | ~177 |
+| Hoopin' it Up | 1.00% | ~178 |
+| Lucky Spinner | 1.00% | ~178 |
+| Not a Player | 1.00% | ~178 |
+| Chick Magnet | 1.00% | ~178 |
 | Remastered | 0.70% | ~124 |
 | ...Here we go again | 0.50% | ~89 |
 | I Ain't No Buster | 0.40% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,744 (Ranked 158)  
+Progressed: 17,753 (Ranked 158)  
 Completed: 67 (0.38%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 67 (0.38%) (Ranked 233)
 | 2023-12-28 | 17,305 | 64 |
 | 2023-12-29 | 17,467 | 65 |
 | 2023-12-30 | 17,622 | 66 |
-| 2023-12-31 | 17,744 | 67 |
+| 2023-12-31 | 17,753 | 67 |
 ## Awards
 Max (Great Boss Battles): 557  (Ranked 213)  
 Sum: 871 (Ranked 284)  

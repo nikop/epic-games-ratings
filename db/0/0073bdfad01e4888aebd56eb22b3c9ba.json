@@ -4,7 +4,7 @@
   "ProductSlug": "brasil-fusion-4a4d95",
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-20T23:03:16.9455474+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:03:59.8898134+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:04:01.6944+00:00",
   "LastUpdate_AppInfo": "2023-12-27T23:56:59.7822434+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:58:56.9072576+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:03:59.8898197+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:59:06.8925751+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:04:01.6944034+00:00"
 }

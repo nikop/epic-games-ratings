@@ -1,7 +1,7 @@
 # RAILGRADE
 [Store](https://store.epicgames.com/en-US/p/railgrade)  
 [View Rawdata](../../db/r/railgrade.json)  
-Rating: 4.55 (Ranked 522)  
+Rating: 4.55 (Ranked 521)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -44,7 +44,7 @@ Rating: 4.55 (Ranked 522)
 | Cloud Services | 0.30% | ~54 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 17,981 (Ranked 156)  
-Completed: 26 (0.14%) (Ranked 293)  
+Completed: 26 (0.14%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -298,8 +298,8 @@ Completed: 26 (0.14%) (Ranked 293)
 | 2023-12-31 | 17,992 | 26 |
 ## Awards
 Max (Quickly Understood Controls): 93  (Ranked 387)  
-Sum: 681 (Ranked 313)  
-Diff (max vs sum): 74  
+Sum: 681 (Ranked 314)  
+Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 93 |

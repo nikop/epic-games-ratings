@@ -4,7 +4,7 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 223,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -933,9 +933,9 @@
       "ID": "ClickEmAll",
       "SetID": "4bd750m",
       "Name": "Click \u0027Em All",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "ConductedTrade",
@@ -1061,9 +1061,9 @@
       "ID": "SlottingMachine",
       "SetID": "4bd750m",
       "Name": "Slotting Machine",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     },
     {
       "ID": "StackOverflow",
@@ -1140,8 +1140,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:05:52.7697446+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:06:07.8248784+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.9245287+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:03:15.5570336+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:05:52.769771+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:03:10.7507448+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:06:07.8249053+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 391,
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 276,
-  "Ranking_EOS_Completed": 284,
+  "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
@@ -259,9 +259,9 @@
       "Count": 89
     }
   ],
-  "EOS_Progressed": 1213,
+  "EOS_Progressed": 1214,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3359,6 +3359,11 @@
       "Time": "2023-12-31T17:06:18.8842794+00:00",
       "NumProgressed": 1213,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-31T18:06:36.5998956+00:00",
+      "NumProgressed": 1214,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3377,9 +3382,9 @@
       "ID": "AbInitio",
       "SetID": "1n308hc",
       "Name": "Ab Initio",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 340
+      "UsersEstimate": 352
     },
     {
       "ID": "AnthropicHills",
@@ -3459,7 +3464,7 @@
       "Name": "Desolate Island",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Discovery",
@@ -3499,7 +3504,7 @@
       "Name": "Flooded Valley",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "GnothiSeauton",
@@ -3523,7 +3528,7 @@
       "Name": "Grasslands Ring",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "HighPlain",
@@ -3547,7 +3552,7 @@
       "Name": "Just One Lap",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "LordOfTheFiles",
@@ -3571,7 +3576,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "Mnemosyne",
@@ -3643,7 +3648,7 @@
       "Name": "Prometheus Unbound",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "PuzzleFiend",
@@ -3665,9 +3670,9 @@
       "ID": "RenaissanceRobot",
       "SetID": "1n308hc",
       "Name": "Renaissance Robot",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 49
+      "UsersEstimate": 61
     },
     {
       "ID": "ScientiaVincereTenebras",
@@ -3721,9 +3726,9 @@
       "ID": "TextAdventurer",
       "SetID": "1n308hc",
       "Name": "Text Adventurer",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TheAllGifted",
@@ -3763,7 +3768,7 @@
       "Name": "The Spark",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "TheThiefOfFire",
@@ -3779,7 +3784,7 @@
       "Name": "The Word Endures",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "TouchGrass",
@@ -3842,7 +3847,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1213,
+      "Progressed": 1214,
       "Completed": 2
     }
   ],
@@ -3850,8 +3855,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-29T23:57:10.9507958+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:06:18.8842789+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:06:36.5998949+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:58:12.7825625+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:06:18.8843497+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:58:16.0480753+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:06:36.5999647+00:00"
 }

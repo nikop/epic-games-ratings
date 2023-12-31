@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 82.00% | ~231 |
-| Purification Pioneer | 78.00% | ~220 |
-| Mechanical Buddy | 72.00% | ~203 |
-| Dicesmithing Time! | 64.00% | ~180 |
-| Sanctuary Guardian | 55.00% | ~155 |
-| Endless Tricks | 50.00% | ~141 |
-| Wild's Keeper | 46.00% | ~130 |
-| Mind Illuminator | 45.00% | ~127 |
+| Meissa's Savior | 82.00% | ~233 |
+| Purification Pioneer | 78.00% | ~222 |
+| Mechanical Buddy | 72.00% | ~204 |
+| Dicesmithing Time! | 64.00% | ~182 |
+| Sanctuary Guardian | 55.00% | ~156 |
+| Endless Tricks | 50.00% | ~142 |
+| Wild's Keeper | 46.00% | ~131 |
+| Mind Illuminator | 44.00% | ~125 |
 | Stellar Dismantler | 36.00% | ~102 |
 | Noctuan Champion | 35.00% | ~99 |
-| Astral Adventurer | 33.00% | ~93 |
-| Anomaly Destroyer | 31.00% | ~87 |
-| Star Killer | 28.00% | ~79 |
-| Eridanian Champion | 25.00% | ~70 |
+| Astral Adventurer | 33.00% | ~94 |
+| Anomaly Destroyer | 31.00% | ~88 |
+| Star Killer | 28.00% | ~80 |
+| Eridanian Champion | 25.00% | ~71 |
 | Loyal Partner | 23.00% | ~65 |
-| Lacertian Champion | 21.00% | ~59 |
+| Lacertian Champion | 21.00% | ~60 |
 | Shard Spender | 19.00% | ~54 |
 | Apian Champion | 18.00% | ~51 |
 | Unbeatable | 17.00% | ~48 |
 | Sadistic Plan | 16.00% | ~45 |
-| Behenian Champion | 14.00% | ~39 |
+| Behenian Champion | 14.00% | ~40 |
 | Wave Bender | 10.00% | ~28 |
 | Aquarian Champion | 10.00% | ~28 |
-| Astral Seeker | 9.00% | ~25 |
-| Heavy Purger | 9.00% | ~25 |
-| Stellar Haste | 9.00% | ~25 |
+| Astral Seeker | 9.00% | ~26 |
+| Heavy Purger | 9.00% | ~26 |
 | Heart Gate | 8.00% | ~23 |
+| Stellar Haste | 8.00% | ~23 |
 | Favored by the Cosmos | 7.00% | ~20 |
 | The Corruption Goddess | 7.00% | ~20 |
 | The Goddes Avatar | 7.00% | ~20 |
@@ -48,9 +48,9 @@
 | Behenian Hero | 4.00% | ~11 |
 | Lacertian Hero | 4.00% | ~11 |
 | Noctuan Hero | 4.00% | ~11 |
-| Purification Avatar | 3.00% | ~8 |
-| The Ardent Prince | 3.00% | ~8 |
-| Eridanian Hero | 3.00% | ~8 |
+| Purification Avatar | 3.00% | ~9 |
+| The Ardent Prince | 3.00% | ~9 |
+| Eridanian Hero | 3.00% | ~9 |
 | Astromancer | 2.00% | ~6 |
 | Critical Twist | 2.00% | ~6 |
 | Pocket Astrarium | 2.00% | ~6 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 282 (Ranked 394)  
+Progressed: 284 (Ranked 394)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,4 +169,4 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 262 | 0 |
 | 2023-12-29 | 269 | 0 |
 | 2023-12-30 | 277 | 0 |
-| 2023-12-31 | 282 | 0 |
+| 2023-12-31 | 284 | 0 |

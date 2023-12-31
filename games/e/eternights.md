@@ -1,12 +1,12 @@
 # Eternights
 [Store](https://store.epicgames.com/en-US/p/eternights-c2fbca)  
 [View Rawdata](../../db/e/eternights.json)  
-Rating: 4.76 (Ranked 132)  
+Rating: 4.76 (Ranked 133)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | New arm | 77.00% | ~551 |
-| Shelter Escape | 75.00% | ~536 |
+| Shelter Escape | 75.00% | ~537 |
 | The First Bond | 65.00% | ~465 |
 | Novice Scavenger | 58.00% | ~415 |
 | Master Craftsman | 46.00% | ~329 |
@@ -31,7 +31,7 @@ Rating: 4.76 (Ranked 132)
 | Dreamboat | 1.00% | ~7 |
 | Bond Lord | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715 (Ranked 311)  
+Progressed: 716 (Ranked 311)  
 Completed: 2 (0.28%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 2 (0.28%) (Ranked 255)
 | 2023-12-28 | 674 | 2 |
 | 2023-12-29 | 690 | 2 |
 | 2023-12-30 | 707 | 2 |
-| 2023-12-31 | 715 | 2 |
+| 2023-12-31 | 716 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

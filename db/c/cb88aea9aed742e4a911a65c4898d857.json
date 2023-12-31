@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -239,9 +239,9 @@
       "Count": 77
     }
   ],
-  "EOS_Progressed": 9130,
+  "EOS_Progressed": 9140,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1981,
+  "EOS_NewPlayers": 1977,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3134,6 +3134,11 @@
       "Time": "2023-12-31T17:09:38.0582854+00:00",
       "NumProgressed": 9130,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T18:09:40.2299874+00:00",
+      "NumProgressed": 9140,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3154,7 +3159,7 @@
       "Name": "Stolen Star",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -3274,7 +3279,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "19_TheVoidWolf",
@@ -3498,7 +3503,7 @@
       "Name": "A Spark",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "47_AFlame",
@@ -3592,9 +3597,9 @@
       "ID": "58_KneeDeepInChaos",
       "SetID": "37a94m8",
       "Name": "Knee-Deep in Chaos",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "59_ThePossessedShip",
@@ -3665,7 +3670,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9130,
+      "Progressed": 9140,
       "Completed": 0
     }
   ],
@@ -3673,8 +3678,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-31T16:59:07.4818651+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:09:38.0582848+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:09:40.2299826+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:59:07.4818656+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:09:38.0583613+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:59:19.334699+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:09:40.2300534+00:00"
 }

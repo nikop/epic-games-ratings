@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9332,
+  "EOS_Progressed": 9336,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 586,
+  "EOS_NewPlayers": 588,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15574,6 +15574,11 @@
       "Time": "2023-12-31T17:04:40.3797252+00:00",
       "NumProgressed": 9332,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T18:04:47.0047848+00:00",
+      "NumProgressed": 9336,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -15585,7 +15590,7 @@
       "Name": "First Step",
       "Percentage": 34,
       "XP": 45,
-      "UsersEstimate": 3173
+      "UsersEstimate": 3174
     },
     {
       "ID": "10",
@@ -15641,7 +15646,7 @@
       "Name": "Dense Forest",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2520
+      "UsersEstimate": 2521
     },
     {
       "ID": "3",
@@ -15649,7 +15654,7 @@
       "Name": "Cactus Vally",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1866
+      "UsersEstimate": 1867
     },
     {
       "ID": "4",
@@ -15665,7 +15670,7 @@
       "Name": "Snowy Peak",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "6",
@@ -15704,7 +15709,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 9332,
+      "Progressed": 9336,
       "Completed": 0
     }
   ],
@@ -15712,8 +15717,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:04:40.3797247+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:04:47.0047845+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:16.3269948+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:57:31.2335667+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:04:40.379817+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:57:30.0400551+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:04:47.004855+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "7b8963f6857041fd97a4a23845eb113d",
   "Name": "Daydream. Forgotten Sorrow",
   "ProductSlug": "daydream-forgotten-sorrow-6025c9",
-  "Ranking_EOS_Progress": 548,
+  "Ranking_EOS_Progress": 549,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
@@ -279,9 +279,9 @@
       "ID": "CH1_MOTHER",
       "SetID": "6d348d1",
       "Name": "Mother\u0027s song",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CH1_TRAIN",
@@ -382,8 +382,8 @@
   ],
   "FirstSeen": "2023-06-15T16:57:07.6621394+00:00",
   "FirstSeenAchievements": "2023-06-01T12:01:12.0964223+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:09:44.1128318+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:09:47.2044306+00:00",
   "LastUpdate_AppInfo": "2023-12-29T06:57:16.7630031+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:00:03.4302673+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:09:44.1128389+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:00:22.5065502+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:09:47.2044389+00:00"
 }

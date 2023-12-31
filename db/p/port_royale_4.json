@@ -261,7 +261,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1157,
+  "EOS_Progressed": 1158,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
@@ -3271,6 +3271,11 @@
       "Time": "2023-12-31T12:06:11.3170924+00:00",
       "NumProgressed": 1157,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T18:06:12.2840258+00:00",
+      "NumProgressed": 1158,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -3280,9 +3285,9 @@
       "ID": "ACH000",
       "SetID": "69nfp41",
       "Name": "Cabin boy",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 926
+      "UsersEstimate": 915
     },
     {
       "ID": "ACH001",
@@ -3290,7 +3295,7 @@
       "Name": "Seafarer",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ACH002",
@@ -3338,7 +3343,7 @@
       "Name": "My little farm",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "ACH008",
@@ -3352,9 +3357,9 @@
       "ID": "ACH009",
       "SetID": "69nfp41",
       "Name": "Capitalist",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH010",
@@ -3370,7 +3375,7 @@
       "Name": "Intangible",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "ACH012",
@@ -3378,7 +3383,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "ACH013",
@@ -3394,7 +3399,7 @@
       "Name": "Christening",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH015",
@@ -3402,7 +3407,7 @@
       "Name": "Groundskeeper",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ACH016",
@@ -3488,9 +3493,9 @@
       "ID": "ACH026",
       "SetID": "69nfp41",
       "Name": "Raiders of the Lost Ark",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH027",
@@ -3498,7 +3503,7 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "ACH028",
@@ -3528,9 +3533,9 @@
       "ID": "ACH031",
       "SetID": "69nfp41",
       "Name": "Parlay?",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH032",
@@ -3538,7 +3543,7 @@
       "Name": "Pirates!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ACH033",
@@ -3570,7 +3575,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "ACH037",
@@ -3681,15 +3686,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1157,
+      "Progressed": 1158,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:05:57.1135051+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:06:12.2840255+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:13.936517+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:02:35.6593701+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:05:57.1135715+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:00:46.365416+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:06:12.284097+00:00"
 }

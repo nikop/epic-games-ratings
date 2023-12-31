@@ -2,13 +2,13 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 686,
+  "Ranking_Rating": 687,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27566,
+  "EOS_Progressed": 27573,
   "EOS_Completed": 506,
-  "EOS_NewPlayers": 600,
+  "EOS_NewPlayers": 597,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -27899,6 +27899,11 @@
       "Time": "2023-12-31T17:06:23.6059853+00:00",
       "NumProgressed": 27566,
       "NumCompleted": 506
+    },
+    {
+      "Time": "2023-12-31T18:06:41.6307671+00:00",
+      "NumProgressed": 27573,
+      "NumCompleted": 506
     }
   ],
   "TotalAchievements": 20,
@@ -27910,7 +27915,7 @@
       "Name": "Cartographer",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 4411
+      "UsersEstimate": 4412
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -27918,7 +27923,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1378
+      "UsersEstimate": 1379
     },
     {
       "ID": "EAST_FINISHED",
@@ -27926,7 +27931,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3859
+      "UsersEstimate": 3860
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -27934,7 +27939,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2481
+      "UsersEstimate": 2482
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -27942,7 +27947,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 3032
+      "UsersEstimate": 3033
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -27966,7 +27971,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3308
+      "UsersEstimate": 3309
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -27974,7 +27979,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3859
+      "UsersEstimate": 3860
     },
     {
       "ID": "FOUND_ERIN",
@@ -28022,7 +28027,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3308
+      "UsersEstimate": 3309
     },
     {
       "ID": "INTRO_FINISHED",
@@ -28030,7 +28035,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 20950
+      "UsersEstimate": 20955
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -28038,7 +28043,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7443
+      "UsersEstimate": 7445
     },
     {
       "ID": "NORTH_FINISHED",
@@ -28062,22 +28067,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4962
+      "UsersEstimate": 4963
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 27566,
+      "Progressed": 27573,
       "Completed": 506
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:06:23.6059848+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:06:41.6307668+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.3353951+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:59:26.0675711+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:06:23.6061223+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:59:40.1721206+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:06:41.6308681+00:00"
 }

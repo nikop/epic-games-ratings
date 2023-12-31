@@ -6,7 +6,7 @@
   "Ranking_Popularity": 513,
   "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 82,
-  "Ranking_EOS_Completed": 345,
+  "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -85,11 +85,11 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 178777,
-  "EOS_Completed": 79,
-  "EOS_NewPlayers": 168139,
-  "EOS_NewCompleters": 79,
-  "EOS_Completed_Percentage": 0.04,
+  "EOS_Progressed": 179432,
+  "EOS_Completed": 81,
+  "EOS_NewPlayers": 168794,
+  "EOS_NewCompleters": 81,
+  "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
     {
       "Time": "2023-12-28T17:03:50.5199873+00:00",
@@ -455,6 +455,11 @@
       "Time": "2023-12-31T17:04:44.679327+00:00",
       "NumProgressed": 178777,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-12-31T18:04:51.7965094+00:00",
+      "NumProgressed": 179432,
+      "NumCompleted": 81
     }
   ],
   "AchievementsAdded": "2023-12-28T17:03:50.5211758+00:00",
@@ -467,15 +472,15 @@
       "Name": "Dungeon Master",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 3576
+      "UsersEstimate": 3589
     },
     {
       "ID": "com.thegentlebros.catquest.equipment_01",
       "SetID": "8g22406",
       "Name": "Fashionista Lion",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 7151
+      "UsersEstimate": 8972
     },
     {
       "ID": "com.thegentlebros.catquest.level_03",
@@ -483,7 +488,7 @@
       "Name": "Super Catventurer",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 3576
+      "UsersEstimate": 3589
     },
     {
       "ID": "com.thegentlebros.catquest.mainquest_02",
@@ -491,7 +496,7 @@
       "Name": "Felingard Loremaster",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 28604
+      "UsersEstimate": 28709
     },
     {
       "ID": "com.thegentlebros.catquest.mew_00",
@@ -499,7 +504,7 @@
       "Name": "Furry Armored",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 536
+      "UsersEstimate": 538
     },
     {
       "ID": "com.thegentlebros.catquest.mew_01",
@@ -507,7 +512,7 @@
       "Name": "Level One",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "com.thegentlebros.catquest.mew_02",
@@ -523,7 +528,7 @@
       "Name": "Nine Lives",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "com.thegentlebros.catquest.mew_04",
@@ -531,7 +536,7 @@
       "Name": "Stronger Enemies",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 536
+      "UsersEstimate": 538
     },
     {
       "ID": "com.thegentlebros.catquest.mew_05",
@@ -547,31 +552,31 @@
       "Name": "Saviour of the Cats",
       "Percentage": 8,
       "XP": 200,
-      "UsersEstimate": 14302
+      "UsersEstimate": 14355
     },
     {
       "ID": "com.thegentlebros.catquest.skill_01",
       "SetID": "8g22406",
       "Name": "Power of the Arcane",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 25029
+      "UsersEstimate": 26915
     }
   ],
   "AchievementSets": [
     {
       "ID": "8g22406",
       "IsBase": true,
-      "Progressed": 178777,
-      "Completed": 79
+      "Progressed": 179432,
+      "Completed": 81
     }
   ],
   "FirstSeen": "2023-12-28T18:57:14.4261716+00:00",
   "FirstSeenRating": "2023-12-29T10:57:23.2583361+00:00",
   "FirstSeenAchievements": "2023-12-28T17:03:50.5211757+00:00",
   "LastChanged": "2023-12-31T16:58:43.5388121+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:04:44.6793262+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:04:51.7965091+00:00",
   "LastUpdate_AppInfo": "2023-12-28T16:57:08.7273878+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:58:43.5388125+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:04:44.6793382+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:58:50.9802892+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:04:51.7965184+00:00"
 }

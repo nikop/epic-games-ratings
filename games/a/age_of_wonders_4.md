@@ -5,7 +5,7 @@ Rating: 4.63 (Ranked 357)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 13.00% | ~859 |
+| Secret Technique | 13.00% | ~860 |
 | Realm Estate | 11.00% | ~727 |
 | A Wonderful Discovery | 10.00% | ~661 |
 | Walls Cannot Stop Us | 10.00% | ~661 |
@@ -14,12 +14,12 @@ Rating: 4.63 (Ranked 357)
 | Magical Synergy | 7.00% | ~463 |
 | There Can Only Be One! | 6.00% | ~397 |
 | Full Ascension | 6.00% | ~397 |
+| Stronger Together | 6.00% | ~397 |
 | Seat of Power | 6.00% | ~397 |
-| Valley of Wonders | 5.00% | ~330 |
-| Stronger Together | 5.00% | ~330 |
-| In a Liege of Your Own | 5.00% | ~330 |
-| Intimidation Tactics | 5.00% | ~330 |
-| But this one is mine | 5.00% | ~330 |
+| Valley of Wonders | 5.00% | ~331 |
+| In a Liege of Your Own | 5.00% | ~331 |
+| Intimidation Tactics | 5.00% | ~331 |
+| But this one is mine | 5.00% | ~331 |
 | Return of the Wizard King | 3.00% | ~198 |
 | Enchanted Archipelago | 3.00% | ~198 |
 | Digging for Treasure | 3.00% | ~198 |
@@ -50,7 +50,7 @@ Rating: 4.63 (Ranked 357)
 | Seal the Deal | 1.00% | ~66 |
 | A Conqueror's Cohort | 1.00% | ~66 |
 | Dawn of the Dread | 1.00% | ~66 |
-| Pruning for Progress | 0.90% | ~59 |
+| Pruning for Progress | 0.90% | ~60 |
 | Grexolis | 0.80% | ~53 |
 | One for All, All for One | 0.80% | ~53 |
 | Duality | 0.80% | ~53 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 357)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,610 (Ranked 195)  
+Progressed: 6,612 (Ranked 195)  
 Completed: 7 (0.11%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 7 (0.11%) (Ranked 303)
 | 2023-12-28 | 6,414 | 7 |
 | 2023-12-29 | 6,495 | 7 |
 | 2023-12-30 | 6,566 | 7 |
-| 2023-12-31 | 6,610 | 7 |
+| 2023-12-31 | 6,612 | 7 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 478)  
 Sum: 164 (Ranked 436)  

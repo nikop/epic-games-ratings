@@ -344,9 +344,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "7on801h",
       "Name": "We Are Human Beings",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -560,9 +560,9 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "7on801h",
       "Name": "Spokes in Two Wheels",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1005,8 +1005,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:04:12.0040256+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:04:14.9121262+00:00",
   "LastUpdate_AppInfo": "2023-12-27T16:57:17.6990227+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:59:15.3900057+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:04:12.0040855+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:59:28.6267148+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:04:14.9121877+00:00"
 }

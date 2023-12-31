@@ -345,9 +345,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2184,
+  "EOS_Progressed": 2185,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3720,6 +3720,11 @@
       "Time": "2023-12-31T13:07:12.9563416+00:00",
       "NumProgressed": 2184,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T18:05:22.3805495+00:00",
+      "NumProgressed": 2185,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3817,9 +3822,9 @@
       "ID": "Achievement_013",
       "SetID": "6b34g18",
       "Name": "Scream Team",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "Achievement_014",
@@ -4258,7 +4263,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2184,
+      "Progressed": 2185,
       "Completed": 0
     }
   ],
@@ -4266,8 +4271,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-31T15:59:03.0757989+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:05:12.0071129+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:05:22.3805492+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.8280502+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:59:22.273861+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:05:12.0071806+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:59:36.4857616+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:05:22.3806142+00:00"
 }

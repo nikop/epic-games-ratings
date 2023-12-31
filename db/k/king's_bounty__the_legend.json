@@ -2,12 +2,12 @@
   "ID": "3eaafa8c26094cb483cba27d360a443b",
   "Name": "King\u0027s Bounty: The Legend",
   "ProductSlug": "kings-bounty-the-legend-b69320",
-  "Ranking_Rating": 132,
+  "Ranking_Rating": 133,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-03-03T00:00:00+00:00",
@@ -221,6 +221,6 @@
   "FirstSeen": "2022-07-22T20:23:22.2011944+00:00",
   "LastChanged": "2023-08-13T17:01:09.7863619+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.6574297+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:59:57.4577586+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:06:28.4584544+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:00:16.0878551+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:06:47.1719457+00:00"
 }

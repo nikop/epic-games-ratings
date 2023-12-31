@@ -2,7 +2,7 @@
   "ID": "0bb1bf6df5784815a0c62120f8a82b25",
   "Name": "Eternights",
   "ProductSlug": "eternights-c2fbca",
-  "Ranking_Rating": 132,
+  "Ranking_Rating": 133,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 311,
@@ -41,7 +41,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 715,
+  "EOS_Progressed": 716,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
@@ -2646,6 +2646,11 @@
       "Time": "2023-12-31T17:08:50.989982+00:00",
       "NumProgressed": 715,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-31T18:08:47.771128+00:00",
+      "NumProgressed": 716,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -2738,7 +2743,7 @@
       "Name": "Shelter Escape",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -2857,7 +2862,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 715,
+      "Progressed": 716,
       "Completed": 2
     }
   ],
@@ -2865,8 +2870,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-31T15:57:10.2736309+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:08:50.9899813+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:08:47.7711276+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.2091482+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:57:26.7784571+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:08:50.9900138+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:57:24.7429759+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:08:47.7711549+00:00"
 }

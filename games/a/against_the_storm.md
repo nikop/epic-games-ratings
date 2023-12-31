@@ -20,13 +20,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Gathering Storm | 5.00% | ~991 |
 | Frosts | 4.00% | ~793 |
 | Land of Greed | 4.00% | ~793 |
-| Homesick | 3.00% | ~594 |
-| Fertile Meadows | 3.00% | ~594 |
-| Monastery of the Holy Flame | 3.00% | ~594 |
-| Royal Outpost | 3.00% | ~594 |
-| Watchtower | 3.00% | ~594 |
-| A Real Challenge | 3.00% | ~594 |
-| Untamed Wilds | 3.00% | ~594 |
+| Homesick | 3.00% | ~595 |
+| Fertile Meadows | 3.00% | ~595 |
+| Monastery of the Holy Flame | 3.00% | ~595 |
+| Royal Outpost | 3.00% | ~595 |
+| Watchtower | 3.00% | ~595 |
+| A Real Challenge | 3.00% | ~595 |
+| Untamed Wilds | 3.00% | ~595 |
 | Ruined Armory | 2.00% | ~396 |
 | Bandit Camp | 2.00% | ~396 |
 | Barren Lands | 2.00% | ~396 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,816 (Ranked 151)  
-Completed: 34 (0.17%) (Ranked 280)  
+Progressed: 19,820 (Ranked 151)  
+Completed: 34 (0.17%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -321,10 +321,10 @@ Completed: 34 (0.17%) (Ranked 280)
 | 2023-12-28 | 19,536 | 36 |
 | 2023-12-29 | 19,630 | 36 |
 | 2023-12-30 | 19,741 | 35 |
-| 2023-12-31 | 19,816 | 34 |
+| 2023-12-31 | 19,820 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 447  (Ranked 230)  
-Sum: 3,309 (Ranked 177)  
+Sum: 3,310 (Ranked 177)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
@@ -333,7 +333,7 @@ Diff (max vs sum): 53
 | This game is Great for Beginners | 435 |
 | This game is Extremely Fun | 416 |
 | This game is Highly Recommended | 398 |
-| This game has Unique Visuals | 337 |
+| This game has Unique Visuals | 338 |
 | This game has Amazing Storytelling | 326 |
 | This game has Amazing Characters | 292 |
 | This game has Obsessive Gameplay | 254 |
@@ -611,3 +611,4 @@ Diff (max vs sum): 53
 | 2023-12-28 | 4.82 | - | 446 | 3,302 |
 | 2023-12-29 | 4.82 | - | 446 | 3,306 |
 | 2023-12-30 | 4.82 | - | 447 | 3,309 |
+| 2023-12-31 | 4.82 | - | 447 | 3,310 |

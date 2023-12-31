@@ -10,7 +10,7 @@ Rating: 4.67 (Ranked 283)
 | For the Horde! | 82.00% | ~556 |
 | Hammer Time, Round Two | 81.00% | ~549 |
 | The Hellwoods | 77.00% | ~522 |
-| The Plains of Strothalm | 72.00% | ~488 |
+| The Plains of Strothalm | 73.00% | ~495 |
 | Experienced Thalya | 72.00% | ~488 |
 | Bad Elves Go Everywhere | 69.00% | ~468 |
 | Thalya's Concentrated Fury | 68.00% | ~461 |
@@ -35,8 +35,8 @@ Rating: 4.67 (Ranked 283)
 | All’s Well That Ends Evil | 40.00% | ~271 |
 | The Duel | 38.00% | ~258 |
 | Unstoppable Horde | 35.00% | ~237 |
+| Master of the Undead | 35.00% | ~237 |
 | If Looks Could Kill | 35.00% | ~237 |
-| Master of the Undead | 34.00% | ~231 |
 | The Finitude Drill | 32.00% | ~217 |
 | Ghost Pirates? Ghost Heroes! | 30.00% | ~203 |
 | Doom Hill | 29.00% | ~197 |
@@ -67,7 +67,7 @@ Rating: 4.67 (Ranked 283)
 | No Mana, No Cry | 10.00% | ~68 |
 | I Don't Need Any Help | 10.00% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 678 (Ranked 314)  
+Progressed: 678 (Ranked 315)  
 Completed: 26 (3.83%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |

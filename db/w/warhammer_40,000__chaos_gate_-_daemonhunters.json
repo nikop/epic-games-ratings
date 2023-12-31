@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 336,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -807,9 +807,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3677,
+  "EOS_Progressed": 3680,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5197,6 +5197,11 @@
       "Time": "2023-12-31T17:04:26.0806888+00:00",
       "NumProgressed": 3677,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T18:04:30.6256311+00:00",
+      "NumProgressed": 3680,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5376,7 +5381,7 @@
       "Name": "Not So Fast...",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "Kills_Bleed",
@@ -5400,7 +5405,7 @@
       "Name": "Executioner",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "Kills_Exterminator",
@@ -5456,7 +5461,7 @@
       "Name": "An Ill Omen",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -5544,7 +5549,7 @@
       "Name": "Bloodless",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -5751,21 +5756,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3677,
+      "Progressed": 3680,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3677,
+      "Progressed": 3680,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-29T09:03:12.9031427+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:04:26.0806883+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:04:30.6256306+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.5390055+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:03:11.9510595+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:04:26.0807477+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:03:07.2671339+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:04:30.6257063+00:00"
 }

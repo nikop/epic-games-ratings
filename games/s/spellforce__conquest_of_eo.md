@@ -51,6 +51,7 @@
 | A Monopoly of Might | 7.00% | ~7 |
 | Defeat Ianna | 6.00% | ~6 |
 | Defeat Undergast | 6.00% | ~6 |
+| Crypt of the Revenant | 6.00% | ~6 |
 | Tuscari Sea Portal | 6.00% | ~6 |
 | Heroes | 6.00% | ~6 |
 | Balanced | 6.00% | ~6 |
@@ -59,7 +60,6 @@
 | Defeat Raith | 5.00% | ~5 |
 | Defeat Yria | 5.00% | ~5 |
 | Lytra's Tale | 5.00% | ~5 |
-| Crypt of the Revenant | 5.00% | ~5 |
 | Friend of Grey Dusk Vale | 5.00% | ~5 |
 | Friend of Uram Gor | 5.00% | ~5 |
 | Fireforge | 4.00% | ~4 |

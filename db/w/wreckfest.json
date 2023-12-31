@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 614,
+  "EOS_Progressed": 616,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 295,
+  "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1661,6 +1661,11 @@
       "Time": "2023-12-31T17:08:35.0456788+00:00",
       "NumProgressed": 614,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T18:08:30.1355489+00:00",
+      "NumProgressed": 616,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1673,15 +1678,15 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "CareerAllChallenges",
       "SetID": "5hd282c",
       "Name": "Highballer",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 90,
-      "UsersEstimate": 270
+      "UsersEstimate": 277
     },
     {
       "ID": "CareerChamp1",
@@ -1689,7 +1694,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "CareerChamp2",
@@ -1729,7 +1734,7 @@
       "Name": "Storm Warning",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 405
+      "UsersEstimate": 407
     },
     {
       "ID": "CollectVehiclesA",
@@ -1745,7 +1750,7 @@
       "Name": "Junk Collector",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "CreditsEarnedA",
@@ -1775,7 +1780,7 @@
       "ID": "MultiplayerEventsWonA",
       "SetID": "5hd282c",
       "Name": "Human Lover",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 90,
       "UsersEstimate": 4
     },
@@ -1832,7 +1837,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 614,
+      "Progressed": 616,
       "Completed": 0
     }
   ],
@@ -1840,8 +1845,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-28T22:58:24.1175943+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:08:35.0456783+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:08:30.1355485+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.5719432+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:59:10.6731664+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:08:35.0457077+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:59:23.2757112+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:08:30.1355671+00:00"
 }

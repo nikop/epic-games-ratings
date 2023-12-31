@@ -5,12 +5,12 @@ Rating: 4.20 (Ranked 951)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~2,077 |
+| Unforeseen | 87.00% | ~2,078 |
 | Battlefields Have Memories | 80.00% | ~1,910 |
 | Enlisted | 73.00% | ~1,743 |
-| Maybe Engage a Little | 68.00% | ~1,623 |
+| Maybe Engage a Little | 68.00% | ~1,624 |
 | No More Names | 50.00% | ~1,194 |
-| Initiate | 36.00% | ~859 |
+| Initiate | 36.00% | ~860 |
 | Thrada-Kul | 32.00% | ~764 |
 | Gravity-Challenged Rocks | 26.00% | ~621 |
 | Socialite | 23.00% | ~549 |
@@ -23,7 +23,7 @@ Rating: 4.20 (Ranked 951)
 | A Familiar Nest | 14.00% | ~334 |
 | Geas Aristeya | 13.00% | ~310 |
 | Periapt Alizarin | 13.00% | ~310 |
-| A Perfect Cycle | 12.00% | ~286 |
+| A Perfect Cycle | 12.00% | ~287 |
 | Recruit | 11.00% | ~263 |
 | Armsman | 10.00% | ~239 |
 | Lights Army | 8.00% | ~191 |
@@ -32,8 +32,8 @@ Rating: 4.20 (Ranked 951)
 | Best Dressed | 5.00% | ~119 |
 | Periapt Viridian | 5.00% | ~119 |
 | Shroudfane Explorer | 5.00% | ~119 |
-| Kitted Out | 4.00% | ~95 |
-| Armaments Gules | 4.00% | ~95 |
+| Kitted Out | 4.00% | ~96 |
+| Armaments Gules | 4.00% | ~96 |
 | Scholar | 3.00% | ~72 |
 | Armaments Azure | 3.00% | ~72 |
 | Armaments Vert | 3.00% | ~72 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 951)
 | Out of Time | 0.20% | ~5 |
 | Fowl Play | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,387 (Ranked 233)  
+Progressed: 2,388 (Ranked 233)  
 Completed: 2 (0.08%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 2 (0.08%) (Ranked 320)
 | 2023-12-28 | 2,136 | 2 |
 | 2023-12-29 | 2,236 | 2 |
 | 2023-12-30 | 2,327 | 2 |
-| 2023-12-31 | 2,387 | 2 |
+| 2023-12-31 | 2,388 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

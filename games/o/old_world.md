@@ -26,6 +26,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pioneer | 0.60% | ~96 |
 | Judaism | 0.60% | ~96 |
 | Greek Paganism | 0.60% | ~96 |
+| Naming Landmarks | 0.60% | ~96 |
 | Trade Caravan | 0.60% | ~96 |
 | Ambitious | 0.50% | ~80 |
 | Brilliant | 0.50% | ~80 |
@@ -39,8 +40,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 0.50% | ~80 |
 | Pyramids | 0.50% | ~80 |
 | Learn to Play 1 | 0.50% | ~80 |
+| Christianity | 0.50% | ~80 |
 | Babylonian Paganism | 0.50% | ~80 |
-| Naming Landmarks | 0.50% | ~80 |
 | Regicide | 0.40% | ~64 |
 | Great | 0.40% | ~64 |
 | Wise | 0.40% | ~64 |
@@ -49,7 +50,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Furious Family | 0.40% | ~64 |
 | Apadana | 0.40% | ~64 |
 | Great Ziggurat | 0.40% | ~64 |
-| Christianity | 0.40% | ~64 |
 | Carthaginian Paganism | 0.40% | ~64 |
 | Roman Paganism | 0.40% | ~64 |
 | Zoroastrianism | 0.40% | ~64 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,048 (Ranked 165)  
+Progressed: 16,049 (Ranked 165)  
 Completed: 5 (0.03%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -620,7 +620,7 @@ Completed: 5 (0.03%) (Ranked 351)
 | 2023-12-28 | 15,997 | 5 |
 | 2023-12-29 | 16,011 | 5 |
 | 2023-12-30 | 16,036 | 5 |
-| 2023-12-31 | 16,048 | 5 |
+| 2023-12-31 | 16,049 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 284)  
 Sum: 1,912 (Ranked 220)  

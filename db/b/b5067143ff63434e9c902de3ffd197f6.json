@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17650,
+  "EOS_Progressed": 17665,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1658,
+  "EOS_NewPlayers": 1663,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10839,6 +10839,11 @@
       "Time": "2023-12-31T17:03:50.8220204+00:00",
       "NumProgressed": 17650,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T18:03:51.1145531+00:00",
+      "NumProgressed": 17665,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -10875,7 +10880,7 @@
       "Name": "Liminal Hotel",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_LEVEL974",
@@ -10939,7 +10944,7 @@
       "Name": "Electric",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -10947,7 +10952,7 @@
       "Name": "Level 0",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4412
+      "UsersEstimate": 4416
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -10955,7 +10960,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2120
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -10963,7 +10968,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -10979,7 +10984,7 @@
       "Name": "Management",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "ACH_WINLEVEL404",
@@ -10995,7 +11000,7 @@
       "Name": "Terror",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "ACH_WINLEVEL69",
@@ -11033,23 +11038,23 @@
       "ID": "ACH_WINLEVELLIGHTOUT",
       "SetID": "1lo1k0a",
       "Name": "Lights Out",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 353
+      "UsersEstimate": 530
     }
   ],
   "AchievementSets": [
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 17650,
+      "Progressed": 17665,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:03:50.8220201+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:03:51.1145527+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:06.2356641+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:02:54.2512723+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:03:50.8220869+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:02:47.6917331+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:03:51.1146141+00:00"
 }

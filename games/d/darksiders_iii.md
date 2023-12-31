@@ -1,61 +1,61 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.49 (Ranked 631)  
+Rating: 4.49 (Ranked 630)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 78.00% | ~260 |
-| First of many… | 69.00% | ~230 |
-| Helping Hand | 65.00% | ~216 |
-| Increased Vigor | 60.00% | ~200 |
-| Fight Fire with Fire | 58.00% | ~193 |
-| Increased Capacity | 54.00% | ~180 |
-| Just the start | 50.00% | ~166 |
+| Green with Envy | 78.00% | ~261 |
+| First of many… | 69.00% | ~231 |
+| Helping Hand | 65.00% | ~218 |
+| Increased Vigor | 60.00% | ~201 |
+| Fight Fire with Fire | 58.00% | ~194 |
+| Increased Capacity | 54.00% | ~181 |
+| Just the start | 50.00% | ~168 |
 | Perfect Storm | 47.00% | ~157 |
-| All That Glitters | 46.00% | ~153 |
-| Enhance! | 43.00% | ~143 |
+| All That Glitters | 46.00% | ~154 |
+| Enhance! | 43.00% | ~144 |
 | One Of the Chosen | 41.00% | ~137 |
-| Throne Potato | 39.00% | ~130 |
+| Throne Potato | 39.00% | ~131 |
 | Devil's in the Details | 38.00% | ~127 |
 | Five's a Crowd | 38.00% | ~127 |
-| 25 to Life | 37.00% | ~123 |
-| Salvation | 36.00% | ~120 |
-| Soul Harvester | 35.00% | ~117 |
-| Unshakable Fortitude | 33.00% | ~110 |
-| Maximum Vigor | 31.00% | ~103 |
-| Delusions of Grandeur | 31.00% | ~103 |
-| I Wanna Rock | 30.00% | ~100 |
+| 25 to Life | 37.00% | ~124 |
+| Soul Harvester | 36.00% | ~121 |
+| Salvation | 36.00% | ~121 |
+| Unshakable Fortitude | 33.00% | ~111 |
+| Maximum Vigor | 31.00% | ~104 |
+| I Wanna Rock | 31.00% | ~104 |
+| Delusions of Grandeur | 31.00% | ~104 |
 | Love Tap | 29.00% | ~97 |
-| Freeze Frame | 26.00% | ~87 |
-| Eat Your Heart Out | 26.00% | ~87 |
-| For Whom the Bell Tolls | 26.00% | ~87 |
+| Freeze Frame | 27.00% | ~90 |
+| Eat Your Heart Out | 27.00% | ~90 |
+| For Whom the Bell Tolls | 27.00% | ~90 |
+| Unyielding Strength | 24.00% | ~80 |
 | Big Spender | 24.00% | ~80 |
-| Unyielding Strength | 23.00% | ~77 |
 | Can you restore the Balance? | 23.00% | ~77 |
-| Cleanup Crew | 22.00% | ~73 |
-| Crowd Source | 21.00% | ~70 |
+| Cleanup Crew | 22.00% | ~74 |
+| Crowd Source | 22.00% | ~74 |
 | Maximum Capacity | 20.00% | ~67 |
 | Demon Meddler | 20.00% | ~67 |
 | Seeing Red | 20.00% | ~67 |
-| Egomaniac | 17.00% | ~57 |
+| Egomaniac | 18.00% | ~60 |
 | Protector of Humanity | 15.00% | ~50 |
 | Everybody Wants to Rule the World | 15.00% | ~50 |
-| A Parting Gift | 13.00% | ~43 |
-| Community Outreach | 13.00% | ~43 |
+| A Parting Gift | 13.00% | ~44 |
+| Community Outreach | 13.00% | ~44 |
 | Unbreakable Will | 11.00% | ~37 |
 | Path of the Horseman | 11.00% | ~37 |
-| Take it to the Limit | 10.00% | ~33 |
+| Take it to the Limit | 10.00% | ~34 |
 | Holy Keeper | 9.00% | ~30 |
 | Demon Keeper | 8.00% | ~27 |
 | Soul Reaper | 7.00% | ~23 |
 | Humanitarian | 7.00% | ~23 |
 | My Evil Twin | 6.00% | ~20 |
-| Keeper of the Bonfire | 5.00% | ~17 |
-| Keeper of the Sky | 5.00% | ~17 |
 | "Impressive!" | 4.00% | ~13 |
+| Keeper of the Bonfire | 4.00% | ~13 |
 | Keeper of the Vale | 4.00% | ~13 |
+| Keeper of the Sky | 4.00% | ~13 |
 | Made of Sterner Stuff | 4.00% | ~13 |
 | Purity of Power | 3.00% | ~10 |
 | Balance in all things | 3.00% | ~10 |
@@ -64,14 +64,14 @@ Number of Ratings: 116  (23.09.2022)
 | Keeper of the Tempo | 3.00% | ~10 |
 | Keep it 100! | 3.00% | ~10 |
 | BFA | 3.00% | ~10 |
-| "Apocalyptic!" | 2.00% | ~7 |
 | "Amazing!" | 2.00% | ~7 |
 | Proceed on your way to Armageddon | 2.00% | ~7 |
+| "Apocalyptic!" | 1.00% | ~3 |
 | Death Incarnate | 1.00% | ~3 |
 | Quite Proper | 0.60% | ~2 |
 | Beast Mode | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 333 (Ranked 377)  
+Progressed: 335 (Ranked 377)  
 Completed: 1 (0.30%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 1 (0.30%) (Ranked 251)
 | 2023-12-28 | 265 | 1 |
 | 2023-12-29 | 293 | 1 |
 | 2023-12-30 | 320 | 1 |
-| 2023-12-31 | 333 | 1 |
+| 2023-12-31 | 335 | 1 |
 ## Awards
 Max (Great Boss Battles): 94  (Ranked 386)  
 Sum: 94 (Ranked 467)  

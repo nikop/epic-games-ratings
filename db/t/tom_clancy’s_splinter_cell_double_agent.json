@@ -2,12 +2,12 @@
   "ID": "1cdfbaaccaab490c9305e86496c7f3fa",
   "Name": "Tom Clancy\u2019s Splinter Cell Double Agent",
   "ProductSlug": "splinter-cell-double-agent",
-  "Ranking_Rating": 998,
+  "Ranking_Rating": 999,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-03-11T16:00:00+00:00",
@@ -83,6 +83,6 @@
   "FirstSeenRating": "2023-03-31T05:57:32.5518339+00:00",
   "LastChanged": "2023-12-20T07:57:03.7865379+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:52.292155+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:59:47.8907889+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:09:13.5174681+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:00:04.8604837+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:09:13.3563808+00:00"
 }

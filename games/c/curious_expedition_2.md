@@ -6,22 +6,22 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 66.00% | ~255 |
+| The Adventure Begins | 65.00% | ~252 |
 | Cartographer | 58.00% | ~224 |
-| A Strange Artefact | 54.00% | ~208 |
-| Insomnia | 50.00% | ~193 |
+| A Strange Artefact | 54.00% | ~209 |
+| Insomnia | 50.00% | ~194 |
 | Lost & Found & Lost Again | 44.00% | ~170 |
 | From Whence we Came | 44.00% | ~170 |
-| Fire and Flood | 41.00% | ~158 |
+| Fire and Flood | 41.00% | ~159 |
 | Spooky! | 38.00% | ~147 |
 | Shennong Herbalist | 36.00% | ~139 |
 | Treasure Hunt | 36.00% | ~139 |
-| Good Mama | 33.00% | ~127 |
+| Good Mama | 33.00% | ~128 |
 | O Captain My Captain | 32.00% | ~124 |
-| Plunderer | 31.00% | ~120 |
+| Plunderer | 30.00% | ~116 |
 | Taxonomist | 28.00% | ~108 |
-| Traveller | 26.00% | ~100 |
-| Uncertain Loyalties | 26.00% | ~100 |
+| Traveller | 26.00% | ~101 |
+| Uncertain Loyalties | 26.00% | ~101 |
 | Roll to Save | 24.00% | ~93 |
 | Nahua Seeker | 24.00% | ~93 |
 | Veteran Explorer | 22.00% | ~85 |
@@ -39,8 +39,8 @@ Number of Ratings: 20  (23.09.2022)
 | Discovery | 13.00% | ~50 |
 | Plays Well With Others | 13.00% | ~50 |
 | Very Classy | 12.00% | ~46 |
-| Under the Table | 11.00% | ~42 |
-| It's Complicated | 11.00% | ~42 |
+| Under the Table | 11.00% | ~43 |
+| It's Complicated | 11.00% | ~43 |
 | Cold Blood, Warm Heart | 9.00% | ~35 |
 | Errand Runner | 9.00% | ~35 |
 | SCHMETTERLING | 8.00% | ~31 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.80% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 386 (Ranked 362)  
+Progressed: 387 (Ranked 362)  
 Completed: 1 (0.26%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 1 (0.26%) (Ranked 261)
 | 2023-12-28 | 381 | 1 |
 | 2023-12-29 | 382 | 1 |
 | 2023-12-30 | 383 | 1 |
-| 2023-12-31 | 386 | 1 |
+| 2023-12-31 | 387 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

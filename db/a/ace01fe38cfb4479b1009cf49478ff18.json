@@ -3,8 +3,8 @@
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 322,
-  "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_Completed": 289,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 650,
+  "EOS_Progressed": 652,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2179,6 +2179,11 @@
       "Time": "2023-12-31T16:08:39.0105532+00:00",
       "NumProgressed": 650,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T18:08:12.9083782+00:00",
+      "NumProgressed": 652,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -2199,7 +2204,7 @@
       "Name": "Chapter II - Complete",
       "Percentage": 9,
       "XP": 45,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ach_chapter_complete_3",
@@ -2231,7 +2236,7 @@
       "Name": "Emperor\u2019s Mercy",
       "Percentage": 1,
       "XP": 175,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_complete_difficulty_medium",
@@ -2239,7 +2244,7 @@
       "Name": "My Armour is Contempt",
       "Percentage": 5,
       "XP": 95,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ach_defeat_great_unclean_one",
@@ -2286,14 +2291,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 650,
+      "Progressed": 652,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:08:19.4255359+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:08:12.9083779+00:00",
   "LastUpdate_AppInfo": "2023-12-29T15:57:01.9014557+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:59:06.7848781+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:08:19.4255613+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:59:18.561063+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:08:12.9084001+00:00"
 }

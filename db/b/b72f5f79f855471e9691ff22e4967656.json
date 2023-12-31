@@ -4,7 +4,7 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
@@ -906,9 +906,9 @@
       "ID": "killLeshy30",
       "SetID": "ci65fo0",
       "Name": "Wood goblins fighter",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "killPlant20",
@@ -1343,8 +1343,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:09:31.6765445+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:09:32.7438766+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.0184442+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:57:33.4559281+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:09:31.6766193+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:57:32.2632599+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:09:32.7439371+00:00"
 }

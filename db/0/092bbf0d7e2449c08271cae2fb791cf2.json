@@ -4,8 +4,8 @@
   "ProductSlug": "chuchel-203808",
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2018-03-07T14:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 371,
+  "EOS_Progressed": 372,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 2,
@@ -1229,6 +1229,11 @@
       "Time": "2023-12-31T17:06:30.9714428+00:00",
       "NumProgressed": 371,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-31T18:06:49.5963593+00:00",
+      "NumProgressed": 372,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1241,7 +1246,7 @@
       "Name": "Good Morning",
       "Percentage": 16,
       "XP": 145,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ach2",
@@ -1287,23 +1292,23 @@
       "ID": "ach7",
       "SetID": "796kfpa",
       "Name": "Snail Racing Champion",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 145,
-      "UsersEstimate": 41
+      "UsersEstimate": 37
     }
   ],
   "AchievementSets": [
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 371,
+      "Progressed": 372,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:06:30.9714421+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:06:49.5963589+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:07.636228+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:57:49.8255231+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:06:30.9714627+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:57:50.6468952+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:06:49.5963698+00:00"
 }

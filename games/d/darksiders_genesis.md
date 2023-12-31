@@ -1,16 +1,16 @@
 # Darksiders Genesis
 [Store](https://store.epicgames.com/en-US/p/darksiders-genesis)  
 [View Rawdata](../../db/d/darksiders_genesis.json)  
-Rating: 4.49 (Ranked 631)  
+Rating: 4.49 (Ranked 630)  
 Number of Ratings: 67  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mint I | 5.00% | ~16 |
 | Soul Cache | 5.00% | ~16 |
-| Mammon | 2.00% | ~6 |
-| Master of War | 2.00% | ~6 |
-| Astarte | 1.00% | ~3 |
+| Astarte | 2.00% | ~7 |
+| Mammon | 2.00% | ~7 |
+| Master of War | 2.00% | ~7 |
 | Close the Rift | 1.00% | ~3 |
 | Hell's Forge | 1.00% | ~3 |
 | The Dead Court | 1.00% | ~3 |
@@ -19,6 +19,7 @@ Number of Ratings: 67  (23.09.2022)
 | Mint II | 0.90% | ~3 |
 | Why'd It Have to Be Snakes? | 0.90% | ~3 |
 | Good Deeds | 0.60% | ~2 |
+| Walking Armory | 0.60% | ~2 |
 | A Bullet for All Seasons | 0.30% | ~1 |
 | Are You Not Entertained? | 0.30% | ~1 |
 | Collector | 0.30% | ~1 |
@@ -27,7 +28,6 @@ Number of Ratings: 67  (23.09.2022)
 | Infested | 0.30% | ~1 |
 | Mint III | 0.30% | ~1 |
 | The Promised End | 0.30% | ~1 |
-| Walking Armory | 0.30% | ~1 |
 | Wicked Killington | 0.30% | ~1 |
 | Belial | 0.00% | ~0 |
 | Blademaster | 0.00% | ~0 |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Respect For Animals | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 325 (Ranked 380)  
+Progressed: 327 (Ranked 379)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,7 +55,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 270 | 0 |
 | 2023-12-29 | 284 | 0 |
 | 2023-12-30 | 308 | 0 |
-| 2023-12-31 | 325 | 0 |
+| 2023-12-31 | 327 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 465)  
 Sum: 45 (Ranked 509)  

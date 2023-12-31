@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 326,
+  "EOS_Progressed": 327,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1299,6 +1299,11 @@
       "Time": "2023-12-31T16:03:45.5338737+00:00",
       "NumProgressed": 326,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T18:03:52.0085883+00:00",
+      "NumProgressed": 327,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1383,7 +1388,7 @@
       "Name": "Hunger",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "AC_BOSS_01",
@@ -1399,7 +1404,7 @@
       "Name": "Downfall",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "AC_BOSS_03",
@@ -1413,9 +1418,9 @@
       "ID": "AC_BOSS_04",
       "SetID": "16i2akc",
       "Name": "Heresy",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 29
     },
     {
       "ID": "AC_COMBO_1",
@@ -1477,9 +1482,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 167
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1503,7 +1508,7 @@
       "Name": "Excursion",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -1519,7 +1524,7 @@
       "Name": "Voyage",
       "Percentage": 28,
       "XP": 45,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -1591,7 +1596,7 @@
       "Name": "Cook",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "AC_RECIPES_DONE_2",
@@ -1646,14 +1651,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 326,
+      "Progressed": 327,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:03:51.5626545+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:03:52.008588+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:54.1541826+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:58:29.503931+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:03:51.5627003+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:58:35.5217332+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:03:52.0086175+00:00"
 }

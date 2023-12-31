@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 590,
+  "EOS_Progressed": 592,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
@@ -1939,6 +1939,11 @@
       "Time": "2023-12-31T17:09:35.6108383+00:00",
       "NumProgressed": 590,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T18:09:37.2376352+00:00",
+      "NumProgressed": 592,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -2015,7 +2020,7 @@
       "Name": "FixyText: Pump It Up",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
@@ -2023,7 +2028,7 @@
       "Name": "FixyText: Bestseller",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -2039,7 +2044,7 @@
       "Name": "FixyText: Co-author",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "TIME_JINX",
@@ -2061,17 +2066,17 @@
       "ID": "TIME_PERFECT_DATE",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Date",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 189
+      "UsersEstimate": 184
     },
     {
       "ID": "TIME_PERFECT_GUEST",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Guest",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 130
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -2087,7 +2092,7 @@
       "Name": "Tee K.O. 2: Domino",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "TKO2_DRAGONS_FAVORITE",
@@ -2110,14 +2115,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 590,
+      "Progressed": 592,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:09:35.6108379+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:09:37.237635+00:00",
   "LastUpdate_AppInfo": "2023-12-30T02:16:13.4108208+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:57:25.5505496+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:09:35.6108661+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:57:22.9362027+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:09:37.2376596+00:00"
 }

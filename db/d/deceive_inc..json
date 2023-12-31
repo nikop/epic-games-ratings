@@ -2,7 +2,7 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 444,
+  "Ranking_Rating": 445,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 153,
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19213,
+  "EOS_Progressed": 19214,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14265,6 +14265,11 @@
       "Time": "2023-12-31T16:04:14.957739+00:00",
       "NumProgressed": 19213,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-31T18:04:23.9171737+00:00",
+      "NumProgressed": 19214,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14332,7 +14337,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3458
+      "UsersEstimate": 3459
     },
     {
       "ID": "0009",
@@ -14404,7 +14409,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3458
+      "UsersEstimate": 3459
     },
     {
       "ID": "0018",
@@ -14468,7 +14473,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3458
+      "UsersEstimate": 3459
     },
     {
       "ID": "0026",
@@ -14484,7 +14489,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2113
+      "UsersEstimate": 2114
     },
     {
       "ID": "0028",
@@ -14508,7 +14513,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3458
+      "UsersEstimate": 3459
     },
     {
       "ID": "0031",
@@ -14516,7 +14521,7 @@
       "Name": "Private Collection",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2113
+      "UsersEstimate": 2114
     },
     {
       "ID": "0032",
@@ -14524,7 +14529,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2113
+      "UsersEstimate": 2114
     },
     {
       "ID": "0033",
@@ -14532,7 +14537,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2113
+      "UsersEstimate": 2114
     },
     {
       "ID": "0034",
@@ -14563,7 +14568,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19213,
+      "Progressed": 19214,
       "Completed": 4
     }
   ],
@@ -14571,8 +14576,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:04:20.2248572+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:04:23.9171734+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:48.2583913+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:59:42.7380259+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:04:20.2249473+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:59:59.0580644+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:04:23.9172549+00:00"
 }

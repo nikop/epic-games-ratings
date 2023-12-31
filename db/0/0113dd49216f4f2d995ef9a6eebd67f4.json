@@ -2,9 +2,9 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 422,
+  "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 210,
+  "EOS_Progressed": 212,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -949,6 +949,11 @@
       "Time": "2023-12-31T16:09:05.4201651+00:00",
       "NumProgressed": 210,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T18:08:42.2879238+00:00",
+      "NumProgressed": 212,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -977,7 +982,7 @@
       "Name": "Against All Odds",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "SG_ALLTHEHELPYOUNEED",
@@ -993,7 +998,7 @@
       "Name": "Arrow Of Eros Undone",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SG_BRANDNEWCHORUS",
@@ -1031,9 +1036,9 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 146
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1041,7 +1046,7 @@
       "Name": "Everything Has Changed",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SG_FIERY",
@@ -1095,9 +1100,9 @@
       "ID": "SG_MEANTTOBE",
       "SetID": "bj5g0n4",
       "Name": "Meant To Be",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -1113,7 +1118,7 @@
       "Name": "Not A Lost Girl",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -1121,7 +1126,7 @@
       "Name": "Not Taking Any Chances",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SG_QUEENWITHOUTATHRONE",
@@ -1129,15 +1134,15 @@
       "Name": "Queen Without A Throne",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "SG_SAYINGGOODBYE",
       "SetID": "bj5g0n4",
       "Name": "Saying Goodbye",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "SG_SHARETHISDANCE",
@@ -1209,7 +1214,7 @@
       "Name": "The Muse\u2019s Encore",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "SG_THEQUEENOFTHEDEAD",
@@ -1256,14 +1261,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 210,
+      "Progressed": 212,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:08:45.8868871+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:08:42.2879235+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.3127204+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:58:51.0008033+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:08:45.8869147+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:58:59.7007209+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:08:42.2879573+00:00"
 }

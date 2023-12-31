@@ -3,8 +3,8 @@
   "Name": "Doodle God",
   "ProductSlug": "doodle-god-f6a7b6",
   "Ranking_EOS_Progress": 398,
-  "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 462,
+  "Ranking_EOS_Completed": 98,
+  "Ranking_EOS_NewPlayers": 448,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 270,
+  "EOS_Progressed": 271,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.7,
+  "EOS_Completed_Percentage": 3.69,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:26.6583072+00:00",
@@ -434,6 +434,11 @@
       "Time": "2023-12-31T06:06:53.0364218+00:00",
       "NumProgressed": 270,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-31T18:05:59.4066522+00:00",
+      "NumProgressed": 271,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 22,
@@ -443,17 +448,17 @@
       "ID": "605732",
       "SetID": "4lpaifm",
       "Name": "Good Start",
-      "Percentage": 95,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 255
     },
     {
       "ID": "605742",
       "SetID": "4lpaifm",
       "Name": "Creator of Diversity",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 197
+      "UsersEstimate": 195
     },
     {
       "ID": "605752",
@@ -461,7 +466,7 @@
       "Name": "Creator of Life",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "605762",
@@ -469,7 +474,7 @@
       "Name": "Creator of Humanity",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "605772",
@@ -501,7 +506,7 @@
       "Name": "Creator of Magic",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "605812",
@@ -563,9 +568,9 @@
       "ID": "605892",
       "SetID": "4lpaifm",
       "Name": "Similar to Similar",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 192
+      "UsersEstimate": 190
     },
     {
       "ID": "605912",
@@ -605,7 +610,7 @@
       "Name": "Honorable Santa",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "844452",
@@ -620,7 +625,7 @@
     {
       "ID": "4lpaifm",
       "IsBase": true,
-      "Progressed": 270,
+      "Progressed": 271,
       "Completed": 10
     }
   ],
@@ -628,8 +633,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:05:45.7150094+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:05:59.4066519+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:03.1434822+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:00:08.2900824+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:05:45.7150247+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:00:27.9596062+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:05:59.4066668+00:00"
 }

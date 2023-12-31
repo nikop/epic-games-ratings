@@ -1497,9 +1497,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6802,
+  "EOS_Progressed": 6803,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15657,6 +15657,11 @@
       "Time": "2023-12-31T17:05:59.9545973+00:00",
       "NumProgressed": 6802,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-31T18:06:15.5551349+00:00",
+      "NumProgressed": 6803,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -15788,7 +15793,7 @@
       "Name": "Number 18",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -15820,7 +15825,7 @@
       "Name": "The Governator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -15828,7 +15833,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 4965
+      "UsersEstimate": 4966
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -15852,7 +15857,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1225
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -15987,15 +15992,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6802,
+      "Progressed": 6803,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-12-30T16:58:44.4156614+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:05:59.9545969+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:06:15.5551345+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:30.406474+00:00",
-  "LastUpdate_Ratings": "2023-12-31T16:59:09.1839143+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:05:59.9546898+00:00"
+  "LastUpdate_Ratings": "2023-12-31T17:59:21.570591+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:06:15.5552263+00:00"
 }

@@ -20,14 +20,14 @@ Rating: 4.71 (Ranked 202)
 | Historian | 0.10% | ~9 |
 | Iconoclast | 0.10% | ~9 |
 | Liberator | 0.10% | ~9 |
+| Live Wire | 0.10% | ~9 |
 | Snip Snip | 0.10% | ~9 |
 | Arrr! | 0.00% | ~0 |
 | Ça de Wizz! | 0.00% | ~0 |
 | Fashion Victim | 0.00% | ~0 |
-| Live Wire | 0.00% | ~0 |
 | Thing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,587 (Ranked 186)  
+Progressed: 8,590 (Ranked 186)  
 Completed: 34 (0.40%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 34 (0.40%) (Ranked 229)
 | 2023-12-28 | 8,451 | 34 |
 | 2023-12-29 | 8,521 | 34 |
 | 2023-12-30 | 8,561 | 34 |
-| 2023-12-31 | 8,587 | 34 |
+| 2023-12-31 | 8,590 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

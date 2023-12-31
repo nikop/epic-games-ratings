@@ -1,7 +1,7 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.55 (Ranked 522)  
+Rating: 4.55 (Ranked 521)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,7 +14,7 @@ Rating: 4.55 (Ranked 522)
 | Field hand | 40.00% | ~58 |
 | Samaritan | 34.00% | ~50 |
 | Well-to-do | 33.00% | ~48 |
-| The merciful one | 30.00% | ~44 |
+| The merciful one | 31.00% | ~45 |
 | Ladies' man | 29.00% | ~42 |
 | Ferocious wild boars | 25.00% | ~36 |
 | Idiot | 24.00% | ~35 |

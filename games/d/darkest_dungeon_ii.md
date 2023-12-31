@@ -6,28 +6,28 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~703 |
-| Lost and Found | 7.00% | ~410 |
-| Autodidact | 6.00% | ~7,859 |
-| This guy... again? | 6.00% | ~351 |
-| This Belongs in a Museum | 5.00% | ~6,549 |
-| Creep and Sleep | 5.00% | ~6,549 |
-| Overdue Notice | 5.00% | ~6,549 |
-| Escape from the Black Hole | 5.00% | ~6,549 |
+| Malpractice Assurance | 12.00% | ~704 |
+| Lost and Found | 7.00% | ~411 |
+| Autodidact | 6.00% | ~7,860 |
+| This guy... again? | 6.00% | ~352 |
+| This Belongs in a Museum | 5.00% | ~6,550 |
+| Creep and Sleep | 5.00% | ~6,550 |
+| Overdue Notice | 5.00% | ~6,550 |
+| Escape from the Black Hole | 5.00% | ~6,550 |
 | Ploughshares to Swords | 5.00% | ~293 |
 | Bloody Graduation | 5.00% | ~293 |
-| Don't Make Me Turn This Coach Around | 4.00% | ~5,239 |
-| Serenity Now! | 4.00% | ~5,239 |
-| It Rings a Bell | 4.00% | ~5,239 |
-| Not Today! | 4.00% | ~5,239 |
-| Meat and Greet | 4.00% | ~5,239 |
-| Catch and Decease | 4.00% | ~5,239 |
-| It Happens | 4.00% | ~5,239 |
-| Rush Hour | 4.00% | ~5,239 |
-| To Grandmother's House | 4.00% | ~5,239 |
-| A Place to Lay Your Head | 4.00% | ~5,239 |
-| FNG | 4.00% | ~5,239 |
-| Friends 'Til the End | 4.00% | ~234 |
+| Don't Make Me Turn This Coach Around | 4.00% | ~5,240 |
+| Serenity Now! | 4.00% | ~5,240 |
+| It Rings a Bell | 4.00% | ~5,240 |
+| Not Today! | 4.00% | ~5,240 |
+| Meat and Greet | 4.00% | ~5,240 |
+| Catch and Decease | 4.00% | ~5,240 |
+| It Happens | 4.00% | ~5,240 |
+| Rush Hour | 4.00% | ~5,240 |
+| To Grandmother's House | 4.00% | ~5,240 |
+| A Place to Lay Your Head | 4.00% | ~5,240 |
+| FNG | 4.00% | ~5,240 |
+| Friends 'Til the End | 4.00% | ~235 |
 | Unleash Hell | 3.00% | ~3,930 |
 | Funny Guy | 3.00% | ~3,930 |
 | Long Live the King | 3.00% | ~3,930 |
@@ -50,6 +50,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Predator | 2.00% | ~2,620 |
 | Deprogramming | 2.00% | ~2,620 |
 | Ichthyophobic | 2.00% | ~2,620 |
+| No More Mouths to Feed | 2.00% | ~2,620 |
 | Reverse Banditry | 2.00% | ~2,620 |
 | A Clear Conscience | 2.00% | ~2,620 |
 | When You Want Something Done Right | 2.00% | ~2,620 |
@@ -58,7 +59,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hot Air | 2.00% | ~2,620 |
 | Eyes Up | 2.00% | ~2,620 |
 | Road Trip | 2.00% | ~2,620 |
-| No More Mouths to Feed | 1.00% | ~1,310 |
 | Shrine of Reflection | 1.00% | ~1,310 |
 | Handled | 1.00% | ~1,310 |
 | Body of Work | 1.00% | ~1,310 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,987 (Ranked 89)  
+Progressed: 130,997 (Ranked 89)  
 Completed: 3 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,10 +331,10 @@ Completed: 3 (0.00%) (Ranked 391)
 | 2023-12-28 | 130,422 | 3 |
 | 2023-12-29 | 130,627 | 3 |
 | 2023-12-30 | 130,838 | 3 |
-| 2023-12-31 | 130,987 | 3 |
+| 2023-12-31 | 130,997 | 3 |
 ## Awards
 Max (Character Customization): 7,910  (Ranked 50)  
-Sum: 21,285 (Ranked 58)  
+Sum: 21,292 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -343,8 +343,8 @@ Diff (max vs sum): -8
 | This game has Challenging Combat | 1,657 |
 | This game is Highly Recommended | 1,583 |
 | This game has Amazing Characters | 1,507 |
-| This game is Extremely Fun | 1,501 |
-| This game has Unique Visuals | 1,440 |
+| This game is Extremely Fun | 1,506 |
+| This game has Unique Visuals | 1,442 |
 | This game has Amazing Storytelling | 1,426 |
 | This game has Quickly Understood Controls | 1,393 |
 | This game has a Creative Community | 1,071 |
@@ -690,4 +690,4 @@ Diff (max vs sum): -8
 | 2023-12-28 | 4.68 | - | 7,888 | 21,194 |
 | 2023-12-29 | 4.68 | - | 7,899 | 21,240 |
 | 2023-12-30 | 4.68 | - | 7,905 | 21,274 |
-| 2023-12-31 | 4.68 | - | 7,910 | 21,285 |
+| 2023-12-31 | 4.68 | - | 7,910 | 21,292 |

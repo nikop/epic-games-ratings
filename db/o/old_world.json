@@ -2208,7 +2208,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16048,
+  "EOS_Progressed": 16049,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
@@ -18683,6 +18683,11 @@
       "Time": "2023-12-31T17:09:58.0951264+00:00",
       "NumProgressed": 16048,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-31T18:10:02.1398936+00:00",
+      "NumProgressed": 16049,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20468,9 +20473,9 @@
       "ID": "ACHIEVEMENT_RELIGION_CHRISTIANITY",
       "SetID": "7l38kb8",
       "Name": "Christianity",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_JUDAISM",
@@ -20612,9 +20617,9 @@
       "ID": "ACHIEVEMENT_STAT_TEN_LANDMARKS_NAME",
       "SetID": "9201eeb",
       "Name": "Naming Landmarks",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
@@ -21557,21 +21562,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16048,
+      "Progressed": 16049,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16048,
+      "Progressed": 16049,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-29T16:02:55.9624641+00:00",
-  "LastChanged_Achievements": "2023-12-31T17:09:58.0951258+00:00",
+  "LastChanged_Achievements": "2023-12-31T18:10:02.1398933+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2023-12-31T17:03:01.7375306+00:00",
-  "LastUpdate_Achievements": "2023-12-31T17:09:58.0963511+00:00"
+  "LastUpdate_Ratings": "2023-12-31T18:02:56.0766093+00:00",
+  "LastUpdate_Achievements": "2023-12-31T18:10:02.1409376+00:00"
 }

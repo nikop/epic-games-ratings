@@ -17,9 +17,9 @@
 | The Spider | 14.00% | ~94 |
 | Good as Fish | 11.00% | ~74 |
 | Her Eyes | 11.00% | ~74 |
+| Trigger-Happy | 10.00% | ~67 |
 | Gollum/Sméagol | 9.00% | ~60 |
 | Murderer | 9.00% | ~60 |
-| Trigger-Happy | 9.00% | ~60 |
 | He's so Annoying | 8.00% | ~54 |
 | The Friend | 8.00% | ~54 |
 | Master of the Old Game | 5.00% | ~34 |
@@ -42,7 +42,7 @@
 | River Hobbit | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 672 (Ranked 317)  
-Completed: 1 (0.15%) (Ranked 290)  
+Completed: 1 (0.15%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
