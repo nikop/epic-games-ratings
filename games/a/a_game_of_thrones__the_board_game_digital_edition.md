@@ -1,26 +1,26 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.21 (Ranked 939)  
+Rating: 4.21 (Ranked 940)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~12,815 |
-| Battering Crew | 19.00% | ~6,087 |
-| The Kingsroad | 18.00% | ~5,767 |
-| Well Stocked | 13.00% | ~4,165 |
-| Royal Fleet | 13.00% | ~4,165 |
-| The Kraken’s Grasp | 9.00% | ~2,883 |
-| Daggers in the Dark | 8.00% | ~2,563 |
-| Alliance | 8.00% | ~2,563 |
+| Conqueror | 40.00% | ~12,818 |
+| Battering Crew | 19.00% | ~6,088 |
+| The Kingsroad | 18.00% | ~5,768 |
+| Well Stocked | 13.00% | ~4,166 |
+| Royal Fleet | 13.00% | ~4,166 |
+| The Kraken’s Grasp | 9.00% | ~2,884 |
+| Daggers in the Dark | 8.00% | ~2,564 |
+| Alliance | 8.00% | ~2,564 |
 | Winter is Coming | 7.00% | ~2,243 |
 | Oathkeeper | 7.00% | ~2,243 |
 | Influential | 7.00% | ~2,243 |
 | A Long Journey | 7.00% | ~2,243 |
-| Ours is the Fury | 6.00% | ~1,922 |
-| We Do Not Sow | 6.00% | ~1,922 |
-| Defender of the Wall | 6.00% | ~1,922 |
+| Ours is the Fury | 6.00% | ~1,923 |
+| We Do Not Sow | 6.00% | ~1,923 |
+| Defender of the Wall | 6.00% | ~1,923 |
 | Unbowed, Unbent, Unbroken | 5.00% | ~1,602 |
 | Growing Strong | 5.00% | ~1,602 |
 | Hear me Roar! | 5.00% | ~1,602 |
@@ -29,7 +29,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | King in the North | 2.00% | ~641 |
 | War of the Five Kings | 1.00% | ~320 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,038 (Ranked 136)  
+Progressed: 32,044 (Ranked 136)  
 Completed: 86 (0.27%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 86 (0.27%) (Ranked 257)
 | 2023-12-28 | 31,717 | 85 |
 | 2023-12-29 | 31,842 | 85 |
 | 2023-12-30 | 31,953 | 86 |
-| 2023-12-31 | 32,038 | 86 |
+| 2023-12-31 | 32,044 | 86 |
 ## Awards
 Max (Quickly Understood Controls): 127  (Ranked 343)  
 Sum: 807 (Ranked 288)  

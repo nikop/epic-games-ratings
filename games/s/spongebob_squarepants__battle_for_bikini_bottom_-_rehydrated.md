@@ -1,46 +1,46 @@
 # SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 [Store](https://store.epicgames.com/en-US/p/spongebob-squarepants-battle-for-bikini-bottom-rehydrated)  
 [View Rawdata](../../db/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.json)  
-Rating: 4.66 (Ranked 299)  
+Rating: 4.65 (Ranked 324)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 17.00% | ~99 |
-| Sponge Smasher | 17.00% | ~99 |
-| Jellyfish Jam | 15.00% | ~87 |
-| Jellyfishing | 11.00% | ~64 |
-| Time For Tutorial | 10.00% | ~58 |
-| Sweet Victory | 9.00% | ~52 |
-| Super Spatula Seeker | 9.00% | ~52 |
-| Sock Getter | 9.00% | ~52 |
+| Spatula Seeker | 17.00% | ~100 |
+| Sponge Smasher | 17.00% | ~100 |
+| Jellyfish Jam | 15.00% | ~88 |
+| Jellyfishing | 12.00% | ~70 |
+| Time For Tutorial | 10.00% | ~59 |
+| Sweet Victory | 9.00% | ~53 |
+| Super Spatula Seeker | 9.00% | ~53 |
+| Sock Getter | 9.00% | ~53 |
 | Squirrel Smasher | 8.00% | ~47 |
 | Star Smasher | 8.00% | ~47 |
 | Surf's Up! | 8.00% | ~47 |
 | Uptown and Downtown | 7.00% | ~41 |
-| Hit Rock Bottom | 7.00% | ~41 |
 | Life's as extreme as you wanna make it! | 6.00% | ~35 |
 | Shrimp Catcher | 6.00% | ~35 |
 | Toxic Terror | 6.00% | ~35 |
+| Hit Rock Bottom | 6.00% | ~35 |
 | Are you ready now? | 5.00% | ~29 |
 | Hello, Bikini Bottom | 5.00% | ~29 |
 | Keep it Rolling | 5.00% | ~29 |
 | Ultra Spatula Seeker | 5.00% | ~29 |
 | Robot encyclopedia | 4.00% | ~23 |
-| The Small Does Not Rule | 3.00% | ~17 |
-| Ship Shape | 3.00% | ~17 |
-| Shanghaied | 3.00% | ~17 |
-| Kelp Forest of Fear | 3.00% | ~17 |
-| SpongeBob vs SpongeBob! | 3.00% | ~17 |
-| Sleepy Time | 3.00% | ~17 |
+| The Small Does Not Rule | 3.00% | ~18 |
+| Ship Shape | 3.00% | ~18 |
+| Shanghaied | 3.00% | ~18 |
+| Kelp Forest of Fear | 3.00% | ~18 |
+| SpongeBob vs SpongeBob! | 3.00% | ~18 |
+| Sleepy Time | 3.00% | ~18 |
 | Sock Concert | 2.00% | ~12 |
 | Mega Spatula Seeker | 2.00% | ~12 |
 | 100% SpongeBob | 1.00% | ~6 |
 | Sock Opera | 1.00% | ~6 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 583 (Ranked 336)  
-Completed: 5 (0.86%) (Ranked 184)  
+Progressed: 586 (Ranked 336)  
+Completed: 5 (0.85%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -57,7 +57,7 @@ Completed: 5 (0.86%) (Ranked 184)
 | 2023-12-28 | 466 | 3 |
 | 2023-12-29 | 502 | 4 |
 | 2023-12-30 | 551 | 5 |
-| 2023-12-31 | 583 | 5 |
+| 2023-12-31 | 586 | 5 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 496)  
 Sum: 35 (Ranked 524)  
@@ -125,3 +125,4 @@ Diff (max vs sum): -28
 | 2023-11-05 | 4.65 | - | 34 | 34 |
 | 2023-12-17 | 4.66 | - | 34 | 34 |
 | 2023-12-25 | 4.66 | - | 35 | 35 |
+| 2023-12-31 | 4.65 | - | 35 | 35 |

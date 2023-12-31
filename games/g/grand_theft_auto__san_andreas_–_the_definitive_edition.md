@@ -5,23 +5,23 @@ Rating: 4.55 (Ranked 521)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~14,385 |
-| Pay 'n' Spray | 50.00% | ~8,880 |
-| All Dressed Up for San Fierro | 25.00% | ~4,440 |
-| The American Dream | 19.00% | ~3,374 |
-| School's Out | 18.00% | ~3,197 |
-| Smooth Moves | 17.00% | ~3,019 |
-| Today Was a Good Day | 15.00% | ~2,664 |
-| What happens in Las Venturas... | 14.00% | ~2,486 |
-| Horror of the Santa Maria | 10.00% | ~1,776 |
-| Liberty City State of Mind | 9.00% | ~1,598 |
-| Original Gangster | 8.00% | ~1,421 |
-| With Extra Dip | 7.00% | ~1,243 |
-| The End of the Line | 7.00% | ~1,243 |
+| Getting Started | 81.00% | ~14,395 |
+| Pay 'n' Spray | 50.00% | ~8,886 |
+| All Dressed Up for San Fierro | 25.00% | ~4,443 |
+| The American Dream | 19.00% | ~3,376 |
+| School's Out | 18.00% | ~3,199 |
+| Smooth Moves | 17.00% | ~3,021 |
+| Today Was a Good Day | 15.00% | ~2,666 |
+| What happens in Las Venturas... | 14.00% | ~2,488 |
+| Horror of the Santa Maria | 10.00% | ~1,777 |
+| Liberty City State of Mind | 9.00% | ~1,599 |
+| Original Gangster | 8.00% | ~1,422 |
+| With Extra Dip | 7.00% | ~1,244 |
+| The End of the Line | 7.00% | ~1,244 |
 | Saviour | 6.00% | ~1,066 |
-| Rescue a Kitten Too? | 5.00% | ~888 |
-| They Can’t Stop All of Us | 4.00% | ~710 |
-| What are the Odds | 4.00% | ~710 |
+| Rescue a Kitten Too? | 5.00% | ~889 |
+| They Can’t Stop All of Us | 4.00% | ~711 |
+| What are the Odds | 4.00% | ~711 |
 | Bike or Biker | 3.00% | ~533 |
 | What the City Needs | 3.00% | ~533 |
 | A Legitimate Business | 2.00% | ~355 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 521)
 | ...Here we go again | 0.50% | ~89 |
 | I Ain't No Buster | 0.40% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,759 (Ranked 158)  
+Progressed: 17,771 (Ranked 158)  
 Completed: 67 (0.38%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 67 (0.38%) (Ranked 233)
 | 2023-12-28 | 17,305 | 64 |
 | 2023-12-29 | 17,467 | 65 |
 | 2023-12-30 | 17,622 | 66 |
-| 2023-12-31 | 17,759 | 67 |
+| 2023-12-31 | 17,771 | 67 |
 ## Awards
 Max (Relaxing): 49  (Ranked 453)  
 Sum: 314 (Ranked 374)  

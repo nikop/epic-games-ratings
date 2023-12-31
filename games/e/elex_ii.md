@@ -1,13 +1,13 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.29 (Ranked 873)  
+Rating: 4.29 (Ranked 874)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Entrepreneur | 34.00% | ~52 |
-| Best Buddy | 26.00% | ~40 |
+| Best Buddy | 27.00% | ~41 |
 | Role Model | 24.00% | ~36 |
 | Civilian | 24.00% | ~36 |
 | Peddler | 19.00% | ~29 |
@@ -20,8 +20,8 @@ Number of Ratings: 124  (23.09.2022)
 | Irissa's Fate | 12.00% | ~18 |
 | Berserker | 9.00% | ~14 |
 | Family Reunion | 9.00% | ~14 |
+| Storyteller | 8.00% | ~12 |
 | Eternal Oblivion | 8.00% | ~12 |
-| Storyteller | 7.00% | ~11 |
 | Globetrotter | 7.00% | ~11 |
 | Alb | 7.00% | ~11 |
 | Banker | 5.00% | ~8 |

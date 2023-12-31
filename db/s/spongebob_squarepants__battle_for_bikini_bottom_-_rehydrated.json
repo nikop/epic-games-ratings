@@ -2,12 +2,12 @@
   "ID": "b3d490d845c040ee82fd02f400ab0efc",
   "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
   "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
-  "Ranking_Rating": 299,
+  "Ranking_Rating": 324,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 336,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_Completed": 185,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.66,
+  "Rating": 4.65,
   "NumberOfRatings": 76,
   "RatingHistory": [
     {
@@ -303,6 +303,12 @@
       "Rating": 4.66,
       "NumberOfAwards": 35,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-12-31T19:58:31.7111871+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 35,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
@@ -317,11 +323,11 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 583,
+  "EOS_Progressed": 586,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 0.86,
+  "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -1582,6 +1588,11 @@
       "Time": "2023-12-31T19:07:55.4779542+00:00",
       "NumProgressed": 583,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-31T20:08:48.0840642+00:00",
+      "NumProgressed": 586,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1610,7 +1621,7 @@
       "Name": "The Small Does Not Rule",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_COMPLETION",
@@ -1642,7 +1653,7 @@
       "Name": "Ship Shape",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_FIND_BB_SPATULAS",
@@ -1658,15 +1669,15 @@
       "Name": "Shanghaied",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_JELLYFISHING",
       "SetID": "biiejkc",
       "Name": "Jellyfishing",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -1674,7 +1685,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -1682,7 +1693,7 @@
       "Name": "Kelp Forest of Fear",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_MERMALAIR",
@@ -1714,7 +1725,7 @@
       "Name": "Sweet Victory",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -1722,15 +1733,15 @@
       "Name": "SpongeBob vs SpongeBob!",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_ROCK_BOTTOM",
       "SetID": "biiejkc",
       "Name": "Hit Rock Bottom",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -1738,7 +1749,7 @@
       "Name": "Sleepy Time",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_SOCK_CONCERT",
@@ -1770,7 +1781,7 @@
       "Name": "Super Spatula Seeker",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -1794,7 +1805,7 @@
       "Name": "Sock Getter",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -1802,7 +1813,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -1810,7 +1821,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -1842,22 +1853,22 @@
       "Name": "Time For Tutorial",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     }
   ],
   "AchievementSets": [
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 583,
+      "Progressed": 586,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
-  "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-31T19:07:55.4779538+00:00",
+  "LastChanged": "2023-12-31T19:58:31.7111869+00:00",
+  "LastChanged_Achievements": "2023-12-31T20:08:48.0840639+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:57:56.9472718+00:00",
-  "LastUpdate_Achievements": "2023-12-31T19:07:55.4779864+00:00"
+  "LastUpdate_Ratings": "2023-12-31T19:58:31.7111874+00:00",
+  "LastUpdate_Achievements": "2023-12-31T20:08:48.0840987+00:00"
 }

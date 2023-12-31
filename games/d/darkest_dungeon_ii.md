@@ -6,14 +6,14 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~705 |
-| Lost and Found | 7.00% | ~411 |
-| Autodidact | 6.00% | ~7,860 |
-| This guy... again? | 6.00% | ~352 |
-| This Belongs in a Museum | 5.00% | ~6,550 |
-| Creep and Sleep | 5.00% | ~6,550 |
-| Overdue Notice | 5.00% | ~6,550 |
-| Escape from the Black Hole | 5.00% | ~6,550 |
+| Malpractice Assurance | 12.00% | ~706 |
+| Lost and Found | 7.00% | ~412 |
+| Autodidact | 6.00% | ~7,861 |
+| This guy... again? | 6.00% | ~353 |
+| This Belongs in a Museum | 5.00% | ~6,551 |
+| Creep and Sleep | 5.00% | ~6,551 |
+| Overdue Notice | 5.00% | ~6,551 |
+| Escape from the Black Hole | 5.00% | ~6,551 |
 | Ploughshares to Swords | 5.00% | ~294 |
 | Bloody Graduation | 5.00% | ~294 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,240 |
@@ -28,6 +28,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 4.00% | ~5,240 |
 | FNG | 4.00% | ~5,240 |
 | Friends 'Til the End | 4.00% | ~235 |
+| Resurrection | 3.00% | ~3,930 |
 | Unleash Hell | 3.00% | ~3,930 |
 | Funny Guy | 3.00% | ~3,930 |
 | Long Live the King | 3.00% | ~3,930 |
@@ -42,7 +43,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 3.00% | ~3,930 |
 | Nope | 3.00% | ~3,930 |
 | Unshackled | 3.00% | ~3,930 |
-| Resurrection | 2.00% | ~2,620 |
 | Wyrdly Reconstructed | 2.00% | ~2,620 |
 | Boxcar Kid | 2.00% | ~2,620 |
 | This Looks Familiar | 2.00% | ~2,620 |
@@ -65,16 +65,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | Slap on the Wrist | 1.00% | ~59 |
 | For Old Time' Sake | 1.00% | ~59 |
 | Clearing the Ledger | 0.80% | ~1,048 |
+| Triage | 0.80% | ~1,048 |
 | No Mercy | 0.80% | ~47 |
 | Et Tu, Riposte? | 0.80% | ~47 |
 | Hat Trick | 0.70% | ~917 |
-| Triage | 0.70% | ~917 |
 | A Life Well Lived | 0.50% | ~655 |
 | The World As It Was | 0.50% | ~655 |
 | Bacon Bits | 0.50% | ~655 |
 | Eidetic | 0.40% | ~524 |
-| Battle Hardened | 0.40% | ~23 |
-| On This Long Road, We Found Redemption | 0.40% | ~23 |
+| Battle Hardened | 0.40% | ~24 |
+| On This Long Road, We Found Redemption | 0.40% | ~24 |
 | Tears in the Rain | 0.30% | ~393 |
 | Maître De La Lame | 0.30% | ~18 |
 | Circle of Life | 0.20% | ~262 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,003 (Ranked 89)  
+Progressed: 131,012 (Ranked 89)  
 Completed: 3 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 3 (0.00%) (Ranked 391)
 | 2023-12-28 | 130,422 | 3 |
 | 2023-12-29 | 130,627 | 3 |
 | 2023-12-30 | 130,838 | 3 |
-| 2023-12-31 | 131,003 | 3 |
+| 2023-12-31 | 131,012 | 3 |
 ## Awards
 Max (Character Customization): 7,910  (Ranked 50)  
 Sum: 21,292 (Ranked 58)  

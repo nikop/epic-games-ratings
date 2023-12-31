@@ -6,23 +6,23 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~25,806 |
-| Exploitative | 4.00% | ~20,645 |
-| Point Shooting | 4.00% | ~20,645 |
-| Wet Feet | 4.00% | ~20,645 |
-| High Speed Low Drag | 3.00% | ~15,484 |
-| Lucky | 3.00% | ~15,484 |
-| Stylin' | 3.00% | ~15,484 |
-| Turf War | 3.00% | ~15,484 |
+| Wallbanger | 5.00% | ~25,808 |
+| Exploitative | 4.00% | ~20,647 |
+| Point Shooting | 4.00% | ~20,647 |
+| Wet Feet | 4.00% | ~20,647 |
+| High Speed Low Drag | 3.00% | ~15,485 |
+| Lucky | 3.00% | ~15,485 |
+| Stylin' | 3.00% | ~15,485 |
+| Turf War | 3.00% | ~15,485 |
 | Banged | 2.00% | ~10,323 |
 | Checkpoint Victory | 2.00% | ~10,323 |
 | First Blood | 2.00% | ~10,323 |
 | Flaccid Paralysis | 2.00% | ~10,323 |
 | Push Victory | 2.00% | ~10,323 |
 | Self-destructive | 2.00% | ~10,323 |
-| Blindfire | 1.00% | ~5,161 |
-| Ruthless | 1.00% | ~5,161 |
-| Semper Paratus | 1.00% | ~5,161 |
+| Blindfire | 1.00% | ~5,162 |
+| Ruthless | 1.00% | ~5,162 |
+| Semper Paratus | 1.00% | ~5,162 |
 | Carrying | 0.90% | ~4,645 |
 | Efficient | 0.90% | ~4,645 |
 | Mount & Gun | 0.90% | ~4,645 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~516 |
 | Road Hazard | 0.10% | ~516 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 516,129 (Ranked 37)  
+Progressed: 516,164 (Ranked 37)  
 Completed: 2 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,17 +297,17 @@ Completed: 2 (0.00%) (Ranked 391)
 | 2023-12-28 | 513,607 | 2 |
 | 2023-12-29 | 514,451 | 2 |
 | 2023-12-30 | 515,422 | 2 |
-| 2023-12-31 | 516,129 | 2 |
+| 2023-12-31 | 516,164 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 415  (Ranked 236)  
-Sum: 3,309 (Ranked 178)  
-Diff (max vs sum): 58  
+Sum: 3,311 (Ranked 177)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 415 |
 | This game has Challenging Combat | 406 |
 | This game is Extremely Fun | 385 |
-| This game has Competitive Players | 380 |
+| This game has Competitive Players | 382 |
 | This game is Highly Recommended | 366 |
 | This game has Realistic Visuals | 357 |
 | This game has Amazing Characters | 350 |
@@ -642,4 +642,4 @@ Diff (max vs sum): 58
 | 2023-12-28 | 4.61 | - | 413 | 3,294 |
 | 2023-12-29 | 4.61 | - | 413 | 3,299 |
 | 2023-12-30 | 4.61 | - | 415 | 3,303 |
-| 2023-12-31 | 4.61 | - | 415 | 3,309 |
+| 2023-12-31 | 4.61 | - | 415 | 3,311 |

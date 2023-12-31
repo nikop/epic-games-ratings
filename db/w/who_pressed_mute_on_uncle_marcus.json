@@ -4,8 +4,8 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 368,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -843,9 +843,9 @@
       "ID": "job_one_done",
       "SetID": "202dmm8",
       "Name": "Job one. DONE!",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 173
+      "UsersEstimate": 175
     },
     {
       "ID": "just_like_me",
@@ -924,8 +924,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-12-31T19:09:42.5762256+00:00",
+  "LastChanged_Achievements": "2023-12-31T20:10:49.4809586+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:45.8627972+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:57:46.6727188+00:00",
-  "LastUpdate_Achievements": "2023-12-31T19:09:42.5762394+00:00"
+  "LastUpdate_Ratings": "2023-12-31T19:58:18.8036493+00:00",
+  "LastUpdate_Achievements": "2023-12-31T20:10:49.4809787+00:00"
 }

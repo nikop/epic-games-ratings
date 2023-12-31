@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1825,
+  "EOS_Progressed": 1831,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 282,
+  "EOS_NewPlayers": 283,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -3385,6 +3385,11 @@
       "Time": "2023-12-31T19:09:53.8026894+00:00",
       "NumProgressed": 1825,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-12-31T20:11:02.6978551+00:00",
+      "NumProgressed": 1831,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -3396,7 +3401,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1794
     },
     {
       "ID": "booty_call",
@@ -3404,7 +3409,7 @@
       "Name": "Booty Call",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "crash_and_burn",
@@ -3412,7 +3417,7 @@
       "Name": "Crash and Burn",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "digital_casanova",
@@ -3420,7 +3425,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1758
     },
     {
       "ID": "hold_my_beer",
@@ -3428,7 +3433,7 @@
       "Name": "Hold my Beer",
       "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1135
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -3436,7 +3441,7 @@
       "Name": "In Contempt of Duvet",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 383
+      "UsersEstimate": 385
     },
     {
       "ID": "interrogation",
@@ -3460,7 +3465,7 @@
       "Name": "Not Alone",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 383
+      "UsersEstimate": 385
     },
     {
       "ID": "nueva_beginnings",
@@ -3468,15 +3473,15 @@
       "Name": "Nueva Beginnings",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 511
+      "UsersEstimate": 513
     },
     {
       "ID": "only_thyme_will_tell",
       "SetID": "c4ipj3h",
       "Name": "Only Thyme Will Tell",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 474
+      "UsersEstimate": 458
     },
     {
       "ID": "planting_the_seed",
@@ -3484,7 +3489,7 @@
       "Name": "Planting the Seed",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "smooth_criminal",
@@ -3500,7 +3505,7 @@
       "Name": "Sore Loser",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "we_go_again",
@@ -3508,14 +3513,14 @@
       "Name": "We Go Again",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 456
+      "UsersEstimate": 458
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 1825,
+      "Progressed": 1831,
       "Completed": 12
     }
   ],
@@ -3523,8 +3528,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-12-31T19:09:53.802689+00:00",
+  "LastChanged_Achievements": "2023-12-31T20:11:02.697854+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:27.9788979+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:59:12.980715+00:00",
-  "LastUpdate_Achievements": "2023-12-31T19:09:53.8027438+00:00"
+  "LastUpdate_Ratings": "2023-12-31T20:00:09.8938433+00:00",
+  "LastUpdate_Achievements": "2023-12-31T20:11:02.6978918+00:00"
 }

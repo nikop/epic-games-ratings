@@ -2,7 +2,7 @@
   "ID": "3348e3d8eae449ecbcf9fe354d4fe8a0",
   "Name": "Hotel Renovator",
   "ProductSlug": "hotel-renovator",
-  "Ranking_Rating": 817,
+  "Ranking_Rating": 818,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 269,
@@ -265,7 +265,7 @@
   "Tags": [],
   "EOS_Progressed": 1365,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
@@ -3485,9 +3485,9 @@
       "ID": "ACH_WALLET_RETURNED",
       "SetID": "7k95e4n",
       "Name": "I think you dropped this",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 710
+      "UsersEstimate": 723
     }
   ],
   "AchievementSets": [
@@ -3502,8 +3502,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-29T01:34:53.0019618+00:00",
-  "LastChanged_Achievements": "2023-12-31T19:08:28.5234048+00:00",
+  "LastChanged_Achievements": "2023-12-31T20:09:27.8897211+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:25.8678636+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:59:49.0130131+00:00",
-  "LastUpdate_Achievements": "2023-12-31T19:08:28.5234409+00:00"
+  "LastUpdate_Ratings": "2023-12-31T20:00:55.6354916+00:00",
+  "LastUpdate_Achievements": "2023-12-31T20:09:27.8897783+00:00"
 }

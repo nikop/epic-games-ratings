@@ -4,7 +4,7 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -2149,9 +2149,9 @@
       "ID": "Hologram",
       "SetID": "7jbi7el",
       "Name": "Holographic Scanner",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 70,
-      "UsersEstimate": 194
+      "UsersEstimate": 197
     },
     {
       "ID": "Screwdriver",
@@ -2188,8 +2188,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-12-31T19:05:30.0058302+00:00",
+  "LastChanged_Achievements": "2023-12-31T20:06:38.2181001+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:21.0304+00:00",
-  "LastUpdate_Ratings": "2023-12-31T19:00:07.2388263+00:00",
-  "LastUpdate_Achievements": "2023-12-31T19:05:30.0058485+00:00"
+  "LastUpdate_Ratings": "2023-12-31T20:01:17.6518543+00:00",
+  "LastUpdate_Achievements": "2023-12-31T20:06:38.2181199+00:00"
 }

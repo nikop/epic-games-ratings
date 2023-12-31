@@ -25,6 +25,7 @@
 | Missing Melodies | 2.00% | ~3 |
 | Smotherly Love | 2.00% | ~3 |
 | Transformative Nature | 2.00% | ~3 |
+| Pommelsmith | 0.80% | ~1 |
 | Redeemer | 0.80% | ~1 |
 | Champion of Starspire | 0.80% | ~1 |
 | No Salvation | 0.00% | ~0 |
@@ -35,7 +36,6 @@
 | Shattered Illusions | 0.00% | ~0 |
 | Aura Mastered | 0.00% | ~0 |
 | One Size Fits All | 0.00% | ~0 |
-| Pommelsmith | 0.00% | ~0 |
 | The Trinket Tracker | 0.00% | ~0 |
 | Family Heirlooms | 0.00% | ~0 |
 | A Casualty of Truth | 0.00% | ~0 |

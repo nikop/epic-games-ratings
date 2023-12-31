@@ -2,12 +2,12 @@
   "ID": "effee7c2775148e9a99f5685d29751d2",
   "Name": "The Surge 2",
   "ProductSlug": "the-surge-2-e7df70",
-  "Ranking_Rating": 893,
+  "Ranking_Rating": 894,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2424,
+  "EOS_Progressed": 2425,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -4099,6 +4099,11 @@
       "Time": "2023-12-31T16:03:52.472746+00:00",
       "NumProgressed": 2424,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-12-31T20:04:50.0566754+00:00",
+      "NumProgressed": 2425,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4134,7 +4139,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "ACHV_05",
@@ -4214,7 +4219,7 @@
       "Name": "Reborn",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHV_15",
@@ -4310,7 +4315,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1915
+      "UsersEstimate": 1916
     },
     {
       "ID": "ACHV_27",
@@ -4318,7 +4323,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "ACHV_28",
@@ -4358,7 +4363,7 @@
       "Name": "Remote Surgery",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHV_33",
@@ -4382,7 +4387,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "ACHV_36",
@@ -4398,7 +4403,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ACHV_38",
@@ -4412,9 +4417,9 @@
       "ID": "ACHV_39",
       "SetID": "8p5mlmc",
       "Name": "Don\u0027t I Know You...?",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1818
+      "UsersEstimate": 1843
     },
     {
       "ID": "ACHV_40",
@@ -4430,7 +4435,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "ACHV_42",
@@ -4462,7 +4467,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ACHV_46",
@@ -4486,7 +4491,7 @@
       "Name": "Turbo Booster",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHV_49",
@@ -4550,7 +4555,7 @@
       "Name": "Squid Pro Quo",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHV_57",
@@ -4565,7 +4570,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2424,
+      "Progressed": 2425,
       "Completed": 13
     }
   ],
@@ -4573,8 +4578,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-29T03:00:05.8444174+00:00",
-  "LastChanged_Achievements": "2023-12-31T19:03:59.0260836+00:00",
+  "LastChanged_Achievements": "2023-12-31T20:04:50.056675+00:00",
   "LastUpdate_AppInfo": "2023-12-30T17:56:59.176771+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:57:57.8266794+00:00",
-  "LastUpdate_Achievements": "2023-12-31T19:03:59.0261452+00:00"
+  "LastUpdate_Ratings": "2023-12-31T19:58:32.824553+00:00",
+  "LastUpdate_Achievements": "2023-12-31T20:04:50.056735+00:00"
 }

@@ -8,26 +8,26 @@ Number of Ratings: 85  (23.09.2022)
 | ---- | ---------- | ----- |
 | Shop Til They Drop | 70.00% | ~183 |
 | Kaijuiced | 68.00% | ~177 |
-| Lie Back and Think of Albion | 61.00% | ~159 |
+| Lie Back and Think of Albion | 62.00% | ~162 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 59.00% | ~154 |
-| I Look Up As I Walk to Takoshima | 57.00% | ~149 |
+| I Look Up As I Walk to Takoshima | 58.00% | ~151 |
 | Yettisoned | 56.00% | ~146 |
 | Perfect Probulator | 54.00% | ~141 |
-| Pimp My Raid | 52.00% | ~136 |
+| Pimp My Raid | 53.00% | ~138 |
 | Lobster Blisque | 49.00% | ~128 |
 | Fly Me to the Moon Base | 46.00% | ~120 |
 | Earthly Pleasures | 46.00% | ~120 |
-| Ducks in a Row, Fish in a Barrel | 43.00% | ~112 |
+| Ducks in a Row, Fish in a Barrel | 44.00% | ~115 |
 | Forbidden Donut | 36.00% | ~94 |
 | Freshly Squeezed | 36.00% | ~94 |
-| Bodied Sattva | 34.00% | ~89 |
+| Bodied Sattva | 35.00% | ~91 |
 | Upgreatest | 33.00% | ~86 |
 | Furon Fashion | 29.00% | ~76 |
 | Deincarnated | 28.00% | ~73 |
 | Rock of the Bay | 24.00% | ~63 |
 | Trans-Siberian Express | 24.00% | ~63 |
 | Re-Return of the Clone of the Invasion II-2 | 20.00% | ~52 |
-| Arkvoodle Doodle | 17.00% | ~44 |
+| Arkvoodle Doodle | 18.00% | ~47 |
 | If You Know What I Mean | 17.00% | ~44 |
 | Ouch of Body Experience | 16.00% | ~42 |
 | Die Nasty | 16.00% | ~42 |

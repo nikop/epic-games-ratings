@@ -5,27 +5,27 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Chapter I | 51.00% | ~92 |
-| Fire in the... nevermind | 51.00% | ~92 |
-| Haute cuisine | 46.00% | ~83 |
-| I didn't do it! | 39.00% | ~70 |
-| Demolition expert | 38.00% | ~68 |
-| Open up wide | 37.00% | ~67 |
-| Keep away from children | 37.00% | ~67 |
-| Wooooooow! | 34.00% | ~61 |
-| Artistic fool | 32.00% | ~58 |
+| Fire in the... nevermind | 50.00% | ~90 |
+| Haute cuisine | 45.00% | ~81 |
+| I didn't do it! | 39.00% | ~71 |
+| Demolition expert | 38.00% | ~69 |
+| Open up wide | 36.00% | ~65 |
+| Keep away from children | 36.00% | ~65 |
+| Wooooooow! | 34.00% | ~62 |
 | Shadow on the wall | 32.00% | ~58 |
-| Let the boot talk | 31.00% | ~56 |
+| Artistic fool | 31.00% | ~56 |
+| Let the boot talk | 30.00% | ~54 |
 | Chapter II | 25.00% | ~45 |
-| Handyman | 23.00% | ~41 |
-| Bubblekillerfamily | 23.00% | ~41 |
-| Chapter III | 23.00% | ~41 |
-| Like a moth in the Wind | 23.00% | ~41 |
+| Handyman | 23.00% | ~42 |
+| Bubblekillerfamily | 23.00% | ~42 |
+| Chapter III | 23.00% | ~42 |
+| Like a moth in the Wind | 23.00% | ~42 |
 | Quite a buggy game | 22.00% | ~40 |
 | Achoo!! | 22.00% | ~40 |
 | Pacifist | 21.00% | ~38 |
 | Mirror mirror on the wall... | 19.00% | ~34 |
-| Fastidious Clown | 18.00% | ~32 |
-| Home is where the heart is | 18.00% | ~32 |
+| Fastidious Clown | 18.00% | ~33 |
+| Home is where the heart is | 18.00% | ~33 |
 | It's not easy being green! | 17.00% | ~31 |
 | Death is a part of life | 14.00% | ~25 |
 | To err is human... | 12.00% | ~22 |
@@ -51,7 +51,7 @@
 | Sherlock Holmes | 0.60% | ~1 |
 | Do not feed the fish! | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 180 (Ranked 427)  
+Progressed: 181 (Ranked 427)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,6 +120,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-18 | 178 | 0 |
 | 2023-12-19 | 179 | 0 |
 | 2023-12-26 | 180 | 0 |
+| 2023-12-31 | 181 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

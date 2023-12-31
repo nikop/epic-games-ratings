@@ -4,7 +4,7 @@
   "ProductSlug": "engine-evolution-2023-7d9eb7",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1098,
+  "EOS_Progressed": 1104,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 656,
+  "EOS_NewPlayers": 654,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1404,6 +1404,11 @@
       "Time": "2023-12-31T19:09:02.9166668+00:00",
       "NumProgressed": 1098,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T20:10:02.2583491+00:00",
+      "NumProgressed": 1104,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T16:02:20.9417999+00:00",
@@ -1438,9 +1443,9 @@
       "ID": "FASTEST_LAP_1",
       "SetID": "4nk2039",
       "Name": "Fastest lap",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 199
     },
     {
       "ID": "FASTEST_LAP_10",
@@ -1464,7 +1469,7 @@
       "Name": "Greener",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 527
+      "UsersEstimate": 530
     },
     {
       "ID": "FINISHED_10",
@@ -1496,7 +1501,7 @@
       "Name": "One formula race",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "FINISHED_RACE_MOTORBIKE_1",
@@ -1504,7 +1509,7 @@
       "Name": "One motorbike race",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 439
+      "UsersEstimate": 442
     },
     {
       "ID": "ONE_LAP",
@@ -1512,7 +1517,7 @@
       "Name": "First lap",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 736
+      "UsersEstimate": 740
     },
     {
       "ID": "PODIUM_1",
@@ -1520,7 +1525,7 @@
       "Name": "Podium finisher",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 384
+      "UsersEstimate": 386
     },
     {
       "ID": "PODIUM_10",
@@ -1536,7 +1541,7 @@
       "Name": "Good driver",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "REGISTER",
@@ -1544,7 +1549,7 @@
       "Name": "On the starting grid",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1060
     },
     {
       "ID": "RESEARCHED_2",
@@ -1552,7 +1557,7 @@
       "Name": "Generation 2",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 285
+      "UsersEstimate": 287
     },
     {
       "ID": "RESEARCHED_3",
@@ -1560,7 +1565,7 @@
       "Name": "Generation 3",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "RESEARCHED_4",
@@ -1616,7 +1621,7 @@
       "Name": "Race winner",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "WIN_10",
@@ -1656,7 +1661,7 @@
       "Name": "Newcomer",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 527
+      "UsersEstimate": 530
     },
     {
       "ID": "XP_1000",
@@ -1664,7 +1669,7 @@
       "Name": "Rookie",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "XP_10000",
@@ -1695,14 +1700,14 @@
     {
       "ID": "4nk2039",
       "IsBase": true,
-      "Progressed": 1098,
+      "Progressed": 1104,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-20T20:59:52.9883268+00:00",
   "FirstSeenAchievements": "2023-09-03T16:02:20.9417998+00:00",
-  "LastChanged_Achievements": "2023-12-31T19:09:02.9166664+00:00",
+  "LastChanged_Achievements": "2023-12-31T20:10:02.2583488+00:00",
   "LastUpdate_AppInfo": "2023-12-24T23:57:03.0458166+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:58:12.1466347+00:00",
-  "LastUpdate_Achievements": "2023-12-31T19:09:02.9166945+00:00"
+  "LastUpdate_Ratings": "2023-12-31T19:58:51.9394741+00:00",
+  "LastUpdate_Achievements": "2023-12-31T20:10:02.2583965+00:00"
 }

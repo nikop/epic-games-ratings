@@ -4,7 +4,7 @@
   "ProductSlug": "elypse-b177a8",
   "Ranking_EOS_Progress": 469,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 379,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -697,9 +697,9 @@
       "ID": "Ach_BuyHut",
       "SetID": "4o5gjp0",
       "Name": "Pigeon",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "Ach_CallBeggarNothingToSell",
@@ -793,9 +793,9 @@
       "ID": "Ach_EnnemyDeathByEnnemy",
       "SetID": "4o5gjp0",
       "Name": "Baited",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "Ach_FinalBossHand",
@@ -912,8 +912,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-12-31T19:08:51.9325093+00:00",
+  "LastChanged_Achievements": "2023-12-31T20:09:55.2951303+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:55.0553483+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:58:06.9930984+00:00",
-  "LastUpdate_Achievements": "2023-12-31T19:08:51.9325375+00:00"
+  "LastUpdate_Ratings": "2023-12-31T19:58:45.0247732+00:00",
+  "LastUpdate_Achievements": "2023-12-31T20:09:55.2951556+00:00"
 }

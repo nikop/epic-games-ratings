@@ -10362,9 +10362,9 @@
       "Count": 1071
     }
   ],
-  "EOS_Progressed": 131003,
+  "EOS_Progressed": 131012,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1370,
+  "EOS_NewPlayers": 1365,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37707,6 +37707,11 @@
       "Time": "2023-12-31T19:09:32.1196172+00:00",
       "NumProgressed": 131003,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-31T20:10:37.0879134+00:00",
+      "NumProgressed": 131012,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37748,9 +37753,9 @@
       "ID": "altar_of_hope_unlock_hero_flagellant",
       "SetID": "64l4lke",
       "Name": "Resurrection",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2620
+      "UsersEstimate": 3930
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -37846,7 +37851,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6550
+      "UsersEstimate": 6551
     },
     {
       "ID": "combat_kill_cadavers",
@@ -37878,7 +37883,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6550
+      "UsersEstimate": 6551
     },
     {
       "ID": "combat_kill_fanatics",
@@ -37942,7 +37947,7 @@
       "Name": "Overdue Notice",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6550
+      "UsersEstimate": 6551
     },
     {
       "ID": "combat_kill_pillagers",
@@ -37958,7 +37963,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6550
+      "UsersEstimate": 6551
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -38070,7 +38075,7 @@
       "Name": "Autodidact",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7860
+      "UsersEstimate": 7861
     },
     {
       "ID": "hero_story_complete_all",
@@ -38100,9 +38105,9 @@
       "ID": "hospital_full_service",
       "SetID": "64l4lke",
       "Name": "Triage",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 917
+      "UsersEstimate": 1048
     },
     {
       "ID": "inn_first_time",
@@ -38238,7 +38243,7 @@
       "Name": "Battle Hardened",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "altar_of_hope_memory_equip_all_duelist",
@@ -38254,7 +38259,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "combat_kill_collector",
@@ -38262,7 +38267,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -38318,7 +38323,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -38342,28 +38347,28 @@
       "Name": "On This Long Road, We Found Redemption",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131003,
+      "Progressed": 131012,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5872,
+      "Progressed": 5881,
       "Completed": 820
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-31T17:57:49.354731+00:00",
-  "LastChanged_Achievements": "2023-12-31T19:09:32.1196167+00:00",
+  "LastChanged_Achievements": "2023-12-31T20:10:37.087913+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:57:49.4951438+00:00",
-  "LastUpdate_Achievements": "2023-12-31T19:09:32.119809+00:00"
+  "LastUpdate_Ratings": "2023-12-31T19:58:22.4243144+00:00",
+  "LastUpdate_Achievements": "2023-12-31T20:10:37.0881144+00:00"
 }

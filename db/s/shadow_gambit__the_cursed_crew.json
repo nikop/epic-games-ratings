@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -179,11 +179,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1379,
+  "EOS_Progressed": 1381,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.54,
+  "EOS_Completed_Percentage": 2.53,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -4754,6 +4754,11 @@
       "Time": "2023-12-31T19:05:33.7960412+00:00",
       "NumProgressed": 1379,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-31T20:06:42.4278773+00:00",
+      "NumProgressed": 1381,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4774,7 +4779,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "_03_FinishAct1",
@@ -4782,7 +4787,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4790,7 +4795,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "_05_FinishAct2",
@@ -4814,15 +4819,15 @@
       "Name": "All Good Things",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 510
+      "UsersEstimate": 497
     },
     {
       "ID": "_09_Completion_20",
@@ -4894,7 +4899,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -4908,9 +4913,9 @@
       "ID": "_19_CrewTale_BSP",
       "SetID": "8a1io5d",
       "Name": "Persistent Parasite",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 235
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -4950,7 +4955,7 @@
       "Name": "Jaded Judge",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -4973,7 +4978,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1379,
+      "Progressed": 1381,
       "Completed": 35
     }
   ],
@@ -4981,8 +4986,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2023-12-31T19:05:33.7960408+00:00",
+  "LastChanged_Achievements": "2023-12-31T20:06:42.427877+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2023-12-31T19:00:12.4942742+00:00",
-  "LastUpdate_Achievements": "2023-12-31T19:05:33.7960763+00:00"
+  "LastUpdate_Ratings": "2023-12-31T20:01:24.8606325+00:00",
+  "LastUpdate_Achievements": "2023-12-31T20:06:42.4279057+00:00"
 }

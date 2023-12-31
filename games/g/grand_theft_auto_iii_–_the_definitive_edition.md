@@ -1,23 +1,23 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.21 (Ranked 939)  
+Rating: 4.21 (Ranked 940)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~9,299 |
-| Disposing of the Evidence | 38.00% | ~4,258 |
-| Without a Scratch | 34.00% | ~3,809 |
-| Wreckless Driving | 28.00% | ~3,137 |
-| A Marked Man | 25.00% | ~2,801 |
-| Street Sweeper | 19.00% | ~2,129 |
-| Liberty City Minute | 17.00% | ~1,905 |
+| First Day on the Job | 83.00% | ~9,304 |
+| Disposing of the Evidence | 38.00% | ~4,260 |
+| Without a Scratch | 34.00% | ~3,811 |
+| Wreckless Driving | 28.00% | ~3,139 |
+| A Marked Man | 25.00% | ~2,802 |
+| Street Sweeper | 19.00% | ~2,130 |
+| Liberty City Minute | 17.00% | ~1,906 |
 | Offshore Delivery | 14.00% | ~1,569 |
-| Dirty Money | 12.00% | ~1,344 |
-| By a Mile | 10.00% | ~1,120 |
-| Not So Fast | 10.00% | ~1,120 |
-| Right-hand Man | 10.00% | ~1,120 |
-| A Gift from the King | 7.00% | ~784 |
+| Dirty Money | 12.00% | ~1,345 |
+| By a Mile | 10.00% | ~1,121 |
+| Not So Fast | 10.00% | ~1,121 |
+| Right-hand Man | 10.00% | ~1,121 |
+| A Gift from the King | 7.00% | ~785 |
 | Full Artillery | 4.00% | ~448 |
 | Mob Boss | 3.00% | ~336 |
 | Escape Artist | 2.00% | ~224 |
@@ -35,7 +35,7 @@ Rating: 4.21 (Ranked 939)
 | Is That All You've Got? | 0.90% | ~101 |
 | King of Liberty City | 0.60% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,204 (Ranked 177)  
+Progressed: 11,210 (Ranked 177)  
 Completed: 70 (0.62%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 70 (0.62%) (Ranked 203)
 | 2023-12-28 | 10,918 | 69 |
 | 2023-12-29 | 11,014 | 70 |
 | 2023-12-30 | 11,134 | 70 |
-| 2023-12-31 | 11,204 | 70 |
+| 2023-12-31 | 11,210 | 70 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

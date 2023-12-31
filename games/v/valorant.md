@@ -1,7 +1,7 @@
 # VALORANT
 [Store](https://store.epicgames.com/en-US/p/valorant)  
 [View Rawdata](../../db/v/valorant.json)  
-Rating: 4.52 (Ranked 572)  
+Rating: 4.52 (Ranked 573)  
 Number of Ratings: 157,172  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 90,422  (Ranked 10)  

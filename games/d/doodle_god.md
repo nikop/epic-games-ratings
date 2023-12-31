@@ -8,7 +8,7 @@
 | Practice Makes Perfect | 85.00% | ~230 |
 | Creator of Life | 83.00% | ~225 |
 | Creator of Diversity | 72.00% | ~195 |
-| Similar to Similar | 70.00% | ~190 |
+| Similar to Similar | 71.00% | ~192 |
 | Creator of Humanity | 66.00% | ~179 |
 | Creator of Civilization | 40.00% | ~108 |
 | Creator of Technology | 24.00% | ~65 |

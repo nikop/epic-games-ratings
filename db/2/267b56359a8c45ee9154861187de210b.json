@@ -1148,9 +1148,9 @@
       "ID": "trophies_10",
       "SetID": "3448go",
       "Name": "Look What I Found!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "trophies_117",
@@ -1219,8 +1219,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-12-31T19:06:17.9218546+00:00",
+  "LastChanged_Achievements": "2023-12-31T20:07:35.2383237+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:18.5941148+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:57:48.4630284+00:00",
-  "LastUpdate_Achievements": "2023-12-31T19:06:17.9219217+00:00"
+  "LastUpdate_Ratings": "2023-12-31T19:58:21.1628123+00:00",
+  "LastUpdate_Achievements": "2023-12-31T20:07:35.2383901+00:00"
 }

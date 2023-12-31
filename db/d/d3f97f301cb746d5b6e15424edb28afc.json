@@ -2,7 +2,7 @@
   "ID": "d3f97f301cb746d5b6e15424edb28afc",
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
-  "Ranking_Rating": 558,
+  "Ranking_Rating": 559,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 262,
@@ -127,7 +127,7 @@
   "Tags": [],
   "EOS_Progressed": 1493,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4150,9 +4150,9 @@
       "ID": "ACH_FEED_GATOR",
       "SetID": "5fn8ia4",
       "Name": "Feed the Beast",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 582
+      "UsersEstimate": 597
     },
     {
       "ID": "ACH_FISH",
@@ -4550,9 +4550,9 @@
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 2",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1299
     },
     {
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
@@ -4847,8 +4847,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-31T11:57:35.1216953+00:00",
-  "LastChanged_Achievements": "2023-12-31T19:05:03.2245655+00:00",
+  "LastChanged_Achievements": "2023-12-31T20:06:07.4603726+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:05.7719462+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:57:26.6992035+00:00",
-  "LastUpdate_Achievements": "2023-12-31T19:05:03.2246506+00:00"
+  "LastUpdate_Ratings": "2023-12-31T19:57:53.1492457+00:00",
+  "LastUpdate_Achievements": "2023-12-31T20:06:07.460459+00:00"
 }

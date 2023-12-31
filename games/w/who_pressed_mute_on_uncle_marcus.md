@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Sorry, kiddo | 97.00% | ~275 |
 | And away we go! | 88.00% | ~249 |
-| Job one. DONE! | 61.00% | ~173 |
+| Job one. DONE! | 62.00% | ~175 |
 | You are Carol Vorderman | 57.00% | ~161 |
 | Toby foolery | 51.00% | ~144 |
 | Instinct | 39.00% | ~110 |

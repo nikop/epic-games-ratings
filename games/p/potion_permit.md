@@ -1,14 +1,14 @@
 # Potion Permit
 [Store](https://store.epicgames.com/en-US/p/potion-permit)  
 [View Rawdata](../../db/p/potion_permit.json)  
-Rating: 3.85 (Ranked 1,061)  
+Rating: 3.85 (Ranked 1,062)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to Moonbury | 98.00% | ~1,807 |
 | The First Step | 87.00% | ~1,604 |
 | Moonbury Traveller | 63.00% | ~1,162 |
-| Rookie Chemist | 60.00% | ~1,106 |
+| Rookie Chemist | 61.00% | ~1,125 |
 | Great Doctor | 50.00% | ~922 |
 | Dog Whisperer | 48.00% | ~885 |
 | Friendly | 46.00% | ~848 |
@@ -44,7 +44,7 @@ Rating: 3.85 (Ranked 1,061)
 | Moonbury Navigator | 1.00% | ~18 |
 | Being a donut... | 0.70% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,844 (Ranked 246)  
+Progressed: 1,844 (Ranked 247)  
 Completed: 11 (0.60%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |

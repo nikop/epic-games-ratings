@@ -6,7 +6,7 @@ Rating: 4.55 (Ranked 521)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Beginner | 90.00% | ~132 |
-| Map reader | 65.00% | ~96 |
+| Map reader | 66.00% | ~97 |
 | Adventurer | 64.00% | ~94 |
 | Philanthropist | 61.00% | ~90 |
 | Archer | 43.00% | ~63 |

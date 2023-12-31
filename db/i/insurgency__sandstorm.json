@@ -4,7 +4,7 @@
   "ProductSlug": "insurgency-sandstorm",
   "Ranking_Rating": 397,
   "Ranking_Popularity": 236,
-  "Ranking_PopularitySum": 178,
+  "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 40,
@@ -4550,10 +4550,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 3309,
       "NumberOfAwardsMax": 415
+    },
+    {
+      "Time": "2023-12-31T19:57:46.723047+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3311,
+      "NumberOfAwardsMax": 415
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3309,
+  "NumberOfAwards": 3311,
   "NumberOfAwardsMax": 415,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -4573,7 +4579,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 380
+      "Count": 382
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4624,9 +4630,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 516129,
+  "EOS_Progressed": 516164,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6376,
+  "EOS_NewPlayers": 6359,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33959,6 +33965,11 @@
       "Time": "2023-12-31T19:08:25.0038028+00:00",
       "NumProgressed": 516129,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-31T20:09:23.7364419+00:00",
+      "NumProgressed": 516164,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -33978,7 +33989,7 @@
       "Name": "Blindfire",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 5161
+      "UsersEstimate": 5162
     },
     {
       "ID": "ACH_CARRYING",
@@ -34026,7 +34037,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20645
+      "UsersEstimate": 20647
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -34074,7 +34085,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15484
+      "UsersEstimate": 15485
     },
     {
       "ID": "ACH_JR_50",
@@ -34098,7 +34109,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15484
+      "UsersEstimate": 15485
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -34138,7 +34149,7 @@
       "Name": "Point Shooting",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20645
+      "UsersEstimate": 20647
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -34170,7 +34181,7 @@
       "Name": "Ruthless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 5161
+      "UsersEstimate": 5162
     },
     {
       "ID": "ACH_SELF_DESTRUCTIVE",
@@ -34186,7 +34197,7 @@
       "Name": "Semper Paratus",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 5161
+      "UsersEstimate": 5162
     },
     {
       "ID": "ACH_SPECIAL_DELIVERY",
@@ -34202,7 +34213,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15484
+      "UsersEstimate": 15485
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -34226,7 +34237,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 15484
+      "UsersEstimate": 15485
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -34234,7 +34245,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 25806
+      "UsersEstimate": 25808
     },
     {
       "ID": "ACH_WET_FEET",
@@ -34242,22 +34253,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20645
+      "UsersEstimate": 20647
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 516129,
+      "Progressed": 516164,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-12-31T14:57:22.6151798+00:00",
-  "LastChanged_Achievements": "2023-12-31T19:08:25.0038022+00:00",
+  "LastChanged": "2023-12-31T19:57:46.7230469+00:00",
+  "LastChanged_Achievements": "2023-12-31T20:09:23.7364416+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:00.66739+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:57:21.4808406+00:00",
-  "LastUpdate_Achievements": "2023-12-31T19:08:25.0040023+00:00"
+  "LastUpdate_Ratings": "2023-12-31T19:57:46.7230476+00:00",
+  "LastUpdate_Achievements": "2023-12-31T20:09:23.7366185+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "b595ab13a93a4be8b6857cc14d2d6e8b",
   "Name": "Good Company",
   "ProductSlug": "good-company",
-  "Ranking_Rating": 687,
+  "Ranking_Rating": 688,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 199,
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5762,
+  "EOS_Progressed": 5764,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5099,6 +5099,11 @@
       "Time": "2023-12-31T17:03:33.4878372+00:00",
       "NumProgressed": 5762,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T20:04:17.0802328+00:00",
+      "NumProgressed": 5764,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -5222,7 +5227,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2823
+      "UsersEstimate": 2824
     },
     {
       "ID": "ach_campaign_progress6",
@@ -5262,7 +5267,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1499
     },
     {
       "ID": "ach_campaign_special10",
@@ -5366,7 +5371,7 @@
       "Name": "Extra Life: Wish Granted",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ach_campaign_special6",
@@ -5454,7 +5459,7 @@
       "Name": "High Five!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ach_frp_high_networth",
@@ -5470,7 +5475,7 @@
       "Name": "Modular Progress",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ach_frp_many_modules2",
@@ -5717,15 +5722,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5762,
+      "Progressed": 5764,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-12-29T23:58:32.3539857+00:00",
-  "LastChanged_Achievements": "2023-12-31T19:03:31.2384944+00:00",
+  "LastChanged_Achievements": "2023-12-31T20:04:17.0802321+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.6175263+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:59:50.3540391+00:00",
-  "LastUpdate_Achievements": "2023-12-31T19:03:31.2385921+00:00"
+  "LastUpdate_Ratings": "2023-12-31T20:00:57.4335282+00:00",
+  "LastUpdate_Achievements": "2023-12-31T20:04:17.080318+00:00"
 }

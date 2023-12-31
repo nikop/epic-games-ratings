@@ -1,22 +1,22 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.20 (Ranked 951)  
+Rating: 4.20 (Ranked 952)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~2,081 |
-| Battlefields Have Memories | 80.00% | ~1,914 |
-| Enlisted | 73.00% | ~1,746 |
-| Maybe Engage a Little | 68.00% | ~1,627 |
-| No More Names | 50.00% | ~1,196 |
-| Initiate | 36.00% | ~861 |
-| Thrada-Kul | 32.00% | ~765 |
-| Gravity-Challenged Rocks | 26.00% | ~622 |
-| Socialite | 23.00% | ~550 |
-| Soldier | 22.00% | ~526 |
-| All the Major Food Groups | 21.00% | ~502 |
-| Beggars Would Ride | 19.00% | ~454 |
+| Unforeseen | 87.00% | ~2,084 |
+| Battlefields Have Memories | 80.00% | ~1,916 |
+| Enlisted | 73.00% | ~1,748 |
+| Maybe Engage a Little | 68.00% | ~1,629 |
+| No More Names | 50.00% | ~1,198 |
+| Initiate | 36.00% | ~862 |
+| Thrada-Kul | 32.00% | ~766 |
+| Gravity-Challenged Rocks | 26.00% | ~623 |
+| Socialite | 23.00% | ~551 |
+| Soldier | 22.00% | ~527 |
+| All the Major Food Groups | 21.00% | ~503 |
+| Beggars Would Ride | 19.00% | ~455 |
 | Control is an Illusion | 18.00% | ~431 |
 | The Means to Save It | 15.00% | ~359 |
 | Resilience to Sin | 14.00% | ~335 |
@@ -25,9 +25,9 @@ Rating: 4.20 (Ranked 951)
 | Periapt Alizarin | 13.00% | ~311 |
 | A Perfect Cycle | 12.00% | ~287 |
 | Recruit | 11.00% | ~263 |
-| Armsman | 10.00% | ~239 |
-| Lights Army | 8.00% | ~191 |
-| Periapt Cerulean | 7.00% | ~167 |
+| Armsman | 10.00% | ~240 |
+| Lights Army | 8.00% | ~192 |
+| Periapt Cerulean | 7.00% | ~168 |
 | Good Boy | 6.00% | ~144 |
 | Best Dressed | 5.00% | ~120 |
 | Periapt Viridian | 5.00% | ~120 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 951)
 | Out of Time | 0.20% | ~5 |
 | Fowl Play | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,392 (Ranked 233)  
+Progressed: 2,395 (Ranked 233)  
 Completed: 2 (0.08%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 2 (0.08%) (Ranked 320)
 | 2023-12-28 | 2,136 | 2 |
 | 2023-12-29 | 2,236 | 2 |
 | 2023-12-30 | 2,327 | 2 |
-| 2023-12-31 | 2,392 | 2 |
+| 2023-12-31 | 2,395 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

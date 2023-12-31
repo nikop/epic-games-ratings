@@ -1,27 +1,27 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.12 (Ranked 999)  
+Rating: 4.12 (Ranked 1,000)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 58.00% | ~908 |
-| Trinity | 29.00% | ~454 |
+| Break Out | 58.00% | ~911 |
+| Trinity | 29.00% | ~455 |
 | Find Allies | 22.00% | ~345 |
 | A Taste of Wrath | 22.00% | ~345 |
 | I Found It | 22.00% | ~345 |
 | The Collector | 22.00% | ~345 |
-| Shatter Them All | 21.00% | ~329 |
-| Geared Up | 21.00% | ~329 |
-| Adventurer | 20.00% | ~313 |
-| Scholar | 20.00% | ~313 |
+| Shatter Them All | 21.00% | ~330 |
+| Geared Up | 21.00% | ~330 |
+| Adventurer | 20.00% | ~314 |
+| Scholar | 20.00% | ~314 |
 | Fashion Victim | 19.00% | ~298 |
 | Stone Collection | 19.00% | ~298 |
-| Powerful Allies | 18.00% | ~282 |
-| Tributes of Caladrias | 18.00% | ~282 |
+| Powerful Allies | 18.00% | ~283 |
+| Tributes of Caladrias | 18.00% | ~283 |
 | Big Bazar | 12.00% | ~188 |
-| Essence Blow | 11.00% | ~172 |
-| Alchemist | 11.00% | ~172 |
+| Essence Blow | 11.00% | ~173 |
+| Alchemist | 11.00% | ~173 |
 | The Mentor | 10.00% | ~157 |
 | Calm before the Storm | 7.00% | ~110 |
 | Airborne | 7.00% | ~110 |
@@ -42,7 +42,7 @@ Rating: 4.12 (Ranked 999)
 | All That Gold | 0.70% | ~11 |
 | Feeling Fancy | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,566 (Ranked 260)  
+Progressed: 1,570 (Ranked 260)  
 Completed: 3 (0.19%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 3 (0.19%) (Ranked 274)
 | 2023-12-28 | 1,412 | 3 |
 | 2023-12-29 | 1,459 | 3 |
 | 2023-12-30 | 1,519 | 3 |
-| 2023-12-31 | 1,566 | 3 |
+| 2023-12-31 | 1,570 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

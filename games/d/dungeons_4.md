@@ -58,8 +58,8 @@ Rating: 4.67 (Ranked 283)
 | To the Max! | 18.00% | ~122 |
 | To Infinity And Beyond! | 18.00% | ~122 |
 | Evilification | 17.00% | ~115 |
+| Mirror, Mirror | 16.00% | ~108 |
 | Heal Heal Blessing | 16.00% | ~108 |
-| Mirror, Mirror | 15.00% | ~102 |
 | Untouchable | 15.00% | ~102 |
 | Laser Eyes Are So Useless | 13.00% | ~88 |
 | Hands Off My Stones | 13.00% | ~88 |

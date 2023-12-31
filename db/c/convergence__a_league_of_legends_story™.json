@@ -2,12 +2,12 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 325,
+  "Ranking_Rating": 324,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1173,
+  "EOS_Progressed": 1174,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -3386,6 +3386,11 @@
       "Time": "2023-12-31T19:10:03.4871697+00:00",
       "NumProgressed": 1173,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-31T20:11:13.6420072+00:00",
+      "NumProgressed": 1174,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3429,7 +3434,7 @@
       "Name": "Right On Time",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ClockworkCompletion1",
@@ -3445,7 +3450,7 @@
       "Name": "Like Clockwork",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ClovemaryGift",
@@ -3469,7 +3474,7 @@
       "Name": "Street Style",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "CultivairChests1",
@@ -3493,7 +3498,7 @@
       "Name": "Family Memories",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "FactorywoodChests1",
@@ -3525,7 +3530,7 @@
       "Name": "The Betrayer",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -3547,9 +3552,9 @@
       "ID": "GadgetProgress1",
       "SetID": "a9e499d",
       "Name": "Whiz Kid",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 176
     },
     {
       "ID": "GrindingTime1",
@@ -3557,7 +3562,7 @@
       "Name": "Rail Rat",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "HexlockGift",
@@ -3597,7 +3602,7 @@
       "Name": "Cartographer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "NoCritterSump",
@@ -3677,7 +3682,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "RewindDamage1",
@@ -3685,7 +3690,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "RewindParry",
@@ -3699,9 +3704,9 @@
       "ID": "ScrambotCompletion1",
       "SetID": "a9e499d",
       "Name": "Golem Hunter",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 82
     },
     {
       "ID": "ScrambotProgress1",
@@ -3709,7 +3714,7 @@
       "Name": "Golem Chaser",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "SkillCompletion1",
@@ -3789,7 +3794,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "WatcherSpared",
@@ -3820,7 +3825,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1173,
+      "Progressed": 1174,
       "Completed": 6
     }
   ],
@@ -3828,8 +3833,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2023-12-31T19:10:03.4871695+00:00",
+  "LastChanged_Achievements": "2023-12-31T20:11:13.6420069+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2023-12-31T19:02:36.5177986+00:00",
-  "LastUpdate_Achievements": "2023-12-31T19:10:03.4872272+00:00"
+  "LastUpdate_Ratings": "2023-12-31T20:03:09.389336+00:00",
+  "LastUpdate_Achievements": "2023-12-31T20:11:13.6420518+00:00"
 }

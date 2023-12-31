@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 81.00% | ~295 |
-| First Blood | 63.00% | ~229 |
+| Seeds of War | 81.00% | ~296 |
+| First Blood | 63.00% | ~230 |
 | Triple Kill | 62.00% | ~226 |
-| Aspairagus | 60.00% | ~188 |
-| No Asperascope | 58.00% | ~211 |
-| Survivor | 57.00% | ~179 |
+| Aspairagus | 60.00% | ~189 |
+| No Asperascope | 58.00% | ~212 |
+| Survivor | 56.00% | ~176 |
 | Cornivore | 54.00% | ~197 |
-| I Believe I Can Fly | 49.00% | ~178 |
-| No Diggity | 45.00% | ~141 |
+| I Believe I Can Fly | 49.00% | ~179 |
+| No Diggity | 45.00% | ~142 |
 | Early Survivor | 40.00% | ~126 |
-| Bouncemato | 31.00% | ~97 |
+| Bouncemato | 31.00% | ~98 |
 | 10K | 29.00% | ~106 |
 | Amateur Survivor | 29.00% | ~91 |
-| 15K | 27.00% | ~98 |
-| Drinking Problem | 23.00% | ~84 |
+| 15K | 27.00% | ~99 |
 | Grave Digger | 23.00% | ~72 |
+| Drinking Problem | 22.00% | ~80 |
 | Quick-Draw Pod | 22.00% | ~69 |
-| Pork Chop Express | 21.00% | ~76 |
-| Professional Survivor | 20.00% | ~63 |
+| Pork Chop Express | 21.00% | ~77 |
+| Professional Survivor | 19.00% | ~60 |
 | Carrocketeer | 18.00% | ~66 |
 | Skin Of Your Teeth | 17.00% | ~62 |
 | Getting Started | 16.00% | ~58 |
@@ -33,9 +33,9 @@
 | Summers Here | 12.00% | ~38 |
 | Quit Horsin' Around | 11.00% | ~40 |
 | Fresh Pancake | 10.00% | ~36 |
-| Quadsparagus | 10.00% | ~31 |
-| Bring Home The Bacon | 9.00% | ~33 |
-| Expert Survivor | 9.00% | ~28 |
+| Quadsparagus | 10.00% | ~32 |
+| Bring Home The Bacon | 8.00% | ~29 |
+| Expert Survivor | 8.00% | ~25 |
 | Early Bird | 6.00% | ~22 |
 | Chick Magnet | 5.00% | ~18 |
 | I Have The High Ground | 5.00% | ~18 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 364 (Ranked 369)  
+Progressed: 365 (Ranked 369)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 360 | 0 |
 | 2023-12-29 | 361 | 0 |
 | 2023-12-30 | 363 | 0 |
-| 2023-12-31 | 364 | 0 |
+| 2023-12-31 | 365 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

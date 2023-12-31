@@ -943,9 +943,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 666593,
+  "EOS_Progressed": 666596,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -25208,6 +25208,11 @@
       "Time": "2023-12-31T19:09:11.9361673+00:00",
       "NumProgressed": 666593,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2023-12-31T20:10:12.8864317+00:00",
+      "NumProgressed": 666596,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -25219,7 +25224,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 479947
+      "UsersEstimate": 479949
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -25227,7 +25232,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 386624
+      "UsersEstimate": 386626
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -25235,7 +25240,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 153316
+      "UsersEstimate": 153317
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -25259,7 +25264,7 @@
       "Name": "Knight",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 53327
+      "UsersEstimate": 53328
     },
     {
       "ID": "Achievement_07_Dungeon_Master",
@@ -25283,7 +25288,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66659
+      "UsersEstimate": 66660
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -25315,7 +25320,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66659
+      "UsersEstimate": 66660
     },
     {
       "ID": "Achievement_14_Magician",
@@ -25355,7 +25360,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 153316
+      "UsersEstimate": 153317
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -25387,7 +25392,7 @@
       "Name": "Cure for Corruption",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 53327
+      "UsersEstimate": 53328
     },
     {
       "ID": "Achievement_23_Smithy",
@@ -25443,7 +25448,7 @@
       "Name": "Focused",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 53327
+      "UsersEstimate": 53328
     },
     {
       "ID": "Achievement_30_Devil_Dice",
@@ -25459,7 +25464,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79991
+      "UsersEstimate": 79992
     },
     {
       "ID": "Achievement_32_Karma",
@@ -25483,7 +25488,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166648
+      "UsersEstimate": 166649
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -25499,7 +25504,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59993
+      "UsersEstimate": 59994
     },
     {
       "ID": "Achievement_37_Champion",
@@ -25515,7 +25520,7 @@
       "Name": "Flurry of Fury",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 53327
+      "UsersEstimate": 53328
     },
     {
       "ID": "Achievement_39_Stuffed_Potato",
@@ -25602,15 +25607,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 666593,
+      "Progressed": 666596,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-24T17:58:48.2867936+00:00",
-  "LastChanged_Achievements": "2023-12-31T19:09:11.936167+00:00",
+  "LastChanged_Achievements": "2023-12-31T20:10:12.8864312+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:45.4290677+00:00",
-  "LastUpdate_Ratings": "2023-12-31T19:02:29.3425257+00:00",
-  "LastUpdate_Achievements": "2023-12-31T19:09:11.9363106+00:00"
+  "LastUpdate_Ratings": "2023-12-31T20:03:00.1128184+00:00",
+  "LastUpdate_Achievements": "2023-12-31T20:10:12.8865973+00:00"
 }

@@ -9,10 +9,10 @@ Rating: 4.71 (Ranked 202)
 | Energy Saver | 0.70% | ~60 |
 | Soul-Canon | 0.30% | ~26 |
 | The Journey Onwards | 0.30% | ~26 |
+| Ahem Ahem | 0.20% | ~17 |
 | Body and Soul | 0.20% | ~17 |
 | Globe Trotter | 0.20% | ~17 |
 | Shredder | 0.20% | ~17 |
-| Ahem Ahem | 0.10% | ~9 |
 | Audiophile | 0.10% | ~9 |
 | Clay Pigeon | 0.10% | ~9 |
 | Fashion Faux-Pas | 0.10% | ~9 |

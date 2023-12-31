@@ -2,12 +2,12 @@
   "ID": "696f412c815b40089807922419188f43",
   "Name": "Sengoku Dynasty",
   "ProductSlug": "sengoku-dynasty-2b3586",
-  "Ranking_Rating": 1046,
+  "Ranking_Rating": 1047,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 563,
+  "Ranking_EOS_NewPlayers": 565,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-10T15:00:00+00:00",
@@ -253,6 +253,6 @@
   "FirstSeenRating": "2023-08-21T09:58:13.4050342+00:00",
   "LastChanged": "2023-12-28T19:01:22.47638+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:13.6975728+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:58:14.4163383+00:00",
-  "LastUpdate_Achievements": "2023-12-31T19:08:43.7695486+00:00"
+  "LastUpdate_Ratings": "2023-12-31T19:58:55.106028+00:00",
+  "LastUpdate_Achievements": "2023-12-31T20:09:45.9146951+00:00"
 }

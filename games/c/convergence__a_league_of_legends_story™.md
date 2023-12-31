@@ -1,16 +1,16 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.65 (Ranked 325)  
+Rating: 4.65 (Ranked 324)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 43.00% | ~504 |
-| Rail Rat | 32.00% | ~375 |
+| Time Heals All Wounds | 43.00% | ~505 |
+| Rail Rat | 32.00% | ~376 |
 | The Mysterious Stranger | 31.00% | ~364 |
 | Immaculate Aim | 27.00% | ~317 |
 | The Brass Boss | 26.00% | ~305 |
-| The Prince in Heels | 25.00% | ~293 |
+| The Prince in Heels | 25.00% | ~294 |
 | Make Up For Lost Time | 24.00% | ~282 |
 | Time Flies | 24.00% | ~282 |
 | The Harder They Fall | 24.00% | ~282 |
@@ -21,20 +21,20 @@ Rating: 4.65 (Ranked 325)
 | The Steel Shadow | 23.00% | ~270 |
 | Breaking Down Barriers | 23.00% | ~270 |
 | The Wicked Twins | 22.00% | ~258 |
-| Right On Time | 21.00% | ~246 |
-| Like Clockwork | 21.00% | ~246 |
-| The Betrayer | 21.00% | ~246 |
-| Golem Chaser | 21.00% | ~246 |
+| Right On Time | 21.00% | ~247 |
+| Like Clockwork | 21.00% | ~247 |
+| The Betrayer | 21.00% | ~247 |
+| Golem Chaser | 21.00% | ~247 |
 | The Loose Cannon | 19.00% | ~223 |
 | Check Your Pulse | 19.00% | ~223 |
 | The Man Who Shattered Time | 18.00% | ~211 |
 | The Family Fortune | 18.00% | ~211 |
-| Street Style | 17.00% | ~199 |
-| Whiz Kid | 14.00% | ~164 |
+| Street Style | 17.00% | ~200 |
+| Whiz Kid | 15.00% | ~176 |
 | Good Neighbor | 14.00% | ~164 |
-| Family Memories | 13.00% | ~152 |
-| Cartographer | 13.00% | ~152 |
-| Ask Questions Later | 13.00% | ~152 |
+| Family Memories | 13.00% | ~153 |
+| Cartographer | 13.00% | ~153 |
+| Ask Questions Later | 13.00% | ~153 |
 | Chaincrawler Explorer | 12.00% | ~141 |
 | Treasure Trove | 12.00% | ~141 |
 | Syron for Hope | 12.00% | ~141 |
@@ -46,9 +46,9 @@ Rating: 4.65 (Ranked 325)
 | Corin Goes Home | 8.00% | ~94 |
 | Entresol Explorer | 8.00% | ~94 |
 | Sartorialist | 7.00% | ~82 |
+| Golem Hunter | 7.00% | ~82 |
 | Clovemary for Remembering | 6.00% | ~70 |
 | Hexlock for Protection | 6.00% | ~70 |
-| Golem Hunter | 6.00% | ~70 |
 | Rungs Was Right | 5.00% | ~59 |
 | Wunderkind | 2.00% | ~23 |
 | Fitting In | 2.00% | ~23 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 325)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,173 (Ranked 279)  
+Progressed: 1,174 (Ranked 279)  
 Completed: 6 (0.51%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 6 (0.51%) (Ranked 217)
 | 2023-12-28 | 1,136 | 6 |
 | 2023-12-29 | 1,145 | 6 |
 | 2023-12-30 | 1,165 | 6 |
-| 2023-12-31 | 1,173 | 6 |
+| 2023-12-31 | 1,174 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

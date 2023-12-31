@@ -669,9 +669,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6613,
+  "EOS_Progressed": 6614,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 472,
+  "EOS_NewPlayers": 468,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9909,6 +9909,11 @@
       "Time": "2023-12-31T19:06:28.0125283+00:00",
       "NumProgressed": 6613,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-31T20:07:47.1657816+00:00",
+      "NumProgressed": 6614,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10032,7 +10037,7 @@
       "Name": "Realm Estate",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "23",
@@ -10040,7 +10045,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "24",
@@ -10399,13 +10404,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6613,
+      "Progressed": 6614,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6613,
+      "Progressed": 6614,
       "Completed": 7
     }
   ],
@@ -10413,8 +10418,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-31T18:58:53.0277501+00:00",
-  "LastChanged_Achievements": "2023-12-31T19:06:28.0125279+00:00",
+  "LastChanged_Achievements": "2023-12-31T20:07:47.1657813+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:58:53.0277505+00:00",
-  "LastUpdate_Achievements": "2023-12-31T19:06:28.012605+00:00"
+  "LastUpdate_Ratings": "2023-12-31T19:59:43.619015+00:00",
+  "LastUpdate_Achievements": "2023-12-31T20:07:47.1658711+00:00"
 }

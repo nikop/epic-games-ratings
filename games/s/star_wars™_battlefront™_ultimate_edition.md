@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~2,104 |
-| Off to a good start | 62.00% | ~1,499 |
-| Do... or do not. There is no try | 52.00% | ~1,257 |
-| A good blaster at your side | 26.00% | ~629 |
-| I suggest a new strategy | 18.00% | ~435 |
-| Great shot, kid! | 16.00% | ~387 |
+| New Recruit | 87.00% | ~2,107 |
+| Off to a good start | 62.00% | ~1,502 |
+| Do... or do not. There is no try | 52.00% | ~1,259 |
+| A good blaster at your side | 26.00% | ~630 |
+| I suggest a new strategy | 18.00% | ~436 |
+| Great shot, kid! | 16.00% | ~388 |
 | Scrap collector | 15.00% | ~363 |
 | All right, I'll give it a try | 15.00% | ~363 |
-| Shoot first | 13.00% | ~314 |
-| The power of the Force | 12.00% | ~290 |
-| Collector | 12.00% | ~290 |
-| Together we can rule the galaxy | 12.00% | ~290 |
-| Tell Jabba that I've got his money | 8.00% | ~193 |
-| Best star-pilot in the galaxy | 8.00% | ~193 |
-| Never tell me the odds! | 7.00% | ~169 |
-| Survivor | 7.00% | ~169 |
-| A cunning warrior | 7.00% | ~169 |
+| Shoot first | 13.00% | ~315 |
+| The power of the Force | 12.00% | ~291 |
+| Collector | 12.00% | ~291 |
+| Together we can rule the galaxy | 12.00% | ~291 |
+| Tell Jabba that I've got his money | 8.00% | ~194 |
+| Best star-pilot in the galaxy | 8.00% | ~194 |
+| Never tell me the odds! | 7.00% | ~170 |
+| Survivor | 7.00% | ~170 |
+| A cunning warrior | 7.00% | ~170 |
 | What's the cargo? | 6.00% | ~145 |
 | "Gonk? Gonk!" | 5.00% | ~121 |
 | Impressive. Most impressive. | 5.00% | ~121 |
@@ -43,13 +43,13 @@
 | What will you become? | 2.00% | ~48 |
 | Disturbed tranquility | 2.00% | ~48 |
 | Hold the line! | 1.00% | ~24 |
-| Playing the objective | 1.00% | ~24 |
 | Ackbar's Elite | 1.00% | ~24 |
 | This is a new day, a new beginning | 1.00% | ~24 |
 | City in the Clouds | 1.00% | ~24 |
 | Alternative solution | 1.00% | ~24 |
 | Onwards! | 1.00% | ~24 |
 | The circle is now complete | 1.00% | ~24 |
+| Playing the objective | 0.90% | ~22 |
 | You have your moments | 0.80% | ~19 |
 | A New Hope | 0.70% | ~17 |
 | Walker defender | 0.70% | ~17 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,418 (Ranked 231)  
+Progressed: 2,422 (Ranked 231)  
 Completed: 1 (0.04%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 1 (0.04%) (Ranked 345)
 | 2023-12-28 | 2,299 | 1 |
 | 2023-12-29 | 2,337 | 1 |
 | 2023-12-30 | 2,388 | 1 |
-| 2023-12-31 | 2,418 | 1 |
+| 2023-12-31 | 2,422 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

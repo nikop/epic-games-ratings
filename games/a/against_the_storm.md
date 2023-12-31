@@ -9,9 +9,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 7.00% | ~1,388 |
 | Abandoned Settlement | 7.00% | ~1,388 |
 | Overgrown Library | 7.00% | ~1,388 |
-| First Real Expedition | 6.00% | ~1,189 |
-| No Deaths | 6.00% | ~1,189 |
-| Petrified Necropolis | 6.00% | ~1,189 |
+| First Real Expedition | 6.00% | ~1,190 |
+| No Deaths | 6.00% | ~1,190 |
+| Petrified Necropolis | 6.00% | ~1,190 |
 | Overcoming Difficulty | 5.00% | ~991 |
 | Coral Forest | 5.00% | ~991 |
 | The Marshlands | 5.00% | ~991 |
@@ -27,19 +27,19 @@ Number of Ratings: 1,845  (23.09.2022)
 | Watchtower | 3.00% | ~595 |
 | A Real Challenge | 3.00% | ~595 |
 | Untamed Wilds | 3.00% | ~595 |
-| Ruined Armory | 2.00% | ~396 |
-| Bandit Camp | 2.00% | ~396 |
-| Barren Lands | 2.00% | ~396 |
-| Ancient Battleground | 2.00% | ~396 |
-| Sparkdew Crystals | 2.00% | ~396 |
-| Haunted Forest | 2.00% | ~396 |
-| Levitating Monument | 2.00% | ~396 |
-| Flooded Mines | 2.00% | ~396 |
-| Lost Colonies | 2.00% | ~396 |
-| Statue of the Forefathers | 2.00% | ~396 |
-| Corrosive Torrent | 2.00% | ~396 |
-| Cursed Lands | 2.00% | ~396 |
-| Trade Baron | 2.00% | ~396 |
+| Ruined Armory | 2.00% | ~397 |
+| Bandit Camp | 2.00% | ~397 |
+| Barren Lands | 2.00% | ~397 |
+| Ancient Battleground | 2.00% | ~397 |
+| Sparkdew Crystals | 2.00% | ~397 |
+| Haunted Forest | 2.00% | ~397 |
+| Levitating Monument | 2.00% | ~397 |
+| Flooded Mines | 2.00% | ~397 |
+| Lost Colonies | 2.00% | ~397 |
+| Statue of the Forefathers | 2.00% | ~397 |
+| Corrosive Torrent | 2.00% | ~397 |
+| Cursed Lands | 2.00% | ~397 |
+| Trade Baron | 2.00% | ~397 |
 | Serving Ale | 1.00% | ~198 |
 | Refinery | 1.00% | ~198 |
 | Against All Odds | 1.00% | ~198 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,822 (Ranked 151)  
+Progressed: 19,826 (Ranked 152)  
 Completed: 34 (0.17%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,11 +321,11 @@ Completed: 34 (0.17%) (Ranked 279)
 | 2023-12-28 | 19,536 | 36 |
 | 2023-12-29 | 19,630 | 36 |
 | 2023-12-30 | 19,741 | 35 |
-| 2023-12-31 | 19,822 | 34 |
+| 2023-12-31 | 19,826 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 447  (Ranked 229)  
-Sum: 3,310 (Ranked 177)  
-Diff (max vs sum): 52  
+Sum: 3,310 (Ranked 178)  
+Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 447 |

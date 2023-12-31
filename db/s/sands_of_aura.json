@@ -733,9 +733,9 @@
       "ID": "COLLECT_ALL_POMMEL_CASTS",
       "SetID": "cm0d613",
       "Name": "Pommelsmith",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "COLLECT_ALL_TALISMANS",
@@ -1118,8 +1118,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-12-31T19:03:40.3603345+00:00",
+  "LastChanged_Achievements": "2023-12-31T20:04:27.6970994+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:22.6338315+00:00",
-  "LastUpdate_Ratings": "2023-12-31T19:02:49.6755925+00:00",
-  "LastUpdate_Achievements": "2023-12-31T19:03:40.3603731+00:00"
+  "LastUpdate_Ratings": "2023-12-31T20:03:25.0075176+00:00",
+  "LastUpdate_Achievements": "2023-12-31T20:04:27.6971383+00:00"
 }

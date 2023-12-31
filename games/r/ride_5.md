@@ -1,22 +1,22 @@
 # RIDE 5
 [Store](https://store.epicgames.com/en-US/p/ride-5)  
 [View Rawdata](../../db/r/ride_5.json)  
-Rating: 4.48 (Ranked 650)  
+Rating: 4.48 (Ranked 651)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eat My Dust | 48.00% | ~1,518 |
 | First Love | 45.00% | ~1,423 |
-| Clean Race | 44.00% | ~1,391 |
-| Hear That Roar! | 41.00% | ~1,296 |
-| Rivals to the End | 31.00% | ~980 |
+| Clean Race | 44.00% | ~1,392 |
+| Hear That Roar! | 41.00% | ~1,297 |
+| Rivals to the End | 31.00% | ~981 |
 | Bitter Rivalry | 30.00% | ~949 |
-| Champagne Spray | 28.00% | ~885 |
-| We're Going to Need a Bigger Garage | 27.00% | ~854 |
+| Champagne Spray | 28.00% | ~886 |
+| We're Going to Need a Bigger Garage | 26.00% | ~822 |
 | Quick Pit Stop | 21.00% | ~664 |
-| Restored and Ready | 20.00% | ~632 |
-| I Want One Too! | 20.00% | ~632 |
-| Legendary!!! | 20.00% | ~632 |
+| Restored and Ready | 20.00% | ~633 |
+| I Want One Too! | 20.00% | ~633 |
+| Legendary!!! | 20.00% | ~633 |
 | Go-Faster Stripes | 17.00% | ~538 |
 | I'm Here Too! | 15.00% | ~474 |
 | We've Just Begun | 14.00% | ~443 |
@@ -24,8 +24,8 @@ Rating: 4.48 (Ranked 650)
 | Stamina Star | 8.00% | ~253 |
 | Evangelist | 7.00% | ~221 |
 | Make It Your Own! | 5.00% | ~158 |
-| Cherry Blossom and Temples | 4.00% | ~126 |
-| The Road to Liberty | 4.00% | ~126 |
+| Cherry Blossom and Temples | 4.00% | ~127 |
+| The Road to Liberty | 4.00% | ~127 |
 | Spoilt for Choice | 3.00% | ~95 |
 | La Dolce Vita | 3.00% | ~95 |
 | Romantic Races | 3.00% | ~95 |
@@ -55,7 +55,7 @@ Rating: 4.48 (Ranked 650)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,162 (Ranked 223)  
+Progressed: 3,163 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 3,069 | 0 |
 | 2023-12-29 | 3,096 | 0 |
 | 2023-12-30 | 3,132 | 0 |
-| 2023-12-31 | 3,162 | 0 |
+| 2023-12-31 | 3,163 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

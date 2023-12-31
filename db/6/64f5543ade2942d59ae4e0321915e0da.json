@@ -1423,9 +1423,9 @@
       "ID": "AC_BOSS_04",
       "SetID": "16i2akc",
       "Name": "Heresy",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     },
     {
       "ID": "AC_COMBO_1",
@@ -1607,9 +1607,9 @@
       "ID": "AC_RECIPES_DONE_2",
       "SetID": "16i2akc",
       "Name": "Cheff",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "AC_ROCKET_MAX",
@@ -1662,8 +1662,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-12-31T19:03:51.2640692+00:00",
+  "LastChanged_Achievements": "2023-12-31T20:04:40.6197716+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:54.1541826+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:58:33.2014095+00:00",
-  "LastUpdate_Achievements": "2023-12-31T19:03:51.2640982+00:00"
+  "LastUpdate_Ratings": "2023-12-31T19:59:18.1209264+00:00",
+  "LastUpdate_Achievements": "2023-12-31T20:04:40.619797+00:00"
 }

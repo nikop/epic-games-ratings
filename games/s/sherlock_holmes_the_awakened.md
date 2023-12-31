@@ -1,7 +1,7 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.50 (Ranked 611)  
+Rating: 4.50 (Ranked 612)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -35,7 +35,7 @@ Rating: 4.50 (Ranked 611)
 | Reawakened | 3.00% | ~41 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,366 (Ranked 268)  
-Completed: 38 (2.78%) (Ranked 116)  
+Completed: 38 (2.78%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

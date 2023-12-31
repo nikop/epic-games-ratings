@@ -2,13 +2,13 @@
   "ID": "4d62b26703d24f6d919750b3d88b6d52",
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
-  "Ranking_Rating": 558,
+  "Ranking_Rating": 559,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 521,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -288,7 +288,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 265,
+  "EOS_Progressed": 266,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 1,
@@ -1318,6 +1318,11 @@
       "Time": "2023-12-31T10:09:24.0815918+00:00",
       "NumProgressed": 265,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T20:09:59.3092436+00:00",
+      "NumProgressed": 266,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1330,7 +1335,7 @@
       "Name": "Mash Machine",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1362,7 +1367,7 @@
       "Name": "Furon Fashion",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1402,7 +1407,7 @@
       "Name": "Cult Following",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1440,9 +1445,9 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1466,7 +1471,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1482,7 +1487,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -1681,7 +1686,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 265,
+      "Progressed": 266,
       "Completed": 1
     }
   ],
@@ -1689,8 +1694,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-31T11:01:39.7283208+00:00",
-  "LastChanged_Achievements": "2023-12-31T19:09:00.4442723+00:00",
+  "LastChanged_Achievements": "2023-12-31T20:09:59.3092431+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:56:59.1616958+00:00",
-  "LastUpdate_Achievements": "2023-12-31T19:09:00.4443103+00:00"
+  "LastUpdate_Ratings": "2023-12-31T19:57:19.2330799+00:00",
+  "LastUpdate_Achievements": "2023-12-31T20:09:59.3092743+00:00"
 }

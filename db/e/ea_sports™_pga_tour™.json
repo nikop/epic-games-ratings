@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,7 +20,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 806,
+  "EOS_Progressed": 807,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
@@ -2895,6 +2895,11 @@
       "Time": "2023-12-31T16:09:50.5651663+00:00",
       "NumProgressed": 806,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-12-31T20:10:48.0275385+00:00",
+      "NumProgressed": 807,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -2923,7 +2928,7 @@
       "Name": "Bomb\u0027s Away",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "achievement_12",
@@ -2931,7 +2936,7 @@
       "Name": "From Way Downtown",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "achievement_13",
@@ -2963,7 +2968,7 @@
       "Name": "Star Power",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "achievement_17",
@@ -2971,7 +2976,7 @@
       "Name": "Clean Sheet",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "achievement_18",
@@ -2979,7 +2984,7 @@
       "Name": "Perfect Round",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "achievement_2",
@@ -3003,7 +3008,7 @@
       "Name": "From Many, One",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "achievement_5",
@@ -3027,7 +3032,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "achievement_8",
@@ -3043,20 +3048,20 @@
       "Name": "Ace in the Hole",
       "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 806,
+      "Progressed": 807,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-12-31T19:09:41.4980071+00:00",
+  "LastChanged_Achievements": "2023-12-31T20:10:48.0275381+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:46.6527826+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:57:03.1808084+00:00",
-  "LastUpdate_Achievements": "2023-12-31T19:09:41.4980553+00:00"
+  "LastUpdate_Ratings": "2023-12-31T19:57:24.313312+00:00",
+  "LastUpdate_Achievements": "2023-12-31T20:10:48.0275628+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -261,7 +261,7 @@
   ],
   "EOS_Progressed": 1214,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3638,9 +3638,9 @@
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 194
     },
     {
       "ID": "PrometheusUnbound",
@@ -3734,9 +3734,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 206
+      "UsersEstimate": 219
     },
     {
       "ID": "TheEdgeOfForever",
@@ -3855,8 +3855,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-29T23:57:10.9507958+00:00",
-  "LastChanged_Achievements": "2023-12-31T19:06:35.1131092+00:00",
+  "LastChanged_Achievements": "2023-12-31T20:07:55.4561479+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:58:13.9801673+00:00",
-  "LastUpdate_Achievements": "2023-12-31T19:06:35.1131799+00:00"
+  "LastUpdate_Ratings": "2023-12-31T19:58:54.5731493+00:00",
+  "LastUpdate_Achievements": "2023-12-31T20:07:55.4562422+00:00"
 }

@@ -29,16 +29,16 @@
 | Welcome to Hellville | 13.00% | ~9 |
 | Pulp! The Beyond | 11.00% | ~8 |
 | Blessed antennas | 10.00% | ~7 |
+| The beast in the Oval Office | 10.00% | ~7 |
 | Blood Red Island | 10.00% | ~7 |
 | Bread and bocaua | 10.00% | ~7 |
 | Fanatacism is... poisonous | 10.00% | ~7 |
 | The bully | 10.00% | ~7 |
-| The beast in the Oval Office | 8.00% | ~6 |
 | The adventurer | 8.00% | ~6 |
+| Pulp! True Adventures | 8.00% | ~6 |
 | ECO mode | 8.00% | ~6 |
+| America had no Faith | 8.00% | ~6 |
 | The scholar | 7.00% | ~5 |
-| Pulp! True Adventures | 7.00% | ~5 |
-| America had no Faith | 7.00% | ~5 |
 | The barbarian invasions | 6.00% | ~4 |
 | Pulp! Tales from the Crypt | 4.00% | ~3 |
 | Vaccine fans | 4.00% | ~3 |

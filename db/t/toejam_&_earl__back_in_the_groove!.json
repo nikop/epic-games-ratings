@@ -2,12 +2,12 @@
   "ID": "bd1047eb76fd4fd490fcb8f668e5deda",
   "Name": "ToeJam \u0026 Earl: Back in the Groove!",
   "ProductSlug": "toejam-and-earl-back-in-the-groove-cddc16",
-  "Ranking_Rating": 844,
+  "Ranking_Rating": 845,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -226,7 +226,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58556,
+  "EOS_Progressed": 58557,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
@@ -15111,6 +15111,11 @@
       "Time": "2023-12-31T19:05:25.1256661+00:00",
       "NumProgressed": 58556,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-31T20:06:32.3877549+00:00",
+      "NumProgressed": 58557,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -15186,7 +15191,7 @@
       "Name": "Fall Fest",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 4684
+      "UsersEstimate": 4685
     },
     {
       "ID": "FlyingPresent",
@@ -15513,7 +15518,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58556,
+      "Progressed": 58557,
       "Completed": 6
     }
   ],
@@ -15521,8 +15526,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-12-31T19:05:25.1256657+00:00",
+  "LastChanged_Achievements": "2023-12-31T20:06:32.3877546+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:00.2032486+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:58:19.1474796+00:00",
-  "LastUpdate_Achievements": "2023-12-31T19:05:25.1257723+00:00"
+  "LastUpdate_Ratings": "2023-12-31T19:59:00.8459501+00:00",
+  "LastUpdate_Achievements": "2023-12-31T20:06:32.3878471+00:00"
 }

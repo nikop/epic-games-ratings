@@ -1,26 +1,26 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.50 (Ranked 611)  
+Rating: 4.50 (Ranked 612)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~312,263 |
-| Jeef Skeejj | 44.00% | ~208,175 |
-| Careful planning | 39.00% | ~184,519 |
-| Second Coming | 34.00% | ~160,863 |
-| Jeef Skagg | 30.00% | ~141,938 |
-| Mother | 25.00% | ~118,282 |
-| In space, no one can hear you scream | 24.00% | ~113,550 |
-| Chapter I: Echoes | 22.00% | ~104,088 |
-| Excelsior Rule | 22.00% | ~104,088 |
-| Things persisted in not being what they seemed | 20.00% | ~94,625 |
-| Knightmare Frames | 15.00% | ~70,969 |
-| May His passing cleanse the world | 15.00% | ~70,969 |
-| Chapter II: Fallible Flesh | 15.00% | ~70,969 |
-| Pope Zenon | 15.00% | ~70,969 |
-| Plan for the worst | 12.00% | ~56,775 |
+| The Shutdown | 66.00% | ~312,266 |
+| Jeef Skeejj | 44.00% | ~208,178 |
+| Careful planning | 39.00% | ~184,521 |
+| Second Coming | 34.00% | ~160,865 |
+| Jeef Skagg | 30.00% | ~141,939 |
+| Mother | 25.00% | ~118,283 |
+| In space, no one can hear you scream | 24.00% | ~113,551 |
+| Chapter I: Echoes | 22.00% | ~104,089 |
+| Excelsior Rule | 22.00% | ~104,089 |
+| Things persisted in not being what they seemed | 20.00% | ~94,626 |
+| Knightmare Frames | 15.00% | ~70,970 |
+| May His passing cleanse the world | 15.00% | ~70,970 |
+| Chapter II: Fallible Flesh | 15.00% | ~70,970 |
+| Pope Zenon | 15.00% | ~70,970 |
+| Plan for the worst | 12.00% | ~56,776 |
 | Tetsuo | 11.00% | ~52,044 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~47,313 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,850 |
@@ -45,10 +45,10 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Smuggler | 6.00% | ~28,388 |
 | The Crazy Repairman | 6.00% | ~28,388 |
 | The Weasel | 6.00% | ~28,388 |
-| Kill the Doctor | 5.00% | ~23,656 |
-| Forsaken | 5.00% | ~23,656 |
-| Mercy | 5.00% | ~23,656 |
-| Jericho Rule | 5.00% | ~23,656 |
+| Kill the Doctor | 5.00% | ~23,657 |
+| Forsaken | 5.00% | ~23,657 |
+| Mercy | 5.00% | ~23,657 |
+| Jericho Rule | 5.00% | ~23,657 |
 | Geno Rule | 3.00% | ~14,194 |
 | Hammer Rule | 3.00% | ~14,194 |
 | Survivor | 2.00% | ~9,463 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~17 |
 | Kronos Rule | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,126 (Ranked 43)  
+Progressed: 473,131 (Ranked 43)  
 Completed: 21 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 21 (0.00%) (Ranked 391)
 | 2023-12-28 | 472,964 | 20 |
 | 2023-12-29 | 473,017 | 20 |
 | 2023-12-30 | 473,076 | 21 |
-| 2023-12-31 | 473,126 | 21 |
+| 2023-12-31 | 473,131 | 21 |
 ## Awards
 Max (Character Customization): 228  (Ranked 284)  
 Sum: 252 (Ranked 396)  

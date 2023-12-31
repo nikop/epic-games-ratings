@@ -4,7 +4,7 @@
   "ProductSlug": "n-verlore-verstand-1d7f5b",
   "Ranking_EOS_Progress": 519,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 478,
+  "Ranking_EOS_NewPlayers": 477,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-13T22:00:00+00:00",
@@ -353,9 +353,9 @@
       "ID": "1",
       "SetID": "6m1k8ai",
       "Name": "Start of a Journey",
-      "Percentage": 88,
+      "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "10",
@@ -441,9 +441,9 @@
       "ID": "2",
       "SetID": "6m1k8ai",
       "Name": "Escape the Maze",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "20",
@@ -505,9 +505,9 @@
       "ID": "27",
       "SetID": "6m1k8ai",
       "Name": "A thing of beauty",
-      "Percentage": 82,
+      "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "28",
@@ -529,9 +529,9 @@
       "ID": "3",
       "SetID": "6m1k8ai",
       "Name": "Brace the cold",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "30",
@@ -617,9 +617,9 @@
       "ID": "4",
       "SetID": "6m1k8ai",
       "Name": "A Long Walk",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "40",
@@ -697,9 +697,9 @@
       "ID": "5",
       "SetID": "6m1k8ai",
       "Name": "Dont mind the heat",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "6",
@@ -744,8 +744,8 @@
   ],
   "FirstSeen": "2023-08-02T12:00:06.1215649+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2023-12-31T19:08:40.8294812+00:00",
+  "LastChanged_Achievements": "2023-12-31T20:09:42.5883249+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:29.1653427+00:00",
-  "LastUpdate_Ratings": "2023-12-31T19:03:01.8156186+00:00",
-  "LastUpdate_Achievements": "2023-12-31T19:08:40.8295403+00:00"
+  "LastUpdate_Ratings": "2023-12-31T20:03:39.9917286+00:00",
+  "LastUpdate_Achievements": "2023-12-31T20:09:42.5883754+00:00"
 }

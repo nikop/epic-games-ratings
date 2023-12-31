@@ -2,12 +2,12 @@
   "ID": "7e0d0f0b8a6e42ba962e3456c65268af",
   "Name": "Star Trek: Resurgence",
   "ProductSlug": "star-trek-resurgence",
-  "Ranking_Rating": 783,
+  "Ranking_Rating": 784,
   "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 541,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 563,
+  "Ranking_EOS_NewPlayers": 565,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -491,6 +491,6 @@
   "FirstSeenRating": "2023-05-27T09:58:07.9853002+00:00",
   "LastChanged": "2023-12-31T12:03:22.7352243+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.8565896+00:00",
-  "LastUpdate_Ratings": "2023-12-31T19:02:52.1073748+00:00",
-  "LastUpdate_Achievements": "2023-12-31T19:08:46.2875952+00:00"
+  "LastUpdate_Ratings": "2023-12-31T20:03:28.1260688+00:00",
+  "LastUpdate_Achievements": "2023-12-31T20:09:48.8218921+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewPlayers": 432,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -1585,17 +1585,17 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "8d3ci0",
       "Name": "Make a wish",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 142
+      "UsersEstimate": 145
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "8d3ci0",
       "Name": "Catch a flight",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 138
+      "UsersEstimate": 142
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1648,8 +1648,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-12-31T19:04:07.2584202+00:00",
+  "LastChanged_Achievements": "2023-12-31T20:05:00.0575956+00:00",
   "LastUpdate_AppInfo": "2023-12-31T05:56:55.336895+00:00",
-  "LastUpdate_Ratings": "2023-12-31T19:00:26.4152334+00:00",
-  "LastUpdate_Achievements": "2023-12-31T19:04:07.2584369+00:00"
+  "LastUpdate_Ratings": "2023-12-31T20:01:42.6065211+00:00",
+  "LastUpdate_Achievements": "2023-12-31T20:05:00.0576151+00:00"
 }

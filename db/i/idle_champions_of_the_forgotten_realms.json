@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 1018,
+  "Ranking_Rating": 1019,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 69,
@@ -9229,7 +9229,7 @@
       "Count": 3614
     }
   ],
-  "EOS_Progressed": 248558,
+  "EOS_Progressed": 248577,
   "EOS_Completed": 2580,
   "EOS_NewPlayers": 4341,
   "EOS_NewCompleters": 22,
@@ -38119,6 +38119,11 @@
       "Time": "2023-12-31T19:10:12.7785793+00:00",
       "NumProgressed": 248558,
       "NumCompleted": 2580
+    },
+    {
+      "Time": "2023-12-31T20:11:23.5012454+00:00",
+      "NumProgressed": 248577,
+      "NumCompleted": 2580
     }
   ],
   "TotalAchievements": 546,
@@ -41274,7 +41279,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1988
+      "UsersEstimate": 1989
     },
     {
       "ID": "objective_completed_70",
@@ -42402,7 +42407,7 @@
       "Name": "Arcane Suppression",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "objective_completed_1352",
@@ -42410,7 +42415,7 @@
       "Name": "Welcome to the Vrocks",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "objective_completed_1557",
@@ -42426,7 +42431,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "objective_completed_1562",
@@ -42442,7 +42447,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "objective_completed_598",
@@ -42490,28 +42495,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 214832,
+      "Progressed": 214851,
       "Completed": 4111
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 248558,
+      "Progressed": 248577,
       "Completed": 2580
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-31T15:56:59.5549652+00:00",
-  "LastChanged_Achievements": "2023-12-31T19:10:12.7785788+00:00",
+  "LastChanged_Achievements": "2023-12-31T20:11:23.5012451+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2023-12-31T18:57:12.2885314+00:00",
-  "LastUpdate_Achievements": "2023-12-31T19:10:12.7809906+00:00"
+  "LastUpdate_Ratings": "2023-12-31T19:57:35.1821908+00:00",
+  "LastUpdate_Achievements": "2023-12-31T20:11:23.5037659+00:00"
 }

@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start of a Journey | 88.00% | ~60 |
-| A thing of beauty | 82.00% | ~56 |
-| Escape the Maze | 57.00% | ~39 |
-| Brace the cold | 44.00% | ~30 |
-| A Long Walk | 43.00% | ~29 |
-| Dont mind the heat | 18.00% | ~12 |
+| Start of a Journey | 90.00% | ~61 |
+| A thing of beauty | 84.00% | ~57 |
+| Escape the Maze | 59.00% | ~40 |
+| Brace the cold | 46.00% | ~31 |
+| A Long Walk | 44.00% | ~30 |
+| Dont mind the heat | 19.00% | ~13 |
 | City of Puzzles | 10.00% | ~7 |
 | This field of danger | 10.00% | ~7 |
 | Labyrinths of the Mind | 10.00% | ~7 |

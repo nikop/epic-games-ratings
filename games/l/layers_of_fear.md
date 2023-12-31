@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 85.00% | ~205 |
-| A piece of the story | 61.00% | ~147 |
-| Wanderer | 54.00% | ~130 |
+| Something important | 85.00% | ~206 |
+| A piece of the story | 61.00% | ~148 |
+| Wanderer | 54.00% | ~131 |
 | It's covered up for a reason | 53.00% | ~128 |
 | Scraps of love | 46.00% | ~111 |
-| The artist’s impression | 45.00% | ~108 |
-| Do what you have to | 42.00% | ~101 |
+| The artist’s impression | 45.00% | ~109 |
+| Do what you have to | 42.00% | ~102 |
 | Sign of weakness | 38.00% | ~92 |
-| Refuse to look | 35.00% | ~84 |
+| Refuse to look | 35.00% | ~85 |
 | Face your fears | 29.00% | ~70 |
 | Finished it | 26.00% | ~63 |
 | Whispers long forgotten | 16.00% | ~39 |
@@ -30,8 +30,8 @@
 | Breaking free | 9.00% | ~22 |
 | Fisherman | 7.00% | ~17 |
 | True Reflection | 7.00% | ~17 |
-| Casting Finished | 6.00% | ~14 |
-| Heavy Burden | 6.00% | ~14 |
+| Casting Finished | 6.00% | ~15 |
+| Heavy Burden | 6.00% | ~15 |
 | Instinct of self-preservation | 5.00% | ~12 |
 | Something to think about | 4.00% | ~10 |
 | I remember It Like Was Yesterday | 4.00% | ~10 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241 (Ranked 408)  
+Progressed: 242 (Ranked 408)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,4 +126,4 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 220 | 0 |
 | 2023-12-29 | 227 | 0 |
 | 2023-12-30 | 235 | 0 |
-| 2023-12-31 | 241 | 0 |
+| 2023-12-31 | 242 | 0 |

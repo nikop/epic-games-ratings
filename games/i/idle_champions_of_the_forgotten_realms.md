@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 1,018)  
+Rating: 4.06 (Ranked 1,019)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,7 +9,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 3.00% | ~7,457 |
 | The Cursed Farmer | 1.00% | ~2,486 |
 | Beast Intentions | 0.90% | ~2,237 |
-| The Mad Wizard | 0.80% | ~1,988 |
+| The Mad Wizard | 0.80% | ~1,989 |
 | Welcome to Sigil | 0.70% | ~1,504 |
 | Fast Food | 0.60% | ~1,289 |
 | The Ring of Regeneration | 0.50% | ~1,243 |
@@ -25,11 +25,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.30% | ~746 |
 | Friendly Imps | 0.30% | ~746 |
 | Pure Energy | 0.30% | ~746 |
-| Arcane Suppression | 0.30% | ~644 |
-| Welcome to the Vrocks | 0.30% | ~644 |
-| Misaligned in Sigil | 0.30% | ~644 |
-| Chaos Theory | 0.30% | ~644 |
-| Mind Spike | 0.30% | ~644 |
+| Arcane Suppression | 0.30% | ~645 |
+| Welcome to the Vrocks | 0.30% | ~645 |
+| Misaligned in Sigil | 0.30% | ~645 |
+| Chaos Theory | 0.30% | ~645 |
+| Mind Spike | 0.30% | ~645 |
 | Maddening | 0.20% | ~497 |
 | Beast Mode | 0.20% | ~497 |
 | Terror in the Dark | 0.20% | ~497 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~215 |
 | The Brains of an Illithid's Desire | 0.10% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,558 (Ranked 69)  
+Progressed: 248,577 (Ranked 69)  
 Completed: 2,580 (1.04%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -808,7 +808,7 @@ Completed: 2,580 (1.04%) (Ranked 170)
 | 2023-12-28 | 246,305 | 2,573 |
 | 2023-12-29 | 247,120 | 2,575 |
 | 2023-12-30 | 247,917 | 2,578 |
-| 2023-12-31 | 248,558 | 2,580 |
+| 2023-12-31 | 248,577 | 2,580 |
 ## Awards
 Max (Great for Beginners): 5,720  (Ranked 71)  
 Sum: 33,212 (Ranked 41)  

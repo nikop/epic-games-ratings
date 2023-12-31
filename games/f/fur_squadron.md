@@ -14,13 +14,13 @@
 | I'm ready, anytime | 4.00% | ~3 |
 | Enemy shield analyzed | 4.00% | ~3 |
 | Piece of cake | 3.00% | ~2 |
+| Actually it's called aileron roll | 3.00% | ~2 |
+| I have a bad feeling about this | 3.00% | ~2 |
 | No need to say goodbye | 3.00% | ~2 |
 | Better hurry up | 1.00% | ~1 |
 | I call her the BF-Worm | 1.00% | ~1 |
 | Axel? | 1.00% | ~1 |
 | You won't escape that easy!! | 1.00% | ~1 |
-| Actually it's called aileron roll | 1.00% | ~1 |
-| I have a bad feeling about this | 1.00% | ~1 |
 | Any other day at work | 1.00% | ~1 |
 | I've had enough! | 1.00% | ~1 |
 | I. Am. Bored | 1.00% | ~1 |
