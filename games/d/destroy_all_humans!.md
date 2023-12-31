@@ -1,30 +1,30 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 356)  
+Rating: 4.63 (Ranked 357)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 70.00% | ~176 |
-| Kaijuiced | 68.00% | ~171 |
-| Lie Back and Think of Albion | 61.00% | ~154 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 60.00% | ~151 |
-| I Look Up As I Walk to Takoshima | 57.00% | ~144 |
-| Yettisoned | 56.00% | ~141 |
-| Perfect Probulator | 54.00% | ~136 |
-| Pimp My Raid | 52.00% | ~131 |
-| Lobster Blisque | 49.00% | ~123 |
-| Earthly Pleasures | 47.00% | ~118 |
-| Fly Me to the Moon Base | 45.00% | ~113 |
-| Ducks in a Row, Fish in a Barrel | 43.00% | ~108 |
+| Shop Til They Drop | 70.00% | ~178 |
+| Kaijuiced | 68.00% | ~173 |
+| Lie Back and Think of Albion | 61.00% | ~155 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 59.00% | ~150 |
+| I Look Up As I Walk to Takoshima | 57.00% | ~145 |
+| Yettisoned | 56.00% | ~142 |
+| Perfect Probulator | 54.00% | ~137 |
+| Pimp My Raid | 52.00% | ~132 |
+| Lobster Blisque | 49.00% | ~124 |
+| Earthly Pleasures | 46.00% | ~117 |
+| Fly Me to the Moon Base | 45.00% | ~114 |
+| Ducks in a Row, Fish in a Barrel | 43.00% | ~109 |
 | Freshly Squeezed | 36.00% | ~91 |
-| Forbidden Donut | 35.00% | ~88 |
-| Bodied Sattva | 35.00% | ~88 |
-| Upgreatest | 33.00% | ~83 |
+| Forbidden Donut | 35.00% | ~89 |
+| Bodied Sattva | 34.00% | ~86 |
+| Upgreatest | 33.00% | ~84 |
 | Furon Fashion | 28.00% | ~71 |
-| Deincarnated | 27.00% | ~68 |
-| Rock of the Bay | 23.00% | ~58 |
+| Deincarnated | 27.00% | ~69 |
+| Rock of the Bay | 24.00% | ~61 |
 | Trans-Siberian Express | 23.00% | ~58 |
 | Re-Return of the Clone of the Invasion II-2 | 19.00% | ~48 |
 | Arkvoodle Doodle | 17.00% | ~43 |
@@ -47,8 +47,8 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 2.00% | ~5 |
 | Against All Odds | 2.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252 (Ranked 406)  
-Completed: 3 (1.19%) (Ranked 161)  
+Progressed: 254 (Ranked 406)  
+Completed: 3 (1.18%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -65,7 +65,7 @@ Completed: 3 (1.19%) (Ranked 161)
 | 2023-12-28 | 206 | 2 |
 | 2023-12-29 | 224 | 2 |
 | 2023-12-30 | 250 | 3 |
-| 2023-12-31 | 252 | 3 |
+| 2023-12-31 | 254 | 3 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 501)  
 Sum: 34 (Ranked 526)  

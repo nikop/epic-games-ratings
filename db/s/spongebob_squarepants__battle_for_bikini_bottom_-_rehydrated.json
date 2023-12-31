@@ -317,9 +317,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 561,
+  "EOS_Progressed": 562,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 267,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -1527,6 +1527,11 @@
       "Time": "2023-12-31T07:08:13.5752067+00:00",
       "NumProgressed": 561,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-31T08:08:11.1571558+00:00",
+      "NumProgressed": 562,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1657,9 +1662,9 @@
       "ID": "ACH_ROBO_SANDY_BOSS",
       "SetID": "biiejkc",
       "Name": "Sweet Victory",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -1739,7 +1744,7 @@
       "Name": "Sock Getter",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -1747,7 +1752,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -1755,7 +1760,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -1794,15 +1799,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 561,
+      "Progressed": 562,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-31T07:08:13.5752063+00:00",
+  "LastChanged_Achievements": "2023-12-31T08:08:11.1571556+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2023-12-31T06:58:06.7911768+00:00",
-  "LastUpdate_Achievements": "2023-12-31T07:08:13.5752366+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:57:26.6395544+00:00",
+  "LastUpdate_Achievements": "2023-12-31T08:08:11.1571805+00:00"
 }

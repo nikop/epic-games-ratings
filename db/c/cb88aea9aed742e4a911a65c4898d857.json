@@ -227,9 +227,9 @@
       "Count": 73
     }
   ],
-  "EOS_Progressed": 9036,
+  "EOS_Progressed": 9042,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2054,
+  "EOS_NewPlayers": 2048,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3072,6 +3072,11 @@
       "Time": "2023-12-31T07:10:32.2376154+00:00",
       "NumProgressed": 9036,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T08:09:51.0308611+00:00",
+      "NumProgressed": 9042,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3258,9 +3263,9 @@
       "ID": "24_TheHighrise",
       "SetID": "37a94m8",
       "Name": "Highrise",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 72
     },
     {
       "ID": "25_DynastyProspers",
@@ -3603,7 +3608,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9036,
+      "Progressed": 9042,
       "Completed": 0
     }
   ],
@@ -3611,8 +3616,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-30T16:58:43.1218846+00:00",
-  "LastChanged_Achievements": "2023-12-31T07:10:32.2376149+00:00",
+  "LastChanged_Achievements": "2023-12-31T08:09:51.0308609+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-31T06:59:50.0110695+00:00",
-  "LastUpdate_Achievements": "2023-12-31T07:10:32.2376791+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:58:36.2426932+00:00",
+  "LastUpdate_Achievements": "2023-12-31T08:09:51.0309266+00:00"
 }

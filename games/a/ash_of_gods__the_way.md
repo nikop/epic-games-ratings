@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 93.00% | ~50 |
-| Suicide squad | 52.00% | ~28 |
-| Train hard, fight easy | 30.00% | ~16 |
-| Under cover | 30.00% | ~16 |
-| First blood | 30.00% | ~16 |
+| First success | 91.00% | ~50 |
+| Suicide squad | 51.00% | ~28 |
+| Train hard, fight easy | 29.00% | ~16 |
+| Under cover | 29.00% | ~16 |
+| First blood | 29.00% | ~16 |
 | Royal blessing | 24.00% | ~13 |
 | All for one! | 22.00% | ~12 |
 | A hidden snake | 22.00% | ~12 |
 | Blood and sand | 22.00% | ~12 |
-| Crimson rivers | 17.00% | ~9 |
-| Power of Inquisition | 17.00% | ~9 |
-| Surpass the teacher | 17.00% | ~9 |
-| Vene, vidi, vici | 17.00% | ~9 |
-| Help of the Gell | 17.00% | ~9 |
+| Crimson rivers | 16.00% | ~9 |
+| Power of Inquisition | 16.00% | ~9 |
+| Surpass the teacher | 16.00% | ~9 |
+| Vene, vidi, vici | 16.00% | ~9 |
+| Help of the Gell | 16.00% | ~9 |
 | She-Wolf | 15.00% | ~8 |
 | Berkanan Borgia | 13.00% | ~7 |
 | Rage | 13.00% | ~7 |
@@ -30,15 +30,15 @@
 | Collector | 7.00% | ~4 |
 | Punish the Punisher | 7.00% | ~4 |
 | The End | 7.00% | ~4 |
-| Supplier | 6.00% | ~3 |
-| The best apprentice | 6.00% | ~3 |
-| First among Frisians | 6.00% | ~3 |
-| Defeat the bear | 6.00% | ~3 |
-| By own strength | 6.00% | ~3 |
-| Deadly strike | 6.00% | ~3 |
-| Cunning plan | 6.00% | ~3 |
-| All's fair in love and war | 6.00% | ~3 |
-| Nothing is settled | 6.00% | ~3 |
+| Supplier | 5.00% | ~3 |
+| The best apprentice | 5.00% | ~3 |
+| First among Frisians | 5.00% | ~3 |
+| Defeat the bear | 5.00% | ~3 |
+| By own strength | 5.00% | ~3 |
+| Deadly strike | 5.00% | ~3 |
+| Cunning plan | 5.00% | ~3 |
+| All's fair in love and war | 5.00% | ~3 |
+| Nothing is settled | 5.00% | ~3 |
 | The power of persuasion | 4.00% | ~2 |
 | A solo player | 4.00% | ~2 |
 | Do it yourself | 4.00% | ~2 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54 (Ranked 540)  
+Progressed: 55 (Ranked 538)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,6 +89,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 51 | 0 |
 | 2023-12-28 | 53 | 0 |
 | 2023-12-29 | 54 | 0 |
+| 2023-12-31 | 55 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -121,7 +121,7 @@
   "Tags": [],
   "EOS_Progressed": 1483,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4069,9 +4069,9 @@
       "ID": "ACH_CAR_WASH_01",
       "SetID": "5fn8ia4",
       "Name": "Restored the Car Wash",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 742
     },
     {
       "ID": "ACH_CAR_WASH_02",
@@ -4173,9 +4173,9 @@
       "ID": "GSS_ACH_04_TIP_02",
       "SetID": "5fn8ia4",
       "Name": "Gaining skill",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1275
     },
     {
       "ID": "GSS_ACH_05_TIP_03",
@@ -4189,9 +4189,9 @@
       "ID": "GSS_ACH_06_FUEL_01",
       "SetID": "5fn8ia4",
       "Name": "Fueled it good!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1350
+      "UsersEstimate": 1364
     },
     {
       "ID": "GSS_ACH_07_FUEL_02",
@@ -4333,9 +4333,9 @@
       "ID": "GSS_ACH_25_DENNIS",
       "SetID": "5fn8ia4",
       "Name": "Pranks? Nope!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1350
+      "UsersEstimate": 1364
     },
     {
       "ID": "GSS_ACH_26_EXCAVATOR_RESET",
@@ -4725,9 +4725,9 @@
       "ID": "GSS_ACH_74_SANDSTORM",
       "SetID": "5fn8ia4",
       "Name": "Sandstorm!",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 756
+      "UsersEstimate": 771
     },
     {
       "ID": "GSS_ACH_75_RACE_02_COMPLETE",
@@ -4806,8 +4806,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-30T13:03:18.5832647+00:00",
-  "LastChanged_Achievements": "2023-12-31T07:05:43.8140255+00:00",
+  "LastChanged_Achievements": "2023-12-31T08:04:34.7573702+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:05.7719462+00:00",
-  "LastUpdate_Ratings": "2023-12-31T06:57:27.0357121+00:00",
-  "LastUpdate_Achievements": "2023-12-31T07:05:43.8141326+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:57:00.0163908+00:00",
+  "LastUpdate_Achievements": "2023-12-31T08:04:34.7574514+00:00"
 }

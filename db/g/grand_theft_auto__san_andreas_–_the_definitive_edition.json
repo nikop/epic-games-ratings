@@ -2,12 +2,12 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 523,
+  "Ranking_Rating": 522,
   "Ranking_Popularity": 213,
   "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -2101,9 +2101,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 17674,
+  "EOS_Progressed": 17680,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 1176,
+  "EOS_NewPlayers": 1179,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -18376,6 +18376,11 @@
       "Time": "2023-12-31T07:10:40.4925279+00:00",
       "NumProgressed": 17674,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-12-31T08:09:56.9866925+00:00",
+      "NumProgressed": 17680,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 35,
@@ -18387,7 +18392,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 14316
+      "UsersEstimate": 14321
     },
     {
       "ID": "ACH02",
@@ -18395,7 +18400,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "ACH03",
@@ -18403,7 +18408,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "ACH04",
@@ -18419,7 +18424,7 @@
       "Name": "A Legitimate Business",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH06",
@@ -18427,15 +18432,15 @@
       "Name": "I\u2019ll Have Two Number 9s",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH07",
       "SetID": "4ck5mbe",
       "Name": "The American Dream",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3181
+      "UsersEstimate": 3359
     },
     {
       "ID": "ACH08",
@@ -18443,7 +18448,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 8837
+      "UsersEstimate": 8840
     },
     {
       "ID": "ACH09",
@@ -18459,7 +18464,7 @@
       "Name": "Who Needs Directions?",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH11",
@@ -18475,7 +18480,7 @@
       "Name": "Swiss Army Strife",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH13",
@@ -18483,7 +18488,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3181
+      "UsersEstimate": 3182
     },
     {
       "ID": "ACH14",
@@ -18491,7 +18496,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1767
+      "UsersEstimate": 1768
     },
     {
       "ID": "ACH15",
@@ -18507,7 +18512,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3005
+      "UsersEstimate": 3006
     },
     {
       "ID": "ACH17",
@@ -18523,7 +18528,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "ACH19",
@@ -18539,7 +18544,7 @@
       "Name": "Yes I Speak English",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH21",
@@ -18555,7 +18560,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2474
+      "UsersEstimate": 2475
     },
     {
       "ID": "ACH23",
@@ -18563,7 +18568,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4418
+      "UsersEstimate": 4420
     },
     {
       "ID": "ACH24",
@@ -18587,7 +18592,7 @@
       "Name": "Double or Nothin\u0027",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH27",
@@ -18595,7 +18600,7 @@
       "Name": "Assassin",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH28",
@@ -18611,7 +18616,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2651
+      "UsersEstimate": 2652
     },
     {
       "ID": "ACH30",
@@ -18619,7 +18624,7 @@
       "Name": "Public Enemy No. 1",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH31",
@@ -18635,7 +18640,7 @@
       "Name": "Ain\u2019t Nothing But a G Thing",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH33",
@@ -18666,7 +18671,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 17674,
+      "Progressed": 17680,
       "Completed": 66
     }
   ],
@@ -18674,8 +18679,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-30T23:59:31.4455488+00:00",
-  "LastChanged_Achievements": "2023-12-31T07:10:40.4925275+00:00",
+  "LastChanged_Achievements": "2023-12-31T08:09:56.9866923+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.8114387+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:01:05.6832501+00:00",
-  "LastUpdate_Achievements": "2023-12-31T07:10:40.4926444+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:59:27.2493475+00:00",
+  "LastUpdate_Achievements": "2023-12-31T08:09:56.9867686+00:00"
 }

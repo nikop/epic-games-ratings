@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 58.00% | ~178 |
+| Fright ✔ | 58.00% | ~179 |
 | Inventory ✔ | 54.00% | ~166 |
 | Chest ✔ | 54.00% | ~166 |
 | Police officers ✔ | 28.00% | ~86 |
@@ -15,7 +15,7 @@
 | Master of Unlocking ✔ | 9.00% | ~28 |
 | Survival ✔ | 8.00% | ~25 |
 | Thirst ✔ | 8.00% | ~25 |
-| Hospital ✔ | 7.00% | ~21 |
+| Hospital ✔ | 7.00% | ~22 |
 | Alice ✔ | 6.00% | ~18 |
 | Antivirus ✔ | 6.00% | ~18 |
 | Betty ✔ | 6.00% | ~18 |
@@ -50,12 +50,12 @@
 | The escape ✔ | 2.00% | ~6 |
 | VIP ✔ | 2.00% | ~6 |
 | Exterminate pests ✔ | 1.00% | ~3 |
-| Hardcore ✔ | 0.70% | ~2 |
-| Speedrun ✔ | 0.70% | ~2 |
+| Hardcore ✔ | 0.60% | ~2 |
+| Speedrun ✔ | 0.60% | ~2 |
 | Seeker Two ✔ | 0.30% | ~1 |
 | Rank A+ ✔ | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 307 (Ranked 384)  
+Progressed: 308 (Ranked 384)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,6 +159,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-24 | 303 | 0 |
 | 2023-12-25 | 305 | 0 |
 | 2023-12-27 | 307 | 0 |
+| 2023-12-31 | 308 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Mega City | 24.00% | ~9 |
-| Licence To Kill | 16.00% | ~6 |
-| Vintage Collector | 11.00% | ~4 |
+| Welcome to Mega City | 23.00% | ~9 |
+| Licence To Kill | 18.00% | ~7 |
+| Vintage Collector | 10.00% | ~4 |
 | Overkill | 8.00% | ~3 |
 | The Hunt | 8.00% | ~3 |
 | Law and Order | 8.00% | ~3 |
@@ -28,12 +28,12 @@
 | Millionaire | 3.00% | ~1 |
 | Fashionista | 3.00% | ~1 |
 | Speedrunner | 3.00% | ~1 |
-| Overthrow The Crown | 3.00% | ~0 |
+| Overthrow The Crown | 3.00% | ~1 |
 | Lieutenant | 0.00% | ~0 |
 | Knife Juggler | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38 (Ranked 567)  
-Completed: 1 (2.63%) (Ranked 123)  
+Progressed: 39 (Ranked 566)  
+Completed: 1 (2.56%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -56,3 +56,4 @@ Completed: 1 (2.63%) (Ranked 123)
 | 2023-11-25 | 36 | 1 |
 | 2023-12-18 | 37 | 1 |
 | 2023-12-21 | 38 | 1 |
+| 2023-12-31 | 39 | 1 |

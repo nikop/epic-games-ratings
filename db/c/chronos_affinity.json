@@ -4,7 +4,7 @@
   "ProductSlug": "chronosaffinity-e8c2c8",
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 563,
+  "Ranking_EOS_NewPlayers": 564,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-30T20:57:23.1761013+00:00",
-  "LastUpdate_Ratings": "2023-12-31T06:59:47.9561935+00:00",
-  "LastUpdate_Achievements": "2023-12-31T07:05:13.8881488+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:58:35.1905256+00:00",
+  "LastUpdate_Achievements": "2023-12-31T08:04:12.4185804+00:00"
 }

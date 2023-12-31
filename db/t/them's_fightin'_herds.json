@@ -337,9 +337,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 234616,
+  "EOS_Progressed": 234618,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 499,
+  "EOS_NewPlayers": 500,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26257,6 +26257,11 @@
       "Time": "2023-12-31T07:09:54.2304392+00:00",
       "NumProgressed": 234616,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-12-31T08:09:23.7902322+00:00",
+      "NumProgressed": 234618,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 28,
@@ -26412,7 +26417,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 79769
+      "UsersEstimate": 79770
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -26436,7 +26441,7 @@
       "Name": "Tenderhoof",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 7038
+      "UsersEstimate": 7039
     },
     {
       "ID": "STOMP_PAPRIKA_INTO_ORBIT",
@@ -26491,7 +26496,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 234616,
+      "Progressed": 234618,
       "Completed": 6
     }
   ],
@@ -26499,8 +26504,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-12-30T14:57:12.7393398+00:00",
-  "LastChanged_Achievements": "2023-12-31T07:09:54.2304386+00:00",
+  "LastChanged_Achievements": "2023-12-31T08:09:23.7902321+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:51.1279895+00:00",
-  "LastUpdate_Ratings": "2023-12-31T06:58:08.9132393+00:00",
-  "LastUpdate_Achievements": "2023-12-31T07:09:54.2305557+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:57:27.9926707+00:00",
+  "LastUpdate_Achievements": "2023-12-31T08:09:23.7903347+00:00"
 }

@@ -5,9 +5,9 @@
   "Ranking_Rating": 176,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
-  "Ranking_EOS_Progress": 363,
+  "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 383,
+  "EOS_Progressed": 384,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -530,6 +530,11 @@
       "Time": "2023-12-30T09:10:15.1524944+00:00",
       "NumProgressed": 383,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T08:10:07.9249203+00:00",
+      "NumProgressed": 384,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -605,7 +610,7 @@
       "Name": "A Familiar Figure",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach-butterflies",
@@ -627,9 +632,9 @@
       "ID": "ach-campaign-fameThreshold",
       "SetID": "17ih7ma",
       "Name": "And Here Is Your Statue",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 54
     },
     {
       "ID": "ach-campaign-finish-easy",
@@ -645,7 +650,7 @@
       "Name": "Lunatic",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach-campaign-finish-normal",
@@ -653,7 +658,7 @@
       "Name": "Adventurer",
       "Percentage": 15,
       "XP": 80,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ach-campaign-noDeath",
@@ -683,9 +688,9 @@
       "ID": "ach-campaign-story2",
       "SetID": "17ih7ma",
       "Name": "Lost \u0026 Found \u0026 Lost Again",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 173
     },
     {
       "ID": "ach-campaign-story3",
@@ -701,15 +706,15 @@
       "Name": "A Perfect Map",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach-diceChallenges",
       "SetID": "17ih7ma",
       "Name": "Roll to Save",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 92
     },
     {
       "ID": "ach-discover-locations",
@@ -717,7 +722,7 @@
       "Name": "Cartographer",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ach-discover-locations-high",
@@ -765,7 +770,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ach-hardExpeditions",
@@ -773,7 +778,7 @@
       "Name": "Risk/Reward",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach-interspeciesLove",
@@ -789,7 +794,7 @@
       "Name": "For the Club!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ach-keepHighStanding",
@@ -805,7 +810,7 @@
       "Name": "Taxonomist",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ach-kill-hyenas",
@@ -931,9 +936,9 @@
       "ID": "ach-raiseDino",
       "SetID": "17ih7ma",
       "Name": "Good Mama",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 131
     },
     {
       "ID": "ach-redElk",
@@ -965,7 +970,7 @@
       "Name": "Cold Blood, Warm Heart",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ach-spendNoMoney",
@@ -979,9 +984,9 @@
       "ID": "ach-totalFame",
       "SetID": "17ih7ma",
       "Name": "I Set Forth Again... and Again... and Again...",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 15
     },
     {
       "ID": "ach-treasureFameInExpedition",
@@ -1005,7 +1010,7 @@
       "Name": "Errand Runner",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ach-wearHat",
@@ -1013,14 +1018,14 @@
       "Name": "Dapper",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     }
   ],
   "AchievementSets": [
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 383,
+      "Progressed": 384,
       "Completed": 1
     }
   ],
@@ -1028,8 +1033,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-12-31T07:10:54.4452565+00:00",
+  "LastChanged_Achievements": "2023-12-31T08:10:07.9249201+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:12.3485961+00:00",
-  "LastUpdate_Ratings": "2023-12-31T06:58:42.7879108+00:00",
-  "LastUpdate_Achievements": "2023-12-31T07:10:54.4453016+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:57:51.7957901+00:00",
+  "LastUpdate_Achievements": "2023-12-31T08:10:07.9249561+00:00"
 }

@@ -519,9 +519,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 256304,
+  "EOS_Progressed": 256306,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 800,
+  "EOS_NewPlayers": 799,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29089,6 +29089,11 @@
       "Time": "2023-12-31T07:06:36.8436234+00:00",
       "NumProgressed": 256304,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-31T08:05:12.3882724+00:00",
+      "NumProgressed": 256306,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -29100,7 +29105,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 69202
+      "UsersEstimate": 69203
     },
     {
       "ID": "ACH_AON",
@@ -29140,7 +29145,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 30756
+      "UsersEstimate": 30757
     },
     {
       "ID": "ACH_ENJOY",
@@ -29180,7 +29185,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 23067
+      "UsersEstimate": 23068
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -29244,7 +29249,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 74328
+      "UsersEstimate": 74329
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -29515,7 +29520,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 256304,
+      "Progressed": 256306,
       "Completed": 8
     }
   ],
@@ -29523,8 +29528,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-12-30T22:03:09.2237596+00:00",
-  "LastChanged_Achievements": "2023-12-31T07:06:36.843623+00:00",
+  "LastChanged_Achievements": "2023-12-31T08:05:12.3882722+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:01.0065032+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:03:24.5881694+00:00",
-  "LastUpdate_Achievements": "2023-12-31T07:06:36.8438206+00:00"
+  "LastUpdate_Ratings": "2023-12-31T08:02:55.0542483+00:00",
+  "LastUpdate_Achievements": "2023-12-31T08:05:12.3884315+00:00"
 }

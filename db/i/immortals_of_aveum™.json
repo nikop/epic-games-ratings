@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -355,9 +355,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2357,
+  "EOS_Progressed": 2358,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 629,
+  "EOS_NewPlayers": 630,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3825,6 +3825,11 @@
       "Time": "2023-12-31T07:10:31.6501988+00:00",
       "NumProgressed": 2357,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-31T08:09:50.5970206+00:00",
+      "NumProgressed": 2358,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -3869,7 +3874,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "achievement_14",
@@ -3877,7 +3882,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "achievement_15",
@@ -4013,7 +4018,7 @@
       "Name": "No More Names",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "achievement_41",
@@ -4053,7 +4058,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "achievement_46",
@@ -4101,7 +4106,7 @@
       "Name": "Master of Ultramarine",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_55",
@@ -4133,7 +4138,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "achievement_60",
@@ -4212,7 +4217,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 2357,
+      "Progressed": 2358,
       "Completed": 2
     }
   ],
@@ -4220,8 +4225,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-12-29T22:59:43.1126735+00:00",
-  "LastChanged_Achievements": "2023-12-31T07:10:31.6501985+00:00",
+  "LastChanged_Achievements": "2023-12-31T08:09:50.5970203+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.4007279+00:00",
-  "LastUpdate_Ratings": "2023-12-31T06:57:25.3457469+00:00",
-  "LastUpdate_Achievements": "2023-12-31T07:10:31.6502462+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:56:58.875155+00:00",
+  "LastUpdate_Achievements": "2023-12-31T08:09:50.5970715+00:00"
 }

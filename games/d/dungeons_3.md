@@ -6,18 +6,18 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~31,773 |
-| The Evilest Evil | 59.00% | ~26,780 |
-| Twistram is devastated | 58.00% | ~26,326 |
-| The Gehenna Stones | 50.00% | ~22,695 |
-| No one has to die today! | 47.00% | ~21,333 |
-| Death and destruction! | 46.00% | ~20,879 |
+| The Shadow strikes | 70.00% | ~31,774 |
+| The Evilest Evil | 59.00% | ~26,781 |
+| Twistram is devastated | 58.00% | ~26,327 |
+| The Gehenna Stones | 50.00% | ~22,696 |
+| No one has to die today! | 47.00% | ~21,334 |
+| Death and destruction! | 46.00% | ~20,880 |
 | The Swamplanders from the swamplands | 44.00% | ~19,972 |
 | Rusty Steel | 41.00% | ~18,610 |
 | The One-Huge-Army-Building Evil | 40.00% | ~18,156 |
-| Braiiiiins! | 38.00% | ~17,248 |
-| The last burger | 37.00% | ~16,794 |
-| Hands off the Dungeonheart! | 36.00% | ~16,340 |
+| Braiiiiins! | 38.00% | ~17,249 |
+| The last burger | 37.00% | ~16,795 |
+| Hands off the Dungeonheart! | 36.00% | ~16,341 |
 | A trip on sea, what fun it can be | 34.00% | ~15,433 |
 | Damned good | 33.00% | ~14,979 |
 | Stock Market Crash | 31.00% | ~14,071 |
@@ -25,10 +25,10 @@ Number of Ratings: 1,635  (23.09.2022)
 | Shadow hunter | 30.00% | ~13,617 |
 | Not-So-Overproud | 29.00% | ~13,163 |
 | For a handfull of Catapults | 28.00% | ~12,709 |
-| Thirst quencher | 27.00% | ~12,255 |
-| Ogre Solo! | 27.00% | ~12,255 |
-| Destroy the thing | 26.00% | ~11,801 |
-| Tide Master | 26.00% | ~11,801 |
+| Thirst quencher | 27.00% | ~12,256 |
+| Ogre Solo! | 27.00% | ~12,256 |
+| Destroy the thing | 26.00% | ~11,802 |
+| Tide Master | 26.00% | ~11,802 |
 | Difficult family relationships | 25.00% | ~11,348 |
 | MASS-O-BOT | 24.00% | ~10,894 |
 | Prepare the grave | 24.00% | ~10,894 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | The Stones’ Power | 18.00% | ~8,170 |
 | Flat as a pancake | 17.00% | ~7,716 |
 | Lifeguard | 17.00% | ~7,716 |
-| Can’t stand the sight of Dark Elf blood | 15.00% | ~6,808 |
+| Can’t stand the sight of Dark Elf blood | 15.00% | ~6,809 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~5,447 |
 | Then let them eat cake! | 12.00% | ~5,447 |
 | The White Knight | 10.00% | ~4,539 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~908 |
 | Sacrifices! | 2.00% | ~908 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,390 (Ranked 124)  
+Progressed: 45,391 (Ranked 124)  
 Completed: 363 (0.80%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 363 (0.80%) (Ranked 189)
 | 2023-12-28 | 45,113 | 362 |
 | 2023-12-29 | 45,239 | 362 |
 | 2023-12-30 | 45,366 | 362 |
-| 2023-12-31 | 45,390 | 363 |
+| 2023-12-31 | 45,391 | 363 |
 ## Awards
 Max (Great for Beginners): 394  (Ranked 239)  
 Sum: 2,834 (Ranked 187)  

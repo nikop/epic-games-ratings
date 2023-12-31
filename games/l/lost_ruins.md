@@ -9,12 +9,12 @@
 | Bug Hunter | 23.00% | ~147 |
 | Boss Killer | 22.00% | ~140 |
 | The Fallen | 20.00% | ~128 |
-| Artifact Collector | 18.00% | ~115 |
+| Artifact Collector | 19.00% | ~121 |
 | Trap Master | 18.00% | ~115 |
-| Ghost Buster | 14.00% | ~89 |
+| Ghost Buster | 15.00% | ~96 |
+| Reincarnation | 15.00% | ~96 |
 | Iconoclasm | 14.00% | ~89 |
-| Reincarnation | 14.00% | ~89 |
-| Librarian | 12.00% | ~77 |
+| Librarian | 13.00% | ~83 |
 | Orcs Must Die! | 12.00% | ~77 |
 | The End | 12.00% | ~77 |
 | Gladiator | 11.00% | ~70 |

@@ -3820,9 +3820,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 242076,
+  "EOS_Progressed": 242079,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 506,
+  "EOS_NewPlayers": 505,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -30170,6 +30170,11 @@
       "Time": "2023-12-31T07:10:57.8177857+00:00",
       "NumProgressed": 242076,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-31T08:10:10.754803+00:00",
+      "NumProgressed": 242079,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -30499,9 +30504,9 @@
       "ID": "HIGHATTACK",
       "SetID": "5l8oe0h",
       "Name": "Berzerker",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 726
+      "UsersEstimate": 968
     },
     {
       "ID": "HIGHCLARITY",
@@ -31284,13 +31289,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242076,
+      "Progressed": 242079,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3556,
+      "Progressed": 3559,
       "Completed": 416
     }
   ],
@@ -31298,8 +31303,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-31T06:03:01.3607519+00:00",
-  "LastChanged_Achievements": "2023-12-31T07:10:57.8177853+00:00",
+  "LastChanged_Achievements": "2023-12-31T08:10:10.7548029+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:02:21.7389214+00:00",
-  "LastUpdate_Achievements": "2023-12-31T07:10:57.8180592+00:00"
+  "LastUpdate_Ratings": "2023-12-31T08:02:39.5759498+00:00",
+  "LastUpdate_Achievements": "2023-12-31T08:10:10.7550416+00:00"
 }

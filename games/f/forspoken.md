@@ -1,13 +1,13 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.12 (Ranked 996)  
+Rating: 4.13 (Ranked 994)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Attachments | 12.00% | ~5,500 |
-| Unlocked Potential | 11.00% | ~5,041 |
-| Tinkerer | 8.00% | ~3,666 |
+| Unlocked Potential | 11.00% | ~5,042 |
+| Tinkerer | 8.00% | ~3,667 |
 | Leapfrogger | 7.00% | ~3,208 |
 | Knock 'Em Dead | 7.00% | ~3,208 |
 | Pilgrimage: Initiate | 7.00% | ~3,208 |
@@ -39,11 +39,11 @@ Rating: 4.12 (Ranked 996)
 | Awakening | 0.60% | ~275 |
 | Explorer: Trailblazer | 0.60% | ~275 |
 | Through the Eyes of Another: Seer | 0.50% | ~229 |
-| Archivist | 0.30% | ~137 |
-| Craftsperson | 0.30% | ~137 |
-| Tit for Tat | 0.30% | ~137 |
-| A Roaring Trade | 0.30% | ~137 |
-| Promises | 0.30% | ~137 |
+| Archivist | 0.30% | ~138 |
+| Craftsperson | 0.30% | ~138 |
+| Tit for Tat | 0.30% | ~138 |
+| A Roaring Trade | 0.30% | ~138 |
+| Promises | 0.30% | ~138 |
 | Paragon | 0.20% | ~92 |
 | Pilgrimage: Adept | 0.20% | ~92 |
 | Call of the Fount: Beatified | 0.20% | ~92 |
@@ -59,7 +59,7 @@ Rating: 4.12 (Ranked 996)
 | Remembrance | 0.10% | ~46 |
 | Cat Person | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,831 (Ranked 122)  
+Progressed: 45,835 (Ranked 122)  
 Completed: 4 (0.01%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 4 (0.01%) (Ranked 369)
 | 2023-12-28 | 45,528 | 3 |
 | 2023-12-29 | 45,657 | 3 |
 | 2023-12-30 | 45,788 | 3 |
-| 2023-12-31 | 45,831 | 4 |
+| 2023-12-31 | 45,835 | 4 |
 ## Awards
 Max (Character Customization): 35  (Ranked 495)  
 Sum: 35 (Ranked 523)  
@@ -416,3 +416,4 @@ Diff (max vs sum): -28
 | 2023-12-26 | 4.12 | 33 | 33 |
 | 2023-12-29 | 4.11 | 35 | 35 |
 | 2023-12-30 | 4.12 | 35 | 35 |
+| 2023-12-31 | 4.13 | 35 | 35 |

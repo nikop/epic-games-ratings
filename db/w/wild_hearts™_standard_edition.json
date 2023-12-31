@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1028,
+  "EOS_Progressed": 1029,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -3398,6 +3398,11 @@
       "Time": "2023-12-31T06:10:20.7268452+00:00",
       "NumProgressed": 1028,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-12-31T08:09:24.3070779+00:00",
+      "NumProgressed": 1029,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -3410,7 +3415,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "achievement_10",
@@ -3482,7 +3487,7 @@
       "Name": "Man-Machine Master",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "achievement_19",
@@ -3490,7 +3495,7 @@
       "Name": "Counter Specialist",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "achievement_2",
@@ -3498,7 +3503,7 @@
       "Name": "Mountain Splitter",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "achievement_20",
@@ -3506,7 +3511,7 @@
       "Name": "Subsistence Skills",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "achievement_21",
@@ -3522,7 +3527,7 @@
       "Name": "Kemono Hunter",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "achievement_23",
@@ -3538,7 +3543,7 @@
       "Name": "Single Minded",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "achievement_25",
@@ -3562,7 +3567,7 @@
       "Name": "Mighty Marmelizer",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "achievement_28",
@@ -3570,7 +3575,7 @@
       "Name": "Flawless Crystal",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "achievement_29",
@@ -3586,7 +3591,7 @@
       "Name": "Bonds of Enmity",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "achievement_30",
@@ -3618,7 +3623,7 @@
       "Name": "Human Believer",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "achievement_34",
@@ -3626,7 +3631,7 @@
       "Name": "Kemono at Heart",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "achievement_35",
@@ -3650,7 +3655,7 @@
       "Name": "Hidden History",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "achievement_38",
@@ -3706,7 +3711,7 @@
       "Name": "Team Hunter",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "achievement_44",
@@ -3730,7 +3735,7 @@
       "Name": "Charmed by the Hunt",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "achievement_47",
@@ -3754,7 +3759,7 @@
       "Name": "Reincarnation Cycle Stopper",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "achievement_6",
@@ -3762,7 +3767,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "achievement_7",
@@ -3793,13 +3798,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 1028,
+      "Progressed": 1029,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-12-31T07:09:54.9777252+00:00",
+  "LastChanged_Achievements": "2023-12-31T08:09:24.3070777+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:22.7723621+00:00",
-  "LastUpdate_Ratings": "2023-12-31T06:59:38.8088244+00:00",
-  "LastUpdate_Achievements": "2023-12-31T07:09:54.9778116+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:58:29.0970417+00:00",
+  "LastUpdate_Achievements": "2023-12-31T08:09:24.3071283+00:00"
 }

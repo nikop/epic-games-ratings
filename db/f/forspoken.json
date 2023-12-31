@@ -2,7 +2,7 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 996,
+  "Ranking_Rating": 994,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 122,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "SA"
     }
   },
-  "Rating": 4.12,
+  "Rating": 4.13,
   "RatingHistory": [
     {
       "Time": "2023-01-28T02:09:06.4755934+00:00",
@@ -539,6 +539,12 @@
       "Rating": 4.12,
       "NumberOfAwards": 35,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-12-31T08:02:45.8562466+00:00",
+      "Rating": 4.13,
+      "NumberOfAwards": 35,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
@@ -553,9 +559,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 45831,
+  "EOS_Progressed": 45835,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 836,
+  "EOS_NewPlayers": 835,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17078,6 +17084,11 @@
       "Time": "2023-12-31T07:05:16.7287069+00:00",
       "NumProgressed": 45831,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-31T08:04:14.5899647+00:00",
+      "NumProgressed": 45835,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -17097,7 +17108,7 @@
       "Name": "Archivist",
       "Percentage": 0.3,
       "XP": 105,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "CAMP",
@@ -17233,7 +17244,7 @@
       "Name": "Craftsperson",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "CRAFT_FIRST",
@@ -17241,7 +17252,7 @@
       "Name": "Tinkerer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3666
+      "UsersEstimate": 3667
     },
     {
       "ID": "CUFF_ATTACK",
@@ -17273,7 +17284,7 @@
       "Name": "Tit for Tat",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "LEAPFROG",
@@ -17425,7 +17436,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5041
+      "UsersEstimate": 5042
     },
     {
       "ID": "SPRING_ALL",
@@ -17481,7 +17492,7 @@
       "Name": "A Roaring Trade",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "SUBQUEST_CINTA",
@@ -17489,7 +17500,7 @@
       "Name": "Promises",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "SUBQUEST_CIPAL",
@@ -17512,22 +17523,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 45831,
+      "Progressed": 45835,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 10668,
-      "Completed": 10668
+      "Progressed": 10672,
+      "Completed": 10672
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
-  "LastChanged": "2023-12-30T00:02:46.805004+00:00",
-  "LastChanged_Achievements": "2023-12-31T07:05:16.7287066+00:00",
+  "LastChanged": "2023-12-31T08:02:45.8562464+00:00",
+  "LastChanged_Achievements": "2023-12-31T08:04:14.5899645+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:48.1998363+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:03:11.4411019+00:00",
-  "LastUpdate_Achievements": "2023-12-31T07:05:16.7288124+00:00"
+  "LastUpdate_Ratings": "2023-12-31T08:02:45.8562471+00:00",
+  "LastUpdate_Achievements": "2023-12-31T08:04:14.5900505+00:00"
 }

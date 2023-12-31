@@ -1,27 +1,27 @@
 # Disco Elysium - The Final Cut
 [Store](https://store.epicgames.com/en-US/p/disco-elysium)  
 [View Rawdata](../../db/d/disco_elysium_-_the_final_cut.json)  
-Rating: 4.87 (Ranked 25)  
+Rating: 4.87 (Ranked 24)  
 Number of Ratings: 1,611  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~38,209 |
-| Biggest Communism Builder | 23.00% | ~31,386 |
-| The World's Most Laughable Centrist | 20.00% | ~27,292 |
-| Il Coppo Del'Arte! | 18.00% | ~24,563 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,834 |
-| Hyperstellar Law Official | 15.00% | ~20,469 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~19,105 |
-| Gurdi-Ball Is Lit | 14.00% | ~19,105 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~17,740 |
-| Truly Rabid *Traditionalist* | 11.00% | ~15,011 |
+| Goodest Of The Good Cops | 28.00% | ~38,212 |
+| Biggest Communism Builder | 23.00% | ~31,388 |
+| The World's Most Laughable Centrist | 20.00% | ~27,294 |
+| Il Coppo Del'Arte! | 18.00% | ~24,565 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,835 |
+| Hyperstellar Law Official | 15.00% | ~20,471 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~19,106 |
+| Gurdi-Ball Is Lit | 14.00% | ~19,106 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~17,741 |
+| Truly Rabid *Traditionalist* | 11.00% | ~15,012 |
 | Unbelievably Boring **** | 9.00% | ~12,282 |
 | The Figurines Won't Win Her Back | 9.00% | ~12,282 |
-| Enemy Of The Physical Realm | 8.00% | ~10,917 |
+| Enemy Of The Physical Realm | 8.00% | ~10,918 |
 | Hardie's Heroes | 6.00% | ~8,188 |
-| The Lawbringer | 4.00% | ~5,458 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,458 |
+| The Lawbringer | 4.00% | ~5,459 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,459 |
 | The Opener Of The Eighth Seal | 3.00% | ~4,094 |
 | Bother Kim After Hours | 3.00% | ~4,094 |
 | Baddest Of the Bad Cops | 2.00% | ~2,729 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~136 |
 | What body? | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,462 (Ranked 88)  
+Progressed: 136,471 (Ranked 88)  
 Completed: 28 (0.02%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 28 (0.02%) (Ranked 358)
 | 2023-12-28 | 135,988 | 28 |
 | 2023-12-29 | 136,177 | 28 |
 | 2023-12-30 | 136,405 | 28 |
-| 2023-12-31 | 136,462 | 28 |
+| 2023-12-31 | 136,471 | 28 |
 ## Awards
 Max (Character Customization): 756  (Ranked 187)  
 Sum: 1,152 (Ranked 258)  

@@ -1218,9 +1218,9 @@
       "ID": "KR4_ACHIEVEMENT_FARMER_JOE",
       "SetID": "caeik3h",
       "Name": "Kill Joe Jenkins",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 106
     },
     {
       "ID": "KR4_ACHIEVEMENT_FEELS_GOOD_TO_BE_BACK",
@@ -1338,9 +1338,9 @@
       "ID": "KR4_ACHIEVEMENT_ICESCULPTOR",
       "SetID": "caeik3h",
       "Name": "Ice sculptor",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 155
     },
     {
       "ID": "KR4_ACHIEVEMENT_INCREDIBLES",
@@ -1370,9 +1370,9 @@
       "ID": "KR4_ACHIEVEMENT_JOKULL",
       "SetID": "caeik3h",
       "Name": "How To Tame Your Dragon",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 150
     },
     {
       "ID": "KR4_ACHIEVEMENT_KERMIT",
@@ -1602,9 +1602,9 @@
       "ID": "KR4_ACHIEVEMENT_SPAWN_REINFORCEMENTS",
       "SetID": "caeik3h",
       "Name": "We Are Legion!",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 129
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPIDERS",
@@ -1703,8 +1703,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-31T07:08:13.916498+00:00",
+  "LastChanged_Achievements": "2023-12-31T08:08:11.5402675+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.1058747+00:00",
-  "LastUpdate_Ratings": "2023-12-31T06:59:22.5824209+00:00",
-  "LastUpdate_Achievements": "2023-12-31T07:08:13.9165633+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:58:18.3801472+00:00",
+  "LastUpdate_Achievements": "2023-12-31T08:08:11.5403404+00:00"
 }

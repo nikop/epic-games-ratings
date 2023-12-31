@@ -4,7 +4,7 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -2012,9 +2012,9 @@
       "ID": "RISKYTEXT_VOTE_FOR_EDITED_WORD",
       "SetID": "9j9h72e",
       "Name": "FixyText: Co-author",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 105
     },
     {
       "ID": "TIME_JINX",
@@ -2036,9 +2036,9 @@
       "ID": "TIME_PERFECT_DATE",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Date",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 180
+      "UsersEstimate": 186
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -2091,8 +2091,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-31T07:10:29.0624928+00:00",
+  "LastChanged_Achievements": "2023-12-31T08:09:48.8087136+00:00",
   "LastUpdate_AppInfo": "2023-12-30T02:16:13.4108208+00:00",
-  "LastUpdate_Ratings": "2023-12-31T06:57:22.5368314+00:00",
-  "LastUpdate_Achievements": "2023-12-31T07:10:29.0625574+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:56:57.1307489+00:00",
+  "LastUpdate_Achievements": "2023-12-31T08:09:48.8087322+00:00"
 }

@@ -31,7 +31,7 @@
   "Tags": [],
   "EOS_Progressed": 638,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1714,9 +1714,9 @@
       "ID": "ArtifactsCollector",
       "SetID": "82505mn",
       "Name": "Artifact Collector",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 115
+      "UsersEstimate": 121
     },
     {
       "ID": "Assassin",
@@ -1762,9 +1762,9 @@
       "ID": "GhostBuster",
       "SetID": "82505mn",
       "Name": "Ghost Buster",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 96
     },
     {
       "ID": "Gladiator",
@@ -1826,9 +1826,9 @@
       "ID": "Librarian",
       "SetID": "82505mn",
       "Name": "Librarian",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 83
     },
     {
       "ID": "Lumberjack",
@@ -1898,9 +1898,9 @@
       "ID": "Reincarnation",
       "SetID": "82505mn",
       "Name": "Reincarnation",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 96
     },
     {
       "ID": "Roughneck",
@@ -2027,8 +2027,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-31T07:10:50.0943174+00:00",
+  "LastChanged_Achievements": "2023-12-31T08:10:04.4413582+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:03.2604081+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:01:20.6261358+00:00",
-  "LastUpdate_Achievements": "2023-12-31T07:10:50.0943577+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:59:38.1956122+00:00",
+  "LastUpdate_Achievements": "2023-12-31T08:10:04.4413839+00:00"
 }

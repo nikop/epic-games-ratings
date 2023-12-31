@@ -802,9 +802,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 43248,
+  "EOS_Progressed": 43251,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 446,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26822,6 +26822,11 @@
       "Time": "2023-12-31T07:06:03.6164785+00:00",
       "NumProgressed": 43248,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-31T08:04:48.8886289+00:00",
+      "NumProgressed": 43251,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -26841,7 +26846,7 @@
       "Name": "The Lady\u0027s Parlour",
       "Percentage": 0.2,
       "XP": 70,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ach_admirality10",
@@ -26849,7 +26854,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7352
+      "UsersEstimate": 7353
     },
     {
       "ID": "ach_antiquarian10",
@@ -26865,7 +26870,7 @@
       "Name": "A buoyant escape",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ach_constant",
@@ -26897,7 +26902,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4757
+      "UsersEstimate": 4758
     },
     {
       "ID": "ach_cursestone",
@@ -26913,7 +26918,7 @@
       "Name": "Storm\u0027s Curse",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "ach_dawnmachine",
@@ -26921,7 +26926,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4757
+      "UsersEstimate": 4758
     },
     {
       "ID": "ach_deathofermod",
@@ -26953,7 +26958,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15569
+      "UsersEstimate": 15570
     },
     {
       "ID": "ach_die10",
@@ -26977,7 +26982,7 @@
       "Name": "Frightful, sheer, no-man-fathomed",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ach_dreadnaught",
@@ -26985,7 +26990,7 @@
       "Name": "We\u0027re Gonna Need a Bigger Boat",
       "Percentage": 3,
       "XP": 70,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "ach_eye",
@@ -27001,7 +27006,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4757
+      "UsersEstimate": 4758
     },
     {
       "ID": "ach_invictus",
@@ -27017,7 +27022,7 @@
       "Name": "Come Closer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "ach_legacycorrespondent",
@@ -27033,7 +27038,7 @@
       "Name": "Pupil",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3027
+      "UsersEstimate": 3028
     },
     {
       "ID": "ach_legacyrival",
@@ -27049,7 +27054,7 @@
       "Name": "Salvager",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3027
+      "UsersEstimate": 3028
     },
     {
       "ID": "ach_legacyshipmate",
@@ -27057,7 +27062,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4757
+      "UsersEstimate": 4758
     },
     {
       "ID": "ach_newstories",
@@ -27065,7 +27070,7 @@
       "Name": "Open Your Ears",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3027
+      "UsersEstimate": 3028
     },
     {
       "ID": "ach_portbell",
@@ -27073,7 +27078,7 @@
       "Name": "The Bell Tolls",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ach_portbones",
@@ -27113,7 +27118,7 @@
       "Name": "Knife, Cup and Bone",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ach_portleviathan",
@@ -27145,7 +27150,7 @@
       "Name": "Rosewater sailor",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ach_portunder",
@@ -27161,7 +27166,7 @@
       "Name": "Zee Fever",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2162
+      "UsersEstimate": 2163
     },
     {
       "ID": "ach_stranger",
@@ -27169,7 +27174,7 @@
       "Name": "A Past Wreathed in Shadows",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ach_surface",
@@ -27177,7 +27182,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3027
+      "UsersEstimate": 3028
     },
     {
       "ID": "ach_sweetheart",
@@ -27201,7 +27206,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6487
+      "UsersEstimate": 6488
     },
     {
       "ID": "ach_undercurrent",
@@ -27209,7 +27214,7 @@
       "Name": "A current under zee",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ach_underdepth",
@@ -27225,7 +27230,7 @@
       "Name": "Under pressure",
       "Percentage": 0.2,
       "XP": 70,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ach_will",
@@ -27264,15 +27269,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 43248,
+      "Progressed": 43251,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-12-30T23:57:07.6493697+00:00",
-  "LastChanged_Achievements": "2023-12-31T07:06:03.616478+00:00",
+  "LastChanged_Achievements": "2023-12-31T08:04:48.8886287+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:43.1015004+00:00",
-  "LastUpdate_Ratings": "2023-12-31T06:57:30.6405684+00:00",
-  "LastUpdate_Achievements": "2023-12-31T07:06:03.6166483+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:57:02.2677064+00:00",
+  "LastUpdate_Achievements": "2023-12-31T08:04:48.8887407+00:00"
 }

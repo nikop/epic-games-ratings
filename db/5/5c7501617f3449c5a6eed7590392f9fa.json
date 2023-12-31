@@ -2,9 +2,9 @@
   "ID": "5c7501617f3449c5a6eed7590392f9fa",
   "Name": "Botanicula",
   "ProductSlug": "botanicula-50043d",
-  "Ranking_EOS_Progress": 434,
-  "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_Progress": 433,
+  "Ranking_EOS_Completed": 163,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 171,
+  "EOS_Progressed": 172,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.17,
+  "EOS_Completed_Percentage": 1.16,
   "EosHistory": [
     {
       "Time": "2023-11-01T21:05:35.9101781+00:00",
@@ -739,6 +739,11 @@
       "Time": "2023-12-30T21:10:15.6101294+00:00",
       "NumProgressed": 171,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-31T08:09:03.2111804+00:00",
+      "NumProgressed": 172,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.6097562+00:00",
@@ -751,7 +756,7 @@
       "Name": "Balonek",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Ach-01-brambora",
@@ -759,7 +764,7 @@
       "Name": "Brambora",
       "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "Ach-01-bzukavec",
@@ -773,17 +778,17 @@
       "ID": "Ach-01-jepice",
       "SetID": "2pjo9pi",
       "Name": "Jepice",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "Ach-01-soukac",
       "SetID": "2pjo9pi",
       "Name": "Soukac",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 100
     },
     {
       "ID": "Ach-01-ulita",
@@ -791,7 +796,7 @@
       "Name": "Ulita",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Ach-02-brouk",
@@ -799,7 +804,7 @@
       "Name": "Brouk",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Ach-02-dzin",
@@ -807,7 +812,7 @@
       "Name": "Dzin",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Ach-02-hopik",
@@ -815,7 +820,7 @@
       "Name": "Hopik",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Ach-02-nosal",
@@ -823,7 +828,7 @@
       "Name": "Nosal",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "Ach-02-orchestrion",
@@ -831,7 +836,7 @@
       "Name": "Orchestrion",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Ach-02-parazit",
@@ -839,15 +844,15 @@
       "Name": "Parazit",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "Ach-02-strasilka",
       "SetID": "2pjo9pi",
       "Name": "Strasilka",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 96
     },
     {
       "ID": "Ach-02-tykvovec",
@@ -861,9 +866,9 @@
       "ID": "Ach-02-zlo",
       "SetID": "2pjo9pi",
       "Name": "Zlo A",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 71
     },
     {
       "ID": "Ach-03-jepice",
@@ -879,7 +884,7 @@
       "Name": "Pidalka",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Ach-03-skakavec",
@@ -903,7 +908,7 @@
       "Name": "Zaba",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Ach-03-zrout",
@@ -935,7 +940,7 @@
       "Name": "Kukacka",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Ach-04-mesto",
@@ -1037,9 +1042,9 @@
       "ID": "Ach-05-jelen",
       "SetID": "2pjo9pi",
       "Name": "Jelen",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "Ach-05-kedlubny",
@@ -1101,9 +1106,9 @@
       "ID": "Ach-05-zelva",
       "SetID": "2pjo9pi",
       "Name": "Zelva",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "Ach-05-zloC",
@@ -1119,15 +1124,15 @@
       "Name": "Level 1",
       "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "Ach-level-2",
       "SetID": "2pjo9pi",
       "Name": "Level 2",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 71
     },
     {
       "ID": "Ach-level-3",
@@ -1135,7 +1140,7 @@
       "Name": "Level 3",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Ach-level-4",
@@ -1157,9 +1162,9 @@
       "ID": "Ach-level-6",
       "SetID": "2pjo9pi",
       "Name": "Level 6",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "Ach-mytologie",
@@ -1174,14 +1179,14 @@
     {
       "ID": "2pjo9pi",
       "IsBase": true,
-      "Progressed": 171,
+      "Progressed": 172,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2023-12-31T07:09:25.9149232+00:00",
+  "LastChanged_Achievements": "2023-12-31T08:09:03.2111801+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:05.6352108+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:00:21.6889306+00:00",
-  "LastUpdate_Achievements": "2023-12-31T07:09:25.9149734+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:58:58.1721229+00:00",
+  "LastUpdate_Achievements": "2023-12-31T08:09:03.2112125+00:00"
 }

@@ -12,12 +12,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 6.00% | ~1,186 |
 | No Deaths | 6.00% | ~1,186 |
 | Petrified Necropolis | 6.00% | ~1,186 |
-| Overcoming Difficulty | 5.00% | ~988 |
-| Coral Forest | 5.00% | ~988 |
-| The Marshlands | 5.00% | ~988 |
-| The Scarlet Orchard | 5.00% | ~988 |
-| Ominous Presence | 5.00% | ~988 |
-| Gathering Storm | 5.00% | ~988 |
+| Overcoming Difficulty | 5.00% | ~989 |
+| Coral Forest | 5.00% | ~989 |
+| The Marshlands | 5.00% | ~989 |
+| The Scarlet Orchard | 5.00% | ~989 |
+| Ominous Presence | 5.00% | ~989 |
+| Gathering Storm | 5.00% | ~989 |
 | Frosts | 4.00% | ~791 |
 | Land of Greed | 4.00% | ~791 |
 | Homesick | 3.00% | ~593 |
@@ -32,6 +32,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Barren Lands | 2.00% | ~395 |
 | Ancient Battleground | 2.00% | ~395 |
 | Sparkdew Crystals | 2.00% | ~395 |
+| Haunted Forest | 2.00% | ~395 |
 | Levitating Monument | 2.00% | ~395 |
 | Flooded Mines | 2.00% | ~395 |
 | Lost Colonies | 2.00% | ~395 |
@@ -42,7 +43,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Serving Ale | 1.00% | ~198 |
 | Against All Odds | 1.00% | ~198 |
 | Fishmen Ritual Site | 1.00% | ~198 |
-| Haunted Forest | 1.00% | ~198 |
 | Victory Through Prosperity | 1.00% | ~198 |
 | Defying the Crown | 1.00% | ~198 |
 | Into the Forest | 1.00% | ~198 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,765 (Ranked 151)  
+Progressed: 19,771 (Ranked 151)  
 Completed: 34 (0.17%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 34 (0.17%) (Ranked 280)
 | 2023-12-28 | 19,536 | 36 |
 | 2023-12-29 | 19,630 | 36 |
 | 2023-12-30 | 19,741 | 35 |
-| 2023-12-31 | 19,765 | 34 |
+| 2023-12-31 | 19,771 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 447  (Ranked 230)  
 Sum: 3,309 (Ranked 177)  

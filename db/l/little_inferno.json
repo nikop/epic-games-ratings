@@ -2,12 +2,12 @@
   "ID": "clover",
   "Name": "Little Inferno",
   "ProductSlug": "little-inferno",
-  "Ranking_Rating": 502,
+  "Ranking_Rating": 542,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 563,
+  "Ranking_EOS_NewPlayers": 564,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2012-11-19T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.54,
   "NumberOfRatings": 66,
   "RatingHistory": [
     {
@@ -362,6 +362,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-12-31T07:58:35.212154+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -379,8 +385,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:23.1362481+00:00",
-  "LastChanged": "2023-12-16T06:58:20.0700553+00:00",
+  "LastChanged": "2023-12-31T07:58:35.2121538+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:20.3515032+00:00",
-  "LastUpdate_Ratings": "2023-12-31T06:59:48.0534301+00:00",
-  "LastUpdate_Achievements": "2023-12-31T07:09:59.1138604+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:58:35.2121543+00:00",
+  "LastUpdate_Achievements": "2023-12-31T08:09:27.2698946+00:00"
 }

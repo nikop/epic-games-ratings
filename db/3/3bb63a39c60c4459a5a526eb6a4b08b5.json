@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1058,
+  "EOS_Progressed": 1059,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4099,6 +4099,11 @@
       "Time": "2023-12-30T19:12:50.954158+00:00",
       "NumProgressed": 1058,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T08:10:04.6645308+00:00",
+      "NumProgressed": 1059,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -4150,7 +4155,7 @@
       "Name": "Calculated",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Close",
@@ -4196,9 +4201,9 @@
       "ID": "Fifty",
       "SetID": "1e89b4i",
       "Name": "Fifty",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 85
     },
     {
       "ID": "First",
@@ -4326,7 +4331,7 @@
       "Name": "No Way Back",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "NotPlanned",
@@ -4334,7 +4339,7 @@
       "Name": "This Wasn\u0027t Part of the Plan...",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Ownway",
@@ -4358,7 +4363,7 @@
       "Name": "Race Against Time",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Reaction",
@@ -4445,14 +4450,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1058,
+      "Progressed": 1059,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-12-31T07:10:50.424123+00:00",
+  "LastChanged_Achievements": "2023-12-31T08:10:04.6645303+00:00",
   "LastUpdate_AppInfo": "2023-12-26T20:57:07.3165629+00:00",
-  "LastUpdate_Ratings": "2023-12-31T06:59:27.3986442+00:00",
-  "LastUpdate_Achievements": "2023-12-31T07:10:50.4241682+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:58:21.6788013+00:00",
+  "LastUpdate_Achievements": "2023-12-31T08:10:04.6645796+00:00"
 }

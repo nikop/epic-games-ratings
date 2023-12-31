@@ -6,26 +6,26 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~730,868 |
-| The Blues | 85.00% | ~627,512 |
-| Fast | 66.00% | ~487,245 |
-| Healthbar | 55.00% | ~406,038 |
-| Force Cube | 53.00% | ~391,272 |
-| Double Jump | 48.00% | ~354,360 |
+| Out of bed | 99.00% | ~730,869 |
+| The Blues | 85.00% | ~627,514 |
+| Fast | 66.00% | ~487,246 |
+| Healthbar | 55.00% | ~406,039 |
+| Force Cube | 53.00% | ~391,274 |
+| Double Jump | 48.00% | ~354,361 |
 | Regeneration | 47.00% | ~346,978 |
 | Triple Jump | 43.00% | ~317,448 |
-| Climb the hill | 42.00% | ~310,065 |
+| Climb the hill | 42.00% | ~310,066 |
 | Through the fire pipe | 39.00% | ~287,918 |
-| MacGuffin | 38.00% | ~280,535 |
-| Just once | 37.00% | ~273,152 |
-| Armor | 30.00% | ~221,475 |
-| True holy spirit | 28.00% | ~206,710 |
+| MacGuffin | 38.00% | ~280,536 |
+| Just once | 37.00% | ~273,153 |
+| Armor | 30.00% | ~221,476 |
+| True holy spirit | 28.00% | ~206,711 |
 | That's how electronics work obviously | 27.00% | ~199,328 |
-| Force Cube Catapult | 25.00% | ~184,562 |
+| Force Cube Catapult | 25.00% | ~184,563 |
 | Holy Sword | 23.00% | ~169,798 |
 | Telefrag | 23.00% | ~169,798 |
 | Freed from prison | 22.00% | ~162,415 |
-| Stomp | 21.00% | ~155,032 |
+| Stomp | 21.00% | ~155,033 |
 | Double Health | 19.00% | ~140,268 |
 | Buckle | 18.00% | ~132,885 |
 | Green Keycard | 18.00% | ~132,885 |
@@ -34,9 +34,9 @@ Number of Ratings: 25,175  (23.09.2022)
 | Beam | 14.00% | ~103,355 |
 | 9 | 14.00% | ~103,355 |
 | Supraball Noob | 14.00% | ~103,355 |
-| Health Drink | 13.00% | ~95,972 |
-| Helped a star | 13.00% | ~95,972 |
-| Purple Cube | 13.00% | ~95,972 |
+| Health Drink | 13.00% | ~95,973 |
+| Helped a star | 13.00% | ~95,973 |
+| Purple Cube | 13.00% | ~95,973 |
 | Strong | 12.00% | ~88,590 |
 | Blue King's lair | 11.00% | ~81,208 |
 | Payback | 11.00% | ~81,208 |
@@ -51,10 +51,10 @@ Number of Ratings: 25,175  (23.09.2022)
 | Panic Lights | 10.00% | ~73,825 |
 | Translocator | 10.00% | ~73,825 |
 | Yellow Shot Button | 10.00% | ~73,825 |
-| Moon Door | 9.00% | ~66,442 |
-| Momentum | 9.00% | ~66,442 |
-| Through the tiny pipe | 9.00% | ~66,442 |
-| Win! | 9.00% | ~66,442 |
+| Moon Door | 9.00% | ~66,443 |
+| Momentum | 9.00% | ~66,443 |
+| Through the tiny pipe | 9.00% | ~66,443 |
+| Win! | 9.00% | ~66,443 |
 | The real real teleported man | 8.00% | ~59,060 |
 | Well deserved | 6.00% | ~44,295 |
 | Super Sword | 4.00% | ~29,530 |
@@ -63,9 +63,9 @@ Number of Ratings: 25,175  (23.09.2022)
 | Poor ancestors | 2.00% | ~14,765 |
 | Shelf filled | 2.00% | ~14,765 |
 | Invisible Wall | 2.00% | ~14,765 |
-| Groupies | 1.00% | ~7,382 |
-| Jesus Christ Suprastar | 1.00% | ~7,382 |
-| Redstone Pickaxe | 1.00% | ~7,382 |
+| Groupies | 1.00% | ~7,383 |
+| Jesus Christ Suprastar | 1.00% | ~7,383 |
+| Redstone Pickaxe | 1.00% | ~7,383 |
 | DLC: Crashed | 0.60% | ~4,430 |
 | DLC: Gotta Jump High | 0.60% | ~4,430 |
 | DLC: Gotta Run Fast | 0.60% | ~4,430 |
@@ -98,14 +98,14 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: Birds | 0.30% | ~2,215 |
 | DLC: Horticultural | 0.30% | ~2,215 |
 | DLC: Non-NPC | 0.30% | ~2,215 |
-| DLC: The Giant's Workshop | 0.20% | ~1,476 |
-| DLC: Invisible Wall | 0.20% | ~1,476 |
-| DLC: A good cause! | 0.20% | ~1,476 |
-| DLC: Shady stick | 0.20% | ~1,476 |
+| DLC: The Giant's Workshop | 0.20% | ~1,477 |
+| DLC: Invisible Wall | 0.20% | ~1,477 |
+| DLC: A good cause! | 0.20% | ~1,477 |
+| DLC: Shady stick | 0.20% | ~1,477 |
 | DLC: There he is! | 0.10% | ~738 |
 | DLC: Top of the world | 0.10% | ~738 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 738,250 (Ranked 25)  
+Progressed: 738,252 (Ranked 25)  
 Completed: 775 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -360,7 +360,7 @@ Completed: 775 (0.10%) (Ranked 305)
 | 2023-12-28 | 737,906 | 774 |
 | 2023-12-29 | 738,051 | 775 |
 | 2023-12-30 | 738,223 | 775 |
-| 2023-12-31 | 738,250 | 775 |
+| 2023-12-31 | 738,252 | 775 |
 ## Awards
 Max (Challenging Puzzles): 7,766  (Ranked 52)  
 Sum: 10,132 (Ranked 93)  

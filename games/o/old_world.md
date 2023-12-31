@@ -60,6 +60,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 0.30% | ~48 |
 | Artisans | 0.30% | ~48 |
 | Champions | 0.30% | ~48 |
+| Patrons | 0.30% | ~48 |
 | Sages | 0.30% | ~48 |
 | Acropolis | 0.30% | ~48 |
 | Colossus | 0.30% | ~48 |
@@ -85,7 +86,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good Difficulty | 0.20% | ~32 |
 | Strong Difficulty | 0.20% | ~32 |
 | Landowners | 0.20% | ~32 |
-| Patrons | 0.20% | ~32 |
 | Riders | 0.20% | ~32 |
 | Statesmen | 0.20% | ~32 |
 | Traders | 0.20% | ~32 |

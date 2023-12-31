@@ -2,9 +2,9 @@
   "ID": "1a7cbda7efe7435dabda1af662aeb1ba",
   "Name": "Zoeti",
   "ProductSlug": "zoeti-3ccef9",
-  "Ranking_EOS_Progress": 563,
+  "Ranking_EOS_Progress": 562,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 442,
+  "Ranking_EOS_NewPlayers": 429,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-16T22:30:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40,
+  "EOS_Progressed": 41,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -214,6 +214,11 @@
       "Time": "2023-12-29T18:10:54.2798652+00:00",
       "NumProgressed": 40,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T08:10:00.3599513+00:00",
+      "NumProgressed": 41,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -231,7 +236,7 @@
       "ID": "BOSS_KILL1",
       "SetID": "1icc7kd",
       "Name": "Breaking Free",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -239,7 +244,7 @@
       "ID": "BOSS_KILL10",
       "SetID": "1icc7kd",
       "Name": "Column Crusher",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -255,7 +260,7 @@
       "ID": "BOSS_KILL12",
       "SetID": "1icc7kd",
       "Name": "Crystal Hunter",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -263,7 +268,7 @@
       "ID": "BOSS_KILL2",
       "SetID": "1icc7kd",
       "Name": "Overcoming Weakness",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -271,7 +276,7 @@
       "ID": "BOSS_KILL3",
       "SetID": "1icc7kd",
       "Name": "Boulder Breaker",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -279,7 +284,7 @@
       "ID": "BOSS_KILL4",
       "SetID": "1icc7kd",
       "Name": "Fence-Sitter",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -287,7 +292,7 @@
       "ID": "BOSS_KILL5",
       "SetID": "1icc7kd",
       "Name": "Bye-Bye, Butcher",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -295,7 +300,7 @@
       "ID": "BOSS_KILL6",
       "SetID": "1icc7kd",
       "Name": "Rejected Parasite",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -343,7 +348,7 @@
       "ID": "CLEAR3",
       "SetID": "1icc7kd",
       "Name": "A Twist of Fate",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -351,7 +356,7 @@
       "ID": "CLEAR3_PLAYER1",
       "SetID": "1icc7kd",
       "Name": "Strength",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -415,7 +420,7 @@
       "ID": "STORY2",
       "SetID": "1icc7kd",
       "Name": "Eviction",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -431,7 +436,7 @@
       "ID": "STORY4",
       "SetID": "1icc7kd",
       "Name": "Rabbit Hunter",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -455,7 +460,7 @@
       "ID": "STORY7",
       "SetID": "1icc7kd",
       "Name": "Breach of Contract",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
       "UsersEstimate": 1
     }
@@ -464,14 +469,14 @@
     {
       "ID": "1icc7kd",
       "IsBase": true,
-      "Progressed": 40,
+      "Progressed": 41,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-19T06:56:53.0270163+00:00",
   "FirstSeenAchievements": "2023-05-16T17:00:43.3294802+00:00",
-  "LastChanged_Achievements": "2023-12-31T07:10:44.9144762+00:00",
+  "LastChanged_Achievements": "2023-12-31T08:10:00.3599511+00:00",
   "LastUpdate_AppInfo": "2023-12-27T12:59:42.358956+00:00",
-  "LastUpdate_Ratings": "2023-12-31T07:00:32.5619055+00:00",
-  "LastUpdate_Achievements": "2023-12-31T07:10:44.9144961+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:59:05.2769681+00:00",
+  "LastUpdate_Achievements": "2023-12-31T08:10:00.3599679+00:00"
 }

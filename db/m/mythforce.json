@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -848,9 +848,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5952,
+  "EOS_Progressed": 5954,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -12188,6 +12188,11 @@
       "Time": "2023-12-31T07:06:20.8540199+00:00",
       "NumProgressed": 5952,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-31T08:05:00.9234057+00:00",
+      "NumProgressed": 5954,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12232,7 +12237,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -12240,7 +12245,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -12248,7 +12253,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1607
+      "UsersEstimate": 1608
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -12320,7 +12325,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -12383,15 +12388,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5952,
+      "Progressed": 5954,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2023-12-31T07:06:20.8540195+00:00",
+  "LastChanged_Achievements": "2023-12-31T08:05:00.9234054+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5580896+00:00",
-  "LastUpdate_Ratings": "2023-12-31T06:57:45.9304913+00:00",
-  "LastUpdate_Achievements": "2023-12-31T07:06:20.854091+00:00"
+  "LastUpdate_Ratings": "2023-12-31T07:57:12.5226947+00:00",
+  "LastUpdate_Achievements": "2023-12-31T08:05:00.9235264+00:00"
 }

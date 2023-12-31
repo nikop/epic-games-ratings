@@ -24,13 +24,13 @@ Number of Ratings: 116  (23.09.2022)
 | Soul Harvester | 36.00% | ~117 |
 | Salvation | 36.00% | ~117 |
 | Unshakable Fortitude | 34.00% | ~111 |
+| Delusions of Grandeur | 31.00% | ~101 |
 | Maximum Vigor | 30.00% | ~98 |
 | I Wanna Rock | 30.00% | ~98 |
-| Delusions of Grandeur | 30.00% | ~98 |
 | Love Tap | 29.00% | ~94 |
 | Freeze Frame | 27.00% | ~88 |
+| For Whom the Bell Tolls | 27.00% | ~88 |
 | Eat Your Heart Out | 26.00% | ~84 |
-| For Whom the Bell Tolls | 26.00% | ~84 |
 | Big Spender | 25.00% | ~81 |
 | Unyielding Strength | 23.00% | ~75 |
 | Cleanup Crew | 22.00% | ~72 |
@@ -42,9 +42,9 @@ Number of Ratings: 116  (23.09.2022)
 | Egomaniac | 17.00% | ~55 |
 | Protector of Humanity | 15.00% | ~49 |
 | Everybody Wants to Rule the World | 15.00% | ~49 |
+| A Parting Gift | 12.00% | ~39 |
 | Community Outreach | 12.00% | ~39 |
 | Unbreakable Will | 11.00% | ~36 |
-| A Parting Gift | 11.00% | ~36 |
 | Path of the Horseman | 11.00% | ~36 |
 | Holy Keeper | 9.00% | ~29 |
 | Take it to the Limit | 9.00% | ~29 |

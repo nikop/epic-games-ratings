@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breaking Free | 40.00% | ~16 |
-| Boulder Breaker | 28.00% | ~11 |
-| Overcoming Weakness | 25.00% | ~10 |
-| Fence-Sitter | 13.00% | ~5 |
+| Breaking Free | 39.00% | ~16 |
+| Boulder Breaker | 27.00% | ~11 |
+| Overcoming Weakness | 24.00% | ~10 |
+| Fence-Sitter | 12.00% | ~5 |
 | Green Thumb | 10.00% | ~4 |
 | Setting Off | 10.00% | ~4 |
-| Crystal Hunter | 8.00% | ~3 |
-| Bye-Bye, Butcher | 8.00% | ~3 |
+| Crystal Hunter | 7.00% | ~3 |
+| Bye-Bye, Butcher | 7.00% | ~3 |
 | Equivalent Exchange | 5.00% | ~2 |
 | Danger | 5.00% | ~2 |
-| Column Crusher | 3.00% | ~1 |
-| Rejected Parasite | 3.00% | ~1 |
-| A Twist of Fate | 3.00% | ~1 |
-| Strength | 3.00% | ~1 |
-| Eviction | 3.00% | ~1 |
-| Rabbit Hunter | 3.00% | ~1 |
-| Breach of Contract | 3.00% | ~1 |
+| Column Crusher | 2.00% | ~1 |
+| Rejected Parasite | 2.00% | ~1 |
+| A Twist of Fate | 2.00% | ~1 |
+| Strength | 2.00% | ~1 |
+| Eviction | 2.00% | ~1 |
+| Rabbit Hunter | 2.00% | ~1 |
+| Breach of Contract | 2.00% | ~1 |
 | My Turn | 0.00% | ~0 |
 | Armor Annihilator | 0.00% | ~0 |
 | Rebellious Servant | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | Astral Envoy | 0.00% | ~0 |
 | The End of Fate | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 563)  
+Progressed: 41 (Ranked 562)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,3 +70,4 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-27 | 38 | 0 |
 | 2023-12-28 | 39 | 0 |
 | 2023-12-29 | 40 | 0 |
+| 2023-12-31 | 41 | 0 |
