@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -1937,9 +1937,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 68053,
+  "EOS_Progressed": 68055,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 791,
+  "EOS_NewPlayers": 789,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30017,6 +30017,11 @@
       "Time": "2023-12-31T03:07:11.7242069+00:00",
       "NumProgressed": 68053,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-31T04:07:01.0328051+00:00",
+      "NumProgressed": 68055,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -30028,7 +30033,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 37429
+      "UsersEstimate": 37430
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -30284,7 +30289,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21777
+      "UsersEstimate": 21778
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -30316,7 +30321,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 42873
+      "UsersEstimate": 42875
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -30324,7 +30329,7 @@
       "Name": "Gott Mit Uns",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8166
+      "UsersEstimate": 8167
     },
     {
       "ID": "VERDUN_ACH_LEVEL100",
@@ -30340,7 +30345,7 @@
       "Name": "Basic Training",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 15652
+      "UsersEstimate": 15653
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -30372,7 +30377,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 17013
+      "UsersEstimate": 17014
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -30396,7 +30401,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 53081
+      "UsersEstimate": 53083
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -30499,15 +30504,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 68053,
+      "Progressed": 68055,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-12-29T13:59:03.1617519+00:00",
-  "LastChanged_Achievements": "2023-12-31T03:07:11.7242065+00:00",
+  "LastChanged_Achievements": "2023-12-31T04:07:01.0328043+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:55.7383627+00:00",
-  "LastUpdate_Ratings": "2023-12-31T03:01:31.8770819+00:00",
-  "LastUpdate_Achievements": "2023-12-31T03:07:11.7244086+00:00"
+  "LastUpdate_Ratings": "2023-12-31T04:01:13.7785749+00:00",
+  "LastUpdate_Achievements": "2023-12-31T04:07:01.0329757+00:00"
 }

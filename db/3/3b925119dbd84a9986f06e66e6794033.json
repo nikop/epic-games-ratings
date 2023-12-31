@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 577,
+  "EOS_Progressed": 581,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1904,6 +1904,11 @@
       "Time": "2023-12-31T01:59:40.4766464+00:00",
       "NumProgressed": 577,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T04:10:34.000639+00:00",
+      "NumProgressed": 581,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -1948,7 +1953,7 @@
       "Name": "Hypnotorious: Brainiacs",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "HYPNO_OUTLIER_ID",
@@ -1980,7 +1985,7 @@
       "Name": "FixyText: Pump It Up",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
@@ -1988,7 +1993,7 @@
       "Name": "FixyText: Bestseller",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -2004,7 +2009,7 @@
       "Name": "FixyText: Co-author",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "TIME_JINX",
@@ -2012,7 +2017,7 @@
       "Name": "Timejinx: Timejinx",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "TIME_ORWELL",
@@ -2028,7 +2033,7 @@
       "Name": "Timejinx: The Perfect Date",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -2036,7 +2041,7 @@
       "Name": "Timejinx: The Perfect Guest",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -2052,7 +2057,7 @@
       "Name": "Tee K.O. 2: Domino",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "TKO2_DRAGONS_FAVORITE",
@@ -2075,14 +2080,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 577,
+      "Progressed": 581,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-12-31T03:11:24.9774063+00:00",
+  "LastChanged_Achievements": "2023-12-31T04:10:34.0006387+00:00",
   "LastUpdate_AppInfo": "2023-12-30T02:16:13.4108208+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:58:41.9909152+00:00",
-  "LastUpdate_Achievements": "2023-12-31T03:11:24.9774336+00:00"
+  "LastUpdate_Ratings": "2023-12-31T03:57:04.3195426+00:00",
+  "LastUpdate_Achievements": "2023-12-31T04:10:34.0006585+00:00"
 }

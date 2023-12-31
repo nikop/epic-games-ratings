@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 873,
+  "EOS_Progressed": 875,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3170,6 +3170,11 @@
       "Time": "2023-12-31T00:08:34.9039675+00:00",
       "NumProgressed": 873,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T04:09:31.4478465+00:00",
+      "NumProgressed": 875,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3206,7 +3211,7 @@
       "Name": "Dressed For Success",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "AttackCount",
@@ -3238,7 +3243,7 @@
       "Name": "This Spot\u0027s Taken",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "BurrowUp",
@@ -3284,9 +3289,9 @@
       "ID": "DamageThreshold",
       "SetID": "71c0n9i",
       "Name": "Critical Hit",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 175
     },
     {
       "ID": "Deepstrike",
@@ -3294,7 +3299,7 @@
       "Name": "Deepstrike",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "DieByTheBow",
@@ -3326,7 +3331,7 @@
       "Name": "Double Kill",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3358,7 +3363,7 @@
       "Name": "Infernal Influence",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "KillingSpree",
@@ -3430,7 +3435,7 @@
       "Name": "From the Ashes",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "RanaCampaignFinaleOnHard",
@@ -3502,7 +3507,7 @@
       "Name": "Ultra Kill",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "WielderLevel1",
@@ -3510,7 +3515,7 @@
       "Name": "Adept",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "WielderLevel2",
@@ -3518,7 +3523,7 @@
       "Name": "Veteran",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "WielderLevel3",
@@ -3550,7 +3555,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "WinBattleWithoutAttacking",
@@ -3613,15 +3618,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 873,
+      "Progressed": 875,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2023-12-31T03:10:40.6482055+00:00",
+  "LastChanged_Achievements": "2023-12-31T04:09:31.4478462+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2023-12-31T03:01:14.8136751+00:00",
-  "LastUpdate_Achievements": "2023-12-31T03:10:40.6482766+00:00"
+  "LastUpdate_Ratings": "2023-12-31T04:00:49.9431166+00:00",
+  "LastUpdate_Achievements": "2023-12-31T04:09:31.4478948+00:00"
 }

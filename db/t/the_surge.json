@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -394,9 +394,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5146,
+  "EOS_Progressed": 5149,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -4374,6 +4374,11 @@
       "Time": "2023-12-30T23:08:52.8052668+00:00",
       "NumProgressed": 5146,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-12-31T04:08:10.5496569+00:00",
+      "NumProgressed": 5149,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4385,7 +4390,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1905
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -4393,7 +4398,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -4433,7 +4438,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4323
+      "UsersEstimate": 4325
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -4441,7 +4446,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4837
+      "UsersEstimate": 4840
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4449,7 +4454,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3962
+      "UsersEstimate": 3965
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -4457,7 +4462,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1853
+      "UsersEstimate": 1854
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -4601,7 +4606,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3911
+      "UsersEstimate": 3913
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -4633,7 +4638,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2779
+      "UsersEstimate": 2780
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -4649,7 +4654,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -4665,7 +4670,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -4705,7 +4710,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -4729,7 +4734,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1801
+      "UsersEstimate": 1802
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -4920,15 +4925,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5146,
+      "Progressed": 5149,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-24T15:57:46.3755439+00:00",
-  "LastChanged_Achievements": "2023-12-31T03:08:01.7039586+00:00",
+  "LastChanged_Achievements": "2023-12-31T04:08:10.5496564+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5404504+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:58:57.6548997+00:00",
-  "LastUpdate_Achievements": "2023-12-31T03:08:01.7040554+00:00"
+  "LastUpdate_Ratings": "2023-12-31T03:57:27.813363+00:00",
+  "LastUpdate_Achievements": "2023-12-31T04:08:10.5497953+00:00"
 }

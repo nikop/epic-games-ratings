@@ -5,10 +5,10 @@
   "Ranking_Rating": 632,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
-  "Ranking_EOS_Progress": 72,
+  "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 358,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238325,
+  "EOS_Progressed": 238326,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 606,
+  "EOS_NewPlayers": 605,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -27048,6 +27048,11 @@
       "Time": "2023-12-31T02:30:37.7872298+00:00",
       "NumProgressed": 238325,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-12-31T04:06:13.1456246+00:00",
+      "NumProgressed": 238326,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -27195,7 +27200,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78647
+      "UsersEstimate": 78648
     },
     {
       "ID": "NOBUNAGA",
@@ -27243,7 +27248,7 @@
       "Name": "PRO",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4766
+      "UsersEstimate": 4767
     },
     {
       "ID": "QAREEN",
@@ -27259,7 +27264,7 @@
       "Name": "RESPWND",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4766
+      "UsersEstimate": 4767
     },
     {
       "ID": "SHINYSHINYGOLD",
@@ -27267,7 +27272,7 @@
       "Name": "SHINY SHINY GOLD",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4766
+      "UsersEstimate": 4767
     },
     {
       "ID": "SHOWOFF",
@@ -27323,22 +27328,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 97713
+      "UsersEstimate": 97714
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 238325,
+      "Progressed": 238326,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2023-12-31T03:06:36.8708793+00:00",
+  "LastChanged_Achievements": "2023-12-31T04:06:13.1456241+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:41.2856312+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:58:41.1220696+00:00",
-  "LastUpdate_Achievements": "2023-12-31T03:06:36.8710162+00:00"
+  "LastUpdate_Ratings": "2023-12-31T03:57:03.0478114+00:00",
+  "LastUpdate_Achievements": "2023-12-31T04:06:13.1457643+00:00"
 }

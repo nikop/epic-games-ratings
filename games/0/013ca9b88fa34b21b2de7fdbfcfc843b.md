@@ -35,10 +35,10 @@ Rating: 4.63 (Ranked 356)
 | Azorian Hat Dance | 0.40% | ~6 |
 | I Now Pronounce You... | 0.30% | ~26 |
 | Chatty Neighbor | 0.30% | ~26 |
+| Captain of Cozy | 0.30% | ~26 |
 | House Proud | 0.30% | ~26 |
 | Going Down | 0.30% | ~4 |
 | Angling Authority | 0.20% | ~18 |
-| Captain of Cozy | 0.20% | ~18 |
 | Polyglot | 0.20% | ~3 |
 | Cloverfield Island | 0.10% | ~9 |
 | Workaholic | 0.10% | ~9 |

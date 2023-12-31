@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 89.00% | ~89 |
-| Enough rooms to swing a cat | 82.00% | ~82 |
-| First to the post | 81.00% | ~81 |
-| A kind of Magic | 75.00% | ~75 |
-| Connected | 68.00% | ~68 |
-| Expansion | 62.00% | ~62 |
-| Mine! | 58.00% | ~58 |
-| Harvest Time | 56.00% | ~56 |
+| Home Sweet Home | 89.00% | ~90 |
+| Enough rooms to swing a cat | 82.00% | ~83 |
+| First to the post | 80.00% | ~81 |
+| A kind of Magic | 74.00% | ~75 |
+| Connected | 67.00% | ~68 |
+| Expansion | 61.00% | ~62 |
+| Mine! | 58.00% | ~59 |
+| Harvest Time | 56.00% | ~57 |
 | Artificer's Apprentice | 50.00% | ~50 |
-| Fly the friendly Sky | 46.00% | ~46 |
-| Get out of here! | 41.00% | ~41 |
+| Fly the friendly Sky | 47.00% | ~47 |
+| Get out of here! | 42.00% | ~42 |
 | Alchemist's Apprentice | 40.00% | ~40 |
 | Necromancer's Apprentice | 38.00% | ~38 |
 | Friend of Lyraine | 38.00% | ~38 |
@@ -22,8 +22,8 @@
 | Redecorating | 35.00% | ~35 |
 | Bad JuJu | 25.00% | ~25 |
 | Friend of Sevenkeeps | 24.00% | ~24 |
+| Slave to the rhythm | 22.00% | ~22 |
 | Castle Meldec | 22.00% | ~22 |
-| Slave to the rhythm | 21.00% | ~21 |
 | Sevenkeeps Seat of Kings | 19.00% | ~19 |
 | Friend of Alluvyan | 17.00% | ~17 |
 | Friend of Connach | 15.00% | ~15 |
@@ -37,10 +37,10 @@
 | Friend of Bastion | 12.00% | ~12 |
 | A Master of Magic | 11.00% | ~11 |
 | Magic Academy | 11.00% | ~11 |
+| Friend of Windholme | 10.00% | ~10 |
 | A Joke | 10.00% | ~10 |
 | Defeat Gor | 9.00% | ~9 |
 | Mage Teacher | 9.00% | ~9 |
-| Friend of Windholme | 9.00% | ~9 |
 | Yngrid's Tale | 8.00% | ~8 |
 | Defeat Hokan | 7.00% | ~7 |
 | Defeat Uram | 7.00% | ~7 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100 (Ranked 488)  
+Progressed: 101 (Ranked 488)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 92 | 0 |
 | 2023-12-29 | 96 | 0 |
 | 2023-12-30 | 98 | 0 |
-| 2023-12-31 | 100 | 0 |
+| 2023-12-31 | 101 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

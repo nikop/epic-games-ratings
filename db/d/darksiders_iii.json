@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -458,7 +458,7 @@
   ],
   "EOS_Progressed": 323,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1284,9 +1284,9 @@
       "ID": "Collect_AdamantineMedium_30",
       "SetID": "7a5k76n",
       "Name": "Unyielding Strength",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 78
     },
     {
       "ID": "Collect_AdamantinePure_3",
@@ -1588,17 +1588,17 @@
       "ID": "Kill_Demon_Kraken",
       "SetID": "7a5k76n",
       "Name": "Love Tap",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 94
     },
     {
       "ID": "Kill_Enemies_666",
       "SetID": "7a5k76n",
       "Name": "Devil\u0027s in the Details",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 126
     },
     {
       "ID": "Kill_Enemies_HavocForm_666",
@@ -1796,8 +1796,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-29T15:59:12.0320887+00:00",
-  "LastChanged_Achievements": "2023-12-31T03:06:18.6482311+00:00",
+  "LastChanged_Achievements": "2023-12-31T04:05:48.6013406+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2023-12-31T03:01:38.5267396+00:00",
-  "LastUpdate_Achievements": "2023-12-31T03:06:18.6482829+00:00"
+  "LastUpdate_Ratings": "2023-12-31T04:01:23.6375213+00:00",
+  "LastUpdate_Achievements": "2023-12-31T04:05:48.6014055+00:00"
 }

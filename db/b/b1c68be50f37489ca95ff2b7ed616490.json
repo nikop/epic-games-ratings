@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
     "PcReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -1039,9 +1039,9 @@
       "ID": "1",
       "SetID": "6bgoh8g",
       "Name": "A mystery? No! A trifle for Poirot!",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 143
     },
     {
       "ID": "10",
@@ -1262,8 +1262,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-12-31T03:07:33.165874+00:00",
+  "LastChanged_Achievements": "2023-12-31T04:07:30.9406253+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:21.3580987+00:00",
-  "LastUpdate_Ratings": "2023-12-31T03:04:43.9638718+00:00",
-  "LastUpdate_Achievements": "2023-12-31T03:07:33.1658986+00:00"
+  "LastUpdate_Ratings": "2023-12-31T04:03:33.5264949+00:00",
+  "LastUpdate_Achievements": "2023-12-31T04:07:30.9406583+00:00"
 }

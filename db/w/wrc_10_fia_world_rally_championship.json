@@ -4,11 +4,11 @@
   "ProductSlug": "wrc-10",
   "Ranking_Rating": 632,
   "Ranking_Popularity": 481,
-  "Ranking_PopularitySum": 378,
+  "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-09-02T12:00:00+00:00",
     "PcReleaseDate": "2021-09-02T12:00:00+00:00",
@@ -668,6 +668,6 @@
   "FirstSeen": "2022-07-22T20:22:20.0440724+00:00",
   "LastChanged": "2023-09-23T03:59:39.8136367+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.0355403+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:59:50.4826898+00:00",
-  "LastUpdate_Achievements": "2023-12-31T03:06:52.4602851+00:00"
+  "LastUpdate_Ratings": "2023-12-31T03:58:44.6044143+00:00",
+  "LastUpdate_Achievements": "2023-12-31T04:06:34.5825023+00:00"
 }

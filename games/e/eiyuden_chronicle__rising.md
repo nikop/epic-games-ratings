@@ -6,29 +6,29 @@ Number of Ratings: 48  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Plenty More to Go | 85.00% | ~665 |
+| Plenty More to Go | 85.00% | ~666 |
 | All Bark, No Bite | 74.00% | ~579 |
-| Hopeful Hunter | 64.00% | ~500 |
-| Amateur Adventurer | 61.00% | ~477 |
-| The Road to Recovery | 60.00% | ~469 |
+| Hopeful Hunter | 63.00% | ~493 |
+| Amateur Adventurer | 61.00% | ~478 |
+| The Road to Recovery | 60.00% | ~470 |
 | Partners? | 58.00% | ~454 |
 | Magical Mineral Golem | 52.00% | ~407 |
 | On Outlander Lane | 51.00% | ~399 |
-| A Girl About the Town | 48.00% | ~375 |
-| First Time Fishing | 48.00% | ~375 |
+| A Girl About the Town | 48.00% | ~376 |
+| First Time Fishing | 48.00% | ~376 |
 | First Time Hunting | 46.00% | ~360 |
 | Rune Wall Wreckage | 45.00% | ~352 |
-| ...And Your Tax Money | 44.00% | ~344 |
-| The Lords of the Snowpeak | 38.00% | ~297 |
-| The Go-To Girl | 35.00% | ~274 |
+| ...And Your Tax Money | 44.00% | ~345 |
+| The Lords of the Snowpeak | 38.00% | ~298 |
 | The Lava Mantor Wyrm | 34.00% | ~266 |
+| The Go-To Girl | 34.00% | ~266 |
 | Scavenger's Honor | 34.00% | ~266 |
-| One Mean Merc | 34.00% | ~266 |
 | Natural Born Monster-Killer | 34.00% | ~266 |
 | The Great Forest...On Foot! | 34.00% | ~266 |
+| One Mean Merc | 33.00% | ~258 |
 | Adept, for an Acting Mayor | 33.00% | ~258 |
 | Money, Money, Money | 33.00% | ~258 |
-| Rune Wall Master | 31.00% | ~242 |
+| Rune Wall Master | 31.00% | ~243 |
 | The Quarry...On Foot! | 29.00% | ~227 |
 | The Runebarrows...On Foot! | 27.00% | ~211 |
 | The Snowpeak...On Foot! | 25.00% | ~196 |
@@ -57,8 +57,8 @@ Number of Ratings: 48  (23.09.2022)
 | Full Force - Isha | 7.00% | ~55 |
 | Rising Champion | 7.00% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 782 (Ranked 306)  
-Completed: 60 (7.67%) (Ranked 54)  
+Progressed: 783 (Ranked 306)  
+Completed: 60 (7.66%) (Ranked 54)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -120,6 +120,7 @@ Completed: 60 (7.67%) (Ranked 54)
 | 2023-12-28 | 774 | 60 |
 | 2023-12-29 | 778 | 60 |
 | 2023-12-30 | 782 | 60 |
+| 2023-12-31 | 783 | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -4,8 +4,8 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 369,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 393,
+  "EOS_Progressed": 394,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -809,6 +809,11 @@
       "Time": "2023-12-30T13:07:32.6796031+00:00",
       "NumProgressed": 393,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-31T04:06:01.9234041+00:00",
+      "NumProgressed": 394,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -876,7 +881,7 @@
       "Name": "Assailants",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "JANKEN_DEFEATED",
@@ -890,9 +895,9 @@
       "ID": "LEVEL_04",
       "SetID": "7im05fi",
       "Name": "Adventurer",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 63
     },
     {
       "ID": "LEVEL_06_NO_SHOT",
@@ -922,9 +927,9 @@
       "ID": "PARPLIN_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Third Commander",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 59
+      "UsersEstimate": 55
     },
     {
       "ID": "PET_DOG",
@@ -932,7 +937,7 @@
       "Name": "Overwhelmed Beast",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "TELEPATHY_BALL_OBTAINED",
@@ -947,7 +952,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 393,
+      "Progressed": 394,
       "Completed": 4
     }
   ],
@@ -955,8 +960,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-12-31T03:06:28.2238182+00:00",
+  "LastChanged_Achievements": "2023-12-31T04:06:01.9234037+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:25.7594248+00:00",
-  "LastUpdate_Ratings": "2023-12-31T03:00:13.7635656+00:00",
-  "LastUpdate_Achievements": "2023-12-31T03:06:28.2238322+00:00"
+  "LastUpdate_Ratings": "2023-12-31T03:59:19.1493164+00:00",
+  "LastUpdate_Achievements": "2023-12-31T04:06:01.9234247+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "shaveta12 Production",
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:25.1427313+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:59:19.7204531+00:00",
-  "LastUpdate_Achievements": "2023-12-31T03:10:33.5817016+00:00"
+  "LastUpdate_Ratings": "2023-12-31T03:57:58.7331809+00:00",
+  "LastUpdate_Achievements": "2023-12-31T04:09:21.7873125+00:00"
 }

@@ -6,16 +6,16 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~689 |
-| Lost and Found | 7.00% | ~402 |
-| Autodidact | 6.00% | ~7,852 |
+| Malpractice Assurance | 12.00% | ~690 |
+| Lost and Found | 7.00% | ~403 |
+| Autodidact | 6.00% | ~7,853 |
 | This guy... again? | 6.00% | ~345 |
 | This Belongs in a Museum | 5.00% | ~6,544 |
 | Creep and Sleep | 5.00% | ~6,544 |
 | Overdue Notice | 5.00% | ~6,544 |
 | Escape from the Black Hole | 5.00% | ~6,544 |
-| Ploughshares to Swords | 5.00% | ~287 |
-| Bloody Graduation | 5.00% | ~287 |
+| Ploughshares to Swords | 5.00% | ~288 |
+| Bloody Graduation | 5.00% | ~288 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,235 |
 | Serenity Now! | 4.00% | ~5,235 |
 | It Rings a Bell | 4.00% | ~5,235 |
@@ -41,28 +41,28 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 3.00% | ~3,926 |
 | Nope | 3.00% | ~3,926 |
 | Unshackled | 3.00% | ~3,926 |
-| Resurrection | 2.00% | ~2,617 |
-| Funny Guy | 2.00% | ~2,617 |
-| Wyrdly Reconstructed | 2.00% | ~2,617 |
-| Boxcar Kid | 2.00% | ~2,617 |
-| This Looks Familiar | 2.00% | ~2,617 |
-| Hope Rekindled | 2.00% | ~2,617 |
-| Predator | 2.00% | ~2,617 |
-| Deprogramming | 2.00% | ~2,617 |
-| Ichthyophobic | 2.00% | ~2,617 |
-| Reverse Banditry | 2.00% | ~2,617 |
-| A Clear Conscience | 2.00% | ~2,617 |
-| When You Want Something Done Right | 2.00% | ~2,617 |
-| Worldly Traveller | 2.00% | ~2,617 |
-| Utopia | 2.00% | ~2,617 |
-| Hot Air | 2.00% | ~2,617 |
-| Eyes Up | 2.00% | ~2,617 |
-| Road Trip | 2.00% | ~2,617 |
+| Resurrection | 2.00% | ~2,618 |
+| Funny Guy | 2.00% | ~2,618 |
+| Wyrdly Reconstructed | 2.00% | ~2,618 |
+| Boxcar Kid | 2.00% | ~2,618 |
+| This Looks Familiar | 2.00% | ~2,618 |
+| Hope Rekindled | 2.00% | ~2,618 |
+| Predator | 2.00% | ~2,618 |
+| Deprogramming | 2.00% | ~2,618 |
+| Ichthyophobic | 2.00% | ~2,618 |
+| Reverse Banditry | 2.00% | ~2,618 |
+| A Clear Conscience | 2.00% | ~2,618 |
+| When You Want Something Done Right | 2.00% | ~2,618 |
+| Worldly Traveller | 2.00% | ~2,618 |
+| Utopia | 2.00% | ~2,618 |
+| Hot Air | 2.00% | ~2,618 |
+| Eyes Up | 2.00% | ~2,618 |
+| Road Trip | 2.00% | ~2,618 |
 | No More Mouths to Feed | 1.00% | ~1,309 |
 | Handled | 1.00% | ~1,309 |
 | Body of Work | 1.00% | ~1,309 |
-| Slap on the Wrist | 1.00% | ~57 |
-| For Old Time' Sake | 1.00% | ~57 |
+| Slap on the Wrist | 1.00% | ~58 |
+| For Old Time' Sake | 1.00% | ~58 |
 | Shrine of Reflection | 0.90% | ~1,178 |
 | Clearing the Ledger | 0.80% | ~1,047 |
 | Et Tu, Riposte? | 0.80% | ~46 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Life Well Lived | 0.50% | ~654 |
 | The World As It Was | 0.50% | ~654 |
 | Bacon Bits | 0.50% | ~654 |
-| Eidetic | 0.40% | ~523 |
+| Eidetic | 0.40% | ~524 |
 | On This Long Road, We Found Redemption | 0.40% | ~23 |
 | Tears in the Rain | 0.30% | ~393 |
 | Battle Hardened | 0.30% | ~17 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,874 (Ranked 89)  
+Progressed: 130,882 (Ranked 89)  
 Completed: 3 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 3 (0.00%) (Ranked 391)
 | 2023-12-28 | 130,422 | 3 |
 | 2023-12-29 | 130,627 | 3 |
 | 2023-12-30 | 130,838 | 3 |
-| 2023-12-31 | 130,874 | 3 |
+| 2023-12-31 | 130,882 | 3 |
 ## Awards
 Max (Character Customization): 7,905  (Ranked 50)  
 Sum: 21,274 (Ranked 58)  

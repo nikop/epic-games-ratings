@@ -4,8 +4,8 @@
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -2333,9 +2333,9 @@
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
       "SetID": "al4k4nh",
       "Name": "I can fix that",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 492
+      "UsersEstimate": 498
     },
     {
       "ID": "ACH_END_MAIL_MISSION_FAST",
@@ -2484,8 +2484,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-12-31T03:06:32.1847798+00:00",
+  "LastChanged_Achievements": "2023-12-31T04:06:07.3804321+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:17.399036+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:58:48.9937194+00:00",
-  "LastUpdate_Achievements": "2023-12-31T03:06:32.1848171+00:00"
+  "LastUpdate_Ratings": "2023-12-31T03:57:13.9501927+00:00",
+  "LastUpdate_Achievements": "2023-12-31T04:06:07.3804516+00:00"
 }

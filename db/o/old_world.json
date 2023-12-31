@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2208,9 +2208,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16042,
+  "EOS_Progressed": 16044,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18663,6 +18663,11 @@
       "Time": "2023-12-31T03:11:48.2593268+00:00",
       "NumProgressed": 16042,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-31T04:11:03.9500482+00:00",
+      "NumProgressed": 16044,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19224,9 +19229,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MASON",
       "SetID": "9201eeb",
       "Name": "Mason",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
@@ -21537,21 +21542,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16042,
+      "Progressed": 16044,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16042,
+      "Progressed": 16044,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-29T16:02:55.9624641+00:00",
-  "LastChanged_Achievements": "2023-12-31T03:11:48.2593266+00:00",
+  "LastChanged_Achievements": "2023-12-31T04:11:03.950048+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2023-12-31T03:04:37.5358754+00:00",
-  "LastUpdate_Achievements": "2023-12-31T03:11:48.2603616+00:00"
+  "LastUpdate_Ratings": "2023-12-31T04:03:24.0134892+00:00",
+  "LastUpdate_Achievements": "2023-12-31T04:11:03.9510884+00:00"
 }

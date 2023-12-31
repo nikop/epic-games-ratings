@@ -18,7 +18,7 @@ Number of Ratings: 116  (23.09.2022)
 | Enhance! | 43.00% | ~139 |
 | One Of the Chosen | 41.00% | ~132 |
 | Throne Potato | 40.00% | ~129 |
-| Devil's in the Details | 38.00% | ~123 |
+| Devil's in the Details | 39.00% | ~126 |
 | Five's a Crowd | 38.00% | ~123 |
 | 25 to Life | 37.00% | ~120 |
 | Soul Harvester | 36.00% | ~116 |
@@ -27,12 +27,12 @@ Number of Ratings: 116  (23.09.2022)
 | Maximum Vigor | 30.00% | ~97 |
 | I Wanna Rock | 30.00% | ~97 |
 | Delusions of Grandeur | 30.00% | ~97 |
-| Love Tap | 28.00% | ~90 |
+| Love Tap | 29.00% | ~94 |
 | Freeze Frame | 27.00% | ~87 |
 | Eat Your Heart Out | 27.00% | ~87 |
 | For Whom the Bell Tolls | 27.00% | ~87 |
 | Big Spender | 25.00% | ~81 |
-| Unyielding Strength | 23.00% | ~74 |
+| Unyielding Strength | 24.00% | ~78 |
 | Can you restore the Balance? | 23.00% | ~74 |
 | Crowd Source | 22.00% | ~71 |
 | Cleanup Crew | 21.00% | ~68 |

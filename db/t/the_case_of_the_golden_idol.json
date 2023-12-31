@@ -4,8 +4,8 @@
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -970,9 +970,9 @@
       "ID": "0",
       "SetID": "acl54ke",
       "Name": "Solved first case",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "1",
@@ -1121,8 +1121,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-12-31T03:05:54.8773535+00:00",
+  "LastChanged_Achievements": "2023-12-31T04:05:15.694626+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:43.1063084+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:58:47.2667949+00:00",
-  "LastUpdate_Achievements": "2023-12-31T03:05:54.8773684+00:00"
+  "LastUpdate_Ratings": "2023-12-31T03:57:11.5636265+00:00",
+  "LastUpdate_Achievements": "2023-12-31T04:05:15.6946395+00:00"
 }

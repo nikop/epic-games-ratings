@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1371,
+  "EOS_Progressed": 1372,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.55,
   "EosHistory": [
@@ -4719,6 +4719,11 @@
       "Time": "2023-12-31T03:06:41.9417288+00:00",
       "NumProgressed": 1371,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-31T04:06:19.6284816+00:00",
+      "NumProgressed": 1372,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4731,7 +4736,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -4739,7 +4744,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "_03_FinishAct1",
@@ -4755,7 +4760,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "_05_FinishAct2",
@@ -4763,7 +4768,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -4771,7 +4776,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "_07_FinishAct3",
@@ -4787,7 +4792,7 @@
       "Name": "Swabbie",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "_09_Completion_20",
@@ -4795,7 +4800,7 @@
       "Name": "Powder Monkey",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "_10_Completion_30",
@@ -4875,7 +4880,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -4938,7 +4943,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1371,
+      "Progressed": 1372,
       "Completed": 35
     }
   ],
@@ -4946,8 +4951,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2023-12-31T03:06:41.941728+00:00",
+  "LastChanged_Achievements": "2023-12-31T04:06:19.6284813+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2023-12-31T03:01:11.7152411+00:00",
-  "LastUpdate_Achievements": "2023-12-31T03:06:41.9418045+00:00"
+  "LastUpdate_Ratings": "2023-12-31T04:00:45.3634981+00:00",
+  "LastUpdate_Achievements": "2023-12-31T04:06:19.6285257+00:00"
 }

@@ -6,11 +6,11 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 45.00% | ~393 |
-| Double Kill | 39.00% | ~340 |
-| Critical Hit | 21.00% | ~183 |
-| Veteran | 21.00% | ~183 |
-| Dressed For Success | 14.00% | ~122 |
+| Adept | 45.00% | ~394 |
+| Double Kill | 39.00% | ~341 |
+| Veteran | 21.00% | ~184 |
+| Critical Hit | 20.00% | ~175 |
+| Dressed For Success | 14.00% | ~123 |
 | Humiliation | 9.00% | ~79 |
 | Veni, Vidi, Vici | 9.00% | ~79 |
 | Multi Kill | 8.00% | ~70 |
@@ -23,12 +23,12 @@ Number of Ratings: 292  (23.09.2022)
 | Trojan Horse | 4.00% | ~35 |
 | Expert Essence Employment | 3.00% | ~26 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~26 |
-| This Spot's Taken | 2.00% | ~17 |
-| Deepstrike | 2.00% | ~17 |
-| Infernal Influence | 2.00% | ~17 |
-| From the Ashes | 2.00% | ~17 |
-| Ultra Kill | 2.00% | ~17 |
-| Pyrrhic Victory | 2.00% | ~17 |
+| This Spot's Taken | 2.00% | ~18 |
+| Deepstrike | 2.00% | ~18 |
+| Infernal Influence | 2.00% | ~18 |
+| From the Ashes | 2.00% | ~18 |
+| Ultra Kill | 2.00% | ~18 |
+| Pyrrhic Victory | 2.00% | ~18 |
 | Versatile Wielder | 1.00% | ~9 |
 | Such A Fungi | 1.00% | ~9 |
 | Grand Master | 1.00% | ~9 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 873 (Ranked 295)  
+Progressed: 875 (Ranked 295)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 815 | 0 |
 | 2023-12-29 | 850 | 0 |
 | 2023-12-30 | 871 | 0 |
-| 2023-12-31 | 873 | 0 |
+| 2023-12-31 | 875 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 29  (Ranked 519)  
 Sum: 251 (Ranked 398)  

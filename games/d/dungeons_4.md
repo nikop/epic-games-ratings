@@ -35,16 +35,16 @@ Rating: 4.65 (Ranked 324)
 | All’s Well That Ends Evil | 40.00% | ~270 |
 | The Duel | 38.00% | ~256 |
 | Unstoppable Horde | 35.00% | ~236 |
+| Master of the Undead | 35.00% | ~236 |
 | If Looks Could Kill | 35.00% | ~236 |
-| Master of the Undead | 34.00% | ~229 |
 | The Finitude Drill | 32.00% | ~216 |
 | Ghost Pirates? Ghost Heroes! | 30.00% | ~202 |
 | Doom Hill | 29.00% | ~195 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~189 |
 | Forbidden Knowledge | 28.00% | ~189 |
+| Brimstone Shaken, Not Stirred | 28.00% | ~189 |
 | Hungry, Hungry Gorgu! | 27.00% | ~182 |
 | Stop Tanos! | 27.00% | ~182 |
-| Brimstone Shaken, Not Stirred | 27.00% | ~182 |
 | Sabotage! | 26.00% | ~175 |
 | Raiders of the Lost Stone | 26.00% | ~175 |
 | The Rune Sockets of Finitude (Part 1) | 26.00% | ~175 |
@@ -62,8 +62,8 @@ Rating: 4.65 (Ranked 324)
 | Heal Heal Blessing | 16.00% | ~108 |
 | Untouchable | 15.00% | ~101 |
 | Laser Eyes Are So Useless | 13.00% | ~88 |
+| Hands Off My Stones | 13.00% | ~88 |
 | Gorgu is in the Best of Health | 12.00% | ~81 |
-| Hands Off My Stones | 12.00% | ~81 |
 | No Mana, No Cry | 10.00% | ~67 |
 | I Don't Need Any Help | 9.00% | ~61 |
 ## Popularity (Based on EOS Achievements)

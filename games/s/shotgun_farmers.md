@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 81.00% | ~294 |
+| Seeds of War | 81.00% | ~295 |
 | First Blood | 63.00% | ~229 |
-| Triple Kill | 62.00% | ~225 |
-| Aspairagus | 61.00% | ~191 |
+| Triple Kill | 62.00% | ~226 |
+| Aspairagus | 60.00% | ~188 |
 | No Asperascope | 58.00% | ~211 |
-| Survivor | 57.00% | ~178 |
-| Cornivore | 54.00% | ~196 |
-| I Believe I Can Fly | 50.00% | ~182 |
-| No Diggity | 44.00% | ~138 |
-| Early Survivor | 40.00% | ~125 |
+| Survivor | 57.00% | ~179 |
+| Cornivore | 54.00% | ~197 |
+| I Believe I Can Fly | 49.00% | ~178 |
+| No Diggity | 45.00% | ~141 |
+| Early Survivor | 40.00% | ~126 |
 | Bouncemato | 31.00% | ~97 |
-| 10K | 29.00% | ~105 |
+| 10K | 29.00% | ~106 |
 | Amateur Survivor | 29.00% | ~91 |
 | 15K | 27.00% | ~98 |
-| Drinking Problem | 23.00% | ~83 |
+| Drinking Problem | 23.00% | ~84 |
 | Quick-Draw Pod | 22.00% | ~69 |
 | Grave Digger | 22.00% | ~69 |
 | Pork Chop Express | 21.00% | ~76 |
 | Professional Survivor | 20.00% | ~63 |
-| Carrocketeer | 18.00% | ~65 |
+| Carrocketeer | 18.00% | ~66 |
 | Skin Of Your Teeth | 17.00% | ~62 |
 | Getting Started | 16.00% | ~58 |
 | This Is My Boomstick | 16.00% | ~50 |
-| Eggtraordinary | 15.00% | ~54 |
+| Eggtraordinary | 15.00% | ~55 |
 | Oh My Gourd | 14.00% | ~44 |
 | Perfect | 13.00% | ~41 |
 | Summers Here | 12.00% | ~38 |
@@ -36,8 +36,8 @@
 | Quadsparagus | 10.00% | ~31 |
 | Bring Home The Bacon | 9.00% | ~33 |
 | Expert Survivor | 9.00% | ~28 |
-| Chick Magnet | 6.00% | ~22 |
 | Early Bird | 6.00% | ~22 |
+| Chick Magnet | 5.00% | ~18 |
 | I Have The High Ground | 5.00% | ~18 |
 | Pyromaniac | 5.00% | ~16 |
 | Honk Honk | 3.00% | ~11 |
@@ -48,10 +48,10 @@
 | Pro Shotgunner | 1.00% | ~4 |
 | Tomassacred | 1.00% | ~3 |
 | King of the Crow | 0.80% | ~3 |
-| Pro Pyromancer | 0.60% | ~2 |
-| Pro Sniperagus | 0.60% | ~2 |
-| Unstoppable | 0.60% | ~2 |
-| Death From Above | 0.60% | ~2 |
+| Pro Pyromancer | 0.50% | ~2 |
+| Pro Sniperagus | 0.50% | ~2 |
+| Unstoppable | 0.50% | ~2 |
+| Death From Above | 0.50% | ~2 |
 | 30 Days | 0.30% | ~1 |
 | Darkside Survivor | 0.30% | ~1 |
 | Forestside Survivor | 0.30% | ~1 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363 (Ranked 367)  
+Progressed: 364 (Ranked 367)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,6 +236,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 360 | 0 |
 | 2023-12-29 | 361 | 0 |
 | 2023-12-30 | 363 | 0 |
+| 2023-12-31 | 364 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

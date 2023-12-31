@@ -21,7 +21,7 @@ Rating: 4.81 (Ranked 84)
 | Cypress Glen Headquarters | 34.00% | ~1,076 |
 | Petricite Burst | 33.00% | ~1,045 |
 | Old friend | 32.00% | ~1,013 |
-| Devineur | 31.00% | ~981 |
+| Devineur | 32.00% | ~1,013 |
 | Hijack | 30.00% | ~950 |
 | Whispers in the Woods I | 27.00% | ~855 |
 | I chose my shackles | 27.00% | ~855 |
@@ -60,7 +60,7 @@ Rating: 4.81 (Ranked 84)
 | The Unshackled | 1.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,166 (Ranked 222)  
-Completed: 17 (0.54%) (Ranked 212)  
+Completed: 18 (0.57%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -261,7 +261,7 @@ Completed: 17 (0.54%) (Ranked 212)
 | 2023-12-28 | 3,125 | 17 |
 | 2023-12-29 | 3,140 | 17 |
 | 2023-12-30 | 3,165 | 17 |
-| 2023-12-31 | 3,166 | 17 |
+| 2023-12-31 | 3,166 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

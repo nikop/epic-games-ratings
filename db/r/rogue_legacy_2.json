@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1542,9 +1542,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27273,
+  "EOS_Progressed": 27276,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 786,
+  "EOS_NewPlayers": 780,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -12462,6 +12462,11 @@
       "Time": "2023-12-31T03:11:30.0877039+00:00",
       "NumProgressed": 27273,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-31T04:10:40.6338883+00:00",
+      "NumProgressed": 27276,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -12553,7 +12558,7 @@
       "Name": "Spells and Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -12569,7 +12574,7 @@
       "Name": "Hands and Hammers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -12617,7 +12622,7 @@
       "Name": "Progenitor and Prot\u00E9g\u00E9",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -12633,7 +12638,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -12649,7 +12654,7 @@
       "Name": "Suns and Soldiers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "BoxerBoss",
@@ -12784,21 +12789,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27273,
+      "Progressed": 27276,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6203,
+      "Progressed": 6206,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-30T23:02:02.6674633+00:00",
-  "LastChanged_Achievements": "2023-12-31T03:11:30.0877035+00:00",
+  "LastChanged_Achievements": "2023-12-31T04:10:40.6338881+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.0569835+00:00",
-  "LastUpdate_Ratings": "2023-12-31T03:01:36.2378324+00:00",
-  "LastUpdate_Achievements": "2023-12-31T03:11:30.0878279+00:00"
+  "LastUpdate_Ratings": "2023-12-31T04:01:20.2003257+00:00",
+  "LastUpdate_Achievements": "2023-12-31T04:10:40.6339499+00:00"
 }

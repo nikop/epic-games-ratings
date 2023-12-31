@@ -6,24 +6,24 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~479,925 |
-| Apprentice | 58.00% | ~386,606 |
-| Close Shave | 25.00% | ~166,640 |
-| Mercenary | 23.00% | ~153,309 |
-| Ninja | 23.00% | ~153,309 |
-| Northern Scourge | 17.00% | ~113,316 |
-| Thief Bane | 14.00% | ~93,319 |
-| Master of Arms | 12.00% | ~79,987 |
-| Gambler | 10.00% | ~66,656 |
-| Dice Master | 10.00% | ~66,656 |
+| The Fool | 72.00% | ~479,929 |
+| Apprentice | 58.00% | ~386,609 |
+| Close Shave | 25.00% | ~166,642 |
+| Mercenary | 23.00% | ~153,311 |
+| Ninja | 23.00% | ~153,311 |
+| Northern Scourge | 17.00% | ~113,317 |
+| Thief Bane | 14.00% | ~93,320 |
+| Master of Arms | 12.00% | ~79,988 |
+| Gambler | 10.00% | ~66,657 |
+| Dice Master | 10.00% | ~66,657 |
 | Swordsman | 9.00% | ~59,991 |
 | Knight | 8.00% | ~53,325 |
 | Cure for Corruption | 8.00% | ~53,325 |
 | Focused | 8.00% | ~53,325 |
 | Flurry of Fury | 8.00% | ~53,325 |
-| Long Shot | 7.00% | ~46,659 |
-| Devil Dice | 7.00% | ~46,659 |
-| Broken Heart | 7.00% | ~46,659 |
+| Long Shot | 7.00% | ~46,660 |
+| Devil Dice | 7.00% | ~46,660 |
+| Broken Heart | 7.00% | ~46,660 |
 | Adventurer | 6.00% | ~39,994 |
 | Empire's Bane | 6.00% | ~39,994 |
 | Jack of all Trades | 5.00% | ~33,328 |
@@ -40,7 +40,7 @@ Number of Ratings: 780  (23.09.2022)
 | Champion | 1.00% | ~6,666 |
 | Final Death | 1.00% | ~6,666 |
 | Thomas' Bane | 0.90% | ~5,999 |
-| Ally | 0.80% | ~5,332 |
+| Ally | 0.80% | ~5,333 |
 | Gamester | 0.70% | ~4,666 |
 | Hero | 0.60% | ~3,999 |
 | Rebel | 0.60% | ~3,999 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~667 |
 | Blood Pact | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,562 (Ranked 29)  
+Progressed: 666,568 (Ranked 29)  
 Completed: 174 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,11 +310,11 @@ Completed: 174 (0.03%) (Ranked 350)
 | 2023-12-28 | 666,440 | 174 |
 | 2023-12-29 | 666,498 | 174 |
 | 2023-12-30 | 666,554 | 174 |
-| 2023-12-31 | 666,562 | 174 |
+| 2023-12-31 | 666,568 | 174 |
 ## Awards
-Max (Amazing Storytelling): 36  (Ranked 489)  
+Max (Amazing Storytelling): 36  (Ranked 490)  
 Sum: 193 (Ranked 417)  
-Diff (max vs sum): 72  
+Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 118 |

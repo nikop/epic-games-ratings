@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -1018,9 +1018,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 359519,
+  "EOS_Progressed": 359521,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1380,
+  "EOS_NewPlayers": 1376,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30078,6 +30078,11 @@
       "Time": "2023-12-31T03:07:52.0118937+00:00",
       "NumProgressed": 359519,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-31T04:07:56.9560588+00:00",
+      "NumProgressed": 359521,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -30105,7 +30110,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43142
+      "UsersEstimate": 43143
     },
     {
       "ID": "ach004",
@@ -30145,7 +30150,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43142
+      "UsersEstimate": 43143
     },
     {
       "ID": "ach009",
@@ -30217,7 +30222,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 46737
+      "UsersEstimate": 46738
     },
     {
       "ID": "ach018",
@@ -30297,7 +30302,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 165379
+      "UsersEstimate": 165380
     },
     {
       "ID": "ach028",
@@ -30441,7 +30446,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 46737
+      "UsersEstimate": 46738
     },
     {
       "ID": "ach046",
@@ -30728,7 +30733,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 359519,
+      "Progressed": 359521,
       "Completed": 7
     }
   ],
@@ -30736,8 +30741,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-12-30T19:00:43.4260573+00:00",
-  "LastChanged_Achievements": "2023-12-31T03:07:52.011893+00:00",
+  "LastChanged_Achievements": "2023-12-31T04:07:56.9560586+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:16.170494+00:00",
-  "LastUpdate_Ratings": "2023-12-31T03:00:07.0941133+00:00",
-  "LastUpdate_Achievements": "2023-12-31T03:07:52.0121348+00:00"
+  "LastUpdate_Ratings": "2023-12-31T03:59:09.1438154+00:00",
+  "LastUpdate_Achievements": "2023-12-31T04:07:56.9562742+00:00"
 }

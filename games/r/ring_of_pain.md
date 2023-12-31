@@ -25,16 +25,16 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Donation | 0.80% | ~1,937 |
 | C-C-Combo | 0.80% | ~1,937 |
 | Deflection | 0.80% | ~1,937 |
-| Ambitious Intent | 0.70% | ~1,694 |
-| Delving Deeper | 0.70% | ~1,694 |
-| R.I.P | 0.70% | ~1,694 |
-| Cold Hearted | 0.70% | ~1,694 |
-| I Am Overburdened | 0.70% | ~1,694 |
-| The Bestiary | 0.70% | ~1,694 |
-| What's Yours Is Mine | 0.70% | ~1,694 |
-| Shootout | 0.70% | ~1,694 |
-| Toxic | 0.70% | ~1,694 |
-| Sneaky | 0.70% | ~1,694 |
+| Ambitious Intent | 0.70% | ~1,695 |
+| Delving Deeper | 0.70% | ~1,695 |
+| R.I.P | 0.70% | ~1,695 |
+| Cold Hearted | 0.70% | ~1,695 |
+| I Am Overburdened | 0.70% | ~1,695 |
+| The Bestiary | 0.70% | ~1,695 |
+| What's Yours Is Mine | 0.70% | ~1,695 |
+| Shootout | 0.70% | ~1,695 |
+| Toxic | 0.70% | ~1,695 |
+| Sneaky | 0.70% | ~1,695 |
 | Consecutive Curses | 0.60% | ~1,452 |
 | Dig Your Own Grave | 0.60% | ~1,452 |
 | Who To Trust? | 0.60% | ~1,452 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,070 (Ranked 70)  
+Progressed: 242,072 (Ranked 70)  
 Completed: 302 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -400,7 +400,7 @@ Completed: 302 (0.12%) (Ranked 301)
 | 2023-12-28 | 241,919 | 302 |
 | 2023-12-29 | 241,985 | 302 |
 | 2023-12-30 | 242,061 | 302 |
-| 2023-12-31 | 242,070 | 302 |
+| 2023-12-31 | 242,072 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 134)  
 Sum: 11,770 (Ranked 88)  

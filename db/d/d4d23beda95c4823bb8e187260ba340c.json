@@ -4,8 +4,8 @@
   "ProductSlug": "zubash-cf4c1a",
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 565,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-25T12:08:43.3039724+00:00",
-  "LastChanged_Achievements": "2023-12-31T03:10:40.3685665+00:00",
+  "LastChanged_Achievements": "2023-12-31T04:09:31.0926978+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.2804395+00:00",
-  "LastUpdate_Ratings": "2023-12-31T03:02:04.8362406+00:00",
-  "LastUpdate_Achievements": "2023-12-31T03:10:40.3685691+00:00"
+  "LastUpdate_Ratings": "2023-12-31T04:02:52.0735878+00:00",
+  "LastUpdate_Achievements": "2023-12-31T04:09:31.0927023+00:00"
 }

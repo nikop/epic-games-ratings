@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -237,7 +237,7 @@
   "Tags": [],
   "EOS_Progressed": 8779,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9681,9 +9681,9 @@
       "ID": "UPGRADE_COZYMAX",
       "SetID": "9eia0f5",
       "Name": "Captain of Cozy",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 26
     },
     {
       "ID": "UPGRADE_HOUSEMAX",
@@ -9784,8 +9784,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2023-12-31T03:11:42.8472498+00:00",
+  "LastChanged_Achievements": "2023-12-31T04:10:57.3110319+00:00",
   "LastUpdate_AppInfo": "2023-12-29T11:57:18.9799571+00:00",
-  "LastUpdate_Ratings": "2023-12-31T03:04:51.7580796+00:00",
-  "LastUpdate_Achievements": "2023-12-31T03:11:42.847324+00:00"
+  "LastUpdate_Ratings": "2023-12-31T04:03:45.7487854+00:00",
+  "LastUpdate_Achievements": "2023-12-31T04:10:57.3111036+00:00"
 }

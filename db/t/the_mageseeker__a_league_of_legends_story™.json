@@ -6,9 +6,9 @@
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 222,
-  "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_Completed": 207,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -170,10 +170,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 3166,
-  "EOS_Completed": 17,
-  "EOS_NewPlayers": 168,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.54,
+  "EOS_Completed": 18,
+  "EOS_NewPlayers": 167,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:35.6138039+00:00",
@@ -5569,6 +5569,11 @@
       "Time": "2023-12-31T00:04:06.3437507+00:00",
       "NumProgressed": 3166,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-12-31T04:05:24.6265937+00:00",
+      "NumProgressed": 3166,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 53,
@@ -5818,9 +5823,9 @@
       "ID": "STB_MISSION3_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Devineur",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 981
+      "UsersEstimate": 1013
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -6004,15 +6009,15 @@
       "ID": "3pe2bac",
       "IsBase": true,
       "Progressed": 3166,
-      "Completed": 17
+      "Completed": 18
     }
   ],
   "FirstSeen": "2023-04-18T18:57:53.9681419+00:00",
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-30T20:57:35.994685+00:00",
-  "LastChanged_Achievements": "2023-12-31T03:06:01.6687625+00:00",
+  "LastChanged_Achievements": "2023-12-31T04:05:24.6265933+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:16.0545663+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:58:46.3641858+00:00",
-  "LastUpdate_Achievements": "2023-12-31T03:06:01.6688239+00:00"
+  "LastUpdate_Ratings": "2023-12-31T03:57:10.2694539+00:00",
+  "LastUpdate_Achievements": "2023-12-31T04:05:24.6266428+00:00"
 }

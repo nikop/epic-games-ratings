@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
     "PcReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 782,
+  "EOS_Progressed": 783,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.67,
+  "EOS_Completed_Percentage": 7.66,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -741,6 +741,11 @@
       "Time": "2023-12-30T19:11:07.5283283+00:00",
       "NumProgressed": 782,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-12-31T04:09:13.7989287+00:00",
+      "NumProgressed": 783,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -752,7 +757,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -768,7 +773,7 @@
       "Name": "...And Your Tax Money",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACHIEVEMENT004",
@@ -792,7 +797,7 @@
       "Name": "The Lords of the Snowpeak",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ACHIEVEMENT007",
@@ -816,7 +821,7 @@
       "Name": "The Road to Recovery",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "ACHIEVEMENT010",
@@ -832,15 +837,15 @@
       "Name": "A Girl About the Town",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "ACHIEVEMENT012",
       "SetID": "dejhjd5",
       "Name": "The Go-To Girl",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 274
+      "UsersEstimate": 266
     },
     {
       "ID": "ACHIEVEMENT013",
@@ -870,9 +875,9 @@
       "ID": "ACHIEVEMENT016",
       "SetID": "dejhjd5",
       "Name": "One Mean Merc",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 266
+      "UsersEstimate": 258
     },
     {
       "ID": "ACHIEVEMENT017",
@@ -936,15 +941,15 @@
       "Name": "Amateur Adventurer",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ACHIEVEMENT025",
       "SetID": "dejhjd5",
       "Name": "Hopeful Hunter",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 500
+      "UsersEstimate": 493
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -1024,7 +1029,7 @@
       "Name": "First Time Fishing",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "ACHIEVEMENT036",
@@ -1064,7 +1069,7 @@
       "Name": "Rune Wall Master",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACHIEVEMENT041",
@@ -1151,15 +1156,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 782,
+      "Progressed": 783,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2023-12-31T03:10:28.1375498+00:00",
+  "LastChanged_Achievements": "2023-12-31T04:09:13.7989284+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:02.3357194+00:00",
-  "LastUpdate_Ratings": "2023-12-31T03:01:23.4580171+00:00",
-  "LastUpdate_Achievements": "2023-12-31T03:10:28.1375953+00:00"
+  "LastUpdate_Ratings": "2023-12-31T04:01:02.2103475+00:00",
+  "LastUpdate_Achievements": "2023-12-31T04:09:13.7989639+00:00"
 }

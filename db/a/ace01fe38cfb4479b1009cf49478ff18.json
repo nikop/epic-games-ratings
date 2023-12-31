@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 629,
+  "EOS_Progressed": 631,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2119,6 +2119,11 @@
       "Time": "2023-12-31T03:10:08.3821508+00:00",
       "NumProgressed": 629,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T04:08:46.7853457+00:00",
+      "NumProgressed": 631,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -2179,7 +2184,7 @@
       "Name": "My Armour is Contempt",
       "Percentage": 5,
       "XP": 95,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_defeat_great_unclean_one",
@@ -2226,14 +2231,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 629,
+      "Progressed": 631,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-12-31T03:10:08.38215+00:00",
+  "LastChanged_Achievements": "2023-12-31T04:08:46.7853454+00:00",
   "LastUpdate_AppInfo": "2023-12-29T15:57:01.9014557+00:00",
-  "LastUpdate_Ratings": "2023-12-31T03:00:22.4666769+00:00",
-  "LastUpdate_Achievements": "2023-12-31T03:10:08.3821789+00:00"
+  "LastUpdate_Ratings": "2023-12-31T03:59:32.1931435+00:00",
+  "LastUpdate_Achievements": "2023-12-31T04:08:46.785366+00:00"
 }

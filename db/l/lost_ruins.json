@@ -4,8 +4,8 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 636,
+  "EOS_Progressed": 638,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1684,6 +1684,11 @@
       "Time": "2023-12-30T23:11:43.0536026+00:00",
       "NumProgressed": 636,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-12-31T04:10:55.6141984+00:00",
+      "NumProgressed": 638,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1709,9 +1714,9 @@
       "ID": "ArtifactsCollector",
       "SetID": "82505mn",
       "Name": "Artifact Collector",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 121
+      "UsersEstimate": 115
     },
     {
       "ID": "Assassin",
@@ -1735,7 +1740,7 @@
       "Name": "Bug Hunter",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "Cryomancer",
@@ -1775,7 +1780,7 @@
       "Name": "Goblin Tales",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "Hardboiled",
@@ -1815,7 +1820,7 @@
       "Name": "Inquisitor",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "Librarian",
@@ -1823,7 +1828,7 @@
       "Name": "Librarian",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Lumberjack",
@@ -1879,7 +1884,7 @@
       "Name": "Orcs Must Die!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Pyromancer",
@@ -1887,7 +1892,7 @@
       "Name": "Pyromancer",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Reincarnation",
@@ -1951,7 +1956,7 @@
       "Name": "The End",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "TheFallen",
@@ -1959,7 +1964,7 @@
       "Name": "The Fallen",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "TheTrio",
@@ -1975,7 +1980,7 @@
       "Name": "Trap Master",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "TreasureHunter",
@@ -2014,7 +2019,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 636,
+      "Progressed": 638,
       "Completed": 1
     }
   ],
@@ -2022,8 +2027,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-12-31T03:11:41.4511549+00:00",
+  "LastChanged_Achievements": "2023-12-31T04:10:55.6141982+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:03.2604081+00:00",
-  "LastUpdate_Ratings": "2023-12-31T03:01:24.8847269+00:00",
-  "LastUpdate_Achievements": "2023-12-31T03:11:41.4512039+00:00"
+  "LastUpdate_Ratings": "2023-12-31T04:01:04.3058762+00:00",
+  "LastUpdate_Achievements": "2023-12-31T04:10:55.6142273+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 660,
-  "Ranking_Popularity": 489,
+  "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -848,7 +848,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5949,
+  "EOS_Progressed": 5950,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
@@ -12178,6 +12178,11 @@
       "Time": "2023-12-31T03:06:42.4436539+00:00",
       "NumProgressed": 5949,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-31T04:06:20.3357357+00:00",
+      "NumProgressed": 5950,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12246,7 +12251,7 @@
       "Name": "First Strike",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -12286,7 +12291,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -12326,7 +12331,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1487
+      "UsersEstimate": 1488
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -12358,7 +12363,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 1487
+      "UsersEstimate": 1488
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -12373,15 +12378,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5949,
+      "Progressed": 5950,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2023-12-31T03:06:42.4436538+00:00",
+  "LastChanged_Achievements": "2023-12-31T04:06:20.3357355+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5580896+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:58:57.9248122+00:00",
-  "LastUpdate_Achievements": "2023-12-31T03:06:42.4437244+00:00"
+  "LastUpdate_Ratings": "2023-12-31T03:57:28.4067735+00:00",
+  "LastUpdate_Achievements": "2023-12-31T04:06:20.3358009+00:00"
 }

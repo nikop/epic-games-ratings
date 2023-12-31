@@ -3814,9 +3814,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 242070,
+  "EOS_Progressed": 242072,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 511,
+  "EOS_NewPlayers": 506,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -30149,6 +30149,11 @@
       "Time": "2023-12-31T03:11:47.5528263+00:00",
       "NumProgressed": 242070,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-12-31T04:11:03.1200559+00:00",
+      "NumProgressed": 242072,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -30176,7 +30181,7 @@
       "Name": "Ambitious Intent",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "BOSSPIT",
@@ -30256,7 +30261,7 @@
       "Name": "Delving Deeper",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "DEPTH12HARD",
@@ -30312,7 +30317,7 @@
       "Name": "R.I.P",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "DIEBOSS",
@@ -30424,7 +30429,7 @@
       "Name": "Cold Hearted",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "FULLINVENTORY",
@@ -30432,7 +30437,7 @@
       "Name": "I Am Overburdened",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "FULLYPRESTIGESPOON",
@@ -30592,7 +30597,7 @@
       "Name": "The Bestiary",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "KILLABOMINATIONHIGHDEF",
@@ -30664,7 +30669,7 @@
       "Name": "What\u0027s Yours Is Mine",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "KILLREFLECT10",
@@ -30696,7 +30701,7 @@
       "Name": "Shootout",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "KILLSTONESHIFTERHARD",
@@ -30840,7 +30845,7 @@
       "Name": "Toxic",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "POISONEDTWICEIN1TURN",
@@ -30928,7 +30933,7 @@
       "Name": "Sneaky",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "STEALTH100",
@@ -31263,13 +31268,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242070,
+      "Progressed": 242072,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3550,
+      "Progressed": 3552,
       "Completed": 416
     }
   ],
@@ -31277,8 +31282,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-12-30T08:01:44.1465561+00:00",
-  "LastChanged_Achievements": "2023-12-31T03:11:47.5528258+00:00",
+  "LastChanged_Achievements": "2023-12-31T04:11:03.1200557+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
-  "LastUpdate_Ratings": "2023-12-31T03:02:08.3615841+00:00",
-  "LastUpdate_Achievements": "2023-12-31T03:11:47.5530971+00:00"
+  "LastUpdate_Ratings": "2023-12-31T04:02:57.3303728+00:00",
+  "LastUpdate_Achievements": "2023-12-31T04:11:03.1203523+00:00"
 }
