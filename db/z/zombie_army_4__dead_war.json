@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 197,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -2542,10 +2542,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2611,
       "NumberOfAwardsMax": 866
+    },
+    {
+      "Time": "2023-12-31T02:59:58.8019408+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2612,
+      "NumberOfAwardsMax": 866
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2611,
+  "NumberOfAwards": 2612,
   "NumberOfAwardsMax": 866,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2577,7 +2583,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 221
+      "Count": 222
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2622,9 +2628,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44275,
+  "EOS_Progressed": 44276,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10487,6 +10493,11 @@
       "Time": "2023-12-31T00:04:02.2826673+00:00",
       "NumProgressed": 44275,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-12-31T03:05:57.6712157+00:00",
+      "NumProgressed": 44276,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -10498,7 +10509,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27450
+      "UsersEstimate": 27451
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -10602,7 +10613,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 17267
+      "UsersEstimate": 17268
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -10626,7 +10637,7 @@
       "Name": "Something wicked this way comes",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_FINAL_DEPARTURE",
@@ -10658,7 +10669,7 @@
       "Name": "Take a little bit of Italy with you",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_TRAIN_STATION",
@@ -10674,7 +10685,7 @@
       "Name": "Staring at Shadows",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_VENICE",
@@ -10682,7 +10693,7 @@
       "Name": "I told you we should have gone to the beach",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "SE_COMPLETE_MILAN",
@@ -10690,7 +10701,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27893
+      "UsersEstimate": 27894
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -10762,7 +10773,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13725
+      "UsersEstimate": 13726
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -10778,7 +10789,7 @@
       "Name": "Hoarder",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_A_ZOMBIE_SELF_RESURRECTION",
@@ -10802,7 +10813,7 @@
       "Name": "Gold",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 22580
+      "UsersEstimate": 22581
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -10810,7 +10821,7 @@
       "Name": "Come and get it! It\u0027s a running buffet!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 16824
+      "UsersEstimate": 16825
     },
     {
       "ID": "SE_GET_X_HEADSHOT_STREAK",
@@ -10842,7 +10853,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13725
+      "UsersEstimate": 13726
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -10850,7 +10861,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20809
+      "UsersEstimate": 20810
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -10866,7 +10877,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20809
+      "UsersEstimate": 20810
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -10882,7 +10893,7 @@
       "Name": "Got your back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 11954
+      "UsersEstimate": 11955
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_WITHOUT_MISS",
@@ -11025,15 +11036,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44275,
+      "Progressed": 44276,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
-  "LastChanged": "2023-12-30T19:00:31.1611063+00:00",
-  "LastChanged_Achievements": "2023-12-31T02:29:43.1310938+00:00",
+  "LastChanged": "2023-12-31T02:59:58.8019406+00:00",
+  "LastChanged_Achievements": "2023-12-31T03:05:57.6712154+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:12.9047325+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:23:26.9121173+00:00",
-  "LastUpdate_Achievements": "2023-12-31T02:29:43.1311626+00:00"
+  "LastUpdate_Ratings": "2023-12-31T02:59:58.801941+00:00",
+  "LastUpdate_Achievements": "2023-12-31T03:05:57.6713123+00:00"
 }

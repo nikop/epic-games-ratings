@@ -8,7 +8,7 @@ Number of Ratings: 111  (23.09.2022)
 | ---- | ---------- | ----- |
 | You're free now! | 62.00% | ~2,151 |
 | Keeping it classy | 27.00% | ~937 |
-| Welcome to the family | 21.00% | ~728 |
+| Welcome to the family | 21.00% | ~729 |
 | The finer things in life | 19.00% | ~659 |
 | Backpacker | 14.00% | ~486 |
 | Go with the Flow | 13.00% | ~451 |
@@ -30,14 +30,14 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 6.00% | ~208 |
 | Squad goals | 6.00% | ~208 |
 | Sup widdit big dog! | 6.00% | ~208 |
-| Commence the Hijinx! | 5.00% | ~173 |
-| DIY Boss | 5.00% | ~173 |
-| Globetrotter | 5.00% | ~173 |
-| Lines for days | 5.00% | ~173 |
-| Manny Destroys All | 5.00% | ~173 |
-| Renaissance man | 5.00% | ~173 |
-| Trick shot marksman | 5.00% | ~173 |
-| We get it, you're good | 5.00% | ~173 |
+| Commence the Hijinx! | 5.00% | ~174 |
+| DIY Boss | 5.00% | ~174 |
+| Globetrotter | 5.00% | ~174 |
+| Lines for days | 5.00% | ~174 |
+| Manny Destroys All | 5.00% | ~174 |
+| Renaissance man | 5.00% | ~174 |
+| Trick shot marksman | 5.00% | ~174 |
+| We get it, you're good | 5.00% | ~174 |
 | Cops called! | 4.00% | ~139 |
 | G.O.A.T. status | 4.00% | ~139 |
 | Hoarder | 4.00% | ~139 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,469 (Ranked 219)  
+Progressed: 3,470 (Ranked 219)  
 Completed: 2 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 2 (0.06%) (Ranked 327)
 | 2023-12-28 | 3,434 | 2 |
 | 2023-12-29 | 3,448 | 2 |
 | 2023-12-30 | 3,465 | 2 |
-| 2023-12-31 | 3,469 | 2 |
+| 2023-12-31 | 3,470 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 62  (Ranked 423)  
 Sum: 578 (Ranked 325)  

@@ -8,17 +8,17 @@ Number of Ratings: 34  (23.09.2022)
 | ---- | ---------- | ----- |
 | Explorer | 68.00% | ~505 |
 | Cowardice | 61.00% | ~453 |
-| NO LIFE IS WORTH SAVING... | 44.00% | ~326 |
+| NO LIFE IS WORTH SAVING... | 44.00% | ~327 |
 | The Breaking Point | 43.00% | ~319 |
 | Eat Lead! | 43.00% | ~319 |
 | Here Comes the Boom | 40.00% | ~297 |
-| Prospector | 39.00% | ~289 |
+| Prospector | 39.00% | ~290 |
 | Sniper Wolf | 38.00% | ~282 |
 | Treasure Hunter | 36.00% | ~267 |
 | The Motivation | 36.00% | ~267 |
 | Heroism | 35.00% | ~260 |
 | Collectibles of Chapter I | 33.00% | ~245 |
-| Missing in Action | 32.00% | ~237 |
+| Missing in Action | 33.00% | ~245 |
 | Consequences | 31.00% | ~230 |
 | King of Knives | 31.00% | ~230 |
 | Opportunities | 30.00% | ~223 |
@@ -35,7 +35,7 @@ Number of Ratings: 34  (23.09.2022)
 | Food Massacre | 17.00% | ~126 |
 | Without a Second Thought | 15.00% | ~111 |
 | Collectibles of Chapter III | 14.00% | ~104 |
-| Collectibles of Chapter IV | 13.00% | ~96 |
+| Collectibles of Chapter IV | 13.00% | ~97 |
 | Tiptoe Around | 11.00% | ~82 |
 | Collectibles of Chapter V | 10.00% | ~74 |
 | Such is War! | 8.00% | ~59 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.10% | ~1 |
 | Challenges of Chapter XII | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 742 (Ranked 309)  
+Progressed: 743 (Ranked 309)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 730 | 0 |
 | 2023-12-29 | 733 | 0 |
 | 2023-12-30 | 741 | 0 |
-| 2023-12-31 | 742 | 0 |
+| 2023-12-31 | 743 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -19,14 +19,14 @@ Number of Ratings: 12,664  (23.09.2022)
 | Another Satisfied Customer | 5.00% | ~7,428 |
 | Pretty Penny | 5.00% | ~7,428 |
 | Own the Means of Production | 5.00% | ~7,428 |
-| The Daily Grind | 4.00% | ~5,942 |
-| Bounty Hunters | 4.00% | ~5,942 |
-| Demand for Supplies | 4.00% | ~5,942 |
-| Flooding the Market | 4.00% | ~5,942 |
-| Where it Hurts | 4.00% | ~5,942 |
-| One-Armed Bandit | 4.00% | ~5,942 |
-| Dungeon Imports | 4.00% | ~5,942 |
-| Through Repetition, Perfection | 4.00% | ~5,942 |
+| The Daily Grind | 4.00% | ~5,943 |
+| Bounty Hunters | 4.00% | ~5,943 |
+| Demand for Supplies | 4.00% | ~5,943 |
+| Flooding the Market | 4.00% | ~5,943 |
+| Where it Hurts | 4.00% | ~5,943 |
+| One-Armed Bandit | 4.00% | ~5,943 |
+| Dungeon Imports | 4.00% | ~5,943 |
+| Through Repetition, Perfection | 4.00% | ~5,943 |
 | On the Path to Greatness | 3.00% | ~4,457 |
 | Ascended | 3.00% | ~4,457 |
 | Tax not Included | 3.00% | ~4,457 |
@@ -107,9 +107,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Eternal Crusade | 1.00% | ~1,486 |
 | The Greatest Grind | 0.90% | ~1,337 |
 | All or Nothing! | 0.90% | ~1,337 |
-| Bane of Legends | 0.80% | ~1,188 |
-| Anything not Nailed Down | 0.80% | ~1,188 |
-| Marvels from the World Over | 0.80% | ~1,188 |
+| Bane of Legends | 0.80% | ~1,189 |
+| Anything not Nailed Down | 0.80% | ~1,189 |
+| Marvels from the World Over | 0.80% | ~1,189 |
 | Unleashed Potential | 0.70% | ~1,040 |
 | Ultimate Collector | 0.60% | ~891 |
 | JACKPOT!!! | 0.60% | ~891 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~594 |
 | Capitalist Camaraderie | 0.20% | ~297 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,562 (Ranked 85)  
+Progressed: 148,564 (Ranked 85)  
 Completed: 340 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -374,7 +374,7 @@ Completed: 340 (0.23%) (Ranked 267)
 | 2023-12-28 | 148,196 | 337 |
 | 2023-12-29 | 148,353 | 338 |
 | 2023-12-30 | 148,534 | 340 |
-| 2023-12-31 | 148,562 | 340 |
+| 2023-12-31 | 148,564 | 340 |
 ## Awards
 Max (Great for Beginners): 4,931  (Ranked 77)  
 Sum: 27,871 (Ranked 51)  

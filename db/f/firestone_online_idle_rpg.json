@@ -691,9 +691,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3985,
+  "EOS_Progressed": 3986,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11306,6 +11306,11 @@
       "Time": "2023-12-31T02:31:27.9474222+00:00",
       "NumProgressed": 3985,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-31T03:07:13.2967453+00:00",
+      "NumProgressed": 3986,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -11483,9 +11488,9 @@
       "ID": "enlightenment",
       "SetID": "3nl4bcg",
       "Name": "Enlightenment",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 558
+      "UsersEstimate": 518
     },
     {
       "ID": "exoticmerchant",
@@ -11563,9 +11568,9 @@
       "ID": "heroinspection",
       "SetID": "3nl4bcg",
       "Name": "Hero inspection",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 558
+      "UsersEstimate": 518
     },
     {
       "ID": "howdoyouturnthison",
@@ -11709,7 +11714,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2072
+      "UsersEstimate": 2073
     },
     {
       "ID": "prestigiousx10",
@@ -11741,7 +11746,7 @@
       "Name": "Scientist",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "scrollmaster",
@@ -11877,7 +11882,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3706
+      "UsersEstimate": 3707
     },
     {
       "ID": "warmachinesarmy",
@@ -11909,14 +11914,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3108
+      "UsersEstimate": 3109
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 3985,
+      "Progressed": 3986,
       "Completed": 2
     }
   ],
@@ -11924,8 +11929,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-12-29T02:13:48.1079305+00:00",
-  "LastChanged_Achievements": "2023-12-31T02:31:27.9474218+00:00",
-  "LastUpdate_AppInfo": "2023-12-24T02:20:54.8970424+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:25:01.6600099+00:00",
-  "LastUpdate_Achievements": "2023-12-31T02:31:27.9475217+00:00"
+  "LastChanged_Achievements": "2023-12-31T03:07:13.2967448+00:00",
+  "LastUpdate_AppInfo": "2023-12-31T02:57:50.7213096+00:00",
+  "LastUpdate_Ratings": "2023-12-31T03:01:01.7961384+00:00",
+  "LastUpdate_Achievements": "2023-12-31T03:07:13.296887+00:00"
 }

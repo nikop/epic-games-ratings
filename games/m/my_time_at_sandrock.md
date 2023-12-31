@@ -20,9 +20,9 @@ Number of Ratings: 892  (23.09.2022)
 | Diamonds are Forever | 84.00% | ~625 |
 | Got Served | 83.00% | ~618 |
 | No Mountain Wide Enough | 80.00% | ~595 |
+| Financially Secure | 79.00% | ~588 |
 | Mole Masher | 79.00% | ~588 |
-| Financially Secure | 78.00% | ~580 |
-| Knowledge is Power | 77.00% | ~573 |
+| Knowledge is Power | 78.00% | ~580 |
 | I Do! | 77.00% | ~573 |
 | Yakmel Whisperer | 77.00% | ~573 |
 | Big Game Hunter | 76.00% | ~565 |

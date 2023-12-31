@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~34,061 |
-| Safety in the Storm | 23.00% | ~8,246 |
-| A Better Idea | 23.00% | ~8,246 |
-| Begin the Ceremony | 19.00% | ~6,812 |
-| Mission Accomplished | 18.00% | ~6,454 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~5,378 |
-| A Starfighter of Your Own | 13.00% | ~4,661 |
-| Asset Secured | 12.00% | ~4,302 |
-| Unkillable | 7.00% | ~2,510 |
-| Together, Vanguard | 7.00% | ~2,510 |
-| The Galaxy's Finest (Pilot) | 6.00% | ~2,151 |
-| Sound Strategy | 6.00% | ~2,151 |
+| Fracture at Fostar Haven | 95.00% | ~34,074 |
+| Safety in the Storm | 23.00% | ~8,249 |
+| A Better Idea | 23.00% | ~8,249 |
+| Begin the Ceremony | 19.00% | ~6,815 |
+| Mission Accomplished | 18.00% | ~6,456 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~5,380 |
+| A Starfighter of Your Own | 13.00% | ~4,663 |
+| Asset Secured | 12.00% | ~4,304 |
+| Unkillable | 7.00% | ~2,511 |
+| Together, Vanguard | 7.00% | ~2,511 |
+| The Galaxy's Finest (Pilot) | 6.00% | ~2,152 |
+| Sound Strategy | 6.00% | ~2,152 |
 | Stomped | 5.00% | ~1,793 |
-| Fearless | 4.00% | ~1,434 |
-| Back From the Brink | 4.00% | ~1,434 |
-| Flames Over Mon Cala | 4.00% | ~1,434 |
-| A Promising Career | 4.00% | ~1,434 |
+| Fearless | 4.00% | ~1,435 |
+| Back From the Brink | 4.00% | ~1,435 |
+| Flames Over Mon Cala | 4.00% | ~1,435 |
+| A Promising Career | 4.00% | ~1,435 |
 | Great Shot, Kid | 3.00% | ~1,076 |
 | Stronger Together | 3.00% | ~1,076 |
 | Temporary Guardian | 3.00% | ~1,076 |
@@ -52,7 +52,7 @@
 | The Galaxy's Finest (Ace) | 0.10% | ~36 |
 | Ultimate Weapon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,854 (Ranked 132)  
+Progressed: 35,867 (Ranked 132)  
 Completed: 3 (0.01%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 3 (0.01%) (Ranked 369)
 | 2023-12-28 | 34,900 | 3 |
 | 2023-12-29 | 35,308 | 3 |
 | 2023-12-30 | 35,791 | 3 |
-| 2023-12-31 | 35,854 | 3 |
+| 2023-12-31 | 35,867 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

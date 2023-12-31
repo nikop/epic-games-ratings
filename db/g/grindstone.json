@@ -2,12 +2,12 @@
   "ID": "76355dbd22b249d9a6f77790aba9547b",
   "Name": "Grindstone",
   "ProductSlug": "grindstone",
-  "Ranking_Rating": 57,
+  "Ranking_Rating": 58,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 383,
+  "Ranking_EOS_NewPlayers": 373,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -219,9 +219,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5220,
+  "EOS_Progressed": 5221,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -1084,6 +1084,11 @@
       "Time": "2023-12-30T22:05:49.3552733+00:00",
       "NumProgressed": 5220,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-12-31T03:06:39.8579768+00:00",
+      "NumProgressed": 5221,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -1095,7 +1100,7 @@
       "Name": "Employee of the Month",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1931
+      "UsersEstimate": 1932
     },
     {
       "ID": "ACHIEVE_3_OFFSHOOTS_COMPLETE",
@@ -1111,7 +1116,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1931
+      "UsersEstimate": 1932
     },
     {
       "ID": "ACHIEVE_50_BONES",
@@ -1199,7 +1204,7 @@
       "Name": "Timber!",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 3184
+      "UsersEstimate": 3185
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -1223,7 +1228,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5116
+      "UsersEstimate": 5117
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1239,7 +1244,7 @@
       "Name": "Top of the Food Chain",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "ACHIEVE_DODGE",
@@ -1269,9 +1274,9 @@
       "ID": "ACHIEVE_FORTUNE_GRIND_WIN",
       "SetID": "b8l3p0g",
       "Name": "Fortunate Soul",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2610
+      "UsersEstimate": 2558
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -1335,7 +1340,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3236
+      "UsersEstimate": 3237
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -1383,7 +1388,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5116
+      "UsersEstimate": 5117
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1391,7 +1396,7 @@
       "Name": "Humerus Achievement",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "ACHIEVE_LVL_60_COMPLETE",
@@ -1455,7 +1460,7 @@
       "Name": "That Was Quick",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "ACHIEVE_ROBINHOOD",
@@ -1479,22 +1484,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3706
+      "UsersEstimate": 3707
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5220,
+      "Progressed": 5221,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-12-26T18:58:09.3460811+00:00",
-  "LastChanged_Achievements": "2023-12-31T02:30:41.13927+00:00",
+  "LastChanged_Achievements": "2023-12-31T03:06:39.8579761+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:55.5067997+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:25:42.1225769+00:00",
-  "LastUpdate_Achievements": "2023-12-31T02:30:41.1393046+00:00"
+  "LastUpdate_Ratings": "2023-12-31T03:01:30.4112412+00:00",
+  "LastUpdate_Achievements": "2023-12-31T03:06:39.8580124+00:00"
 }

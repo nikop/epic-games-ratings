@@ -5,23 +5,23 @@ Rating: 4.53 (Ranked 558)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~4,240 |
+| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~4,241 |
 | Keep 'Em Coming | 66.00% | ~3,635 |
 | Snatched Out | 65.00% | ~3,580 |
-| Cleaning Lethe, One Nest At A Time | 59.00% | ~3,249 |
+| Cleaning Lethe, One Nest At A Time | 59.00% | ~3,250 |
 | Call Me Snake | 55.00% | ~3,029 |
 | Something Lurks Under The Hills | 53.00% | ~2,919 |
 | This Was No Papercut | 51.00% | ~2,809 |
-| The Shrink Hates Me | 49.00% | ~2,698 |
-| People Person | 48.00% | ~2,643 |
-| Use The Bumper, That's What It's For | 45.00% | ~2,478 |
-| First Steps Into Madness | 45.00% | ~2,478 |
+| The Shrink Hates Me | 49.00% | ~2,699 |
+| People Person | 48.00% | ~2,644 |
+| Use The Bumper, That's What It's For | 45.00% | ~2,479 |
+| First Steps Into Madness | 45.00% | ~2,479 |
 | Colonial Barrels | 43.00% | ~2,368 |
 | Harper's Hell | 39.00% | ~2,148 |
 | Making a Stand | 37.00% | ~2,038 |
 | Damn Dude, You Gotta Lose Some Weight! | 36.00% | ~1,983 |
-| Where It All Begun | 34.00% | ~1,872 |
-| Recouped Investment | 32.00% | ~1,762 |
+| Where It All Begun | 34.00% | ~1,873 |
+| Recouped Investment | 32.00% | ~1,763 |
 | Living Nightmare | 28.00% | ~1,542 |
 | The More The Merrier | 28.00% | ~1,542 |
 | Omelette Du Fromage | 27.00% | ~1,487 |
@@ -29,9 +29,9 @@ Rating: 4.53 (Ranked 558)
 | Deep Into Insanity | 24.00% | ~1,322 |
 | The Passenger | 23.00% | ~1,267 |
 | Come on, You Wanna Live Forever? | 22.00% | ~1,212 |
-| The Spire | 21.00% | ~1,156 |
-| El Riesgo Siempre Vive | 20.00% | ~1,101 |
-| Stuff Of Nightmares | 19.00% | ~1,046 |
+| The Spire | 21.00% | ~1,157 |
+| El Riesgo Siempre Vive | 20.00% | ~1,102 |
+| Stuff Of Nightmares | 19.00% | ~1,047 |
 | Frontliner | 18.00% | ~991 |
 | Excavating The Truth | 18.00% | ~991 |
 | Abysmal Horrors | 18.00% | ~991 |
@@ -51,7 +51,7 @@ Rating: 4.53 (Ranked 558)
 | This Ain't No Picnic | 0.60% | ~33 |
 | Chalk It Up To Experience | 0.60% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,507 (Ranked 200)  
+Progressed: 5,508 (Ranked 200)  
 Completed: 3 (0.05%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 3 (0.05%) (Ranked 334)
 | 2023-12-28 | 5,348 | 3 |
 | 2023-12-29 | 5,429 | 3 |
 | 2023-12-30 | 5,501 | 3 |
-| 2023-12-31 | 5,507 | 3 |
+| 2023-12-31 | 5,508 | 3 |
 ## Awards
 Max (Great Boss Battles): 58  (Ranked 429)  
 Sum: 58 (Ranked 491)  

@@ -8625,9 +8625,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 749435,
+  "EOS_Progressed": 749448,
   "EOS_Completed": 12970,
-  "EOS_NewPlayers": 7490,
+  "EOS_NewPlayers": 7472,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.73,
   "EosHistory": [
@@ -31665,6 +31665,11 @@
       "Time": "2023-12-31T02:34:07.048383+00:00",
       "NumProgressed": 749435,
       "NumCompleted": 12970
+    },
+    {
+      "Time": "2023-12-31T03:10:44.8410248+00:00",
+      "NumProgressed": 749448,
+      "NumCompleted": 12970
     }
   ],
   "TotalAchievements": 60,
@@ -31852,7 +31857,7 @@
       "Name": "Life is your teacher",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29977
+      "UsersEstimate": 29978
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -31940,7 +31945,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 29977
+      "UsersEstimate": 29978
     },
     {
       "ID": "35_WideStrike",
@@ -32155,21 +32160,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 58736,
+      "Progressed": 58749,
       "Completed": 10793
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 749435,
+      "Progressed": 749448,
       "Completed": 12970
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-12-31T01:53:00.9575064+00:00",
-  "LastChanged_Achievements": "2023-12-31T02:34:07.0483828+00:00",
-  "LastUpdate_AppInfo": "2023-12-24T02:21:49.3189229+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:27:52.7141145+00:00",
-  "LastUpdate_Achievements": "2023-12-31T02:34:07.0485236+00:00"
+  "LastChanged_Achievements": "2023-12-31T03:10:44.8410245+00:00",
+  "LastUpdate_AppInfo": "2023-12-31T02:58:26.4563062+00:00",
+  "LastUpdate_Ratings": "2023-12-31T03:04:40.2798422+00:00",
+  "LastUpdate_Achievements": "2023-12-31T03:10:44.8411586+00:00"
 }

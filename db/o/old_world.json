@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2208,9 +2208,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16040,
+  "EOS_Progressed": 16042,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18658,6 +18658,11 @@
       "Time": "2023-12-31T02:00:03.372441+00:00",
       "NumProgressed": 16040,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-12-31T03:11:48.2593268+00:00",
+      "NumProgressed": 16042,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19499,9 +19504,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_ARTISANS",
       "SetID": "7l38kb8",
       "Name": "Artisans",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CHAMPIONS",
@@ -20203,9 +20208,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_3",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 3",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_4",
@@ -20499,9 +20504,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_GREECE",
       "SetID": "7l38kb8",
       "Name": "Greek Paganism",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_HITTITE",
@@ -21532,21 +21537,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16040,
+      "Progressed": 16042,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16040,
+      "Progressed": 16042,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-29T16:02:55.9624641+00:00",
-  "LastChanged_Achievements": "2023-12-31T02:35:35.1637508+00:00",
-  "LastUpdate_AppInfo": "2023-12-24T02:21:47.5878363+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:27:48.4068542+00:00",
-  "LastUpdate_Achievements": "2023-12-31T02:35:35.1647824+00:00"
+  "LastChanged_Achievements": "2023-12-31T03:11:48.2593266+00:00",
+  "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
+  "LastUpdate_Ratings": "2023-12-31T03:04:37.5358754+00:00",
+  "LastUpdate_Achievements": "2023-12-31T03:11:48.2603616+00:00"
 }

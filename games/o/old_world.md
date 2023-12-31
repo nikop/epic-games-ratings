@@ -23,6 +23,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 0.60% | ~96 |
 | Oracle | 0.60% | ~96 |
 | Judaism | 0.60% | ~96 |
+| Greek Paganism | 0.60% | ~96 |
 | Trade Caravan | 0.60% | ~96 |
 | Ambitious | 0.50% | ~80 |
 | Enlightened | 0.50% | ~80 |
@@ -36,7 +37,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate | 0.50% | ~80 |
 | Pyramids | 0.50% | ~80 |
 | Learn to Play 1 | 0.50% | ~80 |
-| Greek Paganism | 0.50% | ~80 |
 | Naming Landmarks | 0.50% | ~80 |
 | Regicide | 0.40% | ~64 |
 | Brilliant | 0.40% | ~64 |
@@ -58,6 +58,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 0.30% | ~48 |
 | Legendary Cities | 0.30% | ~48 |
 | Just Difficulty | 0.30% | ~48 |
+| Artisans | 0.30% | ~48 |
 | Champions | 0.30% | ~48 |
 | Sages | 0.30% | ~48 |
 | Acropolis | 0.30% | ~48 |
@@ -66,6 +67,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum | 0.30% | ~48 |
 | Necropolis | 0.30% | ~48 |
 | Learn to Play 2 | 0.30% | ~48 |
+| Learn to Play 3 | 0.30% | ~48 |
 | Manichaeism | 0.30% | ~48 |
 | Egyptian Paganism | 0.30% | ~48 |
 | Building Wonders | 0.30% | ~48 |
@@ -82,7 +84,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 0.20% | ~32 |
 | Good Difficulty | 0.20% | ~32 |
 | Strong Difficulty | 0.20% | ~32 |
-| Artisans | 0.20% | ~32 |
 | Landowners | 0.20% | ~32 |
 | Patrons | 0.20% | ~32 |
 | Riders | 0.20% | ~32 |
@@ -94,7 +95,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.20% | ~32 |
 | Pantheon | 0.20% | ~32 |
 | Via Recta Souk | 0.20% | ~32 |
-| Learn to Play 3 | 0.20% | ~32 |
 | Greece | 0.20% | ~32 |
 | Power to the People | 0.20% | ~32 |
 | Assyrian Paganism | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,040 (Ranked 165)  
+Progressed: 16,042 (Ranked 165)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -620,7 +620,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-28 | 15,997 | 5 |
 | 2023-12-29 | 16,011 | 5 |
 | 2023-12-30 | 16,036 | 5 |
-| 2023-12-31 | 16,040 | 5 |
+| 2023-12-31 | 16,042 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 284)  
 Sum: 1,912 (Ranked 220)  

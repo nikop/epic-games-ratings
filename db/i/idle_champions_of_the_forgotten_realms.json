@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9211,9 +9211,9 @@
       "Count": 3614
     }
   ],
-  "EOS_Progressed": 248023,
+  "EOS_Progressed": 248041,
   "EOS_Completed": 2578,
-  "EOS_NewPlayers": 4061,
+  "EOS_NewPlayers": 4071,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -38016,6 +38016,11 @@
       "Time": "2023-12-31T02:35:36.3741293+00:00",
       "NumProgressed": 248023,
       "NumCompleted": 2578
+    },
+    {
+      "Time": "2023-12-31T03:11:49.2856568+00:00",
+      "NumProgressed": 248041,
+      "NumCompleted": 2578
     }
   ],
   "TotalAchievements": 546,
@@ -38027,7 +38032,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4960
+      "UsersEstimate": 4961
     },
     {
       "ID": "objective_completed_10",
@@ -41201,9 +41206,9 @@
       "ID": "objective_completed_74",
       "SetID": "cc37lbc",
       "Name": "Waterdeep Detours",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 496
     },
     {
       "ID": "objective_completed_75",
@@ -42394,21 +42399,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 214297,
-      "Completed": 4103
+      "Progressed": 214315,
+      "Completed": 4104
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 248023,
+      "Progressed": 248041,
       "Completed": 2578
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-12-31T01:50:10.7390408+00:00",
-  "LastChanged_Achievements": "2023-12-31T02:35:36.3741288+00:00",
-  "LastUpdate_AppInfo": "2023-12-24T02:21:41.1054618+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:26:12.4204087+00:00",
-  "LastUpdate_Achievements": "2023-12-31T02:35:36.3765488+00:00"
+  "LastChanged_Achievements": "2023-12-31T03:11:49.2856565+00:00",
+  "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
+  "LastUpdate_Ratings": "2023-12-31T03:01:51.4406541+00:00",
+  "LastUpdate_Achievements": "2023-12-31T03:11:49.288023+00:00"
 }

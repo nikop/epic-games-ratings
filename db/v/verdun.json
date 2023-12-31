@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 285,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
@@ -1937,9 +1937,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 68052,
+  "EOS_Progressed": 68053,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 793,
+  "EOS_NewPlayers": 791,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30012,6 +30012,11 @@
       "Time": "2023-12-31T01:55:26.7795573+00:00",
       "NumProgressed": 68052,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-12-31T03:07:11.7242069+00:00",
+      "NumProgressed": 68053,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -30143,7 +30148,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 16332
+      "UsersEstimate": 16333
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -30287,7 +30292,7 @@
       "Name": "Corpseman I",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 26540
+      "UsersEstimate": 26541
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -30487,22 +30492,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 25179
+      "UsersEstimate": 25180
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 68052,
+      "Progressed": 68053,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-12-29T13:59:03.1617519+00:00",
-  "LastChanged_Achievements": "2023-12-31T02:31:25.7798467+00:00",
+  "LastChanged_Achievements": "2023-12-31T03:07:11.7242065+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:55.7383627+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:25:44.2200698+00:00",
-  "LastUpdate_Achievements": "2023-12-31T02:31:25.7800243+00:00"
+  "LastUpdate_Ratings": "2023-12-31T03:01:31.8770819+00:00",
+  "LastUpdate_Achievements": "2023-12-31T03:07:11.7244086+00:00"
 }

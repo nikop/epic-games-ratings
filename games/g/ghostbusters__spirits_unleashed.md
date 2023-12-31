@@ -5,12 +5,12 @@ Rating: 4.50 (Ranked 612)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 10.00% | ~3,297 |
+| Stylish | 10.00% | ~3,298 |
 | Advancement | 8.00% | ~2,638 |
 | Meticulously Efficient | 8.00% | ~2,638 |
-| Discovery | 6.00% | ~1,978 |
-| Solo Capture | 6.00% | ~1,978 |
-| Swift Rift Removers | 6.00% | ~1,978 |
+| Discovery | 6.00% | ~1,979 |
+| Solo Capture | 6.00% | ~1,979 |
+| Swift Rift Removers | 6.00% | ~1,979 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,649 |
 | Fully Upgraded | 5.00% | ~1,649 |
 | Teamwork | 5.00% | ~1,649 |
@@ -32,14 +32,14 @@ Rating: 4.50 (Ranked 612)
 | Seasoned | 3.00% | ~989 |
 | Side Hustle | 3.00% | ~989 |
 | Summoner | 3.00% | ~989 |
-| Collector | 2.00% | ~659 |
-| Escape Artist | 2.00% | ~659 |
-| Reckless | 2.00% | ~659 |
-| Rift Destroyer | 2.00% | ~659 |
-| Skilled | 2.00% | ~659 |
-| Stunner | 2.00% | ~659 |
-| Tobin's Prodigy | 2.00% | ~659 |
-| Welcome to the Crew | 2.00% | ~659 |
+| Collector | 2.00% | ~660 |
+| Escape Artist | 2.00% | ~660 |
+| Reckless | 2.00% | ~660 |
+| Rift Destroyer | 2.00% | ~660 |
+| Skilled | 2.00% | ~660 |
+| Stunner | 2.00% | ~660 |
+| Tobin's Prodigy | 2.00% | ~660 |
+| Welcome to the Crew | 2.00% | ~660 |
 | Diabolical | 1.00% | ~330 |
 | Fragile Panes | 1.00% | ~330 |
 | Liability | 1.00% | ~330 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 612)
 | Ultimate Defense | 0.20% | ~66 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,974 (Ranked 134)  
+Progressed: 32,976 (Ranked 134)  
 Completed: 71 (0.22%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 71 (0.22%) (Ranked 270)
 | 2023-12-28 | 32,854 | 70 |
 | 2023-12-29 | 32,915 | 71 |
 | 2023-12-30 | 32,969 | 71 |
-| 2023-12-31 | 32,974 | 71 |
+| 2023-12-31 | 32,976 | 71 |
 ## Awards
 Max (Great for Beginners): 326  (Ranked 255)  
 Sum: 2,940 (Ranked 184)  

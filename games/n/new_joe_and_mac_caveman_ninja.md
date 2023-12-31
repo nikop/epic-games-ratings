@@ -21,7 +21,7 @@
 | Passing the carcass. | 5.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 274 (Ranked 397)  
-Completed: 7 (2.55%) (Ranked 126)  
+Completed: 7 (2.55%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 266,
-  "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_Completed": 125,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -179,11 +179,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1368,
+  "EOS_Progressed": 1371,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.56,
+  "EOS_Completed_Percentage": 2.55,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -4714,6 +4714,11 @@
       "Time": "2023-12-31T01:54:57.910587+00:00",
       "NumProgressed": 1368,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-12-31T03:06:41.9417288+00:00",
+      "NumProgressed": 1371,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4734,7 +4739,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 930
+      "UsersEstimate": 932
     },
     {
       "ID": "_03_FinishAct1",
@@ -4742,7 +4747,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 670
+      "UsersEstimate": 672
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4750,7 +4755,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "_05_FinishAct2",
@@ -4758,7 +4763,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -4782,7 +4787,7 @@
       "Name": "Swabbie",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "_09_Completion_20",
@@ -4822,7 +4827,7 @@
       "Name": "Corsair",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "_14_Completion_70",
@@ -4846,7 +4851,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -4854,7 +4859,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 492
+      "UsersEstimate": 494
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -4868,9 +4873,9 @@
       "ID": "_19_CrewTale_BSP",
       "SetID": "8a1io5d",
       "Name": "Persistent Parasite",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 219
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -4910,7 +4915,7 @@
       "Name": "Jaded Judge",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -4918,7 +4923,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -4933,7 +4938,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1368,
+      "Progressed": 1371,
       "Completed": 35
     }
   ],
@@ -4941,8 +4946,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2023-12-31T02:30:44.2891945+00:00",
-  "LastUpdate_AppInfo": "2023-12-24T02:21:11.4948419+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:25:15.7730205+00:00",
-  "LastUpdate_Achievements": "2023-12-31T02:30:44.2892347+00:00"
+  "LastChanged_Achievements": "2023-12-31T03:06:41.941728+00:00",
+  "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
+  "LastUpdate_Ratings": "2023-12-31T03:01:11.7152411+00:00",
+  "LastUpdate_Achievements": "2023-12-31T03:06:41.9418045+00:00"
 }

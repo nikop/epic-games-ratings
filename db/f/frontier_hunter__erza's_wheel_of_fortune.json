@@ -2,9 +2,9 @@
   "ID": "f9af68c0b03e425999c18381eb45e5fb",
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
-  "Ranking_EOS_Progress": 315,
+  "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 339,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 673,
+  "EOS_Progressed": 674,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -2292,6 +2292,11 @@
       "Time": "2023-12-30T14:08:55.4020842+00:00",
       "NumProgressed": 673,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-31T03:10:54.3893348+00:00",
+      "NumProgressed": 674,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -2303,7 +2308,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2351,7 +2356,7 @@
       "Name": "Furious Scorpion Killer",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -2447,7 +2452,7 @@
       "Name": "Master Artificer",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -2471,7 +2476,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2487,7 +2492,7 @@
       "Name": "Weapon Boost",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -2589,9 +2594,9 @@
       "ID": "ACHIEVEMENT_43",
       "SetID": "7pimpda",
       "Name": "Warden Slayer",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 61
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -2623,7 +2628,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2631,7 +2636,7 @@
       "Name": "Flower Thief",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -2639,7 +2644,7 @@
       "Name": "Apostle of Flame",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -2647,7 +2652,7 @@
       "Name": "Seal Breaker",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -2655,14 +2660,14 @@
       "Name": "Handyman",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 673,
+      "Progressed": 674,
       "Completed": 2
     }
   ],
@@ -2670,8 +2675,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-12-31T02:34:21.1592767+00:00",
-  "LastUpdate_AppInfo": "2023-12-24T02:20:49.8378615+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:24:31.0567734+00:00",
-  "LastUpdate_Achievements": "2023-12-31T02:34:21.1593154+00:00"
+  "LastChanged_Achievements": "2023-12-31T03:10:54.3893343+00:00",
+  "LastUpdate_AppInfo": "2023-12-31T02:57:39.5136135+00:00",
+  "LastUpdate_Ratings": "2023-12-31T03:00:41.4676587+00:00",
+  "LastUpdate_Achievements": "2023-12-31T03:10:54.3893915+00:00"
 }

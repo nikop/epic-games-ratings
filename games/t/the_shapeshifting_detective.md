@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Play It Again Sam | 91.00% | ~275 |
 | Strong Silent Type | 91.00% | ~275 |
-| Play It Again Sam | 90.00% | ~272 |
 | Play Me By The Hour | 69.00% | ~208 |
 | Patient Listener | 46.00% | ~139 |
 | Video Saved The Radio Star | 38.00% | ~115 |

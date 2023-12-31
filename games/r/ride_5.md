@@ -5,27 +5,27 @@ Rating: 4.48 (Ranked 650)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 48.00% | ~1,505 |
-| First Love | 45.00% | ~1,411 |
-| Clean Race | 44.00% | ~1,379 |
-| Hear That Roar! | 41.00% | ~1,285 |
-| Rivals to the End | 31.00% | ~972 |
-| Bitter Rivalry | 30.00% | ~940 |
-| Champagne Spray | 28.00% | ~878 |
-| We're Going to Need a Bigger Garage | 26.00% | ~815 |
-| Quick Pit Stop | 21.00% | ~658 |
-| Restored and Ready | 20.00% | ~627 |
-| I Want One Too! | 20.00% | ~627 |
+| Eat My Dust | 48.00% | ~1,507 |
+| First Love | 45.00% | ~1,413 |
+| Clean Race | 44.00% | ~1,381 |
+| Hear That Roar! | 41.00% | ~1,287 |
+| Bitter Rivalry | 30.00% | ~942 |
+| Rivals to the End | 30.00% | ~942 |
+| Champagne Spray | 28.00% | ~879 |
+| We're Going to Need a Bigger Garage | 26.00% | ~816 |
+| Quick Pit Stop | 21.00% | ~659 |
+| Restored and Ready | 20.00% | ~628 |
+| I Want One Too! | 20.00% | ~628 |
 | Legendary!!! | 19.00% | ~596 |
-| Go-Faster Stripes | 17.00% | ~533 |
-| I'm Here Too! | 15.00% | ~470 |
+| Go-Faster Stripes | 17.00% | ~534 |
+| I'm Here Too! | 15.00% | ~471 |
 | We've Just Begun | 14.00% | ~439 |
-| Is It the Right Size? | 9.00% | ~282 |
+| Is It the Right Size? | 9.00% | ~283 |
 | Stamina Star | 8.00% | ~251 |
-| Evangelist | 7.00% | ~219 |
+| Evangelist | 7.00% | ~220 |
 | Make It Your Own! | 5.00% | ~157 |
-| Cherry Blossom and Temples | 4.00% | ~125 |
-| The Road to Liberty | 4.00% | ~125 |
+| Cherry Blossom and Temples | 4.00% | ~126 |
+| The Road to Liberty | 4.00% | ~126 |
 | Spoilt for Choice | 3.00% | ~94 |
 | La Dolce Vita | 3.00% | ~94 |
 | Romantic Races | 3.00% | ~94 |
@@ -55,7 +55,7 @@ Rating: 4.48 (Ranked 650)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,135 (Ranked 223)  
+Progressed: 3,139 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-28 | 3,069 | 0 |
 | 2023-12-29 | 3,096 | 0 |
 | 2023-12-30 | 3,132 | 0 |
-| 2023-12-31 | 3,135 | 0 |
+| 2023-12-31 | 3,139 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

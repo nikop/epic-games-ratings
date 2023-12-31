@@ -4,7 +4,7 @@
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
   "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
@@ -505,9 +505,9 @@
       "ID": "achievement_egoist",
       "SetID": "bngbnfb",
       "Name": "Egomaniac",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_feng_is_my_choise",
@@ -816,8 +816,8 @@
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2023-12-31T02:34:19.3151545+00:00",
+  "LastChanged_Achievements": "2023-12-31T03:10:53.2530491+00:00",
   "LastUpdate_AppInfo": "2023-12-27T14:57:14.899745+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:25:50.3092001+00:00",
-  "LastUpdate_Achievements": "2023-12-31T02:34:19.3151871+00:00"
+  "LastUpdate_Ratings": "2023-12-31T03:01:35.9920043+00:00",
+  "LastUpdate_Achievements": "2023-12-31T03:10:53.2530879+00:00"
 }

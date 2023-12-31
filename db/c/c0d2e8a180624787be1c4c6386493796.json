@@ -1309,9 +1309,9 @@
       "ID": "KR4_ACHIEVEMENT_HODOR",
       "SetID": "caeik3h",
       "Name": "Hold The Door",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "KR4_ACHIEVEMENT_HORN",
@@ -1698,8 +1698,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-31T02:32:40.770268+00:00",
+  "LastChanged_Achievements": "2023-12-31T03:08:04.9398955+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.1058747+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:23:36.2424663+00:00",
-  "LastUpdate_Achievements": "2023-12-31T02:32:40.7703358+00:00"
+  "LastUpdate_Ratings": "2023-12-31T03:00:04.5853675+00:00",
+  "LastUpdate_Achievements": "2023-12-31T03:08:04.939986+00:00"
 }

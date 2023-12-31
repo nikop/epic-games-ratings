@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~4,960 |
+| A Brief Tour of the Realms | 2.00% | ~4,961 |
 | The Cursed Farmer | 1.00% | ~2,480 |
 | Beast Intentions | 0.80% | ~1,984 |
 | The Mad Wizard | 0.70% | ~1,736 |
@@ -40,6 +40,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.20% | ~496 |
 | The Contagious Curse | 0.20% | ~496 |
 | Escort to Waterdeep | 0.20% | ~496 |
+| Waterdeep Detours | 0.20% | ~496 |
 | Pros and CONs | 0.10% | ~248 |
 | Upholding the Law | 0.10% | ~248 |
 | Starving in the Jungle | 0.10% | ~248 |
@@ -417,7 +418,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 0.10% | ~248 |
 | Constant Banditry | 0.10% | ~248 |
 | The Long Haul | 0.10% | ~248 |
-| Waterdeep Detours | 0.10% | ~248 |
 | Lost in the Deep | 0.10% | ~248 |
 | Easily Distracted | 0.10% | ~248 |
 | Rude Welcome | 0.10% | ~248 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~214 |
 | The Brains of an Illithid's Desire | 0.10% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,023 (Ranked 68)  
+Progressed: 248,041 (Ranked 68)  
 Completed: 2,578 (1.04%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -808,7 +808,7 @@ Completed: 2,578 (1.04%) (Ranked 170)
 | 2023-12-28 | 246,305 | 2,573 |
 | 2023-12-29 | 247,120 | 2,575 |
 | 2023-12-30 | 247,917 | 2,578 |
-| 2023-12-31 | 248,023 | 2,578 |
+| 2023-12-31 | 248,041 | 2,578 |
 ## Awards
 Max (Great for Beginners): 5,720  (Ranked 71)  
 Sum: 33,201 (Ranked 41)  

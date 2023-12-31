@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17857,
+  "EOS_Progressed": 17859,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 619,
+  "EOS_NewPlayers": 618,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15744,6 +15744,11 @@
       "Time": "2023-12-31T02:32:12.6876328+00:00",
       "NumProgressed": 17857,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-12-31T03:07:44.9851007+00:00",
+      "NumProgressed": 17859,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15780,7 +15785,7 @@
       "Name": "Data Archivist",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "13",
@@ -15812,7 +15817,7 @@
       "Name": "Drug Gifter",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "17",
@@ -15852,7 +15857,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "21",
@@ -15892,7 +15897,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "26",
@@ -16035,13 +16040,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17857,
+      "Progressed": 17859,
       "Completed": 57
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3811,
+      "Progressed": 3813,
       "Completed": 1126
     }
   ],
@@ -16049,8 +16054,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T01:47:56.7328013+00:00",
-  "LastChanged_Achievements": "2023-12-31T02:32:12.6876324+00:00",
+  "LastChanged_Achievements": "2023-12-31T03:07:44.9851003+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:22:50.8714082+00:00",
-  "LastUpdate_Achievements": "2023-12-31T02:32:12.6877387+00:00"
+  "LastUpdate_Ratings": "2023-12-31T02:59:34.7193036+00:00",
+  "LastUpdate_Achievements": "2023-12-31T03:07:44.9852138+00:00"
 }

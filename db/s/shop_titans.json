@@ -7873,9 +7873,9 @@
       "Count": 3808
     }
   ],
-  "EOS_Progressed": 148562,
+  "EOS_Progressed": 148564,
   "EOS_Completed": 340,
-  "EOS_NewPlayers": 1294,
+  "EOS_NewPlayers": 1293,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -34658,6 +34658,11 @@
       "Time": "2023-12-31T02:30:30.6303974+00:00",
       "NumProgressed": 148562,
       "NumCompleted": 340
+    },
+    {
+      "Time": "2023-12-31T03:06:31.4159545+00:00",
+      "NumProgressed": 148564,
+      "NumCompleted": 340
     }
   ],
   "TotalAchievements": 112,
@@ -34669,7 +34674,7 @@
       "Name": "The Daily Grind",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5942
+      "UsersEstimate": 5943
     },
     {
       "ID": "advlevel02",
@@ -34805,7 +34810,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5942
+      "UsersEstimate": 5943
     },
     {
       "ID": "boss02",
@@ -34821,7 +34826,7 @@
       "Name": "Bane of Legends",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "champions01",
@@ -34909,7 +34914,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5942
+      "UsersEstimate": 5943
     },
     {
       "ID": "commonres03",
@@ -34941,7 +34946,7 @@
       "Name": "Flooding the Market",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5942
+      "UsersEstimate": 5943
     },
     {
       "ID": "craft03",
@@ -34973,7 +34978,7 @@
       "Name": "Where it Hurts",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5942
+      "UsersEstimate": 5943
     },
     {
       "ID": "damage02",
@@ -35221,7 +35226,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5942
+      "UsersEstimate": 5943
     },
     {
       "ID": "jackslot02",
@@ -35293,7 +35298,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5942
+      "UsersEstimate": 5943
     },
     {
       "ID": "loot02",
@@ -35317,7 +35322,7 @@
       "Name": "Anything not Nailed Down",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "master01",
@@ -35325,7 +35330,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5942
+      "UsersEstimate": 5943
     },
     {
       "ID": "master02",
@@ -35429,7 +35434,7 @@
       "Name": "Marvels from the World Over",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "rudo_a",
@@ -35564,15 +35569,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 148562,
+      "Progressed": 148564,
       "Completed": 340
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-12-30T21:04:16.1922411+00:00",
-  "LastChanged_Achievements": "2023-12-31T02:30:30.6303971+00:00",
-  "LastUpdate_AppInfo": "2023-12-24T02:21:55.73992+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:28:07.7443894+00:00",
-  "LastUpdate_Achievements": "2023-12-31T02:30:30.6306485+00:00"
+  "LastChanged_Achievements": "2023-12-31T03:06:31.415954+00:00",
+  "LastUpdate_AppInfo": "2023-12-31T02:58:32.6407181+00:00",
+  "LastUpdate_Ratings": "2023-12-31T03:04:50.0402516+00:00",
+  "LastUpdate_Achievements": "2023-12-31T03:06:31.4162266+00:00"
 }

@@ -324,9 +324,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 27687,
+  "EOS_Progressed": 27688,
   "EOS_Completed": 181,
-  "EOS_NewPlayers": 1198,
+  "EOS_NewPlayers": 1195,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -8819,6 +8819,11 @@
       "Time": "2023-12-31T02:35:15.4282294+00:00",
       "NumProgressed": 27687,
       "NumCompleted": 181
+    },
+    {
+      "Time": "2023-12-31T03:11:32.8356482+00:00",
+      "NumProgressed": 27688,
+      "NumCompleted": 181
     }
   ],
   "TotalAchievements": 24,
@@ -8942,7 +8947,7 @@
       "Name": "Master Room",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACH_S8MaxPoints",
@@ -8966,7 +8971,7 @@
       "Name": "Sector 2",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 7475
+      "UsersEstimate": 7476
     },
     {
       "ID": "ACH_Sector3",
@@ -8990,7 +8995,7 @@
       "Name": "Sector 5",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 3322
+      "UsersEstimate": 3323
     },
     {
       "ID": "ACH_Sector6",
@@ -9021,7 +9026,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 27687,
+      "Progressed": 27688,
       "Completed": 181
     }
   ],
@@ -9029,8 +9034,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-12-29T20:00:01.3270851+00:00",
-  "LastChanged_Achievements": "2023-12-31T02:35:15.4282292+00:00",
+  "LastChanged_Achievements": "2023-12-31T03:11:32.8356476+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:24.8723851+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:27:25.0147122+00:00",
-  "LastUpdate_Achievements": "2023-12-31T02:35:15.4282907+00:00"
+  "LastUpdate_Ratings": "2023-12-31T03:02:12.2993684+00:00",
+  "LastUpdate_Achievements": "2023-12-31T03:11:32.8357205+00:00"
 }

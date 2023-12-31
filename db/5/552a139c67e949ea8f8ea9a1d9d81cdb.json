@@ -4424,9 +4424,9 @@
       "ID": "ML_ACHIEVEMENT_10",
       "SetID": "5k00jcd",
       "Name": "Drift champ",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -4544,9 +4544,9 @@
       "ID": "ML_ACHIEVEMENT_25",
       "SetID": "5k00jcd",
       "Name": "The Yeti",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ML_ACHIEVEMENT_26",
@@ -4568,9 +4568,9 @@
       "ID": "ML_ACHIEVEMENT_28",
       "SetID": "5k00jcd",
       "Name": "Can you keep a secret?",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ML_ACHIEVEMENT_29",
@@ -4600,9 +4600,9 @@
       "ID": "ML_ACHIEVEMENT_32",
       "SetID": "5k00jcd",
       "Name": "Spendthrift",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "ML_ACHIEVEMENT_33",
@@ -4733,8 +4733,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-12-31T02:30:16.3671417+00:00",
+  "LastChanged_Achievements": "2023-12-31T03:06:21.0219501+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:23:26.332074+00:00",
-  "LastUpdate_Achievements": "2023-12-31T02:30:16.3671991+00:00"
+  "LastUpdate_Ratings": "2023-12-31T02:59:58.4222799+00:00",
+  "LastUpdate_Achievements": "2023-12-31T03:06:21.0219958+00:00"
 }

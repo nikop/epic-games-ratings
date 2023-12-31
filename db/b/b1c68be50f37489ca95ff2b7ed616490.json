@@ -2,7 +2,7 @@
   "ID": "b1c68be50f37489ca95ff2b7ed616490",
   "Name": "Agatha Christie - Murder on the Orient Express",
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
-  "Ranking_EOS_Progress": 412,
+  "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 157,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 233,
+  "EOS_Progressed": 234,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1024,6 +1024,11 @@
       "Time": "2023-12-31T01:55:47.9413737+00:00",
       "NumProgressed": 233,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T03:07:33.1658745+00:00",
+      "NumProgressed": 234,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -1034,9 +1039,9 @@
       "ID": "1",
       "SetID": "6bgoh8g",
       "Name": "A mystery? No! A trifle for Poirot!",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 140
     },
     {
       "ID": "10",
@@ -1251,14 +1256,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 233,
+      "Progressed": 234,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-12-31T02:31:55.9590648+00:00",
+  "LastChanged_Achievements": "2023-12-31T03:07:33.165874+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:21.3580987+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:27:58.3667861+00:00",
-  "LastUpdate_Achievements": "2023-12-31T02:31:55.9590848+00:00"
+  "LastUpdate_Ratings": "2023-12-31T03:04:43.9638718+00:00",
+  "LastUpdate_Achievements": "2023-12-31T03:07:33.1658986+00:00"
 }

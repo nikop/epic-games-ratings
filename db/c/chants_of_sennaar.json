@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -91,9 +91,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2075,
+  "EOS_Progressed": 2077,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 396,
+  "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 6.02,
   "EosHistory": [
@@ -5836,6 +5836,11 @@
       "Time": "2023-12-31T01:55:56.2723941+00:00",
       "NumProgressed": 2075,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-12-31T03:07:41.8215815+00:00",
+      "NumProgressed": 2077,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 25,
@@ -5847,7 +5852,7 @@
       "Name": "I did it",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "END_GOOD",
@@ -5855,7 +5860,7 @@
       "Name": "In this together",
       "Percentage": 22,
       "XP": 200,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "META_ALL_LINK",
@@ -5863,7 +5868,7 @@
       "Name": "Peace walker",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -5879,7 +5884,7 @@
       "Name": "A good beginning",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "META_HALF_LINK",
@@ -5911,7 +5916,7 @@
       "Name": "Feels like springtime",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "META_RESULT_2-3",
@@ -5935,7 +5940,7 @@
       "Name": "A Link to the Past",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -5959,7 +5964,7 @@
       "Name": "True G3M4R",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -5967,7 +5972,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -5983,7 +5988,7 @@
       "Name": "Champollion",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -5991,7 +5996,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1142
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -6031,7 +6036,7 @@
       "Name": "The darkness",
       "Percentage": 28,
       "XP": 60,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "PROGRESS_N5",
@@ -6046,7 +6051,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2075,
+      "Progressed": 2077,
       "Completed": 125
     }
   ],
@@ -6054,8 +6059,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-30T06:59:31.3780132+00:00",
-  "LastChanged_Achievements": "2023-12-31T02:32:08.1375461+00:00",
-  "LastUpdate_AppInfo": "2023-12-24T02:21:22.9870675+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:25:52.7814869+00:00",
-  "LastUpdate_Achievements": "2023-12-31T02:32:08.1375994+00:00"
+  "LastChanged_Achievements": "2023-12-31T03:07:41.8215807+00:00",
+  "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
+  "LastUpdate_Ratings": "2023-12-31T03:01:37.7611743+00:00",
+  "LastUpdate_Achievements": "2023-12-31T03:07:41.821642+00:00"
 }

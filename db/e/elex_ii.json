@@ -5,9 +5,9 @@
   "Ranking_Rating": 872,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 575,
-  "Ranking_EOS_Progress": 453,
+  "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 141,
+  "EOS_Progressed": 142,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1096,6 +1096,11 @@
       "Time": "2023-12-30T22:05:33.0955761+00:00",
       "NumProgressed": 141,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-12-31T03:06:26.8114394+00:00",
+      "NumProgressed": 142,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1124,7 +1129,7 @@
       "Name": "Entrepreneur",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "100HEALS",
@@ -1156,7 +1161,7 @@
       "Name": "Storyteller",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "20TELEPORTS",
@@ -1170,9 +1175,9 @@
       "ID": "20TRADER",
       "SetID": "a1angca",
       "Name": "Peddler",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "20WEAPONSCRAFTED",
@@ -1236,7 +1241,7 @@
       "Name": "Military Leader",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ALLCOMBAT",
@@ -1284,7 +1289,7 @@
       "Name": "Role Model",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "BRINGTOYS",
@@ -1308,7 +1313,7 @@
       "Name": "Alb",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CHOSEBSK",
@@ -1348,7 +1353,7 @@
       "Name": "Creator",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "DESTRUCTION",
@@ -1370,9 +1375,9 @@
       "ID": "FINDALLIES",
       "SetID": "a1angca",
       "Name": "Commander",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "FINDBILLY",
@@ -1380,7 +1385,7 @@
       "Name": "Festival-goer",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "FINDCITY",
@@ -1388,7 +1393,7 @@
       "Name": "Civilian",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "FINDCRONY",
@@ -1490,9 +1495,9 @@
       "ID": "KILLKAHN",
       "SetID": "a1angca",
       "Name": "Eternal Oblivion",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "LOVECAJA",
@@ -1507,15 +1512,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 141,
+      "Progressed": 142,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2023-12-31T02:30:24.2873986+00:00",
+  "LastChanged_Achievements": "2023-12-31T03:06:26.811439+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:16.9599546+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:23:48.2017181+00:00",
-  "LastUpdate_Achievements": "2023-12-31T02:30:24.2874314+00:00"
+  "LastUpdate_Ratings": "2023-12-31T03:00:12.7744477+00:00",
+  "LastUpdate_Achievements": "2023-12-31T03:06:26.8114793+00:00"
 }

@@ -5,12 +5,12 @@ Rating: 4.76 (Ranked 131)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 69.00% | ~254,517 |
-| The Player Whisperer | 68.00% | ~250,828 |
-| One of Us, One of Us! | 62.00% | ~228,696 |
+| Motivational Speaker | 69.00% | ~254,518 |
+| The Player Whisperer | 68.00% | ~250,829 |
+| One of Us, One of Us! | 62.00% | ~228,697 |
 | First Victory | 55.00% | ~202,876 |
-| Clean Sheet | 54.00% | ~199,187 |
-| #DoneDeal | 54.00% | ~199,187 |
+| Clean Sheet | 54.00% | ~199,188 |
+| #DoneDeal | 54.00% | ~199,188 |
 | Off the Books | 52.00% | ~191,810 |
 | Super-Sub | 52.00% | ~191,810 |
 | Hat-trick | 46.00% | ~169,678 |
@@ -19,9 +19,9 @@ Rating: 4.76 (Ranked 131)
 | Thumping | 40.00% | ~147,546 |
 | Scoring Streak | 40.00% | ~147,546 |
 | Wheeler Dealer | 40.00% | ~147,546 |
-| People Pleaser | 39.00% | ~143,857 |
+| People Pleaser | 39.00% | ~143,858 |
 | Unbeatable! | 38.00% | ~140,169 |
-| One Of Our Own | 36.00% | ~132,791 |
+| One Of Our Own | 36.00% | ~132,792 |
 | They're a Natural | 32.00% | ~118,037 |
 | Record Signing | 32.00% | ~118,037 |
 | Team Performance | 31.00% | ~114,348 |
@@ -42,19 +42,19 @@ Rating: 4.76 (Ranked 131)
 | Drilling Down | 23.00% | ~84,839 |
 | Flavour Of The Month | 23.00% | ~84,839 |
 | The Special One | 23.00% | ~84,839 |
-| What A Goal! | 22.00% | ~81,150 |
+| What A Goal! | 22.00% | ~81,151 |
 | Goal Machine | 21.00% | ~77,462 |
 | Splashing the Cash | 20.00% | ~73,773 |
 | Immovable Object | 20.00% | ~73,773 |
 | Cup Glory! | 20.00% | ~73,773 |
 | Irresistible Force | 18.00% | ~66,396 |
 | Do The Double | 17.00% | ~62,707 |
-| Cash to Burn | 16.00% | ~59,018 |
+| Cash to Burn | 16.00% | ~59,019 |
 | Top Form | 14.00% | ~51,641 |
 | Window Shopping | 14.00% | ~51,641 |
-| A Game of Two Halves | 13.00% | ~47,952 |
+| A Game of Two Halves | 13.00% | ~47,953 |
 | You're Up! | 12.00% | ~44,264 |
-| Money, Money, Money | 10.00% | ~36,886 |
+| Money, Money, Money | 10.00% | ~36,887 |
 | Best in the World | 9.00% | ~33,198 |
 | Clean Sheet Network | 8.00% | ~29,509 |
 | First Goal Network | 8.00% | ~29,509 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 131)
 | 200 Club | 0.10% | ~369 |
 | Draft Value | 0.10% | ~369 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 368,865 (Ranked 50)  
+Progressed: 368,866 (Ranked 50)  
 Completed: 29 (0.01%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -361,7 +361,7 @@ Completed: 29 (0.01%) (Ranked 369)
 | 2023-12-28 | 368,338 | 29 |
 | 2023-12-29 | 368,574 | 29 |
 | 2023-12-30 | 368,828 | 29 |
-| 2023-12-31 | 368,865 | 29 |
+| 2023-12-31 | 368,866 | 29 |
 ## Awards
 Max (Diverse Characters): 1,329  (Ranked 140)  
 Sum: 9,140 (Ranked 100)  

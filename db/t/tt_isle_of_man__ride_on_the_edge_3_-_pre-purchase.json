@@ -3,8 +3,8 @@
   "Name": "TT Isle of Man: Ride on the Edge 3",
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 408,
-  "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239,
+  "EOS_Progressed": 240,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.84,
+  "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
     {
       "Time": "2023-05-09T11:06:33.5022357+00:00",
@@ -1145,6 +1145,11 @@
       "Time": "2023-12-30T20:06:08.2911488+00:00",
       "NumProgressed": 239,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-12-31T03:07:56.8868519+00:00",
+      "NumProgressed": 240,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1418,9 +1423,9 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "gagif7",
       "Name": "You\u0027re Going Down!",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -1467,14 +1472,14 @@
     {
       "ID": "gagif7",
       "IsBase": true,
-      "Progressed": 239,
+      "Progressed": 240,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-12-31T02:32:29.6686272+00:00",
+  "LastChanged_Achievements": "2023-12-31T03:07:56.8868515+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:15.8225499+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:21:37.6864206+00:00",
-  "LastUpdate_Achievements": "2023-12-31T02:32:29.6686613+00:00"
+  "LastUpdate_Ratings": "2023-12-31T02:58:44.5727474+00:00",
+  "LastUpdate_Achievements": "2023-12-31T03:07:56.8868833+00:00"
 }

@@ -1530,9 +1530,9 @@
       "ID": "ACH_ARE_YOU_READY_NOW",
       "SetID": "biiejkc",
       "Name": "Are you ready now?",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_CHUM_BUCKET_BRAIN",
@@ -1642,9 +1642,9 @@
       "ID": "ACH_ROBO_SANDY_BOSS",
       "SetID": "biiejkc",
       "Name": "Sweet Victory",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -1786,8 +1786,8 @@
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-25T19:58:37.6899582+00:00",
-  "LastChanged_Achievements": "2023-12-31T02:32:40.7913315+00:00",
+  "LastChanged_Achievements": "2023-12-31T03:08:04.9168124+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:22:18.7399261+00:00",
-  "LastUpdate_Achievements": "2023-12-31T02:32:40.7913497+00:00"
+  "LastUpdate_Ratings": "2023-12-31T02:59:13.025638+00:00",
+  "LastUpdate_Achievements": "2023-12-31T03:08:04.9168456+00:00"
 }

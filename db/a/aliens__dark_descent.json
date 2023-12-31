@@ -513,9 +513,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 5507,
+  "EOS_Progressed": 5508,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 560,
+  "EOS_NewPlayers": 557,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8333,6 +8333,11 @@
       "Time": "2023-12-31T01:54:29.8256711+00:00",
       "NumProgressed": 5507,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-31T03:06:12.6664204+00:00",
+      "NumProgressed": 5508,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -8376,7 +8381,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2478
+      "UsersEstimate": 2479
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -8400,7 +8405,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -8464,7 +8469,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3249
+      "UsersEstimate": 3250
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -8496,7 +8501,7 @@
       "Name": "El Riesgo Siempre Vive",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "ACH_MAX_MEDIC",
@@ -8544,7 +8549,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2478
+      "UsersEstimate": 2479
     },
     {
       "ID": "ACH_MISSION_03",
@@ -8568,7 +8573,7 @@
       "Name": "Where It All Begun",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1872
+      "UsersEstimate": 1873
     },
     {
       "ID": "ACH_MISSION_06",
@@ -8608,7 +8613,7 @@
       "Name": "The Spire",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "ACH_MISSION_11",
@@ -8648,7 +8653,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 4240
+      "UsersEstimate": 4241
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -8664,7 +8669,7 @@
       "Name": "People Person",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 2643
+      "UsersEstimate": 2644
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -8680,7 +8685,7 @@
       "Name": "Recouped Investment",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1763
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -8696,14 +8701,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 2698
+      "UsersEstimate": 2699
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 5507,
+      "Progressed": 5508,
       "Completed": 3
     }
   ],
@@ -8711,8 +8716,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-12-30T22:58:40.5112806+00:00",
-  "LastChanged_Achievements": "2023-12-31T02:30:04.4109725+00:00",
+  "LastChanged_Achievements": "2023-12-31T03:06:12.66642+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:52.952602+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:22:26.6425073+00:00",
-  "LastUpdate_Achievements": "2023-12-31T02:30:04.4110439+00:00"
+  "LastUpdate_Ratings": "2023-12-31T02:59:18.4522302+00:00",
+  "LastUpdate_Achievements": "2023-12-31T03:06:12.6664908+00:00"
 }

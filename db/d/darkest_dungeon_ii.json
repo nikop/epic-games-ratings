@@ -10344,9 +10344,9 @@
       "Count": 1071
     }
   ],
-  "EOS_Progressed": 130872,
+  "EOS_Progressed": 130874,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1389,
+  "EOS_NewPlayers": 1388,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37604,6 +37604,11 @@
       "Time": "2023-12-31T02:34:46.2472657+00:00",
       "NumProgressed": 130872,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-12-31T03:11:12.0412185+00:00",
+      "NumProgressed": 130874,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37669,9 +37674,9 @@
       "ID": "altar_of_hope_unlock_hero_leper",
       "SetID": "64l4lke",
       "Name": "Long Live the King",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2617
+      "UsersEstimate": 3926
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -38159,7 +38164,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -38246,21 +38251,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 130872,
+      "Progressed": 130874,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5741,
+      "Progressed": 5743,
       "Completed": 817
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-30T18:59:12.1742166+00:00",
-  "LastChanged_Achievements": "2023-12-31T02:34:46.2472655+00:00",
+  "LastChanged_Achievements": "2023-12-31T03:11:12.0412179+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:22:08.6681945+00:00",
-  "LastUpdate_Achievements": "2023-12-31T02:34:46.2474447+00:00"
+  "LastUpdate_Ratings": "2023-12-31T02:59:05.7594491+00:00",
+  "LastUpdate_Achievements": "2023-12-31T03:11:12.0413792+00:00"
 }

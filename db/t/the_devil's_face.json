@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 618,
+  "EOS_Progressed": 619,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
@@ -2714,6 +2714,11 @@
       "Time": "2023-12-31T02:30:32.4124411+00:00",
       "NumProgressed": 618,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-12-31T03:06:32.5427231+00:00",
+      "NumProgressed": 619,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2723,9 +2728,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "296pn27",
       "Name": "The gateway to the underworld",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 309
+      "UsersEstimate": 316
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2733,7 +2738,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2741,7 +2746,7 @@
       "Name": "The crucifixion",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -2789,7 +2794,7 @@
       "Name": "This looks really bad",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -2829,21 +2834,21 @@
       "Name": "Flagellation",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     }
   ],
   "AchievementSets": [
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 618,
+      "Progressed": 619,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-12-31T02:30:32.4124409+00:00",
+  "LastChanged_Achievements": "2023-12-31T03:06:32.5427227+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:37.2024016+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:24:11.9942618+00:00",
-  "LastUpdate_Achievements": "2023-12-31T02:30:32.4124778+00:00"
+  "LastUpdate_Ratings": "2023-12-31T03:00:28.7087409+00:00",
+  "LastUpdate_Achievements": "2023-12-31T03:06:32.542748+00:00"
 }

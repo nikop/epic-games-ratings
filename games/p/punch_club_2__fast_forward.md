@@ -51,7 +51,7 @@
 | Get out of my apartment! | 34.00% | ~171 |
 | The die is cast | 34.00% | ~171 |
 | Gang wrangler | 32.00% | ~161 |
-| Seashell hunter | 31.00% | ~156 |
+| Seashell hunter | 32.00% | ~161 |
 | Undercover robot | 31.00% | ~156 |
 | Problems of cyborgs | 30.00% | ~151 |
 | Absolute Champion! | 30.00% | ~151 |

@@ -564,9 +564,9 @@
       "ID": "Cast_First_Spell",
       "SetID": "7b9f97e",
       "Name": "A kind of Magic",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Circle_Page",
@@ -588,9 +588,9 @@
       "ID": "Craft_First_Potion",
       "SetID": "7b9f97e",
       "Name": "Alchemist\u0027s Apprentice",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Craft_First_Undead",
@@ -684,17 +684,17 @@
       "ID": "First_LevelUp",
       "SetID": "7b9f97e",
       "Name": "First to the post",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "First_Node_Meld",
       "SetID": "7b9f97e",
       "Name": "Connected",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Harvest_First_Plant",
@@ -1093,8 +1093,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-12-31T02:34:35.0842512+00:00",
+  "LastChanged_Achievements": "2023-12-31T03:11:04.1045323+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:20.4706393+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:23:32.8381602+00:00",
-  "LastUpdate_Achievements": "2023-12-31T02:34:35.0843068+00:00"
+  "LastUpdate_Ratings": "2023-12-31T03:00:02.3939724+00:00",
+  "LastUpdate_Achievements": "2023-12-31T03:11:04.1045946+00:00"
 }

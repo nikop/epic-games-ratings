@@ -2,12 +2,12 @@
   "ID": "de554cff12704db4a900032bbd194d7e",
   "Name": "EVE Online",
   "ProductSlug": "eve-online",
-  "Ranking_Rating": 927,
+  "Ranking_Rating": 916,
   "Ranking_Popularity": 146,
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewPlayers": 565,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-09-23T13:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.23,
+  "Rating": 4.24,
   "NumberOfRatings": 1408,
   "RatingHistory": [
     {
@@ -3346,10 +3346,16 @@
       "Rating": 4.23,
       "NumberOfAwards": 2785,
       "NumberOfAwardsMax": 1170
+    },
+    {
+      "Time": "2023-12-31T03:01:33.9502192+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 2787,
+      "NumberOfAwardsMax": 1170
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2785,
+  "NumberOfAwards": 2787,
   "NumberOfAwardsMax": 1170,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3363,7 +3369,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 185
+      "Count": 186
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3393,7 +3399,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 190
+      "Count": 191
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3431,8 +3437,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:38.4001765+00:00",
-  "LastChanged": "2023-12-30T08:59:40.8126967+00:00",
+  "LastChanged": "2023-12-31T03:01:33.950219+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:43.4251625+00:00",
-  "LastUpdate_Ratings": "2023-12-31T02:25:47.1308249+00:00",
-  "LastUpdate_Achievements": "2023-12-31T02:34:01.2465473+00:00"
+  "LastUpdate_Ratings": "2023-12-31T03:01:33.9502195+00:00",
+  "LastUpdate_Achievements": "2023-12-31T03:10:40.523178+00:00"
 }
