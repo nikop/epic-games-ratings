@@ -103,7 +103,7 @@
 | 100 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.57% |
 | 100 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.57% |
 | 103 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.53% |
-| 104 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.46% |
+| 104 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.45% |
 | 105 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.41% |
 | 106 | [Bunny Park](games/b/bunny_park.md) | 3.26% |
 | 107 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.12% |
@@ -124,8 +124,8 @@
 | 122 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.67% |
 | 123 | [Mega City Force](games/m/mega_city_police.md) | 2.63% |
 | 124 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 2.56% |
-| 124 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.56% |
-| 126 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.55% |
+| 125 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.55% |
+| 125 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.55% |
 | 127 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 128 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.48% |
 | 129 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.45% |
@@ -163,7 +163,7 @@
 | 161 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.19% |
 | 162 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 1.17% |
 | 162 | [Iron Danger](games/i/iron_danger.md) | 1.17% |
-| 162 | [Ten Dates](games/t/ten_dates.md) | 1.17% |
+| 164 | [Ten Dates](games/t/ten_dates.md) | 1.16% |
 | 165 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.14% |
 | 166 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.13% |
 | 166 | [The Devil's Face](games/t/the_devil's_face.md) | 1.13% |
@@ -187,7 +187,7 @@
 | 185 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 0.86% |
 | 186 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.85% |
 | 187 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 0.84% |
-| 187 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.84% |
+| 188 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.83% |
 | 189 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
 | 189 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.80% |
 | 191 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.78% |
@@ -354,20 +354,20 @@
 | 350 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.03% |
 | 350 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 350 | [Old World](games/o/old_world.md) | 0.03% |
-| 350 | [Saints Row](games/s/saints_row.md) | 0.03% |
 | 350 | [Saturnalia](games/s/saturnalia.md) | 0.03% |
 | 350 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 0.03% |
 | 350 | [Tropico 6](games/t/tropico_6.md) | 0.03% |
-| 359 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
-| 359 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 0.02% |
-| 359 | [Arcadegeddon](games/a/arcadegeddon.md) | 0.02% |
-| 359 | [Deceive Inc.](games/d/deceive_inc..md) | 0.02% |
-| 359 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
-| 359 | [Good Company](games/g/good_company.md) | 0.02% |
-| 359 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.02% |
-| 359 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
-| 359 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
-| 359 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 0.02% |
+| 358 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
+| 358 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 0.02% |
+| 358 | [Arcadegeddon](games/a/arcadegeddon.md) | 0.02% |
+| 358 | [Deceive Inc.](games/d/deceive_inc..md) | 0.02% |
+| 358 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
+| 358 | [Good Company](games/g/good_company.md) | 0.02% |
+| 358 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.02% |
+| 358 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
+| 358 | [Saints Row](games/s/saints_row.md) | 0.02% |
+| 358 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
+| 358 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 0.02% |
 | 369 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
 | 369 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
 | 369 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 0.01% |
