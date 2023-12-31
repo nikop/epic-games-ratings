@@ -25,7 +25,7 @@
 | 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.49% |
 | 24 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.23% |
 | 25 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
-| 26 | [The Riflemen](games/t/the_riflemen.md) | 18.67% |
+| 26 | [The Riflemen](games/t/the_riflemen.md) | 18.66% |
 | 27 | [Island Cities](games/i/island_cities.md) | 16.63% |
 | 28 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 29 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.30% |
@@ -53,7 +53,7 @@
 | 51 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.78% |
 | 52 | [Ravenlok](games/r/ravenlok.md) | 7.74% |
 | 53 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 54 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.67% |
+| 54 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.66% |
 | 55 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.50% |
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 57 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 7.41% |
@@ -68,7 +68,7 @@
 | 66 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 66 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 6.25% |
 | 68 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
-| 69 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.02% |
+| 69 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.01% |
 | 70 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 5.88% |
 | 71 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.80% |
 | 72 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.68% |
@@ -76,12 +76,12 @@
 | 74 | [Bugsnax](games/b/bugsnax.md) | 4.89% |
 | 75 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 4.88% |
 | 76 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.85% |
-| 77 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.81% |
+| 77 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.82% |
 | 78 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 4.76% |
 | 78 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 4.76% |
 | 80 | [ZZT!](games/z/zzt!.md) | 4.69% |
-| 81 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.62% |
-| 82 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.55% |
+| 81 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.55% |
+| 81 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.55% |
 | 83 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.46% |
 | 84 | [JARS](games/j/jars.md) | 4.42% |
 | 85 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 4.41% |
@@ -152,8 +152,8 @@
 | 150 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.38% |
 | 151 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.37% |
 | 152 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.35% |
-| 153 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.33% |
-| 154 | [Chorus](games/c/chorus.md) | 1.32% |
+| 153 | [Chorus](games/c/chorus.md) | 1.32% |
+| 153 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.32% |
 | 155 | [Poosh XL](games/p/poosh_xl.md) | 1.30% |
 | 156 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.25% |
 | 156 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.25% |
@@ -208,11 +208,11 @@
 | 205 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 0.60% |
 | 207 | [Grindstone](games/g/grindstone.md) | 0.57% |
 | 207 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.57% |
-| 209 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.56% |
-| 210 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
-| 210 | [Haven](games/h/haven.md) | 0.55% |
-| 212 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.54% |
-| 212 | [The Surge 2](games/t/the_surge_2.md) | 0.54% |
+| 207 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.57% |
+| 210 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.56% |
+| 211 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
+| 211 | [Haven](games/h/haven.md) | 0.55% |
+| 213 | [The Surge 2](games/t/the_surge_2.md) | 0.54% |
 | 214 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
 | 215 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.52% |
 | 215 | [Tails of Iron](games/t/tails_of_iron.md) | 0.52% |
@@ -260,10 +260,10 @@
 | 256 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.28% |
 | 259 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
 | 259 | [Filament](games/f/filament.md) | 0.27% |
-| 261 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.26% |
-| 261 | [GRIME](games/g/grime.md) | 0.26% |
-| 261 | [Remnant 2](games/r/remnant_2.md) | 0.26% |
-| 261 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.26% |
+| 259 | [Remnant 2](games/r/remnant_2.md) | 0.27% |
+| 262 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.26% |
+| 262 | [GRIME](games/g/grime.md) | 0.26% |
+| 262 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.26% |
 | 265 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.25% |
 | 265 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.25% |
 | 267 | [Aegis Descent](games/a/aegis_descent.md) | 0.23% |
