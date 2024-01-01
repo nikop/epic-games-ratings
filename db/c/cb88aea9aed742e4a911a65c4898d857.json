@@ -245,9 +245,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 9441,
+  "EOS_Progressed": 9450,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1919,
+  "EOS_NewPlayers": 1904,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3275,6 +3275,11 @@
       "Time": "2024-01-01T21:10:05.0947651+00:00",
       "NumProgressed": 9441,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T22:09:37.4392055+00:00",
+      "NumProgressed": 9450,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3287,7 +3292,7 @@
       "Name": "Conspiracy",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "03_TheStolenStar",
@@ -3391,15 +3396,15 @@
       "Name": "Pentakill",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "16_TheRise",
       "SetID": "37a94m8",
       "Name": "The Rise",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 378
+      "UsersEstimate": 472
     },
     {
       "ID": "17_TheExemplar",
@@ -3423,7 +3428,7 @@
       "Name": "Void Wolf",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -3501,9 +3506,9 @@
       "ID": "29_NoStoneUnturned",
       "SetID": "37a94m8",
       "Name": "No Stone Unturned",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 94
     },
     {
       "ID": "30_The GreatestExploration",
@@ -3543,7 +3548,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -3607,15 +3612,15 @@
       "Name": "Iron Judgement",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
       "SetID": "37a94m8",
       "Name": "No Place Like Home",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 284
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -3806,7 +3811,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9441,
+      "Progressed": 9450,
       "Completed": 0
     }
   ],
@@ -3814,8 +3819,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-01T17:00:50.4484389+00:00",
-  "LastChanged_Achievements": "2024-01-01T21:10:05.0947644+00:00",
+  "LastChanged_Achievements": "2024-01-01T22:09:37.439205+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2024-01-01T20:59:39.3888609+00:00",
-  "LastUpdate_Achievements": "2024-01-01T21:10:05.094845+00:00"
+  "LastUpdate_Ratings": "2024-01-01T21:59:36.7475588+00:00",
+  "LastUpdate_Achievements": "2024-01-01T22:09:37.439289+00:00"
 }

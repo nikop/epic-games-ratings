@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 69.00% | ~54,337 |
-| INFUSED WITH LIGHT | 53.00% | ~41,737 |
-| FOXIN' AROUND | 29.00% | ~22,837 |
+| A GUARDIAN FORGOTTEN | 69.00% | ~54,338 |
+| INFUSED WITH LIGHT | 53.00% | ~41,738 |
+| FOXIN' AROUND | 29.00% | ~22,838 |
 | FETCH | 28.00% | ~22,050 |
 | BLOOMS OF LIGHT | 26.00% | ~20,475 |
 | AWAKEN | 22.00% | ~17,325 |
 | BEST FRIENDS | 22.00% | ~17,325 |
 | SPIRIT BARK | 22.00% | ~17,325 |
-| ERADICATE | 21.00% | ~16,537 |
+| ERADICATE | 21.00% | ~16,538 |
 | GARDEN OF LIGHT | 18.00% | ~14,175 |
-| SPIRIT FORM | 17.00% | ~13,387 |
+| SPIRIT FORM | 17.00% | ~13,388 |
 | UPROOTING DARKNESS | 16.00% | ~12,600 |
 | WRITTEN IN STONE | 16.00% | ~12,600 |
 | WEIGHTLESS | 12.00% | ~9,450 |
-| SPIRIT DASH | 11.00% | ~8,662 |
-| OLD COMPANION | 9.00% | ~7,087 |
-| PLAGUE DOCTOR | 9.00% | ~7,087 |
+| SPIRIT DASH | 11.00% | ~8,663 |
+| OLD COMPANION | 9.00% | ~7,088 |
+| PLAGUE DOCTOR | 9.00% | ~7,088 |
 | MATCH MAKER | 8.00% | ~6,300 |
 | NORTHERN LIGHTS | 8.00% | ~6,300 |
 | SPIRITED AWAY | 8.00% | ~6,300 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~3,150 |
-| ANCIENT HISTORY | 3.00% | ~2,362 |
+| ANCIENT HISTORY | 3.00% | ~2,363 |
 | NONE FORGOTTEN | 2.00% | ~1,575 |
-| KINDRED SPIRITS | 0.60% | ~472 |
+| KINDRED SPIRITS | 0.60% | ~473 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,749 (Ranked 111)  
+Progressed: 78,751 (Ranked 111)  
 Completed: 421 (0.53%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,11 +287,11 @@ Completed: 421 (0.53%) (Ranked 214)
 | 2023-12-29 | 78,379 | 419 |
 | 2023-12-30 | 78,500 | 420 |
 | 2023-12-31 | 78,636 | 420 |
-| 2024-01-01 | 78,749 | 421 |
+| 2024-01-01 | 78,751 | 421 |
 ## Awards
 Max (Extremely Fun): 27  (Ranked 535)  
-Sum: 116 (Ranked 455)  
-Diff (max vs sum): 80  
+Sum: 116 (Ranked 456)  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 27 |

@@ -7,7 +7,7 @@ Number of Ratings: 177  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Friend in Need... | 6.00% | ~422 |
-| Smooth Operator: Madison | 5.00% | ~351 |
+| Smooth Operator: Madison | 5.00% | ~352 |
 | The Brahdyssey | 3.00% | ~211 |
 | Caught in the Act | 3.00% | ~211 |
 | Katherine | 3.00% | ~211 |
@@ -48,13 +48,13 @@ Number of Ratings: 177  (23.09.2022)
 | First Impressions | 0.30% | ~21 |
 | The Harder They Fall...Dood | 0.30% | ~21 |
 | Do You Smell Blood? | 0.30% | ~21 |
+| A Striking Resemblance | 0.30% | ~21 |
 | The Muse: Derek | 0.30% | ~21 |
 | Derezzed | 0.30% | ~21 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~8 |
 | Duck n' Weave | 0.20% | ~14 |
 | I Know Grump-Fu | 0.20% | ~14 |
 | Ronin | 0.20% | ~14 |
-| A Striking Resemblance | 0.20% | ~14 |
 | Howz It Goin Dood | 0.20% | ~14 |
 | La Coochadora | 0.20% | ~14 |
 | Snapped | 0.20% | ~14 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.10% | ~4 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,028 (Ranked 193)  
+Progressed: 7,030 (Ranked 193)  
 Completed: 3 (0.04%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 3 (0.04%) (Ranked 344)
 | 2023-12-29 | 6,969 | 3 |
 | 2023-12-30 | 6,989 | 3 |
 | 2023-12-31 | 7,008 | 3 |
-| 2024-01-01 | 7,028 | 3 |
+| 2024-01-01 | 7,030 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

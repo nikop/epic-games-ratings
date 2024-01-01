@@ -5,7 +5,7 @@
   "Ranking_Rating": 560,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 399,
+  "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 151,
@@ -288,9 +288,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 277,
+  "EOS_Progressed": 279,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1363,6 +1363,11 @@
       "Time": "2024-01-01T19:10:10.2451974+00:00",
       "NumProgressed": 277,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T22:08:54.6386705+00:00",
+      "NumProgressed": 279,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1375,7 +1380,7 @@
       "Name": "Mash Machine",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1405,9 +1410,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1447,15 +1452,15 @@
       "Name": "Cult Following",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
       "SetID": "4n84pon",
       "Name": "Transmitting From Sol-3",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_COP_THROUGH_DONUT",
@@ -1485,9 +1490,9 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1511,7 +1516,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1527,7 +1532,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -1567,7 +1572,7 @@
       "Name": "Freshly Squeezed",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -1599,7 +1604,7 @@
       "Name": "Scuttled",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_KILL_YETI",
@@ -1623,7 +1628,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -1631,7 +1636,7 @@
       "Name": "Upgreatest",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -1647,7 +1652,7 @@
       "Name": "Re-Return of the Clone of the Invasion II-2",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_SKATE_ALBION",
@@ -1711,7 +1716,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1719,14 +1724,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 277,
+      "Progressed": 279,
       "Completed": 1
     }
   ],
@@ -1734,8 +1739,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-31T11:01:39.7283208+00:00",
-  "LastChanged_Achievements": "2024-01-01T21:09:21.6019804+00:00",
+  "LastChanged_Achievements": "2024-01-01T22:08:54.6386697+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-01T20:57:33.2199776+00:00",
-  "LastUpdate_Achievements": "2024-01-01T21:09:21.6020223+00:00"
+  "LastUpdate_Ratings": "2024-01-01T21:57:35.0402975+00:00",
+  "LastUpdate_Achievements": "2024-01-01T22:08:54.638718+00:00"
 }

@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 614)  
+Rating: 4.50 (Ranked 613)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -21,17 +21,17 @@ Rating: 4.50 (Ranked 614)
 | Ghostbuster In Training | 4.00% | ~1,323 |
 | There you are! | 4.00% | ~1,323 |
 | Whoopsie | 4.00% | ~1,323 |
-| Animated | 3.00% | ~992 |
-| Back Off | 3.00% | ~992 |
-| We have the best insurance | 3.00% | ~992 |
-| Ectoplasmic Entity | 3.00% | ~992 |
-| Icing on the Cake | 3.00% | ~992 |
-| Legions | 3.00% | ~992 |
-| Pesky Jerks | 3.00% | ~992 |
-| Right back at ya | 3.00% | ~992 |
-| Seasoned | 3.00% | ~992 |
-| Side Hustle | 3.00% | ~992 |
-| Summoner | 3.00% | ~992 |
+| Animated | 3.00% | ~993 |
+| Back Off | 3.00% | ~993 |
+| We have the best insurance | 3.00% | ~993 |
+| Ectoplasmic Entity | 3.00% | ~993 |
+| Icing on the Cake | 3.00% | ~993 |
+| Legions | 3.00% | ~993 |
+| Pesky Jerks | 3.00% | ~993 |
+| Right back at ya | 3.00% | ~993 |
+| Seasoned | 3.00% | ~993 |
+| Side Hustle | 3.00% | ~993 |
+| Summoner | 3.00% | ~993 |
 | Collector | 2.00% | ~662 |
 | Escape Artist | 2.00% | ~662 |
 | Reckless | 2.00% | ~662 |
@@ -47,7 +47,7 @@ Rating: 4.50 (Ranked 614)
 | Surprise! | 1.00% | ~331 |
 | Terrifying | 1.00% | ~331 |
 | Therapeutic | 0.80% | ~265 |
-| Rift Seeker | 0.60% | ~198 |
+| Rift Seeker | 0.60% | ~199 |
 | Master Collector | 0.50% | ~165 |
 | Ghost Expert | 0.30% | ~99 |
 | Catostrophic Destroyer | 0.20% | ~66 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 614)
 | Ultimate Defense | 0.20% | ~66 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,082 (Ranked 135)  
+Progressed: 33,085 (Ranked 135)  
 Completed: 71 (0.21%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 71 (0.21%) (Ranked 269)
 | 2023-12-29 | 32,915 | 71 |
 | 2023-12-30 | 32,969 | 71 |
 | 2023-12-31 | 33,028 | 71 |
-| 2024-01-01 | 33,082 | 71 |
+| 2024-01-01 | 33,085 | 71 |
 ## Awards
 Max (Great for Beginners): 326  (Ranked 254)  
 Sum: 2,944 (Ranked 185)  

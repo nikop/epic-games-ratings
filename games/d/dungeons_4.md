@@ -24,8 +24,8 @@ Rating: 4.68 (Ranked 262)
 | Minions, Minions! | 55.00% | ~378 |
 | Hard Work | 54.00% | ~371 |
 | The Big Eaty | 54.00% | ~371 |
+| YOU SHALL NOT PASS! | 51.00% | ~350 |
 | “… like son” | 51.00% | ~350 |
-| YOU SHALL NOT PASS! | 50.00% | ~344 |
 | The Cathedral of Light | 48.00% | ~330 |
 | Shame! Shame! Shame! | 48.00% | ~330 |
 | Pure Dynamite! | 45.00% | ~309 |
@@ -34,8 +34,8 @@ Rating: 4.68 (Ranked 262)
 | Mana Cannon | 42.00% | ~289 |
 | All’s Well That Ends Evil | 41.00% | ~282 |
 | The Duel | 38.00% | ~261 |
+| Unstoppable Horde | 35.00% | ~240 |
 | If Looks Could Kill | 35.00% | ~240 |
-| Unstoppable Horde | 34.00% | ~234 |
 | Master of the Undead | 34.00% | ~234 |
 | The Finitude Drill | 33.00% | ~227 |
 | Ghost Pirates? Ghost Heroes! | 30.00% | ~206 |
@@ -44,10 +44,10 @@ Rating: 4.68 (Ranked 262)
 | Forbidden Knowledge | 28.00% | ~192 |
 | Brimstone Shaken, Not Stirred | 28.00% | ~192 |
 | Hungry, Hungry Gorgu! | 27.00% | ~185 |
+| Raiders of the Lost Stone | 27.00% | ~185 |
 | The Rune Sockets of Finitude (Part 1) | 27.00% | ~185 |
 | Stop Tanos! | 26.00% | ~179 |
 | Sabotage! | 26.00% | ~179 |
-| Raiders of the Lost Stone | 26.00% | ~179 |
 | Bonus Evilness | 25.00% | ~172 |
 | The Rune Sockets of Finitude (Part 2) | 25.00% | ~172 |
 | The Last Stand - This Time For Real! | 23.00% | ~158 |

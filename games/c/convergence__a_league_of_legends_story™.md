@@ -5,21 +5,21 @@ Rating: 4.65 (Ranked 322)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 43.00% | ~511 |
-| Rail Rat | 32.00% | ~380 |
+| Time Heals All Wounds | 43.00% | ~512 |
+| Rail Rat | 32.00% | ~381 |
 | The Mysterious Stranger | 31.00% | ~369 |
 | Immaculate Aim | 27.00% | ~321 |
 | The Brass Boss | 26.00% | ~309 |
-| Make Up For Lost Time | 25.00% | ~297 |
-| Time Flies | 25.00% | ~297 |
-| No, Thanks! | 25.00% | ~297 |
-| The Prince in Heels | 25.00% | ~297 |
-| The Harder They Fall | 24.00% | ~285 |
-| Honest Mistake | 24.00% | ~285 |
-| Fast Learner | 24.00% | ~285 |
-| Immaculate Aim | 24.00% | ~285 |
-| The Steel Shadow | 23.00% | ~273 |
-| Breaking Down Barriers | 23.00% | ~273 |
+| Make Up For Lost Time | 25.00% | ~298 |
+| Time Flies | 25.00% | ~298 |
+| No, Thanks! | 25.00% | ~298 |
+| The Prince in Heels | 25.00% | ~298 |
+| Honest Mistake | 25.00% | ~298 |
+| The Harder They Fall | 24.00% | ~286 |
+| Fast Learner | 24.00% | ~286 |
+| Immaculate Aim | 24.00% | ~286 |
+| The Steel Shadow | 23.00% | ~274 |
+| Breaking Down Barriers | 23.00% | ~274 |
 | The Wicked Twins | 22.00% | ~262 |
 | Right On Time | 21.00% | ~250 |
 | Like Clockwork | 21.00% | ~250 |
@@ -31,7 +31,7 @@ Rating: 4.65 (Ranked 322)
 | The Man Who Shattered Time | 18.00% | ~214 |
 | The Family Fortune | 18.00% | ~214 |
 | Whiz Kid | 15.00% | ~178 |
-| Good Neighbor | 14.00% | ~166 |
+| Good Neighbor | 14.00% | ~167 |
 | Family Memories | 13.00% | ~155 |
 | Cartographer | 13.00% | ~155 |
 | Ask Questions Later | 13.00% | ~155 |
@@ -49,7 +49,7 @@ Rating: 4.65 (Ranked 322)
 | Golem Hunter | 7.00% | ~83 |
 | Clovemary for Remembering | 6.00% | ~71 |
 | Hexlock for Protection | 6.00% | ~71 |
-| Rungs Was Right | 5.00% | ~59 |
+| Rungs Was Right | 5.00% | ~60 |
 | Wunderkind | 2.00% | ~24 |
 | Fitting In | 2.00% | ~24 |
 | Thinking Two Steps Ahead | 1.00% | ~12 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 322)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,189 (Ranked 281)  
+Progressed: 1,190 (Ranked 281)  
 Completed: 6 (0.50%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 6 (0.50%) (Ranked 218)
 | 2023-12-29 | 1,145 | 6 |
 | 2023-12-30 | 1,165 | 6 |
 | 2023-12-31 | 1,175 | 6 |
-| 2024-01-01 | 1,189 | 6 |
+| 2024-01-01 | 1,190 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

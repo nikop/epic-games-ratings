@@ -402,9 +402,9 @@
       "ID": "32",
       "SetID": "5jnn47e",
       "Name": "It\u0027s called negotiating!",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "33",
@@ -433,8 +433,8 @@
   ],
   "FirstSeen": "2023-11-22T17:57:35.5239648+00:00",
   "FirstSeenAchievements": "2023-10-05T17:02:30.1575422+00:00",
-  "LastChanged_Achievements": "2024-01-01T21:06:48.434173+00:00",
+  "LastChanged_Achievements": "2024-01-01T22:06:24.971694+00:00",
   "LastUpdate_AppInfo": "2023-12-28T22:56:57.8429982+00:00",
-  "LastUpdate_Ratings": "2024-01-01T21:00:37.5747462+00:00",
-  "LastUpdate_Achievements": "2024-01-01T21:06:48.4341932+00:00"
+  "LastUpdate_Ratings": "2024-01-01T22:00:32.6632494+00:00",
+  "LastUpdate_Achievements": "2024-01-01T22:06:24.9717132+00:00"
 }

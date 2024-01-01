@@ -4,7 +4,7 @@
   "ProductSlug": "chuchel-203808",
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 400,
+  "EOS_Progressed": 401,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 2,
@@ -1304,6 +1304,11 @@
       "Time": "2024-01-01T20:08:52.0945915+00:00",
       "NumProgressed": 400,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T22:06:26.9337197+00:00",
+      "NumProgressed": 401,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1322,17 +1327,17 @@
       "ID": "ach2",
       "SetID": "796kfpa",
       "Name": "Blabber",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 145,
-      "UsersEstimate": 200
+      "UsersEstimate": 196
     },
     {
       "ID": "ach3",
       "SetID": "796kfpa",
       "Name": "Blue Bean",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 145,
-      "UsersEstimate": 20
+      "UsersEstimate": 16
     },
     {
       "ID": "ach4",
@@ -1371,14 +1376,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 400,
+      "Progressed": 401,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-01T21:06:50.431083+00:00",
+  "LastChanged_Achievements": "2024-01-01T22:06:26.9337191+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:07.636228+00:00",
-  "LastUpdate_Ratings": "2024-01-01T20:58:21.111189+00:00",
-  "LastUpdate_Achievements": "2024-01-01T21:06:50.4311036+00:00"
+  "LastUpdate_Ratings": "2024-01-01T21:58:19.4179237+00:00",
+  "LastUpdate_Achievements": "2024-01-01T22:06:26.9337393+00:00"
 }

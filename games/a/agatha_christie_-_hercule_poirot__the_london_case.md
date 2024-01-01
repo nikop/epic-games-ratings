@@ -15,16 +15,16 @@
 | Impossible is possible | 48.00% | ~41 |
 | Arthur Hastings | 48.00% | ~41 |
 | The Missing Magdalene | 47.00% | ~40 |
-| Everything matters | 42.00% | ~36 |
-| An expert mediator | 41.00% | ~35 |
-| DI Hardwicke | 41.00% | ~35 |
-| Order and method | 36.00% | ~31 |
-| Betty Allen | 36.00% | ~31 |
-| The Investigation Begins | 34.00% | ~29 |
-| Ms. Camilla B. Culsham | 30.00% | ~26 |
-| Irene Court-Smyth | 30.00% | ~26 |
-| An odd series of events | 29.00% | ~25 |
-| The Apartment | 29.00% | ~25 |
+| Everything matters | 43.00% | ~37 |
+| An expert mediator | 42.00% | ~36 |
+| DI Hardwicke | 42.00% | ~36 |
+| Order and method | 37.00% | ~32 |
+| Betty Allen | 37.00% | ~32 |
+| The Investigation Begins | 35.00% | ~30 |
+| Ms. Camilla B. Culsham | 33.00% | ~28 |
+| Irene Court-Smyth | 33.00% | ~28 |
+| An odd series of events | 31.00% | ~27 |
+| The Apartment | 31.00% | ~27 |
 | Nathaniel Dryden | 27.00% | ~23 |
 | A rude awakening | 26.00% | ~22 |
 | Bartholomew | 26.00% | ~22 |

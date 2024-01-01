@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 3796,
+  "Ranking_EOS_NewCompleters": 3797,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3719,9 +3719,9 @@
       "Count": 338
     }
   ],
-  "EOS_Progressed": 19916,
+  "EOS_Progressed": 19918,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 679,
+  "EOS_NewPlayers": 676,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -18039,6 +18039,11 @@
       "Time": "2024-01-01T21:04:25.3338094+00:00",
       "NumProgressed": 19916,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-01T22:04:06.5547982+00:00",
+      "NumProgressed": 19918,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18059,7 +18064,7 @@
       "Name": "Feeding The People",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "AllNeeds",
@@ -18131,7 +18136,7 @@
       "Name": "Homesick",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "WinFirstGame",
@@ -18211,7 +18216,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "WinNearFishmen",
@@ -18259,7 +18264,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "WinNearOutpost",
@@ -18267,7 +18272,7 @@
       "Name": "Royal Outpost",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "WinNearRuins",
@@ -18307,7 +18312,7 @@
       "Name": "Watchtower",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "WinOnCoral",
@@ -18345,9 +18350,9 @@
       "ID": "WinPrestige10",
       "SetID": "cfbk359",
       "Name": "Prestigious Expedition",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 80
     },
     {
       "ID": "WinPrestige20",
@@ -18363,7 +18368,7 @@
       "Name": "A Real Challenge",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "WinWIthCaches",
@@ -18411,7 +18416,7 @@
       "Name": "Like a Machine",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "WinWithTradeRoutes",
@@ -18425,9 +18430,9 @@
       "ID": "WinWithoutDeath",
       "SetID": "cfbk359",
       "Name": "No Deaths",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1195
+      "UsersEstimate": 1394
     },
     {
       "ID": "WinWithoutOrders",
@@ -18507,7 +18512,7 @@
       "Name": "Untamed Wilds",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "WinWithFoxes",
@@ -18522,15 +18527,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19916,
+      "Progressed": 19918,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-01T18:58:21.8755179+00:00",
-  "LastChanged_Achievements": "2024-01-01T21:04:25.3338087+00:00",
+  "LastChanged_Achievements": "2024-01-01T22:04:06.5547974+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2024-01-01T20:57:51.7052144+00:00",
-  "LastUpdate_Achievements": "2024-01-01T21:04:25.3339257+00:00"
+  "LastUpdate_Ratings": "2024-01-01T21:57:52.7453018+00:00",
+  "LastUpdate_Achievements": "2024-01-01T22:04:06.554972+00:00"
 }

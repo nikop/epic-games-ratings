@@ -265,9 +265,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 1227,
+  "EOS_Progressed": 1229,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3405,6 +3405,11 @@
       "Time": "2024-01-01T21:06:44.3879032+00:00",
       "NumProgressed": 1227,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-01T22:06:21.118629+00:00",
+      "NumProgressed": 1229,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3433,7 +3438,7 @@
       "Name": "Anthropic Hills",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "Archaeologist",
@@ -3455,9 +3460,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 380
+      "UsersEstimate": 393
     },
     {
       "ID": "BreakTheLoop",
@@ -3513,7 +3518,7 @@
       "Name": "Discovery",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "EasternWetlands",
@@ -3537,7 +3542,7 @@
       "Name": "Excellent",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "FloodedValley",
@@ -3617,7 +3622,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "Mnemosyne",
@@ -3633,7 +3638,7 @@
       "Name": "Museum Explorer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "MuseumVisitor",
@@ -3641,7 +3646,7 @@
       "Name": "Museum Visitor",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "NewBeginning",
@@ -3673,7 +3678,7 @@
       "Name": "Overload",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "Persistent",
@@ -3681,7 +3686,7 @@
       "Name": "Persistent",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "PrometheusUnbound",
@@ -3697,7 +3702,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "RemnantsOfThePast",
@@ -3705,7 +3710,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "RenaissanceRobot",
@@ -3719,9 +3724,9 @@
       "ID": "ScientiaVincereTenebras",
       "SetID": "1n308hc",
       "Name": "Scientia Vincere Tenebras",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 135
+      "UsersEstimate": 123
     },
     {
       "ID": "Signatory",
@@ -3809,7 +3814,7 @@
       "Name": "The Spark",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "TheThiefOfFire",
@@ -3825,7 +3830,7 @@
       "Name": "The Word Endures",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "TouchGrass",
@@ -3833,7 +3838,7 @@
       "Name": "Touch Grass",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "TrevorsBiographer",
@@ -3857,7 +3862,7 @@
       "Name": "Wanderers",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "WesternDelta",
@@ -3888,7 +3893,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1227,
+      "Progressed": 1229,
       "Completed": 2
     }
   ],
@@ -3896,8 +3901,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-01T16:59:26.0585046+00:00",
-  "LastChanged_Achievements": "2024-01-01T21:06:44.3879026+00:00",
+  "LastChanged_Achievements": "2024-01-01T22:06:21.1186285+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2024-01-01T20:58:42.4157655+00:00",
-  "LastUpdate_Achievements": "2024-01-01T21:06:44.3879594+00:00"
+  "LastUpdate_Ratings": "2024-01-01T21:58:41.7799636+00:00",
+  "LastUpdate_Achievements": "2024-01-01T22:06:21.1187066+00:00"
 }

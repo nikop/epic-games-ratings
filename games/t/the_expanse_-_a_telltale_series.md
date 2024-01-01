@@ -5,27 +5,27 @@ Rating: 4.54 (Ranked 543)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 16.00% | ~2,881 |
+| Oyedang, Kopengs | 16.00% | ~2,882 |
 | Captain Drummer | 13.00% | ~2,341 |
-| Bosmang | 12.00% | ~2,160 |
-| Celebrations are in Order | 12.00% | ~2,160 |
-| The Pit and the Pirates | 11.00% | ~1,980 |
-| Martian Music | 11.00% | ~1,980 |
-| Drone Dodger | 11.00% | ~1,980 |
-| Impossible Objects | 11.00% | ~1,980 |
-| Spore Taste | 10.00% | ~1,800 |
-| Stogie for Fogey | 9.00% | ~1,620 |
-| Safe Cracker | 9.00% | ~356 |
-| Zen Master | 9.00% | ~356 |
-| Call it Even | 8.00% | ~1,440 |
+| Bosmang | 12.00% | ~2,161 |
+| Celebrations are in Order | 12.00% | ~2,161 |
+| The Pit and the Pirates | 11.00% | ~1,981 |
+| Martian Music | 11.00% | ~1,981 |
+| Drone Dodger | 11.00% | ~1,981 |
+| Impossible Objects | 11.00% | ~1,981 |
+| Stogie for Fogey | 10.00% | ~1,801 |
+| Spore Taste | 10.00% | ~1,801 |
+| Safe Cracker | 9.00% | ~357 |
+| Zen Master | 9.00% | ~357 |
+| Call it Even | 8.00% | ~1,441 |
 | Madame Undersecretary | 8.00% | ~317 |
-| Data Archivist | 7.00% | ~1,260 |
-| Drug Gifter | 7.00% | ~1,260 |
-| Heal Thy Medic | 7.00% | ~1,260 |
+| Data Archivist | 7.00% | ~1,261 |
+| Drug Gifter | 7.00% | ~1,261 |
+| Heal Thy Medic | 7.00% | ~1,261 |
 | Keep Arjun in Check | 7.00% | ~277 |
-| Thorston Mayer | 6.00% | ~1,080 |
-| Khan's Revenge | 6.00% | ~1,080 |
-| Master Negotiator | 6.00% | ~237 |
+| Thorston Mayer | 6.00% | ~1,081 |
+| Khan's Revenge | 6.00% | ~1,081 |
+| Master Negotiator | 6.00% | ~238 |
 | Doctor Approved | 5.00% | ~900 |
 | Bottoms up! | 5.00% | ~900 |
 | Data Logger | 4.00% | ~720 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 543)
 | Scavenger Star | 0.30% | ~54 |
 | Data Collector | 0.20% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,004 (Ranked 156)  
+Progressed: 18,010 (Ranked 156)  
 Completed: 58 (0.32%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 58 (0.32%) (Ranked 246)
 | 2023-12-29 | 17,756 | 57 |
 | 2023-12-30 | 17,838 | 57 |
 | 2023-12-31 | 17,926 | 58 |
-| 2024-01-01 | 18,004 | 58 |
+| 2024-01-01 | 18,010 | 58 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

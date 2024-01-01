@@ -26,8 +26,8 @@ Rating: 4.28 (Ranked 885)
 | That'll Come In Handy... | 0.70% | ~303 |
 | Four Legged Friend | 0.50% | ~216 |
 | Oh God, Mother! Blood! Blood! | 0.50% | ~216 |
+| Ice To See You | 0.50% | ~216 |
 | Smack My Imp Up | 0.50% | ~216 |
-| Ice To See You | 0.40% | ~173 |
 | Vroll With It | 0.30% | ~130 |
 | Swift of Foot, Keen of Blade | 0.30% | ~130 |
 | Flame Retardant | 0.20% | ~87 |
@@ -35,7 +35,7 @@ Rating: 4.28 (Ranked 885)
 | Heart Of Steel | 0.10% | ~43 |
 | Death or Glory | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,294 (Ranked 131)  
+Progressed: 43,295 (Ranked 131)  
 Completed: 30 (0.07%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 30 (0.07%) (Ranked 321)
 | 2023-12-29 | 43,073 | 30 |
 | 2023-12-30 | 43,147 | 30 |
 | 2023-12-31 | 43,232 | 30 |
-| 2024-01-01 | 43,294 | 30 |
+| 2024-01-01 | 43,295 | 30 |
 ## Awards
 Max (Great Boss Battles): 128  (Ranked 342)  
 Sum: 128 (Ranked 447)  

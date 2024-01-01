@@ -29,7 +29,7 @@ Rating: 4.56 (Ranked 503)
 | Return Power To The Depths | 0.90% | ~21 |
 | Defeat Ratnor Rodentson | 0.80% | ~18 |
 | Fix the Travellers Wagon | 0.80% | ~18 |
-| Defeat the Grub Buster | 0.70% | ~7 |
+| Defeat the Grub Buster | 0.80% | ~8 |
 | Defeat the Stalker Queen | 0.70% | ~7 |
 | Return the Statues | 0.60% | ~14 |
 | Complete the Chefs Book | 0.60% | ~14 |

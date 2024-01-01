@@ -4,7 +4,7 @@
   "ProductSlug": "sands-of-aura",
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 429,
+  "Ranking_EOS_NewPlayers": 430,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -754,9 +754,9 @@
       "ID": "COLLECT_ALL_WEAPON_HEADS",
       "SetID": "cm0d613",
       "Name": "Bladesmith",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "COMPLETE_ALAIRA_STORY",
@@ -1123,8 +1123,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2024-01-01T21:04:11.7941432+00:00",
+  "LastChanged_Achievements": "2024-01-01T22:03:53.5802744+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:22.6338315+00:00",
-  "LastUpdate_Ratings": "2024-01-01T21:03:07.4184525+00:00",
-  "LastUpdate_Achievements": "2024-01-01T21:04:11.7941805+00:00"
+  "LastUpdate_Ratings": "2024-01-01T22:00:50.1965416+00:00",
+  "LastUpdate_Achievements": "2024-01-01T22:03:53.5803209+00:00"
 }

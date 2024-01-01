@@ -4,7 +4,7 @@
   "ProductSlug": "payday-3",
   "Ranking_Rating": 1036,
   "Ranking_Popularity": 560,
-  "Ranking_PopularitySum": 514,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 574,
@@ -583,10 +583,16 @@
       "Rating": 4,
       "NumberOfAwards": 43,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2024-01-01T21:58:53.7758639+00:00",
+      "Rating": 4,
+      "NumberOfAwards": 64,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43,
+  "NumberOfAwards": 64,
   "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Realistic Visuals",
   "Tags": [
@@ -600,6 +606,12 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
       "Count": 21
     }
   ],
@@ -615,8 +627,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-21T15:59:03.5169673+00:00",
   "FirstSeenRating": "2023-09-22T23:59:41.3450917+00:00",
-  "LastChanged": "2024-01-01T19:59:58.3400053+00:00",
+  "LastChanged": "2024-01-01T21:58:53.7758637+00:00",
   "LastUpdate_AppInfo": "2023-12-29T08:57:20.4960097+00:00",
-  "LastUpdate_Ratings": "2024-01-01T20:58:55.136051+00:00",
-  "LastUpdate_Achievements": "2024-01-01T21:06:01.2185625+00:00"
+  "LastUpdate_Ratings": "2024-01-01T21:58:53.7758642+00:00",
+  "LastUpdate_Achievements": "2024-01-01T22:05:40.085355+00:00"
 }

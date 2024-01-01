@@ -6,8 +6,8 @@ Rating: 4.58 (Ranked 465)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 32.00% | ~1,244 |
-| Sputnik 2049 | 28.00% | ~1,088 |
-| Infinite Growth... | 27.00% | ~1,049 |
+| Sputnik 2049 | 28.00% | ~1,089 |
+| Infinite Growth... | 27.00% | ~1,050 |
 | Without Breaking Some Eggs... | 26.00% | ~1,011 |
 | Space Society | 18.00% | ~700 |
 | A Thousand Strong | 18.00% | ~700 |
@@ -18,9 +18,9 @@ Rating: 4.58 (Ranked 465)
 | Fully Recycled | 14.00% | ~544 |
 | Ain't Nobody Got Time for That | 14.00% | ~544 |
 | Hope Seeker | 13.00% | ~505 |
-| A Hunk of Junk | 12.00% | ~466 |
-| Exceeding Capacity | 12.00% | ~466 |
-| Breaking Protocol | 12.00% | ~466 |
+| A Hunk of Junk | 12.00% | ~467 |
+| Exceeding Capacity | 12.00% | ~467 |
+| Breaking Protocol | 12.00% | ~467 |
 | Man's Best Friend | 9.00% | ~350 |
 | Power Outage | 9.00% | ~350 |
 | Convenient Transport | 8.00% | ~311 |
@@ -37,8 +37,8 @@ Rating: 4.58 (Ranked 465)
 | BRAWL! | 5.00% | ~194 |
 | Drill-dozer | 5.00% | ~194 |
 | What the Ruins Teach Us | 5.00% | ~194 |
-| Sustainable Energy | 4.00% | ~155 |
-| Pedal to the Metal | 4.00% | ~155 |
+| Sustainable Energy | 4.00% | ~156 |
+| Pedal to the Metal | 4.00% | ~156 |
 | Praise the Hull! | 3.00% | ~117 |
 | Delivery! | 3.00% | ~117 |
 | Help of the Forgotten Member | 3.00% | ~117 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 465)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,887 (Ranked 213)  
+Progressed: 3,888 (Ranked 213)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 3,814 | 0 |
 | 2023-12-30 | 3,837 | 0 |
 | 2023-12-31 | 3,860 | 0 |
-| 2024-01-01 | 3,887 | 0 |
+| 2024-01-01 | 3,888 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

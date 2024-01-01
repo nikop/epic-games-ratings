@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,569 |
-| The Assault | 4.00% | ~30,055 |
-| Life is your teacher | 4.00% | ~30,055 |
-| Lightning Hands | 4.00% | ~30,055 |
+| The Old Grandmaster | 5.00% | ~37,570 |
+| The Assault | 4.00% | ~30,056 |
+| Life is your teacher | 4.00% | ~30,056 |
+| Lightning Hands | 4.00% | ~30,056 |
 | The Hateful Pole Fighter | 2.00% | ~15,028 |
 | A Lady's Blood in the Snow | 2.00% | ~15,028 |
 | Kill Nil | 2.00% | ~15,028 |
@@ -30,7 +30,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 1.00% | ~7,514 |
 | Take damage to save time | 1.00% | ~7,514 |
 | Project Arena | 1.00% | ~607 |
-| Dance of the Praying Mantis | 0.90% | ~6,762 |
+| Dance of the Praying Mantis | 0.90% | ~6,763 |
 | Fight the way you practice | 0.70% | ~425 |
 | Muk Yan Master | 0.60% | ~4,508 |
 | Martial Hub | 0.60% | ~364 |
@@ -39,7 +39,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Iron Money | 0.50% | ~3,757 |
 | Detective Story | 0.50% | ~3,757 |
 | Sword Stained With Blood | 0.50% | ~3,757 |
-| Bloody Sport | 0.50% | ~303 |
+| Bloody Sport | 0.50% | ~304 |
 | Legendary Talismans of Wuxing | 0.40% | ~3,006 |
 | Prodigal Child | 0.40% | ~3,006 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~3,006 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~61 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 751,377 (Ranked 23)  
+Progressed: 751,407 (Ranked 23)  
 Completed: 12,971 (1.73%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,16 +323,16 @@ Completed: 12,971 (1.73%) (Ranked 143)
 | 2023-12-29 | 748,212 | 12,968 |
 | 2023-12-30 | 749,350 | 12,969 |
 | 2023-12-31 | 750,399 | 12,971 |
-| 2024-01-01 | 751,377 | 12,971 |
+| 2024-01-01 | 751,407 | 12,971 |
 ## Awards
 Max (Great Boss Battles): 7,070  (Ranked 55)  
-Sum: 11,966 (Ranked 87)  
+Sum: 11,967 (Ranked 87)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,070 |
 | This game has Diverse Characters | 693 |
-| This game has Challenging Combat | 636 |
+| This game has Challenging Combat | 637 |
 | This game has Amazing Storytelling | 613 |
 | This game has Amazing Characters | 605 |
 | This game is Highly Recommended | 599 |
@@ -693,4 +693,4 @@ Diff (max vs sum): -32
 | 2023-12-29 | 4.82 | - | 7,041 | 12,473 |
 | 2023-12-30 | 4.82 | - | 7,052 | 12,492 |
 | 2023-12-31 | 4.82 | - | 7,061 | 12,502 |
-| 2024-01-01 | 4.82 | - | 7,070 | 11,966 |
+| 2024-01-01 | 4.82 | - | 7,070 | 11,967 |

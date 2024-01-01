@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8181,
+  "EOS_Progressed": 8182,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 364,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -8898,6 +8898,11 @@
       "Time": "2024-01-01T21:03:56.2327511+00:00",
       "NumProgressed": 8181,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-01T22:03:38.822084+00:00",
+      "NumProgressed": 8182,
+      "NumCompleted": 49
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -8910,7 +8915,7 @@
       "Name": "First of Many",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 7199
+      "UsersEstimate": 7200
     },
     {
       "ID": "achievement_01_02",
@@ -8974,7 +8979,7 @@
       "Name": "Right Foot",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 3681
+      "UsersEstimate": 3682
     },
     {
       "ID": "achievement_01_10",
@@ -9054,7 +9059,7 @@
       "Name": "USA - Check!",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 2372
+      "UsersEstimate": 2373
     },
     {
       "ID": "achievement_03_02",
@@ -9078,7 +9083,7 @@
       "Name": "Italy - Check!",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "achievement_03_05",
@@ -9190,7 +9195,7 @@
       "Name": "Nitro Saver",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 4172
+      "UsersEstimate": 4173
     },
     {
       "ID": "achievement_04_08",
@@ -9198,7 +9203,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 7117
+      "UsersEstimate": 7118
     },
     {
       "ID": "achievement_04_09",
@@ -9213,7 +9218,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 8181,
+      "Progressed": 8182,
       "Completed": 49
     }
   ],
@@ -9221,8 +9226,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2024-01-01T09:58:42.2285208+00:00",
-  "LastChanged_Achievements": "2024-01-01T21:03:56.2327508+00:00",
+  "LastChanged_Achievements": "2024-01-01T22:03:38.8220835+00:00",
   "LastUpdate_AppInfo": "2023-12-29T01:33:51.636956+00:00",
-  "LastUpdate_Ratings": "2024-01-01T20:58:55.4947906+00:00",
-  "LastUpdate_Achievements": "2024-01-01T21:03:56.2328548+00:00"
+  "LastUpdate_Ratings": "2024-01-01T21:58:54.1557+00:00",
+  "LastUpdate_Achievements": "2024-01-01T22:03:38.8221759+00:00"
 }

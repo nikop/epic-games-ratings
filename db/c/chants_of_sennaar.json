@@ -5,10 +5,10 @@
   "Ranking_Rating": 17,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
-  "Ranking_EOS_Progress": 239,
-  "Ranking_EOS_Completed": 69,
+  "Ranking_EOS_Progress": 240,
+  "Ranking_EOS_Completed": 68,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -97,11 +97,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2178,
-  "EOS_Completed": 133,
-  "EOS_NewPlayers": 392,
-  "EOS_NewCompleters": 29,
-  "EOS_Completed_Percentage": 6.11,
+  "EOS_Progressed": 2179,
+  "EOS_Completed": 135,
+  "EOS_NewPlayers": 391,
+  "EOS_NewCompleters": 31,
+  "EOS_Completed_Percentage": 6.2,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -6032,6 +6032,11 @@
       "Time": "2024-01-01T21:06:47.4702093+00:00",
       "NumProgressed": 2178,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2024-01-01T22:06:24.0268516+00:00",
+      "NumProgressed": 2179,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 25,
@@ -6065,9 +6070,9 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 523
+      "UsersEstimate": 545
     },
     {
       "ID": "META_FIRST_LINK",
@@ -6081,9 +6086,9 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 523
+      "UsersEstimate": 545
     },
     {
       "ID": "META_RESULT_1-2",
@@ -6187,7 +6192,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -6195,7 +6200,7 @@
       "Name": "Scholar",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "PROGRESS_N1",
@@ -6219,7 +6224,7 @@
       "Name": "A new dawn",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "PROGRESS_N4",
@@ -6235,23 +6240,23 @@
       "Name": "One last step",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2178,
-      "Completed": 133
+      "Progressed": 2179,
+      "Completed": 135
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-31T07:01:38.7723363+00:00",
-  "LastChanged_Achievements": "2024-01-01T21:06:47.4702088+00:00",
+  "LastChanged_Achievements": "2024-01-01T22:06:24.0268509+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2024-01-01T21:02:55.1822688+00:00",
-  "LastUpdate_Achievements": "2024-01-01T21:06:47.4702611+00:00"
+  "LastUpdate_Ratings": "2024-01-01T22:00:38.9694384+00:00",
+  "LastUpdate_Achievements": "2024-01-01T22:06:24.0269155+00:00"
 }

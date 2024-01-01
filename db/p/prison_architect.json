@@ -7953,9 +7953,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 210775,
+  "EOS_Progressed": 210790,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 3064,
+  "EOS_NewPlayers": 3060,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -37378,6 +37378,11 @@
       "Time": "2024-01-01T21:09:52.5059688+00:00",
       "NumProgressed": 210775,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-01T22:09:24.8194405+00:00",
+      "NumProgressed": 210790,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 16,
@@ -37405,7 +37410,7 @@
       "Name": "Don\u0027t Put Me In The Dark",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6323
+      "UsersEstimate": 6324
     },
     {
       "ID": "Achievement_11",
@@ -37413,7 +37418,7 @@
       "Name": "Wait and Hope",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6323
+      "UsersEstimate": 6324
     },
     {
       "ID": "Achievement_12",
@@ -37421,7 +37426,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 33724
+      "UsersEstimate": 33726
     },
     {
       "ID": "Achievement_13",
@@ -37445,7 +37450,7 @@
       "Name": "I May Have Found A Way Out Of Here",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 6323
+      "UsersEstimate": 6324
     },
     {
       "ID": "Achievement_2",
@@ -37469,7 +37474,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 52694
+      "UsersEstimate": 52698
     },
     {
       "ID": "Achievement_5",
@@ -37501,7 +37506,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 18970
+      "UsersEstimate": 18971
     },
     {
       "ID": "Achievement_9",
@@ -37509,22 +37514,22 @@
       "Name": "Spare The Rod",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8431
+      "UsersEstimate": 8432
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 210775,
+      "Progressed": 210790,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2024-01-01T15:58:02.3000198+00:00",
-  "LastChanged_Achievements": "2024-01-01T21:09:52.5059681+00:00",
+  "LastChanged_Achievements": "2024-01-01T22:09:24.8194398+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:17.0553999+00:00",
-  "LastUpdate_Ratings": "2024-01-01T20:58:06.8275807+00:00",
-  "LastUpdate_Achievements": "2024-01-01T21:09:52.5061479+00:00"
+  "LastUpdate_Ratings": "2024-01-01T21:58:06.2106221+00:00",
+  "LastUpdate_Achievements": "2024-01-01T22:09:24.8195731+00:00"
 }

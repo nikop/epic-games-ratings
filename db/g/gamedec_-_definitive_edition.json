@@ -519,9 +519,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 256513,
+  "EOS_Progressed": 256516,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 823,
+  "EOS_NewPlayers": 818,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29269,6 +29269,11 @@
       "Time": "2024-01-01T21:06:03.4247783+00:00",
       "NumProgressed": 256513,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-01T22:05:42.0090317+00:00",
+      "NumProgressed": 256516,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -29424,7 +29429,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 74389
+      "UsersEstimate": 74390
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -29496,7 +29501,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64128
+      "UsersEstimate": 64129
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -29600,7 +29605,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64128
+      "UsersEstimate": 64129
     },
     {
       "ID": "ACH_SOREAD",
@@ -29695,7 +29700,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 256513,
+      "Progressed": 256516,
       "Completed": 8
     }
   ],
@@ -29703,8 +29708,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-12-30T22:03:09.2237596+00:00",
-  "LastChanged_Achievements": "2024-01-01T21:06:03.424778+00:00",
+  "LastChanged_Achievements": "2024-01-01T22:05:42.0090312+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:01.0065032+00:00",
   "LastUpdate_Ratings": "2024-01-01T21:03:10.1923837+00:00",
-  "LastUpdate_Achievements": "2024-01-01T21:06:03.4249443+00:00"
+  "LastUpdate_Achievements": "2024-01-01T22:05:42.0092868+00:00"
 }

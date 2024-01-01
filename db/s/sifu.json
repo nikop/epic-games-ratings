@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8599,10 +8599,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 11966,
       "NumberOfAwardsMax": 7070
+    },
+    {
+      "Time": "2024-01-01T22:02:56.0386829+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11967,
+      "NumberOfAwardsMax": 7070
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11966,
+  "NumberOfAwards": 11967,
   "NumberOfAwardsMax": 7070,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8652,7 +8658,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 636
+      "Count": 637
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8679,9 +8685,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 751377,
+  "EOS_Progressed": 751407,
   "EOS_Completed": 12971,
-  "EOS_NewPlayers": 6952,
+  "EOS_NewPlayers": 6964,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.73,
   "EosHistory": [
@@ -31929,6 +31935,11 @@
       "Time": "2024-01-01T21:09:22.0298991+00:00",
       "NumProgressed": 751377,
       "NumCompleted": 12971
+    },
+    {
+      "Time": "2024-01-01T22:08:55.0528189+00:00",
+      "NumProgressed": 751407,
+      "NumCompleted": 12971
     }
   ],
   "TotalAchievements": 60,
@@ -31940,7 +31951,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37569
+      "UsersEstimate": 37570
     },
     {
       "ID": "02_Vengeance_H1",
@@ -31948,7 +31959,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30055
+      "UsersEstimate": 30056
     },
     {
       "ID": "03_Vengeance_H2",
@@ -32100,7 +32111,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6762
+      "UsersEstimate": 6763
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -32116,7 +32127,7 @@
       "Name": "Life is your teacher",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 30055
+      "UsersEstimate": 30056
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -32204,7 +32215,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30055
+      "UsersEstimate": 30056
     },
     {
       "ID": "35_WideStrike",
@@ -32292,7 +32303,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -32419,21 +32430,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 60678,
+      "Progressed": 60708,
       "Completed": 10795
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 751377,
+      "Progressed": 751407,
       "Completed": 12971
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2024-01-01T14:03:24.5873644+00:00",
-  "LastChanged_Achievements": "2024-01-01T21:09:22.0298988+00:00",
+  "LastChanged": "2024-01-01T22:02:56.0386827+00:00",
+  "LastChanged_Achievements": "2024-01-01T22:08:55.0528183+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:26.4563062+00:00",
-  "LastUpdate_Ratings": "2024-01-01T21:03:13.9605473+00:00",
-  "LastUpdate_Achievements": "2024-01-01T21:09:22.0300296+00:00"
+  "LastUpdate_Ratings": "2024-01-01T22:02:56.0386833+00:00",
+  "LastUpdate_Achievements": "2024-01-01T22:08:55.0529869+00:00"
 }

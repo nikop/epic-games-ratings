@@ -19,14 +19,14 @@
 | Necromancer's Apprentice | 37.00% | ~40 |
 | Friend of Lyraine | 36.00% | ~39 |
 | Redecorating | 35.00% | ~37 |
-| The Circle | 34.00% | ~36 |
+| The Circle | 35.00% | ~37 |
 | Bad JuJu | 25.00% | ~27 |
 | Slave to the rhythm | 23.00% | ~25 |
 | Friend of Sevenkeeps | 22.00% | ~24 |
 | Castle Meldec | 21.00% | ~22 |
 | Sevenkeeps Seat of Kings | 20.00% | ~21 |
 | Friend of Alluvyan | 17.00% | ~18 |
-| Friend of Connach | 15.00% | ~16 |
+| Friend of Connach | 16.00% | ~17 |
 | Friend of Gillyshire | 14.00% | ~15 |
 | Break Free | 14.00% | ~15 |
 | Friend of Silver Drift Hollow | 13.00% | ~14 |
@@ -52,21 +52,21 @@
 | Tuscari Sea Portal | 7.00% | ~7 |
 | Master Artificer | 7.00% | ~7 |
 | A Monopoly of Might | 7.00% | ~7 |
+| Friend of Uram Gor | 7.00% | ~7 |
 | Defeat Ianna | 6.00% | ~6 |
 | Defeat Undergast | 6.00% | ~6 |
 | Heroes | 6.00% | ~6 |
 | Balanced | 6.00% | ~6 |
-| Friend of Uram Gor | 6.00% | ~6 |
 | Get to the Airship! | 5.00% | ~5 |
 | Defeat Isgrimm | 5.00% | ~5 |
 | Defeat Yria | 5.00% | ~5 |
 | Lytra's Tale | 5.00% | ~5 |
+| Fireforge | 5.00% | ~5 |
 | Friend of Grey Dusk Vale | 5.00% | ~5 |
-| Fireforge | 4.00% | ~4 |
+| Misty Coast Dragonbones | 4.00% | ~4 |
 | Master Alchemist | 4.00% | ~4 |
 | Master Necromancer | 4.00% | ~4 |
 | Defeat Rohen | 3.00% | ~3 |
-| Misty Coast Dragonbones | 3.00% | ~3 |
 | Breaking the circle | 3.00% | ~3 |
 | My Friends! | 3.00% | ~3 |
 | Hard Life | 2.00% | ~2 |

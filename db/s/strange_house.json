@@ -4,7 +4,7 @@
   "ProductSlug": "strange-house-5fd1b5",
   "Ranking_EOS_Progress": 555,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 461,
+  "Ranking_EOS_NewPlayers": 460,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-03T11:00:00+00:00",
@@ -275,9 +275,9 @@
       "ID": "EndPrologue",
       "SetID": "a2ci5mh",
       "Name": "Chapter 1",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 150,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "FoundPig",
@@ -299,9 +299,9 @@
       "ID": "Underground",
       "SetID": "a2ci5mh",
       "Name": "Underground",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 150,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "VisorGlass1",
@@ -321,8 +321,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:48.3132312+00:00",
-  "LastChanged_Achievements": "2024-01-01T21:09:18.6400433+00:00",
+  "LastChanged_Achievements": "2024-01-01T22:08:51.7213544+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:31.3560032+00:00",
-  "LastUpdate_Ratings": "2024-01-01T21:03:21.9197218+00:00",
-  "LastUpdate_Achievements": "2024-01-01T21:09:18.6400504+00:00"
+  "LastUpdate_Ratings": "2024-01-01T22:03:03.7273496+00:00",
+  "LastUpdate_Achievements": "2024-01-01T22:08:51.7213638+00:00"
 }

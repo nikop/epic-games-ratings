@@ -4,7 +4,7 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewPlayers": 385,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 296,
+  "EOS_Progressed": 297,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.36,
   "EosHistory": [
@@ -636,6 +636,11 @@
       "Time": "2023-12-31T23:06:16.9386515+00:00",
       "NumProgressed": 296,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-01T22:05:17.1549499+00:00",
+      "NumProgressed": 297,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 17,
@@ -647,7 +652,7 @@
       "Name": "A Little Extra",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "career_woman",
@@ -655,7 +660,7 @@
       "Name": "Career Woman",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "deal_or_no_deal",
@@ -663,7 +668,7 @@
       "Name": "Deal Or No Deal",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "hopeful",
@@ -687,7 +692,7 @@
       "Name": "Impress Theron",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "marriage_is_off",
@@ -703,7 +708,7 @@
       "Name": "No One Is Safe",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "off_his_meds",
@@ -735,7 +740,7 @@
       "Name": "Personal Life",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "save_dad",
@@ -759,7 +764,7 @@
       "Name": "Unhelpful",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "use_your_connections",
@@ -775,14 +780,14 @@
       "Name": "Will This Help?",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 296,
+      "Progressed": 297,
       "Completed": 7
     }
   ],
@@ -790,8 +795,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2024-01-01T21:05:37.2926431+00:00",
+  "LastChanged_Achievements": "2024-01-01T22:05:17.1549492+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:35.4264884+00:00",
-  "LastUpdate_Ratings": "2024-01-01T20:58:21.6495191+00:00",
-  "LastUpdate_Achievements": "2024-01-01T21:05:37.2926542+00:00"
+  "LastUpdate_Ratings": "2024-01-01T21:58:19.9067295+00:00",
+  "LastUpdate_Achievements": "2024-01-01T22:05:17.1549644+00:00"
 }

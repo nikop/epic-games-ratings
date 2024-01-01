@@ -5,47 +5,47 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Might be useful… | 39.00% | ~52 |
-| Treasure Hunting | 38.00% | ~51 |
-| Shine! | 32.00% | ~43 |
-| Friend! | 31.00% | ~41 |
-| Uncut Gem | 28.00% | ~37 |
-| Clear as Water | 26.00% | ~35 |
+| Treasure Hunting | 37.00% | ~50 |
+| Friend! | 31.00% | ~42 |
+| Shine! | 31.00% | ~42 |
+| Uncut Gem | 28.00% | ~38 |
+| Clear as Water | 25.00% | ~34 |
 | Setting Off | 23.00% | ~31 |
-| Card Collector | 23.00% | ~31 |
+| Card Collector | 22.00% | ~29 |
 | Riddlesolver | 20.00% | ~27 |
 | Dungeon Mastery | 18.00% | ~24 |
 | The Steed | 8.00% | ~11 |
 | A Strange Proposition | 8.00% | ~11 |
-| Card Completionist | 8.00% | ~11 |
+| Card Completionist | 7.00% | ~9 |
 | Braving Miasma | 6.00% | ~8 |
 | No Stone Unturned | 6.00% | ~8 |
 | The Bodyguard | 5.00% | ~7 |
 | The Apprentice | 5.00% | ~7 |
-| The Familiar | 5.00% | ~7 |
 | Oracle Mastery | 5.00% | ~7 |
+| The Familiar | 4.00% | ~5 |
 | Ancient Nemesis | 4.00% | ~5 |
 | Traveler Mastery | 4.00% | ~5 |
 | Warden Mastery | 4.00% | ~5 |
 | The Plot Thickens | 4.00% | ~5 |
 | Raider Mastery | 3.00% | ~4 |
-| Best Pupil | 2.00% | ~3 |
-| FOR JUSTICE! | 2.00% | ~3 |
-| Journey’s End | 2.00% | ~3 |
-| Masterpiece | 2.00% | ~3 |
-| Towards the Future | 2.00% | ~3 |
-| Trinket Enthusiast | 2.00% | ~3 |
-| The Usurper | 2.00% | ~3 |
 | First time? | 2.00% | ~3 |
-| Harmony | 2.00% | ~3 |
 | The False Prophet | 2.00% | ~3 |
 | Sealed Once Again | 2.00% | ~3 |
-| A New Tomorrow | 2.00% | ~3 |
 | ACHOO! | 2.00% | ~3 |
-| The New Demon Lord | 0.80% | ~1 |
-| Gladiator | 0.80% | ~1 |
+| Best Pupil | 1.00% | ~1 |
+| FOR JUSTICE! | 1.00% | ~1 |
+| Journey’s End | 1.00% | ~1 |
+| Masterpiece | 1.00% | ~1 |
+| Towards the Future | 1.00% | ~1 |
+| Trinket Enthusiast | 1.00% | ~1 |
+| The Usurper | 1.00% | ~1 |
+| Harmony | 1.00% | ~1 |
+| A New Tomorrow | 1.00% | ~1 |
+| The New Demon Lord | 0.70% | ~1 |
+| Gladiator | 0.70% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133 (Ranked 461)  
+Progressed: 134 (Ranked 461)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 127 | 0 |
 | 2023-12-30 | 129 | 0 |
 | 2023-12-31 | 131 | 0 |
-| 2024-01-01 | 133 | 0 |
+| 2024-01-01 | 134 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

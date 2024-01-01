@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 447,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -991,9 +991,9 @@
       "ID": "id_4",
       "SetID": "bk9jib6",
       "Name": "Samaritan",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "id_42",
@@ -1224,8 +1224,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-28T07:02:46.0007261+00:00",
-  "LastChanged_Achievements": "2024-01-01T21:10:14.6817837+00:00",
+  "LastChanged_Achievements": "2024-01-01T22:09:46.5631701+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:11.6693375+00:00",
-  "LastUpdate_Ratings": "2024-01-01T20:58:08.4727558+00:00",
-  "LastUpdate_Achievements": "2024-01-01T21:10:14.6818397+00:00"
+  "LastUpdate_Ratings": "2024-01-01T21:58:07.8042022+00:00",
+  "LastUpdate_Achievements": "2024-01-01T22:09:46.5632237+00:00"
 }

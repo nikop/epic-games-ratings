@@ -2893,9 +2893,9 @@
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 489
+      "UsersEstimate": 496
     },
     {
       "ID": "BroomAmanita",
@@ -2933,9 +2933,9 @@
       "ID": "Drunkard",
       "SetID": "db30heh",
       "Name": "Drunkard",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 186
+      "UsersEstimate": 193
     },
     {
       "ID": "DwarDevil",
@@ -2965,9 +2965,9 @@
       "ID": "FerrymanBird",
       "SetID": "db30heh",
       "Name": "Happy Reunion",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 462
+      "UsersEstimate": 469
     },
     {
       "ID": "HastrmanAcorn",
@@ -3069,9 +3069,9 @@
       "ID": "Priestess",
       "SetID": "db30heh",
       "Name": "Blessed",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 379
+      "UsersEstimate": 386
     },
     {
       "ID": "PrincessThrone",
@@ -3180,8 +3180,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-01T21:06:06.6430386+00:00",
+  "LastChanged_Achievements": "2024-01-01T22:05:45.2197409+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:22.002955+00:00",
-  "LastUpdate_Ratings": "2024-01-01T20:57:31.5438859+00:00",
-  "LastUpdate_Achievements": "2024-01-01T21:06:06.6430754+00:00"
+  "LastUpdate_Ratings": "2024-01-01T21:57:33.0503636+00:00",
+  "LastUpdate_Achievements": "2024-01-01T22:05:45.219795+00:00"
 }

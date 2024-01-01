@@ -1,27 +1,27 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.51 (Ranked 591)  
+Rating: 4.50 (Ranked 613)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~312,309 |
-| Jeef Skeejj | 44.00% | ~208,206 |
-| Careful planning | 39.00% | ~184,546 |
-| Second Coming | 34.00% | ~160,886 |
-| Jeef Skagg | 30.00% | ~141,958 |
-| Mother | 25.00% | ~118,299 |
-| In space, no one can hear you scream | 24.00% | ~113,567 |
-| Chapter I: Echoes | 22.00% | ~104,103 |
-| Excelsior Rule | 22.00% | ~104,103 |
-| Things persisted in not being what they seemed | 20.00% | ~94,639 |
-| Knightmare Frames | 15.00% | ~70,979 |
-| May His passing cleanse the world | 15.00% | ~70,979 |
-| Chapter II: Fallible Flesh | 15.00% | ~70,979 |
-| Pope Zenon | 15.00% | ~70,979 |
-| Plan for the worst | 12.00% | ~56,783 |
-| Tetsuo | 11.00% | ~52,051 |
+| The Shutdown | 66.00% | ~312,311 |
+| Jeef Skeejj | 44.00% | ~208,208 |
+| Careful planning | 39.00% | ~184,548 |
+| Second Coming | 34.00% | ~160,888 |
+| Jeef Skagg | 30.00% | ~141,960 |
+| Mother | 25.00% | ~118,300 |
+| In space, no one can hear you scream | 24.00% | ~113,568 |
+| Chapter I: Echoes | 22.00% | ~104,104 |
+| Excelsior Rule | 22.00% | ~104,104 |
+| Things persisted in not being what they seemed | 20.00% | ~94,640 |
+| Knightmare Frames | 15.00% | ~70,980 |
+| May His passing cleanse the world | 15.00% | ~70,980 |
+| Chapter II: Fallible Flesh | 15.00% | ~70,980 |
+| Pope Zenon | 15.00% | ~70,980 |
+| Plan for the worst | 12.00% | ~56,784 |
+| Tetsuo | 11.00% | ~52,052 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~47,320 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,856 |
 | Through the mirror | 8.00% | ~37,856 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~17 |
 | Kronos Rule | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,195 (Ranked 45)  
+Progressed: 473,199 (Ranked 45)  
 Completed: 21 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 21 (0.00%) (Ranked 390)
 | 2023-12-29 | 473,017 | 20 |
 | 2023-12-30 | 473,076 | 21 |
 | 2023-12-31 | 473,142 | 21 |
-| 2024-01-01 | 473,195 | 21 |
+| 2024-01-01 | 473,199 | 21 |
 ## Awards
 Max (Character Customization): 228  (Ranked 284)  
 Sum: 252 (Ranked 397)  
@@ -447,3 +447,4 @@ Diff (max vs sum): -113
 | 2023-12-27 | 4.50 | - | 227 | 251 |
 | 2023-12-29 | 4.50 | - | 228 | 252 |
 | 2023-12-31 | 4.51 | - | 228 | 252 |
+| 2024-01-01 | 4.50 | - | 228 | 252 |

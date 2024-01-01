@@ -6,23 +6,23 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 86.00% | ~8,789 |
-| Photogenic | 82.00% | ~8,380 |
-| Plug It In | 79.00% | ~8,074 |
-| Surge Gauntlet Jockey | 79.00% | ~8,074 |
-| Adventure Time | 75.00% | ~7,665 |
-| Playing With Power | 72.00% | ~7,358 |
-| Coup d'Etat | 55.00% | ~5,621 |
+| Let's Get This Party Started | 86.00% | ~8,790 |
+| Photogenic | 82.00% | ~8,381 |
+| Plug It In | 79.00% | ~8,075 |
+| Surge Gauntlet Jockey | 79.00% | ~8,075 |
+| Adventure Time | 75.00% | ~7,666 |
+| Playing With Power | 72.00% | ~7,359 |
+| Coup d'Etat | 55.00% | ~5,622 |
 | You're Fired | 54.00% | ~5,519 |
 | Get Furious | 53.00% | ~5,417 |
 | Hacks In Stacks | 53.00% | ~5,417 |
-| Gunplay And Cosplay | 51.00% | ~5,212 |
-| Meching Enemies | 46.00% | ~4,701 |
-| Ticket Toddler | 42.00% | ~4,292 |
-| Booty Bashing | 36.00% | ~3,679 |
-| Field Medic | 36.00% | ~3,679 |
+| Gunplay And Cosplay | 51.00% | ~5,213 |
+| Meching Enemies | 46.00% | ~4,702 |
+| Ticket Toddler | 42.00% | ~4,293 |
+| Booty Bashing | 36.00% | ~3,680 |
+| Field Medic | 36.00% | ~3,680 |
 | Here Comes a New Challenger | 35.00% | ~3,577 |
-| Rapid Response | 32.00% | ~3,270 |
+| Rapid Response | 32.00% | ~3,271 |
 | Surge Ahead | 29.00% | ~2,964 |
 | The Full Monty | 29.00% | ~2,964 |
 | Guardian Angel | 26.00% | ~2,657 |
@@ -49,7 +49,7 @@ Number of Ratings: 801  (23.09.2022)
 | Ground Control | 3.00% | ~307 |
 | Treasure Hunting | 3.00% | ~307 |
 | Nexuwizard | 2.00% | ~204 |
-| Everybody Freeze | 0.90% | ~92 |
+| Everybody Freeze | 1.00% | ~102 |
 | The Collector | 0.90% | ~92 |
 | Nature Is Lit | 0.80% | ~82 |
 | I'm The Pluggernaut | 0.60% | ~61 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~41 |
 | Pyrotechnical | 0.20% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,220 (Ranked 178)  
+Progressed: 10,221 (Ranked 178)  
 Completed: 2 (0.02%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 2 (0.02%) (Ranked 357)
 | 2023-12-29 | 10,173 | 2 |
 | 2023-12-30 | 10,197 | 2 |
 | 2023-12-31 | 10,207 | 2 |
-| 2024-01-01 | 10,220 | 2 |
+| 2024-01-01 | 10,221 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 418)  
 Sum: 465 (Ranked 339)  

@@ -1,13 +1,13 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.50 (Ranked 614)  
+Rating: 4.50 (Ranked 613)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Read Between The Lines | 63.00% | ~866 |
 | To Hell In A Handcart | 61.00% | ~838 |
-| High Profile | 54.00% | ~742 |
+| High Profile | 55.00% | ~756 |
 | Whispers In The Dark | 52.00% | ~714 |
 | Fond Memories | 50.00% | ~687 |
 | A Method To His Madness | 48.00% | ~660 |

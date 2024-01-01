@@ -55,9 +55,9 @@
 | Ancient Ruins of Dirty Feet | 14.00% | ~20 |
 | Timber! | 12.00% | ~17 |
 | Free Of Chains | 12.00% | ~17 |
+| Grumpy Immortal | 11.00% | ~16 |
 | Spoiler alert! | 10.00% | ~14 |
 | I drink, but I'm not a drunk! | 10.00% | ~14 |
-| Grumpy Immortal | 10.00% | ~14 |
 | I want to throw up! | 9.00% | ~13 |
 | Ancient Ruins of Moist Overhangs | 8.00% | ~12 |
 | My name is Whoopass, SIR Whoopass! | 8.00% | ~12 |

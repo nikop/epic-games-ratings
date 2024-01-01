@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -328,11 +328,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7712,
+  "EOS_Progressed": 7713,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.77,
+  "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:43.6429949+00:00",
@@ -6653,6 +6653,11 @@
       "Time": "2024-01-01T16:03:58.6267093+00:00",
       "NumProgressed": 7712,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-01T22:03:50.0526461+00:00",
+      "NumProgressed": 7713,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 27,
@@ -6696,7 +6701,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 4087
+      "UsersEstimate": 4088
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -6744,7 +6749,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -6760,7 +6765,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2159
+      "UsersEstimate": 2160
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -6792,7 +6797,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -6879,15 +6884,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7712,
+      "Progressed": 7713,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2024-01-01T21:04:08.1837416+00:00",
+  "LastChanged_Achievements": "2024-01-01T22:03:50.0526456+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:02.2887263+00:00",
-  "LastUpdate_Ratings": "2024-01-01T21:03:29.8975678+00:00",
-  "LastUpdate_Achievements": "2024-01-01T21:04:08.1837883+00:00"
+  "LastUpdate_Ratings": "2024-01-01T22:03:11.2067284+00:00",
+  "LastUpdate_Achievements": "2024-01-01T22:03:50.0527262+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3959,
+  "EOS_Progressed": 3960,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -5322,6 +5322,11 @@
       "Time": "2024-01-01T16:03:39.5062539+00:00",
       "NumProgressed": 3959,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-01T22:03:32.3687696+00:00",
+      "NumProgressed": 3960,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5381,7 +5386,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3444
+      "UsersEstimate": 3445
     },
     {
       "ID": "campaign10",
@@ -5469,7 +5474,7 @@
       "Name": "Flanked!",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 2969
+      "UsersEstimate": 2970
     },
     {
       "ID": "campaign20",
@@ -5493,7 +5498,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1623
+      "UsersEstimate": 1624
     },
     {
       "ID": "campaign5",
@@ -5501,7 +5506,7 @@
       "Name": "Clay Fighter",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "campaign6",
@@ -5525,7 +5530,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "campaign9",
@@ -5596,7 +5601,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3959,
+      "Progressed": 3960,
       "Completed": 11
     }
   ],
@@ -5604,8 +5609,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2024-01-01T21:03:49.8795334+00:00",
+  "LastChanged_Achievements": "2024-01-01T22:03:32.3687691+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.1228513+00:00",
-  "LastUpdate_Ratings": "2024-01-01T21:00:27.7963841+00:00",
-  "LastUpdate_Achievements": "2024-01-01T21:03:49.879585+00:00"
+  "LastUpdate_Ratings": "2024-01-01T22:00:22.5353392+00:00",
+  "LastUpdate_Achievements": "2024-01-01T22:03:32.3688297+00:00"
 }

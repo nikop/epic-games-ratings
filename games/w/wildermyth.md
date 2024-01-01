@@ -30,8 +30,8 @@ Number of Ratings: 45  (23.09.2022)
 | Everfading | 0.90% | ~14 |
 | Legends Never Die | 0.80% | ~13 |
 | In Soil, In Smoke | 0.80% | ~13 |
+| Some Say I'm Too Flashy | 0.80% | ~13 |
 | Plague Doctor | 0.70% | ~11 |
-| Some Say I'm Too Flashy | 0.70% | ~11 |
 | Astrology | 0.70% | ~11 |
 | No Time for Clawmonsters | 0.70% | ~11 |
 | Storied Past | 0.60% | ~9 |

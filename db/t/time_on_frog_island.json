@@ -262,9 +262,9 @@
       "ID": "a13",
       "SetID": "cdg65ol",
       "Name": "One with the frogs",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "a14",
@@ -318,9 +318,9 @@
       "ID": "a2",
       "SetID": "cdg65ol",
       "Name": "Yeet!",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "a20",
@@ -519,8 +519,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2024-01-01T21:06:35.994368+00:00",
+  "LastChanged_Achievements": "2024-01-01T22:06:13.9135244+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.4380814+00:00",
-  "LastUpdate_Ratings": "2024-01-01T21:03:08.7448624+00:00",
-  "LastUpdate_Achievements": "2024-01-01T21:06:35.9943949+00:00"
+  "LastUpdate_Ratings": "2024-01-01T22:00:51.4920698+00:00",
+  "LastUpdate_Achievements": "2024-01-01T22:06:13.9135565+00:00"
 }

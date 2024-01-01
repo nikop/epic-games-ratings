@@ -6,28 +6,28 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 80.00% | ~222 |
-| Mash Machine | 74.00% | ~205 |
-| Ducks in a Row, Fish in a Barrel | 53.00% | ~147 |
-| Furon Fashion | 49.00% | ~136 |
-| Shop Til They Drop | 40.00% | ~111 |
+| Rock of the Bay | 80.00% | ~223 |
+| Mash Machine | 74.00% | ~206 |
+| Ducks in a Row, Fish in a Barrel | 52.00% | ~145 |
+| Furon Fashion | 48.00% | ~134 |
+| Shop Til They Drop | 40.00% | ~112 |
 | Bodied Sattva | 36.00% | ~100 |
-| Earthly Pleasures | 35.00% | ~97 |
-| Cult Following | 34.00% | ~94 |
+| Earthly Pleasures | 35.00% | ~98 |
+| Cult Following | 34.00% | ~95 |
 | Lie Back and Think of Albion | 28.00% | ~78 |
-| Upgreatest | 26.00% | ~72 |
-| Pimp My Raid | 25.00% | ~69 |
-| I Look Up As I Walk to Takoshima | 21.00% | ~58 |
-| Freshly Squeezed | 21.00% | ~58 |
+| Upgreatest | 26.00% | ~73 |
+| Pimp My Raid | 25.00% | ~70 |
+| I Look Up As I Walk to Takoshima | 21.00% | ~59 |
+| Freshly Squeezed | 21.00% | ~59 |
 | Die Nasty | 18.00% | ~50 |
 | Perfect Probulator | 17.00% | ~47 |
-| Transmitting From Sol-3 | 16.00% | ~44 |
+| Transmitting From Sol-3 | 15.00% | ~42 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 12.00% | ~33 |
 | Fly Me to the Moon Base | 9.00% | ~25 |
 | Kaijuiced | 9.00% | ~25 |
 | Dusted | 8.00% | ~22 |
-| Scuttled | 7.00% | ~19 |
-| Re-Return of the Clone of the Invasion II-2 | 7.00% | ~19 |
+| Scuttled | 7.00% | ~20 |
+| Re-Return of the Clone of the Invasion II-2 | 7.00% | ~20 |
 | Lobster Blisque | 5.00% | ~14 |
 | Ultimate Smoothie | 4.00% | ~11 |
 | Yettisoned | 4.00% | ~11 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.40% | ~1 |
 | Trans-Siberian Express | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 277 (Ranked 399)  
+Progressed: 279 (Ranked 398)  
 Completed: 1 (0.36%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 1 (0.36%) (Ranked 236)
 | 2023-12-29 | 246 | 1 |
 | 2023-12-30 | 259 | 1 |
 | 2023-12-31 | 268 | 1 |
-| 2024-01-01 | 277 | 1 |
+| 2024-01-01 | 279 | 1 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 493)  
 Sum: 36 (Ranked 525)  
