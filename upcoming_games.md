@@ -158,6 +158,7 @@
 | [House In The Hollow](games/h/house_in_the_hollow.md) | 2024-12-31 | 19 (1,000 XP) | 1 | - | - |
 | [IHAS](games/3/306a3dc5437a43d29e58661fc6f391f2.md) | 2024-12-31 | 16 (1,000 XP) | 0 | - | - |
 | [Inn Keeper](games/i/inn_keeper.md) | 2024-12-31 | - |  | - | - |
+| [KibaGames](games/d/d9dec92aafc5427699be1f9a259dba83.md) | 2024-12-31 | - |  | - | - |
 | [Lesson Learned](games/7/73451456d3d0498385b49ae94424d37d.md) | 2024-12-31 | - |  | - | - |
 | [Lost Colony](games/0/06a110092f0143eeb0c13bdbf367fb55.md) | 2024-12-31 | - |  | - | - |
 | [Mars Tactics](games/m/mars_tactics.md) | 2024-12-31 | - |  | - | - |
@@ -339,7 +340,6 @@
 | [Jawbreaker](games/j/jawbreaker.md) | 2099-01-01 | - |  | - | 0 |
 | [KAREN SEES](games/e/e53f61969af043f8a9cf3892b2371963.md) | 2099-01-01 | - |  | - | - |
 | [Kenshi](games/e/ef2ca9fad90049ffa89aad61bd203b61.md) | 2099-01-01 | - |  | - | - |
-| [KibaGames](games/d/d9dec92aafc5427699be1f9a259dba83.md) | 2099-01-01 | - |  | - | - |
 | [KIBORG](games/d/d53159b0a47c43d08a92968a6fd9cd78.md) | 2099-01-01 | - |  | - | - |
 | [Kingdom Karnage](games/6/69df793223b24b2aafcc36babbfb8f67.md) | 2099-01-01 | - |  | - | - |
 | [Kingsgrave](games/b/b4bab670a8e64cf08f56e56d6fd3af7e.md) | 2099-01-01 | - |  | - | - |

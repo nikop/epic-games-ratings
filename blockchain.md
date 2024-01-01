@@ -12,7 +12,6 @@
 | [Cosmik Battle](games/3/3f5bd4a3bb62462c8b6846a68ad6a4d9.md) | 2099-01-01 | - |  | - | - |
 | [Delysium](games/d/delysium.md) | 2099-01-01 | - |  | - | - |
 | [HELIX](games/b/bfaeb968e658400db8cc48fd4bae1081.md) | 2099-01-01 | - |  | - | - |
-| [KibaGames](games/d/d9dec92aafc5427699be1f9a259dba83.md) | 2099-01-01 | - |  | - | - |
 | [Kingdom Karnage](games/6/69df793223b24b2aafcc36babbfb8f67.md) | 2099-01-01 | - |  | - | - |
 | [KOKODI](games/2/2d89fb7420d8473fa28de88efc7d2f99.md) | 2099-01-01 | - |  | - | - |
 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 2099-01-01 | - |  | - | - |
@@ -32,6 +31,7 @@
 | [Avalon The Game](games/c/c1e86ca0e67349d1b6c62d3f23cda1d5.md) | 2024-12-31 | - |  | - | - |
 | [Chain Crisis](games/1/181df30b672e4037a677b3819b17362c.md) | 2024-12-31 | - |  | - | - |
 | [Elders Grace - Rise of the Mobley](games/e/elder's_grace_-_rise_of_the_mobley.md) | 2024-12-31 | - |  | - | - |
+| [KibaGames](games/d/d9dec92aafc5427699be1f9a259dba83.md) | 2024-12-31 | - |  | - | - |
 | [Crypto Mayhem](games/e/e1bc77a119a046a79877b1265b9537ee.md) | 2024-08-10 | - |  | - | - |
 | [Forgotten Runiverse](games/2/28102c9b12f0424cb937170f7f6286b9.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
@@ -45,7 +45,7 @@
 | [Take The Throne](games/8/8dc19fa4313c42a497f638648541243e.md) | 2024-01-20 | - |  | - | - |
 | [OpenSeason](games/5/53b4ffb651f04ca0bbd47c310ad6efd8.md) | 2024-01-05 | - |  | - | - |
 | [Underground Waifus TCG](games/4/469efc19125a4c3fb518e4723ad3010e.md) | 2023-12-29 | - |  | - | 0 |
-| [9Lives Arena](games/9/9lives_arena.md) | 2023-12-27 | 5 (1,000 XP) | 1,982 | - | 0 |
+| [9Lives Arena](games/9/9lives_arena.md) | 2023-12-27 | 5 (1,000 XP) | 1,998 | - | 0 |
 | [World of Dypians](games/0/019f3ce538a440c48ecf5f4f8d787622.md) | 2023-12-21 | - |  | - | 0 |
 | [Zeeverse](games/a/a99f555b20ad4e49a077ae50ebbd1238.md) | 2023-12-18 | - |  | - | 0 |
 | [Aviatrix](games/7/79312789a26f41dd99cd05ee30e5c524.md) | 2023-12-12 | - |  | - | 0 |
@@ -61,7 +61,7 @@
 | [Bluelight.inc](games/e/e48a41ece2354513aabb1473743ec43d.md) | 2023-10-31 | - |  | - | - |
 | [Yaku](games/3/3ad47e385f544acaa228638fe650e078.md) | 2023-10-31 | - |  | - | 0 |
 | [Kugle](games/5/5b14619578434ff7b6cde619be141d38.md) | 2023-10-30 | - |  | - | 0 |
-| [Night Run](games/c/c9340fb1d3984f4f8f5bbafaa0ea066d.md) | 2023-10-24 | 53 (1,000 XP) | 30,897 | - | 0 |
+| [Night Run](games/c/c9340fb1d3984f4f8f5bbafaa0ea066d.md) | 2023-10-24 | 53 (1,000 XP) | 30,910 | - | 0 |
 | [Brawlers](games/0/03daf1d62b1b42c0a2a5168d91cb61b2.md) | 2023-10-17 | - |  | - | 0 |
 | [KOMPETE](games/3/359ed81fde234ff2a1b190ba60da928e.md) | 2023-10-16 | - |  | 4.50 | 0 |
 | [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 2023-10-02 | - |  | 3.64 | 0 |
@@ -72,7 +72,7 @@
 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 2023-09-15 | - |  | 4.06 | 28 |
 | [CryptoClash](games/d/dc4c4be805e344a4bab504dc2c2a526d.md) | 2023-09-12 | - |  | - | 0 |
 | [The Moshpit Tournament](games/2/2d9bae7960d34288b85d26ed3196d90d.md) | 2023-09-10 | - |  | - | 0 |
-| [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | 74 (1,000 XP) | 16,052 | 4.44 | 0 |
+| [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | 74 (1,000 XP) | 16,087 | 4.44 | 0 |
 | [CyberTitans](games/c/cf8c412fbb52453d83133933381e634d.md) | 2023-08-30 | - |  | - | 0 |
 | [Meta NANOs: Rumble Race](games/d/d1dd254226e84377a6cf930e37726333.md) | 2023-08-30 | - |  | - | 0 |
 | [The Lost Glitches](games/f/fa193e6390404683a6002376f276bfed.md) | 2023-08-21 | - |  | - | 0 |
