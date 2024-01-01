@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1787,
+  "EOS_Progressed": 1789,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4437,6 +4437,11 @@
       "Time": "2024-01-01T22:05:11.8074311+00:00",
       "NumProgressed": 1787,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T23:06:38.8469244+00:00",
+      "NumProgressed": 1789,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4487,9 +4492,9 @@
       "ID": "ML_ACHIEVEMENT_06",
       "SetID": "5k00jcd",
       "Name": "Now try online",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -4617,7 +4622,7 @@
       "Name": "The Octopus",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -4713,7 +4718,7 @@
       "Name": "Beyond the limit",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -4721,7 +4726,7 @@
       "Name": "Extra gear",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -4816,20 +4821,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1787,
+      "Progressed": 1789,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1455,
+      "Progressed": 1457,
       "Completed": 1006
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-01T22:05:11.8074305+00:00",
+  "LastChanged_Achievements": "2024-01-01T23:06:38.8469242+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2024-01-01T21:59:11.5765755+00:00",
-  "LastUpdate_Achievements": "2024-01-01T22:05:11.8075224+00:00"
+  "LastUpdate_Ratings": "2024-01-01T23:00:11.1036932+00:00",
+  "LastUpdate_Achievements": "2024-01-01T23:06:38.8469656+00:00"
 }

@@ -275,9 +275,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19457,
+  "EOS_Progressed": 19466,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 1855,
+  "EOS_NewPlayers": 1852,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -6535,6 +6535,11 @@
       "Time": "2024-01-01T22:03:51.0285052+00:00",
       "NumProgressed": 19457,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2024-01-01T23:04:50.1307797+00:00",
+      "NumProgressed": 19466,
+      "NumCompleted": 85
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -6555,7 +6560,7 @@
       "Name": "Beam Me Up Scotty",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
@@ -6595,7 +6600,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2335
+      "UsersEstimate": 2336
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -6603,7 +6608,7 @@
       "Name": "Secrets Out",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "UNLOCK_ALL_4_DOORS_1_3",
@@ -6626,7 +6631,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 19457,
+      "Progressed": 19466,
       "Completed": 85
     }
   ],
@@ -6634,8 +6639,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-12-31T16:57:53.6678142+00:00",
-  "LastChanged_Achievements": "2024-01-01T22:03:51.0285046+00:00",
+  "LastChanged_Achievements": "2024-01-01T23:04:50.1307793+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:09.201879+00:00",
-  "LastUpdate_Ratings": "2024-01-01T21:58:23.265705+00:00",
-  "LastUpdate_Achievements": "2024-01-01T22:03:51.0285571+00:00"
+  "LastUpdate_Ratings": "2024-01-01T22:59:04.1423222+00:00",
+  "LastUpdate_Achievements": "2024-01-01T23:04:50.1308184+00:00"
 }

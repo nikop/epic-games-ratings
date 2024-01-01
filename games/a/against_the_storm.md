@@ -6,7 +6,7 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overgrown Library | 8.00% | ~1,593 |
+| Overgrown Library | 8.00% | ~1,594 |
 | Taking Action | 7.00% | ~1,394 |
 | No Deaths | 7.00% | ~1,394 |
 | Abandoned Settlement | 7.00% | ~1,394 |
@@ -42,13 +42,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 2.00% | ~398 |
 | Trade Baron | 2.00% | ~398 |
 | Serving Ale | 1.00% | ~199 |
+| Efficient Explorer | 1.00% | ~199 |
 | Refinery | 1.00% | ~199 |
 | Fishmen Ritual Site | 1.00% | ~199 |
 | Forsaken Gods Temple | 1.00% | ~199 |
 | Victory Through Prosperity | 1.00% | ~199 |
 | Defying the Crown | 1.00% | ~199 |
 | Into the Forest | 1.00% | ~199 |
-| Efficient Explorer | 0.90% | ~179 |
 | Dangerous Lands | 0.90% | ~179 |
 | Forbidden Lands | 0.90% | ~179 |
 | Feeding The People | 0.60% | ~120 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,918 (Ranked 152)  
+Progressed: 19,919 (Ranked 152)  
 Completed: 33 (0.17%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 33 (0.17%) (Ranked 281)
 | 2023-12-29 | 19,630 | 36 |
 | 2023-12-30 | 19,741 | 35 |
 | 2023-12-31 | 19,834 | 34 |
-| 2024-01-01 | 19,918 | 33 |
+| 2024-01-01 | 19,919 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 447  (Ranked 229)  
 Sum: 3,317 (Ranked 177)  

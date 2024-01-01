@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -655,9 +655,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4181,
+  "EOS_Progressed": 4182,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9260,6 +9260,11 @@
       "Time": "2024-01-01T22:09:10.476306+00:00",
       "NumProgressed": 4181,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-01T23:10:26.8988484+00:00",
+      "NumProgressed": 4182,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9351,7 +9356,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1966
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -9391,7 +9396,7 @@
       "Name": "Gunslinger",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -9471,7 +9476,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -9511,7 +9516,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -9639,7 +9644,7 @@
       "Name": "Taking it back",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -9679,7 +9684,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -9805,9 +9810,9 @@
       "ID": "REWARD_DLC03_03_STROLL_IN_THE_WOODS",
       "SetID": "83mdf7p",
       "Name": "Stroll in the Woods",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 21
     },
     {
       "ID": "REWARD_DLC04_01_SHIPBREAKER",
@@ -9838,13 +9843,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4132,
+      "Progressed": 4133,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4181,
+      "Progressed": 4182,
       "Completed": 11
     }
   ],
@@ -9852,8 +9857,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-31T17:57:21.8483577+00:00",
-  "LastChanged_Achievements": "2024-01-01T22:09:10.4762992+00:00",
+  "LastChanged_Achievements": "2024-01-01T23:10:26.8988481+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:41.6601563+00:00",
-  "LastUpdate_Ratings": "2024-01-01T21:57:55.0944926+00:00",
-  "LastUpdate_Achievements": "2024-01-01T22:09:10.4763963+00:00"
+  "LastUpdate_Ratings": "2024-01-01T22:58:23.2519755+00:00",
+  "LastUpdate_Achievements": "2024-01-01T23:10:26.898939+00:00"
 }

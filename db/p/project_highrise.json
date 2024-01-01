@@ -4,8 +4,8 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 290,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 476,
+  "EOS_Progressed": 477,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1530,6 +1530,11 @@
       "Time": "2024-01-01T11:06:13.4406124+00:00",
       "NumProgressed": 476,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T23:06:07.1707072+00:00",
+      "NumProgressed": 477,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1843,9 +1848,9 @@
       "ID": "ach_floors",
       "SetID": "b8gh1fi",
       "Name": "Starting Skyward",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 234
     },
     {
       "ID": "ach_floors_1",
@@ -1965,7 +1970,7 @@
       "Name": "People Mover",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ach_pop_2",
@@ -2139,9 +2144,9 @@
       "ID": "ach_scenarios_1",
       "SetID": "b8gh1fi",
       "Name": "Golden Opportunity",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_scenarios_2",
@@ -2165,7 +2170,7 @@
       "Name": "Smooth Service",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ach_trash_1",
@@ -2244,7 +2249,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 476,
+      "Progressed": 477,
       "Completed": 0
     }
   ],
@@ -2252,8 +2257,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-01T22:04:48.0599451+00:00",
+  "LastChanged_Achievements": "2024-01-01T23:06:07.1707068+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.6325323+00:00",
-  "LastUpdate_Ratings": "2024-01-01T21:57:58.0548615+00:00",
-  "LastUpdate_Achievements": "2024-01-01T22:04:48.0600525+00:00"
+  "LastUpdate_Ratings": "2024-01-01T22:58:27.0596133+00:00",
+  "LastUpdate_Achievements": "2024-01-01T23:06:07.1707833+00:00"
 }

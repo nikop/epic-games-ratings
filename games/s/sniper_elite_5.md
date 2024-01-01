@@ -5,22 +5,22 @@ Rating: 4.46 (Ranked 675)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,965 |
+| Meeting Resistance | 47.00% | ~1,966 |
 | Confirming Suspicions | 42.00% | ~1,756 |
 | The Kraken Wakes | 37.00% | ~1,547 |
 | It's Starting to Crack | 34.00% | ~1,422 |
 | Change the Channel | 32.00% | ~1,338 |
 | Lord of War | 31.00% | ~1,296 |
-| Taking it back | 30.00% | ~1,254 |
+| Taking it back | 30.00% | ~1,255 |
 | Resourceful | 28.00% | ~1,171 |
 | Target America | 27.00% | ~1,129 |
-| The Kraken Sleeps | 25.00% | ~1,045 |
-| As Quiet as a Mouse | 24.00% | ~1,003 |
+| The Kraken Sleeps | 25.00% | ~1,046 |
+| As Quiet as a Mouse | 24.00% | ~1,004 |
 | Liberté | 23.00% | ~962 |
 | Organ Grinder | 23.00% | ~962 |
 | Sharpshooter | 23.00% | ~962 |
-| Gunslinger | 19.00% | ~794 |
-| Explosive Efficiency | 19.00% | ~794 |
+| Gunslinger | 19.00% | ~795 |
+| Explosive Efficiency | 19.00% | ~795 |
 | Climbing the Ladder | 17.00% | ~711 |
 | Just a Flesh Wound | 17.00% | ~711 |
 | Der Geist | 17.00% | ~711 |
@@ -74,10 +74,10 @@ Rating: 4.46 (Ranked 675)
 | Master of Pistols | 0.70% | ~29 |
 | Operation Overlord | 0.70% | ~29 |
 | Master-at-arms | 0.60% | ~25 |
-| Stroll in the Woods | 0.60% | ~25 |
 | Going Overboard | 0.60% | ~25 |
+| Stroll in the Woods | 0.50% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,181 (Ranked 208)  
+Progressed: 4,182 (Ranked 208)  
 Completed: 11 (0.26%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 11 (0.26%) (Ranked 262)
 | 2023-12-29 | 4,153 | 11 |
 | 2023-12-30 | 4,160 | 11 |
 | 2023-12-31 | 4,171 | 11 |
-| 2024-01-01 | 4,181 | 11 |
+| 2024-01-01 | 4,182 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 528)  
 Sum: 28 (Ranked 544)  

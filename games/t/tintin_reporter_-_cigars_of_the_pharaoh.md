@@ -19,9 +19,9 @@
 | Mysterious Bungalow | 9.00% | ~10 |
 | The Eyes! | 8.00% | ~9 |
 | Keep the Doctor Away | 8.00% | ~9 |
+| Just a Palm Tree | 8.00% | ~9 |
 | Punctual | 8.00% | ~9 |
 | Mummy Nightmare | 8.00% | ~9 |
-| Just a Palm Tree | 7.00% | ~8 |
 | Under the Hood | 7.00% | ~8 |
 | Long Live Gaipajama! | 7.00% | ~8 |
 | Eyes Shut | 6.00% | ~7 |

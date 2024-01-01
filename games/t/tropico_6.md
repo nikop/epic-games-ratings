@@ -6,23 +6,23 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 73.00% | ~4,987 |
-| Un-Lonely Island | 45.00% | ~3,074 |
-| The Beginning of a Servantship | 44.00% | ~3,006 |
-| Trade Is My Trait | 36.00% | ~2,459 |
-| Number 18 | 23.00% | ~1,571 |
+| Just One...More...Term... | 73.00% | ~4,989 |
+| Un-Lonely Island | 45.00% | ~3,075 |
+| The Beginning of a Servantship | 44.00% | ~3,007 |
+| Trade Is My Trait | 36.00% | ~2,460 |
+| Number 18 | 23.00% | ~1,572 |
 | We Don't Have Time For That | 18.00% | ~1,230 |
-| The Governator | 17.00% | ~1,161 |
+| The Governator | 17.00% | ~1,162 |
 | The Legend of Langostino | 16.00% | ~1,093 |
 | Caribbean Comrade | 15.00% | ~1,025 |
 | The Dreamer of Dreams | 15.00% | ~1,025 |
-| Go Sovereigns! | 11.00% | ~751 |
-| For Science! | 11.00% | ~751 |
+| Go Sovereigns! | 11.00% | ~752 |
+| For Science! | 11.00% | ~752 |
 | Happy Ending? | 10.00% | ~683 |
 | Of Seals And Men | 9.00% | ~615 |
 | Shackadelic | 9.00% | ~615 |
-| Double Trouble | 8.00% | ~546 |
-| Firestarter | 8.00% | ~546 |
+| Double Trouble | 8.00% | ~547 |
+| Firestarter | 8.00% | ~547 |
 | Make Tropico Great Again! | 7.00% | ~478 |
 | French Connection | 7.00% | ~478 |
 | Don't Panic! | 6.00% | ~410 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~55 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,831 (Ranked 194)  
+Progressed: 6,834 (Ranked 194)  
 Completed: 2 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,10 +303,10 @@ Completed: 2 (0.03%) (Ranked 350)
 | 2023-12-29 | 6,753 | 2 |
 | 2023-12-30 | 6,780 | 2 |
 | 2023-12-31 | 6,808 | 2 |
-| 2024-01-01 | 6,831 | 2 |
+| 2024-01-01 | 6,834 | 2 |
 ## Awards
 Max (Highly Recommended): 106  (Ranked 367)  
-Sum: 751 (Ranked 298)  
+Sum: 752 (Ranked 298)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
@@ -315,7 +315,7 @@ Diff (max vs sum): 69
 | This game is Relaxing | 103 |
 | This game has Quickly Understood Controls | 103 |
 | This game has Amazing Storytelling | 95 |
-| This game is Extremely Fun | 92 |
+| This game is Extremely Fun | 93 |
 | This game has Amazing Characters | 91 |
 | This game is Educational | 91 |
 | This game has a Creative Community | 70 |
@@ -503,4 +503,4 @@ Diff (max vs sum): 69
 | 2023-12-25 | 4.66 | - | 105 | 743 |
 | 2023-12-28 | 4.66 | - | 105 | 745 |
 | 2023-12-30 | 4.66 | - | 105 | 749 |
-| 2024-01-01 | 4.66 | - | 106 | 751 |
+| 2024-01-01 | 4.66 | - | 106 | 752 |

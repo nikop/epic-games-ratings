@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3780,
+  "EOS_Progressed": 3781,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2157,6 +2157,11 @@
       "Time": "2024-01-01T16:04:40.5447246+00:00",
       "NumProgressed": 3780,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T23:05:41.5550255+00:00",
+      "NumProgressed": 3781,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2208,7 +2213,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -2248,7 +2253,7 @@
       "Name": "...To Heroes",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "FINISH_GAME_W_GOOD_SKATE_RAT",
@@ -2272,7 +2277,7 @@
       "Name": "You Rich Now!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -2280,7 +2285,7 @@
       "Name": "We\u0027re In",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -2368,14 +2373,14 @@
       "Name": "Mas, Por Favor",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     }
   ],
   "AchievementSets": [
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3780,
+      "Progressed": 3781,
       "Completed": 0
     }
   ],
@@ -2383,8 +2388,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2024-01-01T22:04:29.3819505+00:00",
+  "LastChanged_Achievements": "2024-01-01T23:05:41.5550251+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:14.9604799+00:00",
-  "LastUpdate_Ratings": "2024-01-01T21:57:40.3386593+00:00",
-  "LastUpdate_Achievements": "2024-01-01T22:04:29.3819786+00:00"
+  "LastUpdate_Ratings": "2024-01-01T22:58:02.3663111+00:00",
+  "LastUpdate_Achievements": "2024-01-01T23:05:41.5550521+00:00"
 }

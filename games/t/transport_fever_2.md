@@ -1,7 +1,7 @@
 # Transport Fever 2
 [Store](https://store.epicgames.com/en-US/p/transport-fever-2)  
 [View Rawdata](../../db/t/transport_fever_2.json)  
-Rating: 4.68 (Ranked 262)  
+Rating: 4.68 (Ranked 263)  
 Number of Ratings: 180  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -20,7 +20,7 @@ Number of Ratings: 180  (23.09.2022)
 | Transport millionaire | 51.00% | ~1,163 |
 | Transport master | 49.00% | ~1,117 |
 | Cargo hub | 49.00% | ~1,117 |
-| Sculpturer | 46.00% | ~1,049 |
+| Sculpturer | 47.00% | ~1,072 |
 | Settled down | 45.00% | ~1,026 |
 | First electric train arrived | 43.00% | ~980 |
 | Now what? | 43.00% | ~980 |
@@ -45,9 +45,9 @@ Number of Ratings: 180  (23.09.2022)
 | Campaign expert | 10.00% | ~228 |
 | Truck Fever | 10.00% | ~228 |
 | No free seats | 9.00% | ~205 |
+| Penny pincher | 9.00% | ~205 |
 | Back to the future | 8.00% | ~182 |
 | Transport belt | 8.00% | ~182 |
-| Penny pincher | 8.00% | ~182 |
 | Campaign shark | 5.00% | ~114 |
 | E.P.E.C. | 5.00% | ~114 |
 | Transport shark (Hard mode) | 4.00% | ~91 |

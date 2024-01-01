@@ -1,22 +1,22 @@
 # War Mongrels
 [Store](https://store.epicgames.com/en-US/p/war-mongrels)  
 [View Rawdata](../../db/w/war_mongrels.json)  
-Rating: 4.37 (Ranked 798)  
+Rating: 4.37 (Ranked 797)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 68.00% | ~508 |
+| Explorer | 68.00% | ~509 |
 | Cowardice | 61.00% | ~456 |
+| NO LIFE IS WORTH SAVING... | 45.00% | ~337 |
 | The Breaking Point | 44.00% | ~329 |
-| NO LIFE IS WORTH SAVING... | 44.00% | ~329 |
-| Eat Lead! | 43.00% | ~321 |
+| Eat Lead! | 43.00% | ~322 |
 | Here Comes the Boom | 40.00% | ~299 |
-| Prospector | 39.00% | ~291 |
+| Prospector | 39.00% | ~292 |
 | Sniper Wolf | 38.00% | ~284 |
 | Treasure Hunter | 36.00% | ~269 |
 | The Motivation | 36.00% | ~269 |
-| Heroism | 35.00% | ~261 |
+| Heroism | 35.00% | ~262 |
 | Collectibles of Chapter I | 33.00% | ~247 |
 | Missing in Action | 32.00% | ~239 |
 | Consequences | 31.00% | ~232 |
@@ -25,9 +25,9 @@ Number of Ratings: 34  (23.09.2022)
 | The Horror | 28.00% | ~209 |
 | The Difference | 25.00% | ~187 |
 | It's Just an Accident | 25.00% | ~187 |
-| Vengeance | 24.00% | ~179 |
-| Collectibles of Chapter II | 22.00% | ~164 |
-| Broken Hopes | 22.00% | ~164 |
+| Vengeance | 24.00% | ~180 |
+| Collectibles of Chapter II | 22.00% | ~165 |
+| Broken Hopes | 22.00% | ~165 |
 | Bullseye! | 21.00% | ~157 |
 | Sorrow | 19.00% | ~142 |
 | Atonement | 17.00% | ~127 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.10% | ~1 |
 | Challenges of Chapter XII | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 747 (Ranked 309)  
+Progressed: 748 (Ranked 309)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,6 +264,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 733 | 0 |
 | 2023-12-30 | 741 | 0 |
 | 2023-12-31 | 747 | 0 |
+| 2024-01-01 | 748 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

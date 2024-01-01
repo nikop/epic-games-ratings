@@ -4,8 +4,8 @@
   "ProductSlug": "gangs-of-sherwood",
   "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 385,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
     "PcReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 110,
+  "EOS_Progressed": 111,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -470,6 +470,11 @@
       "Time": "2024-01-01T18:05:03.3044199+00:00",
       "NumProgressed": 110,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T23:05:08.5270424+00:00",
+      "NumProgressed": 111,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-21T10:10:18.7530566+00:00",
@@ -488,7 +493,7 @@
       "ID": "ACH_100_CHARGE",
       "SetID": "5akmpni",
       "Name": "Ascending Will",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
       "UsersEstimate": 16
     },
@@ -512,7 +517,7 @@
       "ID": "ACH_100_HIT_COMBO",
       "SetID": "5akmpni",
       "Name": "Ultra Combo",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 16
     },
@@ -530,7 +535,7 @@
       "Name": "Air Fighter",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_ALL_CHALENGES",
@@ -610,7 +615,7 @@
       "Name": "Oo-De-Lally",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_COOP_MISSIONS",
@@ -618,7 +623,7 @@
       "Name": "Merry Co-operation",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_ENCOUNTER_S_RANK",
@@ -634,13 +639,13 @@
       "Name": "Tap Dancing",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_ENEMY_LEDGE_FALL",
       "SetID": "5akmpni",
       "Name": "Watch your Step!",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
       "UsersEstimate": 59
     },
@@ -664,9 +669,9 @@
       "ID": "ACH_EQUIP_ARTIFACT",
       "SetID": "5akmpni",
       "Name": "Treasure Hunter",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_EVO_MOMENT_37",
@@ -680,9 +685,9 @@
       "ID": "ACH_FINISHER",
       "SetID": "5akmpni",
       "Name": "Finish Him!",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_GIVE_MONEY_CHECKPOINT",
@@ -690,7 +695,7 @@
       "Name": "Act of Kindness",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_GRAPPLE_ENEMY",
@@ -706,7 +711,7 @@
       "Name": "Right between the eyes",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_HIGH_FIVE",
@@ -738,7 +743,7 @@
       "Name": "Hidden Experiment",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_KILL_PRIORESS_ROBIN",
@@ -824,7 +829,7 @@
       "ID": "ACH_REBEL_ABILITY",
       "SetID": "5akmpni",
       "Name": "Take Action!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 16
     },
@@ -832,7 +837,7 @@
       "ID": "ACH_REBEL_INSTINCT",
       "SetID": "5akmpni",
       "Name": "Rebel Unleashed",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
       "UsersEstimate": 38
     },
@@ -842,7 +847,7 @@
       "Name": "MAX LEVEL",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_REVIVE_ALLY",
@@ -905,14 +910,14 @@
     {
       "ID": "5akmpni",
       "IsBase": true,
-      "Progressed": 110,
+      "Progressed": 111,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2024-01-01T22:04:04.6375035+00:00",
+  "LastChanged_Achievements": "2024-01-01T23:05:08.5270421+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.813502+00:00",
-  "LastUpdate_Ratings": "2024-01-01T21:57:19.5768404+00:00",
-  "LastUpdate_Achievements": "2024-01-01T22:04:04.6375373+00:00"
+  "LastUpdate_Ratings": "2024-01-01T22:57:31.1707284+00:00",
+  "LastUpdate_Achievements": "2024-01-01T23:05:08.5270749+00:00"
 }

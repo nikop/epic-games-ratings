@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 613)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 10.00% | ~3,308 |
+| Stylish | 10.00% | ~3,309 |
 | Advancement | 8.00% | ~2,647 |
 | Meticulously Efficient | 8.00% | ~2,647 |
 | Discovery | 6.00% | ~1,985 |
@@ -15,12 +15,12 @@ Rating: 4.50 (Ranked 613)
 | Fully Upgraded | 5.00% | ~1,654 |
 | Teamwork | 5.00% | ~1,654 |
 | Vaporous Expansion | 5.00% | ~1,654 |
-| Clutch Capture | 4.00% | ~1,323 |
-| Cultured | 4.00% | ~1,323 |
-| Daily Dose | 4.00% | ~1,323 |
-| Ghostbuster In Training | 4.00% | ~1,323 |
-| There you are! | 4.00% | ~1,323 |
-| Whoopsie | 4.00% | ~1,323 |
+| Clutch Capture | 4.00% | ~1,324 |
+| Cultured | 4.00% | ~1,324 |
+| Daily Dose | 4.00% | ~1,324 |
+| Ghostbuster In Training | 4.00% | ~1,324 |
+| There you are! | 4.00% | ~1,324 |
+| Whoopsie | 4.00% | ~1,324 |
 | Animated | 3.00% | ~993 |
 | Back Off | 3.00% | ~993 |
 | We have the best insurance | 3.00% | ~993 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 613)
 | Ultimate Defense | 0.20% | ~66 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,085 (Ranked 135)  
+Progressed: 33,089 (Ranked 135)  
 Completed: 71 (0.21%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 71 (0.21%) (Ranked 269)
 | 2023-12-29 | 32,915 | 71 |
 | 2023-12-30 | 32,969 | 71 |
 | 2023-12-31 | 33,028 | 71 |
-| 2024-01-01 | 33,085 | 71 |
+| 2024-01-01 | 33,089 | 71 |
 ## Awards
 Max (Great for Beginners): 326  (Ranked 254)  
 Sum: 2,944 (Ranked 185)  

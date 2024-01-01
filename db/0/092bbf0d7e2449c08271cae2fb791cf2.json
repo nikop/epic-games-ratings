@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 401,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -1327,9 +1327,9 @@
       "ID": "ach2",
       "SetID": "796kfpa",
       "Name": "Blabber",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 145,
-      "UsersEstimate": 196
+      "UsersEstimate": 200
     },
     {
       "ID": "ach3",
@@ -1382,8 +1382,8 @@
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-01T22:06:26.9337191+00:00",
+  "LastChanged_Achievements": "2024-01-01T23:09:00.9752118+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:07.636228+00:00",
-  "LastUpdate_Ratings": "2024-01-01T21:58:19.4179237+00:00",
-  "LastUpdate_Achievements": "2024-01-01T22:06:26.9337393+00:00"
+  "LastUpdate_Ratings": "2024-01-01T22:58:59.2454642+00:00",
+  "LastUpdate_Achievements": "2024-01-01T23:09:00.9752233+00:00"
 }

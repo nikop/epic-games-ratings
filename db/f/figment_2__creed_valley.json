@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 533,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 430,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -360,9 +360,9 @@
       "ID": "fluff_cerebrum_cider_priciple_square",
       "SetID": "7e96e7l",
       "Name": "A heavy thinker",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "fluff_hit_by_coco_bulb",
@@ -448,9 +448,9 @@
       "ID": "story_ethics_maze",
       "SetID": "7e96e7l",
       "Name": "Repair the Mind Validation Machine",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "story_jester_land",
@@ -489,8 +489,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2024-01-01T22:09:44.7069802+00:00",
+  "LastChanged_Achievements": "2024-01-01T23:11:12.3448245+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.3549942+00:00",
-  "LastUpdate_Ratings": "2024-01-01T21:57:52.4836295+00:00",
-  "LastUpdate_Achievements": "2024-01-01T22:09:44.7069997+00:00"
+  "LastUpdate_Ratings": "2024-01-01T22:58:19.3924648+00:00",
+  "LastUpdate_Achievements": "2024-01-01T23:11:12.3448348+00:00"
 }

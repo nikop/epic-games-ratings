@@ -5,27 +5,27 @@ Rating: 4.56 (Ranked 503)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 67.00% | ~852 |
-| The Teleprobe | 53.00% | ~674 |
-| The City | 48.00% | ~610 |
-| The field base | 44.00% | ~559 |
+| The Camp | 67.00% | ~853 |
+| The Teleprobe | 53.00% | ~675 |
+| The City | 48.00% | ~611 |
+| The field base | 44.00% | ~560 |
 | The Alliance | 39.00% | ~496 |
-| Survivors | 38.00% | ~483 |
-| The Condor | 35.00% | ~445 |
-| The End | 35.00% | ~445 |
+| Survivors | 38.00% | ~484 |
+| The Condor | 35.00% | ~446 |
+| The End | 35.00% | ~446 |
 | The Necroevolution | 28.00% | ~356 |
-| Krauta is alive | 27.00% | ~343 |
+| Krauta is alive | 27.00% | ~344 |
 | Peacemaker | 22.00% | ~280 |
 | On her own | 21.00% | ~267 |
 | Volcanologist | 21.00% | ~267 |
-| Fierce fight | 20.00% | ~254 |
-| Evacuation | 19.00% | ~241 |
+| Fierce fight | 20.00% | ~255 |
+| Evacuation | 19.00% | ~242 |
+| Flying Objects Operator | 17.00% | ~216 |
 | Beyond divisions | 17.00% | ~216 |
-| Flying Objects Operator | 16.00% | ~203 |
 | I remember everything! | 14.00% | ~178 |
 | Another giant | 13.00% | ~165 |
-| Violent solution | 9.00% | ~114 |
-| I leave no man behind | 9.00% | ~114 |
+| Violent solution | 9.00% | ~115 |
+| I leave no man behind | 9.00% | ~115 |
 | Innate curiosity | 7.00% | ~89 |
 | Strong objection | 6.00% | ~76 |
 | Ubiquitous holes | 5.00% | ~64 |
@@ -33,9 +33,9 @@ Rating: 4.56 (Ranked 503)
 | Got lost again | 5.00% | ~64 |
 | I leave no man behind (no exceptions) | 2.00% | ~25 |
 | Convoy list | 0.90% | ~11 |
-| No more mistakes | 0.60% | ~8 |
+| No more mistakes | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,271 (Ranked 274)  
+Progressed: 1,273 (Ranked 274)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 1,151 | 0 |
 | 2023-12-30 | 1,193 | 0 |
 | 2023-12-31 | 1,236 | 0 |
-| 2024-01-01 | 1,271 | 0 |
+| 2024-01-01 | 1,273 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

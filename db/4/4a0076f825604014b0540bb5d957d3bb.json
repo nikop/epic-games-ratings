@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 348,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -642,9 +642,9 @@
       "ID": "CgkInO_K3eIdEAIQBg",
       "SetID": "6bj96in",
       "Name": "BACK TO THE FUTURE",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 40,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "CgkInO_K3eIdEAIQBw",
@@ -674,9 +674,9 @@
       "ID": "CgkInO_K3eIdEAIQCg",
       "SetID": "6bj96in",
       "Name": "ADVANCED CRAFTSMAN",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "CgkInO_K3eIdEAIQCw",
@@ -714,9 +714,9 @@
       "ID": "CgkInO_K3eIdEAIQDw",
       "SetID": "6bj96in",
       "Name": "TIME THIEF",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "CgkInO_K3eIdEAIQEA",
@@ -817,8 +817,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2024-01-01T22:09:38.6937881+00:00",
+  "LastChanged_Achievements": "2024-01-01T23:11:04.526982+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:14.0329257+00:00",
-  "LastUpdate_Ratings": "2024-01-01T21:59:54.3039346+00:00",
-  "LastUpdate_Achievements": "2024-01-01T22:09:38.6938049+00:00"
+  "LastUpdate_Ratings": "2024-01-01T23:01:15.5489546+00:00",
+  "LastUpdate_Achievements": "2024-01-01T23:11:04.5270005+00:00"
 }

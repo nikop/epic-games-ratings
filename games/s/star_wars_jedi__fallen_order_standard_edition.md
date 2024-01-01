@@ -1,52 +1,52 @@
 # STAR WARS Jedi: Fallen Order Standard Edition
 [Store](https://store.epicgames.com/en-US/p/star-wars-jedi-fallen-order)  
 [View Rawdata](../../db/s/star_wars_jedi__fallen_order_standard_edition.json)  
-Rating: 4.67 (Ranked 286)  
+Rating: 4.68 (Ranked 263)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~30,666 |
-| A Long Time Ago | 91.00% | ~27,906 |
-| Sabersmith | 79.00% | ~24,226 |
-| The Obstacle is the Way | 75.00% | ~23,000 |
-| Back At You | 70.00% | ~21,466 |
-| Happy Go Wookiee | 66.00% | ~20,240 |
-| Everything is Connected | 57.00% | ~17,480 |
-| Her Name Was Masana Tide | 52.00% | ~15,946 |
-| Bank Shot | 51.00% | ~15,640 |
-| Perfect Timing | 50.00% | ~15,333 |
-| Gorgara Falls | 48.00% | ~14,720 |
-| The Full Glow-Up | 48.00% | ~14,720 |
-| For A More Civilized Age | 46.00% | ~14,106 |
-| The Holocron Awaits | 44.00% | ~13,493 |
-| I Knew He Was No Good | 44.00% | ~13,493 |
-| Trust Only In The Force | 42.00% | ~12,880 |
-| Look Out Below | 41.00% | ~12,573 |
-| Scum and Villainy | 41.00% | ~12,573 |
-| Don't Mess with BD-1 | 39.00% | ~11,960 |
-| Blade Master | 36.00% | ~11,040 |
-| Full House | 34.00% | ~10,426 |
-| Legendary Beasts | 21.00% | ~6,440 |
-| Echo Location | 19.00% | ~5,827 |
-| Visiting Alderaan Places | 17.00% | ~5,213 |
-| Triple Take | 13.00% | ~3,987 |
-| Cal Got Your Tongue? | 13.00% | ~3,987 |
-| Big Bang | 11.00% | ~3,373 |
-| Feel the Force | 9.00% | ~2,760 |
-| Can't Touch This | 8.00% | ~2,453 |
-| Medical Droid | 8.00% | ~2,453 |
-| Data Collector | 7.00% | ~2,147 |
-| Data Disk | 6.00% | ~1,840 |
-| Collector | 5.00% | ~1,533 |
-| Green Thumb | 4.00% | ~1,227 |
-| Kickoff | 3.00% | ~920 |
-| A Galaxy Far, Far Away | 3.00% | ~920 |
-| Kicking Back | 2.00% | ~613 |
-| What Goes Around... | 2.00% | ~613 |
+| The Mantis | 100.00% | ~30,693 |
+| A Long Time Ago | 91.00% | ~27,931 |
+| Sabersmith | 79.00% | ~24,247 |
+| The Obstacle is the Way | 75.00% | ~23,020 |
+| Back At You | 70.00% | ~21,485 |
+| Happy Go Wookiee | 66.00% | ~20,257 |
+| Everything is Connected | 57.00% | ~17,495 |
+| Her Name Was Masana Tide | 52.00% | ~15,960 |
+| Bank Shot | 51.00% | ~15,653 |
+| Perfect Timing | 50.00% | ~15,346 |
+| Gorgara Falls | 48.00% | ~14,733 |
+| The Full Glow-Up | 48.00% | ~14,733 |
+| For A More Civilized Age | 46.00% | ~14,119 |
+| The Holocron Awaits | 44.00% | ~13,505 |
+| I Knew He Was No Good | 44.00% | ~13,505 |
+| Trust Only In The Force | 42.00% | ~12,891 |
+| Look Out Below | 41.00% | ~12,584 |
+| Scum and Villainy | 41.00% | ~12,584 |
+| Don't Mess with BD-1 | 39.00% | ~11,970 |
+| Blade Master | 36.00% | ~11,049 |
+| Full House | 34.00% | ~10,436 |
+| Legendary Beasts | 21.00% | ~6,446 |
+| Echo Location | 19.00% | ~5,832 |
+| Visiting Alderaan Places | 17.00% | ~5,218 |
+| Triple Take | 13.00% | ~3,990 |
+| Cal Got Your Tongue? | 13.00% | ~3,990 |
+| Big Bang | 11.00% | ~3,376 |
+| Feel the Force | 9.00% | ~2,762 |
+| Can't Touch This | 8.00% | ~2,455 |
+| Medical Droid | 8.00% | ~2,455 |
+| Data Collector | 7.00% | ~2,149 |
+| Data Disk | 6.00% | ~1,842 |
+| Collector | 5.00% | ~1,535 |
+| Green Thumb | 4.00% | ~1,228 |
+| Kickoff | 3.00% | ~921 |
+| A Galaxy Far, Far Away | 3.00% | ~921 |
+| Kicking Back | 2.00% | ~614 |
+| What Goes Around... | 2.00% | ~614 |
 | Not So Fast | 1.00% | ~307 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,666 (Ranked 139)  
-Completed: 295 (0.96%) (Ranked 174)  
+Progressed: 30,693 (Ranked 139)  
+Completed: 296 (0.96%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -178,7 +178,7 @@ Completed: 295 (0.96%) (Ranked 174)
 | 2023-12-29 | 29,364 | 287 |
 | 2023-12-30 | 29,816 | 290 |
 | 2023-12-31 | 30,267 | 293 |
-| 2024-01-01 | 30,666 | 295 |
+| 2024-01-01 | 30,693 | 296 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -217,3 +217,4 @@ Completed: 295 (0.96%) (Ranked 174)
 | 2023-11-03 | 4.67 | 0 | 0 |
 | 2023-11-12 | 4.66 | 0 | 0 |
 | 2023-12-29 | 4.67 | 0 | 0 |
+| 2024-01-01 | 4.68 | 0 | 0 |

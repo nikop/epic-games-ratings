@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -1125,9 +1125,9 @@
       "ID": "SG_MEANTTOBE",
       "SetID": "bj5g0n4",
       "Name": "Meant To Be",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -1292,8 +1292,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-01T22:08:46.238994+00:00",
+  "LastChanged_Achievements": "2024-01-01T23:09:54.3775804+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.3127204+00:00",
-  "LastUpdate_Ratings": "2024-01-01T21:59:20.2949906+00:00",
-  "LastUpdate_Achievements": "2024-01-01T22:08:46.2390291+00:00"
+  "LastUpdate_Ratings": "2024-01-01T23:00:23.3316497+00:00",
+  "LastUpdate_Achievements": "2024-01-01T23:09:54.3776273+00:00"
 }

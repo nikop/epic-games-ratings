@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mathematic | 85.00% | ~198 |
-| Digging a Hole | 75.00% | ~175 |
-| It's Yours, My Friend | 71.00% | ~165 |
+| Digging a Hole | 76.00% | ~177 |
+| It's Yours, My Friend | 72.00% | ~168 |
 | Conducted Trade | 65.00% | ~151 |
 | Going Places | 63.00% | ~147 |
 | Aristocratic | 60.00% | ~140 |
@@ -20,8 +20,8 @@
 | Up, Up And Away! | 30.00% | ~70 |
 | Whoa! | 28.00% | ~65 |
 | Botropolis | 24.00% | ~56 |
+| Steaming Rich | 19.00% | ~44 |
 | Steam Powered | 18.00% | ~42 |
-| Steaming Rich | 18.00% | ~42 |
 | Manic Mechanic | 17.00% | ~40 |
 | Room To Spare | 14.00% | ~33 |
 | Click 'Em All | 5.00% | ~12 |

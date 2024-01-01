@@ -1,7 +1,7 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.38 (Ranked 785)  
+Rating: 4.38 (Ranked 784)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,7 +12,7 @@ Rating: 4.38 (Ranked 785)
 | I am the law! | 63.00% | ~1,053 |
 | Lumberjack | 53.00% | ~886 |
 | Croaked | 49.00% | ~819 |
-| Limp Richard | 48.00% | ~802 |
+| Limp Richard | 49.00% | ~819 |
 | Exorcist | 48.00% | ~802 |
 | From Darkness to Light | 48.00% | ~802 |
 | Editor Adept | 47.00% | ~785 |

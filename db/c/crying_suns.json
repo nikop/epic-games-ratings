@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -697,9 +697,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473199,
+  "EOS_Progressed": 473201,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 387,
+  "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27197,6 +27197,11 @@
       "Time": "2024-01-01T22:09:52.6333573+00:00",
       "NumProgressed": 473199,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-01T23:11:21.9313475+00:00",
+      "NumProgressed": 473201,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -27296,7 +27301,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312311
+      "UsersEstimate": 312313
     },
     {
       "ID": "achievement_story_landa",
@@ -27839,21 +27844,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17133,
+      "Progressed": 17135,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473199,
+      "Progressed": 473201,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-01T21:59:48.2625642+00:00",
-  "LastChanged_Achievements": "2024-01-01T22:09:52.6333566+00:00",
+  "LastChanged_Achievements": "2024-01-01T23:11:21.931347+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:35.1454991+00:00",
-  "LastUpdate_Ratings": "2024-01-01T21:59:48.2625646+00:00",
-  "LastUpdate_Achievements": "2024-01-01T22:09:52.633533+00:00"
+  "LastUpdate_Ratings": "2024-01-01T23:01:06.1598085+00:00",
+  "LastUpdate_Achievements": "2024-01-01T23:11:21.931537+00:00"
 }

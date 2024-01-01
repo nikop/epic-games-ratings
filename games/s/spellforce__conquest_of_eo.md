@@ -22,8 +22,8 @@
 | The Circle | 35.00% | ~37 |
 | Bad JuJu | 25.00% | ~27 |
 | Slave to the rhythm | 23.00% | ~25 |
+| Castle Meldec | 22.00% | ~24 |
 | Friend of Sevenkeeps | 22.00% | ~24 |
-| Castle Meldec | 21.00% | ~22 |
 | Sevenkeeps Seat of Kings | 20.00% | ~21 |
 | Friend of Alluvyan | 17.00% | ~18 |
 | Friend of Connach | 16.00% | ~17 |
@@ -35,9 +35,9 @@
 | Silver Drift Hollow Mine | 11.00% | ~12 |
 | Friend of Orgash | 11.00% | ~12 |
 | Friend of Bastion | 11.00% | ~12 |
+| Magic Academy | 11.00% | ~12 |
 | A Master of Magic | 10.00% | ~11 |
 | Friend of Windholme | 10.00% | ~11 |
-| Magic Academy | 10.00% | ~11 |
 | Defeat Gor | 9.00% | ~10 |
 | Yngrid's Tale | 9.00% | ~10 |
 | A Joke | 9.00% | ~10 |

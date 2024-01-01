@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 56.00% | ~267 |
-| Starting Skyward | 50.00% | ~238 |
+| Starting Skyward | 49.00% | ~234 |
 | Grime is Not Good | 43.00% | ~205 |
 | Floor Galore | 38.00% | ~181 |
 | Campaign Launch | 37.00% | ~176 |
@@ -18,11 +18,11 @@
 | Destination Destiny | 29.00% | ~138 |
 | Happy Tenants | 24.00% | ~114 |
 | Potent Potables | 24.00% | ~114 |
-| Smooth Service | 23.00% | ~109 |
+| Smooth Service | 23.00% | ~110 |
 | Your Prestige is Rising | 22.00% | ~105 |
 | Retail Revenue | 22.00% | ~105 |
 | Don't Feel a Loan | 21.00% | ~100 |
-| People Mover | 19.00% | ~90 |
+| People Mover | 19.00% | ~91 |
 | Lux Living | 18.00% | ~86 |
 | Artfully Done | 18.00% | ~86 |
 | Emporium Empire | 18.00% | ~86 |
@@ -47,12 +47,12 @@
 | Master of Puppets | 8.00% | ~38 |
 | First 100 Days | 7.00% | ~33 |
 | Water Features | 7.00% | ~33 |
-| Golden Opportunity | 7.00% | ~33 |
 | Phoning It In | 7.00% | ~33 |
 | Careful Constructor | 6.00% | ~29 |
 | Meet Me at HQ | 6.00% | ~29 |
 | Maximum Reuse | 6.00% | ~29 |
 | Revenue Royalty | 6.00% | ~29 |
+| Golden Opportunity | 6.00% | ~29 |
 | Pipe Up | 6.00% | ~29 |
 | Baron of Business | 5.00% | ~24 |
 | I'm Busy Ruling | 5.00% | ~24 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 476 (Ranked 348)  
+Progressed: 477 (Ranked 348)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 459 | 0 |
 | 2023-12-30 | 468 | 0 |
 | 2023-12-31 | 474 | 0 |
-| 2024-01-01 | 476 | 0 |
+| 2024-01-01 | 477 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

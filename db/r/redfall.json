@@ -2,13 +2,13 @@
   "ID": "48e20c81667c4ff49c85dd79ac3a01b0",
   "Name": "Redfall",
   "ProductSlug": "redfall",
-  "Ranking_Rating": 1082,
+  "Ranking_Rating": 1083,
   "Ranking_Popularity": 572,
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -351,7 +351,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2211,
+  "EOS_Progressed": 2212,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
@@ -3821,6 +3821,11 @@
       "Time": "2024-01-01T22:05:20.8522667+00:00",
       "NumProgressed": 2211,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T23:06:50.8537615+00:00",
+      "NumProgressed": 2212,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3848,7 +3853,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "Achievement_004",
@@ -3862,9 +3867,9 @@
       "ID": "Achievement_006",
       "SetID": "6b34g18",
       "Name": "Contingency Plans",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 44
     },
     {
       "ID": "Achievement_007",
@@ -4088,7 +4093,7 @@
       "Name": "Catch and Release",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "Achievement_035",
@@ -4359,7 +4364,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2211,
+      "Progressed": 2212,
       "Completed": 0
     }
   ],
@@ -4367,8 +4372,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-01T12:00:40.1847166+00:00",
-  "LastChanged_Achievements": "2024-01-01T22:05:20.8522662+00:00",
+  "LastChanged_Achievements": "2024-01-01T23:06:50.853761+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.8280502+00:00",
-  "LastUpdate_Ratings": "2024-01-01T21:59:52.8364012+00:00",
-  "LastUpdate_Achievements": "2024-01-01T22:05:20.8523403+00:00"
+  "LastUpdate_Ratings": "2024-01-01T23:01:13.2638184+00:00",
+  "LastUpdate_Achievements": "2024-01-01T23:06:50.8538216+00:00"
 }

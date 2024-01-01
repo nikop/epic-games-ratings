@@ -38,7 +38,7 @@ Rating: 4.52 (Ranked 573)
 | On The Rocks | 33.00% | ~470 |
 | Snowy Poro | 32.00% | ~456 |
 | Never Gets Old | 31.00% | ~442 |
-| Vertical Power | 26.00% | ~370 |
+| Vertical Power | 27.00% | ~385 |
 | One From The Heart | 13.00% | ~185 |
 | Yummy | 10.00% | ~142 |
 | Snowball Fightn't | 9.00% | ~128 |

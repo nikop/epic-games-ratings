@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 29,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-06-03T12:00:00+00:00",
     "PcReleaseDate": "2018-11-09T16:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 83993,
+  "EOS_Progressed": 84009,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10145,
+  "EOS_NewPlayers": 10146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12198,6 +12198,11 @@
       "Time": "2024-01-01T22:09:39.494031+00:00",
       "NumProgressed": 83993,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T23:11:05.5828345+00:00",
+      "NumProgressed": 84009,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T23:03:51.052105+00:00",
@@ -12218,7 +12223,7 @@
       "Name": "Globetrotter",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 5040
+      "UsersEstimate": 5041
     },
     {
       "ID": "achievement_11",
@@ -12234,7 +12239,7 @@
       "Name": "Fender Bender",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 6719
+      "UsersEstimate": 6721
     },
     {
       "ID": "achievement_13",
@@ -12242,7 +12247,7 @@
       "Name": "Grim Reaper",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 55435
+      "UsersEstimate": 55446
     },
     {
       "ID": "achievement_14",
@@ -12250,7 +12255,7 @@
       "Name": "Call \u2019em in!",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 24358
+      "UsersEstimate": 24363
     },
     {
       "ID": "achievement_15",
@@ -12258,7 +12263,7 @@
       "Name": "Combat Engineer",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 32757
+      "UsersEstimate": 32764
     },
     {
       "ID": "achievement_16",
@@ -12266,7 +12271,7 @@
       "Name": "Heads Down",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 53756
+      "UsersEstimate": 53766
     },
     {
       "ID": "achievement_17",
@@ -12282,7 +12287,7 @@
       "Name": "Eager Beaver",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 25198
+      "UsersEstimate": 25203
     },
     {
       "ID": "achievement_19",
@@ -12290,7 +12295,7 @@
       "Name": "Elite",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 10079
+      "UsersEstimate": 10081
     },
     {
       "ID": "achievement_2",
@@ -12306,7 +12311,7 @@
       "Name": "Last Man Standing",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 77274
+      "UsersEstimate": 77288
     },
     {
       "ID": "achievement_21",
@@ -12314,7 +12319,7 @@
       "Name": "Not On My Watch",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 50396
+      "UsersEstimate": 50405
     },
     {
       "ID": "achievement_3",
@@ -12330,7 +12335,7 @@
       "Name": "Lovely",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 22678
+      "UsersEstimate": 22682
     },
     {
       "ID": "achievement_5",
@@ -12338,7 +12343,7 @@
       "Name": "Store fuglar fanga ingi flugor",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 13439
+      "UsersEstimate": 13441
     },
     {
       "ID": "achievement_6",
@@ -12346,7 +12351,7 @@
       "Name": "Ou La Mort",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 11759
+      "UsersEstimate": 11761
     },
     {
       "ID": "achievement_7",
@@ -12362,7 +12367,7 @@
       "Name": "Enemy Attrition",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 57115
+      "UsersEstimate": 57126
     },
     {
       "ID": "achievement_9",
@@ -12377,13 +12382,13 @@
     {
       "ID": "akc8324",
       "IsBase": true,
-      "Progressed": 83993,
+      "Progressed": 84009,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2024-01-01T22:09:39.4940305+00:00",
+  "LastChanged_Achievements": "2024-01-01T23:11:05.5828342+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:58.4618667+00:00",
-  "LastUpdate_Ratings": "2024-01-01T21:57:40.1139084+00:00",
-  "LastUpdate_Achievements": "2024-01-01T22:09:39.4941161+00:00"
+  "LastUpdate_Ratings": "2024-01-01T22:58:01.9910981+00:00",
+  "LastUpdate_Achievements": "2024-01-01T23:11:05.5829042+00:00"
 }

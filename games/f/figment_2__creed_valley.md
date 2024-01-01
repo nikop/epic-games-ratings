@@ -10,8 +10,8 @@
 | Fight like an idiot | 31.00% | ~18 |
 | Slam-KABAM | 27.00% | ~16 |
 | Heavy Thoughts | 19.00% | ~11 |
-| A heavy thinker | 17.00% | ~10 |
-| Repair the Mind Validation Machine | 17.00% | ~10 |
+| A heavy thinker | 19.00% | ~11 |
+| Repair the Mind Validation Machine | 19.00% | ~11 |
 | Flee like an idiot | 17.00% | ~10 |
 | Elementary, My Dear Dusty | 14.00% | ~8 |
 | Dance like an idiot | 12.00% | ~7 |

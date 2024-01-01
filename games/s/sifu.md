@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,570 |
-| The Assault | 4.00% | ~30,056 |
-| Life is your teacher | 4.00% | ~30,056 |
-| Lightning Hands | 4.00% | ~30,056 |
+| The Old Grandmaster | 5.00% | ~37,571 |
+| The Assault | 4.00% | ~30,057 |
+| Life is your teacher | 4.00% | ~30,057 |
+| Lightning Hands | 4.00% | ~30,057 |
 | The Hateful Pole Fighter | 2.00% | ~15,028 |
 | A Lady's Blood in the Snow | 2.00% | ~15,028 |
 | Kill Nil | 2.00% | ~15,028 |
@@ -21,7 +21,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Old Child | 2.00% | ~15,028 |
 | Path of the Prospect | 2.00% | ~15,028 |
 | Rumble in the Hangar | 2.00% | ~15,028 |
-| Diligence as a goal | 2.00% | ~1,214 |
+| Diligence as a goal | 2.00% | ~1,215 |
 | Lady Wing Chun | 1.00% | ~7,514 |
 | Furious Fists | 1.00% | ~7,514 |
 | Scareless | 1.00% | ~7,514 |
@@ -32,7 +32,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Project Arena | 1.00% | ~607 |
 | Dance of the Praying Mantis | 0.90% | ~6,763 |
 | Fight the way you practice | 0.70% | ~425 |
-| Muk Yan Master | 0.60% | ~4,508 |
+| Muk Yan Master | 0.60% | ~4,509 |
 | Martial Hub | 0.60% | ~364 |
 | Tiger on Fire | 0.50% | ~3,757 |
 | Source of Flying Daggers | 0.50% | ~3,757 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~61 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 751,407 (Ranked 23)  
+Progressed: 751,425 (Ranked 23)  
 Completed: 12,971 (1.73%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 12,971 (1.73%) (Ranked 143)
 | 2023-12-29 | 748,212 | 12,968 |
 | 2023-12-30 | 749,350 | 12,969 |
 | 2023-12-31 | 750,399 | 12,971 |
-| 2024-01-01 | 751,407 | 12,971 |
+| 2024-01-01 | 751,425 | 12,971 |
 ## Awards
 Max (Great Boss Battles): 7,070  (Ranked 55)  
 Sum: 11,967 (Ranked 87)  

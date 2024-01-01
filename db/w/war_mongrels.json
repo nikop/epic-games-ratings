@@ -2,13 +2,13 @@
   "ID": "7b57136ac766477eb1e687dcd0310da5",
   "Name": "War Mongrels",
   "ProductSlug": "war-mongrels",
-  "Ranking_Rating": 798,
+  "Ranking_Rating": 797,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 747,
+  "EOS_Progressed": 748,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2665,6 +2665,11 @@
       "Time": "2023-12-31T22:09:58.0158665+00:00",
       "NumProgressed": 747,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T23:11:21.9417916+00:00",
+      "NumProgressed": 748,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2780,7 +2785,7 @@
       "Name": "Explorer",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ACH_COLL_20",
@@ -2788,7 +2793,7 @@
       "Name": "Prospector",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -2812,7 +2817,7 @@
       "Name": "Collectibles of Chapter II",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_COLL_CH03",
@@ -2924,7 +2929,7 @@
       "Name": "Heroism",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -2964,7 +2969,7 @@
       "Name": "Vengeance",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ACH_FIN_CH10",
@@ -2972,7 +2977,7 @@
       "Name": "Broken Hopes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_FIN_CH11",
@@ -3058,9 +3063,9 @@
       "ID": "ACH_KILL_ENEMY",
       "SetID": "1j25agn",
       "Name": "NO LIFE IS WORTH SAVING...",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 329
+      "UsersEstimate": 337
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -3084,7 +3089,7 @@
       "Name": "Eat Lead!",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -3147,15 +3152,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 747,
+      "Progressed": 748,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2024-01-01T22:09:52.4001161+00:00",
+  "LastChanged_Achievements": "2024-01-01T23:11:21.9417914+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:34.6054742+00:00",
-  "LastUpdate_Ratings": "2024-01-01T21:59:47.1135812+00:00",
-  "LastUpdate_Achievements": "2024-01-01T22:09:52.400194+00:00"
+  "LastUpdate_Ratings": "2024-01-01T23:01:04.4784448+00:00",
+  "LastUpdate_Achievements": "2024-01-01T23:11:21.9418455+00:00"
 }

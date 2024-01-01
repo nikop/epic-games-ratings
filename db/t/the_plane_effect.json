@@ -4,8 +4,8 @@
   "ProductSlug": "the-plane-effect",
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 574,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 573,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-09-23T13:00:00+00:00",
     "PcReleaseDate": "2021-09-23T13:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:03.6255481+00:00",
   "LastChanged": "2023-03-31T05:58:03.6255482+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:06.5008956+00:00",
-  "LastUpdate_Ratings": "2024-01-01T21:58:58.7201911+00:00",
-  "LastUpdate_Achievements": "2024-01-01T22:03:39.0207853+00:00"
+  "LastUpdate_Ratings": "2024-01-01T22:59:54.3864367+00:00",
+  "LastUpdate_Achievements": "2024-01-01T23:04:33.3688798+00:00"
 }

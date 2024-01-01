@@ -2,10 +2,10 @@
   "ID": "ace01fe38cfb4479b1009cf49478ff18",
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
-  "Ranking_EOS_Progress": 317,
+  "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 681,
+  "EOS_Progressed": 682,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2264,6 +2264,11 @@
       "Time": "2024-01-01T22:08:23.2451805+00:00",
       "NumProgressed": 681,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T23:09:21.7139269+00:00",
+      "NumProgressed": 682,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -2340,7 +2345,7 @@
       "Name": "Defeat a Lord of Change",
       "Percentage": 24,
       "XP": 45,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -2371,14 +2376,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 681,
+      "Progressed": 682,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-01T22:08:23.24518+00:00",
+  "LastChanged_Achievements": "2024-01-01T23:09:21.7139266+00:00",
   "LastUpdate_AppInfo": "2023-12-29T15:57:01.9014557+00:00",
-  "LastUpdate_Ratings": "2024-01-01T21:59:36.1397051+00:00",
-  "LastUpdate_Achievements": "2024-01-01T22:08:23.2452045+00:00"
+  "LastUpdate_Ratings": "2024-01-01T23:00:48.2811767+00:00",
+  "LastUpdate_Achievements": "2024-01-01T23:09:21.7139448+00:00"
 }
