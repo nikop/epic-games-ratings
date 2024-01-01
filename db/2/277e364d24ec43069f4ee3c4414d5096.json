@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 118653,
+  "EOS_Progressed": 118654,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 877,
+  "EOS_NewPlayers": 876,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -23320,6 +23320,11 @@
       "Time": "2024-01-01T07:10:16.450694+00:00",
       "NumProgressed": 118653,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2024-01-01T08:10:24.8455193+00:00",
+      "NumProgressed": 118654,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 49,
@@ -23339,7 +23344,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 91363
+      "UsersEstimate": 91364
     },
     {
       "ID": "EAwards_10",
@@ -23355,7 +23360,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 32036
+      "UsersEstimate": 32037
     },
     {
       "ID": "EAwards_12",
@@ -23722,7 +23727,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 118653,
+      "Progressed": 118654,
       "Completed": 54
     }
   ],
@@ -23730,8 +23735,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-12-21T05:59:27.8580735+00:00",
-  "LastChanged_Achievements": "2024-01-01T07:10:16.4506937+00:00",
+  "LastChanged_Achievements": "2024-01-01T08:10:24.845519+00:00",
   "LastUpdate_AppInfo": "2023-12-29T08:57:21.6773482+00:00",
-  "LastUpdate_Ratings": "2024-01-01T06:57:34.1214836+00:00",
-  "LastUpdate_Achievements": "2024-01-01T07:10:16.4508281+00:00"
+  "LastUpdate_Ratings": "2024-01-01T07:57:56.0402412+00:00",
+  "LastUpdate_Achievements": "2024-01-01T08:10:24.8456564+00:00"
 }

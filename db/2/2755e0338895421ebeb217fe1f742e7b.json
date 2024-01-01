@@ -4,7 +4,7 @@
   "ProductSlug": "nocturnal-ef3fa0",
   "Ranking_EOS_Progress": 532,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-06-07T15:00:00+00:00",
@@ -418,9 +418,9 @@
       "ID": "Nocturnal_Achivement_9_Torches",
       "SetID": "329ifed",
       "Name": "The Torchbearer",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 150,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     }
   ],
   "AchievementSets": [
@@ -433,8 +433,8 @@
   ],
   "FirstSeen": "2023-07-26T23:57:21.2236192+00:00",
   "FirstSeenAchievements": "2023-06-12T15:00:06.5838251+00:00",
-  "LastChanged_Achievements": "2024-01-01T07:10:12.5361559+00:00",
+  "LastChanged_Achievements": "2024-01-01T08:10:21.2774807+00:00",
   "LastUpdate_AppInfo": "2023-12-26T05:57:26.1982716+00:00",
-  "LastUpdate_Ratings": "2024-01-01T06:58:33.7626331+00:00",
-  "LastUpdate_Achievements": "2024-01-01T07:10:12.5361634+00:00"
+  "LastUpdate_Ratings": "2024-01-01T07:58:46.540354+00:00",
+  "LastUpdate_Achievements": "2024-01-01T08:10:21.2774883+00:00"
 }

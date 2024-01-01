@@ -1,24 +1,24 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.13 (Ranked 999)  
+Rating: 4.14 (Ranked 996)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 12.00% | ~5,512 |
-| Unlocked Potential | 11.00% | ~5,053 |
+| Attachments | 12.00% | ~5,513 |
+| Unlocked Potential | 11.00% | ~5,054 |
 | Tinkerer | 8.00% | ~3,675 |
 | Leapfrogger | 7.00% | ~3,216 |
 | Knock 'Em Dead | 7.00% | ~3,216 |
 | Pilgrimage: Initiate | 7.00% | ~3,216 |
 | Hell of a Run | 7.00% | ~3,216 |
 | Call of the Fount: Baptized | 7.00% | ~3,216 |
+| Explorer: Seeker | 6.00% | ~2,757 |
 | Stuck | 5.00% | ~2,297 |
 | No Mercy | 5.00% | ~2,297 |
-| Explorer: Seeker | 5.00% | ~2,297 |
 | Help Me Out Here | 5.00% | ~2,297 |
-| Through the Eyes of Another: Empath | 4.00% | ~1,837 |
-| The Interloper | 4.00% | ~1,837 |
+| Through the Eyes of Another: Empath | 4.00% | ~1,838 |
+| The Interloper | 4.00% | ~1,838 |
 | Outdoorsperson | 3.00% | ~1,378 |
 | Hop, Step, Jump | 3.00% | ~1,378 |
 | Endless Runner | 3.00% | ~1,378 |
@@ -59,7 +59,7 @@ Rating: 4.13 (Ranked 999)
 | Remembrance | 0.10% | ~46 |
 | Cat Person | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,937 (Ranked 125)  
+Progressed: 45,942 (Ranked 125)  
 Completed: 4 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,14 +315,14 @@ Completed: 4 (0.01%) (Ranked 368)
 | 2023-12-29 | 45,657 | 3 |
 | 2023-12-30 | 45,788 | 3 |
 | 2023-12-31 | 45,906 | 4 |
-| 2024-01-01 | 45,937 | 4 |
+| 2024-01-01 | 45,942 | 4 |
 ## Awards
-Max (Character Customization): 35  (Ranked 496)  
-Sum: 35 (Ranked 524)  
-Diff (max vs sum): -28  
+Max (Character Customization): 37  (Ranked 488)  
+Sum: 37 (Ranked 521)  
+Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 35 |
+| This game has Inclusive Character Customization | 37 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -418,3 +418,4 @@ Diff (max vs sum): -28
 | 2023-12-29 | 4.11 | 35 | 35 |
 | 2023-12-30 | 4.12 | 35 | 35 |
 | 2023-12-31 | 4.13 | 35 | 35 |
+| 2024-01-01 | 4.14 | 37 | 37 |

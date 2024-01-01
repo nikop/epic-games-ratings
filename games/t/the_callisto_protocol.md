@@ -5,21 +5,21 @@ Rating: 4.21 (Ranked 942)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 21.00% | ~4,280 |
-| The Outer Way | 21.00% | ~4,280 |
-| Desperate Times | 20.00% | ~4,077 |
-| Get a Grip | 18.00% | ~3,669 |
-| Paper Jams | 18.00% | ~3,669 |
-| Chew 'Em Up | 16.00% | ~3,261 |
-| Float Like A Butterfly | 15.00% | ~3,057 |
-| Reforged | 15.00% | ~3,057 |
-| Workplace Hazard | 13.00% | ~2,650 |
-| If the SHU Fits... | 13.00% | ~2,650 |
-| Without A Paddle | 11.00% | ~2,242 |
-| In the Pipe, Five by Five | 10.00% | ~2,038 |
-| Crash Site | 10.00% | ~2,038 |
-| Two Heads Are Better Than One | 9.00% | ~1,834 |
-| Power Up | 9.00% | ~1,834 |
+| Flesh Wound | 21.00% | ~4,282 |
+| The Outer Way | 21.00% | ~4,282 |
+| Desperate Times | 20.00% | ~4,078 |
+| Get a Grip | 18.00% | ~3,670 |
+| Paper Jams | 18.00% | ~3,670 |
+| Chew 'Em Up | 16.00% | ~3,262 |
+| Float Like A Butterfly | 15.00% | ~3,058 |
+| Reforged | 15.00% | ~3,058 |
+| Workplace Hazard | 13.00% | ~2,651 |
+| If the SHU Fits... | 13.00% | ~2,651 |
+| Without A Paddle | 11.00% | ~2,243 |
+| In the Pipe, Five by Five | 10.00% | ~2,039 |
+| Crash Site | 10.00% | ~2,039 |
+| Two Heads Are Better Than One | 9.00% | ~1,835 |
+| Power Up | 9.00% | ~1,835 |
 | Giving Back | 8.00% | ~1,631 |
 | Terminated | 8.00% | ~1,631 |
 | What Lies Beneath | 8.00% | ~1,631 |
@@ -27,18 +27,18 @@ Rating: 4.21 (Ranked 942)
 | You Need a Gun | 7.00% | ~1,427 |
 | I Do Belong Here | 7.00% | ~1,427 |
 | Keep Fighting | 6.00% | ~499 |
-| It's Time | 5.00% | ~415 |
-| In Striking Distance | 4.00% | ~815 |
-| The Commonality | 4.00% | ~815 |
+| It's Time | 5.00% | ~416 |
+| In Striking Distance | 4.00% | ~816 |
+| The Commonality | 4.00% | ~816 |
 | One Last Job | 3.00% | ~249 |
 | Armed to the Teeth | 1.00% | ~83 |
 | Mugshot | 1.00% | ~204 |
 | Big Spender | 1.00% | ~83 |
 | This Isn't About Escape | 1.00% | ~83 |
-| Grim Reaper | 0.90% | ~183 |
+| Grim Reaper | 0.90% | ~184 |
 | Instigator | 0.90% | ~75 |
-| Parole Denied | 0.80% | ~66 |
-| Information Overload | 0.80% | ~66 |
+| Parole Denied | 0.80% | ~67 |
+| Information Overload | 0.80% | ~67 |
 | Quick Pick | 0.70% | ~58 |
 | Subject Alpha | 0.50% | ~42 |
 | The Protocol is About Life | 0.30% | ~61 |
@@ -53,8 +53,8 @@ Rating: 4.21 (Ranked 942)
 | Big Game Hunter | 0.10% | ~8 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,383 (Ranked 150)  
-Completed: 82 (0.40%) (Ranked 229)  
+Progressed: 20,389 (Ranked 150)  
+Completed: 82 (0.40%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -301,7 +301,7 @@ Completed: 82 (0.40%) (Ranked 229)
 | 2023-12-29 | 19,946 | 82 |
 | 2023-12-30 | 20,137 | 82 |
 | 2023-12-31 | 20,337 | 82 |
-| 2024-01-01 | 20,383 | 82 |
+| 2024-01-01 | 20,389 | 82 |
 ## Awards
 Max (Amazing Characters): 107  (Ranked 364)  
 Sum: 541 (Ranked 330)  

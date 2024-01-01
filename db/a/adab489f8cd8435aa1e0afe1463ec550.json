@@ -3,9 +3,9 @@
   "Name": "CyberTD",
   "ProductSlug": "cybertd-22dbd6",
   "Ranking_EOS_Progress": 621,
-  "Ranking_EOS_Completed": 391,
+  "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -467,8 +467,8 @@
   ],
   "FirstSeen": "2023-09-29T05:01:32.9866964+00:00",
   "FirstSeenAchievements": "2023-07-16T05:02:49.5531761+00:00",
-  "LastChanged_Achievements": "2024-01-01T07:04:35.4023653+00:00",
+  "LastChanged_Achievements": "2024-01-01T08:04:54.6099492+00:00",
   "LastUpdate_AppInfo": "2023-12-31T17:56:54.0254769+00:00",
-  "LastUpdate_Ratings": "2024-01-01T06:59:13.8898758+00:00",
-  "LastUpdate_Achievements": "2024-01-01T07:04:35.4023867+00:00"
+  "LastUpdate_Ratings": "2024-01-01T07:59:21.7974729+00:00",
+  "LastUpdate_Achievements": "2024-01-01T08:04:54.6099711+00:00"
 }

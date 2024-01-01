@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -1937,7 +1937,7 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 68167,
+  "EOS_Progressed": 68168,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 765,
   "EOS_NewCompleters": 0,
@@ -30152,6 +30152,11 @@
       "Time": "2024-01-01T07:06:21.5385038+00:00",
       "NumProgressed": 68167,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-01T08:06:28.4295681+00:00",
+      "NumProgressed": 68168,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -30395,7 +30400,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17723
+      "UsersEstimate": 17724
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -30419,7 +30424,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21813
+      "UsersEstimate": 21814
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -30427,7 +30432,7 @@
       "Name": "Corpseman I",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 26585
+      "UsersEstimate": 26586
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -30451,7 +30456,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 42945
+      "UsersEstimate": 42946
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -30475,7 +30480,7 @@
       "Name": "Basic Training",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 15678
+      "UsersEstimate": 15679
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -30531,7 +30536,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 53170
+      "UsersEstimate": 53171
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -30634,15 +30639,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 68167,
+      "Progressed": 68168,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-12-29T13:59:03.1617519+00:00",
-  "LastChanged_Achievements": "2024-01-01T07:06:21.5385036+00:00",
+  "LastChanged_Achievements": "2024-01-01T08:06:28.4295677+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:55.7383627+00:00",
-  "LastUpdate_Ratings": "2024-01-01T07:00:54.4412387+00:00",
-  "LastUpdate_Achievements": "2024-01-01T07:06:21.5386369+00:00"
+  "LastUpdate_Ratings": "2024-01-01T08:00:48.596791+00:00",
+  "LastUpdate_Achievements": "2024-01-01T08:06:28.429733+00:00"
 }

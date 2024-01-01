@@ -6,9 +6,9 @@
   "Ranking_Popularity": 203,
   "Ranking_PopularitySum": 242,
   "Ranking_EOS_Progress": 308,
-  "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_Completed": 390,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
     "PcReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -2024,7 +2024,7 @@
   ],
   "EOS_Progressed": 752,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8743,9 +8743,9 @@
       "ID": "P_OWENSTORY",
       "SetID": "80dcan0",
       "Name": "He Can Spin A Yarn...",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 293
+      "UsersEstimate": 301
     },
     {
       "ID": "P_REMOVEPOLLUTION",
@@ -8775,9 +8775,9 @@
       "ID": "P_THEMEPARK",
       "SetID": "80dcan0",
       "Name": "Happier-est Place on Earth",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 429
+      "UsersEstimate": 436
     },
     {
       "ID": "P_TUNNEL",
@@ -8911,9 +8911,9 @@
       "ID": "S_SANDRUNNING",
       "SetID": "80dcan0",
       "Name": "Sandrunning Speedster",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 301
     },
     {
       "ID": "S_SHOWDOWN",
@@ -8967,9 +8967,9 @@
       "ID": "X_FISH_RARE",
       "SetID": "80dcan0",
       "Name": "Call Me Fishmael",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 406
     },
     {
       "ID": "X_GET_DIAMOND",
@@ -9015,8 +9015,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-12-31T11:58:14.1676877+00:00",
-  "LastChanged_Achievements": "2024-01-01T07:08:48.7565564+00:00",
+  "LastChanged_Achievements": "2024-01-01T08:09:06.9027213+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:56.3187403+00:00",
-  "LastUpdate_Ratings": "2024-01-01T06:58:28.7187778+00:00",
-  "LastUpdate_Achievements": "2024-01-01T07:08:48.756623+00:00"
+  "LastUpdate_Ratings": "2024-01-01T07:58:42.9401749+00:00",
+  "LastUpdate_Achievements": "2024-01-01T08:09:06.9027872+00:00"
 }

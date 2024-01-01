@@ -6,9 +6,9 @@
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 280,
-  "Ranking_EOS_Completed": 217,
+  "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,7 +51,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1175,
+  "EOS_Progressed": 1176,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
@@ -3396,6 +3396,11 @@
       "Time": "2023-12-31T22:09:54.1402647+00:00",
       "NumProgressed": 1175,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-01T08:10:27.5496104+00:00",
+      "NumProgressed": 1176,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3463,7 +3468,7 @@
       "Name": "Clovemary for Remembering",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "CosmeticCompletion1",
@@ -3527,7 +3532,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3575,7 +3580,7 @@
       "Name": "Hexlock for Protection",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "InxChromaInTheatre",
@@ -3597,9 +3602,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 282
     },
     {
       "ID": "MapCompletion1",
@@ -3679,7 +3684,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "PidgeDefeated",
@@ -3695,7 +3700,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "RewindParry",
@@ -3783,7 +3788,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "WarwickDefeated",
@@ -3830,7 +3835,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1175,
+      "Progressed": 1176,
       "Completed": 6
     }
   ],
@@ -3838,8 +3843,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2024-01-01T07:10:19.2934243+00:00",
+  "LastChanged_Achievements": "2024-01-01T08:10:27.5496102+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-01T07:02:48.0115647+00:00",
-  "LastUpdate_Achievements": "2024-01-01T07:10:19.2934752+00:00"
+  "LastUpdate_Ratings": "2024-01-01T08:03:19.0159909+00:00",
+  "LastUpdate_Achievements": "2024-01-01T08:10:27.5496607+00:00"
 }

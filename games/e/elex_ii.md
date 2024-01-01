@@ -58,7 +58,7 @@ Number of Ratings: 124  (23.09.2022)
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 156 (Ranked 442)  
-Completed: 0 (0.00%) (Ranked 391)  
+Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

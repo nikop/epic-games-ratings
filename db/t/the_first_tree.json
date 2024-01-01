@@ -6,7 +6,7 @@
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 132,
-  "Ranking_EOS_Completed": 248,
+  "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39860,
+  "EOS_Progressed": 39861,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 404,
+  "EOS_NewPlayers": 403,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -22682,6 +22682,11 @@
       "Time": "2024-01-01T07:08:42.6811388+00:00",
       "NumProgressed": 39860,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-01T08:09:01.4942402+00:00",
+      "NumProgressed": 39861,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 14,
@@ -22773,7 +22778,7 @@
       "Name": "Hare Today",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 9566
+      "UsersEstimate": 9567
     },
     {
       "ID": "firstItem",
@@ -22804,15 +22809,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 39860,
+      "Progressed": 39861,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-12-25T15:57:40.6217361+00:00",
-  "LastChanged_Achievements": "2024-01-01T07:08:42.6811385+00:00",
+  "LastChanged_Achievements": "2024-01-01T08:09:01.4942397+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:00.6185917+00:00",
-  "LastUpdate_Ratings": "2024-01-01T07:02:45.3042281+00:00",
-  "LastUpdate_Achievements": "2024-01-01T07:08:42.6812677+00:00"
+  "LastUpdate_Ratings": "2024-01-01T08:03:16.3230027+00:00",
+  "LastUpdate_Achievements": "2024-01-01T08:09:01.494376+00:00"
 }

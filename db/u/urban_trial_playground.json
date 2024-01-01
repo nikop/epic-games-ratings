@@ -3,9 +3,9 @@
   "Name": "Urban Trial Playground",
   "ProductSlug": "urban-trial-playground-41e403",
   "Ranking_EOS_Progress": 819,
-  "Ranking_EOS_Completed": 391,
+  "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-13T13:00:00+00:00",
     "PcReleaseDate": "2019-04-05T00:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:45.5503299+00:00",
   "LastChanged": "2023-03-31T05:58:45.55033+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:18.0534389+00:00",
-  "LastUpdate_Ratings": "2024-01-01T06:57:56.4872877+00:00",
-  "LastUpdate_Achievements": "2024-01-01T07:08:14.4119865+00:00"
+  "LastUpdate_Ratings": "2024-01-01T07:58:15.3754372+00:00",
+  "LastUpdate_Achievements": "2024-01-01T08:08:36.1431104+00:00"
 }

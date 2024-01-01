@@ -3,9 +3,9 @@
   "Name": "Maid of Sker",
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 401,
-  "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_Completed": 390,
+  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -932,9 +932,9 @@
       "ID": "smooth_operator",
       "SetID": "3j2phem",
       "Name": "Smooth Operator",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "the_long_night",
@@ -973,8 +973,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2024-01-01T07:08:19.4864774+00:00",
+  "LastChanged_Achievements": "2024-01-01T08:08:40.7266279+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:21.5182782+00:00",
-  "LastUpdate_Ratings": "2024-01-01T06:57:36.8224419+00:00",
-  "LastUpdate_Achievements": "2024-01-01T07:08:19.4864967+00:00"
+  "LastUpdate_Ratings": "2024-01-01T07:57:57.9149318+00:00",
+  "LastUpdate_Achievements": "2024-01-01T08:08:40.7266664+00:00"
 }

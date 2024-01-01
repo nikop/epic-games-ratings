@@ -5,10 +5,10 @@
   "Ranking_Rating": 1063,
   "Ranking_Popularity": 414,
   "Ranking_PopularitySum": 486,
-  "Ranking_EOS_Progress": 248,
+  "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -397,9 +397,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 1844,
+  "EOS_Progressed": 1846,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -3207,6 +3207,11 @@
       "Time": "2023-12-31T18:04:57.7392997+00:00",
       "NumProgressed": 1844,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-01T08:05:28.2180843+00:00",
+      "NumProgressed": 1846,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 38,
@@ -3218,7 +3223,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1807
+      "UsersEstimate": 1809
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -3226,7 +3231,7 @@
       "Name": "Great Doctor",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -3234,7 +3239,7 @@
       "Name": "Good Samaritan",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ACHIEVEMENTS_04",
@@ -3266,7 +3271,7 @@
       "Name": "K.O.!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -3274,7 +3279,7 @@
       "Name": "The First Step",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 1604
+      "UsersEstimate": 1606
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -3282,7 +3287,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -3290,7 +3295,7 @@
       "Name": "Intermediate Chemist",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -3314,7 +3319,7 @@
       "Name": "Line Cook",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACHIEVEMENTS_14",
@@ -3330,7 +3335,7 @@
       "Name": "Friendly",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -3338,7 +3343,7 @@
       "Name": "Sociable",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACHIEVEMENTS_17",
@@ -3346,7 +3351,7 @@
       "Name": "Kind-hearted",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "ACHIEVEMENTS_18",
@@ -3354,7 +3359,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -3386,7 +3391,7 @@
       "Name": "The Capitalist",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -3410,7 +3415,7 @@
       "Name": "Community Helper",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ACHIEVEMENTS_26",
@@ -3458,7 +3463,7 @@
       "Name": "Ablutomaniac",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACHIEVEMENTS_32",
@@ -3474,7 +3479,7 @@
       "Name": "Catch of the Day",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "ACHIEVEMENTS_34",
@@ -3482,7 +3487,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -3521,7 +3526,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1844,
+      "Progressed": 1846,
       "Completed": 11
     }
   ],
@@ -3529,8 +3534,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-28T09:03:17.5303608+00:00",
-  "LastChanged_Achievements": "2024-01-01T07:05:13.0631072+00:00",
+  "LastChanged_Achievements": "2024-01-01T08:05:28.218084+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:18.8535407+00:00",
-  "LastUpdate_Ratings": "2024-01-01T06:57:52.4224904+00:00",
-  "LastUpdate_Achievements": "2024-01-01T07:05:13.0631468+00:00"
+  "LastUpdate_Ratings": "2024-01-01T07:58:11.5686122+00:00",
+  "LastUpdate_Achievements": "2024-01-01T08:05:28.2181188+00:00"
 }

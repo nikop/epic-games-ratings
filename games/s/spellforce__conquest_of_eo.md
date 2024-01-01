@@ -27,8 +27,8 @@
 | Sevenkeeps Seat of Kings | 20.00% | ~21 |
 | Friend of Alluvyan | 17.00% | ~18 |
 | Friend of Connach | 15.00% | ~16 |
+| Friend of Gillyshire | 14.00% | ~15 |
 | Break Free | 14.00% | ~15 |
-| Friend of Gillyshire | 13.00% | ~14 |
 | Friend of Silver Drift Hollow | 13.00% | ~14 |
 | Stormwatch Faste | 12.00% | ~13 |
 | Philo's Tale | 11.00% | ~12 |
@@ -76,7 +76,7 @@
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 106 (Ranked 483)  
-Completed: 0 (0.00%) (Ranked 391)  
+Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

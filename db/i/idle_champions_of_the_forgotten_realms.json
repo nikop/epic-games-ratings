@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9247,9 +9247,9 @@
       "Count": 3617
     }
   ],
-  "EOS_Progressed": 248834,
+  "EOS_Progressed": 248858,
   "EOS_Completed": 2582,
-  "EOS_NewPlayers": 4462,
+  "EOS_NewPlayers": 4472,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -38192,6 +38192,11 @@
       "Time": "2024-01-01T07:10:27.564887+00:00",
       "NumProgressed": 248834,
       "NumCompleted": 2582
+    },
+    {
+      "Time": "2024-01-01T08:10:35.8941025+00:00",
+      "NumProgressed": 248858,
+      "NumCompleted": 2582
     }
   ],
   "TotalAchievements": 546,
@@ -38203,7 +38208,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7465
+      "UsersEstimate": 7466
     },
     {
       "ID": "objective_completed_10",
@@ -39875,7 +39880,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2488
+      "UsersEstimate": 2489
     },
     {
       "ID": "objective_completed_34",
@@ -42531,7 +42536,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "objective_completed_678",
@@ -42539,7 +42544,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "objective_completed_683",
@@ -42547,7 +42552,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "objective_completed_860",
@@ -42555,7 +42560,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "objective_completed_865",
@@ -42563,28 +42568,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 215108,
-      "Completed": 4114
+      "Progressed": 215132,
+      "Completed": 4115
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 248834,
+      "Progressed": 248858,
       "Completed": 2582
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-01T05:57:48.4090061+00:00",
-  "LastChanged_Achievements": "2024-01-01T07:10:27.5648868+00:00",
+  "LastChanged_Achievements": "2024-01-01T08:10:35.8941022+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-01T06:57:28.3067054+00:00",
-  "LastUpdate_Achievements": "2024-01-01T07:10:27.5673351+00:00"
+  "LastUpdate_Ratings": "2024-01-01T07:57:50.8136967+00:00",
+  "LastUpdate_Achievements": "2024-01-01T08:10:35.8964549+00:00"
 }

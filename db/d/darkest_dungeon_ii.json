@@ -6,9 +6,9 @@
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 90,
-  "Ranking_EOS_Completed": 391,
+  "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10294,10 +10294,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21298,
       "NumberOfAwardsMax": 7910
+    },
+    {
+      "Time": "2024-01-01T07:58:24.695646+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21303,
+      "NumberOfAwardsMax": 7910
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21298,
+  "NumberOfAwards": 21303,
   "NumberOfAwardsMax": 7910,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10347,7 +10353,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1797
+      "Count": 1802
     },
     {
       "Text": "This game is Relaxing",
@@ -10374,7 +10380,7 @@
       "Count": 1071
     }
   ],
-  "EOS_Progressed": 131077,
+  "EOS_Progressed": 131082,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 1343,
   "EOS_NewCompleters": 0,
@@ -37774,6 +37780,11 @@
       "Time": "2024-01-01T07:09:49.7803037+00:00",
       "NumProgressed": 131077,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T08:10:00.0764777+00:00",
+      "NumProgressed": 131082,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38353,7 +38364,7 @@
       "Name": "Slap on the Wrist",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -38369,7 +38380,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -38377,7 +38388,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "quest_complete_crusader",
@@ -38385,7 +38396,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -38401,7 +38412,7 @@
       "Name": "For Old Time\u0027 Sake",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "run_victory_final_boss_hwy_cru",
@@ -38416,21 +38427,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131077,
+      "Progressed": 131082,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5946,
+      "Progressed": 5951,
       "Completed": 820
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-01T01:54:21.4310511+00:00",
-  "LastChanged_Achievements": "2024-01-01T07:09:49.7803035+00:00",
+  "LastChanged": "2024-01-01T07:58:24.6956459+00:00",
+  "LastChanged_Achievements": "2024-01-01T08:10:00.0764775+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-01T06:58:07.157488+00:00",
-  "LastUpdate_Achievements": "2024-01-01T07:09:49.7804801+00:00"
+  "LastUpdate_Ratings": "2024-01-01T07:58:24.6956464+00:00",
+  "LastUpdate_Achievements": "2024-01-01T08:10:00.0766749+00:00"
 }

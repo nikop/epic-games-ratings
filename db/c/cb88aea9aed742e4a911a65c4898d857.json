@@ -6,9 +6,9 @@
   "Ranking_Popularity": 402,
   "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 183,
-  "Ranking_EOS_Completed": 391,
+  "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -239,9 +239,9 @@
       "Count": 77
     }
   ],
-  "EOS_Progressed": 9251,
+  "EOS_Progressed": 9258,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1923,
+  "EOS_NewPlayers": 1927,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3199,6 +3199,11 @@
       "Time": "2024-01-01T07:10:06.0937141+00:00",
       "NumProgressed": 9251,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T08:10:15.2516034+00:00",
+      "NumProgressed": 9258,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3241,9 +3246,9 @@
       "ID": "06_TheExpanseCalamity",
       "SetID": "37a94m8",
       "Name": "Expanse Calamity",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 65
     },
     {
       "ID": "07_TheGrandFinale",
@@ -3633,9 +3638,9 @@
       "ID": "55_ReturningTheBoots",
       "SetID": "37a94m8",
       "Name": "Returning the Boots",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 56
     },
     {
       "ID": "56_ThoroughInvestigation",
@@ -3730,7 +3735,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9251,
+      "Progressed": 9258,
       "Completed": 0
     }
   ],
@@ -3738,8 +3743,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-31T16:59:07.4818651+00:00",
-  "LastChanged_Achievements": "2024-01-01T07:10:06.0937139+00:00",
+  "LastChanged_Achievements": "2024-01-01T08:10:15.2516031+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2024-01-01T06:59:36.9862177+00:00",
-  "LastUpdate_Achievements": "2024-01-01T07:10:06.0937714+00:00"
+  "LastUpdate_Ratings": "2024-01-01T07:59:41.7532974+00:00",
+  "LastUpdate_Achievements": "2024-01-01T08:10:15.2516711+00:00"
 }

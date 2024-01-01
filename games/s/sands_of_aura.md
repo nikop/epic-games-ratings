@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Setting Sail | 91.00% | ~116 |
 | Dousing a Venerable Flame | 14.00% | ~18 |
+| Advanced Armaments | 14.00% | ~18 |
 | A Small Thirsty Thing | 13.00% | ~17 |
-| Advanced Armaments | 13.00% | ~17 |
 | Spirit Within | 10.00% | ~13 |
 | Rain Must Fall | 9.00% | ~11 |
 | Overboard | 9.00% | ~11 |
@@ -64,7 +64,7 @@
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 127 (Ranked 466)  
-Completed: 0 (0.00%) (Ranked 391)  
+Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

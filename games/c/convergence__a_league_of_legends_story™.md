@@ -5,22 +5,22 @@ Rating: 4.65 (Ranked 325)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 43.00% | ~505 |
+| Time Heals All Wounds | 43.00% | ~506 |
 | Rail Rat | 32.00% | ~376 |
-| The Mysterious Stranger | 31.00% | ~364 |
-| Immaculate Aim | 27.00% | ~317 |
+| The Mysterious Stranger | 31.00% | ~365 |
+| Immaculate Aim | 27.00% | ~318 |
 | The Brass Boss | 26.00% | ~306 |
-| Make Up For Lost Time | 25.00% | ~294 |
 | Time Flies | 25.00% | ~294 |
 | No, Thanks! | 25.00% | ~294 |
 | The Prince in Heels | 25.00% | ~294 |
+| Make Up For Lost Time | 24.00% | ~282 |
 | The Harder They Fall | 24.00% | ~282 |
 | Honest Mistake | 24.00% | ~282 |
 | Fast Learner | 24.00% | ~282 |
 | Immaculate Aim | 24.00% | ~282 |
 | The Steel Shadow | 23.00% | ~270 |
 | Breaking Down Barriers | 23.00% | ~270 |
-| The Wicked Twins | 22.00% | ~258 |
+| The Wicked Twins | 22.00% | ~259 |
 | Right On Time | 21.00% | ~247 |
 | Like Clockwork | 21.00% | ~247 |
 | The Betrayer | 21.00% | ~247 |
@@ -47,8 +47,8 @@ Rating: 4.65 (Ranked 325)
 | Entresol Explorer | 8.00% | ~94 |
 | Sartorialist | 7.00% | ~82 |
 | Golem Hunter | 7.00% | ~82 |
-| Clovemary for Remembering | 6.00% | ~70 |
-| Hexlock for Protection | 6.00% | ~70 |
+| Clovemary for Remembering | 6.00% | ~71 |
+| Hexlock for Protection | 6.00% | ~71 |
 | Rungs Was Right | 5.00% | ~59 |
 | Wunderkind | 2.00% | ~24 |
 | Fitting In | 2.00% | ~24 |
@@ -59,8 +59,8 @@ Rating: 4.65 (Ranked 325)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,175 (Ranked 280)  
-Completed: 6 (0.51%) (Ranked 217)  
+Progressed: 1,176 (Ranked 280)  
+Completed: 6 (0.51%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -221,6 +221,7 @@ Completed: 6 (0.51%) (Ranked 217)
 | 2023-12-29 | 1,145 | 6 |
 | 2023-12-30 | 1,165 | 6 |
 | 2023-12-31 | 1,175 | 6 |
+| 2024-01-01 | 1,176 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -39,12 +39,12 @@ Number of Ratings: 892  (23.09.2022)
 | Bridging the Gap | 62.00% | ~466 |
 | Commissions, commissions...! | 60.00% | ~451 |
 | Martle's Dream | 60.00% | ~451 |
+| Happier-est Place on Earth | 58.00% | ~436 |
 | Got the Flow Back | 58.00% | ~436 |
-| Happier-est Place on Earth | 57.00% | ~429 |
 | Anti-Santa | 57.00% | ~429 |
 | You Don't Win Friends With Salad | 55.00% | ~414 |
 | Finishing Touches | 54.00% | ~406 |
-| Call Me Fishmael | 53.00% | ~399 |
+| Call Me Fishmael | 54.00% | ~406 |
 | Time Flies | 52.00% | ~391 |
 | Sepia Toned Memories | 52.00% | ~391 |
 | Who Ya Gonna Call...? | 51.00% | ~384 |
@@ -52,9 +52,9 @@ Number of Ratings: 892  (23.09.2022)
 | Jewel of the Eufaula | 46.00% | ~346 |
 | Just What I Always Wanted! | 45.00% | ~338 |
 | My Time Mansion | 42.00% | ~316 |
+| He Can Spin A Yarn... | 40.00% | ~301 |
 | Santa In Training | 40.00% | ~301 |
-| He Can Spin A Yarn... | 39.00% | ~293 |
-| Sandrunning Speedster | 39.00% | ~293 |
+| Sandrunning Speedster | 40.00% | ~301 |
 | It Belongs in a Museum! | 35.00% | ~263 |
 | Do Your Part | 34.00% | ~256 |
 | Pro Gamer | 33.00% | ~248 |
@@ -68,7 +68,7 @@ Number of Ratings: 892  (23.09.2022)
 | Sandrock's Hottest Club | 5.00% | ~38 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 752 (Ranked 308)  
-Completed: 0 (0.00%) (Ranked 391)  
+Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

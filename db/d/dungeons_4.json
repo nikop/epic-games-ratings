@@ -2,12 +2,12 @@
   "ID": "63afbcc46a714796af53032c2b3ed4b3",
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
-  "Ranking_Rating": 284,
+  "Ranking_Rating": 285,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -43,7 +43,7 @@
   "Tags": [],
   "EOS_Progressed": 680,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 3.82,
   "EosHistory": [
@@ -2588,8 +2588,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2023-12-31T11:58:23.3486081+00:00",
-  "LastChanged_Achievements": "2024-01-01T07:09:10.5107605+00:00",
+  "LastChanged_Achievements": "2024-01-01T08:09:24.6771541+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2024-01-01T06:58:39.1026688+00:00",
-  "LastUpdate_Achievements": "2024-01-01T07:09:10.5108301+00:00"
+  "LastUpdate_Ratings": "2024-01-01T07:58:51.1250189+00:00",
+  "LastUpdate_Achievements": "2024-01-01T08:09:24.6772125+00:00"
 }

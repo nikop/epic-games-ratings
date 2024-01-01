@@ -2,13 +2,13 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 445,
+  "Ranking_Rating": 446,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 75,
-  "Ranking_EOS_Completed": 391,
+  "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -337,9 +337,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 234688,
+  "EOS_Progressed": 234690,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 501,
+  "EOS_NewPlayers": 502,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26357,6 +26357,11 @@
       "Time": "2024-01-01T07:09:35.3108447+00:00",
       "NumProgressed": 234688,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-01T08:09:46.7011122+00:00",
+      "NumProgressed": 234690,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 28,
@@ -26512,7 +26517,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 79794
+      "UsersEstimate": 79795
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -26528,7 +26533,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 51631
+      "UsersEstimate": 51632
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -26591,7 +26596,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 234688,
+      "Progressed": 234690,
       "Completed": 6
     }
   ],
@@ -26599,8 +26604,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-12-30T14:57:12.7393398+00:00",
-  "LastChanged_Achievements": "2024-01-01T07:09:35.3108444+00:00",
+  "LastChanged_Achievements": "2024-01-01T08:09:46.7011119+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:51.1279895+00:00",
-  "LastUpdate_Ratings": "2024-01-01T06:58:18.2564599+00:00",
-  "LastUpdate_Achievements": "2024-01-01T07:09:35.3110032+00:00"
+  "LastUpdate_Ratings": "2024-01-01T07:58:34.4746687+00:00",
+  "LastUpdate_Achievements": "2024-01-01T08:09:46.701258+00:00"
 }

@@ -8,17 +8,17 @@ Number of Ratings: 12,664  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 10.00% | ~14,875 |
 | Titan's First Steps | 10.00% | ~14,875 |
-| Basic in Bulk | 9.00% | ~13,387 |
+| Basic in Bulk | 9.00% | ~13,388 |
 | Tinkle of Coins | 8.00% | ~11,900 |
-| Disintermediation | 7.00% | ~10,412 |
-| Capitalism Ho! | 7.00% | ~10,412 |
+| Disintermediation | 7.00% | ~10,413 |
+| Capitalism Ho! | 7.00% | ~10,413 |
 | It's Free Real Estate | 6.00% | ~8,925 |
 | Budding Merchant | 6.00% | ~8,925 |
-| One Easy Payment | 5.00% | ~7,437 |
-| Some Assembly Required | 5.00% | ~7,437 |
-| Another Satisfied Customer | 5.00% | ~7,437 |
-| Pretty Penny | 5.00% | ~7,437 |
-| Own the Means of Production | 5.00% | ~7,437 |
+| One Easy Payment | 5.00% | ~7,438 |
+| Some Assembly Required | 5.00% | ~7,438 |
+| Another Satisfied Customer | 5.00% | ~7,438 |
+| Pretty Penny | 5.00% | ~7,438 |
+| Own the Means of Production | 5.00% | ~7,438 |
 | The Daily Grind | 4.00% | ~5,950 |
 | Bounty Hunters | 4.00% | ~5,950 |
 | Demand for Supplies | 4.00% | ~5,950 |
@@ -28,25 +28,25 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 4.00% | ~5,950 |
 | Through Repetition, Perfection | 4.00% | ~5,950 |
 | Arcane Industries | 4.00% | ~5,950 |
-| On the Path to Greatness | 3.00% | ~4,462 |
-| Ascended | 3.00% | ~4,462 |
-| Tax not Included | 3.00% | ~4,462 |
-| Research & Development | 3.00% | ~4,462 |
-| Vanity, Verily | 3.00% | ~4,462 |
-| Fated Encounters | 3.00% | ~4,462 |
-| Blank Page Syndrome | 3.00% | ~4,462 |
-| Power of Love | 3.00% | ~4,462 |
-| Efficient Floor Space | 3.00% | ~4,462 |
-| Flawless Fusion | 3.00% | ~4,462 |
-| Gem Expert | 3.00% | ~4,462 |
-| Gild-Gotten Goods | 3.00% | ~4,462 |
-| Royal Ransom | 3.00% | ~4,462 |
-| Helping Hand | 3.00% | ~4,462 |
-| Accomplished Merchant | 3.00% | ~4,462 |
-| Natural 20 | 3.00% | ~4,462 |
-| Did we pack lunch? | 3.00% | ~4,462 |
-| Magical Harmony | 3.00% | ~4,462 |
-| Complete Monopoly | 3.00% | ~4,462 |
+| On the Path to Greatness | 3.00% | ~4,463 |
+| Ascended | 3.00% | ~4,463 |
+| Tax not Included | 3.00% | ~4,463 |
+| Research & Development | 3.00% | ~4,463 |
+| Vanity, Verily | 3.00% | ~4,463 |
+| Fated Encounters | 3.00% | ~4,463 |
+| Blank Page Syndrome | 3.00% | ~4,463 |
+| Power of Love | 3.00% | ~4,463 |
+| Efficient Floor Space | 3.00% | ~4,463 |
+| Flawless Fusion | 3.00% | ~4,463 |
+| Gem Expert | 3.00% | ~4,463 |
+| Gild-Gotten Goods | 3.00% | ~4,463 |
+| Royal Ransom | 3.00% | ~4,463 |
+| Helping Hand | 3.00% | ~4,463 |
+| Accomplished Merchant | 3.00% | ~4,463 |
+| Natural 20 | 3.00% | ~4,463 |
+| Did we pack lunch? | 3.00% | ~4,463 |
+| Magical Harmony | 3.00% | ~4,463 |
+| Complete Monopoly | 3.00% | ~4,463 |
 | A Notch Above the Rest | 2.00% | ~2,975 |
 | Cream of the Crop | 2.00% | ~2,975 |
 | Top of the World | 2.00% | ~2,975 |
@@ -101,25 +101,25 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 2.00% | ~2,975 |
 | Economy of Scarce | 2.00% | ~2,975 |
 | King's Blade | 2.00% | ~2,975 |
-| The Free Encyclopedia | 1.00% | ~1,487 |
-| Thank You Tom Nook | 1.00% | ~1,487 |
-| Jackpot! | 1.00% | ~1,487 |
-| Eternal Crusade | 1.00% | ~1,487 |
+| The Free Encyclopedia | 1.00% | ~1,488 |
+| Thank You Tom Nook | 1.00% | ~1,488 |
+| Jackpot! | 1.00% | ~1,488 |
+| Eternal Crusade | 1.00% | ~1,488 |
 | The Greatest Grind | 0.90% | ~1,339 |
 | All or Nothing! | 0.90% | ~1,339 |
 | Bane of Legends | 0.80% | ~1,190 |
 | Anything not Nailed Down | 0.80% | ~1,190 |
 | Marvels from the World Over | 0.80% | ~1,190 |
 | Unleashed Potential | 0.70% | ~1,041 |
-| Ultimate Collector | 0.60% | ~892 |
-| JACKPOT!!! | 0.60% | ~892 |
+| Ultimate Collector | 0.60% | ~893 |
+| JACKPOT!!! | 0.60% | ~893 |
 | Oligarch Monarch | 0.50% | ~744 |
 | Merchant Extraordinaire | 0.50% | ~744 |
 | To Hell and Back | 0.40% | ~595 |
 | Cash Only Please | 0.40% | ~595 |
-| Capitalist Camaraderie | 0.20% | ~297 |
+| Capitalist Camaraderie | 0.20% | ~298 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,748 (Ranked 86)  
+Progressed: 148,751 (Ranked 86)  
 Completed: 340 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -375,7 +375,7 @@ Completed: 340 (0.23%) (Ranked 267)
 | 2023-12-29 | 148,353 | 338 |
 | 2023-12-30 | 148,534 | 340 |
 | 2023-12-31 | 148,713 | 340 |
-| 2024-01-01 | 148,748 | 340 |
+| 2024-01-01 | 148,751 | 340 |
 ## Awards
 Max (Great for Beginners): 4,934  (Ranked 78)  
 Sum: 27,886 (Ranked 51)  

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
-  "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_Completed": 390,
+  "Ranking_EOS_NewPlayers": 43,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -13843,10 +13843,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 63025,
       "NumberOfAwardsMax": 7645
+    },
+    {
+      "Time": "2024-01-01T08:00:14.8077784+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 63041,
+      "NumberOfAwardsMax": 7645
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 63025,
+  "NumberOfAwards": 63041,
   "NumberOfAwardsMax": 7645,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -13890,7 +13896,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 6845
+      "Count": 6861
     },
     {
       "Text": "This game is Relaxing",
@@ -13917,9 +13923,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 489292,
+  "EOS_Progressed": 489321,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5802,
+  "EOS_NewPlayers": 5808,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -43397,6 +43403,11 @@
       "Time": "2024-01-01T07:09:30.8278046+00:00",
       "NumProgressed": 489292,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T08:09:42.7159915+00:00",
+      "NumProgressed": 489321,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -44408,7 +44419,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2446
+      "UsersEstimate": 2447
     },
     {
       "ID": "achievement_grand_coalition",
@@ -46072,7 +46083,7 @@
       "Name": "Until death do us apart",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2446
+      "UsersEstimate": 2447
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -46311,21 +46322,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 489292,
+      "Progressed": 489321,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 489292,
+      "Progressed": 489321,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-01T01:56:10.7249052+00:00",
-  "LastChanged_Achievements": "2024-01-01T07:09:30.8278044+00:00",
+  "LastChanged": "2024-01-01T08:00:14.8077782+00:00",
+  "LastChanged_Achievements": "2024-01-01T08:09:42.7159912+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:39.2428149+00:00",
-  "LastUpdate_Ratings": "2024-01-01T07:00:14.7767647+00:00",
-  "LastUpdate_Achievements": "2024-01-01T07:09:30.8289013+00:00"
+  "LastUpdate_Ratings": "2024-01-01T08:00:14.8077792+00:00",
+  "LastUpdate_Achievements": "2024-01-01T08:09:42.7170818+00:00"
 }

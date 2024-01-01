@@ -3,9 +3,9 @@
   "Name": "Rift Rangers",
   "ProductSlug": "rift-rangers-b3b5fa",
   "Ranking_EOS_Progress": 615,
-  "Ranking_EOS_Completed": 391,
+  "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-06T13:30:00+00:00",
     "PcReleaseDate": "2022-12-08T04:00:00+00:00",
@@ -567,8 +567,8 @@
   ],
   "FirstSeen": "2023-07-03T08:57:11.4691999+00:00",
   "FirstSeenAchievements": "2023-06-06T14:01:35.6862615+00:00",
-  "LastChanged_Achievements": "2024-01-01T07:10:20.9697652+00:00",
+  "LastChanged_Achievements": "2024-01-01T08:10:29.2080189+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:25.8950394+00:00",
-  "LastUpdate_Ratings": "2024-01-01T06:59:48.5078853+00:00",
-  "LastUpdate_Achievements": "2024-01-01T07:10:20.9698117+00:00"
+  "LastUpdate_Ratings": "2024-01-01T07:59:52.2238443+00:00",
+  "LastUpdate_Achievements": "2024-01-01T08:10:29.2080594+00:00"
 }

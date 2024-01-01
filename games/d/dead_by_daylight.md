@@ -6,37 +6,37 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 5.00% | ~56,644 |
-| Skillful | 5.00% | ~56,644 |
-| Zealous | 4.00% | ~45,315 |
-| Not half bad | 4.00% | ~45,315 |
-| Make Some Noise | 4.00% | ~45,315 |
-| No one left behind | 3.00% | ~33,986 |
-| Handyman | 3.00% | ~33,986 |
-| Bloody Millionaire | 3.00% | ~33,986 |
-| Apt Survivor | 3.00% | ~33,986 |
-| Survival Treasures | 3.00% | ~33,986 |
-| I | 3.00% | ~33,986 |
-| Sorted | 3.00% | ~33,986 |
-| Healthy Obsession | 3.00% | ~33,986 |
-| Resurgence | 3.00% | ~33,986 |
-| Preemptive Strike | 3.00% | ~33,986 |
-| The Grand Sacrifice | 2.00% | ~22,658 |
-| Agonizing Escape | 2.00% | ~22,658 |
-| Backdoor Escape | 2.00% | ~22,658 |
-| I've got your back | 2.00% | ~22,658 |
-| Medic | 2.00% | ~22,658 |
-| Perfect Escape | 2.00% | ~22,658 |
-| Perfect Killing | 2.00% | ~22,658 |
-| Apt Killer | 2.00% | ~22,658 |
-| Risk it all | 2.00% | ~22,658 |
-| II | 2.00% | ~22,658 |
-| III | 2.00% | ~22,658 |
-| Engineer | 2.00% | ~22,658 |
-| Wounded Healer | 2.00% | ~22,658 |
-| Close Shave | 2.00% | ~22,658 |
-| Humanitarian | 2.00% | ~22,658 |
-| Second Act | 2.00% | ~22,658 |
+| It wakes | 5.00% | ~56,647 |
+| Skillful | 5.00% | ~56,647 |
+| Zealous | 4.00% | ~45,318 |
+| Not half bad | 4.00% | ~45,318 |
+| Make Some Noise | 4.00% | ~45,318 |
+| No one left behind | 3.00% | ~33,988 |
+| Handyman | 3.00% | ~33,988 |
+| Bloody Millionaire | 3.00% | ~33,988 |
+| Apt Survivor | 3.00% | ~33,988 |
+| Survival Treasures | 3.00% | ~33,988 |
+| I | 3.00% | ~33,988 |
+| Sorted | 3.00% | ~33,988 |
+| Healthy Obsession | 3.00% | ~33,988 |
+| Resurgence | 3.00% | ~33,988 |
+| Preemptive Strike | 3.00% | ~33,988 |
+| The Grand Sacrifice | 2.00% | ~22,659 |
+| Agonizing Escape | 2.00% | ~22,659 |
+| Backdoor Escape | 2.00% | ~22,659 |
+| I've got your back | 2.00% | ~22,659 |
+| Medic | 2.00% | ~22,659 |
+| Perfect Escape | 2.00% | ~22,659 |
+| Perfect Killing | 2.00% | ~22,659 |
+| Apt Killer | 2.00% | ~22,659 |
+| Risk it all | 2.00% | ~22,659 |
+| II | 2.00% | ~22,659 |
+| III | 2.00% | ~22,659 |
+| Engineer | 2.00% | ~22,659 |
+| Wounded Healer | 2.00% | ~22,659 |
+| Close Shave | 2.00% | ~22,659 |
+| Humanitarian | 2.00% | ~22,659 |
+| Second Act | 2.00% | ~22,659 |
 | Blood on your hands | 1.00% | ~11,329 |
 | Escape Artist | 1.00% | ~11,329 |
 | Made it out alive! | 1.00% | ~11,329 |
@@ -67,43 +67,43 @@ Number of Ratings: 70,340  (23.09.2022)
 | Chorus of Chaos | 1.00% | ~11,329 |
 | One More Step | 1.00% | ~11,329 |
 | MU/TH/UR Dearest | 1.00% | ~11,329 |
-| Blood on your face | 0.90% | ~10,196 |
-| Cottage Owner | 0.90% | ~10,196 |
-| Campbell's Chapel Legacy | 0.90% | ~10,196 |
-| Grim Pilgrimage | 0.90% | ~10,196 |
-| Outrun the Overlap | 0.90% | ~10,196 |
-| A Fast Death | 0.90% | ~10,196 |
-| Extraterrestrial | 0.90% | ~10,196 |
-| Outta Nowhere | 0.90% | ~10,196 |
-| A bite for the Entity | 0.80% | ~9,063 |
-| Leapfrog | 0.80% | ~9,063 |
-| Escaping the Nightmare | 0.80% | ~9,063 |
-| Devoted Gatekeeping | 0.80% | ~9,063 |
-| Shrine Apparatus | 0.80% | ~9,063 |
-| Selfless Survival | 0.80% | ~9,063 |
-| End of Days | 0.80% | ~9,063 |
-| Rebuilding The Borgo | 0.80% | ~9,063 |
-| Jump Scares | 0.70% | ~7,930 |
-| Hemophobia | 0.70% | ~7,930 |
-| Serial Killer | 0.70% | ~7,930 |
-| Game Over | 0.70% | ~7,930 |
-| Broken Bodies | 0.70% | ~7,930 |
-| Insult and Injury | 0.70% | ~7,930 |
-| High Speed Pursuit | 0.70% | ~7,930 |
-| Complete the Evolution | 0.70% | ~7,930 |
-| Deep Cleansing | 0.60% | ~6,797 |
-| Texas BBQ | 0.60% | ~6,797 |
-| Party Crasher | 0.60% | ~6,797 |
-| Outrage | 0.60% | ~6,797 |
-| I See You | 0.60% | ~6,797 |
-| Blood in your mouth | 0.50% | ~5,664 |
-| Whiffing to Success | 0.50% | ~5,664 |
-| Heavy Burden | 0.50% | ~5,664 |
-| Power Moves | 0.50% | ~5,664 |
-| Punch Drunk | 0.50% | ~5,664 |
-| Prowler | 0.50% | ~5,664 |
-| Triage | 0.50% | ~5,664 |
-| Kitted Out | 0.50% | ~5,664 |
+| Blood on your face | 0.90% | ~10,197 |
+| Cottage Owner | 0.90% | ~10,197 |
+| Campbell's Chapel Legacy | 0.90% | ~10,197 |
+| Grim Pilgrimage | 0.90% | ~10,197 |
+| Outrun the Overlap | 0.90% | ~10,197 |
+| A Fast Death | 0.90% | ~10,197 |
+| Extraterrestrial | 0.90% | ~10,197 |
+| Outta Nowhere | 0.90% | ~10,197 |
+| A bite for the Entity | 0.80% | ~9,064 |
+| Leapfrog | 0.80% | ~9,064 |
+| Escaping the Nightmare | 0.80% | ~9,064 |
+| Devoted Gatekeeping | 0.80% | ~9,064 |
+| Shrine Apparatus | 0.80% | ~9,064 |
+| Selfless Survival | 0.80% | ~9,064 |
+| End of Days | 0.80% | ~9,064 |
+| Rebuilding The Borgo | 0.80% | ~9,064 |
+| Jump Scares | 0.70% | ~7,931 |
+| Hemophobia | 0.70% | ~7,931 |
+| Serial Killer | 0.70% | ~7,931 |
+| Game Over | 0.70% | ~7,931 |
+| Broken Bodies | 0.70% | ~7,931 |
+| Insult and Injury | 0.70% | ~7,931 |
+| High Speed Pursuit | 0.70% | ~7,931 |
+| Complete the Evolution | 0.70% | ~7,931 |
+| Deep Cleansing | 0.60% | ~6,798 |
+| Texas BBQ | 0.60% | ~6,798 |
+| Party Crasher | 0.60% | ~6,798 |
+| Outrage | 0.60% | ~6,798 |
+| I See You | 0.60% | ~6,798 |
+| Blood in your mouth | 0.50% | ~5,665 |
+| Whiffing to Success | 0.50% | ~5,665 |
+| Heavy Burden | 0.50% | ~5,665 |
+| Power Moves | 0.50% | ~5,665 |
+| Punch Drunk | 0.50% | ~5,665 |
+| Prowler | 0.50% | ~5,665 |
+| Triage | 0.50% | ~5,665 |
+| Kitted Out | 0.50% | ~5,665 |
 | Looter | 0.40% | ~4,532 |
 | Death of Ignorance | 0.40% | ~4,532 |
 | Mad House | 0.30% | ~3,399 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,133 |
 | Adept Good Guy | 0.10% | ~1,133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,132,879 (Ranked 13)  
+Progressed: 1,132,946 (Ranked 13)  
 Completed: 65 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -495,7 +495,7 @@ Completed: 65 (0.01%) (Ranked 368)
 | 2023-12-29 | 1,127,985 | 65 |
 | 2023-12-30 | 1,130,308 | 65 |
 | 2023-12-31 | 1,132,441 | 65 |
-| 2024-01-01 | 1,132,879 | 65 |
+| 2024-01-01 | 1,132,946 | 65 |
 ## Awards
 Max (Diverse Characters): 38,918  (Ranked 15)  
 Sum: 294,091 (Ranked 12)  

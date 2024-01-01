@@ -29,7 +29,7 @@ Rating: 4.34 (Ranked 829)
 | First Bloom | 1.00% | ~11 |
 | Lean on Me | 0.60% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,129 (Ranked 283)  
+Progressed: 1,129 (Ranked 284)  
 Completed: 1 (0.09%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |

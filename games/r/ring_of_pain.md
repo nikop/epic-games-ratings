@@ -66,7 +66,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Chain Reaction | 0.40% | ~969 |
 | Antivenom | 0.40% | ~969 |
 | The Long Run | 0.40% | ~969 |
-| Who Needs Luck? | 0.40% | ~14 |
+| Who Needs Luck? | 0.40% | ~15 |
 | Achievement Hunter | 0.30% | ~726 |
 | Challenge Increases | 0.30% | ~726 |
 | New Game+ | 0.30% | ~726 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,141 (Ranked 72)  
+Progressed: 242,146 (Ranked 72)  
 Completed: 302 (0.12%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -401,7 +401,7 @@ Completed: 302 (0.12%) (Ranked 299)
 | 2023-12-29 | 241,985 | 302 |
 | 2023-12-30 | 242,061 | 302 |
 | 2023-12-31 | 242,129 | 302 |
-| 2024-01-01 | 242,141 | 302 |
+| 2024-01-01 | 242,146 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 135)  
 Sum: 11,777 (Ranked 88)  

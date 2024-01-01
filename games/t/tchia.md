@@ -5,7 +5,7 @@ Rating: 4.71 (Ranked 202)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In a Pinch | 0.80% | ~69 |
+| In a Pinch | 0.90% | ~77 |
 | Energy Saver | 0.70% | ~60 |
 | Soul-Canon | 0.30% | ~26 |
 | The Journey Onwards | 0.30% | ~26 |
@@ -28,7 +28,7 @@ Rating: 4.71 (Ranked 202)
 | Thing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8,601 (Ranked 186)  
-Completed: 34 (0.40%) (Ranked 229)  
+Completed: 34 (0.40%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

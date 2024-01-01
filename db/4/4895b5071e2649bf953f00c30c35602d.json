@@ -3,9 +3,9 @@
   "Name": "King of Seas",
   "ProductSlug": "king-of-seas-646f95",
   "Ranking_EOS_Progress": 819,
-  "Ranking_EOS_Completed": 391,
+  "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-01T14:38:20.274+00:00",
     "PcReleaseDate": "2021-05-25T00:00:00+00:00",
@@ -43,8 +43,8 @@
   ],
   "FirstSeen": "2023-12-03T01:49:23.4971701+00:00",
   "FirstSeenAchievements": "2023-11-29T14:03:22.1380309+00:00",
-  "LastChanged_Achievements": "2024-01-01T07:09:04.9616124+00:00",
+  "LastChanged_Achievements": "2024-01-01T08:09:19.5592235+00:00",
   "LastUpdate_AppInfo": "2023-12-27T14:57:15.8303492+00:00",
-  "LastUpdate_Ratings": "2024-01-01T07:03:03.4072547+00:00",
-  "LastUpdate_Achievements": "2024-01-01T07:09:04.9616141+00:00"
+  "LastUpdate_Ratings": "2024-01-01T08:03:32.2736167+00:00",
+  "LastUpdate_Achievements": "2024-01-01T08:09:19.5592256+00:00"
 }

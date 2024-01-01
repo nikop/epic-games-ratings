@@ -2,9 +2,9 @@
   "ID": "38e26343814d495fad695d913147ab9f",
   "Name": "Splinter Cell Conviction",
   "Ranking_EOS_Progress": 819,
-  "Ranking_EOS_Completed": 391,
+  "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:28.2044805+00:00",
-  "LastUpdate_Ratings": "2024-01-01T06:58:02.7230055+00:00",
-  "LastUpdate_Achievements": "2024-01-01T07:08:17.1854347+00:00"
+  "LastUpdate_Ratings": "2024-01-01T07:58:20.5911912+00:00",
+  "LastUpdate_Achievements": "2024-01-01T08:08:38.555977+00:00"
 }

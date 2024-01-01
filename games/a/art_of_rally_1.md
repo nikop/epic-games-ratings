@@ -1,57 +1,57 @@
 # Art of Rally
 [Store](https://store.epicgames.com/en-US/p/art-of-rally)  
 [View Rawdata](../../db/a/art_of_rally_1.json)  
-Rating: 4.67 (Ranked 284)  
+Rating: 4.67 (Ranked 285)  
 Number of Ratings: 56  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 79.00% | ~294,111 |
-| good drivers have dead flies on the side windows | 32.00% | ~119,134 |
-| keep it tidy | 26.00% | ~96,796 |
-| brail | 26.00% | ~96,796 |
-| car wash | 23.00% | ~85,627 |
-| the artist | 23.00% | ~85,627 |
-| podium | 20.00% | ~74,459 |
-| medium attack | 17.00% | ~63,290 |
-| bicycle race | 6.00% | ~22,338 |
-| grocery-getter | 5.00% | ~18,615 |
-| autopilot | 4.00% | ~14,892 |
-| where is the stage? | 3.00% | ~11,169 |
-| night ride | 3.00% | ~11,169 |
-| snorkel | 3.00% | ~11,169 |
-| food tour: pasta | 3.00% | ~11,169 |
-| perkele | 2.00% | ~7,446 |
-| rwd only | 2.00% | ~7,446 |
-| if in doubt, flat out! | 2.00% | ~7,446 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~7,446 |
-| to finish first, first you must finish | 1.00% | ~3,723 |
-| espresso | 1.00% | ~3,723 |
-| turbo | 1.00% | ~3,723 |
-| in like a lamb, out like a lion | 1.00% | ~3,723 |
-| mittens | 1.00% | ~3,723 |
-| food tour: pretzel | 1.00% | ~3,723 |
-| monster | 0.80% | ~2,978 |
-| eurobeat | 0.60% | ~2,234 |
-| viking | 0.50% | ~1,861 |
-| group b | 0.50% | ~1,861 |
-| oktoberfest | 0.40% | ~1,489 |
-| parallel universe | 0.40% | ~1,489 |
-| maximum attack | 0.40% | ~1,489 |
-| samir | 0.40% | ~1,489 |
-| master of rally | 0.30% | ~1,117 |
-| antilag | 0.30% | ~1,117 |
-| real roads, real fast | 0.30% | ~1,117 |
+| light attack | 79.00% | ~294,286 |
+| good drivers have dead flies on the side windows | 32.00% | ~119,204 |
+| keep it tidy | 26.00% | ~96,854 |
+| brail | 26.00% | ~96,854 |
+| car wash | 23.00% | ~85,678 |
+| the artist | 23.00% | ~85,678 |
+| podium | 20.00% | ~74,503 |
+| medium attack | 17.00% | ~63,327 |
+| bicycle race | 6.00% | ~22,351 |
+| grocery-getter | 5.00% | ~18,626 |
+| autopilot | 4.00% | ~14,901 |
+| where is the stage? | 3.00% | ~11,175 |
+| night ride | 3.00% | ~11,175 |
+| snorkel | 3.00% | ~11,175 |
+| food tour: pasta | 3.00% | ~11,175 |
+| perkele | 2.00% | ~7,450 |
+| rwd only | 2.00% | ~7,450 |
+| if in doubt, flat out! | 2.00% | ~7,450 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~7,450 |
+| to finish first, first you must finish | 1.00% | ~3,725 |
+| espresso | 1.00% | ~3,725 |
+| turbo | 1.00% | ~3,725 |
+| in like a lamb, out like a lion | 1.00% | ~3,725 |
+| mittens | 1.00% | ~3,725 |
+| food tour: pretzel | 1.00% | ~3,725 |
+| monster | 0.80% | ~2,980 |
+| eurobeat | 0.60% | ~2,235 |
+| viking | 0.50% | ~1,863 |
+| group b | 0.50% | ~1,863 |
+| oktoberfest | 0.40% | ~1,490 |
+| parallel universe | 0.40% | ~1,490 |
+| maximum attack | 0.40% | ~1,490 |
+| samir | 0.40% | ~1,490 |
+| master of rally | 0.30% | ~1,118 |
+| antilag | 0.30% | ~1,118 |
+| real roads, real fast | 0.30% | ~1,118 |
 | parking lot | 0.20% | ~745 |
 | comfy seats | 0.20% | ~745 |
-| if everything seems under control, you're not going fast enough | 0.10% | ~372 |
-| absolute drift | 0.10% | ~372 |
-| barely keeping it together | 0.10% | ~372 |
-| you're here for a good time, not a long time | 0.10% | ~372 |
-| simulator | 0.10% | ~372 |
+| if everything seems under control, you're not going fast enough | 0.10% | ~373 |
+| absolute drift | 0.10% | ~373 |
+| barely keeping it together | 0.10% | ~373 |
+| you're here for a good time, not a long time | 0.10% | ~373 |
+| simulator | 0.10% | ~373 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 372,293 (Ranked 51)  
-Completed: 12 (0.00%) (Ranked 391)  
+Progressed: 372,514 (Ranked 51)  
+Completed: 12 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -236,7 +236,7 @@ Completed: 12 (0.00%) (Ranked 391)
 | 2023-12-29 | 354,902 | 11 |
 | 2023-12-30 | 363,610 | 11 |
 | 2023-12-31 | 370,810 | 12 |
-| 2024-01-01 | 372,293 | 12 |
+| 2024-01-01 | 372,514 | 12 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 515)  
 Sum: 102 (Ranked 462)  

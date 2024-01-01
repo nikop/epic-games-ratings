@@ -2,10 +2,10 @@
   "ID": "e920c823522745c88a85e396965afc62",
   "Name": "Indoorlands",
   "ProductSlug": "indoorlands-3b2356",
-  "Ranking_EOS_Progress": 633,
-  "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 389,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_Progress": 627,
+  "Ranking_EOS_Completed": 390,
+  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-17T23:00:00+00:00",
     "PcReleaseDate": "2022-10-13T23:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 16,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -104,6 +104,11 @@
       "Time": "2023-12-31T22:04:03.6104738+00:00",
       "NumProgressed": 15,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T08:04:54.0507364+00:00",
+      "NumProgressed": 16,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-14T09:03:47.827813+00:00",
@@ -114,7 +119,7 @@
       "ID": "apoland",
       "SetID": "d4692al",
       "Name": "Apocalypse Land",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -122,7 +127,7 @@
       "ID": "articland",
       "SetID": "d4692al",
       "Name": "Articland",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -130,7 +135,7 @@
       "ID": "beautiful",
       "SetID": "d4692al",
       "Name": "It\u0027s beautiful",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -138,7 +143,7 @@
       "ID": "beginner",
       "SetID": "d4692al",
       "Name": "Beginner Guide",
-      "Percentage": 53,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -146,7 +151,7 @@
       "ID": "contractor",
       "SetID": "d4692al",
       "Name": "New Contractor",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -178,7 +183,7 @@
       "ID": "decorated",
       "SetID": "d4692al",
       "Name": "Decorated",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -186,7 +191,7 @@
       "ID": "dining",
       "SetID": "d4692al",
       "Name": "Fine Dining",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -194,7 +199,7 @@
       "ID": "entertainment",
       "SetID": "d4692al",
       "Name": "Exquisite Entertainment",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -202,7 +207,7 @@
       "ID": "exContractor",
       "SetID": "d4692al",
       "Name": "Experienced Contractor",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 45,
       "UsersEstimate": 1
     },
@@ -218,7 +223,7 @@
       "ID": "expansion",
       "SetID": "d4692al",
       "Name": "Expansion",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -226,7 +231,7 @@
       "ID": "halls",
       "SetID": "d4692al",
       "Name": "Not enough halls",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -234,7 +239,7 @@
       "ID": "happyVisitors",
       "SetID": "d4692al",
       "Name": "Happy visitors",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -250,7 +255,7 @@
       "ID": "keepComing",
       "SetID": "d4692al",
       "Name": "They keep coming",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -258,7 +263,7 @@
       "ID": "mass",
       "SetID": "d4692al",
       "Name": "Mass Transportation",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -274,7 +279,7 @@
       "ID": "researcher",
       "SetID": "d4692al",
       "Name": "Researcher",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -290,7 +295,7 @@
       "ID": "sight",
       "SetID": "d4692al",
       "Name": "A sight to behold",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -330,7 +335,7 @@
       "ID": "vip",
       "SetID": "d4692al",
       "Name": "VIP",
-      "Percentage": 60,
+      "Percentage": 56,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -363,14 +368,14 @@
     {
       "ID": "d4692al",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 16,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2024-01-01T07:04:34.7642779+00:00",
+  "LastChanged_Achievements": "2024-01-01T08:04:54.0507357+00:00",
   "LastUpdate_AppInfo": "2023-12-28T08:57:17.3349077+00:00",
-  "LastUpdate_Ratings": "2024-01-01T06:59:11.9972402+00:00",
-  "LastUpdate_Achievements": "2024-01-01T07:04:34.7642918+00:00"
+  "LastUpdate_Ratings": "2024-01-01T07:59:20.1529643+00:00",
+  "LastUpdate_Achievements": "2024-01-01T08:04:54.0507558+00:00"
 }

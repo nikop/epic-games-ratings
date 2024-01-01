@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2022-09-22T12:00:00+00:00",
@@ -1333,9 +1333,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 3479,
+  "EOS_Progressed": 3481,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7288,6 +7288,11 @@
       "Time": "2024-01-01T05:05:12.7616747+00:00",
       "NumProgressed": 3479,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-01T08:05:09.3814106+00:00",
+      "NumProgressed": 3481,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -7403,7 +7408,7 @@
       "Name": "Go with the Flow",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -7451,7 +7456,7 @@
       "Name": "Keeping it classy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -7675,22 +7680,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3479,
+      "Progressed": 3481,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-12-30T23:02:26.643085+00:00",
-  "LastChanged_Achievements": "2024-01-01T07:04:51.2401044+00:00",
+  "LastChanged_Achievements": "2024-01-01T08:05:09.3814102+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:58.5643959+00:00",
-  "LastUpdate_Ratings": "2024-01-01T06:57:22.4412274+00:00",
-  "LastUpdate_Achievements": "2024-01-01T07:04:51.2401508+00:00"
+  "LastUpdate_Ratings": "2024-01-01T07:57:45.5313264+00:00",
+  "LastUpdate_Achievements": "2024-01-01T08:05:09.3814605+00:00"
 }

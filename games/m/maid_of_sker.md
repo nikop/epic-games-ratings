@@ -7,7 +7,7 @@
 | Choking Hazard | 43.00% | ~116 |
 | Animal Lover | 32.00% | ~86 |
 | Don't Breathe | 30.00% | ~81 |
-| Smooth Operator | 16.00% | ~43 |
+| Smooth Operator | 17.00% | ~46 |
 | Easy Listening | 15.00% | ~40 |
 | Rapturous Applause! | 14.00% | ~38 |
 | Perfect Harmony! | 12.00% | ~32 |
@@ -36,7 +36,7 @@
 | The Longest Night | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 269 (Ranked 401)  
-Completed: 0 (0.00%) (Ranked 391)  
+Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

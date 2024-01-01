@@ -3,9 +3,9 @@
   "Name": "Painter Simulator",
   "ProductSlug": "painter-simulator-95e551",
   "Ranking_EOS_Progress": 819,
-  "Ranking_EOS_Completed": 391,
+  "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-30T04:00:00+00:00",
     "PcReleaseDate": "2023-03-02T18:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-09T00:06:01.7006731+00:00",
   "LastUpdate_AppInfo": "2023-12-29T21:57:13.4495096+00:00",
-  "LastUpdate_Ratings": "2024-01-01T07:03:10.0078555+00:00",
-  "LastUpdate_Achievements": "2024-01-01T07:06:35.2809915+00:00"
+  "LastUpdate_Ratings": "2024-01-01T08:03:38.1961573+00:00",
+  "LastUpdate_Achievements": "2024-01-01T08:06:40.371525+00:00"
 }

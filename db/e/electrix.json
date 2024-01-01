@@ -3,9 +3,9 @@
   "Name": "ElectriX",
   "ProductSlug": "electrix-e656d6",
   "Ranking_EOS_Progress": 819,
-  "Ranking_EOS_Completed": 391,
+  "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-31T02:58:37.8341437+00:00",
-  "LastUpdate_Ratings": "2024-01-01T07:03:28.1240201+00:00",
-  "LastUpdate_Achievements": "2024-01-01T07:09:45.0832459+00:00"
+  "LastUpdate_Ratings": "2024-01-01T08:03:52.9693933+00:00",
+  "LastUpdate_Achievements": "2024-01-01T08:09:55.5760066+00:00"
 }

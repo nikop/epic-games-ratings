@@ -2,10 +2,10 @@
   "ID": "bf3261d8abc64fdfb73c3f9c4f7870e0",
   "Name": "Ash of Gods: Redemption",
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
-  "Ranking_EOS_Progress": 499,
-  "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 318,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_Progress": 497,
+  "Ranking_EOS_Completed": 390,
+  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
     "PcReleaseDate": "2018-03-22T23:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 88,
+  "EOS_Progressed": 89,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -423,6 +423,11 @@
     {
       "Time": "2024-01-01T05:09:23.5079718+00:00",
       "NumProgressed": 88,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T08:09:40.1632145+00:00",
+      "NumProgressed": 89,
       "NumCompleted": 0
     }
   ],
@@ -835,14 +840,14 @@
     {
       "ID": "bngbnfb",
       "IsBase": true,
-      "Progressed": 88,
+      "Progressed": 89,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2024-01-01T07:09:28.0658868+00:00",
+  "LastChanged_Achievements": "2024-01-01T08:09:40.1632141+00:00",
   "LastUpdate_AppInfo": "2023-12-27T14:57:14.899745+00:00",
-  "LastUpdate_Ratings": "2024-01-01T07:00:57.3575744+00:00",
-  "LastUpdate_Achievements": "2024-01-01T07:09:28.0659173+00:00"
+  "LastUpdate_Ratings": "2024-01-01T08:00:51.1047547+00:00",
+  "LastUpdate_Achievements": "2024-01-01T08:09:40.1632484+00:00"
 }

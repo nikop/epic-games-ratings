@@ -5,11 +5,11 @@ Rating: 4.55 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 75.00% | ~612 |
+| Tell me your story | 75.00% | ~613 |
 | Don't judge a manhole by its cover | 60.00% | ~490 |
 | Keep 'em coming! | 42.00% | ~343 |
 | I just love stuff! | 41.00% | ~335 |
-| The things they print nowadays | 39.00% | ~318 |
+| The things they print nowadays | 39.00% | ~319 |
 | Big Spender | 38.00% | ~310 |
 | That's gotta hurt | 36.00% | ~294 |
 | I think it's broke | 26.00% | ~212 |
@@ -23,27 +23,27 @@ Rating: 4.55 (Ranked 522)
 | The truth is out there | 16.00% | ~131 |
 | Annakin Skyscroller | 13.00% | ~106 |
 | In the smacker...I think | 10.00% | ~82 |
-| Arm Wrestlin' | 9.00% | ~73 |
-| 1+1>2 | 9.00% | ~73 |
+| Arm Wrestlin' | 9.00% | ~74 |
+| 1+1>2 | 9.00% | ~74 |
+| Supreme Bartender Ann | 8.00% | ~65 |
 | This can't be right… | 8.00% | ~65 |
 | Welcome home, 06 | 8.00% | ~65 |
 | I'm walking here! | 7.00% | ~57 |
 | So Fresh and So clean clean | 7.00% | ~57 |
-| Supreme Bartender Ann | 7.00% | ~57 |
 | Clarity of Mind | 6.00% | ~49 |
 | I feel secure, contained & protected | 6.00% | ~49 |
 | Science, it works! | 6.00% | ~49 |
 | The Traveler | 6.00% | ~49 |
 | Woman on a (side) mission | 5.00% | ~41 |
-| Ann ULTRA | 3.00% | ~24 |
-| Lady Luck is a cool cat | 3.00% | ~24 |
+| Ann ULTRA | 3.00% | ~25 |
+| Lady Luck is a cool cat | 3.00% | ~25 |
 | SERENITY NOW | 2.00% | ~16 |
 | I just got real good | 2.00% | ~16 |
 | Love me like I love my posters | 1.00% | ~8 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 816 (Ranked 302)  
-Completed: 0 (0.00%) (Ranked 391)  
+Progressed: 817 (Ranked 301)  
+Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -160,7 +160,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-29 | 807 | 0 |
 | 2023-12-30 | 809 | 0 |
 | 2023-12-31 | 815 | 0 |
-| 2024-01-01 | 816 | 0 |
+| 2024-01-01 | 817 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

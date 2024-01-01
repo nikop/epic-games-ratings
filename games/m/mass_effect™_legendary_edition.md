@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 90.00% | ~3,146 |
-| Spectre Inductee | 67.00% | ~2,342 |
+| Distinguished Service Medal | 90.00% | ~3,147 |
+| Spectre Inductee | 67.00% | ~2,343 |
 | Medal of Exploration I | 57.00% | ~1,993 |
 | Recruit | 52.00% | ~1,818 |
 | Search and Rescue | 51.00% | ~1,783 |
-| Quarian Ally | 49.00% | ~1,713 |
-| Medal of Heroism | 44.00% | ~1,538 |
-| Honorarium of Corporate Service | 44.00% | ~1,538 |
-| Turian Ally | 41.00% | ~1,433 |
-| Medal of Exploration II | 39.00% | ~1,363 |
-| Council Legion of Merit | 39.00% | ~1,363 |
+| Quarian Ally | 49.00% | ~1,714 |
+| Medal of Heroism | 44.00% | ~1,539 |
+| Honorarium of Corporate Service | 44.00% | ~1,539 |
+| Turian Ally | 41.00% | ~1,434 |
+| Medal of Exploration II | 39.00% | ~1,364 |
+| Council Legion of Merit | 39.00% | ~1,364 |
 | Medal of Honor | 36.00% | ~1,259 |
 | Meritorious Service Medal | 36.00% | ~1,259 |
 | Soldier Ally | 36.00% | ~1,259 |
@@ -60,11 +60,11 @@
 | Heart of Darkness | 21.00% | ~734 |
 | Bringer of War | 21.00% | ~734 |
 | Shopaholic | 21.00% | ~734 |
+| Focused | 20.00% | ~699 |
 | Completionist | 20.00% | ~699 |
 | Treason | 20.00% | ~699 |
 | Big Game Hunter | 20.00% | ~699 |
 | Digital Exorcist | 20.00% | ~699 |
-| Focused | 19.00% | ~664 |
 | Suicide Mission | 19.00% | ~664 |
 | Friend or Foe | 19.00% | ~664 |
 | Cat's in the Cradle | 19.00% | ~664 |
@@ -80,23 +80,23 @@
 | A House Divided | 18.00% | ~629 |
 | World Shaker | 17.00% | ~594 |
 | Liberator | 17.00% | ~594 |
-| Pathfinder | 16.00% | ~559 |
-| Tunnel Rat | 16.00% | ~559 |
-| Arbiter | 16.00% | ~559 |
-| Savior | 15.00% | ~524 |
-| Weapon Specialist | 15.00% | ~524 |
-| Lost and Found | 15.00% | ~524 |
-| Paramour II | 14.00% | ~489 |
-| Party Crasher | 14.00% | ~489 |
-| Hard Target | 14.00% | ~489 |
-| Fact Finder | 14.00% | ~489 |
-| Problem Solver | 14.00% | ~489 |
-| Under Pressure | 13.00% | ~454 |
-| Last Resort | 13.00% | ~454 |
-| No One Left Behind | 13.00% | ~454 |
-| Saboteur | 13.00% | ~454 |
-| Last Witness | 13.00% | ~454 |
-| Well Connected | 13.00% | ~454 |
+| Pathfinder | 16.00% | ~560 |
+| Tunnel Rat | 16.00% | ~560 |
+| Arbiter | 16.00% | ~560 |
+| Savior | 15.00% | ~525 |
+| Weapon Specialist | 15.00% | ~525 |
+| Lost and Found | 15.00% | ~525 |
+| Paramour II | 14.00% | ~490 |
+| Party Crasher | 14.00% | ~490 |
+| Hard Target | 14.00% | ~490 |
+| Fact Finder | 14.00% | ~490 |
+| Problem Solver | 14.00% | ~490 |
+| Under Pressure | 13.00% | ~455 |
+| Last Resort | 13.00% | ~455 |
+| No One Left Behind | 13.00% | ~455 |
+| Saboteur | 13.00% | ~455 |
+| Last Witness | 13.00% | ~455 |
+| Well Connected | 13.00% | ~455 |
 | Pyromaniac | 12.00% | ~420 |
 | Executioner | 12.00% | ~420 |
 | Patriot | 12.00% | ~420 |
@@ -132,8 +132,8 @@
 | Neural Shock Specialist | 1.00% | ~35 |
 | The One and Only | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,496 (Ranked 219)  
-Completed: 12 (0.34%) (Ranked 239)  
+Progressed: 3,497 (Ranked 219)  
+Completed: 12 (0.34%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -240,4 +240,4 @@ Completed: 12 (0.34%) (Ranked 239)
 | 2023-12-29 | 3,336 | 12 |
 | 2023-12-30 | 3,419 | 12 |
 | 2023-12-31 | 3,483 | 12 |
-| 2024-01-01 | 3,496 | 12 |
+| 2024-01-01 | 3,497 | 12 |

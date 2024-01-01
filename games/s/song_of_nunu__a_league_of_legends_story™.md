@@ -44,7 +44,7 @@ Rating: 4.52 (Ranked 574)
 | Snowball Fightn't | 9.00% | ~128 |
 | It Was Him | 7.00% | ~99 |
 | Handy Yeti | 6.00% | ~85 |
-| The Pied Piper Of Freljord | 4.00% | ~57 |
+| The Pied Piper Of Freljord | 5.00% | ~71 |
 | Braum's Poro Ranch | 3.00% | ~43 |
 | Rock Star | 2.00% | ~28 |
 | We Are Speed | 2.00% | ~28 |

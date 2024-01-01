@@ -3,9 +3,9 @@
   "Name": "Lumote: The Mastermote Chronicles",
   "ProductSlug": "lumote",
   "Ranking_EOS_Progress": 819,
-  "Ranking_EOS_Completed": 391,
+  "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-21T13:00:00+00:00",
     "PcReleaseDate": "2022-04-21T13:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:00.4254175+00:00",
   "LastChanged": "2023-03-31T05:58:00.4254176+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:50.1829866+00:00",
-  "LastUpdate_Ratings": "2024-01-01T06:58:15.7807715+00:00",
-  "LastUpdate_Achievements": "2024-01-01T07:05:18.5948087+00:00"
+  "LastUpdate_Ratings": "2024-01-01T07:58:31.8385442+00:00",
+  "LastUpdate_Achievements": "2024-01-01T08:05:32.9733301+00:00"
 }

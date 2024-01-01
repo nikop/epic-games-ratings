@@ -5,10 +5,10 @@
   "Ranking_Rating": 522,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
-  "Ranking_EOS_Progress": 302,
-  "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_Progress": 301,
+  "Ranking_EOS_Completed": 390,
+  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 816,
+  "EOS_Progressed": 817,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1184,6 +1184,11 @@
       "Time": "2024-01-01T07:03:34.3779791+00:00",
       "NumProgressed": 816,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T08:04:00.1234697+00:00",
+      "NumProgressed": 817,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1195,7 +1200,7 @@
       "Name": "Ann ULTRA",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Annakin Skyscroller",
@@ -1211,7 +1216,7 @@
       "Name": "Arm Wrestlin\u0027",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Big_Spender",
@@ -1243,7 +1248,7 @@
       "Name": "1\u002B1\u003E2",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Deadly_Kombationem",
@@ -1315,7 +1320,7 @@
       "Name": "Lady Luck is a cool cat",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Omnipotence",
@@ -1353,9 +1358,9 @@
       "ID": "Supreme_Bartender_Ann",
       "SetID": "gl7plp",
       "Name": "Supreme Bartender Ann",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 65
     },
     {
       "ID": "Tell_me_your_story",
@@ -1363,7 +1368,7 @@
       "Name": "Tell me your story",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -1411,7 +1416,7 @@
       "Name": "The things they print nowadays",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "The_truth_is_out_there",
@@ -1482,7 +1487,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 816,
+      "Progressed": 817,
       "Completed": 0
     }
   ],
@@ -1490,8 +1495,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-12-25T11:02:42.8909676+00:00",
-  "LastChanged_Achievements": "2024-01-01T07:03:34.3779789+00:00",
+  "LastChanged_Achievements": "2024-01-01T08:04:00.1234693+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:48.7904746+00:00",
-  "LastUpdate_Ratings": "2024-01-01T07:02:58.288014+00:00",
-  "LastUpdate_Achievements": "2024-01-01T07:03:34.3780084+00:00"
+  "LastUpdate_Ratings": "2024-01-01T08:03:27.8680821+00:00",
+  "LastUpdate_Achievements": "2024-01-01T08:04:00.1234993+00:00"
 }

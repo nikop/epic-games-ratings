@@ -6,9 +6,9 @@
   "Ranking_Popularity": 520,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 243,
-  "Ranking_EOS_Completed": 391,
+  "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -269,7 +269,7 @@
   ],
   "EOS_Progressed": 2029,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4820,9 +4820,9 @@
       "ID": "AC01",
       "SetID": "l4abp0",
       "Name": "A Thousand Years Later",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1826
     },
     {
       "ID": "AC02",
@@ -4924,9 +4924,9 @@
       "ID": "AC14",
       "SetID": "l4abp0",
       "Name": "Acta, Non Verba",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 365
     },
     {
       "ID": "AC15",
@@ -5076,9 +5076,9 @@
       "ID": "AC33",
       "SetID": "l4abp0",
       "Name": "Ultima Ratio",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 954
+      "UsersEstimate": 974
     },
     {
       "ID": "AC34",
@@ -5189,8 +5189,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-31T20:59:17.7127137+00:00",
-  "LastChanged_Achievements": "2024-01-01T07:08:18.6298311+00:00",
+  "LastChanged_Achievements": "2024-01-01T08:08:39.8915677+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:24.8809366+00:00",
-  "LastUpdate_Ratings": "2024-01-01T06:59:00.6360552+00:00",
-  "LastUpdate_Achievements": "2024-01-01T07:08:18.6298921+00:00"
+  "LastUpdate_Ratings": "2024-01-01T07:59:10.0851687+00:00",
+  "LastUpdate_Achievements": "2024-01-01T08:08:39.8916191+00:00"
 }
