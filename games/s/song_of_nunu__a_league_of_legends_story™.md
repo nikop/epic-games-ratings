@@ -36,7 +36,7 @@ Rating: 4.52 (Ranked 574)
 | Bullseye | 36.00% | ~509 |
 | It Is Not Over | 35.00% | ~495 |
 | On The Rocks | 33.00% | ~467 |
-| Snowy Poro | 31.00% | ~438 |
+| Snowy Poro | 32.00% | ~452 |
 | Never Gets Old | 31.00% | ~438 |
 | Vertical Power | 27.00% | ~382 |
 | One From The Heart | 13.00% | ~184 |

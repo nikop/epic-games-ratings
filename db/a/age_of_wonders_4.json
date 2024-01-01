@@ -669,7 +669,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6629,
+  "EOS_Progressed": 6630,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 471,
   "EOS_NewCompleters": 0,
@@ -9939,6 +9939,11 @@
       "Time": "2024-01-01T02:02:25.016925+00:00",
       "NumProgressed": 6629,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-01T03:08:08.4011758+00:00",
+      "NumProgressed": 6630,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9950,7 +9955,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "10",
@@ -10166,7 +10171,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "35",
@@ -10222,7 +10227,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "41",
@@ -10414,7 +10419,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "60",
@@ -10429,13 +10434,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6629,
+      "Progressed": 6630,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6629,
+      "Progressed": 6630,
       "Completed": 7
     }
   ],
@@ -10443,8 +10448,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-31T18:58:53.0277501+00:00",
-  "LastChanged_Achievements": "2024-01-01T02:02:25.0169247+00:00",
+  "LastChanged_Achievements": "2024-01-01T03:08:08.4011754+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-01T01:55:18.4035075+00:00",
-  "LastUpdate_Achievements": "2024-01-01T02:02:25.0170206+00:00"
+  "LastUpdate_Ratings": "2024-01-01T02:59:55.1438264+00:00",
+  "LastUpdate_Achievements": "2024-01-01T03:08:08.4012623+00:00"
 }

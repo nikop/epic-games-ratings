@@ -8,19 +8,19 @@ Rating: 4.68 (Ranked 261)
 | Tooth fairy | 24.00% | ~204 |
 | Dental maturity | 19.00% | ~162 |
 | Devil's in the details | 14.00% | ~119 |
-| Uprooting | 13.00% | ~110 |
+| Uprooting | 13.00% | ~111 |
 | Forbidden techniques | 12.00% | ~102 |
-| Devoted | 9.00% | ~76 |
+| Devoted | 9.00% | ~77 |
 | Slavic squatter | 8.00% | ~68 |
 | Gold rush | 7.00% | ~60 |
 | Spirit animal | 7.00% | ~60 |
 | Liar Liar | 6.00% | ~51 |
-| Fishing fanatic | 5.00% | ~42 |
-| The word around is... | 5.00% | ~42 |
-| A friend in need... | 5.00% | ~42 |
-| The cycle acknowledged | 5.00% | ~42 |
-| Queen | 5.00% | ~42 |
-| Baba Yaga | 5.00% | ~42 |
+| Fishing fanatic | 5.00% | ~43 |
+| The word around is... | 5.00% | ~43 |
+| A friend in need... | 5.00% | ~43 |
+| The cycle acknowledged | 5.00% | ~43 |
+| Queen | 5.00% | ~43 |
+| Baba Yaga | 5.00% | ~43 |
 | Extensive retelling | 4.00% | ~34 |
 | Sneak peek | 4.00% | ~34 |
 | Favorite | 4.00% | ~34 |
@@ -33,12 +33,12 @@ Rating: 4.68 (Ranked 261)
 | Gnowlledgeable | 2.00% | ~17 |
 | Always worth a try | 2.00% | ~17 |
 | Entangled | 2.00% | ~17 |
-| Loremaster | 1.00% | ~8 |
-| Awards unwarded | 1.00% | ~8 |
+| Loremaster | 1.00% | ~9 |
+| Awards unwarded | 1.00% | ~9 |
 | Mushrooming enthusiast | 0.60% | ~5 |
 | Apex predator | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 850 (Ranked 298)  
+Progressed: 851 (Ranked 298)  
 Completed: 1 (0.12%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,6 +242,7 @@ Completed: 1 (0.12%) (Ranked 299)
 | 2023-12-29 | 841 | 1 |
 | 2023-12-30 | 845 | 1 |
 | 2023-12-31 | 850 | 1 |
+| 2024-01-01 | 851 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

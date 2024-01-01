@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1044,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -3831,9 +3831,9 @@
       "ID": "achievement_8",
       "SetID": "2cpn27e",
       "Name": "Expert Conjuror",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 397
+      "UsersEstimate": 407
     },
     {
       "ID": "achievement_9",
@@ -3853,8 +3853,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-01T02:05:23.484016+00:00",
+  "LastChanged_Achievements": "2024-01-01T03:10:10.365453+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:22.7723621+00:00",
-  "LastUpdate_Ratings": "2024-01-01T01:55:32.0960622+00:00",
-  "LastUpdate_Achievements": "2024-01-01T02:05:23.4840774+00:00"
+  "LastUpdate_Ratings": "2024-01-01T03:00:15.3437118+00:00",
+  "LastUpdate_Achievements": "2024-01-01T03:10:10.3654963+00:00"
 }

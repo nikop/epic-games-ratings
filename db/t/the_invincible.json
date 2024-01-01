@@ -3294,9 +3294,9 @@
       "ID": "AchvDiscoverAlliance",
       "SetID": "1hj060c",
       "Name": "The Alliance",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 483
     },
     {
       "ID": "AchvDoom",
@@ -3471,8 +3471,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2023-12-30T17:00:36.8691778+00:00",
-  "LastChanged_Achievements": "2024-01-01T02:05:32.073924+00:00",
+  "LastChanged_Achievements": "2024-01-01T03:10:22.2868839+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:20.4992862+00:00",
-  "LastUpdate_Ratings": "2024-01-01T01:53:29.520676+00:00",
-  "LastUpdate_Achievements": "2024-01-01T02:05:32.0739619+00:00"
+  "LastUpdate_Ratings": "2024-01-01T02:57:15.5296543+00:00",
+  "LastUpdate_Achievements": "2024-01-01T03:10:22.2869191+00:00"
 }

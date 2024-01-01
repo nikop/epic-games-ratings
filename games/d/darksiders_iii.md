@@ -28,9 +28,9 @@ Number of Ratings: 116  (23.09.2022)
 | Maximum Vigor | 30.00% | ~104 |
 | I Wanna Rock | 30.00% | ~104 |
 | Love Tap | 29.00% | ~100 |
+| For Whom the Bell Tolls | 27.00% | ~93 |
 | Freeze Frame | 26.00% | ~90 |
 | Eat Your Heart Out | 26.00% | ~90 |
-| For Whom the Bell Tolls | 26.00% | ~90 |
 | Big Spender | 24.00% | ~83 |
 | Unyielding Strength | 23.00% | ~79 |
 | Can you restore the Balance? | 23.00% | ~79 |

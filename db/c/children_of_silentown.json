@@ -4,7 +4,7 @@
   "ProductSlug": "children-of-silentown-52cc21",
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 527,
+  "Ranking_EOS_NewPlayers": 528,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -628,9 +628,9 @@
       "ID": "Offroad",
       "SetID": "9kk0gal",
       "Name": "Flower of hope",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "Puppy",
@@ -717,8 +717,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2024-01-01T02:00:56.1298037+00:00",
+  "LastChanged_Achievements": "2024-01-01T03:06:05.0224727+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:27.5313351+00:00",
-  "LastUpdate_Ratings": "2024-01-01T01:58:54.7235779+00:00",
-  "LastUpdate_Achievements": "2024-01-01T02:00:56.129821+00:00"
+  "LastUpdate_Ratings": "2024-01-01T03:03:10.8300503+00:00",
+  "LastUpdate_Achievements": "2024-01-01T03:06:05.0224951+00:00"
 }

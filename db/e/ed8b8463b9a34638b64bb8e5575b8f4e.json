@@ -2,9 +2,9 @@
   "ID": "ed8b8463b9a34638b64bb8e5575b8f4e",
   "Name": "The Isle Tide Hotel",
   "ProductSlug": "the-isle-tide-hotel-adf588",
-  "Ranking_EOS_Progress": 484,
-  "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_Progress": 482,
+  "Ranking_EOS_Completed": 178,
+  "Ranking_EOS_NewPlayers": 377,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 105,
+  "EOS_Progressed": 106,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.95,
+  "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
     {
       "Time": "2023-09-12T13:07:07.5986891+00:00",
@@ -539,6 +539,11 @@
       "Time": "2023-12-31T22:09:46.4448841+00:00",
       "NumProgressed": 105,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T03:10:54.5221517+00:00",
+      "NumProgressed": 106,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-29T09:04:17.2869306+00:00",
@@ -557,7 +562,7 @@
       "ID": "christ_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Christ the Saviour",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 10,
       "UsersEstimate": 82
     },
@@ -613,7 +618,7 @@
       "ID": "josh_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Josh the Saviour",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -687,7 +692,7 @@
       "Name": "The Fall",
       "Percentage": 10,
       "XP": 95,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "the_four_doors",
@@ -719,7 +724,7 @@
       "Name": "The Petition",
       "Percentage": 10,
       "XP": 95,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "the_price_is_right",
@@ -758,14 +763,14 @@
     {
       "ID": "7i36ba9",
       "IsBase": true,
-      "Progressed": 105,
+      "Progressed": 106,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2024-01-01T02:05:55.532643+00:00",
+  "LastChanged_Achievements": "2024-01-01T03:10:54.5221515+00:00",
   "LastUpdate_AppInfo": "2023-12-30T07:56:58.7509332+00:00",
-  "LastUpdate_Ratings": "2024-01-01T01:53:57.7473051+00:00",
-  "LastUpdate_Achievements": "2024-01-01T02:05:55.5326785+00:00"
+  "LastUpdate_Ratings": "2024-01-01T02:57:56.870074+00:00",
+  "LastUpdate_Achievements": "2024-01-01T03:10:54.522168+00:00"
 }

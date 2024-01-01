@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 335,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1542,9 +1542,9 @@
       "ID": "AC_DISTANCE_3",
       "SetID": "16i2akc",
       "Name": "Voyage",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 45,
-      "UsersEstimate": 90
+      "UsersEstimate": 94
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -1677,8 +1677,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-01T02:00:03.6557971+00:00",
+  "LastChanged_Achievements": "2024-01-01T03:04:52.0736088+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:54.1541826+00:00",
-  "LastUpdate_Ratings": "2024-01-01T01:55:00.4818359+00:00",
-  "LastUpdate_Achievements": "2024-01-01T02:00:03.6558305+00:00"
+  "LastUpdate_Ratings": "2024-01-01T02:59:28.988956+00:00",
+  "LastUpdate_Achievements": "2024-01-01T03:04:52.0736439+00:00"
 }

@@ -940,9 +940,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 52921,
+  "EOS_Progressed": 52924,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1204,
+  "EOS_NewPlayers": 1202,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30005,6 +30005,11 @@
       "Time": "2024-01-01T02:01:42.5506493+00:00",
       "NumProgressed": 52921,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-01T03:07:08.3599886+00:00",
+      "NumProgressed": 52924,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -30040,7 +30045,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5821
+      "UsersEstimate": 5822
     },
     {
       "ID": "distance500000",
@@ -30144,7 +30149,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 7938
+      "UsersEstimate": 7939
     },
     {
       "ID": "playerFelipe",
@@ -30224,7 +30229,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13230
+      "UsersEstimate": 13231
     },
     {
       "ID": "sandboarder",
@@ -30240,7 +30245,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5821
+      "UsersEstimate": 5822
     },
     {
       "ID": "ultimate",
@@ -30288,7 +30293,7 @@
       "Name": "Enter Paz",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3704
+      "UsersEstimate": 3705
     },
     {
       "ID": "vandal",
@@ -30327,15 +30332,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 52921,
+      "Progressed": 52924,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-12-28T19:03:02.718582+00:00",
-  "LastChanged_Achievements": "2024-01-01T02:01:42.5506491+00:00",
+  "LastChanged_Achievements": "2024-01-01T03:07:08.3599883+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:20.753487+00:00",
-  "LastUpdate_Ratings": "2024-01-01T01:54:55.081015+00:00",
-  "LastUpdate_Achievements": "2024-01-01T02:01:42.5507753+00:00"
+  "LastUpdate_Ratings": "2024-01-01T02:59:20.8126447+00:00",
+  "LastUpdate_Achievements": "2024-01-01T03:07:08.3601717+00:00"
 }

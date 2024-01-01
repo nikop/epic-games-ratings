@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 213,
+  "EOS_Progressed": 214,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -959,6 +959,11 @@
       "Time": "2024-01-01T00:08:59.5240804+00:00",
       "NumProgressed": 213,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T03:09:36.0160047+00:00",
+      "NumProgressed": 214,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -979,7 +984,7 @@
       "Name": "Across The Styx",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "SG_AGAINSTALLODDS",
@@ -1043,7 +1048,7 @@
       "Name": "End Of The Road",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1107,7 +1112,7 @@
       "Name": "Meant To Be",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -1121,9 +1126,9 @@
       "ID": "SG_NOTALOSTGIRL",
       "SetID": "bj5g0n4",
       "Name": "Not A Lost Girl",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 90
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -1187,7 +1192,7 @@
       "Name": "The Choice Is Yours",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "SG_THEDEEPEND",
@@ -1266,14 +1271,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 213,
+      "Progressed": 214,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-01T02:04:59.1754851+00:00",
+  "LastChanged_Achievements": "2024-01-01T03:09:36.0160044+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.3127204+00:00",
-  "LastUpdate_Ratings": "2024-01-01T01:55:21.9419191+00:00",
-  "LastUpdate_Achievements": "2024-01-01T02:04:59.1755182+00:00"
+  "LastUpdate_Ratings": "2024-01-01T03:00:00.5000541+00:00",
+  "LastUpdate_Achievements": "2024-01-01T03:09:36.0160394+00:00"
 }

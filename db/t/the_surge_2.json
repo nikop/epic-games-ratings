@@ -6,8 +6,8 @@
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 230,
-  "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_Completed": 213,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -294,11 +294,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2429,
+  "EOS_Progressed": 2430,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.54,
+  "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:46.0038697+00:00",
@@ -4124,6 +4124,11 @@
       "Time": "2024-01-01T02:00:10.6245743+00:00",
       "NumProgressed": 2429,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-01T03:05:01.9918543+00:00",
+      "NumProgressed": 2430,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4143,7 +4148,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "ACHV_03",
@@ -4207,7 +4212,7 @@
       "Name": "Corrupted Beauty",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ACHV_11",
@@ -4247,7 +4252,7 @@
       "Name": "Hello Darkness My Old Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACHV_16",
@@ -4287,7 +4292,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ACHV_21",
@@ -4335,7 +4340,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1919
+      "UsersEstimate": 1920
     },
     {
       "ID": "ACHV_27",
@@ -4423,7 +4428,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "ACHV_38",
@@ -4463,7 +4468,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ACHV_43",
@@ -4479,7 +4484,7 @@
       "Name": "Counter-Sniper",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACHV_45",
@@ -4487,7 +4492,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "ACHV_46",
@@ -4527,7 +4532,7 @@
       "Name": "Shrimp Cocktail",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACHV_51",
@@ -4543,7 +4548,7 @@
       "Name": "Juiced Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACHV_53",
@@ -4590,7 +4595,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2429,
+      "Progressed": 2430,
       "Completed": 13
     }
   ],
@@ -4598,8 +4603,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-29T03:00:05.8444174+00:00",
-  "LastChanged_Achievements": "2024-01-01T02:00:10.624574+00:00",
+  "LastChanged_Achievements": "2024-01-01T03:05:01.9918537+00:00",
   "LastUpdate_AppInfo": "2023-12-30T17:56:59.176771+00:00",
-  "LastUpdate_Ratings": "2024-01-01T01:54:28.7349201+00:00",
-  "LastUpdate_Achievements": "2024-01-01T02:00:10.6246375+00:00"
+  "LastUpdate_Ratings": "2024-01-01T02:58:42.531145+00:00",
+  "LastUpdate_Achievements": "2024-01-01T03:05:01.991911+00:00"
 }

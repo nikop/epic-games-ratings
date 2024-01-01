@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~709 |
+| Malpractice Assurance | 12.00% | ~710 |
 | Lost and Found | 7.00% | ~414 |
 | Autodidact | 6.00% | ~7,863 |
 | This guy... again? | 6.00% | ~355 |
@@ -27,7 +27,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 4.00% | ~5,242 |
 | A Place to Lay Your Head | 4.00% | ~5,242 |
 | FNG | 4.00% | ~5,242 |
-| Friends 'Til the End | 4.00% | ~236 |
+| Friends 'Til the End | 4.00% | ~237 |
 | Resurrection | 3.00% | ~3,931 |
 | Unleash Hell | 3.00% | ~3,931 |
 | Funny Guy | 3.00% | ~3,931 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,042 (Ranked 90)  
+Progressed: 131,048 (Ranked 90)  
 Completed: 3 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 3 (0.00%) (Ranked 391)
 | 2023-12-29 | 130,627 | 3 |
 | 2023-12-30 | 130,838 | 3 |
 | 2023-12-31 | 131,026 | 3 |
-| 2024-01-01 | 131,042 | 3 |
+| 2024-01-01 | 131,048 | 3 |
 ## Awards
 Max (Character Customization): 7,910  (Ranked 50)  
 Sum: 21,298 (Ranked 58)  

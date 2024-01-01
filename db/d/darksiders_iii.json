@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -458,7 +458,7 @@
   ],
   "EOS_Progressed": 345,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -1794,9 +1794,9 @@
       "ID": "Save_Usiel_No_Kill",
       "SetID": "7a5k76n",
       "Name": "For Whom the Bell Tolls",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 93
     },
     {
       "ID": "Spend_AttributePoint_1",
@@ -1866,8 +1866,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-29T15:59:12.0320887+00:00",
-  "LastChanged_Achievements": "2024-01-01T02:01:13.8829354+00:00",
+  "LastChanged_Achievements": "2024-01-01T03:06:29.17384+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-01T01:56:51.9715634+00:00",
-  "LastUpdate_Achievements": "2024-01-01T02:01:13.8829908+00:00"
+  "LastUpdate_Ratings": "2024-01-01T03:02:54.0921633+00:00",
+  "LastUpdate_Achievements": "2024-01-01T03:06:29.1738843+00:00"
 }

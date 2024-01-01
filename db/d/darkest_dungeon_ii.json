@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10374,9 +10374,9 @@
       "Count": 1071
     }
   ],
-  "EOS_Progressed": 131042,
+  "EOS_Progressed": 131048,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1347,
+  "EOS_NewPlayers": 1339,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37749,6 +37749,11 @@
       "Time": "2024-01-01T02:05:35.5319359+00:00",
       "NumProgressed": 131042,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T03:10:27.1981045+00:00",
+      "NumProgressed": 131048,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38296,7 +38301,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "combat_kill_collector",
@@ -38368,7 +38373,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -38391,21 +38396,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131042,
+      "Progressed": 131048,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5911,
+      "Progressed": 5917,
       "Completed": 820
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-01T01:54:21.4310511+00:00",
-  "LastChanged_Achievements": "2024-01-01T02:05:35.5319356+00:00",
+  "LastChanged_Achievements": "2024-01-01T03:10:27.1981042+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-01T01:54:21.4310517+00:00",
-  "LastUpdate_Achievements": "2024-01-01T02:05:35.5320959+00:00"
+  "LastUpdate_Ratings": "2024-01-01T02:58:30.9272764+00:00",
+  "LastUpdate_Achievements": "2024-01-01T03:10:27.1983247+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -323,9 +323,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3862,
+  "EOS_Progressed": 3863,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7578,6 +7578,11 @@
       "Time": "2024-01-01T02:01:51.9669723+00:00",
       "NumProgressed": 3862,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T03:07:22.1922968+00:00",
+      "NumProgressed": 3863,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7685,7 +7690,7 @@
       "Name": "Sustainable Energy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_BASE_23",
@@ -7701,7 +7706,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "ACH_BASE_25",
@@ -7725,7 +7730,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "ACH_BASE_28",
@@ -7757,7 +7762,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "ACH_BASE_31",
@@ -7797,7 +7802,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "ACH_BASE_36",
@@ -7949,7 +7954,7 @@
       "Name": "Pedal to the Metal",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_BASE_58",
@@ -8044,13 +8049,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2046,
+      "Progressed": 2047,
       "Completed": 10
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3862,
+      "Progressed": 3863,
       "Completed": 0
     }
   ],
@@ -8058,8 +8063,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2024-01-01T02:01:51.9669721+00:00",
+  "LastChanged_Achievements": "2024-01-01T03:07:22.1922965+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:27.7465752+00:00",
-  "LastUpdate_Ratings": "2024-01-01T01:58:55.0188978+00:00",
-  "LastUpdate_Achievements": "2024-01-01T02:01:51.9670432+00:00"
+  "LastUpdate_Ratings": "2024-01-01T03:03:11.2982907+00:00",
+  "LastUpdate_Achievements": "2024-01-01T03:07:22.192378+00:00"
 }

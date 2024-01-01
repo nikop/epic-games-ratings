@@ -9179,18 +9179,24 @@
       "Rating": 4.06,
       "NumberOfAwards": 33212,
       "NumberOfAwardsMax": 5720
+    },
+    {
+      "Time": "2024-01-01T02:57:42.0089306+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33218,
+      "NumberOfAwardsMax": 5726
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33212,
-  "NumberOfAwardsMax": 5720,
+  "NumberOfAwards": 33218,
+  "NumberOfAwardsMax": 5726,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5720
+      "Count": 5726
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9229,10 +9235,10 @@
       "Count": 3614
     }
   ],
-  "EOS_Progressed": 248718,
-  "EOS_Completed": 2581,
-  "EOS_NewPlayers": 4410,
-  "EOS_NewCompleters": 21,
+  "EOS_Progressed": 248743,
+  "EOS_Completed": 2582,
+  "EOS_NewPlayers": 4421,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -38149,6 +38155,11 @@
       "Time": "2024-01-01T02:06:12.4062463+00:00",
       "NumProgressed": 248718,
       "NumCompleted": 2581
+    },
+    {
+      "Time": "2024-01-01T03:11:15.0766823+00:00",
+      "NumProgressed": 248743,
+      "NumCompleted": 2582
     }
   ],
   "TotalAchievements": 546,
@@ -38528,7 +38539,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2238
+      "UsersEstimate": 2239
     },
     {
       "ID": "objective_completed_110",
@@ -42518,30 +42529,30 @@
       "ID": "objective_completed_865",
       "SetID": "415jc5c",
       "Name": "Mind Spike",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 645
+      "UsersEstimate": 860
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 214992,
+      "Progressed": 215017,
       "Completed": 4112
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 248718,
-      "Completed": 2581
+      "Progressed": 248743,
+      "Completed": 2582
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-12-31T15:56:59.5549652+00:00",
-  "LastChanged_Achievements": "2024-01-01T02:06:12.406246+00:00",
+  "LastChanged": "2024-01-01T02:57:42.0089305+00:00",
+  "LastChanged_Achievements": "2024-01-01T03:11:15.0766821+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-01T01:53:47.4348097+00:00",
-  "LastUpdate_Achievements": "2024-01-01T02:06:12.4086489+00:00"
+  "LastUpdate_Ratings": "2024-01-01T02:57:42.0089314+00:00",
+  "LastUpdate_Achievements": "2024-01-01T03:11:15.079102+00:00"
 }

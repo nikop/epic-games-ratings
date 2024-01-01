@@ -167,9 +167,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16206,
+  "EOS_Progressed": 16208,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 403,
+  "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5507,6 +5507,11 @@
       "Time": "2024-01-01T02:05:28.5032459+00:00",
       "NumProgressed": 16206,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-01T03:10:17.4801954+00:00",
+      "NumProgressed": 16208,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -5519,7 +5524,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 6158
+      "UsersEstimate": 6159
     },
     {
       "ID": "ACH_AE_10",
@@ -5551,7 +5556,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12154
+      "UsersEstimate": 12156
     },
     {
       "ID": "ACH_AE_14",
@@ -5559,7 +5564,7 @@
       "Name": "Sticky Situation",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 3079
+      "UsersEstimate": 3080
     },
     {
       "ID": "ACH_AE_15",
@@ -5567,7 +5572,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3565
+      "UsersEstimate": 3566
     },
     {
       "ID": "ACH_AE_16",
@@ -5607,7 +5612,7 @@
       "Name": "Back to School",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3889
+      "UsersEstimate": 3890
     },
     {
       "ID": "ACH_AE_20",
@@ -5631,7 +5636,7 @@
       "Name": "The High Road",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 3889
+      "UsersEstimate": 3890
     },
     {
       "ID": "ACH_AE_23",
@@ -5719,7 +5724,7 @@
       "Name": "Diplomat",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "ACH_AE_33",
@@ -5798,7 +5803,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16206,
+      "Progressed": 16208,
       "Completed": 15
     }
   ],
@@ -5806,8 +5811,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-27T16:00:31.0909826+00:00",
-  "LastChanged_Achievements": "2024-01-01T02:05:28.5032457+00:00",
+  "LastChanged_Achievements": "2024-01-01T03:10:17.4801947+00:00",
   "LastUpdate_AppInfo": "2023-12-26T18:57:07.3435183+00:00",
-  "LastUpdate_Ratings": "2024-01-01T01:54:18.045893+00:00",
-  "LastUpdate_Achievements": "2024-01-01T02:05:28.5032982+00:00"
+  "LastUpdate_Ratings": "2024-01-01T02:58:25.7041863+00:00",
+  "LastUpdate_Achievements": "2024-01-01T03:10:17.4802377+00:00"
 }

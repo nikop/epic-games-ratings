@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1179,
+  "EOS_Progressed": 1180,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2937,6 +2937,11 @@
       "Time": "2024-01-01T02:04:25.1464873+00:00",
       "NumProgressed": 1179,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T03:08:48.8453685+00:00",
+      "NumProgressed": 1180,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -2957,7 +2962,7 @@
       "Name": "Territorial",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -3021,7 +3026,7 @@
       "Name": "The Artefact is Mine",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "CompleteChapter12",
@@ -3109,7 +3114,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "CompleteChapter5",
@@ -3197,7 +3202,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "Win100OnlineMatched",
@@ -3244,14 +3249,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1179,
+      "Progressed": 1180,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-01T02:04:25.146487+00:00",
+  "LastChanged_Achievements": "2024-01-01T03:08:48.8453682+00:00",
   "LastUpdate_AppInfo": "2023-12-29T09:57:13.5043463+00:00",
-  "LastUpdate_Ratings": "2024-01-01T01:54:55.6757643+00:00",
-  "LastUpdate_Achievements": "2024-01-01T02:04:25.1465305+00:00"
+  "LastUpdate_Ratings": "2024-01-01T02:59:21.7030496+00:00",
+  "LastUpdate_Achievements": "2024-01-01T03:08:48.8454026+00:00"
 }

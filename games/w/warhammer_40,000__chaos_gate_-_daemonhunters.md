@@ -7,19 +7,19 @@ Number of Ratings: 371  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Executioner | 17.00% | ~627 |
-| Look Over There! | 13.00% | ~479 |
-| Watch Where You Step... | 13.00% | ~479 |
-| Not So Fast... | 12.00% | ~442 |
-| An Ill Omen | 12.00% | ~442 |
+| Look Over There! | 13.00% | ~480 |
+| Watch Where You Step... | 13.00% | ~480 |
+| Not So Fast... | 12.00% | ~443 |
+| An Ill Omen | 12.00% | ~443 |
 | Purging Spree | 9.00% | ~332 |
 | Blood for the Blood God! | 8.00% | ~295 |
 | Bloodless | 7.00% | ~258 |
 | Surgical Excision | 5.00% | ~184 |
 | Friendly Fire | 5.00% | ~184 |
-| Honoured Battle-Brother | 4.00% | ~147 |
-| The Emperor Protects | 4.00% | ~147 |
-| Gunmaster | 4.00% | ~147 |
-| A Foul Creche | 4.00% | ~147 |
+| Honoured Battle-Brother | 4.00% | ~148 |
+| The Emperor Protects | 4.00% | ~148 |
+| Gunmaster | 4.00% | ~148 |
+| A Foul Creche | 4.00% | ~148 |
 | Hold Your Ground | 3.00% | ~111 |
 | Nemesis Master | 3.00% | ~111 |
 | Just a Scratch | 3.00% | ~111 |
@@ -42,7 +42,7 @@ Number of Ratings: 371  (23.09.2022)
 | For the Machine God | 0.90% | ~33 |
 | Engine Kill | 0.90% | ~33 |
 | Death Comes For All | 0.90% | ~33 |
-| Harvest No More | 0.80% | ~29 |
+| Harvest No More | 0.80% | ~30 |
 | Hands-On Research | 0.70% | ~26 |
 | True Mastery | 0.70% | ~26 |
 | Strike Force | 0.60% | ~22 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,686 (Ranked 216)  
+Progressed: 3,689 (Ranked 216)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-29 | 3,644 | 0 |
 | 2023-12-30 | 3,663 | 0 |
 | 2023-12-31 | 3,685 | 0 |
-| 2024-01-01 | 3,686 | 0 |
+| 2024-01-01 | 3,689 | 0 |
 ## Awards
 Max (Character Customization): 232  (Ranked 282)  
 Sum: 493 (Ranked 335)  

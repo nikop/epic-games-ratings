@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -3795,9 +3795,9 @@
       "ID": "EV_ACH18",
       "SetID": "6jeac23",
       "Name": "Snowy Poro",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 452
     },
     {
       "ID": "EV_ACH19",
@@ -4020,8 +4020,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-25T19:59:38.6529887+00:00",
-  "LastChanged_Achievements": "2024-01-01T02:06:06.5473641+00:00",
+  "LastChanged_Achievements": "2024-01-01T03:11:08.0807106+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.1823177+00:00",
-  "LastUpdate_Ratings": "2024-01-01T01:55:41.5790578+00:00",
-  "LastUpdate_Achievements": "2024-01-01T02:06:06.5474313+00:00"
+  "LastUpdate_Ratings": "2024-01-01T03:00:29.4437569+00:00",
+  "LastUpdate_Achievements": "2024-01-01T03:11:08.0807824+00:00"
 }

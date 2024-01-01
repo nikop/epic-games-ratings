@@ -21,7 +21,7 @@ Rating: 4.67 (Ranked 283)
 | The Ascent | 59.00% | ~401 |
 | It's Warm and Cozy at Home | 59.00% | ~401 |
 | Trap Master | 56.00% | ~381 |
-| Minions, Minions! | 55.00% | ~374 |
+| Minions, Minions! | 56.00% | ~381 |
 | Hard Work | 54.00% | ~367 |
 | The Big Eaty | 54.00% | ~367 |
 | YOU SHALL NOT PASS! | 51.00% | ~347 |
@@ -37,7 +37,7 @@ Rating: 4.67 (Ranked 283)
 | Unstoppable Horde | 35.00% | ~238 |
 | If Looks Could Kill | 35.00% | ~238 |
 | Master of the Undead | 34.00% | ~231 |
-| The Finitude Drill | 32.00% | ~218 |
+| The Finitude Drill | 33.00% | ~224 |
 | Ghost Pirates? Ghost Heroes! | 30.00% | ~204 |
 | Doom Hill | 30.00% | ~204 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~190 |
@@ -59,8 +59,8 @@ Rating: 4.67 (Ranked 283)
 | To the Max! | 18.00% | ~122 |
 | Evilification | 17.00% | ~116 |
 | Mirror, Mirror | 16.00% | ~109 |
+| Untouchable | 16.00% | ~109 |
 | Heal Heal Blessing | 16.00% | ~109 |
-| Untouchable | 15.00% | ~102 |
 | Laser Eyes Are So Useless | 14.00% | ~95 |
 | Hands Off My Stones | 13.00% | ~88 |
 | Gorgu is in the Best of Health | 12.00% | ~82 |

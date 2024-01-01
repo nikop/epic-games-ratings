@@ -8,7 +8,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 3.00% | ~7,462 |
 | The Cursed Farmer | 1.00% | ~2,487 |
-| Beast Intentions | 0.90% | ~2,238 |
+| Beast Intentions | 0.90% | ~2,239 |
 | The Mad Wizard | 0.80% | ~1,990 |
 | Welcome to Sigil | 0.70% | ~1,505 |
 | Fast Food | 0.60% | ~1,290 |
@@ -21,6 +21,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flames of Avernus | 0.40% | ~860 |
 | Mental Gymnastics | 0.40% | ~860 |
 | Don't Lose Your Head | 0.40% | ~860 |
+| Mind Spike | 0.40% | ~860 |
 | A Persistent Buzzing | 0.30% | ~746 |
 | Mad Cow Disease | 0.30% | ~746 |
 | Friendly Imps | 0.30% | ~746 |
@@ -29,7 +30,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to the Vrocks | 0.30% | ~645 |
 | Misaligned in Sigil | 0.30% | ~645 |
 | Chaos Theory | 0.30% | ~645 |
-| Mind Spike | 0.30% | ~645 |
 | Maddening | 0.20% | ~497 |
 | Beast Mode | 0.20% | ~497 |
 | Terror in the Dark | 0.20% | ~497 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~215 |
 | The Brains of an Illithid's Desire | 0.10% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,718 (Ranked 69)  
-Completed: 2,581 (1.04%) (Ranked 170)  
+Progressed: 248,743 (Ranked 69)  
+Completed: 2,582 (1.04%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -809,14 +809,14 @@ Completed: 2,581 (1.04%) (Ranked 170)
 | 2023-12-29 | 247,120 | 2,575 |
 | 2023-12-30 | 247,917 | 2,578 |
 | 2023-12-31 | 248,665 | 2,581 |
-| 2024-01-01 | 248,718 | 2,581 |
+| 2024-01-01 | 248,743 | 2,582 |
 ## Awards
-Max (Great for Beginners): 5,720  (Ranked 71)  
-Sum: 33,212 (Ranked 41)  
+Max (Great for Beginners): 5,726  (Ranked 71)  
+Sum: 33,218 (Ranked 41)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 5,720 |
+| This game is Great for Beginners | 5,726 |
 | This game has Diverse Characters | 5,665 |
 | This game has Quickly Understood Controls | 4,877 |
 | This game is Relaxing | 4,752 |
@@ -1166,3 +1166,4 @@ Diff (max vs sum): 30
 | 2023-12-29 | 4.06 | - | 5,715 | 33,183 |
 | 2023-12-30 | 4.06 | - | 5,720 | 33,198 |
 | 2023-12-31 | 4.06 | - | 5,720 | 33,212 |
+| 2024-01-01 | 4.06 | - | 5,726 | 33,218 |

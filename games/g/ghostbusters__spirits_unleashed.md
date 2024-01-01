@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 612)  
+Rating: 4.50 (Ranked 613)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,12 +15,12 @@ Rating: 4.50 (Ranked 612)
 | Fully Upgraded | 5.00% | ~1,652 |
 | Teamwork | 5.00% | ~1,652 |
 | Vaporous Expansion | 5.00% | ~1,652 |
-| Clutch Capture | 4.00% | ~1,321 |
-| Cultured | 4.00% | ~1,321 |
-| Daily Dose | 4.00% | ~1,321 |
-| Ghostbuster In Training | 4.00% | ~1,321 |
-| There you are! | 4.00% | ~1,321 |
-| Whoopsie | 4.00% | ~1,321 |
+| Clutch Capture | 4.00% | ~1,322 |
+| Cultured | 4.00% | ~1,322 |
+| Daily Dose | 4.00% | ~1,322 |
+| Ghostbuster In Training | 4.00% | ~1,322 |
+| There you are! | 4.00% | ~1,322 |
+| Whoopsie | 4.00% | ~1,322 |
 | Animated | 3.00% | ~991 |
 | Back Off | 3.00% | ~991 |
 | We have the best insurance | 3.00% | ~991 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 612)
 | Ultimate Defense | 0.20% | ~66 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,035 (Ranked 135)  
+Progressed: 33,040 (Ranked 135)  
 Completed: 71 (0.21%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 71 (0.21%) (Ranked 269)
 | 2023-12-29 | 32,915 | 71 |
 | 2023-12-30 | 32,969 | 71 |
 | 2023-12-31 | 33,028 | 71 |
-| 2024-01-01 | 33,035 | 71 |
+| 2024-01-01 | 33,040 | 71 |
 ## Awards
 Max (Great for Beginners): 326  (Ranked 254)  
 Sum: 2,943 (Ranked 185)  

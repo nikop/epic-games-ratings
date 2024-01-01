@@ -9,16 +9,16 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 10.00% | ~14,873 |
 | Titan's First Steps | 10.00% | ~14,873 |
 | Basic in Bulk | 9.00% | ~13,386 |
-| Tinkle of Coins | 8.00% | ~11,898 |
+| Tinkle of Coins | 8.00% | ~11,899 |
 | Disintermediation | 7.00% | ~10,411 |
 | Capitalism Ho! | 7.00% | ~10,411 |
 | It's Free Real Estate | 6.00% | ~8,924 |
 | Budding Merchant | 6.00% | ~8,924 |
-| One Easy Payment | 5.00% | ~7,436 |
-| Some Assembly Required | 5.00% | ~7,436 |
-| Another Satisfied Customer | 5.00% | ~7,436 |
-| Pretty Penny | 5.00% | ~7,436 |
-| Own the Means of Production | 5.00% | ~7,436 |
+| One Easy Payment | 5.00% | ~7,437 |
+| Some Assembly Required | 5.00% | ~7,437 |
+| Another Satisfied Customer | 5.00% | ~7,437 |
+| Pretty Penny | 5.00% | ~7,437 |
+| Own the Means of Production | 5.00% | ~7,437 |
 | The Daily Grind | 4.00% | ~5,949 |
 | Bounty Hunters | 4.00% | ~5,949 |
 | Demand for Supplies | 4.00% | ~5,949 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~595 |
 | Capitalist Camaraderie | 0.20% | ~297 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,730 (Ranked 86)  
+Progressed: 148,732 (Ranked 86)  
 Completed: 340 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -375,17 +375,17 @@ Completed: 340 (0.23%) (Ranked 267)
 | 2023-12-29 | 148,353 | 338 |
 | 2023-12-30 | 148,534 | 340 |
 | 2023-12-31 | 148,713 | 340 |
-| 2024-01-01 | 148,730 | 340 |
+| 2024-01-01 | 148,732 | 340 |
 ## Awards
 Max (Great for Beginners): 4,934  (Ranked 78)  
-Sum: 27,878 (Ranked 51)  
+Sum: 27,883 (Ranked 51)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,934 |
 | This game is Relaxing | 4,069 |
 | This game has Quickly Understood Controls | 4,063 |
-| This game has Diverse Characters | 4,008 |
+| This game has Diverse Characters | 4,013 |
 | This game is Highly Recommended | 3,808 |
 | This game has Easy Combat | 3,762 |
 | This game has Playful Visuals | 3,234 |
@@ -728,3 +728,4 @@ Diff (max vs sum): 27
 | 2023-12-29 | 3.99 | - | 4,925 | 27,858 |
 | 2023-12-30 | 3.99 | - | 4,931 | 27,871 |
 | 2023-12-31 | 3.99 | - | 4,934 | 27,878 |
+| 2024-01-01 | 3.99 | - | 4,934 | 27,883 |

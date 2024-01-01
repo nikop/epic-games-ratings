@@ -23,7 +23,7 @@
 | Depths of the well | 27.00% | ~63 |
 | Children | 23.00% | ~54 |
 | Huge Snail | 15.00% | ~35 |
-| Flower of hope | 14.00% | ~33 |
+| Flower of hope | 15.00% | ~35 |
 | Friend | 12.00% | ~28 |
 | Old kettle | 12.00% | ~28 |
 | Back Home | 11.00% | ~26 |

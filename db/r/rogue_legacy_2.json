@@ -1548,7 +1548,7 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27360,
+  "EOS_Progressed": 27363,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 726,
   "EOS_NewCompleters": 0,
@@ -12573,6 +12573,11 @@
       "Time": "2024-01-01T02:05:53.6513314+00:00",
       "NumProgressed": 27360,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-01T03:10:51.8540306+00:00",
+      "NumProgressed": 27363,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -12648,7 +12653,7 @@
       "Name": "Captain and Crew",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -12742,9 +12747,9 @@
       "ID": "BossStudyDefeated",
       "SetID": "3ojhj46",
       "Name": "Poise and Poisons",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 821
+      "UsersEstimate": 547
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -12776,7 +12781,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "EndTimerFail",
@@ -12895,21 +12900,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27360,
+      "Progressed": 27363,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6290,
+      "Progressed": 6293,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-31T13:02:19.9867054+00:00",
-  "LastChanged_Achievements": "2024-01-01T02:05:53.6513312+00:00",
+  "LastChanged_Achievements": "2024-01-01T03:10:51.8540303+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.0569835+00:00",
-  "LastUpdate_Ratings": "2024-01-01T01:56:49.6189279+00:00",
-  "LastUpdate_Achievements": "2024-01-01T02:05:53.6514342+00:00"
+  "LastUpdate_Ratings": "2024-01-01T03:02:50.551383+00:00",
+  "LastUpdate_Achievements": "2024-01-01T03:10:51.8541189+00:00"
 }

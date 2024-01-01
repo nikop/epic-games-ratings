@@ -5,20 +5,20 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | All Starts Here | 96.00% | ~324 |
-| Road to Improvement | 73.00% | ~246 |
+| Road to Improvement | 73.00% | ~247 |
 | Wonderful World | 59.00% | ~199 |
-| Second Wind | 58.00% | ~195 |
-| Chain of Events | 58.00% | ~195 |
+| Second Wind | 58.00% | ~196 |
+| Chain of Events | 57.00% | ~193 |
 | Change of Heart | 56.00% | ~189 |
 | Turbulence | 37.00% | ~125 |
 | Endless Possibilities | 37.00% | ~125 |
 | Finding The Way | 24.00% | ~81 |
-| Tangibility | 20.00% | ~67 |
+| Tangibility | 20.00% | ~68 |
 | Around The World | 19.00% | ~64 |
 | On The Right Path | 18.00% | ~61 |
 | Bigger Picture | 16.00% | ~54 |
 | Sunset | 13.00% | ~44 |
-| Spring Air | 12.00% | ~40 |
+| Spring Air | 12.00% | ~41 |
 | Alive | 9.00% | ~30 |
 | Cut The Air | 9.00% | ~30 |
 | What Are The Chances? | 9.00% | ~30 |
@@ -29,14 +29,14 @@
 | Through The Vines | 6.00% | ~20 |
 | Under And Over | 6.00% | ~20 |
 | All The Pieces | 5.00% | ~17 |
-| Take 'em For a Spin | 4.00% | ~13 |
-| Parallelogram | 4.00% | ~13 |
+| Take 'em For a Spin | 4.00% | ~14 |
+| Parallelogram | 4.00% | ~14 |
 | Welcome to The Jungle | 3.00% | ~10 |
 | Squeeze Through | 2.00% | ~7 |
 | In Love | 1.00% | ~3 |
 | Survivor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 337 (Ranked 378)  
+Progressed: 338 (Ranked 378)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,6 +64,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-20 | 335 | 0 |
 | 2023-12-22 | 336 | 0 |
 | 2023-12-24 | 337 | 0 |
+| 2024-01-01 | 338 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

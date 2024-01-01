@@ -5,27 +5,27 @@ Rating: 4.20 (Ranked 952)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,123 |
-| Battlefields Have Memories | 80.00% | ~1,930 |
-| Enlisted | 74.00% | ~1,786 |
-| Maybe Engage a Little | 68.00% | ~1,641 |
-| No More Names | 51.00% | ~1,231 |
-| Initiate | 36.00% | ~869 |
-| Thrada-Kul | 32.00% | ~772 |
-| Gravity-Challenged Rocks | 26.00% | ~627 |
-| Socialite | 23.00% | ~555 |
-| Soldier | 22.00% | ~531 |
-| All the Major Food Groups | 22.00% | ~531 |
+| Unforeseen | 88.00% | ~2,126 |
+| Battlefields Have Memories | 81.00% | ~1,957 |
+| Enlisted | 74.00% | ~1,788 |
+| Maybe Engage a Little | 68.00% | ~1,643 |
+| No More Names | 51.00% | ~1,232 |
+| Initiate | 36.00% | ~870 |
+| Thrada-Kul | 32.00% | ~773 |
+| Gravity-Challenged Rocks | 26.00% | ~628 |
+| Socialite | 23.00% | ~556 |
+| Soldier | 22.00% | ~532 |
+| All the Major Food Groups | 22.00% | ~532 |
 | Beggars Would Ride | 20.00% | ~483 |
-| Control is an Illusion | 18.00% | ~434 |
-| The Means to Save It | 16.00% | ~386 |
+| Control is an Illusion | 18.00% | ~435 |
+| The Means to Save It | 16.00% | ~387 |
 | Resilience to Sin | 14.00% | ~338 |
 | A Familiar Nest | 14.00% | ~338 |
 | Geas Aristeya | 13.00% | ~314 |
 | Periapt Alizarin | 13.00% | ~314 |
 | A Perfect Cycle | 12.00% | ~290 |
 | Recruit | 12.00% | ~290 |
-| Armsman | 10.00% | ~241 |
+| Armsman | 10.00% | ~242 |
 | Lights Army | 8.00% | ~193 |
 | Periapt Cerulean | 7.00% | ~169 |
 | Periapt Viridian | 6.00% | ~145 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 952)
 | Out of Time | 0.20% | ~5 |
 | Fowl Play | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,413 (Ranked 232)  
+Progressed: 2,416 (Ranked 233)  
 Completed: 2 (0.08%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 2 (0.08%) (Ranked 317)
 | 2023-12-29 | 2,236 | 2 |
 | 2023-12-30 | 2,327 | 2 |
 | 2023-12-31 | 2,400 | 2 |
-| 2024-01-01 | 2,413 | 2 |
+| 2024-01-01 | 2,416 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

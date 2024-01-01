@@ -5,9 +5,9 @@ Rating: 4.27 (Ranked 894)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,919 |
+| Rigged And Ready | 79.00% | ~1,920 |
 | Don't I Know You...? | 75.00% | ~1,822 |
-| Jailbreak | 65.00% | ~1,579 |
+| Jailbreak | 65.00% | ~1,580 |
 | Suited and Booted | 38.00% | ~923 |
 | HEADSHOT! | 37.00% | ~899 |
 | Sleeping With The Fishes | 35.00% | ~850 |
@@ -16,8 +16,8 @@ Rating: 4.27 (Ranked 894)
 | Powered Up | 28.00% | ~680 |
 | Studied The Blade | 24.00% | ~583 |
 | Home Invasion | 23.00% | ~559 |
-| Luminary | 22.00% | ~534 |
-| It's a Trap | 22.00% | ~534 |
+| Luminary | 22.00% | ~535 |
+| It's a Trap | 22.00% | ~535 |
 | True Survivor | 21.00% | ~510 |
 | Offensive Defense | 20.00% | ~486 |
 | Shocking | 20.00% | ~486 |
@@ -32,9 +32,9 @@ Rating: 4.27 (Ranked 894)
 | Where It All Began | 13.00% | ~316 |
 | Risk Tolerant | 13.00% | ~316 |
 | What A Catchy Song | 13.00% | ~316 |
-| Corrupted Beauty | 12.00% | ~291 |
-| Marked For Success | 12.00% | ~291 |
-| Sorry, Didn't See You There | 12.00% | ~291 |
+| Corrupted Beauty | 12.00% | ~292 |
+| Marked For Success | 12.00% | ~292 |
+| Sorry, Didn't See You There | 12.00% | ~292 |
 | Stimulating The Local Economy | 10.00% | ~243 |
 | Triplets | 10.00% | ~243 |
 | Denying Prophecy | 9.00% | ~219 |
@@ -46,10 +46,10 @@ Rating: 4.27 (Ranked 894)
 | Remote Surgery | 6.00% | ~146 |
 | Turbo Booster | 6.00% | ~146 |
 | Squid Pro Quo | 6.00% | ~146 |
-| Hello Darkness My Old Friend | 5.00% | ~121 |
-| Counter-Sniper | 5.00% | ~121 |
-| Shrimp Cocktail | 5.00% | ~121 |
-| Juiced Up | 5.00% | ~121 |
+| Hello Darkness My Old Friend | 5.00% | ~122 |
+| Counter-Sniper | 5.00% | ~122 |
+| Shrimp Cocktail | 5.00% | ~122 |
+| Juiced Up | 5.00% | ~122 |
 | Geronimo! | 4.00% | ~97 |
 | Plank of Wood | 4.00% | ~97 |
 | Gotta Craft 'em All | 3.00% | ~73 |
@@ -63,8 +63,8 @@ Rating: 4.27 (Ranked 894)
 | Three Birds With One Stone | 1.00% | ~24 |
 | The Easy Way Out | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,429 (Ranked 230)  
-Completed: 13 (0.54%) (Ranked 212)  
+Progressed: 2,430 (Ranked 230)  
+Completed: 13 (0.53%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -256,7 +256,7 @@ Completed: 13 (0.54%) (Ranked 212)
 | 2023-12-29 | 2,408 | 13 |
 | 2023-12-30 | 2,418 | 13 |
 | 2023-12-31 | 2,428 | 13 |
-| 2024-01-01 | 2,429 | 13 |
+| 2024-01-01 | 2,430 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

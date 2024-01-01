@@ -5343,7 +5343,7 @@
       "Count": 531
     }
   ],
-  "EOS_Progressed": 92815,
+  "EOS_Progressed": 92817,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 335,
   "EOS_NewCompleters": 0,
@@ -29898,6 +29898,11 @@
       "Time": "2024-01-01T01:59:57.6047189+00:00",
       "NumProgressed": 92815,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-01T03:04:42.2206595+00:00",
+      "NumProgressed": 92817,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -29909,7 +29914,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2784
+      "UsersEstimate": 2785
     },
     {
       "ID": "ACH_0011",
@@ -30077,7 +30082,7 @@
       "Name": "Too Old for This",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2784
+      "UsersEstimate": 2785
     },
     {
       "ID": "ACH_0300",
@@ -30141,7 +30146,7 @@
       "Name": "Fancy Pants",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2784
+      "UsersEstimate": 2785
     },
     {
       "ID": "ACH_0431",
@@ -30236,13 +30241,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92815,
+      "Progressed": 92817,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21162,
+      "Progressed": 21164,
       "Completed": 15593
     }
   ],
@@ -30250,8 +30255,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-12-31T23:59:34.6854262+00:00",
-  "LastChanged_Achievements": "2024-01-01T01:59:57.6047186+00:00",
+  "LastChanged_Achievements": "2024-01-01T03:04:42.220659+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:43.6008036+00:00",
-  "LastUpdate_Ratings": "2024-01-01T01:56:04.5086749+00:00",
-  "LastUpdate_Achievements": "2024-01-01T01:59:57.6048256+00:00"
+  "LastUpdate_Ratings": "2024-01-01T03:01:03.7330386+00:00",
+  "LastUpdate_Achievements": "2024-01-01T03:04:42.2208061+00:00"
 }

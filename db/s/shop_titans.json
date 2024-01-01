@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7841,10 +7841,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27878,
       "NumberOfAwardsMax": 4934
+    },
+    {
+      "Time": "2024-01-01T03:03:46.261205+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27883,
+      "NumberOfAwardsMax": 4934
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27878,
+  "NumberOfAwards": 27883,
   "NumberOfAwardsMax": 4934,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7858,7 +7864,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4008
+      "Count": 4013
     },
     {
       "Text": "This game is Great for Beginners",
@@ -7897,7 +7903,7 @@
       "Count": 3808
     }
   ],
-  "EOS_Progressed": 148730,
+  "EOS_Progressed": 148732,
   "EOS_Completed": 340,
   "EOS_NewPlayers": 1260,
   "EOS_NewCompleters": 7,
@@ -34797,6 +34803,11 @@
       "Time": "2024-01-01T02:01:27.0938533+00:00",
       "NumProgressed": 148730,
       "NumCompleted": 340
+    },
+    {
+      "Time": "2024-01-01T03:06:48.3821763+00:00",
+      "NumProgressed": 148732,
+      "NumCompleted": 340
     }
   ],
   "TotalAchievements": 112,
@@ -34888,7 +34899,7 @@
       "Name": "One Easy Payment",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7436
+      "UsersEstimate": 7437
     },
     {
       "ID": "bigsale02",
@@ -34912,7 +34923,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7436
+      "UsersEstimate": 7437
     },
     {
       "ID": "blueprint02",
@@ -35160,7 +35171,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7436
+      "UsersEstimate": 7437
     },
     {
       "ID": "energy02",
@@ -35280,7 +35291,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11898
+      "UsersEstimate": 11899
     },
     {
       "ID": "gold02",
@@ -35288,7 +35299,7 @@
       "Name": "Pretty Penny",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7436
+      "UsersEstimate": 7437
     },
     {
       "ID": "gold03",
@@ -35672,7 +35683,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7436
+      "UsersEstimate": 7437
     },
     {
       "ID": "workers02",
@@ -35703,15 +35714,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 148730,
+      "Progressed": 148732,
       "Completed": 340
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-12-31T17:03:14.9841463+00:00",
-  "LastChanged_Achievements": "2024-01-01T02:01:27.093853+00:00",
+  "LastChanged": "2024-01-01T03:03:46.2612048+00:00",
+  "LastChanged_Achievements": "2024-01-01T03:06:48.3821758+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.6407181+00:00",
-  "LastUpdate_Ratings": "2024-01-01T01:59:19.0834826+00:00",
-  "LastUpdate_Achievements": "2024-01-01T02:01:27.0940729+00:00"
+  "LastUpdate_Ratings": "2024-01-01T03:03:46.2612055+00:00",
+  "LastUpdate_Achievements": "2024-01-01T03:06:48.3824363+00:00"
 }

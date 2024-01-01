@@ -2,13 +2,13 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 574,
+  "Ranking_Rating": 589,
   "Ranking_Popularity": 317,
   "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.52,
+  "Rating": 4.51,
   "RatingHistory": [
     {
       "Time": "2023-02-21T16:57:02.7003964+00:00",
@@ -1019,6 +1019,12 @@
       "Rating": 4.52,
       "NumberOfAwards": 168,
       "NumberOfAwardsMax": 168
+    },
+    {
+      "Time": "2024-01-01T03:01:19.7556217+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 168,
+      "NumberOfAwardsMax": 168
     }
   ],
   "ReviewsDisabled": false,
@@ -1033,9 +1039,9 @@
       "Count": 168
     }
   ],
-  "EOS_Progressed": 14872,
+  "EOS_Progressed": 14874,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 996,
+  "EOS_NewPlayers": 993,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -16553,6 +16559,11 @@
       "Time": "2024-01-01T02:05:39.9683628+00:00",
       "NumProgressed": 14872,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2024-01-01T03:10:33.1695103+00:00",
+      "NumProgressed": 14874,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 34,
@@ -16668,7 +16679,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6246
+      "UsersEstimate": 6247
     },
     {
       "ID": "ACH15",
@@ -16692,7 +16703,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "ACH18",
@@ -16724,7 +16735,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 6841
+      "UsersEstimate": 6842
     },
     {
       "ID": "ACH22",
@@ -16732,7 +16743,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2974
+      "UsersEstimate": 2975
     },
     {
       "ID": "ACH23",
@@ -16835,16 +16846,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 14872,
+      "Progressed": 14874,
       "Completed": 84
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2023-12-31T02:24:57.6245262+00:00",
-  "LastChanged_Achievements": "2024-01-01T02:05:39.9683626+00:00",
+  "LastChanged": "2024-01-01T03:01:19.7556215+00:00",
+  "LastChanged_Achievements": "2024-01-01T03:10:33.16951+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:48.9246276+00:00",
-  "LastUpdate_Ratings": "2024-01-01T01:56:15.4068241+00:00",
-  "LastUpdate_Achievements": "2024-01-01T02:05:39.9684658+00:00"
+  "LastUpdate_Ratings": "2024-01-01T03:01:19.7556221+00:00",
+  "LastUpdate_Achievements": "2024-01-01T03:10:33.1696317+00:00"
 }

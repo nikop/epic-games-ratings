@@ -5,32 +5,32 @@ Rating: 4.14 (Ranked 994)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 58.00% | ~919 |
-| Trinity | 29.00% | ~460 |
+| Break Out | 59.00% | ~937 |
+| Trinity | 29.00% | ~461 |
 | The Collector | 23.00% | ~365 |
 | Find Allies | 22.00% | ~349 |
 | A Taste of Wrath | 22.00% | ~349 |
 | I Found It | 22.00% | ~349 |
 | Shatter Them All | 21.00% | ~333 |
 | Geared Up | 21.00% | ~333 |
-| Adventurer | 20.00% | ~317 |
-| Scholar | 20.00% | ~317 |
-| Fashion Victim | 19.00% | ~301 |
-| Stone Collection | 19.00% | ~301 |
-| Powerful Allies | 18.00% | ~285 |
-| Tributes of Caladrias | 18.00% | ~285 |
-| Big Bazar | 12.00% | ~190 |
-| Essence Blow | 11.00% | ~174 |
-| Alchemist | 11.00% | ~174 |
-| The Mentor | 10.00% | ~158 |
+| Adventurer | 20.00% | ~318 |
+| Scholar | 20.00% | ~318 |
+| Fashion Victim | 19.00% | ~302 |
+| Stone Collection | 19.00% | ~302 |
+| Powerful Allies | 18.00% | ~286 |
+| Tributes of Caladrias | 18.00% | ~286 |
+| Big Bazar | 12.00% | ~191 |
+| Essence Blow | 11.00% | ~175 |
+| Alchemist | 11.00% | ~175 |
+| The Mentor | 10.00% | ~159 |
 | Calm before the Storm | 7.00% | ~111 |
 | Airborne | 7.00% | ~111 |
 | To Battle | 6.00% | ~95 |
 | Godslayer | 6.00% | ~95 |
 | Miner | 6.00% | ~95 |
-| Clear Sight | 4.00% | ~63 |
-| Shatterer | 4.00% | ~63 |
-| Fine Feathers Make Fine Birds | 4.00% | ~63 |
+| Clear Sight | 4.00% | ~64 |
+| Shatterer | 4.00% | ~64 |
+| Fine Feathers Make Fine Birds | 4.00% | ~64 |
 | Slayer | 2.00% | ~32 |
 | Flawless Victory | 2.00% | ~32 |
 | All There Is | 2.00% | ~32 |
@@ -42,7 +42,7 @@ Rating: 4.14 (Ranked 994)
 | All That Gold | 0.70% | ~11 |
 | Feeling Fancy | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,585 (Ranked 259)  
+Progressed: 1,588 (Ranked 259)  
 Completed: 3 (0.19%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 3 (0.19%) (Ranked 274)
 | 2023-12-29 | 1,459 | 3 |
 | 2023-12-30 | 1,519 | 3 |
 | 2023-12-31 | 1,577 | 3 |
-| 2024-01-01 | 1,585 | 3 |
+| 2024-01-01 | 1,588 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

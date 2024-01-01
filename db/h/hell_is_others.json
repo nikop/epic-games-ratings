@@ -2,7 +2,7 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 767,
+  "Ranking_Rating": 766,
   "Ranking_Popularity": 436,
   "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 65,
@@ -1411,9 +1411,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 260057,
+  "EOS_Progressed": 260059,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 316,
+  "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25876,6 +25876,11 @@
       "Time": "2024-01-01T02:01:01.1859052+00:00",
       "NumProgressed": 260057,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T03:06:11.971903+00:00",
+      "NumProgressed": 260059,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -26087,7 +26092,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15603
+      "UsersEstimate": 15604
     },
     {
       "ID": "GrowPlants2",
@@ -26143,7 +26148,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15603
+      "UsersEstimate": 15604
     },
     {
       "ID": "KillOtherWithKatana",
@@ -26175,7 +26180,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59813
+      "UsersEstimate": 59814
     },
     {
       "ID": "KillOthers2",
@@ -26334,7 +26339,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260057,
+      "Progressed": 260059,
       "Completed": 3
     }
   ],
@@ -26342,8 +26347,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-12-31T23:57:33.3374743+00:00",
-  "LastChanged_Achievements": "2024-01-01T02:01:01.1859049+00:00",
+  "LastChanged_Achievements": "2024-01-01T03:06:11.9719026+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.7689812+00:00",
-  "LastUpdate_Ratings": "2024-01-01T01:54:05.2235654+00:00",
-  "LastUpdate_Achievements": "2024-01-01T02:01:01.1860218+00:00"
+  "LastUpdate_Ratings": "2024-01-01T02:58:06.8195519+00:00",
+  "LastUpdate_Achievements": "2024-01-01T03:06:11.9720329+00:00"
 }

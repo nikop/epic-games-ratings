@@ -562,9 +562,9 @@
       "ID": "Build_First_Lodge",
       "SetID": "7b9f97e",
       "Name": "Expansion",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Build_First_Room",
@@ -722,9 +722,9 @@
       "ID": "First_Node_Meld",
       "SetID": "7b9f97e",
       "Name": "Connected",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Harvest_First_Plant",
@@ -1123,8 +1123,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-01T02:05:27.5336729+00:00",
+  "LastChanged_Achievements": "2024-01-01T03:10:16.095611+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:20.4706393+00:00",
-  "LastUpdate_Ratings": "2024-01-01T01:55:18.7386257+00:00",
-  "LastUpdate_Achievements": "2024-01-01T02:05:27.5337302+00:00"
+  "LastUpdate_Ratings": "2024-01-01T02:59:55.7003031+00:00",
+  "LastUpdate_Achievements": "2024-01-01T03:10:16.0956805+00:00"
 }

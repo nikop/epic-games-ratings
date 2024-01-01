@@ -55,7 +55,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1585,
+  "EOS_Progressed": 1588,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 0,
@@ -3125,6 +3125,11 @@
       "Time": "2024-01-01T02:06:03.2775937+00:00",
       "NumProgressed": 1585,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T03:11:03.95283+00:00",
+      "NumProgressed": 1588,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3134,9 +3139,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 919
+      "UsersEstimate": 937
     },
     {
       "ID": "ACH_02",
@@ -3152,7 +3157,7 @@
       "Name": "Powerful Allies",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "ACH_04",
@@ -3184,7 +3189,7 @@
       "Name": "Clear Sight",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_08",
@@ -3200,7 +3205,7 @@
       "Name": "The Mentor",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_10",
@@ -3208,7 +3213,7 @@
       "Name": "Trinity",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "ACH_11",
@@ -3232,7 +3237,7 @@
       "Name": "Adventurer",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "ACH_14",
@@ -3248,7 +3253,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "ACH_16",
@@ -3256,7 +3261,7 @@
       "Name": "Essence Blow",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_17",
@@ -3264,7 +3269,7 @@
       "Name": "Shatterer",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_18",
@@ -3296,7 +3301,7 @@
       "Name": "Big Bazar",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_22",
@@ -3304,7 +3309,7 @@
       "Name": "Fine Feathers Make Fine Birds",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_23",
@@ -3328,7 +3333,7 @@
       "Name": "Fashion Victim",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ACH_26",
@@ -3336,7 +3341,7 @@
       "Name": "Scholar",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "ACH_27",
@@ -3368,7 +3373,7 @@
       "Name": "Alchemist",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_31",
@@ -3376,7 +3381,7 @@
       "Name": "Stone Collection",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ACH_33",
@@ -3423,7 +3428,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1585,
+      "Progressed": 1588,
       "Completed": 3
     }
   ],
@@ -3431,8 +3436,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-01T01:55:36.6139287+00:00",
-  "LastChanged_Achievements": "2024-01-01T02:06:03.2775935+00:00",
+  "LastChanged_Achievements": "2024-01-01T03:11:03.9528296+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2024-01-01T01:55:36.6139295+00:00",
-  "LastUpdate_Achievements": "2024-01-01T02:06:03.2776259+00:00"
+  "LastUpdate_Ratings": "2024-01-01T03:00:22.0316899+00:00",
+  "LastUpdate_Achievements": "2024-01-01T03:11:03.9528629+00:00"
 }
